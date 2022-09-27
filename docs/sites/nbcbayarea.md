@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 181 screenshots with the Internet Archive.
+The archiving routine has saved 196 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-19T10:33:44.498984-07:00.jpg">
-  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-19T10:33:44.498984-07:00.jpg"
-     alt="NBC Bay Area at 2022-09-19 10:33:46-07:00 local time"
+ <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-26T22:45:13.390648-07:00.jpg">
+  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-26T22:45:13.390648-07:00.jpg"
+     alt="NBC Bay Area at 2022-09-26 22:45:15-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-19T10:33:44.498984-07:00.jpg">September 19 at 10:33 AM</a></p>
+ <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-26T22:45:13.390648-07:00.jpg">September 26 at 10:45 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-18T23:05:49.478183-07:00.jpg">
-  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-18T23:05:49.478183-07:00.jpg"
-     alt="NBC Bay Area at 2022-09-18 23:05:50-07:00 local time"
+ <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-26T10:34:25.362213-07:00.jpg">
+  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-26T10:34:25.362213-07:00.jpg"
+     alt="NBC Bay Area at 2022-09-26 10:34:27-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-18T23:05:49.478183-07:00.jpg">September 18 at 11:05 PM</a></p>
+ <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-26T10:34:25.362213-07:00.jpg">September 26 at 10:34 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-18T10:28:22.697878-07:00.jpg">
-  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-18T10:28:22.697878-07:00.jpg"
-     alt="NBC Bay Area at 2022-09-18 10:28:27-07:00 local time"
+ <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-25T23:06:37.309376-07:00.jpg">
+  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-25T23:06:37.309376-07:00.jpg"
+     alt="NBC Bay Area at 2022-09-25 23:06:43-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-18T10:28:22.697878-07:00.jpg">September 18 at 10:28 AM</a></p>
+ <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-25T23:06:37.309376-07:00.jpg">September 25 at 11:06 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-17T22:25:17.705239-07:00.jpg">
-  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-17T22:25:17.705239-07:00.jpg"
-     alt="NBC Bay Area at 2022-09-17 22:25:18-07:00 local time"
+ <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-25T10:16:20.439864-07:00.jpg">
+  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-25T10:16:20.439864-07:00.jpg"
+     alt="NBC Bay Area at 2022-09-25 10:16:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-17T22:25:17.705239-07:00.jpg">September 17 at 10:25 PM</a></p>
+ <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-25T10:16:20.439864-07:00.jpg">September 25 at 10:16 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-17T09:00:19.934632-07:00.jpg">
-  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-17T09:00:19.934632-07:00.jpg"
-     alt="NBC Bay Area at 2022-09-17 09:00:22-07:00 local time"
+ <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-24T22:41:09.780765-07:00.jpg">
+  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-24T22:41:09.780765-07:00.jpg"
+     alt="NBC Bay Area at 2022-09-24 22:41:11-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-17T09:00:19.934632-07:00.jpg">September 17 at 9:00 AM</a></p>
+ <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-24T22:41:09.780765-07:00.jpg">September 24 at 10:41 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-16T21:34:21.765208-07:00.jpg">
-  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-16T21:34:21.765208-07:00.jpg"
-     alt="NBC Bay Area at 2022-09-16 21:34:23-07:00 local time"
+ <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-24T10:15:58.236651-07:00.jpg">
+  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-24T10:15:58.236651-07:00.jpg"
+     alt="NBC Bay Area at 2022-09-24 10:16:00-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-16T21:34:21.765208-07:00.jpg">September 16 at 9:34 PM</a></p>
+ <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-24T10:15:58.236651-07:00.jpg">September 24 at 10:16 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-16T09:05:24.425215-07:00.jpg">
-  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-16T09:05:24.425215-07:00.jpg"
-     alt="NBC Bay Area at 2022-09-16 09:05:36-07:00 local time"
+ <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-23T22:41:56.147450-07:00.jpg">
+  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-23T22:41:56.147450-07:00.jpg"
+     alt="NBC Bay Area at 2022-09-23 22:41:57-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-16T09:05:24.425215-07:00.jpg">September 16 at 9:05 AM</a></p>
+ <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-23T22:41:56.147450-07:00.jpg">September 23 at 10:41 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-15T22:27:15.227604-07:00.jpg">
-  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-15T22:27:15.227604-07:00.jpg"
-     alt="NBC Bay Area at 2022-09-15 22:27:17-07:00 local time"
+ <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-23T10:26:54.769671-07:00.jpg">
+  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-23T10:26:54.769671-07:00.jpg"
+     alt="NBC Bay Area at 2022-09-23 10:26:59-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-15T22:27:15.227604-07:00.jpg">September 15 at 10:27 PM</a></p>
+ <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-23T10:26:54.769671-07:00.jpg">September 23 at 10:26 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-15T09:27:52.106614-07:00.jpg">
-  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-15T09:27:52.106614-07:00.jpg"
-     alt="NBC Bay Area at 2022-09-15 09:28:04-07:00 local time"
+ <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-22T22:26:32.722949-07:00.jpg">
+  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-22T22:26:32.722949-07:00.jpg"
+     alt="NBC Bay Area at 2022-09-22 22:26:33-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-15T09:27:52.106614-07:00.jpg">September 15 at 9:28 AM</a></p>
+ <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-22T22:26:32.722949-07:00.jpg">September 22 at 10:26 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-14T22:26:51.717117-07:00.jpg">
-  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-14T22:26:51.717117-07:00.jpg"
-     alt="NBC Bay Area at 2022-09-14 22:26:53-07:00 local time"
+ <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-22T10:28:00.218540-07:00.jpg">
+  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-22T10:28:00.218540-07:00.jpg"
+     alt="NBC Bay Area at 2022-09-22 10:28:02-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-14T22:26:51.717117-07:00.jpg">September 14 at 10:26 PM</a></p>
+ <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-22T10:28:00.218540-07:00.jpg">September 22 at 10:28 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-14T09:27:49.286850-07:00.jpg">
-  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-14T09:27:49.286850-07:00.jpg"
-     alt="NBC Bay Area at 2022-09-14 09:27:51-07:00 local time"
+ <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-21T22:57:58.018842-07:00.jpg">
+  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-21T22:57:58.018842-07:00.jpg"
+     alt="NBC Bay Area at 2022-09-21 22:57:59-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-14T09:27:49.286850-07:00.jpg">September 14 at 9:27 AM</a></p>
+ <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-21T22:57:58.018842-07:00.jpg">September 21 at 10:57 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-13T21:46:33.294534-07:00.jpg">
-  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-13T21:46:33.294534-07:00.jpg"
-     alt="NBC Bay Area at 2022-09-13 21:46:34-07:00 local time"
+ <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-21T10:29:24.412737-07:00.jpg">
+  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-21T10:29:24.412737-07:00.jpg"
+     alt="NBC Bay Area at 2022-09-21 10:29:30-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-13T21:46:33.294534-07:00.jpg">September 13 at 9:46 PM</a></p>
+ <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-21T10:29:24.412737-07:00.jpg">September 21 at 10:29 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 182 hyperlink lists with the Internet Archive.
+The archiving routine has saved 197 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 10:33 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-19T10:33:44.498984-07:00.hyperlinks.json) |
-| [September 18 at 11:05 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-18T23:05:49.478183-07:00.hyperlinks.json) |
-| [September 18 at 10:28 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-18T10:28:22.697878-07:00.hyperlinks.json) |
-| [September 17 at 10:25 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-17T22:25:17.705239-07:00.hyperlinks.json) |
-| [September 17 at 9:00 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-17T09:00:19.934632-07:00.hyperlinks.json) |
-| [September 16 at 9:34 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-16T21:34:21.765208-07:00.hyperlinks.json) |
-| [September 16 at 9:05 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-16T09:05:24.425215-07:00.hyperlinks.json) |
-| [September 15 at 10:27 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-15T22:27:15.227604-07:00.hyperlinks.json) |
-| [September 15 at 9:28 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-15T09:27:52.106614-07:00.hyperlinks.json) |
-| [September 14 at 10:26 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-14T22:26:51.717117-07:00.hyperlinks.json) |
+| [September 26 at 10:45 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-26T22:45:13.390648-07:00.hyperlinks.json) |
+| [September 26 at 10:34 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-26T10:34:25.362213-07:00.hyperlinks.json) |
+| [September 25 at 11:06 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-25T23:06:37.309376-07:00.hyperlinks.json) |
+| [September 25 at 10:16 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-25T10:16:20.439864-07:00.hyperlinks.json) |
+| [September 24 at 10:41 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-24T22:41:09.780765-07:00.hyperlinks.json) |
+| [September 24 at 10:16 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-24T10:15:58.236651-07:00.hyperlinks.json) |
+| [September 23 at 10:42 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-23T22:41:56.147450-07:00.hyperlinks.json) |
+| [September 23 at 10:27 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-23T10:26:54.769671-07:00.hyperlinks.json) |
+| [September 22 at 10:26 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-22T22:26:32.722949-07:00.hyperlinks.json) |
+| [September 22 at 10:28 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-22T10:28:00.218540-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 182 accessibility trees with the Internet Archive.
+The archiving routine has saved 197 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 10:33 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-19T10:33:44.498984-07:00.accessibility.json) |
-| [September 18 at 11:05 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-18T23:05:49.478183-07:00.accessibility.json) |
-| [September 18 at 10:28 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-18T10:28:22.697878-07:00.accessibility.json) |
-| [September 17 at 10:25 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-17T22:25:17.705239-07:00.accessibility.json) |
-| [September 17 at 9:00 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-17T09:00:19.934632-07:00.accessibility.json) |
-| [September 16 at 9:34 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-16T21:34:21.765208-07:00.accessibility.json) |
-| [September 16 at 9:05 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-16T09:05:24.425215-07:00.accessibility.json) |
-| [September 15 at 10:27 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-15T22:27:15.227604-07:00.accessibility.json) |
-| [September 15 at 9:28 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-15T09:27:52.106614-07:00.accessibility.json) |
-| [September 14 at 10:26 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-14T22:26:51.717117-07:00.accessibility.json) |
+| [September 26 at 10:45 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-26T22:45:13.390648-07:00.accessibility.json) |
+| [September 26 at 10:34 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-26T10:34:25.362213-07:00.accessibility.json) |
+| [September 25 at 11:06 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-25T23:06:37.309376-07:00.accessibility.json) |
+| [September 25 at 10:16 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-25T10:16:20.439864-07:00.accessibility.json) |
+| [September 24 at 10:41 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-24T22:41:09.780765-07:00.accessibility.json) |
+| [September 24 at 10:16 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-24T10:15:58.236651-07:00.accessibility.json) |
+| [September 23 at 10:41 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-23T22:41:56.147450-07:00.accessibility.json) |
+| [September 23 at 10:27 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-23T10:26:54.769671-07:00.accessibility.json) |
+| [September 22 at 10:26 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-22T22:26:32.722949-07:00.accessibility.json) |
+| [September 22 at 10:28 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-22T10:28:00.218540-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 114 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 129 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 10:33 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-19T10:33:44.498984-07:00.lighthouse.json) |
-| [September 18 at 11:05 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-18T23:05:49.478183-07:00.lighthouse.json) |
-| [September 18 at 10:28 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-18T10:28:22.697878-07:00.lighthouse.json) |
-| [September 17 at 10:25 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-17T22:25:17.705239-07:00.lighthouse.json) |
-| [September 17 at 9:00 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-17T09:00:19.934632-07:00.lighthouse.json) |
-| [September 16 at 9:34 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-16T21:34:21.765208-07:00.lighthouse.json) |
-| [September 16 at 9:05 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-16T09:05:24.425215-07:00.lighthouse.json) |
-| [September 15 at 10:27 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-15T22:27:15.227604-07:00.lighthouse.json) |
-| [September 15 at 9:28 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-15T09:27:52.106614-07:00.lighthouse.json) |
-| [September 14 at 10:27 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-14T22:26:51.717117-07:00.lighthouse.json) |
+| [September 26 at 10:45 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-26T22:45:13.390648-07:00.lighthouse.json) |
+| [September 26 at 10:34 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-26T10:34:25.362213-07:00.lighthouse.json) |
+| [September 25 at 11:06 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-25T23:06:37.309376-07:00.lighthouse.json) |
+| [September 25 at 10:16 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-25T10:16:20.439864-07:00.lighthouse.json) |
+| [September 24 at 10:41 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-24T22:41:09.780765-07:00.lighthouse.json) |
+| [September 24 at 10:16 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-24T10:15:58.236651-07:00.lighthouse.json) |
+| [September 23 at 10:42 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-23T22:41:56.147450-07:00.lighthouse.json) |
+| [September 23 at 10:27 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-23T10:26:54.769671-07:00.lighthouse.json) |
+| [September 22 at 10:26 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-22T22:26:32.722949-07:00.lighthouse.json) |
+| [September 22 at 10:28 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-09-22T10:28:00.218540-07:00.lighthouse.json) |
 
 
 

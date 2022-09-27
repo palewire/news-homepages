@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 78 screenshots with the Internet Archive.
+The archiving routine has saved 94 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-19T17:59:04.958634+02:00.jpg">
-  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-19T17:59:04.958634+02:00.jpg"
-     alt="Der Spiegel at 2022-09-19 17:59:11+02:00 local time"
+ <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-27T09:00:25.570307+02:00.jpg">
+  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-27T09:00:25.570307+02:00.jpg"
+     alt="Der Spiegel at 2022-09-27 09:00:30+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-19T17:59:04.958634+02:00.jpg">September 19 at 5:59 PM</a></p>
+ <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-27T09:00:25.570307+02:00.jpg">September 27 at 9:00 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-19T06:41:12.745838+02:00.jpg">
-  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-19T06:41:12.745838+02:00.jpg"
-     alt="Der Spiegel at 2022-09-19 06:41:14+02:00 local time"
+ <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-26T19:41:16.996884+02:00.jpg">
+  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-26T19:41:16.996884+02:00.jpg"
+     alt="Der Spiegel at 2022-09-26 19:41:28+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-19T06:41:12.745838+02:00.jpg">September 19 at 6:41 AM</a></p>
+ <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-26T19:41:16.996884+02:00.jpg">September 26 at 7:41 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-18T16:53:50.387512+02:00.jpg">
-  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-18T16:53:50.387512+02:00.jpg"
-     alt="Der Spiegel at 2022-09-18 16:54:03+02:00 local time"
+ <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-26T08:12:30.775868+02:00.jpg">
+  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-26T08:12:30.775868+02:00.jpg"
+     alt="Der Spiegel at 2022-09-26 08:12:54+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-18T16:53:50.387512+02:00.jpg">September 18 at 4:54 PM</a></p>
+ <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-26T08:12:30.775868+02:00.jpg">September 26 at 8:12 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-18T05:47:32.624910+02:00.jpg">
-  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-18T05:47:32.624910+02:00.jpg"
-     alt="Der Spiegel at 2022-09-18 05:47:36+02:00 local time"
+ <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-25T19:22:20.341416+02:00.jpg">
+  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-25T19:22:20.341416+02:00.jpg"
+     alt="Der Spiegel at 2022-09-25 19:22:37+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-18T05:47:32.624910+02:00.jpg">September 18 at 5:47 AM</a></p>
+ <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-25T19:22:20.341416+02:00.jpg">September 25 at 7:22 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-17T16:50:08.293923+02:00.jpg">
-  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-17T16:50:08.293923+02:00.jpg"
-     alt="Der Spiegel at 2022-09-17 16:50:13+02:00 local time"
+ <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-25T07:48:23.022119+02:00.jpg">
+  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-25T07:48:23.022119+02:00.jpg"
+     alt="Der Spiegel at 2022-09-25 07:48:24+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-17T16:50:08.293923+02:00.jpg">September 17 at 4:50 PM</a></p>
+ <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-25T07:48:23.022119+02:00.jpg">September 25 at 7:48 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-17T05:41:44.318710+02:00.jpg">
-  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-17T05:41:44.318710+02:00.jpg"
-     alt="Der Spiegel at 2022-09-17 05:41:45+02:00 local time"
+ <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-24T19:22:46.253016+02:00.jpg">
+  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-24T19:22:46.253016+02:00.jpg"
+     alt="Der Spiegel at 2022-09-24 19:22:50+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-17T05:41:44.318710+02:00.jpg">September 17 at 5:41 AM</a></p>
+ <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-24T19:22:46.253016+02:00.jpg">September 24 at 7:22 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-16T17:00:43.222108+02:00.jpg">
-  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-16T17:00:43.222108+02:00.jpg"
-     alt="Der Spiegel at 2022-09-16 17:00:48+02:00 local time"
+ <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-24T07:48:30.741860+02:00.jpg">
+  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-24T07:48:30.741860+02:00.jpg"
+     alt="Der Spiegel at 2022-09-24 07:48:35+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-16T17:00:43.222108+02:00.jpg">September 16 at 5:00 PM</a></p>
+ <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-24T07:48:30.741860+02:00.jpg">September 24 at 7:48 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-16T05:50:43.919100+02:00.jpg">
-  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-16T05:50:43.919100+02:00.jpg"
-     alt="Der Spiegel at 2022-09-16 05:50:45+02:00 local time"
+ <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-23T19:35:31.638202+02:00.jpg">
+  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-23T19:35:31.638202+02:00.jpg"
+     alt="Der Spiegel at 2022-09-23 19:35:35+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-16T05:50:43.919100+02:00.jpg">September 16 at 5:50 AM</a></p>
+ <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-23T19:35:31.638202+02:00.jpg">September 23 at 7:35 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-15T18:09:51.570963+02:00.jpg">
-  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-15T18:09:51.570963+02:00.jpg"
-     alt="Der Spiegel at 2022-09-15 18:09:53+02:00 local time"
+ <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-23T09:12:50.239083+02:00.jpg">
+  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-23T09:12:50.239083+02:00.jpg"
+     alt="Der Spiegel at 2022-09-23 09:12:57+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-15T18:09:51.570963+02:00.jpg">September 15 at 6:09 PM</a></p>
+ <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-23T09:12:50.239083+02:00.jpg">September 23 at 9:12 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-15T05:48:46.285833+02:00.jpg">
-  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-15T05:48:46.285833+02:00.jpg"
-     alt="Der Spiegel at 2022-09-15 05:48:52+02:00 local time"
+ <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-22T19:36:12.921888+02:00.jpg">
+  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-22T19:36:12.921888+02:00.jpg"
+     alt="Der Spiegel at 2022-09-22 19:36:16+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-15T05:48:46.285833+02:00.jpg">September 15 at 5:48 AM</a></p>
+ <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-22T19:36:12.921888+02:00.jpg">September 22 at 7:36 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-14T17:17:37.475460+02:00.jpg">
-  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-14T17:17:37.475460+02:00.jpg"
-     alt="Der Spiegel at 2022-09-14 17:17:44+02:00 local time"
+ <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-22T08:05:02.660607+02:00.jpg">
+  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-22T08:05:02.660607+02:00.jpg"
+     alt="Der Spiegel at 2022-09-22 08:05:07+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-14T17:17:37.475460+02:00.jpg">September 14 at 5:17 PM</a></p>
+ <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-22T08:05:02.660607+02:00.jpg">September 22 at 8:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-14T05:47:36.477743+02:00.jpg">
-  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-14T05:47:36.477743+02:00.jpg"
-     alt="Der Spiegel at 2022-09-14 05:47:41+02:00 local time"
+ <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-21T19:36:20.262926+02:00.jpg">
+  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-21T19:36:20.262926+02:00.jpg"
+     alt="Der Spiegel at 2022-09-21 19:36:25+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-14T05:47:36.477743+02:00.jpg">September 14 at 5:47 AM</a></p>
+ <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-09-21T19:36:20.262926+02:00.jpg">September 21 at 7:36 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 79 hyperlink lists with the Internet Archive.
+The archiving routine has saved 95 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 5:59 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-19T17:59:04.958634+02:00.hyperlinks.json) |
-| [September 19 at 6:41 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-19T06:41:12.745838+02:00.hyperlinks.json) |
-| [September 18 at 4:54 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-18T16:53:50.387512+02:00.hyperlinks.json) |
-| [September 18 at 5:47 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-18T05:47:32.624910+02:00.hyperlinks.json) |
-| [September 17 at 4:50 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-17T16:50:08.293923+02:00.hyperlinks.json) |
-| [September 17 at 5:41 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-17T05:41:44.318710+02:00.hyperlinks.json) |
-| [September 16 at 5:00 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-16T17:00:43.222108+02:00.hyperlinks.json) |
-| [September 16 at 5:50 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-16T05:50:43.919100+02:00.hyperlinks.json) |
-| [September 15 at 6:09 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-15T18:09:51.570963+02:00.hyperlinks.json) |
-| [September 15 at 5:48 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-15T05:48:46.285833+02:00.hyperlinks.json) |
+| [September 27 at 9:00 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-27T09:00:25.570307+02:00.hyperlinks.json) |
+| [September 26 at 7:41 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-26T19:41:16.996884+02:00.hyperlinks.json) |
+| [September 26 at 8:12 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-26T08:12:30.775868+02:00.hyperlinks.json) |
+| [September 25 at 7:22 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-25T19:22:20.341416+02:00.hyperlinks.json) |
+| [September 25 at 7:48 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-25T07:48:23.022119+02:00.hyperlinks.json) |
+| [September 24 at 7:22 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-24T19:22:46.253016+02:00.hyperlinks.json) |
+| [September 24 at 7:48 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-24T07:48:30.741860+02:00.hyperlinks.json) |
+| [September 23 at 7:35 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-23T19:35:31.638202+02:00.hyperlinks.json) |
+| [September 23 at 9:13 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-23T09:12:50.239083+02:00.hyperlinks.json) |
+| [September 22 at 7:36 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-22T19:36:12.921888+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 79 accessibility trees with the Internet Archive.
+The archiving routine has saved 95 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 5:59 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-19T17:59:04.958634+02:00.accessibility.json) |
-| [September 19 at 6:41 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-19T06:41:12.745838+02:00.accessibility.json) |
-| [September 18 at 4:54 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-18T16:53:50.387512+02:00.accessibility.json) |
-| [September 18 at 5:47 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-18T05:47:32.624910+02:00.accessibility.json) |
-| [September 17 at 4:50 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-17T16:50:08.293923+02:00.accessibility.json) |
-| [September 17 at 5:41 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-17T05:41:44.318710+02:00.accessibility.json) |
-| [September 16 at 5:00 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-16T17:00:43.222108+02:00.accessibility.json) |
-| [September 16 at 5:50 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-16T05:50:43.919100+02:00.accessibility.json) |
-| [September 15 at 6:09 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-15T18:09:51.570963+02:00.accessibility.json) |
-| [September 15 at 5:48 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-15T05:48:46.285833+02:00.accessibility.json) |
+| [September 27 at 9:00 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-27T09:00:25.570307+02:00.accessibility.json) |
+| [September 26 at 7:41 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-26T19:41:16.996884+02:00.accessibility.json) |
+| [September 26 at 8:12 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-26T08:12:30.775868+02:00.accessibility.json) |
+| [September 25 at 7:22 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-25T19:22:20.341416+02:00.accessibility.json) |
+| [September 25 at 7:48 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-25T07:48:23.022119+02:00.accessibility.json) |
+| [September 24 at 7:22 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-24T19:22:46.253016+02:00.accessibility.json) |
+| [September 24 at 7:48 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-24T07:48:30.741860+02:00.accessibility.json) |
+| [September 23 at 7:35 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-23T19:35:31.638202+02:00.accessibility.json) |
+| [September 23 at 9:12 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-23T09:12:50.239083+02:00.accessibility.json) |
+| [September 22 at 7:36 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-22T19:36:12.921888+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 79 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 95 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 5:59 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-19T17:59:04.958634+02:00.lighthouse.json) |
-| [September 19 at 6:41 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-19T06:41:12.745838+02:00.lighthouse.json) |
-| [September 18 at 4:54 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-18T16:53:50.387512+02:00.lighthouse.json) |
-| [September 18 at 5:47 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-18T05:47:32.624910+02:00.lighthouse.json) |
-| [September 17 at 4:50 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-17T16:50:08.293923+02:00.lighthouse.json) |
-| [September 17 at 5:41 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-17T05:41:44.318710+02:00.lighthouse.json) |
-| [September 16 at 5:00 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-16T17:00:43.222108+02:00.lighthouse.json) |
-| [September 16 at 5:50 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-16T05:50:43.919100+02:00.lighthouse.json) |
-| [September 15 at 6:10 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-15T18:09:51.570963+02:00.lighthouse.json) |
-| [September 15 at 5:48 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-15T05:48:46.285833+02:00.lighthouse.json) |
+| [September 27 at 9:00 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-27T09:00:25.570307+02:00.lighthouse.json) |
+| [September 26 at 7:41 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-26T19:41:16.996884+02:00.lighthouse.json) |
+| [September 26 at 8:13 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-26T08:12:30.775868+02:00.lighthouse.json) |
+| [September 25 at 7:22 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-25T19:22:20.341416+02:00.lighthouse.json) |
+| [September 25 at 7:48 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-25T07:48:23.022119+02:00.lighthouse.json) |
+| [September 24 at 7:22 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-24T19:22:46.253016+02:00.lighthouse.json) |
+| [September 24 at 7:48 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-24T07:48:30.741860+02:00.lighthouse.json) |
+| [September 23 at 7:35 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-23T19:35:31.638202+02:00.lighthouse.json) |
+| [September 23 at 9:13 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-23T09:12:50.239083+02:00.lighthouse.json) |
+| [September 22 at 7:36 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-09-22T19:36:12.921888+02:00.lighthouse.json) |
 
 
 

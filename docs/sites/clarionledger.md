@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 191 screenshots with the Internet Archive.
+The archiving routine has saved 207 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-19T10:59:50.419223-04:00.jpg">
-  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-19T10:59:50.419223-04:00.jpg"
-     alt="Clarion Ledger at 2022-09-19 10:59:51-04:00 local time"
+ <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-27T02:56:55.656489-04:00.jpg">
+  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-27T02:56:55.656489-04:00.jpg"
+     alt="Clarion Ledger at 2022-09-27 02:57:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-19T10:59:50.419223-04:00.jpg">September 19 at 10:59 AM</a></p>
+ <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-27T02:56:55.656489-04:00.jpg">September 27 at 2:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-18T23:42:56.160174-04:00.jpg">
-  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-18T23:42:56.160174-04:00.jpg"
-     alt="Clarion Ledger at 2022-09-18 23:42:57-04:00 local time"
+ <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-26T13:36:06.533384-04:00.jpg">
+  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-26T13:36:06.533384-04:00.jpg"
+     alt="Clarion Ledger at 2022-09-26 13:36:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-18T23:42:56.160174-04:00.jpg">September 18 at 11:42 PM</a></p>
+ <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-26T13:36:06.533384-04:00.jpg">September 26 at 1:36 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-18T10:51:59.306029-04:00.jpg">
-  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-18T10:51:59.306029-04:00.jpg"
-     alt="Clarion Ledger at 2022-09-18 10:52:06-04:00 local time"
+ <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-26T02:06:32.517647-04:00.jpg">
+  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-26T02:06:32.517647-04:00.jpg"
+     alt="Clarion Ledger at 2022-09-26 02:06:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-18T10:51:59.306029-04:00.jpg">September 18 at 10:52 AM</a></p>
+ <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-26T02:06:32.517647-04:00.jpg">September 26 at 2:06 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-17T23:45:18.608576-04:00.jpg">
-  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-17T23:45:18.608576-04:00.jpg"
-     alt="Clarion Ledger at 2022-09-17 23:45:27-04:00 local time"
+ <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-25T13:17:19.639425-04:00.jpg">
+  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-25T13:17:19.639425-04:00.jpg"
+     alt="Clarion Ledger at 2022-09-25 13:17:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-17T23:45:18.608576-04:00.jpg">September 17 at 11:45 PM</a></p>
+ <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-25T13:17:19.639425-04:00.jpg">September 25 at 1:17 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-17T10:49:09.995603-04:00.jpg">
-  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-17T10:49:09.995603-04:00.jpg"
-     alt="Clarion Ledger at 2022-09-17 10:49:15-04:00 local time"
+ <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-25T01:41:42.273828-04:00.jpg">
+  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-25T01:41:42.273828-04:00.jpg"
+     alt="Clarion Ledger at 2022-09-25 01:41:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-17T10:49:09.995603-04:00.jpg">September 17 at 10:49 AM</a></p>
+ <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-25T01:41:42.273828-04:00.jpg">September 25 at 1:41 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-16T23:39:26.374333-04:00.jpg">
-  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-16T23:39:26.374333-04:00.jpg"
-     alt="Clarion Ledger at 2022-09-16 23:39:28-04:00 local time"
+ <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-24T13:16:09.710750-04:00.jpg">
+  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-24T13:16:09.710750-04:00.jpg"
+     alt="Clarion Ledger at 2022-09-24 13:16:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-16T23:39:26.374333-04:00.jpg">September 16 at 11:39 PM</a></p>
+ <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-24T13:16:09.710750-04:00.jpg">September 24 at 1:16 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-16T10:57:52.987969-04:00.jpg">
-  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-16T10:57:52.987969-04:00.jpg"
-     alt="Clarion Ledger at 2022-09-16 10:57:57-04:00 local time"
+ <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-24T01:41:59.278912-04:00.jpg">
+  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-24T01:41:59.278912-04:00.jpg"
+     alt="Clarion Ledger at 2022-09-24 01:42:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-16T10:57:52.987969-04:00.jpg">September 16 at 10:57 AM</a></p>
+ <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-24T01:41:59.278912-04:00.jpg">September 24 at 1:42 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-15T23:46:43.750097-04:00.jpg">
-  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-15T23:46:43.750097-04:00.jpg"
-     alt="Clarion Ledger at 2022-09-15 23:46:45-04:00 local time"
+ <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-23T13:28:29.379080-04:00.jpg">
+  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-23T13:28:29.379080-04:00.jpg"
+     alt="Clarion Ledger at 2022-09-23 13:28:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-15T23:46:43.750097-04:00.jpg">September 15 at 11:46 PM</a></p>
+ <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-23T13:28:29.379080-04:00.jpg">September 23 at 1:28 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-15T12:07:55.609751-04:00.jpg">
-  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-15T12:07:55.609751-04:00.jpg"
-     alt="Clarion Ledger at 2022-09-15 12:08:00-04:00 local time"
+ <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-23T03:11:10.256526-04:00.jpg">
+  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-23T03:11:10.256526-04:00.jpg"
+     alt="Clarion Ledger at 2022-09-23 03:11:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-15T12:07:55.609751-04:00.jpg">September 15 at 12:08 PM</a></p>
+ <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-23T03:11:10.256526-04:00.jpg">September 23 at 3:11 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-14T23:46:37.645688-04:00.jpg">
-  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-14T23:46:37.645688-04:00.jpg"
-     alt="Clarion Ledger at 2022-09-14 23:47:02-04:00 local time"
+ <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-22T13:28:57.928189-04:00.jpg">
+  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-22T13:28:57.928189-04:00.jpg"
+     alt="Clarion Ledger at 2022-09-22 13:29:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-14T23:46:37.645688-04:00.jpg">September 14 at 11:47 PM</a></p>
+ <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-22T13:28:57.928189-04:00.jpg">September 22 at 1:29 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-14T11:10:06.599703-04:00.jpg">
-  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-14T11:10:06.599703-04:00.jpg"
-     alt="Clarion Ledger at 2022-09-14 11:10:31-04:00 local time"
+ <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-22T01:57:21.633999-04:00.jpg">
+  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-22T01:57:21.633999-04:00.jpg"
+     alt="Clarion Ledger at 2022-09-22 01:57:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-14T11:10:06.599703-04:00.jpg">September 14 at 11:10 AM</a></p>
+ <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-22T01:57:21.633999-04:00.jpg">September 22 at 1:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-13T23:45:42.335651-04:00.jpg">
-  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-13T23:45:42.335651-04:00.jpg"
-     alt="Clarion Ledger at 2022-09-13 23:45:49-04:00 local time"
+ <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-21T13:29:53.052618-04:00.jpg">
+  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-21T13:29:53.052618-04:00.jpg"
+     alt="Clarion Ledger at 2022-09-21 13:30:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-13T23:45:42.335651-04:00.jpg">September 13 at 11:45 PM</a></p>
+ <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-21T13:29:53.052618-04:00.jpg">September 21 at 1:30 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 192 hyperlink lists with the Internet Archive.
+The archiving routine has saved 208 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 10:59 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-19T10:59:50.419223-04:00.hyperlinks.json) |
-| [September 18 at 11:43 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-18T23:42:56.160174-04:00.hyperlinks.json) |
-| [September 18 at 10:52 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-18T10:51:59.306029-04:00.hyperlinks.json) |
-| [September 17 at 11:45 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-17T23:45:18.608576-04:00.hyperlinks.json) |
-| [September 17 at 10:49 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-17T10:49:09.995603-04:00.hyperlinks.json) |
-| [September 16 at 11:39 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-16T23:39:26.374333-04:00.hyperlinks.json) |
-| [September 16 at 10:58 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-16T10:57:52.987969-04:00.hyperlinks.json) |
-| [September 15 at 11:46 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-15T23:46:43.750097-04:00.hyperlinks.json) |
-| [September 15 at 12:08 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-15T12:07:55.609751-04:00.hyperlinks.json) |
-| [September 14 at 11:47 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-14T23:46:37.645688-04:00.hyperlinks.json) |
+| [September 27 at 2:57 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-27T02:56:55.656489-04:00.hyperlinks.json) |
+| [September 26 at 1:36 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-26T13:36:06.533384-04:00.hyperlinks.json) |
+| [September 26 at 2:06 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-26T02:06:32.517647-04:00.hyperlinks.json) |
+| [September 25 at 1:17 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-25T13:17:19.639425-04:00.hyperlinks.json) |
+| [September 25 at 1:41 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-25T01:41:42.273828-04:00.hyperlinks.json) |
+| [September 24 at 1:16 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-24T13:16:09.710750-04:00.hyperlinks.json) |
+| [September 24 at 1:42 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-24T01:41:59.278912-04:00.hyperlinks.json) |
+| [September 23 at 1:28 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-23T13:28:29.379080-04:00.hyperlinks.json) |
+| [September 23 at 3:11 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-23T03:11:10.256526-04:00.hyperlinks.json) |
+| [September 22 at 1:29 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-22T13:28:57.928189-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 191 accessibility trees with the Internet Archive.
+The archiving routine has saved 207 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 10:59 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-19T10:59:50.419223-04:00.accessibility.json) |
-| [September 18 at 11:42 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-18T23:42:56.160174-04:00.accessibility.json) |
-| [September 18 at 10:52 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-18T10:51:59.306029-04:00.accessibility.json) |
-| [September 17 at 11:45 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-17T23:45:18.608576-04:00.accessibility.json) |
-| [September 17 at 10:49 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-17T10:49:09.995603-04:00.accessibility.json) |
-| [September 16 at 11:39 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-16T23:39:26.374333-04:00.accessibility.json) |
-| [September 16 at 10:57 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-16T10:57:52.987969-04:00.accessibility.json) |
-| [September 15 at 11:46 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-15T23:46:43.750097-04:00.accessibility.json) |
-| [September 15 at 12:08 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-15T12:07:55.609751-04:00.accessibility.json) |
-| [September 14 at 11:47 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-14T23:46:37.645688-04:00.accessibility.json) |
+| [September 27 at 2:57 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-27T02:56:55.656489-04:00.accessibility.json) |
+| [September 26 at 1:36 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-26T13:36:06.533384-04:00.accessibility.json) |
+| [September 26 at 2:06 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-26T02:06:32.517647-04:00.accessibility.json) |
+| [September 25 at 1:17 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-25T13:17:19.639425-04:00.accessibility.json) |
+| [September 25 at 1:41 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-25T01:41:42.273828-04:00.accessibility.json) |
+| [September 24 at 1:16 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-24T13:16:09.710750-04:00.accessibility.json) |
+| [September 24 at 1:42 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-24T01:41:59.278912-04:00.accessibility.json) |
+| [September 23 at 1:28 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-23T13:28:29.379080-04:00.accessibility.json) |
+| [September 23 at 3:11 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-23T03:11:10.256526-04:00.accessibility.json) |
+| [September 22 at 1:29 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-22T13:28:57.928189-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 118 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 10:59 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-19T10:59:50.419223-04:00.lighthouse.json) |
-| [September 18 at 11:43 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-18T23:42:56.160174-04:00.lighthouse.json) |
-| [September 18 at 10:52 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-18T10:51:59.306029-04:00.lighthouse.json) |
-| [September 17 at 11:45 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-17T23:45:18.608576-04:00.lighthouse.json) |
-| [September 17 at 10:49 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-17T10:49:09.995603-04:00.lighthouse.json) |
-| [September 16 at 11:39 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-16T23:39:26.374333-04:00.lighthouse.json) |
-| [September 16 at 10:58 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-16T10:57:52.987969-04:00.lighthouse.json) |
-| [September 15 at 11:46 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-15T23:46:43.750097-04:00.lighthouse.json) |
-| [September 15 at 12:08 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-15T12:07:55.609751-04:00.lighthouse.json) |
-| [September 14 at 11:47 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-14T23:46:37.645688-04:00.lighthouse.json) |
+| [September 27 at 2:57 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-27T02:56:55.656489-04:00.lighthouse.json) |
+| [September 26 at 1:36 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-26T13:36:06.533384-04:00.lighthouse.json) |
+| [September 26 at 2:06 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-26T02:06:32.517647-04:00.lighthouse.json) |
+| [September 25 at 1:17 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-25T13:17:19.639425-04:00.lighthouse.json) |
+| [September 25 at 1:41 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-25T01:41:42.273828-04:00.lighthouse.json) |
+| [September 24 at 1:16 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-24T13:16:09.710750-04:00.lighthouse.json) |
+| [September 24 at 1:42 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-24T01:41:59.278912-04:00.lighthouse.json) |
+| [September 23 at 1:28 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-23T13:28:29.379080-04:00.lighthouse.json) |
+| [September 23 at 3:11 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-23T03:11:10.256526-04:00.lighthouse.json) |
+| [September 22 at 1:29 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-22T13:28:57.928189-04:00.lighthouse.json) |
 
 
 

@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 61 screenshots with the Internet Archive.
+The archiving routine has saved 78 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-19T06:47:32.595840-04:00.jpg">
-  <img src="https://archive.org/download/ainonline-2022/ainonline-2022-09-19T06:47:32.595840-04:00.jpg"
-     alt="Aviation International News at 2022-09-19 06:47:36-04:00 local time"
+ <a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-27T06:53:36.191557-04:00.jpg">
+  <img src="https://archive.org/download/ainonline-2022/ainonline-2022-09-27T06:53:36.191557-04:00.jpg"
+     alt="Aviation International News at 2022-09-27 06:53:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-19T06:47:32.595840-04:00.jpg">September 19 at 6:47 AM</a></p>
+ <p><a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-27T06:53:36.191557-04:00.jpg">September 27 at 6:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-18T18:47:55.047116-04:00.jpg">
-  <img src="https://archive.org/download/ainonline-2022/ainonline-2022-09-18T18:47:55.047116-04:00.jpg"
-     alt="Aviation International News at 2022-09-18 18:47:56-04:00 local time"
+ <a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-26T18:49:58.347871-04:00.jpg">
+  <img src="https://archive.org/download/ainonline-2022/ainonline-2022-09-26T18:49:58.347871-04:00.jpg"
+     alt="Aviation International News at 2022-09-26 18:49:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-18T18:47:55.047116-04:00.jpg">September 18 at 6:47 PM</a></p>
+ <p><a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-26T18:49:58.347871-04:00.jpg">September 26 at 6:49 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-18T06:49:13.295224-04:00.jpg">
-  <img src="https://archive.org/download/ainonline-2022/ainonline-2022-09-18T06:49:13.295224-04:00.jpg"
-     alt="Aviation International News at 2022-09-18 06:49:15-04:00 local time"
+ <a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-26T06:52:25.033454-04:00.jpg">
+  <img src="https://archive.org/download/ainonline-2022/ainonline-2022-09-26T06:52:25.033454-04:00.jpg"
+     alt="Aviation International News at 2022-09-26 06:52:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-18T06:49:13.295224-04:00.jpg">September 18 at 6:49 AM</a></p>
+ <p><a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-26T06:52:25.033454-04:00.jpg">September 26 at 6:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-17T18:51:09.670038-04:00.jpg">
-  <img src="https://archive.org/download/ainonline-2022/ainonline-2022-09-17T18:51:09.670038-04:00.jpg"
-     alt="Aviation International News at 2022-09-17 18:51:12-04:00 local time"
+ <a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-25T18:40:52.691368-04:00.jpg">
+  <img src="https://archive.org/download/ainonline-2022/ainonline-2022-09-25T18:40:52.691368-04:00.jpg"
+     alt="Aviation International News at 2022-09-25 18:40:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-17T18:51:09.670038-04:00.jpg">September 17 at 6:51 PM</a></p>
+ <p><a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-25T18:40:52.691368-04:00.jpg">September 25 at 6:40 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-17T06:48:11.962260-04:00.jpg">
-  <img src="https://archive.org/download/ainonline-2022/ainonline-2022-09-17T06:48:11.962260-04:00.jpg"
-     alt="Aviation International News at 2022-09-17 06:48:13-04:00 local time"
+ <a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-25T06:40:13.326115-04:00.jpg">
+  <img src="https://archive.org/download/ainonline-2022/ainonline-2022-09-25T06:40:13.326115-04:00.jpg"
+     alt="Aviation International News at 2022-09-25 06:40:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-17T06:48:11.962260-04:00.jpg">September 17 at 6:48 AM</a></p>
+ <p><a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-25T06:40:13.326115-04:00.jpg">September 25 at 6:40 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-16T18:50:05.207675-04:00.jpg">
-  <img src="https://archive.org/download/ainonline-2022/ainonline-2022-09-16T18:50:05.207675-04:00.jpg"
-     alt="Aviation International News at 2022-09-16 18:50:07-04:00 local time"
+ <a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-24T18:40:38.005430-04:00.jpg">
+  <img src="https://archive.org/download/ainonline-2022/ainonline-2022-09-24T18:40:38.005430-04:00.jpg"
+     alt="Aviation International News at 2022-09-24 18:40:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-16T18:50:05.207675-04:00.jpg">September 16 at 6:50 PM</a></p>
+ <p><a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-24T18:40:38.005430-04:00.jpg">September 24 at 6:40 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-16T06:50:38.741827-04:00.jpg">
-  <img src="https://archive.org/download/ainonline-2022/ainonline-2022-09-16T06:50:38.741827-04:00.jpg"
-     alt="Aviation International News at 2022-09-16 06:50:43-04:00 local time"
+ <a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-24T06:42:26.400129-04:00.jpg">
+  <img src="https://archive.org/download/ainonline-2022/ainonline-2022-09-24T06:42:26.400129-04:00.jpg"
+     alt="Aviation International News at 2022-09-24 06:42:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-16T06:50:38.741827-04:00.jpg">September 16 at 6:50 AM</a></p>
+ <p><a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-24T06:42:26.400129-04:00.jpg">September 24 at 6:42 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-15T18:53:43.782742-04:00.jpg">
-  <img src="https://archive.org/download/ainonline-2022/ainonline-2022-09-15T18:53:43.782742-04:00.jpg"
-     alt="Aviation International News at 2022-09-15 18:53:47-04:00 local time"
+ <a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-23T19:50:37.372119-04:00.jpg">
+  <img src="https://archive.org/download/ainonline-2022/ainonline-2022-09-23T19:50:37.372119-04:00.jpg"
+     alt="Aviation International News at 2022-09-23 19:50:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-15T18:53:43.782742-04:00.jpg">September 15 at 6:53 PM</a></p>
+ <p><a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-23T19:50:37.372119-04:00.jpg">September 23 at 7:50 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-15T06:52:41.376609-04:00.jpg">
-  <img src="https://archive.org/download/ainonline-2022/ainonline-2022-09-15T06:52:41.376609-04:00.jpg"
-     alt="Aviation International News at 2022-09-15 06:52:43-04:00 local time"
+ <a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-23T06:46:29.054406-04:00.jpg">
+  <img src="https://archive.org/download/ainonline-2022/ainonline-2022-09-23T06:46:29.054406-04:00.jpg"
+     alt="Aviation International News at 2022-09-23 06:46:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-15T06:52:41.376609-04:00.jpg">September 15 at 6:52 AM</a></p>
+ <p><a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-23T06:46:29.054406-04:00.jpg">September 23 at 6:46 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-14T18:59:30.643918-04:00.jpg">
-  <img src="https://archive.org/download/ainonline-2022/ainonline-2022-09-14T18:59:30.643918-04:00.jpg"
-     alt="Aviation International News at 2022-09-14 18:59:33-04:00 local time"
+ <a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-22T18:49:33.958459-04:00.jpg">
+  <img src="https://archive.org/download/ainonline-2022/ainonline-2022-09-22T18:49:33.958459-04:00.jpg"
+     alt="Aviation International News at 2022-09-22 18:49:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-14T18:59:30.643918-04:00.jpg">September 14 at 6:59 PM</a></p>
+ <p><a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-22T18:49:33.958459-04:00.jpg">September 22 at 6:49 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-14T06:52:41.697991-04:00.jpg">
-  <img src="https://archive.org/download/ainonline-2022/ainonline-2022-09-14T06:52:41.697991-04:00.jpg"
-     alt="Aviation International News at 2022-09-14 06:52:45-04:00 local time"
+ <a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-22T06:50:10.569625-04:00.jpg">
+  <img src="https://archive.org/download/ainonline-2022/ainonline-2022-09-22T06:50:10.569625-04:00.jpg"
+     alt="Aviation International News at 2022-09-22 06:50:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-14T06:52:41.697991-04:00.jpg">September 14 at 6:52 AM</a></p>
+ <p><a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-22T06:50:10.569625-04:00.jpg">September 22 at 6:50 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-13T18:56:42.537446-04:00.jpg">
-  <img src="https://archive.org/download/ainonline-2022/ainonline-2022-09-13T18:56:42.537446-04:00.jpg"
-     alt="Aviation International News at 2022-09-13 18:56:44-04:00 local time"
+ <a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-21T18:55:39.741978-04:00.jpg">
+  <img src="https://archive.org/download/ainonline-2022/ainonline-2022-09-21T18:55:39.741978-04:00.jpg"
+     alt="Aviation International News at 2022-09-21 18:55:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-13T18:56:42.537446-04:00.jpg">September 13 at 6:56 PM</a></p>
+ <p><a href="https://archive.org/download/ainonline-2022/ainonline-2022-09-21T18:55:39.741978-04:00.jpg">September 21 at 6:55 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 61 hyperlink lists with the Internet Archive.
+The archiving routine has saved 77 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 6:47 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-19T06:47:32.595840-04:00.hyperlinks.json) |
-| [September 18 at 6:48 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-18T18:47:55.047116-04:00.hyperlinks.json) |
-| [September 18 at 6:49 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-18T06:49:13.295224-04:00.hyperlinks.json) |
-| [September 17 at 6:51 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-17T18:51:09.670038-04:00.hyperlinks.json) |
-| [September 17 at 6:48 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-17T06:48:11.962260-04:00.hyperlinks.json) |
-| [September 16 at 6:50 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-16T18:50:05.207675-04:00.hyperlinks.json) |
-| [September 16 at 6:50 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-16T06:50:38.741827-04:00.hyperlinks.json) |
-| [September 15 at 6:53 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-15T18:53:43.782742-04:00.hyperlinks.json) |
-| [September 15 at 6:52 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-15T06:52:41.376609-04:00.hyperlinks.json) |
-| [September 14 at 6:59 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-14T18:59:30.643918-04:00.hyperlinks.json) |
+| [September 26 at 6:50 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-26T18:49:58.347871-04:00.hyperlinks.json) |
+| [September 26 at 6:52 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-26T06:52:25.033454-04:00.hyperlinks.json) |
+| [September 25 at 6:41 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-25T18:40:52.691368-04:00.hyperlinks.json) |
+| [September 25 at 6:40 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-25T06:40:13.326115-04:00.hyperlinks.json) |
+| [September 24 at 6:40 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-24T18:40:38.005430-04:00.hyperlinks.json) |
+| [September 24 at 6:42 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-24T06:42:26.400129-04:00.hyperlinks.json) |
+| [September 23 at 7:50 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-23T19:50:37.372119-04:00.hyperlinks.json) |
+| [September 23 at 6:46 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-23T06:46:29.054406-04:00.hyperlinks.json) |
+| [September 22 at 6:49 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-22T18:49:33.958459-04:00.hyperlinks.json) |
+| [September 22 at 6:50 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-22T06:50:10.569625-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 61 accessibility trees with the Internet Archive.
+The archiving routine has saved 78 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 6:47 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-19T06:47:32.595840-04:00.accessibility.json) |
-| [September 18 at 6:47 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-18T18:47:55.047116-04:00.accessibility.json) |
-| [September 18 at 6:49 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-18T06:49:13.295224-04:00.accessibility.json) |
-| [September 17 at 6:51 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-17T18:51:09.670038-04:00.accessibility.json) |
-| [September 17 at 6:48 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-17T06:48:11.962260-04:00.accessibility.json) |
-| [September 16 at 6:50 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-16T18:50:05.207675-04:00.accessibility.json) |
-| [September 16 at 6:50 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-16T06:50:38.741827-04:00.accessibility.json) |
-| [September 15 at 6:53 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-15T18:53:43.782742-04:00.accessibility.json) |
-| [September 15 at 6:52 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-15T06:52:41.376609-04:00.accessibility.json) |
-| [September 14 at 6:59 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-14T18:59:30.643918-04:00.accessibility.json) |
+| [September 27 at 6:53 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-27T06:53:36.191557-04:00.accessibility.json) |
+| [September 26 at 6:50 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-26T18:49:58.347871-04:00.accessibility.json) |
+| [September 26 at 6:52 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-26T06:52:25.033454-04:00.accessibility.json) |
+| [September 25 at 6:40 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-25T18:40:52.691368-04:00.accessibility.json) |
+| [September 25 at 6:40 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-25T06:40:13.326115-04:00.accessibility.json) |
+| [September 24 at 6:40 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-24T18:40:38.005430-04:00.accessibility.json) |
+| [September 24 at 6:42 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-24T06:42:26.400129-04:00.accessibility.json) |
+| [September 23 at 7:50 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-23T19:50:37.372119-04:00.accessibility.json) |
+| [September 23 at 6:46 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-23T06:46:29.054406-04:00.accessibility.json) |
+| [September 22 at 6:49 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-22T18:49:33.958459-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 61 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 78 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 6:47 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-19T06:47:32.595840-04:00.lighthouse.json) |
-| [September 18 at 6:48 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-18T18:47:55.047116-04:00.lighthouse.json) |
-| [September 18 at 6:49 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-18T06:49:13.295224-04:00.lighthouse.json) |
-| [September 17 at 6:51 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-17T18:51:09.670038-04:00.lighthouse.json) |
-| [September 17 at 6:48 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-17T06:48:11.962260-04:00.lighthouse.json) |
-| [September 16 at 6:50 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-16T18:50:05.207675-04:00.lighthouse.json) |
-| [September 16 at 6:50 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-16T06:50:38.741827-04:00.lighthouse.json) |
-| [September 15 at 6:53 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-15T18:53:43.782742-04:00.lighthouse.json) |
-| [September 15 at 6:52 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-15T06:52:41.376609-04:00.lighthouse.json) |
-| [September 14 at 6:59 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-14T18:59:30.643918-04:00.lighthouse.json) |
+| [September 27 at 6:53 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-27T06:53:36.191557-04:00.lighthouse.json) |
+| [September 26 at 6:50 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-26T18:49:58.347871-04:00.lighthouse.json) |
+| [September 26 at 6:52 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-26T06:52:25.033454-04:00.lighthouse.json) |
+| [September 25 at 6:41 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-25T18:40:52.691368-04:00.lighthouse.json) |
+| [September 25 at 6:40 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-25T06:40:13.326115-04:00.lighthouse.json) |
+| [September 24 at 6:40 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-24T18:40:38.005430-04:00.lighthouse.json) |
+| [September 24 at 6:42 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-24T06:42:26.400129-04:00.lighthouse.json) |
+| [September 23 at 7:50 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-23T19:50:37.372119-04:00.lighthouse.json) |
+| [September 23 at 6:46 AM](https://archive.org/download/ainonline-2022/ainonline-2022-09-23T06:46:29.054406-04:00.lighthouse.json) |
+| [September 22 at 6:49 PM](https://archive.org/download/ainonline-2022/ainonline-2022-09-22T18:49:33.958459-04:00.lighthouse.json) |
 
 
 

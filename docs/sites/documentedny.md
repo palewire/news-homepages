@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 147 screenshots with the Internet Archive.
+The archiving routine has saved 163 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-19T12:00:04.198595-04:00.jpg">
-  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-09-19T12:00:04.198595-04:00.jpg"
-     alt="Documented at 2022-09-19 12:00:05-04:00 local time"
+ <a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-27T02:59:54.639012-04:00.jpg">
+  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-09-27T02:59:54.639012-04:00.jpg"
+     alt="Documented at 2022-09-27 02:59:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-19T12:00:04.198595-04:00.jpg">September 19 at 12:00 PM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-27T02:59:54.639012-04:00.jpg">September 27 at 2:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-19T00:41:26.262445-04:00.jpg">
-  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-09-19T00:41:26.262445-04:00.jpg"
-     alt="Documented at 2022-09-19 00:41:28-04:00 local time"
+ <a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-26T13:42:07.006308-04:00.jpg">
+  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-09-26T13:42:07.006308-04:00.jpg"
+     alt="Documented at 2022-09-26 13:42:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-19T00:41:26.262445-04:00.jpg">September 19 at 12:41 AM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-26T13:42:07.006308-04:00.jpg">September 26 at 1:42 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-18T10:53:59.736686-04:00.jpg">
-  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-09-18T10:53:59.736686-04:00.jpg"
-     alt="Documented at 2022-09-18 10:54:00-04:00 local time"
+ <a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-26T02:14:56.468297-04:00.jpg">
+  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-09-26T02:14:56.468297-04:00.jpg"
+     alt="Documented at 2022-09-26 02:15:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-18T10:53:59.736686-04:00.jpg">September 18 at 10:54 AM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-26T02:14:56.468297-04:00.jpg">September 26 at 2:15 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-17T23:47:23.458492-04:00.jpg">
-  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-09-17T23:47:23.458492-04:00.jpg"
-     alt="Documented at 2022-09-17 23:47:25-04:00 local time"
+ <a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-25T13:22:39.204824-04:00.jpg">
+  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-09-25T13:22:39.204824-04:00.jpg"
+     alt="Documented at 2022-09-25 13:22:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-17T23:47:23.458492-04:00.jpg">September 17 at 11:47 PM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-25T13:22:39.204824-04:00.jpg">September 25 at 1:22 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-17T10:50:28.985687-04:00.jpg">
-  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-09-17T10:50:28.985687-04:00.jpg"
-     alt="Documented at 2022-09-17 10:50:46-04:00 local time"
+ <a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-25T01:47:48.389570-04:00.jpg">
+  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-09-25T01:47:48.389570-04:00.jpg"
+     alt="Documented at 2022-09-25 01:47:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-17T10:50:28.985687-04:00.jpg">September 17 at 10:50 AM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-25T01:47:48.389570-04:00.jpg">September 25 at 1:47 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-16T23:41:30.932884-04:00.jpg">
-  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-09-16T23:41:30.932884-04:00.jpg"
-     alt="Documented at 2022-09-16 23:41:32-04:00 local time"
+ <a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-24T13:21:58.292911-04:00.jpg">
+  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-09-24T13:21:58.292911-04:00.jpg"
+     alt="Documented at 2022-09-24 13:22:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-16T23:41:30.932884-04:00.jpg">September 16 at 11:41 PM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-24T13:21:58.292911-04:00.jpg">September 24 at 1:22 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-16T11:00:01.327010-04:00.jpg">
-  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-09-16T11:00:01.327010-04:00.jpg"
-     alt="Documented at 2022-09-16 11:00:04-04:00 local time"
+ <a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-24T01:47:43.970595-04:00.jpg">
+  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-09-24T01:47:43.970595-04:00.jpg"
+     alt="Documented at 2022-09-24 01:47:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-16T11:00:01.327010-04:00.jpg">September 16 at 11:00 AM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-24T01:47:43.970595-04:00.jpg">September 24 at 1:47 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-15T23:49:29.028987-04:00.jpg">
-  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-09-15T23:49:29.028987-04:00.jpg"
-     alt="Documented at 2022-09-15 23:49:46-04:00 local time"
+ <a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-23T13:36:02.435101-04:00.jpg">
+  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-09-23T13:36:02.435101-04:00.jpg"
+     alt="Documented at 2022-09-23 13:36:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-15T23:49:29.028987-04:00.jpg">September 15 at 11:49 PM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-23T13:36:02.435101-04:00.jpg">September 23 at 1:36 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-15T12:09:56.628069-04:00.jpg">
-  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-09-15T12:09:56.628069-04:00.jpg"
-     alt="Documented at 2022-09-15 12:09:59-04:00 local time"
+ <a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-23T03:14:31.577016-04:00.jpg">
+  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-09-23T03:14:31.577016-04:00.jpg"
+     alt="Documented at 2022-09-23 03:14:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-15T12:09:56.628069-04:00.jpg">September 15 at 12:09 PM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-23T03:14:31.577016-04:00.jpg">September 23 at 3:14 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-14T23:48:54.131281-04:00.jpg">
-  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-09-14T23:48:54.131281-04:00.jpg"
-     alt="Documented at 2022-09-14 23:48:55-04:00 local time"
+ <a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-22T13:36:53.557104-04:00.jpg">
+  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-09-22T13:36:53.557104-04:00.jpg"
+     alt="Documented at 2022-09-22 13:36:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-14T23:48:54.131281-04:00.jpg">September 14 at 11:48 PM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-22T13:36:53.557104-04:00.jpg">September 22 at 1:36 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-14T11:17:08.954784-04:00.jpg">
-  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-09-14T11:17:08.954784-04:00.jpg"
-     alt="Documented at 2022-09-14 11:17:10-04:00 local time"
+ <a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-22T02:05:24.606204-04:00.jpg">
+  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-09-22T02:05:24.606204-04:00.jpg"
+     alt="Documented at 2022-09-22 02:05:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-14T11:17:08.954784-04:00.jpg">September 14 at 11:17 AM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-22T02:05:24.606204-04:00.jpg">September 22 at 2:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-13T12:06:09.176910-04:00.jpg">
-  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-09-13T12:06:09.176910-04:00.jpg"
-     alt="Documented at 2022-09-13 12:06:14-04:00 local time"
+ <a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-21T13:36:36.579067-04:00.jpg">
+  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-09-21T13:36:36.579067-04:00.jpg"
+     alt="Documented at 2022-09-21 13:36:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-13T12:06:09.176910-04:00.jpg">September 13 at 12:06 PM</a></p>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-09-21T13:36:36.579067-04:00.jpg">September 21 at 1:36 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 147 hyperlink lists with the Internet Archive.
+The archiving routine has saved 163 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 12:00 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-19T12:00:04.198595-04:00.hyperlinks.json) |
-| [September 19 at 12:41 AM](https://archive.org/download/documentedny-2022/documentedny-2022-09-19T00:41:26.262445-04:00.hyperlinks.json) |
-| [September 18 at 10:54 AM](https://archive.org/download/documentedny-2022/documentedny-2022-09-18T10:53:59.736686-04:00.hyperlinks.json) |
-| [September 17 at 11:47 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-17T23:47:23.458492-04:00.hyperlinks.json) |
-| [September 17 at 10:50 AM](https://archive.org/download/documentedny-2022/documentedny-2022-09-17T10:50:28.985687-04:00.hyperlinks.json) |
-| [September 16 at 11:41 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-16T23:41:30.932884-04:00.hyperlinks.json) |
-| [September 16 at 11:00 AM](https://archive.org/download/documentedny-2022/documentedny-2022-09-16T11:00:01.327010-04:00.hyperlinks.json) |
-| [September 15 at 11:49 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-15T23:49:29.028987-04:00.hyperlinks.json) |
-| [September 15 at 12:10 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-15T12:09:56.628069-04:00.hyperlinks.json) |
-| [September 14 at 11:48 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-14T23:48:54.131281-04:00.hyperlinks.json) |
+| [September 27 at 2:59 AM](https://archive.org/download/documentedny-2022/documentedny-2022-09-27T02:59:54.639012-04:00.hyperlinks.json) |
+| [September 26 at 1:42 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-26T13:42:07.006308-04:00.hyperlinks.json) |
+| [September 26 at 2:15 AM](https://archive.org/download/documentedny-2022/documentedny-2022-09-26T02:14:56.468297-04:00.hyperlinks.json) |
+| [September 25 at 1:22 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-25T13:22:39.204824-04:00.hyperlinks.json) |
+| [September 25 at 1:47 AM](https://archive.org/download/documentedny-2022/documentedny-2022-09-25T01:47:48.389570-04:00.hyperlinks.json) |
+| [September 24 at 1:22 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-24T13:21:58.292911-04:00.hyperlinks.json) |
+| [September 24 at 1:47 AM](https://archive.org/download/documentedny-2022/documentedny-2022-09-24T01:47:43.970595-04:00.hyperlinks.json) |
+| [September 23 at 1:36 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-23T13:36:02.435101-04:00.hyperlinks.json) |
+| [September 23 at 3:14 AM](https://archive.org/download/documentedny-2022/documentedny-2022-09-23T03:14:31.577016-04:00.hyperlinks.json) |
+| [September 22 at 1:36 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-22T13:36:53.557104-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 146 accessibility trees with the Internet Archive.
+The archiving routine has saved 162 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 12:00 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-19T12:00:04.198595-04:00.accessibility.json) |
-| [September 19 at 12:41 AM](https://archive.org/download/documentedny-2022/documentedny-2022-09-19T00:41:26.262445-04:00.accessibility.json) |
-| [September 18 at 10:54 AM](https://archive.org/download/documentedny-2022/documentedny-2022-09-18T10:53:59.736686-04:00.accessibility.json) |
-| [September 17 at 11:47 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-17T23:47:23.458492-04:00.accessibility.json) |
-| [September 17 at 10:50 AM](https://archive.org/download/documentedny-2022/documentedny-2022-09-17T10:50:28.985687-04:00.accessibility.json) |
-| [September 16 at 11:41 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-16T23:41:30.932884-04:00.accessibility.json) |
-| [September 16 at 11:00 AM](https://archive.org/download/documentedny-2022/documentedny-2022-09-16T11:00:01.327010-04:00.accessibility.json) |
-| [September 15 at 11:49 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-15T23:49:29.028987-04:00.accessibility.json) |
-| [September 15 at 12:10 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-15T12:09:56.628069-04:00.accessibility.json) |
-| [September 14 at 11:48 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-14T23:48:54.131281-04:00.accessibility.json) |
+| [September 27 at 2:59 AM](https://archive.org/download/documentedny-2022/documentedny-2022-09-27T02:59:54.639012-04:00.accessibility.json) |
+| [September 26 at 1:42 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-26T13:42:07.006308-04:00.accessibility.json) |
+| [September 26 at 2:15 AM](https://archive.org/download/documentedny-2022/documentedny-2022-09-26T02:14:56.468297-04:00.accessibility.json) |
+| [September 25 at 1:22 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-25T13:22:39.204824-04:00.accessibility.json) |
+| [September 25 at 1:47 AM](https://archive.org/download/documentedny-2022/documentedny-2022-09-25T01:47:48.389570-04:00.accessibility.json) |
+| [September 24 at 1:22 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-24T13:21:58.292911-04:00.accessibility.json) |
+| [September 24 at 1:47 AM](https://archive.org/download/documentedny-2022/documentedny-2022-09-24T01:47:43.970595-04:00.accessibility.json) |
+| [September 23 at 1:36 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-23T13:36:02.435101-04:00.accessibility.json) |
+| [September 23 at 3:14 AM](https://archive.org/download/documentedny-2022/documentedny-2022-09-23T03:14:31.577016-04:00.accessibility.json) |
+| [September 22 at 1:36 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-22T13:36:53.557104-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 115 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 131 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 12:00 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-19T12:00:04.198595-04:00.lighthouse.json) |
-| [September 19 at 12:41 AM](https://archive.org/download/documentedny-2022/documentedny-2022-09-19T00:41:26.262445-04:00.lighthouse.json) |
-| [September 18 at 10:54 AM](https://archive.org/download/documentedny-2022/documentedny-2022-09-18T10:53:59.736686-04:00.lighthouse.json) |
-| [September 17 at 11:47 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-17T23:47:23.458492-04:00.lighthouse.json) |
-| [September 17 at 10:50 AM](https://archive.org/download/documentedny-2022/documentedny-2022-09-17T10:50:28.985687-04:00.lighthouse.json) |
-| [September 16 at 11:41 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-16T23:41:30.932884-04:00.lighthouse.json) |
-| [September 16 at 11:00 AM](https://archive.org/download/documentedny-2022/documentedny-2022-09-16T11:00:01.327010-04:00.lighthouse.json) |
-| [September 15 at 11:49 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-15T23:49:29.028987-04:00.lighthouse.json) |
-| [September 15 at 12:10 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-15T12:09:56.628069-04:00.lighthouse.json) |
-| [September 14 at 11:49 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-14T23:48:54.131281-04:00.lighthouse.json) |
+| [September 27 at 3:00 AM](https://archive.org/download/documentedny-2022/documentedny-2022-09-27T02:59:54.639012-04:00.lighthouse.json) |
+| [September 26 at 1:42 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-26T13:42:07.006308-04:00.lighthouse.json) |
+| [September 26 at 2:15 AM](https://archive.org/download/documentedny-2022/documentedny-2022-09-26T02:14:56.468297-04:00.lighthouse.json) |
+| [September 25 at 1:22 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-25T13:22:39.204824-04:00.lighthouse.json) |
+| [September 25 at 1:47 AM](https://archive.org/download/documentedny-2022/documentedny-2022-09-25T01:47:48.389570-04:00.lighthouse.json) |
+| [September 24 at 1:22 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-24T13:21:58.292911-04:00.lighthouse.json) |
+| [September 24 at 1:47 AM](https://archive.org/download/documentedny-2022/documentedny-2022-09-24T01:47:43.970595-04:00.lighthouse.json) |
+| [September 23 at 1:36 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-23T13:36:02.435101-04:00.lighthouse.json) |
+| [September 23 at 3:14 AM](https://archive.org/download/documentedny-2022/documentedny-2022-09-23T03:14:31.577016-04:00.lighthouse.json) |
+| [September 22 at 1:36 PM](https://archive.org/download/documentedny-2022/documentedny-2022-09-22T13:36:53.557104-04:00.lighthouse.json) |
 
 
 

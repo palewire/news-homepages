@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 319 screenshots with the Internet Archive.
+The archiving routine has saved 338 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-19T11:04:49.498789-05:00.jpg">
-  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-19T11:04:49.498789-05:00.jpg"
-     alt="KCAU at 2022-09-19 11:04:52-05:00 local time"
+ <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-27T00:42:21.917509-05:00.jpg">
+  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-27T00:42:21.917509-05:00.jpg"
+     alt="KCAU at 2022-09-27 00:42:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-19T11:04:49.498789-05:00.jpg">September 19 at 11:04 AM</a></p>
+ <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-27T00:42:21.917509-05:00.jpg">September 27 at 12:42 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-19T10:58:51.309819-05:00.jpg">
-  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-19T10:58:51.309819-05:00.jpg"
-     alt="KCAU at 2022-09-19 10:58:59-05:00 local time"
+ <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-26T12:29:00.567008-05:00.jpg">
+  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-26T12:29:00.567008-05:00.jpg"
+     alt="KCAU at 2022-09-26 12:29:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-19T10:58:51.309819-05:00.jpg">September 19 at 10:58 AM</a></p>
+ <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-26T12:29:00.567008-05:00.jpg">September 26 at 12:29 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-18T23:48:11.941857-05:00.jpg">
-  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-18T23:48:11.941857-05:00.jpg"
-     alt="KCAU at 2022-09-18 23:48:40-05:00 local time"
+ <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-26T11:12:09.707625-05:00.jpg">
+  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-26T11:12:09.707625-05:00.jpg"
+     alt="KCAU at 2022-09-26 11:12:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-18T23:48:11.941857-05:00.jpg">September 18 at 11:48 PM</a></p>
+ <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-26T11:12:09.707625-05:00.jpg">September 26 at 11:12 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-18T10:59:43.670243-05:00.jpg">
-  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-18T10:59:43.670243-05:00.jpg"
-     alt="KCAU at 2022-09-18 11:00:03-05:00 local time"
+ <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-26T01:02:47.965694-05:00.jpg">
+  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-26T01:02:47.965694-05:00.jpg"
+     alt="KCAU at 2022-09-26 01:03:09-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-18T10:59:43.670243-05:00.jpg">September 18 at 11:00 AM</a></p>
+ <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-26T01:02:47.965694-05:00.jpg">September 26 at 1:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-18T00:20:11.785564-05:00.jpg">
-  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-18T00:20:11.785564-05:00.jpg"
-     alt="KCAU at 2022-09-18 00:20:14-05:00 local time"
+ <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-25T12:12:24.736501-05:00.jpg">
+  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-25T12:12:24.736501-05:00.jpg"
+     alt="KCAU at 2022-09-25 12:12:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-18T00:20:11.785564-05:00.jpg">September 18 at 12:20 AM</a></p>
+ <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-25T12:12:24.736501-05:00.jpg">September 25 at 12:12 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-17T10:56:07.233762-05:00.jpg">
-  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-17T10:56:07.233762-05:00.jpg"
-     alt="KCAU at 2022-09-17 10:56:19-05:00 local time"
+ <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-25T00:38:31.311722-05:00.jpg">
+  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-25T00:38:31.311722-05:00.jpg"
+     alt="KCAU at 2022-09-25 00:38:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-17T10:56:07.233762-05:00.jpg">September 17 at 10:56 AM</a></p>
+ <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-25T00:38:31.311722-05:00.jpg">September 25 at 12:38 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-16T23:32:05.306087-05:00.jpg">
-  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-16T23:32:05.306087-05:00.jpg"
-     alt="KCAU at 2022-09-16 23:32:06-05:00 local time"
+ <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-24T12:11:27.251468-05:00.jpg">
+  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-24T12:11:27.251468-05:00.jpg"
+     alt="KCAU at 2022-09-24 12:11:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-16T23:32:05.306087-05:00.jpg">September 16 at 11:32 PM</a></p>
+ <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-24T12:11:27.251468-05:00.jpg">September 24 at 12:11 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-16T11:08:00.198951-05:00.jpg">
-  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-16T11:08:00.198951-05:00.jpg"
-     alt="KCAU at 2022-09-16 11:08:03-05:00 local time"
+ <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-24T00:39:02.121648-05:00.jpg">
+  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-24T00:39:02.121648-05:00.jpg"
+     alt="KCAU at 2022-09-24 00:39:12-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-16T11:08:00.198951-05:00.jpg">September 16 at 11:08 AM</a></p>
+ <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-24T00:39:02.121648-05:00.jpg">September 24 at 12:39 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-16T11:01:48.237845-05:00.jpg">
-  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-16T11:01:48.237845-05:00.jpg"
-     alt="KCAU at 2022-09-16 11:01:50-05:00 local time"
+ <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-23T12:23:43.809402-05:00.jpg">
+  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-23T12:23:43.809402-05:00.jpg"
+     alt="KCAU at 2022-09-23 12:23:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-16T11:01:48.237845-05:00.jpg">September 16 at 11:01 AM</a></p>
+ <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-23T12:23:43.809402-05:00.jpg">September 23 at 12:23 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-16T00:24:29.703484-05:00.jpg">
-  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-16T00:24:29.703484-05:00.jpg"
-     alt="KCAU at 2022-09-16 00:24:30-05:00 local time"
+ <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-23T11:02:23.513521-05:00.jpg">
+  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-23T11:02:23.513521-05:00.jpg"
+     alt="KCAU at 2022-09-23 11:02:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-16T00:24:29.703484-05:00.jpg">September 16 at 12:24 AM</a></p>
+ <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-23T11:02:23.513521-05:00.jpg">September 23 at 11:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-15T11:16:50.752557-05:00.jpg">
-  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-15T11:16:50.752557-05:00.jpg"
-     alt="KCAU at 2022-09-15 11:17:15-05:00 local time"
+ <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-23T00:22:09.776981-05:00.jpg">
+  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-23T00:22:09.776981-05:00.jpg"
+     alt="KCAU at 2022-09-23 00:22:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-15T11:16:50.752557-05:00.jpg">September 15 at 11:17 AM</a></p>
+ <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-23T00:22:09.776981-05:00.jpg">September 23 at 12:22 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-15T00:24:10.690606-05:00.jpg">
-  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-15T00:24:10.690606-05:00.jpg"
-     alt="KCAU at 2022-09-15 00:24:12-05:00 local time"
+ <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-22T12:24:11.250217-05:00.jpg">
+  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-22T12:24:11.250217-05:00.jpg"
+     alt="KCAU at 2022-09-22 12:24:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-15T00:24:10.690606-05:00.jpg">September 15 at 12:24 AM</a></p>
+ <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-22T12:24:11.250217-05:00.jpg">September 22 at 12:24 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 312 hyperlink lists with the Internet Archive.
+The archiving routine has saved 331 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 11:04 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-19T11:04:49.498789-05:00.hyperlinks.json) |
-| [September 19 at 10:59 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-19T10:58:51.309819-05:00.hyperlinks.json) |
-| [September 18 at 11:48 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-18T23:48:11.941857-05:00.hyperlinks.json) |
-| [September 18 at 11:00 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-18T10:59:43.670243-05:00.hyperlinks.json) |
-| [September 18 at 12:20 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-18T00:20:11.785564-05:00.hyperlinks.json) |
-| [September 17 at 10:56 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-17T10:56:07.233762-05:00.hyperlinks.json) |
-| [September 16 at 11:32 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-16T23:32:05.306087-05:00.hyperlinks.json) |
-| [September 16 at 11:08 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-16T11:08:00.198951-05:00.hyperlinks.json) |
-| [September 16 at 11:01 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-16T11:01:48.237845-05:00.hyperlinks.json) |
-| [September 16 at 12:24 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-16T00:24:29.703484-05:00.hyperlinks.json) |
+| [September 27 at 12:42 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-27T00:42:21.917509-05:00.hyperlinks.json) |
+| [September 26 at 12:29 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-26T12:29:00.567008-05:00.hyperlinks.json) |
+| [September 26 at 11:12 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-26T11:12:09.707625-05:00.hyperlinks.json) |
+| [September 26 at 1:03 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-26T01:02:47.965694-05:00.hyperlinks.json) |
+| [September 25 at 12:12 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-25T12:12:24.736501-05:00.hyperlinks.json) |
+| [September 25 at 12:38 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-25T00:38:31.311722-05:00.hyperlinks.json) |
+| [September 24 at 12:11 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-24T12:11:27.251468-05:00.hyperlinks.json) |
+| [September 24 at 12:39 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-24T00:39:02.121648-05:00.hyperlinks.json) |
+| [September 23 at 12:23 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-23T12:23:43.809402-05:00.hyperlinks.json) |
+| [September 23 at 11:02 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-23T11:02:23.513521-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 313 accessibility trees with the Internet Archive.
+The archiving routine has saved 331 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 11:04 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-19T11:04:49.498789-05:00.accessibility.json) |
-| [September 19 at 10:59 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-19T10:58:51.309819-05:00.accessibility.json) |
-| [September 18 at 11:48 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-18T23:48:11.941857-05:00.accessibility.json) |
-| [September 18 at 11:00 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-18T10:59:43.670243-05:00.accessibility.json) |
-| [September 18 at 12:20 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-18T00:20:11.785564-05:00.accessibility.json) |
-| [September 17 at 10:56 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-17T10:56:07.233762-05:00.accessibility.json) |
-| [September 16 at 11:32 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-16T23:32:05.306087-05:00.accessibility.json) |
-| [September 16 at 11:08 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-16T11:08:00.198951-05:00.accessibility.json) |
-| [September 16 at 11:01 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-16T11:01:48.237845-05:00.accessibility.json) |
-| [September 16 at 12:24 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-16T00:24:29.703484-05:00.accessibility.json) |
+| [September 27 at 12:42 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-27T00:42:21.917509-05:00.accessibility.json) |
+| [September 26 at 12:29 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-26T12:29:00.567008-05:00.accessibility.json) |
+| [September 26 at 11:12 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-26T11:12:09.707625-05:00.accessibility.json) |
+| [September 25 at 12:12 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-25T12:12:24.736501-05:00.accessibility.json) |
+| [September 25 at 12:38 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-25T00:38:31.311722-05:00.accessibility.json) |
+| [September 24 at 12:11 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-24T12:11:27.251468-05:00.accessibility.json) |
+| [September 24 at 12:39 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-24T00:39:02.121648-05:00.accessibility.json) |
+| [September 23 at 12:23 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-23T12:23:43.809402-05:00.accessibility.json) |
+| [September 23 at 11:02 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-23T11:02:23.513521-05:00.accessibility.json) |
+| [September 23 at 12:22 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-23T00:22:09.776981-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 135 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 153 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 11:05 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-19T11:04:49.498789-05:00.lighthouse.json) |
-| [September 19 at 10:59 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-19T10:58:51.309819-05:00.lighthouse.json) |
-| [September 18 at 11:48 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-18T23:48:11.941857-05:00.lighthouse.json) |
-| [September 18 at 11:00 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-18T10:59:43.670243-05:00.lighthouse.json) |
-| [September 18 at 12:20 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-18T00:20:11.785564-05:00.lighthouse.json) |
-| [September 17 at 10:56 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-17T10:56:07.233762-05:00.lighthouse.json) |
-| [September 16 at 11:32 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-16T23:32:05.306087-05:00.lighthouse.json) |
-| [September 16 at 11:08 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-16T11:08:00.198951-05:00.lighthouse.json) |
-| [September 16 at 11:02 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-16T11:01:48.237845-05:00.lighthouse.json) |
-| [September 16 at 12:24 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-16T00:24:29.703484-05:00.lighthouse.json) |
+| [September 26 at 12:29 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-26T12:29:00.567008-05:00.lighthouse.json) |
+| [September 26 at 11:12 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-26T11:12:09.707625-05:00.lighthouse.json) |
+| [September 26 at 1:03 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-26T01:02:47.965694-05:00.lighthouse.json) |
+| [September 25 at 12:12 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-25T12:12:24.736501-05:00.lighthouse.json) |
+| [September 25 at 12:38 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-25T00:38:31.311722-05:00.lighthouse.json) |
+| [September 24 at 12:11 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-24T12:11:27.251468-05:00.lighthouse.json) |
+| [September 24 at 12:39 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-24T00:39:02.121648-05:00.lighthouse.json) |
+| [September 23 at 12:23 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-23T12:23:43.809402-05:00.lighthouse.json) |
+| [September 23 at 11:02 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-23T11:02:23.513521-05:00.lighthouse.json) |
+| [September 23 at 12:22 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-23T00:22:09.776981-05:00.lighthouse.json) |
 
 
 

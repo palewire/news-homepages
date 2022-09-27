@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 143 screenshots with the Internet Archive.
+The archiving routine has saved 158 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-19T12:33:35.917196-05:00.jpg">
-  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-19T12:33:35.917196-05:00.jpg"
-     alt="Montana Free Press at 2022-09-19 12:33:38-05:00 local time"
+ <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-27T00:45:12.450606-05:00.jpg">
+  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-27T00:45:12.450606-05:00.jpg"
+     alt="Montana Free Press at 2022-09-27 00:45:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-19T12:33:35.917196-05:00.jpg">September 19 at 12:33 PM</a></p>
+ <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-27T00:45:12.450606-05:00.jpg">September 27 at 12:45 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-19T01:03:21.266580-05:00.jpg">
-  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-19T01:03:21.266580-05:00.jpg"
-     alt="Montana Free Press at 2022-09-19 01:03:23-05:00 local time"
+ <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-26T12:35:13.216017-05:00.jpg">
+  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-26T12:35:13.216017-05:00.jpg"
+     alt="Montana Free Press at 2022-09-26 12:35:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-19T01:03:21.266580-05:00.jpg">September 19 at 1:03 AM</a></p>
+ <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-26T12:35:13.216017-05:00.jpg">September 26 at 12:35 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-18T12:26:28.364801-05:00.jpg">
-  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-18T12:26:28.364801-05:00.jpg"
-     alt="Montana Free Press at 2022-09-18 12:26:29-05:00 local time"
+ <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-26T01:06:22.640912-05:00.jpg">
+  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-26T01:06:22.640912-05:00.jpg"
+     alt="Montana Free Press at 2022-09-26 01:06:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-18T12:26:28.364801-05:00.jpg">September 18 at 12:26 PM</a></p>
+ <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-26T01:06:22.640912-05:00.jpg">September 26 at 1:06 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-18T00:23:28.368076-05:00.jpg">
-  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-18T00:23:28.368076-05:00.jpg"
-     alt="Montana Free Press at 2022-09-18 00:23:33-05:00 local time"
+ <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-25T12:15:28.799938-05:00.jpg">
+  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-25T12:15:28.799938-05:00.jpg"
+     alt="Montana Free Press at 2022-09-25 12:15:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-18T00:23:28.368076-05:00.jpg">September 18 at 12:23 AM</a></p>
+ <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-25T12:15:28.799938-05:00.jpg">September 25 at 12:15 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-17T11:00:06.979755-05:00.jpg">
-  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-17T11:00:06.979755-05:00.jpg"
-     alt="Montana Free Press at 2022-09-17 11:00:08-05:00 local time"
+ <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-25T00:41:49.986746-05:00.jpg">
+  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-25T00:41:49.986746-05:00.jpg"
+     alt="Montana Free Press at 2022-09-25 00:41:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-17T11:00:06.979755-05:00.jpg">September 17 at 11:00 AM</a></p>
+ <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-25T00:41:49.986746-05:00.jpg">September 25 at 12:41 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-16T23:33:57.390469-05:00.jpg">
-  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-16T23:33:57.390469-05:00.jpg"
-     alt="Montana Free Press at 2022-09-16 23:33:58-05:00 local time"
+ <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-24T12:15:34.059139-05:00.jpg">
+  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-24T12:15:34.059139-05:00.jpg"
+     alt="Montana Free Press at 2022-09-24 12:15:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-16T23:33:57.390469-05:00.jpg">September 16 at 11:33 PM</a></p>
+ <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-24T12:15:34.059139-05:00.jpg">September 24 at 12:15 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-16T11:04:42.903490-05:00.jpg">
-  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-16T11:04:42.903490-05:00.jpg"
-     alt="Montana Free Press at 2022-09-16 11:04:46-05:00 local time"
+ <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-24T00:42:25.664765-05:00.jpg">
+  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-24T00:42:25.664765-05:00.jpg"
+     alt="Montana Free Press at 2022-09-24 00:42:27-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-16T11:04:42.903490-05:00.jpg">September 16 at 11:04 AM</a></p>
+ <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-24T00:42:25.664765-05:00.jpg">September 24 at 12:42 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-16T00:27:12.368811-05:00.jpg">
-  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-16T00:27:12.368811-05:00.jpg"
-     alt="Montana Free Press at 2022-09-16 00:27:14-05:00 local time"
+ <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-23T12:26:49.215737-05:00.jpg">
+  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-23T12:26:49.215737-05:00.jpg"
+     alt="Montana Free Press at 2022-09-23 12:26:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-16T00:27:12.368811-05:00.jpg">September 16 at 12:27 AM</a></p>
+ <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-23T12:26:49.215737-05:00.jpg">September 23 at 12:26 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-15T11:25:41.577754-05:00.jpg">
-  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-15T11:25:41.577754-05:00.jpg"
-     alt="Montana Free Press at 2022-09-15 11:25:47-05:00 local time"
+ <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-23T00:25:06.093713-05:00.jpg">
+  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-23T00:25:06.093713-05:00.jpg"
+     alt="Montana Free Press at 2022-09-23 00:25:08-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-15T11:25:41.577754-05:00.jpg">September 15 at 11:25 AM</a></p>
+ <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-23T00:25:06.093713-05:00.jpg">September 23 at 12:25 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-15T00:25:48.838812-05:00.jpg">
-  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-15T00:25:48.838812-05:00.jpg"
-     alt="Montana Free Press at 2022-09-15 00:25:53-05:00 local time"
+ <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-22T12:27:17.961738-05:00.jpg">
+  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-22T12:27:17.961738-05:00.jpg"
+     alt="Montana Free Press at 2022-09-22 12:27:22-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-15T00:25:48.838812-05:00.jpg">September 15 at 12:25 AM</a></p>
+ <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-22T12:27:17.961738-05:00.jpg">September 22 at 12:27 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-14T11:27:42.612439-05:00.jpg">
-  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-14T11:27:42.612439-05:00.jpg"
-     alt="Montana Free Press at 2022-09-14 11:27:45-05:00 local time"
+ <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-22T00:58:01.582579-05:00.jpg">
+  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-22T00:58:01.582579-05:00.jpg"
+     alt="Montana Free Press at 2022-09-22 00:58:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-14T11:27:42.612439-05:00.jpg">September 14 at 11:27 AM</a></p>
+ <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-22T00:58:01.582579-05:00.jpg">September 22 at 12:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-13T23:46:23.805691-05:00.jpg">
-  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-13T23:46:23.805691-05:00.jpg"
-     alt="Montana Free Press at 2022-09-13 23:46:25-05:00 local time"
+ <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-21T12:31:26.739863-05:00.jpg">
+  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-21T12:31:26.739863-05:00.jpg"
+     alt="Montana Free Press at 2022-09-21 12:31:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-13T23:46:23.805691-05:00.jpg">September 13 at 11:46 PM</a></p>
+ <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-21T12:31:26.739863-05:00.jpg">September 21 at 12:31 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 144 hyperlink lists with the Internet Archive.
+The archiving routine has saved 159 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 12:33 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-19T12:33:35.917196-05:00.hyperlinks.json) |
-| [September 19 at 1:03 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-19T01:03:21.266580-05:00.hyperlinks.json) |
-| [September 18 at 12:26 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-18T12:26:28.364801-05:00.hyperlinks.json) |
-| [September 18 at 12:23 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-18T00:23:28.368076-05:00.hyperlinks.json) |
-| [September 17 at 11:00 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-17T11:00:06.979755-05:00.hyperlinks.json) |
-| [September 16 at 11:34 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-16T23:33:57.390469-05:00.hyperlinks.json) |
-| [September 16 at 11:04 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-16T11:04:42.903490-05:00.hyperlinks.json) |
-| [September 16 at 12:27 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-16T00:27:12.368811-05:00.hyperlinks.json) |
-| [September 15 at 11:25 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-15T11:25:41.577754-05:00.hyperlinks.json) |
-| [September 15 at 12:25 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-15T00:25:48.838812-05:00.hyperlinks.json) |
+| [September 27 at 12:45 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-27T00:45:12.450606-05:00.hyperlinks.json) |
+| [September 26 at 12:35 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-26T12:35:13.216017-05:00.hyperlinks.json) |
+| [September 26 at 1:06 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-26T01:06:22.640912-05:00.hyperlinks.json) |
+| [September 25 at 12:15 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-25T12:15:28.799938-05:00.hyperlinks.json) |
+| [September 25 at 12:41 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-25T00:41:49.986746-05:00.hyperlinks.json) |
+| [September 24 at 12:15 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-24T12:15:34.059139-05:00.hyperlinks.json) |
+| [September 24 at 12:42 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-24T00:42:25.664765-05:00.hyperlinks.json) |
+| [September 23 at 12:26 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-23T12:26:49.215737-05:00.hyperlinks.json) |
+| [September 23 at 12:25 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-23T00:25:06.093713-05:00.hyperlinks.json) |
+| [September 22 at 12:27 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-22T12:27:17.961738-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 143 accessibility trees with the Internet Archive.
+The archiving routine has saved 158 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 12:33 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-19T12:33:35.917196-05:00.accessibility.json) |
-| [September 19 at 1:03 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-19T01:03:21.266580-05:00.accessibility.json) |
-| [September 18 at 12:26 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-18T12:26:28.364801-05:00.accessibility.json) |
-| [September 18 at 12:23 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-18T00:23:28.368076-05:00.accessibility.json) |
-| [September 17 at 11:00 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-17T11:00:06.979755-05:00.accessibility.json) |
-| [September 16 at 11:34 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-16T23:33:57.390469-05:00.accessibility.json) |
-| [September 16 at 11:04 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-16T11:04:42.903490-05:00.accessibility.json) |
-| [September 16 at 12:27 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-16T00:27:12.368811-05:00.accessibility.json) |
-| [September 15 at 11:25 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-15T11:25:41.577754-05:00.accessibility.json) |
-| [September 15 at 12:25 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-15T00:25:48.838812-05:00.accessibility.json) |
+| [September 27 at 12:45 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-27T00:45:12.450606-05:00.accessibility.json) |
+| [September 26 at 12:35 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-26T12:35:13.216017-05:00.accessibility.json) |
+| [September 26 at 1:06 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-26T01:06:22.640912-05:00.accessibility.json) |
+| [September 25 at 12:15 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-25T12:15:28.799938-05:00.accessibility.json) |
+| [September 25 at 12:41 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-25T00:41:49.986746-05:00.accessibility.json) |
+| [September 24 at 12:15 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-24T12:15:34.059139-05:00.accessibility.json) |
+| [September 24 at 12:42 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-24T00:42:25.664765-05:00.accessibility.json) |
+| [September 23 at 12:26 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-23T12:26:49.215737-05:00.accessibility.json) |
+| [September 23 at 12:25 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-23T00:25:06.093713-05:00.accessibility.json) |
+| [September 22 at 12:27 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-22T12:27:17.961738-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 114 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 129 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 12:33 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-19T12:33:35.917196-05:00.lighthouse.json) |
-| [September 19 at 1:03 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-19T01:03:21.266580-05:00.lighthouse.json) |
-| [September 18 at 12:26 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-18T12:26:28.364801-05:00.lighthouse.json) |
-| [September 18 at 12:23 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-18T00:23:28.368076-05:00.lighthouse.json) |
-| [September 17 at 11:00 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-17T11:00:06.979755-05:00.lighthouse.json) |
-| [September 16 at 11:34 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-16T23:33:57.390469-05:00.lighthouse.json) |
-| [September 16 at 11:04 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-16T11:04:42.903490-05:00.lighthouse.json) |
-| [September 16 at 12:27 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-16T00:27:12.368811-05:00.lighthouse.json) |
-| [September 15 at 11:25 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-15T11:25:41.577754-05:00.lighthouse.json) |
-| [September 15 at 12:26 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-15T00:25:48.838812-05:00.lighthouse.json) |
+| [September 27 at 12:45 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-27T00:45:12.450606-05:00.lighthouse.json) |
+| [September 26 at 12:35 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-26T12:35:13.216017-05:00.lighthouse.json) |
+| [September 26 at 1:06 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-26T01:06:22.640912-05:00.lighthouse.json) |
+| [September 25 at 12:15 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-25T12:15:28.799938-05:00.lighthouse.json) |
+| [September 25 at 12:42 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-25T00:41:49.986746-05:00.lighthouse.json) |
+| [September 24 at 12:15 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-24T12:15:34.059139-05:00.lighthouse.json) |
+| [September 24 at 12:42 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-24T00:42:25.664765-05:00.lighthouse.json) |
+| [September 23 at 12:26 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-23T12:26:49.215737-05:00.lighthouse.json) |
+| [September 23 at 12:25 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-23T00:25:06.093713-05:00.lighthouse.json) |
+| [September 22 at 12:27 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-09-22T12:27:17.961738-05:00.lighthouse.json) |
 
 
 

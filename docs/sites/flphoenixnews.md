@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 210 screenshots with the Internet Archive.
+The archiving routine has saved 227 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-19T07:55:16.417461-04:00.jpg">
-  <img src="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-19T07:55:16.417461-04:00.jpg"
-     alt="Florida Phoenix at 2022-09-19 07:55:23-04:00 local time"
+ <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-27T07:55:42.690644-04:00.jpg">
+  <img src="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-27T07:55:42.690644-04:00.jpg"
+     alt="Florida Phoenix at 2022-09-27 07:55:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-19T07:55:16.417461-04:00.jpg">September 19 at 7:55 AM</a></p>
+ <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-27T07:55:42.690644-04:00.jpg">September 27 at 7:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-18T19:47:06.153442-04:00.jpg">
-  <img src="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-18T19:47:06.153442-04:00.jpg"
-     alt="Florida Phoenix at 2022-09-18 19:47:07-04:00 local time"
+ <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-26T19:49:44.733304-04:00.jpg">
+  <img src="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-26T19:49:44.733304-04:00.jpg"
+     alt="Florida Phoenix at 2022-09-26 19:49:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-18T19:47:06.153442-04:00.jpg">September 18 at 7:47 PM</a></p>
+ <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-26T19:49:44.733304-04:00.jpg">September 26 at 7:49 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-18T07:56:13.409128-04:00.jpg">
-  <img src="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-18T07:56:13.409128-04:00.jpg"
-     alt="Florida Phoenix at 2022-09-18 07:56:17-04:00 local time"
+ <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-26T08:02:42.043777-04:00.jpg">
+  <img src="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-26T08:02:42.043777-04:00.jpg"
+     alt="Florida Phoenix at 2022-09-26 08:02:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-18T07:56:13.409128-04:00.jpg">September 18 at 7:56 AM</a></p>
+ <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-26T08:02:42.043777-04:00.jpg">September 26 at 8:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-17T19:48:43.491180-04:00.jpg">
-  <img src="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-17T19:48:43.491180-04:00.jpg"
-     alt="Florida Phoenix at 2022-09-17 19:48:45-04:00 local time"
+ <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-25T19:43:08.843004-04:00.jpg">
+  <img src="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-25T19:43:08.843004-04:00.jpg"
+     alt="Florida Phoenix at 2022-09-25 19:43:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-17T19:48:43.491180-04:00.jpg">September 17 at 7:48 PM</a></p>
+ <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-25T19:43:08.843004-04:00.jpg">September 25 at 7:43 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-17T07:56:47.888823-04:00.jpg">
-  <img src="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-17T07:56:47.888823-04:00.jpg"
-     alt="Florida Phoenix at 2022-09-17 07:56:54-04:00 local time"
+ <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-25T07:48:13.187960-04:00.jpg">
+  <img src="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-25T07:48:13.187960-04:00.jpg"
+     alt="Florida Phoenix at 2022-09-25 07:48:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-17T07:56:47.888823-04:00.jpg">September 17 at 7:56 AM</a></p>
+ <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-25T07:48:13.187960-04:00.jpg">September 25 at 7:48 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-16T19:49:07.835554-04:00.jpg">
-  <img src="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-16T19:49:07.835554-04:00.jpg"
-     alt="Florida Phoenix at 2022-09-16 19:49:09-04:00 local time"
+ <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-24T19:40:25.213024-04:00.jpg">
+  <img src="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-24T19:40:25.213024-04:00.jpg"
+     alt="Florida Phoenix at 2022-09-24 19:40:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-16T19:49:07.835554-04:00.jpg">September 16 at 7:49 PM</a></p>
+ <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-24T19:40:25.213024-04:00.jpg">September 24 at 7:40 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-16T07:57:43.751449-04:00.jpg">
-  <img src="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-16T07:57:43.751449-04:00.jpg"
-     alt="Florida Phoenix at 2022-09-16 07:57:51-04:00 local time"
+ <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-24T07:49:19.712611-04:00.jpg">
+  <img src="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-24T07:49:19.712611-04:00.jpg"
+     alt="Florida Phoenix at 2022-09-24 07:49:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-16T07:57:43.751449-04:00.jpg">September 16 at 7:57 AM</a></p>
+ <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-24T07:49:19.712611-04:00.jpg">September 24 at 7:49 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-15T19:47:47.849617-04:00.jpg">
-  <img src="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-15T19:47:47.849617-04:00.jpg"
-     alt="Florida Phoenix at 2022-09-15 19:47:58-04:00 local time"
+ <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-23T19:46:49.384899-04:00.jpg">
+  <img src="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-23T19:46:49.384899-04:00.jpg"
+     alt="Florida Phoenix at 2022-09-23 19:46:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-15T19:47:47.849617-04:00.jpg">September 15 at 7:47 PM</a></p>
+ <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-23T19:46:49.384899-04:00.jpg">September 23 at 7:46 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-15T07:58:18.982764-04:00.jpg">
-  <img src="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-15T07:58:18.982764-04:00.jpg"
-     alt="Florida Phoenix at 2022-09-15 07:58:26-04:00 local time"
+ <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-23T07:55:57.872775-04:00.jpg">
+  <img src="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-23T07:55:57.872775-04:00.jpg"
+     alt="Florida Phoenix at 2022-09-23 07:55:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-15T07:58:18.982764-04:00.jpg">September 15 at 7:58 AM</a></p>
+ <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-23T07:55:57.872775-04:00.jpg">September 23 at 7:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-14T19:56:13.081408-04:00.jpg">
-  <img src="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-14T19:56:13.081408-04:00.jpg"
-     alt="Florida Phoenix at 2022-09-14 19:56:18-04:00 local time"
+ <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-22T19:47:28.793897-04:00.jpg">
+  <img src="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-22T19:47:28.793897-04:00.jpg"
+     alt="Florida Phoenix at 2022-09-22 19:47:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-14T19:56:13.081408-04:00.jpg">September 14 at 7:56 PM</a></p>
+ <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-22T19:47:28.793897-04:00.jpg">September 22 at 7:47 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-14T08:00:45.409617-04:00.jpg">
-  <img src="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-14T08:00:45.409617-04:00.jpg"
-     alt="Florida Phoenix at 2022-09-14 08:00:47-04:00 local time"
+ <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-22T07:57:16.705141-04:00.jpg">
+  <img src="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-22T07:57:16.705141-04:00.jpg"
+     alt="Florida Phoenix at 2022-09-22 07:57:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-14T08:00:45.409617-04:00.jpg">September 14 at 8:00 AM</a></p>
+ <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-22T07:57:16.705141-04:00.jpg">September 22 at 7:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-13T19:52:25.541273-04:00.jpg">
-  <img src="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-13T19:52:25.541273-04:00.jpg"
-     alt="Florida Phoenix at 2022-09-13 19:52:27-04:00 local time"
+ <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-21T19:43:30.240010-04:00.jpg">
+  <img src="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-21T19:43:30.240010-04:00.jpg"
+     alt="Florida Phoenix at 2022-09-21 19:43:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-13T19:52:25.541273-04:00.jpg">September 13 at 7:52 PM</a></p>
+ <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-21T19:43:30.240010-04:00.jpg">September 21 at 7:43 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 212 hyperlink lists with the Internet Archive.
+The archiving routine has saved 229 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 7:55 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-19T07:55:16.417461-04:00.hyperlinks.json) |
-| [September 18 at 7:47 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-18T19:47:06.153442-04:00.hyperlinks.json) |
-| [September 18 at 7:56 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-18T07:56:13.409128-04:00.hyperlinks.json) |
-| [September 17 at 7:48 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-17T19:48:43.491180-04:00.hyperlinks.json) |
-| [September 17 at 7:56 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-17T07:56:47.888823-04:00.hyperlinks.json) |
-| [September 16 at 7:49 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-16T19:49:07.835554-04:00.hyperlinks.json) |
-| [September 16 at 7:57 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-16T07:57:43.751449-04:00.hyperlinks.json) |
-| [September 15 at 7:48 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-15T19:47:47.849617-04:00.hyperlinks.json) |
-| [September 15 at 7:58 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-15T07:58:18.982764-04:00.hyperlinks.json) |
-| [September 14 at 7:56 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-14T19:56:13.081408-04:00.hyperlinks.json) |
+| [September 27 at 7:55 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-27T07:55:42.690644-04:00.hyperlinks.json) |
+| [September 26 at 7:49 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-26T19:49:44.733304-04:00.hyperlinks.json) |
+| [September 26 at 8:02 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-26T08:02:42.043777-04:00.hyperlinks.json) |
+| [September 25 at 7:43 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-25T19:43:08.843004-04:00.hyperlinks.json) |
+| [September 25 at 7:48 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-25T07:48:13.187960-04:00.hyperlinks.json) |
+| [September 24 at 7:40 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-24T19:40:25.213024-04:00.hyperlinks.json) |
+| [September 24 at 7:49 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-24T07:49:19.712611-04:00.hyperlinks.json) |
+| [September 23 at 7:46 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-23T19:46:49.384899-04:00.hyperlinks.json) |
+| [September 23 at 7:56 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-23T07:55:57.872775-04:00.hyperlinks.json) |
+| [September 22 at 7:47 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-22T19:47:28.793897-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 212 accessibility trees with the Internet Archive.
+The archiving routine has saved 229 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 7:55 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-19T07:55:16.417461-04:00.accessibility.json) |
-| [September 18 at 7:47 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-18T19:47:06.153442-04:00.accessibility.json) |
-| [September 18 at 7:56 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-18T07:56:13.409128-04:00.accessibility.json) |
-| [September 17 at 7:48 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-17T19:48:43.491180-04:00.accessibility.json) |
-| [September 17 at 7:56 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-17T07:56:47.888823-04:00.accessibility.json) |
-| [September 16 at 7:49 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-16T19:49:07.835554-04:00.accessibility.json) |
-| [September 16 at 7:57 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-16T07:57:43.751449-04:00.accessibility.json) |
-| [September 15 at 7:48 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-15T19:47:47.849617-04:00.accessibility.json) |
-| [September 15 at 7:58 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-15T07:58:18.982764-04:00.accessibility.json) |
-| [September 14 at 7:56 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-14T19:56:13.081408-04:00.accessibility.json) |
+| [September 27 at 7:55 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-27T07:55:42.690644-04:00.accessibility.json) |
+| [September 26 at 7:49 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-26T19:49:44.733304-04:00.accessibility.json) |
+| [September 26 at 8:02 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-26T08:02:42.043777-04:00.accessibility.json) |
+| [September 25 at 7:43 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-25T19:43:08.843004-04:00.accessibility.json) |
+| [September 25 at 7:48 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-25T07:48:13.187960-04:00.accessibility.json) |
+| [September 24 at 7:40 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-24T19:40:25.213024-04:00.accessibility.json) |
+| [September 24 at 7:49 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-24T07:49:19.712611-04:00.accessibility.json) |
+| [September 23 at 7:46 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-23T19:46:49.384899-04:00.accessibility.json) |
+| [September 23 at 7:56 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-23T07:55:57.872775-04:00.accessibility.json) |
+| [September 22 at 7:47 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-22T19:47:28.793897-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 116 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 7:55 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-19T07:55:16.417461-04:00.lighthouse.json) |
-| [September 18 at 7:47 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-18T19:47:06.153442-04:00.lighthouse.json) |
-| [September 18 at 7:56 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-18T07:56:13.409128-04:00.lighthouse.json) |
-| [September 17 at 7:48 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-17T19:48:43.491180-04:00.lighthouse.json) |
-| [September 17 at 7:56 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-17T07:56:47.888823-04:00.lighthouse.json) |
-| [September 16 at 7:49 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-16T19:49:07.835554-04:00.lighthouse.json) |
-| [September 16 at 7:57 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-16T07:57:43.751449-04:00.lighthouse.json) |
-| [September 15 at 7:48 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-15T19:47:47.849617-04:00.lighthouse.json) |
-| [September 15 at 7:58 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-15T07:58:18.982764-04:00.lighthouse.json) |
-| [September 14 at 7:56 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-14T19:56:13.081408-04:00.lighthouse.json) |
+| [September 27 at 7:55 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-27T07:55:42.690644-04:00.lighthouse.json) |
+| [September 26 at 7:49 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-26T19:49:44.733304-04:00.lighthouse.json) |
+| [September 26 at 8:02 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-26T08:02:42.043777-04:00.lighthouse.json) |
+| [September 25 at 7:43 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-25T19:43:08.843004-04:00.lighthouse.json) |
+| [September 25 at 7:48 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-25T07:48:13.187960-04:00.lighthouse.json) |
+| [September 24 at 7:40 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-24T19:40:25.213024-04:00.lighthouse.json) |
+| [September 24 at 7:49 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-24T07:49:19.712611-04:00.lighthouse.json) |
+| [September 23 at 7:46 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-23T19:46:49.384899-04:00.lighthouse.json) |
+| [September 23 at 7:56 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-23T07:55:57.872775-04:00.lighthouse.json) |
+| [September 22 at 7:47 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-09-22T19:47:28.793897-04:00.lighthouse.json) |
 
 
 

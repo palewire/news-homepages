@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 184 screenshots with the Internet Archive.
+The archiving routine has saved 207 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-19T14:34:44.596027-04:00.jpg">
-  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-19T14:34:44.596027-04:00.jpg"
-     alt="Fairness and Accuracy in Reporting at 2022-09-19 14:34:55-04:00 local time"
+ <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-27T07:55:56.503191-04:00.jpg">
+  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-27T07:55:56.503191-04:00.jpg"
+     alt="Fairness and Accuracy in Reporting at 2022-09-27 07:55:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-19T14:34:44.596027-04:00.jpg">September 19 at 2:34 PM</a></p>
+ <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-27T07:55:56.503191-04:00.jpg">September 27 at 7:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-19T07:54:54.568251-04:00.jpg">
-  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-19T07:54:54.568251-04:00.jpg"
-     alt="Fairness and Accuracy in Reporting at 2022-09-19 07:55:05-04:00 local time"
+ <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-26T19:47:48.986944-04:00.jpg">
+  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-26T19:47:48.986944-04:00.jpg"
+     alt="Fairness and Accuracy in Reporting at 2022-09-26 19:48:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-19T07:54:54.568251-04:00.jpg">September 19 at 7:55 AM</a></p>
+ <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-26T19:47:48.986944-04:00.jpg">September 26 at 7:48 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-18T19:45:12.184828-04:00.jpg">
-  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-18T19:45:12.184828-04:00.jpg"
-     alt="Fairness and Accuracy in Reporting at 2022-09-18 19:45:28-04:00 local time"
+ <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-26T15:48:22.763245-04:00.jpg">
+  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-26T15:48:22.763245-04:00.jpg"
+     alt="Fairness and Accuracy in Reporting at 2022-09-26 15:48:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-18T19:45:12.184828-04:00.jpg">September 18 at 7:45 PM</a></p>
+ <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-26T15:48:22.763245-04:00.jpg">September 26 at 3:48 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-18T14:30:18.472852-04:00.jpg">
-  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-18T14:30:18.472852-04:00.jpg"
-     alt="Fairness and Accuracy in Reporting at 2022-09-18 14:30:22-04:00 local time"
+ <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-26T08:02:15.285130-04:00.jpg">
+  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-26T08:02:15.285130-04:00.jpg"
+     alt="Fairness and Accuracy in Reporting at 2022-09-26 08:02:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-18T14:30:18.472852-04:00.jpg">September 18 at 2:30 PM</a></p>
+ <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-26T08:02:15.285130-04:00.jpg">September 26 at 8:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-18T07:55:29.622809-04:00.jpg">
-  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-18T07:55:29.622809-04:00.jpg"
-     alt="Fairness and Accuracy in Reporting at 2022-09-18 07:55:36-04:00 local time"
+ <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-25T19:42:49.834702-04:00.jpg">
+  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-25T19:42:49.834702-04:00.jpg"
+     alt="Fairness and Accuracy in Reporting at 2022-09-25 19:42:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-18T07:55:29.622809-04:00.jpg">September 18 at 7:55 AM</a></p>
+ <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-25T19:42:49.834702-04:00.jpg">September 25 at 7:42 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-17T19:48:21.964164-04:00.jpg">
-  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-17T19:48:21.964164-04:00.jpg"
-     alt="Fairness and Accuracy in Reporting at 2022-09-17 19:48:27-04:00 local time"
+ <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-25T15:05:04.060103-04:00.jpg">
+  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-25T15:05:04.060103-04:00.jpg"
+     alt="Fairness and Accuracy in Reporting at 2022-09-25 15:05:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-17T19:48:21.964164-04:00.jpg">September 17 at 7:48 PM</a></p>
+ <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-25T15:05:04.060103-04:00.jpg">September 25 at 3:05 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-17T14:31:29.541780-04:00.jpg">
-  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-17T14:31:29.541780-04:00.jpg"
-     alt="Fairness and Accuracy in Reporting at 2022-09-17 14:31:31-04:00 local time"
+ <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-25T07:47:23.137733-04:00.jpg">
+  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-25T07:47:23.137733-04:00.jpg"
+     alt="Fairness and Accuracy in Reporting at 2022-09-25 07:47:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-17T14:31:29.541780-04:00.jpg">September 17 at 2:31 PM</a></p>
+ <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-25T07:47:23.137733-04:00.jpg">September 25 at 7:47 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-17T07:55:43.938693-04:00.jpg">
-  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-17T07:55:43.938693-04:00.jpg"
-     alt="Fairness and Accuracy in Reporting at 2022-09-17 07:55:49-04:00 local time"
+ <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-24T19:40:15.400232-04:00.jpg">
+  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-24T19:40:15.400232-04:00.jpg"
+     alt="Fairness and Accuracy in Reporting at 2022-09-24 19:40:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-17T07:55:43.938693-04:00.jpg">September 17 at 7:55 AM</a></p>
+ <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-24T19:40:15.400232-04:00.jpg">September 24 at 7:40 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-16T19:48:23.934906-04:00.jpg">
-  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-16T19:48:23.934906-04:00.jpg"
-     alt="Fairness and Accuracy in Reporting at 2022-09-16 19:48:29-04:00 local time"
+ <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-24T15:01:32.788081-04:00.jpg">
+  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-24T15:01:32.788081-04:00.jpg"
+     alt="Fairness and Accuracy in Reporting at 2022-09-24 15:01:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-16T19:48:23.934906-04:00.jpg">September 16 at 7:48 PM</a></p>
+ <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-24T15:01:32.788081-04:00.jpg">September 24 at 3:01 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-16T14:32:05.425051-04:00.jpg">
-  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-16T14:32:05.425051-04:00.jpg"
-     alt="Fairness and Accuracy in Reporting at 2022-09-16 14:32:12-04:00 local time"
+ <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-24T07:48:54.497089-04:00.jpg">
+  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-24T07:48:54.497089-04:00.jpg"
+     alt="Fairness and Accuracy in Reporting at 2022-09-24 07:49:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-16T14:32:05.425051-04:00.jpg">September 16 at 2:32 PM</a></p>
+ <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-24T07:48:54.497089-04:00.jpg">September 24 at 7:49 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-16T07:55:47.296666-04:00.jpg">
-  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-16T07:55:47.296666-04:00.jpg"
-     alt="Fairness and Accuracy in Reporting at 2022-09-16 07:55:51-04:00 local time"
+ <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-23T19:46:44.597234-04:00.jpg">
+  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-23T19:46:44.597234-04:00.jpg"
+     alt="Fairness and Accuracy in Reporting at 2022-09-23 19:46:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-16T07:55:47.296666-04:00.jpg">September 16 at 7:55 AM</a></p>
+ <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-23T19:46:44.597234-04:00.jpg">September 23 at 7:46 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-15T19:47:37.597946-04:00.jpg">
-  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-15T19:47:37.597946-04:00.jpg"
-     alt="Fairness and Accuracy in Reporting at 2022-09-15 19:47:40-04:00 local time"
+ <a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-23T15:23:43.806873-04:00.jpg">
+  <img src="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-23T15:23:43.806873-04:00.jpg"
+     alt="Fairness and Accuracy in Reporting at 2022-09-23 15:23:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-15T19:47:37.597946-04:00.jpg">September 15 at 7:47 PM</a></p>
+ <p><a href="https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-23T15:23:43.806873-04:00.jpg">September 23 at 3:23 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 184 hyperlink lists with the Internet Archive.
+The archiving routine has saved 207 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 2:35 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-19T14:34:44.596027-04:00.hyperlinks.json) |
-| [September 19 at 7:55 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-19T07:54:54.568251-04:00.hyperlinks.json) |
-| [September 18 at 7:45 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-18T19:45:12.184828-04:00.hyperlinks.json) |
-| [September 18 at 2:30 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-18T14:30:18.472852-04:00.hyperlinks.json) |
-| [September 18 at 7:55 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-18T07:55:29.622809-04:00.hyperlinks.json) |
-| [September 17 at 7:48 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-17T19:48:21.964164-04:00.hyperlinks.json) |
-| [September 17 at 2:31 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-17T14:31:29.541780-04:00.hyperlinks.json) |
-| [September 17 at 7:55 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-17T07:55:43.938693-04:00.hyperlinks.json) |
-| [September 16 at 7:48 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-16T19:48:23.934906-04:00.hyperlinks.json) |
-| [September 16 at 2:32 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-16T14:32:05.425051-04:00.hyperlinks.json) |
+| [September 27 at 7:56 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-27T07:55:56.503191-04:00.hyperlinks.json) |
+| [September 26 at 7:48 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-26T19:47:48.986944-04:00.hyperlinks.json) |
+| [September 26 at 3:48 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-26T15:48:22.763245-04:00.hyperlinks.json) |
+| [September 26 at 8:02 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-26T08:02:15.285130-04:00.hyperlinks.json) |
+| [September 25 at 7:42 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-25T19:42:49.834702-04:00.hyperlinks.json) |
+| [September 25 at 3:05 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-25T15:05:04.060103-04:00.hyperlinks.json) |
+| [September 25 at 7:47 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-25T07:47:23.137733-04:00.hyperlinks.json) |
+| [September 24 at 7:40 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-24T19:40:15.400232-04:00.hyperlinks.json) |
+| [September 24 at 3:01 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-24T15:01:32.788081-04:00.hyperlinks.json) |
+| [September 24 at 7:49 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-24T07:48:54.497089-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 183 accessibility trees with the Internet Archive.
+The archiving routine has saved 206 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 2:34 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-19T14:34:44.596027-04:00.accessibility.json) |
-| [September 19 at 7:55 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-19T07:54:54.568251-04:00.accessibility.json) |
-| [September 18 at 7:45 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-18T19:45:12.184828-04:00.accessibility.json) |
-| [September 18 at 2:30 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-18T14:30:18.472852-04:00.accessibility.json) |
-| [September 18 at 7:55 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-18T07:55:29.622809-04:00.accessibility.json) |
-| [September 17 at 7:48 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-17T19:48:21.964164-04:00.accessibility.json) |
-| [September 17 at 2:31 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-17T14:31:29.541780-04:00.accessibility.json) |
-| [September 17 at 7:55 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-17T07:55:43.938693-04:00.accessibility.json) |
-| [September 16 at 7:48 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-16T19:48:23.934906-04:00.accessibility.json) |
-| [September 16 at 2:32 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-16T14:32:05.425051-04:00.accessibility.json) |
+| [September 27 at 7:55 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-27T07:55:56.503191-04:00.accessibility.json) |
+| [September 26 at 7:48 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-26T19:47:48.986944-04:00.accessibility.json) |
+| [September 26 at 3:48 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-26T15:48:22.763245-04:00.accessibility.json) |
+| [September 26 at 8:02 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-26T08:02:15.285130-04:00.accessibility.json) |
+| [September 25 at 7:42 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-25T19:42:49.834702-04:00.accessibility.json) |
+| [September 25 at 3:05 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-25T15:05:04.060103-04:00.accessibility.json) |
+| [September 25 at 7:47 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-25T07:47:23.137733-04:00.accessibility.json) |
+| [September 24 at 7:40 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-24T19:40:15.400232-04:00.accessibility.json) |
+| [September 24 at 3:01 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-24T15:01:32.788081-04:00.accessibility.json) |
+| [September 24 at 7:49 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-24T07:48:54.497089-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 170 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 193 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 2:35 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-19T14:34:44.596027-04:00.lighthouse.json) |
-| [September 19 at 7:55 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-19T07:54:54.568251-04:00.lighthouse.json) |
-| [September 18 at 7:45 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-18T19:45:12.184828-04:00.lighthouse.json) |
-| [September 18 at 2:30 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-18T14:30:18.472852-04:00.lighthouse.json) |
-| [September 18 at 7:55 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-18T07:55:29.622809-04:00.lighthouse.json) |
-| [September 17 at 7:48 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-17T19:48:21.964164-04:00.lighthouse.json) |
-| [September 17 at 2:31 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-17T14:31:29.541780-04:00.lighthouse.json) |
-| [September 17 at 7:55 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-17T07:55:43.938693-04:00.lighthouse.json) |
-| [September 16 at 7:48 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-16T19:48:23.934906-04:00.lighthouse.json) |
-| [September 16 at 2:32 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-16T14:32:05.425051-04:00.lighthouse.json) |
+| [September 27 at 7:56 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-27T07:55:56.503191-04:00.lighthouse.json) |
+| [September 26 at 7:48 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-26T19:47:48.986944-04:00.lighthouse.json) |
+| [September 26 at 3:48 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-26T15:48:22.763245-04:00.lighthouse.json) |
+| [September 26 at 8:02 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-26T08:02:15.285130-04:00.lighthouse.json) |
+| [September 25 at 7:43 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-25T19:42:49.834702-04:00.lighthouse.json) |
+| [September 25 at 3:05 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-25T15:05:04.060103-04:00.lighthouse.json) |
+| [September 25 at 7:47 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-25T07:47:23.137733-04:00.lighthouse.json) |
+| [September 24 at 7:40 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-24T19:40:15.400232-04:00.lighthouse.json) |
+| [September 24 at 3:01 PM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-24T15:01:32.788081-04:00.lighthouse.json) |
+| [September 24 at 7:49 AM](https://archive.org/download/fairmediawatch-2022/fairmediawatch-2022-09-24T07:48:54.497089-04:00.lighthouse.json) |
 
 
 

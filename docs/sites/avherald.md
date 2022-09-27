@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 58 screenshots with the Internet Archive.
+The archiving routine has saved 73 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/avherald-2022/avherald-2022-09-19T16:57:20.824977+02:00.jpg">
-  <img src="https://archive.org/download/avherald-2022/avherald-2022-09-19T16:57:20.824977+02:00.jpg"
-     alt="Aviation Herald at 2022-09-19 16:57:22+02:00 local time"
+ <a href="https://archive.org/download/avherald-2022/avherald-2022-09-27T06:28:38.935992+02:00.jpg">
+  <img src="https://archive.org/download/avherald-2022/avherald-2022-09-27T06:28:38.935992+02:00.jpg"
+     alt="Aviation Herald at 2022-09-27 06:28:42+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avherald-2022/avherald-2022-09-19T16:57:20.824977+02:00.jpg">September 19 at 4:57 PM</a></p>
+ <p><a href="https://archive.org/download/avherald-2022/avherald-2022-09-27T06:28:38.935992+02:00.jpg">September 27 at 6:28 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/avherald-2022/avherald-2022-09-19T05:40:21.327404+02:00.jpg">
-  <img src="https://archive.org/download/avherald-2022/avherald-2022-09-19T05:40:21.327404+02:00.jpg"
-     alt="Aviation Herald at 2022-09-19 05:40:23+02:00 local time"
+ <a href="https://archive.org/download/avherald-2022/avherald-2022-09-26T18:05:25.380755+02:00.jpg">
+  <img src="https://archive.org/download/avherald-2022/avherald-2022-09-26T18:05:25.380755+02:00.jpg"
+     alt="Aviation Herald at 2022-09-26 18:05:27+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avherald-2022/avherald-2022-09-19T05:40:21.327404+02:00.jpg">September 19 at 5:40 AM</a></p>
+ <p><a href="https://archive.org/download/avherald-2022/avherald-2022-09-26T18:05:25.380755+02:00.jpg">September 26 at 6:05 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/avherald-2022/avherald-2022-09-18T15:59:27.807610+02:00.jpg">
-  <img src="https://archive.org/download/avherald-2022/avherald-2022-09-18T15:59:27.807610+02:00.jpg"
-     alt="Aviation Herald at 2022-09-18 15:59:30+02:00 local time"
+ <a href="https://archive.org/download/avherald-2022/avherald-2022-09-26T06:42:09.174828+02:00.jpg">
+  <img src="https://archive.org/download/avherald-2022/avherald-2022-09-26T06:42:09.174828+02:00.jpg"
+     alt="Aviation Herald at 2022-09-26 06:42:12+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avherald-2022/avherald-2022-09-18T15:59:27.807610+02:00.jpg">September 18 at 3:59 PM</a></p>
+ <p><a href="https://archive.org/download/avherald-2022/avherald-2022-09-26T06:42:09.174828+02:00.jpg">September 26 at 6:42 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/avherald-2022/avherald-2022-09-18T04:24:47.137251+02:00.jpg">
-  <img src="https://archive.org/download/avherald-2022/avherald-2022-09-18T04:24:47.137251+02:00.jpg"
-     alt="Aviation Herald at 2022-09-18 04:24:50+02:00 local time"
+ <a href="https://archive.org/download/avherald-2022/avherald-2022-09-25T17:51:22.934582+02:00.jpg">
+  <img src="https://archive.org/download/avherald-2022/avherald-2022-09-25T17:51:22.934582+02:00.jpg"
+     alt="Aviation Herald at 2022-09-25 17:51:24+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avherald-2022/avherald-2022-09-18T04:24:47.137251+02:00.jpg">September 18 at 4:24 AM</a></p>
+ <p><a href="https://archive.org/download/avherald-2022/avherald-2022-09-25T17:51:22.934582+02:00.jpg">September 25 at 5:51 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/avherald-2022/avherald-2022-09-17T15:57:33.265445+02:00.jpg">
-  <img src="https://archive.org/download/avherald-2022/avherald-2022-09-17T15:57:33.265445+02:00.jpg"
-     alt="Aviation Herald at 2022-09-17 15:57:34+02:00 local time"
+ <a href="https://archive.org/download/avherald-2022/avherald-2022-09-25T06:28:12.088863+02:00.jpg">
+  <img src="https://archive.org/download/avherald-2022/avherald-2022-09-25T06:28:12.088863+02:00.jpg"
+     alt="Aviation Herald at 2022-09-25 06:28:15+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avherald-2022/avherald-2022-09-17T15:57:33.265445+02:00.jpg">September 17 at 3:57 PM</a></p>
+ <p><a href="https://archive.org/download/avherald-2022/avherald-2022-09-25T06:28:12.088863+02:00.jpg">September 25 at 6:28 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/avherald-2022/avherald-2022-09-17T04:23:47.457630+02:00.jpg">
-  <img src="https://archive.org/download/avherald-2022/avherald-2022-09-17T04:23:47.457630+02:00.jpg"
-     alt="Aviation Herald at 2022-09-17 04:23:49+02:00 local time"
+ <a href="https://archive.org/download/avherald-2022/avherald-2022-09-24T17:48:49.511187+02:00.jpg">
+  <img src="https://archive.org/download/avherald-2022/avherald-2022-09-24T17:48:49.511187+02:00.jpg"
+     alt="Aviation Herald at 2022-09-24 17:48:52+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avherald-2022/avherald-2022-09-17T04:23:47.457630+02:00.jpg">September 17 at 4:23 AM</a></p>
+ <p><a href="https://archive.org/download/avherald-2022/avherald-2022-09-24T17:48:49.511187+02:00.jpg">September 24 at 5:48 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/avherald-2022/avherald-2022-09-16T16:04:19.091129+02:00.jpg">
-  <img src="https://archive.org/download/avherald-2022/avherald-2022-09-16T16:04:19.091129+02:00.jpg"
-     alt="Aviation Herald at 2022-09-16 16:04:20+02:00 local time"
+ <a href="https://archive.org/download/avherald-2022/avherald-2022-09-24T06:29:53.882665+02:00.jpg">
+  <img src="https://archive.org/download/avherald-2022/avherald-2022-09-24T06:29:53.882665+02:00.jpg"
+     alt="Aviation Herald at 2022-09-24 06:29:57+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avherald-2022/avherald-2022-09-16T16:04:19.091129+02:00.jpg">September 16 at 4:04 PM</a></p>
+ <p><a href="https://archive.org/download/avherald-2022/avherald-2022-09-24T06:29:53.882665+02:00.jpg">September 24 at 6:29 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/avherald-2022/avherald-2022-09-16T04:23:05.457198+02:00.jpg">
-  <img src="https://archive.org/download/avherald-2022/avherald-2022-09-16T04:23:05.457198+02:00.jpg"
-     alt="Aviation Herald at 2022-09-16 04:23:12+02:00 local time"
+ <a href="https://archive.org/download/avherald-2022/avherald-2022-09-23T17:57:15.036957+02:00.jpg">
+  <img src="https://archive.org/download/avherald-2022/avherald-2022-09-23T17:57:15.036957+02:00.jpg"
+     alt="Aviation Herald at 2022-09-23 17:57:17+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avherald-2022/avherald-2022-09-16T04:23:05.457198+02:00.jpg">September 16 at 4:23 AM</a></p>
+ <p><a href="https://archive.org/download/avherald-2022/avherald-2022-09-23T17:57:15.036957+02:00.jpg">September 23 at 5:57 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/avherald-2022/avherald-2022-09-15T16:09:44.480934+02:00.jpg">
-  <img src="https://archive.org/download/avherald-2022/avherald-2022-09-15T16:09:44.480934+02:00.jpg"
-     alt="Aviation Herald at 2022-09-15 16:09:49+02:00 local time"
+ <a href="https://archive.org/download/avherald-2022/avherald-2022-09-23T07:10:49.494845+02:00.jpg">
+  <img src="https://archive.org/download/avherald-2022/avherald-2022-09-23T07:10:49.494845+02:00.jpg"
+     alt="Aviation Herald at 2022-09-23 07:10:56+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avherald-2022/avherald-2022-09-15T16:09:44.480934+02:00.jpg">September 15 at 4:09 PM</a></p>
+ <p><a href="https://archive.org/download/avherald-2022/avherald-2022-09-23T07:10:49.494845+02:00.jpg">September 23 at 7:10 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/avherald-2022/avherald-2022-09-15T04:25:53.504128+02:00.jpg">
-  <img src="https://archive.org/download/avherald-2022/avherald-2022-09-15T04:25:53.504128+02:00.jpg"
-     alt="Aviation Herald at 2022-09-15 04:25:54+02:00 local time"
+ <a href="https://archive.org/download/avherald-2022/avherald-2022-09-22T17:59:08.906498+02:00.jpg">
+  <img src="https://archive.org/download/avherald-2022/avherald-2022-09-22T17:59:08.906498+02:00.jpg"
+     alt="Aviation Herald at 2022-09-22 17:59:11+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avherald-2022/avherald-2022-09-15T04:25:53.504128+02:00.jpg">September 15 at 4:25 AM</a></p>
+ <p><a href="https://archive.org/download/avherald-2022/avherald-2022-09-22T17:59:08.906498+02:00.jpg">September 22 at 5:59 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/avherald-2022/avherald-2022-09-14T16:11:12.803305+02:00.jpg">
-  <img src="https://archive.org/download/avherald-2022/avherald-2022-09-14T16:11:12.803305+02:00.jpg"
-     alt="Aviation Herald at 2022-09-14 16:11:14+02:00 local time"
+ <a href="https://archive.org/download/avherald-2022/avherald-2022-09-22T06:34:42.794843+02:00.jpg">
+  <img src="https://archive.org/download/avherald-2022/avherald-2022-09-22T06:34:42.794843+02:00.jpg"
+     alt="Aviation Herald at 2022-09-22 06:34:47+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avherald-2022/avherald-2022-09-14T16:11:12.803305+02:00.jpg">September 14 at 4:11 PM</a></p>
+ <p><a href="https://archive.org/download/avherald-2022/avherald-2022-09-22T06:34:42.794843+02:00.jpg">September 22 at 6:34 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/avherald-2022/avherald-2022-09-14T04:25:06.699720+02:00.jpg">
-  <img src="https://archive.org/download/avherald-2022/avherald-2022-09-14T04:25:06.699720+02:00.jpg"
-     alt="Aviation Herald at 2022-09-14 04:25:09+02:00 local time"
+ <a href="https://archive.org/download/avherald-2022/avherald-2022-09-21T18:01:56.496679+02:00.jpg">
+  <img src="https://archive.org/download/avherald-2022/avherald-2022-09-21T18:01:56.496679+02:00.jpg"
+     alt="Aviation Herald at 2022-09-21 18:02:01+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/avherald-2022/avherald-2022-09-14T04:25:06.699720+02:00.jpg">September 14 at 4:25 AM</a></p>
+ <p><a href="https://archive.org/download/avherald-2022/avherald-2022-09-21T18:01:56.496679+02:00.jpg">September 21 at 6:02 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 58 hyperlink lists with the Internet Archive.
+The archiving routine has saved 73 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 4:57 PM](https://archive.org/download/avherald-2022/avherald-2022-09-19T16:57:20.824977+02:00.hyperlinks.json) |
-| [September 19 at 5:40 AM](https://archive.org/download/avherald-2022/avherald-2022-09-19T05:40:21.327404+02:00.hyperlinks.json) |
-| [September 18 at 3:59 PM](https://archive.org/download/avherald-2022/avherald-2022-09-18T15:59:27.807610+02:00.hyperlinks.json) |
-| [September 18 at 4:24 AM](https://archive.org/download/avherald-2022/avherald-2022-09-18T04:24:47.137251+02:00.hyperlinks.json) |
-| [September 17 at 3:57 PM](https://archive.org/download/avherald-2022/avherald-2022-09-17T15:57:33.265445+02:00.hyperlinks.json) |
-| [September 17 at 4:23 AM](https://archive.org/download/avherald-2022/avherald-2022-09-17T04:23:47.457630+02:00.hyperlinks.json) |
-| [September 16 at 4:04 PM](https://archive.org/download/avherald-2022/avherald-2022-09-16T16:04:19.091129+02:00.hyperlinks.json) |
-| [September 16 at 4:23 AM](https://archive.org/download/avherald-2022/avherald-2022-09-16T04:23:05.457198+02:00.hyperlinks.json) |
-| [September 15 at 4:09 PM](https://archive.org/download/avherald-2022/avherald-2022-09-15T16:09:44.480934+02:00.hyperlinks.json) |
-| [September 15 at 4:26 AM](https://archive.org/download/avherald-2022/avherald-2022-09-15T04:25:53.504128+02:00.hyperlinks.json) |
+| [September 27 at 6:28 AM](https://archive.org/download/avherald-2022/avherald-2022-09-27T06:28:38.935992+02:00.hyperlinks.json) |
+| [September 26 at 6:05 PM](https://archive.org/download/avherald-2022/avherald-2022-09-26T18:05:25.380755+02:00.hyperlinks.json) |
+| [September 26 at 6:42 AM](https://archive.org/download/avherald-2022/avherald-2022-09-26T06:42:09.174828+02:00.hyperlinks.json) |
+| [September 25 at 5:51 PM](https://archive.org/download/avherald-2022/avherald-2022-09-25T17:51:22.934582+02:00.hyperlinks.json) |
+| [September 25 at 6:28 AM](https://archive.org/download/avherald-2022/avherald-2022-09-25T06:28:12.088863+02:00.hyperlinks.json) |
+| [September 24 at 5:48 PM](https://archive.org/download/avherald-2022/avherald-2022-09-24T17:48:49.511187+02:00.hyperlinks.json) |
+| [September 24 at 6:30 AM](https://archive.org/download/avherald-2022/avherald-2022-09-24T06:29:53.882665+02:00.hyperlinks.json) |
+| [September 23 at 5:57 PM](https://archive.org/download/avherald-2022/avherald-2022-09-23T17:57:15.036957+02:00.hyperlinks.json) |
+| [September 23 at 7:11 AM](https://archive.org/download/avherald-2022/avherald-2022-09-23T07:10:49.494845+02:00.hyperlinks.json) |
+| [September 22 at 5:59 PM](https://archive.org/download/avherald-2022/avherald-2022-09-22T17:59:08.906498+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 58 accessibility trees with the Internet Archive.
+The archiving routine has saved 73 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 4:57 PM](https://archive.org/download/avherald-2022/avherald-2022-09-19T16:57:20.824977+02:00.accessibility.json) |
-| [September 19 at 5:40 AM](https://archive.org/download/avherald-2022/avherald-2022-09-19T05:40:21.327404+02:00.accessibility.json) |
-| [September 18 at 3:59 PM](https://archive.org/download/avherald-2022/avherald-2022-09-18T15:59:27.807610+02:00.accessibility.json) |
-| [September 18 at 4:24 AM](https://archive.org/download/avherald-2022/avherald-2022-09-18T04:24:47.137251+02:00.accessibility.json) |
-| [September 17 at 3:57 PM](https://archive.org/download/avherald-2022/avherald-2022-09-17T15:57:33.265445+02:00.accessibility.json) |
-| [September 17 at 4:23 AM](https://archive.org/download/avherald-2022/avherald-2022-09-17T04:23:47.457630+02:00.accessibility.json) |
-| [September 16 at 4:04 PM](https://archive.org/download/avherald-2022/avherald-2022-09-16T16:04:19.091129+02:00.accessibility.json) |
-| [September 16 at 4:23 AM](https://archive.org/download/avherald-2022/avherald-2022-09-16T04:23:05.457198+02:00.accessibility.json) |
-| [September 15 at 4:09 PM](https://archive.org/download/avherald-2022/avherald-2022-09-15T16:09:44.480934+02:00.accessibility.json) |
-| [September 15 at 4:25 AM](https://archive.org/download/avherald-2022/avherald-2022-09-15T04:25:53.504128+02:00.accessibility.json) |
+| [September 27 at 6:28 AM](https://archive.org/download/avherald-2022/avherald-2022-09-27T06:28:38.935992+02:00.accessibility.json) |
+| [September 26 at 6:05 PM](https://archive.org/download/avherald-2022/avherald-2022-09-26T18:05:25.380755+02:00.accessibility.json) |
+| [September 26 at 6:42 AM](https://archive.org/download/avherald-2022/avherald-2022-09-26T06:42:09.174828+02:00.accessibility.json) |
+| [September 25 at 5:51 PM](https://archive.org/download/avherald-2022/avherald-2022-09-25T17:51:22.934582+02:00.accessibility.json) |
+| [September 25 at 6:28 AM](https://archive.org/download/avherald-2022/avherald-2022-09-25T06:28:12.088863+02:00.accessibility.json) |
+| [September 24 at 5:48 PM](https://archive.org/download/avherald-2022/avherald-2022-09-24T17:48:49.511187+02:00.accessibility.json) |
+| [September 24 at 6:29 AM](https://archive.org/download/avherald-2022/avherald-2022-09-24T06:29:53.882665+02:00.accessibility.json) |
+| [September 23 at 5:57 PM](https://archive.org/download/avherald-2022/avherald-2022-09-23T17:57:15.036957+02:00.accessibility.json) |
+| [September 23 at 7:10 AM](https://archive.org/download/avherald-2022/avherald-2022-09-23T07:10:49.494845+02:00.accessibility.json) |
+| [September 22 at 5:59 PM](https://archive.org/download/avherald-2022/avherald-2022-09-22T17:59:08.906498+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 58 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 73 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 4:57 PM](https://archive.org/download/avherald-2022/avherald-2022-09-19T16:57:20.824977+02:00.lighthouse.json) |
-| [September 19 at 5:40 AM](https://archive.org/download/avherald-2022/avherald-2022-09-19T05:40:21.327404+02:00.lighthouse.json) |
-| [September 18 at 3:59 PM](https://archive.org/download/avherald-2022/avherald-2022-09-18T15:59:27.807610+02:00.lighthouse.json) |
-| [September 18 at 4:24 AM](https://archive.org/download/avherald-2022/avherald-2022-09-18T04:24:47.137251+02:00.lighthouse.json) |
-| [September 17 at 3:57 PM](https://archive.org/download/avherald-2022/avherald-2022-09-17T15:57:33.265445+02:00.lighthouse.json) |
-| [September 17 at 4:23 AM](https://archive.org/download/avherald-2022/avherald-2022-09-17T04:23:47.457630+02:00.lighthouse.json) |
-| [September 16 at 4:04 PM](https://archive.org/download/avherald-2022/avherald-2022-09-16T16:04:19.091129+02:00.lighthouse.json) |
-| [September 16 at 4:23 AM](https://archive.org/download/avherald-2022/avherald-2022-09-16T04:23:05.457198+02:00.lighthouse.json) |
-| [September 15 at 4:09 PM](https://archive.org/download/avherald-2022/avherald-2022-09-15T16:09:44.480934+02:00.lighthouse.json) |
-| [September 15 at 4:26 AM](https://archive.org/download/avherald-2022/avherald-2022-09-15T04:25:53.504128+02:00.lighthouse.json) |
+| [September 27 at 6:28 AM](https://archive.org/download/avherald-2022/avherald-2022-09-27T06:28:38.935992+02:00.lighthouse.json) |
+| [September 26 at 6:05 PM](https://archive.org/download/avherald-2022/avherald-2022-09-26T18:05:25.380755+02:00.lighthouse.json) |
+| [September 26 at 6:42 AM](https://archive.org/download/avherald-2022/avherald-2022-09-26T06:42:09.174828+02:00.lighthouse.json) |
+| [September 25 at 5:51 PM](https://archive.org/download/avherald-2022/avherald-2022-09-25T17:51:22.934582+02:00.lighthouse.json) |
+| [September 25 at 6:28 AM](https://archive.org/download/avherald-2022/avherald-2022-09-25T06:28:12.088863+02:00.lighthouse.json) |
+| [September 24 at 5:48 PM](https://archive.org/download/avherald-2022/avherald-2022-09-24T17:48:49.511187+02:00.lighthouse.json) |
+| [September 24 at 6:30 AM](https://archive.org/download/avherald-2022/avherald-2022-09-24T06:29:53.882665+02:00.lighthouse.json) |
+| [September 23 at 5:57 PM](https://archive.org/download/avherald-2022/avherald-2022-09-23T17:57:15.036957+02:00.lighthouse.json) |
+| [September 23 at 7:11 AM](https://archive.org/download/avherald-2022/avherald-2022-09-23T07:10:49.494845+02:00.lighthouse.json) |
+| [September 22 at 5:59 PM](https://archive.org/download/avherald-2022/avherald-2022-09-22T17:59:08.906498+02:00.lighthouse.json) |
 
 
 

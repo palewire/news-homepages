@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 158 screenshots with the Internet Archive.
+The archiving routine has saved 173 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/nypost-2022/nypost-2022-09-19T13:35:35.333115-04:00.jpg">
-  <img src="https://archive.org/download/nypost-2022/nypost-2022-09-19T13:35:35.333115-04:00.jpg"
-     alt="New York Post at 2022-09-19 13:35:41-04:00 local time"
+ <a href="https://archive.org/download/nypost-2022/nypost-2022-09-27T03:07:58.424036-04:00.jpg">
+  <img src="https://archive.org/download/nypost-2022/nypost-2022-09-27T03:07:58.424036-04:00.jpg"
+     alt="New York Post at 2022-09-27 03:08:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nypost-2022/nypost-2022-09-19T13:35:35.333115-04:00.jpg">September 19 at 1:35 PM</a></p>
+ <p><a href="https://archive.org/download/nypost-2022/nypost-2022-09-27T03:07:58.424036-04:00.jpg">September 27 at 3:08 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nypost-2022/nypost-2022-09-19T02:06:01.153437-04:00.jpg">
-  <img src="https://archive.org/download/nypost-2022/nypost-2022-09-19T02:06:01.153437-04:00.jpg"
-     alt="New York Post at 2022-09-19 02:06:02-04:00 local time"
+ <a href="https://archive.org/download/nypost-2022/nypost-2022-09-26T15:27:13.880677-04:00.jpg">
+  <img src="https://archive.org/download/nypost-2022/nypost-2022-09-26T15:27:13.880677-04:00.jpg"
+     alt="New York Post at 2022-09-26 15:27:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nypost-2022/nypost-2022-09-19T02:06:01.153437-04:00.jpg">September 19 at 2:06 AM</a></p>
+ <p><a href="https://archive.org/download/nypost-2022/nypost-2022-09-26T15:27:13.880677-04:00.jpg">September 26 at 3:27 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nypost-2022/nypost-2022-09-18T13:27:59.881016-04:00.jpg">
-  <img src="https://archive.org/download/nypost-2022/nypost-2022-09-18T13:27:59.881016-04:00.jpg"
-     alt="New York Post at 2022-09-18 13:28:01-04:00 local time"
+ <a href="https://archive.org/download/nypost-2022/nypost-2022-09-26T03:42:16.338217-04:00.jpg">
+  <img src="https://archive.org/download/nypost-2022/nypost-2022-09-26T03:42:16.338217-04:00.jpg"
+     alt="New York Post at 2022-09-26 03:42:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nypost-2022/nypost-2022-09-18T13:27:59.881016-04:00.jpg">September 18 at 1:28 PM</a></p>
+ <p><a href="https://archive.org/download/nypost-2022/nypost-2022-09-26T03:42:16.338217-04:00.jpg">September 26 at 3:42 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nypost-2022/nypost-2022-09-18T01:24:38.734196-04:00.jpg">
-  <img src="https://archive.org/download/nypost-2022/nypost-2022-09-18T01:24:38.734196-04:00.jpg"
-     alt="New York Post at 2022-09-18 01:24:40-04:00 local time"
+ <a href="https://archive.org/download/nypost-2022/nypost-2022-09-25T14:30:36.467893-04:00.jpg">
+  <img src="https://archive.org/download/nypost-2022/nypost-2022-09-25T14:30:36.467893-04:00.jpg"
+     alt="New York Post at 2022-09-25 14:30:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nypost-2022/nypost-2022-09-18T01:24:38.734196-04:00.jpg">September 18 at 1:24 AM</a></p>
+ <p><a href="https://archive.org/download/nypost-2022/nypost-2022-09-25T14:30:36.467893-04:00.jpg">September 25 at 2:30 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nypost-2022/nypost-2022-09-17T12:01:47.285723-04:00.jpg">
-  <img src="https://archive.org/download/nypost-2022/nypost-2022-09-17T12:01:47.285723-04:00.jpg"
-     alt="New York Post at 2022-09-17 12:01:48-04:00 local time"
+ <a href="https://archive.org/download/nypost-2022/nypost-2022-09-25T02:53:59.025097-04:00.jpg">
+  <img src="https://archive.org/download/nypost-2022/nypost-2022-09-25T02:53:59.025097-04:00.jpg"
+     alt="New York Post at 2022-09-25 02:54:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nypost-2022/nypost-2022-09-17T12:01:47.285723-04:00.jpg">September 17 at 12:01 PM</a></p>
+ <p><a href="https://archive.org/download/nypost-2022/nypost-2022-09-25T02:53:59.025097-04:00.jpg">September 25 at 2:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nypost-2022/nypost-2022-09-17T00:36:06.954107-04:00.jpg">
-  <img src="https://archive.org/download/nypost-2022/nypost-2022-09-17T00:36:06.954107-04:00.jpg"
-     alt="New York Post at 2022-09-17 00:36:12-04:00 local time"
+ <a href="https://archive.org/download/nypost-2022/nypost-2022-09-24T14:30:16.129766-04:00.jpg">
+  <img src="https://archive.org/download/nypost-2022/nypost-2022-09-24T14:30:16.129766-04:00.jpg"
+     alt="New York Post at 2022-09-24 14:30:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nypost-2022/nypost-2022-09-17T00:36:06.954107-04:00.jpg">September 17 at 12:36 AM</a></p>
+ <p><a href="https://archive.org/download/nypost-2022/nypost-2022-09-24T14:30:16.129766-04:00.jpg">September 24 at 2:30 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nypost-2022/nypost-2022-09-16T12:05:24.260007-04:00.jpg">
-  <img src="https://archive.org/download/nypost-2022/nypost-2022-09-16T12:05:24.260007-04:00.jpg"
-     alt="New York Post at 2022-09-16 12:05:26-04:00 local time"
+ <a href="https://archive.org/download/nypost-2022/nypost-2022-09-24T02:55:07.205185-04:00.jpg">
+  <img src="https://archive.org/download/nypost-2022/nypost-2022-09-24T02:55:07.205185-04:00.jpg"
+     alt="New York Post at 2022-09-24 02:55:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nypost-2022/nypost-2022-09-16T12:05:24.260007-04:00.jpg">September 16 at 12:05 PM</a></p>
+ <p><a href="https://archive.org/download/nypost-2022/nypost-2022-09-24T02:55:07.205185-04:00.jpg">September 24 at 2:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nypost-2022/nypost-2022-09-16T01:28:16.069464-04:00.jpg">
-  <img src="https://archive.org/download/nypost-2022/nypost-2022-09-16T01:28:16.069464-04:00.jpg"
-     alt="New York Post at 2022-09-16 01:28:17-04:00 local time"
+ <a href="https://archive.org/download/nypost-2022/nypost-2022-09-23T14:46:30.263345-04:00.jpg">
+  <img src="https://archive.org/download/nypost-2022/nypost-2022-09-23T14:46:30.263345-04:00.jpg"
+     alt="New York Post at 2022-09-23 14:46:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nypost-2022/nypost-2022-09-16T01:28:16.069464-04:00.jpg">September 16 at 1:28 AM</a></p>
+ <p><a href="https://archive.org/download/nypost-2022/nypost-2022-09-23T14:46:30.263345-04:00.jpg">September 23 at 2:46 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nypost-2022/nypost-2022-09-15T12:29:29.740189-04:00.jpg">
-  <img src="https://archive.org/download/nypost-2022/nypost-2022-09-15T12:29:29.740189-04:00.jpg"
-     alt="New York Post at 2022-09-15 12:29:31-04:00 local time"
+ <a href="https://archive.org/download/nypost-2022/nypost-2022-09-23T03:18:47.770791-04:00.jpg">
+  <img src="https://archive.org/download/nypost-2022/nypost-2022-09-23T03:18:47.770791-04:00.jpg"
+     alt="New York Post at 2022-09-23 03:18:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nypost-2022/nypost-2022-09-15T12:29:29.740189-04:00.jpg">September 15 at 12:29 PM</a></p>
+ <p><a href="https://archive.org/download/nypost-2022/nypost-2022-09-23T03:18:47.770791-04:00.jpg">September 23 at 3:18 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nypost-2022/nypost-2022-09-15T01:28:08.752997-04:00.jpg">
-  <img src="https://archive.org/download/nypost-2022/nypost-2022-09-15T01:28:08.752997-04:00.jpg"
-     alt="New York Post at 2022-09-15 01:28:09-04:00 local time"
+ <a href="https://archive.org/download/nypost-2022/nypost-2022-09-22T15:22:45.290638-04:00.jpg">
+  <img src="https://archive.org/download/nypost-2022/nypost-2022-09-22T15:22:45.290638-04:00.jpg"
+     alt="New York Post at 2022-09-22 15:22:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nypost-2022/nypost-2022-09-15T01:28:08.752997-04:00.jpg">September 15 at 1:28 AM</a></p>
+ <p><a href="https://archive.org/download/nypost-2022/nypost-2022-09-22T15:22:45.290638-04:00.jpg">September 22 at 3:22 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nypost-2022/nypost-2022-09-14T12:27:50.703582-04:00.jpg">
-  <img src="https://archive.org/download/nypost-2022/nypost-2022-09-14T12:27:50.703582-04:00.jpg"
-     alt="New York Post at 2022-09-14 12:27:52-04:00 local time"
+ <a href="https://archive.org/download/nypost-2022/nypost-2022-09-22T03:22:18.967748-04:00.jpg">
+  <img src="https://archive.org/download/nypost-2022/nypost-2022-09-22T03:22:18.967748-04:00.jpg"
+     alt="New York Post at 2022-09-22 03:22:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nypost-2022/nypost-2022-09-14T12:27:50.703582-04:00.jpg">September 14 at 12:27 PM</a></p>
+ <p><a href="https://archive.org/download/nypost-2022/nypost-2022-09-22T03:22:18.967748-04:00.jpg">September 22 at 3:22 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nypost-2022/nypost-2022-09-14T00:48:24.372430-04:00.jpg">
-  <img src="https://archive.org/download/nypost-2022/nypost-2022-09-14T00:48:24.372430-04:00.jpg"
-     alt="New York Post at 2022-09-14 00:48:26-04:00 local time"
+ <a href="https://archive.org/download/nypost-2022/nypost-2022-09-21T14:59:34.055906-04:00.jpg">
+  <img src="https://archive.org/download/nypost-2022/nypost-2022-09-21T14:59:34.055906-04:00.jpg"
+     alt="New York Post at 2022-09-21 14:59:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nypost-2022/nypost-2022-09-14T00:48:24.372430-04:00.jpg">September 14 at 12:48 AM</a></p>
+ <p><a href="https://archive.org/download/nypost-2022/nypost-2022-09-21T14:59:34.055906-04:00.jpg">September 21 at 2:59 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 133 hyperlink lists with the Internet Archive.
+The archiving routine has saved 148 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 1:35 PM](https://archive.org/download/nypost-2022/nypost-2022-09-19T13:35:35.333115-04:00.hyperlinks.json) |
-| [September 19 at 2:06 AM](https://archive.org/download/nypost-2022/nypost-2022-09-19T02:06:01.153437-04:00.hyperlinks.json) |
-| [September 18 at 1:28 PM](https://archive.org/download/nypost-2022/nypost-2022-09-18T13:27:59.881016-04:00.hyperlinks.json) |
-| [September 18 at 1:24 AM](https://archive.org/download/nypost-2022/nypost-2022-09-18T01:24:38.734196-04:00.hyperlinks.json) |
-| [September 17 at 12:01 PM](https://archive.org/download/nypost-2022/nypost-2022-09-17T12:01:47.285723-04:00.hyperlinks.json) |
-| [September 17 at 12:36 AM](https://archive.org/download/nypost-2022/nypost-2022-09-17T00:36:06.954107-04:00.hyperlinks.json) |
-| [September 16 at 12:05 PM](https://archive.org/download/nypost-2022/nypost-2022-09-16T12:05:24.260007-04:00.hyperlinks.json) |
-| [September 16 at 1:28 AM](https://archive.org/download/nypost-2022/nypost-2022-09-16T01:28:16.069464-04:00.hyperlinks.json) |
-| [September 15 at 12:29 PM](https://archive.org/download/nypost-2022/nypost-2022-09-15T12:29:29.740189-04:00.hyperlinks.json) |
-| [September 15 at 1:28 AM](https://archive.org/download/nypost-2022/nypost-2022-09-15T01:28:08.752997-04:00.hyperlinks.json) |
+| [September 27 at 3:08 AM](https://archive.org/download/nypost-2022/nypost-2022-09-27T03:07:58.424036-04:00.hyperlinks.json) |
+| [September 26 at 3:27 PM](https://archive.org/download/nypost-2022/nypost-2022-09-26T15:27:13.880677-04:00.hyperlinks.json) |
+| [September 26 at 3:42 AM](https://archive.org/download/nypost-2022/nypost-2022-09-26T03:42:16.338217-04:00.hyperlinks.json) |
+| [September 25 at 2:30 PM](https://archive.org/download/nypost-2022/nypost-2022-09-25T14:30:36.467893-04:00.hyperlinks.json) |
+| [September 25 at 2:54 AM](https://archive.org/download/nypost-2022/nypost-2022-09-25T02:53:59.025097-04:00.hyperlinks.json) |
+| [September 24 at 2:30 PM](https://archive.org/download/nypost-2022/nypost-2022-09-24T14:30:16.129766-04:00.hyperlinks.json) |
+| [September 24 at 2:55 AM](https://archive.org/download/nypost-2022/nypost-2022-09-24T02:55:07.205185-04:00.hyperlinks.json) |
+| [September 23 at 2:46 PM](https://archive.org/download/nypost-2022/nypost-2022-09-23T14:46:30.263345-04:00.hyperlinks.json) |
+| [September 23 at 3:18 AM](https://archive.org/download/nypost-2022/nypost-2022-09-23T03:18:47.770791-04:00.hyperlinks.json) |
+| [September 22 at 3:22 PM](https://archive.org/download/nypost-2022/nypost-2022-09-22T15:22:45.290638-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 132 accessibility trees with the Internet Archive.
+The archiving routine has saved 147 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 1:35 PM](https://archive.org/download/nypost-2022/nypost-2022-09-19T13:35:35.333115-04:00.accessibility.json) |
-| [September 19 at 2:06 AM](https://archive.org/download/nypost-2022/nypost-2022-09-19T02:06:01.153437-04:00.accessibility.json) |
-| [September 18 at 1:28 PM](https://archive.org/download/nypost-2022/nypost-2022-09-18T13:27:59.881016-04:00.accessibility.json) |
-| [September 18 at 1:24 AM](https://archive.org/download/nypost-2022/nypost-2022-09-18T01:24:38.734196-04:00.accessibility.json) |
-| [September 17 at 12:01 PM](https://archive.org/download/nypost-2022/nypost-2022-09-17T12:01:47.285723-04:00.accessibility.json) |
-| [September 17 at 12:36 AM](https://archive.org/download/nypost-2022/nypost-2022-09-17T00:36:06.954107-04:00.accessibility.json) |
-| [September 16 at 12:05 PM](https://archive.org/download/nypost-2022/nypost-2022-09-16T12:05:24.260007-04:00.accessibility.json) |
-| [September 16 at 1:28 AM](https://archive.org/download/nypost-2022/nypost-2022-09-16T01:28:16.069464-04:00.accessibility.json) |
-| [September 15 at 12:29 PM](https://archive.org/download/nypost-2022/nypost-2022-09-15T12:29:29.740189-04:00.accessibility.json) |
-| [September 15 at 1:28 AM](https://archive.org/download/nypost-2022/nypost-2022-09-15T01:28:08.752997-04:00.accessibility.json) |
+| [September 27 at 3:08 AM](https://archive.org/download/nypost-2022/nypost-2022-09-27T03:07:58.424036-04:00.accessibility.json) |
+| [September 26 at 3:27 PM](https://archive.org/download/nypost-2022/nypost-2022-09-26T15:27:13.880677-04:00.accessibility.json) |
+| [September 26 at 3:42 AM](https://archive.org/download/nypost-2022/nypost-2022-09-26T03:42:16.338217-04:00.accessibility.json) |
+| [September 25 at 2:30 PM](https://archive.org/download/nypost-2022/nypost-2022-09-25T14:30:36.467893-04:00.accessibility.json) |
+| [September 25 at 2:54 AM](https://archive.org/download/nypost-2022/nypost-2022-09-25T02:53:59.025097-04:00.accessibility.json) |
+| [September 24 at 2:30 PM](https://archive.org/download/nypost-2022/nypost-2022-09-24T14:30:16.129766-04:00.accessibility.json) |
+| [September 24 at 2:55 AM](https://archive.org/download/nypost-2022/nypost-2022-09-24T02:55:07.205185-04:00.accessibility.json) |
+| [September 23 at 2:46 PM](https://archive.org/download/nypost-2022/nypost-2022-09-23T14:46:30.263345-04:00.accessibility.json) |
+| [September 23 at 3:18 AM](https://archive.org/download/nypost-2022/nypost-2022-09-23T03:18:47.770791-04:00.accessibility.json) |
+| [September 22 at 3:22 PM](https://archive.org/download/nypost-2022/nypost-2022-09-22T15:22:45.290638-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 114 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 129 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 1:35 PM](https://archive.org/download/nypost-2022/nypost-2022-09-19T13:35:35.333115-04:00.lighthouse.json) |
-| [September 19 at 2:06 AM](https://archive.org/download/nypost-2022/nypost-2022-09-19T02:06:01.153437-04:00.lighthouse.json) |
-| [September 18 at 1:28 PM](https://archive.org/download/nypost-2022/nypost-2022-09-18T13:27:59.881016-04:00.lighthouse.json) |
-| [September 18 at 1:24 AM](https://archive.org/download/nypost-2022/nypost-2022-09-18T01:24:38.734196-04:00.lighthouse.json) |
-| [September 17 at 12:01 PM](https://archive.org/download/nypost-2022/nypost-2022-09-17T12:01:47.285723-04:00.lighthouse.json) |
-| [September 17 at 12:36 AM](https://archive.org/download/nypost-2022/nypost-2022-09-17T00:36:06.954107-04:00.lighthouse.json) |
-| [September 16 at 12:05 PM](https://archive.org/download/nypost-2022/nypost-2022-09-16T12:05:24.260007-04:00.lighthouse.json) |
-| [September 16 at 1:28 AM](https://archive.org/download/nypost-2022/nypost-2022-09-16T01:28:16.069464-04:00.lighthouse.json) |
-| [September 15 at 12:29 PM](https://archive.org/download/nypost-2022/nypost-2022-09-15T12:29:29.740189-04:00.lighthouse.json) |
-| [September 15 at 1:28 AM](https://archive.org/download/nypost-2022/nypost-2022-09-15T01:28:08.752997-04:00.lighthouse.json) |
+| [September 27 at 3:08 AM](https://archive.org/download/nypost-2022/nypost-2022-09-27T03:07:58.424036-04:00.lighthouse.json) |
+| [September 26 at 3:27 PM](https://archive.org/download/nypost-2022/nypost-2022-09-26T15:27:13.880677-04:00.lighthouse.json) |
+| [September 26 at 3:42 AM](https://archive.org/download/nypost-2022/nypost-2022-09-26T03:42:16.338217-04:00.lighthouse.json) |
+| [September 25 at 2:30 PM](https://archive.org/download/nypost-2022/nypost-2022-09-25T14:30:36.467893-04:00.lighthouse.json) |
+| [September 25 at 2:54 AM](https://archive.org/download/nypost-2022/nypost-2022-09-25T02:53:59.025097-04:00.lighthouse.json) |
+| [September 24 at 2:30 PM](https://archive.org/download/nypost-2022/nypost-2022-09-24T14:30:16.129766-04:00.lighthouse.json) |
+| [September 24 at 2:55 AM](https://archive.org/download/nypost-2022/nypost-2022-09-24T02:55:07.205185-04:00.lighthouse.json) |
+| [September 23 at 2:46 PM](https://archive.org/download/nypost-2022/nypost-2022-09-23T14:46:30.263345-04:00.lighthouse.json) |
+| [September 23 at 3:18 AM](https://archive.org/download/nypost-2022/nypost-2022-09-23T03:18:47.770791-04:00.lighthouse.json) |
+| [September 22 at 3:22 PM](https://archive.org/download/nypost-2022/nypost-2022-09-22T15:22:45.290638-04:00.lighthouse.json) |
 
 
 

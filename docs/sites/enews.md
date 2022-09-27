@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 154 screenshots with the Internet Archive.
+The archiving routine has saved 170 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/enews-2022/enews-2022-09-19T09:00:59.512994-07:00.jpg">
-  <img src="https://archive.org/download/enews-2022/enews-2022-09-19T09:00:59.512994-07:00.jpg"
-     alt="E! at 2022-09-19 09:01:02-07:00 local time"
+ <a href="https://archive.org/download/enews-2022/enews-2022-09-27T00:00:23.581887-07:00.jpg">
+  <img src="https://archive.org/download/enews-2022/enews-2022-09-27T00:00:23.581887-07:00.jpg"
+     alt="E! at 2022-09-27 00:00:24-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enews-2022/enews-2022-09-19T09:00:59.512994-07:00.jpg">September 19 at 9:01 AM</a></p>
+ <p><a href="https://archive.org/download/enews-2022/enews-2022-09-27T00:00:23.581887-07:00.jpg">September 27 at 12:00 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/enews-2022/enews-2022-09-18T21:41:37.575200-07:00.jpg">
-  <img src="https://archive.org/download/enews-2022/enews-2022-09-18T21:41:37.575200-07:00.jpg"
-     alt="E! at 2022-09-18 21:41:39-07:00 local time"
+ <a href="https://archive.org/download/enews-2022/enews-2022-09-26T10:47:44.999353-07:00.jpg">
+  <img src="https://archive.org/download/enews-2022/enews-2022-09-26T10:47:44.999353-07:00.jpg"
+     alt="E! at 2022-09-26 10:47:46-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enews-2022/enews-2022-09-18T21:41:37.575200-07:00.jpg">September 18 at 9:41 PM</a></p>
+ <p><a href="https://archive.org/download/enews-2022/enews-2022-09-26T10:47:44.999353-07:00.jpg">September 26 at 10:47 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/enews-2022/enews-2022-09-17T20:50:10.933906-07:00.jpg">
-  <img src="https://archive.org/download/enews-2022/enews-2022-09-17T20:50:10.933906-07:00.jpg"
-     alt="E! at 2022-09-17 20:50:11-07:00 local time"
+ <a href="https://archive.org/download/enews-2022/enews-2022-09-25T23:19:18.124550-07:00.jpg">
+  <img src="https://archive.org/download/enews-2022/enews-2022-09-25T23:19:18.124550-07:00.jpg"
+     alt="E! at 2022-09-25 23:19:24-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enews-2022/enews-2022-09-17T20:50:10.933906-07:00.jpg">September 17 at 8:50 PM</a></p>
+ <p><a href="https://archive.org/download/enews-2022/enews-2022-09-25T23:19:18.124550-07:00.jpg">September 25 at 11:19 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/enews-2022/enews-2022-09-17T07:52:32.659194-07:00.jpg">
-  <img src="https://archive.org/download/enews-2022/enews-2022-09-17T07:52:32.659194-07:00.jpg"
-     alt="E! at 2022-09-17 07:52:34-07:00 local time"
+ <a href="https://archive.org/download/enews-2022/enews-2022-09-25T10:26:55.561977-07:00.jpg">
+  <img src="https://archive.org/download/enews-2022/enews-2022-09-25T10:26:55.561977-07:00.jpg"
+     alt="E! at 2022-09-25 10:27:04-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enews-2022/enews-2022-09-17T07:52:32.659194-07:00.jpg">September 17 at 7:52 AM</a></p>
+ <p><a href="https://archive.org/download/enews-2022/enews-2022-09-25T10:26:55.561977-07:00.jpg">September 25 at 10:27 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/enews-2022/enews-2022-09-16T20:44:14.088983-07:00.jpg">
-  <img src="https://archive.org/download/enews-2022/enews-2022-09-16T20:44:14.088983-07:00.jpg"
-     alt="E! at 2022-09-16 20:44:15-07:00 local time"
+ <a href="https://archive.org/download/enews-2022/enews-2022-09-24T22:52:34.984119-07:00.jpg">
+  <img src="https://archive.org/download/enews-2022/enews-2022-09-24T22:52:34.984119-07:00.jpg"
+     alt="E! at 2022-09-24 22:52:41-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enews-2022/enews-2022-09-16T20:44:14.088983-07:00.jpg">September 16 at 8:44 PM</a></p>
+ <p><a href="https://archive.org/download/enews-2022/enews-2022-09-24T22:52:34.984119-07:00.jpg">September 24 at 10:52 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/enews-2022/enews-2022-09-16T08:02:24.401317-07:00.jpg">
-  <img src="https://archive.org/download/enews-2022/enews-2022-09-16T08:02:24.401317-07:00.jpg"
-     alt="E! at 2022-09-16 08:02:25-07:00 local time"
+ <a href="https://archive.org/download/enews-2022/enews-2022-09-24T10:26:42.898576-07:00.jpg">
+  <img src="https://archive.org/download/enews-2022/enews-2022-09-24T10:26:42.898576-07:00.jpg"
+     alt="E! at 2022-09-24 10:26:49-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enews-2022/enews-2022-09-16T08:02:24.401317-07:00.jpg">September 16 at 8:02 AM</a></p>
+ <p><a href="https://archive.org/download/enews-2022/enews-2022-09-24T10:26:42.898576-07:00.jpg">September 24 at 10:26 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/enews-2022/enews-2022-09-15T20:51:12.805504-07:00.jpg">
-  <img src="https://archive.org/download/enews-2022/enews-2022-09-15T20:51:12.805504-07:00.jpg"
-     alt="E! at 2022-09-15 20:51:14-07:00 local time"
+ <a href="https://archive.org/download/enews-2022/enews-2022-09-23T22:53:08.504618-07:00.jpg">
+  <img src="https://archive.org/download/enews-2022/enews-2022-09-23T22:53:08.504618-07:00.jpg"
+     alt="E! at 2022-09-23 22:53:09-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enews-2022/enews-2022-09-15T20:51:12.805504-07:00.jpg">September 15 at 8:51 PM</a></p>
+ <p><a href="https://archive.org/download/enews-2022/enews-2022-09-23T22:53:08.504618-07:00.jpg">September 23 at 10:53 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/enews-2022/enews-2022-09-15T09:12:25.429438-07:00.jpg">
-  <img src="https://archive.org/download/enews-2022/enews-2022-09-15T09:12:25.429438-07:00.jpg"
-     alt="E! at 2022-09-15 09:12:27-07:00 local time"
+ <a href="https://archive.org/download/enews-2022/enews-2022-09-23T10:42:09.306539-07:00.jpg">
+  <img src="https://archive.org/download/enews-2022/enews-2022-09-23T10:42:09.306539-07:00.jpg"
+     alt="E! at 2022-09-23 10:42:18-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enews-2022/enews-2022-09-15T09:12:25.429438-07:00.jpg">September 15 at 9:12 AM</a></p>
+ <p><a href="https://archive.org/download/enews-2022/enews-2022-09-23T10:42:09.306539-07:00.jpg">September 23 at 10:42 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/enews-2022/enews-2022-09-14T20:51:38.202929-07:00.jpg">
-  <img src="https://archive.org/download/enews-2022/enews-2022-09-14T20:51:38.202929-07:00.jpg"
-     alt="E! at 2022-09-14 20:51:43-07:00 local time"
+ <a href="https://archive.org/download/enews-2022/enews-2022-09-23T00:14:46.615210-07:00.jpg">
+  <img src="https://archive.org/download/enews-2022/enews-2022-09-23T00:14:46.615210-07:00.jpg"
+     alt="E! at 2022-09-23 00:15:00-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enews-2022/enews-2022-09-14T20:51:38.202929-07:00.jpg">September 14 at 8:51 PM</a></p>
+ <p><a href="https://archive.org/download/enews-2022/enews-2022-09-23T00:14:46.615210-07:00.jpg">September 23 at 12:15 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/enews-2022/enews-2022-09-14T08:19:42.841437-07:00.jpg">
-  <img src="https://archive.org/download/enews-2022/enews-2022-09-14T08:19:42.841437-07:00.jpg"
-     alt="E! at 2022-09-14 08:19:48-07:00 local time"
+ <a href="https://archive.org/download/enews-2022/enews-2022-09-22T10:36:16.733893-07:00.jpg">
+  <img src="https://archive.org/download/enews-2022/enews-2022-09-22T10:36:16.733893-07:00.jpg"
+     alt="E! at 2022-09-22 10:36:18-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enews-2022/enews-2022-09-14T08:19:42.841437-07:00.jpg">September 14 at 8:19 AM</a></p>
+ <p><a href="https://archive.org/download/enews-2022/enews-2022-09-22T10:36:16.733893-07:00.jpg">September 22 at 10:36 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/enews-2022/enews-2022-09-13T20:49:37.823997-07:00.jpg">
-  <img src="https://archive.org/download/enews-2022/enews-2022-09-13T20:49:37.823997-07:00.jpg"
-     alt="E! at 2022-09-13 20:49:41-07:00 local time"
+ <a href="https://archive.org/download/enews-2022/enews-2022-09-21T23:05:11.867965-07:00.jpg">
+  <img src="https://archive.org/download/enews-2022/enews-2022-09-21T23:05:11.867965-07:00.jpg"
+     alt="E! at 2022-09-21 23:05:13-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enews-2022/enews-2022-09-13T20:49:37.823997-07:00.jpg">September 13 at 8:49 PM</a></p>
+ <p><a href="https://archive.org/download/enews-2022/enews-2022-09-21T23:05:11.867965-07:00.jpg">September 21 at 11:05 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/enews-2022/enews-2022-09-13T09:06:28.502109-07:00.jpg">
-  <img src="https://archive.org/download/enews-2022/enews-2022-09-13T09:06:28.502109-07:00.jpg"
-     alt="E! at 2022-09-13 09:06:31-07:00 local time"
+ <a href="https://archive.org/download/enews-2022/enews-2022-09-21T10:42:10.618769-07:00.jpg">
+  <img src="https://archive.org/download/enews-2022/enews-2022-09-21T10:42:10.618769-07:00.jpg"
+     alt="E! at 2022-09-21 10:42:18-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enews-2022/enews-2022-09-13T09:06:28.502109-07:00.jpg">September 13 at 9:06 AM</a></p>
+ <p><a href="https://archive.org/download/enews-2022/enews-2022-09-21T10:42:10.618769-07:00.jpg">September 21 at 10:42 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 154 hyperlink lists with the Internet Archive.
+The archiving routine has saved 170 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 9:01 AM](https://archive.org/download/enews-2022/enews-2022-09-19T09:00:59.512994-07:00.hyperlinks.json) |
-| [September 18 at 9:41 PM](https://archive.org/download/enews-2022/enews-2022-09-18T21:41:37.575200-07:00.hyperlinks.json) |
-| [September 17 at 8:50 PM](https://archive.org/download/enews-2022/enews-2022-09-17T20:50:10.933906-07:00.hyperlinks.json) |
-| [September 17 at 7:52 AM](https://archive.org/download/enews-2022/enews-2022-09-17T07:52:32.659194-07:00.hyperlinks.json) |
-| [September 16 at 8:44 PM](https://archive.org/download/enews-2022/enews-2022-09-16T20:44:14.088983-07:00.hyperlinks.json) |
-| [September 16 at 8:02 AM](https://archive.org/download/enews-2022/enews-2022-09-16T08:02:24.401317-07:00.hyperlinks.json) |
-| [September 15 at 8:51 PM](https://archive.org/download/enews-2022/enews-2022-09-15T20:51:12.805504-07:00.hyperlinks.json) |
-| [September 15 at 9:12 AM](https://archive.org/download/enews-2022/enews-2022-09-15T09:12:25.429438-07:00.hyperlinks.json) |
-| [September 14 at 8:51 PM](https://archive.org/download/enews-2022/enews-2022-09-14T20:51:38.202929-07:00.hyperlinks.json) |
-| [September 14 at 8:19 AM](https://archive.org/download/enews-2022/enews-2022-09-14T08:19:42.841437-07:00.hyperlinks.json) |
+| [September 27 at 12:00 AM](https://archive.org/download/enews-2022/enews-2022-09-27T00:00:23.581887-07:00.hyperlinks.json) |
+| [September 26 at 10:47 AM](https://archive.org/download/enews-2022/enews-2022-09-26T10:47:44.999353-07:00.hyperlinks.json) |
+| [September 25 at 11:19 PM](https://archive.org/download/enews-2022/enews-2022-09-25T23:19:18.124550-07:00.hyperlinks.json) |
+| [September 25 at 10:27 AM](https://archive.org/download/enews-2022/enews-2022-09-25T10:26:55.561977-07:00.hyperlinks.json) |
+| [September 24 at 10:52 PM](https://archive.org/download/enews-2022/enews-2022-09-24T22:52:34.984119-07:00.hyperlinks.json) |
+| [September 24 at 10:26 AM](https://archive.org/download/enews-2022/enews-2022-09-24T10:26:42.898576-07:00.hyperlinks.json) |
+| [September 23 at 10:53 PM](https://archive.org/download/enews-2022/enews-2022-09-23T22:53:08.504618-07:00.hyperlinks.json) |
+| [September 23 at 10:42 AM](https://archive.org/download/enews-2022/enews-2022-09-23T10:42:09.306539-07:00.hyperlinks.json) |
+| [September 23 at 12:15 AM](https://archive.org/download/enews-2022/enews-2022-09-23T00:14:46.615210-07:00.hyperlinks.json) |
+| [September 22 at 10:36 AM](https://archive.org/download/enews-2022/enews-2022-09-22T10:36:16.733893-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 154 accessibility trees with the Internet Archive.
+The archiving routine has saved 170 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 9:01 AM](https://archive.org/download/enews-2022/enews-2022-09-19T09:00:59.512994-07:00.accessibility.json) |
-| [September 18 at 9:41 PM](https://archive.org/download/enews-2022/enews-2022-09-18T21:41:37.575200-07:00.accessibility.json) |
-| [September 17 at 8:50 PM](https://archive.org/download/enews-2022/enews-2022-09-17T20:50:10.933906-07:00.accessibility.json) |
-| [September 17 at 7:52 AM](https://archive.org/download/enews-2022/enews-2022-09-17T07:52:32.659194-07:00.accessibility.json) |
-| [September 16 at 8:44 PM](https://archive.org/download/enews-2022/enews-2022-09-16T20:44:14.088983-07:00.accessibility.json) |
-| [September 16 at 8:02 AM](https://archive.org/download/enews-2022/enews-2022-09-16T08:02:24.401317-07:00.accessibility.json) |
-| [September 15 at 8:51 PM](https://archive.org/download/enews-2022/enews-2022-09-15T20:51:12.805504-07:00.accessibility.json) |
-| [September 15 at 9:12 AM](https://archive.org/download/enews-2022/enews-2022-09-15T09:12:25.429438-07:00.accessibility.json) |
-| [September 14 at 8:51 PM](https://archive.org/download/enews-2022/enews-2022-09-14T20:51:38.202929-07:00.accessibility.json) |
-| [September 14 at 8:19 AM](https://archive.org/download/enews-2022/enews-2022-09-14T08:19:42.841437-07:00.accessibility.json) |
+| [September 27 at 12:00 AM](https://archive.org/download/enews-2022/enews-2022-09-27T00:00:23.581887-07:00.accessibility.json) |
+| [September 26 at 10:47 AM](https://archive.org/download/enews-2022/enews-2022-09-26T10:47:44.999353-07:00.accessibility.json) |
+| [September 25 at 11:19 PM](https://archive.org/download/enews-2022/enews-2022-09-25T23:19:18.124550-07:00.accessibility.json) |
+| [September 25 at 10:27 AM](https://archive.org/download/enews-2022/enews-2022-09-25T10:26:55.561977-07:00.accessibility.json) |
+| [September 24 at 10:52 PM](https://archive.org/download/enews-2022/enews-2022-09-24T22:52:34.984119-07:00.accessibility.json) |
+| [September 24 at 10:26 AM](https://archive.org/download/enews-2022/enews-2022-09-24T10:26:42.898576-07:00.accessibility.json) |
+| [September 23 at 10:53 PM](https://archive.org/download/enews-2022/enews-2022-09-23T22:53:08.504618-07:00.accessibility.json) |
+| [September 23 at 10:42 AM](https://archive.org/download/enews-2022/enews-2022-09-23T10:42:09.306539-07:00.accessibility.json) |
+| [September 23 at 12:15 AM](https://archive.org/download/enews-2022/enews-2022-09-23T00:14:46.615210-07:00.accessibility.json) |
+| [September 22 at 10:36 AM](https://archive.org/download/enews-2022/enews-2022-09-22T10:36:16.733893-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 114 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 130 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 9:01 AM](https://archive.org/download/enews-2022/enews-2022-09-19T09:00:59.512994-07:00.lighthouse.json) |
-| [September 18 at 9:41 PM](https://archive.org/download/enews-2022/enews-2022-09-18T21:41:37.575200-07:00.lighthouse.json) |
-| [September 17 at 8:50 PM](https://archive.org/download/enews-2022/enews-2022-09-17T20:50:10.933906-07:00.lighthouse.json) |
-| [September 17 at 7:52 AM](https://archive.org/download/enews-2022/enews-2022-09-17T07:52:32.659194-07:00.lighthouse.json) |
-| [September 16 at 8:44 PM](https://archive.org/download/enews-2022/enews-2022-09-16T20:44:14.088983-07:00.lighthouse.json) |
-| [September 16 at 8:02 AM](https://archive.org/download/enews-2022/enews-2022-09-16T08:02:24.401317-07:00.lighthouse.json) |
-| [September 15 at 8:51 PM](https://archive.org/download/enews-2022/enews-2022-09-15T20:51:12.805504-07:00.lighthouse.json) |
-| [September 15 at 9:12 AM](https://archive.org/download/enews-2022/enews-2022-09-15T09:12:25.429438-07:00.lighthouse.json) |
-| [September 14 at 8:51 PM](https://archive.org/download/enews-2022/enews-2022-09-14T20:51:38.202929-07:00.lighthouse.json) |
-| [September 14 at 8:19 AM](https://archive.org/download/enews-2022/enews-2022-09-14T08:19:42.841437-07:00.lighthouse.json) |
+| [September 27 at 12:00 AM](https://archive.org/download/enews-2022/enews-2022-09-27T00:00:23.581887-07:00.lighthouse.json) |
+| [September 26 at 10:47 AM](https://archive.org/download/enews-2022/enews-2022-09-26T10:47:44.999353-07:00.lighthouse.json) |
+| [September 25 at 11:19 PM](https://archive.org/download/enews-2022/enews-2022-09-25T23:19:18.124550-07:00.lighthouse.json) |
+| [September 25 at 10:27 AM](https://archive.org/download/enews-2022/enews-2022-09-25T10:26:55.561977-07:00.lighthouse.json) |
+| [September 24 at 10:52 PM](https://archive.org/download/enews-2022/enews-2022-09-24T22:52:34.984119-07:00.lighthouse.json) |
+| [September 24 at 10:26 AM](https://archive.org/download/enews-2022/enews-2022-09-24T10:26:42.898576-07:00.lighthouse.json) |
+| [September 23 at 10:53 PM](https://archive.org/download/enews-2022/enews-2022-09-23T22:53:08.504618-07:00.lighthouse.json) |
+| [September 23 at 10:42 AM](https://archive.org/download/enews-2022/enews-2022-09-23T10:42:09.306539-07:00.lighthouse.json) |
+| [September 23 at 12:15 AM](https://archive.org/download/enews-2022/enews-2022-09-23T00:14:46.615210-07:00.lighthouse.json) |
+| [September 22 at 10:36 AM](https://archive.org/download/enews-2022/enews-2022-09-22T10:36:16.733893-07:00.lighthouse.json) |
 
 
 

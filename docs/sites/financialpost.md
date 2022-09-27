@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 178 screenshots with the Internet Archive.
+The archiving routine has saved 194 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-19T12:00:40.507245-04:00.jpg">
-  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-09-19T12:00:40.507245-04:00.jpg"
-     alt="Financial Post at 2022-09-19 12:00:46-04:00 local time"
+ <a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-27T02:59:55.723349-04:00.jpg">
+  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-09-27T02:59:55.723349-04:00.jpg"
+     alt="Financial Post at 2022-09-27 02:59:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-19T12:00:40.507245-04:00.jpg">September 19 at 12:00 PM</a></p>
+ <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-27T02:59:55.723349-04:00.jpg">September 27 at 2:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-19T00:46:07.870425-04:00.jpg">
-  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-09-19T00:46:07.870425-04:00.jpg"
-     alt="Financial Post at 2022-09-19 00:46:09-04:00 local time"
+ <a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-26T13:47:43.224949-04:00.jpg">
+  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-09-26T13:47:43.224949-04:00.jpg"
+     alt="Financial Post at 2022-09-26 13:47:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-19T00:46:07.870425-04:00.jpg">September 19 at 12:46 AM</a></p>
+ <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-26T13:47:43.224949-04:00.jpg">September 26 at 1:47 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-17T23:49:29.344819-04:00.jpg">
-  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-09-17T23:49:29.344819-04:00.jpg"
-     alt="Financial Post at 2022-09-17 23:49:31-04:00 local time"
+ <a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-26T02:18:35.485800-04:00.jpg">
+  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-09-26T02:18:35.485800-04:00.jpg"
+     alt="Financial Post at 2022-09-26 02:18:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-17T23:49:29.344819-04:00.jpg">September 17 at 11:49 PM</a></p>
+ <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-26T02:18:35.485800-04:00.jpg">September 26 at 2:18 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-17T10:52:03.558002-04:00.jpg">
-  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-09-17T10:52:03.558002-04:00.jpg"
-     alt="Financial Post at 2022-09-17 10:52:05-04:00 local time"
+ <a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-25T13:27:15.693035-04:00.jpg">
+  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-09-25T13:27:15.693035-04:00.jpg"
+     alt="Financial Post at 2022-09-25 13:27:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-17T10:52:03.558002-04:00.jpg">September 17 at 10:52 AM</a></p>
+ <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-25T13:27:15.693035-04:00.jpg">September 25 at 1:27 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-16T23:43:38.998123-04:00.jpg">
-  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-09-16T23:43:38.998123-04:00.jpg"
-     alt="Financial Post at 2022-09-16 23:43:44-04:00 local time"
+ <a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-25T01:52:11.142964-04:00.jpg">
+  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-09-25T01:52:11.142964-04:00.jpg"
+     alt="Financial Post at 2022-09-25 01:52:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-16T23:43:38.998123-04:00.jpg">September 16 at 11:43 PM</a></p>
+ <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-25T01:52:11.142964-04:00.jpg">September 25 at 1:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-16T11:01:46.086388-04:00.jpg">
-  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-09-16T11:01:46.086388-04:00.jpg"
-     alt="Financial Post at 2022-09-16 11:01:47-04:00 local time"
+ <a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-24T13:26:31.490682-04:00.jpg">
+  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-09-24T13:26:31.490682-04:00.jpg"
+     alt="Financial Post at 2022-09-24 13:26:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-16T11:01:46.086388-04:00.jpg">September 16 at 11:01 AM</a></p>
+ <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-24T13:26:31.490682-04:00.jpg">September 24 at 1:26 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-15T23:51:17.771144-04:00.jpg">
-  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-09-15T23:51:17.771144-04:00.jpg"
-     alt="Financial Post at 2022-09-15 23:51:23-04:00 local time"
+ <a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-24T01:52:31.142258-04:00.jpg">
+  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-09-24T01:52:31.142258-04:00.jpg"
+     alt="Financial Post at 2022-09-24 01:52:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-15T23:51:17.771144-04:00.jpg">September 15 at 11:51 PM</a></p>
+ <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-24T01:52:31.142258-04:00.jpg">September 24 at 1:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-15T12:12:11.943902-04:00.jpg">
-  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-09-15T12:12:11.943902-04:00.jpg"
-     alt="Financial Post at 2022-09-15 12:12:14-04:00 local time"
+ <a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-23T13:42:00.396447-04:00.jpg">
+  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-09-23T13:42:00.396447-04:00.jpg"
+     alt="Financial Post at 2022-09-23 13:42:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-15T12:12:11.943902-04:00.jpg">September 15 at 12:12 PM</a></p>
+ <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-23T13:42:00.396447-04:00.jpg">September 23 at 1:42 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-14T23:50:19.072938-04:00.jpg">
-  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-09-14T23:50:19.072938-04:00.jpg"
-     alt="Financial Post at 2022-09-14 23:50:23-04:00 local time"
+ <a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-23T03:15:18.946735-04:00.jpg">
+  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-09-23T03:15:18.946735-04:00.jpg"
+     alt="Financial Post at 2022-09-23 03:15:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-14T23:50:19.072938-04:00.jpg">September 14 at 11:50 PM</a></p>
+ <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-23T03:15:18.946735-04:00.jpg">September 23 at 3:15 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-14T11:20:19.451398-04:00.jpg">
-  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-09-14T11:20:19.451398-04:00.jpg"
-     alt="Financial Post at 2022-09-14 11:20:20-04:00 local time"
+ <a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-22T13:41:39.736350-04:00.jpg">
+  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-09-22T13:41:39.736350-04:00.jpg"
+     alt="Financial Post at 2022-09-22 13:42:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-14T11:20:19.451398-04:00.jpg">September 14 at 11:20 AM</a></p>
+ <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-22T13:41:39.736350-04:00.jpg">September 22 at 1:42 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-13T23:49:08.710843-04:00.jpg">
-  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-09-13T23:49:08.710843-04:00.jpg"
-     alt="Financial Post at 2022-09-13 23:49:10-04:00 local time"
+ <a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-22T02:08:11.990237-04:00.jpg">
+  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-09-22T02:08:11.990237-04:00.jpg"
+     alt="Financial Post at 2022-09-22 02:08:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-13T23:49:08.710843-04:00.jpg">September 13 at 11:49 PM</a></p>
+ <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-22T02:08:11.990237-04:00.jpg">September 22 at 2:08 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-13T12:06:15.453970-04:00.jpg">
-  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-09-13T12:06:15.453970-04:00.jpg"
-     alt="Financial Post at 2022-09-13 12:06:18-04:00 local time"
+ <a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-21T13:44:46.498716-04:00.jpg">
+  <img src="https://archive.org/download/financialpost-2022/financialpost-2022-09-21T13:44:46.498716-04:00.jpg"
+     alt="Financial Post at 2022-09-21 13:44:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-13T12:06:15.453970-04:00.jpg">September 13 at 12:06 PM</a></p>
+ <p><a href="https://archive.org/download/financialpost-2022/financialpost-2022-09-21T13:44:46.498716-04:00.jpg">September 21 at 1:44 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 176 hyperlink lists with the Internet Archive.
+The archiving routine has saved 192 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 12:00 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-19T12:00:40.507245-04:00.hyperlinks.json) |
-| [September 19 at 12:46 AM](https://archive.org/download/financialpost-2022/financialpost-2022-09-19T00:46:07.870425-04:00.hyperlinks.json) |
-| [September 17 at 11:49 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-17T23:49:29.344819-04:00.hyperlinks.json) |
-| [September 17 at 10:52 AM](https://archive.org/download/financialpost-2022/financialpost-2022-09-17T10:52:03.558002-04:00.hyperlinks.json) |
-| [September 16 at 11:43 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-16T23:43:38.998123-04:00.hyperlinks.json) |
-| [September 16 at 11:01 AM](https://archive.org/download/financialpost-2022/financialpost-2022-09-16T11:01:46.086388-04:00.hyperlinks.json) |
-| [September 15 at 11:51 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-15T23:51:17.771144-04:00.hyperlinks.json) |
-| [September 15 at 12:12 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-15T12:12:11.943902-04:00.hyperlinks.json) |
-| [September 14 at 11:50 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-14T23:50:19.072938-04:00.hyperlinks.json) |
-| [September 14 at 11:20 AM](https://archive.org/download/financialpost-2022/financialpost-2022-09-14T11:20:19.451398-04:00.hyperlinks.json) |
+| [September 27 at 3:00 AM](https://archive.org/download/financialpost-2022/financialpost-2022-09-27T02:59:55.723349-04:00.hyperlinks.json) |
+| [September 26 at 1:47 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-26T13:47:43.224949-04:00.hyperlinks.json) |
+| [September 26 at 2:18 AM](https://archive.org/download/financialpost-2022/financialpost-2022-09-26T02:18:35.485800-04:00.hyperlinks.json) |
+| [September 25 at 1:27 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-25T13:27:15.693035-04:00.hyperlinks.json) |
+| [September 25 at 1:52 AM](https://archive.org/download/financialpost-2022/financialpost-2022-09-25T01:52:11.142964-04:00.hyperlinks.json) |
+| [September 24 at 1:26 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-24T13:26:31.490682-04:00.hyperlinks.json) |
+| [September 24 at 1:52 AM](https://archive.org/download/financialpost-2022/financialpost-2022-09-24T01:52:31.142258-04:00.hyperlinks.json) |
+| [September 23 at 1:42 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-23T13:42:00.396447-04:00.hyperlinks.json) |
+| [September 23 at 3:15 AM](https://archive.org/download/financialpost-2022/financialpost-2022-09-23T03:15:18.946735-04:00.hyperlinks.json) |
+| [September 22 at 1:42 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-22T13:41:39.736350-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 176 accessibility trees with the Internet Archive.
+The archiving routine has saved 192 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 12:00 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-19T12:00:40.507245-04:00.accessibility.json) |
-| [September 19 at 12:46 AM](https://archive.org/download/financialpost-2022/financialpost-2022-09-19T00:46:07.870425-04:00.accessibility.json) |
-| [September 17 at 11:49 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-17T23:49:29.344819-04:00.accessibility.json) |
-| [September 17 at 10:52 AM](https://archive.org/download/financialpost-2022/financialpost-2022-09-17T10:52:03.558002-04:00.accessibility.json) |
-| [September 16 at 11:43 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-16T23:43:38.998123-04:00.accessibility.json) |
-| [September 16 at 11:01 AM](https://archive.org/download/financialpost-2022/financialpost-2022-09-16T11:01:46.086388-04:00.accessibility.json) |
-| [September 15 at 11:51 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-15T23:51:17.771144-04:00.accessibility.json) |
-| [September 15 at 12:12 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-15T12:12:11.943902-04:00.accessibility.json) |
-| [September 14 at 11:50 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-14T23:50:19.072938-04:00.accessibility.json) |
-| [September 14 at 11:20 AM](https://archive.org/download/financialpost-2022/financialpost-2022-09-14T11:20:19.451398-04:00.accessibility.json) |
+| [September 27 at 2:59 AM](https://archive.org/download/financialpost-2022/financialpost-2022-09-27T02:59:55.723349-04:00.accessibility.json) |
+| [September 26 at 1:47 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-26T13:47:43.224949-04:00.accessibility.json) |
+| [September 26 at 2:18 AM](https://archive.org/download/financialpost-2022/financialpost-2022-09-26T02:18:35.485800-04:00.accessibility.json) |
+| [September 25 at 1:27 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-25T13:27:15.693035-04:00.accessibility.json) |
+| [September 25 at 1:52 AM](https://archive.org/download/financialpost-2022/financialpost-2022-09-25T01:52:11.142964-04:00.accessibility.json) |
+| [September 24 at 1:26 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-24T13:26:31.490682-04:00.accessibility.json) |
+| [September 24 at 1:52 AM](https://archive.org/download/financialpost-2022/financialpost-2022-09-24T01:52:31.142258-04:00.accessibility.json) |
+| [September 23 at 1:42 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-23T13:42:00.396447-04:00.accessibility.json) |
+| [September 23 at 3:15 AM](https://archive.org/download/financialpost-2022/financialpost-2022-09-23T03:15:18.946735-04:00.accessibility.json) |
+| [September 22 at 1:42 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-22T13:41:39.736350-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 113 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 128 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 12:00 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-19T12:00:40.507245-04:00.lighthouse.json) |
-| [September 19 at 12:46 AM](https://archive.org/download/financialpost-2022/financialpost-2022-09-19T00:46:07.870425-04:00.lighthouse.json) |
-| [September 17 at 11:49 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-17T23:49:29.344819-04:00.lighthouse.json) |
-| [September 17 at 10:52 AM](https://archive.org/download/financialpost-2022/financialpost-2022-09-17T10:52:03.558002-04:00.lighthouse.json) |
-| [September 16 at 11:43 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-16T23:43:38.998123-04:00.lighthouse.json) |
-| [September 16 at 11:02 AM](https://archive.org/download/financialpost-2022/financialpost-2022-09-16T11:01:46.086388-04:00.lighthouse.json) |
-| [September 15 at 11:51 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-15T23:51:17.771144-04:00.lighthouse.json) |
-| [September 15 at 12:12 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-15T12:12:11.943902-04:00.lighthouse.json) |
-| [September 14 at 11:50 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-14T23:50:19.072938-04:00.lighthouse.json) |
-| [September 14 at 11:20 AM](https://archive.org/download/financialpost-2022/financialpost-2022-09-14T11:20:19.451398-04:00.lighthouse.json) |
+| [September 27 at 3:00 AM](https://archive.org/download/financialpost-2022/financialpost-2022-09-27T02:59:55.723349-04:00.lighthouse.json) |
+| [September 26 at 1:48 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-26T13:47:43.224949-04:00.lighthouse.json) |
+| [September 26 at 2:18 AM](https://archive.org/download/financialpost-2022/financialpost-2022-09-26T02:18:35.485800-04:00.lighthouse.json) |
+| [September 25 at 1:27 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-25T13:27:15.693035-04:00.lighthouse.json) |
+| [September 25 at 1:52 AM](https://archive.org/download/financialpost-2022/financialpost-2022-09-25T01:52:11.142964-04:00.lighthouse.json) |
+| [September 24 at 1:26 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-24T13:26:31.490682-04:00.lighthouse.json) |
+| [September 24 at 1:52 AM](https://archive.org/download/financialpost-2022/financialpost-2022-09-24T01:52:31.142258-04:00.lighthouse.json) |
+| [September 23 at 1:42 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-23T13:42:00.396447-04:00.lighthouse.json) |
+| [September 23 at 3:15 AM](https://archive.org/download/financialpost-2022/financialpost-2022-09-23T03:15:18.946735-04:00.lighthouse.json) |
+| [September 22 at 1:42 PM](https://archive.org/download/financialpost-2022/financialpost-2022-09-22T13:41:39.736350-04:00.lighthouse.json) |
 
 
 

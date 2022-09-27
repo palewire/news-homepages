@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 0 screenshots with the Internet Archive.
+The archiving routine has saved 15 screenshots with the Internet Archive.
 
 
 
@@ -36,11 +36,119 @@ Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
 
+<div class="latest-child">
+ <a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-27T07:57:48.216723-04:00.jpg">
+  <img src="https://archive.org/download/hnnow-2022/hnnow-2022-09-27T07:57:48.216723-04:00.jpg"
+     alt="The Fall River Herald News at 2022-09-27 07:57:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-27T07:57:48.216723-04:00.jpg">September 27 at 7:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-26T19:49:39.818372-04:00.jpg">
+  <img src="https://archive.org/download/hnnow-2022/hnnow-2022-09-26T19:49:39.818372-04:00.jpg"
+     alt="The Fall River Herald News at 2022-09-26 19:49:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-26T19:49:39.818372-04:00.jpg">September 26 at 7:49 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-26T08:05:07.127338-04:00.jpg">
+  <img src="https://archive.org/download/hnnow-2022/hnnow-2022-09-26T08:05:07.127338-04:00.jpg"
+     alt="The Fall River Herald News at 2022-09-26 08:05:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-26T08:05:07.127338-04:00.jpg">September 26 at 8:05 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-25T19:45:37.908987-04:00.jpg">
+  <img src="https://archive.org/download/hnnow-2022/hnnow-2022-09-25T19:45:37.908987-04:00.jpg"
+     alt="The Fall River Herald News at 2022-09-25 19:45:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-25T19:45:37.908987-04:00.jpg">September 25 at 7:45 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-25T07:49:52.852848-04:00.jpg">
+  <img src="https://archive.org/download/hnnow-2022/hnnow-2022-09-25T07:49:52.852848-04:00.jpg"
+     alt="The Fall River Herald News at 2022-09-25 07:49:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-25T07:49:52.852848-04:00.jpg">September 25 at 7:49 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-24T19:41:30.223864-04:00.jpg">
+  <img src="https://archive.org/download/hnnow-2022/hnnow-2022-09-24T19:41:30.223864-04:00.jpg"
+     alt="The Fall River Herald News at 2022-09-24 19:41:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-24T19:41:30.223864-04:00.jpg">September 24 at 7:41 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-24T07:50:45.305347-04:00.jpg">
+  <img src="https://archive.org/download/hnnow-2022/hnnow-2022-09-24T07:50:45.305347-04:00.jpg"
+     alt="The Fall River Herald News at 2022-09-24 07:50:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-24T07:50:45.305347-04:00.jpg">September 24 at 7:50 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-23T19:48:21.209959-04:00.jpg">
+  <img src="https://archive.org/download/hnnow-2022/hnnow-2022-09-23T19:48:21.209959-04:00.jpg"
+     alt="The Fall River Herald News at 2022-09-23 19:48:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-23T19:48:21.209959-04:00.jpg">September 23 at 7:48 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-23T07:58:15.014889-04:00.jpg">
+  <img src="https://archive.org/download/hnnow-2022/hnnow-2022-09-23T07:58:15.014889-04:00.jpg"
+     alt="The Fall River Herald News at 2022-09-23 07:58:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-23T07:58:15.014889-04:00.jpg">September 23 at 7:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-22T19:50:32.916682-04:00.jpg">
+  <img src="https://archive.org/download/hnnow-2022/hnnow-2022-09-22T19:50:32.916682-04:00.jpg"
+     alt="The Fall River Herald News at 2022-09-22 19:50:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-22T19:50:32.916682-04:00.jpg">September 22 at 7:50 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-22T07:59:04.432409-04:00.jpg">
+  <img src="https://archive.org/download/hnnow-2022/hnnow-2022-09-22T07:59:04.432409-04:00.jpg"
+     alt="The Fall River Herald News at 2022-09-22 07:59:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-22T07:59:04.432409-04:00.jpg">September 22 at 7:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-21T19:45:59.204183-04:00.jpg">
+  <img src="https://archive.org/download/hnnow-2022/hnnow-2022-09-21T19:45:59.204183-04:00.jpg"
+     alt="The Fall River Herald News at 2022-09-21 19:46:00-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-21T19:45:59.204183-04:00.jpg">September 21 at 7:46 PM</a></p>
+</div>
+
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 0 hyperlink lists with the Internet Archive.
+The archiving routine has saved 15 hyperlink lists with the Internet Archive.
 
 
 
@@ -48,11 +156,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 27 at 7:57 AM](https://archive.org/download/hnnow-2022/hnnow-2022-09-27T07:57:48.216723-04:00.hyperlinks.json) |
+| [September 26 at 7:49 PM](https://archive.org/download/hnnow-2022/hnnow-2022-09-26T19:49:39.818372-04:00.hyperlinks.json) |
+| [September 26 at 8:05 AM](https://archive.org/download/hnnow-2022/hnnow-2022-09-26T08:05:07.127338-04:00.hyperlinks.json) |
+| [September 25 at 7:45 PM](https://archive.org/download/hnnow-2022/hnnow-2022-09-25T19:45:37.908987-04:00.hyperlinks.json) |
+| [September 25 at 7:49 AM](https://archive.org/download/hnnow-2022/hnnow-2022-09-25T07:49:52.852848-04:00.hyperlinks.json) |
+| [September 24 at 7:41 PM](https://archive.org/download/hnnow-2022/hnnow-2022-09-24T19:41:30.223864-04:00.hyperlinks.json) |
+| [September 24 at 7:50 AM](https://archive.org/download/hnnow-2022/hnnow-2022-09-24T07:50:45.305347-04:00.hyperlinks.json) |
+| [September 23 at 7:48 PM](https://archive.org/download/hnnow-2022/hnnow-2022-09-23T19:48:21.209959-04:00.hyperlinks.json) |
+| [September 23 at 7:58 AM](https://archive.org/download/hnnow-2022/hnnow-2022-09-23T07:58:15.014889-04:00.hyperlinks.json) |
+| [September 22 at 7:50 PM](https://archive.org/download/hnnow-2022/hnnow-2022-09-22T19:50:32.916682-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 0 accessibility trees with the Internet Archive.
+The archiving routine has saved 15 accessibility trees with the Internet Archive.
 
 
 
@@ -60,12 +178,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 27 at 7:57 AM](https://archive.org/download/hnnow-2022/hnnow-2022-09-27T07:57:48.216723-04:00.accessibility.json) |
+| [September 26 at 7:49 PM](https://archive.org/download/hnnow-2022/hnnow-2022-09-26T19:49:39.818372-04:00.accessibility.json) |
+| [September 26 at 8:05 AM](https://archive.org/download/hnnow-2022/hnnow-2022-09-26T08:05:07.127338-04:00.accessibility.json) |
+| [September 25 at 7:45 PM](https://archive.org/download/hnnow-2022/hnnow-2022-09-25T19:45:37.908987-04:00.accessibility.json) |
+| [September 25 at 7:49 AM](https://archive.org/download/hnnow-2022/hnnow-2022-09-25T07:49:52.852848-04:00.accessibility.json) |
+| [September 24 at 7:41 PM](https://archive.org/download/hnnow-2022/hnnow-2022-09-24T19:41:30.223864-04:00.accessibility.json) |
+| [September 24 at 7:50 AM](https://archive.org/download/hnnow-2022/hnnow-2022-09-24T07:50:45.305347-04:00.accessibility.json) |
+| [September 23 at 7:48 PM](https://archive.org/download/hnnow-2022/hnnow-2022-09-23T19:48:21.209959-04:00.accessibility.json) |
+| [September 23 at 7:58 AM](https://archive.org/download/hnnow-2022/hnnow-2022-09-23T07:58:15.014889-04:00.accessibility.json) |
+| [September 22 at 7:50 PM](https://archive.org/download/hnnow-2022/hnnow-2022-09-22T19:50:32.916682-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 0 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
 
 
 
@@ -73,6 +201,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 27 at 7:57 AM](https://archive.org/download/hnnow-2022/hnnow-2022-09-27T07:57:48.216723-04:00.lighthouse.json) |
+| [September 26 at 7:49 PM](https://archive.org/download/hnnow-2022/hnnow-2022-09-26T19:49:39.818372-04:00.lighthouse.json) |
+| [September 26 at 8:05 AM](https://archive.org/download/hnnow-2022/hnnow-2022-09-26T08:05:07.127338-04:00.lighthouse.json) |
+| [September 25 at 7:45 PM](https://archive.org/download/hnnow-2022/hnnow-2022-09-25T19:45:37.908987-04:00.lighthouse.json) |
+| [September 25 at 7:49 AM](https://archive.org/download/hnnow-2022/hnnow-2022-09-25T07:49:52.852848-04:00.lighthouse.json) |
+| [September 24 at 7:41 PM](https://archive.org/download/hnnow-2022/hnnow-2022-09-24T19:41:30.223864-04:00.lighthouse.json) |
+| [September 24 at 7:50 AM](https://archive.org/download/hnnow-2022/hnnow-2022-09-24T07:50:45.305347-04:00.lighthouse.json) |
+| [September 23 at 7:48 PM](https://archive.org/download/hnnow-2022/hnnow-2022-09-23T19:48:21.209959-04:00.lighthouse.json) |
+| [September 23 at 7:58 AM](https://archive.org/download/hnnow-2022/hnnow-2022-09-23T07:58:15.014889-04:00.lighthouse.json) |
+| [September 22 at 7:50 PM](https://archive.org/download/hnnow-2022/hnnow-2022-09-22T19:50:32.916682-04:00.lighthouse.json) |
 
 
 
@@ -82,3 +220,4 @@ Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |
+|[hnnow-2022](https://archive.org/details/hnnow-2022)|

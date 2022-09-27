@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 261 screenshots with the Internet Archive.
+The archiving routine has saved 285 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/wbez-2022/wbez-2022-09-19T11:06:21.451560-05:00.jpg">
-  <img src="https://archive.org/download/wbez-2022/wbez-2022-09-19T11:06:21.451560-05:00.jpg"
-     alt="WBEZ at 2022-09-19 11:06:23-05:00 local time"
+ <a href="https://archive.org/download/wbez-2022/wbez-2022-09-27T11:12:43.495962-05:00.jpg">
+  <img src="https://archive.org/download/wbez-2022/wbez-2022-09-27T11:12:43.495962-05:00.jpg"
+     alt="WBEZ at 2022-09-27 11:12:46-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wbez-2022/wbez-2022-09-19T11:06:21.451560-05:00.jpg">September 19 at 11:06 AM</a></p>
+ <p><a href="https://archive.org/download/wbez-2022/wbez-2022-09-27T11:12:43.495962-05:00.jpg">September 27 at 11:12 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wbez-2022/wbez-2022-09-19T10:02:16.348420-05:00.jpg">
-  <img src="https://archive.org/download/wbez-2022/wbez-2022-09-19T10:02:16.348420-05:00.jpg"
-     alt="WBEZ at 2022-09-19 10:02:17-05:00 local time"
+ <a href="https://archive.org/download/wbez-2022/wbez-2022-09-27T11:09:40.010818-05:00.jpg">
+  <img src="https://archive.org/download/wbez-2022/wbez-2022-09-27T11:09:40.010818-05:00.jpg"
+     alt="WBEZ at 2022-09-27 11:09:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wbez-2022/wbez-2022-09-19T10:02:16.348420-05:00.jpg">September 19 at 10:02 AM</a></p>
+ <p><a href="https://archive.org/download/wbez-2022/wbez-2022-09-27T11:09:40.010818-05:00.jpg">September 27 at 11:09 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wbez-2022/wbez-2022-09-18T22:43:44.066858-05:00.jpg">
-  <img src="https://archive.org/download/wbez-2022/wbez-2022-09-18T22:43:44.066858-05:00.jpg"
-     alt="WBEZ at 2022-09-18 22:43:50-05:00 local time"
+ <a href="https://archive.org/download/wbez-2022/wbez-2022-09-26T23:31:47.611277-05:00.jpg">
+  <img src="https://archive.org/download/wbez-2022/wbez-2022-09-26T23:31:47.611277-05:00.jpg"
+     alt="WBEZ at 2022-09-26 23:31:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wbez-2022/wbez-2022-09-18T22:43:44.066858-05:00.jpg">September 18 at 10:43 PM</a></p>
+ <p><a href="https://archive.org/download/wbez-2022/wbez-2022-09-26T23:31:47.611277-05:00.jpg">September 26 at 11:31 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wbez-2022/wbez-2022-09-18T11:01:07.497436-05:00.jpg">
-  <img src="https://archive.org/download/wbez-2022/wbez-2022-09-18T11:01:07.497436-05:00.jpg"
-     alt="WBEZ at 2022-09-18 11:01:10-05:00 local time"
+ <a href="https://archive.org/download/wbez-2022/wbez-2022-09-26T11:11:03.529175-05:00.jpg">
+  <img src="https://archive.org/download/wbez-2022/wbez-2022-09-26T11:11:03.529175-05:00.jpg"
+     alt="WBEZ at 2022-09-26 11:11:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wbez-2022/wbez-2022-09-18T11:01:07.497436-05:00.jpg">September 18 at 11:01 AM</a></p>
+ <p><a href="https://archive.org/download/wbez-2022/wbez-2022-09-26T11:11:03.529175-05:00.jpg">September 26 at 11:11 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wbez-2022/wbez-2022-09-18T09:03:11.393985-05:00.jpg">
-  <img src="https://archive.org/download/wbez-2022/wbez-2022-09-18T09:03:11.393985-05:00.jpg"
-     alt="WBEZ at 2022-09-18 09:03:13-05:00 local time"
+ <a href="https://archive.org/download/wbez-2022/wbez-2022-09-26T11:08:36.604537-05:00.jpg">
+  <img src="https://archive.org/download/wbez-2022/wbez-2022-09-26T11:08:36.604537-05:00.jpg"
+     alt="WBEZ at 2022-09-26 11:08:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wbez-2022/wbez-2022-09-18T09:03:11.393985-05:00.jpg">September 18 at 9:03 AM</a></p>
+ <p><a href="https://archive.org/download/wbez-2022/wbez-2022-09-26T11:08:36.604537-05:00.jpg">September 26 at 11:08 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wbez-2022/wbez-2022-09-17T21:29:18.495075-05:00.jpg">
-  <img src="https://archive.org/download/wbez-2022/wbez-2022-09-17T21:29:18.495075-05:00.jpg"
-     alt="WBEZ at 2022-09-17 21:29:20-05:00 local time"
+ <a href="https://archive.org/download/wbez-2022/wbez-2022-09-25T23:50:09.961728-05:00.jpg">
+  <img src="https://archive.org/download/wbez-2022/wbez-2022-09-25T23:50:09.961728-05:00.jpg"
+     alt="WBEZ at 2022-09-25 23:50:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wbez-2022/wbez-2022-09-17T21:29:18.495075-05:00.jpg">September 17 at 9:29 PM</a></p>
+ <p><a href="https://archive.org/download/wbez-2022/wbez-2022-09-25T23:50:09.961728-05:00.jpg">September 25 at 11:50 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wbez-2022/wbez-2022-09-17T11:03:16.388871-05:00.jpg">
-  <img src="https://archive.org/download/wbez-2022/wbez-2022-09-17T11:03:16.388871-05:00.jpg"
-     alt="WBEZ at 2022-09-17 11:03:24-05:00 local time"
+ <a href="https://archive.org/download/wbez-2022/wbez-2022-09-25T10:54:52.858398-05:00.jpg">
+  <img src="https://archive.org/download/wbez-2022/wbez-2022-09-25T10:54:52.858398-05:00.jpg"
+     alt="WBEZ at 2022-09-25 10:54:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wbez-2022/wbez-2022-09-17T11:03:16.388871-05:00.jpg">September 17 at 11:03 AM</a></p>
+ <p><a href="https://archive.org/download/wbez-2022/wbez-2022-09-25T10:54:52.858398-05:00.jpg">September 25 at 10:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wbez-2022/wbez-2022-09-17T09:01:16.347112-05:00.jpg">
-  <img src="https://archive.org/download/wbez-2022/wbez-2022-09-17T09:01:16.347112-05:00.jpg"
-     alt="WBEZ at 2022-09-17 09:01:24-05:00 local time"
+ <a href="https://archive.org/download/wbez-2022/wbez-2022-09-25T10:48:22.280764-05:00.jpg">
+  <img src="https://archive.org/download/wbez-2022/wbez-2022-09-25T10:48:22.280764-05:00.jpg"
+     alt="WBEZ at 2022-09-25 10:48:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wbez-2022/wbez-2022-09-17T09:01:16.347112-05:00.jpg">September 17 at 9:01 AM</a></p>
+ <p><a href="https://archive.org/download/wbez-2022/wbez-2022-09-25T10:48:22.280764-05:00.jpg">September 25 at 10:48 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wbez-2022/wbez-2022-09-16T21:27:30.297491-05:00.jpg">
-  <img src="https://archive.org/download/wbez-2022/wbez-2022-09-16T21:27:30.297491-05:00.jpg"
-     alt="WBEZ at 2022-09-16 21:27:34-05:00 local time"
+ <a href="https://archive.org/download/wbez-2022/wbez-2022-09-24T23:31:30.294869-05:00.jpg">
+  <img src="https://archive.org/download/wbez-2022/wbez-2022-09-24T23:31:30.294869-05:00.jpg"
+     alt="WBEZ at 2022-09-24 23:31:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wbez-2022/wbez-2022-09-16T21:27:30.297491-05:00.jpg">September 16 at 9:27 PM</a></p>
+ <p><a href="https://archive.org/download/wbez-2022/wbez-2022-09-24T23:31:30.294869-05:00.jpg">September 24 at 11:31 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wbez-2022/wbez-2022-09-16T11:00:34.680446-05:00.jpg">
-  <img src="https://archive.org/download/wbez-2022/wbez-2022-09-16T11:00:34.680446-05:00.jpg"
-     alt="WBEZ at 2022-09-16 11:00:36-05:00 local time"
+ <a href="https://archive.org/download/wbez-2022/wbez-2022-09-24T10:52:50.352190-05:00.jpg">
+  <img src="https://archive.org/download/wbez-2022/wbez-2022-09-24T10:52:50.352190-05:00.jpg"
+     alt="WBEZ at 2022-09-24 10:52:52-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wbez-2022/wbez-2022-09-16T11:00:34.680446-05:00.jpg">September 16 at 11:00 AM</a></p>
+ <p><a href="https://archive.org/download/wbez-2022/wbez-2022-09-24T10:52:50.352190-05:00.jpg">September 24 at 10:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wbez-2022/wbez-2022-09-16T09:08:41.599367-05:00.jpg">
-  <img src="https://archive.org/download/wbez-2022/wbez-2022-09-16T09:08:41.599367-05:00.jpg"
-     alt="WBEZ at 2022-09-16 09:08:42-05:00 local time"
+ <a href="https://archive.org/download/wbez-2022/wbez-2022-09-24T10:47:25.538519-05:00.jpg">
+  <img src="https://archive.org/download/wbez-2022/wbez-2022-09-24T10:47:25.538519-05:00.jpg"
+     alt="WBEZ at 2022-09-24 10:47:26-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wbez-2022/wbez-2022-09-16T09:08:41.599367-05:00.jpg">September 16 at 9:08 AM</a></p>
+ <p><a href="https://archive.org/download/wbez-2022/wbez-2022-09-24T10:47:25.538519-05:00.jpg">September 24 at 10:47 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wbez-2022/wbez-2022-09-15T21:27:36.523398-05:00.jpg">
-  <img src="https://archive.org/download/wbez-2022/wbez-2022-09-15T21:27:36.523398-05:00.jpg"
-     alt="WBEZ at 2022-09-15 21:27:41-05:00 local time"
+ <a href="https://archive.org/download/wbez-2022/wbez-2022-09-23T23:32:59.804321-05:00.jpg">
+  <img src="https://archive.org/download/wbez-2022/wbez-2022-09-23T23:32:59.804321-05:00.jpg"
+     alt="WBEZ at 2022-09-23 23:33:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wbez-2022/wbez-2022-09-15T21:27:36.523398-05:00.jpg">September 15 at 9:27 PM</a></p>
+ <p><a href="https://archive.org/download/wbez-2022/wbez-2022-09-23T23:32:59.804321-05:00.jpg">September 23 at 11:33 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 263 hyperlink lists with the Internet Archive.
+The archiving routine has saved 286 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 11:06 AM](https://archive.org/download/wbez-2022/wbez-2022-09-19T11:06:21.451560-05:00.hyperlinks.json) |
-| [September 19 at 10:02 AM](https://archive.org/download/wbez-2022/wbez-2022-09-19T10:02:16.348420-05:00.hyperlinks.json) |
-| [September 18 at 10:43 PM](https://archive.org/download/wbez-2022/wbez-2022-09-18T22:43:44.066858-05:00.hyperlinks.json) |
-| [September 18 at 11:01 AM](https://archive.org/download/wbez-2022/wbez-2022-09-18T11:01:07.497436-05:00.hyperlinks.json) |
-| [September 18 at 9:03 AM](https://archive.org/download/wbez-2022/wbez-2022-09-18T09:03:11.393985-05:00.hyperlinks.json) |
-| [September 17 at 9:29 PM](https://archive.org/download/wbez-2022/wbez-2022-09-17T21:29:18.495075-05:00.hyperlinks.json) |
-| [September 17 at 11:03 AM](https://archive.org/download/wbez-2022/wbez-2022-09-17T11:03:16.388871-05:00.hyperlinks.json) |
-| [September 17 at 9:01 AM](https://archive.org/download/wbez-2022/wbez-2022-09-17T09:01:16.347112-05:00.hyperlinks.json) |
-| [September 16 at 9:27 PM](https://archive.org/download/wbez-2022/wbez-2022-09-16T21:27:30.297491-05:00.hyperlinks.json) |
-| [September 16 at 11:00 AM](https://archive.org/download/wbez-2022/wbez-2022-09-16T11:00:34.680446-05:00.hyperlinks.json) |
+| [September 27 at 11:12 AM](https://archive.org/download/wbez-2022/wbez-2022-09-27T11:12:43.495962-05:00.hyperlinks.json) |
+| [September 27 at 11:09 AM](https://archive.org/download/wbez-2022/wbez-2022-09-27T11:09:40.010818-05:00.hyperlinks.json) |
+| [September 26 at 11:31 PM](https://archive.org/download/wbez-2022/wbez-2022-09-26T23:31:47.611277-05:00.hyperlinks.json) |
+| [September 26 at 11:11 AM](https://archive.org/download/wbez-2022/wbez-2022-09-26T11:11:03.529175-05:00.hyperlinks.json) |
+| [September 26 at 11:08 AM](https://archive.org/download/wbez-2022/wbez-2022-09-26T11:08:36.604537-05:00.hyperlinks.json) |
+| [September 25 at 11:50 PM](https://archive.org/download/wbez-2022/wbez-2022-09-25T23:50:09.961728-05:00.hyperlinks.json) |
+| [September 25 at 10:54 AM](https://archive.org/download/wbez-2022/wbez-2022-09-25T10:54:52.858398-05:00.hyperlinks.json) |
+| [September 25 at 10:48 AM](https://archive.org/download/wbez-2022/wbez-2022-09-25T10:48:22.280764-05:00.hyperlinks.json) |
+| [September 24 at 11:31 PM](https://archive.org/download/wbez-2022/wbez-2022-09-24T23:31:30.294869-05:00.hyperlinks.json) |
+| [September 24 at 10:52 AM](https://archive.org/download/wbez-2022/wbez-2022-09-24T10:52:50.352190-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 261 accessibility trees with the Internet Archive.
+The archiving routine has saved 285 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 11:06 AM](https://archive.org/download/wbez-2022/wbez-2022-09-19T11:06:21.451560-05:00.accessibility.json) |
-| [September 19 at 10:02 AM](https://archive.org/download/wbez-2022/wbez-2022-09-19T10:02:16.348420-05:00.accessibility.json) |
-| [September 18 at 10:43 PM](https://archive.org/download/wbez-2022/wbez-2022-09-18T22:43:44.066858-05:00.accessibility.json) |
-| [September 18 at 11:01 AM](https://archive.org/download/wbez-2022/wbez-2022-09-18T11:01:07.497436-05:00.accessibility.json) |
-| [September 18 at 9:03 AM](https://archive.org/download/wbez-2022/wbez-2022-09-18T09:03:11.393985-05:00.accessibility.json) |
-| [September 17 at 9:29 PM](https://archive.org/download/wbez-2022/wbez-2022-09-17T21:29:18.495075-05:00.accessibility.json) |
-| [September 17 at 11:03 AM](https://archive.org/download/wbez-2022/wbez-2022-09-17T11:03:16.388871-05:00.accessibility.json) |
-| [September 17 at 9:01 AM](https://archive.org/download/wbez-2022/wbez-2022-09-17T09:01:16.347112-05:00.accessibility.json) |
-| [September 16 at 9:27 PM](https://archive.org/download/wbez-2022/wbez-2022-09-16T21:27:30.297491-05:00.accessibility.json) |
-| [September 16 at 11:00 AM](https://archive.org/download/wbez-2022/wbez-2022-09-16T11:00:34.680446-05:00.accessibility.json) |
+| [September 27 at 11:12 AM](https://archive.org/download/wbez-2022/wbez-2022-09-27T11:12:43.495962-05:00.accessibility.json) |
+| [September 27 at 11:09 AM](https://archive.org/download/wbez-2022/wbez-2022-09-27T11:09:40.010818-05:00.accessibility.json) |
+| [September 26 at 11:31 PM](https://archive.org/download/wbez-2022/wbez-2022-09-26T23:31:47.611277-05:00.accessibility.json) |
+| [September 26 at 11:11 AM](https://archive.org/download/wbez-2022/wbez-2022-09-26T11:11:03.529175-05:00.accessibility.json) |
+| [September 26 at 11:08 AM](https://archive.org/download/wbez-2022/wbez-2022-09-26T11:08:36.604537-05:00.accessibility.json) |
+| [September 25 at 11:50 PM](https://archive.org/download/wbez-2022/wbez-2022-09-25T23:50:09.961728-05:00.accessibility.json) |
+| [September 25 at 10:54 AM](https://archive.org/download/wbez-2022/wbez-2022-09-25T10:54:52.858398-05:00.accessibility.json) |
+| [September 25 at 10:48 AM](https://archive.org/download/wbez-2022/wbez-2022-09-25T10:48:22.280764-05:00.accessibility.json) |
+| [September 24 at 11:31 PM](https://archive.org/download/wbez-2022/wbez-2022-09-24T23:31:30.294869-05:00.accessibility.json) |
+| [September 24 at 10:52 AM](https://archive.org/download/wbez-2022/wbez-2022-09-24T10:52:50.352190-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 171 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 195 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 11:06 AM](https://archive.org/download/wbez-2022/wbez-2022-09-19T11:06:21.451560-05:00.lighthouse.json) |
-| [September 19 at 10:02 AM](https://archive.org/download/wbez-2022/wbez-2022-09-19T10:02:16.348420-05:00.lighthouse.json) |
-| [September 18 at 10:43 PM](https://archive.org/download/wbez-2022/wbez-2022-09-18T22:43:44.066858-05:00.lighthouse.json) |
-| [September 18 at 11:01 AM](https://archive.org/download/wbez-2022/wbez-2022-09-18T11:01:07.497436-05:00.lighthouse.json) |
-| [September 18 at 9:03 AM](https://archive.org/download/wbez-2022/wbez-2022-09-18T09:03:11.393985-05:00.lighthouse.json) |
-| [September 17 at 9:29 PM](https://archive.org/download/wbez-2022/wbez-2022-09-17T21:29:18.495075-05:00.lighthouse.json) |
-| [September 17 at 11:03 AM](https://archive.org/download/wbez-2022/wbez-2022-09-17T11:03:16.388871-05:00.lighthouse.json) |
-| [September 17 at 9:01 AM](https://archive.org/download/wbez-2022/wbez-2022-09-17T09:01:16.347112-05:00.lighthouse.json) |
-| [September 16 at 9:27 PM](https://archive.org/download/wbez-2022/wbez-2022-09-16T21:27:30.297491-05:00.lighthouse.json) |
-| [September 16 at 11:00 AM](https://archive.org/download/wbez-2022/wbez-2022-09-16T11:00:34.680446-05:00.lighthouse.json) |
+| [September 27 at 11:12 AM](https://archive.org/download/wbez-2022/wbez-2022-09-27T11:12:43.495962-05:00.lighthouse.json) |
+| [September 27 at 11:09 AM](https://archive.org/download/wbez-2022/wbez-2022-09-27T11:09:40.010818-05:00.lighthouse.json) |
+| [September 26 at 11:31 PM](https://archive.org/download/wbez-2022/wbez-2022-09-26T23:31:47.611277-05:00.lighthouse.json) |
+| [September 26 at 11:11 AM](https://archive.org/download/wbez-2022/wbez-2022-09-26T11:11:03.529175-05:00.lighthouse.json) |
+| [September 26 at 11:08 AM](https://archive.org/download/wbez-2022/wbez-2022-09-26T11:08:36.604537-05:00.lighthouse.json) |
+| [September 25 at 11:50 PM](https://archive.org/download/wbez-2022/wbez-2022-09-25T23:50:09.961728-05:00.lighthouse.json) |
+| [September 25 at 10:55 AM](https://archive.org/download/wbez-2022/wbez-2022-09-25T10:54:52.858398-05:00.lighthouse.json) |
+| [September 25 at 10:48 AM](https://archive.org/download/wbez-2022/wbez-2022-09-25T10:48:22.280764-05:00.lighthouse.json) |
+| [September 24 at 11:31 PM](https://archive.org/download/wbez-2022/wbez-2022-09-24T23:31:30.294869-05:00.lighthouse.json) |
+| [September 24 at 10:52 AM](https://archive.org/download/wbez-2022/wbez-2022-09-24T10:52:50.352190-05:00.lighthouse.json) |
 
 
 

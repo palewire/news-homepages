@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 123 screenshots with the Internet Archive.
+The archiving routine has saved 140 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-19T06:49:01.168316-04:00.jpg">
-  <img src="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-19T06:49:01.168316-04:00.jpg"
-     alt="The Brunswick News at 2022-09-19 06:49:05-04:00 local time"
+ <a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-27T06:57:09.939267-04:00.jpg">
+  <img src="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-27T06:57:09.939267-04:00.jpg"
+     alt="The Brunswick News at 2022-09-27 06:57:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-19T06:49:01.168316-04:00.jpg">September 19 at 6:49 AM</a></p>
+ <p><a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-27T06:57:09.939267-04:00.jpg">September 27 at 6:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-18T18:50:27.001433-04:00.jpg">
-  <img src="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-18T18:50:27.001433-04:00.jpg"
-     alt="The Brunswick News at 2022-09-18 18:50:33-04:00 local time"
+ <a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-26T18:54:38.260913-04:00.jpg">
+  <img src="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-26T18:54:38.260913-04:00.jpg"
+     alt="The Brunswick News at 2022-09-26 18:54:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-18T18:50:27.001433-04:00.jpg">September 18 at 6:50 PM</a></p>
+ <p><a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-26T18:54:38.260913-04:00.jpg">September 26 at 6:54 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-18T06:51:59.642637-04:00.jpg">
-  <img src="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-18T06:51:59.642637-04:00.jpg"
-     alt="The Brunswick News at 2022-09-18 06:52:02-04:00 local time"
+ <a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-26T06:57:47.499328-04:00.jpg">
+  <img src="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-26T06:57:47.499328-04:00.jpg"
+     alt="The Brunswick News at 2022-09-26 06:57:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-18T06:51:59.642637-04:00.jpg">September 18 at 6:52 AM</a></p>
+ <p><a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-26T06:57:47.499328-04:00.jpg">September 26 at 6:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-17T18:53:39.299227-04:00.jpg">
-  <img src="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-17T18:53:39.299227-04:00.jpg"
-     alt="The Brunswick News at 2022-09-17 18:53:57-04:00 local time"
+ <a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-25T18:44:58.623835-04:00.jpg">
+  <img src="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-25T18:44:58.623835-04:00.jpg"
+     alt="The Brunswick News at 2022-09-25 18:45:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-17T18:53:39.299227-04:00.jpg">September 17 at 6:53 PM</a></p>
+ <p><a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-25T18:44:58.623835-04:00.jpg">September 25 at 6:45 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-17T06:50:00.222074-04:00.jpg">
-  <img src="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-17T06:50:00.222074-04:00.jpg"
-     alt="The Brunswick News at 2022-09-17 06:50:20-04:00 local time"
+ <a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-25T06:43:39.717810-04:00.jpg">
+  <img src="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-25T06:43:39.717810-04:00.jpg"
+     alt="The Brunswick News at 2022-09-25 06:43:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-17T06:50:00.222074-04:00.jpg">September 17 at 6:50 AM</a></p>
+ <p><a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-25T06:43:39.717810-04:00.jpg">September 25 at 6:43 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-16T18:52:43.160272-04:00.jpg">
-  <img src="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-16T18:52:43.160272-04:00.jpg"
-     alt="The Brunswick News at 2022-09-16 18:52:48-04:00 local time"
+ <a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-24T18:44:26.122300-04:00.jpg">
+  <img src="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-24T18:44:26.122300-04:00.jpg"
+     alt="The Brunswick News at 2022-09-24 18:44:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-16T18:52:43.160272-04:00.jpg">September 16 at 6:52 PM</a></p>
+ <p><a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-24T18:44:26.122300-04:00.jpg">September 24 at 6:44 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-16T06:53:48.457729-04:00.jpg">
-  <img src="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-16T06:53:48.457729-04:00.jpg"
-     alt="The Brunswick News at 2022-09-16 06:53:57-04:00 local time"
+ <a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-24T06:46:24.666718-04:00.jpg">
+  <img src="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-24T06:46:24.666718-04:00.jpg"
+     alt="The Brunswick News at 2022-09-24 06:46:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-16T06:53:48.457729-04:00.jpg">September 16 at 6:53 AM</a></p>
+ <p><a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-24T06:46:24.666718-04:00.jpg">September 24 at 6:46 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-15T18:56:41.725110-04:00.jpg">
-  <img src="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-15T18:56:41.725110-04:00.jpg"
-     alt="The Brunswick News at 2022-09-15 18:56:50-04:00 local time"
+ <a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-23T19:53:12.931957-04:00.jpg">
+  <img src="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-23T19:53:12.931957-04:00.jpg"
+     alt="The Brunswick News at 2022-09-23 19:53:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-15T18:56:41.725110-04:00.jpg">September 15 at 6:56 PM</a></p>
+ <p><a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-23T19:53:12.931957-04:00.jpg">September 23 at 7:53 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-15T06:55:14.136240-04:00.jpg">
-  <img src="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-15T06:55:14.136240-04:00.jpg"
-     alt="The Brunswick News at 2022-09-15 06:55:18-04:00 local time"
+ <a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-23T06:51:37.393489-04:00.jpg">
+  <img src="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-23T06:51:37.393489-04:00.jpg"
+     alt="The Brunswick News at 2022-09-23 06:51:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-15T06:55:14.136240-04:00.jpg">September 15 at 6:55 AM</a></p>
+ <p><a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-23T06:51:37.393489-04:00.jpg">September 23 at 6:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-14T19:03:23.871277-04:00.jpg">
-  <img src="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-14T19:03:23.871277-04:00.jpg"
-     alt="The Brunswick News at 2022-09-14 19:03:31-04:00 local time"
+ <a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-22T18:53:58.185968-04:00.jpg">
+  <img src="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-22T18:53:58.185968-04:00.jpg"
+     alt="The Brunswick News at 2022-09-22 18:54:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-14T19:03:23.871277-04:00.jpg">September 14 at 7:03 PM</a></p>
+ <p><a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-22T18:53:58.185968-04:00.jpg">September 22 at 6:54 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-14T06:54:46.321054-04:00.jpg">
-  <img src="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-14T06:54:46.321054-04:00.jpg"
-     alt="The Brunswick News at 2022-09-14 06:54:54-04:00 local time"
+ <a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-22T06:54:43.067393-04:00.jpg">
+  <img src="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-22T06:54:43.067393-04:00.jpg"
+     alt="The Brunswick News at 2022-09-22 06:54:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-14T06:54:46.321054-04:00.jpg">September 14 at 6:54 AM</a></p>
+ <p><a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-22T06:54:43.067393-04:00.jpg">September 22 at 6:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-13T18:59:18.365268-04:00.jpg">
-  <img src="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-13T18:59:18.365268-04:00.jpg"
-     alt="The Brunswick News at 2022-09-13 18:59:23-04:00 local time"
+ <a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-21T18:57:59.214383-04:00.jpg">
+  <img src="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-21T18:57:59.214383-04:00.jpg"
+     alt="The Brunswick News at 2022-09-21 18:58:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-13T18:59:18.365268-04:00.jpg">September 13 at 6:59 PM</a></p>
+ <p><a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-21T18:57:59.214383-04:00.jpg">September 21 at 6:58 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 124 hyperlink lists with the Internet Archive.
+The archiving routine has saved 141 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 6:49 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-19T06:49:01.168316-04:00.hyperlinks.json) |
-| [September 18 at 6:50 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-18T18:50:27.001433-04:00.hyperlinks.json) |
-| [September 18 at 6:52 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-18T06:51:59.642637-04:00.hyperlinks.json) |
-| [September 17 at 6:54 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-17T18:53:39.299227-04:00.hyperlinks.json) |
-| [September 17 at 6:50 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-17T06:50:00.222074-04:00.hyperlinks.json) |
-| [September 16 at 6:52 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-16T18:52:43.160272-04:00.hyperlinks.json) |
-| [September 16 at 6:54 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-16T06:53:48.457729-04:00.hyperlinks.json) |
-| [September 15 at 6:56 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-15T18:56:41.725110-04:00.hyperlinks.json) |
-| [September 15 at 6:55 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-15T06:55:14.136240-04:00.hyperlinks.json) |
-| [September 14 at 7:03 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-14T19:03:23.871277-04:00.hyperlinks.json) |
+| [September 27 at 6:57 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-27T06:57:09.939267-04:00.hyperlinks.json) |
+| [September 26 at 6:54 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-26T18:54:38.260913-04:00.hyperlinks.json) |
+| [September 26 at 6:57 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-26T06:57:47.499328-04:00.hyperlinks.json) |
+| [September 25 at 6:45 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-25T18:44:58.623835-04:00.hyperlinks.json) |
+| [September 25 at 6:44 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-25T06:43:39.717810-04:00.hyperlinks.json) |
+| [September 24 at 6:44 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-24T18:44:26.122300-04:00.hyperlinks.json) |
+| [September 24 at 6:46 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-24T06:46:24.666718-04:00.hyperlinks.json) |
+| [September 23 at 7:53 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-23T19:53:12.931957-04:00.hyperlinks.json) |
+| [September 23 at 6:51 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-23T06:51:37.393489-04:00.hyperlinks.json) |
+| [September 22 at 6:54 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-22T18:53:58.185968-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 123 accessibility trees with the Internet Archive.
+The archiving routine has saved 140 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 6:49 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-19T06:49:01.168316-04:00.accessibility.json) |
-| [September 18 at 6:50 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-18T18:50:27.001433-04:00.accessibility.json) |
-| [September 18 at 6:52 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-18T06:51:59.642637-04:00.accessibility.json) |
-| [September 17 at 6:53 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-17T18:53:39.299227-04:00.accessibility.json) |
-| [September 17 at 6:50 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-17T06:50:00.222074-04:00.accessibility.json) |
-| [September 16 at 6:52 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-16T18:52:43.160272-04:00.accessibility.json) |
-| [September 16 at 6:53 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-16T06:53:48.457729-04:00.accessibility.json) |
-| [September 15 at 6:56 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-15T18:56:41.725110-04:00.accessibility.json) |
-| [September 15 at 6:55 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-15T06:55:14.136240-04:00.accessibility.json) |
-| [September 14 at 7:03 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-14T19:03:23.871277-04:00.accessibility.json) |
+| [September 27 at 6:57 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-27T06:57:09.939267-04:00.accessibility.json) |
+| [September 26 at 6:54 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-26T18:54:38.260913-04:00.accessibility.json) |
+| [September 26 at 6:57 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-26T06:57:47.499328-04:00.accessibility.json) |
+| [September 25 at 6:45 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-25T18:44:58.623835-04:00.accessibility.json) |
+| [September 25 at 6:43 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-25T06:43:39.717810-04:00.accessibility.json) |
+| [September 24 at 6:44 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-24T18:44:26.122300-04:00.accessibility.json) |
+| [September 24 at 6:46 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-24T06:46:24.666718-04:00.accessibility.json) |
+| [September 23 at 7:53 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-23T19:53:12.931957-04:00.accessibility.json) |
+| [September 23 at 6:51 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-23T06:51:37.393489-04:00.accessibility.json) |
+| [September 22 at 6:54 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-22T18:53:58.185968-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 117 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 6:49 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-19T06:49:01.168316-04:00.lighthouse.json) |
-| [September 18 at 6:50 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-18T18:50:27.001433-04:00.lighthouse.json) |
-| [September 18 at 6:52 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-18T06:51:59.642637-04:00.lighthouse.json) |
-| [September 17 at 6:54 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-17T18:53:39.299227-04:00.lighthouse.json) |
-| [September 17 at 6:50 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-17T06:50:00.222074-04:00.lighthouse.json) |
-| [September 16 at 6:52 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-16T18:52:43.160272-04:00.lighthouse.json) |
-| [September 16 at 6:54 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-16T06:53:48.457729-04:00.lighthouse.json) |
-| [September 15 at 6:56 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-15T18:56:41.725110-04:00.lighthouse.json) |
-| [September 15 at 6:55 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-15T06:55:14.136240-04:00.lighthouse.json) |
-| [September 14 at 7:03 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-14T19:03:23.871277-04:00.lighthouse.json) |
+| [September 27 at 6:57 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-27T06:57:09.939267-04:00.lighthouse.json) |
+| [September 26 at 6:54 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-26T18:54:38.260913-04:00.lighthouse.json) |
+| [September 26 at 6:57 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-26T06:57:47.499328-04:00.lighthouse.json) |
+| [September 25 at 6:45 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-25T18:44:58.623835-04:00.lighthouse.json) |
+| [September 25 at 6:44 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-25T06:43:39.717810-04:00.lighthouse.json) |
+| [September 24 at 6:44 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-24T18:44:26.122300-04:00.lighthouse.json) |
+| [September 24 at 6:46 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-24T06:46:24.666718-04:00.lighthouse.json) |
+| [September 23 at 7:53 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-23T19:53:12.931957-04:00.lighthouse.json) |
+| [September 23 at 6:51 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-23T06:51:37.393489-04:00.lighthouse.json) |
+| [September 22 at 6:54 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-09-22T18:53:58.185968-04:00.lighthouse.json) |
 
 
 

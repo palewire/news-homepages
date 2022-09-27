@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 75 screenshots with the Internet Archive.
+The archiving routine has saved 92 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/denverite-2022/denverite-2022-09-19T05:53:35.829401-06:00.jpg">
-  <img src="https://archive.org/download/denverite-2022/denverite-2022-09-19T05:53:35.829401-06:00.jpg"
-     alt="Denverite at 2022-09-19 05:53:39-06:00 local time"
+ <a href="https://archive.org/download/denverite-2022/denverite-2022-09-27T05:53:43.976553-06:00.jpg">
+  <img src="https://archive.org/download/denverite-2022/denverite-2022-09-27T05:53:43.976553-06:00.jpg"
+     alt="Denverite at 2022-09-27 05:53:48-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/denverite-2022/denverite-2022-09-19T05:53:35.829401-06:00.jpg">September 19 at 5:53 AM</a></p>
+ <p><a href="https://archive.org/download/denverite-2022/denverite-2022-09-27T05:53:43.976553-06:00.jpg">September 27 at 5:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/denverite-2022/denverite-2022-09-18T17:44:43.642366-06:00.jpg">
-  <img src="https://archive.org/download/denverite-2022/denverite-2022-09-18T17:44:43.642366-06:00.jpg"
-     alt="Denverite at 2022-09-18 17:44:45-06:00 local time"
+ <a href="https://archive.org/download/denverite-2022/denverite-2022-09-26T17:48:11.595203-06:00.jpg">
+  <img src="https://archive.org/download/denverite-2022/denverite-2022-09-26T17:48:11.595203-06:00.jpg"
+     alt="Denverite at 2022-09-26 17:48:13-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/denverite-2022/denverite-2022-09-18T17:44:43.642366-06:00.jpg">September 18 at 5:44 PM</a></p>
+ <p><a href="https://archive.org/download/denverite-2022/denverite-2022-09-26T17:48:11.595203-06:00.jpg">September 26 at 5:48 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/denverite-2022/denverite-2022-09-18T05:54:07.943171-06:00.jpg">
-  <img src="https://archive.org/download/denverite-2022/denverite-2022-09-18T05:54:07.943171-06:00.jpg"
-     alt="Denverite at 2022-09-18 05:54:09-06:00 local time"
+ <a href="https://archive.org/download/denverite-2022/denverite-2022-09-26T06:01:00.242299-06:00.jpg">
+  <img src="https://archive.org/download/denverite-2022/denverite-2022-09-26T06:01:00.242299-06:00.jpg"
+     alt="Denverite at 2022-09-26 06:01:05-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/denverite-2022/denverite-2022-09-18T05:54:07.943171-06:00.jpg">September 18 at 5:54 AM</a></p>
+ <p><a href="https://archive.org/download/denverite-2022/denverite-2022-09-26T06:01:00.242299-06:00.jpg">September 26 at 6:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/denverite-2022/denverite-2022-09-17T17:48:09.320245-06:00.jpg">
-  <img src="https://archive.org/download/denverite-2022/denverite-2022-09-17T17:48:09.320245-06:00.jpg"
-     alt="Denverite at 2022-09-17 17:48:13-06:00 local time"
+ <a href="https://archive.org/download/denverite-2022/denverite-2022-09-25T17:40:47.882322-06:00.jpg">
+  <img src="https://archive.org/download/denverite-2022/denverite-2022-09-25T17:40:47.882322-06:00.jpg"
+     alt="Denverite at 2022-09-25 17:40:52-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/denverite-2022/denverite-2022-09-17T17:48:09.320245-06:00.jpg">September 17 at 5:48 PM</a></p>
+ <p><a href="https://archive.org/download/denverite-2022/denverite-2022-09-25T17:40:47.882322-06:00.jpg">September 25 at 5:40 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/denverite-2022/denverite-2022-09-17T05:54:33.387614-06:00.jpg">
-  <img src="https://archive.org/download/denverite-2022/denverite-2022-09-17T05:54:33.387614-06:00.jpg"
-     alt="Denverite at 2022-09-17 05:54:35-06:00 local time"
+ <a href="https://archive.org/download/denverite-2022/denverite-2022-09-25T05:47:00.352362-06:00.jpg">
+  <img src="https://archive.org/download/denverite-2022/denverite-2022-09-25T05:47:00.352362-06:00.jpg"
+     alt="Denverite at 2022-09-25 05:47:01-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/denverite-2022/denverite-2022-09-17T05:54:33.387614-06:00.jpg">September 17 at 5:54 AM</a></p>
+ <p><a href="https://archive.org/download/denverite-2022/denverite-2022-09-25T05:47:00.352362-06:00.jpg">September 25 at 5:47 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/denverite-2022/denverite-2022-09-16T17:48:45.045216-06:00.jpg">
-  <img src="https://archive.org/download/denverite-2022/denverite-2022-09-16T17:48:45.045216-06:00.jpg"
-     alt="Denverite at 2022-09-16 17:48:46-06:00 local time"
+ <a href="https://archive.org/download/denverite-2022/denverite-2022-09-24T17:39:27.197847-06:00.jpg">
+  <img src="https://archive.org/download/denverite-2022/denverite-2022-09-24T17:39:27.197847-06:00.jpg"
+     alt="Denverite at 2022-09-24 17:39:30-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/denverite-2022/denverite-2022-09-16T17:48:45.045216-06:00.jpg">September 16 at 5:48 PM</a></p>
+ <p><a href="https://archive.org/download/denverite-2022/denverite-2022-09-24T17:39:27.197847-06:00.jpg">September 24 at 5:39 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/denverite-2022/denverite-2022-09-16T05:56:19.122662-06:00.jpg">
-  <img src="https://archive.org/download/denverite-2022/denverite-2022-09-16T05:56:19.122662-06:00.jpg"
-     alt="Denverite at 2022-09-16 05:56:20-06:00 local time"
+ <a href="https://archive.org/download/denverite-2022/denverite-2022-09-24T05:47:43.834965-06:00.jpg">
+  <img src="https://archive.org/download/denverite-2022/denverite-2022-09-24T05:47:43.834965-06:00.jpg"
+     alt="Denverite at 2022-09-24 05:47:45-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/denverite-2022/denverite-2022-09-16T05:56:19.122662-06:00.jpg">September 16 at 5:56 AM</a></p>
+ <p><a href="https://archive.org/download/denverite-2022/denverite-2022-09-24T05:47:43.834965-06:00.jpg">September 24 at 5:47 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/denverite-2022/denverite-2022-09-15T17:48:23.597992-06:00.jpg">
-  <img src="https://archive.org/download/denverite-2022/denverite-2022-09-15T17:48:23.597992-06:00.jpg"
-     alt="Denverite at 2022-09-15 17:48:24-06:00 local time"
+ <a href="https://archive.org/download/denverite-2022/denverite-2022-09-23T17:43:53.820630-06:00.jpg">
+  <img src="https://archive.org/download/denverite-2022/denverite-2022-09-23T17:43:53.820630-06:00.jpg"
+     alt="Denverite at 2022-09-23 17:43:57-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/denverite-2022/denverite-2022-09-15T17:48:23.597992-06:00.jpg">September 15 at 5:48 PM</a></p>
+ <p><a href="https://archive.org/download/denverite-2022/denverite-2022-09-23T17:43:53.820630-06:00.jpg">September 23 at 5:43 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/denverite-2022/denverite-2022-09-15T05:57:03.385584-06:00.jpg">
-  <img src="https://archive.org/download/denverite-2022/denverite-2022-09-15T05:57:03.385584-06:00.jpg"
-     alt="Denverite at 2022-09-15 05:57:06-06:00 local time"
+ <a href="https://archive.org/download/denverite-2022/denverite-2022-09-23T05:53:22.504656-06:00.jpg">
+  <img src="https://archive.org/download/denverite-2022/denverite-2022-09-23T05:53:22.504656-06:00.jpg"
+     alt="Denverite at 2022-09-23 05:53:28-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/denverite-2022/denverite-2022-09-15T05:57:03.385584-06:00.jpg">September 15 at 5:57 AM</a></p>
+ <p><a href="https://archive.org/download/denverite-2022/denverite-2022-09-23T05:53:22.504656-06:00.jpg">September 23 at 5:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/denverite-2022/denverite-2022-09-14T17:55:54.921020-06:00.jpg">
-  <img src="https://archive.org/download/denverite-2022/denverite-2022-09-14T17:55:54.921020-06:00.jpg"
-     alt="Denverite at 2022-09-14 17:55:58-06:00 local time"
+ <a href="https://archive.org/download/denverite-2022/denverite-2022-09-22T17:44:59.582114-06:00.jpg">
+  <img src="https://archive.org/download/denverite-2022/denverite-2022-09-22T17:44:59.582114-06:00.jpg"
+     alt="Denverite at 2022-09-22 17:45:13-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/denverite-2022/denverite-2022-09-14T17:55:54.921020-06:00.jpg">September 14 at 5:55 PM</a></p>
+ <p><a href="https://archive.org/download/denverite-2022/denverite-2022-09-22T17:44:59.582114-06:00.jpg">September 22 at 5:45 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/denverite-2022/denverite-2022-09-14T05:58:49.671502-06:00.jpg">
-  <img src="https://archive.org/download/denverite-2022/denverite-2022-09-14T05:58:49.671502-06:00.jpg"
-     alt="Denverite at 2022-09-14 05:58:51-06:00 local time"
+ <a href="https://archive.org/download/denverite-2022/denverite-2022-09-22T05:56:13.206093-06:00.jpg">
+  <img src="https://archive.org/download/denverite-2022/denverite-2022-09-22T05:56:13.206093-06:00.jpg"
+     alt="Denverite at 2022-09-22 05:56:26-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/denverite-2022/denverite-2022-09-14T05:58:49.671502-06:00.jpg">September 14 at 5:58 AM</a></p>
+ <p><a href="https://archive.org/download/denverite-2022/denverite-2022-09-22T05:56:13.206093-06:00.jpg">September 22 at 5:56 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/denverite-2022/denverite-2022-09-13T17:52:40.048363-06:00.jpg">
-  <img src="https://archive.org/download/denverite-2022/denverite-2022-09-13T17:52:40.048363-06:00.jpg"
-     alt="Denverite at 2022-09-13 17:52:43-06:00 local time"
+ <a href="https://archive.org/download/denverite-2022/denverite-2022-09-21T17:41:14.959163-06:00.jpg">
+  <img src="https://archive.org/download/denverite-2022/denverite-2022-09-21T17:41:14.959163-06:00.jpg"
+     alt="Denverite at 2022-09-21 17:41:18-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/denverite-2022/denverite-2022-09-13T17:52:40.048363-06:00.jpg">September 13 at 5:52 PM</a></p>
+ <p><a href="https://archive.org/download/denverite-2022/denverite-2022-09-21T17:41:14.959163-06:00.jpg">September 21 at 5:41 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 75 hyperlink lists with the Internet Archive.
+The archiving routine has saved 92 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 5:53 AM](https://archive.org/download/denverite-2022/denverite-2022-09-19T05:53:35.829401-06:00.hyperlinks.json) |
-| [September 18 at 5:44 PM](https://archive.org/download/denverite-2022/denverite-2022-09-18T17:44:43.642366-06:00.hyperlinks.json) |
-| [September 18 at 5:54 AM](https://archive.org/download/denverite-2022/denverite-2022-09-18T05:54:07.943171-06:00.hyperlinks.json) |
-| [September 17 at 5:48 PM](https://archive.org/download/denverite-2022/denverite-2022-09-17T17:48:09.320245-06:00.hyperlinks.json) |
-| [September 17 at 5:54 AM](https://archive.org/download/denverite-2022/denverite-2022-09-17T05:54:33.387614-06:00.hyperlinks.json) |
-| [September 16 at 5:48 PM](https://archive.org/download/denverite-2022/denverite-2022-09-16T17:48:45.045216-06:00.hyperlinks.json) |
-| [September 16 at 5:56 AM](https://archive.org/download/denverite-2022/denverite-2022-09-16T05:56:19.122662-06:00.hyperlinks.json) |
-| [September 15 at 5:48 PM](https://archive.org/download/denverite-2022/denverite-2022-09-15T17:48:23.597992-06:00.hyperlinks.json) |
-| [September 15 at 5:57 AM](https://archive.org/download/denverite-2022/denverite-2022-09-15T05:57:03.385584-06:00.hyperlinks.json) |
-| [September 14 at 5:56 PM](https://archive.org/download/denverite-2022/denverite-2022-09-14T17:55:54.921020-06:00.hyperlinks.json) |
+| [September 27 at 5:53 AM](https://archive.org/download/denverite-2022/denverite-2022-09-27T05:53:43.976553-06:00.hyperlinks.json) |
+| [September 26 at 5:48 PM](https://archive.org/download/denverite-2022/denverite-2022-09-26T17:48:11.595203-06:00.hyperlinks.json) |
+| [September 26 at 6:01 AM](https://archive.org/download/denverite-2022/denverite-2022-09-26T06:01:00.242299-06:00.hyperlinks.json) |
+| [September 25 at 5:40 PM](https://archive.org/download/denverite-2022/denverite-2022-09-25T17:40:47.882322-06:00.hyperlinks.json) |
+| [September 25 at 5:47 AM](https://archive.org/download/denverite-2022/denverite-2022-09-25T05:47:00.352362-06:00.hyperlinks.json) |
+| [September 24 at 5:39 PM](https://archive.org/download/denverite-2022/denverite-2022-09-24T17:39:27.197847-06:00.hyperlinks.json) |
+| [September 24 at 5:47 AM](https://archive.org/download/denverite-2022/denverite-2022-09-24T05:47:43.834965-06:00.hyperlinks.json) |
+| [September 23 at 5:44 PM](https://archive.org/download/denverite-2022/denverite-2022-09-23T17:43:53.820630-06:00.hyperlinks.json) |
+| [September 23 at 5:53 AM](https://archive.org/download/denverite-2022/denverite-2022-09-23T05:53:22.504656-06:00.hyperlinks.json) |
+| [September 22 at 5:45 PM](https://archive.org/download/denverite-2022/denverite-2022-09-22T17:44:59.582114-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 75 accessibility trees with the Internet Archive.
+The archiving routine has saved 92 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 5:53 AM](https://archive.org/download/denverite-2022/denverite-2022-09-19T05:53:35.829401-06:00.accessibility.json) |
-| [September 18 at 5:44 PM](https://archive.org/download/denverite-2022/denverite-2022-09-18T17:44:43.642366-06:00.accessibility.json) |
-| [September 18 at 5:54 AM](https://archive.org/download/denverite-2022/denverite-2022-09-18T05:54:07.943171-06:00.accessibility.json) |
-| [September 17 at 5:48 PM](https://archive.org/download/denverite-2022/denverite-2022-09-17T17:48:09.320245-06:00.accessibility.json) |
-| [September 17 at 5:54 AM](https://archive.org/download/denverite-2022/denverite-2022-09-17T05:54:33.387614-06:00.accessibility.json) |
-| [September 16 at 5:48 PM](https://archive.org/download/denverite-2022/denverite-2022-09-16T17:48:45.045216-06:00.accessibility.json) |
-| [September 16 at 5:56 AM](https://archive.org/download/denverite-2022/denverite-2022-09-16T05:56:19.122662-06:00.accessibility.json) |
-| [September 15 at 5:48 PM](https://archive.org/download/denverite-2022/denverite-2022-09-15T17:48:23.597992-06:00.accessibility.json) |
-| [September 15 at 5:57 AM](https://archive.org/download/denverite-2022/denverite-2022-09-15T05:57:03.385584-06:00.accessibility.json) |
-| [September 14 at 5:56 PM](https://archive.org/download/denverite-2022/denverite-2022-09-14T17:55:54.921020-06:00.accessibility.json) |
+| [September 27 at 5:53 AM](https://archive.org/download/denverite-2022/denverite-2022-09-27T05:53:43.976553-06:00.accessibility.json) |
+| [September 26 at 5:48 PM](https://archive.org/download/denverite-2022/denverite-2022-09-26T17:48:11.595203-06:00.accessibility.json) |
+| [September 26 at 6:01 AM](https://archive.org/download/denverite-2022/denverite-2022-09-26T06:01:00.242299-06:00.accessibility.json) |
+| [September 25 at 5:40 PM](https://archive.org/download/denverite-2022/denverite-2022-09-25T17:40:47.882322-06:00.accessibility.json) |
+| [September 25 at 5:47 AM](https://archive.org/download/denverite-2022/denverite-2022-09-25T05:47:00.352362-06:00.accessibility.json) |
+| [September 24 at 5:39 PM](https://archive.org/download/denverite-2022/denverite-2022-09-24T17:39:27.197847-06:00.accessibility.json) |
+| [September 24 at 5:47 AM](https://archive.org/download/denverite-2022/denverite-2022-09-24T05:47:43.834965-06:00.accessibility.json) |
+| [September 23 at 5:43 PM](https://archive.org/download/denverite-2022/denverite-2022-09-23T17:43:53.820630-06:00.accessibility.json) |
+| [September 23 at 5:53 AM](https://archive.org/download/denverite-2022/denverite-2022-09-23T05:53:22.504656-06:00.accessibility.json) |
+| [September 22 at 5:45 PM](https://archive.org/download/denverite-2022/denverite-2022-09-22T17:44:59.582114-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 75 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 92 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 5:53 AM](https://archive.org/download/denverite-2022/denverite-2022-09-19T05:53:35.829401-06:00.lighthouse.json) |
-| [September 18 at 5:44 PM](https://archive.org/download/denverite-2022/denverite-2022-09-18T17:44:43.642366-06:00.lighthouse.json) |
-| [September 18 at 5:54 AM](https://archive.org/download/denverite-2022/denverite-2022-09-18T05:54:07.943171-06:00.lighthouse.json) |
-| [September 17 at 5:48 PM](https://archive.org/download/denverite-2022/denverite-2022-09-17T17:48:09.320245-06:00.lighthouse.json) |
-| [September 17 at 5:54 AM](https://archive.org/download/denverite-2022/denverite-2022-09-17T05:54:33.387614-06:00.lighthouse.json) |
-| [September 16 at 5:48 PM](https://archive.org/download/denverite-2022/denverite-2022-09-16T17:48:45.045216-06:00.lighthouse.json) |
-| [September 16 at 5:56 AM](https://archive.org/download/denverite-2022/denverite-2022-09-16T05:56:19.122662-06:00.lighthouse.json) |
-| [September 15 at 5:48 PM](https://archive.org/download/denverite-2022/denverite-2022-09-15T17:48:23.597992-06:00.lighthouse.json) |
-| [September 15 at 5:57 AM](https://archive.org/download/denverite-2022/denverite-2022-09-15T05:57:03.385584-06:00.lighthouse.json) |
-| [September 14 at 5:56 PM](https://archive.org/download/denverite-2022/denverite-2022-09-14T17:55:54.921020-06:00.lighthouse.json) |
+| [September 27 at 5:53 AM](https://archive.org/download/denverite-2022/denverite-2022-09-27T05:53:43.976553-06:00.lighthouse.json) |
+| [September 26 at 5:48 PM](https://archive.org/download/denverite-2022/denverite-2022-09-26T17:48:11.595203-06:00.lighthouse.json) |
+| [September 26 at 6:01 AM](https://archive.org/download/denverite-2022/denverite-2022-09-26T06:01:00.242299-06:00.lighthouse.json) |
+| [September 25 at 5:40 PM](https://archive.org/download/denverite-2022/denverite-2022-09-25T17:40:47.882322-06:00.lighthouse.json) |
+| [September 25 at 5:47 AM](https://archive.org/download/denverite-2022/denverite-2022-09-25T05:47:00.352362-06:00.lighthouse.json) |
+| [September 24 at 5:39 PM](https://archive.org/download/denverite-2022/denverite-2022-09-24T17:39:27.197847-06:00.lighthouse.json) |
+| [September 24 at 5:47 AM](https://archive.org/download/denverite-2022/denverite-2022-09-24T05:47:43.834965-06:00.lighthouse.json) |
+| [September 23 at 5:44 PM](https://archive.org/download/denverite-2022/denverite-2022-09-23T17:43:53.820630-06:00.lighthouse.json) |
+| [September 23 at 5:53 AM](https://archive.org/download/denverite-2022/denverite-2022-09-23T05:53:22.504656-06:00.lighthouse.json) |
+| [September 22 at 5:45 PM](https://archive.org/download/denverite-2022/denverite-2022-09-22T17:44:59.582114-06:00.lighthouse.json) |
 
 
 

@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 130 screenshots with the Internet Archive.
+The archiving routine has saved 154 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/em_com-2022/em_com-2022-09-19T13:01:12.424970-03:00.jpg">
-  <img src="https://archive.org/download/em_com-2022/em_com-2022-09-19T13:01:12.424970-03:00.jpg"
-     alt="Estado de Minas at 2022-09-19 13:01:14-03:00 local time"
+ <a href="https://archive.org/download/em_com-2022/em_com-2022-09-27T08:57:36.159042-03:00.jpg">
+  <img src="https://archive.org/download/em_com-2022/em_com-2022-09-27T08:57:36.159042-03:00.jpg"
+     alt="Estado de Minas at 2022-09-27 08:57:54-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/em_com-2022/em_com-2022-09-19T13:01:12.424970-03:00.jpg">September 19 at 1:01 PM</a></p>
+ <p><a href="https://archive.org/download/em_com-2022/em_com-2022-09-27T08:57:36.159042-03:00.jpg">September 27 at 8:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/em_com-2022/em_com-2022-09-19T09:01:14.248015-03:00.jpg">
-  <img src="https://archive.org/download/em_com-2022/em_com-2022-09-19T09:01:14.248015-03:00.jpg"
-     alt="Estado de Minas at 2022-09-19 09:01:21-03:00 local time"
+ <a href="https://archive.org/download/em_com-2022/em_com-2022-09-27T03:59:52.035544-03:00.jpg">
+  <img src="https://archive.org/download/em_com-2022/em_com-2022-09-27T03:59:52.035544-03:00.jpg"
+     alt="Estado de Minas at 2022-09-27 03:59:53-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/em_com-2022/em_com-2022-09-19T09:01:14.248015-03:00.jpg">September 19 at 9:01 AM</a></p>
+ <p><a href="https://archive.org/download/em_com-2022/em_com-2022-09-27T03:59:52.035544-03:00.jpg">September 27 at 3:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/em_com-2022/em_com-2022-09-19T01:41:33.041371-03:00.jpg">
-  <img src="https://archive.org/download/em_com-2022/em_com-2022-09-19T01:41:33.041371-03:00.jpg"
-     alt="Estado de Minas at 2022-09-19 01:41:34-03:00 local time"
+ <a href="https://archive.org/download/em_com-2022/em_com-2022-09-26T14:47:40.390570-03:00.jpg">
+  <img src="https://archive.org/download/em_com-2022/em_com-2022-09-26T14:47:40.390570-03:00.jpg"
+     alt="Estado de Minas at 2022-09-26 14:47:51-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/em_com-2022/em_com-2022-09-19T01:41:33.041371-03:00.jpg">September 19 at 1:41 AM</a></p>
+ <p><a href="https://archive.org/download/em_com-2022/em_com-2022-09-26T14:47:40.390570-03:00.jpg">September 26 at 2:47 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/em_com-2022/em_com-2022-09-18T09:01:31.713959-03:00.jpg">
-  <img src="https://archive.org/download/em_com-2022/em_com-2022-09-18T09:01:31.713959-03:00.jpg"
-     alt="Estado de Minas at 2022-09-18 09:01:42-03:00 local time"
+ <a href="https://archive.org/download/em_com-2022/em_com-2022-09-26T09:05:10.190723-03:00.jpg">
+  <img src="https://archive.org/download/em_com-2022/em_com-2022-09-26T09:05:10.190723-03:00.jpg"
+     alt="Estado de Minas at 2022-09-26 09:05:17-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/em_com-2022/em_com-2022-09-18T09:01:31.713959-03:00.jpg">September 18 at 9:01 AM</a></p>
+ <p><a href="https://archive.org/download/em_com-2022/em_com-2022-09-26T09:05:10.190723-03:00.jpg">September 26 at 9:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/em_com-2022/em_com-2022-09-18T00:49:54.015591-03:00.jpg">
-  <img src="https://archive.org/download/em_com-2022/em_com-2022-09-18T00:49:54.015591-03:00.jpg"
-     alt="Estado de Minas at 2022-09-18 00:49:55-03:00 local time"
+ <a href="https://archive.org/download/em_com-2022/em_com-2022-09-26T03:19:05.112515-03:00.jpg">
+  <img src="https://archive.org/download/em_com-2022/em_com-2022-09-26T03:19:05.112515-03:00.jpg"
+     alt="Estado de Minas at 2022-09-26 03:19:13-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/em_com-2022/em_com-2022-09-18T00:49:54.015591-03:00.jpg">September 18 at 12:49 AM</a></p>
+ <p><a href="https://archive.org/download/em_com-2022/em_com-2022-09-26T03:19:05.112515-03:00.jpg">September 26 at 3:19 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/em_com-2022/em_com-2022-09-17T11:52:31.747224-03:00.jpg">
-  <img src="https://archive.org/download/em_com-2022/em_com-2022-09-17T11:52:31.747224-03:00.jpg"
-     alt="Estado de Minas at 2022-09-17 11:52:33-03:00 local time"
+ <a href="https://archive.org/download/em_com-2022/em_com-2022-09-25T14:26:55.187090-03:00.jpg">
+  <img src="https://archive.org/download/em_com-2022/em_com-2022-09-25T14:26:55.187090-03:00.jpg"
+     alt="Estado de Minas at 2022-09-25 14:27:04-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/em_com-2022/em_com-2022-09-17T11:52:31.747224-03:00.jpg">September 17 at 11:52 AM</a></p>
+ <p><a href="https://archive.org/download/em_com-2022/em_com-2022-09-25T14:26:55.187090-03:00.jpg">September 25 at 2:27 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/em_com-2022/em_com-2022-09-17T09:03:14.575050-03:00.jpg">
-  <img src="https://archive.org/download/em_com-2022/em_com-2022-09-17T09:03:14.575050-03:00.jpg"
-     alt="Estado de Minas at 2022-09-17 09:03:34-03:00 local time"
+ <a href="https://archive.org/download/em_com-2022/em_com-2022-09-25T08:49:32.850713-03:00.jpg">
+  <img src="https://archive.org/download/em_com-2022/em_com-2022-09-25T08:49:32.850713-03:00.jpg"
+     alt="Estado de Minas at 2022-09-25 08:49:38-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/em_com-2022/em_com-2022-09-17T09:03:14.575050-03:00.jpg">September 17 at 9:03 AM</a></p>
+ <p><a href="https://archive.org/download/em_com-2022/em_com-2022-09-25T08:49:32.850713-03:00.jpg">September 25 at 8:49 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/em_com-2022/em_com-2022-09-17T00:43:42.956503-03:00.jpg">
-  <img src="https://archive.org/download/em_com-2022/em_com-2022-09-17T00:43:42.956503-03:00.jpg"
-     alt="Estado de Minas at 2022-09-17 00:43:44-03:00 local time"
+ <a href="https://archive.org/download/em_com-2022/em_com-2022-09-25T02:53:06.290989-03:00.jpg">
+  <img src="https://archive.org/download/em_com-2022/em_com-2022-09-25T02:53:06.290989-03:00.jpg"
+     alt="Estado de Minas at 2022-09-25 02:53:15-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/em_com-2022/em_com-2022-09-17T00:43:42.956503-03:00.jpg">September 17 at 12:43 AM</a></p>
+ <p><a href="https://archive.org/download/em_com-2022/em_com-2022-09-25T02:53:06.290989-03:00.jpg">September 25 at 2:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/em_com-2022/em_com-2022-09-16T12:02:29.623160-03:00.jpg">
-  <img src="https://archive.org/download/em_com-2022/em_com-2022-09-16T12:02:29.623160-03:00.jpg"
-     alt="Estado de Minas at 2022-09-16 12:02:30-03:00 local time"
+ <a href="https://archive.org/download/em_com-2022/em_com-2022-09-24T14:27:17.393183-03:00.jpg">
+  <img src="https://archive.org/download/em_com-2022/em_com-2022-09-24T14:27:17.393183-03:00.jpg"
+     alt="Estado de Minas at 2022-09-24 14:27:18-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/em_com-2022/em_com-2022-09-16T12:02:29.623160-03:00.jpg">September 16 at 12:02 PM</a></p>
+ <p><a href="https://archive.org/download/em_com-2022/em_com-2022-09-24T14:27:17.393183-03:00.jpg">September 24 at 2:27 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/em_com-2022/em_com-2022-09-16T09:02:02.766658-03:00.jpg">
-  <img src="https://archive.org/download/em_com-2022/em_com-2022-09-16T09:02:02.766658-03:00.jpg"
-     alt="Estado de Minas at 2022-09-16 09:02:11-03:00 local time"
+ <a href="https://archive.org/download/em_com-2022/em_com-2022-09-24T08:51:19.555561-03:00.jpg">
+  <img src="https://archive.org/download/em_com-2022/em_com-2022-09-24T08:51:19.555561-03:00.jpg"
+     alt="Estado de Minas at 2022-09-24 08:51:21-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/em_com-2022/em_com-2022-09-16T09:02:02.766658-03:00.jpg">September 16 at 9:02 AM</a></p>
+ <p><a href="https://archive.org/download/em_com-2022/em_com-2022-09-24T08:51:19.555561-03:00.jpg">September 24 at 8:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/em_com-2022/em_com-2022-09-16T00:50:43.095693-03:00.jpg">
-  <img src="https://archive.org/download/em_com-2022/em_com-2022-09-16T00:50:43.095693-03:00.jpg"
-     alt="Estado de Minas at 2022-09-16 00:50:53-03:00 local time"
+ <a href="https://archive.org/download/em_com-2022/em_com-2022-09-24T02:52:28.781651-03:00.jpg">
+  <img src="https://archive.org/download/em_com-2022/em_com-2022-09-24T02:52:28.781651-03:00.jpg"
+     alt="Estado de Minas at 2022-09-24 02:52:30-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/em_com-2022/em_com-2022-09-16T00:50:43.095693-03:00.jpg">September 16 at 12:50 AM</a></p>
+ <p><a href="https://archive.org/download/em_com-2022/em_com-2022-09-24T02:52:28.781651-03:00.jpg">September 24 at 2:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/em_com-2022/em_com-2022-09-15T13:12:53.230737-03:00.jpg">
-  <img src="https://archive.org/download/em_com-2022/em_com-2022-09-15T13:12:53.230737-03:00.jpg"
-     alt="Estado de Minas at 2022-09-15 13:13:03-03:00 local time"
+ <a href="https://archive.org/download/em_com-2022/em_com-2022-09-23T14:41:48.246396-03:00.jpg">
+  <img src="https://archive.org/download/em_com-2022/em_com-2022-09-23T14:41:48.246396-03:00.jpg"
+     alt="Estado de Minas at 2022-09-23 14:41:49-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/em_com-2022/em_com-2022-09-15T13:12:53.230737-03:00.jpg">September 15 at 1:13 PM</a></p>
+ <p><a href="https://archive.org/download/em_com-2022/em_com-2022-09-23T14:41:48.246396-03:00.jpg">September 23 at 2:41 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 126 hyperlink lists with the Internet Archive.
+The archiving routine has saved 150 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 1:01 PM](https://archive.org/download/em_com-2022/em_com-2022-09-19T13:01:12.424970-03:00.hyperlinks.json) |
-| [September 19 at 9:01 AM](https://archive.org/download/em_com-2022/em_com-2022-09-19T09:01:14.248015-03:00.hyperlinks.json) |
-| [September 19 at 1:41 AM](https://archive.org/download/em_com-2022/em_com-2022-09-19T01:41:33.041371-03:00.hyperlinks.json) |
-| [September 18 at 9:01 AM](https://archive.org/download/em_com-2022/em_com-2022-09-18T09:01:31.713959-03:00.hyperlinks.json) |
-| [September 18 at 12:49 AM](https://archive.org/download/em_com-2022/em_com-2022-09-18T00:49:54.015591-03:00.hyperlinks.json) |
-| [September 17 at 11:52 AM](https://archive.org/download/em_com-2022/em_com-2022-09-17T11:52:31.747224-03:00.hyperlinks.json) |
-| [September 17 at 9:03 AM](https://archive.org/download/em_com-2022/em_com-2022-09-17T09:03:14.575050-03:00.hyperlinks.json) |
-| [September 17 at 12:43 AM](https://archive.org/download/em_com-2022/em_com-2022-09-17T00:43:42.956503-03:00.hyperlinks.json) |
-| [September 16 at 12:02 PM](https://archive.org/download/em_com-2022/em_com-2022-09-16T12:02:29.623160-03:00.hyperlinks.json) |
-| [September 16 at 9:02 AM](https://archive.org/download/em_com-2022/em_com-2022-09-16T09:02:02.766658-03:00.hyperlinks.json) |
+| [September 27 at 8:57 AM](https://archive.org/download/em_com-2022/em_com-2022-09-27T08:57:36.159042-03:00.hyperlinks.json) |
+| [September 27 at 3:59 AM](https://archive.org/download/em_com-2022/em_com-2022-09-27T03:59:52.035544-03:00.hyperlinks.json) |
+| [September 26 at 2:47 PM](https://archive.org/download/em_com-2022/em_com-2022-09-26T14:47:40.390570-03:00.hyperlinks.json) |
+| [September 26 at 9:05 AM](https://archive.org/download/em_com-2022/em_com-2022-09-26T09:05:10.190723-03:00.hyperlinks.json) |
+| [September 26 at 3:19 AM](https://archive.org/download/em_com-2022/em_com-2022-09-26T03:19:05.112515-03:00.hyperlinks.json) |
+| [September 25 at 2:27 PM](https://archive.org/download/em_com-2022/em_com-2022-09-25T14:26:55.187090-03:00.hyperlinks.json) |
+| [September 25 at 8:49 AM](https://archive.org/download/em_com-2022/em_com-2022-09-25T08:49:32.850713-03:00.hyperlinks.json) |
+| [September 25 at 2:53 AM](https://archive.org/download/em_com-2022/em_com-2022-09-25T02:53:06.290989-03:00.hyperlinks.json) |
+| [September 24 at 2:27 PM](https://archive.org/download/em_com-2022/em_com-2022-09-24T14:27:17.393183-03:00.hyperlinks.json) |
+| [September 24 at 8:51 AM](https://archive.org/download/em_com-2022/em_com-2022-09-24T08:51:19.555561-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 129 accessibility trees with the Internet Archive.
+The archiving routine has saved 153 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 1:01 PM](https://archive.org/download/em_com-2022/em_com-2022-09-19T13:01:12.424970-03:00.accessibility.json) |
-| [September 19 at 9:01 AM](https://archive.org/download/em_com-2022/em_com-2022-09-19T09:01:14.248015-03:00.accessibility.json) |
-| [September 19 at 1:41 AM](https://archive.org/download/em_com-2022/em_com-2022-09-19T01:41:33.041371-03:00.accessibility.json) |
-| [September 18 at 9:01 AM](https://archive.org/download/em_com-2022/em_com-2022-09-18T09:01:31.713959-03:00.accessibility.json) |
-| [September 18 at 12:49 AM](https://archive.org/download/em_com-2022/em_com-2022-09-18T00:49:54.015591-03:00.accessibility.json) |
-| [September 17 at 11:52 AM](https://archive.org/download/em_com-2022/em_com-2022-09-17T11:52:31.747224-03:00.accessibility.json) |
-| [September 17 at 9:03 AM](https://archive.org/download/em_com-2022/em_com-2022-09-17T09:03:14.575050-03:00.accessibility.json) |
-| [September 17 at 12:43 AM](https://archive.org/download/em_com-2022/em_com-2022-09-17T00:43:42.956503-03:00.accessibility.json) |
-| [September 16 at 12:02 PM](https://archive.org/download/em_com-2022/em_com-2022-09-16T12:02:29.623160-03:00.accessibility.json) |
-| [September 16 at 9:02 AM](https://archive.org/download/em_com-2022/em_com-2022-09-16T09:02:02.766658-03:00.accessibility.json) |
+| [September 27 at 8:57 AM](https://archive.org/download/em_com-2022/em_com-2022-09-27T08:57:36.159042-03:00.accessibility.json) |
+| [September 27 at 3:59 AM](https://archive.org/download/em_com-2022/em_com-2022-09-27T03:59:52.035544-03:00.accessibility.json) |
+| [September 26 at 2:47 PM](https://archive.org/download/em_com-2022/em_com-2022-09-26T14:47:40.390570-03:00.accessibility.json) |
+| [September 26 at 9:05 AM](https://archive.org/download/em_com-2022/em_com-2022-09-26T09:05:10.190723-03:00.accessibility.json) |
+| [September 26 at 3:19 AM](https://archive.org/download/em_com-2022/em_com-2022-09-26T03:19:05.112515-03:00.accessibility.json) |
+| [September 25 at 2:27 PM](https://archive.org/download/em_com-2022/em_com-2022-09-25T14:26:55.187090-03:00.accessibility.json) |
+| [September 25 at 8:49 AM](https://archive.org/download/em_com-2022/em_com-2022-09-25T08:49:32.850713-03:00.accessibility.json) |
+| [September 25 at 2:53 AM](https://archive.org/download/em_com-2022/em_com-2022-09-25T02:53:06.290989-03:00.accessibility.json) |
+| [September 24 at 2:27 PM](https://archive.org/download/em_com-2022/em_com-2022-09-24T14:27:17.393183-03:00.accessibility.json) |
+| [September 24 at 8:51 AM](https://archive.org/download/em_com-2022/em_com-2022-09-24T08:51:19.555561-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 128 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 152 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 1:01 PM](https://archive.org/download/em_com-2022/em_com-2022-09-19T13:01:12.424970-03:00.lighthouse.json) |
-| [September 19 at 9:01 AM](https://archive.org/download/em_com-2022/em_com-2022-09-19T09:01:14.248015-03:00.lighthouse.json) |
-| [September 19 at 1:41 AM](https://archive.org/download/em_com-2022/em_com-2022-09-19T01:41:33.041371-03:00.lighthouse.json) |
-| [September 18 at 9:01 AM](https://archive.org/download/em_com-2022/em_com-2022-09-18T09:01:31.713959-03:00.lighthouse.json) |
-| [September 18 at 12:49 AM](https://archive.org/download/em_com-2022/em_com-2022-09-18T00:49:54.015591-03:00.lighthouse.json) |
-| [September 17 at 11:52 AM](https://archive.org/download/em_com-2022/em_com-2022-09-17T11:52:31.747224-03:00.lighthouse.json) |
-| [September 17 at 9:03 AM](https://archive.org/download/em_com-2022/em_com-2022-09-17T09:03:14.575050-03:00.lighthouse.json) |
-| [September 17 at 12:43 AM](https://archive.org/download/em_com-2022/em_com-2022-09-17T00:43:42.956503-03:00.lighthouse.json) |
-| [September 16 at 12:02 PM](https://archive.org/download/em_com-2022/em_com-2022-09-16T12:02:29.623160-03:00.lighthouse.json) |
-| [September 16 at 9:02 AM](https://archive.org/download/em_com-2022/em_com-2022-09-16T09:02:02.766658-03:00.lighthouse.json) |
+| [September 27 at 8:58 AM](https://archive.org/download/em_com-2022/em_com-2022-09-27T08:57:36.159042-03:00.lighthouse.json) |
+| [September 27 at 3:59 AM](https://archive.org/download/em_com-2022/em_com-2022-09-27T03:59:52.035544-03:00.lighthouse.json) |
+| [September 26 at 2:48 PM](https://archive.org/download/em_com-2022/em_com-2022-09-26T14:47:40.390570-03:00.lighthouse.json) |
+| [September 26 at 9:05 AM](https://archive.org/download/em_com-2022/em_com-2022-09-26T09:05:10.190723-03:00.lighthouse.json) |
+| [September 26 at 3:19 AM](https://archive.org/download/em_com-2022/em_com-2022-09-26T03:19:05.112515-03:00.lighthouse.json) |
+| [September 25 at 2:27 PM](https://archive.org/download/em_com-2022/em_com-2022-09-25T14:26:55.187090-03:00.lighthouse.json) |
+| [September 25 at 8:49 AM](https://archive.org/download/em_com-2022/em_com-2022-09-25T08:49:32.850713-03:00.lighthouse.json) |
+| [September 25 at 2:53 AM](https://archive.org/download/em_com-2022/em_com-2022-09-25T02:53:06.290989-03:00.lighthouse.json) |
+| [September 24 at 2:27 PM](https://archive.org/download/em_com-2022/em_com-2022-09-24T14:27:17.393183-03:00.lighthouse.json) |
+| [September 24 at 8:51 AM](https://archive.org/download/em_com-2022/em_com-2022-09-24T08:51:19.555561-03:00.lighthouse.json) |
 
 
 

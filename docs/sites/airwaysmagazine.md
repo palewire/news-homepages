@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 58 screenshots with the Internet Archive.
+The archiving routine has saved 73 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-19T10:57:02.656392-04:00.jpg">
-  <img src="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-19T10:57:02.656392-04:00.jpg"
-     alt="Airways at 2022-09-19 10:57:04-04:00 local time"
+ <a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-27T00:28:41.547970-04:00.jpg">
+  <img src="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-27T00:28:41.547970-04:00.jpg"
+     alt="Airways at 2022-09-27 00:28:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-19T10:57:02.656392-04:00.jpg">September 19 at 10:57 AM</a></p>
+ <p><a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-27T00:28:41.547970-04:00.jpg">September 27 at 12:28 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-18T23:40:57.892555-04:00.jpg">
-  <img src="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-18T23:40:57.892555-04:00.jpg"
-     alt="Airways at 2022-09-18 23:40:59-04:00 local time"
+ <a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-26T12:05:22.090861-04:00.jpg">
+  <img src="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-26T12:05:22.090861-04:00.jpg"
+     alt="Airways at 2022-09-26 12:05:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-18T23:40:57.892555-04:00.jpg">September 18 at 11:40 PM</a></p>
+ <p><a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-26T12:05:22.090861-04:00.jpg">September 26 at 12:05 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-18T09:59:32.792891-04:00.jpg">
-  <img src="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-18T09:59:32.792891-04:00.jpg"
-     alt="Airways at 2022-09-18 09:59:34-04:00 local time"
+ <a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-26T00:42:17.112455-04:00.jpg">
+  <img src="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-26T00:42:17.112455-04:00.jpg"
+     alt="Airways at 2022-09-26 00:42:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-18T09:59:32.792891-04:00.jpg">September 18 at 9:59 AM</a></p>
+ <p><a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-26T00:42:17.112455-04:00.jpg">September 26 at 12:42 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-17T22:23:50.786499-04:00.jpg">
-  <img src="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-17T22:23:50.786499-04:00.jpg"
-     alt="Airways at 2022-09-17 22:23:55-04:00 local time"
+ <a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-25T11:51:21.699754-04:00.jpg">
+  <img src="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-25T11:51:21.699754-04:00.jpg"
+     alt="Airways at 2022-09-25 11:51:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-17T22:23:50.786499-04:00.jpg">September 17 at 10:23 PM</a></p>
+ <p><a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-25T11:51:21.699754-04:00.jpg">September 25 at 11:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-17T09:57:14.144449-04:00.jpg">
-  <img src="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-17T09:57:14.144449-04:00.jpg"
-     alt="Airways at 2022-09-17 09:57:18-04:00 local time"
+ <a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-25T00:28:36.223719-04:00.jpg">
+  <img src="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-25T00:28:36.223719-04:00.jpg"
+     alt="Airways at 2022-09-25 00:28:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-17T09:57:14.144449-04:00.jpg">September 17 at 9:57 AM</a></p>
+ <p><a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-25T00:28:36.223719-04:00.jpg">September 25 at 12:28 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-16T22:23:45.884155-04:00.jpg">
-  <img src="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-16T22:23:45.884155-04:00.jpg"
-     alt="Airways at 2022-09-16 22:23:47-04:00 local time"
+ <a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-24T11:48:46.340849-04:00.jpg">
+  <img src="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-24T11:48:46.340849-04:00.jpg"
+     alt="Airways at 2022-09-24 11:48:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-16T22:23:45.884155-04:00.jpg">September 16 at 10:23 PM</a></p>
+ <p><a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-24T11:48:46.340849-04:00.jpg">September 24 at 11:48 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-16T10:03:51.282224-04:00.jpg">
-  <img src="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-16T10:03:51.282224-04:00.jpg"
-     alt="Airways at 2022-09-16 10:03:54-04:00 local time"
+ <a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-24T00:29:34.350615-04:00.jpg">
+  <img src="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-24T00:29:34.350615-04:00.jpg"
+     alt="Airways at 2022-09-24 00:29:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-16T10:03:51.282224-04:00.jpg">September 16 at 10:03 AM</a></p>
+ <p><a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-24T00:29:34.350615-04:00.jpg">September 24 at 12:29 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-15T22:23:15.609335-04:00.jpg">
-  <img src="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-15T22:23:15.609335-04:00.jpg"
-     alt="Airways at 2022-09-15 22:23:18-04:00 local time"
+ <a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-23T11:57:06.266630-04:00.jpg">
+  <img src="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-23T11:57:06.266630-04:00.jpg"
+     alt="Airways at 2022-09-23 11:57:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-15T22:23:15.609335-04:00.jpg">September 15 at 10:23 PM</a></p>
+ <p><a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-23T11:57:06.266630-04:00.jpg">September 23 at 11:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-15T10:10:03.791115-04:00.jpg">
-  <img src="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-15T10:10:03.791115-04:00.jpg"
-     alt="Airways at 2022-09-15 10:10:11-04:00 local time"
+ <a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-23T01:11:48.919305-04:00.jpg">
+  <img src="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-23T01:11:48.919305-04:00.jpg"
+     alt="Airways at 2022-09-23 01:11:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-15T10:10:03.791115-04:00.jpg">September 15 at 10:10 AM</a></p>
+ <p><a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-23T01:11:48.919305-04:00.jpg">September 23 at 1:11 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-14T22:25:14.686301-04:00.jpg">
-  <img src="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-14T22:25:14.686301-04:00.jpg"
-     alt="Airways at 2022-09-14 22:25:18-04:00 local time"
+ <a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-22T11:59:14.295935-04:00.jpg">
+  <img src="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-22T11:59:14.295935-04:00.jpg"
+     alt="Airways at 2022-09-22 11:59:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-14T22:25:14.686301-04:00.jpg">September 14 at 10:25 PM</a></p>
+ <p><a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-22T11:59:14.295935-04:00.jpg">September 22 at 11:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-14T10:10:50.409550-04:00.jpg">
-  <img src="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-14T10:10:50.409550-04:00.jpg"
-     alt="Airways at 2022-09-14 10:10:56-04:00 local time"
+ <a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-22T00:34:47.818729-04:00.jpg">
+  <img src="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-22T00:34:47.818729-04:00.jpg"
+     alt="Airways at 2022-09-22 00:34:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-14T10:10:50.409550-04:00.jpg">September 14 at 10:10 AM</a></p>
+ <p><a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-22T00:34:47.818729-04:00.jpg">September 22 at 12:34 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-13T22:23:57.803795-04:00.jpg">
-  <img src="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-13T22:23:57.803795-04:00.jpg"
-     alt="Airways at 2022-09-13 22:24:01-04:00 local time"
+ <a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-21T12:00:46.485846-04:00.jpg">
+  <img src="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-21T12:00:46.485846-04:00.jpg"
+     alt="Airways at 2022-09-21 12:00:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-13T22:23:57.803795-04:00.jpg">September 13 at 10:24 PM</a></p>
+ <p><a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-21T12:00:46.485846-04:00.jpg">September 21 at 12:00 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 58 hyperlink lists with the Internet Archive.
+The archiving routine has saved 73 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 10:57 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-19T10:57:02.656392-04:00.hyperlinks.json) |
-| [September 18 at 11:41 PM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-18T23:40:57.892555-04:00.hyperlinks.json) |
-| [September 18 at 9:59 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-18T09:59:32.792891-04:00.hyperlinks.json) |
-| [September 17 at 10:23 PM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-17T22:23:50.786499-04:00.hyperlinks.json) |
-| [September 17 at 9:57 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-17T09:57:14.144449-04:00.hyperlinks.json) |
-| [September 16 at 10:23 PM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-16T22:23:45.884155-04:00.hyperlinks.json) |
-| [September 16 at 10:03 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-16T10:03:51.282224-04:00.hyperlinks.json) |
-| [September 15 at 10:23 PM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-15T22:23:15.609335-04:00.hyperlinks.json) |
-| [September 15 at 10:10 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-15T10:10:03.791115-04:00.hyperlinks.json) |
-| [September 14 at 10:25 PM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-14T22:25:14.686301-04:00.hyperlinks.json) |
+| [September 27 at 12:28 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-27T00:28:41.547970-04:00.hyperlinks.json) |
+| [September 26 at 12:05 PM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-26T12:05:22.090861-04:00.hyperlinks.json) |
+| [September 26 at 12:42 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-26T00:42:17.112455-04:00.hyperlinks.json) |
+| [September 25 at 11:51 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-25T11:51:21.699754-04:00.hyperlinks.json) |
+| [September 25 at 12:28 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-25T00:28:36.223719-04:00.hyperlinks.json) |
+| [September 24 at 11:48 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-24T11:48:46.340849-04:00.hyperlinks.json) |
+| [September 24 at 12:29 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-24T00:29:34.350615-04:00.hyperlinks.json) |
+| [September 23 at 11:57 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-23T11:57:06.266630-04:00.hyperlinks.json) |
+| [September 23 at 1:11 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-23T01:11:48.919305-04:00.hyperlinks.json) |
+| [September 22 at 11:59 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-22T11:59:14.295935-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 58 accessibility trees with the Internet Archive.
+The archiving routine has saved 73 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 10:57 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-19T10:57:02.656392-04:00.accessibility.json) |
-| [September 18 at 11:41 PM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-18T23:40:57.892555-04:00.accessibility.json) |
-| [September 18 at 9:59 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-18T09:59:32.792891-04:00.accessibility.json) |
-| [September 17 at 10:23 PM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-17T22:23:50.786499-04:00.accessibility.json) |
-| [September 17 at 9:57 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-17T09:57:14.144449-04:00.accessibility.json) |
-| [September 16 at 10:23 PM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-16T22:23:45.884155-04:00.accessibility.json) |
-| [September 16 at 10:03 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-16T10:03:51.282224-04:00.accessibility.json) |
-| [September 15 at 10:23 PM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-15T22:23:15.609335-04:00.accessibility.json) |
-| [September 15 at 10:10 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-15T10:10:03.791115-04:00.accessibility.json) |
-| [September 14 at 10:25 PM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-14T22:25:14.686301-04:00.accessibility.json) |
+| [September 27 at 12:28 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-27T00:28:41.547970-04:00.accessibility.json) |
+| [September 26 at 12:05 PM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-26T12:05:22.090861-04:00.accessibility.json) |
+| [September 26 at 12:42 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-26T00:42:17.112455-04:00.accessibility.json) |
+| [September 25 at 11:51 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-25T11:51:21.699754-04:00.accessibility.json) |
+| [September 25 at 12:28 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-25T00:28:36.223719-04:00.accessibility.json) |
+| [September 24 at 11:48 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-24T11:48:46.340849-04:00.accessibility.json) |
+| [September 24 at 12:29 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-24T00:29:34.350615-04:00.accessibility.json) |
+| [September 23 at 11:57 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-23T11:57:06.266630-04:00.accessibility.json) |
+| [September 23 at 1:11 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-23T01:11:48.919305-04:00.accessibility.json) |
+| [September 22 at 11:59 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-22T11:59:14.295935-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 58 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 73 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 10:57 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-19T10:57:02.656392-04:00.lighthouse.json) |
-| [September 18 at 11:41 PM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-18T23:40:57.892555-04:00.lighthouse.json) |
-| [September 18 at 9:59 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-18T09:59:32.792891-04:00.lighthouse.json) |
-| [September 17 at 10:24 PM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-17T22:23:50.786499-04:00.lighthouse.json) |
-| [September 17 at 9:57 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-17T09:57:14.144449-04:00.lighthouse.json) |
-| [September 16 at 10:23 PM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-16T22:23:45.884155-04:00.lighthouse.json) |
-| [September 16 at 10:04 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-16T10:03:51.282224-04:00.lighthouse.json) |
-| [September 15 at 10:23 PM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-15T22:23:15.609335-04:00.lighthouse.json) |
-| [September 15 at 10:10 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-15T10:10:03.791115-04:00.lighthouse.json) |
-| [September 14 at 10:25 PM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-14T22:25:14.686301-04:00.lighthouse.json) |
+| [September 27 at 12:28 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-27T00:28:41.547970-04:00.lighthouse.json) |
+| [September 26 at 12:05 PM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-26T12:05:22.090861-04:00.lighthouse.json) |
+| [September 26 at 12:42 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-26T00:42:17.112455-04:00.lighthouse.json) |
+| [September 25 at 11:51 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-25T11:51:21.699754-04:00.lighthouse.json) |
+| [September 25 at 12:28 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-25T00:28:36.223719-04:00.lighthouse.json) |
+| [September 24 at 11:48 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-24T11:48:46.340849-04:00.lighthouse.json) |
+| [September 24 at 12:29 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-24T00:29:34.350615-04:00.lighthouse.json) |
+| [September 23 at 11:57 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-23T11:57:06.266630-04:00.lighthouse.json) |
+| [September 23 at 1:11 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-23T01:11:48.919305-04:00.lighthouse.json) |
+| [September 22 at 11:59 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-09-22T11:59:14.295935-04:00.lighthouse.json) |
 
 
 

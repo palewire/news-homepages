@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 12 screenshots with the Internet Archive.
+The archiving routine has saved 27 screenshots with the Internet Archive.
 
 
 
@@ -37,118 +37,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-19T13:35:02.108852-04:00.jpg">
-  <img src="https://archive.org/download/nhregister-2022/nhregister-2022-09-19T13:35:02.108852-04:00.jpg"
-     alt="New Haven Register at 2022-09-19 13:35:05-04:00 local time"
+ <a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-27T03:07:16.376933-04:00.jpg">
+  <img src="https://archive.org/download/nhregister-2022/nhregister-2022-09-27T03:07:16.376933-04:00.jpg"
+     alt="New Haven Register at 2022-09-27 03:07:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-19T13:35:02.108852-04:00.jpg">September 19 at 1:35 PM</a></p>
+ <p><a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-27T03:07:16.376933-04:00.jpg">September 27 at 3:07 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-19T02:05:10.695440-04:00.jpg">
-  <img src="https://archive.org/download/nhregister-2022/nhregister-2022-09-19T02:05:10.695440-04:00.jpg"
-     alt="New Haven Register at 2022-09-19 02:05:12-04:00 local time"
+ <a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-26T15:26:13.009918-04:00.jpg">
+  <img src="https://archive.org/download/nhregister-2022/nhregister-2022-09-26T15:26:13.009918-04:00.jpg"
+     alt="New Haven Register at 2022-09-26 15:26:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-19T02:05:10.695440-04:00.jpg">September 19 at 2:05 AM</a></p>
+ <p><a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-26T15:26:13.009918-04:00.jpg">September 26 at 3:26 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-18T13:28:09.844958-04:00.jpg">
-  <img src="https://archive.org/download/nhregister-2022/nhregister-2022-09-18T13:28:09.844958-04:00.jpg"
-     alt="New Haven Register at 2022-09-18 13:28:12-04:00 local time"
+ <a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-26T03:42:51.475192-04:00.jpg">
+  <img src="https://archive.org/download/nhregister-2022/nhregister-2022-09-26T03:42:51.475192-04:00.jpg"
+     alt="New Haven Register at 2022-09-26 03:42:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-18T13:28:09.844958-04:00.jpg">September 18 at 1:28 PM</a></p>
+ <p><a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-26T03:42:51.475192-04:00.jpg">September 26 at 3:42 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-18T01:24:27.166536-04:00.jpg">
-  <img src="https://archive.org/download/nhregister-2022/nhregister-2022-09-18T01:24:27.166536-04:00.jpg"
-     alt="New Haven Register at 2022-09-18 01:24:29-04:00 local time"
+ <a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-25T14:30:24.148865-04:00.jpg">
+  <img src="https://archive.org/download/nhregister-2022/nhregister-2022-09-25T14:30:24.148865-04:00.jpg"
+     alt="New Haven Register at 2022-09-25 14:30:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-18T01:24:27.166536-04:00.jpg">September 18 at 1:24 AM</a></p>
+ <p><a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-25T14:30:24.148865-04:00.jpg">September 25 at 2:30 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-17T11:59:56.420550-04:00.jpg">
-  <img src="https://archive.org/download/nhregister-2022/nhregister-2022-09-17T11:59:56.420550-04:00.jpg"
-     alt="New Haven Register at 2022-09-17 11:59:58-04:00 local time"
+ <a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-25T02:53:57.751310-04:00.jpg">
+  <img src="https://archive.org/download/nhregister-2022/nhregister-2022-09-25T02:53:57.751310-04:00.jpg"
+     alt="New Haven Register at 2022-09-25 02:54:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-17T11:59:56.420550-04:00.jpg">September 17 at 11:59 AM</a></p>
+ <p><a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-25T02:53:57.751310-04:00.jpg">September 25 at 2:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-17T00:36:01.334174-04:00.jpg">
-  <img src="https://archive.org/download/nhregister-2022/nhregister-2022-09-17T00:36:01.334174-04:00.jpg"
-     alt="New Haven Register at 2022-09-17 00:36:02-04:00 local time"
+ <a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-24T14:29:50.319843-04:00.jpg">
+  <img src="https://archive.org/download/nhregister-2022/nhregister-2022-09-24T14:29:50.319843-04:00.jpg"
+     alt="New Haven Register at 2022-09-24 14:29:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-17T00:36:01.334174-04:00.jpg">September 17 at 12:36 AM</a></p>
+ <p><a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-24T14:29:50.319843-04:00.jpg">September 24 at 2:29 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-16T12:05:10.291440-04:00.jpg">
-  <img src="https://archive.org/download/nhregister-2022/nhregister-2022-09-16T12:05:10.291440-04:00.jpg"
-     alt="New Haven Register at 2022-09-16 12:05:12-04:00 local time"
+ <a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-24T02:53:27.746151-04:00.jpg">
+  <img src="https://archive.org/download/nhregister-2022/nhregister-2022-09-24T02:53:27.746151-04:00.jpg"
+     alt="New Haven Register at 2022-09-24 02:53:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-16T12:05:10.291440-04:00.jpg">September 16 at 12:05 PM</a></p>
+ <p><a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-24T02:53:27.746151-04:00.jpg">September 24 at 2:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-16T01:28:06.055245-04:00.jpg">
-  <img src="https://archive.org/download/nhregister-2022/nhregister-2022-09-16T01:28:06.055245-04:00.jpg"
-     alt="New Haven Register at 2022-09-16 01:28:07-04:00 local time"
+ <a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-23T14:46:59.853075-04:00.jpg">
+  <img src="https://archive.org/download/nhregister-2022/nhregister-2022-09-23T14:46:59.853075-04:00.jpg"
+     alt="New Haven Register at 2022-09-23 14:47:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-16T01:28:06.055245-04:00.jpg">September 16 at 1:28 AM</a></p>
+ <p><a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-23T14:46:59.853075-04:00.jpg">September 23 at 2:47 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-15T12:27:57.176192-04:00.jpg">
-  <img src="https://archive.org/download/nhregister-2022/nhregister-2022-09-15T12:27:57.176192-04:00.jpg"
-     alt="New Haven Register at 2022-09-15 12:27:59-04:00 local time"
+ <a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-23T03:16:57.687367-04:00.jpg">
+  <img src="https://archive.org/download/nhregister-2022/nhregister-2022-09-23T03:16:57.687367-04:00.jpg"
+     alt="New Haven Register at 2022-09-23 03:17:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-15T12:27:57.176192-04:00.jpg">September 15 at 12:27 PM</a></p>
+ <p><a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-23T03:16:57.687367-04:00.jpg">September 23 at 3:17 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-15T01:27:08.173468-04:00.jpg">
-  <img src="https://archive.org/download/nhregister-2022/nhregister-2022-09-15T01:27:08.173468-04:00.jpg"
-     alt="New Haven Register at 2022-09-15 01:27:09-04:00 local time"
+ <a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-22T15:22:40.934561-04:00.jpg">
+  <img src="https://archive.org/download/nhregister-2022/nhregister-2022-09-22T15:22:40.934561-04:00.jpg"
+     alt="New Haven Register at 2022-09-22 15:22:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-15T01:27:08.173468-04:00.jpg">September 15 at 1:27 AM</a></p>
+ <p><a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-22T15:22:40.934561-04:00.jpg">September 22 at 3:22 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-14T12:27:42.502622-04:00.jpg">
-  <img src="https://archive.org/download/nhregister-2022/nhregister-2022-09-14T12:27:42.502622-04:00.jpg"
-     alt="New Haven Register at 2022-09-14 12:27:45-04:00 local time"
+ <a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-22T03:22:51.035435-04:00.jpg">
+  <img src="https://archive.org/download/nhregister-2022/nhregister-2022-09-22T03:22:51.035435-04:00.jpg"
+     alt="New Haven Register at 2022-09-22 03:22:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-14T12:27:42.502622-04:00.jpg">September 14 at 12:27 PM</a></p>
+ <p><a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-22T03:22:51.035435-04:00.jpg">September 22 at 3:22 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-14T00:48:27.267517-04:00.jpg">
-  <img src="https://archive.org/download/nhregister-2022/nhregister-2022-09-14T00:48:27.267517-04:00.jpg"
-     alt="New Haven Register at 2022-09-14 00:48:32-04:00 local time"
+ <a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-21T14:59:27.250930-04:00.jpg">
+  <img src="https://archive.org/download/nhregister-2022/nhregister-2022-09-21T14:59:27.250930-04:00.jpg"
+     alt="New Haven Register at 2022-09-21 14:59:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-14T00:48:27.267517-04:00.jpg">September 14 at 12:48 AM</a></p>
+ <p><a href="https://archive.org/download/nhregister-2022/nhregister-2022-09-21T14:59:27.250930-04:00.jpg">September 21 at 2:59 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 12 hyperlink lists with the Internet Archive.
+The archiving routine has saved 27 hyperlink lists with the Internet Archive.
 
 
 
@@ -156,21 +156,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 1:35 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-19T13:35:02.108852-04:00.hyperlinks.json) |
-| [September 19 at 2:05 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-19T02:05:10.695440-04:00.hyperlinks.json) |
-| [September 18 at 1:28 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-18T13:28:09.844958-04:00.hyperlinks.json) |
-| [September 18 at 1:24 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-18T01:24:27.166536-04:00.hyperlinks.json) |
-| [September 17 at 12:00 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-17T11:59:56.420550-04:00.hyperlinks.json) |
-| [September 17 at 12:36 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-17T00:36:01.334174-04:00.hyperlinks.json) |
-| [September 16 at 12:05 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-16T12:05:10.291440-04:00.hyperlinks.json) |
-| [September 16 at 1:28 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-16T01:28:06.055245-04:00.hyperlinks.json) |
-| [September 15 at 12:28 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-15T12:27:57.176192-04:00.hyperlinks.json) |
-| [September 15 at 1:27 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-15T01:27:08.173468-04:00.hyperlinks.json) |
+| [September 27 at 3:07 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-27T03:07:16.376933-04:00.hyperlinks.json) |
+| [September 26 at 3:26 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-26T15:26:13.009918-04:00.hyperlinks.json) |
+| [September 26 at 3:42 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-26T03:42:51.475192-04:00.hyperlinks.json) |
+| [September 25 at 2:30 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-25T14:30:24.148865-04:00.hyperlinks.json) |
+| [September 25 at 2:54 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-25T02:53:57.751310-04:00.hyperlinks.json) |
+| [September 24 at 2:29 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-24T14:29:50.319843-04:00.hyperlinks.json) |
+| [September 24 at 2:53 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-24T02:53:27.746151-04:00.hyperlinks.json) |
+| [September 23 at 2:47 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-23T14:46:59.853075-04:00.hyperlinks.json) |
+| [September 23 at 3:17 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-23T03:16:57.687367-04:00.hyperlinks.json) |
+| [September 22 at 3:22 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-22T15:22:40.934561-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 11 accessibility trees with the Internet Archive.
+The archiving routine has saved 26 accessibility trees with the Internet Archive.
 
 
 
@@ -178,22 +178,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 1:35 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-19T13:35:02.108852-04:00.accessibility.json) |
-| [September 19 at 2:05 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-19T02:05:10.695440-04:00.accessibility.json) |
-| [September 18 at 1:28 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-18T13:28:09.844958-04:00.accessibility.json) |
-| [September 18 at 1:24 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-18T01:24:27.166536-04:00.accessibility.json) |
-| [September 17 at 12:00 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-17T11:59:56.420550-04:00.accessibility.json) |
-| [September 17 at 12:36 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-17T00:36:01.334174-04:00.accessibility.json) |
-| [September 16 at 12:05 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-16T12:05:10.291440-04:00.accessibility.json) |
-| [September 16 at 1:28 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-16T01:28:06.055245-04:00.accessibility.json) |
-| [September 15 at 12:28 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-15T12:27:57.176192-04:00.accessibility.json) |
-| [September 15 at 1:27 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-15T01:27:08.173468-04:00.accessibility.json) |
+| [September 27 at 3:07 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-27T03:07:16.376933-04:00.accessibility.json) |
+| [September 26 at 3:26 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-26T15:26:13.009918-04:00.accessibility.json) |
+| [September 26 at 3:42 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-26T03:42:51.475192-04:00.accessibility.json) |
+| [September 25 at 2:30 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-25T14:30:24.148865-04:00.accessibility.json) |
+| [September 25 at 2:54 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-25T02:53:57.751310-04:00.accessibility.json) |
+| [September 24 at 2:29 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-24T14:29:50.319843-04:00.accessibility.json) |
+| [September 24 at 2:53 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-24T02:53:27.746151-04:00.accessibility.json) |
+| [September 23 at 2:47 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-23T14:46:59.853075-04:00.accessibility.json) |
+| [September 23 at 3:17 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-23T03:16:57.687367-04:00.accessibility.json) |
+| [September 22 at 3:22 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-22T15:22:40.934561-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -201,16 +201,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 1:35 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-19T13:35:02.108852-04:00.lighthouse.json) |
-| [September 19 at 2:05 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-19T02:05:10.695440-04:00.lighthouse.json) |
-| [September 18 at 1:28 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-18T13:28:09.844958-04:00.lighthouse.json) |
-| [September 18 at 1:24 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-18T01:24:27.166536-04:00.lighthouse.json) |
-| [September 17 at 12:00 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-17T11:59:56.420550-04:00.lighthouse.json) |
-| [September 17 at 12:36 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-17T00:36:01.334174-04:00.lighthouse.json) |
-| [September 16 at 12:05 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-16T12:05:10.291440-04:00.lighthouse.json) |
-| [September 16 at 1:28 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-16T01:28:06.055245-04:00.lighthouse.json) |
-| [September 15 at 12:28 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-15T12:27:57.176192-04:00.lighthouse.json) |
-| [September 15 at 1:27 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-15T01:27:08.173468-04:00.lighthouse.json) |
+| [September 27 at 3:07 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-27T03:07:16.376933-04:00.lighthouse.json) |
+| [September 26 at 3:26 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-26T15:26:13.009918-04:00.lighthouse.json) |
+| [September 26 at 3:42 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-26T03:42:51.475192-04:00.lighthouse.json) |
+| [September 25 at 2:30 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-25T14:30:24.148865-04:00.lighthouse.json) |
+| [September 25 at 2:54 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-25T02:53:57.751310-04:00.lighthouse.json) |
+| [September 24 at 2:29 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-24T14:29:50.319843-04:00.lighthouse.json) |
+| [September 24 at 2:53 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-24T02:53:27.746151-04:00.lighthouse.json) |
+| [September 23 at 2:47 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-23T14:46:59.853075-04:00.lighthouse.json) |
+| [September 23 at 3:17 AM](https://archive.org/download/nhregister-2022/nhregister-2022-09-23T03:16:57.687367-04:00.lighthouse.json) |
+| [September 22 at 3:22 PM](https://archive.org/download/nhregister-2022/nhregister-2022-09-22T15:22:40.934561-04:00.lighthouse.json) |
 
 
 

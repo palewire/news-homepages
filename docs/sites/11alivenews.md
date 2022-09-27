@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 124 screenshots with the Internet Archive.
+The archiving routine has saved 141 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-19T06:47:32.777336-04:00.jpg">
-  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-19T06:47:32.777336-04:00.jpg"
-     alt="11Alive News at 2022-09-19 06:47:49-04:00 local time"
+ <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-27T06:53:44.988204-04:00.jpg">
+  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-27T06:53:44.988204-04:00.jpg"
+     alt="11Alive News at 2022-09-27 06:53:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-19T06:47:32.777336-04:00.jpg">September 19 at 6:47 AM</a></p>
+ <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-27T06:53:44.988204-04:00.jpg">September 27 at 6:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-18T18:47:38.519171-04:00.jpg">
-  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-18T18:47:38.519171-04:00.jpg"
-     alt="11Alive News at 2022-09-18 18:47:44-04:00 local time"
+ <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-26T18:49:58.325677-04:00.jpg">
+  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-26T18:49:58.325677-04:00.jpg"
+     alt="11Alive News at 2022-09-26 18:50:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-18T18:47:38.519171-04:00.jpg">September 18 at 6:47 PM</a></p>
+ <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-26T18:49:58.325677-04:00.jpg">September 26 at 6:50 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-18T06:49:36.600902-04:00.jpg">
-  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-18T06:49:36.600902-04:00.jpg"
-     alt="11Alive News at 2022-09-18 06:49:44-04:00 local time"
+ <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-26T06:52:09.316858-04:00.jpg">
+  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-26T06:52:09.316858-04:00.jpg"
+     alt="11Alive News at 2022-09-26 06:52:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-18T06:49:36.600902-04:00.jpg">September 18 at 6:49 AM</a></p>
+ <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-26T06:52:09.316858-04:00.jpg">September 26 at 6:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-17T18:51:24.783126-04:00.jpg">
-  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-17T18:51:24.783126-04:00.jpg"
-     alt="11Alive News at 2022-09-17 18:51:30-04:00 local time"
+ <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-25T18:41:16.777071-04:00.jpg">
+  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-25T18:41:16.777071-04:00.jpg"
+     alt="11Alive News at 2022-09-25 18:41:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-17T18:51:24.783126-04:00.jpg">September 17 at 6:51 PM</a></p>
+ <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-25T18:41:16.777071-04:00.jpg">September 25 at 6:41 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-17T06:47:45.400185-04:00.jpg">
-  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-17T06:47:45.400185-04:00.jpg"
-     alt="11Alive News at 2022-09-17 06:47:51-04:00 local time"
+ <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-25T06:40:37.176682-04:00.jpg">
+  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-25T06:40:37.176682-04:00.jpg"
+     alt="11Alive News at 2022-09-25 06:40:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-17T06:47:45.400185-04:00.jpg">September 17 at 6:47 AM</a></p>
+ <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-25T06:40:37.176682-04:00.jpg">September 25 at 6:40 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-16T18:50:03.268208-04:00.jpg">
-  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-16T18:50:03.268208-04:00.jpg"
-     alt="11Alive News at 2022-09-16 18:50:10-04:00 local time"
+ <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-24T18:40:27.391329-04:00.jpg">
+  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-24T18:40:27.391329-04:00.jpg"
+     alt="11Alive News at 2022-09-24 18:40:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-16T18:50:03.268208-04:00.jpg">September 16 at 6:50 PM</a></p>
+ <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-24T18:40:27.391329-04:00.jpg">September 24 at 6:40 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-16T06:51:26.104739-04:00.jpg">
-  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-16T06:51:26.104739-04:00.jpg"
-     alt="11Alive News at 2022-09-16 06:51:37-04:00 local time"
+ <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-24T06:42:34.071939-04:00.jpg">
+  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-24T06:42:34.071939-04:00.jpg"
+     alt="11Alive News at 2022-09-24 06:42:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-16T06:51:26.104739-04:00.jpg">September 16 at 6:51 AM</a></p>
+ <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-24T06:42:34.071939-04:00.jpg">September 24 at 6:42 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-15T18:52:59.164622-04:00.jpg">
-  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-15T18:52:59.164622-04:00.jpg"
-     alt="11Alive News at 2022-09-15 18:53:11-04:00 local time"
+ <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-23T19:49:44.400210-04:00.jpg">
+  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-23T19:49:44.400210-04:00.jpg"
+     alt="11Alive News at 2022-09-23 19:49:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-15T18:52:59.164622-04:00.jpg">September 15 at 6:53 PM</a></p>
+ <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-23T19:49:44.400210-04:00.jpg">September 23 at 7:49 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-15T06:52:47.918566-04:00.jpg">
-  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-15T06:52:47.918566-04:00.jpg"
-     alt="11Alive News at 2022-09-15 06:52:53-04:00 local time"
+ <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-23T06:46:33.691128-04:00.jpg">
+  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-23T06:46:33.691128-04:00.jpg"
+     alt="11Alive News at 2022-09-23 06:46:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-15T06:52:47.918566-04:00.jpg">September 15 at 6:52 AM</a></p>
+ <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-23T06:46:33.691128-04:00.jpg">September 23 at 6:46 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-14T18:59:13.183632-04:00.jpg">
-  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-14T18:59:13.183632-04:00.jpg"
-     alt="11Alive News at 2022-09-14 18:59:18-04:00 local time"
+ <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-22T18:48:30.011999-04:00.jpg">
+  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-22T18:48:30.011999-04:00.jpg"
+     alt="11Alive News at 2022-09-22 18:48:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-14T18:59:13.183632-04:00.jpg">September 14 at 6:59 PM</a></p>
+ <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-22T18:48:30.011999-04:00.jpg">September 22 at 6:48 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-14T06:52:23.896020-04:00.jpg">
-  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-14T06:52:23.896020-04:00.jpg"
-     alt="11Alive News at 2022-09-14 06:52:29-04:00 local time"
+ <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-22T06:49:31.080948-04:00.jpg">
+  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-22T06:49:31.080948-04:00.jpg"
+     alt="11Alive News at 2022-09-22 06:49:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-14T06:52:23.896020-04:00.jpg">September 14 at 6:52 AM</a></p>
+ <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-22T06:49:31.080948-04:00.jpg">September 22 at 6:49 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-13T18:56:35.468492-04:00.jpg">
-  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-13T18:56:35.468492-04:00.jpg"
-     alt="11Alive News at 2022-09-13 18:56:39-04:00 local time"
+ <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-21T18:55:31.521246-04:00.jpg">
+  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-21T18:55:31.521246-04:00.jpg"
+     alt="11Alive News at 2022-09-21 18:55:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-13T18:56:35.468492-04:00.jpg">September 13 at 6:56 PM</a></p>
+ <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-09-21T18:55:31.521246-04:00.jpg">September 21 at 6:55 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 121 hyperlink lists with the Internet Archive.
+The archiving routine has saved 138 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 6:47 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-19T06:47:32.777336-04:00.hyperlinks.json) |
-| [September 18 at 6:47 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-18T18:47:38.519171-04:00.hyperlinks.json) |
-| [September 18 at 6:49 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-18T06:49:36.600902-04:00.hyperlinks.json) |
-| [September 17 at 6:51 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-17T18:51:24.783126-04:00.hyperlinks.json) |
-| [September 17 at 6:47 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-17T06:47:45.400185-04:00.hyperlinks.json) |
-| [September 16 at 6:50 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-16T18:50:03.268208-04:00.hyperlinks.json) |
-| [September 16 at 6:51 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-16T06:51:26.104739-04:00.hyperlinks.json) |
-| [September 15 at 6:53 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-15T18:52:59.164622-04:00.hyperlinks.json) |
-| [September 15 at 6:52 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-15T06:52:47.918566-04:00.hyperlinks.json) |
-| [September 14 at 6:59 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-14T18:59:13.183632-04:00.hyperlinks.json) |
+| [September 27 at 6:54 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-27T06:53:44.988204-04:00.hyperlinks.json) |
+| [September 26 at 6:50 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-26T18:49:58.325677-04:00.hyperlinks.json) |
+| [September 26 at 6:52 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-26T06:52:09.316858-04:00.hyperlinks.json) |
+| [September 25 at 6:41 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-25T18:41:16.777071-04:00.hyperlinks.json) |
+| [September 25 at 6:40 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-25T06:40:37.176682-04:00.hyperlinks.json) |
+| [September 24 at 6:40 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-24T18:40:27.391329-04:00.hyperlinks.json) |
+| [September 24 at 6:42 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-24T06:42:34.071939-04:00.hyperlinks.json) |
+| [September 23 at 7:49 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-23T19:49:44.400210-04:00.hyperlinks.json) |
+| [September 23 at 6:46 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-23T06:46:33.691128-04:00.hyperlinks.json) |
+| [September 22 at 6:48 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-22T18:48:30.011999-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 123 accessibility trees with the Internet Archive.
+The archiving routine has saved 140 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 6:47 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-19T06:47:32.777336-04:00.accessibility.json) |
-| [September 18 at 6:47 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-18T18:47:38.519171-04:00.accessibility.json) |
-| [September 18 at 6:49 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-18T06:49:36.600902-04:00.accessibility.json) |
-| [September 17 at 6:51 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-17T18:51:24.783126-04:00.accessibility.json) |
-| [September 17 at 6:47 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-17T06:47:45.400185-04:00.accessibility.json) |
-| [September 16 at 6:50 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-16T18:50:03.268208-04:00.accessibility.json) |
-| [September 16 at 6:51 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-16T06:51:26.104739-04:00.accessibility.json) |
-| [September 15 at 6:53 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-15T18:52:59.164622-04:00.accessibility.json) |
-| [September 15 at 6:52 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-15T06:52:47.918566-04:00.accessibility.json) |
-| [September 14 at 6:59 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-14T18:59:13.183632-04:00.accessibility.json) |
+| [September 27 at 6:53 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-27T06:53:44.988204-04:00.accessibility.json) |
+| [September 26 at 6:50 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-26T18:49:58.325677-04:00.accessibility.json) |
+| [September 26 at 6:52 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-26T06:52:09.316858-04:00.accessibility.json) |
+| [September 25 at 6:41 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-25T18:41:16.777071-04:00.accessibility.json) |
+| [September 25 at 6:40 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-25T06:40:37.176682-04:00.accessibility.json) |
+| [September 24 at 6:40 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-24T18:40:27.391329-04:00.accessibility.json) |
+| [September 24 at 6:42 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-24T06:42:34.071939-04:00.accessibility.json) |
+| [September 23 at 7:49 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-23T19:49:44.400210-04:00.accessibility.json) |
+| [September 23 at 6:46 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-23T06:46:33.691128-04:00.accessibility.json) |
+| [September 22 at 6:48 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-22T18:48:30.011999-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 117 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 6:47 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-19T06:47:32.777336-04:00.lighthouse.json) |
-| [September 18 at 6:47 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-18T18:47:38.519171-04:00.lighthouse.json) |
-| [September 18 at 6:49 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-18T06:49:36.600902-04:00.lighthouse.json) |
-| [September 17 at 6:51 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-17T18:51:24.783126-04:00.lighthouse.json) |
-| [September 17 at 6:47 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-17T06:47:45.400185-04:00.lighthouse.json) |
-| [September 16 at 6:50 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-16T18:50:03.268208-04:00.lighthouse.json) |
-| [September 16 at 6:51 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-16T06:51:26.104739-04:00.lighthouse.json) |
-| [September 15 at 6:53 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-15T18:52:59.164622-04:00.lighthouse.json) |
-| [September 15 at 6:52 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-15T06:52:47.918566-04:00.lighthouse.json) |
-| [September 14 at 6:59 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-14T18:59:13.183632-04:00.lighthouse.json) |
+| [September 27 at 6:54 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-27T06:53:44.988204-04:00.lighthouse.json) |
+| [September 26 at 6:50 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-26T18:49:58.325677-04:00.lighthouse.json) |
+| [September 26 at 6:52 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-26T06:52:09.316858-04:00.lighthouse.json) |
+| [September 25 at 6:41 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-25T18:41:16.777071-04:00.lighthouse.json) |
+| [September 25 at 6:40 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-25T06:40:37.176682-04:00.lighthouse.json) |
+| [September 24 at 6:40 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-24T18:40:27.391329-04:00.lighthouse.json) |
+| [September 24 at 6:42 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-24T06:42:34.071939-04:00.lighthouse.json) |
+| [September 23 at 7:49 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-23T19:49:44.400210-04:00.lighthouse.json) |
+| [September 23 at 6:46 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-23T06:46:33.691128-04:00.lighthouse.json) |
+| [September 22 at 6:48 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-09-22T18:48:30.011999-04:00.lighthouse.json) |
 
 
 

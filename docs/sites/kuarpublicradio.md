@@ -28,8 +28,91 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 32 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/kuarpublicradio.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
@@ -37,180 +120,429 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-19T11:05:11.997461-05:00.jpg">
-  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-19T11:05:11.997461-05:00.jpg"
-     alt="KUAR at 2022-09-19 11:05:14-05:00 local time"
+ <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-27T00:42:22.855345-05:00.jpg">
+  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-27T00:42:22.855345-05:00.jpg"
+     alt="KUAR at 2022-09-27 00:42:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-19T11:05:11.997461-05:00.jpg">September 19 at 11:05 AM</a></p>
+ <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-27T00:42:22.855345-05:00.jpg">September 27 at 12:42 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-18T23:48:06.414024-05:00.jpg">
-  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-18T23:48:06.414024-05:00.jpg"
-     alt="KUAR at 2022-09-18 23:48:07-05:00 local time"
+ <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-26T12:31:16.501367-05:00.jpg">
+  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-26T12:31:16.501367-05:00.jpg"
+     alt="KUAR at 2022-09-26 12:31:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-18T23:48:06.414024-05:00.jpg">September 18 at 11:48 PM</a></p>
+ <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-26T12:31:16.501367-05:00.jpg">September 26 at 12:31 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-18T11:00:05.143860-05:00.jpg">
-  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-18T11:00:05.143860-05:00.jpg"
-     alt="KUAR at 2022-09-18 11:00:06-05:00 local time"
+ <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-26T01:04:44.895217-05:00.jpg">
+  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-26T01:04:44.895217-05:00.jpg"
+     alt="KUAR at 2022-09-26 01:04:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-18T11:00:05.143860-05:00.jpg">September 18 at 11:00 AM</a></p>
+ <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-26T01:04:44.895217-05:00.jpg">September 26 at 1:04 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-18T00:22:26.733794-05:00.jpg">
-  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-18T00:22:26.733794-05:00.jpg"
-     alt="KUAR at 2022-09-18 00:22:28-05:00 local time"
+ <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-25T12:12:54.834043-05:00.jpg">
+  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-25T12:12:54.834043-05:00.jpg"
+     alt="KUAR at 2022-09-25 12:12:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-18T00:22:26.733794-05:00.jpg">September 18 at 12:22 AM</a></p>
+ <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-25T12:12:54.834043-05:00.jpg">September 25 at 12:12 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-17T10:57:40.688222-05:00.jpg">
-  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-17T10:57:40.688222-05:00.jpg"
-     alt="KUAR at 2022-09-17 10:57:42-05:00 local time"
+ <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-25T00:40:09.568429-05:00.jpg">
+  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-25T00:40:09.568429-05:00.jpg"
+     alt="KUAR at 2022-09-25 00:40:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-17T10:57:40.688222-05:00.jpg">September 17 at 10:57 AM</a></p>
+ <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-25T00:40:09.568429-05:00.jpg">September 25 at 12:40 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-16T23:31:40.885553-05:00.jpg">
-  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-16T23:31:40.885553-05:00.jpg"
-     alt="KUAR at 2022-09-16 23:31:42-05:00 local time"
+ <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-24T12:12:38.169269-05:00.jpg">
+  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-24T12:12:38.169269-05:00.jpg"
+     alt="KUAR at 2022-09-24 12:12:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-16T23:31:40.885553-05:00.jpg">September 16 at 11:31 PM</a></p>
+ <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-24T12:12:38.169269-05:00.jpg">September 24 at 12:12 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-16T11:02:13.144301-05:00.jpg">
-  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-16T11:02:13.144301-05:00.jpg"
-     alt="KUAR at 2022-09-16 11:02:15-05:00 local time"
+ <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-24T00:39:06.322888-05:00.jpg">
+  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-24T00:39:06.322888-05:00.jpg"
+     alt="KUAR at 2022-09-24 00:39:08-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-16T11:02:13.144301-05:00.jpg">September 16 at 11:02 AM</a></p>
+ <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-24T00:39:06.322888-05:00.jpg">September 24 at 12:39 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-16T00:23:46.644152-05:00.jpg">
-  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-16T00:23:46.644152-05:00.jpg"
-     alt="KUAR at 2022-09-16 00:23:48-05:00 local time"
+ <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-23T12:25:52.020034-05:00.jpg">
+  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-23T12:25:52.020034-05:00.jpg"
+     alt="KUAR at 2022-09-23 12:25:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-16T00:23:46.644152-05:00.jpg">September 16 at 12:23 AM</a></p>
+ <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-23T12:25:52.020034-05:00.jpg">September 23 at 12:25 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-15T11:18:43.924917-05:00.jpg">
-  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-15T11:18:43.924917-05:00.jpg"
-     alt="KUAR at 2022-09-15 11:18:46-05:00 local time"
+ <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-23T00:23:25.378767-05:00.jpg">
+  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-23T00:23:25.378767-05:00.jpg"
+     alt="KUAR at 2022-09-23 00:23:27-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-15T11:18:43.924917-05:00.jpg">September 15 at 11:18 AM</a></p>
+ <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-23T00:23:25.378767-05:00.jpg">September 23 at 12:23 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-15T00:24:20.173841-05:00.jpg">
-  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-15T00:24:20.173841-05:00.jpg"
-     alt="KUAR at 2022-09-15 00:24:21-05:00 local time"
+ <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-22T12:25:00.230191-05:00.jpg">
+  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-22T12:25:00.230191-05:00.jpg"
+     alt="KUAR at 2022-09-22 12:25:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-15T00:24:20.173841-05:00.jpg">September 15 at 12:24 AM</a></p>
+ <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-22T12:25:00.230191-05:00.jpg">September 22 at 12:25 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-14T11:18:43.061843-05:00.jpg">
-  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-14T11:18:43.061843-05:00.jpg"
-     alt="KUAR at 2022-09-14 11:18:44-05:00 local time"
+ <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-22T00:53:11.175126-05:00.jpg">
+  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-22T00:53:11.175126-05:00.jpg"
+     alt="KUAR at 2022-09-22 00:53:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-14T11:18:43.061843-05:00.jpg">September 14 at 11:18 AM</a></p>
+ <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-22T00:53:11.175126-05:00.jpg">September 22 at 12:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-13T23:41:17.356373-05:00.jpg">
-  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-13T23:41:17.356373-05:00.jpg"
-     alt="KUAR at 2022-09-13 23:41:18-05:00 local time"
+ <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-21T12:25:34.653816-05:00.jpg">
+  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-21T12:25:34.653816-05:00.jpg"
+     alt="KUAR at 2022-09-21 12:25:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-13T23:41:17.356373-05:00.jpg">September 13 at 11:41 PM</a></p>
+ <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-21T12:25:34.653816-05:00.jpg">September 21 at 12:25 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 16 hyperlink lists with the Internet Archive.
+The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/kuarpublicradio.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 11:05 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-19T11:05:11.997461-05:00.hyperlinks.json) |
-| [September 18 at 11:48 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-18T23:48:06.414024-05:00.hyperlinks.json) |
-| [September 18 at 11:00 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-18T11:00:05.143860-05:00.hyperlinks.json) |
-| [September 18 at 12:22 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-18T00:22:26.733794-05:00.hyperlinks.json) |
-| [September 17 at 10:57 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-17T10:57:40.688222-05:00.hyperlinks.json) |
-| [September 16 at 11:31 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-16T23:31:40.885553-05:00.hyperlinks.json) |
-| [September 16 at 11:02 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-16T11:02:13.144301-05:00.hyperlinks.json) |
-| [September 16 at 12:23 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-16T00:23:46.644152-05:00.hyperlinks.json) |
-| [September 15 at 11:18 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-15T11:18:43.924917-05:00.hyperlinks.json) |
-| [September 15 at 12:24 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-15T00:24:20.173841-05:00.hyperlinks.json) |
+| [September 27 at 12:42 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-27T00:42:22.855345-05:00.hyperlinks.json) |
+| [September 26 at 12:31 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-26T12:31:16.501367-05:00.hyperlinks.json) |
+| [September 26 at 1:04 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-26T01:04:44.895217-05:00.hyperlinks.json) |
+| [September 25 at 12:12 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-25T12:12:54.834043-05:00.hyperlinks.json) |
+| [September 25 at 12:40 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-25T00:40:09.568429-05:00.hyperlinks.json) |
+| [September 24 at 12:12 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-24T12:12:38.169269-05:00.hyperlinks.json) |
+| [September 24 at 12:39 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-24T00:39:06.322888-05:00.hyperlinks.json) |
+| [September 23 at 12:25 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-23T12:25:52.020034-05:00.hyperlinks.json) |
+| [September 23 at 12:23 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-23T00:23:25.378767-05:00.hyperlinks.json) |
+| [September 22 at 12:25 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-22T12:25:00.230191-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 16 accessibility trees with the Internet Archive.
+The archiving routine has saved 32 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/kuarpublicradio.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 11:05 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-19T11:05:11.997461-05:00.accessibility.json) |
-| [September 18 at 11:48 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-18T23:48:06.414024-05:00.accessibility.json) |
-| [September 18 at 11:00 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-18T11:00:05.143860-05:00.accessibility.json) |
-| [September 18 at 12:22 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-18T00:22:26.733794-05:00.accessibility.json) |
-| [September 17 at 10:57 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-17T10:57:40.688222-05:00.accessibility.json) |
-| [September 16 at 11:31 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-16T23:31:40.885553-05:00.accessibility.json) |
-| [September 16 at 11:02 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-16T11:02:13.144301-05:00.accessibility.json) |
-| [September 16 at 12:23 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-16T00:23:46.644152-05:00.accessibility.json) |
-| [September 15 at 11:18 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-15T11:18:43.924917-05:00.accessibility.json) |
-| [September 15 at 12:24 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-15T00:24:20.173841-05:00.accessibility.json) |
+| [September 27 at 12:42 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-27T00:42:22.855345-05:00.accessibility.json) |
+| [September 26 at 12:31 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-26T12:31:16.501367-05:00.accessibility.json) |
+| [September 26 at 1:04 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-26T01:04:44.895217-05:00.accessibility.json) |
+| [September 25 at 12:12 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-25T12:12:54.834043-05:00.accessibility.json) |
+| [September 25 at 12:40 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-25T00:40:09.568429-05:00.accessibility.json) |
+| [September 24 at 12:12 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-24T12:12:38.169269-05:00.accessibility.json) |
+| [September 24 at 12:39 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-24T00:39:06.322888-05:00.accessibility.json) |
+| [September 23 at 12:25 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-23T12:25:52.020034-05:00.accessibility.json) |
+| [September 23 at 12:23 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-23T00:23:25.378767-05:00.accessibility.json) |
+| [September 22 at 12:25 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-22T12:25:00.230191-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/kuarpublicradio.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 11:05 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-19T11:05:11.997461-05:00.lighthouse.json) |
-| [September 18 at 11:48 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-18T23:48:06.414024-05:00.lighthouse.json) |
-| [September 18 at 11:00 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-18T11:00:05.143860-05:00.lighthouse.json) |
-| [September 18 at 12:22 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-18T00:22:26.733794-05:00.lighthouse.json) |
-| [September 17 at 10:57 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-17T10:57:40.688222-05:00.lighthouse.json) |
-| [September 16 at 11:31 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-16T23:31:40.885553-05:00.lighthouse.json) |
-| [September 16 at 11:02 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-16T11:02:13.144301-05:00.lighthouse.json) |
-| [September 16 at 12:23 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-16T00:23:46.644152-05:00.lighthouse.json) |
-| [September 15 at 11:18 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-15T11:18:43.924917-05:00.lighthouse.json) |
-| [September 15 at 12:24 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-15T00:24:20.173841-05:00.lighthouse.json) |
+| [September 27 at 12:42 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-27T00:42:22.855345-05:00.lighthouse.json) |
+| [September 26 at 12:31 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-26T12:31:16.501367-05:00.lighthouse.json) |
+| [September 26 at 1:04 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-26T01:04:44.895217-05:00.lighthouse.json) |
+| [September 25 at 12:13 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-25T12:12:54.834043-05:00.lighthouse.json) |
+| [September 25 at 12:40 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-25T00:40:09.568429-05:00.lighthouse.json) |
+| [September 24 at 12:12 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-24T12:12:38.169269-05:00.lighthouse.json) |
+| [September 24 at 12:39 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-24T00:39:06.322888-05:00.lighthouse.json) |
+| [September 23 at 12:26 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-23T12:25:52.020034-05:00.lighthouse.json) |
+| [September 23 at 12:23 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-23T00:23:25.378767-05:00.lighthouse.json) |
+| [September 22 at 12:25 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-09-22T12:25:00.230191-05:00.lighthouse.json) |
 
 
 

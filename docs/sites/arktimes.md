@@ -28,8 +28,91 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 15 screenshots with the Internet Archive.
+The archiving routine has saved 32 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/arktimes.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
@@ -37,180 +120,429 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-19T05:49:32.940985-05:00.jpg">
-  <img src="https://archive.org/download/arktimes-2022/arktimes-2022-09-19T05:49:32.940985-05:00.jpg"
-     alt="Arkansas Times at 2022-09-19 05:49:34-05:00 local time"
+ <a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-27T05:55:44.144128-05:00.jpg">
+  <img src="https://archive.org/download/arktimes-2022/arktimes-2022-09-27T05:55:44.144128-05:00.jpg"
+     alt="Arkansas Times at 2022-09-27 05:55:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-19T05:49:32.940985-05:00.jpg">September 19 at 5:49 AM</a></p>
+ <p><a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-27T05:55:44.144128-05:00.jpg">September 27 at 5:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-18T17:49:17.442356-05:00.jpg">
-  <img src="https://archive.org/download/arktimes-2022/arktimes-2022-09-18T17:49:17.442356-05:00.jpg"
-     alt="Arkansas Times at 2022-09-18 17:49:20-05:00 local time"
+ <a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-26T17:53:00.912934-05:00.jpg">
+  <img src="https://archive.org/download/arktimes-2022/arktimes-2022-09-26T17:53:00.912934-05:00.jpg"
+     alt="Arkansas Times at 2022-09-26 17:53:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-18T17:49:17.442356-05:00.jpg">September 18 at 5:49 PM</a></p>
+ <p><a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-26T17:53:00.912934-05:00.jpg">September 26 at 5:53 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-18T05:51:01.201500-05:00.jpg">
-  <img src="https://archive.org/download/arktimes-2022/arktimes-2022-09-18T05:51:01.201500-05:00.jpg"
-     alt="Arkansas Times at 2022-09-18 05:51:03-05:00 local time"
+ <a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-26T05:54:30.760677-05:00.jpg">
+  <img src="https://archive.org/download/arktimes-2022/arktimes-2022-09-26T05:54:30.760677-05:00.jpg"
+     alt="Arkansas Times at 2022-09-26 05:54:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-18T05:51:01.201500-05:00.jpg">September 18 at 5:51 AM</a></p>
+ <p><a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-26T05:54:30.760677-05:00.jpg">September 26 at 5:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-17T17:53:37.476133-05:00.jpg">
-  <img src="https://archive.org/download/arktimes-2022/arktimes-2022-09-17T17:53:37.476133-05:00.jpg"
-     alt="Arkansas Times at 2022-09-17 17:53:39-05:00 local time"
+ <a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-25T17:42:45.340477-05:00.jpg">
+  <img src="https://archive.org/download/arktimes-2022/arktimes-2022-09-25T17:42:45.340477-05:00.jpg"
+     alt="Arkansas Times at 2022-09-25 17:42:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-17T17:53:37.476133-05:00.jpg">September 17 at 5:53 PM</a></p>
+ <p><a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-25T17:42:45.340477-05:00.jpg">September 25 at 5:42 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-17T05:49:40.107461-05:00.jpg">
-  <img src="https://archive.org/download/arktimes-2022/arktimes-2022-09-17T05:49:40.107461-05:00.jpg"
-     alt="Arkansas Times at 2022-09-17 05:49:41-05:00 local time"
+ <a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-25T05:42:01.597949-05:00.jpg">
+  <img src="https://archive.org/download/arktimes-2022/arktimes-2022-09-25T05:42:01.597949-05:00.jpg"
+     alt="Arkansas Times at 2022-09-25 05:42:04-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-17T05:49:40.107461-05:00.jpg">September 17 at 5:49 AM</a></p>
+ <p><a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-25T05:42:01.597949-05:00.jpg">September 25 at 5:42 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-16T17:52:27.941763-05:00.jpg">
-  <img src="https://archive.org/download/arktimes-2022/arktimes-2022-09-16T17:52:27.941763-05:00.jpg"
-     alt="Arkansas Times at 2022-09-16 17:52:29-05:00 local time"
+ <a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-24T17:42:19.084315-05:00.jpg">
+  <img src="https://archive.org/download/arktimes-2022/arktimes-2022-09-24T17:42:19.084315-05:00.jpg"
+     alt="Arkansas Times at 2022-09-24 17:42:21-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-16T17:52:27.941763-05:00.jpg">September 16 at 5:52 PM</a></p>
+ <p><a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-24T17:42:19.084315-05:00.jpg">September 24 at 5:42 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-16T05:51:03.919136-05:00.jpg">
-  <img src="https://archive.org/download/arktimes-2022/arktimes-2022-09-16T05:51:03.919136-05:00.jpg"
-     alt="Arkansas Times at 2022-09-16 05:51:05-05:00 local time"
+ <a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-24T05:44:35.389767-05:00.jpg">
+  <img src="https://archive.org/download/arktimes-2022/arktimes-2022-09-24T05:44:35.389767-05:00.jpg"
+     alt="Arkansas Times at 2022-09-24 05:44:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-16T05:51:03.919136-05:00.jpg">September 16 at 5:51 AM</a></p>
+ <p><a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-24T05:44:35.389767-05:00.jpg">September 24 at 5:44 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-15T17:54:57.852889-05:00.jpg">
-  <img src="https://archive.org/download/arktimes-2022/arktimes-2022-09-15T17:54:57.852889-05:00.jpg"
-     alt="Arkansas Times at 2022-09-15 17:54:59-05:00 local time"
+ <a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-23T18:51:29.264300-05:00.jpg">
+  <img src="https://archive.org/download/arktimes-2022/arktimes-2022-09-23T18:51:29.264300-05:00.jpg"
+     alt="Arkansas Times at 2022-09-23 18:51:30-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-15T17:54:57.852889-05:00.jpg">September 15 at 5:54 PM</a></p>
+ <p><a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-23T18:51:29.264300-05:00.jpg">September 23 at 6:51 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-15T05:55:28.237426-05:00.jpg">
-  <img src="https://archive.org/download/arktimes-2022/arktimes-2022-09-15T05:55:28.237426-05:00.jpg"
-     alt="Arkansas Times at 2022-09-15 05:55:29-05:00 local time"
+ <a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-23T05:48:56.365934-05:00.jpg">
+  <img src="https://archive.org/download/arktimes-2022/arktimes-2022-09-23T05:48:56.365934-05:00.jpg"
+     alt="Arkansas Times at 2022-09-23 05:48:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-15T05:55:28.237426-05:00.jpg">September 15 at 5:55 AM</a></p>
+ <p><a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-23T05:48:56.365934-05:00.jpg">September 23 at 5:48 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-14T18:01:59.792714-05:00.jpg">
-  <img src="https://archive.org/download/arktimes-2022/arktimes-2022-09-14T18:01:59.792714-05:00.jpg"
-     alt="Arkansas Times at 2022-09-14 18:02:00-05:00 local time"
+ <a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-22T17:50:57.662887-05:00.jpg">
+  <img src="https://archive.org/download/arktimes-2022/arktimes-2022-09-22T17:50:57.662887-05:00.jpg"
+     alt="Arkansas Times at 2022-09-22 17:51:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-14T18:01:59.792714-05:00.jpg">September 14 at 6:02 PM</a></p>
+ <p><a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-22T17:50:57.662887-05:00.jpg">September 22 at 5:51 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-14T05:55:09.543337-05:00.jpg">
-  <img src="https://archive.org/download/arktimes-2022/arktimes-2022-09-14T05:55:09.543337-05:00.jpg"
-     alt="Arkansas Times at 2022-09-14 05:55:11-05:00 local time"
+ <a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-22T05:51:47.471287-05:00.jpg">
+  <img src="https://archive.org/download/arktimes-2022/arktimes-2022-09-22T05:51:47.471287-05:00.jpg"
+     alt="Arkansas Times at 2022-09-22 05:51:50-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-14T05:55:09.543337-05:00.jpg">September 14 at 5:55 AM</a></p>
+ <p><a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-22T05:51:47.471287-05:00.jpg">September 22 at 5:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-13T17:59:26.547411-05:00.jpg">
-  <img src="https://archive.org/download/arktimes-2022/arktimes-2022-09-13T17:59:26.547411-05:00.jpg"
-     alt="Arkansas Times at 2022-09-13 17:59:28-05:00 local time"
+ <a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-21T17:57:03.415686-05:00.jpg">
+  <img src="https://archive.org/download/arktimes-2022/arktimes-2022-09-21T17:57:03.415686-05:00.jpg"
+     alt="Arkansas Times at 2022-09-21 17:57:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-13T17:59:26.547411-05:00.jpg">September 13 at 5:59 PM</a></p>
+ <p><a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-21T17:57:03.415686-05:00.jpg">September 21 at 5:57 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 15 hyperlink lists with the Internet Archive.
+The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/arktimes.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 5:49 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-19T05:49:32.940985-05:00.hyperlinks.json) |
-| [September 18 at 5:49 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-18T17:49:17.442356-05:00.hyperlinks.json) |
-| [September 18 at 5:51 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-18T05:51:01.201500-05:00.hyperlinks.json) |
-| [September 17 at 5:53 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-17T17:53:37.476133-05:00.hyperlinks.json) |
-| [September 17 at 5:49 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-17T05:49:40.107461-05:00.hyperlinks.json) |
-| [September 16 at 5:52 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-16T17:52:27.941763-05:00.hyperlinks.json) |
-| [September 16 at 5:51 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-16T05:51:03.919136-05:00.hyperlinks.json) |
-| [September 15 at 5:55 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-15T17:54:57.852889-05:00.hyperlinks.json) |
-| [September 15 at 5:55 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-15T05:55:28.237426-05:00.hyperlinks.json) |
-| [September 14 at 6:02 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-14T18:01:59.792714-05:00.hyperlinks.json) |
+| [September 27 at 5:55 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-27T05:55:44.144128-05:00.hyperlinks.json) |
+| [September 26 at 5:53 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-26T17:53:00.912934-05:00.hyperlinks.json) |
+| [September 26 at 5:54 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-26T05:54:30.760677-05:00.hyperlinks.json) |
+| [September 25 at 5:42 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-25T17:42:45.340477-05:00.hyperlinks.json) |
+| [September 25 at 5:42 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-25T05:42:01.597949-05:00.hyperlinks.json) |
+| [September 24 at 5:42 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-24T17:42:19.084315-05:00.hyperlinks.json) |
+| [September 24 at 5:44 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-24T05:44:35.389767-05:00.hyperlinks.json) |
+| [September 23 at 6:51 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-23T18:51:29.264300-05:00.hyperlinks.json) |
+| [September 23 at 5:49 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-23T05:48:56.365934-05:00.hyperlinks.json) |
+| [September 22 at 5:51 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-22T17:50:57.662887-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 15 accessibility trees with the Internet Archive.
+The archiving routine has saved 32 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/arktimes.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 5:49 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-19T05:49:32.940985-05:00.accessibility.json) |
-| [September 18 at 5:49 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-18T17:49:17.442356-05:00.accessibility.json) |
-| [September 18 at 5:51 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-18T05:51:01.201500-05:00.accessibility.json) |
-| [September 17 at 5:53 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-17T17:53:37.476133-05:00.accessibility.json) |
-| [September 17 at 5:49 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-17T05:49:40.107461-05:00.accessibility.json) |
-| [September 16 at 5:52 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-16T17:52:27.941763-05:00.accessibility.json) |
-| [September 16 at 5:51 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-16T05:51:03.919136-05:00.accessibility.json) |
-| [September 15 at 5:55 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-15T17:54:57.852889-05:00.accessibility.json) |
-| [September 15 at 5:55 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-15T05:55:28.237426-05:00.accessibility.json) |
-| [September 14 at 6:02 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-14T18:01:59.792714-05:00.accessibility.json) |
+| [September 27 at 5:55 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-27T05:55:44.144128-05:00.accessibility.json) |
+| [September 26 at 5:53 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-26T17:53:00.912934-05:00.accessibility.json) |
+| [September 26 at 5:54 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-26T05:54:30.760677-05:00.accessibility.json) |
+| [September 25 at 5:42 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-25T17:42:45.340477-05:00.accessibility.json) |
+| [September 25 at 5:42 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-25T05:42:01.597949-05:00.accessibility.json) |
+| [September 24 at 5:42 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-24T17:42:19.084315-05:00.accessibility.json) |
+| [September 24 at 5:44 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-24T05:44:35.389767-05:00.accessibility.json) |
+| [September 23 at 6:51 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-23T18:51:29.264300-05:00.accessibility.json) |
+| [September 23 at 5:49 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-23T05:48:56.365934-05:00.accessibility.json) |
+| [September 22 at 5:51 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-22T17:50:57.662887-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/arktimes.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 5:49 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-19T05:49:32.940985-05:00.lighthouse.json) |
-| [September 18 at 5:49 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-18T17:49:17.442356-05:00.lighthouse.json) |
-| [September 18 at 5:51 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-18T05:51:01.201500-05:00.lighthouse.json) |
-| [September 17 at 5:53 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-17T17:53:37.476133-05:00.lighthouse.json) |
-| [September 17 at 5:49 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-17T05:49:40.107461-05:00.lighthouse.json) |
-| [September 16 at 5:52 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-16T17:52:27.941763-05:00.lighthouse.json) |
-| [September 16 at 5:51 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-16T05:51:03.919136-05:00.lighthouse.json) |
-| [September 15 at 5:55 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-15T17:54:57.852889-05:00.lighthouse.json) |
-| [September 15 at 5:55 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-15T05:55:28.237426-05:00.lighthouse.json) |
-| [September 14 at 6:02 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-14T18:01:59.792714-05:00.lighthouse.json) |
+| [September 27 at 5:55 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-27T05:55:44.144128-05:00.lighthouse.json) |
+| [September 26 at 5:53 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-26T17:53:00.912934-05:00.lighthouse.json) |
+| [September 26 at 5:54 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-26T05:54:30.760677-05:00.lighthouse.json) |
+| [September 25 at 5:42 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-25T17:42:45.340477-05:00.lighthouse.json) |
+| [September 25 at 5:42 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-25T05:42:01.597949-05:00.lighthouse.json) |
+| [September 24 at 5:42 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-24T17:42:19.084315-05:00.lighthouse.json) |
+| [September 24 at 5:44 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-24T05:44:35.389767-05:00.lighthouse.json) |
+| [September 23 at 6:51 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-23T18:51:29.264300-05:00.lighthouse.json) |
+| [September 23 at 5:49 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-23T05:48:56.365934-05:00.lighthouse.json) |
+| [September 22 at 5:51 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-22T17:50:57.662887-05:00.lighthouse.json) |
 
 
 

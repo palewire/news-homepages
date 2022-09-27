@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 215 screenshots with the Internet Archive.
+The archiving routine has saved 238 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/asahi-2022/asahi-2022-09-19T23:57:31.404595+09:00.jpg">
-  <img src="https://archive.org/download/asahi-2022/asahi-2022-09-19T23:57:31.404595+09:00.jpg"
-     alt="Asahi Shimbun at 2022-09-19 23:57:32+09:00 local time"
+ <a href="https://archive.org/download/asahi-2022/asahi-2022-09-27T13:28:31.531865+09:00.jpg">
+  <img src="https://archive.org/download/asahi-2022/asahi-2022-09-27T13:28:31.531865+09:00.jpg"
+     alt="Asahi Shimbun at 2022-09-27 13:28:33+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/asahi-2022/asahi-2022-09-19T23:57:31.404595+09:00.jpg">September 19 at 11:57 PM</a></p>
+ <p><a href="https://archive.org/download/asahi-2022/asahi-2022-09-27T13:28:31.531865+09:00.jpg">September 27 at 1:28 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/asahi-2022/asahi-2022-09-19T12:40:33.108586+09:00.jpg">
-  <img src="https://archive.org/download/asahi-2022/asahi-2022-09-19T12:40:33.108586+09:00.jpg"
-     alt="Asahi Shimbun at 2022-09-19 12:40:34+09:00 local time"
+ <a href="https://archive.org/download/asahi-2022/asahi-2022-09-27T11:10:25.770456+09:00.jpg">
+  <img src="https://archive.org/download/asahi-2022/asahi-2022-09-27T11:10:25.770456+09:00.jpg"
+     alt="Asahi Shimbun at 2022-09-27 11:10:27+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/asahi-2022/asahi-2022-09-19T12:40:33.108586+09:00.jpg">September 19 at 12:40 PM</a></p>
+ <p><a href="https://archive.org/download/asahi-2022/asahi-2022-09-27T11:10:25.770456+09:00.jpg">September 27 at 11:10 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/asahi-2022/asahi-2022-09-19T11:15:30.298391+09:00.jpg">
-  <img src="https://archive.org/download/asahi-2022/asahi-2022-09-19T11:15:30.298391+09:00.jpg"
-     alt="Asahi Shimbun at 2022-09-19 11:15:42+09:00 local time"
+ <a href="https://archive.org/download/asahi-2022/asahi-2022-09-27T01:05:11.249583+09:00.jpg">
+  <img src="https://archive.org/download/asahi-2022/asahi-2022-09-27T01:05:11.249583+09:00.jpg"
+     alt="Asahi Shimbun at 2022-09-27 01:05:13+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/asahi-2022/asahi-2022-09-19T11:15:30.298391+09:00.jpg">September 19 at 11:15 AM</a></p>
+ <p><a href="https://archive.org/download/asahi-2022/asahi-2022-09-27T01:05:11.249583+09:00.jpg">September 27 at 1:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/asahi-2022/asahi-2022-09-18T22:59:06.182899+09:00.jpg">
-  <img src="https://archive.org/download/asahi-2022/asahi-2022-09-18T22:59:06.182899+09:00.jpg"
-     alt="Asahi Shimbun at 2022-09-18 22:59:08+09:00 local time"
+ <a href="https://archive.org/download/asahi-2022/asahi-2022-09-26T13:41:41.036980+09:00.jpg">
+  <img src="https://archive.org/download/asahi-2022/asahi-2022-09-26T13:41:41.036980+09:00.jpg"
+     alt="Asahi Shimbun at 2022-09-26 13:41:43+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/asahi-2022/asahi-2022-09-18T22:59:06.182899+09:00.jpg">September 18 at 10:59 PM</a></p>
+ <p><a href="https://archive.org/download/asahi-2022/asahi-2022-09-26T13:41:41.036980+09:00.jpg">September 26 at 1:41 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/asahi-2022/asahi-2022-09-18T11:25:27.964794+09:00.jpg">
-  <img src="https://archive.org/download/asahi-2022/asahi-2022-09-18T11:25:27.964794+09:00.jpg"
-     alt="Asahi Shimbun at 2022-09-18 11:25:29+09:00 local time"
+ <a href="https://archive.org/download/asahi-2022/asahi-2022-09-26T11:12:41.212735+09:00.jpg">
+  <img src="https://archive.org/download/asahi-2022/asahi-2022-09-26T11:12:41.212735+09:00.jpg"
+     alt="Asahi Shimbun at 2022-09-26 11:13:09+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/asahi-2022/asahi-2022-09-18T11:25:27.964794+09:00.jpg">September 18 at 11:25 AM</a></p>
+ <p><a href="https://archive.org/download/asahi-2022/asahi-2022-09-26T11:12:41.212735+09:00.jpg">September 26 at 11:13 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/asahi-2022/asahi-2022-09-18T11:20:29.914216+09:00.jpg">
-  <img src="https://archive.org/download/asahi-2022/asahi-2022-09-18T11:20:29.914216+09:00.jpg"
-     alt="Asahi Shimbun at 2022-09-18 11:20:36+09:00 local time"
+ <a href="https://archive.org/download/asahi-2022/asahi-2022-09-26T00:51:24.689137+09:00.jpg">
+  <img src="https://archive.org/download/asahi-2022/asahi-2022-09-26T00:51:24.689137+09:00.jpg"
+     alt="Asahi Shimbun at 2022-09-26 00:51:38+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/asahi-2022/asahi-2022-09-18T11:20:29.914216+09:00.jpg">September 18 at 11:20 AM</a></p>
+ <p><a href="https://archive.org/download/asahi-2022/asahi-2022-09-26T00:51:24.689137+09:00.jpg">September 26 at 12:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/asahi-2022/asahi-2022-09-17T22:57:36.332449+09:00.jpg">
-  <img src="https://archive.org/download/asahi-2022/asahi-2022-09-17T22:57:36.332449+09:00.jpg"
-     alt="Asahi Shimbun at 2022-09-17 22:57:37+09:00 local time"
+ <a href="https://archive.org/download/asahi-2022/asahi-2022-09-25T13:27:59.561387+09:00.jpg">
+  <img src="https://archive.org/download/asahi-2022/asahi-2022-09-25T13:27:59.561387+09:00.jpg"
+     alt="Asahi Shimbun at 2022-09-25 13:28:07+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/asahi-2022/asahi-2022-09-17T22:57:36.332449+09:00.jpg">September 17 at 10:57 PM</a></p>
+ <p><a href="https://archive.org/download/asahi-2022/asahi-2022-09-25T13:27:59.561387+09:00.jpg">September 25 at 1:28 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/asahi-2022/asahi-2022-09-17T11:22:32.628485+09:00.jpg">
-  <img src="https://archive.org/download/asahi-2022/asahi-2022-09-17T11:22:32.628485+09:00.jpg"
-     alt="Asahi Shimbun at 2022-09-17 11:22:34+09:00 local time"
+ <a href="https://archive.org/download/asahi-2022/asahi-2022-09-25T11:07:10.395291+09:00.jpg">
+  <img src="https://archive.org/download/asahi-2022/asahi-2022-09-25T11:07:10.395291+09:00.jpg"
+     alt="Asahi Shimbun at 2022-09-25 11:07:12+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/asahi-2022/asahi-2022-09-17T11:22:32.628485+09:00.jpg">September 17 at 11:22 AM</a></p>
+ <p><a href="https://archive.org/download/asahi-2022/asahi-2022-09-25T11:07:10.395291+09:00.jpg">September 25 at 11:07 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/asahi-2022/asahi-2022-09-17T11:18:35.464507+09:00.jpg">
-  <img src="https://archive.org/download/asahi-2022/asahi-2022-09-17T11:18:35.464507+09:00.jpg"
-     alt="Asahi Shimbun at 2022-09-17 11:18:37+09:00 local time"
+ <a href="https://archive.org/download/asahi-2022/asahi-2022-09-25T00:49:11.393001+09:00.jpg">
+  <img src="https://archive.org/download/asahi-2022/asahi-2022-09-25T00:49:11.393001+09:00.jpg"
+     alt="Asahi Shimbun at 2022-09-25 00:49:12+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/asahi-2022/asahi-2022-09-17T11:18:35.464507+09:00.jpg">September 17 at 11:18 AM</a></p>
+ <p><a href="https://archive.org/download/asahi-2022/asahi-2022-09-25T00:49:11.393001+09:00.jpg">September 25 at 12:49 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/asahi-2022/asahi-2022-09-16T23:04:08.533312+09:00.jpg">
-  <img src="https://archive.org/download/asahi-2022/asahi-2022-09-16T23:04:08.533312+09:00.jpg"
-     alt="Asahi Shimbun at 2022-09-16 23:04:10+09:00 local time"
+ <a href="https://archive.org/download/asahi-2022/asahi-2022-09-24T13:29:34.383985+09:00.jpg">
+  <img src="https://archive.org/download/asahi-2022/asahi-2022-09-24T13:29:34.383985+09:00.jpg"
+     alt="Asahi Shimbun at 2022-09-24 13:29:36+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/asahi-2022/asahi-2022-09-16T23:04:08.533312+09:00.jpg">September 16 at 11:04 PM</a></p>
+ <p><a href="https://archive.org/download/asahi-2022/asahi-2022-09-24T13:29:34.383985+09:00.jpg">September 24 at 1:29 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/asahi-2022/asahi-2022-09-16T11:23:25.429218+09:00.jpg">
-  <img src="https://archive.org/download/asahi-2022/asahi-2022-09-16T11:23:25.429218+09:00.jpg"
-     alt="Asahi Shimbun at 2022-09-16 11:23:27+09:00 local time"
+ <a href="https://archive.org/download/asahi-2022/asahi-2022-09-24T11:11:57.428942+09:00.jpg">
+  <img src="https://archive.org/download/asahi-2022/asahi-2022-09-24T11:11:57.428942+09:00.jpg"
+     alt="Asahi Shimbun at 2022-09-24 11:12:06+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/asahi-2022/asahi-2022-09-16T11:23:25.429218+09:00.jpg">September 16 at 11:23 AM</a></p>
+ <p><a href="https://archive.org/download/asahi-2022/asahi-2022-09-24T11:11:57.428942+09:00.jpg">September 24 at 11:12 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/asahi-2022/asahi-2022-09-16T11:19:50.921680+09:00.jpg">
-  <img src="https://archive.org/download/asahi-2022/asahi-2022-09-16T11:19:50.921680+09:00.jpg"
-     alt="Asahi Shimbun at 2022-09-16 11:19:53+09:00 local time"
+ <a href="https://archive.org/download/asahi-2022/asahi-2022-09-24T00:57:34.266270+09:00.jpg">
+  <img src="https://archive.org/download/asahi-2022/asahi-2022-09-24T00:57:34.266270+09:00.jpg"
+     alt="Asahi Shimbun at 2022-09-24 00:57:36+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/asahi-2022/asahi-2022-09-16T11:19:50.921680+09:00.jpg">September 16 at 11:19 AM</a></p>
+ <p><a href="https://archive.org/download/asahi-2022/asahi-2022-09-24T00:57:34.266270+09:00.jpg">September 24 at 12:57 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 171 hyperlink lists with the Internet Archive.
+The archiving routine has saved 194 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 11:57 PM](https://archive.org/download/asahi-2022/asahi-2022-09-19T23:57:31.404595+09:00.hyperlinks.json) |
-| [September 19 at 12:40 PM](https://archive.org/download/asahi-2022/asahi-2022-09-19T12:40:33.108586+09:00.hyperlinks.json) |
-| [September 19 at 11:15 AM](https://archive.org/download/asahi-2022/asahi-2022-09-19T11:15:30.298391+09:00.hyperlinks.json) |
-| [September 18 at 10:59 PM](https://archive.org/download/asahi-2022/asahi-2022-09-18T22:59:06.182899+09:00.hyperlinks.json) |
-| [September 18 at 11:25 AM](https://archive.org/download/asahi-2022/asahi-2022-09-18T11:25:27.964794+09:00.hyperlinks.json) |
-| [September 18 at 11:20 AM](https://archive.org/download/asahi-2022/asahi-2022-09-18T11:20:29.914216+09:00.hyperlinks.json) |
-| [September 17 at 10:57 PM](https://archive.org/download/asahi-2022/asahi-2022-09-17T22:57:36.332449+09:00.hyperlinks.json) |
-| [September 17 at 11:22 AM](https://archive.org/download/asahi-2022/asahi-2022-09-17T11:22:32.628485+09:00.hyperlinks.json) |
-| [September 17 at 11:18 AM](https://archive.org/download/asahi-2022/asahi-2022-09-17T11:18:35.464507+09:00.hyperlinks.json) |
-| [September 16 at 11:04 PM](https://archive.org/download/asahi-2022/asahi-2022-09-16T23:04:08.533312+09:00.hyperlinks.json) |
+| [September 27 at 1:28 PM](https://archive.org/download/asahi-2022/asahi-2022-09-27T13:28:31.531865+09:00.hyperlinks.json) |
+| [September 27 at 11:10 AM](https://archive.org/download/asahi-2022/asahi-2022-09-27T11:10:25.770456+09:00.hyperlinks.json) |
+| [September 27 at 1:05 AM](https://archive.org/download/asahi-2022/asahi-2022-09-27T01:05:11.249583+09:00.hyperlinks.json) |
+| [September 26 at 1:41 PM](https://archive.org/download/asahi-2022/asahi-2022-09-26T13:41:41.036980+09:00.hyperlinks.json) |
+| [September 26 at 11:13 AM](https://archive.org/download/asahi-2022/asahi-2022-09-26T11:12:41.212735+09:00.hyperlinks.json) |
+| [September 26 at 12:51 AM](https://archive.org/download/asahi-2022/asahi-2022-09-26T00:51:24.689137+09:00.hyperlinks.json) |
+| [September 25 at 1:28 PM](https://archive.org/download/asahi-2022/asahi-2022-09-25T13:27:59.561387+09:00.hyperlinks.json) |
+| [September 25 at 11:07 AM](https://archive.org/download/asahi-2022/asahi-2022-09-25T11:07:10.395291+09:00.hyperlinks.json) |
+| [September 25 at 12:49 AM](https://archive.org/download/asahi-2022/asahi-2022-09-25T00:49:11.393001+09:00.hyperlinks.json) |
+| [September 24 at 1:29 PM](https://archive.org/download/asahi-2022/asahi-2022-09-24T13:29:34.383985+09:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 177 accessibility trees with the Internet Archive.
+The archiving routine has saved 200 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 11:57 PM](https://archive.org/download/asahi-2022/asahi-2022-09-19T23:57:31.404595+09:00.accessibility.json) |
-| [September 19 at 12:40 PM](https://archive.org/download/asahi-2022/asahi-2022-09-19T12:40:33.108586+09:00.accessibility.json) |
-| [September 19 at 11:15 AM](https://archive.org/download/asahi-2022/asahi-2022-09-19T11:15:30.298391+09:00.accessibility.json) |
-| [September 18 at 10:59 PM](https://archive.org/download/asahi-2022/asahi-2022-09-18T22:59:06.182899+09:00.accessibility.json) |
-| [September 18 at 11:25 AM](https://archive.org/download/asahi-2022/asahi-2022-09-18T11:25:27.964794+09:00.accessibility.json) |
-| [September 18 at 11:20 AM](https://archive.org/download/asahi-2022/asahi-2022-09-18T11:20:29.914216+09:00.accessibility.json) |
-| [September 17 at 10:57 PM](https://archive.org/download/asahi-2022/asahi-2022-09-17T22:57:36.332449+09:00.accessibility.json) |
-| [September 17 at 11:22 AM](https://archive.org/download/asahi-2022/asahi-2022-09-17T11:22:32.628485+09:00.accessibility.json) |
-| [September 17 at 11:18 AM](https://archive.org/download/asahi-2022/asahi-2022-09-17T11:18:35.464507+09:00.accessibility.json) |
-| [September 16 at 11:04 PM](https://archive.org/download/asahi-2022/asahi-2022-09-16T23:04:08.533312+09:00.accessibility.json) |
+| [September 27 at 1:28 PM](https://archive.org/download/asahi-2022/asahi-2022-09-27T13:28:31.531865+09:00.accessibility.json) |
+| [September 27 at 11:10 AM](https://archive.org/download/asahi-2022/asahi-2022-09-27T11:10:25.770456+09:00.accessibility.json) |
+| [September 27 at 1:05 AM](https://archive.org/download/asahi-2022/asahi-2022-09-27T01:05:11.249583+09:00.accessibility.json) |
+| [September 26 at 1:41 PM](https://archive.org/download/asahi-2022/asahi-2022-09-26T13:41:41.036980+09:00.accessibility.json) |
+| [September 26 at 11:13 AM](https://archive.org/download/asahi-2022/asahi-2022-09-26T11:12:41.212735+09:00.accessibility.json) |
+| [September 26 at 12:51 AM](https://archive.org/download/asahi-2022/asahi-2022-09-26T00:51:24.689137+09:00.accessibility.json) |
+| [September 25 at 1:28 PM](https://archive.org/download/asahi-2022/asahi-2022-09-25T13:27:59.561387+09:00.accessibility.json) |
+| [September 25 at 11:07 AM](https://archive.org/download/asahi-2022/asahi-2022-09-25T11:07:10.395291+09:00.accessibility.json) |
+| [September 25 at 12:49 AM](https://archive.org/download/asahi-2022/asahi-2022-09-25T00:49:11.393001+09:00.accessibility.json) |
+| [September 24 at 1:29 PM](https://archive.org/download/asahi-2022/asahi-2022-09-24T13:29:34.383985+09:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 171 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 194 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 11:57 PM](https://archive.org/download/asahi-2022/asahi-2022-09-19T23:57:31.404595+09:00.lighthouse.json) |
-| [September 19 at 12:40 PM](https://archive.org/download/asahi-2022/asahi-2022-09-19T12:40:33.108586+09:00.lighthouse.json) |
-| [September 19 at 11:15 AM](https://archive.org/download/asahi-2022/asahi-2022-09-19T11:15:30.298391+09:00.lighthouse.json) |
-| [September 18 at 10:59 PM](https://archive.org/download/asahi-2022/asahi-2022-09-18T22:59:06.182899+09:00.lighthouse.json) |
-| [September 18 at 11:25 AM](https://archive.org/download/asahi-2022/asahi-2022-09-18T11:25:27.964794+09:00.lighthouse.json) |
-| [September 18 at 11:20 AM](https://archive.org/download/asahi-2022/asahi-2022-09-18T11:20:29.914216+09:00.lighthouse.json) |
-| [September 17 at 10:57 PM](https://archive.org/download/asahi-2022/asahi-2022-09-17T22:57:36.332449+09:00.lighthouse.json) |
-| [September 17 at 11:22 AM](https://archive.org/download/asahi-2022/asahi-2022-09-17T11:22:32.628485+09:00.lighthouse.json) |
-| [September 17 at 11:18 AM](https://archive.org/download/asahi-2022/asahi-2022-09-17T11:18:35.464507+09:00.lighthouse.json) |
-| [September 16 at 11:04 PM](https://archive.org/download/asahi-2022/asahi-2022-09-16T23:04:08.533312+09:00.lighthouse.json) |
+| [September 27 at 1:28 PM](https://archive.org/download/asahi-2022/asahi-2022-09-27T13:28:31.531865+09:00.lighthouse.json) |
+| [September 27 at 11:10 AM](https://archive.org/download/asahi-2022/asahi-2022-09-27T11:10:25.770456+09:00.lighthouse.json) |
+| [September 27 at 1:05 AM](https://archive.org/download/asahi-2022/asahi-2022-09-27T01:05:11.249583+09:00.lighthouse.json) |
+| [September 26 at 1:41 PM](https://archive.org/download/asahi-2022/asahi-2022-09-26T13:41:41.036980+09:00.lighthouse.json) |
+| [September 26 at 11:13 AM](https://archive.org/download/asahi-2022/asahi-2022-09-26T11:12:41.212735+09:00.lighthouse.json) |
+| [September 26 at 12:51 AM](https://archive.org/download/asahi-2022/asahi-2022-09-26T00:51:24.689137+09:00.lighthouse.json) |
+| [September 25 at 1:28 PM](https://archive.org/download/asahi-2022/asahi-2022-09-25T13:27:59.561387+09:00.lighthouse.json) |
+| [September 25 at 11:07 AM](https://archive.org/download/asahi-2022/asahi-2022-09-25T11:07:10.395291+09:00.lighthouse.json) |
+| [September 25 at 12:49 AM](https://archive.org/download/asahi-2022/asahi-2022-09-25T00:49:11.393001+09:00.lighthouse.json) |
+| [September 24 at 1:29 PM](https://archive.org/download/asahi-2022/asahi-2022-09-24T13:29:34.383985+09:00.lighthouse.json) |
 
 
 

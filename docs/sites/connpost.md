@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 12 screenshots with the Internet Archive.
+The archiving routine has saved 28 screenshots with the Internet Archive.
 
 
 
@@ -37,118 +37,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/connpost-2022/connpost-2022-09-19T10:59:07.699729-04:00.jpg">
-  <img src="https://archive.org/download/connpost-2022/connpost-2022-09-19T10:59:07.699729-04:00.jpg"
-     alt="Connecticut Post at 2022-09-19 10:59:09-04:00 local time"
+ <a href="https://archive.org/download/connpost-2022/connpost-2022-09-27T02:56:57.610443-04:00.jpg">
+  <img src="https://archive.org/download/connpost-2022/connpost-2022-09-27T02:56:57.610443-04:00.jpg"
+     alt="Connecticut Post at 2022-09-27 02:57:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/connpost-2022/connpost-2022-09-19T10:59:07.699729-04:00.jpg">September 19 at 10:59 AM</a></p>
+ <p><a href="https://archive.org/download/connpost-2022/connpost-2022-09-27T02:56:57.610443-04:00.jpg">September 27 at 2:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/connpost-2022/connpost-2022-09-18T23:42:13.707201-04:00.jpg">
-  <img src="https://archive.org/download/connpost-2022/connpost-2022-09-18T23:42:13.707201-04:00.jpg"
-     alt="Connecticut Post at 2022-09-18 23:42:15-04:00 local time"
+ <a href="https://archive.org/download/connpost-2022/connpost-2022-09-26T13:35:25.097470-04:00.jpg">
+  <img src="https://archive.org/download/connpost-2022/connpost-2022-09-26T13:35:25.097470-04:00.jpg"
+     alt="Connecticut Post at 2022-09-26 13:35:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/connpost-2022/connpost-2022-09-18T23:42:13.707201-04:00.jpg">September 18 at 11:42 PM</a></p>
+ <p><a href="https://archive.org/download/connpost-2022/connpost-2022-09-26T13:35:25.097470-04:00.jpg">September 26 at 1:35 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/connpost-2022/connpost-2022-09-18T10:51:52.755477-04:00.jpg">
-  <img src="https://archive.org/download/connpost-2022/connpost-2022-09-18T10:51:52.755477-04:00.jpg"
-     alt="Connecticut Post at 2022-09-18 10:51:54-04:00 local time"
+ <a href="https://archive.org/download/connpost-2022/connpost-2022-09-26T02:07:50.396688-04:00.jpg">
+  <img src="https://archive.org/download/connpost-2022/connpost-2022-09-26T02:07:50.396688-04:00.jpg"
+     alt="Connecticut Post at 2022-09-26 02:07:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/connpost-2022/connpost-2022-09-18T10:51:52.755477-04:00.jpg">September 18 at 10:51 AM</a></p>
+ <p><a href="https://archive.org/download/connpost-2022/connpost-2022-09-26T02:07:50.396688-04:00.jpg">September 26 at 2:07 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/connpost-2022/connpost-2022-09-17T23:45:26.862891-04:00.jpg">
-  <img src="https://archive.org/download/connpost-2022/connpost-2022-09-17T23:45:26.862891-04:00.jpg"
-     alt="Connecticut Post at 2022-09-17 23:45:28-04:00 local time"
+ <a href="https://archive.org/download/connpost-2022/connpost-2022-09-25T13:16:57.742285-04:00.jpg">
+  <img src="https://archive.org/download/connpost-2022/connpost-2022-09-25T13:16:57.742285-04:00.jpg"
+     alt="Connecticut Post at 2022-09-25 13:17:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/connpost-2022/connpost-2022-09-17T23:45:26.862891-04:00.jpg">September 17 at 11:45 PM</a></p>
+ <p><a href="https://archive.org/download/connpost-2022/connpost-2022-09-25T13:16:57.742285-04:00.jpg">September 25 at 1:17 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/connpost-2022/connpost-2022-09-17T10:48:49.395882-04:00.jpg">
-  <img src="https://archive.org/download/connpost-2022/connpost-2022-09-17T10:48:49.395882-04:00.jpg"
-     alt="Connecticut Post at 2022-09-17 10:48:51-04:00 local time"
+ <a href="https://archive.org/download/connpost-2022/connpost-2022-09-25T01:43:27.037346-04:00.jpg">
+  <img src="https://archive.org/download/connpost-2022/connpost-2022-09-25T01:43:27.037346-04:00.jpg"
+     alt="Connecticut Post at 2022-09-25 01:43:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/connpost-2022/connpost-2022-09-17T10:48:49.395882-04:00.jpg">September 17 at 10:48 AM</a></p>
+ <p><a href="https://archive.org/download/connpost-2022/connpost-2022-09-25T01:43:27.037346-04:00.jpg">September 25 at 1:43 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/connpost-2022/connpost-2022-09-16T23:39:22.598974-04:00.jpg">
-  <img src="https://archive.org/download/connpost-2022/connpost-2022-09-16T23:39:22.598974-04:00.jpg"
-     alt="Connecticut Post at 2022-09-16 23:39:24-04:00 local time"
+ <a href="https://archive.org/download/connpost-2022/connpost-2022-09-24T13:15:59.804489-04:00.jpg">
+  <img src="https://archive.org/download/connpost-2022/connpost-2022-09-24T13:15:59.804489-04:00.jpg"
+     alt="Connecticut Post at 2022-09-24 13:16:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/connpost-2022/connpost-2022-09-16T23:39:22.598974-04:00.jpg">September 16 at 11:39 PM</a></p>
+ <p><a href="https://archive.org/download/connpost-2022/connpost-2022-09-24T13:15:59.804489-04:00.jpg">September 24 at 1:16 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/connpost-2022/connpost-2022-09-16T10:58:39.630067-04:00.jpg">
-  <img src="https://archive.org/download/connpost-2022/connpost-2022-09-16T10:58:39.630067-04:00.jpg"
-     alt="Connecticut Post at 2022-09-16 10:58:40-04:00 local time"
+ <a href="https://archive.org/download/connpost-2022/connpost-2022-09-24T01:43:08.208912-04:00.jpg">
+  <img src="https://archive.org/download/connpost-2022/connpost-2022-09-24T01:43:08.208912-04:00.jpg"
+     alt="Connecticut Post at 2022-09-24 01:43:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/connpost-2022/connpost-2022-09-16T10:58:39.630067-04:00.jpg">September 16 at 10:58 AM</a></p>
+ <p><a href="https://archive.org/download/connpost-2022/connpost-2022-09-24T01:43:08.208912-04:00.jpg">September 24 at 1:43 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/connpost-2022/connpost-2022-09-15T23:46:38.609846-04:00.jpg">
-  <img src="https://archive.org/download/connpost-2022/connpost-2022-09-15T23:46:38.609846-04:00.jpg"
-     alt="Connecticut Post at 2022-09-15 23:46:40-04:00 local time"
+ <a href="https://archive.org/download/connpost-2022/connpost-2022-09-23T13:29:47.445586-04:00.jpg">
+  <img src="https://archive.org/download/connpost-2022/connpost-2022-09-23T13:29:47.445586-04:00.jpg"
+     alt="Connecticut Post at 2022-09-23 13:29:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/connpost-2022/connpost-2022-09-15T23:46:38.609846-04:00.jpg">September 15 at 11:46 PM</a></p>
+ <p><a href="https://archive.org/download/connpost-2022/connpost-2022-09-23T13:29:47.445586-04:00.jpg">September 23 at 1:29 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/connpost-2022/connpost-2022-09-15T12:08:43.327832-04:00.jpg">
-  <img src="https://archive.org/download/connpost-2022/connpost-2022-09-15T12:08:43.327832-04:00.jpg"
-     alt="Connecticut Post at 2022-09-15 12:08:45-04:00 local time"
+ <a href="https://archive.org/download/connpost-2022/connpost-2022-09-23T03:10:41.514552-04:00.jpg">
+  <img src="https://archive.org/download/connpost-2022/connpost-2022-09-23T03:10:41.514552-04:00.jpg"
+     alt="Connecticut Post at 2022-09-23 03:10:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/connpost-2022/connpost-2022-09-15T12:08:43.327832-04:00.jpg">September 15 at 12:08 PM</a></p>
+ <p><a href="https://archive.org/download/connpost-2022/connpost-2022-09-23T03:10:41.514552-04:00.jpg">September 23 at 3:10 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/connpost-2022/connpost-2022-09-14T23:46:20.883887-04:00.jpg">
-  <img src="https://archive.org/download/connpost-2022/connpost-2022-09-14T23:46:20.883887-04:00.jpg"
-     alt="Connecticut Post at 2022-09-14 23:46:23-04:00 local time"
+ <a href="https://archive.org/download/connpost-2022/connpost-2022-09-22T13:29:18.738584-04:00.jpg">
+  <img src="https://archive.org/download/connpost-2022/connpost-2022-09-22T13:29:18.738584-04:00.jpg"
+     alt="Connecticut Post at 2022-09-22 13:29:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/connpost-2022/connpost-2022-09-14T23:46:20.883887-04:00.jpg">September 14 at 11:46 PM</a></p>
+ <p><a href="https://archive.org/download/connpost-2022/connpost-2022-09-22T13:29:18.738584-04:00.jpg">September 22 at 1:29 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/connpost-2022/connpost-2022-09-14T11:09:21.584354-04:00.jpg">
-  <img src="https://archive.org/download/connpost-2022/connpost-2022-09-14T11:09:21.584354-04:00.jpg"
-     alt="Connecticut Post at 2022-09-14 11:09:23-04:00 local time"
+ <a href="https://archive.org/download/connpost-2022/connpost-2022-09-22T01:57:55.524094-04:00.jpg">
+  <img src="https://archive.org/download/connpost-2022/connpost-2022-09-22T01:57:55.524094-04:00.jpg"
+     alt="Connecticut Post at 2022-09-22 01:57:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/connpost-2022/connpost-2022-09-14T11:09:21.584354-04:00.jpg">September 14 at 11:09 AM</a></p>
+ <p><a href="https://archive.org/download/connpost-2022/connpost-2022-09-22T01:57:55.524094-04:00.jpg">September 22 at 1:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/connpost-2022/connpost-2022-09-13T23:45:10.612174-04:00.jpg">
-  <img src="https://archive.org/download/connpost-2022/connpost-2022-09-13T23:45:10.612174-04:00.jpg"
-     alt="Connecticut Post at 2022-09-13 23:45:16-04:00 local time"
+ <a href="https://archive.org/download/connpost-2022/connpost-2022-09-21T13:30:08.102635-04:00.jpg">
+  <img src="https://archive.org/download/connpost-2022/connpost-2022-09-21T13:30:08.102635-04:00.jpg"
+     alt="Connecticut Post at 2022-09-21 13:30:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/connpost-2022/connpost-2022-09-13T23:45:10.612174-04:00.jpg">September 13 at 11:45 PM</a></p>
+ <p><a href="https://archive.org/download/connpost-2022/connpost-2022-09-21T13:30:08.102635-04:00.jpg">September 21 at 1:30 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 12 hyperlink lists with the Internet Archive.
+The archiving routine has saved 27 hyperlink lists with the Internet Archive.
 
 
 
@@ -156,21 +156,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 10:59 AM](https://archive.org/download/connpost-2022/connpost-2022-09-19T10:59:07.699729-04:00.hyperlinks.json) |
-| [September 18 at 11:42 PM](https://archive.org/download/connpost-2022/connpost-2022-09-18T23:42:13.707201-04:00.hyperlinks.json) |
-| [September 18 at 10:51 AM](https://archive.org/download/connpost-2022/connpost-2022-09-18T10:51:52.755477-04:00.hyperlinks.json) |
-| [September 17 at 11:45 PM](https://archive.org/download/connpost-2022/connpost-2022-09-17T23:45:26.862891-04:00.hyperlinks.json) |
-| [September 17 at 10:48 AM](https://archive.org/download/connpost-2022/connpost-2022-09-17T10:48:49.395882-04:00.hyperlinks.json) |
-| [September 16 at 11:39 PM](https://archive.org/download/connpost-2022/connpost-2022-09-16T23:39:22.598974-04:00.hyperlinks.json) |
-| [September 16 at 10:58 AM](https://archive.org/download/connpost-2022/connpost-2022-09-16T10:58:39.630067-04:00.hyperlinks.json) |
-| [September 15 at 11:46 PM](https://archive.org/download/connpost-2022/connpost-2022-09-15T23:46:38.609846-04:00.hyperlinks.json) |
-| [September 15 at 12:08 PM](https://archive.org/download/connpost-2022/connpost-2022-09-15T12:08:43.327832-04:00.hyperlinks.json) |
-| [September 14 at 11:46 PM](https://archive.org/download/connpost-2022/connpost-2022-09-14T23:46:20.883887-04:00.hyperlinks.json) |
+| [September 26 at 1:35 PM](https://archive.org/download/connpost-2022/connpost-2022-09-26T13:35:25.097470-04:00.hyperlinks.json) |
+| [September 26 at 2:07 AM](https://archive.org/download/connpost-2022/connpost-2022-09-26T02:07:50.396688-04:00.hyperlinks.json) |
+| [September 25 at 1:17 PM](https://archive.org/download/connpost-2022/connpost-2022-09-25T13:16:57.742285-04:00.hyperlinks.json) |
+| [September 25 at 1:43 AM](https://archive.org/download/connpost-2022/connpost-2022-09-25T01:43:27.037346-04:00.hyperlinks.json) |
+| [September 24 at 1:16 PM](https://archive.org/download/connpost-2022/connpost-2022-09-24T13:15:59.804489-04:00.hyperlinks.json) |
+| [September 24 at 1:43 AM](https://archive.org/download/connpost-2022/connpost-2022-09-24T01:43:08.208912-04:00.hyperlinks.json) |
+| [September 23 at 1:29 PM](https://archive.org/download/connpost-2022/connpost-2022-09-23T13:29:47.445586-04:00.hyperlinks.json) |
+| [September 23 at 3:10 AM](https://archive.org/download/connpost-2022/connpost-2022-09-23T03:10:41.514552-04:00.hyperlinks.json) |
+| [September 22 at 1:29 PM](https://archive.org/download/connpost-2022/connpost-2022-09-22T13:29:18.738584-04:00.hyperlinks.json) |
+| [September 22 at 1:58 AM](https://archive.org/download/connpost-2022/connpost-2022-09-22T01:57:55.524094-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 12 accessibility trees with the Internet Archive.
+The archiving routine has saved 28 accessibility trees with the Internet Archive.
 
 
 
@@ -178,22 +178,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 10:59 AM](https://archive.org/download/connpost-2022/connpost-2022-09-19T10:59:07.699729-04:00.accessibility.json) |
-| [September 18 at 11:42 PM](https://archive.org/download/connpost-2022/connpost-2022-09-18T23:42:13.707201-04:00.accessibility.json) |
-| [September 18 at 10:51 AM](https://archive.org/download/connpost-2022/connpost-2022-09-18T10:51:52.755477-04:00.accessibility.json) |
-| [September 17 at 11:45 PM](https://archive.org/download/connpost-2022/connpost-2022-09-17T23:45:26.862891-04:00.accessibility.json) |
-| [September 17 at 10:48 AM](https://archive.org/download/connpost-2022/connpost-2022-09-17T10:48:49.395882-04:00.accessibility.json) |
-| [September 16 at 11:39 PM](https://archive.org/download/connpost-2022/connpost-2022-09-16T23:39:22.598974-04:00.accessibility.json) |
-| [September 16 at 10:58 AM](https://archive.org/download/connpost-2022/connpost-2022-09-16T10:58:39.630067-04:00.accessibility.json) |
-| [September 15 at 11:46 PM](https://archive.org/download/connpost-2022/connpost-2022-09-15T23:46:38.609846-04:00.accessibility.json) |
-| [September 15 at 12:08 PM](https://archive.org/download/connpost-2022/connpost-2022-09-15T12:08:43.327832-04:00.accessibility.json) |
-| [September 14 at 11:46 PM](https://archive.org/download/connpost-2022/connpost-2022-09-14T23:46:20.883887-04:00.accessibility.json) |
+| [September 27 at 2:57 AM](https://archive.org/download/connpost-2022/connpost-2022-09-27T02:56:57.610443-04:00.accessibility.json) |
+| [September 26 at 1:35 PM](https://archive.org/download/connpost-2022/connpost-2022-09-26T13:35:25.097470-04:00.accessibility.json) |
+| [September 26 at 2:07 AM](https://archive.org/download/connpost-2022/connpost-2022-09-26T02:07:50.396688-04:00.accessibility.json) |
+| [September 25 at 1:17 PM](https://archive.org/download/connpost-2022/connpost-2022-09-25T13:16:57.742285-04:00.accessibility.json) |
+| [September 25 at 1:43 AM](https://archive.org/download/connpost-2022/connpost-2022-09-25T01:43:27.037346-04:00.accessibility.json) |
+| [September 24 at 1:16 PM](https://archive.org/download/connpost-2022/connpost-2022-09-24T13:15:59.804489-04:00.accessibility.json) |
+| [September 24 at 1:43 AM](https://archive.org/download/connpost-2022/connpost-2022-09-24T01:43:08.208912-04:00.accessibility.json) |
+| [September 23 at 1:29 PM](https://archive.org/download/connpost-2022/connpost-2022-09-23T13:29:47.445586-04:00.accessibility.json) |
+| [September 23 at 3:10 AM](https://archive.org/download/connpost-2022/connpost-2022-09-23T03:10:41.514552-04:00.accessibility.json) |
+| [September 22 at 1:29 PM](https://archive.org/download/connpost-2022/connpost-2022-09-22T13:29:18.738584-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
 
 
 
@@ -201,16 +201,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 10:59 AM](https://archive.org/download/connpost-2022/connpost-2022-09-19T10:59:07.699729-04:00.lighthouse.json) |
-| [September 18 at 11:42 PM](https://archive.org/download/connpost-2022/connpost-2022-09-18T23:42:13.707201-04:00.lighthouse.json) |
-| [September 18 at 10:51 AM](https://archive.org/download/connpost-2022/connpost-2022-09-18T10:51:52.755477-04:00.lighthouse.json) |
-| [September 17 at 11:45 PM](https://archive.org/download/connpost-2022/connpost-2022-09-17T23:45:26.862891-04:00.lighthouse.json) |
-| [September 17 at 10:48 AM](https://archive.org/download/connpost-2022/connpost-2022-09-17T10:48:49.395882-04:00.lighthouse.json) |
-| [September 16 at 11:39 PM](https://archive.org/download/connpost-2022/connpost-2022-09-16T23:39:22.598974-04:00.lighthouse.json) |
-| [September 16 at 10:58 AM](https://archive.org/download/connpost-2022/connpost-2022-09-16T10:58:39.630067-04:00.lighthouse.json) |
-| [September 15 at 11:46 PM](https://archive.org/download/connpost-2022/connpost-2022-09-15T23:46:38.609846-04:00.lighthouse.json) |
-| [September 15 at 12:08 PM](https://archive.org/download/connpost-2022/connpost-2022-09-15T12:08:43.327832-04:00.lighthouse.json) |
-| [September 14 at 11:46 PM](https://archive.org/download/connpost-2022/connpost-2022-09-14T23:46:20.883887-04:00.lighthouse.json) |
+| [September 27 at 2:57 AM](https://archive.org/download/connpost-2022/connpost-2022-09-27T02:56:57.610443-04:00.lighthouse.json) |
+| [September 26 at 1:35 PM](https://archive.org/download/connpost-2022/connpost-2022-09-26T13:35:25.097470-04:00.lighthouse.json) |
+| [September 26 at 2:07 AM](https://archive.org/download/connpost-2022/connpost-2022-09-26T02:07:50.396688-04:00.lighthouse.json) |
+| [September 25 at 1:17 PM](https://archive.org/download/connpost-2022/connpost-2022-09-25T13:16:57.742285-04:00.lighthouse.json) |
+| [September 25 at 1:43 AM](https://archive.org/download/connpost-2022/connpost-2022-09-25T01:43:27.037346-04:00.lighthouse.json) |
+| [September 24 at 1:16 PM](https://archive.org/download/connpost-2022/connpost-2022-09-24T13:15:59.804489-04:00.lighthouse.json) |
+| [September 24 at 1:43 AM](https://archive.org/download/connpost-2022/connpost-2022-09-24T01:43:08.208912-04:00.lighthouse.json) |
+| [September 23 at 1:29 PM](https://archive.org/download/connpost-2022/connpost-2022-09-23T13:29:47.445586-04:00.lighthouse.json) |
+| [September 23 at 3:10 AM](https://archive.org/download/connpost-2022/connpost-2022-09-23T03:10:41.514552-04:00.lighthouse.json) |
+| [September 22 at 1:29 PM](https://archive.org/download/connpost-2022/connpost-2022-09-22T13:29:18.738584-04:00.lighthouse.json) |
 
 
 

@@ -28,13 +28,103 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 10 screenshots with the Internet Archive.
+The archiving routine has saved 20 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-27T02:07:27.321587-05:00.jpg">
+  <img src="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-27T02:07:27.321587-05:00.jpg"
+     alt="Northwest Arkansas Democrat-Gazette at 2022-09-27 02:07:28-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-27T02:07:27.321587-05:00.jpg">September 27 at 2:07 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-26T14:26:48.018127-05:00.jpg">
+  <img src="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-26T14:26:48.018127-05:00.jpg"
+     alt="Northwest Arkansas Democrat-Gazette at 2022-09-26 14:26:51-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-26T14:26:48.018127-05:00.jpg">September 26 at 2:26 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-25T13:30:34.902859-05:00.jpg">
+  <img src="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-25T13:30:34.902859-05:00.jpg"
+     alt="Northwest Arkansas Democrat-Gazette at 2022-09-25 13:30:39-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-25T13:30:34.902859-05:00.jpg">September 25 at 1:30 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-24T13:30:07.607607-05:00.jpg">
+  <img src="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-24T13:30:07.607607-05:00.jpg"
+     alt="Northwest Arkansas Democrat-Gazette at 2022-09-24 13:30:10-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-24T13:30:07.607607-05:00.jpg">September 24 at 1:30 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-24T01:55:18.386066-05:00.jpg">
+  <img src="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-24T01:55:18.386066-05:00.jpg"
+     alt="Northwest Arkansas Democrat-Gazette at 2022-09-24 01:55:20-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-24T01:55:18.386066-05:00.jpg">September 24 at 1:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-23T13:47:07.193276-05:00.jpg">
+  <img src="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-23T13:47:07.193276-05:00.jpg"
+     alt="Northwest Arkansas Democrat-Gazette at 2022-09-23 13:47:08-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-23T13:47:07.193276-05:00.jpg">September 23 at 1:47 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-22T14:22:49.946414-05:00.jpg">
+  <img src="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-22T14:22:49.946414-05:00.jpg"
+     alt="Northwest Arkansas Democrat-Gazette at 2022-09-22 14:22:51-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-22T14:22:49.946414-05:00.jpg">September 22 at 2:22 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-22T02:22:37.104051-05:00.jpg">
+  <img src="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-22T02:22:37.104051-05:00.jpg"
+     alt="Northwest Arkansas Democrat-Gazette at 2022-09-22 02:22:38-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-22T02:22:37.104051-05:00.jpg">September 22 at 2:22 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-21T02:16:23.292522-05:00.jpg">
+  <img src="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-21T02:16:23.292522-05:00.jpg"
+     alt="Northwest Arkansas Democrat-Gazette at 2022-09-21 02:16:25-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-21T02:16:23.292522-05:00.jpg">September 21 at 2:16 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-20T14:03:43.364171-05:00.jpg">
+  <img src="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-20T14:03:43.364171-05:00.jpg"
+     alt="Northwest Arkansas Democrat-Gazette at 2022-09-20 14:03:45-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-20T14:03:43.364171-05:00.jpg">September 20 at 2:03 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-19T12:34:20.934921-05:00.jpg">
@@ -54,83 +144,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-19T01:05:13.937978-05:00.jpg">September 19 at 1:05 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-16T23:36:22.024276-05:00.jpg">
-  <img src="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-16T23:36:22.024276-05:00.jpg"
-     alt="Northwest Arkansas Democrat-Gazette at 2022-09-16 23:36:23-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-16T23:36:22.024276-05:00.jpg">September 16 at 11:36 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-16T11:06:59.652874-05:00.jpg">
-  <img src="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-16T11:06:59.652874-05:00.jpg"
-     alt="Northwest Arkansas Democrat-Gazette at 2022-09-16 11:07:01-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-16T11:06:59.652874-05:00.jpg">September 16 at 11:07 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-15T11:28:19.193040-05:00.jpg">
-  <img src="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-15T11:28:19.193040-05:00.jpg"
-     alt="Northwest Arkansas Democrat-Gazette at 2022-09-15 11:28:21-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-15T11:28:19.193040-05:00.jpg">September 15 at 11:28 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-15T00:28:05.665899-05:00.jpg">
-  <img src="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-15T00:28:05.665899-05:00.jpg"
-     alt="Northwest Arkansas Democrat-Gazette at 2022-09-15 00:28:07-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-15T00:28:05.665899-05:00.jpg">September 15 at 12:28 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-13T23:48:04.698206-05:00.jpg">
-  <img src="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-13T23:48:04.698206-05:00.jpg"
-     alt="Northwest Arkansas Democrat-Gazette at 2022-09-13 23:48:06-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-13T23:48:04.698206-05:00.jpg">September 13 at 11:48 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-13T11:13:28.390458-05:00.jpg">
-  <img src="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-13T11:13:28.390458-05:00.jpg"
-     alt="Northwest Arkansas Democrat-Gazette at 2022-09-13 11:13:30-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-13T11:13:28.390458-05:00.jpg">September 13 at 11:13 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-13T00:26:58.730025-05:00.jpg">
-  <img src="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-13T00:26:58.730025-05:00.jpg"
-     alt="Northwest Arkansas Democrat-Gazette at 2022-09-13 00:27:00-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-13T00:26:58.730025-05:00.jpg">September 13 at 12:27 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-11T23:07:39.835147-05:00.jpg">
-  <img src="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-11T23:07:39.835147-05:00.jpg"
-     alt="Northwest Arkansas Democrat-Gazette at 2022-09-11 23:07:45-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-11T23:07:39.835147-05:00.jpg">September 11 at 11:07 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 12 hyperlink lists with the Internet Archive.
+The archiving routine has saved 25 hyperlink lists with the Internet Archive.
 
 
 
@@ -138,21 +156,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 1:05 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-19T01:05:13.937978-05:00.hyperlinks.json) |
-| [September 18 at 12:27 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-18T12:27:57.092034-05:00.hyperlinks.json) |
-| [September 17 at 11:00 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-17T11:00:09.432589-05:00.hyperlinks.json) |
-| [September 16 at 11:36 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-16T23:36:22.024276-05:00.hyperlinks.json) |
-| [September 16 at 11:07 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-16T11:06:59.652874-05:00.hyperlinks.json) |
-| [September 15 at 12:28 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-15T00:28:05.665899-05:00.hyperlinks.json) |
-| [September 14 at 11:27 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-14T11:27:22.867615-05:00.hyperlinks.json) |
-| [September 13 at 11:48 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-13T23:48:04.698206-05:00.hyperlinks.json) |
-| [September 13 at 11:13 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-13T11:13:28.390458-05:00.hyperlinks.json) |
-| [September 13 at 12:27 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-13T00:26:58.730025-05:00.hyperlinks.json) |
+| [September 26 at 2:42 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-26T02:42:13.568349-05:00.hyperlinks.json) |
+| [September 25 at 1:30 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-25T13:30:34.902859-05:00.hyperlinks.json) |
+| [September 25 at 1:54 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-25T01:54:23.421019-05:00.hyperlinks.json) |
+| [September 24 at 1:30 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-24T13:30:07.607607-05:00.hyperlinks.json) |
+| [September 24 at 1:55 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-24T01:55:18.386066-05:00.hyperlinks.json) |
+| [September 23 at 1:47 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-23T13:47:07.193276-05:00.hyperlinks.json) |
+| [September 23 at 2:18 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-23T02:18:47.681404-05:00.hyperlinks.json) |
+| [September 22 at 2:22 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-22T14:22:49.946414-05:00.hyperlinks.json) |
+| [September 22 at 2:22 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-22T02:22:37.104051-05:00.hyperlinks.json) |
+| [September 21 at 1:59 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-21T13:59:19.499713-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 11 accessibility trees with the Internet Archive.
+The archiving routine has saved 23 accessibility trees with the Internet Archive.
 
 
 
@@ -160,39 +178,122 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 12:34 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-19T12:34:20.934921-05:00.accessibility.json) |
-| [September 19 at 1:05 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-19T01:05:13.937978-05:00.accessibility.json) |
-| [September 18 at 12:26 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-18T00:26:08.315507-05:00.accessibility.json) |
-| [September 17 at 11:00 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-17T11:00:09.432589-05:00.accessibility.json) |
-| [September 16 at 11:36 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-16T23:36:22.024276-05:00.accessibility.json) |
-| [September 15 at 11:28 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-15T11:28:19.193040-05:00.accessibility.json) |
-| [September 15 at 12:28 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-15T00:28:05.665899-05:00.accessibility.json) |
-| [September 14 at 11:27 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-14T11:27:22.867615-05:00.accessibility.json) |
-| [September 13 at 11:48 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-13T23:48:04.698206-05:00.accessibility.json) |
-| [September 13 at 12:27 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-13T00:26:58.730025-05:00.accessibility.json) |
+| [September 26 at 2:26 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-26T14:26:48.018127-05:00.accessibility.json) |
+| [September 26 at 2:42 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-26T02:42:13.568349-05:00.accessibility.json) |
+| [September 25 at 1:30 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-25T13:30:34.902859-05:00.accessibility.json) |
+| [September 25 at 1:54 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-25T01:54:23.421019-05:00.accessibility.json) |
+| [September 24 at 1:30 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-24T13:30:07.607607-05:00.accessibility.json) |
+| [September 24 at 1:55 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-24T01:55:18.386066-05:00.accessibility.json) |
+| [September 23 at 1:47 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-23T13:47:07.193276-05:00.accessibility.json) |
+| [September 23 at 2:18 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-23T02:18:47.681404-05:00.accessibility.json) |
+| [September 21 at 1:59 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-21T13:59:19.499713-05:00.accessibility.json) |
+| [September 21 at 2:16 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-21T02:16:23.292522-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/nwademgaz.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 12:34 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-19T12:34:20.934921-05:00.lighthouse.json) |
-| [September 19 at 1:05 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-19T01:05:13.937978-05:00.lighthouse.json) |
-| [September 18 at 12:28 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-18T12:27:57.092034-05:00.lighthouse.json) |
-| [September 18 at 12:26 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-18T00:26:08.315507-05:00.lighthouse.json) |
-| [September 17 at 11:00 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-17T11:00:09.432589-05:00.lighthouse.json) |
-| [September 16 at 11:36 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-16T23:36:22.024276-05:00.lighthouse.json) |
-| [September 16 at 11:07 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-16T11:06:59.652874-05:00.lighthouse.json) |
-| [September 16 at 12:29 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-16T00:29:21.735468-05:00.lighthouse.json) |
-| [September 15 at 11:28 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-15T11:28:19.193040-05:00.lighthouse.json) |
-| [September 15 at 12:28 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-15T00:28:05.665899-05:00.lighthouse.json) |
+| [September 27 at 2:07 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-27T02:07:27.321587-05:00.lighthouse.json) |
+| [September 26 at 2:26 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-26T14:26:48.018127-05:00.lighthouse.json) |
+| [September 26 at 2:42 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-26T02:42:13.568349-05:00.lighthouse.json) |
+| [September 25 at 1:30 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-25T13:30:34.902859-05:00.lighthouse.json) |
+| [September 25 at 1:54 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-25T01:54:23.421019-05:00.lighthouse.json) |
+| [September 24 at 1:30 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-24T13:30:07.607607-05:00.lighthouse.json) |
+| [September 24 at 1:55 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-24T01:55:18.386066-05:00.lighthouse.json) |
+| [September 23 at 1:47 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-23T13:47:07.193276-05:00.lighthouse.json) |
+| [September 23 at 2:18 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-23T02:18:47.681404-05:00.lighthouse.json) |
+| [September 22 at 2:22 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-22T14:22:49.946414-05:00.lighthouse.json) |
 
 
 

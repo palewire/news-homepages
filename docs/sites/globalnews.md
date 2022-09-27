@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 178 screenshots with the Internet Archive.
+The archiving routine has saved 194 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-19T12:02:48.534247-04:00.jpg">
-  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-09-19T12:02:48.534247-04:00.jpg"
-     alt="Global News at 2022-09-19 12:02:50-04:00 local time"
+ <a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-27T03:01:42.011511-04:00.jpg">
+  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-09-27T03:01:42.011511-04:00.jpg"
+     alt="Global News at 2022-09-27 03:01:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-19T12:02:48.534247-04:00.jpg">September 19 at 12:02 PM</a></p>
+ <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-27T03:01:42.011511-04:00.jpg">September 27 at 3:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-19T00:46:30.941224-04:00.jpg">
-  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-09-19T00:46:30.941224-04:00.jpg"
-     alt="Global News at 2022-09-19 00:46:32-04:00 local time"
+ <a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-26T13:49:40.602433-04:00.jpg">
+  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-09-26T13:49:40.602433-04:00.jpg"
+     alt="Global News at 2022-09-26 13:49:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-19T00:46:30.941224-04:00.jpg">September 19 at 12:46 AM</a></p>
+ <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-26T13:49:40.602433-04:00.jpg">September 26 at 1:49 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-17T23:50:38.707610-04:00.jpg">
-  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-09-17T23:50:38.707610-04:00.jpg"
-     alt="Global News at 2022-09-17 23:50:42-04:00 local time"
+ <a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-26T02:20:20.558122-04:00.jpg">
+  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-09-26T02:20:20.558122-04:00.jpg"
+     alt="Global News at 2022-09-26 02:20:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-17T23:50:38.707610-04:00.jpg">September 17 at 11:50 PM</a></p>
+ <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-26T02:20:20.558122-04:00.jpg">September 26 at 2:20 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-17T10:54:02.712371-04:00.jpg">
-  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-09-17T10:54:02.712371-04:00.jpg"
-     alt="Global News at 2022-09-17 10:54:05-04:00 local time"
+ <a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-25T13:29:02.170783-04:00.jpg">
+  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-09-25T13:29:02.170783-04:00.jpg"
+     alt="Global News at 2022-09-25 13:29:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-17T10:54:02.712371-04:00.jpg">September 17 at 10:54 AM</a></p>
+ <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-25T13:29:02.170783-04:00.jpg">September 25 at 1:29 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-16T23:44:10.668633-04:00.jpg">
-  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-09-16T23:44:10.668633-04:00.jpg"
-     alt="Global News at 2022-09-16 23:44:15-04:00 local time"
+ <a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-25T01:53:48.080027-04:00.jpg">
+  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-09-25T01:53:48.080027-04:00.jpg"
+     alt="Global News at 2022-09-25 01:53:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-16T23:44:10.668633-04:00.jpg">September 16 at 11:44 PM</a></p>
+ <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-25T01:53:48.080027-04:00.jpg">September 25 at 1:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-16T11:02:57.792300-04:00.jpg">
-  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-09-16T11:02:57.792300-04:00.jpg"
-     alt="Global News at 2022-09-16 11:03:03-04:00 local time"
+ <a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-24T13:28:57.515566-04:00.jpg">
+  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-09-24T13:28:57.515566-04:00.jpg"
+     alt="Global News at 2022-09-24 13:29:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-16T11:02:57.792300-04:00.jpg">September 16 at 11:03 AM</a></p>
+ <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-24T13:28:57.515566-04:00.jpg">September 24 at 1:29 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-15T23:52:14.920554-04:00.jpg">
-  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-09-15T23:52:14.920554-04:00.jpg"
-     alt="Global News at 2022-09-15 23:52:21-04:00 local time"
+ <a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-24T01:54:17.061481-04:00.jpg">
+  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-09-24T01:54:17.061481-04:00.jpg"
+     alt="Global News at 2022-09-24 01:54:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-15T23:52:14.920554-04:00.jpg">September 15 at 11:52 PM</a></p>
+ <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-24T01:54:17.061481-04:00.jpg">September 24 at 1:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-15T12:13:57.279825-04:00.jpg">
-  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-09-15T12:13:57.279825-04:00.jpg"
-     alt="Global News at 2022-09-15 12:14:00-04:00 local time"
+ <a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-23T13:43:25.546075-04:00.jpg">
+  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-09-23T13:43:25.546075-04:00.jpg"
+     alt="Global News at 2022-09-23 13:43:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-15T12:13:57.279825-04:00.jpg">September 15 at 12:14 PM</a></p>
+ <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-23T13:43:25.546075-04:00.jpg">September 23 at 1:43 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-14T23:52:41.632150-04:00.jpg">
-  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-09-14T23:52:41.632150-04:00.jpg"
-     alt="Global News at 2022-09-14 23:52:52-04:00 local time"
+ <a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-23T03:16:40.703700-04:00.jpg">
+  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-09-23T03:16:40.703700-04:00.jpg"
+     alt="Global News at 2022-09-23 03:16:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-14T23:52:41.632150-04:00.jpg">September 14 at 11:52 PM</a></p>
+ <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-23T03:16:40.703700-04:00.jpg">September 23 at 3:16 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-14T11:21:35.988511-04:00.jpg">
-  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-09-14T11:21:35.988511-04:00.jpg"
-     alt="Global News at 2022-09-14 11:21:37-04:00 local time"
+ <a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-22T13:42:33.373390-04:00.jpg">
+  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-09-22T13:42:33.373390-04:00.jpg"
+     alt="Global News at 2022-09-22 13:42:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-14T11:21:35.988511-04:00.jpg">September 14 at 11:21 AM</a></p>
+ <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-22T13:42:33.373390-04:00.jpg">September 22 at 1:42 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-13T23:50:38.494270-04:00.jpg">
-  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-09-13T23:50:38.494270-04:00.jpg"
-     alt="Global News at 2022-09-13 23:50:40-04:00 local time"
+ <a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-22T02:09:58.903258-04:00.jpg">
+  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-09-22T02:09:58.903258-04:00.jpg"
+     alt="Global News at 2022-09-22 02:10:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-13T23:50:38.494270-04:00.jpg">September 13 at 11:50 PM</a></p>
+ <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-22T02:09:58.903258-04:00.jpg">September 22 at 2:10 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-13T12:08:39.479127-04:00.jpg">
-  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-09-13T12:08:39.479127-04:00.jpg"
-     alt="Global News at 2022-09-13 12:08:41-04:00 local time"
+ <a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-21T13:44:20.444499-04:00.jpg">
+  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-09-21T13:44:20.444499-04:00.jpg"
+     alt="Global News at 2022-09-21 13:44:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-13T12:08:39.479127-04:00.jpg">September 13 at 12:08 PM</a></p>
+ <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-09-21T13:44:20.444499-04:00.jpg">September 21 at 1:44 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 164 hyperlink lists with the Internet Archive.
+The archiving routine has saved 180 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 12:02 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-19T12:02:48.534247-04:00.hyperlinks.json) |
-| [September 19 at 12:46 AM](https://archive.org/download/globalnews-2022/globalnews-2022-09-19T00:46:30.941224-04:00.hyperlinks.json) |
-| [September 17 at 11:50 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-17T23:50:38.707610-04:00.hyperlinks.json) |
-| [September 17 at 10:54 AM](https://archive.org/download/globalnews-2022/globalnews-2022-09-17T10:54:02.712371-04:00.hyperlinks.json) |
-| [September 16 at 11:44 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-16T23:44:10.668633-04:00.hyperlinks.json) |
-| [September 16 at 11:03 AM](https://archive.org/download/globalnews-2022/globalnews-2022-09-16T11:02:57.792300-04:00.hyperlinks.json) |
-| [September 15 at 11:52 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-15T23:52:14.920554-04:00.hyperlinks.json) |
-| [September 15 at 12:14 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-15T12:13:57.279825-04:00.hyperlinks.json) |
-| [September 14 at 11:52 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-14T23:52:41.632150-04:00.hyperlinks.json) |
-| [September 14 at 11:21 AM](https://archive.org/download/globalnews-2022/globalnews-2022-09-14T11:21:35.988511-04:00.hyperlinks.json) |
+| [September 27 at 3:01 AM](https://archive.org/download/globalnews-2022/globalnews-2022-09-27T03:01:42.011511-04:00.hyperlinks.json) |
+| [September 26 at 1:49 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-26T13:49:40.602433-04:00.hyperlinks.json) |
+| [September 26 at 2:20 AM](https://archive.org/download/globalnews-2022/globalnews-2022-09-26T02:20:20.558122-04:00.hyperlinks.json) |
+| [September 25 at 1:29 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-25T13:29:02.170783-04:00.hyperlinks.json) |
+| [September 25 at 1:53 AM](https://archive.org/download/globalnews-2022/globalnews-2022-09-25T01:53:48.080027-04:00.hyperlinks.json) |
+| [September 24 at 1:29 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-24T13:28:57.515566-04:00.hyperlinks.json) |
+| [September 24 at 1:54 AM](https://archive.org/download/globalnews-2022/globalnews-2022-09-24T01:54:17.061481-04:00.hyperlinks.json) |
+| [September 23 at 1:43 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-23T13:43:25.546075-04:00.hyperlinks.json) |
+| [September 23 at 3:16 AM](https://archive.org/download/globalnews-2022/globalnews-2022-09-23T03:16:40.703700-04:00.hyperlinks.json) |
+| [September 22 at 1:42 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-22T13:42:33.373390-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 161 accessibility trees with the Internet Archive.
+The archiving routine has saved 177 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 12:02 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-19T12:02:48.534247-04:00.accessibility.json) |
-| [September 19 at 12:46 AM](https://archive.org/download/globalnews-2022/globalnews-2022-09-19T00:46:30.941224-04:00.accessibility.json) |
-| [September 17 at 11:50 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-17T23:50:38.707610-04:00.accessibility.json) |
-| [September 17 at 10:54 AM](https://archive.org/download/globalnews-2022/globalnews-2022-09-17T10:54:02.712371-04:00.accessibility.json) |
-| [September 16 at 11:44 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-16T23:44:10.668633-04:00.accessibility.json) |
-| [September 16 at 11:03 AM](https://archive.org/download/globalnews-2022/globalnews-2022-09-16T11:02:57.792300-04:00.accessibility.json) |
-| [September 15 at 11:52 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-15T23:52:14.920554-04:00.accessibility.json) |
-| [September 15 at 12:14 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-15T12:13:57.279825-04:00.accessibility.json) |
-| [September 14 at 11:52 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-14T23:52:41.632150-04:00.accessibility.json) |
-| [September 14 at 11:21 AM](https://archive.org/download/globalnews-2022/globalnews-2022-09-14T11:21:35.988511-04:00.accessibility.json) |
+| [September 27 at 3:01 AM](https://archive.org/download/globalnews-2022/globalnews-2022-09-27T03:01:42.011511-04:00.accessibility.json) |
+| [September 26 at 1:49 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-26T13:49:40.602433-04:00.accessibility.json) |
+| [September 26 at 2:20 AM](https://archive.org/download/globalnews-2022/globalnews-2022-09-26T02:20:20.558122-04:00.accessibility.json) |
+| [September 25 at 1:29 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-25T13:29:02.170783-04:00.accessibility.json) |
+| [September 25 at 1:53 AM](https://archive.org/download/globalnews-2022/globalnews-2022-09-25T01:53:48.080027-04:00.accessibility.json) |
+| [September 24 at 1:29 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-24T13:28:57.515566-04:00.accessibility.json) |
+| [September 24 at 1:54 AM](https://archive.org/download/globalnews-2022/globalnews-2022-09-24T01:54:17.061481-04:00.accessibility.json) |
+| [September 23 at 1:43 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-23T13:43:25.546075-04:00.accessibility.json) |
+| [September 23 at 3:16 AM](https://archive.org/download/globalnews-2022/globalnews-2022-09-23T03:16:40.703700-04:00.accessibility.json) |
+| [September 22 at 1:42 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-22T13:42:33.373390-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 113 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 129 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 12:02 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-19T12:02:48.534247-04:00.lighthouse.json) |
-| [September 19 at 12:46 AM](https://archive.org/download/globalnews-2022/globalnews-2022-09-19T00:46:30.941224-04:00.lighthouse.json) |
-| [September 17 at 11:50 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-17T23:50:38.707610-04:00.lighthouse.json) |
-| [September 17 at 10:54 AM](https://archive.org/download/globalnews-2022/globalnews-2022-09-17T10:54:02.712371-04:00.lighthouse.json) |
-| [September 16 at 11:44 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-16T23:44:10.668633-04:00.lighthouse.json) |
-| [September 16 at 11:03 AM](https://archive.org/download/globalnews-2022/globalnews-2022-09-16T11:02:57.792300-04:00.lighthouse.json) |
-| [September 15 at 11:52 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-15T23:52:14.920554-04:00.lighthouse.json) |
-| [September 15 at 12:14 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-15T12:13:57.279825-04:00.lighthouse.json) |
-| [September 14 at 11:52 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-14T23:52:41.632150-04:00.lighthouse.json) |
-| [September 14 at 11:21 AM](https://archive.org/download/globalnews-2022/globalnews-2022-09-14T11:21:35.988511-04:00.lighthouse.json) |
+| [September 27 at 3:01 AM](https://archive.org/download/globalnews-2022/globalnews-2022-09-27T03:01:42.011511-04:00.lighthouse.json) |
+| [September 26 at 1:49 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-26T13:49:40.602433-04:00.lighthouse.json) |
+| [September 26 at 2:20 AM](https://archive.org/download/globalnews-2022/globalnews-2022-09-26T02:20:20.558122-04:00.lighthouse.json) |
+| [September 25 at 1:29 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-25T13:29:02.170783-04:00.lighthouse.json) |
+| [September 25 at 1:53 AM](https://archive.org/download/globalnews-2022/globalnews-2022-09-25T01:53:48.080027-04:00.lighthouse.json) |
+| [September 24 at 1:29 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-24T13:28:57.515566-04:00.lighthouse.json) |
+| [September 24 at 1:54 AM](https://archive.org/download/globalnews-2022/globalnews-2022-09-24T01:54:17.061481-04:00.lighthouse.json) |
+| [September 23 at 1:43 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-23T13:43:25.546075-04:00.lighthouse.json) |
+| [September 23 at 3:16 AM](https://archive.org/download/globalnews-2022/globalnews-2022-09-23T03:16:40.703700-04:00.lighthouse.json) |
+| [September 22 at 1:42 PM](https://archive.org/download/globalnews-2022/globalnews-2022-09-22T13:42:33.373390-04:00.lighthouse.json) |
 
 
 

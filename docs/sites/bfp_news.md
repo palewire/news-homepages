@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 0 screenshots with the Internet Archive.
+The archiving routine has saved 13 screenshots with the Internet Archive.
 
 
 
@@ -36,11 +36,119 @@ Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
 
+<div class="latest-child">
+ <a href="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-27T00:30:14.533895-04:00.jpg">
+  <img src="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-27T00:30:14.533895-04:00.jpg"
+     alt="Burlington Free Press at 2022-09-27 00:30:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-27T00:30:14.533895-04:00.jpg">September 27 at 12:30 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-26T12:06:37.397692-04:00.jpg">
+  <img src="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-26T12:06:37.397692-04:00.jpg"
+     alt="Burlington Free Press at 2022-09-26 12:06:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-26T12:06:37.397692-04:00.jpg">September 26 at 12:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-26T00:48:47.948565-04:00.jpg">
+  <img src="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-26T00:48:47.948565-04:00.jpg"
+     alt="Burlington Free Press at 2022-09-26 00:48:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-26T00:48:47.948565-04:00.jpg">September 26 at 12:48 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-25T11:53:11.434314-04:00.jpg">
+  <img src="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-25T11:53:11.434314-04:00.jpg"
+     alt="Burlington Free Press at 2022-09-25 11:53:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-25T11:53:11.434314-04:00.jpg">September 25 at 11:53 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-25T00:29:33.767654-04:00.jpg">
+  <img src="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-25T00:29:33.767654-04:00.jpg"
+     alt="Burlington Free Press at 2022-09-25 00:29:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-25T00:29:33.767654-04:00.jpg">September 25 at 12:29 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-24T11:50:51.378722-04:00.jpg">
+  <img src="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-24T11:50:51.378722-04:00.jpg"
+     alt="Burlington Free Press at 2022-09-24 11:50:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-24T11:50:51.378722-04:00.jpg">September 24 at 11:50 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-24T00:31:10.269503-04:00.jpg">
+  <img src="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-24T00:31:10.269503-04:00.jpg"
+     alt="Burlington Free Press at 2022-09-24 00:31:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-24T00:31:10.269503-04:00.jpg">September 24 at 12:31 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-23T11:58:48.773357-04:00.jpg">
+  <img src="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-23T11:58:48.773357-04:00.jpg"
+     alt="Burlington Free Press at 2022-09-23 11:58:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-23T11:58:48.773357-04:00.jpg">September 23 at 11:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-23T01:17:07.210299-04:00.jpg">
+  <img src="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-23T01:17:07.210299-04:00.jpg"
+     alt="Burlington Free Press at 2022-09-23 01:17:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-23T01:17:07.210299-04:00.jpg">September 23 at 1:17 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-22T12:00:39.619848-04:00.jpg">
+  <img src="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-22T12:00:39.619848-04:00.jpg"
+     alt="Burlington Free Press at 2022-09-22 12:00:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-22T12:00:39.619848-04:00.jpg">September 22 at 12:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-22T00:39:28.840387-04:00.jpg">
+  <img src="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-22T00:39:28.840387-04:00.jpg"
+     alt="Burlington Free Press at 2022-09-22 00:39:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-22T00:39:28.840387-04:00.jpg">September 22 at 12:39 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-21T12:03:28.361219-04:00.jpg">
+  <img src="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-21T12:03:28.361219-04:00.jpg"
+     alt="Burlington Free Press at 2022-09-21 12:03:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bfp_news-2022/bfp_news-2022-09-21T12:03:28.361219-04:00.jpg">September 21 at 12:03 PM</a></p>
+</div>
+
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 0 hyperlink lists with the Internet Archive.
+The archiving routine has saved 13 hyperlink lists with the Internet Archive.
 
 
 
@@ -48,11 +156,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 27 at 12:30 AM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-27T00:30:14.533895-04:00.hyperlinks.json) |
+| [September 26 at 12:06 PM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-26T12:06:37.397692-04:00.hyperlinks.json) |
+| [September 26 at 12:48 AM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-26T00:48:47.948565-04:00.hyperlinks.json) |
+| [September 25 at 11:53 AM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-25T11:53:11.434314-04:00.hyperlinks.json) |
+| [September 25 at 12:29 AM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-25T00:29:33.767654-04:00.hyperlinks.json) |
+| [September 24 at 11:50 AM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-24T11:50:51.378722-04:00.hyperlinks.json) |
+| [September 24 at 12:31 AM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-24T00:31:10.269503-04:00.hyperlinks.json) |
+| [September 23 at 11:58 AM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-23T11:58:48.773357-04:00.hyperlinks.json) |
+| [September 23 at 1:17 AM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-23T01:17:07.210299-04:00.hyperlinks.json) |
+| [September 22 at 12:00 PM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-22T12:00:39.619848-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 0 accessibility trees with the Internet Archive.
+The archiving routine has saved 13 accessibility trees with the Internet Archive.
 
 
 
@@ -60,12 +178,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 27 at 12:30 AM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-27T00:30:14.533895-04:00.accessibility.json) |
+| [September 26 at 12:06 PM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-26T12:06:37.397692-04:00.accessibility.json) |
+| [September 26 at 12:48 AM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-26T00:48:47.948565-04:00.accessibility.json) |
+| [September 25 at 11:53 AM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-25T11:53:11.434314-04:00.accessibility.json) |
+| [September 25 at 12:29 AM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-25T00:29:33.767654-04:00.accessibility.json) |
+| [September 24 at 11:50 AM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-24T11:50:51.378722-04:00.accessibility.json) |
+| [September 24 at 12:31 AM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-24T00:31:10.269503-04:00.accessibility.json) |
+| [September 23 at 11:58 AM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-23T11:58:48.773357-04:00.accessibility.json) |
+| [September 23 at 1:17 AM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-23T01:17:07.210299-04:00.accessibility.json) |
+| [September 22 at 12:00 PM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-22T12:00:39.619848-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 0 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
 
 
 
@@ -73,6 +201,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 27 at 12:30 AM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-27T00:30:14.533895-04:00.lighthouse.json) |
+| [September 26 at 12:06 PM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-26T12:06:37.397692-04:00.lighthouse.json) |
+| [September 26 at 12:48 AM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-26T00:48:47.948565-04:00.lighthouse.json) |
+| [September 25 at 11:53 AM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-25T11:53:11.434314-04:00.lighthouse.json) |
+| [September 25 at 12:29 AM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-25T00:29:33.767654-04:00.lighthouse.json) |
+| [September 24 at 11:50 AM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-24T11:50:51.378722-04:00.lighthouse.json) |
+| [September 24 at 12:31 AM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-24T00:31:10.269503-04:00.lighthouse.json) |
+| [September 23 at 11:59 AM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-23T11:58:48.773357-04:00.lighthouse.json) |
+| [September 23 at 1:17 AM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-23T01:17:07.210299-04:00.lighthouse.json) |
+| [September 22 at 12:00 PM](https://archive.org/download/bfp_news-2022/bfp_news-2022-09-22T12:00:39.619848-04:00.lighthouse.json) |
 
 
 
@@ -82,3 +220,4 @@ Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |
+|[bfp_news-2022](https://archive.org/details/bfp_news-2022)|

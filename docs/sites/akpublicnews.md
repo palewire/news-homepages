@@ -28,8 +28,91 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 14 screenshots with the Internet Archive.
+The archiving routine has saved 31 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/akpublicnews.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
@@ -37,180 +120,429 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-19T02:47:34.996431-08:00.jpg">
-  <img src="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-19T02:47:34.996431-08:00.jpg"
-     alt="Alaska Public Media at 2022-09-19 02:47:36-08:00 local time"
+ <a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-27T02:53:46.704616-08:00.jpg">
+  <img src="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-27T02:53:46.704616-08:00.jpg"
+     alt="Alaska Public Media at 2022-09-27 02:53:48-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-19T02:47:34.996431-08:00.jpg">September 19 at 2:47 AM</a></p>
+ <p><a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-27T02:53:46.704616-08:00.jpg">September 27 at 2:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-18T14:47:35.189447-08:00.jpg">
-  <img src="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-18T14:47:35.189447-08:00.jpg"
-     alt="Alaska Public Media at 2022-09-18 14:47:36-08:00 local time"
+ <a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-26T14:50:44.950315-08:00.jpg">
+  <img src="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-26T14:50:44.950315-08:00.jpg"
+     alt="Alaska Public Media at 2022-09-26 14:50:45-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-18T14:47:35.189447-08:00.jpg">September 18 at 2:47 PM</a></p>
+ <p><a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-26T14:50:44.950315-08:00.jpg">September 26 at 2:50 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-18T02:49:03.306136-08:00.jpg">
-  <img src="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-18T02:49:03.306136-08:00.jpg"
-     alt="Alaska Public Media at 2022-09-18 02:49:04-08:00 local time"
+ <a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-26T02:52:18.034145-08:00.jpg">
+  <img src="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-26T02:52:18.034145-08:00.jpg"
+     alt="Alaska Public Media at 2022-09-26 02:52:20-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-18T02:49:03.306136-08:00.jpg">September 18 at 2:49 AM</a></p>
+ <p><a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-26T02:52:18.034145-08:00.jpg">September 26 at 2:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-17T14:51:11.933466-08:00.jpg">
-  <img src="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-17T14:51:11.933466-08:00.jpg"
-     alt="Alaska Public Media at 2022-09-17 14:51:14-08:00 local time"
+ <a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-25T14:40:42.698899-08:00.jpg">
+  <img src="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-25T14:40:42.698899-08:00.jpg"
+     alt="Alaska Public Media at 2022-09-25 14:40:44-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-17T14:51:11.933466-08:00.jpg">September 17 at 2:51 PM</a></p>
+ <p><a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-25T14:40:42.698899-08:00.jpg">September 25 at 2:40 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-17T02:47:52.361236-08:00.jpg">
-  <img src="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-17T02:47:52.361236-08:00.jpg"
-     alt="Alaska Public Media at 2022-09-17 02:47:54-08:00 local time"
+ <a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-25T02:40:32.641577-08:00.jpg">
+  <img src="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-25T02:40:32.641577-08:00.jpg"
+     alt="Alaska Public Media at 2022-09-25 02:40:33-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-17T02:47:52.361236-08:00.jpg">September 17 at 2:47 AM</a></p>
+ <p><a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-25T02:40:32.641577-08:00.jpg">September 25 at 2:40 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-16T14:50:31.010549-08:00.jpg">
-  <img src="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-16T14:50:31.010549-08:00.jpg"
-     alt="Alaska Public Media at 2022-09-16 14:50:32-08:00 local time"
+ <a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-24T14:40:17.983380-08:00.jpg">
+  <img src="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-24T14:40:17.983380-08:00.jpg"
+     alt="Alaska Public Media at 2022-09-24 14:40:20-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-16T14:50:31.010549-08:00.jpg">September 16 at 2:50 PM</a></p>
+ <p><a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-24T14:40:17.983380-08:00.jpg">September 24 at 2:40 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-16T02:50:37.946662-08:00.jpg">
-  <img src="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-16T02:50:37.946662-08:00.jpg"
-     alt="Alaska Public Media at 2022-09-16 02:50:39-08:00 local time"
+ <a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-24T02:42:27.733271-08:00.jpg">
+  <img src="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-24T02:42:27.733271-08:00.jpg"
+     alt="Alaska Public Media at 2022-09-24 02:42:29-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-16T02:50:37.946662-08:00.jpg">September 16 at 2:50 AM</a></p>
+ <p><a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-24T02:42:27.733271-08:00.jpg">September 24 at 2:42 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-15T14:53:17.500796-08:00.jpg">
-  <img src="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-15T14:53:17.500796-08:00.jpg"
-     alt="Alaska Public Media at 2022-09-15 14:53:19-08:00 local time"
+ <a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-23T15:50:49.832495-08:00.jpg">
+  <img src="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-23T15:50:49.832495-08:00.jpg"
+     alt="Alaska Public Media at 2022-09-23 15:50:52-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-15T14:53:17.500796-08:00.jpg">September 15 at 2:53 PM</a></p>
+ <p><a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-23T15:50:49.832495-08:00.jpg">September 23 at 3:50 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-15T02:53:10.528698-08:00.jpg">
-  <img src="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-15T02:53:10.528698-08:00.jpg"
-     alt="Alaska Public Media at 2022-09-15 02:53:12-08:00 local time"
+ <a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-23T02:46:42.393097-08:00.jpg">
+  <img src="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-23T02:46:42.393097-08:00.jpg"
+     alt="Alaska Public Media at 2022-09-23 02:46:43-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-15T02:53:10.528698-08:00.jpg">September 15 at 2:53 AM</a></p>
+ <p><a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-23T02:46:42.393097-08:00.jpg">September 23 at 2:46 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-14T14:59:25.664396-08:00.jpg">
-  <img src="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-14T14:59:25.664396-08:00.jpg"
-     alt="Alaska Public Media at 2022-09-14 14:59:27-08:00 local time"
+ <a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-22T14:48:26.881552-08:00.jpg">
+  <img src="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-22T14:48:26.881552-08:00.jpg"
+     alt="Alaska Public Media at 2022-09-22 14:48:29-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-14T14:59:25.664396-08:00.jpg">September 14 at 2:59 PM</a></p>
+ <p><a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-22T14:48:26.881552-08:00.jpg">September 22 at 2:48 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-14T02:52:54.149156-08:00.jpg">
-  <img src="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-14T02:52:54.149156-08:00.jpg"
-     alt="Alaska Public Media at 2022-09-14 02:52:55-08:00 local time"
+ <a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-22T02:50:17.931735-08:00.jpg">
+  <img src="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-22T02:50:17.931735-08:00.jpg"
+     alt="Alaska Public Media at 2022-09-22 02:50:19-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-14T02:52:54.149156-08:00.jpg">September 14 at 2:52 AM</a></p>
+ <p><a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-22T02:50:17.931735-08:00.jpg">September 22 at 2:50 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-13T14:56:46.569640-08:00.jpg">
-  <img src="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-13T14:56:46.569640-08:00.jpg"
-     alt="Alaska Public Media at 2022-09-13 14:56:48-08:00 local time"
+ <a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-21T14:54:19.136348-08:00.jpg">
+  <img src="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-21T14:54:19.136348-08:00.jpg"
+     alt="Alaska Public Media at 2022-09-21 14:54:21-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-13T14:56:46.569640-08:00.jpg">September 13 at 2:56 PM</a></p>
+ <p><a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-21T14:54:19.136348-08:00.jpg">September 21 at 2:54 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 14 hyperlink lists with the Internet Archive.
+The archiving routine has saved 31 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/akpublicnews.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 2:47 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-19T02:47:34.996431-08:00.hyperlinks.json) |
-| [September 18 at 2:47 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-18T14:47:35.189447-08:00.hyperlinks.json) |
-| [September 18 at 2:49 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-18T02:49:03.306136-08:00.hyperlinks.json) |
-| [September 17 at 2:51 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-17T14:51:11.933466-08:00.hyperlinks.json) |
-| [September 17 at 2:47 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-17T02:47:52.361236-08:00.hyperlinks.json) |
-| [September 16 at 2:50 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-16T14:50:31.010549-08:00.hyperlinks.json) |
-| [September 16 at 2:50 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-16T02:50:37.946662-08:00.hyperlinks.json) |
-| [September 15 at 2:53 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-15T14:53:17.500796-08:00.hyperlinks.json) |
-| [September 15 at 2:53 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-15T02:53:10.528698-08:00.hyperlinks.json) |
-| [September 14 at 2:59 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-14T14:59:25.664396-08:00.hyperlinks.json) |
+| [September 27 at 2:53 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-27T02:53:46.704616-08:00.hyperlinks.json) |
+| [September 26 at 2:50 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-26T14:50:44.950315-08:00.hyperlinks.json) |
+| [September 26 at 2:52 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-26T02:52:18.034145-08:00.hyperlinks.json) |
+| [September 25 at 2:40 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-25T14:40:42.698899-08:00.hyperlinks.json) |
+| [September 25 at 2:40 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-25T02:40:32.641577-08:00.hyperlinks.json) |
+| [September 24 at 2:40 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-24T14:40:17.983380-08:00.hyperlinks.json) |
+| [September 24 at 2:42 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-24T02:42:27.733271-08:00.hyperlinks.json) |
+| [September 23 at 3:50 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-23T15:50:49.832495-08:00.hyperlinks.json) |
+| [September 23 at 2:46 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-23T02:46:42.393097-08:00.hyperlinks.json) |
+| [September 22 at 2:48 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-22T14:48:26.881552-08:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 14 accessibility trees with the Internet Archive.
+The archiving routine has saved 31 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/akpublicnews.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 2:47 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-19T02:47:34.996431-08:00.accessibility.json) |
-| [September 18 at 2:47 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-18T14:47:35.189447-08:00.accessibility.json) |
-| [September 18 at 2:49 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-18T02:49:03.306136-08:00.accessibility.json) |
-| [September 17 at 2:51 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-17T14:51:11.933466-08:00.accessibility.json) |
-| [September 17 at 2:47 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-17T02:47:52.361236-08:00.accessibility.json) |
-| [September 16 at 2:50 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-16T14:50:31.010549-08:00.accessibility.json) |
-| [September 16 at 2:50 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-16T02:50:37.946662-08:00.accessibility.json) |
-| [September 15 at 2:53 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-15T14:53:17.500796-08:00.accessibility.json) |
-| [September 15 at 2:53 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-15T02:53:10.528698-08:00.accessibility.json) |
-| [September 14 at 2:59 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-14T14:59:25.664396-08:00.accessibility.json) |
+| [September 27 at 2:53 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-27T02:53:46.704616-08:00.accessibility.json) |
+| [September 26 at 2:50 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-26T14:50:44.950315-08:00.accessibility.json) |
+| [September 26 at 2:52 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-26T02:52:18.034145-08:00.accessibility.json) |
+| [September 25 at 2:40 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-25T14:40:42.698899-08:00.accessibility.json) |
+| [September 25 at 2:40 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-25T02:40:32.641577-08:00.accessibility.json) |
+| [September 24 at 2:40 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-24T14:40:17.983380-08:00.accessibility.json) |
+| [September 24 at 2:42 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-24T02:42:27.733271-08:00.accessibility.json) |
+| [September 23 at 3:50 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-23T15:50:49.832495-08:00.accessibility.json) |
+| [September 23 at 2:46 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-23T02:46:42.393097-08:00.accessibility.json) |
+| [September 22 at 2:48 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-22T14:48:26.881552-08:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/akpublicnews.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 2:47 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-19T02:47:34.996431-08:00.lighthouse.json) |
-| [September 18 at 2:47 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-18T14:47:35.189447-08:00.lighthouse.json) |
-| [September 18 at 2:49 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-18T02:49:03.306136-08:00.lighthouse.json) |
-| [September 17 at 2:51 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-17T14:51:11.933466-08:00.lighthouse.json) |
-| [September 17 at 2:47 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-17T02:47:52.361236-08:00.lighthouse.json) |
-| [September 16 at 2:50 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-16T14:50:31.010549-08:00.lighthouse.json) |
-| [September 16 at 2:50 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-16T02:50:37.946662-08:00.lighthouse.json) |
-| [September 15 at 2:53 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-15T14:53:17.500796-08:00.lighthouse.json) |
-| [September 15 at 2:53 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-15T02:53:10.528698-08:00.lighthouse.json) |
-| [September 14 at 2:59 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-14T14:59:25.664396-08:00.lighthouse.json) |
+| [September 27 at 2:53 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-27T02:53:46.704616-08:00.lighthouse.json) |
+| [September 26 at 2:50 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-26T14:50:44.950315-08:00.lighthouse.json) |
+| [September 26 at 2:52 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-26T02:52:18.034145-08:00.lighthouse.json) |
+| [September 25 at 2:40 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-25T14:40:42.698899-08:00.lighthouse.json) |
+| [September 25 at 2:40 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-25T02:40:32.641577-08:00.lighthouse.json) |
+| [September 24 at 2:40 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-24T14:40:17.983380-08:00.lighthouse.json) |
+| [September 24 at 2:42 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-24T02:42:27.733271-08:00.lighthouse.json) |
+| [September 23 at 3:50 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-23T15:50:49.832495-08:00.lighthouse.json) |
+| [September 23 at 2:46 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-23T02:46:42.393097-08:00.lighthouse.json) |
+| [September 22 at 2:48 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-09-22T14:48:26.881552-08:00.lighthouse.json) |
 
 
 

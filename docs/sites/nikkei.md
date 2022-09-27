@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 213 screenshots with the Internet Archive.
+The archiving routine has saved 236 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-20T02:35:08.253074+09:00.jpg">
-  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-20T02:35:08.253074+09:00.jpg"
-     alt="Nikkei at 2022-09-20 02:35:09+09:00 local time"
+ <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-27T16:08:14.029364+09:00.jpg">
+  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-27T16:08:14.029364+09:00.jpg"
+     alt="Nikkei at 2022-09-27 16:08:15+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-20T02:35:08.253074+09:00.jpg">September 20 at 2:35 AM</a></p>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-27T16:08:14.029364+09:00.jpg">September 27 at 4:08 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-19T15:04:39.032567+09:00.jpg">
-  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-19T15:04:39.032567+09:00.jpg"
-     alt="Nikkei at 2022-09-19 15:04:41+09:00 local time"
+ <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-27T11:11:11.888192+09:00.jpg">
+  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-27T11:11:11.888192+09:00.jpg"
+     alt="Nikkei at 2022-09-27 11:11:13+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-19T15:04:39.032567+09:00.jpg">September 19 at 3:04 PM</a></p>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-27T11:11:11.888192+09:00.jpg">September 27 at 11:11 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-19T11:15:51.393677+09:00.jpg">
-  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-19T11:15:51.393677+09:00.jpg"
-     alt="Nikkei at 2022-09-19 11:16:00+09:00 local time"
+ <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-27T04:27:42.439510+09:00.jpg">
+  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-27T04:27:42.439510+09:00.jpg"
+     alt="Nikkei at 2022-09-27 04:27:54+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-19T11:15:51.393677+09:00.jpg">September 19 at 11:16 AM</a></p>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-27T04:27:42.439510+09:00.jpg">September 27 at 4:27 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-19T02:28:22.311019+09:00.jpg">
-  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-19T02:28:22.311019+09:00.jpg"
-     alt="Nikkei at 2022-09-19 02:28:31+09:00 local time"
+ <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-26T16:42:20.539243+09:00.jpg">
+  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-26T16:42:20.539243+09:00.jpg"
+     alt="Nikkei at 2022-09-26 16:42:22+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-19T02:28:22.311019+09:00.jpg">September 19 at 2:28 AM</a></p>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-26T16:42:20.539243+09:00.jpg">September 26 at 4:42 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-18T14:24:28.480028+09:00.jpg">
-  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-18T14:24:28.480028+09:00.jpg"
-     alt="Nikkei at 2022-09-18 14:24:31+09:00 local time"
+ <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-26T11:13:10.499788+09:00.jpg">
+  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-26T11:13:10.499788+09:00.jpg"
+     alt="Nikkei at 2022-09-26 11:13:21+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-18T14:24:28.480028+09:00.jpg">September 18 at 2:24 PM</a></p>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-26T11:13:10.499788+09:00.jpg">September 26 at 11:13 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-18T11:21:45.929204+09:00.jpg">
-  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-18T11:21:45.929204+09:00.jpg"
-     alt="Nikkei at 2022-09-18 11:21:56+09:00 local time"
+ <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-26T03:31:01.640289+09:00.jpg">
+  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-26T03:31:01.640289+09:00.jpg"
+     alt="Nikkei at 2022-09-26 03:31:14+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-18T11:21:45.929204+09:00.jpg">September 18 at 11:21 AM</a></p>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-26T03:31:01.640289+09:00.jpg">September 26 at 3:31 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-18T01:00:18.362990+09:00.jpg">
-  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-18T01:00:18.362990+09:00.jpg"
-     alt="Nikkei at 2022-09-18 01:00:19+09:00 local time"
+ <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-25T15:54:02.022887+09:00.jpg">
+  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-25T15:54:02.022887+09:00.jpg"
+     alt="Nikkei at 2022-09-25 15:54:12+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-18T01:00:18.362990+09:00.jpg">September 18 at 1:00 AM</a></p>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-25T15:54:02.022887+09:00.jpg">September 25 at 3:54 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-17T13:35:59.577663+09:00.jpg">
-  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-17T13:35:59.577663+09:00.jpg"
-     alt="Nikkei at 2022-09-17 13:36:00+09:00 local time"
+ <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-25T11:07:10.209441+09:00.jpg">
+  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-25T11:07:10.209441+09:00.jpg"
+     alt="Nikkei at 2022-09-25 11:07:19+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-17T13:35:59.577663+09:00.jpg">September 17 at 1:36 PM</a></p>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-25T11:07:10.209441+09:00.jpg">September 25 at 11:07 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-17T11:18:31.772564+09:00.jpg">
-  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-17T11:18:31.772564+09:00.jpg"
-     alt="Nikkei at 2022-09-17 11:18:38+09:00 local time"
+ <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-25T03:30:09.005806+09:00.jpg">
+  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-25T03:30:09.005806+09:00.jpg"
+     alt="Nikkei at 2022-09-25 03:30:16+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-17T11:18:31.772564+09:00.jpg">September 17 at 11:18 AM</a></p>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-25T03:30:09.005806+09:00.jpg">September 25 at 3:30 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-17T01:05:14.879025+09:00.jpg">
-  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-17T01:05:14.879025+09:00.jpg"
-     alt="Nikkei at 2022-09-17 01:05:17+09:00 local time"
+ <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-24T15:55:04.119327+09:00.jpg">
+  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-24T15:55:04.119327+09:00.jpg"
+     alt="Nikkei at 2022-09-24 15:55:32+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-17T01:05:14.879025+09:00.jpg">September 17 at 1:05 AM</a></p>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-24T15:55:04.119327+09:00.jpg">September 24 at 3:55 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-16T14:29:04.199650+09:00.jpg">
-  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-16T14:29:04.199650+09:00.jpg"
-     alt="Nikkei at 2022-09-16 14:29:05+09:00 local time"
+ <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-24T11:12:37.025779+09:00.jpg">
+  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-24T11:12:37.025779+09:00.jpg"
+     alt="Nikkei at 2022-09-24 11:12:45+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-16T14:29:04.199650+09:00.jpg">September 16 at 2:29 PM</a></p>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-24T11:12:37.025779+09:00.jpg">September 24 at 11:12 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-16T11:20:08.001016+09:00.jpg">
-  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-16T11:20:08.001016+09:00.jpg"
-     alt="Nikkei at 2022-09-16 11:20:20+09:00 local time"
+ <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-24T03:46:16.804330+09:00.jpg">
+  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-24T03:46:16.804330+09:00.jpg"
+     alt="Nikkei at 2022-09-24 03:46:36+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-16T11:20:08.001016+09:00.jpg">September 16 at 11:20 AM</a></p>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-24T03:46:16.804330+09:00.jpg">September 24 at 3:46 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 214 hyperlink lists with the Internet Archive.
+The archiving routine has saved 237 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 20 at 2:35 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-20T02:35:08.253074+09:00.hyperlinks.json) |
-| [September 19 at 3:04 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-19T15:04:39.032567+09:00.hyperlinks.json) |
-| [September 19 at 11:16 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-19T11:15:51.393677+09:00.hyperlinks.json) |
-| [September 19 at 2:28 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-19T02:28:22.311019+09:00.hyperlinks.json) |
-| [September 18 at 2:24 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-18T14:24:28.480028+09:00.hyperlinks.json) |
-| [September 18 at 11:22 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-18T11:21:45.929204+09:00.hyperlinks.json) |
-| [September 18 at 1:00 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-18T01:00:18.362990+09:00.hyperlinks.json) |
-| [September 17 at 1:36 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-17T13:35:59.577663+09:00.hyperlinks.json) |
-| [September 17 at 11:18 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-17T11:18:31.772564+09:00.hyperlinks.json) |
-| [September 17 at 1:05 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-17T01:05:14.879025+09:00.hyperlinks.json) |
+| [September 27 at 4:08 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-27T16:08:14.029364+09:00.hyperlinks.json) |
+| [September 27 at 11:11 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-27T11:11:11.888192+09:00.hyperlinks.json) |
+| [September 27 at 4:27 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-27T04:27:42.439510+09:00.hyperlinks.json) |
+| [September 26 at 4:42 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-26T16:42:20.539243+09:00.hyperlinks.json) |
+| [September 26 at 11:13 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-26T11:13:10.499788+09:00.hyperlinks.json) |
+| [September 26 at 3:31 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-26T03:31:01.640289+09:00.hyperlinks.json) |
+| [September 25 at 3:54 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-25T15:54:02.022887+09:00.hyperlinks.json) |
+| [September 25 at 11:07 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-25T11:07:10.209441+09:00.hyperlinks.json) |
+| [September 25 at 3:30 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-25T03:30:09.005806+09:00.hyperlinks.json) |
+| [September 24 at 3:55 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-24T15:55:04.119327+09:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 213 accessibility trees with the Internet Archive.
+The archiving routine has saved 236 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 20 at 2:35 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-20T02:35:08.253074+09:00.accessibility.json) |
-| [September 19 at 3:04 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-19T15:04:39.032567+09:00.accessibility.json) |
-| [September 19 at 11:16 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-19T11:15:51.393677+09:00.accessibility.json) |
-| [September 19 at 2:28 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-19T02:28:22.311019+09:00.accessibility.json) |
-| [September 18 at 2:24 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-18T14:24:28.480028+09:00.accessibility.json) |
-| [September 18 at 11:21 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-18T11:21:45.929204+09:00.accessibility.json) |
-| [September 18 at 1:00 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-18T01:00:18.362990+09:00.accessibility.json) |
-| [September 17 at 1:36 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-17T13:35:59.577663+09:00.accessibility.json) |
-| [September 17 at 11:18 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-17T11:18:31.772564+09:00.accessibility.json) |
-| [September 17 at 1:05 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-17T01:05:14.879025+09:00.accessibility.json) |
+| [September 27 at 4:08 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-27T16:08:14.029364+09:00.accessibility.json) |
+| [September 27 at 11:11 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-27T11:11:11.888192+09:00.accessibility.json) |
+| [September 27 at 4:27 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-27T04:27:42.439510+09:00.accessibility.json) |
+| [September 26 at 4:42 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-26T16:42:20.539243+09:00.accessibility.json) |
+| [September 26 at 11:13 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-26T11:13:10.499788+09:00.accessibility.json) |
+| [September 26 at 3:31 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-26T03:31:01.640289+09:00.accessibility.json) |
+| [September 25 at 3:54 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-25T15:54:02.022887+09:00.accessibility.json) |
+| [September 25 at 11:07 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-25T11:07:10.209441+09:00.accessibility.json) |
+| [September 25 at 3:30 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-25T03:30:09.005806+09:00.accessibility.json) |
+| [September 24 at 3:55 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-24T15:55:04.119327+09:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 168 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 191 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 20 at 2:35 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-20T02:35:08.253074+09:00.lighthouse.json) |
-| [September 19 at 3:04 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-19T15:04:39.032567+09:00.lighthouse.json) |
-| [September 19 at 11:16 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-19T11:15:51.393677+09:00.lighthouse.json) |
-| [September 19 at 2:28 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-19T02:28:22.311019+09:00.lighthouse.json) |
-| [September 18 at 2:24 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-18T14:24:28.480028+09:00.lighthouse.json) |
-| [September 18 at 11:22 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-18T11:21:45.929204+09:00.lighthouse.json) |
-| [September 18 at 1:00 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-18T01:00:18.362990+09:00.lighthouse.json) |
-| [September 17 at 1:36 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-17T13:35:59.577663+09:00.lighthouse.json) |
-| [September 17 at 11:18 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-17T11:18:31.772564+09:00.lighthouse.json) |
-| [September 17 at 1:05 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-17T01:05:14.879025+09:00.lighthouse.json) |
+| [September 27 at 4:08 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-27T16:08:14.029364+09:00.lighthouse.json) |
+| [September 27 at 11:11 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-27T11:11:11.888192+09:00.lighthouse.json) |
+| [September 27 at 4:28 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-27T04:27:42.439510+09:00.lighthouse.json) |
+| [September 26 at 4:42 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-26T16:42:20.539243+09:00.lighthouse.json) |
+| [September 26 at 11:13 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-26T11:13:10.499788+09:00.lighthouse.json) |
+| [September 26 at 3:31 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-26T03:31:01.640289+09:00.lighthouse.json) |
+| [September 25 at 3:54 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-25T15:54:02.022887+09:00.lighthouse.json) |
+| [September 25 at 11:07 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-25T11:07:10.209441+09:00.lighthouse.json) |
+| [September 25 at 3:30 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-25T03:30:09.005806+09:00.lighthouse.json) |
+| [September 24 at 3:55 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-24T15:55:04.119327+09:00.lighthouse.json) |
 
 
 

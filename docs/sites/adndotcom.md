@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 14 screenshots with the Internet Archive.
+The archiving routine has saved 29 screenshots with the Internet Archive.
 
 
 
@@ -37,118 +37,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-19T06:57:15.389402-08:00.jpg">
-  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-19T06:57:15.389402-08:00.jpg"
-     alt="Anchorage Daily News at 2022-09-19 06:57:17-08:00 local time"
+ <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-26T20:28:27.258794-08:00.jpg">
+  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-26T20:28:27.258794-08:00.jpg"
+     alt="Anchorage Daily News at 2022-09-26 20:28:28-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-19T06:57:15.389402-08:00.jpg">September 19 at 6:57 AM</a></p>
+ <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-26T20:28:27.258794-08:00.jpg">September 26 at 8:28 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-18T19:40:20.532722-08:00.jpg">
-  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-18T19:40:20.532722-08:00.jpg"
-     alt="Anchorage Daily News at 2022-09-18 19:40:21-08:00 local time"
+ <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-26T08:04:30.164091-08:00.jpg">
+  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-26T08:04:30.164091-08:00.jpg"
+     alt="Anchorage Daily News at 2022-09-26 08:04:32-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-18T19:40:20.532722-08:00.jpg">September 18 at 7:40 PM</a></p>
+ <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-26T08:04:30.164091-08:00.jpg">September 26 at 8:04 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-18T05:59:23.058399-08:00.jpg">
-  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-18T05:59:23.058399-08:00.jpg"
-     alt="Anchorage Daily News at 2022-09-18 05:59:26-08:00 local time"
+ <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-25T20:42:16.974201-08:00.jpg">
+  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-25T20:42:16.974201-08:00.jpg"
+     alt="Anchorage Daily News at 2022-09-25 20:42:21-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-18T05:59:23.058399-08:00.jpg">September 18 at 5:59 AM</a></p>
+ <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-25T20:42:16.974201-08:00.jpg">September 25 at 8:42 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-17T18:23:45.962194-08:00.jpg">
-  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-17T18:23:45.962194-08:00.jpg"
-     alt="Anchorage Daily News at 2022-09-17 18:23:49-08:00 local time"
+ <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-25T07:51:21.096775-08:00.jpg">
+  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-25T07:51:21.096775-08:00.jpg"
+     alt="Anchorage Daily News at 2022-09-25 07:51:22-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-17T18:23:45.962194-08:00.jpg">September 17 at 6:23 PM</a></p>
+ <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-25T07:51:21.096775-08:00.jpg">September 25 at 7:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-17T05:57:35.347381-08:00.jpg">
-  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-17T05:57:35.347381-08:00.jpg"
-     alt="Anchorage Daily News at 2022-09-17 05:57:37-08:00 local time"
+ <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-24T20:27:51.565198-08:00.jpg">
+  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-24T20:27:51.565198-08:00.jpg"
+     alt="Anchorage Daily News at 2022-09-24 20:27:53-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-17T05:57:35.347381-08:00.jpg">September 17 at 5:57 AM</a></p>
+ <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-24T20:27:51.565198-08:00.jpg">September 24 at 8:27 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-16T18:22:24.708808-08:00.jpg">
-  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-16T18:22:24.708808-08:00.jpg"
-     alt="Anchorage Daily News at 2022-09-16 18:22:28-08:00 local time"
+ <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-24T07:48:45.987410-08:00.jpg">
+  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-24T07:48:45.987410-08:00.jpg"
+     alt="Anchorage Daily News at 2022-09-24 07:48:48-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-16T18:22:24.708808-08:00.jpg">September 16 at 6:22 PM</a></p>
+ <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-24T07:48:45.987410-08:00.jpg">September 24 at 7:48 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-16T06:04:26.482728-08:00.jpg">
-  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-16T06:04:26.482728-08:00.jpg"
-     alt="Anchorage Daily News at 2022-09-16 06:04:27-08:00 local time"
+ <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-23T20:29:36.850531-08:00.jpg">
+  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-23T20:29:36.850531-08:00.jpg"
+     alt="Anchorage Daily News at 2022-09-23 20:29:38-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-16T06:04:26.482728-08:00.jpg">September 16 at 6:04 AM</a></p>
+ <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-23T20:29:36.850531-08:00.jpg">September 23 at 8:29 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-15T18:23:18.037334-08:00.jpg">
-  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-15T18:23:18.037334-08:00.jpg"
-     alt="Anchorage Daily News at 2022-09-15 18:23:20-08:00 local time"
+ <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-23T07:57:12.306309-08:00.jpg">
+  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-23T07:57:12.306309-08:00.jpg"
+     alt="Anchorage Daily News at 2022-09-23 07:57:14-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-15T18:23:18.037334-08:00.jpg">September 15 at 6:23 PM</a></p>
+ <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-23T07:57:12.306309-08:00.jpg">September 23 at 7:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-15T06:09:40.724446-08:00.jpg">
-  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-15T06:09:40.724446-08:00.jpg"
-     alt="Anchorage Daily News at 2022-09-15 06:09:44-08:00 local time"
+ <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-22T21:11:31.877799-08:00.jpg">
+  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-22T21:11:31.877799-08:00.jpg"
+     alt="Anchorage Daily News at 2022-09-22 21:11:33-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-15T06:09:40.724446-08:00.jpg">September 15 at 6:09 AM</a></p>
+ <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-22T21:11:31.877799-08:00.jpg">September 22 at 9:11 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-14T18:25:51.623597-08:00.jpg">
-  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-14T18:25:51.623597-08:00.jpg"
-     alt="Anchorage Daily News at 2022-09-14 18:25:52-08:00 local time"
+ <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-22T07:58:25.861585-08:00.jpg">
+  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-22T07:58:25.861585-08:00.jpg"
+     alt="Anchorage Daily News at 2022-09-22 07:58:27-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-14T18:25:51.623597-08:00.jpg">September 14 at 6:25 PM</a></p>
+ <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-22T07:58:25.861585-08:00.jpg">September 22 at 7:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-14T06:11:09.265774-08:00.jpg">
-  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-14T06:11:09.265774-08:00.jpg"
-     alt="Anchorage Daily News at 2022-09-14 06:11:11-08:00 local time"
+ <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-21T20:34:49.222501-08:00.jpg">
+  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-21T20:34:49.222501-08:00.jpg"
+     alt="Anchorage Daily News at 2022-09-21 20:34:51-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-14T06:11:09.265774-08:00.jpg">September 14 at 6:11 AM</a></p>
+ <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-21T20:34:49.222501-08:00.jpg">September 21 at 8:34 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-13T18:23:10.489811-08:00.jpg">
-  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-13T18:23:10.489811-08:00.jpg"
-     alt="Anchorage Daily News at 2022-09-13 18:23:12-08:00 local time"
+ <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-21T08:00:38.529109-08:00.jpg">
+  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-21T08:00:38.529109-08:00.jpg"
+     alt="Anchorage Daily News at 2022-09-21 08:00:40-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-13T18:23:10.489811-08:00.jpg">September 13 at 6:23 PM</a></p>
+ <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-21T08:00:38.529109-08:00.jpg">September 21 at 8:00 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 14 hyperlink lists with the Internet Archive.
+The archiving routine has saved 29 hyperlink lists with the Internet Archive.
 
 
 
@@ -156,21 +156,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 6:57 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-19T06:57:15.389402-08:00.hyperlinks.json) |
-| [September 18 at 7:40 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-18T19:40:20.532722-08:00.hyperlinks.json) |
-| [September 18 at 5:59 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-18T05:59:23.058399-08:00.hyperlinks.json) |
-| [September 17 at 6:23 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-17T18:23:45.962194-08:00.hyperlinks.json) |
-| [September 17 at 5:57 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-17T05:57:35.347381-08:00.hyperlinks.json) |
-| [September 16 at 6:22 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-16T18:22:24.708808-08:00.hyperlinks.json) |
-| [September 16 at 6:04 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-16T06:04:26.482728-08:00.hyperlinks.json) |
-| [September 15 at 6:23 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-15T18:23:18.037334-08:00.hyperlinks.json) |
-| [September 15 at 6:09 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-15T06:09:40.724446-08:00.hyperlinks.json) |
-| [September 14 at 6:25 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-14T18:25:51.623597-08:00.hyperlinks.json) |
+| [September 26 at 8:28 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-26T20:28:27.258794-08:00.hyperlinks.json) |
+| [September 26 at 8:04 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-26T08:04:30.164091-08:00.hyperlinks.json) |
+| [September 25 at 8:42 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-25T20:42:16.974201-08:00.hyperlinks.json) |
+| [September 25 at 7:51 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-25T07:51:21.096775-08:00.hyperlinks.json) |
+| [September 24 at 8:27 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-24T20:27:51.565198-08:00.hyperlinks.json) |
+| [September 24 at 7:48 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-24T07:48:45.987410-08:00.hyperlinks.json) |
+| [September 23 at 8:29 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-23T20:29:36.850531-08:00.hyperlinks.json) |
+| [September 23 at 7:57 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-23T07:57:12.306309-08:00.hyperlinks.json) |
+| [September 22 at 9:11 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-22T21:11:31.877799-08:00.hyperlinks.json) |
+| [September 22 at 7:58 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-22T07:58:25.861585-08:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 14 accessibility trees with the Internet Archive.
+The archiving routine has saved 29 accessibility trees with the Internet Archive.
 
 
 
@@ -178,22 +178,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 6:57 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-19T06:57:15.389402-08:00.accessibility.json) |
-| [September 18 at 7:40 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-18T19:40:20.532722-08:00.accessibility.json) |
-| [September 18 at 5:59 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-18T05:59:23.058399-08:00.accessibility.json) |
-| [September 17 at 6:23 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-17T18:23:45.962194-08:00.accessibility.json) |
-| [September 17 at 5:57 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-17T05:57:35.347381-08:00.accessibility.json) |
-| [September 16 at 6:22 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-16T18:22:24.708808-08:00.accessibility.json) |
-| [September 16 at 6:04 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-16T06:04:26.482728-08:00.accessibility.json) |
-| [September 15 at 6:23 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-15T18:23:18.037334-08:00.accessibility.json) |
-| [September 15 at 6:09 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-15T06:09:40.724446-08:00.accessibility.json) |
-| [September 14 at 6:25 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-14T18:25:51.623597-08:00.accessibility.json) |
+| [September 26 at 8:28 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-26T20:28:27.258794-08:00.accessibility.json) |
+| [September 26 at 8:04 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-26T08:04:30.164091-08:00.accessibility.json) |
+| [September 25 at 8:42 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-25T20:42:16.974201-08:00.accessibility.json) |
+| [September 25 at 7:51 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-25T07:51:21.096775-08:00.accessibility.json) |
+| [September 24 at 8:27 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-24T20:27:51.565198-08:00.accessibility.json) |
+| [September 24 at 7:48 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-24T07:48:45.987410-08:00.accessibility.json) |
+| [September 23 at 8:29 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-23T20:29:36.850531-08:00.accessibility.json) |
+| [September 23 at 7:57 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-23T07:57:12.306309-08:00.accessibility.json) |
+| [September 22 at 9:11 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-22T21:11:31.877799-08:00.accessibility.json) |
+| [September 22 at 7:58 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-22T07:58:25.861585-08:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
 
 
 
@@ -201,16 +201,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 6:57 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-19T06:57:15.389402-08:00.lighthouse.json) |
-| [September 18 at 7:40 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-18T19:40:20.532722-08:00.lighthouse.json) |
-| [September 18 at 5:59 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-18T05:59:23.058399-08:00.lighthouse.json) |
-| [September 17 at 6:23 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-17T18:23:45.962194-08:00.lighthouse.json) |
-| [September 17 at 5:57 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-17T05:57:35.347381-08:00.lighthouse.json) |
-| [September 16 at 6:22 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-16T18:22:24.708808-08:00.lighthouse.json) |
-| [September 16 at 6:04 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-16T06:04:26.482728-08:00.lighthouse.json) |
-| [September 15 at 6:23 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-15T18:23:18.037334-08:00.lighthouse.json) |
-| [September 15 at 6:09 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-15T06:09:40.724446-08:00.lighthouse.json) |
-| [September 14 at 6:25 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-14T18:25:51.623597-08:00.lighthouse.json) |
+| [September 26 at 8:28 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-26T20:28:27.258794-08:00.lighthouse.json) |
+| [September 26 at 8:04 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-26T08:04:30.164091-08:00.lighthouse.json) |
+| [September 25 at 8:42 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-25T20:42:16.974201-08:00.lighthouse.json) |
+| [September 25 at 7:51 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-25T07:51:21.096775-08:00.lighthouse.json) |
+| [September 24 at 8:27 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-24T20:27:51.565198-08:00.lighthouse.json) |
+| [September 24 at 7:48 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-24T07:48:45.987410-08:00.lighthouse.json) |
+| [September 23 at 8:29 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-23T20:29:36.850531-08:00.lighthouse.json) |
+| [September 23 at 7:57 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-23T07:57:12.306309-08:00.lighthouse.json) |
+| [September 22 at 9:11 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-22T21:11:31.877799-08:00.lighthouse.json) |
+| [September 22 at 7:58 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-22T07:58:25.861585-08:00.lighthouse.json) |
 
 
 

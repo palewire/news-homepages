@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 81 screenshots with the Internet Archive.
+The archiving routine has saved 98 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/corriere-2022/corriere-2022-09-19T12:51:00.192538+02:00.jpg">
-  <img src="https://archive.org/download/corriere-2022/corriere-2022-09-19T12:51:00.192538+02:00.jpg"
-     alt="Corriere della Sera at 2022-09-19 12:51:02+02:00 local time"
+ <a href="https://archive.org/download/corriere-2022/corriere-2022-09-27T13:52:00.267268+02:00.jpg">
+  <img src="https://archive.org/download/corriere-2022/corriere-2022-09-27T13:52:00.267268+02:00.jpg"
+     alt="Corriere della Sera at 2022-09-27 13:52:01+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/corriere-2022/corriere-2022-09-19T12:51:00.192538+02:00.jpg">September 19 at 12:51 PM</a></p>
+ <p><a href="https://archive.org/download/corriere-2022/corriere-2022-09-27T13:52:00.267268+02:00.jpg">September 27 at 1:52 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/corriere-2022/corriere-2022-09-19T00:51:55.290945+02:00.jpg">
-  <img src="https://archive.org/download/corriere-2022/corriere-2022-09-19T00:51:55.290945+02:00.jpg"
-     alt="Corriere della Sera at 2022-09-19 00:52:02+02:00 local time"
+ <a href="https://archive.org/download/corriere-2022/corriere-2022-09-27T01:45:30.847122+02:00.jpg">
+  <img src="https://archive.org/download/corriere-2022/corriere-2022-09-27T01:45:30.847122+02:00.jpg"
+     alt="Corriere della Sera at 2022-09-27 01:45:36+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/corriere-2022/corriere-2022-09-19T00:51:55.290945+02:00.jpg">September 19 at 12:52 AM</a></p>
+ <p><a href="https://archive.org/download/corriere-2022/corriere-2022-09-27T01:45:30.847122+02:00.jpg">September 27 at 1:45 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/corriere-2022/corriere-2022-09-18T12:53:03.947398+02:00.jpg">
-  <img src="https://archive.org/download/corriere-2022/corriere-2022-09-18T12:53:03.947398+02:00.jpg"
-     alt="Corriere della Sera at 2022-09-18 12:53:09+02:00 local time"
+ <a href="https://archive.org/download/corriere-2022/corriere-2022-09-26T13:58:45.879340+02:00.jpg">
+  <img src="https://archive.org/download/corriere-2022/corriere-2022-09-26T13:58:45.879340+02:00.jpg"
+     alt="Corriere della Sera at 2022-09-26 13:58:47+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/corriere-2022/corriere-2022-09-18T12:53:03.947398+02:00.jpg">September 18 at 12:53 PM</a></p>
+ <p><a href="https://archive.org/download/corriere-2022/corriere-2022-09-26T13:58:45.879340+02:00.jpg">September 26 at 1:58 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/corriere-2022/corriere-2022-09-18T00:55:40.375504+02:00.jpg">
-  <img src="https://archive.org/download/corriere-2022/corriere-2022-09-18T00:55:40.375504+02:00.jpg"
-     alt="Corriere della Sera at 2022-09-18 00:55:42+02:00 local time"
+ <a href="https://archive.org/download/corriere-2022/corriere-2022-09-26T01:40:58.859270+02:00.jpg">
+  <img src="https://archive.org/download/corriere-2022/corriere-2022-09-26T01:40:58.859270+02:00.jpg"
+     alt="Corriere della Sera at 2022-09-26 01:41:05+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/corriere-2022/corriere-2022-09-18T00:55:40.375504+02:00.jpg">September 18 at 12:55 AM</a></p>
+ <p><a href="https://archive.org/download/corriere-2022/corriere-2022-09-26T01:40:58.859270+02:00.jpg">September 26 at 1:41 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/corriere-2022/corriere-2022-09-17T12:52:23.676472+02:00.jpg">
-  <img src="https://archive.org/download/corriere-2022/corriere-2022-09-17T12:52:23.676472+02:00.jpg"
-     alt="Corriere della Sera at 2022-09-17 12:52:30+02:00 local time"
+ <a href="https://archive.org/download/corriere-2022/corriere-2022-09-25T13:45:23.111669+02:00.jpg">
+  <img src="https://archive.org/download/corriere-2022/corriere-2022-09-25T13:45:23.111669+02:00.jpg"
+     alt="Corriere della Sera at 2022-09-25 13:45:25+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/corriere-2022/corriere-2022-09-17T12:52:23.676472+02:00.jpg">September 17 at 12:52 PM</a></p>
+ <p><a href="https://archive.org/download/corriere-2022/corriere-2022-09-25T13:45:23.111669+02:00.jpg">September 25 at 1:45 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/corriere-2022/corriere-2022-09-17T00:54:29.247924+02:00.jpg">
-  <img src="https://archive.org/download/corriere-2022/corriere-2022-09-17T00:54:29.247924+02:00.jpg"
-     alt="Corriere della Sera at 2022-09-17 00:54:34+02:00 local time"
+ <a href="https://archive.org/download/corriere-2022/corriere-2022-09-25T01:37:31.612420+02:00.jpg">
+  <img src="https://archive.org/download/corriere-2022/corriere-2022-09-25T01:37:31.612420+02:00.jpg"
+     alt="Corriere della Sera at 2022-09-25 01:37:33+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/corriere-2022/corriere-2022-09-17T00:54:29.247924+02:00.jpg">September 17 at 12:54 AM</a></p>
+ <p><a href="https://archive.org/download/corriere-2022/corriere-2022-09-25T01:37:31.612420+02:00.jpg">September 25 at 1:37 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/corriere-2022/corriere-2022-09-16T12:54:53.327171+02:00.jpg">
-  <img src="https://archive.org/download/corriere-2022/corriere-2022-09-16T12:54:53.327171+02:00.jpg"
-     alt="Corriere della Sera at 2022-09-16 12:54:55+02:00 local time"
+ <a href="https://archive.org/download/corriere-2022/corriere-2022-09-24T13:46:37.202946+02:00.jpg">
+  <img src="https://archive.org/download/corriere-2022/corriere-2022-09-24T13:46:37.202946+02:00.jpg"
+     alt="Corriere della Sera at 2022-09-24 13:46:42+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/corriere-2022/corriere-2022-09-16T12:54:53.327171+02:00.jpg">September 16 at 12:54 PM</a></p>
+ <p><a href="https://archive.org/download/corriere-2022/corriere-2022-09-24T13:46:37.202946+02:00.jpg">September 24 at 1:46 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/corriere-2022/corriere-2022-09-16T00:57:06.880107+02:00.jpg">
-  <img src="https://archive.org/download/corriere-2022/corriere-2022-09-16T00:57:06.880107+02:00.jpg"
-     alt="Corriere della Sera at 2022-09-16 00:57:18+02:00 local time"
+ <a href="https://archive.org/download/corriere-2022/corriere-2022-09-24T01:43:47.002000+02:00.jpg">
+  <img src="https://archive.org/download/corriere-2022/corriere-2022-09-24T01:43:47.002000+02:00.jpg"
+     alt="Corriere della Sera at 2022-09-24 01:43:53+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/corriere-2022/corriere-2022-09-16T00:57:06.880107+02:00.jpg">September 16 at 12:57 AM</a></p>
+ <p><a href="https://archive.org/download/corriere-2022/corriere-2022-09-24T01:43:47.002000+02:00.jpg">September 24 at 1:43 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/corriere-2022/corriere-2022-09-15T12:57:39.288160+02:00.jpg">
-  <img src="https://archive.org/download/corriere-2022/corriere-2022-09-15T12:57:39.288160+02:00.jpg"
-     alt="Corriere della Sera at 2022-09-15 12:57:41+02:00 local time"
+ <a href="https://archive.org/download/corriere-2022/corriere-2022-09-23T13:53:49.202316+02:00.jpg">
+  <img src="https://archive.org/download/corriere-2022/corriere-2022-09-23T13:53:49.202316+02:00.jpg"
+     alt="Corriere della Sera at 2022-09-23 13:53:50+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/corriere-2022/corriere-2022-09-15T12:57:39.288160+02:00.jpg">September 15 at 12:57 PM</a></p>
+ <p><a href="https://archive.org/download/corriere-2022/corriere-2022-09-23T13:53:49.202316+02:00.jpg">September 23 at 1:53 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/corriere-2022/corriere-2022-09-15T01:03:30.742309+02:00.jpg">
-  <img src="https://archive.org/download/corriere-2022/corriere-2022-09-15T01:03:30.742309+02:00.jpg"
-     alt="Corriere della Sera at 2022-09-15 01:03:32+02:00 local time"
+ <a href="https://archive.org/download/corriere-2022/corriere-2022-09-23T01:45:00.135455+02:00.jpg">
+  <img src="https://archive.org/download/corriere-2022/corriere-2022-09-23T01:45:00.135455+02:00.jpg"
+     alt="Corriere della Sera at 2022-09-23 01:45:14+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/corriere-2022/corriere-2022-09-15T01:03:30.742309+02:00.jpg">September 15 at 1:03 AM</a></p>
+ <p><a href="https://archive.org/download/corriere-2022/corriere-2022-09-23T01:45:00.135455+02:00.jpg">September 23 at 1:45 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/corriere-2022/corriere-2022-09-14T12:57:13.306604+02:00.jpg">
-  <img src="https://archive.org/download/corriere-2022/corriere-2022-09-14T12:57:13.306604+02:00.jpg"
-     alt="Corriere della Sera at 2022-09-14 12:57:14+02:00 local time"
+ <a href="https://archive.org/download/corriere-2022/corriere-2022-09-22T13:54:47.486385+02:00.jpg">
+  <img src="https://archive.org/download/corriere-2022/corriere-2022-09-22T13:54:47.486385+02:00.jpg"
+     alt="Corriere della Sera at 2022-09-22 13:54:48+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/corriere-2022/corriere-2022-09-14T12:57:13.306604+02:00.jpg">September 14 at 12:57 PM</a></p>
+ <p><a href="https://archive.org/download/corriere-2022/corriere-2022-09-22T13:54:47.486385+02:00.jpg">September 22 at 1:54 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/corriere-2022/corriere-2022-09-14T01:02:28.710894+02:00.jpg">
-  <img src="https://archive.org/download/corriere-2022/corriere-2022-09-14T01:02:28.710894+02:00.jpg"
-     alt="Corriere della Sera at 2022-09-14 01:02:29+02:00 local time"
+ <a href="https://archive.org/download/corriere-2022/corriere-2022-09-22T01:41:09.393287+02:00.jpg">
+  <img src="https://archive.org/download/corriere-2022/corriere-2022-09-22T01:41:09.393287+02:00.jpg"
+     alt="Corriere della Sera at 2022-09-22 01:41:15+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/corriere-2022/corriere-2022-09-14T01:02:28.710894+02:00.jpg">September 14 at 1:02 AM</a></p>
+ <p><a href="https://archive.org/download/corriere-2022/corriere-2022-09-22T01:41:09.393287+02:00.jpg">September 22 at 1:41 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 81 hyperlink lists with the Internet Archive.
+The archiving routine has saved 98 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 12:51 PM](https://archive.org/download/corriere-2022/corriere-2022-09-19T12:51:00.192538+02:00.hyperlinks.json) |
-| [September 19 at 12:52 AM](https://archive.org/download/corriere-2022/corriere-2022-09-19T00:51:55.290945+02:00.hyperlinks.json) |
-| [September 18 at 12:53 PM](https://archive.org/download/corriere-2022/corriere-2022-09-18T12:53:03.947398+02:00.hyperlinks.json) |
-| [September 18 at 12:55 AM](https://archive.org/download/corriere-2022/corriere-2022-09-18T00:55:40.375504+02:00.hyperlinks.json) |
-| [September 17 at 12:52 PM](https://archive.org/download/corriere-2022/corriere-2022-09-17T12:52:23.676472+02:00.hyperlinks.json) |
-| [September 17 at 12:54 AM](https://archive.org/download/corriere-2022/corriere-2022-09-17T00:54:29.247924+02:00.hyperlinks.json) |
-| [September 16 at 12:55 PM](https://archive.org/download/corriere-2022/corriere-2022-09-16T12:54:53.327171+02:00.hyperlinks.json) |
-| [September 16 at 12:57 AM](https://archive.org/download/corriere-2022/corriere-2022-09-16T00:57:06.880107+02:00.hyperlinks.json) |
-| [September 15 at 12:57 PM](https://archive.org/download/corriere-2022/corriere-2022-09-15T12:57:39.288160+02:00.hyperlinks.json) |
-| [September 15 at 1:03 AM](https://archive.org/download/corriere-2022/corriere-2022-09-15T01:03:30.742309+02:00.hyperlinks.json) |
+| [September 27 at 1:52 PM](https://archive.org/download/corriere-2022/corriere-2022-09-27T13:52:00.267268+02:00.hyperlinks.json) |
+| [September 27 at 1:45 AM](https://archive.org/download/corriere-2022/corriere-2022-09-27T01:45:30.847122+02:00.hyperlinks.json) |
+| [September 26 at 1:58 PM](https://archive.org/download/corriere-2022/corriere-2022-09-26T13:58:45.879340+02:00.hyperlinks.json) |
+| [September 26 at 1:41 AM](https://archive.org/download/corriere-2022/corriere-2022-09-26T01:40:58.859270+02:00.hyperlinks.json) |
+| [September 25 at 1:45 PM](https://archive.org/download/corriere-2022/corriere-2022-09-25T13:45:23.111669+02:00.hyperlinks.json) |
+| [September 25 at 1:37 AM](https://archive.org/download/corriere-2022/corriere-2022-09-25T01:37:31.612420+02:00.hyperlinks.json) |
+| [September 24 at 1:46 PM](https://archive.org/download/corriere-2022/corriere-2022-09-24T13:46:37.202946+02:00.hyperlinks.json) |
+| [September 24 at 1:43 AM](https://archive.org/download/corriere-2022/corriere-2022-09-24T01:43:47.002000+02:00.hyperlinks.json) |
+| [September 23 at 1:53 PM](https://archive.org/download/corriere-2022/corriere-2022-09-23T13:53:49.202316+02:00.hyperlinks.json) |
+| [September 23 at 1:45 AM](https://archive.org/download/corriere-2022/corriere-2022-09-23T01:45:00.135455+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 81 accessibility trees with the Internet Archive.
+The archiving routine has saved 98 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 12:51 PM](https://archive.org/download/corriere-2022/corriere-2022-09-19T12:51:00.192538+02:00.accessibility.json) |
-| [September 19 at 12:52 AM](https://archive.org/download/corriere-2022/corriere-2022-09-19T00:51:55.290945+02:00.accessibility.json) |
-| [September 18 at 12:53 PM](https://archive.org/download/corriere-2022/corriere-2022-09-18T12:53:03.947398+02:00.accessibility.json) |
-| [September 18 at 12:55 AM](https://archive.org/download/corriere-2022/corriere-2022-09-18T00:55:40.375504+02:00.accessibility.json) |
-| [September 17 at 12:52 PM](https://archive.org/download/corriere-2022/corriere-2022-09-17T12:52:23.676472+02:00.accessibility.json) |
-| [September 17 at 12:54 AM](https://archive.org/download/corriere-2022/corriere-2022-09-17T00:54:29.247924+02:00.accessibility.json) |
-| [September 16 at 12:54 PM](https://archive.org/download/corriere-2022/corriere-2022-09-16T12:54:53.327171+02:00.accessibility.json) |
-| [September 16 at 12:57 AM](https://archive.org/download/corriere-2022/corriere-2022-09-16T00:57:06.880107+02:00.accessibility.json) |
-| [September 15 at 12:57 PM](https://archive.org/download/corriere-2022/corriere-2022-09-15T12:57:39.288160+02:00.accessibility.json) |
-| [September 15 at 1:03 AM](https://archive.org/download/corriere-2022/corriere-2022-09-15T01:03:30.742309+02:00.accessibility.json) |
+| [September 27 at 1:52 PM](https://archive.org/download/corriere-2022/corriere-2022-09-27T13:52:00.267268+02:00.accessibility.json) |
+| [September 27 at 1:45 AM](https://archive.org/download/corriere-2022/corriere-2022-09-27T01:45:30.847122+02:00.accessibility.json) |
+| [September 26 at 1:58 PM](https://archive.org/download/corriere-2022/corriere-2022-09-26T13:58:45.879340+02:00.accessibility.json) |
+| [September 26 at 1:41 AM](https://archive.org/download/corriere-2022/corriere-2022-09-26T01:40:58.859270+02:00.accessibility.json) |
+| [September 25 at 1:45 PM](https://archive.org/download/corriere-2022/corriere-2022-09-25T13:45:23.111669+02:00.accessibility.json) |
+| [September 25 at 1:37 AM](https://archive.org/download/corriere-2022/corriere-2022-09-25T01:37:31.612420+02:00.accessibility.json) |
+| [September 24 at 1:46 PM](https://archive.org/download/corriere-2022/corriere-2022-09-24T13:46:37.202946+02:00.accessibility.json) |
+| [September 24 at 1:43 AM](https://archive.org/download/corriere-2022/corriere-2022-09-24T01:43:47.002000+02:00.accessibility.json) |
+| [September 23 at 1:53 PM](https://archive.org/download/corriere-2022/corriere-2022-09-23T13:53:49.202316+02:00.accessibility.json) |
+| [September 23 at 1:45 AM](https://archive.org/download/corriere-2022/corriere-2022-09-23T01:45:00.135455+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 81 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 12:51 PM](https://archive.org/download/corriere-2022/corriere-2022-09-19T12:51:00.192538+02:00.lighthouse.json) |
-| [September 19 at 12:52 AM](https://archive.org/download/corriere-2022/corriere-2022-09-19T00:51:55.290945+02:00.lighthouse.json) |
-| [September 18 at 12:53 PM](https://archive.org/download/corriere-2022/corriere-2022-09-18T12:53:03.947398+02:00.lighthouse.json) |
-| [September 18 at 12:55 AM](https://archive.org/download/corriere-2022/corriere-2022-09-18T00:55:40.375504+02:00.lighthouse.json) |
-| [September 17 at 12:52 PM](https://archive.org/download/corriere-2022/corriere-2022-09-17T12:52:23.676472+02:00.lighthouse.json) |
-| [September 17 at 12:54 AM](https://archive.org/download/corriere-2022/corriere-2022-09-17T00:54:29.247924+02:00.lighthouse.json) |
-| [September 16 at 12:55 PM](https://archive.org/download/corriere-2022/corriere-2022-09-16T12:54:53.327171+02:00.lighthouse.json) |
-| [September 16 at 12:57 AM](https://archive.org/download/corriere-2022/corriere-2022-09-16T00:57:06.880107+02:00.lighthouse.json) |
-| [September 15 at 12:57 PM](https://archive.org/download/corriere-2022/corriere-2022-09-15T12:57:39.288160+02:00.lighthouse.json) |
-| [September 15 at 1:03 AM](https://archive.org/download/corriere-2022/corriere-2022-09-15T01:03:30.742309+02:00.lighthouse.json) |
+| [September 27 at 1:52 PM](https://archive.org/download/corriere-2022/corriere-2022-09-27T13:52:00.267268+02:00.lighthouse.json) |
+| [September 27 at 1:45 AM](https://archive.org/download/corriere-2022/corriere-2022-09-27T01:45:30.847122+02:00.lighthouse.json) |
+| [September 26 at 1:58 PM](https://archive.org/download/corriere-2022/corriere-2022-09-26T13:58:45.879340+02:00.lighthouse.json) |
+| [September 26 at 1:41 AM](https://archive.org/download/corriere-2022/corriere-2022-09-26T01:40:58.859270+02:00.lighthouse.json) |
+| [September 25 at 1:45 PM](https://archive.org/download/corriere-2022/corriere-2022-09-25T13:45:23.111669+02:00.lighthouse.json) |
+| [September 25 at 1:37 AM](https://archive.org/download/corriere-2022/corriere-2022-09-25T01:37:31.612420+02:00.lighthouse.json) |
+| [September 24 at 1:46 PM](https://archive.org/download/corriere-2022/corriere-2022-09-24T13:46:37.202946+02:00.lighthouse.json) |
+| [September 24 at 1:43 AM](https://archive.org/download/corriere-2022/corriere-2022-09-24T01:43:47.002000+02:00.lighthouse.json) |
+| [September 23 at 1:53 PM](https://archive.org/download/corriere-2022/corriere-2022-09-23T13:53:49.202316+02:00.lighthouse.json) |
+| [September 23 at 1:45 AM](https://archive.org/download/corriere-2022/corriere-2022-09-23T01:45:00.135455+02:00.lighthouse.json) |
 
 
 

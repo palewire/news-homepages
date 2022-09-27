@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 48 screenshots with the Internet Archive.
+The archiving routine has saved 64 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-19T10:01:26.268363-06:00.jpg">
-  <img src="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-19T10:01:26.268363-06:00.jpg"
-     alt="El Paso Matters at 2022-09-19 10:01:28-06:00 local time"
+ <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-27T00:59:59.531370-06:00.jpg">
+  <img src="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-27T00:59:59.531370-06:00.jpg"
+     alt="El Paso Matters at 2022-09-27 01:00:04-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-19T10:01:26.268363-06:00.jpg">September 19 at 10:01 AM</a></p>
+ <p><a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-27T00:59:59.531370-06:00.jpg">September 27 at 1:00 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-18T22:41:20.886241-06:00.jpg">
-  <img src="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-18T22:41:20.886241-06:00.jpg"
-     alt="El Paso Matters at 2022-09-18 22:41:22-06:00 local time"
+ <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-26T11:46:31.458222-06:00.jpg">
+  <img src="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-26T11:46:31.458222-06:00.jpg"
+     alt="El Paso Matters at 2022-09-26 11:46:33-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-18T22:41:20.886241-06:00.jpg">September 18 at 10:41 PM</a></p>
+ <p><a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-26T11:46:31.458222-06:00.jpg">September 26 at 11:46 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-17T21:50:06.535611-06:00.jpg">
-  <img src="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-17T21:50:06.535611-06:00.jpg"
-     alt="El Paso Matters at 2022-09-17 21:50:07-06:00 local time"
+ <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-26T00:18:23.859819-06:00.jpg">
+  <img src="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-26T00:18:23.859819-06:00.jpg"
+     alt="El Paso Matters at 2022-09-26 00:18:25-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-17T21:50:06.535611-06:00.jpg">September 17 at 9:50 PM</a></p>
+ <p><a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-26T00:18:23.859819-06:00.jpg">September 26 at 12:18 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-17T08:52:02.437285-06:00.jpg">
-  <img src="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-17T08:52:02.437285-06:00.jpg"
-     alt="El Paso Matters at 2022-09-17 08:52:05-06:00 local time"
+ <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-25T11:27:38.159915-06:00.jpg">
+  <img src="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-25T11:27:38.159915-06:00.jpg"
+     alt="El Paso Matters at 2022-09-25 11:27:39-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-17T08:52:02.437285-06:00.jpg">September 17 at 8:52 AM</a></p>
+ <p><a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-25T11:27:38.159915-06:00.jpg">September 25 at 11:27 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-16T21:43:19.591340-06:00.jpg">
-  <img src="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-16T21:43:19.591340-06:00.jpg"
-     alt="El Paso Matters at 2022-09-16 21:43:21-06:00 local time"
+ <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-24T23:52:21.083836-06:00.jpg">
+  <img src="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-24T23:52:21.083836-06:00.jpg"
+     alt="El Paso Matters at 2022-09-24 23:52:23-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-16T21:43:19.591340-06:00.jpg">September 16 at 9:43 PM</a></p>
+ <p><a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-24T23:52:21.083836-06:00.jpg">September 24 at 11:52 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-16T09:01:39.751482-06:00.jpg">
-  <img src="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-16T09:01:39.751482-06:00.jpg"
-     alt="El Paso Matters at 2022-09-16 09:01:42-06:00 local time"
+ <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-24T11:25:01.802623-06:00.jpg">
+  <img src="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-24T11:25:01.802623-06:00.jpg"
+     alt="El Paso Matters at 2022-09-24 11:25:04-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-16T09:01:39.751482-06:00.jpg">September 16 at 9:01 AM</a></p>
+ <p><a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-24T11:25:01.802623-06:00.jpg">September 24 at 11:25 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-15T21:50:52.764485-06:00.jpg">
-  <img src="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-15T21:50:52.764485-06:00.jpg"
-     alt="El Paso Matters at 2022-09-15 21:50:54-06:00 local time"
+ <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-23T23:52:28.872907-06:00.jpg">
+  <img src="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-23T23:52:28.872907-06:00.jpg"
+     alt="El Paso Matters at 2022-09-23 23:52:30-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-15T21:50:52.764485-06:00.jpg">September 15 at 9:50 PM</a></p>
+ <p><a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-23T23:52:28.872907-06:00.jpg">September 23 at 11:52 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-15T10:13:07.549640-06:00.jpg">
-  <img src="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-15T10:13:07.549640-06:00.jpg"
-     alt="El Paso Matters at 2022-09-15 10:13:09-06:00 local time"
+ <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-23T11:38:16.574774-06:00.jpg">
+  <img src="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-23T11:38:16.574774-06:00.jpg"
+     alt="El Paso Matters at 2022-09-23 11:38:25-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-15T10:13:07.549640-06:00.jpg">September 15 at 10:13 AM</a></p>
+ <p><a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-23T11:38:16.574774-06:00.jpg">September 23 at 11:38 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-14T21:50:27.156604-06:00.jpg">
-  <img src="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-14T21:50:27.156604-06:00.jpg"
-     alt="El Paso Matters at 2022-09-14 21:50:32-06:00 local time"
+ <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-23T01:14:47.710033-06:00.jpg">
+  <img src="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-23T01:14:47.710033-06:00.jpg"
+     alt="El Paso Matters at 2022-09-23 01:14:50-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-14T21:50:27.156604-06:00.jpg">September 14 at 9:50 PM</a></p>
+ <p><a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-23T01:14:47.710033-06:00.jpg">September 23 at 1:14 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-14T09:19:50.672958-06:00.jpg">
-  <img src="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-14T09:19:50.672958-06:00.jpg"
-     alt="El Paso Matters at 2022-09-14 09:19:53-06:00 local time"
+ <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-22T11:36:10.280411-06:00.jpg">
+  <img src="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-22T11:36:10.280411-06:00.jpg"
+     alt="El Paso Matters at 2022-09-22 11:36:13-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-14T09:19:50.672958-06:00.jpg">September 14 at 9:19 AM</a></p>
+ <p><a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-22T11:36:10.280411-06:00.jpg">September 22 at 11:36 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-13T21:48:54.977027-06:00.jpg">
-  <img src="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-13T21:48:54.977027-06:00.jpg"
-     alt="El Paso Matters at 2022-09-13 21:48:58-06:00 local time"
+ <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-22T00:05:03.836505-06:00.jpg">
+  <img src="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-22T00:05:03.836505-06:00.jpg"
+     alt="El Paso Matters at 2022-09-22 00:05:06-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-13T21:48:54.977027-06:00.jpg">September 13 at 9:48 PM</a></p>
+ <p><a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-22T00:05:03.836505-06:00.jpg">September 22 at 12:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-13T10:06:45.247765-06:00.jpg">
-  <img src="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-13T10:06:45.247765-06:00.jpg"
-     alt="El Paso Matters at 2022-09-13 10:06:47-06:00 local time"
+ <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-21T11:43:05.903142-06:00.jpg">
+  <img src="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-21T11:43:05.903142-06:00.jpg"
+     alt="El Paso Matters at 2022-09-21 11:43:09-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-13T10:06:45.247765-06:00.jpg">September 13 at 10:06 AM</a></p>
+ <p><a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-21T11:43:05.903142-06:00.jpg">September 21 at 11:43 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 48 hyperlink lists with the Internet Archive.
+The archiving routine has saved 64 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 10:01 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-19T10:01:26.268363-06:00.hyperlinks.json) |
-| [September 18 at 10:41 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-18T22:41:20.886241-06:00.hyperlinks.json) |
-| [September 17 at 9:50 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-17T21:50:06.535611-06:00.hyperlinks.json) |
-| [September 17 at 8:52 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-17T08:52:02.437285-06:00.hyperlinks.json) |
-| [September 16 at 9:43 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-16T21:43:19.591340-06:00.hyperlinks.json) |
-| [September 16 at 9:01 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-16T09:01:39.751482-06:00.hyperlinks.json) |
-| [September 15 at 9:50 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-15T21:50:52.764485-06:00.hyperlinks.json) |
-| [September 15 at 10:13 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-15T10:13:07.549640-06:00.hyperlinks.json) |
-| [September 14 at 9:50 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-14T21:50:27.156604-06:00.hyperlinks.json) |
-| [September 14 at 9:19 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-14T09:19:50.672958-06:00.hyperlinks.json) |
+| [September 27 at 1:00 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-27T00:59:59.531370-06:00.hyperlinks.json) |
+| [September 26 at 11:46 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-26T11:46:31.458222-06:00.hyperlinks.json) |
+| [September 26 at 12:18 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-26T00:18:23.859819-06:00.hyperlinks.json) |
+| [September 25 at 11:27 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-25T11:27:38.159915-06:00.hyperlinks.json) |
+| [September 24 at 11:52 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-24T23:52:21.083836-06:00.hyperlinks.json) |
+| [September 24 at 11:25 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-24T11:25:01.802623-06:00.hyperlinks.json) |
+| [September 23 at 11:52 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-23T23:52:28.872907-06:00.hyperlinks.json) |
+| [September 23 at 11:38 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-23T11:38:16.574774-06:00.hyperlinks.json) |
+| [September 23 at 1:14 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-23T01:14:47.710033-06:00.hyperlinks.json) |
+| [September 22 at 11:36 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-22T11:36:10.280411-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 48 accessibility trees with the Internet Archive.
+The archiving routine has saved 64 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 10:01 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-19T10:01:26.268363-06:00.accessibility.json) |
-| [September 18 at 10:41 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-18T22:41:20.886241-06:00.accessibility.json) |
-| [September 17 at 9:50 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-17T21:50:06.535611-06:00.accessibility.json) |
-| [September 17 at 8:52 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-17T08:52:02.437285-06:00.accessibility.json) |
-| [September 16 at 9:43 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-16T21:43:19.591340-06:00.accessibility.json) |
-| [September 16 at 9:01 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-16T09:01:39.751482-06:00.accessibility.json) |
-| [September 15 at 9:50 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-15T21:50:52.764485-06:00.accessibility.json) |
-| [September 15 at 10:13 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-15T10:13:07.549640-06:00.accessibility.json) |
-| [September 14 at 9:50 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-14T21:50:27.156604-06:00.accessibility.json) |
-| [September 14 at 9:19 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-14T09:19:50.672958-06:00.accessibility.json) |
+| [September 27 at 1:00 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-27T00:59:59.531370-06:00.accessibility.json) |
+| [September 26 at 11:46 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-26T11:46:31.458222-06:00.accessibility.json) |
+| [September 26 at 12:18 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-26T00:18:23.859819-06:00.accessibility.json) |
+| [September 25 at 11:27 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-25T11:27:38.159915-06:00.accessibility.json) |
+| [September 24 at 11:52 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-24T23:52:21.083836-06:00.accessibility.json) |
+| [September 24 at 11:25 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-24T11:25:01.802623-06:00.accessibility.json) |
+| [September 23 at 11:52 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-23T23:52:28.872907-06:00.accessibility.json) |
+| [September 23 at 11:38 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-23T11:38:16.574774-06:00.accessibility.json) |
+| [September 23 at 1:14 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-23T01:14:47.710033-06:00.accessibility.json) |
+| [September 22 at 11:36 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-22T11:36:10.280411-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 64 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 10:01 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-19T10:01:26.268363-06:00.lighthouse.json) |
-| [September 18 at 10:41 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-18T22:41:20.886241-06:00.lighthouse.json) |
-| [September 17 at 9:50 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-17T21:50:06.535611-06:00.lighthouse.json) |
-| [September 17 at 8:52 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-17T08:52:02.437285-06:00.lighthouse.json) |
-| [September 16 at 9:43 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-16T21:43:19.591340-06:00.lighthouse.json) |
-| [September 16 at 9:01 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-16T09:01:39.751482-06:00.lighthouse.json) |
-| [September 15 at 9:51 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-15T21:50:52.764485-06:00.lighthouse.json) |
-| [September 15 at 10:13 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-15T10:13:07.549640-06:00.lighthouse.json) |
-| [September 14 at 9:50 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-14T21:50:27.156604-06:00.lighthouse.json) |
-| [September 14 at 9:19 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-14T09:19:50.672958-06:00.lighthouse.json) |
+| [September 27 at 1:00 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-27T00:59:59.531370-06:00.lighthouse.json) |
+| [September 26 at 11:46 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-26T11:46:31.458222-06:00.lighthouse.json) |
+| [September 26 at 12:18 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-26T00:18:23.859819-06:00.lighthouse.json) |
+| [September 25 at 11:27 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-25T11:27:38.159915-06:00.lighthouse.json) |
+| [September 24 at 11:52 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-24T23:52:21.083836-06:00.lighthouse.json) |
+| [September 24 at 11:25 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-24T11:25:01.802623-06:00.lighthouse.json) |
+| [September 23 at 11:52 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-23T23:52:28.872907-06:00.lighthouse.json) |
+| [September 23 at 11:38 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-23T11:38:16.574774-06:00.lighthouse.json) |
+| [September 23 at 1:14 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-23T01:14:47.710033-06:00.lighthouse.json) |
+| [September 22 at 11:36 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-22T11:36:10.280411-06:00.lighthouse.json) |
 
 
 

@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 477 screenshots with the Internet Archive.
+The archiving routine has saved 501 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/guardian-2022/guardian-2022-09-19T17:03:26.573966+01:00.jpg">
-  <img src="https://archive.org/download/guardian-2022/guardian-2022-09-19T17:03:26.573966+01:00.jpg"
-     alt="The Guardian at 2022-09-19 17:03:28+01:00 local time"
+ <a href="https://archive.org/download/guardian-2022/guardian-2022-09-27T10:31:19.929066+01:00.jpg">
+  <img src="https://archive.org/download/guardian-2022/guardian-2022-09-27T10:31:19.929066+01:00.jpg"
+     alt="The Guardian at 2022-09-27 10:31:21+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/guardian-2022/guardian-2022-09-19T17:03:26.573966+01:00.jpg">September 19 at 5:03 PM</a></p>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-09-27T10:31:19.929066+01:00.jpg">September 27 at 10:31 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/guardian-2022/guardian-2022-09-19T10:27:03.484807+01:00.jpg">
-  <img src="https://archive.org/download/guardian-2022/guardian-2022-09-19T10:27:03.484807+01:00.jpg"
-     alt="The Guardian at 2022-09-19 10:27:05+01:00 local time"
+ <a href="https://archive.org/download/guardian-2022/guardian-2022-09-27T06:40:38.557121+01:00.jpg">
+  <img src="https://archive.org/download/guardian-2022/guardian-2022-09-27T06:40:38.557121+01:00.jpg"
+     alt="The Guardian at 2022-09-27 06:40:40+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/guardian-2022/guardian-2022-09-19T10:27:03.484807+01:00.jpg">September 19 at 10:27 AM</a></p>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-09-27T06:40:38.557121+01:00.jpg">September 27 at 6:40 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/guardian-2022/guardian-2022-09-19T05:46:39.030698+01:00.jpg">
-  <img src="https://archive.org/download/guardian-2022/guardian-2022-09-19T05:46:39.030698+01:00.jpg"
-     alt="The Guardian at 2022-09-19 05:46:40+01:00 local time"
+ <a href="https://archive.org/download/guardian-2022/guardian-2022-09-26T18:27:38.269975+01:00.jpg">
+  <img src="https://archive.org/download/guardian-2022/guardian-2022-09-26T18:27:38.269975+01:00.jpg"
+     alt="The Guardian at 2022-09-26 18:27:40+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/guardian-2022/guardian-2022-09-19T05:46:39.030698+01:00.jpg">September 19 at 5:46 AM</a></p>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-09-26T18:27:38.269975+01:00.jpg">September 26 at 6:27 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/guardian-2022/guardian-2022-09-18T10:16:12.516214+01:00.jpg">
-  <img src="https://archive.org/download/guardian-2022/guardian-2022-09-18T10:16:12.516214+01:00.jpg"
-     alt="The Guardian at 2022-09-18 10:16:14+01:00 local time"
+ <a href="https://archive.org/download/guardian-2022/guardian-2022-09-26T10:19:17.163345+01:00.jpg">
+  <img src="https://archive.org/download/guardian-2022/guardian-2022-09-26T10:19:17.163345+01:00.jpg"
+     alt="The Guardian at 2022-09-26 10:19:19+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/guardian-2022/guardian-2022-09-18T10:16:12.516214+01:00.jpg">September 18 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-09-26T10:19:17.163345+01:00.jpg">September 26 at 10:19 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/guardian-2022/guardian-2022-09-18T04:51:31.315396+01:00.jpg">
-  <img src="https://archive.org/download/guardian-2022/guardian-2022-09-18T04:51:31.315396+01:00.jpg"
-     alt="The Guardian at 2022-09-18 04:51:32+01:00 local time"
+ <a href="https://archive.org/download/guardian-2022/guardian-2022-09-26T07:00:26.192040+01:00.jpg">
+  <img src="https://archive.org/download/guardian-2022/guardian-2022-09-26T07:00:26.192040+01:00.jpg"
+     alt="The Guardian at 2022-09-26 07:00:28+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/guardian-2022/guardian-2022-09-18T04:51:31.315396+01:00.jpg">September 18 at 4:51 AM</a></p>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-09-26T07:00:26.192040+01:00.jpg">September 26 at 7:00 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/guardian-2022/guardian-2022-09-17T15:54:44.075793+01:00.jpg">
-  <img src="https://archive.org/download/guardian-2022/guardian-2022-09-17T15:54:44.075793+01:00.jpg"
-     alt="The Guardian at 2022-09-17 15:54:45+01:00 local time"
+ <a href="https://archive.org/download/guardian-2022/guardian-2022-09-25T18:11:08.554571+01:00.jpg">
+  <img src="https://archive.org/download/guardian-2022/guardian-2022-09-25T18:11:08.554571+01:00.jpg"
+     alt="The Guardian at 2022-09-25 18:11:11+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/guardian-2022/guardian-2022-09-17T15:54:44.075793+01:00.jpg">September 17 at 3:54 PM</a></p>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-09-25T18:11:08.554571+01:00.jpg">September 25 at 6:11 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/guardian-2022/guardian-2022-09-17T10:16:24.345682+01:00.jpg">
-  <img src="https://archive.org/download/guardian-2022/guardian-2022-09-17T10:16:24.345682+01:00.jpg"
-     alt="The Guardian at 2022-09-17 10:16:25+01:00 local time"
+ <a href="https://archive.org/download/guardian-2022/guardian-2022-09-25T10:14:55.210661+01:00.jpg">
+  <img src="https://archive.org/download/guardian-2022/guardian-2022-09-25T10:14:55.210661+01:00.jpg"
+     alt="The Guardian at 2022-09-25 10:14:57+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/guardian-2022/guardian-2022-09-17T10:16:24.345682+01:00.jpg">September 17 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-09-25T10:14:55.210661+01:00.jpg">September 25 at 10:14 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/guardian-2022/guardian-2022-09-17T04:45:24.803515+01:00.jpg">
-  <img src="https://archive.org/download/guardian-2022/guardian-2022-09-17T04:45:24.803515+01:00.jpg"
-     alt="The Guardian at 2022-09-17 04:45:27+01:00 local time"
+ <a href="https://archive.org/download/guardian-2022/guardian-2022-09-25T06:37:15.548368+01:00.jpg">
+  <img src="https://archive.org/download/guardian-2022/guardian-2022-09-25T06:37:15.548368+01:00.jpg"
+     alt="The Guardian at 2022-09-25 06:37:17+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/guardian-2022/guardian-2022-09-17T04:45:24.803515+01:00.jpg">September 17 at 4:45 AM</a></p>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-09-25T06:37:15.548368+01:00.jpg">September 25 at 6:37 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/guardian-2022/guardian-2022-09-16T16:03:53.900992+01:00.jpg">
-  <img src="https://archive.org/download/guardian-2022/guardian-2022-09-16T16:03:53.900992+01:00.jpg"
-     alt="The Guardian at 2022-09-16 16:03:56+01:00 local time"
+ <a href="https://archive.org/download/guardian-2022/guardian-2022-09-24T18:10:36.381813+01:00.jpg">
+  <img src="https://archive.org/download/guardian-2022/guardian-2022-09-24T18:10:36.381813+01:00.jpg"
+     alt="The Guardian at 2022-09-24 18:10:47+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/guardian-2022/guardian-2022-09-16T16:03:53.900992+01:00.jpg">September 16 at 4:03 PM</a></p>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-09-24T18:10:36.381813+01:00.jpg">September 24 at 6:10 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/guardian-2022/guardian-2022-09-16T10:16:40.887896+01:00.jpg">
-  <img src="https://archive.org/download/guardian-2022/guardian-2022-09-16T10:16:40.887896+01:00.jpg"
-     alt="The Guardian at 2022-09-16 10:16:42+01:00 local time"
+ <a href="https://archive.org/download/guardian-2022/guardian-2022-09-24T10:16:30.526230+01:00.jpg">
+  <img src="https://archive.org/download/guardian-2022/guardian-2022-09-24T10:16:30.526230+01:00.jpg"
+     alt="The Guardian at 2022-09-24 10:16:32+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/guardian-2022/guardian-2022-09-16T10:16:40.887896+01:00.jpg">September 16 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-09-24T10:16:30.526230+01:00.jpg">September 24 at 10:16 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/guardian-2022/guardian-2022-09-16T04:53:06.364787+01:00.jpg">
-  <img src="https://archive.org/download/guardian-2022/guardian-2022-09-16T04:53:06.364787+01:00.jpg"
-     alt="The Guardian at 2022-09-16 04:53:08+01:00 local time"
+ <a href="https://archive.org/download/guardian-2022/guardian-2022-09-24T06:37:47.327031+01:00.jpg">
+  <img src="https://archive.org/download/guardian-2022/guardian-2022-09-24T06:37:47.327031+01:00.jpg"
+     alt="The Guardian at 2022-09-24 06:37:49+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/guardian-2022/guardian-2022-09-16T04:53:06.364787+01:00.jpg">September 16 at 4:53 AM</a></p>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-09-24T06:37:47.327031+01:00.jpg">September 24 at 6:37 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/guardian-2022/guardian-2022-09-15T17:13:38.309665+01:00.jpg">
-  <img src="https://archive.org/download/guardian-2022/guardian-2022-09-15T17:13:38.309665+01:00.jpg"
-     alt="The Guardian at 2022-09-15 17:14:08+01:00 local time"
+ <a href="https://archive.org/download/guardian-2022/guardian-2022-09-23T18:23:50.702836+01:00.jpg">
+  <img src="https://archive.org/download/guardian-2022/guardian-2022-09-23T18:23:50.702836+01:00.jpg"
+     alt="The Guardian at 2022-09-23 18:24:14+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/guardian-2022/guardian-2022-09-15T17:13:38.309665+01:00.jpg">September 15 at 5:14 PM</a></p>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-09-23T18:23:50.702836+01:00.jpg">September 23 at 6:24 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 464 hyperlink lists with the Internet Archive.
+The archiving routine has saved 488 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 5:03 PM](https://archive.org/download/guardian-2022/guardian-2022-09-19T17:03:26.573966+01:00.hyperlinks.json) |
-| [September 19 at 10:27 AM](https://archive.org/download/guardian-2022/guardian-2022-09-19T10:27:03.484807+01:00.hyperlinks.json) |
-| [September 19 at 5:46 AM](https://archive.org/download/guardian-2022/guardian-2022-09-19T05:46:39.030698+01:00.hyperlinks.json) |
-| [September 18 at 10:16 AM](https://archive.org/download/guardian-2022/guardian-2022-09-18T10:16:12.516214+01:00.hyperlinks.json) |
-| [September 18 at 4:51 AM](https://archive.org/download/guardian-2022/guardian-2022-09-18T04:51:31.315396+01:00.hyperlinks.json) |
-| [September 17 at 3:54 PM](https://archive.org/download/guardian-2022/guardian-2022-09-17T15:54:44.075793+01:00.hyperlinks.json) |
-| [September 17 at 10:16 AM](https://archive.org/download/guardian-2022/guardian-2022-09-17T10:16:24.345682+01:00.hyperlinks.json) |
-| [September 17 at 4:45 AM](https://archive.org/download/guardian-2022/guardian-2022-09-17T04:45:24.803515+01:00.hyperlinks.json) |
-| [September 16 at 4:04 PM](https://archive.org/download/guardian-2022/guardian-2022-09-16T16:03:53.900992+01:00.hyperlinks.json) |
-| [September 16 at 10:16 AM](https://archive.org/download/guardian-2022/guardian-2022-09-16T10:16:40.887896+01:00.hyperlinks.json) |
+| [September 27 at 10:31 AM](https://archive.org/download/guardian-2022/guardian-2022-09-27T10:31:19.929066+01:00.hyperlinks.json) |
+| [September 27 at 6:40 AM](https://archive.org/download/guardian-2022/guardian-2022-09-27T06:40:38.557121+01:00.hyperlinks.json) |
+| [September 26 at 6:27 PM](https://archive.org/download/guardian-2022/guardian-2022-09-26T18:27:38.269975+01:00.hyperlinks.json) |
+| [September 26 at 10:19 AM](https://archive.org/download/guardian-2022/guardian-2022-09-26T10:19:17.163345+01:00.hyperlinks.json) |
+| [September 26 at 7:00 AM](https://archive.org/download/guardian-2022/guardian-2022-09-26T07:00:26.192040+01:00.hyperlinks.json) |
+| [September 25 at 6:11 PM](https://archive.org/download/guardian-2022/guardian-2022-09-25T18:11:08.554571+01:00.hyperlinks.json) |
+| [September 25 at 10:15 AM](https://archive.org/download/guardian-2022/guardian-2022-09-25T10:14:55.210661+01:00.hyperlinks.json) |
+| [September 25 at 6:37 AM](https://archive.org/download/guardian-2022/guardian-2022-09-25T06:37:15.548368+01:00.hyperlinks.json) |
+| [September 24 at 6:10 PM](https://archive.org/download/guardian-2022/guardian-2022-09-24T18:10:36.381813+01:00.hyperlinks.json) |
+| [September 24 at 10:16 AM](https://archive.org/download/guardian-2022/guardian-2022-09-24T10:16:30.526230+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 465 accessibility trees with the Internet Archive.
+The archiving routine has saved 489 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 5:03 PM](https://archive.org/download/guardian-2022/guardian-2022-09-19T17:03:26.573966+01:00.accessibility.json) |
-| [September 19 at 10:27 AM](https://archive.org/download/guardian-2022/guardian-2022-09-19T10:27:03.484807+01:00.accessibility.json) |
-| [September 19 at 5:46 AM](https://archive.org/download/guardian-2022/guardian-2022-09-19T05:46:39.030698+01:00.accessibility.json) |
-| [September 18 at 10:16 AM](https://archive.org/download/guardian-2022/guardian-2022-09-18T10:16:12.516214+01:00.accessibility.json) |
-| [September 18 at 4:51 AM](https://archive.org/download/guardian-2022/guardian-2022-09-18T04:51:31.315396+01:00.accessibility.json) |
-| [September 17 at 3:54 PM](https://archive.org/download/guardian-2022/guardian-2022-09-17T15:54:44.075793+01:00.accessibility.json) |
-| [September 17 at 10:16 AM](https://archive.org/download/guardian-2022/guardian-2022-09-17T10:16:24.345682+01:00.accessibility.json) |
-| [September 17 at 4:45 AM](https://archive.org/download/guardian-2022/guardian-2022-09-17T04:45:24.803515+01:00.accessibility.json) |
-| [September 16 at 4:03 PM](https://archive.org/download/guardian-2022/guardian-2022-09-16T16:03:53.900992+01:00.accessibility.json) |
-| [September 16 at 10:16 AM](https://archive.org/download/guardian-2022/guardian-2022-09-16T10:16:40.887896+01:00.accessibility.json) |
+| [September 27 at 10:31 AM](https://archive.org/download/guardian-2022/guardian-2022-09-27T10:31:19.929066+01:00.accessibility.json) |
+| [September 27 at 6:40 AM](https://archive.org/download/guardian-2022/guardian-2022-09-27T06:40:38.557121+01:00.accessibility.json) |
+| [September 26 at 6:27 PM](https://archive.org/download/guardian-2022/guardian-2022-09-26T18:27:38.269975+01:00.accessibility.json) |
+| [September 26 at 10:19 AM](https://archive.org/download/guardian-2022/guardian-2022-09-26T10:19:17.163345+01:00.accessibility.json) |
+| [September 26 at 7:00 AM](https://archive.org/download/guardian-2022/guardian-2022-09-26T07:00:26.192040+01:00.accessibility.json) |
+| [September 25 at 6:11 PM](https://archive.org/download/guardian-2022/guardian-2022-09-25T18:11:08.554571+01:00.accessibility.json) |
+| [September 25 at 10:14 AM](https://archive.org/download/guardian-2022/guardian-2022-09-25T10:14:55.210661+01:00.accessibility.json) |
+| [September 25 at 6:37 AM](https://archive.org/download/guardian-2022/guardian-2022-09-25T06:37:15.548368+01:00.accessibility.json) |
+| [September 24 at 6:10 PM](https://archive.org/download/guardian-2022/guardian-2022-09-24T18:10:36.381813+01:00.accessibility.json) |
+| [September 24 at 10:16 AM](https://archive.org/download/guardian-2022/guardian-2022-09-24T10:16:30.526230+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 171 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 195 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 5:03 PM](https://archive.org/download/guardian-2022/guardian-2022-09-19T17:03:26.573966+01:00.lighthouse.json) |
-| [September 19 at 10:27 AM](https://archive.org/download/guardian-2022/guardian-2022-09-19T10:27:03.484807+01:00.lighthouse.json) |
-| [September 19 at 5:46 AM](https://archive.org/download/guardian-2022/guardian-2022-09-19T05:46:39.030698+01:00.lighthouse.json) |
-| [September 18 at 10:16 AM](https://archive.org/download/guardian-2022/guardian-2022-09-18T10:16:12.516214+01:00.lighthouse.json) |
-| [September 18 at 4:51 AM](https://archive.org/download/guardian-2022/guardian-2022-09-18T04:51:31.315396+01:00.lighthouse.json) |
-| [September 17 at 3:54 PM](https://archive.org/download/guardian-2022/guardian-2022-09-17T15:54:44.075793+01:00.lighthouse.json) |
-| [September 17 at 10:16 AM](https://archive.org/download/guardian-2022/guardian-2022-09-17T10:16:24.345682+01:00.lighthouse.json) |
-| [September 17 at 4:45 AM](https://archive.org/download/guardian-2022/guardian-2022-09-17T04:45:24.803515+01:00.lighthouse.json) |
-| [September 16 at 4:04 PM](https://archive.org/download/guardian-2022/guardian-2022-09-16T16:03:53.900992+01:00.lighthouse.json) |
-| [September 16 at 10:16 AM](https://archive.org/download/guardian-2022/guardian-2022-09-16T10:16:40.887896+01:00.lighthouse.json) |
+| [September 27 at 10:31 AM](https://archive.org/download/guardian-2022/guardian-2022-09-27T10:31:19.929066+01:00.lighthouse.json) |
+| [September 27 at 6:40 AM](https://archive.org/download/guardian-2022/guardian-2022-09-27T06:40:38.557121+01:00.lighthouse.json) |
+| [September 26 at 6:27 PM](https://archive.org/download/guardian-2022/guardian-2022-09-26T18:27:38.269975+01:00.lighthouse.json) |
+| [September 26 at 10:19 AM](https://archive.org/download/guardian-2022/guardian-2022-09-26T10:19:17.163345+01:00.lighthouse.json) |
+| [September 26 at 7:00 AM](https://archive.org/download/guardian-2022/guardian-2022-09-26T07:00:26.192040+01:00.lighthouse.json) |
+| [September 25 at 6:11 PM](https://archive.org/download/guardian-2022/guardian-2022-09-25T18:11:08.554571+01:00.lighthouse.json) |
+| [September 25 at 10:15 AM](https://archive.org/download/guardian-2022/guardian-2022-09-25T10:14:55.210661+01:00.lighthouse.json) |
+| [September 25 at 6:37 AM](https://archive.org/download/guardian-2022/guardian-2022-09-25T06:37:15.548368+01:00.lighthouse.json) |
+| [September 24 at 6:10 PM](https://archive.org/download/guardian-2022/guardian-2022-09-24T18:10:36.381813+01:00.lighthouse.json) |
+| [September 24 at 10:16 AM](https://archive.org/download/guardian-2022/guardian-2022-09-24T10:16:30.526230+01:00.lighthouse.json) |
 
 
 

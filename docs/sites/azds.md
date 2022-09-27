@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 152 screenshots with the Internet Archive.
+The archiving routine has saved 167 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/azds-2022/azds-2022-09-19T07:57:58.482747-07:00.jpg">
-  <img src="https://archive.org/download/azds-2022/azds-2022-09-19T07:57:58.482747-07:00.jpg"
-     alt="Arizona Daily Sun at 2022-09-19 07:57:59-07:00 local time"
+ <a href="https://archive.org/download/azds-2022/azds-2022-09-26T21:28:40.983120-07:00.jpg">
+  <img src="https://archive.org/download/azds-2022/azds-2022-09-26T21:28:40.983120-07:00.jpg"
+     alt="Arizona Daily Sun at 2022-09-26 21:28:50-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azds-2022/azds-2022-09-19T07:57:58.482747-07:00.jpg">September 19 at 7:57 AM</a></p>
+ <p><a href="https://archive.org/download/azds-2022/azds-2022-09-26T21:28:40.983120-07:00.jpg">September 26 at 9:28 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/azds-2022/azds-2022-09-18T20:40:09.751337-07:00.jpg">
-  <img src="https://archive.org/download/azds-2022/azds-2022-09-18T20:40:09.751337-07:00.jpg"
-     alt="Arizona Daily Sun at 2022-09-18 20:40:15-07:00 local time"
+ <a href="https://archive.org/download/azds-2022/azds-2022-09-26T09:05:07.621018-07:00.jpg">
+  <img src="https://archive.org/download/azds-2022/azds-2022-09-26T09:05:07.621018-07:00.jpg"
+     alt="Arizona Daily Sun at 2022-09-26 09:05:10-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azds-2022/azds-2022-09-18T20:40:09.751337-07:00.jpg">September 18 at 8:40 PM</a></p>
+ <p><a href="https://archive.org/download/azds-2022/azds-2022-09-26T09:05:07.621018-07:00.jpg">September 26 at 9:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/azds-2022/azds-2022-09-18T06:59:18.208308-07:00.jpg">
-  <img src="https://archive.org/download/azds-2022/azds-2022-09-18T06:59:18.208308-07:00.jpg"
-     alt="Arizona Daily Sun at 2022-09-18 06:59:20-07:00 local time"
+ <a href="https://archive.org/download/azds-2022/azds-2022-09-25T21:41:51.145074-07:00.jpg">
+  <img src="https://archive.org/download/azds-2022/azds-2022-09-25T21:41:51.145074-07:00.jpg"
+     alt="Arizona Daily Sun at 2022-09-25 21:41:52-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azds-2022/azds-2022-09-18T06:59:18.208308-07:00.jpg">September 18 at 6:59 AM</a></p>
+ <p><a href="https://archive.org/download/azds-2022/azds-2022-09-25T21:41:51.145074-07:00.jpg">September 25 at 9:41 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/azds-2022/azds-2022-09-17T19:24:43.080360-07:00.jpg">
-  <img src="https://archive.org/download/azds-2022/azds-2022-09-17T19:24:43.080360-07:00.jpg"
-     alt="Arizona Daily Sun at 2022-09-17 19:24:48-07:00 local time"
+ <a href="https://archive.org/download/azds-2022/azds-2022-09-25T08:51:09.541309-07:00.jpg">
+  <img src="https://archive.org/download/azds-2022/azds-2022-09-25T08:51:09.541309-07:00.jpg"
+     alt="Arizona Daily Sun at 2022-09-25 08:51:11-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azds-2022/azds-2022-09-17T19:24:43.080360-07:00.jpg">September 17 at 7:24 PM</a></p>
+ <p><a href="https://archive.org/download/azds-2022/azds-2022-09-25T08:51:09.541309-07:00.jpg">September 25 at 8:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/azds-2022/azds-2022-09-17T06:57:59.158322-07:00.jpg">
-  <img src="https://archive.org/download/azds-2022/azds-2022-09-17T06:57:59.158322-07:00.jpg"
-     alt="Arizona Daily Sun at 2022-09-17 06:58:00-07:00 local time"
+ <a href="https://archive.org/download/azds-2022/azds-2022-09-24T21:28:39.281600-07:00.jpg">
+  <img src="https://archive.org/download/azds-2022/azds-2022-09-24T21:28:39.281600-07:00.jpg"
+     alt="Arizona Daily Sun at 2022-09-24 21:28:41-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azds-2022/azds-2022-09-17T06:57:59.158322-07:00.jpg">September 17 at 6:58 AM</a></p>
+ <p><a href="https://archive.org/download/azds-2022/azds-2022-09-24T21:28:39.281600-07:00.jpg">September 24 at 9:28 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/azds-2022/azds-2022-09-16T19:23:06.926559-07:00.jpg">
-  <img src="https://archive.org/download/azds-2022/azds-2022-09-16T19:23:06.926559-07:00.jpg"
-     alt="Arizona Daily Sun at 2022-09-16 19:23:08-07:00 local time"
+ <a href="https://archive.org/download/azds-2022/azds-2022-09-24T08:48:47.638700-07:00.jpg">
+  <img src="https://archive.org/download/azds-2022/azds-2022-09-24T08:48:47.638700-07:00.jpg"
+     alt="Arizona Daily Sun at 2022-09-24 08:49:06-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azds-2022/azds-2022-09-16T19:23:06.926559-07:00.jpg">September 16 at 7:23 PM</a></p>
+ <p><a href="https://archive.org/download/azds-2022/azds-2022-09-24T08:48:47.638700-07:00.jpg">September 24 at 8:49 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/azds-2022/azds-2022-09-16T07:03:49.520263-07:00.jpg">
-  <img src="https://archive.org/download/azds-2022/azds-2022-09-16T07:03:49.520263-07:00.jpg"
-     alt="Arizona Daily Sun at 2022-09-16 07:03:51-07:00 local time"
+ <a href="https://archive.org/download/azds-2022/azds-2022-09-23T21:30:16.639931-07:00.jpg">
+  <img src="https://archive.org/download/azds-2022/azds-2022-09-23T21:30:16.639931-07:00.jpg"
+     alt="Arizona Daily Sun at 2022-09-23 21:30:33-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azds-2022/azds-2022-09-16T07:03:49.520263-07:00.jpg">September 16 at 7:03 AM</a></p>
+ <p><a href="https://archive.org/download/azds-2022/azds-2022-09-23T21:30:16.639931-07:00.jpg">September 23 at 9:30 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/azds-2022/azds-2022-09-15T19:23:15.944563-07:00.jpg">
-  <img src="https://archive.org/download/azds-2022/azds-2022-09-15T19:23:15.944563-07:00.jpg"
-     alt="Arizona Daily Sun at 2022-09-15 19:23:17-07:00 local time"
+ <a href="https://archive.org/download/azds-2022/azds-2022-09-23T08:57:57.335151-07:00.jpg">
+  <img src="https://archive.org/download/azds-2022/azds-2022-09-23T08:57:57.335151-07:00.jpg"
+     alt="Arizona Daily Sun at 2022-09-23 08:57:59-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azds-2022/azds-2022-09-15T19:23:15.944563-07:00.jpg">September 15 at 7:23 PM</a></p>
+ <p><a href="https://archive.org/download/azds-2022/azds-2022-09-23T08:57:57.335151-07:00.jpg">September 23 at 8:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/azds-2022/azds-2022-09-15T07:10:34.239979-07:00.jpg">
-  <img src="https://archive.org/download/azds-2022/azds-2022-09-15T07:10:34.239979-07:00.jpg"
-     alt="Arizona Daily Sun at 2022-09-15 07:10:39-07:00 local time"
+ <a href="https://archive.org/download/azds-2022/azds-2022-09-22T22:11:15.033542-07:00.jpg">
+  <img src="https://archive.org/download/azds-2022/azds-2022-09-22T22:11:15.033542-07:00.jpg"
+     alt="Arizona Daily Sun at 2022-09-22 22:11:18-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azds-2022/azds-2022-09-15T07:10:34.239979-07:00.jpg">September 15 at 7:10 AM</a></p>
+ <p><a href="https://archive.org/download/azds-2022/azds-2022-09-22T22:11:15.033542-07:00.jpg">September 22 at 10:11 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/azds-2022/azds-2022-09-14T19:25:53.449805-07:00.jpg">
-  <img src="https://archive.org/download/azds-2022/azds-2022-09-14T19:25:53.449805-07:00.jpg"
-     alt="Arizona Daily Sun at 2022-09-14 19:25:54-07:00 local time"
+ <a href="https://archive.org/download/azds-2022/azds-2022-09-22T08:58:58.101706-07:00.jpg">
+  <img src="https://archive.org/download/azds-2022/azds-2022-09-22T08:58:58.101706-07:00.jpg"
+     alt="Arizona Daily Sun at 2022-09-22 08:58:59-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azds-2022/azds-2022-09-14T19:25:53.449805-07:00.jpg">September 14 at 7:25 PM</a></p>
+ <p><a href="https://archive.org/download/azds-2022/azds-2022-09-22T08:58:58.101706-07:00.jpg">September 22 at 8:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/azds-2022/azds-2022-09-14T07:10:49.721637-07:00.jpg">
-  <img src="https://archive.org/download/azds-2022/azds-2022-09-14T07:10:49.721637-07:00.jpg"
-     alt="Arizona Daily Sun at 2022-09-14 07:10:56-07:00 local time"
+ <a href="https://archive.org/download/azds-2022/azds-2022-09-21T21:34:36.171602-07:00.jpg">
+  <img src="https://archive.org/download/azds-2022/azds-2022-09-21T21:34:36.171602-07:00.jpg"
+     alt="Arizona Daily Sun at 2022-09-21 21:34:38-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azds-2022/azds-2022-09-14T07:10:49.721637-07:00.jpg">September 14 at 7:10 AM</a></p>
+ <p><a href="https://archive.org/download/azds-2022/azds-2022-09-21T21:34:36.171602-07:00.jpg">September 21 at 9:34 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/azds-2022/azds-2022-09-13T19:23:09.306237-07:00.jpg">
-  <img src="https://archive.org/download/azds-2022/azds-2022-09-13T19:23:09.306237-07:00.jpg"
-     alt="Arizona Daily Sun at 2022-09-13 19:23:13-07:00 local time"
+ <a href="https://archive.org/download/azds-2022/azds-2022-09-21T09:02:27.262824-07:00.jpg">
+  <img src="https://archive.org/download/azds-2022/azds-2022-09-21T09:02:27.262824-07:00.jpg"
+     alt="Arizona Daily Sun at 2022-09-21 09:02:29-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/azds-2022/azds-2022-09-13T19:23:09.306237-07:00.jpg">September 13 at 7:23 PM</a></p>
+ <p><a href="https://archive.org/download/azds-2022/azds-2022-09-21T09:02:27.262824-07:00.jpg">September 21 at 9:02 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 149 hyperlink lists with the Internet Archive.
+The archiving routine has saved 164 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 7:58 AM](https://archive.org/download/azds-2022/azds-2022-09-19T07:57:58.482747-07:00.hyperlinks.json) |
-| [September 18 at 8:40 PM](https://archive.org/download/azds-2022/azds-2022-09-18T20:40:09.751337-07:00.hyperlinks.json) |
-| [September 18 at 6:59 AM](https://archive.org/download/azds-2022/azds-2022-09-18T06:59:18.208308-07:00.hyperlinks.json) |
-| [September 17 at 7:24 PM](https://archive.org/download/azds-2022/azds-2022-09-17T19:24:43.080360-07:00.hyperlinks.json) |
-| [September 17 at 6:58 AM](https://archive.org/download/azds-2022/azds-2022-09-17T06:57:59.158322-07:00.hyperlinks.json) |
-| [September 16 at 7:23 PM](https://archive.org/download/azds-2022/azds-2022-09-16T19:23:06.926559-07:00.hyperlinks.json) |
-| [September 16 at 7:03 AM](https://archive.org/download/azds-2022/azds-2022-09-16T07:03:49.520263-07:00.hyperlinks.json) |
-| [September 15 at 7:23 PM](https://archive.org/download/azds-2022/azds-2022-09-15T19:23:15.944563-07:00.hyperlinks.json) |
-| [September 15 at 7:10 AM](https://archive.org/download/azds-2022/azds-2022-09-15T07:10:34.239979-07:00.hyperlinks.json) |
-| [September 14 at 7:25 PM](https://archive.org/download/azds-2022/azds-2022-09-14T19:25:53.449805-07:00.hyperlinks.json) |
+| [September 26 at 9:28 PM](https://archive.org/download/azds-2022/azds-2022-09-26T21:28:40.983120-07:00.hyperlinks.json) |
+| [September 26 at 9:05 AM](https://archive.org/download/azds-2022/azds-2022-09-26T09:05:07.621018-07:00.hyperlinks.json) |
+| [September 25 at 9:41 PM](https://archive.org/download/azds-2022/azds-2022-09-25T21:41:51.145074-07:00.hyperlinks.json) |
+| [September 25 at 8:51 AM](https://archive.org/download/azds-2022/azds-2022-09-25T08:51:09.541309-07:00.hyperlinks.json) |
+| [September 24 at 9:28 PM](https://archive.org/download/azds-2022/azds-2022-09-24T21:28:39.281600-07:00.hyperlinks.json) |
+| [September 24 at 8:49 AM](https://archive.org/download/azds-2022/azds-2022-09-24T08:48:47.638700-07:00.hyperlinks.json) |
+| [September 23 at 9:30 PM](https://archive.org/download/azds-2022/azds-2022-09-23T21:30:16.639931-07:00.hyperlinks.json) |
+| [September 23 at 8:58 AM](https://archive.org/download/azds-2022/azds-2022-09-23T08:57:57.335151-07:00.hyperlinks.json) |
+| [September 22 at 10:11 PM](https://archive.org/download/azds-2022/azds-2022-09-22T22:11:15.033542-07:00.hyperlinks.json) |
+| [September 22 at 8:59 AM](https://archive.org/download/azds-2022/azds-2022-09-22T08:58:58.101706-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 152 accessibility trees with the Internet Archive.
+The archiving routine has saved 167 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 7:58 AM](https://archive.org/download/azds-2022/azds-2022-09-19T07:57:58.482747-07:00.accessibility.json) |
-| [September 18 at 8:40 PM](https://archive.org/download/azds-2022/azds-2022-09-18T20:40:09.751337-07:00.accessibility.json) |
-| [September 18 at 6:59 AM](https://archive.org/download/azds-2022/azds-2022-09-18T06:59:18.208308-07:00.accessibility.json) |
-| [September 17 at 7:24 PM](https://archive.org/download/azds-2022/azds-2022-09-17T19:24:43.080360-07:00.accessibility.json) |
-| [September 17 at 6:58 AM](https://archive.org/download/azds-2022/azds-2022-09-17T06:57:59.158322-07:00.accessibility.json) |
-| [September 16 at 7:23 PM](https://archive.org/download/azds-2022/azds-2022-09-16T19:23:06.926559-07:00.accessibility.json) |
-| [September 16 at 7:03 AM](https://archive.org/download/azds-2022/azds-2022-09-16T07:03:49.520263-07:00.accessibility.json) |
-| [September 15 at 7:23 PM](https://archive.org/download/azds-2022/azds-2022-09-15T19:23:15.944563-07:00.accessibility.json) |
-| [September 15 at 7:10 AM](https://archive.org/download/azds-2022/azds-2022-09-15T07:10:34.239979-07:00.accessibility.json) |
-| [September 14 at 7:25 PM](https://archive.org/download/azds-2022/azds-2022-09-14T19:25:53.449805-07:00.accessibility.json) |
+| [September 26 at 9:28 PM](https://archive.org/download/azds-2022/azds-2022-09-26T21:28:40.983120-07:00.accessibility.json) |
+| [September 26 at 9:05 AM](https://archive.org/download/azds-2022/azds-2022-09-26T09:05:07.621018-07:00.accessibility.json) |
+| [September 25 at 9:41 PM](https://archive.org/download/azds-2022/azds-2022-09-25T21:41:51.145074-07:00.accessibility.json) |
+| [September 25 at 8:51 AM](https://archive.org/download/azds-2022/azds-2022-09-25T08:51:09.541309-07:00.accessibility.json) |
+| [September 24 at 9:28 PM](https://archive.org/download/azds-2022/azds-2022-09-24T21:28:39.281600-07:00.accessibility.json) |
+| [September 24 at 8:49 AM](https://archive.org/download/azds-2022/azds-2022-09-24T08:48:47.638700-07:00.accessibility.json) |
+| [September 23 at 9:30 PM](https://archive.org/download/azds-2022/azds-2022-09-23T21:30:16.639931-07:00.accessibility.json) |
+| [September 23 at 8:58 AM](https://archive.org/download/azds-2022/azds-2022-09-23T08:57:57.335151-07:00.accessibility.json) |
+| [September 22 at 10:11 PM](https://archive.org/download/azds-2022/azds-2022-09-22T22:11:15.033542-07:00.accessibility.json) |
+| [September 22 at 8:59 AM](https://archive.org/download/azds-2022/azds-2022-09-22T08:58:58.101706-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 117 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 7:58 AM](https://archive.org/download/azds-2022/azds-2022-09-19T07:57:58.482747-07:00.lighthouse.json) |
-| [September 18 at 8:40 PM](https://archive.org/download/azds-2022/azds-2022-09-18T20:40:09.751337-07:00.lighthouse.json) |
-| [September 18 at 6:59 AM](https://archive.org/download/azds-2022/azds-2022-09-18T06:59:18.208308-07:00.lighthouse.json) |
-| [September 17 at 7:24 PM](https://archive.org/download/azds-2022/azds-2022-09-17T19:24:43.080360-07:00.lighthouse.json) |
-| [September 17 at 6:58 AM](https://archive.org/download/azds-2022/azds-2022-09-17T06:57:59.158322-07:00.lighthouse.json) |
-| [September 16 at 7:23 PM](https://archive.org/download/azds-2022/azds-2022-09-16T19:23:06.926559-07:00.lighthouse.json) |
-| [September 16 at 7:03 AM](https://archive.org/download/azds-2022/azds-2022-09-16T07:03:49.520263-07:00.lighthouse.json) |
-| [September 15 at 7:23 PM](https://archive.org/download/azds-2022/azds-2022-09-15T19:23:15.944563-07:00.lighthouse.json) |
-| [September 15 at 7:10 AM](https://archive.org/download/azds-2022/azds-2022-09-15T07:10:34.239979-07:00.lighthouse.json) |
-| [September 14 at 7:26 PM](https://archive.org/download/azds-2022/azds-2022-09-14T19:25:53.449805-07:00.lighthouse.json) |
+| [September 26 at 9:28 PM](https://archive.org/download/azds-2022/azds-2022-09-26T21:28:40.983120-07:00.lighthouse.json) |
+| [September 26 at 9:05 AM](https://archive.org/download/azds-2022/azds-2022-09-26T09:05:07.621018-07:00.lighthouse.json) |
+| [September 25 at 9:41 PM](https://archive.org/download/azds-2022/azds-2022-09-25T21:41:51.145074-07:00.lighthouse.json) |
+| [September 25 at 8:51 AM](https://archive.org/download/azds-2022/azds-2022-09-25T08:51:09.541309-07:00.lighthouse.json) |
+| [September 24 at 9:28 PM](https://archive.org/download/azds-2022/azds-2022-09-24T21:28:39.281600-07:00.lighthouse.json) |
+| [September 24 at 8:49 AM](https://archive.org/download/azds-2022/azds-2022-09-24T08:48:47.638700-07:00.lighthouse.json) |
+| [September 23 at 9:30 PM](https://archive.org/download/azds-2022/azds-2022-09-23T21:30:16.639931-07:00.lighthouse.json) |
+| [September 23 at 8:58 AM](https://archive.org/download/azds-2022/azds-2022-09-23T08:57:57.335151-07:00.lighthouse.json) |
+| [September 22 at 10:11 PM](https://archive.org/download/azds-2022/azds-2022-09-22T22:11:15.033542-07:00.lighthouse.json) |
+| [September 22 at 8:59 AM](https://archive.org/download/azds-2022/azds-2022-09-22T08:58:58.101706-07:00.lighthouse.json) |
 
 
 

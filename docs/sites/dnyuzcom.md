@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 54 screenshots with the Internet Archive.
+The archiving routine has saved 70 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-19T11:59:13.093172-04:00.jpg">
-  <img src="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-19T11:59:13.093172-04:00.jpg"
-     alt="Dnyuz at 2022-09-19 11:59:16-04:00 local time"
+ <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-27T03:00:17.423505-04:00.jpg">
+  <img src="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-27T03:00:17.423505-04:00.jpg"
+     alt="Dnyuz at 2022-09-27 03:00:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-19T11:59:13.093172-04:00.jpg">September 19 at 11:59 AM</a></p>
+ <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-27T03:00:17.423505-04:00.jpg">September 27 at 3:00 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-19T00:41:16.444608-04:00.jpg">
-  <img src="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-19T00:41:16.444608-04:00.jpg"
-     alt="Dnyuz at 2022-09-19 00:41:18-04:00 local time"
+ <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-26T13:42:07.135375-04:00.jpg">
+  <img src="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-26T13:42:07.135375-04:00.jpg"
+     alt="Dnyuz at 2022-09-26 13:42:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-19T00:41:16.444608-04:00.jpg">September 19 at 12:41 AM</a></p>
+ <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-26T13:42:07.135375-04:00.jpg">September 26 at 1:42 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-18T10:54:07.937631-04:00.jpg">
-  <img src="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-18T10:54:07.937631-04:00.jpg"
-     alt="Dnyuz at 2022-09-18 10:54:09-04:00 local time"
+ <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-26T02:12:56.816546-04:00.jpg">
+  <img src="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-26T02:12:56.816546-04:00.jpg"
+     alt="Dnyuz at 2022-09-26 02:12:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-18T10:54:07.937631-04:00.jpg">September 18 at 10:54 AM</a></p>
+ <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-26T02:12:56.816546-04:00.jpg">September 26 at 2:12 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-17T23:48:07.092706-04:00.jpg">
-  <img src="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-17T23:48:07.092706-04:00.jpg"
-     alt="Dnyuz at 2022-09-17 23:48:08-04:00 local time"
+ <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-25T13:22:36.546841-04:00.jpg">
+  <img src="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-25T13:22:36.546841-04:00.jpg"
+     alt="Dnyuz at 2022-09-25 13:22:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-17T23:48:07.092706-04:00.jpg">September 17 at 11:48 PM</a></p>
+ <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-25T13:22:36.546841-04:00.jpg">September 25 at 1:22 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-17T10:50:19.799276-04:00.jpg">
-  <img src="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-17T10:50:19.799276-04:00.jpg"
-     alt="Dnyuz at 2022-09-17 10:50:23-04:00 local time"
+ <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-25T01:47:56.863602-04:00.jpg">
+  <img src="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-25T01:47:56.863602-04:00.jpg"
+     alt="Dnyuz at 2022-09-25 01:47:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-17T10:50:19.799276-04:00.jpg">September 17 at 10:50 AM</a></p>
+ <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-25T01:47:56.863602-04:00.jpg">September 25 at 1:47 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-16T23:41:23.396344-04:00.jpg">
-  <img src="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-16T23:41:23.396344-04:00.jpg"
-     alt="Dnyuz at 2022-09-16 23:41:24-04:00 local time"
+ <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-24T13:22:21.147839-04:00.jpg">
+  <img src="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-24T13:22:21.147839-04:00.jpg"
+     alt="Dnyuz at 2022-09-24 13:22:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-16T23:41:23.396344-04:00.jpg">September 16 at 11:41 PM</a></p>
+ <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-24T13:22:21.147839-04:00.jpg">September 24 at 1:22 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-16T11:00:53.335949-04:00.jpg">
-  <img src="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-16T11:00:53.335949-04:00.jpg"
-     alt="Dnyuz at 2022-09-16 11:00:54-04:00 local time"
+ <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-24T01:47:56.561524-04:00.jpg">
+  <img src="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-24T01:47:56.561524-04:00.jpg"
+     alt="Dnyuz at 2022-09-24 01:48:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-16T11:00:53.335949-04:00.jpg">September 16 at 11:00 AM</a></p>
+ <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-24T01:47:56.561524-04:00.jpg">September 24 at 1:48 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-15T23:48:45.613738-04:00.jpg">
-  <img src="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-15T23:48:45.613738-04:00.jpg"
-     alt="Dnyuz at 2022-09-15 23:48:47-04:00 local time"
+ <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-23T13:35:37.715808-04:00.jpg">
+  <img src="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-23T13:35:37.715808-04:00.jpg"
+     alt="Dnyuz at 2022-09-23 13:35:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-15T23:48:45.613738-04:00.jpg">September 15 at 11:48 PM</a></p>
+ <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-23T13:35:37.715808-04:00.jpg">September 23 at 1:35 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-15T12:10:05.008350-04:00.jpg">
-  <img src="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-15T12:10:05.008350-04:00.jpg"
-     alt="Dnyuz at 2022-09-15 12:10:07-04:00 local time"
+ <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-23T03:13:19.969886-04:00.jpg">
+  <img src="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-23T03:13:19.969886-04:00.jpg"
+     alt="Dnyuz at 2022-09-23 03:13:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-15T12:10:05.008350-04:00.jpg">September 15 at 12:10 PM</a></p>
+ <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-23T03:13:19.969886-04:00.jpg">September 23 at 3:13 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-14T23:48:46.694354-04:00.jpg">
-  <img src="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-14T23:48:46.694354-04:00.jpg"
-     alt="Dnyuz at 2022-09-14 23:48:49-04:00 local time"
+ <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-22T13:36:49.189964-04:00.jpg">
+  <img src="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-22T13:36:49.189964-04:00.jpg"
+     alt="Dnyuz at 2022-09-22 13:36:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-14T23:48:46.694354-04:00.jpg">September 14 at 11:48 PM</a></p>
+ <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-22T13:36:49.189964-04:00.jpg">September 22 at 1:36 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-14T11:17:06.711677-04:00.jpg">
-  <img src="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-14T11:17:06.711677-04:00.jpg"
-     alt="Dnyuz at 2022-09-14 11:17:09-04:00 local time"
+ <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-22T02:04:55.316513-04:00.jpg">
+  <img src="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-22T02:04:55.316513-04:00.jpg"
+     alt="Dnyuz at 2022-09-22 02:04:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-14T11:17:06.711677-04:00.jpg">September 14 at 11:17 AM</a></p>
+ <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-22T02:04:55.316513-04:00.jpg">September 22 at 2:04 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-13T23:46:52.287921-04:00.jpg">
-  <img src="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-13T23:46:52.287921-04:00.jpg"
-     alt="Dnyuz at 2022-09-13 23:46:55-04:00 local time"
+ <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-21T13:37:15.978548-04:00.jpg">
+  <img src="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-21T13:37:15.978548-04:00.jpg"
+     alt="Dnyuz at 2022-09-21 13:37:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-13T23:46:52.287921-04:00.jpg">September 13 at 11:46 PM</a></p>
+ <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-21T13:37:15.978548-04:00.jpg">September 21 at 1:37 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 52 hyperlink lists with the Internet Archive.
+The archiving routine has saved 68 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 11:59 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-19T11:59:13.093172-04:00.hyperlinks.json) |
-| [September 19 at 12:41 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-19T00:41:16.444608-04:00.hyperlinks.json) |
-| [September 18 at 10:54 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-18T10:54:07.937631-04:00.hyperlinks.json) |
-| [September 17 at 11:48 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-17T23:48:07.092706-04:00.hyperlinks.json) |
-| [September 17 at 10:50 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-17T10:50:19.799276-04:00.hyperlinks.json) |
-| [September 16 at 11:41 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-16T23:41:23.396344-04:00.hyperlinks.json) |
-| [September 16 at 11:00 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-16T11:00:53.335949-04:00.hyperlinks.json) |
-| [September 15 at 11:48 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-15T23:48:45.613738-04:00.hyperlinks.json) |
-| [September 15 at 12:10 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-15T12:10:05.008350-04:00.hyperlinks.json) |
-| [September 14 at 11:48 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-14T23:48:46.694354-04:00.hyperlinks.json) |
+| [September 27 at 3:00 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-27T03:00:17.423505-04:00.hyperlinks.json) |
+| [September 26 at 1:42 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-26T13:42:07.135375-04:00.hyperlinks.json) |
+| [September 26 at 2:13 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-26T02:12:56.816546-04:00.hyperlinks.json) |
+| [September 25 at 1:22 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-25T13:22:36.546841-04:00.hyperlinks.json) |
+| [September 25 at 1:48 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-25T01:47:56.863602-04:00.hyperlinks.json) |
+| [September 24 at 1:22 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-24T13:22:21.147839-04:00.hyperlinks.json) |
+| [September 24 at 1:48 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-24T01:47:56.561524-04:00.hyperlinks.json) |
+| [September 23 at 1:35 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-23T13:35:37.715808-04:00.hyperlinks.json) |
+| [September 23 at 3:13 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-23T03:13:19.969886-04:00.hyperlinks.json) |
+| [September 22 at 1:36 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-22T13:36:49.189964-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 50 accessibility trees with the Internet Archive.
+The archiving routine has saved 66 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 11:59 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-19T11:59:13.093172-04:00.accessibility.json) |
-| [September 19 at 12:41 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-19T00:41:16.444608-04:00.accessibility.json) |
-| [September 18 at 10:54 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-18T10:54:07.937631-04:00.accessibility.json) |
-| [September 17 at 11:48 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-17T23:48:07.092706-04:00.accessibility.json) |
-| [September 17 at 10:50 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-17T10:50:19.799276-04:00.accessibility.json) |
-| [September 16 at 11:41 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-16T23:41:23.396344-04:00.accessibility.json) |
-| [September 16 at 11:00 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-16T11:00:53.335949-04:00.accessibility.json) |
-| [September 15 at 11:48 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-15T23:48:45.613738-04:00.accessibility.json) |
-| [September 15 at 12:10 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-15T12:10:05.008350-04:00.accessibility.json) |
-| [September 14 at 11:48 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-14T23:48:46.694354-04:00.accessibility.json) |
+| [September 27 at 3:00 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-27T03:00:17.423505-04:00.accessibility.json) |
+| [September 26 at 1:42 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-26T13:42:07.135375-04:00.accessibility.json) |
+| [September 26 at 2:13 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-26T02:12:56.816546-04:00.accessibility.json) |
+| [September 25 at 1:22 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-25T13:22:36.546841-04:00.accessibility.json) |
+| [September 25 at 1:47 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-25T01:47:56.863602-04:00.accessibility.json) |
+| [September 24 at 1:22 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-24T13:22:21.147839-04:00.accessibility.json) |
+| [September 24 at 1:48 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-24T01:47:56.561524-04:00.accessibility.json) |
+| [September 23 at 1:35 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-23T13:35:37.715808-04:00.accessibility.json) |
+| [September 23 at 3:13 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-23T03:13:19.969886-04:00.accessibility.json) |
+| [September 22 at 1:36 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-22T13:36:49.189964-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 54 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 70 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 11:59 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-19T11:59:13.093172-04:00.lighthouse.json) |
-| [September 19 at 12:41 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-19T00:41:16.444608-04:00.lighthouse.json) |
-| [September 18 at 10:54 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-18T10:54:07.937631-04:00.lighthouse.json) |
-| [September 17 at 11:48 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-17T23:48:07.092706-04:00.lighthouse.json) |
-| [September 17 at 10:50 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-17T10:50:19.799276-04:00.lighthouse.json) |
-| [September 16 at 11:41 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-16T23:41:23.396344-04:00.lighthouse.json) |
-| [September 16 at 11:01 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-16T11:00:53.335949-04:00.lighthouse.json) |
-| [September 15 at 11:48 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-15T23:48:45.613738-04:00.lighthouse.json) |
-| [September 15 at 12:10 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-15T12:10:05.008350-04:00.lighthouse.json) |
-| [September 14 at 11:48 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-14T23:48:46.694354-04:00.lighthouse.json) |
+| [September 27 at 3:00 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-27T03:00:17.423505-04:00.lighthouse.json) |
+| [September 26 at 1:42 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-26T13:42:07.135375-04:00.lighthouse.json) |
+| [September 26 at 2:13 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-26T02:12:56.816546-04:00.lighthouse.json) |
+| [September 25 at 1:22 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-25T13:22:36.546841-04:00.lighthouse.json) |
+| [September 25 at 1:48 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-25T01:47:56.863602-04:00.lighthouse.json) |
+| [September 24 at 1:22 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-24T13:22:21.147839-04:00.lighthouse.json) |
+| [September 24 at 1:48 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-24T01:47:56.561524-04:00.lighthouse.json) |
+| [September 23 at 1:35 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-23T13:35:37.715808-04:00.lighthouse.json) |
+| [September 23 at 3:13 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-23T03:13:19.969886-04:00.lighthouse.json) |
+| [September 22 at 1:36 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-22T13:36:49.189964-04:00.lighthouse.json) |
 
 
 

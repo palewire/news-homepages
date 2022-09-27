@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 114 screenshots with the Internet Archive.
+The archiving routine has saved 130 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-19T21:44:13.344451+05:45.jpg">
-  <img src="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-19T21:44:13.344451+05:45.jpg"
-     alt="DC Nepal at 2022-09-19 21:44:15+05:45 local time"
+ <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-27T12:42:59.208666+05:45.jpg">
+  <img src="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-27T12:42:59.208666+05:45.jpg"
+     alt="DC Nepal at 2022-09-27 12:43:04+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-19T21:44:13.344451+05:45.jpg">September 19 at 9:44 PM</a></p>
+ <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-27T12:42:59.208666+05:45.jpg">September 27 at 12:43 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-19T10:27:06.449710+05:45.jpg">
-  <img src="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-19T10:27:06.449710+05:45.jpg"
-     alt="DC Nepal at 2022-09-19 10:27:13+05:45 local time"
+ <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-26T23:26:54.756403+05:45.jpg">
+  <img src="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-26T23:26:54.756403+05:45.jpg"
+     alt="DC Nepal at 2022-09-26 23:27:02+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-19T10:27:06.449710+05:45.jpg">September 19 at 10:27 AM</a></p>
+ <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-26T23:26:54.756403+05:45.jpg">September 26 at 11:27 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-18T20:38:30.529895+05:45.jpg">
-  <img src="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-18T20:38:30.529895+05:45.jpg"
-     alt="DC Nepal at 2022-09-18 20:38:35+05:45 local time"
+ <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-26T11:57:31.382595+05:45.jpg">
+  <img src="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-26T11:57:31.382595+05:45.jpg"
+     alt="DC Nepal at 2022-09-26 11:57:38+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-18T20:38:30.529895+05:45.jpg">September 18 at 8:38 PM</a></p>
+ <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-26T11:57:31.382595+05:45.jpg">September 26 at 11:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-18T09:32:29.662517+05:45.jpg">
-  <img src="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-18T09:32:29.662517+05:45.jpg"
-     alt="DC Nepal at 2022-09-18 09:32:31+05:45 local time"
+ <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-25T23:07:18.779331+05:45.jpg">
+  <img src="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-25T23:07:18.779331+05:45.jpg"
+     alt="DC Nepal at 2022-09-25 23:07:29+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-18T09:32:29.662517+05:45.jpg">September 18 at 9:32 AM</a></p>
+ <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-25T23:07:18.779331+05:45.jpg">September 25 at 11:07 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-17T20:35:04.784538+05:45.jpg">
-  <img src="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-17T20:35:04.784538+05:45.jpg"
-     alt="DC Nepal at 2022-09-17 20:35:15+05:45 local time"
+ <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-25T11:32:18.215160+05:45.jpg">
+  <img src="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-25T11:32:18.215160+05:45.jpg"
+     alt="DC Nepal at 2022-09-25 11:32:24+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-17T20:35:04.784538+05:45.jpg">September 17 at 8:35 PM</a></p>
+ <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-25T11:32:18.215160+05:45.jpg">September 25 at 11:32 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-17T09:27:01.150462+05:45.jpg">
-  <img src="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-17T09:27:01.150462+05:45.jpg"
-     alt="DC Nepal at 2022-09-17 09:27:02+05:45 local time"
+ <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-24T23:07:52.187509+05:45.jpg">
+  <img src="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-24T23:07:52.187509+05:45.jpg"
+     alt="DC Nepal at 2022-09-24 23:08:00+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-17T09:27:01.150462+05:45.jpg">September 17 at 9:27 AM</a></p>
+ <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-24T23:07:52.187509+05:45.jpg">September 24 at 11:08 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-16T20:44:53.260979+05:45.jpg">
-  <img src="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-16T20:44:53.260979+05:45.jpg"
-     alt="DC Nepal at 2022-09-16 20:44:57+05:45 local time"
+ <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-24T11:33:25.376744+05:45.jpg">
+  <img src="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-24T11:33:25.376744+05:45.jpg"
+     alt="DC Nepal at 2022-09-24 11:33:37+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-16T20:44:53.260979+05:45.jpg">September 16 at 8:44 PM</a></p>
+ <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-24T11:33:25.376744+05:45.jpg">September 24 at 11:33 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-16T09:33:45.695567+05:45.jpg">
-  <img src="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-16T09:33:45.695567+05:45.jpg"
-     alt="DC Nepal at 2022-09-16 09:33:48+05:45 local time"
+ <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-23T23:20:56.288484+05:45.jpg">
+  <img src="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-23T23:20:56.288484+05:45.jpg"
+     alt="DC Nepal at 2022-09-23 23:21:02+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-16T09:33:45.695567+05:45.jpg">September 16 at 9:33 AM</a></p>
+ <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-23T23:20:56.288484+05:45.jpg">September 23 at 11:21 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-15T21:54:58.898786+05:45.jpg">
-  <img src="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-15T21:54:58.898786+05:45.jpg"
-     alt="DC Nepal at 2022-09-15 21:55:00+05:45 local time"
+ <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-23T12:57:32.490704+05:45.jpg">
+  <img src="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-23T12:57:32.490704+05:45.jpg"
+     alt="DC Nepal at 2022-09-23 12:57:41+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-15T21:54:58.898786+05:45.jpg">September 15 at 9:55 PM</a></p>
+ <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-23T12:57:32.490704+05:45.jpg">September 23 at 12:57 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-15T09:33:57.508215+05:45.jpg">
-  <img src="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-15T09:33:57.508215+05:45.jpg"
-     alt="DC Nepal at 2022-09-15 09:34:23+05:45 local time"
+ <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-22T23:21:32.986335+05:45.jpg">
+  <img src="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-22T23:21:32.986335+05:45.jpg"
+     alt="DC Nepal at 2022-09-22 23:21:37+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-15T09:33:57.508215+05:45.jpg">September 15 at 9:34 AM</a></p>
+ <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-22T23:21:32.986335+05:45.jpg">September 22 at 11:21 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-14T21:02:33.181802+05:45.jpg">
-  <img src="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-14T21:02:33.181802+05:45.jpg"
-     alt="DC Nepal at 2022-09-14 21:03:01+05:45 local time"
+ <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-22T11:47:13.709684+05:45.jpg">
+  <img src="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-22T11:47:13.709684+05:45.jpg"
+     alt="DC Nepal at 2022-09-22 11:47:38+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-14T21:02:33.181802+05:45.jpg">September 14 at 9:03 PM</a></p>
+ <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-22T11:47:13.709684+05:45.jpg">September 22 at 11:47 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-14T09:31:59.639000+05:45.jpg">
-  <img src="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-14T09:31:59.639000+05:45.jpg"
-     alt="DC Nepal at 2022-09-14 09:32:05+05:45 local time"
+ <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-21T23:21:32.493330+05:45.jpg">
+  <img src="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-21T23:21:32.493330+05:45.jpg"
+     alt="DC Nepal at 2022-09-21 23:21:45+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-14T09:31:59.639000+05:45.jpg">September 14 at 9:32 AM</a></p>
+ <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-21T23:21:32.493330+05:45.jpg">September 21 at 11:21 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 114 hyperlink lists with the Internet Archive.
+The archiving routine has saved 130 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 9:44 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-19T21:44:13.344451+05:45.hyperlinks.json) |
-| [September 19 at 10:27 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-19T10:27:06.449710+05:45.hyperlinks.json) |
-| [September 18 at 8:38 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-18T20:38:30.529895+05:45.hyperlinks.json) |
-| [September 18 at 9:32 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-18T09:32:29.662517+05:45.hyperlinks.json) |
-| [September 17 at 8:35 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-17T20:35:04.784538+05:45.hyperlinks.json) |
-| [September 17 at 9:27 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-17T09:27:01.150462+05:45.hyperlinks.json) |
-| [September 16 at 8:45 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-16T20:44:53.260979+05:45.hyperlinks.json) |
-| [September 16 at 9:33 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-16T09:33:45.695567+05:45.hyperlinks.json) |
-| [September 15 at 9:55 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-15T21:54:58.898786+05:45.hyperlinks.json) |
-| [September 15 at 9:34 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-15T09:33:57.508215+05:45.hyperlinks.json) |
+| [September 27 at 12:43 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-27T12:42:59.208666+05:45.hyperlinks.json) |
+| [September 26 at 11:27 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-26T23:26:54.756403+05:45.hyperlinks.json) |
+| [September 26 at 11:57 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-26T11:57:31.382595+05:45.hyperlinks.json) |
+| [September 25 at 11:07 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-25T23:07:18.779331+05:45.hyperlinks.json) |
+| [September 25 at 11:32 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-25T11:32:18.215160+05:45.hyperlinks.json) |
+| [September 24 at 11:08 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-24T23:07:52.187509+05:45.hyperlinks.json) |
+| [September 24 at 11:33 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-24T11:33:25.376744+05:45.hyperlinks.json) |
+| [September 23 at 11:21 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-23T23:20:56.288484+05:45.hyperlinks.json) |
+| [September 23 at 12:57 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-23T12:57:32.490704+05:45.hyperlinks.json) |
+| [September 22 at 11:21 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-22T23:21:32.986335+05:45.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 114 accessibility trees with the Internet Archive.
+The archiving routine has saved 130 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 9:44 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-19T21:44:13.344451+05:45.accessibility.json) |
-| [September 19 at 10:27 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-19T10:27:06.449710+05:45.accessibility.json) |
-| [September 18 at 8:38 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-18T20:38:30.529895+05:45.accessibility.json) |
-| [September 18 at 9:32 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-18T09:32:29.662517+05:45.accessibility.json) |
-| [September 17 at 8:35 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-17T20:35:04.784538+05:45.accessibility.json) |
-| [September 17 at 9:27 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-17T09:27:01.150462+05:45.accessibility.json) |
-| [September 16 at 8:44 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-16T20:44:53.260979+05:45.accessibility.json) |
-| [September 16 at 9:33 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-16T09:33:45.695567+05:45.accessibility.json) |
-| [September 15 at 9:55 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-15T21:54:58.898786+05:45.accessibility.json) |
-| [September 15 at 9:34 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-15T09:33:57.508215+05:45.accessibility.json) |
+| [September 27 at 12:43 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-27T12:42:59.208666+05:45.accessibility.json) |
+| [September 26 at 11:27 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-26T23:26:54.756403+05:45.accessibility.json) |
+| [September 26 at 11:57 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-26T11:57:31.382595+05:45.accessibility.json) |
+| [September 25 at 11:07 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-25T23:07:18.779331+05:45.accessibility.json) |
+| [September 25 at 11:32 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-25T11:32:18.215160+05:45.accessibility.json) |
+| [September 24 at 11:08 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-24T23:07:52.187509+05:45.accessibility.json) |
+| [September 24 at 11:33 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-24T11:33:25.376744+05:45.accessibility.json) |
+| [September 23 at 11:21 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-23T23:20:56.288484+05:45.accessibility.json) |
+| [September 23 at 12:57 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-23T12:57:32.490704+05:45.accessibility.json) |
+| [September 22 at 11:21 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-22T23:21:32.986335+05:45.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 114 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 130 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 9:44 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-19T21:44:13.344451+05:45.lighthouse.json) |
-| [September 19 at 10:27 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-19T10:27:06.449710+05:45.lighthouse.json) |
-| [September 18 at 8:38 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-18T20:38:30.529895+05:45.lighthouse.json) |
-| [September 18 at 9:32 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-18T09:32:29.662517+05:45.lighthouse.json) |
-| [September 17 at 8:35 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-17T20:35:04.784538+05:45.lighthouse.json) |
-| [September 17 at 9:27 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-17T09:27:01.150462+05:45.lighthouse.json) |
-| [September 16 at 8:45 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-16T20:44:53.260979+05:45.lighthouse.json) |
-| [September 16 at 9:33 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-16T09:33:45.695567+05:45.lighthouse.json) |
-| [September 15 at 9:55 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-15T21:54:58.898786+05:45.lighthouse.json) |
-| [September 15 at 9:34 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-15T09:33:57.508215+05:45.lighthouse.json) |
+| [September 27 at 12:43 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-27T12:42:59.208666+05:45.lighthouse.json) |
+| [September 26 at 11:27 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-26T23:26:54.756403+05:45.lighthouse.json) |
+| [September 26 at 11:57 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-26T11:57:31.382595+05:45.lighthouse.json) |
+| [September 25 at 11:07 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-25T23:07:18.779331+05:45.lighthouse.json) |
+| [September 25 at 11:32 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-25T11:32:18.215160+05:45.lighthouse.json) |
+| [September 24 at 11:08 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-24T23:07:52.187509+05:45.lighthouse.json) |
+| [September 24 at 11:33 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-24T11:33:25.376744+05:45.lighthouse.json) |
+| [September 23 at 11:21 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-23T23:20:56.288484+05:45.lighthouse.json) |
+| [September 23 at 12:57 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-23T12:57:32.490704+05:45.lighthouse.json) |
+| [September 22 at 11:21 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-22T23:21:32.986335+05:45.lighthouse.json) |
 
 
 

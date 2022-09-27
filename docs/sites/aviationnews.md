@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 60 screenshots with the Internet Archive.
+The archiving routine has saved 77 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-19T06:49:14.531627-04:00.jpg">
-  <img src="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-19T06:49:14.531627-04:00.jpg"
-     alt="AeroTime Hub at 2022-09-19 06:49:19-04:00 local time"
+ <a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-27T06:56:00.051498-04:00.jpg">
+  <img src="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-27T06:56:00.051498-04:00.jpg"
+     alt="AeroTime Hub at 2022-09-27 06:56:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-19T06:49:14.531627-04:00.jpg">September 19 at 6:49 AM</a></p>
+ <p><a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-27T06:56:00.051498-04:00.jpg">September 27 at 6:56 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-18T18:49:50.613126-04:00.jpg">
-  <img src="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-18T18:49:50.613126-04:00.jpg"
-     alt="AeroTime Hub at 2022-09-18 18:49:52-04:00 local time"
+ <a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-26T18:53:46.641015-04:00.jpg">
+  <img src="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-26T18:53:46.641015-04:00.jpg"
+     alt="AeroTime Hub at 2022-09-26 18:53:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-18T18:49:50.613126-04:00.jpg">September 18 at 6:49 PM</a></p>
+ <p><a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-26T18:53:46.641015-04:00.jpg">September 26 at 6:53 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-18T06:51:01.236118-04:00.jpg">
-  <img src="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-18T06:51:01.236118-04:00.jpg"
-     alt="AeroTime Hub at 2022-09-18 06:51:06-04:00 local time"
+ <a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-26T06:55:23.744601-04:00.jpg">
+  <img src="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-26T06:55:23.744601-04:00.jpg"
+     alt="AeroTime Hub at 2022-09-26 06:55:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-18T06:51:01.236118-04:00.jpg">September 18 at 6:51 AM</a></p>
+ <p><a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-26T06:55:23.744601-04:00.jpg">September 26 at 6:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-17T18:53:20.034306-04:00.jpg">
-  <img src="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-17T18:53:20.034306-04:00.jpg"
-     alt="AeroTime Hub at 2022-09-17 18:53:26-04:00 local time"
+ <a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-25T18:42:43.378868-04:00.jpg">
+  <img src="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-25T18:42:43.378868-04:00.jpg"
+     alt="AeroTime Hub at 2022-09-25 18:42:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-17T18:53:20.034306-04:00.jpg">September 17 at 6:53 PM</a></p>
+ <p><a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-25T18:42:43.378868-04:00.jpg">September 25 at 6:42 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-17T06:50:27.566626-04:00.jpg">
-  <img src="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-17T06:50:27.566626-04:00.jpg"
-     alt="AeroTime Hub at 2022-09-17 06:50:31-04:00 local time"
+ <a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-25T06:41:46.063742-04:00.jpg">
+  <img src="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-25T06:41:46.063742-04:00.jpg"
+     alt="AeroTime Hub at 2022-09-25 06:41:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-17T06:50:27.566626-04:00.jpg">September 17 at 6:50 AM</a></p>
+ <p><a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-25T06:41:46.063742-04:00.jpg">September 25 at 6:41 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-16T18:52:39.100736-04:00.jpg">
-  <img src="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-16T18:52:39.100736-04:00.jpg"
-     alt="AeroTime Hub at 2022-09-16 18:52:42-04:00 local time"
+ <a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-24T18:42:05.794550-04:00.jpg">
+  <img src="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-24T18:42:05.794550-04:00.jpg"
+     alt="AeroTime Hub at 2022-09-24 18:42:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-16T18:52:39.100736-04:00.jpg">September 16 at 6:52 PM</a></p>
+ <p><a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-24T18:42:05.794550-04:00.jpg">September 24 at 6:42 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-16T06:53:28.052526-04:00.jpg">
-  <img src="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-16T06:53:28.052526-04:00.jpg"
-     alt="AeroTime Hub at 2022-09-16 06:53:31-04:00 local time"
+ <a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-24T06:45:05.414398-04:00.jpg">
+  <img src="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-24T06:45:05.414398-04:00.jpg"
+     alt="AeroTime Hub at 2022-09-24 06:45:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-16T06:53:28.052526-04:00.jpg">September 16 at 6:53 AM</a></p>
+ <p><a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-24T06:45:05.414398-04:00.jpg">September 24 at 6:45 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-15T18:55:03.442915-04:00.jpg">
-  <img src="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-15T18:55:03.442915-04:00.jpg"
-     alt="AeroTime Hub at 2022-09-15 18:55:09-04:00 local time"
+ <a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-23T19:52:24.124333-04:00.jpg">
+  <img src="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-23T19:52:24.124333-04:00.jpg"
+     alt="AeroTime Hub at 2022-09-23 19:52:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-15T18:55:03.442915-04:00.jpg">September 15 at 6:55 PM</a></p>
+ <p><a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-23T19:52:24.124333-04:00.jpg">September 23 at 7:52 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-15T06:55:08.148416-04:00.jpg">
-  <img src="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-15T06:55:08.148416-04:00.jpg"
-     alt="AeroTime Hub at 2022-09-15 06:55:18-04:00 local time"
+ <a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-23T06:49:02.781951-04:00.jpg">
+  <img src="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-23T06:49:02.781951-04:00.jpg"
+     alt="AeroTime Hub at 2022-09-23 06:49:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-15T06:55:08.148416-04:00.jpg">September 15 at 6:55 AM</a></p>
+ <p><a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-23T06:49:02.781951-04:00.jpg">September 23 at 6:49 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-14T19:02:33.359015-04:00.jpg">
-  <img src="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-14T19:02:33.359015-04:00.jpg"
-     alt="AeroTime Hub at 2022-09-14 19:02:38-04:00 local time"
+ <a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-22T18:50:44.008251-04:00.jpg">
+  <img src="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-22T18:50:44.008251-04:00.jpg"
+     alt="AeroTime Hub at 2022-09-22 18:50:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-14T19:02:33.359015-04:00.jpg">September 14 at 7:02 PM</a></p>
+ <p><a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-22T18:50:44.008251-04:00.jpg">September 22 at 6:50 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-14T06:54:23.239886-04:00.jpg">
-  <img src="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-14T06:54:23.239886-04:00.jpg"
-     alt="AeroTime Hub at 2022-09-14 06:54:29-04:00 local time"
+ <a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-22T06:52:27.695658-04:00.jpg">
+  <img src="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-22T06:52:27.695658-04:00.jpg"
+     alt="AeroTime Hub at 2022-09-22 06:52:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-14T06:54:23.239886-04:00.jpg">September 14 at 6:54 AM</a></p>
+ <p><a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-22T06:52:27.695658-04:00.jpg">September 22 at 6:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-13T18:59:11.746562-04:00.jpg">
-  <img src="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-13T18:59:11.746562-04:00.jpg"
-     alt="AeroTime Hub at 2022-09-13 18:59:17-04:00 local time"
+ <a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-21T18:56:51.872200-04:00.jpg">
+  <img src="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-21T18:56:51.872200-04:00.jpg"
+     alt="AeroTime Hub at 2022-09-21 18:57:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-13T18:59:11.746562-04:00.jpg">September 13 at 6:59 PM</a></p>
+ <p><a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-09-21T18:56:51.872200-04:00.jpg">September 21 at 6:57 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 60 hyperlink lists with the Internet Archive.
+The archiving routine has saved 77 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 6:49 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-19T06:49:14.531627-04:00.hyperlinks.json) |
-| [September 18 at 6:49 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-18T18:49:50.613126-04:00.hyperlinks.json) |
-| [September 18 at 6:51 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-18T06:51:01.236118-04:00.hyperlinks.json) |
-| [September 17 at 6:53 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-17T18:53:20.034306-04:00.hyperlinks.json) |
-| [September 17 at 6:50 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-17T06:50:27.566626-04:00.hyperlinks.json) |
-| [September 16 at 6:52 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-16T18:52:39.100736-04:00.hyperlinks.json) |
-| [September 16 at 6:53 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-16T06:53:28.052526-04:00.hyperlinks.json) |
-| [September 15 at 6:55 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-15T18:55:03.442915-04:00.hyperlinks.json) |
-| [September 15 at 6:55 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-15T06:55:08.148416-04:00.hyperlinks.json) |
-| [September 14 at 7:02 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-14T19:02:33.359015-04:00.hyperlinks.json) |
+| [September 27 at 6:56 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-27T06:56:00.051498-04:00.hyperlinks.json) |
+| [September 26 at 6:53 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-26T18:53:46.641015-04:00.hyperlinks.json) |
+| [September 26 at 6:55 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-26T06:55:23.744601-04:00.hyperlinks.json) |
+| [September 25 at 6:42 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-25T18:42:43.378868-04:00.hyperlinks.json) |
+| [September 25 at 6:41 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-25T06:41:46.063742-04:00.hyperlinks.json) |
+| [September 24 at 6:42 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-24T18:42:05.794550-04:00.hyperlinks.json) |
+| [September 24 at 6:45 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-24T06:45:05.414398-04:00.hyperlinks.json) |
+| [September 23 at 7:52 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-23T19:52:24.124333-04:00.hyperlinks.json) |
+| [September 23 at 6:49 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-23T06:49:02.781951-04:00.hyperlinks.json) |
+| [September 22 at 6:50 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-22T18:50:44.008251-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 60 accessibility trees with the Internet Archive.
+The archiving routine has saved 77 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 6:49 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-19T06:49:14.531627-04:00.accessibility.json) |
-| [September 18 at 6:49 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-18T18:49:50.613126-04:00.accessibility.json) |
-| [September 18 at 6:51 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-18T06:51:01.236118-04:00.accessibility.json) |
-| [September 17 at 6:53 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-17T18:53:20.034306-04:00.accessibility.json) |
-| [September 17 at 6:50 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-17T06:50:27.566626-04:00.accessibility.json) |
-| [September 16 at 6:52 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-16T18:52:39.100736-04:00.accessibility.json) |
-| [September 16 at 6:53 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-16T06:53:28.052526-04:00.accessibility.json) |
-| [September 15 at 6:55 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-15T18:55:03.442915-04:00.accessibility.json) |
-| [September 15 at 6:55 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-15T06:55:08.148416-04:00.accessibility.json) |
-| [September 14 at 7:02 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-14T19:02:33.359015-04:00.accessibility.json) |
+| [September 27 at 6:56 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-27T06:56:00.051498-04:00.accessibility.json) |
+| [September 26 at 6:53 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-26T18:53:46.641015-04:00.accessibility.json) |
+| [September 26 at 6:55 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-26T06:55:23.744601-04:00.accessibility.json) |
+| [September 25 at 6:42 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-25T18:42:43.378868-04:00.accessibility.json) |
+| [September 25 at 6:41 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-25T06:41:46.063742-04:00.accessibility.json) |
+| [September 24 at 6:42 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-24T18:42:05.794550-04:00.accessibility.json) |
+| [September 24 at 6:45 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-24T06:45:05.414398-04:00.accessibility.json) |
+| [September 23 at 7:52 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-23T19:52:24.124333-04:00.accessibility.json) |
+| [September 23 at 6:49 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-23T06:49:02.781951-04:00.accessibility.json) |
+| [September 22 at 6:50 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-22T18:50:44.008251-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 60 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 77 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 6:49 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-19T06:49:14.531627-04:00.lighthouse.json) |
-| [September 18 at 6:49 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-18T18:49:50.613126-04:00.lighthouse.json) |
-| [September 18 at 6:51 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-18T06:51:01.236118-04:00.lighthouse.json) |
-| [September 17 at 6:53 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-17T18:53:20.034306-04:00.lighthouse.json) |
-| [September 17 at 6:50 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-17T06:50:27.566626-04:00.lighthouse.json) |
-| [September 16 at 6:52 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-16T18:52:39.100736-04:00.lighthouse.json) |
-| [September 16 at 6:53 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-16T06:53:28.052526-04:00.lighthouse.json) |
-| [September 15 at 6:55 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-15T18:55:03.442915-04:00.lighthouse.json) |
-| [September 15 at 6:55 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-15T06:55:08.148416-04:00.lighthouse.json) |
-| [September 14 at 7:02 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-14T19:02:33.359015-04:00.lighthouse.json) |
+| [September 27 at 6:56 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-27T06:56:00.051498-04:00.lighthouse.json) |
+| [September 26 at 6:54 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-26T18:53:46.641015-04:00.lighthouse.json) |
+| [September 26 at 6:55 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-26T06:55:23.744601-04:00.lighthouse.json) |
+| [September 25 at 6:42 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-25T18:42:43.378868-04:00.lighthouse.json) |
+| [September 25 at 6:41 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-25T06:41:46.063742-04:00.lighthouse.json) |
+| [September 24 at 6:42 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-24T18:42:05.794550-04:00.lighthouse.json) |
+| [September 24 at 6:45 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-24T06:45:05.414398-04:00.lighthouse.json) |
+| [September 23 at 7:52 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-23T19:52:24.124333-04:00.lighthouse.json) |
+| [September 23 at 6:49 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-23T06:49:02.781951-04:00.lighthouse.json) |
+| [September 22 at 6:50 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-09-22T18:50:44.008251-04:00.lighthouse.json) |
 
 
 

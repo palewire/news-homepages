@@ -28,8 +28,91 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 15 screenshots with the Internet Archive.
+The archiving routine has saved 31 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/arkbusiness.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
@@ -37,180 +120,429 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-19T05:46:55.225210-05:00.jpg">
-  <img src="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-19T05:46:55.225210-05:00.jpg"
-     alt="Arkansas Business at 2022-09-19 05:46:58-05:00 local time"
+ <a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-27T05:55:25.284480-05:00.jpg">
+  <img src="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-27T05:55:25.284480-05:00.jpg"
+     alt="Arkansas Business at 2022-09-27 05:55:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-19T05:46:55.225210-05:00.jpg">September 19 at 5:46 AM</a></p>
+ <p><a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-27T05:55:25.284480-05:00.jpg">September 27 at 5:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-18T17:49:18.347631-05:00.jpg">
-  <img src="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-18T17:49:18.347631-05:00.jpg"
-     alt="Arkansas Business at 2022-09-18 17:49:19-05:00 local time"
+ <a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-26T17:51:01.827006-05:00.jpg">
+  <img src="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-26T17:51:01.827006-05:00.jpg"
+     alt="Arkansas Business at 2022-09-26 17:51:04-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-18T17:49:18.347631-05:00.jpg">September 18 at 5:49 PM</a></p>
+ <p><a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-26T17:51:01.827006-05:00.jpg">September 26 at 5:51 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-18T05:51:04.875192-05:00.jpg">
-  <img src="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-18T05:51:04.875192-05:00.jpg"
-     alt="Arkansas Business at 2022-09-18 05:51:07-05:00 local time"
+ <a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-26T05:54:27.036765-05:00.jpg">
+  <img src="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-26T05:54:27.036765-05:00.jpg"
+     alt="Arkansas Business at 2022-09-26 05:54:30-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-18T05:51:04.875192-05:00.jpg">September 18 at 5:51 AM</a></p>
+ <p><a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-26T05:54:27.036765-05:00.jpg">September 26 at 5:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-17T17:52:10.833974-05:00.jpg">
-  <img src="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-17T17:52:10.833974-05:00.jpg"
-     alt="Arkansas Business at 2022-09-17 17:52:13-05:00 local time"
+ <a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-25T17:42:00.330011-05:00.jpg">
+  <img src="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-25T17:42:00.330011-05:00.jpg"
+     alt="Arkansas Business at 2022-09-25 17:42:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-17T17:52:10.833974-05:00.jpg">September 17 at 5:52 PM</a></p>
+ <p><a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-25T17:42:00.330011-05:00.jpg">September 25 at 5:42 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-17T05:47:46.990211-05:00.jpg">
-  <img src="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-17T05:47:46.990211-05:00.jpg"
-     alt="Arkansas Business at 2022-09-17 05:47:49-05:00 local time"
+ <a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-25T05:41:59.704461-05:00.jpg">
+  <img src="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-25T05:41:59.704461-05:00.jpg"
+     alt="Arkansas Business at 2022-09-25 05:42:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-17T05:47:46.990211-05:00.jpg">September 17 at 5:47 AM</a></p>
+ <p><a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-25T05:41:59.704461-05:00.jpg">September 25 at 5:42 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-16T17:50:17.485427-05:00.jpg">
-  <img src="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-16T17:50:17.485427-05:00.jpg"
-     alt="Arkansas Business at 2022-09-16 17:50:19-05:00 local time"
+ <a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-24T17:41:57.523778-05:00.jpg">
+  <img src="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-24T17:41:57.523778-05:00.jpg"
+     alt="Arkansas Business at 2022-09-24 17:41:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-16T17:50:17.485427-05:00.jpg">September 16 at 5:50 PM</a></p>
+ <p><a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-24T17:41:57.523778-05:00.jpg">September 24 at 5:41 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-16T05:53:02.514864-05:00.jpg">
-  <img src="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-16T05:53:02.514864-05:00.jpg"
-     alt="Arkansas Business at 2022-09-16 05:53:04-05:00 local time"
+ <a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-24T05:44:17.496265-05:00.jpg">
+  <img src="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-24T05:44:17.496265-05:00.jpg"
+     alt="Arkansas Business at 2022-09-24 05:44:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-16T05:53:02.514864-05:00.jpg">September 16 at 5:53 AM</a></p>
+ <p><a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-24T05:44:17.496265-05:00.jpg">September 24 at 5:44 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-15T17:56:17.073110-05:00.jpg">
-  <img src="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-15T17:56:17.073110-05:00.jpg"
-     alt="Arkansas Business at 2022-09-15 17:56:18-05:00 local time"
+ <a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-23T18:50:46.559293-05:00.jpg">
+  <img src="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-23T18:50:46.559293-05:00.jpg"
+     alt="Arkansas Business at 2022-09-23 18:50:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-15T17:56:17.073110-05:00.jpg">September 15 at 5:56 PM</a></p>
+ <p><a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-23T18:50:46.559293-05:00.jpg">September 23 at 6:50 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-15T05:52:49.675697-05:00.jpg">
-  <img src="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-15T05:52:49.675697-05:00.jpg"
-     alt="Arkansas Business at 2022-09-15 05:52:52-05:00 local time"
+ <a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-23T05:48:39.630022-05:00.jpg">
+  <img src="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-23T05:48:39.630022-05:00.jpg"
+     alt="Arkansas Business at 2022-09-23 05:48:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-15T05:52:49.675697-05:00.jpg">September 15 at 5:52 AM</a></p>
+ <p><a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-23T05:48:39.630022-05:00.jpg">September 23 at 5:48 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-14T18:01:37.125397-05:00.jpg">
-  <img src="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-14T18:01:37.125397-05:00.jpg"
-     alt="Arkansas Business at 2022-09-14 18:01:38-05:00 local time"
+ <a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-22T17:51:16.701273-05:00.jpg">
+  <img src="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-22T17:51:16.701273-05:00.jpg"
+     alt="Arkansas Business at 2022-09-22 17:51:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-14T18:01:37.125397-05:00.jpg">September 14 at 6:01 PM</a></p>
+ <p><a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-22T17:51:16.701273-05:00.jpg">September 22 at 5:51 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-14T05:52:16.514841-05:00.jpg">
-  <img src="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-14T05:52:16.514841-05:00.jpg"
-     alt="Arkansas Business at 2022-09-14 05:52:18-05:00 local time"
+ <a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-22T05:52:27.956781-05:00.jpg">
+  <img src="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-22T05:52:27.956781-05:00.jpg"
+     alt="Arkansas Business at 2022-09-22 05:52:30-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-14T05:52:16.514841-05:00.jpg">September 14 at 5:52 AM</a></p>
+ <p><a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-22T05:52:27.956781-05:00.jpg">September 22 at 5:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-13T17:56:41.820828-05:00.jpg">
-  <img src="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-13T17:56:41.820828-05:00.jpg"
-     alt="Arkansas Business at 2022-09-13 17:56:43-05:00 local time"
+ <a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-21T17:56:26.863010-05:00.jpg">
+  <img src="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-21T17:56:26.863010-05:00.jpg"
+     alt="Arkansas Business at 2022-09-21 17:56:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-13T17:56:41.820828-05:00.jpg">September 13 at 5:56 PM</a></p>
+ <p><a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-21T17:56:26.863010-05:00.jpg">September 21 at 5:56 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 15 hyperlink lists with the Internet Archive.
+The archiving routine has saved 31 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/arkbusiness.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 5:47 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-19T05:46:55.225210-05:00.hyperlinks.json) |
-| [September 18 at 5:49 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-18T17:49:18.347631-05:00.hyperlinks.json) |
-| [September 18 at 5:51 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-18T05:51:04.875192-05:00.hyperlinks.json) |
-| [September 17 at 5:52 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-17T17:52:10.833974-05:00.hyperlinks.json) |
-| [September 17 at 5:47 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-17T05:47:46.990211-05:00.hyperlinks.json) |
-| [September 16 at 5:50 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-16T17:50:17.485427-05:00.hyperlinks.json) |
-| [September 16 at 5:53 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-16T05:53:02.514864-05:00.hyperlinks.json) |
-| [September 15 at 5:56 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-15T17:56:17.073110-05:00.hyperlinks.json) |
-| [September 15 at 5:52 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-15T05:52:49.675697-05:00.hyperlinks.json) |
-| [September 14 at 6:01 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-14T18:01:37.125397-05:00.hyperlinks.json) |
+| [September 27 at 5:55 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-27T05:55:25.284480-05:00.hyperlinks.json) |
+| [September 26 at 5:51 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-26T17:51:01.827006-05:00.hyperlinks.json) |
+| [September 26 at 5:54 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-26T05:54:27.036765-05:00.hyperlinks.json) |
+| [September 25 at 5:42 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-25T17:42:00.330011-05:00.hyperlinks.json) |
+| [September 25 at 5:42 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-25T05:41:59.704461-05:00.hyperlinks.json) |
+| [September 24 at 5:42 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-24T17:41:57.523778-05:00.hyperlinks.json) |
+| [September 24 at 5:44 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-24T05:44:17.496265-05:00.hyperlinks.json) |
+| [September 23 at 6:50 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-23T18:50:46.559293-05:00.hyperlinks.json) |
+| [September 23 at 5:48 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-23T05:48:39.630022-05:00.hyperlinks.json) |
+| [September 22 at 5:51 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-22T17:51:16.701273-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 15 accessibility trees with the Internet Archive.
+The archiving routine has saved 32 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/arkbusiness.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 5:47 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-19T05:46:55.225210-05:00.accessibility.json) |
-| [September 18 at 5:49 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-18T17:49:18.347631-05:00.accessibility.json) |
-| [September 18 at 5:51 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-18T05:51:04.875192-05:00.accessibility.json) |
-| [September 17 at 5:52 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-17T17:52:10.833974-05:00.accessibility.json) |
-| [September 17 at 5:47 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-17T05:47:46.990211-05:00.accessibility.json) |
-| [September 16 at 5:50 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-16T17:50:17.485427-05:00.accessibility.json) |
-| [September 16 at 5:53 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-16T05:53:02.514864-05:00.accessibility.json) |
-| [September 15 at 5:56 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-15T17:56:17.073110-05:00.accessibility.json) |
-| [September 15 at 5:52 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-15T05:52:49.675697-05:00.accessibility.json) |
-| [September 14 at 6:01 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-14T18:01:37.125397-05:00.accessibility.json) |
+| [September 27 at 5:55 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-27T05:55:25.284480-05:00.accessibility.json) |
+| [September 26 at 5:51 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-26T17:51:01.827006-05:00.accessibility.json) |
+| [September 26 at 5:54 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-26T05:54:27.036765-05:00.accessibility.json) |
+| [September 25 at 5:42 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-25T17:42:00.330011-05:00.accessibility.json) |
+| [September 25 at 5:42 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-25T05:41:59.704461-05:00.accessibility.json) |
+| [September 24 at 5:42 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-24T17:41:57.523778-05:00.accessibility.json) |
+| [September 24 at 5:44 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-24T05:44:17.496265-05:00.accessibility.json) |
+| [September 23 at 6:50 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-23T18:50:46.559293-05:00.accessibility.json) |
+| [September 23 at 5:48 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-23T05:48:39.630022-05:00.accessibility.json) |
+| [September 22 at 5:51 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-22T17:51:16.701273-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/arkbusiness.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 5:47 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-19T05:46:55.225210-05:00.lighthouse.json) |
-| [September 18 at 5:49 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-18T17:49:18.347631-05:00.lighthouse.json) |
-| [September 18 at 5:51 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-18T05:51:04.875192-05:00.lighthouse.json) |
-| [September 17 at 5:52 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-17T17:52:10.833974-05:00.lighthouse.json) |
-| [September 17 at 5:47 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-17T05:47:46.990211-05:00.lighthouse.json) |
-| [September 16 at 5:50 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-16T17:50:17.485427-05:00.lighthouse.json) |
-| [September 16 at 5:53 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-16T05:53:02.514864-05:00.lighthouse.json) |
-| [September 15 at 5:56 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-15T17:56:17.073110-05:00.lighthouse.json) |
-| [September 15 at 5:52 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-15T05:52:49.675697-05:00.lighthouse.json) |
-| [September 14 at 6:01 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-14T18:01:37.125397-05:00.lighthouse.json) |
+| [September 27 at 5:55 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-27T05:55:25.284480-05:00.lighthouse.json) |
+| [September 26 at 5:51 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-26T17:51:01.827006-05:00.lighthouse.json) |
+| [September 26 at 5:54 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-26T05:54:27.036765-05:00.lighthouse.json) |
+| [September 25 at 5:42 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-25T17:42:00.330011-05:00.lighthouse.json) |
+| [September 25 at 5:42 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-25T05:41:59.704461-05:00.lighthouse.json) |
+| [September 24 at 5:42 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-24T17:41:57.523778-05:00.lighthouse.json) |
+| [September 24 at 5:44 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-24T05:44:17.496265-05:00.lighthouse.json) |
+| [September 23 at 6:50 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-23T18:50:46.559293-05:00.lighthouse.json) |
+| [September 23 at 5:48 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-23T05:48:39.630022-05:00.lighthouse.json) |
+| [September 22 at 5:51 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-09-22T17:51:16.701273-05:00.lighthouse.json) |
 
 
 

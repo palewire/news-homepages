@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 0 screenshots with the Internet Archive.
+The archiving routine has saved 15 screenshots with the Internet Archive.
 
 
 
@@ -36,11 +36,119 @@ Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
 
+<div class="latest-child">
+ <a href="https://archive.org/download/cjonline-2022/cjonline-2022-09-27T05:57:24.661488-05:00.jpg">
+  <img src="https://archive.org/download/cjonline-2022/cjonline-2022-09-27T05:57:24.661488-05:00.jpg"
+     alt="The Topeka Capital-Journal at 2022-09-27 05:57:26-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cjonline-2022/cjonline-2022-09-27T05:57:24.661488-05:00.jpg">September 27 at 5:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cjonline-2022/cjonline-2022-09-26T17:56:01.360028-05:00.jpg">
+  <img src="https://archive.org/download/cjonline-2022/cjonline-2022-09-26T17:56:01.360028-05:00.jpg"
+     alt="The Topeka Capital-Journal at 2022-09-26 17:56:03-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cjonline-2022/cjonline-2022-09-26T17:56:01.360028-05:00.jpg">September 26 at 5:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cjonline-2022/cjonline-2022-09-26T05:57:36.941865-05:00.jpg">
+  <img src="https://archive.org/download/cjonline-2022/cjonline-2022-09-26T05:57:36.941865-05:00.jpg"
+     alt="The Topeka Capital-Journal at 2022-09-26 05:57:38-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cjonline-2022/cjonline-2022-09-26T05:57:36.941865-05:00.jpg">September 26 at 5:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cjonline-2022/cjonline-2022-09-25T17:45:20.563786-05:00.jpg">
+  <img src="https://archive.org/download/cjonline-2022/cjonline-2022-09-25T17:45:20.563786-05:00.jpg"
+     alt="The Topeka Capital-Journal at 2022-09-25 17:45:22-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cjonline-2022/cjonline-2022-09-25T17:45:20.563786-05:00.jpg">September 25 at 5:45 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cjonline-2022/cjonline-2022-09-25T05:43:34.394092-05:00.jpg">
+  <img src="https://archive.org/download/cjonline-2022/cjonline-2022-09-25T05:43:34.394092-05:00.jpg"
+     alt="The Topeka Capital-Journal at 2022-09-25 05:43:36-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cjonline-2022/cjonline-2022-09-25T05:43:34.394092-05:00.jpg">September 25 at 5:43 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cjonline-2022/cjonline-2022-09-24T17:44:01.204854-05:00.jpg">
+  <img src="https://archive.org/download/cjonline-2022/cjonline-2022-09-24T17:44:01.204854-05:00.jpg"
+     alt="The Topeka Capital-Journal at 2022-09-24 17:44:03-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cjonline-2022/cjonline-2022-09-24T17:44:01.204854-05:00.jpg">September 24 at 5:44 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cjonline-2022/cjonline-2022-09-24T05:46:17.088723-05:00.jpg">
+  <img src="https://archive.org/download/cjonline-2022/cjonline-2022-09-24T05:46:17.088723-05:00.jpg"
+     alt="The Topeka Capital-Journal at 2022-09-24 05:46:18-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cjonline-2022/cjonline-2022-09-24T05:46:17.088723-05:00.jpg">September 24 at 5:46 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cjonline-2022/cjonline-2022-09-23T18:54:40.715712-05:00.jpg">
+  <img src="https://archive.org/download/cjonline-2022/cjonline-2022-09-23T18:54:40.715712-05:00.jpg"
+     alt="The Topeka Capital-Journal at 2022-09-23 18:54:43-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cjonline-2022/cjonline-2022-09-23T18:54:40.715712-05:00.jpg">September 23 at 6:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cjonline-2022/cjonline-2022-09-23T05:50:50.676394-05:00.jpg">
+  <img src="https://archive.org/download/cjonline-2022/cjonline-2022-09-23T05:50:50.676394-05:00.jpg"
+     alt="The Topeka Capital-Journal at 2022-09-23 05:50:52-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cjonline-2022/cjonline-2022-09-23T05:50:50.676394-05:00.jpg">September 23 at 5:50 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cjonline-2022/cjonline-2022-09-22T17:53:12.200964-05:00.jpg">
+  <img src="https://archive.org/download/cjonline-2022/cjonline-2022-09-22T17:53:12.200964-05:00.jpg"
+     alt="The Topeka Capital-Journal at 2022-09-22 17:53:16-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cjonline-2022/cjonline-2022-09-22T17:53:12.200964-05:00.jpg">September 22 at 5:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cjonline-2022/cjonline-2022-09-22T05:54:29.090412-05:00.jpg">
+  <img src="https://archive.org/download/cjonline-2022/cjonline-2022-09-22T05:54:29.090412-05:00.jpg"
+     alt="The Topeka Capital-Journal at 2022-09-22 05:54:30-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cjonline-2022/cjonline-2022-09-22T05:54:29.090412-05:00.jpg">September 22 at 5:54 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cjonline-2022/cjonline-2022-09-21T17:58:28.631753-05:00.jpg">
+  <img src="https://archive.org/download/cjonline-2022/cjonline-2022-09-21T17:58:28.631753-05:00.jpg"
+     alt="The Topeka Capital-Journal at 2022-09-21 17:58:30-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cjonline-2022/cjonline-2022-09-21T17:58:28.631753-05:00.jpg">September 21 at 5:58 PM</a></p>
+</div>
+
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 0 hyperlink lists with the Internet Archive.
+The archiving routine has saved 15 hyperlink lists with the Internet Archive.
 
 
 
@@ -48,11 +156,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 27 at 5:57 AM](https://archive.org/download/cjonline-2022/cjonline-2022-09-27T05:57:24.661488-05:00.hyperlinks.json) |
+| [September 26 at 5:56 PM](https://archive.org/download/cjonline-2022/cjonline-2022-09-26T17:56:01.360028-05:00.hyperlinks.json) |
+| [September 26 at 5:57 AM](https://archive.org/download/cjonline-2022/cjonline-2022-09-26T05:57:36.941865-05:00.hyperlinks.json) |
+| [September 25 at 5:45 PM](https://archive.org/download/cjonline-2022/cjonline-2022-09-25T17:45:20.563786-05:00.hyperlinks.json) |
+| [September 25 at 5:43 AM](https://archive.org/download/cjonline-2022/cjonline-2022-09-25T05:43:34.394092-05:00.hyperlinks.json) |
+| [September 24 at 5:44 PM](https://archive.org/download/cjonline-2022/cjonline-2022-09-24T17:44:01.204854-05:00.hyperlinks.json) |
+| [September 24 at 5:46 AM](https://archive.org/download/cjonline-2022/cjonline-2022-09-24T05:46:17.088723-05:00.hyperlinks.json) |
+| [September 23 at 6:54 PM](https://archive.org/download/cjonline-2022/cjonline-2022-09-23T18:54:40.715712-05:00.hyperlinks.json) |
+| [September 23 at 5:50 AM](https://archive.org/download/cjonline-2022/cjonline-2022-09-23T05:50:50.676394-05:00.hyperlinks.json) |
+| [September 22 at 5:53 PM](https://archive.org/download/cjonline-2022/cjonline-2022-09-22T17:53:12.200964-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 0 accessibility trees with the Internet Archive.
+The archiving routine has saved 15 accessibility trees with the Internet Archive.
 
 
 
@@ -60,12 +178,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 27 at 5:57 AM](https://archive.org/download/cjonline-2022/cjonline-2022-09-27T05:57:24.661488-05:00.accessibility.json) |
+| [September 26 at 5:56 PM](https://archive.org/download/cjonline-2022/cjonline-2022-09-26T17:56:01.360028-05:00.accessibility.json) |
+| [September 26 at 5:57 AM](https://archive.org/download/cjonline-2022/cjonline-2022-09-26T05:57:36.941865-05:00.accessibility.json) |
+| [September 25 at 5:45 PM](https://archive.org/download/cjonline-2022/cjonline-2022-09-25T17:45:20.563786-05:00.accessibility.json) |
+| [September 25 at 5:43 AM](https://archive.org/download/cjonline-2022/cjonline-2022-09-25T05:43:34.394092-05:00.accessibility.json) |
+| [September 24 at 5:44 PM](https://archive.org/download/cjonline-2022/cjonline-2022-09-24T17:44:01.204854-05:00.accessibility.json) |
+| [September 24 at 5:46 AM](https://archive.org/download/cjonline-2022/cjonline-2022-09-24T05:46:17.088723-05:00.accessibility.json) |
+| [September 23 at 6:54 PM](https://archive.org/download/cjonline-2022/cjonline-2022-09-23T18:54:40.715712-05:00.accessibility.json) |
+| [September 23 at 5:50 AM](https://archive.org/download/cjonline-2022/cjonline-2022-09-23T05:50:50.676394-05:00.accessibility.json) |
+| [September 22 at 5:53 PM](https://archive.org/download/cjonline-2022/cjonline-2022-09-22T17:53:12.200964-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 0 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
 
 
 
@@ -73,6 +201,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 27 at 5:57 AM](https://archive.org/download/cjonline-2022/cjonline-2022-09-27T05:57:24.661488-05:00.lighthouse.json) |
+| [September 26 at 5:56 PM](https://archive.org/download/cjonline-2022/cjonline-2022-09-26T17:56:01.360028-05:00.lighthouse.json) |
+| [September 26 at 5:57 AM](https://archive.org/download/cjonline-2022/cjonline-2022-09-26T05:57:36.941865-05:00.lighthouse.json) |
+| [September 25 at 5:45 PM](https://archive.org/download/cjonline-2022/cjonline-2022-09-25T17:45:20.563786-05:00.lighthouse.json) |
+| [September 25 at 5:43 AM](https://archive.org/download/cjonline-2022/cjonline-2022-09-25T05:43:34.394092-05:00.lighthouse.json) |
+| [September 24 at 5:44 PM](https://archive.org/download/cjonline-2022/cjonline-2022-09-24T17:44:01.204854-05:00.lighthouse.json) |
+| [September 24 at 5:46 AM](https://archive.org/download/cjonline-2022/cjonline-2022-09-24T05:46:17.088723-05:00.lighthouse.json) |
+| [September 23 at 6:54 PM](https://archive.org/download/cjonline-2022/cjonline-2022-09-23T18:54:40.715712-05:00.lighthouse.json) |
+| [September 23 at 5:50 AM](https://archive.org/download/cjonline-2022/cjonline-2022-09-23T05:50:50.676394-05:00.lighthouse.json) |
+| [September 22 at 5:53 PM](https://archive.org/download/cjonline-2022/cjonline-2022-09-22T17:53:12.200964-05:00.lighthouse.json) |
 
 
 
@@ -82,3 +220,4 @@ Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |
+|[cjonline-2022](https://archive.org/details/cjonline-2022)|

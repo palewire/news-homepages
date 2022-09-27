@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 0 screenshots with the Internet Archive.
+The archiving routine has saved 13 screenshots with the Internet Archive.
 
 
 
@@ -36,11 +36,119 @@ Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
 
+<div class="latest-child">
+ <a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-27T00:28:32.345339-04:00.jpg">
+  <img src="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-27T00:28:32.345339-04:00.jpg"
+     alt="The Alliance Review at 2022-09-27 00:28:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-27T00:28:32.345339-04:00.jpg">September 27 at 12:28 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-26T12:03:41.418105-04:00.jpg">
+  <img src="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-26T12:03:41.418105-04:00.jpg"
+     alt="The Alliance Review at 2022-09-26 12:03:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-26T12:03:41.418105-04:00.jpg">September 26 at 12:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-26T00:42:16.754266-04:00.jpg">
+  <img src="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-26T00:42:16.754266-04:00.jpg"
+     alt="The Alliance Review at 2022-09-26 00:42:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-26T00:42:16.754266-04:00.jpg">September 26 at 12:42 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-25T11:51:00.736607-04:00.jpg">
+  <img src="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-25T11:51:00.736607-04:00.jpg"
+     alt="The Alliance Review at 2022-09-25 11:51:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-25T11:51:00.736607-04:00.jpg">September 25 at 11:51 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-25T00:28:36.276864-04:00.jpg">
+  <img src="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-25T00:28:36.276864-04:00.jpg"
+     alt="The Alliance Review at 2022-09-25 00:28:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-25T00:28:36.276864-04:00.jpg">September 25 at 12:28 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-24T11:49:27.122097-04:00.jpg">
+  <img src="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-24T11:49:27.122097-04:00.jpg"
+     alt="The Alliance Review at 2022-09-24 11:49:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-24T11:49:27.122097-04:00.jpg">September 24 at 11:49 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-24T00:30:16.495054-04:00.jpg">
+  <img src="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-24T00:30:16.495054-04:00.jpg"
+     alt="The Alliance Review at 2022-09-24 00:30:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-24T00:30:16.495054-04:00.jpg">September 24 at 12:30 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-23T11:56:24.709263-04:00.jpg">
+  <img src="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-23T11:56:24.709263-04:00.jpg"
+     alt="The Alliance Review at 2022-09-23 11:56:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-23T11:56:24.709263-04:00.jpg">September 23 at 11:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-23T01:11:06.931018-04:00.jpg">
+  <img src="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-23T01:11:06.931018-04:00.jpg"
+     alt="The Alliance Review at 2022-09-23 01:11:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-23T01:11:06.931018-04:00.jpg">September 23 at 1:11 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-22T11:58:26.612842-04:00.jpg">
+  <img src="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-22T11:58:26.612842-04:00.jpg"
+     alt="The Alliance Review at 2022-09-22 11:58:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-22T11:58:26.612842-04:00.jpg">September 22 at 11:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-22T00:35:24.482620-04:00.jpg">
+  <img src="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-22T00:35:24.482620-04:00.jpg"
+     alt="The Alliance Review at 2022-09-22 00:35:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-22T00:35:24.482620-04:00.jpg">September 22 at 12:35 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-21T12:01:13.637862-04:00.jpg">
+  <img src="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-21T12:01:13.637862-04:00.jpg"
+     alt="The Alliance Review at 2022-09-21 12:01:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-21T12:01:13.637862-04:00.jpg">September 21 at 12:01 PM</a></p>
+</div>
+
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 0 hyperlink lists with the Internet Archive.
+The archiving routine has saved 13 hyperlink lists with the Internet Archive.
 
 
 
@@ -48,11 +156,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 27 at 12:28 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-27T00:28:32.345339-04:00.hyperlinks.json) |
+| [September 26 at 12:03 PM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-26T12:03:41.418105-04:00.hyperlinks.json) |
+| [September 26 at 12:42 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-26T00:42:16.754266-04:00.hyperlinks.json) |
+| [September 25 at 11:51 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-25T11:51:00.736607-04:00.hyperlinks.json) |
+| [September 25 at 12:28 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-25T00:28:36.276864-04:00.hyperlinks.json) |
+| [September 24 at 11:49 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-24T11:49:27.122097-04:00.hyperlinks.json) |
+| [September 24 at 12:30 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-24T00:30:16.495054-04:00.hyperlinks.json) |
+| [September 23 at 11:56 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-23T11:56:24.709263-04:00.hyperlinks.json) |
+| [September 23 at 1:11 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-23T01:11:06.931018-04:00.hyperlinks.json) |
+| [September 22 at 11:58 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-22T11:58:26.612842-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 0 accessibility trees with the Internet Archive.
+The archiving routine has saved 13 accessibility trees with the Internet Archive.
 
 
 
@@ -60,12 +178,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 27 at 12:28 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-27T00:28:32.345339-04:00.accessibility.json) |
+| [September 26 at 12:03 PM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-26T12:03:41.418105-04:00.accessibility.json) |
+| [September 26 at 12:42 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-26T00:42:16.754266-04:00.accessibility.json) |
+| [September 25 at 11:51 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-25T11:51:00.736607-04:00.accessibility.json) |
+| [September 25 at 12:28 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-25T00:28:36.276864-04:00.accessibility.json) |
+| [September 24 at 11:49 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-24T11:49:27.122097-04:00.accessibility.json) |
+| [September 24 at 12:30 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-24T00:30:16.495054-04:00.accessibility.json) |
+| [September 23 at 11:56 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-23T11:56:24.709263-04:00.accessibility.json) |
+| [September 23 at 1:11 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-23T01:11:06.931018-04:00.accessibility.json) |
+| [September 22 at 11:58 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-22T11:58:26.612842-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 0 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
 
 
 
@@ -73,6 +201,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 27 at 12:28 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-27T00:28:32.345339-04:00.lighthouse.json) |
+| [September 26 at 12:03 PM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-26T12:03:41.418105-04:00.lighthouse.json) |
+| [September 26 at 12:42 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-26T00:42:16.754266-04:00.lighthouse.json) |
+| [September 25 at 11:51 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-25T11:51:00.736607-04:00.lighthouse.json) |
+| [September 25 at 12:28 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-25T00:28:36.276864-04:00.lighthouse.json) |
+| [September 24 at 11:49 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-24T11:49:27.122097-04:00.lighthouse.json) |
+| [September 24 at 12:30 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-24T00:30:16.495054-04:00.lighthouse.json) |
+| [September 23 at 11:56 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-23T11:56:24.709263-04:00.lighthouse.json) |
+| [September 23 at 1:11 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-23T01:11:06.931018-04:00.lighthouse.json) |
+| [September 22 at 11:58 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-22T11:58:26.612842-04:00.lighthouse.json) |
 
 
 
@@ -82,3 +220,4 @@ Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |
+|[alliancereview-2022](https://archive.org/details/alliancereview-2022)|

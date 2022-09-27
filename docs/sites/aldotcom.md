@@ -28,8 +28,91 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 31 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/aldotcom.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
@@ -37,180 +120,429 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-19T09:57:48.270115-05:00.jpg">
-  <img src="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-19T09:57:48.270115-05:00.jpg"
-     alt="Alabama Media Group at 2022-09-19 09:57:49-05:00 local time"
+ <a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-26T23:28:44.097374-05:00.jpg">
+  <img src="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-26T23:28:44.097374-05:00.jpg"
+     alt="Alabama Media Group at 2022-09-26 23:28:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-19T09:57:48.270115-05:00.jpg">September 19 at 9:57 AM</a></p>
+ <p><a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-26T23:28:44.097374-05:00.jpg">September 26 at 11:28 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-18T22:41:23.479386-05:00.jpg">
-  <img src="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-18T22:41:23.479386-05:00.jpg"
-     alt="Alabama Media Group at 2022-09-18 22:41:24-05:00 local time"
+ <a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-26T11:04:39.597635-05:00.jpg">
+  <img src="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-26T11:04:39.597635-05:00.jpg"
+     alt="Alabama Media Group at 2022-09-26 11:04:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-18T22:41:23.479386-05:00.jpg">September 18 at 10:41 PM</a></p>
+ <p><a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-26T11:04:39.597635-05:00.jpg">September 26 at 11:04 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-18T08:59:04.451942-05:00.jpg">
-  <img src="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-18T08:59:04.451942-05:00.jpg"
-     alt="Alabama Media Group at 2022-09-18 08:59:07-05:00 local time"
+ <a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-25T23:42:18.164231-05:00.jpg">
+  <img src="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-25T23:42:18.164231-05:00.jpg"
+     alt="Alabama Media Group at 2022-09-25 23:42:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-18T08:59:04.451942-05:00.jpg">September 18 at 8:59 AM</a></p>
+ <p><a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-25T23:42:18.164231-05:00.jpg">September 25 at 11:42 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-17T21:24:05.292249-05:00.jpg">
-  <img src="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-17T21:24:05.292249-05:00.jpg"
-     alt="Alabama Media Group at 2022-09-17 21:24:07-05:00 local time"
+ <a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-25T10:50:57.479163-05:00.jpg">
+  <img src="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-25T10:50:57.479163-05:00.jpg"
+     alt="Alabama Media Group at 2022-09-25 10:51:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-17T21:24:05.292249-05:00.jpg">September 17 at 9:24 PM</a></p>
+ <p><a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-25T10:50:57.479163-05:00.jpg">September 25 at 10:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-17T08:57:38.116752-05:00.jpg">
-  <img src="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-17T08:57:38.116752-05:00.jpg"
-     alt="Alabama Media Group at 2022-09-17 08:57:40-05:00 local time"
+ <a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-24T23:28:39.384958-05:00.jpg">
+  <img src="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-24T23:28:39.384958-05:00.jpg"
+     alt="Alabama Media Group at 2022-09-24 23:28:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-17T08:57:38.116752-05:00.jpg">September 17 at 8:57 AM</a></p>
+ <p><a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-24T23:28:39.384958-05:00.jpg">September 24 at 11:28 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-16T21:22:29.931430-05:00.jpg">
-  <img src="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-16T21:22:29.931430-05:00.jpg"
-     alt="Alabama Media Group at 2022-09-16 21:22:31-05:00 local time"
+ <a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-24T10:49:00.960030-05:00.jpg">
+  <img src="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-24T10:49:00.960030-05:00.jpg"
+     alt="Alabama Media Group at 2022-09-24 10:49:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-16T21:22:29.931430-05:00.jpg">September 16 at 9:22 PM</a></p>
+ <p><a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-24T10:49:00.960030-05:00.jpg">September 24 at 10:49 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-16T09:03:38.932585-05:00.jpg">
-  <img src="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-16T09:03:38.932585-05:00.jpg"
-     alt="Alabama Media Group at 2022-09-16 09:03:41-05:00 local time"
+ <a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-23T23:30:17.827280-05:00.jpg">
+  <img src="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-23T23:30:17.827280-05:00.jpg"
+     alt="Alabama Media Group at 2022-09-23 23:30:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-16T09:03:38.932585-05:00.jpg">September 16 at 9:03 AM</a></p>
+ <p><a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-23T23:30:17.827280-05:00.jpg">September 23 at 11:30 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-15T21:23:12.178060-05:00.jpg">
-  <img src="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-15T21:23:12.178060-05:00.jpg"
-     alt="Alabama Media Group at 2022-09-15 21:23:14-05:00 local time"
+ <a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-23T10:56:26.001865-05:00.jpg">
+  <img src="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-23T10:56:26.001865-05:00.jpg"
+     alt="Alabama Media Group at 2022-09-23 10:56:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-15T21:23:12.178060-05:00.jpg">September 15 at 9:23 PM</a></p>
+ <p><a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-23T10:56:26.001865-05:00.jpg">September 23 at 10:56 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-15T09:10:13.296692-05:00.jpg">
-  <img src="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-15T09:10:13.296692-05:00.jpg"
-     alt="Alabama Media Group at 2022-09-15 09:10:15-05:00 local time"
+ <a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-23T00:11:59.012664-05:00.jpg">
+  <img src="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-23T00:11:59.012664-05:00.jpg"
+     alt="Alabama Media Group at 2022-09-23 00:12:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-15T09:10:13.296692-05:00.jpg">September 15 at 9:10 AM</a></p>
+ <p><a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-23T00:11:59.012664-05:00.jpg">September 23 at 12:12 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-14T21:25:09.203568-05:00.jpg">
-  <img src="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-14T21:25:09.203568-05:00.jpg"
-     alt="Alabama Media Group at 2022-09-14 21:25:12-05:00 local time"
+ <a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-22T10:58:11.831816-05:00.jpg">
+  <img src="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-22T10:58:11.831816-05:00.jpg"
+     alt="Alabama Media Group at 2022-09-22 10:58:14-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-14T21:25:09.203568-05:00.jpg">September 14 at 9:25 PM</a></p>
+ <p><a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-22T10:58:11.831816-05:00.jpg">September 22 at 10:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-14T09:10:47.316673-05:00.jpg">
-  <img src="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-14T09:10:47.316673-05:00.jpg"
-     alt="Alabama Media Group at 2022-09-14 09:10:49-05:00 local time"
+ <a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-21T23:34:37.234282-05:00.jpg">
+  <img src="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-21T23:34:37.234282-05:00.jpg"
+     alt="Alabama Media Group at 2022-09-21 23:34:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-14T09:10:47.316673-05:00.jpg">September 14 at 9:10 AM</a></p>
+ <p><a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-21T23:34:37.234282-05:00.jpg">September 21 at 11:34 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-13T21:23:15.637534-05:00.jpg">
-  <img src="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-13T21:23:15.637534-05:00.jpg"
-     alt="Alabama Media Group at 2022-09-13 21:23:17-05:00 local time"
+ <a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-21T11:00:19.935977-05:00.jpg">
+  <img src="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-21T11:00:19.935977-05:00.jpg"
+     alt="Alabama Media Group at 2022-09-21 11:00:22-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-13T21:23:15.637534-05:00.jpg">September 13 at 9:23 PM</a></p>
+ <p><a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-21T11:00:19.935977-05:00.jpg">September 21 at 11:00 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 16 hyperlink lists with the Internet Archive.
+The archiving routine has saved 31 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/aldotcom.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 9:57 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-19T09:57:48.270115-05:00.hyperlinks.json) |
-| [September 18 at 10:41 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-18T22:41:23.479386-05:00.hyperlinks.json) |
-| [September 18 at 8:59 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-18T08:59:04.451942-05:00.hyperlinks.json) |
-| [September 17 at 9:24 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-17T21:24:05.292249-05:00.hyperlinks.json) |
-| [September 17 at 8:57 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-17T08:57:38.116752-05:00.hyperlinks.json) |
-| [September 16 at 9:22 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-16T21:22:29.931430-05:00.hyperlinks.json) |
-| [September 16 at 9:03 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-16T09:03:38.932585-05:00.hyperlinks.json) |
-| [September 15 at 9:23 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-15T21:23:12.178060-05:00.hyperlinks.json) |
-| [September 15 at 9:10 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-15T09:10:13.296692-05:00.hyperlinks.json) |
-| [September 14 at 9:25 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-14T21:25:09.203568-05:00.hyperlinks.json) |
+| [September 26 at 11:28 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-26T23:28:44.097374-05:00.hyperlinks.json) |
+| [September 26 at 11:04 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-26T11:04:39.597635-05:00.hyperlinks.json) |
+| [September 25 at 11:42 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-25T23:42:18.164231-05:00.hyperlinks.json) |
+| [September 25 at 10:51 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-25T10:50:57.479163-05:00.hyperlinks.json) |
+| [September 24 at 11:28 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-24T23:28:39.384958-05:00.hyperlinks.json) |
+| [September 24 at 10:49 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-24T10:49:00.960030-05:00.hyperlinks.json) |
+| [September 23 at 11:30 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-23T23:30:17.827280-05:00.hyperlinks.json) |
+| [September 23 at 10:56 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-23T10:56:26.001865-05:00.hyperlinks.json) |
+| [September 23 at 12:12 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-23T00:11:59.012664-05:00.hyperlinks.json) |
+| [September 22 at 10:58 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-22T10:58:11.831816-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 16 accessibility trees with the Internet Archive.
+The archiving routine has saved 31 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/aldotcom.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 9:57 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-19T09:57:48.270115-05:00.accessibility.json) |
-| [September 18 at 10:41 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-18T22:41:23.479386-05:00.accessibility.json) |
-| [September 18 at 8:59 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-18T08:59:04.451942-05:00.accessibility.json) |
-| [September 17 at 9:24 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-17T21:24:05.292249-05:00.accessibility.json) |
-| [September 17 at 8:57 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-17T08:57:38.116752-05:00.accessibility.json) |
-| [September 16 at 9:22 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-16T21:22:29.931430-05:00.accessibility.json) |
-| [September 16 at 9:03 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-16T09:03:38.932585-05:00.accessibility.json) |
-| [September 15 at 9:23 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-15T21:23:12.178060-05:00.accessibility.json) |
-| [September 15 at 9:10 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-15T09:10:13.296692-05:00.accessibility.json) |
-| [September 14 at 9:25 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-14T21:25:09.203568-05:00.accessibility.json) |
+| [September 26 at 11:28 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-26T23:28:44.097374-05:00.accessibility.json) |
+| [September 26 at 11:04 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-26T11:04:39.597635-05:00.accessibility.json) |
+| [September 25 at 11:42 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-25T23:42:18.164231-05:00.accessibility.json) |
+| [September 25 at 10:51 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-25T10:50:57.479163-05:00.accessibility.json) |
+| [September 24 at 11:28 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-24T23:28:39.384958-05:00.accessibility.json) |
+| [September 24 at 10:49 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-24T10:49:00.960030-05:00.accessibility.json) |
+| [September 23 at 11:30 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-23T23:30:17.827280-05:00.accessibility.json) |
+| [September 23 at 10:56 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-23T10:56:26.001865-05:00.accessibility.json) |
+| [September 23 at 12:12 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-23T00:11:59.012664-05:00.accessibility.json) |
+| [September 22 at 10:58 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-22T10:58:11.831816-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/aldotcom.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 9:57 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-19T09:57:48.270115-05:00.lighthouse.json) |
-| [September 18 at 10:41 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-18T22:41:23.479386-05:00.lighthouse.json) |
-| [September 18 at 8:59 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-18T08:59:04.451942-05:00.lighthouse.json) |
-| [September 17 at 9:24 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-17T21:24:05.292249-05:00.lighthouse.json) |
-| [September 17 at 8:57 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-17T08:57:38.116752-05:00.lighthouse.json) |
-| [September 16 at 9:22 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-16T21:22:29.931430-05:00.lighthouse.json) |
-| [September 16 at 9:03 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-16T09:03:38.932585-05:00.lighthouse.json) |
-| [September 15 at 9:23 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-15T21:23:12.178060-05:00.lighthouse.json) |
-| [September 15 at 9:10 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-15T09:10:13.296692-05:00.lighthouse.json) |
-| [September 14 at 9:25 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-14T21:25:09.203568-05:00.lighthouse.json) |
+| [September 26 at 11:28 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-26T23:28:44.097374-05:00.lighthouse.json) |
+| [September 26 at 11:04 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-26T11:04:39.597635-05:00.lighthouse.json) |
+| [September 25 at 11:42 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-25T23:42:18.164231-05:00.lighthouse.json) |
+| [September 25 at 10:51 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-25T10:50:57.479163-05:00.lighthouse.json) |
+| [September 24 at 11:28 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-24T23:28:39.384958-05:00.lighthouse.json) |
+| [September 24 at 10:49 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-24T10:49:00.960030-05:00.lighthouse.json) |
+| [September 23 at 11:30 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-23T23:30:17.827280-05:00.lighthouse.json) |
+| [September 23 at 10:56 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-23T10:56:26.001865-05:00.lighthouse.json) |
+| [September 23 at 12:12 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-23T00:11:59.012664-05:00.lighthouse.json) |
+| [September 22 at 10:58 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-22T10:58:11.831816-05:00.lighthouse.json) |
 
 
 

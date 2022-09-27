@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 157 screenshots with the Internet Archive.
+The archiving routine has saved 174 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-19T07:53:34.565945-04:00.jpg">
-  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-09-19T07:53:34.565945-04:00.jpg"
-     alt="Discover at 2022-09-19 07:53:40-04:00 local time"
+ <a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-27T07:54:23.443243-04:00.jpg">
+  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-09-27T07:54:23.443243-04:00.jpg"
+     alt="Discover at 2022-09-27 07:54:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-19T07:53:34.565945-04:00.jpg">September 19 at 7:53 AM</a></p>
+ <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-27T07:54:23.443243-04:00.jpg">September 27 at 7:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-18T19:45:19.196737-04:00.jpg">
-  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-09-18T19:45:19.196737-04:00.jpg"
-     alt="Discover at 2022-09-18 19:45:20-04:00 local time"
+ <a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-26T19:47:23.179794-04:00.jpg">
+  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-09-26T19:47:23.179794-04:00.jpg"
+     alt="Discover at 2022-09-26 19:47:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-18T19:45:19.196737-04:00.jpg">September 18 at 7:45 PM</a></p>
+ <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-26T19:47:23.179794-04:00.jpg">September 26 at 7:47 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-18T07:54:35.078180-04:00.jpg">
-  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-09-18T07:54:35.078180-04:00.jpg"
-     alt="Discover at 2022-09-18 07:54:40-04:00 local time"
+ <a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-26T08:01:00.230433-04:00.jpg">
+  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-09-26T08:01:00.230433-04:00.jpg"
+     alt="Discover at 2022-09-26 08:01:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-18T07:54:35.078180-04:00.jpg">September 18 at 7:54 AM</a></p>
+ <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-26T08:01:00.230433-04:00.jpg">September 26 at 8:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-17T19:47:56.370115-04:00.jpg">
-  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-09-17T19:47:56.370115-04:00.jpg"
-     alt="Discover at 2022-09-17 19:47:58-04:00 local time"
+ <a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-25T19:42:47.194192-04:00.jpg">
+  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-09-25T19:42:47.194192-04:00.jpg"
+     alt="Discover at 2022-09-25 19:42:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-17T19:47:56.370115-04:00.jpg">September 17 at 7:47 PM</a></p>
+ <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-25T19:42:47.194192-04:00.jpg">September 25 at 7:42 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-17T07:55:53.456724-04:00.jpg">
-  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-09-17T07:55:53.456724-04:00.jpg"
-     alt="Discover at 2022-09-17 07:55:55-04:00 local time"
+ <a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-25T07:46:38.856112-04:00.jpg">
+  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-09-25T07:46:38.856112-04:00.jpg"
+     alt="Discover at 2022-09-25 07:46:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-17T07:55:53.456724-04:00.jpg">September 17 at 7:55 AM</a></p>
+ <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-25T07:46:38.856112-04:00.jpg">September 25 at 7:46 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-16T19:48:24.284653-04:00.jpg">
-  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-09-16T19:48:24.284653-04:00.jpg"
-     alt="Discover at 2022-09-16 19:48:29-04:00 local time"
+ <a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-24T19:39:56.748778-04:00.jpg">
+  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-09-24T19:39:56.748778-04:00.jpg"
+     alt="Discover at 2022-09-24 19:39:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-16T19:48:24.284653-04:00.jpg">September 16 at 7:48 PM</a></p>
+ <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-24T19:39:56.748778-04:00.jpg">September 24 at 7:39 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-16T07:56:14.330106-04:00.jpg">
-  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-09-16T07:56:14.330106-04:00.jpg"
-     alt="Discover at 2022-09-16 07:56:15-04:00 local time"
+ <a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-24T07:48:13.653108-04:00.jpg">
+  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-09-24T07:48:13.653108-04:00.jpg"
+     alt="Discover at 2022-09-24 07:48:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-16T07:56:14.330106-04:00.jpg">September 16 at 7:56 AM</a></p>
+ <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-24T07:48:13.653108-04:00.jpg">September 24 at 7:48 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-15T19:48:31.966974-04:00.jpg">
-  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-09-15T19:48:31.966974-04:00.jpg"
-     alt="Discover at 2022-09-15 19:48:33-04:00 local time"
+ <a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-23T19:47:15.109819-04:00.jpg">
+  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-09-23T19:47:15.109819-04:00.jpg"
+     alt="Discover at 2022-09-23 19:47:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-15T19:48:31.966974-04:00.jpg">September 15 at 7:48 PM</a></p>
+ <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-23T19:47:15.109819-04:00.jpg">September 23 at 7:47 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-15T07:56:45.332447-04:00.jpg">
-  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-09-15T07:56:45.332447-04:00.jpg"
-     alt="Discover at 2022-09-15 07:56:47-04:00 local time"
+ <a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-23T07:54:41.959094-04:00.jpg">
+  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-09-23T07:54:41.959094-04:00.jpg"
+     alt="Discover at 2022-09-23 07:54:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-15T07:56:45.332447-04:00.jpg">September 15 at 7:56 AM</a></p>
+ <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-23T07:54:41.959094-04:00.jpg">September 23 at 7:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-14T19:56:34.639028-04:00.jpg">
-  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-09-14T19:56:34.639028-04:00.jpg"
-     alt="Discover at 2022-09-14 19:56:38-04:00 local time"
+ <a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-22T19:49:03.094867-04:00.jpg">
+  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-09-22T19:49:03.094867-04:00.jpg"
+     alt="Discover at 2022-09-22 19:49:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-14T19:56:34.639028-04:00.jpg">September 14 at 7:56 PM</a></p>
+ <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-22T19:49:03.094867-04:00.jpg">September 22 at 7:49 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-14T07:58:46.517193-04:00.jpg">
-  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-09-14T07:58:46.517193-04:00.jpg"
-     alt="Discover at 2022-09-14 07:58:53-04:00 local time"
+ <a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-22T07:55:55.329274-04:00.jpg">
+  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-09-22T07:55:55.329274-04:00.jpg"
+     alt="Discover at 2022-09-22 07:55:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-14T07:58:46.517193-04:00.jpg">September 14 at 7:58 AM</a></p>
+ <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-22T07:55:55.329274-04:00.jpg">September 22 at 7:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-13T19:52:22.722070-04:00.jpg">
-  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-09-13T19:52:22.722070-04:00.jpg"
-     alt="Discover at 2022-09-13 19:52:35-04:00 local time"
+ <a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-21T19:43:32.773062-04:00.jpg">
+  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-09-21T19:43:32.773062-04:00.jpg"
+     alt="Discover at 2022-09-21 19:43:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-13T19:52:22.722070-04:00.jpg">September 13 at 7:52 PM</a></p>
+ <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-09-21T19:43:32.773062-04:00.jpg">September 21 at 7:43 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 140 hyperlink lists with the Internet Archive.
+The archiving routine has saved 157 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 7:53 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-19T07:53:34.565945-04:00.hyperlinks.json) |
-| [September 18 at 7:45 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-18T19:45:19.196737-04:00.hyperlinks.json) |
-| [September 18 at 7:54 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-18T07:54:35.078180-04:00.hyperlinks.json) |
-| [September 17 at 7:48 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-17T19:47:56.370115-04:00.hyperlinks.json) |
-| [September 17 at 7:55 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-17T07:55:53.456724-04:00.hyperlinks.json) |
-| [September 16 at 7:48 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-16T19:48:24.284653-04:00.hyperlinks.json) |
-| [September 16 at 7:56 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-16T07:56:14.330106-04:00.hyperlinks.json) |
-| [September 15 at 7:48 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-15T19:48:31.966974-04:00.hyperlinks.json) |
-| [September 15 at 7:56 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-15T07:56:45.332447-04:00.hyperlinks.json) |
-| [September 14 at 7:56 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-14T19:56:34.639028-04:00.hyperlinks.json) |
+| [September 27 at 7:54 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-27T07:54:23.443243-04:00.hyperlinks.json) |
+| [September 26 at 7:47 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-26T19:47:23.179794-04:00.hyperlinks.json) |
+| [September 26 at 8:01 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-26T08:01:00.230433-04:00.hyperlinks.json) |
+| [September 25 at 7:42 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-25T19:42:47.194192-04:00.hyperlinks.json) |
+| [September 25 at 7:46 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-25T07:46:38.856112-04:00.hyperlinks.json) |
+| [September 24 at 7:40 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-24T19:39:56.748778-04:00.hyperlinks.json) |
+| [September 24 at 7:48 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-24T07:48:13.653108-04:00.hyperlinks.json) |
+| [September 23 at 7:47 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-23T19:47:15.109819-04:00.hyperlinks.json) |
+| [September 23 at 7:54 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-23T07:54:41.959094-04:00.hyperlinks.json) |
+| [September 22 at 7:49 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-22T19:49:03.094867-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 148 accessibility trees with the Internet Archive.
+The archiving routine has saved 165 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 7:53 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-19T07:53:34.565945-04:00.accessibility.json) |
-| [September 18 at 7:45 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-18T19:45:19.196737-04:00.accessibility.json) |
-| [September 18 at 7:54 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-18T07:54:35.078180-04:00.accessibility.json) |
-| [September 17 at 7:47 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-17T19:47:56.370115-04:00.accessibility.json) |
-| [September 17 at 7:55 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-17T07:55:53.456724-04:00.accessibility.json) |
-| [September 16 at 7:48 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-16T19:48:24.284653-04:00.accessibility.json) |
-| [September 16 at 7:56 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-16T07:56:14.330106-04:00.accessibility.json) |
-| [September 15 at 7:48 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-15T19:48:31.966974-04:00.accessibility.json) |
-| [September 15 at 7:56 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-15T07:56:45.332447-04:00.accessibility.json) |
-| [September 14 at 7:56 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-14T19:56:34.639028-04:00.accessibility.json) |
+| [September 27 at 7:54 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-27T07:54:23.443243-04:00.accessibility.json) |
+| [September 26 at 7:47 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-26T19:47:23.179794-04:00.accessibility.json) |
+| [September 26 at 8:01 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-26T08:01:00.230433-04:00.accessibility.json) |
+| [September 25 at 7:42 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-25T19:42:47.194192-04:00.accessibility.json) |
+| [September 25 at 7:46 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-25T07:46:38.856112-04:00.accessibility.json) |
+| [September 24 at 7:39 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-24T19:39:56.748778-04:00.accessibility.json) |
+| [September 24 at 7:48 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-24T07:48:13.653108-04:00.accessibility.json) |
+| [September 23 at 7:47 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-23T19:47:15.109819-04:00.accessibility.json) |
+| [September 23 at 7:54 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-23T07:54:41.959094-04:00.accessibility.json) |
+| [September 22 at 7:49 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-22T19:49:03.094867-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 117 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 7:53 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-19T07:53:34.565945-04:00.lighthouse.json) |
-| [September 18 at 7:45 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-18T19:45:19.196737-04:00.lighthouse.json) |
-| [September 18 at 7:54 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-18T07:54:35.078180-04:00.lighthouse.json) |
-| [September 17 at 7:48 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-17T19:47:56.370115-04:00.lighthouse.json) |
-| [September 17 at 7:55 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-17T07:55:53.456724-04:00.lighthouse.json) |
-| [September 16 at 7:48 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-16T19:48:24.284653-04:00.lighthouse.json) |
-| [September 16 at 7:56 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-16T07:56:14.330106-04:00.lighthouse.json) |
-| [September 15 at 7:48 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-15T19:48:31.966974-04:00.lighthouse.json) |
-| [September 15 at 7:56 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-15T07:56:45.332447-04:00.lighthouse.json) |
-| [September 14 at 7:56 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-14T19:56:34.639028-04:00.lighthouse.json) |
+| [September 27 at 7:54 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-27T07:54:23.443243-04:00.lighthouse.json) |
+| [September 26 at 7:47 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-26T19:47:23.179794-04:00.lighthouse.json) |
+| [September 26 at 8:01 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-26T08:01:00.230433-04:00.lighthouse.json) |
+| [September 25 at 7:42 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-25T19:42:47.194192-04:00.lighthouse.json) |
+| [September 25 at 7:46 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-25T07:46:38.856112-04:00.lighthouse.json) |
+| [September 24 at 7:40 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-24T19:39:56.748778-04:00.lighthouse.json) |
+| [September 24 at 7:48 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-24T07:48:13.653108-04:00.lighthouse.json) |
+| [September 23 at 7:47 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-23T19:47:15.109819-04:00.lighthouse.json) |
+| [September 23 at 7:55 AM](https://archive.org/download/discovermag-2022/discovermag-2022-09-23T07:54:41.959094-04:00.lighthouse.json) |
+| [September 22 at 7:49 PM](https://archive.org/download/discovermag-2022/discovermag-2022-09-22T19:49:03.094867-04:00.lighthouse.json) |
 
 
 

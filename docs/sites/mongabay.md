@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 143 screenshots with the Internet Archive.
+The archiving routine has saved 158 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-19T10:33:06.113674-07:00.jpg">
-  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-09-19T10:33:06.113674-07:00.jpg"
-     alt="Mongabay at 2022-09-19 10:33:07-07:00 local time"
+ <a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-26T22:44:41.421077-07:00.jpg">
+  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-09-26T22:44:41.421077-07:00.jpg"
+     alt="Mongabay at 2022-09-26 22:44:46-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-19T10:33:06.113674-07:00.jpg">September 19 at 10:33 AM</a></p>
+ <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-26T22:44:41.421077-07:00.jpg">September 26 at 10:44 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-18T10:26:35.688387-07:00.jpg">
-  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-09-18T10:26:35.688387-07:00.jpg"
-     alt="Mongabay at 2022-09-18 10:26:52-07:00 local time"
+ <a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-26T10:33:21.481973-07:00.jpg">
+  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-09-26T10:33:21.481973-07:00.jpg"
+     alt="Mongabay at 2022-09-26 10:33:28-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-18T10:26:35.688387-07:00.jpg">September 18 at 10:26 AM</a></p>
+ <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-26T10:33:21.481973-07:00.jpg">September 26 at 10:33 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-17T22:23:51.179172-07:00.jpg">
-  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-09-17T22:23:51.179172-07:00.jpg"
-     alt="Mongabay at 2022-09-17 22:23:52-07:00 local time"
+ <a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-25T23:06:19.238133-07:00.jpg">
+  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-09-25T23:06:19.238133-07:00.jpg"
+     alt="Mongabay at 2022-09-25 23:06:23-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-17T22:23:51.179172-07:00.jpg">September 17 at 10:23 PM</a></p>
+ <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-25T23:06:19.238133-07:00.jpg">September 25 at 11:06 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-17T08:59:40.944628-07:00.jpg">
-  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-09-17T08:59:40.944628-07:00.jpg"
-     alt="Mongabay at 2022-09-17 08:59:44-07:00 local time"
+ <a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-25T10:15:01.928481-07:00.jpg">
+  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-09-25T10:15:01.928481-07:00.jpg"
+     alt="Mongabay at 2022-09-25 10:15:06-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-17T08:59:40.944628-07:00.jpg">September 17 at 8:59 AM</a></p>
+ <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-25T10:15:01.928481-07:00.jpg">September 25 at 10:15 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-16T21:33:38.477672-07:00.jpg">
-  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-09-16T21:33:38.477672-07:00.jpg"
-     alt="Mongabay at 2022-09-16 21:33:45-07:00 local time"
+ <a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-24T22:41:57.387990-07:00.jpg">
+  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-09-24T22:41:57.387990-07:00.jpg"
+     alt="Mongabay at 2022-09-24 22:42:14-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-16T21:33:38.477672-07:00.jpg">September 16 at 9:33 PM</a></p>
+ <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-24T22:41:57.387990-07:00.jpg">September 24 at 10:42 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-16T09:03:53.539425-07:00.jpg">
-  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-09-16T09:03:53.539425-07:00.jpg"
-     alt="Mongabay at 2022-09-16 09:03:55-07:00 local time"
+ <a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-24T10:15:10.634799-07:00.jpg">
+  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-09-24T10:15:10.634799-07:00.jpg"
+     alt="Mongabay at 2022-09-24 10:15:14-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-16T09:03:53.539425-07:00.jpg">September 16 at 9:03 AM</a></p>
+ <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-24T10:15:10.634799-07:00.jpg">September 24 at 10:15 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-15T22:27:20.441124-07:00.jpg">
-  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-09-15T22:27:20.441124-07:00.jpg"
-     alt="Mongabay at 2022-09-15 22:27:27-07:00 local time"
+ <a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-23T22:41:56.562795-07:00.jpg">
+  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-09-23T22:41:56.562795-07:00.jpg"
+     alt="Mongabay at 2022-09-23 22:41:59-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-15T22:27:20.441124-07:00.jpg">September 15 at 10:27 PM</a></p>
+ <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-23T22:41:56.562795-07:00.jpg">September 23 at 10:41 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-15T09:25:52.764254-07:00.jpg">
-  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-09-15T09:25:52.764254-07:00.jpg"
-     alt="Mongabay at 2022-09-15 09:25:59-07:00 local time"
+ <a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-23T10:26:40.495965-07:00.jpg">
+  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-09-23T10:26:40.495965-07:00.jpg"
+     alt="Mongabay at 2022-09-23 10:26:50-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-15T09:25:52.764254-07:00.jpg">September 15 at 9:25 AM</a></p>
+ <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-23T10:26:40.495965-07:00.jpg">September 23 at 10:26 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-14T22:25:43.277954-07:00.jpg">
-  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-09-14T22:25:43.277954-07:00.jpg"
-     alt="Mongabay at 2022-09-14 22:25:45-07:00 local time"
+ <a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-22T22:25:29.587738-07:00.jpg">
+  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-09-22T22:25:29.587738-07:00.jpg"
+     alt="Mongabay at 2022-09-22 22:25:34-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-14T22:25:43.277954-07:00.jpg">September 14 at 10:25 PM</a></p>
+ <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-22T22:25:29.587738-07:00.jpg">September 22 at 10:25 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-14T09:25:53.221298-07:00.jpg">
-  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-09-14T09:25:53.221298-07:00.jpg"
-     alt="Mongabay at 2022-09-14 09:25:54-07:00 local time"
+ <a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-22T10:27:07.442969-07:00.jpg">
+  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-09-22T10:27:07.442969-07:00.jpg"
+     alt="Mongabay at 2022-09-22 10:27:15-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-14T09:25:53.221298-07:00.jpg">September 14 at 9:25 AM</a></p>
+ <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-22T10:27:07.442969-07:00.jpg">September 22 at 10:27 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-13T21:46:27.919575-07:00.jpg">
-  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-09-13T21:46:27.919575-07:00.jpg"
-     alt="Mongabay at 2022-09-13 21:46:32-07:00 local time"
+ <a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-21T22:57:20.647987-07:00.jpg">
+  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-09-21T22:57:20.647987-07:00.jpg"
+     alt="Mongabay at 2022-09-21 22:57:27-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-13T21:46:27.919575-07:00.jpg">September 13 at 9:46 PM</a></p>
+ <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-21T22:57:20.647987-07:00.jpg">September 21 at 10:57 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-13T09:12:20.137737-07:00.jpg">
-  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-09-13T09:12:20.137737-07:00.jpg"
-     alt="Mongabay at 2022-09-13 09:12:25-07:00 local time"
+ <a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-21T10:28:23.283051-07:00.jpg">
+  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-09-21T10:28:23.283051-07:00.jpg"
+     alt="Mongabay at 2022-09-21 10:28:35-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-13T09:12:20.137737-07:00.jpg">September 13 at 9:12 AM</a></p>
+ <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-09-21T10:28:23.283051-07:00.jpg">September 21 at 10:28 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 143 hyperlink lists with the Internet Archive.
+The archiving routine has saved 158 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 10:33 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-19T10:33:06.113674-07:00.hyperlinks.json) |
-| [September 18 at 10:26 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-18T10:26:35.688387-07:00.hyperlinks.json) |
-| [September 17 at 10:23 PM](https://archive.org/download/mongabay-2022/mongabay-2022-09-17T22:23:51.179172-07:00.hyperlinks.json) |
-| [September 17 at 8:59 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-17T08:59:40.944628-07:00.hyperlinks.json) |
-| [September 16 at 9:33 PM](https://archive.org/download/mongabay-2022/mongabay-2022-09-16T21:33:38.477672-07:00.hyperlinks.json) |
-| [September 16 at 9:04 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-16T09:03:53.539425-07:00.hyperlinks.json) |
-| [September 15 at 10:27 PM](https://archive.org/download/mongabay-2022/mongabay-2022-09-15T22:27:20.441124-07:00.hyperlinks.json) |
-| [September 15 at 9:26 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-15T09:25:52.764254-07:00.hyperlinks.json) |
-| [September 14 at 10:25 PM](https://archive.org/download/mongabay-2022/mongabay-2022-09-14T22:25:43.277954-07:00.hyperlinks.json) |
-| [September 14 at 9:26 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-14T09:25:53.221298-07:00.hyperlinks.json) |
+| [September 26 at 10:44 PM](https://archive.org/download/mongabay-2022/mongabay-2022-09-26T22:44:41.421077-07:00.hyperlinks.json) |
+| [September 26 at 10:33 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-26T10:33:21.481973-07:00.hyperlinks.json) |
+| [September 25 at 11:06 PM](https://archive.org/download/mongabay-2022/mongabay-2022-09-25T23:06:19.238133-07:00.hyperlinks.json) |
+| [September 25 at 10:15 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-25T10:15:01.928481-07:00.hyperlinks.json) |
+| [September 24 at 10:42 PM](https://archive.org/download/mongabay-2022/mongabay-2022-09-24T22:41:57.387990-07:00.hyperlinks.json) |
+| [September 24 at 10:15 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-24T10:15:10.634799-07:00.hyperlinks.json) |
+| [September 23 at 10:42 PM](https://archive.org/download/mongabay-2022/mongabay-2022-09-23T22:41:56.562795-07:00.hyperlinks.json) |
+| [September 23 at 10:26 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-23T10:26:40.495965-07:00.hyperlinks.json) |
+| [September 22 at 10:25 PM](https://archive.org/download/mongabay-2022/mongabay-2022-09-22T22:25:29.587738-07:00.hyperlinks.json) |
+| [September 22 at 10:27 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-22T10:27:07.442969-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 143 accessibility trees with the Internet Archive.
+The archiving routine has saved 158 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 10:33 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-19T10:33:06.113674-07:00.accessibility.json) |
-| [September 18 at 10:26 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-18T10:26:35.688387-07:00.accessibility.json) |
-| [September 17 at 10:23 PM](https://archive.org/download/mongabay-2022/mongabay-2022-09-17T22:23:51.179172-07:00.accessibility.json) |
-| [September 17 at 8:59 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-17T08:59:40.944628-07:00.accessibility.json) |
-| [September 16 at 9:33 PM](https://archive.org/download/mongabay-2022/mongabay-2022-09-16T21:33:38.477672-07:00.accessibility.json) |
-| [September 16 at 9:04 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-16T09:03:53.539425-07:00.accessibility.json) |
-| [September 15 at 10:27 PM](https://archive.org/download/mongabay-2022/mongabay-2022-09-15T22:27:20.441124-07:00.accessibility.json) |
-| [September 15 at 9:26 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-15T09:25:52.764254-07:00.accessibility.json) |
-| [September 14 at 10:25 PM](https://archive.org/download/mongabay-2022/mongabay-2022-09-14T22:25:43.277954-07:00.accessibility.json) |
-| [September 14 at 9:25 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-14T09:25:53.221298-07:00.accessibility.json) |
+| [September 26 at 10:44 PM](https://archive.org/download/mongabay-2022/mongabay-2022-09-26T22:44:41.421077-07:00.accessibility.json) |
+| [September 26 at 10:33 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-26T10:33:21.481973-07:00.accessibility.json) |
+| [September 25 at 11:06 PM](https://archive.org/download/mongabay-2022/mongabay-2022-09-25T23:06:19.238133-07:00.accessibility.json) |
+| [September 25 at 10:15 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-25T10:15:01.928481-07:00.accessibility.json) |
+| [September 24 at 10:42 PM](https://archive.org/download/mongabay-2022/mongabay-2022-09-24T22:41:57.387990-07:00.accessibility.json) |
+| [September 24 at 10:15 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-24T10:15:10.634799-07:00.accessibility.json) |
+| [September 23 at 10:42 PM](https://archive.org/download/mongabay-2022/mongabay-2022-09-23T22:41:56.562795-07:00.accessibility.json) |
+| [September 23 at 10:26 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-23T10:26:40.495965-07:00.accessibility.json) |
+| [September 22 at 10:25 PM](https://archive.org/download/mongabay-2022/mongabay-2022-09-22T22:25:29.587738-07:00.accessibility.json) |
+| [September 22 at 10:27 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-22T10:27:07.442969-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 113 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 128 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 10:33 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-19T10:33:06.113674-07:00.lighthouse.json) |
-| [September 18 at 10:26 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-18T10:26:35.688387-07:00.lighthouse.json) |
-| [September 17 at 10:23 PM](https://archive.org/download/mongabay-2022/mongabay-2022-09-17T22:23:51.179172-07:00.lighthouse.json) |
-| [September 17 at 8:59 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-17T08:59:40.944628-07:00.lighthouse.json) |
-| [September 16 at 9:33 PM](https://archive.org/download/mongabay-2022/mongabay-2022-09-16T21:33:38.477672-07:00.lighthouse.json) |
-| [September 16 at 9:04 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-16T09:03:53.539425-07:00.lighthouse.json) |
-| [September 15 at 10:27 PM](https://archive.org/download/mongabay-2022/mongabay-2022-09-15T22:27:20.441124-07:00.lighthouse.json) |
-| [September 15 at 9:26 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-15T09:25:52.764254-07:00.lighthouse.json) |
-| [September 14 at 10:25 PM](https://archive.org/download/mongabay-2022/mongabay-2022-09-14T22:25:43.277954-07:00.lighthouse.json) |
-| [September 14 at 9:26 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-14T09:25:53.221298-07:00.lighthouse.json) |
+| [September 26 at 10:44 PM](https://archive.org/download/mongabay-2022/mongabay-2022-09-26T22:44:41.421077-07:00.lighthouse.json) |
+| [September 26 at 10:33 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-26T10:33:21.481973-07:00.lighthouse.json) |
+| [September 25 at 11:06 PM](https://archive.org/download/mongabay-2022/mongabay-2022-09-25T23:06:19.238133-07:00.lighthouse.json) |
+| [September 25 at 10:15 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-25T10:15:01.928481-07:00.lighthouse.json) |
+| [September 24 at 10:42 PM](https://archive.org/download/mongabay-2022/mongabay-2022-09-24T22:41:57.387990-07:00.lighthouse.json) |
+| [September 24 at 10:15 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-24T10:15:10.634799-07:00.lighthouse.json) |
+| [September 23 at 10:42 PM](https://archive.org/download/mongabay-2022/mongabay-2022-09-23T22:41:56.562795-07:00.lighthouse.json) |
+| [September 23 at 10:26 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-23T10:26:40.495965-07:00.lighthouse.json) |
+| [September 22 at 10:25 PM](https://archive.org/download/mongabay-2022/mongabay-2022-09-22T22:25:29.587738-07:00.lighthouse.json) |
+| [September 22 at 10:27 AM](https://archive.org/download/mongabay-2022/mongabay-2022-09-22T10:27:07.442969-07:00.lighthouse.json) |
 
 
 

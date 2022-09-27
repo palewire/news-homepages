@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 211 screenshots with the Internet Archive.
+The archiving routine has saved 228 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-19T03:47:02.349140-07:00.jpg">
-  <img src="https://archive.org/download/arizcir-2022/arizcir-2022-09-19T03:47:02.349140-07:00.jpg"
-     alt="Arizona Center for Investigative Reporting at 2022-09-19 03:47:04-07:00 local time"
+ <a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-27T03:53:47.333473-07:00.jpg">
+  <img src="https://archive.org/download/arizcir-2022/arizcir-2022-09-27T03:53:47.333473-07:00.jpg"
+     alt="Arizona Center for Investigative Reporting at 2022-09-27 03:53:49-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-19T03:47:02.349140-07:00.jpg">September 19 at 3:47 AM</a></p>
+ <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-27T03:53:47.333473-07:00.jpg">September 27 at 3:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-18T15:47:34.273684-07:00.jpg">
-  <img src="https://archive.org/download/arizcir-2022/arizcir-2022-09-18T15:47:34.273684-07:00.jpg"
-     alt="Arizona Center for Investigative Reporting at 2022-09-18 15:47:36-07:00 local time"
+ <a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-26T15:49:44.417876-07:00.jpg">
+  <img src="https://archive.org/download/arizcir-2022/arizcir-2022-09-26T15:49:44.417876-07:00.jpg"
+     alt="Arizona Center for Investigative Reporting at 2022-09-26 15:49:45-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-18T15:47:34.273684-07:00.jpg">September 18 at 3:47 PM</a></p>
+ <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-26T15:49:44.417876-07:00.jpg">September 26 at 3:49 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-18T03:49:18.029981-07:00.jpg">
-  <img src="https://archive.org/download/arizcir-2022/arizcir-2022-09-18T03:49:18.029981-07:00.jpg"
-     alt="Arizona Center for Investigative Reporting at 2022-09-18 03:49:19-07:00 local time"
+ <a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-26T03:52:20.322945-07:00.jpg">
+  <img src="https://archive.org/download/arizcir-2022/arizcir-2022-09-26T03:52:20.322945-07:00.jpg"
+     alt="Arizona Center for Investigative Reporting at 2022-09-26 03:52:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-18T03:49:18.029981-07:00.jpg">September 18 at 3:49 AM</a></p>
+ <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-26T03:52:20.322945-07:00.jpg">September 26 at 3:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-17T15:51:38.991754-07:00.jpg">
-  <img src="https://archive.org/download/arizcir-2022/arizcir-2022-09-17T15:51:38.991754-07:00.jpg"
-     alt="Arizona Center for Investigative Reporting at 2022-09-17 15:51:41-07:00 local time"
+ <a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-25T15:40:59.685800-07:00.jpg">
+  <img src="https://archive.org/download/arizcir-2022/arizcir-2022-09-25T15:40:59.685800-07:00.jpg"
+     alt="Arizona Center for Investigative Reporting at 2022-09-25 15:41:06-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-17T15:51:38.991754-07:00.jpg">September 17 at 3:51 PM</a></p>
+ <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-25T15:40:59.685800-07:00.jpg">September 25 at 3:41 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-17T03:47:49.711519-07:00.jpg">
-  <img src="https://archive.org/download/arizcir-2022/arizcir-2022-09-17T03:47:49.711519-07:00.jpg"
-     alt="Arizona Center for Investigative Reporting at 2022-09-17 03:47:51-07:00 local time"
+ <a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-25T03:40:16.449388-07:00.jpg">
+  <img src="https://archive.org/download/arizcir-2022/arizcir-2022-09-25T03:40:16.449388-07:00.jpg"
+     alt="Arizona Center for Investigative Reporting at 2022-09-25 03:40:18-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-17T03:47:49.711519-07:00.jpg">September 17 at 3:47 AM</a></p>
+ <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-25T03:40:16.449388-07:00.jpg">September 25 at 3:40 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-16T15:50:03.216286-07:00.jpg">
-  <img src="https://archive.org/download/arizcir-2022/arizcir-2022-09-16T15:50:03.216286-07:00.jpg"
-     alt="Arizona Center for Investigative Reporting at 2022-09-16 15:50:05-07:00 local time"
+ <a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-24T15:40:27.103103-07:00.jpg">
+  <img src="https://archive.org/download/arizcir-2022/arizcir-2022-09-24T15:40:27.103103-07:00.jpg"
+     alt="Arizona Center for Investigative Reporting at 2022-09-24 15:40:28-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-16T15:50:03.216286-07:00.jpg">September 16 at 3:50 PM</a></p>
+ <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-24T15:40:27.103103-07:00.jpg">September 24 at 3:40 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-16T03:50:39.695261-07:00.jpg">
-  <img src="https://archive.org/download/arizcir-2022/arizcir-2022-09-16T03:50:39.695261-07:00.jpg"
-     alt="Arizona Center for Investigative Reporting at 2022-09-16 03:50:41-07:00 local time"
+ <a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-24T03:42:27.588369-07:00.jpg">
+  <img src="https://archive.org/download/arizcir-2022/arizcir-2022-09-24T03:42:27.588369-07:00.jpg"
+     alt="Arizona Center for Investigative Reporting at 2022-09-24 03:42:30-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-16T03:50:39.695261-07:00.jpg">September 16 at 3:50 AM</a></p>
+ <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-24T03:42:27.588369-07:00.jpg">September 24 at 3:42 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-15T15:52:55.077776-07:00.jpg">
-  <img src="https://archive.org/download/arizcir-2022/arizcir-2022-09-15T15:52:55.077776-07:00.jpg"
-     alt="Arizona Center for Investigative Reporting at 2022-09-15 15:52:58-07:00 local time"
+ <a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-23T16:50:49.211193-07:00.jpg">
+  <img src="https://archive.org/download/arizcir-2022/arizcir-2022-09-23T16:50:49.211193-07:00.jpg"
+     alt="Arizona Center for Investigative Reporting at 2022-09-23 16:50:50-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-15T15:52:55.077776-07:00.jpg">September 15 at 3:52 PM</a></p>
+ <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-23T16:50:49.211193-07:00.jpg">September 23 at 4:50 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-15T03:53:25.514757-07:00.jpg">
-  <img src="https://archive.org/download/arizcir-2022/arizcir-2022-09-15T03:53:25.514757-07:00.jpg"
-     alt="Arizona Center for Investigative Reporting at 2022-09-15 03:53:26-07:00 local time"
+ <a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-23T03:47:13.836569-07:00.jpg">
+  <img src="https://archive.org/download/arizcir-2022/arizcir-2022-09-23T03:47:13.836569-07:00.jpg"
+     alt="Arizona Center for Investigative Reporting at 2022-09-23 03:47:15-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-15T03:53:25.514757-07:00.jpg">September 15 at 3:53 AM</a></p>
+ <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-23T03:47:13.836569-07:00.jpg">September 23 at 3:47 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-14T15:59:24.384439-07:00.jpg">
-  <img src="https://archive.org/download/arizcir-2022/arizcir-2022-09-14T15:59:24.384439-07:00.jpg"
-     alt="Arizona Center for Investigative Reporting at 2022-09-14 15:59:31-07:00 local time"
+ <a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-22T15:48:40.217688-07:00.jpg">
+  <img src="https://archive.org/download/arizcir-2022/arizcir-2022-09-22T15:48:40.217688-07:00.jpg"
+     alt="Arizona Center for Investigative Reporting at 2022-09-22 15:48:42-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-14T15:59:24.384439-07:00.jpg">September 14 at 3:59 PM</a></p>
+ <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-22T15:48:40.217688-07:00.jpg">September 22 at 3:48 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-14T03:52:59.111878-07:00.jpg">
-  <img src="https://archive.org/download/arizcir-2022/arizcir-2022-09-14T03:52:59.111878-07:00.jpg"
-     alt="Arizona Center for Investigative Reporting at 2022-09-14 03:53:00-07:00 local time"
+ <a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-22T03:50:13.883870-07:00.jpg">
+  <img src="https://archive.org/download/arizcir-2022/arizcir-2022-09-22T03:50:13.883870-07:00.jpg"
+     alt="Arizona Center for Investigative Reporting at 2022-09-22 03:50:21-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-14T03:52:59.111878-07:00.jpg">September 14 at 3:53 AM</a></p>
+ <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-22T03:50:13.883870-07:00.jpg">September 22 at 3:50 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-13T15:56:49.222233-07:00.jpg">
-  <img src="https://archive.org/download/arizcir-2022/arizcir-2022-09-13T15:56:49.222233-07:00.jpg"
-     alt="Arizona Center for Investigative Reporting at 2022-09-13 15:56:50-07:00 local time"
+ <a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-21T15:54:19.846336-07:00.jpg">
+  <img src="https://archive.org/download/arizcir-2022/arizcir-2022-09-21T15:54:19.846336-07:00.jpg"
+     alt="Arizona Center for Investigative Reporting at 2022-09-21 15:54:21-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-13T15:56:49.222233-07:00.jpg">September 13 at 3:56 PM</a></p>
+ <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-21T15:54:19.846336-07:00.jpg">September 21 at 3:54 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 212 hyperlink lists with the Internet Archive.
+The archiving routine has saved 229 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 3:47 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-19T03:47:02.349140-07:00.hyperlinks.json) |
-| [September 18 at 3:47 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-18T15:47:34.273684-07:00.hyperlinks.json) |
-| [September 18 at 3:49 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-18T03:49:18.029981-07:00.hyperlinks.json) |
-| [September 17 at 3:51 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-17T15:51:38.991754-07:00.hyperlinks.json) |
-| [September 17 at 3:47 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-17T03:47:49.711519-07:00.hyperlinks.json) |
-| [September 16 at 3:50 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-16T15:50:03.216286-07:00.hyperlinks.json) |
-| [September 16 at 3:50 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-16T03:50:39.695261-07:00.hyperlinks.json) |
-| [September 15 at 3:53 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-15T15:52:55.077776-07:00.hyperlinks.json) |
-| [September 15 at 3:53 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-15T03:53:25.514757-07:00.hyperlinks.json) |
-| [September 14 at 3:59 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-14T15:59:24.384439-07:00.hyperlinks.json) |
+| [September 27 at 3:53 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-27T03:53:47.333473-07:00.hyperlinks.json) |
+| [September 26 at 3:49 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-26T15:49:44.417876-07:00.hyperlinks.json) |
+| [September 26 at 3:52 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-26T03:52:20.322945-07:00.hyperlinks.json) |
+| [September 25 at 3:41 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-25T15:40:59.685800-07:00.hyperlinks.json) |
+| [September 25 at 3:40 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-25T03:40:16.449388-07:00.hyperlinks.json) |
+| [September 24 at 3:40 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-24T15:40:27.103103-07:00.hyperlinks.json) |
+| [September 24 at 3:42 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-24T03:42:27.588369-07:00.hyperlinks.json) |
+| [September 23 at 4:50 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-23T16:50:49.211193-07:00.hyperlinks.json) |
+| [September 23 at 3:47 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-23T03:47:13.836569-07:00.hyperlinks.json) |
+| [September 22 at 3:48 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-22T15:48:40.217688-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 212 accessibility trees with the Internet Archive.
+The archiving routine has saved 229 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 3:47 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-19T03:47:02.349140-07:00.accessibility.json) |
-| [September 18 at 3:47 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-18T15:47:34.273684-07:00.accessibility.json) |
-| [September 18 at 3:49 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-18T03:49:18.029981-07:00.accessibility.json) |
-| [September 17 at 3:51 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-17T15:51:38.991754-07:00.accessibility.json) |
-| [September 17 at 3:47 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-17T03:47:49.711519-07:00.accessibility.json) |
-| [September 16 at 3:50 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-16T15:50:03.216286-07:00.accessibility.json) |
-| [September 16 at 3:50 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-16T03:50:39.695261-07:00.accessibility.json) |
-| [September 15 at 3:53 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-15T15:52:55.077776-07:00.accessibility.json) |
-| [September 15 at 3:53 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-15T03:53:25.514757-07:00.accessibility.json) |
-| [September 14 at 3:59 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-14T15:59:24.384439-07:00.accessibility.json) |
+| [September 27 at 3:53 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-27T03:53:47.333473-07:00.accessibility.json) |
+| [September 26 at 3:49 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-26T15:49:44.417876-07:00.accessibility.json) |
+| [September 26 at 3:52 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-26T03:52:20.322945-07:00.accessibility.json) |
+| [September 25 at 3:41 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-25T15:40:59.685800-07:00.accessibility.json) |
+| [September 25 at 3:40 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-25T03:40:16.449388-07:00.accessibility.json) |
+| [September 24 at 3:40 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-24T15:40:27.103103-07:00.accessibility.json) |
+| [September 24 at 3:42 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-24T03:42:27.588369-07:00.accessibility.json) |
+| [September 23 at 4:50 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-23T16:50:49.211193-07:00.accessibility.json) |
+| [September 23 at 3:47 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-23T03:47:13.836569-07:00.accessibility.json) |
+| [September 22 at 3:48 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-22T15:48:40.217688-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 117 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 3:47 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-19T03:47:02.349140-07:00.lighthouse.json) |
-| [September 18 at 3:47 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-18T15:47:34.273684-07:00.lighthouse.json) |
-| [September 18 at 3:49 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-18T03:49:18.029981-07:00.lighthouse.json) |
-| [September 17 at 3:51 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-17T15:51:38.991754-07:00.lighthouse.json) |
-| [September 17 at 3:47 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-17T03:47:49.711519-07:00.lighthouse.json) |
-| [September 16 at 3:50 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-16T15:50:03.216286-07:00.lighthouse.json) |
-| [September 16 at 3:50 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-16T03:50:39.695261-07:00.lighthouse.json) |
-| [September 15 at 3:53 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-15T15:52:55.077776-07:00.lighthouse.json) |
-| [September 15 at 3:53 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-15T03:53:25.514757-07:00.lighthouse.json) |
-| [September 14 at 3:59 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-14T15:59:24.384439-07:00.lighthouse.json) |
+| [September 27 at 3:53 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-27T03:53:47.333473-07:00.lighthouse.json) |
+| [September 26 at 3:49 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-26T15:49:44.417876-07:00.lighthouse.json) |
+| [September 26 at 3:52 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-26T03:52:20.322945-07:00.lighthouse.json) |
+| [September 25 at 3:41 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-25T15:40:59.685800-07:00.lighthouse.json) |
+| [September 25 at 3:40 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-25T03:40:16.449388-07:00.lighthouse.json) |
+| [September 24 at 3:40 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-24T15:40:27.103103-07:00.lighthouse.json) |
+| [September 24 at 3:42 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-24T03:42:27.588369-07:00.lighthouse.json) |
+| [September 23 at 4:50 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-23T16:50:49.211193-07:00.lighthouse.json) |
+| [September 23 at 3:47 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-23T03:47:13.836569-07:00.lighthouse.json) |
+| [September 22 at 3:48 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-22T15:48:40.217688-07:00.lighthouse.json) |
 
 
 

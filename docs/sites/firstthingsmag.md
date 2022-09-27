@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 184 screenshots with the Internet Archive.
+The archiving routine has saved 206 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-19T14:35:35.426940-04:00.jpg">
-  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-19T14:35:35.426940-04:00.jpg"
-     alt="First Things at 2022-09-19 14:35:41-04:00 local time"
+ <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-27T03:00:17.843470-04:00.jpg">
+  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-27T03:00:17.843470-04:00.jpg"
+     alt="First Things at 2022-09-27 03:00:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-19T14:35:35.426940-04:00.jpg">September 19 at 2:35 PM</a></p>
+ <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-27T03:00:17.843470-04:00.jpg">September 27 at 3:00 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-19T12:01:09.136382-04:00.jpg">
-  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-19T12:01:09.136382-04:00.jpg"
-     alt="First Things at 2022-09-19 12:01:11-04:00 local time"
+ <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-26T15:47:51.607468-04:00.jpg">
+  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-26T15:47:51.607468-04:00.jpg"
+     alt="First Things at 2022-09-26 15:47:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-19T12:01:09.136382-04:00.jpg">September 19 at 12:01 PM</a></p>
+ <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-26T15:47:51.607468-04:00.jpg">September 26 at 3:47 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-19T00:46:57.405385-04:00.jpg">
-  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-19T00:46:57.405385-04:00.jpg"
-     alt="First Things at 2022-09-19 00:46:58-04:00 local time"
+ <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-26T13:47:25.420415-04:00.jpg">
+  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-26T13:47:25.420415-04:00.jpg"
+     alt="First Things at 2022-09-26 13:47:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-19T00:46:57.405385-04:00.jpg">September 19 at 12:46 AM</a></p>
+ <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-26T13:47:25.420415-04:00.jpg">September 26 at 1:47 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-18T14:32:15.193000-04:00.jpg">
-  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-18T14:32:15.193000-04:00.jpg"
-     alt="First Things at 2022-09-18 14:32:20-04:00 local time"
+ <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-26T02:18:40.166691-04:00.jpg">
+  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-26T02:18:40.166691-04:00.jpg"
+     alt="First Things at 2022-09-26 02:18:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-18T14:32:15.193000-04:00.jpg">September 18 at 2:32 PM</a></p>
+ <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-26T02:18:40.166691-04:00.jpg">September 26 at 2:18 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-17T23:50:03.427530-04:00.jpg">
-  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-17T23:50:03.427530-04:00.jpg"
-     alt="First Things at 2022-09-17 23:50:10-04:00 local time"
+ <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-25T15:08:32.801848-04:00.jpg">
+  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-25T15:08:32.801848-04:00.jpg"
+     alt="First Things at 2022-09-25 15:08:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-17T23:50:03.427530-04:00.jpg">September 17 at 11:50 PM</a></p>
+ <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-25T15:08:32.801848-04:00.jpg">September 25 at 3:08 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-17T14:33:44.086929-04:00.jpg">
-  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-17T14:33:44.086929-04:00.jpg"
-     alt="First Things at 2022-09-17 14:33:45-04:00 local time"
+ <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-25T13:27:38.964911-04:00.jpg">
+  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-25T13:27:38.964911-04:00.jpg"
+     alt="First Things at 2022-09-25 13:27:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-17T14:33:44.086929-04:00.jpg">September 17 at 2:33 PM</a></p>
+ <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-25T13:27:38.964911-04:00.jpg">September 25 at 1:27 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-17T10:52:04.140548-04:00.jpg">
-  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-17T10:52:04.140548-04:00.jpg"
-     alt="First Things at 2022-09-17 10:52:11-04:00 local time"
+ <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-25T01:52:12.807289-04:00.jpg">
+  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-25T01:52:12.807289-04:00.jpg"
+     alt="First Things at 2022-09-25 01:52:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-17T10:52:04.140548-04:00.jpg">September 17 at 10:52 AM</a></p>
+ <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-25T01:52:12.807289-04:00.jpg">September 25 at 1:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-16T23:43:28.390604-04:00.jpg">
-  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-16T23:43:28.390604-04:00.jpg"
-     alt="First Things at 2022-09-16 23:43:36-04:00 local time"
+ <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-24T15:02:43.189070-04:00.jpg">
+  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-24T15:02:43.189070-04:00.jpg"
+     alt="First Things at 2022-09-24 15:02:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-16T23:43:28.390604-04:00.jpg">September 16 at 11:43 PM</a></p>
+ <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-24T15:02:43.189070-04:00.jpg">September 24 at 3:02 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-16T14:33:24.877716-04:00.jpg">
-  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-16T14:33:24.877716-04:00.jpg"
-     alt="First Things at 2022-09-16 14:33:27-04:00 local time"
+ <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-24T13:26:54.019234-04:00.jpg">
+  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-24T13:26:54.019234-04:00.jpg"
+     alt="First Things at 2022-09-24 13:26:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-16T14:33:24.877716-04:00.jpg">September 16 at 2:33 PM</a></p>
+ <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-24T13:26:54.019234-04:00.jpg">September 24 at 1:26 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-16T11:01:59.243374-04:00.jpg">
-  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-16T11:01:59.243374-04:00.jpg"
-     alt="First Things at 2022-09-16 11:02:07-04:00 local time"
+ <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-24T01:52:38.618542-04:00.jpg">
+  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-24T01:52:38.618542-04:00.jpg"
+     alt="First Things at 2022-09-24 01:52:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-16T11:01:59.243374-04:00.jpg">September 16 at 11:02 AM</a></p>
+ <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-24T01:52:38.618542-04:00.jpg">September 24 at 1:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-15T23:51:07.770028-04:00.jpg">
-  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-15T23:51:07.770028-04:00.jpg"
-     alt="First Things at 2022-09-15 23:51:15-04:00 local time"
+ <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-23T15:27:44.586051-04:00.jpg">
+  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-23T15:27:44.586051-04:00.jpg"
+     alt="First Things at 2022-09-23 15:27:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-15T23:51:07.770028-04:00.jpg">September 15 at 11:51 PM</a></p>
+ <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-23T15:27:44.586051-04:00.jpg">September 23 at 3:27 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-15T14:32:33.731914-04:00.jpg">
-  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-15T14:32:33.731914-04:00.jpg"
-     alt="First Things at 2022-09-15 14:32:40-04:00 local time"
+ <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-23T13:41:37.930587-04:00.jpg">
+  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-23T13:41:37.930587-04:00.jpg"
+     alt="First Things at 2022-09-23 13:41:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-15T14:32:33.731914-04:00.jpg">September 15 at 2:32 PM</a></p>
+ <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-23T13:41:37.930587-04:00.jpg">September 23 at 1:41 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 184 hyperlink lists with the Internet Archive.
+The archiving routine has saved 206 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 2:35 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-19T14:35:35.426940-04:00.hyperlinks.json) |
-| [September 19 at 12:01 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-19T12:01:09.136382-04:00.hyperlinks.json) |
-| [September 19 at 12:47 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-19T00:46:57.405385-04:00.hyperlinks.json) |
-| [September 18 at 2:32 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-18T14:32:15.193000-04:00.hyperlinks.json) |
-| [September 17 at 11:50 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-17T23:50:03.427530-04:00.hyperlinks.json) |
-| [September 17 at 2:33 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-17T14:33:44.086929-04:00.hyperlinks.json) |
-| [September 17 at 10:52 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-17T10:52:04.140548-04:00.hyperlinks.json) |
-| [September 16 at 11:43 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-16T23:43:28.390604-04:00.hyperlinks.json) |
-| [September 16 at 2:33 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-16T14:33:24.877716-04:00.hyperlinks.json) |
-| [September 16 at 11:02 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-16T11:01:59.243374-04:00.hyperlinks.json) |
+| [September 27 at 3:00 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-27T03:00:17.843470-04:00.hyperlinks.json) |
+| [September 26 at 3:47 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-26T15:47:51.607468-04:00.hyperlinks.json) |
+| [September 26 at 1:47 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-26T13:47:25.420415-04:00.hyperlinks.json) |
+| [September 26 at 2:18 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-26T02:18:40.166691-04:00.hyperlinks.json) |
+| [September 25 at 3:08 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-25T15:08:32.801848-04:00.hyperlinks.json) |
+| [September 25 at 1:27 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-25T13:27:38.964911-04:00.hyperlinks.json) |
+| [September 25 at 1:52 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-25T01:52:12.807289-04:00.hyperlinks.json) |
+| [September 24 at 3:02 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-24T15:02:43.189070-04:00.hyperlinks.json) |
+| [September 24 at 1:27 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-24T13:26:54.019234-04:00.hyperlinks.json) |
+| [September 24 at 1:52 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-24T01:52:38.618542-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 184 accessibility trees with the Internet Archive.
+The archiving routine has saved 206 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 2:35 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-19T14:35:35.426940-04:00.accessibility.json) |
-| [September 19 at 12:01 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-19T12:01:09.136382-04:00.accessibility.json) |
-| [September 19 at 12:46 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-19T00:46:57.405385-04:00.accessibility.json) |
-| [September 18 at 2:32 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-18T14:32:15.193000-04:00.accessibility.json) |
-| [September 17 at 11:50 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-17T23:50:03.427530-04:00.accessibility.json) |
-| [September 17 at 2:33 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-17T14:33:44.086929-04:00.accessibility.json) |
-| [September 17 at 10:52 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-17T10:52:04.140548-04:00.accessibility.json) |
-| [September 16 at 11:43 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-16T23:43:28.390604-04:00.accessibility.json) |
-| [September 16 at 2:33 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-16T14:33:24.877716-04:00.accessibility.json) |
-| [September 16 at 11:02 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-16T11:01:59.243374-04:00.accessibility.json) |
+| [September 27 at 3:00 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-27T03:00:17.843470-04:00.accessibility.json) |
+| [September 26 at 3:47 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-26T15:47:51.607468-04:00.accessibility.json) |
+| [September 26 at 1:47 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-26T13:47:25.420415-04:00.accessibility.json) |
+| [September 26 at 2:18 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-26T02:18:40.166691-04:00.accessibility.json) |
+| [September 25 at 3:08 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-25T15:08:32.801848-04:00.accessibility.json) |
+| [September 25 at 1:27 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-25T13:27:38.964911-04:00.accessibility.json) |
+| [September 25 at 1:52 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-25T01:52:12.807289-04:00.accessibility.json) |
+| [September 24 at 3:02 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-24T15:02:43.189070-04:00.accessibility.json) |
+| [September 24 at 1:27 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-24T13:26:54.019234-04:00.accessibility.json) |
+| [September 24 at 1:52 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-24T01:52:38.618542-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 167 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 189 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 2:35 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-19T14:35:35.426940-04:00.lighthouse.json) |
-| [September 19 at 12:01 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-19T12:01:09.136382-04:00.lighthouse.json) |
-| [September 19 at 12:47 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-19T00:46:57.405385-04:00.lighthouse.json) |
-| [September 18 at 2:32 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-18T14:32:15.193000-04:00.lighthouse.json) |
-| [September 17 at 11:50 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-17T23:50:03.427530-04:00.lighthouse.json) |
-| [September 17 at 2:33 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-17T14:33:44.086929-04:00.lighthouse.json) |
-| [September 17 at 10:52 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-17T10:52:04.140548-04:00.lighthouse.json) |
-| [September 16 at 11:43 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-16T23:43:28.390604-04:00.lighthouse.json) |
-| [September 16 at 2:33 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-16T14:33:24.877716-04:00.lighthouse.json) |
-| [September 16 at 11:02 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-16T11:01:59.243374-04:00.lighthouse.json) |
+| [September 27 at 3:00 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-27T03:00:17.843470-04:00.lighthouse.json) |
+| [September 26 at 3:47 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-26T15:47:51.607468-04:00.lighthouse.json) |
+| [September 26 at 1:47 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-26T13:47:25.420415-04:00.lighthouse.json) |
+| [September 26 at 2:18 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-26T02:18:40.166691-04:00.lighthouse.json) |
+| [September 25 at 3:08 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-25T15:08:32.801848-04:00.lighthouse.json) |
+| [September 25 at 1:27 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-25T13:27:38.964911-04:00.lighthouse.json) |
+| [September 25 at 1:52 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-25T01:52:12.807289-04:00.lighthouse.json) |
+| [September 24 at 3:02 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-24T15:02:43.189070-04:00.lighthouse.json) |
+| [September 24 at 1:27 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-24T13:26:54.019234-04:00.lighthouse.json) |
+| [September 24 at 1:52 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-09-24T01:52:38.618542-04:00.lighthouse.json) |
 
 
 

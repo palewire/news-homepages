@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 71 screenshots with the Internet Archive.
+The archiving routine has saved 88 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-19T06:54:19.611440-05:00.jpg">
-  <img src="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-19T06:54:19.611440-05:00.jpg"
-     alt="Financiero at 2022-09-19 06:54:23-05:00 local time"
+ <a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-27T06:54:48.929041-05:00.jpg">
+  <img src="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-27T06:54:48.929041-05:00.jpg"
+     alt="Financiero at 2022-09-27 06:54:57-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-19T06:54:19.611440-05:00.jpg">September 19 at 6:54 AM</a></p>
+ <p><a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-27T06:54:48.929041-05:00.jpg">September 27 at 6:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-18T18:44:43.289523-05:00.jpg">
-  <img src="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-18T18:44:43.289523-05:00.jpg"
-     alt="Financiero at 2022-09-18 18:44:45-05:00 local time"
+ <a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-26T18:47:33.232440-05:00.jpg">
+  <img src="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-26T18:47:33.232440-05:00.jpg"
+     alt="Financiero at 2022-09-26 18:47:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-18T18:44:43.289523-05:00.jpg">September 18 at 6:44 PM</a></p>
+ <p><a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-26T18:47:33.232440-05:00.jpg">September 26 at 6:47 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-18T06:54:29.510879-05:00.jpg">
-  <img src="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-18T06:54:29.510879-05:00.jpg"
-     alt="Financiero at 2022-09-18 06:54:31-05:00 local time"
+ <a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-26T07:01:44.674250-05:00.jpg">
+  <img src="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-26T07:01:44.674250-05:00.jpg"
+     alt="Financiero at 2022-09-26 07:01:53-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-18T06:54:29.510879-05:00.jpg">September 18 at 6:54 AM</a></p>
+ <p><a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-26T07:01:44.674250-05:00.jpg">September 26 at 7:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-17T18:48:19.508831-05:00.jpg">
-  <img src="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-17T18:48:19.508831-05:00.jpg"
-     alt="Financiero at 2022-09-17 18:48:20-05:00 local time"
+ <a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-25T18:43:01.838854-05:00.jpg">
+  <img src="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-25T18:43:01.838854-05:00.jpg"
+     alt="Financiero at 2022-09-25 18:43:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-17T18:48:19.508831-05:00.jpg">September 17 at 6:48 PM</a></p>
+ <p><a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-25T18:43:01.838854-05:00.jpg">September 25 at 6:43 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-17T06:56:33.365599-05:00.jpg">
-  <img src="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-17T06:56:33.365599-05:00.jpg"
-     alt="Financiero at 2022-09-17 06:56:36-05:00 local time"
+ <a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-25T06:47:27.153942-05:00.jpg">
+  <img src="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-25T06:47:27.153942-05:00.jpg"
+     alt="Financiero at 2022-09-25 06:47:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-17T06:56:33.365599-05:00.jpg">September 17 at 6:56 AM</a></p>
+ <p><a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-25T06:47:27.153942-05:00.jpg">September 25 at 6:47 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-16T18:48:34.874302-05:00.jpg">
-  <img src="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-16T18:48:34.874302-05:00.jpg"
-     alt="Financiero at 2022-09-16 18:48:37-05:00 local time"
+ <a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-24T18:40:07.572421-05:00.jpg">
+  <img src="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-24T18:40:07.572421-05:00.jpg"
+     alt="Financiero at 2022-09-24 18:40:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-16T18:48:34.874302-05:00.jpg">September 16 at 6:48 PM</a></p>
+ <p><a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-24T18:40:07.572421-05:00.jpg">September 24 at 6:40 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-16T06:56:25.135797-05:00.jpg">
-  <img src="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-16T06:56:25.135797-05:00.jpg"
-     alt="Financiero at 2022-09-16 06:56:26-05:00 local time"
+ <a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-24T06:47:42.330673-05:00.jpg">
+  <img src="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-24T06:47:42.330673-05:00.jpg"
+     alt="Financiero at 2022-09-24 06:47:46-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-16T06:56:25.135797-05:00.jpg">September 16 at 6:56 AM</a></p>
+ <p><a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-24T06:47:42.330673-05:00.jpg">September 24 at 6:47 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-15T18:47:52.016755-05:00.jpg">
-  <img src="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-15T18:47:52.016755-05:00.jpg"
-     alt="Financiero at 2022-09-15 18:47:59-05:00 local time"
+ <a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-23T18:47:07.812460-05:00.jpg">
+  <img src="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-23T18:47:07.812460-05:00.jpg"
+     alt="Financiero at 2022-09-23 18:47:08-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-15T18:47:52.016755-05:00.jpg">September 15 at 6:47 PM</a></p>
+ <p><a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-23T18:47:07.812460-05:00.jpg">September 23 at 6:47 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-15T06:57:08.014699-05:00.jpg">
-  <img src="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-15T06:57:08.014699-05:00.jpg"
-     alt="Financiero at 2022-09-15 06:57:09-05:00 local time"
+ <a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-23T06:55:08.231001-05:00.jpg">
+  <img src="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-23T06:55:08.231001-05:00.jpg"
+     alt="Financiero at 2022-09-23 06:55:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-15T06:57:08.014699-05:00.jpg">September 15 at 6:57 AM</a></p>
+ <p><a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-23T06:55:08.231001-05:00.jpg">September 23 at 6:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-14T18:55:49.743265-05:00.jpg">
-  <img src="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-14T18:55:49.743265-05:00.jpg"
-     alt="Financiero at 2022-09-14 18:55:54-05:00 local time"
+ <a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-22T18:48:25.894256-05:00.jpg">
+  <img src="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-22T18:48:25.894256-05:00.jpg"
+     alt="Financiero at 2022-09-22 18:48:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-14T18:55:49.743265-05:00.jpg">September 14 at 6:55 PM</a></p>
+ <p><a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-22T18:48:25.894256-05:00.jpg">September 22 at 6:48 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-14T06:59:04.318534-05:00.jpg">
-  <img src="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-14T06:59:04.318534-05:00.jpg"
-     alt="Financiero at 2022-09-14 06:59:05-05:00 local time"
+ <a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-22T06:58:00.210472-05:00.jpg">
+  <img src="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-22T06:58:00.210472-05:00.jpg"
+     alt="Financiero at 2022-09-22 06:58:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-14T06:59:04.318534-05:00.jpg">September 14 at 6:59 AM</a></p>
+ <p><a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-22T06:58:00.210472-05:00.jpg">September 22 at 6:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-13T18:53:01.223652-05:00.jpg">
-  <img src="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-13T18:53:01.223652-05:00.jpg"
-     alt="Financiero at 2022-09-13 18:53:04-05:00 local time"
+ <a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-21T18:43:39.703363-05:00.jpg">
+  <img src="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-21T18:43:39.703363-05:00.jpg"
+     alt="Financiero at 2022-09-21 18:43:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-13T18:53:01.223652-05:00.jpg">September 13 at 6:53 PM</a></p>
+ <p><a href="https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-21T18:43:39.703363-05:00.jpg">September 21 at 6:43 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 71 hyperlink lists with the Internet Archive.
+The archiving routine has saved 88 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 6:54 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-19T06:54:19.611440-05:00.hyperlinks.json) |
-| [September 18 at 6:44 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-18T18:44:43.289523-05:00.hyperlinks.json) |
-| [September 18 at 6:54 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-18T06:54:29.510879-05:00.hyperlinks.json) |
-| [September 17 at 6:48 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-17T18:48:19.508831-05:00.hyperlinks.json) |
-| [September 17 at 6:56 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-17T06:56:33.365599-05:00.hyperlinks.json) |
-| [September 16 at 6:48 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-16T18:48:34.874302-05:00.hyperlinks.json) |
-| [September 16 at 6:56 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-16T06:56:25.135797-05:00.hyperlinks.json) |
-| [September 15 at 6:48 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-15T18:47:52.016755-05:00.hyperlinks.json) |
-| [September 15 at 6:57 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-15T06:57:08.014699-05:00.hyperlinks.json) |
-| [September 14 at 6:55 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-14T18:55:49.743265-05:00.hyperlinks.json) |
+| [September 27 at 6:55 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-27T06:54:48.929041-05:00.hyperlinks.json) |
+| [September 26 at 6:47 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-26T18:47:33.232440-05:00.hyperlinks.json) |
+| [September 26 at 7:01 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-26T07:01:44.674250-05:00.hyperlinks.json) |
+| [September 25 at 6:43 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-25T18:43:01.838854-05:00.hyperlinks.json) |
+| [September 25 at 6:47 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-25T06:47:27.153942-05:00.hyperlinks.json) |
+| [September 24 at 6:40 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-24T18:40:07.572421-05:00.hyperlinks.json) |
+| [September 24 at 6:47 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-24T06:47:42.330673-05:00.hyperlinks.json) |
+| [September 23 at 6:47 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-23T18:47:07.812460-05:00.hyperlinks.json) |
+| [September 23 at 6:55 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-23T06:55:08.231001-05:00.hyperlinks.json) |
+| [September 22 at 6:48 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-22T18:48:25.894256-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 71 accessibility trees with the Internet Archive.
+The archiving routine has saved 88 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 6:54 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-19T06:54:19.611440-05:00.accessibility.json) |
-| [September 18 at 6:44 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-18T18:44:43.289523-05:00.accessibility.json) |
-| [September 18 at 6:54 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-18T06:54:29.510879-05:00.accessibility.json) |
-| [September 17 at 6:48 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-17T18:48:19.508831-05:00.accessibility.json) |
-| [September 17 at 6:56 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-17T06:56:33.365599-05:00.accessibility.json) |
-| [September 16 at 6:48 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-16T18:48:34.874302-05:00.accessibility.json) |
-| [September 16 at 6:56 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-16T06:56:25.135797-05:00.accessibility.json) |
-| [September 15 at 6:48 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-15T18:47:52.016755-05:00.accessibility.json) |
-| [September 15 at 6:57 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-15T06:57:08.014699-05:00.accessibility.json) |
-| [September 14 at 6:55 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-14T18:55:49.743265-05:00.accessibility.json) |
+| [September 27 at 6:54 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-27T06:54:48.929041-05:00.accessibility.json) |
+| [September 26 at 6:47 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-26T18:47:33.232440-05:00.accessibility.json) |
+| [September 26 at 7:01 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-26T07:01:44.674250-05:00.accessibility.json) |
+| [September 25 at 6:43 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-25T18:43:01.838854-05:00.accessibility.json) |
+| [September 25 at 6:47 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-25T06:47:27.153942-05:00.accessibility.json) |
+| [September 24 at 6:40 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-24T18:40:07.572421-05:00.accessibility.json) |
+| [September 24 at 6:47 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-24T06:47:42.330673-05:00.accessibility.json) |
+| [September 23 at 6:47 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-23T18:47:07.812460-05:00.accessibility.json) |
+| [September 23 at 6:55 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-23T06:55:08.231001-05:00.accessibility.json) |
+| [September 22 at 6:48 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-22T18:48:25.894256-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 71 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 88 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 6:54 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-19T06:54:19.611440-05:00.lighthouse.json) |
-| [September 18 at 6:44 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-18T18:44:43.289523-05:00.lighthouse.json) |
-| [September 18 at 6:54 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-18T06:54:29.510879-05:00.lighthouse.json) |
-| [September 17 at 6:48 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-17T18:48:19.508831-05:00.lighthouse.json) |
-| [September 17 at 6:56 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-17T06:56:33.365599-05:00.lighthouse.json) |
-| [September 16 at 6:48 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-16T18:48:34.874302-05:00.lighthouse.json) |
-| [September 16 at 6:56 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-16T06:56:25.135797-05:00.lighthouse.json) |
-| [September 15 at 6:48 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-15T18:47:52.016755-05:00.lighthouse.json) |
-| [September 15 at 6:57 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-15T06:57:08.014699-05:00.lighthouse.json) |
-| [September 14 at 6:56 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-14T18:55:49.743265-05:00.lighthouse.json) |
+| [September 27 at 6:55 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-27T06:54:48.929041-05:00.lighthouse.json) |
+| [September 26 at 6:47 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-26T18:47:33.232440-05:00.lighthouse.json) |
+| [September 26 at 7:01 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-26T07:01:44.674250-05:00.lighthouse.json) |
+| [September 25 at 6:43 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-25T18:43:01.838854-05:00.lighthouse.json) |
+| [September 25 at 6:47 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-25T06:47:27.153942-05:00.lighthouse.json) |
+| [September 24 at 6:40 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-24T18:40:07.572421-05:00.lighthouse.json) |
+| [September 24 at 6:47 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-24T06:47:42.330673-05:00.lighthouse.json) |
+| [September 23 at 6:47 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-23T18:47:07.812460-05:00.lighthouse.json) |
+| [September 23 at 6:55 AM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-23T06:55:08.231001-05:00.lighthouse.json) |
+| [September 22 at 6:48 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-09-22T18:48:25.894256-05:00.lighthouse.json) |
 
 
 

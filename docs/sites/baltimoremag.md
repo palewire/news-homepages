@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 140 screenshots with the Internet Archive.
+The archiving routine has saved 157 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-19T06:49:14.904979-04:00.jpg">
-  <img src="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-19T06:49:14.904979-04:00.jpg"
-     alt="Baltimore Magazine at 2022-09-19 06:49:23-04:00 local time"
+ <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-27T06:55:11.474934-04:00.jpg">
+  <img src="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-27T06:55:11.474934-04:00.jpg"
+     alt="Baltimore Magazine at 2022-09-27 06:55:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-19T06:49:14.904979-04:00.jpg">September 19 at 6:49 AM</a></p>
+ <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-27T06:55:11.474934-04:00.jpg">September 27 at 6:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-18T18:50:42.661224-04:00.jpg">
-  <img src="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-18T18:50:42.661224-04:00.jpg"
-     alt="Baltimore Magazine at 2022-09-18 18:51:14-04:00 local time"
+ <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-26T18:52:21.344499-04:00.jpg">
+  <img src="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-26T18:52:21.344499-04:00.jpg"
+     alt="Baltimore Magazine at 2022-09-26 18:52:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-18T18:50:42.661224-04:00.jpg">September 18 at 6:51 PM</a></p>
+ <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-26T18:52:21.344499-04:00.jpg">September 26 at 6:52 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-18T06:51:28.820822-04:00.jpg">
-  <img src="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-18T06:51:28.820822-04:00.jpg"
-     alt="Baltimore Magazine at 2022-09-18 06:51:35-04:00 local time"
+ <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-26T06:55:06.371720-04:00.jpg">
+  <img src="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-26T06:55:06.371720-04:00.jpg"
+     alt="Baltimore Magazine at 2022-09-26 06:55:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-18T06:51:28.820822-04:00.jpg">September 18 at 6:51 AM</a></p>
+ <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-26T06:55:06.371720-04:00.jpg">September 26 at 6:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-17T18:54:01.585604-04:00.jpg">
-  <img src="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-17T18:54:01.585604-04:00.jpg"
-     alt="Baltimore Magazine at 2022-09-17 18:54:19-04:00 local time"
+ <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-25T18:42:27.665707-04:00.jpg">
+  <img src="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-25T18:42:27.665707-04:00.jpg"
+     alt="Baltimore Magazine at 2022-09-25 18:42:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-17T18:54:01.585604-04:00.jpg">September 17 at 6:54 PM</a></p>
+ <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-25T18:42:27.665707-04:00.jpg">September 25 at 6:42 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-17T06:49:48.609697-04:00.jpg">
-  <img src="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-17T06:49:48.609697-04:00.jpg"
-     alt="Baltimore Magazine at 2022-09-17 06:50:17-04:00 local time"
+ <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-25T06:42:03.481511-04:00.jpg">
+  <img src="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-25T06:42:03.481511-04:00.jpg"
+     alt="Baltimore Magazine at 2022-09-25 06:42:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-17T06:49:48.609697-04:00.jpg">September 17 at 6:50 AM</a></p>
+ <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-25T06:42:03.481511-04:00.jpg">September 25 at 6:42 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-16T18:52:34.001623-04:00.jpg">
-  <img src="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-16T18:52:34.001623-04:00.jpg"
-     alt="Baltimore Magazine at 2022-09-16 18:52:51-04:00 local time"
+ <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-24T18:42:00.671312-04:00.jpg">
+  <img src="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-24T18:42:00.671312-04:00.jpg"
+     alt="Baltimore Magazine at 2022-09-24 18:42:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-16T18:52:34.001623-04:00.jpg">September 16 at 6:52 PM</a></p>
+ <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-24T18:42:00.671312-04:00.jpg">September 24 at 6:42 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-16T06:52:45.542220-04:00.jpg">
-  <img src="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-16T06:52:45.542220-04:00.jpg"
-     alt="Baltimore Magazine at 2022-09-16 06:52:52-04:00 local time"
+ <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-24T06:45:03.383580-04:00.jpg">
+  <img src="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-24T06:45:03.383580-04:00.jpg"
+     alt="Baltimore Magazine at 2022-09-24 06:45:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-16T06:52:45.542220-04:00.jpg">September 16 at 6:52 AM</a></p>
+ <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-24T06:45:03.383580-04:00.jpg">September 24 at 6:45 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-15T18:55:03.651689-04:00.jpg">
-  <img src="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-15T18:55:03.651689-04:00.jpg"
-     alt="Baltimore Magazine at 2022-09-15 18:55:20-04:00 local time"
+ <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-23T19:53:02.649319-04:00.jpg">
+  <img src="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-23T19:53:02.649319-04:00.jpg"
+     alt="Baltimore Magazine at 2022-09-23 19:53:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-15T18:55:03.651689-04:00.jpg">September 15 at 6:55 PM</a></p>
+ <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-23T19:53:02.649319-04:00.jpg">September 23 at 7:53 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-15T06:54:42.586100-04:00.jpg">
-  <img src="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-15T06:54:42.586100-04:00.jpg"
-     alt="Baltimore Magazine at 2022-09-15 06:55:11-04:00 local time"
+ <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-23T06:48:51.759994-04:00.jpg">
+  <img src="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-23T06:48:51.759994-04:00.jpg"
+     alt="Baltimore Magazine at 2022-09-23 06:48:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-15T06:54:42.586100-04:00.jpg">September 15 at 6:55 AM</a></p>
+ <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-23T06:48:51.759994-04:00.jpg">September 23 at 6:48 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-14T19:01:26.602318-04:00.jpg">
-  <img src="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-14T19:01:26.602318-04:00.jpg"
-     alt="Baltimore Magazine at 2022-09-14 19:01:44-04:00 local time"
+ <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-22T18:51:07.916669-04:00.jpg">
+  <img src="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-22T18:51:07.916669-04:00.jpg"
+     alt="Baltimore Magazine at 2022-09-22 18:51:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-14T19:01:26.602318-04:00.jpg">September 14 at 7:01 PM</a></p>
+ <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-22T18:51:07.916669-04:00.jpg">September 22 at 6:51 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-14T06:54:33.231158-04:00.jpg">
-  <img src="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-14T06:54:33.231158-04:00.jpg"
-     alt="Baltimore Magazine at 2022-09-14 06:54:42-04:00 local time"
+ <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-22T06:51:45.122327-04:00.jpg">
+  <img src="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-22T06:51:45.122327-04:00.jpg"
+     alt="Baltimore Magazine at 2022-09-22 06:51:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-14T06:54:33.231158-04:00.jpg">September 14 at 6:54 AM</a></p>
+ <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-22T06:51:45.122327-04:00.jpg">September 22 at 6:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-13T18:59:10.590216-04:00.jpg">
-  <img src="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-13T18:59:10.590216-04:00.jpg"
-     alt="Baltimore Magazine at 2022-09-13 18:59:17-04:00 local time"
+ <a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-21T18:56:33.346393-04:00.jpg">
+  <img src="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-21T18:56:33.346393-04:00.jpg"
+     alt="Baltimore Magazine at 2022-09-21 18:56:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-13T18:59:10.590216-04:00.jpg">September 13 at 6:59 PM</a></p>
+ <p><a href="https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-21T18:56:33.346393-04:00.jpg">September 21 at 6:56 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 140 hyperlink lists with the Internet Archive.
+The archiving routine has saved 157 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 6:49 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-19T06:49:14.904979-04:00.hyperlinks.json) |
-| [September 18 at 6:51 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-18T18:50:42.661224-04:00.hyperlinks.json) |
-| [September 18 at 6:51 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-18T06:51:28.820822-04:00.hyperlinks.json) |
-| [September 17 at 6:54 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-17T18:54:01.585604-04:00.hyperlinks.json) |
-| [September 17 at 6:50 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-17T06:49:48.609697-04:00.hyperlinks.json) |
-| [September 16 at 6:52 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-16T18:52:34.001623-04:00.hyperlinks.json) |
-| [September 16 at 6:52 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-16T06:52:45.542220-04:00.hyperlinks.json) |
-| [September 15 at 6:55 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-15T18:55:03.651689-04:00.hyperlinks.json) |
-| [September 15 at 6:55 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-15T06:54:42.586100-04:00.hyperlinks.json) |
-| [September 14 at 7:01 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-14T19:01:26.602318-04:00.hyperlinks.json) |
+| [September 27 at 6:55 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-27T06:55:11.474934-04:00.hyperlinks.json) |
+| [September 26 at 6:52 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-26T18:52:21.344499-04:00.hyperlinks.json) |
+| [September 26 at 6:55 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-26T06:55:06.371720-04:00.hyperlinks.json) |
+| [September 25 at 6:42 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-25T18:42:27.665707-04:00.hyperlinks.json) |
+| [September 25 at 6:42 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-25T06:42:03.481511-04:00.hyperlinks.json) |
+| [September 24 at 6:42 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-24T18:42:00.671312-04:00.hyperlinks.json) |
+| [September 24 at 6:45 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-24T06:45:03.383580-04:00.hyperlinks.json) |
+| [September 23 at 7:53 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-23T19:53:02.649319-04:00.hyperlinks.json) |
+| [September 23 at 6:48 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-23T06:48:51.759994-04:00.hyperlinks.json) |
+| [September 22 at 6:51 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-22T18:51:07.916669-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 140 accessibility trees with the Internet Archive.
+The archiving routine has saved 157 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 6:49 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-19T06:49:14.904979-04:00.accessibility.json) |
-| [September 18 at 6:51 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-18T18:50:42.661224-04:00.accessibility.json) |
-| [September 18 at 6:51 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-18T06:51:28.820822-04:00.accessibility.json) |
-| [September 17 at 6:54 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-17T18:54:01.585604-04:00.accessibility.json) |
-| [September 17 at 6:50 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-17T06:49:48.609697-04:00.accessibility.json) |
-| [September 16 at 6:52 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-16T18:52:34.001623-04:00.accessibility.json) |
-| [September 16 at 6:52 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-16T06:52:45.542220-04:00.accessibility.json) |
-| [September 15 at 6:55 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-15T18:55:03.651689-04:00.accessibility.json) |
-| [September 15 at 6:55 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-15T06:54:42.586100-04:00.accessibility.json) |
-| [September 14 at 7:01 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-14T19:01:26.602318-04:00.accessibility.json) |
+| [September 27 at 6:55 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-27T06:55:11.474934-04:00.accessibility.json) |
+| [September 26 at 6:52 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-26T18:52:21.344499-04:00.accessibility.json) |
+| [September 26 at 6:55 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-26T06:55:06.371720-04:00.accessibility.json) |
+| [September 25 at 6:42 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-25T18:42:27.665707-04:00.accessibility.json) |
+| [September 25 at 6:42 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-25T06:42:03.481511-04:00.accessibility.json) |
+| [September 24 at 6:42 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-24T18:42:00.671312-04:00.accessibility.json) |
+| [September 24 at 6:45 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-24T06:45:03.383580-04:00.accessibility.json) |
+| [September 23 at 7:53 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-23T19:53:02.649319-04:00.accessibility.json) |
+| [September 23 at 6:48 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-23T06:48:51.759994-04:00.accessibility.json) |
+| [September 22 at 6:51 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-22T18:51:07.916669-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 117 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 6:49 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-19T06:49:14.904979-04:00.lighthouse.json) |
-| [September 18 at 6:51 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-18T18:50:42.661224-04:00.lighthouse.json) |
-| [September 18 at 6:51 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-18T06:51:28.820822-04:00.lighthouse.json) |
-| [September 17 at 6:54 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-17T18:54:01.585604-04:00.lighthouse.json) |
-| [September 17 at 6:50 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-17T06:49:48.609697-04:00.lighthouse.json) |
-| [September 16 at 6:52 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-16T18:52:34.001623-04:00.lighthouse.json) |
-| [September 16 at 6:52 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-16T06:52:45.542220-04:00.lighthouse.json) |
-| [September 15 at 6:55 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-15T18:55:03.651689-04:00.lighthouse.json) |
-| [September 15 at 6:55 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-15T06:54:42.586100-04:00.lighthouse.json) |
-| [September 14 at 7:01 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-14T19:01:26.602318-04:00.lighthouse.json) |
+| [September 27 at 6:55 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-27T06:55:11.474934-04:00.lighthouse.json) |
+| [September 26 at 6:52 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-26T18:52:21.344499-04:00.lighthouse.json) |
+| [September 26 at 6:55 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-26T06:55:06.371720-04:00.lighthouse.json) |
+| [September 25 at 6:42 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-25T18:42:27.665707-04:00.lighthouse.json) |
+| [September 25 at 6:42 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-25T06:42:03.481511-04:00.lighthouse.json) |
+| [September 24 at 6:42 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-24T18:42:00.671312-04:00.lighthouse.json) |
+| [September 24 at 6:45 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-24T06:45:03.383580-04:00.lighthouse.json) |
+| [September 23 at 7:53 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-23T19:53:02.649319-04:00.lighthouse.json) |
+| [September 23 at 6:48 AM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-23T06:48:51.759994-04:00.lighthouse.json) |
+| [September 22 at 6:51 PM](https://archive.org/download/baltimoremag-2022/baltimoremag-2022-09-22T18:51:07.916669-04:00.lighthouse.json) |
 
 
 

@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 72 screenshots with the Internet Archive.
+The archiving routine has saved 97 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-19T11:06:41.369230-05:00.jpg">
-  <img src="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-19T11:06:41.369230-05:00.jpg"
-     alt="Borderless at 2022-09-19 11:06:45-05:00 local time"
+ <a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-27T11:10:40.249326-05:00.jpg">
+  <img src="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-27T11:10:40.249326-05:00.jpg"
+     alt="Borderless at 2022-09-27 11:10:42-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-19T11:06:41.369230-05:00.jpg">September 19 at 11:06 AM</a></p>
+ <p><a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-27T11:10:40.249326-05:00.jpg">September 27 at 11:10 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-19T05:49:41.545076-05:00.jpg">
-  <img src="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-19T05:49:41.545076-05:00.jpg"
-     alt="Borderless at 2022-09-19 05:49:44-05:00 local time"
+ <a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-27T05:56:24.111423-05:00.jpg">
+  <img src="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-27T05:56:24.111423-05:00.jpg"
+     alt="Borderless at 2022-09-27 05:56:27-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-19T05:49:41.545076-05:00.jpg">September 19 at 5:49 AM</a></p>
+ <p><a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-27T05:56:24.111423-05:00.jpg">September 27 at 5:56 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-18T17:49:34.560958-05:00.jpg">
-  <img src="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-18T17:49:34.560958-05:00.jpg"
-     alt="Borderless at 2022-09-18 17:49:37-05:00 local time"
+ <a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-26T17:53:20.552424-05:00.jpg">
+  <img src="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-26T17:53:20.552424-05:00.jpg"
+     alt="Borderless at 2022-09-26 17:53:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-18T17:49:34.560958-05:00.jpg">September 18 at 5:49 PM</a></p>
+ <p><a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-26T17:53:20.552424-05:00.jpg">September 26 at 5:53 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-18T11:00:48.375000-05:00.jpg">
-  <img src="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-18T11:00:48.375000-05:00.jpg"
-     alt="Borderless at 2022-09-18 11:00:51-05:00 local time"
+ <a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-26T11:10:33.893489-05:00.jpg">
+  <img src="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-26T11:10:33.893489-05:00.jpg"
+     alt="Borderless at 2022-09-26 11:10:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-18T11:00:48.375000-05:00.jpg">September 18 at 11:00 AM</a></p>
+ <p><a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-26T11:10:33.893489-05:00.jpg">September 26 at 11:10 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-18T05:51:03.726242-05:00.jpg">
-  <img src="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-18T05:51:03.726242-05:00.jpg"
-     alt="Borderless at 2022-09-18 05:51:13-05:00 local time"
+ <a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-26T05:54:50.070316-05:00.jpg">
+  <img src="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-26T05:54:50.070316-05:00.jpg"
+     alt="Borderless at 2022-09-26 05:55:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-18T05:51:03.726242-05:00.jpg">September 18 at 5:51 AM</a></p>
+ <p><a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-26T05:54:50.070316-05:00.jpg">September 26 at 5:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-17T17:53:15.459119-05:00.jpg">
-  <img src="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-17T17:53:15.459119-05:00.jpg"
-     alt="Borderless at 2022-09-17 17:53:19-05:00 local time"
+ <a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-25T17:43:48.759229-05:00.jpg">
+  <img src="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-25T17:43:48.759229-05:00.jpg"
+     alt="Borderless at 2022-09-25 17:43:52-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-17T17:53:15.459119-05:00.jpg">September 17 at 5:53 PM</a></p>
+ <p><a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-25T17:43:48.759229-05:00.jpg">September 25 at 5:43 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-17T11:03:05.864692-05:00.jpg">
-  <img src="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-17T11:03:05.864692-05:00.jpg"
-     alt="Borderless at 2022-09-17 11:03:07-05:00 local time"
+ <a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-25T10:47:26.426878-05:00.jpg">
+  <img src="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-25T10:47:26.426878-05:00.jpg"
+     alt="Borderless at 2022-09-25 10:47:27-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-17T11:03:05.864692-05:00.jpg">September 17 at 11:03 AM</a></p>
+ <p><a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-25T10:47:26.426878-05:00.jpg">September 25 at 10:47 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-17T05:49:48.656247-05:00.jpg">
-  <img src="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-17T05:49:48.656247-05:00.jpg"
-     alt="Borderless at 2022-09-17 05:49:50-05:00 local time"
+ <a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-25T05:42:08.957601-05:00.jpg">
+  <img src="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-25T05:42:08.957601-05:00.jpg"
+     alt="Borderless at 2022-09-25 05:42:22-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-17T05:49:48.656247-05:00.jpg">September 17 at 5:49 AM</a></p>
+ <p><a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-25T05:42:08.957601-05:00.jpg">September 25 at 5:42 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-16T17:52:43.658571-05:00.jpg">
-  <img src="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-16T17:52:43.658571-05:00.jpg"
-     alt="Borderless at 2022-09-16 17:52:47-05:00 local time"
+ <a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-24T17:43:10.870843-05:00.jpg">
+  <img src="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-24T17:43:10.870843-05:00.jpg"
+     alt="Borderless at 2022-09-24 17:43:15-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-16T17:52:43.658571-05:00.jpg">September 16 at 5:52 PM</a></p>
+ <p><a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-24T17:43:10.870843-05:00.jpg">September 24 at 5:43 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-16T10:59:04.426103-05:00.jpg">
-  <img src="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-16T10:59:04.426103-05:00.jpg"
-     alt="Borderless at 2022-09-16 10:59:07-05:00 local time"
+ <a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-24T10:46:10.309800-05:00.jpg">
+  <img src="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-24T10:46:10.309800-05:00.jpg"
+     alt="Borderless at 2022-09-24 10:46:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-16T10:59:04.426103-05:00.jpg">September 16 at 10:59 AM</a></p>
+ <p><a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-24T10:46:10.309800-05:00.jpg">September 24 at 10:46 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-16T05:52:42.300334-05:00.jpg">
-  <img src="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-16T05:52:42.300334-05:00.jpg"
-     alt="Borderless at 2022-09-16 05:52:43-05:00 local time"
+ <a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-24T05:44:35.297410-05:00.jpg">
+  <img src="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-24T05:44:35.297410-05:00.jpg"
+     alt="Borderless at 2022-09-24 05:44:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-16T05:52:42.300334-05:00.jpg">September 16 at 5:52 AM</a></p>
+ <p><a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-24T05:44:35.297410-05:00.jpg">September 24 at 5:44 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-15T17:55:36.314800-05:00.jpg">
-  <img src="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-15T17:55:36.314800-05:00.jpg"
-     alt="Borderless at 2022-09-15 17:55:43-05:00 local time"
+ <a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-23T18:53:13.841817-05:00.jpg">
+  <img src="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-23T18:53:13.841817-05:00.jpg"
+     alt="Borderless at 2022-09-23 18:53:15-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-15T17:55:36.314800-05:00.jpg">September 15 at 5:55 PM</a></p>
+ <p><a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-23T18:53:13.841817-05:00.jpg">September 23 at 6:53 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 72 hyperlink lists with the Internet Archive.
+The archiving routine has saved 97 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 11:06 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-19T11:06:41.369230-05:00.hyperlinks.json) |
-| [September 19 at 5:49 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-19T05:49:41.545076-05:00.hyperlinks.json) |
-| [September 18 at 5:49 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-18T17:49:34.560958-05:00.hyperlinks.json) |
-| [September 18 at 11:00 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-18T11:00:48.375000-05:00.hyperlinks.json) |
-| [September 18 at 5:51 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-18T05:51:03.726242-05:00.hyperlinks.json) |
-| [September 17 at 5:53 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-17T17:53:15.459119-05:00.hyperlinks.json) |
-| [September 17 at 11:03 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-17T11:03:05.864692-05:00.hyperlinks.json) |
-| [September 17 at 5:49 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-17T05:49:48.656247-05:00.hyperlinks.json) |
-| [September 16 at 5:52 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-16T17:52:43.658571-05:00.hyperlinks.json) |
-| [September 16 at 10:59 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-16T10:59:04.426103-05:00.hyperlinks.json) |
+| [September 27 at 11:10 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-27T11:10:40.249326-05:00.hyperlinks.json) |
+| [September 27 at 5:56 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-27T05:56:24.111423-05:00.hyperlinks.json) |
+| [September 26 at 5:53 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-26T17:53:20.552424-05:00.hyperlinks.json) |
+| [September 26 at 11:10 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-26T11:10:33.893489-05:00.hyperlinks.json) |
+| [September 26 at 5:55 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-26T05:54:50.070316-05:00.hyperlinks.json) |
+| [September 25 at 5:43 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-25T17:43:48.759229-05:00.hyperlinks.json) |
+| [September 25 at 10:47 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-25T10:47:26.426878-05:00.hyperlinks.json) |
+| [September 25 at 5:42 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-25T05:42:08.957601-05:00.hyperlinks.json) |
+| [September 24 at 5:43 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-24T17:43:10.870843-05:00.hyperlinks.json) |
+| [September 24 at 10:46 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-24T10:46:10.309800-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 73 accessibility trees with the Internet Archive.
+The archiving routine has saved 98 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 11:06 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-19T11:06:41.369230-05:00.accessibility.json) |
-| [September 19 at 5:49 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-19T05:49:41.545076-05:00.accessibility.json) |
-| [September 18 at 5:49 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-18T17:49:34.560958-05:00.accessibility.json) |
-| [September 18 at 11:00 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-18T11:00:48.375000-05:00.accessibility.json) |
-| [September 18 at 5:51 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-18T05:51:03.726242-05:00.accessibility.json) |
-| [September 17 at 5:53 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-17T17:53:15.459119-05:00.accessibility.json) |
-| [September 17 at 11:03 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-17T11:03:05.864692-05:00.accessibility.json) |
-| [September 17 at 5:49 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-17T05:49:48.656247-05:00.accessibility.json) |
-| [September 16 at 5:52 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-16T17:52:43.658571-05:00.accessibility.json) |
-| [September 16 at 10:59 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-16T10:59:04.426103-05:00.accessibility.json) |
+| [September 27 at 11:10 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-27T11:10:40.249326-05:00.accessibility.json) |
+| [September 27 at 5:56 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-27T05:56:24.111423-05:00.accessibility.json) |
+| [September 26 at 5:53 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-26T17:53:20.552424-05:00.accessibility.json) |
+| [September 26 at 11:10 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-26T11:10:33.893489-05:00.accessibility.json) |
+| [September 26 at 5:55 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-26T05:54:50.070316-05:00.accessibility.json) |
+| [September 25 at 5:43 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-25T17:43:48.759229-05:00.accessibility.json) |
+| [September 25 at 10:47 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-25T10:47:26.426878-05:00.accessibility.json) |
+| [September 25 at 5:42 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-25T05:42:08.957601-05:00.accessibility.json) |
+| [September 24 at 5:43 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-24T17:43:10.870843-05:00.accessibility.json) |
+| [September 24 at 10:46 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-24T10:46:10.309800-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 73 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 11:06 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-19T11:06:41.369230-05:00.lighthouse.json) |
-| [September 19 at 5:49 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-19T05:49:41.545076-05:00.lighthouse.json) |
-| [September 18 at 5:49 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-18T17:49:34.560958-05:00.lighthouse.json) |
-| [September 18 at 11:00 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-18T11:00:48.375000-05:00.lighthouse.json) |
-| [September 18 at 5:51 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-18T05:51:03.726242-05:00.lighthouse.json) |
-| [September 17 at 5:53 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-17T17:53:15.459119-05:00.lighthouse.json) |
-| [September 17 at 11:03 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-17T11:03:05.864692-05:00.lighthouse.json) |
-| [September 17 at 5:49 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-17T05:49:48.656247-05:00.lighthouse.json) |
-| [September 16 at 5:52 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-16T17:52:43.658571-05:00.lighthouse.json) |
-| [September 16 at 10:59 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-16T10:59:04.426103-05:00.lighthouse.json) |
+| [September 27 at 11:10 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-27T11:10:40.249326-05:00.lighthouse.json) |
+| [September 27 at 5:56 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-27T05:56:24.111423-05:00.lighthouse.json) |
+| [September 26 at 5:53 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-26T17:53:20.552424-05:00.lighthouse.json) |
+| [September 26 at 11:10 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-26T11:10:33.893489-05:00.lighthouse.json) |
+| [September 26 at 5:55 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-26T05:54:50.070316-05:00.lighthouse.json) |
+| [September 25 at 5:43 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-25T17:43:48.759229-05:00.lighthouse.json) |
+| [September 25 at 10:47 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-25T10:47:26.426878-05:00.lighthouse.json) |
+| [September 25 at 5:42 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-25T05:42:08.957601-05:00.lighthouse.json) |
+| [September 24 at 5:43 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-24T17:43:10.870843-05:00.lighthouse.json) |
+| [September 24 at 10:46 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-24T10:46:10.309800-05:00.lighthouse.json) |
 
 
 

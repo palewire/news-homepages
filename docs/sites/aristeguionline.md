@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 71 screenshots with the Internet Archive.
+The archiving routine has saved 88 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-19T05:46:50.904754-05:00.jpg">
-  <img src="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-19T05:46:50.904754-05:00.jpg"
-     alt="Aristegui Noticias at 2022-09-19 05:46:52-05:00 local time"
+ <a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-27T05:54:19.745702-05:00.jpg">
+  <img src="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-27T05:54:19.745702-05:00.jpg"
+     alt="Aristegui Noticias at 2022-09-27 05:54:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-19T05:46:50.904754-05:00.jpg">September 19 at 5:46 AM</a></p>
+ <p><a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-27T05:54:19.745702-05:00.jpg">September 27 at 5:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-18T17:48:24.679030-05:00.jpg">
-  <img src="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-18T17:48:24.679030-05:00.jpg"
-     alt="Aristegui Noticias at 2022-09-18 17:48:26-05:00 local time"
+ <a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-26T17:53:02.105522-05:00.jpg">
+  <img src="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-26T17:53:02.105522-05:00.jpg"
+     alt="Aristegui Noticias at 2022-09-26 17:53:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-18T17:48:24.679030-05:00.jpg">September 18 at 5:48 PM</a></p>
+ <p><a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-26T17:53:02.105522-05:00.jpg">September 26 at 5:53 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-18T05:49:30.027401-05:00.jpg">
-  <img src="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-18T05:49:30.027401-05:00.jpg"
-     alt="Aristegui Noticias at 2022-09-18 05:49:33-05:00 local time"
+ <a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-26T05:52:51.799437-05:00.jpg">
+  <img src="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-26T05:52:51.799437-05:00.jpg"
+     alt="Aristegui Noticias at 2022-09-26 05:53:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-18T05:49:30.027401-05:00.jpg">September 18 at 5:49 AM</a></p>
+ <p><a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-26T05:52:51.799437-05:00.jpg">September 26 at 5:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-17T17:51:06.019143-05:00.jpg">
-  <img src="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-17T17:51:06.019143-05:00.jpg"
-     alt="Aristegui Noticias at 2022-09-17 17:51:18-05:00 local time"
+ <a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-25T17:40:52.529732-05:00.jpg">
+  <img src="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-25T17:40:52.529732-05:00.jpg"
+     alt="Aristegui Noticias at 2022-09-25 17:40:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-17T17:51:06.019143-05:00.jpg">September 17 at 5:51 PM</a></p>
+ <p><a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-25T17:40:52.529732-05:00.jpg">September 25 at 5:40 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-17T05:48:30.769901-05:00.jpg">
-  <img src="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-17T05:48:30.769901-05:00.jpg"
-     alt="Aristegui Noticias at 2022-09-17 05:48:32-05:00 local time"
+ <a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-25T05:40:17.391724-05:00.jpg">
+  <img src="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-25T05:40:17.391724-05:00.jpg"
+     alt="Aristegui Noticias at 2022-09-25 05:40:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-17T05:48:30.769901-05:00.jpg">September 17 at 5:48 AM</a></p>
+ <p><a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-25T05:40:17.391724-05:00.jpg">September 25 at 5:40 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-16T17:50:52.805011-05:00.jpg">
-  <img src="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-16T17:50:52.805011-05:00.jpg"
-     alt="Aristegui Noticias at 2022-09-16 17:50:57-05:00 local time"
+ <a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-24T17:41:23.717694-05:00.jpg">
+  <img src="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-24T17:41:23.717694-05:00.jpg"
+     alt="Aristegui Noticias at 2022-09-24 17:41:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-16T17:50:52.805011-05:00.jpg">September 16 at 5:50 PM</a></p>
+ <p><a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-24T17:41:23.717694-05:00.jpg">September 24 at 5:41 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-16T05:51:25.397918-05:00.jpg">
-  <img src="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-16T05:51:25.397918-05:00.jpg"
-     alt="Aristegui Noticias at 2022-09-16 05:51:30-05:00 local time"
+ <a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-24T05:42:36.747033-05:00.jpg">
+  <img src="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-24T05:42:36.747033-05:00.jpg"
+     alt="Aristegui Noticias at 2022-09-24 05:42:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-16T05:51:25.397918-05:00.jpg">September 16 at 5:51 AM</a></p>
+ <p><a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-24T05:42:36.747033-05:00.jpg">September 24 at 5:42 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-15T17:53:08.678410-05:00.jpg">
-  <img src="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-15T17:53:08.678410-05:00.jpg"
-     alt="Aristegui Noticias at 2022-09-15 17:53:10-05:00 local time"
+ <a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-23T18:50:31.088393-05:00.jpg">
+  <img src="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-23T18:50:31.088393-05:00.jpg"
+     alt="Aristegui Noticias at 2022-09-23 18:50:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-15T17:53:08.678410-05:00.jpg">September 15 at 5:53 PM</a></p>
+ <p><a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-23T18:50:31.088393-05:00.jpg">September 23 at 6:50 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-15T05:52:40.798572-05:00.jpg">
-  <img src="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-15T05:52:40.798572-05:00.jpg"
-     alt="Aristegui Noticias at 2022-09-15 05:52:46-05:00 local time"
+ <a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-23T05:47:00.502547-05:00.jpg">
+  <img src="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-23T05:47:00.502547-05:00.jpg"
+     alt="Aristegui Noticias at 2022-09-23 05:47:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-15T05:52:40.798572-05:00.jpg">September 15 at 5:52 AM</a></p>
+ <p><a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-23T05:47:00.502547-05:00.jpg">September 23 at 5:47 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-14T17:59:21.179358-05:00.jpg">
-  <img src="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-14T17:59:21.179358-05:00.jpg"
-     alt="Aristegui Noticias at 2022-09-14 17:59:22-05:00 local time"
+ <a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-22T17:48:41.343836-05:00.jpg">
+  <img src="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-22T17:48:41.343836-05:00.jpg"
+     alt="Aristegui Noticias at 2022-09-22 17:48:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-14T17:59:21.179358-05:00.jpg">September 14 at 5:59 PM</a></p>
+ <p><a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-22T17:48:41.343836-05:00.jpg">September 22 at 5:48 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-14T05:52:24.779698-05:00.jpg">
-  <img src="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-14T05:52:24.779698-05:00.jpg"
-     alt="Aristegui Noticias at 2022-09-14 05:52:26-05:00 local time"
+ <a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-22T05:49:57.483522-05:00.jpg">
+  <img src="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-22T05:49:57.483522-05:00.jpg"
+     alt="Aristegui Noticias at 2022-09-22 05:50:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-14T05:52:24.779698-05:00.jpg">September 14 at 5:52 AM</a></p>
+ <p><a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-22T05:49:57.483522-05:00.jpg">September 22 at 5:50 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-13T17:56:37.392986-05:00.jpg">
-  <img src="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-13T17:56:37.392986-05:00.jpg"
-     alt="Aristegui Noticias at 2022-09-13 17:56:41-05:00 local time"
+ <a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-21T17:54:44.496034-05:00.jpg">
+  <img src="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-21T17:54:44.496034-05:00.jpg"
+     alt="Aristegui Noticias at 2022-09-21 17:54:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-13T17:56:37.392986-05:00.jpg">September 13 at 5:56 PM</a></p>
+ <p><a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-21T17:54:44.496034-05:00.jpg">September 21 at 5:54 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 71 hyperlink lists with the Internet Archive.
+The archiving routine has saved 88 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 5:46 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-19T05:46:50.904754-05:00.hyperlinks.json) |
-| [September 18 at 5:48 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-18T17:48:24.679030-05:00.hyperlinks.json) |
-| [September 18 at 5:49 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-18T05:49:30.027401-05:00.hyperlinks.json) |
-| [September 17 at 5:51 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-17T17:51:06.019143-05:00.hyperlinks.json) |
-| [September 17 at 5:48 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-17T05:48:30.769901-05:00.hyperlinks.json) |
-| [September 16 at 5:51 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-16T17:50:52.805011-05:00.hyperlinks.json) |
-| [September 16 at 5:51 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-16T05:51:25.397918-05:00.hyperlinks.json) |
-| [September 15 at 5:53 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-15T17:53:08.678410-05:00.hyperlinks.json) |
-| [September 15 at 5:52 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-15T05:52:40.798572-05:00.hyperlinks.json) |
-| [September 14 at 5:59 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-14T17:59:21.179358-05:00.hyperlinks.json) |
+| [September 27 at 5:54 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-27T05:54:19.745702-05:00.hyperlinks.json) |
+| [September 26 at 5:53 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-26T17:53:02.105522-05:00.hyperlinks.json) |
+| [September 26 at 5:53 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-26T05:52:51.799437-05:00.hyperlinks.json) |
+| [September 25 at 5:40 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-25T17:40:52.529732-05:00.hyperlinks.json) |
+| [September 25 at 5:40 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-25T05:40:17.391724-05:00.hyperlinks.json) |
+| [September 24 at 5:41 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-24T17:41:23.717694-05:00.hyperlinks.json) |
+| [September 24 at 5:42 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-24T05:42:36.747033-05:00.hyperlinks.json) |
+| [September 23 at 6:50 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-23T18:50:31.088393-05:00.hyperlinks.json) |
+| [September 23 at 5:47 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-23T05:47:00.502547-05:00.hyperlinks.json) |
+| [September 22 at 5:48 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-22T17:48:41.343836-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 71 accessibility trees with the Internet Archive.
+The archiving routine has saved 88 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 5:46 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-19T05:46:50.904754-05:00.accessibility.json) |
-| [September 18 at 5:48 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-18T17:48:24.679030-05:00.accessibility.json) |
-| [September 18 at 5:49 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-18T05:49:30.027401-05:00.accessibility.json) |
-| [September 17 at 5:51 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-17T17:51:06.019143-05:00.accessibility.json) |
-| [September 17 at 5:48 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-17T05:48:30.769901-05:00.accessibility.json) |
-| [September 16 at 5:50 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-16T17:50:52.805011-05:00.accessibility.json) |
-| [September 16 at 5:51 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-16T05:51:25.397918-05:00.accessibility.json) |
-| [September 15 at 5:53 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-15T17:53:08.678410-05:00.accessibility.json) |
-| [September 15 at 5:52 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-15T05:52:40.798572-05:00.accessibility.json) |
-| [September 14 at 5:59 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-14T17:59:21.179358-05:00.accessibility.json) |
+| [September 27 at 5:54 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-27T05:54:19.745702-05:00.accessibility.json) |
+| [September 26 at 5:53 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-26T17:53:02.105522-05:00.accessibility.json) |
+| [September 26 at 5:53 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-26T05:52:51.799437-05:00.accessibility.json) |
+| [September 25 at 5:40 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-25T17:40:52.529732-05:00.accessibility.json) |
+| [September 25 at 5:40 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-25T05:40:17.391724-05:00.accessibility.json) |
+| [September 24 at 5:41 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-24T17:41:23.717694-05:00.accessibility.json) |
+| [September 24 at 5:42 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-24T05:42:36.747033-05:00.accessibility.json) |
+| [September 23 at 6:50 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-23T18:50:31.088393-05:00.accessibility.json) |
+| [September 23 at 5:47 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-23T05:47:00.502547-05:00.accessibility.json) |
+| [September 22 at 5:48 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-22T17:48:41.343836-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 71 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 88 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 5:46 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-19T05:46:50.904754-05:00.lighthouse.json) |
-| [September 18 at 5:48 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-18T17:48:24.679030-05:00.lighthouse.json) |
-| [September 18 at 5:49 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-18T05:49:30.027401-05:00.lighthouse.json) |
-| [September 17 at 5:51 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-17T17:51:06.019143-05:00.lighthouse.json) |
-| [September 17 at 5:48 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-17T05:48:30.769901-05:00.lighthouse.json) |
-| [September 16 at 5:51 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-16T17:50:52.805011-05:00.lighthouse.json) |
-| [September 16 at 5:51 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-16T05:51:25.397918-05:00.lighthouse.json) |
-| [September 15 at 5:53 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-15T17:53:08.678410-05:00.lighthouse.json) |
-| [September 15 at 5:52 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-15T05:52:40.798572-05:00.lighthouse.json) |
-| [September 14 at 5:59 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-14T17:59:21.179358-05:00.lighthouse.json) |
+| [September 27 at 5:54 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-27T05:54:19.745702-05:00.lighthouse.json) |
+| [September 26 at 5:53 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-26T17:53:02.105522-05:00.lighthouse.json) |
+| [September 26 at 5:53 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-26T05:52:51.799437-05:00.lighthouse.json) |
+| [September 25 at 5:40 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-25T17:40:52.529732-05:00.lighthouse.json) |
+| [September 25 at 5:40 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-25T05:40:17.391724-05:00.lighthouse.json) |
+| [September 24 at 5:41 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-24T17:41:23.717694-05:00.lighthouse.json) |
+| [September 24 at 5:42 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-24T05:42:36.747033-05:00.lighthouse.json) |
+| [September 23 at 6:50 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-23T18:50:31.088393-05:00.lighthouse.json) |
+| [September 23 at 5:47 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-23T05:47:00.502547-05:00.lighthouse.json) |
+| [September 22 at 5:48 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-22T17:48:41.343836-05:00.lighthouse.json) |
 
 
 

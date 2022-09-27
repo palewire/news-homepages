@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 113 screenshots with the Internet Archive.
+The archiving routine has saved 130 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/blaw-2022/blaw-2022-09-19T06:49:16.803477-04:00.jpg">
-  <img src="https://archive.org/download/blaw-2022/blaw-2022-09-19T06:49:16.803477-04:00.jpg"
-     alt="Bloomberg Law at 2022-09-19 06:49:32-04:00 local time"
+ <a href="https://archive.org/download/blaw-2022/blaw-2022-09-27T06:55:28.250831-04:00.jpg">
+  <img src="https://archive.org/download/blaw-2022/blaw-2022-09-27T06:55:28.250831-04:00.jpg"
+     alt="Bloomberg Law at 2022-09-27 06:55:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blaw-2022/blaw-2022-09-19T06:49:16.803477-04:00.jpg">September 19 at 6:49 AM</a></p>
+ <p><a href="https://archive.org/download/blaw-2022/blaw-2022-09-27T06:55:28.250831-04:00.jpg">September 27 at 6:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/blaw-2022/blaw-2022-09-18T18:50:01.836234-04:00.jpg">
-  <img src="https://archive.org/download/blaw-2022/blaw-2022-09-18T18:50:01.836234-04:00.jpg"
-     alt="Bloomberg Law at 2022-09-18 18:50:04-04:00 local time"
+ <a href="https://archive.org/download/blaw-2022/blaw-2022-09-26T18:51:51.865753-04:00.jpg">
+  <img src="https://archive.org/download/blaw-2022/blaw-2022-09-26T18:51:51.865753-04:00.jpg"
+     alt="Bloomberg Law at 2022-09-26 18:51:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blaw-2022/blaw-2022-09-18T18:50:01.836234-04:00.jpg">September 18 at 6:50 PM</a></p>
+ <p><a href="https://archive.org/download/blaw-2022/blaw-2022-09-26T18:51:51.865753-04:00.jpg">September 26 at 6:51 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/blaw-2022/blaw-2022-09-18T06:51:17.715391-04:00.jpg">
-  <img src="https://archive.org/download/blaw-2022/blaw-2022-09-18T06:51:17.715391-04:00.jpg"
-     alt="Bloomberg Law at 2022-09-18 06:51:19-04:00 local time"
+ <a href="https://archive.org/download/blaw-2022/blaw-2022-09-26T06:54:49.668551-04:00.jpg">
+  <img src="https://archive.org/download/blaw-2022/blaw-2022-09-26T06:54:49.668551-04:00.jpg"
+     alt="Bloomberg Law at 2022-09-26 06:54:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blaw-2022/blaw-2022-09-18T06:51:17.715391-04:00.jpg">September 18 at 6:51 AM</a></p>
+ <p><a href="https://archive.org/download/blaw-2022/blaw-2022-09-26T06:54:49.668551-04:00.jpg">September 26 at 6:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/blaw-2022/blaw-2022-09-17T18:53:55.546802-04:00.jpg">
-  <img src="https://archive.org/download/blaw-2022/blaw-2022-09-17T18:53:55.546802-04:00.jpg"
-     alt="Bloomberg Law at 2022-09-17 18:54:05-04:00 local time"
+ <a href="https://archive.org/download/blaw-2022/blaw-2022-09-25T18:42:52.138209-04:00.jpg">
+  <img src="https://archive.org/download/blaw-2022/blaw-2022-09-25T18:42:52.138209-04:00.jpg"
+     alt="Bloomberg Law at 2022-09-25 18:42:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blaw-2022/blaw-2022-09-17T18:53:55.546802-04:00.jpg">September 17 at 6:54 PM</a></p>
+ <p><a href="https://archive.org/download/blaw-2022/blaw-2022-09-25T18:42:52.138209-04:00.jpg">September 25 at 6:42 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/blaw-2022/blaw-2022-09-17T06:50:29.311518-04:00.jpg">
-  <img src="https://archive.org/download/blaw-2022/blaw-2022-09-17T06:50:29.311518-04:00.jpg"
-     alt="Bloomberg Law at 2022-09-17 06:50:30-04:00 local time"
+ <a href="https://archive.org/download/blaw-2022/blaw-2022-09-25T06:42:00.802777-04:00.jpg">
+  <img src="https://archive.org/download/blaw-2022/blaw-2022-09-25T06:42:00.802777-04:00.jpg"
+     alt="Bloomberg Law at 2022-09-25 06:42:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blaw-2022/blaw-2022-09-17T06:50:29.311518-04:00.jpg">September 17 at 6:50 AM</a></p>
+ <p><a href="https://archive.org/download/blaw-2022/blaw-2022-09-25T06:42:00.802777-04:00.jpg">September 25 at 6:42 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/blaw-2022/blaw-2022-09-16T18:52:38.063755-04:00.jpg">
-  <img src="https://archive.org/download/blaw-2022/blaw-2022-09-16T18:52:38.063755-04:00.jpg"
-     alt="Bloomberg Law at 2022-09-16 18:52:47-04:00 local time"
+ <a href="https://archive.org/download/blaw-2022/blaw-2022-09-24T18:42:06.150317-04:00.jpg">
+  <img src="https://archive.org/download/blaw-2022/blaw-2022-09-24T18:42:06.150317-04:00.jpg"
+     alt="Bloomberg Law at 2022-09-24 18:42:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blaw-2022/blaw-2022-09-16T18:52:38.063755-04:00.jpg">September 16 at 6:52 PM</a></p>
+ <p><a href="https://archive.org/download/blaw-2022/blaw-2022-09-24T18:42:06.150317-04:00.jpg">September 24 at 6:42 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/blaw-2022/blaw-2022-09-16T06:53:19.799737-04:00.jpg">
-  <img src="https://archive.org/download/blaw-2022/blaw-2022-09-16T06:53:19.799737-04:00.jpg"
-     alt="Bloomberg Law at 2022-09-16 06:53:21-04:00 local time"
+ <a href="https://archive.org/download/blaw-2022/blaw-2022-09-24T06:44:23.075079-04:00.jpg">
+  <img src="https://archive.org/download/blaw-2022/blaw-2022-09-24T06:44:23.075079-04:00.jpg"
+     alt="Bloomberg Law at 2022-09-24 06:44:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blaw-2022/blaw-2022-09-16T06:53:19.799737-04:00.jpg">September 16 at 6:53 AM</a></p>
+ <p><a href="https://archive.org/download/blaw-2022/blaw-2022-09-24T06:44:23.075079-04:00.jpg">September 24 at 6:44 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/blaw-2022/blaw-2022-09-15T18:54:57.555691-04:00.jpg">
-  <img src="https://archive.org/download/blaw-2022/blaw-2022-09-15T18:54:57.555691-04:00.jpg"
-     alt="Bloomberg Law at 2022-09-15 18:55:04-04:00 local time"
+ <a href="https://archive.org/download/blaw-2022/blaw-2022-09-23T19:52:13.751682-04:00.jpg">
+  <img src="https://archive.org/download/blaw-2022/blaw-2022-09-23T19:52:13.751682-04:00.jpg"
+     alt="Bloomberg Law at 2022-09-23 19:52:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blaw-2022/blaw-2022-09-15T18:54:57.555691-04:00.jpg">September 15 at 6:55 PM</a></p>
+ <p><a href="https://archive.org/download/blaw-2022/blaw-2022-09-23T19:52:13.751682-04:00.jpg">September 23 at 7:52 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/blaw-2022/blaw-2022-09-15T06:54:52.253242-04:00.jpg">
-  <img src="https://archive.org/download/blaw-2022/blaw-2022-09-15T06:54:52.253242-04:00.jpg"
-     alt="Bloomberg Law at 2022-09-15 06:54:58-04:00 local time"
+ <a href="https://archive.org/download/blaw-2022/blaw-2022-09-23T06:49:22.260909-04:00.jpg">
+  <img src="https://archive.org/download/blaw-2022/blaw-2022-09-23T06:49:22.260909-04:00.jpg"
+     alt="Bloomberg Law at 2022-09-23 06:49:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blaw-2022/blaw-2022-09-15T06:54:52.253242-04:00.jpg">September 15 at 6:54 AM</a></p>
+ <p><a href="https://archive.org/download/blaw-2022/blaw-2022-09-23T06:49:22.260909-04:00.jpg">September 23 at 6:49 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/blaw-2022/blaw-2022-09-14T19:01:12.440514-04:00.jpg">
-  <img src="https://archive.org/download/blaw-2022/blaw-2022-09-14T19:01:12.440514-04:00.jpg"
-     alt="Bloomberg Law at 2022-09-14 19:01:19-04:00 local time"
+ <a href="https://archive.org/download/blaw-2022/blaw-2022-09-22T18:51:22.238290-04:00.jpg">
+  <img src="https://archive.org/download/blaw-2022/blaw-2022-09-22T18:51:22.238290-04:00.jpg"
+     alt="Bloomberg Law at 2022-09-22 18:51:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blaw-2022/blaw-2022-09-14T19:01:12.440514-04:00.jpg">September 14 at 7:01 PM</a></p>
+ <p><a href="https://archive.org/download/blaw-2022/blaw-2022-09-22T18:51:22.238290-04:00.jpg">September 22 at 6:51 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/blaw-2022/blaw-2022-09-14T06:54:21.061927-04:00.jpg">
-  <img src="https://archive.org/download/blaw-2022/blaw-2022-09-14T06:54:21.061927-04:00.jpg"
-     alt="Bloomberg Law at 2022-09-14 06:54:25-04:00 local time"
+ <a href="https://archive.org/download/blaw-2022/blaw-2022-09-22T06:51:46.185573-04:00.jpg">
+  <img src="https://archive.org/download/blaw-2022/blaw-2022-09-22T06:51:46.185573-04:00.jpg"
+     alt="Bloomberg Law at 2022-09-22 06:51:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blaw-2022/blaw-2022-09-14T06:54:21.061927-04:00.jpg">September 14 at 6:54 AM</a></p>
+ <p><a href="https://archive.org/download/blaw-2022/blaw-2022-09-22T06:51:46.185573-04:00.jpg">September 22 at 6:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/blaw-2022/blaw-2022-09-13T19:00:23.419612-04:00.jpg">
-  <img src="https://archive.org/download/blaw-2022/blaw-2022-09-13T19:00:23.419612-04:00.jpg"
-     alt="Bloomberg Law at 2022-09-13 19:00:27-04:00 local time"
+ <a href="https://archive.org/download/blaw-2022/blaw-2022-09-21T18:56:55.248419-04:00.jpg">
+  <img src="https://archive.org/download/blaw-2022/blaw-2022-09-21T18:56:55.248419-04:00.jpg"
+     alt="Bloomberg Law at 2022-09-21 18:57:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/blaw-2022/blaw-2022-09-13T19:00:23.419612-04:00.jpg">September 13 at 7:00 PM</a></p>
+ <p><a href="https://archive.org/download/blaw-2022/blaw-2022-09-21T18:56:55.248419-04:00.jpg">September 21 at 6:57 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 113 hyperlink lists with the Internet Archive.
+The archiving routine has saved 130 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 6:49 AM](https://archive.org/download/blaw-2022/blaw-2022-09-19T06:49:16.803477-04:00.hyperlinks.json) |
-| [September 18 at 6:50 PM](https://archive.org/download/blaw-2022/blaw-2022-09-18T18:50:01.836234-04:00.hyperlinks.json) |
-| [September 18 at 6:51 AM](https://archive.org/download/blaw-2022/blaw-2022-09-18T06:51:17.715391-04:00.hyperlinks.json) |
-| [September 17 at 6:54 PM](https://archive.org/download/blaw-2022/blaw-2022-09-17T18:53:55.546802-04:00.hyperlinks.json) |
-| [September 17 at 6:50 AM](https://archive.org/download/blaw-2022/blaw-2022-09-17T06:50:29.311518-04:00.hyperlinks.json) |
-| [September 16 at 6:52 PM](https://archive.org/download/blaw-2022/blaw-2022-09-16T18:52:38.063755-04:00.hyperlinks.json) |
-| [September 16 at 6:53 AM](https://archive.org/download/blaw-2022/blaw-2022-09-16T06:53:19.799737-04:00.hyperlinks.json) |
-| [September 15 at 6:55 PM](https://archive.org/download/blaw-2022/blaw-2022-09-15T18:54:57.555691-04:00.hyperlinks.json) |
-| [September 15 at 6:55 AM](https://archive.org/download/blaw-2022/blaw-2022-09-15T06:54:52.253242-04:00.hyperlinks.json) |
-| [September 14 at 7:01 PM](https://archive.org/download/blaw-2022/blaw-2022-09-14T19:01:12.440514-04:00.hyperlinks.json) |
+| [September 27 at 6:55 AM](https://archive.org/download/blaw-2022/blaw-2022-09-27T06:55:28.250831-04:00.hyperlinks.json) |
+| [September 26 at 6:52 PM](https://archive.org/download/blaw-2022/blaw-2022-09-26T18:51:51.865753-04:00.hyperlinks.json) |
+| [September 26 at 6:54 AM](https://archive.org/download/blaw-2022/blaw-2022-09-26T06:54:49.668551-04:00.hyperlinks.json) |
+| [September 25 at 6:43 PM](https://archive.org/download/blaw-2022/blaw-2022-09-25T18:42:52.138209-04:00.hyperlinks.json) |
+| [September 25 at 6:42 AM](https://archive.org/download/blaw-2022/blaw-2022-09-25T06:42:00.802777-04:00.hyperlinks.json) |
+| [September 24 at 6:42 PM](https://archive.org/download/blaw-2022/blaw-2022-09-24T18:42:06.150317-04:00.hyperlinks.json) |
+| [September 24 at 6:44 AM](https://archive.org/download/blaw-2022/blaw-2022-09-24T06:44:23.075079-04:00.hyperlinks.json) |
+| [September 23 at 7:52 PM](https://archive.org/download/blaw-2022/blaw-2022-09-23T19:52:13.751682-04:00.hyperlinks.json) |
+| [September 23 at 6:49 AM](https://archive.org/download/blaw-2022/blaw-2022-09-23T06:49:22.260909-04:00.hyperlinks.json) |
+| [September 22 at 6:51 PM](https://archive.org/download/blaw-2022/blaw-2022-09-22T18:51:22.238290-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 113 accessibility trees with the Internet Archive.
+The archiving routine has saved 130 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 6:49 AM](https://archive.org/download/blaw-2022/blaw-2022-09-19T06:49:16.803477-04:00.accessibility.json) |
-| [September 18 at 6:50 PM](https://archive.org/download/blaw-2022/blaw-2022-09-18T18:50:01.836234-04:00.accessibility.json) |
-| [September 18 at 6:51 AM](https://archive.org/download/blaw-2022/blaw-2022-09-18T06:51:17.715391-04:00.accessibility.json) |
-| [September 17 at 6:54 PM](https://archive.org/download/blaw-2022/blaw-2022-09-17T18:53:55.546802-04:00.accessibility.json) |
-| [September 17 at 6:50 AM](https://archive.org/download/blaw-2022/blaw-2022-09-17T06:50:29.311518-04:00.accessibility.json) |
-| [September 16 at 6:52 PM](https://archive.org/download/blaw-2022/blaw-2022-09-16T18:52:38.063755-04:00.accessibility.json) |
-| [September 16 at 6:53 AM](https://archive.org/download/blaw-2022/blaw-2022-09-16T06:53:19.799737-04:00.accessibility.json) |
-| [September 15 at 6:55 PM](https://archive.org/download/blaw-2022/blaw-2022-09-15T18:54:57.555691-04:00.accessibility.json) |
-| [September 15 at 6:55 AM](https://archive.org/download/blaw-2022/blaw-2022-09-15T06:54:52.253242-04:00.accessibility.json) |
-| [September 14 at 7:01 PM](https://archive.org/download/blaw-2022/blaw-2022-09-14T19:01:12.440514-04:00.accessibility.json) |
+| [September 27 at 6:55 AM](https://archive.org/download/blaw-2022/blaw-2022-09-27T06:55:28.250831-04:00.accessibility.json) |
+| [September 26 at 6:51 PM](https://archive.org/download/blaw-2022/blaw-2022-09-26T18:51:51.865753-04:00.accessibility.json) |
+| [September 26 at 6:54 AM](https://archive.org/download/blaw-2022/blaw-2022-09-26T06:54:49.668551-04:00.accessibility.json) |
+| [September 25 at 6:42 PM](https://archive.org/download/blaw-2022/blaw-2022-09-25T18:42:52.138209-04:00.accessibility.json) |
+| [September 25 at 6:42 AM](https://archive.org/download/blaw-2022/blaw-2022-09-25T06:42:00.802777-04:00.accessibility.json) |
+| [September 24 at 6:42 PM](https://archive.org/download/blaw-2022/blaw-2022-09-24T18:42:06.150317-04:00.accessibility.json) |
+| [September 24 at 6:44 AM](https://archive.org/download/blaw-2022/blaw-2022-09-24T06:44:23.075079-04:00.accessibility.json) |
+| [September 23 at 7:52 PM](https://archive.org/download/blaw-2022/blaw-2022-09-23T19:52:13.751682-04:00.accessibility.json) |
+| [September 23 at 6:49 AM](https://archive.org/download/blaw-2022/blaw-2022-09-23T06:49:22.260909-04:00.accessibility.json) |
+| [September 22 at 6:51 PM](https://archive.org/download/blaw-2022/blaw-2022-09-22T18:51:22.238290-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 113 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 130 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 6:49 AM](https://archive.org/download/blaw-2022/blaw-2022-09-19T06:49:16.803477-04:00.lighthouse.json) |
-| [September 18 at 6:50 PM](https://archive.org/download/blaw-2022/blaw-2022-09-18T18:50:01.836234-04:00.lighthouse.json) |
-| [September 18 at 6:51 AM](https://archive.org/download/blaw-2022/blaw-2022-09-18T06:51:17.715391-04:00.lighthouse.json) |
-| [September 17 at 6:54 PM](https://archive.org/download/blaw-2022/blaw-2022-09-17T18:53:55.546802-04:00.lighthouse.json) |
-| [September 17 at 6:50 AM](https://archive.org/download/blaw-2022/blaw-2022-09-17T06:50:29.311518-04:00.lighthouse.json) |
-| [September 16 at 6:52 PM](https://archive.org/download/blaw-2022/blaw-2022-09-16T18:52:38.063755-04:00.lighthouse.json) |
-| [September 16 at 6:53 AM](https://archive.org/download/blaw-2022/blaw-2022-09-16T06:53:19.799737-04:00.lighthouse.json) |
-| [September 15 at 6:55 PM](https://archive.org/download/blaw-2022/blaw-2022-09-15T18:54:57.555691-04:00.lighthouse.json) |
-| [September 15 at 6:55 AM](https://archive.org/download/blaw-2022/blaw-2022-09-15T06:54:52.253242-04:00.lighthouse.json) |
-| [September 14 at 7:01 PM](https://archive.org/download/blaw-2022/blaw-2022-09-14T19:01:12.440514-04:00.lighthouse.json) |
+| [September 27 at 6:55 AM](https://archive.org/download/blaw-2022/blaw-2022-09-27T06:55:28.250831-04:00.lighthouse.json) |
+| [September 26 at 6:52 PM](https://archive.org/download/blaw-2022/blaw-2022-09-26T18:51:51.865753-04:00.lighthouse.json) |
+| [September 26 at 6:55 AM](https://archive.org/download/blaw-2022/blaw-2022-09-26T06:54:49.668551-04:00.lighthouse.json) |
+| [September 25 at 6:43 PM](https://archive.org/download/blaw-2022/blaw-2022-09-25T18:42:52.138209-04:00.lighthouse.json) |
+| [September 25 at 6:42 AM](https://archive.org/download/blaw-2022/blaw-2022-09-25T06:42:00.802777-04:00.lighthouse.json) |
+| [September 24 at 6:42 PM](https://archive.org/download/blaw-2022/blaw-2022-09-24T18:42:06.150317-04:00.lighthouse.json) |
+| [September 24 at 6:44 AM](https://archive.org/download/blaw-2022/blaw-2022-09-24T06:44:23.075079-04:00.lighthouse.json) |
+| [September 23 at 7:52 PM](https://archive.org/download/blaw-2022/blaw-2022-09-23T19:52:13.751682-04:00.lighthouse.json) |
+| [September 23 at 6:49 AM](https://archive.org/download/blaw-2022/blaw-2022-09-23T06:49:22.260909-04:00.lighthouse.json) |
+| [September 22 at 6:51 PM](https://archive.org/download/blaw-2022/blaw-2022-09-22T18:51:22.238290-04:00.lighthouse.json) |
 
 
 

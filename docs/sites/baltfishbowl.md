@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 139 screenshots with the Internet Archive.
+The archiving routine has saved 154 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-19T10:57:15.903412-04:00.jpg">
-  <img src="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-19T10:57:15.903412-04:00.jpg"
-     alt="Baltimore Fishbowl at 2022-09-19 10:57:17-04:00 local time"
+ <a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-27T00:28:27.300164-04:00.jpg">
+  <img src="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-27T00:28:27.300164-04:00.jpg"
+     alt="Baltimore Fishbowl at 2022-09-27 00:28:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-19T10:57:15.903412-04:00.jpg">September 19 at 10:57 AM</a></p>
+ <p><a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-27T00:28:27.300164-04:00.jpg">September 27 at 12:28 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-18T23:40:19.910687-04:00.jpg">
-  <img src="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-18T23:40:19.910687-04:00.jpg"
-     alt="Baltimore Fishbowl at 2022-09-18 23:40:21-04:00 local time"
+ <a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-26T12:05:13.001676-04:00.jpg">
+  <img src="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-26T12:05:13.001676-04:00.jpg"
+     alt="Baltimore Fishbowl at 2022-09-26 12:05:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-18T23:40:19.910687-04:00.jpg">September 18 at 11:40 PM</a></p>
+ <p><a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-26T12:05:13.001676-04:00.jpg">September 26 at 12:05 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-18T09:59:04.572046-04:00.jpg">
-  <img src="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-18T09:59:04.572046-04:00.jpg"
-     alt="Baltimore Fishbowl at 2022-09-18 09:59:10-04:00 local time"
+ <a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-26T00:42:16.863433-04:00.jpg">
+  <img src="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-26T00:42:16.863433-04:00.jpg"
+     alt="Baltimore Fishbowl at 2022-09-26 00:42:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-18T09:59:04.572046-04:00.jpg">September 18 at 9:59 AM</a></p>
+ <p><a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-26T00:42:16.863433-04:00.jpg">September 26 at 12:42 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-17T22:25:26.482916-04:00.jpg">
-  <img src="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-17T22:25:26.482916-04:00.jpg"
-     alt="Baltimore Fishbowl at 2022-09-17 22:25:32-04:00 local time"
+ <a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-25T11:51:13.951833-04:00.jpg">
+  <img src="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-25T11:51:13.951833-04:00.jpg"
+     alt="Baltimore Fishbowl at 2022-09-25 11:51:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-17T22:25:26.482916-04:00.jpg">September 17 at 10:25 PM</a></p>
+ <p><a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-25T11:51:13.951833-04:00.jpg">September 25 at 11:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-17T09:57:56.136655-04:00.jpg">
-  <img src="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-17T09:57:56.136655-04:00.jpg"
-     alt="Baltimore Fishbowl at 2022-09-17 09:58:01-04:00 local time"
+ <a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-25T00:27:52.768246-04:00.jpg">
+  <img src="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-25T00:27:52.768246-04:00.jpg"
+     alt="Baltimore Fishbowl at 2022-09-25 00:27:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-17T09:57:56.136655-04:00.jpg">September 17 at 9:58 AM</a></p>
+ <p><a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-25T00:27:52.768246-04:00.jpg">September 25 at 12:27 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-16T22:22:56.012555-04:00.jpg">
-  <img src="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-16T22:22:56.012555-04:00.jpg"
-     alt="Baltimore Fishbowl at 2022-09-16 22:22:58-04:00 local time"
+ <a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-24T11:48:53.103153-04:00.jpg">
+  <img src="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-24T11:48:53.103153-04:00.jpg"
+     alt="Baltimore Fishbowl at 2022-09-24 11:48:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-16T22:22:56.012555-04:00.jpg">September 16 at 10:22 PM</a></p>
+ <p><a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-24T11:48:53.103153-04:00.jpg">September 24 at 11:48 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-16T10:03:34.153392-04:00.jpg">
-  <img src="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-16T10:03:34.153392-04:00.jpg"
-     alt="Baltimore Fishbowl at 2022-09-16 10:03:50-04:00 local time"
+ <a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-24T00:31:02.259097-04:00.jpg">
+  <img src="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-24T00:31:02.259097-04:00.jpg"
+     alt="Baltimore Fishbowl at 2022-09-24 00:31:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-16T10:03:34.153392-04:00.jpg">September 16 at 10:03 AM</a></p>
+ <p><a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-24T00:31:02.259097-04:00.jpg">September 24 at 12:31 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-15T22:23:03.799401-04:00.jpg">
-  <img src="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-15T22:23:03.799401-04:00.jpg"
-     alt="Baltimore Fishbowl at 2022-09-15 22:23:32-04:00 local time"
+ <a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-23T11:57:54.990716-04:00.jpg">
+  <img src="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-23T11:57:54.990716-04:00.jpg"
+     alt="Baltimore Fishbowl at 2022-09-23 11:58:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-15T22:23:03.799401-04:00.jpg">September 15 at 10:23 PM</a></p>
+ <p><a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-23T11:57:54.990716-04:00.jpg">September 23 at 11:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-15T10:09:43.050056-04:00.jpg">
-  <img src="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-15T10:09:43.050056-04:00.jpg"
-     alt="Baltimore Fishbowl at 2022-09-15 10:09:52-04:00 local time"
+ <a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-23T01:11:09.128788-04:00.jpg">
+  <img src="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-23T01:11:09.128788-04:00.jpg"
+     alt="Baltimore Fishbowl at 2022-09-23 01:11:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-15T10:09:43.050056-04:00.jpg">September 15 at 10:09 AM</a></p>
+ <p><a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-23T01:11:09.128788-04:00.jpg">September 23 at 1:11 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-14T22:25:44.235533-04:00.jpg">
-  <img src="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-14T22:25:44.235533-04:00.jpg"
-     alt="Baltimore Fishbowl at 2022-09-14 22:25:50-04:00 local time"
+ <a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-22T11:58:20.031821-04:00.jpg">
+  <img src="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-22T11:58:20.031821-04:00.jpg"
+     alt="Baltimore Fishbowl at 2022-09-22 11:58:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-14T22:25:44.235533-04:00.jpg">September 14 at 10:25 PM</a></p>
+ <p><a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-22T11:58:20.031821-04:00.jpg">September 22 at 11:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-14T10:10:48.924588-04:00.jpg">
-  <img src="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-14T10:10:48.924588-04:00.jpg"
-     alt="Baltimore Fishbowl at 2022-09-14 10:10:54-04:00 local time"
+ <a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-22T00:35:24.708604-04:00.jpg">
+  <img src="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-22T00:35:24.708604-04:00.jpg"
+     alt="Baltimore Fishbowl at 2022-09-22 00:35:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-14T10:10:48.924588-04:00.jpg">September 14 at 10:10 AM</a></p>
+ <p><a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-22T00:35:24.708604-04:00.jpg">September 22 at 12:35 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-13T22:23:34.796539-04:00.jpg">
-  <img src="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-13T22:23:34.796539-04:00.jpg"
-     alt="Baltimore Fishbowl at 2022-09-13 22:23:40-04:00 local time"
+ <a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-21T12:01:51.739462-04:00.jpg">
+  <img src="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-21T12:01:51.739462-04:00.jpg"
+     alt="Baltimore Fishbowl at 2022-09-21 12:02:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-13T22:23:34.796539-04:00.jpg">September 13 at 10:23 PM</a></p>
+ <p><a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-21T12:01:51.739462-04:00.jpg">September 21 at 12:02 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 140 hyperlink lists with the Internet Archive.
+The archiving routine has saved 155 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 10:57 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-19T10:57:15.903412-04:00.hyperlinks.json) |
-| [September 18 at 11:40 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-18T23:40:19.910687-04:00.hyperlinks.json) |
-| [September 18 at 9:59 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-18T09:59:04.572046-04:00.hyperlinks.json) |
-| [September 17 at 10:25 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-17T22:25:26.482916-04:00.hyperlinks.json) |
-| [September 17 at 9:58 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-17T09:57:56.136655-04:00.hyperlinks.json) |
-| [September 16 at 10:23 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-16T22:22:56.012555-04:00.hyperlinks.json) |
-| [September 16 at 10:03 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-16T10:03:34.153392-04:00.hyperlinks.json) |
-| [September 15 at 10:23 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-15T22:23:03.799401-04:00.hyperlinks.json) |
-| [September 15 at 10:09 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-15T10:09:43.050056-04:00.hyperlinks.json) |
-| [September 14 at 10:25 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-14T22:25:44.235533-04:00.hyperlinks.json) |
+| [September 27 at 12:28 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-27T00:28:27.300164-04:00.hyperlinks.json) |
+| [September 26 at 12:05 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-26T12:05:13.001676-04:00.hyperlinks.json) |
+| [September 26 at 12:42 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-26T00:42:16.863433-04:00.hyperlinks.json) |
+| [September 25 at 11:51 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-25T11:51:13.951833-04:00.hyperlinks.json) |
+| [September 25 at 12:28 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-25T00:27:52.768246-04:00.hyperlinks.json) |
+| [September 24 at 11:49 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-24T11:48:53.103153-04:00.hyperlinks.json) |
+| [September 24 at 12:31 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-24T00:31:02.259097-04:00.hyperlinks.json) |
+| [September 23 at 11:58 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-23T11:57:54.990716-04:00.hyperlinks.json) |
+| [September 23 at 1:11 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-23T01:11:09.128788-04:00.hyperlinks.json) |
+| [September 22 at 11:58 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-22T11:58:20.031821-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 140 accessibility trees with the Internet Archive.
+The archiving routine has saved 155 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 10:57 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-19T10:57:15.903412-04:00.accessibility.json) |
-| [September 18 at 11:40 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-18T23:40:19.910687-04:00.accessibility.json) |
-| [September 18 at 9:59 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-18T09:59:04.572046-04:00.accessibility.json) |
-| [September 17 at 10:25 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-17T22:25:26.482916-04:00.accessibility.json) |
-| [September 17 at 9:58 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-17T09:57:56.136655-04:00.accessibility.json) |
-| [September 16 at 10:22 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-16T22:22:56.012555-04:00.accessibility.json) |
-| [September 16 at 10:03 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-16T10:03:34.153392-04:00.accessibility.json) |
-| [September 15 at 10:23 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-15T22:23:03.799401-04:00.accessibility.json) |
-| [September 15 at 10:09 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-15T10:09:43.050056-04:00.accessibility.json) |
-| [September 14 at 10:25 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-14T22:25:44.235533-04:00.accessibility.json) |
+| [September 27 at 12:28 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-27T00:28:27.300164-04:00.accessibility.json) |
+| [September 26 at 12:05 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-26T12:05:13.001676-04:00.accessibility.json) |
+| [September 26 at 12:42 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-26T00:42:16.863433-04:00.accessibility.json) |
+| [September 25 at 11:51 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-25T11:51:13.951833-04:00.accessibility.json) |
+| [September 25 at 12:28 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-25T00:27:52.768246-04:00.accessibility.json) |
+| [September 24 at 11:49 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-24T11:48:53.103153-04:00.accessibility.json) |
+| [September 24 at 12:31 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-24T00:31:02.259097-04:00.accessibility.json) |
+| [September 23 at 11:58 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-23T11:57:54.990716-04:00.accessibility.json) |
+| [September 23 at 1:11 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-23T01:11:09.128788-04:00.accessibility.json) |
+| [September 22 at 11:58 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-22T11:58:20.031821-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 117 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 10:57 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-19T10:57:15.903412-04:00.lighthouse.json) |
-| [September 18 at 11:40 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-18T23:40:19.910687-04:00.lighthouse.json) |
-| [September 18 at 9:59 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-18T09:59:04.572046-04:00.lighthouse.json) |
-| [September 17 at 10:25 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-17T22:25:26.482916-04:00.lighthouse.json) |
-| [September 17 at 9:58 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-17T09:57:56.136655-04:00.lighthouse.json) |
-| [September 16 at 10:23 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-16T22:22:56.012555-04:00.lighthouse.json) |
-| [September 16 at 10:03 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-16T10:03:34.153392-04:00.lighthouse.json) |
-| [September 15 at 10:23 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-15T22:23:03.799401-04:00.lighthouse.json) |
-| [September 15 at 10:10 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-15T10:09:43.050056-04:00.lighthouse.json) |
-| [September 14 at 10:25 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-14T22:25:44.235533-04:00.lighthouse.json) |
+| [September 27 at 12:28 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-27T00:28:27.300164-04:00.lighthouse.json) |
+| [September 26 at 12:05 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-26T12:05:13.001676-04:00.lighthouse.json) |
+| [September 26 at 12:42 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-26T00:42:16.863433-04:00.lighthouse.json) |
+| [September 25 at 11:51 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-25T11:51:13.951833-04:00.lighthouse.json) |
+| [September 25 at 12:28 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-25T00:27:52.768246-04:00.lighthouse.json) |
+| [September 24 at 11:49 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-24T11:48:53.103153-04:00.lighthouse.json) |
+| [September 24 at 12:31 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-24T00:31:02.259097-04:00.lighthouse.json) |
+| [September 23 at 11:58 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-23T11:57:54.990716-04:00.lighthouse.json) |
+| [September 23 at 1:11 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-23T01:11:09.128788-04:00.lighthouse.json) |
+| [September 22 at 11:58 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-22T11:58:20.031821-04:00.lighthouse.json) |
 
 
 

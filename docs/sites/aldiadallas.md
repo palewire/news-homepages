@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 113 screenshots with the Internet Archive.
+The archiving routine has saved 130 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-19T05:47:38.369402-05:00.jpg">
-  <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-19T05:47:38.369402-05:00.jpg"
-     alt="Al Dia Dallas at 2022-09-19 05:47:41-05:00 local time"
+ <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-27T05:53:42.195311-05:00.jpg">
+  <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-27T05:53:42.195311-05:00.jpg"
+     alt="Al Dia Dallas at 2022-09-27 05:53:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-19T05:47:38.369402-05:00.jpg">September 19 at 5:47 AM</a></p>
+ <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-27T05:53:42.195311-05:00.jpg">September 27 at 5:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-18T17:47:15.532909-05:00.jpg">
-  <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-18T17:47:15.532909-05:00.jpg"
-     alt="Al Dia Dallas at 2022-09-18 17:47:19-05:00 local time"
+ <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-26T17:49:58.842363-05:00.jpg">
+  <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-26T17:49:58.842363-05:00.jpg"
+     alt="Al Dia Dallas at 2022-09-26 17:50:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-18T17:47:15.532909-05:00.jpg">September 18 at 5:47 PM</a></p>
+ <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-26T17:49:58.842363-05:00.jpg">September 26 at 5:50 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-18T05:49:53.897185-05:00.jpg">
-  <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-18T05:49:53.897185-05:00.jpg"
-     alt="Al Dia Dallas at 2022-09-18 05:49:57-05:00 local time"
+ <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-26T05:52:00.191971-05:00.jpg">
+  <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-26T05:52:00.191971-05:00.jpg"
+     alt="Al Dia Dallas at 2022-09-26 05:52:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-18T05:49:53.897185-05:00.jpg">September 18 at 5:49 AM</a></p>
+ <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-26T05:52:00.191971-05:00.jpg">September 26 at 5:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-17T17:51:25.661046-05:00.jpg">
-  <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-17T17:51:25.661046-05:00.jpg"
-     alt="Al Dia Dallas at 2022-09-17 17:51:28-05:00 local time"
+ <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-25T17:41:16.936121-05:00.jpg">
+  <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-25T17:41:16.936121-05:00.jpg"
+     alt="Al Dia Dallas at 2022-09-25 17:41:21-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-17T17:51:25.661046-05:00.jpg">September 17 at 5:51 PM</a></p>
+ <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-25T17:41:16.936121-05:00.jpg">September 25 at 5:41 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-17T05:48:31.557636-05:00.jpg">
-  <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-17T05:48:31.557636-05:00.jpg"
-     alt="Al Dia Dallas at 2022-09-17 05:48:46-05:00 local time"
+ <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-25T05:40:33.003581-05:00.jpg">
+  <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-25T05:40:33.003581-05:00.jpg"
+     alt="Al Dia Dallas at 2022-09-25 05:40:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-17T05:48:31.557636-05:00.jpg">September 17 at 5:48 AM</a></p>
+ <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-25T05:40:33.003581-05:00.jpg">September 25 at 5:40 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-16T17:50:47.861974-05:00.jpg">
-  <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-16T17:50:47.861974-05:00.jpg"
-     alt="Al Dia Dallas at 2022-09-16 17:51:03-05:00 local time"
+ <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-24T17:40:17.754698-05:00.jpg">
+  <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-24T17:40:17.754698-05:00.jpg"
+     alt="Al Dia Dallas at 2022-09-24 17:40:26-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-16T17:50:47.861974-05:00.jpg">September 16 at 5:51 PM</a></p>
+ <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-24T17:40:17.754698-05:00.jpg">September 24 at 5:40 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-16T05:50:55.845562-05:00.jpg">
-  <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-16T05:50:55.845562-05:00.jpg"
-     alt="Al Dia Dallas at 2022-09-16 05:51:00-05:00 local time"
+ <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-24T05:43:07.438819-05:00.jpg">
+  <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-24T05:43:07.438819-05:00.jpg"
+     alt="Al Dia Dallas at 2022-09-24 05:43:22-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-16T05:50:55.845562-05:00.jpg">September 16 at 5:51 AM</a></p>
+ <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-24T05:43:07.438819-05:00.jpg">September 24 at 5:43 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-15T17:52:58.033861-05:00.jpg">
-  <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-15T17:52:58.033861-05:00.jpg"
-     alt="Al Dia Dallas at 2022-09-15 17:53:01-05:00 local time"
+ <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-23T18:50:38.308309-05:00.jpg">
+  <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-23T18:50:38.308309-05:00.jpg"
+     alt="Al Dia Dallas at 2022-09-23 18:50:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-15T17:52:58.033861-05:00.jpg">September 15 at 5:53 PM</a></p>
+ <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-23T18:50:38.308309-05:00.jpg">September 23 at 6:50 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-15T05:53:22.964416-05:00.jpg">
-  <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-15T05:53:22.964416-05:00.jpg"
-     alt="Al Dia Dallas at 2022-09-15 05:53:41-05:00 local time"
+ <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-23T05:46:59.039645-05:00.jpg">
+  <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-23T05:46:59.039645-05:00.jpg"
+     alt="Al Dia Dallas at 2022-09-23 05:47:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-15T05:53:22.964416-05:00.jpg">September 15 at 5:53 AM</a></p>
+ <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-23T05:46:59.039645-05:00.jpg">September 23 at 5:47 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-14T17:59:01.611009-05:00.jpg">
-  <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-14T17:59:01.611009-05:00.jpg"
-     alt="Al Dia Dallas at 2022-09-14 17:59:11-05:00 local time"
+ <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-22T17:48:35.946388-05:00.jpg">
+  <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-22T17:48:35.946388-05:00.jpg"
+     alt="Al Dia Dallas at 2022-09-22 17:48:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-14T17:59:01.611009-05:00.jpg">September 14 at 5:59 PM</a></p>
+ <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-22T17:48:35.946388-05:00.jpg">September 22 at 5:48 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-14T05:52:15.201270-05:00.jpg">
-  <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-14T05:52:15.201270-05:00.jpg"
-     alt="Al Dia Dallas at 2022-09-14 05:52:22-05:00 local time"
+ <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-22T05:50:14.708609-05:00.jpg">
+  <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-22T05:50:14.708609-05:00.jpg"
+     alt="Al Dia Dallas at 2022-09-22 05:50:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-14T05:52:15.201270-05:00.jpg">September 14 at 5:52 AM</a></p>
+ <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-22T05:50:14.708609-05:00.jpg">September 22 at 5:50 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-13T17:56:48.244296-05:00.jpg">
-  <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-13T17:56:48.244296-05:00.jpg"
-     alt="Al Dia Dallas at 2022-09-13 17:56:53-05:00 local time"
+ <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-21T17:54:33.110726-05:00.jpg">
+  <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-21T17:54:33.110726-05:00.jpg"
+     alt="Al Dia Dallas at 2022-09-21 17:54:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-13T17:56:48.244296-05:00.jpg">September 13 at 5:56 PM</a></p>
+ <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-21T17:54:33.110726-05:00.jpg">September 21 at 5:54 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 112 hyperlink lists with the Internet Archive.
+The archiving routine has saved 129 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 5:47 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-19T05:47:38.369402-05:00.hyperlinks.json) |
-| [September 18 at 5:47 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-18T17:47:15.532909-05:00.hyperlinks.json) |
-| [September 18 at 5:50 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-18T05:49:53.897185-05:00.hyperlinks.json) |
-| [September 17 at 5:51 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-17T17:51:25.661046-05:00.hyperlinks.json) |
-| [September 17 at 5:48 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-17T05:48:31.557636-05:00.hyperlinks.json) |
-| [September 16 at 5:51 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-16T17:50:47.861974-05:00.hyperlinks.json) |
-| [September 16 at 5:51 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-16T05:50:55.845562-05:00.hyperlinks.json) |
-| [September 15 at 5:53 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-15T17:52:58.033861-05:00.hyperlinks.json) |
-| [September 15 at 5:53 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-15T05:53:22.964416-05:00.hyperlinks.json) |
-| [September 14 at 5:59 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-14T17:59:01.611009-05:00.hyperlinks.json) |
+| [September 27 at 5:53 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-27T05:53:42.195311-05:00.hyperlinks.json) |
+| [September 26 at 5:50 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-26T17:49:58.842363-05:00.hyperlinks.json) |
+| [September 26 at 5:52 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-26T05:52:00.191971-05:00.hyperlinks.json) |
+| [September 25 at 5:41 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-25T17:41:16.936121-05:00.hyperlinks.json) |
+| [September 25 at 5:40 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-25T05:40:33.003581-05:00.hyperlinks.json) |
+| [September 24 at 5:40 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-24T17:40:17.754698-05:00.hyperlinks.json) |
+| [September 24 at 5:43 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-24T05:43:07.438819-05:00.hyperlinks.json) |
+| [September 23 at 6:50 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-23T18:50:38.308309-05:00.hyperlinks.json) |
+| [September 23 at 5:47 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-23T05:46:59.039645-05:00.hyperlinks.json) |
+| [September 22 at 5:48 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-22T17:48:35.946388-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 113 accessibility trees with the Internet Archive.
+The archiving routine has saved 130 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 5:47 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-19T05:47:38.369402-05:00.accessibility.json) |
-| [September 18 at 5:47 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-18T17:47:15.532909-05:00.accessibility.json) |
-| [September 18 at 5:49 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-18T05:49:53.897185-05:00.accessibility.json) |
-| [September 17 at 5:51 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-17T17:51:25.661046-05:00.accessibility.json) |
-| [September 17 at 5:48 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-17T05:48:31.557636-05:00.accessibility.json) |
-| [September 16 at 5:51 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-16T17:50:47.861974-05:00.accessibility.json) |
-| [September 16 at 5:51 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-16T05:50:55.845562-05:00.accessibility.json) |
-| [September 15 at 5:53 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-15T17:52:58.033861-05:00.accessibility.json) |
-| [September 15 at 5:53 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-15T05:53:22.964416-05:00.accessibility.json) |
-| [September 14 at 5:59 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-14T17:59:01.611009-05:00.accessibility.json) |
+| [September 27 at 5:53 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-27T05:53:42.195311-05:00.accessibility.json) |
+| [September 26 at 5:50 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-26T17:49:58.842363-05:00.accessibility.json) |
+| [September 26 at 5:52 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-26T05:52:00.191971-05:00.accessibility.json) |
+| [September 25 at 5:41 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-25T17:41:16.936121-05:00.accessibility.json) |
+| [September 25 at 5:40 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-25T05:40:33.003581-05:00.accessibility.json) |
+| [September 24 at 5:40 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-24T17:40:17.754698-05:00.accessibility.json) |
+| [September 24 at 5:43 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-24T05:43:07.438819-05:00.accessibility.json) |
+| [September 23 at 6:50 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-23T18:50:38.308309-05:00.accessibility.json) |
+| [September 23 at 5:47 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-23T05:46:59.039645-05:00.accessibility.json) |
+| [September 22 at 5:48 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-22T17:48:35.946388-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 111 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 128 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 5:47 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-19T05:47:38.369402-05:00.lighthouse.json) |
-| [September 18 at 5:47 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-18T17:47:15.532909-05:00.lighthouse.json) |
-| [September 18 at 5:50 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-18T05:49:53.897185-05:00.lighthouse.json) |
-| [September 17 at 5:51 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-17T17:51:25.661046-05:00.lighthouse.json) |
-| [September 17 at 5:48 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-17T05:48:31.557636-05:00.lighthouse.json) |
-| [September 16 at 5:51 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-16T17:50:47.861974-05:00.lighthouse.json) |
-| [September 16 at 5:51 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-16T05:50:55.845562-05:00.lighthouse.json) |
-| [September 15 at 5:53 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-15T17:52:58.033861-05:00.lighthouse.json) |
-| [September 15 at 5:53 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-15T05:53:22.964416-05:00.lighthouse.json) |
-| [September 14 at 5:59 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-14T17:59:01.611009-05:00.lighthouse.json) |
+| [September 27 at 5:53 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-27T05:53:42.195311-05:00.lighthouse.json) |
+| [September 26 at 5:50 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-26T17:49:58.842363-05:00.lighthouse.json) |
+| [September 26 at 5:52 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-26T05:52:00.191971-05:00.lighthouse.json) |
+| [September 25 at 5:41 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-25T17:41:16.936121-05:00.lighthouse.json) |
+| [September 25 at 5:40 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-25T05:40:33.003581-05:00.lighthouse.json) |
+| [September 24 at 5:40 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-24T17:40:17.754698-05:00.lighthouse.json) |
+| [September 24 at 5:43 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-24T05:43:07.438819-05:00.lighthouse.json) |
+| [September 23 at 6:50 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-23T18:50:38.308309-05:00.lighthouse.json) |
+| [September 23 at 5:47 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-23T05:46:59.039645-05:00.lighthouse.json) |
+| [September 22 at 5:48 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-09-22T17:48:35.946388-05:00.lighthouse.json) |
 
 
 

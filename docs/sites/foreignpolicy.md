@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 210 screenshots with the Internet Archive.
+The archiving routine has saved 227 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-19T07:56:01.035463-04:00.jpg">
-  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-19T07:56:01.035463-04:00.jpg"
-     alt="Foreign Policy at 2022-09-19 07:56:05-04:00 local time"
+ <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-27T07:55:45.830883-04:00.jpg">
+  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-27T07:55:45.830883-04:00.jpg"
+     alt="Foreign Policy at 2022-09-27 07:55:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-19T07:56:01.035463-04:00.jpg">September 19 at 7:56 AM</a></p>
+ <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-27T07:55:45.830883-04:00.jpg">September 27 at 7:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-18T19:46:49.741421-04:00.jpg">
-  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-18T19:46:49.741421-04:00.jpg"
-     alt="Foreign Policy at 2022-09-18 19:46:54-04:00 local time"
+ <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-26T19:50:10.292948-04:00.jpg">
+  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-26T19:50:10.292948-04:00.jpg"
+     alt="Foreign Policy at 2022-09-26 19:50:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-18T19:46:49.741421-04:00.jpg">September 18 at 7:46 PM</a></p>
+ <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-26T19:50:10.292948-04:00.jpg">September 26 at 7:50 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-18T07:56:01.629582-04:00.jpg">
-  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-18T07:56:01.629582-04:00.jpg"
-     alt="Foreign Policy at 2022-09-18 07:56:03-04:00 local time"
+ <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-26T08:02:37.974953-04:00.jpg">
+  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-26T08:02:37.974953-04:00.jpg"
+     alt="Foreign Policy at 2022-09-26 08:02:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-18T07:56:01.629582-04:00.jpg">September 18 at 7:56 AM</a></p>
+ <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-26T08:02:37.974953-04:00.jpg">September 26 at 8:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-17T19:48:41.422433-04:00.jpg">
-  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-17T19:48:41.422433-04:00.jpg"
-     alt="Foreign Policy at 2022-09-17 19:48:48-04:00 local time"
+ <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-25T19:45:22.309307-04:00.jpg">
+  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-25T19:45:22.309307-04:00.jpg"
+     alt="Foreign Policy at 2022-09-25 19:45:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-17T19:48:41.422433-04:00.jpg">September 17 at 7:48 PM</a></p>
+ <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-25T19:45:22.309307-04:00.jpg">September 25 at 7:45 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-17T07:57:31.302779-04:00.jpg">
-  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-17T07:57:31.302779-04:00.jpg"
-     alt="Foreign Policy at 2022-09-17 07:57:32-04:00 local time"
+ <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-25T07:49:02.879847-04:00.jpg">
+  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-25T07:49:02.879847-04:00.jpg"
+     alt="Foreign Policy at 2022-09-25 07:49:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-17T07:57:31.302779-04:00.jpg">September 17 at 7:57 AM</a></p>
+ <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-25T07:49:02.879847-04:00.jpg">September 25 at 7:49 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-16T19:48:29.109035-04:00.jpg">
-  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-16T19:48:29.109035-04:00.jpg"
-     alt="Foreign Policy at 2022-09-16 19:48:51-04:00 local time"
+ <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-24T19:41:19.959978-04:00.jpg">
+  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-24T19:41:19.959978-04:00.jpg"
+     alt="Foreign Policy at 2022-09-24 19:41:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-16T19:48:29.109035-04:00.jpg">September 16 at 7:48 PM</a></p>
+ <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-24T19:41:19.959978-04:00.jpg">September 24 at 7:41 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-16T07:57:04.697601-04:00.jpg">
-  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-16T07:57:04.697601-04:00.jpg"
-     alt="Foreign Policy at 2022-09-16 07:57:06-04:00 local time"
+ <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-24T07:49:04.858160-04:00.jpg">
+  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-24T07:49:04.858160-04:00.jpg"
+     alt="Foreign Policy at 2022-09-24 07:49:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-16T07:57:04.697601-04:00.jpg">September 16 at 7:57 AM</a></p>
+ <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-24T07:49:04.858160-04:00.jpg">September 24 at 7:49 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-15T19:47:41.467388-04:00.jpg">
-  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-15T19:47:41.467388-04:00.jpg"
-     alt="Foreign Policy at 2022-09-15 19:47:51-04:00 local time"
+ <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-23T19:46:13.547375-04:00.jpg">
+  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-23T19:46:13.547375-04:00.jpg"
+     alt="Foreign Policy at 2022-09-23 19:46:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-15T19:47:41.467388-04:00.jpg">September 15 at 7:47 PM</a></p>
+ <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-23T19:46:13.547375-04:00.jpg">September 23 at 7:46 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-15T07:57:58.228586-04:00.jpg">
-  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-15T07:57:58.228586-04:00.jpg"
-     alt="Foreign Policy at 2022-09-15 07:58:04-04:00 local time"
+ <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-23T07:55:48.309926-04:00.jpg">
+  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-23T07:55:48.309926-04:00.jpg"
+     alt="Foreign Policy at 2022-09-23 07:55:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-15T07:57:58.228586-04:00.jpg">September 15 at 7:58 AM</a></p>
+ <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-23T07:55:48.309926-04:00.jpg">September 23 at 7:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-14T19:56:10.440363-04:00.jpg">
-  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-14T19:56:10.440363-04:00.jpg"
-     alt="Foreign Policy at 2022-09-14 19:56:21-04:00 local time"
+ <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-22T19:50:18.390853-04:00.jpg">
+  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-22T19:50:18.390853-04:00.jpg"
+     alt="Foreign Policy at 2022-09-22 19:50:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-14T19:56:10.440363-04:00.jpg">September 14 at 7:56 PM</a></p>
+ <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-22T19:50:18.390853-04:00.jpg">September 22 at 7:50 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-14T08:00:10.121182-04:00.jpg">
-  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-14T08:00:10.121182-04:00.jpg"
-     alt="Foreign Policy at 2022-09-14 08:00:12-04:00 local time"
+ <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-22T07:58:07.786351-04:00.jpg">
+  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-22T07:58:07.786351-04:00.jpg"
+     alt="Foreign Policy at 2022-09-22 07:58:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-14T08:00:10.121182-04:00.jpg">September 14 at 8:00 AM</a></p>
+ <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-22T07:58:07.786351-04:00.jpg">September 22 at 7:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-13T19:52:19.342676-04:00.jpg">
-  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-13T19:52:19.342676-04:00.jpg"
-     alt="Foreign Policy at 2022-09-13 19:52:30-04:00 local time"
+ <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-21T19:44:25.052272-04:00.jpg">
+  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-21T19:44:25.052272-04:00.jpg"
+     alt="Foreign Policy at 2022-09-21 19:44:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-13T19:52:19.342676-04:00.jpg">September 13 at 7:52 PM</a></p>
+ <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-21T19:44:25.052272-04:00.jpg">September 21 at 7:44 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 204 hyperlink lists with the Internet Archive.
+The archiving routine has saved 221 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 7:56 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-19T07:56:01.035463-04:00.hyperlinks.json) |
-| [September 18 at 7:46 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-18T19:46:49.741421-04:00.hyperlinks.json) |
-| [September 18 at 7:56 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-18T07:56:01.629582-04:00.hyperlinks.json) |
-| [September 17 at 7:48 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-17T19:48:41.422433-04:00.hyperlinks.json) |
-| [September 17 at 7:57 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-17T07:57:31.302779-04:00.hyperlinks.json) |
-| [September 16 at 7:48 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-16T19:48:29.109035-04:00.hyperlinks.json) |
-| [September 16 at 7:57 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-16T07:57:04.697601-04:00.hyperlinks.json) |
-| [September 15 at 7:47 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-15T19:47:41.467388-04:00.hyperlinks.json) |
-| [September 15 at 7:58 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-15T07:57:58.228586-04:00.hyperlinks.json) |
-| [September 14 at 7:56 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-14T19:56:10.440363-04:00.hyperlinks.json) |
+| [September 27 at 7:55 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-27T07:55:45.830883-04:00.hyperlinks.json) |
+| [September 26 at 7:50 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-26T19:50:10.292948-04:00.hyperlinks.json) |
+| [September 26 at 8:02 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-26T08:02:37.974953-04:00.hyperlinks.json) |
+| [September 25 at 7:45 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-25T19:45:22.309307-04:00.hyperlinks.json) |
+| [September 25 at 7:49 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-25T07:49:02.879847-04:00.hyperlinks.json) |
+| [September 24 at 7:41 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-24T19:41:19.959978-04:00.hyperlinks.json) |
+| [September 24 at 7:49 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-24T07:49:04.858160-04:00.hyperlinks.json) |
+| [September 23 at 7:46 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-23T19:46:13.547375-04:00.hyperlinks.json) |
+| [September 23 at 7:55 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-23T07:55:48.309926-04:00.hyperlinks.json) |
+| [September 22 at 7:50 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-22T19:50:18.390853-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 201 accessibility trees with the Internet Archive.
+The archiving routine has saved 218 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 7:56 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-19T07:56:01.035463-04:00.accessibility.json) |
-| [September 18 at 7:46 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-18T19:46:49.741421-04:00.accessibility.json) |
-| [September 18 at 7:56 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-18T07:56:01.629582-04:00.accessibility.json) |
-| [September 17 at 7:48 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-17T19:48:41.422433-04:00.accessibility.json) |
-| [September 17 at 7:57 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-17T07:57:31.302779-04:00.accessibility.json) |
-| [September 16 at 7:48 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-16T19:48:29.109035-04:00.accessibility.json) |
-| [September 16 at 7:57 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-16T07:57:04.697601-04:00.accessibility.json) |
-| [September 15 at 7:47 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-15T19:47:41.467388-04:00.accessibility.json) |
-| [September 15 at 7:58 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-15T07:57:58.228586-04:00.accessibility.json) |
-| [September 14 at 7:56 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-14T19:56:10.440363-04:00.accessibility.json) |
+| [September 27 at 7:55 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-27T07:55:45.830883-04:00.accessibility.json) |
+| [September 26 at 7:50 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-26T19:50:10.292948-04:00.accessibility.json) |
+| [September 26 at 8:02 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-26T08:02:37.974953-04:00.accessibility.json) |
+| [September 25 at 7:45 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-25T19:45:22.309307-04:00.accessibility.json) |
+| [September 25 at 7:49 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-25T07:49:02.879847-04:00.accessibility.json) |
+| [September 24 at 7:41 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-24T19:41:19.959978-04:00.accessibility.json) |
+| [September 24 at 7:49 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-24T07:49:04.858160-04:00.accessibility.json) |
+| [September 23 at 7:46 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-23T19:46:13.547375-04:00.accessibility.json) |
+| [September 23 at 7:55 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-23T07:55:48.309926-04:00.accessibility.json) |
+| [September 22 at 7:50 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-22T19:50:18.390853-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 116 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 7:56 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-19T07:56:01.035463-04:00.lighthouse.json) |
-| [September 18 at 7:47 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-18T19:46:49.741421-04:00.lighthouse.json) |
-| [September 18 at 7:56 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-18T07:56:01.629582-04:00.lighthouse.json) |
-| [September 17 at 7:48 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-17T19:48:41.422433-04:00.lighthouse.json) |
-| [September 17 at 7:57 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-17T07:57:31.302779-04:00.lighthouse.json) |
-| [September 16 at 7:48 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-16T19:48:29.109035-04:00.lighthouse.json) |
-| [September 16 at 7:57 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-16T07:57:04.697601-04:00.lighthouse.json) |
-| [September 15 at 7:47 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-15T19:47:41.467388-04:00.lighthouse.json) |
-| [September 15 at 7:58 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-15T07:57:58.228586-04:00.lighthouse.json) |
-| [September 14 at 7:56 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-14T19:56:10.440363-04:00.lighthouse.json) |
+| [September 27 at 7:55 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-27T07:55:45.830883-04:00.lighthouse.json) |
+| [September 26 at 7:50 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-26T19:50:10.292948-04:00.lighthouse.json) |
+| [September 26 at 8:02 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-26T08:02:37.974953-04:00.lighthouse.json) |
+| [September 25 at 7:45 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-25T19:45:22.309307-04:00.lighthouse.json) |
+| [September 25 at 7:49 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-25T07:49:02.879847-04:00.lighthouse.json) |
+| [September 24 at 7:41 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-24T19:41:19.959978-04:00.lighthouse.json) |
+| [September 24 at 7:49 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-24T07:49:04.858160-04:00.lighthouse.json) |
+| [September 23 at 7:46 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-23T19:46:13.547375-04:00.lighthouse.json) |
+| [September 23 at 7:55 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-23T07:55:48.309926-04:00.lighthouse.json) |
+| [September 22 at 7:50 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-09-22T19:50:18.390853-04:00.lighthouse.json) |
 
 
 

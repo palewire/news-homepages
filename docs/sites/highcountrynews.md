@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 141 screenshots with the Internet Archive.
+The archiving routine has saved 157 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-19T10:05:26.046380-06:00.jpg">
-  <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-19T10:05:26.046380-06:00.jpg"
-     alt="High Country News at 2022-09-19 10:05:31-06:00 local time"
+ <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-26T23:41:13.090514-06:00.jpg">
+  <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-26T23:41:13.090514-06:00.jpg"
+     alt="High Country News at 2022-09-26 23:41:14-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-19T10:05:26.046380-06:00.jpg">September 19 at 10:05 AM</a></p>
+ <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-26T23:41:13.090514-06:00.jpg">September 26 at 11:41 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-18T22:46:20.532792-06:00.jpg">
-  <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-18T22:46:20.532792-06:00.jpg"
-     alt="High Country News at 2022-09-18 22:46:22-06:00 local time"
+ <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-26T11:28:16.861919-06:00.jpg">
+  <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-26T11:28:16.861919-06:00.jpg"
+     alt="High Country News at 2022-09-26 11:28:30-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-18T22:46:20.532792-06:00.jpg">September 18 at 10:46 PM</a></p>
+ <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-26T11:28:16.861919-06:00.jpg">September 26 at 11:28 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-17T21:51:59.054245-06:00.jpg">
-  <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-17T21:51:59.054245-06:00.jpg"
-     alt="High Country News at 2022-09-17 21:52:00-06:00 local time"
+ <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-26T00:01:28.131376-06:00.jpg">
+  <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-26T00:01:28.131376-06:00.jpg"
+     alt="High Country News at 2022-09-26 00:01:30-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-17T21:51:59.054245-06:00.jpg">September 17 at 9:52 PM</a></p>
+ <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-26T00:01:28.131376-06:00.jpg">September 26 at 12:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-17T08:53:57.734842-06:00.jpg">
-  <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-17T08:53:57.734842-06:00.jpg"
-     alt="High Country News at 2022-09-17 08:53:59-06:00 local time"
+ <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-25T11:11:52.860995-06:00.jpg">
+  <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-25T11:11:52.860995-06:00.jpg"
+     alt="High Country News at 2022-09-25 11:12:09-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-17T08:53:57.734842-06:00.jpg">September 17 at 8:53 AM</a></p>
+ <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-25T11:11:52.860995-06:00.jpg">September 25 at 11:12 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-16T21:45:50.747183-06:00.jpg">
-  <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-16T21:45:50.747183-06:00.jpg"
-     alt="High Country News at 2022-09-16 21:45:52-06:00 local time"
+ <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-24T23:37:33.586516-06:00.jpg">
+  <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-24T23:37:33.586516-06:00.jpg"
+     alt="High Country News at 2022-09-24 23:37:35-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-16T21:45:50.747183-06:00.jpg">September 16 at 9:45 PM</a></p>
+ <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-24T23:37:33.586516-06:00.jpg">September 24 at 11:37 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-16T09:04:17.340188-06:00.jpg">
-  <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-16T09:04:17.340188-06:00.jpg"
-     alt="High Country News at 2022-09-16 09:04:18-06:00 local time"
+ <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-24T11:11:26.239093-06:00.jpg">
+  <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-24T11:11:26.239093-06:00.jpg"
+     alt="High Country News at 2022-09-24 11:11:27-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-16T09:04:17.340188-06:00.jpg">September 16 at 9:04 AM</a></p>
+ <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-24T11:11:26.239093-06:00.jpg">September 24 at 11:11 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-15T21:53:42.862314-06:00.jpg">
-  <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-15T21:53:42.862314-06:00.jpg"
-     alt="High Country News at 2022-09-15 21:53:43-06:00 local time"
+ <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-23T23:38:14.481462-06:00.jpg">
+  <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-23T23:38:14.481462-06:00.jpg"
+     alt="High Country News at 2022-09-23 23:38:15-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-15T21:53:42.862314-06:00.jpg">September 15 at 9:53 PM</a></p>
+ <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-23T23:38:14.481462-06:00.jpg">September 23 at 11:38 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-15T10:15:29.177050-06:00.jpg">
-  <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-15T10:15:29.177050-06:00.jpg"
-     alt="High Country News at 2022-09-15 10:15:40-06:00 local time"
+ <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-23T11:22:25.034777-06:00.jpg">
+  <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-23T11:22:25.034777-06:00.jpg"
+     alt="High Country News at 2022-09-23 11:22:28-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-15T10:15:29.177050-06:00.jpg">September 15 at 10:15 AM</a></p>
+ <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-23T11:22:25.034777-06:00.jpg">September 23 at 11:22 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-14T21:52:30.442396-06:00.jpg">
-  <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-14T21:52:30.442396-06:00.jpg"
-     alt="High Country News at 2022-09-14 21:52:32-06:00 local time"
+ <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-22T23:20:28.073578-06:00.jpg">
+  <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-22T23:20:28.073578-06:00.jpg"
+     alt="High Country News at 2022-09-22 23:20:29-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-14T21:52:30.442396-06:00.jpg">September 14 at 9:52 PM</a></p>
+ <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-22T23:20:28.073578-06:00.jpg">September 22 at 11:20 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-14T09:22:58.115201-06:00.jpg">
-  <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-14T09:22:58.115201-06:00.jpg"
-     alt="High Country News at 2022-09-14 09:22:59-06:00 local time"
+ <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-22T11:22:45.446076-06:00.jpg">
+  <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-22T11:22:45.446076-06:00.jpg"
+     alt="High Country News at 2022-09-22 11:22:52-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-14T09:22:58.115201-06:00.jpg">September 14 at 9:22 AM</a></p>
+ <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-22T11:22:45.446076-06:00.jpg">September 22 at 11:22 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-13T21:50:37.135240-06:00.jpg">
-  <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-13T21:50:37.135240-06:00.jpg"
-     alt="High Country News at 2022-09-13 21:50:43-06:00 local time"
+ <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-21T23:51:15.995132-06:00.jpg">
+  <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-21T23:51:15.995132-06:00.jpg"
+     alt="High Country News at 2022-09-21 23:51:17-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-13T21:50:37.135240-06:00.jpg">September 13 at 9:50 PM</a></p>
+ <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-21T23:51:15.995132-06:00.jpg">September 21 at 11:51 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-13T10:08:20.217684-06:00.jpg">
-  <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-13T10:08:20.217684-06:00.jpg"
-     alt="High Country News at 2022-09-13 10:08:22-06:00 local time"
+ <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-21T11:23:54.653542-06:00.jpg">
+  <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-21T11:23:54.653542-06:00.jpg"
+     alt="High Country News at 2022-09-21 11:24:01-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-13T10:08:20.217684-06:00.jpg">September 13 at 10:08 AM</a></p>
+ <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-21T11:23:54.653542-06:00.jpg">September 21 at 11:24 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 142 hyperlink lists with the Internet Archive.
+The archiving routine has saved 158 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 10:05 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-19T10:05:26.046380-06:00.hyperlinks.json) |
-| [September 18 at 10:46 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-18T22:46:20.532792-06:00.hyperlinks.json) |
-| [September 17 at 9:52 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-17T21:51:59.054245-06:00.hyperlinks.json) |
-| [September 17 at 8:54 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-17T08:53:57.734842-06:00.hyperlinks.json) |
-| [September 16 at 9:45 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-16T21:45:50.747183-06:00.hyperlinks.json) |
-| [September 16 at 9:04 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-16T09:04:17.340188-06:00.hyperlinks.json) |
-| [September 15 at 9:53 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-15T21:53:42.862314-06:00.hyperlinks.json) |
-| [September 15 at 10:15 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-15T10:15:29.177050-06:00.hyperlinks.json) |
-| [September 14 at 9:52 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-14T21:52:30.442396-06:00.hyperlinks.json) |
-| [September 14 at 9:23 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-14T09:22:58.115201-06:00.hyperlinks.json) |
+| [September 26 at 11:41 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-26T23:41:13.090514-06:00.hyperlinks.json) |
+| [September 26 at 11:28 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-26T11:28:16.861919-06:00.hyperlinks.json) |
+| [September 26 at 12:01 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-26T00:01:28.131376-06:00.hyperlinks.json) |
+| [September 25 at 11:12 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-25T11:11:52.860995-06:00.hyperlinks.json) |
+| [September 24 at 11:37 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-24T23:37:33.586516-06:00.hyperlinks.json) |
+| [September 24 at 11:11 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-24T11:11:26.239093-06:00.hyperlinks.json) |
+| [September 23 at 11:38 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-23T23:38:14.481462-06:00.hyperlinks.json) |
+| [September 23 at 11:22 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-23T11:22:25.034777-06:00.hyperlinks.json) |
+| [September 22 at 11:20 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-22T23:20:28.073578-06:00.hyperlinks.json) |
+| [September 22 at 11:22 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-22T11:22:45.446076-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 142 accessibility trees with the Internet Archive.
+The archiving routine has saved 158 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 10:05 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-19T10:05:26.046380-06:00.accessibility.json) |
-| [September 18 at 10:46 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-18T22:46:20.532792-06:00.accessibility.json) |
-| [September 17 at 9:52 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-17T21:51:59.054245-06:00.accessibility.json) |
-| [September 17 at 8:54 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-17T08:53:57.734842-06:00.accessibility.json) |
-| [September 16 at 9:45 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-16T21:45:50.747183-06:00.accessibility.json) |
-| [September 16 at 9:04 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-16T09:04:17.340188-06:00.accessibility.json) |
-| [September 15 at 9:53 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-15T21:53:42.862314-06:00.accessibility.json) |
-| [September 15 at 10:15 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-15T10:15:29.177050-06:00.accessibility.json) |
-| [September 14 at 9:52 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-14T21:52:30.442396-06:00.accessibility.json) |
-| [September 14 at 9:23 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-14T09:22:58.115201-06:00.accessibility.json) |
+| [September 26 at 11:41 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-26T23:41:13.090514-06:00.accessibility.json) |
+| [September 26 at 11:28 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-26T11:28:16.861919-06:00.accessibility.json) |
+| [September 26 at 12:01 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-26T00:01:28.131376-06:00.accessibility.json) |
+| [September 25 at 11:12 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-25T11:11:52.860995-06:00.accessibility.json) |
+| [September 24 at 11:37 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-24T23:37:33.586516-06:00.accessibility.json) |
+| [September 24 at 11:11 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-24T11:11:26.239093-06:00.accessibility.json) |
+| [September 23 at 11:38 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-23T23:38:14.481462-06:00.accessibility.json) |
+| [September 23 at 11:22 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-23T11:22:25.034777-06:00.accessibility.json) |
+| [September 22 at 11:20 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-22T23:20:28.073578-06:00.accessibility.json) |
+| [September 22 at 11:22 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-22T11:22:45.446076-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 113 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 129 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 10:05 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-19T10:05:26.046380-06:00.lighthouse.json) |
-| [September 18 at 10:46 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-18T22:46:20.532792-06:00.lighthouse.json) |
-| [September 17 at 9:52 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-17T21:51:59.054245-06:00.lighthouse.json) |
-| [September 17 at 8:54 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-17T08:53:57.734842-06:00.lighthouse.json) |
-| [September 16 at 9:45 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-16T21:45:50.747183-06:00.lighthouse.json) |
-| [September 16 at 9:04 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-16T09:04:17.340188-06:00.lighthouse.json) |
-| [September 15 at 9:53 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-15T21:53:42.862314-06:00.lighthouse.json) |
-| [September 15 at 10:15 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-15T10:15:29.177050-06:00.lighthouse.json) |
-| [September 14 at 9:52 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-14T21:52:30.442396-06:00.lighthouse.json) |
-| [September 14 at 9:23 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-14T09:22:58.115201-06:00.lighthouse.json) |
+| [September 26 at 11:41 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-26T23:41:13.090514-06:00.lighthouse.json) |
+| [September 26 at 11:28 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-26T11:28:16.861919-06:00.lighthouse.json) |
+| [September 26 at 12:01 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-26T00:01:28.131376-06:00.lighthouse.json) |
+| [September 25 at 11:12 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-25T11:11:52.860995-06:00.lighthouse.json) |
+| [September 24 at 11:37 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-24T23:37:33.586516-06:00.lighthouse.json) |
+| [September 24 at 11:11 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-24T11:11:26.239093-06:00.lighthouse.json) |
+| [September 23 at 11:38 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-23T23:38:14.481462-06:00.lighthouse.json) |
+| [September 23 at 11:22 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-23T11:22:25.034777-06:00.lighthouse.json) |
+| [September 22 at 11:20 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-22T23:20:28.073578-06:00.lighthouse.json) |
+| [September 22 at 11:23 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-09-22T11:22:45.446076-06:00.lighthouse.json) |
 
 
 

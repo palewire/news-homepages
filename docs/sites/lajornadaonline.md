@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 69 screenshots with the Internet Archive.
+The archiving routine has saved 85 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-19T11:05:04.593343-05:00.jpg">
-  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-19T11:05:04.593343-05:00.jpg"
-     alt="Jornada at 2022-09-19 11:05:08-05:00 local time"
+ <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-27T00:43:00.631111-05:00.jpg">
+  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-27T00:43:00.631111-05:00.jpg"
+     alt="Jornada at 2022-09-27 00:43:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-19T11:05:04.593343-05:00.jpg">September 19 at 11:05 AM</a></p>
+ <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-27T00:43:00.631111-05:00.jpg">September 27 at 12:43 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-18T23:48:09.898532-05:00.jpg">
-  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-18T23:48:09.898532-05:00.jpg"
-     alt="Jornada at 2022-09-18 23:48:11-05:00 local time"
+ <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-26T12:30:55.473654-05:00.jpg">
+  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-26T12:30:55.473654-05:00.jpg"
+     alt="Jornada at 2022-09-26 12:31:04-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-18T23:48:09.898532-05:00.jpg">September 18 at 11:48 PM</a></p>
+ <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-26T12:30:55.473654-05:00.jpg">September 26 at 12:31 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-18T10:59:53.009133-05:00.jpg">
-  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-18T10:59:53.009133-05:00.jpg"
-     alt="Jornada at 2022-09-18 10:59:54-05:00 local time"
+ <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-26T01:04:08.199808-05:00.jpg">
+  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-26T01:04:08.199808-05:00.jpg"
+     alt="Jornada at 2022-09-26 01:04:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-18T10:59:53.009133-05:00.jpg">September 18 at 10:59 AM</a></p>
+ <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-26T01:04:08.199808-05:00.jpg">September 26 at 1:04 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-18T00:23:04.696366-05:00.jpg">
-  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-18T00:23:04.696366-05:00.jpg"
-     alt="Jornada at 2022-09-18 00:23:05-05:00 local time"
+ <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-25T12:13:19.408957-05:00.jpg">
+  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-25T12:13:19.408957-05:00.jpg"
+     alt="Jornada at 2022-09-25 12:13:21-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-18T00:23:04.696366-05:00.jpg">September 18 at 12:23 AM</a></p>
+ <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-25T12:13:19.408957-05:00.jpg">September 25 at 12:13 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-17T10:58:11.644289-05:00.jpg">
-  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-17T10:58:11.644289-05:00.jpg"
-     alt="Jornada at 2022-09-17 10:58:21-05:00 local time"
+ <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-25T00:39:52.185345-05:00.jpg">
+  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-25T00:39:52.185345-05:00.jpg"
+     alt="Jornada at 2022-09-25 00:40:04-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-17T10:58:11.644289-05:00.jpg">September 17 at 10:58 AM</a></p>
+ <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-25T00:39:52.185345-05:00.jpg">September 25 at 12:40 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-16T23:31:43.459745-05:00.jpg">
-  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-16T23:31:43.459745-05:00.jpg"
-     alt="Jornada at 2022-09-16 23:31:45-05:00 local time"
+ <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-24T12:12:52.482357-05:00.jpg">
+  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-24T12:12:52.482357-05:00.jpg"
+     alt="Jornada at 2022-09-24 12:13:04-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-16T23:31:43.459745-05:00.jpg">September 16 at 11:31 PM</a></p>
+ <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-24T12:12:52.482357-05:00.jpg">September 24 at 12:13 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-16T11:02:03.407191-05:00.jpg">
-  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-16T11:02:03.407191-05:00.jpg"
-     alt="Jornada at 2022-09-16 11:02:06-05:00 local time"
+ <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-24T00:39:04.042846-05:00.jpg">
+  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-24T00:39:04.042846-05:00.jpg"
+     alt="Jornada at 2022-09-24 00:39:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-16T11:02:03.407191-05:00.jpg">September 16 at 11:02 AM</a></p>
+ <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-24T00:39:04.042846-05:00.jpg">September 24 at 12:39 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-16T00:24:05.738809-05:00.jpg">
-  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-16T00:24:05.738809-05:00.jpg"
-     alt="Jornada at 2022-09-16 00:24:07-05:00 local time"
+ <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-23T12:25:05.974516-05:00.jpg">
+  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-23T12:25:05.974516-05:00.jpg"
+     alt="Jornada at 2022-09-23 12:25:08-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-16T00:24:05.738809-05:00.jpg">September 16 at 12:24 AM</a></p>
+ <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-23T12:25:05.974516-05:00.jpg">September 23 at 12:25 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-15T11:27:08.692469-05:00.jpg">
-  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-15T11:27:08.692469-05:00.jpg"
-     alt="Jornada at 2022-09-15 11:27:10-05:00 local time"
+ <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-23T00:22:06.221272-05:00.jpg">
+  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-23T00:22:06.221272-05:00.jpg"
+     alt="Jornada at 2022-09-23 00:22:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-15T11:27:08.692469-05:00.jpg">September 15 at 11:27 AM</a></p>
+ <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-23T00:22:06.221272-05:00.jpg">September 23 at 12:22 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-15T00:24:18.895617-05:00.jpg">
-  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-15T00:24:18.895617-05:00.jpg"
-     alt="Jornada at 2022-09-15 00:24:20-05:00 local time"
+ <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-22T12:26:15.470736-05:00.jpg">
+  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-22T12:26:15.470736-05:00.jpg"
+     alt="Jornada at 2022-09-22 12:26:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-15T00:24:18.895617-05:00.jpg">September 15 at 12:24 AM</a></p>
+ <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-22T12:26:15.470736-05:00.jpg">September 22 at 12:26 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-14T11:25:06.728510-05:00.jpg">
-  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-14T11:25:06.728510-05:00.jpg"
-     alt="Jornada at 2022-09-14 11:25:09-05:00 local time"
+ <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-22T00:54:17.354843-05:00.jpg">
+  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-22T00:54:17.354843-05:00.jpg"
+     alt="Jornada at 2022-09-22 00:54:21-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-14T11:25:06.728510-05:00.jpg">September 14 at 11:25 AM</a></p>
+ <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-22T00:54:17.354843-05:00.jpg">September 22 at 12:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-13T23:40:55.516701-05:00.jpg">
-  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-13T23:40:55.516701-05:00.jpg"
-     alt="Jornada at 2022-09-13 23:40:56-05:00 local time"
+ <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-21T12:26:17.671153-05:00.jpg">
+  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-21T12:26:17.671153-05:00.jpg"
+     alt="Jornada at 2022-09-21 12:26:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-13T23:40:55.516701-05:00.jpg">September 13 at 11:40 PM</a></p>
+ <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-21T12:26:17.671153-05:00.jpg">September 21 at 12:26 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 69 hyperlink lists with the Internet Archive.
+The archiving routine has saved 85 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 11:05 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-19T11:05:04.593343-05:00.hyperlinks.json) |
-| [September 18 at 11:48 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-18T23:48:09.898532-05:00.hyperlinks.json) |
-| [September 18 at 10:59 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-18T10:59:53.009133-05:00.hyperlinks.json) |
-| [September 18 at 12:23 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-18T00:23:04.696366-05:00.hyperlinks.json) |
-| [September 17 at 10:58 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-17T10:58:11.644289-05:00.hyperlinks.json) |
-| [September 16 at 11:31 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-16T23:31:43.459745-05:00.hyperlinks.json) |
-| [September 16 at 11:02 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-16T11:02:03.407191-05:00.hyperlinks.json) |
-| [September 16 at 12:24 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-16T00:24:05.738809-05:00.hyperlinks.json) |
-| [September 15 at 11:27 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-15T11:27:08.692469-05:00.hyperlinks.json) |
-| [September 15 at 12:24 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-15T00:24:18.895617-05:00.hyperlinks.json) |
+| [September 27 at 12:43 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-27T00:43:00.631111-05:00.hyperlinks.json) |
+| [September 26 at 12:31 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-26T12:30:55.473654-05:00.hyperlinks.json) |
+| [September 26 at 1:04 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-26T01:04:08.199808-05:00.hyperlinks.json) |
+| [September 25 at 12:13 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-25T12:13:19.408957-05:00.hyperlinks.json) |
+| [September 25 at 12:40 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-25T00:39:52.185345-05:00.hyperlinks.json) |
+| [September 24 at 12:13 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-24T12:12:52.482357-05:00.hyperlinks.json) |
+| [September 24 at 12:39 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-24T00:39:04.042846-05:00.hyperlinks.json) |
+| [September 23 at 12:25 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-23T12:25:05.974516-05:00.hyperlinks.json) |
+| [September 23 at 12:22 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-23T00:22:06.221272-05:00.hyperlinks.json) |
+| [September 22 at 12:26 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-22T12:26:15.470736-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 67 accessibility trees with the Internet Archive.
+The archiving routine has saved 83 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 11:05 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-19T11:05:04.593343-05:00.accessibility.json) |
-| [September 18 at 11:48 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-18T23:48:09.898532-05:00.accessibility.json) |
-| [September 18 at 10:59 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-18T10:59:53.009133-05:00.accessibility.json) |
-| [September 18 at 12:23 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-18T00:23:04.696366-05:00.accessibility.json) |
-| [September 17 at 10:58 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-17T10:58:11.644289-05:00.accessibility.json) |
-| [September 16 at 11:31 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-16T23:31:43.459745-05:00.accessibility.json) |
-| [September 16 at 11:02 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-16T11:02:03.407191-05:00.accessibility.json) |
-| [September 16 at 12:24 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-16T00:24:05.738809-05:00.accessibility.json) |
-| [September 15 at 11:27 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-15T11:27:08.692469-05:00.accessibility.json) |
-| [September 15 at 12:24 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-15T00:24:18.895617-05:00.accessibility.json) |
+| [September 27 at 12:43 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-27T00:43:00.631111-05:00.accessibility.json) |
+| [September 26 at 12:31 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-26T12:30:55.473654-05:00.accessibility.json) |
+| [September 26 at 1:04 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-26T01:04:08.199808-05:00.accessibility.json) |
+| [September 25 at 12:13 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-25T12:13:19.408957-05:00.accessibility.json) |
+| [September 25 at 12:40 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-25T00:39:52.185345-05:00.accessibility.json) |
+| [September 24 at 12:13 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-24T12:12:52.482357-05:00.accessibility.json) |
+| [September 24 at 12:39 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-24T00:39:04.042846-05:00.accessibility.json) |
+| [September 23 at 12:25 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-23T12:25:05.974516-05:00.accessibility.json) |
+| [September 23 at 12:22 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-23T00:22:06.221272-05:00.accessibility.json) |
+| [September 22 at 12:26 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-22T12:26:15.470736-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 69 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 85 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 11:05 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-19T11:05:04.593343-05:00.lighthouse.json) |
-| [September 18 at 11:48 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-18T23:48:09.898532-05:00.lighthouse.json) |
-| [September 18 at 11:00 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-18T10:59:53.009133-05:00.lighthouse.json) |
-| [September 18 at 12:23 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-18T00:23:04.696366-05:00.lighthouse.json) |
-| [September 17 at 10:58 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-17T10:58:11.644289-05:00.lighthouse.json) |
-| [September 16 at 11:31 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-16T23:31:43.459745-05:00.lighthouse.json) |
-| [September 16 at 11:02 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-16T11:02:03.407191-05:00.lighthouse.json) |
-| [September 16 at 12:24 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-16T00:24:05.738809-05:00.lighthouse.json) |
-| [September 15 at 11:27 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-15T11:27:08.692469-05:00.lighthouse.json) |
-| [September 15 at 12:24 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-15T00:24:18.895617-05:00.lighthouse.json) |
+| [September 27 at 12:43 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-27T00:43:00.631111-05:00.lighthouse.json) |
+| [September 26 at 12:31 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-26T12:30:55.473654-05:00.lighthouse.json) |
+| [September 26 at 1:04 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-26T01:04:08.199808-05:00.lighthouse.json) |
+| [September 25 at 12:13 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-25T12:13:19.408957-05:00.lighthouse.json) |
+| [September 25 at 12:40 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-25T00:39:52.185345-05:00.lighthouse.json) |
+| [September 24 at 12:13 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-24T12:12:52.482357-05:00.lighthouse.json) |
+| [September 24 at 12:39 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-24T00:39:04.042846-05:00.lighthouse.json) |
+| [September 23 at 12:25 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-23T12:25:05.974516-05:00.lighthouse.json) |
+| [September 23 at 12:22 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-23T00:22:06.221272-05:00.lighthouse.json) |
+| [September 22 at 12:26 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-09-22T12:26:15.470736-05:00.lighthouse.json) |
 
 
 

@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 110 screenshots with the Internet Archive.
+The archiving routine has saved 127 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-19T17:22:40.565250+05:30.jpg">
-  <img src="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-19T17:22:40.565250+05:30.jpg"
-     alt="Dainik Bhaskar at 2022-09-19 17:22:43+05:30 local time"
+ <a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-27T17:23:04.769588+05:30.jpg">
+  <img src="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-27T17:23:04.769588+05:30.jpg"
+     alt="Dainik Bhaskar at 2022-09-27 17:23:06+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-19T17:22:40.565250+05:30.jpg">September 19 at 5:22 PM</a></p>
+ <p><a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-27T17:23:04.769588+05:30.jpg">September 27 at 5:23 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-19T05:14:32.232823+05:30.jpg">
-  <img src="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-19T05:14:32.232823+05:30.jpg"
-     alt="Dainik Bhaskar at 2022-09-19 05:14:34+05:30 local time"
+ <a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-27T05:15:48.455482+05:30.jpg">
+  <img src="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-27T05:15:48.455482+05:30.jpg"
+     alt="Dainik Bhaskar at 2022-09-27 05:15:54+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-19T05:14:32.232823+05:30.jpg">September 19 at 5:14 AM</a></p>
+ <p><a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-27T05:15:48.455482+05:30.jpg">September 27 at 5:15 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-18T16:23:23.539933+05:30.jpg">
-  <img src="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-18T16:23:23.539933+05:30.jpg"
-     alt="Dainik Bhaskar at 2022-09-18 16:23:30+05:30 local time"
+ <a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-26T17:28:43.392318+05:30.jpg">
+  <img src="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-26T17:28:43.392318+05:30.jpg"
+     alt="Dainik Bhaskar at 2022-09-26 17:28:59+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-18T16:23:23.539933+05:30.jpg">September 18 at 4:23 PM</a></p>
+ <p><a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-26T17:28:43.392318+05:30.jpg">September 26 at 5:28 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-18T04:27:29.457198+05:30.jpg">
-  <img src="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-18T04:27:29.457198+05:30.jpg"
-     alt="Dainik Bhaskar at 2022-09-18 04:27:37+05:30 local time"
+ <a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-26T05:11:02.795437+05:30.jpg">
+  <img src="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-26T05:11:02.795437+05:30.jpg"
+     alt="Dainik Bhaskar at 2022-09-26 05:11:07+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-18T04:27:29.457198+05:30.jpg">September 18 at 4:27 AM</a></p>
+ <p><a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-26T05:11:02.795437+05:30.jpg">September 26 at 5:11 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-17T16:23:39.466606+05:30.jpg">
-  <img src="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-17T16:23:39.466606+05:30.jpg"
-     alt="Dainik Bhaskar at 2022-09-17 16:23:44+05:30 local time"
+ <a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-25T17:16:14.538904+05:30.jpg">
+  <img src="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-25T17:16:14.538904+05:30.jpg"
+     alt="Dainik Bhaskar at 2022-09-25 17:16:28+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-17T16:23:39.466606+05:30.jpg">September 17 at 4:23 PM</a></p>
+ <p><a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-25T17:16:14.538904+05:30.jpg">September 25 at 5:16 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-17T04:26:26.514009+05:30.jpg">
-  <img src="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-17T04:26:26.514009+05:30.jpg"
-     alt="Dainik Bhaskar at 2022-09-17 04:26:32+05:30 local time"
+ <a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-25T05:07:40.606152+05:30.jpg">
+  <img src="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-25T05:07:40.606152+05:30.jpg"
+     alt="Dainik Bhaskar at 2022-09-25 05:08:01+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-17T04:26:26.514009+05:30.jpg">September 17 at 4:26 AM</a></p>
+ <p><a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-25T05:07:40.606152+05:30.jpg">September 25 at 5:08 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-16T16:26:00.473239+05:30.jpg">
-  <img src="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-16T16:26:00.473239+05:30.jpg"
-     alt="Dainik Bhaskar at 2022-09-16 16:26:06+05:30 local time"
+ <a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-24T17:17:08.022059+05:30.jpg">
+  <img src="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-24T17:17:08.022059+05:30.jpg"
+     alt="Dainik Bhaskar at 2022-09-24 17:17:15+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-16T16:26:00.473239+05:30.jpg">September 16 at 4:26 PM</a></p>
+ <p><a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-24T17:17:08.022059+05:30.jpg">September 24 at 5:17 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-16T04:29:10.711758+05:30.jpg">
-  <img src="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-16T04:29:10.711758+05:30.jpg"
-     alt="Dainik Bhaskar at 2022-09-16 04:29:15+05:30 local time"
+ <a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-24T05:14:01.982984+05:30.jpg">
+  <img src="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-24T05:14:01.982984+05:30.jpg"
+     alt="Dainik Bhaskar at 2022-09-24 05:14:20+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-16T04:29:10.711758+05:30.jpg">September 16 at 4:29 AM</a></p>
+ <p><a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-24T05:14:01.982984+05:30.jpg">September 24 at 5:14 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-15T16:28:49.502668+05:30.jpg">
-  <img src="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-15T16:28:49.502668+05:30.jpg"
-     alt="Dainik Bhaskar at 2022-09-15 16:29:01+05:30 local time"
+ <a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-23T17:24:20.621979+05:30.jpg">
+  <img src="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-23T17:24:20.621979+05:30.jpg"
+     alt="Dainik Bhaskar at 2022-09-23 17:24:26+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-15T16:28:49.502668+05:30.jpg">September 15 at 4:29 PM</a></p>
+ <p><a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-23T17:24:20.621979+05:30.jpg">September 23 at 5:24 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-15T04:35:19.902131+05:30.jpg">
-  <img src="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-15T04:35:19.902131+05:30.jpg"
-     alt="Dainik Bhaskar at 2022-09-15 04:35:25+05:30 local time"
+ <a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-23T05:15:19.049290+05:30.jpg">
+  <img src="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-23T05:15:19.049290+05:30.jpg"
+     alt="Dainik Bhaskar at 2022-09-23 05:15:22+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-15T04:35:19.902131+05:30.jpg">September 15 at 4:35 AM</a></p>
+ <p><a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-23T05:15:19.049290+05:30.jpg">September 23 at 5:15 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-14T16:27:06.690457+05:30.jpg">
-  <img src="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-14T16:27:06.690457+05:30.jpg"
-     alt="Dainik Bhaskar at 2022-09-14 16:27:09+05:30 local time"
+ <a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-22T17:26:01.644702+05:30.jpg">
+  <img src="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-22T17:26:01.644702+05:30.jpg"
+     alt="Dainik Bhaskar at 2022-09-22 17:26:12+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-14T16:27:06.690457+05:30.jpg">September 14 at 4:27 PM</a></p>
+ <p><a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-22T17:26:01.644702+05:30.jpg">September 22 at 5:26 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-14T04:34:50.141967+05:30.jpg">
-  <img src="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-14T04:34:50.141967+05:30.jpg"
-     alt="Dainik Bhaskar at 2022-09-14 04:34:54+05:30 local time"
+ <a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-22T05:11:20.618525+05:30.jpg">
+  <img src="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-22T05:11:20.618525+05:30.jpg"
+     alt="Dainik Bhaskar at 2022-09-22 05:11:25+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-14T04:34:50.141967+05:30.jpg">September 14 at 4:34 AM</a></p>
+ <p><a href="https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-22T05:11:20.618525+05:30.jpg">September 22 at 5:11 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 110 hyperlink lists with the Internet Archive.
+The archiving routine has saved 127 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 5:22 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-19T17:22:40.565250+05:30.hyperlinks.json) |
-| [September 19 at 5:14 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-19T05:14:32.232823+05:30.hyperlinks.json) |
-| [September 18 at 4:23 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-18T16:23:23.539933+05:30.hyperlinks.json) |
-| [September 18 at 4:27 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-18T04:27:29.457198+05:30.hyperlinks.json) |
-| [September 17 at 4:23 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-17T16:23:39.466606+05:30.hyperlinks.json) |
-| [September 17 at 4:26 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-17T04:26:26.514009+05:30.hyperlinks.json) |
-| [September 16 at 4:26 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-16T16:26:00.473239+05:30.hyperlinks.json) |
-| [September 16 at 4:29 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-16T04:29:10.711758+05:30.hyperlinks.json) |
-| [September 15 at 4:29 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-15T16:28:49.502668+05:30.hyperlinks.json) |
-| [September 15 at 4:35 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-15T04:35:19.902131+05:30.hyperlinks.json) |
+| [September 27 at 5:23 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-27T17:23:04.769588+05:30.hyperlinks.json) |
+| [September 27 at 5:15 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-27T05:15:48.455482+05:30.hyperlinks.json) |
+| [September 26 at 5:29 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-26T17:28:43.392318+05:30.hyperlinks.json) |
+| [September 26 at 5:11 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-26T05:11:02.795437+05:30.hyperlinks.json) |
+| [September 25 at 5:16 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-25T17:16:14.538904+05:30.hyperlinks.json) |
+| [September 25 at 5:08 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-25T05:07:40.606152+05:30.hyperlinks.json) |
+| [September 24 at 5:17 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-24T17:17:08.022059+05:30.hyperlinks.json) |
+| [September 24 at 5:14 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-24T05:14:01.982984+05:30.hyperlinks.json) |
+| [September 23 at 5:24 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-23T17:24:20.621979+05:30.hyperlinks.json) |
+| [September 23 at 5:15 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-23T05:15:19.049290+05:30.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 110 accessibility trees with the Internet Archive.
+The archiving routine has saved 127 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 5:22 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-19T17:22:40.565250+05:30.accessibility.json) |
-| [September 19 at 5:14 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-19T05:14:32.232823+05:30.accessibility.json) |
-| [September 18 at 4:23 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-18T16:23:23.539933+05:30.accessibility.json) |
-| [September 18 at 4:27 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-18T04:27:29.457198+05:30.accessibility.json) |
-| [September 17 at 4:23 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-17T16:23:39.466606+05:30.accessibility.json) |
-| [September 17 at 4:26 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-17T04:26:26.514009+05:30.accessibility.json) |
-| [September 16 at 4:26 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-16T16:26:00.473239+05:30.accessibility.json) |
-| [September 16 at 4:29 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-16T04:29:10.711758+05:30.accessibility.json) |
-| [September 15 at 4:29 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-15T16:28:49.502668+05:30.accessibility.json) |
-| [September 15 at 4:35 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-15T04:35:19.902131+05:30.accessibility.json) |
+| [September 27 at 5:23 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-27T17:23:04.769588+05:30.accessibility.json) |
+| [September 27 at 5:15 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-27T05:15:48.455482+05:30.accessibility.json) |
+| [September 26 at 5:29 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-26T17:28:43.392318+05:30.accessibility.json) |
+| [September 26 at 5:11 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-26T05:11:02.795437+05:30.accessibility.json) |
+| [September 25 at 5:16 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-25T17:16:14.538904+05:30.accessibility.json) |
+| [September 25 at 5:08 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-25T05:07:40.606152+05:30.accessibility.json) |
+| [September 24 at 5:17 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-24T17:17:08.022059+05:30.accessibility.json) |
+| [September 24 at 5:14 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-24T05:14:01.982984+05:30.accessibility.json) |
+| [September 23 at 5:24 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-23T17:24:20.621979+05:30.accessibility.json) |
+| [September 23 at 5:15 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-23T05:15:19.049290+05:30.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 110 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 127 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 5:22 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-19T17:22:40.565250+05:30.lighthouse.json) |
-| [September 19 at 5:14 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-19T05:14:32.232823+05:30.lighthouse.json) |
-| [September 18 at 4:23 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-18T16:23:23.539933+05:30.lighthouse.json) |
-| [September 18 at 4:27 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-18T04:27:29.457198+05:30.lighthouse.json) |
-| [September 17 at 4:23 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-17T16:23:39.466606+05:30.lighthouse.json) |
-| [September 17 at 4:26 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-17T04:26:26.514009+05:30.lighthouse.json) |
-| [September 16 at 4:26 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-16T16:26:00.473239+05:30.lighthouse.json) |
-| [September 16 at 4:29 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-16T04:29:10.711758+05:30.lighthouse.json) |
-| [September 15 at 4:29 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-15T16:28:49.502668+05:30.lighthouse.json) |
-| [September 15 at 4:35 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-15T04:35:19.902131+05:30.lighthouse.json) |
+| [September 27 at 5:23 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-27T17:23:04.769588+05:30.lighthouse.json) |
+| [September 27 at 5:15 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-27T05:15:48.455482+05:30.lighthouse.json) |
+| [September 26 at 5:29 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-26T17:28:43.392318+05:30.lighthouse.json) |
+| [September 26 at 5:11 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-26T05:11:02.795437+05:30.lighthouse.json) |
+| [September 25 at 5:16 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-25T17:16:14.538904+05:30.lighthouse.json) |
+| [September 25 at 5:08 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-25T05:07:40.606152+05:30.lighthouse.json) |
+| [September 24 at 5:17 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-24T17:17:08.022059+05:30.lighthouse.json) |
+| [September 24 at 5:14 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-24T05:14:01.982984+05:30.lighthouse.json) |
+| [September 23 at 5:24 PM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-23T17:24:20.621979+05:30.lighthouse.json) |
+| [September 23 at 5:15 AM](https://archive.org/download/dainikbhaskar-2022/dainikbhaskar-2022-09-23T05:15:19.049290+05:30.lighthouse.json) |
 
 
 
