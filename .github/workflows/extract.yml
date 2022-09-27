@@ -4,15 +4,60 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+    inputs:
+      download-items:
+        description: 'Download items'
+        required: true
+        type: boolean
+        default: false
 
 concurrency:
   group: extract
   cancel-in-progress: true
 
 jobs:
+  download-items:
+    name: Download items
+    runs-on: ubuntu-latest
+    if: inputs.download-items == true
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: install
+        name: Install Python dependencies
+        uses: ./.github/actions/install
+
+      - id: configure-git
+        name: Configure git
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git config pull.rebase false
+
+      - id: download-items
+        name: Download items
+        run: pipenv run python -m newshomepages.extract download-items
+        shell: bash
+
+      - id: consolidate-items
+        name: Consolidate items
+        run: pipenv run python -m newshomepages.extract consolidate
+        shell: bash
+
+      - id: commit
+        name: Commit
+        run: |
+          git pull origin $GITHUB_REF
+          git add ./extracts
+          git commit -m "Update archive.org items" --author="palewire <palewire@users.noreply.github.com>" && git push || true
+        shell: bash
+
   download-lighthouse:
     name: Download Lighthouse
     runs-on: ubuntu-latest
+    needs: [download-items]
     steps:
       - id: checkout
         name: Checkout
@@ -46,6 +91,7 @@ jobs:
   download-drudge-hyperlinks:
     name: Download Drudge hyperlinks
     runs-on: ubuntu-latest
+    needs: [download-items]
     steps:
       - id: checkout
         name: Checkout
