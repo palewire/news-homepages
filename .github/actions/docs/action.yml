@@ -14,8 +14,13 @@ runs:
       shell: bash
 
     - id: git-add-archive
-      name: Git add latest files
+      name: Consolidate latest files
       run: pipenv run python -m newshomepages.extract latest-files
+      shell: bash
+
+    - id: git-extract-consolidate
+      name: Consolidate latest extracts
+      run: pipenv run python -m newshomepages.extract consolidate
       shell: bash
 
     - id: accessibility-ranking
