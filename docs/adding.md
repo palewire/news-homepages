@@ -12,7 +12,9 @@
 
 ### 1. Add record to `sites.csv` file
 
-Adding a new site requires that a new row be added to [`sources/sites.csv`](https://github.com/palewire/news-homepages/blob/main/newshomepages/sources/sites.csv) with, at a minimum, the Twitter handle, URL, name, location, time zone, country and language of the target. Time zones should be provided in [Python's standard formatting scheme](https://gist.github.com/heyalexej/8bf688fd67d7199be4a1682b3eec7568). Country's should be provided as a two-digit [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1) alpha code. Languages should be provided as a two-digit [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) alpha code. You can override the system’s default by adding an optional attribute for the time delay before the screenshot, which, if provided, is expected in milliseconds.
+Adding a new site requires that a new row be added to [`sources/sites.csv`](https://github.com/palewire/news-homepages/blob/main/newshomepages/sources/sites.csv) with, at a minimum, the Twitter handle, URL, name, location, time zone, country and language of the target.
+
+Time zones should be provided in [Python's standard formatting scheme](https://gist.github.com/heyalexej/8bf688fd67d7199be4a1682b3eec7568). Country's should be provided as a two-digit [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1) alpha code. Languages should be provided as a two-digit [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) alpha code. You can override the system’s default by adding an optional attribute for the time delay before the screenshot, which, if provided, is expected in milliseconds.
 
 ### Test the screenshot
 
