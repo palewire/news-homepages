@@ -1,5 +1,5 @@
 {
-  "created": 1664285290,
+  "created": 1664308297,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/30/items/levernews-2022",
@@ -6268,31 +6268,82 @@
       "sha1": "9692aa65ed8405623f67c207ecbb05c815c54506"
     },
     {
+      "name": "levernews-2022-09-27T13:50:28.238706-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664308240",
+      "size": "7285",
+      "md5": "80941a906ca5542fd31839fb681d9d78",
+      "crc32": "817751a3",
+      "sha1": "70fde794f051fcde877e1808931d270a6a4fc795",
+      "format": "JSON"
+    },
+    {
+      "name": "levernews-2022-09-27T13:50:28.238706-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664308242",
+      "size": "6622",
+      "md5": "bc4cb2e763c7370be03ae0856c70523d",
+      "crc32": "b29428a0",
+      "sha1": "63af7fe1bf09e3b9c2e12b6b9c04a659fbb46d1c",
+      "format": "JSON"
+    },
+    {
+      "name": "levernews-2022-09-27T13:50:28.238706-06:00.jpg",
+      "source": "original",
+      "mtime": "1664308238",
+      "size": "247559",
+      "md5": "876d42a8509ad805a62daa89b4b90c88",
+      "crc32": "23290920",
+      "sha1": "d998887e641ea1dfd8f7976423e1442f0d9bd16c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "levernews-2022-09-27T13:50:28.238706-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664308243",
+      "size": "1486",
+      "md5": "db4ca333f00ab512b9418e846f111166",
+      "crc32": "6db7b55f",
+      "sha1": "c6555e7e5a5d8e78a0db597ac39adf3f2a654837",
+      "format": "JSON"
+    },
+    {
+      "name": "levernews-2022-09-27T13:50:28.238706-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1664308245",
+      "size": "6780",
+      "md5": "7f1156b47c9052ed5fd5903a18d651cf",
+      "crc32": "f7a2b127",
+      "sha1": "e9b7352880781aa18003819b2e8875611e0e1e08",
+      "format": "JSON"
+    },
+    {
       "name": "levernews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5bce29bc2902c8cea238f48c32731b153a6e382c",
-      "mtime": "1664285179",
-      "size": "128817",
-      "md5": "81e5ed283d670f432bd7d2d7ca70ca2e",
-      "crc32": "25d24ae4",
-      "sha1": "8dcec08917c552ec349e347fc381e844941dc77f",
+      "btih": "5ddbbeacafc9c2ffcb767ef7b24ec38c382424ae",
+      "mtime": "1664308291",
+      "size": "129862",
+      "md5": "7ae34d8fa975ed67cca202fd16365f67",
+      "crc32": "46781228",
+      "sha1": "0d46c54ff6c13e71a54367e133c717f156ebaf32",
       "format": "Archive BitTorrent"
     },
     {
       "name": "levernews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5fed1c752881d3a6516f9178001843d3",
+      "md5": "bbaf5cc76b55c5074af6b40662cf7908",
       "summation": "md5"
     },
     {
       "name": "levernews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664283695",
-      "size": "786432",
-      "md5": "254213d224d2270e521e533806df05c6",
-      "crc32": "247b9a85",
-      "sha1": "de9ba95c8e70e67b7188cb743fd42807c8bcd0db",
+      "mtime": "1664308250",
+      "size": "794624",
+      "md5": "9c59967ec14f7c3b08d434287146d500",
+      "crc32": "61761793",
+      "sha1": "b13b709b228444cb842a43965802297c97b1d503",
       "format": "Metadata"
     },
     {
@@ -6306,9 +6357,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 610,
-  "item_last_updated": 1664285179,
-  "item_size": 30066369,
+  "files_count": 615,
+  "item_last_updated": 1664308291,
+  "item_size": 30345338,
   "metadata": {
     "identifier": "levernews-2022",
     "collection": [
@@ -6325,10 +6376,21 @@
     "publicdate": "2022-08-23 18:29:53",
     "addeddate": "2022-08-23 18:29:53"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 2092011840,
+  "pending_tasks": true,
+  "server": "ia601406.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3420126383,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1307136339,
   "workable_servers": [
-    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1664300355,
+  "created": 1664308271,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/35/items/jacobin-2022",
@@ -13223,31 +13223,93 @@
       "format": "JSON"
     },
     {
+      "name": "jacobin-2022-09-27T13:37:58.234379-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jacobin-2022-09-27T13:37:58.234379-04:00.jpg",
+      "mtime": "1664304260",
+      "size": "10016",
+      "md5": "90221965da02378f732dba1a6e6670ee",
+      "crc32": "867619b2",
+      "sha1": "4f8ecf59fb0713eabd32e361aa7934993c9c00a3"
+    },
+    {
+      "name": "jacobin-2022-09-27T15:50:00.346893-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664308204",
+      "size": "19775",
+      "md5": "0b9ac923dadc1774ce024655e7cdb16b",
+      "crc32": "9cb9ed92",
+      "sha1": "64fba639c942dbc5ba990e2f040370fab4841f41",
+      "format": "JSON"
+    },
+    {
+      "name": "jacobin-2022-09-27T15:50:00.346893-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664308207",
+      "size": "12537",
+      "md5": "f77c30d964aa598a5773c0a6bfccf748",
+      "crc32": "e2ffea6f",
+      "sha1": "d6bfaf2370540adf2a067e9766ddfc1aac1bdd79",
+      "format": "JSON"
+    },
+    {
+      "name": "jacobin-2022-09-27T15:50:00.346893-04:00.jpg",
+      "source": "original",
+      "mtime": "1664308202",
+      "size": "308747",
+      "md5": "f7513d7505ea40678d8d0a2f20a29078",
+      "crc32": "34894a58",
+      "sha1": "2c5e2370ee4ec39e39106b49322dc0ee8b1e84fb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jacobin-2022-09-27T15:50:00.346893-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664308208",
+      "size": "1432",
+      "md5": "e912ea914f2885c96afc7b08b5811b41",
+      "crc32": "f71c3b19",
+      "sha1": "148019bc50887f65cce15286f44a903514c62894",
+      "format": "JSON"
+    },
+    {
+      "name": "jacobin-2022-09-27T15:50:00.346893-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664308210",
+      "size": "8495",
+      "md5": "1149ac55f2199d442f075df4fc265c0c",
+      "crc32": "81cc61d6",
+      "sha1": "3784a99dbd44860f80ac2cd7a87571b6e96ea980",
+      "format": "JSON"
+    },
+    {
       "name": "jacobin-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c45ad5ef860c09e940638b17dff49ddd377fd7dd",
-      "mtime": "1664300352",
-      "size": "268047",
-      "md5": "02cfb3fa8703d7609a8a247d089491fd",
-      "crc32": "c31f3643",
-      "sha1": "840dbfa6be24e77031d400ca89b64d31ba5cd94e",
+      "btih": "d29a3deee094d5508475c3d87675465e4432a444",
+      "mtime": "1664308266",
+      "size": "269308",
+      "md5": "f7736a125c5103914e16a28447e7e29c",
+      "crc32": "c4e9b403",
+      "sha1": "8c12b6030583559b74e8c3956a69539189925343",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jacobin-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2211cf5984cfca1536f5abbc6a35a3ce",
+      "md5": "c4669b858b679abafabe407bc1503077",
       "summation": "md5"
     },
     {
       "name": "jacobin-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664300302",
-      "size": "1597440",
-      "md5": "c640097670f64f6c1721bb9f3269c76c",
-      "crc32": "4971c544",
-      "sha1": "e7de2a1b8d19c10ae9370af3ab86e4f304eee8aa",
+      "mtime": "1664308216",
+      "size": "1605632",
+      "md5": "eefa2747aea1952fdbaa54580387f311",
+      "crc32": "65782043",
+      "sha1": "1062eca52338627426043583a1d9cbac13814d60",
       "format": "Metadata"
     },
     {
@@ -13261,9 +13323,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1279,
-  "item_last_updated": 1664300352,
-  "item_size": 82244834,
+  "files_count": 1285,
+  "item_last_updated": 1664308266,
+  "item_size": 82615289,
   "metadata": {
     "identifier": "jacobin-2022",
     "collection": [
@@ -13285,7 +13347,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3419988546,
+      "task_id": 3420125986,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13293,7 +13355,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1306499069,
+  "uniq": 1724894031,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]
