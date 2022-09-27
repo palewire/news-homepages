@@ -51,6 +51,10 @@ jobs:
         name: Download items
         run: pipenv run python -m newshomepages.extract download-items
         shell: bash
+        env:
+          IA_ACCESS_KEY: ${{ secrets.IA_ACCESS_KEY }}
+          IA_SECRET_KEY: ${{ secrets.IA_SECRET_KEY }}
+          IA_COLLECTION: ${{ secrets.IA_COLLECTION }}
 
       - id: consolidate-items
         name: Consolidate items
