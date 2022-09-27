@@ -1,5 +1,5 @@
 {
-  "created": 1664287660,
+  "created": 1664289522,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/13/items/newsweek-2022",
@@ -9525,21 +9525,32 @@
       "format": "JSON"
     },
     {
+      "name": "newsweek-2022-09-27T10:06:22.297359-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsweek-2022-09-27T10:06:22.297359-04:00.jpg",
+      "mtime": "1664289438",
+      "size": "11070",
+      "md5": "46da8028534ddb9f4f7288d41c112904",
+      "crc32": "e8110f46",
+      "sha1": "63b175ab3dd20ea680a34459c39666940fcec622"
+    },
+    {
       "name": "newsweek-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a6ca19a104223cd92ca21fa12005774329f27bf6",
-      "mtime": "1664287653",
-      "size": "195503",
-      "md5": "7851625b4f90fdc36a53e0af75da7115",
-      "crc32": "bca86c17",
-      "sha1": "c70e7719bb5f1a9a18130a2d489cd26fbfa1c626",
+      "btih": "c4ca6abeb5284557265c377faa99456996df610b",
+      "mtime": "1664289478",
+      "size": "195708",
+      "md5": "94ea6360ca8f2992515b46b277dc25d4",
+      "crc32": "8d393f62",
+      "sha1": "6d2d3d1a2aa23b4f4e4892fef4a70f7c96bf350f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newsweek-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "40376b487ba4d3fe35a5c859d252c0d2",
+      "md5": "050a3db1df58ffc9060fb4346a63048d",
       "summation": "md5"
     },
     {
@@ -9563,9 +9574,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 922,
-  "item_last_updated": 1664287653,
-  "item_size": 86048285,
+  "files_count": 923,
+  "item_last_updated": 1664289478,
+  "item_size": 86059560,
   "metadata": {
     "identifier": "newsweek-2022",
     "collection": [
@@ -9582,21 +9593,10 @@
     "publicdate": "2022-07-04 21:49:52",
     "addeddate": "2022-07-04 21:49:52"
   },
-  "pending_tasks": true,
   "server": "ia601504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419837680,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1306371550,
+  "uniq": 1172871169,
   "workable_servers": [
-    "ia601504.us.archive.org"
+    "ia601504.us.archive.org",
+    "ia801504.us.archive.org"
   ]
 }

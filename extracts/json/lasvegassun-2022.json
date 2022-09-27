@@ -1,5 +1,5 @@
 {
-  "created": 1664283666,
+  "created": 1664285112,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/12/items/lasvegassun-2022",
@@ -9627,21 +9627,32 @@
       "format": "JSON"
     },
     {
+      "name": "lasvegassun-2022-09-27T05:59:02.525583-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lasvegassun-2022-09-27T05:59:02.525583-07:00.jpg",
+      "mtime": "1664285039",
+      "size": "10599",
+      "md5": "a6c2cda0f9291282f86842ec0021d78b",
+      "crc32": "99801290",
+      "sha1": "7097dfe6cb637138b7d1a5fe1dd1623ebf6c4c59"
+    },
+    {
       "name": "lasvegassun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "13d27d3e72093322fa12626dd0556358fc176327",
-      "mtime": "1664283652",
-      "size": "199570",
-      "md5": "e2fce33fcdb660eed9b6e4b46fb71008",
-      "crc32": "bbb5914a",
-      "sha1": "45cfce8036350cf542b1019466e3fb473c87b3b5",
+      "btih": "8660255b1260a6a09c5c79b958a0dcbaa5d9adf7",
+      "mtime": "1664285051",
+      "size": "199778",
+      "md5": "e5200591c989f47dfd49b0b7c39f0dd1",
+      "crc32": "def2dab3",
+      "sha1": "4714713e48c4d29f6b9e48034668c65a35a4843b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lasvegassun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f37e9abc89052b9ada02ba6a28ebdf02",
+      "md5": "3e975f510d4235aa51f71dd7b42f6f82",
       "summation": "md5"
     },
     {
@@ -9665,9 +9676,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 932,
-  "item_last_updated": 1664283652,
-  "item_size": 69099361,
+  "files_count": 933,
+  "item_last_updated": 1664285051,
+  "item_size": 69110168,
   "metadata": {
     "identifier": "lasvegassun-2022",
     "collection": [
@@ -9684,21 +9695,10 @@
     "publicdate": "2022-07-04 21:55:34",
     "addeddate": "2022-07-04 21:55:34"
   },
-  "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419794710,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 860900064,
+  "server": "ia801407.us.archive.org",
+  "uniq": 908868668,
   "workable_servers": [
+    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

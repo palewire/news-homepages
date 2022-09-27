@@ -1,5 +1,5 @@
 {
-  "created": 1664283727,
+  "created": 1664285435,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/21/items/livingstondaily-2022",
@@ -935,21 +935,32 @@
       "format": "JSON"
     },
     {
+      "name": "livingstondaily-2022-09-27T09:00:54.010359-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "livingstondaily-2022-09-27T09:00:54.010359-04:00.jpg",
+      "mtime": "1664285104",
+      "size": "9047",
+      "md5": "28637afea46b4290d4c9a8015266674b",
+      "crc32": "6c72b63d",
+      "sha1": "1a365fa2809eb609202b14c6dc7294dfe219c61e"
+    },
+    {
       "name": "livingstondaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b12f81b09d6c6509689fcbe899d3675f4e943974",
-      "mtime": "1664283719",
-      "size": "21033",
-      "md5": "65d4cae89e38b18280354be315f2b5fd",
-      "crc32": "5aade14d",
-      "sha1": "255653fcd8a9b34c7684c3f629fab0a3e1082e73",
+      "btih": "175875f2968fef5640d8b351a438e16b1c278398",
+      "mtime": "1664285108",
+      "size": "21244",
+      "md5": "02ac5425d64a956c4e6b2df1fd053f8b",
+      "crc32": "1fe82505",
+      "sha1": "c8f7ae13af0582f916ab4319f1682e0ae34596fa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "livingstondaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8a01aa4ade79bc1ef0eb769091dd9302",
+      "md5": "3d9cdeac208a9b00520a0d6c35cf00e9",
       "summation": "md5"
     },
     {
@@ -973,9 +984,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 94,
-  "item_last_updated": 1664283719,
-  "item_size": 5919015,
+  "files_count": 95,
+  "item_last_updated": 1664285108,
+  "item_size": 5928273,
   "metadata": {
     "identifier": "livingstondaily-2022",
     "collection": [
@@ -992,21 +1003,10 @@
     "publicdate": "2022-09-20 22:27:01",
     "addeddate": "2022-09-20 22:27:01"
   },
-  "pending_tasks": true,
-  "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419796279,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1868152711,
+  "server": "ia801507.us.archive.org",
+  "uniq": 1221249572,
   "workable_servers": [
+    "ia801507.us.archive.org",
     "ia601507.us.archive.org"
   ]
 }

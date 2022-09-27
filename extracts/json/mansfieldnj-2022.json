@@ -1,5 +1,5 @@
 {
-  "created": 1664283774,
+  "created": 1664294810,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/5/items/mansfieldnj-2022",
@@ -935,21 +935,32 @@
       "format": "JSON"
     },
     {
+      "name": "mansfieldnj-2022-09-27T09:00:59.819117-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mansfieldnj-2022-09-27T09:00:59.819117-04:00.jpg",
+      "mtime": "1664285178",
+      "size": "9002",
+      "md5": "399866e942d1276aa6e55a981b76f9d6",
+      "crc32": "e47dac25",
+      "sha1": "c08704d6f1311d62fff0340442c974f6f236db28"
+    },
+    {
       "name": "mansfieldnj-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6097440975add4a4ce793d9af1cff7195830a02f",
-      "mtime": "1664283768",
-      "size": "20643",
-      "md5": "f093c95174a65beed7f546f2d52c68cf",
-      "crc32": "73518c31",
-      "sha1": "26d0d0f5f7c9b958ea085dcaaee7b7f4f2f6f41d",
+      "btih": "6b1bb07d9f3c24263adf8830c8c729a3f8cf5a25",
+      "mtime": "1664285190",
+      "size": "20850",
+      "md5": "e304d6cea1989eada9ff17bfc7f5f731",
+      "crc32": "98ed6466",
+      "sha1": "8be0cd15351a1f701b832ee0d2ba67386e1abac3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mansfieldnj-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8dbecde68df3fa8f33774111f778408d",
+      "md5": "cb66832ebdf54bb6c2c5701b7877239f",
       "summation": "md5"
     },
     {
@@ -973,9 +984,13 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 94,
-  "item_last_updated": 1664283768,
-  "item_size": 6000501,
+  "files_count": 95,
+  "item_last_updated": 1664285190,
+  "item_size": 6009710,
+  "mansfieldnj-2022": {
+    "url": "https://www.mansfieldnewsjournal.com/",
+    "job_id": "spn2-d5001e1835efd86ec2a90f4ff0f80e06535fb61e"
+  },
   "metadata": {
     "identifier": "mansfieldnj-2022",
     "collection": [
@@ -992,21 +1007,10 @@
     "publicdate": "2022-09-20 22:28:08",
     "addeddate": "2022-09-20 22:28:08"
   },
-  "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419797532,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1438581200,
+  "server": "ia801407.us.archive.org",
+  "uniq": 845198965,
   "workable_servers": [
+    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1664287661,
+  "created": 1664289237,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/0/items/newstatesman-2022",
@@ -7425,21 +7425,32 @@
       "format": "JSON"
     },
     {
+      "name": "newstatesman-2022-09-27T15:06:31.321825+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newstatesman-2022-09-27T15:06:31.321825+01:00.jpg",
+      "mtime": "1664289195",
+      "size": "10300",
+      "md5": "40f46347df419ec53cace1e844e30779",
+      "crc32": "812ddee8",
+      "sha1": "97ec3e52f09cbd8b54ca837145f709e2d78a59bb"
+    },
+    {
       "name": "newstatesman-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2df54933f07c7b640000a608c8bbb575b92980a2",
-      "mtime": "1664287657",
-      "size": "155257",
-      "md5": "11030e981620e6f26f9f05b922af4ec8",
-      "crc32": "07bdcfa3",
-      "sha1": "66c899b74af3c14b3accded2107a0caaedd15acc",
+      "btih": "fddb077f3ca23de6b32a1e9e17cc04dd6047e3a0",
+      "mtime": "1664289214",
+      "size": "155466",
+      "md5": "030a3fa4dd7b945bef38110c6f93ef2b",
+      "crc32": "903574ca",
+      "sha1": "f609f6a1bd9a6425f744fe89e171474ae91d26c6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newstatesman-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0fe3adbdae8c08aa7f95ad14897bd695",
+      "md5": "e9f60f8ad590080ff25ba55cf031fb96",
       "summation": "md5"
     },
     {
@@ -7463,9 +7474,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 722,
-  "item_last_updated": 1664287657,
-  "item_size": 45929665,
+  "files_count": 723,
+  "item_last_updated": 1664289214,
+  "item_size": 45940174,
   "metadata": {
     "identifier": "newstatesman-2022",
     "collection": [
@@ -7482,21 +7493,10 @@
     "publicdate": "2022-08-18 23:57:19",
     "addeddate": "2022-08-18 23:57:19"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419837694,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 589254363,
+  "server": "ia801505.us.archive.org",
+  "uniq": 1298729767,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

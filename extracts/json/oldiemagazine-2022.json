@@ -1,5 +1,5 @@
 {
-  "created": 1664287785,
+  "created": 1664295437,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/31/items/oldiemagazine-2022",
@@ -7497,21 +7497,32 @@
       "format": "JSON"
     },
     {
+      "name": "oldiemagazine-2022-09-27T15:08:35.737109+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oldiemagazine-2022-09-27T15:08:35.737109+01:00.jpg",
+      "mtime": "1664289368",
+      "size": "8390",
+      "md5": "b4bc2141662178bdb185acad70568417",
+      "crc32": "c184301c",
+      "sha1": "7b37a08998d24c3f88ef770f4a3b435029d2a3a9"
+    },
+    {
       "name": "oldiemagazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a6751679bcefd74043322d0dd70604f3050d930e",
-      "mtime": "1664287780",
-      "size": "156181",
-      "md5": "803eafd5dfe20c0abd568e61bc3816c3",
-      "crc32": "483bca26",
-      "sha1": "ca6e8776eaadd0de0516882ca5ae113b009b803f",
+      "btih": "6f2765b546fd008f4cc13fa2a00ca704e87d42eb",
+      "mtime": "1664289386",
+      "size": "156390",
+      "md5": "5824b730e266fc6b438f8de7a586a6cc",
+      "crc32": "09a79682",
+      "sha1": "f4499a7752ac239b885af87a54858acefd78005d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oldiemagazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "874367b6dc3bbb6c5468e82c4f998e6f",
+      "md5": "863e36598d9947ec7323b62222ff9e11",
       "summation": "md5"
     },
     {
@@ -7535,9 +7546,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 729,
-  "item_last_updated": 1664287780,
-  "item_size": 17703815,
+  "files_count": 730,
+  "item_last_updated": 1664289386,
+  "item_size": 17712414,
   "metadata": {
     "identifier": "oldiemagazine-2022",
     "collection": [
@@ -7554,21 +7565,15 @@
     "publicdate": "2022-08-18 23:58:11",
     "addeddate": "2022-08-18 23:58:11"
   },
-  "pending_tasks": true,
+  "oldiemagazine-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419839018,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1316098714,
+  "uniq": 845861065,
   "workable_servers": [
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

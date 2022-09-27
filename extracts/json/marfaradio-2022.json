@@ -1,5 +1,5 @@
 {
-  "created": 1664283732,
+  "created": 1664294830,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/24/items/marfaradio-2022",
@@ -8433,21 +8433,32 @@
       "format": "JSON"
     },
     {
+      "name": "marfaradio-2022-09-27T08:00:59.209285-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "marfaradio-2022-09-27T08:00:59.209285-05:00.jpg",
+      "mtime": "1664285339",
+      "size": "9039",
+      "md5": "bd275b531f6ce788349fa395b62eb21b",
+      "crc32": "5c91bfcd",
+      "sha1": "457a286fbf8bcf1feb0124e70c8a75aa74c70f63"
+    },
+    {
       "name": "marfaradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "21a946f661c893262bda853a5b84918c92fcb51b",
-      "mtime": "1664283729",
-      "size": "173957",
-      "md5": "21ef4d78ea44a7471d5406f5d0df1304",
-      "crc32": "91c9bc53",
-      "sha1": "1f1b222b56842bb004060c3fb365c67a47e3d5dc",
+      "btih": "613057c7c807b3acc1653ab975c7068a338ad4ce",
+      "mtime": "1664285349",
+      "size": "174163",
+      "md5": "a506b23bf30ed0274b48b75e2cdc72f3",
+      "crc32": "435e1bbc",
+      "sha1": "b1e0093e11030eea8ecad83e6f7bbfc34ba1cdf0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "marfaradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "210965fc31211afbebf863ad6c770fee",
+      "md5": "bc3182d48604551024158c19d058a279",
       "summation": "md5"
     },
     {
@@ -8471,9 +8482,13 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 818,
-  "item_last_updated": 1664283729,
-  "item_size": 48165064,
+  "files_count": 819,
+  "item_last_updated": 1664285349,
+  "item_size": 48174309,
+  "marfaradio-2022": {
+    "url": "https://marfapublicradio.org/",
+    "job_id": "spn2-c0b5872b1b77e407b6dcca26054f3b476a745988"
+  },
   "metadata": {
     "identifier": "marfaradio-2022",
     "collection": [
@@ -8490,21 +8505,10 @@
     "publicdate": "2022-07-18 00:04:45",
     "addeddate": "2022-07-18 00:04:45"
   },
-  "pending_tasks": true,
-  "server": "ia902506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419796437,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 783152807,
+  "server": "ia802506.us.archive.org",
+  "uniq": 409607401,
   "workable_servers": [
+    "ia802506.us.archive.org",
     "ia902506.us.archive.org"
   ]
 }

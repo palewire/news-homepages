@@ -1,5 +1,5 @@
 {
-  "created": 1664283502,
+  "created": 1664284792,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/5/items/hornelltribune-2022",
@@ -935,21 +935,32 @@
       "format": "JSON"
     },
     {
+      "name": "hornelltribune-2022-09-27T08:57:23.187005-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hornelltribune-2022-09-27T08:57:23.187005-04:00.jpg",
+      "mtime": "1664284686",
+      "size": "8934",
+      "md5": "69c97f468c99339bc91fa5418cebc69b",
+      "crc32": "13628b11",
+      "sha1": "2af3ad959d437d2d3f1e2362dd7c4d27c199b183"
+    },
+    {
       "name": "hornelltribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c4b6de41a27924c8acd6f342de0dc72d1c023f5a",
-      "mtime": "1664283493",
-      "size": "20965",
-      "md5": "c8a63a010eeed28568c52fd3ce903a87",
-      "crc32": "6b52e9dd",
-      "sha1": "269c0d56375cd5a76568ba4fda0a24fcd88fb2a9",
+      "btih": "6c2428df457b90795a4d6797938d7b04af840fba",
+      "mtime": "1664284698",
+      "size": "21175",
+      "md5": "c47e5db8d5a10b6536fcdaf2a885cf4d",
+      "crc32": "6499d338",
+      "sha1": "4834cf590ec738b921521dd84c87e505de6a2bb4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hornelltribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "adf877bfbae717694168b47ca7383221",
+      "md5": "ee9371b14c4fc58cb7f07a5dc127ec44",
       "summation": "md5"
     },
     {
@@ -973,9 +984,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 94,
-  "item_last_updated": 1664283493,
-  "item_size": 6819086,
+  "files_count": 95,
+  "item_last_updated": 1664284698,
+  "item_size": 6828230,
   "metadata": {
     "identifier": "hornelltribune-2022",
     "collection": [
@@ -992,21 +1003,10 @@
     "publicdate": "2022-09-20 22:19:33",
     "addeddate": "2022-09-20 22:19:33"
   },
-  "pending_tasks": true,
-  "server": "ia601504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419792155,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1269133314,
+  "server": "ia801504.us.archive.org",
+  "uniq": 138626953,
   "workable_servers": [
+    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

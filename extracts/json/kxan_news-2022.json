@@ -1,5 +1,5 @@
 {
-  "created": 1664283597,
+  "created": 1664285409,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/26/items/kxan_news-2022",
@@ -8423,21 +8423,32 @@
       "format": "JSON"
     },
     {
+      "name": "kxan_news-2022-09-27T07:58:47.662593-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kxan_news-2022-09-27T07:58:47.662593-05:00.jpg",
+      "mtime": "1664285171",
+      "size": "10740",
+      "md5": "811c7b7020fbc46a058e3808d376a089",
+      "crc32": "befbefaa",
+      "sha1": "770a216c0aa84e7df61b776358d3384746bc8270"
+    },
+    {
       "name": "kxan_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4d6bc187fae0f19736f4bf541d37623e07d73561",
-      "mtime": "1664283590",
-      "size": "174251",
-      "md5": "7213b25e6b6f39449c76e4d8869a2d8c",
-      "crc32": "fc56e1eb",
-      "sha1": "e11b485e048d8d10a6cf1a724c2046bcf4db0022",
+      "btih": "3c1ee39f8f1463ee9de5ad939fd91b6fb1eea0d1",
+      "mtime": "1664285184",
+      "size": "174457",
+      "md5": "e48842d361312354b21bc4b95274f540",
+      "crc32": "77a9d214",
+      "sha1": "dce22d56084a40fbea1a67e20a415b9d55d9e004",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kxan_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "61bbaac21b5edd73182974dbc8ad858e",
+      "md5": "971f5a23201e7feaa68dd95a3c407542",
       "summation": "md5"
     },
     {
@@ -8461,9 +8472,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 817,
-  "item_last_updated": 1664283590,
-  "item_size": 76375292,
+  "files_count": 818,
+  "item_last_updated": 1664285184,
+  "item_size": 76386238,
   "metadata": {
     "identifier": "kxan_news-2022",
     "collection": [
@@ -8480,21 +8491,10 @@
     "publicdate": "2022-07-18 00:05:12",
     "addeddate": "2022-07-18 00:05:12"
   },
-  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419793115,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1167575392,
+  "uniq": 375960102,
   "workable_servers": [
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

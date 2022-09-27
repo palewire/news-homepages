@@ -1,5 +1,5 @@
 {
-  "created": 1664283631,
+  "created": 1664294400,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/24/items/khnews-2022",
@@ -7837,21 +7837,32 @@
       "format": "JSON"
     },
     {
+      "name": "khnews-2022-09-27T08:58:58.120951-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "khnews-2022-09-27T08:58:58.120951-04:00.jpg",
+      "mtime": "1664286082",
+      "size": "9310",
+      "md5": "d328ef23be88803167a3c8bc106d9521",
+      "crc32": "818d2a7c",
+      "sha1": "35ac9409f0a6d8dfca3f6bb8fbb4d99de7b8bb07"
+    },
+    {
       "name": "khnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ef1f1773927ae795a0f6be109ddf6709e5155e2c",
-      "mtime": "1664283611",
-      "size": "159124",
-      "md5": "9607c811a80c755d39f76d8958154283",
-      "crc32": "48db2a8e",
-      "sha1": "ce3976627350d9907d604607438277868fec8982",
+      "btih": "daa9ff56c045acb6b303849dd03c3689638b0890",
+      "mtime": "1664286091",
+      "size": "159326",
+      "md5": "b71f0c1996d0c8528f87158e85fecdd8",
+      "crc32": "3b09787c",
+      "sha1": "721037a81446109b7910157a8ecdae8f9a75b4b2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "khnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "03edd46a52a850a693a19abfcbabc708",
+      "md5": "94373c191d39520ff6737c71a7a15dfd",
       "summation": "md5"
     },
     {
@@ -7875,9 +7886,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 761,
-  "item_last_updated": 1664283611,
-  "item_size": 52177126,
+  "files_count": 762,
+  "item_last_updated": 1664286091,
+  "item_size": 52186638,
+  "khnews-2022": {
+    "url": "https://khn.org/",
+    "job_id": "spn2-1f0c24c55ec42463d47f31fada615901bf66d654",
+    "message": "The same snapshot had been made 16 minutes, 13 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
   "metadata": {
     "identifier": "khnews-2022",
     "collection": [
@@ -7894,21 +7910,10 @@
     "publicdate": "2022-07-26 00:17:30",
     "addeddate": "2022-07-26 00:17:30"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419793928,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1458835349,
+  "server": "ia801405.us.archive.org",
+  "uniq": 199535031,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

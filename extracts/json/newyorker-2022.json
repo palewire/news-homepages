@@ -1,5 +1,5 @@
 {
-  "created": 1664287662,
+  "created": 1664289277,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/18/items/newyorker-2022",
@@ -10843,21 +10843,32 @@
       "format": "JSON"
     },
     {
+      "name": "newyorker-2022-09-27T10:06:23.027226-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newyorker-2022-09-27T10:06:23.027226-04:00.jpg",
+      "mtime": "1664289211",
+      "size": "9552",
+      "md5": "14c28efdfb1950f4605bf1bfc3be4341",
+      "crc32": "a0713e5e",
+      "sha1": "5eca5723a1e8a20e80a8b56fdf07509e23bae287"
+    },
+    {
       "name": "newyorker-2022_archive.torrent",
       "source": "metadata",
-      "btih": "00f756e092da4810fdb1e13dc21f6c8f04652da2",
-      "mtime": "1664287652",
-      "size": "222085",
-      "md5": "3c27215c9c77f0fff0ee3d38684a1d4c",
-      "crc32": "29ced192",
-      "sha1": "397563fe860d362efc1cac4871813a0a3929fb57",
+      "btih": "ace94c25f32ce7f2925b35304a362ba723cb56b8",
+      "mtime": "1664289233",
+      "size": "222290",
+      "md5": "f4d4e3eedae87aae7592959c66c2c4c6",
+      "crc32": "d9a105bd",
+      "sha1": "3097284f3b7034f31cff8e741c0e30d408eac8cb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newyorker-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "922afc062592f2ef079a228fa9d4d1c0",
+      "md5": "687581a344707a87eb87ceb65e291310",
       "summation": "md5"
     },
     {
@@ -10881,9 +10892,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1047,
-  "item_last_updated": 1664287652,
-  "item_size": 81503748,
+  "files_count": 1048,
+  "item_last_updated": 1664289233,
+  "item_size": 81513505,
   "metadata": {
     "identifier": "newyorker-2022",
     "collection": [
@@ -10900,21 +10911,10 @@
     "publicdate": "2022-06-24 22:58:35",
     "addeddate": "2022-06-24 22:58:35"
   },
-  "pending_tasks": true,
   "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419837718,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 205279633,
+  "uniq": 197654891,
   "workable_servers": [
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }

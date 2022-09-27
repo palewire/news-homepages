@@ -1,5 +1,5 @@
 {
-  "created": 1664283489,
+  "created": 1664285192,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/26/items/huffpostcanada-2022",
@@ -8055,21 +8055,32 @@
       "format": "JSON"
     },
     {
+      "name": "huffpostcanada-2022-09-27T08:57:03.319141-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "huffpostcanada-2022-09-27T08:57:03.319141-04:00.jpg",
+      "mtime": "1664284713",
+      "size": "10844",
+      "md5": "7828afd44f902de9278e6fdfc4709670",
+      "crc32": "3abe06c3",
+      "sha1": "bb596a7715309c4eeb9068f13a65d22fc094c68c"
+    },
+    {
       "name": "huffpostcanada-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a5218751d838d958b67c63d36bc58a6dc6b110ab",
-      "mtime": "1664283482",
-      "size": "170005",
-      "md5": "6999e558234f32b09ade0ec3b8e323db",
-      "crc32": "d502dbb1",
-      "sha1": "81cedac225a541e887496ae3160102ddde81ffdf",
+      "btih": "2700868d615da532a897758c7cb2080ac42f64d7",
+      "mtime": "1664284722",
+      "size": "170216",
+      "md5": "2f024354b07b62e25a6a485e09ab848b",
+      "crc32": "06289c1a",
+      "sha1": "f23dff8205c293a68098c5bb8d634b8418b23649",
       "format": "Archive BitTorrent"
     },
     {
       "name": "huffpostcanada-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4e395ed065a5d3500765f0bfaa3ddf10",
+      "md5": "f12eaca81e024a29d94a9d15dcd730aa",
       "summation": "md5"
     },
     {
@@ -8093,9 +8104,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 782,
-  "item_last_updated": 1664283482,
-  "item_size": 55721541,
+  "files_count": 783,
+  "item_last_updated": 1664284722,
+  "item_size": 55732596,
   "metadata": {
     "identifier": "huffpostcanada-2022",
     "collection": [
@@ -8112,21 +8123,10 @@
     "publicdate": "2022-07-24 06:33:07",
     "addeddate": "2022-07-24 06:33:07"
   },
-  "pending_tasks": true,
   "server": "ia601400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419792059,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 518717002,
+  "uniq": 36303463,
   "workable_servers": [
-    "ia601400.us.archive.org"
+    "ia601400.us.archive.org",
+    "ia801400.us.archive.org"
   ]
 }

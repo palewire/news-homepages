@@ -1,5 +1,5 @@
 {
-  "created": 1664283442,
+  "created": 1664293821,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/14/items/foxnews-2022",
@@ -37343,21 +37343,32 @@
       "format": "JSON"
     },
     {
+      "name": "foxnews-2022-09-27T08:54:27.453870-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxnews-2022-09-27T08:54:27.453870-04:00.jpg",
+      "mtime": "1664285256",
+      "size": "11925",
+      "md5": "883523c0c2a91dc48f1718c1fa99ff46",
+      "crc32": "c39736ac",
+      "sha1": "715367fd99cc8e6b664321ccd97ca465b0c22f49"
+    },
+    {
       "name": "foxnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ddb174209e1306474f08e7a58c322474b74d81fb",
-      "mtime": "1664283436",
-      "size": "758268",
-      "md5": "c521648d8e2bc6d58168ddc62200ccbe",
-      "crc32": "beb8e3f7",
-      "sha1": "1b4fb5e8fd5de56a05551e6283b0df47ddbe94b1",
+      "btih": "fc7aae0f0fb9eefd0097a0c368109d8f9ad00c5e",
+      "mtime": "1664285440",
+      "size": "758472",
+      "md5": "8e78aaa488bca6819e901c05e96314c5",
+      "crc32": "2d6cf72d",
+      "sha1": "5a4dd1f6981033e614830a021d3d35cb8286342c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foxnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5741fb3afa25b997f97630b048533c63",
+      "md5": "152f573509b246596d484679f89d29e1",
       "summation": "md5"
     },
     {
@@ -37381,9 +37392,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 3581,
-  "item_last_updated": 1664283436,
-  "item_size": 466853577,
+  "files_count": 3582,
+  "item_last_updated": 1664285440,
+  "item_size": 466865706,
   "metadata": {
     "identifier": "foxnews-2022",
     "collection": [
@@ -37400,21 +37411,10 @@
     "publicdate": "2022-03-23 01:45:55",
     "addeddate": "2022-03-23 01:45:55"
   },
-  "pending_tasks": true,
   "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419791648,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1568825557,
+  "uniq": 524916367,
   "workable_servers": [
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

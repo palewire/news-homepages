@@ -1,5 +1,5 @@
 {
-  "created": 1664283772,
+  "created": 1664285553,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/24/items/mddailyrecord-2022",
@@ -8799,21 +8799,32 @@
       "format": "JSON"
     },
     {
+      "name": "mddailyrecord-2022-09-27T09:01:04.609295-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mddailyrecord-2022-09-27T09:01:04.609295-04:00.jpg",
+      "mtime": "1664285401",
+      "size": "10263",
+      "md5": "4c7435630b2f1d98d2560f5d0cff519a",
+      "crc32": "85b1bba1",
+      "sha1": "bbcdcdfc18974f28756f5fdb4d9c3d4ab697ef60"
+    },
+    {
       "name": "mddailyrecord-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c62fe0b85db60feb829c6c544cc423a419762b0c",
-      "mtime": "1664283759",
-      "size": "184579",
-      "md5": "38157ace2528a215cf08f5d147611657",
-      "crc32": "6c7dbc7a",
-      "sha1": "081e3303832dd4637e61083dec198a8e015a094a",
+      "btih": "112cd4287066d50a8efae8baa5a74f37c96442ea",
+      "mtime": "1664285422",
+      "size": "184789",
+      "md5": "992aa3979266c80e32f12c30fddb53dc",
+      "crc32": "9c25320e",
+      "sha1": "84aa397e372afae8d41444666257f3a505c67967",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mddailyrecord-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "311be084d919753adedb0e657013c2ef",
+      "md5": "4c76e3767ecdfd67d08a4879011d718b",
       "summation": "md5"
     },
     {
@@ -8837,9 +8848,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 852,
-  "item_last_updated": 1664283759,
-  "item_size": 75412900,
+  "files_count": 853,
+  "item_last_updated": 1664285422,
+  "item_size": 75423373,
   "metadata": {
     "identifier": "mddailyrecord-2022",
     "collection": [
@@ -8856,21 +8867,10 @@
     "publicdate": "2022-07-13 02:25:07",
     "addeddate": "2022-07-13 02:25:07"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419797483,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1713809989,
+  "server": "ia801501.us.archive.org",
+  "uniq": 112663258,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1664283597,
+  "created": 1664292721,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/35/items/nytimes-2022",
@@ -48409,21 +48409,32 @@
       "format": "JSON"
     },
     {
+      "name": "nytimes-2022-09-27T08:54:46.643784-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nytimes-2022-09-27T08:54:46.643784-04:00.jpg",
+      "mtime": "1664285005",
+      "size": "9916",
+      "md5": "205ab2aaae704820864943f1b6bcc378",
+      "crc32": "2f2ab738",
+      "sha1": "84226894f95bc98bbb189235969b07ab73bd0e17"
+    },
+    {
       "name": "nytimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f26841cea2b1a8c5b3d6fe6390362b0e7ef38e87",
-      "mtime": "1664283552",
-      "size": "972890",
-      "md5": "241515891d4a358e30c0de52978d37de",
-      "crc32": "6ccfb500",
-      "sha1": "4eb245d0493a277ff009b3617e28dee1991c0d4e",
+      "btih": "efe8f1554bb63ef99bb7fd8a68bbaec96ad867fd",
+      "mtime": "1664285581",
+      "size": "973093",
+      "md5": "a79248dd3311661aa3cab2955e831019",
+      "crc32": "26722198",
+      "sha1": "5459533abfdf523693fe39956af9fa49e083e12c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nytimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "344f151953a3c3c5e96f673be16d6557",
+      "md5": "0b2e53f25fa7365decf655710774560e",
       "summation": "md5"
     },
     {
@@ -48447,9 +48458,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 4630,
-  "item_last_updated": 1664283552,
-  "item_size": 437737510,
+  "files_count": 4631,
+  "item_last_updated": 1664285581,
+  "item_size": 437747629,
   "metadata": {
     "identifier": "nytimes-2022",
     "collection": [
@@ -48466,21 +48477,10 @@
     "publicdate": "2022-03-23 00:46:07",
     "addeddate": "2022-03-23 00:46:07"
   },
-  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419793401,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1085445805,
+  "uniq": 1238744211,
   "workable_servers": [
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

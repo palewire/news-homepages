@@ -1,5 +1,5 @@
 {
-  "created": 1664287830,
+  "created": 1664295341,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/0/items/nymag-2022",
@@ -9643,21 +9643,32 @@
       "format": "JSON"
     },
     {
+      "name": "nymag-2022-09-27T10:09:26.094155-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nymag-2022-09-27T10:09:26.094155-04:00.jpg",
+      "mtime": "1664289421",
+      "size": "9607",
+      "md5": "a668f92dcfcf1d102b5f717a8a642a45",
+      "crc32": "f40256e5",
+      "sha1": "9aecd5a7428f044270d99a7819018a41d2dce24f"
+    },
+    {
       "name": "nymag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e84d2e6cd522af0e2a6532f69d7d179da4466203",
-      "mtime": "1664287826",
-      "size": "194867",
-      "md5": "de2da2b2ce4f3661b1ab9786bcb379e2",
-      "crc32": "3198c716",
-      "sha1": "9cb1f9e0996faf587828589ac636a9ffe783d1cc",
+      "btih": "3f72a33fdf986207372114711e7f2d28f8b14244",
+      "mtime": "1664289434",
+      "size": "195068",
+      "md5": "4b6f492daa59822bd03595f8388f09a2",
+      "crc32": "60fe991c",
+      "sha1": "5d556a9c0827e3c075e1357e69a0e7aa9fd71312",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nymag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3a20871c6c4c4f2c6206f81afe531e86",
+      "md5": "02bec367d2ffdefd0e6dca174b7e5937",
       "summation": "md5"
     },
     {
@@ -9681,9 +9692,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 933,
-  "item_last_updated": 1664287826,
-  "item_size": 87290373,
+  "files_count": 934,
+  "item_last_updated": 1664289434,
+  "item_size": 87300181,
   "metadata": {
     "identifier": "nymag-2022",
     "collection": [
@@ -9700,21 +9711,15 @@
     "publicdate": "2022-07-04 21:50:24",
     "addeddate": "2022-07-04 21:50:24"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419839429,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 879356489,
+  "nymag-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia801501.us.archive.org",
+  "uniq": 1160034416,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

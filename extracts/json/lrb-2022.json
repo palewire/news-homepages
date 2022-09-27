@@ -1,5 +1,5 @@
 {
-  "created": 1664283829,
+  "created": 1664294756,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/22/items/lrb-2022",
@@ -7559,21 +7559,32 @@
       "format": "JSON"
     },
     {
+      "name": "lrb-2022-09-27T14:00:39.198610+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lrb-2022-09-27T14:00:39.198610+01:00.jpg",
+      "mtime": "1664285223",
+      "size": "8304",
+      "md5": "88f6d3287e910d9404d8c3be60b69e5a",
+      "crc32": "4acb05fd",
+      "sha1": "b7ab07a8548fba7e8278ec0288fab91f0c9197be"
+    },
+    {
       "name": "lrb-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bc3a3aeefae895733c02246c2ddbd845f7a5dedd",
-      "mtime": "1664283793",
-      "size": "151300",
-      "md5": "5b1304818b3879657a2524b4e50a638f",
-      "crc32": "ca9a8f74",
-      "sha1": "a7b391b279ad19d72dadcef337ed576574444d13",
+      "btih": "bf66c3b9be22ade3a1f33ba680306ec7a9b1bd89",
+      "mtime": "1664285234",
+      "size": "151499",
+      "md5": "6c1b0c888a90cef0abda03584390b832",
+      "crc32": "2450e2be",
+      "sha1": "0bdde93d59afaf308b92bd72d069786ab67f08e4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lrb-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cbf9af709af62b255fe69d13527fa04c",
+      "md5": "18e956f755035ae787bbce4ea7e46710",
       "summation": "md5"
     },
     {
@@ -7597,9 +7608,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 735,
-  "item_last_updated": 1664283793,
-  "item_size": 46903358,
+  "files_count": 736,
+  "item_last_updated": 1664285234,
+  "item_size": 46911861,
+  "lrb-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "lrb-2022",
     "collection": [
@@ -7616,21 +7632,10 @@
     "publicdate": "2022-08-18 23:54:57",
     "addeddate": "2022-08-18 23:54:57"
   },
-  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419798683,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1844142307,
+  "uniq": 1315509399,
   "workable_servers": [
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1663608898,
+  "created": 1664258624,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/19/items/mainemonitor-2022",
@@ -2982,31 +2982,961 @@
       "sha1": "c3868aad1655674693e8c924d90cc95202cd592c"
     },
     {
+      "name": "mainemonitor-2022-09-20T02:01:51.724648-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663653714",
+      "size": "14727",
+      "md5": "1c38e6fac2231bdc950a79f14a3457a9",
+      "crc32": "e3f65a5c",
+      "sha1": "9ada2646ec057b25f0032fb1b5a343035bf46911",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-20T02:01:51.724648-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663653716",
+      "size": "13923",
+      "md5": "a673d5e0dcbc4793ffa7bdf6ee6b7185",
+      "crc32": "f00992dd",
+      "sha1": "0091d98b8c065e443c2939a5913e37b58e153036",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-20T02:01:51.724648-04:00.jpg",
+      "source": "original",
+      "mtime": "1663653712",
+      "size": "248395",
+      "md5": "3ba31c1a60d985e0223e84ce2912f351",
+      "crc32": "f019b33a",
+      "sha1": "56645cdf5a2fe395a95f7ad683d9e5bf14440d2b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mainemonitor-2022-09-20T02:01:51.724648-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663653717",
+      "size": "1539",
+      "md5": "15749be22bc385e064fc640d3b7e7235",
+      "crc32": "ca0366d0",
+      "sha1": "f842505e5c3360db1851af109e53023f3e621302",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-20T02:01:51.724648-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1663653719",
+      "size": "13840",
+      "md5": "2240d6ebbbcae4e1504ce09978e154e9",
+      "crc32": "634bf11d",
+      "sha1": "fc771f9ae039e8502027484474cc4ac2003e14cf",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-20T02:01:51.724648-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mainemonitor-2022-09-20T02:01:51.724648-04:00.jpg",
+      "mtime": "1663653775",
+      "size": "9793",
+      "md5": "882824c5841b9b5a07fe9bccf9aa39b4",
+      "crc32": "7e8201cf",
+      "sha1": "c3868aad1655674693e8c924d90cc95202cd592c"
+    },
+    {
+      "name": "mainemonitor-2022-09-20T13:33:32.877043-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663695217",
+      "size": "14727",
+      "md5": "1c38e6fac2231bdc950a79f14a3457a9",
+      "crc32": "e3f65a5c",
+      "sha1": "9ada2646ec057b25f0032fb1b5a343035bf46911",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-20T13:33:32.877043-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663695219",
+      "size": "13923",
+      "md5": "a673d5e0dcbc4793ffa7bdf6ee6b7185",
+      "crc32": "f00992dd",
+      "sha1": "0091d98b8c065e443c2939a5913e37b58e153036",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-20T13:33:32.877043-04:00.jpg",
+      "source": "original",
+      "mtime": "1663695216",
+      "size": "248395",
+      "md5": "3ba31c1a60d985e0223e84ce2912f351",
+      "crc32": "f019b33a",
+      "sha1": "56645cdf5a2fe395a95f7ad683d9e5bf14440d2b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mainemonitor-2022-09-20T13:33:32.877043-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663695221",
+      "size": "1540",
+      "md5": "31758b8df207e0230d230d42b89f04f4",
+      "crc32": "4c6fa413",
+      "sha1": "b39a07e325885038b8fc95f0c6997e0912dd0d70",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-20T13:33:32.877043-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1663695224",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-20T13:33:32.877043-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mainemonitor-2022-09-20T13:33:32.877043-04:00.jpg",
+      "mtime": "1663695292",
+      "size": "9793",
+      "md5": "882824c5841b9b5a07fe9bccf9aa39b4",
+      "crc32": "7e8201cf",
+      "sha1": "c3868aad1655674693e8c924d90cc95202cd592c"
+    },
+    {
+      "name": "mainemonitor-2022-09-21T02:02:15.051247-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663740139",
+      "size": "14874",
+      "md5": "bfa0b685f315fa076fc50848484ea6c3",
+      "crc32": "66d6e9da",
+      "sha1": "6f5b6b1fbccd0a5f61d6ad62c9fb0c9f3e2e0441",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-21T02:02:15.051247-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663740140",
+      "size": "13923",
+      "md5": "a673d5e0dcbc4793ffa7bdf6ee6b7185",
+      "crc32": "f00992dd",
+      "sha1": "0091d98b8c065e443c2939a5913e37b58e153036",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-21T02:02:15.051247-04:00.jpg",
+      "source": "original",
+      "mtime": "1663740137",
+      "size": "248395",
+      "md5": "3ba31c1a60d985e0223e84ce2912f351",
+      "crc32": "f019b33a",
+      "sha1": "56645cdf5a2fe395a95f7ad683d9e5bf14440d2b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mainemonitor-2022-09-21T02:02:15.051247-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663740143",
+      "size": "1539",
+      "md5": "8b8f32cbe692a37a0bd8da88a0b69c53",
+      "crc32": "ef76cf60",
+      "sha1": "1b7f3d86715976a538b2c690f19f4e6ff3d371dc",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-21T02:02:15.051247-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1663740146",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-21T02:02:15.051247-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mainemonitor-2022-09-21T02:02:15.051247-04:00.jpg",
+      "mtime": "1663740246",
+      "size": "9793",
+      "md5": "882824c5841b9b5a07fe9bccf9aa39b4",
+      "crc32": "7e8201cf",
+      "sha1": "c3868aad1655674693e8c924d90cc95202cd592c"
+    },
+    {
+      "name": "mainemonitor-2022-09-21T13:27:19.828263-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663781242",
+      "size": "14874",
+      "md5": "bfa0b685f315fa076fc50848484ea6c3",
+      "crc32": "66d6e9da",
+      "sha1": "6f5b6b1fbccd0a5f61d6ad62c9fb0c9f3e2e0441",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-21T13:27:19.828263-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663781244",
+      "size": "13923",
+      "md5": "a673d5e0dcbc4793ffa7bdf6ee6b7185",
+      "crc32": "f00992dd",
+      "sha1": "0091d98b8c065e443c2939a5913e37b58e153036",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-21T13:27:19.828263-04:00.jpg",
+      "source": "original",
+      "mtime": "1663781241",
+      "size": "248395",
+      "md5": "3ba31c1a60d985e0223e84ce2912f351",
+      "crc32": "f019b33a",
+      "sha1": "56645cdf5a2fe395a95f7ad683d9e5bf14440d2b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mainemonitor-2022-09-21T13:27:19.828263-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663781246",
+      "size": "1540",
+      "md5": "be808bc1a0fb18ac28721835b9de4fae",
+      "crc32": "e668c670",
+      "sha1": "6a0c0edcf7864fe5fa91d850f32b4c831252ea71",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-21T13:27:19.828263-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1663781248",
+      "size": "13928",
+      "md5": "4d736972ff8819b8d3a06201928b254a",
+      "crc32": "74615779",
+      "sha1": "153370bdcc9a82bbbd0484a06278e1dbbd46d27a",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-21T13:27:19.828263-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mainemonitor-2022-09-21T13:27:19.828263-04:00.jpg",
+      "mtime": "1663781352",
+      "size": "9793",
+      "md5": "882824c5841b9b5a07fe9bccf9aa39b4",
+      "crc32": "7e8201cf",
+      "sha1": "c3868aad1655674693e8c924d90cc95202cd592c"
+    },
+    {
+      "name": "mainemonitor-2022-09-22T01:55:25.006603-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663826128",
+      "size": "14915",
+      "md5": "e1f54019ac7ac1081da33625dddecfa2",
+      "crc32": "2ac7b269",
+      "sha1": "8c9bfc43053c12be036f02c18d42fb0e695f6e86",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-22T01:55:25.006603-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663826129",
+      "size": "13990",
+      "md5": "63db475666e33eab8ff0ee5bf34c339a",
+      "crc32": "34dbe295",
+      "sha1": "4bb6bac250c4a7474fa0792cca6903749befecb1",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-22T01:55:25.006603-04:00.jpg",
+      "source": "original",
+      "mtime": "1663826126",
+      "size": "237491",
+      "md5": "95424bb2ad842245b700334716925e3b",
+      "crc32": "2e956ac7",
+      "sha1": "9dbaecc121cdd29e4977e26425ebfa27f501b87e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mainemonitor-2022-09-22T01:55:25.006603-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663826131",
+      "size": "1539",
+      "md5": "cc58681e4166e03be39ba93561dfde09",
+      "crc32": "980f7767",
+      "sha1": "94a9319f7f3f2f82ac3f0a95c82fee2f2560bd8d",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-22T01:55:25.006603-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1663826132",
+      "size": "13720",
+      "md5": "4f057fab11024a63e1ca85d0f6a80c89",
+      "crc32": "5eb6c726",
+      "sha1": "6f42bddf9f36b1d15f64c623474092244303e329",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-22T01:55:25.006603-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mainemonitor-2022-09-22T01:55:25.006603-04:00.jpg",
+      "mtime": "1663826526",
+      "size": "9634",
+      "md5": "4470a3bd6fef8d0d13c0f800df67dcf2",
+      "crc32": "e428cbf9",
+      "sha1": "34dd5e1797d830ef1cb50422dba575fc5414b251"
+    },
+    {
+      "name": "mainemonitor-2022-09-22T13:26:21.900688-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663867586",
+      "size": "14915",
+      "md5": "e1f54019ac7ac1081da33625dddecfa2",
+      "crc32": "2ac7b269",
+      "sha1": "8c9bfc43053c12be036f02c18d42fb0e695f6e86",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-22T13:26:21.900688-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663867588",
+      "size": "13990",
+      "md5": "63db475666e33eab8ff0ee5bf34c339a",
+      "crc32": "34dbe295",
+      "sha1": "4bb6bac250c4a7474fa0792cca6903749befecb1",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-22T13:26:21.900688-04:00.jpg",
+      "source": "original",
+      "mtime": "1663867584",
+      "size": "237491",
+      "md5": "95424bb2ad842245b700334716925e3b",
+      "crc32": "2e956ac7",
+      "sha1": "9dbaecc121cdd29e4977e26425ebfa27f501b87e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mainemonitor-2022-09-22T13:26:21.900688-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663867590",
+      "size": "1540",
+      "md5": "10fe74a13b63bfa158a211e6f82198d3",
+      "crc32": "5da5a4b1",
+      "sha1": "00bf0a1e15d70e3d8bcb37c096eacbfd4d7166f2",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-22T13:26:21.900688-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1663867592",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-22T13:26:21.900688-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mainemonitor-2022-09-22T13:26:21.900688-04:00.jpg",
+      "mtime": "1663867724",
+      "size": "9634",
+      "md5": "4470a3bd6fef8d0d13c0f800df67dcf2",
+      "crc32": "e428cbf9",
+      "sha1": "34dd5e1797d830ef1cb50422dba575fc5414b251"
+    },
+    {
+      "name": "mainemonitor-2022-09-23T01:23:43.105379-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663910626",
+      "size": "14915",
+      "md5": "e1f54019ac7ac1081da33625dddecfa2",
+      "crc32": "2ac7b269",
+      "sha1": "8c9bfc43053c12be036f02c18d42fb0e695f6e86",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-23T01:23:43.105379-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663910627",
+      "size": "13990",
+      "md5": "63db475666e33eab8ff0ee5bf34c339a",
+      "crc32": "34dbe295",
+      "sha1": "4bb6bac250c4a7474fa0792cca6903749befecb1",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-23T01:23:43.105379-04:00.jpg",
+      "source": "original",
+      "mtime": "1663910624",
+      "size": "237491",
+      "md5": "95424bb2ad842245b700334716925e3b",
+      "crc32": "2e956ac7",
+      "sha1": "9dbaecc121cdd29e4977e26425ebfa27f501b87e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mainemonitor-2022-09-23T01:23:43.105379-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663910629",
+      "size": "1539",
+      "md5": "3fddc13b0ced29e34aafe6ee17dc1751",
+      "crc32": "10ff9e61",
+      "sha1": "6e5b0221c8afd9ac5764283233fbd1b82416c683",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-23T01:23:43.105379-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1663910631",
+      "size": "13716",
+      "md5": "9c6e3919f6d4022ed1fb5cc1452c5dab",
+      "crc32": "bb03fbd1",
+      "sha1": "b23db2cc1f18cf6725cf688cee8ea54e83209a4e",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-23T01:23:43.105379-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mainemonitor-2022-09-23T01:23:43.105379-04:00.jpg",
+      "mtime": "1663910689",
+      "size": "9634",
+      "md5": "4470a3bd6fef8d0d13c0f800df67dcf2",
+      "crc32": "e428cbf9",
+      "sha1": "34dd5e1797d830ef1cb50422dba575fc5414b251"
+    },
+    {
+      "name": "mainemonitor-2022-09-23T13:25:10.479670-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663953914",
+      "size": "14915",
+      "md5": "e1f54019ac7ac1081da33625dddecfa2",
+      "crc32": "2ac7b269",
+      "sha1": "8c9bfc43053c12be036f02c18d42fb0e695f6e86",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-23T13:25:10.479670-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663953916",
+      "size": "13990",
+      "md5": "63db475666e33eab8ff0ee5bf34c339a",
+      "crc32": "34dbe295",
+      "sha1": "4bb6bac250c4a7474fa0792cca6903749befecb1",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-23T13:25:10.479670-04:00.jpg",
+      "source": "original",
+      "mtime": "1663953912",
+      "size": "237491",
+      "md5": "95424bb2ad842245b700334716925e3b",
+      "crc32": "2e956ac7",
+      "sha1": "9dbaecc121cdd29e4977e26425ebfa27f501b87e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mainemonitor-2022-09-23T13:25:10.479670-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663953917",
+      "size": "1540",
+      "md5": "7acf63cade3ead2b3466525e13910576",
+      "crc32": "0a05fa7c",
+      "sha1": "603d6ccfdcc97b9ed631fc16874b47fa2379cece",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-23T13:25:10.479670-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1663953919",
+      "size": "13715",
+      "md5": "dde0414c81c148fb2586ef113a9fb3d8",
+      "crc32": "d2b72ba8",
+      "sha1": "15b6bd6017d8461057e8008332c4bf991945aeee",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-23T13:25:10.479670-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mainemonitor-2022-09-23T13:25:10.479670-04:00.jpg",
+      "mtime": "1663954186",
+      "size": "9634",
+      "md5": "4470a3bd6fef8d0d13c0f800df67dcf2",
+      "crc32": "e428cbf9",
+      "sha1": "34dd5e1797d830ef1cb50422dba575fc5414b251"
+    },
+    {
+      "name": "mainemonitor-2022-09-24T01:40:29.946466-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663998033",
+      "size": "14890",
+      "md5": "f0858bcb9e3b797efc37f264a83245b8",
+      "crc32": "adab79df",
+      "sha1": "b5c76f0614dce6b3750aa36e06bec30ae8d870fd",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-24T01:40:29.946466-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663998035",
+      "size": "13941",
+      "md5": "c70a92d34ba22b658ab3e6ec5f012869",
+      "crc32": "e5497180",
+      "sha1": "054020a3fbacd135bee7734ace855a2deaa1c2d6",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-24T01:40:29.946466-04:00.jpg",
+      "source": "original",
+      "mtime": "1663998031",
+      "size": "242474",
+      "md5": "b4451a27386451726e3e71c350aa880f",
+      "crc32": "38a6d9a3",
+      "sha1": "e0b8a9e8c70bd67b0bc26d9d26204713054f0926",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mainemonitor-2022-09-24T01:40:29.946466-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663998036",
+      "size": "1540",
+      "md5": "c3f803bb814889efe854d29895046bb5",
+      "crc32": "d002aad7",
+      "sha1": "1650422f4d46705e5bfa9cec07a9b46dfcf2e39f",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-24T01:40:29.946466-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1663998038",
+      "size": "13790",
+      "md5": "50f1863df8a5f577668bb66606ac2758",
+      "crc32": "00e6c8bb",
+      "sha1": "3c41cf35fd0bdc0a135e5516e85b016f9405dbcd",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-24T01:40:29.946466-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mainemonitor-2022-09-24T01:40:29.946466-04:00.jpg",
+      "mtime": "1663998165",
+      "size": "9817",
+      "md5": "a0de9c7383b96c011df22e5b738cce4a",
+      "crc32": "b3a69ae8",
+      "sha1": "20540d6dcde6cd3834e3fdab86edd37121cc6e9d"
+    },
+    {
+      "name": "mainemonitor-2022-09-24T13:14:04.514104-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664039652",
+      "size": "14890",
+      "md5": "f0858bcb9e3b797efc37f264a83245b8",
+      "crc32": "adab79df",
+      "sha1": "b5c76f0614dce6b3750aa36e06bec30ae8d870fd",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-24T13:14:04.514104-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664039653",
+      "size": "13941",
+      "md5": "c70a92d34ba22b658ab3e6ec5f012869",
+      "crc32": "e5497180",
+      "sha1": "054020a3fbacd135bee7734ace855a2deaa1c2d6",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-24T13:14:04.514104-04:00.jpg",
+      "source": "original",
+      "mtime": "1664039650",
+      "size": "242474",
+      "md5": "b4451a27386451726e3e71c350aa880f",
+      "crc32": "38a6d9a3",
+      "sha1": "e0b8a9e8c70bd67b0bc26d9d26204713054f0926",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mainemonitor-2022-09-24T13:14:04.514104-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664039655",
+      "size": "1540",
+      "md5": "1baab4933f9a48b64acdded801dba29e",
+      "crc32": "f56efb12",
+      "sha1": "41d8fe8701221e397e5e06618160fb89218b9889",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-24T13:14:04.514104-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664039656",
+      "size": "13848",
+      "md5": "2e97ef1b9bfc50dc1e73d4e31e5ad072",
+      "crc32": "00352f5c",
+      "sha1": "82b441d205ee7d1325a113dfa4f81248da9ab374",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-24T13:14:04.514104-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mainemonitor-2022-09-24T13:14:04.514104-04:00.jpg",
+      "mtime": "1664039736",
+      "size": "9817",
+      "md5": "a0de9c7383b96c011df22e5b738cce4a",
+      "crc32": "b3a69ae8",
+      "sha1": "20540d6dcde6cd3834e3fdab86edd37121cc6e9d"
+    },
+    {
+      "name": "mainemonitor-2022-09-25T01:39:34.364992-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664084386",
+      "size": "14792",
+      "md5": "6b9e78f1260aee0e7877b5064ca67de8",
+      "crc32": "c8f6176b",
+      "sha1": "413c63d4309f2eeddf51757a8a55539ad1ab2eed",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-25T01:39:34.364992-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664084388",
+      "size": "13647",
+      "md5": "e4fdce8a6bbc9672b0b6376b9d854ef4",
+      "crc32": "6e01bc50",
+      "sha1": "fe7767e35a47808bf494d2c111604454b9583d08",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-25T01:39:34.364992-04:00.jpg",
+      "source": "original",
+      "mtime": "1664084384",
+      "size": "245434",
+      "md5": "78a1e6bea67e9dda0fee70f676ba1f2c",
+      "crc32": "d3674f28",
+      "sha1": "97d2833b42954e3f0ee1acea2c0e3221ee84b9fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mainemonitor-2022-09-25T01:39:34.364992-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664084389",
+      "size": "1540",
+      "md5": "8a21f61d29adad5650f6206581c8c7d2",
+      "crc32": "d7fa558b",
+      "sha1": "34dc92752e5a555d5350c29a86e6f19cc6704827",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-25T01:39:34.364992-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664084391",
+      "size": "13871",
+      "md5": "002142ad4c6bcdf0395a0083b3a188a4",
+      "crc32": "d31a75c9",
+      "sha1": "4d48952defbabecaf991743e71eccb145f71ba68",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-25T01:39:34.364992-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mainemonitor-2022-09-25T01:39:34.364992-04:00.jpg",
+      "mtime": "1664084451",
+      "size": "9704",
+      "md5": "64025c3ad59c696559cebdaf1fcdec40",
+      "crc32": "9cc78ce6",
+      "sha1": "ec6e6c16c81b49f698fc2648362f87bc1f483229"
+    },
+    {
+      "name": "mainemonitor-2022-09-25T13:14:46.135087-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664126089",
+      "size": "14661",
+      "md5": "d9f385e12ea2c1bc8145134a39e89009",
+      "crc32": "d7995f02",
+      "sha1": "8985f77ab600d2f3c5d3d2b99c7f36f94008247c",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-25T13:14:46.135087-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664126090",
+      "size": "13635",
+      "md5": "017fc2a400789fcf3870194b6e166d8b",
+      "crc32": "61a35b4a",
+      "sha1": "48f83c6d98d5606d25fa27ca6abfffdc2421d1d0",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-25T13:14:46.135087-04:00.jpg",
+      "source": "original",
+      "mtime": "1664126087",
+      "size": "285435",
+      "md5": "52fbf9ca0f8c8650670e68e769dc31d7",
+      "crc32": "c3d68474",
+      "sha1": "7762fe0eb7b1905ca8bb6d06e0a6626a1db95c1d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mainemonitor-2022-09-25T13:14:46.135087-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664126092",
+      "size": "1540",
+      "md5": "ec105c6040996f424b05ed647f92b79c",
+      "crc32": "46020458",
+      "sha1": "77de4a220b3d6fc280fcc10986a88dddb753bced",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-25T13:14:46.135087-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664126093",
+      "size": "13413",
+      "md5": "469b3ab15b9dd51368f8e07a4858898f",
+      "crc32": "0e9a05f4",
+      "sha1": "332e84bac6ea4a7e3b8d95699ce3135828fc6867",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-25T13:14:46.135087-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mainemonitor-2022-09-25T13:14:46.135087-04:00.jpg",
+      "mtime": "1664126163",
+      "size": "10150",
+      "md5": "88141905e6bd45ffa3a4257178d9d5ee",
+      "crc32": "c286c6f8",
+      "sha1": "6e503e58b4c634066acb7de5f7ffbd9d92eeb433"
+    },
+    {
+      "name": "mainemonitor-2022-09-26T02:04:26.597834-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664172269",
+      "size": "14661",
+      "md5": "d9f385e12ea2c1bc8145134a39e89009",
+      "crc32": "d7995f02",
+      "sha1": "8985f77ab600d2f3c5d3d2b99c7f36f94008247c",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-26T02:04:26.597834-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664172271",
+      "size": "13635",
+      "md5": "017fc2a400789fcf3870194b6e166d8b",
+      "crc32": "61a35b4a",
+      "sha1": "48f83c6d98d5606d25fa27ca6abfffdc2421d1d0",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-26T02:04:26.597834-04:00.jpg",
+      "source": "original",
+      "mtime": "1664172268",
+      "size": "285435",
+      "md5": "52fbf9ca0f8c8650670e68e769dc31d7",
+      "crc32": "c3d68474",
+      "sha1": "7762fe0eb7b1905ca8bb6d06e0a6626a1db95c1d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mainemonitor-2022-09-26T02:04:26.597834-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664172273",
+      "size": "1540",
+      "md5": "6796875762bd0505dcaa9a3da8e0def4",
+      "crc32": "8b706641",
+      "sha1": "5ac216e9d947ea4f2d17b38a162b80d650e44124",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-26T02:04:26.597834-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664172274",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-26T02:04:26.597834-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mainemonitor-2022-09-26T02:04:26.597834-04:00.jpg",
+      "mtime": "1664172357",
+      "size": "10150",
+      "md5": "88141905e6bd45ffa3a4257178d9d5ee",
+      "crc32": "c286c6f8",
+      "sha1": "6e503e58b4c634066acb7de5f7ffbd9d92eeb433"
+    },
+    {
+      "name": "mainemonitor-2022-09-26T13:32:26.906188-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664213550",
+      "size": "14661",
+      "md5": "d9f385e12ea2c1bc8145134a39e89009",
+      "crc32": "d7995f02",
+      "sha1": "8985f77ab600d2f3c5d3d2b99c7f36f94008247c",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-26T13:32:26.906188-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664213553",
+      "size": "13635",
+      "md5": "017fc2a400789fcf3870194b6e166d8b",
+      "crc32": "61a35b4a",
+      "sha1": "48f83c6d98d5606d25fa27ca6abfffdc2421d1d0",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-26T13:32:26.906188-04:00.jpg",
+      "source": "original",
+      "mtime": "1664213548",
+      "size": "285435",
+      "md5": "52fbf9ca0f8c8650670e68e769dc31d7",
+      "crc32": "c3d68474",
+      "sha1": "7762fe0eb7b1905ca8bb6d06e0a6626a1db95c1d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mainemonitor-2022-09-26T13:32:26.906188-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664213558",
+      "size": "1540",
+      "md5": "0fbfb602f17eae8734a5cd079cd78bda",
+      "crc32": "44df73cc",
+      "sha1": "e5712b191bce417805d2eb5ba9a3c2b980429bb5",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-26T13:32:26.906188-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664213561",
+      "size": "13415",
+      "md5": "0ef9b6d8fe42900d1d5da718759578eb",
+      "crc32": "01384ad7",
+      "sha1": "9c4be41d1f4ac0d484747fbbd6f94edbf41970aa",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-26T13:32:26.906188-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mainemonitor-2022-09-26T13:32:26.906188-04:00.jpg",
+      "mtime": "1664213853",
+      "size": "10150",
+      "md5": "88141905e6bd45ffa3a4257178d9d5ee",
+      "crc32": "c286c6f8",
+      "sha1": "6e503e58b4c634066acb7de5f7ffbd9d92eeb433"
+    },
+    {
+      "name": "mainemonitor-2022-09-27T01:43:41.587831-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664257427",
+      "size": "14661",
+      "md5": "d9f385e12ea2c1bc8145134a39e89009",
+      "crc32": "d7995f02",
+      "sha1": "8985f77ab600d2f3c5d3d2b99c7f36f94008247c",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-27T01:43:41.587831-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664257429",
+      "size": "13635",
+      "md5": "017fc2a400789fcf3870194b6e166d8b",
+      "crc32": "61a35b4a",
+      "sha1": "48f83c6d98d5606d25fa27ca6abfffdc2421d1d0",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-27T01:43:41.587831-04:00.jpg",
+      "source": "original",
+      "mtime": "1664257425",
+      "size": "285435",
+      "md5": "52fbf9ca0f8c8650670e68e769dc31d7",
+      "crc32": "c3d68474",
+      "sha1": "7762fe0eb7b1905ca8bb6d06e0a6626a1db95c1d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mainemonitor-2022-09-27T01:43:41.587831-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664257430",
+      "size": "1539",
+      "md5": "c25362af489140cb4234fd123f52e0b7",
+      "crc32": "0a6eea74",
+      "sha1": "ed7a58f5aeb3461e8e9f7950eb3ce882fb38efe4",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-27T01:43:41.587831-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664257432",
+      "size": "13733",
+      "md5": "aadd1fa242cc6790c075a5de35542399",
+      "crc32": "d10c7454",
+      "sha1": "6b609b01af80e23f5b1e4e76abb81947e7771254",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-09-27T01:43:41.587831-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mainemonitor-2022-09-27T01:43:41.587831-04:00.jpg",
+      "mtime": "1664258600",
+      "size": "10150",
+      "md5": "88141905e6bd45ffa3a4257178d9d5ee",
+      "crc32": "c286c6f8",
+      "sha1": "6e503e58b4c634066acb7de5f7ffbd9d92eeb433"
+    },
+    {
       "name": "mainemonitor-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5653c02f5e97a250409c6a23c9f5c9c98368b035",
-      "mtime": "1663608886",
-      "size": "63078",
-      "md5": "adef4a2798d63cea41ae7ec09672b806",
-      "crc32": "bcdd4a1e",
-      "sha1": "eb5e885836ea8c508c1e42d6ddab234c95c79ffd",
+      "btih": "5a6822633b1659a90cd8abaa3d4e458642b18fa2",
+      "mtime": "1664258606",
+      "size": "82319",
+      "md5": "cd18c2b3c84e1496b9748dfea19dc9ea",
+      "crc32": "47813a44",
+      "sha1": "5b6119ebe9881a1dac206b9e195e7cfc4ee74ded",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mainemonitor-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f04cb04e777e6614b7b0c56af347591a",
+      "md5": "e81401bd745d6ff35b6137aa73dec6c1",
       "summation": "md5"
     },
     {
       "name": "mainemonitor-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1663608827",
-      "size": "385024",
-      "md5": "8b464a81605ef6114aa846e57084b9a3",
-      "crc32": "70cf1134",
-      "sha1": "6378622dc1831af4b37e17ef81eb3faf26b8fbe2",
+      "mtime": "1664257438",
+      "size": "503808",
+      "md5": "95fce83c59709eb5836920651b989d91",
+      "crc32": "859adf5e",
+      "sha1": "bd7aa43f40e4c9caf2da64b3fffe4158786bd450",
       "format": "Metadata"
     },
     {
@@ -3020,9 +3950,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 292,
-  "item_last_updated": 1663608886,
-  "item_size": 16349098,
+  "files_count": 382,
+  "item_last_updated": 1664258606,
+  "item_size": 21055126,
   "metadata": {
     "identifier": "mainemonitor-2022",
     "collection": [
@@ -3040,7 +3970,7 @@
     "addeddate": "2022-08-26 15:01:20"
   },
   "server": "ia801404.us.archive.org",
-  "uniq": 209079421,
+  "uniq": 1688902183,
   "workable_servers": [
     "ia801404.us.archive.org",
     "ia601404.us.archive.org"

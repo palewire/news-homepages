@@ -1,5 +1,5 @@
 {
-  "created": 1664283519,
+  "created": 1664284850,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/18/items/jstor_daily-2022",
@@ -7855,21 +7855,32 @@
       "format": "JSON"
     },
     {
+      "name": "jstor_daily-2022-09-27T08:57:43.373417-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jstor_daily-2022-09-27T08:57:43.373417-04:00.jpg",
+      "mtime": "1664284813",
+      "size": "10058",
+      "md5": "30c5aa9c964a562c12046b0790aa9e3b",
+      "crc32": "35be7a52",
+      "sha1": "60438be47e936aa8caa5a2f3b19d73280eb6bcf1"
+    },
+    {
       "name": "jstor_daily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ad7c5876eebb8b2cd5628e888ed6662bebe1022e",
-      "mtime": "1664283516",
-      "size": "163615",
-      "md5": "df3981ca7b939b57504e69b45ee4ddd4",
-      "crc32": "062da6e3",
-      "sha1": "9c450c1a723896e57a2dcaf85d48d6211d6451b5",
+      "btih": "d200b584cc1fdc1cc20dab29322b83337eb42387",
+      "mtime": "1664284824",
+      "size": "163823",
+      "md5": "2a0115517472af8f9e5ec04ab0998cef",
+      "crc32": "97ecd4da",
+      "sha1": "4af0c8c9adcd6e0c14918cc765fa294d751a5006",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jstor_daily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b197221bc107c57fddb14cc7caaba874",
+      "md5": "383c2667eecf402009aa774a38ea9d6c",
       "summation": "md5"
     },
     {
@@ -7893,9 +7904,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 763,
-  "item_last_updated": 1664283516,
-  "item_size": 54827700,
+  "files_count": 764,
+  "item_last_updated": 1664284824,
+  "item_size": 54837966,
   "metadata": {
     "identifier": "jstor_daily-2022",
     "collection": [
@@ -7912,21 +7923,10 @@
     "publicdate": "2022-07-26 00:15:53",
     "addeddate": "2022-07-26 00:15:53"
   },
-  "pending_tasks": true,
-  "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419792287,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1539908186,
+  "server": "ia802505.us.archive.org",
+  "uniq": 2136207500,
   "workable_servers": [
+    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }

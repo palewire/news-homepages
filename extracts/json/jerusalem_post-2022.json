@@ -1,5 +1,5 @@
 {
-  "created": 1664283485,
+  "created": 1664286927,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/9/items/jerusalem_post-2022",
@@ -5647,21 +5647,32 @@
       "format": "JSON"
     },
     {
+      "name": "jerusalem_post-2022-09-27T15:57:06.521859+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jerusalem_post-2022-09-27T15:57:06.521859+03:00.jpg",
+      "mtime": "1664285988",
+      "size": "9974",
+      "md5": "d7a1f63fac2d958cdd5509f193504968",
+      "crc32": "2e039d12",
+      "sha1": "c63f62414a90476625c80b238b0bc79b12adab15"
+    },
+    {
       "name": "jerusalem_post-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5e7503b3a1423fe6ab6c05f87fade520a83f12cb",
-      "mtime": "1664283479",
-      "size": "119752",
-      "md5": "430bae39e6c8577f2b31d170a9768a72",
-      "crc32": "81b5712e",
-      "sha1": "df176fd130d1f7bc5a0251abf2e046d836e40014",
+      "btih": "28ce9398d1c00406d0f95b932e2d1fe5f91183e8",
+      "mtime": "1664285997",
+      "size": "119962",
+      "md5": "5cbbd445855cf872bdaf76d5392394b9",
+      "crc32": "6b529a8c",
+      "sha1": "8e9f8662f87bef438ceb5ba4e9da7d21e08ccb7e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jerusalem_post-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e8b388ba0dbd405837ff8a3d9ac2015f",
+      "md5": "faa8d616ee0e0249e7729059406d5b8b",
       "summation": "md5"
     },
     {
@@ -5685,9 +5696,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 550,
-  "item_last_updated": 1664283479,
-  "item_size": 43498171,
+  "files_count": 551,
+  "item_last_updated": 1664285997,
+  "item_size": 43508355,
   "metadata": {
     "identifier": "jerusalem_post-2022",
     "collection": [
@@ -5704,21 +5715,10 @@
     "publicdate": "2022-08-14 03:09:31",
     "addeddate": "2022-08-14 03:09:31"
   },
-  "pending_tasks": true,
-  "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419792026,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1220068228,
+  "server": "ia801508.us.archive.org",
+  "uniq": 229802751,
   "workable_servers": [
+    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

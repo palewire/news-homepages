@@ -1,5 +1,5 @@
 {
-  "created": 1664283608,
+  "created": 1664285015,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/31/items/lacrossetribune-2022",
@@ -15121,21 +15121,32 @@
       "format": "JSON"
     },
     {
+      "name": "lacrossetribune-2022-09-27T07:58:55.288146-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lacrossetribune-2022-09-27T07:58:55.288146-05:00.jpg",
+      "mtime": "1664284888",
+      "size": "12277",
+      "md5": "03d4de562b3bdb9a6879a11a644c308b",
+      "crc32": "cd43d5b7",
+      "sha1": "540340771419461326f52d9b51238ae98be7afd2"
+    },
+    {
       "name": "lacrossetribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a8b5e7b70ac2054923d65a8e60aa16986f17e555",
-      "mtime": "1664283600",
-      "size": "317971",
-      "md5": "ce78fcd89a46704730e6ec71f6b4b3b1",
-      "crc32": "742bb4fa",
-      "sha1": "83e7426ea600e27938281a81d738c90f83e6ff51",
+      "btih": "93ac24497a0fc10c48891590b98a4509b16e58fb",
+      "mtime": "1664284954",
+      "size": "318183",
+      "md5": "963e882cd7f10e217e9f2ee8987997eb",
+      "crc32": "c8ad02a2",
+      "sha1": "b62ed62c21d93426fcceb1b84fffc80531bc74a7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lacrossetribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cda1f18793db2d129bc3e00b2d6ee545",
+      "md5": "8bfeae41ca8594e195b959362a5ac8c5",
       "summation": "md5"
     },
     {
@@ -15159,9 +15170,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1454,
-  "item_last_updated": 1664283600,
-  "item_size": 138239450,
+  "files_count": 1455,
+  "item_last_updated": 1664284954,
+  "item_size": 138251939,
   "metadata": {
     "identifier": "lacrossetribune-2022",
     "collection": [
@@ -15178,21 +15189,10 @@
     "publicdate": "2022-03-23 23:06:48",
     "addeddate": "2022-03-23 23:06:48"
   },
-  "pending_tasks": true,
-  "server": "ia902508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419793264,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1326671451,
+  "server": "ia802508.us.archive.org",
+  "uniq": 534669741,
   "workable_servers": [
+    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

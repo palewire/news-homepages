@@ -1,5 +1,5 @@
 {
-  "created": 1664283767,
+  "created": 1664294844,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/16/items/marshallproj-2022",
@@ -12473,21 +12473,32 @@
       "format": "JSON"
     },
     {
+      "name": "marshallproj-2022-09-27T09:01:17.346994-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "marshallproj-2022-09-27T09:01:17.346994-04:00.jpg",
+      "mtime": "1664286409",
+      "size": "8622",
+      "md5": "2c47c84177c19eb966fa2a42fe887f5b",
+      "crc32": "031432c5",
+      "sha1": "7090e1468fd75011b7f1cf1a6b89dd9d28a48c7a"
+    },
+    {
       "name": "marshallproj-2022_archive.torrent",
       "source": "metadata",
-      "btih": "be7ade99f0e678b25409e702fcd01a7f7bac1ce1",
-      "mtime": "1664283761",
-      "size": "257356",
-      "md5": "f64353794f6202cdeaf8529706ebe789",
-      "crc32": "9976fc71",
-      "sha1": "87651501e20098a85e4299cab3d7cbf0520f2263",
+      "btih": "57cc0f62d9ae36e3ee5849cd0b8ffeff2d1b0a96",
+      "mtime": "1664286432",
+      "size": "257564",
+      "md5": "7e6512062998718516efe27f519490ec",
+      "crc32": "db8e012b",
+      "sha1": "9d0fe27dc95e960eff644ed0cd2b41cac6c32f5c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "marshallproj-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "eaf7074f7a2961609fb07321f8471ea7",
+      "md5": "9ab5c27552503d0fab382314b5c1a22c",
       "summation": "md5"
     },
     {
@@ -12511,9 +12522,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1203,
-  "item_last_updated": 1664283761,
-  "item_size": 58727973,
+  "files_count": 1204,
+  "item_last_updated": 1664286432,
+  "item_size": 58736803,
+  "marshallproj-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "marshallproj-2022",
     "collection": [
@@ -12530,21 +12546,10 @@
     "publicdate": "2022-06-17 17:22:20",
     "addeddate": "2022-06-17 17:22:20"
   },
-  "pending_tasks": true,
-  "server": "ia902503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419797320,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1621556575,
+  "server": "ia802503.us.archive.org",
+  "uniq": 512915925,
   "workable_servers": [
+    "ia802503.us.archive.org",
     "ia902503.us.archive.org"
   ]
 }

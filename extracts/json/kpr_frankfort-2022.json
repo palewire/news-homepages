@@ -1,5 +1,5 @@
 {
-  "created": 1664283612,
+  "created": 1664294432,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/31/items/kpr_frankfort-2022",
@@ -7191,21 +7191,32 @@
       "format": "JSON"
     },
     {
+      "name": "kpr_frankfort-2022-09-27T08:58:55.612300-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpr_frankfort-2022-09-27T08:58:55.612300-04:00.jpg",
+      "mtime": "1664284978",
+      "size": "10548",
+      "md5": "b1f20cdb7e4e1e55c3cc5600cbd25402",
+      "crc32": "b9294369",
+      "sha1": "62ec17c507da63925c9095fb1e4fe15ab524eac8"
+    },
+    {
       "name": "kpr_frankfort-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a8eaeef3a84f2dc333cee261848601e888b16979",
-      "mtime": "1664283599",
-      "size": "151152",
-      "md5": "68753172b1f84a058368eacd3437dca9",
-      "crc32": "52545ba1",
-      "sha1": "6d3564b107fafbd44d3dc08fcfac21c438a04ed3",
+      "btih": "6ca39f31e4fa185e7d26c6e5b5f148fe7341ce65",
+      "mtime": "1664285051",
+      "size": "151362",
+      "md5": "9cce05f1b1879061c91a47d74cb7ec3b",
+      "crc32": "0a9f8520",
+      "sha1": "34cc0c3dc8bad2795a388faa47cb460178f67f2a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpr_frankfort-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "504ba621294a94ae6d84a67dfb752bd6",
+      "md5": "1dd0912ae9d030ed57088efa2d1617a0",
       "summation": "md5"
     },
     {
@@ -7229,9 +7240,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 699,
-  "item_last_updated": 1664283599,
-  "item_size": 46174819,
+  "files_count": 700,
+  "item_last_updated": 1664285051,
+  "item_size": 46185577,
+  "kpr_frankfort-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "kpr_frankfort-2022",
     "collection": [
@@ -7248,21 +7264,10 @@
     "publicdate": "2022-08-01 06:42:07",
     "addeddate": "2022-08-01 06:42:07"
   },
-  "pending_tasks": true,
   "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419793366,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 403028224,
+  "uniq": 596289061,
   "workable_servers": [
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1664283490,
+  "created": 1664294143,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/11/items/infoamazoniabr-2022",
@@ -9853,21 +9853,32 @@
       "format": "JSON"
     },
     {
+      "name": "infoamazoniabr-2022-09-27T09:57:04.875367-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "infoamazoniabr-2022-09-27T09:57:04.875367-03:00.jpg",
+      "mtime": "1664285614",
+      "size": "9456",
+      "md5": "be696edec041909459bd1e909589bef1",
+      "crc32": "5c519cbd",
+      "sha1": "7b6e043c04f78212094456123528b21b69b6beaa"
+    },
+    {
       "name": "infoamazoniabr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0701f13b76089429cc52ef3f758e6b1e8f253432",
-      "mtime": "1664283484",
-      "size": "206767",
-      "md5": "d872d069840f8c2c0e722efe4c43e9f0",
-      "crc32": "5699a025",
-      "sha1": "ccbd5209d108dede129783748d9d068dda3cb363",
+      "btih": "6abb1336c3970f9e1b6afe575fab2f26480c3a7d",
+      "mtime": "1664285631",
+      "size": "206977",
+      "md5": "f2abf449662516781b5ed3d657e2a8f2",
+      "crc32": "ae309900",
+      "sha1": "02f96370409acd23f5c78a6969849e31baea4819",
       "format": "Archive BitTorrent"
     },
     {
       "name": "infoamazoniabr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b25d7e3681af590bb31358d57ae648ec",
+      "md5": "7ec013c12f305f515b602cbe826593f2",
       "summation": "md5"
     },
     {
@@ -9891,9 +9902,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 957,
-  "item_last_updated": 1664283484,
-  "item_size": 43048276,
+  "files_count": 958,
+  "infoamazoniabr-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1664285631,
+  "item_size": 43057942,
   "metadata": {
     "identifier": "infoamazoniabr-2022",
     "collection": [
@@ -9910,21 +9926,10 @@
     "publicdate": "2022-08-03 00:33:10",
     "addeddate": "2022-08-03 00:33:10"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419792065,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 884014224,
+  "server": "ia801401.us.archive.org",
+  "uniq": 1117209344,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1664287783,
+  "created": 1664289963,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/12/items/oklahomawatch-2022",
@@ -9189,21 +9189,32 @@
       "format": "JSON"
     },
     {
+      "name": "oklahomawatch-2022-09-27T09:08:36.274142-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oklahomawatch-2022-09-27T09:08:36.274142-05:00.jpg",
+      "mtime": "1664289794",
+      "size": "10565",
+      "md5": "6e8dd9ad62e442f0d238831823e44eae",
+      "crc32": "c9dc3bb3",
+      "sha1": "12ab0cb518a993fe47c191cf1bb2502c42654d32"
+    },
+    {
       "name": "oklahomawatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a0adbca0a09cdf3dd7c8a713bbe27768a6bb9206",
-      "mtime": "1664287776",
-      "size": "192203",
-      "md5": "26309c6abe0fe83b82d681da74a49714",
-      "crc32": "bcaf0e50",
-      "sha1": "b26c0ef15c7ab6f4fcc042e2136dc272f176e7df",
+      "btih": "cc2544672773bbacf5c829e6c11a06e2cae26d7b",
+      "mtime": "1664289814",
+      "size": "192413",
+      "md5": "55c3c57355ba22116ab01298517880c3",
+      "crc32": "bea2d37c",
+      "sha1": "b581cf5197e76cb072e38dd999ab916f3f7a233b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oklahomawatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f8787b87c28f3d17a5b9efc8d9d89275",
+      "md5": "07bf4ad6541ac936591d872d7b8adefc",
       "summation": "md5"
     },
     {
@@ -9227,9 +9238,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 890,
-  "item_last_updated": 1664287776,
-  "item_size": 56563292,
+  "files_count": 891,
+  "item_last_updated": 1664289814,
+  "item_size": 56574067,
   "metadata": {
     "identifier": "oklahomawatch-2022",
     "collection": [
@@ -9246,21 +9257,10 @@
     "publicdate": "2022-07-09 04:01:49",
     "addeddate": "2022-07-09 04:01:49"
   },
-  "pending_tasks": true,
-  "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419838988,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 791825542,
+  "server": "ia801502.us.archive.org",
+  "uniq": 562929396,
   "workable_servers": [
+    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

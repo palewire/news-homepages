@@ -1,5 +1,5 @@
 {
-  "created": 1664287738,
+  "created": 1664289472,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/9/items/norwichbulletin-2022",
@@ -863,21 +863,32 @@
       "format": "JSON"
     },
     {
+      "name": "norwichbulletin-2022-09-27T10:07:59.214921-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "norwichbulletin-2022-09-27T10:07:59.214921-04:00.jpg",
+      "mtime": "1664289423",
+      "size": "9520",
+      "md5": "0fd6566656429aade7814bbd1fe325c3",
+      "crc32": "23124aed",
+      "sha1": "560c541b14fd8bd7c6f9dc0b69f3e0993c652e51"
+    },
+    {
       "name": "norwichbulletin-2022_archive.torrent",
       "source": "metadata",
-      "btih": "59dee8870774cd60f599f852a1032b0d1ca6004d",
-      "mtime": "1664287733",
-      "size": "19524",
-      "md5": "8784d96decebbf7fdc7808cf630fdacf",
-      "crc32": "dd7fe9c3",
-      "sha1": "996420ff30e2b4a5cfa416d362856b85f55622ae",
+      "btih": "1ef8c4c3fb0a05cdaa170f8f47046f6598f2ca7c",
+      "mtime": "1664289435",
+      "size": "19735",
+      "md5": "fd812da7de2e6c0b1c01881b6c7be097",
+      "crc32": "69e5e9bb",
+      "sha1": "61cdefa833d2c968dc460284a2bbd8f3e216c05b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "norwichbulletin-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1677ba7fc02714e768c63793bcd26117",
+      "md5": "814acd9dbe48cca43cfb68f6f765c60b",
       "summation": "md5"
     },
     {
@@ -901,9 +912,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 87,
-  "item_last_updated": 1664287733,
-  "item_size": 6091062,
+  "files_count": 88,
+  "item_last_updated": 1664289435,
+  "item_size": 6100793,
   "metadata": {
     "identifier": "norwichbulletin-2022",
     "collection": [
@@ -920,21 +931,10 @@
     "publicdate": "2022-09-21 02:21:40",
     "addeddate": "2022-09-21 02:21:40"
   },
-  "pending_tasks": true,
   "server": "ia601509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419838519,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1877566982,
+  "uniq": 40936126,
   "workable_servers": [
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }

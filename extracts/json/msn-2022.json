@@ -1,5 +1,5 @@
 {
-  "created": 1664283796,
+  "created": 1664295012,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/33/items/msn-2022",
@@ -4293,21 +4293,32 @@
       "format": "JSON"
     },
     {
+      "name": "msn-2022-09-27T06:01:32.549686-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "msn-2022-09-27T06:01:32.549686-07:00.jpg",
+      "mtime": "1664285592",
+      "size": "9389",
+      "md5": "b51f79e4ec85543c38ac371426661c81",
+      "crc32": "b74c0b74",
+      "sha1": "30471531bd561fe82d8e737786601088d930afb8"
+    },
+    {
       "name": "msn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "da5dffb2b3e1034c8b94ab5507eb972ed32b8b6d",
-      "mtime": "1664283789",
-      "size": "86549",
-      "md5": "f89ea582b81046fc13c304517d9feeda",
-      "crc32": "ce6ac2ba",
-      "sha1": "1b4756e215f0abea96ec1b9f014aec07fe9a3b34",
+      "btih": "741af2638a35e3eff8598b4117891aa4823abcae",
+      "mtime": "1664285626",
+      "size": "86748",
+      "md5": "0922f28970982c24e16afe67b69a4aec",
+      "crc32": "608d626f",
+      "sha1": "bd2b28ef8ea948300ecd48f28c55364237bfe412",
       "format": "Archive BitTorrent"
     },
     {
       "name": "msn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d381c5f6cece03fddae3a84a82085573",
+      "md5": "60d3be7187a0e24c5ef29e96eb328e27",
       "summation": "md5"
     },
     {
@@ -4331,9 +4342,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 419,
-  "item_last_updated": 1664283789,
-  "item_size": 31329931,
+  "files_count": 420,
+  "item_last_updated": 1664285626,
+  "item_size": 31339519,
   "metadata": {
     "identifier": "msn-2022",
     "collection": [
@@ -4350,21 +4361,15 @@
     "publicdate": "2022-08-23 23:47:58",
     "addeddate": "2022-08-23 23:47:58"
   },
-  "pending_tasks": true,
+  "msn-2022": {
+    "url": "https://www.msn.com/",
+    "job_id": "spn2-7ddcb7641464a0544c441953d376bd15d5dd8c0c",
+    "message": "The same snapshot had been made 1 minute, 2 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
   "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419798057,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 208698773,
+  "uniq": 1833398861,
   "workable_servers": [
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

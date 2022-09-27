@@ -1,5 +1,5 @@
 {
-  "created": 1664287690,
+  "created": 1664289310,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/7/items/newarkadvocate-2022",
@@ -873,21 +873,32 @@
       "format": "JSON"
     },
     {
+      "name": "newarkadvocate-2022-09-27T10:06:33.852997-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newarkadvocate-2022-09-27T10:06:33.852997-04:00.jpg",
+      "mtime": "1664289281",
+      "size": "9159",
+      "md5": "3686edb232a9cea1c25c7d9b865b5a0d",
+      "crc32": "6dc86b51",
+      "sha1": "0c694e692a725b3a2dac0cad3a7183fedc84bb4d"
+    },
+    {
       "name": "newarkadvocate-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cec45aaeb9c8cff19038ba683f0e53aee6aa6fe2",
-      "mtime": "1664287686",
-      "size": "19659",
-      "md5": "3a3b7811119ebe9c0d6911e38e6a0348",
-      "crc32": "f7d677e5",
-      "sha1": "4bbc368eca6ce967b8396257e3fcecfa0358b55f",
+      "btih": "e98d65af50d6f29344f1ef01775b3318c4e88b98",
+      "mtime": "1664289293",
+      "size": "19869",
+      "md5": "2afdd47facade44c6724cd7c09b59968",
+      "crc32": "8bb359e6",
+      "sha1": "352c538fc4235bbe066de750e2bdbc3e52f38788",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newarkadvocate-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4928c2e1d36b1a37e9d50d13a4c48821",
+      "md5": "7f6d46ecb550d45f6c3014e16fc6f7c2",
       "summation": "md5"
     },
     {
@@ -911,9 +922,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 88,
-  "item_last_updated": 1664287686,
-  "item_size": 5940299,
+  "files_count": 89,
+  "item_last_updated": 1664289293,
+  "item_size": 5949668,
   "metadata": {
     "identifier": "newarkadvocate-2022",
     "collection": [
@@ -930,21 +941,10 @@
     "publicdate": "2022-09-21 02:20:36",
     "addeddate": "2022-09-21 02:20:36"
   },
-  "pending_tasks": true,
-  "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419837977,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 817948438,
+  "server": "ia801508.us.archive.org",
+  "uniq": 106207390,
   "workable_servers": [
+    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

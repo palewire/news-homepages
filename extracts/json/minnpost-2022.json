@@ -1,5 +1,5 @@
 {
-  "created": 1664287672,
+  "created": 1664289292,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/28/items/minnpost-2022",
@@ -15669,21 +15669,32 @@
       "format": "JSON"
     },
     {
+      "name": "minnpost-2022-09-27T09:06:35.551207-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "minnpost-2022-09-27T09:06:35.551207-05:00.jpg",
+      "mtime": "1664289245",
+      "size": "9614",
+      "md5": "73bd2b87c6b3374a749ffaa6b325455c",
+      "crc32": "12edc393",
+      "sha1": "ea51cea9de0292663edc0dd97962cf1ad9a17e9d"
+    },
+    {
       "name": "minnpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dbd0b1b4bb4e0f55c0aef92b95241d4b9427d078",
-      "mtime": "1664287669",
-      "size": "318256",
-      "md5": "8b77ae37c2fd3809a2abb5734ae94694",
-      "crc32": "181b7ad0",
-      "sha1": "ba8f8637fcd5d971f2e56b33de7e0d8ddfcab9ab",
+      "btih": "bf6ac19d6ec4cc7083974108fa4bbcfed18951ff",
+      "mtime": "1664289271",
+      "size": "318460",
+      "md5": "8fb4ee8f6d457e2d01adac9ac153b42a",
+      "crc32": "2f3003fb",
+      "sha1": "be831e09ab7eb36f2f87ba4157bdc4caa368f91b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "minnpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7b03ce1ff4db9f216ced684f67e48947",
+      "md5": "2401edc573a194ac038670c224b04679",
       "summation": "md5"
     },
     {
@@ -15707,9 +15718,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1507,
-  "item_last_updated": 1664287669,
-  "item_size": 125947180,
+  "files_count": 1508,
+  "item_last_updated": 1664289271,
+  "item_size": 125956998,
   "metadata": {
     "identifier": "minnpost-2022",
     "collection": [
@@ -15726,21 +15737,10 @@
     "publicdate": "2022-04-01 22:43:20",
     "addeddate": "2022-04-01 22:43:20"
   },
-  "pending_tasks": true,
   "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419837804,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 824739427,
+  "uniq": 1878867391,
   "workable_servers": [
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }

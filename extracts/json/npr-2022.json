@@ -1,5 +1,5 @@
 {
-  "created": 1664287869,
+  "created": 1664291125,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/21/items/npr-2022",
@@ -20709,21 +20709,32 @@
       "format": "JSON"
     },
     {
+      "name": "npr-2022-09-27T10:06:55.134134-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "npr-2022-09-27T10:06:55.134134-04:00.jpg",
+      "mtime": "1664290193",
+      "size": "9881",
+      "md5": "24992cbc8661cc059cbc4b9089624d95",
+      "crc32": "494e4324",
+      "sha1": "c6b3a2267c39f20b2b0a801a77d4c168f4bf3414"
+    },
+    {
       "name": "npr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "13bc91851de7757dc45d797b476f6bfec6c69ad8",
-      "mtime": "1664287827",
-      "size": "410424",
-      "md5": "0f4ebf6bb7f244252a23aa7a7a5b69f8",
-      "crc32": "1add912a",
-      "sha1": "66eaca42e0e89231f71a7cf34c5cc210c1fe7cea",
+      "btih": "225e29481e9cd4b4fbc150f1546cdb1f4aa2fca5",
+      "mtime": "1664290240",
+      "size": "410623",
+      "md5": "aedb53db2e8f9cd667aa1cccd63c4844",
+      "crc32": "f98c3faa",
+      "sha1": "c833b586503652e037f5e4c52740bd26281516c4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "npr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ed8e9f9a4f2179b32e1a94bc7c92fd35",
+      "md5": "14c5c59bad105b7aaf9d17715c26a852",
       "summation": "md5"
     },
     {
@@ -20747,9 +20758,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1998,
-  "item_last_updated": 1664287827,
-  "item_size": 129356267,
+  "files_count": 1999,
+  "item_last_updated": 1664290240,
+  "item_size": 129366347,
   "metadata": {
     "identifier": "npr-2022",
     "collection": [
@@ -20766,21 +20777,10 @@
     "publicdate": "2022-06-24 22:58:47",
     "addeddate": "2022-06-24 22:58:47"
   },
-  "pending_tasks": true,
-  "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419840417,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1628748332,
+  "server": "ia801409.us.archive.org",
+  "uniq": 135702198,
   "workable_servers": [
+    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

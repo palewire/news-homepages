@@ -1,5 +1,5 @@
 {
-  "created": 1664283694,
+  "created": 1664285093,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/11/items/midnight_sun_ak-2022",
@@ -1927,21 +1927,32 @@
       "format": "JSON"
     },
     {
+      "name": "midnight_sun_ak-2022-09-27T05:00:37.410100-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "midnight_sun_ak-2022-09-27T05:00:37.410100-08:00.jpg",
+      "mtime": "1664285058",
+      "size": "11184",
+      "md5": "00f996d5b123d2702be3a1af920d3070",
+      "crc32": "5ae34005",
+      "sha1": "258ee080d1f6b08232e21dde8c0e0d7514732918"
+    },
+    {
       "name": "midnight_sun_ak-2022_archive.torrent",
       "source": "metadata",
-      "btih": "623b8b419f15b17ad1a08b79a0f49fa6e973c3ca",
-      "mtime": "1664283691",
-      "size": "41829",
-      "md5": "fd037aa75d869c8774950b277a267a99",
-      "crc32": "703a2abc",
-      "sha1": "b13361abedd62d5570fd4bbca60d396a5af3725f",
+      "btih": "6307e72489af05a63a16231abbf95297060f8131",
+      "mtime": "1664285069",
+      "size": "42041",
+      "md5": "889b6ab6b8a2ad90dad387218fffe742",
+      "crc32": "3a72d682",
+      "sha1": "8d328f35adb9514553537fc4747e2ad27f271295",
       "format": "Archive BitTorrent"
     },
     {
       "name": "midnight_sun_ak-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f283bd7ab72b1eaa3c293217037cb83d",
+      "md5": "3ff28e79c03f2627a651d431f84fa55c",
       "summation": "md5"
     },
     {
@@ -1965,9 +1976,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 190,
-  "item_last_updated": 1664283691,
-  "item_size": 10582027,
+  "files_count": 191,
+  "item_last_updated": 1664285069,
+  "item_size": 10593423,
   "metadata": {
     "identifier": "midnight_sun_ak-2022",
     "collection": [
@@ -1984,21 +1995,10 @@
     "publicdate": "2022-09-13 01:14:49",
     "addeddate": "2022-09-13 01:14:49"
   },
-  "pending_tasks": true,
   "server": "ia601400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419795395,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1597833460,
+  "uniq": 1349305745,
   "workable_servers": [
-    "ia601400.us.archive.org"
+    "ia601400.us.archive.org",
+    "ia801400.us.archive.org"
   ]
 }

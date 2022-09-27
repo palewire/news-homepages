@@ -1,5 +1,5 @@
 {
-  "created": 1664283811,
+  "created": 1664292888,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/20/items/mstodaynews-2022",
@@ -8159,21 +8159,32 @@
       "format": "JSON"
     },
     {
+      "name": "mstodaynews-2022-09-27T09:01:37.275103-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mstodaynews-2022-09-27T09:01:37.275103-04:00.jpg",
+      "mtime": "1664285667",
+      "size": "9493",
+      "md5": "9fa6acf34117773aaf14fbd6f412a23b",
+      "crc32": "376e43e0",
+      "sha1": "ab12d470b3ab7eaa93d1dad831b04a11dcca3f4f"
+    },
+    {
       "name": "mstodaynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ee09f0b5e9fdef26fc215663709142d0ae30b82d",
-      "mtime": "1664283797",
-      "size": "169402",
-      "md5": "33a8a755b4d0ea29fb2337ba82a3a26e",
-      "crc32": "d1105181",
-      "sha1": "cc48456c92843fb2cc36a8af6ae7458d74590d01",
+      "btih": "b5e8e1aa7d33d1e344a3c60b7371a5552728b762",
+      "mtime": "1664285717",
+      "size": "169609",
+      "md5": "a1f31e3f1e7fff35912ad618bec5bf49",
+      "crc32": "32e0aaf8",
+      "sha1": "644b1beb2915f9bcadb908c48b06086798ec70a0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mstodaynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ed98aedd1e7b4a09475fd2a803e7e2b4",
+      "md5": "97b70c0920e0973575ef42981b5e0d61",
       "summation": "md5"
     },
     {
@@ -8197,9 +8208,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 792,
-  "item_last_updated": 1664283797,
-  "item_size": 50266340,
+  "files_count": 793,
+  "item_last_updated": 1664285717,
+  "item_size": 50276040,
   "metadata": {
     "identifier": "mstodaynews-2022",
     "collection": [
@@ -8216,21 +8227,10 @@
     "publicdate": "2022-07-22 03:36:08",
     "addeddate": "2022-07-22 03:36:08"
   },
-  "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419798239,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1406514224,
+  "server": "ia801407.us.archive.org",
+  "uniq": 446687540,
   "workable_servers": [
+    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1664283556,
+  "created": 1664284872,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/0/items/hiddencityphila-2022",
@@ -9481,21 +9481,32 @@
       "format": "JSON"
     },
     {
+      "name": "hiddencityphila-2022-09-27T08:57:58.065192-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hiddencityphila-2022-09-27T08:57:58.065192-04:00.jpg",
+      "mtime": "1664284826",
+      "size": "9067",
+      "md5": "0dc9a5e95c0e1cc8b7a6e0bbc715cdc7",
+      "crc32": "2646b557",
+      "sha1": "349b15ddaf8fad928e913434d8bbeaa427d64608"
+    },
+    {
       "name": "hiddencityphila-2022_archive.torrent",
       "source": "metadata",
-      "btih": "623b4cabd3acf12e5251a359cdcc5e26f77ecd4a",
-      "mtime": "1664283543",
-      "size": "199555",
-      "md5": "8119fb69941fec92ca3517681c54a055",
-      "crc32": "6a15f190",
-      "sha1": "34a0051e7f061d3278aae3eb669a60f60c3dd4e7",
+      "btih": "fc5cd41a72ea14e2dda1a35db5ba7394b23a9333",
+      "mtime": "1664284843",
+      "size": "199766",
+      "md5": "40e68dd975a397c84a1374686002a4ed",
+      "crc32": "b44f5625",
+      "sha1": "976e1e4fb90fd65fd5fa2a65028d4d99b78dcc5c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hiddencityphila-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dcf6e34b2dea3e3494c6a0551f6c3e5b",
+      "md5": "0889b074056c794bc90c79656d7ad1a8",
       "summation": "md5"
     },
     {
@@ -9519,9 +9530,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 918,
-  "item_last_updated": 1664283543,
-  "item_size": 55030511,
+  "files_count": 919,
+  "item_last_updated": 1664284843,
+  "item_size": 55039789,
   "metadata": {
     "identifier": "hiddencityphila-2022",
     "collection": [
@@ -9538,21 +9549,10 @@
     "publicdate": "2022-07-09 03:59:31",
     "addeddate": "2022-07-09 03:59:31"
   },
-  "pending_tasks": true,
   "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419792734,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 921240775,
+  "uniq": 1839901100,
   "workable_servers": [
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

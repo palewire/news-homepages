@@ -1,5 +1,5 @@
 {
-  "created": 1664287778,
+  "created": 1664295400,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/30/items/oaklandside-2022",
@@ -16823,21 +16823,32 @@
       "format": "JSON"
     },
     {
+      "name": "oaklandside-2022-09-27T07:08:21.879370-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oaklandside-2022-09-27T07:08:21.879370-07:00.jpg",
+      "mtime": "1664289498",
+      "size": "10268",
+      "md5": "a63ac00e3c76345b205d31b1aefc5eab",
+      "crc32": "ace2699c",
+      "sha1": "869876b4592b7362dee74856e4184639177227e4"
+    },
+    {
       "name": "oaklandside-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e4d41a0905565393ff56ce4eb5ac151ee87326ce",
-      "mtime": "1664287773",
-      "size": "346425",
-      "md5": "19b3a7157e5500d5b58582cff455c8d2",
-      "crc32": "a73a69bb",
-      "sha1": "b6053fb717e884c250ff38ae6e44a1db7d142124",
+      "btih": "8f48e5d314803b3bc2450a707f931843e6cdfcff",
+      "mtime": "1664289533",
+      "size": "346633",
+      "md5": "098d8494e3c2327d8a253ede4b97f3f9",
+      "crc32": "557464ca",
+      "sha1": "f6775a422eb8958608b0bc4453951caaf1efd335",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oaklandside-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5d36cfd2f463ff8d7371bce33b4f7063",
+      "md5": "adb6cda18f0e34f1f645c524888dd37b",
       "summation": "md5"
     },
     {
@@ -16861,9 +16872,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1616,
-  "item_last_updated": 1664287773,
-  "item_size": 146084403,
+  "files_count": 1617,
+  "item_last_updated": 1664289533,
+  "item_size": 146094879,
   "metadata": {
     "identifier": "oaklandside-2022",
     "collection": [
@@ -16880,21 +16891,15 @@
     "publicdate": "2022-03-23 02:09:27",
     "addeddate": "2022-03-23 02:09:27"
   },
-  "pending_tasks": true,
+  "oaklandside-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia902503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419838947,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1150406292,
+  "uniq": 1336931461,
   "workable_servers": [
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

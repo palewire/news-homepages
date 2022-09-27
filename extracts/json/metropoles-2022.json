@@ -1,5 +1,5 @@
 {
-  "created": 1664283729,
+  "created": 1664286658,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/32/items/metropoles-2022",
@@ -9029,21 +9029,32 @@
       "format": "JSON"
     },
     {
+      "name": "metropoles-2022-09-27T10:00:47.957717-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "metropoles-2022-09-27T10:00:47.957717-03:00.jpg",
+      "mtime": "1664285658",
+      "size": "9902",
+      "md5": "fbb1a27959eea7fd0d4a5b30a385f302",
+      "crc32": "374b4da5",
+      "sha1": "1bf0b51f43a7643a3150cd600733a3c7d35f2f04"
+    },
+    {
       "name": "metropoles-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e752a78e4e0e0ec4ec45091d40feaa3bee2baba2",
-      "mtime": "1664283724",
-      "size": "187169",
-      "md5": "0debe3bd41ae8b97cd301ce3e9d724c1",
-      "crc32": "03572944",
-      "sha1": "91a8ea398c7880d77abecaa85eede57385332cdc",
+      "btih": "88eb3971a8383cee79fa20ea80dcf73aa23061ff",
+      "mtime": "1664285700",
+      "size": "187375",
+      "md5": "676b5164c06a53bfbde62fb049d74ee4",
+      "crc32": "88e8dcdb",
+      "sha1": "5c9013a9be83838eefadd3abe4b32e969bfd85cd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "metropoles-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "70dd6a4d7c1faf21439a501035d0b470",
+      "md5": "49d227350ac9d52e42061a47059ae543",
       "summation": "md5"
     },
     {
@@ -9067,9 +9078,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 877,
-  "item_last_updated": 1664283724,
-  "item_size": 71417964,
+  "files_count": 878,
+  "item_last_updated": 1664285700,
+  "item_size": 71428072,
   "metadata": {
     "identifier": "metropoles-2022",
     "collection": [
@@ -9086,21 +9097,10 @@
     "publicdate": "2022-08-07 19:43:57",
     "addeddate": "2022-08-07 19:43:57"
   },
-  "pending_tasks": true,
-  "server": "ia902506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419796363,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 424978226,
+  "server": "ia802506.us.archive.org",
+  "uniq": 2082531827,
   "workable_servers": [
+    "ia802506.us.archive.org",
     "ia902506.us.archive.org"
   ]
 }

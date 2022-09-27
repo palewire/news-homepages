@@ -1,5 +1,5 @@
 {
-  "created": 1664283755,
+  "created": 1664285376,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/4/items/miamiherald-2022",
@@ -9349,21 +9349,32 @@
       "format": "JSON"
     },
     {
+      "name": "miamiherald-2022-09-27T09:00:35.429043-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "miamiherald-2022-09-27T09:00:35.429043-04:00.jpg",
+      "mtime": "1664285209",
+      "size": "9580",
+      "md5": "1c93e521eae8277d9b98496e31e10771",
+      "crc32": "ee12d700",
+      "sha1": "f9905027a34e916cfa17c82fee4528f599131c80"
+    },
+    {
       "name": "miamiherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0657ff43ba84760e20dc13be58a8b9477800872f",
-      "mtime": "1664283748",
-      "size": "193170",
-      "md5": "7685b4bb0514a0e745ff26b4cd1adade",
-      "crc32": "0a29795b",
-      "sha1": "d218810a312c05c5c4b94fd4fe048bb7894bcb18",
+      "btih": "59d15a446e9a8fc5f2d4ab873820168b6f8beb56",
+      "mtime": "1664285225",
+      "size": "193377",
+      "md5": "106dbfff8f0a6995cdfb5e93a28c8d9e",
+      "crc32": "7adf4549",
+      "sha1": "6724f1e5396066c7211bc4de800faf76ae78fae5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "miamiherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "735452b86b6c6cf8242ff82ca2f76700",
+      "md5": "814f2415edbcac0855dd85ba11159b12",
       "summation": "md5"
     },
     {
@@ -9387,9 +9398,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 904,
-  "item_last_updated": 1664283748,
-  "item_size": 64731721,
+  "files_count": 905,
+  "item_last_updated": 1664285225,
+  "item_size": 64741508,
   "metadata": {
     "identifier": "miamiherald-2022",
     "collection": [
@@ -9406,21 +9417,10 @@
     "publicdate": "2022-06-24 22:58:26",
     "addeddate": "2022-06-24 22:58:26"
   },
-  "pending_tasks": true,
-  "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419796980,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 405322886,
+  "server": "ia801403.us.archive.org",
+  "uniq": 372037970,
   "workable_servers": [
+    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }

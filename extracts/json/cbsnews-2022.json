@@ -1,5 +1,5 @@
 {
-  "created": 1664283414,
+  "created": 1664288626,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/33/items/cbsnews-2022",
@@ -34465,21 +34465,32 @@
       "format": "JSON"
     },
     {
+      "name": "cbsnews-2022-09-27T08:53:53.596483-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbsnews-2022-09-27T08:53:53.596483-04:00.jpg",
+      "mtime": "1664284625",
+      "size": "8769",
+      "md5": "9557772beb2f62ef648e629fe5a32f52",
+      "crc32": "09ffecd2",
+      "sha1": "4258fa2546c9f7e3e4a73bf993b0b989edbe02aa"
+    },
+    {
       "name": "cbsnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "20ba8ead6c69b1ed31369278f1771e5ac5d05df6",
-      "mtime": "1664283406",
-      "size": "692363",
-      "md5": "205c2b81b6f45542aee207186bec4c06",
-      "crc32": "4c426bb4",
-      "sha1": "baac2ce960d5599e47c505fac718eb1cf412a005",
+      "btih": "9f234985789b2728dafd552cd78037779fa9dad0",
+      "mtime": "1664287699",
+      "size": "692566",
+      "md5": "7cad285a96d0f18841d75aa373614fd4",
+      "crc32": "dbfae60c",
+      "sha1": "ac59acd5a1375b1dbb5a0adc1288fba37ce04660",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cbsnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5a7704cfe5fc634dc0711a5fa0c37aa9",
+      "md5": "2d89085f40d2dcb321fe51f204d18c88",
       "summation": "md5"
     },
     {
@@ -34503,9 +34514,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 3306,
-  "item_last_updated": 1664283406,
-  "item_size": 243670367,
+  "files_count": 3307,
+  "item_last_updated": 1664287699,
+  "item_size": 243679339,
   "metadata": {
     "identifier": "cbsnews-2022",
     "collection": [
@@ -34522,21 +34533,10 @@
     "publicdate": "2022-03-24 23:11:21",
     "addeddate": "2022-03-24 23:11:21"
   },
-  "pending_tasks": true,
   "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419791399,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 837258956,
+  "uniq": 285200757,
   "workable_servers": [
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1664283729,
+  "created": 1664286637,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/35/items/littlevillage-2022",
@@ -12933,21 +12933,32 @@
       "format": "JSON"
     },
     {
+      "name": "littlevillage-2022-09-27T08:00:34.991646-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "littlevillage-2022-09-27T08:00:34.991646-05:00.jpg",
+      "mtime": "1664285664",
+      "size": "9734",
+      "md5": "20ced511bac6cdc1417f74a7d6ad421a",
+      "crc32": "86e13ed8",
+      "sha1": "7ecc1392301bedc5faa0989af7cacf0b3236d3f1"
+    },
+    {
       "name": "littlevillage-2022_archive.torrent",
       "source": "metadata",
-      "btih": "85560d2d61e29d5377fde0b0c3adc4f302682c4d",
-      "mtime": "1664283724",
-      "size": "269866",
-      "md5": "d033af2f0048515128cef6cb3a9bf2e5",
-      "crc32": "ddc2166a",
-      "sha1": "0590a2140e97461ef7ce341e82f5cfa8f5f89d59",
+      "btih": "54ca57ced1ffc9d715dba0724d4f6426ee4f6d38",
+      "mtime": "1664285706",
+      "size": "270075",
+      "md5": "b7334fc2a313beb9b71ba493f6c0c6f9",
+      "crc32": "431b52b7",
+      "sha1": "70f91befd5a9b82b542eccbd966374771f257499",
       "format": "Archive BitTorrent"
     },
     {
       "name": "littlevillage-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d4e3280e6eaa57f2396a557bf36065a8",
+      "md5": "3d3064e76e2ae8670ce24c445f0d2c6a",
       "summation": "md5"
     },
     {
@@ -12971,9 +12982,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1249,
-  "item_last_updated": 1664283724,
-  "item_size": 96849653,
+  "files_count": 1250,
+  "item_last_updated": 1664285706,
+  "item_size": 96859596,
   "metadata": {
     "identifier": "littlevillage-2022",
     "collection": [
@@ -12990,21 +13001,10 @@
     "publicdate": "2022-06-24 22:57:45",
     "addeddate": "2022-06-24 22:57:45"
   },
-  "pending_tasks": true,
-  "server": "ia902507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419796349,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1658253179,
+  "server": "ia802507.us.archive.org",
+  "uniq": 1587714640,
   "workable_servers": [
+    "ia802507.us.archive.org",
     "ia902507.us.archive.org"
   ]
 }

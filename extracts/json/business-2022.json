@@ -1,6 +1,5 @@
 {
-  "conflict": 1664283664,
-  "created": 1664283664,
+  "created": 1664285296,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/22/items/business-2022",
@@ -20645,31 +20644,93 @@
       "sha1": "a8c2c338089f0a79a6b4f7ab3d1796f21fdcd9c4"
     },
     {
+      "name": "business-2022-09-27T08:54:28.156913-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664283276",
+      "size": "1816",
+      "md5": "b14f700b046a73e5f50ece42492e4868",
+      "crc32": "b4ea2444",
+      "sha1": "8f642d1f6ed5bd2be19026e5d93c1a95cc78c4f0",
+      "format": "JSON"
+    },
+    {
+      "name": "business-2022-09-27T08:54:28.156913-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664283279",
+      "size": "44145",
+      "md5": "967945c26cfd2a104062e49402601b2a",
+      "crc32": "24ca3def",
+      "sha1": "44e1128e93bbe730c6deb9886482282c831fa54d",
+      "format": "JSON"
+    },
+    {
+      "name": "business-2022-09-27T08:54:28.156913-04:00.jpg",
+      "source": "original",
+      "mtime": "1664283275",
+      "size": "309979",
+      "md5": "04d9337646816c6791571ef3ffb8ff02",
+      "crc32": "5d51d289",
+      "sha1": "d369c976d0893329d9c71f93a6e701a047192ba1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "business-2022-09-27T08:54:28.156913-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664283282",
+      "size": "1742",
+      "md5": "835b49e0fa815b50e91ef193ece3d99b",
+      "crc32": "97652b5c",
+      "sha1": "e30be284fb39efd15d704d721751efeb1498b68a",
+      "format": "JSON"
+    },
+    {
+      "name": "business-2022-09-27T08:54:28.156913-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664283285",
+      "size": "2249",
+      "md5": "888253f612ecdadb31f72edcd417d501",
+      "crc32": "43b141be",
+      "sha1": "69cf843a3961d8a8b61d39c130f1ce844afe83f6",
+      "format": "JSON"
+    },
+    {
+      "name": "business-2022-09-27T08:54:28.156913-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "business-2022-09-27T08:54:28.156913-04:00.jpg",
+      "mtime": "1664285197",
+      "size": "9727",
+      "md5": "39314bf134091031404b20cd6b2139a3",
+      "crc32": "269363c5",
+      "sha1": "cacc747c714b8b4082f80ca2dd65765953efafa1"
+    },
+    {
       "name": "business-2022_archive.torrent",
       "source": "metadata",
-      "btih": "529f290145bf92300e283c17e40705857f0cdec6",
-      "mtime": "1664254341",
-      "size": "419582",
-      "md5": "328e268ed31018476e07ba123bf6256a",
-      "crc32": "d928a450",
-      "sha1": "fa3e924eb770a72da6e07e37abadeec23b5fab4e",
+      "btih": "a3ce636b7d3c561cbb5c0236d5ef0ac429bef459",
+      "mtime": "1664285273",
+      "size": "420847",
+      "md5": "8975f2ed25369fd826ca70f4c4a78a79",
+      "crc32": "64b8bd0c",
+      "sha1": "6268d23ea341c7779d22df953c08bd2b2d6dc347",
       "format": "Archive BitTorrent"
     },
     {
       "name": "business-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f36779a518ab848626d61c38a093aaca",
+      "md5": "c130cda58e06171419e5d8090303f298",
       "summation": "md5"
     },
     {
       "name": "business-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664253046",
-      "size": "2465792",
-      "md5": "56152bf9b4c2299854f55f88d2b56fbb",
-      "crc32": "3447fc77",
-      "sha1": "b83760ed35c510c7bc6b4d6db57a676ce24a1512",
+      "mtime": "1664283682",
+      "size": "2473984",
+      "md5": "ec626b99e217feffd79d4d4263d4a1e0",
+      "crc32": "73c961ce",
+      "sha1": "9b8e9f955cb959ac47f3c1f22e493bcc77415b4f",
       "format": "Metadata"
     },
     {
@@ -20683,9 +20744,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1992,
-  "item_last_updated": 1664254341,
-  "item_size": 151590275,
+  "files_count": 1998,
+  "item_last_updated": 1664285273,
+  "item_size": 151969390,
   "metadata": {
     "identifier": "business-2022",
     "collection": [
@@ -20702,21 +20763,10 @@
     "publicdate": "2022-06-19 23:23:29",
     "addeddate": "2022-06-19 23:23:29"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419790336,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 279931295,
+  "server": "ia801405.us.archive.org",
+  "uniq": 1093416384,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

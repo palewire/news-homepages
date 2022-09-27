@@ -1,5 +1,5 @@
 {
-  "created": 1664287638,
+  "created": 1664290404,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/13/items/njherald-2022",
@@ -873,21 +873,32 @@
       "format": "JSON"
     },
     {
+      "name": "njherald-2022-09-27T10:06:22.002360-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "njherald-2022-09-27T10:06:22.002360-04:00.jpg",
+      "mtime": "1664289968",
+      "size": "9095",
+      "md5": "98077daf07a65ac03199198f0c052879",
+      "crc32": "22c11259",
+      "sha1": "577ede0000bcd4a1e3862c8de87c38b7f777623d"
+    },
+    {
       "name": "njherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "be36ca2e80547f567452f26cfa7ab2dc920652cc",
-      "mtime": "1664287632",
-      "size": "19103",
-      "md5": "a738afd50fc803f0bb05df84b3289db4",
-      "crc32": "bad59b6a",
-      "sha1": "418aee25f0e8457f5d1a7e97ace95e9dacb10096",
+      "btih": "a6f550a262764998d5e8fd3f5760a05abb2f8994",
+      "mtime": "1664289974",
+      "size": "19307",
+      "md5": "c979dd65922ebdb2655f8f9a1688f1c0",
+      "crc32": "35134c25",
+      "sha1": "f93a0b74b6ae9b6a499651e4bc657f6ebac2208f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "njherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d2e86a693ec0f333d2bb684897c8cacd",
+      "md5": "cb6717ed73900f200a812228ab077f2e",
       "summation": "md5"
     },
     {
@@ -911,9 +922,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 88,
-  "item_last_updated": 1664287632,
-  "item_size": 6052465,
+  "files_count": 89,
+  "item_last_updated": 1664289974,
+  "item_size": 6061764,
   "metadata": {
     "identifier": "njherald-2022",
     "collection": [
@@ -930,21 +941,10 @@
     "publicdate": "2022-09-21 02:21:06",
     "addeddate": "2022-09-21 02:21:06"
   },
-  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419837461,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 701027693,
+  "uniq": 647082002,
   "workable_servers": [
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }
