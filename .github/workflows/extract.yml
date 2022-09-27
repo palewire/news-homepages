@@ -10,6 +10,16 @@ on:
         required: true
         type: boolean
         default: false
+      download-lighthouse:
+        description: 'Download Lighthouse'
+        required: true
+        type: boolean
+        default: true
+      download-drudge-hyperlinks:
+        description: 'Download Drudge hyperlinks'
+        required: true
+        type: boolean
+        default: true
 
 concurrency:
   group: extract
@@ -58,7 +68,7 @@ jobs:
   download-lighthouse:
     name: Download Lighthouse
     runs-on: ubuntu-latest
-    needs: [download-items]
+    if: inputs.download-lighthouse == true
     steps:
       - id: checkout
         name: Checkout
@@ -92,7 +102,7 @@ jobs:
   download-drudge-hyperlinks:
     name: Download Drudge hyperlinks
     runs-on: ubuntu-latest
-    needs: [download-items]
+    if: inputs.download-drudge-hyperlinks == true
     steps:
       - id: checkout
         name: Checkout
