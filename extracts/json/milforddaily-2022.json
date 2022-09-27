@@ -1,5 +1,5 @@
 {
-  "created": 1664294919,
+  "created": 1664300638,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/10/items/milforddaily-2022",
@@ -884,31 +884,82 @@
       "sha1": "6769fd44e85a2934bd25e6a8f4b7ff3ef1184a15"
     },
     {
+      "name": "milforddaily-2022-09-27T13:42:42.340342-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664300567",
+      "size": "24296",
+      "md5": "e26cb917757a0ccc923f83e911634702",
+      "crc32": "ae171b93",
+      "sha1": "88fe837d618b53aaefc6d3e5d44d43ee5b7bc6ca",
+      "format": "JSON"
+    },
+    {
+      "name": "milforddaily-2022-09-27T13:42:42.340342-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664300569",
+      "size": "43896",
+      "md5": "ce51ec13d1c5c116f3036262e3b8cb07",
+      "crc32": "0c53433b",
+      "sha1": "9a1b4fb563f2d170e4010b0c1466c0abbfa458fb",
+      "format": "JSON"
+    },
+    {
+      "name": "milforddaily-2022-09-27T13:42:42.340342-04:00.jpg",
+      "source": "original",
+      "mtime": "1664300565",
+      "size": "293516",
+      "md5": "4ba25cb5dcbafbb0023256373536304a",
+      "crc32": "b4d79d15",
+      "sha1": "c77228eafeb8e4679561ea9c6aa24f2413a49762",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "milforddaily-2022-09-27T13:42:42.340342-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664300570",
+      "size": "1549",
+      "md5": "7d3090021ce7c666683270eb50bce345",
+      "crc32": "0792931c",
+      "sha1": "5339073b9655673e89c12e86f3d2a5c8f12eef1b",
+      "format": "JSON"
+    },
+    {
+      "name": "milforddaily-2022-09-27T13:42:42.340342-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664300572",
+      "size": "130177",
+      "md5": "05f777db6d093667d582f72a7b53987f",
+      "crc32": "f1579b7c",
+      "sha1": "6011804bebad3003a7846b4ec934d88236e3d648",
+      "format": "JSON"
+    },
+    {
       "name": "milforddaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2a01a072d18715616787888a54bc2ff145b921c0",
-      "mtime": "1664258965",
-      "size": "19708",
-      "md5": "1e4185be34ec01371d7e34b2dc951501",
-      "crc32": "2c089d7b",
-      "sha1": "b5fccdf4c577943018676d375b97337445e1520b",
+      "btih": "232bb5a6ac76810afc851eb66850f48c19b2cd6b",
+      "mtime": "1664300625",
+      "size": "20792",
+      "md5": "0a1b7119f86dfea5e69b5499bb36f09d",
+      "crc32": "6541b837",
+      "sha1": "1cc69b34b425e2275dc55e470cba581ccf322650",
       "format": "Archive BitTorrent"
     },
     {
       "name": "milforddaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1d9306d159a6bbfdbbccb997f8eacdda",
+      "md5": "e7b4b7275d4c7e94563c1f69d68d49de",
       "summation": "md5"
     },
     {
       "name": "milforddaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664257484",
-      "size": "135168",
-      "md5": "a3187db2bb3d8b170be5d88b4c59b314",
-      "crc32": "43e9b405",
-      "sha1": "5225e18b7626b6c3d01a94fcd58c09ca1c2f1f33",
+      "mtime": "1664300586",
+      "size": "139264",
+      "md5": "6e36108bcda1df60815bacd2ae673270",
+      "crc32": "7d2aa48c",
+      "sha1": "fbab468cdac338bd066c1b2009857cbf4013cd58",
       "format": "Metadata"
     },
     {
@@ -922,9 +973,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 89,
-  "item_last_updated": 1664258965,
-  "item_size": 6570814,
+  "files_count": 94,
+  "item_last_updated": 1664300625,
+  "item_size": 7069428,
   "metadata": {
     "identifier": "milforddaily-2022",
     "collection": [
@@ -941,15 +992,21 @@
     "publicdate": "2022-09-20 17:36:01",
     "addeddate": "2022-09-20 17:36:01"
   },
-  "milforddaily-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "server": "ia801407.us.archive.org",
-  "uniq": 601935814,
+  "pending_tasks": true,
+  "server": "ia601407.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3419992620,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 450987780,
   "workable_servers": [
-    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

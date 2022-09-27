@@ -1,5 +1,5 @@
 {
-  "created": 1664284730,
+  "created": 1664300589,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/15/items/miwisconsin-2022",
@@ -8526,31 +8526,82 @@
       "sha1": "0b9941367083506d8919166de8a7fa790292abeb"
     },
     {
+      "name": "miwisconsin-2022-09-27T12:41:54.191498-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664300518",
+      "size": "47226",
+      "md5": "dd46f7562540fd72f713d1052cda1793",
+      "crc32": "49a4ab2d",
+      "sha1": "8ce68315e111d6c639f49cbfc2d25b673be6e6e6",
+      "format": "JSON"
+    },
+    {
+      "name": "miwisconsin-2022-09-27T12:41:54.191498-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664300520",
+      "size": "56003",
+      "md5": "f47ea40a4a7dca9306d40a7f309817bd",
+      "crc32": "93f27526",
+      "sha1": "a70624a2b7a79f2fd100589134a3d118fbbb8372",
+      "format": "JSON"
+    },
+    {
+      "name": "miwisconsin-2022-09-27T12:41:54.191498-05:00.jpg",
+      "source": "original",
+      "mtime": "1664300516",
+      "size": "226481",
+      "md5": "099fa6dc993686bd1f3384877bfb55fd",
+      "crc32": "ef836140",
+      "sha1": "b76aecb45390c0ef08bf4131e81fa713f26c78d8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "miwisconsin-2022-09-27T12:41:54.191498-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664300522",
+      "size": "1466",
+      "md5": "b0cb14b49b06590500e5aeac0c9ba88b",
+      "crc32": "b9f6c8d3",
+      "sha1": "a3295b1114eb079833ba9d26045d11bd17fc12de",
+      "format": "JSON"
+    },
+    {
+      "name": "miwisconsin-2022-09-27T12:41:54.191498-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664300524",
+      "size": "30028",
+      "md5": "0a714d8034f3cc2e073da147da4926ee",
+      "crc32": "ae6998d0",
+      "sha1": "0962a4a1edf9b824fe27cde283b3cacd8f7519be",
+      "format": "JSON"
+    },
+    {
       "name": "miwisconsin-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dd3a0a88b4a306d34e04dc51884c692da7ef3d18",
-      "mtime": "1664258685",
-      "size": "176630",
-      "md5": "b8f472fa9b36cbbde7ac25b005b19dbb",
-      "crc32": "948854e3",
-      "sha1": "ef4c744f80388c0418138398f7a827bce12a017f",
+      "btih": "fcb1d40f42fe5a0437d57bf2a76221346077b571",
+      "mtime": "1664300578",
+      "size": "177688",
+      "md5": "4630bd30563428db760e858452880f79",
+      "crc32": "ffeb74cf",
+      "sha1": "10f8b722616fdc4486af920f4ec1fb396315bdcf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "miwisconsin-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5ec216b8e4438b176c3e86e04c364af1",
+      "md5": "d7b71cea6b3a1215d96bc9909f262dfe",
       "summation": "md5"
     },
     {
       "name": "miwisconsin-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664257481",
-      "size": "1044480",
-      "md5": "03242c8d5bddc074d26a2735455c7e8a",
-      "crc32": "1aa157a2",
-      "sha1": "d9712eef36a5426c51daf3401b8bdb54d51966e5",
+      "mtime": "1664300532",
+      "size": "1052672",
+      "md5": "8845c9283e56f28887117c948f039bad",
+      "crc32": "164ed881",
+      "sha1": "a04b14967bc5f56df1dd6502ec445b31d779eb83",
       "format": "Metadata"
     },
     {
@@ -8564,9 +8615,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 826,
-  "item_last_updated": 1664258685,
-  "item_size": 53732249,
+  "files_count": 831,
+  "item_last_updated": 1664300578,
+  "item_size": 54102703,
   "metadata": {
     "identifier": "miwisconsin-2022",
     "collection": [
@@ -8583,10 +8634,21 @@
     "publicdate": "2022-07-09 04:00:37",
     "addeddate": "2022-07-09 04:00:37"
   },
-  "server": "ia801502.us.archive.org",
-  "uniq": 412399973,
+  "pending_tasks": true,
+  "server": "ia601502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3419991866,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 270474559,
   "workable_servers": [
-    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1664277537,
+  "created": 1664300317,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/11/items/independentmail-2022",
@@ -884,31 +884,82 @@
       "sha1": "cd5eba5ba5f2da0b30e3ea8b2245a839d22b0113"
     },
     {
+      "name": "independentmail-2022-09-27T13:37:40.384616-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664300262",
+      "size": "24031",
+      "md5": "6151fcb102bf43c1b2e02aab44754c22",
+      "crc32": "daa6834c",
+      "sha1": "d0341b075578f7ffd19663931a4a77d9a6486cde",
+      "format": "JSON"
+    },
+    {
+      "name": "independentmail-2022-09-27T13:37:40.384616-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664300265",
+      "size": "33475",
+      "md5": "f413947f0db75472d4ac9c0b9014eb8a",
+      "crc32": "7bb1c9d0",
+      "sha1": "baf8d50a53d578f0eaeb60a2ee0fdb1086e64796",
+      "format": "JSON"
+    },
+    {
+      "name": "independentmail-2022-09-27T13:37:40.384616-04:00.jpg",
+      "source": "original",
+      "mtime": "1664300261",
+      "size": "301858",
+      "md5": "eaf98776110e8c4f7d575b1198e65984",
+      "crc32": "4ce4be56",
+      "sha1": "0e8b6aae7054dea038ee2bb95de4914220e124d7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "independentmail-2022-09-27T13:37:40.384616-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664300266",
+      "size": "1540",
+      "md5": "c90cf7c52b942945f816cc19779c02db",
+      "crc32": "96eb03c4",
+      "sha1": "8e80baeedba8471fc2147002e318790aed139b01",
+      "format": "JSON"
+    },
+    {
+      "name": "independentmail-2022-09-27T13:37:40.384616-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664300270",
+      "size": "95811",
+      "md5": "6a3aa9cf2e310187714467137d81029f",
+      "crc32": "f49bad4d",
+      "sha1": "77902917945792e0b8e7dae259fb59301ce44a5a",
+      "format": "JSON"
+    },
+    {
       "name": "independentmail-2022_archive.torrent",
       "source": "metadata",
-      "btih": "17a57636e2e3f1a21059f63e78b5ddf4fc69b108",
-      "mtime": "1664258444",
-      "size": "19966",
-      "md5": "3fa0ed9e97723f7cdff8d2a26099f87b",
-      "crc32": "56bf70f9",
-      "sha1": "257ec2abd6bd03b3e77b6881c62c5df96178e2c2",
+      "btih": "73c48ef9eb746886387fe1ed897309030fd4f13c",
+      "mtime": "1664300314",
+      "size": "21064",
+      "md5": "a20495eb090b3d673d65ebe991c50237",
+      "crc32": "18abf965",
+      "sha1": "cea2dcf47d59ddc9e86731871a310736aa5337c6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "independentmail-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "35673bcfa639f456165fdcd539a6fab0",
+      "md5": "42723a4a3bc2791b94bb8c88df08486c",
       "summation": "md5"
     },
     {
       "name": "independentmail-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664257283",
-      "size": "135168",
-      "md5": "46bdfe02d72f91c839c2c8423485b071",
-      "crc32": "b9c79220",
-      "sha1": "0fc8343fce07e9b7d048fcaa684cae6ba153dd57",
+      "mtime": "1664300276",
+      "size": "139264",
+      "md5": "ad92f73f7c4c022c80be224890eb5e7e",
+      "crc32": "fc5768c1",
+      "sha1": "979690f131b182edeb3c27e5b2f2c0d9c7cf6fd2",
       "format": "Metadata"
     },
     {
@@ -922,9 +973,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 89,
-  "item_last_updated": 1664258444,
-  "item_size": 6149750,
+  "files_count": 94,
+  "item_last_updated": 1664300314,
+  "item_size": 6611659,
   "metadata": {
     "identifier": "independentmail-2022",
     "collection": [
@@ -941,10 +992,21 @@
     "publicdate": "2022-09-20 17:30:12",
     "addeddate": "2022-09-20 17:30:12"
   },
+  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "uniq": 1389728583,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3419987919,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 847947127,
   "workable_servers": [
-    "ia601404.us.archive.org",
-    "ia801404.us.archive.org"
+    "ia601404.us.archive.org"
   ]
 }

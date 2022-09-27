@@ -1,5 +1,5 @@
 {
-  "created": 1664294978,
+  "created": 1664300580,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/4/items/morningbrew-2022",
@@ -6736,31 +6736,82 @@
       "sha1": "f8ee9b5a24f10a7c813dbd042e0c77e90d438ac8"
     },
     {
+      "name": "morningbrew-2022-09-27T13:41:49.793783-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664300513",
+      "size": "9926",
+      "md5": "467db8293f11ba5a4671e3c2116307db",
+      "crc32": "65ba12e3",
+      "sha1": "bdd814f0ca44d2372d00b22eaa309b4980df57cf",
+      "format": "JSON"
+    },
+    {
+      "name": "morningbrew-2022-09-27T13:41:49.793783-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664300515",
+      "size": "8947",
+      "md5": "a70882a38bb33ed861e9e9c5a7abf539",
+      "crc32": "35bc01f3",
+      "sha1": "ebc774e9f0a82b79d5595221b6be5c91e3739ccc",
+      "format": "JSON"
+    },
+    {
+      "name": "morningbrew-2022-09-27T13:41:49.793783-04:00.jpg",
+      "source": "original",
+      "mtime": "1664300511",
+      "size": "288735",
+      "md5": "1527935d8bb6c78a0fd893056be5efa1",
+      "crc32": "997b29b8",
+      "sha1": "06725c7515211961bc6c88ec1ad348f1e694b48c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "morningbrew-2022-09-27T13:41:49.793783-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664300517",
+      "size": "1549",
+      "md5": "ff8da0efcedaa4b2bd6529e6d3dc6ebe",
+      "crc32": "15db0c6c",
+      "sha1": "85120e3adbd8513fd21275da98599fb69f798a39",
+      "format": "JSON"
+    },
+    {
+      "name": "morningbrew-2022-09-27T13:41:49.793783-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664300519",
+      "size": "15633",
+      "md5": "b11a420447747ef1b4980dd0942762ab",
+      "crc32": "028b6047",
+      "sha1": "5e207bc29b4f750c0ecf65b727a9e35b0e1f5625",
+      "format": "JSON"
+    },
+    {
       "name": "morningbrew-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f870c12eda3189fbddbcd0eb49461c78bf7d9893",
-      "mtime": "1664258807",
-      "size": "140011",
-      "md5": "4481ffc1b399cd35f3b6bed2db1b082b",
-      "crc32": "6a176e38",
-      "sha1": "e5558679991c0731aeaebec1a9a271b0fe85ec29",
+      "btih": "1a22f1d7c21b651e61e790a0d7c0984178f1f10e",
+      "mtime": "1664300572",
+      "size": "141067",
+      "md5": "995e87fc937a33cf515fa96fd0f03fad",
+      "crc32": "0966d1fc",
+      "sha1": "35ecdbd6ddf84e152856685cf0e3aef0f311ccbe",
       "format": "Archive BitTorrent"
     },
     {
       "name": "morningbrew-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "42a6b02d978b9a7824d6349484dae569",
+      "md5": "7681388ed8816c476d13cc50d9ab9db4",
       "summation": "md5"
     },
     {
       "name": "morningbrew-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664257566",
-      "size": "843776",
-      "md5": "556e812a633ecc8a882805893c489124",
-      "crc32": "f0f460df",
-      "sha1": "cc04fe501b93bb2d56229356cf0f4db4ea593b65",
+      "mtime": "1664300528",
+      "size": "851968",
+      "md5": "0607759151662f52bffb24a43e21ff6b",
+      "crc32": "f720df8d",
+      "sha1": "b87ec51c2a71c157a888be0b9789efc6f1936fee",
       "format": "Metadata"
     },
     {
@@ -6774,9 +6825,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 655,
-  "item_last_updated": 1664258807,
-  "item_size": 35272896,
+  "files_count": 660,
+  "item_last_updated": 1664300572,
+  "item_size": 35606934,
   "metadata": {
     "identifier": "morningbrew-2022",
     "collection": [
@@ -6793,15 +6844,21 @@
     "publicdate": "2022-08-02 14:59:20",
     "addeddate": "2022-08-02 14:59:20"
   },
-  "morningbrew-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "server": "ia801407.us.archive.org",
-  "uniq": 2032154422,
+  "pending_tasks": true,
+  "server": "ia601407.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3419991725,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1795006844,
   "workable_servers": [
-    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

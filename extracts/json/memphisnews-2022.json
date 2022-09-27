@@ -1,5 +1,5 @@
 {
-  "created": 1664260353,
+  "created": 1664304010,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/22/items/memphisnews-2022",
@@ -884,31 +884,82 @@
       "sha1": "a536130e7e0c4d065abc2827b1ed66c77469dd4c"
     },
     {
+      "name": "memphisnews-2022-09-27T12:41:55.901390-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664300521",
+      "size": "21233",
+      "md5": "5a126831d8ee066eec250f8ba3140344",
+      "crc32": "06111aeb",
+      "sha1": "9d7c7d81f89fed90f98e8608f829588130bbc769",
+      "format": "JSON"
+    },
+    {
+      "name": "memphisnews-2022-09-27T12:41:55.901390-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664300523",
+      "size": "36190",
+      "md5": "d192237a1ec4466ffe0f463028ab135d",
+      "crc32": "d620358d",
+      "sha1": "30580231d69334118316a96bdfd0740b3f839d9a",
+      "format": "JSON"
+    },
+    {
+      "name": "memphisnews-2022-09-27T12:41:55.901390-05:00.jpg",
+      "source": "original",
+      "mtime": "1664300519",
+      "size": "234605",
+      "md5": "bf6cf6584bb4a480594b58dd67ae9d4d",
+      "crc32": "017173a1",
+      "sha1": "e1a18b5a55620457bec1eb00336582f8705abb40",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "memphisnews-2022-09-27T12:41:55.901390-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664300525",
+      "size": "1548",
+      "md5": "d60ef3c9f6adef7049b105cba6422bd7",
+      "crc32": "f1cf0b29",
+      "sha1": "780ac0086f5d5f3b7abbb4f9854a1181ab393bdc",
+      "format": "JSON"
+    },
+    {
+      "name": "memphisnews-2022-09-27T12:41:55.901390-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664300526",
+      "size": "109",
+      "md5": "4f86f01b3358521722085ebd8d17293f",
+      "crc32": "d7206d2d",
+      "sha1": "356ce691f1b807a8764ea515729964784821656d",
+      "format": "JSON"
+    },
+    {
       "name": "memphisnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "67d97f95869df686357ebf81286cfe2183c13e92",
-      "mtime": "1664258791",
-      "size": "19589",
-      "md5": "f1c7416cc1db5d4f22fd9121ceb24f6b",
-      "crc32": "3159c71a",
-      "sha1": "1d4a04056c2fcc3243b422ae505ed51b435626bc",
+      "btih": "de80718939cd49dab6b5db3b67a7ed5f3586bc5d",
+      "mtime": "1664300572",
+      "size": "20645",
+      "md5": "554f92ad73f5cac6b3d8cf1d5ef2277b",
+      "crc32": "dd9198ed",
+      "sha1": "55ad465503a65586c7917ed7f7464c6124b0ff64",
       "format": "Archive BitTorrent"
     },
     {
       "name": "memphisnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fb2f7657ac727ecbe90e2f5c1c198b72",
+      "md5": "faa329505b0e614815d928a1d5adc953",
       "summation": "md5"
     },
     {
       "name": "memphisnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664257522",
-      "size": "135168",
-      "md5": "4aafd38a372f83913009d5f9c76cc3b5",
-      "crc32": "f56b1ad1",
-      "sha1": "30e326766297cce6352c025c07853a53b7f02d0c",
+      "mtime": "1664300533",
+      "size": "139264",
+      "md5": "7ae0d7e30ebbbcacbb9d7737e965cd07",
+      "crc32": "84be7ef8",
+      "sha1": "e216fef0ef2b237e7923666a5dbdcd0bab2c3096",
       "format": "Metadata"
     },
     {
@@ -922,9 +973,13 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 89,
-  "item_last_updated": 1664258791,
-  "item_size": 5849573,
+  "files_count": 94,
+  "item_last_updated": 1664300572,
+  "item_size": 6148410,
+  "memphisnews-2022": {
+    "url": "https://www.commercialappeal.com/",
+    "job_id": "spn2-b43847b019328ba94bf903ccf529c067b8177d63"
+  },
   "metadata": {
     "identifier": "memphisnews-2022",
     "collection": [
@@ -941,10 +996,21 @@
     "publicdate": "2022-09-20 17:35:56",
     "addeddate": "2022-09-20 17:35:56"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 785933752,
+  "pending_tasks": true,
+  "server": "ia601406.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3419991679,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 451233572,
   "workable_servers": [
-    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
   ]
 }

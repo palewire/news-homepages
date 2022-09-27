@@ -1,5 +1,5 @@
 {
-  "created": 1664294170,
+  "created": 1664300250,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/31/items/irishexaminer-2022",
@@ -8238,31 +8238,82 @@
       "sha1": "9666a3b2f35918c19949e0845547e4a0d193d9d6"
     },
     {
+      "name": "irishexaminer-2022-09-27T18:36:21.343063+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664300185",
+      "size": "34742",
+      "md5": "e1171ad7d49a4161e332f401446039da",
+      "crc32": "6f88f210",
+      "sha1": "b6c73fd75ac773fabdb7bedd7f21deb620579553",
+      "format": "JSON"
+    },
+    {
+      "name": "irishexaminer-2022-09-27T18:36:21.343063+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664300187",
+      "size": "33040",
+      "md5": "6d3ca2049da0e5c986696da5a53ccc18",
+      "crc32": "e9f074d0",
+      "sha1": "b4591703c1ea22c0c37ff68bf50f9eddf316d737",
+      "format": "JSON"
+    },
+    {
+      "name": "irishexaminer-2022-09-27T18:36:21.343063+01:00.jpg",
+      "source": "original",
+      "mtime": "1664300183",
+      "size": "326325",
+      "md5": "4587c063990045335b90ae655a4ac884",
+      "crc32": "bc61d638",
+      "sha1": "f8629c9009645b55fe829cbb1b272aa89c298365",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "irishexaminer-2022-09-27T18:36:21.343063+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664300190",
+      "size": "1521",
+      "md5": "03d74ebed5082a0eecf886f61f4f7e30",
+      "crc32": "a68c9ccd",
+      "sha1": "851191e17d80d52b2189615da2b1ed308d33e457",
+      "format": "JSON"
+    },
+    {
+      "name": "irishexaminer-2022-09-27T18:36:21.343063+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1664300194",
+      "size": "106",
+      "md5": "9303640c00d8dac35ded608bf0dd7308",
+      "crc32": "c88f7d6b",
+      "sha1": "83de9e843026585f8c7f922ba3ab7b7014ff7af4",
+      "format": "JSON"
+    },
+    {
       "name": "irishexaminer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cbc68ef04225c5ab684947cd9d49d7e3b49b59cc",
-      "mtime": "1664258537",
-      "size": "172939",
-      "md5": "955ac64a1eb298ada546f631cb883c2f",
-      "crc32": "3dc0af69",
-      "sha1": "ac36d28894c889ce84080514a38c1f517963dabb",
+      "btih": "63baedfb77930d6dfe6e1f9c42967a43b81bd15c",
+      "mtime": "1664300243",
+      "size": "174005",
+      "md5": "fd2c98d9f12529bf0f7c8da34a2e8edf",
+      "crc32": "11e41fb6",
+      "sha1": "d9afacf530978d08a1d50d52186879e76b333f5f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "irishexaminer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fd542ff2678fca8488834ba10b1327cf",
+      "md5": "82f4ffe1f1210771d772b64f10a1b6ab",
       "summation": "md5"
     },
     {
       "name": "irishexaminer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664257308",
-      "size": "1019904",
-      "md5": "a8087e47dc1c80d052f355e22e239600",
-      "crc32": "1fc75d5b",
-      "sha1": "f0ff797c7d4cd6fe198cfa5b942815890f1745d2",
+      "mtime": "1664300200",
+      "size": "1028096",
+      "md5": "db3e3e85344737eafa02b9082c8833d2",
+      "crc32": "a54a7c7f",
+      "sha1": "6f2c240eefd4cf7c6538738df53dccdab11fbb9e",
       "format": "Metadata"
     },
     {
@@ -8276,14 +8327,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 799,
-  "irishexaminer-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "item_last_updated": 1664258537,
-  "item_size": 58447011,
+  "files_count": 804,
+  "item_last_updated": 1664300243,
+  "item_size": 58852003,
   "metadata": {
     "identifier": "irishexaminer-2022",
     "collection": [
@@ -8300,10 +8346,21 @@
     "publicdate": "2022-07-18 02:23:56",
     "addeddate": "2022-07-18 02:23:56"
   },
+  "pending_tasks": true,
   "server": "ia601509.us.archive.org",
-  "uniq": 109174862,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3419987022,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 261318031,
   "workable_servers": [
-    "ia601509.us.archive.org",
-    "ia801509.us.archive.org"
+    "ia601509.us.archive.org"
   ]
 }

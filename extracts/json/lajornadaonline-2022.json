@@ -1,5 +1,5 @@
 {
-  "created": 1664258649,
+  "created": 1664300385,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/6/items/lajornadaonline-2022",
@@ -5226,31 +5226,82 @@
       "sha1": "eaedceaf8e27ba838f07721e0d824fb7046fadc3"
     },
     {
+      "name": "lajornadaonline-2022-09-27T12:38:40.009583-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664300324",
+      "size": "4679",
+      "md5": "7fdddc59e0c800fb5f08bd19905a24d4",
+      "crc32": "36970794",
+      "sha1": "6fae1cfbb02ad484d806d1b70444035f652208dd",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornadaonline-2022-09-27T12:38:40.009583-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664300325",
+      "size": "8468",
+      "md5": "20584f329589017c09c7e7fa973a0d09",
+      "crc32": "f8be3d94",
+      "sha1": "dcc576608d0a39938a8b8f0a3499fa5fc3215778",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornadaonline-2022-09-27T12:38:40.009583-05:00.jpg",
+      "source": "original",
+      "mtime": "1664300322",
+      "size": "166715",
+      "md5": "f629e032675f6f7f71b002fceb78ebf9",
+      "crc32": "16735883",
+      "sha1": "edf6cdd8a5e97c802621c6a25aace671bd0cbd77",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lajornadaonline-2022-09-27T12:38:40.009583-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664300327",
+      "size": "1495",
+      "md5": "8cd4c5b67a90d1d3f20079e8f35f5a1a",
+      "crc32": "8d31a537",
+      "sha1": "e897384ad9739eaf40415fa5297cbcb4ce88f0b3",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornadaonline-2022-09-27T12:38:40.009583-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664300330",
+      "size": "21855",
+      "md5": "5f97de0beb5619d7e0af1443ae46ec6b",
+      "crc32": "54e7d4bb",
+      "sha1": "1ed65cdf2733fd0b2765338ede49484a7268b39f",
+      "format": "JSON"
+    },
+    {
       "name": "lajornadaonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8903a4dbd2161a1677079895baf4cc10ca464ccc",
-      "mtime": "1664258616",
-      "size": "110445",
-      "md5": "b5fe156373b3de050ab760cc33f9576d",
-      "crc32": "2c2e2695",
-      "sha1": "1ffe5fc4f9967ffccaf36541633bd99678391fc9",
+      "btih": "6262728cab6b04a98b21f18944591583ca1f9eb3",
+      "mtime": "1664300379",
+      "size": "111521",
+      "md5": "b2b9dca0644c803a4440d526a896aac6",
+      "crc32": "140555e5",
+      "sha1": "d92d36ae4773b0a38f8b81c85e1205ecb4beed85",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lajornadaonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8be98a71f6da1cbef74ae089bae5c406",
+      "md5": "8648dcd0ab0e7950d4a02745d152a51f",
       "summation": "md5"
     },
     {
       "name": "lajornadaonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664257396",
-      "size": "663552",
-      "md5": "1a3c8646091f94de3fc5a399633b7fda",
-      "crc32": "0d15aadc",
-      "sha1": "415341adb1c448de2364b1f43a82307cb8f06b75",
+      "mtime": "1664300336",
+      "size": "671744",
+      "md5": "82097c5a789e423cb6632b36a4f1e374",
+      "crc32": "be75549a",
+      "sha1": "7c003f638a313f5000e4df7eac849ca2d2aa1444",
       "format": "Metadata"
     },
     {
@@ -5264,9 +5315,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 509,
-  "item_last_updated": 1664258616,
-  "item_size": 18729214,
+  "files_count": 514,
+  "item_last_updated": 1664300379,
+  "item_size": 18941694,
   "metadata": {
     "identifier": "lajornadaonline-2022",
     "collection": [
@@ -5283,10 +5334,21 @@
     "publicdate": "2022-08-16 17:11:32",
     "addeddate": "2022-08-16 17:11:32"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 132955741,
+  "pending_tasks": true,
+  "server": "ia601408.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3419988949,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 144576640,
   "workable_servers": [
-    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1664277846,
+  "created": 1664300429,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/24/items/laopinioncoruna-2022",
@@ -7494,31 +7494,82 @@
       "sha1": "bf995dcaa6ebe3205f0582a2b7a2a7502172ed37"
     },
     {
+      "name": "laopinioncoruna-2022-09-27T19:39:09.704455+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664300360",
+      "size": "89814",
+      "md5": "e097fe971f0cc293dbea30005935a91f",
+      "crc32": "5c40185e",
+      "sha1": "8208a6029b7649d5f98794e01d4220f1f5a964b8",
+      "format": "JSON"
+    },
+    {
+      "name": "laopinioncoruna-2022-09-27T19:39:09.704455+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664300362",
+      "size": "143952",
+      "md5": "ccd8f046b90d6ba39d4223d94b294eaf",
+      "crc32": "3b6b4575",
+      "sha1": "2cd84a4261db6cef11e5094285667b7ffb75e784",
+      "format": "JSON"
+    },
+    {
+      "name": "laopinioncoruna-2022-09-27T19:39:09.704455+02:00.jpg",
+      "source": "original",
+      "mtime": "1664300358",
+      "size": "272106",
+      "md5": "117dd3f8172aa352c851ef86d6f8cded",
+      "crc32": "6cc0a01f",
+      "sha1": "4a239a0f1977ff1d573a2ec8f384b5061e0f971f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "laopinioncoruna-2022-09-27T19:39:09.704455+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664300364",
+      "size": "1531",
+      "md5": "b631fd2ee13f91bd8f601c3c7c74a3d5",
+      "crc32": "d661707b",
+      "sha1": "6adc528ca512eb511d71be17581d9c179544523d",
+      "format": "JSON"
+    },
+    {
+      "name": "laopinioncoruna-2022-09-27T19:39:09.704455+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664300366",
+      "size": "23138",
+      "md5": "c043410fc550ea8d9aaf83ff1833356d",
+      "crc32": "92b2439d",
+      "sha1": "0fee2fafc3f5313d5992106f294529b3aa1bd994",
+      "format": "JSON"
+    },
+    {
       "name": "laopinioncoruna-2022_archive.torrent",
       "source": "metadata",
-      "btih": "027946ef00387108f06d8650b58970446976d910",
-      "mtime": "1664258636",
-      "size": "159618",
-      "md5": "ca14b83013d12a1309fbd808971e5f21",
-      "crc32": "50e55d2c",
-      "sha1": "c8aad9733fbdec57eb66d2e1710ff949869b11d4",
+      "btih": "f485cbff76bfd8c6c2b87869114bfae527bd3496",
+      "mtime": "1664300421",
+      "size": "160717",
+      "md5": "a13b75db8c196147b7ba15356c752e7c",
+      "crc32": "d7d9a327",
+      "sha1": "b152f42d569a97e64fe39bfeb42c7b35e712119c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "laopinioncoruna-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "93bd26e8438cdec54df1538628707c70",
+      "md5": "30394bb25d643def43b763b27a7cfd42",
       "summation": "md5"
     },
     {
       "name": "laopinioncoruna-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664257391",
-      "size": "942080",
-      "md5": "95778fb23917b463690da0b823219d9d",
-      "crc32": "b10c9043",
-      "sha1": "e833bb49afafe28dc2f62af330470f36522b463e",
+      "mtime": "1664300374",
+      "size": "950272",
+      "md5": "736016bd17f6f9746247f6079f1f8f6f",
+      "crc32": "2a85fb53",
+      "sha1": "4bbaf20708adc86150be471a515fbc4cdc9492bc",
       "format": "Metadata"
     },
     {
@@ -7532,9 +7583,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 728,
-  "item_last_updated": 1664258636,
-  "item_size": 66311513,
+  "files_count": 733,
+  "item_last_updated": 1664300421,
+  "item_size": 66851345,
   "metadata": {
     "identifier": "laopinioncoruna-2022",
     "collection": [
@@ -7551,10 +7602,21 @@
     "publicdate": "2022-07-26 14:39:41",
     "addeddate": "2022-07-26 14:39:41"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 57089274,
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3419989543,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1663976202,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

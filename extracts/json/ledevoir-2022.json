@@ -1,5 +1,5 @@
 {
-  "created": 1664293325,
+  "created": 1664300418,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/14/items/ledevoir-2022",
@@ -10464,31 +10464,82 @@
       "sha1": "3bfff2351aa37b346d6982765856986f792456fa"
     },
     {
+      "name": "ledevoir-2022-09-27T13:39:13.540484-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664300356",
+      "size": "44987",
+      "md5": "8ed88cec743a3dc9b046fdb384efce01",
+      "crc32": "82ff6506",
+      "sha1": "eb8bafc9c65cbb9c118fd9e9f3d5f89d8381358b",
+      "format": "JSON"
+    },
+    {
+      "name": "ledevoir-2022-09-27T13:39:13.540484-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664300358",
+      "size": "132542",
+      "md5": "4faf88bfc5ce4c212493041d4942a074",
+      "crc32": "7a793b84",
+      "sha1": "12b5b5e3bd9f108f179185a5c9898f296e77884e",
+      "format": "JSON"
+    },
+    {
+      "name": "ledevoir-2022-09-27T13:39:13.540484-04:00.jpg",
+      "source": "original",
+      "mtime": "1664300354",
+      "size": "258183",
+      "md5": "fa37259d3f798966b9f9585c06239ea9",
+      "crc32": "2bfa2222",
+      "sha1": "22c2a841b076eb337702ece7d63b8496ecf822e2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ledevoir-2022-09-27T13:39:13.540484-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664300359",
+      "size": "1477",
+      "md5": "f68cf5b753b6b94aa594c2ebef68b7f4",
+      "crc32": "04b1e9dc",
+      "sha1": "5b704525eff9df3fe3a738243507d302c3b3c2c1",
+      "format": "JSON"
+    },
+    {
+      "name": "ledevoir-2022-09-27T13:39:13.540484-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664300361",
+      "size": "72294",
+      "md5": "077c5af9fc216cde8f7d04e17d8b57fd",
+      "crc32": "c438da9e",
+      "sha1": "358d6bbf24682797ef2ee1f4c89c085979400926",
+      "format": "JSON"
+    },
+    {
       "name": "ledevoir-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6b5c812a17750d5b0572dc59a2370e596a3a2673",
-      "mtime": "1664258670",
-      "size": "214358",
-      "md5": "c1796b0620c01df99d932d8b2ad363b7",
-      "crc32": "74331455",
-      "sha1": "800b0ea8c702d2bf01333bcb29315343c756d89d",
+      "btih": "cf494ecda2b09cd9ddd6101a2fbd7f67be21e0d3",
+      "mtime": "1664300414",
+      "size": "215422",
+      "md5": "4259b982054ab14fb896e0abb8bc6002",
+      "crc32": "6506fec2",
+      "sha1": "fc751f2726ea6e7c16540535566a5037a7dcb796",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ledevoir-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ed5836a25e70c45239f813a89a4e8e88",
+      "md5": "e773e51e660d6a1090cf1628bafbe812",
       "summation": "md5"
     },
     {
       "name": "ledevoir-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664257446",
-      "size": "1253376",
-      "md5": "1f529f42f3c4437b187bcf64e4e1cd67",
-      "crc32": "2274cda7",
-      "sha1": "9561052e02ba5ce3e116f7bd63929811df48de24",
+      "mtime": "1664300365",
+      "size": "1261568",
+      "md5": "e892534e6fd2bebe20f5aaea44035829",
+      "crc32": "93f6b346",
+      "sha1": "1cb29c6381f258cc69925efa40a3cbf3c14fdd27",
       "format": "Metadata"
     },
     {
@@ -10502,9 +10553,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1011,
-  "item_last_updated": 1664258670,
-  "item_size": 95874442,
+  "files_count": 1016,
+  "item_last_updated": 1664300414,
+  "item_size": 96393181,
   "metadata": {
     "identifier": "ledevoir-2022",
     "collection": [
@@ -10521,10 +10572,21 @@
     "publicdate": "2022-06-30 22:35:31",
     "addeddate": "2022-06-30 22:35:31"
   },
+  "pending_tasks": true,
   "server": "ia902504.us.archive.org",
-  "uniq": 1212527715,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3419989380,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1204807368,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia902504.us.archive.org"
   ]
 }

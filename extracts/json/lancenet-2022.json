@@ -1,5 +1,5 @@
 {
-  "created": 1664294537,
+  "created": 1664300382,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/33/items/lancenet-2022",
@@ -9474,31 +9474,82 @@
       "sha1": "d4cf63b5b6260a4a03bc9f3c079bbceed4ef3b39"
     },
     {
+      "name": "lancenet-2022-09-27T14:38:33.173055-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664300317",
+      "size": "10745",
+      "md5": "925910cc2c153281eb568d14883cd713",
+      "crc32": "ab2f2589",
+      "sha1": "1f88af2261b812131ad0339d5d672524a0d8d378",
+      "format": "JSON"
+    },
+    {
+      "name": "lancenet-2022-09-27T14:38:33.173055-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664300320",
+      "size": "23200",
+      "md5": "4a264283196130c886d10b69f8c73c44",
+      "crc32": "94a79a13",
+      "sha1": "7ff7c1ed9dea0ef65e35c980a50e8669d2e37edf",
+      "format": "JSON"
+    },
+    {
+      "name": "lancenet-2022-09-27T14:38:33.173055-03:00.jpg",
+      "source": "original",
+      "mtime": "1664300314",
+      "size": "284634",
+      "md5": "34d37f2baf6110c50de153886fc0fde3",
+      "crc32": "b0a0952c",
+      "sha1": "a9bed806bfacb24f1618f500ccab6b124d1feb13",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lancenet-2022-09-27T14:38:33.173055-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664300323",
+      "size": "1459",
+      "md5": "c1ca72b2b033a6ead6e344787f2cbff9",
+      "crc32": "fa597721",
+      "sha1": "abf14a4bd641e5979028c599dc80ac5f0774dc79",
+      "format": "JSON"
+    },
+    {
+      "name": "lancenet-2022-09-27T14:38:33.173055-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664300326",
+      "size": "86126",
+      "md5": "3e868bff29a4b59d9bfaf23c76b27637",
+      "crc32": "5c5e84b0",
+      "sha1": "9bda3605860248c396b859625a39be7baafad785",
+      "format": "JSON"
+    },
+    {
       "name": "lancenet-2022_archive.torrent",
       "source": "metadata",
-      "btih": "02c264f5871539f8297d21399249daf7707669a0",
-      "mtime": "1664281329",
-      "size": "194229",
-      "md5": "253ff3d23188790c5698f7d4368b7f62",
-      "crc32": "6ccddcca",
-      "sha1": "88dc5191420f7c8fe344cb9eb641695d4f177564",
+      "btih": "c0b3c2e19507d04bd1ff837fa1044534a5bec8a7",
+      "mtime": "1664300377",
+      "size": "195292",
+      "md5": "ea0f9de9090100385edf7020683d5147",
+      "crc32": "23762db1",
+      "sha1": "4fe4047851278e491de08bdfbb45df05ff79a0ab",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lancenet-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "220ed6c0be7d948c92234ad2cfd62020",
+      "md5": "1795de805c2428da9209f57933e43cda",
       "summation": "md5"
     },
     {
       "name": "lancenet-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664279936",
-      "size": "1175552",
-      "md5": "bc8a5544a9897fd3425237a46d5be884",
-      "crc32": "89684dab",
-      "sha1": "75aab2f41bf89c16de5f06d72ba805c12261e16e",
+      "mtime": "1664300332",
+      "size": "1183744",
+      "md5": "a3e6d6ee766123c2f805512dba385810",
+      "crc32": "dac55107",
+      "sha1": "0f4048dc7eef93d71d86581d15933e993b9548b6",
       "format": "Metadata"
     },
     {
@@ -9512,14 +9563,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 920,
-  "item_last_updated": 1664281329,
-  "item_size": 62052744,
-  "lancenet-2022": {
-    "url": "https://www.lance.com.br/",
-    "job_id": "spn2-2740971da1049501dc1a8b6e34045b6b7f49f247",
-    "message": "The capture will start in ~6 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
-  },
+  "files_count": 925,
+  "item_last_updated": 1664300377,
+  "item_size": 62468163,
   "metadata": {
     "identifier": "lancenet-2022",
     "collection": [
@@ -9536,10 +9582,21 @@
     "publicdate": "2022-08-04 04:55:32",
     "addeddate": "2022-08-04 04:55:32"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 2121424933,
+  "pending_tasks": true,
+  "server": "ia601505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3419988916,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 352857085,
   "workable_servers": [
-    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }
