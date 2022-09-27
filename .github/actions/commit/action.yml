@@ -75,6 +75,9 @@ runs:
     - id: git-commit-items
       name: Commit archive.org items
       run: |
+          git stash
+          git pull origin $GITHUB_REF
+          git stash apply
           git add ./extracts
           git commit -m "Update archive.org items" --author="palewire <palewire@users.noreply.github.com>"
           git pull origin $GITHUB_REF

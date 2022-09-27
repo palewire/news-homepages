@@ -1,5 +1,5 @@
 {
-  "created": 1664295143,
+  "created": 1664309306,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/21/items/chicagoreporter-2022",
@@ -15591,21 +15591,32 @@
       "format": "JSON"
     },
     {
+      "name": "chicagoreporter-2022-09-27T11:11:01.841285-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chicagoreporter-2022-09-27T11:11:01.841285-05:00.jpg",
+      "mtime": "1664298351",
+      "size": "9196",
+      "md5": "1b9e155cd286cf0affb7d8e30eb25dc0",
+      "crc32": "60f131c2",
+      "sha1": "0f9f85c0b4ed617f509906105a6610d022d4e1ea"
+    },
+    {
       "name": "chicagoreporter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8af24522a979d74cab5e6e292b26124d45e550a3",
-      "mtime": "1664295138",
-      "size": "327120",
-      "md5": "fcfd5725a98268db39a0765aa3c372fe",
-      "crc32": "56945694",
-      "sha1": "c29dc1274769c45f8a4085a7991c96cfe8a2a2f7",
+      "btih": "9af59674f37496af1a31f9b80b29bea547484cc8",
+      "mtime": "1664298382",
+      "size": "327331",
+      "md5": "e9c9be61ba461f82701ae7dd2d62ee58",
+      "crc32": "3da955c5",
+      "sha1": "c47d8801a25731c1bd906cfe1559b2ae6ab246c9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chicagoreporter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5140a570bfc751026d9fc8b71ae470cc",
+      "md5": "fb55af057abf503825e74186ea226e90",
       "summation": "md5"
     },
     {
@@ -15629,9 +15640,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1505,
-  "item_last_updated": 1664295138,
-  "item_size": 90702782,
+  "files_count": 1506,
+  "item_last_updated": 1664298382,
+  "item_size": 90712189,
   "metadata": {
     "identifier": "chicagoreporter-2022",
     "collection": [
@@ -15648,21 +15659,10 @@
     "publicdate": "2022-06-24 22:53:30",
     "addeddate": "2022-06-24 22:53:30"
   },
-  "pending_tasks": true,
-  "server": "ia902508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419919614,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 378999079,
+  "server": "ia802508.us.archive.org",
+  "uniq": 990330919,
   "workable_servers": [
+    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

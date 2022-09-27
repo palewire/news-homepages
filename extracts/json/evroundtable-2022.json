@@ -1,5 +1,5 @@
 {
-  "created": 1664295220,
+  "created": 1664298380,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/20/items/evroundtable-2022",
@@ -13479,21 +13479,32 @@
       "format": "JSON"
     },
     {
+      "name": "evroundtable-2022-09-27T11:10:37.338332-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "evroundtable-2022-09-27T11:10:37.338332-05:00.jpg",
+      "mtime": "1664298314",
+      "size": "10310",
+      "md5": "bd4b7e00152888fba328224b31ad6c85",
+      "crc32": "0f58ad46",
+      "sha1": "1bacee2eaf55ea98d125317497ac6cd6ff3b1190"
+    },
+    {
       "name": "evroundtable-2022_archive.torrent",
       "source": "metadata",
-      "btih": "916ef3871a965ca3b55164a7c8c7c5e92e3a3020",
-      "mtime": "1664295177",
-      "size": "281115",
-      "md5": "7246ae093b17782a6c2381b1cc766301",
-      "crc32": "6d852660",
-      "sha1": "cc08ad7b62c3e1adbe84358677633d755ec5a7f6",
+      "btih": "6c7a541b41245e902a87f9c9d9f502b794b32c27",
+      "mtime": "1664298337",
+      "size": "281324",
+      "md5": "4e19962a5d7ffcabdf020981e8d5412a",
+      "crc32": "593319f5",
+      "sha1": "51626450186d08cef24d22637be6b9e55145186e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "evroundtable-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8db1eee162f410f850a8fc137e797b70",
+      "md5": "aeab2a0ed4453bc09bb1ee0e4b25d537",
       "summation": "md5"
     },
     {
@@ -13517,9 +13528,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1304,
-  "item_last_updated": 1664295177,
-  "item_size": 111038172,
+  "files_count": 1305,
+  "item_last_updated": 1664298337,
+  "item_size": 111048691,
   "metadata": {
     "identifier": "evroundtable-2022",
     "collection": [
@@ -13536,21 +13547,10 @@
     "publicdate": "2022-07-09 03:58:22",
     "addeddate": "2022-07-09 03:58:22"
   },
-  "pending_tasks": true,
-  "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419920620,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1144714592,
+  "server": "ia801507.us.archive.org",
+  "uniq": 957432926,
   "workable_servers": [
+    "ia801507.us.archive.org",
     "ia601507.us.archive.org"
   ]
 }
