@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 133 screenshots with the Internet Archive.
+The archiving routine has saved 157 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-19T11:07:48.955653-03:00.jpg">
-  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-19T11:07:48.955653-03:00.jpg"
-     alt="Intercept Brazil at 2022-09-19 11:07:50-03:00 local time"
+ <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-27T12:05:26.744997-03:00.jpg">
+  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-27T12:05:26.744997-03:00.jpg"
+     alt="Intercept Brazil at 2022-09-27 12:05:29-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-19T11:07:48.955653-03:00.jpg">September 19 at 11:07 AM</a></p>
+ <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-27T12:05:26.744997-03:00.jpg">September 27 at 12:05 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-19T09:01:35.532760-03:00.jpg">
-  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-19T09:01:35.532760-03:00.jpg"
-     alt="Intercept Brazil at 2022-09-19 09:01:36-03:00 local time"
+ <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-27T08:58:51.097002-03:00.jpg">
+  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-27T08:58:51.097002-03:00.jpg"
+     alt="Intercept Brazil at 2022-09-27 08:58:52-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-19T09:01:35.532760-03:00.jpg">September 19 at 9:01 AM</a></p>
+ <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-27T08:58:51.097002-03:00.jpg">September 27 at 8:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-18T23:20:13.449152-03:00.jpg">
-  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-18T23:20:13.449152-03:00.jpg"
-     alt="Intercept Brazil at 2022-09-18 23:20:16-03:00 local time"
+ <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-27T00:33:11.970443-03:00.jpg">
+  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-27T00:33:11.970443-03:00.jpg"
+     alt="Intercept Brazil at 2022-09-27 00:33:14-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-18T23:20:13.449152-03:00.jpg">September 18 at 11:20 PM</a></p>
+ <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-27T00:33:11.970443-03:00.jpg">September 27 at 12:33 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-18T11:01:25.396693-03:00.jpg">
-  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-18T11:01:25.396693-03:00.jpg"
-     alt="Intercept Brazil at 2022-09-18 11:01:26-03:00 local time"
+ <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-26T12:08:10.481538-03:00.jpg">
+  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-26T12:08:10.481538-03:00.jpg"
+     alt="Intercept Brazil at 2022-09-26 12:08:15-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-18T11:01:25.396693-03:00.jpg">September 18 at 11:01 AM</a></p>
+ <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-26T12:08:10.481538-03:00.jpg">September 26 at 12:08 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-18T09:02:36.370108-03:00.jpg">
-  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-18T09:02:36.370108-03:00.jpg"
-     alt="Intercept Brazil at 2022-09-18 09:02:43-03:00 local time"
+ <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-26T09:06:20.100877-03:00.jpg">
+  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-26T09:06:20.100877-03:00.jpg"
+     alt="Intercept Brazil at 2022-09-26 09:06:24-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-18T09:02:36.370108-03:00.jpg">September 18 at 9:02 AM</a></p>
+ <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-26T09:06:20.100877-03:00.jpg">September 26 at 9:06 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-17T23:26:29.077648-03:00.jpg">
-  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-17T23:26:29.077648-03:00.jpg"
-     alt="Intercept Brazil at 2022-09-17 23:26:31-03:00 local time"
+ <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-26T00:40:57.143329-03:00.jpg">
+  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-26T00:40:57.143329-03:00.jpg"
+     alt="Intercept Brazil at 2022-09-26 00:40:58-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-17T23:26:29.077648-03:00.jpg">September 17 at 11:26 PM</a></p>
+ <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-26T00:40:57.143329-03:00.jpg">September 26 at 12:40 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-17T10:59:57.083794-03:00.jpg">
-  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-17T10:59:57.083794-03:00.jpg"
-     alt="Intercept Brazil at 2022-09-17 10:59:58-03:00 local time"
+ <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-25T11:43:25.340767-03:00.jpg">
+  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-25T11:43:25.340767-03:00.jpg"
+     alt="Intercept Brazil at 2022-09-25 11:43:27-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-17T10:59:57.083794-03:00.jpg">September 17 at 10:59 AM</a></p>
+ <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-25T11:43:25.340767-03:00.jpg">September 25 at 11:43 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-17T09:03:19.513876-03:00.jpg">
-  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-17T09:03:19.513876-03:00.jpg"
-     alt="Intercept Brazil at 2022-09-17 09:03:26-03:00 local time"
+ <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-25T08:50:44.274292-03:00.jpg">
+  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-25T08:50:44.274292-03:00.jpg"
+     alt="Intercept Brazil at 2022-09-25 08:50:48-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-17T09:03:19.513876-03:00.jpg">September 17 at 9:03 AM</a></p>
+ <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-25T08:50:44.274292-03:00.jpg">September 25 at 8:50 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-16T23:24:30.792065-03:00.jpg">
-  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-16T23:24:30.792065-03:00.jpg"
-     alt="Intercept Brazil at 2022-09-16 23:24:34-03:00 local time"
+ <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-25T00:34:49.922729-03:00.jpg">
+  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-25T00:34:49.922729-03:00.jpg"
+     alt="Intercept Brazil at 2022-09-25 00:34:50-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-16T23:24:30.792065-03:00.jpg">September 16 at 11:24 PM</a></p>
+ <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-25T00:34:49.922729-03:00.jpg">September 25 at 12:34 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-16T11:05:46.280176-03:00.jpg">
-  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-16T11:05:46.280176-03:00.jpg"
-     alt="Intercept Brazil at 2022-09-16 11:05:48-03:00 local time"
+ <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-24T11:43:22.116043-03:00.jpg">
+  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-24T11:43:22.116043-03:00.jpg"
+     alt="Intercept Brazil at 2022-09-24 11:43:23-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-16T11:05:46.280176-03:00.jpg">September 16 at 11:05 AM</a></p>
+ <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-24T11:43:22.116043-03:00.jpg">September 24 at 11:43 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-16T09:02:49.524932-03:00.jpg">
-  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-16T09:02:49.524932-03:00.jpg"
-     alt="Intercept Brazil at 2022-09-16 09:02:55-03:00 local time"
+ <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-24T08:52:25.047869-03:00.jpg">
+  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-24T08:52:25.047869-03:00.jpg"
+     alt="Intercept Brazil at 2022-09-24 08:52:28-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-16T09:02:49.524932-03:00.jpg">September 16 at 9:02 AM</a></p>
+ <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-24T08:52:25.047869-03:00.jpg">September 24 at 8:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-15T23:25:07.176381-03:00.jpg">
-  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-15T23:25:07.176381-03:00.jpg"
-     alt="Intercept Brazil at 2022-09-15 23:25:12-03:00 local time"
+ <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-24T00:35:00.178778-03:00.jpg">
+  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-24T00:35:00.178778-03:00.jpg"
+     alt="Intercept Brazil at 2022-09-24 00:35:05-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-15T23:25:07.176381-03:00.jpg">September 15 at 11:25 PM</a></p>
+ <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-24T00:35:00.178778-03:00.jpg">September 24 at 12:35 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 133 hyperlink lists with the Internet Archive.
+The archiving routine has saved 157 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 11:07 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-19T11:07:48.955653-03:00.hyperlinks.json) |
-| [September 19 at 9:01 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-19T09:01:35.532760-03:00.hyperlinks.json) |
-| [September 18 at 11:20 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-18T23:20:13.449152-03:00.hyperlinks.json) |
-| [September 18 at 11:01 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-18T11:01:25.396693-03:00.hyperlinks.json) |
-| [September 18 at 9:02 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-18T09:02:36.370108-03:00.hyperlinks.json) |
-| [September 17 at 11:26 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-17T23:26:29.077648-03:00.hyperlinks.json) |
-| [September 17 at 11:00 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-17T10:59:57.083794-03:00.hyperlinks.json) |
-| [September 17 at 9:03 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-17T09:03:19.513876-03:00.hyperlinks.json) |
-| [September 16 at 11:24 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-16T23:24:30.792065-03:00.hyperlinks.json) |
-| [September 16 at 11:05 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-16T11:05:46.280176-03:00.hyperlinks.json) |
+| [September 27 at 12:05 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-27T12:05:26.744997-03:00.hyperlinks.json) |
+| [September 27 at 8:58 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-27T08:58:51.097002-03:00.hyperlinks.json) |
+| [September 27 at 12:33 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-27T00:33:11.970443-03:00.hyperlinks.json) |
+| [September 26 at 12:08 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-26T12:08:10.481538-03:00.hyperlinks.json) |
+| [September 26 at 9:06 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-26T09:06:20.100877-03:00.hyperlinks.json) |
+| [September 26 at 12:41 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-26T00:40:57.143329-03:00.hyperlinks.json) |
+| [September 25 at 11:43 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-25T11:43:25.340767-03:00.hyperlinks.json) |
+| [September 25 at 8:50 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-25T08:50:44.274292-03:00.hyperlinks.json) |
+| [September 25 at 12:34 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-25T00:34:49.922729-03:00.hyperlinks.json) |
+| [September 24 at 11:43 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-24T11:43:22.116043-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 133 accessibility trees with the Internet Archive.
+The archiving routine has saved 157 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 11:07 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-19T11:07:48.955653-03:00.accessibility.json) |
-| [September 19 at 9:01 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-19T09:01:35.532760-03:00.accessibility.json) |
-| [September 18 at 11:20 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-18T23:20:13.449152-03:00.accessibility.json) |
-| [September 18 at 11:01 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-18T11:01:25.396693-03:00.accessibility.json) |
-| [September 18 at 9:02 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-18T09:02:36.370108-03:00.accessibility.json) |
-| [September 17 at 11:26 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-17T23:26:29.077648-03:00.accessibility.json) |
-| [September 17 at 11:00 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-17T10:59:57.083794-03:00.accessibility.json) |
-| [September 17 at 9:03 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-17T09:03:19.513876-03:00.accessibility.json) |
-| [September 16 at 11:24 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-16T23:24:30.792065-03:00.accessibility.json) |
-| [September 16 at 11:05 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-16T11:05:46.280176-03:00.accessibility.json) |
+| [September 27 at 12:05 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-27T12:05:26.744997-03:00.accessibility.json) |
+| [September 27 at 8:58 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-27T08:58:51.097002-03:00.accessibility.json) |
+| [September 27 at 12:33 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-27T00:33:11.970443-03:00.accessibility.json) |
+| [September 26 at 12:08 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-26T12:08:10.481538-03:00.accessibility.json) |
+| [September 26 at 9:06 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-26T09:06:20.100877-03:00.accessibility.json) |
+| [September 26 at 12:40 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-26T00:40:57.143329-03:00.accessibility.json) |
+| [September 25 at 11:43 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-25T11:43:25.340767-03:00.accessibility.json) |
+| [September 25 at 8:50 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-25T08:50:44.274292-03:00.accessibility.json) |
+| [September 25 at 12:34 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-25T00:34:49.922729-03:00.accessibility.json) |
+| [September 24 at 11:43 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-24T11:43:22.116043-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 158 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 11:07 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-19T11:07:48.955653-03:00.lighthouse.json) |
-| [September 19 at 9:01 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-19T09:01:35.532760-03:00.lighthouse.json) |
-| [September 18 at 11:20 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-18T23:20:13.449152-03:00.lighthouse.json) |
-| [September 18 at 11:01 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-18T11:01:25.396693-03:00.lighthouse.json) |
-| [September 18 at 9:02 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-18T09:02:36.370108-03:00.lighthouse.json) |
-| [September 17 at 11:26 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-17T23:26:29.077648-03:00.lighthouse.json) |
-| [September 17 at 11:00 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-17T10:59:57.083794-03:00.lighthouse.json) |
-| [September 17 at 9:03 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-17T09:03:19.513876-03:00.lighthouse.json) |
-| [September 16 at 11:24 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-16T23:24:30.792065-03:00.lighthouse.json) |
-| [September 16 at 11:05 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-16T11:05:46.280176-03:00.lighthouse.json) |
+| [September 27 at 12:05 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-27T12:05:26.744997-03:00.lighthouse.json) |
+| [September 27 at 8:58 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-27T08:58:51.097002-03:00.lighthouse.json) |
+| [September 27 at 12:33 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-27T00:33:11.970443-03:00.lighthouse.json) |
+| [September 26 at 12:08 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-26T12:08:10.481538-03:00.lighthouse.json) |
+| [September 26 at 9:06 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-26T09:06:20.100877-03:00.lighthouse.json) |
+| [September 26 at 12:41 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-26T00:40:57.143329-03:00.lighthouse.json) |
+| [September 25 at 11:43 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-25T11:43:25.340767-03:00.lighthouse.json) |
+| [September 25 at 8:50 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-25T08:50:44.274292-03:00.lighthouse.json) |
+| [September 25 at 12:34 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-25T00:34:49.922729-03:00.lighthouse.json) |
+| [September 24 at 11:43 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-09-24T11:43:22.116043-03:00.lighthouse.json) |
 
 
 

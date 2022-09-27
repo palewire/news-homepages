@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 113 screenshots with the Internet Archive.
+The archiving routine has saved 129 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-19T19:53:15.340745+05:45.jpg">
-  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-19T19:53:15.340745+05:45.jpg"
-     alt="Ujyaalo at 2022-09-19 19:53:17+05:45 local time"
+ <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-27T20:52:08.546398+05:45.jpg">
+  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-27T20:52:08.546398+05:45.jpg"
+     alt="Ujyaalo at 2022-09-27 20:52:22+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-19T19:53:15.340745+05:45.jpg">September 19 at 7:53 PM</a></p>
+ <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-27T20:52:08.546398+05:45.jpg">September 27 at 8:52 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-19T08:07:40.249179+05:45.jpg">
-  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-19T08:07:40.249179+05:45.jpg"
-     alt="Ujyaalo at 2022-09-19 08:07:42+05:45 local time"
+ <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-27T09:20:10.532447+05:45.jpg">
+  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-27T09:20:10.532447+05:45.jpg"
+     alt="Ujyaalo at 2022-09-27 09:20:20+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-19T08:07:40.249179+05:45.jpg">September 19 at 8:07 AM</a></p>
+ <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-27T09:20:10.532447+05:45.jpg">September 27 at 9:20 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-18T19:48:18.080132+05:45.jpg">
-  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-18T19:48:18.080132+05:45.jpg"
-     alt="Ujyaalo at 2022-09-18 19:48:19+05:45 local time"
+ <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-26T20:56:02.666103+05:45.jpg">
+  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-26T20:56:02.666103+05:45.jpg"
+     alt="Ujyaalo at 2022-09-26 20:56:45+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-18T19:48:18.080132+05:45.jpg">September 18 at 7:48 PM</a></p>
+ <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-26T20:56:02.666103+05:45.jpg">September 26 at 8:56 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-18T08:13:39.356830+05:45.jpg">
-  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-18T08:13:39.356830+05:45.jpg"
-     alt="Ujyaalo at 2022-09-18 08:13:44+05:45 local time"
+ <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-26T09:27:24.607888+05:45.jpg">
+  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-26T09:27:24.607888+05:45.jpg"
+     alt="Ujyaalo at 2022-09-26 09:27:31+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-18T08:13:39.356830+05:45.jpg">September 18 at 8:13 AM</a></p>
+ <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-26T09:27:24.607888+05:45.jpg">September 26 at 9:27 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-17T19:46:15.994034+05:45.jpg">
-  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-17T19:46:15.994034+05:45.jpg"
-     alt="Ujyaalo at 2022-09-17 19:46:17+05:45 local time"
+ <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-25T20:31:07.860407+05:45.jpg">
+  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-25T20:31:07.860407+05:45.jpg"
+     alt="Ujyaalo at 2022-09-25 20:31:12+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-17T19:46:15.994034+05:45.jpg">September 17 at 7:46 PM</a></p>
+ <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-25T20:31:07.860407+05:45.jpg">September 25 at 8:31 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-17T08:11:35.297779+05:45.jpg">
-  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-17T08:11:35.297779+05:45.jpg"
-     alt="Ujyaalo at 2022-09-17 08:11:37+05:45 local time"
+ <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-25T09:21:29.186419+05:45.jpg">
+  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-25T09:21:29.186419+05:45.jpg"
+     alt="Ujyaalo at 2022-09-25 09:21:34+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-17T08:11:35.297779+05:45.jpg">September 17 at 8:11 AM</a></p>
+ <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-25T09:21:29.186419+05:45.jpg">September 25 at 9:21 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-16T19:53:23.439351+05:45.jpg">
-  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-16T19:53:23.439351+05:45.jpg"
-     alt="Ujyaalo at 2022-09-16 19:53:25+05:45 local time"
+ <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-24T20:30:17.615924+05:45.jpg">
+  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-24T20:30:17.615924+05:45.jpg"
+     alt="Ujyaalo at 2022-09-24 20:30:25+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-16T19:53:23.439351+05:45.jpg">September 16 at 7:53 PM</a></p>
+ <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-24T20:30:17.615924+05:45.jpg">September 24 at 8:30 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-16T08:12:23.100040+05:45.jpg">
-  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-16T08:12:23.100040+05:45.jpg"
-     alt="Ujyaalo at 2022-09-16 08:12:28+05:45 local time"
+ <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-24T09:21:33.379732+05:45.jpg">
+  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-24T09:21:33.379732+05:45.jpg"
+     alt="Ujyaalo at 2022-09-24 09:21:38+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-16T08:12:23.100040+05:45.jpg">September 16 at 8:12 AM</a></p>
+ <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-24T09:21:33.379732+05:45.jpg">September 24 at 9:21 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-15T19:59:40.922790+05:45.jpg">
-  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-15T19:59:40.922790+05:45.jpg"
-     alt="Ujyaalo at 2022-09-15 19:59:43+05:45 local time"
+ <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-23T20:48:32.312726+05:45.jpg">
+  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-23T20:48:32.312726+05:45.jpg"
+     alt="Ujyaalo at 2022-09-23 20:48:38+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-15T19:59:40.922790+05:45.jpg">September 15 at 7:59 PM</a></p>
+ <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-23T20:48:32.312726+05:45.jpg">September 23 at 8:48 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-15T08:15:02.695499+05:45.jpg">
-  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-15T08:15:02.695499+05:45.jpg"
-     alt="Ujyaalo at 2022-09-15 08:15:04+05:45 local time"
+ <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-23T09:29:45.547896+05:45.jpg">
+  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-23T09:29:45.547896+05:45.jpg"
+     alt="Ujyaalo at 2022-09-23 09:29:55+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-15T08:15:02.695499+05:45.jpg">September 15 at 8:15 AM</a></p>
+ <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-23T09:29:45.547896+05:45.jpg">September 23 at 9:29 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-14T08:12:56.830766+05:45.jpg">
-  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-14T08:12:56.830766+05:45.jpg"
-     alt="Ujyaalo at 2022-09-14 08:13:07+05:45 local time"
+ <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-22T20:45:34.788819+05:45.jpg">
+  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-22T20:45:34.788819+05:45.jpg"
+     alt="Ujyaalo at 2022-09-22 20:45:39+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-14T08:12:56.830766+05:45.jpg">September 14 at 8:13 AM</a></p>
+ <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-22T20:45:34.788819+05:45.jpg">September 22 at 8:45 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-13T19:59:58.897415+05:45.jpg">
-  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-13T19:59:58.897415+05:45.jpg"
-     alt="Ujyaalo at 2022-09-13 20:00:08+05:45 local time"
+ <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-22T09:25:36.977615+05:45.jpg">
+  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-22T09:25:36.977615+05:45.jpg"
+     alt="Ujyaalo at 2022-09-22 09:26:08+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-13T19:59:58.897415+05:45.jpg">September 13 at 8:00 PM</a></p>
+ <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-22T09:25:36.977615+05:45.jpg">September 22 at 9:26 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 115 hyperlink lists with the Internet Archive.
+The archiving routine has saved 131 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 7:53 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-19T19:53:15.340745+05:45.hyperlinks.json) |
-| [September 19 at 8:07 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-19T08:07:40.249179+05:45.hyperlinks.json) |
-| [September 18 at 7:48 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-18T19:48:18.080132+05:45.hyperlinks.json) |
-| [September 18 at 8:13 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-18T08:13:39.356830+05:45.hyperlinks.json) |
-| [September 17 at 7:46 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-17T19:46:15.994034+05:45.hyperlinks.json) |
-| [September 17 at 8:11 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-17T08:11:35.297779+05:45.hyperlinks.json) |
-| [September 16 at 7:53 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-16T19:53:23.439351+05:45.hyperlinks.json) |
-| [September 16 at 8:12 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-16T08:12:23.100040+05:45.hyperlinks.json) |
-| [September 15 at 7:59 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-15T19:59:40.922790+05:45.hyperlinks.json) |
-| [September 15 at 8:15 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-15T08:15:02.695499+05:45.hyperlinks.json) |
+| [September 27 at 8:52 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-27T20:52:08.546398+05:45.hyperlinks.json) |
+| [September 27 at 9:20 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-27T09:20:10.532447+05:45.hyperlinks.json) |
+| [September 26 at 8:56 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-26T20:56:02.666103+05:45.hyperlinks.json) |
+| [September 26 at 9:27 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-26T09:27:24.607888+05:45.hyperlinks.json) |
+| [September 25 at 8:31 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-25T20:31:07.860407+05:45.hyperlinks.json) |
+| [September 25 at 9:21 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-25T09:21:29.186419+05:45.hyperlinks.json) |
+| [September 24 at 8:30 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-24T20:30:17.615924+05:45.hyperlinks.json) |
+| [September 24 at 9:21 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-24T09:21:33.379732+05:45.hyperlinks.json) |
+| [September 23 at 8:48 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-23T20:48:32.312726+05:45.hyperlinks.json) |
+| [September 23 at 9:29 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-23T09:29:45.547896+05:45.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 115 accessibility trees with the Internet Archive.
+The archiving routine has saved 131 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 7:53 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-19T19:53:15.340745+05:45.accessibility.json) |
-| [September 19 at 8:07 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-19T08:07:40.249179+05:45.accessibility.json) |
-| [September 18 at 7:48 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-18T19:48:18.080132+05:45.accessibility.json) |
-| [September 18 at 8:13 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-18T08:13:39.356830+05:45.accessibility.json) |
-| [September 17 at 7:46 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-17T19:46:15.994034+05:45.accessibility.json) |
-| [September 17 at 8:11 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-17T08:11:35.297779+05:45.accessibility.json) |
-| [September 16 at 7:53 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-16T19:53:23.439351+05:45.accessibility.json) |
-| [September 16 at 8:12 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-16T08:12:23.100040+05:45.accessibility.json) |
-| [September 15 at 7:59 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-15T19:59:40.922790+05:45.accessibility.json) |
-| [September 15 at 8:15 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-15T08:15:02.695499+05:45.accessibility.json) |
+| [September 27 at 8:52 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-27T20:52:08.546398+05:45.accessibility.json) |
+| [September 27 at 9:20 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-27T09:20:10.532447+05:45.accessibility.json) |
+| [September 26 at 8:56 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-26T20:56:02.666103+05:45.accessibility.json) |
+| [September 26 at 9:27 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-26T09:27:24.607888+05:45.accessibility.json) |
+| [September 25 at 8:31 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-25T20:31:07.860407+05:45.accessibility.json) |
+| [September 25 at 9:21 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-25T09:21:29.186419+05:45.accessibility.json) |
+| [September 24 at 8:30 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-24T20:30:17.615924+05:45.accessibility.json) |
+| [September 24 at 9:21 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-24T09:21:33.379732+05:45.accessibility.json) |
+| [September 23 at 8:48 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-23T20:48:32.312726+05:45.accessibility.json) |
+| [September 23 at 9:29 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-23T09:29:45.547896+05:45.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 114 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 130 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 7:53 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-19T19:53:15.340745+05:45.lighthouse.json) |
-| [September 19 at 8:07 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-19T08:07:40.249179+05:45.lighthouse.json) |
-| [September 18 at 7:48 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-18T19:48:18.080132+05:45.lighthouse.json) |
-| [September 18 at 8:13 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-18T08:13:39.356830+05:45.lighthouse.json) |
-| [September 17 at 7:46 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-17T19:46:15.994034+05:45.lighthouse.json) |
-| [September 17 at 8:11 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-17T08:11:35.297779+05:45.lighthouse.json) |
-| [September 16 at 7:53 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-16T19:53:23.439351+05:45.lighthouse.json) |
-| [September 16 at 8:12 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-16T08:12:23.100040+05:45.lighthouse.json) |
-| [September 15 at 7:59 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-15T19:59:40.922790+05:45.lighthouse.json) |
-| [September 15 at 8:15 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-15T08:15:02.695499+05:45.lighthouse.json) |
+| [September 27 at 8:52 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-27T20:52:08.546398+05:45.lighthouse.json) |
+| [September 27 at 9:20 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-27T09:20:10.532447+05:45.lighthouse.json) |
+| [September 26 at 8:56 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-26T20:56:02.666103+05:45.lighthouse.json) |
+| [September 26 at 9:27 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-26T09:27:24.607888+05:45.lighthouse.json) |
+| [September 25 at 8:31 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-25T20:31:07.860407+05:45.lighthouse.json) |
+| [September 25 at 9:21 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-25T09:21:29.186419+05:45.lighthouse.json) |
+| [September 24 at 8:30 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-24T20:30:17.615924+05:45.lighthouse.json) |
+| [September 24 at 9:21 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-24T09:21:33.379732+05:45.lighthouse.json) |
+| [September 23 at 8:48 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-23T20:48:32.312726+05:45.lighthouse.json) |
+| [September 23 at 9:30 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-09-23T09:29:45.547896+05:45.lighthouse.json) |
 
 
 

@@ -28,8 +28,91 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 32 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/thv11.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
@@ -37,180 +120,429 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/thv11-2022/thv11-2022-09-19T09:08:53.393070-05:00.jpg">
-  <img src="https://archive.org/download/thv11-2022/thv11-2022-09-19T09:08:53.393070-05:00.jpg"
-     alt="THV 11 at 2022-09-19 09:08:54-05:00 local time"
+ <a href="https://archive.org/download/thv11-2022/thv11-2022-09-27T10:06:45.954424-05:00.jpg">
+  <img src="https://archive.org/download/thv11-2022/thv11-2022-09-27T10:06:45.954424-05:00.jpg"
+     alt="THV 11 at 2022-09-27 10:06:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thv11-2022/thv11-2022-09-19T09:08:53.393070-05:00.jpg">September 19 at 9:08 AM</a></p>
+ <p><a href="https://archive.org/download/thv11-2022/thv11-2022-09-27T10:06:45.954424-05:00.jpg">September 27 at 10:06 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thv11-2022/thv11-2022-09-18T21:23:23.496768-05:00.jpg">
-  <img src="https://archive.org/download/thv11-2022/thv11-2022-09-18T21:23:23.496768-05:00.jpg"
-     alt="THV 11 at 2022-09-18 21:23:24-05:00 local time"
+ <a href="https://archive.org/download/thv11-2022/thv11-2022-09-26T22:35:02.361919-05:00.jpg">
+  <img src="https://archive.org/download/thv11-2022/thv11-2022-09-26T22:35:02.361919-05:00.jpg"
+     alt="THV 11 at 2022-09-26 22:35:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thv11-2022/thv11-2022-09-18T21:23:23.496768-05:00.jpg">September 18 at 9:23 PM</a></p>
+ <p><a href="https://archive.org/download/thv11-2022/thv11-2022-09-26T22:35:02.361919-05:00.jpg">September 26 at 10:35 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thv11-2022/thv11-2022-09-18T09:03:04.373989-05:00.jpg">
-  <img src="https://archive.org/download/thv11-2022/thv11-2022-09-18T09:03:04.373989-05:00.jpg"
-     alt="THV 11 at 2022-09-18 09:03:06-05:00 local time"
+ <a href="https://archive.org/download/thv11-2022/thv11-2022-09-26T10:10:35.823987-05:00.jpg">
+  <img src="https://archive.org/download/thv11-2022/thv11-2022-09-26T10:10:35.823987-05:00.jpg"
+     alt="THV 11 at 2022-09-26 10:10:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thv11-2022/thv11-2022-09-18T09:03:04.373989-05:00.jpg">September 18 at 9:03 AM</a></p>
+ <p><a href="https://archive.org/download/thv11-2022/thv11-2022-09-26T10:10:35.823987-05:00.jpg">September 26 at 10:10 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thv11-2022/thv11-2022-09-17T21:28:16.864171-05:00.jpg">
-  <img src="https://archive.org/download/thv11-2022/thv11-2022-09-17T21:28:16.864171-05:00.jpg"
-     alt="THV 11 at 2022-09-17 21:28:17-05:00 local time"
+ <a href="https://archive.org/download/thv11-2022/thv11-2022-09-25T22:42:18.268785-05:00.jpg">
+  <img src="https://archive.org/download/thv11-2022/thv11-2022-09-25T22:42:18.268785-05:00.jpg"
+     alt="THV 11 at 2022-09-25 22:42:21-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thv11-2022/thv11-2022-09-17T21:28:16.864171-05:00.jpg">September 17 at 9:28 PM</a></p>
+ <p><a href="https://archive.org/download/thv11-2022/thv11-2022-09-25T22:42:18.268785-05:00.jpg">September 25 at 10:42 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thv11-2022/thv11-2022-09-17T09:01:13.318511-05:00.jpg">
-  <img src="https://archive.org/download/thv11-2022/thv11-2022-09-17T09:01:13.318511-05:00.jpg"
-     alt="THV 11 at 2022-09-17 09:01:14-05:00 local time"
+ <a href="https://archive.org/download/thv11-2022/thv11-2022-09-25T09:45:22.015429-05:00.jpg">
+  <img src="https://archive.org/download/thv11-2022/thv11-2022-09-25T09:45:22.015429-05:00.jpg"
+     alt="THV 11 at 2022-09-25 09:45:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thv11-2022/thv11-2022-09-17T09:01:13.318511-05:00.jpg">September 17 at 9:01 AM</a></p>
+ <p><a href="https://archive.org/download/thv11-2022/thv11-2022-09-25T09:45:22.015429-05:00.jpg">September 25 at 9:45 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thv11-2022/thv11-2022-09-16T21:25:52.026511-05:00.jpg">
-  <img src="https://archive.org/download/thv11-2022/thv11-2022-09-16T21:25:52.026511-05:00.jpg"
-     alt="THV 11 at 2022-09-16 21:25:54-05:00 local time"
+ <a href="https://archive.org/download/thv11-2022/thv11-2022-09-24T22:35:42.328344-05:00.jpg">
+  <img src="https://archive.org/download/thv11-2022/thv11-2022-09-24T22:35:42.328344-05:00.jpg"
+     alt="THV 11 at 2022-09-24 22:35:44-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thv11-2022/thv11-2022-09-16T21:25:52.026511-05:00.jpg">September 16 at 9:25 PM</a></p>
+ <p><a href="https://archive.org/download/thv11-2022/thv11-2022-09-24T22:35:42.328344-05:00.jpg">September 24 at 10:35 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thv11-2022/thv11-2022-09-16T09:07:41.084571-05:00.jpg">
-  <img src="https://archive.org/download/thv11-2022/thv11-2022-09-16T09:07:41.084571-05:00.jpg"
-     alt="THV 11 at 2022-09-16 09:07:42-05:00 local time"
+ <a href="https://archive.org/download/thv11-2022/thv11-2022-09-24T09:45:29.039208-05:00.jpg">
+  <img src="https://archive.org/download/thv11-2022/thv11-2022-09-24T09:45:29.039208-05:00.jpg"
+     alt="THV 11 at 2022-09-24 09:45:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thv11-2022/thv11-2022-09-16T09:07:41.084571-05:00.jpg">September 16 at 9:07 AM</a></p>
+ <p><a href="https://archive.org/download/thv11-2022/thv11-2022-09-24T09:45:29.039208-05:00.jpg">September 24 at 9:45 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thv11-2022/thv11-2022-09-15T21:27:59.489842-05:00.jpg">
-  <img src="https://archive.org/download/thv11-2022/thv11-2022-09-15T21:27:59.489842-05:00.jpg"
-     alt="THV 11 at 2022-09-15 21:28:00-05:00 local time"
+ <a href="https://archive.org/download/thv11-2022/thv11-2022-09-23T22:36:27.992017-05:00.jpg">
+  <img src="https://archive.org/download/thv11-2022/thv11-2022-09-23T22:36:27.992017-05:00.jpg"
+     alt="THV 11 at 2022-09-23 22:36:30-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thv11-2022/thv11-2022-09-15T21:27:59.489842-05:00.jpg">September 15 at 9:28 PM</a></p>
+ <p><a href="https://archive.org/download/thv11-2022/thv11-2022-09-23T22:36:27.992017-05:00.jpg">September 23 at 10:36 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thv11-2022/thv11-2022-09-15T09:14:28.204682-05:00.jpg">
-  <img src="https://archive.org/download/thv11-2022/thv11-2022-09-15T09:14:28.204682-05:00.jpg"
-     alt="THV 11 at 2022-09-15 09:14:30-05:00 local time"
+ <a href="https://archive.org/download/thv11-2022/thv11-2022-09-23T10:02:57.633996-05:00.jpg">
+  <img src="https://archive.org/download/thv11-2022/thv11-2022-09-23T10:02:57.633996-05:00.jpg"
+     alt="THV 11 at 2022-09-23 10:02:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thv11-2022/thv11-2022-09-15T09:14:28.204682-05:00.jpg">September 15 at 9:14 AM</a></p>
+ <p><a href="https://archive.org/download/thv11-2022/thv11-2022-09-23T10:02:57.633996-05:00.jpg">September 23 at 10:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thv11-2022/thv11-2022-09-14T21:29:32.903874-05:00.jpg">
-  <img src="https://archive.org/download/thv11-2022/thv11-2022-09-14T21:29:32.903874-05:00.jpg"
-     alt="THV 11 at 2022-09-14 21:29:34-05:00 local time"
+ <a href="https://archive.org/download/thv11-2022/thv11-2022-09-22T22:44:33.714119-05:00.jpg">
+  <img src="https://archive.org/download/thv11-2022/thv11-2022-09-22T22:44:33.714119-05:00.jpg"
+     alt="THV 11 at 2022-09-22 22:44:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thv11-2022/thv11-2022-09-14T21:29:32.903874-05:00.jpg">September 14 at 9:29 PM</a></p>
+ <p><a href="https://archive.org/download/thv11-2022/thv11-2022-09-22T22:44:33.714119-05:00.jpg">September 22 at 10:44 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thv11-2022/thv11-2022-09-14T09:15:00.529148-05:00.jpg">
-  <img src="https://archive.org/download/thv11-2022/thv11-2022-09-14T09:15:00.529148-05:00.jpg"
-     alt="THV 11 at 2022-09-14 09:15:03-05:00 local time"
+ <a href="https://archive.org/download/thv11-2022/thv11-2022-09-22T10:00:30.323767-05:00.jpg">
+  <img src="https://archive.org/download/thv11-2022/thv11-2022-09-22T10:00:30.323767-05:00.jpg"
+     alt="THV 11 at 2022-09-22 10:00:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thv11-2022/thv11-2022-09-14T09:15:00.529148-05:00.jpg">September 14 at 9:15 AM</a></p>
+ <p><a href="https://archive.org/download/thv11-2022/thv11-2022-09-22T10:00:30.323767-05:00.jpg">September 22 at 10:00 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thv11-2022/thv11-2022-09-13T21:27:09.902426-05:00.jpg">
-  <img src="https://archive.org/download/thv11-2022/thv11-2022-09-13T21:27:09.902426-05:00.jpg"
-     alt="THV 11 at 2022-09-13 21:27:11-05:00 local time"
+ <a href="https://archive.org/download/thv11-2022/thv11-2022-09-21T22:41:13.635840-05:00.jpg">
+  <img src="https://archive.org/download/thv11-2022/thv11-2022-09-21T22:41:13.635840-05:00.jpg"
+     alt="THV 11 at 2022-09-21 22:41:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thv11-2022/thv11-2022-09-13T21:27:09.902426-05:00.jpg">September 13 at 9:27 PM</a></p>
+ <p><a href="https://archive.org/download/thv11-2022/thv11-2022-09-21T22:41:13.635840-05:00.jpg">September 21 at 10:41 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 16 hyperlink lists with the Internet Archive.
+The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/thv11.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 9:08 AM](https://archive.org/download/thv11-2022/thv11-2022-09-19T09:08:53.393070-05:00.hyperlinks.json) |
-| [September 18 at 9:23 PM](https://archive.org/download/thv11-2022/thv11-2022-09-18T21:23:23.496768-05:00.hyperlinks.json) |
-| [September 18 at 9:03 AM](https://archive.org/download/thv11-2022/thv11-2022-09-18T09:03:04.373989-05:00.hyperlinks.json) |
-| [September 17 at 9:28 PM](https://archive.org/download/thv11-2022/thv11-2022-09-17T21:28:16.864171-05:00.hyperlinks.json) |
-| [September 17 at 9:01 AM](https://archive.org/download/thv11-2022/thv11-2022-09-17T09:01:13.318511-05:00.hyperlinks.json) |
-| [September 16 at 9:25 PM](https://archive.org/download/thv11-2022/thv11-2022-09-16T21:25:52.026511-05:00.hyperlinks.json) |
-| [September 16 at 9:07 AM](https://archive.org/download/thv11-2022/thv11-2022-09-16T09:07:41.084571-05:00.hyperlinks.json) |
-| [September 15 at 9:28 PM](https://archive.org/download/thv11-2022/thv11-2022-09-15T21:27:59.489842-05:00.hyperlinks.json) |
-| [September 15 at 9:14 AM](https://archive.org/download/thv11-2022/thv11-2022-09-15T09:14:28.204682-05:00.hyperlinks.json) |
-| [September 14 at 9:29 PM](https://archive.org/download/thv11-2022/thv11-2022-09-14T21:29:32.903874-05:00.hyperlinks.json) |
+| [September 27 at 10:06 AM](https://archive.org/download/thv11-2022/thv11-2022-09-27T10:06:45.954424-05:00.hyperlinks.json) |
+| [September 26 at 10:35 PM](https://archive.org/download/thv11-2022/thv11-2022-09-26T22:35:02.361919-05:00.hyperlinks.json) |
+| [September 26 at 10:10 AM](https://archive.org/download/thv11-2022/thv11-2022-09-26T10:10:35.823987-05:00.hyperlinks.json) |
+| [September 25 at 10:42 PM](https://archive.org/download/thv11-2022/thv11-2022-09-25T22:42:18.268785-05:00.hyperlinks.json) |
+| [September 25 at 9:45 AM](https://archive.org/download/thv11-2022/thv11-2022-09-25T09:45:22.015429-05:00.hyperlinks.json) |
+| [September 24 at 10:35 PM](https://archive.org/download/thv11-2022/thv11-2022-09-24T22:35:42.328344-05:00.hyperlinks.json) |
+| [September 24 at 9:45 AM](https://archive.org/download/thv11-2022/thv11-2022-09-24T09:45:29.039208-05:00.hyperlinks.json) |
+| [September 23 at 10:36 PM](https://archive.org/download/thv11-2022/thv11-2022-09-23T22:36:27.992017-05:00.hyperlinks.json) |
+| [September 23 at 10:03 AM](https://archive.org/download/thv11-2022/thv11-2022-09-23T10:02:57.633996-05:00.hyperlinks.json) |
+| [September 22 at 10:44 PM](https://archive.org/download/thv11-2022/thv11-2022-09-22T22:44:33.714119-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 16 accessibility trees with the Internet Archive.
+The archiving routine has saved 32 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/thv11.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 9:08 AM](https://archive.org/download/thv11-2022/thv11-2022-09-19T09:08:53.393070-05:00.accessibility.json) |
-| [September 18 at 9:23 PM](https://archive.org/download/thv11-2022/thv11-2022-09-18T21:23:23.496768-05:00.accessibility.json) |
-| [September 18 at 9:03 AM](https://archive.org/download/thv11-2022/thv11-2022-09-18T09:03:04.373989-05:00.accessibility.json) |
-| [September 17 at 9:28 PM](https://archive.org/download/thv11-2022/thv11-2022-09-17T21:28:16.864171-05:00.accessibility.json) |
-| [September 17 at 9:01 AM](https://archive.org/download/thv11-2022/thv11-2022-09-17T09:01:13.318511-05:00.accessibility.json) |
-| [September 16 at 9:25 PM](https://archive.org/download/thv11-2022/thv11-2022-09-16T21:25:52.026511-05:00.accessibility.json) |
-| [September 16 at 9:07 AM](https://archive.org/download/thv11-2022/thv11-2022-09-16T09:07:41.084571-05:00.accessibility.json) |
-| [September 15 at 9:28 PM](https://archive.org/download/thv11-2022/thv11-2022-09-15T21:27:59.489842-05:00.accessibility.json) |
-| [September 15 at 9:14 AM](https://archive.org/download/thv11-2022/thv11-2022-09-15T09:14:28.204682-05:00.accessibility.json) |
-| [September 14 at 9:29 PM](https://archive.org/download/thv11-2022/thv11-2022-09-14T21:29:32.903874-05:00.accessibility.json) |
+| [September 27 at 10:06 AM](https://archive.org/download/thv11-2022/thv11-2022-09-27T10:06:45.954424-05:00.accessibility.json) |
+| [September 26 at 10:35 PM](https://archive.org/download/thv11-2022/thv11-2022-09-26T22:35:02.361919-05:00.accessibility.json) |
+| [September 26 at 10:10 AM](https://archive.org/download/thv11-2022/thv11-2022-09-26T10:10:35.823987-05:00.accessibility.json) |
+| [September 25 at 10:42 PM](https://archive.org/download/thv11-2022/thv11-2022-09-25T22:42:18.268785-05:00.accessibility.json) |
+| [September 25 at 9:45 AM](https://archive.org/download/thv11-2022/thv11-2022-09-25T09:45:22.015429-05:00.accessibility.json) |
+| [September 24 at 10:35 PM](https://archive.org/download/thv11-2022/thv11-2022-09-24T22:35:42.328344-05:00.accessibility.json) |
+| [September 24 at 9:45 AM](https://archive.org/download/thv11-2022/thv11-2022-09-24T09:45:29.039208-05:00.accessibility.json) |
+| [September 23 at 10:36 PM](https://archive.org/download/thv11-2022/thv11-2022-09-23T22:36:27.992017-05:00.accessibility.json) |
+| [September 23 at 10:03 AM](https://archive.org/download/thv11-2022/thv11-2022-09-23T10:02:57.633996-05:00.accessibility.json) |
+| [September 22 at 10:44 PM](https://archive.org/download/thv11-2022/thv11-2022-09-22T22:44:33.714119-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/thv11.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 9:08 AM](https://archive.org/download/thv11-2022/thv11-2022-09-19T09:08:53.393070-05:00.lighthouse.json) |
-| [September 18 at 9:23 PM](https://archive.org/download/thv11-2022/thv11-2022-09-18T21:23:23.496768-05:00.lighthouse.json) |
-| [September 18 at 9:03 AM](https://archive.org/download/thv11-2022/thv11-2022-09-18T09:03:04.373989-05:00.lighthouse.json) |
-| [September 17 at 9:28 PM](https://archive.org/download/thv11-2022/thv11-2022-09-17T21:28:16.864171-05:00.lighthouse.json) |
-| [September 17 at 9:01 AM](https://archive.org/download/thv11-2022/thv11-2022-09-17T09:01:13.318511-05:00.lighthouse.json) |
-| [September 16 at 9:26 PM](https://archive.org/download/thv11-2022/thv11-2022-09-16T21:25:52.026511-05:00.lighthouse.json) |
-| [September 16 at 9:07 AM](https://archive.org/download/thv11-2022/thv11-2022-09-16T09:07:41.084571-05:00.lighthouse.json) |
-| [September 15 at 9:28 PM](https://archive.org/download/thv11-2022/thv11-2022-09-15T21:27:59.489842-05:00.lighthouse.json) |
-| [September 15 at 9:14 AM](https://archive.org/download/thv11-2022/thv11-2022-09-15T09:14:28.204682-05:00.lighthouse.json) |
-| [September 14 at 9:29 PM](https://archive.org/download/thv11-2022/thv11-2022-09-14T21:29:32.903874-05:00.lighthouse.json) |
+| [September 27 at 10:06 AM](https://archive.org/download/thv11-2022/thv11-2022-09-27T10:06:45.954424-05:00.lighthouse.json) |
+| [September 26 at 10:35 PM](https://archive.org/download/thv11-2022/thv11-2022-09-26T22:35:02.361919-05:00.lighthouse.json) |
+| [September 26 at 10:10 AM](https://archive.org/download/thv11-2022/thv11-2022-09-26T10:10:35.823987-05:00.lighthouse.json) |
+| [September 25 at 10:42 PM](https://archive.org/download/thv11-2022/thv11-2022-09-25T22:42:18.268785-05:00.lighthouse.json) |
+| [September 25 at 9:45 AM](https://archive.org/download/thv11-2022/thv11-2022-09-25T09:45:22.015429-05:00.lighthouse.json) |
+| [September 24 at 10:35 PM](https://archive.org/download/thv11-2022/thv11-2022-09-24T22:35:42.328344-05:00.lighthouse.json) |
+| [September 24 at 9:45 AM](https://archive.org/download/thv11-2022/thv11-2022-09-24T09:45:29.039208-05:00.lighthouse.json) |
+| [September 23 at 10:36 PM](https://archive.org/download/thv11-2022/thv11-2022-09-23T22:36:27.992017-05:00.lighthouse.json) |
+| [September 23 at 10:03 AM](https://archive.org/download/thv11-2022/thv11-2022-09-23T10:02:57.633996-05:00.lighthouse.json) |
+| [September 22 at 10:44 PM](https://archive.org/download/thv11-2022/thv11-2022-09-22T22:44:33.714119-05:00.lighthouse.json) |
 
 
 

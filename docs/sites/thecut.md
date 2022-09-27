@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 71 screenshots with the Internet Archive.
+The archiving routine has saved 87 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/thecut-2022/thecut-2022-09-19T10:06:54.926273-04:00.jpg">
-  <img src="https://archive.org/download/thecut-2022/thecut-2022-09-19T10:06:54.926273-04:00.jpg"
-     alt="The Cut at 2022-09-19 10:06:56-04:00 local time"
+ <a href="https://archive.org/download/thecut-2022/thecut-2022-09-27T11:04:23.039700-04:00.jpg">
+  <img src="https://archive.org/download/thecut-2022/thecut-2022-09-27T11:04:23.039700-04:00.jpg"
+     alt="The Cut at 2022-09-27 11:04:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thecut-2022/thecut-2022-09-19T10:06:54.926273-04:00.jpg">September 19 at 10:06 AM</a></p>
+ <p><a href="https://archive.org/download/thecut-2022/thecut-2022-09-27T11:04:23.039700-04:00.jpg">September 27 at 11:04 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thecut-2022/thecut-2022-09-18T22:20:34.510470-04:00.jpg">
-  <img src="https://archive.org/download/thecut-2022/thecut-2022-09-18T22:20:34.510470-04:00.jpg"
-     alt="The Cut at 2022-09-18 22:20:36-04:00 local time"
+ <a href="https://archive.org/download/thecut-2022/thecut-2022-09-26T23:33:56.452573-04:00.jpg">
+  <img src="https://archive.org/download/thecut-2022/thecut-2022-09-26T23:33:56.452573-04:00.jpg"
+     alt="The Cut at 2022-09-26 23:34:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thecut-2022/thecut-2022-09-18T22:20:34.510470-04:00.jpg">September 18 at 10:20 PM</a></p>
+ <p><a href="https://archive.org/download/thecut-2022/thecut-2022-09-26T23:33:56.452573-04:00.jpg">September 26 at 11:34 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thecut-2022/thecut-2022-09-18T10:01:18.656617-04:00.jpg">
-  <img src="https://archive.org/download/thecut-2022/thecut-2022-09-18T10:01:18.656617-04:00.jpg"
-     alt="The Cut at 2022-09-18 10:01:21-04:00 local time"
+ <a href="https://archive.org/download/thecut-2022/thecut-2022-09-26T11:07:56.978357-04:00.jpg">
+  <img src="https://archive.org/download/thecut-2022/thecut-2022-09-26T11:07:56.978357-04:00.jpg"
+     alt="The Cut at 2022-09-26 11:08:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thecut-2022/thecut-2022-09-18T10:01:18.656617-04:00.jpg">September 18 at 10:01 AM</a></p>
+ <p><a href="https://archive.org/download/thecut-2022/thecut-2022-09-26T11:07:56.978357-04:00.jpg">September 26 at 11:08 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thecut-2022/thecut-2022-09-17T22:26:45.932790-04:00.jpg">
-  <img src="https://archive.org/download/thecut-2022/thecut-2022-09-17T22:26:45.932790-04:00.jpg"
-     alt="The Cut at 2022-09-17 22:26:47-04:00 local time"
+ <a href="https://archive.org/download/thecut-2022/thecut-2022-09-25T23:40:11.699438-04:00.jpg">
+  <img src="https://archive.org/download/thecut-2022/thecut-2022-09-25T23:40:11.699438-04:00.jpg"
+     alt="The Cut at 2022-09-25 23:40:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thecut-2022/thecut-2022-09-17T22:26:45.932790-04:00.jpg">September 17 at 10:26 PM</a></p>
+ <p><a href="https://archive.org/download/thecut-2022/thecut-2022-09-25T23:40:11.699438-04:00.jpg">September 25 at 11:40 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thecut-2022/thecut-2022-09-17T09:59:33.988088-04:00.jpg">
-  <img src="https://archive.org/download/thecut-2022/thecut-2022-09-17T09:59:33.988088-04:00.jpg"
-     alt="The Cut at 2022-09-17 09:59:35-04:00 local time"
+ <a href="https://archive.org/download/thecut-2022/thecut-2022-09-25T10:44:04.338884-04:00.jpg">
+  <img src="https://archive.org/download/thecut-2022/thecut-2022-09-25T10:44:04.338884-04:00.jpg"
+     alt="The Cut at 2022-09-25 10:44:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thecut-2022/thecut-2022-09-17T09:59:33.988088-04:00.jpg">September 17 at 9:59 AM</a></p>
+ <p><a href="https://archive.org/download/thecut-2022/thecut-2022-09-25T10:44:04.338884-04:00.jpg">September 25 at 10:44 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thecut-2022/thecut-2022-09-16T22:24:54.140379-04:00.jpg">
-  <img src="https://archive.org/download/thecut-2022/thecut-2022-09-16T22:24:54.140379-04:00.jpg"
-     alt="The Cut at 2022-09-16 22:24:55-04:00 local time"
+ <a href="https://archive.org/download/thecut-2022/thecut-2022-09-24T23:34:16.757631-04:00.jpg">
+  <img src="https://archive.org/download/thecut-2022/thecut-2022-09-24T23:34:16.757631-04:00.jpg"
+     alt="The Cut at 2022-09-24 23:34:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thecut-2022/thecut-2022-09-16T22:24:54.140379-04:00.jpg">September 16 at 10:24 PM</a></p>
+ <p><a href="https://archive.org/download/thecut-2022/thecut-2022-09-24T23:34:16.757631-04:00.jpg">September 24 at 11:34 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thecut-2022/thecut-2022-09-16T10:05:40.776172-04:00.jpg">
-  <img src="https://archive.org/download/thecut-2022/thecut-2022-09-16T10:05:40.776172-04:00.jpg"
-     alt="The Cut at 2022-09-16 10:05:42-04:00 local time"
+ <a href="https://archive.org/download/thecut-2022/thecut-2022-09-24T10:43:45.911108-04:00.jpg">
+  <img src="https://archive.org/download/thecut-2022/thecut-2022-09-24T10:43:45.911108-04:00.jpg"
+     alt="The Cut at 2022-09-24 10:43:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thecut-2022/thecut-2022-09-16T10:05:40.776172-04:00.jpg">September 16 at 10:05 AM</a></p>
+ <p><a href="https://archive.org/download/thecut-2022/thecut-2022-09-24T10:43:45.911108-04:00.jpg">September 24 at 10:43 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thecut-2022/thecut-2022-09-15T22:25:12.330837-04:00.jpg">
-  <img src="https://archive.org/download/thecut-2022/thecut-2022-09-15T22:25:12.330837-04:00.jpg"
-     alt="The Cut at 2022-09-15 22:25:16-04:00 local time"
+ <a href="https://archive.org/download/thecut-2022/thecut-2022-09-23T23:34:47.838087-04:00.jpg">
+  <img src="https://archive.org/download/thecut-2022/thecut-2022-09-23T23:34:47.838087-04:00.jpg"
+     alt="The Cut at 2022-09-23 23:34:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thecut-2022/thecut-2022-09-15T22:25:12.330837-04:00.jpg">September 15 at 10:25 PM</a></p>
+ <p><a href="https://archive.org/download/thecut-2022/thecut-2022-09-23T23:34:47.838087-04:00.jpg">September 23 at 11:34 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thecut-2022/thecut-2022-09-15T10:12:10.123008-04:00.jpg">
-  <img src="https://archive.org/download/thecut-2022/thecut-2022-09-15T10:12:10.123008-04:00.jpg"
-     alt="The Cut at 2022-09-15 10:12:12-04:00 local time"
+ <a href="https://archive.org/download/thecut-2022/thecut-2022-09-23T11:01:46.856203-04:00.jpg">
+  <img src="https://archive.org/download/thecut-2022/thecut-2022-09-23T11:01:46.856203-04:00.jpg"
+     alt="The Cut at 2022-09-23 11:01:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thecut-2022/thecut-2022-09-15T10:12:10.123008-04:00.jpg">September 15 at 10:12 AM</a></p>
+ <p><a href="https://archive.org/download/thecut-2022/thecut-2022-09-23T11:01:46.856203-04:00.jpg">September 23 at 11:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thecut-2022/thecut-2022-09-14T22:28:04.785639-04:00.jpg">
-  <img src="https://archive.org/download/thecut-2022/thecut-2022-09-14T22:28:04.785639-04:00.jpg"
-     alt="The Cut at 2022-09-14 22:28:05-04:00 local time"
+ <a href="https://archive.org/download/thecut-2022/thecut-2022-09-22T23:43:10.364682-04:00.jpg">
+  <img src="https://archive.org/download/thecut-2022/thecut-2022-09-22T23:43:10.364682-04:00.jpg"
+     alt="The Cut at 2022-09-22 23:43:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thecut-2022/thecut-2022-09-14T22:28:04.785639-04:00.jpg">September 14 at 10:28 PM</a></p>
+ <p><a href="https://archive.org/download/thecut-2022/thecut-2022-09-22T23:43:10.364682-04:00.jpg">September 22 at 11:43 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thecut-2022/thecut-2022-09-14T10:13:13.359439-04:00.jpg">
-  <img src="https://archive.org/download/thecut-2022/thecut-2022-09-14T10:13:13.359439-04:00.jpg"
-     alt="The Cut at 2022-09-14 10:13:16-04:00 local time"
+ <a href="https://archive.org/download/thecut-2022/thecut-2022-09-22T10:58:39.410995-04:00.jpg">
+  <img src="https://archive.org/download/thecut-2022/thecut-2022-09-22T10:58:39.410995-04:00.jpg"
+     alt="The Cut at 2022-09-22 10:58:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thecut-2022/thecut-2022-09-14T10:13:13.359439-04:00.jpg">September 14 at 10:13 AM</a></p>
+ <p><a href="https://archive.org/download/thecut-2022/thecut-2022-09-22T10:58:39.410995-04:00.jpg">September 22 at 10:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thecut-2022/thecut-2022-09-13T22:25:49.184337-04:00.jpg">
-  <img src="https://archive.org/download/thecut-2022/thecut-2022-09-13T22:25:49.184337-04:00.jpg"
-     alt="The Cut at 2022-09-13 22:25:53-04:00 local time"
+ <a href="https://archive.org/download/thecut-2022/thecut-2022-09-21T23:38:33.147868-04:00.jpg">
+  <img src="https://archive.org/download/thecut-2022/thecut-2022-09-21T23:38:33.147868-04:00.jpg"
+     alt="The Cut at 2022-09-21 23:38:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thecut-2022/thecut-2022-09-13T22:25:49.184337-04:00.jpg">September 13 at 10:25 PM</a></p>
+ <p><a href="https://archive.org/download/thecut-2022/thecut-2022-09-21T23:38:33.147868-04:00.jpg">September 21 at 11:38 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 71 hyperlink lists with the Internet Archive.
+The archiving routine has saved 87 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 10:06 AM](https://archive.org/download/thecut-2022/thecut-2022-09-19T10:06:54.926273-04:00.hyperlinks.json) |
-| [September 18 at 10:20 PM](https://archive.org/download/thecut-2022/thecut-2022-09-18T22:20:34.510470-04:00.hyperlinks.json) |
-| [September 18 at 10:01 AM](https://archive.org/download/thecut-2022/thecut-2022-09-18T10:01:18.656617-04:00.hyperlinks.json) |
-| [September 17 at 10:26 PM](https://archive.org/download/thecut-2022/thecut-2022-09-17T22:26:45.932790-04:00.hyperlinks.json) |
-| [September 17 at 9:59 AM](https://archive.org/download/thecut-2022/thecut-2022-09-17T09:59:33.988088-04:00.hyperlinks.json) |
-| [September 16 at 10:25 PM](https://archive.org/download/thecut-2022/thecut-2022-09-16T22:24:54.140379-04:00.hyperlinks.json) |
-| [September 16 at 10:05 AM](https://archive.org/download/thecut-2022/thecut-2022-09-16T10:05:40.776172-04:00.hyperlinks.json) |
-| [September 15 at 10:25 PM](https://archive.org/download/thecut-2022/thecut-2022-09-15T22:25:12.330837-04:00.hyperlinks.json) |
-| [September 15 at 10:12 AM](https://archive.org/download/thecut-2022/thecut-2022-09-15T10:12:10.123008-04:00.hyperlinks.json) |
-| [September 14 at 10:28 PM](https://archive.org/download/thecut-2022/thecut-2022-09-14T22:28:04.785639-04:00.hyperlinks.json) |
+| [September 27 at 11:04 AM](https://archive.org/download/thecut-2022/thecut-2022-09-27T11:04:23.039700-04:00.hyperlinks.json) |
+| [September 26 at 11:34 PM](https://archive.org/download/thecut-2022/thecut-2022-09-26T23:33:56.452573-04:00.hyperlinks.json) |
+| [September 26 at 11:08 AM](https://archive.org/download/thecut-2022/thecut-2022-09-26T11:07:56.978357-04:00.hyperlinks.json) |
+| [September 25 at 11:40 PM](https://archive.org/download/thecut-2022/thecut-2022-09-25T23:40:11.699438-04:00.hyperlinks.json) |
+| [September 25 at 10:44 AM](https://archive.org/download/thecut-2022/thecut-2022-09-25T10:44:04.338884-04:00.hyperlinks.json) |
+| [September 24 at 11:34 PM](https://archive.org/download/thecut-2022/thecut-2022-09-24T23:34:16.757631-04:00.hyperlinks.json) |
+| [September 24 at 10:43 AM](https://archive.org/download/thecut-2022/thecut-2022-09-24T10:43:45.911108-04:00.hyperlinks.json) |
+| [September 23 at 11:34 PM](https://archive.org/download/thecut-2022/thecut-2022-09-23T23:34:47.838087-04:00.hyperlinks.json) |
+| [September 23 at 11:02 AM](https://archive.org/download/thecut-2022/thecut-2022-09-23T11:01:46.856203-04:00.hyperlinks.json) |
+| [September 22 at 11:43 PM](https://archive.org/download/thecut-2022/thecut-2022-09-22T23:43:10.364682-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 71 accessibility trees with the Internet Archive.
+The archiving routine has saved 87 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 10:06 AM](https://archive.org/download/thecut-2022/thecut-2022-09-19T10:06:54.926273-04:00.accessibility.json) |
-| [September 18 at 10:20 PM](https://archive.org/download/thecut-2022/thecut-2022-09-18T22:20:34.510470-04:00.accessibility.json) |
-| [September 18 at 10:01 AM](https://archive.org/download/thecut-2022/thecut-2022-09-18T10:01:18.656617-04:00.accessibility.json) |
-| [September 17 at 10:26 PM](https://archive.org/download/thecut-2022/thecut-2022-09-17T22:26:45.932790-04:00.accessibility.json) |
-| [September 17 at 9:59 AM](https://archive.org/download/thecut-2022/thecut-2022-09-17T09:59:33.988088-04:00.accessibility.json) |
-| [September 16 at 10:24 PM](https://archive.org/download/thecut-2022/thecut-2022-09-16T22:24:54.140379-04:00.accessibility.json) |
-| [September 16 at 10:05 AM](https://archive.org/download/thecut-2022/thecut-2022-09-16T10:05:40.776172-04:00.accessibility.json) |
-| [September 15 at 10:25 PM](https://archive.org/download/thecut-2022/thecut-2022-09-15T22:25:12.330837-04:00.accessibility.json) |
-| [September 15 at 10:12 AM](https://archive.org/download/thecut-2022/thecut-2022-09-15T10:12:10.123008-04:00.accessibility.json) |
-| [September 14 at 10:28 PM](https://archive.org/download/thecut-2022/thecut-2022-09-14T22:28:04.785639-04:00.accessibility.json) |
+| [September 27 at 11:04 AM](https://archive.org/download/thecut-2022/thecut-2022-09-27T11:04:23.039700-04:00.accessibility.json) |
+| [September 26 at 11:34 PM](https://archive.org/download/thecut-2022/thecut-2022-09-26T23:33:56.452573-04:00.accessibility.json) |
+| [September 26 at 11:08 AM](https://archive.org/download/thecut-2022/thecut-2022-09-26T11:07:56.978357-04:00.accessibility.json) |
+| [September 25 at 11:40 PM](https://archive.org/download/thecut-2022/thecut-2022-09-25T23:40:11.699438-04:00.accessibility.json) |
+| [September 25 at 10:44 AM](https://archive.org/download/thecut-2022/thecut-2022-09-25T10:44:04.338884-04:00.accessibility.json) |
+| [September 24 at 11:34 PM](https://archive.org/download/thecut-2022/thecut-2022-09-24T23:34:16.757631-04:00.accessibility.json) |
+| [September 24 at 10:43 AM](https://archive.org/download/thecut-2022/thecut-2022-09-24T10:43:45.911108-04:00.accessibility.json) |
+| [September 23 at 11:34 PM](https://archive.org/download/thecut-2022/thecut-2022-09-23T23:34:47.838087-04:00.accessibility.json) |
+| [September 23 at 11:01 AM](https://archive.org/download/thecut-2022/thecut-2022-09-23T11:01:46.856203-04:00.accessibility.json) |
+| [September 22 at 11:43 PM](https://archive.org/download/thecut-2022/thecut-2022-09-22T23:43:10.364682-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 71 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 87 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 10:07 AM](https://archive.org/download/thecut-2022/thecut-2022-09-19T10:06:54.926273-04:00.lighthouse.json) |
-| [September 18 at 10:20 PM](https://archive.org/download/thecut-2022/thecut-2022-09-18T22:20:34.510470-04:00.lighthouse.json) |
-| [September 18 at 10:01 AM](https://archive.org/download/thecut-2022/thecut-2022-09-18T10:01:18.656617-04:00.lighthouse.json) |
-| [September 17 at 10:26 PM](https://archive.org/download/thecut-2022/thecut-2022-09-17T22:26:45.932790-04:00.lighthouse.json) |
-| [September 17 at 9:59 AM](https://archive.org/download/thecut-2022/thecut-2022-09-17T09:59:33.988088-04:00.lighthouse.json) |
-| [September 16 at 10:25 PM](https://archive.org/download/thecut-2022/thecut-2022-09-16T22:24:54.140379-04:00.lighthouse.json) |
-| [September 16 at 10:05 AM](https://archive.org/download/thecut-2022/thecut-2022-09-16T10:05:40.776172-04:00.lighthouse.json) |
-| [September 15 at 10:25 PM](https://archive.org/download/thecut-2022/thecut-2022-09-15T22:25:12.330837-04:00.lighthouse.json) |
-| [September 15 at 10:12 AM](https://archive.org/download/thecut-2022/thecut-2022-09-15T10:12:10.123008-04:00.lighthouse.json) |
-| [September 14 at 10:28 PM](https://archive.org/download/thecut-2022/thecut-2022-09-14T22:28:04.785639-04:00.lighthouse.json) |
+| [September 27 at 11:04 AM](https://archive.org/download/thecut-2022/thecut-2022-09-27T11:04:23.039700-04:00.lighthouse.json) |
+| [September 26 at 11:34 PM](https://archive.org/download/thecut-2022/thecut-2022-09-26T23:33:56.452573-04:00.lighthouse.json) |
+| [September 26 at 11:08 AM](https://archive.org/download/thecut-2022/thecut-2022-09-26T11:07:56.978357-04:00.lighthouse.json) |
+| [September 25 at 11:40 PM](https://archive.org/download/thecut-2022/thecut-2022-09-25T23:40:11.699438-04:00.lighthouse.json) |
+| [September 25 at 10:44 AM](https://archive.org/download/thecut-2022/thecut-2022-09-25T10:44:04.338884-04:00.lighthouse.json) |
+| [September 24 at 11:34 PM](https://archive.org/download/thecut-2022/thecut-2022-09-24T23:34:16.757631-04:00.lighthouse.json) |
+| [September 24 at 10:43 AM](https://archive.org/download/thecut-2022/thecut-2022-09-24T10:43:45.911108-04:00.lighthouse.json) |
+| [September 23 at 11:34 PM](https://archive.org/download/thecut-2022/thecut-2022-09-23T23:34:47.838087-04:00.lighthouse.json) |
+| [September 23 at 11:02 AM](https://archive.org/download/thecut-2022/thecut-2022-09-23T11:01:46.856203-04:00.lighthouse.json) |
+| [September 22 at 11:43 PM](https://archive.org/download/thecut-2022/thecut-2022-09-22T23:43:10.364682-04:00.lighthouse.json) |
 
 
 

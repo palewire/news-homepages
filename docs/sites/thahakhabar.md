@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 114 screenshots with the Internet Archive.
+The archiving routine has saved 130 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-19T19:51:19.853820+05:45.jpg">
-  <img src="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-19T19:51:19.853820+05:45.jpg"
-     alt="Thaha Khabar at 2022-09-19 19:51:21+05:45 local time"
+ <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-27T20:47:06.887654+05:45.jpg">
+  <img src="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-27T20:47:06.887654+05:45.jpg"
+     alt="Thaha Khabar at 2022-09-27 20:47:13+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-19T19:51:19.853820+05:45.jpg">September 19 at 7:51 PM</a></p>
+ <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-27T20:47:06.887654+05:45.jpg">September 27 at 8:47 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-19T08:05:29.517415+05:45.jpg">
-  <img src="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-19T08:05:29.517415+05:45.jpg"
-     alt="Thaha Khabar at 2022-09-19 08:05:31+05:45 local time"
+ <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-27T09:17:12.664130+05:45.jpg">
+  <img src="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-27T09:17:12.664130+05:45.jpg"
+     alt="Thaha Khabar at 2022-09-27 09:17:18+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-19T08:05:29.517415+05:45.jpg">September 19 at 8:05 AM</a></p>
+ <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-27T09:17:12.664130+05:45.jpg">September 27 at 9:17 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-18T19:46:03.309476+05:45.jpg">
-  <img src="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-18T19:46:03.309476+05:45.jpg"
-     alt="Thaha Khabar at 2022-09-18 19:46:04+05:45 local time"
+ <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-26T20:50:57.435297+05:45.jpg">
+  <img src="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-26T20:50:57.435297+05:45.jpg"
+     alt="Thaha Khabar at 2022-09-26 20:51:06+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-18T19:46:03.309476+05:45.jpg">September 18 at 7:46 PM</a></p>
+ <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-26T20:50:57.435297+05:45.jpg">September 26 at 8:51 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-18T08:11:56.702876+05:45.jpg">
-  <img src="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-18T08:11:56.702876+05:45.jpg"
-     alt="Thaha Khabar at 2022-09-18 08:11:58+05:45 local time"
+ <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-26T09:24:02.089480+05:45.jpg">
+  <img src="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-26T09:24:02.089480+05:45.jpg"
+     alt="Thaha Khabar at 2022-09-26 09:24:17+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-18T08:11:56.702876+05:45.jpg">September 18 at 8:11 AM</a></p>
+ <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-26T09:24:02.089480+05:45.jpg">September 26 at 9:24 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-17T19:44:19.011406+05:45.jpg">
-  <img src="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-17T19:44:19.011406+05:45.jpg"
-     alt="Thaha Khabar at 2022-09-17 19:44:21+05:45 local time"
+ <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-25T20:26:54.494738+05:45.jpg">
+  <img src="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-25T20:26:54.494738+05:45.jpg"
+     alt="Thaha Khabar at 2022-09-25 20:27:10+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-17T19:44:19.011406+05:45.jpg">September 17 at 7:44 PM</a></p>
+ <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-25T20:26:54.494738+05:45.jpg">September 25 at 8:27 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-17T08:09:42.367519+05:45.jpg">
-  <img src="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-17T08:09:42.367519+05:45.jpg"
-     alt="Thaha Khabar at 2022-09-17 08:09:43+05:45 local time"
+ <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-25T09:17:33.296262+05:45.jpg">
+  <img src="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-25T09:17:33.296262+05:45.jpg"
+     alt="Thaha Khabar at 2022-09-25 09:17:37+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-17T08:09:42.367519+05:45.jpg">September 17 at 8:09 AM</a></p>
+ <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-25T09:17:33.296262+05:45.jpg">September 25 at 9:17 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-16T19:51:30.024462+05:45.jpg">
-  <img src="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-16T19:51:30.024462+05:45.jpg"
-     alt="Thaha Khabar at 2022-09-16 19:51:31+05:45 local time"
+ <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-24T20:27:09.526528+05:45.jpg">
+  <img src="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-24T20:27:09.526528+05:45.jpg"
+     alt="Thaha Khabar at 2022-09-24 20:27:15+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-16T19:51:30.024462+05:45.jpg">September 16 at 7:51 PM</a></p>
+ <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-24T20:27:09.526528+05:45.jpg">September 24 at 8:27 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-16T08:10:08.497732+05:45.jpg">
-  <img src="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-16T08:10:08.497732+05:45.jpg"
-     alt="Thaha Khabar at 2022-09-16 08:10:17+05:45 local time"
+ <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-24T09:18:34.534587+05:45.jpg">
+  <img src="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-24T09:18:34.534587+05:45.jpg"
+     alt="Thaha Khabar at 2022-09-24 09:18:39+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-16T08:10:08.497732+05:45.jpg">September 16 at 8:10 AM</a></p>
+ <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-24T09:18:34.534587+05:45.jpg">September 24 at 9:18 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-15T19:57:09.748948+05:45.jpg">
-  <img src="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-15T19:57:09.748948+05:45.jpg"
-     alt="Thaha Khabar at 2022-09-15 19:57:12+05:45 local time"
+ <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-23T20:44:41.461123+05:45.jpg">
+  <img src="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-23T20:44:41.461123+05:45.jpg"
+     alt="Thaha Khabar at 2022-09-23 20:44:51+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-15T19:57:09.748948+05:45.jpg">September 15 at 7:57 PM</a></p>
+ <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-23T20:44:41.461123+05:45.jpg">September 23 at 8:44 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-15T08:12:49.212655+05:45.jpg">
-  <img src="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-15T08:12:49.212655+05:45.jpg"
-     alt="Thaha Khabar at 2022-09-15 08:12:50+05:45 local time"
+ <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-23T09:25:27.667723+05:45.jpg">
+  <img src="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-23T09:25:27.667723+05:45.jpg"
+     alt="Thaha Khabar at 2022-09-23 09:25:34+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-15T08:12:49.212655+05:45.jpg">September 15 at 8:12 AM</a></p>
+ <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-23T09:25:27.667723+05:45.jpg">September 23 at 9:25 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-14T19:58:07.090984+05:45.jpg">
-  <img src="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-14T19:58:07.090984+05:45.jpg"
-     alt="Thaha Khabar at 2022-09-14 19:58:08+05:45 local time"
+ <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-22T20:41:20.503289+05:45.jpg">
+  <img src="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-22T20:41:20.503289+05:45.jpg"
+     alt="Thaha Khabar at 2022-09-22 20:41:30+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-14T19:58:07.090984+05:45.jpg">September 14 at 7:58 PM</a></p>
+ <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-22T20:41:20.503289+05:45.jpg">September 22 at 8:41 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-14T08:10:08.035376+05:45.jpg">
-  <img src="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-14T08:10:08.035376+05:45.jpg"
-     alt="Thaha Khabar at 2022-09-14 08:10:12+05:45 local time"
+ <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-22T09:21:46.940275+05:45.jpg">
+  <img src="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-22T09:21:46.940275+05:45.jpg"
+     alt="Thaha Khabar at 2022-09-22 09:21:56+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-14T08:10:08.035376+05:45.jpg">September 14 at 8:10 AM</a></p>
+ <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-22T09:21:46.940275+05:45.jpg">September 22 at 9:21 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 115 hyperlink lists with the Internet Archive.
+The archiving routine has saved 131 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 7:51 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-19T19:51:19.853820+05:45.hyperlinks.json) |
-| [September 19 at 8:05 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-19T08:05:29.517415+05:45.hyperlinks.json) |
-| [September 18 at 7:46 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-18T19:46:03.309476+05:45.hyperlinks.json) |
-| [September 18 at 8:12 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-18T08:11:56.702876+05:45.hyperlinks.json) |
-| [September 17 at 7:44 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-17T19:44:19.011406+05:45.hyperlinks.json) |
-| [September 17 at 8:09 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-17T08:09:42.367519+05:45.hyperlinks.json) |
-| [September 16 at 7:51 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-16T19:51:30.024462+05:45.hyperlinks.json) |
-| [September 16 at 8:10 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-16T08:10:08.497732+05:45.hyperlinks.json) |
-| [September 15 at 7:57 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-15T19:57:09.748948+05:45.hyperlinks.json) |
-| [September 15 at 8:12 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-15T08:12:49.212655+05:45.hyperlinks.json) |
+| [September 27 at 8:47 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-27T20:47:06.887654+05:45.hyperlinks.json) |
+| [September 27 at 9:17 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-27T09:17:12.664130+05:45.hyperlinks.json) |
+| [September 26 at 8:51 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-26T20:50:57.435297+05:45.hyperlinks.json) |
+| [September 26 at 9:24 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-26T09:24:02.089480+05:45.hyperlinks.json) |
+| [September 25 at 8:27 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-25T20:26:54.494738+05:45.hyperlinks.json) |
+| [September 25 at 9:17 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-25T09:17:33.296262+05:45.hyperlinks.json) |
+| [September 24 at 8:27 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-24T20:27:09.526528+05:45.hyperlinks.json) |
+| [September 24 at 9:18 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-24T09:18:34.534587+05:45.hyperlinks.json) |
+| [September 23 at 8:44 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-23T20:44:41.461123+05:45.hyperlinks.json) |
+| [September 23 at 9:25 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-23T09:25:27.667723+05:45.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 115 accessibility trees with the Internet Archive.
+The archiving routine has saved 131 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 7:51 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-19T19:51:19.853820+05:45.accessibility.json) |
-| [September 19 at 8:05 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-19T08:05:29.517415+05:45.accessibility.json) |
-| [September 18 at 7:46 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-18T19:46:03.309476+05:45.accessibility.json) |
-| [September 18 at 8:11 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-18T08:11:56.702876+05:45.accessibility.json) |
-| [September 17 at 7:44 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-17T19:44:19.011406+05:45.accessibility.json) |
-| [September 17 at 8:09 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-17T08:09:42.367519+05:45.accessibility.json) |
-| [September 16 at 7:51 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-16T19:51:30.024462+05:45.accessibility.json) |
-| [September 16 at 8:10 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-16T08:10:08.497732+05:45.accessibility.json) |
-| [September 15 at 7:57 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-15T19:57:09.748948+05:45.accessibility.json) |
-| [September 15 at 8:12 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-15T08:12:49.212655+05:45.accessibility.json) |
+| [September 27 at 8:47 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-27T20:47:06.887654+05:45.accessibility.json) |
+| [September 27 at 9:17 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-27T09:17:12.664130+05:45.accessibility.json) |
+| [September 26 at 8:51 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-26T20:50:57.435297+05:45.accessibility.json) |
+| [September 26 at 9:24 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-26T09:24:02.089480+05:45.accessibility.json) |
+| [September 25 at 8:27 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-25T20:26:54.494738+05:45.accessibility.json) |
+| [September 25 at 9:17 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-25T09:17:33.296262+05:45.accessibility.json) |
+| [September 24 at 8:27 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-24T20:27:09.526528+05:45.accessibility.json) |
+| [September 24 at 9:18 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-24T09:18:34.534587+05:45.accessibility.json) |
+| [September 23 at 8:44 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-23T20:44:41.461123+05:45.accessibility.json) |
+| [September 23 at 9:25 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-23T09:25:27.667723+05:45.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 67 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 75 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 27 at 8:47 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-27T20:47:06.887654+05:45.lighthouse.json) |
+| [September 26 at 9:24 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-26T09:24:02.089480+05:45.lighthouse.json) |
+| [September 25 at 8:27 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-25T20:26:54.494738+05:45.lighthouse.json) |
+| [September 22 at 8:41 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-22T20:41:20.503289+05:45.lighthouse.json) |
+| [September 22 at 9:22 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-22T09:21:46.940275+05:45.lighthouse.json) |
+| [September 21 at 8:39 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-21T20:39:22.982833+05:45.lighthouse.json) |
+| [September 21 at 9:28 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-21T09:28:10.283651+05:45.lighthouse.json) |
+| [September 20 at 8:04 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-20T08:04:05.176722+05:45.lighthouse.json) |
 | [September 19 at 7:51 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-19T19:51:19.853820+05:45.lighthouse.json) |
 | [September 19 at 8:05 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-19T08:05:29.517415+05:45.lighthouse.json) |
-| [September 17 at 7:44 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-17T19:44:19.011406+05:45.lighthouse.json) |
-| [September 17 at 8:09 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-17T08:09:42.367519+05:45.lighthouse.json) |
-| [September 16 at 8:10 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-16T08:10:08.497732+05:45.lighthouse.json) |
-| [September 15 at 8:12 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-15T08:12:49.212655+05:45.lighthouse.json) |
-| [September 14 at 7:58 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-14T19:58:07.090984+05:45.lighthouse.json) |
-| [September 14 at 8:10 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-14T08:10:08.035376+05:45.lighthouse.json) |
-| [September 13 at 8:10 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-13T08:10:35.578976+05:45.lighthouse.json) |
-| [September 11 at 7:10 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-11T07:09:49.703507+05:45.lighthouse.json) |
 
 
 
