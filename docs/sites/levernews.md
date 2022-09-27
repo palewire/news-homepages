@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 78 screenshots with the Internet Archive.
+The archiving routine has saved 101 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/levernews-2022/levernews-2022-09-19T12:33:49.025471-06:00.jpg">
-  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-19T12:33:49.025471-06:00.jpg"
-     alt="Lever at 2022-09-19 12:33:55-06:00 local time"
+ <a href="https://archive.org/download/levernews-2022/levernews-2022-09-27T07:01:16.318497-06:00.jpg">
+  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-27T07:01:16.318497-06:00.jpg"
+     alt="Lever at 2022-09-27 07:01:18-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-19T12:33:49.025471-06:00.jpg">September 19 at 12:33 PM</a></p>
+ <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-27T07:01:16.318497-06:00.jpg">September 27 at 7:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/levernews-2022/levernews-2022-09-19T06:54:25.575032-06:00.jpg">
-  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-19T06:54:25.575032-06:00.jpg"
-     alt="Lever at 2022-09-19 06:54:26-06:00 local time"
+ <a href="https://archive.org/download/levernews-2022/levernews-2022-09-26T19:11:32.427922-06:00.jpg">
+  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-26T19:11:32.427922-06:00.jpg"
+     alt="Lever at 2022-09-26 19:11:34-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-19T06:54:25.575032-06:00.jpg">September 19 at 6:54 AM</a></p>
+ <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-26T19:11:32.427922-06:00.jpg">September 26 at 7:11 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/levernews-2022/levernews-2022-09-18T19:10:16.763796-06:00.jpg">
-  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-18T19:10:16.763796-06:00.jpg"
-     alt="Lever at 2022-09-18 19:10:18-06:00 local time"
+ <a href="https://archive.org/download/levernews-2022/levernews-2022-09-26T13:50:09.696226-06:00.jpg">
+  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-26T13:50:09.696226-06:00.jpg"
+     alt="Lever at 2022-09-26 13:50:10-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-18T19:10:16.763796-06:00.jpg">September 18 at 7:10 PM</a></p>
+ <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-26T13:50:09.696226-06:00.jpg">September 26 at 1:50 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/levernews-2022/levernews-2022-09-18T12:30:01.881655-06:00.jpg">
-  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-18T12:30:01.881655-06:00.jpg"
-     alt="Lever at 2022-09-18 12:30:05-06:00 local time"
+ <a href="https://archive.org/download/levernews-2022/levernews-2022-09-26T07:01:22.522370-06:00.jpg">
+  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-26T07:01:22.522370-06:00.jpg"
+     alt="Lever at 2022-09-26 07:01:24-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-18T12:30:01.881655-06:00.jpg">September 18 at 12:30 PM</a></p>
+ <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-26T07:01:22.522370-06:00.jpg">September 26 at 7:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/levernews-2022/levernews-2022-09-18T06:00:52.482580-06:00.jpg">
-  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-18T06:00:52.482580-06:00.jpg"
-     alt="Lever at 2022-09-18 06:00:55-06:00 local time"
+ <a href="https://archive.org/download/levernews-2022/levernews-2022-09-25T19:13:50.690137-06:00.jpg">
+  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-25T19:13:50.690137-06:00.jpg"
+     alt="Lever at 2022-09-25 19:13:52-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-18T06:00:52.482580-06:00.jpg">September 18 at 6:00 AM</a></p>
+ <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-25T19:13:50.690137-06:00.jpg">September 25 at 7:13 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/levernews-2022/levernews-2022-09-17T17:54:17.839190-06:00.jpg">
-  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-17T17:54:17.839190-06:00.jpg"
-     alt="Lever at 2022-09-17 17:54:21-06:00 local time"
+ <a href="https://archive.org/download/levernews-2022/levernews-2022-09-25T13:04:38.607804-06:00.jpg">
+  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-25T13:04:38.607804-06:00.jpg"
+     alt="Lever at 2022-09-25 13:04:43-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-17T17:54:17.839190-06:00.jpg">September 17 at 5:54 PM</a></p>
+ <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-25T13:04:38.607804-06:00.jpg">September 25 at 1:04 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/levernews-2022/levernews-2022-09-17T12:31:13.217161-06:00.jpg">
-  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-17T12:31:13.217161-06:00.jpg"
-     alt="Lever at 2022-09-17 12:31:16-06:00 local time"
+ <a href="https://archive.org/download/levernews-2022/levernews-2022-09-25T06:59:35.708390-06:00.jpg">
+  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-25T06:59:35.708390-06:00.jpg"
+     alt="Lever at 2022-09-25 06:59:39-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-17T12:31:13.217161-06:00.jpg">September 17 at 12:31 PM</a></p>
+ <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-25T06:59:35.708390-06:00.jpg">September 25 at 6:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/levernews-2022/levernews-2022-09-17T06:00:58.188961-06:00.jpg">
-  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-17T06:00:58.188961-06:00.jpg"
-     alt="Lever at 2022-09-17 06:01:00-06:00 local time"
+ <a href="https://archive.org/download/levernews-2022/levernews-2022-09-24T19:05:45.387362-06:00.jpg">
+  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-24T19:05:45.387362-06:00.jpg"
+     alt="Lever at 2022-09-24 19:05:48-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-17T06:00:58.188961-06:00.jpg">September 17 at 6:01 AM</a></p>
+ <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-24T19:05:45.387362-06:00.jpg">September 24 at 7:05 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/levernews-2022/levernews-2022-09-16T17:54:20.983549-06:00.jpg">
-  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-16T17:54:20.983549-06:00.jpg"
-     alt="Lever at 2022-09-16 17:54:22-06:00 local time"
+ <a href="https://archive.org/download/levernews-2022/levernews-2022-09-24T13:01:30.289411-06:00.jpg">
+  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-24T13:01:30.289411-06:00.jpg"
+     alt="Lever at 2022-09-24 13:01:36-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-16T17:54:20.983549-06:00.jpg">September 16 at 5:54 PM</a></p>
+ <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-24T13:01:30.289411-06:00.jpg">September 24 at 1:01 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/levernews-2022/levernews-2022-09-16T12:32:02.544121-06:00.jpg">
-  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-16T12:32:02.544121-06:00.jpg"
-     alt="Lever at 2022-09-16 12:32:05-06:00 local time"
+ <a href="https://archive.org/download/levernews-2022/levernews-2022-09-24T06:54:16.361668-06:00.jpg">
+  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-24T06:54:16.361668-06:00.jpg"
+     alt="Lever at 2022-09-24 06:54:17-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-16T12:32:02.544121-06:00.jpg">September 16 at 12:32 PM</a></p>
+ <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-24T06:54:16.361668-06:00.jpg">September 24 at 6:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/levernews-2022/levernews-2022-09-16T06:00:47.857597-06:00.jpg">
-  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-16T06:00:47.857597-06:00.jpg"
-     alt="Lever at 2022-09-16 06:00:50-06:00 local time"
+ <a href="https://archive.org/download/levernews-2022/levernews-2022-09-23T19:11:30.593298-06:00.jpg">
+  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-23T19:11:30.593298-06:00.jpg"
+     alt="Lever at 2022-09-23 19:11:35-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-16T06:00:47.857597-06:00.jpg">September 16 at 6:00 AM</a></p>
+ <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-23T19:11:30.593298-06:00.jpg">September 23 at 7:11 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/levernews-2022/levernews-2022-09-15T17:54:28.978310-06:00.jpg">
-  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-15T17:54:28.978310-06:00.jpg"
-     alt="Lever at 2022-09-15 17:54:33-06:00 local time"
+ <a href="https://archive.org/download/levernews-2022/levernews-2022-09-23T13:23:20.597738-06:00.jpg">
+  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-23T13:23:20.597738-06:00.jpg"
+     alt="Lever at 2022-09-23 13:23:21-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-15T17:54:28.978310-06:00.jpg">September 15 at 5:54 PM</a></p>
+ <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-23T13:23:20.597738-06:00.jpg">September 23 at 1:23 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 78 hyperlink lists with the Internet Archive.
+The archiving routine has saved 101 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 12:34 PM](https://archive.org/download/levernews-2022/levernews-2022-09-19T12:33:49.025471-06:00.hyperlinks.json) |
-| [September 19 at 6:54 AM](https://archive.org/download/levernews-2022/levernews-2022-09-19T06:54:25.575032-06:00.hyperlinks.json) |
-| [September 18 at 7:10 PM](https://archive.org/download/levernews-2022/levernews-2022-09-18T19:10:16.763796-06:00.hyperlinks.json) |
-| [September 18 at 12:30 PM](https://archive.org/download/levernews-2022/levernews-2022-09-18T12:30:01.881655-06:00.hyperlinks.json) |
-| [September 18 at 6:00 AM](https://archive.org/download/levernews-2022/levernews-2022-09-18T06:00:52.482580-06:00.hyperlinks.json) |
-| [September 17 at 5:54 PM](https://archive.org/download/levernews-2022/levernews-2022-09-17T17:54:17.839190-06:00.hyperlinks.json) |
-| [September 17 at 12:31 PM](https://archive.org/download/levernews-2022/levernews-2022-09-17T12:31:13.217161-06:00.hyperlinks.json) |
-| [September 17 at 6:01 AM](https://archive.org/download/levernews-2022/levernews-2022-09-17T06:00:58.188961-06:00.hyperlinks.json) |
-| [September 16 at 5:54 PM](https://archive.org/download/levernews-2022/levernews-2022-09-16T17:54:20.983549-06:00.hyperlinks.json) |
-| [September 16 at 12:32 PM](https://archive.org/download/levernews-2022/levernews-2022-09-16T12:32:02.544121-06:00.hyperlinks.json) |
+| [September 27 at 7:01 AM](https://archive.org/download/levernews-2022/levernews-2022-09-27T07:01:16.318497-06:00.hyperlinks.json) |
+| [September 26 at 7:11 PM](https://archive.org/download/levernews-2022/levernews-2022-09-26T19:11:32.427922-06:00.hyperlinks.json) |
+| [September 26 at 1:50 PM](https://archive.org/download/levernews-2022/levernews-2022-09-26T13:50:09.696226-06:00.hyperlinks.json) |
+| [September 26 at 7:01 AM](https://archive.org/download/levernews-2022/levernews-2022-09-26T07:01:22.522370-06:00.hyperlinks.json) |
+| [September 25 at 7:13 PM](https://archive.org/download/levernews-2022/levernews-2022-09-25T19:13:50.690137-06:00.hyperlinks.json) |
+| [September 25 at 1:04 PM](https://archive.org/download/levernews-2022/levernews-2022-09-25T13:04:38.607804-06:00.hyperlinks.json) |
+| [September 25 at 6:59 AM](https://archive.org/download/levernews-2022/levernews-2022-09-25T06:59:35.708390-06:00.hyperlinks.json) |
+| [September 24 at 7:05 PM](https://archive.org/download/levernews-2022/levernews-2022-09-24T19:05:45.387362-06:00.hyperlinks.json) |
+| [September 24 at 1:01 PM](https://archive.org/download/levernews-2022/levernews-2022-09-24T13:01:30.289411-06:00.hyperlinks.json) |
+| [September 24 at 6:54 AM](https://archive.org/download/levernews-2022/levernews-2022-09-24T06:54:16.361668-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 78 accessibility trees with the Internet Archive.
+The archiving routine has saved 101 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 12:33 PM](https://archive.org/download/levernews-2022/levernews-2022-09-19T12:33:49.025471-06:00.accessibility.json) |
-| [September 19 at 6:54 AM](https://archive.org/download/levernews-2022/levernews-2022-09-19T06:54:25.575032-06:00.accessibility.json) |
-| [September 18 at 7:10 PM](https://archive.org/download/levernews-2022/levernews-2022-09-18T19:10:16.763796-06:00.accessibility.json) |
-| [September 18 at 12:30 PM](https://archive.org/download/levernews-2022/levernews-2022-09-18T12:30:01.881655-06:00.accessibility.json) |
-| [September 18 at 6:00 AM](https://archive.org/download/levernews-2022/levernews-2022-09-18T06:00:52.482580-06:00.accessibility.json) |
-| [September 17 at 5:54 PM](https://archive.org/download/levernews-2022/levernews-2022-09-17T17:54:17.839190-06:00.accessibility.json) |
-| [September 17 at 12:31 PM](https://archive.org/download/levernews-2022/levernews-2022-09-17T12:31:13.217161-06:00.accessibility.json) |
-| [September 17 at 6:01 AM](https://archive.org/download/levernews-2022/levernews-2022-09-17T06:00:58.188961-06:00.accessibility.json) |
-| [September 16 at 5:54 PM](https://archive.org/download/levernews-2022/levernews-2022-09-16T17:54:20.983549-06:00.accessibility.json) |
-| [September 16 at 12:32 PM](https://archive.org/download/levernews-2022/levernews-2022-09-16T12:32:02.544121-06:00.accessibility.json) |
+| [September 27 at 7:01 AM](https://archive.org/download/levernews-2022/levernews-2022-09-27T07:01:16.318497-06:00.accessibility.json) |
+| [September 26 at 7:11 PM](https://archive.org/download/levernews-2022/levernews-2022-09-26T19:11:32.427922-06:00.accessibility.json) |
+| [September 26 at 1:50 PM](https://archive.org/download/levernews-2022/levernews-2022-09-26T13:50:09.696226-06:00.accessibility.json) |
+| [September 26 at 7:01 AM](https://archive.org/download/levernews-2022/levernews-2022-09-26T07:01:22.522370-06:00.accessibility.json) |
+| [September 25 at 7:13 PM](https://archive.org/download/levernews-2022/levernews-2022-09-25T19:13:50.690137-06:00.accessibility.json) |
+| [September 25 at 1:04 PM](https://archive.org/download/levernews-2022/levernews-2022-09-25T13:04:38.607804-06:00.accessibility.json) |
+| [September 25 at 6:59 AM](https://archive.org/download/levernews-2022/levernews-2022-09-25T06:59:35.708390-06:00.accessibility.json) |
+| [September 24 at 7:05 PM](https://archive.org/download/levernews-2022/levernews-2022-09-24T19:05:45.387362-06:00.accessibility.json) |
+| [September 24 at 1:01 PM](https://archive.org/download/levernews-2022/levernews-2022-09-24T13:01:30.289411-06:00.accessibility.json) |
+| [September 24 at 6:54 AM](https://archive.org/download/levernews-2022/levernews-2022-09-24T06:54:16.361668-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 79 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 102 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 12:34 PM](https://archive.org/download/levernews-2022/levernews-2022-09-19T12:33:49.025471-06:00.lighthouse.json) |
-| [September 19 at 6:54 AM](https://archive.org/download/levernews-2022/levernews-2022-09-19T06:54:25.575032-06:00.lighthouse.json) |
-| [September 18 at 7:10 PM](https://archive.org/download/levernews-2022/levernews-2022-09-18T19:10:16.763796-06:00.lighthouse.json) |
-| [September 18 at 12:30 PM](https://archive.org/download/levernews-2022/levernews-2022-09-18T12:30:01.881655-06:00.lighthouse.json) |
-| [September 18 at 6:01 AM](https://archive.org/download/levernews-2022/levernews-2022-09-18T06:00:52.482580-06:00.lighthouse.json) |
-| [September 17 at 5:54 PM](https://archive.org/download/levernews-2022/levernews-2022-09-17T17:54:17.839190-06:00.lighthouse.json) |
-| [September 17 at 12:31 PM](https://archive.org/download/levernews-2022/levernews-2022-09-17T12:31:13.217161-06:00.lighthouse.json) |
-| [September 17 at 6:01 AM](https://archive.org/download/levernews-2022/levernews-2022-09-17T06:00:58.188961-06:00.lighthouse.json) |
-| [September 16 at 5:54 PM](https://archive.org/download/levernews-2022/levernews-2022-09-16T17:54:20.983549-06:00.lighthouse.json) |
-| [September 16 at 12:32 PM](https://archive.org/download/levernews-2022/levernews-2022-09-16T12:32:02.544121-06:00.lighthouse.json) |
+| [September 27 at 7:01 AM](https://archive.org/download/levernews-2022/levernews-2022-09-27T07:01:16.318497-06:00.lighthouse.json) |
+| [September 26 at 7:11 PM](https://archive.org/download/levernews-2022/levernews-2022-09-26T19:11:32.427922-06:00.lighthouse.json) |
+| [September 26 at 1:50 PM](https://archive.org/download/levernews-2022/levernews-2022-09-26T13:50:09.696226-06:00.lighthouse.json) |
+| [September 26 at 7:01 AM](https://archive.org/download/levernews-2022/levernews-2022-09-26T07:01:22.522370-06:00.lighthouse.json) |
+| [September 25 at 7:13 PM](https://archive.org/download/levernews-2022/levernews-2022-09-25T19:13:50.690137-06:00.lighthouse.json) |
+| [September 25 at 1:04 PM](https://archive.org/download/levernews-2022/levernews-2022-09-25T13:04:38.607804-06:00.lighthouse.json) |
+| [September 25 at 6:59 AM](https://archive.org/download/levernews-2022/levernews-2022-09-25T06:59:35.708390-06:00.lighthouse.json) |
+| [September 24 at 7:05 PM](https://archive.org/download/levernews-2022/levernews-2022-09-24T19:05:45.387362-06:00.lighthouse.json) |
+| [September 24 at 1:01 PM](https://archive.org/download/levernews-2022/levernews-2022-09-24T13:01:30.289411-06:00.lighthouse.json) |
+| [September 24 at 6:54 AM](https://archive.org/download/levernews-2022/levernews-2022-09-24T06:54:16.361668-06:00.lighthouse.json) |
 
 
 

@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 95 screenshots with the Internet Archive.
+The archiving routine has saved 112 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-19T07:54:19.208012-05:00.jpg">
-  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-09-19T07:54:19.208012-05:00.jpg"
-     alt="Lawrence Journal-World at 2022-09-19 07:54:20-05:00 local time"
+ <a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-27T08:00:40.484756-05:00.jpg">
+  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-09-27T08:00:40.484756-05:00.jpg"
+     alt="Lawrence Journal-World at 2022-09-27 08:00:42-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-19T07:54:19.208012-05:00.jpg">September 19 at 7:54 AM</a></p>
+ <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-27T08:00:40.484756-05:00.jpg">September 27 at 8:00 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-18T20:10:07.942785-05:00.jpg">
-  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-09-18T20:10:07.942785-05:00.jpg"
-     alt="Lawrence Journal-World at 2022-09-18 20:10:09-05:00 local time"
+ <a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-26T20:11:39.737912-05:00.jpg">
+  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-09-26T20:11:39.737912-05:00.jpg"
+     alt="Lawrence Journal-World at 2022-09-26 20:11:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-18T20:10:07.942785-05:00.jpg">September 18 at 8:10 PM</a></p>
+ <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-26T20:11:39.737912-05:00.jpg">September 26 at 8:11 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-18T07:00:57.333571-05:00.jpg">
-  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-09-18T07:00:57.333571-05:00.jpg"
-     alt="Lawrence Journal-World at 2022-09-18 07:01:01-05:00 local time"
+ <a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-26T08:01:18.424722-05:00.jpg">
+  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-09-26T08:01:18.424722-05:00.jpg"
+     alt="Lawrence Journal-World at 2022-09-26 08:01:22-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-18T07:00:57.333571-05:00.jpg">September 18 at 7:01 AM</a></p>
+ <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-26T08:01:18.424722-05:00.jpg">September 26 at 8:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-17T18:55:03.335584-05:00.jpg">
-  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-09-17T18:55:03.335584-05:00.jpg"
-     alt="Lawrence Journal-World at 2022-09-17 18:55:10-05:00 local time"
+ <a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-25T20:14:08.625098-05:00.jpg">
+  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-09-25T20:14:08.625098-05:00.jpg"
+     alt="Lawrence Journal-World at 2022-09-25 20:14:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-17T18:55:03.335584-05:00.jpg">September 17 at 6:55 PM</a></p>
+ <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-25T20:14:08.625098-05:00.jpg">September 25 at 8:14 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-17T07:01:08.037106-05:00.jpg">
-  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-09-17T07:01:08.037106-05:00.jpg"
-     alt="Lawrence Journal-World at 2022-09-17 07:01:09-05:00 local time"
+ <a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-25T07:59:07.284011-05:00.jpg">
+  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-09-25T07:59:07.284011-05:00.jpg"
+     alt="Lawrence Journal-World at 2022-09-25 07:59:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-17T07:01:08.037106-05:00.jpg">September 17 at 7:01 AM</a></p>
+ <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-25T07:59:07.284011-05:00.jpg">September 25 at 7:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-16T18:54:21.238743-05:00.jpg">
-  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-09-16T18:54:21.238743-05:00.jpg"
-     alt="Lawrence Journal-World at 2022-09-16 18:54:30-05:00 local time"
+ <a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-24T20:05:40.871314-05:00.jpg">
+  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-09-24T20:05:40.871314-05:00.jpg"
+     alt="Lawrence Journal-World at 2022-09-24 20:05:50-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-16T18:54:21.238743-05:00.jpg">September 16 at 6:54 PM</a></p>
+ <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-24T20:05:40.871314-05:00.jpg">September 24 at 8:05 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-16T07:01:32.172628-05:00.jpg">
-  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-09-16T07:01:32.172628-05:00.jpg"
-     alt="Lawrence Journal-World at 2022-09-16 07:01:37-05:00 local time"
+ <a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-24T07:54:13.545753-05:00.jpg">
+  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-09-24T07:54:13.545753-05:00.jpg"
+     alt="Lawrence Journal-World at 2022-09-24 07:54:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-16T07:01:32.172628-05:00.jpg">September 16 at 7:01 AM</a></p>
+ <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-24T07:54:13.545753-05:00.jpg">September 24 at 7:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-15T18:54:01.733443-05:00.jpg">
-  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-09-15T18:54:01.733443-05:00.jpg"
-     alt="Lawrence Journal-World at 2022-09-15 18:54:06-05:00 local time"
+ <a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-23T20:11:41.550754-05:00.jpg">
+  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-09-23T20:11:41.550754-05:00.jpg"
+     alt="Lawrence Journal-World at 2022-09-23 20:11:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-15T18:54:01.733443-05:00.jpg">September 15 at 6:54 PM</a></p>
+ <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-23T20:11:41.550754-05:00.jpg">September 23 at 8:11 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-15T07:03:37.211026-05:00.jpg">
-  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-09-15T07:03:37.211026-05:00.jpg"
-     alt="Lawrence Journal-World at 2022-09-15 07:03:38-05:00 local time"
+ <a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-23T07:57:59.187017-05:00.jpg">
+  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-09-23T07:57:59.187017-05:00.jpg"
+     alt="Lawrence Journal-World at 2022-09-23 07:58:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-15T07:03:37.211026-05:00.jpg">September 15 at 7:03 AM</a></p>
+ <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-23T07:57:59.187017-05:00.jpg">September 23 at 7:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-14T19:01:55.727586-05:00.jpg">
-  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-09-14T19:01:55.727586-05:00.jpg"
-     alt="Lawrence Journal-World at 2022-09-14 19:02:00-05:00 local time"
+ <a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-22T20:12:52.183798-05:00.jpg">
+  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-09-22T20:12:52.183798-05:00.jpg"
+     alt="Lawrence Journal-World at 2022-09-22 20:12:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-14T19:01:55.727586-05:00.jpg">September 14 at 7:02 PM</a></p>
+ <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-22T20:12:52.183798-05:00.jpg">September 22 at 8:12 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-14T07:04:22.280447-05:00.jpg">
-  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-09-14T07:04:22.280447-05:00.jpg"
-     alt="Lawrence Journal-World at 2022-09-14 07:04:26-05:00 local time"
+ <a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-22T08:02:48.823906-05:00.jpg">
+  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-09-22T08:02:48.823906-05:00.jpg"
+     alt="Lawrence Journal-World at 2022-09-22 08:02:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-14T07:04:22.280447-05:00.jpg">September 14 at 7:04 AM</a></p>
+ <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-22T08:02:48.823906-05:00.jpg">September 22 at 8:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-13T18:59:07.542189-05:00.jpg">
-  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-09-13T18:59:07.542189-05:00.jpg"
-     alt="Lawrence Journal-World at 2022-09-13 18:59:11-05:00 local time"
+ <a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-21T20:08:25.264501-05:00.jpg">
+  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-09-21T20:08:25.264501-05:00.jpg"
+     alt="Lawrence Journal-World at 2022-09-21 20:08:30-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-13T18:59:07.542189-05:00.jpg">September 13 at 6:59 PM</a></p>
+ <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-09-21T20:08:25.264501-05:00.jpg">September 21 at 8:08 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 95 hyperlink lists with the Internet Archive.
+The archiving routine has saved 112 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 7:54 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-19T07:54:19.208012-05:00.hyperlinks.json) |
-| [September 18 at 8:10 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-18T20:10:07.942785-05:00.hyperlinks.json) |
-| [September 18 at 7:01 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-18T07:00:57.333571-05:00.hyperlinks.json) |
-| [September 17 at 6:55 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-17T18:55:03.335584-05:00.hyperlinks.json) |
-| [September 17 at 7:01 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-17T07:01:08.037106-05:00.hyperlinks.json) |
-| [September 16 at 6:54 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-16T18:54:21.238743-05:00.hyperlinks.json) |
-| [September 16 at 7:01 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-16T07:01:32.172628-05:00.hyperlinks.json) |
-| [September 15 at 6:54 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-15T18:54:01.733443-05:00.hyperlinks.json) |
-| [September 15 at 7:03 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-15T07:03:37.211026-05:00.hyperlinks.json) |
-| [September 14 at 7:02 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-14T19:01:55.727586-05:00.hyperlinks.json) |
+| [September 27 at 8:00 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-27T08:00:40.484756-05:00.hyperlinks.json) |
+| [September 26 at 8:11 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-26T20:11:39.737912-05:00.hyperlinks.json) |
+| [September 26 at 8:01 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-26T08:01:18.424722-05:00.hyperlinks.json) |
+| [September 25 at 8:14 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-25T20:14:08.625098-05:00.hyperlinks.json) |
+| [September 25 at 7:59 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-25T07:59:07.284011-05:00.hyperlinks.json) |
+| [September 24 at 8:05 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-24T20:05:40.871314-05:00.hyperlinks.json) |
+| [September 24 at 7:54 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-24T07:54:13.545753-05:00.hyperlinks.json) |
+| [September 23 at 8:11 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-23T20:11:41.550754-05:00.hyperlinks.json) |
+| [September 23 at 7:58 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-23T07:57:59.187017-05:00.hyperlinks.json) |
+| [September 22 at 8:12 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-22T20:12:52.183798-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 96 accessibility trees with the Internet Archive.
+The archiving routine has saved 113 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 7:54 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-19T07:54:19.208012-05:00.accessibility.json) |
-| [September 18 at 8:10 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-18T20:10:07.942785-05:00.accessibility.json) |
-| [September 18 at 7:01 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-18T07:00:57.333571-05:00.accessibility.json) |
-| [September 17 at 6:55 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-17T18:55:03.335584-05:00.accessibility.json) |
-| [September 17 at 7:01 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-17T07:01:08.037106-05:00.accessibility.json) |
-| [September 16 at 6:54 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-16T18:54:21.238743-05:00.accessibility.json) |
-| [September 16 at 7:01 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-16T07:01:32.172628-05:00.accessibility.json) |
-| [September 15 at 6:54 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-15T18:54:01.733443-05:00.accessibility.json) |
-| [September 15 at 7:03 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-15T07:03:37.211026-05:00.accessibility.json) |
-| [September 14 at 7:02 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-14T19:01:55.727586-05:00.accessibility.json) |
+| [September 27 at 8:00 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-27T08:00:40.484756-05:00.accessibility.json) |
+| [September 26 at 8:11 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-26T20:11:39.737912-05:00.accessibility.json) |
+| [September 26 at 8:01 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-26T08:01:18.424722-05:00.accessibility.json) |
+| [September 25 at 8:14 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-25T20:14:08.625098-05:00.accessibility.json) |
+| [September 25 at 7:59 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-25T07:59:07.284011-05:00.accessibility.json) |
+| [September 24 at 8:05 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-24T20:05:40.871314-05:00.accessibility.json) |
+| [September 24 at 7:54 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-24T07:54:13.545753-05:00.accessibility.json) |
+| [September 23 at 8:11 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-23T20:11:41.550754-05:00.accessibility.json) |
+| [September 23 at 7:58 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-23T07:57:59.187017-05:00.accessibility.json) |
+| [September 22 at 8:12 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-22T20:12:52.183798-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 96 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 113 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 7:54 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-19T07:54:19.208012-05:00.lighthouse.json) |
-| [September 18 at 8:10 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-18T20:10:07.942785-05:00.lighthouse.json) |
-| [September 18 at 7:01 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-18T07:00:57.333571-05:00.lighthouse.json) |
-| [September 17 at 6:55 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-17T18:55:03.335584-05:00.lighthouse.json) |
-| [September 17 at 7:01 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-17T07:01:08.037106-05:00.lighthouse.json) |
-| [September 16 at 6:54 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-16T18:54:21.238743-05:00.lighthouse.json) |
-| [September 16 at 7:01 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-16T07:01:32.172628-05:00.lighthouse.json) |
-| [September 15 at 6:54 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-15T18:54:01.733443-05:00.lighthouse.json) |
-| [September 15 at 7:03 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-15T07:03:37.211026-05:00.lighthouse.json) |
-| [September 14 at 7:02 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-14T19:01:55.727586-05:00.lighthouse.json) |
+| [September 27 at 8:00 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-27T08:00:40.484756-05:00.lighthouse.json) |
+| [September 26 at 8:11 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-26T20:11:39.737912-05:00.lighthouse.json) |
+| [September 26 at 8:01 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-26T08:01:18.424722-05:00.lighthouse.json) |
+| [September 25 at 8:14 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-25T20:14:08.625098-05:00.lighthouse.json) |
+| [September 25 at 7:59 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-25T07:59:07.284011-05:00.lighthouse.json) |
+| [September 24 at 8:05 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-24T20:05:40.871314-05:00.lighthouse.json) |
+| [September 24 at 7:54 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-24T07:54:13.545753-05:00.lighthouse.json) |
+| [September 23 at 8:11 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-23T20:11:41.550754-05:00.lighthouse.json) |
+| [September 23 at 7:58 AM](https://archive.org/download/ljworld-2022/ljworld-2022-09-23T07:57:59.187017-05:00.lighthouse.json) |
+| [September 22 at 8:13 PM](https://archive.org/download/ljworld-2022/ljworld-2022-09-22T20:12:52.183798-05:00.lighthouse.json) |
 
 
 

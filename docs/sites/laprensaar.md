@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 83 screenshots with the Internet Archive.
+The archiving routine has saved 100 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-19T09:54:15.669648-03:00.jpg">
-  <img src="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-19T09:54:15.669648-03:00.jpg"
-     alt="La Prensa at 2022-09-19 09:54:20-03:00 local time"
+ <a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-27T09:59:43.063796-03:00.jpg">
+  <img src="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-27T09:59:43.063796-03:00.jpg"
+     alt="La Prensa at 2022-09-27 09:59:44-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-19T09:54:15.669648-03:00.jpg">September 19 at 9:54 AM</a></p>
+ <p><a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-27T09:59:43.063796-03:00.jpg">September 27 at 9:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-18T22:10:54.249209-03:00.jpg">
-  <img src="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-18T22:10:54.249209-03:00.jpg"
-     alt="La Prensa at 2022-09-18 22:10:55-03:00 local time"
+ <a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-26T22:09:48.074420-03:00.jpg">
+  <img src="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-26T22:09:48.074420-03:00.jpg"
+     alt="La Prensa at 2022-09-26 22:09:49-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-18T22:10:54.249209-03:00.jpg">September 18 at 10:10 PM</a></p>
+ <p><a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-26T22:09:48.074420-03:00.jpg">September 26 at 10:09 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-18T09:00:51.109203-03:00.jpg">
-  <img src="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-18T09:00:51.109203-03:00.jpg"
-     alt="La Prensa at 2022-09-18 09:00:56-03:00 local time"
+ <a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-26T09:58:48.129959-03:00.jpg">
+  <img src="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-26T09:58:48.129959-03:00.jpg"
+     alt="La Prensa at 2022-09-26 09:58:52-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-18T09:00:51.109203-03:00.jpg">September 18 at 9:00 AM</a></p>
+ <p><a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-26T09:58:48.129959-03:00.jpg">September 26 at 9:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-17T20:54:44.340273-03:00.jpg">
-  <img src="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-17T20:54:44.340273-03:00.jpg"
-     alt="La Prensa at 2022-09-17 20:54:51-03:00 local time"
+ <a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-25T22:11:51.515889-03:00.jpg">
+  <img src="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-25T22:11:51.515889-03:00.jpg"
+     alt="La Prensa at 2022-09-25 22:11:53-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-17T20:54:44.340273-03:00.jpg">September 17 at 8:54 PM</a></p>
+ <p><a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-25T22:11:51.515889-03:00.jpg">September 25 at 10:11 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-17T09:01:37.095421-03:00.jpg">
-  <img src="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-17T09:01:37.095421-03:00.jpg"
-     alt="La Prensa at 2022-09-17 09:01:38-03:00 local time"
+ <a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-25T09:57:11.893574-03:00.jpg">
+  <img src="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-25T09:57:11.893574-03:00.jpg"
+     alt="La Prensa at 2022-09-25 09:57:20-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-17T09:01:37.095421-03:00.jpg">September 17 at 9:01 AM</a></p>
+ <p><a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-25T09:57:11.893574-03:00.jpg">September 25 at 9:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-16T20:54:13.738281-03:00.jpg">
-  <img src="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-16T20:54:13.738281-03:00.jpg"
-     alt="La Prensa at 2022-09-16 20:54:18-03:00 local time"
+ <a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-24T22:04:30.583664-03:00.jpg">
+  <img src="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-24T22:04:30.583664-03:00.jpg"
+     alt="La Prensa at 2022-09-24 22:04:51-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-16T20:54:13.738281-03:00.jpg">September 16 at 8:54 PM</a></p>
+ <p><a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-24T22:04:30.583664-03:00.jpg">September 24 at 10:04 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-16T09:00:40.168319-03:00.jpg">
-  <img src="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-16T09:00:40.168319-03:00.jpg"
-     alt="La Prensa at 2022-09-16 09:00:41-03:00 local time"
+ <a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-24T09:51:59.364840-03:00.jpg">
+  <img src="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-24T09:51:59.364840-03:00.jpg"
+     alt="La Prensa at 2022-09-24 09:52:00-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-16T09:00:40.168319-03:00.jpg">September 16 at 9:00 AM</a></p>
+ <p><a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-24T09:51:59.364840-03:00.jpg">September 24 at 9:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-15T20:53:57.677373-03:00.jpg">
-  <img src="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-15T20:53:57.677373-03:00.jpg"
-     alt="La Prensa at 2022-09-15 20:54:03-03:00 local time"
+ <a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-23T22:09:57.143549-03:00.jpg">
+  <img src="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-23T22:09:57.143549-03:00.jpg"
+     alt="La Prensa at 2022-09-23 22:10:02-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-15T20:53:57.677373-03:00.jpg">September 15 at 8:54 PM</a></p>
+ <p><a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-23T22:09:57.143549-03:00.jpg">September 23 at 10:10 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-15T09:02:29.518956-03:00.jpg">
-  <img src="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-15T09:02:29.518956-03:00.jpg"
-     alt="La Prensa at 2022-09-15 09:02:31-03:00 local time"
+ <a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-23T09:54:55.430497-03:00.jpg">
+  <img src="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-23T09:54:55.430497-03:00.jpg"
+     alt="La Prensa at 2022-09-23 09:54:57-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-15T09:02:29.518956-03:00.jpg">September 15 at 9:02 AM</a></p>
+ <p><a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-23T09:54:55.430497-03:00.jpg">September 23 at 9:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-14T21:02:59.724728-03:00.jpg">
-  <img src="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-14T21:02:59.724728-03:00.jpg"
-     alt="La Prensa at 2022-09-14 21:03:07-03:00 local time"
+ <a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-22T22:12:15.435235-03:00.jpg">
+  <img src="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-22T22:12:15.435235-03:00.jpg"
+     alt="La Prensa at 2022-09-22 22:12:20-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-14T21:02:59.724728-03:00.jpg">September 14 at 9:03 PM</a></p>
+ <p><a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-22T22:12:15.435235-03:00.jpg">September 22 at 10:12 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-14T09:05:02.008200-03:00.jpg">
-  <img src="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-14T09:05:02.008200-03:00.jpg"
-     alt="La Prensa at 2022-09-14 09:05:05-03:00 local time"
+ <a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-22T10:00:08.628891-03:00.jpg">
+  <img src="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-22T10:00:08.628891-03:00.jpg"
+     alt="La Prensa at 2022-09-22 10:00:11-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-14T09:05:02.008200-03:00.jpg">September 14 at 9:05 AM</a></p>
+ <p><a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-22T10:00:08.628891-03:00.jpg">September 22 at 10:00 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-13T20:57:21.394836-03:00.jpg">
-  <img src="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-13T20:57:21.394836-03:00.jpg"
-     alt="La Prensa at 2022-09-13 20:57:26-03:00 local time"
+ <a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-21T22:07:08.117578-03:00.jpg">
+  <img src="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-21T22:07:08.117578-03:00.jpg"
+     alt="La Prensa at 2022-09-21 22:07:12-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-13T20:57:21.394836-03:00.jpg">September 13 at 8:57 PM</a></p>
+ <p><a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-09-21T22:07:08.117578-03:00.jpg">September 21 at 10:07 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 82 hyperlink lists with the Internet Archive.
+The archiving routine has saved 99 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 9:54 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-19T09:54:15.669648-03:00.hyperlinks.json) |
-| [September 18 at 10:10 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-18T22:10:54.249209-03:00.hyperlinks.json) |
-| [September 18 at 9:01 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-18T09:00:51.109203-03:00.hyperlinks.json) |
-| [September 17 at 8:54 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-17T20:54:44.340273-03:00.hyperlinks.json) |
-| [September 17 at 9:01 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-17T09:01:37.095421-03:00.hyperlinks.json) |
-| [September 16 at 8:54 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-16T20:54:13.738281-03:00.hyperlinks.json) |
-| [September 16 at 9:00 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-16T09:00:40.168319-03:00.hyperlinks.json) |
-| [September 15 at 8:54 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-15T20:53:57.677373-03:00.hyperlinks.json) |
-| [September 15 at 9:02 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-15T09:02:29.518956-03:00.hyperlinks.json) |
-| [September 14 at 9:03 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-14T21:02:59.724728-03:00.hyperlinks.json) |
+| [September 27 at 9:59 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-27T09:59:43.063796-03:00.hyperlinks.json) |
+| [September 26 at 10:09 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-26T22:09:48.074420-03:00.hyperlinks.json) |
+| [September 26 at 9:58 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-26T09:58:48.129959-03:00.hyperlinks.json) |
+| [September 25 at 10:11 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-25T22:11:51.515889-03:00.hyperlinks.json) |
+| [September 25 at 9:57 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-25T09:57:11.893574-03:00.hyperlinks.json) |
+| [September 24 at 10:04 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-24T22:04:30.583664-03:00.hyperlinks.json) |
+| [September 24 at 9:52 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-24T09:51:59.364840-03:00.hyperlinks.json) |
+| [September 23 at 10:10 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-23T22:09:57.143549-03:00.hyperlinks.json) |
+| [September 23 at 9:55 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-23T09:54:55.430497-03:00.hyperlinks.json) |
+| [September 22 at 10:12 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-22T22:12:15.435235-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 83 accessibility trees with the Internet Archive.
+The archiving routine has saved 100 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 9:54 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-19T09:54:15.669648-03:00.accessibility.json) |
-| [September 18 at 10:10 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-18T22:10:54.249209-03:00.accessibility.json) |
-| [September 18 at 9:00 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-18T09:00:51.109203-03:00.accessibility.json) |
-| [September 17 at 8:54 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-17T20:54:44.340273-03:00.accessibility.json) |
-| [September 17 at 9:01 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-17T09:01:37.095421-03:00.accessibility.json) |
-| [September 16 at 8:54 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-16T20:54:13.738281-03:00.accessibility.json) |
-| [September 16 at 9:00 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-16T09:00:40.168319-03:00.accessibility.json) |
-| [September 15 at 8:54 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-15T20:53:57.677373-03:00.accessibility.json) |
-| [September 15 at 9:02 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-15T09:02:29.518956-03:00.accessibility.json) |
-| [September 14 at 9:03 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-14T21:02:59.724728-03:00.accessibility.json) |
+| [September 27 at 9:59 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-27T09:59:43.063796-03:00.accessibility.json) |
+| [September 26 at 10:09 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-26T22:09:48.074420-03:00.accessibility.json) |
+| [September 26 at 9:58 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-26T09:58:48.129959-03:00.accessibility.json) |
+| [September 25 at 10:11 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-25T22:11:51.515889-03:00.accessibility.json) |
+| [September 25 at 9:57 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-25T09:57:11.893574-03:00.accessibility.json) |
+| [September 24 at 10:04 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-24T22:04:30.583664-03:00.accessibility.json) |
+| [September 24 at 9:52 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-24T09:51:59.364840-03:00.accessibility.json) |
+| [September 23 at 10:10 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-23T22:09:57.143549-03:00.accessibility.json) |
+| [September 23 at 9:54 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-23T09:54:55.430497-03:00.accessibility.json) |
+| [September 22 at 10:12 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-22T22:12:15.435235-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 83 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 100 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 9:54 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-19T09:54:15.669648-03:00.lighthouse.json) |
-| [September 18 at 10:11 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-18T22:10:54.249209-03:00.lighthouse.json) |
-| [September 18 at 9:01 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-18T09:00:51.109203-03:00.lighthouse.json) |
-| [September 17 at 8:54 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-17T20:54:44.340273-03:00.lighthouse.json) |
-| [September 17 at 9:01 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-17T09:01:37.095421-03:00.lighthouse.json) |
-| [September 16 at 8:54 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-16T20:54:13.738281-03:00.lighthouse.json) |
-| [September 16 at 9:00 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-16T09:00:40.168319-03:00.lighthouse.json) |
-| [September 15 at 8:54 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-15T20:53:57.677373-03:00.lighthouse.json) |
-| [September 15 at 9:02 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-15T09:02:29.518956-03:00.lighthouse.json) |
-| [September 14 at 9:03 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-14T21:02:59.724728-03:00.lighthouse.json) |
+| [September 27 at 9:59 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-27T09:59:43.063796-03:00.lighthouse.json) |
+| [September 26 at 10:09 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-26T22:09:48.074420-03:00.lighthouse.json) |
+| [September 26 at 9:58 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-26T09:58:48.129959-03:00.lighthouse.json) |
+| [September 25 at 10:11 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-25T22:11:51.515889-03:00.lighthouse.json) |
+| [September 25 at 9:57 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-25T09:57:11.893574-03:00.lighthouse.json) |
+| [September 24 at 10:04 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-24T22:04:30.583664-03:00.lighthouse.json) |
+| [September 24 at 9:52 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-24T09:51:59.364840-03:00.lighthouse.json) |
+| [September 23 at 10:10 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-23T22:09:57.143549-03:00.lighthouse.json) |
+| [September 23 at 9:55 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-23T09:54:55.430497-03:00.lighthouse.json) |
+| [September 22 at 10:12 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-09-22T22:12:15.435235-03:00.lighthouse.json) |
 
 
 

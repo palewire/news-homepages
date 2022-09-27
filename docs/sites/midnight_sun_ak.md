@@ -28,8 +28,91 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 14 screenshots with the Internet Archive.
+The archiving routine has saved 31 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/midnight_sun_ak.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
@@ -37,180 +120,429 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-19T04:56:00.914308-08:00.jpg">
-  <img src="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-19T04:56:00.914308-08:00.jpg"
-     alt="Midnight Sun at 2022-09-19 04:56:03-08:00 local time"
+ <a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-27T05:00:37.410100-08:00.jpg">
+  <img src="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-27T05:00:37.410100-08:00.jpg"
+     alt="Midnight Sun at 2022-09-27 05:00:39-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-19T04:56:00.914308-08:00.jpg">September 19 at 4:56 AM</a></p>
+ <p><a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-27T05:00:37.410100-08:00.jpg">September 27 at 5:00 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-18T17:12:10.700605-08:00.jpg">
-  <img src="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-18T17:12:10.700605-08:00.jpg"
-     alt="Midnight Sun at 2022-09-18 17:12:12-08:00 local time"
+ <a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-26T17:11:42.066676-08:00.jpg">
+  <img src="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-26T17:11:42.066676-08:00.jpg"
+     alt="Midnight Sun at 2022-09-26 17:11:44-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-18T17:12:10.700605-08:00.jpg">September 18 at 5:12 PM</a></p>
+ <p><a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-26T17:11:42.066676-08:00.jpg">September 26 at 5:11 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-18T04:58:17.913066-08:00.jpg">
-  <img src="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-18T04:58:17.913066-08:00.jpg"
-     alt="Midnight Sun at 2022-09-18 04:58:19-08:00 local time"
+ <a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-26T05:01:18.284807-08:00.jpg">
+  <img src="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-26T05:01:18.284807-08:00.jpg"
+     alt="Midnight Sun at 2022-09-26 05:01:20-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-18T04:58:17.913066-08:00.jpg">September 18 at 4:58 AM</a></p>
+ <p><a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-26T05:01:18.284807-08:00.jpg">September 26 at 5:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-17T17:17:38.332075-08:00.jpg">
-  <img src="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-17T17:17:38.332075-08:00.jpg"
-     alt="Midnight Sun at 2022-09-17 17:17:40-08:00 local time"
+ <a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-25T17:15:06.185948-08:00.jpg">
+  <img src="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-25T17:15:06.185948-08:00.jpg"
+     alt="Midnight Sun at 2022-09-25 17:15:08-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-17T17:17:38.332075-08:00.jpg">September 17 at 5:17 PM</a></p>
+ <p><a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-25T17:15:06.185948-08:00.jpg">September 25 at 5:15 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-17T04:58:40.545755-08:00.jpg">
-  <img src="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-17T04:58:40.545755-08:00.jpg"
-     alt="Midnight Sun at 2022-09-17 04:58:42-08:00 local time"
+ <a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-25T04:59:38.266364-08:00.jpg">
+  <img src="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-25T04:59:38.266364-08:00.jpg"
+     alt="Midnight Sun at 2022-09-25 04:59:39-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-17T04:58:40.545755-08:00.jpg">September 17 at 4:58 AM</a></p>
+ <p><a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-25T04:59:38.266364-08:00.jpg">September 25 at 4:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-16T17:12:11.036543-08:00.jpg">
-  <img src="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-16T17:12:11.036543-08:00.jpg"
-     alt="Midnight Sun at 2022-09-16 17:12:12-08:00 local time"
+ <a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-24T17:06:15.058391-08:00.jpg">
+  <img src="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-24T17:06:15.058391-08:00.jpg"
+     alt="Midnight Sun at 2022-09-24 17:06:17-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-16T17:12:11.036543-08:00.jpg">September 16 at 5:12 PM</a></p>
+ <p><a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-24T17:06:15.058391-08:00.jpg">September 24 at 5:06 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-16T04:59:01.883743-08:00.jpg">
-  <img src="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-16T04:59:01.883743-08:00.jpg"
-     alt="Midnight Sun at 2022-09-16 04:59:02-08:00 local time"
+ <a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-24T04:53:40.433289-08:00.jpg">
+  <img src="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-24T04:53:40.433289-08:00.jpg"
+     alt="Midnight Sun at 2022-09-24 04:53:43-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-16T04:59:01.883743-08:00.jpg">September 16 at 4:59 AM</a></p>
+ <p><a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-24T04:53:40.433289-08:00.jpg">September 24 at 4:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-15T17:13:43.019687-08:00.jpg">
-  <img src="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-15T17:13:43.019687-08:00.jpg"
-     alt="Midnight Sun at 2022-09-15 17:13:45-08:00 local time"
+ <a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-23T17:11:51.125828-08:00.jpg">
+  <img src="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-23T17:11:51.125828-08:00.jpg"
+     alt="Midnight Sun at 2022-09-23 17:11:53-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-15T17:13:43.019687-08:00.jpg">September 15 at 5:13 PM</a></p>
+ <p><a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-23T17:11:51.125828-08:00.jpg">September 23 at 5:11 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-15T05:00:38.409733-08:00.jpg">
-  <img src="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-15T05:00:38.409733-08:00.jpg"
-     alt="Midnight Sun at 2022-09-15 05:00:43-08:00 local time"
+ <a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-23T04:57:40.623640-08:00.jpg">
+  <img src="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-23T04:57:40.623640-08:00.jpg"
+     alt="Midnight Sun at 2022-09-23 04:57:44-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-15T05:00:38.409733-08:00.jpg">September 15 at 5:00 AM</a></p>
+ <p><a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-23T04:57:40.623640-08:00.jpg">September 23 at 4:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-14T17:18:20.118896-08:00.jpg">
-  <img src="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-14T17:18:20.118896-08:00.jpg"
-     alt="Midnight Sun at 2022-09-14 17:18:21-08:00 local time"
+ <a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-22T17:13:11.233457-08:00.jpg">
+  <img src="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-22T17:13:11.233457-08:00.jpg"
+     alt="Midnight Sun at 2022-09-22 17:13:15-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-14T17:18:20.118896-08:00.jpg">September 14 at 5:18 PM</a></p>
+ <p><a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-22T17:13:11.233457-08:00.jpg">September 22 at 5:13 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-14T05:05:48.888672-08:00.jpg">
-  <img src="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-14T05:05:48.888672-08:00.jpg"
-     alt="Midnight Sun at 2022-09-14 05:05:50-08:00 local time"
+ <a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-22T05:02:19.914908-08:00.jpg">
+  <img src="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-22T05:02:19.914908-08:00.jpg"
+     alt="Midnight Sun at 2022-09-22 05:02:23-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-14T05:05:48.888672-08:00.jpg">September 14 at 5:05 AM</a></p>
+ <p><a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-22T05:02:19.914908-08:00.jpg">September 22 at 5:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-13T17:20:23.580896-08:00.jpg">
-  <img src="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-13T17:20:23.580896-08:00.jpg"
-     alt="Midnight Sun at 2022-09-13 17:20:30-08:00 local time"
+ <a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-21T17:08:21.807583-08:00.jpg">
+  <img src="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-21T17:08:21.807583-08:00.jpg"
+     alt="Midnight Sun at 2022-09-21 17:08:26-08:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-13T17:20:23.580896-08:00.jpg">September 13 at 5:20 PM</a></p>
+ <p><a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-21T17:08:21.807583-08:00.jpg">September 21 at 5:08 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 14 hyperlink lists with the Internet Archive.
+The archiving routine has saved 31 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/midnight_sun_ak.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 4:56 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-19T04:56:00.914308-08:00.hyperlinks.json) |
-| [September 18 at 5:12 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-18T17:12:10.700605-08:00.hyperlinks.json) |
-| [September 18 at 4:58 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-18T04:58:17.913066-08:00.hyperlinks.json) |
-| [September 17 at 5:17 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-17T17:17:38.332075-08:00.hyperlinks.json) |
-| [September 17 at 4:58 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-17T04:58:40.545755-08:00.hyperlinks.json) |
-| [September 16 at 5:12 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-16T17:12:11.036543-08:00.hyperlinks.json) |
-| [September 16 at 4:59 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-16T04:59:01.883743-08:00.hyperlinks.json) |
-| [September 15 at 5:13 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-15T17:13:43.019687-08:00.hyperlinks.json) |
-| [September 15 at 5:00 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-15T05:00:38.409733-08:00.hyperlinks.json) |
-| [September 14 at 5:18 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-14T17:18:20.118896-08:00.hyperlinks.json) |
+| [September 27 at 5:00 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-27T05:00:37.410100-08:00.hyperlinks.json) |
+| [September 26 at 5:11 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-26T17:11:42.066676-08:00.hyperlinks.json) |
+| [September 26 at 5:01 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-26T05:01:18.284807-08:00.hyperlinks.json) |
+| [September 25 at 5:15 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-25T17:15:06.185948-08:00.hyperlinks.json) |
+| [September 25 at 4:59 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-25T04:59:38.266364-08:00.hyperlinks.json) |
+| [September 24 at 5:06 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-24T17:06:15.058391-08:00.hyperlinks.json) |
+| [September 24 at 4:53 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-24T04:53:40.433289-08:00.hyperlinks.json) |
+| [September 23 at 5:11 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-23T17:11:51.125828-08:00.hyperlinks.json) |
+| [September 23 at 4:57 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-23T04:57:40.623640-08:00.hyperlinks.json) |
+| [September 22 at 5:13 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-22T17:13:11.233457-08:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 14 accessibility trees with the Internet Archive.
+The archiving routine has saved 31 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/midnight_sun_ak.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 4:56 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-19T04:56:00.914308-08:00.accessibility.json) |
-| [September 18 at 5:12 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-18T17:12:10.700605-08:00.accessibility.json) |
-| [September 18 at 4:58 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-18T04:58:17.913066-08:00.accessibility.json) |
-| [September 17 at 5:17 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-17T17:17:38.332075-08:00.accessibility.json) |
-| [September 17 at 4:58 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-17T04:58:40.545755-08:00.accessibility.json) |
-| [September 16 at 5:12 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-16T17:12:11.036543-08:00.accessibility.json) |
-| [September 16 at 4:59 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-16T04:59:01.883743-08:00.accessibility.json) |
-| [September 15 at 5:13 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-15T17:13:43.019687-08:00.accessibility.json) |
-| [September 15 at 5:00 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-15T05:00:38.409733-08:00.accessibility.json) |
-| [September 14 at 5:18 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-14T17:18:20.118896-08:00.accessibility.json) |
+| [September 27 at 5:00 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-27T05:00:37.410100-08:00.accessibility.json) |
+| [September 26 at 5:11 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-26T17:11:42.066676-08:00.accessibility.json) |
+| [September 26 at 5:01 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-26T05:01:18.284807-08:00.accessibility.json) |
+| [September 25 at 5:15 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-25T17:15:06.185948-08:00.accessibility.json) |
+| [September 25 at 4:59 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-25T04:59:38.266364-08:00.accessibility.json) |
+| [September 24 at 5:06 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-24T17:06:15.058391-08:00.accessibility.json) |
+| [September 24 at 4:53 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-24T04:53:40.433289-08:00.accessibility.json) |
+| [September 23 at 5:11 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-23T17:11:51.125828-08:00.accessibility.json) |
+| [September 23 at 4:57 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-23T04:57:40.623640-08:00.accessibility.json) |
+| [September 22 at 5:13 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-22T17:13:11.233457-08:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/midnight_sun_ak.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 4:56 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-19T04:56:00.914308-08:00.lighthouse.json) |
-| [September 18 at 5:12 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-18T17:12:10.700605-08:00.lighthouse.json) |
-| [September 18 at 4:58 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-18T04:58:17.913066-08:00.lighthouse.json) |
-| [September 17 at 5:17 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-17T17:17:38.332075-08:00.lighthouse.json) |
-| [September 17 at 4:58 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-17T04:58:40.545755-08:00.lighthouse.json) |
-| [September 16 at 5:12 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-16T17:12:11.036543-08:00.lighthouse.json) |
-| [September 16 at 4:59 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-16T04:59:01.883743-08:00.lighthouse.json) |
-| [September 15 at 5:13 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-15T17:13:43.019687-08:00.lighthouse.json) |
-| [September 15 at 5:00 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-15T05:00:38.409733-08:00.lighthouse.json) |
-| [September 14 at 5:18 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-14T17:18:20.118896-08:00.lighthouse.json) |
+| [September 27 at 5:00 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-27T05:00:37.410100-08:00.lighthouse.json) |
+| [September 26 at 5:11 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-26T17:11:42.066676-08:00.lighthouse.json) |
+| [September 26 at 5:01 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-26T05:01:18.284807-08:00.lighthouse.json) |
+| [September 25 at 5:15 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-25T17:15:06.185948-08:00.lighthouse.json) |
+| [September 25 at 4:59 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-25T04:59:38.266364-08:00.lighthouse.json) |
+| [September 24 at 5:06 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-24T17:06:15.058391-08:00.lighthouse.json) |
+| [September 24 at 4:53 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-24T04:53:40.433289-08:00.lighthouse.json) |
+| [September 23 at 5:11 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-23T17:11:51.125828-08:00.lighthouse.json) |
+| [September 23 at 4:57 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-23T04:57:40.623640-08:00.lighthouse.json) |
+| [September 22 at 5:13 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-22T17:13:11.233457-08:00.lighthouse.json) |
 
 
 

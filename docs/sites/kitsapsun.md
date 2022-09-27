@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 0 screenshots with the Internet Archive.
+The archiving routine has saved 15 screenshots with the Internet Archive.
 
 
 
@@ -36,11 +36,119 @@ Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
 
+<div class="latest-child">
+ <a href="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-27T05:59:34.249299-07:00.jpg">
+  <img src="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-27T05:59:34.249299-07:00.jpg"
+     alt="Kitsap Sun at 2022-09-27 05:59:35-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-27T05:59:34.249299-07:00.jpg">September 27 at 5:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-26T18:09:49.363256-07:00.jpg">
+  <img src="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-26T18:09:49.363256-07:00.jpg"
+     alt="Kitsap Sun at 2022-09-26 18:09:50-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-26T18:09:49.363256-07:00.jpg">September 26 at 6:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-26T05:58:58.973049-07:00.jpg">
+  <img src="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-26T05:58:58.973049-07:00.jpg"
+     alt="Kitsap Sun at 2022-09-26 05:59:00-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-26T05:58:58.973049-07:00.jpg">September 26 at 5:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-25T18:12:33.378880-07:00.jpg">
+  <img src="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-25T18:12:33.378880-07:00.jpg"
+     alt="Kitsap Sun at 2022-09-25 18:12:35-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-25T18:12:33.378880-07:00.jpg">September 25 at 6:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-25T05:57:02.905896-07:00.jpg">
+  <img src="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-25T05:57:02.905896-07:00.jpg"
+     alt="Kitsap Sun at 2022-09-25 05:57:04-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-25T05:57:02.905896-07:00.jpg">September 25 at 5:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-24T18:04:11.861095-07:00.jpg">
+  <img src="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-24T18:04:11.861095-07:00.jpg"
+     alt="Kitsap Sun at 2022-09-24 18:04:13-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-24T18:04:11.861095-07:00.jpg">September 24 at 6:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-24T05:51:35.861164-07:00.jpg">
+  <img src="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-24T05:51:35.861164-07:00.jpg"
+     alt="Kitsap Sun at 2022-09-24 05:51:38-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-24T05:51:35.861164-07:00.jpg">September 24 at 5:51 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-23T18:10:02.921069-07:00.jpg">
+  <img src="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-23T18:10:02.921069-07:00.jpg"
+     alt="Kitsap Sun at 2022-09-23 18:10:05-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-23T18:10:02.921069-07:00.jpg">September 23 at 6:10 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-23T05:55:00.561893-07:00.jpg">
+  <img src="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-23T05:55:00.561893-07:00.jpg"
+     alt="Kitsap Sun at 2022-09-23 05:55:02-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-23T05:55:00.561893-07:00.jpg">September 23 at 5:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-22T18:10:03.056695-07:00.jpg">
+  <img src="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-22T18:10:03.056695-07:00.jpg"
+     alt="Kitsap Sun at 2022-09-22 18:10:05-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-22T18:10:03.056695-07:00.jpg">September 22 at 6:10 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-22T06:00:07.687680-07:00.jpg">
+  <img src="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-22T06:00:07.687680-07:00.jpg"
+     alt="Kitsap Sun at 2022-09-22 06:00:09-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-22T06:00:07.687680-07:00.jpg">September 22 at 6:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-21T18:07:38.191695-07:00.jpg">
+  <img src="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-21T18:07:38.191695-07:00.jpg"
+     alt="Kitsap Sun at 2022-09-21 18:07:40-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-21T18:07:38.191695-07:00.jpg">September 21 at 6:07 PM</a></p>
+</div>
+
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 0 hyperlink lists with the Internet Archive.
+The archiving routine has saved 15 hyperlink lists with the Internet Archive.
 
 
 
@@ -48,11 +156,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 27 at 5:59 AM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-27T05:59:34.249299-07:00.hyperlinks.json) |
+| [September 26 at 6:09 PM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-26T18:09:49.363256-07:00.hyperlinks.json) |
+| [September 26 at 5:59 AM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-26T05:58:58.973049-07:00.hyperlinks.json) |
+| [September 25 at 6:12 PM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-25T18:12:33.378880-07:00.hyperlinks.json) |
+| [September 25 at 5:57 AM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-25T05:57:02.905896-07:00.hyperlinks.json) |
+| [September 24 at 6:04 PM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-24T18:04:11.861095-07:00.hyperlinks.json) |
+| [September 24 at 5:51 AM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-24T05:51:35.861164-07:00.hyperlinks.json) |
+| [September 23 at 6:10 PM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-23T18:10:02.921069-07:00.hyperlinks.json) |
+| [September 23 at 5:55 AM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-23T05:55:00.561893-07:00.hyperlinks.json) |
+| [September 22 at 6:10 PM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-22T18:10:03.056695-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 0 accessibility trees with the Internet Archive.
+The archiving routine has saved 15 accessibility trees with the Internet Archive.
 
 
 
@@ -60,12 +178,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 27 at 5:59 AM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-27T05:59:34.249299-07:00.accessibility.json) |
+| [September 26 at 6:09 PM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-26T18:09:49.363256-07:00.accessibility.json) |
+| [September 26 at 5:59 AM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-26T05:58:58.973049-07:00.accessibility.json) |
+| [September 25 at 6:12 PM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-25T18:12:33.378880-07:00.accessibility.json) |
+| [September 25 at 5:57 AM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-25T05:57:02.905896-07:00.accessibility.json) |
+| [September 24 at 6:04 PM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-24T18:04:11.861095-07:00.accessibility.json) |
+| [September 24 at 5:51 AM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-24T05:51:35.861164-07:00.accessibility.json) |
+| [September 23 at 6:10 PM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-23T18:10:02.921069-07:00.accessibility.json) |
+| [September 23 at 5:55 AM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-23T05:55:00.561893-07:00.accessibility.json) |
+| [September 22 at 6:10 PM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-22T18:10:03.056695-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 0 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
 
 
 
@@ -73,6 +201,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 27 at 5:59 AM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-27T05:59:34.249299-07:00.lighthouse.json) |
+| [September 26 at 6:09 PM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-26T18:09:49.363256-07:00.lighthouse.json) |
+| [September 26 at 5:59 AM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-26T05:58:58.973049-07:00.lighthouse.json) |
+| [September 25 at 6:12 PM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-25T18:12:33.378880-07:00.lighthouse.json) |
+| [September 25 at 5:57 AM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-25T05:57:02.905896-07:00.lighthouse.json) |
+| [September 24 at 6:04 PM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-24T18:04:11.861095-07:00.lighthouse.json) |
+| [September 24 at 5:51 AM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-24T05:51:35.861164-07:00.lighthouse.json) |
+| [September 23 at 6:10 PM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-23T18:10:02.921069-07:00.lighthouse.json) |
+| [September 23 at 5:55 AM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-23T05:55:00.561893-07:00.lighthouse.json) |
+| [September 22 at 6:10 PM](https://archive.org/download/kitsapsun-2022/kitsapsun-2022-09-22T18:10:03.056695-07:00.lighthouse.json) |
 
 
 
@@ -82,3 +220,4 @@ Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |
+|[kitsapsun-2022](https://archive.org/details/kitsapsun-2022)|

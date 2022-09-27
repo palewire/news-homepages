@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 373 screenshots with the Internet Archive.
+The archiving routine has saved 398 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-19T14:54:27.208535+02:00.jpg">
-  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-19T14:54:27.208535+02:00.jpg"
-     alt="Le Monde in English at 2022-09-19 14:54:28+02:00 local time"
+ <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-27T15:00:32.726904+02:00.jpg">
+  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-27T15:00:32.726904+02:00.jpg"
+     alt="Le Monde in English at 2022-09-27 15:00:35+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-19T14:54:27.208535+02:00.jpg">September 19 at 2:54 PM</a></p>
+ <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-27T15:00:32.726904+02:00.jpg">September 27 at 3:00 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-19T10:18:52.465110+02:00.jpg">
-  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-19T10:18:52.465110+02:00.jpg"
-     alt="Le Monde in English at 2022-09-19 10:18:54+02:00 local time"
+ <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-27T10:21:18.682228+02:00.jpg">
+  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-27T10:21:18.682228+02:00.jpg"
+     alt="Le Monde in English at 2022-09-27 10:21:30+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-19T10:18:52.465110+02:00.jpg">September 19 at 10:18 AM</a></p>
+ <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-27T10:21:18.682228+02:00.jpg">September 27 at 10:21 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-19T03:10:46.298224+02:00.jpg">
-  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-19T03:10:46.298224+02:00.jpg"
-     alt="Le Monde in English at 2022-09-19 03:10:47+02:00 local time"
+ <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-27T03:12:31.349213+02:00.jpg">
+  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-27T03:12:31.349213+02:00.jpg"
+     alt="Le Monde in English at 2022-09-27 03:12:44+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-19T03:10:46.298224+02:00.jpg">September 19 at 3:10 AM</a></p>
+ <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-27T03:12:31.349213+02:00.jpg">September 27 at 3:12 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-18T14:00:28.330562+02:00.jpg">
-  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-18T14:00:28.330562+02:00.jpg"
-     alt="Le Monde in English at 2022-09-18 14:00:36+02:00 local time"
+ <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-26T15:01:12.973985+02:00.jpg">
+  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-26T15:01:12.973985+02:00.jpg"
+     alt="Le Monde in English at 2022-09-26 15:01:22+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-18T14:00:28.330562+02:00.jpg">September 18 at 2:00 PM</a></p>
+ <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-26T15:01:12.973985+02:00.jpg">September 26 at 3:01 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-18T10:17:18.333651+02:00.jpg">
-  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-18T10:17:18.333651+02:00.jpg"
-     alt="Le Monde in English at 2022-09-18 10:17:27+02:00 local time"
+ <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-26T10:18:25.529188+02:00.jpg">
+  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-26T10:18:25.529188+02:00.jpg"
+     alt="Le Monde in English at 2022-09-26 10:18:48+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-18T10:17:18.333651+02:00.jpg">September 18 at 10:17 AM</a></p>
+ <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-26T10:18:25.529188+02:00.jpg">September 26 at 10:18 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-18T01:54:40.780603+02:00.jpg">
-  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-18T01:54:40.780603+02:00.jpg"
-     alt="Le Monde in English at 2022-09-18 01:54:47+02:00 local time"
+ <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-26T03:14:22.257912+02:00.jpg">
+  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-26T03:14:22.257912+02:00.jpg"
+     alt="Le Monde in English at 2022-09-26 03:14:32+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-18T01:54:40.780603+02:00.jpg">September 18 at 1:54 AM</a></p>
+ <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-26T03:14:22.257912+02:00.jpg">September 26 at 3:14 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-17T14:00:31.789540+02:00.jpg">
-  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-17T14:00:31.789540+02:00.jpg"
-     alt="Le Monde in English at 2022-09-17 14:00:34+02:00 local time"
+ <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-25T14:59:07.238660+02:00.jpg">
+  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-25T14:59:07.238660+02:00.jpg"
+     alt="Le Monde in English at 2022-09-25 14:59:21+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-17T14:00:31.789540+02:00.jpg">September 17 at 2:00 PM</a></p>
+ <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-25T14:59:07.238660+02:00.jpg">September 25 at 2:59 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-17T10:15:08.040796+02:00.jpg">
-  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-17T10:15:08.040796+02:00.jpg"
-     alt="Le Monde in English at 2022-09-17 10:15:15+02:00 local time"
+ <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-25T10:14:55.868917+02:00.jpg">
+  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-25T10:14:55.868917+02:00.jpg"
+     alt="Le Monde in English at 2022-09-25 10:15:07+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-17T10:15:08.040796+02:00.jpg">September 17 at 10:15 AM</a></p>
+ <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-25T10:14:55.868917+02:00.jpg">September 25 at 10:15 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-17T01:54:45.760828+02:00.jpg">
-  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-17T01:54:45.760828+02:00.jpg"
-     alt="Le Monde in English at 2022-09-17 01:54:52+02:00 local time"
+ <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-25T03:06:17.973851+02:00.jpg">
+  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-25T03:06:17.973851+02:00.jpg"
+     alt="Le Monde in English at 2022-09-25 03:06:31+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-17T01:54:45.760828+02:00.jpg">September 17 at 1:54 AM</a></p>
+ <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-25T03:06:17.973851+02:00.jpg">September 25 at 3:06 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-16T14:01:52.790947+02:00.jpg">
-  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-16T14:01:52.790947+02:00.jpg"
-     alt="Le Monde in English at 2022-09-16 14:01:54+02:00 local time"
+ <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-24T14:53:39.852419+02:00.jpg">
+  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-24T14:53:39.852419+02:00.jpg"
+     alt="Le Monde in English at 2022-09-24 14:53:47+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-16T14:01:52.790947+02:00.jpg">September 16 at 2:01 PM</a></p>
+ <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-24T14:53:39.852419+02:00.jpg">September 24 at 2:53 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-16T10:15:53.542142+02:00.jpg">
-  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-16T10:15:53.542142+02:00.jpg"
-     alt="Le Monde in English at 2022-09-16 10:15:59+02:00 local time"
+ <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-24T10:18:44.288891+02:00.jpg">
+  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-24T10:18:44.288891+02:00.jpg"
+     alt="Le Monde in English at 2022-09-24 10:19:16+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-16T10:15:53.542142+02:00.jpg">September 16 at 10:15 AM</a></p>
+ <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-24T10:18:44.288891+02:00.jpg">September 24 at 10:19 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-16T01:54:29.228028+02:00.jpg">
-  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-16T01:54:29.228028+02:00.jpg"
-     alt="Le Monde in English at 2022-09-16 01:54:38+02:00 local time"
+ <a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-24T03:11:03.790393+02:00.jpg">
+  <img src="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-24T03:11:03.790393+02:00.jpg"
+     alt="Le Monde in English at 2022-09-24 03:11:11+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-16T01:54:29.228028+02:00.jpg">September 16 at 1:54 AM</a></p>
+ <p><a href="https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-24T03:11:03.790393+02:00.jpg">September 24 at 3:11 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 373 hyperlink lists with the Internet Archive.
+The archiving routine has saved 398 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 2:54 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-19T14:54:27.208535+02:00.hyperlinks.json) |
-| [September 19 at 10:18 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-19T10:18:52.465110+02:00.hyperlinks.json) |
-| [September 19 at 3:10 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-19T03:10:46.298224+02:00.hyperlinks.json) |
-| [September 18 at 2:00 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-18T14:00:28.330562+02:00.hyperlinks.json) |
-| [September 18 at 10:17 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-18T10:17:18.333651+02:00.hyperlinks.json) |
-| [September 18 at 1:54 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-18T01:54:40.780603+02:00.hyperlinks.json) |
-| [September 17 at 2:00 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-17T14:00:31.789540+02:00.hyperlinks.json) |
-| [September 17 at 10:15 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-17T10:15:08.040796+02:00.hyperlinks.json) |
-| [September 17 at 1:54 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-17T01:54:45.760828+02:00.hyperlinks.json) |
-| [September 16 at 2:01 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-16T14:01:52.790947+02:00.hyperlinks.json) |
+| [September 27 at 3:00 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-27T15:00:32.726904+02:00.hyperlinks.json) |
+| [September 27 at 10:21 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-27T10:21:18.682228+02:00.hyperlinks.json) |
+| [September 27 at 3:12 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-27T03:12:31.349213+02:00.hyperlinks.json) |
+| [September 26 at 3:01 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-26T15:01:12.973985+02:00.hyperlinks.json) |
+| [September 26 at 10:18 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-26T10:18:25.529188+02:00.hyperlinks.json) |
+| [September 26 at 3:14 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-26T03:14:22.257912+02:00.hyperlinks.json) |
+| [September 25 at 2:59 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-25T14:59:07.238660+02:00.hyperlinks.json) |
+| [September 25 at 10:15 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-25T10:14:55.868917+02:00.hyperlinks.json) |
+| [September 25 at 3:06 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-25T03:06:17.973851+02:00.hyperlinks.json) |
+| [September 24 at 2:53 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-24T14:53:39.852419+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 374 accessibility trees with the Internet Archive.
+The archiving routine has saved 398 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 2:54 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-19T14:54:27.208535+02:00.accessibility.json) |
-| [September 19 at 10:18 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-19T10:18:52.465110+02:00.accessibility.json) |
-| [September 19 at 3:10 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-19T03:10:46.298224+02:00.accessibility.json) |
-| [September 18 at 2:00 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-18T14:00:28.330562+02:00.accessibility.json) |
-| [September 18 at 10:17 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-18T10:17:18.333651+02:00.accessibility.json) |
-| [September 18 at 1:54 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-18T01:54:40.780603+02:00.accessibility.json) |
-| [September 17 at 2:00 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-17T14:00:31.789540+02:00.accessibility.json) |
-| [September 17 at 10:15 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-17T10:15:08.040796+02:00.accessibility.json) |
-| [September 17 at 1:54 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-17T01:54:45.760828+02:00.accessibility.json) |
-| [September 16 at 2:01 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-16T14:01:52.790947+02:00.accessibility.json) |
+| [September 27 at 10:21 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-27T10:21:18.682228+02:00.accessibility.json) |
+| [September 27 at 3:12 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-27T03:12:31.349213+02:00.accessibility.json) |
+| [September 26 at 3:01 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-26T15:01:12.973985+02:00.accessibility.json) |
+| [September 26 at 10:18 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-26T10:18:25.529188+02:00.accessibility.json) |
+| [September 26 at 3:14 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-26T03:14:22.257912+02:00.accessibility.json) |
+| [September 25 at 2:59 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-25T14:59:07.238660+02:00.accessibility.json) |
+| [September 25 at 10:15 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-25T10:14:55.868917+02:00.accessibility.json) |
+| [September 25 at 3:06 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-25T03:06:17.973851+02:00.accessibility.json) |
+| [September 24 at 2:53 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-24T14:53:39.852419+02:00.accessibility.json) |
+| [September 24 at 10:19 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-24T10:18:44.288891+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 171 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 196 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 2:54 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-19T14:54:27.208535+02:00.lighthouse.json) |
-| [September 19 at 10:19 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-19T10:18:52.465110+02:00.lighthouse.json) |
-| [September 19 at 3:10 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-19T03:10:46.298224+02:00.lighthouse.json) |
-| [September 18 at 2:00 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-18T14:00:28.330562+02:00.lighthouse.json) |
-| [September 18 at 10:17 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-18T10:17:18.333651+02:00.lighthouse.json) |
-| [September 18 at 1:54 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-18T01:54:40.780603+02:00.lighthouse.json) |
-| [September 17 at 2:00 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-17T14:00:31.789540+02:00.lighthouse.json) |
-| [September 17 at 10:15 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-17T10:15:08.040796+02:00.lighthouse.json) |
-| [September 17 at 1:54 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-17T01:54:45.760828+02:00.lighthouse.json) |
-| [September 16 at 2:01 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-16T14:01:52.790947+02:00.lighthouse.json) |
+| [September 27 at 3:00 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-27T15:00:32.726904+02:00.lighthouse.json) |
+| [September 27 at 10:21 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-27T10:21:18.682228+02:00.lighthouse.json) |
+| [September 27 at 3:12 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-27T03:12:31.349213+02:00.lighthouse.json) |
+| [September 26 at 3:01 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-26T15:01:12.973985+02:00.lighthouse.json) |
+| [September 26 at 10:18 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-26T10:18:25.529188+02:00.lighthouse.json) |
+| [September 26 at 3:14 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-26T03:14:22.257912+02:00.lighthouse.json) |
+| [September 25 at 2:59 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-25T14:59:07.238660+02:00.lighthouse.json) |
+| [September 25 at 10:15 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-25T10:14:55.868917+02:00.lighthouse.json) |
+| [September 25 at 3:06 AM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-25T03:06:17.973851+02:00.lighthouse.json) |
+| [September 24 at 2:53 PM](https://archive.org/download/lemonde_en-2022/lemonde_en-2022-09-24T14:53:39.852419+02:00.lighthouse.json) |
 
 
 

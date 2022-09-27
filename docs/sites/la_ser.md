@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 112 screenshots with the Internet Archive.
+The archiving routine has saved 129 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-19T14:54:07.201312+02:00.jpg">
-  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-09-19T14:54:07.201312+02:00.jpg"
-     alt="Cadena SER at 2022-09-19 14:54:09+02:00 local time"
+ <a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-27T14:59:12.083506+02:00.jpg">
+  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-09-27T14:59:12.083506+02:00.jpg"
+     alt="Cadena SER at 2022-09-27 14:59:13+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-19T14:54:07.201312+02:00.jpg">September 19 at 2:54 PM</a></p>
+ <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-27T14:59:12.083506+02:00.jpg">September 27 at 2:59 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-19T03:10:31.887748+02:00.jpg">
-  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-09-19T03:10:31.887748+02:00.jpg"
-     alt="Cadena SER at 2022-09-19 03:10:33+02:00 local time"
+ <a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-27T03:09:56.024099+02:00.jpg">
+  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-09-27T03:09:56.024099+02:00.jpg"
+     alt="Cadena SER at 2022-09-27 03:10:09+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-19T03:10:31.887748+02:00.jpg">September 19 at 3:10 AM</a></p>
+ <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-27T03:09:56.024099+02:00.jpg">September 27 at 3:10 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-18T13:59:39.510451+02:00.jpg">
-  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-09-18T13:59:39.510451+02:00.jpg"
-     alt="Cadena SER at 2022-09-18 13:59:43+02:00 local time"
+ <a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-26T14:58:56.260133+02:00.jpg">
+  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-09-26T14:58:56.260133+02:00.jpg"
+     alt="Cadena SER at 2022-09-26 14:59:03+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-18T13:59:39.510451+02:00.jpg">September 18 at 1:59 PM</a></p>
+ <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-26T14:58:56.260133+02:00.jpg">September 26 at 2:59 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-18T01:52:50.552139+02:00.jpg">
-  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-09-18T01:52:50.552139+02:00.jpg"
-     alt="Cadena SER at 2022-09-18 01:52:54+02:00 local time"
+ <a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-26T03:12:25.843603+02:00.jpg">
+  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-09-26T03:12:25.843603+02:00.jpg"
+     alt="Cadena SER at 2022-09-26 03:12:34+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-18T01:52:50.552139+02:00.jpg">September 18 at 1:52 AM</a></p>
+ <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-26T03:12:25.843603+02:00.jpg">September 26 at 3:12 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-17T14:01:01.740095+02:00.jpg">
-  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-09-17T14:01:01.740095+02:00.jpg"
-     alt="Cadena SER at 2022-09-17 14:01:10+02:00 local time"
+ <a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-25T14:57:44.699432+02:00.jpg">
+  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-09-25T14:57:44.699432+02:00.jpg"
+     alt="Cadena SER at 2022-09-25 14:57:48+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-17T14:01:01.740095+02:00.jpg">September 17 at 2:01 PM</a></p>
+ <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-25T14:57:44.699432+02:00.jpg">September 25 at 2:57 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-17T01:54:09.154495+02:00.jpg">
-  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-09-17T01:54:09.154495+02:00.jpg"
-     alt="Cadena SER at 2022-09-17 01:54:12+02:00 local time"
+ <a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-25T03:03:48.314830+02:00.jpg">
+  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-09-25T03:03:48.314830+02:00.jpg"
+     alt="Cadena SER at 2022-09-25 03:03:55+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-17T01:54:09.154495+02:00.jpg">September 17 at 1:54 AM</a></p>
+ <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-25T03:03:48.314830+02:00.jpg">September 25 at 3:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-16T14:01:20.895964+02:00.jpg">
-  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-09-16T14:01:20.895964+02:00.jpg"
-     alt="Cadena SER at 2022-09-16 14:01:30+02:00 local time"
+ <a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-24T14:52:14.597090+02:00.jpg">
+  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-09-24T14:52:14.597090+02:00.jpg"
+     alt="Cadena SER at 2022-09-24 14:52:15+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-16T14:01:20.895964+02:00.jpg">September 16 at 2:01 PM</a></p>
+ <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-24T14:52:14.597090+02:00.jpg">September 24 at 2:52 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-16T01:51:50.872284+02:00.jpg">
-  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-09-16T01:51:50.872284+02:00.jpg"
-     alt="Cadena SER at 2022-09-16 01:52:00+02:00 local time"
+ <a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-24T03:09:53.453135+02:00.jpg">
+  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-09-24T03:09:53.453135+02:00.jpg"
+     alt="Cadena SER at 2022-09-24 03:10:01+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-16T01:51:50.872284+02:00.jpg">September 16 at 1:52 AM</a></p>
+ <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-24T03:09:53.453135+02:00.jpg">September 24 at 3:10 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-15T14:03:05.867506+02:00.jpg">
-  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-09-15T14:03:05.867506+02:00.jpg"
-     alt="Cadena SER at 2022-09-15 14:03:14+02:00 local time"
+ <a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-23T14:55:01.341509+02:00.jpg">
+  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-09-23T14:55:01.341509+02:00.jpg"
+     alt="Cadena SER at 2022-09-23 14:55:08+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-15T14:03:05.867506+02:00.jpg">September 15 at 2:03 PM</a></p>
+ <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-23T14:55:01.341509+02:00.jpg">September 23 at 2:55 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-15T02:00:26.590507+02:00.jpg">
-  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-09-15T02:00:26.590507+02:00.jpg"
-     alt="Cadena SER at 2022-09-15 02:00:33+02:00 local time"
+ <a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-23T03:11:37.133759+02:00.jpg">
+  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-09-23T03:11:37.133759+02:00.jpg"
+     alt="Cadena SER at 2022-09-23 03:11:54+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-15T02:00:26.590507+02:00.jpg">September 15 at 2:00 AM</a></p>
+ <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-23T03:11:37.133759+02:00.jpg">September 23 at 3:11 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-14T14:03:12.813362+02:00.jpg">
-  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-09-14T14:03:12.813362+02:00.jpg"
-     alt="Cadena SER at 2022-09-14 14:03:18+02:00 local time"
+ <a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-22T15:00:12.395060+02:00.jpg">
+  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-09-22T15:00:12.395060+02:00.jpg"
+     alt="Cadena SER at 2022-09-22 15:00:26+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-14T14:03:12.813362+02:00.jpg">September 14 at 2:03 PM</a></p>
+ <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-22T15:00:12.395060+02:00.jpg">September 22 at 3:00 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-14T01:57:48.871277+02:00.jpg">
-  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-09-14T01:57:48.871277+02:00.jpg"
-     alt="Cadena SER at 2022-09-14 01:57:53+02:00 local time"
+ <a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-22T03:06:54.144905+02:00.jpg">
+  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-09-22T03:06:54.144905+02:00.jpg"
+     alt="Cadena SER at 2022-09-22 03:06:57+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-14T01:57:48.871277+02:00.jpg">September 14 at 1:57 AM</a></p>
+ <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-22T03:06:54.144905+02:00.jpg">September 22 at 3:06 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 112 hyperlink lists with the Internet Archive.
+The archiving routine has saved 129 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 2:54 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-19T14:54:07.201312+02:00.hyperlinks.json) |
-| [September 19 at 3:10 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-19T03:10:31.887748+02:00.hyperlinks.json) |
-| [September 18 at 1:59 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-18T13:59:39.510451+02:00.hyperlinks.json) |
-| [September 18 at 1:52 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-18T01:52:50.552139+02:00.hyperlinks.json) |
-| [September 17 at 2:01 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-17T14:01:01.740095+02:00.hyperlinks.json) |
-| [September 17 at 1:54 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-17T01:54:09.154495+02:00.hyperlinks.json) |
-| [September 16 at 2:01 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-16T14:01:20.895964+02:00.hyperlinks.json) |
-| [September 16 at 1:52 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-16T01:51:50.872284+02:00.hyperlinks.json) |
-| [September 15 at 2:03 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-15T14:03:05.867506+02:00.hyperlinks.json) |
-| [September 15 at 2:00 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-15T02:00:26.590507+02:00.hyperlinks.json) |
+| [September 27 at 2:59 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-27T14:59:12.083506+02:00.hyperlinks.json) |
+| [September 27 at 3:10 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-27T03:09:56.024099+02:00.hyperlinks.json) |
+| [September 26 at 2:59 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-26T14:58:56.260133+02:00.hyperlinks.json) |
+| [September 26 at 3:12 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-26T03:12:25.843603+02:00.hyperlinks.json) |
+| [September 25 at 2:57 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-25T14:57:44.699432+02:00.hyperlinks.json) |
+| [September 25 at 3:03 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-25T03:03:48.314830+02:00.hyperlinks.json) |
+| [September 24 at 2:52 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-24T14:52:14.597090+02:00.hyperlinks.json) |
+| [September 24 at 3:10 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-24T03:09:53.453135+02:00.hyperlinks.json) |
+| [September 23 at 2:55 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-23T14:55:01.341509+02:00.hyperlinks.json) |
+| [September 23 at 3:11 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-23T03:11:37.133759+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 113 accessibility trees with the Internet Archive.
+The archiving routine has saved 130 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 2:54 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-19T14:54:07.201312+02:00.accessibility.json) |
-| [September 19 at 3:10 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-19T03:10:31.887748+02:00.accessibility.json) |
-| [September 18 at 1:59 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-18T13:59:39.510451+02:00.accessibility.json) |
-| [September 18 at 1:52 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-18T01:52:50.552139+02:00.accessibility.json) |
-| [September 17 at 2:01 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-17T14:01:01.740095+02:00.accessibility.json) |
-| [September 17 at 1:54 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-17T01:54:09.154495+02:00.accessibility.json) |
-| [September 16 at 2:01 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-16T14:01:20.895964+02:00.accessibility.json) |
-| [September 16 at 1:52 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-16T01:51:50.872284+02:00.accessibility.json) |
-| [September 15 at 2:03 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-15T14:03:05.867506+02:00.accessibility.json) |
-| [September 15 at 2:00 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-15T02:00:26.590507+02:00.accessibility.json) |
+| [September 27 at 2:59 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-27T14:59:12.083506+02:00.accessibility.json) |
+| [September 27 at 3:10 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-27T03:09:56.024099+02:00.accessibility.json) |
+| [September 26 at 2:59 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-26T14:58:56.260133+02:00.accessibility.json) |
+| [September 26 at 3:12 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-26T03:12:25.843603+02:00.accessibility.json) |
+| [September 25 at 2:57 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-25T14:57:44.699432+02:00.accessibility.json) |
+| [September 25 at 3:03 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-25T03:03:48.314830+02:00.accessibility.json) |
+| [September 24 at 2:52 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-24T14:52:14.597090+02:00.accessibility.json) |
+| [September 24 at 3:10 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-24T03:09:53.453135+02:00.accessibility.json) |
+| [September 23 at 2:55 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-23T14:55:01.341509+02:00.accessibility.json) |
+| [September 23 at 3:11 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-23T03:11:37.133759+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 113 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 130 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 2:54 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-19T14:54:07.201312+02:00.lighthouse.json) |
-| [September 19 at 3:10 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-19T03:10:31.887748+02:00.lighthouse.json) |
-| [September 18 at 1:59 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-18T13:59:39.510451+02:00.lighthouse.json) |
-| [September 18 at 1:52 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-18T01:52:50.552139+02:00.lighthouse.json) |
-| [September 17 at 2:01 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-17T14:01:01.740095+02:00.lighthouse.json) |
-| [September 17 at 1:54 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-17T01:54:09.154495+02:00.lighthouse.json) |
-| [September 16 at 2:01 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-16T14:01:20.895964+02:00.lighthouse.json) |
-| [September 16 at 1:52 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-16T01:51:50.872284+02:00.lighthouse.json) |
-| [September 15 at 2:03 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-15T14:03:05.867506+02:00.lighthouse.json) |
-| [September 15 at 2:00 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-15T02:00:26.590507+02:00.lighthouse.json) |
+| [September 27 at 2:59 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-27T14:59:12.083506+02:00.lighthouse.json) |
+| [September 27 at 3:10 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-27T03:09:56.024099+02:00.lighthouse.json) |
+| [September 26 at 2:59 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-26T14:58:56.260133+02:00.lighthouse.json) |
+| [September 26 at 3:12 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-26T03:12:25.843603+02:00.lighthouse.json) |
+| [September 25 at 2:57 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-25T14:57:44.699432+02:00.lighthouse.json) |
+| [September 25 at 3:04 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-25T03:03:48.314830+02:00.lighthouse.json) |
+| [September 24 at 2:52 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-24T14:52:14.597090+02:00.lighthouse.json) |
+| [September 24 at 3:10 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-24T03:09:53.453135+02:00.lighthouse.json) |
+| [September 23 at 2:55 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-23T14:55:01.341509+02:00.lighthouse.json) |
+| [September 23 at 3:12 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-23T03:11:37.133759+02:00.lighthouse.json) |
 
 
 

@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 127 screenshots with the Internet Archive.
+The archiving routine has saved 144 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-19T08:56:30.335410-04:00.jpg">
-  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-19T08:56:30.335410-04:00.jpg"
-     alt="MTV News at 2022-09-19 08:56:32-04:00 local time"
+ <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-27T09:01:50.509754-04:00.jpg">
+  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-27T09:01:50.509754-04:00.jpg"
+     alt="MTV News at 2022-09-27 09:01:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-19T08:56:30.335410-04:00.jpg">September 19 at 8:56 AM</a></p>
+ <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-27T09:01:50.509754-04:00.jpg">September 27 at 9:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-18T21:12:12.766647-04:00.jpg">
-  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-18T21:12:12.766647-04:00.jpg"
-     alt="MTV News at 2022-09-18 21:12:15-04:00 local time"
+ <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-26T21:12:38.503313-04:00.jpg">
+  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-26T21:12:38.503313-04:00.jpg"
+     alt="MTV News at 2022-09-26 21:12:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-18T21:12:12.766647-04:00.jpg">September 18 at 9:12 PM</a></p>
+ <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-26T21:12:38.503313-04:00.jpg">September 26 at 9:12 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-18T08:58:13.856956-04:00.jpg">
-  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-18T08:58:13.856956-04:00.jpg"
-     alt="MTV News at 2022-09-18 08:58:14-04:00 local time"
+ <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-26T09:01:51.687607-04:00.jpg">
+  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-26T09:01:51.687607-04:00.jpg"
+     alt="MTV News at 2022-09-26 09:01:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-18T08:58:13.856956-04:00.jpg">September 18 at 8:58 AM</a></p>
+ <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-26T09:01:51.687607-04:00.jpg">September 26 at 9:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-17T21:17:35.756109-04:00.jpg">
-  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-17T21:17:35.756109-04:00.jpg"
-     alt="MTV News at 2022-09-17 21:17:37-04:00 local time"
+ <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-25T21:14:11.726155-04:00.jpg">
+  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-25T21:14:11.726155-04:00.jpg"
+     alt="MTV News at 2022-09-25 21:14:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-17T21:17:35.756109-04:00.jpg">September 17 at 9:17 PM</a></p>
+ <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-25T21:14:11.726155-04:00.jpg">September 25 at 9:14 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-17T08:58:49.119200-04:00.jpg">
-  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-17T08:58:49.119200-04:00.jpg"
-     alt="MTV News at 2022-09-17 08:58:52-04:00 local time"
+ <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-25T08:58:56.454005-04:00.jpg">
+  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-25T08:58:56.454005-04:00.jpg"
+     alt="MTV News at 2022-09-25 08:59:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-17T08:58:49.119200-04:00.jpg">September 17 at 8:58 AM</a></p>
+ <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-25T08:58:56.454005-04:00.jpg">September 25 at 8:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-16T21:11:17.234692-04:00.jpg">
-  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-16T21:11:17.234692-04:00.jpg"
-     alt="MTV News at 2022-09-16 21:11:19-04:00 local time"
+ <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-24T21:05:55.055439-04:00.jpg">
+  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-24T21:05:55.055439-04:00.jpg"
+     alt="MTV News at 2022-09-24 21:06:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-16T21:11:17.234692-04:00.jpg">September 16 at 9:11 PM</a></p>
+ <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-24T21:05:55.055439-04:00.jpg">September 24 at 9:06 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-16T08:58:20.159240-04:00.jpg">
-  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-16T08:58:20.159240-04:00.jpg"
-     alt="MTV News at 2022-09-16 08:58:22-04:00 local time"
+ <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-24T08:54:09.887358-04:00.jpg">
+  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-24T08:54:09.887358-04:00.jpg"
+     alt="MTV News at 2022-09-24 08:54:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-16T08:58:20.159240-04:00.jpg">September 16 at 8:58 AM</a></p>
+ <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-24T08:54:09.887358-04:00.jpg">September 24 at 8:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-15T21:14:10.621957-04:00.jpg">
-  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-15T21:14:10.621957-04:00.jpg"
-     alt="MTV News at 2022-09-15 21:14:14-04:00 local time"
+ <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-23T21:12:03.060230-04:00.jpg">
+  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-23T21:12:03.060230-04:00.jpg"
+     alt="MTV News at 2022-09-23 21:12:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-15T21:14:10.621957-04:00.jpg">September 15 at 9:14 PM</a></p>
+ <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-23T21:12:03.060230-04:00.jpg">September 23 at 9:12 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-15T09:01:42.396330-04:00.jpg">
-  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-15T09:01:42.396330-04:00.jpg"
-     alt="MTV News at 2022-09-15 09:01:43-04:00 local time"
+ <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-23T08:57:30.963312-04:00.jpg">
+  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-23T08:57:30.963312-04:00.jpg"
+     alt="MTV News at 2022-09-23 08:57:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-15T09:01:42.396330-04:00.jpg">September 15 at 9:01 AM</a></p>
+ <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-23T08:57:30.963312-04:00.jpg">September 23 at 8:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-14T21:17:59.545149-04:00.jpg">
-  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-14T21:17:59.545149-04:00.jpg"
-     alt="MTV News at 2022-09-14 21:18:00-04:00 local time"
+ <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-22T21:14:11.058760-04:00.jpg">
+  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-22T21:14:11.058760-04:00.jpg"
+     alt="MTV News at 2022-09-22 21:14:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-14T21:17:59.545149-04:00.jpg">September 14 at 9:18 PM</a></p>
+ <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-22T21:14:11.058760-04:00.jpg">September 22 at 9:14 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-14T09:05:01.993823-04:00.jpg">
-  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-14T09:05:01.993823-04:00.jpg"
-     alt="MTV News at 2022-09-14 09:05:07-04:00 local time"
+ <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-22T09:02:30.497851-04:00.jpg">
+  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-22T09:02:30.497851-04:00.jpg"
+     alt="MTV News at 2022-09-22 09:02:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-14T09:05:01.993823-04:00.jpg">September 14 at 9:05 AM</a></p>
+ <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-22T09:02:30.497851-04:00.jpg">September 22 at 9:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-13T21:20:17.710433-04:00.jpg">
-  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-13T21:20:17.710433-04:00.jpg"
-     alt="MTV News at 2022-09-13 21:20:19-04:00 local time"
+ <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-21T21:08:37.405537-04:00.jpg">
+  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-21T21:08:37.405537-04:00.jpg"
+     alt="MTV News at 2022-09-21 21:08:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-13T21:20:17.710433-04:00.jpg">September 13 at 9:20 PM</a></p>
+ <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-09-21T21:08:37.405537-04:00.jpg">September 21 at 9:08 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 128 hyperlink lists with the Internet Archive.
+The archiving routine has saved 145 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 8:56 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-19T08:56:30.335410-04:00.hyperlinks.json) |
-| [September 18 at 9:12 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-18T21:12:12.766647-04:00.hyperlinks.json) |
-| [September 18 at 8:58 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-18T08:58:13.856956-04:00.hyperlinks.json) |
-| [September 17 at 9:17 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-17T21:17:35.756109-04:00.hyperlinks.json) |
-| [September 17 at 8:58 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-17T08:58:49.119200-04:00.hyperlinks.json) |
-| [September 16 at 9:11 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-16T21:11:17.234692-04:00.hyperlinks.json) |
-| [September 16 at 8:58 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-16T08:58:20.159240-04:00.hyperlinks.json) |
-| [September 15 at 9:14 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-15T21:14:10.621957-04:00.hyperlinks.json) |
-| [September 15 at 9:01 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-15T09:01:42.396330-04:00.hyperlinks.json) |
-| [September 14 at 9:18 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-14T21:17:59.545149-04:00.hyperlinks.json) |
+| [September 27 at 9:01 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-27T09:01:50.509754-04:00.hyperlinks.json) |
+| [September 26 at 9:12 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-26T21:12:38.503313-04:00.hyperlinks.json) |
+| [September 26 at 9:02 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-26T09:01:51.687607-04:00.hyperlinks.json) |
+| [September 25 at 9:14 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-25T21:14:11.726155-04:00.hyperlinks.json) |
+| [September 25 at 8:59 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-25T08:58:56.454005-04:00.hyperlinks.json) |
+| [September 24 at 9:06 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-24T21:05:55.055439-04:00.hyperlinks.json) |
+| [September 24 at 8:54 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-24T08:54:09.887358-04:00.hyperlinks.json) |
+| [September 23 at 9:12 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-23T21:12:03.060230-04:00.hyperlinks.json) |
+| [September 23 at 8:57 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-23T08:57:30.963312-04:00.hyperlinks.json) |
+| [September 22 at 9:14 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-22T21:14:11.058760-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 128 accessibility trees with the Internet Archive.
+The archiving routine has saved 145 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 8:56 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-19T08:56:30.335410-04:00.accessibility.json) |
-| [September 18 at 9:12 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-18T21:12:12.766647-04:00.accessibility.json) |
-| [September 18 at 8:58 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-18T08:58:13.856956-04:00.accessibility.json) |
-| [September 17 at 9:17 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-17T21:17:35.756109-04:00.accessibility.json) |
-| [September 17 at 8:58 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-17T08:58:49.119200-04:00.accessibility.json) |
-| [September 16 at 9:11 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-16T21:11:17.234692-04:00.accessibility.json) |
-| [September 16 at 8:58 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-16T08:58:20.159240-04:00.accessibility.json) |
-| [September 15 at 9:14 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-15T21:14:10.621957-04:00.accessibility.json) |
-| [September 15 at 9:01 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-15T09:01:42.396330-04:00.accessibility.json) |
-| [September 14 at 9:18 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-14T21:17:59.545149-04:00.accessibility.json) |
+| [September 27 at 9:01 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-27T09:01:50.509754-04:00.accessibility.json) |
+| [September 26 at 9:12 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-26T21:12:38.503313-04:00.accessibility.json) |
+| [September 26 at 9:01 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-26T09:01:51.687607-04:00.accessibility.json) |
+| [September 25 at 9:14 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-25T21:14:11.726155-04:00.accessibility.json) |
+| [September 25 at 8:59 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-25T08:58:56.454005-04:00.accessibility.json) |
+| [September 24 at 9:06 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-24T21:05:55.055439-04:00.accessibility.json) |
+| [September 24 at 8:54 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-24T08:54:09.887358-04:00.accessibility.json) |
+| [September 23 at 9:12 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-23T21:12:03.060230-04:00.accessibility.json) |
+| [September 23 at 8:57 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-23T08:57:30.963312-04:00.accessibility.json) |
+| [September 22 at 9:14 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-22T21:14:11.058760-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 116 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 8:56 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-19T08:56:30.335410-04:00.lighthouse.json) |
-| [September 18 at 9:12 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-18T21:12:12.766647-04:00.lighthouse.json) |
-| [September 18 at 8:58 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-18T08:58:13.856956-04:00.lighthouse.json) |
-| [September 17 at 9:17 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-17T21:17:35.756109-04:00.lighthouse.json) |
-| [September 17 at 8:58 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-17T08:58:49.119200-04:00.lighthouse.json) |
-| [September 16 at 9:11 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-16T21:11:17.234692-04:00.lighthouse.json) |
-| [September 16 at 8:58 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-16T08:58:20.159240-04:00.lighthouse.json) |
-| [September 15 at 9:14 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-15T21:14:10.621957-04:00.lighthouse.json) |
-| [September 15 at 9:01 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-15T09:01:42.396330-04:00.lighthouse.json) |
-| [September 14 at 9:18 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-14T21:17:59.545149-04:00.lighthouse.json) |
+| [September 27 at 9:02 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-27T09:01:50.509754-04:00.lighthouse.json) |
+| [September 26 at 9:12 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-26T21:12:38.503313-04:00.lighthouse.json) |
+| [September 26 at 9:02 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-26T09:01:51.687607-04:00.lighthouse.json) |
+| [September 25 at 9:14 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-25T21:14:11.726155-04:00.lighthouse.json) |
+| [September 25 at 8:59 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-25T08:58:56.454005-04:00.lighthouse.json) |
+| [September 24 at 9:06 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-24T21:05:55.055439-04:00.lighthouse.json) |
+| [September 24 at 8:54 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-24T08:54:09.887358-04:00.lighthouse.json) |
+| [September 23 at 9:12 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-23T21:12:03.060230-04:00.lighthouse.json) |
+| [September 23 at 8:57 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-23T08:57:30.963312-04:00.lighthouse.json) |
+| [September 22 at 9:14 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-09-22T21:14:11.058760-04:00.lighthouse.json) |
 
 
 

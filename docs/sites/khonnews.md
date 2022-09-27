@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 11 screenshots with the Internet Archive.
+The archiving routine has saved 28 screenshots with the Internet Archive.
 
 
 
@@ -37,109 +37,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-19T01:57:43.568675-10:00.jpg">
-  <img src="https://archive.org/download/khonnews-2022/khonnews-2022-09-19T01:57:43.568675-10:00.jpg"
-     alt="KHON2 News at 2022-09-19 01:57:45-10:00 local time"
+ <a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-27T02:59:06.157827-10:00.jpg">
+  <img src="https://archive.org/download/khonnews-2022/khonnews-2022-09-27T02:59:06.157827-10:00.jpg"
+     alt="KHON2 News at 2022-09-27 02:59:07-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-19T01:57:43.568675-10:00.jpg">September 19 at 1:57 AM</a></p>
+ <p><a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-27T02:59:06.157827-10:00.jpg">September 27 at 2:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-18T13:49:29.889520-10:00.jpg">
-  <img src="https://archive.org/download/khonnews-2022/khonnews-2022-09-18T13:49:29.889520-10:00.jpg"
-     alt="KHON2 News at 2022-09-18 13:49:30-10:00 local time"
+ <a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-26T15:09:37.375628-10:00.jpg">
+  <img src="https://archive.org/download/khonnews-2022/khonnews-2022-09-26T15:09:37.375628-10:00.jpg"
+     alt="KHON2 News at 2022-09-26 15:09:39-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-18T13:49:29.889520-10:00.jpg">September 18 at 1:49 PM</a></p>
+ <p><a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-26T15:09:37.375628-10:00.jpg">September 26 at 3:09 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-18T01:58:42.238827-10:00.jpg">
-  <img src="https://archive.org/download/khonnews-2022/khonnews-2022-09-18T01:58:42.238827-10:00.jpg"
-     alt="KHON2 News at 2022-09-18 01:58:44-10:00 local time"
+ <a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-26T02:59:00.127303-10:00.jpg">
+  <img src="https://archive.org/download/khonnews-2022/khonnews-2022-09-26T02:59:00.127303-10:00.jpg"
+     alt="KHON2 News at 2022-09-26 02:59:02-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-18T01:58:42.238827-10:00.jpg">September 18 at 1:58 AM</a></p>
+ <p><a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-26T02:59:00.127303-10:00.jpg">September 26 at 2:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-17T13:52:12.737584-10:00.jpg">
-  <img src="https://archive.org/download/khonnews-2022/khonnews-2022-09-17T13:52:12.737584-10:00.jpg"
-     alt="KHON2 News at 2022-09-17 13:52:14-10:00 local time"
+ <a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-25T15:11:58.155292-10:00.jpg">
+  <img src="https://archive.org/download/khonnews-2022/khonnews-2022-09-25T15:11:58.155292-10:00.jpg"
+     alt="KHON2 News at 2022-09-25 15:11:59-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-17T13:52:12.737584-10:00.jpg">September 17 at 1:52 PM</a></p>
+ <p><a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-25T15:11:58.155292-10:00.jpg">September 25 at 3:11 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-17T01:59:01.743905-10:00.jpg">
-  <img src="https://archive.org/download/khonnews-2022/khonnews-2022-09-17T01:59:01.743905-10:00.jpg"
-     alt="KHON2 News at 2022-09-17 01:59:03-10:00 local time"
+ <a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-25T02:57:15.644525-10:00.jpg">
+  <img src="https://archive.org/download/khonnews-2022/khonnews-2022-09-25T02:57:15.644525-10:00.jpg"
+     alt="KHON2 News at 2022-09-25 02:57:18-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-17T01:59:01.743905-10:00.jpg">September 17 at 1:59 AM</a></p>
+ <p><a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-25T02:57:15.644525-10:00.jpg">September 25 at 2:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-16T13:52:40.910389-10:00.jpg">
-  <img src="https://archive.org/download/khonnews-2022/khonnews-2022-09-16T13:52:40.910389-10:00.jpg"
-     alt="KHON2 News at 2022-09-16 13:52:42-10:00 local time"
+ <a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-24T15:04:06.275323-10:00.jpg">
+  <img src="https://archive.org/download/khonnews-2022/khonnews-2022-09-24T15:04:06.275323-10:00.jpg"
+     alt="KHON2 News at 2022-09-24 15:04:09-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-16T13:52:40.910389-10:00.jpg">September 16 at 1:52 PM</a></p>
+ <p><a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-24T15:04:06.275323-10:00.jpg">September 24 at 3:04 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-16T01:59:18.887175-10:00.jpg">
-  <img src="https://archive.org/download/khonnews-2022/khonnews-2022-09-16T01:59:18.887175-10:00.jpg"
-     alt="KHON2 News at 2022-09-16 01:59:20-10:00 local time"
+ <a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-24T02:51:45.016033-10:00.jpg">
+  <img src="https://archive.org/download/khonnews-2022/khonnews-2022-09-24T02:51:45.016033-10:00.jpg"
+     alt="KHON2 News at 2022-09-24 02:51:46-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-16T01:59:18.887175-10:00.jpg">September 16 at 1:59 AM</a></p>
+ <p><a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-24T02:51:45.016033-10:00.jpg">September 24 at 2:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-15T13:52:05.960195-10:00.jpg">
-  <img src="https://archive.org/download/khonnews-2022/khonnews-2022-09-15T13:52:05.960195-10:00.jpg"
-     alt="KHON2 News at 2022-09-15 13:52:08-10:00 local time"
+ <a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-23T15:09:42.967597-10:00.jpg">
+  <img src="https://archive.org/download/khonnews-2022/khonnews-2022-09-23T15:09:42.967597-10:00.jpg"
+     alt="KHON2 News at 2022-09-23 15:09:46-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-15T13:52:05.960195-10:00.jpg">September 15 at 1:52 PM</a></p>
+ <p><a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-23T15:09:42.967597-10:00.jpg">September 23 at 3:09 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-15T02:01:44.562835-10:00.jpg">
-  <img src="https://archive.org/download/khonnews-2022/khonnews-2022-09-15T02:01:44.562835-10:00.jpg"
-     alt="KHON2 News at 2022-09-15 02:01:46-10:00 local time"
+ <a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-23T02:54:57.151195-10:00.jpg">
+  <img src="https://archive.org/download/khonnews-2022/khonnews-2022-09-23T02:54:57.151195-10:00.jpg"
+     alt="KHON2 News at 2022-09-23 02:54:59-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-15T02:01:44.562835-10:00.jpg">September 15 at 2:01 AM</a></p>
+ <p><a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-23T02:54:57.151195-10:00.jpg">September 23 at 2:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-14T14:01:03.004900-10:00.jpg">
-  <img src="https://archive.org/download/khonnews-2022/khonnews-2022-09-14T14:01:03.004900-10:00.jpg"
-     alt="KHON2 News at 2022-09-14 14:01:04-10:00 local time"
+ <a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-22T15:10:06.382090-10:00.jpg">
+  <img src="https://archive.org/download/khonnews-2022/khonnews-2022-09-22T15:10:06.382090-10:00.jpg"
+     alt="KHON2 News at 2022-09-22 15:10:09-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-14T14:01:03.004900-10:00.jpg">September 14 at 2:01 PM</a></p>
+ <p><a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-22T15:10:06.382090-10:00.jpg">September 22 at 3:10 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-14T02:02:41.112919-10:00.jpg">
-  <img src="https://archive.org/download/khonnews-2022/khonnews-2022-09-14T02:02:41.112919-10:00.jpg"
-     alt="KHON2 News at 2022-09-14 02:02:48-10:00 local time"
+ <a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-22T03:00:10.119948-10:00.jpg">
+  <img src="https://archive.org/download/khonnews-2022/khonnews-2022-09-22T03:00:10.119948-10:00.jpg"
+     alt="KHON2 News at 2022-09-22 03:00:12-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-14T02:02:41.112919-10:00.jpg">September 14 at 2:02 AM</a></p>
+ <p><a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-22T03:00:10.119948-10:00.jpg">September 22 at 3:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-21T15:06:39.859358-10:00.jpg">
+  <img src="https://archive.org/download/khonnews-2022/khonnews-2022-09-21T15:06:39.859358-10:00.jpg"
+     alt="KHON2 News at 2022-09-21 15:06:42-10:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/khonnews-2022/khonnews-2022-09-21T15:06:39.859358-10:00.jpg">September 21 at 3:06 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 11 hyperlink lists with the Internet Archive.
+The archiving routine has saved 28 hyperlink lists with the Internet Archive.
 
 
 
@@ -147,21 +156,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 1:57 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-19T01:57:43.568675-10:00.hyperlinks.json) |
-| [September 18 at 1:49 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-18T13:49:29.889520-10:00.hyperlinks.json) |
-| [September 18 at 1:58 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-18T01:58:42.238827-10:00.hyperlinks.json) |
-| [September 17 at 1:52 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-17T13:52:12.737584-10:00.hyperlinks.json) |
-| [September 17 at 1:59 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-17T01:59:01.743905-10:00.hyperlinks.json) |
-| [September 16 at 1:52 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-16T13:52:40.910389-10:00.hyperlinks.json) |
-| [September 16 at 1:59 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-16T01:59:18.887175-10:00.hyperlinks.json) |
-| [September 15 at 1:52 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-15T13:52:05.960195-10:00.hyperlinks.json) |
-| [September 15 at 2:01 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-15T02:01:44.562835-10:00.hyperlinks.json) |
-| [September 14 at 2:01 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-14T14:01:03.004900-10:00.hyperlinks.json) |
+| [September 27 at 2:59 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-27T02:59:06.157827-10:00.hyperlinks.json) |
+| [September 26 at 3:09 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-26T15:09:37.375628-10:00.hyperlinks.json) |
+| [September 26 at 2:59 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-26T02:59:00.127303-10:00.hyperlinks.json) |
+| [September 25 at 3:12 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-25T15:11:58.155292-10:00.hyperlinks.json) |
+| [September 25 at 2:57 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-25T02:57:15.644525-10:00.hyperlinks.json) |
+| [September 24 at 3:04 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-24T15:04:06.275323-10:00.hyperlinks.json) |
+| [September 24 at 2:51 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-24T02:51:45.016033-10:00.hyperlinks.json) |
+| [September 23 at 3:09 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-23T15:09:42.967597-10:00.hyperlinks.json) |
+| [September 23 at 2:55 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-23T02:54:57.151195-10:00.hyperlinks.json) |
+| [September 22 at 3:10 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-22T15:10:06.382090-10:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 11 accessibility trees with the Internet Archive.
+The archiving routine has saved 27 accessibility trees with the Internet Archive.
 
 
 
@@ -169,22 +178,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 1:57 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-19T01:57:43.568675-10:00.accessibility.json) |
-| [September 18 at 1:49 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-18T13:49:29.889520-10:00.accessibility.json) |
-| [September 18 at 1:58 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-18T01:58:42.238827-10:00.accessibility.json) |
-| [September 17 at 1:52 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-17T13:52:12.737584-10:00.accessibility.json) |
-| [September 17 at 1:59 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-17T01:59:01.743905-10:00.accessibility.json) |
-| [September 16 at 1:52 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-16T13:52:40.910389-10:00.accessibility.json) |
-| [September 16 at 1:59 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-16T01:59:18.887175-10:00.accessibility.json) |
-| [September 15 at 1:52 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-15T13:52:05.960195-10:00.accessibility.json) |
-| [September 15 at 2:01 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-15T02:01:44.562835-10:00.accessibility.json) |
-| [September 14 at 2:01 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-14T14:01:03.004900-10:00.accessibility.json) |
+| [September 27 at 2:59 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-27T02:59:06.157827-10:00.accessibility.json) |
+| [September 26 at 3:09 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-26T15:09:37.375628-10:00.accessibility.json) |
+| [September 26 at 2:59 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-26T02:59:00.127303-10:00.accessibility.json) |
+| [September 25 at 3:12 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-25T15:11:58.155292-10:00.accessibility.json) |
+| [September 25 at 2:57 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-25T02:57:15.644525-10:00.accessibility.json) |
+| [September 24 at 3:04 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-24T15:04:06.275323-10:00.accessibility.json) |
+| [September 24 at 2:51 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-24T02:51:45.016033-10:00.accessibility.json) |
+| [September 23 at 3:09 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-23T15:09:42.967597-10:00.accessibility.json) |
+| [September 23 at 2:55 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-23T02:54:57.151195-10:00.accessibility.json) |
+| [September 22 at 3:10 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-22T15:10:06.382090-10:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
 
 
 
@@ -192,16 +201,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 1:57 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-19T01:57:43.568675-10:00.lighthouse.json) |
-| [September 18 at 1:49 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-18T13:49:29.889520-10:00.lighthouse.json) |
-| [September 18 at 1:58 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-18T01:58:42.238827-10:00.lighthouse.json) |
-| [September 17 at 1:52 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-17T13:52:12.737584-10:00.lighthouse.json) |
-| [September 17 at 1:59 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-17T01:59:01.743905-10:00.lighthouse.json) |
-| [September 16 at 1:52 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-16T13:52:40.910389-10:00.lighthouse.json) |
-| [September 16 at 1:59 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-16T01:59:18.887175-10:00.lighthouse.json) |
-| [September 15 at 1:52 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-15T13:52:05.960195-10:00.lighthouse.json) |
-| [September 15 at 2:01 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-15T02:01:44.562835-10:00.lighthouse.json) |
-| [September 14 at 2:01 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-14T14:01:03.004900-10:00.lighthouse.json) |
+| [September 27 at 2:59 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-27T02:59:06.157827-10:00.lighthouse.json) |
+| [September 26 at 3:09 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-26T15:09:37.375628-10:00.lighthouse.json) |
+| [September 26 at 2:59 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-26T02:59:00.127303-10:00.lighthouse.json) |
+| [September 25 at 3:12 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-25T15:11:58.155292-10:00.lighthouse.json) |
+| [September 25 at 2:57 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-25T02:57:15.644525-10:00.lighthouse.json) |
+| [September 24 at 3:04 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-24T15:04:06.275323-10:00.lighthouse.json) |
+| [September 24 at 2:51 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-24T02:51:45.016033-10:00.lighthouse.json) |
+| [September 23 at 3:09 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-23T15:09:42.967597-10:00.lighthouse.json) |
+| [September 23 at 2:55 AM](https://archive.org/download/khonnews-2022/khonnews-2022-09-23T02:54:57.151195-10:00.lighthouse.json) |
+| [September 22 at 3:10 PM](https://archive.org/download/khonnews-2022/khonnews-2022-09-22T15:10:06.382090-10:00.lighthouse.json) |
 
 
 

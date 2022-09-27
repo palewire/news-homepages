@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 417 screenshots with the Internet Archive.
+The archiving routine has saved 440 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/ktla-2022/ktla-2022-09-19T11:38:34.752652-07:00.jpg">
-  <img src="https://archive.org/download/ktla-2022/ktla-2022-09-19T11:38:34.752652-07:00.jpg"
-     alt="KTLA at 2022-09-19 11:38:36-07:00 local time"
+ <a href="https://archive.org/download/ktla-2022/ktla-2022-09-27T05:59:08.124351-07:00.jpg">
+  <img src="https://archive.org/download/ktla-2022/ktla-2022-09-27T05:59:08.124351-07:00.jpg"
+     alt="KTLA at 2022-09-27 05:59:10-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ktla-2022/ktla-2022-09-19T11:38:34.752652-07:00.jpg">September 19 at 11:38 AM</a></p>
+ <p><a href="https://archive.org/download/ktla-2022/ktla-2022-09-27T05:59:08.124351-07:00.jpg">September 27 at 5:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ktla-2022/ktla-2022-09-19T05:54:55.575478-07:00.jpg">
-  <img src="https://archive.org/download/ktla-2022/ktla-2022-09-19T05:54:55.575478-07:00.jpg"
-     alt="KTLA at 2022-09-19 05:55:07-07:00 local time"
+ <a href="https://archive.org/download/ktla-2022/ktla-2022-09-26T18:09:48.140549-07:00.jpg">
+  <img src="https://archive.org/download/ktla-2022/ktla-2022-09-26T18:09:48.140549-07:00.jpg"
+     alt="KTLA at 2022-09-26 18:09:51-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ktla-2022/ktla-2022-09-19T05:54:55.575478-07:00.jpg">September 19 at 5:55 AM</a></p>
+ <p><a href="https://archive.org/download/ktla-2022/ktla-2022-09-26T18:09:48.140549-07:00.jpg">September 26 at 6:09 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ktla-2022/ktla-2022-09-18T18:10:10.368842-07:00.jpg">
-  <img src="https://archive.org/download/ktla-2022/ktla-2022-09-18T18:10:10.368842-07:00.jpg"
-     alt="KTLA at 2022-09-18 18:10:12-07:00 local time"
+ <a href="https://archive.org/download/ktla-2022/ktla-2022-09-26T12:51:01.037637-07:00.jpg">
+  <img src="https://archive.org/download/ktla-2022/ktla-2022-09-26T12:51:01.037637-07:00.jpg"
+     alt="KTLA at 2022-09-26 12:51:12-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ktla-2022/ktla-2022-09-18T18:10:10.368842-07:00.jpg">September 18 at 6:10 PM</a></p>
+ <p><a href="https://archive.org/download/ktla-2022/ktla-2022-09-26T12:51:01.037637-07:00.jpg">September 26 at 12:51 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ktla-2022/ktla-2022-09-18T11:33:33.171571-07:00.jpg">
-  <img src="https://archive.org/download/ktla-2022/ktla-2022-09-18T11:33:33.171571-07:00.jpg"
-     alt="KTLA at 2022-09-18 11:33:42-07:00 local time"
+ <a href="https://archive.org/download/ktla-2022/ktla-2022-09-26T05:58:57.944993-07:00.jpg">
+  <img src="https://archive.org/download/ktla-2022/ktla-2022-09-26T05:58:57.944993-07:00.jpg"
+     alt="KTLA at 2022-09-26 05:59:00-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ktla-2022/ktla-2022-09-18T11:33:33.171571-07:00.jpg">September 18 at 11:33 AM</a></p>
+ <p><a href="https://archive.org/download/ktla-2022/ktla-2022-09-26T05:58:57.944993-07:00.jpg">September 26 at 5:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ktla-2022/ktla-2022-09-18T04:59:37.574162-07:00.jpg">
-  <img src="https://archive.org/download/ktla-2022/ktla-2022-09-18T04:59:37.574162-07:00.jpg"
-     alt="KTLA at 2022-09-18 05:00:01-07:00 local time"
+ <a href="https://archive.org/download/ktla-2022/ktla-2022-09-25T18:12:07.827040-07:00.jpg">
+  <img src="https://archive.org/download/ktla-2022/ktla-2022-09-25T18:12:07.827040-07:00.jpg"
+     alt="KTLA at 2022-09-25 18:12:17-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ktla-2022/ktla-2022-09-18T04:59:37.574162-07:00.jpg">September 18 at 5:00 AM</a></p>
+ <p><a href="https://archive.org/download/ktla-2022/ktla-2022-09-25T18:12:07.827040-07:00.jpg">September 25 at 6:12 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ktla-2022/ktla-2022-09-17T16:52:51.284145-07:00.jpg">
-  <img src="https://archive.org/download/ktla-2022/ktla-2022-09-17T16:52:51.284145-07:00.jpg"
-     alt="KTLA at 2022-09-17 16:52:52-07:00 local time"
+ <a href="https://archive.org/download/ktla-2022/ktla-2022-09-25T12:07:05.956182-07:00.jpg">
+  <img src="https://archive.org/download/ktla-2022/ktla-2022-09-25T12:07:05.956182-07:00.jpg"
+     alt="KTLA at 2022-09-25 12:07:15-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ktla-2022/ktla-2022-09-17T16:52:51.284145-07:00.jpg">September 17 at 4:52 PM</a></p>
+ <p><a href="https://archive.org/download/ktla-2022/ktla-2022-09-25T12:07:05.956182-07:00.jpg">September 25 at 12:07 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ktla-2022/ktla-2022-09-17T11:33:02.728325-07:00.jpg">
-  <img src="https://archive.org/download/ktla-2022/ktla-2022-09-17T11:33:02.728325-07:00.jpg"
-     alt="KTLA at 2022-09-17 11:33:15-07:00 local time"
+ <a href="https://archive.org/download/ktla-2022/ktla-2022-09-25T05:57:08.190841-07:00.jpg">
+  <img src="https://archive.org/download/ktla-2022/ktla-2022-09-25T05:57:08.190841-07:00.jpg"
+     alt="KTLA at 2022-09-25 05:57:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ktla-2022/ktla-2022-09-17T11:33:02.728325-07:00.jpg">September 17 at 11:33 AM</a></p>
+ <p><a href="https://archive.org/download/ktla-2022/ktla-2022-09-25T05:57:08.190841-07:00.jpg">September 25 at 5:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ktla-2022/ktla-2022-09-17T05:00:21.399605-07:00.jpg">
-  <img src="https://archive.org/download/ktla-2022/ktla-2022-09-17T05:00:21.399605-07:00.jpg"
-     alt="KTLA at 2022-09-17 05:00:23-07:00 local time"
+ <a href="https://archive.org/download/ktla-2022/ktla-2022-09-24T18:04:10.950533-07:00.jpg">
+  <img src="https://archive.org/download/ktla-2022/ktla-2022-09-24T18:04:10.950533-07:00.jpg"
+     alt="KTLA at 2022-09-24 18:04:12-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ktla-2022/ktla-2022-09-17T05:00:21.399605-07:00.jpg">September 17 at 5:00 AM</a></p>
+ <p><a href="https://archive.org/download/ktla-2022/ktla-2022-09-24T18:04:10.950533-07:00.jpg">September 24 at 6:04 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ktla-2022/ktla-2022-09-16T16:52:39.012966-07:00.jpg">
-  <img src="https://archive.org/download/ktla-2022/ktla-2022-09-16T16:52:39.012966-07:00.jpg"
-     alt="KTLA at 2022-09-16 16:52:48-07:00 local time"
+ <a href="https://archive.org/download/ktla-2022/ktla-2022-09-24T12:04:34.460583-07:00.jpg">
+  <img src="https://archive.org/download/ktla-2022/ktla-2022-09-24T12:04:34.460583-07:00.jpg"
+     alt="KTLA at 2022-09-24 12:04:49-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ktla-2022/ktla-2022-09-16T16:52:39.012966-07:00.jpg">September 16 at 4:52 PM</a></p>
+ <p><a href="https://archive.org/download/ktla-2022/ktla-2022-09-24T12:04:34.460583-07:00.jpg">September 24 at 12:04 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ktla-2022/ktla-2022-09-16T11:33:47.668881-07:00.jpg">
-  <img src="https://archive.org/download/ktla-2022/ktla-2022-09-16T11:33:47.668881-07:00.jpg"
-     alt="KTLA at 2022-09-16 11:33:49-07:00 local time"
+ <a href="https://archive.org/download/ktla-2022/ktla-2022-09-24T05:51:48.648125-07:00.jpg">
+  <img src="https://archive.org/download/ktla-2022/ktla-2022-09-24T05:51:48.648125-07:00.jpg"
+     alt="KTLA at 2022-09-24 05:52:17-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ktla-2022/ktla-2022-09-16T11:33:47.668881-07:00.jpg">September 16 at 11:33 AM</a></p>
+ <p><a href="https://archive.org/download/ktla-2022/ktla-2022-09-24T05:51:48.648125-07:00.jpg">September 24 at 5:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ktla-2022/ktla-2022-09-16T04:59:55.416876-07:00.jpg">
-  <img src="https://archive.org/download/ktla-2022/ktla-2022-09-16T04:59:55.416876-07:00.jpg"
-     alt="KTLA at 2022-09-16 05:00:19-07:00 local time"
+ <a href="https://archive.org/download/ktla-2022/ktla-2022-09-23T18:09:59.347140-07:00.jpg">
+  <img src="https://archive.org/download/ktla-2022/ktla-2022-09-23T18:09:59.347140-07:00.jpg"
+     alt="KTLA at 2022-09-23 18:10:14-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ktla-2022/ktla-2022-09-16T04:59:55.416876-07:00.jpg">September 16 at 5:00 AM</a></p>
+ <p><a href="https://archive.org/download/ktla-2022/ktla-2022-09-23T18:09:59.347140-07:00.jpg">September 23 at 6:10 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ktla-2022/ktla-2022-09-15T16:52:00.615489-07:00.jpg">
-  <img src="https://archive.org/download/ktla-2022/ktla-2022-09-15T16:52:00.615489-07:00.jpg"
-     alt="KTLA at 2022-09-15 16:52:26-07:00 local time"
+ <a href="https://archive.org/download/ktla-2022/ktla-2022-09-23T12:25:55.800120-07:00.jpg">
+  <img src="https://archive.org/download/ktla-2022/ktla-2022-09-23T12:25:55.800120-07:00.jpg"
+     alt="KTLA at 2022-09-23 12:26:06-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ktla-2022/ktla-2022-09-15T16:52:00.615489-07:00.jpg">September 15 at 4:52 PM</a></p>
+ <p><a href="https://archive.org/download/ktla-2022/ktla-2022-09-23T12:25:55.800120-07:00.jpg">September 23 at 12:26 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 413 hyperlink lists with the Internet Archive.
+The archiving routine has saved 436 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 11:38 AM](https://archive.org/download/ktla-2022/ktla-2022-09-19T11:38:34.752652-07:00.hyperlinks.json) |
-| [September 19 at 5:55 AM](https://archive.org/download/ktla-2022/ktla-2022-09-19T05:54:55.575478-07:00.hyperlinks.json) |
-| [September 18 at 6:10 PM](https://archive.org/download/ktla-2022/ktla-2022-09-18T18:10:10.368842-07:00.hyperlinks.json) |
-| [September 18 at 11:33 AM](https://archive.org/download/ktla-2022/ktla-2022-09-18T11:33:33.171571-07:00.hyperlinks.json) |
-| [September 18 at 5:00 AM](https://archive.org/download/ktla-2022/ktla-2022-09-18T04:59:37.574162-07:00.hyperlinks.json) |
-| [September 17 at 4:52 PM](https://archive.org/download/ktla-2022/ktla-2022-09-17T16:52:51.284145-07:00.hyperlinks.json) |
-| [September 17 at 11:33 AM](https://archive.org/download/ktla-2022/ktla-2022-09-17T11:33:02.728325-07:00.hyperlinks.json) |
-| [September 17 at 5:00 AM](https://archive.org/download/ktla-2022/ktla-2022-09-17T05:00:21.399605-07:00.hyperlinks.json) |
-| [September 16 at 4:52 PM](https://archive.org/download/ktla-2022/ktla-2022-09-16T16:52:39.012966-07:00.hyperlinks.json) |
-| [September 16 at 11:33 AM](https://archive.org/download/ktla-2022/ktla-2022-09-16T11:33:47.668881-07:00.hyperlinks.json) |
+| [September 27 at 5:59 AM](https://archive.org/download/ktla-2022/ktla-2022-09-27T05:59:08.124351-07:00.hyperlinks.json) |
+| [September 26 at 6:09 PM](https://archive.org/download/ktla-2022/ktla-2022-09-26T18:09:48.140549-07:00.hyperlinks.json) |
+| [September 26 at 12:51 PM](https://archive.org/download/ktla-2022/ktla-2022-09-26T12:51:01.037637-07:00.hyperlinks.json) |
+| [September 26 at 5:59 AM](https://archive.org/download/ktla-2022/ktla-2022-09-26T05:58:57.944993-07:00.hyperlinks.json) |
+| [September 25 at 6:12 PM](https://archive.org/download/ktla-2022/ktla-2022-09-25T18:12:07.827040-07:00.hyperlinks.json) |
+| [September 25 at 12:07 PM](https://archive.org/download/ktla-2022/ktla-2022-09-25T12:07:05.956182-07:00.hyperlinks.json) |
+| [September 25 at 5:57 AM](https://archive.org/download/ktla-2022/ktla-2022-09-25T05:57:08.190841-07:00.hyperlinks.json) |
+| [September 24 at 6:04 PM](https://archive.org/download/ktla-2022/ktla-2022-09-24T18:04:10.950533-07:00.hyperlinks.json) |
+| [September 24 at 12:04 PM](https://archive.org/download/ktla-2022/ktla-2022-09-24T12:04:34.460583-07:00.hyperlinks.json) |
+| [September 24 at 5:52 AM](https://archive.org/download/ktla-2022/ktla-2022-09-24T05:51:48.648125-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 414 accessibility trees with the Internet Archive.
+The archiving routine has saved 437 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 5:55 AM](https://archive.org/download/ktla-2022/ktla-2022-09-19T05:54:55.575478-07:00.accessibility.json) |
-| [September 18 at 6:10 PM](https://archive.org/download/ktla-2022/ktla-2022-09-18T18:10:10.368842-07:00.accessibility.json) |
-| [September 18 at 11:33 AM](https://archive.org/download/ktla-2022/ktla-2022-09-18T11:33:33.171571-07:00.accessibility.json) |
-| [September 18 at 5:00 AM](https://archive.org/download/ktla-2022/ktla-2022-09-18T04:59:37.574162-07:00.accessibility.json) |
-| [September 17 at 4:52 PM](https://archive.org/download/ktla-2022/ktla-2022-09-17T16:52:51.284145-07:00.accessibility.json) |
-| [September 17 at 11:33 AM](https://archive.org/download/ktla-2022/ktla-2022-09-17T11:33:02.728325-07:00.accessibility.json) |
-| [September 17 at 5:00 AM](https://archive.org/download/ktla-2022/ktla-2022-09-17T05:00:21.399605-07:00.accessibility.json) |
-| [September 16 at 4:52 PM](https://archive.org/download/ktla-2022/ktla-2022-09-16T16:52:39.012966-07:00.accessibility.json) |
-| [September 16 at 11:33 AM](https://archive.org/download/ktla-2022/ktla-2022-09-16T11:33:47.668881-07:00.accessibility.json) |
-| [September 16 at 5:00 AM](https://archive.org/download/ktla-2022/ktla-2022-09-16T04:59:55.416876-07:00.accessibility.json) |
+| [September 27 at 5:59 AM](https://archive.org/download/ktla-2022/ktla-2022-09-27T05:59:08.124351-07:00.accessibility.json) |
+| [September 26 at 6:09 PM](https://archive.org/download/ktla-2022/ktla-2022-09-26T18:09:48.140549-07:00.accessibility.json) |
+| [September 26 at 12:51 PM](https://archive.org/download/ktla-2022/ktla-2022-09-26T12:51:01.037637-07:00.accessibility.json) |
+| [September 26 at 5:59 AM](https://archive.org/download/ktla-2022/ktla-2022-09-26T05:58:57.944993-07:00.accessibility.json) |
+| [September 25 at 6:12 PM](https://archive.org/download/ktla-2022/ktla-2022-09-25T18:12:07.827040-07:00.accessibility.json) |
+| [September 25 at 12:07 PM](https://archive.org/download/ktla-2022/ktla-2022-09-25T12:07:05.956182-07:00.accessibility.json) |
+| [September 25 at 5:57 AM](https://archive.org/download/ktla-2022/ktla-2022-09-25T05:57:08.190841-07:00.accessibility.json) |
+| [September 24 at 6:04 PM](https://archive.org/download/ktla-2022/ktla-2022-09-24T18:04:10.950533-07:00.accessibility.json) |
+| [September 24 at 12:04 PM](https://archive.org/download/ktla-2022/ktla-2022-09-24T12:04:34.460583-07:00.accessibility.json) |
+| [September 24 at 5:52 AM](https://archive.org/download/ktla-2022/ktla-2022-09-24T05:51:48.648125-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 166 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 189 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 11:38 AM](https://archive.org/download/ktla-2022/ktla-2022-09-19T11:38:34.752652-07:00.lighthouse.json) |
-| [September 19 at 5:55 AM](https://archive.org/download/ktla-2022/ktla-2022-09-19T05:54:55.575478-07:00.lighthouse.json) |
-| [September 18 at 6:10 PM](https://archive.org/download/ktla-2022/ktla-2022-09-18T18:10:10.368842-07:00.lighthouse.json) |
-| [September 18 at 11:33 AM](https://archive.org/download/ktla-2022/ktla-2022-09-18T11:33:33.171571-07:00.lighthouse.json) |
-| [September 18 at 5:00 AM](https://archive.org/download/ktla-2022/ktla-2022-09-18T04:59:37.574162-07:00.lighthouse.json) |
-| [September 17 at 4:52 PM](https://archive.org/download/ktla-2022/ktla-2022-09-17T16:52:51.284145-07:00.lighthouse.json) |
-| [September 17 at 11:33 AM](https://archive.org/download/ktla-2022/ktla-2022-09-17T11:33:02.728325-07:00.lighthouse.json) |
-| [September 17 at 5:00 AM](https://archive.org/download/ktla-2022/ktla-2022-09-17T05:00:21.399605-07:00.lighthouse.json) |
-| [September 16 at 4:52 PM](https://archive.org/download/ktla-2022/ktla-2022-09-16T16:52:39.012966-07:00.lighthouse.json) |
-| [September 16 at 11:33 AM](https://archive.org/download/ktla-2022/ktla-2022-09-16T11:33:47.668881-07:00.lighthouse.json) |
+| [September 27 at 5:59 AM](https://archive.org/download/ktla-2022/ktla-2022-09-27T05:59:08.124351-07:00.lighthouse.json) |
+| [September 26 at 6:09 PM](https://archive.org/download/ktla-2022/ktla-2022-09-26T18:09:48.140549-07:00.lighthouse.json) |
+| [September 26 at 12:51 PM](https://archive.org/download/ktla-2022/ktla-2022-09-26T12:51:01.037637-07:00.lighthouse.json) |
+| [September 26 at 5:59 AM](https://archive.org/download/ktla-2022/ktla-2022-09-26T05:58:57.944993-07:00.lighthouse.json) |
+| [September 25 at 6:12 PM](https://archive.org/download/ktla-2022/ktla-2022-09-25T18:12:07.827040-07:00.lighthouse.json) |
+| [September 25 at 12:07 PM](https://archive.org/download/ktla-2022/ktla-2022-09-25T12:07:05.956182-07:00.lighthouse.json) |
+| [September 25 at 5:57 AM](https://archive.org/download/ktla-2022/ktla-2022-09-25T05:57:08.190841-07:00.lighthouse.json) |
+| [September 24 at 6:04 PM](https://archive.org/download/ktla-2022/ktla-2022-09-24T18:04:10.950533-07:00.lighthouse.json) |
+| [September 24 at 12:04 PM](https://archive.org/download/ktla-2022/ktla-2022-09-24T12:04:34.460583-07:00.lighthouse.json) |
+| [September 24 at 5:52 AM](https://archive.org/download/ktla-2022/ktla-2022-09-24T05:51:48.648125-07:00.lighthouse.json) |
 
 
 

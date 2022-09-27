@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 11 screenshots with the Internet Archive.
+The archiving routine has saved 28 screenshots with the Internet Archive.
 
 
 
@@ -37,109 +37,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-19T01:57:50.466867-10:00.jpg">
-  <img src="https://archive.org/download/kitv4-2022/kitv4-2022-09-19T01:57:50.466867-10:00.jpg"
-     alt="KITV4 at 2022-09-19 01:57:54-10:00 local time"
+ <a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-27T02:59:03.181928-10:00.jpg">
+  <img src="https://archive.org/download/kitv4-2022/kitv4-2022-09-27T02:59:03.181928-10:00.jpg"
+     alt="KITV4 at 2022-09-27 02:59:04-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-19T01:57:50.466867-10:00.jpg">September 19 at 1:57 AM</a></p>
+ <p><a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-27T02:59:03.181928-10:00.jpg">September 27 at 2:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-18T13:48:49.501751-10:00.jpg">
-  <img src="https://archive.org/download/kitv4-2022/kitv4-2022-09-18T13:48:49.501751-10:00.jpg"
-     alt="KITV4 at 2022-09-18 13:48:51-10:00 local time"
+ <a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-26T15:09:38.664512-10:00.jpg">
+  <img src="https://archive.org/download/kitv4-2022/kitv4-2022-09-26T15:09:38.664512-10:00.jpg"
+     alt="KITV4 at 2022-09-26 15:09:41-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-18T13:48:49.501751-10:00.jpg">September 18 at 1:48 PM</a></p>
+ <p><a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-26T15:09:38.664512-10:00.jpg">September 26 at 3:09 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-18T01:59:44.427949-10:00.jpg">
-  <img src="https://archive.org/download/kitv4-2022/kitv4-2022-09-18T01:59:44.427949-10:00.jpg"
-     alt="KITV4 at 2022-09-18 01:59:46-10:00 local time"
+ <a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-26T02:59:18.320733-10:00.jpg">
+  <img src="https://archive.org/download/kitv4-2022/kitv4-2022-09-26T02:59:18.320733-10:00.jpg"
+     alt="KITV4 at 2022-09-26 02:59:20-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-18T01:59:44.427949-10:00.jpg">September 18 at 1:59 AM</a></p>
+ <p><a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-26T02:59:18.320733-10:00.jpg">September 26 at 2:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-17T13:52:33.288482-10:00.jpg">
-  <img src="https://archive.org/download/kitv4-2022/kitv4-2022-09-17T13:52:33.288482-10:00.jpg"
-     alt="KITV4 at 2022-09-17 13:52:35-10:00 local time"
+ <a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-25T15:12:29.931756-10:00.jpg">
+  <img src="https://archive.org/download/kitv4-2022/kitv4-2022-09-25T15:12:29.931756-10:00.jpg"
+     alt="KITV4 at 2022-09-25 15:12:31-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-17T13:52:33.288482-10:00.jpg">September 17 at 1:52 PM</a></p>
+ <p><a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-25T15:12:29.931756-10:00.jpg">September 25 at 3:12 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-17T01:59:22.309181-10:00.jpg">
-  <img src="https://archive.org/download/kitv4-2022/kitv4-2022-09-17T01:59:22.309181-10:00.jpg"
-     alt="KITV4 at 2022-09-17 01:59:24-10:00 local time"
+ <a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-25T02:57:04.850548-10:00.jpg">
+  <img src="https://archive.org/download/kitv4-2022/kitv4-2022-09-25T02:57:04.850548-10:00.jpg"
+     alt="KITV4 at 2022-09-25 02:57:07-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-17T01:59:22.309181-10:00.jpg">September 17 at 1:59 AM</a></p>
+ <p><a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-25T02:57:04.850548-10:00.jpg">September 25 at 2:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-16T13:53:13.719934-10:00.jpg">
-  <img src="https://archive.org/download/kitv4-2022/kitv4-2022-09-16T13:53:13.719934-10:00.jpg"
-     alt="KITV4 at 2022-09-16 13:53:15-10:00 local time"
+ <a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-24T15:03:48.601912-10:00.jpg">
+  <img src="https://archive.org/download/kitv4-2022/kitv4-2022-09-24T15:03:48.601912-10:00.jpg"
+     alt="KITV4 at 2022-09-24 15:03:53-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-16T13:53:13.719934-10:00.jpg">September 16 at 1:53 PM</a></p>
+ <p><a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-24T15:03:48.601912-10:00.jpg">September 24 at 3:03 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-16T02:01:01.416667-10:00.jpg">
-  <img src="https://archive.org/download/kitv4-2022/kitv4-2022-09-16T02:01:01.416667-10:00.jpg"
-     alt="KITV4 at 2022-09-16 02:01:03-10:00 local time"
+ <a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-24T02:51:40.329136-10:00.jpg">
+  <img src="https://archive.org/download/kitv4-2022/kitv4-2022-09-24T02:51:40.329136-10:00.jpg"
+     alt="KITV4 at 2022-09-24 02:51:42-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-16T02:01:01.416667-10:00.jpg">September 16 at 2:01 AM</a></p>
+ <p><a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-24T02:51:40.329136-10:00.jpg">September 24 at 2:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-15T13:51:56.180365-10:00.jpg">
-  <img src="https://archive.org/download/kitv4-2022/kitv4-2022-09-15T13:51:56.180365-10:00.jpg"
-     alt="KITV4 at 2022-09-15 13:51:58-10:00 local time"
+ <a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-23T15:09:48.169048-10:00.jpg">
+  <img src="https://archive.org/download/kitv4-2022/kitv4-2022-09-23T15:09:48.169048-10:00.jpg"
+     alt="KITV4 at 2022-09-23 15:09:51-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-15T13:51:56.180365-10:00.jpg">September 15 at 1:51 PM</a></p>
+ <p><a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-23T15:09:48.169048-10:00.jpg">September 23 at 3:09 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-15T02:01:48.857364-10:00.jpg">
-  <img src="https://archive.org/download/kitv4-2022/kitv4-2022-09-15T02:01:48.857364-10:00.jpg"
-     alt="KITV4 at 2022-09-15 02:01:50-10:00 local time"
+ <a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-23T02:55:12.493380-10:00.jpg">
+  <img src="https://archive.org/download/kitv4-2022/kitv4-2022-09-23T02:55:12.493380-10:00.jpg"
+     alt="KITV4 at 2022-09-23 02:55:15-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-15T02:01:48.857364-10:00.jpg">September 15 at 2:01 AM</a></p>
+ <p><a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-23T02:55:12.493380-10:00.jpg">September 23 at 2:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-14T14:00:17.051917-10:00.jpg">
-  <img src="https://archive.org/download/kitv4-2022/kitv4-2022-09-14T14:00:17.051917-10:00.jpg"
-     alt="KITV4 at 2022-09-14 14:00:18-10:00 local time"
+ <a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-22T15:10:32.108152-10:00.jpg">
+  <img src="https://archive.org/download/kitv4-2022/kitv4-2022-09-22T15:10:32.108152-10:00.jpg"
+     alt="KITV4 at 2022-09-22 15:10:34-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-14T14:00:17.051917-10:00.jpg">September 14 at 2:00 PM</a></p>
+ <p><a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-22T15:10:32.108152-10:00.jpg">September 22 at 3:10 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-14T02:02:48.063428-10:00.jpg">
-  <img src="https://archive.org/download/kitv4-2022/kitv4-2022-09-14T02:02:48.063428-10:00.jpg"
-     alt="KITV4 at 2022-09-14 02:02:53-10:00 local time"
+ <a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-22T03:00:03.254957-10:00.jpg">
+  <img src="https://archive.org/download/kitv4-2022/kitv4-2022-09-22T03:00:03.254957-10:00.jpg"
+     alt="KITV4 at 2022-09-22 03:00:06-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-14T02:02:48.063428-10:00.jpg">September 14 at 2:02 AM</a></p>
+ <p><a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-22T03:00:03.254957-10:00.jpg">September 22 at 3:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-21T15:06:32.487445-10:00.jpg">
+  <img src="https://archive.org/download/kitv4-2022/kitv4-2022-09-21T15:06:32.487445-10:00.jpg"
+     alt="KITV4 at 2022-09-21 15:06:41-10:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kitv4-2022/kitv4-2022-09-21T15:06:32.487445-10:00.jpg">September 21 at 3:06 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 11 hyperlink lists with the Internet Archive.
+The archiving routine has saved 27 hyperlink lists with the Internet Archive.
 
 
 
@@ -147,21 +156,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 1:57 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-19T01:57:50.466867-10:00.hyperlinks.json) |
-| [September 18 at 1:48 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-18T13:48:49.501751-10:00.hyperlinks.json) |
-| [September 18 at 1:59 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-18T01:59:44.427949-10:00.hyperlinks.json) |
-| [September 17 at 1:52 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-17T13:52:33.288482-10:00.hyperlinks.json) |
-| [September 17 at 1:59 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-17T01:59:22.309181-10:00.hyperlinks.json) |
-| [September 16 at 1:53 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-16T13:53:13.719934-10:00.hyperlinks.json) |
-| [September 16 at 2:01 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-16T02:01:01.416667-10:00.hyperlinks.json) |
-| [September 15 at 1:52 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-15T13:51:56.180365-10:00.hyperlinks.json) |
-| [September 15 at 2:01 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-15T02:01:48.857364-10:00.hyperlinks.json) |
-| [September 14 at 2:00 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-14T14:00:17.051917-10:00.hyperlinks.json) |
+| [September 27 at 2:59 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-27T02:59:03.181928-10:00.hyperlinks.json) |
+| [September 26 at 3:09 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-26T15:09:38.664512-10:00.hyperlinks.json) |
+| [September 26 at 2:59 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-26T02:59:18.320733-10:00.hyperlinks.json) |
+| [September 25 at 3:12 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-25T15:12:29.931756-10:00.hyperlinks.json) |
+| [September 25 at 2:57 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-25T02:57:04.850548-10:00.hyperlinks.json) |
+| [September 24 at 3:03 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-24T15:03:48.601912-10:00.hyperlinks.json) |
+| [September 24 at 2:51 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-24T02:51:40.329136-10:00.hyperlinks.json) |
+| [September 23 at 3:09 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-23T15:09:48.169048-10:00.hyperlinks.json) |
+| [September 23 at 2:55 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-23T02:55:12.493380-10:00.hyperlinks.json) |
+| [September 22 at 3:10 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-22T15:10:32.108152-10:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 11 accessibility trees with the Internet Archive.
+The archiving routine has saved 27 accessibility trees with the Internet Archive.
 
 
 
@@ -169,22 +178,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 1:57 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-19T01:57:50.466867-10:00.accessibility.json) |
-| [September 18 at 1:48 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-18T13:48:49.501751-10:00.accessibility.json) |
-| [September 18 at 1:59 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-18T01:59:44.427949-10:00.accessibility.json) |
-| [September 17 at 1:52 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-17T13:52:33.288482-10:00.accessibility.json) |
-| [September 17 at 1:59 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-17T01:59:22.309181-10:00.accessibility.json) |
-| [September 16 at 1:53 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-16T13:53:13.719934-10:00.accessibility.json) |
-| [September 16 at 2:01 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-16T02:01:01.416667-10:00.accessibility.json) |
-| [September 15 at 1:52 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-15T13:51:56.180365-10:00.accessibility.json) |
-| [September 15 at 2:01 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-15T02:01:48.857364-10:00.accessibility.json) |
-| [September 14 at 2:00 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-14T14:00:17.051917-10:00.accessibility.json) |
+| [September 27 at 2:59 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-27T02:59:03.181928-10:00.accessibility.json) |
+| [September 26 at 3:09 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-26T15:09:38.664512-10:00.accessibility.json) |
+| [September 26 at 2:59 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-26T02:59:18.320733-10:00.accessibility.json) |
+| [September 25 at 3:12 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-25T15:12:29.931756-10:00.accessibility.json) |
+| [September 25 at 2:57 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-25T02:57:04.850548-10:00.accessibility.json) |
+| [September 24 at 3:03 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-24T15:03:48.601912-10:00.accessibility.json) |
+| [September 24 at 2:51 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-24T02:51:40.329136-10:00.accessibility.json) |
+| [September 23 at 3:09 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-23T15:09:48.169048-10:00.accessibility.json) |
+| [September 23 at 2:55 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-23T02:55:12.493380-10:00.accessibility.json) |
+| [September 22 at 3:10 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-22T15:10:32.108152-10:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
 
 
 
@@ -192,16 +201,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 1:57 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-19T01:57:50.466867-10:00.lighthouse.json) |
-| [September 18 at 1:48 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-18T13:48:49.501751-10:00.lighthouse.json) |
-| [September 18 at 1:59 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-18T01:59:44.427949-10:00.lighthouse.json) |
-| [September 17 at 1:52 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-17T13:52:33.288482-10:00.lighthouse.json) |
-| [September 17 at 1:59 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-17T01:59:22.309181-10:00.lighthouse.json) |
-| [September 16 at 1:53 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-16T13:53:13.719934-10:00.lighthouse.json) |
-| [September 16 at 2:01 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-16T02:01:01.416667-10:00.lighthouse.json) |
-| [September 15 at 1:52 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-15T13:51:56.180365-10:00.lighthouse.json) |
-| [September 15 at 2:01 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-15T02:01:48.857364-10:00.lighthouse.json) |
-| [September 14 at 2:00 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-14T14:00:17.051917-10:00.lighthouse.json) |
+| [September 27 at 2:59 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-27T02:59:03.181928-10:00.lighthouse.json) |
+| [September 26 at 3:09 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-26T15:09:38.664512-10:00.lighthouse.json) |
+| [September 26 at 2:59 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-26T02:59:18.320733-10:00.lighthouse.json) |
+| [September 25 at 3:12 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-25T15:12:29.931756-10:00.lighthouse.json) |
+| [September 25 at 2:57 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-25T02:57:04.850548-10:00.lighthouse.json) |
+| [September 24 at 3:03 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-24T15:03:48.601912-10:00.lighthouse.json) |
+| [September 24 at 2:51 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-24T02:51:40.329136-10:00.lighthouse.json) |
+| [September 23 at 3:09 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-23T15:09:48.169048-10:00.lighthouse.json) |
+| [September 23 at 2:55 AM](https://archive.org/download/kitv4-2022/kitv4-2022-09-23T02:55:12.493380-10:00.lighthouse.json) |
+| [September 22 at 3:10 PM](https://archive.org/download/kitv4-2022/kitv4-2022-09-22T15:10:32.108152-10:00.lighthouse.json) |
 
 
 

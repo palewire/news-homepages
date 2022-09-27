@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 681 screenshots with the Internet Archive.
+The archiving routine has saved 714 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/abc-2022/abc-2022-09-19T08:52:02.590911-04:00.jpg">
-  <img src="https://archive.org/download/abc-2022/abc-2022-09-19T08:52:02.590911-04:00.jpg"
-     alt="ABC News at 2022-09-19 08:52:04-04:00 local time"
+ <a href="https://archive.org/download/abc-2022/abc-2022-09-27T08:54:29.223012-04:00.jpg">
+  <img src="https://archive.org/download/abc-2022/abc-2022-09-27T08:54:29.223012-04:00.jpg"
+     alt="ABC News at 2022-09-27 08:54:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-09-19T08:52:02.590911-04:00.jpg">September 19 at 8:52 AM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-09-27T08:54:29.223012-04:00.jpg">September 27 at 8:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/abc-2022/abc-2022-09-19T06:46:54.540320-04:00.jpg">
-  <img src="https://archive.org/download/abc-2022/abc-2022-09-19T06:46:54.540320-04:00.jpg"
-     alt="ABC News at 2022-09-19 06:46:57-04:00 local time"
+ <a href="https://archive.org/download/abc-2022/abc-2022-09-27T06:53:35.815814-04:00.jpg">
+  <img src="https://archive.org/download/abc-2022/abc-2022-09-27T06:53:35.815814-04:00.jpg"
+     alt="ABC News at 2022-09-27 06:53:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-09-19T06:46:54.540320-04:00.jpg">September 19 at 6:46 AM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-09-27T06:53:35.815814-04:00.jpg">September 27 at 6:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/abc-2022/abc-2022-09-18T18:47:28.366683-04:00.jpg">
-  <img src="https://archive.org/download/abc-2022/abc-2022-09-18T18:47:28.366683-04:00.jpg"
-     alt="ABC News at 2022-09-18 18:47:30-04:00 local time"
+ <a href="https://archive.org/download/abc-2022/abc-2022-09-26T18:50:54.395110-04:00.jpg">
+  <img src="https://archive.org/download/abc-2022/abc-2022-09-26T18:50:54.395110-04:00.jpg"
+     alt="ABC News at 2022-09-26 18:50:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-09-18T18:47:28.366683-04:00.jpg">September 18 at 6:47 PM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-09-26T18:50:54.395110-04:00.jpg">September 26 at 6:50 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/abc-2022/abc-2022-09-18T17:16:51.555803-04:00.jpg">
-  <img src="https://archive.org/download/abc-2022/abc-2022-09-18T17:16:51.555803-04:00.jpg"
-     alt="ABC News at 2022-09-18 17:16:52-04:00 local time"
+ <a href="https://archive.org/download/abc-2022/abc-2022-09-26T17:17:05.034735-04:00.jpg">
+  <img src="https://archive.org/download/abc-2022/abc-2022-09-26T17:17:05.034735-04:00.jpg"
+     alt="ABC News at 2022-09-26 17:17:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-09-18T17:16:51.555803-04:00.jpg">September 18 at 5:16 PM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-09-26T17:17:05.034735-04:00.jpg">September 26 at 5:17 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/abc-2022/abc-2022-09-18T08:53:54.836100-04:00.jpg">
-  <img src="https://archive.org/download/abc-2022/abc-2022-09-18T08:53:54.836100-04:00.jpg"
-     alt="ABC News at 2022-09-18 08:53:56-04:00 local time"
+ <a href="https://archive.org/download/abc-2022/abc-2022-09-26T08:52:52.448437-04:00.jpg">
+  <img src="https://archive.org/download/abc-2022/abc-2022-09-26T08:52:52.448437-04:00.jpg"
+     alt="ABC News at 2022-09-26 08:52:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-09-18T08:53:54.836100-04:00.jpg">September 18 at 8:53 AM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-09-26T08:52:52.448437-04:00.jpg">September 26 at 8:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/abc-2022/abc-2022-09-18T06:49:12.981741-04:00.jpg">
-  <img src="https://archive.org/download/abc-2022/abc-2022-09-18T06:49:12.981741-04:00.jpg"
-     alt="ABC News at 2022-09-18 06:49:15-04:00 local time"
+ <a href="https://archive.org/download/abc-2022/abc-2022-09-26T06:52:29.165951-04:00.jpg">
+  <img src="https://archive.org/download/abc-2022/abc-2022-09-26T06:52:29.165951-04:00.jpg"
+     alt="ABC News at 2022-09-26 06:52:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-09-18T06:49:12.981741-04:00.jpg">September 18 at 6:49 AM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-09-26T06:52:29.165951-04:00.jpg">September 26 at 6:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/abc-2022/abc-2022-09-17T18:51:10.965018-04:00.jpg">
-  <img src="https://archive.org/download/abc-2022/abc-2022-09-17T18:51:10.965018-04:00.jpg"
-     alt="ABC News at 2022-09-17 18:51:13-04:00 local time"
+ <a href="https://archive.org/download/abc-2022/abc-2022-09-25T18:40:44.223924-04:00.jpg">
+  <img src="https://archive.org/download/abc-2022/abc-2022-09-25T18:40:44.223924-04:00.jpg"
+     alt="ABC News at 2022-09-25 18:40:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-09-17T18:51:10.965018-04:00.jpg">September 17 at 6:51 PM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-09-25T18:40:44.223924-04:00.jpg">September 25 at 6:40 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/abc-2022/abc-2022-09-17T17:16:59.385468-04:00.jpg">
-  <img src="https://archive.org/download/abc-2022/abc-2022-09-17T17:16:59.385468-04:00.jpg"
-     alt="ABC News at 2022-09-17 17:17:01-04:00 local time"
+ <a href="https://archive.org/download/abc-2022/abc-2022-09-25T17:17:31.288933-04:00.jpg">
+  <img src="https://archive.org/download/abc-2022/abc-2022-09-25T17:17:31.288933-04:00.jpg"
+     alt="ABC News at 2022-09-25 17:17:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-09-17T17:16:59.385468-04:00.jpg">September 17 at 5:17 PM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-09-25T17:17:31.288933-04:00.jpg">September 25 at 5:17 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/abc-2022/abc-2022-09-17T08:53:50.175505-04:00.jpg">
-  <img src="https://archive.org/download/abc-2022/abc-2022-09-17T08:53:50.175505-04:00.jpg"
-     alt="ABC News at 2022-09-17 08:53:52-04:00 local time"
+ <a href="https://archive.org/download/abc-2022/abc-2022-09-25T08:45:16.180652-04:00.jpg">
+  <img src="https://archive.org/download/abc-2022/abc-2022-09-25T08:45:16.180652-04:00.jpg"
+     alt="ABC News at 2022-09-25 08:45:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-09-17T08:53:50.175505-04:00.jpg">September 17 at 8:53 AM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-09-25T08:45:16.180652-04:00.jpg">September 25 at 8:45 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/abc-2022/abc-2022-09-17T06:48:00.475559-04:00.jpg">
-  <img src="https://archive.org/download/abc-2022/abc-2022-09-17T06:48:00.475559-04:00.jpg"
-     alt="ABC News at 2022-09-17 06:48:02-04:00 local time"
+ <a href="https://archive.org/download/abc-2022/abc-2022-09-25T06:40:54.471396-04:00.jpg">
+  <img src="https://archive.org/download/abc-2022/abc-2022-09-25T06:40:54.471396-04:00.jpg"
+     alt="ABC News at 2022-09-25 06:40:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-09-17T06:48:00.475559-04:00.jpg">September 17 at 6:48 AM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-09-25T06:40:54.471396-04:00.jpg">September 25 at 6:40 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/abc-2022/abc-2022-09-16T18:50:46.517913-04:00.jpg">
-  <img src="https://archive.org/download/abc-2022/abc-2022-09-16T18:50:46.517913-04:00.jpg"
-     alt="ABC News at 2022-09-16 18:50:47-04:00 local time"
+ <a href="https://archive.org/download/abc-2022/abc-2022-09-24T18:40:15.087916-04:00.jpg">
+  <img src="https://archive.org/download/abc-2022/abc-2022-09-24T18:40:15.087916-04:00.jpg"
+     alt="ABC News at 2022-09-24 18:40:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-09-16T18:50:46.517913-04:00.jpg">September 16 at 6:50 PM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-09-24T18:40:15.087916-04:00.jpg">September 24 at 6:40 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/abc-2022/abc-2022-09-16T17:18:18.692633-04:00.jpg">
-  <img src="https://archive.org/download/abc-2022/abc-2022-09-16T17:18:18.692633-04:00.jpg"
-     alt="ABC News at 2022-09-16 17:18:20-04:00 local time"
+ <a href="https://archive.org/download/abc-2022/abc-2022-09-24T17:16:51.194764-04:00.jpg">
+  <img src="https://archive.org/download/abc-2022/abc-2022-09-24T17:16:51.194764-04:00.jpg"
+     alt="ABC News at 2022-09-24 17:16:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/abc-2022/abc-2022-09-16T17:18:18.692633-04:00.jpg">September 16 at 5:18 PM</a></p>
+ <p><a href="https://archive.org/download/abc-2022/abc-2022-09-24T17:16:51.194764-04:00.jpg">September 24 at 5:16 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 663 hyperlink lists with the Internet Archive.
+The archiving routine has saved 696 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 8:52 AM](https://archive.org/download/abc-2022/abc-2022-09-19T08:52:02.590911-04:00.hyperlinks.json) |
-| [September 19 at 6:47 AM](https://archive.org/download/abc-2022/abc-2022-09-19T06:46:54.540320-04:00.hyperlinks.json) |
-| [September 18 at 6:47 PM](https://archive.org/download/abc-2022/abc-2022-09-18T18:47:28.366683-04:00.hyperlinks.json) |
-| [September 18 at 5:16 PM](https://archive.org/download/abc-2022/abc-2022-09-18T17:16:51.555803-04:00.hyperlinks.json) |
-| [September 18 at 8:54 AM](https://archive.org/download/abc-2022/abc-2022-09-18T08:53:54.836100-04:00.hyperlinks.json) |
-| [September 18 at 6:49 AM](https://archive.org/download/abc-2022/abc-2022-09-18T06:49:12.981741-04:00.hyperlinks.json) |
-| [September 17 at 6:51 PM](https://archive.org/download/abc-2022/abc-2022-09-17T18:51:10.965018-04:00.hyperlinks.json) |
-| [September 17 at 5:17 PM](https://archive.org/download/abc-2022/abc-2022-09-17T17:16:59.385468-04:00.hyperlinks.json) |
-| [September 17 at 8:53 AM](https://archive.org/download/abc-2022/abc-2022-09-17T08:53:50.175505-04:00.hyperlinks.json) |
-| [September 17 at 6:48 AM](https://archive.org/download/abc-2022/abc-2022-09-17T06:48:00.475559-04:00.hyperlinks.json) |
+| [September 27 at 8:54 AM](https://archive.org/download/abc-2022/abc-2022-09-27T08:54:29.223012-04:00.hyperlinks.json) |
+| [September 27 at 6:53 AM](https://archive.org/download/abc-2022/abc-2022-09-27T06:53:35.815814-04:00.hyperlinks.json) |
+| [September 26 at 6:51 PM](https://archive.org/download/abc-2022/abc-2022-09-26T18:50:54.395110-04:00.hyperlinks.json) |
+| [September 26 at 5:17 PM](https://archive.org/download/abc-2022/abc-2022-09-26T17:17:05.034735-04:00.hyperlinks.json) |
+| [September 26 at 8:52 AM](https://archive.org/download/abc-2022/abc-2022-09-26T08:52:52.448437-04:00.hyperlinks.json) |
+| [September 26 at 6:53 AM](https://archive.org/download/abc-2022/abc-2022-09-26T06:52:29.165951-04:00.hyperlinks.json) |
+| [September 25 at 6:40 PM](https://archive.org/download/abc-2022/abc-2022-09-25T18:40:44.223924-04:00.hyperlinks.json) |
+| [September 25 at 5:17 PM](https://archive.org/download/abc-2022/abc-2022-09-25T17:17:31.288933-04:00.hyperlinks.json) |
+| [September 25 at 8:45 AM](https://archive.org/download/abc-2022/abc-2022-09-25T08:45:16.180652-04:00.hyperlinks.json) |
+| [September 25 at 6:40 AM](https://archive.org/download/abc-2022/abc-2022-09-25T06:40:54.471396-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 665 accessibility trees with the Internet Archive.
+The archiving routine has saved 698 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 8:52 AM](https://archive.org/download/abc-2022/abc-2022-09-19T08:52:02.590911-04:00.accessibility.json) |
-| [September 19 at 6:46 AM](https://archive.org/download/abc-2022/abc-2022-09-19T06:46:54.540320-04:00.accessibility.json) |
-| [September 18 at 6:47 PM](https://archive.org/download/abc-2022/abc-2022-09-18T18:47:28.366683-04:00.accessibility.json) |
-| [September 18 at 5:16 PM](https://archive.org/download/abc-2022/abc-2022-09-18T17:16:51.555803-04:00.accessibility.json) |
-| [September 18 at 8:53 AM](https://archive.org/download/abc-2022/abc-2022-09-18T08:53:54.836100-04:00.accessibility.json) |
-| [September 18 at 6:49 AM](https://archive.org/download/abc-2022/abc-2022-09-18T06:49:12.981741-04:00.accessibility.json) |
-| [September 17 at 6:51 PM](https://archive.org/download/abc-2022/abc-2022-09-17T18:51:10.965018-04:00.accessibility.json) |
-| [September 17 at 5:17 PM](https://archive.org/download/abc-2022/abc-2022-09-17T17:16:59.385468-04:00.accessibility.json) |
-| [September 17 at 8:53 AM](https://archive.org/download/abc-2022/abc-2022-09-17T08:53:50.175505-04:00.accessibility.json) |
-| [September 17 at 6:48 AM](https://archive.org/download/abc-2022/abc-2022-09-17T06:48:00.475559-04:00.accessibility.json) |
+| [September 27 at 8:54 AM](https://archive.org/download/abc-2022/abc-2022-09-27T08:54:29.223012-04:00.accessibility.json) |
+| [September 27 at 6:53 AM](https://archive.org/download/abc-2022/abc-2022-09-27T06:53:35.815814-04:00.accessibility.json) |
+| [September 26 at 6:50 PM](https://archive.org/download/abc-2022/abc-2022-09-26T18:50:54.395110-04:00.accessibility.json) |
+| [September 26 at 5:17 PM](https://archive.org/download/abc-2022/abc-2022-09-26T17:17:05.034735-04:00.accessibility.json) |
+| [September 26 at 8:52 AM](https://archive.org/download/abc-2022/abc-2022-09-26T08:52:52.448437-04:00.accessibility.json) |
+| [September 26 at 6:52 AM](https://archive.org/download/abc-2022/abc-2022-09-26T06:52:29.165951-04:00.accessibility.json) |
+| [September 25 at 6:40 PM](https://archive.org/download/abc-2022/abc-2022-09-25T18:40:44.223924-04:00.accessibility.json) |
+| [September 25 at 5:17 PM](https://archive.org/download/abc-2022/abc-2022-09-25T17:17:31.288933-04:00.accessibility.json) |
+| [September 25 at 8:45 AM](https://archive.org/download/abc-2022/abc-2022-09-25T08:45:16.180652-04:00.accessibility.json) |
+| [September 25 at 6:40 AM](https://archive.org/download/abc-2022/abc-2022-09-25T06:40:54.471396-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 228 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 261 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 8:52 AM](https://archive.org/download/abc-2022/abc-2022-09-19T08:52:02.590911-04:00.lighthouse.json) |
-| [September 19 at 6:47 AM](https://archive.org/download/abc-2022/abc-2022-09-19T06:46:54.540320-04:00.lighthouse.json) |
-| [September 18 at 6:47 PM](https://archive.org/download/abc-2022/abc-2022-09-18T18:47:28.366683-04:00.lighthouse.json) |
-| [September 18 at 5:16 PM](https://archive.org/download/abc-2022/abc-2022-09-18T17:16:51.555803-04:00.lighthouse.json) |
-| [September 18 at 8:54 AM](https://archive.org/download/abc-2022/abc-2022-09-18T08:53:54.836100-04:00.lighthouse.json) |
-| [September 18 at 6:49 AM](https://archive.org/download/abc-2022/abc-2022-09-18T06:49:12.981741-04:00.lighthouse.json) |
-| [September 17 at 6:51 PM](https://archive.org/download/abc-2022/abc-2022-09-17T18:51:10.965018-04:00.lighthouse.json) |
-| [September 17 at 5:17 PM](https://archive.org/download/abc-2022/abc-2022-09-17T17:16:59.385468-04:00.lighthouse.json) |
-| [September 17 at 8:53 AM](https://archive.org/download/abc-2022/abc-2022-09-17T08:53:50.175505-04:00.lighthouse.json) |
-| [September 17 at 6:48 AM](https://archive.org/download/abc-2022/abc-2022-09-17T06:48:00.475559-04:00.lighthouse.json) |
+| [September 27 at 8:54 AM](https://archive.org/download/abc-2022/abc-2022-09-27T08:54:29.223012-04:00.lighthouse.json) |
+| [September 27 at 6:53 AM](https://archive.org/download/abc-2022/abc-2022-09-27T06:53:35.815814-04:00.lighthouse.json) |
+| [September 26 at 6:51 PM](https://archive.org/download/abc-2022/abc-2022-09-26T18:50:54.395110-04:00.lighthouse.json) |
+| [September 26 at 5:17 PM](https://archive.org/download/abc-2022/abc-2022-09-26T17:17:05.034735-04:00.lighthouse.json) |
+| [September 26 at 8:53 AM](https://archive.org/download/abc-2022/abc-2022-09-26T08:52:52.448437-04:00.lighthouse.json) |
+| [September 26 at 6:53 AM](https://archive.org/download/abc-2022/abc-2022-09-26T06:52:29.165951-04:00.lighthouse.json) |
+| [September 25 at 6:40 PM](https://archive.org/download/abc-2022/abc-2022-09-25T18:40:44.223924-04:00.lighthouse.json) |
+| [September 25 at 5:17 PM](https://archive.org/download/abc-2022/abc-2022-09-25T17:17:31.288933-04:00.lighthouse.json) |
+| [September 25 at 8:45 AM](https://archive.org/download/abc-2022/abc-2022-09-25T08:45:16.180652-04:00.lighthouse.json) |
+| [September 25 at 6:41 AM](https://archive.org/download/abc-2022/abc-2022-09-25T06:40:54.471396-04:00.lighthouse.json) |
 
 
 

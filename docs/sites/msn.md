@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 52 screenshots with the Internet Archive.
+The archiving routine has saved 69 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/msn-2022/msn-2022-09-19T05:56:09.839786-07:00.jpg">
-  <img src="https://archive.org/download/msn-2022/msn-2022-09-19T05:56:09.839786-07:00.jpg"
-     alt="MSN at 2022-09-19 05:56:17-07:00 local time"
+ <a href="https://archive.org/download/msn-2022/msn-2022-09-27T06:01:32.549686-07:00.jpg">
+  <img src="https://archive.org/download/msn-2022/msn-2022-09-27T06:01:32.549686-07:00.jpg"
+     alt="MSN at 2022-09-27 06:01:33-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msn-2022/msn-2022-09-19T05:56:09.839786-07:00.jpg">September 19 at 5:56 AM</a></p>
+ <p><a href="https://archive.org/download/msn-2022/msn-2022-09-27T06:01:32.549686-07:00.jpg">September 27 at 6:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/msn-2022/msn-2022-09-18T18:12:24.436592-07:00.jpg">
-  <img src="https://archive.org/download/msn-2022/msn-2022-09-18T18:12:24.436592-07:00.jpg"
-     alt="MSN at 2022-09-18 18:12:25-07:00 local time"
+ <a href="https://archive.org/download/msn-2022/msn-2022-09-26T18:12:17.199895-07:00.jpg">
+  <img src="https://archive.org/download/msn-2022/msn-2022-09-26T18:12:17.199895-07:00.jpg"
+     alt="MSN at 2022-09-26 18:12:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msn-2022/msn-2022-09-18T18:12:24.436592-07:00.jpg">September 18 at 6:12 PM</a></p>
+ <p><a href="https://archive.org/download/msn-2022/msn-2022-09-26T18:12:17.199895-07:00.jpg">September 26 at 6:12 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/msn-2022/msn-2022-09-18T05:58:19.788337-07:00.jpg">
-  <img src="https://archive.org/download/msn-2022/msn-2022-09-18T05:58:19.788337-07:00.jpg"
-     alt="MSN at 2022-09-18 05:58:20-07:00 local time"
+ <a href="https://archive.org/download/msn-2022/msn-2022-09-26T06:01:02.228934-07:00.jpg">
+  <img src="https://archive.org/download/msn-2022/msn-2022-09-26T06:01:02.228934-07:00.jpg"
+     alt="MSN at 2022-09-26 06:01:11-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msn-2022/msn-2022-09-18T05:58:19.788337-07:00.jpg">September 18 at 5:58 AM</a></p>
+ <p><a href="https://archive.org/download/msn-2022/msn-2022-09-26T06:01:02.228934-07:00.jpg">September 26 at 6:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/msn-2022/msn-2022-09-17T18:17:44.847295-07:00.jpg">
-  <img src="https://archive.org/download/msn-2022/msn-2022-09-17T18:17:44.847295-07:00.jpg"
-     alt="MSN at 2022-09-17 18:17:46-07:00 local time"
+ <a href="https://archive.org/download/msn-2022/msn-2022-09-25T18:14:17.694496-07:00.jpg">
+  <img src="https://archive.org/download/msn-2022/msn-2022-09-25T18:14:17.694496-07:00.jpg"
+     alt="MSN at 2022-09-25 18:14:23-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msn-2022/msn-2022-09-17T18:17:44.847295-07:00.jpg">September 17 at 6:17 PM</a></p>
+ <p><a href="https://archive.org/download/msn-2022/msn-2022-09-25T18:14:17.694496-07:00.jpg">September 25 at 6:14 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/msn-2022/msn-2022-09-17T05:58:18.087010-07:00.jpg">
-  <img src="https://archive.org/download/msn-2022/msn-2022-09-17T05:58:18.087010-07:00.jpg"
-     alt="MSN at 2022-09-17 05:58:19-07:00 local time"
+ <a href="https://archive.org/download/msn-2022/msn-2022-09-25T05:59:25.371274-07:00.jpg">
+  <img src="https://archive.org/download/msn-2022/msn-2022-09-25T05:59:25.371274-07:00.jpg"
+     alt="MSN at 2022-09-25 05:59:29-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msn-2022/msn-2022-09-17T05:58:18.087010-07:00.jpg">September 17 at 5:58 AM</a></p>
+ <p><a href="https://archive.org/download/msn-2022/msn-2022-09-25T05:59:25.371274-07:00.jpg">September 25 at 5:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/msn-2022/msn-2022-09-16T18:11:17.396157-07:00.jpg">
-  <img src="https://archive.org/download/msn-2022/msn-2022-09-16T18:11:17.396157-07:00.jpg"
-     alt="MSN at 2022-09-16 18:11:19-07:00 local time"
+ <a href="https://archive.org/download/msn-2022/msn-2022-09-24T18:05:58.803919-07:00.jpg">
+  <img src="https://archive.org/download/msn-2022/msn-2022-09-24T18:05:58.803919-07:00.jpg"
+     alt="MSN at 2022-09-24 18:06:03-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msn-2022/msn-2022-09-16T18:11:17.396157-07:00.jpg">September 16 at 6:11 PM</a></p>
+ <p><a href="https://archive.org/download/msn-2022/msn-2022-09-24T18:05:58.803919-07:00.jpg">September 24 at 6:06 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/msn-2022/msn-2022-09-16T05:58:17.432008-07:00.jpg">
-  <img src="https://archive.org/download/msn-2022/msn-2022-09-16T05:58:17.432008-07:00.jpg"
-     alt="MSN at 2022-09-16 05:58:19-07:00 local time"
+ <a href="https://archive.org/download/msn-2022/msn-2022-09-24T05:53:42.047623-07:00.jpg">
+  <img src="https://archive.org/download/msn-2022/msn-2022-09-24T05:53:42.047623-07:00.jpg"
+     alt="MSN at 2022-09-24 05:53:46-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msn-2022/msn-2022-09-16T05:58:17.432008-07:00.jpg">September 16 at 5:58 AM</a></p>
+ <p><a href="https://archive.org/download/msn-2022/msn-2022-09-24T05:53:42.047623-07:00.jpg">September 24 at 5:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/msn-2022/msn-2022-09-15T18:13:55.727332-07:00.jpg">
-  <img src="https://archive.org/download/msn-2022/msn-2022-09-15T18:13:55.727332-07:00.jpg"
-     alt="MSN at 2022-09-15 18:13:57-07:00 local time"
+ <a href="https://archive.org/download/msn-2022/msn-2022-09-23T18:12:12.577957-07:00.jpg">
+  <img src="https://archive.org/download/msn-2022/msn-2022-09-23T18:12:12.577957-07:00.jpg"
+     alt="MSN at 2022-09-23 18:12:16-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msn-2022/msn-2022-09-15T18:13:55.727332-07:00.jpg">September 15 at 6:13 PM</a></p>
+ <p><a href="https://archive.org/download/msn-2022/msn-2022-09-23T18:12:12.577957-07:00.jpg">September 23 at 6:12 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/msn-2022/msn-2022-09-15T06:00:59.139627-07:00.jpg">
-  <img src="https://archive.org/download/msn-2022/msn-2022-09-15T06:00:59.139627-07:00.jpg"
-     alt="MSN at 2022-09-15 06:01:00-07:00 local time"
+ <a href="https://archive.org/download/msn-2022/msn-2022-09-23T05:57:33.773936-07:00.jpg">
+  <img src="https://archive.org/download/msn-2022/msn-2022-09-23T05:57:33.773936-07:00.jpg"
+     alt="MSN at 2022-09-23 05:57:38-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msn-2022/msn-2022-09-15T06:00:59.139627-07:00.jpg">September 15 at 6:01 AM</a></p>
+ <p><a href="https://archive.org/download/msn-2022/msn-2022-09-23T05:57:33.773936-07:00.jpg">September 23 at 5:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/msn-2022/msn-2022-09-14T18:17:16.869543-07:00.jpg">
-  <img src="https://archive.org/download/msn-2022/msn-2022-09-14T18:17:16.869543-07:00.jpg"
-     alt="MSN at 2022-09-14 18:17:18-07:00 local time"
+ <a href="https://archive.org/download/msn-2022/msn-2022-09-22T18:12:31.631684-07:00.jpg">
+  <img src="https://archive.org/download/msn-2022/msn-2022-09-22T18:12:31.631684-07:00.jpg"
+     alt="MSN at 2022-09-22 18:12:33-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msn-2022/msn-2022-09-14T18:17:16.869543-07:00.jpg">September 14 at 6:17 PM</a></p>
+ <p><a href="https://archive.org/download/msn-2022/msn-2022-09-22T18:12:31.631684-07:00.jpg">September 22 at 6:12 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/msn-2022/msn-2022-09-14T06:05:42.421518-07:00.jpg">
-  <img src="https://archive.org/download/msn-2022/msn-2022-09-14T06:05:42.421518-07:00.jpg"
-     alt="MSN at 2022-09-14 06:05:45-07:00 local time"
+ <a href="https://archive.org/download/msn-2022/msn-2022-09-22T06:02:46.280512-07:00.jpg">
+  <img src="https://archive.org/download/msn-2022/msn-2022-09-22T06:02:46.280512-07:00.jpg"
+     alt="MSN at 2022-09-22 06:02:51-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msn-2022/msn-2022-09-14T06:05:42.421518-07:00.jpg">September 14 at 6:05 AM</a></p>
+ <p><a href="https://archive.org/download/msn-2022/msn-2022-09-22T06:02:46.280512-07:00.jpg">September 22 at 6:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/msn-2022/msn-2022-09-13T18:20:42.388137-07:00.jpg">
-  <img src="https://archive.org/download/msn-2022/msn-2022-09-13T18:20:42.388137-07:00.jpg"
-     alt="MSN at 2022-09-13 18:20:46-07:00 local time"
+ <a href="https://archive.org/download/msn-2022/msn-2022-09-21T18:08:44.463692-07:00.jpg">
+  <img src="https://archive.org/download/msn-2022/msn-2022-09-21T18:08:44.463692-07:00.jpg"
+     alt="MSN at 2022-09-21 18:08:49-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msn-2022/msn-2022-09-13T18:20:42.388137-07:00.jpg">September 13 at 6:20 PM</a></p>
+ <p><a href="https://archive.org/download/msn-2022/msn-2022-09-21T18:08:44.463692-07:00.jpg">September 21 at 6:08 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 52 hyperlink lists with the Internet Archive.
+The archiving routine has saved 69 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 5:56 AM](https://archive.org/download/msn-2022/msn-2022-09-19T05:56:09.839786-07:00.hyperlinks.json) |
-| [September 18 at 6:12 PM](https://archive.org/download/msn-2022/msn-2022-09-18T18:12:24.436592-07:00.hyperlinks.json) |
-| [September 18 at 5:58 AM](https://archive.org/download/msn-2022/msn-2022-09-18T05:58:19.788337-07:00.hyperlinks.json) |
-| [September 17 at 6:17 PM](https://archive.org/download/msn-2022/msn-2022-09-17T18:17:44.847295-07:00.hyperlinks.json) |
-| [September 17 at 5:58 AM](https://archive.org/download/msn-2022/msn-2022-09-17T05:58:18.087010-07:00.hyperlinks.json) |
-| [September 16 at 6:11 PM](https://archive.org/download/msn-2022/msn-2022-09-16T18:11:17.396157-07:00.hyperlinks.json) |
-| [September 16 at 5:58 AM](https://archive.org/download/msn-2022/msn-2022-09-16T05:58:17.432008-07:00.hyperlinks.json) |
-| [September 15 at 6:14 PM](https://archive.org/download/msn-2022/msn-2022-09-15T18:13:55.727332-07:00.hyperlinks.json) |
-| [September 15 at 6:01 AM](https://archive.org/download/msn-2022/msn-2022-09-15T06:00:59.139627-07:00.hyperlinks.json) |
-| [September 14 at 6:17 PM](https://archive.org/download/msn-2022/msn-2022-09-14T18:17:16.869543-07:00.hyperlinks.json) |
+| [September 27 at 6:01 AM](https://archive.org/download/msn-2022/msn-2022-09-27T06:01:32.549686-07:00.hyperlinks.json) |
+| [September 26 at 6:12 PM](https://archive.org/download/msn-2022/msn-2022-09-26T18:12:17.199895-07:00.hyperlinks.json) |
+| [September 26 at 6:01 AM](https://archive.org/download/msn-2022/msn-2022-09-26T06:01:02.228934-07:00.hyperlinks.json) |
+| [September 25 at 6:14 PM](https://archive.org/download/msn-2022/msn-2022-09-25T18:14:17.694496-07:00.hyperlinks.json) |
+| [September 25 at 5:59 AM](https://archive.org/download/msn-2022/msn-2022-09-25T05:59:25.371274-07:00.hyperlinks.json) |
+| [September 24 at 6:06 PM](https://archive.org/download/msn-2022/msn-2022-09-24T18:05:58.803919-07:00.hyperlinks.json) |
+| [September 24 at 5:53 AM](https://archive.org/download/msn-2022/msn-2022-09-24T05:53:42.047623-07:00.hyperlinks.json) |
+| [September 23 at 6:12 PM](https://archive.org/download/msn-2022/msn-2022-09-23T18:12:12.577957-07:00.hyperlinks.json) |
+| [September 23 at 5:57 AM](https://archive.org/download/msn-2022/msn-2022-09-23T05:57:33.773936-07:00.hyperlinks.json) |
+| [September 22 at 6:12 PM](https://archive.org/download/msn-2022/msn-2022-09-22T18:12:31.631684-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 53 accessibility trees with the Internet Archive.
+The archiving routine has saved 70 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 5:56 AM](https://archive.org/download/msn-2022/msn-2022-09-19T05:56:09.839786-07:00.accessibility.json) |
-| [September 18 at 6:12 PM](https://archive.org/download/msn-2022/msn-2022-09-18T18:12:24.436592-07:00.accessibility.json) |
-| [September 18 at 5:58 AM](https://archive.org/download/msn-2022/msn-2022-09-18T05:58:19.788337-07:00.accessibility.json) |
-| [September 17 at 6:17 PM](https://archive.org/download/msn-2022/msn-2022-09-17T18:17:44.847295-07:00.accessibility.json) |
-| [September 17 at 5:58 AM](https://archive.org/download/msn-2022/msn-2022-09-17T05:58:18.087010-07:00.accessibility.json) |
-| [September 16 at 6:11 PM](https://archive.org/download/msn-2022/msn-2022-09-16T18:11:17.396157-07:00.accessibility.json) |
-| [September 16 at 5:58 AM](https://archive.org/download/msn-2022/msn-2022-09-16T05:58:17.432008-07:00.accessibility.json) |
-| [September 15 at 6:14 PM](https://archive.org/download/msn-2022/msn-2022-09-15T18:13:55.727332-07:00.accessibility.json) |
-| [September 15 at 6:01 AM](https://archive.org/download/msn-2022/msn-2022-09-15T06:00:59.139627-07:00.accessibility.json) |
-| [September 14 at 6:17 PM](https://archive.org/download/msn-2022/msn-2022-09-14T18:17:16.869543-07:00.accessibility.json) |
+| [September 27 at 6:01 AM](https://archive.org/download/msn-2022/msn-2022-09-27T06:01:32.549686-07:00.accessibility.json) |
+| [September 26 at 6:12 PM](https://archive.org/download/msn-2022/msn-2022-09-26T18:12:17.199895-07:00.accessibility.json) |
+| [September 26 at 6:01 AM](https://archive.org/download/msn-2022/msn-2022-09-26T06:01:02.228934-07:00.accessibility.json) |
+| [September 25 at 6:14 PM](https://archive.org/download/msn-2022/msn-2022-09-25T18:14:17.694496-07:00.accessibility.json) |
+| [September 25 at 5:59 AM](https://archive.org/download/msn-2022/msn-2022-09-25T05:59:25.371274-07:00.accessibility.json) |
+| [September 24 at 6:06 PM](https://archive.org/download/msn-2022/msn-2022-09-24T18:05:58.803919-07:00.accessibility.json) |
+| [September 24 at 5:53 AM](https://archive.org/download/msn-2022/msn-2022-09-24T05:53:42.047623-07:00.accessibility.json) |
+| [September 23 at 6:12 PM](https://archive.org/download/msn-2022/msn-2022-09-23T18:12:12.577957-07:00.accessibility.json) |
+| [September 23 at 5:57 AM](https://archive.org/download/msn-2022/msn-2022-09-23T05:57:33.773936-07:00.accessibility.json) |
+| [September 22 at 6:12 PM](https://archive.org/download/msn-2022/msn-2022-09-22T18:12:31.631684-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 70 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 5:56 AM](https://archive.org/download/msn-2022/msn-2022-09-19T05:56:09.839786-07:00.lighthouse.json) |
-| [September 18 at 6:12 PM](https://archive.org/download/msn-2022/msn-2022-09-18T18:12:24.436592-07:00.lighthouse.json) |
-| [September 18 at 5:58 AM](https://archive.org/download/msn-2022/msn-2022-09-18T05:58:19.788337-07:00.lighthouse.json) |
-| [September 17 at 6:17 PM](https://archive.org/download/msn-2022/msn-2022-09-17T18:17:44.847295-07:00.lighthouse.json) |
-| [September 17 at 5:58 AM](https://archive.org/download/msn-2022/msn-2022-09-17T05:58:18.087010-07:00.lighthouse.json) |
-| [September 16 at 6:11 PM](https://archive.org/download/msn-2022/msn-2022-09-16T18:11:17.396157-07:00.lighthouse.json) |
-| [September 16 at 5:58 AM](https://archive.org/download/msn-2022/msn-2022-09-16T05:58:17.432008-07:00.lighthouse.json) |
-| [September 15 at 6:14 PM](https://archive.org/download/msn-2022/msn-2022-09-15T18:13:55.727332-07:00.lighthouse.json) |
-| [September 15 at 6:01 AM](https://archive.org/download/msn-2022/msn-2022-09-15T06:00:59.139627-07:00.lighthouse.json) |
-| [September 14 at 6:17 PM](https://archive.org/download/msn-2022/msn-2022-09-14T18:17:16.869543-07:00.lighthouse.json) |
+| [September 27 at 6:01 AM](https://archive.org/download/msn-2022/msn-2022-09-27T06:01:32.549686-07:00.lighthouse.json) |
+| [September 26 at 6:12 PM](https://archive.org/download/msn-2022/msn-2022-09-26T18:12:17.199895-07:00.lighthouse.json) |
+| [September 26 at 6:01 AM](https://archive.org/download/msn-2022/msn-2022-09-26T06:01:02.228934-07:00.lighthouse.json) |
+| [September 25 at 6:14 PM](https://archive.org/download/msn-2022/msn-2022-09-25T18:14:17.694496-07:00.lighthouse.json) |
+| [September 25 at 5:59 AM](https://archive.org/download/msn-2022/msn-2022-09-25T05:59:25.371274-07:00.lighthouse.json) |
+| [September 24 at 6:06 PM](https://archive.org/download/msn-2022/msn-2022-09-24T18:05:58.803919-07:00.lighthouse.json) |
+| [September 24 at 5:53 AM](https://archive.org/download/msn-2022/msn-2022-09-24T05:53:42.047623-07:00.lighthouse.json) |
+| [September 23 at 6:12 PM](https://archive.org/download/msn-2022/msn-2022-09-23T18:12:12.577957-07:00.lighthouse.json) |
+| [September 23 at 5:57 AM](https://archive.org/download/msn-2022/msn-2022-09-23T05:57:33.773936-07:00.lighthouse.json) |
+| [September 22 at 6:12 PM](https://archive.org/download/msn-2022/msn-2022-09-22T18:12:31.631684-07:00.lighthouse.json) |
 
 
 
