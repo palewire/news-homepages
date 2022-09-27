@@ -1,10 +1,5 @@
 {
-  "beltel-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1664304832,
+  "created": 1664319410,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/28/items/beltel-2022",
@@ -11105,31 +11100,82 @@
       "sha1": "278df7140fa5c7dd741a2d610da43cb9d18eaf14"
     },
     {
+      "name": "beltel-2022-09-27T23:55:30.230374+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664319334",
+      "size": "37066",
+      "md5": "ab70f881b29aaab509cade1666e0a874",
+      "crc32": "303c2cfd",
+      "sha1": "c4bf626da33b88822d8aa22dc96187429f7813aa",
+      "format": "JSON"
+    },
+    {
+      "name": "beltel-2022-09-27T23:55:30.230374+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664319336",
+      "size": "84035",
+      "md5": "ee2146bd2c9f1ffbdf90dbfcae999d9d",
+      "crc32": "29f36f67",
+      "sha1": "d21cb4cc94b95827dd18ce3fdaeab9d1a78e2f86",
+      "format": "JSON"
+    },
+    {
+      "name": "beltel-2022-09-27T23:55:30.230374+01:00.jpg",
+      "source": "original",
+      "mtime": "1664319332",
+      "size": "270627",
+      "md5": "b429d88d177a713eef3f7068af5f71a5",
+      "crc32": "25b8a77c",
+      "sha1": "cc360b3caa3863ac5d7fc9ab3cfad70a4ea92a69",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "beltel-2022-09-27T23:55:30.230374+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664319338",
+      "size": "1549",
+      "md5": "71209031fbde99be031c1d822ebb0188",
+      "crc32": "a456e617",
+      "sha1": "b051d1f0d4dcff0a06662504de7d9e9040e863b9",
+      "format": "JSON"
+    },
+    {
+      "name": "beltel-2022-09-27T23:55:30.230374+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1664319340",
+      "size": "20303",
+      "md5": "f94eebcbcae32ba9410fc46a646b7da6",
+      "crc32": "b1d48c67",
+      "sha1": "90dc8b44877440e8d8656cbdee94e94f7c706ef3",
+      "format": "JSON"
+    },
+    {
       "name": "beltel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "68d4796e753b481491403a4e76d0ae5dedf30316",
-      "mtime": "1664276853",
-      "size": "224859",
-      "md5": "2afc81ebe05c04c7cea460a074ff101a",
-      "crc32": "1647a653",
-      "sha1": "55896bfb49e8cabbce0daa4950c8f55d5a6541f3",
+      "btih": "09ad90972853f918f551be338a343b0540d77dc6",
+      "mtime": "1664319401",
+      "size": "225912",
+      "md5": "2f55dd9097ca2c318047fedc5d80250e",
+      "crc32": "4df859f5",
+      "sha1": "3cd32eb2c6b93de06d9679c84eae96eba29b5c8b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "beltel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "28f613fbc17411d30bc222c930e338c3",
+      "md5": "7843579ce3683802231483d95a1a3cad",
       "summation": "md5"
     },
     {
       "name": "beltel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664276142",
-      "size": "1359872",
-      "md5": "c659c2c5b55a347aa610ccf674d95ca8",
-      "crc32": "49d12060",
-      "sha1": "123e4b9da5c71eec49c69b0a4098ef0b51d96eb3",
+      "mtime": "1664319346",
+      "size": "1368064",
+      "md5": "30807aec038b706524d9f2b6011a2936",
+      "crc32": "70793bec",
+      "sha1": "2537b84611c9a2a1fd4ececd399137574be61f92",
       "format": "Metadata"
     },
     {
@@ -11143,9 +11189,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1076,
-  "item_last_updated": 1664276853,
-  "item_size": 77244058,
+  "files_count": 1081,
+  "item_last_updated": 1664319401,
+  "item_size": 77666883,
   "metadata": {
     "identifier": "beltel-2022",
     "collection": [
@@ -11162,10 +11208,21 @@
     "publicdate": "2022-07-18 00:59:08",
     "addeddate": "2022-07-18 00:59:08"
   },
+  "pending_tasks": true,
   "server": "ia601508.us.archive.org",
-  "uniq": 871091897,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3420308033,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1695577439,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia601508.us.archive.org"
   ]
 }

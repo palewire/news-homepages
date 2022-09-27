@@ -1,5 +1,5 @@
 {
-  "created": 1664292609,
+  "created": 1664319362,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/11/items/asburyparkpress-2022",
@@ -946,31 +946,82 @@
       "sha1": "9024479b91b5fc26810ef5ce4a72660da7b9ed5e"
     },
     {
+      "name": "asburyparkpress-2022-09-27T18:55:12.211895-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664319315",
+      "size": "17741",
+      "md5": "157f60b2417374d4abcfc4dc5a448f65",
+      "crc32": "d1529544",
+      "sha1": "00563186c5d67f1dfb5dcbe5492fb6cb851a6436",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-09-27T18:55:12.211895-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664319317",
+      "size": "30230",
+      "md5": "36c3964383a984111693d0a3661bed0b",
+      "crc32": "c7d718d9",
+      "sha1": "c723f58b485ecb8c4d09870b152fb3601a68734f",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-09-27T18:55:12.211895-04:00.jpg",
+      "source": "original",
+      "mtime": "1664319313",
+      "size": "265555",
+      "md5": "e24872a438e52c8daec9382fe42d17e4",
+      "crc32": "fc1336b6",
+      "sha1": "d2c231edce26a3b4aa703e209f068c52470b3929",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asburyparkpress-2022-09-27T18:55:12.211895-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664319319",
+      "size": "1431",
+      "md5": "382269207e0f21dd12f8e3a8518c5cec",
+      "crc32": "0ac7dd9e",
+      "sha1": "18c49ae9a32517e3ee920f06a713636b7bc8b9c9",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-09-27T18:55:12.211895-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664319320",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "asburyparkpress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "956a877e8ebb7a7ccf9c7cdd41fef20894c79e51",
-      "mtime": "1664276788",
-      "size": "21241",
-      "md5": "1d16e8b76a9b04625615681d777aaa52",
-      "crc32": "78b7add1",
-      "sha1": "4d9871a09f815da88cfedbeb73c7a4c4c38cf4e1",
+      "btih": "01830ec39cc302dcb72c9448570a98f404e3087d",
+      "mtime": "1664319359",
+      "size": "22337",
+      "md5": "ff7b03c902188e2d0044368291dc9e84",
+      "crc32": "e59da8af",
+      "sha1": "ceea42ccfc0a82b9b3418ee36def21c72c6e5610",
       "format": "Archive BitTorrent"
     },
     {
       "name": "asburyparkpress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a2ed5d56f3f273b277881d36884252ab",
+      "md5": "9c04121ae2034fe7e8837f79e0204943",
       "summation": "md5"
     },
     {
       "name": "asburyparkpress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664276132",
-      "size": "139264",
-      "md5": "dd59c6d17ba3785871b733cfbaebdd97",
-      "crc32": "204f60b3",
-      "sha1": "a121e29794bda9560b6f9fd4c4f096c15c62103c",
+      "mtime": "1664319324",
+      "size": "147456",
+      "md5": "672a6844413190524b5014c5913b8216",
+      "crc32": "2e9fa3c2",
+      "sha1": "b007729b727a547b28d635c7b4d3b590015653d0",
       "format": "Metadata"
     },
     {
@@ -984,9 +1035,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 95,
-  "item_last_updated": 1664276788,
-  "item_size": 6042964,
+  "files_count": 100,
+  "item_last_updated": 1664319359,
+  "item_size": 6367411,
   "metadata": {
     "identifier": "asburyparkpress-2022",
     "collection": [
@@ -1003,10 +1054,21 @@
     "publicdate": "2022-09-20 22:10:26",
     "addeddate": "2022-09-20 22:10:26"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 37523782,
+  "pending_tasks": true,
+  "server": "ia601404.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3420307221,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1377432641,
   "workable_servers": [
-    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }

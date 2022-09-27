@@ -1,5 +1,5 @@
 {
-  "created": 1664301270,
+  "created": 1664319590,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/25/items/codaily-2022",
@@ -9724,31 +9724,82 @@
       "sha1": "5f23bf87ffe70ada21ecf2914fdc2abb8460da71"
     },
     {
+      "name": "codaily-2022-09-27T15:58:25.228084-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664319528",
+      "size": "29889",
+      "md5": "7fb2a81549163622cbe903638ef91adb",
+      "crc32": "93cf52b4",
+      "sha1": "8057f67c3fa13cb3915af904f7991e26037035a2",
+      "format": "JSON"
+    },
+    {
+      "name": "codaily-2022-09-27T15:58:25.228084-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664319530",
+      "size": "28673",
+      "md5": "d6222d66b10b68dd68bb1401bb614972",
+      "crc32": "08e6c557",
+      "sha1": "2917677243235b8256aa49117938bca404954b84",
+      "format": "JSON"
+    },
+    {
+      "name": "codaily-2022-09-27T15:58:25.228084-07:00.jpg",
+      "source": "original",
+      "mtime": "1664319527",
+      "size": "299488",
+      "md5": "90c198368aa6d448fc37996036c9118e",
+      "crc32": "c53b3493",
+      "sha1": "59d813f4237cab0e34d2cc097a575d58177f75fb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "codaily-2022-09-27T15:58:25.228084-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664319532",
+      "size": "1531",
+      "md5": "1af7fcb6b32555de84f302f5400e628f",
+      "crc32": "173556d7",
+      "sha1": "4796697f6fb6dcae5db5f13956938b2fc477657e",
+      "format": "JSON"
+    },
+    {
+      "name": "codaily-2022-09-27T15:58:25.228084-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664319534",
+      "size": "28728",
+      "md5": "070aa447a291e374190b2aad8b42cfe5",
+      "crc32": "01ca27c3",
+      "sha1": "453e621d554cb541eced176a11955dec4749133c",
+      "format": "JSON"
+    },
+    {
       "name": "codaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6f5f866ac97f78d8057621d51129a16cb2a5505e",
-      "mtime": "1664277047",
-      "size": "197576",
-      "md5": "316e2587469092ec6f94e7dac1bc8762",
-      "crc32": "366dc9c1",
-      "sha1": "c15b4bf2a84f468014755341a59de7472af66438",
+      "btih": "5b8737153350d94e8f9a4725d91205dc20064505",
+      "mtime": "1664319584",
+      "size": "198634",
+      "md5": "111d97f80a1edb5afb26f4f5168d2c56",
+      "crc32": "78f46d0c",
+      "sha1": "0000a082c8ed288057ce4803f3c37deb0219d590",
       "format": "Archive BitTorrent"
     },
     {
       "name": "codaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1eaeec804b067b75df875d8caccbea4a",
+      "md5": "4f04e6a887001379401fd978cd29b211",
       "summation": "md5"
     },
     {
       "name": "codaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664276303",
-      "size": "1175552",
-      "md5": "f6c85e4d4209ba8fdaba4de98a507bb4",
-      "crc32": "e2ffe3d8",
-      "sha1": "e2a0eda6772ae6849f57d93157c8fe15aaf73e87",
+      "mtime": "1664319538",
+      "size": "1183744",
+      "md5": "01731821b6e7b3cceab28566d357a6de",
+      "crc32": "5816db20",
+      "sha1": "25ebfb6275b77e4784648c17fb2e7a9462356cba",
       "format": "Metadata"
     },
     {
@@ -9762,9 +9813,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 941,
-  "item_last_updated": 1664277047,
-  "item_size": 63542850,
+  "files_count": 946,
+  "item_last_updated": 1664319584,
+  "item_size": 63940409,
   "metadata": {
     "identifier": "codaily-2022",
     "collection": [
@@ -9781,10 +9832,21 @@
     "publicdate": "2022-07-04 20:47:15",
     "addeddate": "2022-07-04 20:47:15"
   },
+  "pending_tasks": true,
   "server": "ia902507.us.archive.org",
-  "uniq": 85557828,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3420310643,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1457338319,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia902507.us.archive.org"
   ]
 }

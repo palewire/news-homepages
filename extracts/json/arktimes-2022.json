@@ -1,10 +1,5 @@
 {
-  "arktimes-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1664304683,
+  "created": 1664319460,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/6/items/arktimes-2022",
@@ -2005,31 +2000,82 @@
       "sha1": "50ae6f0e4466acb08ba648f8fdadb2bbaa1a09fc"
     },
     {
+      "name": "arktimes-2022-09-27T17:56:45.698389-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664319408",
+      "size": "33798",
+      "md5": "6d310b5ae19c164dfcc1df4c15fe8a3c",
+      "crc32": "e93b73c9",
+      "sha1": "5e8ff6c05d62d3629f9ebf3d285eca35048655ad",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-09-27T17:56:45.698389-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664319409",
+      "size": "31144",
+      "md5": "5b48b4bf155c954a802d25dd937b7470",
+      "crc32": "25a6c9e8",
+      "sha1": "cb5f226204f420b4dda68008278b031314226c16",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-09-27T17:56:45.698389-05:00.jpg",
+      "source": "original",
+      "mtime": "1664319406",
+      "size": "344442",
+      "md5": "1fcc6f3cfa64491b586a000285bc249a",
+      "crc32": "422a034a",
+      "sha1": "09ef8e2e736f8733ebdf6009fd5a33bc4f5c5f9c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arktimes-2022-09-27T17:56:45.698389-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664319411",
+      "size": "1432",
+      "md5": "2a228d54c58bc5aee81d70695e76d1d8",
+      "crc32": "fbc3d25c",
+      "sha1": "4f451fc66aa38aebbc01f6aa106e73bcabbb5acd",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-09-27T17:56:45.698389-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664319413",
+      "size": "73611",
+      "md5": "50325f0cd7e7a78b468a4d6259da63a0",
+      "crc32": "37b90f50",
+      "sha1": "47078b68a4e161c2fbbce4bcc4822edc48003447",
+      "format": "JSON"
+    },
+    {
       "name": "arktimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "49dcf0962f67144108035ce47fd2d30ba45465b4",
-      "mtime": "1664276899",
-      "size": "42059",
-      "md5": "393d68da2b9c5883b18a8d9c4bbec469",
-      "crc32": "6e229a8e",
-      "sha1": "a1f63c481e511d14de49b782997c418a8eebe298",
+      "btih": "d1949d291f3a5206f5d3b018115552823ee4272c",
+      "mtime": "1664319455",
+      "size": "43122",
+      "md5": "0a86925d90fdbf6025cb2323130b1829",
+      "crc32": "cb9a7e0c",
+      "sha1": "c02944f5cd424f498865e12685b69112dd81a721",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arktimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b7d7787338c1e0d7c6828e4eff46901d",
+      "md5": "487c2561ee23336dfa79a15cadd80dcc",
       "summation": "md5"
     },
     {
       "name": "arktimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664276165",
-      "size": "270336",
-      "md5": "02504bb978df18808cc54874e16fe80d",
-      "crc32": "e5d40d7a",
-      "sha1": "ff7004339ffc92a9911838a03b9a6ea01e010c66",
+      "mtime": "1664319419",
+      "size": "274432",
+      "md5": "e06c0626101e8f2b5057872efa2a9ed3",
+      "crc32": "404dca38",
+      "sha1": "785f289ae783e61a9d1ee2472edf5a6b13060d31",
       "format": "Metadata"
     },
     {
@@ -2043,9 +2089,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 197,
-  "item_last_updated": 1664276899,
-  "item_size": 14017362,
+  "files_count": 202,
+  "item_last_updated": 1664319455,
+  "item_size": 14506948,
   "metadata": {
     "identifier": "arktimes-2022",
     "collection": [
@@ -2062,10 +2108,21 @@
     "publicdate": "2022-09-12 11:05:46",
     "addeddate": "2022-09-12 11:05:46"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 393900141,
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3420308783,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 980358858,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }
