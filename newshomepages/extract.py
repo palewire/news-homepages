@@ -89,9 +89,7 @@ def download_items(
     batch: str = None,
 ):
     """Download the full list of Internet Archive items as JSON."""
-    print(
-        f"Extracting {year} metadata for the Internet Archive collection {IA_COLLECTION}"
-    )
+    print(f"Extracting metadata for the Internet Archive collection `{IA_COLLECTION}`")
     collection = internetarchive.get_item(IA_COLLECTION)
     with open(utils.EXTRACT_DIR / "json" / f"{IA_COLLECTION}.json", "w") as fh:
         json.dump(collection.item_metadata, fh, indent=2)

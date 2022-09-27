@@ -1,5 +1,5 @@
 {
-  "created": 1664279955,
+  "created": 1664295447,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/25/items/cnnbrasil-2022",
@@ -9181,21 +9181,32 @@
       "format": "JSON"
     },
     {
+      "name": "cnnbrasil-2022-09-27T08:58:06.369935-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cnnbrasil-2022-09-27T08:58:06.369935-03:00.jpg",
+      "mtime": "1664294833",
+      "size": "11094",
+      "md5": "c50a24575b8549b0c476e2e34742f8ca",
+      "crc32": "027a9c55",
+      "sha1": "1d25e05b00ce977fd16ba965b25edfd3c7508cbf"
+    },
+    {
       "name": "cnnbrasil-2022_archive.torrent",
       "source": "metadata",
-      "btih": "604b46e35a229a8f1807099ed1d3f39161666846",
-      "mtime": "1664279950",
-      "size": "189551",
-      "md5": "3aab32681731df5527eec4ea0a3fc137",
-      "crc32": "2578ea26",
-      "sha1": "ab8091a6102e5f90ba934538483a3e7e0e6348a6",
+      "btih": "2241c5b30bf97fb5d7b69ab1859ca0f8a326839b",
+      "mtime": "1664294868",
+      "size": "189757",
+      "md5": "69b21fe092ac203e77596293ae8f3bb5",
+      "crc32": "31bedf09",
+      "sha1": "590d7c8da5543d2131327a98d412b75c52ced3f1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cnnbrasil-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "01573a65665f9492f11efb3df51f3c49",
+      "md5": "748d928f18f77acd19f2c2bfe885a2f1",
       "summation": "md5"
     },
     {
@@ -9219,9 +9230,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 892,
-  "item_last_updated": 1664279950,
-  "item_size": 68999715,
+  "files_count": 893,
+  "item_last_updated": 1664294868,
+  "item_size": 69011015,
   "metadata": {
     "identifier": "cnnbrasil-2022",
     "collection": [
@@ -9238,21 +9249,10 @@
     "publicdate": "2022-08-07 19:42:41",
     "addeddate": "2022-08-07 19:42:41"
   },
-  "pending_tasks": true,
   "server": "ia902501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3419761484,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 891680346,
+  "uniq": 1680679533,
   "workable_servers": [
-    "ia902501.us.archive.org"
+    "ia902501.us.archive.org",
+    "ia802501.us.archive.org"
   ]
 }
