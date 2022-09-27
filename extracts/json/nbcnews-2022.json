@@ -1,5 +1,6 @@
 {
-  "created": 1664290461,
+  "conflict": 1664314213,
+  "created": 1664314213,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/23/items/nbcnews-2022",
@@ -34205,10 +34206,21 @@
     "publicdate": "2022-03-24 23:11:06",
     "addeddate": "2022-03-24 23:11:06"
   },
+  "pending_tasks": true,
   "server": "ia902500.us.archive.org",
-  "uniq": 155123083,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3420225813,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 385864798,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia902500.us.archive.org"
   ]
 }
