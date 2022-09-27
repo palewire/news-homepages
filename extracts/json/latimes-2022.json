@@ -1,5 +1,6 @@
 {
-  "created": 1664308186,
+  "conflict": 1664311006,
+  "created": 1664311006,
   "d1": "ia903007.us.archive.org",
   "d2": "ia803007.us.archive.org",
   "dir": "/16/items/latimes-2022",
@@ -42331,6 +42332,17 @@
       "format": "JSON"
     },
     {
+      "name": "latimes-2022-09-27T12:45:32.530562-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "latimes-2022-09-27T12:45:32.530562-07:00.jpg",
+      "mtime": "1664310923",
+      "size": "9859",
+      "md5": "e196a6335796da862ad19aa442fb9c6f",
+      "crc32": "969bd127",
+      "sha1": "4934c89995052e8221b052267eb9bdfc632457a5"
+    },
+    {
       "name": "latimes-2022-09-27T12:46:28.370582-07:00.accessibility.json",
       "source": "original",
       "mtime": "1664307993",
@@ -42382,6 +42394,17 @@
       "format": "JSON"
     },
     {
+      "name": "latimes-2022-09-27T12:46:28.370582-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "latimes-2022-09-27T12:46:28.370582-07:00.jpg",
+      "mtime": "1664310928",
+      "size": "9794",
+      "md5": "d7f1550712bf966b88bb76a7bb754199",
+      "crc32": "42fbdb6b",
+      "sha1": "28acc1f05490ffd579e25e289fe6d21329f8b6a1"
+    },
+    {
       "name": "latimes-2022_archive.torrent",
       "source": "metadata",
       "btih": "7fb41986525b0222395783adf7c6ce60cdb3d937",
@@ -42396,7 +42419,7 @@
       "name": "latimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1c16f1fcf5ce9b9ee92a013976dc7539",
+      "md5": "88af65f136a73a358faba6ba72d62e4a",
       "summation": "md5"
     },
     {
@@ -42420,9 +42443,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 4069,
-  "item_last_updated": 1664308175,
-  "item_size": 365847544,
+  "files_count": 4071,
+  "item_last_updated": 1664310928,
+  "item_size": 365867197,
   "metadata": {
     "identifier": "latimes-2022",
     "collection": [
@@ -42444,15 +42467,23 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420124530,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3420168521,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3420169988,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 699967826,
+  "uniq": 206679228,
   "workable_servers": [
     "ia903007.us.archive.org"
   ]
