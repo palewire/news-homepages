@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 190 screenshots with the Internet Archive.
+The archiving routine has saved 206 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-19T10:06:09.138253-04:00.jpg">
-  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-09-19T10:06:09.138253-04:00.jpg"
-     alt="Alligator at 2022-09-19 10:06:11-04:00 local time"
+ <a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-27T11:05:15.589816-04:00.jpg">
+  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-09-27T11:05:15.589816-04:00.jpg"
+     alt="Alligator at 2022-09-27 11:05:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-19T10:06:09.138253-04:00.jpg">September 19 at 10:06 AM</a></p>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-27T11:05:15.589816-04:00.jpg">September 27 at 11:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-18T22:20:13.294085-04:00.jpg">
-  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-09-18T22:20:13.294085-04:00.jpg"
-     alt="Alligator at 2022-09-18 22:20:20-04:00 local time"
+ <a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-26T23:33:03.703947-04:00.jpg">
+  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-09-26T23:33:03.703947-04:00.jpg"
+     alt="Alligator at 2022-09-26 23:33:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-18T22:20:13.294085-04:00.jpg">September 18 at 10:20 PM</a></p>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-26T23:33:03.703947-04:00.jpg">September 26 at 11:33 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-18T10:01:03.822333-04:00.jpg">
-  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-09-18T10:01:03.822333-04:00.jpg"
-     alt="Alligator at 2022-09-18 10:01:05-04:00 local time"
+ <a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-26T11:08:36.233470-04:00.jpg">
+  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-09-26T11:08:36.233470-04:00.jpg"
+     alt="Alligator at 2022-09-26 11:08:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-18T10:01:03.822333-04:00.jpg">September 18 at 10:01 AM</a></p>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-26T11:08:36.233470-04:00.jpg">September 26 at 11:08 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-17T22:26:26.206955-04:00.jpg">
-  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-09-17T22:26:26.206955-04:00.jpg"
-     alt="Alligator at 2022-09-17 22:26:27-04:00 local time"
+ <a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-25T23:40:03.080898-04:00.jpg">
+  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-09-25T23:40:03.080898-04:00.jpg"
+     alt="Alligator at 2022-09-25 23:40:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-17T22:26:26.206955-04:00.jpg">September 17 at 10:26 PM</a></p>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-25T23:40:03.080898-04:00.jpg">September 25 at 11:40 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-17T09:59:56.275410-04:00.jpg">
-  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-09-17T09:59:56.275410-04:00.jpg"
-     alt="Alligator at 2022-09-17 10:00:02-04:00 local time"
+ <a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-25T10:44:05.477690-04:00.jpg">
+  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-09-25T10:44:05.477690-04:00.jpg"
+     alt="Alligator at 2022-09-25 10:44:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-17T09:59:56.275410-04:00.jpg">September 17 at 10:00 AM</a></p>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-25T10:44:05.477690-04:00.jpg">September 25 at 10:44 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-16T22:25:11.906875-04:00.jpg">
-  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-09-16T22:25:11.906875-04:00.jpg"
-     alt="Alligator at 2022-09-16 22:25:13-04:00 local time"
+ <a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-24T23:34:02.883615-04:00.jpg">
+  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-09-24T23:34:02.883615-04:00.jpg"
+     alt="Alligator at 2022-09-24 23:34:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-16T22:25:11.906875-04:00.jpg">September 16 at 10:25 PM</a></p>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-24T23:34:02.883615-04:00.jpg">September 24 at 11:34 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-16T10:06:03.064800-04:00.jpg">
-  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-09-16T10:06:03.064800-04:00.jpg"
-     alt="Alligator at 2022-09-16 10:06:04-04:00 local time"
+ <a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-24T10:43:33.176014-04:00.jpg">
+  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-09-24T10:43:33.176014-04:00.jpg"
+     alt="Alligator at 2022-09-24 10:43:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-16T10:06:03.064800-04:00.jpg">September 16 at 10:06 AM</a></p>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-24T10:43:33.176014-04:00.jpg">September 24 at 10:43 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-15T22:25:58.280591-04:00.jpg">
-  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-09-15T22:25:58.280591-04:00.jpg"
-     alt="Alligator at 2022-09-15 22:26:03-04:00 local time"
+ <a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-23T23:33:53.014684-04:00.jpg">
+  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-09-23T23:33:53.014684-04:00.jpg"
+     alt="Alligator at 2022-09-23 23:33:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-15T22:25:58.280591-04:00.jpg">September 15 at 10:26 PM</a></p>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-23T23:33:53.014684-04:00.jpg">September 23 at 11:33 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-15T10:12:50.777766-04:00.jpg">
-  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-09-15T10:12:50.777766-04:00.jpg"
-     alt="Alligator at 2022-09-15 10:12:57-04:00 local time"
+ <a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-23T11:01:32.655336-04:00.jpg">
+  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-09-23T11:01:32.655336-04:00.jpg"
+     alt="Alligator at 2022-09-23 11:01:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-15T10:12:50.777766-04:00.jpg">September 15 at 10:12 AM</a></p>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-23T11:01:32.655336-04:00.jpg">September 23 at 11:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-14T22:27:18.157652-04:00.jpg">
-  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-09-14T22:27:18.157652-04:00.jpg"
-     alt="Alligator at 2022-09-14 22:27:23-04:00 local time"
+ <a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-22T23:42:25.378871-04:00.jpg">
+  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-09-22T23:42:25.378871-04:00.jpg"
+     alt="Alligator at 2022-09-22 23:42:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-14T22:27:18.157652-04:00.jpg">September 14 at 10:27 PM</a></p>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-22T23:42:25.378871-04:00.jpg">September 22 at 11:42 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-14T10:13:56.486493-04:00.jpg">
-  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-09-14T10:13:56.486493-04:00.jpg"
-     alt="Alligator at 2022-09-14 10:13:58-04:00 local time"
+ <a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-22T10:58:27.893544-04:00.jpg">
+  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-09-22T10:58:27.893544-04:00.jpg"
+     alt="Alligator at 2022-09-22 10:58:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-14T10:13:56.486493-04:00.jpg">September 14 at 10:13 AM</a></p>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-22T10:58:27.893544-04:00.jpg">September 22 at 10:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-13T22:25:08.257968-04:00.jpg">
-  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-09-13T22:25:08.257968-04:00.jpg"
-     alt="Alligator at 2022-09-13 22:25:13-04:00 local time"
+ <a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-21T23:38:27.087758-04:00.jpg">
+  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-09-21T23:38:27.087758-04:00.jpg"
+     alt="Alligator at 2022-09-21 23:38:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-13T22:25:08.257968-04:00.jpg">September 13 at 10:25 PM</a></p>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-21T23:38:27.087758-04:00.jpg">September 21 at 11:38 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 187 hyperlink lists with the Internet Archive.
+The archiving routine has saved 203 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 10:06 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-19T10:06:09.138253-04:00.hyperlinks.json) |
-| [September 18 at 10:20 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-18T22:20:13.294085-04:00.hyperlinks.json) |
-| [September 18 at 10:01 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-18T10:01:03.822333-04:00.hyperlinks.json) |
-| [September 17 at 10:26 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-17T22:26:26.206955-04:00.hyperlinks.json) |
-| [September 17 at 10:00 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-17T09:59:56.275410-04:00.hyperlinks.json) |
-| [September 16 at 10:25 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-16T22:25:11.906875-04:00.hyperlinks.json) |
-| [September 16 at 10:06 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-16T10:06:03.064800-04:00.hyperlinks.json) |
-| [September 15 at 10:26 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-15T22:25:58.280591-04:00.hyperlinks.json) |
-| [September 15 at 10:13 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-15T10:12:50.777766-04:00.hyperlinks.json) |
-| [September 14 at 10:27 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-14T22:27:18.157652-04:00.hyperlinks.json) |
+| [September 27 at 11:05 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-27T11:05:15.589816-04:00.hyperlinks.json) |
+| [September 26 at 11:33 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-26T23:33:03.703947-04:00.hyperlinks.json) |
+| [September 26 at 11:08 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-26T11:08:36.233470-04:00.hyperlinks.json) |
+| [September 25 at 11:40 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-25T23:40:03.080898-04:00.hyperlinks.json) |
+| [September 25 at 10:44 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-25T10:44:05.477690-04:00.hyperlinks.json) |
+| [September 24 at 11:34 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-24T23:34:02.883615-04:00.hyperlinks.json) |
+| [September 24 at 10:43 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-24T10:43:33.176014-04:00.hyperlinks.json) |
+| [September 23 at 11:33 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-23T23:33:53.014684-04:00.hyperlinks.json) |
+| [September 23 at 11:01 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-23T11:01:32.655336-04:00.hyperlinks.json) |
+| [September 22 at 11:42 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-22T23:42:25.378871-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 189 accessibility trees with the Internet Archive.
+The archiving routine has saved 205 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 10:06 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-19T10:06:09.138253-04:00.accessibility.json) |
-| [September 18 at 10:20 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-18T22:20:13.294085-04:00.accessibility.json) |
-| [September 18 at 10:01 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-18T10:01:03.822333-04:00.accessibility.json) |
-| [September 17 at 10:26 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-17T22:26:26.206955-04:00.accessibility.json) |
-| [September 17 at 10:00 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-17T09:59:56.275410-04:00.accessibility.json) |
-| [September 16 at 10:25 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-16T22:25:11.906875-04:00.accessibility.json) |
-| [September 16 at 10:06 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-16T10:06:03.064800-04:00.accessibility.json) |
-| [September 15 at 10:26 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-15T22:25:58.280591-04:00.accessibility.json) |
-| [September 15 at 10:13 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-15T10:12:50.777766-04:00.accessibility.json) |
-| [September 14 at 10:27 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-14T22:27:18.157652-04:00.accessibility.json) |
+| [September 27 at 11:05 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-27T11:05:15.589816-04:00.accessibility.json) |
+| [September 26 at 11:33 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-26T23:33:03.703947-04:00.accessibility.json) |
+| [September 26 at 11:08 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-26T11:08:36.233470-04:00.accessibility.json) |
+| [September 25 at 11:40 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-25T23:40:03.080898-04:00.accessibility.json) |
+| [September 25 at 10:44 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-25T10:44:05.477690-04:00.accessibility.json) |
+| [September 24 at 11:34 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-24T23:34:02.883615-04:00.accessibility.json) |
+| [September 24 at 10:43 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-24T10:43:33.176014-04:00.accessibility.json) |
+| [September 23 at 11:33 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-23T23:33:53.014684-04:00.accessibility.json) |
+| [September 23 at 11:01 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-23T11:01:32.655336-04:00.accessibility.json) |
+| [September 22 at 11:42 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-22T23:42:25.378871-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 114 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 130 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 10:06 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-19T10:06:09.138253-04:00.lighthouse.json) |
-| [September 18 at 10:20 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-18T22:20:13.294085-04:00.lighthouse.json) |
-| [September 18 at 10:01 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-18T10:01:03.822333-04:00.lighthouse.json) |
-| [September 17 at 10:26 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-17T22:26:26.206955-04:00.lighthouse.json) |
-| [September 17 at 10:00 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-17T09:59:56.275410-04:00.lighthouse.json) |
-| [September 16 at 10:25 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-16T22:25:11.906875-04:00.lighthouse.json) |
-| [September 16 at 10:06 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-16T10:06:03.064800-04:00.lighthouse.json) |
-| [September 15 at 10:26 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-15T22:25:58.280591-04:00.lighthouse.json) |
-| [September 15 at 10:13 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-15T10:12:50.777766-04:00.lighthouse.json) |
-| [September 14 at 10:27 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-14T22:27:18.157652-04:00.lighthouse.json) |
+| [September 27 at 11:05 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-27T11:05:15.589816-04:00.lighthouse.json) |
+| [September 26 at 11:33 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-26T23:33:03.703947-04:00.lighthouse.json) |
+| [September 26 at 11:08 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-26T11:08:36.233470-04:00.lighthouse.json) |
+| [September 25 at 11:40 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-25T23:40:03.080898-04:00.lighthouse.json) |
+| [September 25 at 10:44 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-25T10:44:05.477690-04:00.lighthouse.json) |
+| [September 24 at 11:34 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-24T23:34:02.883615-04:00.lighthouse.json) |
+| [September 24 at 10:43 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-24T10:43:33.176014-04:00.lighthouse.json) |
+| [September 23 at 11:34 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-23T23:33:53.014684-04:00.lighthouse.json) |
+| [September 23 at 11:01 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-23T11:01:32.655336-04:00.lighthouse.json) |
+| [September 22 at 11:42 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-22T23:42:25.378871-04:00.lighthouse.json) |
 
 
 

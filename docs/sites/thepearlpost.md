@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 31 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-19T07:06:29.343576-07:00.jpg">
-  <img src="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-19T07:06:29.343576-07:00.jpg"
-     alt="Pearl Post at 2022-09-19 07:06:30-07:00 local time"
+ <a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-27T08:04:37.451707-07:00.jpg">
+  <img src="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-27T08:04:37.451707-07:00.jpg"
+     alt="Pearl Post at 2022-09-27 08:04:40-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-19T07:06:29.343576-07:00.jpg">September 19 at 7:06 AM</a></p>
+ <p><a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-27T08:04:37.451707-07:00.jpg">September 27 at 8:04 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-18T19:21:19.279374-07:00.jpg">
-  <img src="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-18T19:21:19.279374-07:00.jpg"
-     alt="Pearl Post at 2022-09-18 19:21:22-07:00 local time"
+ <a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-26T20:33:51.847941-07:00.jpg">
+  <img src="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-26T20:33:51.847941-07:00.jpg"
+     alt="Pearl Post at 2022-09-26 20:33:58-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-18T19:21:19.279374-07:00.jpg">September 18 at 7:21 PM</a></p>
+ <p><a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-26T20:33:51.847941-07:00.jpg">September 26 at 8:33 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-18T07:01:58.210617-07:00.jpg">
-  <img src="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-18T07:01:58.210617-07:00.jpg"
-     alt="Pearl Post at 2022-09-18 07:01:59-07:00 local time"
+ <a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-26T08:08:20.587444-07:00.jpg">
+  <img src="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-26T08:08:20.587444-07:00.jpg"
+     alt="Pearl Post at 2022-09-26 08:08:23-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-18T07:01:58.210617-07:00.jpg">September 18 at 7:01 AM</a></p>
+ <p><a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-26T08:08:20.587444-07:00.jpg">September 26 at 8:08 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-17T19:27:39.340550-07:00.jpg">
-  <img src="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-17T19:27:39.340550-07:00.jpg"
-     alt="Pearl Post at 2022-09-17 19:27:40-07:00 local time"
+ <a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-25T20:40:09.745877-07:00.jpg">
+  <img src="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-25T20:40:09.745877-07:00.jpg"
+     alt="Pearl Post at 2022-09-25 20:40:11-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-17T19:27:39.340550-07:00.jpg">September 17 at 7:27 PM</a></p>
+ <p><a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-25T20:40:09.745877-07:00.jpg">September 25 at 8:40 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-17T06:59:27.221062-07:00.jpg">
-  <img src="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-17T06:59:27.221062-07:00.jpg"
-     alt="Pearl Post at 2022-09-17 06:59:28-07:00 local time"
+ <a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-25T07:43:30.636713-07:00.jpg">
+  <img src="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-25T07:43:30.636713-07:00.jpg"
+     alt="Pearl Post at 2022-09-25 07:43:32-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-17T06:59:27.221062-07:00.jpg">September 17 at 6:59 AM</a></p>
+ <p><a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-25T07:43:30.636713-07:00.jpg">September 25 at 7:43 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-16T19:24:46.809943-07:00.jpg">
-  <img src="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-16T19:24:46.809943-07:00.jpg"
-     alt="Pearl Post at 2022-09-16 19:24:48-07:00 local time"
+ <a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-24T20:34:18.884042-07:00.jpg">
+  <img src="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-24T20:34:18.884042-07:00.jpg"
+     alt="Pearl Post at 2022-09-24 20:34:20-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-16T19:24:46.809943-07:00.jpg">September 16 at 7:24 PM</a></p>
+ <p><a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-24T20:34:18.884042-07:00.jpg">September 24 at 8:34 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-16T07:06:33.173674-07:00.jpg">
-  <img src="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-16T07:06:33.173674-07:00.jpg"
-     alt="Pearl Post at 2022-09-16 07:06:34-07:00 local time"
+ <a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-24T07:43:25.505891-07:00.jpg">
+  <img src="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-24T07:43:25.505891-07:00.jpg"
+     alt="Pearl Post at 2022-09-24 07:43:28-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-16T07:06:33.173674-07:00.jpg">September 16 at 7:06 AM</a></p>
+ <p><a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-24T07:43:25.505891-07:00.jpg">September 24 at 7:43 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-15T19:25:21.467844-07:00.jpg">
-  <img src="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-15T19:25:21.467844-07:00.jpg"
-     alt="Pearl Post at 2022-09-15 19:25:24-07:00 local time"
+ <a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-23T20:34:48.946095-07:00.jpg">
+  <img src="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-23T20:34:48.946095-07:00.jpg"
+     alt="Pearl Post at 2022-09-23 20:34:50-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-15T19:25:21.467844-07:00.jpg">September 15 at 7:25 PM</a></p>
+ <p><a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-23T20:34:48.946095-07:00.jpg">September 23 at 8:34 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-15T07:12:23.937742-07:00.jpg">
-  <img src="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-15T07:12:23.937742-07:00.jpg"
-     alt="Pearl Post at 2022-09-15 07:12:26-07:00 local time"
+ <a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-23T08:01:45.767761-07:00.jpg">
+  <img src="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-23T08:01:45.767761-07:00.jpg"
+     alt="Pearl Post at 2022-09-23 08:01:49-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-15T07:12:23.937742-07:00.jpg">September 15 at 7:12 AM</a></p>
+ <p><a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-23T08:01:45.767761-07:00.jpg">September 23 at 8:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-14T19:27:34.913471-07:00.jpg">
-  <img src="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-14T19:27:34.913471-07:00.jpg"
-     alt="Pearl Post at 2022-09-14 19:27:36-07:00 local time"
+ <a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-22T20:42:35.096436-07:00.jpg">
+  <img src="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-22T20:42:35.096436-07:00.jpg"
+     alt="Pearl Post at 2022-09-22 20:42:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-14T19:27:34.913471-07:00.jpg">September 14 at 7:27 PM</a></p>
+ <p><a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-22T20:42:35.096436-07:00.jpg">September 22 at 8:42 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-14T07:13:19.736778-07:00.jpg">
-  <img src="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-14T07:13:19.736778-07:00.jpg"
-     alt="Pearl Post at 2022-09-14 07:13:21-07:00 local time"
+ <a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-22T07:58:23.423095-07:00.jpg">
+  <img src="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-22T07:58:23.423095-07:00.jpg"
+     alt="Pearl Post at 2022-09-22 07:58:26-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-14T07:13:19.736778-07:00.jpg">September 14 at 7:13 AM</a></p>
+ <p><a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-22T07:58:23.423095-07:00.jpg">September 22 at 7:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-13T19:25:51.191848-07:00.jpg">
-  <img src="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-13T19:25:51.191848-07:00.jpg"
-     alt="Pearl Post at 2022-09-13 19:25:53-07:00 local time"
+ <a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-21T20:38:54.800731-07:00.jpg">
+  <img src="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-21T20:38:54.800731-07:00.jpg"
+     alt="Pearl Post at 2022-09-21 20:38:57-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-13T19:25:51.191848-07:00.jpg">September 13 at 7:25 PM</a></p>
+ <p><a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-21T20:38:54.800731-07:00.jpg">September 21 at 8:38 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 31 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 7:06 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-19T07:06:29.343576-07:00.hyperlinks.json) |
-| [September 18 at 7:21 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-18T19:21:19.279374-07:00.hyperlinks.json) |
-| [September 18 at 7:02 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-18T07:01:58.210617-07:00.hyperlinks.json) |
-| [September 17 at 7:27 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-17T19:27:39.340550-07:00.hyperlinks.json) |
-| [September 17 at 6:59 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-17T06:59:27.221062-07:00.hyperlinks.json) |
-| [September 16 at 7:24 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-16T19:24:46.809943-07:00.hyperlinks.json) |
-| [September 16 at 7:06 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-16T07:06:33.173674-07:00.hyperlinks.json) |
-| [September 15 at 7:25 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-15T19:25:21.467844-07:00.hyperlinks.json) |
-| [September 15 at 7:12 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-15T07:12:23.937742-07:00.hyperlinks.json) |
-| [September 14 at 7:27 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-14T19:27:34.913471-07:00.hyperlinks.json) |
+| [September 27 at 8:04 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-27T08:04:37.451707-07:00.hyperlinks.json) |
+| [September 26 at 8:34 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-26T20:33:51.847941-07:00.hyperlinks.json) |
+| [September 26 at 8:08 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-26T08:08:20.587444-07:00.hyperlinks.json) |
+| [September 25 at 8:40 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-25T20:40:09.745877-07:00.hyperlinks.json) |
+| [September 25 at 7:43 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-25T07:43:30.636713-07:00.hyperlinks.json) |
+| [September 24 at 8:34 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-24T20:34:18.884042-07:00.hyperlinks.json) |
+| [September 24 at 7:43 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-24T07:43:25.505891-07:00.hyperlinks.json) |
+| [September 23 at 8:34 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-23T20:34:48.946095-07:00.hyperlinks.json) |
+| [September 23 at 8:01 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-23T08:01:45.767761-07:00.hyperlinks.json) |
+| [September 22 at 8:42 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-22T20:42:35.096436-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 31 accessibility trees with the Internet Archive.
+The archiving routine has saved 47 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,39 +427,122 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 7:06 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-19T07:06:29.343576-07:00.accessibility.json) |
-| [September 18 at 7:21 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-18T19:21:19.279374-07:00.accessibility.json) |
-| [September 18 at 7:02 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-18T07:01:58.210617-07:00.accessibility.json) |
-| [September 17 at 7:27 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-17T19:27:39.340550-07:00.accessibility.json) |
-| [September 17 at 6:59 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-17T06:59:27.221062-07:00.accessibility.json) |
-| [September 16 at 7:24 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-16T19:24:46.809943-07:00.accessibility.json) |
-| [September 16 at 7:06 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-16T07:06:33.173674-07:00.accessibility.json) |
-| [September 15 at 7:25 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-15T19:25:21.467844-07:00.accessibility.json) |
-| [September 15 at 7:12 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-15T07:12:23.937742-07:00.accessibility.json) |
-| [September 14 at 7:27 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-14T19:27:34.913471-07:00.accessibility.json) |
+| [September 27 at 8:04 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-27T08:04:37.451707-07:00.accessibility.json) |
+| [September 26 at 8:33 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-26T20:33:51.847941-07:00.accessibility.json) |
+| [September 26 at 8:08 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-26T08:08:20.587444-07:00.accessibility.json) |
+| [September 25 at 8:40 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-25T20:40:09.745877-07:00.accessibility.json) |
+| [September 25 at 7:43 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-25T07:43:30.636713-07:00.accessibility.json) |
+| [September 24 at 8:34 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-24T20:34:18.884042-07:00.accessibility.json) |
+| [September 24 at 7:43 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-24T07:43:25.505891-07:00.accessibility.json) |
+| [September 23 at 8:34 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-23T20:34:48.946095-07:00.accessibility.json) |
+| [September 23 at 8:01 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-23T08:01:45.767761-07:00.accessibility.json) |
+| [September 22 at 8:42 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-22T20:42:35.096436-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/thepearlpost.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 7:06 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-19T07:06:29.343576-07:00.lighthouse.json) |
-| [September 18 at 7:21 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-18T19:21:19.279374-07:00.lighthouse.json) |
-| [September 18 at 7:02 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-18T07:01:58.210617-07:00.lighthouse.json) |
-| [September 17 at 7:27 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-17T19:27:39.340550-07:00.lighthouse.json) |
-| [September 17 at 6:59 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-17T06:59:27.221062-07:00.lighthouse.json) |
-| [September 16 at 7:24 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-16T19:24:46.809943-07:00.lighthouse.json) |
-| [September 16 at 7:06 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-16T07:06:33.173674-07:00.lighthouse.json) |
-| [September 15 at 7:25 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-15T19:25:21.467844-07:00.lighthouse.json) |
-| [September 15 at 7:12 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-15T07:12:23.937742-07:00.lighthouse.json) |
-| [September 14 at 7:27 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-14T19:27:34.913471-07:00.lighthouse.json) |
+| [September 27 at 8:04 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-27T08:04:37.451707-07:00.lighthouse.json) |
+| [September 26 at 8:34 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-26T20:33:51.847941-07:00.lighthouse.json) |
+| [September 26 at 8:08 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-26T08:08:20.587444-07:00.lighthouse.json) |
+| [September 25 at 8:40 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-25T20:40:09.745877-07:00.lighthouse.json) |
+| [September 25 at 7:43 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-25T07:43:30.636713-07:00.lighthouse.json) |
+| [September 24 at 8:34 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-24T20:34:18.884042-07:00.lighthouse.json) |
+| [September 24 at 7:43 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-24T07:43:25.505891-07:00.lighthouse.json) |
+| [September 23 at 8:34 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-23T20:34:48.946095-07:00.lighthouse.json) |
+| [September 23 at 8:01 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-23T08:01:45.767761-07:00.lighthouse.json) |
+| [September 22 at 8:42 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-22T20:42:35.096436-07:00.lighthouse.json) |
 
 
 

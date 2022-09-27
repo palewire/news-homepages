@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 212 screenshots with the Internet Archive.
+The archiving routine has saved 234 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/thenation-2022/thenation-2022-09-19T14:34:13.604042-04:00.jpg">
-  <img src="https://archive.org/download/thenation-2022/thenation-2022-09-19T14:34:13.604042-04:00.jpg"
-     alt="The Nation at 2022-09-19 14:34:18-04:00 local time"
+ <a href="https://archive.org/download/thenation-2022/thenation-2022-09-27T11:04:40.979227-04:00.jpg">
+  <img src="https://archive.org/download/thenation-2022/thenation-2022-09-27T11:04:40.979227-04:00.jpg"
+     alt="The Nation at 2022-09-27 11:04:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenation-2022/thenation-2022-09-19T14:34:13.604042-04:00.jpg">September 19 at 2:34 PM</a></p>
+ <p><a href="https://archive.org/download/thenation-2022/thenation-2022-09-27T11:04:40.979227-04:00.jpg">September 27 at 11:04 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thenation-2022/thenation-2022-09-19T10:06:54.784216-04:00.jpg">
-  <img src="https://archive.org/download/thenation-2022/thenation-2022-09-19T10:06:54.784216-04:00.jpg"
-     alt="The Nation at 2022-09-19 10:06:56-04:00 local time"
+ <a href="https://archive.org/download/thenation-2022/thenation-2022-09-26T23:33:06.986416-04:00.jpg">
+  <img src="https://archive.org/download/thenation-2022/thenation-2022-09-26T23:33:06.986416-04:00.jpg"
+     alt="The Nation at 2022-09-26 23:33:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenation-2022/thenation-2022-09-19T10:06:54.784216-04:00.jpg">September 19 at 10:06 AM</a></p>
+ <p><a href="https://archive.org/download/thenation-2022/thenation-2022-09-26T23:33:06.986416-04:00.jpg">September 26 at 11:33 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thenation-2022/thenation-2022-09-18T22:20:13.723327-04:00.jpg">
-  <img src="https://archive.org/download/thenation-2022/thenation-2022-09-18T22:20:13.723327-04:00.jpg"
-     alt="The Nation at 2022-09-18 22:20:15-04:00 local time"
+ <a href="https://archive.org/download/thenation-2022/thenation-2022-09-26T15:49:48.151203-04:00.jpg">
+  <img src="https://archive.org/download/thenation-2022/thenation-2022-09-26T15:49:48.151203-04:00.jpg"
+     alt="The Nation at 2022-09-26 15:49:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenation-2022/thenation-2022-09-18T22:20:13.723327-04:00.jpg">September 18 at 10:20 PM</a></p>
+ <p><a href="https://archive.org/download/thenation-2022/thenation-2022-09-26T15:49:48.151203-04:00.jpg">September 26 at 3:49 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thenation-2022/thenation-2022-09-18T14:30:52.142790-04:00.jpg">
-  <img src="https://archive.org/download/thenation-2022/thenation-2022-09-18T14:30:52.142790-04:00.jpg"
-     alt="The Nation at 2022-09-18 14:30:53-04:00 local time"
+ <a href="https://archive.org/download/thenation-2022/thenation-2022-09-26T11:08:19.845517-04:00.jpg">
+  <img src="https://archive.org/download/thenation-2022/thenation-2022-09-26T11:08:19.845517-04:00.jpg"
+     alt="The Nation at 2022-09-26 11:08:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenation-2022/thenation-2022-09-18T14:30:52.142790-04:00.jpg">September 18 at 2:30 PM</a></p>
+ <p><a href="https://archive.org/download/thenation-2022/thenation-2022-09-26T11:08:19.845517-04:00.jpg">September 26 at 11:08 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thenation-2022/thenation-2022-09-18T10:01:30.718753-04:00.jpg">
-  <img src="https://archive.org/download/thenation-2022/thenation-2022-09-18T10:01:30.718753-04:00.jpg"
-     alt="The Nation at 2022-09-18 10:01:33-04:00 local time"
+ <a href="https://archive.org/download/thenation-2022/thenation-2022-09-25T23:40:11.438794-04:00.jpg">
+  <img src="https://archive.org/download/thenation-2022/thenation-2022-09-25T23:40:11.438794-04:00.jpg"
+     alt="The Nation at 2022-09-25 23:40:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenation-2022/thenation-2022-09-18T10:01:30.718753-04:00.jpg">September 18 at 10:01 AM</a></p>
+ <p><a href="https://archive.org/download/thenation-2022/thenation-2022-09-25T23:40:11.438794-04:00.jpg">September 25 at 11:40 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thenation-2022/thenation-2022-09-17T22:28:02.304699-04:00.jpg">
-  <img src="https://archive.org/download/thenation-2022/thenation-2022-09-17T22:28:02.304699-04:00.jpg"
-     alt="The Nation at 2022-09-17 22:28:03-04:00 local time"
+ <a href="https://archive.org/download/thenation-2022/thenation-2022-09-25T15:05:58.044765-04:00.jpg">
+  <img src="https://archive.org/download/thenation-2022/thenation-2022-09-25T15:05:58.044765-04:00.jpg"
+     alt="The Nation at 2022-09-25 15:06:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenation-2022/thenation-2022-09-17T22:28:02.304699-04:00.jpg">September 17 at 10:28 PM</a></p>
+ <p><a href="https://archive.org/download/thenation-2022/thenation-2022-09-25T15:05:58.044765-04:00.jpg">September 25 at 3:06 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thenation-2022/thenation-2022-09-17T14:32:13.552387-04:00.jpg">
-  <img src="https://archive.org/download/thenation-2022/thenation-2022-09-17T14:32:13.552387-04:00.jpg"
-     alt="The Nation at 2022-09-17 14:32:19-04:00 local time"
+ <a href="https://archive.org/download/thenation-2022/thenation-2022-09-25T10:43:33.904221-04:00.jpg">
+  <img src="https://archive.org/download/thenation-2022/thenation-2022-09-25T10:43:33.904221-04:00.jpg"
+     alt="The Nation at 2022-09-25 10:43:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenation-2022/thenation-2022-09-17T14:32:13.552387-04:00.jpg">September 17 at 2:32 PM</a></p>
+ <p><a href="https://archive.org/download/thenation-2022/thenation-2022-09-25T10:43:33.904221-04:00.jpg">September 25 at 10:43 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thenation-2022/thenation-2022-09-17T09:59:23.544072-04:00.jpg">
-  <img src="https://archive.org/download/thenation-2022/thenation-2022-09-17T09:59:23.544072-04:00.jpg"
-     alt="The Nation at 2022-09-17 09:59:25-04:00 local time"
+ <a href="https://archive.org/download/thenation-2022/thenation-2022-09-24T23:34:45.719858-04:00.jpg">
+  <img src="https://archive.org/download/thenation-2022/thenation-2022-09-24T23:34:45.719858-04:00.jpg"
+     alt="The Nation at 2022-09-24 23:35:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenation-2022/thenation-2022-09-17T09:59:23.544072-04:00.jpg">September 17 at 9:59 AM</a></p>
+ <p><a href="https://archive.org/download/thenation-2022/thenation-2022-09-24T23:34:45.719858-04:00.jpg">September 24 at 11:35 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thenation-2022/thenation-2022-09-16T22:24:33.450016-04:00.jpg">
-  <img src="https://archive.org/download/thenation-2022/thenation-2022-09-16T22:24:33.450016-04:00.jpg"
-     alt="The Nation at 2022-09-16 22:24:35-04:00 local time"
+ <a href="https://archive.org/download/thenation-2022/thenation-2022-09-24T15:02:05.784191-04:00.jpg">
+  <img src="https://archive.org/download/thenation-2022/thenation-2022-09-24T15:02:05.784191-04:00.jpg"
+     alt="The Nation at 2022-09-24 15:02:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenation-2022/thenation-2022-09-16T22:24:33.450016-04:00.jpg">September 16 at 10:24 PM</a></p>
+ <p><a href="https://archive.org/download/thenation-2022/thenation-2022-09-24T15:02:05.784191-04:00.jpg">September 24 at 3:02 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thenation-2022/thenation-2022-09-16T14:31:48.928221-04:00.jpg">
-  <img src="https://archive.org/download/thenation-2022/thenation-2022-09-16T14:31:48.928221-04:00.jpg"
-     alt="The Nation at 2022-09-16 14:31:51-04:00 local time"
+ <a href="https://archive.org/download/thenation-2022/thenation-2022-09-24T10:44:09.526220-04:00.jpg">
+  <img src="https://archive.org/download/thenation-2022/thenation-2022-09-24T10:44:09.526220-04:00.jpg"
+     alt="The Nation at 2022-09-24 10:44:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenation-2022/thenation-2022-09-16T14:31:48.928221-04:00.jpg">September 16 at 2:31 PM</a></p>
+ <p><a href="https://archive.org/download/thenation-2022/thenation-2022-09-24T10:44:09.526220-04:00.jpg">September 24 at 10:44 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thenation-2022/thenation-2022-09-16T10:06:07.269956-04:00.jpg">
-  <img src="https://archive.org/download/thenation-2022/thenation-2022-09-16T10:06:07.269956-04:00.jpg"
-     alt="The Nation at 2022-09-16 10:06:09-04:00 local time"
+ <a href="https://archive.org/download/thenation-2022/thenation-2022-09-23T23:35:15.181631-04:00.jpg">
+  <img src="https://archive.org/download/thenation-2022/thenation-2022-09-23T23:35:15.181631-04:00.jpg"
+     alt="The Nation at 2022-09-23 23:35:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenation-2022/thenation-2022-09-16T10:06:07.269956-04:00.jpg">September 16 at 10:06 AM</a></p>
+ <p><a href="https://archive.org/download/thenation-2022/thenation-2022-09-23T23:35:15.181631-04:00.jpg">September 23 at 11:35 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thenation-2022/thenation-2022-09-15T22:25:15.933530-04:00.jpg">
-  <img src="https://archive.org/download/thenation-2022/thenation-2022-09-15T22:25:15.933530-04:00.jpg"
-     alt="The Nation at 2022-09-15 22:25:22-04:00 local time"
+ <a href="https://archive.org/download/thenation-2022/thenation-2022-09-23T15:23:55.888832-04:00.jpg">
+  <img src="https://archive.org/download/thenation-2022/thenation-2022-09-23T15:23:55.888832-04:00.jpg"
+     alt="The Nation at 2022-09-23 15:24:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thenation-2022/thenation-2022-09-15T22:25:15.933530-04:00.jpg">September 15 at 10:25 PM</a></p>
+ <p><a href="https://archive.org/download/thenation-2022/thenation-2022-09-23T15:23:55.888832-04:00.jpg">September 23 at 3:24 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 212 hyperlink lists with the Internet Archive.
+The archiving routine has saved 234 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 2:34 PM](https://archive.org/download/thenation-2022/thenation-2022-09-19T14:34:13.604042-04:00.hyperlinks.json) |
-| [September 19 at 10:07 AM](https://archive.org/download/thenation-2022/thenation-2022-09-19T10:06:54.784216-04:00.hyperlinks.json) |
-| [September 18 at 10:20 PM](https://archive.org/download/thenation-2022/thenation-2022-09-18T22:20:13.723327-04:00.hyperlinks.json) |
-| [September 18 at 2:30 PM](https://archive.org/download/thenation-2022/thenation-2022-09-18T14:30:52.142790-04:00.hyperlinks.json) |
-| [September 18 at 10:01 AM](https://archive.org/download/thenation-2022/thenation-2022-09-18T10:01:30.718753-04:00.hyperlinks.json) |
-| [September 17 at 10:28 PM](https://archive.org/download/thenation-2022/thenation-2022-09-17T22:28:02.304699-04:00.hyperlinks.json) |
-| [September 17 at 2:32 PM](https://archive.org/download/thenation-2022/thenation-2022-09-17T14:32:13.552387-04:00.hyperlinks.json) |
-| [September 17 at 9:59 AM](https://archive.org/download/thenation-2022/thenation-2022-09-17T09:59:23.544072-04:00.hyperlinks.json) |
-| [September 16 at 10:24 PM](https://archive.org/download/thenation-2022/thenation-2022-09-16T22:24:33.450016-04:00.hyperlinks.json) |
-| [September 16 at 2:31 PM](https://archive.org/download/thenation-2022/thenation-2022-09-16T14:31:48.928221-04:00.hyperlinks.json) |
+| [September 27 at 11:04 AM](https://archive.org/download/thenation-2022/thenation-2022-09-27T11:04:40.979227-04:00.hyperlinks.json) |
+| [September 26 at 11:33 PM](https://archive.org/download/thenation-2022/thenation-2022-09-26T23:33:06.986416-04:00.hyperlinks.json) |
+| [September 26 at 3:49 PM](https://archive.org/download/thenation-2022/thenation-2022-09-26T15:49:48.151203-04:00.hyperlinks.json) |
+| [September 26 at 11:08 AM](https://archive.org/download/thenation-2022/thenation-2022-09-26T11:08:19.845517-04:00.hyperlinks.json) |
+| [September 25 at 11:40 PM](https://archive.org/download/thenation-2022/thenation-2022-09-25T23:40:11.438794-04:00.hyperlinks.json) |
+| [September 25 at 3:06 PM](https://archive.org/download/thenation-2022/thenation-2022-09-25T15:05:58.044765-04:00.hyperlinks.json) |
+| [September 25 at 10:43 AM](https://archive.org/download/thenation-2022/thenation-2022-09-25T10:43:33.904221-04:00.hyperlinks.json) |
+| [September 24 at 11:35 PM](https://archive.org/download/thenation-2022/thenation-2022-09-24T23:34:45.719858-04:00.hyperlinks.json) |
+| [September 24 at 3:02 PM](https://archive.org/download/thenation-2022/thenation-2022-09-24T15:02:05.784191-04:00.hyperlinks.json) |
+| [September 24 at 10:44 AM](https://archive.org/download/thenation-2022/thenation-2022-09-24T10:44:09.526220-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 214 accessibility trees with the Internet Archive.
+The archiving routine has saved 236 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 2:34 PM](https://archive.org/download/thenation-2022/thenation-2022-09-19T14:34:13.604042-04:00.accessibility.json) |
-| [September 19 at 10:06 AM](https://archive.org/download/thenation-2022/thenation-2022-09-19T10:06:54.784216-04:00.accessibility.json) |
-| [September 18 at 10:20 PM](https://archive.org/download/thenation-2022/thenation-2022-09-18T22:20:13.723327-04:00.accessibility.json) |
-| [September 18 at 2:30 PM](https://archive.org/download/thenation-2022/thenation-2022-09-18T14:30:52.142790-04:00.accessibility.json) |
-| [September 18 at 10:01 AM](https://archive.org/download/thenation-2022/thenation-2022-09-18T10:01:30.718753-04:00.accessibility.json) |
-| [September 17 at 10:28 PM](https://archive.org/download/thenation-2022/thenation-2022-09-17T22:28:02.304699-04:00.accessibility.json) |
-| [September 17 at 2:32 PM](https://archive.org/download/thenation-2022/thenation-2022-09-17T14:32:13.552387-04:00.accessibility.json) |
-| [September 17 at 9:59 AM](https://archive.org/download/thenation-2022/thenation-2022-09-17T09:59:23.544072-04:00.accessibility.json) |
-| [September 16 at 10:24 PM](https://archive.org/download/thenation-2022/thenation-2022-09-16T22:24:33.450016-04:00.accessibility.json) |
-| [September 16 at 2:31 PM](https://archive.org/download/thenation-2022/thenation-2022-09-16T14:31:48.928221-04:00.accessibility.json) |
+| [September 27 at 11:04 AM](https://archive.org/download/thenation-2022/thenation-2022-09-27T11:04:40.979227-04:00.accessibility.json) |
+| [September 26 at 11:33 PM](https://archive.org/download/thenation-2022/thenation-2022-09-26T23:33:06.986416-04:00.accessibility.json) |
+| [September 26 at 3:49 PM](https://archive.org/download/thenation-2022/thenation-2022-09-26T15:49:48.151203-04:00.accessibility.json) |
+| [September 26 at 11:08 AM](https://archive.org/download/thenation-2022/thenation-2022-09-26T11:08:19.845517-04:00.accessibility.json) |
+| [September 25 at 11:40 PM](https://archive.org/download/thenation-2022/thenation-2022-09-25T23:40:11.438794-04:00.accessibility.json) |
+| [September 25 at 3:06 PM](https://archive.org/download/thenation-2022/thenation-2022-09-25T15:05:58.044765-04:00.accessibility.json) |
+| [September 25 at 10:43 AM](https://archive.org/download/thenation-2022/thenation-2022-09-25T10:43:33.904221-04:00.accessibility.json) |
+| [September 24 at 11:35 PM](https://archive.org/download/thenation-2022/thenation-2022-09-24T23:34:45.719858-04:00.accessibility.json) |
+| [September 24 at 3:02 PM](https://archive.org/download/thenation-2022/thenation-2022-09-24T15:02:05.784191-04:00.accessibility.json) |
+| [September 24 at 10:44 AM](https://archive.org/download/thenation-2022/thenation-2022-09-24T10:44:09.526220-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 171 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 193 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 2:34 PM](https://archive.org/download/thenation-2022/thenation-2022-09-19T14:34:13.604042-04:00.lighthouse.json) |
-| [September 19 at 10:07 AM](https://archive.org/download/thenation-2022/thenation-2022-09-19T10:06:54.784216-04:00.lighthouse.json) |
-| [September 18 at 10:20 PM](https://archive.org/download/thenation-2022/thenation-2022-09-18T22:20:13.723327-04:00.lighthouse.json) |
-| [September 18 at 2:31 PM](https://archive.org/download/thenation-2022/thenation-2022-09-18T14:30:52.142790-04:00.lighthouse.json) |
-| [September 18 at 10:01 AM](https://archive.org/download/thenation-2022/thenation-2022-09-18T10:01:30.718753-04:00.lighthouse.json) |
-| [September 17 at 10:28 PM](https://archive.org/download/thenation-2022/thenation-2022-09-17T22:28:02.304699-04:00.lighthouse.json) |
-| [September 17 at 2:32 PM](https://archive.org/download/thenation-2022/thenation-2022-09-17T14:32:13.552387-04:00.lighthouse.json) |
-| [September 17 at 9:59 AM](https://archive.org/download/thenation-2022/thenation-2022-09-17T09:59:23.544072-04:00.lighthouse.json) |
-| [September 16 at 10:24 PM](https://archive.org/download/thenation-2022/thenation-2022-09-16T22:24:33.450016-04:00.lighthouse.json) |
-| [September 16 at 2:32 PM](https://archive.org/download/thenation-2022/thenation-2022-09-16T14:31:48.928221-04:00.lighthouse.json) |
+| [September 27 at 11:04 AM](https://archive.org/download/thenation-2022/thenation-2022-09-27T11:04:40.979227-04:00.lighthouse.json) |
+| [September 26 at 11:33 PM](https://archive.org/download/thenation-2022/thenation-2022-09-26T23:33:06.986416-04:00.lighthouse.json) |
+| [September 26 at 3:49 PM](https://archive.org/download/thenation-2022/thenation-2022-09-26T15:49:48.151203-04:00.lighthouse.json) |
+| [September 26 at 11:08 AM](https://archive.org/download/thenation-2022/thenation-2022-09-26T11:08:19.845517-04:00.lighthouse.json) |
+| [September 25 at 11:40 PM](https://archive.org/download/thenation-2022/thenation-2022-09-25T23:40:11.438794-04:00.lighthouse.json) |
+| [September 25 at 3:06 PM](https://archive.org/download/thenation-2022/thenation-2022-09-25T15:05:58.044765-04:00.lighthouse.json) |
+| [September 25 at 10:43 AM](https://archive.org/download/thenation-2022/thenation-2022-09-25T10:43:33.904221-04:00.lighthouse.json) |
+| [September 24 at 11:35 PM](https://archive.org/download/thenation-2022/thenation-2022-09-24T23:34:45.719858-04:00.lighthouse.json) |
+| [September 24 at 3:02 PM](https://archive.org/download/thenation-2022/thenation-2022-09-24T15:02:05.784191-04:00.lighthouse.json) |
+| [September 24 at 10:44 AM](https://archive.org/download/thenation-2022/thenation-2022-09-24T10:44:09.526220-04:00.lighthouse.json) |
 
 
 

@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 249 screenshots with the Internet Archive.
+The archiving routine has saved 265 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/theonion-2022/theonion-2022-09-19T09:06:11.650910-05:00.jpg">
-  <img src="https://archive.org/download/theonion-2022/theonion-2022-09-19T09:06:11.650910-05:00.jpg"
-     alt="Onion at 2022-09-19 09:06:20-05:00 local time"
+ <a href="https://archive.org/download/theonion-2022/theonion-2022-09-27T10:04:15.282913-05:00.jpg">
+  <img src="https://archive.org/download/theonion-2022/theonion-2022-09-27T10:04:15.282913-05:00.jpg"
+     alt="Onion at 2022-09-27 10:04:17-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theonion-2022/theonion-2022-09-19T09:06:11.650910-05:00.jpg">September 19 at 9:06 AM</a></p>
+ <p><a href="https://archive.org/download/theonion-2022/theonion-2022-09-27T10:04:15.282913-05:00.jpg">September 27 at 10:04 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theonion-2022/theonion-2022-09-18T21:20:17.621825-05:00.jpg">
-  <img src="https://archive.org/download/theonion-2022/theonion-2022-09-18T21:20:17.621825-05:00.jpg"
-     alt="Onion at 2022-09-18 21:20:19-05:00 local time"
+ <a href="https://archive.org/download/theonion-2022/theonion-2022-09-26T22:33:32.966134-05:00.jpg">
+  <img src="https://archive.org/download/theonion-2022/theonion-2022-09-26T22:33:32.966134-05:00.jpg"
+     alt="Onion at 2022-09-26 22:33:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theonion-2022/theonion-2022-09-18T21:20:17.621825-05:00.jpg">September 18 at 9:20 PM</a></p>
+ <p><a href="https://archive.org/download/theonion-2022/theonion-2022-09-26T22:33:32.966134-05:00.jpg">September 26 at 10:33 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theonion-2022/theonion-2022-09-18T09:01:33.039125-05:00.jpg">
-  <img src="https://archive.org/download/theonion-2022/theonion-2022-09-18T09:01:33.039125-05:00.jpg"
-     alt="Onion at 2022-09-18 09:01:34-05:00 local time"
+ <a href="https://archive.org/download/theonion-2022/theonion-2022-09-26T10:08:13.156781-05:00.jpg">
+  <img src="https://archive.org/download/theonion-2022/theonion-2022-09-26T10:08:13.156781-05:00.jpg"
+     alt="Onion at 2022-09-26 10:08:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theonion-2022/theonion-2022-09-18T09:01:33.039125-05:00.jpg">September 18 at 9:01 AM</a></p>
+ <p><a href="https://archive.org/download/theonion-2022/theonion-2022-09-26T10:08:13.156781-05:00.jpg">September 26 at 10:08 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theonion-2022/theonion-2022-09-17T21:27:15.174274-05:00.jpg">
-  <img src="https://archive.org/download/theonion-2022/theonion-2022-09-17T21:27:15.174274-05:00.jpg"
-     alt="Onion at 2022-09-17 21:27:20-05:00 local time"
+ <a href="https://archive.org/download/theonion-2022/theonion-2022-09-25T22:40:29.016395-05:00.jpg">
+  <img src="https://archive.org/download/theonion-2022/theonion-2022-09-25T22:40:29.016395-05:00.jpg"
+     alt="Onion at 2022-09-25 22:40:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theonion-2022/theonion-2022-09-17T21:27:15.174274-05:00.jpg">September 17 at 9:27 PM</a></p>
+ <p><a href="https://archive.org/download/theonion-2022/theonion-2022-09-25T22:40:29.016395-05:00.jpg">September 25 at 10:40 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theonion-2022/theonion-2022-09-17T08:59:10.399565-05:00.jpg">
-  <img src="https://archive.org/download/theonion-2022/theonion-2022-09-17T08:59:10.399565-05:00.jpg"
-     alt="Onion at 2022-09-17 08:59:12-05:00 local time"
+ <a href="https://archive.org/download/theonion-2022/theonion-2022-09-25T09:43:29.425947-05:00.jpg">
+  <img src="https://archive.org/download/theonion-2022/theonion-2022-09-25T09:43:29.425947-05:00.jpg"
+     alt="Onion at 2022-09-25 09:43:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theonion-2022/theonion-2022-09-17T08:59:10.399565-05:00.jpg">September 17 at 8:59 AM</a></p>
+ <p><a href="https://archive.org/download/theonion-2022/theonion-2022-09-25T09:43:29.425947-05:00.jpg">September 25 at 9:43 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theonion-2022/theonion-2022-09-16T21:24:41.586559-05:00.jpg">
-  <img src="https://archive.org/download/theonion-2022/theonion-2022-09-16T21:24:41.586559-05:00.jpg"
-     alt="Onion at 2022-09-16 21:24:43-05:00 local time"
+ <a href="https://archive.org/download/theonion-2022/theonion-2022-09-24T22:34:51.579753-05:00.jpg">
+  <img src="https://archive.org/download/theonion-2022/theonion-2022-09-24T22:34:51.579753-05:00.jpg"
+     alt="Onion at 2022-09-24 22:34:52-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theonion-2022/theonion-2022-09-16T21:24:41.586559-05:00.jpg">September 16 at 9:24 PM</a></p>
+ <p><a href="https://archive.org/download/theonion-2022/theonion-2022-09-24T22:34:51.579753-05:00.jpg">September 24 at 10:34 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theonion-2022/theonion-2022-09-16T09:05:56.891789-05:00.jpg">
-  <img src="https://archive.org/download/theonion-2022/theonion-2022-09-16T09:05:56.891789-05:00.jpg"
-     alt="Onion at 2022-09-16 09:05:58-05:00 local time"
+ <a href="https://archive.org/download/theonion-2022/theonion-2022-09-24T09:43:29.720705-05:00.jpg">
+  <img src="https://archive.org/download/theonion-2022/theonion-2022-09-24T09:43:29.720705-05:00.jpg"
+     alt="Onion at 2022-09-24 09:43:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theonion-2022/theonion-2022-09-16T09:05:56.891789-05:00.jpg">September 16 at 9:05 AM</a></p>
+ <p><a href="https://archive.org/download/theonion-2022/theonion-2022-09-24T09:43:29.720705-05:00.jpg">September 24 at 9:43 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theonion-2022/theonion-2022-09-15T21:25:15.235379-05:00.jpg">
-  <img src="https://archive.org/download/theonion-2022/theonion-2022-09-15T21:25:15.235379-05:00.jpg"
-     alt="Onion at 2022-09-15 21:25:17-05:00 local time"
+ <a href="https://archive.org/download/theonion-2022/theonion-2022-09-23T22:35:33.839200-05:00.jpg">
+  <img src="https://archive.org/download/theonion-2022/theonion-2022-09-23T22:35:33.839200-05:00.jpg"
+     alt="Onion at 2022-09-23 22:35:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theonion-2022/theonion-2022-09-15T21:25:15.235379-05:00.jpg">September 15 at 9:25 PM</a></p>
+ <p><a href="https://archive.org/download/theonion-2022/theonion-2022-09-23T22:35:33.839200-05:00.jpg">September 23 at 10:35 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theonion-2022/theonion-2022-09-15T09:11:59.564004-05:00.jpg">
-  <img src="https://archive.org/download/theonion-2022/theonion-2022-09-15T09:11:59.564004-05:00.jpg"
-     alt="Onion at 2022-09-15 09:12:05-05:00 local time"
+ <a href="https://archive.org/download/theonion-2022/theonion-2022-09-23T10:01:46.859665-05:00.jpg">
+  <img src="https://archive.org/download/theonion-2022/theonion-2022-09-23T10:01:46.859665-05:00.jpg"
+     alt="Onion at 2022-09-23 10:01:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theonion-2022/theonion-2022-09-15T09:11:59.564004-05:00.jpg">September 15 at 9:12 AM</a></p>
+ <p><a href="https://archive.org/download/theonion-2022/theonion-2022-09-23T10:01:46.859665-05:00.jpg">September 23 at 10:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theonion-2022/theonion-2022-09-14T21:27:22.713523-05:00.jpg">
-  <img src="https://archive.org/download/theonion-2022/theonion-2022-09-14T21:27:22.713523-05:00.jpg"
-     alt="Onion at 2022-09-14 21:27:24-05:00 local time"
+ <a href="https://archive.org/download/theonion-2022/theonion-2022-09-22T22:42:41.287295-05:00.jpg">
+  <img src="https://archive.org/download/theonion-2022/theonion-2022-09-22T22:42:41.287295-05:00.jpg"
+     alt="Onion at 2022-09-22 22:42:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theonion-2022/theonion-2022-09-14T21:27:22.713523-05:00.jpg">September 14 at 9:27 PM</a></p>
+ <p><a href="https://archive.org/download/theonion-2022/theonion-2022-09-22T22:42:41.287295-05:00.jpg">September 22 at 10:42 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theonion-2022/theonion-2022-09-14T09:13:06.680058-05:00.jpg">
-  <img src="https://archive.org/download/theonion-2022/theonion-2022-09-14T09:13:06.680058-05:00.jpg"
-     alt="Onion at 2022-09-14 09:13:19-05:00 local time"
+ <a href="https://archive.org/download/theonion-2022/theonion-2022-09-22T09:59:15.707088-05:00.jpg">
+  <img src="https://archive.org/download/theonion-2022/theonion-2022-09-22T09:59:15.707088-05:00.jpg"
+     alt="Onion at 2022-09-22 09:59:17-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theonion-2022/theonion-2022-09-14T09:13:06.680058-05:00.jpg">September 14 at 9:13 AM</a></p>
+ <p><a href="https://archive.org/download/theonion-2022/theonion-2022-09-22T09:59:15.707088-05:00.jpg">September 22 at 9:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theonion-2022/theonion-2022-09-13T21:25:25.276119-05:00.jpg">
-  <img src="https://archive.org/download/theonion-2022/theonion-2022-09-13T21:25:25.276119-05:00.jpg"
-     alt="Onion at 2022-09-13 21:25:26-05:00 local time"
+ <a href="https://archive.org/download/theonion-2022/theonion-2022-09-21T22:39:15.168296-05:00.jpg">
+  <img src="https://archive.org/download/theonion-2022/theonion-2022-09-21T22:39:15.168296-05:00.jpg"
+     alt="Onion at 2022-09-21 22:39:17-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theonion-2022/theonion-2022-09-13T21:25:25.276119-05:00.jpg">September 13 at 9:25 PM</a></p>
+ <p><a href="https://archive.org/download/theonion-2022/theonion-2022-09-21T22:39:15.168296-05:00.jpg">September 21 at 10:39 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 208 hyperlink lists with the Internet Archive.
+The archiving routine has saved 224 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 9:06 AM](https://archive.org/download/theonion-2022/theonion-2022-09-19T09:06:11.650910-05:00.hyperlinks.json) |
-| [September 18 at 9:20 PM](https://archive.org/download/theonion-2022/theonion-2022-09-18T21:20:17.621825-05:00.hyperlinks.json) |
-| [September 18 at 9:01 AM](https://archive.org/download/theonion-2022/theonion-2022-09-18T09:01:33.039125-05:00.hyperlinks.json) |
-| [September 17 at 9:27 PM](https://archive.org/download/theonion-2022/theonion-2022-09-17T21:27:15.174274-05:00.hyperlinks.json) |
-| [September 17 at 8:59 AM](https://archive.org/download/theonion-2022/theonion-2022-09-17T08:59:10.399565-05:00.hyperlinks.json) |
-| [September 16 at 9:24 PM](https://archive.org/download/theonion-2022/theonion-2022-09-16T21:24:41.586559-05:00.hyperlinks.json) |
-| [September 16 at 9:06 AM](https://archive.org/download/theonion-2022/theonion-2022-09-16T09:05:56.891789-05:00.hyperlinks.json) |
-| [September 15 at 9:25 PM](https://archive.org/download/theonion-2022/theonion-2022-09-15T21:25:15.235379-05:00.hyperlinks.json) |
-| [September 15 at 9:12 AM](https://archive.org/download/theonion-2022/theonion-2022-09-15T09:11:59.564004-05:00.hyperlinks.json) |
-| [September 14 at 9:27 PM](https://archive.org/download/theonion-2022/theonion-2022-09-14T21:27:22.713523-05:00.hyperlinks.json) |
+| [September 27 at 10:04 AM](https://archive.org/download/theonion-2022/theonion-2022-09-27T10:04:15.282913-05:00.hyperlinks.json) |
+| [September 26 at 10:33 PM](https://archive.org/download/theonion-2022/theonion-2022-09-26T22:33:32.966134-05:00.hyperlinks.json) |
+| [September 26 at 10:08 AM](https://archive.org/download/theonion-2022/theonion-2022-09-26T10:08:13.156781-05:00.hyperlinks.json) |
+| [September 25 at 10:40 PM](https://archive.org/download/theonion-2022/theonion-2022-09-25T22:40:29.016395-05:00.hyperlinks.json) |
+| [September 25 at 9:43 AM](https://archive.org/download/theonion-2022/theonion-2022-09-25T09:43:29.425947-05:00.hyperlinks.json) |
+| [September 24 at 10:34 PM](https://archive.org/download/theonion-2022/theonion-2022-09-24T22:34:51.579753-05:00.hyperlinks.json) |
+| [September 24 at 9:43 AM](https://archive.org/download/theonion-2022/theonion-2022-09-24T09:43:29.720705-05:00.hyperlinks.json) |
+| [September 23 at 10:35 PM](https://archive.org/download/theonion-2022/theonion-2022-09-23T22:35:33.839200-05:00.hyperlinks.json) |
+| [September 23 at 10:02 AM](https://archive.org/download/theonion-2022/theonion-2022-09-23T10:01:46.859665-05:00.hyperlinks.json) |
+| [September 22 at 10:42 PM](https://archive.org/download/theonion-2022/theonion-2022-09-22T22:42:41.287295-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 216 accessibility trees with the Internet Archive.
+The archiving routine has saved 232 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 9:06 AM](https://archive.org/download/theonion-2022/theonion-2022-09-19T09:06:11.650910-05:00.accessibility.json) |
-| [September 18 at 9:20 PM](https://archive.org/download/theonion-2022/theonion-2022-09-18T21:20:17.621825-05:00.accessibility.json) |
-| [September 18 at 9:01 AM](https://archive.org/download/theonion-2022/theonion-2022-09-18T09:01:33.039125-05:00.accessibility.json) |
-| [September 17 at 9:27 PM](https://archive.org/download/theonion-2022/theonion-2022-09-17T21:27:15.174274-05:00.accessibility.json) |
-| [September 17 at 8:59 AM](https://archive.org/download/theonion-2022/theonion-2022-09-17T08:59:10.399565-05:00.accessibility.json) |
-| [September 16 at 9:24 PM](https://archive.org/download/theonion-2022/theonion-2022-09-16T21:24:41.586559-05:00.accessibility.json) |
-| [September 16 at 9:06 AM](https://archive.org/download/theonion-2022/theonion-2022-09-16T09:05:56.891789-05:00.accessibility.json) |
-| [September 15 at 9:25 PM](https://archive.org/download/theonion-2022/theonion-2022-09-15T21:25:15.235379-05:00.accessibility.json) |
-| [September 15 at 9:12 AM](https://archive.org/download/theonion-2022/theonion-2022-09-15T09:11:59.564004-05:00.accessibility.json) |
-| [September 14 at 9:27 PM](https://archive.org/download/theonion-2022/theonion-2022-09-14T21:27:22.713523-05:00.accessibility.json) |
+| [September 27 at 10:04 AM](https://archive.org/download/theonion-2022/theonion-2022-09-27T10:04:15.282913-05:00.accessibility.json) |
+| [September 26 at 10:33 PM](https://archive.org/download/theonion-2022/theonion-2022-09-26T22:33:32.966134-05:00.accessibility.json) |
+| [September 26 at 10:08 AM](https://archive.org/download/theonion-2022/theonion-2022-09-26T10:08:13.156781-05:00.accessibility.json) |
+| [September 25 at 10:40 PM](https://archive.org/download/theonion-2022/theonion-2022-09-25T22:40:29.016395-05:00.accessibility.json) |
+| [September 25 at 9:43 AM](https://archive.org/download/theonion-2022/theonion-2022-09-25T09:43:29.425947-05:00.accessibility.json) |
+| [September 24 at 10:34 PM](https://archive.org/download/theonion-2022/theonion-2022-09-24T22:34:51.579753-05:00.accessibility.json) |
+| [September 24 at 9:43 AM](https://archive.org/download/theonion-2022/theonion-2022-09-24T09:43:29.720705-05:00.accessibility.json) |
+| [September 23 at 10:35 PM](https://archive.org/download/theonion-2022/theonion-2022-09-23T22:35:33.839200-05:00.accessibility.json) |
+| [September 23 at 10:01 AM](https://archive.org/download/theonion-2022/theonion-2022-09-23T10:01:46.859665-05:00.accessibility.json) |
+| [September 22 at 10:42 PM](https://archive.org/download/theonion-2022/theonion-2022-09-22T22:42:41.287295-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 117 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 9:06 AM](https://archive.org/download/theonion-2022/theonion-2022-09-19T09:06:11.650910-05:00.lighthouse.json) |
-| [September 18 at 9:20 PM](https://archive.org/download/theonion-2022/theonion-2022-09-18T21:20:17.621825-05:00.lighthouse.json) |
-| [September 18 at 9:01 AM](https://archive.org/download/theonion-2022/theonion-2022-09-18T09:01:33.039125-05:00.lighthouse.json) |
-| [September 17 at 9:27 PM](https://archive.org/download/theonion-2022/theonion-2022-09-17T21:27:15.174274-05:00.lighthouse.json) |
-| [September 17 at 8:59 AM](https://archive.org/download/theonion-2022/theonion-2022-09-17T08:59:10.399565-05:00.lighthouse.json) |
-| [September 16 at 9:24 PM](https://archive.org/download/theonion-2022/theonion-2022-09-16T21:24:41.586559-05:00.lighthouse.json) |
-| [September 16 at 9:06 AM](https://archive.org/download/theonion-2022/theonion-2022-09-16T09:05:56.891789-05:00.lighthouse.json) |
-| [September 15 at 9:25 PM](https://archive.org/download/theonion-2022/theonion-2022-09-15T21:25:15.235379-05:00.lighthouse.json) |
-| [September 15 at 9:12 AM](https://archive.org/download/theonion-2022/theonion-2022-09-15T09:11:59.564004-05:00.lighthouse.json) |
-| [September 14 at 9:27 PM](https://archive.org/download/theonion-2022/theonion-2022-09-14T21:27:22.713523-05:00.lighthouse.json) |
+| [September 27 at 10:04 AM](https://archive.org/download/theonion-2022/theonion-2022-09-27T10:04:15.282913-05:00.lighthouse.json) |
+| [September 26 at 10:33 PM](https://archive.org/download/theonion-2022/theonion-2022-09-26T22:33:32.966134-05:00.lighthouse.json) |
+| [September 26 at 10:08 AM](https://archive.org/download/theonion-2022/theonion-2022-09-26T10:08:13.156781-05:00.lighthouse.json) |
+| [September 25 at 10:40 PM](https://archive.org/download/theonion-2022/theonion-2022-09-25T22:40:29.016395-05:00.lighthouse.json) |
+| [September 25 at 9:43 AM](https://archive.org/download/theonion-2022/theonion-2022-09-25T09:43:29.425947-05:00.lighthouse.json) |
+| [September 24 at 10:34 PM](https://archive.org/download/theonion-2022/theonion-2022-09-24T22:34:51.579753-05:00.lighthouse.json) |
+| [September 24 at 9:43 AM](https://archive.org/download/theonion-2022/theonion-2022-09-24T09:43:29.720705-05:00.lighthouse.json) |
+| [September 23 at 10:35 PM](https://archive.org/download/theonion-2022/theonion-2022-09-23T22:35:33.839200-05:00.lighthouse.json) |
+| [September 23 at 10:02 AM](https://archive.org/download/theonion-2022/theonion-2022-09-23T10:01:46.859665-05:00.lighthouse.json) |
+| [September 22 at 10:42 PM](https://archive.org/download/theonion-2022/theonion-2022-09-22T22:42:41.287295-05:00.lighthouse.json) |
 
 
 

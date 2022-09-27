@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 180 screenshots with the Internet Archive.
+The archiving routine has saved 204 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-19T15:04:07.721410+01:00.jpg">
-  <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-19T15:04:07.721410+01:00.jpg"
-     alt="Scottish Sun at 2022-09-19 15:04:09+01:00 local time"
+ <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-27T16:02:18.784832+01:00.jpg">
+  <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-27T16:02:18.784832+01:00.jpg"
+     alt="Scottish Sun at 2022-09-27 16:02:21+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-19T15:04:07.721410+01:00.jpg">September 19 at 3:04 PM</a></p>
+ <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-27T16:02:18.784832+01:00.jpg">September 27 at 4:02 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-19T10:26:57.533840+01:00.jpg">
-  <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-19T10:26:57.533840+01:00.jpg"
-     alt="Scottish Sun at 2022-09-19 10:27:04+01:00 local time"
+ <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-27T10:31:13.802506+01:00.jpg">
+  <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-27T10:31:13.802506+01:00.jpg"
+     alt="Scottish Sun at 2022-09-27 10:31:20+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-19T10:26:57.533840+01:00.jpg">September 19 at 10:27 AM</a></p>
+ <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-27T10:31:13.802506+01:00.jpg">September 27 at 10:31 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-19T03:18:26.860658+01:00.jpg">
-  <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-19T03:18:26.860658+01:00.jpg"
-     alt="Scottish Sun at 2022-09-19 03:18:28+01:00 local time"
+ <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-27T04:31:22.335151+01:00.jpg">
+  <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-27T04:31:22.335151+01:00.jpg"
+     alt="Scottish Sun at 2022-09-27 04:31:24+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-19T03:18:26.860658+01:00.jpg">September 19 at 3:18 AM</a></p>
+ <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-27T04:31:22.335151+01:00.jpg">September 27 at 4:31 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-18T14:02:10.086017+01:00.jpg">
-  <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-18T14:02:10.086017+01:00.jpg"
-     alt="Scottish Sun at 2022-09-18 14:02:28+01:00 local time"
+ <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-26T16:07:07.674491+01:00.jpg">
+  <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-26T16:07:07.674491+01:00.jpg"
+     alt="Scottish Sun at 2022-09-26 16:07:09+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-18T14:02:10.086017+01:00.jpg">September 18 at 2:02 PM</a></p>
+ <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-26T16:07:07.674491+01:00.jpg">September 26 at 4:07 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-18T10:16:05.636394+01:00.jpg">
-  <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-18T10:16:05.636394+01:00.jpg"
-     alt="Scottish Sun at 2022-09-18 10:16:25+01:00 local time"
+ <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-26T10:20:14.116311+01:00.jpg">
+  <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-26T10:20:14.116311+01:00.jpg"
+     alt="Scottish Sun at 2022-09-26 10:20:16+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-18T10:16:05.636394+01:00.jpg">September 18 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-26T10:20:14.116311+01:00.jpg">September 26 at 10:20 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-18T02:22:11.998663+01:00.jpg">
-  <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-18T02:22:11.998663+01:00.jpg"
-     alt="Scottish Sun at 2022-09-18 02:22:19+01:00 local time"
+ <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-26T04:39:01.671713+01:00.jpg">
+  <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-26T04:39:01.671713+01:00.jpg"
+     alt="Scottish Sun at 2022-09-26 04:39:02+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-18T02:22:11.998663+01:00.jpg">September 18 at 2:22 AM</a></p>
+ <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-26T04:39:01.671713+01:00.jpg">September 26 at 4:39 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-17T14:02:47.041648+01:00.jpg">
-  <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-17T14:02:47.041648+01:00.jpg"
-     alt="Scottish Sun at 2022-09-17 14:02:48+01:00 local time"
+ <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-25T15:41:51.723049+01:00.jpg">
+  <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-25T15:41:51.723049+01:00.jpg"
+     alt="Scottish Sun at 2022-09-25 15:42:12+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-17T14:02:47.041648+01:00.jpg">September 17 at 2:02 PM</a></p>
+ <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-25T15:41:51.723049+01:00.jpg">September 25 at 3:42 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-17T10:16:13.031843+01:00.jpg">
-  <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-17T10:16:13.031843+01:00.jpg"
-     alt="Scottish Sun at 2022-09-17 10:16:15+01:00 local time"
+ <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-25T10:14:48.260381+01:00.jpg">
+  <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-25T10:14:48.260381+01:00.jpg"
+     alt="Scottish Sun at 2022-09-25 10:14:50+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-17T10:16:13.031843+01:00.jpg">September 17 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-25T10:14:48.260381+01:00.jpg">September 25 at 10:14 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-17T02:16:07.382959+01:00.jpg">
-  <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-17T02:16:07.382959+01:00.jpg"
-     alt="Scottish Sun at 2022-09-17 02:16:16+01:00 local time"
+ <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-25T04:32:23.683197+01:00.jpg">
+  <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-25T04:32:23.683197+01:00.jpg"
+     alt="Scottish Sun at 2022-09-25 04:32:25+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-17T02:16:07.382959+01:00.jpg">September 17 at 2:16 AM</a></p>
+ <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-25T04:32:23.683197+01:00.jpg">September 25 at 4:32 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-16T14:02:50.601898+01:00.jpg">
-  <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-16T14:02:50.601898+01:00.jpg"
-     alt="Scottish Sun at 2022-09-16 14:03:04+01:00 local time"
+ <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-24T15:41:28.306238+01:00.jpg">
+  <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-24T15:41:28.306238+01:00.jpg"
+     alt="Scottish Sun at 2022-09-24 15:41:50+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-16T14:02:50.601898+01:00.jpg">September 16 at 2:03 PM</a></p>
+ <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-24T15:41:28.306238+01:00.jpg">September 24 at 3:41 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-16T10:16:30.325977+01:00.jpg">
-  <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-16T10:16:30.325977+01:00.jpg"
-     alt="Scottish Sun at 2022-09-16 10:16:46+01:00 local time"
+ <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-24T10:16:02.950642+01:00.jpg">
+  <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-24T10:16:02.950642+01:00.jpg"
+     alt="Scottish Sun at 2022-09-24 10:16:04+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-16T10:16:30.325977+01:00.jpg">September 16 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-24T10:16:02.950642+01:00.jpg">September 24 at 10:16 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-16T02:18:06.806675+01:00.jpg">
-  <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-16T02:18:06.806675+01:00.jpg"
-     alt="Scottish Sun at 2022-09-16 02:18:09+01:00 local time"
+ <a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-24T04:33:10.934359+01:00.jpg">
+  <img src="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-24T04:33:10.934359+01:00.jpg"
+     alt="Scottish Sun at 2022-09-24 04:33:18+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-16T02:18:06.806675+01:00.jpg">September 16 at 2:18 AM</a></p>
+ <p><a href="https://archive.org/download/scottishsun-2022/scottishsun-2022-09-24T04:33:10.934359+01:00.jpg">September 24 at 4:33 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 175 hyperlink lists with the Internet Archive.
+The archiving routine has saved 199 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 3:04 PM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-19T15:04:07.721410+01:00.hyperlinks.json) |
-| [September 19 at 10:27 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-19T10:26:57.533840+01:00.hyperlinks.json) |
-| [September 19 at 3:18 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-19T03:18:26.860658+01:00.hyperlinks.json) |
-| [September 18 at 2:02 PM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-18T14:02:10.086017+01:00.hyperlinks.json) |
-| [September 18 at 10:16 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-18T10:16:05.636394+01:00.hyperlinks.json) |
-| [September 18 at 2:22 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-18T02:22:11.998663+01:00.hyperlinks.json) |
-| [September 17 at 2:02 PM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-17T14:02:47.041648+01:00.hyperlinks.json) |
-| [September 17 at 10:16 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-17T10:16:13.031843+01:00.hyperlinks.json) |
-| [September 17 at 2:16 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-17T02:16:07.382959+01:00.hyperlinks.json) |
-| [September 16 at 2:03 PM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-16T14:02:50.601898+01:00.hyperlinks.json) |
+| [September 27 at 4:02 PM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-27T16:02:18.784832+01:00.hyperlinks.json) |
+| [September 27 at 10:31 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-27T10:31:13.802506+01:00.hyperlinks.json) |
+| [September 27 at 4:31 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-27T04:31:22.335151+01:00.hyperlinks.json) |
+| [September 26 at 4:07 PM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-26T16:07:07.674491+01:00.hyperlinks.json) |
+| [September 26 at 10:20 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-26T10:20:14.116311+01:00.hyperlinks.json) |
+| [September 26 at 4:39 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-26T04:39:01.671713+01:00.hyperlinks.json) |
+| [September 25 at 3:42 PM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-25T15:41:51.723049+01:00.hyperlinks.json) |
+| [September 25 at 10:14 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-25T10:14:48.260381+01:00.hyperlinks.json) |
+| [September 25 at 4:32 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-25T04:32:23.683197+01:00.hyperlinks.json) |
+| [September 24 at 3:41 PM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-24T15:41:28.306238+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 180 accessibility trees with the Internet Archive.
+The archiving routine has saved 204 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 3:04 PM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-19T15:04:07.721410+01:00.accessibility.json) |
-| [September 19 at 10:27 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-19T10:26:57.533840+01:00.accessibility.json) |
-| [September 19 at 3:18 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-19T03:18:26.860658+01:00.accessibility.json) |
-| [September 18 at 2:02 PM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-18T14:02:10.086017+01:00.accessibility.json) |
-| [September 18 at 10:16 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-18T10:16:05.636394+01:00.accessibility.json) |
-| [September 18 at 2:22 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-18T02:22:11.998663+01:00.accessibility.json) |
-| [September 17 at 2:02 PM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-17T14:02:47.041648+01:00.accessibility.json) |
-| [September 17 at 10:16 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-17T10:16:13.031843+01:00.accessibility.json) |
-| [September 17 at 2:16 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-17T02:16:07.382959+01:00.accessibility.json) |
-| [September 16 at 2:03 PM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-16T14:02:50.601898+01:00.accessibility.json) |
+| [September 27 at 4:02 PM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-27T16:02:18.784832+01:00.accessibility.json) |
+| [September 27 at 10:31 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-27T10:31:13.802506+01:00.accessibility.json) |
+| [September 27 at 4:31 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-27T04:31:22.335151+01:00.accessibility.json) |
+| [September 26 at 4:07 PM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-26T16:07:07.674491+01:00.accessibility.json) |
+| [September 26 at 10:20 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-26T10:20:14.116311+01:00.accessibility.json) |
+| [September 26 at 4:39 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-26T04:39:01.671713+01:00.accessibility.json) |
+| [September 25 at 3:42 PM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-25T15:41:51.723049+01:00.accessibility.json) |
+| [September 25 at 10:14 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-25T10:14:48.260381+01:00.accessibility.json) |
+| [September 25 at 4:32 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-25T04:32:23.683197+01:00.accessibility.json) |
+| [September 24 at 3:41 PM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-24T15:41:28.306238+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 150 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 174 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 3:04 PM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-19T15:04:07.721410+01:00.lighthouse.json) |
-| [September 19 at 10:27 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-19T10:26:57.533840+01:00.lighthouse.json) |
-| [September 19 at 3:18 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-19T03:18:26.860658+01:00.lighthouse.json) |
-| [September 18 at 2:02 PM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-18T14:02:10.086017+01:00.lighthouse.json) |
-| [September 18 at 10:16 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-18T10:16:05.636394+01:00.lighthouse.json) |
-| [September 18 at 2:22 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-18T02:22:11.998663+01:00.lighthouse.json) |
-| [September 17 at 2:02 PM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-17T14:02:47.041648+01:00.lighthouse.json) |
-| [September 17 at 10:16 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-17T10:16:13.031843+01:00.lighthouse.json) |
-| [September 17 at 2:16 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-17T02:16:07.382959+01:00.lighthouse.json) |
-| [September 16 at 2:03 PM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-16T14:02:50.601898+01:00.lighthouse.json) |
+| [September 27 at 4:02 PM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-27T16:02:18.784832+01:00.lighthouse.json) |
+| [September 27 at 10:31 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-27T10:31:13.802506+01:00.lighthouse.json) |
+| [September 27 at 4:31 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-27T04:31:22.335151+01:00.lighthouse.json) |
+| [September 26 at 4:07 PM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-26T16:07:07.674491+01:00.lighthouse.json) |
+| [September 26 at 10:20 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-26T10:20:14.116311+01:00.lighthouse.json) |
+| [September 26 at 4:39 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-26T04:39:01.671713+01:00.lighthouse.json) |
+| [September 25 at 3:42 PM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-25T15:41:51.723049+01:00.lighthouse.json) |
+| [September 25 at 10:14 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-25T10:14:48.260381+01:00.lighthouse.json) |
+| [September 25 at 4:32 AM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-25T04:32:23.683197+01:00.lighthouse.json) |
+| [September 24 at 3:41 PM](https://archive.org/download/scottishsun-2022/scottishsun-2022-09-24T15:41:28.306238+01:00.lighthouse.json) |
 
 
 

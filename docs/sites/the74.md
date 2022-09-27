@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 143 screenshots with the Internet Archive.
+The archiving routine has saved 159 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/the74-2022/the74-2022-09-19T10:06:02.539729-04:00.jpg">
-  <img src="https://archive.org/download/the74-2022/the74-2022-09-19T10:06:02.539729-04:00.jpg"
-     alt="74th at 2022-09-19 10:06:05-04:00 local time"
+ <a href="https://archive.org/download/the74-2022/the74-2022-09-27T11:04:34.288150-04:00.jpg">
+  <img src="https://archive.org/download/the74-2022/the74-2022-09-27T11:04:34.288150-04:00.jpg"
+     alt="74th at 2022-09-27 11:04:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/the74-2022/the74-2022-09-19T10:06:02.539729-04:00.jpg">September 19 at 10:06 AM</a></p>
+ <p><a href="https://archive.org/download/the74-2022/the74-2022-09-27T11:04:34.288150-04:00.jpg">September 27 at 11:04 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/the74-2022/the74-2022-09-18T22:21:03.205029-04:00.jpg">
-  <img src="https://archive.org/download/the74-2022/the74-2022-09-18T22:21:03.205029-04:00.jpg"
-     alt="74th at 2022-09-18 22:21:04-04:00 local time"
+ <a href="https://archive.org/download/the74-2022/the74-2022-09-26T23:31:27.012531-04:00.jpg">
+  <img src="https://archive.org/download/the74-2022/the74-2022-09-26T23:31:27.012531-04:00.jpg"
+     alt="74th at 2022-09-26 23:31:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/the74-2022/the74-2022-09-18T22:21:03.205029-04:00.jpg">September 18 at 10:21 PM</a></p>
+ <p><a href="https://archive.org/download/the74-2022/the74-2022-09-26T23:31:27.012531-04:00.jpg">September 26 at 11:31 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/the74-2022/the74-2022-09-18T10:01:26.893106-04:00.jpg">
-  <img src="https://archive.org/download/the74-2022/the74-2022-09-18T10:01:26.893106-04:00.jpg"
-     alt="74th at 2022-09-18 10:01:28-04:00 local time"
+ <a href="https://archive.org/download/the74-2022/the74-2022-09-26T11:07:58.056422-04:00.jpg">
+  <img src="https://archive.org/download/the74-2022/the74-2022-09-26T11:07:58.056422-04:00.jpg"
+     alt="74th at 2022-09-26 11:08:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/the74-2022/the74-2022-09-18T10:01:26.893106-04:00.jpg">September 18 at 10:01 AM</a></p>
+ <p><a href="https://archive.org/download/the74-2022/the74-2022-09-26T11:07:58.056422-04:00.jpg">September 26 at 11:08 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/the74-2022/the74-2022-09-17T22:26:28.217816-04:00.jpg">
-  <img src="https://archive.org/download/the74-2022/the74-2022-09-17T22:26:28.217816-04:00.jpg"
-     alt="74th at 2022-09-17 22:26:29-04:00 local time"
+ <a href="https://archive.org/download/the74-2022/the74-2022-09-25T23:38:24.625935-04:00.jpg">
+  <img src="https://archive.org/download/the74-2022/the74-2022-09-25T23:38:24.625935-04:00.jpg"
+     alt="74th at 2022-09-25 23:38:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/the74-2022/the74-2022-09-17T22:26:28.217816-04:00.jpg">September 17 at 10:26 PM</a></p>
+ <p><a href="https://archive.org/download/the74-2022/the74-2022-09-25T23:38:24.625935-04:00.jpg">September 25 at 11:38 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/the74-2022/the74-2022-09-17T09:59:22.997266-04:00.jpg">
-  <img src="https://archive.org/download/the74-2022/the74-2022-09-17T09:59:22.997266-04:00.jpg"
-     alt="74th at 2022-09-17 09:59:24-04:00 local time"
+ <a href="https://archive.org/download/the74-2022/the74-2022-09-25T10:41:59.990986-04:00.jpg">
+  <img src="https://archive.org/download/the74-2022/the74-2022-09-25T10:41:59.990986-04:00.jpg"
+     alt="74th at 2022-09-25 10:42:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/the74-2022/the74-2022-09-17T09:59:22.997266-04:00.jpg">September 17 at 9:59 AM</a></p>
+ <p><a href="https://archive.org/download/the74-2022/the74-2022-09-25T10:41:59.990986-04:00.jpg">September 25 at 10:42 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/the74-2022/the74-2022-09-16T22:25:08.757740-04:00.jpg">
-  <img src="https://archive.org/download/the74-2022/the74-2022-09-16T22:25:08.757740-04:00.jpg"
-     alt="74th at 2022-09-16 22:25:13-04:00 local time"
+ <a href="https://archive.org/download/the74-2022/the74-2022-09-24T23:32:31.999669-04:00.jpg">
+  <img src="https://archive.org/download/the74-2022/the74-2022-09-24T23:32:31.999669-04:00.jpg"
+     alt="74th at 2022-09-24 23:32:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/the74-2022/the74-2022-09-16T22:25:08.757740-04:00.jpg">September 16 at 10:25 PM</a></p>
+ <p><a href="https://archive.org/download/the74-2022/the74-2022-09-24T23:32:31.999669-04:00.jpg">September 24 at 11:32 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/the74-2022/the74-2022-09-16T10:05:48.849973-04:00.jpg">
-  <img src="https://archive.org/download/the74-2022/the74-2022-09-16T10:05:48.849973-04:00.jpg"
-     alt="74th at 2022-09-16 10:05:50-04:00 local time"
+ <a href="https://archive.org/download/the74-2022/the74-2022-09-24T10:44:05.450001-04:00.jpg">
+  <img src="https://archive.org/download/the74-2022/the74-2022-09-24T10:44:05.450001-04:00.jpg"
+     alt="74th at 2022-09-24 10:44:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/the74-2022/the74-2022-09-16T10:05:48.849973-04:00.jpg">September 16 at 10:05 AM</a></p>
+ <p><a href="https://archive.org/download/the74-2022/the74-2022-09-24T10:44:05.450001-04:00.jpg">September 24 at 10:44 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/the74-2022/the74-2022-09-15T22:25:27.853719-04:00.jpg">
-  <img src="https://archive.org/download/the74-2022/the74-2022-09-15T22:25:27.853719-04:00.jpg"
-     alt="74th at 2022-09-15 22:25:34-04:00 local time"
+ <a href="https://archive.org/download/the74-2022/the74-2022-09-23T23:33:09.588588-04:00.jpg">
+  <img src="https://archive.org/download/the74-2022/the74-2022-09-23T23:33:09.588588-04:00.jpg"
+     alt="74th at 2022-09-23 23:33:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/the74-2022/the74-2022-09-15T22:25:27.853719-04:00.jpg">September 15 at 10:25 PM</a></p>
+ <p><a href="https://archive.org/download/the74-2022/the74-2022-09-23T23:33:09.588588-04:00.jpg">September 23 at 11:33 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/the74-2022/the74-2022-09-15T10:12:23.330144-04:00.jpg">
-  <img src="https://archive.org/download/the74-2022/the74-2022-09-15T10:12:23.330144-04:00.jpg"
-     alt="74th at 2022-09-15 10:12:25-04:00 local time"
+ <a href="https://archive.org/download/the74-2022/the74-2022-09-23T10:59:12.856884-04:00.jpg">
+  <img src="https://archive.org/download/the74-2022/the74-2022-09-23T10:59:12.856884-04:00.jpg"
+     alt="74th at 2022-09-23 10:59:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/the74-2022/the74-2022-09-15T10:12:23.330144-04:00.jpg">September 15 at 10:12 AM</a></p>
+ <p><a href="https://archive.org/download/the74-2022/the74-2022-09-23T10:59:12.856884-04:00.jpg">September 23 at 10:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/the74-2022/the74-2022-09-14T22:27:26.840429-04:00.jpg">
-  <img src="https://archive.org/download/the74-2022/the74-2022-09-14T22:27:26.840429-04:00.jpg"
-     alt="74th at 2022-09-14 22:27:29-04:00 local time"
+ <a href="https://archive.org/download/the74-2022/the74-2022-09-22T23:40:23.249225-04:00.jpg">
+  <img src="https://archive.org/download/the74-2022/the74-2022-09-22T23:40:23.249225-04:00.jpg"
+     alt="74th at 2022-09-22 23:40:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/the74-2022/the74-2022-09-14T22:27:26.840429-04:00.jpg">September 14 at 10:27 PM</a></p>
+ <p><a href="https://archive.org/download/the74-2022/the74-2022-09-22T23:40:23.249225-04:00.jpg">September 22 at 11:40 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/the74-2022/the74-2022-09-14T10:13:44.201676-04:00.jpg">
-  <img src="https://archive.org/download/the74-2022/the74-2022-09-14T10:13:44.201676-04:00.jpg"
-     alt="74th at 2022-09-14 10:13:45-04:00 local time"
+ <a href="https://archive.org/download/the74-2022/the74-2022-09-22T10:56:22.784357-04:00.jpg">
+  <img src="https://archive.org/download/the74-2022/the74-2022-09-22T10:56:22.784357-04:00.jpg"
+     alt="74th at 2022-09-22 10:56:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/the74-2022/the74-2022-09-14T10:13:44.201676-04:00.jpg">September 14 at 10:13 AM</a></p>
+ <p><a href="https://archive.org/download/the74-2022/the74-2022-09-22T10:56:22.784357-04:00.jpg">September 22 at 10:56 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/the74-2022/the74-2022-09-13T22:25:21.357170-04:00.jpg">
-  <img src="https://archive.org/download/the74-2022/the74-2022-09-13T22:25:21.357170-04:00.jpg"
-     alt="74th at 2022-09-13 22:25:29-04:00 local time"
+ <a href="https://archive.org/download/the74-2022/the74-2022-09-21T23:39:07.924028-04:00.jpg">
+  <img src="https://archive.org/download/the74-2022/the74-2022-09-21T23:39:07.924028-04:00.jpg"
+     alt="74th at 2022-09-21 23:39:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/the74-2022/the74-2022-09-13T22:25:21.357170-04:00.jpg">September 13 at 10:25 PM</a></p>
+ <p><a href="https://archive.org/download/the74-2022/the74-2022-09-21T23:39:07.924028-04:00.jpg">September 21 at 11:39 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 147 hyperlink lists with the Internet Archive.
+The archiving routine has saved 163 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 10:06 AM](https://archive.org/download/the74-2022/the74-2022-09-19T10:06:02.539729-04:00.hyperlinks.json) |
-| [September 18 at 10:21 PM](https://archive.org/download/the74-2022/the74-2022-09-18T22:21:03.205029-04:00.hyperlinks.json) |
-| [September 18 at 10:01 AM](https://archive.org/download/the74-2022/the74-2022-09-18T10:01:26.893106-04:00.hyperlinks.json) |
-| [September 17 at 10:26 PM](https://archive.org/download/the74-2022/the74-2022-09-17T22:26:28.217816-04:00.hyperlinks.json) |
-| [September 17 at 9:59 AM](https://archive.org/download/the74-2022/the74-2022-09-17T09:59:22.997266-04:00.hyperlinks.json) |
-| [September 16 at 10:25 PM](https://archive.org/download/the74-2022/the74-2022-09-16T22:25:08.757740-04:00.hyperlinks.json) |
-| [September 16 at 10:05 AM](https://archive.org/download/the74-2022/the74-2022-09-16T10:05:48.849973-04:00.hyperlinks.json) |
-| [September 15 at 10:25 PM](https://archive.org/download/the74-2022/the74-2022-09-15T22:25:27.853719-04:00.hyperlinks.json) |
-| [September 15 at 10:12 AM](https://archive.org/download/the74-2022/the74-2022-09-15T10:12:23.330144-04:00.hyperlinks.json) |
-| [September 14 at 10:27 PM](https://archive.org/download/the74-2022/the74-2022-09-14T22:27:26.840429-04:00.hyperlinks.json) |
+| [September 27 at 11:04 AM](https://archive.org/download/the74-2022/the74-2022-09-27T11:04:34.288150-04:00.hyperlinks.json) |
+| [September 26 at 11:31 PM](https://archive.org/download/the74-2022/the74-2022-09-26T23:31:27.012531-04:00.hyperlinks.json) |
+| [September 26 at 11:08 AM](https://archive.org/download/the74-2022/the74-2022-09-26T11:07:58.056422-04:00.hyperlinks.json) |
+| [September 25 at 11:38 PM](https://archive.org/download/the74-2022/the74-2022-09-25T23:38:24.625935-04:00.hyperlinks.json) |
+| [September 25 at 10:42 AM](https://archive.org/download/the74-2022/the74-2022-09-25T10:41:59.990986-04:00.hyperlinks.json) |
+| [September 24 at 11:32 PM](https://archive.org/download/the74-2022/the74-2022-09-24T23:32:31.999669-04:00.hyperlinks.json) |
+| [September 24 at 10:44 AM](https://archive.org/download/the74-2022/the74-2022-09-24T10:44:05.450001-04:00.hyperlinks.json) |
+| [September 23 at 11:33 PM](https://archive.org/download/the74-2022/the74-2022-09-23T23:33:09.588588-04:00.hyperlinks.json) |
+| [September 23 at 10:59 AM](https://archive.org/download/the74-2022/the74-2022-09-23T10:59:12.856884-04:00.hyperlinks.json) |
+| [September 22 at 11:40 PM](https://archive.org/download/the74-2022/the74-2022-09-22T23:40:23.249225-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 146 accessibility trees with the Internet Archive.
+The archiving routine has saved 162 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 10:06 AM](https://archive.org/download/the74-2022/the74-2022-09-19T10:06:02.539729-04:00.accessibility.json) |
-| [September 18 at 10:21 PM](https://archive.org/download/the74-2022/the74-2022-09-18T22:21:03.205029-04:00.accessibility.json) |
-| [September 18 at 10:01 AM](https://archive.org/download/the74-2022/the74-2022-09-18T10:01:26.893106-04:00.accessibility.json) |
-| [September 17 at 10:26 PM](https://archive.org/download/the74-2022/the74-2022-09-17T22:26:28.217816-04:00.accessibility.json) |
-| [September 17 at 9:59 AM](https://archive.org/download/the74-2022/the74-2022-09-17T09:59:22.997266-04:00.accessibility.json) |
-| [September 16 at 10:25 PM](https://archive.org/download/the74-2022/the74-2022-09-16T22:25:08.757740-04:00.accessibility.json) |
-| [September 16 at 10:05 AM](https://archive.org/download/the74-2022/the74-2022-09-16T10:05:48.849973-04:00.accessibility.json) |
-| [September 15 at 10:25 PM](https://archive.org/download/the74-2022/the74-2022-09-15T22:25:27.853719-04:00.accessibility.json) |
-| [September 15 at 10:12 AM](https://archive.org/download/the74-2022/the74-2022-09-15T10:12:23.330144-04:00.accessibility.json) |
-| [September 14 at 10:27 PM](https://archive.org/download/the74-2022/the74-2022-09-14T22:27:26.840429-04:00.accessibility.json) |
+| [September 27 at 11:04 AM](https://archive.org/download/the74-2022/the74-2022-09-27T11:04:34.288150-04:00.accessibility.json) |
+| [September 26 at 11:31 PM](https://archive.org/download/the74-2022/the74-2022-09-26T23:31:27.012531-04:00.accessibility.json) |
+| [September 26 at 11:08 AM](https://archive.org/download/the74-2022/the74-2022-09-26T11:07:58.056422-04:00.accessibility.json) |
+| [September 25 at 11:38 PM](https://archive.org/download/the74-2022/the74-2022-09-25T23:38:24.625935-04:00.accessibility.json) |
+| [September 25 at 10:42 AM](https://archive.org/download/the74-2022/the74-2022-09-25T10:41:59.990986-04:00.accessibility.json) |
+| [September 24 at 11:32 PM](https://archive.org/download/the74-2022/the74-2022-09-24T23:32:31.999669-04:00.accessibility.json) |
+| [September 24 at 10:44 AM](https://archive.org/download/the74-2022/the74-2022-09-24T10:44:05.450001-04:00.accessibility.json) |
+| [September 23 at 11:33 PM](https://archive.org/download/the74-2022/the74-2022-09-23T23:33:09.588588-04:00.accessibility.json) |
+| [September 23 at 10:59 AM](https://archive.org/download/the74-2022/the74-2022-09-23T10:59:12.856884-04:00.accessibility.json) |
+| [September 22 at 11:40 PM](https://archive.org/download/the74-2022/the74-2022-09-22T23:40:23.249225-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 117 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 10:06 AM](https://archive.org/download/the74-2022/the74-2022-09-19T10:06:02.539729-04:00.lighthouse.json) |
-| [September 18 at 10:21 PM](https://archive.org/download/the74-2022/the74-2022-09-18T22:21:03.205029-04:00.lighthouse.json) |
-| [September 18 at 10:01 AM](https://archive.org/download/the74-2022/the74-2022-09-18T10:01:26.893106-04:00.lighthouse.json) |
-| [September 17 at 10:26 PM](https://archive.org/download/the74-2022/the74-2022-09-17T22:26:28.217816-04:00.lighthouse.json) |
-| [September 17 at 9:59 AM](https://archive.org/download/the74-2022/the74-2022-09-17T09:59:22.997266-04:00.lighthouse.json) |
-| [September 16 at 10:25 PM](https://archive.org/download/the74-2022/the74-2022-09-16T22:25:08.757740-04:00.lighthouse.json) |
-| [September 16 at 10:05 AM](https://archive.org/download/the74-2022/the74-2022-09-16T10:05:48.849973-04:00.lighthouse.json) |
-| [September 15 at 10:25 PM](https://archive.org/download/the74-2022/the74-2022-09-15T22:25:27.853719-04:00.lighthouse.json) |
-| [September 15 at 10:12 AM](https://archive.org/download/the74-2022/the74-2022-09-15T10:12:23.330144-04:00.lighthouse.json) |
-| [September 14 at 10:27 PM](https://archive.org/download/the74-2022/the74-2022-09-14T22:27:26.840429-04:00.lighthouse.json) |
+| [September 27 at 11:04 AM](https://archive.org/download/the74-2022/the74-2022-09-27T11:04:34.288150-04:00.lighthouse.json) |
+| [September 26 at 11:31 PM](https://archive.org/download/the74-2022/the74-2022-09-26T23:31:27.012531-04:00.lighthouse.json) |
+| [September 26 at 11:08 AM](https://archive.org/download/the74-2022/the74-2022-09-26T11:07:58.056422-04:00.lighthouse.json) |
+| [September 25 at 11:38 PM](https://archive.org/download/the74-2022/the74-2022-09-25T23:38:24.625935-04:00.lighthouse.json) |
+| [September 25 at 10:42 AM](https://archive.org/download/the74-2022/the74-2022-09-25T10:41:59.990986-04:00.lighthouse.json) |
+| [September 24 at 11:32 PM](https://archive.org/download/the74-2022/the74-2022-09-24T23:32:31.999669-04:00.lighthouse.json) |
+| [September 24 at 10:44 AM](https://archive.org/download/the74-2022/the74-2022-09-24T10:44:05.450001-04:00.lighthouse.json) |
+| [September 23 at 11:33 PM](https://archive.org/download/the74-2022/the74-2022-09-23T23:33:09.588588-04:00.lighthouse.json) |
+| [September 23 at 10:59 AM](https://archive.org/download/the74-2022/the74-2022-09-23T10:59:12.856884-04:00.lighthouse.json) |
+| [September 22 at 11:40 PM](https://archive.org/download/the74-2022/the74-2022-09-22T23:40:23.249225-04:00.lighthouse.json) |
 
 
 

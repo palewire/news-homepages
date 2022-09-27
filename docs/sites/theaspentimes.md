@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 55 screenshots with the Internet Archive.
+The archiving routine has saved 71 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-19T08:06:45.370463-06:00.jpg">
-  <img src="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-19T08:06:45.370463-06:00.jpg"
-     alt="Aspen Times at 2022-09-19 08:06:46-06:00 local time"
+ <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-27T09:04:35.319594-06:00.jpg">
+  <img src="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-27T09:04:35.319594-06:00.jpg"
+     alt="Aspen Times at 2022-09-27 09:04:39-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-19T08:06:45.370463-06:00.jpg">September 19 at 8:06 AM</a></p>
+ <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-27T09:04:35.319594-06:00.jpg">September 27 at 9:04 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-18T20:20:29.433915-06:00.jpg">
-  <img src="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-18T20:20:29.433915-06:00.jpg"
-     alt="Aspen Times at 2022-09-18 20:20:31-06:00 local time"
+ <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-26T21:33:50.831663-06:00.jpg">
+  <img src="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-26T21:33:50.831663-06:00.jpg"
+     alt="Aspen Times at 2022-09-26 21:33:55-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-18T20:20:29.433915-06:00.jpg">September 18 at 8:20 PM</a></p>
+ <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-26T21:33:50.831663-06:00.jpg">September 26 at 9:33 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-18T08:01:03.937963-06:00.jpg">
-  <img src="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-18T08:01:03.937963-06:00.jpg"
-     alt="Aspen Times at 2022-09-18 08:01:05-06:00 local time"
+ <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-26T09:09:21.877177-06:00.jpg">
+  <img src="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-26T09:09:21.877177-06:00.jpg"
+     alt="Aspen Times at 2022-09-26 09:09:23-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-18T08:01:03.937963-06:00.jpg">September 18 at 8:01 AM</a></p>
+ <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-26T09:09:21.877177-06:00.jpg">September 26 at 9:09 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-17T20:26:02.277785-06:00.jpg">
-  <img src="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-17T20:26:02.277785-06:00.jpg"
-     alt="Aspen Times at 2022-09-17 20:26:09-06:00 local time"
+ <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-25T21:40:26.386428-06:00.jpg">
+  <img src="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-25T21:40:26.386428-06:00.jpg"
+     alt="Aspen Times at 2022-09-25 21:40:33-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-17T20:26:02.277785-06:00.jpg">September 17 at 8:26 PM</a></p>
+ <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-25T21:40:26.386428-06:00.jpg">September 25 at 9:40 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-17T07:59:29.237755-06:00.jpg">
-  <img src="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-17T07:59:29.237755-06:00.jpg"
-     alt="Aspen Times at 2022-09-17 07:59:30-06:00 local time"
+ <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-25T08:43:34.731239-06:00.jpg">
+  <img src="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-25T08:43:34.731239-06:00.jpg"
+     alt="Aspen Times at 2022-09-25 08:43:38-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-17T07:59:29.237755-06:00.jpg">September 17 at 7:59 AM</a></p>
+ <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-25T08:43:34.731239-06:00.jpg">September 25 at 8:43 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-16T20:24:39.030866-06:00.jpg">
-  <img src="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-16T20:24:39.030866-06:00.jpg"
-     alt="Aspen Times at 2022-09-16 20:24:40-06:00 local time"
+ <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-24T21:34:14.843353-06:00.jpg">
+  <img src="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-24T21:34:14.843353-06:00.jpg"
+     alt="Aspen Times at 2022-09-24 21:34:18-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-16T20:24:39.030866-06:00.jpg">September 16 at 8:24 PM</a></p>
+ <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-24T21:34:14.843353-06:00.jpg">September 24 at 9:34 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-16T08:06:14.611267-06:00.jpg">
-  <img src="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-16T08:06:14.611267-06:00.jpg"
-     alt="Aspen Times at 2022-09-16 08:06:16-06:00 local time"
+ <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-24T08:43:38.981890-06:00.jpg">
+  <img src="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-24T08:43:38.981890-06:00.jpg"
+     alt="Aspen Times at 2022-09-24 08:43:42-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-16T08:06:14.611267-06:00.jpg">September 16 at 8:06 AM</a></p>
+ <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-24T08:43:38.981890-06:00.jpg">September 24 at 8:43 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-15T20:25:08.396175-06:00.jpg">
-  <img src="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-15T20:25:08.396175-06:00.jpg"
-     alt="Aspen Times at 2022-09-15 20:25:11-06:00 local time"
+ <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-23T21:34:43.900695-06:00.jpg">
+  <img src="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-23T21:34:43.900695-06:00.jpg"
+     alt="Aspen Times at 2022-09-23 21:34:47-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-15T20:25:08.396175-06:00.jpg">September 15 at 8:25 PM</a></p>
+ <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-23T21:34:43.900695-06:00.jpg">September 23 at 9:34 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-15T08:12:34.659424-06:00.jpg">
-  <img src="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-15T08:12:34.659424-06:00.jpg"
-     alt="Aspen Times at 2022-09-15 08:12:36-06:00 local time"
+ <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-23T09:01:32.175704-06:00.jpg">
+  <img src="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-23T09:01:32.175704-06:00.jpg"
+     alt="Aspen Times at 2022-09-23 09:01:33-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-15T08:12:34.659424-06:00.jpg">September 15 at 8:12 AM</a></p>
+ <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-23T09:01:32.175704-06:00.jpg">September 23 at 9:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-14T20:28:11.166239-06:00.jpg">
-  <img src="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-14T20:28:11.166239-06:00.jpg"
-     alt="Aspen Times at 2022-09-14 20:28:12-06:00 local time"
+ <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-22T21:43:16.212032-06:00.jpg">
+  <img src="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-22T21:43:16.212032-06:00.jpg"
+     alt="Aspen Times at 2022-09-22 21:43:20-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-14T20:28:11.166239-06:00.jpg">September 14 at 8:28 PM</a></p>
+ <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-22T21:43:16.212032-06:00.jpg">September 22 at 9:43 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-14T08:13:53.603772-06:00.jpg">
-  <img src="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-14T08:13:53.603772-06:00.jpg"
-     alt="Aspen Times at 2022-09-14 08:13:54-06:00 local time"
+ <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-22T08:58:56.876989-06:00.jpg">
+  <img src="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-22T08:58:56.876989-06:00.jpg"
+     alt="Aspen Times at 2022-09-22 08:58:59-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-14T08:13:53.603772-06:00.jpg">September 14 at 8:13 AM</a></p>
+ <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-22T08:58:56.876989-06:00.jpg">September 22 at 8:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-13T20:25:04.904890-06:00.jpg">
-  <img src="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-13T20:25:04.904890-06:00.jpg"
-     alt="Aspen Times at 2022-09-13 20:25:06-06:00 local time"
+ <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-21T21:39:15.732198-06:00.jpg">
+  <img src="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-21T21:39:15.732198-06:00.jpg"
+     alt="Aspen Times at 2022-09-21 21:39:19-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-13T20:25:04.904890-06:00.jpg">September 13 at 8:25 PM</a></p>
+ <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-21T21:39:15.732198-06:00.jpg">September 21 at 9:39 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 52 hyperlink lists with the Internet Archive.
+The archiving routine has saved 68 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 8:06 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-19T08:06:45.370463-06:00.hyperlinks.json) |
-| [September 18 at 8:20 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-18T20:20:29.433915-06:00.hyperlinks.json) |
-| [September 18 at 8:01 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-18T08:01:03.937963-06:00.hyperlinks.json) |
-| [September 17 at 8:26 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-17T20:26:02.277785-06:00.hyperlinks.json) |
-| [September 17 at 7:59 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-17T07:59:29.237755-06:00.hyperlinks.json) |
-| [September 16 at 8:24 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-16T20:24:39.030866-06:00.hyperlinks.json) |
-| [September 16 at 8:06 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-16T08:06:14.611267-06:00.hyperlinks.json) |
-| [September 15 at 8:25 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-15T20:25:08.396175-06:00.hyperlinks.json) |
-| [September 15 at 8:12 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-15T08:12:34.659424-06:00.hyperlinks.json) |
-| [September 14 at 8:28 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-14T20:28:11.166239-06:00.hyperlinks.json) |
+| [September 27 at 9:04 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-27T09:04:35.319594-06:00.hyperlinks.json) |
+| [September 26 at 9:33 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-26T21:33:50.831663-06:00.hyperlinks.json) |
+| [September 26 at 9:09 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-26T09:09:21.877177-06:00.hyperlinks.json) |
+| [September 25 at 9:40 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-25T21:40:26.386428-06:00.hyperlinks.json) |
+| [September 25 at 8:43 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-25T08:43:34.731239-06:00.hyperlinks.json) |
+| [September 24 at 9:34 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-24T21:34:14.843353-06:00.hyperlinks.json) |
+| [September 24 at 8:43 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-24T08:43:38.981890-06:00.hyperlinks.json) |
+| [September 23 at 9:34 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-23T21:34:43.900695-06:00.hyperlinks.json) |
+| [September 23 at 9:01 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-23T09:01:32.175704-06:00.hyperlinks.json) |
+| [September 22 at 9:43 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-22T21:43:16.212032-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 55 accessibility trees with the Internet Archive.
+The archiving routine has saved 71 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 8:06 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-19T08:06:45.370463-06:00.accessibility.json) |
-| [September 18 at 8:20 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-18T20:20:29.433915-06:00.accessibility.json) |
-| [September 18 at 8:01 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-18T08:01:03.937963-06:00.accessibility.json) |
-| [September 17 at 8:26 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-17T20:26:02.277785-06:00.accessibility.json) |
-| [September 17 at 7:59 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-17T07:59:29.237755-06:00.accessibility.json) |
-| [September 16 at 8:24 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-16T20:24:39.030866-06:00.accessibility.json) |
-| [September 16 at 8:06 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-16T08:06:14.611267-06:00.accessibility.json) |
-| [September 15 at 8:25 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-15T20:25:08.396175-06:00.accessibility.json) |
-| [September 15 at 8:12 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-15T08:12:34.659424-06:00.accessibility.json) |
-| [September 14 at 8:28 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-14T20:28:11.166239-06:00.accessibility.json) |
+| [September 27 at 9:04 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-27T09:04:35.319594-06:00.accessibility.json) |
+| [September 26 at 9:33 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-26T21:33:50.831663-06:00.accessibility.json) |
+| [September 26 at 9:09 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-26T09:09:21.877177-06:00.accessibility.json) |
+| [September 25 at 9:40 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-25T21:40:26.386428-06:00.accessibility.json) |
+| [September 25 at 8:43 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-25T08:43:34.731239-06:00.accessibility.json) |
+| [September 24 at 9:34 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-24T21:34:14.843353-06:00.accessibility.json) |
+| [September 24 at 8:43 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-24T08:43:38.981890-06:00.accessibility.json) |
+| [September 23 at 9:34 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-23T21:34:43.900695-06:00.accessibility.json) |
+| [September 23 at 9:01 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-23T09:01:32.175704-06:00.accessibility.json) |
+| [September 22 at 9:43 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-22T21:43:16.212032-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 71 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 8:06 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-19T08:06:45.370463-06:00.lighthouse.json) |
-| [September 18 at 8:20 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-18T20:20:29.433915-06:00.lighthouse.json) |
-| [September 18 at 8:01 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-18T08:01:03.937963-06:00.lighthouse.json) |
-| [September 17 at 8:26 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-17T20:26:02.277785-06:00.lighthouse.json) |
-| [September 17 at 7:59 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-17T07:59:29.237755-06:00.lighthouse.json) |
-| [September 16 at 8:24 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-16T20:24:39.030866-06:00.lighthouse.json) |
-| [September 16 at 8:06 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-16T08:06:14.611267-06:00.lighthouse.json) |
-| [September 15 at 8:25 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-15T20:25:08.396175-06:00.lighthouse.json) |
-| [September 15 at 8:12 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-15T08:12:34.659424-06:00.lighthouse.json) |
-| [September 14 at 8:28 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-14T20:28:11.166239-06:00.lighthouse.json) |
+| [September 27 at 9:04 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-27T09:04:35.319594-06:00.lighthouse.json) |
+| [September 26 at 9:33 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-26T21:33:50.831663-06:00.lighthouse.json) |
+| [September 26 at 9:09 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-26T09:09:21.877177-06:00.lighthouse.json) |
+| [September 25 at 9:40 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-25T21:40:26.386428-06:00.lighthouse.json) |
+| [September 25 at 8:43 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-25T08:43:34.731239-06:00.lighthouse.json) |
+| [September 24 at 9:34 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-24T21:34:14.843353-06:00.lighthouse.json) |
+| [September 24 at 8:43 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-24T08:43:38.981890-06:00.lighthouse.json) |
+| [September 23 at 9:34 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-23T21:34:43.900695-06:00.lighthouse.json) |
+| [September 23 at 9:01 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-23T09:01:32.175704-06:00.lighthouse.json) |
+| [September 22 at 9:43 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-22T21:43:16.212032-06:00.lighthouse.json) |
 
 
 

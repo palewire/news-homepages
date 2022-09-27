@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 163 screenshots with the Internet Archive.
+The archiving routine has saved 186 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-19T11:06:24.142638-05:00.jpg">
-  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-19T11:06:24.142638-05:00.jpg"
-     alt="DePaulia at 2022-09-19 11:06:31-05:00 local time"
+ <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-27T10:05:23.969677-05:00.jpg">
+  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-27T10:05:23.969677-05:00.jpg"
+     alt="DePaulia at 2022-09-27 10:05:26-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-19T11:06:24.142638-05:00.jpg">September 19 at 11:06 AM</a></p>
+ <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-27T10:05:23.969677-05:00.jpg">September 27 at 10:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-19T09:06:16.174693-05:00.jpg">
-  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-19T09:06:16.174693-05:00.jpg"
-     alt="DePaulia at 2022-09-19 09:06:18-05:00 local time"
+ <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-26T22:33:17.735722-05:00.jpg">
+  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-26T22:33:17.735722-05:00.jpg"
+     alt="DePaulia at 2022-09-26 22:33:26-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-19T09:06:16.174693-05:00.jpg">September 19 at 9:06 AM</a></p>
+ <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-26T22:33:17.735722-05:00.jpg">September 26 at 10:33 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-18T21:20:33.856478-05:00.jpg">
-  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-18T21:20:33.856478-05:00.jpg"
-     alt="DePaulia at 2022-09-18 21:20:35-05:00 local time"
+ <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-26T11:11:01.832559-05:00.jpg">
+  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-26T11:11:01.832559-05:00.jpg"
+     alt="DePaulia at 2022-09-26 11:11:04-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-18T21:20:33.856478-05:00.jpg">September 18 at 9:20 PM</a></p>
+ <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-26T11:11:01.832559-05:00.jpg">September 26 at 11:11 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-18T11:00:34.499333-05:00.jpg">
-  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-18T11:00:34.499333-05:00.jpg"
-     alt="DePaulia at 2022-09-18 11:00:36-05:00 local time"
+ <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-26T10:07:58.592444-05:00.jpg">
+  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-26T10:07:58.592444-05:00.jpg"
+     alt="DePaulia at 2022-09-26 10:08:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-18T11:00:34.499333-05:00.jpg">September 18 at 11:00 AM</a></p>
+ <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-26T10:07:58.592444-05:00.jpg">September 26 at 10:08 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-18T09:03:25.039365-05:00.jpg">
-  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-18T09:03:25.039365-05:00.jpg"
-     alt="DePaulia at 2022-09-18 09:03:27-05:00 local time"
+ <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-25T22:40:14.389560-05:00.jpg">
+  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-25T22:40:14.389560-05:00.jpg"
+     alt="DePaulia at 2022-09-25 22:40:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-18T09:03:25.039365-05:00.jpg">September 18 at 9:03 AM</a></p>
+ <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-25T22:40:14.389560-05:00.jpg">September 25 at 10:40 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-17T21:26:37.201776-05:00.jpg">
-  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-17T21:26:37.201776-05:00.jpg"
-     alt="DePaulia at 2022-09-17 21:26:38-05:00 local time"
+ <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-25T10:48:17.718636-05:00.jpg">
+  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-25T10:48:17.718636-05:00.jpg"
+     alt="DePaulia at 2022-09-25 10:48:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-17T21:26:37.201776-05:00.jpg">September 17 at 9:26 PM</a></p>
+ <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-25T10:48:17.718636-05:00.jpg">September 25 at 10:48 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-17T11:03:10.746850-05:00.jpg">
-  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-17T11:03:10.746850-05:00.jpg"
-     alt="DePaulia at 2022-09-17 11:03:16-05:00 local time"
+ <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-25T09:43:31.379594-05:00.jpg">
+  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-25T09:43:31.379594-05:00.jpg"
+     alt="DePaulia at 2022-09-25 09:43:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-17T11:03:10.746850-05:00.jpg">September 17 at 11:03 AM</a></p>
+ <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-25T09:43:31.379594-05:00.jpg">September 25 at 9:43 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-17T08:59:56.665633-05:00.jpg">
-  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-17T08:59:56.665633-05:00.jpg"
-     alt="DePaulia at 2022-09-17 08:59:57-05:00 local time"
+ <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-24T22:34:14.232979-05:00.jpg">
+  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-24T22:34:14.232979-05:00.jpg"
+     alt="DePaulia at 2022-09-24 22:34:15-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-17T08:59:56.665633-05:00.jpg">September 17 at 8:59 AM</a></p>
+ <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-24T22:34:14.232979-05:00.jpg">September 24 at 10:34 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-16T21:24:29.635388-05:00.jpg">
-  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-16T21:24:29.635388-05:00.jpg"
-     alt="DePaulia at 2022-09-16 21:24:31-05:00 local time"
+ <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-24T10:46:57.339056-05:00.jpg">
+  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-24T10:46:57.339056-05:00.jpg"
+     alt="DePaulia at 2022-09-24 10:46:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-16T21:24:29.635388-05:00.jpg">September 16 at 9:24 PM</a></p>
+ <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-24T10:46:57.339056-05:00.jpg">September 24 at 10:46 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-16T10:59:54.633443-05:00.jpg">
-  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-16T10:59:54.633443-05:00.jpg"
-     alt="DePaulia at 2022-09-16 10:59:57-05:00 local time"
+ <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-24T09:44:03.671517-05:00.jpg">
+  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-24T09:44:03.671517-05:00.jpg"
+     alt="DePaulia at 2022-09-24 09:44:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-16T10:59:54.633443-05:00.jpg">September 16 at 10:59 AM</a></p>
+ <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-24T09:44:03.671517-05:00.jpg">September 24 at 9:44 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-16T09:06:32.446642-05:00.jpg">
-  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-16T09:06:32.446642-05:00.jpg"
-     alt="DePaulia at 2022-09-16 09:06:33-05:00 local time"
+ <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-23T22:34:51.543132-05:00.jpg">
+  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-23T22:34:51.543132-05:00.jpg"
+     alt="DePaulia at 2022-09-23 22:34:53-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-16T09:06:32.446642-05:00.jpg">September 16 at 9:06 AM</a></p>
+ <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-23T22:34:51.543132-05:00.jpg">September 23 at 10:34 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-15T21:25:16.933243-05:00.jpg">
-  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-15T21:25:16.933243-05:00.jpg"
-     alt="DePaulia at 2022-09-15 21:25:19-05:00 local time"
+ <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-23T11:03:49.436814-05:00.jpg">
+  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-23T11:03:49.436814-05:00.jpg"
+     alt="DePaulia at 2022-09-23 11:03:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-15T21:25:16.933243-05:00.jpg">September 15 at 9:25 PM</a></p>
+ <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-23T11:03:49.436814-05:00.jpg">September 23 at 11:03 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 163 hyperlink lists with the Internet Archive.
+The archiving routine has saved 185 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 11:06 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-19T11:06:24.142638-05:00.hyperlinks.json) |
-| [September 19 at 9:06 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-19T09:06:16.174693-05:00.hyperlinks.json) |
-| [September 18 at 9:20 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-18T21:20:33.856478-05:00.hyperlinks.json) |
-| [September 18 at 11:00 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-18T11:00:34.499333-05:00.hyperlinks.json) |
-| [September 18 at 9:03 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-18T09:03:25.039365-05:00.hyperlinks.json) |
-| [September 17 at 9:26 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-17T21:26:37.201776-05:00.hyperlinks.json) |
-| [September 17 at 11:03 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-17T11:03:10.746850-05:00.hyperlinks.json) |
-| [September 17 at 9:00 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-17T08:59:56.665633-05:00.hyperlinks.json) |
-| [September 16 at 9:24 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-16T21:24:29.635388-05:00.hyperlinks.json) |
-| [September 16 at 11:00 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-16T10:59:54.633443-05:00.hyperlinks.json) |
+| [September 27 at 10:05 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-27T10:05:23.969677-05:00.hyperlinks.json) |
+| [September 26 at 10:33 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-26T22:33:17.735722-05:00.hyperlinks.json) |
+| [September 26 at 11:11 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-26T11:11:01.832559-05:00.hyperlinks.json) |
+| [September 25 at 10:40 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-25T22:40:14.389560-05:00.hyperlinks.json) |
+| [September 25 at 10:48 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-25T10:48:17.718636-05:00.hyperlinks.json) |
+| [September 25 at 9:43 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-25T09:43:31.379594-05:00.hyperlinks.json) |
+| [September 24 at 10:34 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-24T22:34:14.232979-05:00.hyperlinks.json) |
+| [September 24 at 10:47 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-24T10:46:57.339056-05:00.hyperlinks.json) |
+| [September 24 at 9:44 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-24T09:44:03.671517-05:00.hyperlinks.json) |
+| [September 23 at 10:34 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-23T22:34:51.543132-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 165 accessibility trees with the Internet Archive.
+The archiving routine has saved 188 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 11:06 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-19T11:06:24.142638-05:00.accessibility.json) |
-| [September 19 at 9:06 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-19T09:06:16.174693-05:00.accessibility.json) |
-| [September 18 at 9:20 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-18T21:20:33.856478-05:00.accessibility.json) |
-| [September 18 at 11:00 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-18T11:00:34.499333-05:00.accessibility.json) |
-| [September 18 at 9:03 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-18T09:03:25.039365-05:00.accessibility.json) |
-| [September 17 at 9:26 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-17T21:26:37.201776-05:00.accessibility.json) |
-| [September 17 at 11:03 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-17T11:03:10.746850-05:00.accessibility.json) |
-| [September 17 at 8:59 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-17T08:59:56.665633-05:00.accessibility.json) |
-| [September 16 at 9:24 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-16T21:24:29.635388-05:00.accessibility.json) |
-| [September 16 at 10:59 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-16T10:59:54.633443-05:00.accessibility.json) |
+| [September 27 at 10:05 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-27T10:05:23.969677-05:00.accessibility.json) |
+| [September 26 at 10:33 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-26T22:33:17.735722-05:00.accessibility.json) |
+| [September 26 at 11:11 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-26T11:11:01.832559-05:00.accessibility.json) |
+| [September 26 at 10:08 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-26T10:07:58.592444-05:00.accessibility.json) |
+| [September 25 at 10:40 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-25T22:40:14.389560-05:00.accessibility.json) |
+| [September 25 at 10:48 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-25T10:48:17.718636-05:00.accessibility.json) |
+| [September 25 at 9:43 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-25T09:43:31.379594-05:00.accessibility.json) |
+| [September 24 at 10:34 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-24T22:34:14.232979-05:00.accessibility.json) |
+| [September 24 at 10:47 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-24T10:46:57.339056-05:00.accessibility.json) |
+| [September 24 at 9:44 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-24T09:44:03.671517-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 165 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 188 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 11:06 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-19T11:06:24.142638-05:00.lighthouse.json) |
-| [September 19 at 9:06 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-19T09:06:16.174693-05:00.lighthouse.json) |
-| [September 18 at 9:20 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-18T21:20:33.856478-05:00.lighthouse.json) |
-| [September 18 at 11:00 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-18T11:00:34.499333-05:00.lighthouse.json) |
-| [September 18 at 9:03 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-18T09:03:25.039365-05:00.lighthouse.json) |
-| [September 17 at 9:26 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-17T21:26:37.201776-05:00.lighthouse.json) |
-| [September 17 at 11:03 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-17T11:03:10.746850-05:00.lighthouse.json) |
-| [September 17 at 9:00 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-17T08:59:56.665633-05:00.lighthouse.json) |
-| [September 16 at 9:24 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-16T21:24:29.635388-05:00.lighthouse.json) |
-| [September 16 at 11:00 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-16T10:59:54.633443-05:00.lighthouse.json) |
+| [September 27 at 10:05 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-27T10:05:23.969677-05:00.lighthouse.json) |
+| [September 26 at 10:33 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-26T22:33:17.735722-05:00.lighthouse.json) |
+| [September 26 at 11:11 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-26T11:11:01.832559-05:00.lighthouse.json) |
+| [September 26 at 10:08 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-26T10:07:58.592444-05:00.lighthouse.json) |
+| [September 25 at 10:40 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-25T22:40:14.389560-05:00.lighthouse.json) |
+| [September 25 at 10:48 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-25T10:48:17.718636-05:00.lighthouse.json) |
+| [September 25 at 9:43 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-25T09:43:31.379594-05:00.lighthouse.json) |
+| [September 24 at 10:34 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-24T22:34:14.232979-05:00.lighthouse.json) |
+| [September 24 at 10:47 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-24T10:46:57.339056-05:00.lighthouse.json) |
+| [September 24 at 9:44 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-09-24T09:44:03.671517-05:00.lighthouse.json) |
 
 
 

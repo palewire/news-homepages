@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 128 screenshots with the Internet Archive.
+The archiving routine has saved 144 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-19T10:06:52.305742-04:00.jpg">
-  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-19T10:06:52.305742-04:00.jpg"
-     alt="Teen Vogue at 2022-09-19 10:06:57-04:00 local time"
+ <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-27T11:02:49.068454-04:00.jpg">
+  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-27T11:02:49.068454-04:00.jpg"
+     alt="Teen Vogue at 2022-09-27 11:02:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-19T10:06:52.305742-04:00.jpg">September 19 at 10:06 AM</a></p>
+ <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-27T11:02:49.068454-04:00.jpg">September 27 at 11:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-18T22:20:49.367541-04:00.jpg">
-  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-18T22:20:49.367541-04:00.jpg"
-     alt="Teen Vogue at 2022-09-18 22:20:51-04:00 local time"
+ <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-26T23:31:39.200041-04:00.jpg">
+  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-26T23:31:39.200041-04:00.jpg"
+     alt="Teen Vogue at 2022-09-26 23:31:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-18T22:20:49.367541-04:00.jpg">September 18 at 10:20 PM</a></p>
+ <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-26T23:31:39.200041-04:00.jpg">September 26 at 11:31 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-18T09:59:48.543524-04:00.jpg">
-  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-18T09:59:48.543524-04:00.jpg"
-     alt="Teen Vogue at 2022-09-18 09:59:49-04:00 local time"
+ <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-26T11:05:57.810132-04:00.jpg">
+  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-26T11:05:57.810132-04:00.jpg"
+     alt="Teen Vogue at 2022-09-26 11:06:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-18T09:59:48.543524-04:00.jpg">September 18 at 9:59 AM</a></p>
+ <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-26T11:05:57.810132-04:00.jpg">September 26 at 11:06 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-17T22:24:59.827208-04:00.jpg">
-  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-17T22:24:59.827208-04:00.jpg"
-     alt="Teen Vogue at 2022-09-17 22:25:05-04:00 local time"
+ <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-25T23:38:40.108926-04:00.jpg">
+  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-25T23:38:40.108926-04:00.jpg"
+     alt="Teen Vogue at 2022-09-25 23:38:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-17T22:24:59.827208-04:00.jpg">September 17 at 10:25 PM</a></p>
+ <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-25T23:38:40.108926-04:00.jpg">September 25 at 11:38 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-17T09:57:31.433136-04:00.jpg">
-  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-17T09:57:31.433136-04:00.jpg"
-     alt="Teen Vogue at 2022-09-17 09:57:33-04:00 local time"
+ <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-25T10:41:53.075292-04:00.jpg">
+  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-25T10:41:53.075292-04:00.jpg"
+     alt="Teen Vogue at 2022-09-25 10:42:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-17T09:57:31.433136-04:00.jpg">September 17 at 9:57 AM</a></p>
+ <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-25T10:41:53.075292-04:00.jpg">September 25 at 10:42 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-16T22:22:24.291512-04:00.jpg">
-  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-16T22:22:24.291512-04:00.jpg"
-     alt="Teen Vogue at 2022-09-16 22:22:27-04:00 local time"
+ <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-24T23:32:28.736176-04:00.jpg">
+  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-24T23:32:28.736176-04:00.jpg"
+     alt="Teen Vogue at 2022-09-24 23:32:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-16T22:22:24.291512-04:00.jpg">September 16 at 10:22 PM</a></p>
+ <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-24T23:32:28.736176-04:00.jpg">September 24 at 11:32 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-16T10:03:38.187070-04:00.jpg">
-  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-16T10:03:38.187070-04:00.jpg"
-     alt="Teen Vogue at 2022-09-16 10:03:41-04:00 local time"
+ <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-24T10:41:47.659711-04:00.jpg">
+  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-24T10:41:47.659711-04:00.jpg"
+     alt="Teen Vogue at 2022-09-24 10:41:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-16T10:03:38.187070-04:00.jpg">September 16 at 10:03 AM</a></p>
+ <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-24T10:41:47.659711-04:00.jpg">September 24 at 10:41 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-15T22:23:05.409764-04:00.jpg">
-  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-15T22:23:05.409764-04:00.jpg"
-     alt="Teen Vogue at 2022-09-15 22:23:11-04:00 local time"
+ <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-23T23:33:18.437074-04:00.jpg">
+  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-23T23:33:18.437074-04:00.jpg"
+     alt="Teen Vogue at 2022-09-23 23:33:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-15T22:23:05.409764-04:00.jpg">September 15 at 10:23 PM</a></p>
+ <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-23T23:33:18.437074-04:00.jpg">September 23 at 11:33 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-15T10:09:44.186445-04:00.jpg">
-  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-15T10:09:44.186445-04:00.jpg"
-     alt="Teen Vogue at 2022-09-15 10:09:46-04:00 local time"
+ <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-23T10:59:43.349899-04:00.jpg">
+  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-23T10:59:43.349899-04:00.jpg"
+     alt="Teen Vogue at 2022-09-23 10:59:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-15T10:09:44.186445-04:00.jpg">September 15 at 10:09 AM</a></p>
+ <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-23T10:59:43.349899-04:00.jpg">September 23 at 10:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-14T22:25:59.098690-04:00.jpg">
-  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-14T22:25:59.098690-04:00.jpg"
-     alt="Teen Vogue at 2022-09-14 22:26:00-04:00 local time"
+ <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-22T23:40:35.684562-04:00.jpg">
+  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-22T23:40:35.684562-04:00.jpg"
+     alt="Teen Vogue at 2022-09-22 23:40:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-14T22:25:59.098690-04:00.jpg">September 14 at 10:26 PM</a></p>
+ <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-22T23:40:35.684562-04:00.jpg">September 22 at 11:40 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-14T10:11:40.683326-04:00.jpg">
-  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-14T10:11:40.683326-04:00.jpg"
-     alt="Teen Vogue at 2022-09-14 10:11:43-04:00 local time"
+ <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-22T10:55:58.065852-04:00.jpg">
+  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-22T10:55:58.065852-04:00.jpg"
+     alt="Teen Vogue at 2022-09-22 10:56:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-14T10:11:40.683326-04:00.jpg">September 14 at 10:11 AM</a></p>
+ <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-22T10:55:58.065852-04:00.jpg">September 22 at 10:56 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-13T22:23:23.375973-04:00.jpg">
-  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-13T22:23:23.375973-04:00.jpg"
-     alt="Teen Vogue at 2022-09-13 22:23:29-04:00 local time"
+ <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-21T23:36:26.607077-04:00.jpg">
+  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-21T23:36:26.607077-04:00.jpg"
+     alt="Teen Vogue at 2022-09-21 23:36:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-13T22:23:23.375973-04:00.jpg">September 13 at 10:23 PM</a></p>
+ <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-09-21T23:36:26.607077-04:00.jpg">September 21 at 11:36 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 128 hyperlink lists with the Internet Archive.
+The archiving routine has saved 144 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 10:07 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-19T10:06:52.305742-04:00.hyperlinks.json) |
-| [September 18 at 10:20 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-18T22:20:49.367541-04:00.hyperlinks.json) |
-| [September 18 at 9:59 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-18T09:59:48.543524-04:00.hyperlinks.json) |
-| [September 17 at 10:25 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-17T22:24:59.827208-04:00.hyperlinks.json) |
-| [September 17 at 9:57 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-17T09:57:31.433136-04:00.hyperlinks.json) |
-| [September 16 at 10:22 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-16T22:22:24.291512-04:00.hyperlinks.json) |
-| [September 16 at 10:03 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-16T10:03:38.187070-04:00.hyperlinks.json) |
-| [September 15 at 10:23 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-15T22:23:05.409764-04:00.hyperlinks.json) |
-| [September 15 at 10:09 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-15T10:09:44.186445-04:00.hyperlinks.json) |
-| [September 14 at 10:26 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-14T22:25:59.098690-04:00.hyperlinks.json) |
+| [September 27 at 11:02 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-27T11:02:49.068454-04:00.hyperlinks.json) |
+| [September 26 at 11:31 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-26T23:31:39.200041-04:00.hyperlinks.json) |
+| [September 26 at 11:06 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-26T11:05:57.810132-04:00.hyperlinks.json) |
+| [September 25 at 11:38 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-25T23:38:40.108926-04:00.hyperlinks.json) |
+| [September 25 at 10:42 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-25T10:41:53.075292-04:00.hyperlinks.json) |
+| [September 24 at 11:32 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-24T23:32:28.736176-04:00.hyperlinks.json) |
+| [September 24 at 10:42 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-24T10:41:47.659711-04:00.hyperlinks.json) |
+| [September 23 at 11:33 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-23T23:33:18.437074-04:00.hyperlinks.json) |
+| [September 23 at 10:59 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-23T10:59:43.349899-04:00.hyperlinks.json) |
+| [September 22 at 11:40 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-22T23:40:35.684562-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 129 accessibility trees with the Internet Archive.
+The archiving routine has saved 145 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 10:06 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-19T10:06:52.305742-04:00.accessibility.json) |
-| [September 18 at 10:20 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-18T22:20:49.367541-04:00.accessibility.json) |
-| [September 18 at 9:59 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-18T09:59:48.543524-04:00.accessibility.json) |
-| [September 17 at 10:25 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-17T22:24:59.827208-04:00.accessibility.json) |
-| [September 17 at 9:57 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-17T09:57:31.433136-04:00.accessibility.json) |
-| [September 16 at 10:22 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-16T22:22:24.291512-04:00.accessibility.json) |
-| [September 16 at 10:03 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-16T10:03:38.187070-04:00.accessibility.json) |
-| [September 15 at 10:23 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-15T22:23:05.409764-04:00.accessibility.json) |
-| [September 15 at 10:09 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-15T10:09:44.186445-04:00.accessibility.json) |
-| [September 14 at 10:26 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-14T22:25:59.098690-04:00.accessibility.json) |
+| [September 27 at 11:02 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-27T11:02:49.068454-04:00.accessibility.json) |
+| [September 26 at 11:31 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-26T23:31:39.200041-04:00.accessibility.json) |
+| [September 26 at 11:06 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-26T11:05:57.810132-04:00.accessibility.json) |
+| [September 25 at 11:38 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-25T23:38:40.108926-04:00.accessibility.json) |
+| [September 25 at 10:42 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-25T10:41:53.075292-04:00.accessibility.json) |
+| [September 24 at 11:32 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-24T23:32:28.736176-04:00.accessibility.json) |
+| [September 24 at 10:42 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-24T10:41:47.659711-04:00.accessibility.json) |
+| [September 23 at 11:33 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-23T23:33:18.437074-04:00.accessibility.json) |
+| [September 23 at 10:59 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-23T10:59:43.349899-04:00.accessibility.json) |
+| [September 22 at 11:40 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-22T23:40:35.684562-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 117 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 10:07 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-19T10:06:52.305742-04:00.lighthouse.json) |
-| [September 18 at 10:20 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-18T22:20:49.367541-04:00.lighthouse.json) |
-| [September 18 at 9:59 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-18T09:59:48.543524-04:00.lighthouse.json) |
-| [September 17 at 10:25 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-17T22:24:59.827208-04:00.lighthouse.json) |
-| [September 17 at 9:57 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-17T09:57:31.433136-04:00.lighthouse.json) |
-| [September 16 at 10:22 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-16T22:22:24.291512-04:00.lighthouse.json) |
-| [September 16 at 10:03 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-16T10:03:38.187070-04:00.lighthouse.json) |
-| [September 15 at 10:23 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-15T22:23:05.409764-04:00.lighthouse.json) |
-| [September 15 at 10:09 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-15T10:09:44.186445-04:00.lighthouse.json) |
-| [September 14 at 10:26 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-14T22:25:59.098690-04:00.lighthouse.json) |
+| [September 27 at 11:03 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-27T11:02:49.068454-04:00.lighthouse.json) |
+| [September 26 at 11:31 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-26T23:31:39.200041-04:00.lighthouse.json) |
+| [September 26 at 11:06 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-26T11:05:57.810132-04:00.lighthouse.json) |
+| [September 25 at 11:38 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-25T23:38:40.108926-04:00.lighthouse.json) |
+| [September 25 at 10:42 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-25T10:41:53.075292-04:00.lighthouse.json) |
+| [September 24 at 11:32 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-24T23:32:28.736176-04:00.lighthouse.json) |
+| [September 24 at 10:42 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-24T10:41:47.659711-04:00.lighthouse.json) |
+| [September 23 at 11:33 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-23T23:33:18.437074-04:00.lighthouse.json) |
+| [September 23 at 10:59 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-23T10:59:43.349899-04:00.lighthouse.json) |
+| [September 22 at 11:40 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-09-22T23:40:35.684562-04:00.lighthouse.json) |
 
 
 
