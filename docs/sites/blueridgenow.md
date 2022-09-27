@@ -28,13 +28,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 14 screenshots with the Internet Archive.
+The archiving routine has saved 15 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-27T18:56:17.062313-04:00.jpg">
+  <img src="https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-27T18:56:17.062313-04:00.jpg"
+     alt="blueridgenow.com at 2022-09-27 18:56:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-27T18:56:17.062313-04:00.jpg">September 27 at 6:56 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-26T18:52:46.752069-04:00.jpg">
@@ -135,20 +144,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-21T18:56:38.290438-04:00.jpg">September 21 at 6:56 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-21T06:46:48.738584-04:00.jpg">
-  <img src="https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-21T06:46:48.738584-04:00.jpg"
-     alt="blueridgenow.com at 2022-09-21 06:46:51-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-21T06:46:48.738584-04:00.jpg">September 21 at 6:46 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 15 hyperlink lists with the Internet Archive.
+The archiving routine has saved 16 hyperlink lists with the Internet Archive.
 
 
 
@@ -156,6 +156,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 27 at 6:56 PM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-27T18:56:17.062313-04:00.hyperlinks.json) |
 | [September 27 at 6:55 AM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-27T06:55:37.346272-04:00.hyperlinks.json) |
 | [September 26 at 6:52 PM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-26T18:52:46.752069-04:00.hyperlinks.json) |
 | [September 26 at 6:54 AM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-26T06:54:36.983711-04:00.hyperlinks.json) |
@@ -165,12 +166,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 6:44 AM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-24T06:44:22.164508-04:00.hyperlinks.json) |
 | [September 23 at 7:52 PM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-23T19:52:22.091381-04:00.hyperlinks.json) |
 | [September 23 at 6:48 AM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-23T06:48:44.998456-04:00.hyperlinks.json) |
-| [September 22 at 6:50 PM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-22T18:50:46.073078-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 15 accessibility trees with the Internet Archive.
+The archiving routine has saved 16 accessibility trees with the Internet Archive.
 
 
 
@@ -178,6 +178,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 27 at 6:56 PM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-27T18:56:17.062313-04:00.accessibility.json) |
 | [September 27 at 6:55 AM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-27T06:55:37.346272-04:00.accessibility.json) |
 | [September 26 at 6:52 PM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-26T18:52:46.752069-04:00.accessibility.json) |
 | [September 26 at 6:54 AM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-26T06:54:36.983711-04:00.accessibility.json) |
@@ -187,13 +188,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 6:44 AM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-24T06:44:22.164508-04:00.accessibility.json) |
 | [September 23 at 7:52 PM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-23T19:52:22.091381-04:00.accessibility.json) |
 | [September 23 at 6:48 AM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-23T06:48:44.998456-04:00.accessibility.json) |
-| [September 22 at 6:50 PM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-22T18:50:46.073078-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
 
 
 
@@ -201,6 +201,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 27 at 6:56 PM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-27T18:56:17.062313-04:00.lighthouse.json) |
 | [September 27 at 6:55 AM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-27T06:55:37.346272-04:00.lighthouse.json) |
 | [September 26 at 6:52 PM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-26T18:52:46.752069-04:00.lighthouse.json) |
 | [September 26 at 6:54 AM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-26T06:54:36.983711-04:00.lighthouse.json) |
@@ -210,7 +211,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 6:44 AM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-24T06:44:22.164508-04:00.lighthouse.json) |
 | [September 23 at 7:52 PM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-23T19:52:22.091381-04:00.lighthouse.json) |
 | [September 23 at 6:48 AM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-23T06:48:44.998456-04:00.lighthouse.json) |
-| [September 22 at 6:50 PM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-22T18:50:46.073078-04:00.lighthouse.json) |
 
 
 

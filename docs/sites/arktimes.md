@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 32 screenshots with the Internet Archive.
+The archiving routine has saved 33 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 32 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-27T17:56:45.698389-05:00.jpg">
+  <img src="https://archive.org/download/arktimes-2022/arktimes-2022-09-27T17:56:45.698389-05:00.jpg"
+     alt="Arkansas Times at 2022-09-27 17:56:46-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-27T17:56:45.698389-05:00.jpg">September 27 at 5:56 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-27T05:55:44.144128-05:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-22T05:51:47.471287-05:00.jpg">September 22 at 5:51 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-21T17:57:03.415686-05:00.jpg">
-  <img src="https://archive.org/download/arktimes-2022/arktimes-2022-09-21T17:57:03.415686-05:00.jpg"
-     alt="Arkansas Times at 2022-09-21 17:57:05-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/arktimes-2022/arktimes-2022-09-21T17:57:03.415686-05:00.jpg">September 21 at 5:57 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 32 hyperlink lists with the Internet Archive.
+The archiving routine has saved 33 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 27 at 5:56 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-27T17:56:45.698389-05:00.hyperlinks.json) |
 | [September 27 at 5:55 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-27T05:55:44.144128-05:00.hyperlinks.json) |
 | [September 26 at 5:53 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-26T17:53:00.912934-05:00.hyperlinks.json) |
 | [September 26 at 5:54 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-26T05:54:30.760677-05:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 5:44 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-24T05:44:35.389767-05:00.hyperlinks.json) |
 | [September 23 at 6:51 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-23T18:51:29.264300-05:00.hyperlinks.json) |
 | [September 23 at 5:49 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-23T05:48:56.365934-05:00.hyperlinks.json) |
-| [September 22 at 5:51 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-22T17:50:57.662887-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 32 accessibility trees with the Internet Archive.
+The archiving routine has saved 33 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 27 at 5:56 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-27T17:56:45.698389-05:00.accessibility.json) |
 | [September 27 at 5:55 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-27T05:55:44.144128-05:00.accessibility.json) |
 | [September 26 at 5:53 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-26T17:53:00.912934-05:00.accessibility.json) |
 | [September 26 at 5:54 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-26T05:54:30.760677-05:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 5:44 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-24T05:44:35.389767-05:00.accessibility.json) |
 | [September 23 at 6:51 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-23T18:51:29.264300-05:00.accessibility.json) |
 | [September 23 at 5:49 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-23T05:48:56.365934-05:00.accessibility.json) |
-| [September 22 at 5:51 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-22T17:50:57.662887-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 27 at 5:56 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-27T17:56:45.698389-05:00.lighthouse.json) |
 | [September 27 at 5:55 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-27T05:55:44.144128-05:00.lighthouse.json) |
 | [September 26 at 5:53 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-26T17:53:00.912934-05:00.lighthouse.json) |
 | [September 26 at 5:54 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-26T05:54:30.760677-05:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 5:44 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-24T05:44:35.389767-05:00.lighthouse.json) |
 | [September 23 at 6:51 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-23T18:51:29.264300-05:00.lighthouse.json) |
 | [September 23 at 5:49 AM](https://archive.org/download/arktimes-2022/arktimes-2022-09-23T05:48:56.365934-05:00.lighthouse.json) |
-| [September 22 at 5:51 PM](https://archive.org/download/arktimes-2022/arktimes-2022-09-22T17:50:57.662887-05:00.lighthouse.json) |
 
 
 

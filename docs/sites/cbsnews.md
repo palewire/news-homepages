@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 720 screenshots with the Internet Archive.
+The archiving routine has saved 722 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,6 +120,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-09-27T18:58:00.652169-04:00.jpg">
+  <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-09-27T18:58:00.652169-04:00.jpg"
+     alt="CBS News at 2022-09-27 18:58:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-09-27T18:58:00.652169-04:00.jpg">September 27 at 6:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-09-27T17:29:23.185628-04:00.jpg">
+  <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-09-27T17:29:23.185628-04:00.jpg"
+     alt="CBS News at 2022-09-27 17:29:25-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-09-27T17:29:23.185628-04:00.jpg">September 27 at 5:29 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-09-27T08:53:53.596483-04:00.jpg">
   <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-09-27T08:53:53.596483-04:00.jpg"
      alt="CBS News at 2022-09-27 08:53:56-04:00 local time"
@@ -209,29 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-09-25T06:43:31.634026-04:00.jpg">September 25 at 6:43 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-09-24T18:44:02.874200-04:00.jpg">
-  <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-09-24T18:44:02.874200-04:00.jpg"
-     alt="CBS News at 2022-09-24 18:44:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-09-24T18:44:02.874200-04:00.jpg">September 24 at 6:44 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-09-24T17:16:58.080612-04:00.jpg">
-  <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-09-24T17:16:58.080612-04:00.jpg"
-     alt="CBS News at 2022-09-24 17:17:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-09-24T17:16:58.080612-04:00.jpg">September 24 at 5:17 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 696 hyperlink lists with the Internet Archive.
+The archiving routine has saved 697 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 27 at 5:29 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-09-27T17:29:23.185628-04:00.hyperlinks.json) |
 | [September 27 at 8:54 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-09-27T08:53:53.596483-04:00.hyperlinks.json) |
 | [September 27 at 6:57 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-09-27T06:57:22.113171-04:00.hyperlinks.json) |
 | [September 26 at 6:54 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-09-26T18:54:36.654718-04:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 6:45 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-09-25T18:45:15.126264-04:00.hyperlinks.json) |
 | [September 25 at 5:18 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-09-25T17:17:56.240823-04:00.hyperlinks.json) |
 | [September 25 at 8:45 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-09-25T08:45:13.420188-04:00.hyperlinks.json) |
-| [September 25 at 6:43 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-09-25T06:43:31.634026-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 698 accessibility trees with the Internet Archive.
+The archiving routine has saved 700 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 27 at 6:58 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-09-27T18:58:00.652169-04:00.accessibility.json) |
+| [September 27 at 5:29 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-09-27T17:29:23.185628-04:00.accessibility.json) |
 | [September 27 at 8:53 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-09-27T08:53:53.596483-04:00.accessibility.json) |
 | [September 27 at 6:57 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-09-27T06:57:22.113171-04:00.accessibility.json) |
 | [September 26 at 6:54 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-09-26T18:54:36.654718-04:00.accessibility.json) |
@@ -435,14 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 6:57 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-09-26T06:57:04.701376-04:00.accessibility.json) |
 | [September 25 at 6:45 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-09-25T18:45:15.126264-04:00.accessibility.json) |
 | [September 25 at 5:18 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-09-25T17:17:56.240823-04:00.accessibility.json) |
-| [September 25 at 8:45 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-09-25T08:45:13.420188-04:00.accessibility.json) |
-| [September 25 at 6:43 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-09-25T06:43:31.634026-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 261 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 263 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 27 at 6:58 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-09-27T18:58:00.652169-04:00.lighthouse.json) |
+| [September 27 at 5:29 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-09-27T17:29:23.185628-04:00.lighthouse.json) |
 | [September 27 at 8:54 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-09-27T08:53:53.596483-04:00.lighthouse.json) |
 | [September 27 at 6:57 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-09-27T06:57:22.113171-04:00.lighthouse.json) |
 | [September 26 at 6:54 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-09-26T18:54:36.654718-04:00.lighthouse.json) |
@@ -541,8 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 6:57 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-09-26T06:57:04.701376-04:00.lighthouse.json) |
 | [September 25 at 6:45 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-09-25T18:45:15.126264-04:00.lighthouse.json) |
 | [September 25 at 5:18 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-09-25T17:17:56.240823-04:00.lighthouse.json) |
-| [September 25 at 8:45 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-09-25T08:45:13.420188-04:00.lighthouse.json) |
-| [September 25 at 6:43 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-09-25T06:43:31.634026-04:00.lighthouse.json) |
 
 
 

@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 189 screenshots with the Internet Archive.
+The archiving routine has saved 190 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 189 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnet-2022/cnet-2022-09-27T15:58:00.641662-07:00.jpg">
+  <img src="https://archive.org/download/cnet-2022/cnet-2022-09-27T15:58:00.641662-07:00.jpg"
+     alt="CNET at 2022-09-27 15:58:05-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnet-2022/cnet-2022-09-27T15:58:00.641662-07:00.jpg">September 27 at 3:58 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cnet-2022/cnet-2022-09-27T03:57:43.664987-07:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cnet-2022/cnet-2022-09-22T03:54:16.750172-07:00.jpg">September 22 at 3:54 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cnet-2022/cnet-2022-09-21T15:58:43.781731-07:00.jpg">
-  <img src="https://archive.org/download/cnet-2022/cnet-2022-09-21T15:58:43.781731-07:00.jpg"
-     alt="CNET at 2022-09-21 15:58:56-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cnet-2022/cnet-2022-09-21T15:58:43.781731-07:00.jpg">September 21 at 3:58 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 186 hyperlink lists with the Internet Archive.
+The archiving routine has saved 187 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 27 at 3:58 PM](https://archive.org/download/cnet-2022/cnet-2022-09-27T15:58:00.641662-07:00.hyperlinks.json) |
 | [September 27 at 3:57 AM](https://archive.org/download/cnet-2022/cnet-2022-09-27T03:57:43.664987-07:00.hyperlinks.json) |
 | [September 26 at 3:55 PM](https://archive.org/download/cnet-2022/cnet-2022-09-26T15:55:33.246061-07:00.hyperlinks.json) |
 | [September 26 at 3:57 AM](https://archive.org/download/cnet-2022/cnet-2022-09-26T03:57:06.395565-07:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 3:46 AM](https://archive.org/download/cnet-2022/cnet-2022-09-24T03:46:32.812903-07:00.hyperlinks.json) |
 | [September 23 at 4:55 PM](https://archive.org/download/cnet-2022/cnet-2022-09-23T16:55:16.901280-07:00.hyperlinks.json) |
 | [September 23 at 3:51 AM](https://archive.org/download/cnet-2022/cnet-2022-09-23T03:51:13.044763-07:00.hyperlinks.json) |
-| [September 22 at 3:53 PM](https://archive.org/download/cnet-2022/cnet-2022-09-22T15:53:34.631515-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 189 accessibility trees with the Internet Archive.
+The archiving routine has saved 190 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 27 at 3:58 PM](https://archive.org/download/cnet-2022/cnet-2022-09-27T15:58:00.641662-07:00.accessibility.json) |
 | [September 27 at 3:57 AM](https://archive.org/download/cnet-2022/cnet-2022-09-27T03:57:43.664987-07:00.accessibility.json) |
 | [September 26 at 3:55 PM](https://archive.org/download/cnet-2022/cnet-2022-09-26T15:55:33.246061-07:00.accessibility.json) |
 | [September 26 at 3:57 AM](https://archive.org/download/cnet-2022/cnet-2022-09-26T03:57:06.395565-07:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 3:46 AM](https://archive.org/download/cnet-2022/cnet-2022-09-24T03:46:32.812903-07:00.accessibility.json) |
 | [September 23 at 4:55 PM](https://archive.org/download/cnet-2022/cnet-2022-09-23T16:55:16.901280-07:00.accessibility.json) |
 | [September 23 at 3:51 AM](https://archive.org/download/cnet-2022/cnet-2022-09-23T03:51:13.044763-07:00.accessibility.json) |
-| [September 22 at 3:53 PM](https://archive.org/download/cnet-2022/cnet-2022-09-22T15:53:34.631515-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 135 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 27 at 3:58 PM](https://archive.org/download/cnet-2022/cnet-2022-09-27T15:58:00.641662-07:00.lighthouse.json) |
 | [September 27 at 3:57 AM](https://archive.org/download/cnet-2022/cnet-2022-09-27T03:57:43.664987-07:00.lighthouse.json) |
 | [September 26 at 3:55 PM](https://archive.org/download/cnet-2022/cnet-2022-09-26T15:55:33.246061-07:00.lighthouse.json) |
 | [September 26 at 3:57 AM](https://archive.org/download/cnet-2022/cnet-2022-09-26T03:57:06.395565-07:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 3:46 AM](https://archive.org/download/cnet-2022/cnet-2022-09-24T03:46:32.812903-07:00.lighthouse.json) |
 | [September 23 at 4:55 PM](https://archive.org/download/cnet-2022/cnet-2022-09-23T16:55:16.901280-07:00.lighthouse.json) |
 | [September 23 at 3:51 AM](https://archive.org/download/cnet-2022/cnet-2022-09-23T03:51:13.044763-07:00.lighthouse.json) |
-| [September 22 at 3:53 PM](https://archive.org/download/cnet-2022/cnet-2022-09-22T15:53:34.631515-07:00.lighthouse.json) |
 
 
 
