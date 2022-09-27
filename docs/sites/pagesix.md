@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 34 screenshots with the Internet Archive.
+The archiving routine has saved 50 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-19T08:58:34.639989-04:00.jpg">
-  <img src="https://archive.org/download/pagesix-2022/pagesix-2022-09-19T08:58:34.639989-04:00.jpg"
-     alt="Page Six at 2022-09-19 08:58:35-04:00 local time"
+ <a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-27T10:08:38.131786-04:00.jpg">
+  <img src="https://archive.org/download/pagesix-2022/pagesix-2022-09-27T10:08:38.131786-04:00.jpg"
+     alt="Page Six at 2022-09-27 10:08:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-19T08:58:34.639989-04:00.jpg">September 19 at 8:58 AM</a></p>
+ <p><a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-27T10:08:38.131786-04:00.jpg">September 27 at 10:08 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-18T21:14:46.648521-04:00.jpg">
-  <img src="https://archive.org/download/pagesix-2022/pagesix-2022-09-18T21:14:46.648521-04:00.jpg"
-     alt="Page Six at 2022-09-18 21:14:47-04:00 local time"
+ <a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-26T22:16:24.806568-04:00.jpg">
+  <img src="https://archive.org/download/pagesix-2022/pagesix-2022-09-26T22:16:24.806568-04:00.jpg"
+     alt="Page Six at 2022-09-26 22:16:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-18T21:14:46.648521-04:00.jpg">September 18 at 9:14 PM</a></p>
+ <p><a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-26T22:16:24.806568-04:00.jpg">September 26 at 10:16 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-18T08:59:28.518226-04:00.jpg">
-  <img src="https://archive.org/download/pagesix-2022/pagesix-2022-09-18T08:59:28.518226-04:00.jpg"
-     alt="Page Six at 2022-09-18 08:59:31-04:00 local time"
+ <a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-26T10:05:32.406197-04:00.jpg">
+  <img src="https://archive.org/download/pagesix-2022/pagesix-2022-09-26T10:05:32.406197-04:00.jpg"
+     alt="Page Six at 2022-09-26 10:05:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-18T08:59:28.518226-04:00.jpg">September 18 at 8:59 AM</a></p>
+ <p><a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-26T10:05:32.406197-04:00.jpg">September 26 at 10:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-17T21:20:02.973541-04:00.jpg">
-  <img src="https://archive.org/download/pagesix-2022/pagesix-2022-09-17T21:20:02.973541-04:00.jpg"
-     alt="Page Six at 2022-09-17 21:20:05-04:00 local time"
+ <a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-25T22:17:22.264480-04:00.jpg">
+  <img src="https://archive.org/download/pagesix-2022/pagesix-2022-09-25T22:17:22.264480-04:00.jpg"
+     alt="Page Six at 2022-09-25 22:17:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-17T21:20:02.973541-04:00.jpg">September 17 at 9:20 PM</a></p>
+ <p><a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-25T22:17:22.264480-04:00.jpg">September 25 at 10:17 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-17T09:00:05.497594-04:00.jpg">
-  <img src="https://archive.org/download/pagesix-2022/pagesix-2022-09-17T09:00:05.497594-04:00.jpg"
-     alt="Page Six at 2022-09-17 09:00:08-04:00 local time"
+ <a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-25T09:52:43.749854-04:00.jpg">
+  <img src="https://archive.org/download/pagesix-2022/pagesix-2022-09-25T09:52:43.749854-04:00.jpg"
+     alt="Page Six at 2022-09-25 09:52:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-17T09:00:05.497594-04:00.jpg">September 17 at 9:00 AM</a></p>
+ <p><a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-25T09:52:43.749854-04:00.jpg">September 25 at 9:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-16T21:13:19.713801-04:00.jpg">
-  <img src="https://archive.org/download/pagesix-2022/pagesix-2022-09-16T21:13:19.713801-04:00.jpg"
-     alt="Page Six at 2022-09-16 21:13:22-04:00 local time"
+ <a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-24T22:12:02.813619-04:00.jpg">
+  <img src="https://archive.org/download/pagesix-2022/pagesix-2022-09-24T22:12:02.813619-04:00.jpg"
+     alt="Page Six at 2022-09-24 22:12:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-16T21:13:19.713801-04:00.jpg">September 16 at 9:13 PM</a></p>
+ <p><a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-24T22:12:02.813619-04:00.jpg">September 24 at 10:12 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-16T09:00:16.920267-04:00.jpg">
-  <img src="https://archive.org/download/pagesix-2022/pagesix-2022-09-16T09:00:16.920267-04:00.jpg"
-     alt="Page Six at 2022-09-16 09:00:20-04:00 local time"
+ <a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-24T09:55:41.574615-04:00.jpg">
+  <img src="https://archive.org/download/pagesix-2022/pagesix-2022-09-24T09:55:41.574615-04:00.jpg"
+     alt="Page Six at 2022-09-24 09:55:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-16T09:00:16.920267-04:00.jpg">September 16 at 9:00 AM</a></p>
+ <p><a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-24T09:55:41.574615-04:00.jpg">September 24 at 9:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-15T21:15:51.968972-04:00.jpg">
-  <img src="https://archive.org/download/pagesix-2022/pagesix-2022-09-15T21:15:51.968972-04:00.jpg"
-     alt="Page Six at 2022-09-15 21:15:55-04:00 local time"
+ <a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-23T22:17:04.086345-04:00.jpg">
+  <img src="https://archive.org/download/pagesix-2022/pagesix-2022-09-23T22:17:04.086345-04:00.jpg"
+     alt="Page Six at 2022-09-23 22:17:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-15T21:15:51.968972-04:00.jpg">September 15 at 9:15 PM</a></p>
+ <p><a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-23T22:17:04.086345-04:00.jpg">September 23 at 10:17 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-15T09:03:11.541056-04:00.jpg">
-  <img src="https://archive.org/download/pagesix-2022/pagesix-2022-09-15T09:03:11.541056-04:00.jpg"
-     alt="Page Six at 2022-09-15 09:03:14-04:00 local time"
+ <a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-23T10:04:08.549571-04:00.jpg">
+  <img src="https://archive.org/download/pagesix-2022/pagesix-2022-09-23T10:04:08.549571-04:00.jpg"
+     alt="Page Six at 2022-09-23 10:04:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-15T09:03:11.541056-04:00.jpg">September 15 at 9:03 AM</a></p>
+ <p><a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-23T10:04:08.549571-04:00.jpg">September 23 at 10:04 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-14T21:19:34.335558-04:00.jpg">
-  <img src="https://archive.org/download/pagesix-2022/pagesix-2022-09-14T21:19:34.335558-04:00.jpg"
-     alt="Page Six at 2022-09-14 21:19:35-04:00 local time"
+ <a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-22T22:19:45.129853-04:00.jpg">
+  <img src="https://archive.org/download/pagesix-2022/pagesix-2022-09-22T22:19:45.129853-04:00.jpg"
+     alt="Page Six at 2022-09-22 22:19:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-14T21:19:34.335558-04:00.jpg">September 14 at 9:19 PM</a></p>
+ <p><a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-22T22:19:45.129853-04:00.jpg">September 22 at 10:19 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-14T09:07:42.032631-04:00.jpg">
-  <img src="https://archive.org/download/pagesix-2022/pagesix-2022-09-14T09:07:42.032631-04:00.jpg"
-     alt="Page Six at 2022-09-14 09:07:43-04:00 local time"
+ <a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-22T10:07:47.189487-04:00.jpg">
+  <img src="https://archive.org/download/pagesix-2022/pagesix-2022-09-22T10:07:47.189487-04:00.jpg"
+     alt="Page Six at 2022-09-22 10:07:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-14T09:07:42.032631-04:00.jpg">September 14 at 9:07 AM</a></p>
+ <p><a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-22T10:07:47.189487-04:00.jpg">September 22 at 10:07 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-13T21:23:07.993813-04:00.jpg">
-  <img src="https://archive.org/download/pagesix-2022/pagesix-2022-09-13T21:23:07.993813-04:00.jpg"
-     alt="Page Six at 2022-09-13 21:23:10-04:00 local time"
+ <a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-21T22:17:25.415256-04:00.jpg">
+  <img src="https://archive.org/download/pagesix-2022/pagesix-2022-09-21T22:17:25.415256-04:00.jpg"
+     alt="Page Six at 2022-09-21 22:17:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-13T21:23:07.993813-04:00.jpg">September 13 at 9:23 PM</a></p>
+ <p><a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-21T22:17:25.415256-04:00.jpg">September 21 at 10:17 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 34 hyperlink lists with the Internet Archive.
+The archiving routine has saved 50 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 8:58 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-19T08:58:34.639989-04:00.hyperlinks.json) |
-| [September 18 at 9:14 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-18T21:14:46.648521-04:00.hyperlinks.json) |
-| [September 18 at 8:59 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-18T08:59:28.518226-04:00.hyperlinks.json) |
-| [September 17 at 9:20 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-17T21:20:02.973541-04:00.hyperlinks.json) |
-| [September 17 at 9:00 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-17T09:00:05.497594-04:00.hyperlinks.json) |
-| [September 16 at 9:13 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-16T21:13:19.713801-04:00.hyperlinks.json) |
-| [September 16 at 9:00 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-16T09:00:16.920267-04:00.hyperlinks.json) |
-| [September 15 at 9:16 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-15T21:15:51.968972-04:00.hyperlinks.json) |
-| [September 15 at 9:03 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-15T09:03:11.541056-04:00.hyperlinks.json) |
-| [September 14 at 9:19 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-14T21:19:34.335558-04:00.hyperlinks.json) |
+| [September 27 at 10:08 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-27T10:08:38.131786-04:00.hyperlinks.json) |
+| [September 26 at 10:16 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-26T22:16:24.806568-04:00.hyperlinks.json) |
+| [September 26 at 10:05 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-26T10:05:32.406197-04:00.hyperlinks.json) |
+| [September 25 at 10:17 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-25T22:17:22.264480-04:00.hyperlinks.json) |
+| [September 25 at 9:52 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-25T09:52:43.749854-04:00.hyperlinks.json) |
+| [September 24 at 10:12 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-24T22:12:02.813619-04:00.hyperlinks.json) |
+| [September 24 at 9:55 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-24T09:55:41.574615-04:00.hyperlinks.json) |
+| [September 23 at 10:17 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-23T22:17:04.086345-04:00.hyperlinks.json) |
+| [September 23 at 10:04 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-23T10:04:08.549571-04:00.hyperlinks.json) |
+| [September 22 at 10:19 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-22T22:19:45.129853-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 34 accessibility trees with the Internet Archive.
+The archiving routine has saved 50 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 8:58 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-19T08:58:34.639989-04:00.accessibility.json) |
-| [September 18 at 9:14 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-18T21:14:46.648521-04:00.accessibility.json) |
-| [September 18 at 8:59 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-18T08:59:28.518226-04:00.accessibility.json) |
-| [September 17 at 9:20 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-17T21:20:02.973541-04:00.accessibility.json) |
-| [September 17 at 9:00 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-17T09:00:05.497594-04:00.accessibility.json) |
-| [September 16 at 9:13 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-16T21:13:19.713801-04:00.accessibility.json) |
-| [September 16 at 9:00 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-16T09:00:16.920267-04:00.accessibility.json) |
-| [September 15 at 9:15 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-15T21:15:51.968972-04:00.accessibility.json) |
-| [September 15 at 9:03 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-15T09:03:11.541056-04:00.accessibility.json) |
-| [September 14 at 9:19 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-14T21:19:34.335558-04:00.accessibility.json) |
+| [September 27 at 10:08 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-27T10:08:38.131786-04:00.accessibility.json) |
+| [September 26 at 10:16 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-26T22:16:24.806568-04:00.accessibility.json) |
+| [September 26 at 10:05 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-26T10:05:32.406197-04:00.accessibility.json) |
+| [September 25 at 10:17 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-25T22:17:22.264480-04:00.accessibility.json) |
+| [September 25 at 9:52 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-25T09:52:43.749854-04:00.accessibility.json) |
+| [September 24 at 10:12 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-24T22:12:02.813619-04:00.accessibility.json) |
+| [September 24 at 9:55 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-24T09:55:41.574615-04:00.accessibility.json) |
+| [September 23 at 10:17 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-23T22:17:04.086345-04:00.accessibility.json) |
+| [September 23 at 10:04 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-23T10:04:08.549571-04:00.accessibility.json) |
+| [September 22 at 10:19 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-22T22:19:45.129853-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 8:58 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-19T08:58:34.639989-04:00.lighthouse.json) |
-| [September 18 at 9:14 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-18T21:14:46.648521-04:00.lighthouse.json) |
-| [September 18 at 8:59 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-18T08:59:28.518226-04:00.lighthouse.json) |
-| [September 17 at 9:20 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-17T21:20:02.973541-04:00.lighthouse.json) |
-| [September 17 at 9:00 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-17T09:00:05.497594-04:00.lighthouse.json) |
-| [September 16 at 9:13 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-16T21:13:19.713801-04:00.lighthouse.json) |
-| [September 16 at 9:00 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-16T09:00:16.920267-04:00.lighthouse.json) |
-| [September 15 at 9:16 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-15T21:15:51.968972-04:00.lighthouse.json) |
-| [September 15 at 9:03 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-15T09:03:11.541056-04:00.lighthouse.json) |
-| [September 14 at 9:19 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-14T21:19:34.335558-04:00.lighthouse.json) |
+| [September 27 at 10:08 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-27T10:08:38.131786-04:00.lighthouse.json) |
+| [September 26 at 10:16 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-26T22:16:24.806568-04:00.lighthouse.json) |
+| [September 26 at 10:05 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-26T10:05:32.406197-04:00.lighthouse.json) |
+| [September 25 at 10:17 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-25T22:17:22.264480-04:00.lighthouse.json) |
+| [September 25 at 9:52 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-25T09:52:43.749854-04:00.lighthouse.json) |
+| [September 24 at 10:12 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-24T22:12:02.813619-04:00.lighthouse.json) |
+| [September 24 at 9:55 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-24T09:55:41.574615-04:00.lighthouse.json) |
+| [September 23 at 10:17 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-23T22:17:04.086345-04:00.lighthouse.json) |
+| [September 23 at 10:04 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-23T10:04:08.549571-04:00.lighthouse.json) |
+| [September 22 at 10:19 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-22T22:19:45.129853-04:00.lighthouse.json) |
 
 
 

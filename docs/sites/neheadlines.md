@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 100 screenshots with the Internet Archive.
+The archiving routine has saved 116 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-19T07:56:13.472110-05:00.jpg">
-  <img src="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-19T07:56:13.472110-05:00.jpg"
-     alt="Hardin News-Enterprise at 2022-09-19 07:56:15-05:00 local time"
+ <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-27T09:06:59.278047-05:00.jpg">
+  <img src="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-27T09:06:59.278047-05:00.jpg"
+     alt="Hardin News-Enterprise at 2022-09-27 09:07:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-19T07:56:13.472110-05:00.jpg">September 19 at 7:56 AM</a></p>
+ <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-27T09:06:59.278047-05:00.jpg">September 27 at 9:07 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-18T20:12:38.114101-05:00.jpg">
-  <img src="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-18T20:12:38.114101-05:00.jpg"
-     alt="Hardin News-Enterprise at 2022-09-18 20:12:39-05:00 local time"
+ <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-26T21:14:01.161039-05:00.jpg">
+  <img src="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-26T21:14:01.161039-05:00.jpg"
+     alt="Hardin News-Enterprise at 2022-09-26 21:14:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-18T20:12:38.114101-05:00.jpg">September 18 at 8:12 PM</a></p>
+ <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-26T21:14:01.161039-05:00.jpg">September 26 at 9:14 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-18T07:58:14.889235-05:00.jpg">
-  <img src="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-18T07:58:14.889235-05:00.jpg"
-     alt="Hardin News-Enterprise at 2022-09-18 07:58:16-05:00 local time"
+ <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-26T09:03:05.478845-05:00.jpg">
+  <img src="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-26T09:03:05.478845-05:00.jpg"
+     alt="Hardin News-Enterprise at 2022-09-26 09:03:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-18T07:58:14.889235-05:00.jpg">September 18 at 7:58 AM</a></p>
+ <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-26T09:03:05.478845-05:00.jpg">September 26 at 9:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-17T20:17:36.927359-05:00.jpg">
-  <img src="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-17T20:17:36.927359-05:00.jpg"
-     alt="Hardin News-Enterprise at 2022-09-17 20:17:38-05:00 local time"
+ <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-25T21:15:08.274079-05:00.jpg">
+  <img src="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-25T21:15:08.274079-05:00.jpg"
+     alt="Hardin News-Enterprise at 2022-09-25 21:15:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-17T20:17:36.927359-05:00.jpg">September 17 at 8:17 PM</a></p>
+ <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-25T21:15:08.274079-05:00.jpg">September 25 at 9:15 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-17T07:58:31.481087-05:00.jpg">
-  <img src="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-17T07:58:31.481087-05:00.jpg"
-     alt="Hardin News-Enterprise at 2022-09-17 07:58:35-05:00 local time"
+ <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-25T08:51:29.842379-05:00.jpg">
+  <img src="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-25T08:51:29.842379-05:00.jpg"
+     alt="Hardin News-Enterprise at 2022-09-25 08:51:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-17T07:58:31.481087-05:00.jpg">September 17 at 7:58 AM</a></p>
+ <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-25T08:51:29.842379-05:00.jpg">September 25 at 8:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-16T20:11:23.474212-05:00.jpg">
-  <img src="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-16T20:11:23.474212-05:00.jpg"
-     alt="Hardin News-Enterprise at 2022-09-16 20:11:25-05:00 local time"
+ <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-24T21:10:15.440077-05:00.jpg">
+  <img src="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-24T21:10:15.440077-05:00.jpg"
+     alt="Hardin News-Enterprise at 2022-09-24 21:10:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-16T20:11:23.474212-05:00.jpg">September 16 at 8:11 PM</a></p>
+ <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-24T21:10:15.440077-05:00.jpg">September 24 at 9:10 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-16T07:58:20.029245-05:00.jpg">
-  <img src="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-16T07:58:20.029245-05:00.jpg"
-     alt="Hardin News-Enterprise at 2022-09-16 07:58:22-05:00 local time"
+ <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-24T08:53:35.864177-05:00.jpg">
+  <img src="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-24T08:53:35.864177-05:00.jpg"
+     alt="Hardin News-Enterprise at 2022-09-24 08:53:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-16T07:58:20.029245-05:00.jpg">September 16 at 7:58 AM</a></p>
+ <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-24T08:53:35.864177-05:00.jpg">September 24 at 8:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-15T20:13:43.146140-05:00.jpg">
-  <img src="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-15T20:13:43.146140-05:00.jpg"
-     alt="Hardin News-Enterprise at 2022-09-15 20:13:56-05:00 local time"
+ <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-23T21:15:17.882773-05:00.jpg">
+  <img src="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-23T21:15:17.882773-05:00.jpg"
+     alt="Hardin News-Enterprise at 2022-09-23 21:15:22-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-15T20:13:43.146140-05:00.jpg">September 15 at 8:13 PM</a></p>
+ <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-23T21:15:17.882773-05:00.jpg">September 23 at 9:15 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-15T08:01:21.922218-05:00.jpg">
-  <img src="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-15T08:01:21.922218-05:00.jpg"
-     alt="Hardin News-Enterprise at 2022-09-15 08:01:27-05:00 local time"
+ <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-23T09:01:59.295164-05:00.jpg">
+  <img src="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-23T09:01:59.295164-05:00.jpg"
+     alt="Hardin News-Enterprise at 2022-09-23 09:02:04-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-15T08:01:21.922218-05:00.jpg">September 15 at 8:01 AM</a></p>
+ <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-23T09:01:59.295164-05:00.jpg">September 23 at 9:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-14T20:17:15.578514-05:00.jpg">
-  <img src="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-14T20:17:15.578514-05:00.jpg"
-     alt="Hardin News-Enterprise at 2022-09-14 20:17:17-05:00 local time"
+ <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-22T21:18:40.466088-05:00.jpg">
+  <img src="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-22T21:18:40.466088-05:00.jpg"
+     alt="Hardin News-Enterprise at 2022-09-22 21:18:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-14T20:17:15.578514-05:00.jpg">September 14 at 8:17 PM</a></p>
+ <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-22T21:18:40.466088-05:00.jpg">September 22 at 9:18 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-14T08:05:58.627269-05:00.jpg">
-  <img src="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-14T08:05:58.627269-05:00.jpg"
-     alt="Hardin News-Enterprise at 2022-09-14 08:06:00-05:00 local time"
+ <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-22T09:04:58.688876-05:00.jpg">
+  <img src="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-22T09:04:58.688876-05:00.jpg"
+     alt="Hardin News-Enterprise at 2022-09-22 09:05:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-14T08:05:58.627269-05:00.jpg">September 14 at 8:06 AM</a></p>
+ <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-22T09:04:58.688876-05:00.jpg">September 22 at 9:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-13T20:20:11.596709-05:00.jpg">
-  <img src="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-13T20:20:11.596709-05:00.jpg"
-     alt="Hardin News-Enterprise at 2022-09-13 20:20:13-05:00 local time"
+ <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-21T21:15:19.979155-05:00.jpg">
+  <img src="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-21T21:15:19.979155-05:00.jpg"
+     alt="Hardin News-Enterprise at 2022-09-21 21:15:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-13T20:20:11.596709-05:00.jpg">September 13 at 8:20 PM</a></p>
+ <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-09-21T21:15:19.979155-05:00.jpg">September 21 at 9:15 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 99 hyperlink lists with the Internet Archive.
+The archiving routine has saved 115 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 7:56 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-19T07:56:13.472110-05:00.hyperlinks.json) |
-| [September 18 at 8:12 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-18T20:12:38.114101-05:00.hyperlinks.json) |
-| [September 18 at 7:58 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-18T07:58:14.889235-05:00.hyperlinks.json) |
-| [September 17 at 8:17 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-17T20:17:36.927359-05:00.hyperlinks.json) |
-| [September 17 at 7:58 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-17T07:58:31.481087-05:00.hyperlinks.json) |
-| [September 16 at 8:11 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-16T20:11:23.474212-05:00.hyperlinks.json) |
-| [September 16 at 7:58 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-16T07:58:20.029245-05:00.hyperlinks.json) |
-| [September 15 at 8:14 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-15T20:13:43.146140-05:00.hyperlinks.json) |
-| [September 15 at 8:01 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-15T08:01:21.922218-05:00.hyperlinks.json) |
-| [September 14 at 8:17 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-14T20:17:15.578514-05:00.hyperlinks.json) |
+| [September 27 at 9:07 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-27T09:06:59.278047-05:00.hyperlinks.json) |
+| [September 26 at 9:14 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-26T21:14:01.161039-05:00.hyperlinks.json) |
+| [September 26 at 9:03 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-26T09:03:05.478845-05:00.hyperlinks.json) |
+| [September 25 at 9:15 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-25T21:15:08.274079-05:00.hyperlinks.json) |
+| [September 25 at 8:51 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-25T08:51:29.842379-05:00.hyperlinks.json) |
+| [September 24 at 9:10 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-24T21:10:15.440077-05:00.hyperlinks.json) |
+| [September 24 at 8:53 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-24T08:53:35.864177-05:00.hyperlinks.json) |
+| [September 23 at 9:15 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-23T21:15:17.882773-05:00.hyperlinks.json) |
+| [September 23 at 9:02 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-23T09:01:59.295164-05:00.hyperlinks.json) |
+| [September 22 at 9:18 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-22T21:18:40.466088-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 100 accessibility trees with the Internet Archive.
+The archiving routine has saved 116 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 7:56 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-19T07:56:13.472110-05:00.accessibility.json) |
-| [September 18 at 8:12 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-18T20:12:38.114101-05:00.accessibility.json) |
-| [September 18 at 7:58 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-18T07:58:14.889235-05:00.accessibility.json) |
-| [September 17 at 8:17 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-17T20:17:36.927359-05:00.accessibility.json) |
-| [September 17 at 7:58 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-17T07:58:31.481087-05:00.accessibility.json) |
-| [September 16 at 8:11 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-16T20:11:23.474212-05:00.accessibility.json) |
-| [September 16 at 7:58 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-16T07:58:20.029245-05:00.accessibility.json) |
-| [September 15 at 8:13 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-15T20:13:43.146140-05:00.accessibility.json) |
-| [September 15 at 8:01 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-15T08:01:21.922218-05:00.accessibility.json) |
-| [September 14 at 8:17 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-14T20:17:15.578514-05:00.accessibility.json) |
+| [September 27 at 9:07 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-27T09:06:59.278047-05:00.accessibility.json) |
+| [September 26 at 9:14 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-26T21:14:01.161039-05:00.accessibility.json) |
+| [September 26 at 9:03 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-26T09:03:05.478845-05:00.accessibility.json) |
+| [September 25 at 9:15 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-25T21:15:08.274079-05:00.accessibility.json) |
+| [September 25 at 8:51 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-25T08:51:29.842379-05:00.accessibility.json) |
+| [September 24 at 9:10 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-24T21:10:15.440077-05:00.accessibility.json) |
+| [September 24 at 8:53 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-24T08:53:35.864177-05:00.accessibility.json) |
+| [September 23 at 9:15 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-23T21:15:17.882773-05:00.accessibility.json) |
+| [September 23 at 9:02 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-23T09:01:59.295164-05:00.accessibility.json) |
+| [September 22 at 9:18 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-22T21:18:40.466088-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 100 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 116 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 7:56 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-19T07:56:13.472110-05:00.lighthouse.json) |
-| [September 18 at 8:12 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-18T20:12:38.114101-05:00.lighthouse.json) |
-| [September 18 at 7:58 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-18T07:58:14.889235-05:00.lighthouse.json) |
-| [September 17 at 8:17 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-17T20:17:36.927359-05:00.lighthouse.json) |
-| [September 17 at 7:58 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-17T07:58:31.481087-05:00.lighthouse.json) |
-| [September 16 at 8:11 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-16T20:11:23.474212-05:00.lighthouse.json) |
-| [September 16 at 7:58 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-16T07:58:20.029245-05:00.lighthouse.json) |
-| [September 15 at 8:14 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-15T20:13:43.146140-05:00.lighthouse.json) |
-| [September 15 at 8:01 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-15T08:01:21.922218-05:00.lighthouse.json) |
-| [September 14 at 8:17 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-14T20:17:15.578514-05:00.lighthouse.json) |
+| [September 27 at 9:07 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-27T09:06:59.278047-05:00.lighthouse.json) |
+| [September 26 at 9:14 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-26T21:14:01.161039-05:00.lighthouse.json) |
+| [September 26 at 9:03 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-26T09:03:05.478845-05:00.lighthouse.json) |
+| [September 25 at 9:15 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-25T21:15:08.274079-05:00.lighthouse.json) |
+| [September 25 at 8:51 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-25T08:51:29.842379-05:00.lighthouse.json) |
+| [September 24 at 9:10 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-24T21:10:15.440077-05:00.lighthouse.json) |
+| [September 24 at 8:53 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-24T08:53:35.864177-05:00.lighthouse.json) |
+| [September 23 at 9:15 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-23T21:15:17.882773-05:00.lighthouse.json) |
+| [September 23 at 9:02 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-23T09:01:59.295164-05:00.lighthouse.json) |
+| [September 22 at 9:18 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-09-22T21:18:40.466088-05:00.lighthouse.json) |
 
 
 

@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 302 screenshots with the Internet Archive.
+The archiving routine has saved 318 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-19T07:58:17.257336-05:00.jpg">
-  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-19T07:58:17.257336-05:00.jpg"
-     alt="Twin Cities Pioneer Press at 2022-09-19 07:58:35-05:00 local time"
+ <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-27T09:09:14.816982-05:00.jpg">
+  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-27T09:09:14.816982-05:00.jpg"
+     alt="Twin Cities Pioneer Press at 2022-09-27 09:09:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-19T07:58:17.257336-05:00.jpg">September 19 at 7:58 AM</a></p>
+ <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-27T09:09:14.816982-05:00.jpg">September 27 at 9:09 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-18T20:14:43.236880-05:00.jpg">
-  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-18T20:14:43.236880-05:00.jpg"
-     alt="Twin Cities Pioneer Press at 2022-09-18 20:14:51-05:00 local time"
+ <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-26T21:15:47.544456-05:00.jpg">
+  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-26T21:15:47.544456-05:00.jpg"
+     alt="Twin Cities Pioneer Press at 2022-09-26 21:15:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-18T20:14:43.236880-05:00.jpg">September 18 at 8:14 PM</a></p>
+ <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-26T21:15:47.544456-05:00.jpg">September 26 at 9:15 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-18T07:59:41.677416-05:00.jpg">
-  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-18T07:59:41.677416-05:00.jpg"
-     alt="Twin Cities Pioneer Press at 2022-09-18 07:59:50-05:00 local time"
+ <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-26T09:06:22.754688-05:00.jpg">
+  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-26T09:06:22.754688-05:00.jpg"
+     alt="Twin Cities Pioneer Press at 2022-09-26 09:06:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-18T07:59:41.677416-05:00.jpg">September 18 at 7:59 AM</a></p>
+ <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-26T09:06:22.754688-05:00.jpg">September 26 at 9:06 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-17T20:21:34.460538-05:00.jpg">
-  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-17T20:21:34.460538-05:00.jpg"
-     alt="Twin Cities Pioneer Press at 2022-09-17 20:21:36-05:00 local time"
+ <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-25T21:17:52.825768-05:00.jpg">
+  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-25T21:17:52.825768-05:00.jpg"
+     alt="Twin Cities Pioneer Press at 2022-09-25 21:18:09-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-17T20:21:34.460538-05:00.jpg">September 17 at 8:21 PM</a></p>
+ <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-25T21:17:52.825768-05:00.jpg">September 25 at 9:18 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-17T08:00:38.157793-05:00.jpg">
-  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-17T08:00:38.157793-05:00.jpg"
-     alt="Twin Cities Pioneer Press at 2022-09-17 08:00:40-05:00 local time"
+ <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-25T08:53:00.297004-05:00.jpg">
+  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-25T08:53:00.297004-05:00.jpg"
+     alt="Twin Cities Pioneer Press at 2022-09-25 08:53:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-17T08:00:38.157793-05:00.jpg">September 17 at 8:00 AM</a></p>
+ <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-25T08:53:00.297004-05:00.jpg">September 25 at 8:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-16T20:13:37.912145-05:00.jpg">
-  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-16T20:13:37.912145-05:00.jpg"
-     alt="Twin Cities Pioneer Press at 2022-09-16 20:13:43-05:00 local time"
+ <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-24T21:12:01.364347-05:00.jpg">
+  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-24T21:12:01.364347-05:00.jpg"
+     alt="Twin Cities Pioneer Press at 2022-09-24 21:12:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-16T20:13:37.912145-05:00.jpg">September 16 at 8:13 PM</a></p>
+ <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-24T21:12:01.364347-05:00.jpg">September 24 at 9:12 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-16T08:00:21.717652-05:00.jpg">
-  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-16T08:00:21.717652-05:00.jpg"
-     alt="Twin Cities Pioneer Press at 2022-09-16 08:00:50-05:00 local time"
+ <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-24T08:55:22.968728-05:00.jpg">
+  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-24T08:55:22.968728-05:00.jpg"
+     alt="Twin Cities Pioneer Press at 2022-09-24 08:55:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-16T08:00:21.717652-05:00.jpg">September 16 at 8:00 AM</a></p>
+ <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-24T08:55:22.968728-05:00.jpg">September 24 at 8:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-15T20:16:47.248112-05:00.jpg">
-  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-15T20:16:47.248112-05:00.jpg"
-     alt="Twin Cities Pioneer Press at 2022-09-15 20:16:55-05:00 local time"
+ <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-23T21:16:55.600870-05:00.jpg">
+  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-23T21:16:55.600870-05:00.jpg"
+     alt="Twin Cities Pioneer Press at 2022-09-23 21:17:04-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-15T20:16:47.248112-05:00.jpg">September 15 at 8:16 PM</a></p>
+ <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-23T21:16:55.600870-05:00.jpg">September 23 at 9:17 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-15T08:03:37.293510-05:00.jpg">
-  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-15T08:03:37.293510-05:00.jpg"
-     alt="Twin Cities Pioneer Press at 2022-09-15 08:03:46-05:00 local time"
+ <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-23T09:04:17.396403-05:00.jpg">
+  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-23T09:04:17.396403-05:00.jpg"
+     alt="Twin Cities Pioneer Press at 2022-09-23 09:04:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-15T08:03:37.293510-05:00.jpg">September 15 at 8:03 AM</a></p>
+ <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-23T09:04:17.396403-05:00.jpg">September 23 at 9:04 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-14T20:19:34.045404-05:00.jpg">
-  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-14T20:19:34.045404-05:00.jpg"
-     alt="Twin Cities Pioneer Press at 2022-09-14 20:19:42-05:00 local time"
+ <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-22T21:19:49.280148-05:00.jpg">
+  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-22T21:19:49.280148-05:00.jpg"
+     alt="Twin Cities Pioneer Press at 2022-09-22 21:19:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-14T20:19:34.045404-05:00.jpg">September 14 at 8:19 PM</a></p>
+ <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-22T21:19:49.280148-05:00.jpg">September 22 at 9:19 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-14T08:07:29.005437-05:00.jpg">
-  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-14T08:07:29.005437-05:00.jpg"
-     alt="Twin Cities Pioneer Press at 2022-09-14 08:07:31-05:00 local time"
+ <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-22T09:07:31.712080-05:00.jpg">
+  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-22T09:07:31.712080-05:00.jpg"
+     alt="Twin Cities Pioneer Press at 2022-09-22 09:07:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-14T08:07:29.005437-05:00.jpg">September 14 at 8:07 AM</a></p>
+ <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-22T09:07:31.712080-05:00.jpg">September 22 at 9:07 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-13T20:24:13.843355-05:00.jpg">
-  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-13T20:24:13.843355-05:00.jpg"
-     alt="Twin Cities Pioneer Press at 2022-09-13 20:24:24-05:00 local time"
+ <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-21T21:17:07.150590-05:00.jpg">
+  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-21T21:17:07.150590-05:00.jpg"
+     alt="Twin Cities Pioneer Press at 2022-09-21 21:17:15-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-13T20:24:13.843355-05:00.jpg">September 13 at 8:24 PM</a></p>
+ <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-21T21:17:07.150590-05:00.jpg">September 21 at 9:17 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 301 hyperlink lists with the Internet Archive.
+The archiving routine has saved 317 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 7:58 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-19T07:58:17.257336-05:00.hyperlinks.json) |
-| [September 18 at 8:14 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-18T20:14:43.236880-05:00.hyperlinks.json) |
-| [September 18 at 7:59 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-18T07:59:41.677416-05:00.hyperlinks.json) |
-| [September 17 at 8:21 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-17T20:21:34.460538-05:00.hyperlinks.json) |
-| [September 17 at 8:00 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-17T08:00:38.157793-05:00.hyperlinks.json) |
-| [September 16 at 8:13 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-16T20:13:37.912145-05:00.hyperlinks.json) |
-| [September 16 at 8:00 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-16T08:00:21.717652-05:00.hyperlinks.json) |
-| [September 15 at 8:17 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-15T20:16:47.248112-05:00.hyperlinks.json) |
-| [September 15 at 8:03 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-15T08:03:37.293510-05:00.hyperlinks.json) |
-| [September 14 at 8:19 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-14T20:19:34.045404-05:00.hyperlinks.json) |
+| [September 27 at 9:09 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-27T09:09:14.816982-05:00.hyperlinks.json) |
+| [September 26 at 9:15 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-26T21:15:47.544456-05:00.hyperlinks.json) |
+| [September 26 at 9:06 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-26T09:06:22.754688-05:00.hyperlinks.json) |
+| [September 25 at 9:18 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-25T21:17:52.825768-05:00.hyperlinks.json) |
+| [September 25 at 8:53 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-25T08:53:00.297004-05:00.hyperlinks.json) |
+| [September 24 at 9:12 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-24T21:12:01.364347-05:00.hyperlinks.json) |
+| [September 24 at 8:55 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-24T08:55:22.968728-05:00.hyperlinks.json) |
+| [September 23 at 9:17 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-23T21:16:55.600870-05:00.hyperlinks.json) |
+| [September 23 at 9:04 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-23T09:04:17.396403-05:00.hyperlinks.json) |
+| [September 22 at 9:19 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-22T21:19:49.280148-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 300 accessibility trees with the Internet Archive.
+The archiving routine has saved 316 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 7:58 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-19T07:58:17.257336-05:00.accessibility.json) |
-| [September 18 at 8:14 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-18T20:14:43.236880-05:00.accessibility.json) |
-| [September 18 at 7:59 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-18T07:59:41.677416-05:00.accessibility.json) |
-| [September 17 at 8:21 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-17T20:21:34.460538-05:00.accessibility.json) |
-| [September 17 at 8:00 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-17T08:00:38.157793-05:00.accessibility.json) |
-| [September 16 at 8:13 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-16T20:13:37.912145-05:00.accessibility.json) |
-| [September 16 at 8:00 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-16T08:00:21.717652-05:00.accessibility.json) |
-| [September 15 at 8:16 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-15T20:16:47.248112-05:00.accessibility.json) |
-| [September 15 at 8:03 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-15T08:03:37.293510-05:00.accessibility.json) |
-| [September 14 at 8:19 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-14T20:19:34.045404-05:00.accessibility.json) |
+| [September 27 at 9:09 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-27T09:09:14.816982-05:00.accessibility.json) |
+| [September 26 at 9:15 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-26T21:15:47.544456-05:00.accessibility.json) |
+| [September 26 at 9:06 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-26T09:06:22.754688-05:00.accessibility.json) |
+| [September 25 at 9:18 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-25T21:17:52.825768-05:00.accessibility.json) |
+| [September 25 at 8:53 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-25T08:53:00.297004-05:00.accessibility.json) |
+| [September 24 at 9:12 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-24T21:12:01.364347-05:00.accessibility.json) |
+| [September 24 at 8:55 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-24T08:55:22.968728-05:00.accessibility.json) |
+| [September 23 at 9:17 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-23T21:16:55.600870-05:00.accessibility.json) |
+| [September 23 at 9:04 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-23T09:04:17.396403-05:00.accessibility.json) |
+| [September 22 at 9:19 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-22T21:19:49.280148-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 116 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 7:58 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-19T07:58:17.257336-05:00.lighthouse.json) |
-| [September 18 at 8:14 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-18T20:14:43.236880-05:00.lighthouse.json) |
-| [September 18 at 7:59 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-18T07:59:41.677416-05:00.lighthouse.json) |
-| [September 17 at 8:21 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-17T20:21:34.460538-05:00.lighthouse.json) |
-| [September 17 at 8:00 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-17T08:00:38.157793-05:00.lighthouse.json) |
-| [September 16 at 8:13 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-16T20:13:37.912145-05:00.lighthouse.json) |
-| [September 16 at 8:00 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-16T08:00:21.717652-05:00.lighthouse.json) |
-| [September 15 at 8:17 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-15T20:16:47.248112-05:00.lighthouse.json) |
-| [September 15 at 8:03 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-15T08:03:37.293510-05:00.lighthouse.json) |
-| [September 14 at 8:19 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-14T20:19:34.045404-05:00.lighthouse.json) |
+| [September 27 at 9:09 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-27T09:09:14.816982-05:00.lighthouse.json) |
+| [September 26 at 9:15 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-26T21:15:47.544456-05:00.lighthouse.json) |
+| [September 26 at 9:06 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-26T09:06:22.754688-05:00.lighthouse.json) |
+| [September 25 at 9:18 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-25T21:17:52.825768-05:00.lighthouse.json) |
+| [September 25 at 8:53 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-25T08:53:00.297004-05:00.lighthouse.json) |
+| [September 24 at 9:12 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-24T21:12:01.364347-05:00.lighthouse.json) |
+| [September 24 at 8:55 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-24T08:55:22.968728-05:00.lighthouse.json) |
+| [September 23 at 9:17 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-23T21:16:55.600870-05:00.lighthouse.json) |
+| [September 23 at 9:04 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-23T09:04:17.396403-05:00.lighthouse.json) |
+| [September 22 at 9:19 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-09-22T21:19:49.280148-05:00.lighthouse.json) |
 
 
 

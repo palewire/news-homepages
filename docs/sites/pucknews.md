@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 219 screenshots with the Internet Archive.
+The archiving routine has saved 235 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-19T08:58:10.110247-04:00.jpg">
-  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-09-19T08:58:10.110247-04:00.jpg"
-     alt="Puck at 2022-09-19 08:58:12-04:00 local time"
+ <a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-27T10:09:10.771211-04:00.jpg">
+  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-09-27T10:09:10.771211-04:00.jpg"
+     alt="Puck at 2022-09-27 10:09:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-19T08:58:10.110247-04:00.jpg">September 19 at 8:58 AM</a></p>
+ <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-27T10:09:10.771211-04:00.jpg">September 27 at 10:09 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-18T21:14:24.976248-04:00.jpg">
-  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-09-18T21:14:24.976248-04:00.jpg"
-     alt="Puck at 2022-09-18 21:14:32-04:00 local time"
+ <a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-26T22:16:41.222499-04:00.jpg">
+  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-09-26T22:16:41.222499-04:00.jpg"
+     alt="Puck at 2022-09-26 22:16:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-18T21:14:24.976248-04:00.jpg">September 18 at 9:14 PM</a></p>
+ <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-26T22:16:41.222499-04:00.jpg">September 26 at 10:16 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-18T09:01:34.226456-04:00.jpg">
-  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-09-18T09:01:34.226456-04:00.jpg"
-     alt="Puck at 2022-09-18 09:01:36-04:00 local time"
+ <a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-26T10:05:28.104037-04:00.jpg">
+  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-09-26T10:05:28.104037-04:00.jpg"
+     alt="Puck at 2022-09-26 10:05:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-18T09:01:34.226456-04:00.jpg">September 18 at 9:01 AM</a></p>
+ <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-26T10:05:28.104037-04:00.jpg">September 26 at 10:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-17T21:22:06.963993-04:00.jpg">
-  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-09-17T21:22:06.963993-04:00.jpg"
-     alt="Puck at 2022-09-17 21:22:15-04:00 local time"
+ <a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-25T22:18:07.111978-04:00.jpg">
+  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-09-25T22:18:07.111978-04:00.jpg"
+     alt="Puck at 2022-09-25 22:18:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-17T21:22:06.963993-04:00.jpg">September 17 at 9:22 PM</a></p>
+ <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-25T22:18:07.111978-04:00.jpg">September 25 at 10:18 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-17T09:02:21.239254-04:00.jpg">
-  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-09-17T09:02:21.239254-04:00.jpg"
-     alt="Puck at 2022-09-17 09:02:27-04:00 local time"
+ <a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-25T09:52:37.789636-04:00.jpg">
+  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-09-25T09:52:37.789636-04:00.jpg"
+     alt="Puck at 2022-09-25 09:52:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-17T09:02:21.239254-04:00.jpg">September 17 at 9:02 AM</a></p>
+ <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-25T09:52:37.789636-04:00.jpg">September 25 at 9:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-16T21:15:22.171628-04:00.jpg">
-  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-09-16T21:15:22.171628-04:00.jpg"
-     alt="Puck at 2022-09-16 21:15:28-04:00 local time"
+ <a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-24T22:13:55.312074-04:00.jpg">
+  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-09-24T22:13:55.312074-04:00.jpg"
+     alt="Puck at 2022-09-24 22:13:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-16T21:15:22.171628-04:00.jpg">September 16 at 9:15 PM</a></p>
+ <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-24T22:13:55.312074-04:00.jpg">September 24 at 10:13 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-16T09:02:17.549180-04:00.jpg">
-  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-09-16T09:02:17.549180-04:00.jpg"
-     alt="Puck at 2022-09-16 09:02:35-04:00 local time"
+ <a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-24T09:55:33.771648-04:00.jpg">
+  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-09-24T09:55:33.771648-04:00.jpg"
+     alt="Puck at 2022-09-24 09:55:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-16T09:02:17.549180-04:00.jpg">September 16 at 9:02 AM</a></p>
+ <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-24T09:55:33.771648-04:00.jpg">September 24 at 9:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-15T21:18:09.363726-04:00.jpg">
-  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-09-15T21:18:09.363726-04:00.jpg"
-     alt="Puck at 2022-09-15 21:18:11-04:00 local time"
+ <a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-23T22:17:39.122484-04:00.jpg">
+  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-09-23T22:17:39.122484-04:00.jpg"
+     alt="Puck at 2022-09-23 22:17:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-15T21:18:09.363726-04:00.jpg">September 15 at 9:18 PM</a></p>
+ <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-23T22:17:39.122484-04:00.jpg">September 23 at 10:17 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-15T09:04:46.869652-04:00.jpg">
-  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-09-15T09:04:46.869652-04:00.jpg"
-     alt="Puck at 2022-09-15 09:04:49-04:00 local time"
+ <a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-23T10:04:24.404232-04:00.jpg">
+  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-09-23T10:04:24.404232-04:00.jpg"
+     alt="Puck at 2022-09-23 10:04:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-15T09:04:46.869652-04:00.jpg">September 15 at 9:04 AM</a></p>
+ <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-23T10:04:24.404232-04:00.jpg">September 23 at 10:04 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-14T21:21:49.743561-04:00.jpg">
-  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-09-14T21:21:49.743561-04:00.jpg"
-     alt="Puck at 2022-09-14 21:21:51-04:00 local time"
+ <a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-22T22:19:58.392406-04:00.jpg">
+  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-09-22T22:19:58.392406-04:00.jpg"
+     alt="Puck at 2022-09-22 22:20:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-14T21:21:49.743561-04:00.jpg">September 14 at 9:21 PM</a></p>
+ <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-22T22:19:58.392406-04:00.jpg">September 22 at 10:20 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-14T09:09:58.408974-04:00.jpg">
-  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-09-14T09:09:58.408974-04:00.jpg"
-     alt="Puck at 2022-09-14 09:10:00-04:00 local time"
+ <a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-22T10:07:07.228707-04:00.jpg">
+  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-09-22T10:07:07.228707-04:00.jpg"
+     alt="Puck at 2022-09-22 10:07:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-14T09:09:58.408974-04:00.jpg">September 14 at 9:10 AM</a></p>
+ <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-22T10:07:07.228707-04:00.jpg">September 22 at 10:07 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-13T21:24:42.495954-04:00.jpg">
-  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-09-13T21:24:42.495954-04:00.jpg"
-     alt="Puck at 2022-09-13 21:24:44-04:00 local time"
+ <a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-21T22:18:25.490038-04:00.jpg">
+  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-09-21T22:18:25.490038-04:00.jpg"
+     alt="Puck at 2022-09-21 22:18:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-13T21:24:42.495954-04:00.jpg">September 13 at 9:24 PM</a></p>
+ <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-09-21T22:18:25.490038-04:00.jpg">September 21 at 10:18 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 219 hyperlink lists with the Internet Archive.
+The archiving routine has saved 235 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 8:58 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-19T08:58:10.110247-04:00.hyperlinks.json) |
-| [September 18 at 9:14 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-18T21:14:24.976248-04:00.hyperlinks.json) |
-| [September 18 at 9:01 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-18T09:01:34.226456-04:00.hyperlinks.json) |
-| [September 17 at 9:22 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-17T21:22:06.963993-04:00.hyperlinks.json) |
-| [September 17 at 9:02 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-17T09:02:21.239254-04:00.hyperlinks.json) |
-| [September 16 at 9:15 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-16T21:15:22.171628-04:00.hyperlinks.json) |
-| [September 16 at 9:02 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-16T09:02:17.549180-04:00.hyperlinks.json) |
-| [September 15 at 9:18 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-15T21:18:09.363726-04:00.hyperlinks.json) |
-| [September 15 at 9:04 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-15T09:04:46.869652-04:00.hyperlinks.json) |
-| [September 14 at 9:21 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-14T21:21:49.743561-04:00.hyperlinks.json) |
+| [September 27 at 10:09 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-27T10:09:10.771211-04:00.hyperlinks.json) |
+| [September 26 at 10:16 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-26T22:16:41.222499-04:00.hyperlinks.json) |
+| [September 26 at 10:05 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-26T10:05:28.104037-04:00.hyperlinks.json) |
+| [September 25 at 10:18 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-25T22:18:07.111978-04:00.hyperlinks.json) |
+| [September 25 at 9:52 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-25T09:52:37.789636-04:00.hyperlinks.json) |
+| [September 24 at 10:13 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-24T22:13:55.312074-04:00.hyperlinks.json) |
+| [September 24 at 9:55 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-24T09:55:33.771648-04:00.hyperlinks.json) |
+| [September 23 at 10:17 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-23T22:17:39.122484-04:00.hyperlinks.json) |
+| [September 23 at 10:04 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-23T10:04:24.404232-04:00.hyperlinks.json) |
+| [September 22 at 10:20 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-22T22:19:58.392406-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 219 accessibility trees with the Internet Archive.
+The archiving routine has saved 235 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 8:58 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-19T08:58:10.110247-04:00.accessibility.json) |
-| [September 18 at 9:14 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-18T21:14:24.976248-04:00.accessibility.json) |
-| [September 18 at 9:01 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-18T09:01:34.226456-04:00.accessibility.json) |
-| [September 17 at 9:22 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-17T21:22:06.963993-04:00.accessibility.json) |
-| [September 17 at 9:02 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-17T09:02:21.239254-04:00.accessibility.json) |
-| [September 16 at 9:15 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-16T21:15:22.171628-04:00.accessibility.json) |
-| [September 16 at 9:02 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-16T09:02:17.549180-04:00.accessibility.json) |
-| [September 15 at 9:18 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-15T21:18:09.363726-04:00.accessibility.json) |
-| [September 15 at 9:04 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-15T09:04:46.869652-04:00.accessibility.json) |
-| [September 14 at 9:21 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-14T21:21:49.743561-04:00.accessibility.json) |
+| [September 27 at 10:09 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-27T10:09:10.771211-04:00.accessibility.json) |
+| [September 26 at 10:16 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-26T22:16:41.222499-04:00.accessibility.json) |
+| [September 26 at 10:05 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-26T10:05:28.104037-04:00.accessibility.json) |
+| [September 25 at 10:18 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-25T22:18:07.111978-04:00.accessibility.json) |
+| [September 25 at 9:52 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-25T09:52:37.789636-04:00.accessibility.json) |
+| [September 24 at 10:13 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-24T22:13:55.312074-04:00.accessibility.json) |
+| [September 24 at 9:55 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-24T09:55:33.771648-04:00.accessibility.json) |
+| [September 23 at 10:17 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-23T22:17:39.122484-04:00.accessibility.json) |
+| [September 23 at 10:04 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-23T10:04:24.404232-04:00.accessibility.json) |
+| [September 22 at 10:20 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-22T22:19:58.392406-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 116 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 8:58 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-19T08:58:10.110247-04:00.lighthouse.json) |
-| [September 18 at 9:14 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-18T21:14:24.976248-04:00.lighthouse.json) |
-| [September 18 at 9:01 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-18T09:01:34.226456-04:00.lighthouse.json) |
-| [September 17 at 9:22 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-17T21:22:06.963993-04:00.lighthouse.json) |
-| [September 17 at 9:02 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-17T09:02:21.239254-04:00.lighthouse.json) |
-| [September 16 at 9:15 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-16T21:15:22.171628-04:00.lighthouse.json) |
-| [September 16 at 9:02 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-16T09:02:17.549180-04:00.lighthouse.json) |
-| [September 15 at 9:18 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-15T21:18:09.363726-04:00.lighthouse.json) |
-| [September 15 at 9:04 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-15T09:04:46.869652-04:00.lighthouse.json) |
-| [September 14 at 9:21 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-14T21:21:49.743561-04:00.lighthouse.json) |
+| [September 27 at 10:09 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-27T10:09:10.771211-04:00.lighthouse.json) |
+| [September 26 at 10:16 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-26T22:16:41.222499-04:00.lighthouse.json) |
+| [September 26 at 10:05 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-26T10:05:28.104037-04:00.lighthouse.json) |
+| [September 25 at 10:18 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-25T22:18:07.111978-04:00.lighthouse.json) |
+| [September 25 at 9:52 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-25T09:52:37.789636-04:00.lighthouse.json) |
+| [September 24 at 10:14 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-24T22:13:55.312074-04:00.lighthouse.json) |
+| [September 24 at 9:55 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-24T09:55:33.771648-04:00.lighthouse.json) |
+| [September 23 at 10:17 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-23T22:17:39.122484-04:00.lighthouse.json) |
+| [September 23 at 10:04 AM](https://archive.org/download/pucknews-2022/pucknews-2022-09-23T10:04:24.404232-04:00.lighthouse.json) |
+| [September 22 at 10:20 PM](https://archive.org/download/pucknews-2022/pucknews-2022-09-22T22:19:58.392406-04:00.lighthouse.json) |
 
 
 

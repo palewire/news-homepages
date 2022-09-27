@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 215 screenshots with the Internet Archive.
+The archiving routine has saved 239 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-19T23:04:06.429746+09:00.jpg">
-  <img src="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-19T23:04:06.429746+09:00.jpg"
-     alt="Sankei Shimbun at 2022-09-19 23:04:13+09:00 local time"
+ <a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-27T23:11:03.370102+09:00.jpg">
+  <img src="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-27T23:11:03.370102+09:00.jpg"
+     alt="Sankei Shimbun at 2022-09-27 23:11:04+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-19T23:04:06.429746+09:00.jpg">September 19 at 11:04 PM</a></p>
+ <p><a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-27T23:11:03.370102+09:00.jpg">September 27 at 11:11 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-19T11:18:18.582289+09:00.jpg">
-  <img src="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-19T11:18:18.582289+09:00.jpg"
-     alt="Sankei Shimbun at 2022-09-19 11:18:21+09:00 local time"
+ <a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-27T11:17:37.999709+09:00.jpg">
+  <img src="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-27T11:17:37.999709+09:00.jpg"
+     alt="Sankei Shimbun at 2022-09-27 11:17:40+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-19T11:18:18.582289+09:00.jpg">September 19 at 11:18 AM</a></p>
+ <p><a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-27T11:17:37.999709+09:00.jpg">September 27 at 11:17 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-19T11:15:41.229279+09:00.jpg">
-  <img src="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-19T11:15:41.229279+09:00.jpg"
-     alt="Sankei Shimbun at 2022-09-19 11:15:43+09:00 local time"
+ <a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-27T11:11:08.832418+09:00.jpg">
+  <img src="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-27T11:11:08.832418+09:00.jpg"
+     alt="Sankei Shimbun at 2022-09-27 11:11:10+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-19T11:15:41.229279+09:00.jpg">September 19 at 11:15 AM</a></p>
+ <p><a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-27T11:11:08.832418+09:00.jpg">September 27 at 11:11 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-18T22:01:50.781359+09:00.jpg">
-  <img src="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-18T22:01:50.781359+09:00.jpg"
-     alt="Sankei Shimbun at 2022-09-18 22:01:59+09:00 local time"
+ <a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-26T23:07:41.731524+09:00.jpg">
+  <img src="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-26T23:07:41.731524+09:00.jpg"
+     alt="Sankei Shimbun at 2022-09-26 23:07:52+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-18T22:01:50.781359+09:00.jpg">September 18 at 10:01 PM</a></p>
+ <p><a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-26T23:07:41.731524+09:00.jpg">September 26 at 11:07 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-18T11:20:30.210784+09:00.jpg">
-  <img src="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-18T11:20:30.210784+09:00.jpg"
-     alt="Sankei Shimbun at 2022-09-18 11:20:32+09:00 local time"
+ <a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-26T11:19:49.624553+09:00.jpg">
+  <img src="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-26T11:19:49.624553+09:00.jpg"
+     alt="Sankei Shimbun at 2022-09-26 11:19:50+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-18T11:20:30.210784+09:00.jpg">September 18 at 11:20 AM</a></p>
+ <p><a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-26T11:19:49.624553+09:00.jpg">September 26 at 11:19 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-18T10:22:35.068669+09:00.jpg">
-  <img src="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-18T10:22:35.068669+09:00.jpg"
-     alt="Sankei Shimbun at 2022-09-18 10:22:43+09:00 local time"
+ <a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-26T11:12:49.283239+09:00.jpg">
+  <img src="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-26T11:12:49.283239+09:00.jpg"
+     alt="Sankei Shimbun at 2022-09-26 11:12:51+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-18T10:22:35.068669+09:00.jpg">September 18 at 10:22 AM</a></p>
+ <p><a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-26T11:12:49.283239+09:00.jpg">September 26 at 11:12 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-17T22:02:43.575866+09:00.jpg">
-  <img src="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-17T22:02:43.575866+09:00.jpg"
-     alt="Sankei Shimbun at 2022-09-17 22:02:45+09:00 local time"
+ <a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-25T22:55:10.792678+09:00.jpg">
+  <img src="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-25T22:55:10.792678+09:00.jpg"
+     alt="Sankei Shimbun at 2022-09-25 22:55:17+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-17T22:02:43.575866+09:00.jpg">September 17 at 10:02 PM</a></p>
+ <p><a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-25T22:55:10.792678+09:00.jpg">September 25 at 10:55 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-17T11:18:31.872693+09:00.jpg">
-  <img src="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-17T11:18:31.872693+09:00.jpg"
-     alt="Sankei Shimbun at 2022-09-17 11:18:33+09:00 local time"
+ <a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-25T11:13:59.978190+09:00.jpg">
+  <img src="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-25T11:13:59.978190+09:00.jpg"
+     alt="Sankei Shimbun at 2022-09-25 11:14:01+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-17T11:18:31.872693+09:00.jpg">September 17 at 11:18 AM</a></p>
+ <p><a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-25T11:13:59.978190+09:00.jpg">September 25 at 11:14 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-17T10:15:29.859465+09:00.jpg">
-  <img src="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-17T10:15:29.859465+09:00.jpg"
-     alt="Sankei Shimbun at 2022-09-17 10:15:37+09:00 local time"
+ <a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-25T11:07:30.140804+09:00.jpg">
+  <img src="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-25T11:07:30.140804+09:00.jpg"
+     alt="Sankei Shimbun at 2022-09-25 11:07:31+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-17T10:15:29.859465+09:00.jpg">September 17 at 10:15 AM</a></p>
+ <p><a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-25T11:07:30.140804+09:00.jpg">September 25 at 11:07 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-16T22:02:55.186331+09:00.jpg">
-  <img src="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-16T22:02:55.186331+09:00.jpg"
-     alt="Sankei Shimbun at 2022-09-16 22:02:57+09:00 local time"
+ <a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-24T22:57:05.453540+09:00.jpg">
+  <img src="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-24T22:57:05.453540+09:00.jpg"
+     alt="Sankei Shimbun at 2022-09-24 22:57:13+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-16T22:02:55.186331+09:00.jpg">September 16 at 10:02 PM</a></p>
+ <p><a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-24T22:57:05.453540+09:00.jpg">September 24 at 10:57 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-16T11:20:21.467639+09:00.jpg">
-  <img src="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-16T11:20:21.467639+09:00.jpg"
-     alt="Sankei Shimbun at 2022-09-16 11:20:23+09:00 local time"
+ <a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-24T11:18:49.501711+09:00.jpg">
+  <img src="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-24T11:18:49.501711+09:00.jpg"
+     alt="Sankei Shimbun at 2022-09-24 11:18:51+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-16T11:20:21.467639+09:00.jpg">September 16 at 11:20 AM</a></p>
+ <p><a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-24T11:18:49.501711+09:00.jpg">September 24 at 11:18 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-16T10:18:07.945895+09:00.jpg">
-  <img src="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-16T10:18:07.945895+09:00.jpg"
-     alt="Sankei Shimbun at 2022-09-16 10:18:31+09:00 local time"
+ <a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-24T11:12:47.108685+09:00.jpg">
+  <img src="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-24T11:12:47.108685+09:00.jpg"
+     alt="Sankei Shimbun at 2022-09-24 11:12:54+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-16T10:18:07.945895+09:00.jpg">September 16 at 10:18 AM</a></p>
+ <p><a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-09-24T11:12:47.108685+09:00.jpg">September 24 at 11:12 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 171 hyperlink lists with the Internet Archive.
+The archiving routine has saved 195 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 11:04 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-19T23:04:06.429746+09:00.hyperlinks.json) |
-| [September 19 at 11:18 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-19T11:18:18.582289+09:00.hyperlinks.json) |
-| [September 19 at 11:15 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-19T11:15:41.229279+09:00.hyperlinks.json) |
-| [September 18 at 10:02 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-18T22:01:50.781359+09:00.hyperlinks.json) |
-| [September 18 at 11:20 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-18T11:20:30.210784+09:00.hyperlinks.json) |
-| [September 18 at 10:22 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-18T10:22:35.068669+09:00.hyperlinks.json) |
-| [September 17 at 10:02 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-17T22:02:43.575866+09:00.hyperlinks.json) |
-| [September 17 at 11:18 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-17T11:18:31.872693+09:00.hyperlinks.json) |
-| [September 17 at 10:15 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-17T10:15:29.859465+09:00.hyperlinks.json) |
-| [September 16 at 10:03 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-16T22:02:55.186331+09:00.hyperlinks.json) |
+| [September 27 at 11:11 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-27T23:11:03.370102+09:00.hyperlinks.json) |
+| [September 27 at 11:17 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-27T11:17:37.999709+09:00.hyperlinks.json) |
+| [September 27 at 11:11 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-27T11:11:08.832418+09:00.hyperlinks.json) |
+| [September 26 at 11:07 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-26T23:07:41.731524+09:00.hyperlinks.json) |
+| [September 26 at 11:19 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-26T11:19:49.624553+09:00.hyperlinks.json) |
+| [September 26 at 11:12 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-26T11:12:49.283239+09:00.hyperlinks.json) |
+| [September 25 at 10:55 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-25T22:55:10.792678+09:00.hyperlinks.json) |
+| [September 25 at 11:14 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-25T11:13:59.978190+09:00.hyperlinks.json) |
+| [September 25 at 11:07 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-25T11:07:30.140804+09:00.hyperlinks.json) |
+| [September 24 at 10:57 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-24T22:57:05.453540+09:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 177 accessibility trees with the Internet Archive.
+The archiving routine has saved 200 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 11:04 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-19T23:04:06.429746+09:00.accessibility.json) |
-| [September 19 at 11:18 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-19T11:18:18.582289+09:00.accessibility.json) |
-| [September 19 at 11:15 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-19T11:15:41.229279+09:00.accessibility.json) |
-| [September 18 at 10:02 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-18T22:01:50.781359+09:00.accessibility.json) |
-| [September 18 at 11:20 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-18T11:20:30.210784+09:00.accessibility.json) |
-| [September 18 at 10:22 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-18T10:22:35.068669+09:00.accessibility.json) |
-| [September 17 at 10:02 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-17T22:02:43.575866+09:00.accessibility.json) |
-| [September 17 at 11:18 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-17T11:18:31.872693+09:00.accessibility.json) |
-| [September 17 at 10:15 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-17T10:15:29.859465+09:00.accessibility.json) |
-| [September 16 at 10:02 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-16T22:02:55.186331+09:00.accessibility.json) |
+| [September 27 at 11:11 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-27T23:11:03.370102+09:00.accessibility.json) |
+| [September 27 at 11:17 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-27T11:17:37.999709+09:00.accessibility.json) |
+| [September 27 at 11:11 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-27T11:11:08.832418+09:00.accessibility.json) |
+| [September 26 at 11:07 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-26T23:07:41.731524+09:00.accessibility.json) |
+| [September 26 at 11:19 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-26T11:19:49.624553+09:00.accessibility.json) |
+| [September 26 at 11:12 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-26T11:12:49.283239+09:00.accessibility.json) |
+| [September 25 at 10:55 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-25T22:55:10.792678+09:00.accessibility.json) |
+| [September 25 at 11:14 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-25T11:13:59.978190+09:00.accessibility.json) |
+| [September 25 at 11:07 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-25T11:07:30.140804+09:00.accessibility.json) |
+| [September 24 at 10:57 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-24T22:57:05.453540+09:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 170 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 194 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 11:04 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-19T23:04:06.429746+09:00.lighthouse.json) |
-| [September 19 at 11:18 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-19T11:18:18.582289+09:00.lighthouse.json) |
-| [September 19 at 11:15 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-19T11:15:41.229279+09:00.lighthouse.json) |
-| [September 18 at 10:02 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-18T22:01:50.781359+09:00.lighthouse.json) |
-| [September 18 at 11:20 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-18T11:20:30.210784+09:00.lighthouse.json) |
-| [September 18 at 10:22 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-18T10:22:35.068669+09:00.lighthouse.json) |
-| [September 17 at 10:02 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-17T22:02:43.575866+09:00.lighthouse.json) |
-| [September 17 at 11:18 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-17T11:18:31.872693+09:00.lighthouse.json) |
-| [September 17 at 10:15 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-17T10:15:29.859465+09:00.lighthouse.json) |
-| [September 16 at 10:03 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-16T22:02:55.186331+09:00.lighthouse.json) |
+| [September 27 at 11:11 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-27T23:11:03.370102+09:00.lighthouse.json) |
+| [September 27 at 11:17 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-27T11:17:37.999709+09:00.lighthouse.json) |
+| [September 27 at 11:11 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-27T11:11:08.832418+09:00.lighthouse.json) |
+| [September 26 at 11:07 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-26T23:07:41.731524+09:00.lighthouse.json) |
+| [September 26 at 11:19 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-26T11:19:49.624553+09:00.lighthouse.json) |
+| [September 26 at 11:12 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-26T11:12:49.283239+09:00.lighthouse.json) |
+| [September 25 at 10:55 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-25T22:55:10.792678+09:00.lighthouse.json) |
+| [September 25 at 11:14 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-25T11:13:59.978190+09:00.lighthouse.json) |
+| [September 25 at 11:07 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-25T11:07:30.140804+09:00.lighthouse.json) |
+| [September 24 at 10:57 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-09-24T22:57:05.453540+09:00.lighthouse.json) |
 
 
 

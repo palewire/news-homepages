@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 366 screenshots with the Internet Archive.
+The archiving routine has saved 388 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/oann-2022/oann-2022-09-19T14:35:27.456464-04:00.jpg">
-  <img src="https://archive.org/download/oann-2022/oann-2022-09-19T14:35:27.456464-04:00.jpg"
-     alt="One America News Network at 2022-09-19 14:35:35-04:00 local time"
+ <a href="https://archive.org/download/oann-2022/oann-2022-09-27T10:08:52.244958-04:00.jpg">
+  <img src="https://archive.org/download/oann-2022/oann-2022-09-27T10:08:52.244958-04:00.jpg"
+     alt="One America News Network at 2022-09-27 10:08:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-09-19T14:35:27.456464-04:00.jpg">September 19 at 2:35 PM</a></p>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-09-27T10:08:52.244958-04:00.jpg">September 27 at 10:08 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/oann-2022/oann-2022-09-19T08:58:38.054559-04:00.jpg">
-  <img src="https://archive.org/download/oann-2022/oann-2022-09-19T08:58:38.054559-04:00.jpg"
-     alt="One America News Network at 2022-09-19 08:58:57-04:00 local time"
+ <a href="https://archive.org/download/oann-2022/oann-2022-09-26T22:15:46.040274-04:00.jpg">
+  <img src="https://archive.org/download/oann-2022/oann-2022-09-26T22:15:46.040274-04:00.jpg"
+     alt="One America News Network at 2022-09-26 22:15:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-09-19T08:58:38.054559-04:00.jpg">September 19 at 8:58 AM</a></p>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-09-26T22:15:46.040274-04:00.jpg">September 26 at 10:15 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/oann-2022/oann-2022-09-18T21:15:09.615581-04:00.jpg">
-  <img src="https://archive.org/download/oann-2022/oann-2022-09-18T21:15:09.615581-04:00.jpg"
-     alt="One America News Network at 2022-09-18 21:15:19-04:00 local time"
+ <a href="https://archive.org/download/oann-2022/oann-2022-09-26T15:48:42.905468-04:00.jpg">
+  <img src="https://archive.org/download/oann-2022/oann-2022-09-26T15:48:42.905468-04:00.jpg"
+     alt="One America News Network at 2022-09-26 15:48:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-09-18T21:15:09.615581-04:00.jpg">September 18 at 9:15 PM</a></p>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-09-26T15:48:42.905468-04:00.jpg">September 26 at 3:48 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/oann-2022/oann-2022-09-18T14:31:58.326394-04:00.jpg">
-  <img src="https://archive.org/download/oann-2022/oann-2022-09-18T14:31:58.326394-04:00.jpg"
-     alt="One America News Network at 2022-09-18 14:32:00-04:00 local time"
+ <a href="https://archive.org/download/oann-2022/oann-2022-09-26T10:05:19.909543-04:00.jpg">
+  <img src="https://archive.org/download/oann-2022/oann-2022-09-26T10:05:19.909543-04:00.jpg"
+     alt="One America News Network at 2022-09-26 10:05:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-09-18T14:31:58.326394-04:00.jpg">September 18 at 2:32 PM</a></p>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-09-26T10:05:19.909543-04:00.jpg">September 26 at 10:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/oann-2022/oann-2022-09-18T09:00:09.283324-04:00.jpg">
-  <img src="https://archive.org/download/oann-2022/oann-2022-09-18T09:00:09.283324-04:00.jpg"
-     alt="One America News Network at 2022-09-18 09:00:16-04:00 local time"
+ <a href="https://archive.org/download/oann-2022/oann-2022-09-25T22:17:04.974408-04:00.jpg">
+  <img src="https://archive.org/download/oann-2022/oann-2022-09-25T22:17:04.974408-04:00.jpg"
+     alt="One America News Network at 2022-09-25 22:17:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-09-18T09:00:09.283324-04:00.jpg">September 18 at 9:00 AM</a></p>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-09-25T22:17:04.974408-04:00.jpg">September 25 at 10:17 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/oann-2022/oann-2022-09-17T21:20:43.044068-04:00.jpg">
-  <img src="https://archive.org/download/oann-2022/oann-2022-09-17T21:20:43.044068-04:00.jpg"
-     alt="One America News Network at 2022-09-17 21:20:54-04:00 local time"
+ <a href="https://archive.org/download/oann-2022/oann-2022-09-25T15:08:00.997457-04:00.jpg">
+  <img src="https://archive.org/download/oann-2022/oann-2022-09-25T15:08:00.997457-04:00.jpg"
+     alt="One America News Network at 2022-09-25 15:08:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-09-17T21:20:43.044068-04:00.jpg">September 17 at 9:20 PM</a></p>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-09-25T15:08:00.997457-04:00.jpg">September 25 at 3:08 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/oann-2022/oann-2022-09-17T14:33:59.407705-04:00.jpg">
-  <img src="https://archive.org/download/oann-2022/oann-2022-09-17T14:33:59.407705-04:00.jpg"
-     alt="One America News Network at 2022-09-17 14:34:01-04:00 local time"
+ <a href="https://archive.org/download/oann-2022/oann-2022-09-25T09:52:52.755817-04:00.jpg">
+  <img src="https://archive.org/download/oann-2022/oann-2022-09-25T09:52:52.755817-04:00.jpg"
+     alt="One America News Network at 2022-09-25 09:52:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-09-17T14:33:59.407705-04:00.jpg">September 17 at 2:34 PM</a></p>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-09-25T09:52:52.755817-04:00.jpg">September 25 at 9:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/oann-2022/oann-2022-09-17T09:00:01.702443-04:00.jpg">
-  <img src="https://archive.org/download/oann-2022/oann-2022-09-17T09:00:01.702443-04:00.jpg"
-     alt="One America News Network at 2022-09-17 09:00:14-04:00 local time"
+ <a href="https://archive.org/download/oann-2022/oann-2022-09-24T22:11:52.452910-04:00.jpg">
+  <img src="https://archive.org/download/oann-2022/oann-2022-09-24T22:11:52.452910-04:00.jpg"
+     alt="One America News Network at 2022-09-24 22:12:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-09-17T09:00:01.702443-04:00.jpg">September 17 at 9:00 AM</a></p>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-09-24T22:11:52.452910-04:00.jpg">September 24 at 10:12 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/oann-2022/oann-2022-09-16T21:13:27.419249-04:00.jpg">
-  <img src="https://archive.org/download/oann-2022/oann-2022-09-16T21:13:27.419249-04:00.jpg"
-     alt="One America News Network at 2022-09-16 21:13:38-04:00 local time"
+ <a href="https://archive.org/download/oann-2022/oann-2022-09-24T15:03:03.054342-04:00.jpg">
+  <img src="https://archive.org/download/oann-2022/oann-2022-09-24T15:03:03.054342-04:00.jpg"
+     alt="One America News Network at 2022-09-24 15:03:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-09-16T21:13:27.419249-04:00.jpg">September 16 at 9:13 PM</a></p>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-09-24T15:03:03.054342-04:00.jpg">September 24 at 3:03 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/oann-2022/oann-2022-09-16T14:33:37.735641-04:00.jpg">
-  <img src="https://archive.org/download/oann-2022/oann-2022-09-16T14:33:37.735641-04:00.jpg"
-     alt="One America News Network at 2022-09-16 14:33:45-04:00 local time"
+ <a href="https://archive.org/download/oann-2022/oann-2022-09-24T09:55:11.638706-04:00.jpg">
+  <img src="https://archive.org/download/oann-2022/oann-2022-09-24T09:55:11.638706-04:00.jpg"
+     alt="One America News Network at 2022-09-24 09:55:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-09-16T14:33:37.735641-04:00.jpg">September 16 at 2:33 PM</a></p>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-09-24T09:55:11.638706-04:00.jpg">September 24 at 9:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/oann-2022/oann-2022-09-16T09:00:43.753195-04:00.jpg">
-  <img src="https://archive.org/download/oann-2022/oann-2022-09-16T09:00:43.753195-04:00.jpg"
-     alt="One America News Network at 2022-09-16 09:00:52-04:00 local time"
+ <a href="https://archive.org/download/oann-2022/oann-2022-09-23T22:16:59.327232-04:00.jpg">
+  <img src="https://archive.org/download/oann-2022/oann-2022-09-23T22:16:59.327232-04:00.jpg"
+     alt="One America News Network at 2022-09-23 22:17:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-09-16T09:00:43.753195-04:00.jpg">September 16 at 9:00 AM</a></p>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-09-23T22:16:59.327232-04:00.jpg">September 23 at 10:17 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/oann-2022/oann-2022-09-15T21:15:55.018308-04:00.jpg">
-  <img src="https://archive.org/download/oann-2022/oann-2022-09-15T21:15:55.018308-04:00.jpg"
-     alt="One America News Network at 2022-09-15 21:15:58-04:00 local time"
+ <a href="https://archive.org/download/oann-2022/oann-2022-09-23T15:27:15.284545-04:00.jpg">
+  <img src="https://archive.org/download/oann-2022/oann-2022-09-23T15:27:15.284545-04:00.jpg"
+     alt="One America News Network at 2022-09-23 15:27:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-09-15T21:15:55.018308-04:00.jpg">September 15 at 9:15 PM</a></p>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-09-23T15:27:15.284545-04:00.jpg">September 23 at 3:27 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 303 hyperlink lists with the Internet Archive.
+The archiving routine has saved 325 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 2:35 PM](https://archive.org/download/oann-2022/oann-2022-09-19T14:35:27.456464-04:00.hyperlinks.json) |
-| [September 19 at 8:59 AM](https://archive.org/download/oann-2022/oann-2022-09-19T08:58:38.054559-04:00.hyperlinks.json) |
-| [September 18 at 9:15 PM](https://archive.org/download/oann-2022/oann-2022-09-18T21:15:09.615581-04:00.hyperlinks.json) |
-| [September 18 at 2:32 PM](https://archive.org/download/oann-2022/oann-2022-09-18T14:31:58.326394-04:00.hyperlinks.json) |
-| [September 18 at 9:00 AM](https://archive.org/download/oann-2022/oann-2022-09-18T09:00:09.283324-04:00.hyperlinks.json) |
-| [September 17 at 9:20 PM](https://archive.org/download/oann-2022/oann-2022-09-17T21:20:43.044068-04:00.hyperlinks.json) |
-| [September 17 at 2:34 PM](https://archive.org/download/oann-2022/oann-2022-09-17T14:33:59.407705-04:00.hyperlinks.json) |
-| [September 17 at 9:00 AM](https://archive.org/download/oann-2022/oann-2022-09-17T09:00:01.702443-04:00.hyperlinks.json) |
-| [September 16 at 9:13 PM](https://archive.org/download/oann-2022/oann-2022-09-16T21:13:27.419249-04:00.hyperlinks.json) |
-| [September 16 at 2:33 PM](https://archive.org/download/oann-2022/oann-2022-09-16T14:33:37.735641-04:00.hyperlinks.json) |
+| [September 27 at 10:08 AM](https://archive.org/download/oann-2022/oann-2022-09-27T10:08:52.244958-04:00.hyperlinks.json) |
+| [September 26 at 10:15 PM](https://archive.org/download/oann-2022/oann-2022-09-26T22:15:46.040274-04:00.hyperlinks.json) |
+| [September 26 at 3:48 PM](https://archive.org/download/oann-2022/oann-2022-09-26T15:48:42.905468-04:00.hyperlinks.json) |
+| [September 26 at 10:05 AM](https://archive.org/download/oann-2022/oann-2022-09-26T10:05:19.909543-04:00.hyperlinks.json) |
+| [September 25 at 10:17 PM](https://archive.org/download/oann-2022/oann-2022-09-25T22:17:04.974408-04:00.hyperlinks.json) |
+| [September 25 at 3:08 PM](https://archive.org/download/oann-2022/oann-2022-09-25T15:08:00.997457-04:00.hyperlinks.json) |
+| [September 25 at 9:52 AM](https://archive.org/download/oann-2022/oann-2022-09-25T09:52:52.755817-04:00.hyperlinks.json) |
+| [September 24 at 10:12 PM](https://archive.org/download/oann-2022/oann-2022-09-24T22:11:52.452910-04:00.hyperlinks.json) |
+| [September 24 at 3:03 PM](https://archive.org/download/oann-2022/oann-2022-09-24T15:03:03.054342-04:00.hyperlinks.json) |
+| [September 24 at 9:55 AM](https://archive.org/download/oann-2022/oann-2022-09-24T09:55:11.638706-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 286 accessibility trees with the Internet Archive.
+The archiving routine has saved 308 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 2:35 PM](https://archive.org/download/oann-2022/oann-2022-09-19T14:35:27.456464-04:00.accessibility.json) |
-| [September 19 at 8:58 AM](https://archive.org/download/oann-2022/oann-2022-09-19T08:58:38.054559-04:00.accessibility.json) |
-| [September 18 at 9:15 PM](https://archive.org/download/oann-2022/oann-2022-09-18T21:15:09.615581-04:00.accessibility.json) |
-| [September 18 at 2:32 PM](https://archive.org/download/oann-2022/oann-2022-09-18T14:31:58.326394-04:00.accessibility.json) |
-| [September 18 at 9:00 AM](https://archive.org/download/oann-2022/oann-2022-09-18T09:00:09.283324-04:00.accessibility.json) |
-| [September 17 at 9:20 PM](https://archive.org/download/oann-2022/oann-2022-09-17T21:20:43.044068-04:00.accessibility.json) |
-| [September 17 at 2:34 PM](https://archive.org/download/oann-2022/oann-2022-09-17T14:33:59.407705-04:00.accessibility.json) |
-| [September 17 at 9:00 AM](https://archive.org/download/oann-2022/oann-2022-09-17T09:00:01.702443-04:00.accessibility.json) |
-| [September 16 at 9:13 PM](https://archive.org/download/oann-2022/oann-2022-09-16T21:13:27.419249-04:00.accessibility.json) |
-| [September 16 at 2:33 PM](https://archive.org/download/oann-2022/oann-2022-09-16T14:33:37.735641-04:00.accessibility.json) |
+| [September 27 at 10:08 AM](https://archive.org/download/oann-2022/oann-2022-09-27T10:08:52.244958-04:00.accessibility.json) |
+| [September 26 at 10:15 PM](https://archive.org/download/oann-2022/oann-2022-09-26T22:15:46.040274-04:00.accessibility.json) |
+| [September 26 at 3:48 PM](https://archive.org/download/oann-2022/oann-2022-09-26T15:48:42.905468-04:00.accessibility.json) |
+| [September 26 at 10:05 AM](https://archive.org/download/oann-2022/oann-2022-09-26T10:05:19.909543-04:00.accessibility.json) |
+| [September 25 at 10:17 PM](https://archive.org/download/oann-2022/oann-2022-09-25T22:17:04.974408-04:00.accessibility.json) |
+| [September 25 at 3:08 PM](https://archive.org/download/oann-2022/oann-2022-09-25T15:08:00.997457-04:00.accessibility.json) |
+| [September 25 at 9:52 AM](https://archive.org/download/oann-2022/oann-2022-09-25T09:52:52.755817-04:00.accessibility.json) |
+| [September 24 at 10:12 PM](https://archive.org/download/oann-2022/oann-2022-09-24T22:11:52.452910-04:00.accessibility.json) |
+| [September 24 at 3:03 PM](https://archive.org/download/oann-2022/oann-2022-09-24T15:03:03.054342-04:00.accessibility.json) |
+| [September 24 at 9:55 AM](https://archive.org/download/oann-2022/oann-2022-09-24T09:55:11.638706-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 137 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 159 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 2:35 PM](https://archive.org/download/oann-2022/oann-2022-09-19T14:35:27.456464-04:00.lighthouse.json) |
-| [September 19 at 8:59 AM](https://archive.org/download/oann-2022/oann-2022-09-19T08:58:38.054559-04:00.lighthouse.json) |
-| [September 18 at 9:15 PM](https://archive.org/download/oann-2022/oann-2022-09-18T21:15:09.615581-04:00.lighthouse.json) |
-| [September 18 at 2:32 PM](https://archive.org/download/oann-2022/oann-2022-09-18T14:31:58.326394-04:00.lighthouse.json) |
-| [September 18 at 9:00 AM](https://archive.org/download/oann-2022/oann-2022-09-18T09:00:09.283324-04:00.lighthouse.json) |
-| [September 17 at 9:21 PM](https://archive.org/download/oann-2022/oann-2022-09-17T21:20:43.044068-04:00.lighthouse.json) |
-| [September 17 at 2:34 PM](https://archive.org/download/oann-2022/oann-2022-09-17T14:33:59.407705-04:00.lighthouse.json) |
-| [September 17 at 9:00 AM](https://archive.org/download/oann-2022/oann-2022-09-17T09:00:01.702443-04:00.lighthouse.json) |
-| [September 16 at 9:13 PM](https://archive.org/download/oann-2022/oann-2022-09-16T21:13:27.419249-04:00.lighthouse.json) |
-| [September 16 at 2:33 PM](https://archive.org/download/oann-2022/oann-2022-09-16T14:33:37.735641-04:00.lighthouse.json) |
+| [September 27 at 10:09 AM](https://archive.org/download/oann-2022/oann-2022-09-27T10:08:52.244958-04:00.lighthouse.json) |
+| [September 26 at 10:15 PM](https://archive.org/download/oann-2022/oann-2022-09-26T22:15:46.040274-04:00.lighthouse.json) |
+| [September 26 at 3:48 PM](https://archive.org/download/oann-2022/oann-2022-09-26T15:48:42.905468-04:00.lighthouse.json) |
+| [September 26 at 10:05 AM](https://archive.org/download/oann-2022/oann-2022-09-26T10:05:19.909543-04:00.lighthouse.json) |
+| [September 25 at 10:17 PM](https://archive.org/download/oann-2022/oann-2022-09-25T22:17:04.974408-04:00.lighthouse.json) |
+| [September 25 at 3:08 PM](https://archive.org/download/oann-2022/oann-2022-09-25T15:08:00.997457-04:00.lighthouse.json) |
+| [September 25 at 9:53 AM](https://archive.org/download/oann-2022/oann-2022-09-25T09:52:52.755817-04:00.lighthouse.json) |
+| [September 24 at 10:12 PM](https://archive.org/download/oann-2022/oann-2022-09-24T22:11:52.452910-04:00.lighthouse.json) |
+| [September 24 at 3:03 PM](https://archive.org/download/oann-2022/oann-2022-09-24T15:03:03.054342-04:00.lighthouse.json) |
+| [September 24 at 9:55 AM](https://archive.org/download/oann-2022/oann-2022-09-24T09:55:11.638706-04:00.lighthouse.json) |
 
 
 

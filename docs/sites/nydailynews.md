@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 157 screenshots with the Internet Archive.
+The archiving routine has saved 173 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-19T08:57:55.855398-04:00.jpg">
-  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-19T08:57:55.855398-04:00.jpg"
-     alt="Daily News at 2022-09-19 08:58:08-04:00 local time"
+ <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-27T10:06:28.117156-04:00.jpg">
+  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-27T10:06:28.117156-04:00.jpg"
+     alt="Daily News at 2022-09-27 10:06:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-19T08:57:55.855398-04:00.jpg">September 19 at 8:58 AM</a></p>
+ <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-27T10:06:28.117156-04:00.jpg">September 27 at 10:06 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-18T21:15:02.833276-04:00.jpg">
-  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-18T21:15:02.833276-04:00.jpg"
-     alt="Daily News at 2022-09-18 21:15:04-04:00 local time"
+ <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-26T22:13:48.222939-04:00.jpg">
+  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-26T22:13:48.222939-04:00.jpg"
+     alt="Daily News at 2022-09-26 22:14:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-18T21:15:02.833276-04:00.jpg">September 18 at 9:15 PM</a></p>
+ <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-26T22:13:48.222939-04:00.jpg">September 26 at 10:14 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-18T08:59:39.023585-04:00.jpg">
-  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-18T08:59:39.023585-04:00.jpg"
-     alt="Daily News at 2022-09-18 08:59:57-04:00 local time"
+ <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-26T10:03:21.348992-04:00.jpg">
+  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-26T10:03:21.348992-04:00.jpg"
+     alt="Daily News at 2022-09-26 10:03:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-18T08:59:39.023585-04:00.jpg">September 18 at 8:59 AM</a></p>
+ <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-26T10:03:21.348992-04:00.jpg">September 26 at 10:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-17T21:20:15.604126-04:00.jpg">
-  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-17T21:20:15.604126-04:00.jpg"
-     alt="Daily News at 2022-09-17 21:20:20-04:00 local time"
+ <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-25T22:15:24.766845-04:00.jpg">
+  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-25T22:15:24.766845-04:00.jpg"
+     alt="Daily News at 2022-09-25 22:15:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-17T21:20:15.604126-04:00.jpg">September 17 at 9:20 PM</a></p>
+ <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-25T22:15:24.766845-04:00.jpg">September 25 at 10:15 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-17T08:59:56.227926-04:00.jpg">
-  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-17T08:59:56.227926-04:00.jpg"
-     alt="Daily News at 2022-09-17 09:00:04-04:00 local time"
+ <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-25T09:50:51.698877-04:00.jpg">
+  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-25T09:50:51.698877-04:00.jpg"
+     alt="Daily News at 2022-09-25 09:50:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-17T08:59:56.227926-04:00.jpg">September 17 at 9:00 AM</a></p>
+ <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-25T09:50:51.698877-04:00.jpg">September 25 at 9:50 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-16T21:13:18.711553-04:00.jpg">
-  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-16T21:13:18.711553-04:00.jpg"
-     alt="Daily News at 2022-09-16 21:13:20-04:00 local time"
+ <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-24T22:12:07.327060-04:00.jpg">
+  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-24T22:12:07.327060-04:00.jpg"
+     alt="Daily News at 2022-09-24 22:12:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-16T21:13:18.711553-04:00.jpg">September 16 at 9:13 PM</a></p>
+ <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-24T22:12:07.327060-04:00.jpg">September 24 at 10:12 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-16T09:01:12.939784-04:00.jpg">
-  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-16T09:01:12.939784-04:00.jpg"
-     alt="Daily News at 2022-09-16 09:01:15-04:00 local time"
+ <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-24T09:55:44.295212-04:00.jpg">
+  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-24T09:55:44.295212-04:00.jpg"
+     alt="Daily News at 2022-09-24 09:55:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-16T09:01:12.939784-04:00.jpg">September 16 at 9:01 AM</a></p>
+ <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-24T09:55:44.295212-04:00.jpg">September 24 at 9:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-15T21:16:08.704192-04:00.jpg">
-  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-15T21:16:08.704192-04:00.jpg"
-     alt="Daily News at 2022-09-15 21:16:10-04:00 local time"
+ <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-23T22:15:09.870799-04:00.jpg">
+  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-23T22:15:09.870799-04:00.jpg"
+     alt="Daily News at 2022-09-23 22:15:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-15T21:16:08.704192-04:00.jpg">September 15 at 9:16 PM</a></p>
+ <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-23T22:15:09.870799-04:00.jpg">September 23 at 10:15 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-15T09:02:42.963027-04:00.jpg">
-  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-15T09:02:42.963027-04:00.jpg"
-     alt="Daily News at 2022-09-15 09:02:45-04:00 local time"
+ <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-23T10:04:32.269562-04:00.jpg">
+  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-23T10:04:32.269562-04:00.jpg"
+     alt="Daily News at 2022-09-23 10:04:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-15T09:02:42.963027-04:00.jpg">September 15 at 9:02 AM</a></p>
+ <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-23T10:04:32.269562-04:00.jpg">September 23 at 10:04 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-14T21:19:45.612314-04:00.jpg">
-  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-14T21:19:45.612314-04:00.jpg"
-     alt="Daily News at 2022-09-14 21:19:47-04:00 local time"
+ <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-22T22:19:44.361904-04:00.jpg">
+  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-22T22:19:44.361904-04:00.jpg"
+     alt="Daily News at 2022-09-22 22:19:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-14T21:19:45.612314-04:00.jpg">September 14 at 9:19 PM</a></p>
+ <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-22T22:19:44.361904-04:00.jpg">September 22 at 10:19 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-14T09:07:27.394452-04:00.jpg">
-  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-14T09:07:27.394452-04:00.jpg"
-     alt="Daily News at 2022-09-14 09:07:29-04:00 local time"
+ <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-22T10:04:50.865746-04:00.jpg">
+  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-22T10:04:50.865746-04:00.jpg"
+     alt="Daily News at 2022-09-22 10:04:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-14T09:07:27.394452-04:00.jpg">September 14 at 9:07 AM</a></p>
+ <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-22T10:04:50.865746-04:00.jpg">September 22 at 10:04 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-13T21:23:03.412222-04:00.jpg">
-  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-13T21:23:03.412222-04:00.jpg"
-     alt="Daily News at 2022-09-13 21:23:05-04:00 local time"
+ <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-21T22:17:22.615695-04:00.jpg">
+  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-21T22:17:22.615695-04:00.jpg"
+     alt="Daily News at 2022-09-21 22:17:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-13T21:23:03.412222-04:00.jpg">September 13 at 9:23 PM</a></p>
+ <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-09-21T22:17:22.615695-04:00.jpg">September 21 at 10:17 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 147 hyperlink lists with the Internet Archive.
+The archiving routine has saved 162 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 8:58 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-19T08:57:55.855398-04:00.hyperlinks.json) |
-| [September 18 at 9:15 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-18T21:15:02.833276-04:00.hyperlinks.json) |
-| [September 18 at 9:00 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-18T08:59:39.023585-04:00.hyperlinks.json) |
-| [September 17 at 9:20 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-17T21:20:15.604126-04:00.hyperlinks.json) |
-| [September 17 at 9:00 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-17T08:59:56.227926-04:00.hyperlinks.json) |
-| [September 16 at 9:13 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-16T21:13:18.711553-04:00.hyperlinks.json) |
-| [September 16 at 9:01 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-16T09:01:12.939784-04:00.hyperlinks.json) |
-| [September 15 at 9:16 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-15T21:16:08.704192-04:00.hyperlinks.json) |
-| [September 15 at 9:02 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-15T09:02:42.963027-04:00.hyperlinks.json) |
-| [September 14 at 9:19 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-14T21:19:45.612314-04:00.hyperlinks.json) |
+| [September 27 at 10:06 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-27T10:06:28.117156-04:00.hyperlinks.json) |
+| [September 26 at 10:03 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-26T10:03:21.348992-04:00.hyperlinks.json) |
+| [September 25 at 10:15 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-25T22:15:24.766845-04:00.hyperlinks.json) |
+| [September 25 at 9:51 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-25T09:50:51.698877-04:00.hyperlinks.json) |
+| [September 24 at 10:12 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-24T22:12:07.327060-04:00.hyperlinks.json) |
+| [September 24 at 9:55 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-24T09:55:44.295212-04:00.hyperlinks.json) |
+| [September 23 at 10:15 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-23T22:15:09.870799-04:00.hyperlinks.json) |
+| [September 23 at 10:04 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-23T10:04:32.269562-04:00.hyperlinks.json) |
+| [September 22 at 10:19 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-22T22:19:44.361904-04:00.hyperlinks.json) |
+| [September 22 at 10:05 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-22T10:04:50.865746-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 158 accessibility trees with the Internet Archive.
+The archiving routine has saved 174 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 8:58 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-19T08:57:55.855398-04:00.accessibility.json) |
-| [September 18 at 9:15 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-18T21:15:02.833276-04:00.accessibility.json) |
-| [September 18 at 8:59 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-18T08:59:39.023585-04:00.accessibility.json) |
-| [September 17 at 9:20 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-17T21:20:15.604126-04:00.accessibility.json) |
-| [September 17 at 9:00 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-17T08:59:56.227926-04:00.accessibility.json) |
-| [September 16 at 9:13 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-16T21:13:18.711553-04:00.accessibility.json) |
-| [September 16 at 9:01 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-16T09:01:12.939784-04:00.accessibility.json) |
-| [September 15 at 9:16 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-15T21:16:08.704192-04:00.accessibility.json) |
-| [September 15 at 9:02 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-15T09:02:42.963027-04:00.accessibility.json) |
-| [September 14 at 9:19 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-14T21:19:45.612314-04:00.accessibility.json) |
+| [September 27 at 10:06 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-27T10:06:28.117156-04:00.accessibility.json) |
+| [September 26 at 10:14 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-26T22:13:48.222939-04:00.accessibility.json) |
+| [September 26 at 10:03 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-26T10:03:21.348992-04:00.accessibility.json) |
+| [September 25 at 10:15 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-25T22:15:24.766845-04:00.accessibility.json) |
+| [September 25 at 9:51 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-25T09:50:51.698877-04:00.accessibility.json) |
+| [September 24 at 10:12 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-24T22:12:07.327060-04:00.accessibility.json) |
+| [September 24 at 9:55 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-24T09:55:44.295212-04:00.accessibility.json) |
+| [September 23 at 10:15 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-23T22:15:09.870799-04:00.accessibility.json) |
+| [September 23 at 10:04 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-23T10:04:32.269562-04:00.accessibility.json) |
+| [September 22 at 10:19 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-22T22:19:44.361904-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 116 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 8:58 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-19T08:57:55.855398-04:00.lighthouse.json) |
-| [September 18 at 9:15 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-18T21:15:02.833276-04:00.lighthouse.json) |
-| [September 18 at 9:00 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-18T08:59:39.023585-04:00.lighthouse.json) |
-| [September 17 at 9:20 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-17T21:20:15.604126-04:00.lighthouse.json) |
-| [September 17 at 9:00 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-17T08:59:56.227926-04:00.lighthouse.json) |
-| [September 16 at 9:13 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-16T21:13:18.711553-04:00.lighthouse.json) |
-| [September 16 at 9:01 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-16T09:01:12.939784-04:00.lighthouse.json) |
-| [September 15 at 9:16 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-15T21:16:08.704192-04:00.lighthouse.json) |
-| [September 15 at 9:02 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-15T09:02:42.963027-04:00.lighthouse.json) |
-| [September 14 at 9:19 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-14T21:19:45.612314-04:00.lighthouse.json) |
+| [September 27 at 10:06 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-27T10:06:28.117156-04:00.lighthouse.json) |
+| [September 26 at 10:14 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-26T22:13:48.222939-04:00.lighthouse.json) |
+| [September 26 at 10:03 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-26T10:03:21.348992-04:00.lighthouse.json) |
+| [September 25 at 10:15 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-25T22:15:24.766845-04:00.lighthouse.json) |
+| [September 25 at 9:51 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-25T09:50:51.698877-04:00.lighthouse.json) |
+| [September 24 at 10:12 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-24T22:12:07.327060-04:00.lighthouse.json) |
+| [September 24 at 9:55 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-24T09:55:44.295212-04:00.lighthouse.json) |
+| [September 23 at 10:15 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-23T22:15:09.870799-04:00.lighthouse.json) |
+| [September 23 at 10:04 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-23T10:04:32.269562-04:00.lighthouse.json) |
+| [September 22 at 10:19 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-09-22T22:19:44.361904-04:00.lighthouse.json) |
 
 
 

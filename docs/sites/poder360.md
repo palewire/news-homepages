@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 122 screenshots with the Internet Archive.
+The archiving routine has saved 146 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/poder360-2022/poder360-2022-09-19T09:58:24.512707-03:00.jpg">
-  <img src="https://archive.org/download/poder360-2022/poder360-2022-09-19T09:58:24.512707-03:00.jpg"
-     alt="Poder 360 at 2022-09-19 09:58:26-03:00 local time"
+ <a href="https://archive.org/download/poder360-2022/poder360-2022-09-27T11:09:14.626372-03:00.jpg">
+  <img src="https://archive.org/download/poder360-2022/poder360-2022-09-27T11:09:14.626372-03:00.jpg"
+     alt="Poder 360 at 2022-09-27 11:09:20-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/poder360-2022/poder360-2022-09-19T09:58:24.512707-03:00.jpg">September 19 at 9:58 AM</a></p>
+ <p><a href="https://archive.org/download/poder360-2022/poder360-2022-09-27T11:09:14.626372-03:00.jpg">September 27 at 11:09 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/poder360-2022/poder360-2022-09-19T09:01:07.946748-03:00.jpg">
-  <img src="https://archive.org/download/poder360-2022/poder360-2022-09-19T09:01:07.946748-03:00.jpg"
-     alt="Poder 360 at 2022-09-19 09:01:37-03:00 local time"
+ <a href="https://archive.org/download/poder360-2022/poder360-2022-09-27T08:58:44.183265-03:00.jpg">
+  <img src="https://archive.org/download/poder360-2022/poder360-2022-09-27T08:58:44.183265-03:00.jpg"
+     alt="Poder 360 at 2022-09-27 08:58:46-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/poder360-2022/poder360-2022-09-19T09:01:07.946748-03:00.jpg">September 19 at 9:01 AM</a></p>
+ <p><a href="https://archive.org/download/poder360-2022/poder360-2022-09-27T08:58:44.183265-03:00.jpg">September 27 at 8:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/poder360-2022/poder360-2022-09-18T22:14:20.243619-03:00.jpg">
-  <img src="https://archive.org/download/poder360-2022/poder360-2022-09-18T22:14:20.243619-03:00.jpg"
-     alt="Poder 360 at 2022-09-18 22:14:25-03:00 local time"
+ <a href="https://archive.org/download/poder360-2022/poder360-2022-09-26T23:16:25.131504-03:00.jpg">
+  <img src="https://archive.org/download/poder360-2022/poder360-2022-09-26T23:16:25.131504-03:00.jpg"
+     alt="Poder 360 at 2022-09-26 23:16:40-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/poder360-2022/poder360-2022-09-18T22:14:20.243619-03:00.jpg">September 18 at 10:14 PM</a></p>
+ <p><a href="https://archive.org/download/poder360-2022/poder360-2022-09-26T23:16:25.131504-03:00.jpg">September 26 at 11:16 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/poder360-2022/poder360-2022-09-18T09:59:30.069412-03:00.jpg">
-  <img src="https://archive.org/download/poder360-2022/poder360-2022-09-18T09:59:30.069412-03:00.jpg"
-     alt="Poder 360 at 2022-09-18 09:59:35-03:00 local time"
+ <a href="https://archive.org/download/poder360-2022/poder360-2022-09-26T11:05:22.846431-03:00.jpg">
+  <img src="https://archive.org/download/poder360-2022/poder360-2022-09-26T11:05:22.846431-03:00.jpg"
+     alt="Poder 360 at 2022-09-26 11:05:25-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/poder360-2022/poder360-2022-09-18T09:59:30.069412-03:00.jpg">September 18 at 9:59 AM</a></p>
+ <p><a href="https://archive.org/download/poder360-2022/poder360-2022-09-26T11:05:22.846431-03:00.jpg">September 26 at 11:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/poder360-2022/poder360-2022-09-18T09:02:01.575129-03:00.jpg">
-  <img src="https://archive.org/download/poder360-2022/poder360-2022-09-18T09:02:01.575129-03:00.jpg"
-     alt="Poder 360 at 2022-09-18 09:02:06-03:00 local time"
+ <a href="https://archive.org/download/poder360-2022/poder360-2022-09-26T09:06:59.575573-03:00.jpg">
+  <img src="https://archive.org/download/poder360-2022/poder360-2022-09-26T09:06:59.575573-03:00.jpg"
+     alt="Poder 360 at 2022-09-26 09:07:17-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/poder360-2022/poder360-2022-09-18T09:02:01.575129-03:00.jpg">September 18 at 9:02 AM</a></p>
+ <p><a href="https://archive.org/download/poder360-2022/poder360-2022-09-26T09:06:59.575573-03:00.jpg">September 26 at 9:07 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/poder360-2022/poder360-2022-09-17T22:20:10.977969-03:00.jpg">
-  <img src="https://archive.org/download/poder360-2022/poder360-2022-09-17T22:20:10.977969-03:00.jpg"
-     alt="Poder 360 at 2022-09-17 22:20:12-03:00 local time"
+ <a href="https://archive.org/download/poder360-2022/poder360-2022-09-25T23:18:20.407978-03:00.jpg">
+  <img src="https://archive.org/download/poder360-2022/poder360-2022-09-25T23:18:20.407978-03:00.jpg"
+     alt="Poder 360 at 2022-09-25 23:18:23-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/poder360-2022/poder360-2022-09-17T22:20:10.977969-03:00.jpg">September 17 at 10:20 PM</a></p>
+ <p><a href="https://archive.org/download/poder360-2022/poder360-2022-09-25T23:18:20.407978-03:00.jpg">September 25 at 11:18 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/poder360-2022/poder360-2022-09-17T10:00:06.011042-03:00.jpg">
-  <img src="https://archive.org/download/poder360-2022/poder360-2022-09-17T10:00:06.011042-03:00.jpg"
-     alt="Poder 360 at 2022-09-17 10:00:08-03:00 local time"
+ <a href="https://archive.org/download/poder360-2022/poder360-2022-09-25T10:53:14.264129-03:00.jpg">
+  <img src="https://archive.org/download/poder360-2022/poder360-2022-09-25T10:53:14.264129-03:00.jpg"
+     alt="Poder 360 at 2022-09-25 10:53:17-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/poder360-2022/poder360-2022-09-17T10:00:06.011042-03:00.jpg">September 17 at 10:00 AM</a></p>
+ <p><a href="https://archive.org/download/poder360-2022/poder360-2022-09-25T10:53:14.264129-03:00.jpg">September 25 at 10:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/poder360-2022/poder360-2022-09-17T09:03:14.022716-03:00.jpg">
-  <img src="https://archive.org/download/poder360-2022/poder360-2022-09-17T09:03:14.022716-03:00.jpg"
-     alt="Poder 360 at 2022-09-17 09:03:23-03:00 local time"
+ <a href="https://archive.org/download/poder360-2022/poder360-2022-09-25T08:50:32.343278-03:00.jpg">
+  <img src="https://archive.org/download/poder360-2022/poder360-2022-09-25T08:50:32.343278-03:00.jpg"
+     alt="Poder 360 at 2022-09-25 08:50:37-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/poder360-2022/poder360-2022-09-17T09:03:14.022716-03:00.jpg">September 17 at 9:03 AM</a></p>
+ <p><a href="https://archive.org/download/poder360-2022/poder360-2022-09-25T08:50:32.343278-03:00.jpg">September 25 at 8:50 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/poder360-2022/poder360-2022-09-16T22:14:17.689062-03:00.jpg">
-  <img src="https://archive.org/download/poder360-2022/poder360-2022-09-16T22:14:17.689062-03:00.jpg"
-     alt="Poder 360 at 2022-09-16 22:14:22-03:00 local time"
+ <a href="https://archive.org/download/poder360-2022/poder360-2022-09-24T23:12:02.613164-03:00.jpg">
+  <img src="https://archive.org/download/poder360-2022/poder360-2022-09-24T23:12:02.613164-03:00.jpg"
+     alt="Poder 360 at 2022-09-24 23:12:09-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/poder360-2022/poder360-2022-09-16T22:14:17.689062-03:00.jpg">September 16 at 10:14 PM</a></p>
+ <p><a href="https://archive.org/download/poder360-2022/poder360-2022-09-24T23:12:02.613164-03:00.jpg">September 24 at 11:12 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/poder360-2022/poder360-2022-09-16T10:00:25.263377-03:00.jpg">
-  <img src="https://archive.org/download/poder360-2022/poder360-2022-09-16T10:00:25.263377-03:00.jpg"
-     alt="Poder 360 at 2022-09-16 10:00:27-03:00 local time"
+ <a href="https://archive.org/download/poder360-2022/poder360-2022-09-24T10:55:21.776537-03:00.jpg">
+  <img src="https://archive.org/download/poder360-2022/poder360-2022-09-24T10:55:21.776537-03:00.jpg"
+     alt="Poder 360 at 2022-09-24 10:55:28-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/poder360-2022/poder360-2022-09-16T10:00:25.263377-03:00.jpg">September 16 at 10:00 AM</a></p>
+ <p><a href="https://archive.org/download/poder360-2022/poder360-2022-09-24T10:55:21.776537-03:00.jpg">September 24 at 10:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/poder360-2022/poder360-2022-09-16T09:02:36.794083-03:00.jpg">
-  <img src="https://archive.org/download/poder360-2022/poder360-2022-09-16T09:02:36.794083-03:00.jpg"
-     alt="Poder 360 at 2022-09-16 09:02:40-03:00 local time"
+ <a href="https://archive.org/download/poder360-2022/poder360-2022-09-24T08:51:57.302602-03:00.jpg">
+  <img src="https://archive.org/download/poder360-2022/poder360-2022-09-24T08:51:57.302602-03:00.jpg"
+     alt="Poder 360 at 2022-09-24 08:52:06-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/poder360-2022/poder360-2022-09-16T09:02:36.794083-03:00.jpg">September 16 at 9:02 AM</a></p>
+ <p><a href="https://archive.org/download/poder360-2022/poder360-2022-09-24T08:51:57.302602-03:00.jpg">September 24 at 8:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/poder360-2022/poder360-2022-09-15T22:17:38.423916-03:00.jpg">
-  <img src="https://archive.org/download/poder360-2022/poder360-2022-09-15T22:17:38.423916-03:00.jpg"
-     alt="Poder 360 at 2022-09-15 22:17:43-03:00 local time"
+ <a href="https://archive.org/download/poder360-2022/poder360-2022-09-23T23:16:55.406012-03:00.jpg">
+  <img src="https://archive.org/download/poder360-2022/poder360-2022-09-23T23:16:55.406012-03:00.jpg"
+     alt="Poder 360 at 2022-09-23 23:17:02-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/poder360-2022/poder360-2022-09-15T22:17:38.423916-03:00.jpg">September 15 at 10:17 PM</a></p>
+ <p><a href="https://archive.org/download/poder360-2022/poder360-2022-09-23T23:16:55.406012-03:00.jpg">September 23 at 11:17 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 122 hyperlink lists with the Internet Archive.
+The archiving routine has saved 146 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 9:58 AM](https://archive.org/download/poder360-2022/poder360-2022-09-19T09:58:24.512707-03:00.hyperlinks.json) |
-| [September 19 at 9:01 AM](https://archive.org/download/poder360-2022/poder360-2022-09-19T09:01:07.946748-03:00.hyperlinks.json) |
-| [September 18 at 10:14 PM](https://archive.org/download/poder360-2022/poder360-2022-09-18T22:14:20.243619-03:00.hyperlinks.json) |
-| [September 18 at 9:59 AM](https://archive.org/download/poder360-2022/poder360-2022-09-18T09:59:30.069412-03:00.hyperlinks.json) |
-| [September 18 at 9:02 AM](https://archive.org/download/poder360-2022/poder360-2022-09-18T09:02:01.575129-03:00.hyperlinks.json) |
-| [September 17 at 10:20 PM](https://archive.org/download/poder360-2022/poder360-2022-09-17T22:20:10.977969-03:00.hyperlinks.json) |
-| [September 17 at 10:00 AM](https://archive.org/download/poder360-2022/poder360-2022-09-17T10:00:06.011042-03:00.hyperlinks.json) |
-| [September 17 at 9:03 AM](https://archive.org/download/poder360-2022/poder360-2022-09-17T09:03:14.022716-03:00.hyperlinks.json) |
-| [September 16 at 10:14 PM](https://archive.org/download/poder360-2022/poder360-2022-09-16T22:14:17.689062-03:00.hyperlinks.json) |
-| [September 16 at 10:00 AM](https://archive.org/download/poder360-2022/poder360-2022-09-16T10:00:25.263377-03:00.hyperlinks.json) |
+| [September 27 at 11:09 AM](https://archive.org/download/poder360-2022/poder360-2022-09-27T11:09:14.626372-03:00.hyperlinks.json) |
+| [September 27 at 8:58 AM](https://archive.org/download/poder360-2022/poder360-2022-09-27T08:58:44.183265-03:00.hyperlinks.json) |
+| [September 26 at 11:16 PM](https://archive.org/download/poder360-2022/poder360-2022-09-26T23:16:25.131504-03:00.hyperlinks.json) |
+| [September 26 at 11:05 AM](https://archive.org/download/poder360-2022/poder360-2022-09-26T11:05:22.846431-03:00.hyperlinks.json) |
+| [September 26 at 9:07 AM](https://archive.org/download/poder360-2022/poder360-2022-09-26T09:06:59.575573-03:00.hyperlinks.json) |
+| [September 25 at 11:18 PM](https://archive.org/download/poder360-2022/poder360-2022-09-25T23:18:20.407978-03:00.hyperlinks.json) |
+| [September 25 at 10:53 AM](https://archive.org/download/poder360-2022/poder360-2022-09-25T10:53:14.264129-03:00.hyperlinks.json) |
+| [September 25 at 8:50 AM](https://archive.org/download/poder360-2022/poder360-2022-09-25T08:50:32.343278-03:00.hyperlinks.json) |
+| [September 24 at 11:12 PM](https://archive.org/download/poder360-2022/poder360-2022-09-24T23:12:02.613164-03:00.hyperlinks.json) |
+| [September 24 at 10:55 AM](https://archive.org/download/poder360-2022/poder360-2022-09-24T10:55:21.776537-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 122 accessibility trees with the Internet Archive.
+The archiving routine has saved 145 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 9:58 AM](https://archive.org/download/poder360-2022/poder360-2022-09-19T09:58:24.512707-03:00.accessibility.json) |
-| [September 19 at 9:01 AM](https://archive.org/download/poder360-2022/poder360-2022-09-19T09:01:07.946748-03:00.accessibility.json) |
-| [September 18 at 10:14 PM](https://archive.org/download/poder360-2022/poder360-2022-09-18T22:14:20.243619-03:00.accessibility.json) |
-| [September 18 at 9:59 AM](https://archive.org/download/poder360-2022/poder360-2022-09-18T09:59:30.069412-03:00.accessibility.json) |
-| [September 18 at 9:02 AM](https://archive.org/download/poder360-2022/poder360-2022-09-18T09:02:01.575129-03:00.accessibility.json) |
-| [September 17 at 10:20 PM](https://archive.org/download/poder360-2022/poder360-2022-09-17T22:20:10.977969-03:00.accessibility.json) |
-| [September 17 at 10:00 AM](https://archive.org/download/poder360-2022/poder360-2022-09-17T10:00:06.011042-03:00.accessibility.json) |
-| [September 17 at 9:03 AM](https://archive.org/download/poder360-2022/poder360-2022-09-17T09:03:14.022716-03:00.accessibility.json) |
-| [September 16 at 10:14 PM](https://archive.org/download/poder360-2022/poder360-2022-09-16T22:14:17.689062-03:00.accessibility.json) |
-| [September 16 at 10:00 AM](https://archive.org/download/poder360-2022/poder360-2022-09-16T10:00:25.263377-03:00.accessibility.json) |
+| [September 27 at 11:09 AM](https://archive.org/download/poder360-2022/poder360-2022-09-27T11:09:14.626372-03:00.accessibility.json) |
+| [September 27 at 8:58 AM](https://archive.org/download/poder360-2022/poder360-2022-09-27T08:58:44.183265-03:00.accessibility.json) |
+| [September 26 at 11:05 AM](https://archive.org/download/poder360-2022/poder360-2022-09-26T11:05:22.846431-03:00.accessibility.json) |
+| [September 26 at 9:07 AM](https://archive.org/download/poder360-2022/poder360-2022-09-26T09:06:59.575573-03:00.accessibility.json) |
+| [September 25 at 11:18 PM](https://archive.org/download/poder360-2022/poder360-2022-09-25T23:18:20.407978-03:00.accessibility.json) |
+| [September 25 at 10:53 AM](https://archive.org/download/poder360-2022/poder360-2022-09-25T10:53:14.264129-03:00.accessibility.json) |
+| [September 25 at 8:50 AM](https://archive.org/download/poder360-2022/poder360-2022-09-25T08:50:32.343278-03:00.accessibility.json) |
+| [September 24 at 11:12 PM](https://archive.org/download/poder360-2022/poder360-2022-09-24T23:12:02.613164-03:00.accessibility.json) |
+| [September 24 at 10:55 AM](https://archive.org/download/poder360-2022/poder360-2022-09-24T10:55:21.776537-03:00.accessibility.json) |
+| [September 24 at 8:52 AM](https://archive.org/download/poder360-2022/poder360-2022-09-24T08:51:57.302602-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 123 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 147 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 9:58 AM](https://archive.org/download/poder360-2022/poder360-2022-09-19T09:58:24.512707-03:00.lighthouse.json) |
-| [September 19 at 9:01 AM](https://archive.org/download/poder360-2022/poder360-2022-09-19T09:01:07.946748-03:00.lighthouse.json) |
-| [September 18 at 10:14 PM](https://archive.org/download/poder360-2022/poder360-2022-09-18T22:14:20.243619-03:00.lighthouse.json) |
-| [September 18 at 9:59 AM](https://archive.org/download/poder360-2022/poder360-2022-09-18T09:59:30.069412-03:00.lighthouse.json) |
-| [September 18 at 9:02 AM](https://archive.org/download/poder360-2022/poder360-2022-09-18T09:02:01.575129-03:00.lighthouse.json) |
-| [September 17 at 10:20 PM](https://archive.org/download/poder360-2022/poder360-2022-09-17T22:20:10.977969-03:00.lighthouse.json) |
-| [September 17 at 10:00 AM](https://archive.org/download/poder360-2022/poder360-2022-09-17T10:00:06.011042-03:00.lighthouse.json) |
-| [September 17 at 9:03 AM](https://archive.org/download/poder360-2022/poder360-2022-09-17T09:03:14.022716-03:00.lighthouse.json) |
-| [September 16 at 10:14 PM](https://archive.org/download/poder360-2022/poder360-2022-09-16T22:14:17.689062-03:00.lighthouse.json) |
-| [September 16 at 10:00 AM](https://archive.org/download/poder360-2022/poder360-2022-09-16T10:00:25.263377-03:00.lighthouse.json) |
+| [September 27 at 11:09 AM](https://archive.org/download/poder360-2022/poder360-2022-09-27T11:09:14.626372-03:00.lighthouse.json) |
+| [September 27 at 8:58 AM](https://archive.org/download/poder360-2022/poder360-2022-09-27T08:58:44.183265-03:00.lighthouse.json) |
+| [September 26 at 11:16 PM](https://archive.org/download/poder360-2022/poder360-2022-09-26T23:16:25.131504-03:00.lighthouse.json) |
+| [September 26 at 11:05 AM](https://archive.org/download/poder360-2022/poder360-2022-09-26T11:05:22.846431-03:00.lighthouse.json) |
+| [September 26 at 9:07 AM](https://archive.org/download/poder360-2022/poder360-2022-09-26T09:06:59.575573-03:00.lighthouse.json) |
+| [September 25 at 11:18 PM](https://archive.org/download/poder360-2022/poder360-2022-09-25T23:18:20.407978-03:00.lighthouse.json) |
+| [September 25 at 10:53 AM](https://archive.org/download/poder360-2022/poder360-2022-09-25T10:53:14.264129-03:00.lighthouse.json) |
+| [September 25 at 8:50 AM](https://archive.org/download/poder360-2022/poder360-2022-09-25T08:50:32.343278-03:00.lighthouse.json) |
+| [September 24 at 11:12 PM](https://archive.org/download/poder360-2022/poder360-2022-09-24T23:12:02.613164-03:00.lighthouse.json) |
+| [September 24 at 10:55 AM](https://archive.org/download/poder360-2022/poder360-2022-09-24T10:55:21.776537-03:00.lighthouse.json) |
 
 
 

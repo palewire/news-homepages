@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 12 screenshots with the Internet Archive.
+The archiving routine has saved 28 screenshots with the Internet Archive.
 
 
 
@@ -37,118 +37,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-19T08:56:29.712140-04:00.jpg">
-  <img src="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-19T08:56:29.712140-04:00.jpg"
-     alt="NBC Connecticut at 2022-09-19 08:56:31-04:00 local time"
+ <a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-27T10:07:00.381650-04:00.jpg">
+  <img src="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-27T10:07:00.381650-04:00.jpg"
+     alt="NBC Connecticut at 2022-09-27 10:07:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-19T08:56:29.712140-04:00.jpg">September 19 at 8:56 AM</a></p>
+ <p><a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-27T10:07:00.381650-04:00.jpg">September 27 at 10:07 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-18T21:12:40.471103-04:00.jpg">
-  <img src="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-18T21:12:40.471103-04:00.jpg"
-     alt="NBC Connecticut at 2022-09-18 21:12:41-04:00 local time"
+ <a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-26T22:14:31.900085-04:00.jpg">
+  <img src="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-26T22:14:31.900085-04:00.jpg"
+     alt="NBC Connecticut at 2022-09-26 22:14:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-18T21:12:40.471103-04:00.jpg">September 18 at 9:12 PM</a></p>
+ <p><a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-26T22:14:31.900085-04:00.jpg">September 26 at 10:14 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-18T08:57:27.515669-04:00.jpg">
-  <img src="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-18T08:57:27.515669-04:00.jpg"
-     alt="NBC Connecticut at 2022-09-18 08:57:29-04:00 local time"
+ <a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-26T10:03:05.601740-04:00.jpg">
+  <img src="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-26T10:03:05.601740-04:00.jpg"
+     alt="NBC Connecticut at 2022-09-26 10:03:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-18T08:57:27.515669-04:00.jpg">September 18 at 8:57 AM</a></p>
+ <p><a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-26T10:03:05.601740-04:00.jpg">September 26 at 10:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-17T21:17:44.801786-04:00.jpg">
-  <img src="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-17T21:17:44.801786-04:00.jpg"
-     alt="NBC Connecticut at 2022-09-17 21:17:46-04:00 local time"
+ <a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-25T22:15:54.713519-04:00.jpg">
+  <img src="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-25T22:15:54.713519-04:00.jpg"
+     alt="NBC Connecticut at 2022-09-25 22:15:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-17T21:17:44.801786-04:00.jpg">September 17 at 9:17 PM</a></p>
+ <p><a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-25T22:15:54.713519-04:00.jpg">September 25 at 10:15 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-17T08:57:52.937526-04:00.jpg">
-  <img src="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-17T08:57:52.937526-04:00.jpg"
-     alt="NBC Connecticut at 2022-09-17 08:57:55-04:00 local time"
+ <a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-25T09:50:56.698377-04:00.jpg">
+  <img src="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-25T09:50:56.698377-04:00.jpg"
+     alt="NBC Connecticut at 2022-09-25 09:50:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-17T08:57:52.937526-04:00.jpg">September 17 at 8:57 AM</a></p>
+ <p><a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-25T09:50:56.698377-04:00.jpg">September 25 at 9:50 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-16T21:11:26.315893-04:00.jpg">
-  <img src="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-16T21:11:26.315893-04:00.jpg"
-     alt="NBC Connecticut at 2022-09-16 21:11:28-04:00 local time"
+ <a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-24T22:10:17.087867-04:00.jpg">
+  <img src="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-24T22:10:17.087867-04:00.jpg"
+     alt="NBC Connecticut at 2022-09-24 22:10:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-16T21:11:26.315893-04:00.jpg">September 16 at 9:11 PM</a></p>
+ <p><a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-24T22:10:17.087867-04:00.jpg">September 24 at 10:10 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-16T08:58:59.607533-04:00.jpg">
-  <img src="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-16T08:58:59.607533-04:00.jpg"
-     alt="NBC Connecticut at 2022-09-16 08:59:00-04:00 local time"
+ <a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-24T09:53:50.606548-04:00.jpg">
+  <img src="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-24T09:53:50.606548-04:00.jpg"
+     alt="NBC Connecticut at 2022-09-24 09:53:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-16T08:58:59.607533-04:00.jpg">September 16 at 8:59 AM</a></p>
+ <p><a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-24T09:53:50.606548-04:00.jpg">September 24 at 9:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-15T21:13:55.451448-04:00.jpg">
-  <img src="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-15T21:13:55.451448-04:00.jpg"
-     alt="NBC Connecticut at 2022-09-15 21:13:57-04:00 local time"
+ <a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-23T22:15:02.025908-04:00.jpg">
+  <img src="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-23T22:15:02.025908-04:00.jpg"
+     alt="NBC Connecticut at 2022-09-23 22:15:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-15T21:13:55.451448-04:00.jpg">September 15 at 9:13 PM</a></p>
+ <p><a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-23T22:15:02.025908-04:00.jpg">September 23 at 10:15 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-15T09:01:06.782434-04:00.jpg">
-  <img src="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-15T09:01:06.782434-04:00.jpg"
-     alt="NBC Connecticut at 2022-09-15 09:01:08-04:00 local time"
+ <a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-23T10:01:44.758401-04:00.jpg">
+  <img src="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-23T10:01:44.758401-04:00.jpg"
+     alt="NBC Connecticut at 2022-09-23 10:01:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-15T09:01:06.782434-04:00.jpg">September 15 at 9:01 AM</a></p>
+ <p><a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-23T10:01:44.758401-04:00.jpg">September 23 at 10:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-14T21:17:33.907636-04:00.jpg">
-  <img src="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-14T21:17:33.907636-04:00.jpg"
-     alt="NBC Connecticut at 2022-09-14 21:17:35-04:00 local time"
+ <a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-22T22:17:57.862444-04:00.jpg">
+  <img src="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-22T22:17:57.862444-04:00.jpg"
+     alt="NBC Connecticut at 2022-09-22 22:18:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-14T21:17:33.907636-04:00.jpg">September 14 at 9:17 PM</a></p>
+ <p><a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-22T22:17:57.862444-04:00.jpg">September 22 at 10:18 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-14T09:05:01.758201-04:00.jpg">
-  <img src="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-14T09:05:01.758201-04:00.jpg"
-     alt="NBC Connecticut at 2022-09-14 09:05:04-04:00 local time"
+ <a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-22T10:05:25.137489-04:00.jpg">
+  <img src="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-22T10:05:25.137489-04:00.jpg"
+     alt="NBC Connecticut at 2022-09-22 10:05:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-14T09:05:01.758201-04:00.jpg">September 14 at 9:05 AM</a></p>
+ <p><a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-22T10:05:25.137489-04:00.jpg">September 22 at 10:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-13T21:20:10.492299-04:00.jpg">
-  <img src="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-13T21:20:10.492299-04:00.jpg"
-     alt="NBC Connecticut at 2022-09-13 21:20:16-04:00 local time"
+ <a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-21T22:14:46.472085-04:00.jpg">
+  <img src="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-21T22:14:46.472085-04:00.jpg"
+     alt="NBC Connecticut at 2022-09-21 22:14:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-13T21:20:10.492299-04:00.jpg">September 13 at 9:20 PM</a></p>
+ <p><a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-21T22:14:46.472085-04:00.jpg">September 21 at 10:14 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 12 hyperlink lists with the Internet Archive.
+The archiving routine has saved 28 hyperlink lists with the Internet Archive.
 
 
 
@@ -156,21 +156,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 8:56 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-19T08:56:29.712140-04:00.hyperlinks.json) |
-| [September 18 at 9:12 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-18T21:12:40.471103-04:00.hyperlinks.json) |
-| [September 18 at 8:57 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-18T08:57:27.515669-04:00.hyperlinks.json) |
-| [September 17 at 9:17 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-17T21:17:44.801786-04:00.hyperlinks.json) |
-| [September 17 at 8:57 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-17T08:57:52.937526-04:00.hyperlinks.json) |
-| [September 16 at 9:11 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-16T21:11:26.315893-04:00.hyperlinks.json) |
-| [September 16 at 8:59 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-16T08:58:59.607533-04:00.hyperlinks.json) |
-| [September 15 at 9:14 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-15T21:13:55.451448-04:00.hyperlinks.json) |
-| [September 15 at 9:01 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-15T09:01:06.782434-04:00.hyperlinks.json) |
-| [September 14 at 9:17 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-14T21:17:33.907636-04:00.hyperlinks.json) |
+| [September 27 at 10:07 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-27T10:07:00.381650-04:00.hyperlinks.json) |
+| [September 26 at 10:14 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-26T22:14:31.900085-04:00.hyperlinks.json) |
+| [September 26 at 10:03 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-26T10:03:05.601740-04:00.hyperlinks.json) |
+| [September 25 at 10:15 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-25T22:15:54.713519-04:00.hyperlinks.json) |
+| [September 25 at 9:51 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-25T09:50:56.698377-04:00.hyperlinks.json) |
+| [September 24 at 10:10 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-24T22:10:17.087867-04:00.hyperlinks.json) |
+| [September 24 at 9:53 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-24T09:53:50.606548-04:00.hyperlinks.json) |
+| [September 23 at 10:15 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-23T22:15:02.025908-04:00.hyperlinks.json) |
+| [September 23 at 10:01 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-23T10:01:44.758401-04:00.hyperlinks.json) |
+| [September 22 at 10:18 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-22T22:17:57.862444-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 12 accessibility trees with the Internet Archive.
+The archiving routine has saved 28 accessibility trees with the Internet Archive.
 
 
 
@@ -178,22 +178,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 8:56 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-19T08:56:29.712140-04:00.accessibility.json) |
-| [September 18 at 9:12 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-18T21:12:40.471103-04:00.accessibility.json) |
-| [September 18 at 8:57 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-18T08:57:27.515669-04:00.accessibility.json) |
-| [September 17 at 9:17 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-17T21:17:44.801786-04:00.accessibility.json) |
-| [September 17 at 8:57 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-17T08:57:52.937526-04:00.accessibility.json) |
-| [September 16 at 9:11 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-16T21:11:26.315893-04:00.accessibility.json) |
-| [September 16 at 8:59 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-16T08:58:59.607533-04:00.accessibility.json) |
-| [September 15 at 9:13 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-15T21:13:55.451448-04:00.accessibility.json) |
-| [September 15 at 9:01 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-15T09:01:06.782434-04:00.accessibility.json) |
-| [September 14 at 9:17 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-14T21:17:33.907636-04:00.accessibility.json) |
+| [September 27 at 10:07 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-27T10:07:00.381650-04:00.accessibility.json) |
+| [September 26 at 10:14 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-26T22:14:31.900085-04:00.accessibility.json) |
+| [September 26 at 10:03 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-26T10:03:05.601740-04:00.accessibility.json) |
+| [September 25 at 10:15 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-25T22:15:54.713519-04:00.accessibility.json) |
+| [September 25 at 9:51 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-25T09:50:56.698377-04:00.accessibility.json) |
+| [September 24 at 10:10 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-24T22:10:17.087867-04:00.accessibility.json) |
+| [September 24 at 9:53 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-24T09:53:50.606548-04:00.accessibility.json) |
+| [September 23 at 10:15 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-23T22:15:02.025908-04:00.accessibility.json) |
+| [September 23 at 10:01 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-23T10:01:44.758401-04:00.accessibility.json) |
+| [September 22 at 10:18 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-22T22:17:57.862444-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
 
 
 
@@ -201,16 +201,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 8:56 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-19T08:56:29.712140-04:00.lighthouse.json) |
-| [September 18 at 9:12 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-18T21:12:40.471103-04:00.lighthouse.json) |
-| [September 18 at 8:57 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-18T08:57:27.515669-04:00.lighthouse.json) |
-| [September 17 at 9:17 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-17T21:17:44.801786-04:00.lighthouse.json) |
-| [September 17 at 8:58 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-17T08:57:52.937526-04:00.lighthouse.json) |
-| [September 16 at 9:11 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-16T21:11:26.315893-04:00.lighthouse.json) |
-| [September 16 at 8:59 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-16T08:58:59.607533-04:00.lighthouse.json) |
-| [September 15 at 9:14 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-15T21:13:55.451448-04:00.lighthouse.json) |
-| [September 15 at 9:01 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-15T09:01:06.782434-04:00.lighthouse.json) |
-| [September 14 at 9:17 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-14T21:17:33.907636-04:00.lighthouse.json) |
+| [September 27 at 10:07 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-27T10:07:00.381650-04:00.lighthouse.json) |
+| [September 26 at 10:14 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-26T22:14:31.900085-04:00.lighthouse.json) |
+| [September 26 at 10:03 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-26T10:03:05.601740-04:00.lighthouse.json) |
+| [September 25 at 10:16 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-25T22:15:54.713519-04:00.lighthouse.json) |
+| [September 25 at 9:51 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-25T09:50:56.698377-04:00.lighthouse.json) |
+| [September 24 at 10:10 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-24T22:10:17.087867-04:00.lighthouse.json) |
+| [September 24 at 9:53 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-24T09:53:50.606548-04:00.lighthouse.json) |
+| [September 23 at 10:15 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-23T22:15:02.025908-04:00.lighthouse.json) |
+| [September 23 at 10:01 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-23T10:01:44.758401-04:00.lighthouse.json) |
+| [September 22 at 10:18 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-22T22:17:57.862444-04:00.lighthouse.json) |
 
 
 

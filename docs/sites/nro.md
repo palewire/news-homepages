@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 368 screenshots with the Internet Archive.
+The archiving routine has saved 390 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/nro-2022/nro-2022-09-19T14:35:52.556632-04:00.jpg">
-  <img src="https://archive.org/download/nro-2022/nro-2022-09-19T14:35:52.556632-04:00.jpg"
-     alt="National Review at 2022-09-19 14:35:54-04:00 local time"
+ <a href="https://archive.org/download/nro-2022/nro-2022-09-27T10:06:35.232008-04:00.jpg">
+  <img src="https://archive.org/download/nro-2022/nro-2022-09-27T10:06:35.232008-04:00.jpg"
+     alt="National Review at 2022-09-27 10:06:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-09-19T14:35:52.556632-04:00.jpg">September 19 at 2:35 PM</a></p>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-09-27T10:06:35.232008-04:00.jpg">September 27 at 10:06 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nro-2022/nro-2022-09-19T08:58:16.565178-04:00.jpg">
-  <img src="https://archive.org/download/nro-2022/nro-2022-09-19T08:58:16.565178-04:00.jpg"
-     alt="National Review at 2022-09-19 08:58:24-04:00 local time"
+ <a href="https://archive.org/download/nro-2022/nro-2022-09-26T22:14:56.831847-04:00.jpg">
+  <img src="https://archive.org/download/nro-2022/nro-2022-09-26T22:14:56.831847-04:00.jpg"
+     alt="National Review at 2022-09-26 22:15:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-09-19T08:58:16.565178-04:00.jpg">September 19 at 8:58 AM</a></p>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-09-26T22:14:56.831847-04:00.jpg">September 26 at 10:15 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nro-2022/nro-2022-09-18T21:14:21.207425-04:00.jpg">
-  <img src="https://archive.org/download/nro-2022/nro-2022-09-18T21:14:21.207425-04:00.jpg"
-     alt="National Review at 2022-09-18 21:14:32-04:00 local time"
+ <a href="https://archive.org/download/nro-2022/nro-2022-09-26T15:48:08.660687-04:00.jpg">
+  <img src="https://archive.org/download/nro-2022/nro-2022-09-26T15:48:08.660687-04:00.jpg"
+     alt="National Review at 2022-09-26 15:48:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-09-18T21:14:21.207425-04:00.jpg">September 18 at 9:14 PM</a></p>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-09-26T15:48:08.660687-04:00.jpg">September 26 at 3:48 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nro-2022/nro-2022-09-18T14:32:08.799439-04:00.jpg">
-  <img src="https://archive.org/download/nro-2022/nro-2022-09-18T14:32:08.799439-04:00.jpg"
-     alt="National Review at 2022-09-18 14:32:10-04:00 local time"
+ <a href="https://archive.org/download/nro-2022/nro-2022-09-26T10:03:24.974814-04:00.jpg">
+  <img src="https://archive.org/download/nro-2022/nro-2022-09-26T10:03:24.974814-04:00.jpg"
+     alt="National Review at 2022-09-26 10:03:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-09-18T14:32:08.799439-04:00.jpg">September 18 at 2:32 PM</a></p>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-09-26T10:03:24.974814-04:00.jpg">September 26 at 10:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nro-2022/nro-2022-09-18T08:59:28.614372-04:00.jpg">
-  <img src="https://archive.org/download/nro-2022/nro-2022-09-18T08:59:28.614372-04:00.jpg"
-     alt="National Review at 2022-09-18 08:59:40-04:00 local time"
+ <a href="https://archive.org/download/nro-2022/nro-2022-09-25T22:15:55.650439-04:00.jpg">
+  <img src="https://archive.org/download/nro-2022/nro-2022-09-25T22:15:55.650439-04:00.jpg"
+     alt="National Review at 2022-09-25 22:16:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-09-18T08:59:28.614372-04:00.jpg">September 18 at 8:59 AM</a></p>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-09-25T22:15:55.650439-04:00.jpg">September 25 at 10:16 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nro-2022/nro-2022-09-17T21:20:40.590551-04:00.jpg">
-  <img src="https://archive.org/download/nro-2022/nro-2022-09-17T21:20:40.590551-04:00.jpg"
-     alt="National Review at 2022-09-17 21:20:51-04:00 local time"
+ <a href="https://archive.org/download/nro-2022/nro-2022-09-25T15:08:06.839467-04:00.jpg">
+  <img src="https://archive.org/download/nro-2022/nro-2022-09-25T15:08:06.839467-04:00.jpg"
+     alt="National Review at 2022-09-25 15:08:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-09-17T21:20:40.590551-04:00.jpg">September 17 at 9:20 PM</a></p>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-09-25T15:08:06.839467-04:00.jpg">September 25 at 3:08 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nro-2022/nro-2022-09-17T14:33:59.507962-04:00.jpg">
-  <img src="https://archive.org/download/nro-2022/nro-2022-09-17T14:33:59.507962-04:00.jpg"
-     alt="National Review at 2022-09-17 14:34:06-04:00 local time"
+ <a href="https://archive.org/download/nro-2022/nro-2022-09-25T09:51:23.792748-04:00.jpg">
+  <img src="https://archive.org/download/nro-2022/nro-2022-09-25T09:51:23.792748-04:00.jpg"
+     alt="National Review at 2022-09-25 09:51:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-09-17T14:33:59.507962-04:00.jpg">September 17 at 2:34 PM</a></p>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-09-25T09:51:23.792748-04:00.jpg">September 25 at 9:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nro-2022/nro-2022-09-17T08:59:59.133851-04:00.jpg">
-  <img src="https://archive.org/download/nro-2022/nro-2022-09-17T08:59:59.133851-04:00.jpg"
-     alt="National Review at 2022-09-17 09:00:01-04:00 local time"
+ <a href="https://archive.org/download/nro-2022/nro-2022-09-24T22:10:21.921135-04:00.jpg">
+  <img src="https://archive.org/download/nro-2022/nro-2022-09-24T22:10:21.921135-04:00.jpg"
+     alt="National Review at 2022-09-24 22:10:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-09-17T08:59:59.133851-04:00.jpg">September 17 at 9:00 AM</a></p>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-09-24T22:10:21.921135-04:00.jpg">September 24 at 10:10 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nro-2022/nro-2022-09-16T21:14:03.560834-04:00.jpg">
-  <img src="https://archive.org/download/nro-2022/nro-2022-09-16T21:14:03.560834-04:00.jpg"
-     alt="National Review at 2022-09-16 21:14:09-04:00 local time"
+ <a href="https://archive.org/download/nro-2022/nro-2022-09-24T15:02:49.635928-04:00.jpg">
+  <img src="https://archive.org/download/nro-2022/nro-2022-09-24T15:02:49.635928-04:00.jpg"
+     alt="National Review at 2022-09-24 15:02:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-09-16T21:14:03.560834-04:00.jpg">September 16 at 9:14 PM</a></p>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-09-24T15:02:49.635928-04:00.jpg">September 24 at 3:02 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nro-2022/nro-2022-09-16T14:33:29.899078-04:00.jpg">
-  <img src="https://archive.org/download/nro-2022/nro-2022-09-16T14:33:29.899078-04:00.jpg"
-     alt="National Review at 2022-09-16 14:33:39-04:00 local time"
+ <a href="https://archive.org/download/nro-2022/nro-2022-09-24T09:54:09.676300-04:00.jpg">
+  <img src="https://archive.org/download/nro-2022/nro-2022-09-24T09:54:09.676300-04:00.jpg"
+     alt="National Review at 2022-09-24 09:54:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-09-16T14:33:29.899078-04:00.jpg">September 16 at 2:33 PM</a></p>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-09-24T09:54:09.676300-04:00.jpg">September 24 at 9:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nro-2022/nro-2022-09-16T09:01:02.961005-04:00.jpg">
-  <img src="https://archive.org/download/nro-2022/nro-2022-09-16T09:01:02.961005-04:00.jpg"
-     alt="National Review at 2022-09-16 09:01:15-04:00 local time"
+ <a href="https://archive.org/download/nro-2022/nro-2022-09-23T22:15:17.810679-04:00.jpg">
+  <img src="https://archive.org/download/nro-2022/nro-2022-09-23T22:15:17.810679-04:00.jpg"
+     alt="National Review at 2022-09-23 22:15:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-09-16T09:01:02.961005-04:00.jpg">September 16 at 9:01 AM</a></p>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-09-23T22:15:17.810679-04:00.jpg">September 23 at 10:15 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nro-2022/nro-2022-09-15T21:16:17.633908-04:00.jpg">
-  <img src="https://archive.org/download/nro-2022/nro-2022-09-15T21:16:17.633908-04:00.jpg"
-     alt="National Review at 2022-09-15 21:16:26-04:00 local time"
+ <a href="https://archive.org/download/nro-2022/nro-2022-09-23T15:27:31.006659-04:00.jpg">
+  <img src="https://archive.org/download/nro-2022/nro-2022-09-23T15:27:31.006659-04:00.jpg"
+     alt="National Review at 2022-09-23 15:27:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-09-15T21:16:17.633908-04:00.jpg">September 15 at 9:16 PM</a></p>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-09-23T15:27:31.006659-04:00.jpg">September 23 at 3:27 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 346 hyperlink lists with the Internet Archive.
+The archiving routine has saved 368 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 2:35 PM](https://archive.org/download/nro-2022/nro-2022-09-19T14:35:52.556632-04:00.hyperlinks.json) |
-| [September 19 at 8:58 AM](https://archive.org/download/nro-2022/nro-2022-09-19T08:58:16.565178-04:00.hyperlinks.json) |
-| [September 18 at 9:14 PM](https://archive.org/download/nro-2022/nro-2022-09-18T21:14:21.207425-04:00.hyperlinks.json) |
-| [September 18 at 2:32 PM](https://archive.org/download/nro-2022/nro-2022-09-18T14:32:08.799439-04:00.hyperlinks.json) |
-| [September 18 at 8:59 AM](https://archive.org/download/nro-2022/nro-2022-09-18T08:59:28.614372-04:00.hyperlinks.json) |
-| [September 17 at 9:20 PM](https://archive.org/download/nro-2022/nro-2022-09-17T21:20:40.590551-04:00.hyperlinks.json) |
-| [September 17 at 2:34 PM](https://archive.org/download/nro-2022/nro-2022-09-17T14:33:59.507962-04:00.hyperlinks.json) |
-| [September 17 at 9:00 AM](https://archive.org/download/nro-2022/nro-2022-09-17T08:59:59.133851-04:00.hyperlinks.json) |
-| [September 16 at 9:14 PM](https://archive.org/download/nro-2022/nro-2022-09-16T21:14:03.560834-04:00.hyperlinks.json) |
-| [September 16 at 2:33 PM](https://archive.org/download/nro-2022/nro-2022-09-16T14:33:29.899078-04:00.hyperlinks.json) |
+| [September 27 at 10:06 AM](https://archive.org/download/nro-2022/nro-2022-09-27T10:06:35.232008-04:00.hyperlinks.json) |
+| [September 26 at 10:15 PM](https://archive.org/download/nro-2022/nro-2022-09-26T22:14:56.831847-04:00.hyperlinks.json) |
+| [September 26 at 3:48 PM](https://archive.org/download/nro-2022/nro-2022-09-26T15:48:08.660687-04:00.hyperlinks.json) |
+| [September 26 at 10:03 AM](https://archive.org/download/nro-2022/nro-2022-09-26T10:03:24.974814-04:00.hyperlinks.json) |
+| [September 25 at 10:16 PM](https://archive.org/download/nro-2022/nro-2022-09-25T22:15:55.650439-04:00.hyperlinks.json) |
+| [September 25 at 3:08 PM](https://archive.org/download/nro-2022/nro-2022-09-25T15:08:06.839467-04:00.hyperlinks.json) |
+| [September 25 at 9:51 AM](https://archive.org/download/nro-2022/nro-2022-09-25T09:51:23.792748-04:00.hyperlinks.json) |
+| [September 24 at 10:10 PM](https://archive.org/download/nro-2022/nro-2022-09-24T22:10:21.921135-04:00.hyperlinks.json) |
+| [September 24 at 3:02 PM](https://archive.org/download/nro-2022/nro-2022-09-24T15:02:49.635928-04:00.hyperlinks.json) |
+| [September 24 at 9:54 AM](https://archive.org/download/nro-2022/nro-2022-09-24T09:54:09.676300-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 356 accessibility trees with the Internet Archive.
+The archiving routine has saved 378 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 2:35 PM](https://archive.org/download/nro-2022/nro-2022-09-19T14:35:52.556632-04:00.accessibility.json) |
-| [September 19 at 8:58 AM](https://archive.org/download/nro-2022/nro-2022-09-19T08:58:16.565178-04:00.accessibility.json) |
-| [September 18 at 9:14 PM](https://archive.org/download/nro-2022/nro-2022-09-18T21:14:21.207425-04:00.accessibility.json) |
-| [September 18 at 2:32 PM](https://archive.org/download/nro-2022/nro-2022-09-18T14:32:08.799439-04:00.accessibility.json) |
-| [September 18 at 8:59 AM](https://archive.org/download/nro-2022/nro-2022-09-18T08:59:28.614372-04:00.accessibility.json) |
-| [September 17 at 9:20 PM](https://archive.org/download/nro-2022/nro-2022-09-17T21:20:40.590551-04:00.accessibility.json) |
-| [September 17 at 2:34 PM](https://archive.org/download/nro-2022/nro-2022-09-17T14:33:59.507962-04:00.accessibility.json) |
-| [September 17 at 9:00 AM](https://archive.org/download/nro-2022/nro-2022-09-17T08:59:59.133851-04:00.accessibility.json) |
-| [September 16 at 9:14 PM](https://archive.org/download/nro-2022/nro-2022-09-16T21:14:03.560834-04:00.accessibility.json) |
-| [September 16 at 2:33 PM](https://archive.org/download/nro-2022/nro-2022-09-16T14:33:29.899078-04:00.accessibility.json) |
+| [September 27 at 10:06 AM](https://archive.org/download/nro-2022/nro-2022-09-27T10:06:35.232008-04:00.accessibility.json) |
+| [September 26 at 10:15 PM](https://archive.org/download/nro-2022/nro-2022-09-26T22:14:56.831847-04:00.accessibility.json) |
+| [September 26 at 3:48 PM](https://archive.org/download/nro-2022/nro-2022-09-26T15:48:08.660687-04:00.accessibility.json) |
+| [September 26 at 10:03 AM](https://archive.org/download/nro-2022/nro-2022-09-26T10:03:24.974814-04:00.accessibility.json) |
+| [September 25 at 10:16 PM](https://archive.org/download/nro-2022/nro-2022-09-25T22:15:55.650439-04:00.accessibility.json) |
+| [September 25 at 3:08 PM](https://archive.org/download/nro-2022/nro-2022-09-25T15:08:06.839467-04:00.accessibility.json) |
+| [September 25 at 9:51 AM](https://archive.org/download/nro-2022/nro-2022-09-25T09:51:23.792748-04:00.accessibility.json) |
+| [September 24 at 10:10 PM](https://archive.org/download/nro-2022/nro-2022-09-24T22:10:21.921135-04:00.accessibility.json) |
+| [September 24 at 3:02 PM](https://archive.org/download/nro-2022/nro-2022-09-24T15:02:49.635928-04:00.accessibility.json) |
+| [September 24 at 9:54 AM](https://archive.org/download/nro-2022/nro-2022-09-24T09:54:09.676300-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 170 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 192 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 2:36 PM](https://archive.org/download/nro-2022/nro-2022-09-19T14:35:52.556632-04:00.lighthouse.json) |
-| [September 19 at 8:58 AM](https://archive.org/download/nro-2022/nro-2022-09-19T08:58:16.565178-04:00.lighthouse.json) |
-| [September 18 at 9:14 PM](https://archive.org/download/nro-2022/nro-2022-09-18T21:14:21.207425-04:00.lighthouse.json) |
-| [September 18 at 2:32 PM](https://archive.org/download/nro-2022/nro-2022-09-18T14:32:08.799439-04:00.lighthouse.json) |
-| [September 18 at 8:59 AM](https://archive.org/download/nro-2022/nro-2022-09-18T08:59:28.614372-04:00.lighthouse.json) |
-| [September 17 at 9:20 PM](https://archive.org/download/nro-2022/nro-2022-09-17T21:20:40.590551-04:00.lighthouse.json) |
-| [September 17 at 2:34 PM](https://archive.org/download/nro-2022/nro-2022-09-17T14:33:59.507962-04:00.lighthouse.json) |
-| [September 17 at 9:00 AM](https://archive.org/download/nro-2022/nro-2022-09-17T08:59:59.133851-04:00.lighthouse.json) |
-| [September 16 at 9:14 PM](https://archive.org/download/nro-2022/nro-2022-09-16T21:14:03.560834-04:00.lighthouse.json) |
-| [September 16 at 2:33 PM](https://archive.org/download/nro-2022/nro-2022-09-16T14:33:29.899078-04:00.lighthouse.json) |
+| [September 27 at 10:06 AM](https://archive.org/download/nro-2022/nro-2022-09-27T10:06:35.232008-04:00.lighthouse.json) |
+| [September 26 at 10:15 PM](https://archive.org/download/nro-2022/nro-2022-09-26T22:14:56.831847-04:00.lighthouse.json) |
+| [September 26 at 3:48 PM](https://archive.org/download/nro-2022/nro-2022-09-26T15:48:08.660687-04:00.lighthouse.json) |
+| [September 26 at 10:03 AM](https://archive.org/download/nro-2022/nro-2022-09-26T10:03:24.974814-04:00.lighthouse.json) |
+| [September 25 at 10:16 PM](https://archive.org/download/nro-2022/nro-2022-09-25T22:15:55.650439-04:00.lighthouse.json) |
+| [September 25 at 3:08 PM](https://archive.org/download/nro-2022/nro-2022-09-25T15:08:06.839467-04:00.lighthouse.json) |
+| [September 25 at 9:51 AM](https://archive.org/download/nro-2022/nro-2022-09-25T09:51:23.792748-04:00.lighthouse.json) |
+| [September 24 at 10:10 PM](https://archive.org/download/nro-2022/nro-2022-09-24T22:10:21.921135-04:00.lighthouse.json) |
+| [September 24 at 3:02 PM](https://archive.org/download/nro-2022/nro-2022-09-24T15:02:49.635928-04:00.lighthouse.json) |
+| [September 24 at 9:54 AM](https://archive.org/download/nro-2022/nro-2022-09-24T09:54:09.676300-04:00.lighthouse.json) |
 
 
 

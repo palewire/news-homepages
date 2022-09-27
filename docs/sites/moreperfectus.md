@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 172 screenshots with the Internet Archive.
+The archiving routine has saved 194 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-19T14:33:38.940245-04:00.jpg">
-  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-19T14:33:38.940245-04:00.jpg"
-     alt="More Perfect Union at 2022-09-19 14:33:50-04:00 local time"
+ <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-27T10:06:33.571603-04:00.jpg">
+  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-27T10:06:33.571603-04:00.jpg"
+     alt="More Perfect Union at 2022-09-27 10:06:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-19T14:33:38.940245-04:00.jpg">September 19 at 2:33 PM</a></p>
+ <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-27T10:06:33.571603-04:00.jpg">September 27 at 10:06 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-19T08:56:06.894639-04:00.jpg">
-  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-19T08:56:06.894639-04:00.jpg"
-     alt="More Perfect Union at 2022-09-19 08:56:16-04:00 local time"
+ <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-26T22:13:54.172222-04:00.jpg">
+  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-26T22:13:54.172222-04:00.jpg"
+     alt="More Perfect Union at 2022-09-26 22:13:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-19T08:56:06.894639-04:00.jpg">September 19 at 8:56 AM</a></p>
+ <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-26T22:13:54.172222-04:00.jpg">September 26 at 10:13 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-18T21:12:09.368389-04:00.jpg">
-  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-18T21:12:09.368389-04:00.jpg"
-     alt="More Perfect Union at 2022-09-18 21:12:15-04:00 local time"
+ <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-26T15:49:12.710037-04:00.jpg">
+  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-26T15:49:12.710037-04:00.jpg"
+     alt="More Perfect Union at 2022-09-26 15:49:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-18T21:12:09.368389-04:00.jpg">September 18 at 9:12 PM</a></p>
+ <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-26T15:49:12.710037-04:00.jpg">September 26 at 3:49 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-18T14:30:19.670224-04:00.jpg">
-  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-18T14:30:19.670224-04:00.jpg"
-     alt="More Perfect Union at 2022-09-18 14:30:21-04:00 local time"
+ <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-26T10:03:18.281047-04:00.jpg">
+  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-26T10:03:18.281047-04:00.jpg"
+     alt="More Perfect Union at 2022-09-26 10:03:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-18T14:30:19.670224-04:00.jpg">September 18 at 2:30 PM</a></p>
+ <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-26T10:03:18.281047-04:00.jpg">September 26 at 10:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-18T08:57:26.539150-04:00.jpg">
-  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-18T08:57:26.539150-04:00.jpg"
-     alt="More Perfect Union at 2022-09-18 08:57:28-04:00 local time"
+ <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-25T22:15:22.068458-04:00.jpg">
+  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-25T22:15:22.068458-04:00.jpg"
+     alt="More Perfect Union at 2022-09-25 22:15:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-18T08:57:26.539150-04:00.jpg">September 18 at 8:57 AM</a></p>
+ <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-25T22:15:22.068458-04:00.jpg">September 25 at 10:15 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-17T21:17:39.269149-04:00.jpg">
-  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-17T21:17:39.269149-04:00.jpg"
-     alt="More Perfect Union at 2022-09-17 21:17:41-04:00 local time"
+ <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-25T15:05:02.122738-04:00.jpg">
+  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-25T15:05:02.122738-04:00.jpg"
+     alt="More Perfect Union at 2022-09-25 15:05:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-17T21:17:39.269149-04:00.jpg">September 17 at 9:17 PM</a></p>
+ <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-25T15:05:02.122738-04:00.jpg">September 25 at 3:05 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-17T14:32:04.254114-04:00.jpg">
-  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-17T14:32:04.254114-04:00.jpg"
-     alt="More Perfect Union at 2022-09-17 14:32:06-04:00 local time"
+ <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-25T09:50:41.077159-04:00.jpg">
+  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-25T09:50:41.077159-04:00.jpg"
+     alt="More Perfect Union at 2022-09-25 09:50:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-17T14:32:04.254114-04:00.jpg">September 17 at 2:32 PM</a></p>
+ <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-25T09:50:41.077159-04:00.jpg">September 25 at 9:50 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-17T08:58:20.509706-04:00.jpg">
-  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-17T08:58:20.509706-04:00.jpg"
-     alt="More Perfect Union at 2022-09-17 08:58:29-04:00 local time"
+ <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-24T22:10:14.294530-04:00.jpg">
+  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-24T22:10:14.294530-04:00.jpg"
+     alt="More Perfect Union at 2022-09-24 22:10:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-17T08:58:20.509706-04:00.jpg">September 17 at 8:58 AM</a></p>
+ <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-24T22:10:14.294530-04:00.jpg">September 24 at 10:10 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-16T21:12:17.401513-04:00.jpg">
-  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-16T21:12:17.401513-04:00.jpg"
-     alt="More Perfect Union at 2022-09-16 21:12:18-04:00 local time"
+ <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-24T15:01:45.847483-04:00.jpg">
+  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-24T15:01:45.847483-04:00.jpg"
+     alt="More Perfect Union at 2022-09-24 15:01:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-16T21:12:17.401513-04:00.jpg">September 16 at 9:12 PM</a></p>
+ <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-24T15:01:45.847483-04:00.jpg">September 24 at 3:01 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-16T14:32:08.600036-04:00.jpg">
-  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-16T14:32:08.600036-04:00.jpg"
-     alt="More Perfect Union at 2022-09-16 14:32:10-04:00 local time"
+ <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-24T09:53:36.065378-04:00.jpg">
+  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-24T09:53:36.065378-04:00.jpg"
+     alt="More Perfect Union at 2022-09-24 09:53:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-16T14:32:08.600036-04:00.jpg">September 16 at 2:32 PM</a></p>
+ <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-24T09:53:36.065378-04:00.jpg">September 24 at 9:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-16T08:58:17.791268-04:00.jpg">
-  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-16T08:58:17.791268-04:00.jpg"
-     alt="More Perfect Union at 2022-09-16 08:58:19-04:00 local time"
+ <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-23T22:15:19.509766-04:00.jpg">
+  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-23T22:15:19.509766-04:00.jpg"
+     alt="More Perfect Union at 2022-09-23 22:15:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-16T08:58:17.791268-04:00.jpg">September 16 at 8:58 AM</a></p>
+ <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-23T22:15:19.509766-04:00.jpg">September 23 at 10:15 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-15T21:14:47.415992-04:00.jpg">
-  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-15T21:14:47.415992-04:00.jpg"
-     alt="More Perfect Union at 2022-09-15 21:14:59-04:00 local time"
+ <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-23T15:23:33.241871-04:00.jpg">
+  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-23T15:23:33.241871-04:00.jpg"
+     alt="More Perfect Union at 2022-09-23 15:23:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-15T21:14:47.415992-04:00.jpg">September 15 at 9:14 PM</a></p>
+ <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-23T15:23:33.241871-04:00.jpg">September 23 at 3:23 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 172 hyperlink lists with the Internet Archive.
+The archiving routine has saved 194 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 2:33 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-19T14:33:38.940245-04:00.hyperlinks.json) |
-| [September 19 at 8:56 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-19T08:56:06.894639-04:00.hyperlinks.json) |
-| [September 18 at 9:12 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-18T21:12:09.368389-04:00.hyperlinks.json) |
-| [September 18 at 2:30 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-18T14:30:19.670224-04:00.hyperlinks.json) |
-| [September 18 at 8:57 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-18T08:57:26.539150-04:00.hyperlinks.json) |
-| [September 17 at 9:17 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-17T21:17:39.269149-04:00.hyperlinks.json) |
-| [September 17 at 2:32 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-17T14:32:04.254114-04:00.hyperlinks.json) |
-| [September 17 at 8:58 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-17T08:58:20.509706-04:00.hyperlinks.json) |
-| [September 16 at 9:12 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-16T21:12:17.401513-04:00.hyperlinks.json) |
-| [September 16 at 2:32 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-16T14:32:08.600036-04:00.hyperlinks.json) |
+| [September 27 at 10:06 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-27T10:06:33.571603-04:00.hyperlinks.json) |
+| [September 26 at 10:14 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-26T22:13:54.172222-04:00.hyperlinks.json) |
+| [September 26 at 3:49 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-26T15:49:12.710037-04:00.hyperlinks.json) |
+| [September 26 at 10:03 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-26T10:03:18.281047-04:00.hyperlinks.json) |
+| [September 25 at 10:15 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-25T22:15:22.068458-04:00.hyperlinks.json) |
+| [September 25 at 3:05 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-25T15:05:02.122738-04:00.hyperlinks.json) |
+| [September 25 at 9:50 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-25T09:50:41.077159-04:00.hyperlinks.json) |
+| [September 24 at 10:10 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-24T22:10:14.294530-04:00.hyperlinks.json) |
+| [September 24 at 3:01 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-24T15:01:45.847483-04:00.hyperlinks.json) |
+| [September 24 at 9:53 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-24T09:53:36.065378-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 172 accessibility trees with the Internet Archive.
+The archiving routine has saved 194 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 2:33 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-19T14:33:38.940245-04:00.accessibility.json) |
-| [September 19 at 8:56 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-19T08:56:06.894639-04:00.accessibility.json) |
-| [September 18 at 9:12 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-18T21:12:09.368389-04:00.accessibility.json) |
-| [September 18 at 2:30 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-18T14:30:19.670224-04:00.accessibility.json) |
-| [September 18 at 8:57 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-18T08:57:26.539150-04:00.accessibility.json) |
-| [September 17 at 9:17 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-17T21:17:39.269149-04:00.accessibility.json) |
-| [September 17 at 2:32 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-17T14:32:04.254114-04:00.accessibility.json) |
-| [September 17 at 8:58 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-17T08:58:20.509706-04:00.accessibility.json) |
-| [September 16 at 9:12 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-16T21:12:17.401513-04:00.accessibility.json) |
-| [September 16 at 2:32 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-16T14:32:08.600036-04:00.accessibility.json) |
+| [September 27 at 10:06 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-27T10:06:33.571603-04:00.accessibility.json) |
+| [September 26 at 10:14 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-26T22:13:54.172222-04:00.accessibility.json) |
+| [September 26 at 3:49 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-26T15:49:12.710037-04:00.accessibility.json) |
+| [September 26 at 10:03 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-26T10:03:18.281047-04:00.accessibility.json) |
+| [September 25 at 10:15 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-25T22:15:22.068458-04:00.accessibility.json) |
+| [September 25 at 3:05 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-25T15:05:02.122738-04:00.accessibility.json) |
+| [September 25 at 9:50 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-25T09:50:41.077159-04:00.accessibility.json) |
+| [September 24 at 10:10 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-24T22:10:14.294530-04:00.accessibility.json) |
+| [September 24 at 3:01 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-24T15:01:45.847483-04:00.accessibility.json) |
+| [September 24 at 9:53 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-24T09:53:36.065378-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 170 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 192 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 2:33 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-19T14:33:38.940245-04:00.lighthouse.json) |
-| [September 19 at 8:56 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-19T08:56:06.894639-04:00.lighthouse.json) |
-| [September 18 at 9:12 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-18T21:12:09.368389-04:00.lighthouse.json) |
-| [September 18 at 2:30 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-18T14:30:19.670224-04:00.lighthouse.json) |
-| [September 18 at 8:57 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-18T08:57:26.539150-04:00.lighthouse.json) |
-| [September 17 at 9:17 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-17T21:17:39.269149-04:00.lighthouse.json) |
-| [September 17 at 2:32 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-17T14:32:04.254114-04:00.lighthouse.json) |
-| [September 17 at 8:58 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-17T08:58:20.509706-04:00.lighthouse.json) |
-| [September 16 at 9:12 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-16T21:12:17.401513-04:00.lighthouse.json) |
-| [September 16 at 2:32 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-16T14:32:08.600036-04:00.lighthouse.json) |
+| [September 27 at 10:06 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-27T10:06:33.571603-04:00.lighthouse.json) |
+| [September 26 at 10:14 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-26T22:13:54.172222-04:00.lighthouse.json) |
+| [September 26 at 3:49 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-26T15:49:12.710037-04:00.lighthouse.json) |
+| [September 26 at 10:03 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-26T10:03:18.281047-04:00.lighthouse.json) |
+| [September 25 at 10:15 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-25T22:15:22.068458-04:00.lighthouse.json) |
+| [September 25 at 3:05 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-25T15:05:02.122738-04:00.lighthouse.json) |
+| [September 25 at 9:50 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-25T09:50:41.077159-04:00.lighthouse.json) |
+| [September 24 at 10:10 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-24T22:10:14.294530-04:00.lighthouse.json) |
+| [September 24 at 3:01 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-24T15:01:45.847483-04:00.lighthouse.json) |
+| [September 24 at 9:53 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-24T09:53:36.065378-04:00.lighthouse.json) |
 
 
 

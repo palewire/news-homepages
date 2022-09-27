@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 187 screenshots with the Internet Archive.
+The archiving routine has saved 203 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-19T10:04:44.070788-04:00.jpg">
-  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-19T10:04:44.070788-04:00.jpg"
-     alt="SCOTUS Blog at 2022-09-19 10:04:45-04:00 local time"
+ <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-27T10:10:45.598317-04:00.jpg">
+  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-27T10:10:45.598317-04:00.jpg"
+     alt="SCOTUS Blog at 2022-09-27 10:10:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-19T10:04:44.070788-04:00.jpg">September 19 at 10:04 AM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-27T10:10:45.598317-04:00.jpg">September 27 at 10:10 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-18T22:18:37.221803-04:00.jpg">
-  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-18T22:18:37.221803-04:00.jpg"
-     alt="SCOTUS Blog at 2022-09-18 22:18:38-04:00 local time"
+ <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-26T22:17:59.145157-04:00.jpg">
+  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-26T22:17:59.145157-04:00.jpg"
+     alt="SCOTUS Blog at 2022-09-26 22:18:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-18T22:18:37.221803-04:00.jpg">September 18 at 10:18 PM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-26T22:17:59.145157-04:00.jpg">September 26 at 10:18 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-18T09:01:51.975403-04:00.jpg">
-  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-18T09:01:51.975403-04:00.jpg"
-     alt="SCOTUS Blog at 2022-09-18 09:01:59-04:00 local time"
+ <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-26T10:07:58.565979-04:00.jpg">
+  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-26T10:07:58.565979-04:00.jpg"
+     alt="SCOTUS Blog at 2022-09-26 10:08:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-18T09:01:51.975403-04:00.jpg">September 18 at 9:01 AM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-26T10:07:58.565979-04:00.jpg">September 26 at 10:08 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-17T21:22:57.390575-04:00.jpg">
-  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-17T21:22:57.390575-04:00.jpg"
-     alt="SCOTUS Blog at 2022-09-17 21:22:58-04:00 local time"
+ <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-25T22:19:16.005752-04:00.jpg">
+  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-25T22:19:16.005752-04:00.jpg"
+     alt="SCOTUS Blog at 2022-09-25 22:19:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-17T21:22:57.390575-04:00.jpg">September 17 at 9:22 PM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-25T22:19:16.005752-04:00.jpg">September 25 at 10:19 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-17T09:02:13.732846-04:00.jpg">
-  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-17T09:02:13.732846-04:00.jpg"
-     alt="SCOTUS Blog at 2022-09-17 09:02:16-04:00 local time"
+ <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-25T09:54:32.726733-04:00.jpg">
+  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-25T09:54:32.726733-04:00.jpg"
+     alt="SCOTUS Blog at 2022-09-25 09:54:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-17T09:02:13.732846-04:00.jpg">September 17 at 9:02 AM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-25T09:54:32.726733-04:00.jpg">September 25 at 9:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-16T21:15:49.623222-04:00.jpg">
-  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-16T21:15:49.623222-04:00.jpg"
-     alt="SCOTUS Blog at 2022-09-16 21:15:51-04:00 local time"
+ <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-24T22:14:19.323818-04:00.jpg">
+  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-24T22:14:19.323818-04:00.jpg"
+     alt="SCOTUS Blog at 2022-09-24 22:14:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-16T21:15:49.623222-04:00.jpg">September 16 at 9:15 PM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-24T22:14:19.323818-04:00.jpg">September 24 at 10:14 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-16T09:02:35.023898-04:00.jpg">
-  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-16T09:02:35.023898-04:00.jpg"
-     alt="SCOTUS Blog at 2022-09-16 09:02:42-04:00 local time"
+ <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-24T09:57:27.988028-04:00.jpg">
+  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-24T09:57:27.988028-04:00.jpg"
+     alt="SCOTUS Blog at 2022-09-24 09:57:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-16T09:02:35.023898-04:00.jpg">September 16 at 9:02 AM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-24T09:57:27.988028-04:00.jpg">September 24 at 9:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-15T21:18:51.207135-04:00.jpg">
-  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-15T21:18:51.207135-04:00.jpg"
-     alt="SCOTUS Blog at 2022-09-15 21:18:58-04:00 local time"
+ <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-23T22:19:12.049396-04:00.jpg">
+  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-23T22:19:12.049396-04:00.jpg"
+     alt="SCOTUS Blog at 2022-09-23 22:19:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-15T21:18:51.207135-04:00.jpg">September 15 at 9:18 PM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-23T22:19:12.049396-04:00.jpg">September 23 at 10:19 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-15T09:05:41.053584-04:00.jpg">
-  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-15T09:05:41.053584-04:00.jpg"
-     alt="SCOTUS Blog at 2022-09-15 09:05:49-04:00 local time"
+ <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-23T10:06:22.239907-04:00.jpg">
+  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-23T10:06:22.239907-04:00.jpg"
+     alt="SCOTUS Blog at 2022-09-23 10:06:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-15T09:05:41.053584-04:00.jpg">September 15 at 9:05 AM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-23T10:06:22.239907-04:00.jpg">September 23 at 10:06 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-14T21:21:37.555827-04:00.jpg">
-  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-14T21:21:37.555827-04:00.jpg"
-     alt="SCOTUS Blog at 2022-09-14 21:21:39-04:00 local time"
+ <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-22T22:21:52.894192-04:00.jpg">
+  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-22T22:21:52.894192-04:00.jpg"
+     alt="SCOTUS Blog at 2022-09-22 22:21:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-14T21:21:37.555827-04:00.jpg">September 14 at 9:21 PM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-22T22:21:52.894192-04:00.jpg">September 22 at 10:21 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-14T09:09:43.369777-04:00.jpg">
-  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-14T09:09:43.369777-04:00.jpg"
-     alt="SCOTUS Blog at 2022-09-14 09:09:45-04:00 local time"
+ <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-22T10:09:26.398193-04:00.jpg">
+  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-22T10:09:26.398193-04:00.jpg"
+     alt="SCOTUS Blog at 2022-09-22 10:09:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-14T09:09:43.369777-04:00.jpg">September 14 at 9:09 AM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-22T10:09:26.398193-04:00.jpg">September 22 at 10:09 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-13T21:25:54.430616-04:00.jpg">
-  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-13T21:25:54.430616-04:00.jpg"
-     alt="SCOTUS Blog at 2022-09-13 21:26:06-04:00 local time"
+ <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-21T22:19:43.640693-04:00.jpg">
+  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-21T22:19:43.640693-04:00.jpg"
+     alt="SCOTUS Blog at 2022-09-21 22:20:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-13T21:25:54.430616-04:00.jpg">September 13 at 9:26 PM</a></p>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-09-21T22:19:43.640693-04:00.jpg">September 21 at 10:20 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 188 hyperlink lists with the Internet Archive.
+The archiving routine has saved 204 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 10:04 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-19T10:04:44.070788-04:00.hyperlinks.json) |
-| [September 18 at 10:18 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-18T22:18:37.221803-04:00.hyperlinks.json) |
-| [September 18 at 9:02 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-18T09:01:51.975403-04:00.hyperlinks.json) |
-| [September 17 at 9:23 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-17T21:22:57.390575-04:00.hyperlinks.json) |
-| [September 17 at 9:02 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-17T09:02:13.732846-04:00.hyperlinks.json) |
-| [September 16 at 9:15 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-16T21:15:49.623222-04:00.hyperlinks.json) |
-| [September 16 at 9:02 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-16T09:02:35.023898-04:00.hyperlinks.json) |
-| [September 15 at 9:05 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-15T09:05:41.053584-04:00.hyperlinks.json) |
-| [September 14 at 9:21 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-14T21:21:37.555827-04:00.hyperlinks.json) |
-| [September 14 at 9:09 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-14T09:09:43.369777-04:00.hyperlinks.json) |
+| [September 27 at 10:10 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-27T10:10:45.598317-04:00.hyperlinks.json) |
+| [September 26 at 10:18 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-26T22:17:59.145157-04:00.hyperlinks.json) |
+| [September 26 at 10:08 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-26T10:07:58.565979-04:00.hyperlinks.json) |
+| [September 25 at 10:19 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-25T22:19:16.005752-04:00.hyperlinks.json) |
+| [September 25 at 9:54 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-25T09:54:32.726733-04:00.hyperlinks.json) |
+| [September 24 at 10:14 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-24T22:14:19.323818-04:00.hyperlinks.json) |
+| [September 24 at 9:57 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-24T09:57:27.988028-04:00.hyperlinks.json) |
+| [September 23 at 10:19 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-23T22:19:12.049396-04:00.hyperlinks.json) |
+| [September 23 at 10:06 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-23T10:06:22.239907-04:00.hyperlinks.json) |
+| [September 22 at 10:22 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-22T22:21:52.894192-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 188 accessibility trees with the Internet Archive.
+The archiving routine has saved 204 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 10:04 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-19T10:04:44.070788-04:00.accessibility.json) |
-| [September 18 at 10:18 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-18T22:18:37.221803-04:00.accessibility.json) |
-| [September 18 at 9:02 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-18T09:01:51.975403-04:00.accessibility.json) |
-| [September 17 at 9:23 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-17T21:22:57.390575-04:00.accessibility.json) |
-| [September 17 at 9:02 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-17T09:02:13.732846-04:00.accessibility.json) |
-| [September 16 at 9:15 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-16T21:15:49.623222-04:00.accessibility.json) |
-| [September 16 at 9:02 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-16T09:02:35.023898-04:00.accessibility.json) |
-| [September 15 at 9:05 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-15T09:05:41.053584-04:00.accessibility.json) |
-| [September 14 at 9:21 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-14T21:21:37.555827-04:00.accessibility.json) |
-| [September 14 at 9:09 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-14T09:09:43.369777-04:00.accessibility.json) |
+| [September 27 at 10:10 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-27T10:10:45.598317-04:00.accessibility.json) |
+| [September 26 at 10:18 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-26T22:17:59.145157-04:00.accessibility.json) |
+| [September 26 at 10:08 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-26T10:07:58.565979-04:00.accessibility.json) |
+| [September 25 at 10:19 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-25T22:19:16.005752-04:00.accessibility.json) |
+| [September 25 at 9:54 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-25T09:54:32.726733-04:00.accessibility.json) |
+| [September 24 at 10:14 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-24T22:14:19.323818-04:00.accessibility.json) |
+| [September 24 at 9:57 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-24T09:57:27.988028-04:00.accessibility.json) |
+| [September 23 at 10:19 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-23T22:19:12.049396-04:00.accessibility.json) |
+| [September 23 at 10:06 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-23T10:06:22.239907-04:00.accessibility.json) |
+| [September 22 at 10:22 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-22T22:21:52.894192-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 114 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 130 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 10:04 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-19T10:04:44.070788-04:00.lighthouse.json) |
-| [September 18 at 10:18 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-18T22:18:37.221803-04:00.lighthouse.json) |
-| [September 18 at 9:02 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-18T09:01:51.975403-04:00.lighthouse.json) |
-| [September 17 at 9:23 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-17T21:22:57.390575-04:00.lighthouse.json) |
-| [September 17 at 9:02 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-17T09:02:13.732846-04:00.lighthouse.json) |
-| [September 16 at 9:15 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-16T21:15:49.623222-04:00.lighthouse.json) |
-| [September 16 at 9:02 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-16T09:02:35.023898-04:00.lighthouse.json) |
-| [September 15 at 9:05 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-15T09:05:41.053584-04:00.lighthouse.json) |
-| [September 14 at 9:21 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-14T21:21:37.555827-04:00.lighthouse.json) |
-| [September 14 at 9:09 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-14T09:09:43.369777-04:00.lighthouse.json) |
+| [September 27 at 10:10 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-27T10:10:45.598317-04:00.lighthouse.json) |
+| [September 26 at 10:18 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-26T22:17:59.145157-04:00.lighthouse.json) |
+| [September 26 at 10:08 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-26T10:07:58.565979-04:00.lighthouse.json) |
+| [September 25 at 10:19 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-25T22:19:16.005752-04:00.lighthouse.json) |
+| [September 25 at 9:54 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-25T09:54:32.726733-04:00.lighthouse.json) |
+| [September 24 at 10:14 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-24T22:14:19.323818-04:00.lighthouse.json) |
+| [September 24 at 9:57 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-24T09:57:27.988028-04:00.lighthouse.json) |
+| [September 23 at 10:19 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-23T22:19:12.049396-04:00.lighthouse.json) |
+| [September 23 at 10:06 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-23T10:06:22.239907-04:00.lighthouse.json) |
+| [September 22 at 10:22 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-09-22T22:21:52.894192-04:00.lighthouse.json) |
 
 
 
