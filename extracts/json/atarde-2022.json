@@ -1,5 +1,13 @@
 {
-  "created": 1664366673,
+  "atarde-2022": {
+    "url": "https://atarde.com.br/",
+    "job_id": "spn2-7009b53c63358c4e41505cc559d29f1b6737278d",
+    "message": "Job failed.",
+    "status_ext": "error:job-failed",
+    "status": "error",
+    "resources": []
+  },
+  "created": 1664387105,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/27/items/atarde-2022",
@@ -9645,31 +9653,93 @@
       "format": "JSON"
     },
     {
+      "name": "atarde-2022-09-28T09:02:42.960060-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "atarde-2022-09-28T09:02:42.960060-03:00.jpg",
+      "mtime": "1664368889",
+      "size": "9715",
+      "md5": "2bd2391d396b46ec1555f13b1f34b0ed",
+      "crc32": "c66e7f3c",
+      "sha1": "97a9450d64b19086614b6bc068f81632841fa077"
+    },
+    {
+      "name": "atarde-2022-09-28T13:11:46.511247-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664381515",
+      "size": "30950",
+      "md5": "c111735e2d220e7704101dc8575ca833",
+      "crc32": "4f302bb6",
+      "sha1": "dab454dc90760d65b02190f6ab9896de28788c35",
+      "format": "JSON"
+    },
+    {
+      "name": "atarde-2022-09-28T13:11:46.511247-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664381519",
+      "size": "71880",
+      "md5": "f9209a306a9ce87b29d9a1287e087952",
+      "crc32": "93cc2c18",
+      "sha1": "a191f1adc7bfd56958138e0f4752729eddbbb323",
+      "format": "JSON"
+    },
+    {
+      "name": "atarde-2022-09-28T13:11:46.511247-03:00.jpg",
+      "source": "original",
+      "mtime": "1664381514",
+      "size": "248534",
+      "md5": "0ff7abff99c4d774a8cf18c468b34114",
+      "crc32": "26f97044",
+      "sha1": "8b34412b1d662f35b4eb938e50eb9c62891461f2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "atarde-2022-09-28T13:11:46.511247-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664381522",
+      "size": "1450",
+      "md5": "3d13b031098b4cea774eb0a6ec2db6a4",
+      "crc32": "f12edbac",
+      "sha1": "bab07b6eacefeb79a08bbf97398d1d99e562b18d",
+      "format": "JSON"
+    },
+    {
+      "name": "atarde-2022-09-28T13:11:46.511247-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664381524",
+      "size": "202",
+      "md5": "13e7308f7066dc88ea2eb1d1de64c693",
+      "crc32": "d950f023",
+      "sha1": "47563e5ed678ef3fe7dee2975a4c37bc3465f7ee",
+      "format": "JSON"
+    },
+    {
       "name": "atarde-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0e5a19ad59b603654f4b01ccd89635e7c5a43135",
-      "mtime": "1664366666",
-      "size": "196037",
-      "md5": "db997ed62c36b3fee1a5da2b9aedcf87",
-      "crc32": "58d3581f",
-      "sha1": "7576b79412940276d34068379d9b4d804771657d",
+      "btih": "13549f603e2bc6a2e3e350f50dfa388b1d323873",
+      "mtime": "1664381581",
+      "size": "197290",
+      "md5": "ad7e5f850fc40c0ca4a0e13bc7618717",
+      "crc32": "eddb4512",
+      "sha1": "7ddd498b6d4b90c5d2ce42d09434375986a1d79b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "atarde-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6dd8629bcd822565e62faa2dbde277bb",
+      "md5": "ba66c18c075b03b9726ec8b33fb124bd",
       "summation": "md5"
     },
     {
       "name": "atarde-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664366610",
-      "size": "1200128",
-      "md5": "25e88baf01224dabe97ff1fc88e3dcde",
-      "crc32": "eaf44dfa",
-      "sha1": "64976576c5e97713b62861317012f70b88d4afcc",
+      "mtime": "1664381530",
+      "size": "1204224",
+      "md5": "566d667f7c22e9ed1a8367dea5ab2c74",
+      "crc32": "f33bd576",
+      "sha1": "008e6cba4083caa854f0faac792f9d95ffbc34bd",
       "format": "Metadata"
     },
     {
@@ -9683,9 +9753,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 937,
-  "item_last_updated": 1664366666,
-  "item_size": 67528467,
+  "files_count": 943,
+  "item_last_updated": 1664381581,
+  "item_size": 67896547,
   "metadata": {
     "identifier": "atarde-2022",
     "collection": [
@@ -9707,7 +9777,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420970099,
+      "task_id": 3421176774,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9715,7 +9785,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 361845107,
+  "uniq": 816336530,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

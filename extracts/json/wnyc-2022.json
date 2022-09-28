@@ -1,5 +1,5 @@
 {
-  "created": 1664345365,
+  "created": 1664382038,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/28/items/wnyc-2022",
@@ -10845,31 +10845,93 @@
       "format": "JSON"
     },
     {
+      "name": "wnyc-2022-09-28T02:07:54.373346-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wnyc-2022-09-28T02:07:54.373346-04:00.jpg",
+      "mtime": "1664347879",
+      "size": "9078",
+      "md5": "afd03392c0d7810c6dd5de61aaf5323d",
+      "crc32": "e35666f2",
+      "sha1": "5258d01b471c25c289cbc20cab57c1237c2d6c11"
+    },
+    {
+      "name": "wnyc-2022-09-28T12:19:24.731872-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664381969",
+      "size": "31026",
+      "md5": "244f74f7e9aa67ad5b5efafc8c9da04d",
+      "crc32": "91c516b9",
+      "sha1": "0d2d791f7618f580b685ce2c09bc4f4687ab5016",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-09-28T12:19:24.731872-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664381970",
+      "size": "25613",
+      "md5": "e86d0f640cd5ada6dbc8a5168579e234",
+      "crc32": "d39f7563",
+      "sha1": "27d6de3a3bb52b03bb8e28bc6fdebfd064633cc8",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-09-28T12:19:24.731872-04:00.jpg",
+      "source": "original",
+      "mtime": "1664381966",
+      "size": "193553",
+      "md5": "b76f8ec31409d8d47fe6ac033f493e59",
+      "crc32": "c42e42fe",
+      "sha1": "1c753bcaa9c930dbfa5395aa685700bb8fcf1774",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wnyc-2022-09-28T12:19:24.731872-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664381973",
+      "size": "1441",
+      "md5": "a4a1e46546697281c9cb04d356282884",
+      "crc32": "9dde4713",
+      "sha1": "bb8b661cbc74975ff6ae3cd16543ef32cb6b776b",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-09-28T12:19:24.731872-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664381974",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "wnyc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d3192833490158a5c543fcb1e877df4db568fa61",
-      "mtime": "1664345355",
-      "size": "215981",
-      "md5": "c444e4884d09abf9af383ed9e9b5c551",
-      "crc32": "4134b27b",
-      "sha1": "26a7d1e98dde4b1cb4f827e106fd7a4bad147af7",
+      "btih": "39f57990fb9b954c5a3c36274926c92b06990d30",
+      "mtime": "1664382031",
+      "size": "217202",
+      "md5": "cc908b554288b9eebdea0c5cd7615dca",
+      "crc32": "8ef6eb99",
+      "sha1": "c6480b73230ef5dfad57bee7499d1ec2f2759be1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wnyc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0e17e63d5b17d7e3c5abf5aa10d98604",
+      "md5": "d184372e5b8bd1a89d8cc25c9c517d2d",
       "summation": "md5"
     },
     {
       "name": "wnyc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664345305",
-      "size": "1298432",
-      "md5": "2a716e445526ecaaeb55410a10cfd891",
-      "crc32": "abec44ff",
-      "sha1": "e619dd3f3daa7a86ca6cb3c7933f5390efa2dafa",
+      "mtime": "1664381980",
+      "size": "1302528",
+      "md5": "b5a9acc49a647efc6abeff2c673266bd",
+      "crc32": "89195553",
+      "sha1": "4e4e64cc199e0e1cb17f8fabc1989836367efd1d",
       "format": "Metadata"
     },
     {
@@ -10883,9 +10945,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1048,
-  "item_last_updated": 1664345355,
-  "item_size": 53932722,
+  "files_count": 1054,
+  "item_last_updated": 1664382031,
+  "item_size": 54198952,
   "metadata": {
     "identifier": "wnyc-2022",
     "collection": [
@@ -10907,7 +10969,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420722384,
+      "task_id": 3421184265,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10915,7 +10977,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 998672583,
+  "uniq": 326044950,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1664345179,
+  "created": 1664381944,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/30/items/billy_penn-2022",
@@ -10163,31 +10163,93 @@
       "format": "JSON"
     },
     {
+      "name": "billy_penn-2022-09-28T02:05:04.930164-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "billy_penn-2022-09-28T02:05:04.930164-04:00.jpg",
+      "mtime": "1664347309",
+      "size": "10051",
+      "md5": "e229ad4f54202937fd686ab5728f2575",
+      "crc32": "e586bcfb",
+      "sha1": "558c86b6650c89ddac22a74570bea50ea1d4a1f1"
+    },
+    {
+      "name": "billy_penn-2022-09-28T12:17:24.298254-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664381850",
+      "size": "27890",
+      "md5": "a679e8fc966aee2007216831084d2ac0",
+      "crc32": "0023326a",
+      "sha1": "d6ae13923eb6960ddcf55cfdbebdddde44501d39",
+      "format": "JSON"
+    },
+    {
+      "name": "billy_penn-2022-09-28T12:17:24.298254-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664381851",
+      "size": "28824",
+      "md5": "3817a968e056e02865a0c2aa02040774",
+      "crc32": "2bad19bc",
+      "sha1": "5702663eef9fc3c93414952547359bea27f23759",
+      "format": "JSON"
+    },
+    {
+      "name": "billy_penn-2022-09-28T12:17:24.298254-04:00.jpg",
+      "source": "original",
+      "mtime": "1664381848",
+      "size": "345156",
+      "md5": "3048996b2ec925d215c4be91e161372e",
+      "crc32": "c94ab93e",
+      "sha1": "b4679782aec81a67347418adcffa0228a918ca86",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "billy_penn-2022-09-28T12:17:24.298254-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664381854",
+      "size": "1450",
+      "md5": "073625c99e5e22f42b50a8b47179d73d",
+      "crc32": "e0216bc2",
+      "sha1": "812668217e37d8fd2204804111f619c6404ba07e",
+      "format": "JSON"
+    },
+    {
+      "name": "billy_penn-2022-09-28T12:17:24.298254-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664381855",
+      "size": "16593",
+      "md5": "ac445d6ab70dcc32add369bc6ef8090f",
+      "crc32": "ac52dbca",
+      "sha1": "9a555e1a33c87aa783d867431b3293e9541e8f0e",
+      "format": "JSON"
+    },
+    {
       "name": "billy_penn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6c57dc02b2cd319f3510974debdeeb3df02037dc",
-      "mtime": "1664345171",
-      "size": "209627",
-      "md5": "ff9a42b88e176a23abd161fa906f34e0",
-      "crc32": "c48e349f",
-      "sha1": "43a148d874d5bacbc5b32d10d52c45c12d876c6e",
+      "btih": "8746589811701460482963dc46241b730001ef25",
+      "mtime": "1664381931",
+      "size": "210907",
+      "md5": "d90eac72ed2d80f11e9022cf3d08f58d",
+      "crc32": "8cdc993c",
+      "sha1": "142585779c665e16f3c6db147fd2c5062ce0113d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "billy_penn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0a51937ffe741c58aac7d6b2c26af58a",
+      "md5": "09b75862410a5afc47dbe37b85f099a6",
       "summation": "md5"
     },
     {
       "name": "billy_penn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664345122",
-      "size": "1228800",
-      "md5": "868efdb89f1d57bc7d4a6d4596928011",
-      "crc32": "dddeb4d5",
-      "sha1": "b4e034695cc6193756753cadcc251385ad5cd9e9",
+      "mtime": "1664381873",
+      "size": "1236992",
+      "md5": "51ac59c52bcc3d913ab6bd608dbc8972",
+      "crc32": "9948217d",
+      "sha1": "aaf00907f0871802cd1dc4cea4bfb02e3e967fa7",
       "format": "Metadata"
     },
     {
@@ -10201,9 +10263,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 983,
-  "item_last_updated": 1664345171,
-  "item_size": 75425767,
+  "files_count": 989,
+  "item_last_updated": 1664381931,
+  "item_size": 75865203,
   "metadata": {
     "identifier": "billy_penn-2022",
     "collection": [
@@ -10225,7 +10287,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420719972,
+      "task_id": 3421183017,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10233,7 +10295,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1919716131,
+  "uniq": 515257125,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

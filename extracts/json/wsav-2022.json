@@ -1,5 +1,5 @@
 {
-  "created": 1664345359,
+  "created": 1664386874,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/29/items/wsav-2022",
@@ -8171,31 +8171,93 @@
       "format": "JSON"
     },
     {
+      "name": "wsav-2022-09-28T02:07:59.622372-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wsav-2022-09-28T02:07:59.622372-04:00.jpg",
+      "mtime": "1664347402",
+      "size": "10095",
+      "md5": "58107c8b37d91254b9e775334581a64c",
+      "crc32": "d3c7e764",
+      "sha1": "3529f23b5b1da23af3b59f68f751c62f2431b8d9"
+    },
+    {
+      "name": "wsav-2022-09-28T12:21:27.915590-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664382101",
+      "size": "36635",
+      "md5": "748ec9c367481d28f2f288906eb4b482",
+      "crc32": "0fd8f413",
+      "sha1": "b911fc5e8f6c564f6bb9369dee82a595e639cec1",
+      "format": "JSON"
+    },
+    {
+      "name": "wsav-2022-09-28T12:21:27.915590-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664382106",
+      "size": "81766",
+      "md5": "e5ab991705d9086af6e08fce254463da",
+      "crc32": "db90704d",
+      "sha1": "1d6f35238ea5a0eba6008e2ef9caa3f0aa293396",
+      "format": "JSON"
+    },
+    {
+      "name": "wsav-2022-09-28T12:21:27.915590-04:00.jpg",
+      "source": "original",
+      "mtime": "1664382098",
+      "size": "300552",
+      "md5": "3d64f44d1e6aa1c10e6cf19b64a54fb8",
+      "crc32": "086b1953",
+      "sha1": "fb12438dc27c0e856183ecbe46fa9a932d2c7670",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wsav-2022-09-28T12:21:27.915590-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664382107",
+      "size": "1438",
+      "md5": "e854367dd768ac22290a8608940c6e44",
+      "crc32": "1db89905",
+      "sha1": "3ebeb94b6ffe6b761b69272e06d831fa2041a004",
+      "format": "JSON"
+    },
+    {
+      "name": "wsav-2022-09-28T12:21:27.915590-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664382109",
+      "size": "200",
+      "md5": "d40a2d61d9a33a58bbc7fc418db04ce8",
+      "crc32": "6bf27037",
+      "sha1": "58b80a37b53f800a03ff8dffe41aca3673b343d3",
+      "format": "JSON"
+    },
+    {
       "name": "wsav-2022_archive.torrent",
       "source": "metadata",
-      "btih": "646d5668d76b6b24c78e7c06048951cfe27399c1",
-      "mtime": "1664345350",
-      "size": "164596",
-      "md5": "5fdc783e5144e4d8fe80417858b52865",
-      "crc32": "9f6c7838",
-      "sha1": "5a15fa73f0b46fe82d3e496336c0a2351ecc42cd",
+      "btih": "b4e2398257a26987a385827e4e8996a2dde46843",
+      "mtime": "1664382256",
+      "size": "165838",
+      "md5": "5b8c1722e8eed9d2204689eda21cf0f4",
+      "crc32": "9d68b895",
+      "sha1": "7bd0bab4c6322a63686c9af48a57f7a00023fd5f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wsav-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "77364d6ae13a56952a105b3d7ee68b2f",
+      "md5": "e9ea26fba845206e85bb758659c21114",
       "summation": "md5"
     },
     {
       "name": "wsav-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664345306",
-      "size": "1003520",
-      "md5": "4d0262baede082e9198c97f76718ca09",
-      "crc32": "c010d7fa",
-      "sha1": "9b442d08e548bfdbdfb80133c5e51432f77ccdb1",
+      "mtime": "1664382202",
+      "size": "1011712",
+      "md5": "85135dcfef5614a1a9533943e7de4c22",
+      "crc32": "8f4570e4",
+      "sha1": "e08f40a00377428496d0988d273f9225c1df50fc",
       "format": "Metadata"
     },
     {
@@ -8209,9 +8271,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 793,
-  "item_last_updated": 1664345350,
-  "item_size": 61880065,
+  "files_count": 799,
+  "item_last_updated": 1664382256,
+  "item_size": 62320185,
   "metadata": {
     "identifier": "wsav-2022",
     "collection": [
@@ -8233,7 +8295,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420722337,
+      "task_id": 3421187172,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8241,8 +8303,16 @@
       "status": "queued"
     }
   ],
-  "uniq": 1773112067,
+  "uniq": 1117506884,
   "workable_servers": [
     "ia601504.us.archive.org"
-  ]
+  ],
+  "wsav-2022": {
+    "url": "https://www.wsav.com",
+    "job_id": "spn2-d458b87d36dfad02bb234f979835e30d3b456bdf",
+    "message": "Job failed.",
+    "status_ext": "error:job-failed",
+    "status": "error",
+    "resources": []
+  }
 }

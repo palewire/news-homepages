@@ -1,5 +1,5 @@
 {
-  "created": 1664345353,
+  "created": 1664386902,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/23/items/washtimes-2022",
@@ -19913,31 +19913,93 @@
       "format": "JSON"
     },
     {
+      "name": "washtimes-2022-09-28T02:07:36.552180-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "washtimes-2022-09-28T02:07:36.552180-04:00.jpg",
+      "mtime": "1664347349",
+      "size": "11460",
+      "md5": "23f72742c918565bd9f0dce9b69d3ced",
+      "crc32": "f3f01a4a",
+      "sha1": "ba3d535bb08f068bad13f0e40ce871e48dcf0a5a"
+    },
+    {
+      "name": "washtimes-2022-09-28T12:20:38.339321-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664382063",
+      "size": "99312",
+      "md5": "8e3ddd6ac57a56eafbe31d06bbca4d2d",
+      "crc32": "347231d7",
+      "sha1": "ca962496b5d82e94f3167da7b5277e5e8b4793b9",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-09-28T12:20:38.339321-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664382065",
+      "size": "61513",
+      "md5": "90bc9e3e96536b69150eed3130089d0d",
+      "crc32": "deadbc3b",
+      "sha1": "d2e350a7af3aa2d37a3c8a99b832317c91a2fc4d",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-09-28T12:20:38.339321-04:00.jpg",
+      "source": "original",
+      "mtime": "1664382061",
+      "size": "354281",
+      "md5": "428f0df5d1939f30dea14bd5da4ba5af",
+      "crc32": "53cea746",
+      "sha1": "746b169a64ac3f4ba32b86bd6543267fdb37257f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "washtimes-2022-09-28T12:20:38.339321-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664382066",
+      "size": "1522",
+      "md5": "cefe5c46a09585908b971a6aee91e2ce",
+      "crc32": "26d76a46",
+      "sha1": "00d59bbb6e5fd929842eb0421cfce836aaa6abd9",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-09-28T12:20:38.339321-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664382068",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "washtimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8fadf26a3427d91884e888d2c3f08e54becd0ef5",
-      "mtime": "1664345347",
-      "size": "408831",
-      "md5": "2f37108e2d55c1d3f9dd2fa7c2452660",
-      "crc32": "dd663d4c",
-      "sha1": "9bcbb9ccf774e142029cec158ba5952fb03d9ae0",
+      "btih": "5083df0d0a72ab558b510d2fc692f05604bf1dd8",
+      "mtime": "1664382137",
+      "size": "410103",
+      "md5": "cda8d098b9014ea0856fd67d5ad6d238",
+      "crc32": "b0f9a684",
+      "sha1": "1496cda0cec2e2267db4e93b3268e8715f1a0748",
       "format": "Archive BitTorrent"
     },
     {
       "name": "washtimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e9a024dea2937a2cd47d1388e8415788",
+      "md5": "10fa6b8faed76db49239867d523e1ddb",
       "summation": "md5"
     },
     {
       "name": "washtimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664345280",
-      "size": "2326528",
-      "md5": "e8583902da35e6bdadacb332f6a83822",
-      "crc32": "3019bb01",
-      "sha1": "964c868c78e4ea0b83558a0360c3afb1f504fa54",
+      "mtime": "1664382075",
+      "size": "2334720",
+      "md5": "aed779118c579ae127e973394964bcd9",
+      "crc32": "6f4767ab",
+      "sha1": "ba44a4cd57c5bcbc9fe2cd4a7f3cd7b22e9b90c4",
       "format": "Metadata"
     },
     {
@@ -19951,9 +20013,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1916,
-  "item_last_updated": 1664345347,
-  "item_size": 216900903,
+  "files_count": 1922,
+  "item_last_updated": 1664382137,
+  "item_size": 217438657,
   "metadata": {
     "identifier": "washtimes-2022",
     "collection": [
@@ -19975,7 +20037,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420722281,
+      "task_id": 3421185761,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -19983,7 +20045,12 @@
       "status": "queued"
     }
   ],
-  "uniq": 333424520,
+  "uniq": 1176390033,
+  "washtimes-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

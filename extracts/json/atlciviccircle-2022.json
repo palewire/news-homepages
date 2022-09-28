@@ -1,5 +1,5 @@
 {
-  "created": 1664345111,
+  "created": 1664381555,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/7/items/atlciviccircle-2022",
@@ -9303,31 +9303,93 @@
       "format": "JSON"
     },
     {
+      "name": "atlciviccircle-2022-09-28T02:04:08.428919-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "atlciviccircle-2022-09-28T02:04:08.428919-04:00.jpg",
+      "mtime": "1664346964",
+      "size": "10799",
+      "md5": "0275fa297dda28b9b8986de5efd60465",
+      "crc32": "a8b3bfe8",
+      "sha1": "b0f6d760fa1af2f4781c80429bc78022f2aaa8d6"
+    },
+    {
+      "name": "atlciviccircle-2022-09-28T12:11:33.492072-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664381496",
+      "size": "14353",
+      "md5": "95bbcf9669814dfb391e894f6a585ac7",
+      "crc32": "004de11f",
+      "sha1": "ed24867cc135a24bab3fbf979f022949e8a407bd",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-09-28T12:11:33.492072-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664381498",
+      "size": "14882",
+      "md5": "7ff18ea5d16448fbd1fa68d27caab0b7",
+      "crc32": "26b25691",
+      "sha1": "664c305eb77973e9c60925172443d2f0352e0b24",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-09-28T12:11:33.492072-04:00.jpg",
+      "source": "original",
+      "mtime": "1664381494",
+      "size": "307768",
+      "md5": "a791f6a6a127cc778b06fbebe731e5ab",
+      "crc32": "1632614a",
+      "sha1": "d1502b112b541567b60c210a51a6096a8f347406",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "atlciviccircle-2022-09-28T12:11:33.492072-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664381499",
+      "size": "1519",
+      "md5": "f7a0354db19e3d2735b7e7115f0b32d1",
+      "crc32": "93af18d0",
+      "sha1": "2b40ceb7730a36bd67be23370a2576a6f2bfbb10",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-09-28T12:11:33.492072-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664381501",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "atlciviccircle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b1158364c58e4724a86ed0a061502afd6f5eeadf",
-      "mtime": "1664345108",
-      "size": "195407",
-      "md5": "01b8111a89b4256553e8a138bd758f9a",
-      "crc32": "81847eeb",
-      "sha1": "4212d8386e7eefead0b8efa4ef4a3ae79e8b6650",
+      "btih": "f8c6bc6f59b437eb6d718f2aff9bfb582f99cb78",
+      "mtime": "1664381552",
+      "size": "196709",
+      "md5": "065096f14ff114c3e302a9d7650f30eb",
+      "crc32": "257d870f",
+      "sha1": "f5fc8698e48aa54385e1ce5ba2e2fea8f1ac3b2f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "atlciviccircle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7c0a3ff1dca2cd5f3e64fb5b7d9eb166",
+      "md5": "ad0013cbf4fa0905ce7d1eaaf5db3107",
       "summation": "md5"
     },
     {
       "name": "atlciviccircle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664345061",
-      "size": "1146880",
-      "md5": "2eb459d9d0d1bb3145e6c2d2084280c2",
-      "crc32": "e456dd29",
-      "sha1": "54d9d5c2e373e50bc323422b8803b9a1d1b7bf98",
+      "mtime": "1664381507",
+      "size": "1150976",
+      "md5": "e881de64b57c2bca09fe6fded74927d3",
+      "crc32": "f5ebe2c8",
+      "sha1": "1bd5492c65e8d9458fb28d5159643101ba78a40a",
       "format": "Metadata"
     },
     {
@@ -9341,9 +9403,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 901,
-  "item_last_updated": 1664345108,
-  "item_size": 56614995,
+  "files_count": 907,
+  "item_last_updated": 1664381552,
+  "item_size": 56969916,
   "metadata": {
     "identifier": "atlciviccircle-2022",
     "collection": [
@@ -9365,7 +9427,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420718894,
+      "task_id": 3421176173,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9373,7 +9435,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 119247890,
+  "uniq": 1706957133,
   "workable_servers": [
     "ia902500.us.archive.org"
   ]
