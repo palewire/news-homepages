@@ -28,13 +28,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 17 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailycomet-2022/dailycomet-2022-09-28T07:07:08.152830-05:00.jpg">
+  <img src="https://archive.org/download/dailycomet-2022/dailycomet-2022-09-28T07:07:08.152830-05:00.jpg"
+     alt="Daily Comet at 2022-09-28 07:07:10-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailycomet-2022/dailycomet-2022-09-28T07:07:08.152830-05:00.jpg">September 28 at 7:07 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailycomet-2022/dailycomet-2022-09-27T18:49:56.273164-05:00.jpg">
@@ -135,20 +144,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailycomet-2022/dailycomet-2022-09-22T18:45:09.799426-05:00.jpg">September 22 at 6:45 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailycomet-2022/dailycomet-2022-09-22T06:55:37.469955-05:00.jpg">
-  <img src="https://archive.org/download/dailycomet-2022/dailycomet-2022-09-22T06:55:37.469955-05:00.jpg"
-     alt="Daily Comet at 2022-09-22 06:55:39-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailycomet-2022/dailycomet-2022-09-22T06:55:37.469955-05:00.jpg">September 22 at 6:55 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 16 hyperlink lists with the Internet Archive.
+The archiving routine has saved 17 hyperlink lists with the Internet Archive.
 
 
 
@@ -156,6 +156,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 7:07 AM](https://archive.org/download/dailycomet-2022/dailycomet-2022-09-28T07:07:08.152830-05:00.hyperlinks.json) |
 | [September 27 at 6:50 PM](https://archive.org/download/dailycomet-2022/dailycomet-2022-09-27T18:49:56.273164-05:00.hyperlinks.json) |
 | [September 27 at 6:53 AM](https://archive.org/download/dailycomet-2022/dailycomet-2022-09-27T06:53:04.505225-05:00.hyperlinks.json) |
 | [September 26 at 6:45 PM](https://archive.org/download/dailycomet-2022/dailycomet-2022-09-26T18:44:59.062056-05:00.hyperlinks.json) |
@@ -165,12 +166,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 6:37 PM](https://archive.org/download/dailycomet-2022/dailycomet-2022-09-24T18:37:33.926141-05:00.hyperlinks.json) |
 | [September 24 at 6:46 AM](https://archive.org/download/dailycomet-2022/dailycomet-2022-09-24T06:45:52.141875-05:00.hyperlinks.json) |
 | [September 23 at 6:44 PM](https://archive.org/download/dailycomet-2022/dailycomet-2022-09-23T18:44:28.376113-05:00.hyperlinks.json) |
-| [September 23 at 6:53 AM](https://archive.org/download/dailycomet-2022/dailycomet-2022-09-23T06:53:44.333505-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 16 accessibility trees with the Internet Archive.
+The archiving routine has saved 17 accessibility trees with the Internet Archive.
 
 
 
@@ -178,6 +178,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 7:07 AM](https://archive.org/download/dailycomet-2022/dailycomet-2022-09-28T07:07:08.152830-05:00.accessibility.json) |
 | [September 27 at 6:50 PM](https://archive.org/download/dailycomet-2022/dailycomet-2022-09-27T18:49:56.273164-05:00.accessibility.json) |
 | [September 27 at 6:53 AM](https://archive.org/download/dailycomet-2022/dailycomet-2022-09-27T06:53:04.505225-05:00.accessibility.json) |
 | [September 26 at 6:45 PM](https://archive.org/download/dailycomet-2022/dailycomet-2022-09-26T18:44:59.062056-05:00.accessibility.json) |
@@ -187,13 +188,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 6:37 PM](https://archive.org/download/dailycomet-2022/dailycomet-2022-09-24T18:37:33.926141-05:00.accessibility.json) |
 | [September 24 at 6:45 AM](https://archive.org/download/dailycomet-2022/dailycomet-2022-09-24T06:45:52.141875-05:00.accessibility.json) |
 | [September 23 at 6:44 PM](https://archive.org/download/dailycomet-2022/dailycomet-2022-09-23T18:44:28.376113-05:00.accessibility.json) |
-| [September 23 at 6:53 AM](https://archive.org/download/dailycomet-2022/dailycomet-2022-09-23T06:53:44.333505-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
 
 
 
@@ -201,6 +201,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 7:07 AM](https://archive.org/download/dailycomet-2022/dailycomet-2022-09-28T07:07:08.152830-05:00.lighthouse.json) |
 | [September 27 at 6:50 PM](https://archive.org/download/dailycomet-2022/dailycomet-2022-09-27T18:49:56.273164-05:00.lighthouse.json) |
 | [September 27 at 6:53 AM](https://archive.org/download/dailycomet-2022/dailycomet-2022-09-27T06:53:04.505225-05:00.lighthouse.json) |
 | [September 26 at 6:45 PM](https://archive.org/download/dailycomet-2022/dailycomet-2022-09-26T18:44:59.062056-05:00.lighthouse.json) |
@@ -210,7 +211,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 6:37 PM](https://archive.org/download/dailycomet-2022/dailycomet-2022-09-24T18:37:33.926141-05:00.lighthouse.json) |
 | [September 24 at 6:46 AM](https://archive.org/download/dailycomet-2022/dailycomet-2022-09-24T06:45:52.141875-05:00.lighthouse.json) |
 | [September 23 at 6:44 PM](https://archive.org/download/dailycomet-2022/dailycomet-2022-09-23T18:44:28.376113-05:00.lighthouse.json) |
-| [September 23 at 6:53 AM](https://archive.org/download/dailycomet-2022/dailycomet-2022-09-23T06:53:44.333505-05:00.lighthouse.json) |
 
 
 
