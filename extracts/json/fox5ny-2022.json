@@ -1,5 +1,5 @@
 {
-  "created": 1664348456,
+  "created": 1664387857,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/19/items/fox5ny-2022",
@@ -4326,31 +4326,82 @@
       "sha1": "c63b9355586ac9f7d230b6c983e72cb48e2faa8a"
     },
     {
+      "name": "fox5ny-2022-09-28T13:56:26.417654-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664387791",
+      "size": "44039",
+      "md5": "096de881e0f589f837cee2e439492b5b",
+      "crc32": "29fc48ef",
+      "sha1": "019541647bf9522350c3d22e9d661d589e2631af",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-09-28T13:56:26.417654-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664387792",
+      "size": "34400",
+      "md5": "13585351d7f632db94f35b4250421644",
+      "crc32": "6c24546c",
+      "sha1": "0219a8db6b5833bc5b39702287c0de01199f1264",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-09-28T13:56:26.417654-04:00.jpg",
+      "source": "original",
+      "mtime": "1664387789",
+      "size": "370041",
+      "md5": "19aeae930731eca84432e924e6941cef",
+      "crc32": "5757470b",
+      "sha1": "5adaaa785abd30950113499b33319430a95e7c1f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox5ny-2022-09-28T13:56:26.417654-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664387795",
+      "size": "1456",
+      "md5": "1a691678a778a1de44b3005eca6ce87f",
+      "crc32": "205f13f0",
+      "sha1": "9effd6a7f5cdf5f3934f013409ca4cb720b7fcc2",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-09-28T13:56:26.417654-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664387797",
+      "size": "58705",
+      "md5": "f9444996b69559a5991d60c2789da731",
+      "crc32": "8ce4b9d6",
+      "sha1": "ff726b232f1ac2976154ad473790d0e88e9a2fa6",
+      "format": "JSON"
+    },
+    {
       "name": "fox5ny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fe739eaaa83f12153d12dee4db5dcc77d7264313",
-      "mtime": "1664348390",
-      "size": "88738",
-      "md5": "b270ed5af0cfafd9156c83acbbc8af53",
-      "crc32": "53d33524",
-      "sha1": "d2ede4c4d3cabfc5e62af420aee2ee6604f99b8a",
+      "btih": "01dc7da5bd101f7e6dc7556113454bcc49bf26cf",
+      "mtime": "1664387848",
+      "size": "89791",
+      "md5": "68b80cc66c81eb6116928f53505faec8",
+      "crc32": "ea63fdda",
+      "sha1": "2cae842933c15a7b7fec9290060bf77562cf77ec",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fox5ny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c11feb973410c55b55e6f42dd1a67807",
+      "md5": "db1230669199ee8c97077b2b8632a6ec",
       "summation": "md5"
     },
     {
       "name": "fox5ny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664346452",
-      "size": "548864",
-      "md5": "45c3870b00bddb374d915d70240012e5",
-      "crc32": "56d3d6f8",
-      "sha1": "b60e4d6f185e44a5abaf95218e2a2f078d720c7a",
+      "mtime": "1664387803",
+      "size": "557056",
+      "md5": "81e926b81853323ecaa10468269e0d0d",
+      "crc32": "024dd24b",
+      "sha1": "3eb0fe18caa389fa904fa6df55102551096d2bca",
       "format": "Metadata"
     },
     {
@@ -4364,9 +4415,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 422,
-  "item_last_updated": 1664348390,
-  "item_size": 33434910,
+  "files_count": 427,
+  "item_last_updated": 1664387848,
+  "item_size": 33952796,
   "metadata": {
     "identifier": "fox5ny-2022",
     "collection": [
@@ -4383,10 +4434,21 @@
     "publicdate": "2022-08-23 14:52:06",
     "addeddate": "2022-08-23 14:52:06"
   },
+  "pending_tasks": true,
   "server": "ia601406.us.archive.org",
-  "uniq": 1186012982,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3421274696,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 648926912,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia601406.us.archive.org"
   ]
 }

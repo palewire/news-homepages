@@ -1,5 +1,5 @@
 {
-  "created": 1664345388,
+  "created": 1664382036,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/2/items/wistatejournal-2022",
@@ -15039,31 +15039,93 @@
       "format": "JSON"
     },
     {
+      "name": "wistatejournal-2022-09-28T01:08:07.190063-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wistatejournal-2022-09-28T01:08:07.190063-05:00.jpg",
+      "mtime": "1664347415",
+      "size": "12535",
+      "md5": "5d61dba1677ed53cefb58c3a7b3d8edb",
+      "crc32": "20eb5c1f",
+      "sha1": "52161330effb0d3f38496c9a6f7f712577b9649a"
+    },
+    {
+      "name": "wistatejournal-2022-09-28T11:19:13.588621-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664381957",
+      "size": "24968",
+      "md5": "4d13214bd9de028a1b610d9e2cf23c2b",
+      "crc32": "9c223c5b",
+      "sha1": "cb727c4d41e86d9dfb2cac86cfcc3e17d6b8fea3",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-09-28T11:19:13.588621-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664381959",
+      "size": "74364",
+      "md5": "b382af0260f7d204879f07e8a13e4527",
+      "crc32": "bc2d0c85",
+      "sha1": "eabce8fb3e14da23c3c6abb8622fb4f4581ca683",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-09-28T11:19:13.588621-05:00.jpg",
+      "source": "original",
+      "mtime": "1664381955",
+      "size": "322500",
+      "md5": "f9ed2596cd45166f65ce7410a1a67046",
+      "crc32": "2721230c",
+      "sha1": "7ba1bbd1217f491b3676cd7e145bd263b280d33b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wistatejournal-2022-09-28T11:19:13.588621-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664381962",
+      "size": "1468",
+      "md5": "11a28fc3b44653afa1d53ab5a234b48c",
+      "crc32": "51f2cda0",
+      "sha1": "afe3bbc1c18d7d6b338b6c82f90fd726742d83a3",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-09-28T11:19:13.588621-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664381964",
+      "size": "46525",
+      "md5": "8b56779060f79aed027372368a944b60",
+      "crc32": "23616187",
+      "sha1": "c2ca05a3a4034d0bad377491d1d258df36208fb8",
+      "format": "JSON"
+    },
+    {
       "name": "wistatejournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7c160ed5c1538a3184ccfac57be6bd43b3ebf208",
-      "mtime": "1664345382",
-      "size": "314685",
-      "md5": "f2ed177c26eb50130af0d0681f8f9d30",
-      "crc32": "54d17bd4",
-      "sha1": "bf4201c1039e6ccffeb81dd54c4f0ae5321b8436",
+      "btih": "9c18635c86d6ee44dfc7627afce8aae7d3a4314a",
+      "mtime": "1664382026",
+      "size": "315989",
+      "md5": "28c0cc8a60740a9facfd8aee89d16f0c",
+      "crc32": "207a9931",
+      "sha1": "b76c33405cb3d657e9c36cc3219f84f4fa8bbef6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wistatejournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c1b92ff383596bf4672a7b15203ab275",
+      "md5": "3c94b2cd5ae591e16df78e9daa2b1423",
       "summation": "md5"
     },
     {
       "name": "wistatejournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664345325",
-      "size": "1757184",
-      "md5": "1bcf1e167ee3f856203e4c566ec1d175",
-      "crc32": "57a66910",
-      "sha1": "9a04b9433543b52a33afe71004245d75710d02d7",
+      "mtime": "1664381972",
+      "size": "1765376",
+      "md5": "dd8e17dbf59dd5e75305f068ff5c01ef",
+      "crc32": "32146934",
+      "sha1": "972b81bea37f302e05d99d27a1a42e4bb26e11e5",
       "format": "Metadata"
     },
     {
@@ -15077,9 +15139,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1446,
-  "item_last_updated": 1664345382,
-  "item_size": 136941597,
+  "files_count": 1452,
+  "item_last_updated": 1664382026,
+  "item_size": 137433453,
   "metadata": {
     "identifier": "wistatejournal-2022",
     "collection": [
@@ -15101,7 +15163,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420722645,
+      "task_id": 3421184249,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -15109,7 +15171,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1889513999,
+  "uniq": 1308931169,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]

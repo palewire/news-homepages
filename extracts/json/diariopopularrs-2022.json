@@ -1,5 +1,5 @@
 {
-  "created": 1664366632,
+  "created": 1664387796,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/29/items/diariopopularrs-2022",
@@ -8725,31 +8725,93 @@
       "format": "JSON"
     },
     {
+      "name": "diariopopularrs-2022-09-28T09:02:26.925950-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariopopularrs-2022-09-28T09:02:26.925950-03:00.jpg",
+      "mtime": "1664368852",
+      "size": "10979",
+      "md5": "d2a284a3e6ea58e916234566a31fe1f9",
+      "crc32": "889736c3",
+      "sha1": "5a420a5ec38e098819797a9a56e8b2e219262111"
+    },
+    {
+      "name": "diariopopularrs-2022-09-28T14:54:17.634768-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664387680",
+      "size": "21351",
+      "md5": "df67f0ae45fc6c6070171aa094110bc2",
+      "crc32": "a3f780c7",
+      "sha1": "830b7ac134ab28d0a3278dfdbfb3bfb780139bc2",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-09-28T14:54:17.634768-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664387683",
+      "size": "22062",
+      "md5": "4d72ec4a80bd93f44fe489766e2dc656",
+      "crc32": "499e578d",
+      "sha1": "bd16f979da89116631d4d9414a34feb86374fcfc",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-09-28T14:54:17.634768-03:00.jpg",
+      "source": "original",
+      "mtime": "1664387676",
+      "size": "303971",
+      "md5": "2447b354276c817c06095de513620fc0",
+      "crc32": "cd6cf927",
+      "sha1": "80c4e6c09c52a212be8a1c1405c4ddf9f1c864c5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariopopularrs-2022-09-28T14:54:17.634768-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664387686",
+      "size": "1547",
+      "md5": "33106c92a3337ce211bfda18ca6f7d45",
+      "crc32": "6ebb8d03",
+      "sha1": "c42f879b536f4faded9987cf772f84fdcf6a0b12",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-09-28T14:54:17.634768-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664387688",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "diariopopularrs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "52056c64b891811aa4ec9fb4cdfaae904c2e9878",
-      "mtime": "1664366619",
-      "size": "184788",
-      "md5": "f521f521bb35e91ef5b4fab1edcba98e",
-      "crc32": "b1595e4f",
-      "sha1": "1dfddcbdcc5219e4f59e0ba0af6bc5cf3aaba847",
+      "btih": "5594e50be6233e091077118b8ddd5a8d75aaba88",
+      "mtime": "1664387774",
+      "size": "186096",
+      "md5": "5d9f8ef36ae4d9f1b4cde81bbda90d04",
+      "crc32": "b009bd9d",
+      "sha1": "9b9efe33c4cf63749c19aa5e9c5245a0c9b1dc02",
       "format": "Archive BitTorrent"
     },
     {
       "name": "diariopopularrs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5c2bdf2ba2c1200750a9466cb4c15b59",
+      "md5": "ea01aa9f4da3366637bb4d789dbae86a",
       "summation": "md5"
     },
     {
       "name": "diariopopularrs-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664366569",
-      "size": "1101824",
-      "md5": "860108e7b9b2241f1a621693386a0bcf",
-      "crc32": "d9614b62",
-      "sha1": "fea73f581d0ab2fe348ad025bc568bd43b81d878",
+      "mtime": "1664387706",
+      "size": "1110016",
+      "md5": "0ced2f91509475323d860b35ed0f9d01",
+      "crc32": "d4a34a3a",
+      "sha1": "6a02e285438af8c56e51f1156d86d0c3496ee910",
       "format": "Metadata"
     },
     {
@@ -8763,9 +8825,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 848,
-  "item_last_updated": 1664366619,
-  "item_size": 51787681,
+  "files_count": 854,
+  "item_last_updated": 1664387774,
+  "item_size": 52157293,
   "metadata": {
     "identifier": "diariopopularrs-2022",
     "collection": [
@@ -8787,7 +8849,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420969474,
+      "task_id": 3421274121,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8795,7 +8857,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1319752553,
+  "uniq": 252329883,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]

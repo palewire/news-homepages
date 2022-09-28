@@ -1,5 +1,5 @@
 {
-  "created": 1664345204,
+  "created": 1664382308,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/4/items/vanityfair-2022",
@@ -9617,31 +9617,93 @@
       "format": "JSON"
     },
     {
+      "name": "vanityfair-2022-09-28T02:05:30.897534-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vanityfair-2022-09-28T02:05:30.897534-04:00.jpg",
+      "mtime": "1664347174",
+      "size": "9265",
+      "md5": "207c7a2c770a0c37c072911479fc1e68",
+      "crc32": "2bc061e1",
+      "sha1": "a9f201c4994d934aed5fb93a7dd0db2c4630c408"
+    },
+    {
+      "name": "vanityfair-2022-09-28T12:19:27.823549-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664381971",
+      "size": "31452",
+      "md5": "a68061e38f947fb587c8406ae8975d45",
+      "crc32": "aa3f3180",
+      "sha1": "3feb24c7e40325922d6ed289832c4ec8185d8095",
+      "format": "JSON"
+    },
+    {
+      "name": "vanityfair-2022-09-28T12:19:27.823549-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664381973",
+      "size": "19325",
+      "md5": "5bfd8c841b6bf974c2741aab55a8e732",
+      "crc32": "d238b123",
+      "sha1": "555c0db100a19bf271413aaa0a80e226b62bd46a",
+      "format": "JSON"
+    },
+    {
+      "name": "vanityfair-2022-09-28T12:19:27.823549-04:00.jpg",
+      "source": "original",
+      "mtime": "1664381969",
+      "size": "251476",
+      "md5": "1022d5684c5acbc1cc2b32b3b3c5a966",
+      "crc32": "2753d444",
+      "sha1": "720b012c79277c9f01acd0495ad8f4033a199731",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vanityfair-2022-09-28T12:19:27.823549-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664381975",
+      "size": "1485",
+      "md5": "db6ef1908867e075e4b549c7e010b1b8",
+      "crc32": "c3f9e215",
+      "sha1": "a6bc10d41e12612b38598e72f7480c2e285c16b3",
+      "format": "JSON"
+    },
+    {
+      "name": "vanityfair-2022-09-28T12:19:27.823549-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664381977",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "vanityfair-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fb1211b26019dde9e8a301a156d06d7db92f5272",
-      "mtime": "1664345194",
-      "size": "198397",
-      "md5": "460bd506376ae7e2df2773fd3e63b52a",
-      "crc32": "12b77a8a",
-      "sha1": "f65b6638b79a830182a6eb11426f8e99d3cbb094",
+      "btih": "49f57a3e6508656cf84c22bb54313bee45f15aef",
+      "mtime": "1664382267",
+      "size": "199654",
+      "md5": "18cd2f14813fc3c1840acabe8cae0534",
+      "crc32": "0dc08762",
+      "sha1": "905921e9f008b3a9833781df4026fa77760fa316",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vanityfair-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8b1eb59ae7d31636c2b91ea514644737",
+      "md5": "ab403d3105e37e448cb63020a773b29b",
       "summation": "md5"
     },
     {
       "name": "vanityfair-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664345145",
-      "size": "1171456",
-      "md5": "0b70f2af43fec8dc34a79fcd9fc58f68",
-      "crc32": "d5e83755",
-      "sha1": "9b27ce3f43e6d511195df66c62ee2339c8ae1ff5",
+      "mtime": "1664382173",
+      "size": "1179648",
+      "md5": "1bb625e604f0279af9cfd8a038839644",
+      "crc32": "c9cdbb24",
+      "sha1": "10dbaf003f511a0324dbf948e3fe654696b3fa72",
       "format": "Metadata"
     },
     {
@@ -9655,9 +9717,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 931,
-  "item_last_updated": 1664345194,
-  "item_size": 66960561,
+  "files_count": 937,
+  "item_last_updated": 1664382267,
+  "item_size": 67283215,
   "metadata": {
     "identifier": "vanityfair-2022",
     "collection": [
@@ -9679,7 +9741,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420720398,
+      "task_id": 3421188242,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9687,7 +9749,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 620441730,
+  "uniq": 1783481865,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

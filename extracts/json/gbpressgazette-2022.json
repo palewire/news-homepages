@@ -1,5 +1,5 @@
 {
-  "created": 1664349355,
+  "created": 1664392199,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/7/items/gbpressgazette-2022",
@@ -15632,31 +15632,82 @@
       "sha1": "244d9d36adc97a7dd2029af568877ac853bba899"
     },
     {
+      "name": "gbpressgazette-2022-09-28T12:56:40.212757-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664387811",
+      "size": "22504",
+      "md5": "37c2c35c182e9bd32f023e0095e48b2f",
+      "crc32": "be0dcf50",
+      "sha1": "6961012021f6d0ac1dad5a5f8b86815f460a600c",
+      "format": "JSON"
+    },
+    {
+      "name": "gbpressgazette-2022-09-28T12:56:40.212757-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664387813",
+      "size": "35355",
+      "md5": "af4c800c0439a2812f14abfb2df941c2",
+      "crc32": "917cab3c",
+      "sha1": "09d342680220348b7c08093c9f2377ca28f90527",
+      "format": "JSON"
+    },
+    {
+      "name": "gbpressgazette-2022-09-28T12:56:40.212757-05:00.jpg",
+      "source": "original",
+      "mtime": "1664387809",
+      "size": "276433",
+      "md5": "b246916f04e3c6271712a53140004cec",
+      "crc32": "a58ad540",
+      "sha1": "3cae868bfeb028dc1a1f45c4f8fa776b34580890",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gbpressgazette-2022-09-28T12:56:40.212757-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664387815",
+      "size": "1584",
+      "md5": "5dda18a313940f747373700dd8e2c12f",
+      "crc32": "d6bee6a7",
+      "sha1": "031eba6850261c47b544c345efebc94054bb2af9",
+      "format": "JSON"
+    },
+    {
+      "name": "gbpressgazette-2022-09-28T12:56:40.212757-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664387817",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "gbpressgazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e90d49b994714ab75ca6e8e679274bfa23e840b2",
-      "mtime": "1664349296",
-      "size": "325973",
-      "md5": "498f9b9bb2e0607690662305b022e919",
-      "crc32": "adc6463d",
-      "sha1": "bf3bf5bd184ae13ec1dcbb080cf0c18a8a96ddd3",
+      "btih": "81c82ffcecce1b775e6786a81c09cb11e57c5e20",
+      "mtime": "1664387871",
+      "size": "327044",
+      "md5": "ef41d796689b665ea058fc91d1f57d82",
+      "crc32": "adf99b3e",
+      "sha1": "86cca97c2709ba8310c070e5227b9c8dbb7c8af1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gbpressgazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f1d3914739eda902f72a13c7d1b04673",
+      "md5": "12fc171d2cf4ecda3985af3244d04ba8",
       "summation": "md5"
     },
     {
       "name": "gbpressgazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664346469",
-      "size": "1826816",
-      "md5": "9ec2111aa4828ef59dbeacf52b1e97e5",
-      "crc32": "f02494ca",
-      "sha1": "16923b43d19f7c5ed9462f6c19b658ad6bd0800f",
+      "mtime": "1664387820",
+      "size": "1830912",
+      "md5": "0a02906fa12af03fe1150201421c430c",
+      "crc32": "b028e30f",
+      "sha1": "94483feabfe5fd255492a7d63e8dae2a3cb97529",
       "format": "Metadata"
     },
     {
@@ -15670,9 +15721,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1503,
-  "item_last_updated": 1664349296,
-  "item_size": 116838699,
+  "files_count": 1508,
+  "gbpressgazette-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1664387871,
+  "item_size": 117179944,
   "metadata": {
     "identifier": "gbpressgazette-2022",
     "collection": [
@@ -15689,10 +15745,21 @@
     "publicdate": "2022-03-23 23:06:20",
     "addeddate": "2022-03-23 23:06:20"
   },
-  "server": "ia802508.us.archive.org",
-  "uniq": 312847741,
+  "pending_tasks": true,
+  "server": "ia902508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3421274969,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1726872086,
   "workable_servers": [
-    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

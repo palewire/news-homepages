@@ -1,5 +1,5 @@
 {
-  "created": 1664349273,
+  "created": 1664387777,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/15/items/dallasfreepress-2022",
@@ -9230,31 +9230,82 @@
       "sha1": "7103b86671d1fe94a09023bace8a54f741d8efc1"
     },
     {
+      "name": "dallasfreepress-2022-09-28T12:55:08.450627-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664387714",
+      "size": "11308",
+      "md5": "86d3d038e2b7ee6fcceae6c473d42a30",
+      "crc32": "8d2a3343",
+      "sha1": "ec86bf57a9ca711f361f4849487402520da1eff4",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasfreepress-2022-09-28T12:55:08.450627-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664387716",
+      "size": "4889",
+      "md5": "6502c9ef71df2c3015b52334fd05c46e",
+      "crc32": "a22b8202",
+      "sha1": "545f1ed7ba34020884b25aeda3dfa05382b1a504",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasfreepress-2022-09-28T12:55:08.450627-05:00.jpg",
+      "source": "original",
+      "mtime": "1664387712",
+      "size": "263515",
+      "md5": "cfcb7590e84642d834331fe641b85ccb",
+      "crc32": "0f9d58d0",
+      "sha1": "e736847fe7acb86e6bf21438c611abb7c1f5e611",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dallasfreepress-2022-09-28T12:55:08.450627-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664387718",
+      "size": "1495",
+      "md5": "03410a787d6a1a12e3ac2082de2cb038",
+      "crc32": "2674897f",
+      "sha1": "d4fe28acc75d421afe3b91a9355e3314373e48c1",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasfreepress-2022-09-28T12:55:08.450627-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664387721",
+      "size": "8966",
+      "md5": "e12773ea40316f0d4307a5f52eb76b59",
+      "crc32": "20e71515",
+      "sha1": "a7fea288ef7f5e9882c7ff23201ac9546a36fac6",
+      "format": "JSON"
+    },
+    {
       "name": "dallasfreepress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "82a9920671cc569f845dc9c5a043826b93675259",
-      "mtime": "1664348067",
-      "size": "194171",
-      "md5": "a82768573c2af55fab6b5c73296d1478",
-      "crc32": "f1cc0693",
-      "sha1": "c187f076ae54cd794d9eda1ba29173d87672ad40",
+      "btih": "346005aa5f0c8d86d17c8d9072915c863b2c9c03",
+      "mtime": "1664387773",
+      "size": "195247",
+      "md5": "bfcf845652f753fadab3ac5c29a60bc8",
+      "crc32": "619c2118",
+      "sha1": "ef9ab465d04c52411e5e0fd1b6f7ce6faca54210",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dallasfreepress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8b1f230fe980d144984fbdc61195facc",
+      "md5": "05092baa959422c04406168ab90bae54",
       "summation": "md5"
     },
     {
       "name": "dallasfreepress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664345853",
-      "size": "1138688",
-      "md5": "3dd007296abcbeb44a0612d18ef24beb",
-      "crc32": "40b37b25",
-      "sha1": "b35e0392c3b0f4ac96188a55ef960cb24ed127b9",
+      "mtime": "1664387729",
+      "size": "1142784",
+      "md5": "260f075499e752fcb059b197f80c85cc",
+      "crc32": "4598d329",
+      "sha1": "4211c13ed0fdccddc1c1e9974aeb2fac1f036d22",
       "format": "Metadata"
     },
     {
@@ -9268,9 +9319,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 894,
-  "item_last_updated": 1664348067,
-  "item_size": 48971284,
+  "files_count": 899,
+  "item_last_updated": 1664387773,
+  "item_size": 49266629,
   "metadata": {
     "identifier": "dallasfreepress-2022",
     "collection": [
@@ -9287,10 +9338,21 @@
     "publicdate": "2022-07-09 03:57:39",
     "addeddate": "2022-07-09 03:57:39"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 1777398040,
+  "pending_tasks": true,
+  "server": "ia601408.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3421273558,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 41421510,
   "workable_servers": [
-    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

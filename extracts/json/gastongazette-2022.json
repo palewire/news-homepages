@@ -1,5 +1,5 @@
 {
-  "created": 1664348581,
+  "created": 1664387832,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/35/items/gastongazette-2022",
@@ -998,31 +998,82 @@
       "sha1": "89cb0d8e427aa769feebf12805fdd2a1c5e55ffb"
     },
     {
+      "name": "gastongazette-2022-09-28T13:56:19.865728-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664387784",
+      "size": "22128",
+      "md5": "7ba3e76c1e5cec4bb455fb4011fef37f",
+      "crc32": "e00e321c",
+      "sha1": "677224463e5732f3c03d5bfdc912bfaf022f93bf",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-09-28T13:56:19.865728-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664387785",
+      "size": "34868",
+      "md5": "a4ffb46da17e2344757226982e147718",
+      "crc32": "5be1a1c7",
+      "sha1": "a2db660f875e86e09ce85e0fe4ddc5b948889958",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-09-28T13:56:19.865728-04:00.jpg",
+      "source": "original",
+      "mtime": "1664387782",
+      "size": "257968",
+      "md5": "c39f3b58b94e13d99353a8e3096b47d7",
+      "crc32": "70c8c5b9",
+      "sha1": "178b0623fc793b71194caab62ac31173f5fdf496",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gastongazette-2022-09-28T13:56:19.865728-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664387787",
+      "size": "1521",
+      "md5": "beedbb578cc6ccd097922c6ffc4b2083",
+      "crc32": "bd0db262",
+      "sha1": "c58daff1c1c32aac066240f229b8cf49254db5e5",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-09-28T13:56:19.865728-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664387789",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "gastongazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5dc2c15c393a1daf988b7fb8ccd81dc0b6aba1d6",
-      "mtime": "1664348530",
-      "size": "22123",
-      "md5": "52fd32352c540a2f6cf694d79bf34814",
-      "crc32": "7636094e",
-      "sha1": "fef910ae3a132a6549861e4ccd58084f2ec9eb3f",
+      "btih": "cf10ca69dfffe0bc08b5415af97a489afc3b23e4",
+      "mtime": "1664387828",
+      "size": "23189",
+      "md5": "9a6f043d100e6130b871034873e43dfa",
+      "crc32": "8024a039",
+      "sha1": "1f36073d65ee3a419a129e15439bee2f57163089",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gastongazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c3c4ea762306a1f02027650721b5c4e5",
+      "md5": "d4fa4765c6f6b441e2462f24a1cc816d",
       "summation": "md5"
     },
     {
       "name": "gastongazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664346478",
-      "size": "147456",
-      "md5": "94288b800f9735abefb812d4e493629b",
-      "crc32": "93430b6a",
-      "sha1": "0166f56b36f802dc55d67131d9598be36790848f",
+      "mtime": "1664387793",
+      "size": "151552",
+      "md5": "039e1b94fee752844e3b7a8382366b11",
+      "crc32": "38d1da65",
+      "sha1": "39a19631cc42ee909bb8131b5347035e3791f4af",
       "format": "Metadata"
     },
     {
@@ -1036,9 +1087,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 100,
-  "item_last_updated": 1664348530,
-  "item_size": 6478899,
+  "files_count": 105,
+  "item_last_updated": 1664387828,
+  "item_size": 6800748,
   "metadata": {
     "identifier": "gastongazette-2022",
     "collection": [
@@ -1055,10 +1106,21 @@
     "publicdate": "2022-09-20 17:51:49",
     "addeddate": "2022-09-20 17:51:49"
   },
+  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "uniq": 1077407191,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3421274368,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1790255482,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia601506.us.archive.org"
   ]
 }

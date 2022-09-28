@@ -1,5 +1,5 @@
 {
-  "created": 1664366779,
+  "created": 1664388055,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/12/items/folha-2022",
@@ -9723,31 +9723,93 @@
       "format": "JSON"
     },
     {
+      "name": "folha-2022-09-28T09:04:16.692044-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "folha-2022-09-28T09:04:16.692044-03:00.jpg",
+      "mtime": "1664369087",
+      "size": "10368",
+      "md5": "24160d2a8966eab9144003674d02318d",
+      "crc32": "6cc62978",
+      "sha1": "b37980ca1400ad3a39ea799a5b00ad864869aaeb"
+    },
+    {
+      "name": "folha-2022-09-28T14:56:29.338231-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664387793",
+      "size": "124773",
+      "md5": "c932dba74dadfc33d2d1beb308d0fa6b",
+      "crc32": "e0b05f38",
+      "sha1": "9057304b2455b49b2d172a4388f74237390f7e29",
+      "format": "JSON"
+    },
+    {
+      "name": "folha-2022-09-28T14:56:29.338231-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664387794",
+      "size": "120187",
+      "md5": "f1b0da1bf90a58f2e3e225a316efaaff",
+      "crc32": "0d2f828c",
+      "sha1": "1367ffe2bebb81ec210364c8a457e90d55679f6e",
+      "format": "JSON"
+    },
+    {
+      "name": "folha-2022-09-28T14:56:29.338231-03:00.jpg",
+      "source": "original",
+      "mtime": "1664387791",
+      "size": "279991",
+      "md5": "cdae6c7181e849e39e2f327dbb214432",
+      "crc32": "305fe8be",
+      "sha1": "c18bc3f7e78c7dbac711c9d6be5d655efb976314",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "folha-2022-09-28T14:56:29.338231-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664387801",
+      "size": "1513",
+      "md5": "6dd4fc6ecb4ac06fbd9b3afb134e9d40",
+      "crc32": "26bda937",
+      "sha1": "36f84eea06d1cbda6a05602dddd35f6cdf4a8861",
+      "format": "JSON"
+    },
+    {
+      "name": "folha-2022-09-28T14:56:29.338231-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664387807",
+      "size": "45879",
+      "md5": "8273e46b218b29f4230dd1e6e464de0e",
+      "crc32": "efa41094",
+      "sha1": "dbda8e2bae7ed6c04c566146aad00a06b90a9807",
+      "format": "JSON"
+    },
+    {
       "name": "folha-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fc56e6480a86b6a2edf40ca15b28268116063ddd",
-      "mtime": "1664366762",
-      "size": "197329",
-      "md5": "1910bd53f7de71effba2ba60d29373ff",
-      "crc32": "140bc6cc",
-      "sha1": "be0a352f02cc598a1946b4fd7d7fe84ae7061406",
+      "btih": "9d6531a02364d9da52e673d7b4165a1abeb87eb5",
+      "mtime": "1664388042",
+      "size": "198581",
+      "md5": "124f8f224d1cc1c01cadaebd999d2595",
+      "crc32": "7a112ef9",
+      "sha1": "67ff2ddc0141a4396826e0e0239b9302e958d8b7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "folha-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9c5da17112cbbdc6f2780695645f0b71",
+      "md5": "4c218ab81bf922be6be9f823cf518ede",
       "summation": "md5"
     },
     {
       "name": "folha-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664366685",
-      "size": "1204224",
-      "md5": "7e82937ce33690686b77ed7235fdcd41",
-      "crc32": "87b7210c",
-      "sha1": "b6c84ac5386fda37fb6e3d77c728bb6154fbd457",
+      "mtime": "1664387963",
+      "size": "1208320",
+      "md5": "43f01dbd4dbb2d9fdcb21dfb1649f9a1",
+      "crc32": "20f9580e",
+      "sha1": "a0953f9425c64383ce56bf55f1665baf3d33dcf4",
       "format": "Metadata"
     },
     {
@@ -9761,9 +9823,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 944,
-  "item_last_updated": 1664366762,
-  "item_size": 84799856,
+  "files_count": 950,
+  "item_last_updated": 1664388042,
+  "item_size": 85387915,
   "metadata": {
     "identifier": "folha-2022",
     "collection": [
@@ -9785,7 +9847,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420971712,
+      "task_id": 3421277913,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9793,7 +9855,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 994625584,
+  "uniq": 1182572383,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]

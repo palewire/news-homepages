@@ -1,5 +1,5 @@
 {
-  "created": 1664362379,
+  "created": 1664390216,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/2/items/globeandmail-2022",
@@ -21677,31 +21677,155 @@
       "format": "JSON"
     },
     {
+      "name": "globeandmail-2022-09-28T06:51:07.794456-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "globeandmail-2022-09-28T06:51:07.794456-04:00.jpg",
+      "mtime": "1664365267",
+      "size": "9228",
+      "md5": "423fd87728eb2acaa348c8d144c8cbfd",
+      "crc32": "d23f1612",
+      "sha1": "3d9f3adcd1a2bbfea26fba6c2f24018febac79dd"
+    },
+    {
+      "name": "globeandmail-2022-09-28T12:59:25.226472-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664384412",
+      "size": "36316",
+      "md5": "d1d0e09f25b3e3fca171f5fb6bc96e2e",
+      "crc32": "02b447e7",
+      "sha1": "9d30ae6855869ae744a1d39e35bb754b9880b3f7",
+      "format": "JSON"
+    },
+    {
+      "name": "globeandmail-2022-09-28T12:59:25.226472-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664384414",
+      "size": "39036",
+      "md5": "c6e9866e3591f2fdc42a86163035c9e9",
+      "crc32": "12242ab4",
+      "sha1": "4312c745e759ea3933934c5736d3104b9e4d8035",
+      "format": "JSON"
+    },
+    {
+      "name": "globeandmail-2022-09-28T12:59:25.226472-04:00.jpg",
+      "source": "original",
+      "mtime": "1664384409",
+      "size": "288238",
+      "md5": "f0a9d12b07d960b0e290bb65b4279936",
+      "crc32": "390ce5fd",
+      "sha1": "c850c90c07666f91e641d6063583274991c93444",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "globeandmail-2022-09-28T12:59:25.226472-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664384416",
+      "size": "1522",
+      "md5": "303fe5ef560fd81b4423ccabf0fb5d19",
+      "crc32": "302a9c0d",
+      "sha1": "a8974eba0a3c62c0f55333b6851d3f59e5a53d38",
+      "format": "JSON"
+    },
+    {
+      "name": "globeandmail-2022-09-28T12:59:25.226472-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664384418",
+      "size": "80156",
+      "md5": "7654b37a39b174087de1ef29af24d1de",
+      "crc32": "b5f3b94d",
+      "sha1": "72f4ec67ae43884544bd777db9b2266532717f61",
+      "format": "JSON"
+    },
+    {
+      "name": "globeandmail-2022-09-28T12:59:25.226472-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "globeandmail-2022-09-28T12:59:25.226472-04:00.jpg",
+      "mtime": "1664388764",
+      "size": "8940",
+      "md5": "f8579d037fc20ef54168a7d3cb352138",
+      "crc32": "1cd78ad9",
+      "sha1": "5305a53dbe7c363f3fffe7a56ea803c6c0756e4c"
+    },
+    {
+      "name": "globeandmail-2022-09-28T13:57:42.122143-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664387865",
+      "size": "36452",
+      "md5": "a643ef8d1c1fe367eedd1ea57cd8c575",
+      "crc32": "49ebcd2a",
+      "sha1": "ca9071b9c41b3a031d2b3964ffd9ee4a5f16983b",
+      "format": "JSON"
+    },
+    {
+      "name": "globeandmail-2022-09-28T13:57:42.122143-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664387867",
+      "size": "38952",
+      "md5": "f981497558a3f0ff9bf7ae9f751463a7",
+      "crc32": "dae42267",
+      "sha1": "7a7fbea9409ea88db085c345f825f5bd0b691143",
+      "format": "JSON"
+    },
+    {
+      "name": "globeandmail-2022-09-28T13:57:42.122143-04:00.jpg",
+      "source": "original",
+      "mtime": "1664387863",
+      "size": "290460",
+      "md5": "48adc2333bc72d37406f09e7e91ebd59",
+      "crc32": "061082ed",
+      "sha1": "8858fb7a0bd87175f4b39ae61c205f6f24f252a8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "globeandmail-2022-09-28T13:57:42.122143-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664387869",
+      "size": "1522",
+      "md5": "5bb07a2b3c37254b97ac6cf02257a4aa",
+      "crc32": "8714e0f4",
+      "sha1": "dc0427f29d6a86708e5da7a55c6e2d2da0c7f9b0",
+      "format": "JSON"
+    },
+    {
+      "name": "globeandmail-2022-09-28T13:57:42.122143-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664387871",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "globeandmail-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e29a559c9896afe21df50e9009d764e860b20d1b",
-      "mtime": "1664362363",
-      "size": "450222",
-      "md5": "c416dd5a79e12e794dd3ffd992b9d18b",
-      "crc32": "467aee68",
-      "sha1": "679b2b3b98ac25f238a76865fd04840b0b45aa10",
+      "btih": "87f65f9bb9048b43e84a0b07013cc89f12cd1a61",
+      "mtime": "1664390140",
+      "size": "452802",
+      "md5": "8fd20919503f86cd4fe7758d8b842475",
+      "crc32": "09b6ef84",
+      "sha1": "ada4c0a22da16df1fde979f8511d9bd0238ae9ef",
       "format": "Archive BitTorrent"
     },
     {
       "name": "globeandmail-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b87156237b083fdec960f02a730cd2a9",
+      "md5": "143dbc9c695500d7f1ed08a06b3189b4",
       "summation": "md5"
     },
     {
       "name": "globeandmail-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664362285",
-      "size": "2637824",
-      "md5": "78eaf48ceed1c9529f684123cc5199cc",
-      "crc32": "7a044d59",
-      "sha1": "7317da118050399e075cb0b7c3eb3bf671f80698",
+      "mtime": "1664390090",
+      "size": "2654208",
+      "md5": "6168f8ac554335adcc1ae35893c29c42",
+      "crc32": "fd703807",
+      "sha1": "84aed65b62badccc50a38753bd38abfc8ca5a12b",
       "format": "Metadata"
     },
     {
@@ -21715,9 +21839,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2095,
-  "item_last_updated": 1664362363,
-  "item_size": 159034491,
+  "files_count": 2107,
+  "item_last_updated": 1664390140,
+  "item_size": 159884479,
   "metadata": {
     "identifier": "globeandmail-2022",
     "collection": [
@@ -21747,7 +21871,7 @@
       "status": "paused"
     },
     {
-      "task_id": 3420916346,
+      "task_id": 3421302214,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -21755,7 +21879,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1690341413,
+  "uniq": 1933278768,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1664348581,
+  "created": 1664387859,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/32/items/freethinkmedia-2022",
@@ -8150,31 +8150,82 @@
       "sha1": "c447a00e1850eda9fec7bdf72a7450e62a100e13"
     },
     {
+      "name": "freethinkmedia-2022-09-28T10:56:17.124269-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664387784",
+      "size": "36508",
+      "md5": "709f5bc9896ebd7e9a51a6a9bb6cbcb8",
+      "crc32": "4da474d7",
+      "sha1": "cb186dfceb8d0f43482330ba047e354fb51e2073",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-09-28T10:56:17.124269-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664387786",
+      "size": "29043",
+      "md5": "04d166deb95a72b6eab9b2865d6213ee",
+      "crc32": "d57f0610",
+      "sha1": "5c7144d14f2f814a0ab459cc829d9c32bc808371",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-09-28T10:56:17.124269-07:00.jpg",
+      "source": "original",
+      "mtime": "1664387782",
+      "size": "239591",
+      "md5": "bc9f0b6622b1c74a25393224274bba2c",
+      "crc32": "1b227eb8",
+      "sha1": "d77a7183f0e78bc5c3222e92c2f439ebaeafbbba",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "freethinkmedia-2022-09-28T10:56:17.124269-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664387788",
+      "size": "1483",
+      "md5": "0a6cbedc6cb4c09035a81b16c852a378",
+      "crc32": "67122b7d",
+      "sha1": "cce165f558b5d8a3e9ccef6db3dc0fee47233f51",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-09-28T10:56:17.124269-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664387790",
+      "size": "15188",
+      "md5": "4447e7e4331c7f1ac3a31c8851359598",
+      "crc32": "2fb07289",
+      "sha1": "7bd3c319bf0b63e60dfb6d3e53c8cb3cf26c2dac",
+      "format": "JSON"
+    },
+    {
       "name": "freethinkmedia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "439b22cfc4c635c180ae654b96142872ab879bf9",
-      "mtime": "1664348477",
-      "size": "171278",
-      "md5": "3b5b6dd99d6646ea93a8182a11fe8f1b",
-      "crc32": "c4f883b7",
-      "sha1": "b4d97a6204e5557ce59432bdc20ef1b803bd2fff",
+      "btih": "7ce043e61c697d05635dd82cf123078f3afa23a8",
+      "mtime": "1664387847",
+      "size": "172351",
+      "md5": "597c2215c0b7b534a199f5faeb80cc8e",
+      "crc32": "8dece302",
+      "sha1": "446096f15bf14ed0597666c469cff4bac5d209d0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "freethinkmedia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2ddabfbcd3db04d82e38c7c5cf454ac5",
+      "md5": "4685d3b1380ce10d538c422f8bd0b97e",
       "summation": "md5"
     },
     {
       "name": "freethinkmedia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664346469",
-      "size": "1015808",
-      "md5": "e101099d8917219f32890ea7ff8f98e3",
-      "crc32": "5e5064c6",
-      "sha1": "2ff3dfa3a31f6af5a0d0f2bc6f44eb28be89f7c3",
+      "mtime": "1664387803",
+      "size": "1024000",
+      "md5": "8bf2a4109937d1ae88a9e8c3c985c299",
+      "crc32": "fb8a2684",
+      "sha1": "59635e58f9aa7d29bf227e44049a7b0a61ef2e3a",
       "format": "Metadata"
     },
     {
@@ -8188,9 +8239,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 791,
-  "item_last_updated": 1664348477,
-  "item_size": 41179179,
+  "files_count": 796,
+  "item_last_updated": 1664387847,
+  "item_size": 41510257,
   "metadata": {
     "identifier": "freethinkmedia-2022",
     "collection": [
@@ -8207,10 +8258,21 @@
     "publicdate": "2022-07-21 02:24:31",
     "addeddate": "2022-07-21 02:24:31"
   },
+  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "uniq": 200647808,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3421274727,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1462879928,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia601401.us.archive.org"
   ]
 }

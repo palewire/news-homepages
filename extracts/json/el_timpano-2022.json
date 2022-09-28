@@ -1,5 +1,5 @@
 {
-  "created": 1664348537,
+  "created": 1664387793,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/8/items/el_timpano-2022",
@@ -9568,31 +9568,82 @@
       "sha1": "488606f13110d6be2889bfdd60f95ee72a316ece"
     },
     {
+      "name": "el_timpano-2022-09-28T10:55:23.089449-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664387730",
+      "size": "10769",
+      "md5": "30e5df1bd61dbeefb5c07e7f6a33d556",
+      "crc32": "0ac1b12e",
+      "sha1": "586f53f0a43212c6cfcbe2341388cbb3cd8aaaec",
+      "format": "JSON"
+    },
+    {
+      "name": "el_timpano-2022-09-28T10:55:23.089449-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664387732",
+      "size": "9123",
+      "md5": "b5a493c1d15280e3f4a408616b714709",
+      "crc32": "cb0b30f9",
+      "sha1": "77dc724b266fc198a559f327b44cdc137d008d47",
+      "format": "JSON"
+    },
+    {
+      "name": "el_timpano-2022-09-28T10:55:23.089449-07:00.jpg",
+      "source": "original",
+      "mtime": "1664387728",
+      "size": "216287",
+      "md5": "c4ea215625e33c72b5f5f7d256e5aae2",
+      "crc32": "23d2327e",
+      "sha1": "4981baab73a05acdaeafbac5bb62d1a081268bc5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "el_timpano-2022-09-28T10:55:23.089449-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664387733",
+      "size": "1477",
+      "md5": "cfff6bfa4e88ae13b61fa08c37750c52",
+      "crc32": "500fcc7b",
+      "sha1": "bef544d8aca0c5a661222b11ec83c804d890a6f0",
+      "format": "JSON"
+    },
+    {
+      "name": "el_timpano-2022-09-28T10:55:23.089449-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664387735",
+      "size": "9769",
+      "md5": "4acea741c9b0e854ab83f0b2753ce682",
+      "crc32": "743fb2fb",
+      "sha1": "ee5684a34c51ebf9e33dc6dbb1797fa8d497c3e2",
+      "format": "JSON"
+    },
+    {
       "name": "el_timpano-2022_archive.torrent",
       "source": "metadata",
-      "btih": "94a847bf05ab95c24648f191cd38aa75aaedde28",
-      "mtime": "1664348169",
-      "size": "196183",
-      "md5": "7f1b1f5da7efdb796352f7bf0278c23b",
-      "crc32": "83c0eaee",
-      "sha1": "99ab02e5f640617b9d95498f8ca858b742525705",
+      "btih": "a3594e0cb734d3908c62f784d98872a00489a6dc",
+      "mtime": "1664387785",
+      "size": "197254",
+      "md5": "b15fac99dc03b7def703817bccaaf2d6",
+      "crc32": "c0bfabd0",
+      "sha1": "3ce1a82c36bc16e2f694a6235dbce5e79087c4f8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "el_timpano-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "62868d3e19db65e6011995b1f0e64896",
+      "md5": "07804e61dcff9fbb1161ae249a7d208d",
       "summation": "md5"
     },
     {
       "name": "el_timpano-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664346118",
-      "size": "1159168",
-      "md5": "5844a4e1588ac008046451d25ee39e23",
-      "crc32": "9071c96b",
-      "sha1": "f90d1cdf70f6e9bcf9866ea02bbc5c2ac3dbc6e0",
+      "mtime": "1664387741",
+      "size": "1171456",
+      "md5": "a256e807005326f6b41d1601cb120461",
+      "crc32": "08c5d04d",
+      "sha1": "552688d073d6a40c62eb2e54679a5c9d1d388455",
       "format": "Metadata"
     },
     {
@@ -9606,9 +9657,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 926,
-  "item_last_updated": 1664348169,
-  "item_size": 45073742,
+  "files_count": 931,
+  "item_last_updated": 1664387785,
+  "item_size": 45334526,
   "metadata": {
     "identifier": "el_timpano-2022",
     "collection": [
@@ -9625,10 +9676,21 @@
     "publicdate": "2022-07-09 03:58:15",
     "addeddate": "2022-07-09 03:58:15"
   },
+  "pending_tasks": true,
   "server": "ia902509.us.archive.org",
-  "uniq": 1139755993,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3421273828,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 226961657,
   "workable_servers": [
-    "ia902509.us.archive.org",
-    "ia802509.us.archive.org"
+    "ia902509.us.archive.org"
   ]
 }

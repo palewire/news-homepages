@@ -1,7 +1,12 @@
 {
-  "created": 1664348076,
+  "created": 1664391959,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
+  "dailysunsa-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "dir": "/21/items/dailysunsa-2022",
   "files": [
     {
@@ -4492,31 +4497,82 @@
       "sha1": "f87851a56aceb807c97372a0ba3fa22a57263b4c"
     },
     {
+      "name": "dailysunsa-2022-09-28T19:54:47.153687+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664387702",
+      "size": "24077",
+      "md5": "35481a2ef1b93d02f99b601aeb9163b1",
+      "crc32": "050b0f8c",
+      "sha1": "84efb4d754c4c53cbd341dd88aebce2e0ee95f3f",
+      "format": "JSON"
+    },
+    {
+      "name": "dailysunsa-2022-09-28T19:54:47.153687+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664387704",
+      "size": "59071",
+      "md5": "066245e5567d924e59f723e2fbea0d2d",
+      "crc32": "30ed8667",
+      "sha1": "ee528311bb05f94adf2e819f40c50e0e4a085001",
+      "format": "JSON"
+    },
+    {
+      "name": "dailysunsa-2022-09-28T19:54:47.153687+02:00.jpg",
+      "source": "original",
+      "mtime": "1664387698",
+      "size": "242351",
+      "md5": "29aab78cdfa9a49299c108be9236b5a3",
+      "crc32": "9d56353e",
+      "sha1": "58596b33ffedc7bed621966edcf5c838e9615c0f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailysunsa-2022-09-28T19:54:47.153687+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664387706",
+      "size": "1515",
+      "md5": "9f5a63e6c1c43a0b31aee312e38f185e",
+      "crc32": "bf727950",
+      "sha1": "108632f363722b780edf9a85ffecc7b8fd447c6c",
+      "format": "JSON"
+    },
+    {
+      "name": "dailysunsa-2022-09-28T19:54:47.153687+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664387708",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "dailysunsa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7aacf8f051f2aad09db9c4abebe5e4b88092150e",
-      "mtime": "1664348060",
-      "size": "93579",
-      "md5": "a483295f57b95aa74cb5a30b79f4a688",
-      "crc32": "897814ed",
-      "sha1": "9830632b74704351de03313cd62fe2e94068ac2d",
+      "btih": "d4b4a9d4a752f76165a545b5a2e851b7270642f0",
+      "mtime": "1664387798",
+      "size": "94650",
+      "md5": "5ff33616b0da1da48c8a085aaeaf6004",
+      "crc32": "060b9eee",
+      "sha1": "f0bcbffa3e4c1e84ab05ff2235d8acf9575d55ac",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailysunsa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "505a4b2dfd7efe71b743c423e6a18edc",
+      "md5": "f46d478320444070014d3fd03b104a87",
       "summation": "md5"
     },
     {
       "name": "dailysunsa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664345813",
-      "size": "569344",
-      "md5": "9274ad6b7cdf1f4c683aa4976bbbce09",
-      "crc32": "3b265683",
-      "sha1": "7e250bee5122f29479b8a74b72b69d29ccb186a9",
+      "mtime": "1664387737",
+      "size": "581632",
+      "md5": "d368996f1776a8b561a91e603b6ca6b8",
+      "crc32": "af73f869",
+      "sha1": "8ee6644564f7ce034fc5e8b022131eac16093ca9",
       "format": "Metadata"
     },
     {
@@ -4530,9 +4586,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 438,
-  "item_last_updated": 1664348060,
-  "item_size": 28692362,
+  "files_count": 443,
+  "item_last_updated": 1664387798,
+  "item_size": 29032937,
   "metadata": {
     "identifier": "dailysunsa-2022",
     "collection": [
@@ -4549,10 +4605,21 @@
     "publicdate": "2022-08-23 02:24:31",
     "addeddate": "2022-08-23 02:24:31"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 942404757,
+  "pending_tasks": true,
+  "server": "ia601508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3421276170,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1303100798,
   "workable_servers": [
-    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

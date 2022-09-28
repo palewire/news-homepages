@@ -1,5 +1,5 @@
 {
-  "created": 1664351109,
+  "created": 1664387757,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/6/items/eater-2022",
@@ -9202,31 +9202,82 @@
       "sha1": "b9332e1eb4d796b9ad91d967a917d9fe9d139797"
     },
     {
+      "name": "eater-2022-09-28T13:54:28.661046-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664387686",
+      "size": "32503",
+      "md5": "0caa67c074fcb020899d993d80803888",
+      "crc32": "00131168",
+      "sha1": "8ac0364a71b01cfb89e5f43a3e1971c3ac546d2e",
+      "format": "JSON"
+    },
+    {
+      "name": "eater-2022-09-28T13:54:28.661046-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664387688",
+      "size": "44041",
+      "md5": "7592fa74ef5cc6070481ef8943a24c9f",
+      "crc32": "465be51e",
+      "sha1": "a8093f218b236a35542dc6b1caa73c5902d75734",
+      "format": "JSON"
+    },
+    {
+      "name": "eater-2022-09-28T13:54:28.661046-04:00.jpg",
+      "source": "original",
+      "mtime": "1664387683",
+      "size": "325493",
+      "md5": "7dc8b6f1c51401ef7022ce2974b90ae4",
+      "crc32": "3256d0df",
+      "sha1": "a8c7ea30a238462e33d2c5e1493ea6d7640b7443",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eater-2022-09-28T13:54:28.661046-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664387690",
+      "size": "1447",
+      "md5": "5b2973e6b56ef8c6e35e4429ac65ec4c",
+      "crc32": "c819532c",
+      "sha1": "7e84d4692217b35e73655060fdd994b122d388d8",
+      "format": "JSON"
+    },
+    {
+      "name": "eater-2022-09-28T13:54:28.661046-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664387693",
+      "size": "98",
+      "md5": "4e2c66f5b62d621caa48c38a04ddc282",
+      "crc32": "47a160c8",
+      "sha1": "cc6060a433f8d804e51580a5ac4cb28042edbbb5",
+      "format": "JSON"
+    },
+    {
       "name": "eater-2022_archive.torrent",
       "source": "metadata",
-      "btih": "222dffc20a63a2e79cf50c732d8893a098e3f462",
-      "mtime": "1664349660",
-      "size": "186096",
-      "md5": "a79d3ed9209e9d7ccbebeaaa69301d11",
-      "crc32": "ad43213c",
-      "sha1": "3ef43059043c2c109a18c68f5eec207f0d661785",
+      "btih": "bbc4f18692ffbcb0ac9b1bb1dd2305bfbe984a70",
+      "mtime": "1664387743",
+      "size": "187141",
+      "md5": "42a8c2c61c276962d510057ae3d72e70",
+      "crc32": "4a41ac21",
+      "sha1": "6aa55db4730eed45f1f6603afce71ae21e095b0d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eater-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "27ccf44d5d7fc770f6aa29f188d0a830",
+      "md5": "70355317977ff4d27cd25952346bffae",
       "summation": "md5"
     },
     {
       "name": "eater-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664346131",
-      "size": "1114112",
-      "md5": "80d541221ed44c0900badb96e6a81e80",
-      "crc32": "403f6482",
-      "sha1": "c8d885dc702c7a7d906f81ade61114c9cd9fb7d3",
+      "mtime": "1664387698",
+      "size": "1122304",
+      "md5": "5568bf1ed96f50a3b21896f3ca1f8aea",
+      "crc32": "9f55348d",
+      "sha1": "8005ac7c35d96826a4f28a6e4df43705b8dcb0a2",
       "format": "Metadata"
     },
     {
@@ -9240,9 +9291,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 891,
-  "item_last_updated": 1664349660,
-  "item_size": 79271255,
+  "files_count": 896,
+  "item_last_updated": 1664387743,
+  "item_size": 79684074,
   "metadata": {
     "identifier": "eater-2022",
     "collection": [
@@ -9259,10 +9310,21 @@
     "publicdate": "2022-07-09 03:58:25",
     "addeddate": "2022-07-09 03:58:25"
   },
-  "server": "ia801509.us.archive.org",
-  "uniq": 1450020864,
+  "pending_tasks": true,
+  "server": "ia601509.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3421273247,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 730419566,
   "workable_servers": [
-    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1664345207,
+  "created": 1664381911,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/31/items/chunichi_denhen-2022",
@@ -13651,31 +13651,93 @@
       "format": "JSON"
     },
     {
+      "name": "chunichi_denhen-2022-09-28T15:05:26.008197+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chunichi_denhen-2022-09-28T15:05:26.008197+09:00.jpg",
+      "mtime": "1664347220",
+      "size": "10168",
+      "md5": "824edb6664e369fd3345a6630d9ecf5c",
+      "crc32": "ec6ed3f2",
+      "sha1": "1addc53c0e06a131ec22c552bacc7466524b8b88"
+    },
+    {
+      "name": "chunichi_denhen-2022-09-29T01:17:03.700100+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664381828",
+      "size": "67320",
+      "md5": "3ba8d8fcdc2cff41b1e3fc027988f5f9",
+      "crc32": "02b634d2",
+      "sha1": "c759569ed60af6c9a25e2d1487ae722eb56cc685",
+      "format": "JSON"
+    },
+    {
+      "name": "chunichi_denhen-2022-09-29T01:17:03.700100+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664381830",
+      "size": "82559",
+      "md5": "ee6cd55305eb3a9446e6cb30a3c711c7",
+      "crc32": "90dd1ca9",
+      "sha1": "547ecfbf1b288ef7779f569db4bffa73df0ca90c",
+      "format": "JSON"
+    },
+    {
+      "name": "chunichi_denhen-2022-09-29T01:17:03.700100+09:00.jpg",
+      "source": "original",
+      "mtime": "1664381826",
+      "size": "292845",
+      "md5": "cc7cda55320789ef8dd4f9f1a025e0bb",
+      "crc32": "4118014c",
+      "sha1": "99708b307c406607b3ea70d717a52b3c5e24fab5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chunichi_denhen-2022-09-29T01:17:03.700100+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664381833",
+      "size": "1495",
+      "md5": "a323b7ab836a13be32a8a651243f3677",
+      "crc32": "fd28ca83",
+      "sha1": "67047b4e6d9efd95c23bd0da0e6314da330bdc28",
+      "format": "JSON"
+    },
+    {
+      "name": "chunichi_denhen-2022-09-29T01:17:03.700100+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1664381835",
+      "size": "43451",
+      "md5": "ed8bff626ea854ee8f47ee44e1013e6d",
+      "crc32": "684e3749",
+      "sha1": "47aa61aa9f3f6a66b7558cc1baa023477ed7afc6",
+      "format": "JSON"
+    },
+    {
       "name": "chunichi_denhen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "39ab7cbe98d193ff6907a42801d6c4a3f9d3be62",
-      "mtime": "1664345199",
-      "size": "288640",
-      "md5": "bb757fe36268f5ab788850ceb2d32950",
-      "crc32": "2b6bbcaa",
-      "sha1": "6d9259276b5147322f79c177116267ef73bb4cff",
+      "btih": "df2ce29df8d9bd8de03d4e78d7e8a57e1e1b5909",
+      "mtime": "1664381902",
+      "size": "289950",
+      "md5": "af51b4cf7e83ec6871065acf1716374a",
+      "crc32": "09cd23c0",
+      "sha1": "558a8129a2f9ed5d086691124e523f673a3c97a5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chunichi_denhen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "69072e6820cbab79a36fcb94934f3b4f",
+      "md5": "9ec04318b75879187805c8ab19b40005",
       "summation": "md5"
     },
     {
       "name": "chunichi_denhen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664345143",
-      "size": "1667072",
-      "md5": "11fed33b3d8fb8e9b02f62b27ac6b0f7",
-      "crc32": "a5ba4833",
-      "sha1": "5e8a79bb468b210963fd7e5b1b6bab3800f50db3",
+      "mtime": "1664381843",
+      "size": "1675264",
+      "md5": "c4975a39a938628db1df81b289c1c513",
+      "crc32": "f55f7961",
+      "sha1": "0c0f7ba76c79a51437afba2d42d6fed5e21286ff",
       "format": "Metadata"
     },
     {
@@ -13689,9 +13751,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1320,
-  "item_last_updated": 1664345199,
-  "item_size": 119086850,
+  "files_count": 1326,
+  "item_last_updated": 1664381902,
+  "item_size": 119594190,
   "metadata": {
     "identifier": "chunichi_denhen-2022",
     "collection": [
@@ -13713,7 +13775,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420720465,
+      "task_id": 3421182541,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13721,7 +13783,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1614571515,
+  "uniq": 250607762,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]
