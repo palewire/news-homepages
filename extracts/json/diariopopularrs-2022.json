@@ -1,12 +1,7 @@
 {
-  "created": 1664351285,
+  "created": 1664366632,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
-  "diariopopularrs-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "dir": "/29/items/diariopopularrs-2022",
   "files": [
     {
@@ -8679,31 +8674,82 @@
       "sha1": "f3ac8ee3a5437d4f577555a15fc1cf607830ebc1"
     },
     {
+      "name": "diariopopularrs-2022-09-28T09:02:26.925950-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664366554",
+      "size": "21252",
+      "md5": "490ddabf0dfdd404d989e3ef479606b1",
+      "crc32": "e7206d2c",
+      "sha1": "1e6df897e20c0e872baa6eeb84f43008d05c6fb1",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-09-28T09:02:26.925950-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664366557",
+      "size": "21968",
+      "md5": "f5da20b3efa8b704330eb9e02e76208c",
+      "crc32": "2dfb2829",
+      "sha1": "584987d008ac661d05b855cef5110620765f0502",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-09-28T09:02:26.925950-03:00.jpg",
+      "source": "original",
+      "mtime": "1664366552",
+      "size": "287106",
+      "md5": "7bac037cc77c79dc8481d9f7f8c3ad22",
+      "crc32": "011f8dc3",
+      "sha1": "2be2ff75584afda7f622ded4a66cf87f197a465e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariopopularrs-2022-09-28T09:02:26.925950-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664366561",
+      "size": "1548",
+      "md5": "e8a4d08c1f8b8037ca94c9f6da2fbaf6",
+      "crc32": "5c3bb0b9",
+      "sha1": "ceece7ee9d2c9adc1fc96d9e797d648728cf30e6",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-09-28T09:02:26.925950-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664366562",
+      "size": "16834",
+      "md5": "0f984c08c8aefa48578d462a6b11d2bf",
+      "crc32": "9da350e5",
+      "sha1": "5c7bc50dba1e54562f931c81288113948976c72f",
+      "format": "JSON"
+    },
+    {
       "name": "diariopopularrs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a3f3dcc0aa45009687673464dfe269eb1f8ce2f1",
-      "mtime": "1664348245",
-      "size": "183690",
-      "md5": "ba08c7fff655bcaecb0b688085027d3e",
-      "crc32": "070eaee2",
-      "sha1": "d18d33c1e44287be0333617b5d46318cdf2e790b",
+      "btih": "52056c64b891811aa4ec9fb4cdfaae904c2e9878",
+      "mtime": "1664366619",
+      "size": "184788",
+      "md5": "f521f521bb35e91ef5b4fab1edcba98e",
+      "crc32": "b1595e4f",
+      "sha1": "1dfddcbdcc5219e4f59e0ba0af6bc5cf3aaba847",
       "format": "Archive BitTorrent"
     },
     {
       "name": "diariopopularrs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f90e943fc54386c2394414a96931dc0c",
+      "md5": "5c2bdf2ba2c1200750a9466cb4c15b59",
       "summation": "md5"
     },
     {
       "name": "diariopopularrs-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664346120",
-      "size": "1089536",
-      "md5": "2c256879514eadace57c7ea4661004ee",
-      "crc32": "8f9a1289",
-      "sha1": "2b9ff12b641b158df620fbde8bf550e0d4700bc2",
+      "mtime": "1664366569",
+      "size": "1101824",
+      "md5": "860108e7b9b2241f1a621693386a0bcf",
+      "crc32": "d9614b62",
+      "sha1": "fea73f581d0ab2fe348ad025bc568bd43b81d878",
       "format": "Metadata"
     },
     {
@@ -8717,9 +8763,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 843,
-  "item_last_updated": 1664348245,
-  "item_size": 51425587,
+  "files_count": 848,
+  "item_last_updated": 1664366619,
+  "item_size": 51787681,
   "metadata": {
     "identifier": "diariopopularrs-2022",
     "collection": [
@@ -8736,10 +8782,21 @@
     "publicdate": "2022-08-09 17:22:14",
     "addeddate": "2022-08-09 17:22:14"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 1316221713,
+  "pending_tasks": true,
+  "server": "ia601500.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3420969474,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1319752553,
   "workable_servers": [
-    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }
