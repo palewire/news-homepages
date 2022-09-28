@@ -28,13 +28,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 15 screenshots with the Internet Archive.
+The archiving routine has saved 16 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fostersdailydem-2022/fostersdailydem-2022-09-27T19:54:40.726895-04:00.jpg">
+  <img src="https://archive.org/download/fostersdailydem-2022/fostersdailydem-2022-09-27T19:54:40.726895-04:00.jpg"
+     alt="Foster's Daily Democrat at 2022-09-27 19:54:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fostersdailydem-2022/fostersdailydem-2022-09-27T19:54:40.726895-04:00.jpg">September 27 at 7:54 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fostersdailydem-2022/fostersdailydem-2022-09-27T07:55:32.841477-04:00.jpg">
@@ -135,20 +144,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/fostersdailydem-2022/fostersdailydem-2022-09-22T07:57:36.319941-04:00.jpg">September 22 at 7:57 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/fostersdailydem-2022/fostersdailydem-2022-09-21T19:45:13.108878-04:00.jpg">
-  <img src="https://archive.org/download/fostersdailydem-2022/fostersdailydem-2022-09-21T19:45:13.108878-04:00.jpg"
-     alt="Foster's Daily Democrat at 2022-09-21 19:45:15-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fostersdailydem-2022/fostersdailydem-2022-09-21T19:45:13.108878-04:00.jpg">September 21 at 7:45 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 15 hyperlink lists with the Internet Archive.
+The archiving routine has saved 16 hyperlink lists with the Internet Archive.
 
 
 
@@ -156,6 +156,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 27 at 7:54 PM](https://archive.org/download/fostersdailydem-2022/fostersdailydem-2022-09-27T19:54:40.726895-04:00.hyperlinks.json) |
 | [September 27 at 7:55 AM](https://archive.org/download/fostersdailydem-2022/fostersdailydem-2022-09-27T07:55:32.841477-04:00.hyperlinks.json) |
 | [September 26 at 7:49 PM](https://archive.org/download/fostersdailydem-2022/fostersdailydem-2022-09-26T19:49:35.422950-04:00.hyperlinks.json) |
 | [September 26 at 8:02 AM](https://archive.org/download/fostersdailydem-2022/fostersdailydem-2022-09-26T08:02:51.071490-04:00.hyperlinks.json) |
@@ -165,7 +166,6 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 7:49 AM](https://archive.org/download/fostersdailydem-2022/fostersdailydem-2022-09-24T07:49:31.810764-04:00.hyperlinks.json) |
 | [September 23 at 7:48 PM](https://archive.org/download/fostersdailydem-2022/fostersdailydem-2022-09-23T19:48:34.629012-04:00.hyperlinks.json) |
 | [September 23 at 7:56 AM](https://archive.org/download/fostersdailydem-2022/fostersdailydem-2022-09-23T07:56:03.844842-04:00.hyperlinks.json) |
-| [September 22 at 7:50 PM](https://archive.org/download/fostersdailydem-2022/fostersdailydem-2022-09-22T19:50:37.252512-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -193,7 +193,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
 
 
 
@@ -201,6 +201,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 27 at 7:54 PM](https://archive.org/download/fostersdailydem-2022/fostersdailydem-2022-09-27T19:54:40.726895-04:00.lighthouse.json) |
 | [September 27 at 7:55 AM](https://archive.org/download/fostersdailydem-2022/fostersdailydem-2022-09-27T07:55:32.841477-04:00.lighthouse.json) |
 | [September 26 at 7:49 PM](https://archive.org/download/fostersdailydem-2022/fostersdailydem-2022-09-26T19:49:35.422950-04:00.lighthouse.json) |
 | [September 26 at 8:03 AM](https://archive.org/download/fostersdailydem-2022/fostersdailydem-2022-09-26T08:02:51.071490-04:00.lighthouse.json) |
@@ -210,7 +211,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 7:49 AM](https://archive.org/download/fostersdailydem-2022/fostersdailydem-2022-09-24T07:49:31.810764-04:00.lighthouse.json) |
 | [September 23 at 7:48 PM](https://archive.org/download/fostersdailydem-2022/fostersdailydem-2022-09-23T19:48:34.629012-04:00.lighthouse.json) |
 | [September 23 at 7:56 AM](https://archive.org/download/fostersdailydem-2022/fostersdailydem-2022-09-23T07:56:03.844842-04:00.lighthouse.json) |
-| [September 22 at 7:50 PM](https://archive.org/download/fostersdailydem-2022/fostersdailydem-2022-09-22T19:50:37.252512-04:00.lighthouse.json) |
 
 
 

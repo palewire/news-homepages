@@ -28,13 +28,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 28 screenshots with the Internet Archive.
+The archiving routine has saved 29 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-27T19:50:03.725414-04:00.jpg">
+  <img src="https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-27T19:50:03.725414-04:00.jpg"
+     alt="Delaware Today at 2022-09-27 19:50:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-27T19:50:03.725414-04:00.jpg">September 27 at 7:50 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-27T07:53:41.978823-04:00.jpg">
@@ -135,20 +144,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-22T07:56:28.908495-04:00.jpg">September 22 at 7:56 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-21T19:42:01.863530-04:00.jpg">
-  <img src="https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-21T19:42:01.863530-04:00.jpg"
-     alt="Delaware Today at 2022-09-21 19:42:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-21T19:42:01.863530-04:00.jpg">September 21 at 7:42 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 28 hyperlink lists with the Internet Archive.
+The archiving routine has saved 29 hyperlink lists with the Internet Archive.
 
 
 
@@ -156,6 +156,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 27 at 7:50 PM](https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-27T19:50:03.725414-04:00.hyperlinks.json) |
 | [September 27 at 7:53 AM](https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-27T07:53:41.978823-04:00.hyperlinks.json) |
 | [September 26 at 7:45 PM](https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-26T19:44:59.095901-04:00.hyperlinks.json) |
 | [September 26 at 8:01 AM](https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-26T08:01:19.520266-04:00.hyperlinks.json) |
@@ -165,12 +166,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 7:47 AM](https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-24T07:47:27.684500-04:00.hyperlinks.json) |
 | [September 23 at 7:43 PM](https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-23T19:43:55.095990-04:00.hyperlinks.json) |
 | [September 23 at 7:53 AM](https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-23T07:53:17.218441-04:00.hyperlinks.json) |
-| [September 22 at 7:45 PM](https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-22T19:44:59.379547-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 28 accessibility trees with the Internet Archive.
+The archiving routine has saved 29 accessibility trees with the Internet Archive.
 
 
 
@@ -178,6 +178,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 27 at 7:50 PM](https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-27T19:50:03.725414-04:00.accessibility.json) |
 | [September 27 at 7:53 AM](https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-27T07:53:41.978823-04:00.accessibility.json) |
 | [September 26 at 7:45 PM](https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-26T19:44:59.095901-04:00.accessibility.json) |
 | [September 26 at 8:01 AM](https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-26T08:01:19.520266-04:00.accessibility.json) |
@@ -187,13 +188,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 7:47 AM](https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-24T07:47:27.684500-04:00.accessibility.json) |
 | [September 23 at 7:43 PM](https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-23T19:43:55.095990-04:00.accessibility.json) |
 | [September 23 at 7:53 AM](https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-23T07:53:17.218441-04:00.accessibility.json) |
-| [September 22 at 7:45 PM](https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-22T19:44:59.379547-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
 
 
 
@@ -201,6 +201,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 27 at 7:50 PM](https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-27T19:50:03.725414-04:00.lighthouse.json) |
 | [September 27 at 7:53 AM](https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-27T07:53:41.978823-04:00.lighthouse.json) |
 | [September 26 at 7:45 PM](https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-26T19:44:59.095901-04:00.lighthouse.json) |
 | [September 26 at 8:01 AM](https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-26T08:01:19.520266-04:00.lighthouse.json) |
@@ -210,7 +211,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 7:47 AM](https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-24T07:47:27.684500-04:00.lighthouse.json) |
 | [September 23 at 7:44 PM](https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-23T19:43:55.095990-04:00.lighthouse.json) |
 | [September 23 at 7:53 AM](https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-23T07:53:17.218441-04:00.lighthouse.json) |
-| [September 22 at 7:45 PM](https://archive.org/download/delawaretoday-2022/delawaretoday-2022-09-22T19:44:59.379547-04:00.lighthouse.json) |
 
 
 

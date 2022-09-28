@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 175 screenshots with the Internet Archive.
+The archiving routine has saved 176 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 175 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/discovery-2022/discovery-2022-09-27T19:52:15.045514-04:00.jpg">
+  <img src="https://archive.org/download/discovery-2022/discovery-2022-09-27T19:52:15.045514-04:00.jpg"
+     alt="Discovery at 2022-09-27 19:52:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/discovery-2022/discovery-2022-09-27T19:52:15.045514-04:00.jpg">September 27 at 7:52 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/discovery-2022/discovery-2022-09-27T07:53:56.410607-04:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/discovery-2022/discovery-2022-09-22T07:55:52.796067-04:00.jpg">September 22 at 7:55 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/discovery-2022/discovery-2022-09-21T19:43:29.933825-04:00.jpg">
-  <img src="https://archive.org/download/discovery-2022/discovery-2022-09-21T19:43:29.933825-04:00.jpg"
-     alt="Discovery at 2022-09-21 19:43:31-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/discovery-2022/discovery-2022-09-21T19:43:29.933825-04:00.jpg">September 21 at 7:43 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 175 hyperlink lists with the Internet Archive.
+The archiving routine has saved 176 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 27 at 7:52 PM](https://archive.org/download/discovery-2022/discovery-2022-09-27T19:52:15.045514-04:00.hyperlinks.json) |
 | [September 27 at 7:54 AM](https://archive.org/download/discovery-2022/discovery-2022-09-27T07:53:56.410607-04:00.hyperlinks.json) |
 | [September 26 at 7:49 PM](https://archive.org/download/discovery-2022/discovery-2022-09-26T19:49:10.500712-04:00.hyperlinks.json) |
 | [September 26 at 8:00 AM](https://archive.org/download/discovery-2022/discovery-2022-09-26T08:00:03.040213-04:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 7:48 AM](https://archive.org/download/discovery-2022/discovery-2022-09-24T07:48:11.561809-04:00.hyperlinks.json) |
 | [September 23 at 7:46 PM](https://archive.org/download/discovery-2022/discovery-2022-09-23T19:46:42.621514-04:00.hyperlinks.json) |
 | [September 23 at 7:54 AM](https://archive.org/download/discovery-2022/discovery-2022-09-23T07:54:35.382430-04:00.hyperlinks.json) |
-| [September 22 at 7:47 PM](https://archive.org/download/discovery-2022/discovery-2022-09-22T19:47:25.283800-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 175 accessibility trees with the Internet Archive.
+The archiving routine has saved 176 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 27 at 7:52 PM](https://archive.org/download/discovery-2022/discovery-2022-09-27T19:52:15.045514-04:00.accessibility.json) |
 | [September 27 at 7:53 AM](https://archive.org/download/discovery-2022/discovery-2022-09-27T07:53:56.410607-04:00.accessibility.json) |
 | [September 26 at 7:49 PM](https://archive.org/download/discovery-2022/discovery-2022-09-26T19:49:10.500712-04:00.accessibility.json) |
 | [September 26 at 8:00 AM](https://archive.org/download/discovery-2022/discovery-2022-09-26T08:00:03.040213-04:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 7:48 AM](https://archive.org/download/discovery-2022/discovery-2022-09-24T07:48:11.561809-04:00.accessibility.json) |
 | [September 23 at 7:46 PM](https://archive.org/download/discovery-2022/discovery-2022-09-23T19:46:42.621514-04:00.accessibility.json) |
 | [September 23 at 7:54 AM](https://archive.org/download/discovery-2022/discovery-2022-09-23T07:54:35.382430-04:00.accessibility.json) |
-| [September 22 at 7:47 PM](https://archive.org/download/discovery-2022/discovery-2022-09-22T19:47:25.283800-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 27 at 7:52 PM](https://archive.org/download/discovery-2022/discovery-2022-09-27T19:52:15.045514-04:00.lighthouse.json) |
 | [September 27 at 7:54 AM](https://archive.org/download/discovery-2022/discovery-2022-09-27T07:53:56.410607-04:00.lighthouse.json) |
 | [September 26 at 7:49 PM](https://archive.org/download/discovery-2022/discovery-2022-09-26T19:49:10.500712-04:00.lighthouse.json) |
 | [September 26 at 8:00 AM](https://archive.org/download/discovery-2022/discovery-2022-09-26T08:00:03.040213-04:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 7:48 AM](https://archive.org/download/discovery-2022/discovery-2022-09-24T07:48:11.561809-04:00.lighthouse.json) |
 | [September 23 at 7:46 PM](https://archive.org/download/discovery-2022/discovery-2022-09-23T19:46:42.621514-04:00.lighthouse.json) |
 | [September 23 at 7:54 AM](https://archive.org/download/discovery-2022/discovery-2022-09-23T07:54:35.382430-04:00.lighthouse.json) |
-| [September 22 at 7:47 PM](https://archive.org/download/discovery-2022/discovery-2022-09-22T19:47:25.283800-04:00.lighthouse.json) |
 
 
 

@@ -148,7 +148,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 15 hyperlink lists with the Internet Archive.
+The archiving routine has saved 16 hyperlink lists with the Internet Archive.
 
 
 
@@ -156,6 +156,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 27 at 6:54 PM](https://archive.org/download/galesburg-2022/galesburg-2022-09-27T18:54:33.830357-05:00.hyperlinks.json) |
 | [September 27 at 6:56 AM](https://archive.org/download/galesburg-2022/galesburg-2022-09-27T06:56:20.780502-05:00.hyperlinks.json) |
 | [September 26 at 6:50 PM](https://archive.org/download/galesburg-2022/galesburg-2022-09-26T18:50:09.881370-05:00.hyperlinks.json) |
 | [September 26 at 7:03 AM](https://archive.org/download/galesburg-2022/galesburg-2022-09-26T07:02:59.854749-05:00.hyperlinks.json) |
@@ -165,12 +166,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 6:49 AM](https://archive.org/download/galesburg-2022/galesburg-2022-09-24T06:49:43.329066-05:00.hyperlinks.json) |
 | [September 23 at 6:48 PM](https://archive.org/download/galesburg-2022/galesburg-2022-09-23T18:48:54.882339-05:00.hyperlinks.json) |
 | [September 23 at 6:56 AM](https://archive.org/download/galesburg-2022/galesburg-2022-09-23T06:56:31.280187-05:00.hyperlinks.json) |
-| [September 22 at 6:50 PM](https://archive.org/download/galesburg-2022/galesburg-2022-09-22T18:50:31.969633-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 15 accessibility trees with the Internet Archive.
+The archiving routine has saved 16 accessibility trees with the Internet Archive.
 
 
 
@@ -178,6 +178,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 27 at 6:54 PM](https://archive.org/download/galesburg-2022/galesburg-2022-09-27T18:54:33.830357-05:00.accessibility.json) |
 | [September 27 at 6:56 AM](https://archive.org/download/galesburg-2022/galesburg-2022-09-27T06:56:20.780502-05:00.accessibility.json) |
 | [September 26 at 6:50 PM](https://archive.org/download/galesburg-2022/galesburg-2022-09-26T18:50:09.881370-05:00.accessibility.json) |
 | [September 26 at 7:03 AM](https://archive.org/download/galesburg-2022/galesburg-2022-09-26T07:02:59.854749-05:00.accessibility.json) |
@@ -187,13 +188,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 6:49 AM](https://archive.org/download/galesburg-2022/galesburg-2022-09-24T06:49:43.329066-05:00.accessibility.json) |
 | [September 23 at 6:48 PM](https://archive.org/download/galesburg-2022/galesburg-2022-09-23T18:48:54.882339-05:00.accessibility.json) |
 | [September 23 at 6:56 AM](https://archive.org/download/galesburg-2022/galesburg-2022-09-23T06:56:31.280187-05:00.accessibility.json) |
-| [September 22 at 6:50 PM](https://archive.org/download/galesburg-2022/galesburg-2022-09-22T18:50:31.969633-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
 
 
 
@@ -201,6 +201,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 27 at 6:54 PM](https://archive.org/download/galesburg-2022/galesburg-2022-09-27T18:54:33.830357-05:00.lighthouse.json) |
 | [September 27 at 6:56 AM](https://archive.org/download/galesburg-2022/galesburg-2022-09-27T06:56:20.780502-05:00.lighthouse.json) |
 | [September 26 at 6:50 PM](https://archive.org/download/galesburg-2022/galesburg-2022-09-26T18:50:09.881370-05:00.lighthouse.json) |
 | [September 26 at 7:03 AM](https://archive.org/download/galesburg-2022/galesburg-2022-09-26T07:02:59.854749-05:00.lighthouse.json) |
@@ -210,7 +211,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 6:49 AM](https://archive.org/download/galesburg-2022/galesburg-2022-09-24T06:49:43.329066-05:00.lighthouse.json) |
 | [September 23 at 6:48 PM](https://archive.org/download/galesburg-2022/galesburg-2022-09-23T18:48:54.882339-05:00.lighthouse.json) |
 | [September 23 at 6:56 AM](https://archive.org/download/galesburg-2022/galesburg-2022-09-23T06:56:31.280187-05:00.lighthouse.json) |
-| [September 22 at 6:50 PM](https://archive.org/download/galesburg-2022/galesburg-2022-09-22T18:50:31.969633-05:00.lighthouse.json) |
 
 
 

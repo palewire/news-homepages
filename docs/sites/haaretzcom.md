@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 90 screenshots with the Internet Archive.
+The archiving routine has saved 91 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 90 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-28T02:55:25.174389+03:00.jpg">
+  <img src="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-28T02:55:25.174389+03:00.jpg"
+     alt="Haaretz at 2022-09-28 02:55:26+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-28T02:55:25.174389+03:00.jpg">September 28 at 2:55 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-27T14:57:29.226622+03:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-22T14:59:05.666955+03:00.jpg">September 22 at 2:59 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-22T02:45:16.926611+03:00.jpg">
-  <img src="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-22T02:45:16.926611+03:00.jpg"
-     alt="Haaretz at 2022-09-22 02:45:21+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-22T02:45:16.926611+03:00.jpg">September 22 at 2:45 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 89 hyperlink lists with the Internet Archive.
+The archiving routine has saved 90 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 2:55 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-28T02:55:25.174389+03:00.hyperlinks.json) |
 | [September 27 at 2:57 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-27T14:57:29.226622+03:00.hyperlinks.json) |
 | [September 27 at 2:50 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-27T02:50:09.088904+03:00.hyperlinks.json) |
 | [September 26 at 3:04 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-26T15:04:08.940410+03:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 2:50 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-24T14:50:38.635106+03:00.hyperlinks.json) |
 | [September 24 at 2:48 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-24T02:48:30.832202+03:00.hyperlinks.json) |
 | [September 23 at 2:57 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-23T14:56:50.489305+03:00.hyperlinks.json) |
-| [September 23 at 2:49 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-23T02:49:31.174955+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 88 accessibility trees with the Internet Archive.
+The archiving routine has saved 89 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 2:55 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-28T02:55:25.174389+03:00.accessibility.json) |
 | [September 27 at 2:57 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-27T14:57:29.226622+03:00.accessibility.json) |
 | [September 27 at 2:50 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-27T02:50:09.088904+03:00.accessibility.json) |
 | [September 26 at 3:04 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-26T15:04:08.940410+03:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 2:50 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-24T14:50:38.635106+03:00.accessibility.json) |
 | [September 24 at 2:48 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-24T02:48:30.832202+03:00.accessibility.json) |
 | [September 23 at 2:57 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-23T14:56:50.489305+03:00.accessibility.json) |
-| [September 23 at 2:49 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-23T02:49:31.174955+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 90 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 91 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 2:55 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-28T02:55:25.174389+03:00.lighthouse.json) |
 | [September 27 at 2:57 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-27T14:57:29.226622+03:00.lighthouse.json) |
 | [September 27 at 2:50 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-27T02:50:09.088904+03:00.lighthouse.json) |
 | [September 26 at 3:04 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-26T15:04:08.940410+03:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 2:50 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-24T14:50:38.635106+03:00.lighthouse.json) |
 | [September 24 at 2:48 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-24T02:48:30.832202+03:00.lighthouse.json) |
 | [September 23 at 2:57 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-23T14:56:50.489305+03:00.lighthouse.json) |
-| [September 23 at 2:49 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-23T02:49:31.174955+03:00.lighthouse.json) |
 
 
 
