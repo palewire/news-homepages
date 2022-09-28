@@ -1,5 +1,5 @@
 {
-  "created": 1664336902,
+  "created": 1664377598,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/27/items/stamadvocate-2022",
@@ -1783,31 +1783,83 @@
       "format": "JSON"
     },
     {
+      "name": "stamadvocate-2022-09-27T23:47:23.344326-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stamadvocate-2022-09-27T23:47:23.344326-04:00.jpg",
+      "mtime": "1664339275",
+      "size": "9873",
+      "md5": "da67f926e17cf31d895a8b3840b0778c",
+      "crc32": "db9532ac",
+      "sha1": "9b0f1b36686f5ef93f7c23591fc7d033ff1584bb"
+    },
+    {
+      "name": "stamadvocate-2022-09-28T11:01:11.093810-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664377276",
+      "size": "86651",
+      "md5": "1076de09aaf7407372a55db9e9599de1",
+      "crc32": "08ccc6c1",
+      "sha1": "7c2ce0130bdc263e5038c030a87448a0c8cc4be1",
+      "format": "JSON"
+    },
+    {
+      "name": "stamadvocate-2022-09-28T11:01:11.093810-04:00.jpg",
+      "source": "original",
+      "mtime": "1664377274",
+      "size": "338066",
+      "md5": "31c86b76b0535e5c9c7d6d35622f126a",
+      "crc32": "3829332f",
+      "sha1": "06ca070c5228dde315a5751d4bdfaa7db73bcd5d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stamadvocate-2022-09-28T11:01:11.093810-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664377278",
+      "size": "1549",
+      "md5": "a08f57952414b7ac4f73736cf5c4b0a4",
+      "crc32": "c3b181e1",
+      "sha1": "84b99ec8757244a516d0b4dd4274d9234453049d",
+      "format": "JSON"
+    },
+    {
+      "name": "stamadvocate-2022-09-28T11:01:11.093810-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664377280",
+      "size": "63648",
+      "md5": "67f314d596d32a021b3c674420976fd5",
+      "crc32": "c7f5b9d3",
+      "sha1": "76bc995ab6a526c73c86fbe92407e935c0c5f19e",
+      "format": "JSON"
+    },
+    {
       "name": "stamadvocate-2022_archive.torrent",
       "source": "metadata",
-      "btih": "679ca12ac8fc66390a9a616095685b4c8f1c8101",
-      "mtime": "1664336897",
-      "size": "38540",
-      "md5": "77ff0265b2ecce91dfffd12bbb50af39",
-      "crc32": "c4056bc8",
-      "sha1": "ada9ef2f5d01c2bc92ac4ac9b4bbc98617374b7b",
+      "btih": "9e462a82fc9e068b7f71d85ba7361c556ac5c588",
+      "mtime": "1664377595",
+      "size": "39613",
+      "md5": "fd1ccce75da5001703597a9ffb1a69ed",
+      "crc32": "9725484c",
+      "sha1": "434566f13b10e74770eb60b26a8a475ddf703f18",
       "format": "Archive BitTorrent"
     },
     {
       "name": "stamadvocate-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "da5436850e3068048d7b70d11d5d7a7c",
+      "md5": "97afd844399f54aaec0b546ea2da12b9",
       "summation": "md5"
     },
     {
       "name": "stamadvocate-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664336858",
-      "size": "241664",
-      "md5": "68b8e9bb8b8eebe1a64652f52b770747",
-      "crc32": "3f3cde31",
-      "sha1": "0f777daba3f169e076a43ecd5ef7edcff81cd983",
+      "mtime": "1664377553",
+      "size": "245760",
+      "md5": "5c9c09b0dd2df48831a253da325211ae",
+      "crc32": "e9975157",
+      "sha1": "561f6969dd8c487abc01ff30cca0c70e7b047ec0",
       "format": "Metadata"
     },
     {
@@ -1821,9 +1873,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 176,
-  "item_last_updated": 1664336897,
-  "item_size": 16852204,
+  "files_count": 181,
+  "item_last_updated": 1664377595,
+  "item_size": 17357160,
   "metadata": {
     "identifier": "stamadvocate-2022",
     "collection": [
@@ -1845,7 +1897,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420579737,
+      "task_id": 3421117621,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1853,7 +1905,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1749989923,
+  "uniq": 745631564,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1664336924,
+  "created": 1664377561,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/19/items/thealligator-2022",
@@ -11029,31 +11029,83 @@
       "format": "JSON"
     },
     {
+      "name": "thealligator-2022-09-27T23:47:24.126086-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thealligator-2022-09-27T23:47:24.126086-04:00.jpg",
+      "mtime": "1664339429",
+      "size": "10603",
+      "md5": "132158227542cb97266612bc0314914c",
+      "crc32": "bf79da33",
+      "sha1": "d3d265b41283d1cf6338b17ad131cec0aedf65db"
+    },
+    {
+      "name": "thealligator-2022-09-28T11:04:39.911623-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664377489",
+      "size": "25271",
+      "md5": "cdec7a3622537658f4e5333afefc6a81",
+      "crc32": "5591315b",
+      "sha1": "204fa893eae3a631956817d1d54ec4e873e92751",
+      "format": "JSON"
+    },
+    {
+      "name": "thealligator-2022-09-28T11:04:39.911623-04:00.jpg",
+      "source": "original",
+      "mtime": "1664377487",
+      "size": "334190",
+      "md5": "f3ea8b1b18a2fa39aa490ce6c79e99ba",
+      "crc32": "a63c3299",
+      "sha1": "005e5b0c3af1d8ea5fa7bc108187a62b4a2e7447",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thealligator-2022-09-28T11:04:39.911623-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664377490",
+      "size": "1483",
+      "md5": "83eb4fd90a6c6bbabcc855f7216e69cf",
+      "crc32": "f5a8d4e5",
+      "sha1": "a0f0f88e1354717816576d44db06711dea0f0f36",
+      "format": "JSON"
+    },
+    {
+      "name": "thealligator-2022-09-28T11:04:39.911623-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664377492",
+      "size": "206",
+      "md5": "c23a9ccd7015467d3e7a5545b538b0e0",
+      "crc32": "d872f92d",
+      "sha1": "e4bc69d5c81c1d1cbf45a8f766840562e34a213f",
+      "format": "JSON"
+    },
+    {
       "name": "thealligator-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d940c874cd98a91ca6169e9dcf0129317e294d23",
-      "mtime": "1664336913",
-      "size": "229314",
-      "md5": "442d00174cc2554612a1a1446b6b7611",
-      "crc32": "007921e4",
-      "sha1": "ab0d85571704fbd422c4d90daac470eadc94f9e8",
+      "btih": "e89b4d34550bb275f37eef983dc33eda5b3d00a6",
+      "mtime": "1664377554",
+      "size": "230366",
+      "md5": "a315b8f5fed8fbabe5071b624205e389",
+      "crc32": "b889d4bf",
+      "sha1": "0cb0f3f326de5c348c8a963b8e3b00b44b7ce1e2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thealligator-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b550744bf9bac2641d6cc2411c72821a",
+      "md5": "c7aa40002eb70a18989a8ae0f9c362ff",
       "summation": "md5"
     },
     {
       "name": "thealligator-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664336862",
-      "size": "1327104",
-      "md5": "914fdf89f1e312aa9b31cb584bc0e2d0",
-      "crc32": "c8c2f08b",
-      "sha1": "e388aca880f1dc1802f495e17003d39faf5d696a",
+      "mtime": "1664377499",
+      "size": "1331200",
+      "md5": "4566a7895cdea4d6da709c1858fc8351",
+      "crc32": "1dcafab5",
+      "sha1": "bdd0b0db594795211acb2e381af0c8666c3021d1",
       "format": "Metadata"
     },
     {
@@ -11067,9 +11119,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1065,
-  "item_last_updated": 1664336913,
-  "item_size": 84237830,
+  "files_count": 1070,
+  "item_last_updated": 1664377554,
+  "item_size": 84614731,
   "metadata": {
     "identifier": "thealligator-2022",
     "collection": [
@@ -11091,7 +11143,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420580226,
+      "task_id": 3421117025,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11099,7 +11151,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 315388228,
+  "uniq": 1254828151,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

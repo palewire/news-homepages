@@ -1,5 +1,5 @@
 {
-  "created": 1664337021,
+  "created": 1664377389,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/31/items/spacenews_inc-2022",
@@ -7609,31 +7609,93 @@
       "format": "JSON"
     },
     {
+      "name": "spacenews_inc-2022-09-27T23:47:50.225042-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spacenews_inc-2022-09-27T23:47:50.225042-04:00.jpg",
+      "mtime": "1664339441",
+      "size": "10003",
+      "md5": "4abbdcb6eefa7e771a53f9c00ca769f7",
+      "crc32": "d6f78d3c",
+      "sha1": "0448e88cb1d30eb799a1f301fefcf3b81cdf6ca0"
+    },
+    {
+      "name": "spacenews_inc-2022-09-28T11:01:21.147208-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664377310",
+      "size": "14697",
+      "md5": "d1dfec595ed389816d2d5aa41d69fde7",
+      "crc32": "23e18d98",
+      "sha1": "cdbe562f759072f9678d04120ee698513c167dd0",
+      "format": "JSON"
+    },
+    {
+      "name": "spacenews_inc-2022-09-28T11:01:21.147208-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664377312",
+      "size": "15763",
+      "md5": "de10ab342e09d1376f6b5d47def16fe4",
+      "crc32": "55496555",
+      "sha1": "2b41b329875fed23a2aca4a854d758aa78d42744",
+      "format": "JSON"
+    },
+    {
+      "name": "spacenews_inc-2022-09-28T11:01:21.147208-04:00.jpg",
+      "source": "original",
+      "mtime": "1664377309",
+      "size": "283482",
+      "md5": "c7e99730efe7d87b08e38d6b9f6fc206",
+      "crc32": "dd4c2c8d",
+      "sha1": "4b3f5c03790326761c5a6391ab3a8a88abcf86a0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spacenews_inc-2022-09-28T11:01:21.147208-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664377314",
+      "size": "1450",
+      "md5": "30fe65ad025c1e6b664065e8939d269c",
+      "crc32": "3d81696e",
+      "sha1": "bc7988fc9240605f05dcdfffed3208698a00ccda",
+      "format": "JSON"
+    },
+    {
+      "name": "spacenews_inc-2022-09-28T11:01:21.147208-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664377315",
+      "size": "16392",
+      "md5": "7cacaeac23055c48d1595671648d8f12",
+      "crc32": "5b1bbeac",
+      "sha1": "0bce0c3aa0dff9dde9cd0596f0a67cf3050da493",
+      "format": "JSON"
+    },
+    {
       "name": "spacenews_inc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7024a96ce4e36912a3764ce25d3bd2c1b45268a2",
-      "mtime": "1664337001",
-      "size": "159511",
-      "md5": "e869a02a4ef6ca507b71c996a8b25e28",
-      "crc32": "2319b833",
-      "sha1": "517ad2404eedfea8eb0afed128bc1d4aaae704be",
+      "btih": "e89e3411ebb5e9cd5660c4002dd368b9ab80f528",
+      "mtime": "1664377379",
+      "size": "160809",
+      "md5": "539b1204f7ef3a39ceb1aacb63fa19ec",
+      "crc32": "a525dcbb",
+      "sha1": "300e00be7e436081e4d134f7e1b12702841807ba",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spacenews_inc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "18363b4b4dea6652b13aaf499cadf34b",
+      "md5": "5a59129a28d80763d192b823279da838",
       "summation": "md5"
     },
     {
       "name": "spacenews_inc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664336943",
-      "size": "950272",
-      "md5": "09c868d94f014f3a8e3c5b573592ce5f",
-      "crc32": "324a744e",
-      "sha1": "aa78ce38b19d48f5e62e20ff5b89cdd847d6faf2",
+      "mtime": "1664377326",
+      "size": "962560",
+      "md5": "b5f77e2df39567cfd653a480e5d74127",
+      "crc32": "59a2b1cf",
+      "sha1": "cda2e822c6633a626979c77a186ca32dcc17662b",
       "format": "Metadata"
     },
     {
@@ -7647,9 +7709,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 739,
-  "item_last_updated": 1664337001,
-  "item_size": 42980611,
+  "files_count": 745,
+  "item_last_updated": 1664377379,
+  "item_size": 43335984,
   "metadata": {
     "identifier": "spacenews_inc-2022",
     "collection": [
@@ -7671,7 +7733,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420582633,
+      "task_id": 3421113504,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -7679,7 +7741,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 784971218,
+  "uniq": 1695581432,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

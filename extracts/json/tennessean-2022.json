@@ -1,5 +1,5 @@
 {
-  "created": 1664336950,
+  "created": 1664377348,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/30/items/tennessean-2022",
@@ -935,31 +935,93 @@
       "format": "JSON"
     },
     {
+      "name": "tennessean-2022-09-27T22:48:13.255325-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tennessean-2022-09-27T22:48:13.255325-05:00.jpg",
+      "mtime": "1664340046",
+      "size": "9491",
+      "md5": "b0d6bd4dca74d7afdcd0f73294f7942b",
+      "crc32": "6654a704",
+      "sha1": "402c45b1722ea740e22c1fc6053700981733c8a2"
+    },
+    {
+      "name": "tennessean-2022-09-28T10:01:18.605873-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664377282",
+      "size": "21824",
+      "md5": "cd05e387ab82f40eed8452b187bb6ce5",
+      "crc32": "b1eced86",
+      "sha1": "d3cfcdf97261160c4035db469c720574abeea58a",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-09-28T10:01:18.605873-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664377284",
+      "size": "32174",
+      "md5": "24a108a219e3a204cf4787037bb3109f",
+      "crc32": "d5627e9b",
+      "sha1": "3fc457f39a1d16b94a161509db05af232f2d764f",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-09-28T10:01:18.605873-05:00.jpg",
+      "source": "original",
+      "mtime": "1664377280",
+      "size": "264942",
+      "md5": "7a46de5cc593203d78cf31a3599c6b0b",
+      "crc32": "d8548fff",
+      "sha1": "6482343dd137b5890bc8e567542d374d757ffd4f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tennessean-2022-09-28T10:01:18.605873-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664377285",
+      "size": "1495",
+      "md5": "154e72778ae08f45430076b2f3b80ccf",
+      "crc32": "c29e84dc",
+      "sha1": "437411a49fefe0cf3e561d2ce23f370c857ca95c",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-09-28T10:01:18.605873-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664377287",
+      "size": "94696",
+      "md5": "a823da98649cd1ad920be1312739ac96",
+      "crc32": "02f03f58",
+      "sha1": "927a996f6fb7b6d8ed8f0ab510c53755cf2a03ad",
+      "format": "JSON"
+    },
+    {
       "name": "tennessean-2022_archive.torrent",
       "source": "metadata",
-      "btih": "50f47889b31332fe11250cfbfc4f8600fd360e2c",
-      "mtime": "1664336941",
-      "size": "20546",
-      "md5": "bea95231f48af364cdbfc20df3708750",
-      "crc32": "d0ba78ce",
-      "sha1": "b512a60715252187d5e1d72b51296d9658ae3776",
+      "btih": "b88e98493195788264963eb9148ad7821a73408a",
+      "mtime": "1664377345",
+      "size": "21825",
+      "md5": "25be76af5704409cc22b16ac98f271f4",
+      "crc32": "b130ebec",
+      "sha1": "88abb3dec0b665bea4ec3fc5aaa2e192beec496c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tennessean-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "77272fdc8b88e6d332b47e74aad5f774",
+      "md5": "d163695cb0fbeadbe27a5fb19ee93784",
       "summation": "md5"
     },
     {
       "name": "tennessean-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664336906",
-      "size": "139264",
-      "md5": "c53adf92d1cf533ef993c2cd4ec41823",
-      "crc32": "16789b4c",
-      "sha1": "a2769cafd48eedd6460794fded119432d9c0fa57",
+      "mtime": "1664377303",
+      "size": "147456",
+      "md5": "00824f6d7d552de4a958cebc7c9ef8d3",
+      "crc32": "da0c5baa",
+      "sha1": "21296d2a893a5a7590703c7ed21783744c04ba31",
       "format": "Metadata"
     },
     {
@@ -973,9 +1035,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 94,
-  "item_last_updated": 1664336941,
-  "item_size": 6292701,
+  "files_count": 100,
+  "item_last_updated": 1664377345,
+  "item_size": 6726794,
   "metadata": {
     "identifier": "tennessean-2022",
     "collection": [
@@ -997,7 +1059,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420580761,
+      "task_id": 3421112468,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1005,7 +1067,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 731992303,
+  "uniq": 414086469,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

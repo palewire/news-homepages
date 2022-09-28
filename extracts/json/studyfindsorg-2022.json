@@ -1,5 +1,5 @@
 {
-  "created": 1664336978,
+  "created": 1664377362,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/12/items/studyfindsorg-2022",
@@ -4273,31 +4273,83 @@
       "format": "JSON"
     },
     {
+      "name": "studyfindsorg-2022-09-27T23:48:36.221748-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "studyfindsorg-2022-09-27T23:48:36.221748-04:00.jpg",
+      "mtime": "1664339468",
+      "size": "9538",
+      "md5": "d5e37d82f7a4a97dafb3ca2bdcdb7b45",
+      "crc32": "c6c2ab14",
+      "sha1": "f43ae2c85bae4367073556397652ab471e22cdfe"
+    },
+    {
+      "name": "studyfindsorg-2022-09-28T11:01:18.931138-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664377285",
+      "size": "33935",
+      "md5": "61353ef3cf97ad1317ec0cfc2d662a02",
+      "crc32": "53bc77b0",
+      "sha1": "9e00cf9be3ea0b7a72897b6a7d85c1102cbc2895",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-09-28T11:01:18.931138-04:00.jpg",
+      "source": "original",
+      "mtime": "1664377283",
+      "size": "286805",
+      "md5": "6284310eb672ad8a922e3b62d6c6a5ac",
+      "crc32": "2d8a6079",
+      "sha1": "42193bd02fdf4f98414d122b3823503655eea0fe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "studyfindsorg-2022-09-28T11:01:18.931138-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664377288",
+      "size": "1458",
+      "md5": "c94a0ccf2fbbc18c3cbdd99ad48bb499",
+      "crc32": "29d615d2",
+      "sha1": "5497f1ed661159351e5a77229526a1c8ed6ee0bf",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-09-28T11:01:18.931138-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664377289",
+      "size": "46769",
+      "md5": "5e5e1c94ef8d37736e1f390b84ff05ee",
+      "crc32": "96e53f07",
+      "sha1": "19913eb322989ffab88836b0f378df5ab3ae802d",
+      "format": "JSON"
+    },
+    {
       "name": "studyfindsorg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "22e69dfcce56e9e312251997dc81b519b56262cb",
-      "mtime": "1664336973",
-      "size": "90380",
-      "md5": "0f83721d43ee1f3fb5954773656c226d",
-      "crc32": "b2a33dc0",
-      "sha1": "feef11be8508dd74a920ad1faaf8c6982e825af6",
+      "btih": "13da82a88cf7d4283c649c646c43d342aafc663f",
+      "mtime": "1664377356",
+      "size": "91458",
+      "md5": "41e9bf4b0582fad2936121021a2bd2ab",
+      "crc32": "77f24942",
+      "sha1": "5173c5e73d65482518cdb88c92a0231acd28a9d5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "studyfindsorg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4d1869d79030d0cc0f2a69a1c2beb217",
+      "md5": "12edfda29499b62893fc81532a808306",
       "summation": "md5"
     },
     {
       "name": "studyfindsorg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664336931",
-      "size": "548864",
-      "md5": "be5e36f1c511ad3147b0f7402565748d",
-      "crc32": "379b9eb8",
-      "sha1": "ecde03553348883c270ad4bf841bb35bd195ba1d",
+      "mtime": "1664377310",
+      "size": "557056",
+      "md5": "1fe93567a88f6d278a48e6f9c9ecb4bc",
+      "crc32": "98ad36f4",
+      "sha1": "df1841b2b6faac997827d4ea671d05a6a083e1cf",
       "format": "Metadata"
     },
     {
@@ -4311,9 +4363,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 417,
-  "item_last_updated": 1664336973,
-  "item_size": 27179278,
+  "files_count": 422,
+  "item_last_updated": 1664377356,
+  "item_size": 27567053,
   "metadata": {
     "identifier": "studyfindsorg-2022",
     "collection": [
@@ -4335,7 +4387,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420581423,
+      "task_id": 3421112848,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4343,7 +4395,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1661878968,
+  "uniq": 38571100,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1664337234,
+  "created": 1664377604,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/26/items/timesrecorder-2022",
@@ -915,31 +915,93 @@
       "format": "JSON"
     },
     {
+      "name": "timesrecorder-2022-09-27T23:52:57.629830-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timesrecorder-2022-09-27T23:52:57.629830-04:00.jpg",
+      "mtime": "1664339700",
+      "size": "8995",
+      "md5": "c6a94d9489215a77197a4c4e203aea89",
+      "crc32": "9eeb5df6",
+      "sha1": "0b96735dcf23556cbc6cdf09bbad092af0f5b58c"
+    },
+    {
+      "name": "timesrecorder-2022-09-28T11:05:20.906082-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664377526",
+      "size": "20782",
+      "md5": "d57e2252b3b238496412bec6ab4e7184",
+      "crc32": "7efdfbc2",
+      "sha1": "edfcf8d3813463d3ece1000ec874d74646a13f57",
+      "format": "JSON"
+    },
+    {
+      "name": "timesrecorder-2022-09-28T11:05:20.906082-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664377528",
+      "size": "53901",
+      "md5": "df6dffc0e5b5d1422fb85191662df05c",
+      "crc32": "bfc69997",
+      "sha1": "6d676d92f70830c21cffb2d6cf157d2400eaf089",
+      "format": "JSON"
+    },
+    {
+      "name": "timesrecorder-2022-09-28T11:05:20.906082-04:00.jpg",
+      "source": "original",
+      "mtime": "1664377524",
+      "size": "247504",
+      "md5": "dba2c74fefd69eef010e92ef5f50a780",
+      "crc32": "6187c99f",
+      "sha1": "4adfd64bb5a3fd71a1b41f3e48f80fd67a13e4fc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "timesrecorder-2022-09-28T11:05:20.906082-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664377530",
+      "size": "1612",
+      "md5": "bc7256d49e019122cb5694ec140e3899",
+      "crc32": "671fce26",
+      "sha1": "021400112ea51f22515cef5558ce92c3f3b0840f",
+      "format": "JSON"
+    },
+    {
+      "name": "timesrecorder-2022-09-28T11:05:20.906082-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664377532",
+      "size": "121026",
+      "md5": "5de923c480b197ab796a1dc45cab4365",
+      "crc32": "3b208a6c",
+      "sha1": "d72f883a407e0013e90069a5c46e92c4e7762387",
+      "format": "JSON"
+    },
+    {
       "name": "timesrecorder-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7037cebd600f02198f51723ff799c15ac590d75c",
-      "mtime": "1664337231",
-      "size": "20406",
-      "md5": "ef567d7154478046b2007cf5e16f6b4e",
-      "crc32": "2646eca4",
-      "sha1": "0c854b256000ee5f34648fc6e1b71063dd22f839",
+      "btih": "22d952219fa01c47c35cfefe3e6efe81e98126fe",
+      "mtime": "1664377601",
+      "size": "21704",
+      "md5": "ae163c2355742d4aade33363a98a70ac",
+      "crc32": "5310b5fc",
+      "sha1": "4d640a456feafa05a2c8334d214d4afd59409413",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesrecorder-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7d1313e98c8d5c2c684fb0674f267dc5",
+      "md5": "dbda195f3e0616d454325e6c9c13297a",
       "summation": "md5"
     },
     {
       "name": "timesrecorder-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664337194",
-      "size": "139264",
-      "md5": "c897191111d63c6f3bf83abf52ccfc7c",
-      "crc32": "991b79c1",
-      "sha1": "9f54a3dde7e15241d40340ee19e840a285bdfe83",
+      "mtime": "1664377564",
+      "size": "143360",
+      "md5": "5e9d0a18609d67c8b67415534b8d873a",
+      "crc32": "731e21bd",
+      "sha1": "3c14404b7ceb03eb3d845f3d3c79342c342dbd92",
       "format": "Metadata"
     },
     {
@@ -953,9 +1015,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 92,
-  "item_last_updated": 1664337231,
-  "item_size": 6111806,
+  "files_count": 98,
+  "item_last_updated": 1664377601,
+  "item_size": 6571020,
   "metadata": {
     "identifier": "timesrecorder-2022",
     "collection": [
@@ -977,7 +1039,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420587379,
+      "task_id": 3421117730,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -985,7 +1047,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 396524801,
+  "uniq": 981819540,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]
