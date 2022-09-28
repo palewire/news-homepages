@@ -1,5 +1,5 @@
 {
-  "created": 1664351666,
+  "created": 1664392568,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/6/items/thedailyjournal-2022",
@@ -965,31 +965,93 @@
       "format": "JSON"
     },
     {
+      "name": "thedailyjournal-2022-09-28T03:53:36.798998-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailyjournal-2022-09-28T03:53:36.798998-04:00.jpg",
+      "mtime": "1664353942",
+      "size": "9185",
+      "md5": "bab88d813a91250fbcc6cad4c4e31759",
+      "crc32": "96e2bdfe",
+      "sha1": "802ea83aceb5eb7067392f519e281901f8bbee38"
+    },
+    {
+      "name": "thedailyjournal-2022-09-28T15:09:54.495735-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664392197",
+      "size": "21681",
+      "md5": "064e6d15e4cc0b7a090f95b91a1b0674",
+      "crc32": "964c7dea",
+      "sha1": "8e14d214b61a098cfc6d431c0471233161278824",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyjournal-2022-09-28T15:09:54.495735-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664392199",
+      "size": "62256",
+      "md5": "c5a3ec0c19bf79a23444f3223a0d3117",
+      "crc32": "fabc1adb",
+      "sha1": "ac3233c7096cbc5b9f9e368116a10eb70499a779",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyjournal-2022-09-28T15:09:54.495735-04:00.jpg",
+      "source": "original",
+      "mtime": "1664392196",
+      "size": "238531",
+      "md5": "026b571927d37df886e2f7e3337edf6c",
+      "crc32": "ceaee06e",
+      "sha1": "1b2e83d38e022d9c4a36eb2c59780ee6b531358f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailyjournal-2022-09-28T15:09:54.495735-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664392200",
+      "size": "1540",
+      "md5": "1dff374c0bbf6d62699de2881ccce6f7",
+      "crc32": "59b99c12",
+      "sha1": "f99d676a8c95533f097bafc08ac78e6b49eaa1c3",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyjournal-2022-09-28T15:09:54.495735-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664392203",
+      "size": "98550",
+      "md5": "8610b810c4ac98713133c7fe0bc32b83",
+      "crc32": "bcf9b3f4",
+      "sha1": "060af072651f42024f9013fd08eb005e10a35fa3",
+      "format": "JSON"
+    },
+    {
       "name": "thedailyjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "db4bd0a062ce4ad89a3b3bb0126ee5ae7d211be8",
-      "mtime": "1664351662",
-      "size": "21710",
-      "md5": "283170cc3371c40f11eb96f633420e0c",
-      "crc32": "45db5792",
-      "sha1": "7d6ee6d02b982b9d1bca6948479ae7362be90060",
+      "btih": "cfbacfb71883b1c72af79909b483d4c589c153cb",
+      "mtime": "1664392566",
+      "size": "23019",
+      "md5": "085fa7065a67eed805b20ca3021baff4",
+      "crc32": "284c0dd5",
+      "sha1": "4134df2bef16d537295c6837563e9ca27c8745a3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedailyjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a83f11428d8a6b98ed57a85b3b90b336",
+      "md5": "2c215633cb25c7e04d29f3ac828e896d",
       "summation": "md5"
     },
     {
       "name": "thedailyjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664351628",
-      "size": "143360",
-      "md5": "2266b3c6d7634c962456dccb1da62651",
-      "crc32": "5a10fb9d",
-      "sha1": "64c0a2de51e9d089a14ca6aaccdcde91aa26d11a",
+      "mtime": "1664392529",
+      "size": "151552",
+      "md5": "1a717dfecebf9615d530166a03e04b08",
+      "crc32": "7a730af0",
+      "sha1": "302e0b257a1d5c4c8075a682c6db9816b3367a38",
       "format": "Metadata"
     },
     {
@@ -1003,9 +1065,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 97,
-  "item_last_updated": 1664351662,
-  "item_size": 6433327,
+  "files_count": 103,
+  "item_last_updated": 1664392566,
+  "item_size": 6874571,
   "metadata": {
     "identifier": "thedailyjournal-2022",
     "collection": [
@@ -1027,7 +1089,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420790077,
+      "task_id": 3421337393,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1035,7 +1097,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1345241981,
+  "uniq": 870705997,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]

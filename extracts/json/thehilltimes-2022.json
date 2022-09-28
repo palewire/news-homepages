@@ -1,5 +1,5 @@
 {
-  "created": 1664351768,
+  "created": 1664392512,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/5/items/thehilltimes-2022",
@@ -10563,31 +10563,93 @@
       "format": "JSON"
     },
     {
+      "name": "thehilltimes-2022-09-28T03:54:42.125231-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thehilltimes-2022-09-28T03:54:42.125231-04:00.jpg",
+      "mtime": "1664354146",
+      "size": "11125",
+      "md5": "dbc6b65c0eb243582c4b8b24781d3436",
+      "crc32": "7bd3aff2",
+      "sha1": "9c0c024f10cdbedb8f370883387a51914c76f576"
+    },
+    {
+      "name": "thehilltimes-2022-09-28T15:07:57.362693-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664392083",
+      "size": "76971",
+      "md5": "08bb2a769be85a35ada3cb336c1a3314",
+      "crc32": "d7226b1b",
+      "sha1": "a38abb40701bcb4f3f24334edf58a1fac53a6416",
+      "format": "JSON"
+    },
+    {
+      "name": "thehilltimes-2022-09-28T15:07:57.362693-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664392086",
+      "size": "61035",
+      "md5": "49944fc25a4c42fc28836d01aa88e49d",
+      "crc32": "c967e25d",
+      "sha1": "87c45c5ca7a27b595c8dfeccce6659f8a3cee68d",
+      "format": "JSON"
+    },
+    {
+      "name": "thehilltimes-2022-09-28T15:07:57.362693-04:00.jpg",
+      "source": "original",
+      "mtime": "1664392080",
+      "size": "424378",
+      "md5": "1a35152a96eb6023ebc9df605095e9d8",
+      "crc32": "eff77740",
+      "sha1": "2a067d10168be0f81bf31321986ec93469f3ee66",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thehilltimes-2022-09-28T15:07:57.362693-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664392088",
+      "size": "1486",
+      "md5": "54a60941b3bb4a8cd2703bb2c5e091ed",
+      "crc32": "8d43bea2",
+      "sha1": "7776f897d929c8788bbeb96b04f0c43e8ce16d33",
+      "format": "JSON"
+    },
+    {
+      "name": "thehilltimes-2022-09-28T15:07:57.362693-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664392091",
+      "size": "44078",
+      "md5": "4ad5af5a2246cbb8aeb403c085ee2201",
+      "crc32": "6e4b1a15",
+      "sha1": "ef53742cfb3589d6be2b7f52532625c4c366848d",
+      "format": "JSON"
+    },
+    {
       "name": "thehilltimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "90fafc00f49b4021657b73a8416fccbf63cb43e2",
-      "mtime": "1664351752",
-      "size": "221192",
-      "md5": "a57d0ef1ac0f6ee430ff36a3da2a03c3",
-      "crc32": "6fe6dd3d",
-      "sha1": "50493d85ab36a260b28703a53b760b997e8b503b",
+      "btih": "f371eb9fd5cd85b92b087d540811045edf67849e",
+      "mtime": "1664392501",
+      "size": "222484",
+      "md5": "a0996a763af9ad13a2025b59a9ad8a15",
+      "crc32": "a294e286",
+      "sha1": "7d3b29f39c4cc7e88b01e2a0dd70bba47395993f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thehilltimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "718403d19e81eff76e7242cc183bf8d8",
+      "md5": "43e2ade9f3ee6cf31fa62c628cfd1be8",
       "summation": "md5"
     },
     {
       "name": "thehilltimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664351704",
-      "size": "1277952",
-      "md5": "28f4cf9d994d8ea7fe5738c6d770e8ee",
-      "crc32": "79efd0a0",
-      "sha1": "0523283b2d6a6e37c7d4df306b3cd5ad3ece65bf",
+      "mtime": "1664392446",
+      "size": "1282048",
+      "md5": "e2b8f4b888c1ee4c8237d9b1a52fc1bf",
+      "crc32": "3f6903bb",
+      "sha1": "ad0400894b417cad1f8cabd5d7898500033944b7",
       "format": "Metadata"
     },
     {
@@ -10601,9 +10663,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1021,
-  "item_last_updated": 1664351752,
-  "item_size": 114246460,
+  "files_count": 1027,
+  "item_last_updated": 1664392501,
+  "item_size": 114870921,
   "metadata": {
     "identifier": "thehilltimes-2022",
     "collection": [
@@ -10625,7 +10687,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420791102,
+      "task_id": 3421336674,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10633,7 +10695,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 361925828,
+  "uniq": 329879622,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

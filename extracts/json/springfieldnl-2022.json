@@ -1,5 +1,5 @@
 {
-  "created": 1664351552,
+  "created": 1664392299,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/23/items/springfieldnl-2022",
@@ -997,31 +997,93 @@
       "format": "JSON"
     },
     {
+      "name": "springfieldnl-2022-09-28T02:51:32.643550-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "springfieldnl-2022-09-28T02:51:32.643550-05:00.jpg",
+      "mtime": "1664354405",
+      "size": "8895",
+      "md5": "c41c4e4162564d2f68d98143742507cb",
+      "crc32": "e658e790",
+      "sha1": "bdde3e221e4c9aa73a3a6f294a1f123a919e3083"
+    },
+    {
+      "name": "springfieldnl-2022-09-28T14:03:48.298966-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664391833",
+      "size": "19071",
+      "md5": "f41a7797bbf9daaafee5a526f9e27ce1",
+      "crc32": "c8fa325f",
+      "sha1": "3a9b51e21ca309f4e127e22cd76e84857e85e672",
+      "format": "JSON"
+    },
+    {
+      "name": "springfieldnl-2022-09-28T14:03:48.298966-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664391835",
+      "size": "32782",
+      "md5": "5e11314357184a95f6d27fe330a59a3c",
+      "crc32": "f263a86e",
+      "sha1": "17fcf168b28b0a94c35088188c691d8c75dac874",
+      "format": "JSON"
+    },
+    {
+      "name": "springfieldnl-2022-09-28T14:03:48.298966-05:00.jpg",
+      "source": "original",
+      "mtime": "1664391831",
+      "size": "261268",
+      "md5": "5a33ac59dc12f5be2ec3cfd1d4c8640a",
+      "crc32": "21ec13df",
+      "sha1": "66f0585edc542bb04b43206c3651a9823da385f1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "springfieldnl-2022-09-28T14:03:48.298966-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664391838",
+      "size": "1504",
+      "md5": "e52cf9aed53f3cfe23faddbca9908d04",
+      "crc32": "97426b84",
+      "sha1": "8716b2296d3ef81d3157d1f5223433c8f465d7ea",
+      "format": "JSON"
+    },
+    {
+      "name": "springfieldnl-2022-09-28T14:03:48.298966-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664391839",
+      "size": "81724",
+      "md5": "466bb61038fa4d2e1a8e5e0237d6c800",
+      "crc32": "68021e42",
+      "sha1": "5a41b4802f7675a22e7f07ba85ef48fe38af3d83",
+      "format": "JSON"
+    },
+    {
       "name": "springfieldnl-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8b322eee544b20d4b39f26728a988de5de4d56b5",
-      "mtime": "1664351548",
-      "size": "22144",
-      "md5": "d24e92e1686be54fb0cab72c4a0b12fa",
-      "crc32": "8b997c52",
-      "sha1": "0a1c85c0ede202c728ee32a5a06ed61ac4bcb0cf",
+      "btih": "37d9ecc6bf897c49afbc132f3659be1e1d20da26",
+      "mtime": "1664392292",
+      "size": "23441",
+      "md5": "1d0c04282bbc998c6b90eb708adb96a1",
+      "crc32": "ceb66852",
+      "sha1": "a7a555bfbb110fface0f9da1e803b7ac9aaa12dd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "springfieldnl-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c7586a6c1c2da5e534576a3c1fcf892e",
+      "md5": "cbe74b7116ff5a9640b2c71193f6c38b",
       "summation": "md5"
     },
     {
       "name": "springfieldnl-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664351512",
-      "size": "147456",
-      "md5": "32571ffc523296fedb7917b8db5f778a",
-      "crc32": "1ced445b",
-      "sha1": "6538c017872da489d440a2a30dff920dd28f345c",
+      "mtime": "1664392254",
+      "size": "155648",
+      "md5": "fa59e04e977e69d232b1f8bc27fc5c02",
+      "crc32": "6301a82e",
+      "sha1": "9e3c4fc544823898ed81df3127327ee1561a4334",
       "format": "Metadata"
     },
     {
@@ -1035,9 +1097,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 100,
-  "item_last_updated": 1664351548,
-  "item_size": 6751324,
+  "files_count": 106,
+  "item_last_updated": 1664392292,
+  "item_size": 7166057,
   "metadata": {
     "identifier": "springfieldnl-2022",
     "collection": [
@@ -1059,7 +1121,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420788946,
+      "task_id": 3421333846,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1067,7 +1129,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1847197783,
+  "uniq": 1369382931,
   "workable_servers": [
     "ia601504.us.archive.org"
   ]

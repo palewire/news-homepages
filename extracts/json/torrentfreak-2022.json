@@ -1,5 +1,5 @@
 {
-  "created": 1664351865,
+  "created": 1664394309,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/24/items/torrentfreak-2022",
@@ -7793,31 +7793,93 @@
       "format": "JSON"
     },
     {
+      "name": "torrentfreak-2022-09-28T00:56:38.554412-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "torrentfreak-2022-09-28T00:56:38.554412-07:00.jpg",
+      "mtime": "1664354250",
+      "size": "9729",
+      "md5": "2dc6a9f5c16da929de12823e855cf55d",
+      "crc32": "d55829bd",
+      "sha1": "276fd809fb1d540dc58683ac73b62c77361ee256"
+    },
+    {
+      "name": "torrentfreak-2022-09-28T12:10:18.141407-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664392225",
+      "size": "6910",
+      "md5": "5342634189bcec716ea31e34e64313b0",
+      "crc32": "37d625b5",
+      "sha1": "9bcbace204a3f02703650b1d65642822525c928b",
+      "format": "JSON"
+    },
+    {
+      "name": "torrentfreak-2022-09-28T12:10:18.141407-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664392227",
+      "size": "8221",
+      "md5": "43e00c4c93ec97b82ce4dd831592356e",
+      "crc32": "d8289023",
+      "sha1": "8befff85f37045960b187e9dbbe1f7d846416af2",
+      "format": "JSON"
+    },
+    {
+      "name": "torrentfreak-2022-09-28T12:10:18.141407-07:00.jpg",
+      "source": "original",
+      "mtime": "1664392223",
+      "size": "269495",
+      "md5": "5116726bbca86ff822e695d24321d8bb",
+      "crc32": "6765588f",
+      "sha1": "291275865ff30c7284dfeb2573ba936cef18ba36",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "torrentfreak-2022-09-28T12:10:18.141407-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664392229",
+      "size": "1468",
+      "md5": "0c05809af2a63d569a970c245f23ef0d",
+      "crc32": "df4d3346",
+      "sha1": "66613aac55d7881a38252907285c7e1ab51ac0c9",
+      "format": "JSON"
+    },
+    {
+      "name": "torrentfreak-2022-09-28T12:10:18.141407-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664392232",
+      "size": "232",
+      "md5": "abb84939ac49e2cfe2da0a524ad8d549",
+      "crc32": "f9de37fa",
+      "sha1": "6bf7f722e3e58c8c25df3806116039f7d5486c98",
+      "format": "JSON"
+    },
+    {
       "name": "torrentfreak-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7d6caaf2a010f9f9642f21bc0e500476f1246952",
-      "mtime": "1664351856",
-      "size": "162061",
-      "md5": "06cb3ae4c49c225eb5b09ddaaa3a7831",
-      "crc32": "9e3fb4c4",
-      "sha1": "6d49a3ac0b321dc264dc809a740c5262b03929ad",
+      "btih": "3212e5e3aa593559cc6cbdf5956ac89c593e3bd4",
+      "mtime": "1664392524",
+      "size": "163348",
+      "md5": "3b7c3d2e03a8d2b424ce1b6d250bd064",
+      "crc32": "74b52137",
+      "sha1": "932d2d44865c6596fd739e4cb4ed6f96ef44da30",
       "format": "Archive BitTorrent"
     },
     {
       "name": "torrentfreak-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "24d312d332fa77acf334225fd57e81ac",
+      "md5": "7b5f4d77a2efb0395d68413862968ba6",
       "summation": "md5"
     },
     {
       "name": "torrentfreak-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664351815",
-      "size": "974848",
-      "md5": "e03673956cb0bc97315dbfcf32d0abaf",
-      "crc32": "2c7beda5",
-      "sha1": "0f6a7d03a71228f10d8b870e114a62b1b40c07a2",
+      "mtime": "1664392476",
+      "size": "983040",
+      "md5": "c3be28bef59f9d6d43a714a5d126d011",
+      "crc32": "7eb3ff5f",
+      "sha1": "80ed6e26ab00ba2bc23e26d235005a878ac5b766",
       "format": "Metadata"
     },
     {
@@ -7831,9 +7893,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 757,
-  "item_last_updated": 1664351856,
-  "item_size": 39281918,
+  "files_count": 763,
+  "item_last_updated": 1664392524,
+  "item_size": 39587452,
   "metadata": {
     "identifier": "torrentfreak-2022",
     "collection": [
@@ -7855,7 +7917,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420792141,
+      "task_id": 3421338892,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -7863,7 +7925,12 @@
       "status": "queued"
     }
   ],
-  "uniq": 906981666,
+  "torrentfreak-2022": {
+    "url": "https://torrentfreak.com/",
+    "job_id": "spn2-7ac39db4e91b8cea5f78cea41b39ca0dc700e333",
+    "message": "The same snapshot had been made 33 minutes, 22 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
+  "uniq": 1412795200,
   "workable_servers": [
     "ia601504.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1664351707,
+  "created": 1664392213,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/12/items/thedailybeast-2022",
@@ -7817,31 +7817,93 @@
       "format": "JSON"
     },
     {
+      "name": "thedailybeast-2022-09-28T03:54:09.472695-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailybeast-2022-09-28T03:54:09.472695-04:00.jpg",
+      "mtime": "1664354080",
+      "size": "10465",
+      "md5": "4e615e1e9426b1eb24387fcffd1a8db2",
+      "crc32": "f5a2672a",
+      "sha1": "76ce35d69882ae884908c610f0dd8da694cc25c6"
+    },
+    {
+      "name": "thedailybeast-2022-09-28T15:06:03.606920-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664391971",
+      "size": "21366",
+      "md5": "9051e6bf22e853121719bd2e79d70fc0",
+      "crc32": "d8c279d5",
+      "sha1": "6086e913af4f16b82307e671fe309056b13a5c11",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailybeast-2022-09-28T15:06:03.606920-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664391975",
+      "size": "27155",
+      "md5": "8ea636b4bf001cbf619fe2e9584a0d44",
+      "crc32": "4d59a8b0",
+      "sha1": "234a9c71214c41ec0a7e1f15921751b458307527",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailybeast-2022-09-28T15:06:03.606920-04:00.jpg",
+      "source": "original",
+      "mtime": "1664391969",
+      "size": "316877",
+      "md5": "283d2c95ca7710daa5759f0765b50dc7",
+      "crc32": "277d45c8",
+      "sha1": "035e84220baed5779750dcae8f484154a5ca180d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailybeast-2022-09-28T15:06:03.606920-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664391978",
+      "size": "1522",
+      "md5": "e893d24e80e6ecc5fbd620e41c96395d",
+      "crc32": "fe616a8f",
+      "sha1": "58e7a65f8c154f7313be0d1fa716f5a425e307b6",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailybeast-2022-09-28T15:06:03.606920-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664391981",
+      "size": "85446",
+      "md5": "960c1c84a4ce0fece127489f65b3d218",
+      "crc32": "2225fcac",
+      "sha1": "46d72de04871856ccadf3394fdaae99212d83dd2",
+      "format": "JSON"
+    },
+    {
       "name": "thedailybeast-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0429a14e899ffa55d8af806511811f92f756e51f",
-      "mtime": "1664351705",
-      "size": "164243",
-      "md5": "011e5b9e145f29b925d161577d3ead86",
-      "crc32": "ae7eb62b",
-      "sha1": "47dfdced11df2979683cb25b7ea45cd097fc1182",
+      "btih": "7bea6501cbe7427787772055d24b8ee1ba6d16cb",
+      "mtime": "1664392210",
+      "size": "165541",
+      "md5": "afed045804e1bd987452932121132988",
+      "crc32": "8bbb13fa",
+      "sha1": "3c6fe919de0d8f2f0411b398443f6cb17f5fd70d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedailybeast-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5a8ff56ee5b2e4888b2e46d5d8f75538",
+      "md5": "9a017109b8ab7622fda19e8339a1a193",
       "summation": "md5"
     },
     {
       "name": "thedailybeast-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664351665",
-      "size": "974848",
-      "md5": "fb8bc135483a2b53f175e9722c4075c4",
-      "crc32": "26a78e5f",
-      "sha1": "5c97d23a5d3f952140e1734cbc23157209a5c0bc",
+      "mtime": "1664392169",
+      "size": "983040",
+      "md5": "1d1b306d809268e2a4dda118513db045",
+      "crc32": "be54cad6",
+      "sha1": "b6702d6a077ebc72c8061cf830bc47d902b6dc0b",
       "format": "Metadata"
     },
     {
@@ -7855,9 +7917,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 759,
-  "item_last_updated": 1664351705,
-  "item_size": 53946025,
+  "files_count": 765,
+  "item_last_updated": 1664392210,
+  "item_size": 54418346,
   "metadata": {
     "identifier": "thedailybeast-2022",
     "collection": [
@@ -7879,7 +7941,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420790536,
+      "task_id": 3421332535,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -7887,7 +7949,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1426034867,
+  "uniq": 573259567,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

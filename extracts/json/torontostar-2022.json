@@ -1,5 +1,5 @@
 {
-  "created": 1664351858,
+  "created": 1664392548,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/10/items/torontostar-2022",
@@ -10587,31 +10587,93 @@
       "format": "JSON"
     },
     {
+      "name": "torontostar-2022-09-28T03:56:21.412445-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "torontostar-2022-09-28T03:56:21.412445-04:00.jpg",
+      "mtime": "1664354226",
+      "size": "9086",
+      "md5": "628aff98760cd4cf32dd1be70c29f479",
+      "crc32": "82bd408e",
+      "sha1": "8dbc51cb11ff0d029a9227b989fa96af9c7b07fe"
+    },
+    {
+      "name": "torontostar-2022-09-28T15:09:41.435822-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664392198",
+      "size": "43901",
+      "md5": "242ae710917f56b5354ff4fb4b6a88aa",
+      "crc32": "33affa87",
+      "sha1": "0a2b4571fd945ab895aefc74c31ac4e020bcd950",
+      "format": "JSON"
+    },
+    {
+      "name": "torontostar-2022-09-28T15:09:41.435822-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664392200",
+      "size": "36547",
+      "md5": "ee55e573f59f372cf84ec108a4b4616e",
+      "crc32": "bfb17f2d",
+      "sha1": "9f32925a9e861b27a0886a62ffcb2adc37a6e023",
+      "format": "JSON"
+    },
+    {
+      "name": "torontostar-2022-09-28T15:09:41.435822-04:00.jpg",
+      "source": "original",
+      "mtime": "1664392196",
+      "size": "282240",
+      "md5": "d52a1f47c10a704e40589966eea9661b",
+      "crc32": "c063e902",
+      "sha1": "22506eacd0ea624b6bbc6ded6f6b9e0acee78456",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "torontostar-2022-09-28T15:09:41.435822-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664392201",
+      "size": "1510",
+      "md5": "ec2f00ead945a4c2514c06aca994322d",
+      "crc32": "25ec594b",
+      "sha1": "0a4449716a741be71dd6cf80852c887fed204b32",
+      "format": "JSON"
+    },
+    {
+      "name": "torontostar-2022-09-28T15:09:41.435822-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664392204",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "torontostar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8f1d651a7b7e8b847df8db92bdbfe28023ec3c24",
-      "mtime": "1664351851",
-      "size": "219064",
-      "md5": "4176b1b54afd60dd615d61063e7945e3",
-      "crc32": "1eb54c40",
-      "sha1": "f9c8141a69921f2a6d2317dbd422a4bb76615c8a",
+      "btih": "f51da8453ae582da5a5d549b6658248f9fe72ea4",
+      "mtime": "1664392537",
+      "size": "220327",
+      "md5": "a90330915a45661ab53b2068014211a0",
+      "crc32": "24d630fb",
+      "sha1": "6f98ebbaae027f33091053623dc276df15716fed",
       "format": "Archive BitTorrent"
     },
     {
       "name": "torontostar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "04faf62de78c7bf14e653138ca92c3bd",
+      "md5": "d84d881772c6fcefa097832de7c21965",
       "summation": "md5"
     },
     {
       "name": "torontostar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664351803",
-      "size": "1277952",
-      "md5": "78c502a45174a572e2876724bf9c7873",
-      "crc32": "a0e0c85b",
-      "sha1": "046c0fb064a8a348eb759c71c36d34788dc52af1",
+      "mtime": "1664392471",
+      "size": "1282048",
+      "md5": "6c5a5768a4cda3b01cf5f981f3bfb279",
+      "crc32": "117b85d3",
+      "sha1": "a1ce34f5648fb02d56b14fe7d1c4d8197d2a8597",
       "format": "Metadata"
     },
     {
@@ -10625,9 +10687,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1023,
-  "item_last_updated": 1664351851,
-  "item_size": 78378084,
+  "files_count": 1029,
+  "item_last_updated": 1664392537,
+  "item_size": 78756929,
   "metadata": {
     "identifier": "torontostar-2022",
     "collection": [
@@ -10649,7 +10711,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420792063,
+      "task_id": 3421337139,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10657,7 +10719,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1896898531,
+  "uniq": 358515538,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]
