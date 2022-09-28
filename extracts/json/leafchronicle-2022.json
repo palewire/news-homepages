@@ -1,5 +1,5 @@
 {
-  "created": 1664328426,
+  "created": 1664370313,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/5/items/leafchronicle-2022",
@@ -997,31 +997,93 @@
       "format": "JSON"
     },
     {
+      "name": "leafchronicle-2022-09-27T20:26:00.394238-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "leafchronicle-2022-09-27T20:26:00.394238-05:00.jpg",
+      "mtime": "1664331016",
+      "size": "9143",
+      "md5": "ddbe99e59f832029666f1be4e3193abb",
+      "crc32": "1c2d770f",
+      "sha1": "1fd280afa74146ee2315f7b118ea3828cdaa22bf"
+    },
+    {
+      "name": "leafchronicle-2022-09-28T08:02:57.013879-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664370182",
+      "size": "21088",
+      "md5": "9ed596a4b4f741a86365d1e13d6375ef",
+      "crc32": "de0d273d",
+      "sha1": "fae6222c3433487ea96eb0bc70f8279b36056338",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-09-28T08:02:57.013879-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664370184",
+      "size": "32949",
+      "md5": "ec1d0a8d37a21eb8a1d14a9d5087bf3e",
+      "crc32": "fc95dd39",
+      "sha1": "6f24b6d3992de510e795ed75945b9cd7eb2c1217",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-09-28T08:02:57.013879-05:00.jpg",
+      "source": "original",
+      "mtime": "1664370179",
+      "size": "257121",
+      "md5": "0abed17938af0e919580ec2e41dfbfb1",
+      "crc32": "547e9481",
+      "sha1": "eb3cc372b05c883006f50c2b7980a48412566200",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "leafchronicle-2022-09-28T08:02:57.013879-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664370186",
+      "size": "1549",
+      "md5": "283bc71ba9d9596955a5dfbcae93dad6",
+      "crc32": "692f6d30",
+      "sha1": "2022358bdddb7169ec166dd7f9f5fba71cb48385",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-09-28T08:02:57.013879-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664370189",
+      "size": "103287",
+      "md5": "3b9978355200928301b91a5cd30c0800",
+      "crc32": "43a9c9b6",
+      "sha1": "07dd0bfddf08c546c00d0c016d3a0c4e50a2d51d",
+      "format": "JSON"
+    },
+    {
       "name": "leafchronicle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "98a351be422f7993542f25745d2ba7af0d83bd18",
-      "mtime": "1664328421",
-      "size": "22132",
-      "md5": "852c5ecb50caf2ee2ac9a4cbb7c04790",
-      "crc32": "ad086add",
-      "sha1": "9556870d945087cd58a9c35602eff328637a4071",
+      "btih": "8ff724144458e6ad5b7b8529d106150490546f7a",
+      "mtime": "1664370306",
+      "size": "23430",
+      "md5": "c2f10203b5c953ac0c4aee4c5dad0c5a",
+      "crc32": "3089b83c",
+      "sha1": "f7802a3e4f0c6ffd6f7cdac5fa700ddd3599f356",
       "format": "Archive BitTorrent"
     },
     {
       "name": "leafchronicle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f066e7d96a98756f2af9ba4a66b30705",
+      "md5": "3efe2ee6c547a9def0e1cd01040a7600",
       "summation": "md5"
     },
     {
       "name": "leafchronicle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664328383",
-      "size": "147456",
-      "md5": "ca85c7eb8617c5d3c4c20a7afbacae38",
-      "crc32": "64631762",
-      "sha1": "da060c3a0e817b65cc22ad62e6e210e140094e41",
+      "mtime": "1664370264",
+      "size": "155648",
+      "md5": "d31808b9f0d086caa31ecad38e0d3474",
+      "crc32": "5481de20",
+      "sha1": "1205645034673acf676d2fa76d9df5641a976ad0",
       "format": "Metadata"
     },
     {
@@ -1035,9 +1097,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 100,
-  "item_last_updated": 1664328421,
-  "item_size": 6509395,
+  "files_count": 106,
+  "item_last_updated": 1664370306,
+  "item_size": 6944022,
   "metadata": {
     "identifier": "leafchronicle-2022",
     "collection": [
@@ -1059,7 +1121,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420459747,
+      "task_id": 3421015256,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1067,7 +1129,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 133656086,
+  "uniq": 1142658060,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

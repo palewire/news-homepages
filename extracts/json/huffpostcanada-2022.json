@@ -1,5 +1,5 @@
 {
-  "created": 1664328265,
+  "created": 1664370032,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/26/items/huffpostcanada-2022",
@@ -8117,31 +8117,83 @@
       "format": "JSON"
     },
     {
+      "name": "huffpostcanada-2022-09-27T21:23:21.001869-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "huffpostcanada-2022-09-27T21:23:21.001869-04:00.jpg",
+      "mtime": "1664330858",
+      "size": "10497",
+      "md5": "a2822c8e349cd21e03dd3438398a3779",
+      "crc32": "7ff2ff3f",
+      "sha1": "7d77efc8d1cff6488e6fe583e51193b2f40959b8"
+    },
+    {
+      "name": "huffpostcanada-2022-09-28T08:58:53.240400-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664369949",
+      "size": "67586",
+      "md5": "9d0bd04e6a309cecc8c37ec0bf56644d",
+      "crc32": "057f9fd5",
+      "sha1": "b2686f053f50cff26e178cc9d11385d868a7fd31",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpostcanada-2022-09-28T08:58:53.240400-04:00.jpg",
+      "source": "original",
+      "mtime": "1664369946",
+      "size": "275416",
+      "md5": "ddadb86b822e705e9cf0022898908068",
+      "crc32": "2b7e2d04",
+      "sha1": "d78ef07529f0ad68e99eff58ad051597490523e8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "huffpostcanada-2022-09-28T08:58:53.240400-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664369951",
+      "size": "1476",
+      "md5": "95d82b40534d2838f346a2186b2bdfa7",
+      "crc32": "fe77d181",
+      "sha1": "36644a5f975d2aca103eb9cb455cd539a8d70c8e",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpostcanada-2022-09-28T08:58:53.240400-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664369953",
+      "size": "205",
+      "md5": "2b480b8ff23362ea808341dea07d4b59",
+      "crc32": "20a07ed4",
+      "sha1": "764385f719b299734d79c3ef2d684bb078d4f288",
+      "format": "JSON"
+    },
+    {
       "name": "huffpostcanada-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5a7de84a3f6e43eee2c2990d76957d5f3a1bb198",
-      "mtime": "1664328260",
-      "size": "171307",
-      "md5": "fdcb883960c47b3b4819d72744e1b700",
-      "crc32": "3e955ddf",
-      "sha1": "6a182cae69ed4b2d889b98315282c878bbef0ab7",
+      "btih": "e3fa8693d34f55e2229210bcb8476ce2617c3641",
+      "mtime": "1664370024",
+      "size": "172389",
+      "md5": "af813f62a1d5ca78e29db8a5ec0c3062",
+      "crc32": "e9c03173",
+      "sha1": "616b17c28e80d492d69f61703c02ca9ee2c76cde",
       "format": "Archive BitTorrent"
     },
     {
       "name": "huffpostcanada-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9d6e1e6cba6f196848933317cd7a6883",
+      "md5": "1877a1fb66c69d16f26ee3861597c60a",
       "summation": "md5"
     },
     {
       "name": "huffpostcanada-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664328214",
-      "size": "1011712",
-      "md5": "db2695156b60bdddb89e8378214f7a1e",
-      "crc32": "4f92621a",
-      "sha1": "6cef5b969066b90accb87c804b7291432cda01ea",
+      "mtime": "1664369964",
+      "size": "1019904",
+      "md5": "90329c7e697893453a68370539986bfb",
+      "crc32": "30a063f5",
+      "sha1": "f76f94ad9983d4b1912864c588cb4292e47aee44",
       "format": "Metadata"
     },
     {
@@ -8155,9 +8207,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 788,
-  "item_last_updated": 1664328260,
-  "item_size": 56132247,
+  "files_count": 793,
+  "item_last_updated": 1664370024,
+  "item_size": 56496701,
   "metadata": {
     "identifier": "huffpostcanada-2022",
     "collection": [
@@ -8179,7 +8231,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420457789,
+      "task_id": 3421008079,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8187,7 +8239,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1673726768,
+  "uniq": 388094805,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1664328269,
+  "created": 1664369994,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/18/items/jstor_daily-2022",
@@ -7917,31 +7917,93 @@
       "format": "JSON"
     },
     {
+      "name": "jstor_daily-2022-09-27T21:23:28.993526-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jstor_daily-2022-09-27T21:23:28.993526-04:00.jpg",
+      "mtime": "1664330876",
+      "size": "10220",
+      "md5": "c0414f9e0f8cff22f3b090e476b4f630",
+      "crc32": "9bbe5c1b",
+      "sha1": "e1cf669c01e821bad4a08491eb127b070d7f882a"
+    },
+    {
+      "name": "jstor_daily-2022-09-28T08:58:53.734781-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664369941",
+      "size": "33164",
+      "md5": "e202a7336822af74b694dba65842b74d",
+      "crc32": "e6123f50",
+      "sha1": "f28de08c820ec5eb955d2e54ed7afc2320233e24",
+      "format": "JSON"
+    },
+    {
+      "name": "jstor_daily-2022-09-28T08:58:53.734781-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664369943",
+      "size": "22368",
+      "md5": "be390c7a0cd8f40ccfc48576803541f0",
+      "crc32": "4542f8c2",
+      "sha1": "0b0e5fad06879e25577b5c2d12ca41731ea75fba",
+      "format": "JSON"
+    },
+    {
+      "name": "jstor_daily-2022-09-28T08:58:53.734781-04:00.jpg",
+      "source": "original",
+      "mtime": "1664369939",
+      "size": "332397",
+      "md5": "26e401adf48c0dfb781986c05ed03c6f",
+      "crc32": "205bda32",
+      "sha1": "79ef46d953a10a3d54968c723df96f5255954385",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jstor_daily-2022-09-28T08:58:53.734781-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664369945",
+      "size": "1456",
+      "md5": "046698c16c38cf4d20ce5bf49dbd23c0",
+      "crc32": "80cac72c",
+      "sha1": "699ce942d3cd3042edfe743cbc078fc633bf1913",
+      "format": "JSON"
+    },
+    {
+      "name": "jstor_daily-2022-09-28T08:58:53.734781-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664369947",
+      "size": "12928",
+      "md5": "d5116d118c0ac1187a9e5b7f06820d9c",
+      "crc32": "c0af85a4",
+      "sha1": "41f3117854def6a90d1a6499bdb603b20de1c1a8",
+      "format": "JSON"
+    },
+    {
       "name": "jstor_daily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f19b5cb6772a499ed209a845df62dc3804b8b90b",
-      "mtime": "1664328267",
-      "size": "164899",
-      "md5": "43310d869717bd8cf5fc770ddea2d83d",
-      "crc32": "db2382c3",
-      "sha1": "c9c4cda40589587bc6cb1b03b6507f3e00ff6f30",
+      "btih": "c8cc5f7fbc04b53e1170ff264950d5566eb2b311",
+      "mtime": "1664369991",
+      "size": "166165",
+      "md5": "c90448df397f11c72f31a66d4541c848",
+      "crc32": "7b3bdb90",
+      "sha1": "9d9726a76e17e3efd43405ea40d6bbaa8634fc41",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jstor_daily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "24ffb331dca4de76dac11c3cc9cabaf4",
+      "md5": "d441e60f04013b26bafd7340fc1ac8cc",
       "summation": "md5"
     },
     {
       "name": "jstor_daily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664328227",
-      "size": "991232",
-      "md5": "a32396ce8915a6acdecbebef22a80000",
-      "crc32": "37cf8d19",
-      "sha1": "9b6dfcedf7cf7a7a454330268934fb960318a15d",
+      "mtime": "1664369951",
+      "size": "995328",
+      "md5": "b103dadc769df36fb850865902f77218",
+      "crc32": "e59d2c53",
+      "sha1": "9c99180b66019b08b8394cb7551768e7b0dff510",
       "format": "Metadata"
     },
     {
@@ -7955,9 +8017,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 769,
-  "item_last_updated": 1664328267,
-  "item_size": 55225572,
+  "files_count": 775,
+  "item_last_updated": 1664369991,
+  "item_size": 55643467,
   "metadata": {
     "identifier": "jstor_daily-2022",
     "collection": [
@@ -7979,7 +8041,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420457830,
+      "task_id": 3421007113,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -7987,7 +8049,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 786910439,
+  "uniq": 1531212940,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

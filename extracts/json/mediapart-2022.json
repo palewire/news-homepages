@@ -1,8 +1,9 @@
 {
-  "created": 1664353242,
-  "d1": "ia601406.us.archive.org",
-  "d2": "ia801406.us.archive.org",
-  "dir": "/16/items/mediapart-2022",
+  "conflict": 1664370574,
+  "created": 1664370574,
+  "d1": "ia601408.us.archive.org",
+  "d2": "ia801408.us.archive.org",
+  "dir": "/33/items/mediapart-2022",
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -11653,21 +11654,32 @@
       "format": "JSON"
     },
     {
+      "name": "mediapart-2022-09-28T10:19:11.468432+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mediapart-2022-09-28T10:19:11.468432+02:00.jpg",
+      "mtime": "1664355625",
+      "size": "10001",
+      "md5": "914c61001e44ffdf7bdd2781dfa407cd",
+      "crc32": "13bc490e",
+      "sha1": "0589dc5f793a061a878bef2cbdc41dc6583ac663"
+    },
+    {
       "name": "mediapart-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4a796a65dc8d33591e4b3e80827c81c0d5db1c26",
-      "mtime": "1664353233",
-      "size": "240050",
-      "md5": "1e78c1acde5e65fb95f5f4c622fa7356",
-      "crc32": "e1d15af0",
-      "sha1": "0b1cdf2ceb5ae44c9dee44b51dbea4d164064bf0",
+      "btih": "a2f484b776d3408c0b19f7663c5b6a4e6fa5fe8c",
+      "mtime": "1664355900",
+      "size": "240256",
+      "md5": "7b82271eb554f88732ebce3ed7639de8",
+      "crc32": "3ccb991a",
+      "sha1": "cd0115f163ed6f08d1c1522da5e3b2d7cd6485dd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mediapart-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cc1ccfe24f8b259a14684daaed17fd9c",
+      "md5": "b85c731f9c674f90e3936522f4de08be",
       "summation": "md5"
     },
     {
@@ -11691,9 +11703,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1130,
-  "item_last_updated": 1664353233,
-  "item_size": 93991956,
+  "files_count": 1131,
+  "item_last_updated": 1664355900,
+  "item_size": 94002163,
   "metadata": {
     "identifier": "mediapart-2022",
     "collection": [
@@ -11711,20 +11723,20 @@
     "addeddate": "2022-07-26 00:19:46"
   },
   "pending_tasks": true,
-  "server": "ia601406.us.archive.org",
+  "server": "ia601408.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420809552,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "task_id": 3421013393,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 459932275,
+  "uniq": 1446078479,
   "workable_servers": [
-    "ia601406.us.archive.org"
+    "ia601408.us.archive.org"
   ]
 }

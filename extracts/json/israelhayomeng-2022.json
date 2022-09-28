@@ -1,5 +1,5 @@
 {
-  "created": 1664328273,
+  "created": 1664370018,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/3/items/israelhayomeng-2022",
@@ -5719,31 +5719,83 @@
       "format": "JSON"
     },
     {
+      "name": "israelhayomeng-2022-09-28T04:23:19.271282+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "israelhayomeng-2022-09-28T04:23:19.271282+03:00.jpg",
+      "mtime": "1664330855",
+      "size": "11628",
+      "md5": "16d07419f515294d8fd051bc87bd247a",
+      "crc32": "b08c5c7b",
+      "sha1": "ca90e946bb3db3d3a81d8a95cb33be8162837d58"
+    },
+    {
+      "name": "israelhayomeng-2022-09-28T15:59:07.528056+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664369951",
+      "size": "115118",
+      "md5": "742395c812542bb56aa706fcf4f47147",
+      "crc32": "ee84aad3",
+      "sha1": "134f6406edfa12de9ddf73611ddbea0a60ea5e59",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-09-28T15:59:07.528056+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664369953",
+      "size": "128398",
+      "md5": "e49ea6f0b137e15641eead79d118b91b",
+      "crc32": "8c81a5e3",
+      "sha1": "76a979b6831f7f376ba435643c02b824c4bd81e5",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-09-28T15:59:07.528056+03:00.jpg",
+      "source": "original",
+      "mtime": "1664369949",
+      "size": "262483",
+      "md5": "a2ff791a5729792ecb798eeabb9ab262",
+      "crc32": "98cb5e89",
+      "sha1": "c30fdab212b7fb1ce77e8e1276eb2b753a687a33",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "israelhayomeng-2022-09-28T15:59:07.528056+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664369955",
+      "size": "54884",
+      "md5": "caa91ed24e78ec7820cefe54ca00e4ea",
+      "crc32": "8ca9b12b",
+      "sha1": "fe73538a30ed6fcb9f0d4ca0ece4a9beeaf43b87",
+      "format": "JSON"
+    },
+    {
       "name": "israelhayomeng-2022_archive.torrent",
       "source": "metadata",
-      "btih": "290418f4d6171dd9233cbb30ae3e55d01532a7ed",
-      "mtime": "1664328262",
-      "size": "122025",
-      "md5": "82dca1595bccdc799076c15c5bc6c4e2",
-      "crc32": "3c54ac7e",
-      "sha1": "479aa72e0aeb049907bf0e9a8f5f8bc392559150",
+      "btih": "e0a1a8a802cb98edc1c1549bade4200965b2631d",
+      "mtime": "1664370008",
+      "size": "123115",
+      "md5": "2d5f4a34bb9d775fff5ed7431ed0622d",
+      "crc32": "a21e111b",
+      "sha1": "1992d3c0bec9aa1642b71a346b6d2f5fdfd6f56d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "israelhayomeng-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8067d8014626bdca41995a14497b42d4",
+      "md5": "74bf59bdb185270453c5cfa3fb6f2654",
       "summation": "md5"
     },
     {
       "name": "israelhayomeng-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664328218",
-      "size": "729088",
-      "md5": "2fbd0d4ae912d9c0abf556a2fe4bf06d",
-      "crc32": "e69b238f",
-      "sha1": "e9730e5a61b84d59c85888f8474a24a0987d998f",
+      "mtime": "1664369962",
+      "size": "733184",
+      "md5": "c91d1f3c430e7ffd47cda5d0696b9012",
+      "crc32": "8d59a4a7",
+      "sha1": "199fdad7cbec74e8438a6425736ae2f6b46730ae",
       "format": "Metadata"
     },
     {
@@ -5757,9 +5809,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 557,
-  "item_last_updated": 1664328262,
-  "item_size": 56571006,
+  "files_count": 562,
+  "item_last_updated": 1664370008,
+  "item_size": 57148703,
   "metadata": {
     "identifier": "israelhayomeng-2022",
     "collection": [
@@ -5781,7 +5833,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420457862,
+      "task_id": 3421007627,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5789,7 +5841,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 848528244,
+  "uniq": 1409435902,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

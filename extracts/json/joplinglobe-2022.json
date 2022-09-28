@@ -1,5 +1,5 @@
 {
-  "created": 1664328273,
+  "created": 1664370011,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/8/items/joplinglobe-2022",
@@ -8639,31 +8639,93 @@
       "format": "JSON"
     },
     {
+      "name": "joplinglobe-2022-09-27T20:23:08.427455-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "joplinglobe-2022-09-27T20:23:08.427455-05:00.jpg",
+      "mtime": "1664330899",
+      "size": "9036",
+      "md5": "60d2925d9a624f2a30c7789a2cbdb8c2",
+      "crc32": "998c59e4",
+      "sha1": "eb55c763da2fdf103b4a493ef110b0cd6c6f168e"
+    },
+    {
+      "name": "joplinglobe-2022-09-28T07:59:02.089588-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664369954",
+      "size": "62994",
+      "md5": "0897a486b5b553417411d3d76b42cee2",
+      "crc32": "7c9b9960",
+      "sha1": "4b0d105ef60ec044aea3029f5ce9668b71f9e5b8",
+      "format": "JSON"
+    },
+    {
+      "name": "joplinglobe-2022-09-28T07:59:02.089588-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664369956",
+      "size": "87506",
+      "md5": "8f5cec7ef6abebfba46e1a17c63c47c5",
+      "crc32": "b7ccab42",
+      "sha1": "4068bf7787763aab7a8324169d6a2c09f0b91606",
+      "format": "JSON"
+    },
+    {
+      "name": "joplinglobe-2022-09-28T07:59:02.089588-05:00.jpg",
+      "source": "original",
+      "mtime": "1664369949",
+      "size": "301505",
+      "md5": "6b96fdf8a3dab41f95dea4ef4112b046",
+      "crc32": "54e8f6e5",
+      "sha1": "e69019291a1dcab504b0e8f3f39ef40895bad509",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "joplinglobe-2022-09-28T07:59:02.089588-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664369957",
+      "size": "1499",
+      "md5": "d29e5b5d30447adb5abac7c42e1bc824",
+      "crc32": "4c90b577",
+      "sha1": "543cf9715ab28af1f36ff3a8017c851f3af54199",
+      "format": "JSON"
+    },
+    {
+      "name": "joplinglobe-2022-09-28T07:59:02.089588-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664369959",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "joplinglobe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a03c1b91269b0272d8caf6cb435792c803986802",
-      "mtime": "1664328269",
-      "size": "178923",
-      "md5": "7236df2504e08f949b5a28c288bcbe05",
-      "crc32": "f3340ba5",
-      "sha1": "8bb2f96ea928168d67a7c9de6f918255f7aac75a",
+      "btih": "8b71a5e5f8a843f83e7c22fe820fcffc9a1d8ddc",
+      "mtime": "1664370005",
+      "size": "180206",
+      "md5": "c92f5275cc2d46241b2c3d4ae6f84d9e",
+      "crc32": "531aed6d",
+      "sha1": "34ce961115ce3485a4a0e4437603b45d42d08f44",
       "format": "Archive BitTorrent"
     },
     {
       "name": "joplinglobe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e943267a093b57687c457e235e8127b3",
+      "md5": "0b40ab3f00ae15c6cebd5ee95970cff1",
       "summation": "md5"
     },
     {
       "name": "joplinglobe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664328211",
-      "size": "1032192",
-      "md5": "665c52fb3a1cb4812396ef2b0e1410a4",
-      "crc32": "ebc30ab4",
-      "sha1": "a13b89b12a09a731947443ed7185d1b22fb0d8e8",
+      "mtime": "1664369962",
+      "size": "1040384",
+      "md5": "cc5fce2488a437303133991f5bdeba34",
+      "crc32": "b1762995",
+      "sha1": "84ab454ff68b89cf3e31fc9c378c28f8fa7976af",
       "format": "Metadata"
     },
     {
@@ -8677,9 +8739,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 834,
-  "item_last_updated": 1664328269,
-  "item_size": 78925812,
+  "files_count": 840,
+  "item_last_updated": 1664370005,
+  "item_size": 79398029,
   "metadata": {
     "identifier": "joplinglobe-2022",
     "collection": [
@@ -8701,7 +8763,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420457869,
+      "task_id": 3421007431,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8709,7 +8771,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 150352125,
+  "uniq": 148911876,
   "workable_servers": [
     "ia902500.us.archive.org"
   ]
