@@ -1,5 +1,6 @@
 {
-  "created": 1664323111,
+  "conflict": 1664367311,
+  "created": 1664367311,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/9/items/freebeacon-2022",
@@ -12399,21 +12400,32 @@
       "format": "JSON"
     },
     {
+      "name": "freebeacon-2022-09-27T19:54:40.058305-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "freebeacon-2022-09-27T19:54:40.058305-04:00.jpg",
+      "mtime": "1664326315",
+      "size": "10181",
+      "md5": "c94e6e0a26b85c1f0d5e6174501bd8a0",
+      "crc32": "b1871869",
+      "sha1": "c9ec12270f396f8ab243e43eeb02c35ba39a51f5"
+    },
+    {
       "name": "freebeacon-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9e61c9a82aa24fe6fac40d2cc376647e540a5764",
-      "mtime": "1664323074",
-      "size": "255493",
-      "md5": "9a37245c33e64a87f77ac3ee6e8e1b4e",
-      "crc32": "c99e62d7",
-      "sha1": "e26553c17c71630b17accbf043a30d02d73101b5",
+      "btih": "78442bcf62a10e7a1004341dd748b26da62c3ee0",
+      "mtime": "1664326338",
+      "size": "255700",
+      "md5": "157631a13d7bfa948147d48ec285e1f4",
+      "crc32": "f5f32168",
+      "sha1": "935a722503f1b1d4838bf59c2a3edb920b2d621e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "freebeacon-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dd0c00e25a79ba0b152aa374f464e1c5",
+      "md5": "960a4836e707bca69680e5ba754460d9",
       "summation": "md5"
     },
     {
@@ -12437,9 +12449,10 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1201,
-  "item_last_updated": 1664323074,
-  "item_size": 77089946,
+  "files_count": 1202,
+  "has_redrow": true,
+  "item_last_updated": 1664326338,
+  "item_size": 77100334,
   "metadata": {
     "identifier": "freebeacon-2022",
     "collection": [
@@ -12457,20 +12470,20 @@
     "addeddate": "2022-07-17 15:03:23"
   },
   "pending_tasks": true,
-  "server": "ia601406.us.archive.org",
+  "server": "ia801406.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420374611,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "task_id": 3420976660,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 2,
+      "color": "red",
+      "status": "error"
     }
   ],
-  "uniq": 1624480125,
+  "uniq": 43779650,
   "workable_servers": [
-    "ia601406.us.archive.org"
+    "ia801406.us.archive.org"
   ]
 }

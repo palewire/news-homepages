@@ -1,6 +1,5 @@
 {
-  "conflict": 1664367104,
-  "created": 1664367104,
+  "created": 1664367216,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/33/items/diariope-2022",
@@ -9763,31 +9762,82 @@
       "sha1": "39a6da1da8814c95d7d1303b5440f682f582c79e"
     },
     {
+      "name": "diariope-2022-09-28T09:09:40.751078-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664366986",
+      "size": "110772",
+      "md5": "02e7dd645025aee616ac5b5f53050736",
+      "crc32": "a5b16de1",
+      "sha1": "db9163e62b551c032af1b88c0b0028faeb1a7c7f",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-09-28T09:09:40.751078-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664366988",
+      "size": "134493",
+      "md5": "b0b65271dcfabb29db7f2135605df100",
+      "crc32": "6be08c68",
+      "sha1": "cc7b3346eeef107d6c795fba1234cf4791268fb5",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-09-28T09:09:40.751078-03:00.jpg",
+      "source": "original",
+      "mtime": "1664366982",
+      "size": "253333",
+      "md5": "fc2361ddef52b3f8a5bf11626ae7535c",
+      "crc32": "37114357",
+      "sha1": "8a06167d1f97b4981e458ab97800fb0caf1e5c17",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariope-2022-09-28T09:09:40.751078-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664366990",
+      "size": "1591",
+      "md5": "2f1b480df2612d4c2f9189c334965b6a",
+      "crc32": "cdbb0c66",
+      "sha1": "76808ca218eae5858738dc07a44f2dbf66f62097",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-09-28T09:09:40.751078-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664366992",
+      "size": "245",
+      "md5": "708f97172026f94add602cdf84627257",
+      "crc32": "fa2e2b18",
+      "sha1": "74f66cdfb38c521a15ac1228258f4ef3a703e50f",
+      "format": "JSON"
+    },
+    {
       "name": "diariope-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b92313b7e018959832e76a8bf65586b0abfbefcc",
-      "mtime": "1664366703",
-      "size": "201013",
-      "md5": "d75ec33ffef77f3bb097d79f58a76a29",
-      "crc32": "e9ba538f",
-      "sha1": "040c4ef4566f7390c3035ef08624d816c2d297a5",
+      "btih": "a8f05e18e33d0c655adf9555c212c60d582b6d2b",
+      "mtime": "1664367148",
+      "size": "202280",
+      "md5": "6630789627d22fa5fee9086ca26904f8",
+      "crc32": "273eac64",
+      "sha1": "586889b1fed4d1187631deb81da139aff2a69ead",
       "format": "Archive BitTorrent"
     },
     {
       "name": "diariope-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b0baed526a424495b6a7f8e50a2e62ba",
+      "md5": "0cbba89c3ecc9f1c299622e00ca9276d",
       "summation": "md5"
     },
     {
       "name": "diariope-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664366626",
-      "size": "1212416",
-      "md5": "239528516ef5b7ab26121d9bbca41c35",
-      "crc32": "d98dba1e",
-      "sha1": "6246b0731d51bd55ea5a4b8c72b5a836af23846a",
+      "mtime": "1664367111",
+      "size": "1220608",
+      "md5": "380affb3c0892ff886db49976475ec1b",
+      "crc32": "02509d71",
+      "sha1": "60f107eb9b54ea194f4e25e404ec08e7b22acd09",
       "format": "Metadata"
     },
     {
@@ -9801,9 +9851,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 948,
-  "item_last_updated": 1664367056,
-  "item_size": 90292679,
+  "files_count": 953,
+  "item_last_updated": 1664367148,
+  "item_size": 90802572,
   "metadata": {
     "identifier": "diariope-2022",
     "collection": [
@@ -9825,55 +9875,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420974868,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3420974921,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3420974960,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3420974990,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3420975017,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3420976007,
-      "cmd": "bup.php",
-      "priority": -5,
+      "task_id": 3420977460,
+      "cmd": "derive.php",
+      "priority": -6,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 29413653,
+  "uniq": 1014749054,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]

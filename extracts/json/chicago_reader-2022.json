@@ -1,5 +1,6 @@
 {
-  "created": 1664322822,
+  "conflict": 1664367312,
+  "created": 1664367312,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/26/items/chicago_reader-2022",
@@ -15657,21 +15658,32 @@
       "format": "JSON"
     },
     {
+      "name": "chicago_reader-2022-09-27T18:51:02.695968-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chicago_reader-2022-09-27T18:51:02.695968-05:00.jpg",
+      "mtime": "1664325616",
+      "size": "9409",
+      "md5": "2007a3e321c96092ab5a3ab5526fb099",
+      "crc32": "aa06b464",
+      "sha1": "b9aa2078ab2e9beb8863ca0658f1e383a5ae76d9"
+    },
+    {
       "name": "chicago_reader-2022_archive.torrent",
       "source": "metadata",
-      "btih": "14d4940a727a3bf488967d01793e1a99cde49e3f",
-      "mtime": "1664322810",
-      "size": "326774",
-      "md5": "3bf358b828c2bb9099522614ec3c6212",
-      "crc32": "71913fee",
-      "sha1": "0183f1f9cee4583ee380b1eaa44676931a992caa",
+      "btih": "76506afad4cc861732355c2d034ab2f96b713c57",
+      "mtime": "1664325646",
+      "size": "326984",
+      "md5": "4be2b9b6ee2cacab7438418fddd87dba",
+      "crc32": "c88e22d6",
+      "sha1": "61ffa5e09f0bfa621eaf4de10c165976b88faab0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chicago_reader-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ba87453e731a1ab811aad4a0b471fd03",
+      "md5": "445d77d9fc614d856f8e26e8d4427d52",
       "summation": "md5"
     },
     {
@@ -15695,9 +15707,10 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1511,
-  "item_last_updated": 1664322810,
-  "item_size": 89898673,
+  "files_count": 1512,
+  "has_redrow": true,
+  "item_last_updated": 1664325646,
+  "item_size": 89908292,
   "metadata": {
     "identifier": "chicago_reader-2022",
     "collection": [
@@ -15715,20 +15728,20 @@
     "addeddate": "2022-06-24 22:53:23"
   },
   "pending_tasks": true,
-  "server": "ia601406.us.archive.org",
+  "server": "ia801406.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420368861,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "task_id": 3420971878,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 2,
+      "color": "red",
+      "status": "error"
     }
   ],
-  "uniq": 161272249,
+  "uniq": 1135064769,
   "workable_servers": [
-    "ia601406.us.archive.org"
+    "ia801406.us.archive.org"
   ]
 }

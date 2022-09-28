@@ -1,5 +1,5 @@
 {
-  "created": 1664322653,
+  "created": 1664366893,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/5/items/cityjournal-2022",
@@ -9771,31 +9771,93 @@
       "format": "JSON"
     },
     {
+      "name": "cityjournal-2022-09-27T19:49:42.552664-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cityjournal-2022-09-27T19:49:42.552664-04:00.jpg",
+      "mtime": "1664326735",
+      "size": "8943",
+      "md5": "7dc885fcd2168c63a1239a1d700d33a4",
+      "crc32": "c265ea70",
+      "sha1": "1052efded6c06be3f6d1edb8fe0e8487f5e502fb"
+    },
+    {
+      "name": "cityjournal-2022-09-28T08:06:47.793230-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664366814",
+      "size": "20495",
+      "md5": "e5ece70ee7e70677cd2f92171e40bded",
+      "crc32": "35d99ce5",
+      "sha1": "d124d73663234c1a770d04219a7e8df40d31ac9f",
+      "format": "JSON"
+    },
+    {
+      "name": "cityjournal-2022-09-28T08:06:47.793230-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664366816",
+      "size": "18952",
+      "md5": "3ad67382f670d4d34c0ded0a067b93b2",
+      "crc32": "00fc0536",
+      "sha1": "a45f6a451710789fdb0c5d182790247540b2b553",
+      "format": "JSON"
+    },
+    {
+      "name": "cityjournal-2022-09-28T08:06:47.793230-04:00.jpg",
+      "source": "original",
+      "mtime": "1664366813",
+      "size": "215302",
+      "md5": "13cee5392059ff175f6a23b3f351db68",
+      "crc32": "0e2ac8b9",
+      "sha1": "d140d2ebfb7eda328f4559f059845d87cdbc02d5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cityjournal-2022-09-28T08:06:47.793230-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664366818",
+      "size": "1513",
+      "md5": "6716ba4cb3f08928e7afc8db33d44f7d",
+      "crc32": "acd1da33",
+      "sha1": "c116d046deea1b20fee40eb74ea482521416d567",
+      "format": "JSON"
+    },
+    {
+      "name": "cityjournal-2022-09-28T08:06:47.793230-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664366820",
+      "size": "16823",
+      "md5": "4888610fceaaf001c30c5f725358f4a8",
+      "crc32": "2678ca1b",
+      "sha1": "877a57ed1c2c0746e234d4bdb2871503d84bec0f",
+      "format": "JSON"
+    },
+    {
       "name": "cityjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "70cc2199611cf25dcc2e031500805dbeaaaaab55",
-      "mtime": "1664322648",
-      "size": "202259",
-      "md5": "eac1c7a2f34e58d5b2b6101a796a2d0f",
-      "crc32": "7e24e761",
-      "sha1": "dd53c90f858430725090e21fcd22472649b4da64",
+      "btih": "87cc79254f51bec7b742710cca76d95b92c3a151",
+      "mtime": "1664366884",
+      "size": "203524",
+      "md5": "6fc512f5f5e3ada4f8e76c25248c6677",
+      "crc32": "8511b5fb",
+      "sha1": "ae9929d40870be9f0b88820295884a36daead375",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cityjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "61306e81d5e40743f4373415f252a4d2",
+      "md5": "66f78c33dfb1d4dc52f6c03e35e49374",
       "summation": "md5"
     },
     {
       "name": "cityjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664322602",
-      "size": "1220608",
-      "md5": "3040ca7ad452faf843fc256b9747f4b9",
-      "crc32": "4ad11c54",
-      "sha1": "1c6aa24893c654cb46e09a2dc06b94ffe0a32649",
+      "mtime": "1664366829",
+      "size": "1224704",
+      "md5": "88ea8d12cb7bd0db097ca4e92797c886",
+      "crc32": "35623366",
+      "sha1": "1211316a05f9cea3e8119cd232bfb1550b3e8257",
       "format": "Metadata"
     },
     {
@@ -9809,9 +9871,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 949,
-  "item_last_updated": 1664322648,
-  "item_size": 43201086,
+  "files_count": 955,
+  "item_last_updated": 1664366884,
+  "item_size": 43488475,
   "metadata": {
     "identifier": "cityjournal-2022",
     "collection": [
@@ -9833,7 +9895,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420365263,
+      "task_id": 3420973404,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9841,7 +9903,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 438614191,
+  "uniq": 1071683246,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]
