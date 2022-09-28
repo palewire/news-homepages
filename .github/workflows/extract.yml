@@ -90,6 +90,15 @@ jobs:
           git config pull.rebase false
           git pull origin $GITHUB_REF
 
+      - id: cache
+        name: Update cache
+        uses: actions/cache@v3
+        with:
+          path: .cache
+          key: extract-lighthouse-${{ github.run_id }}
+          restore-keys: |
+            extract-lighthouse
+
       - id: download-lighthouse
         name: Download Lighthouse files
         run: pipenv run python -m newshomepages.extract download-lighthouse --days=7 --output-path=./extracts/csv/lighthouse-sample.csv;
@@ -123,6 +132,15 @@ jobs:
           git config --global user.email "actions@github.com"
           git config pull.rebase false
           git pull origin $GITHUB_REF
+
+      - id: cache
+        name: Update cache
+        uses: actions/cache@v3
+        with:
+          path: .cache
+          key: extract-drudge-${{ github.run_id }}
+          restore-keys: |
+            extract-drudge
 
       - id: download-drudge-items
         name: Download Drudge items
