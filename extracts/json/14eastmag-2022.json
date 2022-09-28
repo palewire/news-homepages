@@ -1,10 +1,5 @@
 {
-  "14eastmag-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1664366628,
+  "created": 1664381319,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/24/items/14eastmag-2022",
@@ -16570,31 +16565,82 @@
       "sha1": "8c4a8d91302bc40534de9fe46ea025420fbc4b82"
     },
     {
+      "name": "14eastmag-2022-09-28T11:07:16.159156-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664381241",
+      "size": "26845",
+      "md5": "25d38ab8bd3804a33826a38990be026a",
+      "crc32": "9ab93a0f",
+      "sha1": "48e8ff19bc871753b3d8943f20f17399c78ca6b8",
+      "format": "JSON"
+    },
+    {
+      "name": "14eastmag-2022-09-28T11:07:16.159156-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664381242",
+      "size": "42803",
+      "md5": "71871e58da0887088ff30bebb866cdc6",
+      "crc32": "668a4271",
+      "sha1": "a1ee12a3de174ec5d490f5ca4813f24328dd395f",
+      "format": "JSON"
+    },
+    {
+      "name": "14eastmag-2022-09-28T11:07:16.159156-05:00.jpg",
+      "source": "original",
+      "mtime": "1664381237",
+      "size": "267273",
+      "md5": "cf051e448d01ed66a08469db56656ba6",
+      "crc32": "c5f54eab",
+      "sha1": "2f32cb137b6e9ee4847e8b9584ff58f3881b005b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "14eastmag-2022-09-28T11:07:16.159156-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664381245",
+      "size": "1501",
+      "md5": "fa63cca633a0a6c8b8395499e88c86a7",
+      "crc32": "390eb9ad",
+      "sha1": "9f9f2cba6d77e65777d3e2e6e91075da21014abf",
+      "format": "JSON"
+    },
+    {
+      "name": "14eastmag-2022-09-28T11:07:16.159156-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664381247",
+      "size": "14691",
+      "md5": "124f1fa06eea10363d7e9abf3443384b",
+      "crc32": "40bc8122",
+      "sha1": "794f54b8fc2b53334767e6157b1de463ff5b35a8",
+      "format": "JSON"
+    },
+    {
       "name": "14eastmag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "55e56fef85816b06cc99cb8119016aaf01ae9451",
-      "mtime": "1664365865",
-      "size": "338097",
-      "md5": "f9c2645908345043ec1d007bd2ef61eb",
-      "crc32": "231269f2",
-      "sha1": "23946e3009eb8fc1dd53a62468087c6849a6abc4",
+      "btih": "662b2cdc730ec7c86c2533d16116c1080f0df9eb",
+      "mtime": "1664381314",
+      "size": "339165",
+      "md5": "452e42d002f2d8011c192e9d88a1e6b0",
+      "crc32": "77ec7609",
+      "sha1": "c819a22a2d53fb5ae4e3d00d77d85b25c24cb8c4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "14eastmag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a6ad18758727db827229bd24835357f4",
+      "md5": "3324fed8871d03aa20f52c6067d4ed1d",
       "summation": "md5"
     },
     {
       "name": "14eastmag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664362972",
-      "size": "1970176",
-      "md5": "009eb773beef8ccd425863309c299714",
-      "crc32": "d55e2a3a",
-      "sha1": "639c0d61b72e2b152bc9aa781d38e5a1d5d3f212",
+      "mtime": "1664381254",
+      "size": "1978368",
+      "md5": "1626a82e65a465adc20f4e0aa38fcc61",
+      "crc32": "3f276955",
+      "sha1": "aec9bbcdde544b62be51621e0ac46c47215099be",
       "format": "Metadata"
     },
     {
@@ -16619,9 +16665,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 1599,
-  "item_last_updated": 1664365865,
-  "item_size": 102944996,
+  "files_count": 1604,
+  "item_last_updated": 1664381314,
+  "item_size": 103307369,
   "metadata": {
     "identifier": "14eastmag-2022",
     "collection": [
@@ -16643,23 +16689,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420925944,
+      "task_id": 3421172142,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3420957491,
-      "cmd": "bup.php",
-      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 2089986753,
+  "uniq": 1974853318,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]
