@@ -1,5 +1,5 @@
 {
-  "created": 1664310184,
+  "created": 1664328500,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/28/items/kcrg-2022",
@@ -17070,31 +17070,72 @@
       "sha1": "96d25921da0dde63d6a476fd95f400de4c2b06d7"
     },
     {
+      "name": "kcrg-2022-09-27T20:26:35.969897-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664328420",
+      "size": "26817",
+      "md5": "a68df1cec797567f359fdb84613e0312",
+      "crc32": "e9cad695",
+      "sha1": "145434b39311f82fa4dd5e78b24a49b85a20a500",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-09-27T20:26:35.969897-05:00.jpg",
+      "source": "original",
+      "mtime": "1664328418",
+      "size": "349377",
+      "md5": "fe2be357e1d30db9c555c9f78d1852fc",
+      "crc32": "7a4d56d9",
+      "sha1": "64fa3a7c7d5992cae7c941941627d695bde089d5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcrg-2022-09-27T20:26:35.969897-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664328421",
+      "size": "1441",
+      "md5": "d64e3f3199ae20131c323256f658401b",
+      "crc32": "7c912730",
+      "sha1": "4d2d4dc282f3714477dad74ba987525af6290c57",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrg-2022-09-27T20:26:35.969897-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664328423",
+      "size": "53149",
+      "md5": "57d152a7c27f5dc01792e6805218d80a",
+      "crc32": "2804fa9d",
+      "sha1": "9e5a046f4c15e5bea98493da694c08610b59db31",
+      "format": "JSON"
+    },
+    {
       "name": "kcrg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "01693eb566177e3c9273318e88fad91a008948cf",
-      "mtime": "1664284994",
-      "size": "340510",
-      "md5": "9dbabda5bfbfa422d8cfdd467268a91a",
-      "crc32": "a65df126",
-      "sha1": "b6676adb42e24ae626f5f929f5fdeecf59acfd5f",
+      "btih": "afa7e1d1b260f9c2444dc1d4eb1a22c87f0c0f06",
+      "mtime": "1664328496",
+      "size": "341343",
+      "md5": "c9fb5fb5d5e995e797f1b05c8554eea9",
+      "crc32": "94a8dfa4",
+      "sha1": "5cb4be0c8ae82c0051c2f36bbb9d3e25b979c7a5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kcrg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b975e23fed03333101dc00402bf1c300",
+      "md5": "6c69dc8d32b6a9299f032efcd7d8ab04",
       "summation": "md5"
     },
     {
       "name": "kcrg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664283555",
-      "size": "1974272",
-      "md5": "4db1f69f67f588daedc74100877af9a8",
-      "crc32": "5be2dca5",
-      "sha1": "eeefad4da2ab072843f2e1fd1196b678977bc199",
+      "mtime": "1664328429",
+      "size": "1978368",
+      "md5": "4f8a296ef3daaf8dad1b8c2fb8fd94d3",
+      "crc32": "dc9a3772",
+      "sha1": "60d25fce4c77713fe020ab0a37699a64542136a1",
       "format": "Metadata"
     },
     {
@@ -17108,14 +17149,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1642,
-  "item_last_updated": 1664284994,
-  "item_size": 145247694,
-  "kcrg-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "files_count": 1646,
+  "item_last_updated": 1664328496,
+  "item_size": 145683407,
   "metadata": {
     "identifier": "kcrg-2022",
     "collection": [
@@ -17132,10 +17168,21 @@
     "publicdate": "2022-03-25 03:35:21",
     "addeddate": "2022-03-25 03:35:21"
   },
-  "server": "ia802507.us.archive.org",
-  "uniq": 642927552,
+  "pending_tasks": true,
+  "server": "ia902507.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3420460654,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 836815795,
   "workable_servers": [
-    "ia802507.us.archive.org",
     "ia902507.us.archive.org"
   ]
 }

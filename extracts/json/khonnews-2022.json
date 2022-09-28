@@ -1,5 +1,5 @@
 {
-  "created": 1664284886,
+  "created": 1664328429,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/4/items/khonnews-2022",
@@ -1742,31 +1742,82 @@
       "sha1": "e0b0d5e635cf7ca5aad6698fb198f15b313a272f"
     },
     {
+      "name": "khonnews-2022-09-27T15:25:59.161385-10:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664328362",
+      "size": "53463",
+      "md5": "42c44856b9a1ff0e2e3a337cbaf0e004",
+      "crc32": "28523147",
+      "sha1": "4e5e88932d751249b07f48475193897f0a734aa7",
+      "format": "JSON"
+    },
+    {
+      "name": "khonnews-2022-09-27T15:25:59.161385-10:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664328364",
+      "size": "94244",
+      "md5": "dd0ce2ecac1f07946e0ab8273c107fb4",
+      "crc32": "e384a605",
+      "sha1": "30d503c9d0ec606edab84c573ee8cb65929dc722",
+      "format": "JSON"
+    },
+    {
+      "name": "khonnews-2022-09-27T15:25:59.161385-10:00.jpg",
+      "source": "original",
+      "mtime": "1664328360",
+      "size": "312142",
+      "md5": "84332cbcd1c8c3a73dcf904485ff3fd9",
+      "crc32": "9d5372a9",
+      "sha1": "16f710a2a0f85749ed9b67de15090fad570b30ba",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "khonnews-2022-09-27T15:25:59.161385-10:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664328365",
+      "size": "1450",
+      "md5": "690f963b14737f222cfce2504ea39102",
+      "crc32": "abcb9c70",
+      "sha1": "aa4688416dad1d1f665d8eb0f841b4e3a21774b7",
+      "format": "JSON"
+    },
+    {
+      "name": "khonnews-2022-09-27T15:25:59.161385-10:00.wayback.json",
+      "source": "original",
+      "mtime": "1664328367",
+      "size": "65226",
+      "md5": "f1dbc1f49abdc2c6ee4113a2979be1eb",
+      "crc32": "8310092e",
+      "sha1": "18fc910fd3c98697626e141d2011fec017557322",
+      "format": "JSON"
+    },
+    {
       "name": "khonnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d07587a3d437608505beb30186e9d41f2560ac8e",
-      "mtime": "1664284876",
-      "size": "36840",
-      "md5": "6ad1fc5a8ff737d0404075570531af60",
-      "crc32": "3e7fb2df",
-      "sha1": "c1ab734401fc1e7bc2c64ed5ea90b2b3918f6d6f",
+      "btih": "c404ac99cc65a9e16c98faf967caa030c9b46d0b",
+      "mtime": "1664328420",
+      "size": "37903",
+      "md5": "2c82f71468add1a51392bd8db2b7ff45",
+      "crc32": "2b2708fc",
+      "sha1": "e65b0da22b2f2652d658868dcad08886d8682cb6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "khonnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "88a55c014d8d1c75e2497c63024120de",
+      "md5": "1653eb6dfba61a6524d87010e86cffe8",
       "summation": "md5"
     },
     {
       "name": "khonnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664283565",
-      "size": "237568",
-      "md5": "a8ac58a9bb7150695e40e759bab9ead6",
-      "crc32": "60b3eb24",
-      "sha1": "bb912ca7a4f7c13e8f28b470c2b8b0de966ceacd",
+      "mtime": "1664328378",
+      "size": "241664",
+      "md5": "9f27492940dc9df575ac1592cd22af54",
+      "crc32": "e5b3972e",
+      "sha1": "f985e922acf914875bb5ebaf69ac150ff0c15564",
       "format": "Metadata"
     },
     {
@@ -1780,9 +1831,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 172,
-  "item_last_updated": 1664284876,
-  "item_size": 13785839,
+  "files_count": 177,
+  "item_last_updated": 1664328420,
+  "item_size": 14317523,
   "metadata": {
     "identifier": "khonnews-2022",
     "collection": [
@@ -1799,10 +1850,21 @@
     "publicdate": "2022-09-14 12:04:03",
     "addeddate": "2022-09-14 12:04:03"
   },
+  "pending_tasks": true,
   "server": "ia601406.us.archive.org",
-  "uniq": 1692842272,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3420459813,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1951216952,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia601406.us.archive.org"
   ]
 }

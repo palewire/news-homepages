@@ -1,5 +1,5 @@
 {
-  "created": 1664294085,
+  "created": 1664328276,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/2/items/ilanganewspaper-2022",
@@ -4582,31 +4582,82 @@
       "sha1": "69a56160514fb9bd098ccdcb7979e36650297451"
     },
     {
+      "name": "ilanganewspaper-2022-09-28T03:23:26.162062+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664328209",
+      "size": "18453",
+      "md5": "4c40e5f2d976979b38f1d961f4e51750",
+      "crc32": "e41a7fc5",
+      "sha1": "beb7d8a7d644508c1649bd8dd9518da89263eb7c",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-09-28T03:23:26.162062+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664328211",
+      "size": "11013",
+      "md5": "8051bd4d6a2d733dd54e4a1a0ee9dfa8",
+      "crc32": "a7dbaf8c",
+      "sha1": "d198fed5540caf0fb2c0d1948efaa26e1cd78eff",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-09-28T03:23:26.162062+02:00.jpg",
+      "source": "original",
+      "mtime": "1664328207",
+      "size": "299320",
+      "md5": "3e9dfc802877134f63d172c652c23de4",
+      "crc32": "58b08779",
+      "sha1": "91a27742b77afe9bad8c2612bb672e11548ec44a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ilanganewspaper-2022-09-28T03:23:26.162062+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664328213",
+      "size": "1477",
+      "md5": "5fb11c63fb6355ee2205b90fbd1d5a7c",
+      "crc32": "ad8ffa6f",
+      "sha1": "ed7f8ec6f41c5be35d97b4f822c1cda39926fcce",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-09-28T03:23:26.162062+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664328215",
+      "size": "8859",
+      "md5": "3f2d3ccfa34bb1450d4a3ac1a6d3d105",
+      "crc32": "a8603bc7",
+      "sha1": "81dbf972d147c2ca1a7b2cf55ce7b7348866ff4b",
+      "format": "JSON"
+    },
+    {
       "name": "ilanganewspaper-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e4869b778ee81e1ba82632b0b83a9cbd462eb1d1",
-      "mtime": "1664284931",
-      "size": "97576",
-      "md5": "ac58380fefe888207421ed9ef192c3f0",
-      "crc32": "0b11611c",
-      "sha1": "b0448f6150c86bf2f602be5e37c724cef1bad546",
+      "btih": "6e080e5f07732161b09fc3eb13d0161341560272",
+      "mtime": "1664328266",
+      "size": "98673",
+      "md5": "9440070470ddbfc3363925c0635a2f3b",
+      "crc32": "48cbd821",
+      "sha1": "2a4eda4b7ff695fa031877a681be0a7bf4ace0fb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ilanganewspaper-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4faacdcfe35aa9b009c5e2ca9459088b",
+      "md5": "cac32303cc395df6829db3b02ac8c0d0",
       "summation": "md5"
     },
     {
       "name": "ilanganewspaper-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664283464",
-      "size": "585728",
-      "md5": "8309e14e36888b23034f889141a26a4c",
-      "crc32": "0f3ccb6c",
-      "sha1": "89760a2ab8fadf5b95cabbb409c7b12a664813e7",
+      "mtime": "1664328226",
+      "size": "593920",
+      "md5": "3a6b8e1beb88c9141ce246eac49edaf6",
+      "crc32": "e91837e8",
+      "sha1": "1f929d3460213982432cf776f8107e975534ec46",
       "format": "Metadata"
     },
     {
@@ -4620,9 +4671,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 447,
-  "item_last_updated": 1664284931,
-  "item_size": 25152504,
+  "files_count": 452,
+  "item_last_updated": 1664328266,
+  "item_size": 25500915,
   "metadata": {
     "identifier": "ilanganewspaper-2022",
     "collection": [
@@ -4639,10 +4690,21 @@
     "publicdate": "2022-08-22 22:03:17",
     "addeddate": "2022-08-22 22:03:17"
   },
+  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "uniq": 2105515217,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3420457896,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1853045702,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia601505.us.archive.org"
   ]
 }
