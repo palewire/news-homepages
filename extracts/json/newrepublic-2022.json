@@ -1,5 +1,6 @@
 {
-  "created": 1664308286,
+  "conflict": 1664349031,
+  "created": 1664345733,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/1/items/newrepublic-2022",
@@ -11691,31 +11692,93 @@
       "format": "JSON"
     },
     {
+      "name": "newrepublic-2022-09-27T15:50:08.448302-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newrepublic-2022-09-27T15:50:08.448302-04:00.jpg",
+      "mtime": "1664310695",
+      "size": "10151",
+      "md5": "550625224fc6e396a0af48a9de7a45a5",
+      "crc32": "d54334f2",
+      "sha1": "af70acee17f3ff83c2c141b4381259764b39add0"
+    },
+    {
+      "name": "newrepublic-2022-09-28T02:14:15.929973-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664345664",
+      "size": "28875",
+      "md5": "8670d9ad9987b96915bf1ef5855a120c",
+      "crc32": "b51b89c8",
+      "sha1": "fd2cf3671eda80ab300653c4b4c26c21a728be7a",
+      "format": "JSON"
+    },
+    {
+      "name": "newrepublic-2022-09-28T02:14:15.929973-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664345666",
+      "size": "23499",
+      "md5": "877e0590bfea75cb44310a0e2dee3f06",
+      "crc32": "b8ba8bde",
+      "sha1": "e9b672a9b095af6164a2a748f58e4c0b1942f3a8",
+      "format": "JSON"
+    },
+    {
+      "name": "newrepublic-2022-09-28T02:14:15.929973-04:00.jpg",
+      "source": "original",
+      "mtime": "1664345662",
+      "size": "281879",
+      "md5": "90ed0c981e705a0a90e8e8909d071218",
+      "crc32": "9ffcada0",
+      "sha1": "da90c0dc3a0e392677a3693bdaa052e5136bbc9d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newrepublic-2022-09-28T02:14:15.929973-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664345667",
+      "size": "1467",
+      "md5": "67860568bde83f8223fff3cf52f5f4c1",
+      "crc32": "9a3fb0b7",
+      "sha1": "51b5b2c1ad92ffce2ba0c38ad73081fe76bfac1e",
+      "format": "JSON"
+    },
+    {
+      "name": "newrepublic-2022-09-28T02:14:15.929973-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664345669",
+      "size": "22282",
+      "md5": "1b9ee9e6e1d36ed94e57d6e3bbe24064",
+      "crc32": "f9e354e1",
+      "sha1": "e90791e1cf5bd529c9d33749f4bf3ea2e2f0bb8c",
+      "format": "JSON"
+    },
+    {
       "name": "newrepublic-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f5e35bb7be1be2d8624c3366d0fa812afeb724ab",
-      "mtime": "1664308279",
-      "size": "242158",
-      "md5": "9ad19315d5659290680d2414f267793c",
-      "crc32": "d9225760",
-      "sha1": "b94a0a16b7527866836474a06fa1462ede022009",
+      "btih": "59b5cd88b17f33e109153f2fee91d478e7259894",
+      "mtime": "1664345727",
+      "size": "243424",
+      "md5": "b035255fb846c7aed711fda09761db05",
+      "crc32": "0c01d84d",
+      "sha1": "b466666ab28fee4f571ef906b1814f8a5fee51b3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newrepublic-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5200f0cf8e498e541bc184582408e1ce",
+      "md5": "6dd8f35d8794ace8218359b84f389998",
       "summation": "md5"
     },
     {
       "name": "newrepublic-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664308228",
-      "size": "1441792",
-      "md5": "f9319ae5d6c7e74877cf5b79593d8a7a",
-      "crc32": "965936b2",
-      "sha1": "ab8973ee03be3e0ad33bf78746a2ea7ddcf02a4d",
+      "mtime": "1664345674",
+      "size": "1445888",
+      "md5": "f092d43c4ff1fd9757a3032638fb26c7",
+      "crc32": "f392d40f",
+      "sha1": "a2dd9177a66fdec7032cf194d74a41e15a23cced",
       "format": "Metadata"
     },
     {
@@ -11729,9 +11792,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1133,
-  "item_last_updated": 1664308279,
-  "item_size": 72077637,
+  "files_count": 1139,
+  "item_last_updated": 1664345727,
+  "item_size": 72451152,
   "metadata": {
     "identifier": "newrepublic-2022",
     "collection": [
@@ -11749,11 +11812,11 @@
     "addeddate": "2022-07-21 03:36:10"
   },
   "pending_tasks": true,
-  "server": "ia601507.us.archive.org",
+  "server": "ia801507.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420126186,
+      "task_id": 3420726852,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11761,8 +11824,8 @@
       "status": "queued"
     }
   ],
-  "uniq": 1911339810,
+  "uniq": 1661335682,
   "workable_servers": [
-    "ia601507.us.archive.org"
+    "ia801507.us.archive.org"
   ]
 }

@@ -1,5 +1,6 @@
 {
-  "created": 1664300586,
+  "conflict": 1664348901,
+  "created": 1664348901,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/32/items/maroelamedia-2022",
@@ -4357,31 +4358,93 @@
       "format": "JSON"
     },
     {
+      "name": "maroelamedia-2022-09-27T19:41:51.404864+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "maroelamedia-2022-09-27T19:41:51.404864+02:00.jpg",
+      "mtime": "1664304458",
+      "size": "10055",
+      "md5": "7c8c2c9fe4d9c013f94945314ea4228a",
+      "crc32": "1da3dc00",
+      "sha1": "63a4110d09fa67c2f4a0dd1f76785b774b40d90d"
+    },
+    {
+      "name": "maroelamedia-2022-09-28T08:12:07.026553+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664345534",
+      "size": "31412",
+      "md5": "60f9b4f2de471023772d6017443b04d5",
+      "crc32": "834ae3ee",
+      "sha1": "43b77d93e925d503b5f4d865a34b5a192ff8b691",
+      "format": "JSON"
+    },
+    {
+      "name": "maroelamedia-2022-09-28T08:12:07.026553+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664345536",
+      "size": "36377",
+      "md5": "931146b70e8486a219e8d0d439cd4277",
+      "crc32": "05e02e92",
+      "sha1": "421e8aa6a94bc00c4bd051c417290a5e4d6001ed",
+      "format": "JSON"
+    },
+    {
+      "name": "maroelamedia-2022-09-28T08:12:07.026553+02:00.jpg",
+      "source": "original",
+      "mtime": "1664345532",
+      "size": "340613",
+      "md5": "487f633451ffef002fc63a6a6240f919",
+      "crc32": "9de1a9e2",
+      "sha1": "78d9d2409cb1ca5ae0efcf06ffa43b81616efbd0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "maroelamedia-2022-09-28T08:12:07.026553+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664345538",
+      "size": "1495",
+      "md5": "1c122156b54abe4ef675ec0a4a17ad6d",
+      "crc32": "d059c54c",
+      "sha1": "0e6aee29e6d2b33487ae87e2e2f5d95019e87292",
+      "format": "JSON"
+    },
+    {
+      "name": "maroelamedia-2022-09-28T08:12:07.026553+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664345539",
+      "size": "20123",
+      "md5": "061969be7938e1b84a4301772a3751f2",
+      "crc32": "cf0f200e",
+      "sha1": "71e0718e95c09fa581005fb8812749c806e3217c",
+      "format": "JSON"
+    },
+    {
       "name": "maroelamedia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "961939b5a6cf885917e7ba283e2fe48dd9e593d9",
-      "mtime": "1664300575",
-      "size": "91802",
-      "md5": "ae1069b69c5a486349c4db47379d680a",
-      "crc32": "38f3b3c6",
-      "sha1": "792bee69e4011e0eec6c8ce5c0b2ce2b951bc024",
+      "btih": "7b57c75252de232c400dcc17f3aa4b5c9e125685",
+      "mtime": "1664345582",
+      "size": "93094",
+      "md5": "bf2d62022dacff32ffa17347c0083022",
+      "crc32": "1430f57b",
+      "sha1": "32d98f077e518ad29e5cbd7ba3b8c7c93d1f4dbe",
       "format": "Archive BitTorrent"
     },
     {
       "name": "maroelamedia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "797de3fccb4a026f7e32c7799225a9da",
+      "md5": "81978c48e905667228ed027f853492e9",
       "summation": "md5"
     },
     {
       "name": "maroelamedia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664300535",
-      "size": "557056",
-      "md5": "12de17ad7a365b299f24e111c7184c1d",
-      "crc32": "0fdeb394",
-      "sha1": "79f5cf7d95a208e32f4d70b3c52e6704ce33a5fa",
+      "mtime": "1664345545",
+      "size": "569344",
+      "md5": "2f0c585c16837e2fb23d4bb11f1ffbd0",
+      "crc32": "9295fc68",
+      "sha1": "c60657722b39df2a840f3e37303c64e16f997158",
       "format": "Metadata"
     },
     {
@@ -4395,9 +4458,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 425,
-  "item_last_updated": 1664300575,
-  "item_size": 31399228,
+  "files_count": 431,
+  "item_last_updated": 1664345582,
+  "item_size": 31852883,
   "metadata": {
     "identifier": "maroelamedia-2022",
     "collection": [
@@ -4419,15 +4482,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3419991819,
+      "task_id": 3420725141,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 633072100,
+  "uniq": 925621464,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]
