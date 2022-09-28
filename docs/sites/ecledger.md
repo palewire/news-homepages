@@ -28,13 +28,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 17 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ecledger-2022/ecledger-2022-09-28T08:09:14.678412-04:00.jpg">
+  <img src="https://archive.org/download/ecledger-2022/ecledger-2022-09-28T08:09:14.678412-04:00.jpg"
+     alt="Ellwood City Ledger at 2022-09-28 08:09:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ecledger-2022/ecledger-2022-09-28T08:09:14.678412-04:00.jpg">September 28 at 8:09 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ecledger-2022/ecledger-2022-09-27T19:52:24.155861-04:00.jpg">
@@ -135,20 +144,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ecledger-2022/ecledger-2022-09-22T19:47:19.045458-04:00.jpg">September 22 at 7:47 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ecledger-2022/ecledger-2022-09-22T07:56:55.760011-04:00.jpg">
-  <img src="https://archive.org/download/ecledger-2022/ecledger-2022-09-22T07:56:55.760011-04:00.jpg"
-     alt="Ellwood City Ledger at 2022-09-22 07:56:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ecledger-2022/ecledger-2022-09-22T07:56:55.760011-04:00.jpg">September 22 at 7:56 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 16 hyperlink lists with the Internet Archive.
+The archiving routine has saved 17 hyperlink lists with the Internet Archive.
 
 
 
@@ -156,6 +156,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 8:09 AM](https://archive.org/download/ecledger-2022/ecledger-2022-09-28T08:09:14.678412-04:00.hyperlinks.json) |
 | [September 27 at 7:52 PM](https://archive.org/download/ecledger-2022/ecledger-2022-09-27T19:52:24.155861-04:00.hyperlinks.json) |
 | [September 27 at 7:54 AM](https://archive.org/download/ecledger-2022/ecledger-2022-09-27T07:54:04.782743-04:00.hyperlinks.json) |
 | [September 26 at 7:47 PM](https://archive.org/download/ecledger-2022/ecledger-2022-09-26T19:47:38.323299-04:00.hyperlinks.json) |
@@ -165,12 +166,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 7:40 PM](https://archive.org/download/ecledger-2022/ecledger-2022-09-24T19:40:04.413358-04:00.hyperlinks.json) |
 | [September 24 at 7:47 AM](https://archive.org/download/ecledger-2022/ecledger-2022-09-24T07:47:46.884195-04:00.hyperlinks.json) |
 | [September 23 at 7:46 PM](https://archive.org/download/ecledger-2022/ecledger-2022-09-23T19:46:05.063987-04:00.hyperlinks.json) |
-| [September 23 at 7:54 AM](https://archive.org/download/ecledger-2022/ecledger-2022-09-23T07:54:52.873373-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 16 accessibility trees with the Internet Archive.
+The archiving routine has saved 17 accessibility trees with the Internet Archive.
 
 
 
@@ -178,6 +178,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 8:09 AM](https://archive.org/download/ecledger-2022/ecledger-2022-09-28T08:09:14.678412-04:00.accessibility.json) |
 | [September 27 at 7:52 PM](https://archive.org/download/ecledger-2022/ecledger-2022-09-27T19:52:24.155861-04:00.accessibility.json) |
 | [September 27 at 7:54 AM](https://archive.org/download/ecledger-2022/ecledger-2022-09-27T07:54:04.782743-04:00.accessibility.json) |
 | [September 26 at 7:47 PM](https://archive.org/download/ecledger-2022/ecledger-2022-09-26T19:47:38.323299-04:00.accessibility.json) |
@@ -187,13 +188,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 7:40 PM](https://archive.org/download/ecledger-2022/ecledger-2022-09-24T19:40:04.413358-04:00.accessibility.json) |
 | [September 24 at 7:47 AM](https://archive.org/download/ecledger-2022/ecledger-2022-09-24T07:47:46.884195-04:00.accessibility.json) |
 | [September 23 at 7:46 PM](https://archive.org/download/ecledger-2022/ecledger-2022-09-23T19:46:05.063987-04:00.accessibility.json) |
-| [September 23 at 7:54 AM](https://archive.org/download/ecledger-2022/ecledger-2022-09-23T07:54:52.873373-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
 
 
 
@@ -201,6 +201,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 8:09 AM](https://archive.org/download/ecledger-2022/ecledger-2022-09-28T08:09:14.678412-04:00.lighthouse.json) |
 | [September 27 at 7:52 PM](https://archive.org/download/ecledger-2022/ecledger-2022-09-27T19:52:24.155861-04:00.lighthouse.json) |
 | [September 27 at 7:54 AM](https://archive.org/download/ecledger-2022/ecledger-2022-09-27T07:54:04.782743-04:00.lighthouse.json) |
 | [September 26 at 7:47 PM](https://archive.org/download/ecledger-2022/ecledger-2022-09-26T19:47:38.323299-04:00.lighthouse.json) |
@@ -210,7 +211,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 7:40 PM](https://archive.org/download/ecledger-2022/ecledger-2022-09-24T19:40:04.413358-04:00.lighthouse.json) |
 | [September 24 at 7:47 AM](https://archive.org/download/ecledger-2022/ecledger-2022-09-24T07:47:46.884195-04:00.lighthouse.json) |
 | [September 23 at 7:46 PM](https://archive.org/download/ecledger-2022/ecledger-2022-09-23T19:46:05.063987-04:00.lighthouse.json) |
-| [September 23 at 7:55 AM](https://archive.org/download/ecledger-2022/ecledger-2022-09-23T07:54:52.873373-04:00.lighthouse.json) |
 
 
 

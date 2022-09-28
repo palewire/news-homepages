@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 65 screenshots with the Internet Archive.
+The archiving routine has saved 66 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 65 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fi2w-2022/fi2w-2022-09-28T08:10:02.810303-04:00.jpg">
+  <img src="https://archive.org/download/fi2w-2022/fi2w-2022-09-28T08:10:02.810303-04:00.jpg"
+     alt="Feet in 2 Worlds at 2022-09-28 08:10:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fi2w-2022/fi2w-2022-09-28T08:10:02.810303-04:00.jpg">September 28 at 8:10 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fi2w-2022/fi2w-2022-09-27T19:52:48.284921-04:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/fi2w-2022/fi2w-2022-09-22T19:47:19.062312-04:00.jpg">September 22 at 7:47 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/fi2w-2022/fi2w-2022-09-22T07:57:08.149344-04:00.jpg">
-  <img src="https://archive.org/download/fi2w-2022/fi2w-2022-09-22T07:57:08.149344-04:00.jpg"
-     alt="Feet in 2 Worlds at 2022-09-22 07:57:10-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fi2w-2022/fi2w-2022-09-22T07:57:08.149344-04:00.jpg">September 22 at 7:57 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 66 hyperlink lists with the Internet Archive.
+The archiving routine has saved 67 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 8:10 AM](https://archive.org/download/fi2w-2022/fi2w-2022-09-28T08:10:02.810303-04:00.hyperlinks.json) |
 | [September 27 at 7:52 PM](https://archive.org/download/fi2w-2022/fi2w-2022-09-27T19:52:48.284921-04:00.hyperlinks.json) |
 | [September 27 at 7:55 AM](https://archive.org/download/fi2w-2022/fi2w-2022-09-27T07:55:35.415871-04:00.hyperlinks.json) |
 | [September 26 at 7:47 PM](https://archive.org/download/fi2w-2022/fi2w-2022-09-26T19:47:45.784113-04:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 7:39 PM](https://archive.org/download/fi2w-2022/fi2w-2022-09-24T19:39:27.338232-04:00.hyperlinks.json) |
 | [September 24 at 7:49 AM](https://archive.org/download/fi2w-2022/fi2w-2022-09-24T07:49:11.632082-04:00.hyperlinks.json) |
 | [September 23 at 7:46 PM](https://archive.org/download/fi2w-2022/fi2w-2022-09-23T19:45:58.942922-04:00.hyperlinks.json) |
-| [September 23 at 7:55 AM](https://archive.org/download/fi2w-2022/fi2w-2022-09-23T07:55:10.160759-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 66 accessibility trees with the Internet Archive.
+The archiving routine has saved 67 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 8:10 AM](https://archive.org/download/fi2w-2022/fi2w-2022-09-28T08:10:02.810303-04:00.accessibility.json) |
 | [September 27 at 7:52 PM](https://archive.org/download/fi2w-2022/fi2w-2022-09-27T19:52:48.284921-04:00.accessibility.json) |
 | [September 27 at 7:55 AM](https://archive.org/download/fi2w-2022/fi2w-2022-09-27T07:55:35.415871-04:00.accessibility.json) |
 | [September 26 at 7:47 PM](https://archive.org/download/fi2w-2022/fi2w-2022-09-26T19:47:45.784113-04:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 7:39 PM](https://archive.org/download/fi2w-2022/fi2w-2022-09-24T19:39:27.338232-04:00.accessibility.json) |
 | [September 24 at 7:49 AM](https://archive.org/download/fi2w-2022/fi2w-2022-09-24T07:49:11.632082-04:00.accessibility.json) |
 | [September 23 at 7:46 PM](https://archive.org/download/fi2w-2022/fi2w-2022-09-23T19:45:58.942922-04:00.accessibility.json) |
-| [September 23 at 7:55 AM](https://archive.org/download/fi2w-2022/fi2w-2022-09-23T07:55:10.160759-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 66 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 67 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 8:10 AM](https://archive.org/download/fi2w-2022/fi2w-2022-09-28T08:10:02.810303-04:00.lighthouse.json) |
 | [September 27 at 7:52 PM](https://archive.org/download/fi2w-2022/fi2w-2022-09-27T19:52:48.284921-04:00.lighthouse.json) |
 | [September 27 at 7:55 AM](https://archive.org/download/fi2w-2022/fi2w-2022-09-27T07:55:35.415871-04:00.lighthouse.json) |
 | [September 26 at 7:47 PM](https://archive.org/download/fi2w-2022/fi2w-2022-09-26T19:47:45.784113-04:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 7:39 PM](https://archive.org/download/fi2w-2022/fi2w-2022-09-24T19:39:27.338232-04:00.lighthouse.json) |
 | [September 24 at 7:49 AM](https://archive.org/download/fi2w-2022/fi2w-2022-09-24T07:49:11.632082-04:00.lighthouse.json) |
 | [September 23 at 7:46 PM](https://archive.org/download/fi2w-2022/fi2w-2022-09-23T19:45:58.942922-04:00.lighthouse.json) |
-| [September 23 at 7:55 AM](https://archive.org/download/fi2w-2022/fi2w-2022-09-23T07:55:10.160759-04:00.lighthouse.json) |
 
 
 

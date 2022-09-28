@@ -28,13 +28,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 17 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-28T08:11:42.405335-04:00.jpg">
+  <img src="https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-28T08:11:42.405335-04:00.jpg"
+     alt="Greenville News at 2022-09-28 08:11:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-28T08:11:42.405335-04:00.jpg">September 28 at 8:11 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-27T19:54:33.827541-04:00.jpg">
@@ -135,20 +144,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-22T19:49:38.305268-04:00.jpg">September 22 at 7:49 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-22T07:59:33.504191-04:00.jpg">
-  <img src="https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-22T07:59:33.504191-04:00.jpg"
-     alt="Greenville News at 2022-09-22 07:59:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-22T07:59:33.504191-04:00.jpg">September 22 at 7:59 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 15 hyperlink lists with the Internet Archive.
+The archiving routine has saved 16 hyperlink lists with the Internet Archive.
 
 
 
@@ -156,6 +156,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 8:11 AM](https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-28T08:11:42.405335-04:00.hyperlinks.json) |
 | [September 27 at 7:54 PM](https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-27T19:54:33.827541-04:00.hyperlinks.json) |
 | [September 27 at 7:57 AM](https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-27T07:57:22.076110-04:00.hyperlinks.json) |
 | [September 26 at 7:49 PM](https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-26T19:49:36.083532-04:00.hyperlinks.json) |
@@ -165,12 +166,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 7:41 PM](https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-24T19:41:14.017249-04:00.hyperlinks.json) |
 | [September 24 at 7:49 AM](https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-24T07:49:45.578400-04:00.hyperlinks.json) |
 | [September 23 at 7:48 PM](https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-23T19:48:11.495932-04:00.hyperlinks.json) |
-| [September 23 at 7:56 AM](https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-23T07:56:44.652964-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 16 accessibility trees with the Internet Archive.
+The archiving routine has saved 17 accessibility trees with the Internet Archive.
 
 
 
@@ -178,6 +178,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 8:11 AM](https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-28T08:11:42.405335-04:00.accessibility.json) |
 | [September 27 at 7:54 PM](https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-27T19:54:33.827541-04:00.accessibility.json) |
 | [September 27 at 7:57 AM](https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-27T07:57:22.076110-04:00.accessibility.json) |
 | [September 26 at 7:49 PM](https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-26T19:49:36.083532-04:00.accessibility.json) |
@@ -187,13 +188,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 7:41 PM](https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-24T19:41:14.017249-04:00.accessibility.json) |
 | [September 24 at 7:49 AM](https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-24T07:49:45.578400-04:00.accessibility.json) |
 | [September 23 at 7:48 PM](https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-23T19:48:11.495932-04:00.accessibility.json) |
-| [September 23 at 7:56 AM](https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-23T07:56:44.652964-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
 
 
 
@@ -201,6 +201,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 8:11 AM](https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-28T08:11:42.405335-04:00.lighthouse.json) |
 | [September 27 at 7:54 PM](https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-27T19:54:33.827541-04:00.lighthouse.json) |
 | [September 27 at 7:57 AM](https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-27T07:57:22.076110-04:00.lighthouse.json) |
 | [September 26 at 7:49 PM](https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-26T19:49:36.083532-04:00.lighthouse.json) |
@@ -210,7 +211,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 7:41 PM](https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-24T19:41:14.017249-04:00.lighthouse.json) |
 | [September 24 at 7:49 AM](https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-24T07:49:45.578400-04:00.lighthouse.json) |
 | [September 23 at 7:48 PM](https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-23T19:48:11.495932-04:00.lighthouse.json) |
-| [September 23 at 7:56 AM](https://archive.org/download/greenvillenews-2022/greenvillenews-2022-09-23T07:56:44.652964-04:00.lighthouse.json) |
 
 
 
