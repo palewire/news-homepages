@@ -1,5 +1,5 @@
 {
-  "created": 1664381263,
+  "created": 1664408828,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/20/items/ciceronoticias-2022",
@@ -13247,31 +13247,93 @@
       "format": "JSON"
     },
     {
+      "name": "ciceronoticias-2022-09-28T11:06:10.072326-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ciceronoticias-2022-09-28T11:06:10.072326-05:00.jpg",
+      "mtime": "1664391233",
+      "size": "7627",
+      "md5": "2ee23256474cb6e5f54da58cd876733e",
+      "crc32": "4d6e12da",
+      "sha1": "e81d2264d8d2a9835975108a00ee0ab3d28990d1"
+    },
+    {
+      "name": "ciceronoticias-2022-09-28T18:45:53.367731-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664408766",
+      "size": "72990",
+      "md5": "3d827a7adec77414dd63a43f8e5665ee",
+      "crc32": "38025b75",
+      "sha1": "ff45c0ad56f571f847f779f17a43ab3926ef8f9f",
+      "format": "JSON"
+    },
+    {
+      "name": "ciceronoticias-2022-09-28T18:45:53.367731-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664408768",
+      "size": "68241",
+      "md5": "0074ab04b75a7edcf9c9d1752d6c0f6f",
+      "crc32": "fe46dd27",
+      "sha1": "25ce5efd9e44d26ec9102a28afa11c46aa0ba7eb",
+      "format": "JSON"
+    },
+    {
+      "name": "ciceronoticias-2022-09-28T18:45:53.367731-05:00.jpg",
+      "source": "original",
+      "mtime": "1664408764",
+      "size": "171200",
+      "md5": "ceeb771a8ef2cf12660505eb605dca3e",
+      "crc32": "62ec3117",
+      "sha1": "bd01f2903d16b24a4dcb62e7059ea16692903b2b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ciceronoticias-2022-09-28T18:45:53.367731-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664408770",
+      "size": "1563",
+      "md5": "ee0dc2e8fa3311ac659f97be4ea10885",
+      "crc32": "ed1ab007",
+      "sha1": "f2645f7f1bd9ed2628b36318ba619bbf6ef436d2",
+      "format": "JSON"
+    },
+    {
+      "name": "ciceronoticias-2022-09-28T18:45:53.367731-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664408772",
+      "size": "28037",
+      "md5": "9a72eac0713b98137c5bd1069f855177",
+      "crc32": "be3f72dc",
+      "sha1": "e85fb3ffc9fff49ad8f6721299d06ea37ccdf5b9",
+      "format": "JSON"
+    },
+    {
       "name": "ciceronoticias-2022_archive.torrent",
       "source": "metadata",
-      "btih": "82300af381b74d74200bbec5c84154cb4bbd2303",
-      "mtime": "1664381258",
-      "size": "277560",
-      "md5": "8afd155309be1a9c2f621928e613cf5d",
-      "crc32": "cf077c7a",
-      "sha1": "90e759f57e67020007155fcfbdbfa0db0d3229e9",
+      "btih": "90dd2d42ec96b29c0aa9610311492715c37cc23d",
+      "mtime": "1664408823",
+      "size": "278843",
+      "md5": "c384ec65152f22bf5206545bc70fab1c",
+      "crc32": "1861cc61",
+      "sha1": "2c252332bfd394e06cc4a899d7469952be2aa18a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ciceronoticias-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "628a10da4c6cff30c383931a7277697b",
+      "md5": "abd38713387b24e2810d2edce2546a8e",
       "summation": "md5"
     },
     {
       "name": "ciceronoticias-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664381209",
-      "size": "1622016",
-      "md5": "07822db9df65de76bc07aa300425a4af",
-      "crc32": "3ca64965",
-      "sha1": "611093a52644a152e2143354f8e3847f45468cc9",
+      "mtime": "1664408776",
+      "size": "1630208",
+      "md5": "f769bd2d319625422199056f7dbde049",
+      "crc32": "e832bf03",
+      "sha1": "396e10983ac3231ba158e040898b44ab7be33291",
       "format": "Metadata"
     },
     {
@@ -13285,9 +13347,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1282,
-  "item_last_updated": 1664381258,
-  "item_size": 77957307,
+  "files_count": 1288,
+  "item_last_updated": 1664408823,
+  "item_size": 78316440,
   "metadata": {
     "identifier": "ciceronoticias-2022",
     "collection": [
@@ -13309,7 +13371,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421171134,
+      "task_id": 3421593121,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13317,7 +13379,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 134880736,
+  "uniq": 1902475529,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

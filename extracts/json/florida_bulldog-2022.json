@@ -1,5 +1,5 @@
 {
-  "created": 1664367162,
+  "created": 1664408996,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/5/items/florida_bulldog-2022",
@@ -9353,31 +9353,93 @@
       "format": "JSON"
     },
     {
+      "name": "florida_bulldog-2022-09-28T08:11:29.281002-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "florida_bulldog-2022-09-28T08:11:29.281002-04:00.jpg",
+      "mtime": "1664369413",
+      "size": "9503",
+      "md5": "53aac0c00e957b3e5be17056095c8b85",
+      "crc32": "c915386c",
+      "sha1": "478024dc98902ee085a17f7d753864724942daa3"
+    },
+    {
+      "name": "florida_bulldog-2022-09-28T19:48:48.863776-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664408933",
+      "size": "34071",
+      "md5": "4df57a1df8cbd5ba1eaf3d4497c8e3aa",
+      "crc32": "cf1584e9",
+      "sha1": "f2c4c6e53fb57dac01c2391460951a539cc42eaf",
+      "format": "JSON"
+    },
+    {
+      "name": "florida_bulldog-2022-09-28T19:48:48.863776-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664408935",
+      "size": "18237",
+      "md5": "bc6dd34da68a224fc2435277a0f51c75",
+      "crc32": "2d0744c1",
+      "sha1": "1db608900e4fe35cb590b5ff2217b782c32157d5",
+      "format": "JSON"
+    },
+    {
+      "name": "florida_bulldog-2022-09-28T19:48:48.863776-04:00.jpg",
+      "source": "original",
+      "mtime": "1664408930",
+      "size": "256690",
+      "md5": "d02a1bab18c595cb220050f849ef3066",
+      "crc32": "b0770038",
+      "sha1": "d1bb22d02fdb317fcc03eba0cde4e45388ee21d7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "florida_bulldog-2022-09-28T19:48:48.863776-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664408937",
+      "size": "1529",
+      "md5": "a0e1f4067b3efc99a3538093167d32cf",
+      "crc32": "d0deb6cf",
+      "sha1": "a92f438f85fba3f48f0288ea61e63cde2492018f",
+      "format": "JSON"
+    },
+    {
+      "name": "florida_bulldog-2022-09-28T19:48:48.863776-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664408939",
+      "size": "16630",
+      "md5": "8283c5917babe86d77bed018696a5ccb",
+      "crc32": "82f4c2bc",
+      "sha1": "f8e1da03e2f3b1eb145f8a693190b223aa5ef505",
+      "format": "JSON"
+    },
+    {
       "name": "florida_bulldog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6dfbf97180e943d342ff68605dd3faeade8709de",
-      "mtime": "1664367156",
-      "size": "197334",
-      "md5": "fece1b569c461f509031e31d526149b8",
-      "crc32": "691020a1",
-      "sha1": "72b17a9814f4dfcb0cff0d96eadd06c867211687",
+      "btih": "78cd4e4dff4095f68b3d32e2abf3df09cd7f602c",
+      "mtime": "1664408987",
+      "size": "198643",
+      "md5": "8eb32e958af24ca83be5efa7d3e32727",
+      "crc32": "658df614",
+      "sha1": "78b17f7cf26fa1edd3f8ea7811dba5ec01b21717",
       "format": "Archive BitTorrent"
     },
     {
       "name": "florida_bulldog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1e17d922d75fe693468adaf743a15ef8",
+      "md5": "4aadf182cf90602b78327534e506ac2e",
       "summation": "md5"
     },
     {
       "name": "florida_bulldog-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664367112",
-      "size": "1150976",
-      "md5": "4eb78c79b87bde411adf9ada9760052b",
-      "crc32": "7e936b99",
-      "sha1": "5ea26fffe94e61fdda55739193723c4bbbc8f23e",
+      "mtime": "1664408943",
+      "size": "1159168",
+      "md5": "02971eeacd53e76c10715f3e87e055ea",
+      "crc32": "42c648fa",
+      "sha1": "cec0ba278d79134fcf80253a7bb6c84ea9116c2b",
       "format": "Metadata"
     },
     {
@@ -9391,9 +9453,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 906,
-  "item_last_updated": 1664367156,
-  "item_size": 57035317,
+  "files_count": 912,
+  "item_last_updated": 1664408987,
+  "item_size": 57381478,
   "metadata": {
     "identifier": "florida_bulldog-2022",
     "collection": [
@@ -9415,7 +9477,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420977279,
+      "task_id": 3421595970,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9423,7 +9485,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1769460685,
+  "uniq": 835442004,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1664367202,
+  "created": 1664409077,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/20/items/hitribuneherald-2022",
@@ -1865,31 +1865,93 @@
       "format": "JSON"
     },
     {
+      "name": "hitribuneherald-2022-09-28T02:12:14.751739-10:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hitribuneherald-2022-09-28T02:12:14.751739-10:00.jpg",
+      "mtime": "1664369481",
+      "size": "9799",
+      "md5": "637b9f10eabeec50a48f9fe663065e0b",
+      "crc32": "79010ea7",
+      "sha1": "5953a843a24c5182e72ccdbfc4000e1fecf28607"
+    },
+    {
+      "name": "hitribuneherald-2022-09-28T13:50:15.637074-10:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664409021",
+      "size": "24263",
+      "md5": "6fdd3859f1246c0b86e4ba449667b168",
+      "crc32": "c6ddf859",
+      "sha1": "fded2012389068d404d1777cc353d750e95c8a21",
+      "format": "JSON"
+    },
+    {
+      "name": "hitribuneherald-2022-09-28T13:50:15.637074-10:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664409023",
+      "size": "27769",
+      "md5": "f3333b51bf45e9047de327792c8b640a",
+      "crc32": "b79e187d",
+      "sha1": "dc52b36437b77bc983084eeb93bfaab6f495aeb7",
+      "format": "JSON"
+    },
+    {
+      "name": "hitribuneherald-2022-09-28T13:50:15.637074-10:00.jpg",
+      "source": "original",
+      "mtime": "1664409019",
+      "size": "350435",
+      "md5": "2ae99dbd5ca3d22c2d181c2e9164cec3",
+      "crc32": "e4a15ebb",
+      "sha1": "5f59dcf4676249ef48ece5c244ab8d70bb108863",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hitribuneherald-2022-09-28T13:50:15.637074-10:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664409025",
+      "size": "1585",
+      "md5": "1dcd21ddf5947ee9e58a23b4c754268e",
+      "crc32": "46fa703b",
+      "sha1": "324635306894bf8e40ec6745d016f3cb1ff8c75d",
+      "format": "JSON"
+    },
+    {
+      "name": "hitribuneherald-2022-09-28T13:50:15.637074-10:00.wayback.json",
+      "source": "original",
+      "mtime": "1664409031",
+      "size": "151539",
+      "md5": "e72e70ceb48be8ca52269317f753165d",
+      "crc32": "db21a32c",
+      "sha1": "148b836f6892de17974d39fda3b7625a65b30354",
+      "format": "JSON"
+    },
+    {
       "name": "hitribuneherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "34437fec3ae70958388a0af48d336a8365729bb6",
-      "mtime": "1664367194",
-      "size": "40681",
-      "md5": "5f895584eab5f12211dd075cfc2fc934",
-      "crc32": "096b83d4",
-      "sha1": "e30f53349ecf1b491a1279d6f90819827e557fb3",
+      "btih": "00b53c68ffd2041ef921051054d4839e353639ed",
+      "mtime": "1664409070",
+      "size": "41991",
+      "md5": "cfbb5c297dde084636f2538e3621f72d",
+      "crc32": "5bb8949a",
+      "sha1": "c995ddda43df3205f44cb337e28f54a5d407b403",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hitribuneherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b83dfef5f86c75f5e183b4a8cd28867d",
+      "md5": "f67126eef11c8a39cf37ebc9c9d3a421",
       "summation": "md5"
     },
     {
       "name": "hitribuneherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664367155",
-      "size": "253952",
-      "md5": "c6bb69c43b0ef0ea39b23c0f11f3fe2e",
-      "crc32": "c4227c2b",
-      "sha1": "cf7be5649a9715f6314b516c9ed65e26f98b977b",
+      "mtime": "1664409033",
+      "size": "262144",
+      "md5": "86bea1c4b55a27ba10ef0ab6881de7d0",
+      "crc32": "9419c6d0",
+      "sha1": "c4173c09442e518161e11ff6ce95fa0a43278204",
       "format": "Metadata"
     },
     {
@@ -1903,9 +1965,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 184,
-  "item_last_updated": 1664367194,
-  "item_size": 14241246,
+  "files_count": 190,
+  "item_last_updated": 1664409070,
+  "item_size": 14816138,
   "metadata": {
     "identifier": "hitribuneherald-2022",
     "collection": [
@@ -1927,7 +1989,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420977847,
+      "task_id": 3421597044,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1935,7 +1997,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1686995105,
+  "uniq": 1094718855,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]

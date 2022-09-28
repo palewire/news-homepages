@@ -1,5 +1,5 @@
 {
-  "created": 1664367172,
+  "created": 1664409065,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/20/items/gothamist-2022",
@@ -9919,31 +9919,93 @@
       "format": "JSON"
     },
     {
+      "name": "gothamist-2022-09-28T08:11:45.090341-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gothamist-2022-09-28T08:11:45.090341-04:00.jpg",
+      "mtime": "1664369455",
+      "size": "8313",
+      "md5": "6eba2b1d7d841347bcb378684f6670b6",
+      "crc32": "7fe4c73c",
+      "sha1": "3ab3af8e77dfb778e79f18df9911c59149446250"
+    },
+    {
+      "name": "gothamist-2022-09-28T19:49:53.203763-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664409002",
+      "size": "18713",
+      "md5": "259b1d506e57d2cc408f1fcec11b5523",
+      "crc32": "05425493",
+      "sha1": "70209e296c8d4399cbf97fecb64111c75c15b4f3",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamist-2022-09-28T19:49:53.203763-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664409004",
+      "size": "17881",
+      "md5": "e0f12db97a384edfbe67e801e3814c18",
+      "crc32": "c67fd8f4",
+      "sha1": "06dee7672d8644fa2e07f1a15eb5333b3c57efb3",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamist-2022-09-28T19:49:53.203763-04:00.jpg",
+      "source": "original",
+      "mtime": "1664409000",
+      "size": "231598",
+      "md5": "3cc11c44b63b85eaaece985922acdf87",
+      "crc32": "e6676750",
+      "sha1": "f96679df228a86ae92c3172ba6c35f17cb0ca2c5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gothamist-2022-09-28T19:49:53.203763-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664409006",
+      "size": "1447",
+      "md5": "c2fe7fc0727576c36402fa55b8e971a5",
+      "crc32": "234c8c2b",
+      "sha1": "59de6eef308d1d674368793220689e37f8f04418",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamist-2022-09-28T19:49:53.203763-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664409008",
+      "size": "77783",
+      "md5": "a15416e1e5d100a34e03bcbe71ad853d",
+      "crc32": "efb72767",
+      "sha1": "20a85625337f499ecaf565a5dc7824025b9e602c",
+      "format": "JSON"
+    },
+    {
       "name": "gothamist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1b0d2f08b8ce6bd9be3c986b0e09ccff9eb25402",
-      "mtime": "1664367168",
-      "size": "202934",
-      "md5": "75bc45948ebae44fcf2a163f0ea7eeae",
-      "crc32": "76136735",
-      "sha1": "04b51b25b2503110e53fbaa6f1bad3d835757aff",
+      "btih": "95306fdf7fb5ea2921568537cec3bc01fa8f6f31",
+      "mtime": "1664409057",
+      "size": "204207",
+      "md5": "f770fd0cb49487c5c282948c494cc17c",
+      "crc32": "90235598",
+      "sha1": "a0dc7d37193c94747cb0c6a268020b6ff370cdae",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gothamist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dba4c3ec1093906b397a48632fda4c73",
+      "md5": "9e1a2f459721876af6275950836ec23e",
       "summation": "md5"
     },
     {
       "name": "gothamist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664367126",
-      "size": "1204224",
-      "md5": "5e77f742a5dddd960931503d97cc4749",
-      "crc32": "7c0679cd",
-      "sha1": "fd9917a43bbd2c5b877e7b648fb8cd7a44faf02a",
+      "mtime": "1664409013",
+      "size": "1216512",
+      "md5": "666a925d79aa3d56a8b0606d072019ce",
+      "crc32": "c282a37e",
+      "sha1": "05830174398cec412cbcd6879b8d3117e59fa115",
       "format": "Metadata"
     },
     {
@@ -9957,9 +10019,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 960,
-  "item_last_updated": 1664367168,
-  "item_size": 53115185,
+  "files_count": 966,
+  "item_last_updated": 1664409057,
+  "item_size": 53484481,
   "metadata": {
     "identifier": "gothamist-2022",
     "collection": [
@@ -9981,7 +10043,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420977452,
+      "task_id": 3421596902,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9989,7 +10051,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1692107236,
+  "uniq": 180936604,
   "workable_servers": [
     "ia902508.us.archive.org"
   ]

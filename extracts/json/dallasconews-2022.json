@@ -1,5 +1,5 @@
 {
-  "created": 1664381362,
+  "created": 1664408790,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/15/items/dallasconews-2022",
@@ -1307,31 +1307,93 @@
       "format": "JSON"
     },
     {
+      "name": "dallasconews-2022-09-28T11:08:26.109934-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dallasconews-2022-09-28T11:08:26.109934-05:00.jpg",
+      "mtime": "1664391210",
+      "size": "9207",
+      "md5": "e0c2063bf5270f5ee503f787c7c6980c",
+      "crc32": "b5ae3694",
+      "sha1": "7860a979f6273093c8af7d75d3487db6b7257120"
+    },
+    {
+      "name": "dallasconews-2022-09-28T18:45:36.947297-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664408741",
+      "size": "22196",
+      "md5": "b336420479bc2d7b9ab236ab9a7e766a",
+      "crc32": "d4a99041",
+      "sha1": "aaf7d494fa0bf4e2990e95b5a10a22c7e9c4918f",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasconews-2022-09-28T18:45:36.947297-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664408742",
+      "size": "37192",
+      "md5": "14ea0cb486ab6fe26a3ba0d2f114dcb4",
+      "crc32": "04c342fd",
+      "sha1": "efad0a37621b4f5d9be1fe03b97e299a501415f5",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasconews-2022-09-28T18:45:36.947297-05:00.jpg",
+      "source": "original",
+      "mtime": "1664408739",
+      "size": "261870",
+      "md5": "3f418fa7beaba2362908f1454854d00f",
+      "crc32": "7c07975e",
+      "sha1": "1abf5c89bcc90dfd593393cd7a8f802be0d4ad5b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dallasconews-2022-09-28T18:45:36.947297-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664408744",
+      "size": "1558",
+      "md5": "3d21379817f63ef5b935c3b2c089ff01",
+      "crc32": "f85afccf",
+      "sha1": "028d61c8a0a4b639dc8adef24bcb0831a5f149d5",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasconews-2022-09-28T18:45:36.947297-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664408746",
+      "size": "101002",
+      "md5": "936c171ceab25a0eb1ceedd62ca906e4",
+      "crc32": "a7631a11",
+      "sha1": "31439a98d0a15e4d18be8d7159849811a1f42043",
+      "format": "JSON"
+    },
+    {
       "name": "dallasconews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0d5d9b308b5dd06bd9d9931247f46a3f21939b13",
-      "mtime": "1664381359",
-      "size": "28466",
-      "md5": "1a2a9058fc4e9939cf8d3ff122dbbdb2",
-      "crc32": "aee56c40",
-      "sha1": "4e3d773c46cbdc77bb1ea8753745294d2a26f8b9",
+      "btih": "a117d25cb70e04ed7deaf3d7c923c84c63d05771",
+      "mtime": "1664408785",
+      "size": "29758",
+      "md5": "41457d1abed58e91b5518932691a82a9",
+      "crc32": "aff076e0",
+      "sha1": "b79ac9a11a8efb9c8e5a442ccbb3b6b2fa3afab7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dallasconews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "95d45ff7b814751e8dfd4fc2b2dcffb2",
+      "md5": "f88134324f124b0ff3cb5f7a5f05a638",
       "summation": "md5"
     },
     {
       "name": "dallasconews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664381323",
-      "size": "184320",
-      "md5": "e0a19b236cdc185dc7c1fb1d17dac6b1",
-      "crc32": "fd2e375f",
-      "sha1": "9f03af7b41847fbcf92d922bbfc15eb1dffdaba2",
+      "mtime": "1664408750",
+      "size": "192512",
+      "md5": "bd1605f4435fb91c0d04ffac4251d009",
+      "crc32": "5eb250cf",
+      "sha1": "b1dcc5707075c2363b63b94d9331359eff4a8274",
       "format": "Metadata"
     },
     {
@@ -1345,9 +1407,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 130,
-  "item_last_updated": 1664381359,
-  "item_size": 8592878,
+  "files_count": 136,
+  "item_last_updated": 1664408785,
+  "item_size": 9035387,
   "metadata": {
     "identifier": "dallasconews-2022",
     "collection": [
@@ -1369,7 +1431,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421172973,
+      "task_id": 3421592694,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1377,7 +1439,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1583309641,
+  "uniq": 1070715452,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]
