@@ -1,12 +1,8 @@
 {
-  "created": 1664293369,
+  "conflict": 1664351266,
+  "created": 1664345899,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
-  "dailytarheel-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "dir": "/31/items/dailytarheel-2022",
   "files": [
     {
@@ -9249,31 +9245,144 @@
       "sha1": "858ce635ece283b5737e1f2724b9fe449ad8cfe6"
     },
     {
+      "name": "dailytarheel-2022-09-27T13:50:38.199504-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664301046",
+      "size": "30514",
+      "md5": "5237e8365a4fa172c4111e5617883edf",
+      "crc32": "50cd948a",
+      "sha1": "655edf29cfbc92b5ce4196c714d17ea9d06085e7",
+      "format": "JSON"
+    },
+    {
+      "name": "dailytarheel-2022-09-27T13:50:38.199504-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664301048",
+      "size": "29239",
+      "md5": "01488178b055bd5c3bfeb147e6ef49f9",
+      "crc32": "763902d9",
+      "sha1": "8d0084b427d751d900669e564fb79bca81b445f9",
+      "format": "JSON"
+    },
+    {
+      "name": "dailytarheel-2022-09-27T13:50:38.199504-04:00.jpg",
+      "source": "original",
+      "mtime": "1664301044",
+      "size": "363711",
+      "md5": "86dade9247708d3606ffa289e64b16aa",
+      "crc32": "6b07e298",
+      "sha1": "8be4a969b0c4e481536a2b29326b96b9759cd0d0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailytarheel-2022-09-27T13:50:38.199504-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664301050",
+      "size": "1513",
+      "md5": "75496fa8825feefa4908480e4791ca4a",
+      "crc32": "5fe4f3a2",
+      "sha1": "ea9f7f07f2b9c2dbda8d600ad0dd5b78fe7595a0",
+      "format": "JSON"
+    },
+    {
+      "name": "dailytarheel-2022-09-27T13:50:38.199504-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664301052",
+      "size": "34365",
+      "md5": "7d0b527ec25b198f35b976ca95420d26",
+      "crc32": "4ea1dee3",
+      "sha1": "7469524c43cdd73e81d453c12d636c7b80417f19",
+      "format": "JSON"
+    },
+    {
+      "name": "dailytarheel-2022-09-27T13:50:38.199504-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailytarheel-2022-09-27T13:50:38.199504-04:00.jpg",
+      "mtime": "1664304491",
+      "size": "9383",
+      "md5": "4ecda978fcf22b1d6072c9496fabcda3",
+      "crc32": "53d29e5b",
+      "sha1": "9bdaa96e377897d290c1cf5093e642d317f8f30f"
+    },
+    {
+      "name": "dailytarheel-2022-09-28T02:17:01.391876-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664345831",
+      "size": "31243",
+      "md5": "bba56a2ddc92bbbbaeaa7c07e3208162",
+      "crc32": "f26fd426",
+      "sha1": "10e20f51c0146f73ee35fc102a9e58555fdfbf64",
+      "format": "JSON"
+    },
+    {
+      "name": "dailytarheel-2022-09-28T02:17:01.391876-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664345833",
+      "size": "29453",
+      "md5": "87a8775640261e9407359c19864966e8",
+      "crc32": "38212644",
+      "sha1": "19080c36bc60e853a460b2d2fdc938523a2128db",
+      "format": "JSON"
+    },
+    {
+      "name": "dailytarheel-2022-09-28T02:17:01.391876-04:00.jpg",
+      "source": "original",
+      "mtime": "1664345829",
+      "size": "368303",
+      "md5": "1a99b407331b7000cf75e883cf8fabf5",
+      "crc32": "45629963",
+      "sha1": "c5a10feb73f528f1e6239e32a4a19d4d06bea78c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailytarheel-2022-09-28T02:17:01.391876-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664345835",
+      "size": "1513",
+      "md5": "a91a5a24beb8ee8084d8d7e5adcd62e8",
+      "crc32": "727acfe2",
+      "sha1": "710b104653c62509f6cecc1a8585d2ea5e1adbab",
+      "format": "JSON"
+    },
+    {
+      "name": "dailytarheel-2022-09-28T02:17:01.391876-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664345837",
+      "size": "35111",
+      "md5": "8ab6e746d2d7924336487b637901cc9e",
+      "crc32": "84afb00d",
+      "sha1": "76a3a47ec32e226d686019b034e701a1e443baf8",
+      "format": "JSON"
+    },
+    {
       "name": "dailytarheel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7ff04981ee47139643dce69e3260a2888f59acc8",
-      "mtime": "1664263199",
-      "size": "192775",
-      "md5": "d936d23eee5682b012ee5bc405d9cb64",
-      "crc32": "c582f8b0",
-      "sha1": "2a4edb63fab9d1661f4b072b712bd377e3b01ae8",
+      "btih": "be57e0623e69e664ee4aca20d42d221fe4fd92e3",
+      "mtime": "1664345893",
+      "size": "195129",
+      "md5": "0775ed9d74b52abd033b6ed1d006bffb",
+      "crc32": "c42973f2",
+      "sha1": "3af0bbc6f15301f1a1ad14e9114a5543cb25e11c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailytarheel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9e05ff78359496e4d5441f2d8cbe4324",
+      "md5": "8785dea26e146a9f543eb6f83f21d296",
       "summation": "md5"
     },
     {
       "name": "dailytarheel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664261905",
-      "size": "1126400",
-      "md5": "c8d71f23ddfc3ee5a7d814a2d78f8240",
-      "crc32": "9f62bf92",
-      "sha1": "4ba9a2b515c1675d68209774f90fa8538c2c89bc",
+      "mtime": "1664345844",
+      "size": "1146880",
+      "md5": "595c8d71f883e6deb08fae68fc75033b",
+      "crc32": "eb38ba54",
+      "sha1": "190811329d999bed372ffd3ccf14676532c5778f",
       "format": "Metadata"
     },
     {
@@ -9287,9 +9396,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 895,
-  "item_last_updated": 1664263199,
-  "item_size": 71561794,
+  "files_count": 906,
+  "item_last_updated": 1664345893,
+  "item_size": 72518976,
   "metadata": {
     "identifier": "dailytarheel-2022",
     "collection": [
@@ -9306,10 +9415,21 @@
     "publicdate": "2022-07-09 03:57:38",
     "addeddate": "2022-07-09 03:57:38"
   },
+  "pending_tasks": true,
   "server": "ia801507.us.archive.org",
-  "uniq": 605900018,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3420729172,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 698735828,
   "workable_servers": [
-    "ia801507.us.archive.org",
-    "ia601507.us.archive.org"
+    "ia801507.us.archive.org"
   ]
 }
