@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 162 screenshots with the Internet Archive.
+The archiving routine has saved 163 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 162 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/spectator-2022/spectator-2022-09-28T20:04:19.412114+01:00.jpg">
+  <img src="https://archive.org/download/spectator-2022/spectator-2022-09-28T20:04:19.412114+01:00.jpg"
+     alt="Spectator at 2022-09-28 20:04:21+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/spectator-2022/spectator-2022-09-28T20:04:19.412114+01:00.jpg">September 28 at 8:04 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spectator-2022/spectator-2022-09-28T10:24:47.621033+01:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/spectator-2022/spectator-2022-09-25T07:58:32.688314+01:00.jpg">September 25 at 7:58 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/spectator-2022/spectator-2022-09-24T19:36:43.719044+01:00.jpg">
-  <img src="https://archive.org/download/spectator-2022/spectator-2022-09-24T19:36:43.719044+01:00.jpg"
-     alt="Spectator at 2022-09-24 19:37:12+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/spectator-2022/spectator-2022-09-24T19:36:43.719044+01:00.jpg">September 24 at 7:37 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 162 hyperlink lists with the Internet Archive.
+The archiving routine has saved 163 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 8:04 PM](https://archive.org/download/spectator-2022/spectator-2022-09-28T20:04:19.412114+01:00.hyperlinks.json) |
 | [September 28 at 10:24 AM](https://archive.org/download/spectator-2022/spectator-2022-09-28T10:24:47.621033+01:00.hyperlinks.json) |
 | [September 28 at 8:52 AM](https://archive.org/download/spectator-2022/spectator-2022-09-28T08:52:14.661297+01:00.hyperlinks.json) |
 | [September 27 at 8:40 PM](https://archive.org/download/spectator-2022/spectator-2022-09-27T20:40:22.825839+01:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 10:19 AM](https://archive.org/download/spectator-2022/spectator-2022-09-26T10:19:22.364640+01:00.hyperlinks.json) |
 | [September 26 at 8:28 AM](https://archive.org/download/spectator-2022/spectator-2022-09-26T08:28:39.775565+01:00.hyperlinks.json) |
 | [September 25 at 7:45 PM](https://archive.org/download/spectator-2022/spectator-2022-09-25T19:45:24.284047+01:00.hyperlinks.json) |
-| [September 25 at 10:14 AM](https://archive.org/download/spectator-2022/spectator-2022-09-25T10:14:35.888153+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 162 accessibility trees with the Internet Archive.
+The archiving routine has saved 163 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 8:04 PM](https://archive.org/download/spectator-2022/spectator-2022-09-28T20:04:19.412114+01:00.accessibility.json) |
 | [September 28 at 10:24 AM](https://archive.org/download/spectator-2022/spectator-2022-09-28T10:24:47.621033+01:00.accessibility.json) |
 | [September 28 at 8:52 AM](https://archive.org/download/spectator-2022/spectator-2022-09-28T08:52:14.661297+01:00.accessibility.json) |
 | [September 27 at 8:40 PM](https://archive.org/download/spectator-2022/spectator-2022-09-27T20:40:22.825839+01:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 10:19 AM](https://archive.org/download/spectator-2022/spectator-2022-09-26T10:19:22.364640+01:00.accessibility.json) |
 | [September 26 at 8:28 AM](https://archive.org/download/spectator-2022/spectator-2022-09-26T08:28:39.775565+01:00.accessibility.json) |
 | [September 25 at 7:45 PM](https://archive.org/download/spectator-2022/spectator-2022-09-25T19:45:24.284047+01:00.accessibility.json) |
-| [September 25 at 10:14 AM](https://archive.org/download/spectator-2022/spectator-2022-09-25T10:14:35.888153+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 161 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 162 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 8:04 PM](https://archive.org/download/spectator-2022/spectator-2022-09-28T20:04:19.412114+01:00.lighthouse.json) |
 | [September 28 at 10:24 AM](https://archive.org/download/spectator-2022/spectator-2022-09-28T10:24:47.621033+01:00.lighthouse.json) |
 | [September 28 at 8:52 AM](https://archive.org/download/spectator-2022/spectator-2022-09-28T08:52:14.661297+01:00.lighthouse.json) |
 | [September 27 at 8:40 PM](https://archive.org/download/spectator-2022/spectator-2022-09-27T20:40:22.825839+01:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 8:28 AM](https://archive.org/download/spectator-2022/spectator-2022-09-26T08:28:39.775565+01:00.lighthouse.json) |
 | [September 25 at 7:45 PM](https://archive.org/download/spectator-2022/spectator-2022-09-25T19:45:24.284047+01:00.lighthouse.json) |
 | [September 25 at 10:14 AM](https://archive.org/download/spectator-2022/spectator-2022-09-25T10:14:35.888153+01:00.lighthouse.json) |
-| [September 25 at 7:58 AM](https://archive.org/download/spectator-2022/spectator-2022-09-25T07:58:32.688314+01:00.lighthouse.json) |
 
 
 

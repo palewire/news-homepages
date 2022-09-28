@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 137 screenshots with the Internet Archive.
+The archiving routine has saved 138 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 137 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gpbnews-2022/gpbnews-2022-09-28T13:58:07.924322-04:00.jpg">
+  <img src="https://archive.org/download/gpbnews-2022/gpbnews-2022-09-28T13:58:07.924322-04:00.jpg"
+     alt="Georgia Public Broadcasting at 2022-09-28 13:58:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gpbnews-2022/gpbnews-2022-09-28T13:58:07.924322-04:00.jpg">September 28 at 1:58 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gpbnews-2022/gpbnews-2022-09-28T02:27:23.496121-04:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gpbnews-2022/gpbnews-2022-09-23T03:16:38.422275-04:00.jpg">September 23 at 3:16 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gpbnews-2022/gpbnews-2022-09-22T13:42:09.663982-04:00.jpg">
-  <img src="https://archive.org/download/gpbnews-2022/gpbnews-2022-09-22T13:42:09.663982-04:00.jpg"
-     alt="Georgia Public Broadcasting at 2022-09-22 13:42:15-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gpbnews-2022/gpbnews-2022-09-22T13:42:09.663982-04:00.jpg">September 22 at 1:42 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 138 hyperlink lists with the Internet Archive.
+The archiving routine has saved 139 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 1:58 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-09-28T13:58:07.924322-04:00.hyperlinks.json) |
 | [September 28 at 2:27 AM](https://archive.org/download/gpbnews-2022/gpbnews-2022-09-28T02:27:23.496121-04:00.hyperlinks.json) |
 | [September 27 at 1:59 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-09-27T13:59:20.671905-04:00.hyperlinks.json) |
 | [September 27 at 3:02 AM](https://archive.org/download/gpbnews-2022/gpbnews-2022-09-27T03:02:07.886608-04:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 1:54 AM](https://archive.org/download/gpbnews-2022/gpbnews-2022-09-25T01:53:50.901195-04:00.hyperlinks.json) |
 | [September 24 at 1:29 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-09-24T13:28:48.477293-04:00.hyperlinks.json) |
 | [September 24 at 1:54 AM](https://archive.org/download/gpbnews-2022/gpbnews-2022-09-24T01:54:45.210423-04:00.hyperlinks.json) |
-| [September 23 at 1:44 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-09-23T13:43:43.378783-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 138 accessibility trees with the Internet Archive.
+The archiving routine has saved 139 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 1:58 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-09-28T13:58:07.924322-04:00.accessibility.json) |
 | [September 28 at 2:27 AM](https://archive.org/download/gpbnews-2022/gpbnews-2022-09-28T02:27:23.496121-04:00.accessibility.json) |
 | [September 27 at 1:59 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-09-27T13:59:20.671905-04:00.accessibility.json) |
 | [September 27 at 3:02 AM](https://archive.org/download/gpbnews-2022/gpbnews-2022-09-27T03:02:07.886608-04:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 1:54 AM](https://archive.org/download/gpbnews-2022/gpbnews-2022-09-25T01:53:50.901195-04:00.accessibility.json) |
 | [September 24 at 1:29 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-09-24T13:28:48.477293-04:00.accessibility.json) |
 | [September 24 at 1:54 AM](https://archive.org/download/gpbnews-2022/gpbnews-2022-09-24T01:54:45.210423-04:00.accessibility.json) |
-| [September 23 at 1:44 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-09-23T13:43:43.378783-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 131 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 1:58 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-09-28T13:58:07.924322-04:00.lighthouse.json) |
 | [September 28 at 2:27 AM](https://archive.org/download/gpbnews-2022/gpbnews-2022-09-28T02:27:23.496121-04:00.lighthouse.json) |
 | [September 27 at 1:59 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-09-27T13:59:20.671905-04:00.lighthouse.json) |
 | [September 27 at 3:02 AM](https://archive.org/download/gpbnews-2022/gpbnews-2022-09-27T03:02:07.886608-04:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 1:54 AM](https://archive.org/download/gpbnews-2022/gpbnews-2022-09-25T01:53:50.901195-04:00.lighthouse.json) |
 | [September 24 at 1:29 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-09-24T13:28:48.477293-04:00.lighthouse.json) |
 | [September 24 at 1:54 AM](https://archive.org/download/gpbnews-2022/gpbnews-2022-09-24T01:54:45.210423-04:00.lighthouse.json) |
-| [September 23 at 1:44 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-09-23T13:43:43.378783-04:00.lighthouse.json) |
 
 
 

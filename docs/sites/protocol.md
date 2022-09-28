@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 185 screenshots with the Internet Archive.
+The archiving routine has saved 186 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 185 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/protocol-2022/protocol-2022-09-28T12:38:32.668931-07:00.jpg">
+  <img src="https://archive.org/download/protocol-2022/protocol-2022-09-28T12:38:32.668931-07:00.jpg"
+     alt="Protocol at 2022-09-28 12:38:40-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/protocol-2022/protocol-2022-09-28T12:38:32.668931-07:00.jpg">September 28 at 12:38 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/protocol-2022/protocol-2022-09-28T00:49:48.236571-07:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/protocol-2022/protocol-2022-09-23T00:20:40.427935-07:00.jpg">September 23 at 12:20 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/protocol-2022/protocol-2022-09-22T12:29:10.849827-07:00.jpg">
-  <img src="https://archive.org/download/protocol-2022/protocol-2022-09-22T12:29:10.849827-07:00.jpg"
-     alt="Protocol at 2022-09-22 12:29:12-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/protocol-2022/protocol-2022-09-22T12:29:10.849827-07:00.jpg">September 22 at 12:29 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 186 hyperlink lists with the Internet Archive.
+The archiving routine has saved 187 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 12:38 PM](https://archive.org/download/protocol-2022/protocol-2022-09-28T12:38:32.668931-07:00.hyperlinks.json) |
 | [September 28 at 12:49 AM](https://archive.org/download/protocol-2022/protocol-2022-09-28T00:49:48.236571-07:00.hyperlinks.json) |
 | [September 27 at 12:12 PM](https://archive.org/download/protocol-2022/protocol-2022-09-27T12:12:26.256646-07:00.hyperlinks.json) |
 | [September 27 at 12:09 AM](https://archive.org/download/protocol-2022/protocol-2022-09-27T00:09:45.425523-07:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 11:55 PM](https://archive.org/download/protocol-2022/protocol-2022-09-24T23:55:40.228997-07:00.hyperlinks.json) |
 | [September 24 at 11:32 AM](https://archive.org/download/protocol-2022/protocol-2022-09-24T11:32:26.247537-07:00.hyperlinks.json) |
 | [September 23 at 11:57 PM](https://archive.org/download/protocol-2022/protocol-2022-09-23T23:57:19.881998-07:00.hyperlinks.json) |
-| [September 23 at 11:52 AM](https://archive.org/download/protocol-2022/protocol-2022-09-23T11:52:45.298722-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 186 accessibility trees with the Internet Archive.
+The archiving routine has saved 187 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 12:38 PM](https://archive.org/download/protocol-2022/protocol-2022-09-28T12:38:32.668931-07:00.accessibility.json) |
 | [September 28 at 12:49 AM](https://archive.org/download/protocol-2022/protocol-2022-09-28T00:49:48.236571-07:00.accessibility.json) |
 | [September 27 at 12:12 PM](https://archive.org/download/protocol-2022/protocol-2022-09-27T12:12:26.256646-07:00.accessibility.json) |
 | [September 27 at 12:09 AM](https://archive.org/download/protocol-2022/protocol-2022-09-27T00:09:45.425523-07:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 11:55 PM](https://archive.org/download/protocol-2022/protocol-2022-09-24T23:55:40.228997-07:00.accessibility.json) |
 | [September 24 at 11:32 AM](https://archive.org/download/protocol-2022/protocol-2022-09-24T11:32:26.247537-07:00.accessibility.json) |
 | [September 23 at 11:57 PM](https://archive.org/download/protocol-2022/protocol-2022-09-23T23:57:19.881998-07:00.accessibility.json) |
-| [September 23 at 11:52 AM](https://archive.org/download/protocol-2022/protocol-2022-09-23T11:52:45.298722-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 12:38 PM](https://archive.org/download/protocol-2022/protocol-2022-09-28T12:38:32.668931-07:00.lighthouse.json) |
 | [September 28 at 12:49 AM](https://archive.org/download/protocol-2022/protocol-2022-09-28T00:49:48.236571-07:00.lighthouse.json) |
 | [September 27 at 12:12 PM](https://archive.org/download/protocol-2022/protocol-2022-09-27T12:12:26.256646-07:00.lighthouse.json) |
 | [September 27 at 12:09 AM](https://archive.org/download/protocol-2022/protocol-2022-09-27T00:09:45.425523-07:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 11:55 PM](https://archive.org/download/protocol-2022/protocol-2022-09-24T23:55:40.228997-07:00.lighthouse.json) |
 | [September 24 at 11:32 AM](https://archive.org/download/protocol-2022/protocol-2022-09-24T11:32:26.247537-07:00.lighthouse.json) |
 | [September 23 at 11:57 PM](https://archive.org/download/protocol-2022/protocol-2022-09-23T23:57:19.881998-07:00.lighthouse.json) |
-| [September 23 at 11:52 AM](https://archive.org/download/protocol-2022/protocol-2022-09-23T11:52:45.298722-07:00.lighthouse.json) |
 
 
 

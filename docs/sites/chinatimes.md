@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 113 screenshots with the Internet Archive.
+The archiving routine has saved 114 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 113 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chinatimes-2022/chinatimes-2022-09-29T00:19:27.724594+08:00.jpg">
+  <img src="https://archive.org/download/chinatimes-2022/chinatimes-2022-09-29T00:19:27.724594+08:00.jpg"
+     alt="China Times at 2022-09-29 00:19:33+08:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chinatimes-2022/chinatimes-2022-09-29T00:19:27.724594+08:00.jpg">September 29 at 12:19 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chinatimes-2022/chinatimes-2022-09-28T14:05:02.560249+08:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/chinatimes-2022/chinatimes-2022-09-23T13:17:04.781038+08:00.jpg">September 23 at 1:17 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/chinatimes-2022/chinatimes-2022-09-23T00:00:45.421244+08:00.jpg">
-  <img src="https://archive.org/download/chinatimes-2022/chinatimes-2022-09-23T00:00:45.421244+08:00.jpg"
-     alt="China Times at 2022-09-23 00:00:50+08:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chinatimes-2022/chinatimes-2022-09-23T00:00:45.421244+08:00.jpg">September 23 at 12:00 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 114 hyperlink lists with the Internet Archive.
+The archiving routine has saved 115 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 12:19 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-09-29T00:19:27.724594+08:00.hyperlinks.json) |
 | [September 28 at 2:05 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-09-28T14:05:02.560249+08:00.hyperlinks.json) |
 | [September 28 at 12:08 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-09-28T00:08:37.772521+08:00.hyperlinks.json) |
 | [September 27 at 12:31 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-09-27T12:31:33.317921+08:00.hyperlinks.json) |
@@ -331,7 +332,6 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 12:30 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-09-25T12:29:50.556007+08:00.hyperlinks.json) |
 | [September 24 at 11:51 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-09-24T23:51:16.675058+08:00.hyperlinks.json) |
 | [September 24 at 12:31 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-09-24T12:31:24.569953+08:00.hyperlinks.json) |
-| [September 23 at 11:59 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-09-23T23:59:35.261819+08:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -442,7 +442,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 114 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 115 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 12:19 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-09-29T00:19:27.724594+08:00.lighthouse.json) |
 | [September 28 at 2:05 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-09-28T14:05:02.560249+08:00.lighthouse.json) |
 | [September 28 at 12:08 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-09-28T00:08:37.772521+08:00.lighthouse.json) |
 | [September 27 at 12:31 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-09-27T12:31:33.317921+08:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 12:30 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-09-25T12:29:50.556007+08:00.lighthouse.json) |
 | [September 24 at 11:51 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-09-24T23:51:16.675058+08:00.lighthouse.json) |
 | [September 24 at 12:31 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-09-24T12:31:24.569953+08:00.lighthouse.json) |
-| [September 23 at 11:59 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-09-23T23:59:35.261819+08:00.lighthouse.json) |
 
 
 

@@ -28,13 +28,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 21 screenshots with the Internet Archive.
+The archiving routine has saved 22 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-28T14:36:53.942871-05:00.jpg">
+  <img src="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-28T14:36:53.942871-05:00.jpg"
+     alt="Northwest Arkansas Democrat-Gazette at 2022-09-28 14:36:55-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-28T14:36:53.942871-05:00.jpg">September 28 at 2:36 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-28T02:47:57.931387-05:00.jpg">
@@ -135,20 +144,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-20T14:03:43.364171-05:00.jpg">September 20 at 2:03 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-19T12:34:20.934921-05:00.jpg">
-  <img src="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-19T12:34:20.934921-05:00.jpg"
-     alt="Northwest Arkansas Democrat-Gazette at 2022-09-19 12:34:22-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-19T12:34:20.934921-05:00.jpg">September 19 at 12:34 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 27 hyperlink lists with the Internet Archive.
+The archiving routine has saved 28 hyperlink lists with the Internet Archive.
 
 
 
@@ -156,6 +156,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 2:36 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-28T14:36:53.942871-05:00.hyperlinks.json) |
 | [September 28 at 2:48 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-28T02:47:57.931387-05:00.hyperlinks.json) |
 | [September 27 at 2:08 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-27T14:08:15.178913-05:00.hyperlinks.json) |
 | [September 26 at 2:42 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-26T02:42:13.568349-05:00.hyperlinks.json) |
@@ -165,12 +166,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 1:55 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-24T01:55:18.386066-05:00.hyperlinks.json) |
 | [September 23 at 1:47 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-23T13:47:07.193276-05:00.hyperlinks.json) |
 | [September 23 at 2:18 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-23T02:18:47.681404-05:00.hyperlinks.json) |
-| [September 22 at 2:22 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-22T14:22:49.946414-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 25 accessibility trees with the Internet Archive.
+The archiving routine has saved 26 accessibility trees with the Internet Archive.
 
 
 
@@ -178,6 +178,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 2:36 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-28T14:36:53.942871-05:00.accessibility.json) |
 | [September 28 at 2:48 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-28T02:47:57.931387-05:00.accessibility.json) |
 | [September 27 at 2:08 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-27T14:08:15.178913-05:00.accessibility.json) |
 | [September 26 at 2:26 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-26T14:26:48.018127-05:00.accessibility.json) |
@@ -187,13 +188,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 1:30 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-24T13:30:07.607607-05:00.accessibility.json) |
 | [September 24 at 1:55 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-24T01:55:18.386066-05:00.accessibility.json) |
 | [September 23 at 1:47 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-23T13:47:07.193276-05:00.accessibility.json) |
-| [September 23 at 2:18 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-23T02:18:47.681404-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -284,6 +284,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 2:37 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-28T14:36:53.942871-05:00.lighthouse.json) |
 | [September 28 at 2:48 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-28T02:47:57.931387-05:00.lighthouse.json) |
 | [September 27 at 2:08 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-27T14:08:15.178913-05:00.lighthouse.json) |
 | [September 27 at 2:07 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-27T02:07:27.321587-05:00.lighthouse.json) |
@@ -293,7 +294,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 1:54 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-25T01:54:23.421019-05:00.lighthouse.json) |
 | [September 24 at 1:30 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-24T13:30:07.607607-05:00.lighthouse.json) |
 | [September 24 at 1:55 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-24T01:55:18.386066-05:00.lighthouse.json) |
-| [September 23 at 1:47 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-09-23T13:47:07.193276-05:00.lighthouse.json) |
 
 
 

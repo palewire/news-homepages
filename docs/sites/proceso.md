@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 87 screenshots with the Internet Archive.
+The archiving routine has saved 88 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 87 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/proceso-2022/proceso-2022-09-28T14:39:25.016008-05:00.jpg">
+  <img src="https://archive.org/download/proceso-2022/proceso-2022-09-28T14:39:25.016008-05:00.jpg"
+     alt="Proceso at 2022-09-28 14:39:32-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/proceso-2022/proceso-2022-09-28T14:39:25.016008-05:00.jpg">September 28 at 2:39 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/proceso-2022/proceso-2022-09-28T02:50:05.840116-05:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/proceso-2022/proceso-2022-09-23T02:20:02.816037-05:00.jpg">September 23 at 2:20 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/proceso-2022/proceso-2022-09-22T14:26:06.762200-05:00.jpg">
-  <img src="https://archive.org/download/proceso-2022/proceso-2022-09-22T14:26:06.762200-05:00.jpg"
-     alt="Proceso at 2022-09-22 14:26:13-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/proceso-2022/proceso-2022-09-22T14:26:06.762200-05:00.jpg">September 22 at 2:26 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 86 hyperlink lists with the Internet Archive.
+The archiving routine has saved 87 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 2:39 PM](https://archive.org/download/proceso-2022/proceso-2022-09-28T14:39:25.016008-05:00.hyperlinks.json) |
 | [September 28 at 2:50 AM](https://archive.org/download/proceso-2022/proceso-2022-09-28T02:50:05.840116-05:00.hyperlinks.json) |
 | [September 27 at 2:12 PM](https://archive.org/download/proceso-2022/proceso-2022-09-27T14:12:32.844404-05:00.hyperlinks.json) |
 | [September 27 at 2:10 AM](https://archive.org/download/proceso-2022/proceso-2022-09-27T02:09:56.928357-05:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 1:55 AM](https://archive.org/download/proceso-2022/proceso-2022-09-25T01:55:38.640719-05:00.hyperlinks.json) |
 | [September 24 at 1:32 PM](https://archive.org/download/proceso-2022/proceso-2022-09-24T13:32:30.170509-05:00.hyperlinks.json) |
 | [September 24 at 1:56 AM](https://archive.org/download/proceso-2022/proceso-2022-09-24T01:56:39.697721-05:00.hyperlinks.json) |
-| [September 23 at 1:53 PM](https://archive.org/download/proceso-2022/proceso-2022-09-23T13:52:50.290310-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 87 accessibility trees with the Internet Archive.
+The archiving routine has saved 88 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 2:39 PM](https://archive.org/download/proceso-2022/proceso-2022-09-28T14:39:25.016008-05:00.accessibility.json) |
 | [September 28 at 2:50 AM](https://archive.org/download/proceso-2022/proceso-2022-09-28T02:50:05.840116-05:00.accessibility.json) |
 | [September 27 at 2:12 PM](https://archive.org/download/proceso-2022/proceso-2022-09-27T14:12:32.844404-05:00.accessibility.json) |
 | [September 27 at 2:10 AM](https://archive.org/download/proceso-2022/proceso-2022-09-27T02:09:56.928357-05:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 1:55 AM](https://archive.org/download/proceso-2022/proceso-2022-09-25T01:55:38.640719-05:00.accessibility.json) |
 | [September 24 at 1:32 PM](https://archive.org/download/proceso-2022/proceso-2022-09-24T13:32:30.170509-05:00.accessibility.json) |
 | [September 24 at 1:56 AM](https://archive.org/download/proceso-2022/proceso-2022-09-24T01:56:39.697721-05:00.accessibility.json) |
-| [September 23 at 1:53 PM](https://archive.org/download/proceso-2022/proceso-2022-09-23T13:52:50.290310-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 87 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 88 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 2:39 PM](https://archive.org/download/proceso-2022/proceso-2022-09-28T14:39:25.016008-05:00.lighthouse.json) |
 | [September 28 at 2:50 AM](https://archive.org/download/proceso-2022/proceso-2022-09-28T02:50:05.840116-05:00.lighthouse.json) |
 | [September 27 at 2:12 PM](https://archive.org/download/proceso-2022/proceso-2022-09-27T14:12:32.844404-05:00.lighthouse.json) |
 | [September 27 at 2:10 AM](https://archive.org/download/proceso-2022/proceso-2022-09-27T02:09:56.928357-05:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 1:55 AM](https://archive.org/download/proceso-2022/proceso-2022-09-25T01:55:38.640719-05:00.lighthouse.json) |
 | [September 24 at 1:32 PM](https://archive.org/download/proceso-2022/proceso-2022-09-24T13:32:30.170509-05:00.lighthouse.json) |
 | [September 24 at 1:56 AM](https://archive.org/download/proceso-2022/proceso-2022-09-24T01:56:39.697721-05:00.lighthouse.json) |
-| [September 23 at 1:53 PM](https://archive.org/download/proceso-2022/proceso-2022-09-23T13:52:50.290310-05:00.lighthouse.json) |
 
 
 

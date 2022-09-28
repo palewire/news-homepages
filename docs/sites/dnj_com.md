@@ -28,13 +28,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 17 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dnj_com-2022/dnj_com-2022-09-28T12:54:40.159214-05:00.jpg">
+  <img src="https://archive.org/download/dnj_com-2022/dnj_com-2022-09-28T12:54:40.159214-05:00.jpg"
+     alt="Murfreesboro Daily News Journal at 2022-09-28 12:54:49-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dnj_com-2022/dnj_com-2022-09-28T12:54:40.159214-05:00.jpg">September 28 at 12:54 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dnj_com-2022/dnj_com-2022-09-28T01:20:57.504469-05:00.jpg">
@@ -135,20 +144,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dnj_com-2022/dnj_com-2022-09-23T02:12:29.964467-05:00.jpg">September 23 at 2:12 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dnj_com-2022/dnj_com-2022-09-22T12:36:31.745124-05:00.jpg">
-  <img src="https://archive.org/download/dnj_com-2022/dnj_com-2022-09-22T12:36:31.745124-05:00.jpg"
-     alt="Murfreesboro Daily News Journal at 2022-09-22 12:36:33-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dnj_com-2022/dnj_com-2022-09-22T12:36:31.745124-05:00.jpg">September 22 at 12:36 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 16 hyperlink lists with the Internet Archive.
+The archiving routine has saved 17 hyperlink lists with the Internet Archive.
 
 
 
@@ -156,6 +156,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 12:54 PM](https://archive.org/download/dnj_com-2022/dnj_com-2022-09-28T12:54:40.159214-05:00.hyperlinks.json) |
 | [September 28 at 1:21 AM](https://archive.org/download/dnj_com-2022/dnj_com-2022-09-28T01:20:57.504469-05:00.hyperlinks.json) |
 | [September 27 at 12:50 PM](https://archive.org/download/dnj_com-2022/dnj_com-2022-09-27T12:50:52.230063-05:00.hyperlinks.json) |
 | [September 27 at 2:00 AM](https://archive.org/download/dnj_com-2022/dnj_com-2022-09-27T02:00:20.839911-05:00.hyperlinks.json) |
@@ -165,12 +166,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 12:47 AM](https://archive.org/download/dnj_com-2022/dnj_com-2022-09-25T00:47:43.806756-05:00.hyperlinks.json) |
 | [September 24 at 12:22 PM](https://archive.org/download/dnj_com-2022/dnj_com-2022-09-24T12:22:07.470122-05:00.hyperlinks.json) |
 | [September 24 at 12:47 AM](https://archive.org/download/dnj_com-2022/dnj_com-2022-09-24T00:47:46.510914-05:00.hyperlinks.json) |
-| [September 23 at 12:37 PM](https://archive.org/download/dnj_com-2022/dnj_com-2022-09-23T12:37:01.709985-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 16 accessibility trees with the Internet Archive.
+The archiving routine has saved 17 accessibility trees with the Internet Archive.
 
 
 
@@ -178,6 +178,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 12:54 PM](https://archive.org/download/dnj_com-2022/dnj_com-2022-09-28T12:54:40.159214-05:00.accessibility.json) |
 | [September 28 at 1:21 AM](https://archive.org/download/dnj_com-2022/dnj_com-2022-09-28T01:20:57.504469-05:00.accessibility.json) |
 | [September 27 at 12:50 PM](https://archive.org/download/dnj_com-2022/dnj_com-2022-09-27T12:50:52.230063-05:00.accessibility.json) |
 | [September 27 at 2:00 AM](https://archive.org/download/dnj_com-2022/dnj_com-2022-09-27T02:00:20.839911-05:00.accessibility.json) |
@@ -187,13 +188,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 12:47 AM](https://archive.org/download/dnj_com-2022/dnj_com-2022-09-25T00:47:43.806756-05:00.accessibility.json) |
 | [September 24 at 12:22 PM](https://archive.org/download/dnj_com-2022/dnj_com-2022-09-24T12:22:07.470122-05:00.accessibility.json) |
 | [September 24 at 12:47 AM](https://archive.org/download/dnj_com-2022/dnj_com-2022-09-24T00:47:46.510914-05:00.accessibility.json) |
-| [September 23 at 12:37 PM](https://archive.org/download/dnj_com-2022/dnj_com-2022-09-23T12:37:01.709985-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
 
 
 
@@ -201,6 +201,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 12:54 PM](https://archive.org/download/dnj_com-2022/dnj_com-2022-09-28T12:54:40.159214-05:00.lighthouse.json) |
 | [September 28 at 1:21 AM](https://archive.org/download/dnj_com-2022/dnj_com-2022-09-28T01:20:57.504469-05:00.lighthouse.json) |
 | [September 27 at 12:50 PM](https://archive.org/download/dnj_com-2022/dnj_com-2022-09-27T12:50:52.230063-05:00.lighthouse.json) |
 | [September 27 at 2:00 AM](https://archive.org/download/dnj_com-2022/dnj_com-2022-09-27T02:00:20.839911-05:00.lighthouse.json) |
@@ -210,7 +211,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 12:47 AM](https://archive.org/download/dnj_com-2022/dnj_com-2022-09-25T00:47:43.806756-05:00.lighthouse.json) |
 | [September 24 at 12:22 PM](https://archive.org/download/dnj_com-2022/dnj_com-2022-09-24T12:22:07.470122-05:00.lighthouse.json) |
 | [September 24 at 12:47 AM](https://archive.org/download/dnj_com-2022/dnj_com-2022-09-24T00:47:46.510914-05:00.lighthouse.json) |
-| [September 23 at 12:37 PM](https://archive.org/download/dnj_com-2022/dnj_com-2022-09-23T12:37:01.709985-05:00.lighthouse.json) |
 
 
 

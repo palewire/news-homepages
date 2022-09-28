@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 377 screenshots with the Internet Archive.
+The archiving routine has saved 378 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 377 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-09-28T22:09:25.655220+03:00.jpg">
+  <img src="https://archive.org/download/ukrinform-2022/ukrinform-2022-09-28T22:09:25.655220+03:00.jpg"
+     alt="Ukrinform at 2022-09-28 22:09:33+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-09-28T22:09:25.655220+03:00.jpg">September 28 at 10:09 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-09-28T10:56:23.074868+03:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-09-23T10:26:33.858260+03:00.jpg">September 23 at 10:26 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-09-22T21:54:26.608381+03:00.jpg">
-  <img src="https://archive.org/download/ukrinform-2022/ukrinform-2022-09-22T21:54:26.608381+03:00.jpg"
-     alt="Ukrinform at 2022-09-22 21:54:55+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-09-22T21:54:26.608381+03:00.jpg">September 22 at 9:54 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 372 hyperlink lists with the Internet Archive.
+The archiving routine has saved 373 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 10:09 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-09-28T22:09:25.655220+03:00.hyperlinks.json) |
 | [September 28 at 10:56 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-09-28T10:56:23.074868+03:00.hyperlinks.json) |
 | [September 27 at 10:43 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-09-27T22:43:00.730199+03:00.hyperlinks.json) |
 | [September 27 at 10:05 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-09-27T10:05:18.677670+03:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 10:01 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-09-25T10:01:03.374763+03:00.hyperlinks.json) |
 | [September 24 at 9:39 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-09-24T21:39:31.225754+03:00.hyperlinks.json) |
 | [September 24 at 10:03 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-09-24T10:02:55.248288+03:00.hyperlinks.json) |
-| [September 23 at 10:19 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-09-23T22:19:46.469414+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 368 accessibility trees with the Internet Archive.
+The archiving routine has saved 369 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 10:09 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-09-28T22:09:25.655220+03:00.accessibility.json) |
 | [September 28 at 10:56 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-09-28T10:56:23.074868+03:00.accessibility.json) |
 | [September 27 at 10:43 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-09-27T22:43:00.730199+03:00.accessibility.json) |
 | [September 27 at 10:05 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-09-27T10:05:18.677670+03:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 10:01 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-09-25T10:01:03.374763+03:00.accessibility.json) |
 | [September 24 at 9:39 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-09-24T21:39:31.225754+03:00.accessibility.json) |
 | [September 24 at 10:02 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-09-24T10:02:55.248288+03:00.accessibility.json) |
-| [September 23 at 10:19 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-09-23T22:19:46.469414+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 10:09 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-09-28T22:09:25.655220+03:00.lighthouse.json) |
 | [September 28 at 10:56 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-09-28T10:56:23.074868+03:00.lighthouse.json) |
 | [September 27 at 10:43 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-09-27T22:43:00.730199+03:00.lighthouse.json) |
 | [September 27 at 10:05 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-09-27T10:05:18.677670+03:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 10:01 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-09-25T10:01:03.374763+03:00.lighthouse.json) |
 | [September 24 at 9:39 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-09-24T21:39:31.225754+03:00.lighthouse.json) |
 | [September 24 at 10:03 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-09-24T10:02:55.248288+03:00.lighthouse.json) |
-| [September 23 at 10:19 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-09-23T22:19:46.469414+03:00.lighthouse.json) |
 
 
 

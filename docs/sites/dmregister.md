@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 350 screenshots with the Internet Archive.
+The archiving routine has saved 351 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 350 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dmregister-2022/dmregister-2022-09-28T11:08:31.725994-05:00.jpg">
+  <img src="https://archive.org/download/dmregister-2022/dmregister-2022-09-28T11:08:31.725994-05:00.jpg"
+     alt="Des Moines Register at 2022-09-28 11:08:33-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-09-28T11:08:31.725994-05:00.jpg">September 28 at 11:08 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dmregister-2022/dmregister-2022-09-28T07:09:36.252502-05:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-09-23T18:46:01.985342-05:00.jpg">September 23 at 6:46 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dmregister-2022/dmregister-2022-09-23T11:01:39.276244-05:00.jpg">
-  <img src="https://archive.org/download/dmregister-2022/dmregister-2022-09-23T11:01:39.276244-05:00.jpg"
-     alt="Des Moines Register at 2022-09-23 11:01:41-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-09-23T11:01:39.276244-05:00.jpg">September 23 at 11:01 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 340 hyperlink lists with the Internet Archive.
+The archiving routine has saved 341 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 11:08 AM](https://archive.org/download/dmregister-2022/dmregister-2022-09-28T11:08:31.725994-05:00.hyperlinks.json) |
 | [September 28 at 7:09 AM](https://archive.org/download/dmregister-2022/dmregister-2022-09-28T07:09:36.252502-05:00.hyperlinks.json) |
 | [September 27 at 6:52 PM](https://archive.org/download/dmregister-2022/dmregister-2022-09-27T18:52:21.588151-05:00.hyperlinks.json) |
 | [September 27 at 6:54 AM](https://archive.org/download/dmregister-2022/dmregister-2022-09-27T06:54:09.599177-05:00.hyperlinks.json) |
@@ -331,7 +332,6 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 6:43 PM](https://archive.org/download/dmregister-2022/dmregister-2022-09-25T18:43:24.567080-05:00.hyperlinks.json) |
 | [September 25 at 6:47 AM](https://archive.org/download/dmregister-2022/dmregister-2022-09-25T06:47:18.096739-05:00.hyperlinks.json) |
 | [September 24 at 6:39 PM](https://archive.org/download/dmregister-2022/dmregister-2022-09-24T18:39:19.626005-05:00.hyperlinks.json) |
-| [September 24 at 6:48 AM](https://archive.org/download/dmregister-2022/dmregister-2022-09-24T06:48:03.090342-05:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -442,7 +442,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 163 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 164 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 11:08 AM](https://archive.org/download/dmregister-2022/dmregister-2022-09-28T11:08:31.725994-05:00.lighthouse.json) |
 | [September 28 at 7:09 AM](https://archive.org/download/dmregister-2022/dmregister-2022-09-28T07:09:36.252502-05:00.lighthouse.json) |
 | [September 27 at 6:52 PM](https://archive.org/download/dmregister-2022/dmregister-2022-09-27T18:52:21.588151-05:00.lighthouse.json) |
 | [September 27 at 6:54 AM](https://archive.org/download/dmregister-2022/dmregister-2022-09-27T06:54:09.599177-05:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 6:43 PM](https://archive.org/download/dmregister-2022/dmregister-2022-09-25T18:43:24.567080-05:00.lighthouse.json) |
 | [September 25 at 6:47 AM](https://archive.org/download/dmregister-2022/dmregister-2022-09-25T06:47:18.096739-05:00.lighthouse.json) |
 | [September 24 at 6:39 PM](https://archive.org/download/dmregister-2022/dmregister-2022-09-24T18:39:19.626005-05:00.lighthouse.json) |
-| [September 24 at 6:48 AM](https://archive.org/download/dmregister-2022/dmregister-2022-09-24T06:48:03.090342-05:00.lighthouse.json) |
 
 
 

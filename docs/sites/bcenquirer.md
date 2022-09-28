@@ -28,13 +28,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 15 screenshots with the Internet Archive.
+The archiving routine has saved 16 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-28T12:16:44.691750-04:00.jpg">
+  <img src="https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-28T12:16:44.691750-04:00.jpg"
+     alt="Battle Creek Enquirer at 2022-09-28 12:16:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-28T12:16:44.691750-04:00.jpg">September 28 at 12:16 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-28T02:05:11.064772-04:00.jpg">
@@ -135,20 +144,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-23T01:17:14.072801-04:00.jpg">September 23 at 1:17 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-22T12:00:45.934927-04:00.jpg">
-  <img src="https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-22T12:00:45.934927-04:00.jpg"
-     alt="Battle Creek Enquirer at 2022-09-22 12:00:47-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-22T12:00:45.934927-04:00.jpg">September 22 at 12:00 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 15 hyperlink lists with the Internet Archive.
+The archiving routine has saved 16 hyperlink lists with the Internet Archive.
 
 
 
@@ -156,6 +156,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 12:16 PM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-28T12:16:44.691750-04:00.hyperlinks.json) |
 | [September 28 at 2:05 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-28T02:05:11.064772-04:00.hyperlinks.json) |
 | [September 27 at 12:06 PM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-27T12:06:05.640323-04:00.hyperlinks.json) |
 | [September 27 at 12:31 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-27T00:31:51.086535-04:00.hyperlinks.json) |
@@ -165,12 +166,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 12:30 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-25T00:30:02.890305-04:00.hyperlinks.json) |
 | [September 24 at 11:50 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-24T11:50:34.312854-04:00.hyperlinks.json) |
 | [September 24 at 12:31 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-24T00:31:07.858732-04:00.hyperlinks.json) |
-| [September 23 at 11:58 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-23T11:58:37.696180-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 15 accessibility trees with the Internet Archive.
+The archiving routine has saved 16 accessibility trees with the Internet Archive.
 
 
 
@@ -178,6 +178,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 12:16 PM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-28T12:16:44.691750-04:00.accessibility.json) |
 | [September 28 at 2:05 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-28T02:05:11.064772-04:00.accessibility.json) |
 | [September 27 at 12:06 PM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-27T12:06:05.640323-04:00.accessibility.json) |
 | [September 27 at 12:31 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-27T00:31:51.086535-04:00.accessibility.json) |
@@ -187,13 +188,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 12:30 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-25T00:30:02.890305-04:00.accessibility.json) |
 | [September 24 at 11:50 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-24T11:50:34.312854-04:00.accessibility.json) |
 | [September 24 at 12:31 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-24T00:31:07.858732-04:00.accessibility.json) |
-| [September 23 at 11:58 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-23T11:58:37.696180-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
 
 
 
@@ -201,6 +201,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 12:16 PM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-28T12:16:44.691750-04:00.lighthouse.json) |
 | [September 28 at 2:05 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-28T02:05:11.064772-04:00.lighthouse.json) |
 | [September 27 at 12:06 PM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-27T12:06:05.640323-04:00.lighthouse.json) |
 | [September 27 at 12:31 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-27T00:31:51.086535-04:00.lighthouse.json) |
@@ -210,7 +211,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 12:30 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-25T00:30:02.890305-04:00.lighthouse.json) |
 | [September 24 at 11:50 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-24T11:50:34.312854-04:00.lighthouse.json) |
 | [September 24 at 12:31 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-24T00:31:07.858732-04:00.lighthouse.json) |
-| [September 23 at 11:58 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-09-23T11:58:37.696180-04:00.lighthouse.json) |
 
 
 

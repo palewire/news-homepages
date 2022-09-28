@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 113 screenshots with the Internet Archive.
+The archiving routine has saved 115 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,6 +120,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-28T12:19:15.871669-04:00.jpg">
+  <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-28T12:19:15.871669-04:00.jpg"
+     alt="WDRB News at 2022-09-28 12:19:20-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-28T12:19:15.871669-04:00.jpg">September 28 at 12:19 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-28T02:08:04.158492-04:00.jpg">
+  <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-28T02:08:04.158492-04:00.jpg"
+     alt="WDRB News at 2022-09-28 02:08:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-28T02:08:04.158492-04:00.jpg">September 28 at 2:08 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-27T12:08:41.242907-04:00.jpg">
   <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-27T12:08:41.242907-04:00.jpg"
      alt="WDRB News at 2022-09-27 12:08:51-04:00 local time"
@@ -209,29 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-23T01:19:12.901349-04:00.jpg">September 23 at 1:19 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-22T12:03:49.035352-04:00.jpg">
-  <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-22T12:03:49.035352-04:00.jpg"
-     alt="WDRB News at 2022-09-22 12:03:53-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-22T12:03:49.035352-04:00.jpg">September 22 at 12:03 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-22T00:41:36.693348-04:00.jpg">
-  <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-22T00:41:36.693348-04:00.jpg"
-     alt="WDRB News at 2022-09-22 00:41:38-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-22T00:41:36.693348-04:00.jpg">September 22 at 12:41 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 115 hyperlink lists with the Internet Archive.
+The archiving routine has saved 117 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 12:19 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-28T12:19:15.871669-04:00.hyperlinks.json) |
+| [September 28 at 2:08 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-28T02:08:04.158492-04:00.hyperlinks.json) |
 | [September 27 at 12:08 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-27T12:08:41.242907-04:00.hyperlinks.json) |
 | [September 27 at 12:33 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-27T00:32:36.696828-04:00.hyperlinks.json) |
 | [September 26 at 12:09 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-26T12:09:15.753033-04:00.hyperlinks.json) |
@@ -330,13 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 12:31 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-25T00:31:32.400895-04:00.hyperlinks.json) |
 | [September 24 at 11:52 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-24T11:52:41.785745-04:00.hyperlinks.json) |
 | [September 24 at 12:32 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-24T00:32:49.587697-04:00.hyperlinks.json) |
-| [September 23 at 12:01 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-23T12:01:13.527664-04:00.hyperlinks.json) |
-| [September 23 at 1:19 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-23T01:19:12.901349-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 116 accessibility trees with the Internet Archive.
+The archiving routine has saved 118 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 12:19 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-28T12:19:15.871669-04:00.accessibility.json) |
+| [September 28 at 2:08 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-28T02:08:04.158492-04:00.accessibility.json) |
 | [September 27 at 12:08 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-27T12:08:41.242907-04:00.accessibility.json) |
 | [September 27 at 12:33 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-27T00:32:36.696828-04:00.accessibility.json) |
 | [September 26 at 12:09 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-26T12:09:15.753033-04:00.accessibility.json) |
@@ -435,14 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 12:31 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-25T00:31:32.400895-04:00.accessibility.json) |
 | [September 24 at 11:52 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-24T11:52:41.785745-04:00.accessibility.json) |
 | [September 24 at 12:32 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-24T00:32:49.587697-04:00.accessibility.json) |
-| [September 23 at 12:01 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-23T12:01:13.527664-04:00.accessibility.json) |
-| [September 23 at 1:19 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-23T01:19:12.901349-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 116 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 118 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 12:19 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-28T12:19:15.871669-04:00.lighthouse.json) |
+| [September 28 at 2:08 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-28T02:08:04.158492-04:00.lighthouse.json) |
 | [September 27 at 12:08 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-27T12:08:41.242907-04:00.lighthouse.json) |
 | [September 27 at 12:33 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-27T00:32:36.696828-04:00.lighthouse.json) |
 | [September 26 at 12:09 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-26T12:09:15.753033-04:00.lighthouse.json) |
@@ -541,8 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 12:31 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-25T00:31:32.400895-04:00.lighthouse.json) |
 | [September 24 at 11:52 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-24T11:52:41.785745-04:00.lighthouse.json) |
 | [September 24 at 12:32 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-24T00:32:49.587697-04:00.lighthouse.json) |
-| [September 23 at 12:01 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-23T12:01:13.527664-04:00.lighthouse.json) |
-| [September 23 at 1:19 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-23T01:19:12.901349-04:00.lighthouse.json) |
 
 
 

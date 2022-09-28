@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 160 screenshots with the Internet Archive.
+The archiving routine has saved 161 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 160 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-28T13:42:49.836218-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-09-28T13:42:49.836218-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-09-28 13:42:58-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-28T13:42:49.836218-06:00.jpg">September 28 at 1:42 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-28T01:52:24.204311-06:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-23T01:22:30.679391-06:00.jpg">September 23 at 1:22 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-22T13:29:42.889447-06:00.jpg">
-  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-09-22T13:29:42.889447-06:00.jpg"
-     alt="Salt Lake Tribune at 2022-09-22 13:29:44-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-22T13:29:42.889447-06:00.jpg">September 22 at 1:29 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 152 hyperlink lists with the Internet Archive.
+The archiving routine has saved 153 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 1:43 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-28T13:42:49.836218-06:00.hyperlinks.json) |
 | [September 28 at 1:52 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-28T01:52:24.204311-06:00.hyperlinks.json) |
 | [September 27 at 1:15 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-27T13:15:29.860476-06:00.hyperlinks.json) |
 | [September 27 at 1:12 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-27T01:11:57.252965-06:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 12:58 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-25T00:58:35.046240-06:00.hyperlinks.json) |
 | [September 24 at 12:35 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-24T12:35:27.605289-06:00.hyperlinks.json) |
 | [September 24 at 12:59 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-24T00:59:13.685064-06:00.hyperlinks.json) |
-| [September 23 at 12:55 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-23T12:54:55.544950-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 159 accessibility trees with the Internet Archive.
+The archiving routine has saved 160 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 1:43 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-28T13:42:49.836218-06:00.accessibility.json) |
 | [September 28 at 1:52 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-28T01:52:24.204311-06:00.accessibility.json) |
 | [September 27 at 1:15 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-27T13:15:29.860476-06:00.accessibility.json) |
 | [September 27 at 1:12 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-27T01:11:57.252965-06:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 12:58 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-25T00:58:35.046240-06:00.accessibility.json) |
 | [September 24 at 12:35 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-24T12:35:27.605289-06:00.accessibility.json) |
 | [September 24 at 12:59 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-24T00:59:13.685064-06:00.accessibility.json) |
-| [September 23 at 12:55 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-23T12:54:55.544950-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 1:43 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-28T13:42:49.836218-06:00.lighthouse.json) |
 | [September 28 at 1:52 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-28T01:52:24.204311-06:00.lighthouse.json) |
 | [September 27 at 1:15 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-27T13:15:29.860476-06:00.lighthouse.json) |
 | [September 27 at 1:12 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-27T01:11:57.252965-06:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 12:58 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-25T00:58:35.046240-06:00.lighthouse.json) |
 | [September 24 at 12:35 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-24T12:35:27.605289-06:00.lighthouse.json) |
 | [September 24 at 12:59 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-24T00:59:13.685064-06:00.lighthouse.json) |
-| [September 23 at 12:55 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-23T12:54:55.544950-06:00.lighthouse.json) |
 
 
 

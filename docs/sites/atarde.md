@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 155 screenshots with the Internet Archive.
+The archiving routine has saved 156 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 155 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/atarde-2022/atarde-2022-09-28T13:11:46.511247-03:00.jpg">
+  <img src="https://archive.org/download/atarde-2022/atarde-2022-09-28T13:11:46.511247-03:00.jpg"
+     alt="Jornal A Tarde at 2022-09-28 13:11:54-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/atarde-2022/atarde-2022-09-28T13:11:46.511247-03:00.jpg">September 28 at 1:11 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/atarde-2022/atarde-2022-09-28T09:02:42.960060-03:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/atarde-2022/atarde-2022-09-25T01:28:00.028187-03:00.jpg">September 25 at 1:28 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/atarde-2022/atarde-2022-09-24T12:48:46.877084-03:00.jpg">
-  <img src="https://archive.org/download/atarde-2022/atarde-2022-09-24T12:48:46.877084-03:00.jpg"
-     alt="Jornal A Tarde at 2022-09-24 12:48:48-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/atarde-2022/atarde-2022-09-24T12:48:46.877084-03:00.jpg">September 24 at 12:48 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 158 hyperlink lists with the Internet Archive.
+The archiving routine has saved 159 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 1:11 PM](https://archive.org/download/atarde-2022/atarde-2022-09-28T13:11:46.511247-03:00.hyperlinks.json) |
 | [September 28 at 9:02 AM](https://archive.org/download/atarde-2022/atarde-2022-09-28T09:02:42.960060-03:00.hyperlinks.json) |
 | [September 28 at 3:02 AM](https://archive.org/download/atarde-2022/atarde-2022-09-28T03:02:17.637321-03:00.hyperlinks.json) |
 | [September 27 at 1:06 PM](https://archive.org/download/atarde-2022/atarde-2022-09-27T13:05:57.864187-03:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 9:06 AM](https://archive.org/download/atarde-2022/atarde-2022-09-26T09:06:09.541669-03:00.hyperlinks.json) |
 | [September 26 at 1:42 AM](https://archive.org/download/atarde-2022/atarde-2022-09-26T01:41:38.971528-03:00.hyperlinks.json) |
 | [September 25 at 12:51 PM](https://archive.org/download/atarde-2022/atarde-2022-09-25T12:50:58.049137-03:00.hyperlinks.json) |
-| [September 25 at 8:50 AM](https://archive.org/download/atarde-2022/atarde-2022-09-25T08:49:53.806822-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 158 accessibility trees with the Internet Archive.
+The archiving routine has saved 159 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 1:11 PM](https://archive.org/download/atarde-2022/atarde-2022-09-28T13:11:46.511247-03:00.accessibility.json) |
 | [September 28 at 9:02 AM](https://archive.org/download/atarde-2022/atarde-2022-09-28T09:02:42.960060-03:00.accessibility.json) |
 | [September 28 at 3:02 AM](https://archive.org/download/atarde-2022/atarde-2022-09-28T03:02:17.637321-03:00.accessibility.json) |
 | [September 27 at 1:06 PM](https://archive.org/download/atarde-2022/atarde-2022-09-27T13:05:57.864187-03:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 9:06 AM](https://archive.org/download/atarde-2022/atarde-2022-09-26T09:06:09.541669-03:00.accessibility.json) |
 | [September 26 at 1:42 AM](https://archive.org/download/atarde-2022/atarde-2022-09-26T01:41:38.971528-03:00.accessibility.json) |
 | [September 25 at 12:51 PM](https://archive.org/download/atarde-2022/atarde-2022-09-25T12:50:58.049137-03:00.accessibility.json) |
-| [September 25 at 8:50 AM](https://archive.org/download/atarde-2022/atarde-2022-09-25T08:49:53.806822-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 158 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 159 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 1:12 PM](https://archive.org/download/atarde-2022/atarde-2022-09-28T13:11:46.511247-03:00.lighthouse.json) |
 | [September 28 at 9:02 AM](https://archive.org/download/atarde-2022/atarde-2022-09-28T09:02:42.960060-03:00.lighthouse.json) |
 | [September 28 at 3:02 AM](https://archive.org/download/atarde-2022/atarde-2022-09-28T03:02:17.637321-03:00.lighthouse.json) |
 | [September 27 at 1:06 PM](https://archive.org/download/atarde-2022/atarde-2022-09-27T13:05:57.864187-03:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 9:06 AM](https://archive.org/download/atarde-2022/atarde-2022-09-26T09:06:09.541669-03:00.lighthouse.json) |
 | [September 26 at 1:42 AM](https://archive.org/download/atarde-2022/atarde-2022-09-26T01:41:38.971528-03:00.lighthouse.json) |
 | [September 25 at 12:51 PM](https://archive.org/download/atarde-2022/atarde-2022-09-25T12:50:58.049137-03:00.lighthouse.json) |
-| [September 25 at 8:50 AM](https://archive.org/download/atarde-2022/atarde-2022-09-25T08:49:53.806822-03:00.lighthouse.json) |
 
 
 

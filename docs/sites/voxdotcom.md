@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 275 screenshots with the Internet Archive.
+The archiving routine has saved 276 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 275 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-28T15:09:46.704614-04:00.jpg">
+  <img src="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-28T15:09:46.704614-04:00.jpg"
+     alt="Vox at 2022-09-28 15:09:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-28T15:09:46.704614-04:00.jpg">September 28 at 3:09 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-28T03:57:08.350742-04:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-24T15:02:21.577113-04:00.jpg">September 24 at 3:02 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-24T14:41:33.583193-04:00.jpg">
-  <img src="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-24T14:41:33.583193-04:00.jpg"
-     alt="Vox at 2022-09-24 14:41:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-24T14:41:33.583193-04:00.jpg">September 24 at 2:41 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 279 hyperlink lists with the Internet Archive.
+The archiving routine has saved 280 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 3:09 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-28T15:09:46.704614-04:00.hyperlinks.json) |
 | [September 28 at 3:57 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-28T03:57:08.350742-04:00.hyperlinks.json) |
 | [September 27 at 3:50 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-27T15:50:28.873057-04:00.hyperlinks.json) |
 | [September 27 at 3:45 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-27T15:44:53.737204-04:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 3:34 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-26T03:34:01.303924-04:00.hyperlinks.json) |
 | [September 25 at 3:05 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-25T15:05:41.561121-04:00.hyperlinks.json) |
 | [September 25 at 2:49 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-25T14:49:36.046572-04:00.hyperlinks.json) |
-| [September 25 at 3:01 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-25T03:01:52.616948-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 279 accessibility trees with the Internet Archive.
+The archiving routine has saved 280 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 3:09 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-28T15:09:46.704614-04:00.accessibility.json) |
 | [September 28 at 3:57 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-28T03:57:08.350742-04:00.accessibility.json) |
 | [September 27 at 3:50 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-27T15:50:28.873057-04:00.accessibility.json) |
 | [September 27 at 3:45 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-27T15:44:53.737204-04:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 3:34 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-26T03:34:01.303924-04:00.accessibility.json) |
 | [September 25 at 3:05 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-25T15:05:41.561121-04:00.accessibility.json) |
 | [September 25 at 2:49 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-25T14:49:36.046572-04:00.accessibility.json) |
-| [September 25 at 3:01 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-25T03:01:52.616948-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 193 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 194 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 3:09 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-28T15:09:46.704614-04:00.lighthouse.json) |
 | [September 28 at 3:57 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-28T03:57:08.350742-04:00.lighthouse.json) |
 | [September 27 at 3:50 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-27T15:50:28.873057-04:00.lighthouse.json) |
 | [September 27 at 3:45 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-27T15:44:53.737204-04:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 3:34 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-26T03:34:01.303924-04:00.lighthouse.json) |
 | [September 25 at 3:05 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-25T15:05:41.561121-04:00.lighthouse.json) |
 | [September 25 at 2:49 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-25T14:49:36.046572-04:00.lighthouse.json) |
-| [September 25 at 3:01 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-09-25T03:01:52.616948-04:00.lighthouse.json) |
 
 
 

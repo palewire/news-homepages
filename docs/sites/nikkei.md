@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 239 screenshots with the Internet Archive.
+The archiving routine has saved 240 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 239 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-29T04:35:59.447397+09:00.jpg">
+  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-29T04:35:59.447397+09:00.jpg"
+     alt="Nikkei at 2022-09-29 04:36:12+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-29T04:35:59.447397+09:00.jpg">September 29 at 4:36 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-28T16:47:15.171416+09:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-25T11:07:10.209441+09:00.jpg">September 25 at 11:07 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-25T03:30:09.005806+09:00.jpg">
-  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-25T03:30:09.005806+09:00.jpg"
-     alt="Nikkei at 2022-09-25 03:30:16+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-25T03:30:09.005806+09:00.jpg">September 25 at 3:30 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 240 hyperlink lists with the Internet Archive.
+The archiving routine has saved 241 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 4:36 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-29T04:35:59.447397+09:00.hyperlinks.json) |
 | [September 28 at 4:47 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-28T16:47:15.171416+09:00.hyperlinks.json) |
 | [September 28 at 11:22 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-28T11:22:33.596940+09:00.hyperlinks.json) |
 | [September 28 at 4:08 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-28T04:07:56.368351+09:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 4:42 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-26T16:42:20.539243+09:00.hyperlinks.json) |
 | [September 26 at 11:13 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-26T11:13:10.499788+09:00.hyperlinks.json) |
 | [September 26 at 3:31 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-26T03:31:01.640289+09:00.hyperlinks.json) |
-| [September 25 at 3:54 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-25T15:54:02.022887+09:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 239 accessibility trees with the Internet Archive.
+The archiving routine has saved 240 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 4:36 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-29T04:35:59.447397+09:00.accessibility.json) |
 | [September 28 at 4:47 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-28T16:47:15.171416+09:00.accessibility.json) |
 | [September 28 at 11:22 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-28T11:22:33.596940+09:00.accessibility.json) |
 | [September 28 at 4:08 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-28T04:07:56.368351+09:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 4:42 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-26T16:42:20.539243+09:00.accessibility.json) |
 | [September 26 at 11:13 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-26T11:13:10.499788+09:00.accessibility.json) |
 | [September 26 at 3:31 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-26T03:31:01.640289+09:00.accessibility.json) |
-| [September 25 at 3:54 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-25T15:54:02.022887+09:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 194 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 195 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 4:36 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-29T04:35:59.447397+09:00.lighthouse.json) |
 | [September 28 at 4:47 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-28T16:47:15.171416+09:00.lighthouse.json) |
 | [September 28 at 11:22 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-28T11:22:33.596940+09:00.lighthouse.json) |
 | [September 28 at 4:08 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-28T04:07:56.368351+09:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 4:42 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-26T16:42:20.539243+09:00.lighthouse.json) |
 | [September 26 at 11:13 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-26T11:13:10.499788+09:00.lighthouse.json) |
 | [September 26 at 3:31 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-26T03:31:01.640289+09:00.lighthouse.json) |
-| [September 25 at 3:54 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-25T15:54:02.022887+09:00.lighthouse.json) |
 
 
 

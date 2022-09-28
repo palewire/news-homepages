@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 128 screenshots with the Internet Archive.
+The archiving routine has saved 129 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 128 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sternde-2022/sternde-2022-09-28T21:03:49.934542+02:00.jpg">
+  <img src="https://archive.org/download/sternde-2022/sternde-2022-09-28T21:03:49.934542+02:00.jpg"
+     alt="Stern at 2022-09-28 21:03:59+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sternde-2022/sternde-2022-09-28T21:03:49.934542+02:00.jpg">September 28 at 9:03 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sternde-2022/sternde-2022-09-28T09:54:03.039970+02:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sternde-2022/sternde-2022-09-23T09:23:56.573242+02:00.jpg">September 23 at 9:24 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sternde-2022/sternde-2022-09-22T20:51:36.489545+02:00.jpg">
-  <img src="https://archive.org/download/sternde-2022/sternde-2022-09-22T20:51:36.489545+02:00.jpg"
-     alt="Stern at 2022-09-22 20:51:43+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sternde-2022/sternde-2022-09-22T20:51:36.489545+02:00.jpg">September 22 at 8:51 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 128 hyperlink lists with the Internet Archive.
+The archiving routine has saved 129 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 9:04 PM](https://archive.org/download/sternde-2022/sternde-2022-09-28T21:03:49.934542+02:00.hyperlinks.json) |
 | [September 28 at 9:54 AM](https://archive.org/download/sternde-2022/sternde-2022-09-28T09:54:03.039970+02:00.hyperlinks.json) |
 | [September 27 at 9:40 PM](https://archive.org/download/sternde-2022/sternde-2022-09-27T21:39:56.343226+02:00.hyperlinks.json) |
 | [September 27 at 9:02 AM](https://archive.org/download/sternde-2022/sternde-2022-09-27T09:02:10.641767+02:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 8:58 AM](https://archive.org/download/sternde-2022/sternde-2022-09-25T08:58:47.974527+02:00.hyperlinks.json) |
 | [September 24 at 8:37 PM](https://archive.org/download/sternde-2022/sternde-2022-09-24T20:36:56.345301+02:00.hyperlinks.json) |
 | [September 24 at 9:00 AM](https://archive.org/download/sternde-2022/sternde-2022-09-24T08:59:52.784091+02:00.hyperlinks.json) |
-| [September 23 at 9:18 PM](https://archive.org/download/sternde-2022/sternde-2022-09-23T21:18:05.472876+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 128 accessibility trees with the Internet Archive.
+The archiving routine has saved 129 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 9:04 PM](https://archive.org/download/sternde-2022/sternde-2022-09-28T21:03:49.934542+02:00.accessibility.json) |
 | [September 28 at 9:54 AM](https://archive.org/download/sternde-2022/sternde-2022-09-28T09:54:03.039970+02:00.accessibility.json) |
 | [September 27 at 9:40 PM](https://archive.org/download/sternde-2022/sternde-2022-09-27T21:39:56.343226+02:00.accessibility.json) |
 | [September 27 at 9:02 AM](https://archive.org/download/sternde-2022/sternde-2022-09-27T09:02:10.641767+02:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 8:58 AM](https://archive.org/download/sternde-2022/sternde-2022-09-25T08:58:47.974527+02:00.accessibility.json) |
 | [September 24 at 8:37 PM](https://archive.org/download/sternde-2022/sternde-2022-09-24T20:36:56.345301+02:00.accessibility.json) |
 | [September 24 at 9:00 AM](https://archive.org/download/sternde-2022/sternde-2022-09-24T08:59:52.784091+02:00.accessibility.json) |
-| [September 23 at 9:18 PM](https://archive.org/download/sternde-2022/sternde-2022-09-23T21:18:05.472876+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 128 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 129 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 9:04 PM](https://archive.org/download/sternde-2022/sternde-2022-09-28T21:03:49.934542+02:00.lighthouse.json) |
 | [September 28 at 9:54 AM](https://archive.org/download/sternde-2022/sternde-2022-09-28T09:54:03.039970+02:00.lighthouse.json) |
 | [September 27 at 9:40 PM](https://archive.org/download/sternde-2022/sternde-2022-09-27T21:39:56.343226+02:00.lighthouse.json) |
 | [September 27 at 9:02 AM](https://archive.org/download/sternde-2022/sternde-2022-09-27T09:02:10.641767+02:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 8:58 AM](https://archive.org/download/sternde-2022/sternde-2022-09-25T08:58:47.974527+02:00.lighthouse.json) |
 | [September 24 at 8:37 PM](https://archive.org/download/sternde-2022/sternde-2022-09-24T20:36:56.345301+02:00.lighthouse.json) |
 | [September 24 at 9:00 AM](https://archive.org/download/sternde-2022/sternde-2022-09-24T08:59:52.784091+02:00.lighthouse.json) |
-| [September 23 at 9:18 PM](https://archive.org/download/sternde-2022/sternde-2022-09-23T21:18:05.472876+02:00.lighthouse.json) |
 
 
 
