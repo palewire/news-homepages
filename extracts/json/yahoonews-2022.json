@@ -1,5 +1,6 @@
 {
-  "created": 1664386951,
+  "conflict": 1664399912,
+  "created": 1664399912,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/yahoonews-2022",
@@ -21027,21 +21028,32 @@
       "format": "JSON"
     },
     {
+      "name": "yahoonews-2022-09-28T12:21:01.946404-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoonews-2022-09-28T12:21:01.946404-04:00.jpg",
+      "mtime": "1664391333",
+      "size": "10371",
+      "md5": "904a590a43066ecceff3ea517dbc1505",
+      "crc32": "018dd1ed",
+      "sha1": "095bc37b69fe45902dee35efcf38fd384c4ca326"
+    },
+    {
       "name": "yahoonews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ba3dfbb1d2cd817c60695bc31cc7c2f35f12c8b7",
-      "mtime": "1664382189",
-      "size": "430631",
-      "md5": "7f5c1a3a235bce1ab618a978065cf7bc",
-      "crc32": "b5f51465",
-      "sha1": "eb62e8ee19988f00803c2eda37a53f9af1142df9",
+      "btih": "05b2e5d449e0c28935aebb3cdf6ea84893e7f08c",
+      "mtime": "1664391372",
+      "size": "430837",
+      "md5": "b4d671e2f044907f702b5c7d70c56f61",
+      "crc32": "aee1a8d2",
+      "sha1": "27a0ce071f041d3f8bdc4aac683bc55181e16614",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yahoonews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8042e3d4aeb489f12701ae7d319227b2",
+      "md5": "24c68e3c611ff9a960fea5af7cf1a770",
       "summation": "md5"
     },
     {
@@ -21065,9 +21077,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2029,
-  "item_last_updated": 1664382189,
-  "item_size": 168537508,
+  "files_count": 2030,
+  "item_last_updated": 1664391372,
+  "item_size": 168548085,
   "metadata": {
     "identifier": "yahoonews-2022",
     "collection": [
@@ -21089,24 +21101,16 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421186581,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "task_id": 3421470601,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1961779583,
+  "uniq": 1081906292,
   "workable_servers": [
     "ia601403.us.archive.org"
-  ],
-  "yahoonews-2022": {
-    "url": "https://news.yahoo.com/",
-    "job_id": "spn2-5d226e5fcaae6136a3d709228511e15a21a6d99f",
-    "message": "Job failed.",
-    "resources": [],
-    "status": "error",
-    "status_ext": "error:job-failed"
-  }
+  ]
 }
