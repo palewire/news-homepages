@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 128 screenshots with the Internet Archive.
+The archiving routine has saved 145 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-19T12:27:04.098884-05:00.jpg">
-  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-09-19T12:27:04.098884-05:00.jpg"
-     alt="Fort Worth Star-Telegram at 2022-09-19 12:27:06-05:00 local time"
+ <a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-28T02:52:14.000096-05:00.jpg">
+  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-09-28T02:52:14.000096-05:00.jpg"
+     alt="Fort Worth Star-Telegram at 2022-09-28 02:52:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-19T12:27:04.098884-05:00.jpg">September 19 at 12:27 PM</a></p>
+ <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-28T02:52:14.000096-05:00.jpg">September 28 at 2:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-19T00:58:05.572118-05:00.jpg">
-  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-09-19T00:58:05.572118-05:00.jpg"
-     alt="Fort Worth Star-Telegram at 2022-09-19 00:58:06-05:00 local time"
+ <a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-27T14:40:50.571975-05:00.jpg">
+  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-09-27T14:40:50.571975-05:00.jpg"
+     alt="Fort Worth Star-Telegram at 2022-09-27 14:40:57-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-19T00:58:05.572118-05:00.jpg">September 19 at 12:58 AM</a></p>
+ <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-27T14:40:50.571975-05:00.jpg">September 27 at 2:40 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-18T12:16:16.487817-05:00.jpg">
-  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-09-18T12:16:16.487817-05:00.jpg"
-     alt="Fort Worth Star-Telegram at 2022-09-18 12:16:21-05:00 local time"
+ <a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-27T02:02:32.638647-05:00.jpg">
+  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-09-27T02:02:32.638647-05:00.jpg"
+     alt="Fort Worth Star-Telegram at 2022-09-27 02:02:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-18T12:16:16.487817-05:00.jpg">September 18 at 12:16 PM</a></p>
+ <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-27T02:02:32.638647-05:00.jpg">September 27 at 2:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-18T00:30:14.523970-05:00.jpg">
-  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-09-18T00:30:14.523970-05:00.jpg"
-     alt="Fort Worth Star-Telegram at 2022-09-18 00:30:15-05:00 local time"
+ <a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-26T14:06:51.499168-05:00.jpg">
+  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-09-26T14:06:51.499168-05:00.jpg"
+     alt="Fort Worth Star-Telegram at 2022-09-26 14:06:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-18T00:30:14.523970-05:00.jpg">September 18 at 12:30 AM</a></p>
+ <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-26T14:06:51.499168-05:00.jpg">September 26 at 2:06 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-17T11:54:49.981870-05:00.jpg">
-  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-09-17T11:54:49.981870-05:00.jpg"
-     alt="Fort Worth Star-Telegram at 2022-09-17 11:54:52-05:00 local time"
+ <a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-26T02:29:01.618942-05:00.jpg">
+  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-09-26T02:29:01.618942-05:00.jpg"
+     alt="Fort Worth Star-Telegram at 2022-09-26 02:29:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-17T11:54:49.981870-05:00.jpg">September 17 at 11:54 AM</a></p>
+ <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-26T02:29:01.618942-05:00.jpg">September 26 at 2:29 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-17T00:23:47.572805-05:00.jpg">
-  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-09-17T00:23:47.572805-05:00.jpg"
-     alt="Fort Worth Star-Telegram at 2022-09-17 00:23:48-05:00 local time"
+ <a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-25T13:44:57.950375-05:00.jpg">
+  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-09-25T13:44:57.950375-05:00.jpg"
+     alt="Fort Worth Star-Telegram at 2022-09-25 13:45:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-17T00:23:47.572805-05:00.jpg">September 17 at 12:23 AM</a></p>
+ <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-25T13:44:57.950375-05:00.jpg">September 25 at 1:45 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-16T11:58:39.569087-05:00.jpg">
-  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-09-16T11:58:39.569087-05:00.jpg"
-     alt="Fort Worth Star-Telegram at 2022-09-16 11:58:44-05:00 local time"
+ <a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-25T01:58:59.478019-05:00.jpg">
+  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-09-25T01:58:59.478019-05:00.jpg"
+     alt="Fort Worth Star-Telegram at 2022-09-25 01:59:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-16T11:58:39.569087-05:00.jpg">September 16 at 11:58 AM</a></p>
+ <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-25T01:58:59.478019-05:00.jpg">September 25 at 1:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-16T00:33:33.276505-05:00.jpg">
-  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-09-16T00:33:33.276505-05:00.jpg"
-     alt="Fort Worth Star-Telegram at 2022-09-16 00:33:34-05:00 local time"
+ <a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-24T13:36:46.834610-05:00.jpg">
+  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-09-24T13:36:46.834610-05:00.jpg"
+     alt="Fort Worth Star-Telegram at 2022-09-24 13:36:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-16T00:33:33.276505-05:00.jpg">September 16 at 12:33 AM</a></p>
+ <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-24T13:36:46.834610-05:00.jpg">September 24 at 1:36 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-15T12:14:31.907331-05:00.jpg">
-  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-09-15T12:14:31.907331-05:00.jpg"
-     alt="Fort Worth Star-Telegram at 2022-09-15 12:14:34-05:00 local time"
+ <a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-24T01:59:18.242397-05:00.jpg">
+  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-09-24T01:59:18.242397-05:00.jpg"
+     alt="Fort Worth Star-Telegram at 2022-09-24 01:59:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-15T12:14:31.907331-05:00.jpg">September 15 at 12:14 PM</a></p>
+ <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-24T01:59:18.242397-05:00.jpg">September 24 at 1:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-15T00:31:28.627281-05:00.jpg">
-  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-09-15T00:31:28.627281-05:00.jpg"
-     alt="Fort Worth Star-Telegram at 2022-09-15 00:31:30-05:00 local time"
+ <a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-23T14:17:33.706006-05:00.jpg">
+  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-09-23T14:17:33.706006-05:00.jpg"
+     alt="Fort Worth Star-Telegram at 2022-09-23 14:17:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-15T00:31:28.627281-05:00.jpg">September 15 at 12:31 AM</a></p>
+ <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-23T14:17:33.706006-05:00.jpg">September 23 at 2:17 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-14T12:18:44.842128-05:00.jpg">
-  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-09-14T12:18:44.842128-05:00.jpg"
-     alt="Fort Worth Star-Telegram at 2022-09-14 12:18:50-05:00 local time"
+ <a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-23T02:24:23.267051-05:00.jpg">
+  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-09-23T02:24:23.267051-05:00.jpg"
+     alt="Fort Worth Star-Telegram at 2022-09-23 02:24:27-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-14T12:18:44.842128-05:00.jpg">September 14 at 12:18 PM</a></p>
+ <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-23T02:24:23.267051-05:00.jpg">September 23 at 2:24 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-14T00:37:51.810249-05:00.jpg">
-  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-09-14T00:37:51.810249-05:00.jpg"
-     alt="Fort Worth Star-Telegram at 2022-09-14 00:37:53-05:00 local time"
+ <a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-22T13:49:45.646031-05:00.jpg">
+  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-09-22T13:49:45.646031-05:00.jpg"
+     alt="Fort Worth Star-Telegram at 2022-09-22 13:49:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-14T00:37:51.810249-05:00.jpg">September 14 at 12:37 AM</a></p>
+ <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-09-22T13:49:45.646031-05:00.jpg">September 22 at 1:49 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 103 hyperlink lists with the Internet Archive.
+The archiving routine has saved 120 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 12:27 PM](https://archive.org/download/startelegram-2022/startelegram-2022-09-19T12:27:04.098884-05:00.hyperlinks.json) |
-| [September 19 at 12:58 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-19T00:58:05.572118-05:00.hyperlinks.json) |
-| [September 18 at 12:16 PM](https://archive.org/download/startelegram-2022/startelegram-2022-09-18T12:16:16.487817-05:00.hyperlinks.json) |
-| [September 18 at 12:30 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-18T00:30:14.523970-05:00.hyperlinks.json) |
-| [September 17 at 11:54 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-17T11:54:49.981870-05:00.hyperlinks.json) |
-| [September 17 at 12:23 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-17T00:23:47.572805-05:00.hyperlinks.json) |
-| [September 16 at 11:58 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-16T11:58:39.569087-05:00.hyperlinks.json) |
-| [September 16 at 12:33 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-16T00:33:33.276505-05:00.hyperlinks.json) |
-| [September 15 at 12:14 PM](https://archive.org/download/startelegram-2022/startelegram-2022-09-15T12:14:31.907331-05:00.hyperlinks.json) |
-| [September 15 at 12:31 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-15T00:31:28.627281-05:00.hyperlinks.json) |
+| [September 28 at 2:52 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-28T02:52:14.000096-05:00.hyperlinks.json) |
+| [September 27 at 2:41 PM](https://archive.org/download/startelegram-2022/startelegram-2022-09-27T14:40:50.571975-05:00.hyperlinks.json) |
+| [September 27 at 2:02 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-27T02:02:32.638647-05:00.hyperlinks.json) |
+| [September 26 at 2:07 PM](https://archive.org/download/startelegram-2022/startelegram-2022-09-26T14:06:51.499168-05:00.hyperlinks.json) |
+| [September 26 at 2:29 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-26T02:29:01.618942-05:00.hyperlinks.json) |
+| [September 25 at 1:45 PM](https://archive.org/download/startelegram-2022/startelegram-2022-09-25T13:44:57.950375-05:00.hyperlinks.json) |
+| [September 25 at 1:59 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-25T01:58:59.478019-05:00.hyperlinks.json) |
+| [September 24 at 1:36 PM](https://archive.org/download/startelegram-2022/startelegram-2022-09-24T13:36:46.834610-05:00.hyperlinks.json) |
+| [September 24 at 1:59 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-24T01:59:18.242397-05:00.hyperlinks.json) |
+| [September 23 at 2:17 PM](https://archive.org/download/startelegram-2022/startelegram-2022-09-23T14:17:33.706006-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 128 accessibility trees with the Internet Archive.
+The archiving routine has saved 145 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 12:27 PM](https://archive.org/download/startelegram-2022/startelegram-2022-09-19T12:27:04.098884-05:00.accessibility.json) |
-| [September 19 at 12:58 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-19T00:58:05.572118-05:00.accessibility.json) |
-| [September 18 at 12:16 PM](https://archive.org/download/startelegram-2022/startelegram-2022-09-18T12:16:16.487817-05:00.accessibility.json) |
-| [September 18 at 12:30 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-18T00:30:14.523970-05:00.accessibility.json) |
-| [September 17 at 11:54 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-17T11:54:49.981870-05:00.accessibility.json) |
-| [September 17 at 12:23 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-17T00:23:47.572805-05:00.accessibility.json) |
-| [September 16 at 11:58 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-16T11:58:39.569087-05:00.accessibility.json) |
-| [September 16 at 12:33 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-16T00:33:33.276505-05:00.accessibility.json) |
-| [September 15 at 12:14 PM](https://archive.org/download/startelegram-2022/startelegram-2022-09-15T12:14:31.907331-05:00.accessibility.json) |
-| [September 15 at 12:31 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-15T00:31:28.627281-05:00.accessibility.json) |
+| [September 28 at 2:52 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-28T02:52:14.000096-05:00.accessibility.json) |
+| [September 27 at 2:40 PM](https://archive.org/download/startelegram-2022/startelegram-2022-09-27T14:40:50.571975-05:00.accessibility.json) |
+| [September 27 at 2:02 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-27T02:02:32.638647-05:00.accessibility.json) |
+| [September 26 at 2:07 PM](https://archive.org/download/startelegram-2022/startelegram-2022-09-26T14:06:51.499168-05:00.accessibility.json) |
+| [September 26 at 2:29 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-26T02:29:01.618942-05:00.accessibility.json) |
+| [September 25 at 1:45 PM](https://archive.org/download/startelegram-2022/startelegram-2022-09-25T13:44:57.950375-05:00.accessibility.json) |
+| [September 25 at 1:59 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-25T01:58:59.478019-05:00.accessibility.json) |
+| [September 24 at 1:36 PM](https://archive.org/download/startelegram-2022/startelegram-2022-09-24T13:36:46.834610-05:00.accessibility.json) |
+| [September 24 at 1:59 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-24T01:59:18.242397-05:00.accessibility.json) |
+| [September 23 at 2:17 PM](https://archive.org/download/startelegram-2022/startelegram-2022-09-23T14:17:33.706006-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 115 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 12:27 PM](https://archive.org/download/startelegram-2022/startelegram-2022-09-19T12:27:04.098884-05:00.lighthouse.json) |
-| [September 19 at 12:58 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-19T00:58:05.572118-05:00.lighthouse.json) |
-| [September 18 at 12:16 PM](https://archive.org/download/startelegram-2022/startelegram-2022-09-18T12:16:16.487817-05:00.lighthouse.json) |
-| [September 18 at 12:30 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-18T00:30:14.523970-05:00.lighthouse.json) |
-| [September 17 at 11:54 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-17T11:54:49.981870-05:00.lighthouse.json) |
-| [September 17 at 12:23 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-17T00:23:47.572805-05:00.lighthouse.json) |
-| [September 16 at 11:58 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-16T11:58:39.569087-05:00.lighthouse.json) |
-| [September 16 at 12:33 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-16T00:33:33.276505-05:00.lighthouse.json) |
-| [September 15 at 12:14 PM](https://archive.org/download/startelegram-2022/startelegram-2022-09-15T12:14:31.907331-05:00.lighthouse.json) |
-| [September 15 at 12:31 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-15T00:31:28.627281-05:00.lighthouse.json) |
+| [September 28 at 2:52 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-28T02:52:14.000096-05:00.lighthouse.json) |
+| [September 27 at 2:41 PM](https://archive.org/download/startelegram-2022/startelegram-2022-09-27T14:40:50.571975-05:00.lighthouse.json) |
+| [September 27 at 2:02 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-27T02:02:32.638647-05:00.lighthouse.json) |
+| [September 26 at 2:07 PM](https://archive.org/download/startelegram-2022/startelegram-2022-09-26T14:06:51.499168-05:00.lighthouse.json) |
+| [September 26 at 2:29 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-26T02:29:01.618942-05:00.lighthouse.json) |
+| [September 25 at 1:45 PM](https://archive.org/download/startelegram-2022/startelegram-2022-09-25T13:44:57.950375-05:00.lighthouse.json) |
+| [September 25 at 1:59 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-25T01:58:59.478019-05:00.lighthouse.json) |
+| [September 24 at 1:36 PM](https://archive.org/download/startelegram-2022/startelegram-2022-09-24T13:36:46.834610-05:00.lighthouse.json) |
+| [September 24 at 1:59 AM](https://archive.org/download/startelegram-2022/startelegram-2022-09-24T01:59:18.242397-05:00.lighthouse.json) |
+| [September 23 at 2:17 PM](https://archive.org/download/startelegram-2022/startelegram-2022-09-23T14:17:33.706006-05:00.lighthouse.json) |
 
 
 

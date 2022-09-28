@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 160 screenshots with the Internet Archive.
+The archiving routine has saved 162 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,6 +120,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-28T01:17:16.225799-05:00.jpg">
+  <img src="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-28T01:17:16.225799-05:00.jpg"
+     alt="Dallas Free Press at 2022-09-28 01:17:21-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-28T01:17:16.225799-05:00.jpg">September 28 at 1:17 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-27T12:50:30.380788-05:00.jpg">
+  <img src="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-27T12:50:30.380788-05:00.jpg"
+     alt="Dallas Free Press at 2022-09-27 12:50:32-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-27T12:50:30.380788-05:00.jpg">September 27 at 12:50 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-26T12:41:45.290696-05:00.jpg">
   <img src="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-26T12:41:45.290696-05:00.jpg"
      alt="Dallas Free Press at 2022-09-26 12:42:03-05:00 local time"
@@ -209,29 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-22T01:02:18.825254-05:00.jpg">September 22 at 1:02 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-21T12:36:29.629816-05:00.jpg">
-  <img src="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-21T12:36:29.629816-05:00.jpg"
-     alt="Dallas Free Press at 2022-09-21 12:36:37-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-21T12:36:29.629816-05:00.jpg">September 21 at 12:36 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-21T00:47:20.071064-05:00.jpg">
-  <img src="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-21T00:47:20.071064-05:00.jpg"
-     alt="Dallas Free Press at 2022-09-21 00:47:21-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-21T00:47:20.071064-05:00.jpg">September 21 at 12:47 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 162 hyperlink lists with the Internet Archive.
+The archiving routine has saved 164 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 1:17 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-28T01:17:16.225799-05:00.hyperlinks.json) |
+| [September 27 at 12:50 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-27T12:50:30.380788-05:00.hyperlinks.json) |
 | [September 27 at 1:58 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-27T01:58:02.054843-05:00.hyperlinks.json) |
 | [September 26 at 12:42 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-26T12:41:45.290696-05:00.hyperlinks.json) |
 | [September 26 at 1:12 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-26T01:12:27.933263-05:00.hyperlinks.json) |
@@ -330,13 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 12:22 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-24T12:22:06.376982-05:00.hyperlinks.json) |
 | [September 24 at 12:47 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-24T00:47:48.682266-05:00.hyperlinks.json) |
 | [September 23 at 12:36 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-23T12:36:46.039457-05:00.hyperlinks.json) |
-| [September 23 at 2:13 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-23T02:13:08.611458-05:00.hyperlinks.json) |
-| [September 22 at 12:36 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-22T12:36:18.920836-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 162 accessibility trees with the Internet Archive.
+The archiving routine has saved 164 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 1:17 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-28T01:17:16.225799-05:00.accessibility.json) |
+| [September 27 at 12:50 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-27T12:50:30.380788-05:00.accessibility.json) |
 | [September 27 at 1:58 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-27T01:58:02.054843-05:00.accessibility.json) |
 | [September 26 at 12:42 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-26T12:41:45.290696-05:00.accessibility.json) |
 | [September 26 at 1:12 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-26T01:12:27.933263-05:00.accessibility.json) |
@@ -435,14 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 12:22 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-24T12:22:06.376982-05:00.accessibility.json) |
 | [September 24 at 12:47 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-24T00:47:48.682266-05:00.accessibility.json) |
 | [September 23 at 12:36 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-23T12:36:46.039457-05:00.accessibility.json) |
-| [September 23 at 2:13 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-23T02:13:08.611458-05:00.accessibility.json) |
-| [September 22 at 12:36 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-22T12:36:18.920836-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 131 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 1:17 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-28T01:17:16.225799-05:00.lighthouse.json) |
+| [September 27 at 12:50 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-27T12:50:30.380788-05:00.lighthouse.json) |
 | [September 27 at 1:58 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-27T01:58:02.054843-05:00.lighthouse.json) |
 | [September 26 at 12:42 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-26T12:41:45.290696-05:00.lighthouse.json) |
 | [September 26 at 1:12 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-26T01:12:27.933263-05:00.lighthouse.json) |
@@ -541,8 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 12:22 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-24T12:22:06.376982-05:00.lighthouse.json) |
 | [September 24 at 12:47 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-24T00:47:48.682266-05:00.lighthouse.json) |
 | [September 23 at 12:36 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-23T12:36:46.039457-05:00.lighthouse.json) |
-| [September 23 at 2:13 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-23T02:13:08.611458-05:00.lighthouse.json) |
-| [September 22 at 12:36 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-09-22T12:36:18.920836-05:00.lighthouse.json) |
 
 
 

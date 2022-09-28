@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 184 screenshots with the Internet Archive.
+The archiving routine has saved 185 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 184 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mashable-2022/mashable-2022-09-27T23:12:05.674953-07:00.jpg">
+  <img src="https://archive.org/download/mashable-2022/mashable-2022-09-27T23:12:05.674953-07:00.jpg"
+     alt="Mashable at 2022-09-27 23:12:12-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mashable-2022/mashable-2022-09-27T23:12:05.674953-07:00.jpg">September 27 at 11:12 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mashable-2022/mashable-2022-09-27T10:41:50.730395-07:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mashable-2022/mashable-2022-09-22T10:26:28.373343-07:00.jpg">September 22 at 10:26 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mashable-2022/mashable-2022-09-21T22:56:10.373730-07:00.jpg">
-  <img src="https://archive.org/download/mashable-2022/mashable-2022-09-21T22:56:10.373730-07:00.jpg"
-     alt="Mashable at 2022-09-21 22:56:17-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mashable-2022/mashable-2022-09-21T22:56:10.373730-07:00.jpg">September 21 at 10:56 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 181 hyperlink lists with the Internet Archive.
+The archiving routine has saved 182 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 27 at 11:12 PM](https://archive.org/download/mashable-2022/mashable-2022-09-27T23:12:05.674953-07:00.hyperlinks.json) |
 | [September 27 at 10:41 AM](https://archive.org/download/mashable-2022/mashable-2022-09-27T10:41:50.730395-07:00.hyperlinks.json) |
 | [September 26 at 10:44 PM](https://archive.org/download/mashable-2022/mashable-2022-09-26T22:44:18.649358-07:00.hyperlinks.json) |
 | [September 26 at 10:33 AM](https://archive.org/download/mashable-2022/mashable-2022-09-26T10:33:21.453959-07:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 10:14 AM](https://archive.org/download/mashable-2022/mashable-2022-09-24T10:14:38.019611-07:00.hyperlinks.json) |
 | [September 23 at 10:40 PM](https://archive.org/download/mashable-2022/mashable-2022-09-23T22:40:33.263626-07:00.hyperlinks.json) |
 | [September 23 at 10:27 AM](https://archive.org/download/mashable-2022/mashable-2022-09-23T10:26:52.308399-07:00.hyperlinks.json) |
-| [September 22 at 10:23 PM](https://archive.org/download/mashable-2022/mashable-2022-09-22T22:23:41.979275-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 184 accessibility trees with the Internet Archive.
+The archiving routine has saved 185 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 27 at 11:12 PM](https://archive.org/download/mashable-2022/mashable-2022-09-27T23:12:05.674953-07:00.accessibility.json) |
 | [September 27 at 10:41 AM](https://archive.org/download/mashable-2022/mashable-2022-09-27T10:41:50.730395-07:00.accessibility.json) |
 | [September 26 at 10:44 PM](https://archive.org/download/mashable-2022/mashable-2022-09-26T22:44:18.649358-07:00.accessibility.json) |
 | [September 26 at 10:33 AM](https://archive.org/download/mashable-2022/mashable-2022-09-26T10:33:21.453959-07:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 10:14 AM](https://archive.org/download/mashable-2022/mashable-2022-09-24T10:14:38.019611-07:00.accessibility.json) |
 | [September 23 at 10:40 PM](https://archive.org/download/mashable-2022/mashable-2022-09-23T22:40:33.263626-07:00.accessibility.json) |
 | [September 23 at 10:27 AM](https://archive.org/download/mashable-2022/mashable-2022-09-23T10:26:52.308399-07:00.accessibility.json) |
-| [September 22 at 10:23 PM](https://archive.org/download/mashable-2022/mashable-2022-09-22T22:23:41.979275-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 131 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 27 at 11:12 PM](https://archive.org/download/mashable-2022/mashable-2022-09-27T23:12:05.674953-07:00.lighthouse.json) |
 | [September 27 at 10:41 AM](https://archive.org/download/mashable-2022/mashable-2022-09-27T10:41:50.730395-07:00.lighthouse.json) |
 | [September 26 at 10:44 PM](https://archive.org/download/mashable-2022/mashable-2022-09-26T22:44:18.649358-07:00.lighthouse.json) |
 | [September 26 at 10:33 AM](https://archive.org/download/mashable-2022/mashable-2022-09-26T10:33:21.453959-07:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 10:14 AM](https://archive.org/download/mashable-2022/mashable-2022-09-24T10:14:38.019611-07:00.lighthouse.json) |
 | [September 23 at 10:40 PM](https://archive.org/download/mashable-2022/mashable-2022-09-23T22:40:33.263626-07:00.lighthouse.json) |
 | [September 23 at 10:27 AM](https://archive.org/download/mashable-2022/mashable-2022-09-23T10:26:52.308399-07:00.lighthouse.json) |
-| [September 22 at 10:23 PM](https://archive.org/download/mashable-2022/mashable-2022-09-22T22:23:41.979275-07:00.lighthouse.json) |
 
 
 

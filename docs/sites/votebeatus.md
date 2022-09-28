@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 218 screenshots with the Internet Archive.
+The archiving routine has saved 235 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-19T11:01:25.741883-04:00.jpg">
-  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-19T11:01:25.741883-04:00.jpg"
-     alt="Votebeat at 2022-09-19 11:01:28-04:00 local time"
+ <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-28T02:06:19.446003-04:00.jpg">
+  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-28T02:06:19.446003-04:00.jpg"
+     alt="Votebeat at 2022-09-28 02:06:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-19T11:01:25.741883-04:00.jpg">September 19 at 11:01 AM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-28T02:06:19.446003-04:00.jpg">September 28 at 2:06 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-18T23:43:27.318560-04:00.jpg">
-  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-18T23:43:27.318560-04:00.jpg"
-     alt="Votebeat at 2022-09-18 23:43:29-04:00 local time"
+ <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-27T12:08:49.989735-04:00.jpg">
+  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-27T12:08:49.989735-04:00.jpg"
+     alt="Votebeat at 2022-09-27 12:08:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-18T23:43:27.318560-04:00.jpg">September 18 at 11:43 PM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-27T12:08:49.989735-04:00.jpg">September 27 at 12:08 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-18T10:03:15.940076-04:00.jpg">
-  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-18T10:03:15.940076-04:00.jpg"
-     alt="Votebeat at 2022-09-18 10:03:22-04:00 local time"
+ <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-27T00:31:54.856697-04:00.jpg">
+  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-27T00:31:54.856697-04:00.jpg"
+     alt="Votebeat at 2022-09-27 00:32:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-18T10:03:15.940076-04:00.jpg">September 18 at 10:03 AM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-27T00:31:54.856697-04:00.jpg">September 27 at 12:32 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-17T22:29:36.210477-04:00.jpg">
-  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-17T22:29:36.210477-04:00.jpg"
-     alt="Votebeat at 2022-09-17 22:29:42-04:00 local time"
+ <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-26T12:08:29.570421-04:00.jpg">
+  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-26T12:08:29.570421-04:00.jpg"
+     alt="Votebeat at 2022-09-26 12:08:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-17T22:29:36.210477-04:00.jpg">September 17 at 10:29 PM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-26T12:08:29.570421-04:00.jpg">September 26 at 12:08 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-17T10:01:29.767239-04:00.jpg">
-  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-17T10:01:29.767239-04:00.jpg"
-     alt="Votebeat at 2022-09-17 10:01:37-04:00 local time"
+ <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-26T00:50:05.226507-04:00.jpg">
+  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-26T00:50:05.226507-04:00.jpg"
+     alt="Votebeat at 2022-09-26 00:50:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-17T10:01:29.767239-04:00.jpg">September 17 at 10:01 AM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-26T00:50:05.226507-04:00.jpg">September 26 at 12:50 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-16T22:26:51.013587-04:00.jpg">
-  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-16T22:26:51.013587-04:00.jpg"
-     alt="Votebeat at 2022-09-16 22:26:58-04:00 local time"
+ <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-25T11:54:48.081274-04:00.jpg">
+  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-25T11:54:48.081274-04:00.jpg"
+     alt="Votebeat at 2022-09-25 11:54:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-16T22:26:51.013587-04:00.jpg">September 16 at 10:26 PM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-25T11:54:48.081274-04:00.jpg">September 25 at 11:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-16T10:08:51.708235-04:00.jpg">
-  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-16T10:08:51.708235-04:00.jpg"
-     alt="Votebeat at 2022-09-16 10:08:57-04:00 local time"
+ <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-25T00:31:15.968320-04:00.jpg">
+  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-25T00:31:15.968320-04:00.jpg"
+     alt="Votebeat at 2022-09-25 00:31:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-16T10:08:51.708235-04:00.jpg">September 16 at 10:08 AM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-25T00:31:15.968320-04:00.jpg">September 25 at 12:31 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-15T22:27:37.709186-04:00.jpg">
-  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-15T22:27:37.709186-04:00.jpg"
-     alt="Votebeat at 2022-09-15 22:27:46-04:00 local time"
+ <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-24T11:52:42.025819-04:00.jpg">
+  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-24T11:52:42.025819-04:00.jpg"
+     alt="Votebeat at 2022-09-24 11:52:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-15T22:27:37.709186-04:00.jpg">September 15 at 10:27 PM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-24T11:52:42.025819-04:00.jpg">September 24 at 11:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-15T10:14:36.850644-04:00.jpg">
-  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-15T10:14:36.850644-04:00.jpg"
-     alt="Votebeat at 2022-09-15 10:14:46-04:00 local time"
+ <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-24T00:33:49.582434-04:00.jpg">
+  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-24T00:33:49.582434-04:00.jpg"
+     alt="Votebeat at 2022-09-24 00:33:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-15T10:14:36.850644-04:00.jpg">September 15 at 10:14 AM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-24T00:33:49.582434-04:00.jpg">September 24 at 12:33 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-14T22:29:59.087206-04:00.jpg">
-  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-14T22:29:59.087206-04:00.jpg"
-     alt="Votebeat at 2022-09-14 22:30:06-04:00 local time"
+ <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-23T12:00:44.880840-04:00.jpg">
+  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-23T12:00:44.880840-04:00.jpg"
+     alt="Votebeat at 2022-09-23 12:01:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-14T22:29:59.087206-04:00.jpg">September 14 at 10:30 PM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-23T12:00:44.880840-04:00.jpg">September 23 at 12:01 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-14T10:15:39.019215-04:00.jpg">
-  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-14T10:15:39.019215-04:00.jpg"
-     alt="Votebeat at 2022-09-14 10:15:48-04:00 local time"
+ <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-23T01:17:28.586399-04:00.jpg">
+  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-23T01:17:28.586399-04:00.jpg"
+     alt="Votebeat at 2022-09-23 01:17:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-14T10:15:39.019215-04:00.jpg">September 14 at 10:15 AM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-23T01:17:28.586399-04:00.jpg">September 23 at 1:17 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-13T22:27:36.739964-04:00.jpg">
-  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-13T22:27:36.739964-04:00.jpg"
-     alt="Votebeat at 2022-09-13 22:27:44-04:00 local time"
+ <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-22T12:03:47.081810-04:00.jpg">
+  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-22T12:03:47.081810-04:00.jpg"
+     alt="Votebeat at 2022-09-22 12:04:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-13T22:27:36.739964-04:00.jpg">September 13 at 10:27 PM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-09-22T12:03:47.081810-04:00.jpg">September 22 at 12:04 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 220 hyperlink lists with the Internet Archive.
+The archiving routine has saved 237 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 11:01 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-19T11:01:25.741883-04:00.hyperlinks.json) |
-| [September 18 at 11:43 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-18T23:43:27.318560-04:00.hyperlinks.json) |
-| [September 18 at 10:03 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-18T10:03:15.940076-04:00.hyperlinks.json) |
-| [September 17 at 10:29 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-17T22:29:36.210477-04:00.hyperlinks.json) |
-| [September 17 at 10:01 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-17T10:01:29.767239-04:00.hyperlinks.json) |
-| [September 16 at 10:27 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-16T22:26:51.013587-04:00.hyperlinks.json) |
-| [September 16 at 10:09 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-16T10:08:51.708235-04:00.hyperlinks.json) |
-| [September 15 at 10:27 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-15T22:27:37.709186-04:00.hyperlinks.json) |
-| [September 15 at 10:14 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-15T10:14:36.850644-04:00.hyperlinks.json) |
-| [September 14 at 10:30 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-14T22:29:59.087206-04:00.hyperlinks.json) |
+| [September 28 at 2:06 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-28T02:06:19.446003-04:00.hyperlinks.json) |
+| [September 27 at 12:08 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-27T12:08:49.989735-04:00.hyperlinks.json) |
+| [September 27 at 12:32 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-27T00:31:54.856697-04:00.hyperlinks.json) |
+| [September 26 at 12:09 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-26T12:08:29.570421-04:00.hyperlinks.json) |
+| [September 26 at 12:50 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-26T00:50:05.226507-04:00.hyperlinks.json) |
+| [September 25 at 11:55 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-25T11:54:48.081274-04:00.hyperlinks.json) |
+| [September 25 at 12:31 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-25T00:31:15.968320-04:00.hyperlinks.json) |
+| [September 24 at 11:52 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-24T11:52:42.025819-04:00.hyperlinks.json) |
+| [September 24 at 12:34 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-24T00:33:49.582434-04:00.hyperlinks.json) |
+| [September 23 at 12:01 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-23T12:00:44.880840-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 220 accessibility trees with the Internet Archive.
+The archiving routine has saved 237 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 11:01 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-19T11:01:25.741883-04:00.accessibility.json) |
-| [September 18 at 11:43 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-18T23:43:27.318560-04:00.accessibility.json) |
-| [September 18 at 10:03 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-18T10:03:15.940076-04:00.accessibility.json) |
-| [September 17 at 10:29 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-17T22:29:36.210477-04:00.accessibility.json) |
-| [September 17 at 10:01 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-17T10:01:29.767239-04:00.accessibility.json) |
-| [September 16 at 10:27 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-16T22:26:51.013587-04:00.accessibility.json) |
-| [September 16 at 10:08 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-16T10:08:51.708235-04:00.accessibility.json) |
-| [September 15 at 10:27 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-15T22:27:37.709186-04:00.accessibility.json) |
-| [September 15 at 10:14 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-15T10:14:36.850644-04:00.accessibility.json) |
-| [September 14 at 10:30 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-14T22:29:59.087206-04:00.accessibility.json) |
+| [September 28 at 2:06 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-28T02:06:19.446003-04:00.accessibility.json) |
+| [September 27 at 12:08 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-27T12:08:49.989735-04:00.accessibility.json) |
+| [September 27 at 12:32 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-27T00:31:54.856697-04:00.accessibility.json) |
+| [September 26 at 12:08 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-26T12:08:29.570421-04:00.accessibility.json) |
+| [September 26 at 12:50 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-26T00:50:05.226507-04:00.accessibility.json) |
+| [September 25 at 11:54 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-25T11:54:48.081274-04:00.accessibility.json) |
+| [September 25 at 12:31 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-25T00:31:15.968320-04:00.accessibility.json) |
+| [September 24 at 11:52 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-24T11:52:42.025819-04:00.accessibility.json) |
+| [September 24 at 12:33 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-24T00:33:49.582434-04:00.accessibility.json) |
+| [September 23 at 12:01 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-23T12:00:44.880840-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 117 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 11:01 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-19T11:01:25.741883-04:00.lighthouse.json) |
-| [September 18 at 11:43 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-18T23:43:27.318560-04:00.lighthouse.json) |
-| [September 18 at 10:03 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-18T10:03:15.940076-04:00.lighthouse.json) |
-| [September 17 at 10:29 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-17T22:29:36.210477-04:00.lighthouse.json) |
-| [September 17 at 10:01 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-17T10:01:29.767239-04:00.lighthouse.json) |
-| [September 16 at 10:27 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-16T22:26:51.013587-04:00.lighthouse.json) |
-| [September 16 at 10:09 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-16T10:08:51.708235-04:00.lighthouse.json) |
-| [September 15 at 10:27 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-15T22:27:37.709186-04:00.lighthouse.json) |
-| [September 15 at 10:14 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-15T10:14:36.850644-04:00.lighthouse.json) |
-| [September 14 at 10:30 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-14T22:29:59.087206-04:00.lighthouse.json) |
+| [September 28 at 2:06 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-28T02:06:19.446003-04:00.lighthouse.json) |
+| [September 27 at 12:08 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-27T12:08:49.989735-04:00.lighthouse.json) |
+| [September 27 at 12:32 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-27T00:31:54.856697-04:00.lighthouse.json) |
+| [September 26 at 12:09 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-26T12:08:29.570421-04:00.lighthouse.json) |
+| [September 26 at 12:50 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-26T00:50:05.226507-04:00.lighthouse.json) |
+| [September 25 at 11:55 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-25T11:54:48.081274-04:00.lighthouse.json) |
+| [September 25 at 12:31 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-25T00:31:15.968320-04:00.lighthouse.json) |
+| [September 24 at 11:52 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-24T11:52:42.025819-04:00.lighthouse.json) |
+| [September 24 at 12:34 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-24T00:33:49.582434-04:00.lighthouse.json) |
+| [September 23 at 12:01 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-09-23T12:00:44.880840-04:00.lighthouse.json) |
 
 
 

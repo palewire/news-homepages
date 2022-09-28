@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 208 screenshots with the Internet Archive.
+The archiving routine has saved 211 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,6 +120,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/bariweiss-2022/bariweiss-2022-09-27T23:03:58.377592-07:00.jpg">
+  <img src="https://archive.org/download/bariweiss-2022/bariweiss-2022-09-27T23:03:58.377592-07:00.jpg"
+     alt="Common Sense at 2022-09-27 23:04:00-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bariweiss-2022/bariweiss-2022-09-27T23:03:58.377592-07:00.jpg">September 27 at 11:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bariweiss-2022/bariweiss-2022-09-27T12:46:33.750209-07:00.jpg">
+  <img src="https://archive.org/download/bariweiss-2022/bariweiss-2022-09-27T12:46:33.750209-07:00.jpg"
+     alt="Common Sense at 2022-09-27 12:47:02-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bariweiss-2022/bariweiss-2022-09-27T12:46:33.750209-07:00.jpg">September 27 at 12:47 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bariweiss-2022/bariweiss-2022-09-27T09:06:04.318278-07:00.jpg">
+  <img src="https://archive.org/download/bariweiss-2022/bariweiss-2022-09-27T09:06:04.318278-07:00.jpg"
+     alt="Common Sense at 2022-09-27 09:06:06-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bariweiss-2022/bariweiss-2022-09-27T09:06:04.318278-07:00.jpg">September 27 at 9:06 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/bariweiss-2022/bariweiss-2022-09-26T21:29:12.838221-07:00.jpg">
   <img src="https://archive.org/download/bariweiss-2022/bariweiss-2022-09-26T21:29:12.838221-07:00.jpg"
      alt="Common Sense at 2022-09-26 21:29:16-07:00 local time"
@@ -200,38 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bariweiss-2022/bariweiss-2022-09-24T08:49:03.101447-07:00.jpg">September 24 at 8:49 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bariweiss-2022/bariweiss-2022-09-23T21:29:37.904023-07:00.jpg">
-  <img src="https://archive.org/download/bariweiss-2022/bariweiss-2022-09-23T21:29:37.904023-07:00.jpg"
-     alt="Common Sense at 2022-09-23 21:29:52-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bariweiss-2022/bariweiss-2022-09-23T21:29:37.904023-07:00.jpg">September 23 at 9:29 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bariweiss-2022/bariweiss-2022-09-23T12:25:44.225878-07:00.jpg">
-  <img src="https://archive.org/download/bariweiss-2022/bariweiss-2022-09-23T12:25:44.225878-07:00.jpg"
-     alt="Common Sense at 2022-09-23 12:25:50-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bariweiss-2022/bariweiss-2022-09-23T12:25:44.225878-07:00.jpg">September 23 at 12:25 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bariweiss-2022/bariweiss-2022-09-23T08:58:16.854191-07:00.jpg">
-  <img src="https://archive.org/download/bariweiss-2022/bariweiss-2022-09-23T08:58:16.854191-07:00.jpg"
-     alt="Common Sense at 2022-09-23 08:58:30-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bariweiss-2022/bariweiss-2022-09-23T08:58:16.854191-07:00.jpg">September 23 at 8:58 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 209 hyperlink lists with the Internet Archive.
+The archiving routine has saved 212 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 27 at 11:04 PM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-27T23:03:58.377592-07:00.hyperlinks.json) |
+| [September 27 at 12:47 PM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-27T12:46:33.750209-07:00.hyperlinks.json) |
+| [September 27 at 9:06 AM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-27T09:06:04.318278-07:00.hyperlinks.json) |
 | [September 26 at 9:29 PM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-26T21:29:12.838221-07:00.hyperlinks.json) |
 | [September 26 at 12:46 PM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-26T12:46:48.005384-07:00.hyperlinks.json) |
 | [September 26 at 9:06 AM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-26T09:05:52.823294-07:00.hyperlinks.json) |
@@ -329,14 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 12:08 PM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-25T12:08:07.603298-07:00.hyperlinks.json) |
 | [September 25 at 8:51 AM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-25T08:51:05.917370-07:00.hyperlinks.json) |
 | [September 24 at 9:28 PM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-24T21:28:21.986614-07:00.hyperlinks.json) |
-| [September 24 at 12:03 PM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-24T12:02:55.876230-07:00.hyperlinks.json) |
-| [September 24 at 8:49 AM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-24T08:49:03.101447-07:00.hyperlinks.json) |
-| [September 23 at 9:29 PM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-23T21:29:37.904023-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 209 accessibility trees with the Internet Archive.
+The archiving routine has saved 212 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 27 at 11:04 PM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-27T23:03:58.377592-07:00.accessibility.json) |
+| [September 27 at 12:47 PM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-27T12:46:33.750209-07:00.accessibility.json) |
+| [September 27 at 9:06 AM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-27T09:06:04.318278-07:00.accessibility.json) |
 | [September 26 at 9:29 PM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-26T21:29:12.838221-07:00.accessibility.json) |
 | [September 26 at 12:46 PM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-26T12:46:48.005384-07:00.accessibility.json) |
 | [September 26 at 9:06 AM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-26T09:05:52.823294-07:00.accessibility.json) |
@@ -434,15 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 12:08 PM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-25T12:08:07.603298-07:00.accessibility.json) |
 | [September 25 at 8:51 AM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-25T08:51:05.917370-07:00.accessibility.json) |
 | [September 24 at 9:28 PM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-24T21:28:21.986614-07:00.accessibility.json) |
-| [September 24 at 12:03 PM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-24T12:02:55.876230-07:00.accessibility.json) |
-| [September 24 at 8:49 AM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-24T08:49:03.101447-07:00.accessibility.json) |
-| [September 23 at 9:29 PM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-23T21:29:37.904023-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 192 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 195 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 27 at 11:04 PM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-27T23:03:58.377592-07:00.lighthouse.json) |
+| [September 27 at 12:47 PM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-27T12:46:33.750209-07:00.lighthouse.json) |
+| [September 27 at 9:06 AM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-27T09:06:04.318278-07:00.lighthouse.json) |
 | [September 26 at 9:29 PM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-26T21:29:12.838221-07:00.lighthouse.json) |
 | [September 26 at 12:46 PM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-26T12:46:48.005384-07:00.lighthouse.json) |
 | [September 26 at 9:06 AM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-26T09:05:52.823294-07:00.lighthouse.json) |
@@ -540,9 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 12:08 PM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-25T12:08:07.603298-07:00.lighthouse.json) |
 | [September 25 at 8:51 AM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-25T08:51:05.917370-07:00.lighthouse.json) |
 | [September 24 at 9:28 PM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-24T21:28:21.986614-07:00.lighthouse.json) |
-| [September 24 at 12:03 PM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-24T12:02:55.876230-07:00.lighthouse.json) |
-| [September 24 at 8:49 AM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-24T08:49:03.101447-07:00.lighthouse.json) |
-| [September 23 at 9:29 PM](https://archive.org/download/bariweiss-2022/bariweiss-2022-09-23T21:29:37.904023-07:00.lighthouse.json) |
 
 
 

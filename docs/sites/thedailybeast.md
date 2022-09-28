@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 115 screenshots with the Internet Archive.
+The archiving routine has saved 131 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-19T13:27:06.192994-04:00.jpg">
-  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-19T13:27:06.192994-04:00.jpg"
-     alt="Daily Beast at 2022-09-19 13:27:08-04:00 local time"
+ <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-28T03:54:09.472695-04:00.jpg">
+  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-28T03:54:09.472695-04:00.jpg"
+     alt="Daily Beast at 2022-09-28 03:54:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-19T13:27:06.192994-04:00.jpg">September 19 at 1:27 PM</a></p>
+ <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-28T03:54:09.472695-04:00.jpg">September 28 at 3:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-19T01:58:52.199929-04:00.jpg">
-  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-19T01:58:52.199929-04:00.jpg"
-     alt="Daily Beast at 2022-09-19 01:58:53-04:00 local time"
+ <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-27T15:41:37.111500-04:00.jpg">
+  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-27T15:41:37.111500-04:00.jpg"
+     alt="Daily Beast at 2022-09-27 15:41:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-19T01:58:52.199929-04:00.jpg">September 19 at 1:58 AM</a></p>
+ <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-27T15:41:37.111500-04:00.jpg">September 27 at 3:41 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-18T13:18:41.373887-04:00.jpg">
-  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-18T13:18:41.373887-04:00.jpg"
-     alt="Daily Beast at 2022-09-18 13:18:45-04:00 local time"
+ <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-27T03:03:20.842783-04:00.jpg">
+  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-27T03:03:20.842783-04:00.jpg"
+     alt="Daily Beast at 2022-09-27 03:03:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-18T13:18:41.373887-04:00.jpg">September 18 at 1:18 PM</a></p>
+ <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-27T03:03:20.842783-04:00.jpg">September 27 at 3:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-18T01:30:10.161698-04:00.jpg">
-  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-18T01:30:10.161698-04:00.jpg"
-     alt="Daily Beast at 2022-09-18 01:30:11-04:00 local time"
+ <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-26T03:29:43.549768-04:00.jpg">
+  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-26T03:29:43.549768-04:00.jpg"
+     alt="Daily Beast at 2022-09-26 03:29:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-18T01:30:10.161698-04:00.jpg">September 18 at 1:30 AM</a></p>
+ <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-26T03:29:43.549768-04:00.jpg">September 26 at 3:29 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-17T12:55:13.210538-04:00.jpg">
-  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-17T12:55:13.210538-04:00.jpg"
-     alt="Daily Beast at 2022-09-17 12:55:16-04:00 local time"
+ <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-25T14:45:27.223818-04:00.jpg">
+  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-25T14:45:27.223818-04:00.jpg"
+     alt="Daily Beast at 2022-09-25 14:45:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-17T12:55:13.210538-04:00.jpg">September 17 at 12:55 PM</a></p>
+ <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-25T14:45:27.223818-04:00.jpg">September 25 at 2:45 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-17T01:23:08.366979-04:00.jpg">
-  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-17T01:23:08.366979-04:00.jpg"
-     alt="Daily Beast at 2022-09-17 01:23:12-04:00 local time"
+ <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-25T03:00:02.403997-04:00.jpg">
+  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-25T03:00:02.403997-04:00.jpg"
+     alt="Daily Beast at 2022-09-25 03:00:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-17T01:23:08.366979-04:00.jpg">September 17 at 1:23 AM</a></p>
+ <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-25T03:00:02.403997-04:00.jpg">September 25 at 3:00 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-16T12:58:58.864688-04:00.jpg">
-  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-16T12:58:58.864688-04:00.jpg"
-     alt="Daily Beast at 2022-09-16 12:59:01-04:00 local time"
+ <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-24T14:38:34.515669-04:00.jpg">
+  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-24T14:38:34.515669-04:00.jpg"
+     alt="Daily Beast at 2022-09-24 14:38:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-16T12:58:58.864688-04:00.jpg">September 16 at 12:59 PM</a></p>
+ <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-24T14:38:34.515669-04:00.jpg">September 24 at 2:38 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-16T01:33:59.755131-04:00.jpg">
-  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-16T01:33:59.755131-04:00.jpg"
-     alt="Daily Beast at 2022-09-16 01:34:04-04:00 local time"
+ <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-24T03:01:00.751924-04:00.jpg">
+  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-24T03:01:00.751924-04:00.jpg"
+     alt="Daily Beast at 2022-09-24 03:01:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-16T01:33:59.755131-04:00.jpg">September 16 at 1:34 AM</a></p>
+ <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-24T03:01:00.751924-04:00.jpg">September 24 at 3:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-15T13:14:46.547041-04:00.jpg">
-  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-15T13:14:46.547041-04:00.jpg"
-     alt="Daily Beast at 2022-09-15 13:14:58-04:00 local time"
+ <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-23T15:18:49.266427-04:00.jpg">
+  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-23T15:18:49.266427-04:00.jpg"
+     alt="Daily Beast at 2022-09-23 15:18:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-15T13:14:46.547041-04:00.jpg">September 15 at 1:14 PM</a></p>
+ <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-23T15:18:49.266427-04:00.jpg">September 23 at 3:18 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-15T01:33:29.457551-04:00.jpg">
-  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-15T01:33:29.457551-04:00.jpg"
-     alt="Daily Beast at 2022-09-15 01:33:34-04:00 local time"
+ <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-23T03:25:03.012452-04:00.jpg">
+  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-23T03:25:03.012452-04:00.jpg"
+     alt="Daily Beast at 2022-09-23 03:25:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-15T01:33:29.457551-04:00.jpg">September 15 at 1:33 AM</a></p>
+ <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-23T03:25:03.012452-04:00.jpg">September 23 at 3:25 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-14T13:17:48.360404-04:00.jpg">
-  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-14T13:17:48.360404-04:00.jpg"
-     alt="Daily Beast at 2022-09-14 13:17:53-04:00 local time"
+ <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-22T14:51:53.982024-04:00.jpg">
+  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-22T14:51:53.982024-04:00.jpg"
+     alt="Daily Beast at 2022-09-22 14:51:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-14T13:17:48.360404-04:00.jpg">September 14 at 1:17 PM</a></p>
+ <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-22T14:51:53.982024-04:00.jpg">September 22 at 2:51 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-14T01:38:09.002994-04:00.jpg">
-  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-14T01:38:09.002994-04:00.jpg"
-     alt="Daily Beast at 2022-09-14 01:38:10-04:00 local time"
+ <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-22T03:28:26.557797-04:00.jpg">
+  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-22T03:28:26.557797-04:00.jpg"
+     alt="Daily Beast at 2022-09-22 03:28:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-14T01:38:09.002994-04:00.jpg">September 14 at 1:38 AM</a></p>
+ <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-22T03:28:26.557797-04:00.jpg">September 22 at 3:28 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 110 hyperlink lists with the Internet Archive.
+The archiving routine has saved 127 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 1:27 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-19T13:27:06.192994-04:00.hyperlinks.json) |
-| [September 19 at 1:58 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-19T01:58:52.199929-04:00.hyperlinks.json) |
-| [September 18 at 1:18 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-18T13:18:41.373887-04:00.hyperlinks.json) |
-| [September 18 at 1:30 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-18T01:30:10.161698-04:00.hyperlinks.json) |
-| [September 17 at 12:55 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-17T12:55:13.210538-04:00.hyperlinks.json) |
-| [September 17 at 1:23 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-17T01:23:08.366979-04:00.hyperlinks.json) |
-| [September 16 at 12:59 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-16T12:58:58.864688-04:00.hyperlinks.json) |
-| [September 16 at 1:34 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-16T01:33:59.755131-04:00.hyperlinks.json) |
-| [September 15 at 1:15 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-15T13:14:46.547041-04:00.hyperlinks.json) |
-| [September 15 at 1:33 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-15T01:33:29.457551-04:00.hyperlinks.json) |
+| [September 28 at 3:54 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-28T03:54:09.472695-04:00.hyperlinks.json) |
+| [September 27 at 3:41 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-27T15:41:37.111500-04:00.hyperlinks.json) |
+| [September 27 at 3:03 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-27T03:03:20.842783-04:00.hyperlinks.json) |
+| [September 26 at 3:08 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-26T15:08:00.178923-04:00.hyperlinks.json) |
+| [September 26 at 3:29 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-26T03:29:43.549768-04:00.hyperlinks.json) |
+| [September 25 at 2:45 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-25T14:45:27.223818-04:00.hyperlinks.json) |
+| [September 25 at 3:00 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-25T03:00:02.403997-04:00.hyperlinks.json) |
+| [September 24 at 2:38 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-24T14:38:34.515669-04:00.hyperlinks.json) |
+| [September 24 at 3:01 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-24T03:01:00.751924-04:00.hyperlinks.json) |
+| [September 23 at 3:18 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-23T15:18:49.266427-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 115 accessibility trees with the Internet Archive.
+The archiving routine has saved 132 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 1:27 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-19T13:27:06.192994-04:00.accessibility.json) |
-| [September 19 at 1:58 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-19T01:58:52.199929-04:00.accessibility.json) |
-| [September 18 at 1:18 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-18T13:18:41.373887-04:00.accessibility.json) |
-| [September 18 at 1:30 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-18T01:30:10.161698-04:00.accessibility.json) |
-| [September 17 at 12:55 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-17T12:55:13.210538-04:00.accessibility.json) |
-| [September 17 at 1:23 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-17T01:23:08.366979-04:00.accessibility.json) |
-| [September 16 at 12:59 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-16T12:58:58.864688-04:00.accessibility.json) |
-| [September 16 at 1:34 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-16T01:33:59.755131-04:00.accessibility.json) |
-| [September 15 at 1:15 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-15T13:14:46.547041-04:00.accessibility.json) |
-| [September 15 at 1:33 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-15T01:33:29.457551-04:00.accessibility.json) |
+| [September 28 at 3:54 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-28T03:54:09.472695-04:00.accessibility.json) |
+| [September 27 at 3:41 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-27T15:41:37.111500-04:00.accessibility.json) |
+| [September 27 at 3:03 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-27T03:03:20.842783-04:00.accessibility.json) |
+| [September 26 at 3:08 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-26T15:08:00.178923-04:00.accessibility.json) |
+| [September 26 at 3:29 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-26T03:29:43.549768-04:00.accessibility.json) |
+| [September 25 at 2:45 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-25T14:45:27.223818-04:00.accessibility.json) |
+| [September 25 at 3:00 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-25T03:00:02.403997-04:00.accessibility.json) |
+| [September 24 at 2:38 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-24T14:38:34.515669-04:00.accessibility.json) |
+| [September 24 at 3:01 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-24T03:01:00.751924-04:00.accessibility.json) |
+| [September 23 at 3:18 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-23T15:18:49.266427-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 115 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 1:27 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-19T13:27:06.192994-04:00.lighthouse.json) |
-| [September 19 at 1:58 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-19T01:58:52.199929-04:00.lighthouse.json) |
-| [September 18 at 1:18 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-18T13:18:41.373887-04:00.lighthouse.json) |
-| [September 18 at 1:30 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-18T01:30:10.161698-04:00.lighthouse.json) |
-| [September 17 at 12:55 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-17T12:55:13.210538-04:00.lighthouse.json) |
-| [September 17 at 1:23 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-17T01:23:08.366979-04:00.lighthouse.json) |
-| [September 16 at 12:59 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-16T12:58:58.864688-04:00.lighthouse.json) |
-| [September 16 at 1:34 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-16T01:33:59.755131-04:00.lighthouse.json) |
-| [September 15 at 1:15 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-15T13:14:46.547041-04:00.lighthouse.json) |
-| [September 15 at 1:33 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-15T01:33:29.457551-04:00.lighthouse.json) |
+| [September 28 at 3:54 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-28T03:54:09.472695-04:00.lighthouse.json) |
+| [September 27 at 3:41 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-27T15:41:37.111500-04:00.lighthouse.json) |
+| [September 27 at 3:03 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-27T03:03:20.842783-04:00.lighthouse.json) |
+| [September 26 at 3:08 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-26T15:08:00.178923-04:00.lighthouse.json) |
+| [September 26 at 3:29 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-26T03:29:43.549768-04:00.lighthouse.json) |
+| [September 25 at 2:45 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-25T14:45:27.223818-04:00.lighthouse.json) |
+| [September 25 at 3:00 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-25T03:00:02.403997-04:00.lighthouse.json) |
+| [September 24 at 2:38 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-24T14:38:34.515669-04:00.lighthouse.json) |
+| [September 24 at 3:01 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-24T03:01:00.751924-04:00.lighthouse.json) |
+| [September 23 at 3:18 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-23T15:18:49.266427-04:00.lighthouse.json) |
 
 
 

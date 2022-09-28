@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 95 screenshots with the Internet Archive.
+The archiving routine has saved 112 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-19T11:01:21.557800-04:00.jpg">
-  <img src="https://archive.org/download/wgrz-2022/wgrz-2022-09-19T11:01:21.557800-04:00.jpg"
-     alt="WGRZ at 2022-09-19 11:01:23-04:00 local time"
+ <a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-28T02:08:11.975705-04:00.jpg">
+  <img src="https://archive.org/download/wgrz-2022/wgrz-2022-09-28T02:08:11.975705-04:00.jpg"
+     alt="WGRZ at 2022-09-28 02:08:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-19T11:01:21.557800-04:00.jpg">September 19 at 11:01 AM</a></p>
+ <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-28T02:08:11.975705-04:00.jpg">September 28 at 2:08 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-18T23:44:51.634258-04:00.jpg">
-  <img src="https://archive.org/download/wgrz-2022/wgrz-2022-09-18T23:44:51.634258-04:00.jpg"
-     alt="WGRZ at 2022-09-18 23:44:54-04:00 local time"
+ <a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-27T12:08:32.133592-04:00.jpg">
+  <img src="https://archive.org/download/wgrz-2022/wgrz-2022-09-27T12:08:32.133592-04:00.jpg"
+     alt="WGRZ at 2022-09-27 12:08:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-18T23:44:51.634258-04:00.jpg">September 18 at 11:44 PM</a></p>
+ <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-27T12:08:32.133592-04:00.jpg">September 27 at 12:08 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-18T10:03:51.937678-04:00.jpg">
-  <img src="https://archive.org/download/wgrz-2022/wgrz-2022-09-18T10:03:51.937678-04:00.jpg"
-     alt="WGRZ at 2022-09-18 10:03:53-04:00 local time"
+ <a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-27T00:32:24.092890-04:00.jpg">
+  <img src="https://archive.org/download/wgrz-2022/wgrz-2022-09-27T00:32:24.092890-04:00.jpg"
+     alt="WGRZ at 2022-09-27 00:32:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-18T10:03:51.937678-04:00.jpg">September 18 at 10:03 AM</a></p>
+ <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-27T00:32:24.092890-04:00.jpg">September 27 at 12:32 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-17T22:29:33.886141-04:00.jpg">
-  <img src="https://archive.org/download/wgrz-2022/wgrz-2022-09-17T22:29:33.886141-04:00.jpg"
-     alt="WGRZ at 2022-09-17 22:29:36-04:00 local time"
+ <a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-26T12:10:06.351632-04:00.jpg">
+  <img src="https://archive.org/download/wgrz-2022/wgrz-2022-09-26T12:10:06.351632-04:00.jpg"
+     alt="WGRZ at 2022-09-26 12:10:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-17T22:29:33.886141-04:00.jpg">September 17 at 10:29 PM</a></p>
+ <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-26T12:10:06.351632-04:00.jpg">September 26 at 12:10 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-17T10:01:32.199855-04:00.jpg">
-  <img src="https://archive.org/download/wgrz-2022/wgrz-2022-09-17T10:01:32.199855-04:00.jpg"
-     alt="WGRZ at 2022-09-17 10:01:35-04:00 local time"
+ <a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-26T00:50:04.890185-04:00.jpg">
+  <img src="https://archive.org/download/wgrz-2022/wgrz-2022-09-26T00:50:04.890185-04:00.jpg"
+     alt="WGRZ at 2022-09-26 00:50:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-17T10:01:32.199855-04:00.jpg">September 17 at 10:01 AM</a></p>
+ <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-26T00:50:04.890185-04:00.jpg">September 26 at 12:50 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-16T22:27:15.582896-04:00.jpg">
-  <img src="https://archive.org/download/wgrz-2022/wgrz-2022-09-16T22:27:15.582896-04:00.jpg"
-     alt="WGRZ at 2022-09-16 22:27:18-04:00 local time"
+ <a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-25T11:55:00.206365-04:00.jpg">
+  <img src="https://archive.org/download/wgrz-2022/wgrz-2022-09-25T11:55:00.206365-04:00.jpg"
+     alt="WGRZ at 2022-09-25 11:55:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-16T22:27:15.582896-04:00.jpg">September 16 at 10:27 PM</a></p>
+ <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-25T11:55:00.206365-04:00.jpg">September 25 at 11:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-16T10:08:03.840963-04:00.jpg">
-  <img src="https://archive.org/download/wgrz-2022/wgrz-2022-09-16T10:08:03.840963-04:00.jpg"
-     alt="WGRZ at 2022-09-16 10:08:07-04:00 local time"
+ <a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-25T00:31:16.682019-04:00.jpg">
+  <img src="https://archive.org/download/wgrz-2022/wgrz-2022-09-25T00:31:16.682019-04:00.jpg"
+     alt="WGRZ at 2022-09-25 00:31:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-16T10:08:03.840963-04:00.jpg">September 16 at 10:08 AM</a></p>
+ <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-25T00:31:16.682019-04:00.jpg">September 25 at 12:31 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-15T22:27:24.414653-04:00.jpg">
-  <img src="https://archive.org/download/wgrz-2022/wgrz-2022-09-15T22:27:24.414653-04:00.jpg"
-     alt="WGRZ at 2022-09-15 22:27:28-04:00 local time"
+ <a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-24T11:52:58.825473-04:00.jpg">
+  <img src="https://archive.org/download/wgrz-2022/wgrz-2022-09-24T11:52:58.825473-04:00.jpg"
+     alt="WGRZ at 2022-09-24 11:53:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-15T22:27:24.414653-04:00.jpg">September 15 at 10:27 PM</a></p>
+ <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-24T11:52:58.825473-04:00.jpg">September 24 at 11:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-15T10:14:26.039031-04:00.jpg">
-  <img src="https://archive.org/download/wgrz-2022/wgrz-2022-09-15T10:14:26.039031-04:00.jpg"
-     alt="WGRZ at 2022-09-15 10:14:29-04:00 local time"
+ <a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-24T00:33:02.409390-04:00.jpg">
+  <img src="https://archive.org/download/wgrz-2022/wgrz-2022-09-24T00:33:02.409390-04:00.jpg"
+     alt="WGRZ at 2022-09-24 00:33:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-15T10:14:26.039031-04:00.jpg">September 15 at 10:14 AM</a></p>
+ <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-24T00:33:02.409390-04:00.jpg">September 24 at 12:33 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-14T22:31:27.924857-04:00.jpg">
-  <img src="https://archive.org/download/wgrz-2022/wgrz-2022-09-14T22:31:27.924857-04:00.jpg"
-     alt="WGRZ at 2022-09-14 22:31:31-04:00 local time"
+ <a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-23T12:01:20.823614-04:00.jpg">
+  <img src="https://archive.org/download/wgrz-2022/wgrz-2022-09-23T12:01:20.823614-04:00.jpg"
+     alt="WGRZ at 2022-09-23 12:01:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-14T22:31:27.924857-04:00.jpg">September 14 at 10:31 PM</a></p>
+ <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-23T12:01:20.823614-04:00.jpg">September 23 at 12:01 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-14T10:15:58.084735-04:00.jpg">
-  <img src="https://archive.org/download/wgrz-2022/wgrz-2022-09-14T10:15:58.084735-04:00.jpg"
-     alt="WGRZ at 2022-09-14 10:16:01-04:00 local time"
+ <a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-23T01:19:31.398178-04:00.jpg">
+  <img src="https://archive.org/download/wgrz-2022/wgrz-2022-09-23T01:19:31.398178-04:00.jpg"
+     alt="WGRZ at 2022-09-23 01:19:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-14T10:15:58.084735-04:00.jpg">September 14 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-23T01:19:31.398178-04:00.jpg">September 23 at 1:19 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-13T22:29:10.334040-04:00.jpg">
-  <img src="https://archive.org/download/wgrz-2022/wgrz-2022-09-13T22:29:10.334040-04:00.jpg"
-     alt="WGRZ at 2022-09-13 22:29:12-04:00 local time"
+ <a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-22T12:03:11.457324-04:00.jpg">
+  <img src="https://archive.org/download/wgrz-2022/wgrz-2022-09-22T12:03:11.457324-04:00.jpg"
+     alt="WGRZ at 2022-09-22 12:03:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-13T22:29:10.334040-04:00.jpg">September 13 at 10:29 PM</a></p>
+ <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-22T12:03:11.457324-04:00.jpg">September 22 at 12:03 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 96 hyperlink lists with the Internet Archive.
+The archiving routine has saved 113 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 11:01 AM](https://archive.org/download/wgrz-2022/wgrz-2022-09-19T11:01:21.557800-04:00.hyperlinks.json) |
-| [September 18 at 11:44 PM](https://archive.org/download/wgrz-2022/wgrz-2022-09-18T23:44:51.634258-04:00.hyperlinks.json) |
-| [September 18 at 10:03 AM](https://archive.org/download/wgrz-2022/wgrz-2022-09-18T10:03:51.937678-04:00.hyperlinks.json) |
-| [September 17 at 10:29 PM](https://archive.org/download/wgrz-2022/wgrz-2022-09-17T22:29:33.886141-04:00.hyperlinks.json) |
-| [September 17 at 10:01 AM](https://archive.org/download/wgrz-2022/wgrz-2022-09-17T10:01:32.199855-04:00.hyperlinks.json) |
-| [September 16 at 10:27 PM](https://archive.org/download/wgrz-2022/wgrz-2022-09-16T22:27:15.582896-04:00.hyperlinks.json) |
-| [September 16 at 10:08 AM](https://archive.org/download/wgrz-2022/wgrz-2022-09-16T10:08:03.840963-04:00.hyperlinks.json) |
-| [September 15 at 10:27 PM](https://archive.org/download/wgrz-2022/wgrz-2022-09-15T22:27:24.414653-04:00.hyperlinks.json) |
-| [September 15 at 10:14 AM](https://archive.org/download/wgrz-2022/wgrz-2022-09-15T10:14:26.039031-04:00.hyperlinks.json) |
-| [September 14 at 10:31 PM](https://archive.org/download/wgrz-2022/wgrz-2022-09-14T22:31:27.924857-04:00.hyperlinks.json) |
+| [September 28 at 2:08 AM](https://archive.org/download/wgrz-2022/wgrz-2022-09-28T02:08:11.975705-04:00.hyperlinks.json) |
+| [September 27 at 12:08 PM](https://archive.org/download/wgrz-2022/wgrz-2022-09-27T12:08:32.133592-04:00.hyperlinks.json) |
+| [September 27 at 12:32 AM](https://archive.org/download/wgrz-2022/wgrz-2022-09-27T00:32:24.092890-04:00.hyperlinks.json) |
+| [September 26 at 12:10 PM](https://archive.org/download/wgrz-2022/wgrz-2022-09-26T12:10:06.351632-04:00.hyperlinks.json) |
+| [September 26 at 12:50 AM](https://archive.org/download/wgrz-2022/wgrz-2022-09-26T00:50:04.890185-04:00.hyperlinks.json) |
+| [September 25 at 11:55 AM](https://archive.org/download/wgrz-2022/wgrz-2022-09-25T11:55:00.206365-04:00.hyperlinks.json) |
+| [September 25 at 12:31 AM](https://archive.org/download/wgrz-2022/wgrz-2022-09-25T00:31:16.682019-04:00.hyperlinks.json) |
+| [September 24 at 11:53 AM](https://archive.org/download/wgrz-2022/wgrz-2022-09-24T11:52:58.825473-04:00.hyperlinks.json) |
+| [September 24 at 12:33 AM](https://archive.org/download/wgrz-2022/wgrz-2022-09-24T00:33:02.409390-04:00.hyperlinks.json) |
+| [September 23 at 12:01 PM](https://archive.org/download/wgrz-2022/wgrz-2022-09-23T12:01:20.823614-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 96 accessibility trees with the Internet Archive.
+The archiving routine has saved 113 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,16 +427,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 11:01 AM](https://archive.org/download/wgrz-2022/wgrz-2022-09-19T11:01:21.557800-04:00.accessibility.json) |
-| [September 18 at 11:44 PM](https://archive.org/download/wgrz-2022/wgrz-2022-09-18T23:44:51.634258-04:00.accessibility.json) |
-| [September 18 at 10:03 AM](https://archive.org/download/wgrz-2022/wgrz-2022-09-18T10:03:51.937678-04:00.accessibility.json) |
-| [September 17 at 10:29 PM](https://archive.org/download/wgrz-2022/wgrz-2022-09-17T22:29:33.886141-04:00.accessibility.json) |
-| [September 17 at 10:01 AM](https://archive.org/download/wgrz-2022/wgrz-2022-09-17T10:01:32.199855-04:00.accessibility.json) |
-| [September 16 at 10:27 PM](https://archive.org/download/wgrz-2022/wgrz-2022-09-16T22:27:15.582896-04:00.accessibility.json) |
-| [September 16 at 10:08 AM](https://archive.org/download/wgrz-2022/wgrz-2022-09-16T10:08:03.840963-04:00.accessibility.json) |
-| [September 15 at 10:27 PM](https://archive.org/download/wgrz-2022/wgrz-2022-09-15T22:27:24.414653-04:00.accessibility.json) |
-| [September 15 at 10:14 AM](https://archive.org/download/wgrz-2022/wgrz-2022-09-15T10:14:26.039031-04:00.accessibility.json) |
-| [September 14 at 10:31 PM](https://archive.org/download/wgrz-2022/wgrz-2022-09-14T22:31:27.924857-04:00.accessibility.json) |
+| [September 28 at 2:08 AM](https://archive.org/download/wgrz-2022/wgrz-2022-09-28T02:08:11.975705-04:00.accessibility.json) |
+| [September 27 at 12:08 PM](https://archive.org/download/wgrz-2022/wgrz-2022-09-27T12:08:32.133592-04:00.accessibility.json) |
+| [September 27 at 12:32 AM](https://archive.org/download/wgrz-2022/wgrz-2022-09-27T00:32:24.092890-04:00.accessibility.json) |
+| [September 26 at 12:10 PM](https://archive.org/download/wgrz-2022/wgrz-2022-09-26T12:10:06.351632-04:00.accessibility.json) |
+| [September 26 at 12:50 AM](https://archive.org/download/wgrz-2022/wgrz-2022-09-26T00:50:04.890185-04:00.accessibility.json) |
+| [September 25 at 11:55 AM](https://archive.org/download/wgrz-2022/wgrz-2022-09-25T11:55:00.206365-04:00.accessibility.json) |
+| [September 25 at 12:31 AM](https://archive.org/download/wgrz-2022/wgrz-2022-09-25T00:31:16.682019-04:00.accessibility.json) |
+| [September 24 at 11:53 AM](https://archive.org/download/wgrz-2022/wgrz-2022-09-24T11:52:58.825473-04:00.accessibility.json) |
+| [September 24 at 12:33 AM](https://archive.org/download/wgrz-2022/wgrz-2022-09-24T00:33:02.409390-04:00.accessibility.json) |
+| [September 23 at 12:01 PM](https://archive.org/download/wgrz-2022/wgrz-2022-09-23T12:01:20.823614-04:00.accessibility.json) |
 
 
 

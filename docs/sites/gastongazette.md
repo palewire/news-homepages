@@ -28,13 +28,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 14 screenshots with the Internet Archive.
+The archiving routine has saved 16 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gastongazette-2022/gastongazette-2022-09-28T02:27:46.912292-04:00.jpg">
+  <img src="https://archive.org/download/gastongazette-2022/gastongazette-2022-09-28T02:27:46.912292-04:00.jpg"
+     alt="Gaston Gazette at 2022-09-28 02:27:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gastongazette-2022/gastongazette-2022-09-28T02:27:46.912292-04:00.jpg">September 28 at 2:27 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gastongazette-2022/gastongazette-2022-09-27T13:56:35.316868-04:00.jpg">
+  <img src="https://archive.org/download/gastongazette-2022/gastongazette-2022-09-27T13:56:35.316868-04:00.jpg"
+     alt="Gaston Gazette at 2022-09-27 13:56:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gastongazette-2022/gastongazette-2022-09-27T13:56:35.316868-04:00.jpg">September 27 at 1:56 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gastongazette-2022/gastongazette-2022-09-27T03:01:48.459974-04:00.jpg">
@@ -126,29 +144,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gastongazette-2022/gastongazette-2022-09-22T13:42:24.233479-04:00.jpg">September 22 at 1:42 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gastongazette-2022/gastongazette-2022-09-22T02:10:35.346734-04:00.jpg">
-  <img src="https://archive.org/download/gastongazette-2022/gastongazette-2022-09-22T02:10:35.346734-04:00.jpg"
-     alt="Gaston Gazette at 2022-09-22 02:10:36-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gastongazette-2022/gastongazette-2022-09-22T02:10:35.346734-04:00.jpg">September 22 at 2:10 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gastongazette-2022/gastongazette-2022-09-21T13:42:16.605365-04:00.jpg">
-  <img src="https://archive.org/download/gastongazette-2022/gastongazette-2022-09-21T13:42:16.605365-04:00.jpg"
-     alt="Gaston Gazette at 2022-09-21 13:42:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gastongazette-2022/gastongazette-2022-09-21T13:42:16.605365-04:00.jpg">September 21 at 1:42 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 14 hyperlink lists with the Internet Archive.
+The archiving routine has saved 16 hyperlink lists with the Internet Archive.
 
 
 
@@ -156,6 +156,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 2:27 AM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-28T02:27:46.912292-04:00.hyperlinks.json) |
+| [September 27 at 1:56 PM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-27T13:56:35.316868-04:00.hyperlinks.json) |
 | [September 27 at 3:02 AM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-27T03:01:48.459974-04:00.hyperlinks.json) |
 | [September 26 at 1:47 PM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-26T13:47:36.977570-04:00.hyperlinks.json) |
 | [September 26 at 2:19 AM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-26T02:18:57.318473-04:00.hyperlinks.json) |
@@ -164,13 +166,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 1:26 PM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-24T13:26:43.970949-04:00.hyperlinks.json) |
 | [September 24 at 1:52 AM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-24T01:52:28.418005-04:00.hyperlinks.json) |
 | [September 23 at 1:42 PM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-23T13:42:05.929225-04:00.hyperlinks.json) |
-| [September 23 at 3:16 AM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-23T03:16:43.893014-04:00.hyperlinks.json) |
-| [September 22 at 1:42 PM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-22T13:42:24.233479-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 13 accessibility trees with the Internet Archive.
+The archiving routine has saved 15 accessibility trees with the Internet Archive.
 
 
 
@@ -178,6 +178,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 2:27 AM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-28T02:27:46.912292-04:00.accessibility.json) |
+| [September 27 at 1:56 PM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-27T13:56:35.316868-04:00.accessibility.json) |
 | [September 27 at 3:01 AM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-27T03:01:48.459974-04:00.accessibility.json) |
 | [September 26 at 1:47 PM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-26T13:47:36.977570-04:00.accessibility.json) |
 | [September 26 at 2:19 AM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-26T02:18:57.318473-04:00.accessibility.json) |
@@ -186,14 +188,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 1:26 PM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-24T13:26:43.970949-04:00.accessibility.json) |
 | [September 24 at 1:52 AM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-24T01:52:28.418005-04:00.accessibility.json) |
 | [September 23 at 1:42 PM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-23T13:42:05.929225-04:00.accessibility.json) |
-| [September 23 at 3:16 AM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-23T03:16:43.893014-04:00.accessibility.json) |
-| [September 22 at 1:42 PM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-22T13:42:24.233479-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
 
 
 
@@ -201,6 +201,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 2:27 AM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-28T02:27:46.912292-04:00.lighthouse.json) |
+| [September 27 at 1:56 PM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-27T13:56:35.316868-04:00.lighthouse.json) |
 | [September 27 at 3:02 AM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-27T03:01:48.459974-04:00.lighthouse.json) |
 | [September 26 at 1:47 PM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-26T13:47:36.977570-04:00.lighthouse.json) |
 | [September 26 at 2:19 AM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-26T02:18:57.318473-04:00.lighthouse.json) |
@@ -209,8 +211,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 1:26 PM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-24T13:26:43.970949-04:00.lighthouse.json) |
 | [September 24 at 1:52 AM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-24T01:52:28.418005-04:00.lighthouse.json) |
 | [September 23 at 1:42 PM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-23T13:42:05.929225-04:00.lighthouse.json) |
-| [September 23 at 3:16 AM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-23T03:16:43.893014-04:00.lighthouse.json) |
-| [September 22 at 1:42 PM](https://archive.org/download/gastongazette-2022/gastongazette-2022-09-22T13:42:24.233479-04:00.lighthouse.json) |
 
 
 

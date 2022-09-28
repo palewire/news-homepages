@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 63 screenshots with the Internet Archive.
+The archiving routine has saved 65 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,6 +120,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-28T03:47:54.743375-04:00.jpg">
+  <img src="https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-28T03:47:54.743375-04:00.jpg"
+     alt="Oglethorpe Echo at 2022-09-28 03:47:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-28T03:47:54.743375-04:00.jpg">September 28 at 3:47 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-27T15:09:30.203256-04:00.jpg">
+  <img src="https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-27T15:09:30.203256-04:00.jpg"
+     alt="Oglethorpe Echo at 2022-09-27 15:09:31-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-27T15:09:30.203256-04:00.jpg">September 27 at 3:09 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-27T03:08:04.641902-04:00.jpg">
   <img src="https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-27T03:08:04.641902-04:00.jpg"
      alt="Oglethorpe Echo at 2022-09-27 03:08:06-04:00 local time"
@@ -209,29 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-22T15:22:51.294583-04:00.jpg">September 22 at 3:22 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-22T03:22:03.887886-04:00.jpg">
-  <img src="https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-22T03:22:03.887886-04:00.jpg"
-     alt="Oglethorpe Echo at 2022-09-22 03:22:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-22T03:22:03.887886-04:00.jpg">September 22 at 3:22 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-21T15:00:46.216083-04:00.jpg">
-  <img src="https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-21T15:00:46.216083-04:00.jpg"
-     alt="Oglethorpe Echo at 2022-09-21 15:00:50-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-21T15:00:46.216083-04:00.jpg">September 21 at 3:00 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 63 hyperlink lists with the Internet Archive.
+The archiving routine has saved 65 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 3:48 AM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-28T03:47:54.743375-04:00.hyperlinks.json) |
+| [September 27 at 3:09 PM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-27T15:09:30.203256-04:00.hyperlinks.json) |
 | [September 27 at 3:08 AM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-27T03:08:04.641902-04:00.hyperlinks.json) |
 | [September 26 at 3:27 PM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-26T15:26:54.214698-04:00.hyperlinks.json) |
 | [September 26 at 3:42 AM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-26T03:42:17.428882-04:00.hyperlinks.json) |
@@ -330,13 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 2:31 PM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-24T14:31:05.060337-04:00.hyperlinks.json) |
 | [September 24 at 2:55 AM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-24T02:54:51.396086-04:00.hyperlinks.json) |
 | [September 23 at 2:48 PM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-23T14:47:58.299067-04:00.hyperlinks.json) |
-| [September 23 at 3:18 AM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-23T03:18:42.428344-04:00.hyperlinks.json) |
-| [September 22 at 3:23 PM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-22T15:22:51.294583-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 63 accessibility trees with the Internet Archive.
+The archiving routine has saved 65 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 3:48 AM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-28T03:47:54.743375-04:00.accessibility.json) |
+| [September 27 at 3:09 PM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-27T15:09:30.203256-04:00.accessibility.json) |
 | [September 27 at 3:08 AM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-27T03:08:04.641902-04:00.accessibility.json) |
 | [September 26 at 3:26 PM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-26T15:26:54.214698-04:00.accessibility.json) |
 | [September 26 at 3:42 AM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-26T03:42:17.428882-04:00.accessibility.json) |
@@ -435,14 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 2:31 PM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-24T14:31:05.060337-04:00.accessibility.json) |
 | [September 24 at 2:54 AM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-24T02:54:51.396086-04:00.accessibility.json) |
 | [September 23 at 2:48 PM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-23T14:47:58.299067-04:00.accessibility.json) |
-| [September 23 at 3:18 AM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-23T03:18:42.428344-04:00.accessibility.json) |
-| [September 22 at 3:22 PM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-22T15:22:51.294583-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 63 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 65 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 3:48 AM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-28T03:47:54.743375-04:00.lighthouse.json) |
+| [September 27 at 3:09 PM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-27T15:09:30.203256-04:00.lighthouse.json) |
 | [September 27 at 3:08 AM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-27T03:08:04.641902-04:00.lighthouse.json) |
 | [September 26 at 3:27 PM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-26T15:26:54.214698-04:00.lighthouse.json) |
 | [September 26 at 3:42 AM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-26T03:42:17.428882-04:00.lighthouse.json) |
@@ -541,8 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 2:31 PM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-24T14:31:05.060337-04:00.lighthouse.json) |
 | [September 24 at 2:55 AM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-24T02:54:51.396086-04:00.lighthouse.json) |
 | [September 23 at 2:48 PM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-23T14:47:58.299067-04:00.lighthouse.json) |
-| [September 23 at 3:18 AM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-23T03:18:42.428344-04:00.lighthouse.json) |
-| [September 22 at 3:23 PM](https://archive.org/download/oglethorpe_echo-2022/oglethorpe_echo-2022-09-22T15:22:51.294583-04:00.lighthouse.json) |
 
 
 

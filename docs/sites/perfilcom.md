@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 81 screenshots with the Internet Archive.
+The archiving routine has saved 98 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-19T14:35:48.110290-03:00.jpg">
-  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-19T14:35:48.110290-03:00.jpg"
-     alt="Perfil at 2022-09-19 14:35:49-03:00 local time"
+ <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-28T04:47:17.644690-03:00.jpg">
+  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-28T04:47:17.644690-03:00.jpg"
+     alt="Perfil at 2022-09-28 04:47:40-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-19T14:35:48.110290-03:00.jpg">September 19 at 2:35 PM</a></p>
+ <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-28T04:47:17.644690-03:00.jpg">September 28 at 4:47 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-19T03:06:29.673782-03:00.jpg">
-  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-19T03:06:29.673782-03:00.jpg"
-     alt="Perfil at 2022-09-19 03:06:31-03:00 local time"
+ <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-27T16:12:02.690167-03:00.jpg">
+  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-27T16:12:02.690167-03:00.jpg"
+     alt="Perfil at 2022-09-27 16:12:08-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-19T03:06:29.673782-03:00.jpg">September 19 at 3:06 AM</a></p>
+ <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-27T16:12:02.690167-03:00.jpg">September 27 at 4:12 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-18T14:28:19.641475-03:00.jpg">
-  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-18T14:28:19.641475-03:00.jpg"
-     alt="Perfil at 2022-09-18 14:28:25-03:00 local time"
+ <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-27T04:08:33.349127-03:00.jpg">
+  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-27T04:08:33.349127-03:00.jpg"
+     alt="Perfil at 2022-09-27 04:08:50-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-18T14:28:19.641475-03:00.jpg">September 18 at 2:28 PM</a></p>
+ <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-27T04:08:33.349127-03:00.jpg">September 27 at 4:08 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-18T02:27:31.280906-03:00.jpg">
-  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-18T02:27:31.280906-03:00.jpg"
-     alt="Perfil at 2022-09-18 02:27:34-03:00 local time"
+ <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-26T16:28:15.803115-03:00.jpg">
+  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-26T16:28:15.803115-03:00.jpg"
+     alt="Perfil at 2022-09-26 16:28:17-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-18T02:27:31.280906-03:00.jpg">September 18 at 2:27 AM</a></p>
+ <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-26T16:28:15.803115-03:00.jpg">September 26 at 4:28 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-17T13:02:20.742566-03:00.jpg">
-  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-17T13:02:20.742566-03:00.jpg"
-     alt="Perfil at 2022-09-17 13:02:22-03:00 local time"
+ <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-26T04:42:53.851215-03:00.jpg">
+  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-26T04:42:53.851215-03:00.jpg"
+     alt="Perfil at 2022-09-26 04:42:54-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-17T13:02:20.742566-03:00.jpg">September 17 at 1:02 PM</a></p>
+ <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-26T04:42:53.851215-03:00.jpg">September 26 at 4:42 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-17T01:35:41.709335-03:00.jpg">
-  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-17T01:35:41.709335-03:00.jpg"
-     alt="Perfil at 2022-09-17 01:35:43-03:00 local time"
+ <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-25T15:32:02.317054-03:00.jpg">
+  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-25T15:32:02.317054-03:00.jpg"
+     alt="Perfil at 2022-09-25 15:32:06-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-17T01:35:41.709335-03:00.jpg">September 17 at 1:35 AM</a></p>
+ <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-25T15:32:02.317054-03:00.jpg">September 25 at 3:32 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-16T13:07:39.017147-03:00.jpg">
-  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-16T13:07:39.017147-03:00.jpg"
-     alt="Perfil at 2022-09-16 13:07:45-03:00 local time"
+ <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-25T03:54:09.828880-03:00.jpg">
+  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-25T03:54:09.828880-03:00.jpg"
+     alt="Perfil at 2022-09-25 03:54:16-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-16T13:07:39.017147-03:00.jpg">September 16 at 1:07 PM</a></p>
+ <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-25T03:54:09.828880-03:00.jpg">September 25 at 3:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-16T02:28:53.440602-03:00.jpg">
-  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-16T02:28:53.440602-03:00.jpg"
-     alt="Perfil at 2022-09-16 02:29:02-03:00 local time"
+ <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-24T15:30:56.792459-03:00.jpg">
+  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-24T15:30:56.792459-03:00.jpg"
+     alt="Perfil at 2022-09-24 15:31:03-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-16T02:28:53.440602-03:00.jpg">September 16 at 2:29 AM</a></p>
+ <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-24T15:30:56.792459-03:00.jpg">September 24 at 3:31 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-15T13:30:18.398880-03:00.jpg">
-  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-15T13:30:18.398880-03:00.jpg"
-     alt="Perfil at 2022-09-15 13:30:20-03:00 local time"
+ <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-24T03:55:59.562359-03:00.jpg">
+  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-24T03:55:59.562359-03:00.jpg"
+     alt="Perfil at 2022-09-24 03:56:01-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-15T13:30:18.398880-03:00.jpg">September 15 at 1:30 PM</a></p>
+ <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-24T03:55:59.562359-03:00.jpg">September 24 at 3:56 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-15T02:29:49.594906-03:00.jpg">
-  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-15T02:29:49.594906-03:00.jpg"
-     alt="Perfil at 2022-09-15 02:29:51-03:00 local time"
+ <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-23T15:49:56.132137-03:00.jpg">
+  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-23T15:49:56.132137-03:00.jpg"
+     alt="Perfil at 2022-09-23 15:49:58-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-15T02:29:49.594906-03:00.jpg">September 15 at 2:29 AM</a></p>
+ <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-23T15:49:56.132137-03:00.jpg">September 23 at 3:49 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-14T13:30:37.099880-03:00.jpg">
-  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-14T13:30:37.099880-03:00.jpg"
-     alt="Perfil at 2022-09-14 13:30:38-03:00 local time"
+ <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-23T04:18:59.647562-03:00.jpg">
+  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-23T04:18:59.647562-03:00.jpg"
+     alt="Perfil at 2022-09-23 04:19:01-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-14T13:30:37.099880-03:00.jpg">September 14 at 1:30 PM</a></p>
+ <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-23T04:18:59.647562-03:00.jpg">September 23 at 4:19 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-14T01:47:55.388101-03:00.jpg">
-  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-14T01:47:55.388101-03:00.jpg"
-     alt="Perfil at 2022-09-14 01:47:57-03:00 local time"
+ <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-22T16:24:24.369718-03:00.jpg">
+  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-22T16:24:24.369718-03:00.jpg"
+     alt="Perfil at 2022-09-22 16:24:28-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-14T01:47:55.388101-03:00.jpg">September 14 at 1:47 AM</a></p>
+ <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-22T16:24:24.369718-03:00.jpg">September 22 at 4:24 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 75 hyperlink lists with the Internet Archive.
+The archiving routine has saved 92 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 2:35 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-19T14:35:48.110290-03:00.hyperlinks.json) |
-| [September 19 at 3:06 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-19T03:06:29.673782-03:00.hyperlinks.json) |
-| [September 18 at 2:28 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-18T14:28:19.641475-03:00.hyperlinks.json) |
-| [September 18 at 2:27 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-18T02:27:31.280906-03:00.hyperlinks.json) |
-| [September 17 at 1:02 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-17T13:02:20.742566-03:00.hyperlinks.json) |
-| [September 17 at 1:35 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-17T01:35:41.709335-03:00.hyperlinks.json) |
-| [September 16 at 1:07 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-16T13:07:39.017147-03:00.hyperlinks.json) |
-| [September 16 at 2:29 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-16T02:28:53.440602-03:00.hyperlinks.json) |
-| [September 15 at 1:30 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-15T13:30:18.398880-03:00.hyperlinks.json) |
-| [September 15 at 2:29 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-15T02:29:49.594906-03:00.hyperlinks.json) |
+| [September 28 at 4:47 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-28T04:47:17.644690-03:00.hyperlinks.json) |
+| [September 27 at 4:12 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-27T16:12:02.690167-03:00.hyperlinks.json) |
+| [September 27 at 4:08 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-27T04:08:33.349127-03:00.hyperlinks.json) |
+| [September 26 at 4:28 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-26T16:28:15.803115-03:00.hyperlinks.json) |
+| [September 26 at 4:42 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-26T04:42:53.851215-03:00.hyperlinks.json) |
+| [September 25 at 3:32 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-25T15:32:02.317054-03:00.hyperlinks.json) |
+| [September 25 at 3:54 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-25T03:54:09.828880-03:00.hyperlinks.json) |
+| [September 24 at 3:31 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-24T15:30:56.792459-03:00.hyperlinks.json) |
+| [September 24 at 3:56 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-24T03:55:59.562359-03:00.hyperlinks.json) |
+| [September 23 at 3:50 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-23T15:49:56.132137-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 76 accessibility trees with the Internet Archive.
+The archiving routine has saved 93 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 2:35 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-19T14:35:48.110290-03:00.accessibility.json) |
-| [September 19 at 3:06 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-19T03:06:29.673782-03:00.accessibility.json) |
-| [September 18 at 2:28 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-18T14:28:19.641475-03:00.accessibility.json) |
-| [September 18 at 2:27 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-18T02:27:31.280906-03:00.accessibility.json) |
-| [September 17 at 1:02 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-17T13:02:20.742566-03:00.accessibility.json) |
-| [September 17 at 1:35 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-17T01:35:41.709335-03:00.accessibility.json) |
-| [September 16 at 1:07 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-16T13:07:39.017147-03:00.accessibility.json) |
-| [September 16 at 2:29 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-16T02:28:53.440602-03:00.accessibility.json) |
-| [September 15 at 1:30 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-15T13:30:18.398880-03:00.accessibility.json) |
-| [September 15 at 2:29 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-15T02:29:49.594906-03:00.accessibility.json) |
+| [September 28 at 4:47 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-28T04:47:17.644690-03:00.accessibility.json) |
+| [September 27 at 4:12 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-27T16:12:02.690167-03:00.accessibility.json) |
+| [September 27 at 4:08 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-27T04:08:33.349127-03:00.accessibility.json) |
+| [September 26 at 4:28 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-26T16:28:15.803115-03:00.accessibility.json) |
+| [September 26 at 4:42 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-26T04:42:53.851215-03:00.accessibility.json) |
+| [September 25 at 3:32 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-25T15:32:02.317054-03:00.accessibility.json) |
+| [September 25 at 3:54 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-25T03:54:09.828880-03:00.accessibility.json) |
+| [September 24 at 3:31 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-24T15:30:56.792459-03:00.accessibility.json) |
+| [September 24 at 3:56 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-24T03:55:59.562359-03:00.accessibility.json) |
+| [September 23 at 3:50 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-23T15:49:56.132137-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 82 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 99 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 2:35 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-19T14:35:48.110290-03:00.lighthouse.json) |
-| [September 19 at 3:06 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-19T03:06:29.673782-03:00.lighthouse.json) |
-| [September 18 at 2:28 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-18T14:28:19.641475-03:00.lighthouse.json) |
-| [September 18 at 2:27 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-18T02:27:31.280906-03:00.lighthouse.json) |
-| [September 17 at 1:02 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-17T13:02:20.742566-03:00.lighthouse.json) |
-| [September 17 at 1:35 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-17T01:35:41.709335-03:00.lighthouse.json) |
-| [September 16 at 1:07 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-16T13:07:39.017147-03:00.lighthouse.json) |
-| [September 16 at 2:29 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-16T02:28:53.440602-03:00.lighthouse.json) |
-| [September 15 at 1:30 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-15T13:30:18.398880-03:00.lighthouse.json) |
-| [September 15 at 2:29 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-15T02:29:49.594906-03:00.lighthouse.json) |
+| [September 28 at 4:47 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-28T04:47:17.644690-03:00.lighthouse.json) |
+| [September 27 at 4:12 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-27T16:12:02.690167-03:00.lighthouse.json) |
+| [September 27 at 4:08 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-27T04:08:33.349127-03:00.lighthouse.json) |
+| [September 26 at 4:28 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-26T16:28:15.803115-03:00.lighthouse.json) |
+| [September 26 at 4:42 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-26T04:42:53.851215-03:00.lighthouse.json) |
+| [September 25 at 3:32 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-25T15:32:02.317054-03:00.lighthouse.json) |
+| [September 25 at 3:54 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-25T03:54:09.828880-03:00.lighthouse.json) |
+| [September 24 at 3:31 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-24T15:30:56.792459-03:00.lighthouse.json) |
+| [September 24 at 3:56 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-24T03:55:59.562359-03:00.lighthouse.json) |
+| [September 23 at 3:50 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-23T15:49:56.132137-03:00.lighthouse.json) |
 
 
 

@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 125 screenshots with the Internet Archive.
+The archiving routine has saved 142 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-19T12:30:33.642352-05:00.jpg">
-  <img src="https://archive.org/download/wfaa-2022/wfaa-2022-09-19T12:30:33.642352-05:00.jpg"
-     alt="WFAA at 2022-09-19 12:30:36-05:00 local time"
+ <a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-28T02:59:23.169019-05:00.jpg">
+  <img src="https://archive.org/download/wfaa-2022/wfaa-2022-09-28T02:59:23.169019-05:00.jpg"
+     alt="WFAA at 2022-09-28 02:59:26-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-19T12:30:33.642352-05:00.jpg">September 19 at 12:30 PM</a></p>
+ <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-28T02:59:23.169019-05:00.jpg">September 28 at 2:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-19T01:01:17.148251-05:00.jpg">
-  <img src="https://archive.org/download/wfaa-2022/wfaa-2022-09-19T01:01:17.148251-05:00.jpg"
-     alt="WFAA at 2022-09-19 01:01:20-05:00 local time"
+ <a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-27T14:44:53.121911-05:00.jpg">
+  <img src="https://archive.org/download/wfaa-2022/wfaa-2022-09-27T14:44:53.121911-05:00.jpg"
+     alt="WFAA at 2022-09-27 14:45:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-19T01:01:17.148251-05:00.jpg">September 19 at 1:01 AM</a></p>
+ <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-27T14:44:53.121911-05:00.jpg">September 27 at 2:45 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-18T12:20:03.677648-05:00.jpg">
-  <img src="https://archive.org/download/wfaa-2022/wfaa-2022-09-18T12:20:03.677648-05:00.jpg"
-     alt="WFAA at 2022-09-18 12:20:08-05:00 local time"
+ <a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-27T02:06:18.733824-05:00.jpg">
+  <img src="https://archive.org/download/wfaa-2022/wfaa-2022-09-27T02:06:18.733824-05:00.jpg"
+     alt="WFAA at 2022-09-27 02:06:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-18T12:20:03.677648-05:00.jpg">September 18 at 12:20 PM</a></p>
+ <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-27T02:06:18.733824-05:00.jpg">September 27 at 2:06 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-18T00:32:27.363725-05:00.jpg">
-  <img src="https://archive.org/download/wfaa-2022/wfaa-2022-09-18T00:32:27.363725-05:00.jpg"
-     alt="WFAA at 2022-09-18 00:32:32-05:00 local time"
+ <a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-26T14:14:37.176276-05:00.jpg">
+  <img src="https://archive.org/download/wfaa-2022/wfaa-2022-09-26T14:14:37.176276-05:00.jpg"
+     alt="WFAA at 2022-09-26 14:14:46-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-18T00:32:27.363725-05:00.jpg">September 18 at 12:32 AM</a></p>
+ <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-26T14:14:37.176276-05:00.jpg">September 26 at 2:14 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-17T11:56:56.566664-05:00.jpg">
-  <img src="https://archive.org/download/wfaa-2022/wfaa-2022-09-17T11:56:56.566664-05:00.jpg"
-     alt="WFAA at 2022-09-17 11:56:58-05:00 local time"
+ <a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-26T02:34:06.028885-05:00.jpg">
+  <img src="https://archive.org/download/wfaa-2022/wfaa-2022-09-26T02:34:06.028885-05:00.jpg"
+     alt="WFAA at 2022-09-26 02:34:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-17T11:56:56.566664-05:00.jpg">September 17 at 11:56 AM</a></p>
+ <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-26T02:34:06.028885-05:00.jpg">September 26 at 2:34 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-17T00:25:43.427631-05:00.jpg">
-  <img src="https://archive.org/download/wfaa-2022/wfaa-2022-09-17T00:25:43.427631-05:00.jpg"
-     alt="WFAA at 2022-09-17 00:25:50-05:00 local time"
+ <a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-25T13:49:21.923217-05:00.jpg">
+  <img src="https://archive.org/download/wfaa-2022/wfaa-2022-09-25T13:49:21.923217-05:00.jpg"
+     alt="WFAA at 2022-09-25 13:49:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-17T00:25:43.427631-05:00.jpg">September 17 at 12:25 AM</a></p>
+ <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-25T13:49:21.923217-05:00.jpg">September 25 at 1:49 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-16T12:02:16.252102-05:00.jpg">
-  <img src="https://archive.org/download/wfaa-2022/wfaa-2022-09-16T12:02:16.252102-05:00.jpg"
-     alt="WFAA at 2022-09-16 12:02:19-05:00 local time"
+ <a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-25T02:02:30.877273-05:00.jpg">
+  <img src="https://archive.org/download/wfaa-2022/wfaa-2022-09-25T02:02:30.877273-05:00.jpg"
+     alt="WFAA at 2022-09-25 02:02:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-16T12:02:16.252102-05:00.jpg">September 16 at 12:02 PM</a></p>
+ <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-25T02:02:30.877273-05:00.jpg">September 25 at 2:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-16T00:35:46.112030-05:00.jpg">
-  <img src="https://archive.org/download/wfaa-2022/wfaa-2022-09-16T00:35:46.112030-05:00.jpg"
-     alt="WFAA at 2022-09-16 00:35:52-05:00 local time"
+ <a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-24T13:41:39.019970-05:00.jpg">
+  <img src="https://archive.org/download/wfaa-2022/wfaa-2022-09-24T13:41:39.019970-05:00.jpg"
+     alt="WFAA at 2022-09-24 13:41:46-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-16T00:35:46.112030-05:00.jpg">September 16 at 12:35 AM</a></p>
+ <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-24T13:41:39.019970-05:00.jpg">September 24 at 1:41 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-15T12:17:47.921862-05:00.jpg">
-  <img src="https://archive.org/download/wfaa-2022/wfaa-2022-09-15T12:17:47.921862-05:00.jpg"
-     alt="WFAA at 2022-09-15 12:17:53-05:00 local time"
+ <a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-24T02:03:58.565090-05:00.jpg">
+  <img src="https://archive.org/download/wfaa-2022/wfaa-2022-09-24T02:03:58.565090-05:00.jpg"
+     alt="WFAA at 2022-09-24 02:04:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-15T12:17:47.921862-05:00.jpg">September 15 at 12:17 PM</a></p>
+ <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-24T02:03:58.565090-05:00.jpg">September 24 at 2:04 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-15T00:35:52.823244-05:00.jpg">
-  <img src="https://archive.org/download/wfaa-2022/wfaa-2022-09-15T00:35:52.823244-05:00.jpg"
-     alt="WFAA at 2022-09-15 00:36:08-05:00 local time"
+ <a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-23T14:22:34.973422-05:00.jpg">
+  <img src="https://archive.org/download/wfaa-2022/wfaa-2022-09-23T14:22:34.973422-05:00.jpg"
+     alt="WFAA at 2022-09-23 14:22:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-15T00:35:52.823244-05:00.jpg">September 15 at 12:36 AM</a></p>
+ <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-23T14:22:34.973422-05:00.jpg">September 23 at 2:22 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-14T12:22:35.349613-05:00.jpg">
-  <img src="https://archive.org/download/wfaa-2022/wfaa-2022-09-14T12:22:35.349613-05:00.jpg"
-     alt="WFAA at 2022-09-14 12:22:38-05:00 local time"
+ <a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-23T02:28:43.061285-05:00.jpg">
+  <img src="https://archive.org/download/wfaa-2022/wfaa-2022-09-23T02:28:43.061285-05:00.jpg"
+     alt="WFAA at 2022-09-23 02:28:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-14T12:22:35.349613-05:00.jpg">September 14 at 12:22 PM</a></p>
+ <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-23T02:28:43.061285-05:00.jpg">September 23 at 2:28 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-14T00:39:39.209502-05:00.jpg">
-  <img src="https://archive.org/download/wfaa-2022/wfaa-2022-09-14T00:39:39.209502-05:00.jpg"
-     alt="WFAA at 2022-09-14 00:39:41-05:00 local time"
+ <a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-22T13:56:31.500539-05:00.jpg">
+  <img src="https://archive.org/download/wfaa-2022/wfaa-2022-09-22T13:56:31.500539-05:00.jpg"
+     alt="WFAA at 2022-09-22 13:56:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-14T00:39:39.209502-05:00.jpg">September 14 at 12:39 AM</a></p>
+ <p><a href="https://archive.org/download/wfaa-2022/wfaa-2022-09-22T13:56:31.500539-05:00.jpg">September 22 at 1:56 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 122 hyperlink lists with the Internet Archive.
+The archiving routine has saved 139 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 12:30 PM](https://archive.org/download/wfaa-2022/wfaa-2022-09-19T12:30:33.642352-05:00.hyperlinks.json) |
-| [September 19 at 1:01 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-19T01:01:17.148251-05:00.hyperlinks.json) |
-| [September 18 at 12:20 PM](https://archive.org/download/wfaa-2022/wfaa-2022-09-18T12:20:03.677648-05:00.hyperlinks.json) |
-| [September 18 at 12:32 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-18T00:32:27.363725-05:00.hyperlinks.json) |
-| [September 17 at 11:57 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-17T11:56:56.566664-05:00.hyperlinks.json) |
-| [September 17 at 12:25 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-17T00:25:43.427631-05:00.hyperlinks.json) |
-| [September 16 at 12:02 PM](https://archive.org/download/wfaa-2022/wfaa-2022-09-16T12:02:16.252102-05:00.hyperlinks.json) |
-| [September 16 at 12:35 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-16T00:35:46.112030-05:00.hyperlinks.json) |
-| [September 15 at 12:17 PM](https://archive.org/download/wfaa-2022/wfaa-2022-09-15T12:17:47.921862-05:00.hyperlinks.json) |
-| [September 15 at 12:36 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-15T00:35:52.823244-05:00.hyperlinks.json) |
+| [September 28 at 2:59 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-28T02:59:23.169019-05:00.hyperlinks.json) |
+| [September 27 at 2:45 PM](https://archive.org/download/wfaa-2022/wfaa-2022-09-27T14:44:53.121911-05:00.hyperlinks.json) |
+| [September 27 at 2:06 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-27T02:06:18.733824-05:00.hyperlinks.json) |
+| [September 26 at 2:14 PM](https://archive.org/download/wfaa-2022/wfaa-2022-09-26T14:14:37.176276-05:00.hyperlinks.json) |
+| [September 26 at 2:34 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-26T02:34:06.028885-05:00.hyperlinks.json) |
+| [September 25 at 1:49 PM](https://archive.org/download/wfaa-2022/wfaa-2022-09-25T13:49:21.923217-05:00.hyperlinks.json) |
+| [September 25 at 2:02 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-25T02:02:30.877273-05:00.hyperlinks.json) |
+| [September 24 at 1:41 PM](https://archive.org/download/wfaa-2022/wfaa-2022-09-24T13:41:39.019970-05:00.hyperlinks.json) |
+| [September 24 at 2:04 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-24T02:03:58.565090-05:00.hyperlinks.json) |
+| [September 23 at 2:22 PM](https://archive.org/download/wfaa-2022/wfaa-2022-09-23T14:22:34.973422-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 126 accessibility trees with the Internet Archive.
+The archiving routine has saved 143 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 12:30 PM](https://archive.org/download/wfaa-2022/wfaa-2022-09-19T12:30:33.642352-05:00.accessibility.json) |
-| [September 19 at 1:01 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-19T01:01:17.148251-05:00.accessibility.json) |
-| [September 18 at 12:20 PM](https://archive.org/download/wfaa-2022/wfaa-2022-09-18T12:20:03.677648-05:00.accessibility.json) |
-| [September 18 at 12:32 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-18T00:32:27.363725-05:00.accessibility.json) |
-| [September 17 at 11:57 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-17T11:56:56.566664-05:00.accessibility.json) |
-| [September 17 at 12:25 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-17T00:25:43.427631-05:00.accessibility.json) |
-| [September 16 at 12:02 PM](https://archive.org/download/wfaa-2022/wfaa-2022-09-16T12:02:16.252102-05:00.accessibility.json) |
-| [September 16 at 12:35 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-16T00:35:46.112030-05:00.accessibility.json) |
-| [September 15 at 12:17 PM](https://archive.org/download/wfaa-2022/wfaa-2022-09-15T12:17:47.921862-05:00.accessibility.json) |
-| [September 15 at 12:36 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-15T00:35:52.823244-05:00.accessibility.json) |
+| [September 28 at 2:59 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-28T02:59:23.169019-05:00.accessibility.json) |
+| [September 27 at 2:45 PM](https://archive.org/download/wfaa-2022/wfaa-2022-09-27T14:44:53.121911-05:00.accessibility.json) |
+| [September 27 at 2:06 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-27T02:06:18.733824-05:00.accessibility.json) |
+| [September 26 at 2:14 PM](https://archive.org/download/wfaa-2022/wfaa-2022-09-26T14:14:37.176276-05:00.accessibility.json) |
+| [September 26 at 2:34 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-26T02:34:06.028885-05:00.accessibility.json) |
+| [September 25 at 1:49 PM](https://archive.org/download/wfaa-2022/wfaa-2022-09-25T13:49:21.923217-05:00.accessibility.json) |
+| [September 25 at 2:02 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-25T02:02:30.877273-05:00.accessibility.json) |
+| [September 24 at 1:41 PM](https://archive.org/download/wfaa-2022/wfaa-2022-09-24T13:41:39.019970-05:00.accessibility.json) |
+| [September 24 at 2:04 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-24T02:03:58.565090-05:00.accessibility.json) |
+| [September 23 at 2:22 PM](https://archive.org/download/wfaa-2022/wfaa-2022-09-23T14:22:34.973422-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 113 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 130 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 12:30 PM](https://archive.org/download/wfaa-2022/wfaa-2022-09-19T12:30:33.642352-05:00.lighthouse.json) |
-| [September 19 at 1:01 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-19T01:01:17.148251-05:00.lighthouse.json) |
-| [September 18 at 12:20 PM](https://archive.org/download/wfaa-2022/wfaa-2022-09-18T12:20:03.677648-05:00.lighthouse.json) |
-| [September 18 at 12:32 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-18T00:32:27.363725-05:00.lighthouse.json) |
-| [September 17 at 11:57 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-17T11:56:56.566664-05:00.lighthouse.json) |
-| [September 17 at 12:25 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-17T00:25:43.427631-05:00.lighthouse.json) |
-| [September 16 at 12:02 PM](https://archive.org/download/wfaa-2022/wfaa-2022-09-16T12:02:16.252102-05:00.lighthouse.json) |
-| [September 16 at 12:35 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-16T00:35:46.112030-05:00.lighthouse.json) |
-| [September 15 at 12:18 PM](https://archive.org/download/wfaa-2022/wfaa-2022-09-15T12:17:47.921862-05:00.lighthouse.json) |
-| [September 15 at 12:36 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-15T00:35:52.823244-05:00.lighthouse.json) |
+| [September 28 at 2:59 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-28T02:59:23.169019-05:00.lighthouse.json) |
+| [September 27 at 2:45 PM](https://archive.org/download/wfaa-2022/wfaa-2022-09-27T14:44:53.121911-05:00.lighthouse.json) |
+| [September 27 at 2:06 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-27T02:06:18.733824-05:00.lighthouse.json) |
+| [September 26 at 2:14 PM](https://archive.org/download/wfaa-2022/wfaa-2022-09-26T14:14:37.176276-05:00.lighthouse.json) |
+| [September 26 at 2:34 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-26T02:34:06.028885-05:00.lighthouse.json) |
+| [September 25 at 1:49 PM](https://archive.org/download/wfaa-2022/wfaa-2022-09-25T13:49:21.923217-05:00.lighthouse.json) |
+| [September 25 at 2:02 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-25T02:02:30.877273-05:00.lighthouse.json) |
+| [September 24 at 1:41 PM](https://archive.org/download/wfaa-2022/wfaa-2022-09-24T13:41:39.019970-05:00.lighthouse.json) |
+| [September 24 at 2:04 AM](https://archive.org/download/wfaa-2022/wfaa-2022-09-24T02:03:58.565090-05:00.lighthouse.json) |
+| [September 23 at 2:22 PM](https://archive.org/download/wfaa-2022/wfaa-2022-09-23T14:22:34.973422-05:00.lighthouse.json) |
 
 
 

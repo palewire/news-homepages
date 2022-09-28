@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 169 screenshots with the Internet Archive.
+The archiving routine has saved 171 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,6 +120,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/espn-2022/espn-2022-09-28T02:23:18.025494-04:00.jpg">
+  <img src="https://archive.org/download/espn-2022/espn-2022-09-28T02:23:18.025494-04:00.jpg"
+     alt="ESPN at 2022-09-28 02:23:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/espn-2022/espn-2022-09-28T02:23:18.025494-04:00.jpg">September 28 at 2:23 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/espn-2022/espn-2022-09-27T13:57:25.973568-04:00.jpg">
+  <img src="https://archive.org/download/espn-2022/espn-2022-09-27T13:57:25.973568-04:00.jpg"
+     alt="ESPN at 2022-09-27 13:57:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/espn-2022/espn-2022-09-27T13:57:25.973568-04:00.jpg">September 27 at 1:57 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/espn-2022/espn-2022-09-27T02:59:45.935993-04:00.jpg">
   <img src="https://archive.org/download/espn-2022/espn-2022-09-27T02:59:45.935993-04:00.jpg"
      alt="ESPN at 2022-09-27 02:59:53-04:00 local time"
@@ -209,29 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/espn-2022/espn-2022-09-22T13:42:04.322825-04:00.jpg">September 22 at 1:42 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/espn-2022/espn-2022-09-22T02:05:05.746644-04:00.jpg">
-  <img src="https://archive.org/download/espn-2022/espn-2022-09-22T02:05:05.746644-04:00.jpg"
-     alt="ESPN at 2022-09-22 02:05:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/espn-2022/espn-2022-09-22T02:05:05.746644-04:00.jpg">September 22 at 2:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/espn-2022/espn-2022-09-21T13:42:20.952515-04:00.jpg">
-  <img src="https://archive.org/download/espn-2022/espn-2022-09-21T13:42:20.952515-04:00.jpg"
-     alt="ESPN at 2022-09-21 13:42:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/espn-2022/espn-2022-09-21T13:42:20.952515-04:00.jpg">September 21 at 1:42 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 170 hyperlink lists with the Internet Archive.
+The archiving routine has saved 172 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 2:23 AM](https://archive.org/download/espn-2022/espn-2022-09-28T02:23:18.025494-04:00.hyperlinks.json) |
+| [September 27 at 1:57 PM](https://archive.org/download/espn-2022/espn-2022-09-27T13:57:25.973568-04:00.hyperlinks.json) |
 | [September 27 at 2:59 AM](https://archive.org/download/espn-2022/espn-2022-09-27T02:59:45.935993-04:00.hyperlinks.json) |
 | [September 26 at 1:47 PM](https://archive.org/download/espn-2022/espn-2022-09-26T13:47:30.238075-04:00.hyperlinks.json) |
 | [September 26 at 2:18 AM](https://archive.org/download/espn-2022/espn-2022-09-26T02:18:24.409948-04:00.hyperlinks.json) |
@@ -330,13 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 1:26 PM](https://archive.org/download/espn-2022/espn-2022-09-24T13:26:32.215148-04:00.hyperlinks.json) |
 | [September 24 at 1:53 AM](https://archive.org/download/espn-2022/espn-2022-09-24T01:53:13.247201-04:00.hyperlinks.json) |
 | [September 23 at 1:43 PM](https://archive.org/download/espn-2022/espn-2022-09-23T13:42:51.996731-04:00.hyperlinks.json) |
-| [September 23 at 3:14 AM](https://archive.org/download/espn-2022/espn-2022-09-23T03:14:43.713282-04:00.hyperlinks.json) |
-| [September 22 at 1:42 PM](https://archive.org/download/espn-2022/espn-2022-09-22T13:42:04.322825-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 170 accessibility trees with the Internet Archive.
+The archiving routine has saved 172 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 2:23 AM](https://archive.org/download/espn-2022/espn-2022-09-28T02:23:18.025494-04:00.accessibility.json) |
+| [September 27 at 1:57 PM](https://archive.org/download/espn-2022/espn-2022-09-27T13:57:25.973568-04:00.accessibility.json) |
 | [September 27 at 2:59 AM](https://archive.org/download/espn-2022/espn-2022-09-27T02:59:45.935993-04:00.accessibility.json) |
 | [September 26 at 1:47 PM](https://archive.org/download/espn-2022/espn-2022-09-26T13:47:30.238075-04:00.accessibility.json) |
 | [September 26 at 2:18 AM](https://archive.org/download/espn-2022/espn-2022-09-26T02:18:24.409948-04:00.accessibility.json) |
@@ -435,14 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 1:26 PM](https://archive.org/download/espn-2022/espn-2022-09-24T13:26:32.215148-04:00.accessibility.json) |
 | [September 24 at 1:53 AM](https://archive.org/download/espn-2022/espn-2022-09-24T01:53:13.247201-04:00.accessibility.json) |
 | [September 23 at 1:43 PM](https://archive.org/download/espn-2022/espn-2022-09-23T13:42:51.996731-04:00.accessibility.json) |
-| [September 23 at 3:14 AM](https://archive.org/download/espn-2022/espn-2022-09-23T03:14:43.713282-04:00.accessibility.json) |
-| [September 22 at 1:42 PM](https://archive.org/download/espn-2022/espn-2022-09-22T13:42:04.322825-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 130 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 2:23 AM](https://archive.org/download/espn-2022/espn-2022-09-28T02:23:18.025494-04:00.lighthouse.json) |
+| [September 27 at 1:57 PM](https://archive.org/download/espn-2022/espn-2022-09-27T13:57:25.973568-04:00.lighthouse.json) |
 | [September 27 at 2:59 AM](https://archive.org/download/espn-2022/espn-2022-09-27T02:59:45.935993-04:00.lighthouse.json) |
 | [September 26 at 1:47 PM](https://archive.org/download/espn-2022/espn-2022-09-26T13:47:30.238075-04:00.lighthouse.json) |
 | [September 26 at 2:18 AM](https://archive.org/download/espn-2022/espn-2022-09-26T02:18:24.409948-04:00.lighthouse.json) |
@@ -541,8 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 1:26 PM](https://archive.org/download/espn-2022/espn-2022-09-24T13:26:32.215148-04:00.lighthouse.json) |
 | [September 24 at 1:53 AM](https://archive.org/download/espn-2022/espn-2022-09-24T01:53:13.247201-04:00.lighthouse.json) |
 | [September 23 at 1:43 PM](https://archive.org/download/espn-2022/espn-2022-09-23T13:42:51.996731-04:00.lighthouse.json) |
-| [September 23 at 3:14 AM](https://archive.org/download/espn-2022/espn-2022-09-23T03:14:43.713282-04:00.lighthouse.json) |
-| [September 22 at 1:42 PM](https://archive.org/download/espn-2022/espn-2022-09-22T13:42:04.322825-04:00.lighthouse.json) |
 
 
 

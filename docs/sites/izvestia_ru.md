@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 216 screenshots with the Internet Archive.
+The archiving routine has saved 217 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 216 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-28T09:10:07.314244+03:00.jpg">
+  <img src="https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-28T09:10:07.314244+03:00.jpg"
+     alt="Izvestia at 2022-09-28 09:10:14+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-28T09:10:07.314244+03:00.jpg">September 28 at 9:10 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-27T20:36:22.150085+03:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-24T10:04:35.243944+03:00.jpg">September 24 at 10:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-24T08:38:25.471726+03:00.jpg">
-  <img src="https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-24T08:38:25.471726+03:00.jpg"
-     alt="Izvestia at 2022-09-24 08:38:37+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-24T08:38:25.471726+03:00.jpg">September 24 at 8:38 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 217 hyperlink lists with the Internet Archive.
+The archiving routine has saved 218 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 9:10 AM](https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-28T09:10:07.314244+03:00.hyperlinks.json) |
 | [September 27 at 8:36 PM](https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-27T20:36:22.150085+03:00.hyperlinks.json) |
 | [September 27 at 10:07 AM](https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-27T10:07:00.869680+03:00.hyperlinks.json) |
 | [September 27 at 8:41 AM](https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-27T08:41:41.567486+03:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 8:12 PM](https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-25T20:12:00.555303+03:00.hyperlinks.json) |
 | [September 25 at 10:03 AM](https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-25T10:03:26.521646+03:00.hyperlinks.json) |
 | [September 25 at 8:37 AM](https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-25T08:37:44.177961+03:00.hyperlinks.json) |
-| [September 24 at 8:10 PM](https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-24T20:10:43.337703+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 216 accessibility trees with the Internet Archive.
+The archiving routine has saved 217 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 9:10 AM](https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-28T09:10:07.314244+03:00.accessibility.json) |
 | [September 27 at 8:36 PM](https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-27T20:36:22.150085+03:00.accessibility.json) |
 | [September 27 at 10:07 AM](https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-27T10:07:00.869680+03:00.accessibility.json) |
 | [September 27 at 8:41 AM](https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-27T08:41:41.567486+03:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 10:03 AM](https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-25T10:03:26.521646+03:00.accessibility.json) |
 | [September 25 at 8:37 AM](https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-25T08:37:44.177961+03:00.accessibility.json) |
 | [September 24 at 8:10 PM](https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-24T20:10:43.337703+03:00.accessibility.json) |
-| [September 24 at 10:04 AM](https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-24T10:04:35.243944+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 150 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 151 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 9:10 AM](https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-28T09:10:07.314244+03:00.lighthouse.json) |
 | [September 27 at 8:36 PM](https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-27T20:36:22.150085+03:00.lighthouse.json) |
 | [September 27 at 10:07 AM](https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-27T10:07:00.869680+03:00.lighthouse.json) |
 | [September 27 at 8:41 AM](https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-27T08:41:41.567486+03:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 8:12 PM](https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-25T20:12:00.555303+03:00.lighthouse.json) |
 | [September 25 at 10:03 AM](https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-25T10:03:26.521646+03:00.lighthouse.json) |
 | [September 25 at 8:37 AM](https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-25T08:37:44.177961+03:00.lighthouse.json) |
-| [September 24 at 8:10 PM](https://archive.org/download/izvestia_ru-2022/izvestia_ru-2022-09-24T20:10:43.337703+03:00.lighthouse.json) |
 
 
 

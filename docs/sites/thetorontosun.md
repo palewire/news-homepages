@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 178 screenshots with the Internet Archive.
+The archiving routine has saved 195 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-19T13:28:53.136163-04:00.jpg">
-  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-19T13:28:53.136163-04:00.jpg"
-     alt="Toronto Sun at 2022-09-19 13:29:00-04:00 local time"
+ <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-28T03:56:07.159542-04:00.jpg">
+  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-28T03:56:07.159542-04:00.jpg"
+     alt="Toronto Sun at 2022-09-28 03:56:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-19T13:28:53.136163-04:00.jpg">September 19 at 1:29 PM</a></p>
+ <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-28T03:56:07.159542-04:00.jpg">September 28 at 3:56 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-19T02:00:05.891896-04:00.jpg">
-  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-19T02:00:05.891896-04:00.jpg"
-     alt="Toronto Sun at 2022-09-19 02:00:07-04:00 local time"
+ <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-27T15:42:32.182874-04:00.jpg">
+  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-27T15:42:32.182874-04:00.jpg"
+     alt="Toronto Sun at 2022-09-27 15:42:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-19T02:00:05.891896-04:00.jpg">September 19 at 2:00 AM</a></p>
+ <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-27T15:42:32.182874-04:00.jpg">September 27 at 3:42 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-18T13:18:06.377467-04:00.jpg">
-  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-18T13:18:06.377467-04:00.jpg"
-     alt="Toronto Sun at 2022-09-18 13:18:12-04:00 local time"
+ <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-27T03:04:08.200114-04:00.jpg">
+  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-27T03:04:08.200114-04:00.jpg"
+     alt="Toronto Sun at 2022-09-27 03:04:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-18T13:18:06.377467-04:00.jpg">September 18 at 1:18 PM</a></p>
+ <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-27T03:04:08.200114-04:00.jpg">September 27 at 3:04 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-18T01:30:59.826348-04:00.jpg">
-  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-18T01:30:59.826348-04:00.jpg"
-     alt="Toronto Sun at 2022-09-18 01:31:01-04:00 local time"
+ <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-26T15:12:23.187180-04:00.jpg">
+  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-26T15:12:23.187180-04:00.jpg"
+     alt="Toronto Sun at 2022-09-26 15:12:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-18T01:30:59.826348-04:00.jpg">September 18 at 1:31 AM</a></p>
+ <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-26T15:12:23.187180-04:00.jpg">September 26 at 3:12 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-17T12:55:06.382476-04:00.jpg">
-  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-17T12:55:06.382476-04:00.jpg"
-     alt="Toronto Sun at 2022-09-17 12:55:08-04:00 local time"
+ <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-26T03:32:13.682485-04:00.jpg">
+  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-26T03:32:13.682485-04:00.jpg"
+     alt="Toronto Sun at 2022-09-26 03:32:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-17T12:55:06.382476-04:00.jpg">September 17 at 12:55 PM</a></p>
+ <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-26T03:32:13.682485-04:00.jpg">September 26 at 3:32 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-17T01:25:47.106179-04:00.jpg">
-  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-17T01:25:47.106179-04:00.jpg"
-     alt="Toronto Sun at 2022-09-17 01:25:48-04:00 local time"
+ <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-25T14:46:47.558806-04:00.jpg">
+  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-25T14:46:47.558806-04:00.jpg"
+     alt="Toronto Sun at 2022-09-25 14:46:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-17T01:25:47.106179-04:00.jpg">September 17 at 1:25 AM</a></p>
+ <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-25T14:46:47.558806-04:00.jpg">September 25 at 2:46 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-16T13:00:17.577011-04:00.jpg">
-  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-16T13:00:17.577011-04:00.jpg"
-     alt="Toronto Sun at 2022-09-16 13:00:24-04:00 local time"
+ <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-25T03:00:56.795800-04:00.jpg">
+  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-25T03:00:56.795800-04:00.jpg"
+     alt="Toronto Sun at 2022-09-25 03:00:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-16T13:00:17.577011-04:00.jpg">September 16 at 1:00 PM</a></p>
+ <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-25T03:00:56.795800-04:00.jpg">September 25 at 3:00 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-16T01:34:47.302358-04:00.jpg">
-  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-16T01:34:47.302358-04:00.jpg"
-     alt="Toronto Sun at 2022-09-16 01:34:48-04:00 local time"
+ <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-24T14:39:46.225128-04:00.jpg">
+  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-24T14:39:46.225128-04:00.jpg"
+     alt="Toronto Sun at 2022-09-24 14:39:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-16T01:34:47.302358-04:00.jpg">September 16 at 1:34 AM</a></p>
+ <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-24T14:39:46.225128-04:00.jpg">September 24 at 2:39 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-15T13:15:51.971775-04:00.jpg">
-  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-15T13:15:51.971775-04:00.jpg"
-     alt="Toronto Sun at 2022-09-15 13:16:03-04:00 local time"
+ <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-24T03:02:27.035793-04:00.jpg">
+  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-24T03:02:27.035793-04:00.jpg"
+     alt="Toronto Sun at 2022-09-24 03:02:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-15T13:15:51.971775-04:00.jpg">September 15 at 1:16 PM</a></p>
+ <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-24T03:02:27.035793-04:00.jpg">September 24 at 3:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-15T01:34:11.324969-04:00.jpg">
-  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-15T01:34:11.324969-04:00.jpg"
-     alt="Toronto Sun at 2022-09-15 01:34:13-04:00 local time"
+ <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-23T15:20:05.713066-04:00.jpg">
+  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-23T15:20:05.713066-04:00.jpg"
+     alt="Toronto Sun at 2022-09-23 15:20:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-15T01:34:11.324969-04:00.jpg">September 15 at 1:34 AM</a></p>
+ <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-23T15:20:05.713066-04:00.jpg">September 23 at 3:20 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-14T13:19:41.241290-04:00.jpg">
-  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-14T13:19:41.241290-04:00.jpg"
-     alt="Toronto Sun at 2022-09-14 13:19:47-04:00 local time"
+ <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-23T03:26:15.105132-04:00.jpg">
+  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-23T03:26:15.105132-04:00.jpg"
+     alt="Toronto Sun at 2022-09-23 03:26:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-14T13:19:41.241290-04:00.jpg">September 14 at 1:19 PM</a></p>
+ <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-23T03:26:15.105132-04:00.jpg">September 23 at 3:26 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-14T01:38:55.063132-04:00.jpg">
-  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-14T01:38:55.063132-04:00.jpg"
-     alt="Toronto Sun at 2022-09-14 01:38:57-04:00 local time"
+ <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-22T14:54:32.728287-04:00.jpg">
+  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-22T14:54:32.728287-04:00.jpg"
+     alt="Toronto Sun at 2022-09-22 14:54:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-14T01:38:55.063132-04:00.jpg">September 14 at 1:38 AM</a></p>
+ <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-22T14:54:32.728287-04:00.jpg">September 22 at 2:54 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 179 hyperlink lists with the Internet Archive.
+The archiving routine has saved 196 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 1:29 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-19T13:28:53.136163-04:00.hyperlinks.json) |
-| [September 19 at 2:00 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-19T02:00:05.891896-04:00.hyperlinks.json) |
-| [September 18 at 1:18 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-18T13:18:06.377467-04:00.hyperlinks.json) |
-| [September 18 at 1:31 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-18T01:30:59.826348-04:00.hyperlinks.json) |
-| [September 17 at 12:55 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-17T12:55:06.382476-04:00.hyperlinks.json) |
-| [September 17 at 1:25 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-17T01:25:47.106179-04:00.hyperlinks.json) |
-| [September 16 at 1:00 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-16T13:00:17.577011-04:00.hyperlinks.json) |
-| [September 16 at 1:34 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-16T01:34:47.302358-04:00.hyperlinks.json) |
-| [September 15 at 1:16 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-15T13:15:51.971775-04:00.hyperlinks.json) |
-| [September 15 at 1:34 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-15T01:34:11.324969-04:00.hyperlinks.json) |
+| [September 28 at 3:56 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-28T03:56:07.159542-04:00.hyperlinks.json) |
+| [September 27 at 3:42 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-27T15:42:32.182874-04:00.hyperlinks.json) |
+| [September 27 at 3:04 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-27T03:04:08.200114-04:00.hyperlinks.json) |
+| [September 26 at 3:12 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-26T15:12:23.187180-04:00.hyperlinks.json) |
+| [September 26 at 3:32 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-26T03:32:13.682485-04:00.hyperlinks.json) |
+| [September 25 at 2:46 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-25T14:46:47.558806-04:00.hyperlinks.json) |
+| [September 25 at 3:01 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-25T03:00:56.795800-04:00.hyperlinks.json) |
+| [September 24 at 2:39 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-24T14:39:46.225128-04:00.hyperlinks.json) |
+| [September 24 at 3:02 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-24T03:02:27.035793-04:00.hyperlinks.json) |
+| [September 23 at 3:20 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-23T15:20:05.713066-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 179 accessibility trees with the Internet Archive.
+The archiving routine has saved 196 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 1:29 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-19T13:28:53.136163-04:00.accessibility.json) |
-| [September 19 at 2:00 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-19T02:00:05.891896-04:00.accessibility.json) |
-| [September 18 at 1:18 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-18T13:18:06.377467-04:00.accessibility.json) |
-| [September 18 at 1:31 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-18T01:30:59.826348-04:00.accessibility.json) |
-| [September 17 at 12:55 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-17T12:55:06.382476-04:00.accessibility.json) |
-| [September 17 at 1:25 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-17T01:25:47.106179-04:00.accessibility.json) |
-| [September 16 at 1:00 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-16T13:00:17.577011-04:00.accessibility.json) |
-| [September 16 at 1:34 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-16T01:34:47.302358-04:00.accessibility.json) |
-| [September 15 at 1:16 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-15T13:15:51.971775-04:00.accessibility.json) |
-| [September 15 at 1:34 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-15T01:34:11.324969-04:00.accessibility.json) |
+| [September 28 at 3:56 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-28T03:56:07.159542-04:00.accessibility.json) |
+| [September 27 at 3:42 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-27T15:42:32.182874-04:00.accessibility.json) |
+| [September 27 at 3:04 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-27T03:04:08.200114-04:00.accessibility.json) |
+| [September 26 at 3:12 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-26T15:12:23.187180-04:00.accessibility.json) |
+| [September 26 at 3:32 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-26T03:32:13.682485-04:00.accessibility.json) |
+| [September 25 at 2:46 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-25T14:46:47.558806-04:00.accessibility.json) |
+| [September 25 at 3:01 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-25T03:00:56.795800-04:00.accessibility.json) |
+| [September 24 at 2:39 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-24T14:39:46.225128-04:00.accessibility.json) |
+| [September 24 at 3:02 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-24T03:02:27.035793-04:00.accessibility.json) |
+| [September 23 at 3:20 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-23T15:20:05.713066-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 115 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 1:29 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-19T13:28:53.136163-04:00.lighthouse.json) |
-| [September 19 at 2:00 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-19T02:00:05.891896-04:00.lighthouse.json) |
-| [September 18 at 1:18 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-18T13:18:06.377467-04:00.lighthouse.json) |
-| [September 18 at 1:31 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-18T01:30:59.826348-04:00.lighthouse.json) |
-| [September 17 at 12:55 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-17T12:55:06.382476-04:00.lighthouse.json) |
-| [September 17 at 1:25 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-17T01:25:47.106179-04:00.lighthouse.json) |
-| [September 16 at 1:00 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-16T13:00:17.577011-04:00.lighthouse.json) |
-| [September 16 at 1:34 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-16T01:34:47.302358-04:00.lighthouse.json) |
-| [September 15 at 1:16 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-15T13:15:51.971775-04:00.lighthouse.json) |
-| [September 15 at 1:34 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-15T01:34:11.324969-04:00.lighthouse.json) |
+| [September 28 at 3:56 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-28T03:56:07.159542-04:00.lighthouse.json) |
+| [September 27 at 3:42 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-27T15:42:32.182874-04:00.lighthouse.json) |
+| [September 27 at 3:04 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-27T03:04:08.200114-04:00.lighthouse.json) |
+| [September 26 at 3:12 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-26T15:12:23.187180-04:00.lighthouse.json) |
+| [September 26 at 3:32 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-26T03:32:13.682485-04:00.lighthouse.json) |
+| [September 25 at 2:46 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-25T14:46:47.558806-04:00.lighthouse.json) |
+| [September 25 at 3:01 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-25T03:00:56.795800-04:00.lighthouse.json) |
+| [September 24 at 2:39 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-24T14:39:46.225128-04:00.lighthouse.json) |
+| [September 24 at 3:02 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-24T03:02:27.035793-04:00.lighthouse.json) |
+| [September 23 at 3:20 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-09-23T15:20:05.713066-04:00.lighthouse.json) |
 
 
 

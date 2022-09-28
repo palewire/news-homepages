@@ -28,8 +28,91 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 32 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/reckonnews.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
@@ -37,180 +120,429 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-19T12:36:50.260224-05:00.jpg">
-  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-19T12:36:50.260224-05:00.jpg"
-     alt="Reckon at 2022-09-19 12:36:52-05:00 local time"
+ <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-28T02:49:55.470901-05:00.jpg">
+  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-28T02:49:55.470901-05:00.jpg"
+     alt="Reckon at 2022-09-28 02:49:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-19T12:36:50.260224-05:00.jpg">September 19 at 12:36 PM</a></p>
+ <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-28T02:49:55.470901-05:00.jpg">September 28 at 2:49 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-19T01:06:57.319562-05:00.jpg">
-  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-19T01:06:57.319562-05:00.jpg"
-     alt="Reckon at 2022-09-19 01:06:59-05:00 local time"
+ <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-27T14:12:56.824849-05:00.jpg">
+  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-27T14:12:56.824849-05:00.jpg"
+     alt="Reckon at 2022-09-27 14:13:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-19T01:06:57.319562-05:00.jpg">September 19 at 1:06 AM</a></p>
+ <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-27T14:12:56.824849-05:00.jpg">September 27 at 2:13 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-18T12:29:55.050258-05:00.jpg">
-  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-18T12:29:55.050258-05:00.jpg"
-     alt="Reckon at 2022-09-18 12:29:56-05:00 local time"
+ <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-27T02:10:53.512164-05:00.jpg">
+  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-27T02:10:53.512164-05:00.jpg"
+     alt="Reckon at 2022-09-27 02:10:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-18T12:29:55.050258-05:00.jpg">September 18 at 12:29 PM</a></p>
+ <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-27T02:10:53.512164-05:00.jpg">September 27 at 2:10 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-18T00:27:35.030031-05:00.jpg">
-  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-18T00:27:35.030031-05:00.jpg"
-     alt="Reckon at 2022-09-18 00:27:37-05:00 local time"
+ <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-26T14:30:14.925383-05:00.jpg">
+  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-26T14:30:14.925383-05:00.jpg"
+     alt="Reckon at 2022-09-26 14:30:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-18T00:27:35.030031-05:00.jpg">September 18 at 12:27 AM</a></p>
+ <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-26T14:30:14.925383-05:00.jpg">September 26 at 2:30 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-17T11:52:48.678979-05:00.jpg">
-  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-17T11:52:48.678979-05:00.jpg"
-     alt="Reckon at 2022-09-17 11:52:50-05:00 local time"
+ <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-26T02:44:40.677599-05:00.jpg">
+  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-26T02:44:40.677599-05:00.jpg"
+     alt="Reckon at 2022-09-26 02:44:42-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-17T11:52:48.678979-05:00.jpg">September 17 at 11:52 AM</a></p>
+ <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-26T02:44:40.677599-05:00.jpg">September 26 at 2:44 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-17T00:21:15.317307-05:00.jpg">
-  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-17T00:21:15.317307-05:00.jpg"
-     alt="Reckon at 2022-09-17 00:21:16-05:00 local time"
+ <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-25T13:33:26.423297-05:00.jpg">
+  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-25T13:33:26.423297-05:00.jpg"
+     alt="Reckon at 2022-09-25 13:33:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-17T00:21:15.317307-05:00.jpg">September 17 at 12:21 AM</a></p>
+ <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-25T13:33:26.423297-05:00.jpg">September 25 at 1:33 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-16T11:56:44.366151-05:00.jpg">
-  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-16T11:56:44.366151-05:00.jpg"
-     alt="Reckon at 2022-09-16 11:56:46-05:00 local time"
+ <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-25T01:56:52.279171-05:00.jpg">
+  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-25T01:56:52.279171-05:00.jpg"
+     alt="Reckon at 2022-09-25 01:56:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-16T11:56:44.366151-05:00.jpg">September 16 at 11:56 AM</a></p>
+ <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-25T01:56:52.279171-05:00.jpg">September 25 at 1:56 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-16T00:30:39.907750-05:00.jpg">
-  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-16T00:30:39.907750-05:00.jpg"
-     alt="Reckon at 2022-09-16 00:30:41-05:00 local time"
+ <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-24T13:32:51.024256-05:00.jpg">
+  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-24T13:32:51.024256-05:00.jpg"
+     alt="Reckon at 2022-09-24 13:32:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-16T00:30:39.907750-05:00.jpg">September 16 at 12:30 AM</a></p>
+ <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-24T13:32:51.024256-05:00.jpg">September 24 at 1:32 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-15T12:13:05.767478-05:00.jpg">
-  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-15T12:13:05.767478-05:00.jpg"
-     alt="Reckon at 2022-09-15 12:13:09-05:00 local time"
+ <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-24T01:58:00.350153-05:00.jpg">
+  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-24T01:58:00.350153-05:00.jpg"
+     alt="Reckon at 2022-09-24 01:58:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-15T12:13:05.767478-05:00.jpg">September 15 at 12:13 PM</a></p>
+ <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-24T01:58:00.350153-05:00.jpg">September 24 at 1:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-15T00:30:06.316428-05:00.jpg">
-  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-15T00:30:06.316428-05:00.jpg"
-     alt="Reckon at 2022-09-15 00:30:09-05:00 local time"
+ <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-23T13:52:04.922973-05:00.jpg">
+  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-23T13:52:04.922973-05:00.jpg"
+     alt="Reckon at 2022-09-23 13:52:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-15T00:30:06.316428-05:00.jpg">September 15 at 12:30 AM</a></p>
+ <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-23T13:52:04.922973-05:00.jpg">September 23 at 1:52 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-14T12:16:11.467034-05:00.jpg">
-  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-14T12:16:11.467034-05:00.jpg"
-     alt="Reckon at 2022-09-14 12:16:14-05:00 local time"
+ <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-23T02:20:33.718887-05:00.jpg">
+  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-23T02:20:33.718887-05:00.jpg"
+     alt="Reckon at 2022-09-23 02:20:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-14T12:16:11.467034-05:00.jpg">September 14 at 12:16 PM</a></p>
+ <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-23T02:20:33.718887-05:00.jpg">September 23 at 2:20 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-14T00:36:24.604638-05:00.jpg">
-  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-14T00:36:24.604638-05:00.jpg"
-     alt="Reckon at 2022-09-14 00:36:25-05:00 local time"
+ <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-22T02:25:18.063231-05:00.jpg">
+  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-22T02:25:18.063231-05:00.jpg"
+     alt="Reckon at 2022-09-22 02:25:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-14T00:36:24.604638-05:00.jpg">September 14 at 12:36 AM</a></p>
+ <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-22T02:25:18.063231-05:00.jpg">September 22 at 2:25 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 16 hyperlink lists with the Internet Archive.
+The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/reckonnews.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 12:36 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-19T12:36:50.260224-05:00.hyperlinks.json) |
-| [September 19 at 1:07 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-19T01:06:57.319562-05:00.hyperlinks.json) |
-| [September 18 at 12:29 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-18T12:29:55.050258-05:00.hyperlinks.json) |
-| [September 18 at 12:27 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-18T00:27:35.030031-05:00.hyperlinks.json) |
-| [September 17 at 11:52 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-17T11:52:48.678979-05:00.hyperlinks.json) |
-| [September 17 at 12:21 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-17T00:21:15.317307-05:00.hyperlinks.json) |
-| [September 16 at 11:56 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-16T11:56:44.366151-05:00.hyperlinks.json) |
-| [September 16 at 12:30 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-16T00:30:39.907750-05:00.hyperlinks.json) |
-| [September 15 at 12:13 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-15T12:13:05.767478-05:00.hyperlinks.json) |
-| [September 15 at 12:30 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-15T00:30:06.316428-05:00.hyperlinks.json) |
+| [September 28 at 2:50 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-28T02:49:55.470901-05:00.hyperlinks.json) |
+| [September 27 at 2:13 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-27T14:12:56.824849-05:00.hyperlinks.json) |
+| [September 27 at 2:10 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-27T02:10:53.512164-05:00.hyperlinks.json) |
+| [September 26 at 2:30 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-26T14:30:14.925383-05:00.hyperlinks.json) |
+| [September 26 at 2:44 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-26T02:44:40.677599-05:00.hyperlinks.json) |
+| [September 25 at 1:33 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-25T13:33:26.423297-05:00.hyperlinks.json) |
+| [September 25 at 1:56 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-25T01:56:52.279171-05:00.hyperlinks.json) |
+| [September 24 at 1:32 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-24T13:32:51.024256-05:00.hyperlinks.json) |
+| [September 24 at 1:58 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-24T01:58:00.350153-05:00.hyperlinks.json) |
+| [September 23 at 1:52 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-23T13:52:04.922973-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 15 accessibility trees with the Internet Archive.
+The archiving routine has saved 31 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/reckonnews.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 12:36 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-19T12:36:50.260224-05:00.accessibility.json) |
-| [September 19 at 1:07 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-19T01:06:57.319562-05:00.accessibility.json) |
-| [September 18 at 12:29 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-18T12:29:55.050258-05:00.accessibility.json) |
-| [September 18 at 12:27 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-18T00:27:35.030031-05:00.accessibility.json) |
-| [September 17 at 11:52 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-17T11:52:48.678979-05:00.accessibility.json) |
-| [September 17 at 12:21 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-17T00:21:15.317307-05:00.accessibility.json) |
-| [September 16 at 11:56 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-16T11:56:44.366151-05:00.accessibility.json) |
-| [September 16 at 12:30 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-16T00:30:39.907750-05:00.accessibility.json) |
-| [September 15 at 12:13 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-15T12:13:05.767478-05:00.accessibility.json) |
-| [September 15 at 12:30 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-15T00:30:06.316428-05:00.accessibility.json) |
+| [September 28 at 2:50 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-28T02:49:55.470901-05:00.accessibility.json) |
+| [September 27 at 2:13 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-27T14:12:56.824849-05:00.accessibility.json) |
+| [September 27 at 2:10 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-27T02:10:53.512164-05:00.accessibility.json) |
+| [September 26 at 2:30 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-26T14:30:14.925383-05:00.accessibility.json) |
+| [September 26 at 2:44 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-26T02:44:40.677599-05:00.accessibility.json) |
+| [September 25 at 1:33 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-25T13:33:26.423297-05:00.accessibility.json) |
+| [September 25 at 1:56 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-25T01:56:52.279171-05:00.accessibility.json) |
+| [September 24 at 1:32 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-24T13:32:51.024256-05:00.accessibility.json) |
+| [September 24 at 1:58 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-24T01:58:00.350153-05:00.accessibility.json) |
+| [September 23 at 1:52 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-23T13:52:04.922973-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/reckonnews.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 12:36 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-19T12:36:50.260224-05:00.lighthouse.json) |
-| [September 19 at 1:07 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-19T01:06:57.319562-05:00.lighthouse.json) |
-| [September 18 at 12:30 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-18T12:29:55.050258-05:00.lighthouse.json) |
-| [September 18 at 12:27 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-18T00:27:35.030031-05:00.lighthouse.json) |
-| [September 17 at 11:52 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-17T11:52:48.678979-05:00.lighthouse.json) |
-| [September 17 at 12:21 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-17T00:21:15.317307-05:00.lighthouse.json) |
-| [September 16 at 11:56 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-16T11:56:44.366151-05:00.lighthouse.json) |
-| [September 16 at 12:30 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-16T00:30:39.907750-05:00.lighthouse.json) |
-| [September 15 at 12:13 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-15T12:13:05.767478-05:00.lighthouse.json) |
-| [September 15 at 12:30 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-15T00:30:06.316428-05:00.lighthouse.json) |
+| [September 28 at 2:50 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-28T02:49:55.470901-05:00.lighthouse.json) |
+| [September 27 at 2:13 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-27T14:12:56.824849-05:00.lighthouse.json) |
+| [September 27 at 2:11 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-27T02:10:53.512164-05:00.lighthouse.json) |
+| [September 26 at 2:30 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-26T14:30:14.925383-05:00.lighthouse.json) |
+| [September 26 at 2:44 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-26T02:44:40.677599-05:00.lighthouse.json) |
+| [September 25 at 1:33 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-25T13:33:26.423297-05:00.lighthouse.json) |
+| [September 25 at 1:57 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-25T01:56:52.279171-05:00.lighthouse.json) |
+| [September 24 at 1:32 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-24T13:32:51.024256-05:00.lighthouse.json) |
+| [September 24 at 1:58 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-24T01:58:00.350153-05:00.lighthouse.json) |
+| [September 23 at 1:52 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-09-23T13:52:04.922973-05:00.lighthouse.json) |
 
 
 

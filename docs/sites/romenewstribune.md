@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 122 screenshots with the Internet Archive.
+The archiving routine has saved 139 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-19T13:25:20.937690-04:00.jpg">
-  <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-19T13:25:20.937690-04:00.jpg"
-     alt="Rome News-Tribune at 2022-09-19 13:25:26-04:00 local time"
+ <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-28T03:51:16.513528-04:00.jpg">
+  <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-28T03:51:16.513528-04:00.jpg"
+     alt="Rome News-Tribune at 2022-09-28 03:51:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-19T13:25:20.937690-04:00.jpg">September 19 at 1:25 PM</a></p>
+ <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-28T03:51:16.513528-04:00.jpg">September 28 at 3:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-19T01:56:25.003772-04:00.jpg">
-  <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-19T01:56:25.003772-04:00.jpg"
-     alt="Rome News-Tribune at 2022-09-19 01:56:26-04:00 local time"
+ <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-27T15:14:26.740885-04:00.jpg">
+  <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-27T15:14:26.740885-04:00.jpg"
+     alt="Rome News-Tribune at 2022-09-27 15:14:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-19T01:56:25.003772-04:00.jpg">September 19 at 1:56 AM</a></p>
+ <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-27T15:14:26.740885-04:00.jpg">September 27 at 3:14 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-18T13:16:18.111630-04:00.jpg">
-  <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-18T13:16:18.111630-04:00.jpg"
-     alt="Rome News-Tribune at 2022-09-18 13:16:26-04:00 local time"
+ <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-27T03:11:26.789702-04:00.jpg">
+  <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-27T03:11:26.789702-04:00.jpg"
+     alt="Rome News-Tribune at 2022-09-27 03:11:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-18T13:16:18.111630-04:00.jpg">September 18 at 1:16 PM</a></p>
+ <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-27T03:11:26.789702-04:00.jpg">September 27 at 3:11 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-18T01:29:01.438892-04:00.jpg">
-  <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-18T01:29:01.438892-04:00.jpg"
-     alt="Rome News-Tribune at 2022-09-18 01:29:05-04:00 local time"
+ <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-26T15:33:30.159430-04:00.jpg">
+  <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-26T15:33:30.159430-04:00.jpg"
+     alt="Rome News-Tribune at 2022-09-26 15:33:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-18T01:29:01.438892-04:00.jpg">September 18 at 1:29 AM</a></p>
+ <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-26T15:33:30.159430-04:00.jpg">September 26 at 3:33 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-17T12:52:57.323886-04:00.jpg">
-  <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-17T12:52:57.323886-04:00.jpg"
-     alt="Rome News-Tribune at 2022-09-17 12:52:58-04:00 local time"
+ <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-26T03:47:21.112627-04:00.jpg">
+  <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-26T03:47:21.112627-04:00.jpg"
+     alt="Rome News-Tribune at 2022-09-26 03:47:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-17T12:52:57.323886-04:00.jpg">September 17 at 12:52 PM</a></p>
+ <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-26T03:47:21.112627-04:00.jpg">September 26 at 3:47 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-17T01:21:25.212427-04:00.jpg">
-  <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-17T01:21:25.212427-04:00.jpg"
-     alt="Rome News-Tribune at 2022-09-17 01:21:27-04:00 local time"
+ <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-25T14:34:02.300315-04:00.jpg">
+  <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-25T14:34:02.300315-04:00.jpg"
+     alt="Rome News-Tribune at 2022-09-25 14:34:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-17T01:21:25.212427-04:00.jpg">September 17 at 1:21 AM</a></p>
+ <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-25T14:34:02.300315-04:00.jpg">September 25 at 2:34 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-16T12:56:41.268090-04:00.jpg">
-  <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-16T12:56:41.268090-04:00.jpg"
-     alt="Rome News-Tribune at 2022-09-16 12:56:43-04:00 local time"
+ <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-25T02:57:57.237183-04:00.jpg">
+  <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-25T02:57:57.237183-04:00.jpg"
+     alt="Rome News-Tribune at 2022-09-25 02:58:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-16T12:56:41.268090-04:00.jpg">September 16 at 12:56 PM</a></p>
+ <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-25T02:57:57.237183-04:00.jpg">September 25 at 2:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-16T01:31:09.460987-04:00.jpg">
-  <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-16T01:31:09.460987-04:00.jpg"
-     alt="Rome News-Tribune at 2022-09-16 01:31:14-04:00 local time"
+ <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-24T14:35:26.949469-04:00.jpg">
+  <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-24T14:35:26.949469-04:00.jpg"
+     alt="Rome News-Tribune at 2022-09-24 14:35:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-16T01:31:09.460987-04:00.jpg">September 16 at 1:31 AM</a></p>
+ <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-24T14:35:26.949469-04:00.jpg">September 24 at 2:35 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-15T13:12:21.294192-04:00.jpg">
-  <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-15T13:12:21.294192-04:00.jpg"
-     alt="Rome News-Tribune at 2022-09-15 13:12:32-04:00 local time"
+ <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-24T02:58:33.945971-04:00.jpg">
+  <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-24T02:58:33.945971-04:00.jpg"
+     alt="Rome News-Tribune at 2022-09-24 02:58:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-15T13:12:21.294192-04:00.jpg">September 15 at 1:12 PM</a></p>
+ <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-24T02:58:33.945971-04:00.jpg">September 24 at 2:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-15T01:31:58.366598-04:00.jpg">
-  <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-15T01:31:58.366598-04:00.jpg"
-     alt="Rome News-Tribune at 2022-09-15 01:32:00-04:00 local time"
+ <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-23T14:52:13.764754-04:00.jpg">
+  <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-23T14:52:13.764754-04:00.jpg"
+     alt="Rome News-Tribune at 2022-09-23 14:52:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-15T01:31:58.366598-04:00.jpg">September 15 at 1:32 AM</a></p>
+ <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-23T14:52:13.764754-04:00.jpg">September 23 at 2:52 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-14T13:15:19.972903-04:00.jpg">
-  <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-14T13:15:19.972903-04:00.jpg"
-     alt="Rome News-Tribune at 2022-09-14 13:15:31-04:00 local time"
+ <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-23T03:21:46.068999-04:00.jpg">
+  <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-23T03:21:46.068999-04:00.jpg"
+     alt="Rome News-Tribune at 2022-09-23 03:21:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-14T13:15:19.972903-04:00.jpg">September 14 at 1:15 PM</a></p>
+ <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-23T03:21:46.068999-04:00.jpg">September 23 at 3:21 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-14T01:36:15.915419-04:00.jpg">
-  <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-14T01:36:15.915419-04:00.jpg"
-     alt="Rome News-Tribune at 2022-09-14 01:36:17-04:00 local time"
+ <a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-22T15:27:13.767292-04:00.jpg">
+  <img src="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-22T15:27:13.767292-04:00.jpg"
+     alt="Rome News-Tribune at 2022-09-22 15:27:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-14T01:36:15.915419-04:00.jpg">September 14 at 1:36 AM</a></p>
+ <p><a href="https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-22T15:27:13.767292-04:00.jpg">September 22 at 3:27 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 121 hyperlink lists with the Internet Archive.
+The archiving routine has saved 138 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 1:25 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-19T13:25:20.937690-04:00.hyperlinks.json) |
-| [September 19 at 1:56 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-19T01:56:25.003772-04:00.hyperlinks.json) |
-| [September 18 at 1:16 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-18T13:16:18.111630-04:00.hyperlinks.json) |
-| [September 18 at 1:29 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-18T01:29:01.438892-04:00.hyperlinks.json) |
-| [September 17 at 12:53 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-17T12:52:57.323886-04:00.hyperlinks.json) |
-| [September 17 at 1:21 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-17T01:21:25.212427-04:00.hyperlinks.json) |
-| [September 16 at 12:56 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-16T12:56:41.268090-04:00.hyperlinks.json) |
-| [September 16 at 1:31 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-16T01:31:09.460987-04:00.hyperlinks.json) |
-| [September 15 at 1:12 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-15T13:12:21.294192-04:00.hyperlinks.json) |
-| [September 15 at 1:32 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-15T01:31:58.366598-04:00.hyperlinks.json) |
+| [September 28 at 3:51 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-28T03:51:16.513528-04:00.hyperlinks.json) |
+| [September 27 at 3:14 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-27T15:14:26.740885-04:00.hyperlinks.json) |
+| [September 27 at 3:11 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-27T03:11:26.789702-04:00.hyperlinks.json) |
+| [September 26 at 3:33 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-26T15:33:30.159430-04:00.hyperlinks.json) |
+| [September 26 at 3:47 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-26T03:47:21.112627-04:00.hyperlinks.json) |
+| [September 25 at 2:34 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-25T14:34:02.300315-04:00.hyperlinks.json) |
+| [September 25 at 2:58 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-25T02:57:57.237183-04:00.hyperlinks.json) |
+| [September 24 at 2:35 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-24T14:35:26.949469-04:00.hyperlinks.json) |
+| [September 24 at 2:58 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-24T02:58:33.945971-04:00.hyperlinks.json) |
+| [September 23 at 2:52 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-23T14:52:13.764754-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 122 accessibility trees with the Internet Archive.
+The archiving routine has saved 139 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 1:25 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-19T13:25:20.937690-04:00.accessibility.json) |
-| [September 19 at 1:56 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-19T01:56:25.003772-04:00.accessibility.json) |
-| [September 18 at 1:16 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-18T13:16:18.111630-04:00.accessibility.json) |
-| [September 18 at 1:29 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-18T01:29:01.438892-04:00.accessibility.json) |
-| [September 17 at 12:53 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-17T12:52:57.323886-04:00.accessibility.json) |
-| [September 17 at 1:21 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-17T01:21:25.212427-04:00.accessibility.json) |
-| [September 16 at 12:56 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-16T12:56:41.268090-04:00.accessibility.json) |
-| [September 16 at 1:31 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-16T01:31:09.460987-04:00.accessibility.json) |
-| [September 15 at 1:12 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-15T13:12:21.294192-04:00.accessibility.json) |
-| [September 15 at 1:32 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-15T01:31:58.366598-04:00.accessibility.json) |
+| [September 28 at 3:51 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-28T03:51:16.513528-04:00.accessibility.json) |
+| [September 27 at 3:14 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-27T15:14:26.740885-04:00.accessibility.json) |
+| [September 27 at 3:11 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-27T03:11:26.789702-04:00.accessibility.json) |
+| [September 26 at 3:33 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-26T15:33:30.159430-04:00.accessibility.json) |
+| [September 26 at 3:47 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-26T03:47:21.112627-04:00.accessibility.json) |
+| [September 25 at 2:34 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-25T14:34:02.300315-04:00.accessibility.json) |
+| [September 25 at 2:58 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-25T02:57:57.237183-04:00.accessibility.json) |
+| [September 24 at 2:35 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-24T14:35:26.949469-04:00.accessibility.json) |
+| [September 24 at 2:58 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-24T02:58:33.945971-04:00.accessibility.json) |
+| [September 23 at 2:52 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-23T14:52:13.764754-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 115 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 1:25 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-19T13:25:20.937690-04:00.lighthouse.json) |
-| [September 19 at 1:56 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-19T01:56:25.003772-04:00.lighthouse.json) |
-| [September 18 at 1:16 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-18T13:16:18.111630-04:00.lighthouse.json) |
-| [September 18 at 1:29 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-18T01:29:01.438892-04:00.lighthouse.json) |
-| [September 17 at 12:53 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-17T12:52:57.323886-04:00.lighthouse.json) |
-| [September 17 at 1:21 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-17T01:21:25.212427-04:00.lighthouse.json) |
-| [September 16 at 12:56 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-16T12:56:41.268090-04:00.lighthouse.json) |
-| [September 16 at 1:31 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-16T01:31:09.460987-04:00.lighthouse.json) |
-| [September 15 at 1:12 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-15T13:12:21.294192-04:00.lighthouse.json) |
-| [September 15 at 1:32 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-15T01:31:58.366598-04:00.lighthouse.json) |
+| [September 28 at 3:51 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-28T03:51:16.513528-04:00.lighthouse.json) |
+| [September 27 at 3:14 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-27T15:14:26.740885-04:00.lighthouse.json) |
+| [September 27 at 3:11 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-27T03:11:26.789702-04:00.lighthouse.json) |
+| [September 26 at 3:33 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-26T15:33:30.159430-04:00.lighthouse.json) |
+| [September 26 at 3:47 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-26T03:47:21.112627-04:00.lighthouse.json) |
+| [September 25 at 2:34 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-25T14:34:02.300315-04:00.lighthouse.json) |
+| [September 25 at 2:58 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-25T02:57:57.237183-04:00.lighthouse.json) |
+| [September 24 at 2:35 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-24T14:35:26.949469-04:00.lighthouse.json) |
+| [September 24 at 2:58 AM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-24T02:58:33.945971-04:00.lighthouse.json) |
+| [September 23 at 2:52 PM](https://archive.org/download/romenewstribune-2022/romenewstribune-2022-09-23T14:52:13.764754-04:00.lighthouse.json) |
 
 
 

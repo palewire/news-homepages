@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 108 screenshots with the Internet Archive.
+The archiving routine has saved 125 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-19T13:30:31.509854-04:00.jpg">
-  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-19T13:30:31.509854-04:00.jpg"
-     alt="WPLG Local 10 News at 2022-09-19 13:30:34-04:00 local time"
+ <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-28T03:58:44.566049-04:00.jpg">
+  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-28T03:58:44.566049-04:00.jpg"
+     alt="WPLG Local 10 News at 2022-09-28 03:58:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-19T13:30:31.509854-04:00.jpg">September 19 at 1:30 PM</a></p>
+ <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-28T03:58:44.566049-04:00.jpg">September 28 at 3:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-19T02:01:35.535744-04:00.jpg">
-  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-19T02:01:35.535744-04:00.jpg"
-     alt="WPLG Local 10 News at 2022-09-19 02:01:37-04:00 local time"
+ <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-27T15:45:24.206097-04:00.jpg">
+  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-27T15:45:24.206097-04:00.jpg"
+     alt="WPLG Local 10 News at 2022-09-27 15:45:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-19T02:01:35.535744-04:00.jpg">September 19 at 2:01 AM</a></p>
+ <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-27T15:45:24.206097-04:00.jpg">September 27 at 3:45 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-18T13:20:54.992997-04:00.jpg">
-  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-18T13:20:54.992997-04:00.jpg"
-     alt="WPLG Local 10 News at 2022-09-18 13:21:00-04:00 local time"
+ <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-27T03:05:57.726199-04:00.jpg">
+  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-27T03:05:57.726199-04:00.jpg"
+     alt="WPLG Local 10 News at 2022-09-27 03:06:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-18T13:20:54.992997-04:00.jpg">September 18 at 1:21 PM</a></p>
+ <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-27T03:05:57.726199-04:00.jpg">September 27 at 3:06 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-18T01:33:21.358663-04:00.jpg">
-  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-18T01:33:21.358663-04:00.jpg"
-     alt="WPLG Local 10 News at 2022-09-18 01:33:38-04:00 local time"
+ <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-26T15:14:48.521884-04:00.jpg">
+  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-26T15:14:48.521884-04:00.jpg"
+     alt="WPLG Local 10 News at 2022-09-26 15:14:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-18T01:33:21.358663-04:00.jpg">September 18 at 1:33 AM</a></p>
+ <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-26T15:14:48.521884-04:00.jpg">September 26 at 3:14 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-17T12:58:55.784560-04:00.jpg">
-  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-17T12:58:55.784560-04:00.jpg"
-     alt="WPLG Local 10 News at 2022-09-17 12:58:57-04:00 local time"
+ <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-26T03:34:00.953483-04:00.jpg">
+  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-26T03:34:00.953483-04:00.jpg"
+     alt="WPLG Local 10 News at 2022-09-26 03:34:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-17T12:58:55.784560-04:00.jpg">September 17 at 12:58 PM</a></p>
+ <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-26T03:34:00.953483-04:00.jpg">September 26 at 3:34 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-17T01:27:06.429164-04:00.jpg">
-  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-17T01:27:06.429164-04:00.jpg"
-     alt="WPLG Local 10 News at 2022-09-17 01:27:07-04:00 local time"
+ <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-25T14:50:07.255817-04:00.jpg">
+  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-25T14:50:07.255817-04:00.jpg"
+     alt="WPLG Local 10 News at 2022-09-25 14:50:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-17T01:27:06.429164-04:00.jpg">September 17 at 1:27 AM</a></p>
+ <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-25T14:50:07.255817-04:00.jpg">September 25 at 2:50 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-16T13:03:10.439932-04:00.jpg">
-  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-16T13:03:10.439932-04:00.jpg"
-     alt="WPLG Local 10 News at 2022-09-16 13:03:11-04:00 local time"
+ <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-25T03:02:48.408903-04:00.jpg">
+  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-25T03:02:48.408903-04:00.jpg"
+     alt="WPLG Local 10 News at 2022-09-25 03:03:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-16T13:03:10.439932-04:00.jpg">September 16 at 1:03 PM</a></p>
+ <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-25T03:02:48.408903-04:00.jpg">September 25 at 3:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-16T01:37:22.086086-04:00.jpg">
-  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-16T01:37:22.086086-04:00.jpg"
-     alt="WPLG Local 10 News at 2022-09-16 01:37:27-04:00 local time"
+ <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-24T14:41:17.059588-04:00.jpg">
+  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-24T14:41:17.059588-04:00.jpg"
+     alt="WPLG Local 10 News at 2022-09-24 14:41:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-16T01:37:22.086086-04:00.jpg">September 16 at 1:37 AM</a></p>
+ <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-24T14:41:17.059588-04:00.jpg">September 24 at 2:41 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-15T13:19:26.954893-04:00.jpg">
-  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-15T13:19:26.954893-04:00.jpg"
-     alt="WPLG Local 10 News at 2022-09-15 13:20:01-04:00 local time"
+ <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-24T03:04:12.684745-04:00.jpg">
+  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-24T03:04:12.684745-04:00.jpg"
+     alt="WPLG Local 10 News at 2022-09-24 03:04:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-15T13:19:26.954893-04:00.jpg">September 15 at 1:20 PM</a></p>
+ <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-24T03:04:12.684745-04:00.jpg">September 24 at 3:04 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-15T01:35:55.050799-04:00.jpg">
-  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-15T01:35:55.050799-04:00.jpg"
-     alt="WPLG Local 10 News at 2022-09-15 01:35:56-04:00 local time"
+ <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-23T15:24:06.685670-04:00.jpg">
+  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-23T15:24:06.685670-04:00.jpg"
+     alt="WPLG Local 10 News at 2022-09-23 15:24:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-15T01:35:55.050799-04:00.jpg">September 15 at 1:35 AM</a></p>
+ <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-23T15:24:06.685670-04:00.jpg">September 23 at 3:24 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-14T13:22:19.922943-04:00.jpg">
-  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-14T13:22:19.922943-04:00.jpg"
-     alt="WPLG Local 10 News at 2022-09-14 13:22:30-04:00 local time"
+ <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-23T03:28:20.716071-04:00.jpg">
+  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-23T03:28:20.716071-04:00.jpg"
+     alt="WPLG Local 10 News at 2022-09-23 03:28:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-14T13:22:19.922943-04:00.jpg">September 14 at 1:22 PM</a></p>
+ <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-23T03:28:20.716071-04:00.jpg">September 23 at 3:28 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-14T01:41:17.375516-04:00.jpg">
-  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-14T01:41:17.375516-04:00.jpg"
-     alt="WPLG Local 10 News at 2022-09-14 01:41:18-04:00 local time"
+ <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-22T14:56:20.150251-04:00.jpg">
+  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-22T14:56:20.150251-04:00.jpg"
+     alt="WPLG Local 10 News at 2022-09-22 14:56:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-14T01:41:17.375516-04:00.jpg">September 14 at 1:41 AM</a></p>
+ <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-22T14:56:20.150251-04:00.jpg">September 22 at 2:56 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 108 hyperlink lists with the Internet Archive.
+The archiving routine has saved 125 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 1:30 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-19T13:30:31.509854-04:00.hyperlinks.json) |
-| [September 19 at 2:01 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-19T02:01:35.535744-04:00.hyperlinks.json) |
-| [September 18 at 1:21 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-18T13:20:54.992997-04:00.hyperlinks.json) |
-| [September 18 at 1:33 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-18T01:33:21.358663-04:00.hyperlinks.json) |
-| [September 17 at 12:59 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-17T12:58:55.784560-04:00.hyperlinks.json) |
-| [September 17 at 1:27 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-17T01:27:06.429164-04:00.hyperlinks.json) |
-| [September 16 at 1:03 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-16T13:03:10.439932-04:00.hyperlinks.json) |
-| [September 16 at 1:37 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-16T01:37:22.086086-04:00.hyperlinks.json) |
-| [September 15 at 1:20 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-15T13:19:26.954893-04:00.hyperlinks.json) |
-| [September 15 at 1:36 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-15T01:35:55.050799-04:00.hyperlinks.json) |
+| [September 28 at 3:58 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-28T03:58:44.566049-04:00.hyperlinks.json) |
+| [September 27 at 3:45 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-27T15:45:24.206097-04:00.hyperlinks.json) |
+| [September 27 at 3:06 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-27T03:05:57.726199-04:00.hyperlinks.json) |
+| [September 26 at 3:14 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-26T15:14:48.521884-04:00.hyperlinks.json) |
+| [September 26 at 3:34 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-26T03:34:00.953483-04:00.hyperlinks.json) |
+| [September 25 at 2:50 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-25T14:50:07.255817-04:00.hyperlinks.json) |
+| [September 25 at 3:03 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-25T03:02:48.408903-04:00.hyperlinks.json) |
+| [September 24 at 2:41 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-24T14:41:17.059588-04:00.hyperlinks.json) |
+| [September 24 at 3:04 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-24T03:04:12.684745-04:00.hyperlinks.json) |
+| [September 23 at 3:24 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-23T15:24:06.685670-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 106 accessibility trees with the Internet Archive.
+The archiving routine has saved 123 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 1:30 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-19T13:30:31.509854-04:00.accessibility.json) |
-| [September 19 at 2:01 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-19T02:01:35.535744-04:00.accessibility.json) |
-| [September 18 at 1:21 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-18T13:20:54.992997-04:00.accessibility.json) |
-| [September 18 at 1:33 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-18T01:33:21.358663-04:00.accessibility.json) |
-| [September 17 at 12:58 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-17T12:58:55.784560-04:00.accessibility.json) |
-| [September 17 at 1:27 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-17T01:27:06.429164-04:00.accessibility.json) |
-| [September 16 at 1:03 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-16T13:03:10.439932-04:00.accessibility.json) |
-| [September 16 at 1:37 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-16T01:37:22.086086-04:00.accessibility.json) |
-| [September 15 at 1:20 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-15T13:19:26.954893-04:00.accessibility.json) |
-| [September 15 at 1:35 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-15T01:35:55.050799-04:00.accessibility.json) |
+| [September 28 at 3:58 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-28T03:58:44.566049-04:00.accessibility.json) |
+| [September 27 at 3:45 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-27T15:45:24.206097-04:00.accessibility.json) |
+| [September 27 at 3:06 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-27T03:05:57.726199-04:00.accessibility.json) |
+| [September 26 at 3:14 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-26T15:14:48.521884-04:00.accessibility.json) |
+| [September 26 at 3:34 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-26T03:34:00.953483-04:00.accessibility.json) |
+| [September 25 at 2:50 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-25T14:50:07.255817-04:00.accessibility.json) |
+| [September 25 at 3:03 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-25T03:02:48.408903-04:00.accessibility.json) |
+| [September 24 at 2:41 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-24T14:41:17.059588-04:00.accessibility.json) |
+| [September 24 at 3:04 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-24T03:04:12.684745-04:00.accessibility.json) |
+| [September 23 at 3:24 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-23T15:24:06.685670-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 108 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 125 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 1:30 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-19T13:30:31.509854-04:00.lighthouse.json) |
-| [September 19 at 2:01 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-19T02:01:35.535744-04:00.lighthouse.json) |
-| [September 18 at 1:21 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-18T13:20:54.992997-04:00.lighthouse.json) |
-| [September 18 at 1:33 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-18T01:33:21.358663-04:00.lighthouse.json) |
-| [September 17 at 12:59 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-17T12:58:55.784560-04:00.lighthouse.json) |
-| [September 17 at 1:27 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-17T01:27:06.429164-04:00.lighthouse.json) |
-| [September 16 at 1:03 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-16T13:03:10.439932-04:00.lighthouse.json) |
-| [September 16 at 1:37 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-16T01:37:22.086086-04:00.lighthouse.json) |
-| [September 15 at 1:20 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-15T13:19:26.954893-04:00.lighthouse.json) |
-| [September 15 at 1:36 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-15T01:35:55.050799-04:00.lighthouse.json) |
+| [September 28 at 3:58 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-28T03:58:44.566049-04:00.lighthouse.json) |
+| [September 27 at 3:45 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-27T15:45:24.206097-04:00.lighthouse.json) |
+| [September 27 at 3:06 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-27T03:05:57.726199-04:00.lighthouse.json) |
+| [September 26 at 3:15 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-26T15:14:48.521884-04:00.lighthouse.json) |
+| [September 26 at 3:34 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-26T03:34:00.953483-04:00.lighthouse.json) |
+| [September 25 at 2:50 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-25T14:50:07.255817-04:00.lighthouse.json) |
+| [September 25 at 3:03 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-25T03:02:48.408903-04:00.lighthouse.json) |
+| [September 24 at 2:41 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-24T14:41:17.059588-04:00.lighthouse.json) |
+| [September 24 at 3:04 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-24T03:04:12.684745-04:00.lighthouse.json) |
+| [September 23 at 3:24 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-09-23T15:24:06.685670-04:00.lighthouse.json) |
 
 
 

@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 127 screenshots with the Internet Archive.
+The archiving routine has saved 144 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/variety-2022/variety-2022-09-19T07:09:26.486050-07:00.jpg">
-  <img src="https://archive.org/download/variety-2022/variety-2022-09-19T07:09:26.486050-07:00.jpg"
-     alt="Variety at 2022-09-19 07:09:33-07:00 local time"
+ <a href="https://archive.org/download/variety-2022/variety-2022-09-27T23:06:00.580566-07:00.jpg">
+  <img src="https://archive.org/download/variety-2022/variety-2022-09-27T23:06:00.580566-07:00.jpg"
+     alt="Variety at 2022-09-27 23:06:04-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/variety-2022/variety-2022-09-19T07:09:26.486050-07:00.jpg">September 19 at 7:09 AM</a></p>
+ <p><a href="https://archive.org/download/variety-2022/variety-2022-09-27T23:06:00.580566-07:00.jpg">September 27 at 11:06 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/variety-2022/variety-2022-09-18T19:23:06.928655-07:00.jpg">
-  <img src="https://archive.org/download/variety-2022/variety-2022-09-18T19:23:06.928655-07:00.jpg"
-     alt="Variety at 2022-09-18 19:23:14-07:00 local time"
+ <a href="https://archive.org/download/variety-2022/variety-2022-09-27T09:09:02.510760-07:00.jpg">
+  <img src="https://archive.org/download/variety-2022/variety-2022-09-27T09:09:02.510760-07:00.jpg"
+     alt="Variety at 2022-09-27 09:09:07-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/variety-2022/variety-2022-09-18T19:23:06.928655-07:00.jpg">September 18 at 7:23 PM</a></p>
+ <p><a href="https://archive.org/download/variety-2022/variety-2022-09-27T09:09:02.510760-07:00.jpg">September 27 at 9:09 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/variety-2022/variety-2022-09-18T07:03:42.633871-07:00.jpg">
-  <img src="https://archive.org/download/variety-2022/variety-2022-09-18T07:03:42.633871-07:00.jpg"
-     alt="Variety at 2022-09-18 07:03:50-07:00 local time"
+ <a href="https://archive.org/download/variety-2022/variety-2022-09-26T21:31:59.873634-07:00.jpg">
+  <img src="https://archive.org/download/variety-2022/variety-2022-09-26T21:31:59.873634-07:00.jpg"
+     alt="Variety at 2022-09-26 21:32:12-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/variety-2022/variety-2022-09-18T07:03:42.633871-07:00.jpg">September 18 at 7:03 AM</a></p>
+ <p><a href="https://archive.org/download/variety-2022/variety-2022-09-26T21:31:59.873634-07:00.jpg">September 26 at 9:32 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/variety-2022/variety-2022-09-17T19:29:25.842453-07:00.jpg">
-  <img src="https://archive.org/download/variety-2022/variety-2022-09-17T19:29:25.842453-07:00.jpg"
-     alt="Variety at 2022-09-17 19:29:31-07:00 local time"
+ <a href="https://archive.org/download/variety-2022/variety-2022-09-26T09:07:57.633973-07:00.jpg">
+  <img src="https://archive.org/download/variety-2022/variety-2022-09-26T09:07:57.633973-07:00.jpg"
+     alt="Variety at 2022-09-26 09:08:05-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/variety-2022/variety-2022-09-17T19:29:25.842453-07:00.jpg">September 17 at 7:29 PM</a></p>
+ <p><a href="https://archive.org/download/variety-2022/variety-2022-09-26T09:07:57.633973-07:00.jpg">September 26 at 9:08 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/variety-2022/variety-2022-09-17T07:01:01.130877-07:00.jpg">
-  <img src="https://archive.org/download/variety-2022/variety-2022-09-17T07:01:01.130877-07:00.jpg"
-     alt="Variety at 2022-09-17 07:01:09-07:00 local time"
+ <a href="https://archive.org/download/variety-2022/variety-2022-09-25T21:48:26.543833-07:00.jpg">
+  <img src="https://archive.org/download/variety-2022/variety-2022-09-25T21:48:26.543833-07:00.jpg"
+     alt="Variety at 2022-09-25 21:48:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/variety-2022/variety-2022-09-17T07:01:01.130877-07:00.jpg">September 17 at 7:01 AM</a></p>
+ <p><a href="https://archive.org/download/variety-2022/variety-2022-09-25T21:48:26.543833-07:00.jpg">September 25 at 9:48 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/variety-2022/variety-2022-09-16T19:26:50.973428-07:00.jpg">
-  <img src="https://archive.org/download/variety-2022/variety-2022-09-16T19:26:50.973428-07:00.jpg"
-     alt="Variety at 2022-09-16 19:26:58-07:00 local time"
+ <a href="https://archive.org/download/variety-2022/variety-2022-09-25T08:53:01.545093-07:00.jpg">
+  <img src="https://archive.org/download/variety-2022/variety-2022-09-25T08:53:01.545093-07:00.jpg"
+     alt="Variety at 2022-09-25 08:53:07-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/variety-2022/variety-2022-09-16T19:26:50.973428-07:00.jpg">September 16 at 7:26 PM</a></p>
+ <p><a href="https://archive.org/download/variety-2022/variety-2022-09-25T08:53:01.545093-07:00.jpg">September 25 at 8:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/variety-2022/variety-2022-09-16T07:07:58.741917-07:00.jpg">
-  <img src="https://archive.org/download/variety-2022/variety-2022-09-16T07:07:58.741917-07:00.jpg"
-     alt="Variety at 2022-09-16 07:08:04-07:00 local time"
+ <a href="https://archive.org/download/variety-2022/variety-2022-09-24T21:30:37.763853-07:00.jpg">
+  <img src="https://archive.org/download/variety-2022/variety-2022-09-24T21:30:37.763853-07:00.jpg"
+     alt="Variety at 2022-09-24 21:30:43-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/variety-2022/variety-2022-09-16T07:07:58.741917-07:00.jpg">September 16 at 7:08 AM</a></p>
+ <p><a href="https://archive.org/download/variety-2022/variety-2022-09-24T21:30:37.763853-07:00.jpg">September 24 at 9:30 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/variety-2022/variety-2022-09-15T19:28:02.189094-07:00.jpg">
-  <img src="https://archive.org/download/variety-2022/variety-2022-09-15T19:28:02.189094-07:00.jpg"
-     alt="Variety at 2022-09-15 19:28:07-07:00 local time"
+ <a href="https://archive.org/download/variety-2022/variety-2022-09-24T08:50:59.650166-07:00.jpg">
+  <img src="https://archive.org/download/variety-2022/variety-2022-09-24T08:50:59.650166-07:00.jpg"
+     alt="Variety at 2022-09-24 08:51:05-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/variety-2022/variety-2022-09-15T19:28:02.189094-07:00.jpg">September 15 at 7:28 PM</a></p>
+ <p><a href="https://archive.org/download/variety-2022/variety-2022-09-24T08:50:59.650166-07:00.jpg">September 24 at 8:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/variety-2022/variety-2022-09-15T07:15:13.289989-07:00.jpg">
-  <img src="https://archive.org/download/variety-2022/variety-2022-09-15T07:15:13.289989-07:00.jpg"
-     alt="Variety at 2022-09-15 07:15:41-07:00 local time"
+ <a href="https://archive.org/download/variety-2022/variety-2022-09-23T21:32:05.430178-07:00.jpg">
+  <img src="https://archive.org/download/variety-2022/variety-2022-09-23T21:32:05.430178-07:00.jpg"
+     alt="Variety at 2022-09-23 21:32:11-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/variety-2022/variety-2022-09-15T07:15:13.289989-07:00.jpg">September 15 at 7:15 AM</a></p>
+ <p><a href="https://archive.org/download/variety-2022/variety-2022-09-23T21:32:05.430178-07:00.jpg">September 23 at 9:32 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/variety-2022/variety-2022-09-14T19:30:08.492682-07:00.jpg">
-  <img src="https://archive.org/download/variety-2022/variety-2022-09-14T19:30:08.492682-07:00.jpg"
-     alt="Variety at 2022-09-14 19:30:12-07:00 local time"
+ <a href="https://archive.org/download/variety-2022/variety-2022-09-23T09:00:47.309885-07:00.jpg">
+  <img src="https://archive.org/download/variety-2022/variety-2022-09-23T09:00:47.309885-07:00.jpg"
+     alt="Variety at 2022-09-23 09:01:04-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/variety-2022/variety-2022-09-14T19:30:08.492682-07:00.jpg">September 14 at 7:30 PM</a></p>
+ <p><a href="https://archive.org/download/variety-2022/variety-2022-09-23T09:00:47.309885-07:00.jpg">September 23 at 9:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/variety-2022/variety-2022-09-14T07:15:30.571043-07:00.jpg">
-  <img src="https://archive.org/download/variety-2022/variety-2022-09-14T07:15:30.571043-07:00.jpg"
-     alt="Variety at 2022-09-14 07:15:49-07:00 local time"
+ <a href="https://archive.org/download/variety-2022/variety-2022-09-22T22:17:28.628783-07:00.jpg">
+  <img src="https://archive.org/download/variety-2022/variety-2022-09-22T22:17:28.628783-07:00.jpg"
+     alt="Variety at 2022-09-22 22:17:33-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/variety-2022/variety-2022-09-14T07:15:30.571043-07:00.jpg">September 14 at 7:15 AM</a></p>
+ <p><a href="https://archive.org/download/variety-2022/variety-2022-09-22T22:17:28.628783-07:00.jpg">September 22 at 10:17 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/variety-2022/variety-2022-09-13T19:27:09.172053-07:00.jpg">
-  <img src="https://archive.org/download/variety-2022/variety-2022-09-13T19:27:09.172053-07:00.jpg"
-     alt="Variety at 2022-09-13 19:27:13-07:00 local time"
+ <a href="https://archive.org/download/variety-2022/variety-2022-09-22T09:03:13.950340-07:00.jpg">
+  <img src="https://archive.org/download/variety-2022/variety-2022-09-22T09:03:13.950340-07:00.jpg"
+     alt="Variety at 2022-09-22 09:03:32-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/variety-2022/variety-2022-09-13T19:27:09.172053-07:00.jpg">September 13 at 7:27 PM</a></p>
+ <p><a href="https://archive.org/download/variety-2022/variety-2022-09-22T09:03:13.950340-07:00.jpg">September 22 at 9:03 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 123 hyperlink lists with the Internet Archive.
+The archiving routine has saved 140 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 7:09 AM](https://archive.org/download/variety-2022/variety-2022-09-19T07:09:26.486050-07:00.hyperlinks.json) |
-| [September 18 at 7:23 PM](https://archive.org/download/variety-2022/variety-2022-09-18T19:23:06.928655-07:00.hyperlinks.json) |
-| [September 18 at 7:03 AM](https://archive.org/download/variety-2022/variety-2022-09-18T07:03:42.633871-07:00.hyperlinks.json) |
-| [September 17 at 7:29 PM](https://archive.org/download/variety-2022/variety-2022-09-17T19:29:25.842453-07:00.hyperlinks.json) |
-| [September 17 at 7:01 AM](https://archive.org/download/variety-2022/variety-2022-09-17T07:01:01.130877-07:00.hyperlinks.json) |
-| [September 16 at 7:27 PM](https://archive.org/download/variety-2022/variety-2022-09-16T19:26:50.973428-07:00.hyperlinks.json) |
-| [September 16 at 7:08 AM](https://archive.org/download/variety-2022/variety-2022-09-16T07:07:58.741917-07:00.hyperlinks.json) |
-| [September 15 at 7:28 PM](https://archive.org/download/variety-2022/variety-2022-09-15T19:28:02.189094-07:00.hyperlinks.json) |
-| [September 15 at 7:15 AM](https://archive.org/download/variety-2022/variety-2022-09-15T07:15:13.289989-07:00.hyperlinks.json) |
-| [September 14 at 7:30 PM](https://archive.org/download/variety-2022/variety-2022-09-14T19:30:08.492682-07:00.hyperlinks.json) |
+| [September 27 at 11:06 PM](https://archive.org/download/variety-2022/variety-2022-09-27T23:06:00.580566-07:00.hyperlinks.json) |
+| [September 27 at 9:09 AM](https://archive.org/download/variety-2022/variety-2022-09-27T09:09:02.510760-07:00.hyperlinks.json) |
+| [September 26 at 9:32 PM](https://archive.org/download/variety-2022/variety-2022-09-26T21:31:59.873634-07:00.hyperlinks.json) |
+| [September 26 at 9:08 AM](https://archive.org/download/variety-2022/variety-2022-09-26T09:07:57.633973-07:00.hyperlinks.json) |
+| [September 25 at 9:48 PM](https://archive.org/download/variety-2022/variety-2022-09-25T21:48:26.543833-07:00.hyperlinks.json) |
+| [September 25 at 8:53 AM](https://archive.org/download/variety-2022/variety-2022-09-25T08:53:01.545093-07:00.hyperlinks.json) |
+| [September 24 at 9:30 PM](https://archive.org/download/variety-2022/variety-2022-09-24T21:30:37.763853-07:00.hyperlinks.json) |
+| [September 24 at 8:51 AM](https://archive.org/download/variety-2022/variety-2022-09-24T08:50:59.650166-07:00.hyperlinks.json) |
+| [September 23 at 9:32 PM](https://archive.org/download/variety-2022/variety-2022-09-23T21:32:05.430178-07:00.hyperlinks.json) |
+| [September 23 at 9:01 AM](https://archive.org/download/variety-2022/variety-2022-09-23T09:00:47.309885-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 127 accessibility trees with the Internet Archive.
+The archiving routine has saved 144 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 7:09 AM](https://archive.org/download/variety-2022/variety-2022-09-19T07:09:26.486050-07:00.accessibility.json) |
-| [September 18 at 7:23 PM](https://archive.org/download/variety-2022/variety-2022-09-18T19:23:06.928655-07:00.accessibility.json) |
-| [September 18 at 7:03 AM](https://archive.org/download/variety-2022/variety-2022-09-18T07:03:42.633871-07:00.accessibility.json) |
-| [September 17 at 7:29 PM](https://archive.org/download/variety-2022/variety-2022-09-17T19:29:25.842453-07:00.accessibility.json) |
-| [September 17 at 7:01 AM](https://archive.org/download/variety-2022/variety-2022-09-17T07:01:01.130877-07:00.accessibility.json) |
-| [September 16 at 7:27 PM](https://archive.org/download/variety-2022/variety-2022-09-16T19:26:50.973428-07:00.accessibility.json) |
-| [September 16 at 7:08 AM](https://archive.org/download/variety-2022/variety-2022-09-16T07:07:58.741917-07:00.accessibility.json) |
-| [September 15 at 7:28 PM](https://archive.org/download/variety-2022/variety-2022-09-15T19:28:02.189094-07:00.accessibility.json) |
-| [September 15 at 7:15 AM](https://archive.org/download/variety-2022/variety-2022-09-15T07:15:13.289989-07:00.accessibility.json) |
-| [September 14 at 7:30 PM](https://archive.org/download/variety-2022/variety-2022-09-14T19:30:08.492682-07:00.accessibility.json) |
+| [September 27 at 11:06 PM](https://archive.org/download/variety-2022/variety-2022-09-27T23:06:00.580566-07:00.accessibility.json) |
+| [September 27 at 9:09 AM](https://archive.org/download/variety-2022/variety-2022-09-27T09:09:02.510760-07:00.accessibility.json) |
+| [September 26 at 9:32 PM](https://archive.org/download/variety-2022/variety-2022-09-26T21:31:59.873634-07:00.accessibility.json) |
+| [September 26 at 9:08 AM](https://archive.org/download/variety-2022/variety-2022-09-26T09:07:57.633973-07:00.accessibility.json) |
+| [September 25 at 9:48 PM](https://archive.org/download/variety-2022/variety-2022-09-25T21:48:26.543833-07:00.accessibility.json) |
+| [September 25 at 8:53 AM](https://archive.org/download/variety-2022/variety-2022-09-25T08:53:01.545093-07:00.accessibility.json) |
+| [September 24 at 9:30 PM](https://archive.org/download/variety-2022/variety-2022-09-24T21:30:37.763853-07:00.accessibility.json) |
+| [September 24 at 8:51 AM](https://archive.org/download/variety-2022/variety-2022-09-24T08:50:59.650166-07:00.accessibility.json) |
+| [September 23 at 9:32 PM](https://archive.org/download/variety-2022/variety-2022-09-23T21:32:05.430178-07:00.accessibility.json) |
+| [September 23 at 9:01 AM](https://archive.org/download/variety-2022/variety-2022-09-23T09:00:47.309885-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 117 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 7:09 AM](https://archive.org/download/variety-2022/variety-2022-09-19T07:09:26.486050-07:00.lighthouse.json) |
-| [September 18 at 7:23 PM](https://archive.org/download/variety-2022/variety-2022-09-18T19:23:06.928655-07:00.lighthouse.json) |
-| [September 18 at 7:03 AM](https://archive.org/download/variety-2022/variety-2022-09-18T07:03:42.633871-07:00.lighthouse.json) |
-| [September 17 at 7:29 PM](https://archive.org/download/variety-2022/variety-2022-09-17T19:29:25.842453-07:00.lighthouse.json) |
-| [September 17 at 7:01 AM](https://archive.org/download/variety-2022/variety-2022-09-17T07:01:01.130877-07:00.lighthouse.json) |
-| [September 16 at 7:27 PM](https://archive.org/download/variety-2022/variety-2022-09-16T19:26:50.973428-07:00.lighthouse.json) |
-| [September 16 at 7:08 AM](https://archive.org/download/variety-2022/variety-2022-09-16T07:07:58.741917-07:00.lighthouse.json) |
-| [September 15 at 7:28 PM](https://archive.org/download/variety-2022/variety-2022-09-15T19:28:02.189094-07:00.lighthouse.json) |
-| [September 15 at 7:15 AM](https://archive.org/download/variety-2022/variety-2022-09-15T07:15:13.289989-07:00.lighthouse.json) |
-| [September 14 at 7:30 PM](https://archive.org/download/variety-2022/variety-2022-09-14T19:30:08.492682-07:00.lighthouse.json) |
+| [September 27 at 11:06 PM](https://archive.org/download/variety-2022/variety-2022-09-27T23:06:00.580566-07:00.lighthouse.json) |
+| [September 27 at 9:09 AM](https://archive.org/download/variety-2022/variety-2022-09-27T09:09:02.510760-07:00.lighthouse.json) |
+| [September 26 at 9:32 PM](https://archive.org/download/variety-2022/variety-2022-09-26T21:31:59.873634-07:00.lighthouse.json) |
+| [September 26 at 9:08 AM](https://archive.org/download/variety-2022/variety-2022-09-26T09:07:57.633973-07:00.lighthouse.json) |
+| [September 25 at 9:48 PM](https://archive.org/download/variety-2022/variety-2022-09-25T21:48:26.543833-07:00.lighthouse.json) |
+| [September 25 at 8:53 AM](https://archive.org/download/variety-2022/variety-2022-09-25T08:53:01.545093-07:00.lighthouse.json) |
+| [September 24 at 9:30 PM](https://archive.org/download/variety-2022/variety-2022-09-24T21:30:37.763853-07:00.lighthouse.json) |
+| [September 24 at 8:51 AM](https://archive.org/download/variety-2022/variety-2022-09-24T08:50:59.650166-07:00.lighthouse.json) |
+| [September 23 at 9:32 PM](https://archive.org/download/variety-2022/variety-2022-09-23T21:32:05.430178-07:00.lighthouse.json) |
+| [September 23 at 9:01 AM](https://archive.org/download/variety-2022/variety-2022-09-23T09:00:47.309885-07:00.lighthouse.json) |
 
 
 

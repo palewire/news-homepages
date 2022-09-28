@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 209 screenshots with the Internet Archive.
+The archiving routine has saved 225 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/qz-2022/qz-2022-09-19T13:37:37.470977-04:00.jpg">
-  <img src="https://archive.org/download/qz-2022/qz-2022-09-19T13:37:37.470977-04:00.jpg"
-     alt="Quartz at 2022-09-19 13:37:38-04:00 local time"
+ <a href="https://archive.org/download/qz-2022/qz-2022-09-28T03:50:01.039456-04:00.jpg">
+  <img src="https://archive.org/download/qz-2022/qz-2022-09-28T03:50:01.039456-04:00.jpg"
+     alt="Quartz at 2022-09-28 03:50:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/qz-2022/qz-2022-09-19T13:37:37.470977-04:00.jpg">September 19 at 1:37 PM</a></p>
+ <p><a href="https://archive.org/download/qz-2022/qz-2022-09-28T03:50:01.039456-04:00.jpg">September 28 at 3:50 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/qz-2022/qz-2022-09-19T02:06:53.597952-04:00.jpg">
-  <img src="https://archive.org/download/qz-2022/qz-2022-09-19T02:06:53.597952-04:00.jpg"
-     alt="Quartz at 2022-09-19 02:06:55-04:00 local time"
+ <a href="https://archive.org/download/qz-2022/qz-2022-09-27T15:13:21.830218-04:00.jpg">
+  <img src="https://archive.org/download/qz-2022/qz-2022-09-27T15:13:21.830218-04:00.jpg"
+     alt="Quartz at 2022-09-27 15:13:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/qz-2022/qz-2022-09-19T02:06:53.597952-04:00.jpg">September 19 at 2:06 AM</a></p>
+ <p><a href="https://archive.org/download/qz-2022/qz-2022-09-27T15:13:21.830218-04:00.jpg">September 27 at 3:13 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/qz-2022/qz-2022-09-18T13:30:37.056520-04:00.jpg">
-  <img src="https://archive.org/download/qz-2022/qz-2022-09-18T13:30:37.056520-04:00.jpg"
-     alt="Quartz at 2022-09-18 13:30:44-04:00 local time"
+ <a href="https://archive.org/download/qz-2022/qz-2022-09-27T03:10:47.423223-04:00.jpg">
+  <img src="https://archive.org/download/qz-2022/qz-2022-09-27T03:10:47.423223-04:00.jpg"
+     alt="Quartz at 2022-09-27 03:10:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/qz-2022/qz-2022-09-18T13:30:37.056520-04:00.jpg">September 18 at 1:30 PM</a></p>
+ <p><a href="https://archive.org/download/qz-2022/qz-2022-09-27T03:10:47.423223-04:00.jpg">September 27 at 3:10 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/qz-2022/qz-2022-09-18T01:27:27.237913-04:00.jpg">
-  <img src="https://archive.org/download/qz-2022/qz-2022-09-18T01:27:27.237913-04:00.jpg"
-     alt="Quartz at 2022-09-18 01:27:34-04:00 local time"
+ <a href="https://archive.org/download/qz-2022/qz-2022-09-26T15:29:50.176554-04:00.jpg">
+  <img src="https://archive.org/download/qz-2022/qz-2022-09-26T15:29:50.176554-04:00.jpg"
+     alt="Quartz at 2022-09-26 15:29:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/qz-2022/qz-2022-09-18T01:27:27.237913-04:00.jpg">September 18 at 1:27 AM</a></p>
+ <p><a href="https://archive.org/download/qz-2022/qz-2022-09-26T15:29:50.176554-04:00.jpg">September 26 at 3:29 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/qz-2022/qz-2022-09-17T12:53:11.241215-04:00.jpg">
-  <img src="https://archive.org/download/qz-2022/qz-2022-09-17T12:53:11.241215-04:00.jpg"
-     alt="Quartz at 2022-09-17 12:53:15-04:00 local time"
+ <a href="https://archive.org/download/qz-2022/qz-2022-09-26T03:45:11.821190-04:00.jpg">
+  <img src="https://archive.org/download/qz-2022/qz-2022-09-26T03:45:11.821190-04:00.jpg"
+     alt="Quartz at 2022-09-26 03:45:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/qz-2022/qz-2022-09-17T12:53:11.241215-04:00.jpg">September 17 at 12:53 PM</a></p>
+ <p><a href="https://archive.org/download/qz-2022/qz-2022-09-26T03:45:11.821190-04:00.jpg">September 26 at 3:45 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/qz-2022/qz-2022-09-17T01:20:58.759161-04:00.jpg">
-  <img src="https://archive.org/download/qz-2022/qz-2022-09-17T01:20:58.759161-04:00.jpg"
-     alt="Quartz at 2022-09-17 01:21:00-04:00 local time"
+ <a href="https://archive.org/download/qz-2022/qz-2022-09-25T14:32:29.302649-04:00.jpg">
+  <img src="https://archive.org/download/qz-2022/qz-2022-09-25T14:32:29.302649-04:00.jpg"
+     alt="Quartz at 2022-09-25 14:32:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/qz-2022/qz-2022-09-17T01:20:58.759161-04:00.jpg">September 17 at 1:21 AM</a></p>
+ <p><a href="https://archive.org/download/qz-2022/qz-2022-09-25T14:32:29.302649-04:00.jpg">September 25 at 2:32 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/qz-2022/qz-2022-09-16T12:57:15.518920-04:00.jpg">
-  <img src="https://archive.org/download/qz-2022/qz-2022-09-16T12:57:15.518920-04:00.jpg"
-     alt="Quartz at 2022-09-16 12:57:17-04:00 local time"
+ <a href="https://archive.org/download/qz-2022/qz-2022-09-25T02:55:47.031226-04:00.jpg">
+  <img src="https://archive.org/download/qz-2022/qz-2022-09-25T02:55:47.031226-04:00.jpg"
+     alt="Quartz at 2022-09-25 02:55:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/qz-2022/qz-2022-09-16T12:57:15.518920-04:00.jpg">September 16 at 12:57 PM</a></p>
+ <p><a href="https://archive.org/download/qz-2022/qz-2022-09-25T02:55:47.031226-04:00.jpg">September 25 at 2:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/qz-2022/qz-2022-09-16T01:31:15.798969-04:00.jpg">
-  <img src="https://archive.org/download/qz-2022/qz-2022-09-16T01:31:15.798969-04:00.jpg"
-     alt="Quartz at 2022-09-16 01:31:21-04:00 local time"
+ <a href="https://archive.org/download/qz-2022/qz-2022-09-24T14:33:13.601604-04:00.jpg">
+  <img src="https://archive.org/download/qz-2022/qz-2022-09-24T14:33:13.601604-04:00.jpg"
+     alt="Quartz at 2022-09-24 14:33:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/qz-2022/qz-2022-09-16T01:31:15.798969-04:00.jpg">September 16 at 1:31 AM</a></p>
+ <p><a href="https://archive.org/download/qz-2022/qz-2022-09-24T14:33:13.601604-04:00.jpg">September 24 at 2:33 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/qz-2022/qz-2022-09-15T13:12:19.640504-04:00.jpg">
-  <img src="https://archive.org/download/qz-2022/qz-2022-09-15T13:12:19.640504-04:00.jpg"
-     alt="Quartz at 2022-09-15 13:12:24-04:00 local time"
+ <a href="https://archive.org/download/qz-2022/qz-2022-09-24T02:57:12.550642-04:00.jpg">
+  <img src="https://archive.org/download/qz-2022/qz-2022-09-24T02:57:12.550642-04:00.jpg"
+     alt="Quartz at 2022-09-24 02:57:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/qz-2022/qz-2022-09-15T13:12:19.640504-04:00.jpg">September 15 at 1:12 PM</a></p>
+ <p><a href="https://archive.org/download/qz-2022/qz-2022-09-24T02:57:12.550642-04:00.jpg">September 24 at 2:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/qz-2022/qz-2022-09-15T01:29:45.579787-04:00.jpg">
-  <img src="https://archive.org/download/qz-2022/qz-2022-09-15T01:29:45.579787-04:00.jpg"
-     alt="Quartz at 2022-09-15 01:29:51-04:00 local time"
+ <a href="https://archive.org/download/qz-2022/qz-2022-09-23T14:53:33.824763-04:00.jpg">
+  <img src="https://archive.org/download/qz-2022/qz-2022-09-23T14:53:33.824763-04:00.jpg"
+     alt="Quartz at 2022-09-23 14:53:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/qz-2022/qz-2022-09-15T01:29:45.579787-04:00.jpg">September 15 at 1:29 AM</a></p>
+ <p><a href="https://archive.org/download/qz-2022/qz-2022-09-23T14:53:33.824763-04:00.jpg">September 23 at 2:53 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/qz-2022/qz-2022-09-14T13:16:45.641926-04:00.jpg">
-  <img src="https://archive.org/download/qz-2022/qz-2022-09-14T13:16:45.641926-04:00.jpg"
-     alt="Quartz at 2022-09-14 13:16:55-04:00 local time"
+ <a href="https://archive.org/download/qz-2022/qz-2022-09-23T03:21:04.569353-04:00.jpg">
+  <img src="https://archive.org/download/qz-2022/qz-2022-09-23T03:21:04.569353-04:00.jpg"
+     alt="Quartz at 2022-09-23 03:21:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/qz-2022/qz-2022-09-14T13:16:45.641926-04:00.jpg">September 14 at 1:16 PM</a></p>
+ <p><a href="https://archive.org/download/qz-2022/qz-2022-09-23T03:21:04.569353-04:00.jpg">September 23 at 3:21 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/qz-2022/qz-2022-09-14T01:35:55.745535-04:00.jpg">
-  <img src="https://archive.org/download/qz-2022/qz-2022-09-14T01:35:55.745535-04:00.jpg"
-     alt="Quartz at 2022-09-14 01:35:57-04:00 local time"
+ <a href="https://archive.org/download/qz-2022/qz-2022-09-22T15:27:19.943541-04:00.jpg">
+  <img src="https://archive.org/download/qz-2022/qz-2022-09-22T15:27:19.943541-04:00.jpg"
+     alt="Quartz at 2022-09-22 15:27:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/qz-2022/qz-2022-09-14T01:35:55.745535-04:00.jpg">September 14 at 1:35 AM</a></p>
+ <p><a href="https://archive.org/download/qz-2022/qz-2022-09-22T15:27:19.943541-04:00.jpg">September 22 at 3:27 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 209 hyperlink lists with the Internet Archive.
+The archiving routine has saved 226 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 1:37 PM](https://archive.org/download/qz-2022/qz-2022-09-19T13:37:37.470977-04:00.hyperlinks.json) |
-| [September 19 at 2:06 AM](https://archive.org/download/qz-2022/qz-2022-09-19T02:06:53.597952-04:00.hyperlinks.json) |
-| [September 18 at 1:30 PM](https://archive.org/download/qz-2022/qz-2022-09-18T13:30:37.056520-04:00.hyperlinks.json) |
-| [September 18 at 1:27 AM](https://archive.org/download/qz-2022/qz-2022-09-18T01:27:27.237913-04:00.hyperlinks.json) |
-| [September 17 at 12:53 PM](https://archive.org/download/qz-2022/qz-2022-09-17T12:53:11.241215-04:00.hyperlinks.json) |
-| [September 17 at 1:21 AM](https://archive.org/download/qz-2022/qz-2022-09-17T01:20:58.759161-04:00.hyperlinks.json) |
-| [September 16 at 12:57 PM](https://archive.org/download/qz-2022/qz-2022-09-16T12:57:15.518920-04:00.hyperlinks.json) |
-| [September 16 at 1:31 AM](https://archive.org/download/qz-2022/qz-2022-09-16T01:31:15.798969-04:00.hyperlinks.json) |
-| [September 15 at 1:12 PM](https://archive.org/download/qz-2022/qz-2022-09-15T13:12:19.640504-04:00.hyperlinks.json) |
-| [September 15 at 1:29 AM](https://archive.org/download/qz-2022/qz-2022-09-15T01:29:45.579787-04:00.hyperlinks.json) |
+| [September 28 at 3:50 AM](https://archive.org/download/qz-2022/qz-2022-09-28T03:50:01.039456-04:00.hyperlinks.json) |
+| [September 27 at 3:13 PM](https://archive.org/download/qz-2022/qz-2022-09-27T15:13:21.830218-04:00.hyperlinks.json) |
+| [September 27 at 3:10 AM](https://archive.org/download/qz-2022/qz-2022-09-27T03:10:47.423223-04:00.hyperlinks.json) |
+| [September 26 at 3:30 PM](https://archive.org/download/qz-2022/qz-2022-09-26T15:29:50.176554-04:00.hyperlinks.json) |
+| [September 26 at 3:45 AM](https://archive.org/download/qz-2022/qz-2022-09-26T03:45:11.821190-04:00.hyperlinks.json) |
+| [September 25 at 2:32 PM](https://archive.org/download/qz-2022/qz-2022-09-25T14:32:29.302649-04:00.hyperlinks.json) |
+| [September 25 at 2:55 AM](https://archive.org/download/qz-2022/qz-2022-09-25T02:55:47.031226-04:00.hyperlinks.json) |
+| [September 24 at 2:33 PM](https://archive.org/download/qz-2022/qz-2022-09-24T14:33:13.601604-04:00.hyperlinks.json) |
+| [September 24 at 2:57 AM](https://archive.org/download/qz-2022/qz-2022-09-24T02:57:12.550642-04:00.hyperlinks.json) |
+| [September 23 at 2:53 PM](https://archive.org/download/qz-2022/qz-2022-09-23T14:53:33.824763-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 210 accessibility trees with the Internet Archive.
+The archiving routine has saved 227 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 1:37 PM](https://archive.org/download/qz-2022/qz-2022-09-19T13:37:37.470977-04:00.accessibility.json) |
-| [September 19 at 2:06 AM](https://archive.org/download/qz-2022/qz-2022-09-19T02:06:53.597952-04:00.accessibility.json) |
-| [September 18 at 1:30 PM](https://archive.org/download/qz-2022/qz-2022-09-18T13:30:37.056520-04:00.accessibility.json) |
-| [September 18 at 1:27 AM](https://archive.org/download/qz-2022/qz-2022-09-18T01:27:27.237913-04:00.accessibility.json) |
-| [September 17 at 12:53 PM](https://archive.org/download/qz-2022/qz-2022-09-17T12:53:11.241215-04:00.accessibility.json) |
-| [September 17 at 1:21 AM](https://archive.org/download/qz-2022/qz-2022-09-17T01:20:58.759161-04:00.accessibility.json) |
-| [September 16 at 12:57 PM](https://archive.org/download/qz-2022/qz-2022-09-16T12:57:15.518920-04:00.accessibility.json) |
-| [September 16 at 1:31 AM](https://archive.org/download/qz-2022/qz-2022-09-16T01:31:15.798969-04:00.accessibility.json) |
-| [September 15 at 1:12 PM](https://archive.org/download/qz-2022/qz-2022-09-15T13:12:19.640504-04:00.accessibility.json) |
-| [September 15 at 1:29 AM](https://archive.org/download/qz-2022/qz-2022-09-15T01:29:45.579787-04:00.accessibility.json) |
+| [September 28 at 3:50 AM](https://archive.org/download/qz-2022/qz-2022-09-28T03:50:01.039456-04:00.accessibility.json) |
+| [September 27 at 3:13 PM](https://archive.org/download/qz-2022/qz-2022-09-27T15:13:21.830218-04:00.accessibility.json) |
+| [September 27 at 3:10 AM](https://archive.org/download/qz-2022/qz-2022-09-27T03:10:47.423223-04:00.accessibility.json) |
+| [September 26 at 3:30 PM](https://archive.org/download/qz-2022/qz-2022-09-26T15:29:50.176554-04:00.accessibility.json) |
+| [September 26 at 3:45 AM](https://archive.org/download/qz-2022/qz-2022-09-26T03:45:11.821190-04:00.accessibility.json) |
+| [September 25 at 2:32 PM](https://archive.org/download/qz-2022/qz-2022-09-25T14:32:29.302649-04:00.accessibility.json) |
+| [September 25 at 2:55 AM](https://archive.org/download/qz-2022/qz-2022-09-25T02:55:47.031226-04:00.accessibility.json) |
+| [September 24 at 2:33 PM](https://archive.org/download/qz-2022/qz-2022-09-24T14:33:13.601604-04:00.accessibility.json) |
+| [September 24 at 2:57 AM](https://archive.org/download/qz-2022/qz-2022-09-24T02:57:12.550642-04:00.accessibility.json) |
+| [September 23 at 2:53 PM](https://archive.org/download/qz-2022/qz-2022-09-23T14:53:33.824763-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 115 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 1:37 PM](https://archive.org/download/qz-2022/qz-2022-09-19T13:37:37.470977-04:00.lighthouse.json) |
-| [September 19 at 2:07 AM](https://archive.org/download/qz-2022/qz-2022-09-19T02:06:53.597952-04:00.lighthouse.json) |
-| [September 18 at 1:30 PM](https://archive.org/download/qz-2022/qz-2022-09-18T13:30:37.056520-04:00.lighthouse.json) |
-| [September 18 at 1:27 AM](https://archive.org/download/qz-2022/qz-2022-09-18T01:27:27.237913-04:00.lighthouse.json) |
-| [September 17 at 12:53 PM](https://archive.org/download/qz-2022/qz-2022-09-17T12:53:11.241215-04:00.lighthouse.json) |
-| [September 17 at 1:21 AM](https://archive.org/download/qz-2022/qz-2022-09-17T01:20:58.759161-04:00.lighthouse.json) |
-| [September 16 at 12:57 PM](https://archive.org/download/qz-2022/qz-2022-09-16T12:57:15.518920-04:00.lighthouse.json) |
-| [September 16 at 1:31 AM](https://archive.org/download/qz-2022/qz-2022-09-16T01:31:15.798969-04:00.lighthouse.json) |
-| [September 15 at 1:12 PM](https://archive.org/download/qz-2022/qz-2022-09-15T13:12:19.640504-04:00.lighthouse.json) |
-| [September 15 at 1:29 AM](https://archive.org/download/qz-2022/qz-2022-09-15T01:29:45.579787-04:00.lighthouse.json) |
+| [September 28 at 3:50 AM](https://archive.org/download/qz-2022/qz-2022-09-28T03:50:01.039456-04:00.lighthouse.json) |
+| [September 27 at 3:13 PM](https://archive.org/download/qz-2022/qz-2022-09-27T15:13:21.830218-04:00.lighthouse.json) |
+| [September 27 at 3:10 AM](https://archive.org/download/qz-2022/qz-2022-09-27T03:10:47.423223-04:00.lighthouse.json) |
+| [September 26 at 3:30 PM](https://archive.org/download/qz-2022/qz-2022-09-26T15:29:50.176554-04:00.lighthouse.json) |
+| [September 26 at 3:45 AM](https://archive.org/download/qz-2022/qz-2022-09-26T03:45:11.821190-04:00.lighthouse.json) |
+| [September 25 at 2:32 PM](https://archive.org/download/qz-2022/qz-2022-09-25T14:32:29.302649-04:00.lighthouse.json) |
+| [September 25 at 2:55 AM](https://archive.org/download/qz-2022/qz-2022-09-25T02:55:47.031226-04:00.lighthouse.json) |
+| [September 24 at 2:33 PM](https://archive.org/download/qz-2022/qz-2022-09-24T14:33:13.601604-04:00.lighthouse.json) |
+| [September 24 at 2:57 AM](https://archive.org/download/qz-2022/qz-2022-09-24T02:57:12.550642-04:00.lighthouse.json) |
+| [September 23 at 2:53 PM](https://archive.org/download/qz-2022/qz-2022-09-23T14:53:33.824763-04:00.lighthouse.json) |
 
 
 

@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 168 screenshots with the Internet Archive.
+The archiving routine has saved 185 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/protocol-2022/protocol-2022-09-19T10:36:51.467230-07:00.jpg">
-  <img src="https://archive.org/download/protocol-2022/protocol-2022-09-19T10:36:51.467230-07:00.jpg"
-     alt="Protocol at 2022-09-19 10:37:00-07:00 local time"
+ <a href="https://archive.org/download/protocol-2022/protocol-2022-09-28T00:49:48.236571-07:00.jpg">
+  <img src="https://archive.org/download/protocol-2022/protocol-2022-09-28T00:49:48.236571-07:00.jpg"
+     alt="Protocol at 2022-09-28 00:49:49-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/protocol-2022/protocol-2022-09-19T10:36:51.467230-07:00.jpg">September 19 at 10:37 AM</a></p>
+ <p><a href="https://archive.org/download/protocol-2022/protocol-2022-09-28T00:49:48.236571-07:00.jpg">September 28 at 12:49 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/protocol-2022/protocol-2022-09-18T23:07:31.383419-07:00.jpg">
-  <img src="https://archive.org/download/protocol-2022/protocol-2022-09-18T23:07:31.383419-07:00.jpg"
-     alt="Protocol at 2022-09-18 23:07:32-07:00 local time"
+ <a href="https://archive.org/download/protocol-2022/protocol-2022-09-27T12:12:26.256646-07:00.jpg">
+  <img src="https://archive.org/download/protocol-2022/protocol-2022-09-27T12:12:26.256646-07:00.jpg"
+     alt="Protocol at 2022-09-27 12:12:46-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/protocol-2022/protocol-2022-09-18T23:07:31.383419-07:00.jpg">September 18 at 11:07 PM</a></p>
+ <p><a href="https://archive.org/download/protocol-2022/protocol-2022-09-27T12:12:26.256646-07:00.jpg">September 27 at 12:12 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/protocol-2022/protocol-2022-09-18T10:30:05.208806-07:00.jpg">
-  <img src="https://archive.org/download/protocol-2022/protocol-2022-09-18T10:30:05.208806-07:00.jpg"
-     alt="Protocol at 2022-09-18 10:30:07-07:00 local time"
+ <a href="https://archive.org/download/protocol-2022/protocol-2022-09-27T00:09:45.425523-07:00.jpg">
+  <img src="https://archive.org/download/protocol-2022/protocol-2022-09-27T00:09:45.425523-07:00.jpg"
+     alt="Protocol at 2022-09-27 00:09:48-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/protocol-2022/protocol-2022-09-18T10:30:05.208806-07:00.jpg">September 18 at 10:30 AM</a></p>
+ <p><a href="https://archive.org/download/protocol-2022/protocol-2022-09-27T00:09:45.425523-07:00.jpg">September 27 at 12:09 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/protocol-2022/protocol-2022-09-17T22:26:59.950802-07:00.jpg">
-  <img src="https://archive.org/download/protocol-2022/protocol-2022-09-17T22:26:59.950802-07:00.jpg"
-     alt="Protocol at 2022-09-17 22:27:07-07:00 local time"
+ <a href="https://archive.org/download/protocol-2022/protocol-2022-09-26T12:28:56.786872-07:00.jpg">
+  <img src="https://archive.org/download/protocol-2022/protocol-2022-09-26T12:28:56.786872-07:00.jpg"
+     alt="Protocol at 2022-09-26 12:28:58-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/protocol-2022/protocol-2022-09-17T22:26:59.950802-07:00.jpg">September 17 at 10:27 PM</a></p>
+ <p><a href="https://archive.org/download/protocol-2022/protocol-2022-09-26T12:28:56.786872-07:00.jpg">September 26 at 12:28 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/protocol-2022/protocol-2022-09-17T09:53:24.371110-07:00.jpg">
-  <img src="https://archive.org/download/protocol-2022/protocol-2022-09-17T09:53:24.371110-07:00.jpg"
-     alt="Protocol at 2022-09-17 09:53:26-07:00 local time"
+ <a href="https://archive.org/download/protocol-2022/protocol-2022-09-26T00:44:28.406085-07:00.jpg">
+  <img src="https://archive.org/download/protocol-2022/protocol-2022-09-26T00:44:28.406085-07:00.jpg"
+     alt="Protocol at 2022-09-26 00:44:30-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/protocol-2022/protocol-2022-09-17T09:53:24.371110-07:00.jpg">September 17 at 9:53 AM</a></p>
+ <p><a href="https://archive.org/download/protocol-2022/protocol-2022-09-26T00:44:28.406085-07:00.jpg">September 26 at 12:44 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/protocol-2022/protocol-2022-09-16T22:20:59.861646-07:00.jpg">
-  <img src="https://archive.org/download/protocol-2022/protocol-2022-09-16T22:20:59.861646-07:00.jpg"
-     alt="Protocol at 2022-09-16 22:21:01-07:00 local time"
+ <a href="https://archive.org/download/protocol-2022/protocol-2022-09-25T11:32:33.241140-07:00.jpg">
+  <img src="https://archive.org/download/protocol-2022/protocol-2022-09-25T11:32:33.241140-07:00.jpg"
+     alt="Protocol at 2022-09-25 11:32:40-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/protocol-2022/protocol-2022-09-16T22:20:59.861646-07:00.jpg">September 16 at 10:21 PM</a></p>
+ <p><a href="https://archive.org/download/protocol-2022/protocol-2022-09-25T11:32:33.241140-07:00.jpg">September 25 at 11:32 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/protocol-2022/protocol-2022-09-16T09:56:44.434114-07:00.jpg">
-  <img src="https://archive.org/download/protocol-2022/protocol-2022-09-16T09:56:44.434114-07:00.jpg"
-     alt="Protocol at 2022-09-16 09:56:46-07:00 local time"
+ <a href="https://archive.org/download/protocol-2022/protocol-2022-09-24T23:55:40.228997-07:00.jpg">
+  <img src="https://archive.org/download/protocol-2022/protocol-2022-09-24T23:55:40.228997-07:00.jpg"
+     alt="Protocol at 2022-09-24 23:55:42-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/protocol-2022/protocol-2022-09-16T09:56:44.434114-07:00.jpg">September 16 at 9:56 AM</a></p>
+ <p><a href="https://archive.org/download/protocol-2022/protocol-2022-09-24T23:55:40.228997-07:00.jpg">September 24 at 11:55 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/protocol-2022/protocol-2022-09-15T22:30:59.835613-07:00.jpg">
-  <img src="https://archive.org/download/protocol-2022/protocol-2022-09-15T22:30:59.835613-07:00.jpg"
-     alt="Protocol at 2022-09-15 22:31:00-07:00 local time"
+ <a href="https://archive.org/download/protocol-2022/protocol-2022-09-24T11:32:26.247537-07:00.jpg">
+  <img src="https://archive.org/download/protocol-2022/protocol-2022-09-24T11:32:26.247537-07:00.jpg"
+     alt="Protocol at 2022-09-24 11:32:28-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/protocol-2022/protocol-2022-09-15T22:30:59.835613-07:00.jpg">September 15 at 10:31 PM</a></p>
+ <p><a href="https://archive.org/download/protocol-2022/protocol-2022-09-24T11:32:26.247537-07:00.jpg">September 24 at 11:32 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/protocol-2022/protocol-2022-09-15T10:13:18.907440-07:00.jpg">
-  <img src="https://archive.org/download/protocol-2022/protocol-2022-09-15T10:13:18.907440-07:00.jpg"
-     alt="Protocol at 2022-09-15 10:13:25-07:00 local time"
+ <a href="https://archive.org/download/protocol-2022/protocol-2022-09-23T23:57:19.881998-07:00.jpg">
+  <img src="https://archive.org/download/protocol-2022/protocol-2022-09-23T23:57:19.881998-07:00.jpg"
+     alt="Protocol at 2022-09-23 23:57:26-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/protocol-2022/protocol-2022-09-15T10:13:18.907440-07:00.jpg">September 15 at 10:13 AM</a></p>
+ <p><a href="https://archive.org/download/protocol-2022/protocol-2022-09-23T23:57:19.881998-07:00.jpg">September 23 at 11:57 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/protocol-2022/protocol-2022-09-14T22:30:03.296856-07:00.jpg">
-  <img src="https://archive.org/download/protocol-2022/protocol-2022-09-14T22:30:03.296856-07:00.jpg"
-     alt="Protocol at 2022-09-14 22:30:05-07:00 local time"
+ <a href="https://archive.org/download/protocol-2022/protocol-2022-09-23T11:52:45.298722-07:00.jpg">
+  <img src="https://archive.org/download/protocol-2022/protocol-2022-09-23T11:52:45.298722-07:00.jpg"
+     alt="Protocol at 2022-09-23 11:52:46-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/protocol-2022/protocol-2022-09-14T22:30:03.296856-07:00.jpg">September 14 at 10:30 PM</a></p>
+ <p><a href="https://archive.org/download/protocol-2022/protocol-2022-09-23T11:52:45.298722-07:00.jpg">September 23 at 11:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/protocol-2022/protocol-2022-09-14T10:15:22.750071-07:00.jpg">
-  <img src="https://archive.org/download/protocol-2022/protocol-2022-09-14T10:15:22.750071-07:00.jpg"
-     alt="Protocol at 2022-09-14 10:15:27-07:00 local time"
+ <a href="https://archive.org/download/protocol-2022/protocol-2022-09-23T00:20:40.427935-07:00.jpg">
+  <img src="https://archive.org/download/protocol-2022/protocol-2022-09-23T00:20:40.427935-07:00.jpg"
+     alt="Protocol at 2022-09-23 00:20:41-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/protocol-2022/protocol-2022-09-14T10:15:22.750071-07:00.jpg">September 14 at 10:15 AM</a></p>
+ <p><a href="https://archive.org/download/protocol-2022/protocol-2022-09-23T00:20:40.427935-07:00.jpg">September 23 at 12:20 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/protocol-2022/protocol-2022-09-13T22:36:09.990025-07:00.jpg">
-  <img src="https://archive.org/download/protocol-2022/protocol-2022-09-13T22:36:09.990025-07:00.jpg"
-     alt="Protocol at 2022-09-13 22:36:11-07:00 local time"
+ <a href="https://archive.org/download/protocol-2022/protocol-2022-09-22T12:29:10.849827-07:00.jpg">
+  <img src="https://archive.org/download/protocol-2022/protocol-2022-09-22T12:29:10.849827-07:00.jpg"
+     alt="Protocol at 2022-09-22 12:29:12-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/protocol-2022/protocol-2022-09-13T22:36:09.990025-07:00.jpg">September 13 at 10:36 PM</a></p>
+ <p><a href="https://archive.org/download/protocol-2022/protocol-2022-09-22T12:29:10.849827-07:00.jpg">September 22 at 12:29 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 169 hyperlink lists with the Internet Archive.
+The archiving routine has saved 186 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 10:37 AM](https://archive.org/download/protocol-2022/protocol-2022-09-19T10:36:51.467230-07:00.hyperlinks.json) |
-| [September 18 at 11:07 PM](https://archive.org/download/protocol-2022/protocol-2022-09-18T23:07:31.383419-07:00.hyperlinks.json) |
-| [September 18 at 10:30 AM](https://archive.org/download/protocol-2022/protocol-2022-09-18T10:30:05.208806-07:00.hyperlinks.json) |
-| [September 17 at 10:27 PM](https://archive.org/download/protocol-2022/protocol-2022-09-17T22:26:59.950802-07:00.hyperlinks.json) |
-| [September 17 at 9:53 AM](https://archive.org/download/protocol-2022/protocol-2022-09-17T09:53:24.371110-07:00.hyperlinks.json) |
-| [September 16 at 10:21 PM](https://archive.org/download/protocol-2022/protocol-2022-09-16T22:20:59.861646-07:00.hyperlinks.json) |
-| [September 16 at 9:56 AM](https://archive.org/download/protocol-2022/protocol-2022-09-16T09:56:44.434114-07:00.hyperlinks.json) |
-| [September 15 at 10:31 PM](https://archive.org/download/protocol-2022/protocol-2022-09-15T22:30:59.835613-07:00.hyperlinks.json) |
-| [September 15 at 10:13 AM](https://archive.org/download/protocol-2022/protocol-2022-09-15T10:13:18.907440-07:00.hyperlinks.json) |
-| [September 14 at 10:30 PM](https://archive.org/download/protocol-2022/protocol-2022-09-14T22:30:03.296856-07:00.hyperlinks.json) |
+| [September 28 at 12:49 AM](https://archive.org/download/protocol-2022/protocol-2022-09-28T00:49:48.236571-07:00.hyperlinks.json) |
+| [September 27 at 12:12 PM](https://archive.org/download/protocol-2022/protocol-2022-09-27T12:12:26.256646-07:00.hyperlinks.json) |
+| [September 27 at 12:09 AM](https://archive.org/download/protocol-2022/protocol-2022-09-27T00:09:45.425523-07:00.hyperlinks.json) |
+| [September 26 at 12:29 PM](https://archive.org/download/protocol-2022/protocol-2022-09-26T12:28:56.786872-07:00.hyperlinks.json) |
+| [September 26 at 12:44 AM](https://archive.org/download/protocol-2022/protocol-2022-09-26T00:44:28.406085-07:00.hyperlinks.json) |
+| [September 25 at 11:32 AM](https://archive.org/download/protocol-2022/protocol-2022-09-25T11:32:33.241140-07:00.hyperlinks.json) |
+| [September 24 at 11:55 PM](https://archive.org/download/protocol-2022/protocol-2022-09-24T23:55:40.228997-07:00.hyperlinks.json) |
+| [September 24 at 11:32 AM](https://archive.org/download/protocol-2022/protocol-2022-09-24T11:32:26.247537-07:00.hyperlinks.json) |
+| [September 23 at 11:57 PM](https://archive.org/download/protocol-2022/protocol-2022-09-23T23:57:19.881998-07:00.hyperlinks.json) |
+| [September 23 at 11:52 AM](https://archive.org/download/protocol-2022/protocol-2022-09-23T11:52:45.298722-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 169 accessibility trees with the Internet Archive.
+The archiving routine has saved 186 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 10:37 AM](https://archive.org/download/protocol-2022/protocol-2022-09-19T10:36:51.467230-07:00.accessibility.json) |
-| [September 18 at 11:07 PM](https://archive.org/download/protocol-2022/protocol-2022-09-18T23:07:31.383419-07:00.accessibility.json) |
-| [September 18 at 10:30 AM](https://archive.org/download/protocol-2022/protocol-2022-09-18T10:30:05.208806-07:00.accessibility.json) |
-| [September 17 at 10:27 PM](https://archive.org/download/protocol-2022/protocol-2022-09-17T22:26:59.950802-07:00.accessibility.json) |
-| [September 17 at 9:53 AM](https://archive.org/download/protocol-2022/protocol-2022-09-17T09:53:24.371110-07:00.accessibility.json) |
-| [September 16 at 10:21 PM](https://archive.org/download/protocol-2022/protocol-2022-09-16T22:20:59.861646-07:00.accessibility.json) |
-| [September 16 at 9:56 AM](https://archive.org/download/protocol-2022/protocol-2022-09-16T09:56:44.434114-07:00.accessibility.json) |
-| [September 15 at 10:31 PM](https://archive.org/download/protocol-2022/protocol-2022-09-15T22:30:59.835613-07:00.accessibility.json) |
-| [September 15 at 10:13 AM](https://archive.org/download/protocol-2022/protocol-2022-09-15T10:13:18.907440-07:00.accessibility.json) |
-| [September 14 at 10:30 PM](https://archive.org/download/protocol-2022/protocol-2022-09-14T22:30:03.296856-07:00.accessibility.json) |
+| [September 28 at 12:49 AM](https://archive.org/download/protocol-2022/protocol-2022-09-28T00:49:48.236571-07:00.accessibility.json) |
+| [September 27 at 12:12 PM](https://archive.org/download/protocol-2022/protocol-2022-09-27T12:12:26.256646-07:00.accessibility.json) |
+| [September 27 at 12:09 AM](https://archive.org/download/protocol-2022/protocol-2022-09-27T00:09:45.425523-07:00.accessibility.json) |
+| [September 26 at 12:29 PM](https://archive.org/download/protocol-2022/protocol-2022-09-26T12:28:56.786872-07:00.accessibility.json) |
+| [September 26 at 12:44 AM](https://archive.org/download/protocol-2022/protocol-2022-09-26T00:44:28.406085-07:00.accessibility.json) |
+| [September 25 at 11:32 AM](https://archive.org/download/protocol-2022/protocol-2022-09-25T11:32:33.241140-07:00.accessibility.json) |
+| [September 24 at 11:55 PM](https://archive.org/download/protocol-2022/protocol-2022-09-24T23:55:40.228997-07:00.accessibility.json) |
+| [September 24 at 11:32 AM](https://archive.org/download/protocol-2022/protocol-2022-09-24T11:32:26.247537-07:00.accessibility.json) |
+| [September 23 at 11:57 PM](https://archive.org/download/protocol-2022/protocol-2022-09-23T23:57:19.881998-07:00.accessibility.json) |
+| [September 23 at 11:52 AM](https://archive.org/download/protocol-2022/protocol-2022-09-23T11:52:45.298722-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 116 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 10:37 AM](https://archive.org/download/protocol-2022/protocol-2022-09-19T10:36:51.467230-07:00.lighthouse.json) |
-| [September 18 at 11:07 PM](https://archive.org/download/protocol-2022/protocol-2022-09-18T23:07:31.383419-07:00.lighthouse.json) |
-| [September 18 at 10:30 AM](https://archive.org/download/protocol-2022/protocol-2022-09-18T10:30:05.208806-07:00.lighthouse.json) |
-| [September 17 at 10:27 PM](https://archive.org/download/protocol-2022/protocol-2022-09-17T22:26:59.950802-07:00.lighthouse.json) |
-| [September 17 at 9:53 AM](https://archive.org/download/protocol-2022/protocol-2022-09-17T09:53:24.371110-07:00.lighthouse.json) |
-| [September 16 at 10:21 PM](https://archive.org/download/protocol-2022/protocol-2022-09-16T22:20:59.861646-07:00.lighthouse.json) |
-| [September 16 at 9:56 AM](https://archive.org/download/protocol-2022/protocol-2022-09-16T09:56:44.434114-07:00.lighthouse.json) |
-| [September 15 at 10:31 PM](https://archive.org/download/protocol-2022/protocol-2022-09-15T22:30:59.835613-07:00.lighthouse.json) |
-| [September 15 at 10:13 AM](https://archive.org/download/protocol-2022/protocol-2022-09-15T10:13:18.907440-07:00.lighthouse.json) |
-| [September 14 at 10:30 PM](https://archive.org/download/protocol-2022/protocol-2022-09-14T22:30:03.296856-07:00.lighthouse.json) |
+| [September 28 at 12:49 AM](https://archive.org/download/protocol-2022/protocol-2022-09-28T00:49:48.236571-07:00.lighthouse.json) |
+| [September 27 at 12:12 PM](https://archive.org/download/protocol-2022/protocol-2022-09-27T12:12:26.256646-07:00.lighthouse.json) |
+| [September 27 at 12:09 AM](https://archive.org/download/protocol-2022/protocol-2022-09-27T00:09:45.425523-07:00.lighthouse.json) |
+| [September 26 at 12:29 PM](https://archive.org/download/protocol-2022/protocol-2022-09-26T12:28:56.786872-07:00.lighthouse.json) |
+| [September 26 at 12:44 AM](https://archive.org/download/protocol-2022/protocol-2022-09-26T00:44:28.406085-07:00.lighthouse.json) |
+| [September 25 at 11:32 AM](https://archive.org/download/protocol-2022/protocol-2022-09-25T11:32:33.241140-07:00.lighthouse.json) |
+| [September 24 at 11:55 PM](https://archive.org/download/protocol-2022/protocol-2022-09-24T23:55:40.228997-07:00.lighthouse.json) |
+| [September 24 at 11:32 AM](https://archive.org/download/protocol-2022/protocol-2022-09-24T11:32:26.247537-07:00.lighthouse.json) |
+| [September 23 at 11:57 PM](https://archive.org/download/protocol-2022/protocol-2022-09-23T23:57:19.881998-07:00.lighthouse.json) |
+| [September 23 at 11:52 AM](https://archive.org/download/protocol-2022/protocol-2022-09-23T11:52:45.298722-07:00.lighthouse.json) |
 
 
 

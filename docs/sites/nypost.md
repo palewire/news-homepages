@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 173 screenshots with the Internet Archive.
+The archiving routine has saved 175 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,6 +120,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/nypost-2022/nypost-2022-09-28T03:47:37.156237-04:00.jpg">
+  <img src="https://archive.org/download/nypost-2022/nypost-2022-09-28T03:47:37.156237-04:00.jpg"
+     alt="New York Post at 2022-09-28 03:47:39-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nypost-2022/nypost-2022-09-28T03:47:37.156237-04:00.jpg">September 28 at 3:47 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nypost-2022/nypost-2022-09-27T15:08:58.352260-04:00.jpg">
+  <img src="https://archive.org/download/nypost-2022/nypost-2022-09-27T15:08:58.352260-04:00.jpg"
+     alt="New York Post at 2022-09-27 15:09:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nypost-2022/nypost-2022-09-27T15:08:58.352260-04:00.jpg">September 27 at 3:09 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/nypost-2022/nypost-2022-09-27T03:07:58.424036-04:00.jpg">
   <img src="https://archive.org/download/nypost-2022/nypost-2022-09-27T03:07:58.424036-04:00.jpg"
      alt="New York Post at 2022-09-27 03:08:05-04:00 local time"
@@ -209,29 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nypost-2022/nypost-2022-09-22T15:22:45.290638-04:00.jpg">September 22 at 3:22 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nypost-2022/nypost-2022-09-22T03:22:18.967748-04:00.jpg">
-  <img src="https://archive.org/download/nypost-2022/nypost-2022-09-22T03:22:18.967748-04:00.jpg"
-     alt="New York Post at 2022-09-22 03:22:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nypost-2022/nypost-2022-09-22T03:22:18.967748-04:00.jpg">September 22 at 3:22 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nypost-2022/nypost-2022-09-21T14:59:34.055906-04:00.jpg">
-  <img src="https://archive.org/download/nypost-2022/nypost-2022-09-21T14:59:34.055906-04:00.jpg"
-     alt="New York Post at 2022-09-21 14:59:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nypost-2022/nypost-2022-09-21T14:59:34.055906-04:00.jpg">September 21 at 2:59 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 148 hyperlink lists with the Internet Archive.
+The archiving routine has saved 150 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 3:47 AM](https://archive.org/download/nypost-2022/nypost-2022-09-28T03:47:37.156237-04:00.hyperlinks.json) |
+| [September 27 at 3:09 PM](https://archive.org/download/nypost-2022/nypost-2022-09-27T15:08:58.352260-04:00.hyperlinks.json) |
 | [September 27 at 3:08 AM](https://archive.org/download/nypost-2022/nypost-2022-09-27T03:07:58.424036-04:00.hyperlinks.json) |
 | [September 26 at 3:27 PM](https://archive.org/download/nypost-2022/nypost-2022-09-26T15:27:13.880677-04:00.hyperlinks.json) |
 | [September 26 at 3:42 AM](https://archive.org/download/nypost-2022/nypost-2022-09-26T03:42:16.338217-04:00.hyperlinks.json) |
@@ -330,13 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 2:30 PM](https://archive.org/download/nypost-2022/nypost-2022-09-24T14:30:16.129766-04:00.hyperlinks.json) |
 | [September 24 at 2:55 AM](https://archive.org/download/nypost-2022/nypost-2022-09-24T02:55:07.205185-04:00.hyperlinks.json) |
 | [September 23 at 2:46 PM](https://archive.org/download/nypost-2022/nypost-2022-09-23T14:46:30.263345-04:00.hyperlinks.json) |
-| [September 23 at 3:18 AM](https://archive.org/download/nypost-2022/nypost-2022-09-23T03:18:47.770791-04:00.hyperlinks.json) |
-| [September 22 at 3:22 PM](https://archive.org/download/nypost-2022/nypost-2022-09-22T15:22:45.290638-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 147 accessibility trees with the Internet Archive.
+The archiving routine has saved 149 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 3:47 AM](https://archive.org/download/nypost-2022/nypost-2022-09-28T03:47:37.156237-04:00.accessibility.json) |
+| [September 27 at 3:09 PM](https://archive.org/download/nypost-2022/nypost-2022-09-27T15:08:58.352260-04:00.accessibility.json) |
 | [September 27 at 3:08 AM](https://archive.org/download/nypost-2022/nypost-2022-09-27T03:07:58.424036-04:00.accessibility.json) |
 | [September 26 at 3:27 PM](https://archive.org/download/nypost-2022/nypost-2022-09-26T15:27:13.880677-04:00.accessibility.json) |
 | [September 26 at 3:42 AM](https://archive.org/download/nypost-2022/nypost-2022-09-26T03:42:16.338217-04:00.accessibility.json) |
@@ -435,14 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 2:30 PM](https://archive.org/download/nypost-2022/nypost-2022-09-24T14:30:16.129766-04:00.accessibility.json) |
 | [September 24 at 2:55 AM](https://archive.org/download/nypost-2022/nypost-2022-09-24T02:55:07.205185-04:00.accessibility.json) |
 | [September 23 at 2:46 PM](https://archive.org/download/nypost-2022/nypost-2022-09-23T14:46:30.263345-04:00.accessibility.json) |
-| [September 23 at 3:18 AM](https://archive.org/download/nypost-2022/nypost-2022-09-23T03:18:47.770791-04:00.accessibility.json) |
-| [September 22 at 3:22 PM](https://archive.org/download/nypost-2022/nypost-2022-09-22T15:22:45.290638-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 129 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 131 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 3:47 AM](https://archive.org/download/nypost-2022/nypost-2022-09-28T03:47:37.156237-04:00.lighthouse.json) |
+| [September 27 at 3:09 PM](https://archive.org/download/nypost-2022/nypost-2022-09-27T15:08:58.352260-04:00.lighthouse.json) |
 | [September 27 at 3:08 AM](https://archive.org/download/nypost-2022/nypost-2022-09-27T03:07:58.424036-04:00.lighthouse.json) |
 | [September 26 at 3:27 PM](https://archive.org/download/nypost-2022/nypost-2022-09-26T15:27:13.880677-04:00.lighthouse.json) |
 | [September 26 at 3:42 AM](https://archive.org/download/nypost-2022/nypost-2022-09-26T03:42:16.338217-04:00.lighthouse.json) |
@@ -541,8 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 2:30 PM](https://archive.org/download/nypost-2022/nypost-2022-09-24T14:30:16.129766-04:00.lighthouse.json) |
 | [September 24 at 2:55 AM](https://archive.org/download/nypost-2022/nypost-2022-09-24T02:55:07.205185-04:00.lighthouse.json) |
 | [September 23 at 2:46 PM](https://archive.org/download/nypost-2022/nypost-2022-09-23T14:46:30.263345-04:00.lighthouse.json) |
-| [September 23 at 3:18 AM](https://archive.org/download/nypost-2022/nypost-2022-09-23T03:18:47.770791-04:00.lighthouse.json) |
-| [September 22 at 3:22 PM](https://archive.org/download/nypost-2022/nypost-2022-09-22T15:22:45.290638-04:00.lighthouse.json) |
 
 
 

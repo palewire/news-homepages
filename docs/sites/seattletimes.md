@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 153 screenshots with the Internet Archive.
+The archiving routine has saved 170 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-19T10:25:23.402522-07:00.jpg">
-  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-19T10:25:23.402522-07:00.jpg"
-     alt="Seattle Times at 2022-09-19 10:25:29-07:00 local time"
+ <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-28T00:52:27.009771-07:00.jpg">
+  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-28T00:52:27.009771-07:00.jpg"
+     alt="Seattle Times at 2022-09-28 00:52:32-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-19T10:25:23.402522-07:00.jpg">September 19 at 10:25 AM</a></p>
+ <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-28T00:52:27.009771-07:00.jpg">September 28 at 12:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-18T22:57:20.078255-07:00.jpg">
-  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-18T22:57:20.078255-07:00.jpg"
-     alt="Seattle Times at 2022-09-18 22:57:22-07:00 local time"
+ <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-27T12:14:30.526241-07:00.jpg">
+  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-27T12:14:30.526241-07:00.jpg"
+     alt="Seattle Times at 2022-09-27 12:14:38-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-18T22:57:20.078255-07:00.jpg">September 18 at 10:57 PM</a></p>
+ <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-27T12:14:30.526241-07:00.jpg">September 27 at 12:14 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-18T10:17:05.800390-07:00.jpg">
-  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-18T10:17:05.800390-07:00.jpg"
-     alt="Seattle Times at 2022-09-18 10:17:12-07:00 local time"
+ <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-27T00:12:30.671924-07:00.jpg">
+  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-27T00:12:30.671924-07:00.jpg"
+     alt="Seattle Times at 2022-09-27 00:12:49-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-18T10:17:05.800390-07:00.jpg">September 18 at 10:17 AM</a></p>
+ <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-27T00:12:30.671924-07:00.jpg">September 27 at 12:12 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-17T22:29:09.436872-07:00.jpg">
-  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-17T22:29:09.436872-07:00.jpg"
-     alt="Seattle Times at 2022-09-17 22:29:26-07:00 local time"
+ <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-26T12:30:59.644964-07:00.jpg">
+  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-26T12:30:59.644964-07:00.jpg"
+     alt="Seattle Times at 2022-09-26 12:31:10-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-17T22:29:09.436872-07:00.jpg">September 17 at 10:29 PM</a></p>
+ <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-26T12:30:59.644964-07:00.jpg">September 26 at 12:31 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-17T09:53:02.843074-07:00.jpg">
-  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-17T09:53:02.843074-07:00.jpg"
-     alt="Seattle Times at 2022-09-17 09:53:04-07:00 local time"
+ <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-26T00:46:39.790500-07:00.jpg">
+  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-26T00:46:39.790500-07:00.jpg"
+     alt="Seattle Times at 2022-09-26 00:46:45-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-17T09:53:02.843074-07:00.jpg">September 17 at 9:53 AM</a></p>
+ <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-26T00:46:39.790500-07:00.jpg">September 26 at 12:46 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-16T22:22:02.165642-07:00.jpg">
-  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-16T22:22:02.165642-07:00.jpg"
-     alt="Seattle Times at 2022-09-16 22:22:03-07:00 local time"
+ <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-25T11:34:00.060261-07:00.jpg">
+  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-25T11:34:00.060261-07:00.jpg"
+     alt="Seattle Times at 2022-09-25 11:34:06-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-16T22:22:02.165642-07:00.jpg">September 16 at 10:22 PM</a></p>
+ <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-25T11:34:00.060261-07:00.jpg">September 25 at 11:34 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-16T09:56:57.583555-07:00.jpg">
-  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-16T09:56:57.583555-07:00.jpg"
-     alt="Seattle Times at 2022-09-16 09:56:59-07:00 local time"
+ <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-24T23:57:43.785831-07:00.jpg">
+  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-24T23:57:43.785831-07:00.jpg"
+     alt="Seattle Times at 2022-09-24 23:57:49-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-16T09:56:57.583555-07:00.jpg">September 16 at 9:56 AM</a></p>
+ <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-24T23:57:43.785831-07:00.jpg">September 24 at 11:57 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-15T22:32:43.581490-07:00.jpg">
-  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-15T22:32:43.581490-07:00.jpg"
-     alt="Seattle Times at 2022-09-15 22:32:48-07:00 local time"
+ <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-24T11:35:00.601910-07:00.jpg">
+  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-24T11:35:00.601910-07:00.jpg"
+     alt="Seattle Times at 2022-09-24 11:35:09-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-15T22:32:43.581490-07:00.jpg">September 15 at 10:32 PM</a></p>
+ <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-24T11:35:00.601910-07:00.jpg">September 24 at 11:35 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-15T10:12:35.114441-07:00.jpg">
-  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-15T10:12:35.114441-07:00.jpg"
-     alt="Seattle Times at 2022-09-15 10:12:41-07:00 local time"
+ <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-23T23:58:27.111744-07:00.jpg">
+  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-23T23:58:27.111744-07:00.jpg"
+     alt="Seattle Times at 2022-09-23 23:58:32-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-15T10:12:35.114441-07:00.jpg">September 15 at 10:12 AM</a></p>
+ <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-23T23:58:27.111744-07:00.jpg">September 23 at 11:58 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-14T22:31:32.015755-07:00.jpg">
-  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-14T22:31:32.015755-07:00.jpg"
-     alt="Seattle Times at 2022-09-14 22:31:37-07:00 local time"
+ <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-23T11:54:29.048710-07:00.jpg">
+  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-23T11:54:29.048710-07:00.jpg"
+     alt="Seattle Times at 2022-09-23 11:54:35-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-14T22:31:32.015755-07:00.jpg">September 14 at 10:31 PM</a></p>
+ <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-23T11:54:29.048710-07:00.jpg">September 23 at 11:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-14T10:15:52.182186-07:00.jpg">
-  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-14T10:15:52.182186-07:00.jpg"
-     alt="Seattle Times at 2022-09-14 10:16:01-07:00 local time"
+ <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-23T00:23:41.610719-07:00.jpg">
+  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-23T00:23:41.610719-07:00.jpg"
+     alt="Seattle Times at 2022-09-23 00:24:00-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-14T10:15:52.182186-07:00.jpg">September 14 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-23T00:23:41.610719-07:00.jpg">September 23 at 12:24 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-13T22:35:57.204741-07:00.jpg">
-  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-13T22:35:57.204741-07:00.jpg"
-     alt="Seattle Times at 2022-09-13 22:35:58-07:00 local time"
+ <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-22T12:27:55.262312-07:00.jpg">
+  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-22T12:27:55.262312-07:00.jpg"
+     alt="Seattle Times at 2022-09-22 12:28:16-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-13T22:35:57.204741-07:00.jpg">September 13 at 10:35 PM</a></p>
+ <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-09-22T12:27:55.262312-07:00.jpg">September 22 at 12:28 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 154 hyperlink lists with the Internet Archive.
+The archiving routine has saved 171 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 10:25 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-19T10:25:23.402522-07:00.hyperlinks.json) |
-| [September 18 at 10:57 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-18T22:57:20.078255-07:00.hyperlinks.json) |
-| [September 18 at 10:17 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-18T10:17:05.800390-07:00.hyperlinks.json) |
-| [September 17 at 10:29 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-17T22:29:09.436872-07:00.hyperlinks.json) |
-| [September 17 at 9:53 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-17T09:53:02.843074-07:00.hyperlinks.json) |
-| [September 16 at 10:22 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-16T22:22:02.165642-07:00.hyperlinks.json) |
-| [September 16 at 9:57 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-16T09:56:57.583555-07:00.hyperlinks.json) |
-| [September 15 at 10:32 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-15T22:32:43.581490-07:00.hyperlinks.json) |
-| [September 15 at 10:12 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-15T10:12:35.114441-07:00.hyperlinks.json) |
-| [September 14 at 10:31 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-14T22:31:32.015755-07:00.hyperlinks.json) |
+| [September 28 at 12:52 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-28T00:52:27.009771-07:00.hyperlinks.json) |
+| [September 27 at 12:14 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-27T12:14:30.526241-07:00.hyperlinks.json) |
+| [September 27 at 12:12 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-27T00:12:30.671924-07:00.hyperlinks.json) |
+| [September 26 at 12:31 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-26T12:30:59.644964-07:00.hyperlinks.json) |
+| [September 26 at 12:46 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-26T00:46:39.790500-07:00.hyperlinks.json) |
+| [September 25 at 11:34 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-25T11:34:00.060261-07:00.hyperlinks.json) |
+| [September 24 at 11:57 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-24T23:57:43.785831-07:00.hyperlinks.json) |
+| [September 24 at 11:35 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-24T11:35:00.601910-07:00.hyperlinks.json) |
+| [September 23 at 11:58 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-23T23:58:27.111744-07:00.hyperlinks.json) |
+| [September 23 at 11:54 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-23T11:54:29.048710-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 154 accessibility trees with the Internet Archive.
+The archiving routine has saved 171 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 10:25 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-19T10:25:23.402522-07:00.accessibility.json) |
-| [September 18 at 10:57 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-18T22:57:20.078255-07:00.accessibility.json) |
-| [September 18 at 10:17 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-18T10:17:05.800390-07:00.accessibility.json) |
-| [September 17 at 10:29 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-17T22:29:09.436872-07:00.accessibility.json) |
-| [September 17 at 9:53 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-17T09:53:02.843074-07:00.accessibility.json) |
-| [September 16 at 10:22 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-16T22:22:02.165642-07:00.accessibility.json) |
-| [September 16 at 9:57 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-16T09:56:57.583555-07:00.accessibility.json) |
-| [September 15 at 10:32 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-15T22:32:43.581490-07:00.accessibility.json) |
-| [September 15 at 10:12 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-15T10:12:35.114441-07:00.accessibility.json) |
-| [September 14 at 10:31 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-14T22:31:32.015755-07:00.accessibility.json) |
+| [September 28 at 12:52 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-28T00:52:27.009771-07:00.accessibility.json) |
+| [September 27 at 12:14 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-27T12:14:30.526241-07:00.accessibility.json) |
+| [September 27 at 12:12 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-27T00:12:30.671924-07:00.accessibility.json) |
+| [September 26 at 12:31 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-26T12:30:59.644964-07:00.accessibility.json) |
+| [September 26 at 12:46 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-26T00:46:39.790500-07:00.accessibility.json) |
+| [September 25 at 11:34 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-25T11:34:00.060261-07:00.accessibility.json) |
+| [September 24 at 11:57 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-24T23:57:43.785831-07:00.accessibility.json) |
+| [September 24 at 11:35 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-24T11:35:00.601910-07:00.accessibility.json) |
+| [September 23 at 11:58 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-23T23:58:27.111744-07:00.accessibility.json) |
+| [September 23 at 11:54 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-23T11:54:29.048710-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 115 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 10:25 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-19T10:25:23.402522-07:00.lighthouse.json) |
-| [September 18 at 10:57 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-18T22:57:20.078255-07:00.lighthouse.json) |
-| [September 18 at 10:17 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-18T10:17:05.800390-07:00.lighthouse.json) |
-| [September 17 at 10:29 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-17T22:29:09.436872-07:00.lighthouse.json) |
-| [September 17 at 9:53 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-17T09:53:02.843074-07:00.lighthouse.json) |
-| [September 16 at 10:22 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-16T22:22:02.165642-07:00.lighthouse.json) |
-| [September 16 at 9:57 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-16T09:56:57.583555-07:00.lighthouse.json) |
-| [September 15 at 10:32 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-15T22:32:43.581490-07:00.lighthouse.json) |
-| [September 15 at 10:12 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-15T10:12:35.114441-07:00.lighthouse.json) |
-| [September 14 at 10:31 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-14T22:31:32.015755-07:00.lighthouse.json) |
+| [September 28 at 12:52 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-28T00:52:27.009771-07:00.lighthouse.json) |
+| [September 27 at 12:14 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-27T12:14:30.526241-07:00.lighthouse.json) |
+| [September 27 at 12:12 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-27T00:12:30.671924-07:00.lighthouse.json) |
+| [September 26 at 12:31 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-26T12:30:59.644964-07:00.lighthouse.json) |
+| [September 26 at 12:46 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-26T00:46:39.790500-07:00.lighthouse.json) |
+| [September 25 at 11:34 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-25T11:34:00.060261-07:00.lighthouse.json) |
+| [September 24 at 11:57 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-24T23:57:43.785831-07:00.lighthouse.json) |
+| [September 24 at 11:35 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-24T11:35:00.601910-07:00.lighthouse.json) |
+| [September 23 at 11:58 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-23T23:58:27.111744-07:00.lighthouse.json) |
+| [September 23 at 11:54 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-09-23T11:54:29.048710-07:00.lighthouse.json) |
 
 
 

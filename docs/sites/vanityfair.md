@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 154 screenshots with the Internet Archive.
+The archiving routine has saved 171 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-19T10:08:16.300479-04:00.jpg">
-  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-19T10:08:16.300479-04:00.jpg"
-     alt="Vanity Fair at 2022-09-19 10:08:18-04:00 local time"
+ <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-28T02:05:30.897534-04:00.jpg">
+  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-28T02:05:30.897534-04:00.jpg"
+     alt="Vanity Fair at 2022-09-28 02:05:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-19T10:08:16.300479-04:00.jpg">September 19 at 10:08 AM</a></p>
+ <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-28T02:05:30.897534-04:00.jpg">September 28 at 2:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-18T22:22:43.019376-04:00.jpg">
-  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-18T22:22:43.019376-04:00.jpg"
-     alt="Vanity Fair at 2022-09-18 22:22:45-04:00 local time"
+ <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-27T12:08:05.508172-04:00.jpg">
+  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-27T12:08:05.508172-04:00.jpg"
+     alt="Vanity Fair at 2022-09-27 12:08:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-18T22:22:43.019376-04:00.jpg">September 18 at 10:22 PM</a></p>
+ <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-27T12:08:05.508172-04:00.jpg">September 27 at 12:08 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-18T10:03:31.365206-04:00.jpg">
-  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-18T10:03:31.365206-04:00.jpg"
-     alt="Vanity Fair at 2022-09-18 10:03:32-04:00 local time"
+ <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-27T00:31:06.422142-04:00.jpg">
+  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-27T00:31:06.422142-04:00.jpg"
+     alt="Vanity Fair at 2022-09-27 00:31:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-18T10:03:31.365206-04:00.jpg">September 18 at 10:03 AM</a></p>
+ <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-27T00:31:06.422142-04:00.jpg">September 27 at 12:31 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-17T22:30:10.971709-04:00.jpg">
-  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-17T22:30:10.971709-04:00.jpg"
-     alt="Vanity Fair at 2022-09-17 22:30:12-04:00 local time"
+ <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-26T12:07:41.910560-04:00.jpg">
+  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-26T12:07:41.910560-04:00.jpg"
+     alt="Vanity Fair at 2022-09-26 12:07:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-17T22:30:10.971709-04:00.jpg">September 17 at 10:30 PM</a></p>
+ <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-26T12:07:41.910560-04:00.jpg">September 26 at 12:07 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-17T10:01:39.024101-04:00.jpg">
-  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-17T10:01:39.024101-04:00.jpg"
-     alt="Vanity Fair at 2022-09-17 10:01:41-04:00 local time"
+ <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-26T00:48:46.880196-04:00.jpg">
+  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-26T00:48:46.880196-04:00.jpg"
+     alt="Vanity Fair at 2022-09-26 00:48:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-17T10:01:39.024101-04:00.jpg">September 17 at 10:01 AM</a></p>
+ <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-26T00:48:46.880196-04:00.jpg">September 26 at 12:48 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-16T22:27:10.204912-04:00.jpg">
-  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-16T22:27:10.204912-04:00.jpg"
-     alt="Vanity Fair at 2022-09-16 22:27:11-04:00 local time"
+ <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-25T11:53:37.885411-04:00.jpg">
+  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-25T11:53:37.885411-04:00.jpg"
+     alt="Vanity Fair at 2022-09-25 11:53:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-16T22:27:10.204912-04:00.jpg">September 16 at 10:27 PM</a></p>
+ <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-25T11:53:37.885411-04:00.jpg">September 25 at 11:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-16T10:07:57.379566-04:00.jpg">
-  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-16T10:07:57.379566-04:00.jpg"
-     alt="Vanity Fair at 2022-09-16 10:07:59-04:00 local time"
+ <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-25T00:30:01.258108-04:00.jpg">
+  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-25T00:30:01.258108-04:00.jpg"
+     alt="Vanity Fair at 2022-09-25 00:30:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-16T10:07:57.379566-04:00.jpg">September 16 at 10:07 AM</a></p>
+ <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-25T00:30:01.258108-04:00.jpg">September 25 at 12:30 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-15T22:27:17.877472-04:00.jpg">
-  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-15T22:27:17.877472-04:00.jpg"
-     alt="Vanity Fair at 2022-09-15 22:27:19-04:00 local time"
+ <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-24T11:51:25.370439-04:00.jpg">
+  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-24T11:51:25.370439-04:00.jpg"
+     alt="Vanity Fair at 2022-09-24 11:51:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-15T22:27:17.877472-04:00.jpg">September 15 at 10:27 PM</a></p>
+ <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-24T11:51:25.370439-04:00.jpg">September 24 at 11:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-15T10:14:25.946798-04:00.jpg">
-  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-15T10:14:25.946798-04:00.jpg"
-     alt="Vanity Fair at 2022-09-15 10:14:27-04:00 local time"
+ <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-24T00:32:45.677074-04:00.jpg">
+  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-24T00:32:45.677074-04:00.jpg"
+     alt="Vanity Fair at 2022-09-24 00:32:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-15T10:14:25.946798-04:00.jpg">September 15 at 10:14 AM</a></p>
+ <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-24T00:32:45.677074-04:00.jpg">September 24 at 12:32 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-14T22:29:33.635375-04:00.jpg">
-  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-14T22:29:33.635375-04:00.jpg"
-     alt="Vanity Fair at 2022-09-14 22:29:41-04:00 local time"
+ <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-23T12:00:55.871823-04:00.jpg">
+  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-23T12:00:55.871823-04:00.jpg"
+     alt="Vanity Fair at 2022-09-23 12:01:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-14T22:29:33.635375-04:00.jpg">September 14 at 10:29 PM</a></p>
+ <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-23T12:00:55.871823-04:00.jpg">September 23 at 12:01 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-14T10:15:39.774215-04:00.jpg">
-  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-14T10:15:39.774215-04:00.jpg"
-     alt="Vanity Fair at 2022-09-14 10:15:41-04:00 local time"
+ <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-23T01:17:44.007483-04:00.jpg">
+  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-23T01:17:44.007483-04:00.jpg"
+     alt="Vanity Fair at 2022-09-23 01:17:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-14T10:15:39.774215-04:00.jpg">September 14 at 10:15 AM</a></p>
+ <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-23T01:17:44.007483-04:00.jpg">September 23 at 1:17 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-13T22:27:46.886296-04:00.jpg">
-  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-13T22:27:46.886296-04:00.jpg"
-     alt="Vanity Fair at 2022-09-13 22:27:48-04:00 local time"
+ <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-22T12:02:29.644083-04:00.jpg">
+  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-22T12:02:29.644083-04:00.jpg"
+     alt="Vanity Fair at 2022-09-22 12:02:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-13T22:27:46.886296-04:00.jpg">September 13 at 10:27 PM</a></p>
+ <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-09-22T12:02:29.644083-04:00.jpg">September 22 at 12:02 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 155 hyperlink lists with the Internet Archive.
+The archiving routine has saved 172 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 10:08 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-19T10:08:16.300479-04:00.hyperlinks.json) |
-| [September 18 at 10:22 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-18T22:22:43.019376-04:00.hyperlinks.json) |
-| [September 18 at 10:03 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-18T10:03:31.365206-04:00.hyperlinks.json) |
-| [September 17 at 10:30 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-17T22:30:10.971709-04:00.hyperlinks.json) |
-| [September 17 at 10:01 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-17T10:01:39.024101-04:00.hyperlinks.json) |
-| [September 16 at 10:27 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-16T22:27:10.204912-04:00.hyperlinks.json) |
-| [September 16 at 10:08 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-16T10:07:57.379566-04:00.hyperlinks.json) |
-| [September 15 at 10:27 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-15T22:27:17.877472-04:00.hyperlinks.json) |
-| [September 15 at 10:14 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-15T10:14:25.946798-04:00.hyperlinks.json) |
-| [September 14 at 10:29 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-14T22:29:33.635375-04:00.hyperlinks.json) |
+| [September 28 at 2:05 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-28T02:05:30.897534-04:00.hyperlinks.json) |
+| [September 27 at 12:08 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-27T12:08:05.508172-04:00.hyperlinks.json) |
+| [September 27 at 12:31 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-27T00:31:06.422142-04:00.hyperlinks.json) |
+| [September 26 at 12:07 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-26T12:07:41.910560-04:00.hyperlinks.json) |
+| [September 26 at 12:48 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-26T00:48:46.880196-04:00.hyperlinks.json) |
+| [September 25 at 11:53 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-25T11:53:37.885411-04:00.hyperlinks.json) |
+| [September 25 at 12:30 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-25T00:30:01.258108-04:00.hyperlinks.json) |
+| [September 24 at 11:51 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-24T11:51:25.370439-04:00.hyperlinks.json) |
+| [September 24 at 12:32 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-24T00:32:45.677074-04:00.hyperlinks.json) |
+| [September 23 at 12:01 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-23T12:00:55.871823-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 156 accessibility trees with the Internet Archive.
+The archiving routine has saved 173 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 10:08 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-19T10:08:16.300479-04:00.accessibility.json) |
-| [September 18 at 10:22 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-18T22:22:43.019376-04:00.accessibility.json) |
-| [September 18 at 10:03 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-18T10:03:31.365206-04:00.accessibility.json) |
-| [September 17 at 10:30 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-17T22:30:10.971709-04:00.accessibility.json) |
-| [September 17 at 10:01 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-17T10:01:39.024101-04:00.accessibility.json) |
-| [September 16 at 10:27 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-16T22:27:10.204912-04:00.accessibility.json) |
-| [September 16 at 10:08 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-16T10:07:57.379566-04:00.accessibility.json) |
-| [September 15 at 10:27 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-15T22:27:17.877472-04:00.accessibility.json) |
-| [September 15 at 10:14 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-15T10:14:25.946798-04:00.accessibility.json) |
-| [September 14 at 10:29 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-14T22:29:33.635375-04:00.accessibility.json) |
+| [September 28 at 2:05 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-28T02:05:30.897534-04:00.accessibility.json) |
+| [September 27 at 12:08 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-27T12:08:05.508172-04:00.accessibility.json) |
+| [September 27 at 12:31 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-27T00:31:06.422142-04:00.accessibility.json) |
+| [September 26 at 12:07 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-26T12:07:41.910560-04:00.accessibility.json) |
+| [September 26 at 12:48 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-26T00:48:46.880196-04:00.accessibility.json) |
+| [September 25 at 11:53 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-25T11:53:37.885411-04:00.accessibility.json) |
+| [September 25 at 12:30 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-25T00:30:01.258108-04:00.accessibility.json) |
+| [September 24 at 11:51 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-24T11:51:25.370439-04:00.accessibility.json) |
+| [September 24 at 12:32 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-24T00:32:45.677074-04:00.accessibility.json) |
+| [September 23 at 12:01 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-23T12:00:55.871823-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 117 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 10:08 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-19T10:08:16.300479-04:00.lighthouse.json) |
-| [September 18 at 10:22 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-18T22:22:43.019376-04:00.lighthouse.json) |
-| [September 18 at 10:03 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-18T10:03:31.365206-04:00.lighthouse.json) |
-| [September 17 at 10:30 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-17T22:30:10.971709-04:00.lighthouse.json) |
-| [September 17 at 10:01 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-17T10:01:39.024101-04:00.lighthouse.json) |
-| [September 16 at 10:27 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-16T22:27:10.204912-04:00.lighthouse.json) |
-| [September 16 at 10:08 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-16T10:07:57.379566-04:00.lighthouse.json) |
-| [September 15 at 10:27 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-15T22:27:17.877472-04:00.lighthouse.json) |
-| [September 15 at 10:14 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-15T10:14:25.946798-04:00.lighthouse.json) |
-| [September 14 at 10:29 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-14T22:29:33.635375-04:00.lighthouse.json) |
+| [September 28 at 2:05 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-28T02:05:30.897534-04:00.lighthouse.json) |
+| [September 27 at 12:08 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-27T12:08:05.508172-04:00.lighthouse.json) |
+| [September 27 at 12:31 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-27T00:31:06.422142-04:00.lighthouse.json) |
+| [September 26 at 12:07 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-26T12:07:41.910560-04:00.lighthouse.json) |
+| [September 26 at 12:48 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-26T00:48:46.880196-04:00.lighthouse.json) |
+| [September 25 at 11:53 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-25T11:53:37.885411-04:00.lighthouse.json) |
+| [September 25 at 12:30 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-25T00:30:01.258108-04:00.lighthouse.json) |
+| [September 24 at 11:51 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-24T11:51:25.370439-04:00.lighthouse.json) |
+| [September 24 at 12:32 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-24T00:32:45.677074-04:00.lighthouse.json) |
+| [September 23 at 12:01 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-09-23T12:00:55.871823-04:00.lighthouse.json) |
 
 
 

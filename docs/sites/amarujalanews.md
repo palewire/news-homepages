@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 122 screenshots with the Internet Archive.
+The archiving routine has saved 124 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,6 +120,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-28T11:31:42.569775+05:30.jpg">
+  <img src="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-28T11:31:42.569775+05:30.jpg"
+     alt="Amar Ujala at 2022-09-28 11:32:04+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-28T11:31:42.569775+05:30.jpg">September 28 at 11:32 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-27T21:34:28.462902+05:30.jpg">
+  <img src="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-27T21:34:28.462902+05:30.jpg"
+     alt="Amar Ujala at 2022-09-27 21:34:30+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-27T21:34:28.462902+05:30.jpg">September 27 at 9:34 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-27T09:58:27.372220+05:30.jpg">
   <img src="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-27T09:58:27.372220+05:30.jpg"
      alt="Amar Ujala at 2022-09-27 09:58:33+05:30 local time"
@@ -209,29 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-22T21:28:13.662778+05:30.jpg">September 22 at 9:28 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-22T10:04:59.689086+05:30.jpg">
-  <img src="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-22T10:04:59.689086+05:30.jpg"
-     alt="Amar Ujala at 2022-09-22 10:05:02+05:30 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-22T10:04:59.689086+05:30.jpg">September 22 at 10:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-21T21:30:22.440347+05:30.jpg">
-  <img src="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-21T21:30:22.440347+05:30.jpg"
-     alt="Amar Ujala at 2022-09-21 21:30:31+05:30 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-21T21:30:22.440347+05:30.jpg">September 21 at 9:30 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 123 hyperlink lists with the Internet Archive.
+The archiving routine has saved 125 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 11:32 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-28T11:31:42.569775+05:30.hyperlinks.json) |
+| [September 27 at 9:34 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-27T21:34:28.462902+05:30.hyperlinks.json) |
 | [September 27 at 9:58 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-27T09:58:27.372220+05:30.hyperlinks.json) |
 | [September 26 at 9:34 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-26T21:34:31.930452+05:30.hyperlinks.json) |
 | [September 26 at 10:12 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-26T10:12:16.708373+05:30.hyperlinks.json) |
@@ -330,13 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 9:18 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-24T21:18:47.422489+05:30.hyperlinks.json) |
 | [September 24 at 10:00 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-24T10:00:00.807908+05:30.hyperlinks.json) |
 | [September 23 at 9:27 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-23T21:26:49.570356+05:30.hyperlinks.json) |
-| [September 23 at 10:41 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-23T10:41:14.535772+05:30.hyperlinks.json) |
-| [September 22 at 9:28 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-22T21:28:13.662778+05:30.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 123 accessibility trees with the Internet Archive.
+The archiving routine has saved 125 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 11:32 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-28T11:31:42.569775+05:30.accessibility.json) |
+| [September 27 at 9:34 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-27T21:34:28.462902+05:30.accessibility.json) |
 | [September 27 at 9:58 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-27T09:58:27.372220+05:30.accessibility.json) |
 | [September 26 at 9:34 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-26T21:34:31.930452+05:30.accessibility.json) |
 | [September 26 at 10:12 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-26T10:12:16.708373+05:30.accessibility.json) |
@@ -435,14 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 9:18 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-24T21:18:47.422489+05:30.accessibility.json) |
 | [September 24 at 10:00 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-24T10:00:00.807908+05:30.accessibility.json) |
 | [September 23 at 9:26 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-23T21:26:49.570356+05:30.accessibility.json) |
-| [September 23 at 10:41 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-23T10:41:14.535772+05:30.accessibility.json) |
-| [September 22 at 9:28 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-22T21:28:13.662778+05:30.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 119 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 121 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 11:32 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-28T11:31:42.569775+05:30.lighthouse.json) |
+| [September 27 at 9:34 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-27T21:34:28.462902+05:30.lighthouse.json) |
 | [September 27 at 9:58 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-27T09:58:27.372220+05:30.lighthouse.json) |
 | [September 26 at 9:34 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-26T21:34:31.930452+05:30.lighthouse.json) |
 | [September 26 at 10:12 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-26T10:12:16.708373+05:30.lighthouse.json) |
@@ -541,8 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 9:18 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-24T21:18:47.422489+05:30.lighthouse.json) |
 | [September 24 at 10:00 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-24T10:00:00.807908+05:30.lighthouse.json) |
 | [September 23 at 9:27 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-23T21:26:49.570356+05:30.lighthouse.json) |
-| [September 23 at 10:41 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-23T10:41:14.535772+05:30.lighthouse.json) |
-| [September 22 at 9:28 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-09-22T21:28:13.662778+05:30.lighthouse.json) |
 
 
 

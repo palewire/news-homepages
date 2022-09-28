@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 60 screenshots with the Internet Archive.
+The archiving routine has saved 85 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/unherd-2022/unherd-2022-09-19T18:28:35.343483+01:00.jpg">
-  <img src="https://archive.org/download/unherd-2022/unherd-2022-09-19T18:28:35.343483+01:00.jpg"
-     alt="UnHerd at 2022-09-19 18:28:37+01:00 local time"
+ <a href="https://archive.org/download/unherd-2022/unherd-2022-09-28T08:56:38.997902+01:00.jpg">
+  <img src="https://archive.org/download/unherd-2022/unherd-2022-09-28T08:56:38.997902+01:00.jpg"
+     alt="UnHerd at 2022-09-28 08:56:46+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/unherd-2022/unherd-2022-09-19T18:28:35.343483+01:00.jpg">September 19 at 6:28 PM</a></p>
+ <p><a href="https://archive.org/download/unherd-2022/unherd-2022-09-28T08:56:38.997902+01:00.jpg">September 28 at 8:56 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/unherd-2022/unherd-2022-09-19T10:43:08.596632+01:00.jpg">
-  <img src="https://archive.org/download/unherd-2022/unherd-2022-09-19T10:43:08.596632+01:00.jpg"
-     alt="UnHerd at 2022-09-19 10:43:17+01:00 local time"
+ <a href="https://archive.org/download/unherd-2022/unherd-2022-09-27T20:43:23.114269+01:00.jpg">
+  <img src="https://archive.org/download/unherd-2022/unherd-2022-09-27T20:43:23.114269+01:00.jpg"
+     alt="UnHerd at 2022-09-27 20:43:25+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/unherd-2022/unherd-2022-09-19T10:43:08.596632+01:00.jpg">September 19 at 10:43 AM</a></p>
+ <p><a href="https://archive.org/download/unherd-2022/unherd-2022-09-27T20:43:23.114269+01:00.jpg">September 27 at 8:43 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/unherd-2022/unherd-2022-09-19T06:59:39.952051+01:00.jpg">
-  <img src="https://archive.org/download/unherd-2022/unherd-2022-09-19T06:59:39.952051+01:00.jpg"
-     alt="UnHerd at 2022-09-19 06:59:41+01:00 local time"
+ <a href="https://archive.org/download/unherd-2022/unherd-2022-09-27T10:31:32.222624+01:00.jpg">
+  <img src="https://archive.org/download/unherd-2022/unherd-2022-09-27T10:31:32.222624+01:00.jpg"
+     alt="UnHerd at 2022-09-27 10:31:33+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/unherd-2022/unherd-2022-09-19T06:59:39.952051+01:00.jpg">September 19 at 6:59 AM</a></p>
+ <p><a href="https://archive.org/download/unherd-2022/unherd-2022-09-27T10:31:32.222624+01:00.jpg">September 27 at 10:31 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/unherd-2022/unherd-2022-09-18T18:19:00.629200+01:00.jpg">
-  <img src="https://archive.org/download/unherd-2022/unherd-2022-09-18T18:19:00.629200+01:00.jpg"
-     alt="UnHerd at 2022-09-18 18:19:02+01:00 local time"
+ <a href="https://archive.org/download/unherd-2022/unherd-2022-09-27T08:05:18.222461+01:00.jpg">
+  <img src="https://archive.org/download/unherd-2022/unherd-2022-09-27T08:05:18.222461+01:00.jpg"
+     alt="UnHerd at 2022-09-27 08:05:19+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/unherd-2022/unherd-2022-09-18T18:19:00.629200+01:00.jpg">September 18 at 6:19 PM</a></p>
+ <p><a href="https://archive.org/download/unherd-2022/unherd-2022-09-27T08:05:18.222461+01:00.jpg">September 27 at 8:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/unherd-2022/unherd-2022-09-18T10:16:05.339463+01:00.jpg">
-  <img src="https://archive.org/download/unherd-2022/unherd-2022-09-18T10:16:05.339463+01:00.jpg"
-     alt="UnHerd at 2022-09-18 10:16:08+01:00 local time"
+ <a href="https://archive.org/download/unherd-2022/unherd-2022-09-26T20:13:12.202730+01:00.jpg">
+  <img src="https://archive.org/download/unherd-2022/unherd-2022-09-26T20:13:12.202730+01:00.jpg"
+     alt="UnHerd at 2022-09-26 20:13:24+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/unherd-2022/unherd-2022-09-18T10:16:05.339463+01:00.jpg">September 18 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/unherd-2022/unherd-2022-09-26T20:13:12.202730+01:00.jpg">September 26 at 8:13 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/unherd-2022/unherd-2022-09-18T06:31:06.321653+01:00.jpg">
-  <img src="https://archive.org/download/unherd-2022/unherd-2022-09-18T06:31:06.321653+01:00.jpg"
-     alt="UnHerd at 2022-09-18 06:31:07+01:00 local time"
+ <a href="https://archive.org/download/unherd-2022/unherd-2022-09-26T10:20:40.951974+01:00.jpg">
+  <img src="https://archive.org/download/unherd-2022/unherd-2022-09-26T10:20:40.951974+01:00.jpg"
+     alt="UnHerd at 2022-09-26 10:20:42+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/unherd-2022/unherd-2022-09-18T06:31:06.321653+01:00.jpg">September 18 at 6:31 AM</a></p>
+ <p><a href="https://archive.org/download/unherd-2022/unherd-2022-09-26T10:20:40.951974+01:00.jpg">September 26 at 10:20 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/unherd-2022/unherd-2022-09-17T17:57:28.459775+01:00.jpg">
-  <img src="https://archive.org/download/unherd-2022/unherd-2022-09-17T17:57:28.459775+01:00.jpg"
-     alt="UnHerd at 2022-09-17 17:57:29+01:00 local time"
+ <a href="https://archive.org/download/unherd-2022/unherd-2022-09-26T08:32:38.126168+01:00.jpg">
+  <img src="https://archive.org/download/unherd-2022/unherd-2022-09-26T08:32:38.126168+01:00.jpg"
+     alt="UnHerd at 2022-09-26 08:32:41+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/unherd-2022/unherd-2022-09-17T17:57:28.459775+01:00.jpg">September 17 at 5:57 PM</a></p>
+ <p><a href="https://archive.org/download/unherd-2022/unherd-2022-09-26T08:32:38.126168+01:00.jpg">September 26 at 8:32 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/unherd-2022/unherd-2022-09-17T10:16:04.141739+01:00.jpg">
-  <img src="https://archive.org/download/unherd-2022/unherd-2022-09-17T10:16:04.141739+01:00.jpg"
-     alt="UnHerd at 2022-09-17 10:16:05+01:00 local time"
+ <a href="https://archive.org/download/unherd-2022/unherd-2022-09-25T19:47:41.741684+01:00.jpg">
+  <img src="https://archive.org/download/unherd-2022/unherd-2022-09-25T19:47:41.741684+01:00.jpg"
+     alt="UnHerd at 2022-09-25 19:47:44+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/unherd-2022/unherd-2022-09-17T10:16:04.141739+01:00.jpg">September 17 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/unherd-2022/unherd-2022-09-25T19:47:41.741684+01:00.jpg">September 25 at 7:47 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/unherd-2022/unherd-2022-09-17T06:25:28.477188+01:00.jpg">
-  <img src="https://archive.org/download/unherd-2022/unherd-2022-09-17T06:25:28.477188+01:00.jpg"
-     alt="UnHerd at 2022-09-17 06:25:29+01:00 local time"
+ <a href="https://archive.org/download/unherd-2022/unherd-2022-09-25T10:14:51.558965+01:00.jpg">
+  <img src="https://archive.org/download/unherd-2022/unherd-2022-09-25T10:14:51.558965+01:00.jpg"
+     alt="UnHerd at 2022-09-25 10:14:53+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/unherd-2022/unherd-2022-09-17T06:25:28.477188+01:00.jpg">September 17 at 6:25 AM</a></p>
+ <p><a href="https://archive.org/download/unherd-2022/unherd-2022-09-25T10:14:51.558965+01:00.jpg">September 25 at 10:14 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/unherd-2022/unherd-2022-09-16T18:01:16.355740+01:00.jpg">
-  <img src="https://archive.org/download/unherd-2022/unherd-2022-09-16T18:01:16.355740+01:00.jpg"
-     alt="UnHerd at 2022-09-16 18:01:17+01:00 local time"
+ <a href="https://archive.org/download/unherd-2022/unherd-2022-09-25T08:01:38.650669+01:00.jpg">
+  <img src="https://archive.org/download/unherd-2022/unherd-2022-09-25T08:01:38.650669+01:00.jpg"
+     alt="UnHerd at 2022-09-25 08:01:40+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/unherd-2022/unherd-2022-09-16T18:01:16.355740+01:00.jpg">September 16 at 6:01 PM</a></p>
+ <p><a href="https://archive.org/download/unherd-2022/unherd-2022-09-25T08:01:38.650669+01:00.jpg">September 25 at 8:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/unherd-2022/unherd-2022-09-16T10:16:29.634514+01:00.jpg">
-  <img src="https://archive.org/download/unherd-2022/unherd-2022-09-16T10:16:29.634514+01:00.jpg"
-     alt="UnHerd at 2022-09-16 10:16:34+01:00 local time"
+ <a href="https://archive.org/download/unherd-2022/unherd-2022-09-24T19:39:33.403126+01:00.jpg">
+  <img src="https://archive.org/download/unherd-2022/unherd-2022-09-24T19:39:33.403126+01:00.jpg"
+     alt="UnHerd at 2022-09-24 19:39:37+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/unherd-2022/unherd-2022-09-16T10:16:29.634514+01:00.jpg">September 16 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/unherd-2022/unherd-2022-09-24T19:39:33.403126+01:00.jpg">September 24 at 7:39 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/unherd-2022/unherd-2022-09-16T06:35:00.428738+01:00.jpg">
-  <img src="https://archive.org/download/unherd-2022/unherd-2022-09-16T06:35:00.428738+01:00.jpg"
-     alt="UnHerd at 2022-09-16 06:35:02+01:00 local time"
+ <a href="https://archive.org/download/unherd-2022/unherd-2022-09-24T10:16:03.898162+01:00.jpg">
+  <img src="https://archive.org/download/unherd-2022/unherd-2022-09-24T10:16:03.898162+01:00.jpg"
+     alt="UnHerd at 2022-09-24 10:16:05+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/unherd-2022/unherd-2022-09-16T06:35:00.428738+01:00.jpg">September 16 at 6:35 AM</a></p>
+ <p><a href="https://archive.org/download/unherd-2022/unherd-2022-09-24T10:16:03.898162+01:00.jpg">September 24 at 10:16 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 61 hyperlink lists with the Internet Archive.
+The archiving routine has saved 86 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 6:28 PM](https://archive.org/download/unherd-2022/unherd-2022-09-19T18:28:35.343483+01:00.hyperlinks.json) |
-| [September 19 at 10:43 AM](https://archive.org/download/unherd-2022/unherd-2022-09-19T10:43:08.596632+01:00.hyperlinks.json) |
-| [September 19 at 6:59 AM](https://archive.org/download/unherd-2022/unherd-2022-09-19T06:59:39.952051+01:00.hyperlinks.json) |
-| [September 18 at 6:19 PM](https://archive.org/download/unherd-2022/unherd-2022-09-18T18:19:00.629200+01:00.hyperlinks.json) |
-| [September 18 at 10:16 AM](https://archive.org/download/unherd-2022/unherd-2022-09-18T10:16:05.339463+01:00.hyperlinks.json) |
-| [September 18 at 6:31 AM](https://archive.org/download/unherd-2022/unherd-2022-09-18T06:31:06.321653+01:00.hyperlinks.json) |
-| [September 17 at 5:57 PM](https://archive.org/download/unherd-2022/unherd-2022-09-17T17:57:28.459775+01:00.hyperlinks.json) |
-| [September 17 at 10:16 AM](https://archive.org/download/unherd-2022/unherd-2022-09-17T10:16:04.141739+01:00.hyperlinks.json) |
-| [September 17 at 6:25 AM](https://archive.org/download/unherd-2022/unherd-2022-09-17T06:25:28.477188+01:00.hyperlinks.json) |
-| [September 16 at 6:01 PM](https://archive.org/download/unherd-2022/unherd-2022-09-16T18:01:16.355740+01:00.hyperlinks.json) |
+| [September 28 at 8:56 AM](https://archive.org/download/unherd-2022/unherd-2022-09-28T08:56:38.997902+01:00.hyperlinks.json) |
+| [September 27 at 8:43 PM](https://archive.org/download/unherd-2022/unherd-2022-09-27T20:43:23.114269+01:00.hyperlinks.json) |
+| [September 27 at 10:31 AM](https://archive.org/download/unherd-2022/unherd-2022-09-27T10:31:32.222624+01:00.hyperlinks.json) |
+| [September 27 at 8:05 AM](https://archive.org/download/unherd-2022/unherd-2022-09-27T08:05:18.222461+01:00.hyperlinks.json) |
+| [September 26 at 8:13 PM](https://archive.org/download/unherd-2022/unherd-2022-09-26T20:13:12.202730+01:00.hyperlinks.json) |
+| [September 26 at 10:20 AM](https://archive.org/download/unherd-2022/unherd-2022-09-26T10:20:40.951974+01:00.hyperlinks.json) |
+| [September 26 at 8:32 AM](https://archive.org/download/unherd-2022/unherd-2022-09-26T08:32:38.126168+01:00.hyperlinks.json) |
+| [September 25 at 7:47 PM](https://archive.org/download/unherd-2022/unherd-2022-09-25T19:47:41.741684+01:00.hyperlinks.json) |
+| [September 25 at 10:14 AM](https://archive.org/download/unherd-2022/unherd-2022-09-25T10:14:51.558965+01:00.hyperlinks.json) |
+| [September 25 at 8:01 AM](https://archive.org/download/unherd-2022/unherd-2022-09-25T08:01:38.650669+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 60 accessibility trees with the Internet Archive.
+The archiving routine has saved 85 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 6:28 PM](https://archive.org/download/unherd-2022/unherd-2022-09-19T18:28:35.343483+01:00.accessibility.json) |
-| [September 19 at 10:43 AM](https://archive.org/download/unherd-2022/unherd-2022-09-19T10:43:08.596632+01:00.accessibility.json) |
-| [September 19 at 6:59 AM](https://archive.org/download/unherd-2022/unherd-2022-09-19T06:59:39.952051+01:00.accessibility.json) |
-| [September 18 at 6:19 PM](https://archive.org/download/unherd-2022/unherd-2022-09-18T18:19:00.629200+01:00.accessibility.json) |
-| [September 18 at 10:16 AM](https://archive.org/download/unherd-2022/unherd-2022-09-18T10:16:05.339463+01:00.accessibility.json) |
-| [September 18 at 6:31 AM](https://archive.org/download/unherd-2022/unherd-2022-09-18T06:31:06.321653+01:00.accessibility.json) |
-| [September 17 at 5:57 PM](https://archive.org/download/unherd-2022/unherd-2022-09-17T17:57:28.459775+01:00.accessibility.json) |
-| [September 17 at 10:16 AM](https://archive.org/download/unherd-2022/unherd-2022-09-17T10:16:04.141739+01:00.accessibility.json) |
-| [September 17 at 6:25 AM](https://archive.org/download/unherd-2022/unherd-2022-09-17T06:25:28.477188+01:00.accessibility.json) |
-| [September 16 at 6:01 PM](https://archive.org/download/unherd-2022/unherd-2022-09-16T18:01:16.355740+01:00.accessibility.json) |
+| [September 28 at 8:56 AM](https://archive.org/download/unherd-2022/unherd-2022-09-28T08:56:38.997902+01:00.accessibility.json) |
+| [September 27 at 8:43 PM](https://archive.org/download/unherd-2022/unherd-2022-09-27T20:43:23.114269+01:00.accessibility.json) |
+| [September 27 at 10:31 AM](https://archive.org/download/unherd-2022/unherd-2022-09-27T10:31:32.222624+01:00.accessibility.json) |
+| [September 27 at 8:05 AM](https://archive.org/download/unherd-2022/unherd-2022-09-27T08:05:18.222461+01:00.accessibility.json) |
+| [September 26 at 8:13 PM](https://archive.org/download/unherd-2022/unherd-2022-09-26T20:13:12.202730+01:00.accessibility.json) |
+| [September 26 at 10:20 AM](https://archive.org/download/unherd-2022/unherd-2022-09-26T10:20:40.951974+01:00.accessibility.json) |
+| [September 26 at 8:32 AM](https://archive.org/download/unherd-2022/unherd-2022-09-26T08:32:38.126168+01:00.accessibility.json) |
+| [September 25 at 7:47 PM](https://archive.org/download/unherd-2022/unherd-2022-09-25T19:47:41.741684+01:00.accessibility.json) |
+| [September 25 at 10:14 AM](https://archive.org/download/unherd-2022/unherd-2022-09-25T10:14:51.558965+01:00.accessibility.json) |
+| [September 25 at 8:01 AM](https://archive.org/download/unherd-2022/unherd-2022-09-25T08:01:38.650669+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 61 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 86 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 6:28 PM](https://archive.org/download/unherd-2022/unherd-2022-09-19T18:28:35.343483+01:00.lighthouse.json) |
-| [September 19 at 10:43 AM](https://archive.org/download/unherd-2022/unherd-2022-09-19T10:43:08.596632+01:00.lighthouse.json) |
-| [September 19 at 6:59 AM](https://archive.org/download/unherd-2022/unherd-2022-09-19T06:59:39.952051+01:00.lighthouse.json) |
-| [September 18 at 6:19 PM](https://archive.org/download/unherd-2022/unherd-2022-09-18T18:19:00.629200+01:00.lighthouse.json) |
-| [September 18 at 10:16 AM](https://archive.org/download/unherd-2022/unherd-2022-09-18T10:16:05.339463+01:00.lighthouse.json) |
-| [September 18 at 6:31 AM](https://archive.org/download/unherd-2022/unherd-2022-09-18T06:31:06.321653+01:00.lighthouse.json) |
-| [September 17 at 5:57 PM](https://archive.org/download/unherd-2022/unherd-2022-09-17T17:57:28.459775+01:00.lighthouse.json) |
-| [September 17 at 10:16 AM](https://archive.org/download/unherd-2022/unherd-2022-09-17T10:16:04.141739+01:00.lighthouse.json) |
-| [September 17 at 6:25 AM](https://archive.org/download/unherd-2022/unherd-2022-09-17T06:25:28.477188+01:00.lighthouse.json) |
-| [September 16 at 6:01 PM](https://archive.org/download/unherd-2022/unherd-2022-09-16T18:01:16.355740+01:00.lighthouse.json) |
+| [September 28 at 8:56 AM](https://archive.org/download/unherd-2022/unherd-2022-09-28T08:56:38.997902+01:00.lighthouse.json) |
+| [September 27 at 8:43 PM](https://archive.org/download/unherd-2022/unherd-2022-09-27T20:43:23.114269+01:00.lighthouse.json) |
+| [September 27 at 10:31 AM](https://archive.org/download/unherd-2022/unherd-2022-09-27T10:31:32.222624+01:00.lighthouse.json) |
+| [September 27 at 8:05 AM](https://archive.org/download/unherd-2022/unherd-2022-09-27T08:05:18.222461+01:00.lighthouse.json) |
+| [September 26 at 8:13 PM](https://archive.org/download/unherd-2022/unherd-2022-09-26T20:13:12.202730+01:00.lighthouse.json) |
+| [September 26 at 10:20 AM](https://archive.org/download/unherd-2022/unherd-2022-09-26T10:20:40.951974+01:00.lighthouse.json) |
+| [September 26 at 8:32 AM](https://archive.org/download/unherd-2022/unherd-2022-09-26T08:32:38.126168+01:00.lighthouse.json) |
+| [September 25 at 7:47 PM](https://archive.org/download/unherd-2022/unherd-2022-09-25T19:47:41.741684+01:00.lighthouse.json) |
+| [September 25 at 10:14 AM](https://archive.org/download/unherd-2022/unherd-2022-09-25T10:14:51.558965+01:00.lighthouse.json) |
+| [September 25 at 8:01 AM](https://archive.org/download/unherd-2022/unherd-2022-09-25T08:01:38.650669+01:00.lighthouse.json) |
 
 
 

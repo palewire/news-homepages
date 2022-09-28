@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 209 screenshots with the Internet Archive.
+The archiving routine has saved 226 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/ringer-2022/ringer-2022-09-19T10:38:04.994269-07:00.jpg">
-  <img src="https://archive.org/download/ringer-2022/ringer-2022-09-19T10:38:04.994269-07:00.jpg"
-     alt="Ringer at 2022-09-19 10:38:07-07:00 local time"
+ <a href="https://archive.org/download/ringer-2022/ringer-2022-09-28T00:49:56.528703-07:00.jpg">
+  <img src="https://archive.org/download/ringer-2022/ringer-2022-09-28T00:49:56.528703-07:00.jpg"
+     alt="Ringer at 2022-09-28 00:49:58-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ringer-2022/ringer-2022-09-19T10:38:04.994269-07:00.jpg">September 19 at 10:38 AM</a></p>
+ <p><a href="https://archive.org/download/ringer-2022/ringer-2022-09-28T00:49:56.528703-07:00.jpg">September 28 at 12:49 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ringer-2022/ringer-2022-09-18T23:08:12.587776-07:00.jpg">
-  <img src="https://archive.org/download/ringer-2022/ringer-2022-09-18T23:08:12.587776-07:00.jpg"
-     alt="Ringer at 2022-09-18 23:08:14-07:00 local time"
+ <a href="https://archive.org/download/ringer-2022/ringer-2022-09-27T12:15:03.228081-07:00.jpg">
+  <img src="https://archive.org/download/ringer-2022/ringer-2022-09-27T12:15:03.228081-07:00.jpg"
+     alt="Ringer at 2022-09-27 12:15:15-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ringer-2022/ringer-2022-09-18T23:08:12.587776-07:00.jpg">September 18 at 11:08 PM</a></p>
+ <p><a href="https://archive.org/download/ringer-2022/ringer-2022-09-27T12:15:03.228081-07:00.jpg">September 27 at 12:15 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ringer-2022/ringer-2022-09-18T10:30:13.376797-07:00.jpg">
-  <img src="https://archive.org/download/ringer-2022/ringer-2022-09-18T10:30:13.376797-07:00.jpg"
-     alt="Ringer at 2022-09-18 10:30:15-07:00 local time"
+ <a href="https://archive.org/download/ringer-2022/ringer-2022-09-27T00:10:51.643719-07:00.jpg">
+  <img src="https://archive.org/download/ringer-2022/ringer-2022-09-27T00:10:51.643719-07:00.jpg"
+     alt="Ringer at 2022-09-27 00:10:53-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ringer-2022/ringer-2022-09-18T10:30:13.376797-07:00.jpg">September 18 at 10:30 AM</a></p>
+ <p><a href="https://archive.org/download/ringer-2022/ringer-2022-09-27T00:10:51.643719-07:00.jpg">September 27 at 12:10 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ringer-2022/ringer-2022-09-17T22:29:18.613794-07:00.jpg">
-  <img src="https://archive.org/download/ringer-2022/ringer-2022-09-17T22:29:18.613794-07:00.jpg"
-     alt="Ringer at 2022-09-17 22:29:28-07:00 local time"
+ <a href="https://archive.org/download/ringer-2022/ringer-2022-09-26T12:30:59.955788-07:00.jpg">
+  <img src="https://archive.org/download/ringer-2022/ringer-2022-09-26T12:30:59.955788-07:00.jpg"
+     alt="Ringer at 2022-09-26 12:31:02-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ringer-2022/ringer-2022-09-17T22:29:18.613794-07:00.jpg">September 17 at 10:29 PM</a></p>
+ <p><a href="https://archive.org/download/ringer-2022/ringer-2022-09-26T12:30:59.955788-07:00.jpg">September 26 at 12:31 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ringer-2022/ringer-2022-09-17T09:52:57.849140-07:00.jpg">
-  <img src="https://archive.org/download/ringer-2022/ringer-2022-09-17T09:52:57.849140-07:00.jpg"
-     alt="Ringer at 2022-09-17 09:52:59-07:00 local time"
+ <a href="https://archive.org/download/ringer-2022/ringer-2022-09-26T00:46:30.122136-07:00.jpg">
+  <img src="https://archive.org/download/ringer-2022/ringer-2022-09-26T00:46:30.122136-07:00.jpg"
+     alt="Ringer at 2022-09-26 00:46:31-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ringer-2022/ringer-2022-09-17T09:52:57.849140-07:00.jpg">September 17 at 9:52 AM</a></p>
+ <p><a href="https://archive.org/download/ringer-2022/ringer-2022-09-26T00:46:30.122136-07:00.jpg">September 26 at 12:46 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ringer-2022/ringer-2022-09-16T22:21:00.231299-07:00.jpg">
-  <img src="https://archive.org/download/ringer-2022/ringer-2022-09-16T22:21:00.231299-07:00.jpg"
-     alt="Ringer at 2022-09-16 22:21:02-07:00 local time"
+ <a href="https://archive.org/download/ringer-2022/ringer-2022-09-25T11:34:01.128562-07:00.jpg">
+  <img src="https://archive.org/download/ringer-2022/ringer-2022-09-25T11:34:01.128562-07:00.jpg"
+     alt="Ringer at 2022-09-25 11:34:08-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ringer-2022/ringer-2022-09-16T22:21:00.231299-07:00.jpg">September 16 at 10:21 PM</a></p>
+ <p><a href="https://archive.org/download/ringer-2022/ringer-2022-09-25T11:34:01.128562-07:00.jpg">September 25 at 11:34 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ringer-2022/ringer-2022-09-16T09:56:51.024402-07:00.jpg">
-  <img src="https://archive.org/download/ringer-2022/ringer-2022-09-16T09:56:51.024402-07:00.jpg"
-     alt="Ringer at 2022-09-16 09:56:53-07:00 local time"
+ <a href="https://archive.org/download/ringer-2022/ringer-2022-09-24T23:57:18.679416-07:00.jpg">
+  <img src="https://archive.org/download/ringer-2022/ringer-2022-09-24T23:57:18.679416-07:00.jpg"
+     alt="Ringer at 2022-09-24 23:57:27-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ringer-2022/ringer-2022-09-16T09:56:51.024402-07:00.jpg">September 16 at 9:56 AM</a></p>
+ <p><a href="https://archive.org/download/ringer-2022/ringer-2022-09-24T23:57:18.679416-07:00.jpg">September 24 at 11:57 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ringer-2022/ringer-2022-09-15T22:31:59.986237-07:00.jpg">
-  <img src="https://archive.org/download/ringer-2022/ringer-2022-09-15T22:31:59.986237-07:00.jpg"
-     alt="Ringer at 2022-09-15 22:32:20-07:00 local time"
+ <a href="https://archive.org/download/ringer-2022/ringer-2022-09-24T11:34:40.789158-07:00.jpg">
+  <img src="https://archive.org/download/ringer-2022/ringer-2022-09-24T11:34:40.789158-07:00.jpg"
+     alt="Ringer at 2022-09-24 11:34:42-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ringer-2022/ringer-2022-09-15T22:31:59.986237-07:00.jpg">September 15 at 10:32 PM</a></p>
+ <p><a href="https://archive.org/download/ringer-2022/ringer-2022-09-24T11:34:40.789158-07:00.jpg">September 24 at 11:34 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ringer-2022/ringer-2022-09-15T10:12:42.822903-07:00.jpg">
-  <img src="https://archive.org/download/ringer-2022/ringer-2022-09-15T10:12:42.822903-07:00.jpg"
-     alt="Ringer at 2022-09-15 10:12:44-07:00 local time"
+ <a href="https://archive.org/download/ringer-2022/ringer-2022-09-23T23:58:25.850199-07:00.jpg">
+  <img src="https://archive.org/download/ringer-2022/ringer-2022-09-23T23:58:25.850199-07:00.jpg"
+     alt="Ringer at 2022-09-23 23:58:26-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ringer-2022/ringer-2022-09-15T10:12:42.822903-07:00.jpg">September 15 at 10:12 AM</a></p>
+ <p><a href="https://archive.org/download/ringer-2022/ringer-2022-09-23T23:58:25.850199-07:00.jpg">September 23 at 11:58 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ringer-2022/ringer-2022-09-14T22:31:35.769778-07:00.jpg">
-  <img src="https://archive.org/download/ringer-2022/ringer-2022-09-14T22:31:35.769778-07:00.jpg"
-     alt="Ringer at 2022-09-14 22:31:43-07:00 local time"
+ <a href="https://archive.org/download/ringer-2022/ringer-2022-09-23T11:52:53.865867-07:00.jpg">
+  <img src="https://archive.org/download/ringer-2022/ringer-2022-09-23T11:52:53.865867-07:00.jpg"
+     alt="Ringer at 2022-09-23 11:52:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ringer-2022/ringer-2022-09-14T22:31:35.769778-07:00.jpg">September 14 at 10:31 PM</a></p>
+ <p><a href="https://archive.org/download/ringer-2022/ringer-2022-09-23T11:52:53.865867-07:00.jpg">September 23 at 11:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ringer-2022/ringer-2022-09-14T10:15:33.183894-07:00.jpg">
-  <img src="https://archive.org/download/ringer-2022/ringer-2022-09-14T10:15:33.183894-07:00.jpg"
-     alt="Ringer at 2022-09-14 10:15:37-07:00 local time"
+ <a href="https://archive.org/download/ringer-2022/ringer-2022-09-23T00:21:22.597923-07:00.jpg">
+  <img src="https://archive.org/download/ringer-2022/ringer-2022-09-23T00:21:22.597923-07:00.jpg"
+     alt="Ringer at 2022-09-23 00:21:30-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ringer-2022/ringer-2022-09-14T10:15:33.183894-07:00.jpg">September 14 at 10:15 AM</a></p>
+ <p><a href="https://archive.org/download/ringer-2022/ringer-2022-09-23T00:21:22.597923-07:00.jpg">September 23 at 12:21 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ringer-2022/ringer-2022-09-13T22:35:31.148791-07:00.jpg">
-  <img src="https://archive.org/download/ringer-2022/ringer-2022-09-13T22:35:31.148791-07:00.jpg"
-     alt="Ringer at 2022-09-13 22:35:33-07:00 local time"
+ <a href="https://archive.org/download/ringer-2022/ringer-2022-09-22T12:26:51.468293-07:00.jpg">
+  <img src="https://archive.org/download/ringer-2022/ringer-2022-09-22T12:26:51.468293-07:00.jpg"
+     alt="Ringer at 2022-09-22 12:27:11-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ringer-2022/ringer-2022-09-13T22:35:31.148791-07:00.jpg">September 13 at 10:35 PM</a></p>
+ <p><a href="https://archive.org/download/ringer-2022/ringer-2022-09-22T12:26:51.468293-07:00.jpg">September 22 at 12:27 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 209 hyperlink lists with the Internet Archive.
+The archiving routine has saved 226 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 10:38 AM](https://archive.org/download/ringer-2022/ringer-2022-09-19T10:38:04.994269-07:00.hyperlinks.json) |
-| [September 18 at 11:08 PM](https://archive.org/download/ringer-2022/ringer-2022-09-18T23:08:12.587776-07:00.hyperlinks.json) |
-| [September 18 at 10:30 AM](https://archive.org/download/ringer-2022/ringer-2022-09-18T10:30:13.376797-07:00.hyperlinks.json) |
-| [September 17 at 10:29 PM](https://archive.org/download/ringer-2022/ringer-2022-09-17T22:29:18.613794-07:00.hyperlinks.json) |
-| [September 17 at 9:53 AM](https://archive.org/download/ringer-2022/ringer-2022-09-17T09:52:57.849140-07:00.hyperlinks.json) |
-| [September 16 at 10:21 PM](https://archive.org/download/ringer-2022/ringer-2022-09-16T22:21:00.231299-07:00.hyperlinks.json) |
-| [September 16 at 9:56 AM](https://archive.org/download/ringer-2022/ringer-2022-09-16T09:56:51.024402-07:00.hyperlinks.json) |
-| [September 15 at 10:32 PM](https://archive.org/download/ringer-2022/ringer-2022-09-15T22:31:59.986237-07:00.hyperlinks.json) |
-| [September 15 at 10:12 AM](https://archive.org/download/ringer-2022/ringer-2022-09-15T10:12:42.822903-07:00.hyperlinks.json) |
-| [September 14 at 10:31 PM](https://archive.org/download/ringer-2022/ringer-2022-09-14T22:31:35.769778-07:00.hyperlinks.json) |
+| [September 28 at 12:50 AM](https://archive.org/download/ringer-2022/ringer-2022-09-28T00:49:56.528703-07:00.hyperlinks.json) |
+| [September 27 at 12:15 PM](https://archive.org/download/ringer-2022/ringer-2022-09-27T12:15:03.228081-07:00.hyperlinks.json) |
+| [September 27 at 12:10 AM](https://archive.org/download/ringer-2022/ringer-2022-09-27T00:10:51.643719-07:00.hyperlinks.json) |
+| [September 26 at 12:31 PM](https://archive.org/download/ringer-2022/ringer-2022-09-26T12:30:59.955788-07:00.hyperlinks.json) |
+| [September 26 at 12:46 AM](https://archive.org/download/ringer-2022/ringer-2022-09-26T00:46:30.122136-07:00.hyperlinks.json) |
+| [September 25 at 11:34 AM](https://archive.org/download/ringer-2022/ringer-2022-09-25T11:34:01.128562-07:00.hyperlinks.json) |
+| [September 24 at 11:57 PM](https://archive.org/download/ringer-2022/ringer-2022-09-24T23:57:18.679416-07:00.hyperlinks.json) |
+| [September 24 at 11:34 AM](https://archive.org/download/ringer-2022/ringer-2022-09-24T11:34:40.789158-07:00.hyperlinks.json) |
+| [September 23 at 11:58 PM](https://archive.org/download/ringer-2022/ringer-2022-09-23T23:58:25.850199-07:00.hyperlinks.json) |
+| [September 23 at 11:52 AM](https://archive.org/download/ringer-2022/ringer-2022-09-23T11:52:53.865867-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 208 accessibility trees with the Internet Archive.
+The archiving routine has saved 225 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 10:38 AM](https://archive.org/download/ringer-2022/ringer-2022-09-19T10:38:04.994269-07:00.accessibility.json) |
-| [September 18 at 11:08 PM](https://archive.org/download/ringer-2022/ringer-2022-09-18T23:08:12.587776-07:00.accessibility.json) |
-| [September 18 at 10:30 AM](https://archive.org/download/ringer-2022/ringer-2022-09-18T10:30:13.376797-07:00.accessibility.json) |
-| [September 17 at 10:29 PM](https://archive.org/download/ringer-2022/ringer-2022-09-17T22:29:18.613794-07:00.accessibility.json) |
-| [September 17 at 9:53 AM](https://archive.org/download/ringer-2022/ringer-2022-09-17T09:52:57.849140-07:00.accessibility.json) |
-| [September 16 at 10:21 PM](https://archive.org/download/ringer-2022/ringer-2022-09-16T22:21:00.231299-07:00.accessibility.json) |
-| [September 16 at 9:56 AM](https://archive.org/download/ringer-2022/ringer-2022-09-16T09:56:51.024402-07:00.accessibility.json) |
-| [September 15 at 10:32 PM](https://archive.org/download/ringer-2022/ringer-2022-09-15T22:31:59.986237-07:00.accessibility.json) |
-| [September 15 at 10:12 AM](https://archive.org/download/ringer-2022/ringer-2022-09-15T10:12:42.822903-07:00.accessibility.json) |
-| [September 14 at 10:31 PM](https://archive.org/download/ringer-2022/ringer-2022-09-14T22:31:35.769778-07:00.accessibility.json) |
+| [September 28 at 12:50 AM](https://archive.org/download/ringer-2022/ringer-2022-09-28T00:49:56.528703-07:00.accessibility.json) |
+| [September 27 at 12:15 PM](https://archive.org/download/ringer-2022/ringer-2022-09-27T12:15:03.228081-07:00.accessibility.json) |
+| [September 27 at 12:10 AM](https://archive.org/download/ringer-2022/ringer-2022-09-27T00:10:51.643719-07:00.accessibility.json) |
+| [September 26 at 12:31 PM](https://archive.org/download/ringer-2022/ringer-2022-09-26T12:30:59.955788-07:00.accessibility.json) |
+| [September 26 at 12:46 AM](https://archive.org/download/ringer-2022/ringer-2022-09-26T00:46:30.122136-07:00.accessibility.json) |
+| [September 25 at 11:34 AM](https://archive.org/download/ringer-2022/ringer-2022-09-25T11:34:01.128562-07:00.accessibility.json) |
+| [September 24 at 11:57 PM](https://archive.org/download/ringer-2022/ringer-2022-09-24T23:57:18.679416-07:00.accessibility.json) |
+| [September 24 at 11:34 AM](https://archive.org/download/ringer-2022/ringer-2022-09-24T11:34:40.789158-07:00.accessibility.json) |
+| [September 23 at 11:58 PM](https://archive.org/download/ringer-2022/ringer-2022-09-23T23:58:25.850199-07:00.accessibility.json) |
+| [September 23 at 11:52 AM](https://archive.org/download/ringer-2022/ringer-2022-09-23T11:52:53.865867-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 115 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 10:38 AM](https://archive.org/download/ringer-2022/ringer-2022-09-19T10:38:04.994269-07:00.lighthouse.json) |
-| [September 18 at 11:08 PM](https://archive.org/download/ringer-2022/ringer-2022-09-18T23:08:12.587776-07:00.lighthouse.json) |
-| [September 18 at 10:30 AM](https://archive.org/download/ringer-2022/ringer-2022-09-18T10:30:13.376797-07:00.lighthouse.json) |
-| [September 17 at 10:29 PM](https://archive.org/download/ringer-2022/ringer-2022-09-17T22:29:18.613794-07:00.lighthouse.json) |
-| [September 17 at 9:53 AM](https://archive.org/download/ringer-2022/ringer-2022-09-17T09:52:57.849140-07:00.lighthouse.json) |
-| [September 16 at 10:21 PM](https://archive.org/download/ringer-2022/ringer-2022-09-16T22:21:00.231299-07:00.lighthouse.json) |
-| [September 16 at 9:56 AM](https://archive.org/download/ringer-2022/ringer-2022-09-16T09:56:51.024402-07:00.lighthouse.json) |
-| [September 15 at 10:32 PM](https://archive.org/download/ringer-2022/ringer-2022-09-15T22:31:59.986237-07:00.lighthouse.json) |
-| [September 15 at 10:12 AM](https://archive.org/download/ringer-2022/ringer-2022-09-15T10:12:42.822903-07:00.lighthouse.json) |
-| [September 14 at 10:31 PM](https://archive.org/download/ringer-2022/ringer-2022-09-14T22:31:35.769778-07:00.lighthouse.json) |
+| [September 28 at 12:50 AM](https://archive.org/download/ringer-2022/ringer-2022-09-28T00:49:56.528703-07:00.lighthouse.json) |
+| [September 27 at 12:15 PM](https://archive.org/download/ringer-2022/ringer-2022-09-27T12:15:03.228081-07:00.lighthouse.json) |
+| [September 27 at 12:10 AM](https://archive.org/download/ringer-2022/ringer-2022-09-27T00:10:51.643719-07:00.lighthouse.json) |
+| [September 26 at 12:31 PM](https://archive.org/download/ringer-2022/ringer-2022-09-26T12:30:59.955788-07:00.lighthouse.json) |
+| [September 26 at 12:46 AM](https://archive.org/download/ringer-2022/ringer-2022-09-26T00:46:30.122136-07:00.lighthouse.json) |
+| [September 25 at 11:34 AM](https://archive.org/download/ringer-2022/ringer-2022-09-25T11:34:01.128562-07:00.lighthouse.json) |
+| [September 24 at 11:57 PM](https://archive.org/download/ringer-2022/ringer-2022-09-24T23:57:18.679416-07:00.lighthouse.json) |
+| [September 24 at 11:34 AM](https://archive.org/download/ringer-2022/ringer-2022-09-24T11:34:40.789158-07:00.lighthouse.json) |
+| [September 23 at 11:58 PM](https://archive.org/download/ringer-2022/ringer-2022-09-23T23:58:25.850199-07:00.lighthouse.json) |
+| [September 23 at 11:53 AM](https://archive.org/download/ringer-2022/ringer-2022-09-23T11:52:53.865867-07:00.lighthouse.json) |
 
 
 

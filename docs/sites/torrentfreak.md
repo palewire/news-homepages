@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 112 screenshots with the Internet Archive.
+The archiving routine has saved 129 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-19T10:28:51.480438-07:00.jpg">
-  <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-19T10:28:51.480438-07:00.jpg"
-     alt="TorrentFreak at 2022-09-19 10:28:53-07:00 local time"
+ <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-28T00:56:38.554412-07:00.jpg">
+  <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-28T00:56:38.554412-07:00.jpg"
+     alt="TorrentFreak at 2022-09-28 00:56:42-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-19T10:28:51.480438-07:00.jpg">September 19 at 10:28 AM</a></p>
+ <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-28T00:56:38.554412-07:00.jpg">September 28 at 12:56 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-18T22:59:22.289205-07:00.jpg">
-  <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-18T22:59:22.289205-07:00.jpg"
-     alt="TorrentFreak at 2022-09-18 22:59:23-07:00 local time"
+ <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-27T12:42:16.156543-07:00.jpg">
+  <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-27T12:42:16.156543-07:00.jpg"
+     alt="TorrentFreak at 2022-09-27 12:42:23-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-18T22:59:22.289205-07:00.jpg">September 18 at 10:59 PM</a></p>
+ <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-27T12:42:16.156543-07:00.jpg">September 27 at 12:42 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-18T10:18:59.297918-07:00.jpg">
-  <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-18T10:18:59.297918-07:00.jpg"
-     alt="TorrentFreak at 2022-09-18 10:19:04-07:00 local time"
+ <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-27T00:04:33.008807-07:00.jpg">
+  <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-27T00:04:33.008807-07:00.jpg"
+     alt="TorrentFreak at 2022-09-27 00:04:42-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-18T10:18:59.297918-07:00.jpg">September 18 at 10:19 AM</a></p>
+ <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-27T00:04:33.008807-07:00.jpg">September 27 at 12:04 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-17T22:31:13.450829-07:00.jpg">
-  <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-17T22:31:13.450829-07:00.jpg"
-     alt="TorrentFreak at 2022-09-17 22:31:15-07:00 local time"
+ <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-26T12:14:00.213013-07:00.jpg">
+  <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-26T12:14:00.213013-07:00.jpg"
+     alt="TorrentFreak at 2022-09-26 12:14:08-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-17T22:31:13.450829-07:00.jpg">September 17 at 10:31 PM</a></p>
+ <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-26T12:14:00.213013-07:00.jpg">September 26 at 12:14 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-17T09:56:46.318623-07:00.jpg">
-  <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-17T09:56:46.318623-07:00.jpg"
-     alt="TorrentFreak at 2022-09-17 09:56:47-07:00 local time"
+ <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-26T00:31:51.833781-07:00.jpg">
+  <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-26T00:31:51.833781-07:00.jpg"
+     alt="TorrentFreak at 2022-09-26 00:31:59-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-17T09:56:46.318623-07:00.jpg">September 17 at 9:56 AM</a></p>
+ <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-26T00:31:51.833781-07:00.jpg">September 26 at 12:31 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-16T22:25:30.836924-07:00.jpg">
-  <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-16T22:25:30.836924-07:00.jpg"
-     alt="TorrentFreak at 2022-09-16 22:25:31-07:00 local time"
+ <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-25T11:46:52.388975-07:00.jpg">
+  <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-25T11:46:52.388975-07:00.jpg"
+     alt="TorrentFreak at 2022-09-25 11:46:58-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-16T22:25:30.836924-07:00.jpg">September 16 at 10:25 PM</a></p>
+ <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-25T11:46:52.388975-07:00.jpg">September 25 at 11:46 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-16T10:02:02.546420-07:00.jpg">
-  <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-16T10:02:02.546420-07:00.jpg"
-     alt="TorrentFreak at 2022-09-16 10:02:03-07:00 local time"
+ <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-25T00:00:52.238041-07:00.jpg">
+  <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-25T00:00:52.238041-07:00.jpg"
+     alt="TorrentFreak at 2022-09-25 00:00:57-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-16T10:02:02.546420-07:00.jpg">September 16 at 10:02 AM</a></p>
+ <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-25T00:00:52.238041-07:00.jpg">September 25 at 12:00 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-15T22:34:42.365780-07:00.jpg">
-  <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-15T22:34:42.365780-07:00.jpg"
-     alt="TorrentFreak at 2022-09-15 22:34:45-07:00 local time"
+ <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-24T11:40:02.285383-07:00.jpg">
+  <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-24T11:40:02.285383-07:00.jpg"
+     alt="TorrentFreak at 2022-09-24 11:40:13-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-15T22:34:42.365780-07:00.jpg">September 15 at 10:34 PM</a></p>
+ <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-24T11:40:02.285383-07:00.jpg">September 24 at 11:40 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-15T10:16:25.427662-07:00.jpg">
-  <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-15T10:16:25.427662-07:00.jpg"
-     alt="TorrentFreak at 2022-09-15 10:16:27-07:00 local time"
+ <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-24T00:01:57.537294-07:00.jpg">
+  <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-24T00:01:57.537294-07:00.jpg"
+     alt="TorrentFreak at 2022-09-24 00:02:14-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-15T10:16:25.427662-07:00.jpg">September 15 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-24T00:01:57.537294-07:00.jpg">September 24 at 12:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-14T22:33:32.293226-07:00.jpg">
-  <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-14T22:33:32.293226-07:00.jpg"
-     alt="TorrentFreak at 2022-09-14 22:33:38-07:00 local time"
+ <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-23T12:20:06.569397-07:00.jpg">
+  <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-23T12:20:06.569397-07:00.jpg"
+     alt="TorrentFreak at 2022-09-23 12:20:23-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-14T22:33:32.293226-07:00.jpg">September 14 at 10:33 PM</a></p>
+ <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-23T12:20:06.569397-07:00.jpg">September 23 at 12:20 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-14T10:20:24.328647-07:00.jpg">
-  <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-14T10:20:24.328647-07:00.jpg"
-     alt="TorrentFreak at 2022-09-14 10:20:30-07:00 local time"
+ <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-23T00:26:29.970913-07:00.jpg">
+  <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-23T00:26:29.970913-07:00.jpg"
+     alt="TorrentFreak at 2022-09-23 00:26:33-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-14T10:20:24.328647-07:00.jpg">September 14 at 10:20 AM</a></p>
+ <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-23T00:26:29.970913-07:00.jpg">September 23 at 12:26 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-13T22:39:45.567138-07:00.jpg">
-  <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-13T22:39:45.567138-07:00.jpg"
-     alt="TorrentFreak at 2022-09-13 22:39:47-07:00 local time"
+ <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-22T11:54:21.716574-07:00.jpg">
+  <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-22T11:54:21.716574-07:00.jpg"
+     alt="TorrentFreak at 2022-09-22 11:54:46-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-13T22:39:45.567138-07:00.jpg">September 13 at 10:39 PM</a></p>
+ <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-22T11:54:21.716574-07:00.jpg">September 22 at 11:54 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 113 hyperlink lists with the Internet Archive.
+The archiving routine has saved 130 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 10:28 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-19T10:28:51.480438-07:00.hyperlinks.json) |
-| [September 18 at 10:59 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-18T22:59:22.289205-07:00.hyperlinks.json) |
-| [September 18 at 10:19 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-18T10:18:59.297918-07:00.hyperlinks.json) |
-| [September 17 at 10:31 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-17T22:31:13.450829-07:00.hyperlinks.json) |
-| [September 17 at 9:56 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-17T09:56:46.318623-07:00.hyperlinks.json) |
-| [September 16 at 10:25 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-16T22:25:30.836924-07:00.hyperlinks.json) |
-| [September 16 at 10:02 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-16T10:02:02.546420-07:00.hyperlinks.json) |
-| [September 15 at 10:34 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-15T22:34:42.365780-07:00.hyperlinks.json) |
-| [September 15 at 10:16 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-15T10:16:25.427662-07:00.hyperlinks.json) |
-| [September 14 at 10:33 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-14T22:33:32.293226-07:00.hyperlinks.json) |
+| [September 28 at 12:56 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-28T00:56:38.554412-07:00.hyperlinks.json) |
+| [September 27 at 12:42 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-27T12:42:16.156543-07:00.hyperlinks.json) |
+| [September 27 at 12:04 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-27T00:04:33.008807-07:00.hyperlinks.json) |
+| [September 26 at 12:14 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-26T12:14:00.213013-07:00.hyperlinks.json) |
+| [September 26 at 12:32 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-26T00:31:51.833781-07:00.hyperlinks.json) |
+| [September 25 at 11:47 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-25T11:46:52.388975-07:00.hyperlinks.json) |
+| [September 25 at 12:01 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-25T00:00:52.238041-07:00.hyperlinks.json) |
+| [September 24 at 11:40 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-24T11:40:02.285383-07:00.hyperlinks.json) |
+| [September 24 at 12:02 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-24T00:01:57.537294-07:00.hyperlinks.json) |
+| [September 23 at 12:20 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-23T12:20:06.569397-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 113 accessibility trees with the Internet Archive.
+The archiving routine has saved 130 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 10:28 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-19T10:28:51.480438-07:00.accessibility.json) |
-| [September 18 at 10:59 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-18T22:59:22.289205-07:00.accessibility.json) |
-| [September 18 at 10:19 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-18T10:18:59.297918-07:00.accessibility.json) |
-| [September 17 at 10:31 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-17T22:31:13.450829-07:00.accessibility.json) |
-| [September 17 at 9:56 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-17T09:56:46.318623-07:00.accessibility.json) |
-| [September 16 at 10:25 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-16T22:25:30.836924-07:00.accessibility.json) |
-| [September 16 at 10:02 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-16T10:02:02.546420-07:00.accessibility.json) |
-| [September 15 at 10:34 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-15T22:34:42.365780-07:00.accessibility.json) |
-| [September 15 at 10:16 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-15T10:16:25.427662-07:00.accessibility.json) |
-| [September 14 at 10:33 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-14T22:33:32.293226-07:00.accessibility.json) |
+| [September 28 at 12:56 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-28T00:56:38.554412-07:00.accessibility.json) |
+| [September 27 at 12:42 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-27T12:42:16.156543-07:00.accessibility.json) |
+| [September 27 at 12:04 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-27T00:04:33.008807-07:00.accessibility.json) |
+| [September 26 at 12:14 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-26T12:14:00.213013-07:00.accessibility.json) |
+| [September 26 at 12:32 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-26T00:31:51.833781-07:00.accessibility.json) |
+| [September 25 at 11:47 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-25T11:46:52.388975-07:00.accessibility.json) |
+| [September 25 at 12:00 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-25T00:00:52.238041-07:00.accessibility.json) |
+| [September 24 at 11:40 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-24T11:40:02.285383-07:00.accessibility.json) |
+| [September 24 at 12:02 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-24T00:01:57.537294-07:00.accessibility.json) |
+| [September 23 at 12:20 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-23T12:20:06.569397-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 113 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 130 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 10:28 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-19T10:28:51.480438-07:00.lighthouse.json) |
-| [September 18 at 10:59 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-18T22:59:22.289205-07:00.lighthouse.json) |
-| [September 18 at 10:19 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-18T10:18:59.297918-07:00.lighthouse.json) |
-| [September 17 at 10:31 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-17T22:31:13.450829-07:00.lighthouse.json) |
-| [September 17 at 9:56 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-17T09:56:46.318623-07:00.lighthouse.json) |
-| [September 16 at 10:25 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-16T22:25:30.836924-07:00.lighthouse.json) |
-| [September 16 at 10:02 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-16T10:02:02.546420-07:00.lighthouse.json) |
-| [September 15 at 10:34 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-15T22:34:42.365780-07:00.lighthouse.json) |
-| [September 15 at 10:16 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-15T10:16:25.427662-07:00.lighthouse.json) |
-| [September 14 at 10:33 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-14T22:33:32.293226-07:00.lighthouse.json) |
+| [September 28 at 12:56 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-28T00:56:38.554412-07:00.lighthouse.json) |
+| [September 27 at 12:42 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-27T12:42:16.156543-07:00.lighthouse.json) |
+| [September 27 at 12:04 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-27T00:04:33.008807-07:00.lighthouse.json) |
+| [September 26 at 12:14 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-26T12:14:00.213013-07:00.lighthouse.json) |
+| [September 26 at 12:32 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-26T00:31:51.833781-07:00.lighthouse.json) |
+| [September 25 at 11:47 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-25T11:46:52.388975-07:00.lighthouse.json) |
+| [September 25 at 12:01 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-25T00:00:52.238041-07:00.lighthouse.json) |
+| [September 24 at 11:40 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-24T11:40:02.285383-07:00.lighthouse.json) |
+| [September 24 at 12:02 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-24T00:01:57.537294-07:00.lighthouse.json) |
+| [September 23 at 12:20 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-09-23T12:20:06.569397-07:00.lighthouse.json) |
 
 
 

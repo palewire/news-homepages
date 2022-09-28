@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 144 screenshots with the Internet Archive.
+The archiving routine has saved 160 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-19T11:26:46.804361-06:00.jpg">
-  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-09-19T11:26:46.804361-06:00.jpg"
-     alt="Salt Lake Tribune at 2022-09-19 11:26:48-06:00 local time"
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-28T01:52:24.204311-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-09-28T01:52:24.204311-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-09-28 01:52:34-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-19T11:26:46.804361-06:00.jpg">September 19 at 11:26 AM</a></p>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-28T01:52:24.204311-06:00.jpg">September 28 at 1:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-18T23:57:54.251545-06:00.jpg">
-  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-09-18T23:57:54.251545-06:00.jpg"
-     alt="Salt Lake Tribune at 2022-09-18 23:57:55-06:00 local time"
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-27T13:15:29.860476-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-09-27T13:15:29.860476-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-09-27 13:15:41-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-18T23:57:54.251545-06:00.jpg">September 18 at 11:57 PM</a></p>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-27T13:15:29.860476-06:00.jpg">September 27 at 1:15 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-18T11:16:46.082312-06:00.jpg">
-  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-09-18T11:16:46.082312-06:00.jpg"
-     alt="Salt Lake Tribune at 2022-09-18 11:16:51-06:00 local time"
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-27T01:11:57.252965-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-09-27T01:11:57.252965-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-09-27 01:12:01-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-18T11:16:46.082312-06:00.jpg">September 18 at 11:16 AM</a></p>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-27T01:11:57.252965-06:00.jpg">September 27 at 1:12 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-17T23:30:28.516821-06:00.jpg">
-  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-09-17T23:30:28.516821-06:00.jpg"
-     alt="Salt Lake Tribune at 2022-09-17 23:30:33-06:00 local time"
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-26T13:32:23.670700-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-09-26T13:32:23.670700-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-09-26 13:32:32-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-17T23:30:28.516821-06:00.jpg">September 17 at 11:30 PM</a></p>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-26T13:32:23.670700-06:00.jpg">September 26 at 1:32 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-17T10:52:46.469514-06:00.jpg">
-  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-09-17T10:52:46.469514-06:00.jpg"
-     alt="Salt Lake Tribune at 2022-09-17 10:52:48-06:00 local time"
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-26T01:46:35.411459-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-09-26T01:46:35.411459-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-09-26 01:46:39-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-17T10:52:46.469514-06:00.jpg">September 17 at 10:52 AM</a></p>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-26T01:46:35.411459-06:00.jpg">September 26 at 1:46 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-16T23:23:40.725745-06:00.jpg">
-  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-09-16T23:23:40.725745-06:00.jpg"
-     alt="Salt Lake Tribune at 2022-09-16 23:23:41-06:00 local time"
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-25T12:36:12.866351-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-09-25T12:36:12.866351-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-09-25 12:36:17-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-16T23:23:40.725745-06:00.jpg">September 16 at 11:23 PM</a></p>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-25T12:36:12.866351-06:00.jpg">September 25 at 12:36 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-16T10:56:44.746534-06:00.jpg">
-  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-09-16T10:56:44.746534-06:00.jpg"
-     alt="Salt Lake Tribune at 2022-09-16 10:56:46-06:00 local time"
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-25T00:58:35.046240-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-09-25T00:58:35.046240-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-09-25 00:58:40-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-16T10:56:44.746534-06:00.jpg">September 16 at 10:56 AM</a></p>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-25T00:58:35.046240-06:00.jpg">September 25 at 12:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-15T23:32:44.385663-06:00.jpg">
-  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-09-15T23:32:44.385663-06:00.jpg"
-     alt="Salt Lake Tribune at 2022-09-15 23:32:49-06:00 local time"
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-24T12:35:27.605289-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-09-24T12:35:27.605289-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-09-24 12:35:31-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-15T23:32:44.385663-06:00.jpg">September 15 at 11:32 PM</a></p>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-24T12:35:27.605289-06:00.jpg">September 24 at 12:35 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-15T11:12:35.967534-06:00.jpg">
-  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-09-15T11:12:35.967534-06:00.jpg"
-     alt="Salt Lake Tribune at 2022-09-15 11:12:40-06:00 local time"
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-24T00:59:13.685064-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-09-24T00:59:13.685064-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-09-24 00:59:15-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-15T11:12:35.967534-06:00.jpg">September 15 at 11:12 AM</a></p>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-24T00:59:13.685064-06:00.jpg">September 24 at 12:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-14T23:31:31.133751-06:00.jpg">
-  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-09-14T23:31:31.133751-06:00.jpg"
-     alt="Salt Lake Tribune at 2022-09-14 23:31:36-06:00 local time"
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-23T12:54:55.544950-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-09-23T12:54:55.544950-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-09-23 12:55:00-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-14T23:31:31.133751-06:00.jpg">September 14 at 11:31 PM</a></p>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-23T12:54:55.544950-06:00.jpg">September 23 at 12:55 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-14T11:16:40.353330-06:00.jpg">
-  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-09-14T11:16:40.353330-06:00.jpg"
-     alt="Salt Lake Tribune at 2022-09-14 11:16:42-06:00 local time"
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-23T01:22:30.679391-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-09-23T01:22:30.679391-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-09-23 01:22:34-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-14T11:16:40.353330-06:00.jpg">September 14 at 11:16 AM</a></p>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-23T01:22:30.679391-06:00.jpg">September 23 at 1:22 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-13T23:36:17.176077-06:00.jpg">
-  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-09-13T23:36:17.176077-06:00.jpg"
-     alt="Salt Lake Tribune at 2022-09-13 23:36:18-06:00 local time"
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-22T13:29:42.889447-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-09-22T13:29:42.889447-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-09-22 13:29:44-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-13T23:36:17.176077-06:00.jpg">September 13 at 11:36 PM</a></p>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-09-22T13:29:42.889447-06:00.jpg">September 22 at 1:29 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 135 hyperlink lists with the Internet Archive.
+The archiving routine has saved 152 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 11:26 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-19T11:26:46.804361-06:00.hyperlinks.json) |
-| [September 18 at 11:57 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-18T23:57:54.251545-06:00.hyperlinks.json) |
-| [September 18 at 11:16 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-18T11:16:46.082312-06:00.hyperlinks.json) |
-| [September 17 at 11:30 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-17T23:30:28.516821-06:00.hyperlinks.json) |
-| [September 17 at 10:52 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-17T10:52:46.469514-06:00.hyperlinks.json) |
-| [September 16 at 11:23 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-16T23:23:40.725745-06:00.hyperlinks.json) |
-| [September 16 at 10:56 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-16T10:56:44.746534-06:00.hyperlinks.json) |
-| [September 15 at 11:32 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-15T23:32:44.385663-06:00.hyperlinks.json) |
-| [September 15 at 11:12 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-15T11:12:35.967534-06:00.hyperlinks.json) |
-| [September 14 at 11:31 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-14T23:31:31.133751-06:00.hyperlinks.json) |
+| [September 28 at 1:52 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-28T01:52:24.204311-06:00.hyperlinks.json) |
+| [September 27 at 1:15 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-27T13:15:29.860476-06:00.hyperlinks.json) |
+| [September 27 at 1:12 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-27T01:11:57.252965-06:00.hyperlinks.json) |
+| [September 26 at 1:32 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-26T13:32:23.670700-06:00.hyperlinks.json) |
+| [September 26 at 1:46 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-26T01:46:35.411459-06:00.hyperlinks.json) |
+| [September 25 at 12:36 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-25T12:36:12.866351-06:00.hyperlinks.json) |
+| [September 25 at 12:58 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-25T00:58:35.046240-06:00.hyperlinks.json) |
+| [September 24 at 12:35 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-24T12:35:27.605289-06:00.hyperlinks.json) |
+| [September 24 at 12:59 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-24T00:59:13.685064-06:00.hyperlinks.json) |
+| [September 23 at 12:55 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-23T12:54:55.544950-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 142 accessibility trees with the Internet Archive.
+The archiving routine has saved 159 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 11:26 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-19T11:26:46.804361-06:00.accessibility.json) |
-| [September 18 at 11:57 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-18T23:57:54.251545-06:00.accessibility.json) |
-| [September 18 at 11:16 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-18T11:16:46.082312-06:00.accessibility.json) |
-| [September 17 at 11:30 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-17T23:30:28.516821-06:00.accessibility.json) |
-| [September 17 at 10:52 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-17T10:52:46.469514-06:00.accessibility.json) |
-| [September 16 at 11:23 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-16T23:23:40.725745-06:00.accessibility.json) |
-| [September 16 at 10:56 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-16T10:56:44.746534-06:00.accessibility.json) |
-| [September 15 at 11:32 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-15T23:32:44.385663-06:00.accessibility.json) |
-| [September 15 at 11:12 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-15T11:12:35.967534-06:00.accessibility.json) |
-| [September 14 at 11:31 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-14T23:31:31.133751-06:00.accessibility.json) |
+| [September 28 at 1:52 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-28T01:52:24.204311-06:00.accessibility.json) |
+| [September 27 at 1:15 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-27T13:15:29.860476-06:00.accessibility.json) |
+| [September 27 at 1:12 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-27T01:11:57.252965-06:00.accessibility.json) |
+| [September 26 at 1:32 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-26T13:32:23.670700-06:00.accessibility.json) |
+| [September 26 at 1:46 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-26T01:46:35.411459-06:00.accessibility.json) |
+| [September 25 at 12:36 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-25T12:36:12.866351-06:00.accessibility.json) |
+| [September 25 at 12:58 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-25T00:58:35.046240-06:00.accessibility.json) |
+| [September 24 at 12:35 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-24T12:35:27.605289-06:00.accessibility.json) |
+| [September 24 at 12:59 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-24T00:59:13.685064-06:00.accessibility.json) |
+| [September 23 at 12:55 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-23T12:54:55.544950-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 115 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 11:26 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-19T11:26:46.804361-06:00.lighthouse.json) |
-| [September 18 at 11:57 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-18T23:57:54.251545-06:00.lighthouse.json) |
-| [September 18 at 11:16 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-18T11:16:46.082312-06:00.lighthouse.json) |
-| [September 17 at 11:30 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-17T23:30:28.516821-06:00.lighthouse.json) |
-| [September 17 at 10:52 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-17T10:52:46.469514-06:00.lighthouse.json) |
-| [September 16 at 11:23 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-16T23:23:40.725745-06:00.lighthouse.json) |
-| [September 16 at 10:56 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-16T10:56:44.746534-06:00.lighthouse.json) |
-| [September 15 at 11:32 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-15T23:32:44.385663-06:00.lighthouse.json) |
-| [September 15 at 11:12 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-15T11:12:35.967534-06:00.lighthouse.json) |
-| [September 14 at 11:31 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-14T23:31:31.133751-06:00.lighthouse.json) |
+| [September 28 at 1:52 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-28T01:52:24.204311-06:00.lighthouse.json) |
+| [September 27 at 1:15 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-27T13:15:29.860476-06:00.lighthouse.json) |
+| [September 27 at 1:12 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-27T01:11:57.252965-06:00.lighthouse.json) |
+| [September 26 at 1:32 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-26T13:32:23.670700-06:00.lighthouse.json) |
+| [September 26 at 1:46 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-26T01:46:35.411459-06:00.lighthouse.json) |
+| [September 25 at 12:36 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-25T12:36:12.866351-06:00.lighthouse.json) |
+| [September 25 at 12:58 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-25T00:58:35.046240-06:00.lighthouse.json) |
+| [September 24 at 12:35 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-24T12:35:27.605289-06:00.lighthouse.json) |
+| [September 24 at 12:59 AM](https://archive.org/download/sltrib-2022/sltrib-2022-09-24T00:59:13.685064-06:00.lighthouse.json) |
+| [September 23 at 12:55 PM](https://archive.org/download/sltrib-2022/sltrib-2022-09-23T12:54:55.544950-06:00.lighthouse.json) |
 
 
 

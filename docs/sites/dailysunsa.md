@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 71 screenshots with the Internet Archive.
+The archiving routine has saved 73 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,6 +120,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-28T08:16:37.318020+02:00.jpg">
+  <img src="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-28T08:16:37.318020+02:00.jpg"
+     alt="Daily Sun at 2022-09-28 08:16:40+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-28T08:16:37.318020+02:00.jpg">September 28 at 8:16 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-27T19:49:15.724715+02:00.jpg">
+  <img src="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-27T19:49:15.724715+02:00.jpg"
+     alt="Daily Sun at 2022-09-27 19:49:21+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-27T19:49:15.724715+02:00.jpg">September 27 at 7:49 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-27T08:58:06.740497+02:00.jpg">
   <img src="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-27T08:58:06.740497+02:00.jpg"
      alt="Daily Sun at 2022-09-27 08:58:10+02:00 local time"
@@ -209,29 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-22T19:33:17.267549+02:00.jpg">September 22 at 7:33 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-22T07:59:56.724754+02:00.jpg">
-  <img src="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-22T07:59:56.724754+02:00.jpg"
-     alt="Daily Sun at 2022-09-22 07:59:58+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-22T07:59:56.724754+02:00.jpg">September 22 at 7:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-21T19:36:23.634704+02:00.jpg">
-  <img src="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-21T19:36:23.634704+02:00.jpg"
-     alt="Daily Sun at 2022-09-21 19:36:31+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-21T19:36:23.634704+02:00.jpg">September 21 at 7:36 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 71 hyperlink lists with the Internet Archive.
+The archiving routine has saved 73 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 8:16 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-28T08:16:37.318020+02:00.hyperlinks.json) |
+| [September 27 at 7:49 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-27T19:49:15.724715+02:00.hyperlinks.json) |
 | [September 27 at 8:58 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-27T08:58:06.740497+02:00.hyperlinks.json) |
 | [September 26 at 7:41 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-26T19:40:57.576647+02:00.hyperlinks.json) |
 | [September 26 at 8:12 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-26T08:12:30.468588+02:00.hyperlinks.json) |
@@ -330,13 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 7:22 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-24T19:22:11.321320+02:00.hyperlinks.json) |
 | [September 24 at 7:48 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-24T07:47:55.327978+02:00.hyperlinks.json) |
 | [September 23 at 7:37 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-23T19:37:15.866455+02:00.hyperlinks.json) |
-| [September 23 at 9:12 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-23T09:12:17.135466+02:00.hyperlinks.json) |
-| [September 22 at 7:33 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-22T19:33:17.267549+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 70 accessibility trees with the Internet Archive.
+The archiving routine has saved 72 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 8:16 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-28T08:16:37.318020+02:00.accessibility.json) |
+| [September 27 at 7:49 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-27T19:49:15.724715+02:00.accessibility.json) |
 | [September 27 at 8:58 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-27T08:58:06.740497+02:00.accessibility.json) |
 | [September 26 at 7:41 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-26T19:40:57.576647+02:00.accessibility.json) |
 | [September 26 at 8:12 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-26T08:12:30.468588+02:00.accessibility.json) |
@@ -435,14 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 7:22 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-24T19:22:11.321320+02:00.accessibility.json) |
 | [September 24 at 7:48 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-24T07:47:55.327978+02:00.accessibility.json) |
 | [September 23 at 7:37 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-23T19:37:15.866455+02:00.accessibility.json) |
-| [September 23 at 9:12 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-23T09:12:17.135466+02:00.accessibility.json) |
-| [September 22 at 7:33 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-22T19:33:17.267549+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 71 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 73 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 8:16 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-28T08:16:37.318020+02:00.lighthouse.json) |
+| [September 27 at 7:49 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-27T19:49:15.724715+02:00.lighthouse.json) |
 | [September 27 at 8:58 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-27T08:58:06.740497+02:00.lighthouse.json) |
 | [September 26 at 7:41 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-26T19:40:57.576647+02:00.lighthouse.json) |
 | [September 26 at 8:12 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-26T08:12:30.468588+02:00.lighthouse.json) |
@@ -541,8 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 7:22 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-24T19:22:11.321320+02:00.lighthouse.json) |
 | [September 24 at 7:48 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-24T07:47:55.327978+02:00.lighthouse.json) |
 | [September 23 at 7:37 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-23T19:37:15.866455+02:00.lighthouse.json) |
-| [September 23 at 9:12 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-23T09:12:17.135466+02:00.lighthouse.json) |
-| [September 22 at 7:33 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-09-22T19:33:17.267549+02:00.lighthouse.json) |
 
 
 

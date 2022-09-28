@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 70 screenshots with the Internet Archive.
+The archiving routine has saved 72 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,6 +120,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-28T00:02:57.336372-06:00.jpg">
+  <img src="https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-28T00:02:57.336372-06:00.jpg"
+     alt="Aspen Public Radio at 2022-09-28 00:03:01-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-28T00:02:57.336372-06:00.jpg">September 28 at 12:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-27T10:06:32.021381-06:00.jpg">
+  <img src="https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-27T10:06:32.021381-06:00.jpg"
+     alt="Aspen Public Radio at 2022-09-27 10:06:33-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-27T10:06:32.021381-06:00.jpg">September 27 at 10:06 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-26T22:28:39.844467-06:00.jpg">
   <img src="https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-26T22:28:39.844467-06:00.jpg"
      alt="Aspen Public Radio at 2022-09-26 22:28:45-06:00 local time"
@@ -209,29 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-22T09:58:11.788156-06:00.jpg">September 22 at 9:58 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-21T22:34:36.906171-06:00.jpg">
-  <img src="https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-21T22:34:36.906171-06:00.jpg"
-     alt="Aspen Public Radio at 2022-09-21 22:34:41-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-21T22:34:36.906171-06:00.jpg">September 21 at 10:34 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-21T10:02:22.581900-06:00.jpg">
-  <img src="https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-21T10:02:22.581900-06:00.jpg"
-     alt="Aspen Public Radio at 2022-09-21 10:02:23-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-21T10:02:22.581900-06:00.jpg">September 21 at 10:02 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 70 hyperlink lists with the Internet Archive.
+The archiving routine has saved 72 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 12:03 AM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-28T00:02:57.336372-06:00.hyperlinks.json) |
+| [September 27 at 10:06 AM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-27T10:06:32.021381-06:00.hyperlinks.json) |
 | [September 26 at 10:28 PM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-26T22:28:39.844467-06:00.hyperlinks.json) |
 | [September 26 at 10:05 AM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-26T10:05:14.560603-06:00.hyperlinks.json) |
 | [September 25 at 10:42 PM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-25T22:42:03.548509-06:00.hyperlinks.json) |
@@ -330,13 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 9:49 AM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-24T09:48:46.575109-06:00.hyperlinks.json) |
 | [September 23 at 10:29 PM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-23T22:29:36.831224-06:00.hyperlinks.json) |
 | [September 23 at 9:57 AM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-23T09:57:35.001701-06:00.hyperlinks.json) |
-| [September 22 at 11:10 PM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-22T23:10:50.132445-06:00.hyperlinks.json) |
-| [September 22 at 9:58 AM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-22T09:58:11.788156-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 70 accessibility trees with the Internet Archive.
+The archiving routine has saved 72 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 12:03 AM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-28T00:02:57.336372-06:00.accessibility.json) |
+| [September 27 at 10:06 AM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-27T10:06:32.021381-06:00.accessibility.json) |
 | [September 26 at 10:28 PM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-26T22:28:39.844467-06:00.accessibility.json) |
 | [September 26 at 10:05 AM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-26T10:05:14.560603-06:00.accessibility.json) |
 | [September 25 at 10:42 PM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-25T22:42:03.548509-06:00.accessibility.json) |
@@ -435,14 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 9:48 AM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-24T09:48:46.575109-06:00.accessibility.json) |
 | [September 23 at 10:29 PM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-23T22:29:36.831224-06:00.accessibility.json) |
 | [September 23 at 9:57 AM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-23T09:57:35.001701-06:00.accessibility.json) |
-| [September 22 at 11:10 PM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-22T23:10:50.132445-06:00.accessibility.json) |
-| [September 22 at 9:58 AM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-22T09:58:11.788156-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 70 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 72 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 12:03 AM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-28T00:02:57.336372-06:00.lighthouse.json) |
+| [September 27 at 10:06 AM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-27T10:06:32.021381-06:00.lighthouse.json) |
 | [September 26 at 10:28 PM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-26T22:28:39.844467-06:00.lighthouse.json) |
 | [September 26 at 10:05 AM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-26T10:05:14.560603-06:00.lighthouse.json) |
 | [September 25 at 10:42 PM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-25T22:42:03.548509-06:00.lighthouse.json) |
@@ -541,8 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 9:49 AM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-24T09:48:46.575109-06:00.lighthouse.json) |
 | [September 23 at 10:29 PM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-23T22:29:36.831224-06:00.lighthouse.json) |
 | [September 23 at 9:57 AM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-23T09:57:35.001701-06:00.lighthouse.json) |
-| [September 22 at 11:10 PM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-22T23:10:50.132445-06:00.lighthouse.json) |
-| [September 22 at 9:58 AM](https://archive.org/download/aspenpubradio-2022/aspenpubradio-2022-09-22T09:58:11.788156-06:00.lighthouse.json) |
 
 
 

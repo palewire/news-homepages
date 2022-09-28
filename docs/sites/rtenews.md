@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 127 screenshots with the Internet Archive.
+The archiving routine has saved 143 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-19T18:25:17.509776+01:00.jpg">
-  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-09-19T18:25:17.509776+01:00.jpg"
-     alt="RTE at 2022-09-19 18:25:31+01:00 local time"
+ <a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-28T08:52:16.164542+01:00.jpg">
+  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-09-28T08:52:16.164542+01:00.jpg"
+     alt="RTE at 2022-09-28 08:52:19+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-19T18:25:17.509776+01:00.jpg">September 19 at 6:25 PM</a></p>
+ <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-28T08:52:16.164542+01:00.jpg">September 28 at 8:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-19T06:56:35.902171+01:00.jpg">
-  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-09-19T06:56:35.902171+01:00.jpg"
-     alt="RTE at 2022-09-19 06:56:38+01:00 local time"
+ <a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-27T20:14:27.010390+01:00.jpg">
+  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-09-27T20:14:27.010390+01:00.jpg"
+     alt="RTE at 2022-09-27 20:14:31+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-19T06:56:35.902171+01:00.jpg">September 19 at 6:56 AM</a></p>
+ <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-27T20:14:27.010390+01:00.jpg">September 27 at 8:14 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-18T18:15:57.143525+01:00.jpg">
-  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-09-18T18:15:57.143525+01:00.jpg"
-     alt="RTE at 2022-09-18 18:16:04+01:00 local time"
+ <a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-27T08:11:11.072563+01:00.jpg">
+  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-09-27T08:11:11.072563+01:00.jpg"
+     alt="RTE at 2022-09-27 08:11:15+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-18T18:15:57.143525+01:00.jpg">September 18 at 6:16 PM</a></p>
+ <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-27T08:11:11.072563+01:00.jpg">September 27 at 8:11 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-18T06:27:51.467855+01:00.jpg">
-  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-09-18T06:27:51.467855+01:00.jpg"
-     alt="RTE at 2022-09-18 06:27:55+01:00 local time"
+ <a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-26T20:30:53.469649+01:00.jpg">
+  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-09-26T20:30:53.469649+01:00.jpg"
+     alt="RTE at 2022-09-26 20:31:07+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-18T06:27:51.467855+01:00.jpg">September 18 at 6:27 AM</a></p>
+ <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-26T20:30:53.469649+01:00.jpg">September 26 at 8:31 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-17T17:53:00.611491+01:00.jpg">
-  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-09-17T17:53:00.611491+01:00.jpg"
-     alt="RTE at 2022-09-17 17:53:02+01:00 local time"
+ <a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-26T08:46:58.827503+01:00.jpg">
+  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-09-26T08:46:58.827503+01:00.jpg"
+     alt="RTE at 2022-09-26 08:47:11+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-17T17:53:00.611491+01:00.jpg">September 17 at 5:53 PM</a></p>
+ <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-26T08:46:58.827503+01:00.jpg">September 26 at 8:47 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-17T06:21:19.717405+01:00.jpg">
-  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-09-17T06:21:19.717405+01:00.jpg"
-     alt="RTE at 2022-09-17 06:21:21+01:00 local time"
+ <a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-25T19:34:41.460118+01:00.jpg">
+  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-09-25T19:34:41.460118+01:00.jpg"
+     alt="RTE at 2022-09-25 19:34:48+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-17T06:21:19.717405+01:00.jpg">September 17 at 6:21 AM</a></p>
+ <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-25T19:34:41.460118+01:00.jpg">September 25 at 7:34 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-16T17:57:05.712169+01:00.jpg">
-  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-09-16T17:57:05.712169+01:00.jpg"
-     alt="RTE at 2022-09-16 17:57:07+01:00 local time"
+ <a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-25T07:58:04.693652+01:00.jpg">
+  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-09-25T07:58:04.693652+01:00.jpg"
+     alt="RTE at 2022-09-25 07:58:11+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-16T17:57:05.712169+01:00.jpg">September 16 at 5:57 PM</a></p>
+ <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-25T07:58:04.693652+01:00.jpg">September 25 at 7:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-16T06:31:25.410099+01:00.jpg">
-  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-09-16T06:31:25.410099+01:00.jpg"
-     alt="RTE at 2022-09-16 06:31:31+01:00 local time"
+ <a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-24T19:35:15.635479+01:00.jpg">
+  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-09-24T19:35:15.635479+01:00.jpg"
+     alt="RTE at 2022-09-24 19:35:19+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-16T06:31:25.410099+01:00.jpg">September 16 at 6:31 AM</a></p>
+ <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-24T19:35:15.635479+01:00.jpg">September 24 at 7:35 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-15T18:12:36.847018+01:00.jpg">
-  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-09-15T18:12:36.847018+01:00.jpg"
-     alt="RTE at 2022-09-15 18:12:41+01:00 local time"
+ <a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-24T07:58:35.151821+01:00.jpg">
+  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-09-24T07:58:35.151821+01:00.jpg"
+     alt="RTE at 2022-09-24 07:58:53+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-15T18:12:36.847018+01:00.jpg">September 15 at 6:12 PM</a></p>
+ <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-24T07:58:35.151821+01:00.jpg">September 24 at 7:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-15T06:31:51.011716+01:00.jpg">
-  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-09-15T06:31:51.011716+01:00.jpg"
-     alt="RTE at 2022-09-15 06:31:55+01:00 local time"
+ <a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-23T19:52:37.250400+01:00.jpg">
+  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-09-23T19:52:37.250400+01:00.jpg"
+     alt="RTE at 2022-09-23 19:52:42+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-15T06:31:51.011716+01:00.jpg">September 15 at 6:31 AM</a></p>
+ <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-23T19:52:37.250400+01:00.jpg">September 23 at 7:52 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-14T18:15:19.722469+01:00.jpg">
-  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-09-14T18:15:19.722469+01:00.jpg"
-     alt="RTE at 2022-09-14 18:15:26+01:00 local time"
+ <a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-23T08:22:59.121580+01:00.jpg">
+  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-09-23T08:22:59.121580+01:00.jpg"
+     alt="RTE at 2022-09-23 08:23:02+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-14T18:15:19.722469+01:00.jpg">September 14 at 6:15 PM</a></p>
+ <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-23T08:22:59.121580+01:00.jpg">September 23 at 8:23 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-14T06:35:53.142846+01:00.jpg">
-  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-09-14T06:35:53.142846+01:00.jpg"
-     alt="RTE at 2022-09-14 06:35:54+01:00 local time"
+ <a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-22T20:27:54.730579+01:00.jpg">
+  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-09-22T20:27:54.730579+01:00.jpg"
+     alt="RTE at 2022-09-22 20:28:01+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-14T06:35:53.142846+01:00.jpg">September 14 at 6:35 AM</a></p>
+ <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-22T20:27:54.730579+01:00.jpg">September 22 at 8:28 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 126 hyperlink lists with the Internet Archive.
+The archiving routine has saved 143 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 6:25 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-19T18:25:17.509776+01:00.hyperlinks.json) |
-| [September 19 at 6:56 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-19T06:56:35.902171+01:00.hyperlinks.json) |
-| [September 18 at 6:16 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-18T18:15:57.143525+01:00.hyperlinks.json) |
-| [September 18 at 6:27 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-18T06:27:51.467855+01:00.hyperlinks.json) |
-| [September 17 at 5:53 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-17T17:53:00.611491+01:00.hyperlinks.json) |
-| [September 17 at 6:21 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-17T06:21:19.717405+01:00.hyperlinks.json) |
-| [September 16 at 5:57 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-16T17:57:05.712169+01:00.hyperlinks.json) |
-| [September 16 at 6:31 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-16T06:31:25.410099+01:00.hyperlinks.json) |
-| [September 15 at 6:12 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-15T18:12:36.847018+01:00.hyperlinks.json) |
-| [September 15 at 6:31 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-15T06:31:51.011716+01:00.hyperlinks.json) |
+| [September 28 at 8:52 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-28T08:52:16.164542+01:00.hyperlinks.json) |
+| [September 27 at 8:14 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-27T20:14:27.010390+01:00.hyperlinks.json) |
+| [September 27 at 8:11 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-27T08:11:11.072563+01:00.hyperlinks.json) |
+| [September 26 at 8:31 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-26T20:30:53.469649+01:00.hyperlinks.json) |
+| [September 26 at 8:47 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-26T08:46:58.827503+01:00.hyperlinks.json) |
+| [September 25 at 7:34 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-25T19:34:41.460118+01:00.hyperlinks.json) |
+| [September 25 at 7:58 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-25T07:58:04.693652+01:00.hyperlinks.json) |
+| [September 24 at 7:35 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-24T19:35:15.635479+01:00.hyperlinks.json) |
+| [September 24 at 7:58 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-24T07:58:35.151821+01:00.hyperlinks.json) |
+| [September 23 at 7:52 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-23T19:52:37.250400+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 126 accessibility trees with the Internet Archive.
+The archiving routine has saved 143 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 6:25 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-19T18:25:17.509776+01:00.accessibility.json) |
-| [September 19 at 6:56 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-19T06:56:35.902171+01:00.accessibility.json) |
-| [September 18 at 6:16 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-18T18:15:57.143525+01:00.accessibility.json) |
-| [September 18 at 6:27 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-18T06:27:51.467855+01:00.accessibility.json) |
-| [September 17 at 5:53 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-17T17:53:00.611491+01:00.accessibility.json) |
-| [September 17 at 6:21 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-17T06:21:19.717405+01:00.accessibility.json) |
-| [September 16 at 5:57 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-16T17:57:05.712169+01:00.accessibility.json) |
-| [September 16 at 6:31 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-16T06:31:25.410099+01:00.accessibility.json) |
-| [September 15 at 6:12 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-15T18:12:36.847018+01:00.accessibility.json) |
-| [September 15 at 6:31 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-15T06:31:51.011716+01:00.accessibility.json) |
+| [September 28 at 8:52 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-28T08:52:16.164542+01:00.accessibility.json) |
+| [September 27 at 8:14 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-27T20:14:27.010390+01:00.accessibility.json) |
+| [September 27 at 8:11 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-27T08:11:11.072563+01:00.accessibility.json) |
+| [September 26 at 8:31 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-26T20:30:53.469649+01:00.accessibility.json) |
+| [September 26 at 8:47 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-26T08:46:58.827503+01:00.accessibility.json) |
+| [September 25 at 7:34 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-25T19:34:41.460118+01:00.accessibility.json) |
+| [September 25 at 7:58 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-25T07:58:04.693652+01:00.accessibility.json) |
+| [September 24 at 7:35 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-24T19:35:15.635479+01:00.accessibility.json) |
+| [September 24 at 7:58 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-24T07:58:35.151821+01:00.accessibility.json) |
+| [September 23 at 7:52 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-23T19:52:37.250400+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 115 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 6:25 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-19T18:25:17.509776+01:00.lighthouse.json) |
-| [September 19 at 6:56 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-19T06:56:35.902171+01:00.lighthouse.json) |
-| [September 18 at 6:16 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-18T18:15:57.143525+01:00.lighthouse.json) |
-| [September 18 at 6:28 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-18T06:27:51.467855+01:00.lighthouse.json) |
-| [September 17 at 5:53 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-17T17:53:00.611491+01:00.lighthouse.json) |
-| [September 17 at 6:21 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-17T06:21:19.717405+01:00.lighthouse.json) |
-| [September 16 at 5:57 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-16T17:57:05.712169+01:00.lighthouse.json) |
-| [September 16 at 6:31 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-16T06:31:25.410099+01:00.lighthouse.json) |
-| [September 15 at 6:12 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-15T18:12:36.847018+01:00.lighthouse.json) |
-| [September 15 at 6:32 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-15T06:31:51.011716+01:00.lighthouse.json) |
+| [September 28 at 8:52 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-28T08:52:16.164542+01:00.lighthouse.json) |
+| [September 27 at 8:14 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-27T20:14:27.010390+01:00.lighthouse.json) |
+| [September 27 at 8:11 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-27T08:11:11.072563+01:00.lighthouse.json) |
+| [September 26 at 8:31 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-26T20:30:53.469649+01:00.lighthouse.json) |
+| [September 26 at 8:47 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-26T08:46:58.827503+01:00.lighthouse.json) |
+| [September 25 at 7:34 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-25T19:34:41.460118+01:00.lighthouse.json) |
+| [September 25 at 7:58 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-25T07:58:04.693652+01:00.lighthouse.json) |
+| [September 24 at 7:35 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-24T19:35:15.635479+01:00.lighthouse.json) |
+| [September 24 at 7:59 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-24T07:58:35.151821+01:00.lighthouse.json) |
+| [September 23 at 7:52 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-23T19:52:37.250400+01:00.lighthouse.json) |
 
 
 

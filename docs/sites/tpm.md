@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 154 screenshots with the Internet Archive.
+The archiving routine has saved 171 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/tpm-2022/tpm-2022-09-19T13:29:29.197511-04:00.jpg">
-  <img src="https://archive.org/download/tpm-2022/tpm-2022-09-19T13:29:29.197511-04:00.jpg"
-     alt="TPM at 2022-09-19 13:29:30-04:00 local time"
+ <a href="https://archive.org/download/tpm-2022/tpm-2022-09-28T03:57:14.382510-04:00.jpg">
+  <img src="https://archive.org/download/tpm-2022/tpm-2022-09-28T03:57:14.382510-04:00.jpg"
+     alt="TPM at 2022-09-28 03:57:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tpm-2022/tpm-2022-09-19T13:29:29.197511-04:00.jpg">September 19 at 1:29 PM</a></p>
+ <p><a href="https://archive.org/download/tpm-2022/tpm-2022-09-28T03:57:14.382510-04:00.jpg">September 28 at 3:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/tpm-2022/tpm-2022-09-19T01:59:55.639217-04:00.jpg">
-  <img src="https://archive.org/download/tpm-2022/tpm-2022-09-19T01:59:55.639217-04:00.jpg"
-     alt="TPM at 2022-09-19 01:59:57-04:00 local time"
+ <a href="https://archive.org/download/tpm-2022/tpm-2022-09-27T15:43:19.983651-04:00.jpg">
+  <img src="https://archive.org/download/tpm-2022/tpm-2022-09-27T15:43:19.983651-04:00.jpg"
+     alt="TPM at 2022-09-27 15:43:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tpm-2022/tpm-2022-09-19T01:59:55.639217-04:00.jpg">September 19 at 1:59 AM</a></p>
+ <p><a href="https://archive.org/download/tpm-2022/tpm-2022-09-27T15:43:19.983651-04:00.jpg">September 27 at 3:43 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/tpm-2022/tpm-2022-09-18T13:18:20.626705-04:00.jpg">
-  <img src="https://archive.org/download/tpm-2022/tpm-2022-09-18T13:18:20.626705-04:00.jpg"
-     alt="TPM at 2022-09-18 13:18:27-04:00 local time"
+ <a href="https://archive.org/download/tpm-2022/tpm-2022-09-27T03:04:34.118705-04:00.jpg">
+  <img src="https://archive.org/download/tpm-2022/tpm-2022-09-27T03:04:34.118705-04:00.jpg"
+     alt="TPM at 2022-09-27 03:04:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tpm-2022/tpm-2022-09-18T13:18:20.626705-04:00.jpg">September 18 at 1:18 PM</a></p>
+ <p><a href="https://archive.org/download/tpm-2022/tpm-2022-09-27T03:04:34.118705-04:00.jpg">September 27 at 3:04 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/tpm-2022/tpm-2022-09-18T01:30:52.768576-04:00.jpg">
-  <img src="https://archive.org/download/tpm-2022/tpm-2022-09-18T01:30:52.768576-04:00.jpg"
-     alt="TPM at 2022-09-18 01:30:58-04:00 local time"
+ <a href="https://archive.org/download/tpm-2022/tpm-2022-09-26T15:12:45.534021-04:00.jpg">
+  <img src="https://archive.org/download/tpm-2022/tpm-2022-09-26T15:12:45.534021-04:00.jpg"
+     alt="TPM at 2022-09-26 15:12:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tpm-2022/tpm-2022-09-18T01:30:52.768576-04:00.jpg">September 18 at 1:30 AM</a></p>
+ <p><a href="https://archive.org/download/tpm-2022/tpm-2022-09-26T15:12:45.534021-04:00.jpg">September 26 at 3:12 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/tpm-2022/tpm-2022-09-17T12:57:32.752481-04:00.jpg">
-  <img src="https://archive.org/download/tpm-2022/tpm-2022-09-17T12:57:32.752481-04:00.jpg"
-     alt="TPM at 2022-09-17 12:57:33-04:00 local time"
+ <a href="https://archive.org/download/tpm-2022/tpm-2022-09-26T03:32:26.761026-04:00.jpg">
+  <img src="https://archive.org/download/tpm-2022/tpm-2022-09-26T03:32:26.761026-04:00.jpg"
+     alt="TPM at 2022-09-26 03:32:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tpm-2022/tpm-2022-09-17T12:57:32.752481-04:00.jpg">September 17 at 12:57 PM</a></p>
+ <p><a href="https://archive.org/download/tpm-2022/tpm-2022-09-26T03:32:26.761026-04:00.jpg">September 26 at 3:32 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/tpm-2022/tpm-2022-09-17T01:25:10.717396-04:00.jpg">
-  <img src="https://archive.org/download/tpm-2022/tpm-2022-09-17T01:25:10.717396-04:00.jpg"
-     alt="TPM at 2022-09-17 01:25:12-04:00 local time"
+ <a href="https://archive.org/download/tpm-2022/tpm-2022-09-25T14:46:48.342818-04:00.jpg">
+  <img src="https://archive.org/download/tpm-2022/tpm-2022-09-25T14:46:48.342818-04:00.jpg"
+     alt="TPM at 2022-09-25 14:47:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tpm-2022/tpm-2022-09-17T01:25:10.717396-04:00.jpg">September 17 at 1:25 AM</a></p>
+ <p><a href="https://archive.org/download/tpm-2022/tpm-2022-09-25T14:46:48.342818-04:00.jpg">September 25 at 2:47 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/tpm-2022/tpm-2022-09-16T13:00:56.607986-04:00.jpg">
-  <img src="https://archive.org/download/tpm-2022/tpm-2022-09-16T13:00:56.607986-04:00.jpg"
-     alt="TPM at 2022-09-16 13:00:58-04:00 local time"
+ <a href="https://archive.org/download/tpm-2022/tpm-2022-09-25T03:01:54.571926-04:00.jpg">
+  <img src="https://archive.org/download/tpm-2022/tpm-2022-09-25T03:01:54.571926-04:00.jpg"
+     alt="TPM at 2022-09-25 03:02:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tpm-2022/tpm-2022-09-16T13:00:56.607986-04:00.jpg">September 16 at 1:00 PM</a></p>
+ <p><a href="https://archive.org/download/tpm-2022/tpm-2022-09-25T03:01:54.571926-04:00.jpg">September 25 at 3:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/tpm-2022/tpm-2022-09-16T01:34:45.752722-04:00.jpg">
-  <img src="https://archive.org/download/tpm-2022/tpm-2022-09-16T01:34:45.752722-04:00.jpg"
-     alt="TPM at 2022-09-16 01:34:51-04:00 local time"
+ <a href="https://archive.org/download/tpm-2022/tpm-2022-09-24T14:39:25.525900-04:00.jpg">
+  <img src="https://archive.org/download/tpm-2022/tpm-2022-09-24T14:39:25.525900-04:00.jpg"
+     alt="TPM at 2022-09-24 14:39:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tpm-2022/tpm-2022-09-16T01:34:45.752722-04:00.jpg">September 16 at 1:34 AM</a></p>
+ <p><a href="https://archive.org/download/tpm-2022/tpm-2022-09-24T14:39:25.525900-04:00.jpg">September 24 at 2:39 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/tpm-2022/tpm-2022-09-15T13:16:55.026818-04:00.jpg">
-  <img src="https://archive.org/download/tpm-2022/tpm-2022-09-15T13:16:55.026818-04:00.jpg"
-     alt="TPM at 2022-09-15 13:17:05-04:00 local time"
+ <a href="https://archive.org/download/tpm-2022/tpm-2022-09-24T03:02:08.891864-04:00.jpg">
+  <img src="https://archive.org/download/tpm-2022/tpm-2022-09-24T03:02:08.891864-04:00.jpg"
+     alt="TPM at 2022-09-24 03:02:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tpm-2022/tpm-2022-09-15T13:16:55.026818-04:00.jpg">September 15 at 1:17 PM</a></p>
+ <p><a href="https://archive.org/download/tpm-2022/tpm-2022-09-24T03:02:08.891864-04:00.jpg">September 24 at 3:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/tpm-2022/tpm-2022-09-15T01:33:28.206529-04:00.jpg">
-  <img src="https://archive.org/download/tpm-2022/tpm-2022-09-15T01:33:28.206529-04:00.jpg"
-     alt="TPM at 2022-09-15 01:33:33-04:00 local time"
+ <a href="https://archive.org/download/tpm-2022/tpm-2022-09-23T15:20:21.355065-04:00.jpg">
+  <img src="https://archive.org/download/tpm-2022/tpm-2022-09-23T15:20:21.355065-04:00.jpg"
+     alt="TPM at 2022-09-23 15:20:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tpm-2022/tpm-2022-09-15T01:33:28.206529-04:00.jpg">September 15 at 1:33 AM</a></p>
+ <p><a href="https://archive.org/download/tpm-2022/tpm-2022-09-23T15:20:21.355065-04:00.jpg">September 23 at 3:20 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/tpm-2022/tpm-2022-09-14T13:21:23.777317-04:00.jpg">
-  <img src="https://archive.org/download/tpm-2022/tpm-2022-09-14T13:21:23.777317-04:00.jpg"
-     alt="TPM at 2022-09-14 13:21:28-04:00 local time"
+ <a href="https://archive.org/download/tpm-2022/tpm-2022-09-23T03:28:20.562102-04:00.jpg">
+  <img src="https://archive.org/download/tpm-2022/tpm-2022-09-23T03:28:20.562102-04:00.jpg"
+     alt="TPM at 2022-09-23 03:28:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tpm-2022/tpm-2022-09-14T13:21:23.777317-04:00.jpg">September 14 at 1:21 PM</a></p>
+ <p><a href="https://archive.org/download/tpm-2022/tpm-2022-09-23T03:28:20.562102-04:00.jpg">September 23 at 3:28 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/tpm-2022/tpm-2022-09-14T01:39:32.785741-04:00.jpg">
-  <img src="https://archive.org/download/tpm-2022/tpm-2022-09-14T01:39:32.785741-04:00.jpg"
-     alt="TPM at 2022-09-14 01:39:35-04:00 local time"
+ <a href="https://archive.org/download/tpm-2022/tpm-2022-09-22T14:54:44.447100-04:00.jpg">
+  <img src="https://archive.org/download/tpm-2022/tpm-2022-09-22T14:54:44.447100-04:00.jpg"
+     alt="TPM at 2022-09-22 14:54:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tpm-2022/tpm-2022-09-14T01:39:32.785741-04:00.jpg">September 14 at 1:39 AM</a></p>
+ <p><a href="https://archive.org/download/tpm-2022/tpm-2022-09-22T14:54:44.447100-04:00.jpg">September 22 at 2:54 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 153 hyperlink lists with the Internet Archive.
+The archiving routine has saved 170 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 1:29 PM](https://archive.org/download/tpm-2022/tpm-2022-09-19T13:29:29.197511-04:00.hyperlinks.json) |
-| [September 19 at 2:00 AM](https://archive.org/download/tpm-2022/tpm-2022-09-19T01:59:55.639217-04:00.hyperlinks.json) |
-| [September 18 at 1:18 PM](https://archive.org/download/tpm-2022/tpm-2022-09-18T13:18:20.626705-04:00.hyperlinks.json) |
-| [September 18 at 1:31 AM](https://archive.org/download/tpm-2022/tpm-2022-09-18T01:30:52.768576-04:00.hyperlinks.json) |
-| [September 17 at 12:57 PM](https://archive.org/download/tpm-2022/tpm-2022-09-17T12:57:32.752481-04:00.hyperlinks.json) |
-| [September 17 at 1:25 AM](https://archive.org/download/tpm-2022/tpm-2022-09-17T01:25:10.717396-04:00.hyperlinks.json) |
-| [September 16 at 1:01 PM](https://archive.org/download/tpm-2022/tpm-2022-09-16T13:00:56.607986-04:00.hyperlinks.json) |
-| [September 16 at 1:34 AM](https://archive.org/download/tpm-2022/tpm-2022-09-16T01:34:45.752722-04:00.hyperlinks.json) |
-| [September 15 at 1:17 PM](https://archive.org/download/tpm-2022/tpm-2022-09-15T13:16:55.026818-04:00.hyperlinks.json) |
-| [September 15 at 1:33 AM](https://archive.org/download/tpm-2022/tpm-2022-09-15T01:33:28.206529-04:00.hyperlinks.json) |
+| [September 28 at 3:57 AM](https://archive.org/download/tpm-2022/tpm-2022-09-28T03:57:14.382510-04:00.hyperlinks.json) |
+| [September 27 at 3:43 PM](https://archive.org/download/tpm-2022/tpm-2022-09-27T15:43:19.983651-04:00.hyperlinks.json) |
+| [September 27 at 3:04 AM](https://archive.org/download/tpm-2022/tpm-2022-09-27T03:04:34.118705-04:00.hyperlinks.json) |
+| [September 26 at 3:12 PM](https://archive.org/download/tpm-2022/tpm-2022-09-26T15:12:45.534021-04:00.hyperlinks.json) |
+| [September 26 at 3:32 AM](https://archive.org/download/tpm-2022/tpm-2022-09-26T03:32:26.761026-04:00.hyperlinks.json) |
+| [September 25 at 2:47 PM](https://archive.org/download/tpm-2022/tpm-2022-09-25T14:46:48.342818-04:00.hyperlinks.json) |
+| [September 25 at 3:02 AM](https://archive.org/download/tpm-2022/tpm-2022-09-25T03:01:54.571926-04:00.hyperlinks.json) |
+| [September 24 at 2:39 PM](https://archive.org/download/tpm-2022/tpm-2022-09-24T14:39:25.525900-04:00.hyperlinks.json) |
+| [September 24 at 3:02 AM](https://archive.org/download/tpm-2022/tpm-2022-09-24T03:02:08.891864-04:00.hyperlinks.json) |
+| [September 23 at 3:20 PM](https://archive.org/download/tpm-2022/tpm-2022-09-23T15:20:21.355065-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 154 accessibility trees with the Internet Archive.
+The archiving routine has saved 171 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 1:29 PM](https://archive.org/download/tpm-2022/tpm-2022-09-19T13:29:29.197511-04:00.accessibility.json) |
-| [September 19 at 1:59 AM](https://archive.org/download/tpm-2022/tpm-2022-09-19T01:59:55.639217-04:00.accessibility.json) |
-| [September 18 at 1:18 PM](https://archive.org/download/tpm-2022/tpm-2022-09-18T13:18:20.626705-04:00.accessibility.json) |
-| [September 18 at 1:31 AM](https://archive.org/download/tpm-2022/tpm-2022-09-18T01:30:52.768576-04:00.accessibility.json) |
-| [September 17 at 12:57 PM](https://archive.org/download/tpm-2022/tpm-2022-09-17T12:57:32.752481-04:00.accessibility.json) |
-| [September 17 at 1:25 AM](https://archive.org/download/tpm-2022/tpm-2022-09-17T01:25:10.717396-04:00.accessibility.json) |
-| [September 16 at 1:01 PM](https://archive.org/download/tpm-2022/tpm-2022-09-16T13:00:56.607986-04:00.accessibility.json) |
-| [September 16 at 1:34 AM](https://archive.org/download/tpm-2022/tpm-2022-09-16T01:34:45.752722-04:00.accessibility.json) |
-| [September 15 at 1:17 PM](https://archive.org/download/tpm-2022/tpm-2022-09-15T13:16:55.026818-04:00.accessibility.json) |
-| [September 15 at 1:33 AM](https://archive.org/download/tpm-2022/tpm-2022-09-15T01:33:28.206529-04:00.accessibility.json) |
+| [September 28 at 3:57 AM](https://archive.org/download/tpm-2022/tpm-2022-09-28T03:57:14.382510-04:00.accessibility.json) |
+| [September 27 at 3:43 PM](https://archive.org/download/tpm-2022/tpm-2022-09-27T15:43:19.983651-04:00.accessibility.json) |
+| [September 27 at 3:04 AM](https://archive.org/download/tpm-2022/tpm-2022-09-27T03:04:34.118705-04:00.accessibility.json) |
+| [September 26 at 3:12 PM](https://archive.org/download/tpm-2022/tpm-2022-09-26T15:12:45.534021-04:00.accessibility.json) |
+| [September 26 at 3:32 AM](https://archive.org/download/tpm-2022/tpm-2022-09-26T03:32:26.761026-04:00.accessibility.json) |
+| [September 25 at 2:47 PM](https://archive.org/download/tpm-2022/tpm-2022-09-25T14:46:48.342818-04:00.accessibility.json) |
+| [September 25 at 3:02 AM](https://archive.org/download/tpm-2022/tpm-2022-09-25T03:01:54.571926-04:00.accessibility.json) |
+| [September 24 at 2:39 PM](https://archive.org/download/tpm-2022/tpm-2022-09-24T14:39:25.525900-04:00.accessibility.json) |
+| [September 24 at 3:02 AM](https://archive.org/download/tpm-2022/tpm-2022-09-24T03:02:08.891864-04:00.accessibility.json) |
+| [September 23 at 3:20 PM](https://archive.org/download/tpm-2022/tpm-2022-09-23T15:20:21.355065-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 115 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 1:29 PM](https://archive.org/download/tpm-2022/tpm-2022-09-19T13:29:29.197511-04:00.lighthouse.json) |
-| [September 19 at 2:00 AM](https://archive.org/download/tpm-2022/tpm-2022-09-19T01:59:55.639217-04:00.lighthouse.json) |
-| [September 18 at 1:18 PM](https://archive.org/download/tpm-2022/tpm-2022-09-18T13:18:20.626705-04:00.lighthouse.json) |
-| [September 18 at 1:31 AM](https://archive.org/download/tpm-2022/tpm-2022-09-18T01:30:52.768576-04:00.lighthouse.json) |
-| [September 17 at 12:57 PM](https://archive.org/download/tpm-2022/tpm-2022-09-17T12:57:32.752481-04:00.lighthouse.json) |
-| [September 17 at 1:25 AM](https://archive.org/download/tpm-2022/tpm-2022-09-17T01:25:10.717396-04:00.lighthouse.json) |
-| [September 16 at 1:01 PM](https://archive.org/download/tpm-2022/tpm-2022-09-16T13:00:56.607986-04:00.lighthouse.json) |
-| [September 16 at 1:34 AM](https://archive.org/download/tpm-2022/tpm-2022-09-16T01:34:45.752722-04:00.lighthouse.json) |
-| [September 15 at 1:17 PM](https://archive.org/download/tpm-2022/tpm-2022-09-15T13:16:55.026818-04:00.lighthouse.json) |
-| [September 15 at 1:33 AM](https://archive.org/download/tpm-2022/tpm-2022-09-15T01:33:28.206529-04:00.lighthouse.json) |
+| [September 28 at 3:57 AM](https://archive.org/download/tpm-2022/tpm-2022-09-28T03:57:14.382510-04:00.lighthouse.json) |
+| [September 27 at 3:43 PM](https://archive.org/download/tpm-2022/tpm-2022-09-27T15:43:19.983651-04:00.lighthouse.json) |
+| [September 27 at 3:04 AM](https://archive.org/download/tpm-2022/tpm-2022-09-27T03:04:34.118705-04:00.lighthouse.json) |
+| [September 26 at 3:12 PM](https://archive.org/download/tpm-2022/tpm-2022-09-26T15:12:45.534021-04:00.lighthouse.json) |
+| [September 26 at 3:32 AM](https://archive.org/download/tpm-2022/tpm-2022-09-26T03:32:26.761026-04:00.lighthouse.json) |
+| [September 25 at 2:47 PM](https://archive.org/download/tpm-2022/tpm-2022-09-25T14:46:48.342818-04:00.lighthouse.json) |
+| [September 25 at 3:02 AM](https://archive.org/download/tpm-2022/tpm-2022-09-25T03:01:54.571926-04:00.lighthouse.json) |
+| [September 24 at 2:39 PM](https://archive.org/download/tpm-2022/tpm-2022-09-24T14:39:25.525900-04:00.lighthouse.json) |
+| [September 24 at 3:02 AM](https://archive.org/download/tpm-2022/tpm-2022-09-24T03:02:08.891864-04:00.lighthouse.json) |
+| [September 23 at 3:20 PM](https://archive.org/download/tpm-2022/tpm-2022-09-23T15:20:21.355065-04:00.lighthouse.json) |
 
 
 

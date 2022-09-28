@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 145 screenshots with the Internet Archive.
+The archiving routine has saved 162 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-19T12:26:44.442961-05:00.jpg">
-  <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-19T12:26:44.442961-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-09-19 12:26:46-05:00 local time"
+ <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-28T02:53:47.893555-05:00.jpg">
+  <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-28T02:53:47.893555-05:00.jpg"
+     alt="St. Louis Public Radio at 2022-09-28 02:53:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-19T12:26:44.442961-05:00.jpg">September 19 at 12:26 PM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-28T02:53:47.893555-05:00.jpg">September 28 at 2:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-19T00:58:29.966819-05:00.jpg">
-  <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-19T00:58:29.966819-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-09-19 00:58:31-05:00 local time"
+ <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-27T14:41:06.255425-05:00.jpg">
+  <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-27T14:41:06.255425-05:00.jpg"
+     alt="St. Louis Public Radio at 2022-09-27 14:41:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-19T00:58:29.966819-05:00.jpg">September 19 at 12:58 AM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-27T14:41:06.255425-05:00.jpg">September 27 at 2:41 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-18T12:16:42.611059-05:00.jpg">
-  <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-18T12:16:42.611059-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-09-18 12:16:54-05:00 local time"
+ <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-27T02:02:04.187679-05:00.jpg">
+  <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-27T02:02:04.187679-05:00.jpg"
+     alt="St. Louis Public Radio at 2022-09-27 02:02:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-18T12:16:42.611059-05:00.jpg">September 18 at 12:16 PM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-27T02:02:04.187679-05:00.jpg">September 27 at 2:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-18T00:29:15.488130-05:00.jpg">
-  <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-18T00:29:15.488130-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-09-18 00:29:17-05:00 local time"
+ <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-26T14:08:48.195666-05:00.jpg">
+  <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-26T14:08:48.195666-05:00.jpg"
+     alt="St. Louis Public Radio at 2022-09-26 14:08:53-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-18T00:29:15.488130-05:00.jpg">September 18 at 12:29 AM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-26T14:08:48.195666-05:00.jpg">September 26 at 2:08 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-17T11:55:31.228374-05:00.jpg">
-  <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-17T11:55:31.228374-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-09-17 11:55:32-05:00 local time"
+ <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-26T02:28:34.007040-05:00.jpg">
+  <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-26T02:28:34.007040-05:00.jpg"
+     alt="St. Louis Public Radio at 2022-09-26 02:28:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-17T11:55:31.228374-05:00.jpg">September 17 at 11:55 AM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-26T02:28:34.007040-05:00.jpg">September 26 at 2:28 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-17T00:23:44.199381-05:00.jpg">
-  <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-17T00:23:44.199381-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-09-17 00:23:45-05:00 local time"
+ <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-25T13:45:14.044194-05:00.jpg">
+  <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-25T13:45:14.044194-05:00.jpg"
+     alt="St. Louis Public Radio at 2022-09-25 13:45:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-17T00:23:44.199381-05:00.jpg">September 17 at 12:23 AM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-25T13:45:14.044194-05:00.jpg">September 25 at 1:45 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-16T11:59:08.521101-05:00.jpg">
-  <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-16T11:59:08.521101-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-09-16 11:59:10-05:00 local time"
+ <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-25T02:00:25.478408-05:00.jpg">
+  <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-25T02:00:25.478408-05:00.jpg"
+     alt="St. Louis Public Radio at 2022-09-25 02:00:27-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-16T11:59:08.521101-05:00.jpg">September 16 at 11:59 AM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-25T02:00:25.478408-05:00.jpg">September 25 at 2:00 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-16T00:32:19.009127-05:00.jpg">
-  <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-16T00:32:19.009127-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-09-16 00:32:28-05:00 local time"
+ <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-24T13:37:51.429453-05:00.jpg">
+  <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-24T13:37:51.429453-05:00.jpg"
+     alt="St. Louis Public Radio at 2022-09-24 13:37:57-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-16T00:32:19.009127-05:00.jpg">September 16 at 12:32 AM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-24T13:37:51.429453-05:00.jpg">September 24 at 1:37 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-15T12:14:47.559069-05:00.jpg">
-  <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-15T12:14:47.559069-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-09-15 12:15:08-05:00 local time"
+ <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-24T02:00:06.505351-05:00.jpg">
+  <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-24T02:00:06.505351-05:00.jpg"
+     alt="St. Louis Public Radio at 2022-09-24 02:00:08-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-15T12:14:47.559069-05:00.jpg">September 15 at 12:15 PM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-24T02:00:06.505351-05:00.jpg">September 24 at 2:00 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-15T00:31:41.010019-05:00.jpg">
-  <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-15T00:31:41.010019-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-09-15 00:31:46-05:00 local time"
+ <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-23T14:18:36.598880-05:00.jpg">
+  <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-23T14:18:36.598880-05:00.jpg"
+     alt="St. Louis Public Radio at 2022-09-23 14:18:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-15T00:31:41.010019-05:00.jpg">September 15 at 12:31 AM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-23T14:18:36.598880-05:00.jpg">September 23 at 2:18 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-14T12:19:29.487065-05:00.jpg">
-  <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-14T12:19:29.487065-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-09-14 12:19:37-05:00 local time"
+ <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-23T02:23:39.998023-05:00.jpg">
+  <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-23T02:23:39.998023-05:00.jpg"
+     alt="St. Louis Public Radio at 2022-09-23 02:23:46-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-14T12:19:29.487065-05:00.jpg">September 14 at 12:19 PM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-23T02:23:39.998023-05:00.jpg">September 23 at 2:23 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-14T00:38:13.294560-05:00.jpg">
-  <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-14T00:38:13.294560-05:00.jpg"
-     alt="St. Louis Public Radio at 2022-09-14 00:38:14-05:00 local time"
+ <a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-22T13:50:47.087316-05:00.jpg">
+  <img src="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-22T13:50:47.087316-05:00.jpg"
+     alt="St. Louis Public Radio at 2022-09-22 13:50:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-14T00:38:13.294560-05:00.jpg">September 14 at 12:38 AM</a></p>
+ <p><a href="https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-22T13:50:47.087316-05:00.jpg">September 22 at 1:50 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 145 hyperlink lists with the Internet Archive.
+The archiving routine has saved 162 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 12:26 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-19T12:26:44.442961-05:00.hyperlinks.json) |
-| [September 19 at 12:58 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-19T00:58:29.966819-05:00.hyperlinks.json) |
-| [September 18 at 12:16 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-18T12:16:42.611059-05:00.hyperlinks.json) |
-| [September 18 at 12:29 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-18T00:29:15.488130-05:00.hyperlinks.json) |
-| [September 17 at 11:55 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-17T11:55:31.228374-05:00.hyperlinks.json) |
-| [September 17 at 12:23 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-17T00:23:44.199381-05:00.hyperlinks.json) |
-| [September 16 at 11:59 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-16T11:59:08.521101-05:00.hyperlinks.json) |
-| [September 16 at 12:32 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-16T00:32:19.009127-05:00.hyperlinks.json) |
-| [September 15 at 12:15 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-15T12:14:47.559069-05:00.hyperlinks.json) |
-| [September 15 at 12:31 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-15T00:31:41.010019-05:00.hyperlinks.json) |
+| [September 28 at 2:53 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-28T02:53:47.893555-05:00.hyperlinks.json) |
+| [September 27 at 2:41 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-27T14:41:06.255425-05:00.hyperlinks.json) |
+| [September 27 at 2:02 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-27T02:02:04.187679-05:00.hyperlinks.json) |
+| [September 26 at 2:08 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-26T14:08:48.195666-05:00.hyperlinks.json) |
+| [September 26 at 2:28 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-26T02:28:34.007040-05:00.hyperlinks.json) |
+| [September 25 at 1:45 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-25T13:45:14.044194-05:00.hyperlinks.json) |
+| [September 25 at 2:00 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-25T02:00:25.478408-05:00.hyperlinks.json) |
+| [September 24 at 1:38 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-24T13:37:51.429453-05:00.hyperlinks.json) |
+| [September 24 at 2:00 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-24T02:00:06.505351-05:00.hyperlinks.json) |
+| [September 23 at 2:18 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-23T14:18:36.598880-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 143 accessibility trees with the Internet Archive.
+The archiving routine has saved 160 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 12:26 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-19T12:26:44.442961-05:00.accessibility.json) |
-| [September 19 at 12:58 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-19T00:58:29.966819-05:00.accessibility.json) |
-| [September 18 at 12:16 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-18T12:16:42.611059-05:00.accessibility.json) |
-| [September 18 at 12:29 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-18T00:29:15.488130-05:00.accessibility.json) |
-| [September 17 at 11:55 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-17T11:55:31.228374-05:00.accessibility.json) |
-| [September 17 at 12:23 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-17T00:23:44.199381-05:00.accessibility.json) |
-| [September 16 at 11:59 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-16T11:59:08.521101-05:00.accessibility.json) |
-| [September 16 at 12:32 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-16T00:32:19.009127-05:00.accessibility.json) |
-| [September 15 at 12:15 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-15T12:14:47.559069-05:00.accessibility.json) |
-| [September 15 at 12:31 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-15T00:31:41.010019-05:00.accessibility.json) |
+| [September 28 at 2:53 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-28T02:53:47.893555-05:00.accessibility.json) |
+| [September 27 at 2:41 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-27T14:41:06.255425-05:00.accessibility.json) |
+| [September 27 at 2:02 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-27T02:02:04.187679-05:00.accessibility.json) |
+| [September 26 at 2:08 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-26T14:08:48.195666-05:00.accessibility.json) |
+| [September 26 at 2:28 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-26T02:28:34.007040-05:00.accessibility.json) |
+| [September 25 at 1:45 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-25T13:45:14.044194-05:00.accessibility.json) |
+| [September 25 at 2:00 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-25T02:00:25.478408-05:00.accessibility.json) |
+| [September 24 at 1:37 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-24T13:37:51.429453-05:00.accessibility.json) |
+| [September 24 at 2:00 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-24T02:00:06.505351-05:00.accessibility.json) |
+| [September 23 at 2:18 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-23T14:18:36.598880-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 115 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 12:26 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-19T12:26:44.442961-05:00.lighthouse.json) |
-| [September 19 at 12:58 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-19T00:58:29.966819-05:00.lighthouse.json) |
-| [September 18 at 12:17 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-18T12:16:42.611059-05:00.lighthouse.json) |
-| [September 18 at 12:29 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-18T00:29:15.488130-05:00.lighthouse.json) |
-| [September 17 at 11:55 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-17T11:55:31.228374-05:00.lighthouse.json) |
-| [September 17 at 12:23 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-17T00:23:44.199381-05:00.lighthouse.json) |
-| [September 16 at 11:59 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-16T11:59:08.521101-05:00.lighthouse.json) |
-| [September 16 at 12:32 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-16T00:32:19.009127-05:00.lighthouse.json) |
-| [September 15 at 12:15 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-15T12:14:47.559069-05:00.lighthouse.json) |
-| [September 15 at 12:31 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-15T00:31:41.010019-05:00.lighthouse.json) |
+| [September 28 at 2:53 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-28T02:53:47.893555-05:00.lighthouse.json) |
+| [September 27 at 2:41 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-27T14:41:06.255425-05:00.lighthouse.json) |
+| [September 27 at 2:02 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-27T02:02:04.187679-05:00.lighthouse.json) |
+| [September 26 at 2:09 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-26T14:08:48.195666-05:00.lighthouse.json) |
+| [September 26 at 2:28 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-26T02:28:34.007040-05:00.lighthouse.json) |
+| [September 25 at 1:45 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-25T13:45:14.044194-05:00.lighthouse.json) |
+| [September 25 at 2:00 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-25T02:00:25.478408-05:00.lighthouse.json) |
+| [September 24 at 1:38 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-24T13:37:51.429453-05:00.lighthouse.json) |
+| [September 24 at 2:00 AM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-24T02:00:06.505351-05:00.lighthouse.json) |
+| [September 23 at 2:18 PM](https://archive.org/download/stlpublicradio-2022/stlpublicradio-2022-09-23T14:18:36.598880-05:00.lighthouse.json) |
 
 
 

@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 122 screenshots with the Internet Archive.
+The archiving routine has saved 139 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-19T19:30:54.030558+02:00.jpg">
-  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-09-19T19:30:54.030558+02:00.jpg"
-     alt="VG at 2022-09-19 19:30:55+02:00 local time"
+ <a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-28T09:56:12.848932+02:00.jpg">
+  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-09-28T09:56:12.848932+02:00.jpg"
+     alt="VG at 2022-09-28 09:56:20+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-19T19:30:54.030558+02:00.jpg">September 19 at 7:30 PM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-28T09:56:12.848932+02:00.jpg">September 28 at 9:56 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-19T08:01:26.316274+02:00.jpg">
-  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-09-19T08:01:26.316274+02:00.jpg"
-     alt="VG at 2022-09-19 08:01:27+02:00 local time"
+ <a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-27T21:43:30.248072+02:00.jpg">
+  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-09-27T21:43:30.248072+02:00.jpg"
+     alt="VG at 2022-09-27 21:43:36+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-19T08:01:26.316274+02:00.jpg">September 19 at 8:01 AM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-27T21:43:30.248072+02:00.jpg">September 27 at 9:43 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-18T19:19:58.200565+02:00.jpg">
-  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-09-18T19:19:58.200565+02:00.jpg"
-     alt="VG at 2022-09-18 19:20:04+02:00 local time"
+ <a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-27T09:04:51.385256+02:00.jpg">
+  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-09-27T09:04:51.385256+02:00.jpg"
+     alt="VG at 2022-09-27 09:04:59+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-18T19:19:58.200565+02:00.jpg">September 18 at 7:20 PM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-27T09:04:51.385256+02:00.jpg">September 27 at 9:04 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-18T07:32:25.863335+02:00.jpg">
-  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-09-18T07:32:25.863335+02:00.jpg"
-     alt="VG at 2022-09-18 07:32:27+02:00 local time"
+ <a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-26T21:13:02.192369+02:00.jpg">
+  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-09-26T21:13:02.192369+02:00.jpg"
+     alt="VG at 2022-09-26 21:13:08+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-18T07:32:25.863335+02:00.jpg">September 18 at 7:32 AM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-26T21:13:02.192369+02:00.jpg">September 26 at 9:13 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-17T18:56:55.231755+02:00.jpg">
-  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-09-17T18:56:55.231755+02:00.jpg"
-     alt="VG at 2022-09-17 18:57:00+02:00 local time"
+ <a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-26T09:32:15.199107+02:00.jpg">
+  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-09-26T09:32:15.199107+02:00.jpg"
+     alt="VG at 2022-09-26 09:32:22+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-17T18:56:55.231755+02:00.jpg">September 17 at 6:57 PM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-26T09:32:15.199107+02:00.jpg">September 26 at 9:32 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-17T07:24:50.213901+02:00.jpg">
-  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-09-17T07:24:50.213901+02:00.jpg"
-     alt="VG at 2022-09-17 07:24:58+02:00 local time"
+ <a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-25T20:48:13.703984+02:00.jpg">
+  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-09-25T20:48:13.703984+02:00.jpg"
+     alt="VG at 2022-09-25 20:48:20+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-17T07:24:50.213901+02:00.jpg">September 17 at 7:24 AM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-25T20:48:13.703984+02:00.jpg">September 25 at 8:48 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-16T19:01:25.303615+02:00.jpg">
-  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-09-16T19:01:25.303615+02:00.jpg"
-     alt="VG at 2022-09-16 19:01:26+02:00 local time"
+ <a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-25T09:01:25.162508+02:00.jpg">
+  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-09-25T09:01:25.162508+02:00.jpg"
+     alt="VG at 2022-09-25 09:01:32+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-16T19:01:25.303615+02:00.jpg">September 16 at 7:01 PM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-25T09:01:25.162508+02:00.jpg">September 25 at 9:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-16T07:35:26.909134+02:00.jpg">
-  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-09-16T07:35:26.909134+02:00.jpg"
-     alt="VG at 2022-09-16 07:35:39+02:00 local time"
+ <a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-24T20:40:47.734707+02:00.jpg">
+  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-09-24T20:40:47.734707+02:00.jpg"
+     alt="VG at 2022-09-24 20:40:54+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-16T07:35:26.909134+02:00.jpg">September 16 at 7:35 AM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-24T20:40:47.734707+02:00.jpg">September 24 at 8:40 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-15T19:17:11.721077+02:00.jpg">
-  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-09-15T19:17:11.721077+02:00.jpg"
-     alt="VG at 2022-09-15 19:17:35+02:00 local time"
+ <a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-24T09:03:01.468896+02:00.jpg">
+  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-09-24T09:03:01.468896+02:00.jpg"
+     alt="VG at 2022-09-24 09:03:08+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-15T19:17:11.721077+02:00.jpg">September 15 at 7:17 PM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-24T09:03:01.468896+02:00.jpg">September 24 at 9:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-15T07:35:46.430173+02:00.jpg">
-  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-09-15T07:35:46.430173+02:00.jpg"
-     alt="VG at 2022-09-15 07:36:04+02:00 local time"
+ <a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-23T21:20:24.095976+02:00.jpg">
+  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-09-23T21:20:24.095976+02:00.jpg"
+     alt="VG at 2022-09-23 21:20:29+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-15T07:35:46.430173+02:00.jpg">September 15 at 7:36 AM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-23T21:20:24.095976+02:00.jpg">September 23 at 9:20 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-14T19:21:16.297451+02:00.jpg">
-  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-09-14T19:21:16.297451+02:00.jpg"
-     alt="VG at 2022-09-14 19:21:21+02:00 local time"
+ <a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-23T09:27:00.315471+02:00.jpg">
+  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-09-23T09:27:00.315471+02:00.jpg"
+     alt="VG at 2022-09-23 09:27:08+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-14T19:21:16.297451+02:00.jpg">September 14 at 7:21 PM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-23T09:27:00.315471+02:00.jpg">September 23 at 9:27 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-14T07:40:13.384379+02:00.jpg">
-  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-09-14T07:40:13.384379+02:00.jpg"
-     alt="VG at 2022-09-14 07:40:14+02:00 local time"
+ <a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-22T20:54:31.864375+02:00.jpg">
+  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-09-22T20:54:31.864375+02:00.jpg"
+     alt="VG at 2022-09-22 20:55:00+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-14T07:40:13.384379+02:00.jpg">September 14 at 7:40 AM</a></p>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-09-22T20:54:31.864375+02:00.jpg">September 22 at 8:55 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 122 hyperlink lists with the Internet Archive.
+The archiving routine has saved 139 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 7:31 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-19T19:30:54.030558+02:00.hyperlinks.json) |
-| [September 19 at 8:01 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-19T08:01:26.316274+02:00.hyperlinks.json) |
-| [September 18 at 7:20 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-18T19:19:58.200565+02:00.hyperlinks.json) |
-| [September 18 at 7:32 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-18T07:32:25.863335+02:00.hyperlinks.json) |
-| [September 17 at 6:57 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-17T18:56:55.231755+02:00.hyperlinks.json) |
-| [September 17 at 7:25 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-17T07:24:50.213901+02:00.hyperlinks.json) |
-| [September 16 at 7:01 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-16T19:01:25.303615+02:00.hyperlinks.json) |
-| [September 16 at 7:35 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-16T07:35:26.909134+02:00.hyperlinks.json) |
-| [September 15 at 7:17 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-15T19:17:11.721077+02:00.hyperlinks.json) |
-| [September 15 at 7:36 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-15T07:35:46.430173+02:00.hyperlinks.json) |
+| [September 28 at 9:56 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-28T09:56:12.848932+02:00.hyperlinks.json) |
+| [September 27 at 9:43 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-27T21:43:30.248072+02:00.hyperlinks.json) |
+| [September 27 at 9:05 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-27T09:04:51.385256+02:00.hyperlinks.json) |
+| [September 26 at 9:13 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-26T21:13:02.192369+02:00.hyperlinks.json) |
+| [September 26 at 9:32 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-26T09:32:15.199107+02:00.hyperlinks.json) |
+| [September 25 at 8:48 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-25T20:48:13.703984+02:00.hyperlinks.json) |
+| [September 25 at 9:01 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-25T09:01:25.162508+02:00.hyperlinks.json) |
+| [September 24 at 8:40 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-24T20:40:47.734707+02:00.hyperlinks.json) |
+| [September 24 at 9:03 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-24T09:03:01.468896+02:00.hyperlinks.json) |
+| [September 23 at 9:20 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-23T21:20:24.095976+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 123 accessibility trees with the Internet Archive.
+The archiving routine has saved 140 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 7:30 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-19T19:30:54.030558+02:00.accessibility.json) |
-| [September 19 at 8:01 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-19T08:01:26.316274+02:00.accessibility.json) |
-| [September 18 at 7:20 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-18T19:19:58.200565+02:00.accessibility.json) |
-| [September 18 at 7:32 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-18T07:32:25.863335+02:00.accessibility.json) |
-| [September 17 at 6:57 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-17T18:56:55.231755+02:00.accessibility.json) |
-| [September 17 at 7:25 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-17T07:24:50.213901+02:00.accessibility.json) |
-| [September 16 at 7:01 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-16T19:01:25.303615+02:00.accessibility.json) |
-| [September 16 at 7:35 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-16T07:35:26.909134+02:00.accessibility.json) |
-| [September 15 at 7:17 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-15T19:17:11.721077+02:00.accessibility.json) |
-| [September 15 at 7:36 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-15T07:35:46.430173+02:00.accessibility.json) |
+| [September 28 at 9:56 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-28T09:56:12.848932+02:00.accessibility.json) |
+| [September 27 at 9:43 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-27T21:43:30.248072+02:00.accessibility.json) |
+| [September 27 at 9:05 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-27T09:04:51.385256+02:00.accessibility.json) |
+| [September 26 at 9:13 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-26T21:13:02.192369+02:00.accessibility.json) |
+| [September 26 at 9:32 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-26T09:32:15.199107+02:00.accessibility.json) |
+| [September 25 at 8:48 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-25T20:48:13.703984+02:00.accessibility.json) |
+| [September 25 at 9:01 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-25T09:01:25.162508+02:00.accessibility.json) |
+| [September 24 at 8:40 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-24T20:40:47.734707+02:00.accessibility.json) |
+| [September 24 at 9:03 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-24T09:03:01.468896+02:00.accessibility.json) |
+| [September 23 at 9:20 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-23T21:20:24.095976+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 113 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 130 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 7:31 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-19T19:30:54.030558+02:00.lighthouse.json) |
-| [September 19 at 8:01 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-19T08:01:26.316274+02:00.lighthouse.json) |
-| [September 18 at 7:20 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-18T19:19:58.200565+02:00.lighthouse.json) |
-| [September 18 at 7:32 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-18T07:32:25.863335+02:00.lighthouse.json) |
-| [September 17 at 6:57 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-17T18:56:55.231755+02:00.lighthouse.json) |
-| [September 17 at 7:25 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-17T07:24:50.213901+02:00.lighthouse.json) |
-| [September 16 at 7:01 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-16T19:01:25.303615+02:00.lighthouse.json) |
-| [September 16 at 7:35 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-16T07:35:26.909134+02:00.lighthouse.json) |
-| [September 15 at 7:17 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-15T19:17:11.721077+02:00.lighthouse.json) |
-| [September 15 at 7:36 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-15T07:35:46.430173+02:00.lighthouse.json) |
+| [September 28 at 9:56 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-28T09:56:12.848932+02:00.lighthouse.json) |
+| [September 27 at 9:43 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-27T21:43:30.248072+02:00.lighthouse.json) |
+| [September 27 at 9:05 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-27T09:04:51.385256+02:00.lighthouse.json) |
+| [September 26 at 9:13 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-26T21:13:02.192369+02:00.lighthouse.json) |
+| [September 26 at 9:32 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-26T09:32:15.199107+02:00.lighthouse.json) |
+| [September 25 at 8:48 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-25T20:48:13.703984+02:00.lighthouse.json) |
+| [September 25 at 9:01 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-25T09:01:25.162508+02:00.lighthouse.json) |
+| [September 24 at 8:41 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-24T20:40:47.734707+02:00.lighthouse.json) |
+| [September 24 at 9:03 AM](https://archive.org/download/vgnett-2022/vgnett-2022-09-24T09:03:01.468896+02:00.lighthouse.json) |
+| [September 23 at 9:20 PM](https://archive.org/download/vgnett-2022/vgnett-2022-09-23T21:20:24.095976+02:00.lighthouse.json) |
 
 
 

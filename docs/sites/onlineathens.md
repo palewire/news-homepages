@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 122 screenshots with the Internet Archive.
+The archiving routine has saved 139 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-19T13:35:04.286866-04:00.jpg">
-  <img src="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-19T13:35:04.286866-04:00.jpg"
-     alt="Athens Banner-Herald at 2022-09-19 13:35:06-04:00 local time"
+ <a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-28T03:48:02.405986-04:00.jpg">
+  <img src="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-28T03:48:02.405986-04:00.jpg"
+     alt="Athens Banner-Herald at 2022-09-28 03:48:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-19T13:35:04.286866-04:00.jpg">September 19 at 1:35 PM</a></p>
+ <p><a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-28T03:48:02.405986-04:00.jpg">September 28 at 3:48 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-19T02:05:53.522414-04:00.jpg">
-  <img src="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-19T02:05:53.522414-04:00.jpg"
-     alt="Athens Banner-Herald at 2022-09-19 02:05:54-04:00 local time"
+ <a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-27T15:08:59.030882-04:00.jpg">
+  <img src="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-27T15:08:59.030882-04:00.jpg"
+     alt="Athens Banner-Herald at 2022-09-27 15:09:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-19T02:05:53.522414-04:00.jpg">September 19 at 2:05 AM</a></p>
+ <p><a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-27T15:08:59.030882-04:00.jpg">September 27 at 3:09 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-18T13:28:12.532231-04:00.jpg">
-  <img src="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-18T13:28:12.532231-04:00.jpg"
-     alt="Athens Banner-Herald at 2022-09-18 13:28:16-04:00 local time"
+ <a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-27T03:08:29.979853-04:00.jpg">
+  <img src="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-27T03:08:29.979853-04:00.jpg"
+     alt="Athens Banner-Herald at 2022-09-27 03:08:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-18T13:28:12.532231-04:00.jpg">September 18 at 1:28 PM</a></p>
+ <p><a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-27T03:08:29.979853-04:00.jpg">September 27 at 3:08 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-18T01:24:55.224157-04:00.jpg">
-  <img src="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-18T01:24:55.224157-04:00.jpg"
-     alt="Athens Banner-Herald at 2022-09-18 01:24:57-04:00 local time"
+ <a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-26T15:28:13.117285-04:00.jpg">
+  <img src="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-26T15:28:13.117285-04:00.jpg"
+     alt="Athens Banner-Herald at 2022-09-26 15:28:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-18T01:24:55.224157-04:00.jpg">September 18 at 1:24 AM</a></p>
+ <p><a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-26T15:28:13.117285-04:00.jpg">September 26 at 3:28 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-17T12:01:37.850854-04:00.jpg">
-  <img src="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-17T12:01:37.850854-04:00.jpg"
-     alt="Athens Banner-Herald at 2022-09-17 12:01:43-04:00 local time"
+ <a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-26T03:42:12.448177-04:00.jpg">
+  <img src="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-26T03:42:12.448177-04:00.jpg"
+     alt="Athens Banner-Herald at 2022-09-26 03:42:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-17T12:01:37.850854-04:00.jpg">September 17 at 12:01 PM</a></p>
+ <p><a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-26T03:42:12.448177-04:00.jpg">September 26 at 3:42 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-17T00:36:03.566108-04:00.jpg">
-  <img src="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-17T00:36:03.566108-04:00.jpg"
-     alt="Athens Banner-Herald at 2022-09-17 00:36:04-04:00 local time"
+ <a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-25T14:30:31.660615-04:00.jpg">
+  <img src="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-25T14:30:31.660615-04:00.jpg"
+     alt="Athens Banner-Herald at 2022-09-25 14:30:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-17T00:36:03.566108-04:00.jpg">September 17 at 12:36 AM</a></p>
+ <p><a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-25T14:30:31.660615-04:00.jpg">September 25 at 2:30 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-16T12:06:08.294476-04:00.jpg">
-  <img src="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-16T12:06:08.294476-04:00.jpg"
-     alt="Athens Banner-Herald at 2022-09-16 12:06:10-04:00 local time"
+ <a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-25T02:54:13.388650-04:00.jpg">
+  <img src="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-25T02:54:13.388650-04:00.jpg"
+     alt="Athens Banner-Herald at 2022-09-25 02:54:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-16T12:06:08.294476-04:00.jpg">September 16 at 12:06 PM</a></p>
+ <p><a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-25T02:54:13.388650-04:00.jpg">September 25 at 2:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-16T01:29:39.750108-04:00.jpg">
-  <img src="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-16T01:29:39.750108-04:00.jpg"
-     alt="Athens Banner-Herald at 2022-09-16 01:29:40-04:00 local time"
+ <a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-24T14:31:51.494293-04:00.jpg">
+  <img src="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-24T14:31:51.494293-04:00.jpg"
+     alt="Athens Banner-Herald at 2022-09-24 14:31:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-16T01:29:39.750108-04:00.jpg">September 16 at 1:29 AM</a></p>
+ <p><a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-24T14:31:51.494293-04:00.jpg">September 24 at 2:31 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-15T12:29:10.996745-04:00.jpg">
-  <img src="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-15T12:29:10.996745-04:00.jpg"
-     alt="Athens Banner-Herald at 2022-09-15 12:29:21-04:00 local time"
+ <a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-24T02:54:50.846073-04:00.jpg">
+  <img src="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-24T02:54:50.846073-04:00.jpg"
+     alt="Athens Banner-Herald at 2022-09-24 02:55:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-15T12:29:10.996745-04:00.jpg">September 15 at 12:29 PM</a></p>
+ <p><a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-24T02:54:50.846073-04:00.jpg">September 24 at 2:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-15T01:28:49.455138-04:00.jpg">
-  <img src="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-15T01:28:49.455138-04:00.jpg"
-     alt="Athens Banner-Herald at 2022-09-15 01:28:50-04:00 local time"
+ <a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-23T14:48:46.618786-04:00.jpg">
+  <img src="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-23T14:48:46.618786-04:00.jpg"
+     alt="Athens Banner-Herald at 2022-09-23 14:48:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-15T01:28:49.455138-04:00.jpg">September 15 at 1:28 AM</a></p>
+ <p><a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-23T14:48:46.618786-04:00.jpg">September 23 at 2:48 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-14T12:29:12.760128-04:00.jpg">
-  <img src="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-14T12:29:12.760128-04:00.jpg"
-     alt="Athens Banner-Herald at 2022-09-14 12:29:13-04:00 local time"
+ <a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-23T03:18:11.190604-04:00.jpg">
+  <img src="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-23T03:18:11.190604-04:00.jpg"
+     alt="Athens Banner-Herald at 2022-09-23 03:18:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-14T12:29:12.760128-04:00.jpg">September 14 at 12:29 PM</a></p>
+ <p><a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-23T03:18:11.190604-04:00.jpg">September 23 at 3:18 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-14T00:47:52.171348-04:00.jpg">
-  <img src="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-14T00:47:52.171348-04:00.jpg"
-     alt="Athens Banner-Herald at 2022-09-14 00:47:54-04:00 local time"
+ <a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-22T15:24:07.362395-04:00.jpg">
+  <img src="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-22T15:24:07.362395-04:00.jpg"
+     alt="Athens Banner-Herald at 2022-09-22 15:24:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-14T00:47:52.171348-04:00.jpg">September 14 at 12:47 AM</a></p>
+ <p><a href="https://archive.org/download/onlineathens-2022/onlineathens-2022-09-22T15:24:07.362395-04:00.jpg">September 22 at 3:24 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 121 hyperlink lists with the Internet Archive.
+The archiving routine has saved 138 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 1:35 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-19T13:35:04.286866-04:00.hyperlinks.json) |
-| [September 19 at 2:05 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-19T02:05:53.522414-04:00.hyperlinks.json) |
-| [September 18 at 1:28 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-18T13:28:12.532231-04:00.hyperlinks.json) |
-| [September 18 at 1:25 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-18T01:24:55.224157-04:00.hyperlinks.json) |
-| [September 17 at 12:01 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-17T12:01:37.850854-04:00.hyperlinks.json) |
-| [September 17 at 12:36 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-17T00:36:03.566108-04:00.hyperlinks.json) |
-| [September 16 at 12:06 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-16T12:06:08.294476-04:00.hyperlinks.json) |
-| [September 16 at 1:29 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-16T01:29:39.750108-04:00.hyperlinks.json) |
-| [September 15 at 12:29 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-15T12:29:10.996745-04:00.hyperlinks.json) |
-| [September 15 at 1:28 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-15T01:28:49.455138-04:00.hyperlinks.json) |
+| [September 28 at 3:48 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-28T03:48:02.405986-04:00.hyperlinks.json) |
+| [September 27 at 3:09 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-27T15:08:59.030882-04:00.hyperlinks.json) |
+| [September 27 at 3:08 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-27T03:08:29.979853-04:00.hyperlinks.json) |
+| [September 26 at 3:28 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-26T15:28:13.117285-04:00.hyperlinks.json) |
+| [September 26 at 3:42 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-26T03:42:12.448177-04:00.hyperlinks.json) |
+| [September 25 at 2:30 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-25T14:30:31.660615-04:00.hyperlinks.json) |
+| [September 25 at 2:54 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-25T02:54:13.388650-04:00.hyperlinks.json) |
+| [September 24 at 2:31 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-24T14:31:51.494293-04:00.hyperlinks.json) |
+| [September 24 at 2:55 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-24T02:54:50.846073-04:00.hyperlinks.json) |
+| [September 23 at 2:48 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-23T14:48:46.618786-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 122 accessibility trees with the Internet Archive.
+The archiving routine has saved 139 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 1:35 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-19T13:35:04.286866-04:00.accessibility.json) |
-| [September 19 at 2:05 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-19T02:05:53.522414-04:00.accessibility.json) |
-| [September 18 at 1:28 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-18T13:28:12.532231-04:00.accessibility.json) |
-| [September 18 at 1:24 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-18T01:24:55.224157-04:00.accessibility.json) |
-| [September 17 at 12:01 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-17T12:01:37.850854-04:00.accessibility.json) |
-| [September 17 at 12:36 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-17T00:36:03.566108-04:00.accessibility.json) |
-| [September 16 at 12:06 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-16T12:06:08.294476-04:00.accessibility.json) |
-| [September 16 at 1:29 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-16T01:29:39.750108-04:00.accessibility.json) |
-| [September 15 at 12:29 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-15T12:29:10.996745-04:00.accessibility.json) |
-| [September 15 at 1:28 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-15T01:28:49.455138-04:00.accessibility.json) |
+| [September 28 at 3:48 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-28T03:48:02.405986-04:00.accessibility.json) |
+| [September 27 at 3:09 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-27T15:08:59.030882-04:00.accessibility.json) |
+| [September 27 at 3:08 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-27T03:08:29.979853-04:00.accessibility.json) |
+| [September 26 at 3:28 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-26T15:28:13.117285-04:00.accessibility.json) |
+| [September 26 at 3:42 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-26T03:42:12.448177-04:00.accessibility.json) |
+| [September 25 at 2:30 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-25T14:30:31.660615-04:00.accessibility.json) |
+| [September 25 at 2:54 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-25T02:54:13.388650-04:00.accessibility.json) |
+| [September 24 at 2:31 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-24T14:31:51.494293-04:00.accessibility.json) |
+| [September 24 at 2:55 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-24T02:54:50.846073-04:00.accessibility.json) |
+| [September 23 at 2:48 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-23T14:48:46.618786-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 115 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 1:35 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-19T13:35:04.286866-04:00.lighthouse.json) |
-| [September 19 at 2:05 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-19T02:05:53.522414-04:00.lighthouse.json) |
-| [September 18 at 1:28 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-18T13:28:12.532231-04:00.lighthouse.json) |
-| [September 18 at 1:25 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-18T01:24:55.224157-04:00.lighthouse.json) |
-| [September 17 at 12:01 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-17T12:01:37.850854-04:00.lighthouse.json) |
-| [September 17 at 12:36 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-17T00:36:03.566108-04:00.lighthouse.json) |
-| [September 16 at 12:06 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-16T12:06:08.294476-04:00.lighthouse.json) |
-| [September 16 at 1:29 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-16T01:29:39.750108-04:00.lighthouse.json) |
-| [September 15 at 12:29 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-15T12:29:10.996745-04:00.lighthouse.json) |
-| [September 15 at 1:28 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-15T01:28:49.455138-04:00.lighthouse.json) |
+| [September 28 at 3:48 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-28T03:48:02.405986-04:00.lighthouse.json) |
+| [September 27 at 3:09 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-27T15:08:59.030882-04:00.lighthouse.json) |
+| [September 27 at 3:08 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-27T03:08:29.979853-04:00.lighthouse.json) |
+| [September 26 at 3:28 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-26T15:28:13.117285-04:00.lighthouse.json) |
+| [September 26 at 3:42 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-26T03:42:12.448177-04:00.lighthouse.json) |
+| [September 25 at 2:30 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-25T14:30:31.660615-04:00.lighthouse.json) |
+| [September 25 at 2:54 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-25T02:54:13.388650-04:00.lighthouse.json) |
+| [September 24 at 2:31 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-24T14:31:51.494293-04:00.lighthouse.json) |
+| [September 24 at 2:55 AM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-24T02:54:50.846073-04:00.lighthouse.json) |
+| [September 23 at 2:48 PM](https://archive.org/download/onlineathens-2022/onlineathens-2022-09-23T14:48:46.618786-04:00.lighthouse.json) |
 
 
 

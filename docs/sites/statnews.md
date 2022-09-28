@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 116 screenshots with the Internet Archive.
+The archiving routine has saved 132 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/statnews-2022/statnews-2022-09-19T13:26:52.575379-04:00.jpg">
-  <img src="https://archive.org/download/statnews-2022/statnews-2022-09-19T13:26:52.575379-04:00.jpg"
-     alt="STAT at 2022-09-19 13:27:09-04:00 local time"
+ <a href="https://archive.org/download/statnews-2022/statnews-2022-09-28T03:53:14.575152-04:00.jpg">
+  <img src="https://archive.org/download/statnews-2022/statnews-2022-09-28T03:53:14.575152-04:00.jpg"
+     alt="STAT at 2022-09-28 03:53:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/statnews-2022/statnews-2022-09-19T13:26:52.575379-04:00.jpg">September 19 at 1:27 PM</a></p>
+ <p><a href="https://archive.org/download/statnews-2022/statnews-2022-09-28T03:53:14.575152-04:00.jpg">September 28 at 3:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/statnews-2022/statnews-2022-09-19T01:58:10.459086-04:00.jpg">
-  <img src="https://archive.org/download/statnews-2022/statnews-2022-09-19T01:58:10.459086-04:00.jpg"
-     alt="STAT at 2022-09-19 01:58:12-04:00 local time"
+ <a href="https://archive.org/download/statnews-2022/statnews-2022-09-27T15:40:55.360649-04:00.jpg">
+  <img src="https://archive.org/download/statnews-2022/statnews-2022-09-27T15:40:55.360649-04:00.jpg"
+     alt="STAT at 2022-09-27 15:40:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/statnews-2022/statnews-2022-09-19T01:58:10.459086-04:00.jpg">September 19 at 1:58 AM</a></p>
+ <p><a href="https://archive.org/download/statnews-2022/statnews-2022-09-27T15:40:55.360649-04:00.jpg">September 27 at 3:40 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/statnews-2022/statnews-2022-09-18T13:17:24.652191-04:00.jpg">
-  <img src="https://archive.org/download/statnews-2022/statnews-2022-09-18T13:17:24.652191-04:00.jpg"
-     alt="STAT at 2022-09-18 13:17:29-04:00 local time"
+ <a href="https://archive.org/download/statnews-2022/statnews-2022-09-27T03:01:50.963186-04:00.jpg">
+  <img src="https://archive.org/download/statnews-2022/statnews-2022-09-27T03:01:50.963186-04:00.jpg"
+     alt="STAT at 2022-09-27 03:01:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/statnews-2022/statnews-2022-09-18T13:17:24.652191-04:00.jpg">September 18 at 1:17 PM</a></p>
+ <p><a href="https://archive.org/download/statnews-2022/statnews-2022-09-27T03:01:50.963186-04:00.jpg">September 27 at 3:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/statnews-2022/statnews-2022-09-18T01:29:25.587781-04:00.jpg">
-  <img src="https://archive.org/download/statnews-2022/statnews-2022-09-18T01:29:25.587781-04:00.jpg"
-     alt="STAT at 2022-09-18 01:29:32-04:00 local time"
+ <a href="https://archive.org/download/statnews-2022/statnews-2022-09-26T15:06:55.805916-04:00.jpg">
+  <img src="https://archive.org/download/statnews-2022/statnews-2022-09-26T15:06:55.805916-04:00.jpg"
+     alt="STAT at 2022-09-26 15:07:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/statnews-2022/statnews-2022-09-18T01:29:25.587781-04:00.jpg">September 18 at 1:29 AM</a></p>
+ <p><a href="https://archive.org/download/statnews-2022/statnews-2022-09-26T15:06:55.805916-04:00.jpg">September 26 at 3:07 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/statnews-2022/statnews-2022-09-17T12:54:47.550458-04:00.jpg">
-  <img src="https://archive.org/download/statnews-2022/statnews-2022-09-17T12:54:47.550458-04:00.jpg"
-     alt="STAT at 2022-09-17 12:54:57-04:00 local time"
+ <a href="https://archive.org/download/statnews-2022/statnews-2022-09-26T03:28:32.106638-04:00.jpg">
+  <img src="https://archive.org/download/statnews-2022/statnews-2022-09-26T03:28:32.106638-04:00.jpg"
+     alt="STAT at 2022-09-26 03:28:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/statnews-2022/statnews-2022-09-17T12:54:47.550458-04:00.jpg">September 17 at 12:54 PM</a></p>
+ <p><a href="https://archive.org/download/statnews-2022/statnews-2022-09-26T03:28:32.106638-04:00.jpg">September 26 at 3:28 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/statnews-2022/statnews-2022-09-17T01:23:08.936384-04:00.jpg">
-  <img src="https://archive.org/download/statnews-2022/statnews-2022-09-17T01:23:08.936384-04:00.jpg"
-     alt="STAT at 2022-09-17 01:23:10-04:00 local time"
+ <a href="https://archive.org/download/statnews-2022/statnews-2022-09-25T14:45:06.876179-04:00.jpg">
+  <img src="https://archive.org/download/statnews-2022/statnews-2022-09-25T14:45:06.876179-04:00.jpg"
+     alt="STAT at 2022-09-25 14:45:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/statnews-2022/statnews-2022-09-17T01:23:08.936384-04:00.jpg">September 17 at 1:23 AM</a></p>
+ <p><a href="https://archive.org/download/statnews-2022/statnews-2022-09-25T14:45:06.876179-04:00.jpg">September 25 at 2:45 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/statnews-2022/statnews-2022-09-16T13:00:10.174380-04:00.jpg">
-  <img src="https://archive.org/download/statnews-2022/statnews-2022-09-16T13:00:10.174380-04:00.jpg"
-     alt="STAT at 2022-09-16 13:00:11-04:00 local time"
+ <a href="https://archive.org/download/statnews-2022/statnews-2022-09-25T02:59:36.648518-04:00.jpg">
+  <img src="https://archive.org/download/statnews-2022/statnews-2022-09-25T02:59:36.648518-04:00.jpg"
+     alt="STAT at 2022-09-25 02:59:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/statnews-2022/statnews-2022-09-16T13:00:10.174380-04:00.jpg">September 16 at 1:00 PM</a></p>
+ <p><a href="https://archive.org/download/statnews-2022/statnews-2022-09-25T02:59:36.648518-04:00.jpg">September 25 at 2:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/statnews-2022/statnews-2022-09-16T01:32:33.782164-04:00.jpg">
-  <img src="https://archive.org/download/statnews-2022/statnews-2022-09-16T01:32:33.782164-04:00.jpg"
-     alt="STAT at 2022-09-16 01:32:38-04:00 local time"
+ <a href="https://archive.org/download/statnews-2022/statnews-2022-09-24T14:38:08.019033-04:00.jpg">
+  <img src="https://archive.org/download/statnews-2022/statnews-2022-09-24T14:38:08.019033-04:00.jpg"
+     alt="STAT at 2022-09-24 14:38:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/statnews-2022/statnews-2022-09-16T01:32:33.782164-04:00.jpg">September 16 at 1:32 AM</a></p>
+ <p><a href="https://archive.org/download/statnews-2022/statnews-2022-09-24T14:38:08.019033-04:00.jpg">September 24 at 2:38 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/statnews-2022/statnews-2022-09-15T13:14:47.931598-04:00.jpg">
-  <img src="https://archive.org/download/statnews-2022/statnews-2022-09-15T13:14:47.931598-04:00.jpg"
-     alt="STAT at 2022-09-15 13:14:55-04:00 local time"
+ <a href="https://archive.org/download/statnews-2022/statnews-2022-09-24T03:01:47.582657-04:00.jpg">
+  <img src="https://archive.org/download/statnews-2022/statnews-2022-09-24T03:01:47.582657-04:00.jpg"
+     alt="STAT at 2022-09-24 03:01:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/statnews-2022/statnews-2022-09-15T13:14:47.931598-04:00.jpg">September 15 at 1:14 PM</a></p>
+ <p><a href="https://archive.org/download/statnews-2022/statnews-2022-09-24T03:01:47.582657-04:00.jpg">September 24 at 3:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/statnews-2022/statnews-2022-09-15T01:31:31.725045-04:00.jpg">
-  <img src="https://archive.org/download/statnews-2022/statnews-2022-09-15T01:31:31.725045-04:00.jpg"
-     alt="STAT at 2022-09-15 01:31:33-04:00 local time"
+ <a href="https://archive.org/download/statnews-2022/statnews-2022-09-23T15:17:53.399934-04:00.jpg">
+  <img src="https://archive.org/download/statnews-2022/statnews-2022-09-23T15:17:53.399934-04:00.jpg"
+     alt="STAT at 2022-09-23 15:18:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/statnews-2022/statnews-2022-09-15T01:31:31.725045-04:00.jpg">September 15 at 1:31 AM</a></p>
+ <p><a href="https://archive.org/download/statnews-2022/statnews-2022-09-23T15:17:53.399934-04:00.jpg">September 23 at 3:18 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/statnews-2022/statnews-2022-09-14T13:17:56.249709-04:00.jpg">
-  <img src="https://archive.org/download/statnews-2022/statnews-2022-09-14T13:17:56.249709-04:00.jpg"
-     alt="STAT at 2022-09-14 13:18:01-04:00 local time"
+ <a href="https://archive.org/download/statnews-2022/statnews-2022-09-23T03:23:21.247910-04:00.jpg">
+  <img src="https://archive.org/download/statnews-2022/statnews-2022-09-23T03:23:21.247910-04:00.jpg"
+     alt="STAT at 2022-09-23 03:23:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/statnews-2022/statnews-2022-09-14T13:17:56.249709-04:00.jpg">September 14 at 1:18 PM</a></p>
+ <p><a href="https://archive.org/download/statnews-2022/statnews-2022-09-23T03:23:21.247910-04:00.jpg">September 23 at 3:23 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/statnews-2022/statnews-2022-09-14T01:37:57.136080-04:00.jpg">
-  <img src="https://archive.org/download/statnews-2022/statnews-2022-09-14T01:37:57.136080-04:00.jpg"
-     alt="STAT at 2022-09-14 01:37:58-04:00 local time"
+ <a href="https://archive.org/download/statnews-2022/statnews-2022-09-22T14:49:43.122798-04:00.jpg">
+  <img src="https://archive.org/download/statnews-2022/statnews-2022-09-22T14:49:43.122798-04:00.jpg"
+     alt="STAT at 2022-09-22 14:49:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/statnews-2022/statnews-2022-09-14T01:37:57.136080-04:00.jpg">September 14 at 1:37 AM</a></p>
+ <p><a href="https://archive.org/download/statnews-2022/statnews-2022-09-22T14:49:43.122798-04:00.jpg">September 22 at 2:49 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 116 hyperlink lists with the Internet Archive.
+The archiving routine has saved 133 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 19 at 1:27 PM](https://archive.org/download/statnews-2022/statnews-2022-09-19T13:26:52.575379-04:00.hyperlinks.json) |
-| [September 19 at 1:58 AM](https://archive.org/download/statnews-2022/statnews-2022-09-19T01:58:10.459086-04:00.hyperlinks.json) |
-| [September 18 at 1:17 PM](https://archive.org/download/statnews-2022/statnews-2022-09-18T13:17:24.652191-04:00.hyperlinks.json) |
-| [September 18 at 1:29 AM](https://archive.org/download/statnews-2022/statnews-2022-09-18T01:29:25.587781-04:00.hyperlinks.json) |
-| [September 17 at 12:55 PM](https://archive.org/download/statnews-2022/statnews-2022-09-17T12:54:47.550458-04:00.hyperlinks.json) |
-| [September 17 at 1:23 AM](https://archive.org/download/statnews-2022/statnews-2022-09-17T01:23:08.936384-04:00.hyperlinks.json) |
-| [September 16 at 1:00 PM](https://archive.org/download/statnews-2022/statnews-2022-09-16T13:00:10.174380-04:00.hyperlinks.json) |
-| [September 16 at 1:32 AM](https://archive.org/download/statnews-2022/statnews-2022-09-16T01:32:33.782164-04:00.hyperlinks.json) |
-| [September 15 at 1:14 PM](https://archive.org/download/statnews-2022/statnews-2022-09-15T13:14:47.931598-04:00.hyperlinks.json) |
-| [September 15 at 1:31 AM](https://archive.org/download/statnews-2022/statnews-2022-09-15T01:31:31.725045-04:00.hyperlinks.json) |
+| [September 28 at 3:53 AM](https://archive.org/download/statnews-2022/statnews-2022-09-28T03:53:14.575152-04:00.hyperlinks.json) |
+| [September 27 at 3:41 PM](https://archive.org/download/statnews-2022/statnews-2022-09-27T15:40:55.360649-04:00.hyperlinks.json) |
+| [September 27 at 3:01 AM](https://archive.org/download/statnews-2022/statnews-2022-09-27T03:01:50.963186-04:00.hyperlinks.json) |
+| [September 26 at 3:07 PM](https://archive.org/download/statnews-2022/statnews-2022-09-26T15:06:55.805916-04:00.hyperlinks.json) |
+| [September 26 at 3:28 AM](https://archive.org/download/statnews-2022/statnews-2022-09-26T03:28:32.106638-04:00.hyperlinks.json) |
+| [September 25 at 2:45 PM](https://archive.org/download/statnews-2022/statnews-2022-09-25T14:45:06.876179-04:00.hyperlinks.json) |
+| [September 25 at 2:59 AM](https://archive.org/download/statnews-2022/statnews-2022-09-25T02:59:36.648518-04:00.hyperlinks.json) |
+| [September 24 at 2:38 PM](https://archive.org/download/statnews-2022/statnews-2022-09-24T14:38:08.019033-04:00.hyperlinks.json) |
+| [September 24 at 3:02 AM](https://archive.org/download/statnews-2022/statnews-2022-09-24T03:01:47.582657-04:00.hyperlinks.json) |
+| [September 23 at 3:18 PM](https://archive.org/download/statnews-2022/statnews-2022-09-23T15:17:53.399934-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 117 accessibility trees with the Internet Archive.
+The archiving routine has saved 133 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 19 at 1:27 PM](https://archive.org/download/statnews-2022/statnews-2022-09-19T13:26:52.575379-04:00.accessibility.json) |
-| [September 19 at 1:58 AM](https://archive.org/download/statnews-2022/statnews-2022-09-19T01:58:10.459086-04:00.accessibility.json) |
-| [September 18 at 1:17 PM](https://archive.org/download/statnews-2022/statnews-2022-09-18T13:17:24.652191-04:00.accessibility.json) |
-| [September 18 at 1:29 AM](https://archive.org/download/statnews-2022/statnews-2022-09-18T01:29:25.587781-04:00.accessibility.json) |
-| [September 17 at 12:54 PM](https://archive.org/download/statnews-2022/statnews-2022-09-17T12:54:47.550458-04:00.accessibility.json) |
-| [September 17 at 1:23 AM](https://archive.org/download/statnews-2022/statnews-2022-09-17T01:23:08.936384-04:00.accessibility.json) |
-| [September 16 at 1:00 PM](https://archive.org/download/statnews-2022/statnews-2022-09-16T13:00:10.174380-04:00.accessibility.json) |
-| [September 16 at 1:32 AM](https://archive.org/download/statnews-2022/statnews-2022-09-16T01:32:33.782164-04:00.accessibility.json) |
-| [September 15 at 1:14 PM](https://archive.org/download/statnews-2022/statnews-2022-09-15T13:14:47.931598-04:00.accessibility.json) |
-| [September 15 at 1:31 AM](https://archive.org/download/statnews-2022/statnews-2022-09-15T01:31:31.725045-04:00.accessibility.json) |
+| [September 28 at 3:53 AM](https://archive.org/download/statnews-2022/statnews-2022-09-28T03:53:14.575152-04:00.accessibility.json) |
+| [September 27 at 3:41 PM](https://archive.org/download/statnews-2022/statnews-2022-09-27T15:40:55.360649-04:00.accessibility.json) |
+| [September 27 at 3:01 AM](https://archive.org/download/statnews-2022/statnews-2022-09-27T03:01:50.963186-04:00.accessibility.json) |
+| [September 26 at 3:07 PM](https://archive.org/download/statnews-2022/statnews-2022-09-26T15:06:55.805916-04:00.accessibility.json) |
+| [September 26 at 3:28 AM](https://archive.org/download/statnews-2022/statnews-2022-09-26T03:28:32.106638-04:00.accessibility.json) |
+| [September 25 at 2:45 PM](https://archive.org/download/statnews-2022/statnews-2022-09-25T14:45:06.876179-04:00.accessibility.json) |
+| [September 25 at 2:59 AM](https://archive.org/download/statnews-2022/statnews-2022-09-25T02:59:36.648518-04:00.accessibility.json) |
+| [September 24 at 2:38 PM](https://archive.org/download/statnews-2022/statnews-2022-09-24T14:38:08.019033-04:00.accessibility.json) |
+| [September 24 at 3:01 AM](https://archive.org/download/statnews-2022/statnews-2022-09-24T03:01:47.582657-04:00.accessibility.json) |
+| [September 23 at 3:18 PM](https://archive.org/download/statnews-2022/statnews-2022-09-23T15:17:53.399934-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 115 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 19 at 1:27 PM](https://archive.org/download/statnews-2022/statnews-2022-09-19T13:26:52.575379-04:00.lighthouse.json) |
-| [September 19 at 1:58 AM](https://archive.org/download/statnews-2022/statnews-2022-09-19T01:58:10.459086-04:00.lighthouse.json) |
-| [September 18 at 1:17 PM](https://archive.org/download/statnews-2022/statnews-2022-09-18T13:17:24.652191-04:00.lighthouse.json) |
-| [September 18 at 1:29 AM](https://archive.org/download/statnews-2022/statnews-2022-09-18T01:29:25.587781-04:00.lighthouse.json) |
-| [September 17 at 12:55 PM](https://archive.org/download/statnews-2022/statnews-2022-09-17T12:54:47.550458-04:00.lighthouse.json) |
-| [September 17 at 1:23 AM](https://archive.org/download/statnews-2022/statnews-2022-09-17T01:23:08.936384-04:00.lighthouse.json) |
-| [September 16 at 1:00 PM](https://archive.org/download/statnews-2022/statnews-2022-09-16T13:00:10.174380-04:00.lighthouse.json) |
-| [September 16 at 1:32 AM](https://archive.org/download/statnews-2022/statnews-2022-09-16T01:32:33.782164-04:00.lighthouse.json) |
-| [September 15 at 1:15 PM](https://archive.org/download/statnews-2022/statnews-2022-09-15T13:14:47.931598-04:00.lighthouse.json) |
-| [September 15 at 1:31 AM](https://archive.org/download/statnews-2022/statnews-2022-09-15T01:31:31.725045-04:00.lighthouse.json) |
+| [September 28 at 3:53 AM](https://archive.org/download/statnews-2022/statnews-2022-09-28T03:53:14.575152-04:00.lighthouse.json) |
+| [September 27 at 3:41 PM](https://archive.org/download/statnews-2022/statnews-2022-09-27T15:40:55.360649-04:00.lighthouse.json) |
+| [September 27 at 3:01 AM](https://archive.org/download/statnews-2022/statnews-2022-09-27T03:01:50.963186-04:00.lighthouse.json) |
+| [September 26 at 3:07 PM](https://archive.org/download/statnews-2022/statnews-2022-09-26T15:06:55.805916-04:00.lighthouse.json) |
+| [September 26 at 3:28 AM](https://archive.org/download/statnews-2022/statnews-2022-09-26T03:28:32.106638-04:00.lighthouse.json) |
+| [September 25 at 2:45 PM](https://archive.org/download/statnews-2022/statnews-2022-09-25T14:45:06.876179-04:00.lighthouse.json) |
+| [September 25 at 2:59 AM](https://archive.org/download/statnews-2022/statnews-2022-09-25T02:59:36.648518-04:00.lighthouse.json) |
+| [September 24 at 2:38 PM](https://archive.org/download/statnews-2022/statnews-2022-09-24T14:38:08.019033-04:00.lighthouse.json) |
+| [September 24 at 3:02 AM](https://archive.org/download/statnews-2022/statnews-2022-09-24T03:01:47.582657-04:00.lighthouse.json) |
+| [September 23 at 3:18 PM](https://archive.org/download/statnews-2022/statnews-2022-09-23T15:17:53.399934-04:00.lighthouse.json) |
 
 
 
