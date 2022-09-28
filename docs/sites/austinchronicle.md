@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 148 screenshots with the Internet Archive.
+The archiving routine has saved 149 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 148 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-28T17:54:48.360169-05:00.jpg">
+  <img src="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-28T17:54:48.360169-05:00.jpg"
+     alt="Austin Chronicle at 2022-09-28 17:54:54-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-28T17:54:48.360169-05:00.jpg">September 28 at 5:54 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-28T06:04:43.771423-05:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-23T05:48:56.447808-05:00.jpg">September 23 at 5:49 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-22T17:50:53.523954-05:00.jpg">
-  <img src="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-22T17:50:53.523954-05:00.jpg"
-     alt="Austin Chronicle at 2022-09-22 17:51:00-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-22T17:50:53.523954-05:00.jpg">September 22 at 5:51 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 149 hyperlink lists with the Internet Archive.
+The archiving routine has saved 150 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 5:54 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-28T17:54:48.360169-05:00.hyperlinks.json) |
 | [September 28 at 6:04 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-28T06:04:43.771423-05:00.hyperlinks.json) |
 | [September 27 at 5:55 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-27T17:55:51.766828-05:00.hyperlinks.json) |
 | [September 27 at 5:55 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-27T05:55:14.830777-05:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 5:42 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-25T05:42:20.758960-05:00.hyperlinks.json) |
 | [September 24 at 5:42 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-24T17:42:15.219069-05:00.hyperlinks.json) |
 | [September 24 at 5:44 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-24T05:44:31.457154-05:00.hyperlinks.json) |
-| [September 23 at 6:52 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-23T18:52:38.187911-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 149 accessibility trees with the Internet Archive.
+The archiving routine has saved 150 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 5:54 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-28T17:54:48.360169-05:00.accessibility.json) |
 | [September 28 at 6:04 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-28T06:04:43.771423-05:00.accessibility.json) |
 | [September 27 at 5:55 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-27T17:55:51.766828-05:00.accessibility.json) |
 | [September 27 at 5:55 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-27T05:55:14.830777-05:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 5:42 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-25T05:42:20.758960-05:00.accessibility.json) |
 | [September 24 at 5:42 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-24T17:42:15.219069-05:00.accessibility.json) |
 | [September 24 at 5:44 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-24T05:44:31.457154-05:00.accessibility.json) |
-| [September 23 at 6:52 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-23T18:52:38.187911-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 136 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 137 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 5:54 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-28T17:54:48.360169-05:00.lighthouse.json) |
 | [September 28 at 6:04 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-28T06:04:43.771423-05:00.lighthouse.json) |
 | [September 27 at 5:55 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-27T17:55:51.766828-05:00.lighthouse.json) |
 | [September 27 at 5:55 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-27T05:55:14.830777-05:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 5:42 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-25T05:42:20.758960-05:00.lighthouse.json) |
 | [September 24 at 5:42 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-24T17:42:15.219069-05:00.lighthouse.json) |
 | [September 24 at 5:44 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-24T05:44:31.457154-05:00.lighthouse.json) |
-| [September 23 at 6:52 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-09-23T18:52:38.187911-05:00.lighthouse.json) |
 
 
 
