@@ -1,5 +1,5 @@
 {
-  "created": 1664349218,
+  "created": 1664387915,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/4/items/elmundoes-2022",
@@ -7262,31 +7262,82 @@
       "sha1": "7e820816906ba668c5325c4f5f71338ab7e0ac62"
     },
     {
+      "name": "elmundoes-2022-09-28T19:54:14.799249+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664387666",
+      "size": "36106",
+      "md5": "cdefff74cbc367ba01e9d678b5ac7d9f",
+      "crc32": "348396a1",
+      "sha1": "be1f4bf2c912716a52f1bbf54b7063fb9a7b2b52",
+      "format": "JSON"
+    },
+    {
+      "name": "elmundoes-2022-09-28T19:54:14.799249+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664387668",
+      "size": "48514",
+      "md5": "e9bf43dadfd5905e6b9b2fde94e93c12",
+      "crc32": "58913fee",
+      "sha1": "f0715a3708c5cc95bde414f8ea07891bfb7be029",
+      "format": "JSON"
+    },
+    {
+      "name": "elmundoes-2022-09-28T19:54:14.799249+02:00.jpg",
+      "source": "original",
+      "mtime": "1664387663",
+      "size": "282229",
+      "md5": "e51e3a458af31ad0dfb28cf0c364cbcb",
+      "crc32": "ddafb8bc",
+      "sha1": "a93cb47645312ad83f09ca226ab32c841f9f5582",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elmundoes-2022-09-28T19:54:14.799249+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664387672",
+      "size": "1459",
+      "md5": "6bb7fee41f5bc515ba905c7d57f95df8",
+      "crc32": "e420cbf8",
+      "sha1": "3024163f068be35a7217bcc16b00f03daf7893fa",
+      "format": "JSON"
+    },
+    {
+      "name": "elmundoes-2022-09-28T19:54:14.799249+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664387674",
+      "size": "29894",
+      "md5": "79ff2897f084267ca93ed2ecec2b49a3",
+      "crc32": "2d80bbb5",
+      "sha1": "2502306dce1eecb5718d36ce413227d490703173",
+      "format": "JSON"
+    },
+    {
       "name": "elmundoes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "73a4fb4f79e7bb0ca87f97919ce5f24f20d1f6ed",
-      "mtime": "1664348277",
-      "size": "149809",
-      "md5": "6109557870915259f0c7a5bb4157c3bf",
-      "crc32": "abb05a34",
-      "sha1": "704c9de2251323bc4abd21c884d8b0f8dbcb721a",
+      "btih": "512ca949743f924bfa2a8db3fd9f4477aeeaf972",
+      "mtime": "1664387905",
+      "size": "150877",
+      "md5": "c6a5ccf00adc4382628bc35e1b1ab457",
+      "crc32": "488814f0",
+      "sha1": "5a1a19c73d80817c26afb1dfa443335e032ee3ee",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elmundoes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "993c274bb8de9afd0bcb9bfb166a2dfc",
+      "md5": "3898c726040574c7043d46fde70bfa43",
       "summation": "md5"
     },
     {
       "name": "elmundoes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664346122",
-      "size": "909312",
-      "md5": "d063ee87a7028822c10617f5b1193c7e",
-      "crc32": "6c8ebafe",
-      "sha1": "20f7d86d9abde8578605cb5cbc521dd4053b915f",
+      "mtime": "1664387861",
+      "size": "913408",
+      "md5": "6de72eacf8919fc06a9df2003d475806",
+      "crc32": "87c625fb",
+      "sha1": "23d6b6df4b51dd5ed629cd4fb9518452dc6b7dac",
       "format": "Metadata"
     },
     {
@@ -7300,9 +7351,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 706,
-  "item_last_updated": 1664348277,
-  "item_size": 49369229,
+  "files_count": 711,
+  "item_last_updated": 1664387905,
+  "item_size": 49772595,
   "metadata": {
     "identifier": "elmundoes-2022",
     "collection": [
@@ -7319,10 +7370,21 @@
     "publicdate": "2022-07-28 18:53:52",
     "addeddate": "2022-07-28 18:53:52"
   },
+  "pending_tasks": true,
   "server": "ia601405.us.archive.org",
-  "uniq": 1509832310,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3421275470,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1087926254,
   "workable_servers": [
-    "ia601405.us.archive.org",
-    "ia801405.us.archive.org"
+    "ia601405.us.archive.org"
   ]
 }

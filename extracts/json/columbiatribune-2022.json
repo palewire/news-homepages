@@ -1,5 +1,5 @@
 {
-  "created": 1664347738,
+  "created": 1664387251,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/8/items/columbiatribune-2022",
@@ -998,31 +998,82 @@
       "sha1": "d3e92a3c279360345f3c1b5e672cca2018b389a2"
     },
     {
+      "name": "columbiatribune-2022-09-28T12:45:40.074099-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664387144",
+      "size": "22009",
+      "md5": "b9d52660d37ca90cc5387bdb981a9132",
+      "crc32": "797a4636",
+      "sha1": "5b1014097020da85eee71bf23dec01fa5c16e444",
+      "format": "JSON"
+    },
+    {
+      "name": "columbiatribune-2022-09-28T12:45:40.074099-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664387146",
+      "size": "34001",
+      "md5": "b6cd8044470777935e01efd236bc7499",
+      "crc32": "b0a52f59",
+      "sha1": "49e44e9edca6f7a5f12b50a1cae7aafb7e29c2c7",
+      "format": "JSON"
+    },
+    {
+      "name": "columbiatribune-2022-09-28T12:45:40.074099-05:00.jpg",
+      "source": "original",
+      "mtime": "1664387142",
+      "size": "283419",
+      "md5": "da49ed7f7182c41c8e096044e3fd59a8",
+      "crc32": "a3cd51ab",
+      "sha1": "8b66dc98e41ebe982ec5bc98ddef03bf7b1211e7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "columbiatribune-2022-09-28T12:45:40.074099-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664387148",
+      "size": "1539",
+      "md5": "c8d1e8f83ea3aeffa361633d60cd5b26",
+      "crc32": "9bbbe13e",
+      "sha1": "19d4eafbe0e1f85223b5ad5f6f9a21028e9b62ff",
+      "format": "JSON"
+    },
+    {
+      "name": "columbiatribune-2022-09-28T12:45:40.074099-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664387150",
+      "size": "124077",
+      "md5": "7bb16060a93d8756aac9a17cd5b2f6c0",
+      "crc32": "97f4bb3c",
+      "sha1": "117c9d0c2ed02c4f13afa95b0006a37e002ab6b4",
+      "format": "JSON"
+    },
+    {
       "name": "columbiatribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1bccd23dd174773fe51cee0aa55dacea1de2a312",
-      "mtime": "1664347726",
-      "size": "22367",
-      "md5": "89ae5ccd8a7d7d212998fbb4c80df656",
-      "crc32": "7c94b044",
-      "sha1": "9e6ffa169ae52c4b60b9f410102a0fb6d3699ae6",
+      "btih": "72e350026a5d7d611a69c85712648c9be92c2d0f",
+      "mtime": "1664387246",
+      "size": "23466",
+      "md5": "9b7a42008226b906c34f9be270148c65",
+      "crc32": "27c40f07",
+      "sha1": "1c687bde338956124e5b2beb1f9681eeab6e03e0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "columbiatribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7663d8f6a4ff0357c330f6f716194f96",
+      "md5": "1b5880d89195c555be9340805b2a79a0",
       "summation": "md5"
     },
     {
       "name": "columbiatribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664345690",
-      "size": "147456",
-      "md5": "2c191d2628af82c3152773e500e957cc",
-      "crc32": "b8e18e63",
-      "sha1": "e0d92eabf0fd4af2ee2347e1f36d4de7e5741470",
+      "mtime": "1664387211",
+      "size": "151552",
+      "md5": "36bdb3b481f7651f8905ddc3a605dbcc",
+      "crc32": "1a91c7d4",
+      "sha1": "46f2f17454676522f508a35543fbed485bdbce08",
       "format": "Metadata"
     },
     {
@@ -1036,9 +1087,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 100,
-  "item_last_updated": 1664347726,
-  "item_size": 7305023,
+  "files_count": 105,
+  "item_last_updated": 1664387246,
+  "item_size": 7775263,
   "metadata": {
     "identifier": "columbiatribune-2022",
     "collection": [
@@ -1055,10 +1106,21 @@
     "publicdate": "2022-09-20 17:40:34",
     "addeddate": "2022-09-20 17:40:34"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 1607972101,
+  "pending_tasks": true,
+  "server": "ia601404.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3421265773,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 159918905,
   "workable_servers": [
-    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }

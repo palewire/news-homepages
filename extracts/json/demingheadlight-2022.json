@@ -1,7 +1,12 @@
 {
-  "created": 1664348116,
+  "created": 1664391983,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
+  "demingheadlight-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "dir": "/3/items/demingheadlight-2022",
   "files": [
     {
@@ -998,31 +1003,82 @@
       "sha1": "e7b2be786c1bf1ac25954a2b8d92fb28a56903fd"
     },
     {
+      "name": "demingheadlight-2022-09-28T11:54:35.438309-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664387681",
+      "size": "21531",
+      "md5": "d57614feb361a1362d4597f95d053713",
+      "crc32": "2a3562b5",
+      "sha1": "92f70cc2cf080ae26c2f1d8d6244a2f25fe511f4",
+      "format": "JSON"
+    },
+    {
+      "name": "demingheadlight-2022-09-28T11:54:35.438309-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664387684",
+      "size": "31456",
+      "md5": "9620814c76ac335184d365f77e2af56b",
+      "crc32": "07fc9018",
+      "sha1": "a6577b620e0338b0b17e2bb16e0ed4a6478455cc",
+      "format": "JSON"
+    },
+    {
+      "name": "demingheadlight-2022-09-28T11:54:35.438309-06:00.jpg",
+      "source": "original",
+      "mtime": "1664387677",
+      "size": "261806",
+      "md5": "e768d412fb6a6da2f00164775bac70d0",
+      "crc32": "0fad5beb",
+      "sha1": "7646b6029fc4b32a9e038d9fdd956dc6adb82fbf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "demingheadlight-2022-09-28T11:54:35.438309-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664387686",
+      "size": "1540",
+      "md5": "4e1ce29a6f066a64a8a8fc6a1c7ba311",
+      "crc32": "e8bb333e",
+      "sha1": "cd9f3b06906ea3997d9c7b53a37b5940f93827ae",
+      "format": "JSON"
+    },
+    {
+      "name": "demingheadlight-2022-09-28T11:54:35.438309-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1664387689",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "demingheadlight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c0980f00d09653b2c2d88281ab74c6d37d71494f",
-      "mtime": "1664348090",
-      "size": "22306",
-      "md5": "9e15b4794b3241279739dc82072deec8",
-      "crc32": "a89ea031",
-      "sha1": "212692eb90cc0c51082f679a2dd667778c70bba2",
+      "btih": "9009063902690b4667a0ec3af8be3c01e32f12cf",
+      "mtime": "1664387735",
+      "size": "23402",
+      "md5": "d5e5f4d2abd8f71ead08df42095c3547",
+      "crc32": "106b4aa2",
+      "sha1": "72047fa7c0cc4af34cf063349598380b7377842b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "demingheadlight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dc5601acd83d599d11f56e58ac72b330",
+      "md5": "8d7d047bb8da304f566d6660a828f63a",
       "summation": "md5"
     },
     {
       "name": "demingheadlight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664346122",
-      "size": "147456",
-      "md5": "99bc4fa9a0e4c8a8daea3ebd882c84b9",
-      "crc32": "d9a34eb0",
-      "sha1": "f1c6f7eefe8845bea8de03750677c62654f7e225",
+      "mtime": "1664387693",
+      "size": "151552",
+      "md5": "5a250e5fcec1917bebf0b3baddee811c",
+      "crc32": "65e1097a",
+      "sha1": "ebdebc19d65c8bee1f033c9f461bf74b7ffa0a60",
       "format": "Metadata"
     },
     {
@@ -1036,9 +1092,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 100,
-  "item_last_updated": 1664348090,
-  "item_size": 6237499,
+  "files_count": 105,
+  "item_last_updated": 1664387735,
+  "item_size": 6559226,
   "metadata": {
     "identifier": "demingheadlight-2022",
     "collection": [
@@ -1055,10 +1111,21 @@
     "publicdate": "2022-09-20 17:45:10",
     "addeddate": "2022-09-20 17:45:10"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 312398582,
+  "pending_tasks": true,
+  "server": "ia601508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3421273193,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1912401566,
   "workable_servers": [
-    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

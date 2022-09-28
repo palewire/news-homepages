@@ -1,5 +1,5 @@
 {
-  "created": 1664348307,
+  "created": 1664387843,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/17/items/gadsdentimes-2022",
@@ -1008,31 +1008,82 @@
       "sha1": "6aec7715b6edb8bd376818e4b29bc8bee802d4dd"
     },
     {
+      "name": "gadsdentimes-2022-09-28T12:56:21.178777-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664387785",
+      "size": "22604",
+      "md5": "de1601ee281576d899199f8cc54495d9",
+      "crc32": "ed95abb2",
+      "sha1": "238c552717737dbd8389f7a9ed859e777df9cbc0",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-09-28T12:56:21.178777-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664387787",
+      "size": "36017",
+      "md5": "b37291aa7404199d347685581510ccc6",
+      "crc32": "c7acc318",
+      "sha1": "819d1e6c57dfb2d962384d4a552197153ab76baa",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-09-28T12:56:21.178777-05:00.jpg",
+      "source": "original",
+      "mtime": "1664387783",
+      "size": "251168",
+      "md5": "3885c4288e6acb7a8a27cccf6344ccf0",
+      "crc32": "ce9c66ad",
+      "sha1": "0000df1ce538d7f6e97731d68918194febbbd6f2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gadsdentimes-2022-09-28T12:56:21.178777-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664387789",
+      "size": "1512",
+      "md5": "476bf8dc49f18f6e4bd83133e5e7ebaf",
+      "crc32": "ddd8a35e",
+      "sha1": "b83a5802b3fc4ac4a113aeb2ce3bceec65cdbf89",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-09-28T12:56:21.178777-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664387791",
+      "size": "93797",
+      "md5": "a754f0bc6a4343bfbeced5a93daf7533",
+      "crc32": "1f46962b",
+      "sha1": "beed81906d75b4d7a898da23cead025b622598a8",
+      "format": "JSON"
+    },
+    {
       "name": "gadsdentimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "33da0c79e5f2a0d69ae7edca9357abc3b09e6f31",
-      "mtime": "1664348278",
-      "size": "22235",
-      "md5": "772d32770d83fb2f6c2c2ea1041ead60",
-      "crc32": "a669e506",
-      "sha1": "ce2724a5514baf7d8487fcf80a24fa4063c4d50a",
+      "btih": "9b86f07e19848a6cca7f68a49e16470fece0d384",
+      "mtime": "1664387834",
+      "size": "23318",
+      "md5": "5a025cebea65efc499aa41338832cd89",
+      "crc32": "d3f561e1",
+      "sha1": "03b5708070e678124ddeea1573516f8c59e9b370",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gadsdentimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "14abbd74f23df5ac635c375825e0d2da",
+      "md5": "d348ecd1f8bfa5a53e2e0b2a2c225ce1",
       "summation": "md5"
     },
     {
       "name": "gadsdentimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664346441",
-      "size": "147456",
-      "md5": "e3249d28fd85165a90b2862b1e019665",
-      "crc32": "a4a21da8",
-      "sha1": "bfe35447aac483d950b751cc0106dbc79151e121",
+      "mtime": "1664387798",
+      "size": "155648",
+      "md5": "9fc20868f95a1127efc3540851d6553a",
+      "crc32": "664600b3",
+      "sha1": "97115035f7f9f78e7a352e1053e6ee168da21bd2",
       "format": "Metadata"
     },
     {
@@ -1046,9 +1097,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 101,
-  "item_last_updated": 1664348278,
-  "item_size": 6545080,
+  "files_count": 106,
+  "item_last_updated": 1664387834,
+  "item_size": 6959453,
   "metadata": {
     "identifier": "gadsdentimes-2022",
     "collection": [
@@ -1065,10 +1116,21 @@
     "publicdate": "2022-09-20 17:53:32",
     "addeddate": "2022-09-20 17:53:32"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 1337997486,
+  "pending_tasks": true,
+  "server": "ia601505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3421274522,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 4905806,
   "workable_servers": [
-    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

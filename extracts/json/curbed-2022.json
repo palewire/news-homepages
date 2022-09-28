@@ -1,5 +1,5 @@
 {
-  "created": 1664347924,
+  "created": 1664387250,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/24/items/curbed-2022",
@@ -9294,31 +9294,82 @@
       "sha1": "c3ce4873c70d1fb103a9b2d41b4edbfbfa0c0109"
     },
     {
+      "name": "curbed-2022-09-28T13:46:02.489412-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664387169",
+      "size": "19614",
+      "md5": "b0936401ff0fe83858e919a1c025e9c9",
+      "crc32": "0d4c4c4c",
+      "sha1": "68084c26980666a4d3d661051e640c974db7ece4",
+      "format": "JSON"
+    },
+    {
+      "name": "curbed-2022-09-28T13:46:02.489412-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664387172",
+      "size": "14991",
+      "md5": "c9fa5ec356d07c5417cfe6d8f8a50510",
+      "crc32": "1fba73fe",
+      "sha1": "477d1cf5a8833b8003daba2a2efc2746a1b1540a",
+      "format": "JSON"
+    },
+    {
+      "name": "curbed-2022-09-28T13:46:02.489412-04:00.jpg",
+      "source": "original",
+      "mtime": "1664387168",
+      "size": "238872",
+      "md5": "ada9303869c84196ed157d48edeced7b",
+      "crc32": "1d782bdc",
+      "sha1": "9d1d8cfe96cecf3ab62796b75daef75745d45896",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "curbed-2022-09-28T13:46:02.489412-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664387174",
+      "size": "1450",
+      "md5": "ff927cf790019a9335cb4aab6ebb1be4",
+      "crc32": "3a689890",
+      "sha1": "7ecfdf25e07bb811bf1c64fc51b3534fac64d5d3",
+      "format": "JSON"
+    },
+    {
+      "name": "curbed-2022-09-28T13:46:02.489412-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664387176",
+      "size": "74774",
+      "md5": "63e04747698695f6ab93d039c1561616",
+      "crc32": "4826e35b",
+      "sha1": "12c7a0213f9c57add0551daf13924b550007c9ca",
+      "format": "JSON"
+    },
+    {
       "name": "curbed-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e5880ba4bb87c2fe958947e254a48054f61a5876",
-      "mtime": "1664347904",
-      "size": "187690",
-      "md5": "00819af7cf52519495ed3d95c21c282a",
-      "crc32": "7ea61604",
-      "sha1": "460c94beafda18ca281b221bbdd5f93b1147adc0",
+      "btih": "f5bbce6c81ef1ef826a6742df84a2c4073055f37",
+      "mtime": "1664387234",
+      "size": "188743",
+      "md5": "93f047b251efdc9b63cc084f131cb311",
+      "crc32": "09f5e273",
+      "sha1": "391bb287f8726d7db147ba28a3f2a3b3cdf73e4f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "curbed-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d4c5df314933cded00c0b15af64897d7",
+      "md5": "86ad2fcce43ccf0b78881acef1f6258b",
       "summation": "md5"
     },
     {
       "name": "curbed-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664345807",
-      "size": "1126400",
-      "md5": "d3c2c0a76bf4a48459719a413954b11b",
-      "crc32": "bfb8f4d4",
-      "sha1": "9c8a09aa8f03c8d9de0601ce7e2dea6c29e950dd",
+      "mtime": "1664387183",
+      "size": "1134592",
+      "md5": "8408a58e0afa4412e936e05775a49786",
+      "crc32": "032324ea",
+      "sha1": "76003e9bef010669a50bd0337134a1705ab45768",
       "format": "Metadata"
     },
     {
@@ -9332,9 +9383,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 900,
-  "item_last_updated": 1664347904,
-  "item_size": 53024537,
+  "files_count": 905,
+  "item_last_updated": 1664387234,
+  "item_size": 53383483,
   "metadata": {
     "identifier": "curbed-2022",
     "collection": [
@@ -9351,10 +9402,21 @@
     "publicdate": "2022-07-09 03:58:05",
     "addeddate": "2022-07-09 03:58:05"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 1763801850,
+  "pending_tasks": true,
+  "server": "ia601409.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3421265765,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1182385991,
   "workable_servers": [
-    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

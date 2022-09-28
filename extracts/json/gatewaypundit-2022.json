@@ -1,5 +1,5 @@
 {
-  "created": 1664351424,
+  "created": 1664387921,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/2/items/gatewaypundit-2022",
@@ -14086,31 +14086,82 @@
       "sha1": "ef7ce8db856bd66851bce4f93288a315db56653b"
     },
     {
+      "name": "gatewaypundit-2022-09-28T12:56:26.127911-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664387798",
+      "size": "37759",
+      "md5": "d77caa251f24be24c82d2f709a530630",
+      "crc32": "59f9aa77",
+      "sha1": "0d4f9b5173d40c07eb9541e2144b9206e99e2a40",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-09-28T12:56:26.127911-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664387800",
+      "size": "74825",
+      "md5": "8cf3d57b1aaabaf485c66fc88d97a53c",
+      "crc32": "a1aa67dc",
+      "sha1": "dd2359a5744293e56a1c961687176749f30f4f89",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-09-28T12:56:26.127911-05:00.jpg",
+      "source": "original",
+      "mtime": "1664387796",
+      "size": "349497",
+      "md5": "db92608e0255ce5ac653b9580d0f7beb",
+      "crc32": "feca9967",
+      "sha1": "47a1fb3488a62497a02c3d3d0fd89becfa893dfb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gatewaypundit-2022-09-28T12:56:26.127911-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664387807",
+      "size": "1549",
+      "md5": "77eeead26fe06636979efcb0ebff3616",
+      "crc32": "9b9bcc3e",
+      "sha1": "f355811e431fc7f69a330ef21017ff19247b9c27",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-09-28T12:56:26.127911-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664387809",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "gatewaypundit-2022_archive.torrent",
       "source": "metadata",
-      "btih": "889f6c80aedf38b7f3d74b3334063dec23be6579",
-      "mtime": "1664348548",
-      "size": "294803",
-      "md5": "1de097e167adbaf5065b65e3ba8d8d49",
-      "crc32": "fd59704b",
-      "sha1": "a8101d8cd6717911eaf4889935bc5d4a37cca154",
+      "btih": "a2c0a7bf835cd10b5c2ad160535ad7f577d84dff",
+      "mtime": "1664387908",
+      "size": "295889",
+      "md5": "c129f5cecac8e591d9781f97807d75db",
+      "crc32": "8cd8c157",
+      "sha1": "e8daea7fd443b74db335001ddb89cb85dfa79caa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gatewaypundit-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6b19ffcc90588fd5c814415cc76873e4",
+      "md5": "a0b3579e8d0002535dc53c9bb0809b6b",
       "summation": "md5"
     },
     {
       "name": "gatewaypundit-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664346455",
-      "size": "1703936",
-      "md5": "5d26a86c13262181be17b8c51948ad0f",
-      "crc32": "ee98aee3",
-      "sha1": "dab60eb5a0dcd267f3ad00b9b2f2d5b7a266efce",
+      "mtime": "1664387828",
+      "size": "1712128",
+      "md5": "6bea578fdfee5aecaa3bd1f0d4b2cbc3",
+      "crc32": "0df54218",
+      "sha1": "ce5f215b940d59a89b8caa0f781a245fa8328597",
       "format": "Metadata"
     },
     {
@@ -14124,14 +14175,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1361,
-  "gatewaypundit-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "item_last_updated": 1664348548,
-  "item_size": 120731223,
+  "files_count": 1366,
+  "item_last_updated": 1664387908,
+  "item_size": 121204333,
   "metadata": {
     "identifier": "gatewaypundit-2022",
     "collection": [
@@ -14148,10 +14194,21 @@
     "publicdate": "2022-07-02 15:24:15",
     "addeddate": "2022-07-02 15:24:15"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 596821509,
+  "pending_tasks": true,
+  "server": "ia601500.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3421275551,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1523517886,
   "workable_servers": [
-    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

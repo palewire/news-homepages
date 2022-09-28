@@ -1,13 +1,8 @@
 {
-  "created": 1664351289,
+  "created": 1664387816,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/29/items/dnyuzcom-2022",
-  "dnyuzcom-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -4415,31 +4410,82 @@
       "sha1": "3a2e0c87a4fe63e707ae35da0b50e6c9b8a2c94c"
     },
     {
+      "name": "dnyuzcom-2022-09-28T13:55:11.195639-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664387724",
+      "size": "24147",
+      "md5": "09276086ae03805e07ec214590726590",
+      "crc32": "db07489c",
+      "sha1": "bef4aa0afa5ac581a91e072e1235d7cccea42040",
+      "format": "JSON"
+    },
+    {
+      "name": "dnyuzcom-2022-09-28T13:55:11.195639-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664387726",
+      "size": "23205",
+      "md5": "2a7d5ca86f3f87b80424bb7c9391145c",
+      "crc32": "77d30074",
+      "sha1": "92195c317e4d608f2ffa97d7dad64e1fc7c8f994",
+      "format": "JSON"
+    },
+    {
+      "name": "dnyuzcom-2022-09-28T13:55:11.195639-04:00.jpg",
+      "source": "original",
+      "mtime": "1664387723",
+      "size": "345712",
+      "md5": "def312925320135c087f73f262134088",
+      "crc32": "72af9cfe",
+      "sha1": "712c5c137a5b86c79ce0f49bacfc4e4c50d034fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dnyuzcom-2022-09-28T13:55:11.195639-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664387728",
+      "size": "1414",
+      "md5": "e2dfd1706dfa0ee0d2e4a1bdd892da5f",
+      "crc32": "0493115f",
+      "sha1": "df5e844ae1dc98a20ddf684f799cc4995a2bf278",
+      "format": "JSON"
+    },
+    {
+      "name": "dnyuzcom-2022-09-28T13:55:11.195639-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664387730",
+      "size": "13713",
+      "md5": "1590ba4ea9e219688e4c4161a1230da8",
+      "crc32": "58e23363",
+      "sha1": "a460830ec16aff97f476146bbdc8f4eb3ec21384",
+      "format": "JSON"
+    },
+    {
       "name": "dnyuzcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f1c6ddb2967180b5b0b97fb6794acab060024ee2",
-      "mtime": "1664348127",
-      "size": "91122",
-      "md5": "4442937054d3eb294e03b2d1a7b6d4f5",
-      "crc32": "b05658f1",
-      "sha1": "986d969e616cbc76333ef93735470974b1e43423",
+      "btih": "f240d4e6a0a517cac39d73aac90d85951b397ef6",
+      "mtime": "1664387802",
+      "size": "92185",
+      "md5": "209174ca8a5eee9c7f6ded62da347051",
+      "crc32": "ac53b9c9",
+      "sha1": "bffd19b1f8ee94f3fbdab69ee79cbe519be79948",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dnyuzcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "156c8d3e7e93f20747b1998c3138cf31",
+      "md5": "ad62c2b8d499239e57cd4f1ed06f2360",
       "summation": "md5"
     },
     {
       "name": "dnyuzcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664346101",
-      "size": "557056",
-      "md5": "69f8f0caf033a1a8be572e13d6eaa9f7",
-      "crc32": "1929f1c7",
-      "sha1": "d1cb48252dab40f53f86730c5d0237b4dae5b31a",
+      "mtime": "1664387750",
+      "size": "565248",
+      "md5": "4cb6848753a8b82328f995ba214a2511",
+      "crc32": "bd4b83f9",
+      "sha1": "98458eac2775bacf478a06538731e0b511480e41",
       "format": "Metadata"
     },
     {
@@ -4453,9 +4499,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 430,
-  "item_last_updated": 1664348127,
-  "item_size": 31225996,
+  "files_count": 435,
+  "item_last_updated": 1664387802,
+  "item_size": 31643442,
   "metadata": {
     "identifier": "dnyuzcom-2022",
     "collection": [
@@ -4472,10 +4518,21 @@
     "publicdate": "2022-08-23 14:03:00",
     "addeddate": "2022-08-23 14:03:00"
   },
+  "pending_tasks": true,
   "server": "ia601406.us.archive.org",
-  "uniq": 1774141973,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3421274169,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1704537989,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia601406.us.archive.org"
   ]
 }

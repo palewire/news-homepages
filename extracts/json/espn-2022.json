@@ -1,5 +1,5 @@
 {
-  "created": 1664348278,
+  "created": 1664387872,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/2/items/espn-2022",
@@ -9558,31 +9558,82 @@
       "sha1": "e8242d4d84d55629b44d6e4efd86b3aa6ad2efdb"
     },
     {
+      "name": "espn-2022-09-28T13:56:24.975105-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664387811",
+      "size": "34632",
+      "md5": "b77afeda4ec5fd98b21591b1f82e3a76",
+      "crc32": "ca2e9a4e",
+      "sha1": "ed7c28ee0b26ebca27ef915968176f2e9f023b59",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-09-28T13:56:24.975105-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664387812",
+      "size": "115276",
+      "md5": "9d7c8e2ec493f4aca82af094cbce695a",
+      "crc32": "f935753c",
+      "sha1": "0962e0b04c9a5b842961b6ea5db52b3f3b84ca6c",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-09-28T13:56:24.975105-04:00.jpg",
+      "source": "original",
+      "mtime": "1664387809",
+      "size": "332230",
+      "md5": "9e0a1134717e50b56a843862ea8df3f5",
+      "crc32": "b50e2021",
+      "sha1": "c19f931b72d4b03664b93f7d5cddd44a49f5e681",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "espn-2022-09-28T13:56:24.975105-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664387814",
+      "size": "1441",
+      "md5": "1abf7917c90d38e685b3daacf3679b45",
+      "crc32": "56adac28",
+      "sha1": "563953083e56363300c7fb252ac7580fb8c7b3eb",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-09-28T13:56:24.975105-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664387817",
+      "size": "54261",
+      "md5": "133638b9088f80e0d0a97f102c93a1da",
+      "crc32": "605fbdde",
+      "sha1": "f3cfd40e4a5a8549c939ff2f8e3538d32a74d25d",
+      "format": "JSON"
+    },
+    {
       "name": "espn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3f29cb05ae3b14ccfd057e4bf5659437de0266ba",
-      "mtime": "1664348250",
-      "size": "192844",
-      "md5": "05ea2241788871c032780a14e98a1cbb",
-      "crc32": "15475a37",
-      "sha1": "feebef3704418d0066ca0512bd339629a6b8e927",
+      "btih": "4a2f3a151dd06b0527e653ff6d06d44db0bf4ef9",
+      "mtime": "1664387864",
+      "size": "193888",
+      "md5": "3b7c7dcdc475757cc001395ecb37d039",
+      "crc32": "d7528522",
+      "sha1": "750ada2583a4e38cbffbe070c864d346ce606c64",
       "format": "Archive BitTorrent"
     },
     {
       "name": "espn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1d3823f8dc7cb1d4e4328097ba076d57",
+      "md5": "b72ef8111b7733ba68dcebc0e8644ced",
       "summation": "md5"
     },
     {
       "name": "espn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664346224",
-      "size": "1150976",
-      "md5": "8f0a59c098c34f9b578c936038f35a8a",
-      "crc32": "d3e50016",
-      "sha1": "b83cac3af395eefd908147c157cb6cd303d73436",
+      "mtime": "1664387820",
+      "size": "1159168",
+      "md5": "c7d1851ca7b10bfdc157cef02ac2771d",
+      "crc32": "921e98ee",
+      "sha1": "f95bbc76c2718f1ab3f1ce1f93bb30939fe2674e",
       "format": "Metadata"
     },
     {
@@ -9596,9 +9647,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 925,
-  "item_last_updated": 1664348250,
-  "item_size": 94177533,
+  "files_count": 930,
+  "item_last_updated": 1664387864,
+  "item_size": 94724609,
   "metadata": {
     "identifier": "espn-2022",
     "collection": [
@@ -9615,10 +9666,21 @@
     "publicdate": "2022-07-04 20:48:15",
     "addeddate": "2022-07-04 20:48:15"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 1091368138,
+  "pending_tasks": true,
+  "server": "ia902503.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3421274916,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 832158830,
   "workable_servers": [
-    "ia802503.us.archive.org",
     "ia902503.us.archive.org"
   ]
 }
