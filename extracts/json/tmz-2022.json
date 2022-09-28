@@ -1,5 +1,5 @@
 {
-  "created": 1664291286,
+  "created": 1664337340,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/14/items/tmz-2022",
@@ -8393,31 +8393,93 @@
       "format": "JSON"
     },
     {
+      "name": "tmz-2022-09-27T08:06:38.442301-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tmz-2022-09-27T08:06:38.442301-07:00.jpg",
+      "mtime": "1664293823",
+      "size": "10406",
+      "md5": "83d6a3a27e2cbab5b8b3b5d55f610ba1",
+      "crc32": "4e68462c",
+      "sha1": "527948001d2bbd3442e829f8e4646ae76fd47cc8"
+    },
+    {
+      "name": "tmz-2022-09-27T20:54:04.198193-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664337252",
+      "size": "94768",
+      "md5": "73427c745a93ef4f2b0d171b2d91f631",
+      "crc32": "2819d880",
+      "sha1": "7fb78710698f757dbe64456d9bc947988ecc157d",
+      "format": "JSON"
+    },
+    {
+      "name": "tmz-2022-09-27T20:54:04.198193-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664337253",
+      "size": "67801",
+      "md5": "194e071eaca7fda00de068bc964fae28",
+      "crc32": "1979d739",
+      "sha1": "6ed0f03e607fef9e58f9cfce93ec4f5face351bb",
+      "format": "JSON"
+    },
+    {
+      "name": "tmz-2022-09-27T20:54:04.198193-07:00.jpg",
+      "source": "original",
+      "mtime": "1664337250",
+      "size": "268531",
+      "md5": "c86f08ddb6ad3d2793bd2fd5e38962fd",
+      "crc32": "52cb6fff",
+      "sha1": "17aa8078a102cc5fe1839647d0a8beabc9b0ff7c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tmz-2022-09-27T20:54:04.198193-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664337255",
+      "size": "1428",
+      "md5": "ca9cfb19a7c21640be7e44a69f6fa638",
+      "crc32": "808998b2",
+      "sha1": "86ed21be638ace6542413c036a0903772a74cb80",
+      "format": "JSON"
+    },
+    {
+      "name": "tmz-2022-09-27T20:54:04.198193-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664337256",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "tmz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "94d57c1ec846964a7a5b5172e72c7562e069426a",
-      "mtime": "1664291265",
-      "size": "168561",
-      "md5": "9f431c6c6072ef8e7f76007620c3a1de",
-      "crc32": "80a02b20",
-      "sha1": "5c2cdb8f39e58c55d1efa828f78e6684b468ea9c",
+      "btih": "731b6f6334d5bc3c4f3f3010a38b11a8dc6bbcbf",
+      "mtime": "1664337327",
+      "size": "169777",
+      "md5": "561870fb77a27dea7cc3e71579a11f42",
+      "crc32": "b9b500ec",
+      "sha1": "3591649b2f3919764e98658982a9f75623267fba",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tmz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0232913c28fd302ded0621cd5a66f388",
+      "md5": "bb882cbb7ad1354d5edaa27ba7c565a7",
       "summation": "md5"
     },
     {
       "name": "tmz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664291216",
-      "size": "1024000",
-      "md5": "aadb8ade352652fcad52fc17e9075188",
-      "crc32": "2a86455a",
-      "sha1": "f49672585c4b3fc812b7a594549440e464a6d72d",
+      "mtime": "1664337274",
+      "size": "1032192",
+      "md5": "c9fc3465bd6457cc3eb4a701181734f5",
+      "crc32": "bc1137c2",
+      "sha1": "7ce09b86c9a5d502ade1fde6b4fe788d507d36ee",
       "format": "Metadata"
     },
     {
@@ -8431,9 +8493,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 814,
-  "item_last_updated": 1664291265,
-  "item_size": 74647370,
+  "files_count": 820,
+  "item_last_updated": 1664337327,
+  "item_size": 75099914,
   "metadata": {
     "identifier": "tmz-2022",
     "collection": [
@@ -8455,7 +8517,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3419873677,
+      "task_id": 3420589574,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8463,7 +8525,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 163123951,
+  "uniq": 285777829,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1664291209,
+  "created": 1664336924,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/19/items/thealligator-2022",
@@ -10967,31 +10967,93 @@
       "format": "JSON"
     },
     {
+      "name": "thealligator-2022-09-27T11:05:15.589816-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thealligator-2022-09-27T11:05:15.589816-04:00.jpg",
+      "mtime": "1664294641",
+      "size": "10256",
+      "md5": "477d52d3182d40fce1ef5c3993b7efd4",
+      "crc32": "b86761bf",
+      "sha1": "c863cc22fe4bb5f58ee5f48ec36a4f62a98c0379"
+    },
+    {
+      "name": "thealligator-2022-09-27T23:47:24.126086-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664336850",
+      "size": "32239",
+      "md5": "8af8540c1bd7148d680940c70b44bb3c",
+      "crc32": "9672e78f",
+      "sha1": "30aee1e7d92bfebe0be3f7a3b02c117032a1012f",
+      "format": "JSON"
+    },
+    {
+      "name": "thealligator-2022-09-27T23:47:24.126086-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664336851",
+      "size": "25314",
+      "md5": "dcedab0926a56a1a07126179fbcc749c",
+      "crc32": "fd450319",
+      "sha1": "78904fe3ad952180c68777fdc86a31697e23efa3",
+      "format": "JSON"
+    },
+    {
+      "name": "thealligator-2022-09-27T23:47:24.126086-04:00.jpg",
+      "source": "original",
+      "mtime": "1664336848",
+      "size": "334027",
+      "md5": "c3a0d0ff3e13275170576695e2d5192b",
+      "crc32": "7a9aca33",
+      "sha1": "e5b1908d7650e6f9eefae776aeaf94df87a9ef62",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thealligator-2022-09-27T23:47:24.126086-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664336853",
+      "size": "1483",
+      "md5": "931795c686eb4b278ecc212d170efe1c",
+      "crc32": "0c5738a9",
+      "sha1": "c7a76fc05777e3f54649413cd267e2dd81f3c00c",
+      "format": "JSON"
+    },
+    {
+      "name": "thealligator-2022-09-27T23:47:24.126086-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664336855",
+      "size": "65788",
+      "md5": "4e1864346ed92c98c2f0d7d33bfd4c73",
+      "crc32": "1f5b4f7c",
+      "sha1": "f1d04cfadb36fe145c56a95033de74d8ab1af6eb",
+      "format": "JSON"
+    },
+    {
       "name": "thealligator-2022_archive.torrent",
       "source": "metadata",
-      "btih": "207cdd711a9f7e82955ce726d80930cda588b354",
-      "mtime": "1664291198",
-      "size": "228022",
-      "md5": "61622e18c96a851c7b84ead4c7241ee0",
-      "crc32": "da7d9b09",
-      "sha1": "826f4cb2758cd22714195cdb20b342ee8a17a367",
+      "btih": "d940c874cd98a91ca6169e9dcf0129317e294d23",
+      "mtime": "1664336913",
+      "size": "229314",
+      "md5": "442d00174cc2554612a1a1446b6b7611",
+      "crc32": "007921e4",
+      "sha1": "ab0d85571704fbd422c4d90daac470eadc94f9e8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thealligator-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4ef1f509ae63a59cba07e0152b503141",
+      "md5": "b550744bf9bac2641d6cc2411c72821a",
       "summation": "md5"
     },
     {
       "name": "thealligator-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664291151",
-      "size": "1314816",
-      "md5": "18ecd8746c5e0d4997f9186159087104",
-      "crc32": "4a78e336",
-      "sha1": "131887ece39cce157b6e35f4c029eb517ef0e375",
+      "mtime": "1664336862",
+      "size": "1327104",
+      "md5": "914fdf89f1e312aa9b31cb584bc0e2d0",
+      "crc32": "c8c2f08b",
+      "sha1": "e388aca880f1dc1802f495e17003d39faf5d696a",
       "format": "Metadata"
     },
     {
@@ -11005,9 +11067,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1059,
-  "item_last_updated": 1664291198,
-  "item_size": 83755143,
+  "files_count": 1065,
+  "item_last_updated": 1664336913,
+  "item_size": 84237830,
   "metadata": {
     "identifier": "thealligator-2022",
     "collection": [
@@ -11029,7 +11091,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3419872566,
+      "task_id": 3420580226,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11037,7 +11099,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2033498706,
+  "uniq": 315388228,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

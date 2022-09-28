@@ -1,6 +1,5 @@
 {
-  "conflict": 1664297902,
-  "created": 1664297902,
+  "created": 1664336925,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/3/items/suntimes-2022",
@@ -15425,31 +15424,82 @@
       "sha1": "0bbe894b69140b69e89bb3a3c38c79b2be631426"
     },
     {
+      "name": "suntimes-2022-09-27T22:47:26.233889-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664336860",
+      "size": "38315",
+      "md5": "863bb567b1f1effd8011f628f93a6361",
+      "crc32": "627616be",
+      "sha1": "8f8a5be0b9af957df73e8fd4bffddec71d065c5f",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-09-27T22:47:26.233889-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664336862",
+      "size": "56534",
+      "md5": "d1492cecab64e86aa6f486d18bbd0027",
+      "crc32": "292f7ebc",
+      "sha1": "f37fdc41a1be0e2a2d7ee4c2ef1b00946b4bac09",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-09-27T22:47:26.233889-05:00.jpg",
+      "source": "original",
+      "mtime": "1664336858",
+      "size": "252756",
+      "md5": "550b3ef7eff8df037370fced44e9ca4c",
+      "crc32": "30af9158",
+      "sha1": "81a9fde25dffb77dfbe6260c01f17886835c2d91",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "suntimes-2022-09-27T22:47:26.233889-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664336864",
+      "size": "1507",
+      "md5": "0bc514dd7d42dcf80444abe039321692",
+      "crc32": "08f18ebc",
+      "sha1": "3172582f9e76a368f6ce37830aca58e65fedb55f",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-09-27T22:47:26.233889-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664336866",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "suntimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2be4cdda91ef48b59cedd16024efb817d12773ab",
-      "mtime": "1664297897",
-      "size": "313869",
-      "md5": "1d7bed0f5e431c86be9b01ae7a3d1cb7",
-      "crc32": "1c5b277d",
-      "sha1": "a331dc2ca9cdaea0c6c32df211cffc8f6d75eb78",
+      "btih": "d32c068075794090a263a5f9dde2a893ff87d60c",
+      "mtime": "1664336920",
+      "size": "314930",
+      "md5": "a8523a9f528e619fbbedfc393e24a595",
+      "crc32": "8aed710b",
+      "sha1": "aef82dd23438ce30cea87eaac528cf52bf4eaad3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "suntimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "674a9883b85bd6aeb38efb3fb56dc43a",
+      "md5": "d1b4477110f528e117af80f4b08be426",
       "summation": "md5"
     },
     {
       "name": "suntimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664295115",
-      "size": "1839104",
-      "md5": "c11d6d028a479a4cecab13f2ce98b23f",
-      "crc32": "534e6aba",
-      "sha1": "51b7300ad90ec725357984a225fee2d490f31402",
+      "mtime": "1664336869",
+      "size": "1847296",
+      "md5": "eeddb8b70a7c1564c3fd612f06d093bd",
+      "crc32": "bf0b1685",
+      "sha1": "259789de95e2aebc0441a44246da337b61dcb56f",
       "format": "Metadata"
     },
     {
@@ -15463,9 +15513,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1489,
-  "item_last_updated": 1664297897,
-  "item_size": 107468492,
+  "files_count": 1494,
+  "item_last_updated": 1664336920,
+  "item_size": 107827059,
   "metadata": {
     "identifier": "suntimes-2022",
     "collection": [
@@ -15487,23 +15537,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3419919963,
+      "task_id": 3420580246,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3419952455,
-      "cmd": "bup.php",
-      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 842694104,
+  "uniq": 185694340,
   "workable_servers": [
     "ia902503.us.archive.org"
   ]

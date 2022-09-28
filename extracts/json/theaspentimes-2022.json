@@ -1,5 +1,5 @@
 {
-  "created": 1664291204,
+  "created": 1664337068,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/0/items/theaspentimes-2022",
@@ -4347,31 +4347,93 @@
       "format": "JSON"
     },
     {
+      "name": "theaspentimes-2022-09-27T09:04:35.319594-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theaspentimes-2022-09-27T09:04:35.319594-06:00.jpg",
+      "mtime": "1664293375",
+      "size": "9538",
+      "md5": "8790323dec5344175823b5a767ac12a9",
+      "crc32": "5795422d",
+      "sha1": "6cea0a5354fd8d7f6617af3445e6eb720d0b51bd"
+    },
+    {
+      "name": "theaspentimes-2022-09-27T21:50:12.593253-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664337016",
+      "size": "18990",
+      "md5": "fa1aa84f9cd5815c71dbd0f40bc4b8e3",
+      "crc32": "92e896da",
+      "sha1": "ecbab0c2facaaf71a93043e4038fe849cb5d928f",
+      "format": "JSON"
+    },
+    {
+      "name": "theaspentimes-2022-09-27T21:50:12.593253-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664337018",
+      "size": "27254",
+      "md5": "aac5513b0c0a6a2ac45f400d6996369d",
+      "crc32": "8288a635",
+      "sha1": "70d00e5790b32e640faf82206e5bf69e4a85e4cf",
+      "format": "JSON"
+    },
+    {
+      "name": "theaspentimes-2022-09-27T21:50:12.593253-06:00.jpg",
+      "source": "original",
+      "mtime": "1664337014",
+      "size": "253623",
+      "md5": "7a06201af5b475de9a807eab1f2e97ce",
+      "crc32": "720b2c48",
+      "sha1": "970c69aa61b1aff85b01426c6ee6902f67ec84a4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theaspentimes-2022-09-27T21:50:12.593253-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664337020",
+      "size": "1495",
+      "md5": "0589571345523c4697f1ed14e2734fae",
+      "crc32": "37da862d",
+      "sha1": "0fd652e655805842c78a1f3a1501346bd9167662",
+      "format": "JSON"
+    },
+    {
+      "name": "theaspentimes-2022-09-27T21:50:12.593253-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1664337021",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "theaspentimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "156d1e15949da0e4237b8721d78f3b6729fb3623",
-      "mtime": "1664291197",
-      "size": "91677",
-      "md5": "71145d486a6b3730b471fd795d49eaaa",
-      "crc32": "b9fd11c2",
-      "sha1": "40ac2994c8ad69424a1f1dc96782508bb2d98821",
+      "btih": "2c291c7a22feaf21063a2f870ffc3ceeb85144d6",
+      "mtime": "1664337064",
+      "size": "92952",
+      "md5": "b52dd48e9308ea9da7f621af3070f0dd",
+      "crc32": "c928c369",
+      "sha1": "2693b409826fa63a07e524632d2199edc6352c2c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theaspentimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "609eeb87c20f40a669e6d7e195b4e573",
+      "md5": "8654c481816aaf8611fd565b9d485927",
       "summation": "md5"
     },
     {
       "name": "theaspentimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664291157",
-      "size": "561152",
-      "md5": "62b6b7f3ad0ff4ae600cf478babb327e",
-      "crc32": "b3eaa306",
-      "sha1": "1afd621db8b0c9fc551a6b8f9ed8f53bca4a665b",
+      "mtime": "1664337026",
+      "size": "565248",
+      "md5": "86c158ccd8eac68e7f0901138b01c916",
+      "crc32": "7a944fbb",
+      "sha1": "2bcc673a271841bafbcca21ab30db7fac1c6a34c",
       "format": "Metadata"
     },
     {
@@ -4385,9 +4447,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 424,
-  "item_last_updated": 1664291197,
-  "item_size": 23787478,
+  "files_count": 430,
+  "item_last_updated": 1664337064,
+  "item_size": 24103951,
   "metadata": {
     "identifier": "theaspentimes-2022",
     "collection": [
@@ -4409,7 +4471,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3419872465,
+      "task_id": 3420583648,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4417,7 +4479,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 50354438,
+  "uniq": 28572251,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]
