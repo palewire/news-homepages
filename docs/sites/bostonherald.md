@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 125 screenshots with the Internet Archive.
+The archiving routine has saved 126 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 125 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bostonherald-2022/bostonherald-2022-09-28T07:07:09.905402-04:00.jpg">
+  <img src="https://archive.org/download/bostonherald-2022/bostonherald-2022-09-28T07:07:09.905402-04:00.jpg"
+     alt="Boston Herald at 2022-09-28 07:07:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bostonherald-2022/bostonherald-2022-09-28T07:07:09.905402-04:00.jpg">September 28 at 7:07 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bostonherald-2022/bostonherald-2022-09-27T18:56:03.875909-04:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bostonherald-2022/bostonherald-2022-09-22T18:52:09.288741-04:00.jpg">September 22 at 6:52 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bostonherald-2022/bostonherald-2022-09-22T06:54:12.564503-04:00.jpg">
-  <img src="https://archive.org/download/bostonherald-2022/bostonherald-2022-09-22T06:54:12.564503-04:00.jpg"
-     alt="Boston Herald at 2022-09-22 06:54:17-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bostonherald-2022/bostonherald-2022-09-22T06:54:12.564503-04:00.jpg">September 22 at 6:54 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 127 hyperlink lists with the Internet Archive.
+The archiving routine has saved 128 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 7:07 AM](https://archive.org/download/bostonherald-2022/bostonherald-2022-09-28T07:07:09.905402-04:00.hyperlinks.json) |
 | [September 27 at 6:56 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-09-27T18:56:03.875909-04:00.hyperlinks.json) |
 | [September 27 at 6:57 AM](https://archive.org/download/bostonherald-2022/bostonherald-2022-09-27T06:57:17.890231-04:00.hyperlinks.json) |
 | [September 26 at 6:55 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-09-26T18:55:24.531066-04:00.hyperlinks.json) |
@@ -331,7 +332,6 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 6:43 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-09-24T18:43:43.109777-04:00.hyperlinks.json) |
 | [September 24 at 6:46 AM](https://archive.org/download/bostonherald-2022/bostonherald-2022-09-24T06:46:11.401361-04:00.hyperlinks.json) |
 | [September 23 at 7:52 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-09-23T19:52:47.378746-04:00.hyperlinks.json) |
-| [September 23 at 6:51 AM](https://archive.org/download/bostonherald-2022/bostonherald-2022-09-23T06:51:10.579447-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -442,7 +442,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 127 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 128 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 7:07 AM](https://archive.org/download/bostonherald-2022/bostonherald-2022-09-28T07:07:09.905402-04:00.lighthouse.json) |
 | [September 27 at 6:56 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-09-27T18:56:03.875909-04:00.lighthouse.json) |
 | [September 27 at 6:57 AM](https://archive.org/download/bostonherald-2022/bostonherald-2022-09-27T06:57:17.890231-04:00.lighthouse.json) |
 | [September 26 at 6:55 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-09-26T18:55:24.531066-04:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 6:43 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-09-24T18:43:43.109777-04:00.lighthouse.json) |
 | [September 24 at 6:46 AM](https://archive.org/download/bostonherald-2022/bostonherald-2022-09-24T06:46:11.401361-04:00.lighthouse.json) |
 | [September 23 at 7:53 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-09-23T19:52:47.378746-04:00.lighthouse.json) |
-| [September 23 at 6:51 AM](https://archive.org/download/bostonherald-2022/bostonherald-2022-09-23T06:51:10.579447-04:00.lighthouse.json) |
 
 
 

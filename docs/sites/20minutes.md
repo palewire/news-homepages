@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 401 screenshots with the Internet Archive.
+The archiving routine has saved 403 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,6 +120,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/20minutes-2022/20minutes-2022-09-28T13:01:59.219611+02:00.jpg">
+  <img src="https://archive.org/download/20minutes-2022/20minutes-2022-09-28T13:01:59.219611+02:00.jpg"
+     alt="20 Minutes at 2022-09-28 13:02:01+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-09-28T13:01:59.219611+02:00.jpg">September 28 at 1:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/20minutes-2022/20minutes-2022-09-28T10:19:25.092394+02:00.jpg">
+  <img src="https://archive.org/download/20minutes-2022/20minutes-2022-09-28T10:19:25.092394+02:00.jpg"
+     alt="20 Minutes at 2022-09-28 10:19:45+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-09-28T10:19:25.092394+02:00.jpg">September 28 at 10:19 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/20minutes-2022/20minutes-2022-09-28T00:52:58.189452+02:00.jpg">
   <img src="https://archive.org/download/20minutes-2022/20minutes-2022-09-28T00:52:58.189452+02:00.jpg"
      alt="20 Minutes at 2022-09-28 00:52:59+02:00 local time"
@@ -209,29 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-09-25T00:40:59.282479+02:00.jpg">September 25 at 12:41 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/20minutes-2022/20minutes-2022-09-24T12:42:37.711821+02:00.jpg">
-  <img src="https://archive.org/download/20minutes-2022/20minutes-2022-09-24T12:42:37.711821+02:00.jpg"
-     alt="20 Minutes at 2022-09-24 12:42:39+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-09-24T12:42:37.711821+02:00.jpg">September 24 at 12:42 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/20minutes-2022/20minutes-2022-09-24T10:18:38.987218+02:00.jpg">
-  <img src="https://archive.org/download/20minutes-2022/20minutes-2022-09-24T10:18:38.987218+02:00.jpg"
-     alt="20 Minutes at 2022-09-24 10:19:02+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-09-24T10:18:38.987218+02:00.jpg">September 24 at 10:19 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 402 hyperlink lists with the Internet Archive.
+The archiving routine has saved 404 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 1:02 PM](https://archive.org/download/20minutes-2022/20minutes-2022-09-28T13:01:59.219611+02:00.hyperlinks.json) |
+| [September 28 at 10:19 AM](https://archive.org/download/20minutes-2022/20minutes-2022-09-28T10:19:25.092394+02:00.hyperlinks.json) |
 | [September 28 at 12:53 AM](https://archive.org/download/20minutes-2022/20minutes-2022-09-28T00:52:58.189452+02:00.hyperlinks.json) |
 | [September 27 at 12:53 PM](https://archive.org/download/20minutes-2022/20minutes-2022-09-27T12:53:25.150978+02:00.hyperlinks.json) |
 | [September 27 at 10:21 AM](https://archive.org/download/20minutes-2022/20minutes-2022-09-27T10:20:54.042445+02:00.hyperlinks.json) |
@@ -330,13 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 10:18 AM](https://archive.org/download/20minutes-2022/20minutes-2022-09-26T10:18:04.247166+02:00.hyperlinks.json) |
 | [September 26 at 12:40 AM](https://archive.org/download/20minutes-2022/20minutes-2022-09-26T00:40:42.168232+02:00.hyperlinks.json) |
 | [September 25 at 12:40 PM](https://archive.org/download/20minutes-2022/20minutes-2022-09-25T12:40:18.047199+02:00.hyperlinks.json) |
-| [September 25 at 10:15 AM](https://archive.org/download/20minutes-2022/20minutes-2022-09-25T10:15:16.274699+02:00.hyperlinks.json) |
-| [September 25 at 12:41 AM](https://archive.org/download/20minutes-2022/20minutes-2022-09-25T00:40:59.282479+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 402 accessibility trees with the Internet Archive.
+The archiving routine has saved 404 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 1:02 PM](https://archive.org/download/20minutes-2022/20minutes-2022-09-28T13:01:59.219611+02:00.accessibility.json) |
+| [September 28 at 10:19 AM](https://archive.org/download/20minutes-2022/20minutes-2022-09-28T10:19:25.092394+02:00.accessibility.json) |
 | [September 28 at 12:53 AM](https://archive.org/download/20minutes-2022/20minutes-2022-09-28T00:52:58.189452+02:00.accessibility.json) |
 | [September 27 at 12:53 PM](https://archive.org/download/20minutes-2022/20minutes-2022-09-27T12:53:25.150978+02:00.accessibility.json) |
 | [September 27 at 10:21 AM](https://archive.org/download/20minutes-2022/20minutes-2022-09-27T10:20:54.042445+02:00.accessibility.json) |
@@ -435,14 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 10:18 AM](https://archive.org/download/20minutes-2022/20minutes-2022-09-26T10:18:04.247166+02:00.accessibility.json) |
 | [September 26 at 12:40 AM](https://archive.org/download/20minutes-2022/20minutes-2022-09-26T00:40:42.168232+02:00.accessibility.json) |
 | [September 25 at 12:40 PM](https://archive.org/download/20minutes-2022/20minutes-2022-09-25T12:40:18.047199+02:00.accessibility.json) |
-| [September 25 at 10:15 AM](https://archive.org/download/20minutes-2022/20minutes-2022-09-25T10:15:16.274699+02:00.accessibility.json) |
-| [September 25 at 12:41 AM](https://archive.org/download/20minutes-2022/20minutes-2022-09-25T00:40:59.282479+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 199 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 201 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 1:02 PM](https://archive.org/download/20minutes-2022/20minutes-2022-09-28T13:01:59.219611+02:00.lighthouse.json) |
+| [September 28 at 10:19 AM](https://archive.org/download/20minutes-2022/20minutes-2022-09-28T10:19:25.092394+02:00.lighthouse.json) |
 | [September 28 at 12:53 AM](https://archive.org/download/20minutes-2022/20minutes-2022-09-28T00:52:58.189452+02:00.lighthouse.json) |
 | [September 27 at 12:53 PM](https://archive.org/download/20minutes-2022/20minutes-2022-09-27T12:53:25.150978+02:00.lighthouse.json) |
 | [September 27 at 10:21 AM](https://archive.org/download/20minutes-2022/20minutes-2022-09-27T10:20:54.042445+02:00.lighthouse.json) |
@@ -541,8 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 10:18 AM](https://archive.org/download/20minutes-2022/20minutes-2022-09-26T10:18:04.247166+02:00.lighthouse.json) |
 | [September 26 at 12:41 AM](https://archive.org/download/20minutes-2022/20minutes-2022-09-26T00:40:42.168232+02:00.lighthouse.json) |
 | [September 25 at 12:40 PM](https://archive.org/download/20minutes-2022/20minutes-2022-09-25T12:40:18.047199+02:00.lighthouse.json) |
-| [September 25 at 10:15 AM](https://archive.org/download/20minutes-2022/20minutes-2022-09-25T10:15:16.274699+02:00.lighthouse.json) |
-| [September 25 at 12:41 AM](https://archive.org/download/20minutes-2022/20minutes-2022-09-25T00:40:59.282479+02:00.lighthouse.json) |
 
 
 

@@ -28,13 +28,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 17 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-28T06:02:08.339587-05:00.jpg">
+  <img src="https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-28T06:02:08.339587-05:00.jpg"
+     alt="Aberdeen News at 2022-09-28 06:02:10-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-28T06:02:08.339587-05:00.jpg">September 28 at 6:02 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-27T17:52:34.989980-05:00.jpg">
@@ -135,20 +144,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-22T17:48:42.079924-05:00.jpg">September 22 at 5:48 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-22T05:49:41.218682-05:00.jpg">
-  <img src="https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-22T05:49:41.218682-05:00.jpg"
-     alt="Aberdeen News at 2022-09-22 05:49:43-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-22T05:49:41.218682-05:00.jpg">September 22 at 5:49 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 16 hyperlink lists with the Internet Archive.
+The archiving routine has saved 17 hyperlink lists with the Internet Archive.
 
 
 
@@ -156,6 +156,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 6:02 AM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-28T06:02:08.339587-05:00.hyperlinks.json) |
 | [September 27 at 5:52 PM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-27T17:52:34.989980-05:00.hyperlinks.json) |
 | [September 27 at 5:54 AM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-27T05:54:14.863725-05:00.hyperlinks.json) |
 | [September 26 at 5:49 PM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-26T17:49:45.883693-05:00.hyperlinks.json) |
@@ -165,12 +166,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 5:40 PM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-24T17:40:34.803622-05:00.hyperlinks.json) |
 | [September 24 at 5:42 AM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-24T05:42:33.251905-05:00.hyperlinks.json) |
 | [September 23 at 6:50 PM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-23T18:50:52.555765-05:00.hyperlinks.json) |
-| [September 23 at 5:46 AM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-23T05:46:44.134397-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 15 accessibility trees with the Internet Archive.
+The archiving routine has saved 16 accessibility trees with the Internet Archive.
 
 
 
@@ -178,6 +178,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 6:02 AM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-28T06:02:08.339587-05:00.accessibility.json) |
 | [September 27 at 5:52 PM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-27T17:52:34.989980-05:00.accessibility.json) |
 | [September 26 at 5:49 PM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-26T17:49:45.883693-05:00.accessibility.json) |
 | [September 26 at 5:52 AM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-26T05:52:20.361269-05:00.accessibility.json) |
@@ -187,13 +188,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 5:42 AM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-24T05:42:33.251905-05:00.accessibility.json) |
 | [September 23 at 6:50 PM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-23T18:50:52.555765-05:00.accessibility.json) |
 | [September 23 at 5:46 AM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-23T05:46:44.134397-05:00.accessibility.json) |
-| [September 22 at 5:48 PM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-22T17:48:42.079924-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
 
 
 
@@ -201,6 +201,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 6:02 AM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-28T06:02:08.339587-05:00.lighthouse.json) |
 | [September 27 at 5:52 PM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-27T17:52:34.989980-05:00.lighthouse.json) |
 | [September 27 at 5:54 AM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-27T05:54:14.863725-05:00.lighthouse.json) |
 | [September 26 at 5:49 PM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-26T17:49:45.883693-05:00.lighthouse.json) |
@@ -210,7 +211,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 5:40 PM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-24T17:40:34.803622-05:00.lighthouse.json) |
 | [September 24 at 5:42 AM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-24T05:42:33.251905-05:00.lighthouse.json) |
 | [September 23 at 6:50 PM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-23T18:50:52.555765-05:00.lighthouse.json) |
-| [September 23 at 5:46 AM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-23T05:46:44.134397-05:00.lighthouse.json) |
 
 
 

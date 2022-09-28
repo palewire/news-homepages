@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 143 screenshots with the Internet Archive.
+The archiving routine has saved 144 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 143 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/aftenposten-2022/aftenposten-2022-09-28T13:01:57.247144+02:00.jpg">
+  <img src="https://archive.org/download/aftenposten-2022/aftenposten-2022-09-28T13:01:57.247144+02:00.jpg"
+     alt="Aftenposten at 2022-09-28 13:02:03+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/aftenposten-2022/aftenposten-2022-09-28T13:01:57.247144+02:00.jpg">September 28 at 1:02 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/aftenposten-2022/aftenposten-2022-09-28T00:53:19.703800+02:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/aftenposten-2022/aftenposten-2022-09-23T00:48:26.570685+02:00.jpg">September 23 at 12:48 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/aftenposten-2022/aftenposten-2022-09-22T12:50:15.115709+02:00.jpg">
-  <img src="https://archive.org/download/aftenposten-2022/aftenposten-2022-09-22T12:50:15.115709+02:00.jpg"
-     alt="Aftenposten at 2022-09-22 12:50:20+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/aftenposten-2022/aftenposten-2022-09-22T12:50:15.115709+02:00.jpg">September 22 at 12:50 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 143 hyperlink lists with the Internet Archive.
+The archiving routine has saved 144 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 1:02 PM](https://archive.org/download/aftenposten-2022/aftenposten-2022-09-28T13:01:57.247144+02:00.hyperlinks.json) |
 | [September 28 at 12:53 AM](https://archive.org/download/aftenposten-2022/aftenposten-2022-09-28T00:53:19.703800+02:00.hyperlinks.json) |
 | [September 27 at 12:53 PM](https://archive.org/download/aftenposten-2022/aftenposten-2022-09-27T12:53:36.618305+02:00.hyperlinks.json) |
 | [September 27 at 12:49 AM](https://archive.org/download/aftenposten-2022/aftenposten-2022-09-27T00:49:42.318365+02:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 12:40 AM](https://archive.org/download/aftenposten-2022/aftenposten-2022-09-25T00:40:29.037146+02:00.hyperlinks.json) |
 | [September 24 at 12:42 PM](https://archive.org/download/aftenposten-2022/aftenposten-2022-09-24T12:42:27.969146+02:00.hyperlinks.json) |
 | [September 24 at 1:50 AM](https://archive.org/download/aftenposten-2022/aftenposten-2022-09-24T01:50:38.940307+02:00.hyperlinks.json) |
-| [September 23 at 12:46 PM](https://archive.org/download/aftenposten-2022/aftenposten-2022-09-23T12:46:33.853067+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 142 accessibility trees with the Internet Archive.
+The archiving routine has saved 143 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 1:02 PM](https://archive.org/download/aftenposten-2022/aftenposten-2022-09-28T13:01:57.247144+02:00.accessibility.json) |
 | [September 28 at 12:53 AM](https://archive.org/download/aftenposten-2022/aftenposten-2022-09-28T00:53:19.703800+02:00.accessibility.json) |
 | [September 27 at 12:53 PM](https://archive.org/download/aftenposten-2022/aftenposten-2022-09-27T12:53:36.618305+02:00.accessibility.json) |
 | [September 27 at 12:49 AM](https://archive.org/download/aftenposten-2022/aftenposten-2022-09-27T00:49:42.318365+02:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 12:40 AM](https://archive.org/download/aftenposten-2022/aftenposten-2022-09-25T00:40:29.037146+02:00.accessibility.json) |
 | [September 24 at 12:42 PM](https://archive.org/download/aftenposten-2022/aftenposten-2022-09-24T12:42:27.969146+02:00.accessibility.json) |
 | [September 24 at 1:50 AM](https://archive.org/download/aftenposten-2022/aftenposten-2022-09-24T01:50:38.940307+02:00.accessibility.json) |
-| [September 23 at 12:46 PM](https://archive.org/download/aftenposten-2022/aftenposten-2022-09-23T12:46:33.853067+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 1:02 PM](https://archive.org/download/aftenposten-2022/aftenposten-2022-09-28T13:01:57.247144+02:00.lighthouse.json) |
 | [September 28 at 12:53 AM](https://archive.org/download/aftenposten-2022/aftenposten-2022-09-28T00:53:19.703800+02:00.lighthouse.json) |
 | [September 27 at 12:53 PM](https://archive.org/download/aftenposten-2022/aftenposten-2022-09-27T12:53:36.618305+02:00.lighthouse.json) |
 | [September 27 at 12:49 AM](https://archive.org/download/aftenposten-2022/aftenposten-2022-09-27T00:49:42.318365+02:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 12:40 AM](https://archive.org/download/aftenposten-2022/aftenposten-2022-09-25T00:40:29.037146+02:00.lighthouse.json) |
 | [September 24 at 12:42 PM](https://archive.org/download/aftenposten-2022/aftenposten-2022-09-24T12:42:27.969146+02:00.lighthouse.json) |
 | [September 24 at 1:50 AM](https://archive.org/download/aftenposten-2022/aftenposten-2022-09-24T01:50:38.940307+02:00.lighthouse.json) |
-| [September 23 at 12:46 PM](https://archive.org/download/aftenposten-2022/aftenposten-2022-09-23T12:46:33.853067+02:00.lighthouse.json) |
 
 
 
