@@ -1,5 +1,6 @@
 {
-  "created": 1664345251,
+  "conflict": 1664362315,
+  "created": 1664362315,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/13/items/baltimoresun-2022",
@@ -29131,21 +29132,32 @@
       "format": "JSON"
     },
     {
+      "name": "baltimoresun-2022-09-28T02:04:07.700372-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltimoresun-2022-09-28T02:04:07.700372-04:00.jpg",
+      "mtime": "1664347236",
+      "size": "8319",
+      "md5": "392a06fe3f7fba807d07366ea46676eb",
+      "crc32": "c9314562",
+      "sha1": "cc34c341b744cbf621a0b8ae28f7a41ddee172a9"
+    },
+    {
       "name": "baltimoresun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "73fd6c66e5a754f127826b1397b75587fe3c2538",
-      "mtime": "1664345232",
-      "size": "602006",
-      "md5": "d3abe8163ed07ef8c9fb07c71ded1056",
-      "crc32": "7ecd49c0",
-      "sha1": "c27b3a22a0df1a5332495466ba3a2194b9c5f82a",
+      "btih": "559e7015fd0242f6891f1732faade642690fb4e7",
+      "mtime": "1664347410",
+      "size": "602214",
+      "md5": "68225bab671eea7f7907fb69af0a4d79",
+      "crc32": "ff4b8b5f",
+      "sha1": "cf1842b54f8d15291eb2b73be8af10e85d489f22",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltimoresun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6e1ab0b4e892e1cad964a8e08f63b842",
+      "md5": "dfce85fba188a9380f64233ec8a2987b",
       "summation": "md5"
     },
     {
@@ -29169,9 +29181,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2805,
-  "item_last_updated": 1664345232,
-  "item_size": 209833864,
+  "files_count": 2806,
+  "item_last_updated": 1664347410,
+  "item_size": 209842391,
   "metadata": {
     "identifier": "baltimoresun-2022",
     "collection": [
@@ -29193,15 +29205,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420721075,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "task_id": 3420915674,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 593049849,
+  "uniq": 1556231116,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]
