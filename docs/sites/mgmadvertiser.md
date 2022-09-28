@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 32 screenshots with the Internet Archive.
+The archiving routine has saved 33 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 32 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-27T20:29:26.728162-05:00.jpg">
+  <img src="https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-27T20:29:26.728162-05:00.jpg"
+     alt="Montgomery Advertiser at 2022-09-27 20:29:28-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-27T20:29:26.728162-05:00.jpg">September 27 at 8:29 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-27T08:01:17.698323-05:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-22T08:02:28.046889-05:00.jpg">September 22 at 8:02 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-21T20:09:00.165039-05:00.jpg">
-  <img src="https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-21T20:09:00.165039-05:00.jpg"
-     alt="Montgomery Advertiser at 2022-09-21 20:09:02-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-21T20:09:00.165039-05:00.jpg">September 21 at 8:09 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 32 hyperlink lists with the Internet Archive.
+The archiving routine has saved 33 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 27 at 8:29 PM](https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-27T20:29:26.728162-05:00.hyperlinks.json) |
 | [September 27 at 8:01 AM](https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-27T08:01:17.698323-05:00.hyperlinks.json) |
 | [September 26 at 8:11 PM](https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-26T20:11:32.717314-05:00.hyperlinks.json) |
 | [September 26 at 8:01 AM](https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-26T08:01:11.664692-05:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 7:53 AM](https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-24T07:53:45.998532-05:00.hyperlinks.json) |
 | [September 23 at 8:12 PM](https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-23T20:11:58.510243-05:00.hyperlinks.json) |
 | [September 23 at 7:57 AM](https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-23T07:57:27.985518-05:00.hyperlinks.json) |
-| [September 22 at 8:13 PM](https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-22T20:13:28.973939-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 32 accessibility trees with the Internet Archive.
+The archiving routine has saved 33 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 27 at 8:29 PM](https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-27T20:29:26.728162-05:00.accessibility.json) |
 | [September 27 at 8:01 AM](https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-27T08:01:17.698323-05:00.accessibility.json) |
 | [September 26 at 8:11 PM](https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-26T20:11:32.717314-05:00.accessibility.json) |
 | [September 26 at 8:01 AM](https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-26T08:01:11.664692-05:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 7:53 AM](https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-24T07:53:45.998532-05:00.accessibility.json) |
 | [September 23 at 8:12 PM](https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-23T20:11:58.510243-05:00.accessibility.json) |
 | [September 23 at 7:57 AM](https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-23T07:57:27.985518-05:00.accessibility.json) |
-| [September 22 at 8:13 PM](https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-22T20:13:28.973939-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 27 at 8:29 PM](https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-27T20:29:26.728162-05:00.lighthouse.json) |
 | [September 27 at 8:01 AM](https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-27T08:01:17.698323-05:00.lighthouse.json) |
 | [September 26 at 8:11 PM](https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-26T20:11:32.717314-05:00.lighthouse.json) |
 | [September 26 at 8:01 AM](https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-26T08:01:11.664692-05:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 7:53 AM](https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-24T07:53:45.998532-05:00.lighthouse.json) |
 | [September 23 at 8:12 PM](https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-23T20:11:58.510243-05:00.lighthouse.json) |
 | [September 23 at 7:57 AM](https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-23T07:57:27.985518-05:00.lighthouse.json) |
-| [September 22 at 8:13 PM](https://archive.org/download/mgmadvertiser-2022/mgmadvertiser-2022-09-22T20:13:28.973939-05:00.lighthouse.json) |
 
 
 

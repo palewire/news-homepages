@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 168 screenshots with the Internet Archive.
+The archiving routine has saved 169 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 168 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-27T21:23:25.211782-04:00.jpg">
+  <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-27T21:23:25.211782-04:00.jpg"
+     alt="Hidden City Daily at 2022-09-27 21:23:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-27T21:23:25.211782-04:00.jpg">September 27 at 9:23 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-27T08:57:58.065192-04:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-22T08:58:26.335054-04:00.jpg">September 22 at 8:58 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-21T21:04:52.384172-04:00.jpg">
-  <img src="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-21T21:04:52.384172-04:00.jpg"
-     alt="Hidden City Daily at 2022-09-21 21:04:53-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-21T21:04:52.384172-04:00.jpg">September 21 at 9:04 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 169 hyperlink lists with the Internet Archive.
+The archiving routine has saved 170 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 27 at 9:23 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-27T21:23:25.211782-04:00.hyperlinks.json) |
 | [September 27 at 8:58 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-27T08:57:58.065192-04:00.hyperlinks.json) |
 | [September 26 at 9:08 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-26T21:08:01.230943-04:00.hyperlinks.json) |
 | [September 26 at 8:57 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-26T08:56:45.992499-04:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 8:50 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-24T08:50:03.259637-04:00.hyperlinks.json) |
 | [September 23 at 9:08 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-23T21:08:16.053402-04:00.hyperlinks.json) |
 | [September 23 at 8:53 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-23T08:53:22.542783-04:00.hyperlinks.json) |
-| [September 22 at 9:08 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-22T21:08:12.786846-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 169 accessibility trees with the Internet Archive.
+The archiving routine has saved 170 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 27 at 9:23 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-27T21:23:25.211782-04:00.accessibility.json) |
 | [September 27 at 8:58 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-27T08:57:58.065192-04:00.accessibility.json) |
 | [September 26 at 9:08 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-26T21:08:01.230943-04:00.accessibility.json) |
 | [September 26 at 8:56 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-26T08:56:45.992499-04:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 8:50 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-24T08:50:03.259637-04:00.accessibility.json) |
 | [September 23 at 9:08 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-23T21:08:16.053402-04:00.accessibility.json) |
 | [September 23 at 8:53 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-23T08:53:22.542783-04:00.accessibility.json) |
-| [September 22 at 9:08 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-22T21:08:12.786846-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 27 at 9:23 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-27T21:23:25.211782-04:00.lighthouse.json) |
 | [September 27 at 8:58 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-27T08:57:58.065192-04:00.lighthouse.json) |
 | [September 26 at 9:08 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-26T21:08:01.230943-04:00.lighthouse.json) |
 | [September 26 at 8:57 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-26T08:56:45.992499-04:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 8:50 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-24T08:50:03.259637-04:00.lighthouse.json) |
 | [September 23 at 9:08 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-23T21:08:16.053402-04:00.lighthouse.json) |
 | [September 23 at 8:53 AM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-23T08:53:22.542783-04:00.lighthouse.json) |
-| [September 22 at 9:08 PM](https://archive.org/download/hiddencityphila-2022/hiddencityphila-2022-09-22T21:08:12.786846-04:00.lighthouse.json) |
 
 
 

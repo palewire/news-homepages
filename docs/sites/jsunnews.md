@@ -28,13 +28,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 15 screenshots with the Internet Archive.
+The archiving routine has saved 16 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jsunnews-2022/jsunnews-2022-09-27T20:23:30.244930-05:00.jpg">
+  <img src="https://archive.org/download/jsunnews-2022/jsunnews-2022-09-27T20:23:30.244930-05:00.jpg"
+     alt="Jackson Sun at 2022-09-27 20:23:31-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jsunnews-2022/jsunnews-2022-09-27T20:23:30.244930-05:00.jpg">September 27 at 8:23 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jsunnews-2022/jsunnews-2022-09-27T07:57:13.497585-05:00.jpg">
@@ -135,20 +144,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/jsunnews-2022/jsunnews-2022-09-22T07:57:53.762043-05:00.jpg">September 22 at 7:57 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/jsunnews-2022/jsunnews-2022-09-21T20:04:16.814576-05:00.jpg">
-  <img src="https://archive.org/download/jsunnews-2022/jsunnews-2022-09-21T20:04:16.814576-05:00.jpg"
-     alt="Jackson Sun at 2022-09-21 20:04:18-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jsunnews-2022/jsunnews-2022-09-21T20:04:16.814576-05:00.jpg">September 21 at 8:04 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 14 hyperlink lists with the Internet Archive.
+The archiving routine has saved 15 hyperlink lists with the Internet Archive.
 
 
 
@@ -156,6 +156,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 27 at 8:23 PM](https://archive.org/download/jsunnews-2022/jsunnews-2022-09-27T20:23:30.244930-05:00.hyperlinks.json) |
 | [September 27 at 7:57 AM](https://archive.org/download/jsunnews-2022/jsunnews-2022-09-27T07:57:13.497585-05:00.hyperlinks.json) |
 | [September 26 at 8:10 PM](https://archive.org/download/jsunnews-2022/jsunnews-2022-09-26T20:10:17.980090-05:00.hyperlinks.json) |
 | [September 26 at 7:57 AM](https://archive.org/download/jsunnews-2022/jsunnews-2022-09-26T07:56:54.716351-05:00.hyperlinks.json) |
@@ -165,12 +166,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 7:49 AM](https://archive.org/download/jsunnews-2022/jsunnews-2022-09-24T07:49:39.660526-05:00.hyperlinks.json) |
 | [September 23 at 8:08 PM](https://archive.org/download/jsunnews-2022/jsunnews-2022-09-23T20:07:53.585308-05:00.hyperlinks.json) |
 | [September 23 at 7:53 AM](https://archive.org/download/jsunnews-2022/jsunnews-2022-09-23T07:53:21.091413-05:00.hyperlinks.json) |
-| [September 22 at 8:08 PM](https://archive.org/download/jsunnews-2022/jsunnews-2022-09-22T20:08:08.923074-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 15 accessibility trees with the Internet Archive.
+The archiving routine has saved 16 accessibility trees with the Internet Archive.
 
 
 
@@ -178,6 +178,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 27 at 8:23 PM](https://archive.org/download/jsunnews-2022/jsunnews-2022-09-27T20:23:30.244930-05:00.accessibility.json) |
 | [September 27 at 7:57 AM](https://archive.org/download/jsunnews-2022/jsunnews-2022-09-27T07:57:13.497585-05:00.accessibility.json) |
 | [September 26 at 8:10 PM](https://archive.org/download/jsunnews-2022/jsunnews-2022-09-26T20:10:17.980090-05:00.accessibility.json) |
 | [September 26 at 7:56 AM](https://archive.org/download/jsunnews-2022/jsunnews-2022-09-26T07:56:54.716351-05:00.accessibility.json) |
@@ -187,13 +188,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 7:49 AM](https://archive.org/download/jsunnews-2022/jsunnews-2022-09-24T07:49:39.660526-05:00.accessibility.json) |
 | [September 23 at 8:07 PM](https://archive.org/download/jsunnews-2022/jsunnews-2022-09-23T20:07:53.585308-05:00.accessibility.json) |
 | [September 23 at 7:53 AM](https://archive.org/download/jsunnews-2022/jsunnews-2022-09-23T07:53:21.091413-05:00.accessibility.json) |
-| [September 22 at 8:08 PM](https://archive.org/download/jsunnews-2022/jsunnews-2022-09-22T20:08:08.923074-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
 
 
 
@@ -201,6 +201,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 27 at 8:23 PM](https://archive.org/download/jsunnews-2022/jsunnews-2022-09-27T20:23:30.244930-05:00.lighthouse.json) |
 | [September 27 at 7:57 AM](https://archive.org/download/jsunnews-2022/jsunnews-2022-09-27T07:57:13.497585-05:00.lighthouse.json) |
 | [September 26 at 8:10 PM](https://archive.org/download/jsunnews-2022/jsunnews-2022-09-26T20:10:17.980090-05:00.lighthouse.json) |
 | [September 26 at 7:57 AM](https://archive.org/download/jsunnews-2022/jsunnews-2022-09-26T07:56:54.716351-05:00.lighthouse.json) |
@@ -210,7 +211,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 7:49 AM](https://archive.org/download/jsunnews-2022/jsunnews-2022-09-24T07:49:39.660526-05:00.lighthouse.json) |
 | [September 23 at 8:08 PM](https://archive.org/download/jsunnews-2022/jsunnews-2022-09-23T20:07:53.585308-05:00.lighthouse.json) |
 | [September 23 at 7:53 AM](https://archive.org/download/jsunnews-2022/jsunnews-2022-09-23T07:53:21.091413-05:00.lighthouse.json) |
-| [September 22 at 8:08 PM](https://archive.org/download/jsunnews-2022/jsunnews-2022-09-22T20:08:08.923074-05:00.lighthouse.json) |
 
 
 

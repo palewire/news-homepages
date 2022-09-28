@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 171 screenshots with the Internet Archive.
+The archiving routine has saved 172 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 171 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kcstar-2022/kcstar-2022-09-27T20:26:12.120104-05:00.jpg">
+  <img src="https://archive.org/download/kcstar-2022/kcstar-2022-09-27T20:26:12.120104-05:00.jpg"
+     alt="Kansas City Star at 2022-09-27 20:26:17-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-09-27T20:26:12.120104-05:00.jpg">September 27 at 8:26 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcstar-2022/kcstar-2022-09-27T07:59:11.194347-05:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-09-22T08:00:31.079022-05:00.jpg">September 22 at 8:00 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kcstar-2022/kcstar-2022-09-21T20:07:20.939466-05:00.jpg">
-  <img src="https://archive.org/download/kcstar-2022/kcstar-2022-09-21T20:07:20.939466-05:00.jpg"
-     alt="Kansas City Star at 2022-09-21 20:07:22-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-09-21T20:07:20.939466-05:00.jpg">September 21 at 8:07 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 136 hyperlink lists with the Internet Archive.
+The archiving routine has saved 137 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 27 at 8:26 PM](https://archive.org/download/kcstar-2022/kcstar-2022-09-27T20:26:12.120104-05:00.hyperlinks.json) |
 | [September 27 at 7:59 AM](https://archive.org/download/kcstar-2022/kcstar-2022-09-27T07:59:11.194347-05:00.hyperlinks.json) |
 | [September 26 at 8:10 PM](https://archive.org/download/kcstar-2022/kcstar-2022-09-26T20:10:50.482936-05:00.hyperlinks.json) |
 | [September 26 at 7:59 AM](https://archive.org/download/kcstar-2022/kcstar-2022-09-26T07:59:01.544236-05:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 7:51 AM](https://archive.org/download/kcstar-2022/kcstar-2022-09-24T07:51:51.751080-05:00.hyperlinks.json) |
 | [September 23 at 8:10 PM](https://archive.org/download/kcstar-2022/kcstar-2022-09-23T20:10:05.520803-05:00.hyperlinks.json) |
 | [September 23 at 7:55 AM](https://archive.org/download/kcstar-2022/kcstar-2022-09-23T07:55:30.100267-05:00.hyperlinks.json) |
-| [September 22 at 8:10 PM](https://archive.org/download/kcstar-2022/kcstar-2022-09-22T20:10:02.857778-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 173 accessibility trees with the Internet Archive.
+The archiving routine has saved 174 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 27 at 8:26 PM](https://archive.org/download/kcstar-2022/kcstar-2022-09-27T20:26:12.120104-05:00.accessibility.json) |
 | [September 27 at 7:59 AM](https://archive.org/download/kcstar-2022/kcstar-2022-09-27T07:59:11.194347-05:00.accessibility.json) |
 | [September 26 at 8:10 PM](https://archive.org/download/kcstar-2022/kcstar-2022-09-26T20:10:50.482936-05:00.accessibility.json) |
 | [September 26 at 7:59 AM](https://archive.org/download/kcstar-2022/kcstar-2022-09-26T07:59:01.544236-05:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 7:51 AM](https://archive.org/download/kcstar-2022/kcstar-2022-09-24T07:51:51.751080-05:00.accessibility.json) |
 | [September 23 at 8:10 PM](https://archive.org/download/kcstar-2022/kcstar-2022-09-23T20:10:05.520803-05:00.accessibility.json) |
 | [September 23 at 7:55 AM](https://archive.org/download/kcstar-2022/kcstar-2022-09-23T07:55:30.100267-05:00.accessibility.json) |
-| [September 22 at 8:10 PM](https://archive.org/download/kcstar-2022/kcstar-2022-09-22T20:10:02.857778-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 135 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 27 at 8:26 PM](https://archive.org/download/kcstar-2022/kcstar-2022-09-27T20:26:12.120104-05:00.lighthouse.json) |
 | [September 27 at 7:59 AM](https://archive.org/download/kcstar-2022/kcstar-2022-09-27T07:59:11.194347-05:00.lighthouse.json) |
 | [September 26 at 8:10 PM](https://archive.org/download/kcstar-2022/kcstar-2022-09-26T20:10:50.482936-05:00.lighthouse.json) |
 | [September 26 at 7:59 AM](https://archive.org/download/kcstar-2022/kcstar-2022-09-26T07:59:01.544236-05:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 7:52 AM](https://archive.org/download/kcstar-2022/kcstar-2022-09-24T07:51:51.751080-05:00.lighthouse.json) |
 | [September 23 at 8:10 PM](https://archive.org/download/kcstar-2022/kcstar-2022-09-23T20:10:05.520803-05:00.lighthouse.json) |
 | [September 23 at 7:55 AM](https://archive.org/download/kcstar-2022/kcstar-2022-09-23T07:55:30.100267-05:00.lighthouse.json) |
-| [September 22 at 8:10 PM](https://archive.org/download/kcstar-2022/kcstar-2022-09-22T20:10:02.857778-05:00.lighthouse.json) |
 
 
 

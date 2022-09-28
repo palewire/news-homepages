@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 120 screenshots with the Internet Archive.
+The archiving routine has saved 121 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 120 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-27T20:23:34.476438-05:00.jpg">
+  <img src="https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-27T20:23:34.476438-05:00.jpg"
+     alt="Lincoln Journal Star at 2022-09-27 20:23:44-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-27T20:23:34.476438-05:00.jpg">September 27 at 8:23 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-27T07:57:17.773583-05:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-22T07:58:28.002400-05:00.jpg">September 22 at 7:58 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-21T20:04:24.896669-05:00.jpg">
-  <img src="https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-21T20:04:24.896669-05:00.jpg"
-     alt="Lincoln Journal Star at 2022-09-21 20:04:32-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-21T20:04:24.896669-05:00.jpg">September 21 at 8:04 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 121 hyperlink lists with the Internet Archive.
+The archiving routine has saved 122 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 27 at 8:23 PM](https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-27T20:23:34.476438-05:00.hyperlinks.json) |
 | [September 27 at 7:57 AM](https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-27T07:57:17.773583-05:00.hyperlinks.json) |
 | [September 26 at 8:07 PM](https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-26T20:07:42.264577-05:00.hyperlinks.json) |
 | [September 26 at 7:56 AM](https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-26T07:56:48.280129-05:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 7:49 AM](https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-24T07:49:52.839531-05:00.hyperlinks.json) |
 | [September 23 at 8:08 PM](https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-23T20:08:14.600823-05:00.hyperlinks.json) |
 | [September 23 at 7:53 AM](https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-23T07:52:49.708642-05:00.hyperlinks.json) |
-| [September 22 at 8:09 PM](https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-22T20:09:12.630399-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 121 accessibility trees with the Internet Archive.
+The archiving routine has saved 122 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 27 at 8:23 PM](https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-27T20:23:34.476438-05:00.accessibility.json) |
 | [September 27 at 7:57 AM](https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-27T07:57:17.773583-05:00.accessibility.json) |
 | [September 26 at 8:07 PM](https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-26T20:07:42.264577-05:00.accessibility.json) |
 | [September 26 at 7:56 AM](https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-26T07:56:48.280129-05:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 7:49 AM](https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-24T07:49:52.839531-05:00.accessibility.json) |
 | [September 23 at 8:08 PM](https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-23T20:08:14.600823-05:00.accessibility.json) |
 | [September 23 at 7:53 AM](https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-23T07:52:49.708642-05:00.accessibility.json) |
-| [September 22 at 8:09 PM](https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-22T20:09:12.630399-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 122 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 123 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 27 at 8:23 PM](https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-27T20:23:34.476438-05:00.lighthouse.json) |
 | [September 27 at 7:57 AM](https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-27T07:57:17.773583-05:00.lighthouse.json) |
 | [September 26 at 8:07 PM](https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-26T20:07:42.264577-05:00.lighthouse.json) |
 | [September 26 at 7:56 AM](https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-26T07:56:48.280129-05:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 7:49 AM](https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-24T07:49:52.839531-05:00.lighthouse.json) |
 | [September 23 at 8:08 PM](https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-23T20:08:14.600823-05:00.lighthouse.json) |
 | [September 23 at 7:53 AM](https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-23T07:52:49.708642-05:00.lighthouse.json) |
-| [September 22 at 8:09 PM](https://archive.org/download/journalstarnews-2022/journalstarnews-2022-09-22T20:09:12.630399-05:00.lighthouse.json) |
 
 
 
