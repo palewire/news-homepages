@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 88 screenshots with the Internet Archive.
+The archiving routine has saved 89 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 88 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thecut-2022/thecut-2022-09-28T11:03:27.839193-04:00.jpg">
+  <img src="https://archive.org/download/thecut-2022/thecut-2022-09-28T11:03:27.839193-04:00.jpg"
+     alt="The Cut at 2022-09-28 11:03:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thecut-2022/thecut-2022-09-28T11:03:27.839193-04:00.jpg">September 28 at 11:03 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thecut-2022/thecut-2022-09-27T23:50:52.858204-04:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thecut-2022/thecut-2022-09-22T23:43:10.364682-04:00.jpg">September 22 at 11:43 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thecut-2022/thecut-2022-09-22T10:58:39.410995-04:00.jpg">
-  <img src="https://archive.org/download/thecut-2022/thecut-2022-09-22T10:58:39.410995-04:00.jpg"
-     alt="The Cut at 2022-09-22 10:58:43-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thecut-2022/thecut-2022-09-22T10:58:39.410995-04:00.jpg">September 22 at 10:58 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 88 hyperlink lists with the Internet Archive.
+The archiving routine has saved 89 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 11:03 AM](https://archive.org/download/thecut-2022/thecut-2022-09-28T11:03:27.839193-04:00.hyperlinks.json) |
 | [September 27 at 11:50 PM](https://archive.org/download/thecut-2022/thecut-2022-09-27T23:50:52.858204-04:00.hyperlinks.json) |
 | [September 27 at 11:04 AM](https://archive.org/download/thecut-2022/thecut-2022-09-27T11:04:23.039700-04:00.hyperlinks.json) |
 | [September 26 at 11:34 PM](https://archive.org/download/thecut-2022/thecut-2022-09-26T23:33:56.452573-04:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 11:34 PM](https://archive.org/download/thecut-2022/thecut-2022-09-24T23:34:16.757631-04:00.hyperlinks.json) |
 | [September 24 at 10:43 AM](https://archive.org/download/thecut-2022/thecut-2022-09-24T10:43:45.911108-04:00.hyperlinks.json) |
 | [September 23 at 11:34 PM](https://archive.org/download/thecut-2022/thecut-2022-09-23T23:34:47.838087-04:00.hyperlinks.json) |
-| [September 23 at 11:02 AM](https://archive.org/download/thecut-2022/thecut-2022-09-23T11:01:46.856203-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 88 accessibility trees with the Internet Archive.
+The archiving routine has saved 89 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 11:03 AM](https://archive.org/download/thecut-2022/thecut-2022-09-28T11:03:27.839193-04:00.accessibility.json) |
 | [September 27 at 11:50 PM](https://archive.org/download/thecut-2022/thecut-2022-09-27T23:50:52.858204-04:00.accessibility.json) |
 | [September 27 at 11:04 AM](https://archive.org/download/thecut-2022/thecut-2022-09-27T11:04:23.039700-04:00.accessibility.json) |
 | [September 26 at 11:34 PM](https://archive.org/download/thecut-2022/thecut-2022-09-26T23:33:56.452573-04:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 11:34 PM](https://archive.org/download/thecut-2022/thecut-2022-09-24T23:34:16.757631-04:00.accessibility.json) |
 | [September 24 at 10:43 AM](https://archive.org/download/thecut-2022/thecut-2022-09-24T10:43:45.911108-04:00.accessibility.json) |
 | [September 23 at 11:34 PM](https://archive.org/download/thecut-2022/thecut-2022-09-23T23:34:47.838087-04:00.accessibility.json) |
-| [September 23 at 11:01 AM](https://archive.org/download/thecut-2022/thecut-2022-09-23T11:01:46.856203-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 88 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 89 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 11:03 AM](https://archive.org/download/thecut-2022/thecut-2022-09-28T11:03:27.839193-04:00.lighthouse.json) |
 | [September 27 at 11:51 PM](https://archive.org/download/thecut-2022/thecut-2022-09-27T23:50:52.858204-04:00.lighthouse.json) |
 | [September 27 at 11:04 AM](https://archive.org/download/thecut-2022/thecut-2022-09-27T11:04:23.039700-04:00.lighthouse.json) |
 | [September 26 at 11:34 PM](https://archive.org/download/thecut-2022/thecut-2022-09-26T23:33:56.452573-04:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 11:34 PM](https://archive.org/download/thecut-2022/thecut-2022-09-24T23:34:16.757631-04:00.lighthouse.json) |
 | [September 24 at 10:43 AM](https://archive.org/download/thecut-2022/thecut-2022-09-24T10:43:45.911108-04:00.lighthouse.json) |
 | [September 23 at 11:34 PM](https://archive.org/download/thecut-2022/thecut-2022-09-23T23:34:47.838087-04:00.lighthouse.json) |
-| [September 23 at 11:02 AM](https://archive.org/download/thecut-2022/thecut-2022-09-23T11:01:46.856203-04:00.lighthouse.json) |
 
 
 
