@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 145 screenshots with the Internet Archive.
+The archiving routine has saved 146 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 145 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reporternews-2022/reporternews-2022-09-27T21:30:25.959014-05:00.jpg">
+  <img src="https://archive.org/download/reporternews-2022/reporternews-2022-09-27T21:30:25.959014-05:00.jpg"
+     alt="Abilene Reporter News at 2022-09-27 21:30:30-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-09-27T21:30:25.959014-05:00.jpg">September 27 at 9:30 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reporternews-2022/reporternews-2022-09-27T09:10:36.133236-05:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-09-22T09:09:36.663181-05:00.jpg">September 22 at 9:10 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/reporternews-2022/reporternews-2022-09-21T21:19:10.644371-05:00.jpg">
-  <img src="https://archive.org/download/reporternews-2022/reporternews-2022-09-21T21:19:10.644371-05:00.jpg"
-     alt="Abilene Reporter News at 2022-09-21 21:19:15-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-09-21T21:19:10.644371-05:00.jpg">September 21 at 9:19 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 144 hyperlink lists with the Internet Archive.
+The archiving routine has saved 145 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 27 at 9:30 PM](https://archive.org/download/reporternews-2022/reporternews-2022-09-27T21:30:25.959014-05:00.hyperlinks.json) |
 | [September 27 at 9:10 AM](https://archive.org/download/reporternews-2022/reporternews-2022-09-27T09:10:36.133236-05:00.hyperlinks.json) |
 | [September 26 at 9:18 PM](https://archive.org/download/reporternews-2022/reporternews-2022-09-26T21:17:45.660666-05:00.hyperlinks.json) |
 | [September 26 at 9:08 AM](https://archive.org/download/reporternews-2022/reporternews-2022-09-26T09:07:50.934992-05:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 8:57 AM](https://archive.org/download/reporternews-2022/reporternews-2022-09-24T08:57:18.436893-05:00.hyperlinks.json) |
 | [September 23 at 9:19 PM](https://archive.org/download/reporternews-2022/reporternews-2022-09-23T21:18:51.676866-05:00.hyperlinks.json) |
 | [September 23 at 9:06 AM](https://archive.org/download/reporternews-2022/reporternews-2022-09-23T09:06:35.813797-05:00.hyperlinks.json) |
-| [September 22 at 9:21 PM](https://archive.org/download/reporternews-2022/reporternews-2022-09-22T21:21:48.158690-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 145 accessibility trees with the Internet Archive.
+The archiving routine has saved 146 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 27 at 9:30 PM](https://archive.org/download/reporternews-2022/reporternews-2022-09-27T21:30:25.959014-05:00.accessibility.json) |
 | [September 27 at 9:10 AM](https://archive.org/download/reporternews-2022/reporternews-2022-09-27T09:10:36.133236-05:00.accessibility.json) |
 | [September 26 at 9:17 PM](https://archive.org/download/reporternews-2022/reporternews-2022-09-26T21:17:45.660666-05:00.accessibility.json) |
 | [September 26 at 9:08 AM](https://archive.org/download/reporternews-2022/reporternews-2022-09-26T09:07:50.934992-05:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 8:57 AM](https://archive.org/download/reporternews-2022/reporternews-2022-09-24T08:57:18.436893-05:00.accessibility.json) |
 | [September 23 at 9:19 PM](https://archive.org/download/reporternews-2022/reporternews-2022-09-23T21:18:51.676866-05:00.accessibility.json) |
 | [September 23 at 9:06 AM](https://archive.org/download/reporternews-2022/reporternews-2022-09-23T09:06:35.813797-05:00.accessibility.json) |
-| [September 22 at 9:21 PM](https://archive.org/download/reporternews-2022/reporternews-2022-09-22T21:21:48.158690-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 27 at 9:30 PM](https://archive.org/download/reporternews-2022/reporternews-2022-09-27T21:30:25.959014-05:00.lighthouse.json) |
 | [September 27 at 9:10 AM](https://archive.org/download/reporternews-2022/reporternews-2022-09-27T09:10:36.133236-05:00.lighthouse.json) |
 | [September 26 at 9:18 PM](https://archive.org/download/reporternews-2022/reporternews-2022-09-26T21:17:45.660666-05:00.lighthouse.json) |
 | [September 26 at 9:08 AM](https://archive.org/download/reporternews-2022/reporternews-2022-09-26T09:07:50.934992-05:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 8:57 AM](https://archive.org/download/reporternews-2022/reporternews-2022-09-24T08:57:18.436893-05:00.lighthouse.json) |
 | [September 23 at 9:19 PM](https://archive.org/download/reporternews-2022/reporternews-2022-09-23T21:18:51.676866-05:00.lighthouse.json) |
 | [September 23 at 9:06 AM](https://archive.org/download/reporternews-2022/reporternews-2022-09-23T09:06:35.813797-05:00.lighthouse.json) |
-| [September 22 at 9:22 PM](https://archive.org/download/reporternews-2022/reporternews-2022-09-22T21:21:48.158690-05:00.lighthouse.json) |
 
 
 

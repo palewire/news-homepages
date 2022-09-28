@@ -28,13 +28,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 14 screenshots with the Internet Archive.
+The archiving routine has saved 15 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-27T22:26:08.576633-04:00.jpg">
+  <img src="https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-27T22:26:08.576633-04:00.jpg"
+     alt="New Bern Sun Journal at 2022-09-27 22:26:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-27T22:26:08.576633-04:00.jpg">September 27 at 10:26 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-27T10:06:21.609251-04:00.jpg">
@@ -135,20 +144,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-22T10:04:51.694889-04:00.jpg">September 22 at 10:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-21T22:15:04.274095-04:00.jpg">
-  <img src="https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-21T22:15:04.274095-04:00.jpg"
-     alt="New Bern Sun Journal at 2022-09-21 22:15:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-21T22:15:04.274095-04:00.jpg">September 21 at 10:15 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 14 hyperlink lists with the Internet Archive.
+The archiving routine has saved 15 hyperlink lists with the Internet Archive.
 
 
 
@@ -156,6 +156,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 27 at 10:26 PM](https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-27T22:26:08.576633-04:00.hyperlinks.json) |
 | [September 27 at 10:06 AM](https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-27T10:06:21.609251-04:00.hyperlinks.json) |
 | [September 26 at 10:13 PM](https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-26T22:13:48.707558-04:00.hyperlinks.json) |
 | [September 26 at 10:03 AM](https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-26T10:03:12.021180-04:00.hyperlinks.json) |
@@ -165,12 +166,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 9:53 AM](https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-24T09:53:19.340301-04:00.hyperlinks.json) |
 | [September 23 at 10:15 PM](https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-23T22:15:03.979837-04:00.hyperlinks.json) |
 | [September 23 at 10:02 AM](https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-23T10:02:03.800763-04:00.hyperlinks.json) |
-| [September 22 at 10:18 PM](https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-22T22:17:55.805963-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 14 accessibility trees with the Internet Archive.
+The archiving routine has saved 15 accessibility trees with the Internet Archive.
 
 
 
@@ -178,6 +178,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 27 at 10:26 PM](https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-27T22:26:08.576633-04:00.accessibility.json) |
 | [September 27 at 10:06 AM](https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-27T10:06:21.609251-04:00.accessibility.json) |
 | [September 26 at 10:13 PM](https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-26T22:13:48.707558-04:00.accessibility.json) |
 | [September 26 at 10:03 AM](https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-26T10:03:12.021180-04:00.accessibility.json) |
@@ -187,13 +188,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 9:53 AM](https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-24T09:53:19.340301-04:00.accessibility.json) |
 | [September 23 at 10:15 PM](https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-23T22:15:03.979837-04:00.accessibility.json) |
 | [September 23 at 10:02 AM](https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-23T10:02:03.800763-04:00.accessibility.json) |
-| [September 22 at 10:17 PM](https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-22T22:17:55.805963-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
 
 
 
@@ -201,6 +201,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 27 at 10:26 PM](https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-27T22:26:08.576633-04:00.lighthouse.json) |
 | [September 27 at 10:06 AM](https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-27T10:06:21.609251-04:00.lighthouse.json) |
 | [September 26 at 10:13 PM](https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-26T22:13:48.707558-04:00.lighthouse.json) |
 | [September 26 at 10:03 AM](https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-26T10:03:12.021180-04:00.lighthouse.json) |
@@ -210,7 +211,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 9:53 AM](https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-24T09:53:19.340301-04:00.lighthouse.json) |
 | [September 23 at 10:15 PM](https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-23T22:15:03.979837-04:00.lighthouse.json) |
 | [September 23 at 10:02 AM](https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-23T10:02:03.800763-04:00.lighthouse.json) |
-| [September 22 at 10:18 PM](https://archive.org/download/nbsunjournal-2022/nbsunjournal-2022-09-22T22:17:55.805963-04:00.lighthouse.json) |
 
 
 

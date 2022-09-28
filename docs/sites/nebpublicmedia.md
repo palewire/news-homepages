@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 119 screenshots with the Internet Archive.
+The archiving routine has saved 120 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 119 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-27T21:25:59.684780-05:00.jpg">
+  <img src="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-27T21:25:59.684780-05:00.jpg"
+     alt="Nebraska Public Media at 2022-09-27 21:26:05-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-27T21:25:59.684780-05:00.jpg">September 27 at 9:26 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-27T09:06:59.936578-05:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-22T09:04:52.679919-05:00.jpg">September 22 at 9:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-21T21:15:05.756089-05:00.jpg">
-  <img src="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-21T21:15:05.756089-05:00.jpg"
-     alt="Nebraska Public Media at 2022-09-21 21:15:08-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-21T21:15:05.756089-05:00.jpg">September 21 at 9:15 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 119 hyperlink lists with the Internet Archive.
+The archiving routine has saved 120 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 27 at 9:26 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-27T21:25:59.684780-05:00.hyperlinks.json) |
 | [September 27 at 9:07 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-27T09:06:59.936578-05:00.hyperlinks.json) |
 | [September 26 at 9:14 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-26T21:13:48.611496-05:00.hyperlinks.json) |
 | [September 26 at 9:03 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-26T09:03:26.096143-05:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 8:53 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-24T08:53:24.286979-05:00.hyperlinks.json) |
 | [September 23 at 9:15 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-23T21:15:11.366248-05:00.hyperlinks.json) |
 | [September 23 at 9:01 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-23T09:01:46.756281-05:00.hyperlinks.json) |
-| [September 22 at 9:17 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-22T21:17:44.276582-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 120 accessibility trees with the Internet Archive.
+The archiving routine has saved 121 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 27 at 9:26 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-27T21:25:59.684780-05:00.accessibility.json) |
 | [September 27 at 9:07 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-27T09:06:59.936578-05:00.accessibility.json) |
 | [September 26 at 9:14 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-26T21:13:48.611496-05:00.accessibility.json) |
 | [September 26 at 9:03 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-26T09:03:26.096143-05:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 8:53 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-24T08:53:24.286979-05:00.accessibility.json) |
 | [September 23 at 9:15 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-23T21:15:11.366248-05:00.accessibility.json) |
 | [September 23 at 9:01 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-23T09:01:46.756281-05:00.accessibility.json) |
-| [September 22 at 9:17 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-22T21:17:44.276582-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 118 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 119 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 27 at 9:26 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-27T21:25:59.684780-05:00.lighthouse.json) |
 | [September 27 at 9:07 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-27T09:06:59.936578-05:00.lighthouse.json) |
 | [September 26 at 9:14 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-26T21:13:48.611496-05:00.lighthouse.json) |
 | [September 26 at 9:03 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-26T09:03:26.096143-05:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 8:53 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-24T08:53:24.286979-05:00.lighthouse.json) |
 | [September 23 at 9:15 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-23T21:15:11.366248-05:00.lighthouse.json) |
 | [September 23 at 9:01 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-23T09:01:46.756281-05:00.lighthouse.json) |
-| [September 22 at 9:17 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-09-22T21:17:44.276582-05:00.lighthouse.json) |
 
 
 
