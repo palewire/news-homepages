@@ -1,5 +1,5 @@
 {
-  "created": 1664351613,
+  "created": 1664394408,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/32/items/semafor-2022",
@@ -10869,31 +10869,93 @@
       "format": "JSON"
     },
     {
+      "name": "semafor-2022-09-28T03:52:14.544320-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "semafor-2022-09-28T03:52:14.544320-04:00.jpg",
+      "mtime": "1664354061",
+      "size": "8600",
+      "md5": "790dd28110eca473e8e67b7c96bc6e6a",
+      "crc32": "f8d70e27",
+      "sha1": "afbed9ac4da00e5051c8c437055d7ceb83f47805"
+    },
+    {
+      "name": "semafor-2022-09-28T15:42:16.198800-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664394143",
+      "size": "3400",
+      "md5": "6d677df0fbffc25e8529138be1c76d14",
+      "crc32": "a9d9dc88",
+      "sha1": "f4d78b5903e4ae7b9c98294ff02acc8cb59a583b",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-09-28T15:42:16.198800-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664394148",
+      "size": "335",
+      "md5": "e96a2c20804e679b6a5f38e01cfeca79",
+      "crc32": "a1a12625",
+      "sha1": "5ee02efd3d700fa81a625d17ad03890400eb1849",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-09-28T15:42:16.198800-04:00.jpg",
+      "source": "original",
+      "mtime": "1664394139",
+      "size": "162379",
+      "md5": "1b7db287dc904c3475a1ae177d0404a1",
+      "crc32": "b04940cc",
+      "sha1": "33cbc695eb6e2a5deac9a978b95854b0f05c7ddf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "semafor-2022-09-28T15:42:16.198800-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664394155",
+      "size": "1450",
+      "md5": "9287747507274bc779d4268a312ddab9",
+      "crc32": "bb43ae04",
+      "sha1": "78043935e8200debab036598bb173b21dbd69377",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-09-28T15:42:16.198800-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664394161",
+      "size": "7933",
+      "md5": "97d6c69cce4ac667a94262af4a76fe44",
+      "crc32": "6d78d4c4",
+      "sha1": "0b8ccc24a6b487245bcd4a87351c26834a293c59",
+      "format": "JSON"
+    },
+    {
       "name": "semafor-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2b87229fbcb0bf8cc853ff57176bf66395b6ccf0",
-      "mtime": "1664351605",
-      "size": "218055",
-      "md5": "1b2d8355fcaa73dd199b3022d4b5f7be",
-      "crc32": "482f61fb",
-      "sha1": "88f80e8dfdf7e4243ea2b0c92735bd361cc36129",
+      "btih": "31375fc63ba5c2120f8d623f4e956b4308a9cf20",
+      "mtime": "1664394394",
+      "size": "219312",
+      "md5": "930a84dcc16072c62946a3c062c9db48",
+      "crc32": "1c6972b5",
+      "sha1": "9023f51462567a0bf2713e51ff31c5265dd4606a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "semafor-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "de03d6767850f94ce796167348c63e7f",
+      "md5": "0d6314b186555a3b6a9f5663f2b44ea0",
       "summation": "md5"
     },
     {
       "name": "semafor-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664351552",
-      "size": "1298432",
-      "md5": "1e06db30dfcd82fb0851eaaddf0d6c9c",
-      "crc32": "9cc45e22",
-      "sha1": "567ff5e19bdee2053bcc05a1ff30cb3e10d8f9b9",
+      "mtime": "1664394345",
+      "size": "1302528",
+      "md5": "e1db1e57fb88d2a522e45043b376cc83",
+      "crc32": "5f00f444",
+      "sha1": "1828db42b786373a40f1d3824e23da47f988a343",
       "format": "Metadata"
     },
     {
@@ -10907,9 +10969,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1050,
-  "item_last_updated": 1664351605,
-  "item_size": 31659131,
+  "files_count": 1056,
+  "item_last_updated": 1664394394,
+  "item_size": 31848581,
   "metadata": {
     "identifier": "semafor-2022",
     "collection": [
@@ -10931,7 +10993,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420789477,
+      "task_id": 3421368162,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10939,7 +11001,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 791450737,
+  "uniq": 2072083519,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

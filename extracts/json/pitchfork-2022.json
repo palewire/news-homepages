@@ -1,5 +1,5 @@
 {
-  "created": 1664381455,
+  "created": 1664394135,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/33/items/pitchfork-2022",
@@ -15431,31 +15431,93 @@
       "format": "JSON"
     },
     {
+      "name": "pitchfork-2022-09-28T11:07:13.250940-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pitchfork-2022-09-28T11:07:13.250940-05:00.jpg",
+      "mtime": "1664391294",
+      "size": "9470",
+      "md5": "469ac8eae16e6f15e3c2070a76fbeb3f",
+      "crc32": "0c1eb323",
+      "sha1": "f186e82f3f2af20c78e1acabfc2f3928099d81d8"
+    },
+    {
+      "name": "pitchfork-2022-09-28T14:38:22.013901-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664393908",
+      "size": "25276",
+      "md5": "70614dfa5492a4d20105b30b8977e13b",
+      "crc32": "e9b484c6",
+      "sha1": "ecc26fd2eacae18a83586dc1f9362af0f45c4f85",
+      "format": "JSON"
+    },
+    {
+      "name": "pitchfork-2022-09-28T14:38:22.013901-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664393911",
+      "size": "13244",
+      "md5": "1f5de4c316b004a9ad17efe87b8b0a99",
+      "crc32": "b0d73060",
+      "sha1": "30a750317e44534edf51b7318085c66a7e2509e2",
+      "format": "JSON"
+    },
+    {
+      "name": "pitchfork-2022-09-28T14:38:22.013901-05:00.jpg",
+      "source": "original",
+      "mtime": "1664393905",
+      "size": "252403",
+      "md5": "66f25e22eabdbbc7a9b489a34067aea2",
+      "crc32": "eb5dbf47",
+      "sha1": "e52b62220d17a13c99ba9ed32ca58900fe687273",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pitchfork-2022-09-28T14:38:22.013901-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664393915",
+      "size": "1450",
+      "md5": "4e4fa51d38a5d85b4a140953d83225ae",
+      "crc32": "45453672",
+      "sha1": "2269f25d4ea639cdd2071897c454bce87f3b3f64",
+      "format": "JSON"
+    },
+    {
+      "name": "pitchfork-2022-09-28T14:38:22.013901-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664393919",
+      "size": "96867",
+      "md5": "fe00397edf3e1d8c232e5487b0c88a2f",
+      "crc32": "606b42d0",
+      "sha1": "d1b0c7e96f129880058840504638d2ed2b63af6d",
+      "format": "JSON"
+    },
+    {
       "name": "pitchfork-2022_archive.torrent",
       "source": "metadata",
-      "btih": "040ca7c57c566be5ecdfa9dcac0fd39b539969ba",
-      "mtime": "1664381429",
-      "size": "314739",
-      "md5": "ab499cc9534148bbb7c9e16f8758dde0",
-      "crc32": "b736dfed",
-      "sha1": "af88ecd2736bdf22bdd13d2615803d08f4190e75",
+      "btih": "15765dddc81225ab6af8bde937ed00d696a50059",
+      "mtime": "1664394125",
+      "size": "316012",
+      "md5": "40aa037050994ea1fe2431335865ef57",
+      "crc32": "a9b743ea",
+      "sha1": "6a9957fe2fe1a16970077a90b0735493bb1991c8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pitchfork-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "08a185e66cf7629515e77c96ddff755b",
+      "md5": "4e0842a373c6df615d2a1b6fc1c24af9",
       "summation": "md5"
     },
     {
       "name": "pitchfork-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664381352",
-      "size": "1835008",
-      "md5": "64da08fb75925b2403d105b3f739f2bf",
-      "crc32": "95f5da73",
-      "sha1": "c117ed25664e4f4a5c07c1971e1624d985e41a10",
+      "mtime": "1664394067",
+      "size": "1847296",
+      "md5": "93ab56dadde69a49006852672ed534a7",
+      "crc32": "22ecb65e",
+      "sha1": "9e2e7688de10a4fa2792f7fc691b7bdb939aed64",
       "format": "Metadata"
     },
     {
@@ -15469,9 +15531,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1489,
-  "item_last_updated": 1664381429,
-  "item_size": 93448370,
+  "files_count": 1495,
+  "item_last_updated": 1664394125,
+  "item_size": 93860641,
   "metadata": {
     "identifier": "pitchfork-2022",
     "collection": [
@@ -15493,7 +15555,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421174593,
+      "task_id": 3421362912,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -15501,7 +15563,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1024306606,
+  "uniq": 2013149191,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1664351347,
+  "created": 1664393979,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/4/items/ottawacitizen-2022",
@@ -10609,31 +10609,93 @@
       "format": "JSON"
     },
     {
+      "name": "ottawacitizen-2022-09-28T03:47:44.406323-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ottawacitizen-2022-09-28T03:47:44.406323-04:00.jpg",
+      "mtime": "1664353767",
+      "size": "9938",
+      "md5": "44fb80296236bf31d52a2b29afd2833b",
+      "crc32": "e1200c29",
+      "sha1": "abe4d742e2e80eb29828b0d83fc8fd6856fd1b31"
+    },
+    {
+      "name": "ottawacitizen-2022-09-28T15:36:25.889078-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664393802",
+      "size": "65121",
+      "md5": "bf6b41b9b64ea2defa5bc02adf676488",
+      "crc32": "c4baf08c",
+      "sha1": "89457afa35ba698dc9b9363f9b5a29c3c4edc86c",
+      "format": "JSON"
+    },
+    {
+      "name": "ottawacitizen-2022-09-28T15:36:25.889078-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664393804",
+      "size": "50800",
+      "md5": "2d63640a0e32e6d88224825f9be36fd7",
+      "crc32": "1208f6f8",
+      "sha1": "fafa25012031a4f58ba1351c613aa41e606e5eff",
+      "format": "JSON"
+    },
+    {
+      "name": "ottawacitizen-2022-09-28T15:36:25.889078-04:00.jpg",
+      "source": "original",
+      "mtime": "1664393799",
+      "size": "296408",
+      "md5": "1daf70b57891b66a20bf464a3904e7e7",
+      "crc32": "bea49e78",
+      "sha1": "52d607389a9dfca9d6c3a4e5f62675921459cf9c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ottawacitizen-2022-09-28T15:36:25.889078-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664393806",
+      "size": "1483",
+      "md5": "d1aa55ccfeca5ad158e0dfbc891369ec",
+      "crc32": "48dc80e1",
+      "sha1": "bcd6b75169d58adfc5113e360d8d09194fce1deb",
+      "format": "JSON"
+    },
+    {
+      "name": "ottawacitizen-2022-09-28T15:36:25.889078-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664393808",
+      "size": "489",
+      "md5": "45b90e68b8b02db037f810600da72551",
+      "crc32": "7779546c",
+      "sha1": "06fc99fbe886672dd1d7348085962824162133f1",
+      "format": "JSON"
+    },
+    {
       "name": "ottawacitizen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4cd3ad819942b39e0551cc79e0c0fe56ccddbfc1",
-      "mtime": "1664351341",
-      "size": "221835",
-      "md5": "af01124406f2189f60249340eca8dbbd",
-      "crc32": "b059930e",
-      "sha1": "e42dd2b017f75c9fbef45ac8ba05d7e1bc1075b1",
+      "btih": "2526000006f3b994d2870cbe8f5c8e34b758f668",
+      "mtime": "1664393958",
+      "size": "223130",
+      "md5": "4ec8c473481ad333ce6512751bb727f7",
+      "crc32": "f20506c4",
+      "sha1": "9d4da57ee70d2ab99c2df52c91addaf629c1ae9c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ottawacitizen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ff8e5519b7ae14e5f8f09483f6b9c38b",
+      "md5": "25e168a75518ebe6e20dfb45f597d048",
       "summation": "md5"
     },
     {
       "name": "ottawacitizen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664351290",
-      "size": "1277952",
-      "md5": "9f5bba94d358b8b135a58867b7102308",
-      "crc32": "8b5553e3",
-      "sha1": "9bafd7a2fcb6df206e1d2b612f8d63e74284f997",
+      "mtime": "1664393884",
+      "size": "1290240",
+      "md5": "8b58cbb12cc35cc7d7027802455e9a8a",
+      "crc32": "9f530de7",
+      "sha1": "76916c67acc43b3b77506b4ddc0da352bd627a10",
       "format": "Metadata"
     },
     {
@@ -10647,9 +10709,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1025,
-  "item_last_updated": 1664351341,
-  "item_size": 87460290,
+  "files_count": 1031,
+  "item_last_updated": 1664393958,
+  "item_size": 87898112,
   "metadata": {
     "identifier": "ottawacitizen-2022",
     "collection": [
@@ -10671,7 +10733,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420786839,
+      "task_id": 3421360845,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10679,7 +10741,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1012595186,
+  "uniq": 1318570157,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1664351558,
+  "created": 1664394373,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/4/items/salinajournal-2022",
@@ -987,31 +987,93 @@
       "format": "JSON"
     },
     {
+      "name": "salinajournal-2022-09-28T02:51:46.331368-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salinajournal-2022-09-28T02:51:46.331368-05:00.jpg",
+      "mtime": "1664354382",
+      "size": "9639",
+      "md5": "d421440acaea6ddb2ecd557bc414103a",
+      "crc32": "7b72cbfb",
+      "sha1": "e37913aaa8f20b965bdcbd7f07cea1395859b2f0"
+    },
+    {
+      "name": "salinajournal-2022-09-28T14:41:01.373549-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664394066",
+      "size": "21889",
+      "md5": "06905a340fe47cb79c8ed6d29402efe9",
+      "crc32": "3b1fc1f9",
+      "sha1": "3df0f4bed29aafe3df09380aa997c7097bd325f2",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-09-28T14:41:01.373549-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664394070",
+      "size": "28174",
+      "md5": "7d31dafc5f8068309479d7fb596a3d86",
+      "crc32": "8a0a8039",
+      "sha1": "45901d4d438e0e6cad6185a79b527a5ec62be509",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-09-28T14:41:01.373549-05:00.jpg",
+      "source": "original",
+      "mtime": "1664394064",
+      "size": "254666",
+      "md5": "277499e761a687d131c2dabcd0d97e91",
+      "crc32": "ca6fb454",
+      "sha1": "f2c4a12889cf4ae160af9979a984852a6d14c1f9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salinajournal-2022-09-28T14:41:01.373549-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664394072",
+      "size": "1459",
+      "md5": "7b12b6bf8c378250faf499704d832be2",
+      "crc32": "324bf672",
+      "sha1": "d3afa6c5af83287b44f6eba77f9fd6b0f793d7c5",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-09-28T14:41:01.373549-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664394076",
+      "size": "103138",
+      "md5": "82af2c6138ca13f8844c604b319e6474",
+      "crc32": "d38ddd12",
+      "sha1": "96fae1148a09b92b39d229fa99f037d5fef23b37",
+      "format": "JSON"
+    },
+    {
       "name": "salinajournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "953117c4eabe3fb527ecee63983832a5fa42fec2",
-      "mtime": "1664351554",
-      "size": "21911",
-      "md5": "6a38e94c1407bb7d910c1203e8ff9720",
-      "crc32": "42eb545f",
-      "sha1": "b13f788cc235eb7aed6efcf2b0789c593fd097bc",
+      "btih": "b564b084dfa1e5efe7d61809d26001b57791c0df",
+      "mtime": "1664394365",
+      "size": "23189",
+      "md5": "9013411ea73ff0de97c91cfa2218fe93",
+      "crc32": "c7b4720e",
+      "sha1": "be11c103e78a17a3389afcbc75faabab20e9f8b6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "salinajournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9bdd0651ec39a9e8587346ddf17a5f44",
+      "md5": "c4f2e388b2544ebd362ed5df230a6592",
       "summation": "md5"
     },
     {
       "name": "salinajournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664351518",
-      "size": "147456",
-      "md5": "961e21b3465a7674f15dcacbcea47c66",
-      "crc32": "c23423e4",
-      "sha1": "94fcd4bdce2b33050222a2839218e2a66bee1a63",
+      "mtime": "1664394328",
+      "size": "151552",
+      "md5": "2ea1ebf8136d6ee6fa01fc9c55be83a7",
+      "crc32": "d43e743e",
+      "sha1": "1522b6c80d6d2e90d915b13238cd2ec54d9cbdf7",
       "format": "Metadata"
     },
     {
@@ -1025,9 +1087,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 99,
-  "item_last_updated": 1664351554,
-  "item_size": 6410132,
+  "files_count": 105,
+  "item_last_updated": 1664394365,
+  "item_size": 6834471,
   "metadata": {
     "identifier": "salinajournal-2022",
     "collection": [
@@ -1049,7 +1111,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420789003,
+      "task_id": 3421367317,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1057,7 +1119,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1566155799,
+  "uniq": 1523343012,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]

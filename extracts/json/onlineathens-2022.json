@@ -1,5 +1,5 @@
 {
-  "created": 1664351366,
+  "created": 1664394023,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/24/items/onlineathens-2022",
@@ -8193,31 +8193,93 @@
       "format": "JSON"
     },
     {
+      "name": "onlineathens-2022-09-28T03:48:02.405986-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "onlineathens-2022-09-28T03:48:02.405986-04:00.jpg",
+      "mtime": "1664353893",
+      "size": "9357",
+      "md5": "fe7b852b52ef0a7d91ca18a309864bbc",
+      "crc32": "81168f34",
+      "sha1": "6bf8dc638d551887e6b815bf934b4cd806902668"
+    },
+    {
+      "name": "onlineathens-2022-09-28T15:36:55.825646-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664393822",
+      "size": "22636",
+      "md5": "a0bf40a046f3ab32515345d6033aa34c",
+      "crc32": "bf4c21a1",
+      "sha1": "ad834028dbfd974901e0fa066187a358a7337953",
+      "format": "JSON"
+    },
+    {
+      "name": "onlineathens-2022-09-28T15:36:55.825646-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664393825",
+      "size": "35756",
+      "md5": "9b9e0ea92f96c487ccbc8f4ecd995e9d",
+      "crc32": "6d81bb32",
+      "sha1": "5a8601740cb063226d079ba294594b39af467bb8",
+      "format": "JSON"
+    },
+    {
+      "name": "onlineathens-2022-09-28T15:36:55.825646-04:00.jpg",
+      "source": "original",
+      "mtime": "1664393820",
+      "size": "252445",
+      "md5": "02135c8c4c9037370a54af1b9bcbe472",
+      "crc32": "d794f6f1",
+      "sha1": "03f5c865e94dbffdc4641b03d632eff55e20ccde",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "onlineathens-2022-09-28T15:36:55.825646-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664393829",
+      "size": "1512",
+      "md5": "aab41a58b8614ba7dfdb5cdf6fb2236e",
+      "crc32": "b23dbe4f",
+      "sha1": "d1639f2cda9cae6b61ee4231253f399de687527d",
+      "format": "JSON"
+    },
+    {
+      "name": "onlineathens-2022-09-28T15:36:55.825646-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664393832",
+      "size": "115214",
+      "md5": "f769f64ccdc74bf55a3b1edc3d3ace7c",
+      "crc32": "9b8406fd",
+      "sha1": "e6504c2b8f8c28f831f1d9922e676b9f2dc4f412",
+      "format": "JSON"
+    },
+    {
       "name": "onlineathens-2022_archive.torrent",
       "source": "metadata",
-      "btih": "19c575bb71816c4fe741a9ab13e45bff2b34a48f",
-      "mtime": "1664351354",
-      "size": "171057",
-      "md5": "b3cc6bfe7a31c67d89176d3178250c12",
-      "crc32": "7b7697ac",
-      "sha1": "86429d54bd282ce30c2eabac40e5db51d9ae4cd3",
+      "btih": "3b1638973ecd3ef630286b97ae0666687348500d",
+      "mtime": "1664394017",
+      "size": "172329",
+      "md5": "8af197352955f7a380b9fb9130b9ac5a",
+      "crc32": "6624266f",
+      "sha1": "612000752da4328703959bc4f8d242c68f29f7bb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "onlineathens-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "085296ecf96bcef76db70fc5f6f600d1",
+      "md5": "5816da17347df00a1b6ec6a8150b5ad1",
       "summation": "md5"
     },
     {
       "name": "onlineathens-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664351307",
-      "size": "1019904",
-      "md5": "5a0dcf12bd96d2fec7d14b2f16bca0f1",
-      "crc32": "77a6db88",
-      "sha1": "da8ac60c5efe7f78da4b37babba5e490eac20f58",
+      "mtime": "1664393964",
+      "size": "1024000",
+      "md5": "3f1e77b003cb1726fe4c91e66ed79e86",
+      "crc32": "d30a60e1",
+      "sha1": "c96fc95e8d247816d264006e0b1e96f5355c8f91",
       "format": "Metadata"
     },
     {
@@ -8231,9 +8293,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 795,
-  "item_last_updated": 1664351354,
-  "item_size": 54754726,
+  "files_count": 801,
+  "item_last_updated": 1664394017,
+  "item_size": 55197014,
   "metadata": {
     "identifier": "onlineathens-2022",
     "collection": [
@@ -8255,7 +8317,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420786998,
+      "task_id": 3421361289,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8263,7 +8325,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 457656233,
+  "uniq": 395955514,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

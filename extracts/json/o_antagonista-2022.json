@@ -1,5 +1,5 @@
 {
-  "created": 1664366754,
+  "created": 1664393922,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/35/items/o_antagonista-2022",
@@ -8667,31 +8667,83 @@
       "format": "JSON"
     },
     {
+      "name": "o_antagonista-2022-09-28T09:04:32.093468-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "o_antagonista-2022-09-28T09:04:32.093468-03:00.jpg",
+      "mtime": "1664368965",
+      "size": "5384",
+      "md5": "75d5db9f80fedbb005c18132a2f02d37",
+      "crc32": "27f324df",
+      "sha1": "13bb3ee9c56fb2ec5cb2a46e610933ffe57be3c0"
+    },
+    {
+      "name": "o_antagonista-2022-09-28T16:36:10.962309-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664393778",
+      "size": "1069",
+      "md5": "9ef54c3984e4f9fddc130036baf31f1b",
+      "crc32": "398804e1",
+      "sha1": "1dd6427a1797ee9afc2a446d528af07308e64e86",
+      "format": "JSON"
+    },
+    {
+      "name": "o_antagonista-2022-09-28T16:36:10.962309-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664393780",
+      "size": "113",
+      "md5": "18dc96ac0074bdf3191ff778c56b9ad6",
+      "crc32": "b72e0a97",
+      "sha1": "778291407fcc7719d443ed3658264fde7f15c4cc",
+      "format": "JSON"
+    },
+    {
+      "name": "o_antagonista-2022-09-28T16:36:10.962309-03:00.jpg",
+      "source": "original",
+      "mtime": "1664393776",
+      "size": "55235",
+      "md5": "3dcfe906ea6d377e4b8c55ceb59df545",
+      "crc32": "a4f2d2cc",
+      "sha1": "5425b85d9112fccb654533d9d59f4b9b8171a7bb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "o_antagonista-2022-09-28T16:36:10.962309-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664393782",
+      "size": "35911",
+      "md5": "c4059c6fe87a037124363c286e220cf8",
+      "crc32": "76b0eddc",
+      "sha1": "0b4cb69ca2b70b795c20c347835211e115201446",
+      "format": "JSON"
+    },
+    {
       "name": "o_antagonista-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d0c74a4fe1112683e3baa326025705c73fe77255",
-      "mtime": "1664366743",
-      "size": "179678",
-      "md5": "cdbe7e8a9d3bfad2e3594a413848069f",
-      "crc32": "770b5872",
-      "sha1": "9124531effb6955e56ed7920d7264268b5cb4ee3",
+      "btih": "dfec489938e1159b60dccf12c9318e14ba2a54e3",
+      "mtime": "1664393915",
+      "size": "180756",
+      "md5": "9619a50db724cb7af824df0e62d3357d",
+      "crc32": "6f9debf2",
+      "sha1": "be7e6d0388bccfc8afed17cff4f8881e0edec678",
       "format": "Archive BitTorrent"
     },
     {
       "name": "o_antagonista-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "76294cdd3e47452496db4d010aabb094",
+      "md5": "5ff2c117163aa813fa9616ddd7502429",
       "summation": "md5"
     },
     {
       "name": "o_antagonista-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664366690",
-      "size": "1060864",
-      "md5": "009cd27d14c66898dd5ddb7d339c7f34",
-      "crc32": "e2455fab",
-      "sha1": "aeb875e4b06fcac16d42ec5f7e8d53ddd5166807",
+      "mtime": "1664393863",
+      "size": "1064960",
+      "md5": "38c502a7781e0240cc440a100abdcf14",
+      "crc32": "f4a45ca9",
+      "sha1": "7280ec1ca77ab8ce40dee41326162a6893561b76",
       "format": "Metadata"
     },
     {
@@ -8705,9 +8757,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 839,
-  "item_last_updated": 1664366743,
-  "item_size": 31062894,
+  "files_count": 844,
+  "item_last_updated": 1664393915,
+  "item_size": 31165780,
   "metadata": {
     "identifier": "o_antagonista-2022",
     "collection": [
@@ -8729,7 +8781,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420971223,
+      "task_id": 3421359902,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8737,7 +8789,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 442070907,
+  "uniq": 1046197574,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

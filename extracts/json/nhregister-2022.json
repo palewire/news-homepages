@@ -1,5 +1,5 @@
 {
-  "created": 1664351188,
+  "created": 1664394094,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/12/items/nhregister-2022",
@@ -1793,31 +1793,93 @@
       "format": "JSON"
     },
     {
+      "name": "nhregister-2022-09-28T03:45:27.844901-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nhregister-2022-09-28T03:45:27.844901-04:00.jpg",
+      "mtime": "1664353572",
+      "size": "10079",
+      "md5": "82581365f6b9c6f7cc7514d04541972d",
+      "crc32": "840886ad",
+      "sha1": "87766055639c8bc1d4019fbfd2a7eff836b30933"
+    },
+    {
+      "name": "nhregister-2022-09-28T15:37:30.358182-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664393856",
+      "size": "74188",
+      "md5": "f055b0db4558af9b59c38f7e92776fc0",
+      "crc32": "d9d53e94",
+      "sha1": "d4f3c77274064bdc9e199f05375ec83bdc1240e4",
+      "format": "JSON"
+    },
+    {
+      "name": "nhregister-2022-09-28T15:37:30.358182-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664393858",
+      "size": "76338",
+      "md5": "e58a9f65592ef9b30a241d9d66d785ff",
+      "crc32": "d1df11d3",
+      "sha1": "e5572a774d4ff56d1bbe528b7ff21a534e6682aa",
+      "format": "JSON"
+    },
+    {
+      "name": "nhregister-2022-09-28T15:37:30.358182-04:00.jpg",
+      "source": "original",
+      "mtime": "1664393853",
+      "size": "335200",
+      "md5": "5a03950fb6c94ac2ae8db738d4805936",
+      "crc32": "2a3cff5b",
+      "sha1": "42b910f940f05f786b2f10b862b28468947b68d5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nhregister-2022-09-28T15:37:30.358182-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664393861",
+      "size": "1494",
+      "md5": "c0b6791a9b6e3e1e837d9932af204c17",
+      "crc32": "b88bb2b3",
+      "sha1": "114cbe05f1f445eb6eed0da0494e7682c5afe31d",
+      "format": "JSON"
+    },
+    {
+      "name": "nhregister-2022-09-28T15:37:30.358182-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664393865",
+      "size": "98914",
+      "md5": "b97c40c682ba3c29aef33dc1df0422c6",
+      "crc32": "c6d69659",
+      "sha1": "be4e1d179e734204facbc951b993db16127872a9",
+      "format": "JSON"
+    },
+    {
       "name": "nhregister-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c41b9b67090ea2e4b751516d7c9eadcdac8f48a6",
-      "mtime": "1664351183",
-      "size": "38332",
-      "md5": "ae0abd0ac61b2acde4aebd5460b52ec2",
-      "crc32": "75662754",
-      "sha1": "db59907b0cec5607fa4883764f0c795ffc2d500d",
+      "btih": "8247137c9d38f20bebf06aea7a0a0d615424126e",
+      "mtime": "1664394086",
+      "size": "39632",
+      "md5": "a1911003eed2545f11d029dd2036cd39",
+      "crc32": "1052a8e5",
+      "sha1": "2d0108f221f730b0b17a68997bdb69f81679747c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nhregister-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4b095735b629bd7116fa629319806491",
+      "md5": "c185a16538b05dfc1a63170734bf6d1d",
       "summation": "md5"
     },
     {
       "name": "nhregister-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664351145",
-      "size": "241664",
-      "md5": "19a21d96df2ec10bac6579abea4fea83",
-      "crc32": "83f7a56e",
-      "sha1": "6ee939b5812a7aaee247139ac1223f4bb02371b1",
+      "mtime": "1664394046",
+      "size": "249856",
+      "md5": "2fe50f03d2dda10d3c5708988b1eca0a",
+      "crc32": "9acdf7b7",
+      "sha1": "3e28349ce66c8e7642e4c11d50f2bf924453beeb",
       "format": "Metadata"
     },
     {
@@ -1831,9 +1893,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 177,
-  "item_last_updated": 1664351183,
-  "item_size": 16219744,
+  "files_count": 183,
+  "item_last_updated": 1664394086,
+  "item_size": 16825449,
   "metadata": {
     "identifier": "nhregister-2022",
     "collection": [
@@ -1855,7 +1917,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420785320,
+      "task_id": 3421362327,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1863,7 +1925,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 651181334,
+  "uniq": 1450451554,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

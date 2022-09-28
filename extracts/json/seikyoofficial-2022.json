@@ -1,5 +1,5 @@
 {
-  "created": 1664351580,
+  "created": 1664394384,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/9/items/seikyoofficial-2022",
@@ -13575,31 +13575,93 @@
       "format": "JSON"
     },
     {
+      "name": "seikyoofficial-2022-09-28T16:51:49.788182+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "seikyoofficial-2022-09-28T16:51:49.788182+09:00.jpg",
+      "mtime": "1664354268",
+      "size": "9955",
+      "md5": "c2da88c6f81a64b479b95fb4ef3c5e75",
+      "crc32": "74070512",
+      "sha1": "8f9d03b081ae11cd218a4f0e18b10bc08fbc01ff"
+    },
+    {
+      "name": "seikyoofficial-2022-09-29T04:40:52.650042+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664394059",
+      "size": "26651",
+      "md5": "08052040fb7ef245e3afdacb1c429f5c",
+      "crc32": "b39a8794",
+      "sha1": "776910cf6137d8813f68b50f66bab1d852208360",
+      "format": "JSON"
+    },
+    {
+      "name": "seikyoofficial-2022-09-29T04:40:52.650042+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664394063",
+      "size": "33007",
+      "md5": "4e632fa5c8146afcfa8d53d76c71ea66",
+      "crc32": "fe6b36dc",
+      "sha1": "f202c797a3ea6cab1500a1b3415961b6d9f4e1db",
+      "format": "JSON"
+    },
+    {
+      "name": "seikyoofficial-2022-09-29T04:40:52.650042+09:00.jpg",
+      "source": "original",
+      "mtime": "1664394055",
+      "size": "341155",
+      "md5": "b2e55d0769bb5fbd4e952d472ee2aa0d",
+      "crc32": "f7616701",
+      "sha1": "a383bfab5cca545e8c80819531f8368fef9a3230",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "seikyoofficial-2022-09-29T04:40:52.650042+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664394072",
+      "size": "1510",
+      "md5": "470af88a45428aed4f9e50c3f762a106",
+      "crc32": "9b5b05ce",
+      "sha1": "acf5ca2ae0c48a4a04c91fabe07e0c01c20ef711",
+      "format": "JSON"
+    },
+    {
+      "name": "seikyoofficial-2022-09-29T04:40:52.650042+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1664394076",
+      "size": "29791",
+      "md5": "b15d01a90e836ad26e947051b900c9e4",
+      "crc32": "ae3673e3",
+      "sha1": "bdffa27fcdc533c2eda92aecae9bf457cb4a31e2",
+      "format": "JSON"
+    },
+    {
       "name": "seikyoofficial-2022_archive.torrent",
       "source": "metadata",
-      "btih": "37d09626222ea1054bf7cb08d6625377645ef708",
-      "mtime": "1664351575",
-      "size": "284574",
-      "md5": "a363ec030b73e3342c124e0747c40b74",
-      "crc32": "38a6b832",
-      "sha1": "ed2ffe245c21162e24868e1eee23a98743149fc4",
+      "btih": "939260cf13b7b07f031682e219b084c1f865e4ad",
+      "mtime": "1664394379",
+      "size": "285877",
+      "md5": "91a1d9786793a0ea507fd63a91394dba",
+      "crc32": "a180c368",
+      "sha1": "b3c9c2b866145114c6c00b233d490a0d09fdbc79",
       "format": "Archive BitTorrent"
     },
     {
       "name": "seikyoofficial-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "82bbbaac2a1116f17866c473f5a9be46",
+      "md5": "e4145239c4ec5afb78afc70c5428009d",
       "summation": "md5"
     },
     {
       "name": "seikyoofficial-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664351525",
-      "size": "1654784",
-      "md5": "f8d273ca829f0e4119fe4188078af4a6",
-      "crc32": "a2b0063f",
-      "sha1": "04415c1b2ce43c13630c35f104bd479e4808da16",
+      "mtime": "1664394330",
+      "size": "1662976",
+      "md5": "a7ce35ca824168be3b2fc2e60341c7c7",
+      "crc32": "50832c74",
+      "sha1": "f932160c3341b740dba423b6483ed8e8da136f7c",
       "format": "Metadata"
     },
     {
@@ -13613,9 +13675,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1313,
-  "item_last_updated": 1664351575,
-  "item_size": 89327611,
+  "files_count": 1319,
+  "item_last_updated": 1664394379,
+  "item_size": 89779175,
   "metadata": {
     "identifier": "seikyoofficial-2022",
     "collection": [
@@ -13637,7 +13699,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420789199,
+      "task_id": 3421367645,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13645,7 +13707,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1661672850,
+  "uniq": 2080816677,
   "workable_servers": [
     "ia902502.us.archive.org"
   ]

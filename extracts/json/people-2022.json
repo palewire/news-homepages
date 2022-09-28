@@ -1,5 +1,5 @@
 {
-  "created": 1664351325,
+  "created": 1664394125,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/0/items/people-2022",
@@ -9317,31 +9317,93 @@
       "format": "JSON"
     },
     {
+      "name": "people-2022-09-28T03:47:31.517369-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "people-2022-09-28T03:47:31.517369-04:00.jpg",
+      "mtime": "1664353727",
+      "size": "9618",
+      "md5": "e68a369c434445d84b4d6de6cbb75108",
+      "crc32": "8e7fc41c",
+      "sha1": "a2a940f2c06f933a21152ec558cf2246e7d58e69"
+    },
+    {
+      "name": "people-2022-09-28T15:38:10.696775-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664393902",
+      "size": "35177",
+      "md5": "68ba91d8a5b12de6d3567548385991c7",
+      "crc32": "7738e16b",
+      "sha1": "f78428527019469415c0a80817c97378e2aa7ed0",
+      "format": "JSON"
+    },
+    {
+      "name": "people-2022-09-28T15:38:10.696775-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664393907",
+      "size": "54477",
+      "md5": "b736bb51602b6161366fecd36afad203",
+      "crc32": "c28f30a8",
+      "sha1": "b57751e922828c3795c69cadb22fb2e08b81e5a0",
+      "format": "JSON"
+    },
+    {
+      "name": "people-2022-09-28T15:38:10.696775-04:00.jpg",
+      "source": "original",
+      "mtime": "1664393897",
+      "size": "326779",
+      "md5": "5dd7f2a3ba9ea343b15baf0c45795166",
+      "crc32": "387c5a5f",
+      "sha1": "9d988bef3ecb6996dc173259fe945d489d906c8e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "people-2022-09-28T15:38:10.696775-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664393911",
+      "size": "1420",
+      "md5": "5a8e21933e1cbc22dc45aa87f1307dd1",
+      "crc32": "acaf120e",
+      "sha1": "76560b966fd57d523766d90bdc64ccdf1882096b",
+      "format": "JSON"
+    },
+    {
+      "name": "people-2022-09-28T15:38:10.696775-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664393914",
+      "size": "226",
+      "md5": "a37fec39c3371d0753cb9f3f3f05a0fd",
+      "crc32": "7044a973",
+      "sha1": "1ece945128a1c3a66de221e43f4f4926ba63a7c6",
+      "format": "JSON"
+    },
+    {
       "name": "people-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9c2371b940d4e64315e4921ebe816a5d61cf2573",
-      "mtime": "1664351321",
-      "size": "188815",
-      "md5": "9db42be765a5d737b751b6675e8efbe2",
-      "crc32": "67b27c61",
-      "sha1": "ce2144cf38f3db991ab13a0db9deeb95402d30d9",
+      "btih": "31d508e8de78323d72ab07582bf955d6ba9ba975",
+      "mtime": "1664394120",
+      "size": "190068",
+      "md5": "d8738efe2cb162ba1103fb01ea3948e9",
+      "crc32": "299f5484",
+      "sha1": "57a0ae6fdceb3cf5269200daba3e3b6a310b0cec",
       "format": "Archive BitTorrent"
     },
     {
       "name": "people-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bebd9cf102a04b8366365a5da1bbcba4",
+      "md5": "e2e12eeb76eaa9d04c42663f210b0712",
       "summation": "md5"
     },
     {
       "name": "people-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664351267",
-      "size": "1118208",
-      "md5": "59021dc88ac2d60af1d4981a4b65d0e0",
-      "crc32": "75740518",
-      "sha1": "26b97ac2b5c396264bfec55a1189d35ec5664ea7",
+      "mtime": "1664394068",
+      "size": "1126400",
+      "md5": "c3ea0eb4dfdf62cf9c9e09ec17a99454",
+      "crc32": "8597597e",
+      "sha1": "13d4540b71a7f82cbcfc23ec8e2a93a85047a4cf",
       "format": "Metadata"
     },
     {
@@ -9355,9 +9417,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 901,
-  "item_last_updated": 1664351321,
-  "item_size": 76305998,
+  "files_count": 907,
+  "item_last_updated": 1664394120,
+  "item_size": 76743140,
   "metadata": {
     "identifier": "people-2022",
     "collection": [
@@ -9379,7 +9441,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420786661,
+      "task_id": 3421362736,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9387,7 +9449,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 424298753,
+  "uniq": 1068673907,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]

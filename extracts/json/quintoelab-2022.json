@@ -1,5 +1,5 @@
 {
-  "created": 1664351432,
+  "created": 1664394333,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/33/items/quintoelab-2022",
@@ -11951,31 +11951,93 @@
       "format": "JSON"
     },
     {
+      "name": "quintoelab-2022-09-28T02:49:18.448369-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "quintoelab-2022-09-28T02:49:18.448369-05:00.jpg",
+      "mtime": "1664353785",
+      "size": "8595",
+      "md5": "2689f917815e4969fc1259e768abb3cf",
+      "crc32": "a651ae3e",
+      "sha1": "3263ad9a64b436ed42f2d3054c33efd6a40e5b3e"
+    },
+    {
+      "name": "quintoelab-2022-09-28T14:38:35.392178-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664393927",
+      "size": "14778",
+      "md5": "845e761bc49131ec74c27303dd9e0eab",
+      "crc32": "94a3c87d",
+      "sha1": "88dc8c04a6d18fbf58af41b9e6930e1df9bceff8",
+      "format": "JSON"
+    },
+    {
+      "name": "quintoelab-2022-09-28T14:38:35.392178-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664393930",
+      "size": "5723",
+      "md5": "86e2573de1d7ea30f21336958c5ba432",
+      "crc32": "4daa827b",
+      "sha1": "5636ec7bd1a93ea58eb02fb6539aad07743fc533",
+      "format": "JSON"
+    },
+    {
+      "name": "quintoelab-2022-09-28T14:38:35.392178-05:00.jpg",
+      "source": "original",
+      "mtime": "1664393923",
+      "size": "288336",
+      "md5": "6ff064b526daf30ec4387f15322ced0c",
+      "crc32": "039ff181",
+      "sha1": "8840377890f652978f2e4ae6c10996b106601470",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "quintoelab-2022-09-28T14:38:35.392178-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664393934",
+      "size": "1459",
+      "md5": "4009451413cc42d6137cbc1a27c54dae",
+      "crc32": "35d9dc2c",
+      "sha1": "521b1727fcf3d27e30bf3ff83c9e32d0e1b9b7e9",
+      "format": "JSON"
+    },
+    {
+      "name": "quintoelab-2022-09-28T14:38:35.392178-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664393937",
+      "size": "8872",
+      "md5": "35e5984a9980a1d8e5760a1df48ae8b6",
+      "crc32": "8680c2ba",
+      "sha1": "765b30293adf15064f46261be2a6f0eb4dbdedac",
+      "format": "JSON"
+    },
+    {
       "name": "quintoelab-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0de4793e1cd860bee2dfea87db7848ddc32e435e",
-      "mtime": "1664351430",
-      "size": "245209",
-      "md5": "10edd312ad2e6d6dd7d360671298fb5d",
-      "crc32": "d9381743",
-      "sha1": "b9e5abbdaada86f044f5b2607243a5b10f831dc3",
+      "btih": "2981c24877a1edae0ee310cea41912dfec629157",
+      "mtime": "1664394328",
+      "size": "246486",
+      "md5": "1ad987316f5962e0bdb1dba42b0dafbb",
+      "crc32": "a9f3357b",
+      "sha1": "5bafc3a29ea9f1d2ce3b96fd9c8da1b0ee78646e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "quintoelab-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2cda4470f06bde692894f899923dff84",
+      "md5": "bf4489ec6a097b98dac248e13a690bc4",
       "summation": "md5"
     },
     {
       "name": "quintoelab-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664351379",
-      "size": "1417216",
-      "md5": "b75d9335da539800f50a517e262444cc",
-      "crc32": "ffc398c5",
-      "sha1": "042cb6b152b6b4a14ef1b5bc44519e44e6e136e3",
+      "mtime": "1664394280",
+      "size": "1433600",
+      "md5": "69ca5af77bef0df6414a68099824adeb",
+      "crc32": "b94f3636",
+      "sha1": "3870d41cf4eb5e224a1bb18bdcf33ef15324175f",
       "format": "Metadata"
     },
     {
@@ -11989,9 +12051,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1153,
-  "item_last_updated": 1664351430,
-  "item_size": 85509351,
+  "files_count": 1159,
+  "item_last_updated": 1664394328,
+  "item_size": 85854775,
   "metadata": {
     "identifier": "quintoelab-2022",
     "collection": [
@@ -12013,7 +12075,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420787709,
+      "task_id": 3421366481,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12021,7 +12083,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 361081776,
+  "uniq": 896318525,
   "workable_servers": [
     "ia902503.us.archive.org"
   ]

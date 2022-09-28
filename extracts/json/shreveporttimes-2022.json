@@ -1,5 +1,5 @@
 {
-  "created": 1664351704,
+  "created": 1664394470,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/12/items/shreveporttimes-2022",
@@ -997,31 +997,93 @@
       "format": "JSON"
     },
     {
+      "name": "shreveporttimes-2022-09-28T02:52:11.927098-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "shreveporttimes-2022-09-28T02:52:11.927098-05:00.jpg",
+      "mtime": "1664354023",
+      "size": "9652",
+      "md5": "28f6470c88116de21347279ddffaad00",
+      "crc32": "05079c8c",
+      "sha1": "4e953decefcab1d92b2fcbad5f5adb7814bd9a82"
+    },
+    {
+      "name": "shreveporttimes-2022-09-28T14:42:18.458920-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664394145",
+      "size": "19671",
+      "md5": "069fa0b400adf3e2fa8def9a7612387b",
+      "crc32": "ef0577d8",
+      "sha1": "2e088051f17293aa8949bceb195a52599fc6b37d",
+      "format": "JSON"
+    },
+    {
+      "name": "shreveporttimes-2022-09-28T14:42:18.458920-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664394151",
+      "size": "37498",
+      "md5": "6e9edfed1b524082922b99c961ace25f",
+      "crc32": "0478a93e",
+      "sha1": "3190c56b5ec805dc0cea2ddc38608c7caa7cf434",
+      "format": "JSON"
+    },
+    {
+      "name": "shreveporttimes-2022-09-28T14:42:18.458920-05:00.jpg",
+      "source": "original",
+      "mtime": "1664394142",
+      "size": "291694",
+      "md5": "ef0793825b98cd4e93150920c3723b39",
+      "crc32": "69d6a799",
+      "sha1": "40e6ad1016324b8c23221fc87f53f9d7ecd9e033",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "shreveporttimes-2022-09-28T14:42:18.458920-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664394157",
+      "size": "1540",
+      "md5": "661b4d8ce04fd181a06aef6c6c7c2f83",
+      "crc32": "36669b70",
+      "sha1": "4ba7cefd88d888c3cc9598e601c7fb5e53536518",
+      "format": "JSON"
+    },
+    {
+      "name": "shreveporttimes-2022-09-28T14:42:18.458920-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664394165",
+      "size": "107737",
+      "md5": "9038aa557a711ef4df9a3af65843df4d",
+      "crc32": "b95f18fc",
+      "sha1": "f6a052093f8e5ce18c52ca85ec7387b0f602539a",
+      "format": "JSON"
+    },
+    {
       "name": "shreveporttimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "670f201b98c812ef524269fba698473c30734dfa",
-      "mtime": "1664351699",
-      "size": "22345",
-      "md5": "72396e9b4d2fc9ea97e8bbccf0a98d24",
-      "crc32": "c986b5b5",
-      "sha1": "77fc054ece70548b0d7afd8d6cec7de67aee4820",
+      "btih": "4105f24e900244955e2df0021f3beff775710dbd",
+      "mtime": "1664394467",
+      "size": "23655",
+      "md5": "5dc1c351f05dfc774b8b9dc2657db1ee",
+      "crc32": "1b544da1",
+      "sha1": "8a552a7b617d85bf9204c7ef0a97f0e315573c1b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "shreveporttimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0a09c07a7e633c295ef108a9ceffc2f7",
+      "md5": "2a198f86bf2e36413bf2f396c6289951",
       "summation": "md5"
     },
     {
       "name": "shreveporttimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664351660",
-      "size": "147456",
-      "md5": "12f2733886b40a8fcdf9df462697fa03",
-      "crc32": "71fa65a0",
-      "sha1": "97f7e660db562026ac6e873ef7693f9e5de147f3",
+      "mtime": "1664394428",
+      "size": "155648",
+      "md5": "570469fc2e4c3bbd22b9bcb338f42724",
+      "crc32": "05a2065a",
+      "sha1": "f6457ea566f867b2eee3f5d69acf87fcf30725d7",
       "format": "Metadata"
     },
     {
@@ -1035,9 +1097,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 100,
-  "item_last_updated": 1664351699,
-  "item_size": 6671414,
+  "files_count": 106,
+  "item_last_updated": 1664394467,
+  "item_size": 7148708,
   "metadata": {
     "identifier": "shreveporttimes-2022",
     "collection": [
@@ -1059,7 +1121,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420790500,
+      "task_id": 3421369485,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1067,7 +1129,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 714427170,
+  "uniq": 929590270,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]
