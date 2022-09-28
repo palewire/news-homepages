@@ -1,5 +1,5 @@
 {
-  "created": 1664289681,
+  "created": 1664332130,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/21/items/ocalastarbanner-2022",
@@ -884,31 +884,82 @@
       "sha1": "85627e054098c0527e196fae375cb672540b8d8c"
     },
     {
+      "name": "ocalastarbanner-2022-09-27T22:27:56.763044-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664332080",
+      "size": "22008",
+      "md5": "ceae45e7829f726625f5d3e813d2b279",
+      "crc32": "e737e797",
+      "sha1": "371c86021ea0c85ee715e0437cf1354a93813ff7",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-09-27T22:27:56.763044-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664332082",
+      "size": "32089",
+      "md5": "6adf2bb6c1294e09b76a252c972c6aee",
+      "crc32": "210e0087",
+      "sha1": "cc79af42b18512dbcf41561045bb94d941d987e3",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-09-27T22:27:56.763044-04:00.jpg",
+      "source": "original",
+      "mtime": "1664332079",
+      "size": "270123",
+      "md5": "327b6f551b1989d8f1ba7ffdc3906f3a",
+      "crc32": "d3bef24a",
+      "sha1": "0561a3f7675574e00e9d0da7c0db7b045f4980c1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocalastarbanner-2022-09-27T22:27:56.763044-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664332084",
+      "size": "1449",
+      "md5": "729f9efba7748d7063220ecb095325d7",
+      "crc32": "4ec2f56f",
+      "sha1": "f9ce95245388bc758aabc1088d45bf23235c78e9",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-09-27T22:27:56.763044-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664332085",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "ocalastarbanner-2022_archive.torrent",
       "source": "metadata",
-      "btih": "90695b3a069e1a28bdfa6d93f50c88578b56ec8b",
-      "mtime": "1664289540",
-      "size": "19921",
-      "md5": "a1cdfcd46043886abb6c1d23fcd7f85d",
-      "crc32": "0ebeb5d8",
-      "sha1": "1d1474dabe1f8141aa970f2a24ee383f2a7ec037",
+      "btih": "443e5d2258daecf1a0376e04546f7969d5926512",
+      "mtime": "1664332125",
+      "size": "20997",
+      "md5": "11fadc249952cfa0f89b512c795af4be",
+      "crc32": "f9c06a49",
+      "sha1": "968f645fb502930227d96a2dd288d125ab450835",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ocalastarbanner-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d03bb5e6f785b16eb143a02cf297fbc4",
+      "md5": "d88e1a5401809e78d4e2201fd3c47b67",
       "summation": "md5"
     },
     {
       "name": "ocalastarbanner-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664287764",
-      "size": "135168",
-      "md5": "dfcb29115801da5a564a0caf725895c7",
-      "crc32": "8f628c18",
-      "sha1": "3306b2d21e485a74f05a59820feec78bde2703e5",
+      "mtime": "1664332090",
+      "size": "139264",
+      "md5": "1a8416b4a19043d70a2d669ace296826",
+      "crc32": "4d5a5743",
+      "sha1": "e2edd6368047a0070a57d4b51c78ee45b0557dea",
       "format": "Metadata"
     },
     {
@@ -922,9 +973,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 89,
-  "item_last_updated": 1664289540,
-  "item_size": 5339807,
+  "files_count": 94,
+  "item_last_updated": 1664332125,
+  "item_size": 5670850,
   "metadata": {
     "identifier": "ocalastarbanner-2022",
     "collection": [
@@ -941,10 +992,21 @@
     "publicdate": "2022-09-21 02:22:57",
     "addeddate": "2022-09-21 02:22:57"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 768897500,
+  "pending_tasks": true,
+  "server": "ia601505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3420510023,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 144415381,
   "workable_servers": [
-    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

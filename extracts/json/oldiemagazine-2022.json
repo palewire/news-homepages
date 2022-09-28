@@ -1,5 +1,5 @@
 {
-  "created": 1664295437,
+  "created": 1664332107,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/31/items/oldiemagazine-2022",
@@ -7508,31 +7508,82 @@
       "sha1": "7b37a08998d24c3f88ef770f4a3b435029d2a3a9"
     },
     {
+      "name": "oldiemagazine-2022-09-28T03:27:18.786597+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664332050",
+      "size": "12557",
+      "md5": "19ba4d37e1525cb089a14b754d193ce5",
+      "crc32": "5fd67a97",
+      "sha1": "23ac8360bceda669eb2546fe0cce04dbd1e14fb6",
+      "format": "JSON"
+    },
+    {
+      "name": "oldiemagazine-2022-09-28T03:27:18.786597+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664332051",
+      "size": "12997",
+      "md5": "0857d423bca1c612edcf3b05bd049786",
+      "crc32": "b35a6b85",
+      "sha1": "b69a253f002df2d722b3b819a80e9552884b4642",
+      "format": "JSON"
+    },
+    {
+      "name": "oldiemagazine-2022-09-28T03:27:18.786597+01:00.jpg",
+      "source": "original",
+      "mtime": "1664332048",
+      "size": "97771",
+      "md5": "3e9a49ad0c76aeba9b6dbeb7c946f03b",
+      "crc32": "e702417a",
+      "sha1": "ab1f361d6159e565a6e6eecf5c2e429b563c35e4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oldiemagazine-2022-09-28T03:27:18.786597+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664332053",
+      "size": "1492",
+      "md5": "e0fb6ce7bd3eda01c94425fb73a40245",
+      "crc32": "3e08cc7c",
+      "sha1": "7491dcef5103c0eee9d69ad8f81084452a8dc176",
+      "format": "JSON"
+    },
+    {
+      "name": "oldiemagazine-2022-09-28T03:27:18.786597+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1664332055",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "oldiemagazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6f2765b546fd008f4cc13fa2a00ca704e87d42eb",
-      "mtime": "1664289386",
-      "size": "156390",
-      "md5": "5824b730e266fc6b438f8de7a586a6cc",
-      "crc32": "09a79682",
-      "sha1": "f4499a7752ac239b885af87a54858acefd78005d",
+      "btih": "24c1f238872fca1050abf4ecceca5510ef8cf254",
+      "mtime": "1664332102",
+      "size": "157455",
+      "md5": "b0c64205d082d5cae6e242d4c1ee4db5",
+      "crc32": "21b6ac22",
+      "sha1": "eba26973a0e741260998ab5a1e5b5d6d6c65c15a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oldiemagazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "863e36598d9947ec7323b62222ff9e11",
+      "md5": "9ef4cd937ffb7e4d8043f240967ade6d",
       "summation": "md5"
     },
     {
       "name": "oldiemagazine-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664287739",
-      "size": "946176",
-      "md5": "3b35336c36a369f30cf88da1bd16313e",
-      "crc32": "555eb4e9",
-      "sha1": "1fd65d1f0d0c396f1f5fef579104723744ceec8a",
+      "mtime": "1664332060",
+      "size": "950272",
+      "md5": "de58a56c11ff63c8c7093cf9afbcdef4",
+      "crc32": "985598ea",
+      "sha1": "b622a451ad1eb8800106cbc4fdc1b3ae8626346d",
       "format": "Metadata"
     },
     {
@@ -7546,9 +7597,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 730,
-  "item_last_updated": 1664289386,
-  "item_size": 17712414,
+  "files_count": 735,
+  "item_last_updated": 1664332102,
+  "item_size": 17842594,
   "metadata": {
     "identifier": "oldiemagazine-2022",
     "collection": [
@@ -7565,15 +7616,21 @@
     "publicdate": "2022-08-18 23:58:11",
     "addeddate": "2022-08-18 23:58:11"
   },
-  "oldiemagazine-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "uniq": 845861065,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3420509741,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2055056190,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia601401.us.archive.org"
   ]
 }

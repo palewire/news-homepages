@@ -1,5 +1,5 @@
 {
-  "created": 1664289522,
+  "created": 1664332022,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/13/items/newsweek-2022",
@@ -9536,31 +9536,82 @@
       "sha1": "63b175ab3dd20ea680a34459c39666940fcec622"
     },
     {
+      "name": "newsweek-2022-09-27T22:25:54.006541-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664331961",
+      "size": "52956",
+      "md5": "feaea8de1811e4ce874d8bbfa7b6961d",
+      "crc32": "2af1da33",
+      "sha1": "9e354c4dc08083f5b7e5800e4163d000934edbe5",
+      "format": "JSON"
+    },
+    {
+      "name": "newsweek-2022-09-27T22:25:54.006541-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664331963",
+      "size": "44901",
+      "md5": "6ee0211ab0904eb6d64dfb323d50a8c4",
+      "crc32": "daa996a9",
+      "sha1": "c42503d33286b993af3eea3cbd0dadfd10c44d41",
+      "format": "JSON"
+    },
+    {
+      "name": "newsweek-2022-09-27T22:25:54.006541-04:00.jpg",
+      "source": "original",
+      "mtime": "1664331959",
+      "size": "379186",
+      "md5": "75ac9f0a20a01a56686a2fbf83ea8ef5",
+      "crc32": "696a825b",
+      "sha1": "369c0bb160b33a14d00e1e4170f2a4cce9bfdfee",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsweek-2022-09-27T22:25:54.006541-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664331964",
+      "size": "1475",
+      "md5": "3e7f4cda787557bbbe5605533986fba6",
+      "crc32": "f4f38824",
+      "sha1": "424683aa34941709206b3d1c818284a596964eec",
+      "format": "JSON"
+    },
+    {
+      "name": "newsweek-2022-09-27T22:25:54.006541-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664331966",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "newsweek-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c4ca6abeb5284557265c377faa99456996df610b",
-      "mtime": "1664289478",
-      "size": "195708",
-      "md5": "94ea6360ca8f2992515b46b277dc25d4",
-      "crc32": "8d393f62",
-      "sha1": "6d2d3d1a2aa23b4f4e4892fef4a70f7c96bf350f",
+      "btih": "b0d671c316014f84d3a28a7cdb57ca21163c80e0",
+      "mtime": "1664332017",
+      "size": "196769",
+      "md5": "5d7276f06638fcbb1cc52676d6fbfbc6",
+      "crc32": "66e9bedc",
+      "sha1": "18ba4f06632b773bb3e6cbb9ed84c102ddbd1a48",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newsweek-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "050a3db1df58ffc9060fb4346a63048d",
+      "md5": "38a102469351cb14252623176e3b9dd1",
       "summation": "md5"
     },
     {
       "name": "newsweek-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664287605",
-      "size": "1159168",
-      "md5": "f07ef20389a8a0afb6f4748b87769175",
-      "crc32": "966d9bdd",
-      "sha1": "287444b2864349b0dd93f25b5234f7b04efb84af",
+      "mtime": "1664331971",
+      "size": "1163264",
+      "md5": "94a710f3e2ded11d3a8cbd9f4213c921",
+      "crc32": "e7a7320d",
+      "sha1": "1cf6c2fc0e23281e57ade9367a7728e01bdb8094",
       "format": "Metadata"
     },
     {
@@ -9574,9 +9625,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 923,
-  "item_last_updated": 1664289478,
-  "item_size": 86059560,
+  "files_count": 928,
+  "item_last_updated": 1664332017,
+  "item_size": 86543437,
   "metadata": {
     "identifier": "newsweek-2022",
     "collection": [
@@ -9593,10 +9644,21 @@
     "publicdate": "2022-07-04 21:49:52",
     "addeddate": "2022-07-04 21:49:52"
   },
+  "pending_tasks": true,
   "server": "ia601504.us.archive.org",
-  "uniq": 1172871169,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3420508692,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 392713616,
   "workable_servers": [
-    "ia601504.us.archive.org",
-    "ia801504.us.archive.org"
+    "ia601504.us.archive.org"
   ]
 }

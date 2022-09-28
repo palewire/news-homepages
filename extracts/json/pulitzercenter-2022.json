@@ -1,5 +1,5 @@
 {
-  "created": 1664287806,
+  "created": 1664332135,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/14/items/pulitzercenter-2022",
@@ -9169,31 +9169,93 @@
       "format": "JSON"
     },
     {
+      "name": "pulitzercenter-2022-09-27T10:08:44.657558-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pulitzercenter-2022-09-27T10:08:44.657558-04:00.jpg",
+      "mtime": "1664289387",
+      "size": "8636",
+      "md5": "0d0596d8669ed24b11eaff68fd1cf729",
+      "crc32": "23f75410",
+      "sha1": "a8213f4d76fb61f47cd065158f6e2f9874f54a40"
+    },
+    {
+      "name": "pulitzercenter-2022-09-27T22:27:44.515424-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664332071",
+      "size": "8960",
+      "md5": "1d21d0a98724ecda3d1c9cf1a6654ce5",
+      "crc32": "e39ceebd",
+      "sha1": "ab8e93f1c4406316607b89e70bc7e0317f0920c6",
+      "format": "JSON"
+    },
+    {
+      "name": "pulitzercenter-2022-09-27T22:27:44.515424-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664332073",
+      "size": "15994",
+      "md5": "e1810f430ceea3c2c3e6f642f08c2881",
+      "crc32": "4eae62c7",
+      "sha1": "a90e048ad832326e042a4d6c94c61bfc32699b1c",
+      "format": "JSON"
+    },
+    {
+      "name": "pulitzercenter-2022-09-27T22:27:44.515424-04:00.jpg",
+      "source": "original",
+      "mtime": "1664332069",
+      "size": "186974",
+      "md5": "404d0b1422055c0139434b6521d969ad",
+      "crc32": "fdd0faec",
+      "sha1": "4c7d98afca309383b94277905900e6d92295a438",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pulitzercenter-2022-09-27T22:27:44.515424-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664332074",
+      "size": "1495",
+      "md5": "b608739a75724cda240625d969107d7e",
+      "crc32": "60caca5d",
+      "sha1": "ea1013c153fcdbe31617bd46c12886c5b8c7848c",
+      "format": "JSON"
+    },
+    {
+      "name": "pulitzercenter-2022-09-27T22:27:44.515424-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664332076",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "pulitzercenter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "96ee67ba43944bc5bdbc538d6ef9dacb7e9e17ca",
-      "mtime": "1664287797",
-      "size": "191788",
-      "md5": "9ffb6312bb122697ed5ca610183c53da",
-      "crc32": "ffd23086",
-      "sha1": "f45d679cd8e9f83001cdf2a1d5e2e55a8b7bf914",
+      "btih": "4b9635829a563196251277f1138ba3b28da89d8f",
+      "mtime": "1664332127",
+      "size": "193088",
+      "md5": "dd04a1773978f858e277d78243117313",
+      "crc32": "4017b79c",
+      "sha1": "c8bbbe6adb8ab96032a4384e044b1defae6390dd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pulitzercenter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "647833e378c2ae98e894860fe2b117d9",
+      "md5": "7b5fd35b637b633ffb083c8eef453bbc",
       "summation": "md5"
     },
     {
       "name": "pulitzercenter-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664287754",
-      "size": "1126400",
-      "md5": "f4b7550f0ab98c86a0f4f4d1d81d850f",
-      "crc32": "d0c9960c",
-      "sha1": "f8061cff5e2a12c21f47ee7170e5f61e450f7498",
+      "mtime": "1664332082",
+      "size": "1134592",
+      "md5": "1b11fa29c786e3e63827f04d03761dbb",
+      "crc32": "4e930034",
+      "sha1": "6e974eee5735ac2fc5f642dc5255924229cdda62",
       "format": "Metadata"
     },
     {
@@ -9207,9 +9269,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 888,
-  "item_last_updated": 1664287797,
-  "item_size": 42007509,
+  "files_count": 894,
+  "item_last_updated": 1664332127,
+  "item_size": 42239262,
   "metadata": {
     "identifier": "pulitzercenter-2022",
     "collection": [
@@ -9231,7 +9293,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3419839206,
+      "task_id": 3420510082,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9239,7 +9301,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2004281227,
+  "uniq": 1617334331,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

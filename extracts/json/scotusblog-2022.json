@@ -1,5 +1,5 @@
 {
-  "created": 1664287915,
+  "created": 1664332296,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/5/items/scotusblog-2022",
@@ -10901,31 +10901,93 @@
       "format": "JSON"
     },
     {
+      "name": "scotusblog-2022-09-27T10:10:45.598317-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "scotusblog-2022-09-27T10:10:45.598317-04:00.jpg",
+      "mtime": "1664289569",
+      "size": "9719",
+      "md5": "bac09368ce5653c2be67089dede553b5",
+      "crc32": "96b2a8d8",
+      "sha1": "6b886369888403e5268e948a1cbc3c8553df170f"
+    },
+    {
+      "name": "scotusblog-2022-09-27T22:30:22.920423-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664332230",
+      "size": "50259",
+      "md5": "3b44a98e47d748a9ecaf9fecf4bb7d73",
+      "crc32": "70b09979",
+      "sha1": "a624af56bf6bb4bb7c03c760b852567448e545b8",
+      "format": "JSON"
+    },
+    {
+      "name": "scotusblog-2022-09-27T22:30:22.920423-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664332239",
+      "size": "28339",
+      "md5": "dadc0ba394f507e96498a3addbcc890b",
+      "crc32": "ea9b5edc",
+      "sha1": "b055c9d8c2bc2854cffd68285dce4069ee573f94",
+      "format": "JSON"
+    },
+    {
+      "name": "scotusblog-2022-09-27T22:30:22.920423-04:00.jpg",
+      "source": "original",
+      "mtime": "1664332229",
+      "size": "274148",
+      "md5": "51e9513b4af0c48b9fe31e4bbd62821f",
+      "crc32": "1a3d93d7",
+      "sha1": "ecb2b0100b74d1ca847668d81cc68717711a1773",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "scotusblog-2022-09-27T22:30:22.920423-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664332240",
+      "size": "1495",
+      "md5": "97bccb933548b6922be26fdd2ba23952",
+      "crc32": "d11caef4",
+      "sha1": "b23a99b0df433f8017c69388527080872791d680",
+      "format": "JSON"
+    },
+    {
+      "name": "scotusblog-2022-09-27T22:30:22.920423-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664332242",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "scotusblog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4d7c70952f5fca891b860771152f7f6978496f1d",
-      "mtime": "1664287909",
-      "size": "224514",
-      "md5": "5c49d4ff884c1ee0b22aca6c18c531fc",
-      "crc32": "4499337f",
-      "sha1": "1008701e54fe7b1c0f7f12e5469f383b56baca68",
+      "btih": "104f7fcee9c55ccc34786930cbae49a050e94e5c",
+      "mtime": "1664332292",
+      "size": "225791",
+      "md5": "952724ba514337fd5d53d7912a31c62d",
+      "crc32": "af88caf1",
+      "sha1": "b418c4f1d7a30d7234e468a3a15d2b2aad564f94",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scotusblog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c4324fb8444932ca9caebe3215329560",
+      "md5": "a7ca2b791eb5471a1b9c2beaa228e546",
       "summation": "md5"
     },
     {
       "name": "scotusblog-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664287864",
-      "size": "1306624",
-      "md5": "d1114a8e1cd2459954f9f312dbeb2265",
-      "crc32": "feb0fb81",
-      "sha1": "71952ed9c0057204b690b25904ef5a1ab64ced56",
+      "mtime": "1664332247",
+      "size": "1314816",
+      "md5": "ac676b82b6ea9f801c5959d52d59c45f",
+      "crc32": "9d259427",
+      "sha1": "82d3c2a84808c240b259dbd1eb2948025e7426b1",
       "format": "Metadata"
     },
     {
@@ -10939,9 +11001,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1053,
-  "item_last_updated": 1664287909,
-  "item_size": 82522788,
+  "files_count": 1059,
+  "item_last_updated": 1664332292,
+  "item_size": 82896419,
   "metadata": {
     "identifier": "scotusblog-2022",
     "collection": [
@@ -10963,7 +11025,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3419840419,
+      "task_id": 3420512187,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10971,7 +11033,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1899645617,
+  "uniq": 1990586030,
   "workable_servers": [
     "ia902503.us.archive.org"
   ]

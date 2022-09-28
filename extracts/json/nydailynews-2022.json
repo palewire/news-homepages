@@ -1,5 +1,5 @@
 {
-  "created": 1664289857,
+  "created": 1664332034,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/6/items/nydailynews-2022",
@@ -9542,31 +9542,82 @@
       "sha1": "b383729d727345f882af6949ab9399b477bb681e"
     },
     {
+      "name": "nydailynews-2022-09-27T22:25:56.463865-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664331964",
+      "size": "32791",
+      "md5": "275ee758d634313af5234de53414616c",
+      "crc32": "ba464ff2",
+      "sha1": "3f740cb63427232fe67d413a52489814d82bf97e",
+      "format": "JSON"
+    },
+    {
+      "name": "nydailynews-2022-09-27T22:25:56.463865-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664331965",
+      "size": "42794",
+      "md5": "bec559f9a995a6dcc9cbbd7778a60a4c",
+      "crc32": "f25ddeb0",
+      "sha1": "5bf3dc87f120e6e11bd5ebc92667a3db8d09bfdc",
+      "format": "JSON"
+    },
+    {
+      "name": "nydailynews-2022-09-27T22:25:56.463865-04:00.jpg",
+      "source": "original",
+      "mtime": "1664331962",
+      "size": "283625",
+      "md5": "fb6f5e7b38ba4e074243026a84717073",
+      "crc32": "c726fd8a",
+      "sha1": "aaa75b81f7342be49ffcd50935e683d189ad9ee0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nydailynews-2022-09-27T22:25:56.463865-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664331967",
+      "size": "1504",
+      "md5": "a7076f781b544d0a288f1c8f554b1efe",
+      "crc32": "db1156a5",
+      "sha1": "396f0b5ed477df9205e80131cfdf86d924a3a94b",
+      "format": "JSON"
+    },
+    {
+      "name": "nydailynews-2022-09-27T22:25:56.463865-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664331969",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "nydailynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "604cafd19dea0d174f0fa126b3d86ce0fc8aa9bd",
-      "mtime": "1664289525",
-      "size": "198195",
-      "md5": "35fffca883ac6642b0093029751d9aef",
-      "crc32": "7b212068",
-      "sha1": "bb49090b1b7fe651c4df591dfb23782b34a43d56",
+      "btih": "9e0e5a79e01f1c5c407bf3419ec451a822eff4b7",
+      "mtime": "1664332028",
+      "size": "199251",
+      "md5": "33d8e9093bfd63a63464250c595d4f37",
+      "crc32": "cdf607d4",
+      "sha1": "a533c2cf329b56dd023ba6c89e959d277183d6b3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nydailynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ca9d3e23a42ed2eb8a9170a7dd4fe65f",
+      "md5": "da64f6a8af5e542c599480fc297f089e",
       "summation": "md5"
     },
     {
       "name": "nydailynews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664287615",
-      "size": "1159168",
-      "md5": "d2ae4600ed00f5b75ab414846fb4d9f2",
-      "crc32": "6737c82d",
-      "sha1": "70ad76948df0720214ab93d2dcd34eb83db33085",
+      "mtime": "1664331978",
+      "size": "1163264",
+      "md5": "32dbcbf04e8a9be26bef874c91c73c93",
+      "crc32": "88e60611",
+      "sha1": "b8d5a9b1f2eeb40160636e39a93fd705560f777a",
       "format": "Metadata"
     },
     {
@@ -9580,9 +9631,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 923,
-  "item_last_updated": 1664289525,
-  "item_size": 79945272,
+  "files_count": 928,
+  "item_last_updated": 1664332028,
+  "item_size": 80311340,
   "metadata": {
     "identifier": "nydailynews-2022",
     "collection": [
@@ -9599,10 +9650,21 @@
     "publicdate": "2022-07-04 21:50:33",
     "addeddate": "2022-07-04 21:50:33"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 79792362,
+  "pending_tasks": true,
+  "server": "ia601501.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3420508823,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1739296611,
   "workable_servers": [
-    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }
