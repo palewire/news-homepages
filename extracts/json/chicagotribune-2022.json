@@ -1,6 +1,5 @@
 {
-  "conflict": 1664297946,
-  "created": 1664297946,
+  "created": 1664345175,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/30/items/chicagotribune-2022",
@@ -15467,31 +15466,82 @@
       "sha1": "e887819132f96aacfd0e95ea30bc1126ced1d1fb"
     },
     {
+      "name": "chicagotribune-2022-09-28T01:05:02.916472-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664345106",
+      "size": "52079",
+      "md5": "c3b2ef37d604fad9e01b85bc07d880af",
+      "crc32": "c48bb9a7",
+      "sha1": "19bc44bfdc3558a1fe9fefd3a544ed188acddf1a",
+      "format": "JSON"
+    },
+    {
+      "name": "chicagotribune-2022-09-28T01:05:02.916472-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664345108",
+      "size": "58444",
+      "md5": "fa723aff3fb95d9a9dd8f890aa892669",
+      "crc32": "73ffc6c9",
+      "sha1": "a7bace132db779f59fba31ad0e7ccb4a508be419",
+      "format": "JSON"
+    },
+    {
+      "name": "chicagotribune-2022-09-28T01:05:02.916472-05:00.jpg",
+      "source": "original",
+      "mtime": "1664345104",
+      "size": "273959",
+      "md5": "f3b19129fbb6db59e2c1239f24ddcaf6",
+      "crc32": "aab2cec2",
+      "sha1": "95da2e31057f0b2491882c941728459fdd5ab7cd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chicagotribune-2022-09-28T01:05:02.916472-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664345110",
+      "size": "1531",
+      "md5": "24e308f651828c3fc50d1cb975d36841",
+      "crc32": "98ddd923",
+      "sha1": "44ea8cbdddf12f1f3e1b1865ebf54ac1334a1e09",
+      "format": "JSON"
+    },
+    {
+      "name": "chicagotribune-2022-09-28T01:05:02.916472-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664345112",
+      "size": "238",
+      "md5": "8b258213abf20246e70d54500b49ad79",
+      "crc32": "7649bfe4",
+      "sha1": "22bdc127518f66abdc3648e1365eb1a5f4dea917",
+      "format": "JSON"
+    },
+    {
       "name": "chicagotribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "32daec4589a2e5ce9d4726841e50d97b0bcdb7e2",
-      "mtime": "1664297935",
-      "size": "324040",
-      "md5": "b0d32601b6f08e680022d543c6861e42",
-      "crc32": "717348fc",
-      "sha1": "68b47a0776ecc651aee24b0538180d89943425fb",
+      "btih": "5dc94a43e6ab5fa9b7550c718c79d819664ec15c",
+      "mtime": "1664345172",
+      "size": "325111",
+      "md5": "84986626b6bcd9da675101dba54d9355",
+      "crc32": "b9d3ef32",
+      "sha1": "1d452261ecfec2d54f53368c0a91959dd85f7a4e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chicagotribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "74628ea0d1bf3e5f58a16ffa558da40b",
+      "md5": "ac9548966a0961164ae339419b6ff2d2",
       "summation": "md5"
     },
     {
       "name": "chicagotribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664295161",
-      "size": "1859584",
-      "md5": "21da6e65572c37ef2f9551ea6d00a2fc",
-      "crc32": "0e57aeca",
-      "sha1": "06d1848324700b490cfaa351fdf86f2faf7082f5",
+      "mtime": "1664345117",
+      "size": "1867776",
+      "md5": "339bbb70a5463e891387345bd91a6c66",
+      "crc32": "eef31689",
+      "sha1": "043313bc6724c9343f71f469c34e08f61825f5d8",
       "format": "Metadata"
     },
     {
@@ -15505,9 +15555,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1493,
-  "item_last_updated": 1664297935,
-  "item_size": 119969481,
+  "files_count": 1498,
+  "item_last_updated": 1664345172,
+  "item_size": 120364995,
   "metadata": {
     "identifier": "chicagotribune-2022",
     "collection": [
@@ -15529,23 +15579,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3419920092,
+      "task_id": 3420719908,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3419953047,
-      "cmd": "bup.php",
-      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 481191001,
+  "uniq": 2112140772,
   "workable_servers": [
     "ia902502.us.archive.org"
   ]

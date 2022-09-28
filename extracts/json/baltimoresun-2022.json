@@ -1,5 +1,5 @@
 {
-  "created": 1664319085,
+  "created": 1664345251,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/13/items/baltimoresun-2022",
@@ -29069,31 +29069,93 @@
       "format": "JSON"
     },
     {
+      "name": "baltimoresun-2022-09-27T18:48:29.994802-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltimoresun-2022-09-27T18:48:29.994802-04:00.jpg",
+      "mtime": "1664322227",
+      "size": "8436",
+      "md5": "c0551fe8c409378c864bf9cb98e95681",
+      "crc32": "ea0bfed3",
+      "sha1": "9bd2880ff02d3363a0cace4db782155da0dae642"
+    },
+    {
+      "name": "baltimoresun-2022-09-28T02:04:07.700372-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664345076",
+      "size": "28060",
+      "md5": "ce390fd3d26442a344975994b70f4d99",
+      "crc32": "220bf92b",
+      "sha1": "8d283b3f1f244db40613e9c8d0a1c6e90298b096",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoresun-2022-09-28T02:04:07.700372-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664345078",
+      "size": "37738",
+      "md5": "f1b95862f6dcde569cb7ec14f74687b5",
+      "crc32": "1685ca2b",
+      "sha1": "068c5c35109c863d85b4f8d73baaee5f226345c9",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoresun-2022-09-28T02:04:07.700372-04:00.jpg",
+      "source": "original",
+      "mtime": "1664345075",
+      "size": "241109",
+      "md5": "e3560aa523258c7a4dfa96c5bdbf529d",
+      "crc32": "bbb02c91",
+      "sha1": "1549695ddedbed3ea0d02b968954eee7dba4336e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltimoresun-2022-09-28T02:04:07.700372-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664345080",
+      "size": "1500",
+      "md5": "d339df689ffced46c5101b5121941dcd",
+      "crc32": "247881ec",
+      "sha1": "4ecb3e618d5270a862fdfcef4035c5c2de16d507",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoresun-2022-09-28T02:04:07.700372-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664345081",
+      "size": "51103",
+      "md5": "18146cef5827c2b40be780158182c71e",
+      "crc32": "603107e6",
+      "sha1": "06315ae469dbfbcc60753117689de8b269088249",
+      "format": "JSON"
+    },
+    {
       "name": "baltimoresun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "462f12b5c263e0042561b77dd8da2e9fcb74355e",
-      "mtime": "1664319070",
-      "size": "600715",
-      "md5": "06a5c79584a6086a0d0fb656f272eb4f",
-      "crc32": "84bdcee6",
-      "sha1": "a0f79f84101a41fb99ea4de5a3709c4bd14c4132",
+      "btih": "73fd6c66e5a754f127826b1397b75587fe3c2538",
+      "mtime": "1664345232",
+      "size": "602006",
+      "md5": "d3abe8163ed07ef8c9fb07c71ded1056",
+      "crc32": "7ecd49c0",
+      "sha1": "c27b3a22a0df1a5332495466ba3a2194b9c5f82a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltimoresun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2510b1552514980da689db355ed1627a",
+      "md5": "6e1ab0b4e892e1cad964a8e08f63b842",
       "summation": "md5"
     },
     {
       "name": "baltimoresun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664318959",
-      "size": "3436544",
-      "md5": "87316d9493413b3e0c7d030e554d6a20",
-      "crc32": "4f0aa05b",
-      "sha1": "4b4885220a529354cf79cc6f93e5adc817ae6bcd",
+      "mtime": "1664345111",
+      "size": "3444736",
+      "md5": "bcfe38fa1c49a32c98155069167b2315",
+      "crc32": "91160eda",
+      "sha1": "9810e1fc4d12de2ba91551835de943df232d753f",
       "format": "Metadata"
     },
     {
@@ -29107,9 +29169,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2799,
-  "item_last_updated": 1664319070,
-  "item_size": 209456435,
+  "files_count": 2805,
+  "item_last_updated": 1664345232,
+  "item_size": 209833864,
   "metadata": {
     "identifier": "baltimoresun-2022",
     "collection": [
@@ -29131,7 +29193,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420302712,
+      "task_id": 3420721075,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -29139,7 +29201,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 34852035,
+  "uniq": 593049849,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]
