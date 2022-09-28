@@ -1,5 +1,5 @@
 {
-  "created": 1664365232,
+  "created": 1664405746,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/6/items/arktimes-2022",
@@ -2124,31 +2124,82 @@
       "sha1": "7d8fd1755b9c2e4634fcbec531974a9ad651e890"
     },
     {
+      "name": "arktimes-2022-09-28T17:54:49.995448-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664405694",
+      "size": "33318",
+      "md5": "4afb0603b9d30cd1f6b57a698f8a2952",
+      "crc32": "6ed170f4",
+      "sha1": "6572765518c95f6dfc2b4aff968324848a0874e1",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-09-28T17:54:49.995448-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664405696",
+      "size": "31596",
+      "md5": "79730b025a5a1b6b2d08ba929f9a9abf",
+      "crc32": "aaa05fa5",
+      "sha1": "b826ebfe46c099b03a1a1ab896125a4d71256bac",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-09-28T17:54:49.995448-05:00.jpg",
+      "source": "original",
+      "mtime": "1664405693",
+      "size": "310183",
+      "md5": "a970abb18dcfa079f4816c2aef5aba59",
+      "crc32": "c9d49fc2",
+      "sha1": "f6a5901553ff569ef1804b0d6f2fad51ef08c2c8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arktimes-2022-09-28T17:54:49.995448-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664405698",
+      "size": "1435",
+      "md5": "66e5b3967d03889af70c5de223791f7a",
+      "crc32": "b23ca59b",
+      "sha1": "386d05b1570b27f6517a4d270f8ee72e3d4c3a2a",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-09-28T17:54:49.995448-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664405700",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "arktimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2f23cd5417dc46cdcf9caa7dc010db253df8b0ed",
-      "mtime": "1664365197",
-      "size": "44595",
-      "md5": "61d60af5439f0067f6fecd3a4055079b",
-      "crc32": "cf365a36",
-      "sha1": "6ab76d11a3ac3eceed5c9312e25999ee99d4dd0b",
+      "btih": "dad059993598f116391b9498c0aa6f045aed9c75",
+      "mtime": "1664405743",
+      "size": "45656",
+      "md5": "37bb957be1087591e3903f0f8261398f",
+      "crc32": "7d4414b4",
+      "sha1": "7890c057b1c576358c4db88589f13c2ed29c287f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arktimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fc9b5f5e08252f72d0ff49720bee0c83",
+      "md5": "8d1329db61bad14bdd66a070a10c1d3e",
       "summation": "md5"
     },
     {
       "name": "arktimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664363095",
-      "size": "282624",
-      "md5": "50fe17693a9c9cb85112c395b5ca26c4",
-      "crc32": "7c20cc4e",
-      "sha1": "b79ba40748a71ec0dce27592c6bc30fe29048e1e",
+      "mtime": "1664405707",
+      "size": "290816",
+      "md5": "c9567d78ce9557218d177c934a220524",
+      "crc32": "d2f44d9e",
+      "sha1": "318a7c55ed445188d73bd1bba6ca993f0a568627",
       "format": "Metadata"
     },
     {
@@ -2162,9 +2213,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 209,
-  "item_last_updated": 1664365197,
-  "item_size": 14999166,
+  "files_count": 214,
+  "item_last_updated": 1664405743,
+  "item_size": 15385153,
   "metadata": {
     "identifier": "arktimes-2022",
     "collection": [
@@ -2181,10 +2232,21 @@
     "publicdate": "2022-09-12 11:05:46",
     "addeddate": "2022-09-12 11:05:46"
   },
+  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "uniq": 1573273441,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3421551649,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1951476918,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia601401.us.archive.org"
   ]
 }

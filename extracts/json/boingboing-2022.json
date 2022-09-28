@@ -1,5 +1,5 @@
 {
-  "created": 1664365437,
+  "created": 1664405769,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/25/items/boingboing-2022",
@@ -10808,31 +10808,82 @@
       "sha1": "3ede5988b55f372a6147abc02f8b74311abaa51c"
     },
     {
+      "name": "boingboing-2022-09-28T15:54:40.818180-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664405693",
+      "size": "17983",
+      "md5": "5e6fe199e502bb1085b2c7ba6c3b3f2d",
+      "crc32": "bc34f692",
+      "sha1": "010528eef5c9373560d901750f78ee8a154c900f",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-09-28T15:54:40.818180-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664405694",
+      "size": "24446",
+      "md5": "8512c6f2b7d41aa822fcd1d9e217457c",
+      "crc32": "826b0293",
+      "sha1": "ec096687d3de73482a182c4194d119e26aa8cb18",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-09-28T15:54:40.818180-07:00.jpg",
+      "source": "original",
+      "mtime": "1664405691",
+      "size": "190982",
+      "md5": "66eb794e82f9a9f0e72ea2989ea0c315",
+      "crc32": "73050bbe",
+      "sha1": "950da56df65429fe7f677549a9d06e8bdc1a926e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "boingboing-2022-09-28T15:54:40.818180-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664405696",
+      "size": "1459",
+      "md5": "87d5fd8dd2b06a12af8809c48e01267f",
+      "crc32": "c4f031bd",
+      "sha1": "e94e2ce7933966d3287a57b9e32fb048ec645fe9",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-09-28T15:54:40.818180-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664405698",
+      "size": "88576",
+      "md5": "c5593dac4d8bf657f466a2a45f6bbff4",
+      "crc32": "71b4aaab",
+      "sha1": "83f66e2a174a787f0fe59374e8d05e91dbf3ac56",
+      "format": "JSON"
+    },
+    {
       "name": "boingboing-2022_archive.torrent",
       "source": "metadata",
-      "btih": "849ac39886950298e62ab7ecf2d3cce44bd6664d",
-      "mtime": "1664365326",
-      "size": "220811",
-      "md5": "4bba34ab87c15a32e02b21fdb8facaaa",
-      "crc32": "91808306",
-      "sha1": "079b9a2a490b17413738785ce0ca8ec12cf6020a",
+      "btih": "67859326de1ea8ee284132a1906996e29edbb1f9",
+      "mtime": "1664405761",
+      "size": "221884",
+      "md5": "98550b0c37bd1896fe1561b346eee6e6",
+      "crc32": "8ffc7aa8",
+      "sha1": "41ad13eded3cda6b86aa60871a1521a2e4a1a87a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "boingboing-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2f518ca7595121edef3d0f84bb0a54ae",
+      "md5": "ce1beaa0b5b9c008ec59f1da70eacba0",
       "summation": "md5"
     },
     {
       "name": "boingboing-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664363109",
-      "size": "1282048",
-      "md5": "57e58849e7b1a585a04321d29a10bca9",
-      "crc32": "e7f2ccd9",
-      "sha1": "6c73b66e54e7ba1d98290dc6df354cd4551d3aa3",
+      "mtime": "1664405708",
+      "size": "1286144",
+      "md5": "c90840bca0ff096bf3eed209b2a9b5ff",
+      "crc32": "13d7a84d",
+      "sha1": "bfc7e80e9545d84ae7ac6a801d56664c4d6c152d",
       "format": "Metadata"
     },
     {
@@ -10846,9 +10897,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1042,
-  "item_last_updated": 1664365326,
-  "item_size": 55250439,
+  "files_count": 1047,
+  "item_last_updated": 1664405761,
+  "item_size": 55579054,
   "metadata": {
     "identifier": "boingboing-2022",
     "collection": [
@@ -10865,10 +10916,21 @@
     "publicdate": "2022-06-24 22:53:11",
     "addeddate": "2022-06-24 22:53:11"
   },
+  "pending_tasks": true,
   "server": "ia601508.us.archive.org",
-  "uniq": 1444709908,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3421551875,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 155371202,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia601508.us.archive.org"
   ]
 }

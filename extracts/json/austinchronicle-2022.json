@@ -1,5 +1,5 @@
 {
-  "created": 1664365252,
+  "created": 1664405749,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/2/items/austinchronicle-2022",
@@ -8692,31 +8692,82 @@
       "sha1": "4c88cdb48aadf2840a85290d3159473e95fae2a8"
     },
     {
+      "name": "austinchronicle-2022-09-28T17:54:48.360169-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664405696",
+      "size": "24837",
+      "md5": "26de471ef47626163d7d289f01223d58",
+      "crc32": "4b02a53e",
+      "sha1": "29dfe47b0ec7fb1e85e267b305782d05147d82f8",
+      "format": "JSON"
+    },
+    {
+      "name": "austinchronicle-2022-09-28T17:54:48.360169-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664405698",
+      "size": "22931",
+      "md5": "4365d9aaf6bdf408992e9dc11d2b0af4",
+      "crc32": "d3f26e7a",
+      "sha1": "85ab8541c42485854c8ce8d354f7b999a9645032",
+      "format": "JSON"
+    },
+    {
+      "name": "austinchronicle-2022-09-28T17:54:48.360169-05:00.jpg",
+      "source": "original",
+      "mtime": "1664405694",
+      "size": "334343",
+      "md5": "d01434ff344cffeb65b000480c9b4525",
+      "crc32": "0da35455",
+      "sha1": "cab6e25599bd87b28ecae97c3f0e19e17834ec3d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "austinchronicle-2022-09-28T17:54:48.360169-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664405699",
+      "size": "1537",
+      "md5": "4640de06db8b629f96188a8e35d0e8c6",
+      "crc32": "2d582e2c",
+      "sha1": "1b08171a9e7425830eaf2b1ee4e8dbb54d5c041d",
+      "format": "JSON"
+    },
+    {
+      "name": "austinchronicle-2022-09-28T17:54:48.360169-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664405701",
+      "size": "43632",
+      "md5": "3d5362232d01b065f10e01088c8e3486",
+      "crc32": "1d026ee9",
+      "sha1": "a639441d8ffd878dbb9fef816f29f13537a5bd17",
+      "format": "JSON"
+    },
+    {
       "name": "austinchronicle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f6c9c554f8eca880fb4931e5a4fd5a3307bef117",
-      "mtime": "1664365233",
-      "size": "184120",
-      "md5": "fa002077ae871921d2c630f9e6483a22",
-      "crc32": "e42752fd",
-      "sha1": "03f8e333037ce9b2e29dddb5614cefa3683b6aa4",
+      "btih": "fafd3a2d816cc28374808306349c6ffdb4f32c49",
+      "mtime": "1664405746",
+      "size": "185198",
+      "md5": "733c11e6c5f1416f21569e6e0913fcb7",
+      "crc32": "25f2aeec",
+      "sha1": "1b5ed425472329424747b22167b5da6d1ac454d8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "austinchronicle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7fde33c3873193e803032550b537389d",
+      "md5": "a6ce94cbc688e26a94632c7ecf295003",
       "summation": "md5"
     },
     {
       "name": "austinchronicle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664363099",
-      "size": "1077248",
-      "md5": "3aed1d860fea102cc0f969c45159ca9b",
-      "crc32": "225995a9",
-      "sha1": "e6ca11a2fba2c256cef1b5422e9509a255b9570b",
+      "mtime": "1664405705",
+      "size": "1085440",
+      "md5": "c7e7d61b7111fd421fb783f0b5ad9a30",
+      "crc32": "5bf7f3d1",
+      "sha1": "4a0509aad8378eb7ea54bd8592435efe800b846f",
       "format": "Metadata"
     },
     {
@@ -8730,9 +8781,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 843,
-  "item_last_updated": 1664365233,
-  "item_size": 62130310,
+  "files_count": 848,
+  "item_last_updated": 1664405746,
+  "item_size": 62566860,
   "metadata": {
     "identifier": "austinchronicle-2022",
     "collection": [
@@ -8749,10 +8800,21 @@
     "publicdate": "2022-07-18 00:04:18",
     "addeddate": "2022-07-18 00:04:18"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 334922327,
+  "pending_tasks": true,
+  "server": "ia902505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3421551686,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1697666172,
   "workable_servers": [
-    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }

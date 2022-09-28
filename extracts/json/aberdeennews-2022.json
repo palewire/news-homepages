@@ -1,5 +1,5 @@
 {
-  "created": 1664365075,
+  "created": 1664405598,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/2/items/aberdeennews-2022",
@@ -1060,31 +1060,82 @@
       "sha1": "2551a7e3c35fb7c140c973398c9d513b54fca820"
     },
     {
+      "name": "aberdeennews-2022-09-28T17:52:26.937709-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664405550",
+      "size": "23091",
+      "md5": "a2b4124d635d732966bff9fb512457a1",
+      "crc32": "5a90e7f8",
+      "sha1": "717ddc7a7491d99e56f7edf99377f7121fb95af4",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-09-28T17:52:26.937709-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664405551",
+      "size": "37809",
+      "md5": "1d26f06d608d78d5c596c8b04e566624",
+      "crc32": "3771bb7f",
+      "sha1": "939d317641973814e624adbcd47744bfab4dd275",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-09-28T17:52:26.937709-05:00.jpg",
+      "source": "original",
+      "mtime": "1664405548",
+      "size": "231187",
+      "md5": "60bdb19e560c7235f8c88dae8a954694",
+      "crc32": "be8b1b47",
+      "sha1": "7dca540c530b012b5827e183fca36b31ebe5c6bc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aberdeennews-2022-09-28T17:52:26.937709-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664405552",
+      "size": "1513",
+      "md5": "15066270772707b8c17bb9b76ba3e75e",
+      "crc32": "480eab47",
+      "sha1": "ed6c48b8309dd1a95ff5330bf0eafbd2fde3fe94",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-09-28T17:52:26.937709-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664405554",
+      "size": "86640",
+      "md5": "1dbe6409e891f0bd0a19bcab7ba6c5e8",
+      "crc32": "047c99f9",
+      "sha1": "605541c1525c18821b6832b478da9f1612893b7d",
+      "format": "JSON"
+    },
+    {
       "name": "aberdeennews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fe9ec32bd425af84a8c9437ec5a733a51043a37e",
-      "mtime": "1664365061",
-      "size": "23306",
-      "md5": "47e60bc9323f6678a82bc859ed3e0ed2",
-      "crc32": "e5ec01fb",
-      "sha1": "3dcb441e9b9699af8052b100dda57293183a9278",
+      "btih": "6ee26df8dd07160bd89a56729dc0dcd4892f9ea8",
+      "mtime": "1664405592",
+      "size": "24389",
+      "md5": "a48ce439b30da4c17ddfcd52cc2c27b8",
+      "crc32": "ad3002ea",
+      "sha1": "6cd247d90b69ca7b1b2b6ef6db1a54a6ae254085",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aberdeennews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "12a7be39d0c7234f6fde767838ecde3a",
+      "md5": "aa744cdf075bb594f9c0d0595ac9d306",
       "summation": "md5"
     },
     {
       "name": "aberdeennews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664363012",
-      "size": "151552",
-      "md5": "41a5ed882274a15409b7f8265440da8d",
-      "crc32": "511a3f30",
-      "sha1": "e3778c56e5d76a34e47bfd0874f1121891f69748",
+      "mtime": "1664405557",
+      "size": "159744",
+      "md5": "f67d145f0348008ab0d96507cdb13b7a",
+      "crc32": "c6110a37",
+      "sha1": "76eee312ebf76486fcdf62d24d3cd129c7e4da8f",
       "format": "Metadata"
     },
     {
@@ -1098,9 +1149,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 106,
-  "item_last_updated": 1664365061,
-  "item_size": 6989009,
+  "files_count": 111,
+  "item_last_updated": 1664405592,
+  "item_size": 7378524,
   "metadata": {
     "identifier": "aberdeennews-2022",
     "collection": [
@@ -1117,10 +1168,21 @@
     "publicdate": "2022-09-20 22:07:51",
     "addeddate": "2022-09-20 22:07:51"
   },
+  "pending_tasks": true,
   "server": "ia601503.us.archive.org",
-  "uniq": 185323609,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3421550129,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1125053055,
   "workable_servers": [
-    "ia601503.us.archive.org",
-    "ia801503.us.archive.org"
+    "ia601503.us.archive.org"
   ]
 }

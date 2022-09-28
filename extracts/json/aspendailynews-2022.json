@@ -1,5 +1,5 @@
 {
-  "created": 1664365647,
+  "created": 1664405733,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/14/items/aspendailynews-2022",
@@ -4750,31 +4750,82 @@
       "sha1": "f9d16622183200a4ff03b87e1db7c75a708e273a"
     },
     {
+      "name": "aspendailynews-2022-09-28T16:54:31.768188-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664405675",
+      "size": "47449",
+      "md5": "6e6f36ecaf1836b316eeccbadd424fa4",
+      "crc32": "02e1bd1a",
+      "sha1": "2d81186f0a0b82d027a4df505fa61ef635cfe694",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-09-28T16:54:31.768188-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664405677",
+      "size": "54855",
+      "md5": "44a5db05a2736708ac3b57eb21a79062",
+      "crc32": "ac1cb3d8",
+      "sha1": "0931b7070165ffaf16bab38878ef15929b275681",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-09-28T16:54:31.768188-06:00.jpg",
+      "source": "original",
+      "mtime": "1664405673",
+      "size": "235773",
+      "md5": "60b404e6e6bd559e5bcde430dfd65ea6",
+      "crc32": "9a725790",
+      "sha1": "9c523bb55ae949cbcb2067f5144809e6d78fc64d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspendailynews-2022-09-28T16:54:31.768188-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664405679",
+      "size": "1527",
+      "md5": "549170a7678a706ecc3387b1ba58183b",
+      "crc32": "74274bea",
+      "sha1": "4f06d50f630d464f03ea6baebbdfea3f0f32d315",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-09-28T16:54:31.768188-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1664405680",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "aspendailynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a81a548ea23742368aa2cd39ed576fc8175f847a",
-      "mtime": "1664365619",
-      "size": "100760",
-      "md5": "3c846627e33f51f4b56bf16931285b17",
-      "crc32": "e9e20728",
-      "sha1": "b8d177d2e31e184a039cf4ed098d83523332baac",
+      "btih": "ed2bb4959dcfaf99a7bebfa235f6f34b088b1417",
+      "mtime": "1664405731",
+      "size": "101831",
+      "md5": "0657b8834db31e1b55c28f008f85f6ee",
+      "crc32": "96640312",
+      "sha1": "d208497a1f68037cc69228f2f29b1fa9ef6a22ae",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aspendailynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "908318a0369964194fb8ade8c17694ee",
+      "md5": "0d57030ec3106d0692ad6f91af60e1f3",
       "summation": "md5"
     },
     {
       "name": "aspendailynews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664363151",
-      "size": "602112",
-      "md5": "b1e90b99315dc9401c3478af3e0f3cb8",
-      "crc32": "2ae797a2",
-      "sha1": "188ec4dccd4625a802a7d78bfb6966804e84796a",
+      "mtime": "1664405688",
+      "size": "610304",
+      "md5": "a012c872143fb375447cea2c6ca2dc5a",
+      "crc32": "e0a3c66f",
+      "sha1": "364755c1f8f5136e1d641e4de3b5f6a5df6155ba",
       "format": "Metadata"
     },
     {
@@ -4788,9 +4839,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 463,
-  "item_last_updated": 1664365619,
-  "item_size": 31195800,
+  "files_count": 468,
+  "item_last_updated": 1664405731,
+  "item_size": 31544869,
   "metadata": {
     "identifier": "aspendailynews-2022",
     "collection": [
@@ -4807,10 +4858,21 @@
     "publicdate": "2022-08-22 10:53:39",
     "addeddate": "2022-08-22 10:53:39"
   },
+  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "uniq": 478796530,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3421551520,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2074869246,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia601500.us.archive.org"
   ]
 }
