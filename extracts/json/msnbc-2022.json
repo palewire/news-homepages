@@ -1,6 +1,5 @@
 {
-  "conflict": 1664348914,
-  "created": 1664348914,
+  "created": 1664370042,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/6/items/msnbc-2022",
@@ -38113,31 +38112,82 @@
       "sha1": "d094e15b0dc3b45c52880f7c0cc1ece13c12d57d"
     },
     {
+      "name": "msnbc-2022-09-28T08:55:51.765693-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664369756",
+      "size": "65942",
+      "md5": "e2d4984dd720503ea9c4ade30ced75fe",
+      "crc32": "5658a37a",
+      "sha1": "70ae5c73e5e9509d0ca0ee3c1e54148109fc5c09",
+      "format": "JSON"
+    },
+    {
+      "name": "msnbc-2022-09-28T08:55:51.765693-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664369758",
+      "size": "87878",
+      "md5": "f2ae8adabd839b73585541a596e9a0ea",
+      "crc32": "d940e89e",
+      "sha1": "9d392ab8d4dcd246a3e922a50e482d71ea6e3545",
+      "format": "JSON"
+    },
+    {
+      "name": "msnbc-2022-09-28T08:55:51.765693-04:00.jpg",
+      "source": "original",
+      "mtime": "1664369753",
+      "size": "298829",
+      "md5": "0d2e2b10e91e4224a955033789427ba9",
+      "crc32": "44b901c2",
+      "sha1": "cd9d1b3f0662fb4e83842673c6087306cb354309",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "msnbc-2022-09-28T08:55:51.765693-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664369760",
+      "size": "1450",
+      "md5": "b4a3faa066fce7a570ecd19239bac5a7",
+      "crc32": "798ff984",
+      "sha1": "fefef6d29d727d323fe64d2d0df83927a7d279b9",
+      "format": "JSON"
+    },
+    {
+      "name": "msnbc-2022-09-28T08:55:51.765693-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664369762",
+      "size": "252",
+      "md5": "9910b58069e2fafad7728c8c405f31be",
+      "crc32": "ad87be8e",
+      "sha1": "818b329a7e575e4073c860d741eff8a5d6528add",
+      "format": "JSON"
+    },
+    {
       "name": "msnbc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2720da884b770435d537bea5be72bcd67ad3188c",
-      "mtime": "1664348620",
-      "size": "762632",
-      "md5": "7ab98868fd4aac2d61b06a5c1133aa7a",
-      "crc32": "50f6dc77",
-      "sha1": "db822ea729b27c5e35b125cfdce0228193dde5a7",
+      "btih": "41377bb980cab139588ec0cd685efafe81869be9",
+      "mtime": "1664370004",
+      "size": "763678",
+      "md5": "54c14eccfc08fd7f162b0639841db8d9",
+      "crc32": "90e95c19",
+      "sha1": "95d587981310674fe027e844335ee905e662673f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "msnbc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "69f07400dce8e013688845436ea8c129",
+      "md5": "43dc0c9fc16a56195e141c0549e7fcbd",
       "summation": "md5"
     },
     {
       "name": "msnbc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664345679",
-      "size": "4341760",
-      "md5": "85b38136f6c535b0a56738aca904b8ed",
-      "crc32": "c94e32eb",
-      "sha1": "3f62c4803a353b21eb594479eafc2dd1d5a69ec3",
+      "mtime": "1664369800",
+      "size": "4349952",
+      "md5": "8f1e25f64083790109fb6f62484987c0",
+      "crc32": "a2762251",
+      "sha1": "9632ecf4de7f824feddacabcebd524ead088e68a",
       "format": "Metadata"
     },
     {
@@ -38151,9 +38201,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 3657,
-  "item_last_updated": 1664348620,
-  "item_size": 363459956,
+  "files_count": 3662,
+  "item_last_updated": 1664370004,
+  "item_size": 363923545,
   "metadata": {
     "identifier": "msnbc-2022",
     "collection": [
@@ -38175,23 +38225,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3420728840,
+      "task_id": 3421009047,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3420765106,
-      "cmd": "bup.php",
-      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 753992196,
+  "uniq": 1779248757,
   "workable_servers": [
     "ia601504.us.archive.org"
   ]
