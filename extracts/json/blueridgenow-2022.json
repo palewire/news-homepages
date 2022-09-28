@@ -1,5 +1,10 @@
 {
-  "created": 1664319426,
+  "blueridgenow-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1664366737,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/35/items/blueridgenow-2022",
@@ -975,31 +980,104 @@
       "format": "JSON"
     },
     {
+      "name": "blueridgenow-2022-09-27T18:56:17.062313-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "blueridgenow-2022-09-27T18:56:17.062313-04:00.jpg",
+      "mtime": "1664322223",
+      "size": "8852",
+      "md5": "084eb4eb2fe6ab8f4b56550a9b5f012f",
+      "crc32": "53545d1c",
+      "sha1": "d9454087a03f171abf4933b013865dd9604edbac"
+    },
+    {
+      "name": "blueridgenow-2022-09-28T07:05:23.258905-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664363126",
+      "size": "22667",
+      "md5": "2b2b6d127531de10d5388f82f59bd387",
+      "crc32": "a0262d8f",
+      "sha1": "a029f964c15d07a182be3063328a1df78f145aa2",
+      "format": "JSON"
+    },
+    {
+      "name": "blueridgenow-2022-09-28T07:05:23.258905-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664363128",
+      "size": "41535",
+      "md5": "beea5e85855328a4b244a6be9e8c6bd8",
+      "crc32": "3ff207a3",
+      "sha1": "4361b3b6616388ade822db8636e45a024eb9e5c0",
+      "format": "JSON"
+    },
+    {
+      "name": "blueridgenow-2022-09-28T07:05:23.258905-04:00.jpg",
+      "source": "original",
+      "mtime": "1664363125",
+      "size": "279216",
+      "md5": "e825f8d69cf98e86f30121202e7d215d",
+      "crc32": "fcbe279f",
+      "sha1": "6f1d26bde8025a4c89f279488bb6edbbbb28b3aa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "blueridgenow-2022-09-28T07:05:23.258905-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664363129",
+      "size": "1513",
+      "md5": "e8026e092ca6357d52c3647d3801cead",
+      "crc32": "480ea02f",
+      "sha1": "78ecc36cc7797ab4d138a49056872ff7bb68fe65",
+      "format": "JSON"
+    },
+    {
+      "name": "blueridgenow-2022-09-28T07:05:23.258905-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664363131",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "blueridgenow-2022-09-28T07:05:23.258905-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "blueridgenow-2022-09-28T07:05:23.258905-04:00.jpg",
+      "mtime": "1664365583",
+      "size": "9135",
+      "md5": "f4d238d1b76da5760136752869569d2e",
+      "crc32": "d3ff59c0",
+      "sha1": "501d16cae1840c2f9308351711e0bab74defef30"
+    },
+    {
       "name": "blueridgenow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8b0bbc2bdf13d44be2f77042e34025b8c1757539",
-      "mtime": "1664319424",
-      "size": "21621",
-      "md5": "43658912ecf3bf1286f88a8bd791938c",
-      "crc32": "ca2368c3",
-      "sha1": "f48237a852183be6cb852f7bf4f2d9bee3ce91ae",
+      "btih": "73f72c12d3407c331b3daedb6ac325dd0c8a901f",
+      "mtime": "1664365586",
+      "size": "23118",
+      "md5": "de5dbb4b9ea3d7c552810f61291224ce",
+      "crc32": "817384d0",
+      "sha1": "03250fe7985cd1a538857ea60b025612c20c1d21",
       "format": "Archive BitTorrent"
     },
     {
       "name": "blueridgenow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d6a8161a417529ab84eb280a2b20505c",
+      "md5": "31526e487d9c437a784ae76615630ce8",
       "summation": "md5"
     },
     {
       "name": "blueridgenow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664319389",
-      "size": "147456",
-      "md5": "d87bc05c17e2c4040835e48aa046017f",
-      "crc32": "d739c87b",
-      "sha1": "b59f948dba6e6938fcef552d18051a603acefdc5",
+      "mtime": "1664363140",
+      "size": "151552",
+      "md5": "3f7da994de35a388e80ee0210a6bff1b",
+      "crc32": "0ea8ff9f",
+      "sha1": "21b1debae75917f475fa2b9421e9d868c64ea47c",
       "format": "Metadata"
     },
     {
@@ -1013,9 +1091,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 98,
-  "item_last_updated": 1664319424,
-  "item_size": 6682148,
+  "files_count": 105,
+  "item_last_updated": 1664365586,
+  "item_size": 7050861,
   "metadata": {
     "identifier": "blueridgenow-2022",
     "collection": [
@@ -1032,21 +1110,10 @@
     "publicdate": "2022-09-20 22:12:10",
     "addeddate": "2022-09-20 22:12:10"
   },
-  "pending_tasks": true,
   "server": "ia601509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3420308269,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 767677734,
+  "uniq": 2129206780,
   "workable_servers": [
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }
