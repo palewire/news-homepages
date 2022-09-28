@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 173 screenshots with the Internet Archive.
+The archiving routine has saved 174 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 173 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-09-28T06:00:45.618344-07:00.jpg">
+  <img src="https://archive.org/download/king5seattle-2022/king5seattle-2022-09-28T06:00:45.618344-07:00.jpg"
+     alt="KING5 at 2022-09-28 06:00:48-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-09-28T06:00:45.618344-07:00.jpg">September 28 at 6:00 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-09-27T18:25:53.685792-07:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-09-22T18:11:26.759123-07:00.jpg">September 22 at 6:11 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-09-22T06:00:47.236970-07:00.jpg">
-  <img src="https://archive.org/download/king5seattle-2022/king5seattle-2022-09-22T06:00:47.236970-07:00.jpg"
-     alt="KING5 at 2022-09-22 06:00:54-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/king5seattle-2022/king5seattle-2022-09-22T06:00:47.236970-07:00.jpg">September 22 at 6:00 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 170 hyperlink lists with the Internet Archive.
+The archiving routine has saved 171 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 6:00 AM](https://archive.org/download/king5seattle-2022/king5seattle-2022-09-28T06:00:45.618344-07:00.hyperlinks.json) |
 | [September 27 at 6:25 PM](https://archive.org/download/king5seattle-2022/king5seattle-2022-09-27T18:25:53.685792-07:00.hyperlinks.json) |
 | [September 27 at 5:59 AM](https://archive.org/download/king5seattle-2022/king5seattle-2022-09-27T05:59:12.922834-07:00.hyperlinks.json) |
 | [September 26 at 6:09 PM](https://archive.org/download/king5seattle-2022/king5seattle-2022-09-26T18:09:37.009914-07:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 6:04 PM](https://archive.org/download/king5seattle-2022/king5seattle-2022-09-24T18:04:22.220840-07:00.hyperlinks.json) |
 | [September 24 at 5:53 AM](https://archive.org/download/king5seattle-2022/king5seattle-2022-09-24T05:52:53.757414-07:00.hyperlinks.json) |
 | [September 23 at 6:10 PM](https://archive.org/download/king5seattle-2022/king5seattle-2022-09-23T18:10:35.053033-07:00.hyperlinks.json) |
-| [September 23 at 5:54 AM](https://archive.org/download/king5seattle-2022/king5seattle-2022-09-23T05:54:48.916554-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 173 accessibility trees with the Internet Archive.
+The archiving routine has saved 174 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 6:00 AM](https://archive.org/download/king5seattle-2022/king5seattle-2022-09-28T06:00:45.618344-07:00.accessibility.json) |
 | [September 27 at 6:25 PM](https://archive.org/download/king5seattle-2022/king5seattle-2022-09-27T18:25:53.685792-07:00.accessibility.json) |
 | [September 27 at 5:59 AM](https://archive.org/download/king5seattle-2022/king5seattle-2022-09-27T05:59:12.922834-07:00.accessibility.json) |
 | [September 26 at 6:09 PM](https://archive.org/download/king5seattle-2022/king5seattle-2022-09-26T18:09:37.009914-07:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 6:04 PM](https://archive.org/download/king5seattle-2022/king5seattle-2022-09-24T18:04:22.220840-07:00.accessibility.json) |
 | [September 24 at 5:52 AM](https://archive.org/download/king5seattle-2022/king5seattle-2022-09-24T05:52:53.757414-07:00.accessibility.json) |
 | [September 23 at 6:10 PM](https://archive.org/download/king5seattle-2022/king5seattle-2022-09-23T18:10:35.053033-07:00.accessibility.json) |
-| [September 23 at 5:54 AM](https://archive.org/download/king5seattle-2022/king5seattle-2022-09-23T05:54:48.916554-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 135 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 136 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 6:00 AM](https://archive.org/download/king5seattle-2022/king5seattle-2022-09-28T06:00:45.618344-07:00.lighthouse.json) |
 | [September 27 at 6:26 PM](https://archive.org/download/king5seattle-2022/king5seattle-2022-09-27T18:25:53.685792-07:00.lighthouse.json) |
 | [September 27 at 5:59 AM](https://archive.org/download/king5seattle-2022/king5seattle-2022-09-27T05:59:12.922834-07:00.lighthouse.json) |
 | [September 26 at 6:09 PM](https://archive.org/download/king5seattle-2022/king5seattle-2022-09-26T18:09:37.009914-07:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 6:04 PM](https://archive.org/download/king5seattle-2022/king5seattle-2022-09-24T18:04:22.220840-07:00.lighthouse.json) |
 | [September 24 at 5:53 AM](https://archive.org/download/king5seattle-2022/king5seattle-2022-09-24T05:52:53.757414-07:00.lighthouse.json) |
 | [September 23 at 6:10 PM](https://archive.org/download/king5seattle-2022/king5seattle-2022-09-23T18:10:35.053033-07:00.lighthouse.json) |
-| [September 23 at 5:54 AM](https://archive.org/download/king5seattle-2022/king5seattle-2022-09-23T05:54:48.916554-07:00.lighthouse.json) |
 
 
 

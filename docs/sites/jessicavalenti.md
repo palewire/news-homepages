@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 90 screenshots with the Internet Archive.
+The archiving routine has saved 91 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 90 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-28T08:59:30.032695-04:00.jpg">
+  <img src="https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-28T08:59:30.032695-04:00.jpg"
+     alt="All in Her Head at 2022-09-28 08:59:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-28T08:59:30.032695-04:00.jpg">September 28 at 8:59 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-27T21:23:16.397761-04:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-22T21:09:17.323736-04:00.jpg">September 22 at 9:09 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-22T08:58:26.318436-04:00.jpg">
-  <img src="https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-22T08:58:26.318436-04:00.jpg"
-     alt="All in Her Head at 2022-09-22 08:58:31-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-22T08:58:26.318436-04:00.jpg">September 22 at 8:58 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 92 hyperlink lists with the Internet Archive.
+The archiving routine has saved 93 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 8:59 AM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-28T08:59:30.032695-04:00.hyperlinks.json) |
 | [September 27 at 9:23 PM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-27T21:23:16.397761-04:00.hyperlinks.json) |
 | [September 27 at 8:57 AM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-27T08:57:44.139027-04:00.hyperlinks.json) |
 | [September 26 at 9:08 PM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-26T21:07:57.042745-04:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 9:03 PM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-24T21:02:56.922805-04:00.hyperlinks.json) |
 | [September 24 at 8:50 AM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-24T08:50:26.486723-04:00.hyperlinks.json) |
 | [September 23 at 9:08 PM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-23T21:07:48.491863-04:00.hyperlinks.json) |
-| [September 23 at 8:53 AM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-23T08:52:58.166705-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 91 accessibility trees with the Internet Archive.
+The archiving routine has saved 92 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 8:59 AM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-28T08:59:30.032695-04:00.accessibility.json) |
 | [September 27 at 9:23 PM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-27T21:23:16.397761-04:00.accessibility.json) |
 | [September 27 at 8:57 AM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-27T08:57:44.139027-04:00.accessibility.json) |
 | [September 26 at 9:08 PM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-26T21:07:57.042745-04:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 9:03 PM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-24T21:02:56.922805-04:00.accessibility.json) |
 | [September 24 at 8:50 AM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-24T08:50:26.486723-04:00.accessibility.json) |
 | [September 23 at 9:08 PM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-23T21:07:48.491863-04:00.accessibility.json) |
-| [September 23 at 8:53 AM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-23T08:52:58.166705-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 90 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 91 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 8:59 AM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-28T08:59:30.032695-04:00.lighthouse.json) |
 | [September 27 at 9:23 PM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-27T21:23:16.397761-04:00.lighthouse.json) |
 | [September 27 at 8:57 AM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-27T08:57:44.139027-04:00.lighthouse.json) |
 | [September 26 at 9:08 PM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-26T21:07:57.042745-04:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 9:03 PM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-24T21:02:56.922805-04:00.lighthouse.json) |
 | [September 24 at 8:50 AM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-24T08:50:26.486723-04:00.lighthouse.json) |
 | [September 23 at 9:08 PM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-23T21:07:48.491863-04:00.lighthouse.json) |
-| [September 23 at 8:53 AM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-09-23T08:52:58.166705-04:00.lighthouse.json) |
 
 
 

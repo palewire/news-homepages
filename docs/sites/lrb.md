@@ -231,7 +231,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 124 hyperlink lists with the Internet Archive.
+The archiving routine has saved 125 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 2:03 PM](https://archive.org/download/lrb-2022/lrb-2022-09-28T14:03:28.720022+01:00.hyperlinks.json) |
 | [September 28 at 10:23 AM](https://archive.org/download/lrb-2022/lrb-2022-09-28T10:23:36.523859+01:00.hyperlinks.json) |
 | [September 28 at 2:28 AM](https://archive.org/download/lrb-2022/lrb-2022-09-28T02:28:39.388376+01:00.hyperlinks.json) |
 | [September 27 at 2:00 PM](https://archive.org/download/lrb-2022/lrb-2022-09-27T14:00:39.198610+01:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 10:19 AM](https://archive.org/download/lrb-2022/lrb-2022-09-26T10:19:29.246211+01:00.hyperlinks.json) |
 | [September 26 at 2:14 AM](https://archive.org/download/lrb-2022/lrb-2022-09-26T02:14:04.978636+01:00.hyperlinks.json) |
 | [September 25 at 1:59 PM](https://archive.org/download/lrb-2022/lrb-2022-09-25T13:59:14.718289+01:00.hyperlinks.json) |
-| [September 25 at 10:14 AM](https://archive.org/download/lrb-2022/lrb-2022-09-25T10:14:43.109945+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 124 accessibility trees with the Internet Archive.
+The archiving routine has saved 125 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 2:03 PM](https://archive.org/download/lrb-2022/lrb-2022-09-28T14:03:28.720022+01:00.accessibility.json) |
 | [September 28 at 10:23 AM](https://archive.org/download/lrb-2022/lrb-2022-09-28T10:23:36.523859+01:00.accessibility.json) |
 | [September 28 at 2:28 AM](https://archive.org/download/lrb-2022/lrb-2022-09-28T02:28:39.388376+01:00.accessibility.json) |
 | [September 27 at 2:00 PM](https://archive.org/download/lrb-2022/lrb-2022-09-27T14:00:39.198610+01:00.accessibility.json) |
@@ -436,7 +437,6 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 2:14 AM](https://archive.org/download/lrb-2022/lrb-2022-09-26T02:14:04.978636+01:00.accessibility.json) |
 | [September 25 at 1:59 PM](https://archive.org/download/lrb-2022/lrb-2022-09-25T13:59:14.718289+01:00.accessibility.json) |
 | [September 25 at 10:14 AM](https://archive.org/download/lrb-2022/lrb-2022-09-25T10:14:43.109945+01:00.accessibility.json) |
-| [September 25 at 2:05 AM](https://archive.org/download/lrb-2022/lrb-2022-09-25T02:05:36.494695+01:00.accessibility.json) |
 
 
 

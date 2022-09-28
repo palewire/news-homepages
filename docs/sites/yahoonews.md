@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 384 screenshots with the Internet Archive.
+The archiving routine has saved 385 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 384 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-28T08:57:34.045967-04:00.jpg">
+  <img src="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-28T08:57:34.045967-04:00.jpg"
+     alt="Yahoo! News at 2022-09-28 08:58:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-28T08:57:34.045967-04:00.jpg">September 28 at 8:58 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-28T02:07:38.842896-04:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-25T08:46:21.439158-04:00.jpg">September 25 at 8:46 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-25T00:32:16.748471-04:00.jpg">
-  <img src="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-25T00:32:16.748471-04:00.jpg"
-     alt="Yahoo! News at 2022-09-25 00:32:18-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-25T00:32:16.748471-04:00.jpg">September 25 at 12:32 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 387 hyperlink lists with the Internet Archive.
+The archiving routine has saved 388 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 8:58 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-28T08:57:34.045967-04:00.hyperlinks.json) |
 | [September 28 at 2:07 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-28T02:07:38.842896-04:00.hyperlinks.json) |
 | [September 27 at 5:29 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-27T17:29:22.062927-04:00.hyperlinks.json) |
 | [September 27 at 12:10 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-27T12:10:37.361008-04:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 12:10 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-26T12:09:52.681215-04:00.hyperlinks.json) |
 | [September 26 at 8:54 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-26T08:54:09.996693-04:00.hyperlinks.json) |
 | [September 26 at 12:50 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-26T00:50:20.620105-04:00.hyperlinks.json) |
-| [September 25 at 5:18 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-25T17:17:55.471662-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 388 accessibility trees with the Internet Archive.
+The archiving routine has saved 389 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 8:58 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-28T08:57:34.045967-04:00.accessibility.json) |
 | [September 28 at 2:07 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-28T02:07:38.842896-04:00.accessibility.json) |
 | [September 27 at 5:29 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-27T17:29:22.062927-04:00.accessibility.json) |
 | [September 27 at 12:10 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-27T12:10:37.361008-04:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 12:10 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-26T12:09:52.681215-04:00.accessibility.json) |
 | [September 26 at 8:54 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-26T08:54:09.996693-04:00.accessibility.json) |
 | [September 26 at 12:50 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-26T00:50:20.620105-04:00.accessibility.json) |
-| [September 25 at 5:17 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-25T17:17:55.471662-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 262 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 263 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 8:58 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-28T08:57:34.045967-04:00.lighthouse.json) |
 | [September 28 at 2:07 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-28T02:07:38.842896-04:00.lighthouse.json) |
 | [September 27 at 5:29 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-27T17:29:22.062927-04:00.lighthouse.json) |
 | [September 27 at 12:10 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-27T12:10:37.361008-04:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 12:10 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-26T12:09:52.681215-04:00.lighthouse.json) |
 | [September 26 at 8:54 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-26T08:54:09.996693-04:00.lighthouse.json) |
 | [September 26 at 12:50 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-26T00:50:20.620105-04:00.lighthouse.json) |
-| [September 25 at 5:18 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-25T17:17:55.471662-04:00.lighthouse.json) |
 
 
 
