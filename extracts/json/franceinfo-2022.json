@@ -1,5 +1,5 @@
 {
-  "created": 1664348521,
+  "created": 1664353251,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/10/items/franceinfo-2022",
@@ -20110,31 +20110,82 @@
       "sha1": "98a04f5e019e25fb1714b6dceb73e48ec75741b9"
     },
     {
+      "name": "franceinfo-2022-09-28T10:19:16.757298+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664353161",
+      "size": "95774",
+      "md5": "0338dc56018f2ceac7741693e6c162a2",
+      "crc32": "0a8023c9",
+      "sha1": "d8ae730ba4fafde5f0addd68481edade198406be",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-09-28T10:19:16.757298+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664353163",
+      "size": "142971",
+      "md5": "923d6b1e81a39eeedafcc39ba8baeb02",
+      "crc32": "a4dfcabd",
+      "sha1": "df6f696bc4a2fdbdfbed8810d5c1bd76987ab4bf",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-09-28T10:19:16.757298+02:00.jpg",
+      "source": "original",
+      "mtime": "1664353159",
+      "size": "315858",
+      "md5": "8a25f0cf4a5d97708bfaaf5a42571450",
+      "crc32": "63302323",
+      "sha1": "348eb7268a8d7a1bfae810511ce85f57f22fce39",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "franceinfo-2022-09-28T10:19:16.757298+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664353165",
+      "size": "1531",
+      "md5": "13bc5ff9d321ed1bb4e216f01b2f3e45",
+      "crc32": "fa3bb65f",
+      "sha1": "8f4b6c04b8a91129353ecf27625dc315780998ac",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-09-28T10:19:16.757298+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664353166",
+      "size": "37325",
+      "md5": "1f5ead8fa77f524c446957004a968c9a",
+      "crc32": "bf0f19b4",
+      "sha1": "f06bac83617551b8e84d2b111f81811698c925f9",
+      "format": "JSON"
+    },
+    {
       "name": "franceinfo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d0f0f72336f8d8f9f03a67e8101592a963931742",
-      "mtime": "1664348473",
-      "size": "415534",
-      "md5": "c4bfd35342b7e4947831a8e6dce31b43",
-      "crc32": "26446697",
-      "sha1": "cbf36136d005cee862e18eec582cafb5d34d47a1",
+      "btih": "7da825d7d63d5b778887839e762551c1a98f4364",
+      "mtime": "1664353245",
+      "size": "416608",
+      "md5": "9ca8333946a9907993436f62bc3be71a",
+      "crc32": "8c1ebdb8",
+      "sha1": "b36bbc5a87382aded1417b7c314ce4453cc62c1c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "franceinfo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3f21a1fcbb4408937a5fb3eba6bf9b9c",
+      "md5": "f8a4b6e0aa899064bec8d3db68d569a0",
       "summation": "md5"
     },
     {
       "name": "franceinfo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664346464",
-      "size": "2347008",
-      "md5": "df187e51b5a44861020c088aa00ba958",
-      "crc32": "d55872a7",
-      "sha1": "3a2d62cbbc33b77b602d1684b69c53b2e8f8a9b0",
+      "mtime": "1664353174",
+      "size": "2359296",
+      "md5": "4deabb1787fd8d644cc2c8aacbcc4c0a",
+      "crc32": "279ecb45",
+      "sha1": "1e2446fa746827bc04c06ab3c90f86b4c6de0cf2",
       "format": "Metadata"
     },
     {
@@ -20148,9 +20199,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1935,
-  "item_last_updated": 1664348473,
-  "item_size": 227620948,
+  "files_count": 1940,
+  "item_last_updated": 1664353245,
+  "item_size": 228227769,
   "metadata": {
     "identifier": "franceinfo-2022",
     "collection": [
@@ -20167,10 +20218,21 @@
     "publicdate": "2022-04-09 13:42:09",
     "addeddate": "2022-04-09 13:42:09"
   },
-  "server": "ia802504.us.archive.org",
-  "uniq": 2010738443,
+  "pending_tasks": true,
+  "server": "ia902504.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3420809628,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 583084998,
   "workable_servers": [
-    "ia802504.us.archive.org",
     "ia902504.us.archive.org"
   ]
 }
