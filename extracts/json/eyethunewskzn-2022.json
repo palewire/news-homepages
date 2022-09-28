@@ -1,12 +1,8 @@
 {
-  "created": 1664309703,
+  "created": 1664322802,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/35/items/eyethunewskzn-2022",
-  "eyethunewskzn-2022": {
-    "url": "https://eyethunews.co.za/",
-    "job_id": "spn2-e606fc752efcaf90edd806a06c5d8639abee4c09"
-  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -4608,31 +4604,82 @@
       "sha1": "eb1656b4d6ae92a4b675ddeb75335bbfe7889913"
     },
     {
+      "name": "eyethunewskzn-2022-09-28T01:52:18.738278+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664322747",
+      "size": "33747",
+      "md5": "baffc3a90e1f8d0081e03e56e85f50c3",
+      "crc32": "cdf86f6d",
+      "sha1": "3055771acc3f1ac790b2e3a35e923dc48b4c86d7",
+      "format": "JSON"
+    },
+    {
+      "name": "eyethunewskzn-2022-09-28T01:52:18.738278+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664322748",
+      "size": "25460",
+      "md5": "5d6ef70cb33116b87108e883008ad105",
+      "crc32": "593e2692",
+      "sha1": "b627ca40ad4554bacc10c7b4245f83ce8ddffc73",
+      "format": "JSON"
+    },
+    {
+      "name": "eyethunewskzn-2022-09-28T01:52:18.738278+02:00.jpg",
+      "source": "original",
+      "mtime": "1664322743",
+      "size": "280223",
+      "md5": "7eeb49e5389a2f4fd2c15c2d0a07f67f",
+      "crc32": "2e18da5f",
+      "sha1": "23bea92ddee61c336b858d3482361e2bf16631cd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eyethunewskzn-2022-09-28T01:52:18.738278+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664322750",
+      "size": "1477",
+      "md5": "2483e3c1415878c697bc71224fb32bf0",
+      "crc32": "90dfe463",
+      "sha1": "18651afdd5ddfa104a5adff717129553ec041086",
+      "format": "JSON"
+    },
+    {
+      "name": "eyethunewskzn-2022-09-28T01:52:18.738278+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664322752",
+      "size": "27235",
+      "md5": "7053d83d0c076bbc39e1f6787c3878d2",
+      "crc32": "1ca38f13",
+      "sha1": "96b044b37fe4b9c9932104cf7ff9e062dbdcb08c",
+      "format": "JSON"
+    },
+    {
       "name": "eyethunewskzn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dc43ae7b40b4910ceeb4e5cdcab13ddf0b8e1189",
-      "mtime": "1664280701",
-      "size": "97210",
-      "md5": "60571497eb902e68e29671233eee2369",
-      "crc32": "a92e172a",
-      "sha1": "21cff3d1fc3f4fa6ca49eb2fc0756037854b0ae8",
+      "btih": "5e8484c81668dc6dbf51e161ad4712af6515ac06",
+      "mtime": "1664322796",
+      "size": "98298",
+      "md5": "ac5fbbecd4be04654d3ab676fe5075f8",
+      "crc32": "e516cc7a",
+      "sha1": "58bd42cbd8e32fb00281afbe2910c218aaf91d5c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eyethunewskzn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4c29247f67af1fca40cc46d14e1cf92d",
+      "md5": "c22896df8d3102b9e37fcbbc486ccc5d",
       "summation": "md5"
     },
     {
       "name": "eyethunewskzn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664279767",
-      "size": "589824",
-      "md5": "37c144d2649b3881167cde3463c4ed15",
-      "crc32": "015a109d",
-      "sha1": "68acfd752b7ec5e304b7793501c424742333caed",
+      "mtime": "1664322758",
+      "size": "593920",
+      "md5": "32e0dd5f171e90804701bda2b76bc239",
+      "crc32": "bfb38bda",
+      "sha1": "2147b27d270905a7e3b2033185330e34acc731df",
       "format": "Metadata"
     },
     {
@@ -4646,9 +4693,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 449,
-  "item_last_updated": 1664280701,
-  "item_size": 27206022,
+  "files_count": 454,
+  "item_last_updated": 1664322796,
+  "item_size": 27579348,
   "metadata": {
     "identifier": "eyethunewskzn-2022",
     "collection": [
@@ -4665,10 +4712,21 @@
     "publicdate": "2022-08-22 22:03:23",
     "addeddate": "2022-08-22 22:03:23"
   },
-  "server": "ia801504.us.archive.org",
-  "uniq": 2089328596,
+  "pending_tasks": true,
+  "server": "ia601504.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3420368314,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 806359330,
   "workable_servers": [
-    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

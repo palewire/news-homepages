@@ -1,5 +1,5 @@
 {
-  "created": 1664305864,
+  "created": 1664322793,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/15/items/eltiempo-2022",
@@ -11044,31 +11044,82 @@
       "sha1": "d08c9b63447961a6af3c2b74a90c5d10dc005947"
     },
     {
+      "name": "eltiempo-2022-09-27T18:52:06.177839-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664322729",
+      "size": "47976",
+      "md5": "e78f5e4c676a04dff3447ff8b6b168d8",
+      "crc32": "3420f145",
+      "sha1": "93676ac6b317b8d29561bd88cd34b6705121bf32",
+      "format": "JSON"
+    },
+    {
+      "name": "eltiempo-2022-09-27T18:52:06.177839-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664322731",
+      "size": "69514",
+      "md5": "da35045731db20182142f958d4e4a6e3",
+      "crc32": "8cb1315a",
+      "sha1": "a960fce3fb6765e9558fc80db3e715cca031a2d2",
+      "format": "JSON"
+    },
+    {
+      "name": "eltiempo-2022-09-27T18:52:06.177839-05:00.jpg",
+      "source": "original",
+      "mtime": "1664322728",
+      "size": "309629",
+      "md5": "5c18b366a99f9045e943ba0e75c71b36",
+      "crc32": "9b0dea65",
+      "sha1": "42c39ed2dcafb769b288f5e24cc3f482d08f0ac5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eltiempo-2022-09-27T18:52:06.177839-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664322733",
+      "size": "1476",
+      "md5": "3722dcafae339fbd01bedd1c598f50d2",
+      "crc32": "51d34704",
+      "sha1": "da292b7bb0a8e9c0ac835b0c8ff706ca3a4bb5be",
+      "format": "JSON"
+    },
+    {
+      "name": "eltiempo-2022-09-27T18:52:06.177839-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664322735",
+      "size": "218665",
+      "md5": "c6ea16fa74a748f4b76feb24b09af9cb",
+      "crc32": "648258aa",
+      "sha1": "2986f8c88fa8e1957ed153289d5fbe8f2c0a8602",
+      "format": "JSON"
+    },
+    {
       "name": "eltiempo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "10bbccf1ea1a7924e717ed258402d1d982cc1db2",
-      "mtime": "1664281771",
-      "size": "225813",
-      "md5": "21eca85cc9fd3c5b23fa2a9d68fc457c",
-      "crc32": "af93fefd",
-      "sha1": "979ea908a4ddd49e79e1afe068c8d7e4c85aad79",
+      "btih": "d3ee9fcb4caf37142d467a0c450896614a724b0d",
+      "mtime": "1664322789",
+      "size": "226877",
+      "md5": "270eb3efb6d8f17ce0c215012549f97c",
+      "crc32": "dc41f38b",
+      "sha1": "db821d8a652793eabb073079ca0d187cdb066c51",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eltiempo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "193c6d01e311215497d95cbb6b93ef2b",
+      "md5": "bd0f295c7c92065a29f8aee0cbda804e",
       "summation": "md5"
     },
     {
       "name": "eltiempo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664279712",
-      "size": "1314816",
-      "md5": "37859b14246642635798316d224316cf",
-      "crc32": "5339da15",
-      "sha1": "9bf23391e335bb3e6a9f25fea7357a14e617c7f0",
+      "mtime": "1664322741",
+      "size": "1323008",
+      "md5": "cedf145a1095a18cd1a401a4fe909b97",
+      "crc32": "0c2bb261",
+      "sha1": "99ae1cf48e9634e43c471d5e13e17b42a96746e7",
       "format": "Metadata"
     },
     {
@@ -11082,9 +11133,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1066,
-  "item_last_updated": 1664281771,
-  "item_size": 102047001,
+  "files_count": 1071,
+  "item_last_updated": 1664322789,
+  "item_size": 102703517,
   "metadata": {
     "identifier": "eltiempo-2022",
     "collection": [
@@ -11101,10 +11152,21 @@
     "publicdate": "2022-06-24 22:54:38",
     "addeddate": "2022-06-24 22:54:38"
   },
+  "pending_tasks": true,
   "server": "ia902509.us.archive.org",
-  "uniq": 1821615034,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3420368147,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1190614906,
   "workable_servers": [
-    "ia902509.us.archive.org",
-    "ia802509.us.archive.org"
+    "ia902509.us.archive.org"
   ]
 }

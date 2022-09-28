@@ -1,5 +1,5 @@
 {
-  "created": 1664293211,
+  "created": 1664322696,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/20/items/corriere-2022",
@@ -6082,31 +6082,82 @@
       "sha1": "e3741bb63454de6b42aa0a5d11f0c9722547fdf3"
     },
     {
+      "name": "corriere-2022-09-28T01:50:18.713290+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664322636",
+      "size": "123080",
+      "md5": "48d88e2be04d5051dae51d99beada505",
+      "crc32": "cd1e0b8a",
+      "sha1": "4043a49fff0f85041c44ca94e96b7b98911942ed",
+      "format": "JSON"
+    },
+    {
+      "name": "corriere-2022-09-28T01:50:18.713290+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664322638",
+      "size": "205033",
+      "md5": "91ea61802b753c33dd9bd7d641e1c5a0",
+      "crc32": "94f7083b",
+      "sha1": "ce317a7e1fd691cf9f8c8f51e438156bc34efc4b",
+      "format": "JSON"
+    },
+    {
+      "name": "corriere-2022-09-28T01:50:18.713290+02:00.jpg",
+      "source": "original",
+      "mtime": "1664322634",
+      "size": "173207",
+      "md5": "16f86bf3e38fe1c482116db330ea4025",
+      "crc32": "0aa67cf1",
+      "sha1": "ccfab5e9f3b0a748f81323f538722c395b88b775",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "corriere-2022-09-28T01:50:18.713290+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664322641",
+      "size": "1468",
+      "md5": "e9e17e2dfe632ca54c9adcbc4320e5bd",
+      "crc32": "54b2afce",
+      "sha1": "24fa96ac8de880902571b9d85433b16b41ebd11a",
+      "format": "JSON"
+    },
+    {
+      "name": "corriere-2022-09-28T01:50:18.713290+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664322643",
+      "size": "231",
+      "md5": "a4d954be686e013c141c80d546458577",
+      "crc32": "88aaa9f6",
+      "sha1": "5e083dec37cbc4090db12331b568e35284a0ada9",
+      "format": "JSON"
+    },
+    {
       "name": "corriere-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c0525500dee110f989b676a0c22c7a7e58c90a1f",
-      "mtime": "1664280517",
-      "size": "125851",
-      "md5": "8bc89aa324cf5f781aa6d8565e220620",
-      "crc32": "d0acb8b0",
-      "sha1": "afe11d3ab88545e247e4e2c3a293bd5b409696db",
+      "btih": "b35964d3a57a4a8d491090a339f2ec718ff9e0f1",
+      "mtime": "1664322692",
+      "size": "126914",
+      "md5": "4dd5fb3f7ea38e1e3f865b3820ab7909",
+      "crc32": "45d9bfc5",
+      "sha1": "258a32b75d60c16ec58fab1d8206bee8e3ce7143",
       "format": "Archive BitTorrent"
     },
     {
       "name": "corriere-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "810dfdee330d95e24fa0f391fdcc3d85",
+      "md5": "96c34cfe777ba4a9f47dcf683e8f74b5",
       "summation": "md5"
     },
     {
       "name": "corriere-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664279538",
-      "size": "761856",
-      "md5": "8250adc5487b830aa997fe219cc895b9",
-      "crc32": "adfae253",
-      "sha1": "d73d7f6cf9f24dfc234b8d53b3d6ba11d34fc296",
+      "mtime": "1664322648",
+      "size": "774144",
+      "md5": "7753536326790c8247e7751a650b9750",
+      "crc32": "ca335147",
+      "sha1": "aef1572c46f3016dff55ef0628be39d7139d1bed",
       "format": "Metadata"
     },
     {
@@ -6120,9 +6171,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 592,
-  "item_last_updated": 1664280517,
-  "item_size": 55502578,
+  "files_count": 597,
+  "item_last_updated": 1664322692,
+  "item_size": 56018948,
   "metadata": {
     "identifier": "corriere-2022",
     "collection": [
@@ -6139,10 +6190,21 @@
     "publicdate": "2022-08-11 00:42:02",
     "addeddate": "2022-08-11 00:42:02"
   },
+  "pending_tasks": true,
   "server": "ia902500.us.archive.org",
-  "uniq": 1982005935,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3420366025,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 589480553,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia902500.us.archive.org"
   ]
 }

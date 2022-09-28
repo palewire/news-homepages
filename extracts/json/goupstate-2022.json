@@ -1,5 +1,5 @@
 {
-  "created": 1664309855,
+  "created": 1664322965,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/28/items/goupstate-2022",
@@ -946,31 +946,82 @@
       "sha1": "16af804721f769f26f7b65af3a9a8403461c137f"
     },
     {
+      "name": "goupstate-2022-09-27T19:55:13.815974-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664322917",
+      "size": "19287",
+      "md5": "a134e0cadcc6e9aca7a75534b4dc8b53",
+      "crc32": "6e314c96",
+      "sha1": "6d1ed2de1ce49cba73d680cefe0914f11452fde9",
+      "format": "JSON"
+    },
+    {
+      "name": "goupstate-2022-09-27T19:55:13.815974-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664322919",
+      "size": "30181",
+      "md5": "11a4e84eadf43b9ab3acabfbea7350ca",
+      "crc32": "eda80c3a",
+      "sha1": "3dc64d55b474c0fe2769a56fca97c4ec0e95e8f2",
+      "format": "JSON"
+    },
+    {
+      "name": "goupstate-2022-09-27T19:55:13.815974-04:00.jpg",
+      "source": "original",
+      "mtime": "1664322915",
+      "size": "246439",
+      "md5": "51191c64ca480e3e324910a8e4e8e6d4",
+      "crc32": "1972fdef",
+      "sha1": "e8b78d0e4c07078c24b6120b97918cc9c00ff96e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "goupstate-2022-09-27T19:55:13.815974-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664322920",
+      "size": "1484",
+      "md5": "89ef7fe228330bb58b9a21f7588da256",
+      "crc32": "5d17695a",
+      "sha1": "06dcb78f989da12632aa4ab1af6b8462a676e5fb",
+      "format": "JSON"
+    },
+    {
+      "name": "goupstate-2022-09-27T19:55:13.815974-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664322922",
+      "size": "95207",
+      "md5": "2110d7035e188c63fa40589a3f2a5b6d",
+      "crc32": "bc32e5dd",
+      "sha1": "22668194f8e13fc03dc506451fa2a6ed68bb1ed1",
+      "format": "JSON"
+    },
+    {
       "name": "goupstate-2022_archive.torrent",
       "source": "metadata",
-      "btih": "830bc6119fa02641233cfa80d68d961934700653",
-      "mtime": "1664281001",
-      "size": "20653",
-      "md5": "ed5f4be8f5940a7175752c30f1c8900b",
-      "crc32": "acf14207",
-      "sha1": "d1392a7b353d1282d30e4e4d73441a607d43bfe2",
+      "btih": "bd6d5bd7132f542c5cb9b9013593078bc928e60a",
+      "mtime": "1664322961",
+      "size": "21721",
+      "md5": "ba300b41ee241cd05ce0c9b1f97e0796",
+      "crc32": "e7d8b1ab",
+      "sha1": "b2d78add951a7b6f123427979eccb4bb5a9d2602",
       "format": "Archive BitTorrent"
     },
     {
       "name": "goupstate-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a6fa31d09e9a1128c822a684172334db",
+      "md5": "8137b18d33bc3cf1e21ba4327502ca3c",
       "summation": "md5"
     },
     {
       "name": "goupstate-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664279833",
-      "size": "139264",
-      "md5": "7e730390d407c9a8baeb90bab5fc5153",
-      "crc32": "5d46b510",
-      "sha1": "dc16ad84e8e0dad7e6785322809e571690e2a4cc",
+      "mtime": "1664322926",
+      "size": "147456",
+      "md5": "bc6f34d56472b978d08c172486a3dc8f",
+      "crc32": "3ca299b0",
+      "sha1": "63efcd2d6d2c01dc825652db45970f7a871ed591",
       "format": "Metadata"
     },
     {
@@ -984,14 +1035,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 95,
-  "goupstate-2022": {
-    "url": "https://www.goupstate.com/",
-    "job_id": "spn2-7c1bc80da3803bea86cfea45a179ccce4f3e4a3a",
-    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
-  },
-  "item_last_updated": 1664281001,
-  "item_size": 5985545,
+  "files_count": 100,
+  "item_last_updated": 1664322961,
+  "item_size": 6387403,
   "metadata": {
     "identifier": "goupstate-2022",
     "collection": [
@@ -1008,10 +1054,21 @@
     "publicdate": "2022-09-20 22:18:26",
     "addeddate": "2022-09-20 22:18:26"
   },
+  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "uniq": 1362204575,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3420371733,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 243841681,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia601505.us.archive.org"
   ]
 }

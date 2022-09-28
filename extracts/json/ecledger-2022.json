@@ -1,12 +1,8 @@
 {
-  "created": 1664309636,
+  "created": 1664322803,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/0/items/ecledger-2022",
-  "ecledger-2022": {
-    "url": "https://www.ellwoodcityledger.com/",
-    "job_id": "spn2-441ea4db8c26d2b43042e4516e18bf6ecb8795ae"
-  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -950,31 +946,82 @@
       "sha1": "30983f0e14852edca0dcf0a20a99b8d4ef6d6eef"
     },
     {
+      "name": "ecledger-2022-09-27T19:52:24.155861-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664322749",
+      "size": "23217",
+      "md5": "4e73fcb8d5125e0271fbdfe3d2926adc",
+      "crc32": "ecf3da02",
+      "sha1": "873a7b9adbc7a516bf316ac75859446d73f7c2c2",
+      "format": "JSON"
+    },
+    {
+      "name": "ecledger-2022-09-27T19:52:24.155861-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664322751",
+      "size": "31168",
+      "md5": "7984299b50d76a3cd90bc4c11ae92984",
+      "crc32": "4a2dd9de",
+      "sha1": "4d2ce8004f5e6146bc5a38788ef27262997fb779",
+      "format": "JSON"
+    },
+    {
+      "name": "ecledger-2022-09-27T19:52:24.155861-04:00.jpg",
+      "source": "original",
+      "mtime": "1664322747",
+      "size": "279385",
+      "md5": "e1bd81fd62788cd134ec1cc77aa53c6b",
+      "crc32": "a92e0b81",
+      "sha1": "ba995337ac042eb3b06e6129f1227c26bc8ab65d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ecledger-2022-09-27T19:52:24.155861-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664322753",
+      "size": "1558",
+      "md5": "2e97a1c0bf4833c3f9e4edd0ae3eea71",
+      "crc32": "0fb3bae5",
+      "sha1": "0d6818a640273d59b8ac685ff2b5983479f0aa6a",
+      "format": "JSON"
+    },
+    {
+      "name": "ecledger-2022-09-27T19:52:24.155861-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664322754",
+      "size": "176155",
+      "md5": "c7a23be5a632982132a578103ca5990e",
+      "crc32": "4b8feaeb",
+      "sha1": "248fd75faa7f650123846df4b87301f54570350e",
+      "format": "JSON"
+    },
+    {
       "name": "ecledger-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c04e304c7110d0122c87400118c31a5bead6efb1",
-      "mtime": "1664280489",
-      "size": "20544",
-      "md5": "99e6bab07c7c20dffbd9a8608d88dba9",
-      "crc32": "a55da299",
-      "sha1": "d1ade1b3f97408958df8bf67aeae69155afb957a",
+      "btih": "630b01ae143428d0dc9411e4f4b42bca9f16474c",
+      "mtime": "1664322798",
+      "size": "21588",
+      "md5": "75b52271bf15a327c1a4d6864a8ecc8c",
+      "crc32": "66ba248b",
+      "sha1": "bc3f1ea0d1883d5566185a97b7094dac5002eb6b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ecledger-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "914406e64358a1fceaf2845639302c0d",
+      "md5": "43924b901974c3b284600870d3afa5dc",
       "summation": "md5"
     },
     {
       "name": "ecledger-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664279658",
-      "size": "139264",
-      "md5": "19131d9a598a7eaa78ca9a79f008c316",
-      "crc32": "1e44b102",
-      "sha1": "08b7042645a8b775bca5ec53b3c8c89b64d18f7c",
+      "mtime": "1664322760",
+      "size": "147456",
+      "md5": "265d26b8678e0452726f75032b459c0b",
+      "crc32": "d6cb392c",
+      "sha1": "20c6bde49c80a1d9802cdfcb049edd69b4fea869",
       "format": "Metadata"
     },
     {
@@ -988,9 +1035,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 95,
-  "item_last_updated": 1664280489,
-  "item_size": 5787928,
+  "files_count": 100,
+  "item_last_updated": 1664322798,
+  "item_size": 6308647,
   "metadata": {
     "identifier": "ecledger-2022",
     "collection": [
@@ -1007,10 +1054,21 @@
     "publicdate": "2022-09-20 22:15:47",
     "addeddate": "2022-09-20 22:15:47"
   },
-  "server": "ia801504.us.archive.org",
-  "uniq": 987305985,
+  "pending_tasks": true,
+  "server": "ia601504.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3420368333,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1261156267,
   "workable_servers": [
-    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

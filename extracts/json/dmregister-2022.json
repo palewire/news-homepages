@@ -1,13 +1,8 @@
 {
-  "created": 1664309506,
+  "created": 1664322820,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/17/items/dmregister-2022",
-  "dmregister-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "files": [
     {
       "name": "DMRegister-2022-03-24T22:34:29.846870-05:00.jpg",
@@ -17327,31 +17322,82 @@
       "sha1": "5c1ca1542fc8cd68f11e9aca6137254e3c531735"
     },
     {
+      "name": "dmregister-2022-09-27T18:52:21.588151-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664322751",
+      "size": "22213",
+      "md5": "410adecd5ef9f016f1292b8b62255ed7",
+      "crc32": "8a4e772e",
+      "sha1": "c3ca70ba00bba733367ca7048ee4b2b66011b443",
+      "format": "JSON"
+    },
+    {
+      "name": "dmregister-2022-09-27T18:52:21.588151-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664322754",
+      "size": "35302",
+      "md5": "e8acf957d8cc7c31ff9c7d5ed57f2617",
+      "crc32": "0f50943a",
+      "sha1": "2c2535a463528be3ceac09893b02a44d9035bc9b",
+      "format": "JSON"
+    },
+    {
+      "name": "dmregister-2022-09-27T18:52:21.588151-05:00.jpg",
+      "source": "original",
+      "mtime": "1664322749",
+      "size": "245565",
+      "md5": "a87c5cf4617a948dce43accff403c4fc",
+      "crc32": "430ab6be",
+      "sha1": "914edbd95381cdcba0f4ecc24b7936ba604ec5d4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dmregister-2022-09-27T18:52:21.588151-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664322756",
+      "size": "1558",
+      "md5": "c39760bc270bc193f3f01ff12e63409a",
+      "crc32": "70421094",
+      "sha1": "9db282c46d8bcff845a5bb9f1ce347fd9696facf",
+      "format": "JSON"
+    },
+    {
+      "name": "dmregister-2022-09-27T18:52:21.588151-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664322757",
+      "size": "89119",
+      "md5": "7cb90465e3ef137b75b98e5c86ecd6f7",
+      "crc32": "b13cdc92",
+      "sha1": "bc84a872d4ab1d608c35877d7922bfcb9064b4c3",
+      "format": "JSON"
+    },
+    {
       "name": "dmregister-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8e7c31796191af2f3dcef19ff51a630d0f8e717c",
-      "mtime": "1664282690",
-      "size": "354429",
-      "md5": "9d2114f443806016ecc5d7e41f84b515",
-      "crc32": "c0932a14",
-      "sha1": "b6607bf2322c31b5d9f41c71dce7e90a6e2f4a65",
+      "btih": "3e5eb52cbf1d197a3dff45204f7c83d798984013",
+      "mtime": "1664322815",
+      "size": "355502",
+      "md5": "eb6319cfaa35c2d83b432e654db6dd83",
+      "crc32": "18ee2973",
+      "sha1": "865b52ed3d41117e19015ab240ccfd678e54cea7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dmregister-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "160259b2ccd423636c770369d54c69b0",
+      "md5": "453314b059a4c06feb0b046b46c20f70",
       "summation": "md5"
     },
     {
       "name": "dmregister-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664279665",
-      "size": "2015232",
-      "md5": "1cdfce72f69d1b15d2d7b2c9847a8e6e",
-      "crc32": "8c2c038b",
-      "sha1": "0259c8d7a1275296bae572a1344b08e556e71648",
+      "mtime": "1664322761",
+      "size": "2023424",
+      "md5": "e73bc241c67b0f99a71b8f0b882199f2",
+      "crc32": "e8e863a5",
+      "sha1": "153be558eebc1672c31a8fdfecb79469fe23dbdb",
       "format": "Metadata"
     },
     {
@@ -17365,9 +17411,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1666,
-  "item_last_updated": 1664282690,
-  "item_size": 124992372,
+  "files_count": 1671,
+  "item_last_updated": 1664322815,
+  "item_size": 125395394,
   "metadata": {
     "identifier": "dmregister-2022",
     "collection": [
@@ -17384,10 +17430,21 @@
     "publicdate": "2022-03-25 03:35:06",
     "addeddate": "2022-03-25 03:35:06"
   },
-  "server": "ia802509.us.archive.org",
-  "uniq": 1358508184,
+  "pending_tasks": true,
+  "server": "ia902509.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3420368701,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1558763838,
   "workable_servers": [
-    "ia802509.us.archive.org",
     "ia902509.us.archive.org"
   ]
 }

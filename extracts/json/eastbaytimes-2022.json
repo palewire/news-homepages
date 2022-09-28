@@ -1,5 +1,5 @@
 {
-  "created": 1664293589,
+  "created": 1664322826,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/23/items/eastbaytimes-2022",
@@ -16918,31 +16918,82 @@
       "sha1": "07e368b42f831e6f1cb3ec0e69c4dea69315767d"
     },
     {
+      "name": "eastbaytimes-2022-09-27T16:52:30.737322-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664322754",
+      "size": "38582",
+      "md5": "bae692be3fef75b60a13bbd51aa12481",
+      "crc32": "1626bda0",
+      "sha1": "7e299de10946435d63fd7e309bf34e0fc1a6467b",
+      "format": "JSON"
+    },
+    {
+      "name": "eastbaytimes-2022-09-27T16:52:30.737322-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664322756",
+      "size": "65930",
+      "md5": "39cdebf16ed35b717b0b31e9184b53a5",
+      "crc32": "b446f7f9",
+      "sha1": "2515e2740264237b150fc3248c36745ac72d05f0",
+      "format": "JSON"
+    },
+    {
+      "name": "eastbaytimes-2022-09-27T16:52:30.737322-07:00.jpg",
+      "source": "original",
+      "mtime": "1664322752",
+      "size": "282976",
+      "md5": "963baa5f61b8c753eeabec4c0878c9d9",
+      "crc32": "3b048f9b",
+      "sha1": "0138ee0d3b847ae3f18b08f3c622f234cbe5a062",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eastbaytimes-2022-09-27T16:52:30.737322-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664322757",
+      "size": "1513",
+      "md5": "567f16ba1d0bdbe81952d33de8f483fd",
+      "crc32": "f5df7e16",
+      "sha1": "508871435e355a445d6092ff2aa2ccb59fa24865",
+      "format": "JSON"
+    },
+    {
+      "name": "eastbaytimes-2022-09-27T16:52:30.737322-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664322759",
+      "size": "32631",
+      "md5": "27e3fe8aa731b874fbf74c11bc3cfa69",
+      "crc32": "b3d17cee",
+      "sha1": "6da71522a942a3574045d583985420d838890e80",
+      "format": "JSON"
+    },
+    {
       "name": "eastbaytimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "16ec0945d01cb3339b38d33a268d5451e4805310",
-      "mtime": "1664280597",
-      "size": "349669",
-      "md5": "4b99b5fd688fa061921a3632ba12049d",
-      "crc32": "35621792",
-      "sha1": "188a1d7ef32bea98aade9c842307fd18a237acb5",
+      "btih": "12b69edea0e6358c480f9a484a97ead4494d62a7",
+      "mtime": "1664322822",
+      "size": "350732",
+      "md5": "7a127137a84f5f9301d13a30768d9a22",
+      "crc32": "6dd85d44",
+      "sha1": "dfb728370f0a6a0a30c8ba5278e4bafcca868c2c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eastbaytimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "258185bfe57675e3d5527b257cf94d52",
+      "md5": "c0a09911dd0d6fafba3e830f0c54748d",
       "summation": "md5"
     },
     {
       "name": "eastbaytimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664279697",
-      "size": "1953792",
-      "md5": "42289df9c2c3e7dfee5279340805e6ad",
-      "crc32": "1b3d0db5",
-      "sha1": "6fe389f2a446b4d72c62abb85432f6c0044660b4",
+      "mtime": "1664322765",
+      "size": "1961984",
+      "md5": "80298dc54af4cc3e0cafe22cb244401e",
+      "crc32": "761a5438",
+      "sha1": "11b87b354de57b6bed5c58784352c6a69de21433",
       "format": "Metadata"
     },
     {
@@ -16956,9 +17007,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1625,
-  "item_last_updated": 1664280597,
-  "item_size": 143031522,
+  "files_count": 1630,
+  "item_last_updated": 1664322822,
+  "item_size": 143462409,
   "metadata": {
     "identifier": "eastbaytimes-2022",
     "collection": [
@@ -16975,10 +17026,21 @@
     "publicdate": "2022-03-23 02:08:59",
     "addeddate": "2022-03-23 02:08:59"
   },
-  "server": "ia802504.us.archive.org",
-  "uniq": 1036298389,
+  "pending_tasks": true,
+  "server": "ia902504.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3420368843,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 842825016,
   "workable_servers": [
-    "ia802504.us.archive.org",
     "ia902504.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1664309810,
+  "created": 1664322806,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/5/items/florida_bulldog-2022",
@@ -9240,31 +9240,82 @@
       "sha1": "ab0730b82ade1695cd42fe30388e6dac302c8cda"
     },
     {
+      "name": "florida_bulldog-2022-09-27T19:52:16.586772-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664322746",
+      "size": "33962",
+      "md5": "eaafcdcd4b10bae05244fee728b3ba49",
+      "crc32": "1cd379f2",
+      "sha1": "48b8cfc63aa69c1ae81e4cea57f4bd48620c5dca",
+      "format": "JSON"
+    },
+    {
+      "name": "florida_bulldog-2022-09-27T19:52:16.586772-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664322749",
+      "size": "18236",
+      "md5": "fb6138fbe105b10bf727c873d7daae37",
+      "crc32": "46e07cbc",
+      "sha1": "5c2ecc277a4733fbd73c72bc53907152a61639d8",
+      "format": "JSON"
+    },
+    {
+      "name": "florida_bulldog-2022-09-27T19:52:16.586772-04:00.jpg",
+      "source": "original",
+      "mtime": "1664322743",
+      "size": "256664",
+      "md5": "ea4a3de864e18c41c6786719b62aaa1e",
+      "crc32": "bb9a0c6b",
+      "sha1": "ca102f490779d75fade371431bd94f987d1492c7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "florida_bulldog-2022-09-27T19:52:16.586772-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664322750",
+      "size": "1531",
+      "md5": "4991928011740e6daa585e204f5cbd7b",
+      "crc32": "a8530726",
+      "sha1": "b5099d5c92ec902d816a6ecb72510ffd65247177",
+      "format": "JSON"
+    },
+    {
+      "name": "florida_bulldog-2022-09-27T19:52:16.586772-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664322752",
+      "size": "16800",
+      "md5": "081b548a18c092645400da85e055dd69",
+      "crc32": "833f22c9",
+      "sha1": "75e2db3a82d90989c173a57b8fee4598c06c8711",
+      "format": "JSON"
+    },
+    {
       "name": "florida_bulldog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "27cbf69f5c7806214a28d4a5f085c1de14d5b558",
-      "mtime": "1664280911",
-      "size": "194947",
-      "md5": "640b46c168ab17ed70faab2968cdcf35",
-      "crc32": "9efd84a5",
-      "sha1": "db60b55060a94f1e3c29a7f386f2bc2b538f7de1",
+      "btih": "4439fccd1ed511dc34e7027f76543c258fc02cb7",
+      "mtime": "1664322802",
+      "size": "196025",
+      "md5": "d2915927aa926f6a425e1339081118c0",
+      "crc32": "694e91eb",
+      "sha1": "5f0d19bf68fade9ddc6b5558d0aa2dd7049e5d61",
       "format": "Archive BitTorrent"
     },
     {
       "name": "florida_bulldog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "40cf7bd86354117c18d7865f5d8a74d9",
+      "md5": "4a71c0b817c39914d0bb88c8685dbffa",
       "summation": "md5"
     },
     {
       "name": "florida_bulldog-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664279791",
-      "size": "1138688",
-      "md5": "33baf128977b9dadf025019e026016b3",
-      "crc32": "74ca7aa2",
-      "sha1": "3cab67ef7bc2549cc22c94cb79e291c279563ea8",
+      "mtime": "1664322758",
+      "size": "1146880",
+      "md5": "6a67c0a33001ea4464dba7683bd00d14",
+      "crc32": "cd816326",
+      "sha1": "92ace92edbc7cdd51a51a3f5e7ab3feb6e6ae527",
       "format": "Metadata"
     },
     {
@@ -9278,14 +9329,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 895,
-  "florida_bulldog-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "item_last_updated": 1664280911,
-  "item_size": 56356704,
+  "files_count": 900,
+  "item_last_updated": 1664322802,
+  "item_size": 56693167,
   "metadata": {
     "identifier": "florida_bulldog-2022",
     "collection": [
@@ -9302,10 +9348,21 @@
     "publicdate": "2022-07-09 03:59:15",
     "addeddate": "2022-07-09 03:59:15"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 1902829652,
+  "pending_tasks": true,
+  "server": "ia601408.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3420368406,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 356400030,
   "workable_servers": [
-    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }
