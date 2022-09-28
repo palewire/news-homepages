@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 157 screenshots with the Internet Archive.
+The archiving routine has saved 158 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 157 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-28T00:53:52.811395-03:00.jpg">
+  <img src="https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-28T00:53:52.811395-03:00.jpg"
+     alt="UOL Notícias at 2022-09-28 00:53:59-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-28T00:53:52.811395-03:00.jpg">September 28 at 12:53 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-27T12:07:41.443433-03:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-24T08:52:19.154078-03:00.jpg">September 24 at 8:52 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-24T00:36:57.649882-03:00.jpg">
-  <img src="https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-24T00:36:57.649882-03:00.jpg"
-     alt="UOL Notícias at 2022-09-24 00:37:03-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-24T00:36:57.649882-03:00.jpg">September 24 at 12:37 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 158 hyperlink lists with the Internet Archive.
+The archiving routine has saved 159 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 12:54 AM](https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-28T00:53:52.811395-03:00.hyperlinks.json) |
 | [September 27 at 12:07 PM](https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-27T12:07:41.443433-03:00.hyperlinks.json) |
 | [September 27 at 8:59 AM](https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-27T08:59:12.515688-03:00.hyperlinks.json) |
 | [September 27 at 12:35 AM](https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-27T00:35:35.354487-03:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 11:45 AM](https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-25T11:45:29.709941-03:00.hyperlinks.json) |
 | [September 25 at 8:50 AM](https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-25T08:50:35.504540-03:00.hyperlinks.json) |
 | [September 25 at 12:37 AM](https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-25T00:37:00.190078-03:00.hyperlinks.json) |
-| [September 24 at 11:45 AM](https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-24T11:45:34.383240-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 159 accessibility trees with the Internet Archive.
+The archiving routine has saved 160 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 12:54 AM](https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-28T00:53:52.811395-03:00.accessibility.json) |
 | [September 27 at 12:07 PM](https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-27T12:07:41.443433-03:00.accessibility.json) |
 | [September 27 at 8:59 AM](https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-27T08:59:12.515688-03:00.accessibility.json) |
 | [September 27 at 12:35 AM](https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-27T00:35:35.354487-03:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 11:45 AM](https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-25T11:45:29.709941-03:00.accessibility.json) |
 | [September 25 at 8:50 AM](https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-25T08:50:35.504540-03:00.accessibility.json) |
 | [September 25 at 12:37 AM](https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-25T00:37:00.190078-03:00.accessibility.json) |
-| [September 24 at 11:45 AM](https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-24T11:45:34.383240-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 158 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 159 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 12:54 AM](https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-28T00:53:52.811395-03:00.lighthouse.json) |
 | [September 27 at 12:07 PM](https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-27T12:07:41.443433-03:00.lighthouse.json) |
 | [September 27 at 8:59 AM](https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-27T08:59:12.515688-03:00.lighthouse.json) |
 | [September 27 at 12:35 AM](https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-27T00:35:35.354487-03:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 11:45 AM](https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-25T11:45:29.709941-03:00.lighthouse.json) |
 | [September 25 at 8:50 AM](https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-25T08:50:35.504540-03:00.lighthouse.json) |
 | [September 25 at 12:37 AM](https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-25T00:37:00.190078-03:00.lighthouse.json) |
-| [September 24 at 11:45 AM](https://archive.org/download/uolnoticias-2022/uolnoticias-2022-09-24T11:45:34.383240-03:00.lighthouse.json) |
 
 
 

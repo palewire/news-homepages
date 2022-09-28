@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 64 screenshots with the Internet Archive.
+The archiving routine has saved 65 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 64 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-27T23:50:26.428031-04:00.jpg">
+  <img src="https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-27T23:50:26.428031-04:00.jpg"
+     alt="Tributary at 2022-09-27 23:50:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-27T23:50:26.428031-04:00.jpg">September 27 at 11:50 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-27T11:04:57.512087-04:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-22T10:59:13.527073-04:00.jpg">September 22 at 10:59 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-21T23:39:13.947141-04:00.jpg">
-  <img src="https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-21T23:39:13.947141-04:00.jpg"
-     alt="Tributary at 2022-09-21 23:39:18-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-21T23:39:13.947141-04:00.jpg">September 21 at 11:39 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 64 hyperlink lists with the Internet Archive.
+The archiving routine has saved 65 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 27 at 11:50 PM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-27T23:50:26.428031-04:00.hyperlinks.json) |
 | [September 27 at 11:05 AM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-27T11:04:57.512087-04:00.hyperlinks.json) |
 | [September 26 at 11:33 PM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-26T23:33:06.154757-04:00.hyperlinks.json) |
 | [September 26 at 11:08 AM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-26T11:08:16.153316-04:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 10:44 AM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-24T10:44:02.495638-04:00.hyperlinks.json) |
 | [September 23 at 11:34 PM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-23T23:34:54.198375-04:00.hyperlinks.json) |
 | [September 23 at 11:01 AM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-23T11:01:07.900454-04:00.hyperlinks.json) |
-| [September 22 at 11:42 PM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-22T23:42:37.927433-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 64 accessibility trees with the Internet Archive.
+The archiving routine has saved 65 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 27 at 11:50 PM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-27T23:50:26.428031-04:00.accessibility.json) |
 | [September 27 at 11:05 AM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-27T11:04:57.512087-04:00.accessibility.json) |
 | [September 26 at 11:33 PM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-26T23:33:06.154757-04:00.accessibility.json) |
 | [September 26 at 11:08 AM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-26T11:08:16.153316-04:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 10:44 AM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-24T10:44:02.495638-04:00.accessibility.json) |
 | [September 23 at 11:34 PM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-23T23:34:54.198375-04:00.accessibility.json) |
 | [September 23 at 11:01 AM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-23T11:01:07.900454-04:00.accessibility.json) |
-| [September 22 at 11:42 PM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-22T23:42:37.927433-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 64 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 65 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 27 at 11:50 PM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-27T23:50:26.428031-04:00.lighthouse.json) |
 | [September 27 at 11:05 AM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-27T11:04:57.512087-04:00.lighthouse.json) |
 | [September 26 at 11:33 PM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-26T23:33:06.154757-04:00.lighthouse.json) |
 | [September 26 at 11:08 AM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-26T11:08:16.153316-04:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 10:44 AM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-24T10:44:02.495638-04:00.lighthouse.json) |
 | [September 23 at 11:35 PM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-23T23:34:54.198375-04:00.lighthouse.json) |
 | [September 23 at 11:01 AM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-23T11:01:07.900454-04:00.lighthouse.json) |
-| [September 22 at 11:42 PM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-09-22T23:42:37.927433-04:00.lighthouse.json) |
 
 
 

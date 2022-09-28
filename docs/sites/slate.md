@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 269 screenshots with the Internet Archive.
+The archiving routine has saved 270 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 269 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/slate-2022/slate-2022-09-27T23:47:45.405585-04:00.jpg">
+  <img src="https://archive.org/download/slate-2022/slate-2022-09-27T23:47:45.405585-04:00.jpg"
+     alt="Slate at 2022-09-27 23:47:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-09-27T23:47:45.405585-04:00.jpg">September 27 at 11:47 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/slate-2022/slate-2022-09-27T15:50:16.004880-04:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/slate-2022/slate-2022-09-24T10:42:10.399471-04:00.jpg">September 24 at 10:42 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/slate-2022/slate-2022-09-23T23:33:33.040316-04:00.jpg">
-  <img src="https://archive.org/download/slate-2022/slate-2022-09-23T23:33:33.040316-04:00.jpg"
-     alt="Slate at 2022-09-23 23:33:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-09-23T23:33:33.040316-04:00.jpg">September 23 at 11:33 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 262 hyperlink lists with the Internet Archive.
+The archiving routine has saved 263 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 27 at 11:48 PM](https://archive.org/download/slate-2022/slate-2022-09-27T23:47:45.405585-04:00.hyperlinks.json) |
 | [September 27 at 3:50 PM](https://archive.org/download/slate-2022/slate-2022-09-27T15:50:16.004880-04:00.hyperlinks.json) |
 | [September 27 at 11:02 AM](https://archive.org/download/slate-2022/slate-2022-09-27T11:02:01.929124-04:00.hyperlinks.json) |
 | [September 26 at 11:31 PM](https://archive.org/download/slate-2022/slate-2022-09-26T23:31:26.653375-04:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 3:05 PM](https://archive.org/download/slate-2022/slate-2022-09-25T15:05:27.291482-04:00.hyperlinks.json) |
 | [September 25 at 10:41 AM](https://archive.org/download/slate-2022/slate-2022-09-25T10:41:36.898823-04:00.hyperlinks.json) |
 | [September 24 at 11:32 PM](https://archive.org/download/slate-2022/slate-2022-09-24T23:32:41.935436-04:00.hyperlinks.json) |
-| [September 24 at 3:01 PM](https://archive.org/download/slate-2022/slate-2022-09-24T15:01:39.791760-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 270 accessibility trees with the Internet Archive.
+The archiving routine has saved 271 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 27 at 11:48 PM](https://archive.org/download/slate-2022/slate-2022-09-27T23:47:45.405585-04:00.accessibility.json) |
 | [September 27 at 3:50 PM](https://archive.org/download/slate-2022/slate-2022-09-27T15:50:16.004880-04:00.accessibility.json) |
 | [September 27 at 11:02 AM](https://archive.org/download/slate-2022/slate-2022-09-27T11:02:01.929124-04:00.accessibility.json) |
 | [September 26 at 11:31 PM](https://archive.org/download/slate-2022/slate-2022-09-26T23:31:26.653375-04:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 3:05 PM](https://archive.org/download/slate-2022/slate-2022-09-25T15:05:27.291482-04:00.accessibility.json) |
 | [September 25 at 10:41 AM](https://archive.org/download/slate-2022/slate-2022-09-25T10:41:36.898823-04:00.accessibility.json) |
 | [September 24 at 11:32 PM](https://archive.org/download/slate-2022/slate-2022-09-24T23:32:41.935436-04:00.accessibility.json) |
-| [September 24 at 3:01 PM](https://archive.org/download/slate-2022/slate-2022-09-24T15:01:39.791760-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 192 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 193 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 27 at 11:48 PM](https://archive.org/download/slate-2022/slate-2022-09-27T23:47:45.405585-04:00.lighthouse.json) |
 | [September 27 at 3:50 PM](https://archive.org/download/slate-2022/slate-2022-09-27T15:50:16.004880-04:00.lighthouse.json) |
 | [September 27 at 11:02 AM](https://archive.org/download/slate-2022/slate-2022-09-27T11:02:01.929124-04:00.lighthouse.json) |
 | [September 26 at 11:31 PM](https://archive.org/download/slate-2022/slate-2022-09-26T23:31:26.653375-04:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 3:05 PM](https://archive.org/download/slate-2022/slate-2022-09-25T15:05:27.291482-04:00.lighthouse.json) |
 | [September 25 at 10:41 AM](https://archive.org/download/slate-2022/slate-2022-09-25T10:41:36.898823-04:00.lighthouse.json) |
 | [September 24 at 11:32 PM](https://archive.org/download/slate-2022/slate-2022-09-24T23:32:41.935436-04:00.lighthouse.json) |
-| [September 24 at 3:01 PM](https://archive.org/download/slate-2022/slate-2022-09-24T15:01:39.791760-04:00.lighthouse.json) |
 
 
 

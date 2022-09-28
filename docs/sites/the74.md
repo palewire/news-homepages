@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 159 screenshots with the Internet Archive.
+The archiving routine has saved 160 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 159 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/the74-2022/the74-2022-09-27T23:48:12.349768-04:00.jpg">
+  <img src="https://archive.org/download/the74-2022/the74-2022-09-27T23:48:12.349768-04:00.jpg"
+     alt="74th at 2022-09-27 23:48:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/the74-2022/the74-2022-09-27T23:48:12.349768-04:00.jpg">September 27 at 11:48 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/the74-2022/the74-2022-09-27T11:04:34.288150-04:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/the74-2022/the74-2022-09-22T10:56:22.784357-04:00.jpg">September 22 at 10:56 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/the74-2022/the74-2022-09-21T23:39:07.924028-04:00.jpg">
-  <img src="https://archive.org/download/the74-2022/the74-2022-09-21T23:39:07.924028-04:00.jpg"
-     alt="74th at 2022-09-21 23:39:32-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/the74-2022/the74-2022-09-21T23:39:07.924028-04:00.jpg">September 21 at 11:39 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 163 hyperlink lists with the Internet Archive.
+The archiving routine has saved 164 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 27 at 11:48 PM](https://archive.org/download/the74-2022/the74-2022-09-27T23:48:12.349768-04:00.hyperlinks.json) |
 | [September 27 at 11:04 AM](https://archive.org/download/the74-2022/the74-2022-09-27T11:04:34.288150-04:00.hyperlinks.json) |
 | [September 26 at 11:31 PM](https://archive.org/download/the74-2022/the74-2022-09-26T23:31:27.012531-04:00.hyperlinks.json) |
 | [September 26 at 11:08 AM](https://archive.org/download/the74-2022/the74-2022-09-26T11:07:58.056422-04:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 24 at 10:44 AM](https://archive.org/download/the74-2022/the74-2022-09-24T10:44:05.450001-04:00.hyperlinks.json) |
 | [September 23 at 11:33 PM](https://archive.org/download/the74-2022/the74-2022-09-23T23:33:09.588588-04:00.hyperlinks.json) |
 | [September 23 at 10:59 AM](https://archive.org/download/the74-2022/the74-2022-09-23T10:59:12.856884-04:00.hyperlinks.json) |
-| [September 22 at 11:40 PM](https://archive.org/download/the74-2022/the74-2022-09-22T23:40:23.249225-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 162 accessibility trees with the Internet Archive.
+The archiving routine has saved 163 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 27 at 11:48 PM](https://archive.org/download/the74-2022/the74-2022-09-27T23:48:12.349768-04:00.accessibility.json) |
 | [September 27 at 11:04 AM](https://archive.org/download/the74-2022/the74-2022-09-27T11:04:34.288150-04:00.accessibility.json) |
 | [September 26 at 11:31 PM](https://archive.org/download/the74-2022/the74-2022-09-26T23:31:27.012531-04:00.accessibility.json) |
 | [September 26 at 11:08 AM](https://archive.org/download/the74-2022/the74-2022-09-26T11:07:58.056422-04:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 24 at 10:44 AM](https://archive.org/download/the74-2022/the74-2022-09-24T10:44:05.450001-04:00.accessibility.json) |
 | [September 23 at 11:33 PM](https://archive.org/download/the74-2022/the74-2022-09-23T23:33:09.588588-04:00.accessibility.json) |
 | [September 23 at 10:59 AM](https://archive.org/download/the74-2022/the74-2022-09-23T10:59:12.856884-04:00.accessibility.json) |
-| [September 22 at 11:40 PM](https://archive.org/download/the74-2022/the74-2022-09-22T23:40:23.249225-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 27 at 11:48 PM](https://archive.org/download/the74-2022/the74-2022-09-27T23:48:12.349768-04:00.lighthouse.json) |
 | [September 27 at 11:04 AM](https://archive.org/download/the74-2022/the74-2022-09-27T11:04:34.288150-04:00.lighthouse.json) |
 | [September 26 at 11:31 PM](https://archive.org/download/the74-2022/the74-2022-09-26T23:31:27.012531-04:00.lighthouse.json) |
 | [September 26 at 11:08 AM](https://archive.org/download/the74-2022/the74-2022-09-26T11:07:58.056422-04:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 24 at 10:44 AM](https://archive.org/download/the74-2022/the74-2022-09-24T10:44:05.450001-04:00.lighthouse.json) |
 | [September 23 at 11:33 PM](https://archive.org/download/the74-2022/the74-2022-09-23T23:33:09.588588-04:00.lighthouse.json) |
 | [September 23 at 10:59 AM](https://archive.org/download/the74-2022/the74-2022-09-23T10:59:12.856884-04:00.lighthouse.json) |
-| [September 22 at 11:40 PM](https://archive.org/download/the74-2022/the74-2022-09-22T23:40:23.249225-04:00.lighthouse.json) |
 
 
 
