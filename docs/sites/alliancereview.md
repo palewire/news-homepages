@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 17 screenshots with the Internet Archive.
+The archiving routine has saved 18 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-29T12:05:39.776850-04:00.jpg">
+  <img src="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-29T12:05:39.776850-04:00.jpg"
+     alt="The Alliance Review at 2022-09-29 12:05:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-29T12:05:39.776850-04:00.jpg">September 29 at 12:05 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-29T01:16:02.878260-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-24T00:30:16.495054-04:00.jpg">September 24 at 12:30 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-23T11:56:24.709263-04:00.jpg">
-  <img src="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-23T11:56:24.709263-04:00.jpg"
-     alt="The Alliance Review at 2022-09-23 11:56:26-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/alliancereview-2022/alliancereview-2022-09-23T11:56:24.709263-04:00.jpg">September 23 at 11:56 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 18 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 12:05 PM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-29T12:05:39.776850-04:00.hyperlinks.json) |
 | [September 29 at 1:16 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-29T01:16:02.878260-04:00.hyperlinks.json) |
 | [September 28 at 12:10 PM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-28T12:10:34.609978-04:00.hyperlinks.json) |
 | [September 28 at 2:01 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-28T02:01:51.491479-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 12:42 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-26T00:42:16.754266-04:00.hyperlinks.json) |
 | [September 25 at 11:51 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-25T11:51:00.736607-04:00.hyperlinks.json) |
 | [September 25 at 12:28 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-25T00:28:36.276864-04:00.hyperlinks.json) |
-| [September 24 at 11:49 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-24T11:49:27.122097-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 17 accessibility trees with the Internet Archive.
+The archiving routine has saved 18 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 12:05 PM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-29T12:05:39.776850-04:00.accessibility.json) |
 | [September 29 at 1:16 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-29T01:16:02.878260-04:00.accessibility.json) |
 | [September 28 at 12:10 PM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-28T12:10:34.609978-04:00.accessibility.json) |
 | [September 28 at 2:01 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-28T02:01:51.491479-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 12:42 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-26T00:42:16.754266-04:00.accessibility.json) |
 | [September 25 at 11:51 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-25T11:51:00.736607-04:00.accessibility.json) |
 | [September 25 at 12:28 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-25T00:28:36.276864-04:00.accessibility.json) |
-| [September 24 at 11:49 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-24T11:49:27.122097-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 12:05 PM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-29T12:05:39.776850-04:00.lighthouse.json) |
 | [September 29 at 1:16 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-29T01:16:02.878260-04:00.lighthouse.json) |
 | [September 28 at 12:10 PM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-28T12:10:34.609978-04:00.lighthouse.json) |
 | [September 28 at 2:01 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-28T02:01:51.491479-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 12:42 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-26T00:42:16.754266-04:00.lighthouse.json) |
 | [September 25 at 11:51 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-25T11:51:00.736607-04:00.lighthouse.json) |
 | [September 25 at 12:28 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-25T00:28:36.276864-04:00.lighthouse.json) |
-| [September 24 at 11:49 AM](https://archive.org/download/alliancereview-2022/alliancereview-2022-09-24T11:49:27.122097-04:00.lighthouse.json) |
 
 
 

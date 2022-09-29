@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 166 screenshots with the Internet Archive.
+The archiving routine has saved 167 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 166 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-29T12:05:45.238558-04:00.jpg">
+  <img src="https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-29T12:05:45.238558-04:00.jpg"
+     alt="Atlanta Civic Circle at 2022-09-29 12:05:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-29T12:05:45.238558-04:00.jpg">September 29 at 12:05 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-29T01:19:32.922117-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-24T00:29:50.732373-04:00.jpg">September 24 at 12:29 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-23T11:57:31.865843-04:00.jpg">
-  <img src="https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-23T11:57:31.865843-04:00.jpg"
-     alt="Atlanta Civic Circle at 2022-09-23 11:57:33-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-23T11:57:31.865843-04:00.jpg">September 23 at 11:57 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 167 hyperlink lists with the Internet Archive.
+The archiving routine has saved 168 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 12:05 PM](https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-29T12:05:45.238558-04:00.hyperlinks.json) |
 | [September 29 at 1:19 AM](https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-29T01:19:32.922117-04:00.hyperlinks.json) |
 | [September 28 at 12:11 PM](https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-28T12:11:33.492072-04:00.hyperlinks.json) |
 | [September 28 at 2:04 AM](https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-28T02:04:08.428919-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 12:42 AM](https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-26T00:42:13.343921-04:00.hyperlinks.json) |
 | [September 25 at 11:51 AM](https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-25T11:51:08.847907-04:00.hyperlinks.json) |
 | [September 25 at 12:28 AM](https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-25T00:27:52.424544-04:00.hyperlinks.json) |
-| [September 24 at 11:49 AM](https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-24T11:49:15.539983-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 167 accessibility trees with the Internet Archive.
+The archiving routine has saved 168 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 12:05 PM](https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-29T12:05:45.238558-04:00.accessibility.json) |
 | [September 29 at 1:19 AM](https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-29T01:19:32.922117-04:00.accessibility.json) |
 | [September 28 at 12:11 PM](https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-28T12:11:33.492072-04:00.accessibility.json) |
 | [September 28 at 2:04 AM](https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-28T02:04:08.428919-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 12:42 AM](https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-26T00:42:13.343921-04:00.accessibility.json) |
 | [September 25 at 11:51 AM](https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-25T11:51:08.847907-04:00.accessibility.json) |
 | [September 25 at 12:28 AM](https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-25T00:27:52.424544-04:00.accessibility.json) |
-| [September 24 at 11:49 AM](https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-24T11:49:15.539983-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 136 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 137 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 12:06 PM](https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-29T12:05:45.238558-04:00.lighthouse.json) |
 | [September 29 at 1:19 AM](https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-29T01:19:32.922117-04:00.lighthouse.json) |
 | [September 28 at 12:11 PM](https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-28T12:11:33.492072-04:00.lighthouse.json) |
 | [September 28 at 2:04 AM](https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-28T02:04:08.428919-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 12:42 AM](https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-26T00:42:13.343921-04:00.lighthouse.json) |
 | [September 25 at 11:51 AM](https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-25T11:51:08.847907-04:00.lighthouse.json) |
 | [September 25 at 12:28 AM](https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-25T00:27:52.424544-04:00.lighthouse.json) |
-| [September 24 at 11:49 AM](https://archive.org/download/atlciviccircle-2022/atlciviccircle-2022-09-24T11:49:15.539983-04:00.lighthouse.json) |
 
 
 

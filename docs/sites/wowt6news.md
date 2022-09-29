@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 122 screenshots with the Internet Archive.
+The archiving routine has saved 123 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 122 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-29T11:10:52.404666-05:00.jpg">
+  <img src="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-29T11:10:52.404666-05:00.jpg"
+     alt="6 News WOWT at 2022-09-29 11:10:57-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-29T11:10:52.404666-05:00.jpg">September 29 at 11:10 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-29T00:24:31.778359-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-23T23:32:57.863294-05:00.jpg">September 23 at 11:33 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-23T11:01:53.095564-05:00.jpg">
-  <img src="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-23T11:01:53.095564-05:00.jpg"
-     alt="6 News WOWT at 2022-09-23 11:01:56-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-23T11:01:53.095564-05:00.jpg">September 23 at 11:01 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 123 hyperlink lists with the Internet Archive.
+The archiving routine has saved 124 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 11:11 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-29T11:10:52.404666-05:00.hyperlinks.json) |
 | [September 29 at 12:24 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-29T00:24:31.778359-05:00.hyperlinks.json) |
 | [September 28 at 11:19 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-28T11:19:35.135941-05:00.hyperlinks.json) |
 | [September 28 at 1:08 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-28T01:08:30.948348-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 11:50 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-25T23:50:12.560916-05:00.hyperlinks.json) |
 | [September 25 at 10:55 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-25T10:55:17.077913-05:00.hyperlinks.json) |
 | [September 24 at 11:31 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-24T23:31:42.028433-05:00.hyperlinks.json) |
-| [September 24 at 10:53 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-24T10:52:56.392584-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 122 accessibility trees with the Internet Archive.
+The archiving routine has saved 123 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 11:10 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-29T11:10:52.404666-05:00.accessibility.json) |
 | [September 29 at 12:24 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-29T00:24:31.778359-05:00.accessibility.json) |
 | [September 28 at 11:19 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-28T11:19:35.135941-05:00.accessibility.json) |
 | [September 28 at 1:08 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-28T01:08:30.948348-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 11:50 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-25T23:50:12.560916-05:00.accessibility.json) |
 | [September 25 at 10:55 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-25T10:55:17.077913-05:00.accessibility.json) |
 | [September 24 at 11:31 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-24T23:31:42.028433-05:00.accessibility.json) |
-| [September 24 at 10:53 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-24T10:52:56.392584-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 123 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 124 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 11:11 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-29T11:10:52.404666-05:00.lighthouse.json) |
 | [September 29 at 12:24 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-29T00:24:31.778359-05:00.lighthouse.json) |
 | [September 28 at 11:19 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-28T11:19:35.135941-05:00.lighthouse.json) |
 | [September 28 at 1:08 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-28T01:08:30.948348-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 11:50 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-25T23:50:12.560916-05:00.lighthouse.json) |
 | [September 25 at 10:55 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-25T10:55:17.077913-05:00.lighthouse.json) |
 | [September 24 at 11:31 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-24T23:31:42.028433-05:00.lighthouse.json) |
-| [September 24 at 10:53 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-24T10:52:56.392584-05:00.lighthouse.json) |
 
 
 

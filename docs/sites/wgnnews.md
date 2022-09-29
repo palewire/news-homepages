@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 180 screenshots with the Internet Archive.
+The archiving routine has saved 182 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/wgnnews-2022/wgnnews-2022-09-29T11:11:29.009265-05:00.jpg">
+  <img src="https://archive.org/download/wgnnews-2022/wgnnews-2022-09-29T11:11:29.009265-05:00.jpg"
+     alt="WGN at 2022-09-29 11:11:30-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wgnnews-2022/wgnnews-2022-09-29T11:11:29.009265-05:00.jpg">September 29 at 11:11 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wgnnews-2022/wgnnews-2022-09-29T11:01:11.165526-05:00.jpg">
+  <img src="https://archive.org/download/wgnnews-2022/wgnnews-2022-09-29T11:01:11.165526-05:00.jpg"
+     alt="WGN at 2022-09-29 11:01:38-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wgnnews-2022/wgnnews-2022-09-29T11:01:11.165526-05:00.jpg">September 29 at 11:01 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/wgnnews-2022/wgnnews-2022-09-29T00:25:08.091075-05:00.jpg">
   <img src="https://archive.org/download/wgnnews-2022/wgnnews-2022-09-29T00:25:08.091075-05:00.jpg"
      alt="WGN at 2022-09-29 00:25:17-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wgnnews-2022/wgnnews-2022-09-25T23:50:17.218899-05:00.jpg">September 25 at 11:50 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wgnnews-2022/wgnnews-2022-09-25T10:55:00.511981-05:00.jpg">
-  <img src="https://archive.org/download/wgnnews-2022/wgnnews-2022-09-25T10:55:00.511981-05:00.jpg"
-     alt="WGN at 2022-09-25 10:55:03-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wgnnews-2022/wgnnews-2022-09-25T10:55:00.511981-05:00.jpg">September 25 at 10:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wgnnews-2022/wgnnews-2022-09-25T10:48:39.646771-05:00.jpg">
-  <img src="https://archive.org/download/wgnnews-2022/wgnnews-2022-09-25T10:48:39.646771-05:00.jpg"
-     alt="WGN at 2022-09-25 10:48:45-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wgnnews-2022/wgnnews-2022-09-25T10:48:39.646771-05:00.jpg">September 25 at 10:48 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 182 hyperlink lists with the Internet Archive.
+The archiving routine has saved 184 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 11:11 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-29T11:11:29.009265-05:00.hyperlinks.json) |
+| [September 29 at 11:01 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-29T11:01:11.165526-05:00.hyperlinks.json) |
 | [September 29 at 12:25 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-29T00:25:08.091075-05:00.hyperlinks.json) |
 | [September 28 at 11:19 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-28T11:19:09.957605-05:00.hyperlinks.json) |
 | [September 28 at 11:09 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-28T11:08:58.109873-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 11:09 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-27T11:08:56.561249-05:00.hyperlinks.json) |
 | [September 26 at 11:32 PM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-26T23:31:53.840304-05:00.hyperlinks.json) |
 | [September 26 at 11:11 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-26T11:11:22.313445-05:00.hyperlinks.json) |
-| [September 26 at 11:10 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-26T11:09:42.259334-05:00.hyperlinks.json) |
-| [September 25 at 11:50 PM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-25T23:50:17.218899-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 178 accessibility trees with the Internet Archive.
+The archiving routine has saved 180 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 11:11 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-29T11:11:29.009265-05:00.accessibility.json) |
+| [September 29 at 11:01 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-29T11:01:11.165526-05:00.accessibility.json) |
 | [September 29 at 12:25 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-29T00:25:08.091075-05:00.accessibility.json) |
 | [September 28 at 11:19 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-28T11:19:09.957605-05:00.accessibility.json) |
 | [September 28 at 11:09 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-28T11:08:58.109873-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 11:09 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-27T11:08:56.561249-05:00.accessibility.json) |
 | [September 26 at 11:32 PM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-26T23:31:53.840304-05:00.accessibility.json) |
 | [September 26 at 11:11 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-26T11:11:22.313445-05:00.accessibility.json) |
-| [September 26 at 11:10 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-26T11:09:42.259334-05:00.accessibility.json) |
-| [September 25 at 11:50 PM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-25T23:50:17.218899-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 179 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 181 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 11:11 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-29T11:11:29.009265-05:00.lighthouse.json) |
+| [September 29 at 11:01 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-29T11:01:11.165526-05:00.lighthouse.json) |
 | [September 29 at 12:25 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-29T00:25:08.091075-05:00.lighthouse.json) |
 | [September 28 at 11:19 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-28T11:19:09.957605-05:00.lighthouse.json) |
 | [September 28 at 11:09 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-28T11:08:58.109873-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 11:09 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-27T11:08:56.561249-05:00.lighthouse.json) |
 | [September 26 at 11:32 PM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-26T23:31:53.840304-05:00.lighthouse.json) |
 | [September 26 at 11:11 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-26T11:11:22.313445-05:00.lighthouse.json) |
-| [September 26 at 11:10 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-26T11:09:42.259334-05:00.lighthouse.json) |
-| [September 25 at 11:50 PM](https://archive.org/download/wgnnews-2022/wgnnews-2022-09-25T23:50:17.218899-05:00.lighthouse.json) |
 
 
 

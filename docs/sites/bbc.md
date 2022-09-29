@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 518 screenshots with the Internet Archive.
+The archiving routine has saved 519 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 518 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bbc-2022/bbc-2022-09-29T17:08:02.286549+01:00.jpg">
+  <img src="https://archive.org/download/bbc-2022/bbc-2022-09-29T17:08:02.286549+01:00.jpg"
+     alt="BBC at 2022-09-29 17:08:04+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bbc-2022/bbc-2022-09-29T17:08:02.286549+01:00.jpg">September 29 at 5:08 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bbc-2022/bbc-2022-09-29T10:22:46.274092+01:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bbc-2022/bbc-2022-09-26T05:48:03.494628+01:00.jpg">September 26 at 5:48 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bbc-2022/bbc-2022-09-25T16:53:00.605676+01:00.jpg">
-  <img src="https://archive.org/download/bbc-2022/bbc-2022-09-25T16:53:00.605676+01:00.jpg"
-     alt="BBC at 2022-09-25 16:53:02+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bbc-2022/bbc-2022-09-25T16:53:00.605676+01:00.jpg">September 25 at 4:53 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 503 hyperlink lists with the Internet Archive.
+The archiving routine has saved 504 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 5:08 PM](https://archive.org/download/bbc-2022/bbc-2022-09-29T17:08:02.286549+01:00.hyperlinks.json) |
 | [September 29 at 10:22 AM](https://archive.org/download/bbc-2022/bbc-2022-09-29T10:22:46.274092+01:00.hyperlinks.json) |
 | [September 29 at 6:23 AM](https://archive.org/download/bbc-2022/bbc-2022-09-29T06:22:55.436137+01:00.hyperlinks.json) |
 | [September 28 at 5:17 PM](https://archive.org/download/bbc-2022/bbc-2022-09-28T17:16:49.993301+01:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 10:31 AM](https://archive.org/download/bbc-2022/bbc-2022-09-27T10:31:08.899458+01:00.hyperlinks.json) |
 | [September 27 at 5:30 AM](https://archive.org/download/bbc-2022/bbc-2022-09-27T05:30:00.423169+01:00.hyperlinks.json) |
 | [September 26 at 5:06 PM](https://archive.org/download/bbc-2022/bbc-2022-09-26T17:06:20.167720+01:00.hyperlinks.json) |
-| [September 26 at 10:20 AM](https://archive.org/download/bbc-2022/bbc-2022-09-26T10:20:05.828237+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 502 accessibility trees with the Internet Archive.
+The archiving routine has saved 503 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 5:08 PM](https://archive.org/download/bbc-2022/bbc-2022-09-29T17:08:02.286549+01:00.accessibility.json) |
 | [September 29 at 10:22 AM](https://archive.org/download/bbc-2022/bbc-2022-09-29T10:22:46.274092+01:00.accessibility.json) |
 | [September 29 at 6:22 AM](https://archive.org/download/bbc-2022/bbc-2022-09-29T06:22:55.436137+01:00.accessibility.json) |
 | [September 28 at 5:17 PM](https://archive.org/download/bbc-2022/bbc-2022-09-28T17:16:49.993301+01:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 10:31 AM](https://archive.org/download/bbc-2022/bbc-2022-09-27T10:31:08.899458+01:00.accessibility.json) |
 | [September 27 at 5:30 AM](https://archive.org/download/bbc-2022/bbc-2022-09-27T05:30:00.423169+01:00.accessibility.json) |
 | [September 26 at 5:06 PM](https://archive.org/download/bbc-2022/bbc-2022-09-26T17:06:20.167720+01:00.accessibility.json) |
-| [September 26 at 10:20 AM](https://archive.org/download/bbc-2022/bbc-2022-09-26T10:20:05.828237+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 208 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 209 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 5:08 PM](https://archive.org/download/bbc-2022/bbc-2022-09-29T17:08:02.286549+01:00.lighthouse.json) |
 | [September 29 at 10:22 AM](https://archive.org/download/bbc-2022/bbc-2022-09-29T10:22:46.274092+01:00.lighthouse.json) |
 | [September 29 at 6:23 AM](https://archive.org/download/bbc-2022/bbc-2022-09-29T06:22:55.436137+01:00.lighthouse.json) |
 | [September 28 at 5:17 PM](https://archive.org/download/bbc-2022/bbc-2022-09-28T17:16:49.993301+01:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 10:31 AM](https://archive.org/download/bbc-2022/bbc-2022-09-27T10:31:08.899458+01:00.lighthouse.json) |
 | [September 27 at 5:30 AM](https://archive.org/download/bbc-2022/bbc-2022-09-27T05:30:00.423169+01:00.lighthouse.json) |
 | [September 26 at 5:06 PM](https://archive.org/download/bbc-2022/bbc-2022-09-26T17:06:20.167720+01:00.lighthouse.json) |
-| [September 26 at 10:20 AM](https://archive.org/download/bbc-2022/bbc-2022-09-26T10:20:05.828237+01:00.lighthouse.json) |
 
 
 
