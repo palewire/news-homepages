@@ -1,5 +1,5 @@
 {
-  "created": 1664434546,
+  "created": 1664448480,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/2/items/globeandmail-2022",
@@ -21936,31 +21936,82 @@
       "sha1": "4b0bef114e71ed273170d17e18a1347aedd7240f"
     },
     {
+      "name": "globeandmail-2022-09-29T06:45:53.359872-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664448358",
+      "size": "35493",
+      "md5": "c02ed908074847e32c1bb0025360bc78",
+      "crc32": "6bbf3487",
+      "sha1": "33f7b5de08bd06880d204ba4ea1a34cecd3cabf1",
+      "format": "JSON"
+    },
+    {
+      "name": "globeandmail-2022-09-29T06:45:53.359872-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664448359",
+      "size": "37701",
+      "md5": "b41bb489dbb4a7f5f22f7ca38d1a9356",
+      "crc32": "824ece2a",
+      "sha1": "2d11f56250f88dc6b911d5e9d192f4c508749679",
+      "format": "JSON"
+    },
+    {
+      "name": "globeandmail-2022-09-29T06:45:53.359872-04:00.jpg",
+      "source": "original",
+      "mtime": "1664448355",
+      "size": "295056",
+      "md5": "d5d9036f3387c86317b17dad4fb5a034",
+      "crc32": "99f4ac91",
+      "sha1": "a23085f8251066aaafeecaa4b71cc4ac45d0b3b6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "globeandmail-2022-09-29T06:45:53.359872-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664448361",
+      "size": "1522",
+      "md5": "22b12728210fbedfd65dd59113154102",
+      "crc32": "c9702af2",
+      "sha1": "48814f37f58d7366cddf25d93eb898ade41a2a6d",
+      "format": "JSON"
+    },
+    {
+      "name": "globeandmail-2022-09-29T06:45:53.359872-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664448362",
+      "size": "212",
+      "md5": "71c0b54086c74ad45862b6a5df8f51d2",
+      "crc32": "86451c9f",
+      "sha1": "5833a333556dad5e1f2f38f8e99400e648d7225e",
+      "format": "JSON"
+    },
+    {
       "name": "globeandmail-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0fd9406b023e899ed602403b0413b26420dd0f05",
-      "mtime": "1664434399",
-      "size": "455571",
-      "md5": "6da631ba78bfb5aef5c8191c021bc94e",
-      "crc32": "059e1667",
-      "sha1": "17ab21d5384707b5e8d1cc8aa1b2c0f59d085f30",
+      "btih": "e0143d14fa29250a29ac8dd846dc39d45bb6d73a",
+      "mtime": "1664448464",
+      "size": "456652",
+      "md5": "4cc4f12b5ae86556d00832d3d6953d4d",
+      "crc32": "9343aff1",
+      "sha1": "a88b057e44f03a88ed4da5c8de1ce2f44c49e543",
       "format": "Archive BitTorrent"
     },
     {
       "name": "globeandmail-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8187118927171a11eba536edec3b4835",
+      "md5": "aac989ba0973521cb9304209bf5979d2",
       "summation": "md5"
     },
     {
       "name": "globeandmail-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664432611",
-      "size": "2666496",
-      "md5": "6707e0353148cedd41edd4dd65f3d2aa",
-      "crc32": "33188588",
-      "sha1": "a85b115b3c0dcaa9584d3fa5b026f72308767de8",
+      "mtime": "1664448374",
+      "size": "2674688",
+      "md5": "2a10997ab11eb40cfef7321def2e1804",
+      "crc32": "3f0de8f6",
+      "sha1": "528836ff9e644c78f56bd4eb2fbee9f2c402fc8b",
       "format": "Metadata"
     },
     {
@@ -21974,9 +22025,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2120,
-  "item_last_updated": 1664434399,
-  "item_size": 160776593,
+  "files_count": 2125,
+  "item_last_updated": 1664448464,
+  "item_size": 161155850,
   "metadata": {
     "identifier": "globeandmail-2022",
     "collection": [
@@ -21993,10 +22044,21 @@
     "publicdate": "2022-06-30 22:35:43",
     "addeddate": "2022-06-30 22:35:43"
   },
+  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "uniq": 804558465,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3422176086,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 892282898,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia601401.us.archive.org"
   ]
 }
