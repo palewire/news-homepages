@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 12 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 46 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         99
     </td>
     <td style="text-align: right;">
-        1
+        23
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         83
     </td>
     <td style="text-align: right;">
-        1
+        509
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         36
     </td>
     <td style="text-align: right;">
-        1
+        507
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         92
     </td>
     <td style="text-align: right;">
-        1
+        400
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 873 screenshots with the Internet Archive.
+The archiving routine has saved 874 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 873 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/latimes-2022/latimes-2022-09-29T07:00:48.914293-07:00.jpg">
+  <img src="https://archive.org/download/latimes-2022/latimes-2022-09-29T07:00:48.914293-07:00.jpg"
+     alt="Los Angeles Times at 2022-09-29 07:00:50-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-09-29T07:00:48.914293-07:00.jpg">September 29 at 7:00 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/latimes-2022/latimes-2022-09-28T23:04:23.093947-07:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/latimes-2022/latimes-2022-09-27T12:45:32.530562-07:00.jpg">September 27 at 12:46 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/latimes-2022/latimes-2022-09-27T10:39:00.837382-07:00.jpg">
-  <img src="https://archive.org/download/latimes-2022/latimes-2022-09-27T10:39:00.837382-07:00.jpg"
-     alt="Los Angeles Times at 2022-09-27 10:39:14-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-09-27T10:39:00.837382-07:00.jpg">September 27 at 10:39 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 827 hyperlink lists with the Internet Archive.
+The archiving routine has saved 828 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 7:00 AM](https://archive.org/download/latimes-2022/latimes-2022-09-29T07:00:48.914293-07:00.hyperlinks.json) |
 | [September 28 at 11:04 PM](https://archive.org/download/latimes-2022/latimes-2022-09-28T23:04:23.093947-07:00.hyperlinks.json) |
 | [September 28 at 6:36 PM](https://archive.org/download/latimes-2022/latimes-2022-09-28T18:36:17.967585-07:00.hyperlinks.json) |
 | [September 28 at 12:48 PM](https://archive.org/download/latimes-2022/latimes-2022-09-28T12:48:02.022274-07:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 11:12 PM](https://archive.org/download/latimes-2022/latimes-2022-09-27T23:12:14.536096-07:00.hyperlinks.json) |
 | [September 27 at 6:42 PM](https://archive.org/download/latimes-2022/latimes-2022-09-27T18:42:09.937765-07:00.hyperlinks.json) |
 | [September 27 at 1:34 PM](https://archive.org/download/latimes-2022/latimes-2022-09-27T13:34:04.190771-07:00.hyperlinks.json) |
-| [September 27 at 12:46 PM](https://archive.org/download/latimes-2022/latimes-2022-09-27T12:46:28.370582-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 836 accessibility trees with the Internet Archive.
+The archiving routine has saved 837 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 7:00 AM](https://archive.org/download/latimes-2022/latimes-2022-09-29T07:00:48.914293-07:00.accessibility.json) |
 | [September 28 at 11:04 PM](https://archive.org/download/latimes-2022/latimes-2022-09-28T23:04:23.093947-07:00.accessibility.json) |
 | [September 28 at 6:36 PM](https://archive.org/download/latimes-2022/latimes-2022-09-28T18:36:17.967585-07:00.accessibility.json) |
 | [September 28 at 12:48 PM](https://archive.org/download/latimes-2022/latimes-2022-09-28T12:48:02.022274-07:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 11:12 PM](https://archive.org/download/latimes-2022/latimes-2022-09-27T23:12:14.536096-07:00.accessibility.json) |
 | [September 27 at 6:42 PM](https://archive.org/download/latimes-2022/latimes-2022-09-27T18:42:09.937765-07:00.accessibility.json) |
 | [September 27 at 1:34 PM](https://archive.org/download/latimes-2022/latimes-2022-09-27T13:34:04.190771-07:00.accessibility.json) |
-| [September 27 at 12:46 PM](https://archive.org/download/latimes-2022/latimes-2022-09-27T12:46:28.370582-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 396 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 397 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 7:00 AM](https://archive.org/download/latimes-2022/latimes-2022-09-29T07:00:48.914293-07:00.lighthouse.json) |
 | [September 28 at 11:04 PM](https://archive.org/download/latimes-2022/latimes-2022-09-28T23:04:23.093947-07:00.lighthouse.json) |
 | [September 28 at 6:36 PM](https://archive.org/download/latimes-2022/latimes-2022-09-28T18:36:17.967585-07:00.lighthouse.json) |
 | [September 28 at 12:48 PM](https://archive.org/download/latimes-2022/latimes-2022-09-28T12:48:02.022274-07:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 11:12 PM](https://archive.org/download/latimes-2022/latimes-2022-09-27T23:12:14.536096-07:00.lighthouse.json) |
 | [September 27 at 6:42 PM](https://archive.org/download/latimes-2022/latimes-2022-09-27T18:42:09.937765-07:00.lighthouse.json) |
 | [September 27 at 1:34 PM](https://archive.org/download/latimes-2022/latimes-2022-09-27T13:34:04.190771-07:00.lighthouse.json) |
-| [September 27 at 12:46 PM](https://archive.org/download/latimes-2022/latimes-2022-09-27T12:46:28.370582-07:00.lighthouse.json) |
 
 
 
