@@ -1,5 +1,5 @@
 {
-  "created": 1664423061,
+  "created": 1664463694,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/13/items/theoklahoman_-2022",
@@ -11131,31 +11131,82 @@
       "format": "JSON"
     },
     {
+      "name": "theoklahoman_-2022-09-28T22:43:16.109175-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theoklahoman_-2022-09-28T22:43:16.109175-05:00.jpg",
+      "mtime": "1664425910",
+      "size": "9421",
+      "md5": "0ee3ea5457e3c5443d8ffcbc6907db1e",
+      "crc32": "cc78c7d0",
+      "sha1": "ab5255f54b0b530741d578a9784d874c91d8f79b"
+    },
+    {
+      "name": "theoklahoman_-2022-09-29T10:00:18.936810-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664463620",
+      "size": "23964",
+      "md5": "02efd958f5c27e0fda9511f7517d933b",
+      "crc32": "ba6ac618",
+      "sha1": "6f45e5822051fafb9532980041add512b0fc0955",
+      "format": "JSON"
+    },
+    {
+      "name": "theoklahoman_-2022-09-29T10:00:18.936810-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664463622",
+      "size": "39706",
+      "md5": "382b407a1498cb59833cb5685502ff41",
+      "crc32": "2e66c1d2",
+      "sha1": "533e9a766cd16252b98c6a5afcc4f5b5a2f334bb",
+      "format": "JSON"
+    },
+    {
+      "name": "theoklahoman_-2022-09-29T10:00:18.936810-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664463624",
+      "size": "1485",
+      "md5": "8bf6703691c8184af0fc4527fd6f1d4e",
+      "crc32": "40f53511",
+      "sha1": "31bdac742751909812cd123316bf1be4deec069f",
+      "format": "JSON"
+    },
+    {
+      "name": "theoklahoman_-2022-09-29T10:00:18.936810-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664463625",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "theoklahoman_-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b642015da319bc3dbdad15bb5de334f28ffa07df",
-      "mtime": "1664423057",
-      "size": "232200",
-      "md5": "77f66d58212a63f32ff49c2a900478f4",
-      "crc32": "284ac838",
-      "sha1": "487d430a3c78e64397cb4db2b65c935b398748cb",
+      "btih": "5028be97805b6e5b4d2f801c76561bfca13d02fc",
+      "mtime": "1664463688",
+      "size": "233270",
+      "md5": "e72f9f11dbb1b8d441499ee6802a1fe1",
+      "crc32": "a915afe8",
+      "sha1": "4ce9411be06e1f40d76422f2a93689a2a7965e6c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theoklahoman_-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4062ed395858ff911f35a8cebfd70ff6",
+      "md5": "3858eeabf6f7a60cceb99c94857bb2ba",
       "summation": "md5"
     },
     {
       "name": "theoklahoman_-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664423013",
-      "size": "1339392",
-      "md5": "404fff252f017bcc7c0f508ad4777fae",
-      "crc32": "6869dc6e",
-      "sha1": "a1024f568e75d2abe1303bc4554fb7fae3d96ab5",
+      "mtime": "1664463643",
+      "size": "1343488",
+      "md5": "6cac01b2e9777a4a72a10b313f3f35b3",
+      "crc32": "a31c8661",
+      "sha1": "ea3fec64314c6cb2c7692ab4965390f0cfb19879",
       "format": "Metadata"
     },
     {
@@ -11169,9 +11220,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1075,
-  "item_last_updated": 1664423057,
-  "item_size": 78916143,
+  "files_count": 1080,
+  "item_last_updated": 1664463688,
+  "item_size": 78996087,
   "metadata": {
     "identifier": "theoklahoman_-2022",
     "collection": [
@@ -11193,7 +11244,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421815320,
+      "task_id": 3422369604,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11201,7 +11252,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2042749536,
+  "uniq": 1232721104,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

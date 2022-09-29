@@ -1,5 +1,5 @@
 {
-  "created": 1664422955,
+  "created": 1664463536,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/12/items/thahakhabar-2022",
@@ -7441,31 +7441,83 @@
       "format": "JSON"
     },
     {
+      "name": "thahakhabar-2022-09-29T09:26:07.575716+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thahakhabar-2022-09-29T09:26:07.575716+05:45.jpg",
+      "mtime": "1664425702",
+      "size": "9595",
+      "md5": "989e08bfb8d8ca8a54d54c9045c15093",
+      "crc32": "6f076c64",
+      "sha1": "74bcf9538e3db6754c3d9a7dffdc2a230bef6bfe"
+    },
+    {
+      "name": "thahakhabar-2022-09-29T20:42:43.797680+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1664463477",
+      "size": "78200",
+      "md5": "03d305dd1f90a3e6a23816acfa354ea0",
+      "crc32": "8cfb944d",
+      "sha1": "c55d2ff67f46f1e7457c46ea7d456f4193eb7c6a",
+      "format": "JSON"
+    },
+    {
+      "name": "thahakhabar-2022-09-29T20:42:43.797680+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664463479",
+      "size": "51856",
+      "md5": "523c501302511badae20907270c1fdb5",
+      "crc32": "84ea511b",
+      "sha1": "7d6514d432bbbfa1ff97c5905289e48775985b44",
+      "format": "JSON"
+    },
+    {
+      "name": "thahakhabar-2022-09-29T20:42:43.797680+05:45.jpg",
+      "source": "original",
+      "mtime": "1664463474",
+      "size": "205107",
+      "md5": "b4600eed2fd9c5d0bd1ca609248d145e",
+      "crc32": "3bf9a542",
+      "sha1": "3ceee825674ccc718a3a72a2a29fb3b820b6f817",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thahakhabar-2022-09-29T20:42:43.797680+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1664463481",
+      "size": "19819",
+      "md5": "0cca6a0eeb35d58d285eaf8bb54eb78c",
+      "crc32": "631b2572",
+      "sha1": "859d364108bfd566174b068d99a0e3c4d89bc5a9",
+      "format": "JSON"
+    },
+    {
       "name": "thahakhabar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "579375a6e1ded17330143bcf882a83bc059a1549",
-      "mtime": "1664422949",
-      "size": "154421",
-      "md5": "c67c16e96297a01be42dcd0a3fcb46e8",
-      "crc32": "cf784755",
-      "sha1": "aeef49de3f56adf3495275560e73cab310f12ef1",
+      "btih": "45d452091bfb62925a1c7f8ff3a5483834033b64",
+      "mtime": "1664463531",
+      "size": "155493",
+      "md5": "ce551105687ce285940a2e78f61b8926",
+      "crc32": "caea67e1",
+      "sha1": "9b01085670662afaf55ce7e4f2cf745e7b6f8997",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thahakhabar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ed8cb6691ca7b798a7d079e0aa973c32",
+      "md5": "9481670f4e6c401755a7448d9a5a0724",
       "summation": "md5"
     },
     {
       "name": "thahakhabar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664422899",
-      "size": "913408",
-      "md5": "5367d236f52424eeebbc7983eeee138b",
-      "crc32": "93678bee",
-      "sha1": "d8627e1d157d30d4c9f5ff728be6219316005c06",
+      "mtime": "1664463486",
+      "size": "917504",
+      "md5": "d8be0f85adb811d017502f9864b59341",
+      "crc32": "902708eb",
+      "sha1": "245bd66d931db577a90a2a389b490314d8245172",
       "format": "Metadata"
     },
     {
@@ -7479,9 +7531,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 721,
-  "item_last_updated": 1664422949,
-  "item_size": 50402414,
+  "files_count": 726,
+  "item_last_updated": 1664463531,
+  "item_size": 50772159,
   "metadata": {
     "identifier": "thahakhabar-2022",
     "collection": [
@@ -7503,7 +7555,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421813379,
+      "task_id": 3422366391,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -7511,7 +7563,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1231709912,
+  "uniq": 1986413928,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]

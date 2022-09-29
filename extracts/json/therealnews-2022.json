@@ -1,5 +1,5 @@
 {
-  "created": 1664423085,
+  "created": 1664463666,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/3/items/therealnews-2022",
@@ -9143,31 +9143,93 @@
       "format": "JSON"
     },
     {
+      "name": "therealnews-2022-09-28T23:43:15.294415-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "therealnews-2022-09-28T23:43:15.294415-04:00.jpg",
+      "mtime": "1664425957",
+      "size": "10431",
+      "md5": "1fb68f6f526776540f6eb40c3cd107cc",
+      "crc32": "8cb257f8",
+      "sha1": "57c033612f4f375fe440e6b194a5a7b74be87d39"
+    },
+    {
+      "name": "therealnews-2022-09-29T10:59:54.367804-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664463600",
+      "size": "25493",
+      "md5": "60b4e83c6724c26870a6e00ad6fdcad9",
+      "crc32": "4d8b0e5d",
+      "sha1": "b43f8ae7c6ec1529114657f9fbc50053e86c2579",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-09-29T10:59:54.367804-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664463605",
+      "size": "32661",
+      "md5": "aba3fe2c7059f10651450e0805b9c9c4",
+      "crc32": "3d2e661a",
+      "sha1": "256188140510a4815c599546b3c83f34f9a68866",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-09-29T10:59:54.367804-04:00.jpg",
+      "source": "original",
+      "mtime": "1664463598",
+      "size": "315385",
+      "md5": "bbf4f62395a3316a9609332859e0d5ab",
+      "crc32": "fd3623b0",
+      "sha1": "8937ff5951f1efa058aac32681d1ace958531cf7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "therealnews-2022-09-29T10:59:54.367804-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664463607",
+      "size": "1467",
+      "md5": "97281bc4c94dd9de41a9c992d9e1f8d9",
+      "crc32": "38f60d2b",
+      "sha1": "6886161e3fca0f70fa8aa595cc3bcd1d69a56519",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-09-29T10:59:54.367804-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664463610",
+      "size": "28064",
+      "md5": "9c9b9f601fd988e33b3ed80fcf104890",
+      "crc32": "f30d6cdf",
+      "sha1": "952d431d21d73613e829a45fff1871bef7595703",
+      "format": "JSON"
+    },
+    {
       "name": "therealnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "72bd5c5715a435c8a7049f10ee208facb91d8306",
-      "mtime": "1664423079",
-      "size": "190052",
-      "md5": "a4e1d0735abb60605455dd09d5ac1513",
-      "crc32": "1c65b405",
-      "sha1": "f95de4191055dfe519b1d3e43dfb01e1fed5478a",
+      "btih": "1fe44ee311786a23c31be71f27df3512559f3e66",
+      "mtime": "1664463660",
+      "size": "191338",
+      "md5": "3a518a452d345c3de46059e1074330e5",
+      "crc32": "12c3121b",
+      "sha1": "9f6f90d39771a18a9f48b4cd6e023ad4b2847bc8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "therealnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5c854f71c94f5387da4af69dd343d44d",
+      "md5": "e057b37c94b41f66488d75938af99852",
       "summation": "md5"
     },
     {
       "name": "therealnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664423026",
-      "size": "1122304",
-      "md5": "84aac1ded102b3f3246b0c494c9b324d",
-      "crc32": "25b0aaba",
-      "sha1": "287c7455d88934233258a78a754ae136b667ee02",
+      "mtime": "1664463615",
+      "size": "1130496",
+      "md5": "9d1647117f56163b688dda89a5196493",
+      "crc32": "c60cb906",
+      "sha1": "02cd856ac6595428a694df1bc108b1e2b017f5bd",
       "format": "Metadata"
     },
     {
@@ -9181,9 +9243,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 886,
-  "item_last_updated": 1664423079,
-  "item_size": 69153333,
+  "files_count": 892,
+  "item_last_updated": 1664463660,
+  "item_size": 69576312,
   "metadata": {
     "identifier": "therealnews-2022",
     "collection": [
@@ -9205,7 +9267,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421815718,
+      "task_id": 3422368954,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9213,7 +9275,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 815905455,
+  "uniq": 1746104208,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]
