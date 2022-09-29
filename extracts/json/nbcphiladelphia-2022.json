@@ -1,5 +1,5 @@
 {
-  "created": 1664417986,
+  "created": 1664460327,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/4/items/nbcphiladelphia-2022",
@@ -10141,31 +10141,93 @@
       "format": "JSON"
     },
     {
+      "name": "nbcphiladelphia-2022-09-28T22:18:26.478399-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcphiladelphia-2022-09-28T22:18:26.478399-04:00.jpg",
+      "mtime": "1664420622",
+      "size": "9832",
+      "md5": "891476ef0ae79b7218da354050879029",
+      "crc32": "116822e7",
+      "sha1": "3c9d53f8a5f58462624c5a6bddb4041de6fa0fe0"
+    },
+    {
+      "name": "nbcphiladelphia-2022-09-29T10:03:57.470144-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664460245",
+      "size": "51077",
+      "md5": "3b539cfcea775a2be91022b64e3a9aed",
+      "crc32": "ac999e32",
+      "sha1": "311fc7d795e578ac6f6a1a19f650c6e1af4adee2",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcphiladelphia-2022-09-29T10:03:57.470144-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664460247",
+      "size": "58535",
+      "md5": "ebdad290fab870024eb13e28e6d9788c",
+      "crc32": "f3fc8808",
+      "sha1": "82caf99f140616357992138d04e16aa7864f1928",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcphiladelphia-2022-09-29T10:03:57.470144-04:00.jpg",
+      "source": "original",
+      "mtime": "1664460243",
+      "size": "276960",
+      "md5": "4a3e8a7d54022513ec7477afc7c4504d",
+      "crc32": "389513e5",
+      "sha1": "e522b7a4c010df48c8dc48491c4b8066624bb9b9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcphiladelphia-2022-09-29T10:03:57.470144-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664460249",
+      "size": "1540",
+      "md5": "d5356609773c3d3eb16c4959e1be258d",
+      "crc32": "2f0ef2fe",
+      "sha1": "e945ba804769a57dd0e948f4dc334ce5a072b2fa",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcphiladelphia-2022-09-29T10:03:57.470144-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664460251",
+      "size": "167726",
+      "md5": "bf808b038d789cb44c43a62d0e4f523a",
+      "crc32": "b76d9087",
+      "sha1": "040caadc9c5ee3d404631e709f6e62433d0ea1b1",
+      "format": "JSON"
+    },
+    {
       "name": "nbcphiladelphia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bf11f5a13f260adf0f2a058014f95f8a41d7cb4d",
-      "mtime": "1664417978",
-      "size": "214362",
-      "md5": "fa523a63584730e64c57551ba49d5a5f",
-      "crc32": "71fc131d",
-      "sha1": "0cd4f798e127c2768a60b13848d313e522041d63",
+      "btih": "7dde19cc5af4951c3fd16724e2a3a60cf90e4493",
+      "mtime": "1664460313",
+      "size": "215672",
+      "md5": "6e8cfbeea6bf45c983dc22b30917fa57",
+      "crc32": "3b5b5b66",
+      "sha1": "ca98ddfc69e58b7b822de1ce55d2ff1e13f6ed18",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcphiladelphia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ab05cdfc0c502c43d73ec711edc5323f",
+      "md5": "ca1d14919b49823cf7a69c7f3e195d2c",
       "summation": "md5"
     },
     {
       "name": "nbcphiladelphia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664417925",
-      "size": "1236992",
-      "md5": "ca96fa2649f947f2e1561e809bde4dab",
-      "crc32": "fe319198",
-      "sha1": "2c9437ba5936259ab82fb401f95cf3497ac79b4f",
+      "mtime": "1664460260",
+      "size": "1245184",
+      "md5": "95fdb59a630496ebba6c87bd6ac46982",
+      "crc32": "f2281142",
+      "sha1": "31f19d6eab3174b55036a98b07ddce6ab17f054b",
       "format": "Metadata"
     },
     {
@@ -10179,9 +10241,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 981,
-  "item_last_updated": 1664417978,
-  "item_size": 82043500,
+  "files_count": 987,
+  "item_last_updated": 1664460313,
+  "item_size": 82618672,
   "metadata": {
     "identifier": "nbcphiladelphia-2022",
     "collection": [
@@ -10203,7 +10265,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421732911,
+      "task_id": 3422328657,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10211,7 +10273,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1514689979,
+  "uniq": 878790655,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

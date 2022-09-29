@@ -1,5 +1,5 @@
 {
-  "created": 1664418117,
+  "created": 1664460415,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/24/items/pokjournal-2022",
@@ -1059,31 +1059,83 @@
       "format": "JSON"
     },
     {
+      "name": "pokjournal-2022-09-28T22:20:46.818755-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pokjournal-2022-09-28T22:20:46.818755-04:00.jpg",
+      "mtime": "1664420755",
+      "size": "9012",
+      "md5": "a60009bb2d9bacc9d13c98ee498a0187",
+      "crc32": "e91ed7ae",
+      "sha1": "18612b77cdaf7489a63f4de727d49ffec5a0beaf"
+    },
+    {
+      "name": "pokjournal-2022-09-29T10:06:05.866247-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664460369",
+      "size": "20386",
+      "md5": "4b2a657c4eedc67adfde04248ff95ffb",
+      "crc32": "424ed6b4",
+      "sha1": "c3b72008ba23e1b9c06f2527a7a64955c33f3f32",
+      "format": "JSON"
+    },
+    {
+      "name": "pokjournal-2022-09-29T10:06:05.866247-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664460370",
+      "size": "34959",
+      "md5": "42ad9e049e6830a68bc8d644009c7128",
+      "crc32": "86afb20c",
+      "sha1": "5420a12b8acc104024de2f204bbabf0592e059a8",
+      "format": "JSON"
+    },
+    {
+      "name": "pokjournal-2022-09-29T10:06:05.866247-04:00.jpg",
+      "source": "original",
+      "mtime": "1664460367",
+      "size": "243457",
+      "md5": "aa2b909bcfc56de3627e34efa956b1f3",
+      "crc32": "25f19ae0",
+      "sha1": "34d3b025b07d7799365f679f814b7df57a29b145",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pokjournal-2022-09-29T10:06:05.866247-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664460372",
+      "size": "1575",
+      "md5": "b682c397a331ead423b9a8430792ce4e",
+      "crc32": "d2b4baca",
+      "sha1": "e4358cf1513ca8bbbaf0ee4947475e47fbc77334",
+      "format": "JSON"
+    },
+    {
       "name": "pokjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3e6272536546aefa98e2300a3271624bf0591c2f",
-      "mtime": "1664418113",
-      "size": "23074",
-      "md5": "a37db66d4ca48ef976f3b6cc02ab0841",
-      "crc32": "16c77547",
-      "sha1": "293789f1844cefb828996fd90889211a7ba91343",
+      "btih": "75e0f72a0fe745c2d69d91a5506818bb7d2e8f62",
+      "mtime": "1664460411",
+      "size": "24123",
+      "md5": "2fbed513cfeebbbc592007958b60eeea",
+      "crc32": "1fea8f0b",
+      "sha1": "8f14737f47e9e0c15b74aa1b7e695d9ab59718dc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pokjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "012ca3d33110b53824306783df2c3254",
+      "md5": "439b216907e85306cbbf5b6daa908142",
       "summation": "md5"
     },
     {
       "name": "pokjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664418076",
-      "size": "155648",
-      "md5": "fb87d2c9c300f93bc2d4de58f868a01b",
-      "crc32": "03e35ee5",
-      "sha1": "f3222da39ff6a63caa9ccf80067d3638af9ad99b",
+      "mtime": "1664460376",
+      "size": "159744",
+      "md5": "438b2a1ec9b3a85df91966cdac06f7a3",
+      "crc32": "1774bb66",
+      "sha1": "383588010d23f66bd2b24d1a44cde665a0996ff5",
       "format": "Metadata"
     },
     {
@@ -1097,9 +1149,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 106,
-  "item_last_updated": 1664418113,
-  "item_size": 6520737,
+  "files_count": 111,
+  "item_last_updated": 1664460411,
+  "item_size": 6835271,
   "metadata": {
     "identifier": "pokjournal-2022",
     "collection": [
@@ -1121,7 +1173,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421734939,
+      "task_id": 3422330090,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1129,7 +1181,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 943144222,
+  "uniq": 1347086732,
   "workable_servers": [
     "ia601504.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1664418235,
+  "created": 1664460560,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/6/items/realclearnews-2022",
@@ -5695,31 +5695,83 @@
       "format": "JSON"
     },
     {
+      "name": "realclearnews-2022-09-28T22:22:47.659142-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "realclearnews-2022-09-28T22:22:47.659142-04:00.jpg",
+      "mtime": "1664420869",
+      "size": "10365",
+      "md5": "2380a9ddc3e8bf10e314572cca02b789",
+      "crc32": "8d9e80cb",
+      "sha1": "9d2e73dfeb0fb0858c025d508e7ed4aa2d72cff9"
+    },
+    {
+      "name": "realclearnews-2022-09-29T10:08:18.561697-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664460506",
+      "size": "161",
+      "md5": "b3fc1ae5b5a7028736d79c1ef50ce6eb",
+      "crc32": "837fa67e",
+      "sha1": "fc80bdf0e3eb433f99a11f1e02a7c22401d714b9",
+      "format": "JSON"
+    },
+    {
+      "name": "realclearnews-2022-09-29T10:08:18.561697-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664460508",
+      "size": "2",
+      "md5": "d751713988987e9331980363e24189ce",
+      "crc32": "0d4cbb29",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c",
+      "format": "JSON"
+    },
+    {
+      "name": "realclearnews-2022-09-29T10:08:18.561697-04:00.jpg",
+      "source": "original",
+      "mtime": "1664460504",
+      "size": "436853",
+      "md5": "84c97d2ec3b93a18f6e9bcab6edd3ff4",
+      "crc32": "c3cc3b7d",
+      "sha1": "7f1d87939e596868a69421f8081f056bba4b494d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "realclearnews-2022-09-29T10:08:18.561697-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664460510",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "realclearnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4df04e41c143eabe71e3af63aa131c12b3a032a3",
-      "mtime": "1664418229",
-      "size": "119513",
-      "md5": "e7809ddc4584df6c7cd5ec46d9676cfd",
-      "crc32": "ddb809fb",
-      "sha1": "f391005def751608a08eb4e24537a9d99f931e4e",
+      "btih": "edf14ca84045e14369b0209adf8adb24f8eaefb3",
+      "mtime": "1664460555",
+      "size": "120588",
+      "md5": "c0aee9e41731e2b68185e66e005418e5",
+      "crc32": "ed4044d6",
+      "sha1": "0100203f3c5eecce47b1615b6e2aac020c549194",
       "format": "Archive BitTorrent"
     },
     {
       "name": "realclearnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d6b029a5f65157cc3058b06e918e7411",
+      "md5": "be275d43945b64a7d2797246f878dd0f",
       "summation": "md5"
     },
     {
       "name": "realclearnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664418187",
-      "size": "688128",
-      "md5": "498b83fc72be33da6f56628dcb06d03f",
-      "crc32": "cae16597",
-      "sha1": "1ae83ceff6a81f97c9c0bbbf42b086a6aec01e91",
+      "mtime": "1664460514",
+      "size": "692224",
+      "md5": "0f695d6a998ec40717f627f2cadc9b3a",
+      "crc32": "73622691",
+      "sha1": "8ff9b3877fbf346d8f3b2146744d2e1b3847570b",
       "format": "Metadata"
     },
     {
@@ -5733,9 +5785,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 551,
-  "item_last_updated": 1664418229,
-  "item_size": 63868202,
+  "files_count": 556,
+  "item_last_updated": 1664460555,
+  "item_size": 64320956,
   "metadata": {
     "identifier": "realclearnews-2022",
     "collection": [
@@ -5757,7 +5809,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421736980,
+      "task_id": 3422332187,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5765,7 +5817,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1145077379,
+  "uniq": 448475357,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]

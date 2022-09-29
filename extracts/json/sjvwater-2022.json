@@ -1,5 +1,5 @@
 {
-  "created": 1664418270,
+  "created": 1664460563,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/11/items/sjvwater-2022",
@@ -4159,31 +4159,83 @@
       "format": "JSON"
     },
     {
+      "name": "sjvwater-2022-09-28T19:23:33.992154-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sjvwater-2022-09-28T19:23:33.992154-07:00.jpg",
+      "mtime": "1664421048",
+      "size": "8247",
+      "md5": "bf2886e8675d03b2eb2686c8b6ddb367",
+      "crc32": "a25d091d",
+      "sha1": "047db949de5796c55887878bffc7a346a6b76bb6"
+    },
+    {
+      "name": "sjvwater-2022-09-29T07:08:25.071202-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664460510",
+      "size": "17869",
+      "md5": "f8578e9b8366f42bf371679da43179cb",
+      "crc32": "96bfded2",
+      "sha1": "9ab4fa1daee9de513ce46e0641d2d49fcc371f2a",
+      "format": "JSON"
+    },
+    {
+      "name": "sjvwater-2022-09-29T07:08:25.071202-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664460511",
+      "size": "17852",
+      "md5": "ec8fce4a95083995477b12ff3da82a7f",
+      "crc32": "f443a61c",
+      "sha1": "7eb683ce9dd2592747b45557b466f972e7a9b89f",
+      "format": "JSON"
+    },
+    {
+      "name": "sjvwater-2022-09-29T07:08:25.071202-07:00.jpg",
+      "source": "original",
+      "mtime": "1664460508",
+      "size": "230995",
+      "md5": "9aca8f9e29493f26fc0ec0b3df320d20",
+      "crc32": "716db228",
+      "sha1": "3f609db3d65500b2a60da141a1eb1c6efc4541fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sjvwater-2022-09-29T07:08:25.071202-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664460513",
+      "size": "1486",
+      "md5": "6ac22d81f5bd14746e33a549fccb3ad0",
+      "crc32": "30b2e1ba",
+      "sha1": "6a48e5e3e074cffe11c43beebb6f7d586b591662",
+      "format": "JSON"
+    },
+    {
       "name": "sjvwater-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0a771cd54d9305c2d6002441038f9d51967ad3a4",
-      "mtime": "1664418266",
-      "size": "85641",
-      "md5": "2d72db1915296d8b6a70df7106f22dfe",
-      "crc32": "7e875b5d",
-      "sha1": "721a1aa17eb0157a3a161d52f1e64f5e5204f420",
+      "btih": "207abc43f21a6aa57be6bd3e56798c7959f1b8cf",
+      "mtime": "1664460557",
+      "size": "86680",
+      "md5": "5a76998ed71b368436e5248bf887fa70",
+      "crc32": "32b07919",
+      "sha1": "8c9474a3afcf6daede0e48d2bfe78cdfb967eeed",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sjvwater-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dc381e349c43748626c57e9876d9850d",
+      "md5": "cdf423513d1c2b62f2f2b6a8270970a8",
       "summation": "md5"
     },
     {
       "name": "sjvwater-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664418228",
-      "size": "532480",
-      "md5": "ab0310994575d5d2dd652c068dff3715",
-      "crc32": "e8c7ed32",
-      "sha1": "27461c76ce26bacf7d326c268cb7ca0519fe5b21",
+      "mtime": "1664460519",
+      "size": "536576",
+      "md5": "2a6c190b812d61129fc3cbfe70c60b71",
+      "crc32": "89949132",
+      "sha1": "802f3f1c8ca4bb18bbafc3574204e3a762ddf0cb",
       "format": "Metadata"
     },
     {
@@ -4197,9 +4249,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 406,
-  "item_last_updated": 1664418266,
-  "item_size": 20178008,
+  "files_count": 411,
+  "item_last_updated": 1664460557,
+  "item_size": 20459592,
   "metadata": {
     "identifier": "sjvwater-2022",
     "collection": [
@@ -4221,7 +4273,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421737594,
+      "task_id": 3422332234,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4229,7 +4281,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1081317888,
+  "uniq": 1846639597,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]

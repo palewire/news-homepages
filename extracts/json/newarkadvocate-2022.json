@@ -1,5 +1,5 @@
 {
-  "created": 1664418024,
+  "created": 1664460311,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/7/items/newarkadvocate-2022",
@@ -1059,31 +1059,83 @@
       "format": "JSON"
     },
     {
+      "name": "newarkadvocate-2022-09-28T22:19:27.019733-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newarkadvocate-2022-09-28T22:19:27.019733-04:00.jpg",
+      "mtime": "1664421189",
+      "size": "9151",
+      "md5": "518b4fbe9e276496722e11ae8ee1f7c2",
+      "crc32": "0c3156ed",
+      "sha1": "f8e5f3811a55bae8cd3336cff020158e58d79f84"
+    },
+    {
+      "name": "newarkadvocate-2022-09-29T10:04:02.380682-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664460246",
+      "size": "19755",
+      "md5": "3c3adb7b1b651ee3c8e514cf0b1ab683",
+      "crc32": "a7a8958a",
+      "sha1": "891e2f27cbea1c87ce6ca6e4d8535630d3cec88f",
+      "format": "JSON"
+    },
+    {
+      "name": "newarkadvocate-2022-09-29T10:04:02.380682-04:00.jpg",
+      "source": "original",
+      "mtime": "1664460245",
+      "size": "266750",
+      "md5": "1edb7f95fb5d956a11282118a5af3741",
+      "crc32": "b49bb2d4",
+      "sha1": "c2e23484198a2c1a4e8f8019d4d4b74288a37fde",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newarkadvocate-2022-09-29T10:04:02.380682-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664460248",
+      "size": "1531",
+      "md5": "c467814c81c86286148a99ca39cf055d",
+      "crc32": "24b259a5",
+      "sha1": "c4a3ff61b3109679f8b9fd2de1723f50c9e0358b",
+      "format": "JSON"
+    },
+    {
+      "name": "newarkadvocate-2022-09-29T10:04:02.380682-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664460250",
+      "size": "100374",
+      "md5": "706d72e48da1bbe336241b194353a147",
+      "crc32": "02af3808",
+      "sha1": "0eb9ad3b3fc4e8bd94b55cb3535acb78bdf67a6d",
+      "format": "JSON"
+    },
+    {
       "name": "newarkadvocate-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2ee81029a43b967adef4bf80754bac2e09009ec2",
-      "mtime": "1664418021",
-      "size": "23548",
-      "md5": "9fb5b8bee229b5d5f675199d4f3a47d0",
-      "crc32": "d2a8fcf9",
-      "sha1": "adbf102989b61ed9af29c9d5aadcabdcf5f26f00",
+      "btih": "11daa393860f51c594497f84acb398566766320f",
+      "mtime": "1664460309",
+      "size": "24635",
+      "md5": "f30b606412f58b87cf89fbc8330c946b",
+      "crc32": "f73d9fcd",
+      "sha1": "e80a472e755c309cfdb10881fa5db3800c550ddf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newarkadvocate-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "603c1538952af242f744710296457686",
+      "md5": "9cf69dbd1f04515dc8969c90ab531757",
       "summation": "md5"
     },
     {
       "name": "newarkadvocate-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664417984",
-      "size": "155648",
-      "md5": "526340dd1e429183f89cf698e0b85406",
-      "crc32": "0b88c64b",
-      "sha1": "0e4260f9fb3c62863f52a20820b11d7a69168e97",
+      "mtime": "1664460273",
+      "size": "159744",
+      "md5": "1d60d8a1f9292b65737226d3b64e66c6",
+      "crc32": "97532076",
+      "sha1": "4f7e07acbfc6a2d119745fd7e924d10fda490aa0",
       "format": "Metadata"
     },
     {
@@ -1097,9 +1149,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 106,
-  "item_last_updated": 1664418021,
-  "item_size": 7249184,
+  "files_count": 111,
+  "item_last_updated": 1664460309,
+  "item_size": 7651928,
   "metadata": {
     "identifier": "newarkadvocate-2022",
     "collection": [
@@ -1121,7 +1173,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421733475,
+      "task_id": 3422328369,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1129,7 +1181,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1693395865,
+  "uniq": 1085594577,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]
