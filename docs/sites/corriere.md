@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 101 screenshots with the Internet Archive.
+The archiving routine has saved 102 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 101 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/corriere-2022/corriere-2022-09-29T13:55:26.202500+02:00.jpg">
+  <img src="https://archive.org/download/corriere-2022/corriere-2022-09-29T13:55:26.202500+02:00.jpg"
+     alt="Corriere della Sera at 2022-09-29 13:55:34+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/corriere-2022/corriere-2022-09-29T13:55:26.202500+02:00.jpg">September 29 at 1:55 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/corriere-2022/corriere-2022-09-29T01:45:38.241592+02:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/corriere-2022/corriere-2022-09-24T01:43:47.002000+02:00.jpg">September 24 at 1:43 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/corriere-2022/corriere-2022-09-23T13:53:49.202316+02:00.jpg">
-  <img src="https://archive.org/download/corriere-2022/corriere-2022-09-23T13:53:49.202316+02:00.jpg"
-     alt="Corriere della Sera at 2022-09-23 13:53:50+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/corriere-2022/corriere-2022-09-23T13:53:49.202316+02:00.jpg">September 23 at 1:53 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 101 hyperlink lists with the Internet Archive.
+The archiving routine has saved 102 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 1:55 PM](https://archive.org/download/corriere-2022/corriere-2022-09-29T13:55:26.202500+02:00.hyperlinks.json) |
 | [September 29 at 1:45 AM](https://archive.org/download/corriere-2022/corriere-2022-09-29T01:45:38.241592+02:00.hyperlinks.json) |
 | [September 28 at 2:07 PM](https://archive.org/download/corriere-2022/corriere-2022-09-28T14:07:05.887209+02:00.hyperlinks.json) |
 | [September 28 at 1:50 AM](https://archive.org/download/corriere-2022/corriere-2022-09-28T01:50:18.713290+02:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 1:41 AM](https://archive.org/download/corriere-2022/corriere-2022-09-26T01:40:58.859270+02:00.hyperlinks.json) |
 | [September 25 at 1:45 PM](https://archive.org/download/corriere-2022/corriere-2022-09-25T13:45:23.111669+02:00.hyperlinks.json) |
 | [September 25 at 1:37 AM](https://archive.org/download/corriere-2022/corriere-2022-09-25T01:37:31.612420+02:00.hyperlinks.json) |
-| [September 24 at 1:46 PM](https://archive.org/download/corriere-2022/corriere-2022-09-24T13:46:37.202946+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 101 accessibility trees with the Internet Archive.
+The archiving routine has saved 102 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 1:55 PM](https://archive.org/download/corriere-2022/corriere-2022-09-29T13:55:26.202500+02:00.accessibility.json) |
 | [September 29 at 1:45 AM](https://archive.org/download/corriere-2022/corriere-2022-09-29T01:45:38.241592+02:00.accessibility.json) |
 | [September 28 at 2:07 PM](https://archive.org/download/corriere-2022/corriere-2022-09-28T14:07:05.887209+02:00.accessibility.json) |
 | [September 28 at 1:50 AM](https://archive.org/download/corriere-2022/corriere-2022-09-28T01:50:18.713290+02:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 1:41 AM](https://archive.org/download/corriere-2022/corriere-2022-09-26T01:40:58.859270+02:00.accessibility.json) |
 | [September 25 at 1:45 PM](https://archive.org/download/corriere-2022/corriere-2022-09-25T13:45:23.111669+02:00.accessibility.json) |
 | [September 25 at 1:37 AM](https://archive.org/download/corriere-2022/corriere-2022-09-25T01:37:31.612420+02:00.accessibility.json) |
-| [September 24 at 1:46 PM](https://archive.org/download/corriere-2022/corriere-2022-09-24T13:46:37.202946+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 101 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 102 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 1:55 PM](https://archive.org/download/corriere-2022/corriere-2022-09-29T13:55:26.202500+02:00.lighthouse.json) |
 | [September 29 at 1:45 AM](https://archive.org/download/corriere-2022/corriere-2022-09-29T01:45:38.241592+02:00.lighthouse.json) |
 | [September 28 at 2:07 PM](https://archive.org/download/corriere-2022/corriere-2022-09-28T14:07:05.887209+02:00.lighthouse.json) |
 | [September 28 at 1:50 AM](https://archive.org/download/corriere-2022/corriere-2022-09-28T01:50:18.713290+02:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 1:41 AM](https://archive.org/download/corriere-2022/corriere-2022-09-26T01:40:58.859270+02:00.lighthouse.json) |
 | [September 25 at 1:45 PM](https://archive.org/download/corriere-2022/corriere-2022-09-25T13:45:23.111669+02:00.lighthouse.json) |
 | [September 25 at 1:37 AM](https://archive.org/download/corriere-2022/corriere-2022-09-25T01:37:31.612420+02:00.lighthouse.json) |
-| [September 24 at 1:46 PM](https://archive.org/download/corriere-2022/corriere-2022-09-24T13:46:37.202946+02:00.lighthouse.json) |
 
 
 

@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 166 screenshots with the Internet Archive.
+The archiving routine has saved 167 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 166 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-29T07:56:25.875049-04:00.jpg">
+  <img src="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-29T07:56:25.875049-04:00.jpg"
+     alt="Delaware Public Media at 2022-09-29 07:56:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-29T07:56:25.875049-04:00.jpg">September 29 at 7:56 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-28T19:45:37.604145-04:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-23T19:43:54.734510-04:00.jpg">September 23 at 7:43 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-23T07:53:59.421233-04:00.jpg">
-  <img src="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-23T07:53:59.421233-04:00.jpg"
-     alt="Delaware Public Media at 2022-09-23 07:54:01-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-23T07:53:59.421233-04:00.jpg">September 23 at 7:54 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 167 hyperlink lists with the Internet Archive.
+The archiving routine has saved 168 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 7:56 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-29T07:56:25.875049-04:00.hyperlinks.json) |
 | [September 28 at 7:45 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-28T19:45:37.604145-04:00.hyperlinks.json) |
 | [September 28 at 8:09 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-28T08:08:56.808011-04:00.hyperlinks.json) |
 | [September 27 at 7:49 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-27T19:49:40.756018-04:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 7:41 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-25T19:41:31.530282-04:00.hyperlinks.json) |
 | [September 25 at 7:46 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-25T07:46:21.717870-04:00.hyperlinks.json) |
 | [September 24 at 7:37 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-24T19:37:44.029295-04:00.hyperlinks.json) |
-| [September 24 at 7:47 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-24T07:47:40.516499-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 167 accessibility trees with the Internet Archive.
+The archiving routine has saved 168 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 7:56 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-29T07:56:25.875049-04:00.accessibility.json) |
 | [September 28 at 7:45 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-28T19:45:37.604145-04:00.accessibility.json) |
 | [September 28 at 8:09 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-28T08:08:56.808011-04:00.accessibility.json) |
 | [September 27 at 7:49 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-27T19:49:40.756018-04:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 7:41 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-25T19:41:31.530282-04:00.accessibility.json) |
 | [September 25 at 7:46 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-25T07:46:21.717870-04:00.accessibility.json) |
 | [September 24 at 7:37 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-24T19:37:44.029295-04:00.accessibility.json) |
-| [September 24 at 7:47 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-24T07:47:40.516499-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 137 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 138 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 7:56 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-29T07:56:25.875049-04:00.lighthouse.json) |
 | [September 28 at 7:45 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-28T19:45:37.604145-04:00.lighthouse.json) |
 | [September 28 at 8:09 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-28T08:08:56.808011-04:00.lighthouse.json) |
 | [September 27 at 7:49 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-27T19:49:40.756018-04:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 7:41 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-25T19:41:31.530282-04:00.lighthouse.json) |
 | [September 25 at 7:46 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-25T07:46:21.717870-04:00.lighthouse.json) |
 | [September 24 at 7:37 PM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-24T19:37:44.029295-04:00.lighthouse.json) |
-| [September 24 at 7:47 AM](https://archive.org/download/delawarepublic-2022/delawarepublic-2022-09-24T07:47:40.516499-04:00.lighthouse.json) |
 
 
 

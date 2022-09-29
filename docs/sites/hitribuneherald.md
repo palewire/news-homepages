@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 31 screenshots with the Internet Archive.
+The archiving routine has saved 32 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 31 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-29T01:59:38.959156-10:00.jpg">
+  <img src="https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-29T01:59:38.959156-10:00.jpg"
+     alt="Hawaii Tribune Herald at 2022-09-29 01:59:49-10:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-29T01:59:38.959156-10:00.jpg">September 29 at 1:59 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-28T13:50:15.637074-10:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-23T13:48:19.533907-10:00.jpg">September 23 at 1:48 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-23T01:57:19.724797-10:00.jpg">
-  <img src="https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-23T01:57:19.724797-10:00.jpg"
-     alt="Hawaii Tribune Herald at 2022-09-23 01:57:22-10:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-23T01:57:19.724797-10:00.jpg">September 23 at 1:57 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 31 hyperlink lists with the Internet Archive.
+The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 1:59 AM](https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-29T01:59:38.959156-10:00.hyperlinks.json) |
 | [September 28 at 1:50 PM](https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-28T13:50:15.637074-10:00.hyperlinks.json) |
 | [September 28 at 2:12 AM](https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-28T02:12:14.751739-10:00.hyperlinks.json) |
 | [September 27 at 1:54 PM](https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-27T13:54:45.649025-10:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 1:45 PM](https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-25T13:45:07.746768-10:00.hyperlinks.json) |
 | [September 25 at 1:49 AM](https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-25T01:49:40.262069-10:00.hyperlinks.json) |
 | [September 24 at 1:41 PM](https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-24T13:41:17.453472-10:00.hyperlinks.json) |
-| [September 24 at 1:51 AM](https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-24T01:51:10.529691-10:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 31 accessibility trees with the Internet Archive.
+The archiving routine has saved 32 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 1:59 AM](https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-29T01:59:38.959156-10:00.accessibility.json) |
 | [September 28 at 1:50 PM](https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-28T13:50:15.637074-10:00.accessibility.json) |
 | [September 28 at 2:12 AM](https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-28T02:12:14.751739-10:00.accessibility.json) |
 | [September 27 at 1:54 PM](https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-27T13:54:45.649025-10:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 1:45 PM](https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-25T13:45:07.746768-10:00.accessibility.json) |
 | [September 25 at 1:49 AM](https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-25T01:49:40.262069-10:00.accessibility.json) |
 | [September 24 at 1:41 PM](https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-24T13:41:17.453472-10:00.accessibility.json) |
-| [September 24 at 1:51 AM](https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-24T01:51:10.529691-10:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 1:59 AM](https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-29T01:59:38.959156-10:00.lighthouse.json) |
 | [September 28 at 1:50 PM](https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-28T13:50:15.637074-10:00.lighthouse.json) |
 | [September 28 at 2:12 AM](https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-28T02:12:14.751739-10:00.lighthouse.json) |
 | [September 27 at 1:54 PM](https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-27T13:54:45.649025-10:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 1:45 PM](https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-25T13:45:07.746768-10:00.lighthouse.json) |
 | [September 25 at 1:49 AM](https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-25T01:49:40.262069-10:00.lighthouse.json) |
 | [September 24 at 1:41 PM](https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-24T13:41:17.453472-10:00.lighthouse.json) |
-| [September 24 at 1:51 AM](https://archive.org/download/hitribuneherald-2022/hitribuneherald-2022-09-24T01:51:10.529691-10:00.lighthouse.json) |
 
 
 
