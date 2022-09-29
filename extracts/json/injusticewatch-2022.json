@@ -1,5 +1,5 @@
 {
-  "created": 1664434045,
+  "created": 1664467165,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/1/items/injusticewatch-2022",
@@ -13440,31 +13440,82 @@
       "sha1": "9dd01ac66004fd0eb811c6fbb2e99d895b5f2ee6"
     },
     {
+      "name": "injusticewatch-2022-09-29T10:58:12.027982-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664467101",
+      "size": "12735",
+      "md5": "de5162cf901e78f054646864346a76dd",
+      "crc32": "282fa124",
+      "sha1": "6d3b8bd245bab5df341c8058221adfa7b3cdbf7e",
+      "format": "JSON"
+    },
+    {
+      "name": "injusticewatch-2022-09-29T10:58:12.027982-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664467102",
+      "size": "12213",
+      "md5": "11cbec9ca8e1425932acce648a3692a1",
+      "crc32": "ee8f3ba4",
+      "sha1": "dfd6df23b917df0d6ab291e6bd81d97f9b82bebd",
+      "format": "JSON"
+    },
+    {
+      "name": "injusticewatch-2022-09-29T10:58:12.027982-05:00.jpg",
+      "source": "original",
+      "mtime": "1664467099",
+      "size": "322589",
+      "md5": "c21322fd04140f37a7b68acd6402753c",
+      "crc32": "93f0b4a1",
+      "sha1": "727720b9bcefe6c877823625b8ebcf42fe44e4fd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "injusticewatch-2022-09-29T10:58:12.027982-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664467104",
+      "size": "1519",
+      "md5": "dcfbdc5a934f556fa398c3f5585e5897",
+      "crc32": "fffdd637",
+      "sha1": "c4b201cc7dc95a07f4374c91599ccd0c4ac388f9",
+      "format": "JSON"
+    },
+    {
+      "name": "injusticewatch-2022-09-29T10:58:12.027982-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664467106",
+      "size": "12208",
+      "md5": "64c81cbae9c07a28aa90164ac1e46e54",
+      "crc32": "34b0cd56",
+      "sha1": "0516a03e094ff805ee84e6047c61888a74500f20",
+      "format": "JSON"
+    },
+    {
       "name": "injusticewatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8a2ca91f8364400d21632de9ec1b6090f1bf7b89",
-      "mtime": "1664433403",
-      "size": "281645",
-      "md5": "b80dafa73ce100d8d09090b556170c8f",
-      "crc32": "96bd3d9f",
-      "sha1": "3ed16abd7aaaa6f4906aee6a501d621e971c64fa",
+      "btih": "a759a5c78163e7b1acab1ac4a6332387d1a5acea",
+      "mtime": "1664467160",
+      "size": "282738",
+      "md5": "28a017e4dd5f0c904c2a32678ea60f3f",
+      "crc32": "9e0947c6",
+      "sha1": "906185041099a0ff2015ac8743abd287614fcb6f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "injusticewatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "99e856fcebfc4386005a082c634ffb7e",
+      "md5": "e08723cca2bfe72e5e3e9b6186da857f",
       "summation": "md5"
     },
     {
       "name": "injusticewatch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664431383",
-      "size": "1638400",
-      "md5": "c1bdb46f6238a407bbeded95c52d06ad",
-      "crc32": "50bca410",
-      "sha1": "e42c76a7ffc408d4f7e73cdd4aa8d856d4a86aa4",
+      "mtime": "1664467110",
+      "size": "1646592",
+      "md5": "e2cacd18d96aba8e5e7162204122529b",
+      "crc32": "e76d6881",
+      "sha1": "4bf038c54c42d9e3e128827afc0f1e888e50ba5b",
       "format": "Metadata"
     },
     {
@@ -13478,9 +13529,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1300,
-  "item_last_updated": 1664433403,
-  "item_size": 86086825,
+  "files_count": 1305,
+  "item_last_updated": 1664467160,
+  "item_size": 86457374,
   "metadata": {
     "identifier": "injusticewatch-2022",
     "collection": [
@@ -13497,10 +13548,21 @@
     "publicdate": "2022-07-09 03:59:21",
     "addeddate": "2022-07-09 03:59:21"
   },
-  "server": "ia802508.us.archive.org",
-  "uniq": 1722724987,
+  "pending_tasks": true,
+  "server": "ia902508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3422410149,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1974927453,
   "workable_servers": [
-    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

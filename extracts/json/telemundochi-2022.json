@@ -1,5 +1,5 @@
 {
-  "created": 1664463539,
+  "created": 1664467345,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/20/items/telemundochi-2022",
@@ -11017,31 +11017,93 @@
       "format": "JSON"
     },
     {
+      "name": "telemundochi-2022-09-29T09:57:49.341275-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telemundochi-2022-09-29T09:57:49.341275-05:00.jpg",
+      "mtime": "1664467284",
+      "size": "9512",
+      "md5": "05d9468b1669ba5ad99632d5be89b348",
+      "crc32": "7e57ef64",
+      "sha1": "b764b2b7a51c74495e7e186e42c0179eb5fe2df9"
+    },
+    {
+      "name": "telemundochi-2022-09-29T11:00:30.509530-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664467236",
+      "size": "51198",
+      "md5": "8a9279419ff815c4058879877f584026",
+      "crc32": "c7818d69",
+      "sha1": "59c2c3106a96161047ac02d70444a4e86e4886fe",
+      "format": "JSON"
+    },
+    {
+      "name": "telemundochi-2022-09-29T11:00:30.509530-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664467238",
+      "size": "60186",
+      "md5": "049d6a86bb4266451015039bc35c77d1",
+      "crc32": "847c8859",
+      "sha1": "a8741db142c04c70950cf52ed265f7b5b54269f9",
+      "format": "JSON"
+    },
+    {
+      "name": "telemundochi-2022-09-29T11:00:30.509530-05:00.jpg",
+      "source": "original",
+      "mtime": "1664467233",
+      "size": "291598",
+      "md5": "1d271193c3341a4f95afd383d2ff9fc0",
+      "crc32": "d14706d5",
+      "sha1": "d6dd8c69ba72431f89250b3dc1f9c34f2389aca9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telemundochi-2022-09-29T11:00:30.509530-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664467240",
+      "size": "1540",
+      "md5": "92d248ee4eb6b86c75f4bd7a82fa270d",
+      "crc32": "6c091192",
+      "sha1": "94302ab24ef8d6958e439bdce31a0b7b8e34d90b",
+      "format": "JSON"
+    },
+    {
+      "name": "telemundochi-2022-09-29T11:00:30.509530-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664467244",
+      "size": "240",
+      "md5": "4ea61080e98b5edf82a0f5fd0b514dcb",
+      "crc32": "a01404ad",
+      "sha1": "dcc66bd11e61b3dd992e57d5a6d430df65e78e88",
+      "format": "JSON"
+    },
+    {
       "name": "telemundochi-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a8e782e3bf70c5dca6b1451ebea8dca0d7d66bca",
-      "mtime": "1664463534",
-      "size": "230399",
-      "md5": "75f3126f3eacd00265d9b9af499fad6e",
-      "crc32": "b626e3c9",
-      "sha1": "a3e27363ae73946a5606b6ef73090eb5752d7e56",
+      "btih": "c0969bace0dab29cc7563f108dc6c131c3ab9ab2",
+      "mtime": "1664467328",
+      "size": "231688",
+      "md5": "33f68611f3633a2d5066808bacff6d4c",
+      "crc32": "0a04e161",
+      "sha1": "3ff63caab88ae242cc6268247aec80a02f2fbfa0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "telemundochi-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fe49b89f381df30b7b50a0f75a89afcf",
+      "md5": "20e387ebf7b8a1ba07ce4c128c485a37",
       "summation": "md5"
     },
     {
       "name": "telemundochi-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664463490",
-      "size": "1368064",
-      "md5": "36e57b66f10521e239f554f88b94d0ba",
-      "crc32": "9870e79b",
-      "sha1": "1447430fcabb4e1460bd53c425efa4d2a4d96e20",
+      "mtime": "1664467317",
+      "size": "1376256",
+      "md5": "b03ceb892f4cd0aad2f2f270641042a7",
+      "crc32": "7c750372",
+      "sha1": "4b4db24846f45a87e99a2fd688dcb638be90a8d6",
       "format": "Metadata"
     },
     {
@@ -11055,9 +11117,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1069,
-  "item_last_updated": 1664463534,
-  "item_size": 88223801,
+  "files_count": 1075,
+  "item_last_updated": 1664467328,
+  "item_size": 88647556,
   "metadata": {
     "identifier": "telemundochi-2022",
     "collection": [
@@ -11079,7 +11141,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3422366421,
+      "task_id": 3422414238,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11087,7 +11149,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1186342494,
+  "uniq": 336768510,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]

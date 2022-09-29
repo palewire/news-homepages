@@ -1,5 +1,5 @@
 {
-  "created": 1664448859,
+  "created": 1664467172,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/2/items/borderless_mag-2022",
@@ -6289,31 +6289,93 @@
       "format": "JSON"
     },
     {
+      "name": "borderless_mag-2022-09-29T05:53:17.830615-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "borderless_mag-2022-09-29T05:53:17.830615-05:00.jpg",
+      "mtime": "1664451395",
+      "size": "8485",
+      "md5": "b9cea4256e39dacd0c321af25a42d90c",
+      "crc32": "b48756e9",
+      "sha1": "c521a895bfe8dbdd578c6320482c2c918d75c837"
+    },
+    {
+      "name": "borderless_mag-2022-09-29T10:58:15.830868-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664467103",
+      "size": "1041",
+      "md5": "3ed4ed30428f719eb0f6cbd29ec52f30",
+      "crc32": "60c6ff07",
+      "sha1": "0d7fa92ec085e24cc37c815f7cc3c117c678e7b6",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-29T10:58:15.830868-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664467104",
+      "size": "26538",
+      "md5": "5b1d7ce833e60717a717ae71d909a4df",
+      "crc32": "16f6c4c4",
+      "sha1": "b77bb2bdd34c8d80a1bdf77182144f09fd65ed03",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-29T10:58:15.830868-05:00.jpg",
+      "source": "original",
+      "mtime": "1664467098",
+      "size": "210849",
+      "md5": "fab740e0f63e91b8455f0b4a63d53b82",
+      "crc32": "d25d4711",
+      "sha1": "8b2550ae81b2008fc0cb798c81e328a141879865",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "borderless_mag-2022-09-29T10:58:15.830868-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664467106",
+      "size": "1485",
+      "md5": "cb448299ea836e50b36551349c847a84",
+      "crc32": "73c3b6b2",
+      "sha1": "007ba9647a357ff8855ac0107578c6b7365704bd",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-29T10:58:15.830868-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664467110",
+      "size": "10735",
+      "md5": "2150fe777f89dfb78ab5219d7bd767ec",
+      "crc32": "54d149cd",
+      "sha1": "7cc86455c8e15c68ffac1797de8c619db57aa7fe",
+      "format": "JSON"
+    },
+    {
       "name": "borderless_mag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d13d06c9e4c0f69ee38addd8b5dc097324076ea9",
-      "mtime": "1664448854",
-      "size": "132540",
-      "md5": "e913d4397998c6733f84da1cf8436431",
-      "crc32": "37820bf4",
-      "sha1": "27c458d0bb786a584f167ea04739b4d715c251eb",
+      "btih": "e24d1b17bdc78f8ceb33e5029ce4ebf8d3674c65",
+      "mtime": "1664467165",
+      "size": "133842",
+      "md5": "3bc5eb99004f64f6bb0cd41bd6db8a81",
+      "crc32": "144f6d4d",
+      "sha1": "ef396f7970542e8805bba8b929e7c391e90897ea",
       "format": "Archive BitTorrent"
     },
     {
       "name": "borderless_mag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3220d171049e74050ec04e755b02a052",
+      "md5": "de1c2f3365fc3141fa67d54d38ef2b77",
       "summation": "md5"
     },
     {
       "name": "borderless_mag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664448816",
-      "size": "798720",
-      "md5": "ca77544cb0b34763efe11b3a7f0356f1",
-      "crc32": "38622ad9",
-      "sha1": "e0133fda4260b616204815d05b2785c343687172",
+      "mtime": "1664467115",
+      "size": "806912",
+      "md5": "6183d2e046fd90d474061f7a29648ad3",
+      "crc32": "db3d9dd9",
+      "sha1": "e54ecbe721abc9e6acf5fbbe3df0df0a696486a6",
       "format": "Metadata"
     },
     {
@@ -6327,9 +6389,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 612,
-  "item_last_updated": 1664448854,
-  "item_size": 31474024,
+  "files_count": 618,
+  "item_last_updated": 1664467165,
+  "item_size": 31742651,
   "metadata": {
     "identifier": "borderless_mag-2022",
     "collection": [
@@ -6351,7 +6413,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3422180520,
+      "task_id": 3422410210,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -6359,7 +6421,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 655821421,
+  "uniq": 1421760232,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]
