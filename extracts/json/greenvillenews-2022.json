@@ -1,5 +1,5 @@
 {
-  "created": 1664409060,
+  "created": 1664452899,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/3/items/greenvillenews-2022",
@@ -1111,31 +1111,93 @@
       "format": "JSON"
     },
     {
+      "name": "greenvillenews-2022-09-28T19:49:52.429016-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "greenvillenews-2022-09-28T19:49:52.429016-04:00.jpg",
+      "mtime": "1664413684",
+      "size": "9548",
+      "md5": "24cfb9b4080e5a545a7839cb38b4d5a1",
+      "crc32": "7c79c8d1",
+      "sha1": "090c90dadcc5efb8e058cb9a8c81ec597bd6b6fb"
+    },
+    {
+      "name": "greenvillenews-2022-09-29T08:00:29.444233-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664452833",
+      "size": "18689",
+      "md5": "8e642eb7080051135ef8cee39802b422",
+      "crc32": "c959f687",
+      "sha1": "53e95ae9844b94594308cbfc5e64e00e585534e0",
+      "format": "JSON"
+    },
+    {
+      "name": "greenvillenews-2022-09-29T08:00:29.444233-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664452835",
+      "size": "30831",
+      "md5": "c8d973a242e72f1578c8149bdf724817",
+      "crc32": "8ee5e41e",
+      "sha1": "5d839985fbab50022323e7924f4216517b0cfb25",
+      "format": "JSON"
+    },
+    {
+      "name": "greenvillenews-2022-09-29T08:00:29.444233-04:00.jpg",
+      "source": "original",
+      "mtime": "1664452832",
+      "size": "263739",
+      "md5": "36f95c95a65babc00dda8b18b522bb81",
+      "crc32": "438f10ef",
+      "sha1": "d1fc281f5a1dbdda253b0707e24ebaf6090f45ea",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "greenvillenews-2022-09-29T08:00:29.444233-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664452837",
+      "size": "1549",
+      "md5": "862b2dde17082ebf58d35d7c84ae8999",
+      "crc32": "8adf5fc2",
+      "sha1": "cc055537b6e7bfeee44c774c26b29775e67d1313",
+      "format": "JSON"
+    },
+    {
+      "name": "greenvillenews-2022-09-29T08:00:29.444233-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664452838",
+      "size": "103761",
+      "md5": "412237fbcee6f0d6751068d92c132eaf",
+      "crc32": "cbb0e781",
+      "sha1": "7dcf34f2565e8665668983e6d9204435adc1f601",
+      "format": "JSON"
+    },
+    {
       "name": "greenvillenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "67618c8775ebd7a55ea3c56ae8325348ccdd53fb",
-      "mtime": "1664409055",
-      "size": "24600",
-      "md5": "2039c6e6dfb01c8216846a0febfcbbea",
-      "crc32": "9d90770f",
-      "sha1": "e71781235ab5f2b89d031243e91e0caee28d7a2f",
+      "btih": "e3fe7b9157e07a58a5a1d45a3f4dc295232e0f3e",
+      "mtime": "1664452884",
+      "size": "25904",
+      "md5": "2d2a0b92af4905456e1b7ffd9518f779",
+      "crc32": "eb211237",
+      "sha1": "49995cabb54aaa449e89c42caa35727a3ce2b8d9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "greenvillenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1bf96fbe5ae26e0fe1113d5878c59273",
+      "md5": "b19afea4bd331d5674c04e57b2a0f4dd",
       "summation": "md5"
     },
     {
       "name": "greenvillenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664409015",
-      "size": "159744",
-      "md5": "05b02474a54069681d76b8ab58e2e20a",
-      "crc32": "127d31c3",
-      "sha1": "63e26c1e9a488f3d3a3ba04b002de1b3a21c10c0",
+      "mtime": "1664452847",
+      "size": "167936",
+      "md5": "414b80b48ac7cadea57eed068c24a003",
+      "crc32": "f5996e6d",
+      "sha1": "e49cb74a426a73fc5f9648caf74bee23bd7dfaab",
       "format": "Metadata"
     },
     {
@@ -1149,9 +1211,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 111,
-  "item_last_updated": 1664409055,
-  "item_size": 7099196,
+  "files_count": 117,
+  "item_last_updated": 1664452884,
+  "item_size": 7536809,
   "metadata": {
     "identifier": "greenvillenews-2022",
     "collection": [
@@ -1173,7 +1235,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421596832,
+      "task_id": 3422237290,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1181,7 +1243,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 281611972,
+  "uniq": 497911479,
   "workable_servers": [
     "ia601504.us.archive.org"
   ]

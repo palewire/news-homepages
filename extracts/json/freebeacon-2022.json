@@ -1,5 +1,5 @@
 {
-  "created": 1664409070,
+  "created": 1664452908,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/9/items/freebeacon-2022",
@@ -12585,31 +12585,93 @@
       "format": "JSON"
     },
     {
+      "name": "freebeacon-2022-09-28T19:49:43.410243-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "freebeacon-2022-09-28T19:49:43.410243-04:00.jpg",
+      "mtime": "1664413691",
+      "size": "9591",
+      "md5": "08a3385301f8b693f3783f79f93fcdc7",
+      "crc32": "a367d805",
+      "sha1": "63b1b0cc651e0d4d568ef76511178ff381e1134d"
+    },
+    {
+      "name": "freebeacon-2022-09-29T07:59:07.287057-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664452766",
+      "size": "14774",
+      "md5": "0bfe44b0f304899748e23024f7da4c78",
+      "crc32": "3a570179",
+      "sha1": "4ea7b351e78867e1759bab8796a605f05c7a5bc5",
+      "format": "JSON"
+    },
+    {
+      "name": "freebeacon-2022-09-29T07:59:07.287057-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664452767",
+      "size": "19505",
+      "md5": "5328f30b022d0462a09dd2e496b44298",
+      "crc32": "4e67e97d",
+      "sha1": "c7912e85f9c2acfb18a868a82a3fa3221bf2ff52",
+      "format": "JSON"
+    },
+    {
+      "name": "freebeacon-2022-09-29T07:59:07.287057-04:00.jpg",
+      "source": "original",
+      "mtime": "1664452764",
+      "size": "284286",
+      "md5": "49eec4e6d25534f50261ffd0c2cc3aef",
+      "crc32": "471be61d",
+      "sha1": "4fb98f1cf7a2bd324f92754c82615450ca8fa28c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "freebeacon-2022-09-29T07:59:07.287057-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664452769",
+      "size": "1459",
+      "md5": "6e531436cb79e66c55ea323bf31224bc",
+      "crc32": "75efe2f2",
+      "sha1": "ae9bc223807f8f69c93e2a156df335d34259d7df",
+      "format": "JSON"
+    },
+    {
+      "name": "freebeacon-2022-09-29T07:59:07.287057-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664452770",
+      "size": "30075",
+      "md5": "5efc907542fe220ee8348fb617c6665c",
+      "crc32": "648f1fde",
+      "sha1": "5776b84fb1325f7e77e2fb55d9ab47ccbfcc8a71",
+      "format": "JSON"
+    },
+    {
       "name": "freebeacon-2022_archive.torrent",
       "source": "metadata",
-      "btih": "067a89a28e2288dbaab9f6f7bf9b9a16c264eb2f",
-      "mtime": "1664409061",
-      "size": "259309",
-      "md5": "68f1798387730fd1c50cdc6f0bfa5dab",
-      "crc32": "3606c649",
-      "sha1": "e0fbfc2aac6298984fdebf8a9a04e302ed3869fd",
+      "btih": "eb06e6d7ab5b544fc60662702f175f0a6fe5ae02",
+      "mtime": "1664452884",
+      "size": "260588",
+      "md5": "0a70de430e7ec75b56bd1f367390b83d",
+      "crc32": "1318523e",
+      "sha1": "9d9ab3acff44c4366e96c9ac6efb431ec889922f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "freebeacon-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2d237c46617dcf1d2d76cc592d4ac58f",
+      "md5": "2fd74cd93ee6643bbd195c277c70a8d2",
       "summation": "md5"
     },
     {
       "name": "freebeacon-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664408998",
-      "size": "1544192",
-      "md5": "9085811e9a9ad8cf3a5aa1f63a9922fb",
-      "crc32": "592ee507",
-      "sha1": "d6fcef3f52134ce7b32bf735f195414ba322ab14",
+      "mtime": "1664452795",
+      "size": "1548288",
+      "md5": "66b3c1f21f7ff541224bc29d4b822262",
+      "crc32": "2bc81205",
+      "sha1": "297bf947d465db777b1a4a3948fb682f16a52745",
       "format": "Metadata"
     },
     {
@@ -12623,9 +12685,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1219,
-  "item_last_updated": 1664409061,
-  "item_size": 78121993,
+  "files_count": 1225,
+  "item_last_updated": 1664452884,
+  "item_size": 78487058,
   "metadata": {
     "identifier": "freebeacon-2022",
     "collection": [
@@ -12647,7 +12709,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421596975,
+      "task_id": 3422237327,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12655,7 +12717,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 950381311,
+  "uniq": 760907297,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]
