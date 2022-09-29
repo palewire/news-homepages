@@ -1,7 +1,12 @@
 {
-  "created": 1664434087,
+  "created": 1664478004,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
+  "denverpost-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "dir": "/6/items/denverpost-2022",
   "files": [
     {
@@ -5782,31 +5787,82 @@
       "sha1": "ffbecda21fde0b38c7aec9ad45a2a1460fc39453"
     },
     {
+      "name": "denverpost-2022-09-29T11:45:02.854480-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664473528",
+      "size": "44809",
+      "md5": "2e833330e7ab1c70536da0a7d437b025",
+      "crc32": "517da95c",
+      "sha1": "3b8dc29a6ab8f6c010991938dc8d4e9d186989fa",
+      "format": "JSON"
+    },
+    {
+      "name": "denverpost-2022-09-29T11:45:02.854480-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664473530",
+      "size": "51023",
+      "md5": "2120f4f6640ccbfac975e1267c8e5576",
+      "crc32": "4887ea07",
+      "sha1": "e58ab51b4ab361799f0394bf5d923bcedd1284e6",
+      "format": "JSON"
+    },
+    {
+      "name": "denverpost-2022-09-29T11:45:02.854480-06:00.jpg",
+      "source": "original",
+      "mtime": "1664473526",
+      "size": "295601",
+      "md5": "769bd2ce72d860b6da588c626245bab3",
+      "crc32": "fdf0dd45",
+      "sha1": "550be6b4a598fd16cb5fdcfe9fabce2b7fa448f8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "denverpost-2022-09-29T11:45:02.854480-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664473532",
+      "size": "1495",
+      "md5": "3e06d3374d5f2cbd234177ce7db9a8a2",
+      "crc32": "3b51aef9",
+      "sha1": "d7bca42bfbfa697c75e6e15ecce69586543bf0a1",
+      "format": "JSON"
+    },
+    {
+      "name": "denverpost-2022-09-29T11:45:02.854480-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1664473533",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "denverpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f5438024f96012036c6d0ec6e08bbdc50ee208d0",
-      "mtime": "1664434035",
-      "size": "120182",
-      "md5": "9575c85528430c6ae2196e386caa208c",
-      "crc32": "602caeff",
-      "sha1": "e002a2f21c54fce45fb1b1787ea71af4aad24326",
+      "btih": "c63ac220773b8db073ea8d93fa7888f8dda14849",
+      "mtime": "1664473585",
+      "size": "121253",
+      "md5": "801ee601101f7a9e2464787f71cfc29e",
+      "crc32": "75318baf",
+      "sha1": "e603f0a35b1cc80eb9f0a5965ede0ee21c8fbe89",
       "format": "Archive BitTorrent"
     },
     {
       "name": "denverpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "72695738a6262e3628d665f82f05e562",
+      "md5": "c430147fcd9e976e5b16f4e000fef777",
       "summation": "md5"
     },
     {
       "name": "denverpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664432106",
-      "size": "729088",
-      "md5": "92904108d513efbbba5b4139953a4784",
-      "crc32": "6374caff",
-      "sha1": "5789cc9dfcd2a85c19a4dfc292a6115bc7b451ac",
+      "mtime": "1664473541",
+      "size": "737280",
+      "md5": "ae5fbe9f6963ccdefae0523e0da3e5b3",
+      "crc32": "59520f5d",
+      "sha1": "898b408fdbcf005a74bf4a144320a22302cb0c1e",
       "format": "Metadata"
     },
     {
@@ -5820,9 +5876,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 563,
-  "item_last_updated": 1664434035,
-  "item_size": 40297520,
+  "files_count": 568,
+  "item_last_updated": 1664473585,
+  "item_size": 40699913,
   "metadata": {
     "identifier": "denverpost-2022",
     "collection": [
@@ -5839,10 +5895,21 @@
     "publicdate": "2022-08-14 06:42:22",
     "addeddate": "2022-08-14 06:42:22"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 1093921690,
+  "pending_tasks": true,
+  "server": "ia601505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3422497833,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1340564426,
   "workable_servers": [
-    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

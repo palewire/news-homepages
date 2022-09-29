@@ -1,5 +1,5 @@
 {
-  "created": 1664434978,
+  "created": 1664473611,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/el_pais-2022",
@@ -7586,31 +7586,82 @@
       "sha1": "dcfb89a4d7683de26d96c0ddcd597fc6100f9956"
     },
     {
+      "name": "el_pais-2022-09-29T19:45:29.060056+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664473534",
+      "size": "66512",
+      "md5": "ad82656cc2032db0c9f78e265f312385",
+      "crc32": "c96c95da",
+      "sha1": "c33f47682d44586c93f58c70a77c72a9cee9586e",
+      "format": "JSON"
+    },
+    {
+      "name": "el_pais-2022-09-29T19:45:29.060056+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664473536",
+      "size": "79407",
+      "md5": "1a87faa70172c79a39be197addc661a8",
+      "crc32": "7dfcd296",
+      "sha1": "3948ed26d972638d652429f1476573b818a5f72f",
+      "format": "JSON"
+    },
+    {
+      "name": "el_pais-2022-09-29T19:45:29.060056+02:00.jpg",
+      "source": "original",
+      "mtime": "1664473533",
+      "size": "310242",
+      "md5": "35da297d571cf2b26d127471eb54f222",
+      "crc32": "83626688",
+      "sha1": "fb6999f6925fae95bf16dfbaa981e45febd02a78",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "el_pais-2022-09-29T19:45:29.060056+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664473538",
+      "size": "1492",
+      "md5": "6ad4777da4896cb751c1017a7c27b920",
+      "crc32": "ce1abeb1",
+      "sha1": "1167b80342b79655f6dd541e4336596a93a9c25c",
+      "format": "JSON"
+    },
+    {
+      "name": "el_pais-2022-09-29T19:45:29.060056+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664473539",
+      "size": "31883",
+      "md5": "b6e05b156e2aaa6ac5b73783f856c9c5",
+      "crc32": "03a81c58",
+      "sha1": "6a0d16df2283b65c4b816cf14a3fde393325b3ff",
+      "format": "JSON"
+    },
+    {
       "name": "el_pais-2022_archive.torrent",
       "source": "metadata",
-      "btih": "424c32b9714b67a03bf197355b87bd0ca4b2fd09",
-      "mtime": "1664434069",
-      "size": "154973",
-      "md5": "1147698f614256fad21298d7062ce054",
-      "crc32": "f1b39858",
-      "sha1": "bd5805be198dd151e4cae9981a6a8d6c180b9d5a",
+      "btih": "4df8971e02695e155b69976a5fd4884ec9ad5c76",
+      "mtime": "1664473606",
+      "size": "156031",
+      "md5": "8f0515654c4dfa591ce972e631c2994b",
+      "crc32": "b4212ec1",
+      "sha1": "399de6ff67452523561a80224739a192832b751c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "el_pais-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "328acaa38f05341f747e1e6a2bf45582",
+      "md5": "8d00fd652b7575d08d82774aba62e816",
       "summation": "md5"
     },
     {
       "name": "el_pais-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664432140",
-      "size": "942080",
-      "md5": "29462305a557764b3197ad72b1f4a363",
-      "crc32": "48e7b2e4",
-      "sha1": "837ce40e46fd23eb5993428bd8f7197546256b53",
+      "mtime": "1664473555",
+      "size": "946176",
+      "md5": "f3891568980aa6720d132c6e4bfe7167",
+      "crc32": "716ed7c9",
+      "sha1": "68a09a9ae2417155e52084213c967e38c34a7cf6",
       "format": "Metadata"
     },
     {
@@ -7624,9 +7675,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 737,
-  "item_last_updated": 1664434069,
-  "item_size": 54115499,
+  "files_count": 742,
+  "item_last_updated": 1664473606,
+  "item_size": 54610189,
   "metadata": {
     "identifier": "el_pais-2022",
     "collection": [
@@ -7643,10 +7694,21 @@
     "publicdate": "2022-07-28 18:53:38",
     "addeddate": "2022-07-28 18:53:38"
   },
+  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "uniq": 57522331,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3422498114,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1466954782,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia601403.us.archive.org"
   ]
 }

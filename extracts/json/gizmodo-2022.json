@@ -1,5 +1,5 @@
 {
-  "created": 1664436815,
+  "created": 1664473890,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/12/items/gizmodo-2022",
@@ -9548,31 +9548,82 @@
       "sha1": "b2c49f72bd952d792439bfd2ec6b5a6236c5896b"
     },
     {
+      "name": "gizmodo-2022-09-29T10:50:06.331178-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664473810",
+      "size": "46979",
+      "md5": "3b882533aee4270bd8742ac88a500608",
+      "crc32": "c3efec46",
+      "sha1": "c7adf54bbb155d60de36b3ec690dae38773aba3d",
+      "format": "JSON"
+    },
+    {
+      "name": "gizmodo-2022-09-29T10:50:06.331178-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664473812",
+      "size": "34211",
+      "md5": "69d1a552adb0ff3cacd7eebeaacf4e6a",
+      "crc32": "ba209033",
+      "sha1": "8fec6c36c9540d5fed29ba78f71d9e35e56aba93",
+      "format": "JSON"
+    },
+    {
+      "name": "gizmodo-2022-09-29T10:50:06.331178-07:00.jpg",
+      "source": "original",
+      "mtime": "1664473808",
+      "size": "313245",
+      "md5": "75caf678070b4acb133d19eca746f053",
+      "crc32": "6610e08b",
+      "sha1": "d476960e0d79e422ca6cce4c274417d817fa146f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gizmodo-2022-09-29T10:50:06.331178-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664473813",
+      "size": "1428",
+      "md5": "308089d7465f84aa07ef80558783e582",
+      "crc32": "b1288b78",
+      "sha1": "aee05e651d5784b9868b0a327c229109d812e133",
+      "format": "JSON"
+    },
+    {
+      "name": "gizmodo-2022-09-29T10:50:06.331178-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664473815",
+      "size": "94193",
+      "md5": "ea365f1de9e69d7e713c00d367bc4ec9",
+      "crc32": "8c90a37f",
+      "sha1": "794637d6f60415fb5d8a9624aef34ef9f18d6c3a",
+      "format": "JSON"
+    },
+    {
       "name": "gizmodo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "05872f434da8df9075e34924a2b14ffdf976d059",
-      "mtime": "1664434116",
-      "size": "193798",
-      "md5": "45b2eb46f82043a033108535c7fbf8b4",
-      "crc32": "3fc38692",
-      "sha1": "3e587952d079900fd8c305582fc1897d0634e927",
+      "btih": "75c21d9dfbd38879eefd0e9ecd0260228ced2dd0",
+      "mtime": "1664473881",
+      "size": "194856",
+      "md5": "774ce9c5137a16e43608cc944cf87210",
+      "crc32": "151def82",
+      "sha1": "0dbfb2cb35fb4a33dfa054cc8b5f05323a6bfbce",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gizmodo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3f0c789efb546207d150154cfc39da64",
+      "md5": "8d5289f920fd7743f33835ad224749c6",
       "summation": "md5"
     },
     {
       "name": "gizmodo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664432462",
-      "size": "1126400",
-      "md5": "9dbde412e63fba1c555c3a37777d06d9",
-      "crc32": "b3fbe09f",
-      "sha1": "8636404d03b8943b121f3ad278b965d632105bde",
+      "mtime": "1664473827",
+      "size": "1130496",
+      "md5": "f6fa7b5593f44879e3d9c05b66d47e57",
+      "crc32": "6b5c5de8",
+      "sha1": "63c5bf40d7ec974be4931ec4c1244ed940a771f7",
       "format": "Metadata"
     },
     {
@@ -9586,17 +9637,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 921,
-  "gizmodo-2022": {
-    "url": "https://gizmodo.com/",
-    "job_id": "spn2-ea596fb02279d0a4d917ba298431795a9a7c212a",
-    "message": "Job failed.",
-    "resources": [],
-    "status": "error",
-    "status_ext": "error:job-failed"
-  },
-  "item_last_updated": 1664434116,
-  "item_size": 79357591,
+  "files_count": 926,
+  "item_last_updated": 1664473881,
+  "item_size": 79852801,
   "metadata": {
     "identifier": "gizmodo-2022",
     "collection": [
@@ -9613,10 +9656,21 @@
     "publicdate": "2022-07-04 20:17:36",
     "addeddate": "2022-07-04 20:17:36"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 1600054587,
+  "pending_tasks": true,
+  "server": "ia601501.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3422501306,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2070892847,
   "workable_servers": [
-    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

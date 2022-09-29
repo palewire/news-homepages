@@ -1,5 +1,5 @@
 {
-  "created": 1664433881,
+  "created": 1664473570,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/19/items/devilslakenews-2022",
@@ -1132,31 +1132,82 @@
       "sha1": "87119f08590bb9d2a29a180bfaa8003032f64ac2"
     },
     {
+      "name": "devilslakenews-2022-09-29T12:45:22.244950-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664473525",
+      "size": "22703",
+      "md5": "3f5eb7d7e9a5aaf900661398f62358bb",
+      "crc32": "fe102a4b",
+      "sha1": "9ac47385eddb959909ca75d5b46acb85a26fc63f",
+      "format": "JSON"
+    },
+    {
+      "name": "devilslakenews-2022-09-29T12:45:22.244950-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664473527",
+      "size": "29994",
+      "md5": "d9960ddfca5f84352156c9b898cbf3df",
+      "crc32": "a5244c2e",
+      "sha1": "f8f544e28b0eca6ea885f23025ebfdea2a7663a6",
+      "format": "JSON"
+    },
+    {
+      "name": "devilslakenews-2022-09-29T12:45:22.244950-05:00.jpg",
+      "source": "original",
+      "mtime": "1664473523",
+      "size": "232668",
+      "md5": "23e67a1a415775f13c84cfa552fe4213",
+      "crc32": "819aee8c",
+      "sha1": "cd463f588075388cfd5d15fbc413084ba907bf1c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "devilslakenews-2022-09-29T12:45:22.244950-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664473528",
+      "size": "1558",
+      "md5": "4931b0623c15dd17abe6929ea31c77f7",
+      "crc32": "c97c49af",
+      "sha1": "db722d8e3561f90f3843cf1b95576f486e9ac737",
+      "format": "JSON"
+    },
+    {
+      "name": "devilslakenews-2022-09-29T12:45:22.244950-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664473530",
+      "size": "81044",
+      "md5": "028ee823ffb5b092e7aea88c7972cc11",
+      "crc32": "784fe415",
+      "sha1": "2b7d2f8509e69d40d6713a5cd9daefac3a76bdc2",
+      "format": "JSON"
+    },
+    {
       "name": "devilslakenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6fc51eb9d9cfb1c3797f9bf585806a3fcd425f83",
-      "mtime": "1664433852",
-      "size": "25055",
-      "md5": "846b6a8ac33f1a663086645f3d016c16",
-      "crc32": "51e2cc05",
-      "sha1": "14dbddbfa504e50189bd4686271c939ac641ef8b",
+      "btih": "42b9219370454c662d392523c0792cbc6b0518e7",
+      "mtime": "1664473568",
+      "size": "26128",
+      "md5": "3da7c4c0a980dda7e01044d1e9c14d9d",
+      "crc32": "ec0f44f5",
+      "sha1": "6fe83905a730c684de934e8ece5da558a4c950b9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "devilslakenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e31fde32b3c0d73e84607570ec55ce7d",
+      "md5": "85a39f0a8e6d914087de4a9a85cb1232",
       "summation": "md5"
     },
     {
       "name": "devilslakenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664432081",
-      "size": "159744",
-      "md5": "c0fcc91ae5935d2093f5c6317ab369c5",
-      "crc32": "678ca89f",
-      "sha1": "0aaf6b173414c1b011d530dfd9f2f7c9ecac51f1",
+      "mtime": "1664473534",
+      "size": "167936",
+      "md5": "a5bb815e4b0d213cb05244be4b798756",
+      "crc32": "9ce82e56",
+      "sha1": "c08f49d8bb4fa9a3d9e9915c609d88eaba647c8c",
       "format": "Metadata"
     },
     {
@@ -1170,9 +1221,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 113,
-  "item_last_updated": 1664433852,
-  "item_size": 7447670,
+  "files_count": 118,
+  "item_last_updated": 1664473568,
+  "item_size": 7824902,
   "metadata": {
     "identifier": "devilslakenews-2022",
     "collection": [
@@ -1189,10 +1240,21 @@
     "publicdate": "2022-09-20 17:43:32",
     "addeddate": "2022-09-20 17:43:32"
   },
+  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "uniq": 1774984092,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3422497609,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1043042701,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia601501.us.archive.org"
   ]
 }

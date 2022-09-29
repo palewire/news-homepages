@@ -1,8 +1,13 @@
 {
-  "created": 1664434926,
+  "created": 1664478194,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/2/items/espn-2022",
+  "espn-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -9682,31 +9687,82 @@
       "sha1": "7cd4497abbd0180e38b3b67f85367bf65e68c8f7"
     },
     {
+      "name": "espn-2022-09-29T13:48:51.172667-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664473744",
+      "size": "37498",
+      "md5": "19561f54371bd58394ec51a56d39dd58",
+      "crc32": "86d3bd02",
+      "sha1": "73761c0b8544e2d052e1dc1dace0b58de54195c3",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-09-29T13:48:51.172667-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664473745",
+      "size": "115396",
+      "md5": "e94f3543e30a4b58ae9e7f5e5958b7f5",
+      "crc32": "d824b701",
+      "sha1": "ae807de033a9488a1a61dffa3024c7520b42e9fc",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-09-29T13:48:51.172667-04:00.jpg",
+      "source": "original",
+      "mtime": "1664473742",
+      "size": "361221",
+      "md5": "dd208c29af0f3af562de32cb16c1aca0",
+      "crc32": "cfcce91d",
+      "sha1": "9928cc31b82f8ce47b72373ec263fb9c9a533037",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "espn-2022-09-29T13:48:51.172667-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664473747",
+      "size": "1440",
+      "md5": "85415f59a3a5b03d3b066fc2c9f1bafb",
+      "crc32": "bc1cb836",
+      "sha1": "6dc868086bb09c2e08bf35a722fa91c5d30a6aab",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-09-29T13:48:51.172667-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664473748",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "espn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "046642cec269c16d3e0f5c4ae5f3542b562288d4",
-      "mtime": "1664434469",
-      "size": "195334",
-      "md5": "97b4ff201ecf88e892d7aeacd60a05c0",
-      "crc32": "0402ca5e",
-      "sha1": "ddecc8c52a8b7706f07404fa5e3bd4b6e69e2ce9",
+      "btih": "589bdcaefb4f388bea1978e2e25c9c9665b082fa",
+      "mtime": "1664473801",
+      "size": "196376",
+      "md5": "a6289c4371ccc7dbeb7419a36c337a22",
+      "crc32": "891827a9",
+      "sha1": "7f99bdda219835e9686b277d9ca05010b29579df",
       "format": "Archive BitTorrent"
     },
     {
       "name": "espn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "db5b13d4bdd91b9aa98d53196bbf158e",
+      "md5": "7c74ede0d5972bc9a08aff4b0e9054f9",
       "summation": "md5"
     },
     {
       "name": "espn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664432489",
-      "size": "1163264",
-      "md5": "0b24bd447bfabced1d275bf78479c9c8",
-      "crc32": "583ebd74",
-      "sha1": "4dc07985e4056d05e81f66f2d96ea74270c5c519",
+      "mtime": "1664473752",
+      "size": "1171456",
+      "md5": "5ac6a948eaf1b8eee1afe93b7784b207",
+      "crc32": "5658398d",
+      "sha1": "aac5e552f95dd4dec02751c2ea9179f1b0ffdbc8",
       "format": "Metadata"
     },
     {
@@ -9720,9 +9776,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 937,
-  "item_last_updated": 1664434469,
-  "item_size": 95315156,
+  "files_count": 942,
+  "item_last_updated": 1664473801,
+  "item_size": 95840147,
   "metadata": {
     "identifier": "espn-2022",
     "collection": [
@@ -9739,10 +9795,21 @@
     "publicdate": "2022-07-04 20:48:15",
     "addeddate": "2022-07-04 20:48:15"
   },
+  "pending_tasks": true,
   "server": "ia902503.us.archive.org",
-  "uniq": 471793145,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3422500367,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1679501963,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia902503.us.archive.org"
   ]
 }

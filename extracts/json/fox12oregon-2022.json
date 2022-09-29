@@ -1,5 +1,5 @@
 {
-  "created": 1664434286,
+  "created": 1664473844,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/35/items/fox12oregon-2022",
@@ -9618,31 +9618,82 @@
       "sha1": "55077a0f5e39aba70115415ef7c6504c0152eee1"
     },
     {
+      "name": "fox12oregon-2022-09-29T10:49:21.334020-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664473763",
+      "size": "35343",
+      "md5": "a2af8c351a741ff85047ebe3fac312c3",
+      "crc32": "f1b60a45",
+      "sha1": "29b18362054f12a34e8a8ee735d1b4322eaf3530",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-09-29T10:49:21.334020-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664473765",
+      "size": "21583",
+      "md5": "766c089021d34e9846ed28d6520f1496",
+      "crc32": "deb8939f",
+      "sha1": "d035685e0ccee5aaf9112a0d72633fe84c03d1e3",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-09-29T10:49:21.334020-07:00.jpg",
+      "source": "original",
+      "mtime": "1664473762",
+      "size": "381054",
+      "md5": "88342396b9b72bf9f3748c896c2e2fbe",
+      "crc32": "0dc97faa",
+      "sha1": "1eafa1b630f5b9ac09c7427c57a1d82db2a2a32e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox12oregon-2022-09-29T10:49:21.334020-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664473766",
+      "size": "1441",
+      "md5": "314ad1311bb2397d5d2f0aec9df5def1",
+      "crc32": "4d2870cf",
+      "sha1": "b75c7cc3a0c94ae26d59b5597c05bdbe94576bd2",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-09-29T10:49:21.334020-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664473767",
+      "size": "59020",
+      "md5": "826d5f944a07a8c39654e4c1005d6bb3",
+      "crc32": "1a72efe5",
+      "sha1": "e6ba8a241ee27fc071c957017a761c457f86e5ba",
+      "format": "JSON"
+    },
+    {
       "name": "fox12oregon-2022_archive.torrent",
       "source": "metadata",
-      "btih": "251229f02d89353a274089b46133c0ea607ac6a7",
-      "mtime": "1664434235",
-      "size": "200072",
-      "md5": "d4165da535d705d51e32038837f06f76",
-      "crc32": "e6efdee9",
-      "sha1": "efc7cf986b1c403099cb03c77a080d5cede07ae1",
+      "btih": "9fd28a72bdd14f922b36dcbfe05e3aa4ea53a216",
+      "mtime": "1664473833",
+      "size": "201150",
+      "md5": "95baceaad63113bd8ce8774299a687cc",
+      "crc32": "68dcdf9b",
+      "sha1": "15ca918cd84627de9b4aae6c48d81838cabbd02e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fox12oregon-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2076cb4cb2e76bb15dc221aa1c99fc2e",
+      "md5": "d3dae5bae22aa8060c6f8ca895168539",
       "summation": "md5"
     },
     {
       "name": "fox12oregon-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664432457",
-      "size": "1175552",
-      "md5": "e66b968a3586a61ebbd25c7805a402c5",
-      "crc32": "ca070aa6",
-      "sha1": "4ee77e00568fe6f9eeb1eee03841164b45f2d6c2",
+      "mtime": "1664473779",
+      "size": "1183744",
+      "md5": "174c317e24c7d84c3e847927cbb13e58",
+      "crc32": "916f5f79",
+      "sha1": "e49ef08705abecc2c2ffd281fd0fe1b8a9326106",
       "format": "Metadata"
     },
     {
@@ -9656,9 +9707,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 931,
-  "item_last_updated": 1664434235,
-  "item_size": 82774643,
+  "files_count": 936,
+  "item_last_updated": 1664473833,
+  "item_size": 83282354,
   "metadata": {
     "identifier": "fox12oregon-2022",
     "collection": [
@@ -9675,10 +9726,21 @@
     "publicdate": "2022-07-04 21:52:58",
     "addeddate": "2022-07-04 21:52:58"
   },
+  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "uniq": 1672326643,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3422500842,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1596713419,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia601403.us.archive.org"
   ]
 }

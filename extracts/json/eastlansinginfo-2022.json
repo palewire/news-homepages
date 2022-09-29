@@ -1,5 +1,5 @@
 {
-  "created": 1664433960,
+  "created": 1664473629,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/11/items/eastlansinginfo-2022",
@@ -9314,31 +9314,82 @@
       "sha1": "e45570315fae7d5e9de2b0a35617bc535b43e8e8"
     },
     {
+      "name": "eastlansinginfo-2022-09-29T13:46:07.737296-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664473574",
+      "size": "20684",
+      "md5": "eaa8679e834e5742a1e1e18675918473",
+      "crc32": "a5dabb5a",
+      "sha1": "26a0b80ed716a722fa21375245e52cdeb17d64b4",
+      "format": "JSON"
+    },
+    {
+      "name": "eastlansinginfo-2022-09-29T13:46:07.737296-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664473576",
+      "size": "14085",
+      "md5": "b5a038dfe6329081ded81f6f2e1ad205",
+      "crc32": "cc0ce40a",
+      "sha1": "556d4873cb6c1d4109c66c42ed890cebd47a962e",
+      "format": "JSON"
+    },
+    {
+      "name": "eastlansinginfo-2022-09-29T13:46:07.737296-04:00.jpg",
+      "source": "original",
+      "mtime": "1664473573",
+      "size": "273452",
+      "md5": "7a3e86328b336e072d825dda749de5a1",
+      "crc32": "d47ac41d",
+      "sha1": "1e0ac2a07d167b0d5eeed9337147fe407fdfb9c9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eastlansinginfo-2022-09-29T13:46:07.737296-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664473578",
+      "size": "1508",
+      "md5": "09b25e45fb87650689eaa2198c3dfeb3",
+      "crc32": "8bf0536d",
+      "sha1": "b7319a6fc9a0cb6668204de280f7992ae8f40c0d",
+      "format": "JSON"
+    },
+    {
+      "name": "eastlansinginfo-2022-09-29T13:46:07.737296-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664473579",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "eastlansinginfo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "13ae0c91a534c76592f7c2b2abbd53d021206018",
-      "mtime": "1664433923",
-      "size": "196222",
-      "md5": "6322c091ca7ba796f99fdb721337f0d5",
-      "crc32": "268971b1",
-      "sha1": "eb5a9362179051b794daa3c06913f021c9f58fcc",
+      "btih": "b6ee88e677bf5cca7a8ae7e7aa720338b7f728c8",
+      "mtime": "1664473626",
+      "size": "197318",
+      "md5": "f864fadc4357cba3c949ee202638a74a",
+      "crc32": "173579ea",
+      "sha1": "962536d6d842f80bd5124bc7431b21e5e8fbb2fe",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eastlansinginfo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3f686c1507076852120cf122b4666431",
+      "md5": "1367b19e92f6cfe96464086132315aea",
       "summation": "md5"
     },
     {
       "name": "eastlansinginfo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664432090",
-      "size": "1146880",
-      "md5": "01023f2097c957b318566275728532e0",
-      "crc32": "d909458e",
-      "sha1": "32ae066aeaf9de3b3aad91635acdc7be57e24bf1",
+      "mtime": "1664473583",
+      "size": "1150976",
+      "md5": "7f8d19589e81e17e3428aae340c61421",
+      "crc32": "14853eb3",
+      "sha1": "0d1b1d429a9abde921f1e52dda423a35a2ce0cc0",
       "format": "Metadata"
     },
     {
@@ -9352,9 +9403,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 902,
-  "item_last_updated": 1664433923,
-  "item_size": 53906534,
+  "files_count": 907,
+  "item_last_updated": 1664473626,
+  "item_size": 54221657,
   "metadata": {
     "identifier": "eastlansinginfo-2022",
     "collection": [
@@ -9371,10 +9422,21 @@
     "publicdate": "2022-07-09 03:58:21",
     "addeddate": "2022-07-09 03:58:21"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 64929374,
+  "pending_tasks": true,
+  "server": "ia902505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3422498568,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 15599956,
   "workable_servers": [
-    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1664434380,
+  "created": 1664473886,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/2/items/gatewaypundit-2022",
@@ -14272,31 +14272,82 @@
       "sha1": "b612b79e9d6c67735a40f85607aeedec769ac272"
     },
     {
+      "name": "gatewaypundit-2022-09-29T12:48:45.089187-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664473748",
+      "size": "34408",
+      "md5": "9d6f7c3bcc1be5490ca6580d0e6878ca",
+      "crc32": "7cb7fe9f",
+      "sha1": "d6288b5f8720edfe01427217d86c86f12c3ab0cb",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-09-29T12:48:45.089187-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664473749",
+      "size": "74861",
+      "md5": "2aeb32860df5ed1bd3a1b4f725333d29",
+      "crc32": "6b8daa6d",
+      "sha1": "f01a17b901c74edf77f6df8448e3d03b423bedcb",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-09-29T12:48:45.089187-05:00.jpg",
+      "source": "original",
+      "mtime": "1664473746",
+      "size": "333688",
+      "md5": "f5222404018a0079597681a2d01f270a",
+      "crc32": "31c828c8",
+      "sha1": "2534e653b7fb81b46ba1766a313b2ef9346f2922",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gatewaypundit-2022-09-29T12:48:45.089187-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664473750",
+      "size": "1549",
+      "md5": "72ffe56fb1178e3a429908faba3ab54d",
+      "crc32": "04992cf8",
+      "sha1": "c31b1700eee94349e0a8c7fe63c3b357a5bdb51c",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-09-29T12:48:45.089187-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664473752",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "gatewaypundit-2022_archive.torrent",
       "source": "metadata",
-      "btih": "337e2ce725f365d00c10b8267fd6d2e2d910651e",
-      "mtime": "1664434254",
-      "size": "298691",
-      "md5": "f250da0684f468e6cb0b8b24b7a8694e",
-      "crc32": "5b610c72",
-      "sha1": "d4c6246357ee59d0d72c32394d3bdfea18628683",
+      "btih": "7d6e265f02fd7e469448ec6753974b1adf9ce5d3",
+      "mtime": "1664473863",
+      "size": "299777",
+      "md5": "63d5ecf733df67952fe1454c6e3f40f0",
+      "crc32": "1bc6a329",
+      "sha1": "33f94d8dfdf18ec7522cc328cfb03a2337641ce6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gatewaypundit-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cd7ce47d7fade0f8953aa9662919bf66",
+      "md5": "12157d03eb324289a849e10052c88240",
       "summation": "md5"
     },
     {
       "name": "gatewaypundit-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664432497",
-      "size": "1724416",
-      "md5": "74d7602a88ca416c29df9948f61253ec",
-      "crc32": "7ca94c40",
-      "sha1": "24b9dc7e412d02a901909a604b43013a8981850e",
+      "mtime": "1664473778",
+      "size": "1732608",
+      "md5": "bdb93339586aed61a56b9248a8b7dada",
+      "crc32": "5167f0ae",
+      "sha1": "5390e12b2531650d280f6f2424d18256f56f54a5",
       "format": "Metadata"
     },
     {
@@ -14310,9 +14361,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1379,
-  "item_last_updated": 1664434254,
-  "item_size": 122136193,
+  "files_count": 1384,
+  "item_last_updated": 1664473863,
+  "item_size": 122590179,
   "metadata": {
     "identifier": "gatewaypundit-2022",
     "collection": [
@@ -14329,10 +14380,21 @@
     "publicdate": "2022-07-02 15:24:15",
     "addeddate": "2022-07-02 15:24:15"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 536651519,
+  "pending_tasks": true,
+  "server": "ia601500.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3422501373,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1615798677,
   "workable_servers": [
-    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

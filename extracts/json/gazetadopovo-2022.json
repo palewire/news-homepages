@@ -1,5 +1,5 @@
 {
-  "created": 1664453109,
+  "created": 1664473911,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/4/items/gazetadopovo-2022",
@@ -9691,31 +9691,83 @@
       "format": "JSON"
     },
     {
+      "name": "gazetadopovo-2022-09-29T09:01:24.777843-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gazetadopovo-2022-09-29T09:01:24.777843-03:00.jpg",
+      "mtime": "1664456255",
+      "size": "9459",
+      "md5": "7a9856b08dc025e9933cf44c4c21de39",
+      "crc32": "b8bdbae0",
+      "sha1": "bdd3033859dd1bdce292d9c0d7c33c7596f4ebca"
+    },
+    {
+      "name": "gazetadopovo-2022-09-29T14:50:01.423383-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664473805",
+      "size": "66813",
+      "md5": "f0936668c25590595cd9922776f04c9a",
+      "crc32": "2df28814",
+      "sha1": "038b23e5f59d795f75f18e6e1d44adee4f88a71c",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetadopovo-2022-09-29T14:50:01.423383-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664473807",
+      "size": "93951",
+      "md5": "fec3b79ad402828fb2caf71f20c3eafa",
+      "crc32": "7591915a",
+      "sha1": "e2f9c49b3d0927c600a0c1fbe8ada6f223a763ef",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetadopovo-2022-09-29T14:50:01.423383-03:00.jpg",
+      "source": "original",
+      "mtime": "1664473803",
+      "size": "275413",
+      "md5": "d16934eedbbfb4d4de18ee7e710cd0f6",
+      "crc32": "b54695a1",
+      "sha1": "9c193bc9a4338ded399f161ba9f78e78512661c5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gazetadopovo-2022-09-29T14:50:01.423383-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664473810",
+      "size": "1539",
+      "md5": "07c826386d969d93a5f7c3c8d6206a2f",
+      "crc32": "0e95c190",
+      "sha1": "fccdf92b3d0a7eea927ade8cdfaed403a59115cc",
+      "format": "JSON"
+    },
+    {
       "name": "gazetadopovo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c4812a0e0a0c9dc2f752950b21e28b26692bf5a1",
-      "mtime": "1664453090",
-      "size": "203003",
-      "md5": "b8a6eb5117196085c821b4b935b80b7c",
-      "crc32": "47aaf6cc",
-      "sha1": "bfe7d17c2e74fb2b9f562028a1c7d0bdfd3bd2a8",
+      "btih": "af6e5f515abaf62d35de5213722de44658d80575",
+      "mtime": "1664473898",
+      "size": "204082",
+      "md5": "9822191faf51345bf4d42d423b4ab5ab",
+      "crc32": "6bf9683e",
+      "sha1": "14a9720b30bf0fdd58dc6335fa5c037cac9f587a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gazetadopovo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "efde1294d1def775551714576136979a",
+      "md5": "d157dd45ae72495be1b7456dc95935e8",
       "summation": "md5"
     },
     {
       "name": "gazetadopovo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664453021",
-      "size": "1208320",
-      "md5": "d35a52ba6dc2266eadc091569a972cd0",
-      "crc32": "97c4e79f",
-      "sha1": "4e41712138150bcc78afb108f9d1247bab87db14",
+      "mtime": "1664473825",
+      "size": "1216512",
+      "md5": "545c07c4f9a5ca290054eddcbb4b0f48",
+      "crc32": "76b932a2",
+      "sha1": "ec204929afc6dd6be7c78431fa05e8eedc896d81",
       "format": "Metadata"
     },
     {
@@ -9729,9 +9781,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 941,
-  "item_last_updated": 1664453090,
-  "item_size": 80093638,
+  "files_count": 946,
+  "item_last_updated": 1664473898,
+  "item_size": 80550084,
   "metadata": {
     "identifier": "gazetadopovo-2022",
     "collection": [
@@ -9753,7 +9805,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3422240817,
+      "task_id": 3422501559,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9761,7 +9813,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1011522096,
+  "uniq": 1737938718,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]

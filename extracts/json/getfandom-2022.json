@@ -1,5 +1,5 @@
 {
-  "created": 1664434915,
+  "created": 1664473996,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/35/items/getfandom-2022",
@@ -8496,31 +8496,82 @@
       "sha1": "8b0badeefa6f5a15aab8325353f63a6e1296c27e"
     },
     {
+      "name": "getfandom-2022-09-29T10:51:14.817183-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664473877",
+      "size": "15064",
+      "md5": "6101e162153aaf1821263a3094c39b44",
+      "crc32": "b7cfcc8a",
+      "sha1": "f49b8a6b43a95fbc17069d61d26d69e87090a8f3",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-09-29T10:51:14.817183-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664473879",
+      "size": "23660",
+      "md5": "4c4c87eda4ba545502c186b9bd401f34",
+      "crc32": "b1684a17",
+      "sha1": "7acd80fd40d3dff640d3850786b3007126cae632",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-09-29T10:51:14.817183-07:00.jpg",
+      "source": "original",
+      "mtime": "1664473876",
+      "size": "283296",
+      "md5": "98d3d4f6bcaa66f57b44664a22f3c667",
+      "crc32": "13e8ef3c",
+      "sha1": "e37bf81a1c9444b8974677e15612682edc475c23",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "getfandom-2022-09-29T10:51:14.817183-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664473880",
+      "size": "1456",
+      "md5": "7bfd4cb0ec1276bf4adfe88a0ebf9f09",
+      "crc32": "bf3b824b",
+      "sha1": "8551a8af3178c8d658bc9bc4e7c42921a34835ec",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-09-29T10:51:14.817183-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664473882",
+      "size": "36608",
+      "md5": "fa5176ea13025f79ebf12b9a7034a27f",
+      "crc32": "456608c8",
+      "sha1": "caa9e7e2d01aad739eb1e324ccd343de8fca6bd5",
+      "format": "JSON"
+    },
+    {
       "name": "getfandom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "51940bfd43eb53923dc7718e3e9ed2447d0ca66f",
-      "mtime": "1664434270",
-      "size": "174741",
-      "md5": "e61daa43d466bf90b938aa3eea237b52",
-      "crc32": "84a0c45e",
-      "sha1": "e67fb6caa5e372ff8f1406901733ca6a431b2cdf",
+      "btih": "d5f413e8e880c75dd90469cac66586ec9023d654",
+      "mtime": "1664473984",
+      "size": "175809",
+      "md5": "2bb875b14400768d6f6e02cc803e7861",
+      "crc32": "8e4dd496",
+      "sha1": "8b359c6285862e11011fcfc0b0819915c670d179",
       "format": "Archive BitTorrent"
     },
     {
       "name": "getfandom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9076b943f11802f1bb72012c3e4898d6",
+      "md5": "5ef83ad983ee9111fba8a6e059d40594",
       "summation": "md5"
     },
     {
       "name": "getfandom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664432472",
-      "size": "1044480",
-      "md5": "63d09e85543f65790881b41d4a2156f5",
-      "crc32": "e31a87d3",
-      "sha1": "bc8f44ee3d9a93d5fa45ad5c62b53fe86f8c6171",
+      "mtime": "1664473910",
+      "size": "1056768",
+      "md5": "33c0b743a2443c368302d67104384e83",
+      "crc32": "497b960a",
+      "sha1": "4dee96bf4d4f3e1cc56e8c5c99253ed624afba5d",
       "format": "Metadata"
     },
     {
@@ -8534,9 +8585,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 824,
-  "item_last_updated": 1664434270,
-  "item_size": 53883034,
+  "files_count": 829,
+  "item_last_updated": 1664473984,
+  "item_size": 54256474,
   "metadata": {
     "identifier": "getfandom-2022",
     "collection": [
@@ -8553,10 +8604,21 @@
     "publicdate": "2022-07-18 02:22:01",
     "addeddate": "2022-07-18 02:22:01"
   },
+  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "uniq": 1476895598,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3422502332,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 459493541,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia601500.us.archive.org"
   ]
 }

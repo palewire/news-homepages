@@ -1,8 +1,13 @@
 {
-  "created": 1664435470,
+  "created": 1664478121,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/29/items/elpaisuy-2022",
+  "elpaisuy-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -9294,31 +9299,82 @@
       "sha1": "069f28b094f38ffece6b8b83739d1736e6f53677"
     },
     {
+      "name": "elpaisuy-2022-09-29T14:48:03.851181-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664473692",
+      "size": "48082",
+      "md5": "d9133de6d27a22d1e5f857eee9851ba0",
+      "crc32": "3fa4c053",
+      "sha1": "1f0e2a08eb627ce4534a91ab7562a9d261ea85a5",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-09-29T14:48:03.851181-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664473694",
+      "size": "87996",
+      "md5": "2f7b7e36a62a3b66273c18eb71d52313",
+      "crc32": "a2bba475",
+      "sha1": "a17f60b2bd24160990ac5e322046f806c793eff0",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-09-29T14:48:03.851181-03:00.jpg",
+      "source": "original",
+      "mtime": "1664473691",
+      "size": "300283",
+      "md5": "2bfdf57ae2a0fe28c44d8d41ac4bccad",
+      "crc32": "ce219a8d",
+      "sha1": "f22c4afba5f9245eb41173b87619675c5a8332e2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elpaisuy-2022-09-29T14:48:03.851181-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664473696",
+      "size": "1483",
+      "md5": "542c28a78071871a788702f3f74bc6f4",
+      "crc32": "0fa7742d",
+      "sha1": "d3e775f7a9ef8f95c641198c269a4747c0c859f9",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-09-29T14:48:03.851181-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664473698",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "elpaisuy-2022_archive.torrent",
       "source": "metadata",
-      "btih": "29c0fde815df6b11340dbe7e3c6c24f2a8abfcab",
-      "mtime": "1664434950",
-      "size": "190431",
-      "md5": "0c514bfda0bc792439baeb25966a804e",
-      "crc32": "9af7f4f4",
-      "sha1": "d0e25487714a20955a62d93d16d1f1975e2cb877",
+      "btih": "ad25c761f9fa1965d80b98f716833ad7e2d8c311",
+      "mtime": "1664473755",
+      "size": "191492",
+      "md5": "fe1acf30719790e4974578fa51e259a2",
+      "crc32": "cbc73062",
+      "sha1": "d3bebec1024428d03ec51464dc648245e87316b6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elpaisuy-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "264ec87de68ec2253e37258316e47b6d",
+      "md5": "6823cfc0925e84e2fde47998d686975a",
       "summation": "md5"
     },
     {
       "name": "elpaisuy-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664432119",
-      "size": "1130496",
-      "md5": "f5bca38b7fd386a9972d81eeaffe71d4",
-      "crc32": "d7203a2c",
-      "sha1": "e7fd2242f3eb945133408e705b6af169214278a8",
+      "mtime": "1664473704",
+      "size": "1138688",
+      "md5": "e023944f865a04c27d63e1e3e95a035f",
+      "crc32": "50e94c4a",
+      "sha1": "377892d4bd111de74fc6c50156800255339ffc95",
       "format": "Metadata"
     },
     {
@@ -9332,9 +9388,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 900,
-  "item_last_updated": 1664434950,
-  "item_size": 74624446,
+  "files_count": 905,
+  "item_last_updated": 1664473755,
+  "item_size": 75071745,
   "metadata": {
     "identifier": "elpaisuy-2022",
     "collection": [
@@ -9351,10 +9407,21 @@
     "publicdate": "2022-07-09 03:58:10",
     "addeddate": "2022-07-09 03:58:10"
   },
+  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "uniq": 2080914119,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3422499958,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1869814811,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia601401.us.archive.org"
   ]
 }
