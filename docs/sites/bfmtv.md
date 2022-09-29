@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 196 screenshots with the Internet Archive.
+The archiving routine has saved 198 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,6 +120,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-09-29T12:53:17.143885+02:00.jpg">
+  <img src="https://archive.org/download/bfmtv-2022/bfmtv-2022-09-29T12:53:17.143885+02:00.jpg"
+     alt="BFMTV at 2022-09-29 12:53:23+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-09-29T12:53:17.143885+02:00.jpg">September 29 at 12:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-09-29T10:19:22.292224+02:00.jpg">
+  <img src="https://archive.org/download/bfmtv-2022/bfmtv-2022-09-29T10:19:22.292224+02:00.jpg"
+     alt="BFMTV at 2022-09-29 10:19:31+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-09-29T10:19:22.292224+02:00.jpg">September 29 at 10:19 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-09-29T00:55:02.212981+02:00.jpg">
   <img src="https://archive.org/download/bfmtv-2022/bfmtv-2022-09-29T00:55:02.212981+02:00.jpg"
      alt="BFMTV at 2022-09-29 00:55:08+02:00 local time"
@@ -209,29 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-09-26T00:42:35.423974+02:00.jpg">September 26 at 12:42 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-09-25T12:42:30.307337+02:00.jpg">
-  <img src="https://archive.org/download/bfmtv-2022/bfmtv-2022-09-25T12:42:30.307337+02:00.jpg"
-     alt="BFMTV at 2022-09-25 12:42:31+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-09-25T12:42:30.307337+02:00.jpg">September 25 at 12:42 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-09-25T10:15:03.693707+02:00.jpg">
-  <img src="https://archive.org/download/bfmtv-2022/bfmtv-2022-09-25T10:15:03.693707+02:00.jpg"
-     alt="BFMTV at 2022-09-25 10:15:27+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-09-25T10:15:03.693707+02:00.jpg">September 25 at 10:15 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 196 hyperlink lists with the Internet Archive.
+The archiving routine has saved 198 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 12:53 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-29T12:53:17.143885+02:00.hyperlinks.json) |
+| [September 29 at 10:19 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-29T10:19:22.292224+02:00.hyperlinks.json) |
 | [September 29 at 12:55 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-29T00:55:02.212981+02:00.hyperlinks.json) |
 | [September 28 at 1:04 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-28T13:04:39.176917+02:00.hyperlinks.json) |
 | [September 28 at 10:19 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-28T10:19:30.811594+02:00.hyperlinks.json) |
@@ -330,13 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 10:21 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-27T10:20:56.113658+02:00.hyperlinks.json) |
 | [September 27 at 12:53 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-27T00:52:59.258366+02:00.hyperlinks.json) |
 | [September 26 at 12:55 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-26T12:54:40.329094+02:00.hyperlinks.json) |
-| [September 26 at 10:18 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-26T10:18:08.842321+02:00.hyperlinks.json) |
-| [September 26 at 12:42 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-26T00:42:35.423974+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 196 accessibility trees with the Internet Archive.
+The archiving routine has saved 198 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 12:53 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-29T12:53:17.143885+02:00.accessibility.json) |
+| [September 29 at 10:19 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-29T10:19:22.292224+02:00.accessibility.json) |
 | [September 29 at 12:55 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-29T00:55:02.212981+02:00.accessibility.json) |
 | [September 28 at 1:04 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-28T13:04:39.176917+02:00.accessibility.json) |
 | [September 28 at 10:19 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-28T10:19:30.811594+02:00.accessibility.json) |
@@ -435,14 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 10:21 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-27T10:20:56.113658+02:00.accessibility.json) |
 | [September 27 at 12:53 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-27T00:52:59.258366+02:00.accessibility.json) |
 | [September 26 at 12:55 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-26T12:54:40.329094+02:00.accessibility.json) |
-| [September 26 at 10:18 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-26T10:18:08.842321+02:00.accessibility.json) |
-| [September 26 at 12:42 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-26T00:42:35.423974+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 196 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 198 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 12:53 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-29T12:53:17.143885+02:00.lighthouse.json) |
+| [September 29 at 10:19 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-29T10:19:22.292224+02:00.lighthouse.json) |
 | [September 29 at 12:55 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-29T00:55:02.212981+02:00.lighthouse.json) |
 | [September 28 at 1:04 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-28T13:04:39.176917+02:00.lighthouse.json) |
 | [September 28 at 10:19 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-28T10:19:30.811594+02:00.lighthouse.json) |
@@ -541,8 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 10:21 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-27T10:20:56.113658+02:00.lighthouse.json) |
 | [September 27 at 12:53 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-27T00:52:59.258366+02:00.lighthouse.json) |
 | [September 26 at 12:55 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-26T12:54:40.329094+02:00.lighthouse.json) |
-| [September 26 at 10:18 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-26T10:18:08.842321+02:00.lighthouse.json) |
-| [September 26 at 12:42 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-09-26T00:42:35.423974+02:00.lighthouse.json) |
 
 
 

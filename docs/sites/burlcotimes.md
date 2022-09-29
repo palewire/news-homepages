@@ -28,13 +28,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 18 screenshots with the Internet Archive.
+The archiving routine has saved 19 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-29T06:55:45.163350-04:00.jpg">
+  <img src="https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-29T06:55:45.163350-04:00.jpg"
+     alt="Burlington County Times at 2022-09-29 06:55:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-29T06:55:45.163350-04:00.jpg">September 29 at 6:55 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-28T18:58:02.060451-04:00.jpg">
@@ -135,20 +144,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-23T19:55:13.908746-04:00.jpg">September 23 at 7:55 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-23T06:52:59.486144-04:00.jpg">
-  <img src="https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-23T06:52:59.486144-04:00.jpg"
-     alt="Burlington County Times at 2022-09-23 06:53:01-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-23T06:52:59.486144-04:00.jpg">September 23 at 6:53 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 18 hyperlink lists with the Internet Archive.
+The archiving routine has saved 19 hyperlink lists with the Internet Archive.
 
 
 
@@ -156,6 +156,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 6:55 AM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-29T06:55:45.163350-04:00.hyperlinks.json) |
 | [September 28 at 6:58 PM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-28T18:58:02.060451-04:00.hyperlinks.json) |
 | [September 28 at 7:07 AM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-28T07:07:23.589395-04:00.hyperlinks.json) |
 | [September 27 at 6:57 PM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-27T18:57:49.071940-04:00.hyperlinks.json) |
@@ -165,12 +166,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 6:44 PM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-25T18:44:21.330216-04:00.hyperlinks.json) |
 | [September 25 at 6:43 AM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-25T06:43:49.501664-04:00.hyperlinks.json) |
 | [September 24 at 6:44 PM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-24T18:44:25.521299-04:00.hyperlinks.json) |
-| [September 24 at 6:46 AM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-24T06:46:13.326608-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 18 accessibility trees with the Internet Archive.
+The archiving routine has saved 19 accessibility trees with the Internet Archive.
 
 
 
@@ -178,6 +178,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 6:55 AM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-29T06:55:45.163350-04:00.accessibility.json) |
 | [September 28 at 6:58 PM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-28T18:58:02.060451-04:00.accessibility.json) |
 | [September 28 at 7:07 AM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-28T07:07:23.589395-04:00.accessibility.json) |
 | [September 27 at 6:57 PM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-27T18:57:49.071940-04:00.accessibility.json) |
@@ -187,13 +188,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 6:44 PM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-25T18:44:21.330216-04:00.accessibility.json) |
 | [September 25 at 6:43 AM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-25T06:43:49.501664-04:00.accessibility.json) |
 | [September 24 at 6:44 PM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-24T18:44:25.521299-04:00.accessibility.json) |
-| [September 24 at 6:46 AM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-24T06:46:13.326608-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
 
 
 
@@ -201,6 +201,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 6:55 AM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-29T06:55:45.163350-04:00.lighthouse.json) |
 | [September 28 at 6:58 PM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-28T18:58:02.060451-04:00.lighthouse.json) |
 | [September 28 at 7:07 AM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-28T07:07:23.589395-04:00.lighthouse.json) |
 | [September 27 at 6:57 PM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-27T18:57:49.071940-04:00.lighthouse.json) |
@@ -210,7 +211,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 6:44 PM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-25T18:44:21.330216-04:00.lighthouse.json) |
 | [September 25 at 6:43 AM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-25T06:43:49.501664-04:00.lighthouse.json) |
 | [September 24 at 6:44 PM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-24T18:44:25.521299-04:00.lighthouse.json) |
-| [September 24 at 6:46 AM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-09-24T06:46:13.326608-04:00.lighthouse.json) |
 
 
 

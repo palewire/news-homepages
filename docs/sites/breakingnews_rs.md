@@ -28,13 +28,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 18 screenshots with the Internet Archive.
+The archiving routine has saved 19 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-29T03:55:50.208588-07:00.jpg">
+  <img src="https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-29T03:55:50.208588-07:00.jpg"
+     alt="Redding Record Searchlight at 2022-09-29 03:55:52-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-29T03:55:50.208588-07:00.jpg">September 29 at 3:55 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-28T15:56:58.289485-07:00.jpg">
@@ -135,20 +144,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-23T16:52:19.068130-07:00.jpg">September 23 at 4:52 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-23T03:50:50.172357-07:00.jpg">
-  <img src="https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-23T03:50:50.172357-07:00.jpg"
-     alt="Redding Record Searchlight at 2022-09-23 03:50:52-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-23T03:50:50.172357-07:00.jpg">September 23 at 3:50 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 18 hyperlink lists with the Internet Archive.
+The archiving routine has saved 19 hyperlink lists with the Internet Archive.
 
 
 
@@ -156,6 +156,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 3:55 AM](https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-29T03:55:50.208588-07:00.hyperlinks.json) |
 | [September 28 at 3:57 PM](https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-28T15:56:58.289485-07:00.hyperlinks.json) |
 | [September 28 at 4:07 AM](https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-28T04:07:02.279154-07:00.hyperlinks.json) |
 | [September 27 at 3:58 PM](https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-27T15:58:15.320661-07:00.hyperlinks.json) |
@@ -165,12 +166,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 3:44 PM](https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-25T15:44:53.155120-07:00.hyperlinks.json) |
 | [September 25 at 3:43 AM](https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-25T03:43:54.637882-07:00.hyperlinks.json) |
 | [September 24 at 3:43 PM](https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-24T15:43:21.128519-07:00.hyperlinks.json) |
-| [September 24 at 3:46 AM](https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-24T03:46:54.985358-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 18 accessibility trees with the Internet Archive.
+The archiving routine has saved 19 accessibility trees with the Internet Archive.
 
 
 
@@ -178,6 +178,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 3:55 AM](https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-29T03:55:50.208588-07:00.accessibility.json) |
 | [September 28 at 3:57 PM](https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-28T15:56:58.289485-07:00.accessibility.json) |
 | [September 28 at 4:07 AM](https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-28T04:07:02.279154-07:00.accessibility.json) |
 | [September 27 at 3:58 PM](https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-27T15:58:15.320661-07:00.accessibility.json) |
@@ -187,13 +188,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 3:44 PM](https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-25T15:44:53.155120-07:00.accessibility.json) |
 | [September 25 at 3:43 AM](https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-25T03:43:54.637882-07:00.accessibility.json) |
 | [September 24 at 3:43 PM](https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-24T15:43:21.128519-07:00.accessibility.json) |
-| [September 24 at 3:46 AM](https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-24T03:46:54.985358-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
 
 
 
@@ -201,6 +201,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 3:55 AM](https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-29T03:55:50.208588-07:00.lighthouse.json) |
 | [September 28 at 3:57 PM](https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-28T15:56:58.289485-07:00.lighthouse.json) |
 | [September 28 at 4:07 AM](https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-28T04:07:02.279154-07:00.lighthouse.json) |
 | [September 27 at 3:58 PM](https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-27T15:58:15.320661-07:00.lighthouse.json) |
@@ -210,7 +211,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 3:45 PM](https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-25T15:44:53.155120-07:00.lighthouse.json) |
 | [September 25 at 3:44 AM](https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-25T03:43:54.637882-07:00.lighthouse.json) |
 | [September 24 at 3:43 PM](https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-24T15:43:21.128519-07:00.lighthouse.json) |
-| [September 24 at 3:47 AM](https://archive.org/download/breakingnews_rs-2022/breakingnews_rs-2022-09-24T03:46:54.985358-07:00.lighthouse.json) |
 
 
 
