@@ -28,13 +28,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 17 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/recordnet-2022/recordnet-2022-09-28T19:23:27.327934-07:00.jpg">
+  <img src="https://archive.org/download/recordnet-2022/recordnet-2022-09-28T19:23:27.327934-07:00.jpg"
+     alt="Stockton Record at 2022-09-28 19:23:30-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/recordnet-2022/recordnet-2022-09-28T19:23:27.327934-07:00.jpg">September 28 at 7:23 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/recordnet-2022/recordnet-2022-09-28T07:05:00.440558-07:00.jpg">
@@ -135,20 +144,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/recordnet-2022/recordnet-2022-09-23T07:07:06.820394-07:00.jpg">September 23 at 7:07 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/recordnet-2022/recordnet-2022-09-22T19:22:13.947046-07:00.jpg">
-  <img src="https://archive.org/download/recordnet-2022/recordnet-2022-09-22T19:22:13.947046-07:00.jpg"
-     alt="Stockton Record at 2022-09-22 19:22:15-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/recordnet-2022/recordnet-2022-09-22T19:22:13.947046-07:00.jpg">September 22 at 7:22 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 16 hyperlink lists with the Internet Archive.
+The archiving routine has saved 17 hyperlink lists with the Internet Archive.
 
 
 
@@ -156,6 +156,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 7:23 PM](https://archive.org/download/recordnet-2022/recordnet-2022-09-28T19:23:27.327934-07:00.hyperlinks.json) |
 | [September 28 at 7:05 AM](https://archive.org/download/recordnet-2022/recordnet-2022-09-28T07:05:00.440558-07:00.hyperlinks.json) |
 | [September 27 at 7:30 PM](https://archive.org/download/recordnet-2022/recordnet-2022-09-27T19:30:31.231411-07:00.hyperlinks.json) |
 | [September 27 at 7:11 AM](https://archive.org/download/recordnet-2022/recordnet-2022-09-27T07:11:05.566337-07:00.hyperlinks.json) |
@@ -165,12 +166,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 6:54 AM](https://archive.org/download/recordnet-2022/recordnet-2022-09-25T06:54:44.664298-07:00.hyperlinks.json) |
 | [September 24 at 7:13 PM](https://archive.org/download/recordnet-2022/recordnet-2022-09-24T19:13:37.888001-07:00.hyperlinks.json) |
 | [September 24 at 6:57 AM](https://archive.org/download/recordnet-2022/recordnet-2022-09-24T06:57:06.460842-07:00.hyperlinks.json) |
-| [September 23 at 7:18 PM](https://archive.org/download/recordnet-2022/recordnet-2022-09-23T19:18:52.063126-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 16 accessibility trees with the Internet Archive.
+The archiving routine has saved 17 accessibility trees with the Internet Archive.
 
 
 
@@ -178,6 +178,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 7:23 PM](https://archive.org/download/recordnet-2022/recordnet-2022-09-28T19:23:27.327934-07:00.accessibility.json) |
 | [September 28 at 7:05 AM](https://archive.org/download/recordnet-2022/recordnet-2022-09-28T07:05:00.440558-07:00.accessibility.json) |
 | [September 27 at 7:30 PM](https://archive.org/download/recordnet-2022/recordnet-2022-09-27T19:30:31.231411-07:00.accessibility.json) |
 | [September 27 at 7:11 AM](https://archive.org/download/recordnet-2022/recordnet-2022-09-27T07:11:05.566337-07:00.accessibility.json) |
@@ -187,13 +188,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 6:54 AM](https://archive.org/download/recordnet-2022/recordnet-2022-09-25T06:54:44.664298-07:00.accessibility.json) |
 | [September 24 at 7:13 PM](https://archive.org/download/recordnet-2022/recordnet-2022-09-24T19:13:37.888001-07:00.accessibility.json) |
 | [September 24 at 6:57 AM](https://archive.org/download/recordnet-2022/recordnet-2022-09-24T06:57:06.460842-07:00.accessibility.json) |
-| [September 23 at 7:18 PM](https://archive.org/download/recordnet-2022/recordnet-2022-09-23T19:18:52.063126-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
 
 
 
@@ -201,6 +201,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 7:23 PM](https://archive.org/download/recordnet-2022/recordnet-2022-09-28T19:23:27.327934-07:00.lighthouse.json) |
 | [September 28 at 7:05 AM](https://archive.org/download/recordnet-2022/recordnet-2022-09-28T07:05:00.440558-07:00.lighthouse.json) |
 | [September 27 at 7:30 PM](https://archive.org/download/recordnet-2022/recordnet-2022-09-27T19:30:31.231411-07:00.lighthouse.json) |
 | [September 27 at 7:11 AM](https://archive.org/download/recordnet-2022/recordnet-2022-09-27T07:11:05.566337-07:00.lighthouse.json) |
@@ -210,7 +211,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 6:54 AM](https://archive.org/download/recordnet-2022/recordnet-2022-09-25T06:54:44.664298-07:00.lighthouse.json) |
 | [September 24 at 7:13 PM](https://archive.org/download/recordnet-2022/recordnet-2022-09-24T19:13:37.888001-07:00.lighthouse.json) |
 | [September 24 at 6:57 AM](https://archive.org/download/recordnet-2022/recordnet-2022-09-24T06:57:06.460842-07:00.lighthouse.json) |
-| [September 23 at 7:18 PM](https://archive.org/download/recordnet-2022/recordnet-2022-09-23T19:18:52.063126-07:00.lighthouse.json) |
 
 
 

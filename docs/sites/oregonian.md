@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 173 screenshots with the Internet Archive.
+The archiving routine has saved 174 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 173 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oregonian-2022/oregonian-2022-09-28T19:21:16.124330-07:00.jpg">
+  <img src="https://archive.org/download/oregonian-2022/oregonian-2022-09-28T19:21:16.124330-07:00.jpg"
+     alt="Oregonian at 2022-09-28 19:21:21-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-09-28T19:21:16.124330-07:00.jpg">September 28 at 7:21 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oregonian-2022/oregonian-2022-09-28T07:02:51.392996-07:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-09-23T07:04:20.403664-07:00.jpg">September 23 at 7:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/oregonian-2022/oregonian-2022-09-22T19:20:35.129062-07:00.jpg">
-  <img src="https://archive.org/download/oregonian-2022/oregonian-2022-09-22T19:20:35.129062-07:00.jpg"
-     alt="Oregonian at 2022-09-22 19:20:41-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-09-22T19:20:35.129062-07:00.jpg">September 22 at 7:20 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 172 hyperlink lists with the Internet Archive.
+The archiving routine has saved 173 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 7:21 PM](https://archive.org/download/oregonian-2022/oregonian-2022-09-28T19:21:16.124330-07:00.hyperlinks.json) |
 | [September 28 at 7:02 AM](https://archive.org/download/oregonian-2022/oregonian-2022-09-28T07:02:51.392996-07:00.hyperlinks.json) |
 | [September 27 at 7:28 PM](https://archive.org/download/oregonian-2022/oregonian-2022-09-27T19:27:53.398352-07:00.hyperlinks.json) |
 | [September 27 at 7:09 AM](https://archive.org/download/oregonian-2022/oregonian-2022-09-27T07:09:25.936874-07:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 6:53 AM](https://archive.org/download/oregonian-2022/oregonian-2022-09-25T06:52:52.247943-07:00.hyperlinks.json) |
 | [September 24 at 7:12 PM](https://archive.org/download/oregonian-2022/oregonian-2022-09-24T19:12:33.479813-07:00.hyperlinks.json) |
 | [September 24 at 6:55 AM](https://archive.org/download/oregonian-2022/oregonian-2022-09-24T06:55:42.511356-07:00.hyperlinks.json) |
-| [September 23 at 7:17 PM](https://archive.org/download/oregonian-2022/oregonian-2022-09-23T19:16:59.849001-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 173 accessibility trees with the Internet Archive.
+The archiving routine has saved 174 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 7:21 PM](https://archive.org/download/oregonian-2022/oregonian-2022-09-28T19:21:16.124330-07:00.accessibility.json) |
 | [September 28 at 7:02 AM](https://archive.org/download/oregonian-2022/oregonian-2022-09-28T07:02:51.392996-07:00.accessibility.json) |
 | [September 27 at 7:27 PM](https://archive.org/download/oregonian-2022/oregonian-2022-09-27T19:27:53.398352-07:00.accessibility.json) |
 | [September 27 at 7:09 AM](https://archive.org/download/oregonian-2022/oregonian-2022-09-27T07:09:25.936874-07:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 6:52 AM](https://archive.org/download/oregonian-2022/oregonian-2022-09-25T06:52:52.247943-07:00.accessibility.json) |
 | [September 24 at 7:12 PM](https://archive.org/download/oregonian-2022/oregonian-2022-09-24T19:12:33.479813-07:00.accessibility.json) |
 | [September 24 at 6:55 AM](https://archive.org/download/oregonian-2022/oregonian-2022-09-24T06:55:42.511356-07:00.accessibility.json) |
-| [September 23 at 7:17 PM](https://archive.org/download/oregonian-2022/oregonian-2022-09-23T19:16:59.849001-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 135 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 7:21 PM](https://archive.org/download/oregonian-2022/oregonian-2022-09-28T19:21:16.124330-07:00.lighthouse.json) |
 | [September 28 at 7:02 AM](https://archive.org/download/oregonian-2022/oregonian-2022-09-28T07:02:51.392996-07:00.lighthouse.json) |
 | [September 27 at 7:28 PM](https://archive.org/download/oregonian-2022/oregonian-2022-09-27T19:27:53.398352-07:00.lighthouse.json) |
 | [September 27 at 7:09 AM](https://archive.org/download/oregonian-2022/oregonian-2022-09-27T07:09:25.936874-07:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 6:53 AM](https://archive.org/download/oregonian-2022/oregonian-2022-09-25T06:52:52.247943-07:00.lighthouse.json) |
 | [September 24 at 7:12 PM](https://archive.org/download/oregonian-2022/oregonian-2022-09-24T19:12:33.479813-07:00.lighthouse.json) |
 | [September 24 at 6:55 AM](https://archive.org/download/oregonian-2022/oregonian-2022-09-24T06:55:42.511356-07:00.lighthouse.json) |
-| [September 23 at 7:17 PM](https://archive.org/download/oregonian-2022/oregonian-2022-09-23T19:16:59.849001-07:00.lighthouse.json) |
 
 
 
