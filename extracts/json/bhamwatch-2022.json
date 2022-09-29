@@ -1,5 +1,5 @@
 {
-  "created": 1664405948,
+  "created": 1664448884,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/15/items/bhamwatch-2022",
@@ -9489,31 +9489,93 @@
       "format": "JSON"
     },
     {
+      "name": "bhamwatch-2022-09-28T17:57:55.359275-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bhamwatch-2022-09-28T17:57:55.359275-05:00.jpg",
+      "mtime": "1664411274",
+      "size": "10157",
+      "md5": "273ce77274ee4cb293ba3df2c3e57acf",
+      "crc32": "0593f00c",
+      "sha1": "d6465760be0a461ec9c078c0da9f41ba584de505"
+    },
+    {
+      "name": "bhamwatch-2022-09-29T05:53:14.664318-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664448802",
+      "size": "41169",
+      "md5": "9f3ee3f16516ccf25f0f3d18d6263c6d",
+      "crc32": "ad5fdfab",
+      "sha1": "63dfb5bca085c594f6374cd81e2818fb5b80745f",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-09-29T05:53:14.664318-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664448803",
+      "size": "24745",
+      "md5": "c510f5c405ec907949f756126dc8f077",
+      "crc32": "4b7cfa14",
+      "sha1": "80369f096cd37db8dafa67bd57a4336228449d7f",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-09-29T05:53:14.664318-05:00.jpg",
+      "source": "original",
+      "mtime": "1664448800",
+      "size": "353687",
+      "md5": "eed3b305d884ea32677ef3f61bb28a4e",
+      "crc32": "9e9fadc6",
+      "sha1": "04763523c33e15ca20da00efaea985791da01ecd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bhamwatch-2022-09-29T05:53:14.664318-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664448805",
+      "size": "1501",
+      "md5": "626a79f3db4adef57a6067f2fc3ad126",
+      "crc32": "a41d3387",
+      "sha1": "813bf4463c370a51adf261efdf650fbcc4ac9558",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-09-29T05:53:14.664318-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664448806",
+      "size": "14288",
+      "md5": "b4ccb4885615c4da7edb49c1fb36997f",
+      "crc32": "3f26d73e",
+      "sha1": "a3f342508472428c6aa7dd446d26561a95b6bd4f",
+      "format": "JSON"
+    },
+    {
       "name": "bhamwatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4b01fb4185ae1edfcdc4d3aefcf4c01b13e45674",
-      "mtime": "1664405938",
-      "size": "195460",
-      "md5": "7a2954e3c6cf25d75aebbc0874663edf",
-      "crc32": "2fcb0c03",
-      "sha1": "fbe4d6202bf5e644b4243a4fb166506e92a6376a",
+      "btih": "34527058dfcb7fea0f4af2445f0708b16d8908f4",
+      "mtime": "1664448875",
+      "size": "196734",
+      "md5": "205f6616161f40afa751ba2b2bed4e0e",
+      "crc32": "8c5342ab",
+      "sha1": "f8ecbbe190e8e0840fbc822592cf9203cbf29e5b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bhamwatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e970cab5fb2f5d4d9d229a31eb6b9a01",
+      "md5": "7b1b5c2e8031a38c34d7c128755e64b6",
       "summation": "md5"
     },
     {
       "name": "bhamwatch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664405888",
-      "size": "1159168",
-      "md5": "0c35976cdab2cc2b2da30b4b07774363",
-      "crc32": "e95b68b4",
-      "sha1": "635268101d261707bf04791dad4357035504f5fc",
+      "mtime": "1664448823",
+      "size": "1163264",
+      "md5": "7699efaf7c1e44737c8759ed7d062cae",
+      "crc32": "4619b297",
+      "sha1": "7a860dd74e2bbb12c9be87e994f418606a65947d",
       "format": "Metadata"
     },
     {
@@ -9527,9 +9589,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 919,
-  "item_last_updated": 1664405938,
-  "item_size": 76619153,
+  "files_count": 925,
+  "item_last_updated": 1664448875,
+  "item_size": 77070070,
   "metadata": {
     "identifier": "bhamwatch-2022",
     "collection": [
@@ -9551,7 +9613,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421553864,
+      "task_id": 3422180822,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9559,7 +9621,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1897201046,
+  "uniq": 1997167567,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1664405671,
+  "created": 1664448752,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/34/items/3newsnowomaha-2022",
@@ -7164,31 +7164,83 @@
       "format": "JSON"
     },
     {
+      "name": "3newsnowomaha-2022-09-28T17:53:30.971129-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "3newsnowomaha-2022-09-28T17:53:30.971129-05:00.jpg",
+      "mtime": "1664411547",
+      "size": "11429",
+      "md5": "c74f44964de7f163e1ee4738f104c711",
+      "crc32": "a0c66a55",
+      "sha1": "455b93a49cc6376dfe6c643e4b0c811da9d1af77"
+    },
+    {
+      "name": "3newsnowomaha-2022-09-29T05:51:05.299793-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664448676",
+      "size": "20131",
+      "md5": "d246e118d714c1c88e59574e33fc81a8",
+      "crc32": "a0d6013f",
+      "sha1": "e9056a7de34aee67cdeb643048f658c303ce1c83",
+      "format": "JSON"
+    },
+    {
+      "name": "3newsnowomaha-2022-09-29T05:51:05.299793-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664448678",
+      "size": "61282",
+      "md5": "2255a4c75dbc56bc1c2b4bdfae5a0292",
+      "crc32": "a5c987d5",
+      "sha1": "32bfc14dda77af8ba974b061bed111611f9276b1",
+      "format": "JSON"
+    },
+    {
+      "name": "3newsnowomaha-2022-09-29T05:51:05.299793-05:00.jpg",
+      "source": "original",
+      "mtime": "1664448675",
+      "size": "298988",
+      "md5": "87370803a1fc68f812ce78beb1c4dff8",
+      "crc32": "55593064",
+      "sha1": "aaa27a36a8b637655e1f4c7d0f5d9d8213aa04c5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "3newsnowomaha-2022-09-29T05:51:05.299793-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664448679",
+      "size": "1476",
+      "md5": "e714869f1c5272dfc09812793585fd46",
+      "crc32": "81c3bf0d",
+      "sha1": "fb960079989284148a37d93df0f4fe03b4dbf13b",
+      "format": "JSON"
+    },
+    {
       "name": "3newsnowomaha-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0ce26f51e5d031fb0e86084959e4bb709599eaf8",
-      "mtime": "1664405666",
-      "size": "150888",
-      "md5": "23d9daac4d5c0b791537f9a89579294f",
-      "crc32": "27ea3ab4",
-      "sha1": "20874cadaeb6f69a8b1008c12f1ecd668e3b4d90",
+      "btih": "ede36d3542e758945784edc79c56fed38c059bf2",
+      "mtime": "1664448737",
+      "size": "151973",
+      "md5": "c5c0a90a256e3b972691b2046ed285db",
+      "crc32": "d9e724ff",
+      "sha1": "512f57b2f952995f422e0c6ee36177eaf0e84994",
       "format": "Archive BitTorrent"
     },
     {
       "name": "3newsnowomaha-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7b2bca646ca27bd808ca7e5746486fea",
+      "md5": "e7fa18eff911235708c4ca3431fefba2",
       "summation": "md5"
     },
     {
       "name": "3newsnowomaha-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664405627",
-      "size": "888832",
-      "md5": "22ee8274549d2e90f7846d13bb08d783",
-      "crc32": "3b8d7eb3",
-      "sha1": "06fd16c3eb4b018f57f55adabb4dba83bab5c6a4",
+      "mtime": "1664448683",
+      "size": "897024",
+      "md5": "1512ca07158e0545c4439d8631384b19",
+      "crc32": "f3331eaa",
+      "sha1": "617061578a41b4046701a2c32ffa83d624367e10",
       "format": "Metadata"
     },
     {
@@ -7213,9 +7265,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 696,
-  "item_last_updated": 1664405666,
-  "item_size": 58673415,
+  "files_count": 701,
+  "item_last_updated": 1664448737,
+  "item_size": 59075998,
   "metadata": {
     "identifier": "3newsnowomaha-2022",
     "collection": [
@@ -7237,7 +7289,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421550817,
+      "task_id": 3422179231,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -7245,7 +7297,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1789472224,
+  "uniq": 315253694,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

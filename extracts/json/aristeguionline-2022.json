@@ -1,5 +1,5 @@
 {
-  "created": 1664405608,
+  "created": 1664448770,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/19/items/aristeguionline-2022",
@@ -5637,31 +5637,93 @@
       "format": "JSON"
     },
     {
+      "name": "aristeguionline-2022-09-28T17:52:22.367925-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aristeguionline-2022-09-28T17:52:22.367925-05:00.jpg",
+      "mtime": "1664410977",
+      "size": "9846",
+      "md5": "4b70c28c97ed6f81607cf4bf1a3c409c",
+      "crc32": "06344124",
+      "sha1": "d6f7d3a2ea8608aee691de6760c5ada37573987c"
+    },
+    {
+      "name": "aristeguionline-2022-09-29T05:51:37.792838-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664448707",
+      "size": "67423",
+      "md5": "810450e64f8b06819115c271ed1e7a7c",
+      "crc32": "12fde82b",
+      "sha1": "ccd6952ab3b7d2eb90ed2bc58ca64480fdc511c6",
+      "format": "JSON"
+    },
+    {
+      "name": "aristeguionline-2022-09-29T05:51:37.792838-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664448708",
+      "size": "50112",
+      "md5": "975baf48921cd071914d5522b8800dcc",
+      "crc32": "c6bbded9",
+      "sha1": "ba3be369457febf04ee3fce25f2f8cefd4c466d3",
+      "format": "JSON"
+    },
+    {
+      "name": "aristeguionline-2022-09-29T05:51:37.792838-05:00.jpg",
+      "source": "original",
+      "mtime": "1664448705",
+      "size": "266631",
+      "md5": "50af978952e738d38c8a9575c600b8af",
+      "crc32": "074619c4",
+      "sha1": "cbcde724e4116741da965ea12cdb171613a36e81",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aristeguionline-2022-09-29T05:51:37.792838-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664448710",
+      "size": "1521",
+      "md5": "b5ea458dba208ade4f2b05f4864e75ea",
+      "crc32": "8dae97f5",
+      "sha1": "d0354665177f83603da71f3b9a992f2cbededef1",
+      "format": "JSON"
+    },
+    {
+      "name": "aristeguionline-2022-09-29T05:51:37.792838-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664448711",
+      "size": "59066",
+      "md5": "4d3d1c8dcfdcf8aa126ceab2e5f01ec3",
+      "crc32": "2ff21f0c",
+      "sha1": "a4262383d5bd370d89cec7b2b1da734bb530a840",
+      "format": "JSON"
+    },
+    {
       "name": "aristeguionline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b2460fb4e2b874d528b5ecc2ddefde667606d488",
-      "mtime": "1664405601",
-      "size": "120082",
-      "md5": "d28f2674343ddc4c9f4631fef03feef0",
-      "crc32": "d0faca22",
-      "sha1": "92c509ec7c070e946d4d296788f52748f4e7f7cd",
+      "btih": "888d83a471e754008f6f682499cd9522e2edc41a",
+      "mtime": "1664448761",
+      "size": "121391",
+      "md5": "aeb9e2941e2cfc7123d20cba59040704",
+      "crc32": "b4a1f53e",
+      "sha1": "e9b496813bab51be018763855c4f74764198af05",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aristeguionline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "579f1f10e349300a9dc522128052ef33",
+      "md5": "c0d29e0344986b8a4d0d4ea61e5279d9",
       "summation": "md5"
     },
     {
       "name": "aristeguionline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664405560",
-      "size": "720896",
-      "md5": "a070fd208c589acc3da22bd274e3941b",
-      "crc32": "ec6ff4f4",
-      "sha1": "d97f28d5d370bfdb2b909ff893386523b033da8b",
+      "mtime": "1664448719",
+      "size": "724992",
+      "md5": "da95b1094dc9b59c0f4d2531dfbd97a9",
+      "crc32": "6dca5101",
+      "sha1": "a577d0625dc608b536bf1dce13d960e0a69a38da",
       "format": "Metadata"
     },
     {
@@ -5675,9 +5737,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 549,
-  "item_last_updated": 1664405601,
-  "item_size": 41165185,
+  "files_count": 555,
+  "item_last_updated": 1664448761,
+  "item_size": 41625189,
   "metadata": {
     "identifier": "aristeguionline-2022",
     "collection": [
@@ -5699,7 +5761,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421550256,
+      "task_id": 3422179425,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5707,7 +5769,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2018639213,
+  "uniq": 654653868,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]
