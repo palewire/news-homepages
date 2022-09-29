@@ -1,5 +1,10 @@
 {
-  "created": 1664381939,
+  "btno-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1664431915,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/3/items/btno-2022",
@@ -8441,31 +8446,93 @@
       "format": "JSON"
     },
     {
+      "name": "btno-2022-09-28T18:17:25.812175+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "btno-2022-09-28T18:17:25.812175+02:00.jpg",
+      "mtime": "1664391245",
+      "size": "10081",
+      "md5": "1af2015a76dd00abda2c38d06635a167",
+      "crc32": "a4545859",
+      "sha1": "f0b10c363761da61cf9a16aad56c97ac84a5a98c"
+    },
+    {
+      "name": "btno-2022-09-29T07:22:57.610035+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664428994",
+      "size": "31612",
+      "md5": "e22eba9cd5eee5adac7b7d02a2dc7327",
+      "crc32": "1739aadd",
+      "sha1": "e1a1f0b4e695a8953d19f9385fe321fbbe3f9f4a",
+      "format": "JSON"
+    },
+    {
+      "name": "btno-2022-09-29T07:22:57.610035+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664428996",
+      "size": "51803",
+      "md5": "0975aea86d2d43660d00a0d98925e892",
+      "crc32": "3c25cb9f",
+      "sha1": "286379524f2afcf03b8e3ca491d59e6a8d516318",
+      "format": "JSON"
+    },
+    {
+      "name": "btno-2022-09-29T07:22:57.610035+02:00.jpg",
+      "source": "original",
+      "mtime": "1664428993",
+      "size": "244090",
+      "md5": "7c7ab054e98aec064536b85edf8b614e",
+      "crc32": "fe2d1559",
+      "sha1": "cde64dff99ee13951281f989e2156ba432079e86",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "btno-2022-09-29T07:22:57.610035+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664428997",
+      "size": "1414",
+      "md5": "ee9ffe5c45b9a594c73988c99dadbb83",
+      "crc32": "56c10cf5",
+      "sha1": "92bff28b2606bdfbe5b94660e9bb5fd7758cc274",
+      "format": "JSON"
+    },
+    {
+      "name": "btno-2022-09-29T07:22:57.610035+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664428998",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "btno-2022_archive.torrent",
       "source": "metadata",
-      "btih": "433fb9097e47b944616687b6abc4c1073373e48b",
-      "mtime": "1664381930",
-      "size": "169526",
-      "md5": "787d50345ed12ff6451b64a072e0b35a",
-      "crc32": "b9b38884",
-      "sha1": "19cc39342b5a9dffb1d5d10ad58b8ca967280f7a",
+      "btih": "48f079cd7453fb5f50b799b438251999bfd2a6e4",
+      "mtime": "1664429061",
+      "size": "170768",
+      "md5": "0666a2d27c1312a5ca177355f72f2027",
+      "crc32": "b21e9bd8",
+      "sha1": "6c123bbf96d1895dc0f885228c4cf9d5aa710ecc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "btno-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2ec7e14d5ee141c6191a946451dd181a",
+      "md5": "4b8fd7ab109f2071858c082397f9d3e3",
       "summation": "md5"
     },
     {
       "name": "btno-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664381878",
-      "size": "1032192",
-      "md5": "ec98a10f35407f248deb3984d8e63fee",
-      "crc32": "de7f9b18",
-      "sha1": "3df3e415678f8244d7c0ff158500a13c9d46d371",
+      "mtime": "1664429006",
+      "size": "1044480",
+      "md5": "97c91fa54f8354a285bc674f4ffe923f",
+      "crc32": "4c855419",
+      "sha1": "697a3d3acce40e53014bfdaa681aad6f0d38146e",
       "format": "Metadata"
     },
     {
@@ -8479,9 +8546,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 819,
-  "item_last_updated": 1664381930,
-  "item_size": 54141704,
+  "files_count": 825,
+  "item_last_updated": 1664429061,
+  "item_size": 54494436,
   "metadata": {
     "identifier": "btno-2022",
     "collection": [
@@ -8503,15 +8570,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421182923,
+      "task_id": 3421907248,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 90994286,
+  "uniq": 49998615,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

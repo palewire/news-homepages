@@ -1,5 +1,6 @@
 {
-  "created": 1664381542,
+  "conflict": 1664431810,
+  "created": 1664431810,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/13/items/axios-2022",
@@ -12105,31 +12106,99 @@
       "format": "JSON"
     },
     {
+      "name": "axios-2022-09-28T12:11:08.622480-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "axios-2022-09-28T12:11:08.622480-04:00.jpg",
+      "mtime": "1664391106",
+      "size": "8245",
+      "md5": "971edc29d8968e70e30c9175c78f6958",
+      "crc32": "e299361e",
+      "sha1": "67ffa34e9d43b4517eefc084106c20d6426e6bea"
+    },
+    {
+      "name": "axios-2022-09-29T01:19:28.350633-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664428776",
+      "size": "45480",
+      "md5": "0955c1c0872cb1bca9d887297d6bef10",
+      "crc32": "8e20380c",
+      "sha1": "a62336c4beda02dccc9a7ea498c6c926a1b2806c",
+      "format": "JSON"
+    },
+    {
+      "name": "axios-2022-09-29T01:19:28.350633-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664428778",
+      "size": "35737",
+      "md5": "7deb6ddd68dd183c1ea4aa4bcdb2d4b3",
+      "crc32": "47e0b9f5",
+      "sha1": "4211af4eb2c5e2418023c2dbe056c854107b0e70",
+      "format": "JSON"
+    },
+    {
+      "name": "axios-2022-09-29T01:19:28.350633-04:00.jpg",
+      "source": "original",
+      "mtime": "1664428774",
+      "size": "244911",
+      "md5": "69a662fbfa9ffabde69b35e0e92d078e",
+      "crc32": "cc9c6fac",
+      "sha1": "ca0d7b4591fe420d82dbf66acaaac83d8e432357",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "axios-2022-09-29T01:19:28.350633-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664428782",
+      "size": "1450",
+      "md5": "e8d9778d081b0b1f26d5768c19eaa4b7",
+      "crc32": "82db906e",
+      "sha1": "232fd5417ab64a089f324ac769b529ae0e05c493",
+      "format": "JSON"
+    },
+    {
+      "name": "axios-2022-09-29T01:19:28.350633-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664428783",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "axios-2022-09-29T01:19:28.350633-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "axios-2022-09-29T01:19:28.350633-04:00.jpg"
+    },
+    {
       "name": "axios-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6f5de561c6edb74d03631029216920c1d0e06968",
-      "mtime": "1664381539",
-      "size": "242359",
-      "md5": "6e26c93a2af78d565e04f58183479e94",
-      "crc32": "acbc090b",
-      "sha1": "52b66f97ed583935653beaba9a3538b6e20b8b16",
+      "btih": "e204626186bf476d45f95d44534331f922834606",
+      "mtime": "1664428830",
+      "size": "243606",
+      "md5": "e0c59ae9d853789ef78958d7b51b2381",
+      "crc32": "c891410b",
+      "sha1": "50f009597a079c73be37f688457b1d37a8b3e498",
       "format": "Archive BitTorrent"
     },
     {
       "name": "axios-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "29a3a8d5bea4f404130d2c2250e81927",
+      "md5": "2940fd538f393015b0382863b48f53bc",
       "summation": "md5"
     },
     {
       "name": "axios-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664381493",
-      "size": "1429504",
-      "md5": "c73e6c26f43ff12c5cecaf6b35532ab6",
-      "crc32": "e6ba34e4",
-      "sha1": "8ba3706c49198b681a784d7feacf4cb82985700f",
+      "mtime": "1664428786",
+      "size": "1433600",
+      "md5": "e4b2245b8c2f987e044abc0f70d01b82",
+      "crc32": "264d8e3c",
+      "sha1": "86be3b7a123ee4ef72588564a200afdf4629ac47",
       "format": "Metadata"
     },
     {
@@ -12143,9 +12212,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1168,
-  "item_last_updated": 1664381539,
-  "item_size": 75137900,
+  "files_count": 1175,
+  "item_last_updated": 1664428830,
+  "item_size": 75479268,
   "metadata": {
     "identifier": "axios-2022",
     "collection": [
@@ -12167,15 +12236,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421175971,
+      "task_id": 3421903907,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1483660881,
+  "uniq": 552324564,
   "workable_servers": [
     "ia902503.us.archive.org"
   ]
