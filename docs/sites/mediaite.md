@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 70 screenshots with the Internet Archive.
+The archiving routine has saved 71 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 70 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mediaite-2022/mediaite-2022-09-28T21:25:06.950978-04:00.jpg">
+  <img src="https://archive.org/download/mediaite-2022/mediaite-2022-09-28T21:25:06.950978-04:00.jpg"
+     alt="Mediaite at 2022-09-28 21:25:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-09-28T21:25:06.950978-04:00.jpg">September 28 at 9:25 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mediaite-2022/mediaite-2022-09-28T09:04:32.031747-04:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-09-22T21:13:20.080655-04:00.jpg">September 22 at 9:13 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mediaite-2022/mediaite-2022-09-22T09:02:37.715861-04:00.jpg">
-  <img src="https://archive.org/download/mediaite-2022/mediaite-2022-09-22T09:02:37.715861-04:00.jpg"
-     alt="Mediaite at 2022-09-22 09:02:47-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-09-22T09:02:37.715861-04:00.jpg">September 22 at 9:02 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 71 hyperlink lists with the Internet Archive.
+The archiving routine has saved 72 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 9:25 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-28T21:25:06.950978-04:00.hyperlinks.json) |
 | [September 28 at 9:04 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-28T09:04:32.031747-04:00.hyperlinks.json) |
 | [September 27 at 9:28 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-27T21:28:44.188299-04:00.hyperlinks.json) |
 | [September 27 at 9:02 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-27T09:01:47.777696-04:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 8:59 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-25T08:59:29.245353-04:00.hyperlinks.json) |
 | [September 24 at 9:05 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-24T21:05:30.314727-04:00.hyperlinks.json) |
 | [September 24 at 8:54 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-24T08:54:45.876409-04:00.hyperlinks.json) |
-| [September 23 at 9:11 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-23T21:11:44.601926-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 72 accessibility trees with the Internet Archive.
+The archiving routine has saved 73 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 9:25 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-28T21:25:06.950978-04:00.accessibility.json) |
 | [September 28 at 9:04 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-28T09:04:32.031747-04:00.accessibility.json) |
 | [September 27 at 9:28 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-27T21:28:44.188299-04:00.accessibility.json) |
 | [September 27 at 9:01 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-27T09:01:47.777696-04:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 8:59 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-25T08:59:29.245353-04:00.accessibility.json) |
 | [September 24 at 9:05 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-24T21:05:30.314727-04:00.accessibility.json) |
 | [September 24 at 8:54 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-24T08:54:45.876409-04:00.accessibility.json) |
-| [September 23 at 9:11 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-23T21:11:44.601926-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 72 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 73 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 9:25 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-28T21:25:06.950978-04:00.lighthouse.json) |
 | [September 28 at 9:04 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-28T09:04:32.031747-04:00.lighthouse.json) |
 | [September 27 at 9:28 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-27T21:28:44.188299-04:00.lighthouse.json) |
 | [September 27 at 9:02 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-27T09:01:47.777696-04:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 8:59 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-25T08:59:29.245353-04:00.lighthouse.json) |
 | [September 24 at 9:05 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-24T21:05:30.314727-04:00.lighthouse.json) |
 | [September 24 at 8:54 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-24T08:54:45.876409-04:00.lighthouse.json) |
-| [September 23 at 9:11 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-23T21:11:44.601926-04:00.lighthouse.json) |
 
 
 
