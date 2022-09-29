@@ -1,5 +1,6 @@
 {
-  "created": 1664374093,
+  "conflict": 1664418243,
+  "created": 1664418243,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/1/items/reuters-2022",
@@ -11071,21 +11072,32 @@
       "format": "JSON"
     },
     {
+      "name": "reuters-2022-09-28T10:05:03.729891-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reuters-2022-09-28T10:05:03.729891-04:00.jpg",
+      "mtime": "1664377341",
+      "size": "8085",
+      "md5": "42435e4300ad67633fa7f9a5ef50ddb7",
+      "crc32": "6a06e36a",
+      "sha1": "453bfee6334848a7a571d74cc5ecb4e0b0b8ea5c"
+    },
+    {
       "name": "reuters-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3436f645e06c2319c9b306e730de1219562474c3",
-      "mtime": "1664374057",
-      "size": "223859",
-      "md5": "fa715a79437e8e7f2edc65bb6f762159",
-      "crc32": "2de84864",
-      "sha1": "ab6374d0f0e1af90e60e954875ba308ea138c404",
+      "btih": "58052e3a7f0c67b4618970743a11cf36719a9fdc",
+      "mtime": "1664377360",
+      "size": "224062",
+      "md5": "1af71bb4ee8fb4b52d9d8e1387f18db5",
+      "crc32": "84f7af8e",
+      "sha1": "6d9a560e136a7abe499e08c09a79d22c735c8b98",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reuters-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d28c666ad6066150faa327b48396781b",
+      "md5": "3b549b9b8144fbe1ebd72ecc935d7dd0",
       "summation": "md5"
     },
     {
@@ -11109,9 +11121,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1069,
-  "item_last_updated": 1664374057,
-  "item_size": 65112866,
+  "files_count": 1070,
+  "item_last_updated": 1664377360,
+  "item_size": 65121154,
   "metadata": {
     "identifier": "reuters-2022",
     "collection": [
@@ -11133,15 +11145,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421065705,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "task_id": 3421736243,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 361659008,
+  "uniq": 572932369,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]
