@@ -1,5 +1,6 @@
 {
-  "created": 1664414436,
+  "conflict": 1664453026,
+  "created": 1664453026,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/11/items/infoamazoniabr-2022",
@@ -10101,21 +10102,32 @@
       "format": "JSON"
     },
     {
+      "name": "infoamazoniabr-2022-09-28T22:19:25.310747-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "infoamazoniabr-2022-09-28T22:19:25.310747-03:00.jpg",
+      "mtime": "1664417642",
+      "size": "9318",
+      "md5": "1f5057c9146e0d4ddc1e9d82e59fea29",
+      "crc32": "b3357619",
+      "sha1": "330ad64575fcf5ddd5d54bc489d0944ba8b69a78"
+    },
+    {
       "name": "infoamazoniabr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "41780d7de6c9f1c5dc31e4694955fb6fc323fc6d",
-      "mtime": "1664414428",
-      "size": "211959",
-      "md5": "2a2c7d2227d78c0dd8ef84dc6cfeae19",
-      "crc32": "ec71e948",
-      "sha1": "f42ad929a2597e15095cf05c73b91fbaade9eab5",
+      "btih": "cdeb0df0640fb3d16a28af622086760e61f7431b",
+      "mtime": "1664417653",
+      "size": "212169",
+      "md5": "dfc32784888f8974677786ef27c989d9",
+      "crc32": "b4adfb66",
+      "sha1": "1d5058d36ae22bd1bc116376782fc3c0471fac9e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "infoamazoniabr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f29d8df1e68dd3876cfdbfdbccba5e4d",
+      "md5": "32c6048a304bb4bf3c0aa6a26b88e3ea",
       "summation": "md5"
     },
     {
@@ -10139,9 +10151,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 981,
-  "item_last_updated": 1664414428,
-  "item_size": 44276334,
+  "files_count": 982,
+  "item_last_updated": 1664417653,
+  "item_size": 44285862,
   "metadata": {
     "identifier": "infoamazoniabr-2022",
     "collection": [
@@ -10163,15 +10175,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421677751,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "task_id": 3422236068,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1701833206,
+  "uniq": 830914249,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

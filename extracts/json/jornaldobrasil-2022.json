@@ -1,5 +1,5 @@
 {
-  "created": 1664414440,
+  "created": 1664452964,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/11/items/jornaldobrasil-2022",
@@ -9949,31 +9949,93 @@
       "format": "JSON"
     },
     {
+      "name": "jornaldobrasil-2022-09-28T22:19:15.803400-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jornaldobrasil-2022-09-28T22:19:15.803400-03:00.jpg",
+      "mtime": "1664417866",
+      "size": "9926",
+      "md5": "64b7c63896aef316584790aa20335cce",
+      "crc32": "8a6dec55",
+      "sha1": "6f055bfc56ec2686cc50fd2e8406f773a967c604"
+    },
+    {
+      "name": "jornaldobrasil-2022-09-29T09:01:32.089488-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664452898",
+      "size": "28340",
+      "md5": "a2946a312c3731937701ed465ea04c60",
+      "crc32": "867c9366",
+      "sha1": "9470e0e1f5fdf9ecbce611a737671f86761f0e76",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaldobrasil-2022-09-29T09:01:32.089488-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664452899",
+      "size": "32190",
+      "md5": "3eb538f56ea17e880a1bf32da581b647",
+      "crc32": "f41a9db9",
+      "sha1": "46e7a3ae87a0a62251f50b210f0309c2b651cb3c",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaldobrasil-2022-09-29T09:01:32.089488-03:00.jpg",
+      "source": "original",
+      "mtime": "1664452896",
+      "size": "322566",
+      "md5": "98d161393d0d0e89c3fe1972c60b335d",
+      "crc32": "7a5cab9d",
+      "sha1": "a11d7eff72bf2b5f9a7f1163e6e4443bdb496ec1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jornaldobrasil-2022-09-29T09:01:32.089488-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664452901",
+      "size": "1416",
+      "md5": "8f336de9da3be62c27f95011316e7294",
+      "crc32": "fe224b00",
+      "sha1": "88a53054885b2a4449398aa1a1af5dcce62c1cad",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaldobrasil-2022-09-29T09:01:32.089488-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664452903",
+      "size": "37270",
+      "md5": "6b1acdeda35d95afa5cc95d4bee10d93",
+      "crc32": "c5d8d3f1",
+      "sha1": "fa7193719ad304853046031afde8b7dbb5799c69",
+      "format": "JSON"
+    },
+    {
       "name": "jornaldobrasil-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fefe2bf41aafbdd03dc03f5ed50b5980d8bd56e8",
-      "mtime": "1664414430",
-      "size": "209712",
-      "md5": "f9d15289b658240904b798d28bcb8e98",
-      "crc32": "72e3abf9",
-      "sha1": "21a2fde38347c47604b06d596bf0703309e4bdd7",
+      "btih": "7b694b9042ce39bd0b6bae27e8ab780e4a3fff2f",
+      "mtime": "1664452956",
+      "size": "211015",
+      "md5": "164365e04e97242c6bdeecea180f4626",
+      "crc32": "59043e71",
+      "sha1": "ec0aea157d560c15675fa085bc54d27be01797bc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jornaldobrasil-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9f8fc537e2dba6fc0b8bcd4ca9a8650d",
+      "md5": "388432749b11baad9c4ee4dc5f515fb0",
       "summation": "md5"
     },
     {
       "name": "jornaldobrasil-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664414377",
-      "size": "1245184",
-      "md5": "d2a78cedaf15704482dc836f61e68274",
-      "crc32": "4eb02365",
-      "sha1": "fee5a000120ac848aece8c76775668275a6be203",
+      "mtime": "1664452908",
+      "size": "1253376",
+      "md5": "6f7014bfa8387b743846211aed97ff04",
+      "crc32": "7f770ef2",
+      "sha1": "95fc22cd453e820ca1d6e0773d5b117faf9ff0d6",
       "format": "Metadata"
     },
     {
@@ -9987,9 +10049,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 966,
-  "item_last_updated": 1664414430,
-  "item_size": 67109522,
+  "files_count": 972,
+  "item_last_updated": 1664452956,
+  "item_size": 67550725,
   "metadata": {
     "identifier": "jornaldobrasil-2022",
     "collection": [
@@ -10011,7 +10073,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421677808,
+      "task_id": 3422238467,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10019,7 +10081,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2109188255,
+  "uniq": 1591205309,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1664433341,
+  "created": 1664452931,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/0/items/jornaloglobo-2022",
@@ -9932,31 +9932,82 @@
       "sha1": "97e6bb17606eaf61b05860df40f58cd4803ddab4"
     },
     {
+      "name": "jornaloglobo-2022-09-29T09:01:00.085535-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664452867",
+      "size": "40901",
+      "md5": "5b338cfcca0b508dc9925d0eb9aa85a0",
+      "crc32": "dfacca29",
+      "sha1": "30a5ee7265b9e24d5b0456623e9e2d4c5c9354bd",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-09-29T09:01:00.085535-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664452869",
+      "size": "45626",
+      "md5": "9c8c494da8d1f6e4973633f2c23fbb85",
+      "crc32": "2e7e744b",
+      "sha1": "21f0e14264302d7d6bbc5e115619ccc17f9dd04e",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-09-29T09:01:00.085535-03:00.jpg",
+      "source": "original",
+      "mtime": "1664452866",
+      "size": "283614",
+      "md5": "7e8213f22a99896d0b5ab247972d629c",
+      "crc32": "024c3230",
+      "sha1": "19a3f98443c176d3eec5c9443e987e34c1e20732",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jornaloglobo-2022-09-29T09:01:00.085535-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664452872",
+      "size": "1474",
+      "md5": "2e7b4cdb7f4d23d574179760f7439f70",
+      "crc32": "02f840fb",
+      "sha1": "e770b672dfe6018b615901e0438a84af65333202",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-09-29T09:01:00.085535-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664452874",
+      "size": "135287",
+      "md5": "b185df3ae9f0eca683f1357256db2565",
+      "crc32": "913a00a5",
+      "sha1": "0d11033e0e1f6457d668d540ceba6272c56d5d06",
+      "format": "JSON"
+    },
+    {
       "name": "jornaloglobo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "044e4a5f3f137a795a87b0aff1cd208c97c79136",
-      "mtime": "1664433330",
-      "size": "207907",
-      "md5": "6a34aae1322e4f2f4225358f7ffc1bea",
-      "crc32": "444931aa",
-      "sha1": "ef03020368c77edd32bca60c518b2daad1be0118",
+      "btih": "d0550e93be4c782fc4508f01e7f547b48bdaea94",
+      "mtime": "1664452926",
+      "size": "208991",
+      "md5": "d0e62d0e7b00141baaef8267deaee064",
+      "crc32": "151ee317",
+      "sha1": "a4d26925462da855821564f0c80281e9600bcf7c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jornaloglobo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aead8b2eaa4967e464fb8f6fcd32d34e",
+      "md5": "345ba8c401dc699afda4f29ddb1da85b",
       "summation": "md5"
     },
     {
       "name": "jornaloglobo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664431358",
-      "size": "1236992",
-      "md5": "fa0d6310f8abfb4bc2bfbca83976a77e",
-      "crc32": "f2dbe5e6",
-      "sha1": "cf5d4137ddede80c943835039a26c88216095295",
+      "mtime": "1664452879",
+      "size": "1245184",
+      "md5": "68f3e5e15e09e2a9c9c4b8bf52e8b526",
+      "crc32": "4ab7eb50",
+      "sha1": "0b479ea604aec2c6d750e491cf4d4fa731db667e",
       "format": "Metadata"
     },
     {
@@ -9970,9 +10021,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 964,
-  "item_last_updated": 1664433330,
-  "item_size": 80361118,
+  "files_count": 969,
+  "item_last_updated": 1664452926,
+  "item_size": 80877296,
   "metadata": {
     "identifier": "jornaloglobo-2022",
     "collection": [
@@ -9989,10 +10040,21 @@
     "publicdate": "2022-08-02 14:55:56",
     "addeddate": "2022-08-02 14:55:56"
   },
-  "server": "ia802509.us.archive.org",
-  "uniq": 345509212,
+  "pending_tasks": true,
+  "server": "ia902509.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3422237689,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1362357140,
   "workable_servers": [
-    "ia802509.us.archive.org",
     "ia902509.us.archive.org"
   ]
 }
