@@ -1,5 +1,5 @@
 {
-  "created": 1664436765,
+  "created": 1664456063,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/14/items/foxnews-2022",
@@ -37912,31 +37912,82 @@
       "sha1": "b24ee94ba29979d483827d909817ec92031f74c5"
     },
     {
+      "name": "foxnews-2022-09-29T08:51:39.128904-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664455929",
+      "size": "81959",
+      "md5": "8ca6b13614fafa42cb823462fec2a3e7",
+      "crc32": "b153f7d1",
+      "sha1": "ff58d3aa126bf4f576b3ee682238c691628905ad",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-09-29T08:51:39.128904-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664455931",
+      "size": "104183",
+      "md5": "65a3e4861402ca826cfd2ddd611f120c",
+      "crc32": "8ba71b6e",
+      "sha1": "a034c9426ed008eb9846a06ea41c820c9a0c2229",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-09-29T08:51:39.128904-04:00.jpg",
+      "source": "original",
+      "mtime": "1664455927",
+      "size": "441676",
+      "md5": "602c5bcb8c054dae84204e67f322bfe6",
+      "crc32": "2507cc00",
+      "sha1": "b6536fe87edff5d56bddf1ac5cf69aac1788af16",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxnews-2022-09-29T08:51:39.128904-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664455933",
+      "size": "1468",
+      "md5": "ca6e743850dd6c8dadd8769e67fd22fe",
+      "crc32": "9058ff76",
+      "sha1": "741bf26366aeada2eb873d168dc5782b3085aea7",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-09-29T08:51:39.128904-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664455935",
+      "size": "346",
+      "md5": "2fc3f1fd64f34586860a17479ee56e95",
+      "crc32": "1bc5446f",
+      "sha1": "4cfa7aa67329102219e768dd1251cbbc95322d74",
+      "format": "JSON"
+    },
+    {
       "name": "foxnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9670685fa408b48d6d2642eed1646d90abf7f529",
-      "mtime": "1664435073",
-      "size": "769870",
-      "md5": "d15382adceee65e16a6561073a3f0242",
-      "crc32": "8837e88a",
-      "sha1": "d9a5407c96947b84c04bf79fd54bb8159537383d",
+      "btih": "66354f12017b2c2e0a0601cec93a29b8d749fb80",
+      "mtime": "1664456056",
+      "size": "770927",
+      "md5": "49bf56357c9ee0453bcdd5d5d59cba10",
+      "crc32": "6c277f81",
+      "sha1": "a06a0e67a30ec9e635797db00fdf8627b041a026",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foxnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "722ca4f7c6a07721bf8de076b0686b60",
+      "md5": "cac2cc8207b29abdf8b8a1855a7e27ec",
       "summation": "md5"
     },
     {
       "name": "foxnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664432487",
-      "size": "4317184",
-      "md5": "e2190a679c9e70994be51db4de3bafeb",
-      "crc32": "c3c5199a",
-      "sha1": "aa5546c3fd63928c9da1493ec1a119ce00c30ed7",
+      "mtime": "1664455937",
+      "size": "4325376",
+      "md5": "8e3d9977b8baad7ccee1b267d5f669c1",
+      "crc32": "ed612910",
+      "sha1": "9e858d5b4aca32a92d4f7035a6dac606569e9fd2",
       "format": "Metadata"
     },
     {
@@ -37950,9 +38001,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 3636,
-  "item_last_updated": 1664435073,
-  "item_size": 472824979,
+  "files_count": 3641,
+  "item_last_updated": 1664456056,
+  "item_size": 473463860,
   "metadata": {
     "identifier": "foxnews-2022",
     "collection": [
@@ -37969,10 +38020,21 @@
     "publicdate": "2022-03-23 01:45:55",
     "addeddate": "2022-03-23 01:45:55"
   },
+  "pending_tasks": true,
   "server": "ia902505.us.archive.org",
-  "uniq": 1223835523,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3422273582,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 256283749,
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia902505.us.archive.org"
   ]
 }
