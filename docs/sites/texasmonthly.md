@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 174 screenshots with the Internet Archive.
+The archiving routine has saved 175 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 174 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-28T22:41:21.944838-05:00.jpg">
+  <img src="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-28T22:41:21.944838-05:00.jpg"
+     alt="Texas Monthly at 2022-09-28 22:41:23-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-28T22:41:21.944838-05:00.jpg">September 28 at 10:41 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-28T10:02:25.149189-05:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-23T09:59:08.367674-05:00.jpg">September 23 at 9:59 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-22T22:40:35.633313-05:00.jpg">
-  <img src="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-22T22:40:35.633313-05:00.jpg"
-     alt="Texas Monthly at 2022-09-22 22:40:55-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-22T22:40:35.633313-05:00.jpg">September 22 at 10:40 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 174 hyperlink lists with the Internet Archive.
+The archiving routine has saved 175 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 10:41 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-28T22:41:21.944838-05:00.hyperlinks.json) |
 | [September 28 at 10:02 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-28T10:02:25.149189-05:00.hyperlinks.json) |
 | [September 27 at 10:47 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-27T22:47:33.755564-05:00.hyperlinks.json) |
 | [September 27 at 10:02 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-27T10:02:04.634758-05:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 9:41 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-25T09:41:32.383238-05:00.hyperlinks.json) |
 | [September 24 at 10:32 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-24T22:32:29.318997-05:00.hyperlinks.json) |
 | [September 24 at 9:42 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-24T09:41:58.340116-05:00.hyperlinks.json) |
-| [September 23 at 10:34 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-23T22:34:43.144932-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 175 accessibility trees with the Internet Archive.
+The archiving routine has saved 176 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 10:41 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-28T22:41:21.944838-05:00.accessibility.json) |
 | [September 28 at 10:02 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-28T10:02:25.149189-05:00.accessibility.json) |
 | [September 27 at 10:47 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-27T22:47:33.755564-05:00.accessibility.json) |
 | [September 27 at 10:02 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-27T10:02:04.634758-05:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 9:41 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-25T09:41:32.383238-05:00.accessibility.json) |
 | [September 24 at 10:32 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-24T22:32:29.318997-05:00.accessibility.json) |
 | [September 24 at 9:42 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-24T09:41:58.340116-05:00.accessibility.json) |
-| [September 23 at 10:34 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-23T22:34:43.144932-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 135 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 136 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 10:41 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-28T22:41:21.944838-05:00.lighthouse.json) |
 | [September 28 at 10:02 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-28T10:02:25.149189-05:00.lighthouse.json) |
 | [September 27 at 10:47 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-27T22:47:33.755564-05:00.lighthouse.json) |
 | [September 27 at 10:02 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-27T10:02:04.634758-05:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 9:41 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-25T09:41:32.383238-05:00.lighthouse.json) |
 | [September 24 at 10:32 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-24T22:32:29.318997-05:00.lighthouse.json) |
 | [September 24 at 9:42 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-24T09:41:58.340116-05:00.lighthouse.json) |
-| [September 23 at 10:34 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-09-23T22:34:43.144932-05:00.lighthouse.json) |
 
 
 

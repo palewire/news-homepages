@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 146 screenshots with the Internet Archive.
+The archiving routine has saved 147 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 146 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thr-2022/thr-2022-09-28T20:45:32.222629-07:00.jpg">
+  <img src="https://archive.org/download/thr-2022/thr-2022-09-28T20:45:32.222629-07:00.jpg"
+     alt="Hollywood Reporter at 2022-09-28 20:45:36-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thr-2022/thr-2022-09-28T20:45:32.222629-07:00.jpg">September 28 at 8:45 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thr-2022/thr-2022-09-28T08:05:28.772597-07:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thr-2022/thr-2022-09-23T08:03:38.387738-07:00.jpg">September 23 at 8:03 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thr-2022/thr-2022-09-22T20:44:35.033876-07:00.jpg">
-  <img src="https://archive.org/download/thr-2022/thr-2022-09-22T20:44:35.033876-07:00.jpg"
-     alt="Hollywood Reporter at 2022-09-22 20:44:43-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thr-2022/thr-2022-09-22T20:44:35.033876-07:00.jpg">September 22 at 8:44 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 142 hyperlink lists with the Internet Archive.
+The archiving routine has saved 143 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 8:45 PM](https://archive.org/download/thr-2022/thr-2022-09-28T20:45:32.222629-07:00.hyperlinks.json) |
 | [September 28 at 8:05 AM](https://archive.org/download/thr-2022/thr-2022-09-28T08:05:28.772597-07:00.hyperlinks.json) |
 | [September 27 at 8:53 PM](https://archive.org/download/thr-2022/thr-2022-09-27T20:53:01.816059-07:00.hyperlinks.json) |
 | [September 27 at 8:06 AM](https://archive.org/download/thr-2022/thr-2022-09-27T08:06:37.877221-07:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 7:45 AM](https://archive.org/download/thr-2022/thr-2022-09-25T07:45:22.464080-07:00.hyperlinks.json) |
 | [September 24 at 8:35 PM](https://archive.org/download/thr-2022/thr-2022-09-24T20:35:19.492016-07:00.hyperlinks.json) |
 | [September 24 at 7:45 AM](https://archive.org/download/thr-2022/thr-2022-09-24T07:45:23.802428-07:00.hyperlinks.json) |
-| [September 23 at 8:36 PM](https://archive.org/download/thr-2022/thr-2022-09-23T20:36:22.573181-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 146 accessibility trees with the Internet Archive.
+The archiving routine has saved 147 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 8:45 PM](https://archive.org/download/thr-2022/thr-2022-09-28T20:45:32.222629-07:00.accessibility.json) |
 | [September 28 at 8:05 AM](https://archive.org/download/thr-2022/thr-2022-09-28T08:05:28.772597-07:00.accessibility.json) |
 | [September 27 at 8:53 PM](https://archive.org/download/thr-2022/thr-2022-09-27T20:53:01.816059-07:00.accessibility.json) |
 | [September 27 at 8:06 AM](https://archive.org/download/thr-2022/thr-2022-09-27T08:06:37.877221-07:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 7:45 AM](https://archive.org/download/thr-2022/thr-2022-09-25T07:45:22.464080-07:00.accessibility.json) |
 | [September 24 at 8:35 PM](https://archive.org/download/thr-2022/thr-2022-09-24T20:35:19.492016-07:00.accessibility.json) |
 | [September 24 at 7:45 AM](https://archive.org/download/thr-2022/thr-2022-09-24T07:45:23.802428-07:00.accessibility.json) |
-| [September 23 at 8:36 PM](https://archive.org/download/thr-2022/thr-2022-09-23T20:36:22.573181-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 135 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 136 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 8:45 PM](https://archive.org/download/thr-2022/thr-2022-09-28T20:45:32.222629-07:00.lighthouse.json) |
 | [September 28 at 8:05 AM](https://archive.org/download/thr-2022/thr-2022-09-28T08:05:28.772597-07:00.lighthouse.json) |
 | [September 27 at 8:53 PM](https://archive.org/download/thr-2022/thr-2022-09-27T20:53:01.816059-07:00.lighthouse.json) |
 | [September 27 at 8:06 AM](https://archive.org/download/thr-2022/thr-2022-09-27T08:06:37.877221-07:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 7:45 AM](https://archive.org/download/thr-2022/thr-2022-09-25T07:45:22.464080-07:00.lighthouse.json) |
 | [September 24 at 8:35 PM](https://archive.org/download/thr-2022/thr-2022-09-24T20:35:19.492016-07:00.lighthouse.json) |
 | [September 24 at 7:45 AM](https://archive.org/download/thr-2022/thr-2022-09-24T07:45:23.802428-07:00.lighthouse.json) |
-| [September 23 at 8:36 PM](https://archive.org/download/thr-2022/thr-2022-09-23T20:36:22.573181-07:00.lighthouse.json) |
 
 
 
