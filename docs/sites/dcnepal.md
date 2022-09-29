@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 133 screenshots with the Internet Archive.
+The archiving routine has saved 134 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 133 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-29T11:59:38.360168+05:45.jpg">
+  <img src="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-29T11:59:38.360168+05:45.jpg"
+     alt="DC Nepal at 2022-09-29 12:00:07+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-29T11:59:38.360168+05:45.jpg">September 29 at 12:00 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-28T23:39:19.463834+05:45.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-23T23:20:56.288484+05:45.jpg">September 23 at 11:21 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-23T12:57:32.490704+05:45.jpg">
-  <img src="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-23T12:57:32.490704+05:45.jpg"
-     alt="DC Nepal at 2022-09-23 12:57:41+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-09-23T12:57:32.490704+05:45.jpg">September 23 at 12:57 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 133 hyperlink lists with the Internet Archive.
+The archiving routine has saved 134 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 12:00 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-29T11:59:38.360168+05:45.hyperlinks.json) |
 | [September 28 at 11:39 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-28T23:39:19.463834+05:45.hyperlinks.json) |
 | [September 28 at 12:05 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-28T12:05:40.217216+05:45.hyperlinks.json) |
 | [September 27 at 11:35 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-27T23:35:50.186824+05:45.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 11:07 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-25T23:07:18.779331+05:45.hyperlinks.json) |
 | [September 25 at 11:32 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-25T11:32:18.215160+05:45.hyperlinks.json) |
 | [September 24 at 11:08 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-24T23:07:52.187509+05:45.hyperlinks.json) |
-| [September 24 at 11:33 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-24T11:33:25.376744+05:45.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 133 accessibility trees with the Internet Archive.
+The archiving routine has saved 134 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 12:00 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-29T11:59:38.360168+05:45.accessibility.json) |
 | [September 28 at 11:39 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-28T23:39:19.463834+05:45.accessibility.json) |
 | [September 28 at 12:05 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-28T12:05:40.217216+05:45.accessibility.json) |
 | [September 27 at 11:35 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-27T23:35:50.186824+05:45.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 11:07 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-25T23:07:18.779331+05:45.accessibility.json) |
 | [September 25 at 11:32 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-25T11:32:18.215160+05:45.accessibility.json) |
 | [September 24 at 11:08 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-24T23:07:52.187509+05:45.accessibility.json) |
-| [September 24 at 11:33 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-24T11:33:25.376744+05:45.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 12:00 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-29T11:59:38.360168+05:45.lighthouse.json) |
 | [September 28 at 11:39 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-28T23:39:19.463834+05:45.lighthouse.json) |
 | [September 28 at 12:05 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-28T12:05:40.217216+05:45.lighthouse.json) |
 | [September 27 at 11:36 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-27T23:35:50.186824+05:45.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 11:07 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-25T23:07:18.779331+05:45.lighthouse.json) |
 | [September 25 at 11:32 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-25T11:32:18.215160+05:45.lighthouse.json) |
 | [September 24 at 11:08 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-24T23:07:52.187509+05:45.lighthouse.json) |
-| [September 24 at 11:33 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-09-24T11:33:25.376744+05:45.lighthouse.json) |
 
 
 

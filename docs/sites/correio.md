@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 158 screenshots with the Internet Archive.
+The archiving routine has saved 159 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 158 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/correio-2022/correio-2022-09-29T03:07:53.693438-03:00.jpg">
+  <img src="https://archive.org/download/correio-2022/correio-2022-09-29T03:07:53.693438-03:00.jpg"
+     alt="Correio Braziliense at 2022-09-29 03:08:03-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/correio-2022/correio-2022-09-29T03:07:53.693438-03:00.jpg">September 29 at 3:08 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/correio-2022/correio-2022-09-28T14:45:49.019918-03:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/correio-2022/correio-2022-09-25T08:50:27.437012-03:00.jpg">September 25 at 8:50 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/correio-2022/correio-2022-09-25T02:42:47.594809-03:00.jpg">
-  <img src="https://archive.org/download/correio-2022/correio-2022-09-25T02:42:47.594809-03:00.jpg"
-     alt="Correio Braziliense at 2022-09-25 02:43:10-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/correio-2022/correio-2022-09-25T02:42:47.594809-03:00.jpg">September 25 at 2:43 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 160 hyperlink lists with the Internet Archive.
+The archiving routine has saved 161 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 3:08 AM](https://archive.org/download/correio-2022/correio-2022-09-29T03:07:53.693438-03:00.hyperlinks.json) |
 | [September 28 at 2:45 PM](https://archive.org/download/correio-2022/correio-2022-09-28T14:45:49.019918-03:00.hyperlinks.json) |
 | [September 28 at 9:02 AM](https://archive.org/download/correio-2022/correio-2022-09-28T09:02:05.097512-03:00.hyperlinks.json) |
 | [September 28 at 3:15 AM](https://archive.org/download/correio-2022/correio-2022-09-28T03:15:35.690294-03:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 2:35 PM](https://archive.org/download/correio-2022/correio-2022-09-26T14:35:30.214645-03:00.hyperlinks.json) |
 | [September 26 at 9:05 AM](https://archive.org/download/correio-2022/correio-2022-09-26T09:05:07.073527-03:00.hyperlinks.json) |
 | [September 26 at 3:08 AM](https://archive.org/download/correio-2022/correio-2022-09-26T03:08:27.693590-03:00.hyperlinks.json) |
-| [September 25 at 2:17 PM](https://archive.org/download/correio-2022/correio-2022-09-25T14:16:56.211272-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 159 accessibility trees with the Internet Archive.
+The archiving routine has saved 160 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 3:08 AM](https://archive.org/download/correio-2022/correio-2022-09-29T03:07:53.693438-03:00.accessibility.json) |
 | [September 28 at 2:45 PM](https://archive.org/download/correio-2022/correio-2022-09-28T14:45:49.019918-03:00.accessibility.json) |
 | [September 28 at 9:02 AM](https://archive.org/download/correio-2022/correio-2022-09-28T09:02:05.097512-03:00.accessibility.json) |
 | [September 28 at 3:15 AM](https://archive.org/download/correio-2022/correio-2022-09-28T03:15:35.690294-03:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 2:35 PM](https://archive.org/download/correio-2022/correio-2022-09-26T14:35:30.214645-03:00.accessibility.json) |
 | [September 26 at 9:05 AM](https://archive.org/download/correio-2022/correio-2022-09-26T09:05:07.073527-03:00.accessibility.json) |
 | [September 26 at 3:08 AM](https://archive.org/download/correio-2022/correio-2022-09-26T03:08:27.693590-03:00.accessibility.json) |
-| [September 25 at 2:17 PM](https://archive.org/download/correio-2022/correio-2022-09-25T14:16:56.211272-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 160 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 161 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 3:08 AM](https://archive.org/download/correio-2022/correio-2022-09-29T03:07:53.693438-03:00.lighthouse.json) |
 | [September 28 at 2:45 PM](https://archive.org/download/correio-2022/correio-2022-09-28T14:45:49.019918-03:00.lighthouse.json) |
 | [September 28 at 9:02 AM](https://archive.org/download/correio-2022/correio-2022-09-28T09:02:05.097512-03:00.lighthouse.json) |
 | [September 28 at 3:15 AM](https://archive.org/download/correio-2022/correio-2022-09-28T03:15:35.690294-03:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 2:35 PM](https://archive.org/download/correio-2022/correio-2022-09-26T14:35:30.214645-03:00.lighthouse.json) |
 | [September 26 at 9:05 AM](https://archive.org/download/correio-2022/correio-2022-09-26T09:05:07.073527-03:00.lighthouse.json) |
 | [September 26 at 3:08 AM](https://archive.org/download/correio-2022/correio-2022-09-26T03:08:27.693590-03:00.lighthouse.json) |
-| [September 25 at 2:17 PM](https://archive.org/download/correio-2022/correio-2022-09-25T14:16:56.211272-03:00.lighthouse.json) |
 
 
 

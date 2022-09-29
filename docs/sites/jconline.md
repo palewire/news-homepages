@@ -28,13 +28,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 18 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jconline-2022/jconline-2022-09-29T02:02:29.544325-04:00.jpg">
+  <img src="https://archive.org/download/jconline-2022/jconline-2022-09-29T02:02:29.544325-04:00.jpg"
+     alt="Lafayette Journal & Courier at 2022-09-29 02:02:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jconline-2022/jconline-2022-09-29T02:02:29.544325-04:00.jpg">September 29 at 2:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jconline-2022/jconline-2022-09-28T13:40:06.425031-04:00.jpg">
+  <img src="https://archive.org/download/jconline-2022/jconline-2022-09-28T13:40:06.425031-04:00.jpg"
+     alt="Lafayette Journal & Courier at 2022-09-28 13:40:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jconline-2022/jconline-2022-09-28T13:40:06.425031-04:00.jpg">September 28 at 1:40 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jconline-2022/jconline-2022-09-28T02:10:08.169344-04:00.jpg">
@@ -126,29 +144,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/jconline-2022/jconline-2022-09-23T13:22:21.421349-04:00.jpg">September 23 at 1:22 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/jconline-2022/jconline-2022-09-23T01:22:03.521537-04:00.jpg">
-  <img src="https://archive.org/download/jconline-2022/jconline-2022-09-23T01:22:03.521537-04:00.jpg"
-     alt="Lafayette Journal & Courier at 2022-09-23 01:22:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jconline-2022/jconline-2022-09-23T01:22:03.521537-04:00.jpg">September 23 at 1:22 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/jconline-2022/jconline-2022-09-22T13:23:14.761393-04:00.jpg">
-  <img src="https://archive.org/download/jconline-2022/jconline-2022-09-22T13:23:14.761393-04:00.jpg"
-     alt="Lafayette Journal & Courier at 2022-09-22 13:23:20-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jconline-2022/jconline-2022-09-22T13:23:14.761393-04:00.jpg">September 22 at 1:23 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 16 hyperlink lists with the Internet Archive.
+The archiving routine has saved 18 hyperlink lists with the Internet Archive.
 
 
 
@@ -156,6 +156,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 2:02 AM](https://archive.org/download/jconline-2022/jconline-2022-09-29T02:02:29.544325-04:00.hyperlinks.json) |
+| [September 28 at 1:40 PM](https://archive.org/download/jconline-2022/jconline-2022-09-28T13:40:06.425031-04:00.hyperlinks.json) |
 | [September 28 at 2:10 AM](https://archive.org/download/jconline-2022/jconline-2022-09-28T02:10:08.169344-04:00.hyperlinks.json) |
 | [September 27 at 1:36 PM](https://archive.org/download/jconline-2022/jconline-2022-09-27T13:36:24.308973-04:00.hyperlinks.json) |
 | [September 27 at 1:41 AM](https://archive.org/download/jconline-2022/jconline-2022-09-27T01:41:42.620617-04:00.hyperlinks.json) |
@@ -164,13 +166,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 1:11 PM](https://archive.org/download/jconline-2022/jconline-2022-09-25T13:11:21.629695-04:00.hyperlinks.json) |
 | [September 25 at 1:37 AM](https://archive.org/download/jconline-2022/jconline-2022-09-25T01:37:30.933958-04:00.hyperlinks.json) |
 | [September 24 at 1:12 PM](https://archive.org/download/jconline-2022/jconline-2022-09-24T13:12:36.782993-04:00.hyperlinks.json) |
-| [September 24 at 1:38 AM](https://archive.org/download/jconline-2022/jconline-2022-09-24T01:38:28.748495-04:00.hyperlinks.json) |
-| [September 23 at 1:22 PM](https://archive.org/download/jconline-2022/jconline-2022-09-23T13:22:21.421349-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 16 accessibility trees with the Internet Archive.
+The archiving routine has saved 18 accessibility trees with the Internet Archive.
 
 
 
@@ -178,6 +178,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 2:02 AM](https://archive.org/download/jconline-2022/jconline-2022-09-29T02:02:29.544325-04:00.accessibility.json) |
+| [September 28 at 1:40 PM](https://archive.org/download/jconline-2022/jconline-2022-09-28T13:40:06.425031-04:00.accessibility.json) |
 | [September 28 at 2:10 AM](https://archive.org/download/jconline-2022/jconline-2022-09-28T02:10:08.169344-04:00.accessibility.json) |
 | [September 27 at 1:36 PM](https://archive.org/download/jconline-2022/jconline-2022-09-27T13:36:24.308973-04:00.accessibility.json) |
 | [September 27 at 1:41 AM](https://archive.org/download/jconline-2022/jconline-2022-09-27T01:41:42.620617-04:00.accessibility.json) |
@@ -186,14 +188,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 1:11 PM](https://archive.org/download/jconline-2022/jconline-2022-09-25T13:11:21.629695-04:00.accessibility.json) |
 | [September 25 at 1:37 AM](https://archive.org/download/jconline-2022/jconline-2022-09-25T01:37:30.933958-04:00.accessibility.json) |
 | [September 24 at 1:12 PM](https://archive.org/download/jconline-2022/jconline-2022-09-24T13:12:36.782993-04:00.accessibility.json) |
-| [September 24 at 1:38 AM](https://archive.org/download/jconline-2022/jconline-2022-09-24T01:38:28.748495-04:00.accessibility.json) |
-| [September 23 at 1:22 PM](https://archive.org/download/jconline-2022/jconline-2022-09-23T13:22:21.421349-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
 
 
 
@@ -201,6 +201,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 2:02 AM](https://archive.org/download/jconline-2022/jconline-2022-09-29T02:02:29.544325-04:00.lighthouse.json) |
+| [September 28 at 1:40 PM](https://archive.org/download/jconline-2022/jconline-2022-09-28T13:40:06.425031-04:00.lighthouse.json) |
 | [September 28 at 2:10 AM](https://archive.org/download/jconline-2022/jconline-2022-09-28T02:10:08.169344-04:00.lighthouse.json) |
 | [September 27 at 1:36 PM](https://archive.org/download/jconline-2022/jconline-2022-09-27T13:36:24.308973-04:00.lighthouse.json) |
 | [September 27 at 1:41 AM](https://archive.org/download/jconline-2022/jconline-2022-09-27T01:41:42.620617-04:00.lighthouse.json) |
@@ -209,8 +211,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 1:11 PM](https://archive.org/download/jconline-2022/jconline-2022-09-25T13:11:21.629695-04:00.lighthouse.json) |
 | [September 25 at 1:37 AM](https://archive.org/download/jconline-2022/jconline-2022-09-25T01:37:30.933958-04:00.lighthouse.json) |
 | [September 24 at 1:12 PM](https://archive.org/download/jconline-2022/jconline-2022-09-24T13:12:36.782993-04:00.lighthouse.json) |
-| [September 24 at 1:38 AM](https://archive.org/download/jconline-2022/jconline-2022-09-24T01:38:28.748495-04:00.lighthouse.json) |
-| [September 23 at 1:22 PM](https://archive.org/download/jconline-2022/jconline-2022-09-23T13:22:21.421349-04:00.lighthouse.json) |
 
 
 

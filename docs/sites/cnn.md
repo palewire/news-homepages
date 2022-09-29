@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 880 screenshots with the Internet Archive.
+The archiving routine has saved 882 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,6 +120,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/cnn-2022/cnn-2022-09-29T02:08:31.107865-04:00.jpg">
+  <img src="https://archive.org/download/cnn-2022/cnn-2022-09-29T02:08:31.107865-04:00.jpg"
+     alt="CNN at 2022-09-29 02:08:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnn-2022/cnn-2022-09-29T02:08:31.107865-04:00.jpg">September 29 at 2:08 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnn-2022/cnn-2022-09-28T17:17:11.917498-04:00.jpg">
+  <img src="https://archive.org/download/cnn-2022/cnn-2022-09-28T17:17:11.917498-04:00.jpg"
+     alt="CNN at 2022-09-28 17:17:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnn-2022/cnn-2022-09-28T17:17:11.917498-04:00.jpg">September 28 at 5:17 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/cnn-2022/cnn-2022-09-28T13:45:53.680786-04:00.jpg">
   <img src="https://archive.org/download/cnn-2022/cnn-2022-09-28T13:45:53.680786-04:00.jpg"
      alt="CNN at 2022-09-28 13:46:20-04:00 local time"
@@ -209,29 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cnn-2022/cnn-2022-09-26T08:54:05.749106-04:00.jpg">September 26 at 8:54 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cnn-2022/cnn-2022-09-26T02:08:25.011986-04:00.jpg">
-  <img src="https://archive.org/download/cnn-2022/cnn-2022-09-26T02:08:25.011986-04:00.jpg"
-     alt="CNN at 2022-09-26 02:09:09-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cnn-2022/cnn-2022-09-26T02:08:25.011986-04:00.jpg">September 26 at 2:09 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cnn-2022/cnn-2022-09-25T17:17:54.038892-04:00.jpg">
-  <img src="https://archive.org/download/cnn-2022/cnn-2022-09-25T17:17:54.038892-04:00.jpg"
-     alt="CNN at 2022-09-25 17:18:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cnn-2022/cnn-2022-09-25T17:17:54.038892-04:00.jpg">September 25 at 5:18 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 818 hyperlink lists with the Internet Archive.
+The archiving routine has saved 820 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 2:09 AM](https://archive.org/download/cnn-2022/cnn-2022-09-29T02:08:31.107865-04:00.hyperlinks.json) |
+| [September 28 at 5:17 PM](https://archive.org/download/cnn-2022/cnn-2022-09-28T17:17:11.917498-04:00.hyperlinks.json) |
 | [September 28 at 1:46 PM](https://archive.org/download/cnn-2022/cnn-2022-09-28T13:45:53.680786-04:00.hyperlinks.json) |
 | [September 28 at 8:56 AM](https://archive.org/download/cnn-2022/cnn-2022-09-28T08:55:28.119321-04:00.hyperlinks.json) |
 | [September 28 at 2:14 AM](https://archive.org/download/cnn-2022/cnn-2022-09-28T02:14:44.965639-04:00.hyperlinks.json) |
@@ -330,13 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 8:54 AM](https://archive.org/download/cnn-2022/cnn-2022-09-27T08:54:25.620827-04:00.hyperlinks.json) |
 | [September 27 at 2:57 AM](https://archive.org/download/cnn-2022/cnn-2022-09-27T02:57:25.250880-04:00.hyperlinks.json) |
 | [September 26 at 5:16 PM](https://archive.org/download/cnn-2022/cnn-2022-09-26T17:16:49.961770-04:00.hyperlinks.json) |
-| [September 26 at 1:36 PM](https://archive.org/download/cnn-2022/cnn-2022-09-26T13:36:03.651564-04:00.hyperlinks.json) |
-| [September 26 at 8:54 AM](https://archive.org/download/cnn-2022/cnn-2022-09-26T08:54:05.749106-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 812 accessibility trees with the Internet Archive.
+The archiving routine has saved 814 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 2:09 AM](https://archive.org/download/cnn-2022/cnn-2022-09-29T02:08:31.107865-04:00.accessibility.json) |
+| [September 28 at 5:17 PM](https://archive.org/download/cnn-2022/cnn-2022-09-28T17:17:11.917498-04:00.accessibility.json) |
 | [September 28 at 1:46 PM](https://archive.org/download/cnn-2022/cnn-2022-09-28T13:45:53.680786-04:00.accessibility.json) |
 | [September 28 at 8:55 AM](https://archive.org/download/cnn-2022/cnn-2022-09-28T08:55:28.119321-04:00.accessibility.json) |
 | [September 28 at 2:14 AM](https://archive.org/download/cnn-2022/cnn-2022-09-28T02:14:44.965639-04:00.accessibility.json) |
@@ -435,14 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 8:54 AM](https://archive.org/download/cnn-2022/cnn-2022-09-27T08:54:25.620827-04:00.accessibility.json) |
 | [September 27 at 2:57 AM](https://archive.org/download/cnn-2022/cnn-2022-09-27T02:57:25.250880-04:00.accessibility.json) |
 | [September 26 at 5:16 PM](https://archive.org/download/cnn-2022/cnn-2022-09-26T17:16:49.961770-04:00.accessibility.json) |
-| [September 26 at 1:36 PM](https://archive.org/download/cnn-2022/cnn-2022-09-26T13:36:03.651564-04:00.accessibility.json) |
-| [September 26 at 8:54 AM](https://archive.org/download/cnn-2022/cnn-2022-09-26T08:54:05.749106-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 267 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 269 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 2:09 AM](https://archive.org/download/cnn-2022/cnn-2022-09-29T02:08:31.107865-04:00.lighthouse.json) |
+| [September 28 at 5:17 PM](https://archive.org/download/cnn-2022/cnn-2022-09-28T17:17:11.917498-04:00.lighthouse.json) |
 | [September 28 at 1:46 PM](https://archive.org/download/cnn-2022/cnn-2022-09-28T13:45:53.680786-04:00.lighthouse.json) |
 | [September 28 at 8:56 AM](https://archive.org/download/cnn-2022/cnn-2022-09-28T08:55:28.119321-04:00.lighthouse.json) |
 | [September 28 at 2:14 AM](https://archive.org/download/cnn-2022/cnn-2022-09-28T02:14:44.965639-04:00.lighthouse.json) |
@@ -541,8 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 8:55 AM](https://archive.org/download/cnn-2022/cnn-2022-09-27T08:54:25.620827-04:00.lighthouse.json) |
 | [September 27 at 2:57 AM](https://archive.org/download/cnn-2022/cnn-2022-09-27T02:57:25.250880-04:00.lighthouse.json) |
 | [September 26 at 5:16 PM](https://archive.org/download/cnn-2022/cnn-2022-09-26T17:16:49.961770-04:00.lighthouse.json) |
-| [September 26 at 1:36 PM](https://archive.org/download/cnn-2022/cnn-2022-09-26T13:36:03.651564-04:00.lighthouse.json) |
-| [September 26 at 8:54 AM](https://archive.org/download/cnn-2022/cnn-2022-09-26T08:54:05.749106-04:00.lighthouse.json) |
 
 
 

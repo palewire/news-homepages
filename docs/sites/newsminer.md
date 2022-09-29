@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 32 screenshots with the Internet Archive.
+The archiving routine has saved 34 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,6 +120,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/newsminer-2022/newsminer-2022-09-28T22:07:07.572448-08:00.jpg">
+  <img src="https://archive.org/download/newsminer-2022/newsminer-2022-09-28T22:07:07.572448-08:00.jpg"
+     alt="Fairbanks Daily News-Miner at 2022-09-28 22:07:09-08:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newsminer-2022/newsminer-2022-09-28T22:07:07.572448-08:00.jpg">September 28 at 10:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newsminer-2022/newsminer-2022-09-28T09:44:51.115353-08:00.jpg">
+  <img src="https://archive.org/download/newsminer-2022/newsminer-2022-09-28T09:44:51.115353-08:00.jpg"
+     alt="Fairbanks Daily News-Miner at 2022-09-28 09:44:52-08:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newsminer-2022/newsminer-2022-09-28T09:44:51.115353-08:00.jpg">September 28 at 9:44 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/newsminer-2022/newsminer-2022-09-27T22:13:57.811408-08:00.jpg">
   <img src="https://archive.org/download/newsminer-2022/newsminer-2022-09-27T22:13:57.811408-08:00.jpg"
      alt="Fairbanks Daily News-Miner at 2022-09-27 22:14:00-08:00 local time"
@@ -209,29 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/newsminer-2022/newsminer-2022-09-23T09:28:39.269674-08:00.jpg">September 23 at 9:28 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/newsminer-2022/newsminer-2022-09-22T21:25:45.547899-08:00.jpg">
-  <img src="https://archive.org/download/newsminer-2022/newsminer-2022-09-22T21:25:45.547899-08:00.jpg"
-     alt="Fairbanks Daily News-Miner at 2022-09-22 21:25:47-08:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newsminer-2022/newsminer-2022-09-22T21:25:45.547899-08:00.jpg">September 22 at 9:25 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newsminer-2022/newsminer-2022-09-22T09:27:47.511961-08:00.jpg">
-  <img src="https://archive.org/download/newsminer-2022/newsminer-2022-09-22T09:27:47.511961-08:00.jpg"
-     alt="Fairbanks Daily News-Miner at 2022-09-22 09:27:50-08:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newsminer-2022/newsminer-2022-09-22T09:27:47.511961-08:00.jpg">September 22 at 9:27 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 32 hyperlink lists with the Internet Archive.
+The archiving routine has saved 34 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 10:07 PM](https://archive.org/download/newsminer-2022/newsminer-2022-09-28T22:07:07.572448-08:00.hyperlinks.json) |
+| [September 28 at 9:44 AM](https://archive.org/download/newsminer-2022/newsminer-2022-09-28T09:44:51.115353-08:00.hyperlinks.json) |
 | [September 27 at 10:14 PM](https://archive.org/download/newsminer-2022/newsminer-2022-09-27T22:13:57.811408-08:00.hyperlinks.json) |
 | [September 27 at 9:42 AM](https://archive.org/download/newsminer-2022/newsminer-2022-09-27T09:42:04.663188-08:00.hyperlinks.json) |
 | [September 26 at 9:46 PM](https://archive.org/download/newsminer-2022/newsminer-2022-09-26T21:46:11.685230-08:00.hyperlinks.json) |
@@ -330,13 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 9:16 AM](https://archive.org/download/newsminer-2022/newsminer-2022-09-25T09:16:20.989310-08:00.hyperlinks.json) |
 | [September 24 at 9:41 PM](https://archive.org/download/newsminer-2022/newsminer-2022-09-24T21:41:21.304895-08:00.hyperlinks.json) |
 | [September 24 at 9:15 AM](https://archive.org/download/newsminer-2022/newsminer-2022-09-24T09:15:41.356443-08:00.hyperlinks.json) |
-| [September 23 at 9:42 PM](https://archive.org/download/newsminer-2022/newsminer-2022-09-23T21:42:18.578045-08:00.hyperlinks.json) |
-| [September 23 at 9:28 AM](https://archive.org/download/newsminer-2022/newsminer-2022-09-23T09:28:39.269674-08:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 32 accessibility trees with the Internet Archive.
+The archiving routine has saved 34 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 10:07 PM](https://archive.org/download/newsminer-2022/newsminer-2022-09-28T22:07:07.572448-08:00.accessibility.json) |
+| [September 28 at 9:44 AM](https://archive.org/download/newsminer-2022/newsminer-2022-09-28T09:44:51.115353-08:00.accessibility.json) |
 | [September 27 at 10:14 PM](https://archive.org/download/newsminer-2022/newsminer-2022-09-27T22:13:57.811408-08:00.accessibility.json) |
 | [September 27 at 9:42 AM](https://archive.org/download/newsminer-2022/newsminer-2022-09-27T09:42:04.663188-08:00.accessibility.json) |
 | [September 26 at 9:46 PM](https://archive.org/download/newsminer-2022/newsminer-2022-09-26T21:46:11.685230-08:00.accessibility.json) |
@@ -435,14 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 9:16 AM](https://archive.org/download/newsminer-2022/newsminer-2022-09-25T09:16:20.989310-08:00.accessibility.json) |
 | [September 24 at 9:41 PM](https://archive.org/download/newsminer-2022/newsminer-2022-09-24T21:41:21.304895-08:00.accessibility.json) |
 | [September 24 at 9:15 AM](https://archive.org/download/newsminer-2022/newsminer-2022-09-24T09:15:41.356443-08:00.accessibility.json) |
-| [September 23 at 9:42 PM](https://archive.org/download/newsminer-2022/newsminer-2022-09-23T21:42:18.578045-08:00.accessibility.json) |
-| [September 23 at 9:28 AM](https://archive.org/download/newsminer-2022/newsminer-2022-09-23T09:28:39.269674-08:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 10:07 PM](https://archive.org/download/newsminer-2022/newsminer-2022-09-28T22:07:07.572448-08:00.lighthouse.json) |
+| [September 28 at 9:45 AM](https://archive.org/download/newsminer-2022/newsminer-2022-09-28T09:44:51.115353-08:00.lighthouse.json) |
 | [September 27 at 10:14 PM](https://archive.org/download/newsminer-2022/newsminer-2022-09-27T22:13:57.811408-08:00.lighthouse.json) |
 | [September 27 at 9:42 AM](https://archive.org/download/newsminer-2022/newsminer-2022-09-27T09:42:04.663188-08:00.lighthouse.json) |
 | [September 26 at 9:46 PM](https://archive.org/download/newsminer-2022/newsminer-2022-09-26T21:46:11.685230-08:00.lighthouse.json) |
@@ -541,8 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 9:16 AM](https://archive.org/download/newsminer-2022/newsminer-2022-09-25T09:16:20.989310-08:00.lighthouse.json) |
 | [September 24 at 9:41 PM](https://archive.org/download/newsminer-2022/newsminer-2022-09-24T21:41:21.304895-08:00.lighthouse.json) |
 | [September 24 at 9:15 AM](https://archive.org/download/newsminer-2022/newsminer-2022-09-24T09:15:41.356443-08:00.lighthouse.json) |
-| [September 23 at 9:42 PM](https://archive.org/download/newsminer-2022/newsminer-2022-09-23T21:42:18.578045-08:00.lighthouse.json) |
-| [September 23 at 9:28 AM](https://archive.org/download/newsminer-2022/newsminer-2022-09-23T09:28:39.269674-08:00.lighthouse.json) |
 
 
 

@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 141 screenshots with the Internet Archive.
+The archiving routine has saved 142 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 141 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wtoc11-2022/wtoc11-2022-09-29T01:24:29.717766-04:00.jpg">
+  <img src="https://archive.org/download/wtoc11-2022/wtoc11-2022-09-29T01:24:29.717766-04:00.jpg"
+     alt="WTOC at 2022-09-29 01:24:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wtoc11-2022/wtoc11-2022-09-29T01:24:29.717766-04:00.jpg">September 29 at 1:24 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wtoc11-2022/wtoc11-2022-09-28T12:20:28.150218-04:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wtoc11-2022/wtoc11-2022-09-23T12:02:59.367603-04:00.jpg">September 23 at 12:03 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wtoc11-2022/wtoc11-2022-09-23T01:19:11.078922-04:00.jpg">
-  <img src="https://archive.org/download/wtoc11-2022/wtoc11-2022-09-23T01:19:11.078922-04:00.jpg"
-     alt="WTOC at 2022-09-23 01:19:15-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wtoc11-2022/wtoc11-2022-09-23T01:19:11.078922-04:00.jpg">September 23 at 1:19 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 141 hyperlink lists with the Internet Archive.
+The archiving routine has saved 142 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 1:24 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-29T01:24:29.717766-04:00.hyperlinks.json) |
 | [September 28 at 12:21 PM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-28T12:20:28.150218-04:00.hyperlinks.json) |
 | [September 28 at 2:08 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-28T02:08:09.852151-04:00.hyperlinks.json) |
 | [September 27 at 12:10 PM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-27T12:10:21.572008-04:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 11:55 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-25T11:55:03.982638-04:00.hyperlinks.json) |
 | [September 25 at 12:32 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-25T00:32:08.337661-04:00.hyperlinks.json) |
 | [September 24 at 11:53 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-24T11:52:55.846378-04:00.hyperlinks.json) |
-| [September 24 at 12:34 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-24T00:33:52.860057-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 142 accessibility trees with the Internet Archive.
+The archiving routine has saved 143 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 1:24 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-29T01:24:29.717766-04:00.accessibility.json) |
 | [September 28 at 12:21 PM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-28T12:20:28.150218-04:00.accessibility.json) |
 | [September 28 at 2:08 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-28T02:08:09.852151-04:00.accessibility.json) |
 | [September 27 at 12:10 PM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-27T12:10:21.572008-04:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 11:55 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-25T11:55:03.982638-04:00.accessibility.json) |
 | [September 25 at 12:32 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-25T00:32:08.337661-04:00.accessibility.json) |
 | [September 24 at 11:53 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-24T11:52:55.846378-04:00.accessibility.json) |
-| [September 24 at 12:33 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-24T00:33:52.860057-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 135 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 136 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 1:24 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-29T01:24:29.717766-04:00.lighthouse.json) |
 | [September 28 at 12:21 PM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-28T12:20:28.150218-04:00.lighthouse.json) |
 | [September 28 at 2:08 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-28T02:08:09.852151-04:00.lighthouse.json) |
 | [September 27 at 12:10 PM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-27T12:10:21.572008-04:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 11:55 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-25T11:55:03.982638-04:00.lighthouse.json) |
 | [September 25 at 12:32 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-25T00:32:08.337661-04:00.lighthouse.json) |
 | [September 24 at 11:53 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-24T11:52:55.846378-04:00.lighthouse.json) |
-| [September 24 at 12:34 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-24T00:33:52.860057-04:00.lighthouse.json) |
 
 
 

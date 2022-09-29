@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 210 screenshots with the Internet Archive.
+The archiving routine has saved 212 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,6 +120,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/dailykos-2022/dailykos-2022-09-29T02:09:30.405669-04:00.jpg">
+  <img src="https://archive.org/download/dailykos-2022/dailykos-2022-09-29T02:09:30.405669-04:00.jpg"
+     alt="Daily Kos at 2022-09-29 02:09:39-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailykos-2022/dailykos-2022-09-29T02:09:30.405669-04:00.jpg">September 29 at 2:09 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailykos-2022/dailykos-2022-09-28T15:44:30.527243-04:00.jpg">
+  <img src="https://archive.org/download/dailykos-2022/dailykos-2022-09-28T15:44:30.527243-04:00.jpg"
+     alt="Daily Kos at 2022-09-28 15:44:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailykos-2022/dailykos-2022-09-28T15:44:30.527243-04:00.jpg">September 28 at 3:44 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/dailykos-2022/dailykos-2022-09-28T13:52:07.871135-04:00.jpg">
   <img src="https://archive.org/download/dailykos-2022/dailykos-2022-09-28T13:52:07.871135-04:00.jpg"
      alt="Daily Kos at 2022-09-28 13:52:18-04:00 local time"
@@ -209,29 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailykos-2022/dailykos-2022-09-25T13:22:40.869286-04:00.jpg">September 25 at 1:23 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailykos-2022/dailykos-2022-09-25T01:47:36.785923-04:00.jpg">
-  <img src="https://archive.org/download/dailykos-2022/dailykos-2022-09-25T01:47:36.785923-04:00.jpg"
-     alt="Daily Kos at 2022-09-25 01:47:43-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailykos-2022/dailykos-2022-09-25T01:47:36.785923-04:00.jpg">September 25 at 1:47 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailykos-2022/dailykos-2022-09-24T15:01:47.299103-04:00.jpg">
-  <img src="https://archive.org/download/dailykos-2022/dailykos-2022-09-24T15:01:47.299103-04:00.jpg"
-     alt="Daily Kos at 2022-09-24 15:01:48-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailykos-2022/dailykos-2022-09-24T15:01:47.299103-04:00.jpg">September 24 at 3:01 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 211 hyperlink lists with the Internet Archive.
+The archiving routine has saved 213 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 2:09 AM](https://archive.org/download/dailykos-2022/dailykos-2022-09-29T02:09:30.405669-04:00.hyperlinks.json) |
+| [September 28 at 3:44 PM](https://archive.org/download/dailykos-2022/dailykos-2022-09-28T15:44:30.527243-04:00.hyperlinks.json) |
 | [September 28 at 1:52 PM](https://archive.org/download/dailykos-2022/dailykos-2022-09-28T13:52:07.871135-04:00.hyperlinks.json) |
 | [September 28 at 2:17 AM](https://archive.org/download/dailykos-2022/dailykos-2022-09-28T02:17:11.603057-04:00.hyperlinks.json) |
 | [September 27 at 3:48 PM](https://archive.org/download/dailykos-2022/dailykos-2022-09-27T15:48:51.897885-04:00.hyperlinks.json) |
@@ -330,13 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 3:48 PM](https://archive.org/download/dailykos-2022/dailykos-2022-09-26T15:48:15.237003-04:00.hyperlinks.json) |
 | [September 26 at 1:39 PM](https://archive.org/download/dailykos-2022/dailykos-2022-09-26T13:39:21.337956-04:00.hyperlinks.json) |
 | [September 26 at 2:13 AM](https://archive.org/download/dailykos-2022/dailykos-2022-09-26T02:12:38.169827-04:00.hyperlinks.json) |
-| [September 25 at 3:05 PM](https://archive.org/download/dailykos-2022/dailykos-2022-09-25T15:05:31.320898-04:00.hyperlinks.json) |
-| [September 25 at 1:23 PM](https://archive.org/download/dailykos-2022/dailykos-2022-09-25T13:22:40.869286-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 211 accessibility trees with the Internet Archive.
+The archiving routine has saved 213 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 2:09 AM](https://archive.org/download/dailykos-2022/dailykos-2022-09-29T02:09:30.405669-04:00.accessibility.json) |
+| [September 28 at 3:44 PM](https://archive.org/download/dailykos-2022/dailykos-2022-09-28T15:44:30.527243-04:00.accessibility.json) |
 | [September 28 at 1:52 PM](https://archive.org/download/dailykos-2022/dailykos-2022-09-28T13:52:07.871135-04:00.accessibility.json) |
 | [September 28 at 2:17 AM](https://archive.org/download/dailykos-2022/dailykos-2022-09-28T02:17:11.603057-04:00.accessibility.json) |
 | [September 27 at 3:48 PM](https://archive.org/download/dailykos-2022/dailykos-2022-09-27T15:48:51.897885-04:00.accessibility.json) |
@@ -435,14 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 3:48 PM](https://archive.org/download/dailykos-2022/dailykos-2022-09-26T15:48:15.237003-04:00.accessibility.json) |
 | [September 26 at 1:39 PM](https://archive.org/download/dailykos-2022/dailykos-2022-09-26T13:39:21.337956-04:00.accessibility.json) |
 | [September 26 at 2:12 AM](https://archive.org/download/dailykos-2022/dailykos-2022-09-26T02:12:38.169827-04:00.accessibility.json) |
-| [September 25 at 3:05 PM](https://archive.org/download/dailykos-2022/dailykos-2022-09-25T15:05:31.320898-04:00.accessibility.json) |
-| [September 25 at 1:23 PM](https://archive.org/download/dailykos-2022/dailykos-2022-09-25T13:22:40.869286-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 195 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 197 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 2:09 AM](https://archive.org/download/dailykos-2022/dailykos-2022-09-29T02:09:30.405669-04:00.lighthouse.json) |
+| [September 28 at 3:44 PM](https://archive.org/download/dailykos-2022/dailykos-2022-09-28T15:44:30.527243-04:00.lighthouse.json) |
 | [September 28 at 1:52 PM](https://archive.org/download/dailykos-2022/dailykos-2022-09-28T13:52:07.871135-04:00.lighthouse.json) |
 | [September 28 at 2:17 AM](https://archive.org/download/dailykos-2022/dailykos-2022-09-28T02:17:11.603057-04:00.lighthouse.json) |
 | [September 27 at 3:48 PM](https://archive.org/download/dailykos-2022/dailykos-2022-09-27T15:48:51.897885-04:00.lighthouse.json) |
@@ -541,8 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 3:48 PM](https://archive.org/download/dailykos-2022/dailykos-2022-09-26T15:48:15.237003-04:00.lighthouse.json) |
 | [September 26 at 1:39 PM](https://archive.org/download/dailykos-2022/dailykos-2022-09-26T13:39:21.337956-04:00.lighthouse.json) |
 | [September 26 at 2:13 AM](https://archive.org/download/dailykos-2022/dailykos-2022-09-26T02:12:38.169827-04:00.lighthouse.json) |
-| [September 25 at 3:05 PM](https://archive.org/download/dailykos-2022/dailykos-2022-09-25T15:05:31.320898-04:00.lighthouse.json) |
-| [September 25 at 1:23 PM](https://archive.org/download/dailykos-2022/dailykos-2022-09-25T13:22:40.869286-04:00.lighthouse.json) |
 
 
 

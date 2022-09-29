@@ -28,13 +28,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 18 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mnherald-2022/mnherald-2022-09-29T01:06:46.651598-05:00.jpg">
+  <img src="https://archive.org/download/mnherald-2022/mnherald-2022-09-29T01:06:46.651598-05:00.jpg"
+     alt="Marshfield News-Herald at 2022-09-29 01:06:48-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mnherald-2022/mnherald-2022-09-29T01:06:46.651598-05:00.jpg">September 29 at 1:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mnherald-2022/mnherald-2022-09-28T12:43:36.522801-05:00.jpg">
+  <img src="https://archive.org/download/mnherald-2022/mnherald-2022-09-28T12:43:36.522801-05:00.jpg"
+     alt="Marshfield News-Herald at 2022-09-28 12:43:38-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mnherald-2022/mnherald-2022-09-28T12:43:36.522801-05:00.jpg">September 28 at 12:43 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mnherald-2022/mnherald-2022-09-28T01:13:28.866279-05:00.jpg">
@@ -126,29 +144,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mnherald-2022/mnherald-2022-09-23T12:27:29.031044-05:00.jpg">September 23 at 12:27 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mnherald-2022/mnherald-2022-09-23T00:23:47.606528-05:00.jpg">
-  <img src="https://archive.org/download/mnherald-2022/mnherald-2022-09-23T00:23:47.606528-05:00.jpg"
-     alt="Marshfield News-Herald at 2022-09-23 00:23:49-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mnherald-2022/mnherald-2022-09-23T00:23:47.606528-05:00.jpg">September 23 at 12:23 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mnherald-2022/mnherald-2022-09-22T12:26:40.643650-05:00.jpg">
-  <img src="https://archive.org/download/mnherald-2022/mnherald-2022-09-22T12:26:40.643650-05:00.jpg"
-     alt="Marshfield News-Herald at 2022-09-22 12:26:42-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mnherald-2022/mnherald-2022-09-22T12:26:40.643650-05:00.jpg">September 22 at 12:26 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 16 hyperlink lists with the Internet Archive.
+The archiving routine has saved 18 hyperlink lists with the Internet Archive.
 
 
 
@@ -156,6 +156,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 1:06 AM](https://archive.org/download/mnherald-2022/mnherald-2022-09-29T01:06:46.651598-05:00.hyperlinks.json) |
+| [September 28 at 12:43 PM](https://archive.org/download/mnherald-2022/mnherald-2022-09-28T12:43:36.522801-05:00.hyperlinks.json) |
 | [September 28 at 1:13 AM](https://archive.org/download/mnherald-2022/mnherald-2022-09-28T01:13:28.866279-05:00.hyperlinks.json) |
 | [September 27 at 12:41 PM](https://archive.org/download/mnherald-2022/mnherald-2022-09-27T12:41:51.916944-05:00.hyperlinks.json) |
 | [September 27 at 12:44 AM](https://archive.org/download/mnherald-2022/mnherald-2022-09-27T00:44:39.354190-05:00.hyperlinks.json) |
@@ -164,13 +166,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 12:14 PM](https://archive.org/download/mnherald-2022/mnherald-2022-09-25T12:14:36.704500-05:00.hyperlinks.json) |
 | [September 25 at 12:41 AM](https://archive.org/download/mnherald-2022/mnherald-2022-09-25T00:41:34.400132-05:00.hyperlinks.json) |
 | [September 24 at 12:15 PM](https://archive.org/download/mnherald-2022/mnherald-2022-09-24T12:15:30.749819-05:00.hyperlinks.json) |
-| [September 24 at 12:41 AM](https://archive.org/download/mnherald-2022/mnherald-2022-09-24T00:41:39.504944-05:00.hyperlinks.json) |
-| [September 23 at 12:27 PM](https://archive.org/download/mnherald-2022/mnherald-2022-09-23T12:27:29.031044-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 16 accessibility trees with the Internet Archive.
+The archiving routine has saved 18 accessibility trees with the Internet Archive.
 
 
 
@@ -178,6 +178,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 1:06 AM](https://archive.org/download/mnherald-2022/mnherald-2022-09-29T01:06:46.651598-05:00.accessibility.json) |
+| [September 28 at 12:43 PM](https://archive.org/download/mnherald-2022/mnherald-2022-09-28T12:43:36.522801-05:00.accessibility.json) |
 | [September 28 at 1:13 AM](https://archive.org/download/mnherald-2022/mnherald-2022-09-28T01:13:28.866279-05:00.accessibility.json) |
 | [September 27 at 12:41 PM](https://archive.org/download/mnherald-2022/mnherald-2022-09-27T12:41:51.916944-05:00.accessibility.json) |
 | [September 27 at 12:44 AM](https://archive.org/download/mnherald-2022/mnherald-2022-09-27T00:44:39.354190-05:00.accessibility.json) |
@@ -186,14 +188,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 12:14 PM](https://archive.org/download/mnherald-2022/mnherald-2022-09-25T12:14:36.704500-05:00.accessibility.json) |
 | [September 25 at 12:41 AM](https://archive.org/download/mnherald-2022/mnherald-2022-09-25T00:41:34.400132-05:00.accessibility.json) |
 | [September 24 at 12:15 PM](https://archive.org/download/mnherald-2022/mnherald-2022-09-24T12:15:30.749819-05:00.accessibility.json) |
-| [September 24 at 12:41 AM](https://archive.org/download/mnherald-2022/mnherald-2022-09-24T00:41:39.504944-05:00.accessibility.json) |
-| [September 23 at 12:27 PM](https://archive.org/download/mnherald-2022/mnherald-2022-09-23T12:27:29.031044-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
 
 
 
@@ -201,6 +201,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 1:06 AM](https://archive.org/download/mnherald-2022/mnherald-2022-09-29T01:06:46.651598-05:00.lighthouse.json) |
+| [September 28 at 12:43 PM](https://archive.org/download/mnherald-2022/mnherald-2022-09-28T12:43:36.522801-05:00.lighthouse.json) |
 | [September 28 at 1:13 AM](https://archive.org/download/mnherald-2022/mnherald-2022-09-28T01:13:28.866279-05:00.lighthouse.json) |
 | [September 27 at 12:42 PM](https://archive.org/download/mnherald-2022/mnherald-2022-09-27T12:41:51.916944-05:00.lighthouse.json) |
 | [September 27 at 12:44 AM](https://archive.org/download/mnherald-2022/mnherald-2022-09-27T00:44:39.354190-05:00.lighthouse.json) |
@@ -209,8 +211,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 12:14 PM](https://archive.org/download/mnherald-2022/mnherald-2022-09-25T12:14:36.704500-05:00.lighthouse.json) |
 | [September 25 at 12:41 AM](https://archive.org/download/mnherald-2022/mnherald-2022-09-25T00:41:34.400132-05:00.lighthouse.json) |
 | [September 24 at 12:15 PM](https://archive.org/download/mnherald-2022/mnherald-2022-09-24T12:15:30.749819-05:00.lighthouse.json) |
-| [September 24 at 12:41 AM](https://archive.org/download/mnherald-2022/mnherald-2022-09-24T00:41:39.504944-05:00.lighthouse.json) |
-| [September 23 at 12:27 PM](https://archive.org/download/mnherald-2022/mnherald-2022-09-23T12:27:29.031044-05:00.lighthouse.json) |
 
 
 

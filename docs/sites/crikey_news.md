@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 75 screenshots with the Internet Archive.
+The archiving routine has saved 76 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 75 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/crikey_news-2022/crikey_news-2022-09-29T16:10:10.408128+10:00.jpg">
+  <img src="https://archive.org/download/crikey_news-2022/crikey_news-2022-09-29T16:10:10.408128+10:00.jpg"
+     alt="Crikey at 2022-09-29 16:10:11+10:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/crikey_news-2022/crikey_news-2022-09-29T16:10:10.408128+10:00.jpg">September 29 at 4:10 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/crikey_news-2022/crikey_news-2022-09-29T03:45:26.979425+10:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/crikey_news-2022/crikey_news-2022-09-24T03:29:58.748664+10:00.jpg">September 24 at 3:30 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/crikey_news-2022/crikey_news-2022-09-23T17:11:03.239979+10:00.jpg">
-  <img src="https://archive.org/download/crikey_news-2022/crikey_news-2022-09-23T17:11:03.239979+10:00.jpg"
-     alt="Crikey at 2022-09-23 17:11:04+10:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/crikey_news-2022/crikey_news-2022-09-23T17:11:03.239979+10:00.jpg">September 23 at 5:11 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 75 hyperlink lists with the Internet Archive.
+The archiving routine has saved 76 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 4:10 PM](https://archive.org/download/crikey_news-2022/crikey_news-2022-09-29T16:10:10.408128+10:00.hyperlinks.json) |
 | [September 29 at 3:45 AM](https://archive.org/download/crikey_news-2022/crikey_news-2022-09-29T03:45:26.979425+10:00.hyperlinks.json) |
 | [September 28 at 4:15 PM](https://archive.org/download/crikey_news-2022/crikey_news-2022-09-28T16:15:36.147426+10:00.hyperlinks.json) |
 | [September 28 at 3:44 AM](https://archive.org/download/crikey_news-2022/crikey_news-2022-09-28T03:44:18.911068+10:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 3:16 AM](https://archive.org/download/crikey_news-2022/crikey_news-2022-09-26T03:16:42.745844+10:00.hyperlinks.json) |
 | [September 25 at 3:42 PM](https://archive.org/download/crikey_news-2022/crikey_news-2022-09-25T15:42:44.579894+10:00.hyperlinks.json) |
 | [September 25 at 3:16 AM](https://archive.org/download/crikey_news-2022/crikey_news-2022-09-25T03:16:37.477967+10:00.hyperlinks.json) |
-| [September 24 at 3:43 PM](https://archive.org/download/crikey_news-2022/crikey_news-2022-09-24T15:42:59.595206+10:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 75 accessibility trees with the Internet Archive.
+The archiving routine has saved 76 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 4:10 PM](https://archive.org/download/crikey_news-2022/crikey_news-2022-09-29T16:10:10.408128+10:00.accessibility.json) |
 | [September 29 at 3:45 AM](https://archive.org/download/crikey_news-2022/crikey_news-2022-09-29T03:45:26.979425+10:00.accessibility.json) |
 | [September 28 at 4:15 PM](https://archive.org/download/crikey_news-2022/crikey_news-2022-09-28T16:15:36.147426+10:00.accessibility.json) |
 | [September 28 at 3:44 AM](https://archive.org/download/crikey_news-2022/crikey_news-2022-09-28T03:44:18.911068+10:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 3:16 AM](https://archive.org/download/crikey_news-2022/crikey_news-2022-09-26T03:16:42.745844+10:00.accessibility.json) |
 | [September 25 at 3:42 PM](https://archive.org/download/crikey_news-2022/crikey_news-2022-09-25T15:42:44.579894+10:00.accessibility.json) |
 | [September 25 at 3:16 AM](https://archive.org/download/crikey_news-2022/crikey_news-2022-09-25T03:16:37.477967+10:00.accessibility.json) |
-| [September 24 at 3:43 PM](https://archive.org/download/crikey_news-2022/crikey_news-2022-09-24T15:42:59.595206+10:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 74 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 75 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 4:10 PM](https://archive.org/download/crikey_news-2022/crikey_news-2022-09-29T16:10:10.408128+10:00.lighthouse.json) |
 | [September 29 at 3:45 AM](https://archive.org/download/crikey_news-2022/crikey_news-2022-09-29T03:45:26.979425+10:00.lighthouse.json) |
 | [September 28 at 4:15 PM](https://archive.org/download/crikey_news-2022/crikey_news-2022-09-28T16:15:36.147426+10:00.lighthouse.json) |
 | [September 28 at 3:44 AM](https://archive.org/download/crikey_news-2022/crikey_news-2022-09-28T03:44:18.911068+10:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 3:16 AM](https://archive.org/download/crikey_news-2022/crikey_news-2022-09-26T03:16:42.745844+10:00.lighthouse.json) |
 | [September 25 at 3:42 PM](https://archive.org/download/crikey_news-2022/crikey_news-2022-09-25T15:42:44.579894+10:00.lighthouse.json) |
 | [September 25 at 3:16 AM](https://archive.org/download/crikey_news-2022/crikey_news-2022-09-25T03:16:37.477967+10:00.lighthouse.json) |
-| [September 24 at 3:43 PM](https://archive.org/download/crikey_news-2022/crikey_news-2022-09-24T15:42:59.595206+10:00.lighthouse.json) |
 
 
 

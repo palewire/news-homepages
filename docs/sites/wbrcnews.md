@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 34 screenshots with the Internet Archive.
+The archiving routine has saved 35 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-29T00:24:36.927017-05:00.jpg">
+  <img src="https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-29T00:24:36.927017-05:00.jpg"
+     alt="WBRC FOX6 News at 2022-09-29 00:24:40-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-29T00:24:36.927017-05:00.jpg">September 29 at 12:24 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-28T11:19:27.318739-05:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-23T11:00:37.710977-05:00.jpg">September 23 at 11:00 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-23T00:19:45.068555-05:00.jpg">
-  <img src="https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-23T00:19:45.068555-05:00.jpg"
-     alt="WBRC FOX6 News at 2022-09-23 00:19:47-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-23T00:19:45.068555-05:00.jpg">September 23 at 12:19 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 34 hyperlink lists with the Internet Archive.
+The archiving routine has saved 35 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 12:24 AM](https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-29T00:24:36.927017-05:00.hyperlinks.json) |
 | [September 28 at 11:19 AM](https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-28T11:19:27.318739-05:00.hyperlinks.json) |
 | [September 28 at 1:07 AM](https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-28T01:07:27.367366-05:00.hyperlinks.json) |
 | [September 27 at 11:08 AM](https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-27T11:08:38.779463-05:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 10:55 AM](https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-25T10:54:58.179817-05:00.hyperlinks.json) |
 | [September 24 at 11:31 PM](https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-24T23:31:29.896259-05:00.hyperlinks.json) |
 | [September 24 at 10:53 AM](https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-24T10:53:17.343242-05:00.hyperlinks.json) |
-| [September 23 at 11:32 PM](https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-23T23:32:53.205410-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 34 accessibility trees with the Internet Archive.
+The archiving routine has saved 35 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 12:24 AM](https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-29T00:24:36.927017-05:00.accessibility.json) |
 | [September 28 at 11:19 AM](https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-28T11:19:27.318739-05:00.accessibility.json) |
 | [September 28 at 1:07 AM](https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-28T01:07:27.367366-05:00.accessibility.json) |
 | [September 27 at 11:08 AM](https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-27T11:08:38.779463-05:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 10:55 AM](https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-25T10:54:58.179817-05:00.accessibility.json) |
 | [September 24 at 11:31 PM](https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-24T23:31:29.896259-05:00.accessibility.json) |
 | [September 24 at 10:53 AM](https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-24T10:53:17.343242-05:00.accessibility.json) |
-| [September 23 at 11:32 PM](https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-23T23:32:53.205410-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 12:24 AM](https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-29T00:24:36.927017-05:00.lighthouse.json) |
 | [September 28 at 11:19 AM](https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-28T11:19:27.318739-05:00.lighthouse.json) |
 | [September 28 at 1:07 AM](https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-28T01:07:27.367366-05:00.lighthouse.json) |
 | [September 27 at 11:08 AM](https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-27T11:08:38.779463-05:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 10:55 AM](https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-25T10:54:58.179817-05:00.lighthouse.json) |
 | [September 24 at 11:31 PM](https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-24T23:31:29.896259-05:00.lighthouse.json) |
 | [September 24 at 10:53 AM](https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-24T10:53:17.343242-05:00.lighthouse.json) |
-| [September 23 at 11:33 PM](https://archive.org/download/wbrcnews-2022/wbrcnews-2022-09-23T23:32:53.205410-05:00.lighthouse.json) |
 
 
 
