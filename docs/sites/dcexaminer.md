@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 398 screenshots with the Internet Archive.
+The archiving routine has saved 399 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 398 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-29T13:45:11.984648-04:00.jpg">
+  <img src="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-29T13:45:11.984648-04:00.jpg"
+     alt="Washington Examiner at 2022-09-29 13:45:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-29T13:45:11.984648-04:00.jpg">September 29 at 1:45 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-29T02:14:45.610442-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-25T15:08:07.722473-04:00.jpg">September 25 at 3:08 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-25T13:22:20.324665-04:00.jpg">
-  <img src="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-25T13:22:20.324665-04:00.jpg"
-     alt="Washington Examiner at 2022-09-25 13:22:22-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-25T13:22:20.324665-04:00.jpg">September 25 at 1:22 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 396 hyperlink lists with the Internet Archive.
+The archiving routine has saved 397 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 1:45 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-29T13:45:11.984648-04:00.hyperlinks.json) |
 | [September 29 at 2:14 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-29T02:14:45.610442-04:00.hyperlinks.json) |
 | [September 28 at 3:43 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-28T15:42:45.542252-04:00.hyperlinks.json) |
 | [September 28 at 1:54 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-28T13:54:45.586361-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 2:58 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-27T02:58:37.287991-04:00.hyperlinks.json) |
 | [September 26 at 3:47 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-26T15:47:42.414331-04:00.hyperlinks.json) |
 | [September 26 at 1:42 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-26T13:42:07.205427-04:00.hyperlinks.json) |
-| [September 26 at 2:12 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-26T02:12:51.890300-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 397 accessibility trees with the Internet Archive.
+The archiving routine has saved 398 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 1:45 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-29T13:45:11.984648-04:00.accessibility.json) |
 | [September 29 at 2:14 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-29T02:14:45.610442-04:00.accessibility.json) |
 | [September 28 at 3:42 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-28T15:42:45.542252-04:00.accessibility.json) |
 | [September 28 at 1:54 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-28T13:54:45.586361-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 2:58 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-27T02:58:37.287991-04:00.accessibility.json) |
 | [September 26 at 3:47 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-26T15:47:42.414331-04:00.accessibility.json) |
 | [September 26 at 1:42 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-26T13:42:07.205427-04:00.accessibility.json) |
-| [September 26 at 2:12 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-26T02:12:51.890300-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 196 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 197 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 1:45 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-29T13:45:11.984648-04:00.lighthouse.json) |
 | [September 28 at 3:43 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-28T15:42:45.542252-04:00.lighthouse.json) |
 | [September 28 at 1:55 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-28T13:54:45.586361-04:00.lighthouse.json) |
 | [September 28 at 2:20 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-28T02:19:54.004902-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 3:47 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-26T15:47:42.414331-04:00.lighthouse.json) |
 | [September 26 at 1:42 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-26T13:42:07.205427-04:00.lighthouse.json) |
 | [September 26 at 2:12 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-26T02:12:51.890300-04:00.lighthouse.json) |
-| [September 25 at 3:08 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-09-25T15:08:07.722473-04:00.lighthouse.json) |
 
 
 

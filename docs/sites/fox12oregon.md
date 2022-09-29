@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 171 screenshots with the Internet Archive.
+The archiving routine has saved 172 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 171 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-29T10:49:21.334020-07:00.jpg">
+  <img src="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-29T10:49:21.334020-07:00.jpg"
+     alt="Fox 12 Oregon at 2022-09-29 10:49:22-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-29T10:49:21.334020-07:00.jpg">September 29 at 10:49 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-28T23:20:42.192635-07:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-23T22:53:12.759140-07:00.jpg">September 23 at 10:53 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-23T10:41:20.331668-07:00.jpg">
-  <img src="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-23T10:41:20.331668-07:00.jpg"
-     alt="Fox 12 Oregon at 2022-09-23 10:41:43-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-23T10:41:20.331668-07:00.jpg">September 23 at 10:41 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 171 hyperlink lists with the Internet Archive.
+The archiving routine has saved 172 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 10:49 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-29T10:49:21.334020-07:00.hyperlinks.json) |
 | [September 28 at 11:20 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-28T23:20:42.192635-07:00.hyperlinks.json) |
 | [September 28 at 10:56 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-28T10:56:25.619766-07:00.hyperlinks.json) |
 | [September 27 at 11:27 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-27T23:27:48.593123-07:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 11:18 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-25T23:18:35.563081-07:00.hyperlinks.json) |
 | [September 25 at 10:27 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-25T10:27:12.442076-07:00.hyperlinks.json) |
 | [September 24 at 10:52 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-24T22:52:10.376677-07:00.hyperlinks.json) |
-| [September 24 at 10:26 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-24T10:26:33.030388-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 172 accessibility trees with the Internet Archive.
+The archiving routine has saved 173 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 10:49 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-29T10:49:21.334020-07:00.accessibility.json) |
 | [September 28 at 11:20 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-28T23:20:42.192635-07:00.accessibility.json) |
 | [September 28 at 10:56 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-28T10:56:25.619766-07:00.accessibility.json) |
 | [September 27 at 11:27 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-27T23:27:48.593123-07:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 11:18 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-25T23:18:35.563081-07:00.accessibility.json) |
 | [September 25 at 10:27 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-25T10:27:12.442076-07:00.accessibility.json) |
 | [September 24 at 10:52 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-24T22:52:10.376677-07:00.accessibility.json) |
-| [September 24 at 10:26 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-24T10:26:33.030388-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 10:49 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-29T10:49:21.334020-07:00.lighthouse.json) |
 | [September 28 at 11:20 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-28T23:20:42.192635-07:00.lighthouse.json) |
 | [September 28 at 10:56 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-28T10:56:25.619766-07:00.lighthouse.json) |
 | [September 27 at 11:27 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-27T23:27:48.593123-07:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 11:18 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-25T23:18:35.563081-07:00.lighthouse.json) |
 | [September 25 at 10:27 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-25T10:27:12.442076-07:00.lighthouse.json) |
 | [September 24 at 10:52 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-24T22:52:10.376677-07:00.lighthouse.json) |
-| [September 24 at 10:26 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-09-24T10:26:33.030388-07:00.lighthouse.json) |
 
 
 

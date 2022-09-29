@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 18 screenshots with the Internet Archive.
+The archiving routine has saved 19 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fremontnm-2022/fremontnm-2022-09-29T13:48:17.103017-04:00.jpg">
+  <img src="https://archive.org/download/fremontnm-2022/fremontnm-2022-09-29T13:48:17.103017-04:00.jpg"
+     alt="Fremont News Messenger at 2022-09-29 13:48:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fremontnm-2022/fremontnm-2022-09-29T13:48:17.103017-04:00.jpg">September 29 at 1:48 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fremontnm-2022/fremontnm-2022-09-29T02:21:14.632961-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/fremontnm-2022/fremontnm-2022-09-24T01:52:37.147365-04:00.jpg">September 24 at 1:52 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/fremontnm-2022/fremontnm-2022-09-23T13:41:39.528444-04:00.jpg">
-  <img src="https://archive.org/download/fremontnm-2022/fremontnm-2022-09-23T13:41:39.528444-04:00.jpg"
-     alt="Fremont News Messenger at 2022-09-23 13:41:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fremontnm-2022/fremontnm-2022-09-23T13:41:39.528444-04:00.jpg">September 23 at 1:41 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 18 hyperlink lists with the Internet Archive.
+The archiving routine has saved 19 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 1:48 PM](https://archive.org/download/fremontnm-2022/fremontnm-2022-09-29T13:48:17.103017-04:00.hyperlinks.json) |
 | [September 29 at 2:21 AM](https://archive.org/download/fremontnm-2022/fremontnm-2022-09-29T02:21:14.632961-04:00.hyperlinks.json) |
 | [September 28 at 1:56 PM](https://archive.org/download/fremontnm-2022/fremontnm-2022-09-28T13:56:21.924868-04:00.hyperlinks.json) |
 | [September 28 at 2:27 AM](https://archive.org/download/fremontnm-2022/fremontnm-2022-09-28T02:27:46.254479-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 2:19 AM](https://archive.org/download/fremontnm-2022/fremontnm-2022-09-26T02:19:03.409564-04:00.hyperlinks.json) |
 | [September 25 at 1:27 PM](https://archive.org/download/fremontnm-2022/fremontnm-2022-09-25T13:26:55.129273-04:00.hyperlinks.json) |
 | [September 25 at 1:52 AM](https://archive.org/download/fremontnm-2022/fremontnm-2022-09-25T01:52:27.232557-04:00.hyperlinks.json) |
-| [September 24 at 1:26 PM](https://archive.org/download/fremontnm-2022/fremontnm-2022-09-24T13:26:29.460608-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 18 accessibility trees with the Internet Archive.
+The archiving routine has saved 19 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 1:48 PM](https://archive.org/download/fremontnm-2022/fremontnm-2022-09-29T13:48:17.103017-04:00.accessibility.json) |
 | [September 29 at 2:21 AM](https://archive.org/download/fremontnm-2022/fremontnm-2022-09-29T02:21:14.632961-04:00.accessibility.json) |
 | [September 28 at 1:56 PM](https://archive.org/download/fremontnm-2022/fremontnm-2022-09-28T13:56:21.924868-04:00.accessibility.json) |
 | [September 28 at 2:27 AM](https://archive.org/download/fremontnm-2022/fremontnm-2022-09-28T02:27:46.254479-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 2:19 AM](https://archive.org/download/fremontnm-2022/fremontnm-2022-09-26T02:19:03.409564-04:00.accessibility.json) |
 | [September 25 at 1:26 PM](https://archive.org/download/fremontnm-2022/fremontnm-2022-09-25T13:26:55.129273-04:00.accessibility.json) |
 | [September 25 at 1:52 AM](https://archive.org/download/fremontnm-2022/fremontnm-2022-09-25T01:52:27.232557-04:00.accessibility.json) |
-| [September 24 at 1:26 PM](https://archive.org/download/fremontnm-2022/fremontnm-2022-09-24T13:26:29.460608-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 1:48 PM](https://archive.org/download/fremontnm-2022/fremontnm-2022-09-29T13:48:17.103017-04:00.lighthouse.json) |
 | [September 29 at 2:21 AM](https://archive.org/download/fremontnm-2022/fremontnm-2022-09-29T02:21:14.632961-04:00.lighthouse.json) |
 | [September 28 at 1:56 PM](https://archive.org/download/fremontnm-2022/fremontnm-2022-09-28T13:56:21.924868-04:00.lighthouse.json) |
 | [September 28 at 2:27 AM](https://archive.org/download/fremontnm-2022/fremontnm-2022-09-28T02:27:46.254479-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 2:19 AM](https://archive.org/download/fremontnm-2022/fremontnm-2022-09-26T02:19:03.409564-04:00.lighthouse.json) |
 | [September 25 at 1:27 PM](https://archive.org/download/fremontnm-2022/fremontnm-2022-09-25T13:26:55.129273-04:00.lighthouse.json) |
 | [September 25 at 1:52 AM](https://archive.org/download/fremontnm-2022/fremontnm-2022-09-25T01:52:27.232557-04:00.lighthouse.json) |
-| [September 24 at 1:26 PM](https://archive.org/download/fremontnm-2022/fremontnm-2022-09-24T13:26:29.460608-04:00.lighthouse.json) |
 
 
 
