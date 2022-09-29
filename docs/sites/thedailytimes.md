@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 17 screenshots with the Internet Archive.
+The archiving routine has saved 18 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-29T09:00:11.365602-06:00.jpg">
+  <img src="https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-29T09:00:11.365602-06:00.jpg"
+     alt="Farmington Daily Times at 2022-09-29 09:00:13-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-29T09:00:11.365602-06:00.jpg">September 29 at 9:00 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-28T21:43:38.088829-06:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-23T21:34:54.700905-06:00.jpg">September 23 at 9:34 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-23T09:01:18.874723-06:00.jpg">
-  <img src="https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-23T09:01:18.874723-06:00.jpg"
-     alt="Farmington Daily Times at 2022-09-23 09:01:20-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-23T09:01:18.874723-06:00.jpg">September 23 at 9:01 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 18 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 9:00 AM](https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-29T09:00:11.365602-06:00.hyperlinks.json) |
 | [September 28 at 9:43 PM](https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-28T21:43:38.088829-06:00.hyperlinks.json) |
 | [September 28 at 9:04 AM](https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-28T09:04:32.419015-06:00.hyperlinks.json) |
 | [September 27 at 9:50 PM](https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-27T21:50:07.734798-06:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 9:40 PM](https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-25T21:40:54.712249-06:00.hyperlinks.json) |
 | [September 25 at 8:43 AM](https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-25T08:43:26.887701-06:00.hyperlinks.json) |
 | [September 24 at 9:34 PM](https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-24T21:34:20.382048-06:00.hyperlinks.json) |
-| [September 24 at 8:44 AM](https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-24T08:44:01.456773-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 17 accessibility trees with the Internet Archive.
+The archiving routine has saved 18 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 9:00 AM](https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-29T09:00:11.365602-06:00.accessibility.json) |
 | [September 28 at 9:43 PM](https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-28T21:43:38.088829-06:00.accessibility.json) |
 | [September 28 at 9:04 AM](https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-28T09:04:32.419015-06:00.accessibility.json) |
 | [September 27 at 9:50 PM](https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-27T21:50:07.734798-06:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 9:40 PM](https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-25T21:40:54.712249-06:00.accessibility.json) |
 | [September 25 at 8:43 AM](https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-25T08:43:26.887701-06:00.accessibility.json) |
 | [September 24 at 9:34 PM](https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-24T21:34:20.382048-06:00.accessibility.json) |
-| [September 24 at 8:44 AM](https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-24T08:44:01.456773-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 9:00 AM](https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-29T09:00:11.365602-06:00.lighthouse.json) |
 | [September 28 at 9:43 PM](https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-28T21:43:38.088829-06:00.lighthouse.json) |
 | [September 28 at 9:04 AM](https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-28T09:04:32.419015-06:00.lighthouse.json) |
 | [September 27 at 9:50 PM](https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-27T21:50:07.734798-06:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 9:41 PM](https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-25T21:40:54.712249-06:00.lighthouse.json) |
 | [September 25 at 8:43 AM](https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-25T08:43:26.887701-06:00.lighthouse.json) |
 | [September 24 at 9:34 PM](https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-24T21:34:20.382048-06:00.lighthouse.json) |
-| [September 24 at 8:44 AM](https://archive.org/download/thedailytimes-2022/thedailytimes-2022-09-24T08:44:01.456773-06:00.lighthouse.json) |
 
 
 

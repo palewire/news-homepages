@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 17 screenshots with the Internet Archive.
+The archiving routine has saved 18 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-29T09:57:56.534172-05:00.jpg">
+  <img src="https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-29T09:57:56.534172-05:00.jpg"
+     alt="Panama City News-Herald at 2022-09-29 09:57:59-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-29T09:57:56.534172-05:00.jpg">September 29 at 9:57 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-28T22:40:57.749701-05:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-23T22:33:08.985785-05:00.jpg">September 23 at 10:33 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-23T09:59:04.239855-05:00.jpg">
-  <img src="https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-23T09:59:04.239855-05:00.jpg"
-     alt="Panama City News-Herald at 2022-09-23 09:59:05-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-23T09:59:04.239855-05:00.jpg">September 23 at 9:59 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 18 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 9:58 AM](https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-29T09:57:56.534172-05:00.hyperlinks.json) |
 | [September 28 at 10:41 PM](https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-28T22:40:57.749701-05:00.hyperlinks.json) |
 | [September 28 at 10:03 AM](https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-28T10:03:01.995491-05:00.hyperlinks.json) |
 | [September 27 at 10:50 PM](https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-27T22:50:05.734809-05:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 10:38 PM](https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-25T22:38:40.250457-05:00.hyperlinks.json) |
 | [September 25 at 9:41 AM](https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-25T09:41:30.690376-05:00.hyperlinks.json) |
 | [September 24 at 10:32 PM](https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-24T22:32:29.483640-05:00.hyperlinks.json) |
-| [September 24 at 9:41 AM](https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-24T09:41:30.191715-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 17 accessibility trees with the Internet Archive.
+The archiving routine has saved 18 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 9:58 AM](https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-29T09:57:56.534172-05:00.accessibility.json) |
 | [September 28 at 10:41 PM](https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-28T22:40:57.749701-05:00.accessibility.json) |
 | [September 28 at 10:03 AM](https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-28T10:03:01.995491-05:00.accessibility.json) |
 | [September 27 at 10:50 PM](https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-27T22:50:05.734809-05:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 10:38 PM](https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-25T22:38:40.250457-05:00.accessibility.json) |
 | [September 25 at 9:41 AM](https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-25T09:41:30.690376-05:00.accessibility.json) |
 | [September 24 at 10:32 PM](https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-24T22:32:29.483640-05:00.accessibility.json) |
-| [September 24 at 9:41 AM](https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-24T09:41:30.191715-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 9:58 AM](https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-29T09:57:56.534172-05:00.lighthouse.json) |
 | [September 28 at 10:41 PM](https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-28T22:40:57.749701-05:00.lighthouse.json) |
 | [September 28 at 10:03 AM](https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-28T10:03:01.995491-05:00.lighthouse.json) |
 | [September 27 at 10:50 PM](https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-27T22:50:05.734809-05:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 10:38 PM](https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-25T22:38:40.250457-05:00.lighthouse.json) |
 | [September 25 at 9:41 AM](https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-25T09:41:30.690376-05:00.lighthouse.json) |
 | [September 24 at 10:32 PM](https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-24T22:32:29.483640-05:00.lighthouse.json) |
-| [September 24 at 9:41 AM](https://archive.org/download/the_news_herald-2022/the_news_herald-2022-09-24T09:41:30.191715-05:00.lighthouse.json) |
 
 
 

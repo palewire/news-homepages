@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 71 screenshots with the Internet Archive.
+The archiving routine has saved 72 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 71 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-29T10:57:40.838223-04:00.jpg">
+  <img src="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-29T10:57:40.838223-04:00.jpg"
+     alt="Study Finds at 2022-09-29 10:57:51-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-29T10:57:40.838223-04:00.jpg">September 29 at 10:57 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-28T23:42:26.667128-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-23T23:33:31.904160-04:00.jpg">September 23 at 11:33 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-23T10:59:38.289972-04:00.jpg">
-  <img src="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-23T10:59:38.289972-04:00.jpg"
-     alt="Study Finds at 2022-09-23 10:59:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-23T10:59:38.289972-04:00.jpg">September 23 at 10:59 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 72 hyperlink lists with the Internet Archive.
+The archiving routine has saved 73 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 10:57 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-29T10:57:40.838223-04:00.hyperlinks.json) |
 | [September 28 at 11:42 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-28T23:42:26.667128-04:00.hyperlinks.json) |
 | [September 28 at 11:01 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-28T11:01:18.931138-04:00.hyperlinks.json) |
 | [September 27 at 11:48 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-27T23:48:36.221748-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 11:38 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-25T23:38:15.738242-04:00.hyperlinks.json) |
 | [September 25 at 10:42 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-25T10:42:14.011713-04:00.hyperlinks.json) |
 | [September 24 at 11:32 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-24T23:32:21.468971-04:00.hyperlinks.json) |
-| [September 24 at 10:41 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-24T10:41:30.346852-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 70 accessibility trees with the Internet Archive.
+The archiving routine has saved 71 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 10:57 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-29T10:57:40.838223-04:00.accessibility.json) |
 | [September 28 at 11:42 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-28T23:42:26.667128-04:00.accessibility.json) |
 | [September 27 at 11:48 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-27T23:48:36.221748-04:00.accessibility.json) |
 | [September 27 at 11:02 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-27T11:02:25.733334-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 10:42 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-25T10:42:14.011713-04:00.accessibility.json) |
 | [September 24 at 11:32 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-24T23:32:21.468971-04:00.accessibility.json) |
 | [September 24 at 10:41 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-24T10:41:30.346852-04:00.accessibility.json) |
-| [September 23 at 11:33 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-23T23:33:31.904160-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 72 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 73 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 10:57 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-29T10:57:40.838223-04:00.lighthouse.json) |
 | [September 28 at 11:42 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-28T23:42:26.667128-04:00.lighthouse.json) |
 | [September 28 at 11:01 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-28T11:01:18.931138-04:00.lighthouse.json) |
 | [September 27 at 11:48 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-27T23:48:36.221748-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 11:38 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-25T23:38:15.738242-04:00.lighthouse.json) |
 | [September 25 at 10:42 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-25T10:42:14.011713-04:00.lighthouse.json) |
 | [September 24 at 11:32 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-24T23:32:21.468971-04:00.lighthouse.json) |
-| [September 24 at 10:41 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-09-24T10:41:30.346852-04:00.lighthouse.json) |
 
 
 

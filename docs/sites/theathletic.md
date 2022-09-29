@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 141 screenshots with the Internet Archive.
+The archiving routine has saved 142 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 141 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theathletic-2022/theathletic-2022-09-29T11:00:22.791990-04:00.jpg">
+  <img src="https://archive.org/download/theathletic-2022/theathletic-2022-09-29T11:00:22.791990-04:00.jpg"
+     alt="Athletic at 2022-09-29 11:00:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theathletic-2022/theathletic-2022-09-29T11:00:22.791990-04:00.jpg">September 29 at 11:00 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theathletic-2022/theathletic-2022-09-28T23:43:27.294737-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theathletic-2022/theathletic-2022-09-23T23:34:47.683471-04:00.jpg">September 23 at 11:34 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theathletic-2022/theathletic-2022-09-23T11:01:38.258909-04:00.jpg">
-  <img src="https://archive.org/download/theathletic-2022/theathletic-2022-09-23T11:01:38.258909-04:00.jpg"
-     alt="Athletic at 2022-09-23 11:01:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theathletic-2022/theathletic-2022-09-23T11:01:38.258909-04:00.jpg">September 23 at 11:01 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 142 hyperlink lists with the Internet Archive.
+The archiving routine has saved 143 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 11:00 AM](https://archive.org/download/theathletic-2022/theathletic-2022-09-29T11:00:22.791990-04:00.hyperlinks.json) |
 | [September 28 at 11:43 PM](https://archive.org/download/theathletic-2022/theathletic-2022-09-28T23:43:27.294737-04:00.hyperlinks.json) |
 | [September 28 at 11:03 AM](https://archive.org/download/theathletic-2022/theathletic-2022-09-28T11:03:22.719716-04:00.hyperlinks.json) |
 | [September 27 at 11:50 PM](https://archive.org/download/theathletic-2022/theathletic-2022-09-27T23:50:06.251383-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 11:40 PM](https://archive.org/download/theathletic-2022/theathletic-2022-09-25T23:40:12.819824-04:00.hyperlinks.json) |
 | [September 25 at 10:43 AM](https://archive.org/download/theathletic-2022/theathletic-2022-09-25T10:43:39.045151-04:00.hyperlinks.json) |
 | [September 24 at 11:34 PM](https://archive.org/download/theathletic-2022/theathletic-2022-09-24T23:34:13.395383-04:00.hyperlinks.json) |
-| [September 24 at 10:43 AM](https://archive.org/download/theathletic-2022/theathletic-2022-09-24T10:43:45.358472-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 142 accessibility trees with the Internet Archive.
+The archiving routine has saved 143 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 11:00 AM](https://archive.org/download/theathletic-2022/theathletic-2022-09-29T11:00:22.791990-04:00.accessibility.json) |
 | [September 28 at 11:43 PM](https://archive.org/download/theathletic-2022/theathletic-2022-09-28T23:43:27.294737-04:00.accessibility.json) |
 | [September 28 at 11:03 AM](https://archive.org/download/theathletic-2022/theathletic-2022-09-28T11:03:22.719716-04:00.accessibility.json) |
 | [September 27 at 11:50 PM](https://archive.org/download/theathletic-2022/theathletic-2022-09-27T23:50:06.251383-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 11:40 PM](https://archive.org/download/theathletic-2022/theathletic-2022-09-25T23:40:12.819824-04:00.accessibility.json) |
 | [September 25 at 10:43 AM](https://archive.org/download/theathletic-2022/theathletic-2022-09-25T10:43:39.045151-04:00.accessibility.json) |
 | [September 24 at 11:34 PM](https://archive.org/download/theathletic-2022/theathletic-2022-09-24T23:34:13.395383-04:00.accessibility.json) |
-| [September 24 at 10:43 AM](https://archive.org/download/theathletic-2022/theathletic-2022-09-24T10:43:45.358472-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 135 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 136 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 11:00 AM](https://archive.org/download/theathletic-2022/theathletic-2022-09-29T11:00:22.791990-04:00.lighthouse.json) |
 | [September 28 at 11:43 PM](https://archive.org/download/theathletic-2022/theathletic-2022-09-28T23:43:27.294737-04:00.lighthouse.json) |
 | [September 28 at 11:03 AM](https://archive.org/download/theathletic-2022/theathletic-2022-09-28T11:03:22.719716-04:00.lighthouse.json) |
 | [September 27 at 11:50 PM](https://archive.org/download/theathletic-2022/theathletic-2022-09-27T23:50:06.251383-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 11:40 PM](https://archive.org/download/theathletic-2022/theathletic-2022-09-25T23:40:12.819824-04:00.lighthouse.json) |
 | [September 25 at 10:43 AM](https://archive.org/download/theathletic-2022/theathletic-2022-09-25T10:43:39.045151-04:00.lighthouse.json) |
 | [September 24 at 11:34 PM](https://archive.org/download/theathletic-2022/theathletic-2022-09-24T23:34:13.395383-04:00.lighthouse.json) |
-| [September 24 at 10:43 AM](https://archive.org/download/theathletic-2022/theathletic-2022-09-24T10:43:45.358472-04:00.lighthouse.json) |
 
 
 
