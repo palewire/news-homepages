@@ -1,5 +1,5 @@
 {
-  "created": 1664452893,
+  "created": 1664467608,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/33/items/agenciapublica-2022",
@@ -9825,31 +9825,93 @@
       "format": "JSON"
     },
     {
+      "name": "agenciapublica-2022-09-29T08:59:59.068434-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "agenciapublica-2022-09-29T08:59:59.068434-03:00.jpg",
+      "mtime": "1664455887",
+      "size": "8543",
+      "md5": "0052885b010ed539214a7c7ce19968ec",
+      "crc32": "c53398af",
+      "sha1": "280d39f8f83b38809ac332ce2865ece85a117f0c"
+    },
+    {
+      "name": "agenciapublica-2022-09-29T13:05:38.382120-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664467541",
+      "size": "18845",
+      "md5": "08a5abdbd3cba7bc3bd65db508f8c7ae",
+      "crc32": "e112b53d",
+      "sha1": "d4bf89cd2f295a5f32f1a3c297326804ea9873f6",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciapublica-2022-09-29T13:05:38.382120-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664467543",
+      "size": "17577",
+      "md5": "09e3569aaee7c9e4d0f4d0d698811d22",
+      "crc32": "bfabe33b",
+      "sha1": "8867b6a960e9169cb3463f2a1b708cba93307ddf",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciapublica-2022-09-29T13:05:38.382120-03:00.jpg",
+      "source": "original",
+      "mtime": "1664467539",
+      "size": "180915",
+      "md5": "1d991e184b70185c9c4a538a06b226d5",
+      "crc32": "c2105242",
+      "sha1": "5b04a427b6554e242ae6df2cebac522075afba0e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "agenciapublica-2022-09-29T13:05:38.382120-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664467544",
+      "size": "1441",
+      "md5": "cd73ef2dd5d6c928617ba2bae18b4f85",
+      "crc32": "4145f3a3",
+      "sha1": "2122297fbc7c3d9eed1d0cddc78a04a77ce864be",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciapublica-2022-09-29T13:05:38.382120-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664467546",
+      "size": "97",
+      "md5": "30d49056701a7b1957d6b3799c7a559e",
+      "crc32": "d88396cd",
+      "sha1": "14e9ae777aff51c4f043f13c3f2b477eac62c9d7",
+      "format": "JSON"
+    },
+    {
       "name": "agenciapublica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a4528e3879ef9ebb3ffc00ca0c7ff8a88e48be1b",
-      "mtime": "1664452877",
-      "size": "206117",
-      "md5": "c71ca437a0fc955798edfc1580307912",
-      "crc32": "a3a5ae15",
-      "sha1": "8fc8c52a25f5fdaef3fa1a71693e5b0bf050db25",
+      "btih": "49d1bc7af1ee827c9ef3aee1c201977d269bf0d2",
+      "mtime": "1664467603",
+      "size": "207397",
+      "md5": "7e3cc346ec646dd128316586023102f8",
+      "crc32": "07ef259a",
+      "sha1": "6faadd78912f617aaf0fc43884c3aa02824e7428",
       "format": "Archive BitTorrent"
     },
     {
       "name": "agenciapublica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "744b2fdd03d5766f5ec31d2a5c75a103",
+      "md5": "55c680148408ed113a121205b3646b37",
       "summation": "md5"
     },
     {
       "name": "agenciapublica-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664452827",
-      "size": "1232896",
-      "md5": "4a12bd143272841695884e175655516f",
-      "crc32": "cb3ffefd",
-      "sha1": "1e84c8f8ec4201e4bc5db19dba6404751f452245",
+      "mtime": "1664467555",
+      "size": "1236992",
+      "md5": "e13e1111298d0200ae6933cadb2e7a4b",
+      "crc32": "ec5bcf04",
+      "sha1": "72eed364e1f0d6c32419793c9a7b24a8494e0066",
       "format": "Metadata"
     },
     {
@@ -9863,9 +9925,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 954,
-  "item_last_updated": 1664452877,
-  "item_size": 41775256,
+  "files_count": 960,
+  "item_last_updated": 1664467603,
+  "item_size": 42008050,
   "metadata": {
     "identifier": "agenciapublica-2022",
     "collection": [
@@ -9887,7 +9949,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3422236746,
+      "task_id": 3422420441,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9895,7 +9957,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1592512032,
+  "uniq": 1164602855,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]

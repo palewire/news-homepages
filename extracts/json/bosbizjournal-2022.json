@@ -1,5 +1,5 @@
 {
-  "created": 1664431082,
+  "created": 1664467778,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/34/items/bosbizjournal-2022",
@@ -5690,31 +5690,82 @@
       "sha1": "7ca50ac4410c76b52da0f8e900754493371fdb8f"
     },
     {
+      "name": "bosbizjournal-2022-09-29T12:08:24.494380-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664467714",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "bosbizjournal-2022-09-29T12:08:24.494380-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664467716",
+      "size": "23570",
+      "md5": "ba4e7ffb4bf0618dffcc3dfaa4dcf898",
+      "crc32": "ec1713c0",
+      "sha1": "cf68381a1a1adaaa991e5127e55875309ba7da69",
+      "format": "JSON"
+    },
+    {
+      "name": "bosbizjournal-2022-09-29T12:08:24.494380-04:00.jpg",
+      "source": "original",
+      "mtime": "1664467712",
+      "size": "227206",
+      "md5": "0f40ea43c6b1e1910f80f53667edd503",
+      "crc32": "f87c4a5c",
+      "sha1": "d4e6d77ce90a4841c7a9ddb9ed1fa991760d9318",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bosbizjournal-2022-09-29T12:08:24.494380-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664467718",
+      "size": "1566",
+      "md5": "2daff809c12d2ab9de8d6817b5e7910f",
+      "crc32": "51ed199f",
+      "sha1": "ddb8c5ce1eba59336626d3cfe24f2d0100c93d5d",
+      "format": "JSON"
+    },
+    {
+      "name": "bosbizjournal-2022-09-29T12:08:24.494380-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664467720",
+      "size": "2708",
+      "md5": "863b1c86f17a49cd3f7f446199d0ba06",
+      "crc32": "3651c92a",
+      "sha1": "1a2f92aeb058f0c3f43d785b3bd2bc113c9818c6",
+      "format": "JSON"
+    },
+    {
       "name": "bosbizjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "67989fa836c5c1f19d6f0bdf34bbafba1a011454",
-      "mtime": "1664431065",
-      "size": "119713",
-      "md5": "c68655ebc2edd7ea589645d9d37b56f5",
-      "crc32": "bed28820",
-      "sha1": "ca037b34aac0e0c4609597b6576670bddef0e723",
+      "btih": "0c37230e6fb1bc336b35d6cd1c03b988ec2953cc",
+      "mtime": "1664467771",
+      "size": "120778",
+      "md5": "4958bda664bcdbd82934ccb2fa2bef48",
+      "crc32": "6a050f4e",
+      "sha1": "eecea48fbc1a1b43131e08f02523c2a307d60294",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bosbizjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1b9115d72aba63cfc2fe0e8dcef0ebf4",
+      "md5": "070bed413cc80ed97480138223858f9b",
       "summation": "md5"
     },
     {
       "name": "bosbizjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664428944",
-      "size": "724992",
-      "md5": "d9f68446350fa7416603cf0e20817eea",
-      "crc32": "31fd9fc3",
-      "sha1": "f1db9a1cb665a115947bd0126baec34b70cf433f",
+      "mtime": "1664467729",
+      "size": "729088",
+      "md5": "eb0eb2321c69e8e0ab9de054ba304b2e",
+      "crc32": "31de0494",
+      "sha1": "4438a7908e3cf25d953cd71717e215cd76bef8e2",
       "format": "Metadata"
     },
     {
@@ -5728,9 +5779,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 554,
-  "item_last_updated": 1664431065,
-  "item_size": 38635362,
+  "files_count": 559,
+  "item_last_updated": 1664467771,
+  "item_size": 38895713,
   "metadata": {
     "identifier": "bosbizjournal-2022",
     "collection": [
@@ -5747,10 +5798,21 @@
     "publicdate": "2022-08-14 05:02:07",
     "addeddate": "2022-08-14 05:02:07"
   },
-  "server": "ia801407.us.archive.org",
-  "uniq": 1562802948,
+  "pending_tasks": true,
+  "server": "ia601407.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3422423593,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 959069353,
   "workable_servers": [
-    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

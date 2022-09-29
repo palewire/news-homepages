@@ -1,5 +1,5 @@
 {
-  "created": 1664431179,
+  "created": 1664471081,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/27/items/bariweiss-2022",
@@ -12574,31 +12574,82 @@
       "sha1": "3f5d2846ea9df214c9dfdef56b4f144d6e13264d"
     },
     {
+      "name": "bariweiss-2022-09-29T09:08:45.389803-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664467733",
+      "size": "14810",
+      "md5": "347b43b0065e37998c84e66409f3878f",
+      "crc32": "6b495bfd",
+      "sha1": "f09878ec8c32a02cb6cc2d7474c7182001b1fd5a",
+      "format": "JSON"
+    },
+    {
+      "name": "bariweiss-2022-09-29T09:08:45.389803-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664467735",
+      "size": "13902",
+      "md5": "f74cbf50b562b035f946714b34b674de",
+      "crc32": "2a2506cc",
+      "sha1": "8b92e3e691b9c4f305a4e6608a7f24eebe8a6060",
+      "format": "JSON"
+    },
+    {
+      "name": "bariweiss-2022-09-29T09:08:45.389803-07:00.jpg",
+      "source": "original",
+      "mtime": "1664467731",
+      "size": "285820",
+      "md5": "fd9d7f401722819a6e552a3afafeb186",
+      "crc32": "50af6159",
+      "sha1": "5e825d585df426e8f3e3773236097dfa0f86ee3c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bariweiss-2022-09-29T09:08:45.389803-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664467736",
+      "size": "1502",
+      "md5": "34ccd5ccf5d04a5c3328900c820470d1",
+      "crc32": "200e8de1",
+      "sha1": "c13cdc7810ce0e1ec4422f6b57b14a7c31a71edb",
+      "format": "JSON"
+    },
+    {
+      "name": "bariweiss-2022-09-29T09:08:45.389803-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664467739",
+      "size": "10570",
+      "md5": "b4167af9f54e44d879db1be8c2b498f4",
+      "crc32": "b30faf5a",
+      "sha1": "eff62f762454e4116c9ada1f7be22d1f59c2f987",
+      "format": "JSON"
+    },
+    {
       "name": "bariweiss-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6768b1d3f205da5dabd5138f101f45c8d7583ca7",
-      "mtime": "1664431154",
-      "size": "257380",
-      "md5": "c1616c63241b3412a8b4420a0560ff1a",
-      "crc32": "423a4a06",
-      "sha1": "5fd485d25c8d886a5d462647babdc7d3d5cef948",
+      "btih": "f7afd7091be36e25605481085e4f6de20782980d",
+      "mtime": "1664467852",
+      "size": "258448",
+      "md5": "fa97344d5aadcce18f962ab83b9b8719",
+      "crc32": "c71f049d",
+      "sha1": "de05ee084b42d1a1eb91c181c709493b9275bc08",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bariweiss-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b79743fa890c2d1e002ce8cc0ecee061",
+      "md5": "c4c6f4707ad4b082f3a8c588a50ce9ab",
       "summation": "md5"
     },
     {
       "name": "bariweiss-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664428965",
-      "size": "1540096",
-      "md5": "13e2e23699e22b2743018127866b488a",
-      "crc32": "1c263874",
-      "sha1": "ca98017f5cdad3bf882fbf22bca4288c2002dc9a",
+      "mtime": "1664467798",
+      "size": "1548288",
+      "md5": "bca505b056e0ee847b68dcb6df9a65ae",
+      "crc32": "5f5674dd",
+      "sha1": "6fa0fb32d950f49ebed9e34ef89d03e56134df4b",
       "format": "Metadata"
     },
     {
@@ -12612,9 +12663,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1218,
-  "item_last_updated": 1664431154,
-  "item_size": 67302067,
+  "files_count": 1223,
+  "item_last_updated": 1664467852,
+  "item_size": 67637931,
   "metadata": {
     "identifier": "bariweiss-2022",
     "collection": [
@@ -12631,10 +12682,21 @@
     "publicdate": "2022-07-17 15:03:06",
     "addeddate": "2022-07-17 15:03:06"
   },
+  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "uniq": 587417897,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3422427921,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 230670139,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia601409.us.archive.org"
   ]
 }

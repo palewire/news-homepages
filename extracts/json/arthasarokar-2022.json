@@ -1,5 +1,5 @@
 {
-  "created": 1664431797,
+  "created": 1664467626,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/26/items/arthasarokar-2022",
@@ -8082,31 +8082,82 @@
       "sha1": "5805befee6ddd2a9959417eddb6cdce9880723ce"
     },
     {
+      "name": "arthasarokar-2022-09-29T21:50:34.246076+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1664467548",
+      "size": "73194",
+      "md5": "7d2e0497abb7eaa6dcd31bdafa4fed4c",
+      "crc32": "f9ed6670",
+      "sha1": "f5201367a4c2342f9a223ee03fa1d6ebc63cce89",
+      "format": "JSON"
+    },
+    {
+      "name": "arthasarokar-2022-09-29T21:50:34.246076+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664467549",
+      "size": "60688",
+      "md5": "832f8c25edb48a0d9223abd35083e20f",
+      "crc32": "2fc3e524",
+      "sha1": "532273b0fb2f4c8aad137c31be340ab80e9caa16",
+      "format": "JSON"
+    },
+    {
+      "name": "arthasarokar-2022-09-29T21:50:34.246076+05:45.jpg",
+      "source": "original",
+      "mtime": "1664467543",
+      "size": "55293",
+      "md5": "d956e455c75d06479a7647902985aff3",
+      "crc32": "c7006ee9",
+      "sha1": "93edc8559d17b9dc5304253104b262bf831f24c5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arthasarokar-2022-09-29T21:50:34.246076+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1664467551",
+      "size": "1476",
+      "md5": "769848986d63720df9d138fd9e45149c",
+      "crc32": "e706f57b",
+      "sha1": "a3f80d12037826a0ae0aa15749a600ace69f95e7",
+      "format": "JSON"
+    },
+    {
+      "name": "arthasarokar-2022-09-29T21:50:34.246076+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1664467555",
+      "size": "205",
+      "md5": "e34fd189a65b62ea3f453d29efb1eca3",
+      "crc32": "d17d2165",
+      "sha1": "bae1238daad5bef78b062d7153e1e0c85e58db77",
+      "format": "JSON"
+    },
+    {
       "name": "arthasarokar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2d9710416c1fd9fe38fe8c618a7208bfeb2c9de8",
-      "mtime": "1664431110",
-      "size": "169066",
-      "md5": "47172390aaf4d519a88dee857784c3f1",
-      "crc32": "6a593e43",
-      "sha1": "ad8209902fa99b577732d56af1f17a3ea2012a76",
+      "btih": "1d920b7106cc18e8f22bbf30dc16cc29439ed7b9",
+      "mtime": "1664467613",
+      "size": "170126",
+      "md5": "7103cd3c49cf6782d7cb48496f7563ed",
+      "crc32": "c365f9b1",
+      "sha1": "df9265fc537b169fd1d6a13f4e245d4feee5296f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arthasarokar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4174f97666da2d80b6668ebc3b2ccc15",
+      "md5": "779023f957b9cbc1253a97efa70599f3",
       "summation": "md5"
     },
     {
       "name": "arthasarokar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664428681",
-      "size": "1007616",
-      "md5": "d6bfd31f2656f28685b05f6c3c124820",
-      "crc32": "a5e2d007",
-      "sha1": "f01c3c04ef52b0773b6826d4d515f3211e9173cf",
+      "mtime": "1664467567",
+      "size": "1019904",
+      "md5": "cd586e888c28c69b14fdd43f3c65c7b6",
+      "crc32": "da901a93",
+      "sha1": "0d5ac67911428e3d7ea4752bcc85b31684109809",
       "format": "Metadata"
     },
     {
@@ -8120,9 +8171,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 785,
-  "item_last_updated": 1664431110,
-  "item_size": 59090659,
+  "files_count": 790,
+  "item_last_updated": 1664467613,
+  "item_size": 59294863,
   "metadata": {
     "identifier": "arthasarokar-2022",
     "collection": [
@@ -8139,10 +8190,21 @@
     "publicdate": "2022-07-24 20:36:44",
     "addeddate": "2022-07-24 20:36:44"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 55650838,
+  "pending_tasks": true,
+  "server": "ia601506.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3422420855,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2046610573,
   "workable_servers": [
-    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

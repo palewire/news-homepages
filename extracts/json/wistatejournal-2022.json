@@ -1,5 +1,5 @@
 {
-  "created": 1664431472,
+  "created": 1664470568,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/2/items/wistatejournal-2022",
@@ -15174,31 +15174,82 @@
       "sha1": "69cc72d443e1a2304c161fe890be2af59a0779d0"
     },
     {
+      "name": "wistatejournal-2022-09-29T11:10:53.473108-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664467857",
+      "size": "25647",
+      "md5": "32ed47537a3ee6dba9938d011160fd41",
+      "crc32": "275f4db2",
+      "sha1": "4a88a8a22909f1e84051ae9fe73d2662c00129e4",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-09-29T11:10:53.473108-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664467859",
+      "size": "73700",
+      "md5": "afa12186523c7035e3b21cdf4cfa22a2",
+      "crc32": "3dd2c95b",
+      "sha1": "7cc3ec3649c16a96a84dce54447470e8504e5553",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-09-29T11:10:53.473108-05:00.jpg",
+      "source": "original",
+      "mtime": "1664467855",
+      "size": "332745",
+      "md5": "2782bdf8ba1b3a7e137b26e646d58eb0",
+      "crc32": "72467e45",
+      "sha1": "1d11a67ad49f6b25b46329c0c4f2704a30d37a0b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wistatejournal-2022-09-29T11:10:53.473108-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664467860",
+      "size": "1468",
+      "md5": "0a17a1ed443f81ab24558883e449b78c",
+      "crc32": "4e2a93de",
+      "sha1": "cc7d388e1838959cd86bb24b7615eba4ac174fa6",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-09-29T11:10:53.473108-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664467863",
+      "size": "44848",
+      "md5": "ced3a2ed631927d70a972350d4ebc9ca",
+      "crc32": "1bccafae",
+      "sha1": "7b6b5a6c20047c60d1d1ee73aaada265babbf925",
+      "format": "JSON"
+    },
+    {
       "name": "wistatejournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6ddbc90f55db562e4dbfb63b601bbb65af2ffa54",
-      "mtime": "1664431425",
-      "size": "317504",
-      "md5": "741b3202fead0c00c7ea1b0b20e256b6",
-      "crc32": "883a8a3a",
-      "sha1": "555b783b61aef2f8b16e7559e33ec99129d997ae",
+      "btih": "14f2267e0d09938963ca45c1654d36255a1af1f5",
+      "mtime": "1664467922",
+      "size": "318597",
+      "md5": "db6c1a1842963fed3c69f4ef063edf74",
+      "crc32": "2de1d480",
+      "sha1": "661b5d0192afbe5d7701c4ebd45a780a29f2c820",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wistatejournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "98e7bacb125ac734f9bddb3435c52791",
+      "md5": "edb756828fd1220e569a21e9cfa5a0ac",
       "summation": "md5"
     },
     {
       "name": "wistatejournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664429140",
-      "size": "1773568",
-      "md5": "10ac935acac74ee89261aa57aab914aa",
-      "crc32": "efe2d25f",
-      "sha1": "202c5369c90f8075befd106418062c599c3e27ab",
+      "mtime": "1664467870",
+      "size": "1781760",
+      "md5": "b127ba8f31f55e0cff8405468b6860fc",
+      "crc32": "82e68786",
+      "sha1": "4eafa94a09a057766e80907889dc5b75b7c58ce9",
       "format": "Metadata"
     },
     {
@@ -15212,9 +15263,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1459,
-  "item_last_updated": 1664431425,
-  "item_size": 137947066,
+  "files_count": 1464,
+  "item_last_updated": 1664467922,
+  "item_size": 138434759,
   "metadata": {
     "identifier": "wistatejournal-2022",
     "collection": [
@@ -15231,10 +15282,21 @@
     "publicdate": "2022-03-23 23:08:08",
     "addeddate": "2022-03-23 23:08:08"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 659100926,
+  "pending_tasks": true,
+  "server": "ia601404.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3422426417,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1211828100,
   "workable_servers": [
-    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }

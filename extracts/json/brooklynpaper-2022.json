@@ -1,5 +1,5 @@
 {
-  "created": 1664431413,
+  "created": 1664468145,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/5/items/brooklynpaper-2022",
@@ -7096,31 +7096,82 @@
       "sha1": "815f3a31292d52e43f47c26e720d1d0261924c5c"
     },
     {
+      "name": "brooklynpaper-2022-09-29T12:08:07.353168-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664467694",
+      "size": "18718",
+      "md5": "86a926393ad5e3c0d3cd1f134ecfb05f",
+      "crc32": "b011ce10",
+      "sha1": "ad8534bc949bf319ef5dc1cc0725b5051468c66a",
+      "format": "JSON"
+    },
+    {
+      "name": "brooklynpaper-2022-09-29T12:08:07.353168-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664467696",
+      "size": "18892",
+      "md5": "db1271fafd0391cccb8cfa9991981e36",
+      "crc32": "da53088c",
+      "sha1": "4eafa7cf689199cd79da7648e1bd2a40eb34d994",
+      "format": "JSON"
+    },
+    {
+      "name": "brooklynpaper-2022-09-29T12:08:07.353168-04:00.jpg",
+      "source": "original",
+      "mtime": "1664467691",
+      "size": "295165",
+      "md5": "fc72f16b011da010616d9968fd354194",
+      "crc32": "9625038d",
+      "sha1": "7780cd977b9be4eaa4689326008d7bebbc486cde",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "brooklynpaper-2022-09-29T12:08:07.353168-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664467698",
+      "size": "1522",
+      "md5": "8689f6b00e1f84fda4cfda1f6605f905",
+      "crc32": "69216fd3",
+      "sha1": "cb85c5548bbf1358f1482dbd576392d02269bf6c",
+      "format": "JSON"
+    },
+    {
+      "name": "brooklynpaper-2022-09-29T12:08:07.353168-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664467699",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "brooklynpaper-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f2b0dab7518d3090439fa49be6d5da794bb7fbe2",
-      "mtime": "1664431355",
-      "size": "149073",
-      "md5": "3e4c8d07a9d82fb2d08b79640a1ceaf3",
-      "crc32": "b9c43c30",
-      "sha1": "1787cbea6bc75567d1df2e215e7cd72d6980b2e2",
+      "btih": "3b2fb9f658df294d17645d180d9bf240e9e1ea6f",
+      "mtime": "1664468132",
+      "size": "150139",
+      "md5": "cc3db2f7eea111cd6a1a2279fb5dc12e",
+      "crc32": "cb8f136d",
+      "sha1": "03cb6a32ec4bb709ff0bd65a2a3089a2bfc67d38",
       "format": "Archive BitTorrent"
     },
     {
       "name": "brooklynpaper-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "095eb9731c6c969bde76d562a29c5377",
+      "md5": "c05286b3b1f17ebfeb168f038b05371f",
       "summation": "md5"
     },
     {
       "name": "brooklynpaper-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664428951",
-      "size": "892928",
-      "md5": "4e14ea21100532fd328c31fd8618c13d",
-      "crc32": "f3c6817a",
-      "sha1": "901ee3404ab66d3fe05297e8342d6c05b49bb034",
+      "mtime": "1664468081",
+      "size": "901120",
+      "md5": "adeef73d915b17903f3f2083c6c50406",
+      "crc32": "78515964",
+      "sha1": "43802020c2971e56971a2792305e468e56b33963",
       "format": "Metadata"
     },
     {
@@ -7134,9 +7185,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 690,
-  "item_last_updated": 1664431355,
-  "item_size": 41095022,
+  "files_count": 695,
+  "item_last_updated": 1664468132,
+  "item_size": 41438779,
   "metadata": {
     "identifier": "brooklynpaper-2022",
     "collection": [
@@ -7153,10 +7204,21 @@
     "publicdate": "2022-08-03 01:54:23",
     "addeddate": "2022-08-03 01:54:23"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 486207639,
+  "pending_tasks": true,
+  "server": "ia601405.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3422429920,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 506979471,
   "workable_servers": [
-    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

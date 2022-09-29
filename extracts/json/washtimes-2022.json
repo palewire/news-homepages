@@ -1,5 +1,5 @@
 {
-  "created": 1664431730,
+  "created": 1664467946,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/23/items/washtimes-2022",
@@ -20110,31 +20110,82 @@
       "sha1": "c4e0c63ce66d78dc4d87633841ea41911c8f5801"
     },
     {
+      "name": "washtimes-2022-09-29T12:10:41.557420-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664467855",
+      "size": "98685",
+      "md5": "7d267fabc57eda54c9235cdb123e7cb0",
+      "crc32": "dd6450de",
+      "sha1": "be38e240714f3b113c6fd3097165b5d047a9769a",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-09-29T12:10:41.557420-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664467857",
+      "size": "61776",
+      "md5": "2be5af533b43f75cbf0b93076addf3b8",
+      "crc32": "face1815",
+      "sha1": "1c3896cbc55bf7e7aeeeb553ba3ea79bbf1acb5e",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-09-29T12:10:41.557420-04:00.jpg",
+      "source": "original",
+      "mtime": "1664467853",
+      "size": "364193",
+      "md5": "b7e3c66fc087c062fd04f3e8225acdc0",
+      "crc32": "99d5d63e",
+      "sha1": "d72afb194d3a19ff4412aa487809a7eacef9ee85",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "washtimes-2022-09-29T12:10:41.557420-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664467859",
+      "size": "1521",
+      "md5": "9d82beabf0fb36828bee243fa1c01305",
+      "crc32": "7d013e8b",
+      "sha1": "007fe08cb9a62b3c47ddbff6d9f51d528a0d1d31",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-09-29T12:10:41.557420-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664467861",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "washtimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bb223669ac9e487f21651424258ef0e36f566594",
-      "mtime": "1664431684",
-      "size": "412875",
-      "md5": "79a21175f485053c563ba0a7a4ae5c81",
-      "crc32": "40ffd7f9",
-      "sha1": "8120c4ced2edac4fb366c55d1f2dac3b2a05713d",
+      "btih": "cbe5b7a0361bf8f2f36b8ce795bd11874b148444",
+      "mtime": "1664467941",
+      "size": "413941",
+      "md5": "abdce8a52168bfa0f8005d29c6ce22f2",
+      "crc32": "986b3507",
+      "sha1": "8eb41c60446284c8b97ebfffaa1f229ca212f457",
       "format": "Archive BitTorrent"
     },
     {
       "name": "washtimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e94133a7ddef61111a9e198f8b1e947d",
+      "md5": "5f0d9906e10ad9ce7b8fb7194894b742",
       "summation": "md5"
     },
     {
       "name": "washtimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664429095",
-      "size": "2347008",
-      "md5": "f010648ccb5f04eb7c761966254453e1",
-      "crc32": "262b1de3",
-      "sha1": "a27456e803fe4e5ef47b7271a70453930e1e84e3",
+      "mtime": "1664467872",
+      "size": "2355200",
+      "md5": "021cdacef10ad30f06b8fd036934531a",
+      "crc32": "cc8f10f1",
+      "sha1": "6df901304deb0614ab9eef806a714d2737b3b147",
       "format": "Metadata"
     },
     {
@@ -20148,9 +20199,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1935,
-  "item_last_updated": 1664431684,
-  "item_size": 218564327,
+  "files_count": 1940,
+  "item_last_updated": 1664467941,
+  "item_size": 219099962,
   "metadata": {
     "identifier": "washtimes-2022",
     "collection": [
@@ -20167,10 +20218,21 @@
     "publicdate": "2022-03-25 18:45:19",
     "addeddate": "2022-03-25 18:45:19"
   },
+  "pending_tasks": true,
   "server": "ia902505.us.archive.org",
-  "uniq": 588574715,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3422426744,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 762768417,
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia902505.us.archive.org"
   ]
 }

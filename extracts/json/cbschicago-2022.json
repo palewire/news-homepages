@@ -1,6 +1,5 @@
 {
-  "conflict": 1664467791,
-  "created": 1664467791,
+  "created": 1664468217,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/12/items/cbschicago-2022",
@@ -11175,31 +11174,82 @@
       "sha1": "fb7d8a4cc94a8fb9ba842ac20e01d943b9a229aa"
     },
     {
+      "name": "cbschicago-2022-09-29T11:08:06.220272-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664467690",
+      "size": "26940",
+      "md5": "f8b90f9eefa9a9e4291b76ef5179badc",
+      "crc32": "ebb401e2",
+      "sha1": "c1930e14314214addc4bd44335b453b77976fd33",
+      "format": "JSON"
+    },
+    {
+      "name": "cbschicago-2022-09-29T11:08:06.220272-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664467691",
+      "size": "71604",
+      "md5": "61563966cbf6d203ba3fe156cbb8ec4a",
+      "crc32": "59d6afc4",
+      "sha1": "6b19a8cc73447db029db1ad1770828daa739a9c4",
+      "format": "JSON"
+    },
+    {
+      "name": "cbschicago-2022-09-29T11:08:06.220272-05:00.jpg",
+      "source": "original",
+      "mtime": "1664467688",
+      "size": "215485",
+      "md5": "a49b33f0bac7ebf5b3e166be1ca0c0bd",
+      "crc32": "3e3880d7",
+      "sha1": "355924cf500943c9d658baf63adc6ac441f02e5b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbschicago-2022-09-29T11:08:06.220272-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664467694",
+      "size": "1531",
+      "md5": "82fd2c11f42425eee84f2537d5cad359",
+      "crc32": "f2bf1f9c",
+      "sha1": "8e7d10023ec39b783e2c56c8d3e9ac335de7fa76",
+      "format": "JSON"
+    },
+    {
+      "name": "cbschicago-2022-09-29T11:08:06.220272-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664467697",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "cbschicago-2022_archive.torrent",
       "source": "metadata",
-      "btih": "88bc3fcd139e5d1630fd5303d84c21584fe3f78c",
-      "mtime": "1664467211",
-      "size": "230099",
-      "md5": "3734b93b4ce4399d4dd658cfd32b702b",
-      "crc32": "791a2d61",
-      "sha1": "8d4a3c505c2805c04a81ca9119b017e3dcad949c",
+      "btih": "0fe99fbf6e1736ad2c00967b3c7ff564fa12754d",
+      "mtime": "1664468119",
+      "size": "231356",
+      "md5": "3ddc5e1fd24286163bb838570f06a3b6",
+      "crc32": "309f8f49",
+      "sha1": "7dcdf309c28ab8caea0d94866656aaee11848c5c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cbschicago-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a4405894b210f93834d189586e48ecb9",
+      "md5": "02f5239f977d4e2d0cade5982adda0f1",
       "summation": "md5"
     },
     {
       "name": "cbschicago-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664467141",
-      "size": "1384448",
-      "md5": "27ae7e7e489af23d0d71afb3571ee7f9",
-      "crc32": "dec6656c",
-      "sha1": "b1a2db6f9a67118b495206a502db186a5b929bb6",
+      "mtime": "1664468087",
+      "size": "1388544",
+      "md5": "fdc02aef8b19d55c93cce937cab9a2af",
+      "crc32": "9a7773a9",
+      "sha1": "16f7f5d2ad1e61bf3a04ad2131f2ebf8623719ea",
       "format": "Metadata"
     },
     {
@@ -11213,9 +11263,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1084,
-  "item_last_updated": 1664467775,
-  "item_size": 62295840,
+  "files_count": 1089,
+  "item_last_updated": 1664468119,
+  "item_size": 62616955,
   "metadata": {
     "identifier": "cbschicago-2022",
     "collection": [
@@ -11237,63 +11287,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3422411304,
+      "task_id": 3422429870,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3422421920,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3422421954,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3422422002,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3422422052,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3422422102,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3422423788,
-      "cmd": "bup.php",
-      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 458327202,
+  "uniq": 9202582,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

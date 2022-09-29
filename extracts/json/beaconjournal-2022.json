@@ -1,5 +1,5 @@
 {
-  "created": 1664431184,
+  "created": 1664467751,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/30/items/beaconjournal-2022",
@@ -5680,31 +5680,82 @@
       "sha1": "1f4551dd432ce2394fdc6069f809b378b3af1ed0"
     },
     {
+      "name": "beaconjournal-2022-09-29T12:08:04.556296-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664467688",
+      "size": "22383",
+      "md5": "d88cf6ca1d26d8f771f8611a5eaa4c75",
+      "crc32": "a370f440",
+      "sha1": "50dbb410853578b96ce2b3dc438938a3696a0a51",
+      "format": "JSON"
+    },
+    {
+      "name": "beaconjournal-2022-09-29T12:08:04.556296-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664467690",
+      "size": "29310",
+      "md5": "4e180c5c2bf3868831eac1fbf3d9c8dc",
+      "crc32": "9b0025c9",
+      "sha1": "cf1869a80c8315431ffda05aa276fd625576d22d",
+      "format": "JSON"
+    },
+    {
+      "name": "beaconjournal-2022-09-29T12:08:04.556296-04:00.jpg",
+      "source": "original",
+      "mtime": "1664467686",
+      "size": "238779",
+      "md5": "1bd8dcc8364f8dfa46d1a20bd1018185",
+      "crc32": "499e8011",
+      "sha1": "7584d7c29300aff4cf4e2fa6a44541d47ce3a3a8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "beaconjournal-2022-09-29T12:08:04.556296-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664467692",
+      "size": "1522",
+      "md5": "87cc6716012b0f537ad224fe8b770555",
+      "crc32": "acaf1bb5",
+      "sha1": "94e5c4866d752be173a9aca68388588814103ed8",
+      "format": "JSON"
+    },
+    {
+      "name": "beaconjournal-2022-09-29T12:08:04.556296-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664467694",
+      "size": "94606",
+      "md5": "6a0ae96871d2c73f00a1eef436734baf",
+      "crc32": "c9e81e85",
+      "sha1": "fdab87f2fdb94cfa57e4ff72c85750b5610679d6",
+      "format": "JSON"
+    },
+    {
       "name": "beaconjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "33a7d6fc26b598dabfec3cd015335a54ef83ba6d",
-      "mtime": "1664431108",
-      "size": "119664",
-      "md5": "0ba1f1724752a73f494ac66be1b68d99",
-      "crc32": "536e7ba0",
-      "sha1": "c495156183c7b8b64bf7d2bc59b77bcb49b1b1b9",
+      "btih": "00bd0c0bd06c84f44d3be3d790097e0d455f8f39",
+      "mtime": "1664467746",
+      "size": "120752",
+      "md5": "376dc5b1d4942b2d3af94e35ad3b3af9",
+      "crc32": "8f0ea2e9",
+      "sha1": "80e819e6db05f61e612f83a7f5992c02858ef7ee",
       "format": "Archive BitTorrent"
     },
     {
       "name": "beaconjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e34b9ea2546aff1f53affd041a378a75",
+      "md5": "9f0fd9632ca650f0e3d514c4c5531297",
       "summation": "md5"
     },
     {
       "name": "beaconjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664428954",
-      "size": "720896",
-      "md5": "37f03bb174fe14779b23d3a05ef326a6",
-      "crc32": "4b09a803",
-      "sha1": "9d43b40785fe967d86616c5c7accb6dc7e09fda0",
+      "mtime": "1664467705",
+      "size": "729088",
+      "md5": "0996e437cbfcad601a4dcbf149f60501",
+      "crc32": "8ba51940",
+      "sha1": "8ddc83a0dc9c38220e8ae7e5f0ceea265ae933a8",
       "format": "Metadata"
     },
     {
@@ -5718,9 +5769,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 553,
-  "item_last_updated": 1664431108,
-  "item_size": 36815033,
+  "files_count": 558,
+  "item_last_updated": 1664467746,
+  "item_size": 37210913,
   "metadata": {
     "identifier": "beaconjournal-2022",
     "collection": [
@@ -5737,10 +5788,21 @@
     "publicdate": "2022-08-14 05:00:38",
     "addeddate": "2022-08-14 05:00:38"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 220790121,
+  "pending_tasks": true,
+  "server": "ia601501.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3422423116,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1593090189,
   "workable_servers": [
-    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

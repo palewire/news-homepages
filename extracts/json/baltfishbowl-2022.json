@@ -1,5 +1,5 @@
 {
-  "created": 1664431120,
+  "created": 1664467590,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/19/items/baltfishbowl-2022",
@@ -9132,31 +9132,82 @@
       "sha1": "74a108767354b192acaaaba4505da06054f5b9e1"
     },
     {
+      "name": "baltfishbowl-2022-09-29T12:05:22.946937-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664467532",
+      "size": "27382",
+      "md5": "f181d29f6d421ff581e5377d4687b8fb",
+      "crc32": "5fad563b",
+      "sha1": "0e73b35f7a97bb132b378afbb99364d3085db3d6",
+      "format": "JSON"
+    },
+    {
+      "name": "baltfishbowl-2022-09-29T12:05:22.946937-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664467534",
+      "size": "24450",
+      "md5": "e14ee8580f4b27b73598eb95346e7611",
+      "crc32": "6ef9f3a6",
+      "sha1": "d693e1f85b714869b21dcd348f12fbdfed3dc2bc",
+      "format": "JSON"
+    },
+    {
+      "name": "baltfishbowl-2022-09-29T12:05:22.946937-04:00.jpg",
+      "source": "original",
+      "mtime": "1664467529",
+      "size": "249264",
+      "md5": "2d1343630e3b0da28181d44a9206df5e",
+      "crc32": "7fe734c7",
+      "sha1": "95809c3b367fb668fd1e381ae4567a091b60d742",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltfishbowl-2022-09-29T12:05:22.946937-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664467536",
+      "size": "1522",
+      "md5": "d8f691427a419d03db7f7777464662c4",
+      "crc32": "9985f29c",
+      "sha1": "577dd799dd0b7aa49c5c560f2eee3a86ddf7ce28",
+      "format": "JSON"
+    },
+    {
+      "name": "baltfishbowl-2022-09-29T12:05:22.946937-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664467538",
+      "size": "28739",
+      "md5": "dad7c99033d229d9fbcb4a7874124ee6",
+      "crc32": "f27ed739",
+      "sha1": "02360c06eac729d426967b495235216e58d48cc8",
+      "format": "JSON"
+    },
+    {
       "name": "baltfishbowl-2022_archive.torrent",
       "source": "metadata",
-      "btih": "511ae6504c822d8d24ee157243c5bb7436467ecd",
-      "mtime": "1664431102",
-      "size": "190158",
-      "md5": "5271cbe70a4539e61d12c2ac172d0f84",
-      "crc32": "469c4649",
-      "sha1": "528eb76c90f5a18f0a96e096d441063d90092823",
+      "btih": "6a2242471abce2e5b894b2c129b585d732cbf1d0",
+      "mtime": "1664467584",
+      "size": "191241",
+      "md5": "39f3ab484f76ae186ed670186e7cb05d",
+      "crc32": "0f3f8924",
+      "sha1": "2476b3b5d3012b1a457a45b6a36beac2f0963c8e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltfishbowl-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "20be6a6408aee83e781815c741d3ff77",
+      "md5": "642e64268019e06d57edb6dc8398c089",
       "summation": "md5"
     },
     {
       "name": "baltfishbowl-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664428952",
-      "size": "1122304",
-      "md5": "5430f5dae87e2e55e8cd28d3b82d1792",
-      "crc32": "24fc8b02",
-      "sha1": "a14d1778804f2610a9aad6016fd300a49ced2f14",
+      "mtime": "1664467542",
+      "size": "1134592",
+      "md5": "83b1c3e5cf46d00620915652baf3442c",
+      "crc32": "8a33d357",
+      "sha1": "b51a84f4db53bd605ab1b37bfe56a2a4a5ffb8bd",
       "format": "Metadata"
     },
     {
@@ -9170,9 +9221,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 885,
-  "item_last_updated": 1664431102,
-  "item_size": 57732736,
+  "files_count": 890,
+  "item_last_updated": 1664467584,
+  "item_size": 58077464,
   "metadata": {
     "identifier": "baltfishbowl-2022",
     "collection": [
@@ -9189,10 +9240,21 @@
     "publicdate": "2022-07-13 02:24:39",
     "addeddate": "2022-07-13 02:24:39"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 76031082,
+  "pending_tasks": true,
+  "server": "ia902502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3422420073,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 960356608,
   "workable_servers": [
-    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

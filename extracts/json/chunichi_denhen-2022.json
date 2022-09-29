@@ -1,5 +1,5 @@
 {
-  "created": 1664431177,
+  "created": 1664467796,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/31/items/chunichi_denhen-2022",
@@ -13848,31 +13848,82 @@
       "sha1": "b9a0af08ad7aee5e35162e84644323e8728f0ba5"
     },
     {
+      "name": "chunichi_denhen-2022-09-30T01:08:31.350391+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664467715",
+      "size": "67654",
+      "md5": "20f16092e92f604b0cb9dcb564c3c5f6",
+      "crc32": "a5ae7881",
+      "sha1": "3245effe584844da2be7c97d5d26cee41ea5719d",
+      "format": "JSON"
+    },
+    {
+      "name": "chunichi_denhen-2022-09-30T01:08:31.350391+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664467717",
+      "size": "82494",
+      "md5": "059b5992f184dec686e9153e01585893",
+      "crc32": "bd571be8",
+      "sha1": "458008ed40def12daea6c2cb22cd3b1e6f629565",
+      "format": "JSON"
+    },
+    {
+      "name": "chunichi_denhen-2022-09-30T01:08:31.350391+09:00.jpg",
+      "source": "original",
+      "mtime": "1664467713",
+      "size": "305253",
+      "md5": "6a86c3b96ab471ea395d378ed105957d",
+      "crc32": "b09624fd",
+      "sha1": "a354fabed7d0c149abe1a06fe6cfb73ca2d35662",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chunichi_denhen-2022-09-30T01:08:31.350391+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664467720",
+      "size": "1495",
+      "md5": "b237a9e0433341446d3f62d6243ab0c9",
+      "crc32": "6b90da61",
+      "sha1": "34931ddedc76686c7fe2d5669305324b2c43d407",
+      "format": "JSON"
+    },
+    {
+      "name": "chunichi_denhen-2022-09-30T01:08:31.350391+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1664467723",
+      "size": "43803",
+      "md5": "6b0af9481fb41b778810ce58ac456f10",
+      "crc32": "e349fc22",
+      "sha1": "a2d1ef7683f9cc547d3ccb55728210b933ec42c3",
+      "format": "JSON"
+    },
+    {
       "name": "chunichi_denhen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ae8fb12a16e6f0f78348705fc4fc0b4ee2482a60",
-      "mtime": "1664431161",
-      "size": "292781",
-      "md5": "7cb428e4f34ccf47fe466aa43cc33db8",
-      "crc32": "6fbb718a",
-      "sha1": "e6f7b1a4b7a88f10bdfb41ea30a6e46974b63abb",
+      "btih": "ef43fb7aa136e7e5db4f504a8a322e56ed5cfc0e",
+      "mtime": "1664467787",
+      "size": "293879",
+      "md5": "9e8d5a4ead4a5b508858fafe4ab1fa67",
+      "crc32": "b21dff6a",
+      "sha1": "529f03a2f2293a9cfc8fb6e671791abebfb4d6f1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chunichi_denhen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4da268e05a019f8b8602d856b7d179e1",
+      "md5": "bb52aa68c7ba7c15531baa48e92c1878",
       "summation": "md5"
     },
     {
       "name": "chunichi_denhen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664428965",
-      "size": "1687552",
-      "md5": "e59cb1fa9a904f5a4572e014135f74d4",
-      "crc32": "e258c990",
-      "sha1": "5186aff43e9ac89a34a467d59dfbc58aec97040e",
+      "mtime": "1664467729",
+      "size": "1695744",
+      "md5": "09c993221150761b8cf82a60e2e9eaef",
+      "crc32": "519b7d1e",
+      "sha1": "47a961eeed63df59226444300d07fe9179057b08",
       "format": "Metadata"
     },
     {
@@ -13886,9 +13937,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1339,
-  "item_last_updated": 1664431161,
-  "item_size": 120619459,
+  "files_count": 1344,
+  "item_last_updated": 1664467787,
+  "item_size": 121129448,
   "metadata": {
     "identifier": "chunichi_denhen-2022",
     "collection": [
@@ -13905,10 +13956,21 @@
     "publicdate": "2022-07-09 02:39:14",
     "addeddate": "2022-07-09 02:39:14"
   },
+  "pending_tasks": true,
   "server": "ia601509.us.archive.org",
-  "uniq": 1353306390,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3422423898,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 524136423,
   "workable_servers": [
-    "ia601509.us.archive.org",
-    "ia801509.us.archive.org"
+    "ia601509.us.archive.org"
   ]
 }

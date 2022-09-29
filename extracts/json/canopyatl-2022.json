@@ -1,5 +1,5 @@
 {
-  "created": 1664431367,
+  "created": 1664468097,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/12/items/canopyatl-2022",
@@ -9510,31 +9510,82 @@
       "sha1": "1ae8334cfceb3dd915faec149ae765827a0a76b4"
     },
     {
+      "name": "canopyatl-2022-09-29T12:09:44.821303-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664467790",
+      "size": "6208",
+      "md5": "9706eaacc02f8f3fb9bd7fdfd4ca5ca2",
+      "crc32": "23bf346c",
+      "sha1": "fd07cdb6cd41b1c11aefb07e0ac52e412ba72dcf",
+      "format": "JSON"
+    },
+    {
+      "name": "canopyatl-2022-09-29T12:09:44.821303-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664467792",
+      "size": "10292",
+      "md5": "169f559be52dafe07b285df3cbce3204",
+      "crc32": "0681ae42",
+      "sha1": "1a8ba8a8aa90db96f97a45d6220c6f47ae06ec8a",
+      "format": "JSON"
+    },
+    {
+      "name": "canopyatl-2022-09-29T12:09:44.821303-04:00.jpg",
+      "source": "original",
+      "mtime": "1664467788",
+      "size": "221830",
+      "md5": "7af3c54272de7e540842f8dbd4dc9079",
+      "crc32": "fedf33dd",
+      "sha1": "3feb06a4eb7f0d4dfad43778748cf29b122981b5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "canopyatl-2022-09-29T12:09:44.821303-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664467794",
+      "size": "1483",
+      "md5": "69de20c3857c5ca1c39ad59f52242c2d",
+      "crc32": "691b5c7c",
+      "sha1": "dc601a184ca94f56a7149582fa052000bce9786f",
+      "format": "JSON"
+    },
+    {
+      "name": "canopyatl-2022-09-29T12:09:44.821303-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664467795",
+      "size": "13157",
+      "md5": "064c57126d7bf9dfd7b8277fd6a97379",
+      "crc32": "57f60f52",
+      "sha1": "d299a96195104b9bbc1ee74b6576ebaa65dd0278",
+      "format": "JSON"
+    },
+    {
       "name": "canopyatl-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7f0d24b7a80343811cabaa5c7b3ef809706fc160",
-      "mtime": "1664431292",
-      "size": "194038",
-      "md5": "9f473e6059044a4e9ac07f96e1d168a0",
-      "crc32": "36a3aa22",
-      "sha1": "18fbcd0e63be10d3ecefbce620337d5062b2dc5e",
+      "btih": "fed15abfc420fb0d23f91c803c18468397091c8f",
+      "mtime": "1664468069",
+      "size": "195085",
+      "md5": "5f5723320a21c0b8bdfb30b44a91e6cc",
+      "crc32": "04a77af7",
+      "sha1": "cde1eace79bc2796906c5346815bc0ee1ee0c077",
       "format": "Archive BitTorrent"
     },
     {
       "name": "canopyatl-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bc0c472ac3a3380555926e0ddb7b4139",
+      "md5": "52d694c4c93edad500b7e38d2c56b181",
       "summation": "md5"
     },
     {
       "name": "canopyatl-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664428954",
-      "size": "1159168",
-      "md5": "f8feda6b097060d54dd917a313a396c5",
-      "crc32": "2a9d1067",
-      "sha1": "fe682e9650f7be768844bc098f8cd4b10eb5a63e",
+      "mtime": "1664468016",
+      "size": "1167360",
+      "md5": "fcc039096a53823361e217ee05be0be5",
+      "crc32": "ffbeb559",
+      "sha1": "9dd5be165d01dbbaf4d10a126d68bf41706701df",
       "format": "Metadata"
     },
     {
@@ -9548,9 +9599,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 921,
-  "item_last_updated": 1664431292,
-  "item_size": 40101499,
+  "files_count": 926,
+  "item_last_updated": 1664468069,
+  "item_size": 40363708,
   "metadata": {
     "identifier": "canopyatl-2022",
     "collection": [
@@ -9567,10 +9618,21 @@
     "publicdate": "2022-07-09 03:56:21",
     "addeddate": "2022-07-09 03:56:21"
   },
+  "pending_tasks": true,
   "server": "ia601405.us.archive.org",
-  "uniq": 1407659952,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3422429397,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1817501448,
   "workable_servers": [
-    "ia601405.us.archive.org",
-    "ia801405.us.archive.org"
+    "ia601405.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1664428607,
+  "created": 1664467616,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/1/items/amarilloglobe-2022",
@@ -1059,31 +1059,93 @@
       "format": "JSON"
     },
     {
+      "name": "amarilloglobe-2022-09-29T00:15:46.564381-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amarilloglobe-2022-09-29T00:15:46.564381-05:00.jpg",
+      "mtime": "1664431913",
+      "size": "9150",
+      "md5": "bed375cdca96a241fee00cadd5fc038e",
+      "crc32": "1193b900",
+      "sha1": "a3f9a18827bd69d0472a99122aae336b99593380"
+    },
+    {
+      "name": "amarilloglobe-2022-09-29T11:06:04.428743-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664467567",
+      "size": "24039",
+      "md5": "8f826aa06489e53affafbf75bcc3ba8c",
+      "crc32": "9b3a74ab",
+      "sha1": "46f2bc6cf2d20830d1380f4cc000b5c92b580da9",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-09-29T11:06:04.428743-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664467569",
+      "size": "34140",
+      "md5": "7e2d3db7f83b130930861f4cd78a0946",
+      "crc32": "8e8f1fd9",
+      "sha1": "5d645e76393f846149b8c12751ed565b13dd2a8b",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-09-29T11:06:04.428743-05:00.jpg",
+      "source": "original",
+      "mtime": "1664467565",
+      "size": "274438",
+      "md5": "6f0d3c80f8397029ba2d665953b28383",
+      "crc32": "45dae3b1",
+      "sha1": "5a594d39124f49a336334e178887a66a53844d6b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amarilloglobe-2022-09-29T11:06:04.428743-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664467571",
+      "size": "1477",
+      "md5": "51d875334fedfa58257ceafa7786f907",
+      "crc32": "22dd6eeb",
+      "sha1": "13aea30a3b103bd83675e8aeab087684a0d7755c",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-09-29T11:06:04.428743-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664467574",
+      "size": "120052",
+      "md5": "b7c8c591fbf0ea30d7546b80ffaa7ad8",
+      "crc32": "29659f9a",
+      "sha1": "9900d96f1e25599270f92d09b0b88975370aaf36",
+      "format": "JSON"
+    },
+    {
       "name": "amarilloglobe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "340fccd63d820966e6fae9c0afeb21f70e4c87c1",
-      "mtime": "1664428603",
-      "size": "23428",
-      "md5": "368d8ab227b812efdc8f552d05335663",
-      "crc32": "3770bf6c",
-      "sha1": "b5869aab470d0703d2b4930789cfe8a9a0c5c10e",
+      "btih": "7aba4cd583b4bb6699ebeef221865b9c1c9cc92a",
+      "mtime": "1664467612",
+      "size": "24706",
+      "md5": "b14680b6d4cb23c3eda45f145d5c5a95",
+      "crc32": "6c9f0ae6",
+      "sha1": "110bbda344012ce8daa7f994a0097c934b09fb7d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "amarilloglobe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "37f0f3acd28b12ae87688d845f57ab56",
+      "md5": "83d656f7a3d076453b52fd50b54e751f",
       "summation": "md5"
     },
     {
       "name": "amarilloglobe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664428563",
-      "size": "155648",
-      "md5": "174210df86015f28471fed9be349c0f5",
-      "crc32": "f33a8885",
-      "sha1": "108f4b5d7763424987ce1fd52982d5f912ce474c",
+      "mtime": "1664467578",
+      "size": "159744",
+      "md5": "cd4c6dd8493e4a9a89d90fd3ef7610be",
+      "crc32": "7dcbd1be",
+      "sha1": "ca2f35087148f116a4dbbccb312b31908822ed25",
       "format": "Metadata"
     },
     {
@@ -1097,9 +1159,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 106,
-  "item_last_updated": 1664428603,
-  "item_size": 6863388,
+  "files_count": 112,
+  "item_last_updated": 1664467612,
+  "item_size": 7332058,
   "metadata": {
     "identifier": "amarilloglobe-2022",
     "collection": [
@@ -1121,15 +1183,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421901281,
+      "task_id": 3422420624,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1556272977,
+  "uniq": 1391782419,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]
