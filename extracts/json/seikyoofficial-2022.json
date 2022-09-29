@@ -1,5 +1,5 @@
 {
-  "created": 1664394384,
+  "created": 1664417783,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/9/items/seikyoofficial-2022",
@@ -13637,31 +13637,82 @@
       "format": "JSON"
     },
     {
+      "name": "seikyoofficial-2022-09-29T04:40:52.650042+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "seikyoofficial-2022-09-29T04:40:52.650042+09:00.jpg",
+      "mtime": "1664399585",
+      "size": "9772",
+      "md5": "181782bb4bfc95f66d7bad1b21939362",
+      "crc32": "e7cd358b",
+      "sha1": "8bba01e071cf93bbf1b8e95c737df9fae9be1b42"
+    },
+    {
+      "name": "seikyoofficial-2022-09-29T11:15:17.095816+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664417718",
+      "size": "26498",
+      "md5": "368185cd88522bbc60abee2e9ec3841d",
+      "crc32": "5413dfe3",
+      "sha1": "4d62fef87dc50b20bc524948c8d4af3827e865bb",
+      "format": "JSON"
+    },
+    {
+      "name": "seikyoofficial-2022-09-29T11:15:17.095816+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664417720",
+      "size": "32510",
+      "md5": "6bbcf6abf1ee00ecb4dae9b789437c4a",
+      "crc32": "f42cade4",
+      "sha1": "267229e280b9d01ce410c1698167ff7ac9671dc5",
+      "format": "JSON"
+    },
+    {
+      "name": "seikyoofficial-2022-09-29T11:15:17.095816+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664417722",
+      "size": "1510",
+      "md5": "49c5d3189fd3671508f92d040f6c6a1a",
+      "crc32": "96fcdcfb",
+      "sha1": "cbb6d7d5036d7308892b6bd2306655cc380863db",
+      "format": "JSON"
+    },
+    {
+      "name": "seikyoofficial-2022-09-29T11:15:17.095816+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1664417723",
+      "size": "29277",
+      "md5": "af4a70d68336cc2cc98e638039e33615",
+      "crc32": "e9a30d21",
+      "sha1": "2926275c722ff5e45c193698a51590507b56f699",
+      "format": "JSON"
+    },
+    {
       "name": "seikyoofficial-2022_archive.torrent",
       "source": "metadata",
-      "btih": "939260cf13b7b07f031682e219b084c1f865e4ad",
-      "mtime": "1664394379",
-      "size": "285877",
-      "md5": "91a1d9786793a0ea507fd63a91394dba",
-      "crc32": "a180c368",
-      "sha1": "b3c9c2b866145114c6c00b233d490a0d09fdbc79",
+      "btih": "ddf02b4875f12467da5545bbb347ace14b32198e",
+      "mtime": "1664417779",
+      "size": "286954",
+      "md5": "e51e80b7496f568cd835ebb8cfa211e8",
+      "crc32": "7c783ebc",
+      "sha1": "a00d5ffcbe11d912075c52d8c4952869c8f67323",
       "format": "Archive BitTorrent"
     },
     {
       "name": "seikyoofficial-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e4145239c4ec5afb78afc70c5428009d",
+      "md5": "2e1fb9f5affe439c43e3466333d6e032",
       "summation": "md5"
     },
     {
       "name": "seikyoofficial-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664394330",
-      "size": "1662976",
-      "md5": "a7ce35ca824168be3b2fc2e60341c7c7",
-      "crc32": "50832c74",
-      "sha1": "f932160c3341b740dba423b6483ed8e8da136f7c",
+      "mtime": "1664417729",
+      "size": "1675264",
+      "md5": "ddaedf3a278031ff54cc9f4ca2bbeb73",
+      "crc32": "adb2acc7",
+      "sha1": "a18ed84b0b490409473261fa10e05fa86d3dba87",
       "format": "Metadata"
     },
     {
@@ -13675,9 +13726,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1319,
-  "item_last_updated": 1664394379,
-  "item_size": 89779175,
+  "files_count": 1324,
+  "item_last_updated": 1664417779,
+  "item_size": 89892107,
   "metadata": {
     "identifier": "seikyoofficial-2022",
     "collection": [
@@ -13699,7 +13750,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421367645,
+      "task_id": 3421729444,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13707,7 +13758,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2080816677,
+  "uniq": 471083127,
   "workable_servers": [
     "ia902502.us.archive.org"
   ]
