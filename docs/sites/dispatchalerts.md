@@ -28,13 +28,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 17 screenshots with the Internet Archive.
+The archiving routine has saved 18 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-28T19:47:34.285755-04:00.jpg">
+  <img src="https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-28T19:47:34.285755-04:00.jpg"
+     alt="The Columbus Dispatch at 2022-09-28 19:47:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-28T19:47:34.285755-04:00.jpg">September 28 at 7:47 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-28T08:08:52.812088-04:00.jpg">
@@ -135,20 +144,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-23T07:53:46.663817-04:00.jpg">September 23 at 7:53 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-22T19:48:07.649403-04:00.jpg">
-  <img src="https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-22T19:48:07.649403-04:00.jpg"
-     alt="The Columbus Dispatch at 2022-09-22 19:48:09-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-22T19:48:07.649403-04:00.jpg">September 22 at 7:48 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 18 hyperlink lists with the Internet Archive.
 
 
 
@@ -156,6 +156,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 7:47 PM](https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-28T19:47:34.285755-04:00.hyperlinks.json) |
 | [September 28 at 8:08 AM](https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-28T08:08:52.812088-04:00.hyperlinks.json) |
 | [September 27 at 7:52 PM](https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-27T19:52:15.434180-04:00.hyperlinks.json) |
 | [September 27 at 7:54 AM](https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-27T07:53:55.907593-04:00.hyperlinks.json) |
@@ -165,12 +166,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 7:47 AM](https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-25T07:47:08.818205-04:00.hyperlinks.json) |
 | [September 24 at 7:39 PM](https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-24T19:39:45.302998-04:00.hyperlinks.json) |
 | [September 24 at 7:47 AM](https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-24T07:47:51.558166-04:00.hyperlinks.json) |
-| [September 23 at 7:46 PM](https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-23T19:46:00.252357-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 17 accessibility trees with the Internet Archive.
+The archiving routine has saved 18 accessibility trees with the Internet Archive.
 
 
 
@@ -178,6 +178,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 7:47 PM](https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-28T19:47:34.285755-04:00.accessibility.json) |
 | [September 28 at 8:08 AM](https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-28T08:08:52.812088-04:00.accessibility.json) |
 | [September 27 at 7:52 PM](https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-27T19:52:15.434180-04:00.accessibility.json) |
 | [September 27 at 7:53 AM](https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-27T07:53:55.907593-04:00.accessibility.json) |
@@ -187,13 +188,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 7:47 AM](https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-25T07:47:08.818205-04:00.accessibility.json) |
 | [September 24 at 7:39 PM](https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-24T19:39:45.302998-04:00.accessibility.json) |
 | [September 24 at 7:47 AM](https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-24T07:47:51.558166-04:00.accessibility.json) |
-| [September 23 at 7:46 PM](https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-23T19:46:00.252357-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
 
 
 
@@ -201,6 +201,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 7:47 PM](https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-28T19:47:34.285755-04:00.lighthouse.json) |
 | [September 28 at 8:09 AM](https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-28T08:08:52.812088-04:00.lighthouse.json) |
 | [September 27 at 7:52 PM](https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-27T19:52:15.434180-04:00.lighthouse.json) |
 | [September 27 at 7:54 AM](https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-27T07:53:55.907593-04:00.lighthouse.json) |
@@ -210,7 +211,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 7:47 AM](https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-25T07:47:08.818205-04:00.lighthouse.json) |
 | [September 24 at 7:39 PM](https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-24T19:39:45.302998-04:00.lighthouse.json) |
 | [September 24 at 7:47 AM](https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-24T07:47:51.558166-04:00.lighthouse.json) |
-| [September 23 at 7:46 PM](https://archive.org/download/dispatchalerts-2022/dispatchalerts-2022-09-23T19:46:00.252357-04:00.lighthouse.json) |
 
 
 

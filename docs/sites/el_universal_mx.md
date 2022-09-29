@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 590 screenshots with the Internet Archive.
+The archiving routine has saved 591 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 590 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-28T18:47:44.365564-05:00.jpg">
+  <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-28T18:47:44.365564-05:00.jpg"
+     alt="El Universal at 2022-09-28 18:48:12-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-28T18:47:44.365564-05:00.jpg">September 28 at 6:48 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-28T07:08:52.887501-05:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-23T06:55:51.769006-05:00.jpg">September 23 at 6:56 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-22T18:47:13.270736-05:00.jpg">
-  <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-22T18:47:13.270736-05:00.jpg"
-     alt="El Universal at 2022-09-22 18:47:53-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-22T18:47:13.270736-05:00.jpg">September 22 at 6:47 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 589 hyperlink lists with the Internet Archive.
+The archiving routine has saved 590 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 28 at 6:48 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-28T18:47:44.365564-05:00.hyperlinks.json) |
 | [September 28 at 7:09 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-28T07:08:52.887501-05:00.hyperlinks.json) |
 | [September 27 at 6:52 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-27T18:52:17.202700-05:00.hyperlinks.json) |
 | [September 27 at 6:56 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-27T06:55:22.840967-05:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 25 at 6:47 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-25T06:47:19.521434-05:00.hyperlinks.json) |
 | [September 24 at 6:40 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-24T18:39:46.656388-05:00.hyperlinks.json) |
 | [September 24 at 6:48 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-24T06:48:26.065059-05:00.hyperlinks.json) |
-| [September 23 at 6:47 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-23T18:46:35.669190-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 589 accessibility trees with the Internet Archive.
+The archiving routine has saved 590 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 28 at 6:48 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-28T18:47:44.365564-05:00.accessibility.json) |
 | [September 28 at 7:09 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-28T07:08:52.887501-05:00.accessibility.json) |
 | [September 27 at 6:52 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-27T18:52:17.202700-05:00.accessibility.json) |
 | [September 27 at 6:56 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-27T06:55:22.840967-05:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 6:47 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-25T06:47:19.521434-05:00.accessibility.json) |
 | [September 24 at 6:40 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-24T18:39:46.656388-05:00.accessibility.json) |
 | [September 24 at 6:48 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-24T06:48:26.065059-05:00.accessibility.json) |
-| [September 23 at 6:46 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-23T18:46:35.669190-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 138 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 139 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 28 at 6:48 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-28T18:47:44.365564-05:00.lighthouse.json) |
 | [September 28 at 7:09 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-28T07:08:52.887501-05:00.lighthouse.json) |
 | [September 27 at 6:52 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-27T18:52:17.202700-05:00.lighthouse.json) |
 | [September 27 at 6:56 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-27T06:55:22.840967-05:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 25 at 6:47 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-25T06:47:19.521434-05:00.lighthouse.json) |
 | [September 24 at 6:40 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-24T18:39:46.656388-05:00.lighthouse.json) |
 | [September 24 at 6:48 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-24T06:48:26.065059-05:00.lighthouse.json) |
-| [September 23 at 6:47 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-23T18:46:35.669190-05:00.lighthouse.json) |
 
 
 
