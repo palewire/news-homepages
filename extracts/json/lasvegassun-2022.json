@@ -1,5 +1,5 @@
 {
-  "created": 1664370140,
+  "created": 1664414654,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/12/items/lasvegassun-2022",
@@ -9751,31 +9751,93 @@
       "format": "JSON"
     },
     {
+      "name": "lasvegassun-2022-09-28T06:00:53.713309-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lasvegassun-2022-09-28T06:00:53.713309-07:00.jpg",
+      "mtime": "1664372712",
+      "size": "10560",
+      "md5": "c9f4575af58e5fdcd171579092567129",
+      "crc32": "81729516",
+      "sha1": "fe16a3aacd66f05e2e27cb61ba28e28f7095c7f5"
+    },
+    {
+      "name": "lasvegassun-2022-09-28T18:22:11.926828-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664414535",
+      "size": "19135",
+      "md5": "4b59b5303b0f461df26dc1aa8133c135",
+      "crc32": "1e879d2f",
+      "sha1": "5dcc432e372f749a5e1aaa6e2486fa6ec0fd9fd9",
+      "format": "JSON"
+    },
+    {
+      "name": "lasvegassun-2022-09-28T18:22:11.926828-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664414537",
+      "size": "13037",
+      "md5": "7526cb262d0da4853d9a85566a22f7b2",
+      "crc32": "e8f1da2f",
+      "sha1": "80ab66eb3a973d027e16e50fa1f38d7267d79b3e",
+      "format": "JSON"
+    },
+    {
+      "name": "lasvegassun-2022-09-28T18:22:11.926828-07:00.jpg",
+      "source": "original",
+      "mtime": "1664414533",
+      "size": "338713",
+      "md5": "2699ce5c74197124368fd45ae4b85bb0",
+      "crc32": "9c0d84ce",
+      "sha1": "01234109214cb18316052c792a055006470cb7ac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lasvegassun-2022-09-28T18:22:11.926828-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664414539",
+      "size": "1483",
+      "md5": "70f83c6bb87a62c6040d11206f276540",
+      "crc32": "fa57a213",
+      "sha1": "347901c7b2b1de9ed3bcbdc8c9abede1b2fd6a68",
+      "format": "JSON"
+    },
+    {
+      "name": "lasvegassun-2022-09-28T18:22:11.926828-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664414541",
+      "size": "33384",
+      "md5": "758c589a7090914e9a32823a4159570e",
+      "crc32": "f23ef039",
+      "sha1": "f6ef08e9e8c1d68b7874c3dddc89a2ae94a343ba",
+      "format": "JSON"
+    },
+    {
       "name": "lasvegassun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d7ba16f40e24ad95e7bc9367760f3d1b2b88ef8c",
-      "mtime": "1664370131",
-      "size": "202139",
-      "md5": "e1c463ad5e226291f4a2063361d9ffc6",
-      "crc32": "333f6cd6",
-      "sha1": "21d64a5dfa9cdbe5e8465e404418985df85fe443",
+      "btih": "6a93609774316d3de8fe4563f56904a38c078c91",
+      "mtime": "1664414634",
+      "size": "203405",
+      "md5": "ae10d5dfa64327069dba936684321d1e",
+      "crc32": "2be6ab59",
+      "sha1": "53f33f6c7504bc4fef245179786ec438c28cb9b1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lasvegassun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b427bdd7f13cf5315eeac761553de8bf",
+      "md5": "4225a560b839af7e6e977d8be40acd07",
       "summation": "md5"
     },
     {
       "name": "lasvegassun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664370081",
-      "size": "1191936",
-      "md5": "626807288f67f8c4b0acbaca110fb738",
-      "crc32": "1a180777",
-      "sha1": "1a1432c77a4751cd239b2fdb3e38693866115f8a",
+      "mtime": "1664414559",
+      "size": "1200128",
+      "md5": "f4560b1fc2816ff6974f0d00ebd55511",
+      "crc32": "868f0cb6",
+      "sha1": "e16e88ac4dc10bf6ff74ece487a3859054f37e69",
       "format": "Metadata"
     },
     {
@@ -9789,9 +9851,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 944,
-  "item_last_updated": 1664370131,
-  "item_size": 69941674,
+  "files_count": 950,
+  "item_last_updated": 1664414634,
+  "item_size": 70367444,
   "metadata": {
     "identifier": "lasvegassun-2022",
     "collection": [
@@ -9813,7 +9875,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421011766,
+      "task_id": 3421680962,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9821,7 +9883,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2139639596,
+  "uniq": 1443462075,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

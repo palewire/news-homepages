@@ -1,5 +1,5 @@
 {
-  "created": 1664370026,
+  "created": 1664414483,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/3/items/irishtimes-2022",
@@ -8673,31 +8673,93 @@
       "format": "JSON"
     },
     {
+      "name": "irishtimes-2022-09-28T13:59:03.658625+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "irishtimes-2022-09-28T13:59:03.658625+01:00.jpg",
+      "mtime": "1664372206",
+      "size": "8840",
+      "md5": "7bb185f95ef05b7ac54b9d4b70e61786",
+      "crc32": "78d7218b",
+      "sha1": "e7eb2933cea55426064f462f3899c13bc7e1517c"
+    },
+    {
+      "name": "irishtimes-2022-09-29T02:19:56.898290+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664414407",
+      "size": "56224",
+      "md5": "14da46b62168d4ff105e15409fff1bdc",
+      "crc32": "72207d89",
+      "sha1": "499af2dc79f703405e0949052ee967f5fdd2c640",
+      "format": "JSON"
+    },
+    {
+      "name": "irishtimes-2022-09-29T02:19:56.898290+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664414409",
+      "size": "44334",
+      "md5": "d759a4b3d38badc44c1df9bdad1c8b40",
+      "crc32": "21b31570",
+      "sha1": "f49dd21744302f5788930d0263e2b985f40f32b0",
+      "format": "JSON"
+    },
+    {
+      "name": "irishtimes-2022-09-29T02:19:56.898290+01:00.jpg",
+      "source": "original",
+      "mtime": "1664414405",
+      "size": "270237",
+      "md5": "ce6beaad14e1172e503009aa7eec9852",
+      "crc32": "0b8ed46d",
+      "sha1": "713dcf2d7c40f959a133b24fc1a96d234572bdb0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "irishtimes-2022-09-29T02:19:56.898290+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664414411",
+      "size": "1486",
+      "md5": "739844be4724fe8b9a43936e8e25e3a7",
+      "crc32": "ce2e806c",
+      "sha1": "a8a35a5e96c14772be383e5dd13d65513ac13e8a",
+      "format": "JSON"
+    },
+    {
+      "name": "irishtimes-2022-09-29T02:19:56.898290+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1664414413",
+      "size": "68364",
+      "md5": "d66c98f04543f0cd153fa17b973d779d",
+      "crc32": "2c093f76",
+      "sha1": "91685d43f3228abf3fdc1d9bdfdbaa651b2d5286",
+      "format": "JSON"
+    },
+    {
       "name": "irishtimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5898403f1c3d7a286128d554ad0a406fb99920f4",
-      "mtime": "1664370012",
-      "size": "179273",
-      "md5": "36baf27f609d493ca3fb4c12117cca5c",
-      "crc32": "a615f341",
-      "sha1": "838bd5b0f5676c6202d371333de979ffebae4f8e",
+      "btih": "647e62d7a5f82a1426ecdc5b62f9c6fbe9dfa4ec",
+      "mtime": "1664414470",
+      "size": "180552",
+      "md5": "8268324fa55e847015e88b7530d10615",
+      "crc32": "7274275e",
+      "sha1": "e202ececacd02ee6c100e753152f25a027363489",
       "format": "Archive BitTorrent"
     },
     {
       "name": "irishtimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "60354f3c246aa1d0689ccebe444c3b64",
+      "md5": "1353d1c5ad6ae67d220ee56fd515c521",
       "summation": "md5"
     },
     {
       "name": "irishtimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664369964",
-      "size": "1069056",
-      "md5": "1728986ec8f68a39092122d91267f564",
-      "crc32": "d804aa6e",
-      "sha1": "471f1b30ca542aab1c5b6616375857196b244413",
+      "mtime": "1664414422",
+      "size": "1073152",
+      "md5": "1aab30e8e9b3b689f50ed08094e3021d",
+      "crc32": "3ab1aee6",
+      "sha1": "e9e0303b58959f389ce297f1b6719f8b23750cd8",
       "format": "Metadata"
     },
     {
@@ -8711,9 +8773,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 841,
-  "item_last_updated": 1664370012,
-  "item_size": 60879114,
+  "files_count": 847,
+  "item_last_updated": 1664414470,
+  "item_size": 61333974,
   "metadata": {
     "identifier": "irishtimes-2022",
     "collection": [
@@ -8735,7 +8797,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421007908,
+      "task_id": 3421678489,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8743,7 +8805,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 490604011,
+  "uniq": 1451265545,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

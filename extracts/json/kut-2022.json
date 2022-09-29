@@ -1,5 +1,5 @@
 {
-  "created": 1664370205,
+  "created": 1664414567,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/5/items/kut-2022",
@@ -8723,21 +8723,32 @@
       "format": "JSON"
     },
     {
+      "name": "kut-2022-09-28T08:01:36.414494-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kut-2022-09-28T08:01:36.414494-05:00.jpg",
+      "mtime": "1664372553",
+      "size": "10838",
+      "md5": "bde8238141faa42c3920ec219cb6a9f0",
+      "crc32": "c7e12a46",
+      "sha1": "71241146c7959b0e5218a9577b296a4651733180"
+    },
+    {
       "name": "kut-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c692f7c52a9c67ad1d37fb2f9edb5ddad1f699d3",
-      "mtime": "1664370190",
-      "size": "174473",
-      "md5": "77a2e0b5a999b7a66e90a5f004fadaa8",
-      "crc32": "3f8f3e8a",
-      "sha1": "95419883f1775038ba11a09bb3a1a7606d796af9",
+      "btih": "f11c02db64fdeba3484bbe03c63c70521ed6d552",
+      "mtime": "1664372613",
+      "size": "174673",
+      "md5": "0180ad83105592ea05929fb1375c4194",
+      "crc32": "d1ed3c31",
+      "sha1": "3be6a2ea8d4d9bbf116044da860ca213126d8c96",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kut-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f696c2388508de6ab5b8ea38d877ec09",
+      "md5": "c3ad94b2019246d7d6bede22e71441bf",
       "summation": "md5"
     },
     {
@@ -8761,9 +8772,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 846,
-  "item_last_updated": 1664370190,
-  "item_size": 60443737,
+  "files_count": 847,
+  "item_last_updated": 1664372613,
+  "item_size": 60454775,
   "metadata": {
     "identifier": "kut-2022",
     "collection": [
@@ -8785,15 +8796,47 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421013277,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3421679679,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3421679695,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3421679715,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3421679732,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3421679751,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1671683400,
+  "uniq": 259020105,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]
