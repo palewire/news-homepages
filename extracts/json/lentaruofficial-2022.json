@@ -1,5 +1,5 @@
 {
-  "created": 1664433695,
+  "created": 1664437325,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/6/items/lentaruofficial-2022",
@@ -12772,31 +12772,82 @@
       "sha1": "10c4485689f157d990966fb41b297e30267cb69e"
     },
     {
+      "name": "lentaruofficial-2022-09-29T10:40:03.996185+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664437207",
+      "size": "82654",
+      "md5": "d7d9d32411991034db3f37d27a31566e",
+      "crc32": "24bbf9ff",
+      "sha1": "c980de555e568aeb6291dbe7f960e96622d23cc1",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-09-29T10:40:03.996185+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664437208",
+      "size": "77482",
+      "md5": "5c46d6330382cb73d45c1317103d9ff2",
+      "crc32": "297002e6",
+      "sha1": "90f7fdc1f258fd14b96d9142e71749ea84a3d097",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-09-29T10:40:03.996185+03:00.jpg",
+      "source": "original",
+      "mtime": "1664437205",
+      "size": "255544",
+      "md5": "28aefada1f8389a8452e3dfda168e423",
+      "crc32": "324ce747",
+      "sha1": "1588b3ac55870727aac78b79db14913c3787c27c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lentaruofficial-2022-09-29T10:40:03.996185+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664437210",
+      "size": "1408",
+      "md5": "231d4a9010c6574b48dc992979377a95",
+      "crc32": "69985eb5",
+      "sha1": "e95a7b99e40e3c1d9659574cfb97e5d847d6b3cb",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-09-29T10:40:03.996185+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664437212",
+      "size": "359",
+      "md5": "d2ca76e6e6401292c3e4e71a5755648b",
+      "crc32": "5c0f38ec",
+      "sha1": "3b933ce30d5aeb2802055da44a26add8301dc280",
+      "format": "JSON"
+    },
+    {
       "name": "lentaruofficial-2022_archive.torrent",
       "source": "metadata",
-      "btih": "31a69c099bc00357dc0376767df6b651a85da64b",
-      "mtime": "1664433613",
-      "size": "269902",
-      "md5": "0e15f828ff1c83a390268e5445b4912f",
-      "crc32": "50b7f203",
-      "sha1": "6dff42714f363bfa0773ff192e6af59963aa48de",
+      "btih": "52679e9802ab7347b49376bb854b74dde39901a1",
+      "mtime": "1664437312",
+      "size": "270998",
+      "md5": "0aedc2de164e38f45061356050470a18",
+      "crc32": "16caeda8",
+      "sha1": "ba7669b1d10e313b555bef0e425a4827ed582822",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lentaruofficial-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a37e84ea2af10efc73c1e2a7f32126e7",
+      "md5": "0e1d8dace82fc703fb4b56e4983ae2b3",
       "summation": "md5"
     },
     {
       "name": "lentaruofficial-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664431498",
-      "size": "1572864",
-      "md5": "693986ad06b858c4683df1f80215f519",
-      "crc32": "bfafebf8",
-      "sha1": "cadc6a7e6ff18fbd31955823cfaa6be99c8031d9",
+      "mtime": "1664437230",
+      "size": "1585152",
+      "md5": "a94fd5f57af736852de9a5f689da0937",
+      "crc32": "19c98bce",
+      "sha1": "4767ae2d7a87a47b1ee9b45e8317404903cc69d9",
       "format": "Metadata"
     },
     {
@@ -12810,9 +12861,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1237,
-  "item_last_updated": 1664433613,
-  "item_size": 98804448,
+  "files_count": 1242,
+  "item_last_updated": 1664437312,
+  "item_size": 99235279,
   "metadata": {
     "identifier": "lentaruofficial-2022",
     "collection": [
@@ -12829,10 +12880,21 @@
     "publicdate": "2022-07-16 20:49:02",
     "addeddate": "2022-07-16 20:49:02"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 748782516,
+  "pending_tasks": true,
+  "server": "ia601505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3422018351,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 125651564,
   "workable_servers": [
-    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

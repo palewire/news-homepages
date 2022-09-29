@@ -1,5 +1,6 @@
 {
-  "created": 1664434360,
+  "conflict": 1664437275,
+  "created": 1664437275,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/7/items/izvestia_ru-2022",
@@ -12423,10 +12424,21 @@
     "publicdate": "2022-07-16 20:48:55",
     "addeddate": "2022-07-16 20:48:55"
   },
+  "pending_tasks": true,
   "server": "ia601508.us.archive.org",
-  "uniq": 1921419925,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3422017563,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 2141035502,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia601508.us.archive.org"
   ]
 }
