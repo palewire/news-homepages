@@ -1,5 +1,5 @@
 {
-  "created": 1664433535,
+  "created": 1664480558,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/0/items/laist-2022",
@@ -18306,31 +18306,91 @@
       "format": "JSON"
     },
     {
+      "name": "laist-2022-09-29T10:31:15.005903-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664472703",
+      "size": "34049",
+      "md5": "6255f8c43cd94daa1072d5c33d32e4e9",
+      "crc32": "207ea382",
+      "sha1": "6bf6837812a3d75288861d526dbc027e67aa7997",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-09-29T10:31:15.005903-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664472704",
+      "size": "1405",
+      "md5": "53cdf76a35678ea0de07ebe2d4919de3",
+      "crc32": "44e4f071",
+      "sha1": "4d431b4e0f95be6973a2c0464973ca2cfdbcf153",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-09-29T10:31:15.005903-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664472706",
+      "size": "25809",
+      "md5": "537eb40edbff61d37b1294b03d58d613",
+      "crc32": "9b79fc67",
+      "sha1": "4565e7dcd2b3792c0c8cf390243de7d2787649ad",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-09-29T12:41:06.648437-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664480467",
+      "size": "34016",
+      "md5": "a87a52aef7c97c68641a319735a78a8e",
+      "crc32": "13c175fe",
+      "sha1": "98ab2078f0203b744699183759afe349aad92b3c",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-09-29T12:41:06.648437-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664480470",
+      "size": "1403",
+      "md5": "9a512a01d6efccea142832bf578898c1",
+      "crc32": "75bb26be",
+      "sha1": "5e91e0977728c431c230766eeeb97718be10fc11",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-09-29T12:41:06.648437-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664480471",
+      "size": "25449",
+      "md5": "63c613c24eff2c157d22fd6a0e6b624e",
+      "crc32": "3e1f254a",
+      "sha1": "a774eff9a984f45b69220477826b47d8bee2a1a0",
+      "format": "JSON"
+    },
+    {
       "name": "laist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "93328cfe05b76eb3bc67770df4fb3ded8dfd08f1",
-      "mtime": "1664431587",
-      "size": "368046",
-      "md5": "bc9a358b59c649fc22ffefc233eb6712",
-      "crc32": "7ae6a6bb",
-      "sha1": "5275911cbfd5c681e033033c3c5d5f9361b0fc51",
+      "btih": "70b1a59f1ce8c128cf6f46dfbc5db3562197d743",
+      "mtime": "1664480549",
+      "size": "369306",
+      "md5": "5712118aa5ec1e35527c27d489e7735d",
+      "crc32": "d932c169",
+      "sha1": "f5436e7f597c223e7c46b2e3f68471dde617e512",
       "format": "Archive BitTorrent"
     },
     {
       "name": "laist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8f2756137ccf17e102647f6857f11171",
+      "md5": "b7f526821c8cf679cf84b4cba173d221",
       "summation": "md5"
     },
     {
       "name": "laist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664431531",
-      "size": "2191360",
-      "md5": "8ce6ef1e92766885ceb73ef8f2a30a90",
-      "crc32": "62194b3d",
-      "sha1": "a8d4768a0c544b5f93e1875ba3c319426983ee9a",
+      "mtime": "1664480527",
+      "size": "2199552",
+      "md5": "a48b27819feeaa1c1a8f103d263210fb",
+      "crc32": "dc697c1c",
+      "sha1": "c9b745114fa068c7afb52980bf6f0d4e4d2bf882",
       "format": "Metadata"
     },
     {
@@ -18344,9 +18404,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1769,
-  "item_last_updated": 1664431587,
-  "item_size": 128708512,
+  "files_count": 1775,
+  "item_last_updated": 1664480549,
+  "item_size": 128840095,
   "metadata": {
     "identifier": "laist-2022",
     "collection": [
@@ -18363,10 +18423,21 @@
     "publicdate": "2022-03-23 02:08:36",
     "addeddate": "2022-03-23 02:08:36"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 838888842,
+  "pending_tasks": true,
+  "server": "ia902503.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3422588936,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 458047863,
   "workable_servers": [
-    "ia802503.us.archive.org",
     "ia902503.us.archive.org"
   ]
 }
