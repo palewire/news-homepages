@@ -1,5 +1,5 @@
 {
-  "created": 1664377491,
+  "created": 1664423064,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/11/items/thebuffalonews-2022",
@@ -7571,31 +7571,93 @@
       "format": "JSON"
     },
     {
+      "name": "thebuffalonews-2022-09-28T11:03:41.053640-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thebuffalonews-2022-09-28T11:03:41.053640-04:00.jpg",
+      "mtime": "1664384487",
+      "size": "12366",
+      "md5": "f6b6ec9fdf2e8f93530e3ef4ab9ec092",
+      "crc32": "47aa275b",
+      "sha1": "7069bb9556b84817b57dac54e65edaeba8aa93de"
+    },
+    {
+      "name": "thebuffalonews-2022-09-28T23:43:21.153585-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664423007",
+      "size": "30129",
+      "md5": "70e715b603315366ea94b8345b3e3d71",
+      "crc32": "5e9b66b5",
+      "sha1": "c3feaa61b6ebc2f409963294cbbb6a381b03277f",
+      "format": "JSON"
+    },
+    {
+      "name": "thebuffalonews-2022-09-28T23:43:21.153585-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664423009",
+      "size": "84302",
+      "md5": "196b0b8c2f89ffeeed3f768612a561cc",
+      "crc32": "ba31a14e",
+      "sha1": "09c8374378c2f660aa2391d8d5f254d0f71fc15a",
+      "format": "JSON"
+    },
+    {
+      "name": "thebuffalonews-2022-09-28T23:43:21.153585-04:00.jpg",
+      "source": "original",
+      "mtime": "1664423006",
+      "size": "316826",
+      "md5": "4477aba44611295d3fd7f2622547be53",
+      "crc32": "d930a7e3",
+      "sha1": "5f4f8b3a5aa35029c3c5842108418f2cc2bc5dac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thebuffalonews-2022-09-28T23:43:21.153585-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664423010",
+      "size": "1468",
+      "md5": "e9fa865a12c54b54d78a6a66bc00e57e",
+      "crc32": "fa0e8dad",
+      "sha1": "82b5dce5e8e76843e15b748b39b14d31e1c492c6",
+      "format": "JSON"
+    },
+    {
+      "name": "thebuffalonews-2022-09-28T23:43:21.153585-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664423012",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "thebuffalonews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0ba91d46538db8193ad02739ddaf0a2b186c3798",
-      "mtime": "1664377486",
-      "size": "160321",
-      "md5": "60a5b5a9568a831abaf3421b7c87c2be",
-      "crc32": "7cdb6dff",
-      "sha1": "97897692fb99ac710cbba720ddf9ea0f0565f33a",
+      "btih": "add2d0c8872b58bde01fca33b4b4644ac3ab50e8",
+      "mtime": "1664423061",
+      "size": "161623",
+      "md5": "e4563e7f1ac89d5330b7a6c4dccdc667",
+      "crc32": "7812c543",
+      "sha1": "0b7253ab33fbf7e7e3d4a4ea3874cea7930e7468",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thebuffalonews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6154b3cdbd337df43c6687b80d72282a",
+      "md5": "bf2746f1d1605b000a2ba5e63f06f059",
       "summation": "md5"
     },
     {
       "name": "thebuffalonews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664377445",
-      "size": "954368",
-      "md5": "9415d10014a75c5c71c842444e7a981e",
-      "crc32": "233ef276",
-      "sha1": "4709ec3178d9ca3aca9df51644ccc7dd78c9a5e8",
+      "mtime": "1664423020",
+      "size": "962560",
+      "md5": "259edd8dff1bb37f68f6ee906e9b0c0b",
+      "crc32": "eadbf583",
+      "sha1": "778779f4b843b75001f38b17e0b66c3c89bdbbc5",
       "format": "Metadata"
     },
     {
@@ -7609,9 +7671,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 736,
-  "item_last_updated": 1664377486,
-  "item_size": 59252958,
+  "files_count": 742,
+  "item_last_updated": 1664423061,
+  "item_size": 59707745,
   "metadata": {
     "identifier": "thebuffalonews-2022",
     "collection": [
@@ -7633,7 +7695,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421115618,
+      "task_id": 3421815370,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -7641,7 +7703,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 527630527,
+  "uniq": 470651452,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]

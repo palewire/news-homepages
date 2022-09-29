@@ -1,5 +1,5 @@
 {
-  "created": 1664377576,
+  "created": 1664422926,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/28/items/siskiyou_daily-2022",
@@ -997,31 +997,93 @@
       "format": "JSON"
     },
     {
+      "name": "siskiyou_daily-2022-09-28T08:01:47.444710-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "siskiyou_daily-2022-09-28T08:01:47.444710-07:00.jpg",
+      "mtime": "1664384999",
+      "size": "8943",
+      "md5": "c7f07e51f97569e8948ba51322423b43",
+      "crc32": "5872f321",
+      "sha1": "0f52df4edd002b585247a36a73c012f656c3ae98"
+    },
+    {
+      "name": "siskiyou_daily-2022-09-28T20:40:58.673258-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664422862",
+      "size": "22769",
+      "md5": "1fe043d156961c7fa8e7d72838372528",
+      "crc32": "9995f4db",
+      "sha1": "c55305599e7aaad4b4e693c9bdb3558fb41b9d31",
+      "format": "JSON"
+    },
+    {
+      "name": "siskiyou_daily-2022-09-28T20:40:58.673258-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664422863",
+      "size": "34459",
+      "md5": "c3ef667282b144e1220a2c033e44cfa2",
+      "crc32": "06ae8835",
+      "sha1": "8fba37ea99589880511b48c88d88068bc95c5a3c",
+      "format": "JSON"
+    },
+    {
+      "name": "siskiyou_daily-2022-09-28T20:40:58.673258-07:00.jpg",
+      "source": "original",
+      "mtime": "1664422860",
+      "size": "221350",
+      "md5": "bb7a89d1bd6c07ac64ce718b67e06768",
+      "crc32": "e261ab11",
+      "sha1": "6d822dd2ff9cef31837cba47643413f7d04a40fe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "siskiyou_daily-2022-09-28T20:40:58.673258-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664422865",
+      "size": "1521",
+      "md5": "a7e7c4ff8d141c10619240b3f8c697c3",
+      "crc32": "aed91dba",
+      "sha1": "f89fdbe6c16558d8f96b777af0ae2f40c20fbb60",
+      "format": "JSON"
+    },
+    {
+      "name": "siskiyou_daily-2022-09-28T20:40:58.673258-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664422867",
+      "size": "142505",
+      "md5": "c76f0c5b43a669f75c9fecb4281bcd80",
+      "crc32": "96b232af",
+      "sha1": "70feee681d105b6a70cb08ff0bfdbd5b2566873e",
+      "format": "JSON"
+    },
+    {
       "name": "siskiyou_daily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b962e26f3db133d46c791b4d4c6939afbd8e985b",
-      "mtime": "1664377548",
-      "size": "22272",
-      "md5": "d31a5527ca06296dac5e85e3de84a1e3",
-      "crc32": "e206e2dd",
-      "sha1": "ac21459d0a91787e166c1d3bf745de3b5f16bd3f",
+      "btih": "53ab2ade541b791c0180ec3a3731b1406a2a4b9f",
+      "mtime": "1664422922",
+      "size": "23576",
+      "md5": "5d3fcc7e782b916a81a57934d495f012",
+      "crc32": "1e9a5bd6",
+      "sha1": "41af55fcdf8ddd838976b9b8a4e17dc86291ba92",
       "format": "Archive BitTorrent"
     },
     {
       "name": "siskiyou_daily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "289947d1ab94e81709b5ee6558d5571c",
+      "md5": "4e41a62dbf9a204c6c21aa8e16570d20",
       "summation": "md5"
     },
     {
       "name": "siskiyou_daily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664377511",
-      "size": "147456",
-      "md5": "c919cc6bbd92b4e0ce0d68679754f26a",
-      "crc32": "30c8b053",
-      "sha1": "548be41d164c8715d245ce6a348280c7adfa31ec",
+      "mtime": "1664422882",
+      "size": "155648",
+      "md5": "30e0595bb67365b06b1e6d9f12d09bc5",
+      "crc32": "ef9ae04a",
+      "sha1": "4cade93c870f36e626a0928362ac19285b648ed7",
       "format": "Metadata"
     },
     {
@@ -1035,9 +1097,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 100,
-  "item_last_updated": 1664377548,
-  "item_size": 7145680,
+  "files_count": 106,
+  "item_last_updated": 1664422922,
+  "item_size": 7586723,
   "metadata": {
     "identifier": "siskiyou_daily-2022",
     "collection": [
@@ -1059,7 +1121,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421118004,
+      "task_id": 3421812831,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1067,7 +1129,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1960103291,
+  "uniq": 94308640,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1664377478,
+  "created": 1664422981,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/6/items/texasobserver-2022",
@@ -8547,31 +8547,93 @@
       "format": "JSON"
     },
     {
+      "name": "texasobserver-2022-09-28T10:01:14.739670-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "texasobserver-2022-09-28T10:01:14.739670-05:00.jpg",
+      "mtime": "1664384577",
+      "size": "9178",
+      "md5": "aca1c5dd14da19401a4fc629c264f448",
+      "crc32": "29bf1bfe",
+      "sha1": "3d49c30aaed6e8762475542bfe14ad8c8020895b"
+    },
+    {
+      "name": "texasobserver-2022-09-28T22:41:44.847275-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664422907",
+      "size": "21086",
+      "md5": "b3d764ae6145f5603232ca80fb5ff43d",
+      "crc32": "e91b08b1",
+      "sha1": "16d63742c9d8be60aea35f3256e04eed2567447c",
+      "format": "JSON"
+    },
+    {
+      "name": "texasobserver-2022-09-28T22:41:44.847275-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664422908",
+      "size": "22733",
+      "md5": "308f8ae746cedf6f6e2782ff90ed2927",
+      "crc32": "e2b4232a",
+      "sha1": "6d3e0f62b3fa8114504a3d0607814c5fd4fdb78c",
+      "format": "JSON"
+    },
+    {
+      "name": "texasobserver-2022-09-28T22:41:44.847275-05:00.jpg",
+      "source": "original",
+      "mtime": "1664422905",
+      "size": "257491",
+      "md5": "5c2e1a829b2bac25907bc920248895a8",
+      "crc32": "2cfdda87",
+      "sha1": "9ee991cc0cf6976cdf369c443f45534738b0f77b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "texasobserver-2022-09-28T22:41:44.847275-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664422910",
+      "size": "1519",
+      "md5": "242722445cf93adcc2f14009166d586d",
+      "crc32": "8ee5a742",
+      "sha1": "b5b74f4aee41878c7a4b976f5e94786737eaa06f",
+      "format": "JSON"
+    },
+    {
+      "name": "texasobserver-2022-09-28T22:41:44.847275-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664422911",
+      "size": "10630",
+      "md5": "04abcb545eae9ff42b94219a48c4a303",
+      "crc32": "3b8b3f58",
+      "sha1": "d3bfc01fc0882abf24279982fe362f92b8c5b531",
+      "format": "JSON"
+    },
+    {
       "name": "texasobserver-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3791b3a461c884669350d21a9864ffd1067e3cf7",
-      "mtime": "1664377465",
-      "size": "178413",
-      "md5": "ca13025ca94d342d19c94ccb9905b09f",
-      "crc32": "68a5ef7b",
-      "sha1": "84edd16e7b6bd97ed5a953ed92d6a9a76c94abee",
+      "btih": "5c3eb8ea623430aa7e318ee040efefc839f69c32",
+      "mtime": "1664422976",
+      "size": "179690",
+      "md5": "ac89b8a5272cac7de54aa57701a7f33b",
+      "crc32": "7594a0eb",
+      "sha1": "209d09d5b8e13b9056b0fd41ef378af5f702ef9a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "texasobserver-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d98484e4251e508a4442c9797671e507",
+      "md5": "b97f8d402ed6cce5f1260fe9189bd4d8",
       "summation": "md5"
     },
     {
       "name": "texasobserver-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664377413",
-      "size": "1060864",
-      "md5": "ea67848076f737ed9256a5795b18b1f4",
-      "crc32": "854f5d44",
-      "sha1": "8d6ec41c9b9759eb1282938e024a085581988368",
+      "mtime": "1664422929",
+      "size": "1064960",
+      "md5": "4b8c79de983ee26b732e3d8328ad0590",
+      "crc32": "9e80a1bd",
+      "sha1": "30528caaa8cdb0fa4381bd687693156b89b78a89",
       "format": "Metadata"
     },
     {
@@ -8585,9 +8647,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 829,
-  "item_last_updated": 1664377465,
-  "item_size": 38122398,
+  "files_count": 835,
+  "item_last_updated": 1664422976,
+  "item_size": 38450408,
   "metadata": {
     "identifier": "texasobserver-2022",
     "collection": [
@@ -8609,7 +8671,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421115414,
+      "task_id": 3421813811,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8617,7 +8679,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 37537291,
+  "uniq": 1586547306,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

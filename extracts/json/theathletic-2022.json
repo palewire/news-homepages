@@ -1,5 +1,5 @@
 {
-  "created": 1664377479,
+  "created": 1664423069,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/31/items/theathletic-2022",
@@ -8305,31 +8305,93 @@
       "format": "JSON"
     },
     {
+      "name": "theathletic-2022-09-28T11:03:22.719716-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theathletic-2022-09-28T11:03:22.719716-04:00.jpg",
+      "mtime": "1664384718",
+      "size": "10471",
+      "md5": "c13c110de10dca668a7069c0b4761b35",
+      "crc32": "580875d6",
+      "sha1": "699a9c577e4b1d73af8e3737a95e1a6b65e04401"
+    },
+    {
+      "name": "theathletic-2022-09-28T23:43:27.294737-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664423016",
+      "size": "42778",
+      "md5": "c1f7a1f9198baede1439fb6a953501d1",
+      "crc32": "54620362",
+      "sha1": "9e50701ad92d3f0e9badf98f4c8df977c7001255",
+      "format": "JSON"
+    },
+    {
+      "name": "theathletic-2022-09-28T23:43:27.294737-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664423018",
+      "size": "40845",
+      "md5": "e87eb92a69f75e5dc40d5ecb30d82790",
+      "crc32": "620a5626",
+      "sha1": "18b5f807b1578147b3f3e7ec0451948678b8f522",
+      "format": "JSON"
+    },
+    {
+      "name": "theathletic-2022-09-28T23:43:27.294737-04:00.jpg",
+      "source": "original",
+      "mtime": "1664423014",
+      "size": "292079",
+      "md5": "079ab5ce05d996bbfa5bfe6da3b9db90",
+      "crc32": "493444b3",
+      "sha1": "47456f85f8dcd0325a69fb89a99fa7a829693f15",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theathletic-2022-09-28T23:43:27.294737-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664423019",
+      "size": "1457",
+      "md5": "03b1a6a66c07d460c0319ca6f2fc759e",
+      "crc32": "478dbfe6",
+      "sha1": "dbd6550294e33c1717445d7b95d6b9f1c721be47",
+      "format": "JSON"
+    },
+    {
+      "name": "theathletic-2022-09-28T23:43:27.294737-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664423021",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "theathletic-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ec84d4ad771eb548dca43e1fd969bdfc1ad402af",
-      "mtime": "1664377476",
-      "size": "172419",
-      "md5": "79c29ce15e07f5e1e2c61c092db881c1",
-      "crc32": "fc486a8b",
-      "sha1": "7bb9a3b8346b54dc912acb860a26aeabd5c4e0f3",
+      "btih": "1f45446be2fb05d2b8d5ca8440a1504ef1788363",
+      "mtime": "1664423065",
+      "size": "173703",
+      "md5": "8ca1112a37242eba4b34865fe5ecb3ba",
+      "crc32": "a7ddb680",
+      "sha1": "a4e62d90fb365a90a12d81f0c108fae3086a0367",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theathletic-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b041904af1cc591c72a1c52b610c9f90",
+      "md5": "4d0541532f4d15cda2885eb6a1577324",
       "summation": "md5"
     },
     {
       "name": "theathletic-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664377435",
-      "size": "1032192",
-      "md5": "0bbab2a445be47ffc39bae25276308e2",
-      "crc32": "8c240d12",
-      "sha1": "0d1c11377ecedfb2e29c41ba1478bb6007f812d1",
+      "mtime": "1664423025",
+      "size": "1040384",
+      "md5": "0f788369a7f9f20771b1f6d41b59856b",
+      "crc32": "9b0b05e4",
+      "sha1": "56e984e5fdf99b68e3740cd5e79dcd6871bf51a2",
       "format": "Metadata"
     },
     {
@@ -8343,9 +8405,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 806,
-  "item_last_updated": 1664377476,
-  "item_size": 51168366,
+  "files_count": 812,
+  "item_last_updated": 1664423065,
+  "item_size": 51565674,
   "metadata": {
     "identifier": "theathletic-2022",
     "collection": [
@@ -8367,7 +8429,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421115390,
+      "task_id": 3421815443,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8375,7 +8437,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1270015812,
+  "uniq": 808422820,
   "workable_servers": [
     "ia902502.us.archive.org"
   ]
