@@ -1,5 +1,5 @@
 {
-  "created": 1664436768,
+  "created": 1664443447,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/27/items/newscientist-2022",
@@ -12256,31 +12256,82 @@
       "sha1": "083d79624c57cc36559c4a0c789f6d2dad0c56d5"
     },
     {
+      "name": "newscientist-2022-09-29T10:22:58.463132+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664443388",
+      "size": "18189",
+      "md5": "577d67ffdeb8a927e62cbe1c1f20eeda",
+      "crc32": "e9252ffe",
+      "sha1": "f7f27ded090e815ab96a86ad9bf126135ff8ab52",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-09-29T10:22:58.463132+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664443390",
+      "size": "14494",
+      "md5": "10a14e6eb984f68b6d145a54c4c87405",
+      "crc32": "c6b7d0dc",
+      "sha1": "1819b87b037590be8a9c72936b91944cac1a162b",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-09-29T10:22:58.463132+01:00.jpg",
+      "source": "original",
+      "mtime": "1664443385",
+      "size": "289579",
+      "md5": "1b2bd4d126af3329c40db20efde7c688",
+      "crc32": "2eb7d198",
+      "sha1": "9bc84e69753a7e775aba004b3c3389d23cee77d9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newscientist-2022-09-29T10:22:58.463132+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664443392",
+      "size": "1513",
+      "md5": "6213749ef3accb76135ae85e36dc9662",
+      "crc32": "bb43356a",
+      "sha1": "32c7201ac1684300c6c744afb1dc6e8242d47461",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-09-29T10:22:58.463132+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1664443393",
+      "size": "10840",
+      "md5": "c17134b1e22b8d270d6cd4b3b2590075",
+      "crc32": "00d3a440",
+      "sha1": "ffd8d5a7415f2720f6f926b4092ae90c4035d081",
+      "format": "JSON"
+    },
+    {
       "name": "newscientist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "311e18a3d3b0e063d5ab547be221538091a1b505",
-      "mtime": "1664433752",
-      "size": "254817",
-      "md5": "fca496a04f0f5cea1b86ed3182495f7e",
-      "crc32": "db9455f9",
-      "sha1": "4901afb10716d74e791f17d42d7f4cda80575a8b",
+      "btih": "358bf35c60634bfdf8306b143e63c78c3c34af1a",
+      "mtime": "1664443444",
+      "size": "255880",
+      "md5": "2c17c58083105ffdb646978ff8553fe2",
+      "crc32": "f4588806",
+      "sha1": "77f6fbcdc05e08108e0a6088429bf3b9bc941d2f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newscientist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "34e5ee5726c74e80a9604d2e6a95237b",
+      "md5": "3639c1d1547fac2abf0a92506d424796",
       "summation": "md5"
     },
     {
       "name": "newscientist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664431747",
-      "size": "1495040",
-      "md5": "c136ad201cbe9aacdf472fd4cd98371f",
-      "crc32": "d08d7518",
-      "sha1": "0e8109b721bdc3cde60c9f9dab5eded1c60c2b6f",
+      "mtime": "1664443396",
+      "size": "1503232",
+      "md5": "f0c753502990702a24e362100af84bdb",
+      "crc32": "a7fbfa87",
+      "sha1": "e16747b832bc7124f6c250908dfcad6da35f26d8",
       "format": "Metadata"
     },
     {
@@ -12294,9 +12345,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1186,
-  "item_last_updated": 1664433752,
-  "item_size": 78395333,
+  "files_count": 1191,
+  "item_last_updated": 1664443444,
+  "item_size": 78739203,
   "metadata": {
     "identifier": "newscientist-2022",
     "collection": [
@@ -12313,15 +12364,21 @@
     "publicdate": "2022-07-04 21:49:18",
     "addeddate": "2022-07-04 21:49:18"
   },
-  "newscientist-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "server": "ia802503.us.archive.org",
-  "uniq": 1471301201,
+  "pending_tasks": true,
+  "server": "ia902503.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3422102706,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 702706622,
   "workable_servers": [
-    "ia802503.us.archive.org",
     "ia902503.us.archive.org"
   ]
 }
