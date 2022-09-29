@@ -1,5 +1,5 @@
 {
-  "created": 1664387718,
+  "created": 1664434872,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/30/items/elcorreo_com-2022",
@@ -3726,31 +3726,61 @@
       "format": "JSON"
     },
     {
+      "name": "elcorreo_com-2022-09-29T08:14:32.593312+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664432077",
+      "size": "186092",
+      "md5": "b332121bfea5d1111dd8454683a5a08a",
+      "crc32": "a5929d9d",
+      "sha1": "ddcf7be0be574e0dcb0e7997189b707a0dc1bd67",
+      "format": "JSON"
+    },
+    {
+      "name": "elcorreo_com-2022-09-29T08:14:32.593312+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664432078",
+      "size": "1477",
+      "md5": "1d7354c1f131492be2dbea66d92fa23b",
+      "crc32": "be9bbaaa",
+      "sha1": "00214fd853941280f4d9f9be1d1bf20eaa6b695b",
+      "format": "JSON"
+    },
+    {
+      "name": "elcorreo_com-2022-09-29T08:14:32.593312+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664432080",
+      "size": "205",
+      "md5": "0980aa4229ee2b54aff7d8d267d9b6a8",
+      "crc32": "d5a9250e",
+      "sha1": "7e02cbb5fd69ce483790a70d27e84b7dc40164dd",
+      "format": "JSON"
+    },
+    {
       "name": "elcorreo_com-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fbfdd83ce8d8613e05e6da096a59b96d493c5268",
-      "mtime": "1664387716",
-      "size": "81780",
-      "md5": "80e434ab5795d0572ef11f0ff6f56cdc",
-      "crc32": "cdef9922",
-      "sha1": "08e76c1a4d7a6dea06c315331b8abc34c9679704",
+      "btih": "1463aefe89185eabef04e06d93e36623c38034ca",
+      "mtime": "1664432119",
+      "size": "82420",
+      "md5": "6a586fc4412722b97f3e7ec3b6828658",
+      "crc32": "eed5a38c",
+      "sha1": "eabc53485a4f9652e295bb7ab408adc54c23ecf5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elcorreo_com-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9c1609be101b0d97286559f1ddf1e82f",
+      "md5": "9f9b4193480674192ee674d6cb5f5196",
       "summation": "md5"
     },
     {
       "name": "elcorreo_com-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664387680",
-      "size": "581632",
-      "md5": "a4ba80672f546509da15a1f55b8800db",
-      "crc32": "1f094405",
-      "sha1": "10dc873608c4298e0aa3b29051b7682441a8d059",
+      "mtime": "1664432083",
+      "size": "585728",
+      "md5": "6c911625a74b7c9c20e23a22e97e8fa1",
+      "crc32": "d3338f1b",
+      "sha1": "5d276ed420f21da91f027f672b1b23b18a221ff4",
       "format": "Metadata"
     },
     {
@@ -3764,9 +3794,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 375,
-  "item_last_updated": 1664387716,
-  "item_size": 27508488,
+  "files_count": 378,
+  "item_last_updated": 1664432119,
+  "item_size": 27700998,
   "metadata": {
     "identifier": "elcorreo_com-2022",
     "collection": [
@@ -3783,21 +3813,10 @@
     "publicdate": "2022-07-28 18:53:37",
     "addeddate": "2022-07-28 18:53:37"
   },
-  "pending_tasks": true,
-  "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3421272682,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1607320057,
+  "server": "ia802505.us.archive.org",
+  "uniq": 10417803,
   "workable_servers": [
+    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }
