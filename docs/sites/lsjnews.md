@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 19 screenshots with the Internet Archive.
+The archiving routine has saved 20 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lsjnews-2022/lsjnews-2022-09-30T09:06:20.002594-04:00.jpg">
+  <img src="https://archive.org/download/lsjnews-2022/lsjnews-2022-09-30T09:06:20.002594-04:00.jpg"
+     alt="Lansing State Journal at 2022-09-30 09:06:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lsjnews-2022/lsjnews-2022-09-30T09:06:20.002594-04:00.jpg">September 30 at 9:06 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lsjnews-2022/lsjnews-2022-09-29T21:40:11.518011-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lsjnews-2022/lsjnews-2022-09-24T21:05:30.852297-04:00.jpg">September 24 at 9:05 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lsjnews-2022/lsjnews-2022-09-24T08:53:32.992766-04:00.jpg">
-  <img src="https://archive.org/download/lsjnews-2022/lsjnews-2022-09-24T08:53:32.992766-04:00.jpg"
-     alt="Lansing State Journal at 2022-09-24 08:53:34-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lsjnews-2022/lsjnews-2022-09-24T08:53:32.992766-04:00.jpg">September 24 at 8:53 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 20 hyperlink lists with the Internet Archive.
+The archiving routine has saved 21 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 9:06 AM](https://archive.org/download/lsjnews-2022/lsjnews-2022-09-30T09:06:20.002594-04:00.hyperlinks.json) |
 | [September 29 at 9:40 PM](https://archive.org/download/lsjnews-2022/lsjnews-2022-09-29T21:40:11.518011-04:00.hyperlinks.json) |
 | [September 29 at 9:00 AM](https://archive.org/download/lsjnews-2022/lsjnews-2022-09-29T08:59:57.933914-04:00.hyperlinks.json) |
 | [September 28 at 9:24 PM](https://archive.org/download/lsjnews-2022/lsjnews-2022-09-28T21:24:23.860831-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 9:11 PM](https://archive.org/download/lsjnews-2022/lsjnews-2022-09-26T21:11:37.890303-04:00.hyperlinks.json) |
 | [September 26 at 9:01 AM](https://archive.org/download/lsjnews-2022/lsjnews-2022-09-26T09:01:47.829735-04:00.hyperlinks.json) |
 | [September 25 at 9:15 PM](https://archive.org/download/lsjnews-2022/lsjnews-2022-09-25T21:15:06.484553-04:00.hyperlinks.json) |
-| [September 25 at 8:59 AM](https://archive.org/download/lsjnews-2022/lsjnews-2022-09-25T08:59:29.929426-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 20 accessibility trees with the Internet Archive.
+The archiving routine has saved 21 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 9:06 AM](https://archive.org/download/lsjnews-2022/lsjnews-2022-09-30T09:06:20.002594-04:00.accessibility.json) |
 | [September 29 at 9:40 PM](https://archive.org/download/lsjnews-2022/lsjnews-2022-09-29T21:40:11.518011-04:00.accessibility.json) |
 | [September 29 at 9:00 AM](https://archive.org/download/lsjnews-2022/lsjnews-2022-09-29T08:59:57.933914-04:00.accessibility.json) |
 | [September 28 at 9:24 PM](https://archive.org/download/lsjnews-2022/lsjnews-2022-09-28T21:24:23.860831-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 9:11 PM](https://archive.org/download/lsjnews-2022/lsjnews-2022-09-26T21:11:37.890303-04:00.accessibility.json) |
 | [September 26 at 9:01 AM](https://archive.org/download/lsjnews-2022/lsjnews-2022-09-26T09:01:47.829735-04:00.accessibility.json) |
 | [September 25 at 9:15 PM](https://archive.org/download/lsjnews-2022/lsjnews-2022-09-25T21:15:06.484553-04:00.accessibility.json) |
-| [September 25 at 8:59 AM](https://archive.org/download/lsjnews-2022/lsjnews-2022-09-25T08:59:29.929426-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 21 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 9:06 AM](https://archive.org/download/lsjnews-2022/lsjnews-2022-09-30T09:06:20.002594-04:00.lighthouse.json) |
 | [September 29 at 9:40 PM](https://archive.org/download/lsjnews-2022/lsjnews-2022-09-29T21:40:11.518011-04:00.lighthouse.json) |
 | [September 29 at 9:00 AM](https://archive.org/download/lsjnews-2022/lsjnews-2022-09-29T08:59:57.933914-04:00.lighthouse.json) |
 | [September 28 at 9:24 PM](https://archive.org/download/lsjnews-2022/lsjnews-2022-09-28T21:24:23.860831-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 9:11 PM](https://archive.org/download/lsjnews-2022/lsjnews-2022-09-26T21:11:37.890303-04:00.lighthouse.json) |
 | [September 26 at 9:01 AM](https://archive.org/download/lsjnews-2022/lsjnews-2022-09-26T09:01:47.829735-04:00.lighthouse.json) |
 | [September 25 at 9:15 PM](https://archive.org/download/lsjnews-2022/lsjnews-2022-09-25T21:15:06.484553-04:00.lighthouse.json) |
-| [September 25 at 8:59 AM](https://archive.org/download/lsjnews-2022/lsjnews-2022-09-25T08:59:29.929426-04:00.lighthouse.json) |
 
 
 

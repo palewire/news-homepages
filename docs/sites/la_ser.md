@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 134 screenshots with the Internet Archive.
+The archiving routine has saved 135 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 134 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-30T15:05:02.672384+02:00.jpg">
+  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-09-30T15:05:02.672384+02:00.jpg"
+     alt="Cadena SER at 2022-09-30 15:05:26+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-30T15:05:02.672384+02:00.jpg">September 30 at 3:05 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-30T03:37:07.851183+02:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-25T03:03:48.314830+02:00.jpg">September 25 at 3:03 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-24T14:52:14.597090+02:00.jpg">
-  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-09-24T14:52:14.597090+02:00.jpg"
-     alt="Cadena SER at 2022-09-24 14:52:15+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-09-24T14:52:14.597090+02:00.jpg">September 24 at 2:52 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 134 hyperlink lists with the Internet Archive.
+The archiving routine has saved 135 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 3:05 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-30T15:05:02.672384+02:00.hyperlinks.json) |
 | [September 30 at 3:37 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-30T03:37:07.851183+02:00.hyperlinks.json) |
 | [September 29 at 2:57 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-29T14:57:36.516407+02:00.hyperlinks.json) |
 | [September 29 at 3:22 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-29T03:22:08.048287+02:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 3:10 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-27T03:09:56.024099+02:00.hyperlinks.json) |
 | [September 26 at 2:59 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-26T14:58:56.260133+02:00.hyperlinks.json) |
 | [September 26 at 3:12 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-26T03:12:25.843603+02:00.hyperlinks.json) |
-| [September 25 at 2:57 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-25T14:57:44.699432+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 135 accessibility trees with the Internet Archive.
+The archiving routine has saved 136 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 3:05 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-30T15:05:02.672384+02:00.accessibility.json) |
 | [September 30 at 3:37 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-30T03:37:07.851183+02:00.accessibility.json) |
 | [September 29 at 2:57 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-29T14:57:36.516407+02:00.accessibility.json) |
 | [September 29 at 3:22 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-29T03:22:08.048287+02:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 3:10 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-27T03:09:56.024099+02:00.accessibility.json) |
 | [September 26 at 2:59 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-26T14:58:56.260133+02:00.accessibility.json) |
 | [September 26 at 3:12 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-26T03:12:25.843603+02:00.accessibility.json) |
-| [September 25 at 2:57 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-25T14:57:44.699432+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 135 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 136 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 3:05 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-30T15:05:02.672384+02:00.lighthouse.json) |
 | [September 30 at 3:37 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-30T03:37:07.851183+02:00.lighthouse.json) |
 | [September 29 at 2:57 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-29T14:57:36.516407+02:00.lighthouse.json) |
 | [September 29 at 3:22 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-29T03:22:08.048287+02:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 3:10 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-27T03:09:56.024099+02:00.lighthouse.json) |
 | [September 26 at 2:59 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-26T14:58:56.260133+02:00.lighthouse.json) |
 | [September 26 at 3:12 AM](https://archive.org/download/la_ser-2022/la_ser-2022-09-26T03:12:25.843603+02:00.lighthouse.json) |
-| [September 25 at 2:57 PM](https://archive.org/download/la_ser-2022/la_ser-2022-09-25T14:57:44.699432+02:00.lighthouse.json) |
 
 
 
