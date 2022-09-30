@@ -1,5 +1,5 @@
 {
-  "created": 1664452782,
+  "created": 1664496213,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/fortworthreport-2022",
@@ -9531,31 +9531,93 @@
       "format": "JSON"
     },
     {
+      "name": "fortworthreport-2022-09-29T06:58:19.677911-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fortworthreport-2022-09-29T06:58:19.677911-05:00.jpg",
+      "mtime": "1664455723",
+      "size": "9650",
+      "md5": "f8f18be723044c89254b49a3badade5c",
+      "crc32": "93c0388f",
+      "sha1": "6409a45fa5f9aaf93d1fe08500672159a6d104f5"
+    },
+    {
+      "name": "fortworthreport-2022-09-29T19:01:58.201323-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664496125",
+      "size": "43498",
+      "md5": "0353b4577cdf93ba5f6c1ab8f547e7bb",
+      "crc32": "bbb2504e",
+      "sha1": "671847dfcc7fd4e2a1d0a01746efc34e07f755d1",
+      "format": "JSON"
+    },
+    {
+      "name": "fortworthreport-2022-09-29T19:01:58.201323-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664496127",
+      "size": "39731",
+      "md5": "d33036ec07312cbebe7166b5d8df4977",
+      "crc32": "94399f09",
+      "sha1": "74ef247dd18fef3755af7258def675191869b6c0",
+      "format": "JSON"
+    },
+    {
+      "name": "fortworthreport-2022-09-29T19:01:58.201323-05:00.jpg",
+      "source": "original",
+      "mtime": "1664496123",
+      "size": "170041",
+      "md5": "999319322eedf5147ca7184fcc355dd9",
+      "crc32": "013cf483",
+      "sha1": "ccb26f514b2580d73a141d4398c6a55d90abb850",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fortworthreport-2022-09-29T19:01:58.201323-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664496128",
+      "size": "1495",
+      "md5": "ebd6f13919eac0b62c0d8285dd0fc9cb",
+      "crc32": "f691e377",
+      "sha1": "9ec7e6963666c123fbb78d55852228c561bfc48d",
+      "format": "JSON"
+    },
+    {
+      "name": "fortworthreport-2022-09-29T19:01:58.201323-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664496130",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "fortworthreport-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f1d60762a4f4ec587aec05ba6b0e8df3f98f5690",
-      "mtime": "1664452774",
-      "size": "200905",
-      "md5": "9c10700f518486b3c66acbabfeabe8e9",
-      "crc32": "8f67100e",
-      "sha1": "d13c02133b01e12d8e834cca84068256b60f19ae",
+      "btih": "083eb252b303c9969f5131a6cb494b630e70b4a5",
+      "mtime": "1664496203",
+      "size": "202192",
+      "md5": "996addb1bf32199a3110796b1b9a6551",
+      "crc32": "6712e807",
+      "sha1": "b1864ffec32770045fc167efb1f1d4d9b320338e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fortworthreport-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b8c6c6969203f5ccd1b4a31ce6b78b31",
+      "md5": "881cfc44e9fd761c90b6ed24232efd4f",
       "summation": "md5"
     },
     {
       "name": "fortworthreport-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664452722",
-      "size": "1171456",
-      "md5": "d38dde2f3e6e634073dde11e9d15f80f",
-      "crc32": "76ce1d95",
-      "sha1": "528fc32b99db1064720cd89665ca944953ed4b16",
+      "mtime": "1664496149",
+      "size": "1179648",
+      "md5": "ffed591c11b09c65467d533b23818d42",
+      "crc32": "d332e6d4",
+      "sha1": "f7516323aa6c8ad9ee4aa26b57320a63697096cd",
       "format": "Metadata"
     },
     {
@@ -9569,9 +9631,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 923,
-  "item_last_updated": 1664452774,
-  "item_size": 55447468,
+  "files_count": 929,
+  "item_last_updated": 1664496203,
+  "item_size": 55721564,
   "metadata": {
     "identifier": "fortworthreport-2022",
     "collection": [
@@ -9593,7 +9655,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3422233377,
+      "task_id": 3422795872,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9601,7 +9663,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1779268193,
+  "uniq": 1911782353,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

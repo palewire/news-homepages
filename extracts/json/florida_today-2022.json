@@ -1,5 +1,5 @@
 {
-  "created": 1664452774,
+  "created": 1664496040,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/6/items/florida_today-2022",
@@ -1183,31 +1183,93 @@
       "format": "JSON"
     },
     {
+      "name": "florida_today-2022-09-29T07:58:28.130516-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "florida_today-2022-09-29T07:58:28.130516-04:00.jpg",
+      "mtime": "1664455708",
+      "size": "9259",
+      "md5": "2933609af1a59c005176c4d80fe80bfb",
+      "crc32": "09cfb7d8",
+      "sha1": "e9488db63c60289eac0a3b7ced813c2ce231f772"
+    },
+    {
+      "name": "florida_today-2022-09-29T19:59:00.224075-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664495949",
+      "size": "21987",
+      "md5": "32262ee1e62482894fa0fe102b24affa",
+      "crc32": "61974a8a",
+      "sha1": "a742fdef3ce5f36a9e471fcd4b840c90513c8bfb",
+      "format": "JSON"
+    },
+    {
+      "name": "florida_today-2022-09-29T19:59:00.224075-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664495950",
+      "size": "32830",
+      "md5": "f9693769250306e4b2061fcf15c7712a",
+      "crc32": "598bbd88",
+      "sha1": "45d61177264c8d6027bc2cacb74bf76b26954310",
+      "format": "JSON"
+    },
+    {
+      "name": "florida_today-2022-09-29T19:59:00.224075-04:00.jpg",
+      "source": "original",
+      "mtime": "1664495947",
+      "size": "253327",
+      "md5": "38534807f994d3b77758e99e9d0f72c9",
+      "crc32": "5bb72aed",
+      "sha1": "855eb4ff37955b154b0bdf1053ae48ad3cb3d2e2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "florida_today-2022-09-29T19:59:00.224075-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664495952",
+      "size": "1512",
+      "md5": "0cd5e3bcab234aef94343f5f5c9b0eb7",
+      "crc32": "fe1d8079",
+      "sha1": "3d708a5557ffa78c1a512b73907642d3dce49a18",
+      "format": "JSON"
+    },
+    {
+      "name": "florida_today-2022-09-29T19:59:00.224075-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664495953",
+      "size": "108644",
+      "md5": "f1b2be1d93e2f657acb883a91c72e188",
+      "crc32": "00765cf4",
+      "sha1": "733317f546f0265db39fb07373ab58e28f174690",
+      "format": "JSON"
+    },
+    {
       "name": "florida_today-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1e95c5845175a0b4e7b0bd056e35fb19523d47e8",
-      "mtime": "1664452770",
-      "size": "25996",
-      "md5": "10350b180c1eeead6ad93748797ddcd2",
-      "crc32": "595f91e2",
-      "sha1": "01d8eea0172e3546d6ecfbd46a9f7f0961bfb247",
+      "btih": "f90a761788bf403b2546015c6864f4d45e193d09",
+      "mtime": "1664496016",
+      "size": "27274",
+      "md5": "eb229c4b8f872464cce17ae6a114abcf",
+      "crc32": "78d7ebed",
+      "sha1": "9bd7bf30f7f3a08153d061ca1225a7c3892e32ec",
       "format": "Archive BitTorrent"
     },
     {
       "name": "florida_today-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b2cba426767c882d62c653b7d8b6ba84",
+      "md5": "83864e4edfc50b8314e8e01c826b6d8d",
       "summation": "md5"
     },
     {
       "name": "florida_today-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664452729",
-      "size": "167936",
-      "md5": "663793b99ed808cbad0262e9492364a6",
-      "crc32": "ed1aaed8",
-      "sha1": "7ac950ba23d1325bac42a62262e2bb2b59c2c2bc",
+      "mtime": "1664495970",
+      "size": "176128",
+      "md5": "6a08a9664cbeada46289e427fc990549",
+      "crc32": "6ac86849",
+      "sha1": "109483c475c081ac940023463cda7927bab94766",
       "format": "Metadata"
     },
     {
@@ -1221,9 +1283,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 118,
-  "item_last_updated": 1664452770,
-  "item_size": 7410450,
+  "files_count": 124,
+  "item_last_updated": 1664496016,
+  "item_size": 7847479,
   "metadata": {
     "identifier": "florida_today-2022",
     "collection": [
@@ -1245,7 +1307,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3422233250,
+      "task_id": 3422794110,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1253,7 +1315,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1571516645,
+  "uniq": 743167099,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1664452885,
+  "created": 1664496172,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/16/items/gothamgazette-2022",
@@ -7155,31 +7155,93 @@
       "format": "JSON"
     },
     {
+      "name": "gothamgazette-2022-09-29T08:00:11.988874-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gothamgazette-2022-09-29T08:00:11.988874-04:00.jpg",
+      "mtime": "1664455831",
+      "size": "10098",
+      "md5": "fc098a3ed479ab3ec8dd0822cb274b0c",
+      "crc32": "c77c585f",
+      "sha1": "3f2758573e5216de951671488dd5dae6047f71c6"
+    },
+    {
+      "name": "gothamgazette-2022-09-29T20:01:39.694660-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664496112",
+      "size": "27602",
+      "md5": "ed7e8238e97f69421dff6f6e441a9682",
+      "crc32": "4fda1fb9",
+      "sha1": "8c0903d8d444937773679518ec93948f2b91f81b",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamgazette-2022-09-29T20:01:39.694660-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664496114",
+      "size": "15919",
+      "md5": "fd15e7f4e7df8510210a5aab03114c9e",
+      "crc32": "345b0e19",
+      "sha1": "9f25a2979029522d6e17bfaebddbe0930968cd18",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamgazette-2022-09-29T20:01:39.694660-04:00.jpg",
+      "source": "original",
+      "mtime": "1664496110",
+      "size": "296626",
+      "md5": "ed66955f64c8605a45f5ca5cd5effc98",
+      "crc32": "67485993",
+      "sha1": "6ef7ca66949847c2c9b7e8066c94a2de090f4b5d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gothamgazette-2022-09-29T20:01:39.694660-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664496116",
+      "size": "1522",
+      "md5": "bc940c6804ee8c4483344dc7cd7003af",
+      "crc32": "56f82694",
+      "sha1": "528109638f658b882d1650e72b2b9dd052bd9a6b",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamgazette-2022-09-29T20:01:39.694660-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664496117",
+      "size": "21286",
+      "md5": "fb0860eff3eff21688eb2d9b7a6481bf",
+      "crc32": "16ad5f01",
+      "sha1": "6956edda6f97bbd0455d5cf7f0b5e85f9eebcb9a",
+      "format": "JSON"
+    },
+    {
       "name": "gothamgazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e8ecdbfc2b9573491aa550241cf1c8b49fbab8f8",
-      "mtime": "1664452875",
-      "size": "150436",
-      "md5": "ef4e95d44a4f7742699bf4cc8d491796",
-      "crc32": "5f4fba99",
-      "sha1": "b445721e8c03840d2e12c611cdc39a3d022c21f7",
+      "btih": "30482359a412b2a719e28cec5c9ac6d7c5fdfcb7",
+      "mtime": "1664496167",
+      "size": "151734",
+      "md5": "6514f8abfd4def89c078fae657eade0a",
+      "crc32": "25cb8533",
+      "sha1": "083007c6f1cff290e4d9bf09be7327e8d4216de3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gothamgazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "223a767a09beee2b014acc5c4f77fdd3",
+      "md5": "0bddbb5a8c730fe8072603fd05e59dba",
       "summation": "md5"
     },
     {
       "name": "gothamgazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664452826",
-      "size": "905216",
-      "md5": "ad6d4f2e974aeb59192ef913223d5999",
-      "crc32": "b4ee72a1",
-      "sha1": "81e11cc48bff7e6909a66ddf1df765c3f67078e0",
+      "mtime": "1664496123",
+      "size": "909312",
+      "md5": "ee752c8d2e3612f293d091c286882025",
+      "crc32": "0be0aa26",
+      "sha1": "16fffd3daf6a38b5693c567d137ba95dd5d4c705",
       "format": "Metadata"
     },
     {
@@ -7193,9 +7255,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 696,
-  "item_last_updated": 1664452875,
-  "item_size": 44093162,
+  "files_count": 702,
+  "item_last_updated": 1664496167,
+  "item_size": 44471609,
   "metadata": {
     "identifier": "gothamgazette-2022",
     "collection": [
@@ -7217,7 +7279,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3422236201,
+      "task_id": 3422794843,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -7225,7 +7287,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1439442132,
+  "uniq": 1542721522,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]
