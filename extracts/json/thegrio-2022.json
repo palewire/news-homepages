@@ -1,5 +1,5 @@
 {
-  "created": 1664392393,
+  "created": 1664525462,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/7/items/thegrio-2022",
@@ -6889,31 +6889,217 @@
       "format": "JSON"
     },
     {
+      "name": "thegrio-2022-09-28T15:08:05.222958-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thegrio-2022-09-28T15:08:05.222958-04:00.jpg",
+      "mtime": "1664398373",
+      "size": "10543",
+      "md5": "c018a872513324b91948779b88be8e11",
+      "crc32": "1a138e60",
+      "sha1": "22059e16901d368e7ecd02fc2b18d26db13ed102"
+    },
+    {
+      "name": "thegrio-2022-09-29T03:30:29.349713-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664436635",
+      "size": "22693",
+      "md5": "143306d46e615d5a80a41fe0609482f4",
+      "crc32": "a78521e1",
+      "sha1": "813462a5faecf940f9813fceeccd1ceb06846069",
+      "format": "JSON"
+    },
+    {
+      "name": "thegrio-2022-09-29T03:30:29.349713-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664436637",
+      "size": "27604",
+      "md5": "9f2ff3ffd52da5fb726eb8269a4631ab",
+      "crc32": "89b8db3d",
+      "sha1": "5c1c3096824aa3161a029e7a31647eb334a010b6",
+      "format": "JSON"
+    },
+    {
+      "name": "thegrio-2022-09-29T03:30:29.349713-04:00.jpg",
+      "source": "original",
+      "mtime": "1664436634",
+      "size": "251475",
+      "md5": "51cfab9c601b912bef66b10ee2e78e2d",
+      "crc32": "9a1be49c",
+      "sha1": "06b597bfa949bb72cf2c91df4d96a49369f429ff",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thegrio-2022-09-29T03:30:29.349713-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664436638",
+      "size": "1431",
+      "md5": "168c2b4dbff55985ed9b5e51b0f40045",
+      "crc32": "fa2ee762",
+      "sha1": "788ec2af7d1b7a348d351444b8fca26fe2dc35b2",
+      "format": "JSON"
+    },
+    {
+      "name": "thegrio-2022-09-29T03:30:29.349713-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664436640",
+      "size": "39572",
+      "md5": "b7022b14b4c9e602cefce53a73ad3154",
+      "crc32": "13891c33",
+      "sha1": "745f80a186efd1fda7d3beb4c4db5194e2d23e1c",
+      "format": "JSON"
+    },
+    {
+      "name": "thegrio-2022-09-29T03:30:29.349713-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thegrio-2022-09-29T03:30:29.349713-04:00.jpg",
+      "mtime": "1664442431",
+      "size": "10598",
+      "md5": "8fc65d180f67a040bc3e673a3457475d",
+      "crc32": "8eb27f37",
+      "sha1": "5c5604201d05aeb69396a7bac24c605e86a666c8"
+    },
+    {
+      "name": "thegrio-2022-09-29T14:58:28.192336-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664477912",
+      "size": "22763",
+      "md5": "2c8abfb60778e96e897a6d5684904593",
+      "crc32": "271ba535",
+      "sha1": "8f34750f3afc42d62666740b8abda6aa47911af4",
+      "format": "JSON"
+    },
+    {
+      "name": "thegrio-2022-09-29T14:58:28.192336-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664477913",
+      "size": "27681",
+      "md5": "575989e0a7bfc6ea61f0eead48d91bd0",
+      "crc32": "30ac2798",
+      "sha1": "b1b18f0619c68c4c35f14a7c30da19a2ba9c0c57",
+      "format": "JSON"
+    },
+    {
+      "name": "thegrio-2022-09-29T14:58:28.192336-04:00.jpg",
+      "source": "original",
+      "mtime": "1664477910",
+      "size": "267653",
+      "md5": "56fc1bda6b687d4ee5a3fa31943c1594",
+      "crc32": "cd201d80",
+      "sha1": "401b73c10f6af990410b3233edcb3e18164e01dd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thegrio-2022-09-29T14:58:28.192336-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664477916",
+      "size": "1431",
+      "md5": "e7ad38ca2b74268949c02824aa3545f1",
+      "crc32": "bf788593",
+      "sha1": "ad86103d2d47b5544ea75283382325c346c828f5",
+      "format": "JSON"
+    },
+    {
+      "name": "thegrio-2022-09-29T14:58:28.192336-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664477917",
+      "size": "55563",
+      "md5": "bed5142abde385cc7152a593bab724aa",
+      "crc32": "21c68dcf",
+      "sha1": "35ad4792be0871bbcaa95a669117f79277419ab6",
+      "format": "JSON"
+    },
+    {
+      "name": "thegrio-2022-09-29T14:58:28.192336-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thegrio-2022-09-29T14:58:28.192336-04:00.jpg",
+      "mtime": "1664485805",
+      "size": "10573",
+      "md5": "9a5bec8536478cbdace97440bf3ae9fa",
+      "crc32": "9839d334",
+      "sha1": "ca30a55c1efb50dc842225c7574bd81f0602bafb"
+    },
+    {
+      "name": "thegrio-2022-09-30T04:10:03.550993-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664525410",
+      "size": "22655",
+      "md5": "7019e6fccf11fafdfb53bc6660115573",
+      "crc32": "00ab0663",
+      "sha1": "9e78a49997404cec370925cd45cef910825f8878",
+      "format": "JSON"
+    },
+    {
+      "name": "thegrio-2022-09-30T04:10:03.550993-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664525412",
+      "size": "27733",
+      "md5": "f1ba019dfab801fba01d4d1e7c4513d8",
+      "crc32": "d7a7cda4",
+      "sha1": "daba40095b3f207fc6eb24a498bff825be9c5aff",
+      "format": "JSON"
+    },
+    {
+      "name": "thegrio-2022-09-30T04:10:03.550993-04:00.jpg",
+      "source": "original",
+      "mtime": "1664525408",
+      "size": "273183",
+      "md5": "0c63d9d518b0c198024e5baa52d1bbe7",
+      "crc32": "216e61e0",
+      "sha1": "30d16b7b943460fe3a96b5eb4087bc28aef92378",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thegrio-2022-09-30T04:10:03.550993-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664525413",
+      "size": "1432",
+      "md5": "0efcee17cf7fe254488d9858cc745221",
+      "crc32": "b41b2c2a",
+      "sha1": "09309c2818437a116d1df9a8dafb929482229be8",
+      "format": "JSON"
+    },
+    {
+      "name": "thegrio-2022-09-30T04:10:03.550993-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664525415",
+      "size": "57755",
+      "md5": "52ecc5c9393ba2354adbae697edc7541",
+      "crc32": "27ed920f",
+      "sha1": "3d22add120f6c5ba6ef964c40fbd07892d2de9dd",
+      "format": "JSON"
+    },
+    {
       "name": "thegrio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "72db217c6c93ec2311119358b2eaab67d8884a88",
-      "mtime": "1664392390",
-      "size": "140727",
-      "md5": "28e9890fd3a64f6d62a468c6d97de456",
-      "crc32": "088b2d87",
-      "sha1": "6fe2c0359edf72960100ff21d582d7c12084d2f6",
+      "btih": "2e89a027f1be1ca951466cac06b266a92f6613a4",
+      "mtime": "1664525457",
+      "size": "144493",
+      "md5": "5c4c79e171c9c6aeca58986dd6a47196",
+      "crc32": "d0bd930d",
+      "sha1": "48a1906a0db2df02f94516e05cb399edd01adfa0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thegrio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4be6ad2c41d5abceb77a961482e6537e",
+      "md5": "04bc3603ead240bb8e89a6238c72e77f",
       "summation": "md5"
     },
     {
       "name": "thegrio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664392349",
-      "size": "860160",
-      "md5": "c0854182b87ef3dc69c906e6b268ad2d",
-      "crc32": "6c51e351",
-      "sha1": "df5ddea7db2ac91520635ef40f0c61f0d6e746fa",
+      "mtime": "1664525418",
+      "size": "884736",
+      "md5": "b73bab53e34ead1f53917f244725319e",
+      "crc32": "6c012dd0",
+      "sha1": "7b9b6015d0567d742d8a1ee8aa49be2f29663b53",
       "format": "Metadata"
     },
     {
@@ -6927,9 +7113,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 670,
-  "item_last_updated": 1664392390,
-  "item_size": 41167138,
+  "files_count": 688,
+  "item_last_updated": 1664525457,
+  "item_size": 42327818,
   "metadata": {
     "identifier": "thegrio-2022",
     "collection": [
@@ -6951,7 +7137,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421335184,
+      "task_id": 3423214679,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -6959,7 +7145,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1982867101,
+  "uniq": 2044446569,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]

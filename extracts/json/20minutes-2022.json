@@ -1,5 +1,5 @@
 {
-  "created": 1664495109,
+  "created": 1664526461,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/20/items/20minutes-2022",
@@ -20819,31 +20819,82 @@
       "sha1": "f78f4c1035714ee0d3252591c3f47b1939abedba"
     },
     {
+      "name": "20minutes-2022-09-30T10:25:57.580502+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664526384",
+      "size": "60613",
+      "md5": "b200f7621273726685d688e7a2afd855",
+      "crc32": "49ff86bd",
+      "sha1": "62cc56e7032099a95e59a5046ba12bac240864aa",
+      "format": "JSON"
+    },
+    {
+      "name": "20minutes-2022-09-30T10:25:57.580502+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664526386",
+      "size": "89956",
+      "md5": "7971273ad35ed0abe7c9b18e5a89484d",
+      "crc32": "c3dafc2d",
+      "sha1": "db370d081fc7db8150f65c6a658f44da8aa61689",
+      "format": "JSON"
+    },
+    {
+      "name": "20minutes-2022-09-30T10:25:57.580502+02:00.jpg",
+      "source": "original",
+      "mtime": "1664526382",
+      "size": "262209",
+      "md5": "c639d902e3082815de1661e3877a0099",
+      "crc32": "cc2ec3c9",
+      "sha1": "2a5a7b4b16d3281042eb46c7a5cc946dbe8e1a9c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "20minutes-2022-09-30T10:25:57.580502+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664526388",
+      "size": "1471",
+      "md5": "eded3a5d7bbe0aac5ba21e595de1b71c",
+      "crc32": "84b96bf6",
+      "sha1": "ba5ed0c8ab0aeba33b2d52b2a6cd7f3c4a62e2dd",
+      "format": "JSON"
+    },
+    {
+      "name": "20minutes-2022-09-30T10:25:57.580502+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664526389",
+      "size": "55141",
+      "md5": "1f57ae68d65817083174cfc71b4be8e9",
+      "crc32": "cea0f74a",
+      "sha1": "c3afbeb1617c6d79c4188be144ab8068d0a579c6",
+      "format": "JSON"
+    },
+    {
       "name": "20minutes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e600c8719eb389159eb66788d0b73061478b72aa",
-      "mtime": "1664495057",
-      "size": "425656",
-      "md5": "f8f825721dfa4fe371a84febfe7989ee",
-      "crc32": "40077fd0",
-      "sha1": "f2584f5e4055ec6c13f246adc8c89336cad86e73",
+      "btih": "dae277cecd320db5d1965d52709b14dc243c996f",
+      "mtime": "1664526454",
+      "size": "426724",
+      "md5": "076125013761fe8308bf39388f9bb567",
+      "crc32": "0359f03e",
+      "sha1": "cdaeb0cd70ea5257048f1e434632f277f11c6b14",
       "format": "Archive BitTorrent"
     },
     {
       "name": "20minutes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4dc028e88c1398ad940227b4660202d9",
+      "md5": "d9f8e9f1c16ee50690e6d9aa09d71558",
       "summation": "md5"
     },
     {
       "name": "20minutes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664492305",
-      "size": "2445312",
-      "md5": "73c27afdb9eaa9962086a955ab82a315",
-      "crc32": "3a52272a",
-      "sha1": "540087d695a212972fd6ebf232f1c54dee0b900f",
+      "mtime": "1664526392",
+      "size": "2453504",
+      "md5": "a3506c4e02ede78d4648eb3d5ef6a000",
+      "crc32": "2eaee4db",
+      "sha1": "efd1e626181e99619c09adc5544df3fc7d64b96f",
       "format": "Metadata"
     },
     {
@@ -20868,9 +20919,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 2005,
-  "item_last_updated": 1664495057,
-  "item_size": 180453514,
+  "files_count": 2010,
+  "item_last_updated": 1664526454,
+  "item_size": 180932164,
   "metadata": {
     "identifier": "20minutes-2022",
     "collection": [
@@ -20887,10 +20938,21 @@
     "publicdate": "2022-04-09 13:42:29",
     "addeddate": "2022-04-09 13:42:29"
   },
+  "pending_tasks": true,
   "server": "ia601509.us.archive.org",
-  "uniq": 835363100,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3423226793,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1990650776,
   "workable_servers": [
-    "ia601509.us.archive.org",
-    "ia801509.us.archive.org"
+    "ia601509.us.archive.org"
   ]
 }
