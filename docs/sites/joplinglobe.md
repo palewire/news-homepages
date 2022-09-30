@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 169 screenshots with the Internet Archive.
+The archiving routine has saved 171 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-29T20:33:49.805100-05:00.jpg">
+  <img src="https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-29T20:33:49.805100-05:00.jpg"
+     alt="Joplin Globe at 2022-09-29 20:33:59-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-29T20:33:49.805100-05:00.jpg">September 29 at 8:33 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-29T07:56:03.608698-05:00.jpg">
+  <img src="https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-29T07:56:03.608698-05:00.jpg"
+     alt="Joplin Globe at 2022-09-29 07:56:11-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-29T07:56:03.608698-05:00.jpg">September 29 at 7:56 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-28T20:19:24.172243-05:00.jpg">
   <img src="https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-28T20:19:24.172243-05:00.jpg"
      alt="Joplin Globe at 2022-09-28 20:19:31-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-24T07:49:53.243500-05:00.jpg">September 24 at 7:49 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-23T20:07:58.375623-05:00.jpg">
-  <img src="https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-23T20:07:58.375623-05:00.jpg"
-     alt="Joplin Globe at 2022-09-23 20:08:04-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-23T20:07:58.375623-05:00.jpg">September 23 at 8:08 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-23T07:53:16.227044-05:00.jpg">
-  <img src="https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-23T07:53:16.227044-05:00.jpg"
-     alt="Joplin Globe at 2022-09-23 07:53:17-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-23T07:53:16.227044-05:00.jpg">September 23 at 7:53 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 130 hyperlink lists with the Internet Archive.
+The archiving routine has saved 132 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 8:34 PM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-29T20:33:49.805100-05:00.hyperlinks.json) |
+| [September 29 at 7:56 AM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-29T07:56:03.608698-05:00.hyperlinks.json) |
 | [September 28 at 8:19 PM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-28T20:19:24.172243-05:00.hyperlinks.json) |
 | [September 28 at 7:59 AM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-28T07:59:02.089588-05:00.hyperlinks.json) |
 | [September 27 at 8:23 PM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-27T20:23:08.427455-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 7:57 AM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-26T07:57:30.234187-05:00.hyperlinks.json) |
 | [September 25 at 8:10 PM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-25T20:10:29.293717-05:00.hyperlinks.json) |
 | [September 25 at 7:55 AM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-25T07:55:35.040183-05:00.hyperlinks.json) |
-| [September 24 at 8:02 PM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-24T20:02:18.507254-05:00.hyperlinks.json) |
-| [September 24 at 7:50 AM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-24T07:49:53.243500-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 129 accessibility trees with the Internet Archive.
+The archiving routine has saved 131 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 8:34 PM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-29T20:33:49.805100-05:00.accessibility.json) |
+| [September 29 at 7:56 AM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-29T07:56:03.608698-05:00.accessibility.json) |
 | [September 28 at 8:19 PM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-28T20:19:24.172243-05:00.accessibility.json) |
 | [September 28 at 7:59 AM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-28T07:59:02.089588-05:00.accessibility.json) |
 | [September 27 at 8:23 PM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-27T20:23:08.427455-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 7:57 AM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-26T07:57:30.234187-05:00.accessibility.json) |
 | [September 25 at 8:10 PM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-25T20:10:29.293717-05:00.accessibility.json) |
 | [September 25 at 7:55 AM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-25T07:55:35.040183-05:00.accessibility.json) |
-| [September 24 at 8:02 PM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-24T20:02:18.507254-05:00.accessibility.json) |
-| [September 24 at 7:50 AM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-24T07:49:53.243500-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 137 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 139 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 8:34 PM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-29T20:33:49.805100-05:00.lighthouse.json) |
+| [September 29 at 7:56 AM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-29T07:56:03.608698-05:00.lighthouse.json) |
 | [September 28 at 8:19 PM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-28T20:19:24.172243-05:00.lighthouse.json) |
 | [September 28 at 7:59 AM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-28T07:59:02.089588-05:00.lighthouse.json) |
 | [September 27 at 8:23 PM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-27T20:23:08.427455-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 7:57 AM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-26T07:57:30.234187-05:00.lighthouse.json) |
 | [September 25 at 8:10 PM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-25T20:10:29.293717-05:00.lighthouse.json) |
 | [September 25 at 7:55 AM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-25T07:55:35.040183-05:00.lighthouse.json) |
-| [September 24 at 8:02 PM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-24T20:02:18.507254-05:00.lighthouse.json) |
-| [September 24 at 7:50 AM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-09-24T07:49:53.243500-05:00.lighthouse.json) |
 
 
 

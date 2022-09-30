@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 108 screenshots with the Internet Archive.
+The archiving routine has saved 109 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 108 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/levernews-2022/levernews-2022-09-29T19:41:14.560782-06:00.jpg">
+  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-29T19:41:14.560782-06:00.jpg"
+     alt="Lever at 2022-09-29 19:41:15-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-29T19:41:14.560782-06:00.jpg">September 29 at 7:41 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/levernews-2022/levernews-2022-09-29T13:36:58.452440-06:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-26T07:01:22.522370-06:00.jpg">September 26 at 7:01 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/levernews-2022/levernews-2022-09-25T19:13:50.690137-06:00.jpg">
-  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-25T19:13:50.690137-06:00.jpg"
-     alt="Lever at 2022-09-25 19:13:52-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-25T19:13:50.690137-06:00.jpg">September 25 at 7:13 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 108 hyperlink lists with the Internet Archive.
+The archiving routine has saved 109 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 7:41 PM](https://archive.org/download/levernews-2022/levernews-2022-09-29T19:41:14.560782-06:00.hyperlinks.json) |
 | [September 29 at 1:37 PM](https://archive.org/download/levernews-2022/levernews-2022-09-29T13:36:58.452440-06:00.hyperlinks.json) |
 | [September 29 at 7:00 AM](https://archive.org/download/levernews-2022/levernews-2022-09-29T07:00:07.153487-06:00.hyperlinks.json) |
 | [September 28 at 7:24 PM](https://archive.org/download/levernews-2022/levernews-2022-09-28T19:24:17.317577-06:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 1:50 PM](https://archive.org/download/levernews-2022/levernews-2022-09-27T13:50:28.238706-06:00.hyperlinks.json) |
 | [September 27 at 7:01 AM](https://archive.org/download/levernews-2022/levernews-2022-09-27T07:01:16.318497-06:00.hyperlinks.json) |
 | [September 26 at 7:11 PM](https://archive.org/download/levernews-2022/levernews-2022-09-26T19:11:32.427922-06:00.hyperlinks.json) |
-| [September 26 at 1:50 PM](https://archive.org/download/levernews-2022/levernews-2022-09-26T13:50:09.696226-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 108 accessibility trees with the Internet Archive.
+The archiving routine has saved 109 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 7:41 PM](https://archive.org/download/levernews-2022/levernews-2022-09-29T19:41:14.560782-06:00.accessibility.json) |
 | [September 29 at 1:37 PM](https://archive.org/download/levernews-2022/levernews-2022-09-29T13:36:58.452440-06:00.accessibility.json) |
 | [September 29 at 7:00 AM](https://archive.org/download/levernews-2022/levernews-2022-09-29T07:00:07.153487-06:00.accessibility.json) |
 | [September 28 at 7:24 PM](https://archive.org/download/levernews-2022/levernews-2022-09-28T19:24:17.317577-06:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 1:50 PM](https://archive.org/download/levernews-2022/levernews-2022-09-27T13:50:28.238706-06:00.accessibility.json) |
 | [September 27 at 7:01 AM](https://archive.org/download/levernews-2022/levernews-2022-09-27T07:01:16.318497-06:00.accessibility.json) |
 | [September 26 at 7:11 PM](https://archive.org/download/levernews-2022/levernews-2022-09-26T19:11:32.427922-06:00.accessibility.json) |
-| [September 26 at 1:50 PM](https://archive.org/download/levernews-2022/levernews-2022-09-26T13:50:09.696226-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 109 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 110 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 7:41 PM](https://archive.org/download/levernews-2022/levernews-2022-09-29T19:41:14.560782-06:00.lighthouse.json) |
 | [September 29 at 1:37 PM](https://archive.org/download/levernews-2022/levernews-2022-09-29T13:36:58.452440-06:00.lighthouse.json) |
 | [September 29 at 7:00 AM](https://archive.org/download/levernews-2022/levernews-2022-09-29T07:00:07.153487-06:00.lighthouse.json) |
 | [September 28 at 7:24 PM](https://archive.org/download/levernews-2022/levernews-2022-09-28T19:24:17.317577-06:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 1:50 PM](https://archive.org/download/levernews-2022/levernews-2022-09-27T13:50:28.238706-06:00.lighthouse.json) |
 | [September 27 at 7:01 AM](https://archive.org/download/levernews-2022/levernews-2022-09-27T07:01:16.318497-06:00.lighthouse.json) |
 | [September 26 at 7:11 PM](https://archive.org/download/levernews-2022/levernews-2022-09-26T19:11:32.427922-06:00.lighthouse.json) |
-| [September 26 at 1:50 PM](https://archive.org/download/levernews-2022/levernews-2022-09-26T13:50:09.696226-06:00.lighthouse.json) |
 
 
 

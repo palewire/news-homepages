@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 128 screenshots with the Internet Archive.
+The archiving routine has saved 130 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-30T07:10:12.576373+05:30.jpg">
+  <img src="https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-30T07:10:12.576373+05:30.jpg"
+     alt="Hindustan at 2022-09-30 07:10:22+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-30T07:10:12.576373+05:30.jpg">September 30 at 7:10 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-29T18:30:32.939792+05:30.jpg">
+  <img src="https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-29T18:30:32.939792+05:30.jpg"
+     alt="Hindustan at 2022-09-29 18:30:39+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-29T18:30:32.939792+05:30.jpg">September 29 at 6:30 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-29T06:54:16.752517+05:30.jpg">
   <img src="https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-29T06:54:16.752517+05:30.jpg"
      alt="Hindustan at 2022-09-29 06:54:26+05:30 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-24T18:23:43.478625+05:30.jpg">September 24 at 6:23 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-24T06:42:00.875344+05:30.jpg">
-  <img src="https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-24T06:42:00.875344+05:30.jpg"
-     alt="Hindustan at 2022-09-24 06:42:19+05:30 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-24T06:42:00.875344+05:30.jpg">September 24 at 6:42 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-23T18:27:04.554542+05:30.jpg">
-  <img src="https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-23T18:27:04.554542+05:30.jpg"
-     alt="Hindustan at 2022-09-23 18:27:12+05:30 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-23T18:27:04.554542+05:30.jpg">September 23 at 6:27 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 129 hyperlink lists with the Internet Archive.
+The archiving routine has saved 131 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 7:10 AM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-30T07:10:12.576373+05:30.hyperlinks.json) |
+| [September 29 at 6:30 PM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-29T18:30:32.939792+05:30.hyperlinks.json) |
 | [September 29 at 6:54 AM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-29T06:54:16.752517+05:30.hyperlinks.json) |
 | [September 28 at 6:33 PM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-28T18:32:57.282465+05:30.hyperlinks.json) |
 | [September 28 at 6:59 AM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-28T06:59:42.742126+05:30.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 6:32 PM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-26T18:31:53.334148+05:30.hyperlinks.json) |
 | [September 26 at 6:44 AM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-26T06:43:59.694075+05:30.hyperlinks.json) |
 | [September 25 at 6:29 PM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-25T18:29:38.011496+05:30.hyperlinks.json) |
-| [September 25 at 6:36 AM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-25T06:36:11.999036+05:30.hyperlinks.json) |
-| [September 24 at 6:23 PM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-24T18:23:43.478625+05:30.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 130 accessibility trees with the Internet Archive.
+The archiving routine has saved 132 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 7:10 AM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-30T07:10:12.576373+05:30.accessibility.json) |
+| [September 29 at 6:30 PM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-29T18:30:32.939792+05:30.accessibility.json) |
 | [September 29 at 6:54 AM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-29T06:54:16.752517+05:30.accessibility.json) |
 | [September 28 at 6:33 PM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-28T18:32:57.282465+05:30.accessibility.json) |
 | [September 28 at 6:59 AM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-28T06:59:42.742126+05:30.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 6:32 PM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-26T18:31:53.334148+05:30.accessibility.json) |
 | [September 26 at 6:44 AM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-26T06:43:59.694075+05:30.accessibility.json) |
 | [September 25 at 6:29 PM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-25T18:29:38.011496+05:30.accessibility.json) |
-| [September 25 at 6:36 AM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-25T06:36:11.999036+05:30.accessibility.json) |
-| [September 24 at 6:23 PM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-24T18:23:43.478625+05:30.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 130 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 7:10 AM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-30T07:10:12.576373+05:30.lighthouse.json) |
+| [September 29 at 6:30 PM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-29T18:30:32.939792+05:30.lighthouse.json) |
 | [September 29 at 6:54 AM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-29T06:54:16.752517+05:30.lighthouse.json) |
 | [September 28 at 6:33 PM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-28T18:32:57.282465+05:30.lighthouse.json) |
 | [September 28 at 6:59 AM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-28T06:59:42.742126+05:30.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 6:32 PM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-26T18:31:53.334148+05:30.lighthouse.json) |
 | [September 26 at 6:44 AM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-26T06:43:59.694075+05:30.lighthouse.json) |
 | [September 25 at 6:29 PM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-25T18:29:38.011496+05:30.lighthouse.json) |
-| [September 25 at 6:36 AM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-25T06:36:11.999036+05:30.lighthouse.json) |
-| [September 24 at 6:23 PM](https://archive.org/download/live_hindustan-2022/live_hindustan-2022-09-24T18:23:43.478625+05:30.lighthouse.json) |
 
 
 

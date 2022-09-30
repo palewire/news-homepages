@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 17 screenshots with the Internet Archive.
+The archiving routine has saved 19 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/indedotcom-2022/indedotcom-2022-09-29T21:34:29.990727-04:00.jpg">
+  <img src="https://archive.org/download/indedotcom-2022/indedotcom-2022-09-29T21:34:29.990727-04:00.jpg"
+     alt="The Massillon Independent at 2022-09-29 21:34:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/indedotcom-2022/indedotcom-2022-09-29T21:34:29.990727-04:00.jpg">September 29 at 9:34 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/indedotcom-2022/indedotcom-2022-09-29T08:56:04.164744-04:00.jpg">
+  <img src="https://archive.org/download/indedotcom-2022/indedotcom-2022-09-29T08:56:04.164744-04:00.jpg"
+     alt="The Massillon Independent at 2022-09-29 08:56:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/indedotcom-2022/indedotcom-2022-09-29T08:56:04.164744-04:00.jpg">September 29 at 8:56 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/indedotcom-2022/indedotcom-2022-09-28T21:19:23.935689-04:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/indedotcom-2022/indedotcom-2022-09-24T08:49:46.555563-04:00.jpg">September 24 at 8:49 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/indedotcom-2022/indedotcom-2022-09-23T21:08:08.582203-04:00.jpg">
-  <img src="https://archive.org/download/indedotcom-2022/indedotcom-2022-09-23T21:08:08.582203-04:00.jpg"
-     alt="The Massillon Independent at 2022-09-23 21:08:10-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/indedotcom-2022/indedotcom-2022-09-23T21:08:08.582203-04:00.jpg">September 23 at 9:08 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/indedotcom-2022/indedotcom-2022-09-23T08:52:45.829341-04:00.jpg">
-  <img src="https://archive.org/download/indedotcom-2022/indedotcom-2022-09-23T08:52:45.829341-04:00.jpg"
-     alt="The Massillon Independent at 2022-09-23 08:52:47-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/indedotcom-2022/indedotcom-2022-09-23T08:52:45.829341-04:00.jpg">September 23 at 8:52 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 19 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 9:34 PM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-29T21:34:29.990727-04:00.hyperlinks.json) |
+| [September 29 at 8:56 AM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-29T08:56:04.164744-04:00.hyperlinks.json) |
 | [September 28 at 9:19 PM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-28T21:19:23.935689-04:00.hyperlinks.json) |
 | [September 28 at 9:00 AM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-28T08:59:55.938758-04:00.hyperlinks.json) |
 | [September 27 at 9:24 PM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-27T21:23:57.277850-04:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 8:56 AM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-26T08:56:53.059224-04:00.hyperlinks.json) |
 | [September 25 at 9:10 PM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-25T21:10:24.201378-04:00.hyperlinks.json) |
 | [September 25 at 8:55 AM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-25T08:55:28.148196-04:00.hyperlinks.json) |
-| [September 24 at 9:02 PM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-24T21:02:05.359932-04:00.hyperlinks.json) |
-| [September 24 at 8:49 AM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-24T08:49:46.555563-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 17 accessibility trees with the Internet Archive.
+The archiving routine has saved 19 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 9:34 PM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-29T21:34:29.990727-04:00.accessibility.json) |
+| [September 29 at 8:56 AM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-29T08:56:04.164744-04:00.accessibility.json) |
 | [September 28 at 9:19 PM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-28T21:19:23.935689-04:00.accessibility.json) |
 | [September 28 at 9:00 AM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-28T08:59:55.938758-04:00.accessibility.json) |
 | [September 27 at 9:24 PM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-27T21:23:57.277850-04:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 8:56 AM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-26T08:56:53.059224-04:00.accessibility.json) |
 | [September 25 at 9:10 PM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-25T21:10:24.201378-04:00.accessibility.json) |
 | [September 25 at 8:55 AM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-25T08:55:28.148196-04:00.accessibility.json) |
-| [September 24 at 9:02 PM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-24T21:02:05.359932-04:00.accessibility.json) |
-| [September 24 at 8:49 AM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-24T08:49:46.555563-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 9:34 PM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-29T21:34:29.990727-04:00.lighthouse.json) |
+| [September 29 at 8:56 AM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-29T08:56:04.164744-04:00.lighthouse.json) |
 | [September 28 at 9:19 PM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-28T21:19:23.935689-04:00.lighthouse.json) |
 | [September 28 at 9:00 AM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-28T08:59:55.938758-04:00.lighthouse.json) |
 | [September 27 at 9:24 PM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-27T21:23:57.277850-04:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 8:57 AM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-26T08:56:53.059224-04:00.lighthouse.json) |
 | [September 25 at 9:10 PM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-25T21:10:24.201378-04:00.lighthouse.json) |
 | [September 25 at 8:55 AM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-25T08:55:28.148196-04:00.lighthouse.json) |
-| [September 24 at 9:02 PM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-24T21:02:05.359932-04:00.lighthouse.json) |
-| [September 24 at 8:49 AM](https://archive.org/download/indedotcom-2022/indedotcom-2022-09-24T08:49:46.555563-04:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 65 screenshots with the Internet Archive.
+The archiving routine has saved 67 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-29T20:40:07.182480-05:00.jpg">
+  <img src="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-29T20:40:07.182480-05:00.jpg"
+     alt="Mississippi Free Press at 2022-09-29 20:40:10-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-29T20:40:07.182480-05:00.jpg">September 29 at 8:40 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-29T08:00:08.486956-05:00.jpg">
+  <img src="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-29T08:00:08.486956-05:00.jpg"
+     alt="Mississippi Free Press at 2022-09-29 08:00:11-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-29T08:00:08.486956-05:00.jpg">September 29 at 8:00 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-28T20:24:35.617570-05:00.jpg">
   <img src="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-28T20:24:35.617570-05:00.jpg"
      alt="Mississippi Free Press at 2022-09-28 20:24:39-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-24T07:54:03.637058-05:00.jpg">September 24 at 7:54 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-23T20:12:39.284103-05:00.jpg">
-  <img src="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-23T20:12:39.284103-05:00.jpg"
-     alt="Mississippi Free Press at 2022-09-23 20:12:41-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-23T20:12:39.284103-05:00.jpg">September 23 at 8:12 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-23T07:57:08.840347-05:00.jpg">
-  <img src="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-23T07:57:08.840347-05:00.jpg"
-     alt="Mississippi Free Press at 2022-09-23 07:57:12-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-23T07:57:08.840347-05:00.jpg">September 23 at 7:57 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 65 hyperlink lists with the Internet Archive.
+The archiving routine has saved 67 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 8:40 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-29T20:40:07.182480-05:00.hyperlinks.json) |
+| [September 29 at 8:00 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-29T08:00:08.486956-05:00.hyperlinks.json) |
 | [September 28 at 8:24 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-28T20:24:35.617570-05:00.hyperlinks.json) |
 | [September 28 at 8:03 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-28T08:03:36.012091-05:00.hyperlinks.json) |
 | [September 27 at 8:28 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-27T20:28:47.192572-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 8:01 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-26T08:01:22.888534-05:00.hyperlinks.json) |
 | [September 25 at 8:14 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-25T20:14:11.205543-05:00.hyperlinks.json) |
 | [September 25 at 7:59 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-25T07:58:52.783818-05:00.hyperlinks.json) |
-| [September 24 at 8:06 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-24T20:06:21.143222-05:00.hyperlinks.json) |
-| [September 24 at 7:54 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-24T07:54:03.637058-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 66 accessibility trees with the Internet Archive.
+The archiving routine has saved 68 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 8:40 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-29T20:40:07.182480-05:00.accessibility.json) |
+| [September 29 at 8:00 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-29T08:00:08.486956-05:00.accessibility.json) |
 | [September 28 at 8:24 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-28T20:24:35.617570-05:00.accessibility.json) |
 | [September 28 at 8:03 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-28T08:03:36.012091-05:00.accessibility.json) |
 | [September 27 at 8:28 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-27T20:28:47.192572-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 8:01 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-26T08:01:22.888534-05:00.accessibility.json) |
 | [September 25 at 8:14 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-25T20:14:11.205543-05:00.accessibility.json) |
 | [September 25 at 7:58 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-25T07:58:52.783818-05:00.accessibility.json) |
-| [September 24 at 8:06 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-24T20:06:21.143222-05:00.accessibility.json) |
-| [September 24 at 7:54 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-24T07:54:03.637058-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 66 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 68 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 8:40 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-29T20:40:07.182480-05:00.lighthouse.json) |
+| [September 29 at 8:00 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-29T08:00:08.486956-05:00.lighthouse.json) |
 | [September 28 at 8:24 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-28T20:24:35.617570-05:00.lighthouse.json) |
 | [September 28 at 8:03 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-28T08:03:36.012091-05:00.lighthouse.json) |
 | [September 27 at 8:28 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-27T20:28:47.192572-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 8:01 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-26T08:01:22.888534-05:00.lighthouse.json) |
 | [September 25 at 8:14 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-25T20:14:11.205543-05:00.lighthouse.json) |
 | [September 25 at 7:59 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-25T07:58:52.783818-05:00.lighthouse.json) |
-| [September 24 at 8:06 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-24T20:06:21.143222-05:00.lighthouse.json) |
-| [September 24 at 7:54 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-24T07:54:03.637058-05:00.lighthouse.json) |
 
 
 

@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 18 screenshots with the Internet Archive.
+The archiving routine has saved 20 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-29T21:34:35.296906-04:00.jpg">
+  <img src="https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-29T21:34:35.296906-04:00.jpg"
+     alt="The Hornell Evening Tribune at 2022-09-29 21:34:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-29T21:34:35.296906-04:00.jpg">September 29 at 9:34 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-29T08:55:21.891406-04:00.jpg">
+  <img src="https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-29T08:55:21.891406-04:00.jpg"
+     alt="The Hornell Evening Tribune at 2022-09-29 08:55:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-29T08:55:21.891406-04:00.jpg">September 29 at 8:55 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-28T21:19:41.486758-04:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-24T08:49:51.066419-04:00.jpg">September 24 at 8:49 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-23T21:07:54.396077-04:00.jpg">
-  <img src="https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-23T21:07:54.396077-04:00.jpg"
-     alt="The Hornell Evening Tribune at 2022-09-23 21:07:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-23T21:07:54.396077-04:00.jpg">September 23 at 9:07 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-23T08:52:44.604825-04:00.jpg">
-  <img src="https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-23T08:52:44.604825-04:00.jpg"
-     alt="The Hornell Evening Tribune at 2022-09-23 08:52:46-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-23T08:52:44.604825-04:00.jpg">September 23 at 8:52 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 18 hyperlink lists with the Internet Archive.
+The archiving routine has saved 20 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 9:34 PM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-29T21:34:35.296906-04:00.hyperlinks.json) |
+| [September 29 at 8:55 AM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-29T08:55:21.891406-04:00.hyperlinks.json) |
 | [September 28 at 9:19 PM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-28T21:19:41.486758-04:00.hyperlinks.json) |
 | [September 28 at 8:59 AM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-28T08:59:14.846978-04:00.hyperlinks.json) |
 | [September 27 at 9:23 PM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-27T21:23:24.790515-04:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 8:56 AM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-26T08:56:50.108320-04:00.hyperlinks.json) |
 | [September 25 at 9:10 PM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-25T21:09:57.073867-04:00.hyperlinks.json) |
 | [September 25 at 8:55 AM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-25T08:55:49.661465-04:00.hyperlinks.json) |
-| [September 24 at 9:02 PM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-24T21:02:03.723664-04:00.hyperlinks.json) |
-| [September 24 at 8:49 AM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-24T08:49:51.066419-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 18 accessibility trees with the Internet Archive.
+The archiving routine has saved 20 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 9:34 PM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-29T21:34:35.296906-04:00.accessibility.json) |
+| [September 29 at 8:55 AM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-29T08:55:21.891406-04:00.accessibility.json) |
 | [September 28 at 9:19 PM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-28T21:19:41.486758-04:00.accessibility.json) |
 | [September 28 at 8:59 AM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-28T08:59:14.846978-04:00.accessibility.json) |
 | [September 27 at 9:23 PM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-27T21:23:24.790515-04:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 8:56 AM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-26T08:56:50.108320-04:00.accessibility.json) |
 | [September 25 at 9:10 PM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-25T21:09:57.073867-04:00.accessibility.json) |
 | [September 25 at 8:55 AM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-25T08:55:49.661465-04:00.accessibility.json) |
-| [September 24 at 9:02 PM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-24T21:02:03.723664-04:00.accessibility.json) |
-| [September 24 at 8:49 AM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-24T08:49:51.066419-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 9:34 PM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-29T21:34:35.296906-04:00.lighthouse.json) |
+| [September 29 at 8:55 AM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-29T08:55:21.891406-04:00.lighthouse.json) |
 | [September 28 at 9:19 PM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-28T21:19:41.486758-04:00.lighthouse.json) |
 | [September 28 at 8:59 AM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-28T08:59:14.846978-04:00.lighthouse.json) |
 | [September 27 at 9:23 PM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-27T21:23:24.790515-04:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 8:56 AM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-26T08:56:50.108320-04:00.lighthouse.json) |
 | [September 25 at 9:10 PM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-25T21:09:57.073867-04:00.lighthouse.json) |
 | [September 25 at 8:55 AM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-25T08:55:49.661465-04:00.lighthouse.json) |
-| [September 24 at 9:02 PM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-24T21:02:03.723664-04:00.lighthouse.json) |
-| [September 24 at 8:49 AM](https://archive.org/download/hornelltribune-2022/hornelltribune-2022-09-24T08:49:51.066419-04:00.lighthouse.json) |
 
 
 

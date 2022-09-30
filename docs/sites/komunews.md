@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 210 screenshots with the Internet Archive.
+The archiving routine has saved 212 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/komunews-2022/komunews-2022-09-29T20:37:31.476614-05:00.jpg">
+  <img src="https://archive.org/download/komunews-2022/komunews-2022-09-29T20:37:31.476614-05:00.jpg"
+     alt="KOMU at 2022-09-29 20:37:32-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/komunews-2022/komunews-2022-09-29T20:37:31.476614-05:00.jpg">September 29 at 8:37 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/komunews-2022/komunews-2022-09-29T07:57:51.438579-05:00.jpg">
+  <img src="https://archive.org/download/komunews-2022/komunews-2022-09-29T07:57:51.438579-05:00.jpg"
+     alt="KOMU at 2022-09-29 07:57:53-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/komunews-2022/komunews-2022-09-29T07:57:51.438579-05:00.jpg">September 29 at 7:57 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/komunews-2022/komunews-2022-09-28T20:21:38.956169-05:00.jpg">
   <img src="https://archive.org/download/komunews-2022/komunews-2022-09-28T20:21:38.956169-05:00.jpg"
      alt="KOMU at 2022-09-28 20:21:40-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/komunews-2022/komunews-2022-09-24T07:51:35.794447-05:00.jpg">September 24 at 7:51 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/komunews-2022/komunews-2022-09-23T20:09:58.657464-05:00.jpg">
-  <img src="https://archive.org/download/komunews-2022/komunews-2022-09-23T20:09:58.657464-05:00.jpg"
-     alt="KOMU at 2022-09-23 20:10:05-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/komunews-2022/komunews-2022-09-23T20:09:58.657464-05:00.jpg">September 23 at 8:10 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/komunews-2022/komunews-2022-09-23T07:54:57.333623-05:00.jpg">
-  <img src="https://archive.org/download/komunews-2022/komunews-2022-09-23T07:54:57.333623-05:00.jpg"
-     alt="KOMU at 2022-09-23 07:55:04-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/komunews-2022/komunews-2022-09-23T07:54:57.333623-05:00.jpg">September 23 at 7:55 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 207 hyperlink lists with the Internet Archive.
+The archiving routine has saved 209 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 8:37 PM](https://archive.org/download/komunews-2022/komunews-2022-09-29T20:37:31.476614-05:00.hyperlinks.json) |
+| [September 29 at 7:57 AM](https://archive.org/download/komunews-2022/komunews-2022-09-29T07:57:51.438579-05:00.hyperlinks.json) |
 | [September 28 at 8:21 PM](https://archive.org/download/komunews-2022/komunews-2022-09-28T20:21:38.956169-05:00.hyperlinks.json) |
 | [September 28 at 8:01 AM](https://archive.org/download/komunews-2022/komunews-2022-09-28T08:01:00.540131-05:00.hyperlinks.json) |
 | [September 27 at 8:26 PM](https://archive.org/download/komunews-2022/komunews-2022-09-27T20:26:11.250197-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 8:00 AM](https://archive.org/download/komunews-2022/komunews-2022-09-26T07:59:57.782566-05:00.hyperlinks.json) |
 | [September 25 at 8:12 PM](https://archive.org/download/komunews-2022/komunews-2022-09-25T20:12:00.085475-05:00.hyperlinks.json) |
 | [September 25 at 7:57 AM](https://archive.org/download/komunews-2022/komunews-2022-09-25T07:56:57.516992-05:00.hyperlinks.json) |
-| [September 24 at 8:04 PM](https://archive.org/download/komunews-2022/komunews-2022-09-24T20:04:00.450246-05:00.hyperlinks.json) |
-| [September 24 at 7:51 AM](https://archive.org/download/komunews-2022/komunews-2022-09-24T07:51:35.794447-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 209 accessibility trees with the Internet Archive.
+The archiving routine has saved 211 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 8:37 PM](https://archive.org/download/komunews-2022/komunews-2022-09-29T20:37:31.476614-05:00.accessibility.json) |
+| [September 29 at 7:57 AM](https://archive.org/download/komunews-2022/komunews-2022-09-29T07:57:51.438579-05:00.accessibility.json) |
 | [September 28 at 8:21 PM](https://archive.org/download/komunews-2022/komunews-2022-09-28T20:21:38.956169-05:00.accessibility.json) |
 | [September 28 at 8:01 AM](https://archive.org/download/komunews-2022/komunews-2022-09-28T08:01:00.540131-05:00.accessibility.json) |
 | [September 27 at 8:26 PM](https://archive.org/download/komunews-2022/komunews-2022-09-27T20:26:11.250197-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 8:00 AM](https://archive.org/download/komunews-2022/komunews-2022-09-26T07:59:57.782566-05:00.accessibility.json) |
 | [September 25 at 8:12 PM](https://archive.org/download/komunews-2022/komunews-2022-09-25T20:12:00.085475-05:00.accessibility.json) |
 | [September 25 at 7:57 AM](https://archive.org/download/komunews-2022/komunews-2022-09-25T07:56:57.516992-05:00.accessibility.json) |
-| [September 24 at 8:04 PM](https://archive.org/download/komunews-2022/komunews-2022-09-24T20:04:00.450246-05:00.accessibility.json) |
-| [September 24 at 7:51 AM](https://archive.org/download/komunews-2022/komunews-2022-09-24T07:51:35.794447-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 137 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 139 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 8:37 PM](https://archive.org/download/komunews-2022/komunews-2022-09-29T20:37:31.476614-05:00.lighthouse.json) |
+| [September 29 at 7:57 AM](https://archive.org/download/komunews-2022/komunews-2022-09-29T07:57:51.438579-05:00.lighthouse.json) |
 | [September 28 at 8:21 PM](https://archive.org/download/komunews-2022/komunews-2022-09-28T20:21:38.956169-05:00.lighthouse.json) |
 | [September 28 at 8:01 AM](https://archive.org/download/komunews-2022/komunews-2022-09-28T08:01:00.540131-05:00.lighthouse.json) |
 | [September 27 at 8:26 PM](https://archive.org/download/komunews-2022/komunews-2022-09-27T20:26:11.250197-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 8:00 AM](https://archive.org/download/komunews-2022/komunews-2022-09-26T07:59:57.782566-05:00.lighthouse.json) |
 | [September 25 at 8:12 PM](https://archive.org/download/komunews-2022/komunews-2022-09-25T20:12:00.085475-05:00.lighthouse.json) |
 | [September 25 at 7:57 AM](https://archive.org/download/komunews-2022/komunews-2022-09-25T07:56:57.516992-05:00.lighthouse.json) |
-| [September 24 at 8:04 PM](https://archive.org/download/komunews-2022/komunews-2022-09-24T20:04:00.450246-05:00.lighthouse.json) |
-| [September 24 at 7:51 AM](https://archive.org/download/komunews-2022/komunews-2022-09-24T07:51:35.794447-05:00.lighthouse.json) |
 
 
 

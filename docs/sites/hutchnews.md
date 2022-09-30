@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 18 screenshots with the Internet Archive.
+The archiving routine has saved 20 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hutchnews-2022/hutchnews-2022-09-29T20:34:31.753970-05:00.jpg">
+  <img src="https://archive.org/download/hutchnews-2022/hutchnews-2022-09-29T20:34:31.753970-05:00.jpg"
+     alt="The Hutchinson News at 2022-09-29 20:34:33-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hutchnews-2022/hutchnews-2022-09-29T20:34:31.753970-05:00.jpg">September 29 at 8:34 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hutchnews-2022/hutchnews-2022-09-29T07:55:59.795359-05:00.jpg">
+  <img src="https://archive.org/download/hutchnews-2022/hutchnews-2022-09-29T07:55:59.795359-05:00.jpg"
+     alt="The Hutchinson News at 2022-09-29 07:56:01-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hutchnews-2022/hutchnews-2022-09-29T07:55:59.795359-05:00.jpg">September 29 at 7:56 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hutchnews-2022/hutchnews-2022-09-28T20:19:31.072705-05:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/hutchnews-2022/hutchnews-2022-09-24T07:49:50.921120-05:00.jpg">September 24 at 7:49 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/hutchnews-2022/hutchnews-2022-09-23T20:07:58.160167-05:00.jpg">
-  <img src="https://archive.org/download/hutchnews-2022/hutchnews-2022-09-23T20:07:58.160167-05:00.jpg"
-     alt="The Hutchinson News at 2022-09-23 20:07:59-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hutchnews-2022/hutchnews-2022-09-23T20:07:58.160167-05:00.jpg">September 23 at 8:07 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/hutchnews-2022/hutchnews-2022-09-23T07:53:22.044047-05:00.jpg">
-  <img src="https://archive.org/download/hutchnews-2022/hutchnews-2022-09-23T07:53:22.044047-05:00.jpg"
-     alt="The Hutchinson News at 2022-09-23 07:53:23-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hutchnews-2022/hutchnews-2022-09-23T07:53:22.044047-05:00.jpg">September 23 at 7:53 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 18 hyperlink lists with the Internet Archive.
+The archiving routine has saved 20 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 8:34 PM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-29T20:34:31.753970-05:00.hyperlinks.json) |
+| [September 29 at 7:56 AM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-29T07:55:59.795359-05:00.hyperlinks.json) |
 | [September 28 at 8:19 PM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-28T20:19:31.072705-05:00.hyperlinks.json) |
 | [September 28 at 7:59 AM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-28T07:59:14.105823-05:00.hyperlinks.json) |
 | [September 27 at 8:23 PM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-27T20:23:21.269343-05:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 7:56 AM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-26T07:56:49.738064-05:00.hyperlinks.json) |
 | [September 25 at 8:10 PM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-25T20:10:10.944250-05:00.hyperlinks.json) |
 | [September 25 at 7:55 AM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-25T07:55:24.907141-05:00.hyperlinks.json) |
-| [September 24 at 8:02 PM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-24T20:02:19.247122-05:00.hyperlinks.json) |
-| [September 24 at 7:49 AM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-24T07:49:50.921120-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 17 accessibility trees with the Internet Archive.
+The archiving routine has saved 19 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 8:34 PM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-29T20:34:31.753970-05:00.accessibility.json) |
+| [September 29 at 7:56 AM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-29T07:55:59.795359-05:00.accessibility.json) |
 | [September 28 at 8:19 PM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-28T20:19:31.072705-05:00.accessibility.json) |
 | [September 28 at 7:59 AM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-28T07:59:14.105823-05:00.accessibility.json) |
 | [September 27 at 8:23 PM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-27T20:23:21.269343-05:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 7:56 AM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-26T07:56:49.738064-05:00.accessibility.json) |
 | [September 25 at 8:10 PM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-25T20:10:10.944250-05:00.accessibility.json) |
 | [September 25 at 7:55 AM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-25T07:55:24.907141-05:00.accessibility.json) |
-| [September 24 at 8:02 PM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-24T20:02:19.247122-05:00.accessibility.json) |
-| [September 24 at 7:49 AM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-24T07:49:50.921120-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 8:34 PM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-29T20:34:31.753970-05:00.lighthouse.json) |
+| [September 29 at 7:56 AM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-29T07:55:59.795359-05:00.lighthouse.json) |
 | [September 28 at 8:19 PM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-28T20:19:31.072705-05:00.lighthouse.json) |
 | [September 28 at 7:59 AM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-28T07:59:14.105823-05:00.lighthouse.json) |
 | [September 27 at 8:23 PM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-27T20:23:21.269343-05:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 7:56 AM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-26T07:56:49.738064-05:00.lighthouse.json) |
 | [September 25 at 8:10 PM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-25T20:10:10.944250-05:00.lighthouse.json) |
 | [September 25 at 7:55 AM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-25T07:55:24.907141-05:00.lighthouse.json) |
-| [September 24 at 8:02 PM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-24T20:02:19.247122-05:00.lighthouse.json) |
-| [September 24 at 7:49 AM](https://archive.org/download/hutchnews-2022/hutchnews-2022-09-24T07:49:50.921120-05:00.lighthouse.json) |
 
 
 

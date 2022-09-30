@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 34 screenshots with the Internet Archive.
+The archiving routine has saved 36 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/juneauempire-2022/juneauempire-2022-09-29T17:33:51.195787-08:00.jpg">
+  <img src="https://archive.org/download/juneauempire-2022/juneauempire-2022-09-29T17:33:51.195787-08:00.jpg"
+     alt="Juneau Empire at 2022-09-29 17:33:53-08:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/juneauempire-2022/juneauempire-2022-09-29T17:33:51.195787-08:00.jpg">September 29 at 5:33 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/juneauempire-2022/juneauempire-2022-09-29T04:55:25.285935-08:00.jpg">
+  <img src="https://archive.org/download/juneauempire-2022/juneauempire-2022-09-29T04:55:25.285935-08:00.jpg"
+     alt="Juneau Empire at 2022-09-29 04:55:27-08:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/juneauempire-2022/juneauempire-2022-09-29T04:55:25.285935-08:00.jpg">September 29 at 4:55 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/juneauempire-2022/juneauempire-2022-09-28T17:19:15.512958-08:00.jpg">
   <img src="https://archive.org/download/juneauempire-2022/juneauempire-2022-09-28T17:19:15.512958-08:00.jpg"
      alt="Juneau Empire at 2022-09-28 17:19:19-08:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/juneauempire-2022/juneauempire-2022-09-24T04:49:41.630744-08:00.jpg">September 24 at 4:49 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/juneauempire-2022/juneauempire-2022-09-23T17:08:55.371677-08:00.jpg">
-  <img src="https://archive.org/download/juneauempire-2022/juneauempire-2022-09-23T17:08:55.371677-08:00.jpg"
-     alt="Juneau Empire at 2022-09-23 17:08:56-08:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/juneauempire-2022/juneauempire-2022-09-23T17:08:55.371677-08:00.jpg">September 23 at 5:08 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/juneauempire-2022/juneauempire-2022-09-23T04:53:22.247505-08:00.jpg">
-  <img src="https://archive.org/download/juneauempire-2022/juneauempire-2022-09-23T04:53:22.247505-08:00.jpg"
-     alt="Juneau Empire at 2022-09-23 04:53:23-08:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/juneauempire-2022/juneauempire-2022-09-23T04:53:22.247505-08:00.jpg">September 23 at 4:53 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 33 hyperlink lists with the Internet Archive.
+The archiving routine has saved 35 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 5:33 PM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-29T17:33:51.195787-08:00.hyperlinks.json) |
+| [September 29 at 4:55 AM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-29T04:55:25.285935-08:00.hyperlinks.json) |
 | [September 28 at 5:19 PM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-28T17:19:15.512958-08:00.hyperlinks.json) |
 | [September 28 at 4:58 AM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-28T04:58:50.516379-08:00.hyperlinks.json) |
 | [September 27 at 5:23 PM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-27T17:23:22.647138-08:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 4:56 AM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-26T04:56:41.310368-08:00.hyperlinks.json) |
 | [September 25 at 5:10 PM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-25T17:09:58.144556-08:00.hyperlinks.json) |
 | [September 25 at 4:55 AM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-25T04:55:19.167700-08:00.hyperlinks.json) |
-| [September 24 at 5:02 PM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-24T17:02:50.386032-08:00.hyperlinks.json) |
-| [September 24 at 4:49 AM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-24T04:49:41.630744-08:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 34 accessibility trees with the Internet Archive.
+The archiving routine has saved 36 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 5:33 PM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-29T17:33:51.195787-08:00.accessibility.json) |
+| [September 29 at 4:55 AM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-29T04:55:25.285935-08:00.accessibility.json) |
 | [September 28 at 5:19 PM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-28T17:19:15.512958-08:00.accessibility.json) |
 | [September 28 at 4:58 AM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-28T04:58:50.516379-08:00.accessibility.json) |
 | [September 27 at 5:23 PM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-27T17:23:22.647138-08:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 4:56 AM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-26T04:56:41.310368-08:00.accessibility.json) |
 | [September 25 at 5:10 PM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-25T17:09:58.144556-08:00.accessibility.json) |
 | [September 25 at 4:55 AM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-25T04:55:19.167700-08:00.accessibility.json) |
-| [September 24 at 5:02 PM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-24T17:02:50.386032-08:00.accessibility.json) |
-| [September 24 at 4:49 AM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-24T04:49:41.630744-08:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 36 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 5:33 PM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-29T17:33:51.195787-08:00.lighthouse.json) |
+| [September 29 at 4:55 AM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-29T04:55:25.285935-08:00.lighthouse.json) |
 | [September 28 at 5:19 PM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-28T17:19:15.512958-08:00.lighthouse.json) |
 | [September 28 at 4:58 AM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-28T04:58:50.516379-08:00.lighthouse.json) |
 | [September 27 at 5:23 PM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-27T17:23:22.647138-08:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 4:56 AM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-26T04:56:41.310368-08:00.lighthouse.json) |
 | [September 25 at 5:10 PM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-25T17:09:58.144556-08:00.lighthouse.json) |
 | [September 25 at 4:55 AM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-25T04:55:19.167700-08:00.lighthouse.json) |
-| [September 24 at 5:02 PM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-24T17:02:50.386032-08:00.lighthouse.json) |
-| [September 24 at 4:49 AM](https://archive.org/download/juneauempire-2022/juneauempire-2022-09-24T04:49:41.630744-08:00.lighthouse.json) |
 
 
 
