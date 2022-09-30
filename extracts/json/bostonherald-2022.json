@@ -1,10 +1,5 @@
 {
-  "bostonherald-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1664495713,
+  "created": 1664535409,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/33/items/bostonherald-2022",
@@ -7899,31 +7894,82 @@
       "sha1": "ed340904a0ddd0103799b34b974a43840971da6f"
     },
     {
+      "name": "bostonherald-2022-09-30T06:55:31.152542-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664535341",
+      "size": "47280",
+      "md5": "ea4911fca7896880b54ec1716782573a",
+      "crc32": "f6f2350c",
+      "sha1": "136107ec473f5abdccd738d28614d7fcb1408ca6",
+      "format": "JSON"
+    },
+    {
+      "name": "bostonherald-2022-09-30T06:55:31.152542-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664535342",
+      "size": "40509",
+      "md5": "0f27acf4844baa973df39597b4b841a5",
+      "crc32": "c4f6c7e4",
+      "sha1": "f86fe8d113c4146f3bdf077b2471c3b36119ae8d",
+      "format": "JSON"
+    },
+    {
+      "name": "bostonherald-2022-09-30T06:55:31.152542-04:00.jpg",
+      "source": "original",
+      "mtime": "1664535339",
+      "size": "279906",
+      "md5": "b77bb25f9c904f94fcea3dc5377f5914",
+      "crc32": "ac092cc6",
+      "sha1": "b32d796793a39e0cbc28c565714efd60d43c41ec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bostonherald-2022-09-30T06:55:31.152542-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664535344",
+      "size": "1513",
+      "md5": "b179eafdcd2d15875df9641c4548b026",
+      "crc32": "c9e75aa4",
+      "sha1": "69ef77700fb014e2264351033d8ac83e15416948",
+      "format": "JSON"
+    },
+    {
+      "name": "bostonherald-2022-09-30T06:55:31.152542-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664535346",
+      "size": "72729",
+      "md5": "be28f06c6f9be3d4a4c13cc551fd84bc",
+      "crc32": "1bf879ef",
+      "sha1": "3f520fac428e17831ddff109425337183d343a1e",
+      "format": "JSON"
+    },
+    {
       "name": "bostonherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "42777b9f6715f2272ace2db7f38ebb70255bf2c2",
-      "mtime": "1664495017",
-      "size": "164984",
-      "md5": "4f3b4f6079db1bb317bdaa753f8b3e65",
-      "crc32": "8fbbc10c",
-      "sha1": "d33f1fee3fbdc4f151db9824f6168826bb8b7933",
+      "btih": "25d4c9093335ffea6097da7af2c3709fca6d1e71",
+      "mtime": "1664535402",
+      "size": "166067",
+      "md5": "49d1dfa488da18ff66c91d9aa854f374",
+      "crc32": "f0bb7826",
+      "sha1": "d2baf7a6788e68fa2356c71e6d0055df4bf981b4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bostonherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bfa01507a252ab896d74c591e5022fad",
+      "md5": "769641efadbc82eeff629f92ecee3269",
       "summation": "md5"
     },
     {
       "name": "bostonherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664492618",
-      "size": "987136",
-      "md5": "41707f46105532072b8fcc7bf2a505f6",
-      "crc32": "501800fb",
-      "sha1": "a0ed8cf2c67e01396275869ed7308b1d437d5592",
+      "mtime": "1664535352",
+      "size": "995328",
+      "md5": "3fbe44001fd32c2f76a7874d1c0f3111",
+      "crc32": "dd20ff43",
+      "sha1": "29a844c04b311e4df57142f4c78ea3fc100bcb91",
       "format": "Metadata"
     },
     {
@@ -7937,9 +7983,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 767,
-  "item_last_updated": 1664495017,
-  "item_size": 51686271,
+  "files_count": 772,
+  "item_last_updated": 1664535402,
+  "item_size": 52137483,
   "metadata": {
     "identifier": "bostonherald-2022",
     "collection": [
@@ -7961,23 +8007,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3422749977,
+      "task_id": 3423353752,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3422775525,
-      "cmd": "bup.php",
-      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 2003997612,
+  "uniq": 911737520,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]

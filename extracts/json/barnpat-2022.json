@@ -1,5 +1,5 @@
 {
-  "created": 1664494926,
+  "created": 1664535381,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/18/items/barnpat-2022",
@@ -1246,31 +1246,82 @@
       "sha1": "5d52a7e1c74386e726ab2d6ef5c381d2a84229e2"
     },
     {
+      "name": "barnpat-2022-09-30T06:55:31.352347-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664535334",
+      "size": "23752",
+      "md5": "8dff1f3a2ce4b09a95071b18f3a5dff5",
+      "crc32": "95400739",
+      "sha1": "3edbb24c812c65d8906ef952d56437c70789cc52",
+      "format": "JSON"
+    },
+    {
+      "name": "barnpat-2022-09-30T06:55:31.352347-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664535335",
+      "size": "32534",
+      "md5": "9ad17179d688ac078a7bc2f786e81404",
+      "crc32": "26ba9271",
+      "sha1": "8865ecda2654d4f01a4419e721c8aa2fd3378d4a",
+      "format": "JSON"
+    },
+    {
+      "name": "barnpat-2022-09-30T06:55:31.352347-04:00.jpg",
+      "source": "original",
+      "mtime": "1664535332",
+      "size": "228028",
+      "md5": "6c8e14da5be7adaae767676fefbea377",
+      "crc32": "b4f046d1",
+      "sha1": "3b85ca93e95a51503c97406bf7fec4d0d560d985",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "barnpat-2022-09-30T06:55:31.352347-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664535337",
+      "size": "1558",
+      "md5": "e0f535f1a9d49f4c9178f49477b8ba11",
+      "crc32": "fe5aa156",
+      "sha1": "09c03cc71347e5bd7654313e10b7bb98895ec6da",
+      "format": "JSON"
+    },
+    {
+      "name": "barnpat-2022-09-30T06:55:31.352347-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664535339",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "barnpat-2022_archive.torrent",
       "source": "metadata",
-      "btih": "88f71d579df905aa74366e1b766de953fcfa832f",
-      "mtime": "1664494880",
-      "size": "26513",
-      "md5": "ca7af00a4df23cd828ca82ee600625dd",
-      "crc32": "1cf551ef",
-      "sha1": "2dc671fa2d3dac7c2b01198c4237681a59099652",
+      "btih": "9b82833bfcb93e463a424c1b7fff9a6b3a4e924e",
+      "mtime": "1664535378",
+      "size": "27569",
+      "md5": "0ba444dd0180f180ed165c453dae9797",
+      "crc32": "9569942f",
+      "sha1": "100f8a9e36497df171674aef786094d708424242",
       "format": "Archive BitTorrent"
     },
     {
       "name": "barnpat-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2bc548c044913d5638c3d2484dd516c5",
+      "md5": "eb427b0c42f6ade8c63735e312481a01",
       "summation": "md5"
     },
     {
       "name": "barnpat-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664492458",
-      "size": "172032",
-      "md5": "f24e802c43a28f8a8f9ea5317687a42d",
-      "crc32": "e2a8e819",
-      "sha1": "64be94bfa800a74baef6dc36411494aabc88cc21",
+      "mtime": "1664535343",
+      "size": "180224",
+      "md5": "7115e9248432e8d7a3dc6591ed30b50a",
+      "crc32": "7957a3e2",
+      "sha1": "d2c071586802c5d160eafef426cdad0bd77c956b",
       "format": "Metadata"
     },
     {
@@ -1284,9 +1335,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 124,
-  "item_last_updated": 1664494880,
-  "item_size": 7625039,
+  "files_count": 129,
+  "item_last_updated": 1664535378,
+  "item_size": 7920361,
   "metadata": {
     "identifier": "barnpat-2022",
     "collection": [
@@ -1303,10 +1354,21 @@
     "publicdate": "2022-09-20 22:11:52",
     "addeddate": "2022-09-20 22:11:52"
   },
+  "pending_tasks": true,
   "server": "ia601502.us.archive.org",
-  "uniq": 730136490,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3423353386,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 10525858,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia601502.us.archive.org"
   ]
 }
