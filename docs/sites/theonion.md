@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 270 screenshots with the Internet Archive.
+The archiving routine has saved 271 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 270 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theonion-2022/theonion-2022-09-30T11:17:45.906110-05:00.jpg">
+  <img src="https://archive.org/download/theonion-2022/theonion-2022-09-30T11:17:45.906110-05:00.jpg"
+     alt="Onion at 2022-09-30 11:17:54-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theonion-2022/theonion-2022-09-30T11:17:45.906110-05:00.jpg">September 30 at 11:17 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theonion-2022/theonion-2022-09-29T22:53:50.215172-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theonion-2022/theonion-2022-09-24T22:34:51.579753-05:00.jpg">September 24 at 10:34 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theonion-2022/theonion-2022-09-24T09:43:29.720705-05:00.jpg">
-  <img src="https://archive.org/download/theonion-2022/theonion-2022-09-24T09:43:29.720705-05:00.jpg"
-     alt="Onion at 2022-09-24 09:43:32-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theonion-2022/theonion-2022-09-24T09:43:29.720705-05:00.jpg">September 24 at 9:43 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 229 hyperlink lists with the Internet Archive.
+The archiving routine has saved 230 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 11:17 AM](https://archive.org/download/theonion-2022/theonion-2022-09-30T11:17:45.906110-05:00.hyperlinks.json) |
 | [September 29 at 10:54 PM](https://archive.org/download/theonion-2022/theonion-2022-09-29T22:53:50.215172-05:00.hyperlinks.json) |
 | [September 29 at 10:00 AM](https://archive.org/download/theonion-2022/theonion-2022-09-29T10:00:04.918427-05:00.hyperlinks.json) |
 | [September 28 at 10:43 PM](https://archive.org/download/theonion-2022/theonion-2022-09-28T22:43:17.316013-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 10:33 PM](https://archive.org/download/theonion-2022/theonion-2022-09-26T22:33:32.966134-05:00.hyperlinks.json) |
 | [September 26 at 10:08 AM](https://archive.org/download/theonion-2022/theonion-2022-09-26T10:08:13.156781-05:00.hyperlinks.json) |
 | [September 25 at 10:40 PM](https://archive.org/download/theonion-2022/theonion-2022-09-25T22:40:29.016395-05:00.hyperlinks.json) |
-| [September 25 at 9:43 AM](https://archive.org/download/theonion-2022/theonion-2022-09-25T09:43:29.425947-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 237 accessibility trees with the Internet Archive.
+The archiving routine has saved 238 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 11:17 AM](https://archive.org/download/theonion-2022/theonion-2022-09-30T11:17:45.906110-05:00.accessibility.json) |
 | [September 29 at 10:53 PM](https://archive.org/download/theonion-2022/theonion-2022-09-29T22:53:50.215172-05:00.accessibility.json) |
 | [September 29 at 10:00 AM](https://archive.org/download/theonion-2022/theonion-2022-09-29T10:00:04.918427-05:00.accessibility.json) |
 | [September 28 at 10:43 PM](https://archive.org/download/theonion-2022/theonion-2022-09-28T22:43:17.316013-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 10:33 PM](https://archive.org/download/theonion-2022/theonion-2022-09-26T22:33:32.966134-05:00.accessibility.json) |
 | [September 26 at 10:08 AM](https://archive.org/download/theonion-2022/theonion-2022-09-26T10:08:13.156781-05:00.accessibility.json) |
 | [September 25 at 10:40 PM](https://archive.org/download/theonion-2022/theonion-2022-09-25T22:40:29.016395-05:00.accessibility.json) |
-| [September 25 at 9:43 AM](https://archive.org/download/theonion-2022/theonion-2022-09-25T09:43:29.425947-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 138 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 139 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 11:17 AM](https://archive.org/download/theonion-2022/theonion-2022-09-30T11:17:45.906110-05:00.lighthouse.json) |
 | [September 29 at 10:54 PM](https://archive.org/download/theonion-2022/theonion-2022-09-29T22:53:50.215172-05:00.lighthouse.json) |
 | [September 29 at 10:00 AM](https://archive.org/download/theonion-2022/theonion-2022-09-29T10:00:04.918427-05:00.lighthouse.json) |
 | [September 28 at 10:43 PM](https://archive.org/download/theonion-2022/theonion-2022-09-28T22:43:17.316013-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 10:33 PM](https://archive.org/download/theonion-2022/theonion-2022-09-26T22:33:32.966134-05:00.lighthouse.json) |
 | [September 26 at 10:08 AM](https://archive.org/download/theonion-2022/theonion-2022-09-26T10:08:13.156781-05:00.lighthouse.json) |
 | [September 25 at 10:40 PM](https://archive.org/download/theonion-2022/theonion-2022-09-25T22:40:29.016395-05:00.lighthouse.json) |
-| [September 25 at 9:43 AM](https://archive.org/download/theonion-2022/theonion-2022-09-25T09:43:29.425947-05:00.lighthouse.json) |
 
 
 

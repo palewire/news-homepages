@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 295 screenshots with the Internet Archive.
+The archiving routine has saved 297 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-30T11:22:42.535715-05:00.jpg">
+  <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-30T11:22:42.535715-05:00.jpg"
+     alt="Chicago Reporter at 2022-09-30 11:22:44-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-30T11:22:42.535715-05:00.jpg">September 30 at 11:22 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-30T06:59:17.757602-05:00.jpg">
+  <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-30T06:59:17.757602-05:00.jpg"
+     alt="Chicago Reporter at 2022-09-30 06:59:20-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-30T06:59:17.757602-05:00.jpg">September 30 at 6:59 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-29T18:56:11.368094-05:00.jpg">
   <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-29T18:56:11.368094-05:00.jpg"
      alt="Chicago Reporter at 2022-09-29 18:56:13-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-26T18:45:49.953615-05:00.jpg">September 26 at 6:45 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-26T11:10:58.276925-05:00.jpg">
-  <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-26T11:10:58.276925-05:00.jpg"
-     alt="Chicago Reporter at 2022-09-26 11:11:17-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-26T11:10:58.276925-05:00.jpg">September 26 at 11:11 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-26T06:58:15.679061-05:00.jpg">
-  <img src="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-26T06:58:15.679061-05:00.jpg"
-     alt="Chicago Reporter at 2022-09-26 06:58:17-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-26T06:58:15.679061-05:00.jpg">September 26 at 6:58 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 295 hyperlink lists with the Internet Archive.
+The archiving routine has saved 297 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 11:22 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-30T11:22:42.535715-05:00.hyperlinks.json) |
+| [September 30 at 6:59 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-30T06:59:17.757602-05:00.hyperlinks.json) |
 | [September 29 at 6:56 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-29T18:56:11.368094-05:00.hyperlinks.json) |
 | [September 29 at 10:58 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-29T10:58:39.088977-05:00.hyperlinks.json) |
 | [September 29 at 6:54 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-29T06:54:45.963885-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 28 at 7:07 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-28T07:07:03.398677-05:00.hyperlinks.json) |
 | [September 27 at 6:49 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-27T18:49:49.843429-05:00.hyperlinks.json) |
 | [September 27 at 11:11 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-27T11:11:01.841285-05:00.hyperlinks.json) |
-| [September 27 at 6:51 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-27T06:51:42.331845-05:00.hyperlinks.json) |
-| [September 26 at 6:45 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-26T18:45:49.953615-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 295 accessibility trees with the Internet Archive.
+The archiving routine has saved 297 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 11:22 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-30T11:22:42.535715-05:00.accessibility.json) |
+| [September 30 at 6:59 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-30T06:59:17.757602-05:00.accessibility.json) |
 | [September 29 at 6:56 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-29T18:56:11.368094-05:00.accessibility.json) |
 | [September 29 at 10:58 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-29T10:58:39.088977-05:00.accessibility.json) |
 | [September 29 at 6:54 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-29T06:54:45.963885-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 28 at 7:07 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-28T07:07:03.398677-05:00.accessibility.json) |
 | [September 27 at 6:49 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-27T18:49:49.843429-05:00.accessibility.json) |
 | [September 27 at 11:11 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-27T11:11:01.841285-05:00.accessibility.json) |
-| [September 27 at 6:51 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-27T06:51:42.331845-05:00.accessibility.json) |
-| [September 26 at 6:45 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-26T18:45:49.953615-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 202 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 204 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 11:22 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-30T11:22:42.535715-05:00.lighthouse.json) |
+| [September 30 at 6:59 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-30T06:59:17.757602-05:00.lighthouse.json) |
 | [September 29 at 6:56 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-29T18:56:11.368094-05:00.lighthouse.json) |
 | [September 29 at 10:58 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-29T10:58:39.088977-05:00.lighthouse.json) |
 | [September 29 at 6:54 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-29T06:54:45.963885-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 28 at 7:07 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-28T07:07:03.398677-05:00.lighthouse.json) |
 | [September 27 at 6:49 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-27T18:49:49.843429-05:00.lighthouse.json) |
 | [September 27 at 11:11 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-27T11:11:01.841285-05:00.lighthouse.json) |
-| [September 27 at 6:51 AM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-27T06:51:42.331845-05:00.lighthouse.json) |
-| [September 26 at 6:46 PM](https://archive.org/download/chicagoreporter-2022/chicagoreporter-2022-09-26T18:45:49.953615-05:00.lighthouse.json) |
 
 
 

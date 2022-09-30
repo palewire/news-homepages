@@ -234,13 +234,49 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 21 screenshots with the Internet Archive.
+The archiving routine has saved 25 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-30T11:22:40.751920-05:00.jpg">
+  <img src="https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-30T11:22:40.751920-05:00.jpg"
+     alt="Boone News Republican at 2022-09-30 11:22:44-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-30T11:22:40.751920-05:00.jpg">September 30 at 11:22 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-30T02:58:30.881510-05:00.jpg">
+  <img src="https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-30T02:58:30.881510-05:00.jpg"
+     alt="Boone News Republican at 2022-09-30 02:58:35-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-30T02:58:30.881510-05:00.jpg">September 30 at 2:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-29T14:29:21.006991-05:00.jpg">
+  <img src="https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-29T14:29:21.006991-05:00.jpg"
+     alt="Boone News Republican at 2022-09-29 14:29:25-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-29T14:29:21.006991-05:00.jpg">September 29 at 2:29 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-29T02:34:54.565826-05:00.jpg">
+  <img src="https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-29T02:34:54.565826-05:00.jpg"
+     alt="Boone News Republican at 2022-09-29 02:34:58-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-29T02:34:54.565826-05:00.jpg">September 29 at 2:34 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-28T14:36:51.716817-05:00.jpg">
@@ -314,47 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-26T02:42:46.504944-05:00.jpg">September 26 at 2:42 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-25T13:30:11.916649-05:00.jpg">
-  <img src="https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-25T13:30:11.916649-05:00.jpg"
-     alt="Boone News Republican at 2022-09-25 13:30:14-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-25T13:30:11.916649-05:00.jpg">September 25 at 1:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-25T01:52:41.642508-05:00.jpg">
-  <img src="https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-25T01:52:41.642508-05:00.jpg"
-     alt="Boone News Republican at 2022-09-25 01:52:44-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-25T01:52:41.642508-05:00.jpg">September 25 at 1:52 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-24T13:29:12.619743-05:00.jpg">
-  <img src="https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-24T13:29:12.619743-05:00.jpg"
-     alt="Boone News Republican at 2022-09-24 13:29:15-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-24T13:29:12.619743-05:00.jpg">September 24 at 1:29 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-24T01:54:10.085212-05:00.jpg">
-  <img src="https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-24T01:54:10.085212-05:00.jpg"
-     alt="Boone News Republican at 2022-09-24 01:54:11-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-24T01:54:10.085212-05:00.jpg">September 24 at 1:54 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 20 hyperlink lists with the Internet Archive.
+The archiving routine has saved 24 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,21 +362,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 11:22 AM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-30T11:22:40.751920-05:00.hyperlinks.json) |
+| [September 30 at 2:58 AM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-30T02:58:30.881510-05:00.hyperlinks.json) |
+| [September 29 at 2:29 PM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-29T14:29:21.006991-05:00.hyperlinks.json) |
+| [September 29 at 2:35 AM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-29T02:34:54.565826-05:00.hyperlinks.json) |
 | [September 28 at 2:36 PM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-28T14:36:51.716817-05:00.hyperlinks.json) |
 | [September 28 at 11:08 AM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-28T11:08:23.643063-05:00.hyperlinks.json) |
 | [September 28 at 2:45 AM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-28T02:45:26.965234-05:00.hyperlinks.json) |
 | [September 27 at 2:08 PM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-27T14:08:27.501019-05:00.hyperlinks.json) |
 | [September 27 at 2:07 AM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-27T02:07:50.150227-05:00.hyperlinks.json) |
 | [September 26 at 2:26 PM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-26T14:26:29.442466-05:00.hyperlinks.json) |
-| [September 26 at 11:12 AM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-26T11:12:18.391527-05:00.hyperlinks.json) |
-| [September 26 at 2:42 AM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-26T02:42:46.504944-05:00.hyperlinks.json) |
-| [September 25 at 1:30 PM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-25T13:30:11.916649-05:00.hyperlinks.json) |
-| [September 25 at 1:52 AM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-25T01:52:41.642508-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 21 accessibility trees with the Internet Archive.
+The archiving routine has saved 25 accessibility trees with the Internet Archive.
 
 
 
@@ -384,22 +384,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 11:22 AM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-30T11:22:40.751920-05:00.accessibility.json) |
+| [September 30 at 2:58 AM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-30T02:58:30.881510-05:00.accessibility.json) |
+| [September 29 at 2:29 PM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-29T14:29:21.006991-05:00.accessibility.json) |
+| [September 29 at 2:34 AM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-29T02:34:54.565826-05:00.accessibility.json) |
 | [September 28 at 2:36 PM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-28T14:36:51.716817-05:00.accessibility.json) |
 | [September 28 at 11:08 AM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-28T11:08:23.643063-05:00.accessibility.json) |
 | [September 28 at 2:45 AM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-28T02:45:26.965234-05:00.accessibility.json) |
 | [September 27 at 2:08 PM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-27T14:08:27.501019-05:00.accessibility.json) |
 | [September 27 at 2:07 AM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-27T02:07:50.150227-05:00.accessibility.json) |
 | [September 26 at 2:26 PM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-26T14:26:29.442466-05:00.accessibility.json) |
-| [September 26 at 11:12 AM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-26T11:12:18.391527-05:00.accessibility.json) |
-| [September 26 at 2:42 AM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-26T02:42:46.504944-05:00.accessibility.json) |
-| [September 25 at 1:30 PM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-25T13:30:11.916649-05:00.accessibility.json) |
-| [September 25 at 1:52 AM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-25T01:52:41.642508-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 21 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,16 +407,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 11:22 AM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-30T11:22:40.751920-05:00.lighthouse.json) |
+| [September 30 at 2:58 AM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-30T02:58:30.881510-05:00.lighthouse.json) |
+| [September 29 at 2:29 PM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-29T14:29:21.006991-05:00.lighthouse.json) |
+| [September 29 at 2:35 AM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-29T02:34:54.565826-05:00.lighthouse.json) |
 | [September 28 at 2:36 PM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-28T14:36:51.716817-05:00.lighthouse.json) |
 | [September 28 at 11:08 AM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-28T11:08:23.643063-05:00.lighthouse.json) |
 | [September 28 at 2:45 AM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-28T02:45:26.965234-05:00.lighthouse.json) |
 | [September 27 at 2:08 PM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-27T14:08:27.501019-05:00.lighthouse.json) |
 | [September 27 at 2:07 AM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-27T02:07:50.150227-05:00.lighthouse.json) |
 | [September 26 at 2:26 PM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-26T14:26:29.442466-05:00.lighthouse.json) |
-| [September 26 at 11:12 AM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-26T11:12:18.391527-05:00.lighthouse.json) |
-| [September 26 at 2:42 AM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-26T02:42:46.504944-05:00.lighthouse.json) |
-| [September 25 at 1:30 PM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-25T13:30:11.916649-05:00.lighthouse.json) |
-| [September 25 at 1:52 AM](https://archive.org/download/newsrepublican-2022/newsrepublican-2022-09-25T01:52:41.642508-05:00.lighthouse.json) |
 
 
 
