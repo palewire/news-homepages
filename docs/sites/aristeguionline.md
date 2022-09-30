@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 93 screenshots with the Internet Archive.
+The archiving routine has saved 94 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 93 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-30T05:53:30.524095-05:00.jpg">
+  <img src="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-30T05:53:30.524095-05:00.jpg"
+     alt="Aristegui Noticias at 2022-09-30 05:53:35-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-30T05:53:30.524095-05:00.jpg">September 30 at 5:53 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-29T17:57:42.719022-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-24T17:41:23.717694-05:00.jpg">September 24 at 5:41 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-24T05:42:36.747033-05:00.jpg">
-  <img src="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-24T05:42:36.747033-05:00.jpg"
-     alt="Aristegui Noticias at 2022-09-24 05:42:38-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-24T05:42:36.747033-05:00.jpg">September 24 at 5:42 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 93 hyperlink lists with the Internet Archive.
+The archiving routine has saved 94 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 5:53 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-30T05:53:30.524095-05:00.hyperlinks.json) |
 | [September 29 at 5:57 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-29T17:57:42.719022-05:00.hyperlinks.json) |
 | [September 29 at 5:51 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-29T05:51:37.792838-05:00.hyperlinks.json) |
 | [September 28 at 5:52 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-28T17:52:22.367925-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 5:53 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-26T17:53:02.105522-05:00.hyperlinks.json) |
 | [September 26 at 5:53 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-26T05:52:51.799437-05:00.hyperlinks.json) |
 | [September 25 at 5:40 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-25T17:40:52.529732-05:00.hyperlinks.json) |
-| [September 25 at 5:40 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-25T05:40:17.391724-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 93 accessibility trees with the Internet Archive.
+The archiving routine has saved 94 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 5:53 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-30T05:53:30.524095-05:00.accessibility.json) |
 | [September 29 at 5:57 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-29T17:57:42.719022-05:00.accessibility.json) |
 | [September 29 at 5:51 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-29T05:51:37.792838-05:00.accessibility.json) |
 | [September 28 at 5:52 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-28T17:52:22.367925-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 5:53 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-26T17:53:02.105522-05:00.accessibility.json) |
 | [September 26 at 5:53 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-26T05:52:51.799437-05:00.accessibility.json) |
 | [September 25 at 5:40 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-25T17:40:52.529732-05:00.accessibility.json) |
-| [September 25 at 5:40 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-25T05:40:17.391724-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 93 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 94 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 5:53 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-30T05:53:30.524095-05:00.lighthouse.json) |
 | [September 29 at 5:58 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-29T17:57:42.719022-05:00.lighthouse.json) |
 | [September 29 at 5:51 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-29T05:51:37.792838-05:00.lighthouse.json) |
 | [September 28 at 5:52 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-28T17:52:22.367925-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 5:53 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-26T17:53:02.105522-05:00.lighthouse.json) |
 | [September 26 at 5:53 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-26T05:52:51.799437-05:00.lighthouse.json) |
 | [September 25 at 5:40 PM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-25T17:40:52.529732-05:00.lighthouse.json) |
-| [September 25 at 5:40 AM](https://archive.org/download/aristeguionline-2022/aristeguionline-2022-09-25T05:40:17.391724-05:00.lighthouse.json) |
 
 
 

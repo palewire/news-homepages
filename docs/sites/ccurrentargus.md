@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 20 screenshots with the Internet Archive.
+The archiving routine has saved 21 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-30T04:57:37.136113-06:00.jpg">
+  <img src="https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-30T04:57:37.136113-06:00.jpg"
+     alt="Carlsbad Current-Argus at 2022-09-30 04:57:38-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-30T04:57:37.136113-06:00.jpg">September 30 at 4:57 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-29T17:04:52.072566-06:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-24T16:44:09.597787-06:00.jpg">September 24 at 4:44 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-24T04:46:13.213331-06:00.jpg">
-  <img src="https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-24T04:46:13.213331-06:00.jpg"
-     alt="Carlsbad Current-Argus at 2022-09-24 04:46:15-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-24T04:46:13.213331-06:00.jpg">September 24 at 4:46 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 20 hyperlink lists with the Internet Archive.
+The archiving routine has saved 21 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 4:57 AM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-30T04:57:37.136113-06:00.hyperlinks.json) |
 | [September 29 at 5:04 PM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-29T17:04:52.072566-06:00.hyperlinks.json) |
 | [September 29 at 4:56 AM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-29T04:56:28.673146-06:00.hyperlinks.json) |
 | [September 28 at 4:57 PM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-28T16:57:18.776017-06:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 4:55 PM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-26T16:54:56.687533-06:00.hyperlinks.json) |
 | [September 26 at 4:57 AM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-26T04:57:27.020093-06:00.hyperlinks.json) |
 | [September 25 at 4:45 PM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-25T16:45:19.214997-06:00.hyperlinks.json) |
-| [September 25 at 4:43 AM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-25T04:43:30.117568-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 20 accessibility trees with the Internet Archive.
+The archiving routine has saved 21 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 4:57 AM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-30T04:57:37.136113-06:00.accessibility.json) |
 | [September 29 at 5:04 PM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-29T17:04:52.072566-06:00.accessibility.json) |
 | [September 29 at 4:56 AM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-29T04:56:28.673146-06:00.accessibility.json) |
 | [September 28 at 4:57 PM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-28T16:57:18.776017-06:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 4:54 PM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-26T16:54:56.687533-06:00.accessibility.json) |
 | [September 26 at 4:57 AM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-26T04:57:27.020093-06:00.accessibility.json) |
 | [September 25 at 4:45 PM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-25T16:45:19.214997-06:00.accessibility.json) |
-| [September 25 at 4:43 AM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-25T04:43:30.117568-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 21 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 4:57 AM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-30T04:57:37.136113-06:00.lighthouse.json) |
 | [September 29 at 5:04 PM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-29T17:04:52.072566-06:00.lighthouse.json) |
 | [September 29 at 4:56 AM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-29T04:56:28.673146-06:00.lighthouse.json) |
 | [September 28 at 4:57 PM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-28T16:57:18.776017-06:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 4:55 PM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-26T16:54:56.687533-06:00.lighthouse.json) |
 | [September 26 at 4:57 AM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-26T04:57:27.020093-06:00.lighthouse.json) |
 | [September 25 at 4:45 PM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-25T16:45:19.214997-06:00.lighthouse.json) |
-| [September 25 at 4:43 AM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-09-25T04:43:30.117568-06:00.lighthouse.json) |
 
 
 
