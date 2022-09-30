@@ -1,5 +1,5 @@
 {
-  "created": 1664463535,
+  "created": 1664509958,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/2/items/sowetanlive-2022",
@@ -4543,31 +4543,93 @@
       "format": "JSON"
     },
     {
+      "name": "sowetanlive-2022-09-29T16:57:53.850568+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sowetanlive-2022-09-29T16:57:53.850568+02:00.jpg",
+      "mtime": "1664469075",
+      "size": "9676",
+      "md5": "dc712cd4f513c20dd45a6634abee2efc",
+      "crc32": "0c45a730",
+      "sha1": "6ba1a7d12b7dddf757fd3112e94d8c94a3a060f3"
+    },
+    {
+      "name": "sowetanlive-2022-09-30T05:51:17.400675+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664509882",
+      "size": "28609",
+      "md5": "8565afb132a6151dfdcc167cf5382f94",
+      "crc32": "23c26b7b",
+      "sha1": "977106edaf5c18d56adf6e32ed25edbc313cd94c",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-09-30T05:51:17.400675+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664509884",
+      "size": "28634",
+      "md5": "5c43c94e6b768d70910ec460189b8f48",
+      "crc32": "13df60e4",
+      "sha1": "656307795dfef0af800719148597462134516a9c",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-09-30T05:51:17.400675+02:00.jpg",
+      "source": "original",
+      "mtime": "1664509881",
+      "size": "247704",
+      "md5": "120d69c0ca3612b01d9d14e7b648e057",
+      "crc32": "ed2f0027",
+      "sha1": "d256e5743b7d664a24d0873a0d80f3be318eedf8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sowetanlive-2022-09-30T05:51:17.400675+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664509885",
+      "size": "1522",
+      "md5": "d6a2b4fad617c9ff6e1d6a121fab5c27",
+      "crc32": "f070fac4",
+      "sha1": "16db20cd3ed5c7836893f12c9b0c2c4029adaead",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-09-30T05:51:17.400675+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664509887",
+      "size": "42703",
+      "md5": "670748f5f0ca026452891f38b9796aa2",
+      "crc32": "120f3677",
+      "sha1": "2de247b925679ed9c95553ad083e0e9d3238ec4b",
+      "format": "JSON"
+    },
+    {
       "name": "sowetanlive-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7561308f5b0dfe5c6744d9d098632eb4c878e7e9",
-      "mtime": "1664463531",
-      "size": "94890",
-      "md5": "3dac0085e2e3aa1b38d9f048ac0a809e",
-      "crc32": "a6fa1981",
-      "sha1": "1e057b50618e98b2ba4020903543b4b18b2a169c",
+      "btih": "327caa93b0b667a350fcf6d80919c790daeb18ff",
+      "mtime": "1664509950",
+      "size": "96175",
+      "md5": "4ab0f61336f9ec04554e7ee6f6c40dfb",
+      "crc32": "214a6a2d",
+      "sha1": "3381f5aae6465794c2506e33ceed1eac3c89c032",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sowetanlive-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dba24ea66562ce49bb44d5ea13027146",
+      "md5": "4f575e65016c5fc7bc02e4077b7d52b9",
       "summation": "md5"
     },
     {
       "name": "sowetanlive-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664463490",
-      "size": "581632",
-      "md5": "b78e374bc39671d54e337c7e9eb6992f",
-      "crc32": "6597ae76",
-      "sha1": "a700eda31a60b881f52560de47fbbbcdccc8ec0e",
+      "mtime": "1664509907",
+      "size": "589824",
+      "md5": "7d43f5269a3255d6aeb3a5963bc1ad22",
+      "crc32": "4418a2c5",
+      "sha1": "a89c21f3187474c6ece86cb53267393dd7b218ef",
       "format": "Metadata"
     },
     {
@@ -4581,9 +4643,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 443,
-  "item_last_updated": 1664463531,
-  "item_size": 25236268,
+  "files_count": 449,
+  "item_last_updated": 1664509950,
+  "item_size": 25604593,
   "metadata": {
     "identifier": "sowetanlive-2022",
     "collection": [
@@ -4605,7 +4667,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3422366374,
+      "task_id": 3422990370,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4613,7 +4675,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2115598066,
+  "uniq": 300269972,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]
