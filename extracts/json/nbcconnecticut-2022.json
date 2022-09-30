@@ -1,5 +1,5 @@
 {
-  "created": 1664460345,
+  "created": 1664505540,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/26/items/nbcconnecticut-2022",
@@ -1989,31 +1989,93 @@
       "format": "JSON"
     },
     {
+      "name": "nbcconnecticut-2022-09-29T10:04:45.931495-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcconnecticut-2022-09-29T10:04:45.931495-04:00.jpg",
+      "mtime": "1664462887",
+      "size": "9976",
+      "md5": "3681bd8b20af364b510134a644d771ef",
+      "crc32": "19728562",
+      "sha1": "5a317a56e9440949e092de83c80500463fbcaf53"
+    },
+    {
+      "name": "nbcconnecticut-2022-09-29T22:37:50.364282-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664505472",
+      "size": "45387",
+      "md5": "3d01dd7038cd8acac0b42a31e24ff8e9",
+      "crc32": "365ec95f",
+      "sha1": "3426bf20396448b73ae6ed21b289d683f351ba44",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-09-29T22:37:50.364282-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664505474",
+      "size": "51081",
+      "md5": "771b83c5e48dfd78fe21a70c635d116f",
+      "crc32": "577bbd46",
+      "sha1": "e3af2595beb70a9d95330137a0748a3e2fe79c68",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-09-29T22:37:50.364282-04:00.jpg",
+      "source": "original",
+      "mtime": "1664505471",
+      "size": "303450",
+      "md5": "5953eaa9a010eb70a42858ea59c291de",
+      "crc32": "6b8096d5",
+      "sha1": "08c56411e8e7eff6e55d14be7f77fc7edde2692c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcconnecticut-2022-09-29T22:37:50.364282-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664505476",
+      "size": "1531",
+      "md5": "81b8e2b2ed6881e0341876bbd8a808da",
+      "crc32": "b32cda24",
+      "sha1": "ab124a035dcf34555ed45cbdd527eb77a4726ed0",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-09-29T22:37:50.364282-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664505477",
+      "size": "121692",
+      "md5": "5cc99fa38f06350ccae1c27c0c207874",
+      "crc32": "37265435",
+      "sha1": "92d5d7d28069158799c34e4255b95831b34a31d9",
+      "format": "JSON"
+    },
+    {
       "name": "nbcconnecticut-2022_archive.torrent",
       "source": "metadata",
-      "btih": "11c7fb31f54ae0a2eedf436b884e0077e9645743",
-      "mtime": "1664460341",
-      "size": "43148",
-      "md5": "40af8170139bc28314745f59707e7ff5",
-      "crc32": "dca10fc7",
-      "sha1": "5ff44fa0dd3794c352983e62056d39c63ac3e990",
+      "btih": "70888103dfc23934d128eedf0e814a4b8cbf6f3a",
+      "mtime": "1664505528",
+      "size": "44452",
+      "md5": "2980182db6414b88b0b39354cc34fd53",
+      "crc32": "3540fe1c",
+      "sha1": "943aa1e444ecf7de7b280c2664a3f1c09737e3a3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcconnecticut-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "57b6dc8293ac38d713fffc710d538abc",
+      "md5": "2dbfde2a9f3d77b71ea4bdfcce2ee543",
       "summation": "md5"
     },
     {
       "name": "nbcconnecticut-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664460302",
-      "size": "270336",
-      "md5": "51dbd909c59ab4bff67a4a7cda3431c1",
-      "crc32": "d20c15a3",
-      "sha1": "8746f1b15667997e501dcf516f7d6fd1187590a9",
+      "mtime": "1664505484",
+      "size": "274432",
+      "md5": "9fac43dfd1cda6f8c5be74891e60af10",
+      "crc32": "d77ee284",
+      "sha1": "5ac02ff2311560f71fbc3fcf267ab320fd5e0cb3",
       "format": "Metadata"
     },
     {
@@ -2027,9 +2089,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 196,
-  "item_last_updated": 1664460341,
-  "item_size": 16151153,
+  "files_count": 202,
+  "item_last_updated": 1664505528,
+  "item_size": 16689670,
   "metadata": {
     "identifier": "nbcconnecticut-2022",
     "collection": [
@@ -2051,7 +2113,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3422328924,
+      "task_id": 3422932023,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2059,7 +2121,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 623449366,
+  "uniq": 411903019,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

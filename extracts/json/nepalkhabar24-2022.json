@@ -1,5 +1,5 @@
 {
-  "created": 1664460307,
+  "created": 1664505581,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/18/items/nepalkhabar24-2022",
@@ -8043,31 +8043,93 @@
       "format": "JSON"
     },
     {
+      "name": "nepalkhabar24-2022-09-29T19:49:02.136661+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nepalkhabar24-2022-09-29T19:49:02.136661+05:45.jpg",
+      "mtime": "1664462930",
+      "size": "9779",
+      "md5": "85743189a06d6925f1321ab9455dbafc",
+      "crc32": "1e403e57",
+      "sha1": "ea83c6eb11fcdf4ab56db927a60590bd63ab5173"
+    },
+    {
+      "name": "nepalkhabar24-2022-09-30T08:23:36.810828+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1664505522",
+      "size": "89998",
+      "md5": "0c7e615cca5913e1627e0d917ed13793",
+      "crc32": "a07ae2d2",
+      "sha1": "16bd9c1fef16af8ff64fcab632b41b671e9d2906",
+      "format": "JSON"
+    },
+    {
+      "name": "nepalkhabar24-2022-09-30T08:23:36.810828+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664505524",
+      "size": "74142",
+      "md5": "927bed246f41f8735ffa5513ab4aa740",
+      "crc32": "1d5f6571",
+      "sha1": "f25d1325256fd5ddf7b77fcec64bab36de6754be",
+      "format": "JSON"
+    },
+    {
+      "name": "nepalkhabar24-2022-09-30T08:23:36.810828+05:45.jpg",
+      "source": "original",
+      "mtime": "1664505521",
+      "size": "210039",
+      "md5": "aaccb3ce448023c9372d3209e2a3ea47",
+      "crc32": "a0503837",
+      "sha1": "a40a241a444f05895c46a9b157a0c20100c4092d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nepalkhabar24-2022-09-30T08:23:36.810828+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1664505525",
+      "size": "1468",
+      "md5": "ebfe8e5caba9bbed6f24581b58e15eef",
+      "crc32": "741e375c",
+      "sha1": "69586e94296880ff2af6a66d4daeeb3685df4268",
+      "format": "JSON"
+    },
+    {
+      "name": "nepalkhabar24-2022-09-30T08:23:36.810828+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1664505527",
+      "size": "18663",
+      "md5": "ec0f1bb87a5f929088563ef0caf4c877",
+      "crc32": "5821be90",
+      "sha1": "3a94ce427ffbc0fd4cdd76be73349e547034cd60",
+      "format": "JSON"
+    },
+    {
       "name": "nepalkhabar24-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ae0442f1a704c677e6146c74ea950f8db104e594",
-      "mtime": "1664460305",
-      "size": "168954",
-      "md5": "21178ed72bfe52bcd3cbd3b7fbd6050a",
-      "crc32": "a3545a22",
-      "sha1": "b51a32e47f87ba32121a85a9b4ee7e6af29cf689",
+      "btih": "567cde9a1384e0839b9970e26b05e6b5c1e20dfb",
+      "mtime": "1664505575",
+      "size": "170251",
+      "md5": "633eb45f7bcdf8007b28921ebd566b8c",
+      "crc32": "e58b1d59",
+      "sha1": "5fef87e20aaec04e5d1934399cf5084c06c02678",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nepalkhabar24-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0610cfeae522293cd50d716d1090ef05",
+      "md5": "e9e7d0592d38b4c7fb8d9aef09374a79",
       "summation": "md5"
     },
     {
       "name": "nepalkhabar24-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664460263",
-      "size": "1007616",
-      "md5": "2bcba1de422079e5b0db4be3b60b4e30",
-      "crc32": "cf583ebb",
-      "sha1": "1cff7d5c79287f422c477cb7ba9eda30f72b11f4",
+      "mtime": "1664505533",
+      "size": "1011712",
+      "md5": "11ed00d95d691a5ce6fa49d328ab0168",
+      "crc32": "77d699d5",
+      "sha1": "b254b5993d6a9e7b9e1321f4821a9d45f93891c5",
       "format": "Metadata"
     },
     {
@@ -8081,9 +8143,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 781,
-  "item_last_updated": 1664460305,
-  "item_size": 55907141,
+  "files_count": 787,
+  "item_last_updated": 1664505575,
+  "item_size": 56316623,
   "metadata": {
     "identifier": "nepalkhabar24-2022",
     "collection": [
@@ -8105,7 +8167,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3422328309,
+      "task_id": 3422932470,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8113,7 +8175,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1835766506,
+  "uniq": 1060498822,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

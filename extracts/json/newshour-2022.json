@@ -1,5 +1,5 @@
 {
-  "created": 1664486465,
+  "created": 1664506253,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/13/items/newshour-2022",
@@ -21245,31 +21245,93 @@
       "format": "JSON"
     },
     {
+      "name": "newshour-2022-09-29T17:19:32.918927-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newshour-2022-09-29T17:19:32.918927-04:00.jpg",
+      "mtime": "1664489684",
+      "size": "10746",
+      "md5": "d01adff402be06ae4a9215c20c6f50ae",
+      "crc32": "d4d6f845",
+      "sha1": "9a5e66646a0c253d5610f595b1a95bc876184658"
+    },
+    {
+      "name": "newshour-2022-09-29T22:36:56.335340-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664505420",
+      "size": "34014",
+      "md5": "fc719e04f83142c05ca6a1ff65a224b3",
+      "crc32": "935225a5",
+      "sha1": "20bfe42f1b3141d955ef19c3e89ab058ea62b24b",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-09-29T22:36:56.335340-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664505422",
+      "size": "40647",
+      "md5": "ba936d3b0c9138feef060502abd3ce09",
+      "crc32": "09941ac7",
+      "sha1": "96bb3c9adbc011851c6887b1109a514b42f91942",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-09-29T22:36:56.335340-04:00.jpg",
+      "source": "original",
+      "mtime": "1664505418",
+      "size": "333179",
+      "md5": "851daeba964470f95d948a7733e62155",
+      "crc32": "0b97193f",
+      "sha1": "331e08463f9edc994542c0df568e13028ca339a2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newshour-2022-09-29T22:36:56.335340-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664505424",
+      "size": "1512",
+      "md5": "be40f7194aa5d273be1b0b3d796a31c4",
+      "crc32": "b5b5b78f",
+      "sha1": "5df8804d0b4fb8558aeb5d480798ad5a2898131c",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-09-29T22:36:56.335340-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664505425",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "newshour-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aae08c3e87b0bde00d367e77ef7c9f5185be7445",
-      "mtime": "1664486460",
-      "size": "432705",
-      "md5": "869a7c25a443a8428c1294f82b3efe56",
-      "crc32": "405b233b",
-      "sha1": "987137a0a5f7f6f34728b1ff4a590b92a1b06146",
+      "btih": "7bf5ebb40d9db20596c79a3b2d4e0bbc594e80cd",
+      "mtime": "1664505515",
+      "size": "433971",
+      "md5": "2f3b3b982fc55bdd320447bd57e69f51",
+      "crc32": "479fdb22",
+      "sha1": "da81d1cc4cf6be2eb8109bd4c605f0f08d2b7ec9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newshour-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3284215589424ede81921afb553464c4",
+      "md5": "b3bde297eca663f62642773ed86135f6",
       "summation": "md5"
     },
     {
       "name": "newshour-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664486394",
-      "size": "2535424",
-      "md5": "ae58a5eadaf191afdaa7d63d88c920a3",
-      "crc32": "a5c339a5",
-      "sha1": "5bf73f10f861dd0e6bfb029d441c701851e0f64f",
+      "mtime": "1664505435",
+      "size": "2547712",
+      "md5": "4f744f80f336493f55578a09d3f3cf00",
+      "crc32": "cf62eb7d",
+      "sha1": "4cb3cfa071ab379edc41733f162a510c4415cf9a",
       "format": "Metadata"
     },
     {
@@ -21283,9 +21345,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2050,
-  "item_last_updated": 1664486460,
-  "item_size": 160639105,
+  "files_count": 2056,
+  "item_last_updated": 1664505515,
+  "item_size": 161072959,
   "metadata": {
     "identifier": "newshour-2022",
     "collection": [
@@ -21302,12 +21364,17 @@
     "publicdate": "2022-06-24 22:58:21",
     "addeddate": "2022-06-24 22:58:21"
   },
+  "newshour-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "pending_tasks": true,
   "server": "ia902505.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3422672722,
+      "task_id": 3422931857,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -21315,7 +21382,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 867048058,
+  "uniq": 1186018198,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

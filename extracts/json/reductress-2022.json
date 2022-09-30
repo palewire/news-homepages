@@ -1,5 +1,5 @@
 {
-  "created": 1664460630,
+  "created": 1664505892,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/34/items/reductress-2022",
@@ -5689,31 +5689,93 @@
       "format": "JSON"
     },
     {
+      "name": "reductress-2022-09-29T10:09:33.120998-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reductress-2022-09-29T10:09:33.120998-04:00.jpg",
+      "mtime": "1664466540",
+      "size": "11010",
+      "md5": "6b7fad76030276e0f2b606eb462ae621",
+      "crc32": "f25f1e69",
+      "sha1": "112cde26cc133fc52366f9fbda9e5079e5ac7b5c"
+    },
+    {
+      "name": "reductress-2022-09-29T22:43:38.560842-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664505821",
+      "size": "20183",
+      "md5": "4971c2f8471f6459e77b5da1ee730d63",
+      "crc32": "6a113dbc",
+      "sha1": "981c547ab344cd581bc347ecdce52c062fff40bd",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-09-29T22:43:38.560842-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664505823",
+      "size": "19966",
+      "md5": "47d218659234d773b24a20070ef7d3fa",
+      "crc32": "989ed155",
+      "sha1": "a1e0fbea143b3006ce7fb0a9e6adccf213ddcd79",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-09-29T22:43:38.560842-04:00.jpg",
+      "source": "original",
+      "mtime": "1664505819",
+      "size": "337448",
+      "md5": "25b77f04a61e15b9390cceccf155cf23",
+      "crc32": "4949e636",
+      "sha1": "75ac6cd7740a0cbd5ee9bffe4f77060a96fd8669",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reductress-2022-09-29T22:43:38.560842-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664505824",
+      "size": "1459",
+      "md5": "becb57087709cfc199e0644428813eeb",
+      "crc32": "fa5353b1",
+      "sha1": "d52fd66d1ad553e69430006c4b4e80d8504a26f9",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-09-29T22:43:38.560842-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664505825",
+      "size": "34900",
+      "md5": "e2157de6c66f81784de50386b442cae4",
+      "crc32": "cb3fd8cc",
+      "sha1": "86c33d5121459270ffa9439040dd54bfb862e0cc",
+      "format": "JSON"
+    },
+    {
       "name": "reductress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aa160239cbded686785cc44a15700406c560fb1b",
-      "mtime": "1664460627",
-      "size": "118248",
-      "md5": "705561b3567c2ff9bdce071f37348ff4",
-      "crc32": "eb3fe108",
-      "sha1": "3704b468d8a3c885315e3854eb9ac220c56d4eef",
+      "btih": "4c7a7a2035cefedc985ef128a16b2ec2df172e03",
+      "mtime": "1664505884",
+      "size": "119528",
+      "md5": "b17ecc095441b113e339ec0acf878859",
+      "crc32": "92c3e02b",
+      "sha1": "d92cc982f368953be14e12b7cbe1c1733bd15d11",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reductress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f0c83a987988067183429468b195b7b8",
+      "md5": "d34832b0533cc3db9d32735102948417",
       "summation": "md5"
     },
     {
       "name": "reductress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664460586",
-      "size": "716800",
-      "md5": "f979970613362b048a076ad4bc414049",
-      "crc32": "91408e2b",
-      "sha1": "2776c48ecb5311d397562433bc477cc7abf5c045",
+      "mtime": "1664505843",
+      "size": "729088",
+      "md5": "f0bc89647a5812b8c22737dc675aa706",
+      "crc32": "c0170814",
+      "sha1": "c9c72e71fd366f3367f8c16d92cb11c8cea183e9",
       "format": "Metadata"
     },
     {
@@ -5727,9 +5789,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 554,
-  "item_last_updated": 1664460627,
-  "item_size": 37150337,
+  "files_count": 560,
+  "item_last_updated": 1664505884,
+  "item_size": 37588871,
   "metadata": {
     "identifier": "reductress-2022",
     "collection": [
@@ -5751,7 +5813,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3422333181,
+      "task_id": 3422936709,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5759,7 +5821,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1216782461,
+  "uniq": 1033977545,
   "workable_servers": [
     "ia601502.us.archive.org"
   ]
