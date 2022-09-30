@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 167 screenshots with the Internet Archive.
+The archiving routine has saved 168 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 167 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-29T19:56:11.230943-04:00.jpg">
+  <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-29T19:56:11.230943-04:00.jpg"
+     alt="Chesapeake Bay Journal at 2022-09-29 19:56:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-29T19:56:11.230943-04:00.jpg">September 29 at 7:56 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-29T07:54:28.640380-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-24T07:45:32.379912-04:00.jpg">September 24 at 7:45 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-23T19:43:56.020545-04:00.jpg">
-  <img src="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-23T19:43:56.020545-04:00.jpg"
-     alt="Chesapeake Bay Journal at 2022-09-23 19:43:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-23T19:43:56.020545-04:00.jpg">September 23 at 7:43 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 168 hyperlink lists with the Internet Archive.
+The archiving routine has saved 169 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 7:56 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-29T19:56:11.230943-04:00.hyperlinks.json) |
 | [September 29 at 7:54 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-29T07:54:28.640380-04:00.hyperlinks.json) |
 | [September 28 at 7:45 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-28T19:45:30.669478-04:00.hyperlinks.json) |
 | [September 28 at 8:06 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-28T08:06:38.556537-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 7:58 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-26T07:58:14.227482-04:00.hyperlinks.json) |
 | [September 25 at 7:41 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-25T19:41:36.339273-04:00.hyperlinks.json) |
 | [September 25 at 7:44 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-25T07:44:25.457325-04:00.hyperlinks.json) |
-| [September 24 at 7:37 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-24T19:37:33.462595-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 168 accessibility trees with the Internet Archive.
+The archiving routine has saved 169 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 7:56 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-29T19:56:11.230943-04:00.accessibility.json) |
 | [September 29 at 7:54 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-29T07:54:28.640380-04:00.accessibility.json) |
 | [September 28 at 7:45 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-28T19:45:30.669478-04:00.accessibility.json) |
 | [September 28 at 8:06 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-28T08:06:38.556537-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 7:58 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-26T07:58:14.227482-04:00.accessibility.json) |
 | [September 25 at 7:41 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-25T19:41:36.339273-04:00.accessibility.json) |
 | [September 25 at 7:44 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-25T07:44:25.457325-04:00.accessibility.json) |
-| [September 24 at 7:37 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-24T19:37:33.462595-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 138 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 139 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 7:56 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-29T19:56:11.230943-04:00.lighthouse.json) |
 | [September 29 at 7:54 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-29T07:54:28.640380-04:00.lighthouse.json) |
 | [September 28 at 7:45 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-28T19:45:30.669478-04:00.lighthouse.json) |
 | [September 28 at 8:06 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-28T08:06:38.556537-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 7:58 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-26T07:58:14.227482-04:00.lighthouse.json) |
 | [September 25 at 7:41 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-25T19:41:36.339273-04:00.lighthouse.json) |
 | [September 25 at 7:44 AM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-25T07:44:25.457325-04:00.lighthouse.json) |
-| [September 24 at 7:37 PM](https://archive.org/download/chesbayjournal-2022/chesbayjournal-2022-09-24T19:37:33.462595-04:00.lighthouse.json) |
 
 
 

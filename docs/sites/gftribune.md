@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 19 screenshots with the Internet Archive.
+The archiving routine has saved 20 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gftribune-2022/gftribune-2022-09-29T18:01:53.968535-06:00.jpg">
+  <img src="https://archive.org/download/gftribune-2022/gftribune-2022-09-29T18:01:53.968535-06:00.jpg"
+     alt="Great Falls Tribune at 2022-09-29 18:01:55-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gftribune-2022/gftribune-2022-09-29T18:01:53.968535-06:00.jpg">September 29 at 6:01 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gftribune-2022/gftribune-2022-09-29T06:00:19.395553-06:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gftribune-2022/gftribune-2022-09-24T05:50:37.568275-06:00.jpg">September 24 at 5:50 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gftribune-2022/gftribune-2022-09-23T17:48:21.475100-06:00.jpg">
-  <img src="https://archive.org/download/gftribune-2022/gftribune-2022-09-23T17:48:21.475100-06:00.jpg"
-     alt="Great Falls Tribune at 2022-09-23 17:48:23-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gftribune-2022/gftribune-2022-09-23T17:48:21.475100-06:00.jpg">September 23 at 5:48 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 19 hyperlink lists with the Internet Archive.
+The archiving routine has saved 20 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 6:01 PM](https://archive.org/download/gftribune-2022/gftribune-2022-09-29T18:01:53.968535-06:00.hyperlinks.json) |
 | [September 29 at 6:00 AM](https://archive.org/download/gftribune-2022/gftribune-2022-09-29T06:00:19.395553-06:00.hyperlinks.json) |
 | [September 28 at 5:49 PM](https://archive.org/download/gftribune-2022/gftribune-2022-09-28T17:49:49.147462-06:00.hyperlinks.json) |
 | [September 28 at 6:12 AM](https://archive.org/download/gftribune-2022/gftribune-2022-09-28T06:12:17.272461-06:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 6:03 AM](https://archive.org/download/gftribune-2022/gftribune-2022-09-26T06:03:31.366298-06:00.hyperlinks.json) |
 | [September 25 at 5:44 PM](https://archive.org/download/gftribune-2022/gftribune-2022-09-25T17:44:53.334612-06:00.hyperlinks.json) |
 | [September 25 at 5:48 AM](https://archive.org/download/gftribune-2022/gftribune-2022-09-25T05:48:46.948865-06:00.hyperlinks.json) |
-| [September 24 at 5:42 PM](https://archive.org/download/gftribune-2022/gftribune-2022-09-24T17:41:59.403057-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 19 accessibility trees with the Internet Archive.
+The archiving routine has saved 20 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 6:01 PM](https://archive.org/download/gftribune-2022/gftribune-2022-09-29T18:01:53.968535-06:00.accessibility.json) |
 | [September 29 at 6:00 AM](https://archive.org/download/gftribune-2022/gftribune-2022-09-29T06:00:19.395553-06:00.accessibility.json) |
 | [September 28 at 5:49 PM](https://archive.org/download/gftribune-2022/gftribune-2022-09-28T17:49:49.147462-06:00.accessibility.json) |
 | [September 28 at 6:12 AM](https://archive.org/download/gftribune-2022/gftribune-2022-09-28T06:12:17.272461-06:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 6:03 AM](https://archive.org/download/gftribune-2022/gftribune-2022-09-26T06:03:31.366298-06:00.accessibility.json) |
 | [September 25 at 5:44 PM](https://archive.org/download/gftribune-2022/gftribune-2022-09-25T17:44:53.334612-06:00.accessibility.json) |
 | [September 25 at 5:48 AM](https://archive.org/download/gftribune-2022/gftribune-2022-09-25T05:48:46.948865-06:00.accessibility.json) |
-| [September 24 at 5:42 PM](https://archive.org/download/gftribune-2022/gftribune-2022-09-24T17:41:59.403057-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 6:01 PM](https://archive.org/download/gftribune-2022/gftribune-2022-09-29T18:01:53.968535-06:00.lighthouse.json) |
 | [September 29 at 6:00 AM](https://archive.org/download/gftribune-2022/gftribune-2022-09-29T06:00:19.395553-06:00.lighthouse.json) |
 | [September 28 at 5:49 PM](https://archive.org/download/gftribune-2022/gftribune-2022-09-28T17:49:49.147462-06:00.lighthouse.json) |
 | [September 28 at 6:12 AM](https://archive.org/download/gftribune-2022/gftribune-2022-09-28T06:12:17.272461-06:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 6:03 AM](https://archive.org/download/gftribune-2022/gftribune-2022-09-26T06:03:31.366298-06:00.lighthouse.json) |
 | [September 25 at 5:45 PM](https://archive.org/download/gftribune-2022/gftribune-2022-09-25T17:44:53.334612-06:00.lighthouse.json) |
 | [September 25 at 5:48 AM](https://archive.org/download/gftribune-2022/gftribune-2022-09-25T05:48:46.948865-06:00.lighthouse.json) |
-| [September 24 at 5:42 PM](https://archive.org/download/gftribune-2022/gftribune-2022-09-24T17:41:59.403057-06:00.lighthouse.json) |
 
 
 

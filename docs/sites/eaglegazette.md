@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 19 screenshots with the Internet Archive.
+The archiving routine has saved 20 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-29T20:00:33.498289-04:00.jpg">
+  <img src="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-29T20:00:33.498289-04:00.jpg"
+     alt="Lancaster Eagle-Gazette at 2022-09-29 20:00:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-29T20:00:33.498289-04:00.jpg">September 29 at 8:00 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-29T07:57:32.725654-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-24T07:47:15.859715-04:00.jpg">September 24 at 7:47 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-23T19:46:04.616830-04:00.jpg">
-  <img src="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-23T19:46:04.616830-04:00.jpg"
-     alt="Lancaster Eagle-Gazette at 2022-09-23 19:46:06-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-23T19:46:04.616830-04:00.jpg">September 23 at 7:46 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 19 hyperlink lists with the Internet Archive.
+The archiving routine has saved 20 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 8:00 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-29T20:00:33.498289-04:00.hyperlinks.json) |
 | [September 29 at 7:57 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-29T07:57:32.725654-04:00.hyperlinks.json) |
 | [September 28 at 7:48 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-28T19:48:10.862750-04:00.hyperlinks.json) |
 | [September 28 at 8:09 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-28T08:09:14.567367-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 8:01 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-26T08:01:19.394943-04:00.hyperlinks.json) |
 | [September 25 at 7:43 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-25T19:43:05.843645-04:00.hyperlinks.json) |
 | [September 25 at 7:46 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-25T07:46:42.820198-04:00.hyperlinks.json) |
-| [September 24 at 7:39 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-24T19:39:30.672812-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 19 accessibility trees with the Internet Archive.
+The archiving routine has saved 20 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 8:00 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-29T20:00:33.498289-04:00.accessibility.json) |
 | [September 29 at 7:57 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-29T07:57:32.725654-04:00.accessibility.json) |
 | [September 28 at 7:48 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-28T19:48:10.862750-04:00.accessibility.json) |
 | [September 28 at 8:09 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-28T08:09:14.567367-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 8:01 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-26T08:01:19.394943-04:00.accessibility.json) |
 | [September 25 at 7:43 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-25T19:43:05.843645-04:00.accessibility.json) |
 | [September 25 at 7:46 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-25T07:46:42.820198-04:00.accessibility.json) |
-| [September 24 at 7:39 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-24T19:39:30.672812-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 8:00 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-29T20:00:33.498289-04:00.lighthouse.json) |
 | [September 29 at 7:57 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-29T07:57:32.725654-04:00.lighthouse.json) |
 | [September 28 at 7:48 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-28T19:48:10.862750-04:00.lighthouse.json) |
 | [September 28 at 8:09 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-28T08:09:14.567367-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 8:01 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-26T08:01:19.394943-04:00.lighthouse.json) |
 | [September 25 at 7:43 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-25T19:43:05.843645-04:00.lighthouse.json) |
 | [September 25 at 7:46 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-25T07:46:42.820198-04:00.lighthouse.json) |
-| [September 24 at 7:39 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-24T19:39:30.672812-04:00.lighthouse.json) |
 
 
 

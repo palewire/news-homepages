@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 150 screenshots with the Internet Archive.
+The archiving routine has saved 151 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 150 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/deadline-2022/deadline-2022-09-29T16:55:51.530384-07:00.jpg">
+  <img src="https://archive.org/download/deadline-2022/deadline-2022-09-29T16:55:51.530384-07:00.jpg"
+     alt="Deadline at 2022-09-29 16:55:58-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/deadline-2022/deadline-2022-09-29T16:55:51.530384-07:00.jpg">September 29 at 4:55 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/deadline-2022/deadline-2022-09-29T04:57:01.124924-07:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/deadline-2022/deadline-2022-09-24T04:47:05.197483-07:00.jpg">September 24 at 4:47 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/deadline-2022/deadline-2022-09-23T16:43:42.990760-07:00.jpg">
-  <img src="https://archive.org/download/deadline-2022/deadline-2022-09-23T16:43:42.990760-07:00.jpg"
-     alt="Deadline at 2022-09-23 16:43:50-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/deadline-2022/deadline-2022-09-23T16:43:42.990760-07:00.jpg">September 23 at 4:43 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 144 hyperlink lists with the Internet Archive.
+The archiving routine has saved 145 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 4:56 PM](https://archive.org/download/deadline-2022/deadline-2022-09-29T16:55:51.530384-07:00.hyperlinks.json) |
 | [September 29 at 4:57 AM](https://archive.org/download/deadline-2022/deadline-2022-09-29T04:57:01.124924-07:00.hyperlinks.json) |
 | [September 28 at 4:46 PM](https://archive.org/download/deadline-2022/deadline-2022-09-28T16:45:50.673038-07:00.hyperlinks.json) |
 | [September 28 at 5:07 AM](https://archive.org/download/deadline-2022/deadline-2022-09-28T05:07:12.819380-07:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 4:59 AM](https://archive.org/download/deadline-2022/deadline-2022-09-26T04:59:15.430237-07:00.hyperlinks.json) |
 | [September 25 at 4:41 PM](https://archive.org/download/deadline-2022/deadline-2022-09-25T16:40:56.032529-07:00.hyperlinks.json) |
 | [September 25 at 4:45 AM](https://archive.org/download/deadline-2022/deadline-2022-09-25T04:45:38.131288-07:00.hyperlinks.json) |
-| [September 24 at 4:38 PM](https://archive.org/download/deadline-2022/deadline-2022-09-24T16:38:14.320219-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 150 accessibility trees with the Internet Archive.
+The archiving routine has saved 151 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 4:55 PM](https://archive.org/download/deadline-2022/deadline-2022-09-29T16:55:51.530384-07:00.accessibility.json) |
 | [September 29 at 4:57 AM](https://archive.org/download/deadline-2022/deadline-2022-09-29T04:57:01.124924-07:00.accessibility.json) |
 | [September 28 at 4:45 PM](https://archive.org/download/deadline-2022/deadline-2022-09-28T16:45:50.673038-07:00.accessibility.json) |
 | [September 28 at 5:07 AM](https://archive.org/download/deadline-2022/deadline-2022-09-28T05:07:12.819380-07:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 4:59 AM](https://archive.org/download/deadline-2022/deadline-2022-09-26T04:59:15.430237-07:00.accessibility.json) |
 | [September 25 at 4:41 PM](https://archive.org/download/deadline-2022/deadline-2022-09-25T16:40:56.032529-07:00.accessibility.json) |
 | [September 25 at 4:45 AM](https://archive.org/download/deadline-2022/deadline-2022-09-25T04:45:38.131288-07:00.accessibility.json) |
-| [September 24 at 4:38 PM](https://archive.org/download/deadline-2022/deadline-2022-09-24T16:38:14.320219-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 138 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 139 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 4:56 PM](https://archive.org/download/deadline-2022/deadline-2022-09-29T16:55:51.530384-07:00.lighthouse.json) |
 | [September 29 at 4:57 AM](https://archive.org/download/deadline-2022/deadline-2022-09-29T04:57:01.124924-07:00.lighthouse.json) |
 | [September 28 at 4:46 PM](https://archive.org/download/deadline-2022/deadline-2022-09-28T16:45:50.673038-07:00.lighthouse.json) |
 | [September 28 at 5:07 AM](https://archive.org/download/deadline-2022/deadline-2022-09-28T05:07:12.819380-07:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 4:59 AM](https://archive.org/download/deadline-2022/deadline-2022-09-26T04:59:15.430237-07:00.lighthouse.json) |
 | [September 25 at 4:41 PM](https://archive.org/download/deadline-2022/deadline-2022-09-25T16:40:56.032529-07:00.lighthouse.json) |
 | [September 25 at 4:45 AM](https://archive.org/download/deadline-2022/deadline-2022-09-25T04:45:38.131288-07:00.lighthouse.json) |
-| [September 24 at 4:38 PM](https://archive.org/download/deadline-2022/deadline-2022-09-24T16:38:14.320219-07:00.lighthouse.json) |
 
 
 
