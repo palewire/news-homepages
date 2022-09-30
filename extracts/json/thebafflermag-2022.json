@@ -1,5 +1,5 @@
 {
-  "created": 1664525516,
+  "created": 1664567640,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/5/items/thebafflermag-2022",
@@ -12575,31 +12575,93 @@
       "format": "JSON"
     },
     {
+      "name": "thebafflermag-2022-09-30T04:09:58.453395-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thebafflermag-2022-09-30T04:09:58.453395-04:00.jpg",
+      "mtime": "1664528198",
+      "size": "9401",
+      "md5": "ca87352be9baf96d48f6eef2dd25b832",
+      "crc32": "e1bc0051",
+      "sha1": "d8c3eeaa9bd3e419a632ac2b299001413dfdef4c"
+    },
+    {
+      "name": "thebafflermag-2022-09-30T15:52:41.688931-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664567564",
+      "size": "14940",
+      "md5": "34456827a5b5ae5f92a67312296beac3",
+      "crc32": "26f684b5",
+      "sha1": "be1c8a31455724c4c39d79693f9b65b6ee2b809d",
+      "format": "JSON"
+    },
+    {
+      "name": "thebafflermag-2022-09-30T15:52:41.688931-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664567566",
+      "size": "18899",
+      "md5": "ae03855db5fb1ca1c82cd24762cc9aeb",
+      "crc32": "d19fa476",
+      "sha1": "9969439754940c7307c0c374e714099672206491",
+      "format": "JSON"
+    },
+    {
+      "name": "thebafflermag-2022-09-30T15:52:41.688931-04:00.jpg",
+      "source": "original",
+      "mtime": "1664567563",
+      "size": "224943",
+      "md5": "068414bde22b9195dfc3635f29951d90",
+      "crc32": "fcfcd7b1",
+      "sha1": "2519139053932596bc390446a0fcdfdfbdf6f425",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thebafflermag-2022-09-30T15:52:41.688931-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664567568",
+      "size": "1459",
+      "md5": "f64870cf31333a3fdfd92055b67851ba",
+      "crc32": "2f4b615b",
+      "sha1": "0725f531073270e9b00c7736b9e775549acd95c2",
+      "format": "JSON"
+    },
+    {
+      "name": "thebafflermag-2022-09-30T15:52:41.688931-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664567569",
+      "size": "7138",
+      "md5": "4410114649e2ce09a4b23d4e83305094",
+      "crc32": "a33b8361",
+      "sha1": "5511f56150d510a3ebd232e1fe8e37759c29d18b",
+      "format": "JSON"
+    },
+    {
       "name": "thebafflermag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "273575880cf94b226ed00021c8155eda3a221b5e",
-      "mtime": "1664525503",
-      "size": "262360",
-      "md5": "9ddec1c2093cc3b47edd500c561e5470",
-      "crc32": "35b2fd39",
-      "sha1": "49e9b0c600d3c01112264e22c2704840fea2fac7",
+      "btih": "2b0cc7c174957fecaffc6666a471da3b590d5326",
+      "mtime": "1664567633",
+      "size": "263636",
+      "md5": "8941e28982a1c5e0aec06f548397a545",
+      "crc32": "85e113ff",
+      "sha1": "e8d4ac60503dfcc2a0c79e164f97f3520c524013",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thebafflermag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8ae93242101d80186c42f7cf0865780d",
+      "md5": "fb4704748f7e656e3b0d121e560f83e9",
       "summation": "md5"
     },
     {
       "name": "thebafflermag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664525444",
-      "size": "1548288",
-      "md5": "19a49aa0c19a68b0e0babf83edad9167",
-      "crc32": "3614cb5e",
-      "sha1": "14252d742a10d04685935b9b869752669daec20f",
+      "mtime": "1664567579",
+      "size": "1556480",
+      "md5": "9350b1c079bb7ef7a48483026ee5f00c",
+      "crc32": "e632059f",
+      "sha1": "c63ed968471631ab5bb513e78da6e449d3a4eed9",
       "format": "Metadata"
     },
     {
@@ -12613,9 +12675,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1218,
-  "item_last_updated": 1664525503,
-  "item_size": 71264889,
+  "files_count": 1224,
+  "item_last_updated": 1664567633,
+  "item_size": 71551137,
   "metadata": {
     "identifier": "thebafflermag-2022",
     "collection": [
@@ -12637,15 +12699,55 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3423215426,
+      "task_id": 3423796225,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3423816789,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3423816817,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3423816835,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3423816868,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3423816893,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1602364093,
+  "uniq": 1686157830,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]
