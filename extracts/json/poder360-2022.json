@@ -1,5 +1,5 @@
 {
-  "created": 1664505673,
+  "created": 1664539675,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/28/items/poder360-2022",
@@ -9471,31 +9471,83 @@
       "format": "JSON"
     },
     {
+      "name": "poder360-2022-09-29T23:40:00.803522-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "poder360-2022-09-29T23:40:00.803522-03:00.jpg",
+      "mtime": "1664507722",
+      "size": "10851",
+      "md5": "27ba182f285e174bc04888fb7bb8b6c7",
+      "crc32": "fcaeabba",
+      "sha1": "c42a5c33832d5b4249111a17d06bd938304e7273"
+    },
+    {
+      "name": "poder360-2022-09-30T09:06:31.536308-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664539598",
+      "size": "45976",
+      "md5": "d6871473bfefeb3760c11ab07cfc87ec",
+      "crc32": "1873976b",
+      "sha1": "eac5e3a434d9b600ca33d2c9c9eff61fe91d0c09",
+      "format": "JSON"
+    },
+    {
+      "name": "poder360-2022-09-30T09:06:31.536308-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664539601",
+      "size": "41430",
+      "md5": "f72023530156d22b942434040a563719",
+      "crc32": "1751505f",
+      "sha1": "621a1f82ca327f64376a84bc84c8ca300e3b1b79",
+      "format": "JSON"
+    },
+    {
+      "name": "poder360-2022-09-30T09:06:31.536308-03:00.jpg",
+      "source": "original",
+      "mtime": "1664539597",
+      "size": "299504",
+      "md5": "67a965c47674da2862dd322d97b76caf",
+      "crc32": "a264b113",
+      "sha1": "e27b3f14288aa90a615de67040b4708fb4ade8af",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "poder360-2022-09-30T09:06:31.536308-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664539602",
+      "size": "1502",
+      "md5": "cc193fa4fe8cec7920a7033b07aae44f",
+      "crc32": "dd915d01",
+      "sha1": "68fd3d010064c06e94d0bb5462706e227cd95733",
+      "format": "JSON"
+    },
+    {
       "name": "poder360-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2992c2ce286d0c59a9673d9d2d0077d056f834f4",
-      "mtime": "1664505666",
-      "size": "194058",
-      "md5": "cc87c929f32aeb0bb659c9b239673a0e",
-      "crc32": "218bdf4d",
-      "sha1": "a5c3a2741c677680892a5230adbd945217ee9d55",
+      "btih": "6417dbf5e87c8d2c9a3fa31ce6fc65ea5472ccec",
+      "mtime": "1664539669",
+      "size": "195118",
+      "md5": "b1f09f734fd4be18aa56327b9ba11ae2",
+      "crc32": "8bbef64b",
+      "sha1": "7e46e035616398f78525e9bfd2787e7220ac11c7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "poder360-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "419abc999e62a62b69d2fdb8de4fd3d3",
+      "md5": "2cbd5fce8290d4717b46ab97a3087b69",
       "summation": "md5"
     },
     {
       "name": "poder360-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664505619",
-      "size": "1179648",
-      "md5": "0fbd02fe0af226d32127f2385d43fc0d",
-      "crc32": "d10ea25c",
-      "sha1": "15f4800673cf9c66c2bb944f551350a498d6bf58",
+      "mtime": "1664539621",
+      "size": "1183744",
+      "md5": "1ddfbdd55795945f3bbc420add44590d",
+      "crc32": "8b1ff80a",
+      "sha1": "02d136fc791c757a956cc3a69265aa7ad4dc3921",
       "format": "Metadata"
     },
     {
@@ -9509,9 +9561,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 920,
-  "item_last_updated": 1664505666,
-  "item_size": 60811874,
+  "files_count": 925,
+  "item_last_updated": 1664539669,
+  "item_size": 61216293,
   "metadata": {
     "identifier": "poder360-2022",
     "collection": [
@@ -9533,7 +9585,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3422933797,
+      "task_id": 3423420187,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9541,7 +9593,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 667139648,
+  "uniq": 1245860558,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]

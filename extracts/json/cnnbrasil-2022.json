@@ -1,5 +1,5 @@
 {
-  "created": 1664535519,
+  "created": 1664539675,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/25/items/cnnbrasil-2022",
@@ -9677,31 +9677,93 @@
       "format": "JSON"
     },
     {
+      "name": "cnnbrasil-2022-09-30T07:57:37.430882-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cnnbrasil-2022-09-30T07:57:37.430882-03:00.jpg",
+      "mtime": "1664537891",
+      "size": "10920",
+      "md5": "cfc35b3979fb83683a75dc7c22954a27",
+      "crc32": "70252f22",
+      "sha1": "4f110f81873d4c1669a65261600d5a99cba24f22"
+    },
+    {
+      "name": "cnnbrasil-2022-09-30T09:06:53.381563-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664539616",
+      "size": "72211",
+      "md5": "d79e559ebb3c221d258d78218655714b",
+      "crc32": "ecdfca7e",
+      "sha1": "719100aa1659a25a7a890ee9bc09a50e11c5ee8d",
+      "format": "JSON"
+    },
+    {
+      "name": "cnnbrasil-2022-09-30T09:06:53.381563-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664539617",
+      "size": "53085",
+      "md5": "f880385e76caedde5925acb28f4fb685",
+      "crc32": "d88d4452",
+      "sha1": "21b82202f35dc14fc890e96d1b26b0f7667445c7",
+      "format": "JSON"
+    },
+    {
+      "name": "cnnbrasil-2022-09-30T09:06:53.381563-03:00.jpg",
+      "source": "original",
+      "mtime": "1664539614",
+      "size": "325933",
+      "md5": "e4eff90cfa38a9e48ce6b73dd0b08805",
+      "crc32": "c326ad00",
+      "sha1": "357ef7985ba8c9947690a08c2bed7cfba491709e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cnnbrasil-2022-09-30T09:06:53.381563-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664539619",
+      "size": "1513",
+      "md5": "2e37a238c866583f355dc58bbf3da449",
+      "crc32": "665d54fe",
+      "sha1": "3b0d0ff7ab4486a95913e17a4f2573d85a32c758",
+      "format": "JSON"
+    },
+    {
+      "name": "cnnbrasil-2022-09-30T09:06:53.381563-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664539621",
+      "size": "5838",
+      "md5": "0a9b89daedb920b88235a6cb8a07a732",
+      "crc32": "b71af624",
+      "sha1": "7d5927e51da93d541fa0ed770aa06afd66dfc376",
+      "format": "JSON"
+    },
+    {
       "name": "cnnbrasil-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bbe6f545c978a7e467d24bffbc917975e8117fd2",
-      "mtime": "1664535514",
-      "size": "199719",
-      "md5": "871ef82e9a6cb8338e4af67306c93a2b",
-      "crc32": "af3c17f2",
-      "sha1": "18c6a9657754037ff032b12b15354fb68b5394da",
+      "btih": "5d278f8122a1758de394f8841eea3800fda717c8",
+      "mtime": "1664539670",
+      "size": "200992",
+      "md5": "85f9277ff53a047144459ab3942ac249",
+      "crc32": "20a7ddaf",
+      "sha1": "26bafa1c94ac52f306ccda3c1c39c22b30cb0073",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cnnbrasil-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "501b1b3aebd66be60103f9025535f8f9",
+      "md5": "d06f4f365d6d9a91a318b885c8d7b757",
       "summation": "md5"
     },
     {
       "name": "cnnbrasil-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664535470",
-      "size": "1204224",
-      "md5": "9dcd12ce75475cc087322d45a312234f",
-      "crc32": "181518a9",
-      "sha1": "735466dc0e31af5c669fb991e8fe3c466d605570",
+      "mtime": "1664539625",
+      "size": "1216512",
+      "md5": "a756e8b86fc7a98cc8e8147b5e9c8927",
+      "crc32": "15898dc7",
+      "sha1": "e91837fa950ea5c8025120e50184d83dfb771628",
       "format": "Metadata"
     },
     {
@@ -9715,9 +9777,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 940,
-  "item_last_updated": 1664535514,
-  "item_size": 72797675,
+  "files_count": 946,
+  "item_last_updated": 1664539670,
+  "item_size": 73280736,
   "metadata": {
     "identifier": "cnnbrasil-2022",
     "collection": [
@@ -9739,7 +9801,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3423355331,
+      "task_id": 3423420174,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9747,7 +9809,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 739669282,
+  "uniq": 680539738,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]
