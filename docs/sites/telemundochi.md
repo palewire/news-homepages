@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 182 screenshots with the Internet Archive.
+The archiving routine has saved 183 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 182 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-09-29T22:51:46.694175-05:00.jpg">
+  <img src="https://archive.org/download/telemundochi-2022/telemundochi-2022-09-29T22:51:46.694175-05:00.jpg"
+     alt="Telemundo Chicago at 2022-09-29 22:52:07-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-09-29T22:51:46.694175-05:00.jpg">September 29 at 10:52 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-09-29T11:00:30.509530-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-09-26T10:05:35.842908-05:00.jpg">September 26 at 10:05 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-09-25T22:38:25.671588-05:00.jpg">
-  <img src="https://archive.org/download/telemundochi-2022/telemundochi-2022-09-25T22:38:25.671588-05:00.jpg"
-     alt="Telemundo Chicago at 2022-09-25 22:38:34-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-09-25T22:38:25.671588-05:00.jpg">September 25 at 10:38 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 184 hyperlink lists with the Internet Archive.
+The archiving routine has saved 185 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 10:52 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-09-29T22:51:46.694175-05:00.hyperlinks.json) |
 | [September 29 at 11:00 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-09-29T11:00:30.509530-05:00.hyperlinks.json) |
 | [September 29 at 9:58 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-09-29T09:57:49.341275-05:00.hyperlinks.json) |
 | [September 28 at 10:41 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-09-28T22:40:59.383094-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 11:12 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-09-27T11:11:50.674025-05:00.hyperlinks.json) |
 | [September 27 at 10:02 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-09-27T10:01:59.985053-05:00.hyperlinks.json) |
 | [September 26 at 10:32 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-09-26T22:31:46.331598-05:00.hyperlinks.json) |
-| [September 26 at 11:10 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-09-26T11:10:35.918199-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 183 accessibility trees with the Internet Archive.
+The archiving routine has saved 184 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 10:52 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-09-29T22:51:46.694175-05:00.accessibility.json) |
 | [September 29 at 11:00 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-09-29T11:00:30.509530-05:00.accessibility.json) |
 | [September 29 at 9:57 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-09-29T09:57:49.341275-05:00.accessibility.json) |
 | [September 28 at 10:41 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-09-28T22:40:59.383094-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 11:12 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-09-27T11:11:50.674025-05:00.accessibility.json) |
 | [September 27 at 10:02 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-09-27T10:01:59.985053-05:00.accessibility.json) |
 | [September 26 at 10:32 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-09-26T22:31:46.331598-05:00.accessibility.json) |
-| [September 26 at 11:10 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-09-26T11:10:35.918199-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 184 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 185 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 10:52 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-09-29T22:51:46.694175-05:00.lighthouse.json) |
 | [September 29 at 11:00 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-09-29T11:00:30.509530-05:00.lighthouse.json) |
 | [September 29 at 9:58 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-09-29T09:57:49.341275-05:00.lighthouse.json) |
 | [September 28 at 10:41 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-09-28T22:40:59.383094-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 11:12 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-09-27T11:11:50.674025-05:00.lighthouse.json) |
 | [September 27 at 10:02 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-09-27T10:01:59.985053-05:00.lighthouse.json) |
 | [September 26 at 10:32 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-09-26T22:31:46.331598-05:00.lighthouse.json) |
-| [September 26 at 11:10 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-09-26T11:10:35.918199-05:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 143 screenshots with the Internet Archive.
+The archiving routine has saved 144 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 143 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-29T23:56:36.167744-04:00.jpg">
+  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-09-29T23:56:36.167744-04:00.jpg"
+     alt="Valdosta Daily Times at 2022-09-29 23:56:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-29T23:56:36.167744-04:00.jpg">September 29 at 11:56 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-29T11:02:14.295456-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-24T10:45:29.876777-04:00.jpg">September 24 at 10:45 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-23T23:36:27.459120-04:00.jpg">
-  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-09-23T23:36:27.459120-04:00.jpg"
-     alt="Valdosta Daily Times at 2022-09-23 23:36:43-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-23T23:36:27.459120-04:00.jpg">September 23 at 11:36 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 121 hyperlink lists with the Internet Archive.
+The archiving routine has saved 122 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 11:56 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-29T23:56:36.167744-04:00.hyperlinks.json) |
 | [September 29 at 11:02 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-29T11:02:14.295456-04:00.hyperlinks.json) |
 | [September 28 at 11:45 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-28T23:45:26.162756-04:00.hyperlinks.json) |
 | [September 28 at 11:06 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-28T11:05:50.025209-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 11:10 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-26T11:09:52.734638-04:00.hyperlinks.json) |
 | [September 25 at 11:41 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-25T23:41:37.217550-04:00.hyperlinks.json) |
 | [September 25 at 10:45 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-25T10:45:31.826580-04:00.hyperlinks.json) |
-| [September 24 at 11:35 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-24T23:35:11.324524-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 112 accessibility trees with the Internet Archive.
+The archiving routine has saved 113 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 11:56 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-29T23:56:36.167744-04:00.accessibility.json) |
 | [September 29 at 11:02 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-29T11:02:14.295456-04:00.accessibility.json) |
 | [September 28 at 11:45 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-28T23:45:26.162756-04:00.accessibility.json) |
 | [September 28 at 11:06 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-28T11:05:50.025209-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 11:09 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-26T11:09:52.734638-04:00.accessibility.json) |
 | [September 25 at 11:41 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-25T23:41:37.217550-04:00.accessibility.json) |
 | [September 25 at 10:45 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-25T10:45:31.826580-04:00.accessibility.json) |
-| [September 24 at 11:35 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-24T23:35:11.324524-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 137 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 138 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 11:56 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-29T23:56:36.167744-04:00.lighthouse.json) |
 | [September 29 at 11:02 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-29T11:02:14.295456-04:00.lighthouse.json) |
 | [September 28 at 11:45 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-28T23:45:26.162756-04:00.lighthouse.json) |
 | [September 28 at 11:06 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-28T11:05:50.025209-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 11:10 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-26T11:09:52.734638-04:00.lighthouse.json) |
 | [September 25 at 11:41 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-25T23:41:37.217550-04:00.lighthouse.json) |
 | [September 25 at 10:45 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-25T10:45:31.826580-04:00.lighthouse.json) |
-| [September 24 at 11:35 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-24T23:35:11.324524-04:00.lighthouse.json) |
 
 
 

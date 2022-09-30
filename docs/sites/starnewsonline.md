@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 18 screenshots with the Internet Archive.
+The archiving routine has saved 19 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-29T23:51:30.327700-04:00.jpg">
+  <img src="https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-29T23:51:30.327700-04:00.jpg"
+     alt="Wilmington Star-News at 2022-09-29 23:51:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-29T23:51:30.327700-04:00.jpg">September 29 at 11:51 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-29T10:58:18.454662-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-24T10:41:44.060848-04:00.jpg">September 24 at 10:41 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-23T23:33:11.954136-04:00.jpg">
-  <img src="https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-23T23:33:11.954136-04:00.jpg"
-     alt="Wilmington Star-News at 2022-09-23 23:33:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-23T23:33:11.954136-04:00.jpg">September 23 at 11:33 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 18 hyperlink lists with the Internet Archive.
+The archiving routine has saved 19 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 11:51 PM](https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-29T23:51:30.327700-04:00.hyperlinks.json) |
 | [September 29 at 10:58 AM](https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-29T10:58:18.454662-04:00.hyperlinks.json) |
 | [September 28 at 11:41 PM](https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-28T23:40:56.545673-04:00.hyperlinks.json) |
 | [September 28 at 11:02 AM](https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-28T11:02:25.728865-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 11:05 AM](https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-26T11:05:42.089436-04:00.hyperlinks.json) |
 | [September 25 at 11:38 PM](https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-25T23:38:18.177599-04:00.hyperlinks.json) |
 | [September 25 at 10:41 AM](https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-25T10:41:47.082112-04:00.hyperlinks.json) |
-| [September 24 at 11:32 PM](https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-24T23:32:28.645204-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 18 accessibility trees with the Internet Archive.
+The archiving routine has saved 19 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 11:51 PM](https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-29T23:51:30.327700-04:00.accessibility.json) |
 | [September 29 at 10:58 AM](https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-29T10:58:18.454662-04:00.accessibility.json) |
 | [September 28 at 11:40 PM](https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-28T23:40:56.545673-04:00.accessibility.json) |
 | [September 28 at 11:02 AM](https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-28T11:02:25.728865-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 11:05 AM](https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-26T11:05:42.089436-04:00.accessibility.json) |
 | [September 25 at 11:38 PM](https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-25T23:38:18.177599-04:00.accessibility.json) |
 | [September 25 at 10:41 AM](https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-25T10:41:47.082112-04:00.accessibility.json) |
-| [September 24 at 11:32 PM](https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-24T23:32:28.645204-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 11:51 PM](https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-29T23:51:30.327700-04:00.lighthouse.json) |
 | [September 29 at 10:58 AM](https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-29T10:58:18.454662-04:00.lighthouse.json) |
 | [September 28 at 11:41 PM](https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-28T23:40:56.545673-04:00.lighthouse.json) |
 | [September 28 at 11:02 AM](https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-28T11:02:25.728865-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 11:05 AM](https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-26T11:05:42.089436-04:00.lighthouse.json) |
 | [September 25 at 11:38 PM](https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-25T23:38:18.177599-04:00.lighthouse.json) |
 | [September 25 at 10:41 AM](https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-25T10:41:47.082112-04:00.lighthouse.json) |
-| [September 24 at 11:32 PM](https://archive.org/download/starnewsonline-2022/starnewsonline-2022-09-24T23:32:28.645204-04:00.lighthouse.json) |
 
 
 
