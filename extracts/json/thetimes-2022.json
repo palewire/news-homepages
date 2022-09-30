@@ -1,5 +1,5 @@
 {
-  "created": 1664510963,
+  "created": 1664530033,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/22/items/thetimes-2022",
@@ -24721,31 +24721,93 @@
       "format": "JSON"
     },
     {
+      "name": "thetimes-2022-09-30T04:54:07.684530+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thetimes-2022-09-30T04:54:07.684530+01:00.jpg",
+      "mtime": "1664512628",
+      "size": "10215",
+      "md5": "df20ea52d41dad323f4cdfbade9334ae",
+      "crc32": "4087c3a6",
+      "sha1": "74d47c588fda81f3cd9f3b96bd7fe2608b290e9b"
+    },
+    {
+      "name": "thetimes-2022-09-30T10:25:40.832221+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664529943",
+      "size": "50167",
+      "md5": "9bedaf9617fc8629fa579af1c1a870f4",
+      "crc32": "e105cfba",
+      "sha1": "6974a4881053222a83ebbc6a2fb5ea5f89e7139b",
+      "format": "JSON"
+    },
+    {
+      "name": "thetimes-2022-09-30T10:25:40.832221+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664529945",
+      "size": "115530",
+      "md5": "e13fe19a4ef450029904514de7036c02",
+      "crc32": "702a5cce",
+      "sha1": "05f94fab88ac95bcb7fec704bb619eae24f2520b",
+      "format": "JSON"
+    },
+    {
+      "name": "thetimes-2022-09-30T10:25:40.832221+01:00.jpg",
+      "source": "original",
+      "mtime": "1664529941",
+      "size": "335892",
+      "md5": "fe55328a287d80339ac032cfa7c27da3",
+      "crc32": "d881683a",
+      "sha1": "20286397725f6c3360e0d76a3cc5be83f8df2c2f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thetimes-2022-09-30T10:25:40.832221+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664529946",
+      "size": "1494",
+      "md5": "57fe06ac1985dc21736a0407b4c52a64",
+      "crc32": "4a210da1",
+      "sha1": "3fb37218cabe5bbde2fb249de0e3bf1d0d49fcb3",
+      "format": "JSON"
+    },
+    {
+      "name": "thetimes-2022-09-30T10:25:40.832221+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1664529948",
+      "size": "234",
+      "md5": "bf0e36143e32dad1f780e04dcbba41f7",
+      "crc32": "cea8fdab",
+      "sha1": "4e9b8f0499abef5e3ae757d91946242ec2113fbd",
+      "format": "JSON"
+    },
+    {
       "name": "thetimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d5b9c671043d9942cff689f29e5f94005968cebf",
-      "mtime": "1664510155",
-      "size": "503578",
-      "md5": "7d4fb3f67d9cbeeba39c0df8a0fdc39e",
-      "crc32": "5643e7d1",
-      "sha1": "291c179c1c027b89a1964487363d446e69e43a0b",
+      "btih": "55a1f913ee044edc36ccaa4542f9415b59a496fa",
+      "mtime": "1664530028",
+      "size": "504845",
+      "md5": "7b2dd60268486087f5f83a54c9e8bd9f",
+      "crc32": "553119b4",
+      "sha1": "e06977f4f64117fd5ddcdc13a2c1cd88bf4cca70",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thetimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0f396c1b47b3d20945a1cc2ea936ed85",
+      "md5": "2517023eab191b65e50ddda52e2d195b",
       "summation": "md5"
     },
     {
       "name": "thetimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664510082",
-      "size": "2850816",
-      "md5": "7a646b350625e34c782dd26a64d5dea8",
-      "crc32": "c6de34f8",
-      "sha1": "573ab145d7c369c447a20480fcc476e32f3ff797",
+      "mtime": "1664529953",
+      "size": "2859008",
+      "md5": "471d8594e046b2c65428b368c948cfe2",
+      "crc32": "8a5dc60b",
+      "sha1": "1a81be545affe85e7f93c7188f184140652f9917",
       "format": "Metadata"
     },
     {
@@ -24759,9 +24821,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2374,
-  "item_last_updated": 1664510155,
-  "item_size": 257872502,
+  "files_count": 2380,
+  "item_last_updated": 1664530028,
+  "item_size": 258395493,
   "metadata": {
     "identifier": "thetimes-2022",
     "collection": [
@@ -24783,7 +24845,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3422993167,
+      "task_id": 3423279137,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -24791,12 +24853,7 @@
       "status": "queued"
     }
   ],
-  "thetimes-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "uniq": 690268771,
+  "uniq": 1838011845,
   "workable_servers": [
     "ia902508.us.archive.org"
   ]
