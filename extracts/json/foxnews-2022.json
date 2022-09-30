@@ -1,5 +1,5 @@
 {
-  "created": 1664569454,
+  "created": 1664572809,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/14/items/foxnews-2022",
@@ -38397,21 +38397,32 @@
       "format": "JSON"
     },
     {
+      "name": "foxnews-2022-09-30T16:21:20.563773-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxnews-2022-09-30T16:21:20.563773-04:00.jpg",
+      "mtime": "1664571520",
+      "size": "11809",
+      "md5": "2f85c929df2c174e6b99a8252309c43e",
+      "crc32": "6b1f73d0",
+      "sha1": "9bd4b4e111d6e4a790c0f19e511a7c6a525a85a0"
+    },
+    {
       "name": "foxnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "59e05776251731f818ae5a20a2c9615c5207558c",
-      "mtime": "1664569445",
-      "size": "779800",
-      "md5": "58dd85c76294610cb3b4742241943603",
-      "crc32": "7ecf59dc",
-      "sha1": "40180b78d789b5711a9fbe774c805b0df1e4e3de",
+      "btih": "b0ed5bc237c2d19cd804136f4184e5abce338f33",
+      "mtime": "1664572671",
+      "size": "780004",
+      "md5": "2a350242e067fd3dcf02cd4c8e3bc5c1",
+      "crc32": "5d6ba023",
+      "sha1": "c682217e2c01e18d2bb729654bcaeab5900b1047",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foxnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bed87878d140a27a8795c0f91785d9b1",
+      "md5": "46fc7fad4e572bb6fef9e4413c09b593",
       "summation": "md5"
     },
     {
@@ -38435,9 +38446,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 3683,
-  "item_last_updated": 1664569445,
-  "item_size": 478393312,
+  "files_count": 3684,
+  "item_last_updated": 1664572671,
+  "item_size": 478405325,
   "metadata": {
     "identifier": "foxnews-2022",
     "collection": [
@@ -38462,12 +38473,52 @@
       "task_id": 3423820794,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3423861439,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3423861462,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3423861481,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3423861496,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3423861560,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 2084091394,
+  "uniq": 30172406,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

@@ -1,5 +1,6 @@
 {
-  "created": 1664554979,
+  "conflict": 1664572780,
+  "created": 1664572780,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/20/items/usatoday-2022",
@@ -29233,21 +29234,32 @@
       "format": "JSON"
     },
     {
+      "name": "usatoday-2022-09-30T12:20:29.923413-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "usatoday-2022-09-30T12:20:29.923413-04:00.jpg",
+      "mtime": "1664558477",
+      "size": "9358",
+      "md5": "ad5022de61618a1ded0d10510ef35437",
+      "crc32": "cf03c622",
+      "sha1": "32977939951485b61a3337c8b516cffcc5dd7410"
+    },
+    {
       "name": "usatoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3c27f2c70eb1476920c13ac74d9d3d4bd3414689",
-      "mtime": "1664554962",
-      "size": "592909",
-      "md5": "9ff04f8fd7bb4fdb7419301ce26b4e83",
-      "crc32": "8597dc08",
-      "sha1": "63fe22083fecd3dd793a138987d14acf7a7f07a1",
+      "btih": "0779d2578848bc6f0f72f53d0e00cfd6a4f1ad7b",
+      "mtime": "1664558908",
+      "size": "593113",
+      "md5": "0e355c0e1d69c73805815f754a04f2a2",
+      "crc32": "cd8325ac",
+      "sha1": "257249183b5484ed62f80ac9a61f1e2851d85cf9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "usatoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3096b44aff6a08fb400721591f76379f",
+      "md5": "67831fc9461436885782abe1febd0d62",
       "summation": "md5"
     },
     {
@@ -29271,9 +29283,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2809,
-  "item_last_updated": 1664554962,
-  "item_size": 250249217,
+  "files_count": 2810,
+  "item_last_updated": 1664558908,
+  "item_size": 250258779,
   "metadata": {
     "identifier": "usatoday-2022",
     "collection": [
@@ -29295,15 +29307,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3423637060,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "task_id": 3423860834,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 244136364,
+  "uniq": 2093466679,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]

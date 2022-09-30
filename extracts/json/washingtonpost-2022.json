@@ -1,5 +1,5 @@
 {
-  "created": 1664542785,
+  "created": 1664572859,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/25/items/washingtonpost-2022",
@@ -18511,31 +18511,155 @@
       "format": "JSON"
     },
     {
+      "name": "washingtonpost-2022-09-30T08:58:26.593920-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "washingtonpost-2022-09-30T08:58:26.593920-04:00.jpg",
+      "mtime": "1664545121",
+      "size": "8486",
+      "md5": "215b50f9cc878e5096340e179b640279",
+      "crc32": "f3065b0d",
+      "sha1": "1076150b11fc066a1b70690a4959857cef839f67"
+    },
+    {
+      "name": "washingtonpost-2022-09-30T15:54:39.324806-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664567683",
+      "size": "69421",
+      "md5": "fa146442fcf94eaea9c3e8c41a807437",
+      "crc32": "0d69567d",
+      "sha1": "6c9319040c966f665b4684a6eaa2e30c24a7f11c",
+      "format": "JSON"
+    },
+    {
+      "name": "washingtonpost-2022-09-30T15:54:39.324806-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664567685",
+      "size": "69916",
+      "md5": "0a1c523257ea7082c7e5bc48ca85de7e",
+      "crc32": "27655a5a",
+      "sha1": "aeffbd4315be9d7ad5141cec3dcc72e3befb9646",
+      "format": "JSON"
+    },
+    {
+      "name": "washingtonpost-2022-09-30T15:54:39.324806-04:00.jpg",
+      "source": "original",
+      "mtime": "1664567681",
+      "size": "240970",
+      "md5": "29657af245a6bad10a6d0f64fb709ad0",
+      "crc32": "b4cdf8f6",
+      "sha1": "efb5cc3ecd3696a2491e9589e1a4cafb259b636a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "washingtonpost-2022-09-30T15:54:39.324806-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664567687",
+      "size": "1525",
+      "md5": "999153932624de9aeb95e39579f72749",
+      "crc32": "8454e77d",
+      "sha1": "16658d2c5e3bfd6bf2cdec357c1631203b516a05",
+      "format": "JSON"
+    },
+    {
+      "name": "washingtonpost-2022-09-30T15:54:39.324806-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664567689",
+      "size": "246",
+      "md5": "9b1c459305d22be4f348d9b51f103735",
+      "crc32": "eb1ec439",
+      "sha1": "9d7e3a787ae71345fc6d3ce63418403441d1644a",
+      "format": "JSON"
+    },
+    {
+      "name": "washingtonpost-2022-09-30T15:54:39.324806-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "washingtonpost-2022-09-30T15:54:39.324806-04:00.jpg",
+      "mtime": "1664569940",
+      "size": "8408",
+      "md5": "759819a9e7ad78f63ef5fa0161376b3f",
+      "crc32": "d51209f3",
+      "sha1": "efd37d8b283ffaf37df2866b5dec4415f2a37c81"
+    },
+    {
+      "name": "washingtonpost-2022-09-30T17:19:37.102399-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664572779",
+      "size": "69095",
+      "md5": "8c0b77b7a6a5ad72f6302e775563d3da",
+      "crc32": "7cd24f30",
+      "sha1": "6b75d00e09f2d99b08a9dea8db4f1563730bccf9",
+      "format": "JSON"
+    },
+    {
+      "name": "washingtonpost-2022-09-30T17:19:37.102399-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664572781",
+      "size": "69250",
+      "md5": "51558c8a7d2f4d4cfc443a3f691cff0b",
+      "crc32": "2b2e3c64",
+      "sha1": "544321eee4027c6f93f740d1507c2ff1e54ed17a",
+      "format": "JSON"
+    },
+    {
+      "name": "washingtonpost-2022-09-30T17:19:37.102399-04:00.jpg",
+      "source": "original",
+      "mtime": "1664572778",
+      "size": "212241",
+      "md5": "56ad6452d014a6391b6e5bea1e50084a",
+      "crc32": "45c1d7e2",
+      "sha1": "d564b566eec1793a123c86897703e8c3920c80fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "washingtonpost-2022-09-30T17:19:37.102399-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664572782",
+      "size": "1528",
+      "md5": "36068cd7750b577870abe196aeb73b2d",
+      "crc32": "b8d41980",
+      "sha1": "e3b74ddaacb4ba26d7e5bbd1537e87fd07390ba1",
+      "format": "JSON"
+    },
+    {
+      "name": "washingtonpost-2022-09-30T17:19:37.102399-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664572784",
+      "size": "246",
+      "md5": "9b1c459305d22be4f348d9b51f103735",
+      "crc32": "eb1ec439",
+      "sha1": "9d7e3a787ae71345fc6d3ce63418403441d1644a",
+      "format": "JSON"
+    },
+    {
       "name": "washingtonpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b134e3c55b8b71f6de2872c48b2ebaa9128e016b",
-      "mtime": "1664542780",
-      "size": "387633",
-      "md5": "1e07e71f8d53d56824f83f80da681cb3",
-      "crc32": "d1a69c07",
-      "sha1": "d0aba18c0039903c566b83f2ffacfd46f5946f81",
+      "btih": "5d6be02b2044f7bc1163f49feb079e0bced86618",
+      "mtime": "1664572855",
+      "size": "390235",
+      "md5": "bc1419c2c270d55e64a276582feec32c",
+      "crc32": "d7bab846",
+      "sha1": "5506299a37ba5411517ec40b3f7aabd43dccc137",
       "format": "Archive BitTorrent"
     },
     {
       "name": "washingtonpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a905c4520288b94ecbcf60cda216c5ce",
+      "md5": "96b173a35706720be600ffc4e20ddd97",
       "summation": "md5"
     },
     {
       "name": "washingtonpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664542721",
-      "size": "2248704",
-      "md5": "a4d21818baf10c766b6e29af7763980e",
-      "crc32": "df95a6e8",
-      "sha1": "cde3d1c38fba555e4f569c3e9ed37382014e4b8d",
+      "mtime": "1664572790",
+      "size": "2265088",
+      "md5": "86b800ba8ace37deee2558757b33b4f8",
+      "crc32": "39f63a82",
+      "sha1": "802ce06909a0fd2415a50a489227b73649ad0f2f",
       "format": "Metadata"
     },
     {
@@ -18549,9 +18673,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1789,
-  "item_last_updated": 1664542780,
-  "item_size": 131391607,
+  "files_count": 1801,
+  "item_last_updated": 1664572855,
+  "item_size": 132161925,
   "metadata": {
     "identifier": "washingtonpost-2022",
     "collection": [
@@ -18573,7 +18697,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3423458686,
+      "task_id": 3423861821,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -18581,7 +18705,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 834829592,
+  "uniq": 1872406934,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]
