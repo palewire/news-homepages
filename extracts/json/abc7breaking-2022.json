@@ -1,5 +1,10 @@
 {
-  "created": 1664469127,
+  "abc7breaking-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1664524844,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/5/items/abc7breaking-2022",
@@ -8723,31 +8728,104 @@
       "format": "JSON"
     },
     {
+      "name": "abc7breaking-2022-09-29T10:05:20.452830-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "abc7breaking-2022-09-29T10:05:20.452830-06:00.jpg",
+      "mtime": "1664471421",
+      "size": "8486",
+      "md5": "cf3856eddb762a40b32676ab77749aa6",
+      "crc32": "f7a2e53f",
+      "sha1": "a4538d41284996672c07dba55735c332ff31be8d"
+    },
+    {
+      "name": "abc7breaking-2022-09-30T00:09:52.215588-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664518198",
+      "size": "20378",
+      "md5": "366473eea51a98b2f08a0d51d8a7898a",
+      "crc32": "66f4b5cf",
+      "sha1": "0e3dc21097441e775a743fa0d6fe8e8e5ee99d74",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7breaking-2022-09-30T00:09:52.215588-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664518199",
+      "size": "34268",
+      "md5": "eeccb9d049f9321701add64238a1d8e2",
+      "crc32": "c93abefe",
+      "sha1": "ad3356db87661e1dd1d6f57e3a8b82a75f2691dc",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7breaking-2022-09-30T00:09:52.215588-06:00.jpg",
+      "source": "original",
+      "mtime": "1664518196",
+      "size": "200515",
+      "md5": "7bb8bc6625cd5ac7bfe6991873a02858",
+      "crc32": "c735b64e",
+      "sha1": "f319d47569b90debc8fbeea10d598b389c3ced7c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "abc7breaking-2022-09-30T00:09:52.215588-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664518201",
+      "size": "1405",
+      "md5": "f6170f4ae2876c3dd05622288b95d036",
+      "crc32": "d1077415",
+      "sha1": "7beab1da27dda45f30b808caae603d9cabdf0fcb",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7breaking-2022-09-30T00:09:52.215588-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1664518203",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7breaking-2022-09-30T00:09:52.215588-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "abc7breaking-2022-09-30T00:09:52.215588-06:00.jpg",
+      "mtime": "1664520234",
+      "size": "9474",
+      "md5": "dc2c9f11598c88c576327abf39dffbe4",
+      "crc32": "cf989da0",
+      "sha1": "4772df38e5b2e57bcdd655156241025525386171"
+    },
+    {
       "name": "abc7breaking-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c5529ee7cfcaaf492857001b6b16d7af3fa2cbf3",
-      "mtime": "1664467601",
-      "size": "181454",
-      "md5": "f96c0651b2e5bfc43fdf0f75cdf9bd2b",
-      "crc32": "bafb2702",
-      "sha1": "1242f73fe06ed2c356899f000864651b77560625",
+      "btih": "91999f590ee9d342db5adf8b85a633837c88b304",
+      "mtime": "1664520255",
+      "size": "182951",
+      "md5": "f06696af9d2c24ee4d96f2bf2516e08e",
+      "crc32": "1f3a614f",
+      "sha1": "ffb5ae5cf0a60fef8441184427572c6657f3ba33",
       "format": "Archive BitTorrent"
     },
     {
       "name": "abc7breaking-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "30cd809d771f391e32ad618128f1e757",
+      "md5": "b290ab7aef57121132564b7998c0ec0b",
       "summation": "md5"
     },
     {
       "name": "abc7breaking-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664467546",
-      "size": "1077248",
-      "md5": "2c67911cbad5455d01592690c2116724",
-      "crc32": "db052775",
-      "sha1": "32338d209417bfe232931ae7cb4b24355e24caeb",
+      "mtime": "1664518208",
+      "size": "1085440",
+      "md5": "4f1dec5f4b7457134e251aa9a1d02885",
+      "crc32": "574c143f",
+      "sha1": "be7517384287313a9bf00e6ab590b96389accffa",
       "format": "Metadata"
     },
     {
@@ -8761,9 +8839,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 846,
-  "item_last_updated": 1664467601,
-  "item_size": 44678970,
+  "files_count": 853,
+  "item_last_updated": 1664520255,
+  "item_size": 44963387,
   "metadata": {
     "identifier": "abc7breaking-2022",
     "collection": [
@@ -8780,21 +8858,10 @@
     "publicdate": "2022-07-18 00:04:35",
     "addeddate": "2022-07-18 00:04:35"
   },
-  "pending_tasks": true,
-  "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3422420683,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 196632215,
+  "server": "ia801507.us.archive.org",
+  "uniq": 2022058169,
   "workable_servers": [
+    "ia801507.us.archive.org",
     "ia601507.us.archive.org"
   ]
 }

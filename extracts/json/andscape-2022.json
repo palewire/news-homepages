@@ -1,5 +1,5 @@
 {
-  "created": 1664469507,
+  "created": 1664521114,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/13/items/andscape-2022",
@@ -3792,31 +3792,61 @@
       "format": "JSON"
     },
     {
+      "name": "andscape-2022-09-30T02:09:49.124278-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664518197",
+      "size": "21137",
+      "md5": "b9469e748d2018c92401871f7a105bbf",
+      "crc32": "e53e711b",
+      "sha1": "f91cbcc8904a02fb36a54968bb49ae6a62fe7d51",
+      "format": "JSON"
+    },
+    {
+      "name": "andscape-2022-09-30T02:09:49.124278-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664518198",
+      "size": "1441",
+      "md5": "b25dea042fc6821e3b4afeb8e535b041",
+      "crc32": "c81dfed8",
+      "sha1": "88a7ed4af0946cfbf41a8474ee51c24627738c9c",
+      "format": "JSON"
+    },
+    {
+      "name": "andscape-2022-09-30T02:09:49.124278-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664518200",
+      "size": "48296",
+      "md5": "1f25f34506456511e8e7d812833f8048",
+      "crc32": "16ed634c",
+      "sha1": "f9aad38cc1e854b6ec40c79f6432674e1b3ac664",
+      "format": "JSON"
+    },
+    {
       "name": "andscape-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e0452a54deb0ad4ead5b50c24ffb4cafabcd40d6",
-      "mtime": "1664467573",
-      "size": "80390",
-      "md5": "ef8fc2402f0983a296ad05d05d4c2f0f",
-      "crc32": "7741dc12",
-      "sha1": "2ca081d3b85b0c1aec86d3985218903a70ee658e",
+      "btih": "e12ae5b61dd15c7df3f94da8e47865220113157d",
+      "mtime": "1664518239",
+      "size": "81039",
+      "md5": "08239d3c53f298eff482a5d4e83ccfcb",
+      "crc32": "b6736854",
+      "sha1": "54217178688b857cfe05503ad04edda42b6ebbac",
       "format": "Archive BitTorrent"
     },
     {
       "name": "andscape-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d0887b39cbc57ee3fb2f8129d27c1dab",
+      "md5": "1dc5f29ec60b96180179a88df42bb245",
       "summation": "md5"
     },
     {
       "name": "andscape-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664467538",
-      "size": "569344",
-      "md5": "3549b5a139ba873581fe6e42bb317b0a",
-      "crc32": "e8269b35",
-      "sha1": "bb4eb2b9224cb42c441f20665f7dd1a4a0cec598",
+      "mtime": "1664518204",
+      "size": "573440",
+      "md5": "b2767802d2565ab31e18a779d703511a",
+      "crc32": "cf93ea16",
+      "sha1": "218bcf408384d1ae233523f42097fa8553883712",
       "format": "Metadata"
     },
     {
@@ -3830,9 +3860,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 380,
-  "item_last_updated": 1664467573,
-  "item_size": 8952088,
+  "files_count": 383,
+  "item_last_updated": 1664518239,
+  "item_size": 9027707,
   "metadata": {
     "identifier": "andscape-2022",
     "collection": [
@@ -3849,21 +3879,10 @@
     "publicdate": "2022-08-03 01:51:08",
     "addeddate": "2022-08-03 01:51:08"
   },
-  "pending_tasks": true,
-  "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3422419779,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 842307177,
+  "server": "ia802500.us.archive.org",
+  "uniq": 2077549846,
   "workable_servers": [
+    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }
