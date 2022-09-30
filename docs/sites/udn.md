@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 113 screenshots with the Internet Archive.
+The archiving routine has saved 116 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/udn-2022/udn-2022-09-30T16:12:49.133942+08:00.jpg">
+  <img src="https://archive.org/download/udn-2022/udn-2022-09-30T16:12:49.133942+08:00.jpg"
+     alt="United Daily News at 2022-09-30 16:12:55+08:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/udn-2022/udn-2022-09-30T16:12:49.133942+08:00.jpg">September 30 at 4:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/udn-2022/udn-2022-09-30T03:02:37.702643+08:00.jpg">
+  <img src="https://archive.org/download/udn-2022/udn-2022-09-30T03:02:37.702643+08:00.jpg"
+     alt="United Daily News at 2022-09-30 03:02:39+08:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/udn-2022/udn-2022-09-30T03:02:37.702643+08:00.jpg">September 30 at 3:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/udn-2022/udn-2022-09-29T15:32:27.716265+08:00.jpg">
+  <img src="https://archive.org/download/udn-2022/udn-2022-09-29T15:32:27.716265+08:00.jpg"
+     alt="United Daily News at 2022-09-29 15:32:50+08:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/udn-2022/udn-2022-09-29T15:32:27.716265+08:00.jpg">September 29 at 3:32 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/udn-2022/udn-2022-09-29T03:09:24.900151+08:00.jpg">
   <img src="https://archive.org/download/udn-2022/udn-2022-09-29T03:09:24.900151+08:00.jpg"
      alt="United Daily News at 2022-09-29 03:09:37+08:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/udn-2022/udn-2022-09-25T02:39:48.136453+08:00.jpg">September 25 at 2:39 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/udn-2022/udn-2022-09-24T15:03:19.576447+08:00.jpg">
-  <img src="https://archive.org/download/udn-2022/udn-2022-09-24T15:03:19.576447+08:00.jpg"
-     alt="United Daily News at 2022-09-24 15:03:31+08:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/udn-2022/udn-2022-09-24T15:03:19.576447+08:00.jpg">September 24 at 3:03 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/udn-2022/udn-2022-09-24T03:20:35.847575+08:00.jpg">
-  <img src="https://archive.org/download/udn-2022/udn-2022-09-24T03:20:35.847575+08:00.jpg"
-     alt="United Daily News at 2022-09-24 03:20:39+08:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/udn-2022/udn-2022-09-24T03:20:35.847575+08:00.jpg">September 24 at 3:20 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/udn-2022/udn-2022-09-23T15:26:25.386973+08:00.jpg">
-  <img src="https://archive.org/download/udn-2022/udn-2022-09-23T15:26:25.386973+08:00.jpg"
-     alt="United Daily News at 2022-09-23 15:26:42+08:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/udn-2022/udn-2022-09-23T15:26:25.386973+08:00.jpg">September 23 at 3:26 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 113 hyperlink lists with the Internet Archive.
+The archiving routine has saved 116 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 4:12 PM](https://archive.org/download/udn-2022/udn-2022-09-30T16:12:49.133942+08:00.hyperlinks.json) |
+| [September 30 at 3:02 AM](https://archive.org/download/udn-2022/udn-2022-09-30T03:02:37.702643+08:00.hyperlinks.json) |
+| [September 29 at 3:32 PM](https://archive.org/download/udn-2022/udn-2022-09-29T15:32:27.716265+08:00.hyperlinks.json) |
 | [September 29 at 3:09 AM](https://archive.org/download/udn-2022/udn-2022-09-29T03:09:24.900151+08:00.hyperlinks.json) |
 | [September 28 at 3:56 PM](https://archive.org/download/udn-2022/udn-2022-09-28T15:56:38.379027+08:00.hyperlinks.json) |
 | [September 28 at 3:44 AM](https://archive.org/download/udn-2022/udn-2022-09-28T03:44:21.197686+08:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 3:13 AM](https://archive.org/download/udn-2022/udn-2022-09-27T03:12:59.575125+08:00.hyperlinks.json) |
 | [September 26 at 3:33 PM](https://archive.org/download/udn-2022/udn-2022-09-26T15:33:12.750700+08:00.hyperlinks.json) |
 | [September 26 at 2:48 AM](https://archive.org/download/udn-2022/udn-2022-09-26T02:48:29.287792+08:00.hyperlinks.json) |
-| [September 25 at 3:01 PM](https://archive.org/download/udn-2022/udn-2022-09-25T15:01:13.292098+08:00.hyperlinks.json) |
-| [September 25 at 2:39 AM](https://archive.org/download/udn-2022/udn-2022-09-25T02:39:48.136453+08:00.hyperlinks.json) |
-| [September 24 at 3:03 PM](https://archive.org/download/udn-2022/udn-2022-09-24T15:03:19.576447+08:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 114 accessibility trees with the Internet Archive.
+The archiving routine has saved 117 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 4:12 PM](https://archive.org/download/udn-2022/udn-2022-09-30T16:12:49.133942+08:00.accessibility.json) |
+| [September 30 at 3:02 AM](https://archive.org/download/udn-2022/udn-2022-09-30T03:02:37.702643+08:00.accessibility.json) |
+| [September 29 at 3:32 PM](https://archive.org/download/udn-2022/udn-2022-09-29T15:32:27.716265+08:00.accessibility.json) |
 | [September 29 at 3:09 AM](https://archive.org/download/udn-2022/udn-2022-09-29T03:09:24.900151+08:00.accessibility.json) |
 | [September 28 at 3:56 PM](https://archive.org/download/udn-2022/udn-2022-09-28T15:56:38.379027+08:00.accessibility.json) |
 | [September 28 at 3:44 AM](https://archive.org/download/udn-2022/udn-2022-09-28T03:44:21.197686+08:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 3:13 AM](https://archive.org/download/udn-2022/udn-2022-09-27T03:12:59.575125+08:00.accessibility.json) |
 | [September 26 at 3:33 PM](https://archive.org/download/udn-2022/udn-2022-09-26T15:33:12.750700+08:00.accessibility.json) |
 | [September 26 at 2:48 AM](https://archive.org/download/udn-2022/udn-2022-09-26T02:48:29.287792+08:00.accessibility.json) |
-| [September 25 at 3:01 PM](https://archive.org/download/udn-2022/udn-2022-09-25T15:01:13.292098+08:00.accessibility.json) |
-| [September 25 at 2:39 AM](https://archive.org/download/udn-2022/udn-2022-09-25T02:39:48.136453+08:00.accessibility.json) |
-| [September 24 at 3:03 PM](https://archive.org/download/udn-2022/udn-2022-09-24T15:03:19.576447+08:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 114 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 117 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 4:13 PM](https://archive.org/download/udn-2022/udn-2022-09-30T16:12:49.133942+08:00.lighthouse.json) |
+| [September 30 at 3:02 AM](https://archive.org/download/udn-2022/udn-2022-09-30T03:02:37.702643+08:00.lighthouse.json) |
+| [September 29 at 3:32 PM](https://archive.org/download/udn-2022/udn-2022-09-29T15:32:27.716265+08:00.lighthouse.json) |
 | [September 29 at 3:09 AM](https://archive.org/download/udn-2022/udn-2022-09-29T03:09:24.900151+08:00.lighthouse.json) |
 | [September 28 at 3:56 PM](https://archive.org/download/udn-2022/udn-2022-09-28T15:56:38.379027+08:00.lighthouse.json) |
 | [September 28 at 3:44 AM](https://archive.org/download/udn-2022/udn-2022-09-28T03:44:21.197686+08:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 3:13 AM](https://archive.org/download/udn-2022/udn-2022-09-27T03:12:59.575125+08:00.lighthouse.json) |
 | [September 26 at 3:33 PM](https://archive.org/download/udn-2022/udn-2022-09-26T15:33:12.750700+08:00.lighthouse.json) |
 | [September 26 at 2:48 AM](https://archive.org/download/udn-2022/udn-2022-09-26T02:48:29.287792+08:00.lighthouse.json) |
-| [September 25 at 3:01 PM](https://archive.org/download/udn-2022/udn-2022-09-25T15:01:13.292098+08:00.lighthouse.json) |
-| [September 25 at 2:39 AM](https://archive.org/download/udn-2022/udn-2022-09-25T02:39:48.136453+08:00.lighthouse.json) |
-| [September 24 at 3:03 PM](https://archive.org/download/udn-2022/udn-2022-09-24T15:03:19.576447+08:00.lighthouse.json) |
 
 
 

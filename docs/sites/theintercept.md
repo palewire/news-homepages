@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 294 screenshots with the Internet Archive.
+The archiving routine has saved 296 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/theintercept-2022/theintercept-2022-09-30T04:09:59.692973-04:00.jpg">
+  <img src="https://archive.org/download/theintercept-2022/theintercept-2022-09-30T04:09:59.692973-04:00.jpg"
+     alt="Intercept at 2022-09-30 04:10:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-09-30T04:09:59.692973-04:00.jpg">September 30 at 4:10 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theintercept-2022/theintercept-2022-09-29T15:36:41.772772-04:00.jpg">
+  <img src="https://archive.org/download/theintercept-2022/theintercept-2022-09-29T15:36:41.772772-04:00.jpg"
+     alt="Intercept at 2022-09-29 15:36:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-09-29T15:36:41.772772-04:00.jpg">September 29 at 3:36 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/theintercept-2022/theintercept-2022-09-29T15:00:02.668448-04:00.jpg">
   <img src="https://archive.org/download/theintercept-2022/theintercept-2022-09-29T15:00:02.668448-04:00.jpg"
      alt="Intercept at 2022-09-29 15:00:05-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-09-26T15:10:31.270129-04:00.jpg">September 26 at 3:10 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theintercept-2022/theintercept-2022-09-26T03:31:43.629661-04:00.jpg">
-  <img src="https://archive.org/download/theintercept-2022/theintercept-2022-09-26T03:31:43.629661-04:00.jpg"
-     alt="Intercept at 2022-09-26 03:31:45-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-09-26T03:31:43.629661-04:00.jpg">September 26 at 3:31 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theintercept-2022/theintercept-2022-09-25T15:05:44.264091-04:00.jpg">
-  <img src="https://archive.org/download/theintercept-2022/theintercept-2022-09-25T15:05:44.264091-04:00.jpg"
-     alt="Intercept at 2022-09-25 15:05:45-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-09-25T15:05:44.264091-04:00.jpg">September 25 at 3:05 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 296 hyperlink lists with the Internet Archive.
+The archiving routine has saved 298 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 4:10 AM](https://archive.org/download/theintercept-2022/theintercept-2022-09-30T04:09:59.692973-04:00.hyperlinks.json) |
+| [September 29 at 3:36 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-29T15:36:41.772772-04:00.hyperlinks.json) |
 | [September 29 at 3:00 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-29T15:00:02.668448-04:00.hyperlinks.json) |
 | [September 29 at 3:30 AM](https://archive.org/download/theintercept-2022/theintercept-2022-09-29T03:30:31.899388-04:00.hyperlinks.json) |
 | [September 28 at 3:46 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-28T15:46:14.475680-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 3:50 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-27T15:50:10.591803-04:00.hyperlinks.json) |
 | [September 27 at 3:42 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-27T15:42:30.822686-04:00.hyperlinks.json) |
 | [September 27 at 3:03 AM](https://archive.org/download/theintercept-2022/theintercept-2022-09-27T03:03:25.993552-04:00.hyperlinks.json) |
-| [September 26 at 3:49 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-26T15:49:46.304126-04:00.hyperlinks.json) |
-| [September 26 at 3:10 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-26T15:10:31.270129-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 296 accessibility trees with the Internet Archive.
+The archiving routine has saved 298 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 4:10 AM](https://archive.org/download/theintercept-2022/theintercept-2022-09-30T04:09:59.692973-04:00.accessibility.json) |
+| [September 29 at 3:36 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-29T15:36:41.772772-04:00.accessibility.json) |
 | [September 29 at 3:00 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-29T15:00:02.668448-04:00.accessibility.json) |
 | [September 29 at 3:30 AM](https://archive.org/download/theintercept-2022/theintercept-2022-09-29T03:30:31.899388-04:00.accessibility.json) |
 | [September 28 at 3:46 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-28T15:46:14.475680-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 3:50 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-27T15:50:10.591803-04:00.accessibility.json) |
 | [September 27 at 3:42 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-27T15:42:30.822686-04:00.accessibility.json) |
 | [September 27 at 3:03 AM](https://archive.org/download/theintercept-2022/theintercept-2022-09-27T03:03:25.993552-04:00.accessibility.json) |
-| [September 26 at 3:49 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-26T15:49:46.304126-04:00.accessibility.json) |
-| [September 26 at 3:10 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-26T15:10:31.270129-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 196 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 198 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 4:10 AM](https://archive.org/download/theintercept-2022/theintercept-2022-09-30T04:09:59.692973-04:00.lighthouse.json) |
+| [September 29 at 3:36 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-29T15:36:41.772772-04:00.lighthouse.json) |
 | [September 29 at 3:00 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-29T15:00:02.668448-04:00.lighthouse.json) |
 | [September 29 at 3:30 AM](https://archive.org/download/theintercept-2022/theintercept-2022-09-29T03:30:31.899388-04:00.lighthouse.json) |
 | [September 28 at 3:46 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-28T15:46:14.475680-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 3:50 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-27T15:50:10.591803-04:00.lighthouse.json) |
 | [September 27 at 3:42 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-27T15:42:30.822686-04:00.lighthouse.json) |
 | [September 27 at 3:03 AM](https://archive.org/download/theintercept-2022/theintercept-2022-09-27T03:03:25.993552-04:00.lighthouse.json) |
-| [September 26 at 3:49 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-26T15:49:46.304126-04:00.lighthouse.json) |
-| [September 26 at 3:10 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-26T15:10:31.270129-04:00.lighthouse.json) |
 
 
 

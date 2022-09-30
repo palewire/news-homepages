@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 128 screenshots with the Internet Archive.
+The archiving routine has saved 131 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/tb_times-2022/tb_times-2022-09-30T04:07:17.472467-04:00.jpg">
+  <img src="https://archive.org/download/tb_times-2022/tb_times-2022-09-30T04:07:17.472467-04:00.jpg"
+     alt="Tampa Bay Times at 2022-09-30 04:07:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-09-30T04:07:17.472467-04:00.jpg">September 30 at 4:07 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tb_times-2022/tb_times-2022-09-29T14:56:53.747504-04:00.jpg">
+  <img src="https://archive.org/download/tb_times-2022/tb_times-2022-09-29T14:56:53.747504-04:00.jpg"
+     alt="Tampa Bay Times at 2022-09-29 14:56:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-09-29T14:56:53.747504-04:00.jpg">September 29 at 2:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tb_times-2022/tb_times-2022-09-29T03:30:27.477303-04:00.jpg">
+  <img src="https://archive.org/download/tb_times-2022/tb_times-2022-09-29T03:30:27.477303-04:00.jpg"
+     alt="Tampa Bay Times at 2022-09-29 03:30:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-09-29T03:30:27.477303-04:00.jpg">September 29 at 3:30 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/tb_times-2022/tb_times-2022-09-28T15:04:10.657095-04:00.jpg">
   <img src="https://archive.org/download/tb_times-2022/tb_times-2022-09-28T15:04:10.657095-04:00.jpg"
      alt="Tampa Bay Times at 2022-09-28 15:04:20-04:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-09-24T14:37:10.260366-04:00.jpg">September 24 at 2:37 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/tb_times-2022/tb_times-2022-09-24T03:00:16.452248-04:00.jpg">
-  <img src="https://archive.org/download/tb_times-2022/tb_times-2022-09-24T03:00:16.452248-04:00.jpg"
-     alt="Tampa Bay Times at 2022-09-24 03:00:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-09-24T03:00:16.452248-04:00.jpg">September 24 at 3:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tb_times-2022/tb_times-2022-09-23T15:19:10.422409-04:00.jpg">
-  <img src="https://archive.org/download/tb_times-2022/tb_times-2022-09-23T15:19:10.422409-04:00.jpg"
-     alt="Tampa Bay Times at 2022-09-23 15:19:15-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-09-23T15:19:10.422409-04:00.jpg">September 23 at 3:19 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tb_times-2022/tb_times-2022-09-23T03:23:55.777324-04:00.jpg">
-  <img src="https://archive.org/download/tb_times-2022/tb_times-2022-09-23T03:23:55.777324-04:00.jpg"
-     alt="Tampa Bay Times at 2022-09-23 03:23:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-09-23T03:23:55.777324-04:00.jpg">September 23 at 3:23 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 128 hyperlink lists with the Internet Archive.
+The archiving routine has saved 131 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 4:07 AM](https://archive.org/download/tb_times-2022/tb_times-2022-09-30T04:07:17.472467-04:00.hyperlinks.json) |
+| [September 29 at 2:56 PM](https://archive.org/download/tb_times-2022/tb_times-2022-09-29T14:56:53.747504-04:00.hyperlinks.json) |
+| [September 29 at 3:30 AM](https://archive.org/download/tb_times-2022/tb_times-2022-09-29T03:30:27.477303-04:00.hyperlinks.json) |
 | [September 28 at 3:04 PM](https://archive.org/download/tb_times-2022/tb_times-2022-09-28T15:04:10.657095-04:00.hyperlinks.json) |
 | [September 28 at 3:54 AM](https://archive.org/download/tb_times-2022/tb_times-2022-09-28T03:54:06.464210-04:00.hyperlinks.json) |
 | [September 27 at 3:40 PM](https://archive.org/download/tb_times-2022/tb_times-2022-09-27T15:39:57.069091-04:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 3:08 PM](https://archive.org/download/tb_times-2022/tb_times-2022-09-26T15:08:30.220379-04:00.hyperlinks.json) |
 | [September 26 at 3:30 AM](https://archive.org/download/tb_times-2022/tb_times-2022-09-26T03:30:39.518084-04:00.hyperlinks.json) |
 | [September 25 at 2:45 PM](https://archive.org/download/tb_times-2022/tb_times-2022-09-25T14:45:26.123246-04:00.hyperlinks.json) |
-| [September 25 at 2:59 AM](https://archive.org/download/tb_times-2022/tb_times-2022-09-25T02:59:26.942426-04:00.hyperlinks.json) |
-| [September 24 at 2:37 PM](https://archive.org/download/tb_times-2022/tb_times-2022-09-24T14:37:10.260366-04:00.hyperlinks.json) |
-| [September 24 at 3:00 AM](https://archive.org/download/tb_times-2022/tb_times-2022-09-24T03:00:16.452248-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 129 accessibility trees with the Internet Archive.
+The archiving routine has saved 132 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 4:07 AM](https://archive.org/download/tb_times-2022/tb_times-2022-09-30T04:07:17.472467-04:00.accessibility.json) |
+| [September 29 at 2:56 PM](https://archive.org/download/tb_times-2022/tb_times-2022-09-29T14:56:53.747504-04:00.accessibility.json) |
+| [September 29 at 3:30 AM](https://archive.org/download/tb_times-2022/tb_times-2022-09-29T03:30:27.477303-04:00.accessibility.json) |
 | [September 28 at 3:04 PM](https://archive.org/download/tb_times-2022/tb_times-2022-09-28T15:04:10.657095-04:00.accessibility.json) |
 | [September 28 at 3:54 AM](https://archive.org/download/tb_times-2022/tb_times-2022-09-28T03:54:06.464210-04:00.accessibility.json) |
 | [September 27 at 3:40 PM](https://archive.org/download/tb_times-2022/tb_times-2022-09-27T15:39:57.069091-04:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 3:08 PM](https://archive.org/download/tb_times-2022/tb_times-2022-09-26T15:08:30.220379-04:00.accessibility.json) |
 | [September 26 at 3:30 AM](https://archive.org/download/tb_times-2022/tb_times-2022-09-26T03:30:39.518084-04:00.accessibility.json) |
 | [September 25 at 2:45 PM](https://archive.org/download/tb_times-2022/tb_times-2022-09-25T14:45:26.123246-04:00.accessibility.json) |
-| [September 25 at 2:59 AM](https://archive.org/download/tb_times-2022/tb_times-2022-09-25T02:59:26.942426-04:00.accessibility.json) |
-| [September 24 at 2:37 PM](https://archive.org/download/tb_times-2022/tb_times-2022-09-24T14:37:10.260366-04:00.accessibility.json) |
-| [September 24 at 3:00 AM](https://archive.org/download/tb_times-2022/tb_times-2022-09-24T03:00:16.452248-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 129 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 4:07 AM](https://archive.org/download/tb_times-2022/tb_times-2022-09-30T04:07:17.472467-04:00.lighthouse.json) |
+| [September 29 at 2:57 PM](https://archive.org/download/tb_times-2022/tb_times-2022-09-29T14:56:53.747504-04:00.lighthouse.json) |
+| [September 29 at 3:30 AM](https://archive.org/download/tb_times-2022/tb_times-2022-09-29T03:30:27.477303-04:00.lighthouse.json) |
 | [September 28 at 3:04 PM](https://archive.org/download/tb_times-2022/tb_times-2022-09-28T15:04:10.657095-04:00.lighthouse.json) |
 | [September 28 at 3:54 AM](https://archive.org/download/tb_times-2022/tb_times-2022-09-28T03:54:06.464210-04:00.lighthouse.json) |
 | [September 27 at 3:40 PM](https://archive.org/download/tb_times-2022/tb_times-2022-09-27T15:39:57.069091-04:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 3:08 PM](https://archive.org/download/tb_times-2022/tb_times-2022-09-26T15:08:30.220379-04:00.lighthouse.json) |
 | [September 26 at 3:30 AM](https://archive.org/download/tb_times-2022/tb_times-2022-09-26T03:30:39.518084-04:00.lighthouse.json) |
 | [September 25 at 2:45 PM](https://archive.org/download/tb_times-2022/tb_times-2022-09-25T14:45:26.123246-04:00.lighthouse.json) |
-| [September 25 at 2:59 AM](https://archive.org/download/tb_times-2022/tb_times-2022-09-25T02:59:26.942426-04:00.lighthouse.json) |
-| [September 24 at 2:37 PM](https://archive.org/download/tb_times-2022/tb_times-2022-09-24T14:37:10.260366-04:00.lighthouse.json) |
-| [September 24 at 3:00 AM](https://archive.org/download/tb_times-2022/tb_times-2022-09-24T03:00:16.452248-04:00.lighthouse.json) |
 
 
 

@@ -234,13 +234,40 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 17 screenshots with the Internet Archive.
+The archiving routine has saved 20 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-30T03:07:17.557873-05:00.jpg">
+  <img src="https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-30T03:07:17.557873-05:00.jpg"
+     alt="Springfield News-Leader at 2022-09-30 03:07:22-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-30T03:07:17.557873-05:00.jpg">September 30 at 3:07 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-29T13:58:08.847897-05:00.jpg">
+  <img src="https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-29T13:58:08.847897-05:00.jpg"
+     alt="Springfield News-Leader at 2022-09-29 13:58:13-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-29T13:58:08.847897-05:00.jpg">September 29 at 1:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-29T02:28:55.385182-05:00.jpg">
+  <img src="https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-29T02:28:55.385182-05:00.jpg"
+     alt="Springfield News-Leader at 2022-09-29 02:28:56-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-29T02:28:55.385182-05:00.jpg">September 29 at 2:28 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-28T14:03:48.298966-05:00.jpg">
@@ -323,38 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-24T13:37:29.421896-05:00.jpg">September 24 at 1:37 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-24T02:00:29.443551-05:00.jpg">
-  <img src="https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-24T02:00:29.443551-05:00.jpg"
-     alt="Springfield News-Leader at 2022-09-24 02:00:32-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-24T02:00:29.443551-05:00.jpg">September 24 at 2:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-23T14:17:59.370103-05:00.jpg">
-  <img src="https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-23T14:17:59.370103-05:00.jpg"
-     alt="Springfield News-Leader at 2022-09-23 14:18:00-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-23T14:17:59.370103-05:00.jpg">September 23 at 2:18 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-23T02:23:01.847568-05:00.jpg">
-  <img src="https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-23T02:23:01.847568-05:00.jpg"
-     alt="Springfield News-Leader at 2022-09-23 02:23:04-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-23T02:23:01.847568-05:00.jpg">September 23 at 2:23 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 20 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 3:07 AM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-30T03:07:17.557873-05:00.hyperlinks.json) |
+| [September 29 at 1:58 PM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-29T13:58:08.847897-05:00.hyperlinks.json) |
+| [September 29 at 2:28 AM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-29T02:28:55.385182-05:00.hyperlinks.json) |
 | [September 28 at 2:03 PM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-28T14:03:48.298966-05:00.hyperlinks.json) |
 | [September 28 at 2:51 AM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-28T02:51:32.643550-05:00.hyperlinks.json) |
 | [September 27 at 2:40 PM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-27T14:40:14.330284-05:00.hyperlinks.json) |
@@ -369,14 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 2:06 PM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-26T14:06:52.308701-05:00.hyperlinks.json) |
 | [September 26 at 2:28 AM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-26T02:28:17.584129-05:00.hyperlinks.json) |
 | [September 25 at 1:45 PM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-25T13:45:17.160755-05:00.hyperlinks.json) |
-| [September 25 at 1:58 AM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-25T01:58:33.446928-05:00.hyperlinks.json) |
-| [September 24 at 1:37 PM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-24T13:37:29.421896-05:00.hyperlinks.json) |
-| [September 24 at 2:00 AM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-24T02:00:29.443551-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 17 accessibility trees with the Internet Archive.
+The archiving routine has saved 20 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 3:07 AM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-30T03:07:17.557873-05:00.accessibility.json) |
+| [September 29 at 1:58 PM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-29T13:58:08.847897-05:00.accessibility.json) |
+| [September 29 at 2:28 AM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-29T02:28:55.385182-05:00.accessibility.json) |
 | [September 28 at 2:03 PM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-28T14:03:48.298966-05:00.accessibility.json) |
 | [September 28 at 2:51 AM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-28T02:51:32.643550-05:00.accessibility.json) |
 | [September 27 at 2:40 PM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-27T14:40:14.330284-05:00.accessibility.json) |
@@ -391,15 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 2:06 PM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-26T14:06:52.308701-05:00.accessibility.json) |
 | [September 26 at 2:28 AM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-26T02:28:17.584129-05:00.accessibility.json) |
 | [September 25 at 1:45 PM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-25T13:45:17.160755-05:00.accessibility.json) |
-| [September 25 at 1:58 AM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-25T01:58:33.446928-05:00.accessibility.json) |
-| [September 24 at 1:37 PM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-24T13:37:29.421896-05:00.accessibility.json) |
-| [September 24 at 2:00 AM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-24T02:00:29.443551-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 3:07 AM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-30T03:07:17.557873-05:00.lighthouse.json) |
+| [September 29 at 1:58 PM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-29T13:58:08.847897-05:00.lighthouse.json) |
+| [September 29 at 2:29 AM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-29T02:28:55.385182-05:00.lighthouse.json) |
 | [September 28 at 2:03 PM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-28T14:03:48.298966-05:00.lighthouse.json) |
 | [September 28 at 2:51 AM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-28T02:51:32.643550-05:00.lighthouse.json) |
 | [September 27 at 2:40 PM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-27T14:40:14.330284-05:00.lighthouse.json) |
@@ -414,9 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 2:07 PM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-26T14:06:52.308701-05:00.lighthouse.json) |
 | [September 26 at 2:28 AM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-26T02:28:17.584129-05:00.lighthouse.json) |
 | [September 25 at 1:45 PM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-25T13:45:17.160755-05:00.lighthouse.json) |
-| [September 25 at 1:58 AM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-25T01:58:33.446928-05:00.lighthouse.json) |
-| [September 24 at 1:37 PM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-24T13:37:29.421896-05:00.lighthouse.json) |
-| [September 24 at 2:00 AM](https://archive.org/download/springfieldnl-2022/springfieldnl-2022-09-24T02:00:29.443551-05:00.lighthouse.json) |
 
 
 

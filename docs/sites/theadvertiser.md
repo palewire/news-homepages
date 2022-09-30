@@ -234,13 +234,40 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 17 screenshots with the Internet Archive.
+The archiving routine has saved 20 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-30T03:10:03.650505-05:00.jpg">
+  <img src="https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-30T03:10:03.650505-05:00.jpg"
+     alt="Lafayette Daily Advertiser at 2022-09-30 03:10:08-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-30T03:10:03.650505-05:00.jpg">September 30 at 3:10 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-29T13:57:04.986159-05:00.jpg">
+  <img src="https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-29T13:57:04.986159-05:00.jpg"
+     alt="Lafayette Daily Advertiser at 2022-09-29 13:57:09-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-29T13:57:04.986159-05:00.jpg">September 29 at 1:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-29T02:30:48.688507-05:00.jpg">
+  <img src="https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-29T02:30:48.688507-05:00.jpg"
+     alt="Lafayette Daily Advertiser at 2022-09-29 02:30:49-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-29T02:30:48.688507-05:00.jpg">September 29 at 2:30 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-28T14:06:54.995722-05:00.jpg">
@@ -323,38 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-24T13:38:03.465993-05:00.jpg">September 24 at 1:38 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-24T02:00:14.275031-05:00.jpg">
-  <img src="https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-24T02:00:14.275031-05:00.jpg"
-     alt="Lafayette Daily Advertiser at 2022-09-24 02:00:16-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-24T02:00:14.275031-05:00.jpg">September 24 at 2:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-23T14:17:32.110340-05:00.jpg">
-  <img src="https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-23T14:17:32.110340-05:00.jpg"
-     alt="Lafayette Daily Advertiser at 2022-09-23 14:17:33-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-23T14:17:32.110340-05:00.jpg">September 23 at 2:17 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-23T02:25:01.560309-05:00.jpg">
-  <img src="https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-23T02:25:01.560309-05:00.jpg"
-     alt="Lafayette Daily Advertiser at 2022-09-23 02:25:02-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-23T02:25:01.560309-05:00.jpg">September 23 at 2:25 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 20 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 3:10 AM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-30T03:10:03.650505-05:00.hyperlinks.json) |
+| [September 29 at 1:57 PM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-29T13:57:04.986159-05:00.hyperlinks.json) |
+| [September 29 at 2:30 AM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-29T02:30:48.688507-05:00.hyperlinks.json) |
 | [September 28 at 2:07 PM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-28T14:06:54.995722-05:00.hyperlinks.json) |
 | [September 28 at 2:54 AM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-28T02:54:06.631065-05:00.hyperlinks.json) |
 | [September 27 at 2:40 PM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-27T14:39:57.474064-05:00.hyperlinks.json) |
@@ -369,14 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 2:08 PM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-26T14:08:38.504351-05:00.hyperlinks.json) |
 | [September 26 at 2:30 AM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-26T02:30:34.222355-05:00.hyperlinks.json) |
 | [September 25 at 1:45 PM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-25T13:45:32.302605-05:00.hyperlinks.json) |
-| [September 25 at 1:59 AM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-25T01:59:05.039389-05:00.hyperlinks.json) |
-| [September 24 at 1:38 PM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-24T13:38:03.465993-05:00.hyperlinks.json) |
-| [September 24 at 2:00 AM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-24T02:00:14.275031-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 17 accessibility trees with the Internet Archive.
+The archiving routine has saved 20 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 3:10 AM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-30T03:10:03.650505-05:00.accessibility.json) |
+| [September 29 at 1:57 PM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-29T13:57:04.986159-05:00.accessibility.json) |
+| [September 29 at 2:30 AM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-29T02:30:48.688507-05:00.accessibility.json) |
 | [September 28 at 2:06 PM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-28T14:06:54.995722-05:00.accessibility.json) |
 | [September 28 at 2:54 AM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-28T02:54:06.631065-05:00.accessibility.json) |
 | [September 27 at 2:40 PM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-27T14:39:57.474064-05:00.accessibility.json) |
@@ -391,15 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 2:08 PM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-26T14:08:38.504351-05:00.accessibility.json) |
 | [September 26 at 2:30 AM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-26T02:30:34.222355-05:00.accessibility.json) |
 | [September 25 at 1:45 PM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-25T13:45:32.302605-05:00.accessibility.json) |
-| [September 25 at 1:59 AM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-25T01:59:05.039389-05:00.accessibility.json) |
-| [September 24 at 1:38 PM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-24T13:38:03.465993-05:00.accessibility.json) |
-| [September 24 at 2:00 AM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-24T02:00:14.275031-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 3:10 AM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-30T03:10:03.650505-05:00.lighthouse.json) |
+| [September 29 at 1:57 PM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-29T13:57:04.986159-05:00.lighthouse.json) |
+| [September 29 at 2:30 AM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-29T02:30:48.688507-05:00.lighthouse.json) |
 | [September 28 at 2:07 PM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-28T14:06:54.995722-05:00.lighthouse.json) |
 | [September 28 at 2:54 AM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-28T02:54:06.631065-05:00.lighthouse.json) |
 | [September 27 at 2:40 PM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-27T14:39:57.474064-05:00.lighthouse.json) |
@@ -414,9 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 2:08 PM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-26T14:08:38.504351-05:00.lighthouse.json) |
 | [September 26 at 2:30 AM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-26T02:30:34.222355-05:00.lighthouse.json) |
 | [September 25 at 1:45 PM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-25T13:45:32.302605-05:00.lighthouse.json) |
-| [September 25 at 1:59 AM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-25T01:59:05.039389-05:00.lighthouse.json) |
-| [September 24 at 1:38 PM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-24T13:38:03.465993-05:00.lighthouse.json) |
-| [September 24 at 2:00 AM](https://archive.org/download/theadvertiser-2022/theadvertiser-2022-09-24T02:00:14.275031-05:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 72 screenshots with the Internet Archive.
+The archiving routine has saved 75 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-30T10:12:41.091384+02:00.jpg">
+  <img src="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-30T10:12:41.091384+02:00.jpg"
+     alt="Vrye Weekblad at 2022-09-30 10:12:47+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-30T10:12:41.091384+02:00.jpg">September 30 at 10:12 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-29T21:02:22.392070+02:00.jpg">
+  <img src="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-29T21:02:22.392070+02:00.jpg"
+     alt="Vrye Weekblad at 2022-09-29 21:02:24+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-29T21:02:22.392070+02:00.jpg">September 29 at 9:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-29T09:34:47.295658+02:00.jpg">
+  <img src="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-29T09:34:47.295658+02:00.jpg"
+     alt="Vrye Weekblad at 2022-09-29 09:34:48+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-29T09:34:47.295658+02:00.jpg">September 29 at 9:34 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-28T21:09:25.357176+02:00.jpg">
   <img src="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-28T21:09:25.357176+02:00.jpg"
      alt="Vrye Weekblad at 2022-09-28 21:09:27+02:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-24T20:41:15.557816+02:00.jpg">September 24 at 8:41 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-24T09:03:20.694007+02:00.jpg">
-  <img src="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-24T09:03:20.694007+02:00.jpg"
-     alt="Vrye Weekblad at 2022-09-24 09:03:31+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-24T09:03:20.694007+02:00.jpg">September 24 at 9:03 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-23T21:22:07.397388+02:00.jpg">
-  <img src="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-23T21:22:07.397388+02:00.jpg"
-     alt="Vrye Weekblad at 2022-09-23 21:22:08+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-23T21:22:07.397388+02:00.jpg">September 23 at 9:22 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-23T09:28:22.948036+02:00.jpg">
-  <img src="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-23T09:28:22.948036+02:00.jpg"
-     alt="Vrye Weekblad at 2022-09-23 09:28:26+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-23T09:28:22.948036+02:00.jpg">September 23 at 9:28 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 73 hyperlink lists with the Internet Archive.
+The archiving routine has saved 76 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 10:12 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-30T10:12:41.091384+02:00.hyperlinks.json) |
+| [September 29 at 9:02 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-29T21:02:22.392070+02:00.hyperlinks.json) |
+| [September 29 at 9:34 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-29T09:34:47.295658+02:00.hyperlinks.json) |
 | [September 28 at 9:09 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-28T21:09:25.357176+02:00.hyperlinks.json) |
 | [September 28 at 9:56 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-28T09:56:23.496907+02:00.hyperlinks.json) |
 | [September 27 at 9:45 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-27T21:45:02.931058+02:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 9:12 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-26T21:12:26.454830+02:00.hyperlinks.json) |
 | [September 26 at 9:34 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-26T09:34:34.178396+02:00.hyperlinks.json) |
 | [September 25 at 8:49 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-25T20:48:55.962396+02:00.hyperlinks.json) |
-| [September 25 at 9:01 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-25T09:01:30.358334+02:00.hyperlinks.json) |
-| [September 24 at 8:41 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-24T20:41:15.557816+02:00.hyperlinks.json) |
-| [September 24 at 9:03 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-24T09:03:20.694007+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 73 accessibility trees with the Internet Archive.
+The archiving routine has saved 76 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 10:12 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-30T10:12:41.091384+02:00.accessibility.json) |
+| [September 29 at 9:02 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-29T21:02:22.392070+02:00.accessibility.json) |
+| [September 29 at 9:34 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-29T09:34:47.295658+02:00.accessibility.json) |
 | [September 28 at 9:09 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-28T21:09:25.357176+02:00.accessibility.json) |
 | [September 28 at 9:56 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-28T09:56:23.496907+02:00.accessibility.json) |
 | [September 27 at 9:45 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-27T21:45:02.931058+02:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 9:12 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-26T21:12:26.454830+02:00.accessibility.json) |
 | [September 26 at 9:34 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-26T09:34:34.178396+02:00.accessibility.json) |
 | [September 25 at 8:49 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-25T20:48:55.962396+02:00.accessibility.json) |
-| [September 25 at 9:01 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-25T09:01:30.358334+02:00.accessibility.json) |
-| [September 24 at 8:41 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-24T20:41:15.557816+02:00.accessibility.json) |
-| [September 24 at 9:03 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-24T09:03:20.694007+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 71 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 74 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 10:12 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-30T10:12:41.091384+02:00.lighthouse.json) |
+| [September 29 at 9:02 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-29T21:02:22.392070+02:00.lighthouse.json) |
+| [September 29 at 9:34 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-29T09:34:47.295658+02:00.lighthouse.json) |
 | [September 28 at 9:09 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-28T21:09:25.357176+02:00.lighthouse.json) |
 | [September 28 at 9:56 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-28T09:56:23.496907+02:00.lighthouse.json) |
 | [September 27 at 9:45 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-27T21:45:02.931058+02:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 9:12 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-26T21:12:26.454830+02:00.lighthouse.json) |
 | [September 26 at 9:34 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-26T09:34:34.178396+02:00.lighthouse.json) |
 | [September 25 at 8:49 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-25T20:48:55.962396+02:00.lighthouse.json) |
-| [September 25 at 9:01 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-25T09:01:30.358334+02:00.lighthouse.json) |
-| [September 24 at 8:41 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-24T20:41:15.557816+02:00.lighthouse.json) |
-| [September 24 at 9:03 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-24T09:03:20.694007+02:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 159 screenshots with the Internet Archive.
+The archiving routine has saved 161 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-30T05:12:55.102174-03:00.jpg">
+  <img src="https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-30T05:12:55.102174-03:00.jpg"
+     alt="Valor Econômico at 2022-09-30 05:13:00-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-30T05:12:55.102174-03:00.jpg">September 30 at 5:13 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-29T16:02:15.848274-03:00.jpg">
+  <img src="https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-29T16:02:15.848274-03:00.jpg"
+     alt="Valor Econômico at 2022-09-29 16:02:23-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-29T16:02:15.848274-03:00.jpg">September 29 at 4:02 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-29T09:02:21.858079-03:00.jpg">
   <img src="https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-29T09:02:21.858079-03:00.jpg"
      alt="Valor Econômico at 2022-09-29 09:02:23-03:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-26T09:06:43.242935-03:00.jpg">September 26 at 9:06 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-26T04:32:27.074057-03:00.jpg">
-  <img src="https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-26T04:32:27.074057-03:00.jpg"
-     alt="Valor Econômico at 2022-09-26 04:32:56-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-26T04:32:27.074057-03:00.jpg">September 26 at 4:32 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-25T15:48:14.145877-03:00.jpg">
-  <img src="https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-25T15:48:14.145877-03:00.jpg"
-     alt="Valor Econômico at 2022-09-25 15:48:22-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-25T15:48:14.145877-03:00.jpg">September 25 at 3:48 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 159 hyperlink lists with the Internet Archive.
+The archiving routine has saved 161 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 5:13 AM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-30T05:12:55.102174-03:00.hyperlinks.json) |
+| [September 29 at 4:02 PM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-29T16:02:15.848274-03:00.hyperlinks.json) |
 | [September 29 at 9:02 AM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-29T09:02:21.858079-03:00.hyperlinks.json) |
 | [September 29 at 4:32 AM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-29T04:32:15.664124-03:00.hyperlinks.json) |
 | [September 28 at 4:10 PM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-28T16:09:35.085259-03:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 4:43 PM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-27T16:43:21.996281-03:00.hyperlinks.json) |
 | [September 27 at 8:59 AM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-27T08:59:02.588958-03:00.hyperlinks.json) |
 | [September 27 at 4:05 AM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-27T04:05:02.796959-03:00.hyperlinks.json) |
-| [September 26 at 4:13 PM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-26T16:13:33.535896-03:00.hyperlinks.json) |
-| [September 26 at 9:06 AM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-26T09:06:43.242935-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 158 accessibility trees with the Internet Archive.
+The archiving routine has saved 160 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 5:13 AM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-30T05:12:55.102174-03:00.accessibility.json) |
+| [September 29 at 4:02 PM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-29T16:02:15.848274-03:00.accessibility.json) |
 | [September 29 at 9:02 AM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-29T09:02:21.858079-03:00.accessibility.json) |
 | [September 29 at 4:32 AM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-29T04:32:15.664124-03:00.accessibility.json) |
 | [September 28 at 4:10 PM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-28T16:09:35.085259-03:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 4:43 PM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-27T16:43:21.996281-03:00.accessibility.json) |
 | [September 27 at 8:59 AM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-27T08:59:02.588958-03:00.accessibility.json) |
 | [September 27 at 4:05 AM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-27T04:05:02.796959-03:00.accessibility.json) |
-| [September 26 at 4:13 PM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-26T16:13:33.535896-03:00.accessibility.json) |
-| [September 26 at 9:06 AM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-26T09:06:43.242935-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 160 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 162 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 5:13 AM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-30T05:12:55.102174-03:00.lighthouse.json) |
+| [September 29 at 4:02 PM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-29T16:02:15.848274-03:00.lighthouse.json) |
 | [September 29 at 9:02 AM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-29T09:02:21.858079-03:00.lighthouse.json) |
 | [September 29 at 4:32 AM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-29T04:32:15.664124-03:00.lighthouse.json) |
 | [September 28 at 4:10 PM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-28T16:09:35.085259-03:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 4:43 PM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-27T16:43:21.996281-03:00.lighthouse.json) |
 | [September 27 at 8:59 AM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-27T08:59:02.588958-03:00.lighthouse.json) |
 | [September 27 at 4:05 AM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-27T04:05:02.796959-03:00.lighthouse.json) |
-| [September 26 at 4:13 PM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-26T16:13:33.535896-03:00.lighthouse.json) |
-| [September 26 at 9:06 AM](https://archive.org/download/valoreconomico-2022/valoreconomico-2022-09-26T09:06:43.242935-03:00.lighthouse.json) |
 
 
 
