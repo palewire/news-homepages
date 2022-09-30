@@ -1,5 +1,5 @@
 {
-  "created": 1664555243,
+  "created": 1664559019,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/25/items/theperrychief-2022",
@@ -1555,21 +1555,32 @@
       "format": "JSON"
     },
     {
+      "name": "theperrychief-2022-09-30T11:22:55.868115-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theperrychief-2022-09-30T11:22:55.868115-05:00.jpg",
+      "mtime": "1664558999",
+      "size": "9236",
+      "md5": "18750716ff887d2237b3ead9933d2adb",
+      "crc32": "d2959208",
+      "sha1": "3189efbe7b5c802cf7d92421df40521cfc508123"
+    },
+    {
       "name": "theperrychief-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8bb4fc6012f5240cd8697a7b72646e9287b414d5",
-      "mtime": "1664555233",
-      "size": "33766",
-      "md5": "d64ccde77628c2c490ee81dffaa81a87",
-      "crc32": "b992b11d",
-      "sha1": "a19be7e448abb59760020c1b7d51f1d13693b0cb",
+      "btih": "7af6cbb400db77a95320bd985c5b17b7021424f5",
+      "mtime": "1664559003",
+      "size": "33975",
+      "md5": "2302335f3473ab68147a788ee761b3e7",
+      "crc32": "344a4d20",
+      "sha1": "efa441081af64765dfa77d8c2987878a6db81933",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theperrychief-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "71ba145741b03d8b79d76b08fc0bef50",
+      "md5": "fe4e0f29cdaccb9a661f774c56830fc7",
       "summation": "md5"
     },
     {
@@ -1593,9 +1604,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 154,
-  "item_last_updated": 1664555233,
-  "item_size": 10376099,
+  "files_count": 155,
+  "item_last_updated": 1664559003,
+  "item_size": 10385544,
   "metadata": {
     "identifier": "theperrychief-2022",
     "collection": [
@@ -1612,21 +1623,10 @@
     "publicdate": "2022-09-21 03:45:08",
     "addeddate": "2022-09-21 03:45:08"
   },
-  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3423639823,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1868213425,
+  "uniq": 1794139847,
   "workable_servers": [
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

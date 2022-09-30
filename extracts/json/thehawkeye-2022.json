@@ -1,5 +1,5 @@
 {
-  "created": 1664555212,
+  "created": 1664560964,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/33/items/thehawkeye-2022",
@@ -1555,21 +1555,32 @@
       "format": "JSON"
     },
     {
+      "name": "thehawkeye-2022-09-30T11:22:58.122057-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thehawkeye-2022-09-30T11:22:58.122057-05:00.jpg",
+      "mtime": "1664560634",
+      "size": "9327",
+      "md5": "e47d71ef2c48f8d50e830337843f580c",
+      "crc32": "923948b5",
+      "sha1": "a8bff3b0b0f7e7a10e986c9e577a5dd94547e79c"
+    },
+    {
       "name": "thehawkeye-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ea87a5d16dce9d5fe860f01cb881714c529beabd",
-      "mtime": "1664555198",
-      "size": "33291",
-      "md5": "db67f3d0797d8a24dd8be4ced940e581",
-      "crc32": "a7a2d833",
-      "sha1": "552211e9bc78a445ace341982a0aa4ebd742c0fc",
+      "btih": "d449732bc6a1c848eaece8c38ee3d00c3acd1885",
+      "mtime": "1664560655",
+      "size": "33497",
+      "md5": "f32a8396dce99d267e75cd0a3d2a3f6e",
+      "crc32": "f2f15b65",
+      "sha1": "436743d497286dbd61cd44f321b770c5f7f965f3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thehawkeye-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "082c7987674799314d415530404a1536",
+      "md5": "c839280889a6b21e421ce4e339f1c0a8",
       "summation": "md5"
     },
     {
@@ -1593,9 +1604,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 154,
-  "item_last_updated": 1664555198,
-  "item_size": 10046036,
+  "files_count": 155,
+  "item_last_updated": 1664560655,
+  "item_size": 10055569,
   "metadata": {
     "identifier": "thehawkeye-2022",
     "collection": [
@@ -1612,21 +1623,10 @@
     "publicdate": "2022-09-21 03:44:47",
     "addeddate": "2022-09-21 03:44:47"
   },
-  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3423639441,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1631527325,
+  "uniq": 1292569359,
   "workable_servers": [
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }
