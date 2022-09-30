@@ -234,13 +234,40 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 18 screenshots with the Internet Archive.
+The archiving routine has saved 21 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-30T14:18:15.229291-04:00.jpg">
+  <img src="https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-30T14:18:15.229291-04:00.jpg"
+     alt="The Dispatch at 2022-09-30 14:18:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-30T14:18:15.229291-04:00.jpg">September 30 at 2:18 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-30T02:23:40.027428-04:00.jpg">
+  <img src="https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-30T02:23:40.027428-04:00.jpg"
+     alt="The Dispatch at 2022-09-30 02:23:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-30T02:23:40.027428-04:00.jpg">September 30 at 2:23 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-29T13:33:04.217219-04:00.jpg">
+  <img src="https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-29T13:33:04.217219-04:00.jpg"
+     alt="The Dispatch at 2022-09-29 13:33:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-29T13:33:04.217219-04:00.jpg">September 29 at 1:33 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-29T02:04:33.789915-04:00.jpg">
@@ -323,38 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-25T01:39:34.891407-04:00.jpg">September 25 at 1:39 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-24T13:13:52.098225-04:00.jpg">
-  <img src="https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-24T13:13:52.098225-04:00.jpg"
-     alt="The Dispatch at 2022-09-24 13:13:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-24T13:13:52.098225-04:00.jpg">September 24 at 1:13 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-24T01:40:26.776120-04:00.jpg">
-  <img src="https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-24T01:40:26.776120-04:00.jpg"
-     alt="The Dispatch at 2022-09-24 01:40:28-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-24T01:40:26.776120-04:00.jpg">September 24 at 1:40 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-23T13:26:24.588059-04:00.jpg">
-  <img src="https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-23T13:26:24.588059-04:00.jpg"
-     alt="The Dispatch at 2022-09-23 13:26:25-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-23T13:26:24.588059-04:00.jpg">September 23 at 1:26 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 18 hyperlink lists with the Internet Archive.
+The archiving routine has saved 21 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 2:18 PM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-30T14:18:15.229291-04:00.hyperlinks.json) |
+| [September 30 at 2:23 AM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-30T02:23:40.027428-04:00.hyperlinks.json) |
+| [September 29 at 1:33 PM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-29T13:33:04.217219-04:00.hyperlinks.json) |
 | [September 29 at 2:04 AM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-29T02:04:33.789915-04:00.hyperlinks.json) |
 | [September 28 at 1:43 PM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-28T13:43:06.593887-04:00.hyperlinks.json) |
 | [September 28 at 2:11 AM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-28T02:11:40.734205-04:00.hyperlinks.json) |
@@ -369,14 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 1:44 AM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-27T01:44:13.415732-04:00.hyperlinks.json) |
 | [September 26 at 1:31 PM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-26T13:31:02.542407-04:00.hyperlinks.json) |
 | [September 26 at 2:04 AM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-26T02:04:35.659959-04:00.hyperlinks.json) |
-| [September 25 at 1:14 PM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-25T13:14:31.804172-04:00.hyperlinks.json) |
-| [September 25 at 1:39 AM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-25T01:39:34.891407-04:00.hyperlinks.json) |
-| [September 24 at 1:13 PM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-24T13:13:52.098225-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 17 accessibility trees with the Internet Archive.
+The archiving routine has saved 20 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 2:18 PM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-30T14:18:15.229291-04:00.accessibility.json) |
+| [September 30 at 2:23 AM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-30T02:23:40.027428-04:00.accessibility.json) |
+| [September 29 at 1:33 PM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-29T13:33:04.217219-04:00.accessibility.json) |
 | [September 29 at 2:04 AM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-29T02:04:33.789915-04:00.accessibility.json) |
 | [September 28 at 1:43 PM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-28T13:43:06.593887-04:00.accessibility.json) |
 | [September 28 at 2:11 AM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-28T02:11:40.734205-04:00.accessibility.json) |
@@ -391,15 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 1:44 AM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-27T01:44:13.415732-04:00.accessibility.json) |
 | [September 26 at 1:31 PM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-26T13:31:02.542407-04:00.accessibility.json) |
 | [September 26 at 2:04 AM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-26T02:04:35.659959-04:00.accessibility.json) |
-| [September 25 at 1:14 PM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-25T13:14:31.804172-04:00.accessibility.json) |
-| [September 25 at 1:39 AM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-25T01:39:34.891407-04:00.accessibility.json) |
-| [September 24 at 1:13 PM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-24T13:13:52.098225-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 21 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 2:18 PM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-30T14:18:15.229291-04:00.lighthouse.json) |
+| [September 30 at 2:23 AM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-30T02:23:40.027428-04:00.lighthouse.json) |
+| [September 29 at 1:33 PM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-29T13:33:04.217219-04:00.lighthouse.json) |
 | [September 29 at 2:04 AM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-29T02:04:33.789915-04:00.lighthouse.json) |
 | [September 28 at 1:43 PM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-28T13:43:06.593887-04:00.lighthouse.json) |
 | [September 28 at 2:11 AM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-28T02:11:40.734205-04:00.lighthouse.json) |
@@ -414,9 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 1:44 AM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-27T01:44:13.415732-04:00.lighthouse.json) |
 | [September 26 at 1:31 PM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-26T13:31:02.542407-04:00.lighthouse.json) |
 | [September 26 at 2:04 AM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-26T02:04:35.659959-04:00.lighthouse.json) |
-| [September 25 at 1:14 PM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-25T13:14:31.804172-04:00.lighthouse.json) |
-| [September 25 at 1:39 AM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-25T01:39:34.891407-04:00.lighthouse.json) |
-| [September 24 at 1:13 PM](https://archive.org/download/lexdispatch-2022/lexdispatch-2022-09-24T13:13:52.098225-04:00.lighthouse.json) |
 
 
 
