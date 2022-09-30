@@ -1,5 +1,5 @@
 {
-  "created": 1664501696,
+  "created": 1664543008,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/3/items/israelhayomeng-2022",
@@ -5957,31 +5957,93 @@
       "format": "JSON"
     },
     {
+      "name": "israelhayomeng-2022-09-30T04:33:48.904469+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "israelhayomeng-2022-09-30T04:33:48.904469+03:00.jpg",
+      "mtime": "1664503472",
+      "size": "9913",
+      "md5": "93f778da30864118c80252cd9ba1589f",
+      "crc32": "3e29e6a8",
+      "sha1": "40e5127b6907d89f0ee95febd8d093a55a7c2dc6"
+    },
+    {
+      "name": "israelhayomeng-2022-09-30T16:01:44.994194+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664542916",
+      "size": "121621",
+      "md5": "d07de24308d7536e958e205d9f075ed2",
+      "crc32": "7206a393",
+      "sha1": "ccf6e46c227ad796e806d0b7580bdb5441ef9388",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-09-30T16:01:44.994194+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664542919",
+      "size": "2",
+      "md5": "d751713988987e9331980363e24189ce",
+      "crc32": "0d4cbb29",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-09-30T16:01:44.994194+03:00.jpg",
+      "source": "original",
+      "mtime": "1664542914",
+      "size": "13138",
+      "md5": "ea987d5a23910acc5fc3afce720baed4",
+      "crc32": "2d2dfb42",
+      "sha1": "c82e951aeb3af7b182407e2bb14a05efe6928b4d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "israelhayomeng-2022-09-30T16:01:44.994194+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664542922",
+      "size": "1522",
+      "md5": "f6a7087d608d294f4067f382ab505d5c",
+      "crc32": "d960aaf1",
+      "sha1": "e3abf0004c13e7d750a110d0f981df08f9ed12ab",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-09-30T16:01:44.994194+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664542924",
+      "size": "73513",
+      "md5": "2629f251f8af61045f1031d38573407e",
+      "crc32": "c7dfd084",
+      "sha1": "d5cb1535911d1a84d1af58144728fd3441411ceb",
+      "format": "JSON"
+    },
+    {
       "name": "israelhayomeng-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c038c12276658c19c389a422db11dfdf9129c4ae",
-      "mtime": "1664501689",
-      "size": "127047",
-      "md5": "39f1403f8a8ee612f12e29c5ccdc7f40",
-      "crc32": "ef6f8418",
-      "sha1": "c8f72bc3a929ac528f4853994531b2571ed58624",
+      "btih": "e9ef28f220242bca5546c23c16e2ce1430af0ca1",
+      "mtime": "1664542998",
+      "size": "128326",
+      "md5": "0212a68d22ecd763cbe4c3a200352a87",
+      "crc32": "9eef3f07",
+      "sha1": "173a441d9708775b057afe1564aafa9e555db348",
       "format": "Archive BitTorrent"
     },
     {
       "name": "israelhayomeng-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "af71c7ae4f54371e04840b8cfbaf67fb",
+      "md5": "023b12c015c6d5bbba9f8aad08b5a53f",
       "summation": "md5"
     },
     {
       "name": "israelhayomeng-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664501648",
-      "size": "753664",
-      "md5": "864e4b082501e597064c2948736445af",
-      "crc32": "04ddc56b",
-      "sha1": "8e5108b50e926f7c88f12e293c6089c7d2522571",
+      "mtime": "1664542954",
+      "size": "761856",
+      "md5": "43c87b427cf2e68c37f5030b7398b736",
+      "crc32": "d5af2931",
+      "sha1": "316057d18267ef09e789d678ad119abc77522c52",
       "format": "Metadata"
     },
     {
@@ -5995,9 +6057,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 580,
-  "item_last_updated": 1664501689,
-  "item_size": 58873224,
+  "files_count": 586,
+  "item_last_updated": 1664542998,
+  "item_size": 59102404,
   "metadata": {
     "identifier": "israelhayomeng-2022",
     "collection": [
@@ -6019,7 +6081,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3422877038,
+      "task_id": 3423465255,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -6027,7 +6089,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1260311821,
+  "uniq": 1636515684,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

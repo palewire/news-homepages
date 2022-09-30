@@ -1,5 +1,5 @@
 {
-  "created": 1664502752,
+  "created": 1664543130,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/18/items/ktoopubmedia-2022",
@@ -2237,31 +2237,93 @@
       "format": "JSON"
     },
     {
+      "name": "ktoopubmedia-2022-09-29T17:37:34.309853-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ktoopubmedia-2022-09-29T17:37:34.309853-08:00.jpg",
+      "mtime": "1664503795",
+      "size": "10738",
+      "md5": "a3373a0adbd9ee207acf5270bb427706",
+      "crc32": "8d2f62ef",
+      "sha1": "014b508d44db5336a6327cdafb81d3f05e1da488"
+    },
+    {
+      "name": "ktoopubmedia-2022-09-30T05:04:26.183634-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664543070",
+      "size": "24222",
+      "md5": "c2ac67adf19133b23bc03b10e6d27725",
+      "crc32": "1f032d42",
+      "sha1": "1125b911bcc1cae33c79026bb7f9e54c643f93dc",
+      "format": "JSON"
+    },
+    {
+      "name": "ktoopubmedia-2022-09-30T05:04:26.183634-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664543073",
+      "size": "24490",
+      "md5": "076fca0e2745172080a6bb4a7928b630",
+      "crc32": "97bf4763",
+      "sha1": "226f8d62c6b8c83ecef102bf997b067117cd50a3",
+      "format": "JSON"
+    },
+    {
+      "name": "ktoopubmedia-2022-09-30T05:04:26.183634-08:00.jpg",
+      "source": "original",
+      "mtime": "1664543068",
+      "size": "322983",
+      "md5": "74ab19c5b7659cb044e853cad3a04cc1",
+      "crc32": "bd542e3b",
+      "sha1": "0a53925ed7a0bb989feec2c73af6731ffa9d652a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ktoopubmedia-2022-09-30T05:04:26.183634-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664543075",
+      "size": "1441",
+      "md5": "80f4ac0e82ddab5f49a45856385ec02b",
+      "crc32": "8a1f4e83",
+      "sha1": "c21352c259a1de56dca1ba17a224f3f757b90016",
+      "format": "JSON"
+    },
+    {
+      "name": "ktoopubmedia-2022-09-30T05:04:26.183634-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1664543079",
+      "size": "20006",
+      "md5": "3c499ee8be840fe174ee373a456ca6bb",
+      "crc32": "b548ccb9",
+      "sha1": "f95e213004043ced30f11a6f5c607f56a29bc7c2",
+      "format": "JSON"
+    },
+    {
       "name": "ktoopubmedia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "547c54d3b391640ba0487222e700c57f28a163f8",
-      "mtime": "1664501903",
-      "size": "47757",
-      "md5": "70be77d381d573094d0bc0de0d28d001",
-      "crc32": "8e6ad5dd",
-      "sha1": "ef8c101a322de6ec01be9e943b1bc06d45aeba2e",
+      "btih": "e7a4f8002de9391781c508712e075959463ee81e",
+      "mtime": "1664543120",
+      "size": "49049",
+      "md5": "4a831ef6e33b04d360b31c6e3b293545",
+      "crc32": "58a1d87f",
+      "sha1": "7dca26fab92c4bd3ec340534c31c730ac6572226",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ktoopubmedia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "377273bd1235abec46bf538cad3a980d",
+      "md5": "3831d60fcfa2e294eaaaa4e45deb33f5",
       "summation": "md5"
     },
     {
       "name": "ktoopubmedia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664501867",
-      "size": "294912",
-      "md5": "5e8d388df77aed4b082a808c1eceb978",
-      "crc32": "13633447",
-      "sha1": "40e735f6997a55781b8bc321a60f32e9af4940f8",
+      "mtime": "1664543083",
+      "size": "307200",
+      "md5": "2a21eb13ea67f8cf69eb7673098d9a86",
+      "crc32": "5e4bb222",
+      "sha1": "ad00d6f4666d03974ec9bfe1e45cd938b5e253c2",
       "format": "Metadata"
     },
     {
@@ -2275,14 +2337,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 220,
-  "item_last_updated": 1664501903,
-  "item_size": 14541270,
-  "ktoopubmedia-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "files_count": 226,
+  "item_last_updated": 1664543120,
+  "item_size": 14958730,
   "metadata": {
     "identifier": "ktoopubmedia-2022",
     "collection": [
@@ -2304,7 +2361,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3422880106,
+      "task_id": 3423468240,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2312,7 +2369,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 43341831,
+  "uniq": 802091571,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]

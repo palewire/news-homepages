@@ -1,5 +1,5 @@
 {
-  "created": 1664502080,
+  "created": 1664543236,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/35/items/littlevillage-2022",
@@ -13305,31 +13305,93 @@
       "format": "JSON"
     },
     {
+      "name": "littlevillage-2022-09-29T20:40:04.006739-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "littlevillage-2022-09-29T20:40:04.006739-05:00.jpg",
+      "mtime": "1664504020",
+      "size": "9819",
+      "md5": "0ca64ac1cf36551eed0c751dd289b6d1",
+      "crc32": "dbac576f",
+      "sha1": "d8312d01d1b5e6de5d54c14422273efc7309080a"
+    },
+    {
+      "name": "littlevillage-2022-09-30T08:05:57.382701-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664543168",
+      "size": "30657",
+      "md5": "93aedb4869471b1a80980e6c5721c3d5",
+      "crc32": "75140fac",
+      "sha1": "f805b31c0bc055f0eee16172360e4712796dfdd0",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-09-30T08:05:57.382701-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664543170",
+      "size": "38849",
+      "md5": "76a998384327080a5dcb73cec8d29130",
+      "crc32": "d3aae833",
+      "sha1": "423c43df4f6c5ead18612862af7abc49f1fc7739",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-09-30T08:05:57.382701-05:00.jpg",
+      "source": "original",
+      "mtime": "1664543166",
+      "size": "347925",
+      "md5": "bf3f27a0aa2b46c0a26de7b28908a531",
+      "crc32": "a35efc40",
+      "sha1": "9a0148622dd0ad81c8f0fce0dc75c4f954ddcfa3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "littlevillage-2022-09-30T08:05:57.382701-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664543172",
+      "size": "1510",
+      "md5": "8dffe4886676234076f0ea31c66f021d",
+      "crc32": "5eb7050e",
+      "sha1": "80abf17a600923d3be85530f6d35cef57c048d51",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-09-30T08:05:57.382701-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664543178",
+      "size": "27708",
+      "md5": "cddbd0bb09f5e53198650af2370cc347",
+      "crc32": "be213b0c",
+      "sha1": "1196cb44947a03fcb378b5a3f1fb6efb211673eb",
+      "format": "JSON"
+    },
+    {
       "name": "littlevillage-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d7b4600ab1bc03c807a4b870524ed8475f7f276e",
-      "mtime": "1664502074",
-      "size": "277622",
-      "md5": "8b920dd6a43d4a973c96b748c2bc1b0c",
-      "crc32": "d162b78a",
-      "sha1": "8a9e185056f28531a9178fad5dcfb5f8578fed65",
+      "btih": "117ab00c465b1118e64b9d40383912a45318fc4a",
+      "mtime": "1664543232",
+      "size": "278919",
+      "md5": "3539b57813445420b446006e3a0e1641",
+      "crc32": "e1b27923",
+      "sha1": "0420e0c5840f444ebb9ec5adc43b6f1f22a2350e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "littlevillage-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "333c756bca7a4b92796c8a920a522964",
+      "md5": "b2a2b41248467995c1ccec36890d2aa0",
       "summation": "md5"
     },
     {
       "name": "littlevillage-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664502025",
-      "size": "1605632",
-      "md5": "5775cf6255c40fda0fd0ba0316be5bbd",
-      "crc32": "941df09f",
-      "sha1": "153fa1564d78434bdb847f48deba69c5e2246eea",
+      "mtime": "1664543183",
+      "size": "1609728",
+      "md5": "6363f34c808fbd48b719cccd92f1c3ce",
+      "crc32": "3a4da833",
+      "sha1": "87e3b9de0314e439f55455d14146c4143edb5673",
       "format": "Metadata"
     },
     {
@@ -13343,9 +13405,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1285,
-  "item_last_updated": 1664502074,
-  "item_size": 99476250,
+  "files_count": 1291,
+  "item_last_updated": 1664543232,
+  "item_size": 99938111,
   "metadata": {
     "identifier": "littlevillage-2022",
     "collection": [
@@ -13367,7 +13429,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3422882705,
+      "task_id": 3423470660,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13375,7 +13437,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 988217137,
+  "uniq": 1097061717,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]

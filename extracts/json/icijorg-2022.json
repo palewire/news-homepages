@@ -1,5 +1,5 @@
 {
-  "created": 1664501745,
+  "created": 1664543019,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/3/items/icijorg-2022",
@@ -12823,31 +12823,93 @@
       "format": "JSON"
     },
     {
+      "name": "icijorg-2022-09-29T21:34:32.256002-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "icijorg-2022-09-29T21:34:32.256002-04:00.jpg",
+      "mtime": "1664503896",
+      "size": "11784",
+      "md5": "17eea841cb274a29fb2379111580f0f4",
+      "crc32": "0dbd0de4",
+      "sha1": "67c0cb483accf1706984c9644b35853930fbd0af"
+    },
+    {
+      "name": "icijorg-2022-09-30T09:01:44.728900-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664542909",
+      "size": "18551",
+      "md5": "756b7d1190e2304d0446a1a0ed7c82b2",
+      "crc32": "87e3a030",
+      "sha1": "d9712fa5f405ea223a352ae79f2de51cfc43e5ea",
+      "format": "JSON"
+    },
+    {
+      "name": "icijorg-2022-09-30T09:01:44.728900-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664542912",
+      "size": "23978",
+      "md5": "5714b690f9e41c101f8cc5f56ae2beac",
+      "crc32": "467a7d7d",
+      "sha1": "b74ed94ef2270ef3121b8b41e0367832b51644bc",
+      "format": "JSON"
+    },
+    {
+      "name": "icijorg-2022-09-30T09:01:44.728900-04:00.jpg",
+      "source": "original",
+      "mtime": "1664542907",
+      "size": "356047",
+      "md5": "cbb154759eaf26cb4786b7527ad8d60e",
+      "crc32": "916097af",
+      "sha1": "8e3f0bd00b77b9ac0c13dcfd27ed65051eca5453",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "icijorg-2022-09-30T09:01:44.728900-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664542914",
+      "size": "1432",
+      "md5": "f86a5ba8f329654a371a7d80a609c954",
+      "crc32": "4fb3ff6a",
+      "sha1": "2b70337efdf29091dea82087da29a7006c640109",
+      "format": "JSON"
+    },
+    {
+      "name": "icijorg-2022-09-30T09:01:44.728900-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664542918",
+      "size": "8749",
+      "md5": "5508d6ed14c02372ea9d99a4dbbbb5b0",
+      "crc32": "ef53d4b7",
+      "sha1": "ecc1c66df408c1aab0297e5f153c7e9f8a7dabcb",
+      "format": "JSON"
+    },
+    {
       "name": "icijorg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5b71619e80e481cd389dd53c067e9bac434c300c",
-      "mtime": "1664501739",
-      "size": "259800",
-      "md5": "ea20940a243f0bcca2b33f0c5d7759a7",
-      "crc32": "f8671e95",
-      "sha1": "22b5bfe3d90731c031f1504208dc79dce42d6a0f",
+      "btih": "0707844f49851fbd72936efde0e21cc0179ecdf8",
+      "mtime": "1664543014",
+      "size": "261061",
+      "md5": "d5dde214b9660c21d48d5d15a3c3d531",
+      "crc32": "2b184a82",
+      "sha1": "3a0c20d1748b704e09dc0fc15cc350c50aea926f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "icijorg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "397dd720e60ef0cdc6b8e5ca79afa35c",
+      "md5": "ea886a8852f5e517d7c3b0a0f17c4f5b",
       "summation": "md5"
     },
     {
       "name": "icijorg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664501689",
-      "size": "1519616",
-      "md5": "67c1e1cabd6657d331b68b929e905235",
-      "crc32": "f2853501",
-      "sha1": "7a2ec2680642b869f43a7af21312aed3de2c54e3",
+      "mtime": "1664542968",
+      "size": "1527808",
+      "md5": "f6159df3d07be3862b2c35d21fc4b402",
+      "crc32": "60d075cd",
+      "sha1": "58860b3add5782eeeae32f10e01054d11da78749",
       "format": "Metadata"
     },
     {
@@ -12861,9 +12923,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1237,
-  "item_last_updated": 1664501739,
-  "item_size": 93927372,
+  "files_count": 1243,
+  "item_last_updated": 1664543014,
+  "item_size": 94357366,
   "metadata": {
     "identifier": "icijorg-2022",
     "collection": [
@@ -12885,7 +12947,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3422877613,
+      "task_id": 3423465477,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12893,7 +12955,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1195364495,
+  "uniq": 810918299,
   "workable_servers": [
     "ia902508.us.archive.org"
   ]

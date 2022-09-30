@@ -1,5 +1,6 @@
 {
-  "created": 1664501782,
+  "conflict": 1664543226,
+  "created": 1664543226,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/17/items/irishcathnews-2022",
@@ -8793,21 +8794,32 @@
       "format": "JSON"
     },
     {
+      "name": "irishcathnews-2022-09-30T02:34:04.931738+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "irishcathnews-2022-09-30T02:34:04.931738+01:00.jpg",
+      "mtime": "1664503694",
+      "size": "8666",
+      "md5": "fb84b4e0229bba4d857250649ce214e0",
+      "crc32": "6bac6cac",
+      "sha1": "93442e5575a9eacb3be476a9f55cc75be36c58ad"
+    },
+    {
       "name": "irishcathnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0e1d0c618933120a5e84317970b947b1c0bc2893",
-      "mtime": "1664501738",
-      "size": "184080",
-      "md5": "9b698b01b3023d95bdebd2803aad9de3",
-      "crc32": "bf25692c",
-      "sha1": "3d9a861cac90d574d6b7c15a1769fb2bb9ddb785",
+      "btih": "2cea524f505a81eb05d4d5fba5ffea16fbfdb658",
+      "mtime": "1664503822",
+      "size": "184289",
+      "md5": "b9f39da7be8521c72721ea66daabfadc",
+      "crc32": "d8d46b12",
+      "sha1": "4d01218b7d91a534323283d149612f58c4721779",
       "format": "Archive BitTorrent"
     },
     {
       "name": "irishcathnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "035ae599a7eb46c35db8170d49274b18",
+      "md5": "48a20d0c893dc059b06390229aedfd8f",
       "summation": "md5"
     },
     {
@@ -8831,9 +8843,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 853,
-  "item_last_updated": 1664501738,
-  "item_size": 52273783,
+  "files_count": 854,
+  "item_last_updated": 1664503822,
+  "item_size": 52282658,
   "metadata": {
     "identifier": "irishcathnews-2022",
     "collection": [
@@ -8855,15 +8867,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3422878710,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "task_id": 3423464068,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 927451080,
+  "uniq": 280759282,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]
