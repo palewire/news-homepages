@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 75 screenshots with the Internet Archive.
+The archiving routine has saved 76 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 75 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-30T04:36:51.587058+02:00.jpg">
+  <img src="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-30T04:36:51.587058+02:00.jpg"
+     alt="Netwerk24 at 2022-09-30 04:36:58+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-30T04:36:51.587058+02:00.jpg">September 30 at 4:36 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-29T16:04:46.122442+02:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-24T15:53:32.722046+02:00.jpg">September 24 at 3:53 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-24T04:15:09.526747+02:00.jpg">
-  <img src="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-24T04:15:09.526747+02:00.jpg"
-     alt="Netwerk24 at 2022-09-24 04:15:14+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-24T04:15:09.526747+02:00.jpg">September 24 at 4:15 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 76 hyperlink lists with the Internet Archive.
+The archiving routine has saved 77 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 4:37 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-30T04:36:51.587058+02:00.hyperlinks.json) |
 | [September 29 at 4:04 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-29T16:04:46.122442+02:00.hyperlinks.json) |
 | [September 29 at 4:18 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-29T04:18:24.635752+02:00.hyperlinks.json) |
 | [September 28 at 4:00 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-28T16:00:46.083537+02:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 4:03 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-26T16:03:32.558049+02:00.hyperlinks.json) |
 | [September 26 at 4:15 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-26T04:15:08.788206+02:00.hyperlinks.json) |
 | [September 25 at 3:51 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-25T15:50:53.880495+02:00.hyperlinks.json) |
-| [September 25 at 4:10 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-25T04:10:18.807987+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 76 accessibility trees with the Internet Archive.
+The archiving routine has saved 77 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 4:37 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-30T04:36:51.587058+02:00.accessibility.json) |
 | [September 29 at 4:04 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-29T16:04:46.122442+02:00.accessibility.json) |
 | [September 29 at 4:18 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-29T04:18:24.635752+02:00.accessibility.json) |
 | [September 28 at 4:00 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-28T16:00:46.083537+02:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 4:03 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-26T16:03:32.558049+02:00.accessibility.json) |
 | [September 26 at 4:15 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-26T04:15:08.788206+02:00.accessibility.json) |
 | [September 25 at 3:51 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-25T15:50:53.880495+02:00.accessibility.json) |
-| [September 25 at 4:10 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-25T04:10:18.807987+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 76 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 77 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 4:37 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-30T04:36:51.587058+02:00.lighthouse.json) |
 | [September 29 at 4:04 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-29T16:04:46.122442+02:00.lighthouse.json) |
 | [September 29 at 4:18 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-29T04:18:24.635752+02:00.lighthouse.json) |
 | [September 28 at 4:00 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-28T16:00:46.083537+02:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 4:03 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-26T16:03:32.558049+02:00.lighthouse.json) |
 | [September 26 at 4:15 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-26T04:15:08.788206+02:00.lighthouse.json) |
 | [September 25 at 3:51 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-25T15:50:53.880495+02:00.lighthouse.json) |
-| [September 25 at 4:10 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-25T04:10:18.807987+02:00.lighthouse.json) |
 
 
 

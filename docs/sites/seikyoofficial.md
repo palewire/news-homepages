@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 241 screenshots with the Internet Archive.
+The archiving routine has saved 244 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-30T11:33:53.628814+09:00.jpg">
+  <img src="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-30T11:33:53.628814+09:00.jpg"
+     alt="Seikyo Shimbun at 2022-09-30 11:33:55+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-30T11:33:53.628814+09:00.jpg">September 30 at 11:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-30T04:34:33.588849+09:00.jpg">
+  <img src="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-30T04:34:33.588849+09:00.jpg"
+     alt="Seikyo Shimbun at 2022-09-30 04:35:03+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-30T04:34:33.588849+09:00.jpg">September 30 at 4:35 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-29T16:40:23.593048+09:00.jpg">
+  <img src="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-29T16:40:23.593048+09:00.jpg"
+     alt="Seikyo Shimbun at 2022-09-29 16:40:24+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-29T16:40:23.593048+09:00.jpg">September 29 at 4:40 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-29T04:40:52.650042+09:00.jpg">
   <img src="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-29T04:40:52.650042+09:00.jpg"
      alt="Seikyo Shimbun at 2022-09-29 04:40:55+09:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-26T11:12:40.327229+09:00.jpg">September 26 at 11:12 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-26T03:34:04.731910+09:00.jpg">
-  <img src="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-26T03:34:04.731910+09:00.jpg"
-     alt="Seikyo Shimbun at 2022-09-26 03:34:13+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-26T03:34:04.731910+09:00.jpg">September 26 at 3:34 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-25T15:57:37.656640+09:00.jpg">
-  <img src="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-25T15:57:37.656640+09:00.jpg"
-     alt="Seikyo Shimbun at 2022-09-25 15:57:39+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-25T15:57:37.656640+09:00.jpg">September 25 at 3:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-25T11:07:30.963718+09:00.jpg">
-  <img src="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-25T11:07:30.963718+09:00.jpg"
-     alt="Seikyo Shimbun at 2022-09-25 11:07:32+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-25T11:07:30.963718+09:00.jpg">September 25 at 11:07 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 243 hyperlink lists with the Internet Archive.
+The archiving routine has saved 246 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 11:33 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-30T11:33:53.628814+09:00.hyperlinks.json) |
+| [September 30 at 4:35 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-30T04:34:33.588849+09:00.hyperlinks.json) |
+| [September 29 at 4:40 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-29T16:40:23.593048+09:00.hyperlinks.json) |
 | [September 29 at 11:15 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-29T11:15:17.095816+09:00.hyperlinks.json) |
 | [September 29 at 4:41 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-29T04:40:52.650042+09:00.hyperlinks.json) |
 | [September 28 at 4:51 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-28T16:51:49.788182+09:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 28 at 4:15 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-28T04:15:26.150485+09:00.hyperlinks.json) |
 | [September 27 at 4:11 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-27T16:11:40.028968+09:00.hyperlinks.json) |
 | [September 27 at 11:10 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-27T11:10:38.503379+09:00.hyperlinks.json) |
-| [September 27 at 4:31 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-27T04:31:06.070435+09:00.hyperlinks.json) |
-| [September 26 at 4:46 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-26T16:46:37.573325+09:00.hyperlinks.json) |
-| [September 26 at 11:12 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-26T11:12:40.327229+09:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 242 accessibility trees with the Internet Archive.
+The archiving routine has saved 245 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 11:33 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-30T11:33:53.628814+09:00.accessibility.json) |
+| [September 30 at 4:35 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-30T04:34:33.588849+09:00.accessibility.json) |
+| [September 29 at 4:40 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-29T16:40:23.593048+09:00.accessibility.json) |
 | [September 29 at 11:15 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-29T11:15:17.095816+09:00.accessibility.json) |
 | [September 29 at 4:40 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-29T04:40:52.650042+09:00.accessibility.json) |
 | [September 28 at 4:51 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-28T16:51:49.788182+09:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 28 at 4:15 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-28T04:15:26.150485+09:00.accessibility.json) |
 | [September 27 at 4:11 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-27T16:11:40.028968+09:00.accessibility.json) |
 | [September 27 at 11:10 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-27T11:10:38.503379+09:00.accessibility.json) |
-| [September 27 at 4:31 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-27T04:31:06.070435+09:00.accessibility.json) |
-| [September 26 at 4:46 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-26T16:46:37.573325+09:00.accessibility.json) |
-| [September 26 at 11:12 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-26T11:12:40.327229+09:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 197 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 200 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 11:34 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-30T11:33:53.628814+09:00.lighthouse.json) |
+| [September 30 at 4:35 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-30T04:34:33.588849+09:00.lighthouse.json) |
+| [September 29 at 4:40 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-29T16:40:23.593048+09:00.lighthouse.json) |
 | [September 29 at 11:15 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-29T11:15:17.095816+09:00.lighthouse.json) |
 | [September 29 at 4:41 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-29T04:40:52.650042+09:00.lighthouse.json) |
 | [September 28 at 4:51 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-28T16:51:49.788182+09:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 28 at 4:15 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-28T04:15:26.150485+09:00.lighthouse.json) |
 | [September 27 at 4:11 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-27T16:11:40.028968+09:00.lighthouse.json) |
 | [September 27 at 11:10 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-27T11:10:38.503379+09:00.lighthouse.json) |
-| [September 27 at 4:31 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-27T04:31:06.070435+09:00.lighthouse.json) |
-| [September 26 at 4:46 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-26T16:46:37.573325+09:00.lighthouse.json) |
-| [September 26 at 11:12 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-09-26T11:12:40.327229+09:00.lighthouse.json) |
 
 
 
