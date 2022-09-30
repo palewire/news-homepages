@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 37 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 36 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-30T01:09:48.105788-05:00.jpg">
+  <img src="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-30T01:09:48.105788-05:00.jpg"
+     alt="Alabama Media Group at 2022-09-30 01:09:51-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-30T01:09:48.105788-05:00.jpg">September 30 at 1:09 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-29T11:05:30.301968-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-24T10:49:00.960030-05:00.jpg">September 24 at 10:49 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-23T23:30:17.827280-05:00.jpg">
-  <img src="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-23T23:30:17.827280-05:00.jpg"
-     alt="Alabama Media Group at 2022-09-23 23:30:20-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/aldotcom-2022/aldotcom-2022-09-23T23:30:17.827280-05:00.jpg">September 23 at 11:30 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 36 hyperlink lists with the Internet Archive.
+The archiving routine has saved 37 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 1:09 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-30T01:09:48.105788-05:00.hyperlinks.json) |
 | [September 29 at 11:05 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-29T11:05:30.301968-05:00.hyperlinks.json) |
 | [September 29 at 12:15 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-29T00:15:47.816885-05:00.hyperlinks.json) |
 | [September 28 at 11:11 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-28T11:11:03.637859-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 11:04 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-26T11:04:39.597635-05:00.hyperlinks.json) |
 | [September 25 at 11:42 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-25T23:42:18.164231-05:00.hyperlinks.json) |
 | [September 25 at 10:51 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-25T10:50:57.479163-05:00.hyperlinks.json) |
-| [September 24 at 11:28 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-24T23:28:39.384958-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 36 accessibility trees with the Internet Archive.
+The archiving routine has saved 37 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 1:09 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-30T01:09:48.105788-05:00.accessibility.json) |
 | [September 29 at 11:05 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-29T11:05:30.301968-05:00.accessibility.json) |
 | [September 29 at 12:15 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-29T00:15:47.816885-05:00.accessibility.json) |
 | [September 28 at 11:11 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-28T11:11:03.637859-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 11:04 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-26T11:04:39.597635-05:00.accessibility.json) |
 | [September 25 at 11:42 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-25T23:42:18.164231-05:00.accessibility.json) |
 | [September 25 at 10:51 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-25T10:50:57.479163-05:00.accessibility.json) |
-| [September 24 at 11:28 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-24T23:28:39.384958-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 36 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 37 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 1:09 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-30T01:09:48.105788-05:00.lighthouse.json) |
 | [September 29 at 11:05 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-29T11:05:30.301968-05:00.lighthouse.json) |
 | [September 29 at 12:15 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-29T00:15:47.816885-05:00.lighthouse.json) |
 | [September 28 at 11:11 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-28T11:11:03.637859-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 11:04 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-26T11:04:39.597635-05:00.lighthouse.json) |
 | [September 25 at 11:42 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-25T23:42:18.164231-05:00.lighthouse.json) |
 | [September 25 at 10:51 AM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-25T10:50:57.479163-05:00.lighthouse.json) |
-| [September 24 at 11:28 PM](https://archive.org/download/aldotcom-2022/aldotcom-2022-09-24T23:28:39.384958-05:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 317 screenshots with the Internet Archive.
+The archiving routine has saved 320 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/rianru-2022/rianru-2022-09-30T11:04:43.074465+03:00.jpg">
+  <img src="https://archive.org/download/rianru-2022/rianru-2022-09-30T11:04:43.074465+03:00.jpg"
+     alt="RIA Novosti at 2022-09-30 11:04:45+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rianru-2022/rianru-2022-09-30T11:04:43.074465+03:00.jpg">September 30 at 11:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rianru-2022/rianru-2022-09-29T22:33:24.139573+03:00.jpg">
+  <img src="https://archive.org/download/rianru-2022/rianru-2022-09-29T22:33:24.139573+03:00.jpg"
+     alt="RIA Novosti at 2022-09-29 22:33:25+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rianru-2022/rianru-2022-09-29T22:33:24.139573+03:00.jpg">September 29 at 10:33 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rianru-2022/rianru-2022-09-29T10:40:46.420226+03:00.jpg">
+  <img src="https://archive.org/download/rianru-2022/rianru-2022-09-29T10:40:46.420226+03:00.jpg"
+     alt="RIA Novosti at 2022-09-29 10:40:48+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rianru-2022/rianru-2022-09-29T10:40:46.420226+03:00.jpg">September 29 at 10:40 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/rianru-2022/rianru-2022-09-29T10:38:45.980470+03:00.jpg">
   <img src="https://archive.org/download/rianru-2022/rianru-2022-09-29T10:38:45.980470+03:00.jpg"
      alt="RIA Novosti at 2022-09-29 10:38:48+03:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/rianru-2022/rianru-2022-09-26T10:46:28.648419+03:00.jpg">September 26 at 10:46 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/rianru-2022/rianru-2022-09-26T10:35:39.157849+03:00.jpg">
-  <img src="https://archive.org/download/rianru-2022/rianru-2022-09-26T10:35:39.157849+03:00.jpg"
-     alt="RIA Novosti at 2022-09-26 10:35:41+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rianru-2022/rianru-2022-09-26T10:35:39.157849+03:00.jpg">September 26 at 10:35 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rianru-2022/rianru-2022-09-25T21:34:01.860930+03:00.jpg">
-  <img src="https://archive.org/download/rianru-2022/rianru-2022-09-25T21:34:01.860930+03:00.jpg"
-     alt="RIA Novosti at 2022-09-25 21:34:03+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rianru-2022/rianru-2022-09-25T21:34:01.860930+03:00.jpg">September 25 at 9:34 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rianru-2022/rianru-2022-09-25T10:03:26.829045+03:00.jpg">
-  <img src="https://archive.org/download/rianru-2022/rianru-2022-09-25T10:03:26.829045+03:00.jpg"
-     alt="RIA Novosti at 2022-09-25 10:03:28+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rianru-2022/rianru-2022-09-25T10:03:26.829045+03:00.jpg">September 25 at 10:03 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 317 hyperlink lists with the Internet Archive.
+The archiving routine has saved 320 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 11:04 AM](https://archive.org/download/rianru-2022/rianru-2022-09-30T11:04:43.074465+03:00.hyperlinks.json) |
+| [September 29 at 10:33 PM](https://archive.org/download/rianru-2022/rianru-2022-09-29T22:33:24.139573+03:00.hyperlinks.json) |
+| [September 29 at 10:40 AM](https://archive.org/download/rianru-2022/rianru-2022-09-29T10:40:46.420226+03:00.hyperlinks.json) |
 | [September 29 at 10:38 AM](https://archive.org/download/rianru-2022/rianru-2022-09-29T10:38:45.980470+03:00.hyperlinks.json) |
 | [September 28 at 10:40 PM](https://archive.org/download/rianru-2022/rianru-2022-09-28T22:40:33.150431+03:00.hyperlinks.json) |
 | [September 28 at 10:59 AM](https://archive.org/download/rianru-2022/rianru-2022-09-28T10:59:08.000248+03:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 10:13 PM](https://archive.org/download/rianru-2022/rianru-2022-09-27T22:13:44.196576+03:00.hyperlinks.json) |
 | [September 27 at 10:11 AM](https://archive.org/download/rianru-2022/rianru-2022-09-27T10:11:28.204726+03:00.hyperlinks.json) |
 | [September 27 at 10:06 AM](https://archive.org/download/rianru-2022/rianru-2022-09-27T10:06:45.158419+03:00.hyperlinks.json) |
-| [September 26 at 10:31 PM](https://archive.org/download/rianru-2022/rianru-2022-09-26T22:31:36.706122+03:00.hyperlinks.json) |
-| [September 26 at 10:46 AM](https://archive.org/download/rianru-2022/rianru-2022-09-26T10:46:28.648419+03:00.hyperlinks.json) |
-| [September 26 at 10:35 AM](https://archive.org/download/rianru-2022/rianru-2022-09-26T10:35:39.157849+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 317 accessibility trees with the Internet Archive.
+The archiving routine has saved 320 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 11:04 AM](https://archive.org/download/rianru-2022/rianru-2022-09-30T11:04:43.074465+03:00.accessibility.json) |
+| [September 29 at 10:33 PM](https://archive.org/download/rianru-2022/rianru-2022-09-29T22:33:24.139573+03:00.accessibility.json) |
+| [September 29 at 10:40 AM](https://archive.org/download/rianru-2022/rianru-2022-09-29T10:40:46.420226+03:00.accessibility.json) |
 | [September 29 at 10:38 AM](https://archive.org/download/rianru-2022/rianru-2022-09-29T10:38:45.980470+03:00.accessibility.json) |
 | [September 28 at 10:40 PM](https://archive.org/download/rianru-2022/rianru-2022-09-28T22:40:33.150431+03:00.accessibility.json) |
 | [September 28 at 10:59 AM](https://archive.org/download/rianru-2022/rianru-2022-09-28T10:59:08.000248+03:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 10:13 PM](https://archive.org/download/rianru-2022/rianru-2022-09-27T22:13:44.196576+03:00.accessibility.json) |
 | [September 27 at 10:11 AM](https://archive.org/download/rianru-2022/rianru-2022-09-27T10:11:28.204726+03:00.accessibility.json) |
 | [September 27 at 10:06 AM](https://archive.org/download/rianru-2022/rianru-2022-09-27T10:06:45.158419+03:00.accessibility.json) |
-| [September 26 at 10:31 PM](https://archive.org/download/rianru-2022/rianru-2022-09-26T22:31:36.706122+03:00.accessibility.json) |
-| [September 26 at 10:46 AM](https://archive.org/download/rianru-2022/rianru-2022-09-26T10:46:28.648419+03:00.accessibility.json) |
-| [September 26 at 10:35 AM](https://archive.org/download/rianru-2022/rianru-2022-09-26T10:35:39.157849+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 200 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 203 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 11:04 AM](https://archive.org/download/rianru-2022/rianru-2022-09-30T11:04:43.074465+03:00.lighthouse.json) |
+| [September 29 at 10:33 PM](https://archive.org/download/rianru-2022/rianru-2022-09-29T22:33:24.139573+03:00.lighthouse.json) |
+| [September 29 at 10:40 AM](https://archive.org/download/rianru-2022/rianru-2022-09-29T10:40:46.420226+03:00.lighthouse.json) |
 | [September 29 at 10:38 AM](https://archive.org/download/rianru-2022/rianru-2022-09-29T10:38:45.980470+03:00.lighthouse.json) |
 | [September 28 at 10:40 PM](https://archive.org/download/rianru-2022/rianru-2022-09-28T22:40:33.150431+03:00.lighthouse.json) |
 | [September 28 at 10:59 AM](https://archive.org/download/rianru-2022/rianru-2022-09-28T10:59:08.000248+03:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 10:14 PM](https://archive.org/download/rianru-2022/rianru-2022-09-27T22:13:44.196576+03:00.lighthouse.json) |
 | [September 27 at 10:11 AM](https://archive.org/download/rianru-2022/rianru-2022-09-27T10:11:28.204726+03:00.lighthouse.json) |
 | [September 27 at 10:06 AM](https://archive.org/download/rianru-2022/rianru-2022-09-27T10:06:45.158419+03:00.lighthouse.json) |
-| [September 26 at 10:31 PM](https://archive.org/download/rianru-2022/rianru-2022-09-26T22:31:36.706122+03:00.lighthouse.json) |
-| [September 26 at 10:46 AM](https://archive.org/download/rianru-2022/rianru-2022-09-26T10:46:28.648419+03:00.lighthouse.json) |
-| [September 26 at 10:35 AM](https://archive.org/download/rianru-2022/rianru-2022-09-26T10:35:39.157849+03:00.lighthouse.json) |
 
 
 
