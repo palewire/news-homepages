@@ -1,5 +1,5 @@
 {
-  "created": 1664510129,
+  "created": 1664556312,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/27/items/themendovoice-2022",
@@ -5141,31 +5141,93 @@
       "format": "JSON"
     },
     {
+      "name": "themendovoice-2022-09-29T20:54:08.083335-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "themendovoice-2022-09-29T20:54:08.083335-07:00.jpg",
+      "mtime": "1664512644",
+      "size": "9767",
+      "md5": "9a0d52509e293d101d27c5ce4f40745f",
+      "crc32": "791af36d",
+      "sha1": "4c70c2cf1ae8cd1d4641470ecdc8c2612970f376"
+    },
+    {
+      "name": "themendovoice-2022-09-30T09:16:46.123586-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664554614",
+      "size": "45191",
+      "md5": "3c12785fe00900199a4492ca55b115bc",
+      "crc32": "ec3d5fe5",
+      "sha1": "f6f88559994c2229556b3254443f15667fce6c16",
+      "format": "JSON"
+    },
+    {
+      "name": "themendovoice-2022-09-30T09:16:46.123586-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664554616",
+      "size": "29497",
+      "md5": "4da000e995219c2ac23d1b6f38f5572c",
+      "crc32": "c70ef011",
+      "sha1": "47dff936192ef50efbd1918d614df8b96aa200f6",
+      "format": "JSON"
+    },
+    {
+      "name": "themendovoice-2022-09-30T09:16:46.123586-07:00.jpg",
+      "source": "original",
+      "mtime": "1664554612",
+      "size": "284257",
+      "md5": "ca26a6d9d9c1cf4a4c2158857d5ee650",
+      "crc32": "8822b2ff",
+      "sha1": "cc88f60a4df7edec4657455b93f581b9d6ebb74a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "themendovoice-2022-09-30T09:16:46.123586-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664554619",
+      "size": "1458",
+      "md5": "c658eed05b1c882d8ae9d5724cec7147",
+      "crc32": "f430a2a7",
+      "sha1": "407aecbe590af2b1d0af20baa1eb86a598fa6d48",
+      "format": "JSON"
+    },
+    {
+      "name": "themendovoice-2022-09-30T09:16:46.123586-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664554620",
+      "size": "203",
+      "md5": "b3f3dadd755a9c15a4d65914c125353b",
+      "crc32": "d8832dd1",
+      "sha1": "d69f88751d7c921d6eac94b0d5e24d452e8033d1",
+      "format": "JSON"
+    },
+    {
       "name": "themendovoice-2022_archive.torrent",
       "source": "metadata",
-      "btih": "92296549c8256cf09049a072f4044d1e6a707b45",
-      "mtime": "1664510118",
-      "size": "108546",
-      "md5": "310783b84067aa53f4bb84f68667070c",
-      "crc32": "7da1303a",
-      "sha1": "5f7f84484115d4822493d1ce6ed41d351fe33e5b",
+      "btih": "552b435c1360cedec6895ecdd72be6a7bbb803c7",
+      "mtime": "1664554676",
+      "size": "109821",
+      "md5": "d311679fbc9764329342bdd24f398a80",
+      "crc32": "a9ad6993",
+      "sha1": "10d1aa732f52e49c4fa48d3ce87f447e1f8a9406",
       "format": "Archive BitTorrent"
     },
     {
       "name": "themendovoice-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bb90b1429af92b2c010cc591261f6609",
+      "md5": "1401040cf7e62b726b34fe01bcc15005",
       "summation": "md5"
     },
     {
       "name": "themendovoice-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664510065",
-      "size": "655360",
-      "md5": "ffae981a8fb516adffcd4206c8c86803",
-      "crc32": "027d0f37",
-      "sha1": "dc093525c8a0f8797254f248dbf201e3b3f3c13a",
+      "mtime": "1664554628",
+      "size": "663552",
+      "md5": "7b32c717226fd86a29383930f8308a4c",
+      "crc32": "455a8c61",
+      "sha1": "f0eb5979570eb4e0ee573820d40cc1443cc21e99",
       "format": "Metadata"
     },
     {
@@ -5179,9 +5241,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 501,
-  "item_last_updated": 1664510118,
-  "item_size": 35247195,
+  "files_count": 507,
+  "item_last_updated": 1664554676,
+  "item_size": 35627035,
   "metadata": {
     "identifier": "themendovoice-2022",
     "collection": [
@@ -5203,7 +5265,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3422992744,
+      "task_id": 3423633080,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5211,7 +5273,15 @@
       "status": "queued"
     }
   ],
-  "uniq": 1897090850,
+  "themendovoice-2022": {
+    "url": "https://mendovoice.com/",
+    "job_id": "spn2-e8fa4e2e66e2f07ab6e5c0b2838b09414110487f",
+    "status": "error",
+    "message": "Job failed.",
+    "status_ext": "error:job-failed",
+    "resources": []
+  },
+  "uniq": 1307375175,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]

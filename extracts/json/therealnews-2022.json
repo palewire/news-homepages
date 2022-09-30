@@ -1,5 +1,5 @@
 {
-  "created": 1664510128,
+  "created": 1664556340,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/3/items/therealnews-2022",
@@ -9267,31 +9267,93 @@
       "format": "JSON"
     },
     {
+      "name": "therealnews-2022-09-29T23:54:09.791997-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "therealnews-2022-09-29T23:54:09.791997-04:00.jpg",
+      "mtime": "1664512568",
+      "size": "10970",
+      "md5": "a003ec6c6b9d75c1e00b067d012000a7",
+      "crc32": "74bf1687",
+      "sha1": "df8a2bbdbbd8bf64730557f8b3cf433141fe32d7"
+    },
+    {
+      "name": "therealnews-2022-09-30T12:16:30.615434-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664554600",
+      "size": "25604",
+      "md5": "b0c4129357253252f9213108519c37f4",
+      "crc32": "0b5c7871",
+      "sha1": "e3e706bbd15c89425f888c35490dca21347dc4bb",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-09-30T12:16:30.615434-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664554602",
+      "size": "32600",
+      "md5": "431e4cb486278a43785426d1fdc462d0",
+      "crc32": "d3809055",
+      "sha1": "9452e105ed7990461acf6061fcc34dec802b08f3",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-09-30T12:16:30.615434-04:00.jpg",
+      "source": "original",
+      "mtime": "1664554597",
+      "size": "354322",
+      "md5": "fe622f48ddb3d8eda9106026ae4cb5bb",
+      "crc32": "63c82465",
+      "sha1": "aa22d9a64e4b82c3640524a4a3c107bffeabfd32",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "therealnews-2022-09-30T12:16:30.615434-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664554604",
+      "size": "1468",
+      "md5": "851221fa3da66b01cc0a71bf9a71ddb0",
+      "crc32": "5110d322",
+      "sha1": "4c947c1fed573cce8b210ff059c5f49566e9bada",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-09-30T12:16:30.615434-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664554605",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "therealnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d7f0a2b70707194de6c4a536ae29a2a071478a28",
-      "mtime": "1664510120",
-      "size": "192622",
-      "md5": "438585c2a0645f10ed8e2785c918b594",
-      "crc32": "5d5f93c7",
-      "sha1": "7530c191894cff4afc4efecf4d9ab24fe08da011",
+      "btih": "65a87dd08c1f42f53a317e714c7f1a6f5f54a09f",
+      "mtime": "1664554659",
+      "size": "193886",
+      "md5": "8964fae736b63eed36275f946325b155",
+      "crc32": "73f07ea3",
+      "sha1": "448b3bcf43554d725331cb82b5d7c3c114d744c6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "therealnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b7539811d514bc69ca53b2559691c01c",
+      "md5": "ce90a4ab630cb448903ec2f4583690e7",
       "summation": "md5"
     },
     {
       "name": "therealnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664510069",
-      "size": "1138688",
-      "md5": "67f0560398f944751d292a0e944dfdd8",
-      "crc32": "6c9298d2",
-      "sha1": "3a99640b8417d5bf5992f2a35cfd2eae645ed76c",
+      "mtime": "1664554613",
+      "size": "1142784",
+      "md5": "00ab78a2c9560d863f9a3cb2ded9067d",
+      "crc32": "1aac00ca",
+      "sha1": "ec1fe7fa837c190d781928745e981ce38fa231d7",
       "format": "Metadata"
     },
     {
@@ -9305,9 +9367,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 898,
-  "item_last_updated": 1664510120,
-  "item_size": 70001838,
+  "files_count": 904,
+  "item_last_updated": 1664554659,
+  "item_size": 70432364,
   "metadata": {
     "identifier": "therealnews-2022",
     "collection": [
@@ -9329,7 +9391,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3422992747,
+      "task_id": 3423632772,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9337,7 +9399,12 @@
       "status": "queued"
     }
   ],
-  "uniq": 174056931,
+  "therealnews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1520106053,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

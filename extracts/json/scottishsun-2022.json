@@ -1,5 +1,5 @@
 {
-  "created": 1664529985,
+  "created": 1664554489,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/15/items/scottishsun-2022",
@@ -12219,31 +12219,93 @@
       "format": "JSON"
     },
     {
+      "name": "scottishsun-2022-09-30T10:25:15.818653+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "scottishsun-2022-09-30T10:25:15.818653+01:00.jpg",
+      "mtime": "1664532707",
+      "size": "11305",
+      "md5": "5b1ec201f93a2d4fb18c786b6bf3dbed",
+      "crc32": "145426ca",
+      "sha1": "a9ef064101531c802531daa25ec0cd5c108581b8"
+    },
+    {
+      "name": "scottishsun-2022-09-30T17:13:12.622047+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664554396",
+      "size": "70339",
+      "md5": "074655c6d779889f90060d7cbd7cd851",
+      "crc32": "462a7340",
+      "sha1": "a66dabb0949e60aa89370b4477077140fcf24c64",
+      "format": "JSON"
+    },
+    {
+      "name": "scottishsun-2022-09-30T17:13:12.622047+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664554398",
+      "size": "90393",
+      "md5": "7620e6a28e84737f281d4e25962934b4",
+      "crc32": "95db696f",
+      "sha1": "388abf7f6d9fdbd786402ca53d286862cd0299f9",
+      "format": "JSON"
+    },
+    {
+      "name": "scottishsun-2022-09-30T17:13:12.622047+01:00.jpg",
+      "source": "original",
+      "mtime": "1664554394",
+      "size": "303086",
+      "md5": "fbb0d2459bc0053b1009fc541b4400c7",
+      "crc32": "56c15dd4",
+      "sha1": "4359fbbf5295cc63c8308f1546fc40c10f515687",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "scottishsun-2022-09-30T17:13:12.622047+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664554400",
+      "size": "1546",
+      "md5": "e95e77d27336ec52ba5ce07a5852bbf0",
+      "crc32": "8f737e91",
+      "sha1": "469051c16525c27cdc7a12a320a6ef582299d3fe",
+      "format": "JSON"
+    },
+    {
+      "name": "scottishsun-2022-09-30T17:13:12.622047+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1664554402",
+      "size": "52947",
+      "md5": "1570a7f71b4cc4e9939da6f2b2ac256c",
+      "crc32": "a360bcbc",
+      "sha1": "36302aeb158ddbac8fb81254e32380fe56e2ebf8",
+      "format": "JSON"
+    },
+    {
       "name": "scottishsun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b395face3dc9045e8541dd0b76d37e81e8a6b730",
-      "mtime": "1664529979",
-      "size": "254324",
-      "md5": "163bc85adb33c874a3b99640dcd6d8cf",
-      "crc32": "f08527b8",
-      "sha1": "9199495547e8fd62c5db7f2a2f3be7ac7006d427",
+      "btih": "12aab4f812b0808ffa765fc3e2fedf74c7b166f8",
+      "mtime": "1664554470",
+      "size": "255610",
+      "md5": "2784c97fc4b460a9d326ac54d2f4b47f",
+      "crc32": "63db61b2",
+      "sha1": "4ebc9cbdbfa6fd96820c44361fafb6c34e743ba6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scottishsun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ba6d767886f92bc4e817553288b5c2a0",
+      "md5": "fa22578be4a996fcb0c1dd56c0e39d2c",
       "summation": "md5"
     },
     {
       "name": "scottishsun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664529929",
-      "size": "1499136",
-      "md5": "7ff42a8c8665ccf90c0db61fe7ae6eca",
-      "crc32": "cb08eaa8",
-      "sha1": "1d567befca56928c8164f8c474f5008dd3a4734c",
+      "mtime": "1664554408",
+      "size": "1503232",
+      "md5": "fe0ac064e728553967060f810871274f",
+      "crc32": "87f35518",
+      "sha1": "ecc464e942666c049b5276ea461849509d6d2cd5",
       "format": "Metadata"
     },
     {
@@ -12257,9 +12319,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1183,
-  "item_last_updated": 1664529979,
-  "item_size": 110671766,
+  "files_count": 1189,
+  "item_last_updated": 1664554470,
+  "item_size": 111206764,
   "metadata": {
     "identifier": "scottishsun-2022",
     "collection": [
@@ -12281,7 +12343,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3423278567,
+      "task_id": 3423630223,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12289,7 +12351,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 280573256,
+  "uniq": 1431392414,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

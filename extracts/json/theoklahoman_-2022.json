@@ -1,5 +1,5 @@
 {
-  "created": 1664510105,
+  "created": 1664554660,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/13/items/theoklahoman_-2022",
@@ -11233,31 +11233,93 @@
       "format": "JSON"
     },
     {
+      "name": "theoklahoman_-2022-09-29T22:53:50.323972-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theoklahoman_-2022-09-29T22:53:50.323972-05:00.jpg",
+      "mtime": "1664512649",
+      "size": "9268",
+      "md5": "0fd40fe6c43efc860fe8de0ab24049a2",
+      "crc32": "697e0994",
+      "sha1": "5b91a31c2ac778320709aed161642596de8152d0"
+    },
+    {
+      "name": "theoklahoman_-2022-09-30T11:16:33.025805-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664554597",
+      "size": "23965",
+      "md5": "17ee9a9616dad13a9912b1a490c28ac5",
+      "crc32": "63a7c89a",
+      "sha1": "90dad52a74b4fb51278f6012605b6c5115b50a3e",
+      "format": "JSON"
+    },
+    {
+      "name": "theoklahoman_-2022-09-30T11:16:33.025805-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664554599",
+      "size": "38705",
+      "md5": "ad5d5edfb2efd7832598927df4b54c29",
+      "crc32": "6db8fdac",
+      "sha1": "6af55a7fbe26941fc79d2a1ac5d183f099c046f9",
+      "format": "JSON"
+    },
+    {
+      "name": "theoklahoman_-2022-09-30T11:16:33.025805-05:00.jpg",
+      "source": "original",
+      "mtime": "1664554595",
+      "size": "244290",
+      "md5": "85b850dccaae3874e003d7529cb38d43",
+      "crc32": "da242936",
+      "sha1": "d3769433375b9df5a854bcf67e0a20a9e785a6f4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theoklahoman_-2022-09-30T11:16:33.025805-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664554600",
+      "size": "1486",
+      "md5": "b660a55d8a21f004fac278fb52627598",
+      "crc32": "c7acbb87",
+      "sha1": "a8830b99c30715934fe4032c8df065858cce7425",
+      "format": "JSON"
+    },
+    {
+      "name": "theoklahoman_-2022-09-30T11:16:33.025805-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664554602",
+      "size": "120235",
+      "md5": "d34a5be144ecab320aaf320b30744265",
+      "crc32": "0f10a086",
+      "sha1": "aef76219fc54a02a72e182c2ebd1e07900488f5a",
+      "format": "JSON"
+    },
+    {
       "name": "theoklahoman_-2022_archive.torrent",
       "source": "metadata",
-      "btih": "04dbef29a7f89db2f925d7d0648969f55551fcae",
-      "mtime": "1664510098",
-      "size": "234336",
-      "md5": "492aad69a3922b7f6a528ae40f0d81a8",
-      "crc32": "c83ad135",
-      "sha1": "c9de0eb75ccd85df8b479bcad6895b6134eae0dc",
+      "btih": "6483b033c37b70575a856b7ed7e2be5cc389824d",
+      "mtime": "1664554654",
+      "size": "235634",
+      "md5": "af8f68c5d5c6eaeb22886963322bb43a",
+      "crc32": "69dee08a",
+      "sha1": "0465cf7e7ddab6cdd31088c2cbe35589367be6e9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theoklahoman_-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aabda21fb42dfb2b9a281393bc29f49d",
+      "md5": "7defddffe40d6ad1e8b6556b38753c9c",
       "summation": "md5"
     },
     {
       "name": "theoklahoman_-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664510047",
-      "size": "1351680",
-      "md5": "13b9758e624df1039de2cd8307d793d7",
-      "crc32": "186e0cb7",
-      "sha1": "7cb9f69d8ef4055ba637710e6bacf888a615422f",
+      "mtime": "1664554608",
+      "size": "1359872",
+      "md5": "7754b8c8c9621b0ae08df7a719870d42",
+      "crc32": "f488fd1f",
+      "sha1": "6ef45774f9d208c9497a8c7e201bbf67b911892c",
       "format": "Metadata"
     },
     {
@@ -11271,9 +11333,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1085,
-  "item_last_updated": 1664510098,
-  "item_size": 79294143,
+  "files_count": 1091,
+  "item_last_updated": 1664554654,
+  "item_size": 79741582,
   "metadata": {
     "identifier": "theoklahoman_-2022",
     "collection": [
@@ -11295,7 +11357,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3422992417,
+      "task_id": 3423632676,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11303,7 +11365,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 852099662,
+  "uniq": 689672505,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]
