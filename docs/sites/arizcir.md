@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 232 screenshots with the Internet Archive.
+The archiving routine has saved 233 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 232 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-29T15:57:53.849748-07:00.jpg">
+  <img src="https://archive.org/download/arizcir-2022/arizcir-2022-09-29T15:57:53.849748-07:00.jpg"
+     alt="Arizona Center for Investigative Reporting at 2022-09-29 15:57:55-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-29T15:57:53.849748-07:00.jpg">September 29 at 3:57 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-29T03:50:31.861610-07:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-24T03:42:27.588369-07:00.jpg">September 24 at 3:42 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-23T16:50:49.211193-07:00.jpg">
-  <img src="https://archive.org/download/arizcir-2022/arizcir-2022-09-23T16:50:49.211193-07:00.jpg"
-     alt="Arizona Center for Investigative Reporting at 2022-09-23 16:50:50-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/arizcir-2022/arizcir-2022-09-23T16:50:49.211193-07:00.jpg">September 23 at 4:50 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 233 hyperlink lists with the Internet Archive.
+The archiving routine has saved 234 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 3:58 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-29T15:57:53.849748-07:00.hyperlinks.json) |
 | [September 29 at 3:50 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-29T03:50:31.861610-07:00.hyperlinks.json) |
 | [September 28 at 3:52 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-28T15:52:07.875791-07:00.hyperlinks.json) |
 | [September 28 at 4:02 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-28T04:01:55.891529-07:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 3:52 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-26T03:52:20.322945-07:00.hyperlinks.json) |
 | [September 25 at 3:41 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-25T15:40:59.685800-07:00.hyperlinks.json) |
 | [September 25 at 3:40 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-25T03:40:16.449388-07:00.hyperlinks.json) |
-| [September 24 at 3:40 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-24T15:40:27.103103-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 233 accessibility trees with the Internet Archive.
+The archiving routine has saved 234 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 3:57 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-29T15:57:53.849748-07:00.accessibility.json) |
 | [September 29 at 3:50 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-29T03:50:31.861610-07:00.accessibility.json) |
 | [September 28 at 3:52 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-28T15:52:07.875791-07:00.accessibility.json) |
 | [September 28 at 4:01 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-28T04:01:55.891529-07:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 3:52 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-26T03:52:20.322945-07:00.accessibility.json) |
 | [September 25 at 3:41 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-25T15:40:59.685800-07:00.accessibility.json) |
 | [September 25 at 3:40 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-25T03:40:16.449388-07:00.accessibility.json) |
-| [September 24 at 3:40 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-24T15:40:27.103103-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 138 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 139 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 3:58 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-29T15:57:53.849748-07:00.lighthouse.json) |
 | [September 29 at 3:50 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-29T03:50:31.861610-07:00.lighthouse.json) |
 | [September 28 at 3:52 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-28T15:52:07.875791-07:00.lighthouse.json) |
 | [September 28 at 4:02 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-28T04:01:55.891529-07:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 3:52 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-26T03:52:20.322945-07:00.lighthouse.json) |
 | [September 25 at 3:41 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-25T15:40:59.685800-07:00.lighthouse.json) |
 | [September 25 at 3:40 AM](https://archive.org/download/arizcir-2022/arizcir-2022-09-25T03:40:16.449388-07:00.lighthouse.json) |
-| [September 24 at 3:40 PM](https://archive.org/download/arizcir-2022/arizcir-2022-09-24T15:40:27.103103-07:00.lighthouse.json) |
 
 
 

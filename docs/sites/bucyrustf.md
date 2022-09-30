@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 19 screenshots with the Internet Archive.
+The archiving routine has saved 20 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-29T19:03:27.386047-04:00.jpg">
+  <img src="https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-29T19:03:27.386047-04:00.jpg"
+     alt="Bucyrus Telegraph Forum at 2022-09-29 19:03:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-29T19:03:27.386047-04:00.jpg">September 29 at 7:03 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-29T06:55:50.282759-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-24T06:46:25.272629-04:00.jpg">September 24 at 6:46 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-23T19:52:59.245479-04:00.jpg">
-  <img src="https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-23T19:52:59.245479-04:00.jpg"
-     alt="Bucyrus Telegraph Forum at 2022-09-23 19:53:01-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-23T19:52:59.245479-04:00.jpg">September 23 at 7:53 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 19 hyperlink lists with the Internet Archive.
+The archiving routine has saved 20 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 29 at 7:03 PM](https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-29T19:03:27.386047-04:00.hyperlinks.json) |
 | [September 29 at 6:55 AM](https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-29T06:55:50.282759-04:00.hyperlinks.json) |
 | [September 28 at 6:57 PM](https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-28T18:57:52.847585-04:00.hyperlinks.json) |
 | [September 28 at 7:07 AM](https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-28T07:07:29.149067-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 26 at 6:56 AM](https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-26T06:56:52.966918-04:00.hyperlinks.json) |
 | [September 25 at 6:44 PM](https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-25T18:44:34.043665-04:00.hyperlinks.json) |
 | [September 25 at 6:43 AM](https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-25T06:43:45.454301-04:00.hyperlinks.json) |
-| [September 24 at 6:43 PM](https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-24T18:43:52.414221-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 18 accessibility trees with the Internet Archive.
+The archiving routine has saved 19 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 29 at 7:03 PM](https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-29T19:03:27.386047-04:00.accessibility.json) |
 | [September 29 at 6:55 AM](https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-29T06:55:50.282759-04:00.accessibility.json) |
 | [September 28 at 6:57 PM](https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-28T18:57:52.847585-04:00.accessibility.json) |
 | [September 27 at 6:58 PM](https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-27T18:58:02.006742-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 25 at 6:44 PM](https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-25T18:44:34.043665-04:00.accessibility.json) |
 | [September 25 at 6:43 AM](https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-25T06:43:45.454301-04:00.accessibility.json) |
 | [September 24 at 6:43 PM](https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-24T18:43:52.414221-04:00.accessibility.json) |
-| [September 24 at 6:46 AM](https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-24T06:46:25.272629-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 29 at 7:03 PM](https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-29T19:03:27.386047-04:00.lighthouse.json) |
 | [September 29 at 6:55 AM](https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-29T06:55:50.282759-04:00.lighthouse.json) |
 | [September 28 at 6:57 PM](https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-28T18:57:52.847585-04:00.lighthouse.json) |
 | [September 28 at 7:07 AM](https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-28T07:07:29.149067-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 26 at 6:57 AM](https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-26T06:56:52.966918-04:00.lighthouse.json) |
 | [September 25 at 6:44 PM](https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-25T18:44:34.043665-04:00.lighthouse.json) |
 | [September 25 at 6:43 AM](https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-25T06:43:45.454301-04:00.lighthouse.json) |
-| [September 24 at 6:44 PM](https://archive.org/download/bucyrustf-2022/bucyrustf-2022-09-24T18:43:52.414221-04:00.lighthouse.json) |
 
 
 
