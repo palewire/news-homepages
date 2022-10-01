@@ -1,5 +1,10 @@
 {
-  "created": 1664621659,
+  "burlcotimes-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1664668405,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/28/items/burlcotimes-2022",
@@ -1431,31 +1436,93 @@
       "format": "JSON"
     },
     {
+      "name": "burlcotimes-2022-10-01T06:53:22.754849-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "burlcotimes-2022-10-01T06:53:22.754849-04:00.jpg",
+      "mtime": "1664624666",
+      "size": "9143",
+      "md5": "d7c14b6a88fc0efcf532e4e733ad0e82",
+      "crc32": "c4819bdb",
+      "sha1": "447ad40fbf5828f1bede06cd22f771c8180813a8"
+    },
+    {
+      "name": "burlcotimes-2022-10-01T19:00:43.644280-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664665247",
+      "size": "24211",
+      "md5": "b02609eed644414e0c5d02e314792362",
+      "crc32": "eb682055",
+      "sha1": "567ab874894785f6c9b0dd5ec5500caf55b4bf29",
+      "format": "JSON"
+    },
+    {
+      "name": "burlcotimes-2022-10-01T19:00:43.644280-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664665249",
+      "size": "35718",
+      "md5": "279501c6c859c680640e4c2fb3f10e56",
+      "crc32": "462e8f6f",
+      "sha1": "c8b295d64c6175a94459fab4c17fb5c73acb079e",
+      "format": "JSON"
+    },
+    {
+      "name": "burlcotimes-2022-10-01T19:00:43.644280-04:00.jpg",
+      "source": "original",
+      "mtime": "1664665245",
+      "size": "279549",
+      "md5": "c5eb56abcb9943041df091264b0bb68f",
+      "crc32": "c1654f9d",
+      "sha1": "5018f1c46e74b87b802b0a0d4be205020d31a3ed",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "burlcotimes-2022-10-01T19:00:43.644280-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664665251",
+      "size": "1594",
+      "md5": "93f20d2dbfd02344a0195721d64c4d99",
+      "crc32": "10847d2c",
+      "sha1": "357440671b3cea5e02757f6863d22f9c112ef2a1",
+      "format": "JSON"
+    },
+    {
+      "name": "burlcotimes-2022-10-01T19:00:43.644280-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664665252",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "burlcotimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "50ee2424e54359b5300b5eb0654002b891482f35",
-      "mtime": "1664621651",
-      "size": "30898",
-      "md5": "1587cb8c97ae03183687d353b9329634",
-      "crc32": "4111e29a",
-      "sha1": "7c324eab7fb389838ef678f0b3d676fb5a3e0b88",
+      "btih": "81b3ab5fb36125c42a081eab3c28b0ba9b972418",
+      "mtime": "1664665339",
+      "size": "32181",
+      "md5": "bc93f88c515778622ecd58ebe01c2973",
+      "crc32": "e4a4fa6d",
+      "sha1": "0501e24d4f9b7517da49b107d749ffbe6175f242",
       "format": "Archive BitTorrent"
     },
     {
       "name": "burlcotimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b1f469354ce91bff3f3240e16e6e2bf6",
+      "md5": "b3e3ffa11f0e967411b37cc30029a57a",
       "summation": "md5"
     },
     {
       "name": "burlcotimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664621616",
-      "size": "200704",
-      "md5": "4f66b8b8494eab1680ba0324f61b77e1",
-      "crc32": "caad6eda",
-      "sha1": "34949fd222acc449199e0fa96a3f222db4fce6d0",
+      "mtime": "1664665297",
+      "size": "204800",
+      "md5": "170985426c280870d7727d933fea88d1",
+      "crc32": "646c78ac",
+      "sha1": "03f5d8b9d66d4ce657565fed131a07f9bae378f7",
       "format": "Metadata"
     },
     {
@@ -1469,9 +1536,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 142,
-  "item_last_updated": 1664621651,
-  "item_size": 9641635,
+  "files_count": 148,
+  "item_last_updated": 1664665339,
+  "item_size": 9997431,
   "metadata": {
     "identifier": "burlcotimes-2022",
     "collection": [
@@ -1493,15 +1560,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3424561318,
+      "task_id": 3425132916,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1859161990,
+  "uniq": 400173354,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]
