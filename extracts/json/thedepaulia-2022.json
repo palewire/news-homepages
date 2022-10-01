@@ -1,5 +1,5 @@
 {
-  "created": 1664555224,
+  "created": 1664596356,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/30/items/thedepaulia-2022",
@@ -11847,31 +11847,93 @@
       "format": "JSON"
     },
     {
+      "name": "thedepaulia-2022-09-30T11:22:46.435744-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedepaulia-2022-09-30T11:22:46.435744-05:00.jpg",
+      "mtime": "1664558777",
+      "size": "10745",
+      "md5": "540a5032843037a838d7566bcddcc50b",
+      "crc32": "81141abf",
+      "sha1": "9ae087102c79435711522282c93c63317e4cc1f7"
+    },
+    {
+      "name": "thedepaulia-2022-09-30T22:50:56.053777-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664596286",
+      "size": "27878",
+      "md5": "41301bb0171888c0cbae448ecd6d6f82",
+      "crc32": "0fe320f4",
+      "sha1": "f741be6aec2aec99268c6f428c343d9983eddcae",
+      "format": "JSON"
+    },
+    {
+      "name": "thedepaulia-2022-09-30T22:50:56.053777-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664596288",
+      "size": "91730",
+      "md5": "e168cad36fc6490010ca1c2dd194ca73",
+      "crc32": "21d49b97",
+      "sha1": "bc6ae3166861938e180512a65a3eeff9728105fa",
+      "format": "JSON"
+    },
+    {
+      "name": "thedepaulia-2022-09-30T22:50:56.053777-05:00.jpg",
+      "source": "original",
+      "mtime": "1664596284",
+      "size": "327792",
+      "md5": "1ea00606276406e157d96cf964729ee2",
+      "crc32": "1665bb38",
+      "sha1": "cbd920a8be3697cb06629d25817fe7fd4818a002",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedepaulia-2022-09-30T22:50:56.053777-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664596296",
+      "size": "1486",
+      "md5": "31c799505f44a6dfd3f2bbf3ab0fe7cc",
+      "crc32": "1ceafba1",
+      "sha1": "29c65cd7a8549ebe839f6077038d80249895cd96",
+      "format": "JSON"
+    },
+    {
+      "name": "thedepaulia-2022-09-30T22:50:56.053777-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664596298",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "thedepaulia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "18c1d36d892f1632ea2536a8deb12cbc13e50c25",
-      "mtime": "1664555212",
-      "size": "246298",
-      "md5": "225ef2bf0bdb68bda788230486dd3092",
-      "crc32": "71e24673",
-      "sha1": "b06e5c7a5287b57d27d5616ea013da6844aa08a2",
+      "btih": "c8534d2f64722413a2fc02e7a1a8a2238ac40996",
+      "mtime": "1664596350",
+      "size": "247562",
+      "md5": "37a829b9056e4c06c905cb4a8393c877",
+      "crc32": "4c7f23aa",
+      "sha1": "b4a047d3dc510a20d4d9e9ac0cbffa58a3eef008",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedepaulia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cf4959ad6ef10112cf2901c5982c6815",
+      "md5": "5a95df92c99614cd1da59d0a9ee40152",
       "summation": "md5"
     },
     {
       "name": "thedepaulia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664555199",
-      "size": "1466368",
-      "md5": "2c87a616464242e01d6d8ff6324e8ce4",
-      "crc32": "f14d6187",
-      "sha1": "f6d64f51d5b74cbf76ef2d92ce803f6df61bc7b9",
+      "mtime": "1664596301",
+      "size": "1474560",
+      "md5": "1353d55585a886b0bcc3cf8818a5da81",
+      "crc32": "394c86d4",
+      "sha1": "f6047a490b7af84869131975c42b78815396370b",
       "format": "Metadata"
     },
     {
@@ -11885,9 +11947,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1149,
-  "item_last_updated": 1664555212,
-  "item_size": 90475269,
+  "files_count": 1155,
+  "item_last_updated": 1664596350,
+  "item_size": 90944558,
   "metadata": {
     "identifier": "thedepaulia-2022",
     "collection": [
@@ -11909,7 +11971,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3423639632,
+      "task_id": 3424205206,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11917,7 +11979,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1529713705,
+  "uniq": 614094542,
   "workable_servers": [
     "ia902503.us.archive.org"
   ]

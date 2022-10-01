@@ -1,5 +1,5 @@
 {
-  "created": 1664554833,
+  "created": 1664596205,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/24/items/teenvogue-2022",
@@ -8805,31 +8805,93 @@
       "format": "JSON"
     },
     {
+      "name": "teenvogue-2022-09-30T12:13:46.368111-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "teenvogue-2022-09-30T12:13:46.368111-04:00.jpg",
+      "mtime": "1664558864",
+      "size": "10034",
+      "md5": "e88da99c277c500018bb5410f246bf23",
+      "crc32": "67d83b03",
+      "sha1": "04162f34848b5abf78ac76d334c81b91f9180f20"
+    },
+    {
+      "name": "teenvogue-2022-09-30T23:48:30.646216-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664596121",
+      "size": "32529",
+      "md5": "f845bf04112da33394ab9c3122061551",
+      "crc32": "0220a998",
+      "sha1": "5898a5a14c535af3cbca999e05844359bf52b5e1",
+      "format": "JSON"
+    },
+    {
+      "name": "teenvogue-2022-09-30T23:48:30.646216-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664596123",
+      "size": "15031",
+      "md5": "29b049d25bf38bcc00656ad11ba68684",
+      "crc32": "d682957e",
+      "sha1": "4aebff6c0d2750efad53880f17bcd13675046cae",
+      "format": "JSON"
+    },
+    {
+      "name": "teenvogue-2022-09-30T23:48:30.646216-04:00.jpg",
+      "source": "original",
+      "mtime": "1664596119",
+      "size": "266348",
+      "md5": "84fd955192c1600ba4ed178282acebe0",
+      "crc32": "e36b936f",
+      "sha1": "0bf837411b19280ccdb84fc987599f1774f4bd5b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "teenvogue-2022-09-30T23:48:30.646216-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664596127",
+      "size": "1485",
+      "md5": "9082d717fa05b7352641859ada2604b5",
+      "crc32": "880f53b1",
+      "sha1": "5509e2477fba293bbf1c7b40a672076c24eb0c65",
+      "format": "JSON"
+    },
+    {
+      "name": "teenvogue-2022-09-30T23:48:30.646216-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664596131",
+      "size": "132264",
+      "md5": "40b7e9d594654c0872abaf14a56a28df",
+      "crc32": "9cc2c5f2",
+      "sha1": "3f7f7362eaef8589a1a5fa3cf6ee143f38291afc",
+      "format": "JSON"
+    },
+    {
       "name": "teenvogue-2022_archive.torrent",
       "source": "metadata",
-      "btih": "84b6f14f09ab7516ebe869bc843c3d4dad750ac3",
-      "mtime": "1664554734",
-      "size": "180852",
-      "md5": "b25da5341da677ae199b6a70c6333b78",
-      "crc32": "217feb44",
-      "sha1": "86be51c8509f7110431c9f8067a5237bb62b01ea",
+      "btih": "089394e97589c79d8674314566866538179af551",
+      "mtime": "1664596186",
+      "size": "182107",
+      "md5": "4f3d6e201aac3102767ffea79a78ccf0",
+      "crc32": "5b4e371c",
+      "sha1": "198c78eca66415fbbc00960193db3015e652fcae",
       "format": "Archive BitTorrent"
     },
     {
       "name": "teenvogue-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6bc92b1ff743942ac65f087ec53ec756",
+      "md5": "b65694bff4dbaeeeafdcc74a9b958fd0",
       "summation": "md5"
     },
     {
       "name": "teenvogue-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664554679",
-      "size": "1085440",
-      "md5": "2ad8abd9060347780b4cb51cd2bf6384",
-      "crc32": "870f6300",
-      "sha1": "8b44b759e5b4ce1aa77388bf1bf5575a26f57db4",
+      "mtime": "1664596137",
+      "size": "1089536",
+      "md5": "406f3122047f5fb88f6035da30a67ba4",
+      "crc32": "54868483",
+      "sha1": "38356b7c8c348dec1bb1a183a2c44ba6e40c9243",
       "format": "Metadata"
     },
     {
@@ -8843,9 +8905,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 854,
-  "item_last_updated": 1664554734,
-  "item_size": 51600359,
+  "files_count": 860,
+  "item_last_updated": 1664596186,
+  "item_size": 52063401,
   "metadata": {
     "identifier": "teenvogue-2022",
     "collection": [
@@ -8867,7 +8929,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3423638490,
+      "task_id": 3424203495,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8875,7 +8937,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 608021236,
+  "uniq": 145767441,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]

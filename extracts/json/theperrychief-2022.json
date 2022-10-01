@@ -1,5 +1,5 @@
 {
-  "created": 1664559019,
+  "created": 1664596319,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/25/items/theperrychief-2022",
@@ -1566,31 +1566,82 @@
       "sha1": "3189efbe7b5c802cf7d92421df40521cfc508123"
     },
     {
+      "name": "theperrychief-2022-09-30T22:50:55.203357-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664596258",
+      "size": "20720",
+      "md5": "25d130011951120af18bb7a5643c1335",
+      "crc32": "ba7a83f9",
+      "sha1": "ae400740753edb841cc77ce57085df968cae4c60",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-09-30T22:50:55.203357-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664596260",
+      "size": "35994",
+      "md5": "97288fab08babb15535a0c4ea7ecf4fe",
+      "crc32": "acede954",
+      "sha1": "947347b8133d0365aca19e85e9f686345c08c158",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-09-30T22:50:55.203357-05:00.jpg",
+      "source": "original",
+      "mtime": "1664596257",
+      "size": "284893",
+      "md5": "eb9f6c657924c19c6614868deb02ecdc",
+      "crc32": "1f012f4b",
+      "sha1": "5517502196fabdd8758e555a426ab9b799e176c3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theperrychief-2022-09-30T22:50:55.203357-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664596262",
+      "size": "1558",
+      "md5": "ddf1d8b876e5c65e1581d910d0344917",
+      "crc32": "3dbfc2df",
+      "sha1": "d1ed9982e4f679d696b4ca46d3269aa8cb217280",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-09-30T22:50:55.203357-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664596263",
+      "size": "93244",
+      "md5": "2ec9927bf6a52478133640e9e27ca04c",
+      "crc32": "647924df",
+      "sha1": "fc8204ffa9f7c956b01d88559fdc04972c1e45ca",
+      "format": "JSON"
+    },
+    {
       "name": "theperrychief-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7af6cbb400db77a95320bd985c5b17b7021424f5",
-      "mtime": "1664559003",
-      "size": "33975",
-      "md5": "2302335f3473ab68147a788ee761b3e7",
-      "crc32": "344a4d20",
-      "sha1": "efa441081af64765dfa77d8c2987878a6db81933",
+      "btih": "46277047bbf21264375f890b1f79f047e6f02763",
+      "mtime": "1664596312",
+      "size": "35063",
+      "md5": "75c5d8a89448240d8bcd8a3e121a86fc",
+      "crc32": "1010c8a8",
+      "sha1": "5fb00e22203dc021b67efe15eea2640e529965c2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theperrychief-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fe4e0f29cdaccb9a661f774c56830fc7",
+      "md5": "cec5c9577552bf68b89f5f639e495262",
       "summation": "md5"
     },
     {
       "name": "theperrychief-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664555230",
-      "size": "217088",
-      "md5": "1051462335b8831f2b8e48a7c130a557",
-      "crc32": "cb85427d",
-      "sha1": "e96b238c2683db41f5e69e1d8ffa4bfc63f3ebf5",
+      "mtime": "1664596276",
+      "size": "225280",
+      "md5": "7aa6f4acdcc741993f6be4efea544747",
+      "crc32": "f9ad29d6",
+      "sha1": "190a07a34f3f32bd61161e3d2a7831b9bc2dea72",
       "format": "Metadata"
     },
     {
@@ -1604,9 +1655,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 155,
-  "item_last_updated": 1664559003,
-  "item_size": 10385544,
+  "files_count": 160,
+  "item_last_updated": 1664596312,
+  "item_size": 10831233,
   "metadata": {
     "identifier": "theperrychief-2022",
     "collection": [
@@ -1623,10 +1674,21 @@
     "publicdate": "2022-09-21 03:45:08",
     "addeddate": "2022-09-21 03:45:08"
   },
+  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "uniq": 1794139847,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3424204802,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 515021101,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia601409.us.archive.org"
   ]
 }

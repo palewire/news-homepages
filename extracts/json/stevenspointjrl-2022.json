@@ -1,5 +1,5 @@
 {
-  "created": 1664554561,
+  "created": 1664596179,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/21/items/stevenspointjrl-2022",
@@ -15735,31 +15735,93 @@
       "format": "JSON"
     },
     {
+      "name": "stevenspointjrl-2022-09-30T11:14:30.321605-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stevenspointjrl-2022-09-30T11:14:30.321605-05:00.jpg",
+      "mtime": "1664558152",
+      "size": "8938",
+      "md5": "61a0c2e2025227c0dc49cf0b4d9918d6",
+      "crc32": "4703915a",
+      "sha1": "e72100630b6096dd7df0245dbcfe0ca897a7dea1"
+    },
+    {
+      "name": "stevenspointjrl-2022-09-30T22:48:14.610644-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664596105",
+      "size": "23628",
+      "md5": "8f664233e09e9fd412f7916a52bab956",
+      "crc32": "9965ff9c",
+      "sha1": "07791bede8e4c539e54da9442ced43e76f13c637",
+      "format": "JSON"
+    },
+    {
+      "name": "stevenspointjrl-2022-09-30T22:48:14.610644-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664596108",
+      "size": "35828",
+      "md5": "19b1dc294766012dce7fec200e3bce21",
+      "crc32": "45f2258b",
+      "sha1": "d4ce690a30e9275c2ddfa7011f600279a16e5ec4",
+      "format": "JSON"
+    },
+    {
+      "name": "stevenspointjrl-2022-09-30T22:48:14.610644-05:00.jpg",
+      "source": "original",
+      "mtime": "1664596103",
+      "size": "248308",
+      "md5": "1578fe8864119504dc3149d4f9713a8f",
+      "crc32": "1527f4d1",
+      "sha1": "271e190fee57753b76411e041a5f846713ab5fe5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stevenspointjrl-2022-09-30T22:48:14.610644-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664596112",
+      "size": "1576",
+      "md5": "10ddef7240dfb23ea4b432263f34ff5a",
+      "crc32": "6d21321f",
+      "sha1": "0b85dde4f696110125c5dc7b670aa5478c784a8c",
+      "format": "JSON"
+    },
+    {
+      "name": "stevenspointjrl-2022-09-30T22:48:14.610644-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664596114",
+      "size": "112572",
+      "md5": "5de7f0fe25c84aeebb8655ebe28a0741",
+      "crc32": "631f3a94",
+      "sha1": "e25a09786fba314f2e077a1880609d970163ef6c",
+      "format": "JSON"
+    },
+    {
       "name": "stevenspointjrl-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8bf9dfc6a3e1ad6652cae70c8f81457902450d73",
-      "mtime": "1664554552",
-      "size": "329706",
-      "md5": "4641ecc8d4795ba792f3d8483d879a1d",
-      "crc32": "e3b57e72",
-      "sha1": "0c3bdc07410947f0333be5c8788a8e167537081d",
+      "btih": "52f57c719345c993b448f30e69e0ba4b6fc4dde0",
+      "mtime": "1664596175",
+      "size": "331016",
+      "md5": "465a9c93fa691285ac697677f8123f0d",
+      "crc32": "973dcd3e",
+      "sha1": "9cd99b497fd9922345e7b405dc2a8adc9f87afc5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "stevenspointjrl-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7db48222340d3ae530860d54820caf16",
+      "md5": "8daf96f142f891bebc7867bae88889d3",
       "summation": "md5"
     },
     {
       "name": "stevenspointjrl-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664554492",
-      "size": "1843200",
-      "md5": "60dba9f01ddbbf3aff5f3375b1fefb25",
-      "crc32": "91b9db93",
-      "sha1": "56b40ea5f933c60c600b0efd073555f94aa51a87",
+      "mtime": "1664596118",
+      "size": "1847296",
+      "md5": "16a7555e393b7c3bac9aa013368abbad",
+      "crc32": "1c5efd70",
+      "sha1": "6eeec7a1a9a08810ddc261b61adba7e37dbfbbc4",
       "format": "Metadata"
     },
     {
@@ -15773,9 +15835,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1513,
-  "item_last_updated": 1664554552,
-  "item_size": 119707981,
+  "files_count": 1519,
+  "item_last_updated": 1664596175,
+  "item_size": 120144237,
   "metadata": {
     "identifier": "stevenspointjrl-2022",
     "collection": [
@@ -15797,7 +15859,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3423631256,
+      "task_id": 3424203250,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -15805,7 +15867,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 919652741,
+  "uniq": 1010182417,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1664554876,
+  "created": 1664596504,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/29/items/tucsonsentinel-2022",
@@ -9487,31 +9487,93 @@
       "format": "JSON"
     },
     {
+      "name": "tucsonsentinel-2022-09-30T09:20:09.695483-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tucsonsentinel-2022-09-30T09:20:09.695483-07:00.jpg",
+      "mtime": "1664558325",
+      "size": "10201",
+      "md5": "8c6f1e7df573ad58b3b6042df7dc4fc3",
+      "crc32": "c30aece0",
+      "sha1": "924bc5a109aa202e399ed4a74159211650c63cc2"
+    },
+    {
+      "name": "tucsonsentinel-2022-09-30T20:54:00.191606-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664596450",
+      "size": "43324",
+      "md5": "d16fb2d53a6424f4741cc2f28bbfd63e",
+      "crc32": "29368a45",
+      "sha1": "33e2ee9c5cf06af89810937ca0229c5f9d9393a2",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonsentinel-2022-09-30T20:54:00.191606-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664596451",
+      "size": "40557",
+      "md5": "09624b8be3c03d1f5356e34984231b06",
+      "crc32": "b61d82cf",
+      "sha1": "8aded397cfd1d6445e983e20ff20dd8bd24feb93",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonsentinel-2022-09-30T20:54:00.191606-07:00.jpg",
+      "source": "original",
+      "mtime": "1664596447",
+      "size": "336914",
+      "md5": "17ba1983bd4716e131298f58d2b85e44",
+      "crc32": "96dcd993",
+      "sha1": "113ae8b1f42ae47cecc8ab6d8c147ba083175d65",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tucsonsentinel-2022-09-30T20:54:00.191606-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664596453",
+      "size": "1531",
+      "md5": "5dd1dff56f328d170168bf9ff2e5b68f",
+      "crc32": "45006655",
+      "sha1": "826e38cfe1fa1a46b4d6f49ad7d63cbf42975f70",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonsentinel-2022-09-30T20:54:00.191606-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664596455",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "tucsonsentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a07a402334ec7c88076db77c6eab2c4ad6ad3936",
-      "mtime": "1664554873",
-      "size": "200013",
-      "md5": "ba07c8093cb3d79a7e3bb7aee9117b8a",
-      "crc32": "97bf63a4",
-      "sha1": "dbf444a8fc46bed2ba697b3efdd21b83120e70a6",
+      "btih": "e306000e188047954bdc3a9fbe7c08f5fb8e15af",
+      "mtime": "1664596502",
+      "size": "201315",
+      "md5": "2bece156332ca7e30b603bae22eb935a",
+      "crc32": "3aa2809d",
+      "sha1": "2572b5c6c0b37f1c7eb13f311ab105128336aa9f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tucsonsentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6b7a64f78dadfbe9036b718adc048d04",
+      "md5": "4f47a246a79dc6b1dfcca5d1ad348671",
       "summation": "md5"
     },
     {
       "name": "tucsonsentinel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664554829",
-      "size": "1167360",
-      "md5": "e0872c88879fc640454b9ff676b0f571",
-      "crc32": "de670311",
-      "sha1": "f9cf2cfc935a70c5d640c5eb456a6ee364df259b",
+      "mtime": "1664596459",
+      "size": "1175552",
+      "md5": "ca6b20c5c038e19717766cff59c2200c",
+      "crc32": "279e9ea4",
+      "sha1": "b0502a39b7bd01b0e65ebce59cca1dbdff367de8",
       "format": "Metadata"
     },
     {
@@ -9525,9 +9587,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 919,
-  "item_last_updated": 1664554873,
-  "item_size": 77168623,
+  "files_count": 925,
+  "item_last_updated": 1664596502,
+  "item_size": 77610846,
   "metadata": {
     "identifier": "tucsonsentinel-2022",
     "collection": [
@@ -9549,7 +9611,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3423635611,
+      "task_id": 3424206824,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9557,7 +9619,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 411659447,
+  "uniq": 787094188,
   "workable_servers": [
     "ia902508.us.archive.org"
   ]
