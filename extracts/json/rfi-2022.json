@@ -1,5 +1,6 @@
 {
-  "created": 1664592015,
+  "conflict": 1664612393,
+  "created": 1664612393,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/10/items/rfi-2022",
@@ -15411,21 +15412,32 @@
       "format": "JSON"
     },
     {
+      "name": "rfi-2022-10-01T04:37:54.677766+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rfi-2022-10-01T04:37:54.677766+02:00.jpg",
+      "mtime": "1664593979",
+      "size": "9696",
+      "md5": "47ec959385a27563ba81542dac48e48f",
+      "crc32": "6e6b15f2",
+      "sha1": "9f3ab98844936835f03917132a70e2b1f939fd30"
+    },
+    {
       "name": "rfi-2022_archive.torrent",
       "source": "metadata",
-      "btih": "081a8c04184900f8d8910e0b23b96b5bc5a00736",
-      "mtime": "1664591992",
-      "size": "306078",
-      "md5": "0ba558e4c7051c662b33c25d60d92518",
-      "crc32": "0d41a5d3",
-      "sha1": "9ccbf3febd17cfe307868c30ad5ed4433e05e419",
+      "btih": "6cb2ae50088ccff150aca934c0ccea33c3e6552d",
+      "mtime": "1664594094",
+      "size": "306277",
+      "md5": "84ad2f132618035c3a6adecf2df53c2e",
+      "crc32": "8ea36dfd",
+      "sha1": "9d54193852df78f2a9ecc32b9a444b4934eb0cc0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rfi-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "694745a0372e8b709b25a9cb14ac3231",
+      "md5": "097dcca095496adc1497ed106824a017",
       "summation": "md5"
     },
     {
@@ -15449,9 +15461,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1489,
-  "item_last_updated": 1664591992,
-  "item_size": 100330722,
+  "files_count": 1490,
+  "item_last_updated": 1664594094,
+  "item_size": 100340617,
   "metadata": {
     "identifier": "rfi-2022",
     "collection": [
@@ -15473,15 +15485,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3424154400,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "task_id": 3424429123,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1164158153,
+  "uniq": 1673956204,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]
