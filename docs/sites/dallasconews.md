@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 26 screenshots with the Internet Archive.
+The archiving routine has saved 27 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dallasconews-2022/dallasconews-2022-09-30T18:49:40.417514-05:00.jpg">
+  <img src="https://archive.org/download/dallasconews-2022/dallasconews-2022-09-30T18:49:40.417514-05:00.jpg"
+     alt="Dallas County News at 2022-09-30 18:49:43-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dallasconews-2022/dallasconews-2022-09-30T18:49:40.417514-05:00.jpg">September 30 at 6:49 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasconews-2022/dallasconews-2022-09-30T11:20:57.658646-05:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dallasconews-2022/dallasconews-2022-09-26T11:11:21.368342-05:00.jpg">September 26 at 11:11 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dallasconews-2022/dallasconews-2022-09-26T07:00:04.148256-05:00.jpg">
-  <img src="https://archive.org/download/dallasconews-2022/dallasconews-2022-09-26T07:00:04.148256-05:00.jpg"
-     alt="Dallas County News at 2022-09-26 07:00:08-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dallasconews-2022/dallasconews-2022-09-26T07:00:04.148256-05:00.jpg">September 26 at 7:00 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 26 hyperlink lists with the Internet Archive.
+The archiving routine has saved 27 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 6:49 PM](https://archive.org/download/dallasconews-2022/dallasconews-2022-09-30T18:49:40.417514-05:00.hyperlinks.json) |
 | [September 30 at 11:21 AM](https://archive.org/download/dallasconews-2022/dallasconews-2022-09-30T11:20:57.658646-05:00.hyperlinks.json) |
 | [September 30 at 7:01 AM](https://archive.org/download/dallasconews-2022/dallasconews-2022-09-30T07:01:38.403241-05:00.hyperlinks.json) |
 | [September 29 at 6:56 PM](https://archive.org/download/dallasconews-2022/dallasconews-2022-09-29T18:56:43.037327-05:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 28 at 7:07 AM](https://archive.org/download/dallasconews-2022/dallasconews-2022-09-28T07:07:41.163022-05:00.hyperlinks.json) |
 | [September 27 at 6:50 PM](https://archive.org/download/dallasconews-2022/dallasconews-2022-09-27T18:50:22.353312-05:00.hyperlinks.json) |
 | [September 27 at 6:53 AM](https://archive.org/download/dallasconews-2022/dallasconews-2022-09-27T06:53:40.124504-05:00.hyperlinks.json) |
-| [September 26 at 6:45 PM](https://archive.org/download/dallasconews-2022/dallasconews-2022-09-26T18:45:23.553982-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 26 accessibility trees with the Internet Archive.
+The archiving routine has saved 27 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 6:49 PM](https://archive.org/download/dallasconews-2022/dallasconews-2022-09-30T18:49:40.417514-05:00.accessibility.json) |
 | [September 30 at 11:21 AM](https://archive.org/download/dallasconews-2022/dallasconews-2022-09-30T11:20:57.658646-05:00.accessibility.json) |
 | [September 30 at 7:01 AM](https://archive.org/download/dallasconews-2022/dallasconews-2022-09-30T07:01:38.403241-05:00.accessibility.json) |
 | [September 29 at 6:56 PM](https://archive.org/download/dallasconews-2022/dallasconews-2022-09-29T18:56:43.037327-05:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 28 at 7:07 AM](https://archive.org/download/dallasconews-2022/dallasconews-2022-09-28T07:07:41.163022-05:00.accessibility.json) |
 | [September 27 at 6:50 PM](https://archive.org/download/dallasconews-2022/dallasconews-2022-09-27T18:50:22.353312-05:00.accessibility.json) |
 | [September 27 at 6:53 AM](https://archive.org/download/dallasconews-2022/dallasconews-2022-09-27T06:53:40.124504-05:00.accessibility.json) |
-| [September 26 at 6:45 PM](https://archive.org/download/dallasconews-2022/dallasconews-2022-09-26T18:45:23.553982-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 6:49 PM](https://archive.org/download/dallasconews-2022/dallasconews-2022-09-30T18:49:40.417514-05:00.lighthouse.json) |
 | [September 30 at 11:21 AM](https://archive.org/download/dallasconews-2022/dallasconews-2022-09-30T11:20:57.658646-05:00.lighthouse.json) |
 | [September 30 at 7:01 AM](https://archive.org/download/dallasconews-2022/dallasconews-2022-09-30T07:01:38.403241-05:00.lighthouse.json) |
 | [September 29 at 6:56 PM](https://archive.org/download/dallasconews-2022/dallasconews-2022-09-29T18:56:43.037327-05:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 28 at 7:07 AM](https://archive.org/download/dallasconews-2022/dallasconews-2022-09-28T07:07:41.163022-05:00.lighthouse.json) |
 | [September 27 at 6:50 PM](https://archive.org/download/dallasconews-2022/dallasconews-2022-09-27T18:50:22.353312-05:00.lighthouse.json) |
 | [September 27 at 6:53 AM](https://archive.org/download/dallasconews-2022/dallasconews-2022-09-27T06:53:40.124504-05:00.lighthouse.json) |
-| [September 26 at 6:45 PM](https://archive.org/download/dallasconews-2022/dallasconews-2022-09-26T18:45:23.553982-05:00.lighthouse.json) |
 
 
 

@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 20 screenshots with the Internet Archive.
+The archiving routine has saved 22 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dandc-2022/dandc-2022-09-30T19:48:44.430479-04:00.jpg">
+  <img src="https://archive.org/download/dandc-2022/dandc-2022-09-30T19:48:44.430479-04:00.jpg"
+     alt="Rochester Democrat and Chronicle at 2022-09-30 19:48:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dandc-2022/dandc-2022-09-30T19:48:44.430479-04:00.jpg">September 30 at 7:48 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dandc-2022/dandc-2022-09-30T08:01:56.174298-04:00.jpg">
+  <img src="https://archive.org/download/dandc-2022/dandc-2022-09-30T08:01:56.174298-04:00.jpg"
+     alt="Rochester Democrat and Chronicle at 2022-09-30 08:01:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dandc-2022/dandc-2022-09-30T08:01:56.174298-04:00.jpg">September 30 at 8:01 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dandc-2022/dandc-2022-09-29T19:55:49.557387-04:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dandc-2022/dandc-2022-09-25T07:45:42.145014-04:00.jpg">September 25 at 7:45 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dandc-2022/dandc-2022-09-24T19:37:46.916798-04:00.jpg">
-  <img src="https://archive.org/download/dandc-2022/dandc-2022-09-24T19:37:46.916798-04:00.jpg"
-     alt="Rochester Democrat and Chronicle at 2022-09-24 19:37:49-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dandc-2022/dandc-2022-09-24T19:37:46.916798-04:00.jpg">September 24 at 7:37 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dandc-2022/dandc-2022-09-24T07:47:41.134702-04:00.jpg">
-  <img src="https://archive.org/download/dandc-2022/dandc-2022-09-24T07:47:41.134702-04:00.jpg"
-     alt="Rochester Democrat and Chronicle at 2022-09-24 07:47:43-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dandc-2022/dandc-2022-09-24T07:47:41.134702-04:00.jpg">September 24 at 7:47 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 20 hyperlink lists with the Internet Archive.
+The archiving routine has saved 22 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 7:48 PM](https://archive.org/download/dandc-2022/dandc-2022-09-30T19:48:44.430479-04:00.hyperlinks.json) |
+| [September 30 at 8:02 AM](https://archive.org/download/dandc-2022/dandc-2022-09-30T08:01:56.174298-04:00.hyperlinks.json) |
 | [September 29 at 7:55 PM](https://archive.org/download/dandc-2022/dandc-2022-09-29T19:55:49.557387-04:00.hyperlinks.json) |
 | [September 29 at 7:56 AM](https://archive.org/download/dandc-2022/dandc-2022-09-29T07:56:05.778636-04:00.hyperlinks.json) |
 | [September 28 at 7:45 PM](https://archive.org/download/dandc-2022/dandc-2022-09-28T19:45:37.377822-04:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 7:52 AM](https://archive.org/download/dandc-2022/dandc-2022-09-27T07:52:50.358674-04:00.hyperlinks.json) |
 | [September 26 at 7:45 PM](https://archive.org/download/dandc-2022/dandc-2022-09-26T19:45:28.122217-04:00.hyperlinks.json) |
 | [September 26 at 7:59 AM](https://archive.org/download/dandc-2022/dandc-2022-09-26T07:58:56.009386-04:00.hyperlinks.json) |
-| [September 25 at 7:40 PM](https://archive.org/download/dandc-2022/dandc-2022-09-25T19:40:47.550804-04:00.hyperlinks.json) |
-| [September 25 at 7:45 AM](https://archive.org/download/dandc-2022/dandc-2022-09-25T07:45:42.145014-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 20 accessibility trees with the Internet Archive.
+The archiving routine has saved 22 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 7:48 PM](https://archive.org/download/dandc-2022/dandc-2022-09-30T19:48:44.430479-04:00.accessibility.json) |
+| [September 30 at 8:02 AM](https://archive.org/download/dandc-2022/dandc-2022-09-30T08:01:56.174298-04:00.accessibility.json) |
 | [September 29 at 7:55 PM](https://archive.org/download/dandc-2022/dandc-2022-09-29T19:55:49.557387-04:00.accessibility.json) |
 | [September 29 at 7:56 AM](https://archive.org/download/dandc-2022/dandc-2022-09-29T07:56:05.778636-04:00.accessibility.json) |
 | [September 28 at 7:45 PM](https://archive.org/download/dandc-2022/dandc-2022-09-28T19:45:37.377822-04:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 7:52 AM](https://archive.org/download/dandc-2022/dandc-2022-09-27T07:52:50.358674-04:00.accessibility.json) |
 | [September 26 at 7:45 PM](https://archive.org/download/dandc-2022/dandc-2022-09-26T19:45:28.122217-04:00.accessibility.json) |
 | [September 26 at 7:58 AM](https://archive.org/download/dandc-2022/dandc-2022-09-26T07:58:56.009386-04:00.accessibility.json) |
-| [September 25 at 7:40 PM](https://archive.org/download/dandc-2022/dandc-2022-09-25T19:40:47.550804-04:00.accessibility.json) |
-| [September 25 at 7:45 AM](https://archive.org/download/dandc-2022/dandc-2022-09-25T07:45:42.145014-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 7:48 PM](https://archive.org/download/dandc-2022/dandc-2022-09-30T19:48:44.430479-04:00.lighthouse.json) |
+| [September 30 at 8:02 AM](https://archive.org/download/dandc-2022/dandc-2022-09-30T08:01:56.174298-04:00.lighthouse.json) |
 | [September 29 at 7:55 PM](https://archive.org/download/dandc-2022/dandc-2022-09-29T19:55:49.557387-04:00.lighthouse.json) |
 | [September 29 at 7:56 AM](https://archive.org/download/dandc-2022/dandc-2022-09-29T07:56:05.778636-04:00.lighthouse.json) |
 | [September 28 at 7:45 PM](https://archive.org/download/dandc-2022/dandc-2022-09-28T19:45:37.377822-04:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 7:52 AM](https://archive.org/download/dandc-2022/dandc-2022-09-27T07:52:50.358674-04:00.lighthouse.json) |
 | [September 26 at 7:45 PM](https://archive.org/download/dandc-2022/dandc-2022-09-26T19:45:28.122217-04:00.lighthouse.json) |
 | [September 26 at 7:59 AM](https://archive.org/download/dandc-2022/dandc-2022-09-26T07:58:56.009386-04:00.lighthouse.json) |
-| [September 25 at 7:40 PM](https://archive.org/download/dandc-2022/dandc-2022-09-25T19:40:47.550804-04:00.lighthouse.json) |
-| [September 25 at 7:45 AM](https://archive.org/download/dandc-2022/dandc-2022-09-25T07:45:42.145014-04:00.lighthouse.json) |
 
 
 

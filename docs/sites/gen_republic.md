@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 20 screenshots with the Internet Archive.
+The archiving routine has saved 22 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gen_republic-2022/gen_republic-2022-09-30T18:54:02.636183-05:00.jpg">
+  <img src="https://archive.org/download/gen_republic-2022/gen_republic-2022-09-30T18:54:02.636183-05:00.jpg"
+     alt="Geneseo Republic at 2022-09-30 18:54:04-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gen_republic-2022/gen_republic-2022-09-30T18:54:02.636183-05:00.jpg">September 30 at 6:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gen_republic-2022/gen_republic-2022-09-30T07:05:10.978746-05:00.jpg">
+  <img src="https://archive.org/download/gen_republic-2022/gen_republic-2022-09-30T07:05:10.978746-05:00.jpg"
+     alt="Geneseo Republic at 2022-09-30 07:05:14-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gen_republic-2022/gen_republic-2022-09-30T07:05:10.978746-05:00.jpg">September 30 at 7:05 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gen_republic-2022/gen_republic-2022-09-29T19:01:27.031127-05:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gen_republic-2022/gen_republic-2022-09-25T06:49:02.071489-05:00.jpg">September 25 at 6:49 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gen_republic-2022/gen_republic-2022-09-24T18:41:37.003757-05:00.jpg">
-  <img src="https://archive.org/download/gen_republic-2022/gen_republic-2022-09-24T18:41:37.003757-05:00.jpg"
-     alt="Geneseo Republic at 2022-09-24 18:41:40-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gen_republic-2022/gen_republic-2022-09-24T18:41:37.003757-05:00.jpg">September 24 at 6:41 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gen_republic-2022/gen_republic-2022-09-24T06:50:45.284340-05:00.jpg">
-  <img src="https://archive.org/download/gen_republic-2022/gen_republic-2022-09-24T06:50:45.284340-05:00.jpg"
-     alt="Geneseo Republic at 2022-09-24 06:50:48-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gen_republic-2022/gen_republic-2022-09-24T06:50:45.284340-05:00.jpg">September 24 at 6:50 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 20 hyperlink lists with the Internet Archive.
+The archiving routine has saved 22 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 6:54 PM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-30T18:54:02.636183-05:00.hyperlinks.json) |
+| [September 30 at 7:05 AM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-30T07:05:10.978746-05:00.hyperlinks.json) |
 | [September 29 at 7:01 PM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-29T19:01:27.031127-05:00.hyperlinks.json) |
 | [September 29 at 6:59 AM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-29T06:59:38.375654-05:00.hyperlinks.json) |
 | [September 28 at 6:50 PM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-28T18:50:05.282638-05:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 6:57 AM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-27T06:57:04.849495-05:00.hyperlinks.json) |
 | [September 26 at 6:49 PM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-26T18:49:51.788614-05:00.hyperlinks.json) |
 | [September 26 at 7:02 AM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-26T07:02:41.163425-05:00.hyperlinks.json) |
-| [September 25 at 6:45 PM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-25T18:45:00.717151-05:00.hyperlinks.json) |
-| [September 25 at 6:49 AM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-25T06:49:02.071489-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 20 accessibility trees with the Internet Archive.
+The archiving routine has saved 22 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 6:54 PM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-30T18:54:02.636183-05:00.accessibility.json) |
+| [September 30 at 7:05 AM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-30T07:05:10.978746-05:00.accessibility.json) |
 | [September 29 at 7:01 PM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-29T19:01:27.031127-05:00.accessibility.json) |
 | [September 29 at 6:59 AM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-29T06:59:38.375654-05:00.accessibility.json) |
 | [September 28 at 6:50 PM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-28T18:50:05.282638-05:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 6:57 AM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-27T06:57:04.849495-05:00.accessibility.json) |
 | [September 26 at 6:49 PM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-26T18:49:51.788614-05:00.accessibility.json) |
 | [September 26 at 7:02 AM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-26T07:02:41.163425-05:00.accessibility.json) |
-| [September 25 at 6:45 PM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-25T18:45:00.717151-05:00.accessibility.json) |
-| [September 25 at 6:49 AM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-25T06:49:02.071489-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 6:54 PM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-30T18:54:02.636183-05:00.lighthouse.json) |
+| [September 30 at 7:05 AM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-30T07:05:10.978746-05:00.lighthouse.json) |
 | [September 29 at 7:01 PM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-29T19:01:27.031127-05:00.lighthouse.json) |
 | [September 29 at 6:59 AM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-29T06:59:38.375654-05:00.lighthouse.json) |
 | [September 28 at 6:50 PM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-28T18:50:05.282638-05:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 6:57 AM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-27T06:57:04.849495-05:00.lighthouse.json) |
 | [September 26 at 6:49 PM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-26T18:49:51.788614-05:00.lighthouse.json) |
 | [September 26 at 7:02 AM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-26T07:02:41.163425-05:00.lighthouse.json) |
-| [September 25 at 6:45 PM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-25T18:45:00.717151-05:00.lighthouse.json) |
-| [September 25 at 6:49 AM](https://archive.org/download/gen_republic-2022/gen_republic-2022-09-25T06:49:02.071489-05:00.lighthouse.json) |
 
 
 

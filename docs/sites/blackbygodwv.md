@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 168 screenshots with the Internet Archive.
+The archiving routine has saved 169 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 168 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-30T19:02:19.748545-04:00.jpg">
+  <img src="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-30T19:02:19.748545-04:00.jpg"
+     alt="Black by God at 2022-09-30 19:02:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-30T19:02:19.748545-04:00.jpg">September 30 at 7:02 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-30T06:55:35.344806-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-25T06:42:01.668216-04:00.jpg">September 25 at 6:42 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-24T18:42:00.587275-04:00.jpg">
-  <img src="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-24T18:42:00.587275-04:00.jpg"
-     alt="Black by God at 2022-09-24 18:42:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-24T18:42:00.587275-04:00.jpg">September 24 at 6:42 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 168 hyperlink lists with the Internet Archive.
+The archiving routine has saved 169 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 7:02 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-30T19:02:19.748545-04:00.hyperlinks.json) |
 | [September 30 at 6:55 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-30T06:55:35.344806-04:00.hyperlinks.json) |
 | [September 29 at 7:01 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-29T19:00:45.319740-04:00.hyperlinks.json) |
 | [September 29 at 6:53 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-29T06:53:00.883419-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 6:55 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-27T06:55:26.673235-04:00.hyperlinks.json) |
 | [September 26 at 6:52 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-26T18:52:34.959119-04:00.hyperlinks.json) |
 | [September 26 at 6:55 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-26T06:55:28.608167-04:00.hyperlinks.json) |
-| [September 25 at 6:42 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-25T18:42:41.030887-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 168 accessibility trees with the Internet Archive.
+The archiving routine has saved 169 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 7:02 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-30T19:02:19.748545-04:00.accessibility.json) |
 | [September 30 at 6:55 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-30T06:55:35.344806-04:00.accessibility.json) |
 | [September 29 at 7:01 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-29T19:00:45.319740-04:00.accessibility.json) |
 | [September 29 at 6:53 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-29T06:53:00.883419-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 6:55 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-27T06:55:26.673235-04:00.accessibility.json) |
 | [September 26 at 6:52 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-26T18:52:34.959119-04:00.accessibility.json) |
 | [September 26 at 6:55 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-26T06:55:28.608167-04:00.accessibility.json) |
-| [September 25 at 6:42 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-25T18:42:41.030887-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 140 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 141 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 7:02 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-30T19:02:19.748545-04:00.lighthouse.json) |
 | [September 30 at 6:55 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-30T06:55:35.344806-04:00.lighthouse.json) |
 | [September 29 at 7:01 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-29T19:00:45.319740-04:00.lighthouse.json) |
 | [September 29 at 6:53 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-29T06:53:00.883419-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 6:55 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-27T06:55:26.673235-04:00.lighthouse.json) |
 | [September 26 at 6:52 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-26T18:52:34.959119-04:00.lighthouse.json) |
 | [September 26 at 6:55 AM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-26T06:55:28.608167-04:00.lighthouse.json) |
-| [September 25 at 6:42 PM](https://archive.org/download/blackbygodwv-2022/blackbygodwv-2022-09-25T18:42:41.030887-04:00.lighthouse.json) |
 
 
 

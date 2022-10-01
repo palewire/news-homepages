@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 21 screenshots with the Internet Archive.
+The archiving routine has saved 22 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/barnpat-2022/barnpat-2022-09-30T19:02:23.792235-04:00.jpg">
+  <img src="https://archive.org/download/barnpat-2022/barnpat-2022-09-30T19:02:23.792235-04:00.jpg"
+     alt="The Barnstable Patriot at 2022-09-30 19:02:25-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/barnpat-2022/barnpat-2022-09-30T19:02:23.792235-04:00.jpg">September 30 at 7:02 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/barnpat-2022/barnpat-2022-09-30T06:55:31.352347-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/barnpat-2022/barnpat-2022-09-25T06:43:09.903732-04:00.jpg">September 25 at 6:43 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/barnpat-2022/barnpat-2022-09-24T18:42:47.426862-04:00.jpg">
-  <img src="https://archive.org/download/barnpat-2022/barnpat-2022-09-24T18:42:47.426862-04:00.jpg"
-     alt="The Barnstable Patriot at 2022-09-24 18:42:49-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/barnpat-2022/barnpat-2022-09-24T18:42:47.426862-04:00.jpg">September 24 at 6:42 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 21 hyperlink lists with the Internet Archive.
+The archiving routine has saved 22 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 7:02 PM](https://archive.org/download/barnpat-2022/barnpat-2022-09-30T19:02:23.792235-04:00.hyperlinks.json) |
 | [September 30 at 6:55 AM](https://archive.org/download/barnpat-2022/barnpat-2022-09-30T06:55:31.352347-04:00.hyperlinks.json) |
 | [September 29 at 7:00 PM](https://archive.org/download/barnpat-2022/barnpat-2022-09-29T19:00:45.175454-04:00.hyperlinks.json) |
 | [September 29 at 6:53 AM](https://archive.org/download/barnpat-2022/barnpat-2022-09-29T06:53:43.009633-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 6:55 AM](https://archive.org/download/barnpat-2022/barnpat-2022-09-27T06:55:33.437106-04:00.hyperlinks.json) |
 | [September 26 at 6:52 PM](https://archive.org/download/barnpat-2022/barnpat-2022-09-26T18:52:22.641597-04:00.hyperlinks.json) |
 | [September 26 at 6:54 AM](https://archive.org/download/barnpat-2022/barnpat-2022-09-26T06:54:34.521450-04:00.hyperlinks.json) |
-| [September 25 at 6:42 PM](https://archive.org/download/barnpat-2022/barnpat-2022-09-25T18:42:45.573315-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 21 accessibility trees with the Internet Archive.
+The archiving routine has saved 22 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 7:02 PM](https://archive.org/download/barnpat-2022/barnpat-2022-09-30T19:02:23.792235-04:00.accessibility.json) |
 | [September 30 at 6:55 AM](https://archive.org/download/barnpat-2022/barnpat-2022-09-30T06:55:31.352347-04:00.accessibility.json) |
 | [September 29 at 7:00 PM](https://archive.org/download/barnpat-2022/barnpat-2022-09-29T19:00:45.175454-04:00.accessibility.json) |
 | [September 29 at 6:53 AM](https://archive.org/download/barnpat-2022/barnpat-2022-09-29T06:53:43.009633-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 6:55 AM](https://archive.org/download/barnpat-2022/barnpat-2022-09-27T06:55:33.437106-04:00.accessibility.json) |
 | [September 26 at 6:52 PM](https://archive.org/download/barnpat-2022/barnpat-2022-09-26T18:52:22.641597-04:00.accessibility.json) |
 | [September 26 at 6:54 AM](https://archive.org/download/barnpat-2022/barnpat-2022-09-26T06:54:34.521450-04:00.accessibility.json) |
-| [September 25 at 6:42 PM](https://archive.org/download/barnpat-2022/barnpat-2022-09-25T18:42:45.573315-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 21 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 7:02 PM](https://archive.org/download/barnpat-2022/barnpat-2022-09-30T19:02:23.792235-04:00.lighthouse.json) |
 | [September 30 at 6:55 AM](https://archive.org/download/barnpat-2022/barnpat-2022-09-30T06:55:31.352347-04:00.lighthouse.json) |
 | [September 29 at 7:00 PM](https://archive.org/download/barnpat-2022/barnpat-2022-09-29T19:00:45.175454-04:00.lighthouse.json) |
 | [September 29 at 6:53 AM](https://archive.org/download/barnpat-2022/barnpat-2022-09-29T06:53:43.009633-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 6:55 AM](https://archive.org/download/barnpat-2022/barnpat-2022-09-27T06:55:33.437106-04:00.lighthouse.json) |
 | [September 26 at 6:52 PM](https://archive.org/download/barnpat-2022/barnpat-2022-09-26T18:52:22.641597-04:00.lighthouse.json) |
 | [September 26 at 6:54 AM](https://archive.org/download/barnpat-2022/barnpat-2022-09-26T06:54:34.521450-04:00.lighthouse.json) |
-| [September 25 at 6:42 PM](https://archive.org/download/barnpat-2022/barnpat-2022-09-25T18:42:45.573315-04:00.lighthouse.json) |
 
 
 

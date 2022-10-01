@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 234 screenshots with the Internet Archive.
+The archiving routine has saved 236 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/flintbeat-2022/flintbeat-2022-09-30T18:52:17.951498-05:00.jpg">
+  <img src="https://archive.org/download/flintbeat-2022/flintbeat-2022-09-30T18:52:17.951498-05:00.jpg"
+     alt="Flint Beat at 2022-09-30 18:52:23-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/flintbeat-2022/flintbeat-2022-09-30T18:52:17.951498-05:00.jpg">September 30 at 6:52 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/flintbeat-2022/flintbeat-2022-09-30T07:04:34.664179-05:00.jpg">
+  <img src="https://archive.org/download/flintbeat-2022/flintbeat-2022-09-30T07:04:34.664179-05:00.jpg"
+     alt="Flint Beat at 2022-09-30 07:04:35-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/flintbeat-2022/flintbeat-2022-09-30T07:04:34.664179-05:00.jpg">September 30 at 7:04 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/flintbeat-2022/flintbeat-2022-09-29T18:58:48.133496-05:00.jpg">
   <img src="https://archive.org/download/flintbeat-2022/flintbeat-2022-09-29T18:58:48.133496-05:00.jpg"
      alt="Flint Beat at 2022-09-29 18:59:00-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/flintbeat-2022/flintbeat-2022-09-25T06:49:05.948597-05:00.jpg">September 25 at 6:49 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/flintbeat-2022/flintbeat-2022-09-24T18:39:37.273042-05:00.jpg">
-  <img src="https://archive.org/download/flintbeat-2022/flintbeat-2022-09-24T18:39:37.273042-05:00.jpg"
-     alt="Flint Beat at 2022-09-24 18:39:59-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/flintbeat-2022/flintbeat-2022-09-24T18:39:37.273042-05:00.jpg">September 24 at 6:39 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/flintbeat-2022/flintbeat-2022-09-24T06:49:24.386309-05:00.jpg">
-  <img src="https://archive.org/download/flintbeat-2022/flintbeat-2022-09-24T06:49:24.386309-05:00.jpg"
-     alt="Flint Beat at 2022-09-24 06:49:28-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/flintbeat-2022/flintbeat-2022-09-24T06:49:24.386309-05:00.jpg">September 24 at 6:49 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 234 hyperlink lists with the Internet Archive.
+The archiving routine has saved 236 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 6:52 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-30T18:52:17.951498-05:00.hyperlinks.json) |
+| [September 30 at 7:04 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-30T07:04:34.664179-05:00.hyperlinks.json) |
 | [September 29 at 6:59 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-29T18:58:48.133496-05:00.hyperlinks.json) |
 | [September 29 at 6:58 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-29T06:58:26.515292-05:00.hyperlinks.json) |
 | [September 28 at 6:48 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-28T18:48:33.806090-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 6:56 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-27T06:55:58.143593-05:00.hyperlinks.json) |
 | [September 26 at 6:48 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-26T18:48:17.522795-05:00.hyperlinks.json) |
 | [September 26 at 7:03 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-26T07:03:28.060293-05:00.hyperlinks.json) |
-| [September 25 at 6:43 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-25T18:43:30.140617-05:00.hyperlinks.json) |
-| [September 25 at 6:49 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-25T06:49:05.948597-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 233 accessibility trees with the Internet Archive.
+The archiving routine has saved 235 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 6:52 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-30T18:52:17.951498-05:00.accessibility.json) |
+| [September 30 at 7:04 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-30T07:04:34.664179-05:00.accessibility.json) |
 | [September 29 at 6:59 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-29T18:58:48.133496-05:00.accessibility.json) |
 | [September 29 at 6:58 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-29T06:58:26.515292-05:00.accessibility.json) |
 | [September 28 at 6:48 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-28T18:48:33.806090-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 6:56 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-27T06:55:58.143593-05:00.accessibility.json) |
 | [September 26 at 6:48 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-26T18:48:17.522795-05:00.accessibility.json) |
 | [September 26 at 7:03 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-26T07:03:28.060293-05:00.accessibility.json) |
-| [September 25 at 6:43 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-25T18:43:30.140617-05:00.accessibility.json) |
-| [September 25 at 6:49 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-25T06:49:05.948597-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 138 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 140 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 6:52 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-30T18:52:17.951498-05:00.lighthouse.json) |
+| [September 30 at 7:04 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-30T07:04:34.664179-05:00.lighthouse.json) |
 | [September 29 at 6:59 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-29T18:58:48.133496-05:00.lighthouse.json) |
 | [September 29 at 6:58 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-29T06:58:26.515292-05:00.lighthouse.json) |
 | [September 28 at 6:48 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-28T18:48:33.806090-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 6:56 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-27T06:55:58.143593-05:00.lighthouse.json) |
 | [September 26 at 6:48 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-26T18:48:17.522795-05:00.lighthouse.json) |
 | [September 26 at 7:03 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-26T07:03:28.060293-05:00.lighthouse.json) |
-| [September 25 at 6:43 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-25T18:43:30.140617-05:00.lighthouse.json) |
-| [September 25 at 6:49 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-25T06:49:05.948597-05:00.lighthouse.json) |
 
 
 

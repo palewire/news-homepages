@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 176 screenshots with the Internet Archive.
+The archiving routine has saved 178 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/foxsports-2022/foxsports-2022-09-30T19:53:42.463860-04:00.jpg">
+  <img src="https://archive.org/download/foxsports-2022/foxsports-2022-09-30T19:53:42.463860-04:00.jpg"
+     alt="Fox Sports at 2022-09-30 19:53:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foxsports-2022/foxsports-2022-09-30T19:53:42.463860-04:00.jpg">September 30 at 7:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foxsports-2022/foxsports-2022-09-30T08:04:04.612587-04:00.jpg">
+  <img src="https://archive.org/download/foxsports-2022/foxsports-2022-09-30T08:04:04.612587-04:00.jpg"
+     alt="Fox Sports at 2022-09-30 08:04:15-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foxsports-2022/foxsports-2022-09-30T08:04:04.612587-04:00.jpg">September 30 at 8:04 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/foxsports-2022/foxsports-2022-09-29T20:01:54.542326-04:00.jpg">
   <img src="https://archive.org/download/foxsports-2022/foxsports-2022-09-29T20:01:54.542326-04:00.jpg"
      alt="Fox Sports at 2022-09-29 20:02:02-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/foxsports-2022/foxsports-2022-09-25T07:48:17.249091-04:00.jpg">September 25 at 7:48 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/foxsports-2022/foxsports-2022-09-24T19:41:54.643566-04:00.jpg">
-  <img src="https://archive.org/download/foxsports-2022/foxsports-2022-09-24T19:41:54.643566-04:00.jpg"
-     alt="Fox Sports at 2022-09-24 19:41:58-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/foxsports-2022/foxsports-2022-09-24T19:41:54.643566-04:00.jpg">September 24 at 7:41 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/foxsports-2022/foxsports-2022-09-24T07:49:39.489255-04:00.jpg">
-  <img src="https://archive.org/download/foxsports-2022/foxsports-2022-09-24T07:49:39.489255-04:00.jpg"
-     alt="Fox Sports at 2022-09-24 07:49:51-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/foxsports-2022/foxsports-2022-09-24T07:49:39.489255-04:00.jpg">September 24 at 7:49 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 177 hyperlink lists with the Internet Archive.
+The archiving routine has saved 179 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 7:53 PM](https://archive.org/download/foxsports-2022/foxsports-2022-09-30T19:53:42.463860-04:00.hyperlinks.json) |
+| [September 30 at 8:04 AM](https://archive.org/download/foxsports-2022/foxsports-2022-09-30T08:04:04.612587-04:00.hyperlinks.json) |
 | [September 29 at 8:02 PM](https://archive.org/download/foxsports-2022/foxsports-2022-09-29T20:01:54.542326-04:00.hyperlinks.json) |
 | [September 29 at 7:58 AM](https://archive.org/download/foxsports-2022/foxsports-2022-09-29T07:58:18.291070-04:00.hyperlinks.json) |
 | [September 28 at 7:49 PM](https://archive.org/download/foxsports-2022/foxsports-2022-09-28T19:49:43.874765-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 7:56 AM](https://archive.org/download/foxsports-2022/foxsports-2022-09-27T07:56:12.771840-04:00.hyperlinks.json) |
 | [September 26 at 7:49 PM](https://archive.org/download/foxsports-2022/foxsports-2022-09-26T19:49:41.377436-04:00.hyperlinks.json) |
 | [September 26 at 8:02 AM](https://archive.org/download/foxsports-2022/foxsports-2022-09-26T08:02:45.328444-04:00.hyperlinks.json) |
-| [September 25 at 7:46 PM](https://archive.org/download/foxsports-2022/foxsports-2022-09-25T19:45:54.758094-04:00.hyperlinks.json) |
-| [September 25 at 7:48 AM](https://archive.org/download/foxsports-2022/foxsports-2022-09-25T07:48:17.249091-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 177 accessibility trees with the Internet Archive.
+The archiving routine has saved 179 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 7:53 PM](https://archive.org/download/foxsports-2022/foxsports-2022-09-30T19:53:42.463860-04:00.accessibility.json) |
+| [September 30 at 8:04 AM](https://archive.org/download/foxsports-2022/foxsports-2022-09-30T08:04:04.612587-04:00.accessibility.json) |
 | [September 29 at 8:02 PM](https://archive.org/download/foxsports-2022/foxsports-2022-09-29T20:01:54.542326-04:00.accessibility.json) |
 | [September 29 at 7:58 AM](https://archive.org/download/foxsports-2022/foxsports-2022-09-29T07:58:18.291070-04:00.accessibility.json) |
 | [September 28 at 7:49 PM](https://archive.org/download/foxsports-2022/foxsports-2022-09-28T19:49:43.874765-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 7:56 AM](https://archive.org/download/foxsports-2022/foxsports-2022-09-27T07:56:12.771840-04:00.accessibility.json) |
 | [September 26 at 7:49 PM](https://archive.org/download/foxsports-2022/foxsports-2022-09-26T19:49:41.377436-04:00.accessibility.json) |
 | [September 26 at 8:02 AM](https://archive.org/download/foxsports-2022/foxsports-2022-09-26T08:02:45.328444-04:00.accessibility.json) |
-| [September 25 at 7:46 PM](https://archive.org/download/foxsports-2022/foxsports-2022-09-25T19:45:54.758094-04:00.accessibility.json) |
-| [September 25 at 7:48 AM](https://archive.org/download/foxsports-2022/foxsports-2022-09-25T07:48:17.249091-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 138 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 140 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 7:53 PM](https://archive.org/download/foxsports-2022/foxsports-2022-09-30T19:53:42.463860-04:00.lighthouse.json) |
+| [September 30 at 8:04 AM](https://archive.org/download/foxsports-2022/foxsports-2022-09-30T08:04:04.612587-04:00.lighthouse.json) |
 | [September 29 at 8:02 PM](https://archive.org/download/foxsports-2022/foxsports-2022-09-29T20:01:54.542326-04:00.lighthouse.json) |
 | [September 29 at 7:58 AM](https://archive.org/download/foxsports-2022/foxsports-2022-09-29T07:58:18.291070-04:00.lighthouse.json) |
 | [September 28 at 7:49 PM](https://archive.org/download/foxsports-2022/foxsports-2022-09-28T19:49:43.874765-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 7:56 AM](https://archive.org/download/foxsports-2022/foxsports-2022-09-27T07:56:12.771840-04:00.lighthouse.json) |
 | [September 26 at 7:49 PM](https://archive.org/download/foxsports-2022/foxsports-2022-09-26T19:49:41.377436-04:00.lighthouse.json) |
 | [September 26 at 8:02 AM](https://archive.org/download/foxsports-2022/foxsports-2022-09-26T08:02:45.328444-04:00.lighthouse.json) |
-| [September 25 at 7:46 PM](https://archive.org/download/foxsports-2022/foxsports-2022-09-25T19:45:54.758094-04:00.lighthouse.json) |
-| [September 25 at 7:48 AM](https://archive.org/download/foxsports-2022/foxsports-2022-09-25T07:48:17.249091-04:00.lighthouse.json) |
 
 
 

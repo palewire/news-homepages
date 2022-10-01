@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 179 screenshots with the Internet Archive.
+The archiving routine has saved 181 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-30T19:48:30.305980-04:00.jpg">
+  <img src="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-30T19:48:30.305980-04:00.jpg"
+     alt="Decision Desk HQ at 2022-09-30 19:48:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-30T19:48:30.305980-04:00.jpg">September 30 at 7:48 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-30T08:01:25.199450-04:00.jpg">
+  <img src="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-30T08:01:25.199450-04:00.jpg"
+     alt="Decision Desk HQ at 2022-09-30 08:01:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-30T08:01:25.199450-04:00.jpg">September 30 at 8:01 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-29T19:55:50.027974-04:00.jpg">
   <img src="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-29T19:55:50.027974-04:00.jpg"
      alt="Decision Desk HQ at 2022-09-29 19:55:51-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-25T07:45:39.435693-04:00.jpg">September 25 at 7:45 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-24T19:37:34.190575-04:00.jpg">
-  <img src="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-24T19:37:34.190575-04:00.jpg"
-     alt="Decision Desk HQ at 2022-09-24 19:37:36-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-24T19:37:34.190575-04:00.jpg">September 24 at 7:37 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-24T07:47:27.169392-04:00.jpg">
-  <img src="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-24T07:47:27.169392-04:00.jpg"
-     alt="Decision Desk HQ at 2022-09-24 07:47:29-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-24T07:47:27.169392-04:00.jpg">September 24 at 7:47 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 179 hyperlink lists with the Internet Archive.
+The archiving routine has saved 181 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 7:48 PM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-30T19:48:30.305980-04:00.hyperlinks.json) |
+| [September 30 at 8:01 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-30T08:01:25.199450-04:00.hyperlinks.json) |
 | [September 29 at 7:55 PM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-29T19:55:50.027974-04:00.hyperlinks.json) |
 | [September 29 at 7:55 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-29T07:55:50.975451-04:00.hyperlinks.json) |
 | [September 28 at 7:45 PM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-28T19:45:43.662796-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 7:53 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-27T07:53:40.540384-04:00.hyperlinks.json) |
 | [September 26 at 7:45 PM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-26T19:45:20.877279-04:00.hyperlinks.json) |
 | [September 26 at 8:00 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-26T08:00:05.341162-04:00.hyperlinks.json) |
-| [September 25 at 7:41 PM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-25T19:41:12.380207-04:00.hyperlinks.json) |
-| [September 25 at 7:45 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-25T07:45:39.435693-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 179 accessibility trees with the Internet Archive.
+The archiving routine has saved 181 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 7:48 PM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-30T19:48:30.305980-04:00.accessibility.json) |
+| [September 30 at 8:01 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-30T08:01:25.199450-04:00.accessibility.json) |
 | [September 29 at 7:55 PM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-29T19:55:50.027974-04:00.accessibility.json) |
 | [September 29 at 7:55 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-29T07:55:50.975451-04:00.accessibility.json) |
 | [September 28 at 7:45 PM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-28T19:45:43.662796-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 7:53 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-27T07:53:40.540384-04:00.accessibility.json) |
 | [September 26 at 7:45 PM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-26T19:45:20.877279-04:00.accessibility.json) |
 | [September 26 at 8:00 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-26T08:00:05.341162-04:00.accessibility.json) |
-| [September 25 at 7:41 PM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-25T19:41:12.380207-04:00.accessibility.json) |
-| [September 25 at 7:45 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-25T07:45:39.435693-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 139 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 141 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 7:48 PM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-30T19:48:30.305980-04:00.lighthouse.json) |
+| [September 30 at 8:01 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-30T08:01:25.199450-04:00.lighthouse.json) |
 | [September 29 at 7:55 PM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-29T19:55:50.027974-04:00.lighthouse.json) |
 | [September 29 at 7:55 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-29T07:55:50.975451-04:00.lighthouse.json) |
 | [September 28 at 7:45 PM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-28T19:45:43.662796-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 7:53 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-27T07:53:40.540384-04:00.lighthouse.json) |
 | [September 26 at 7:45 PM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-26T19:45:20.877279-04:00.lighthouse.json) |
 | [September 26 at 8:00 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-26T08:00:05.341162-04:00.lighthouse.json) |
-| [September 25 at 7:41 PM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-25T19:41:12.380207-04:00.lighthouse.json) |
-| [September 25 at 7:45 AM](https://archive.org/download/decisiondeskhq-2022/decisiondeskhq-2022-09-25T07:45:39.435693-04:00.lighthouse.json) |
 
 
 

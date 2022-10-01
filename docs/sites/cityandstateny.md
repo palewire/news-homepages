@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 118 screenshots with the Internet Archive.
+The archiving routine has saved 120 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-30T19:48:40.991990-04:00.jpg">
+  <img src="https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-30T19:48:40.991990-04:00.jpg"
+     alt="City & State New York at 2022-09-30 19:48:45-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-30T19:48:40.991990-04:00.jpg">September 30 at 7:48 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-30T07:59:49.289997-04:00.jpg">
+  <img src="https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-30T07:59:49.289997-04:00.jpg"
+     alt="City & State New York at 2022-09-30 08:00:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-30T07:59:49.289997-04:00.jpg">September 30 at 8:00 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-29T19:56:06.987439-04:00.jpg">
   <img src="https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-29T19:56:06.987439-04:00.jpg"
      alt="City & State New York at 2022-09-29 19:56:18-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-25T07:45:33.974845-04:00.jpg">September 25 at 7:45 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-24T19:37:33.351489-04:00.jpg">
-  <img src="https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-24T19:37:33.351489-04:00.jpg"
-     alt="City & State New York at 2022-09-24 19:37:38-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-24T19:37:33.351489-04:00.jpg">September 24 at 7:37 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-24T07:45:48.366092-04:00.jpg">
-  <img src="https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-24T07:45:48.366092-04:00.jpg"
-     alt="City & State New York at 2022-09-24 07:45:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-24T07:45:48.366092-04:00.jpg">September 24 at 7:45 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 119 hyperlink lists with the Internet Archive.
+The archiving routine has saved 121 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 7:48 PM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-30T19:48:40.991990-04:00.hyperlinks.json) |
+| [September 30 at 8:00 AM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-30T07:59:49.289997-04:00.hyperlinks.json) |
 | [September 29 at 7:56 PM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-29T19:56:06.987439-04:00.hyperlinks.json) |
 | [September 29 at 7:54 AM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-29T07:54:36.324390-04:00.hyperlinks.json) |
 | [September 28 at 7:46 PM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-28T19:45:53.595483-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 7:52 AM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-27T07:52:12.181834-04:00.hyperlinks.json) |
 | [September 26 at 7:45 PM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-26T19:45:16.750002-04:00.hyperlinks.json) |
 | [September 26 at 7:59 AM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-26T07:59:15.303087-04:00.hyperlinks.json) |
-| [September 25 at 7:41 PM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-25T19:40:58.092477-04:00.hyperlinks.json) |
-| [September 25 at 7:45 AM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-25T07:45:33.974845-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 119 accessibility trees with the Internet Archive.
+The archiving routine has saved 121 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 7:48 PM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-30T19:48:40.991990-04:00.accessibility.json) |
+| [September 30 at 8:00 AM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-30T07:59:49.289997-04:00.accessibility.json) |
 | [September 29 at 7:56 PM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-29T19:56:06.987439-04:00.accessibility.json) |
 | [September 29 at 7:54 AM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-29T07:54:36.324390-04:00.accessibility.json) |
 | [September 28 at 7:46 PM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-28T19:45:53.595483-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 7:52 AM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-27T07:52:12.181834-04:00.accessibility.json) |
 | [September 26 at 7:45 PM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-26T19:45:16.750002-04:00.accessibility.json) |
 | [September 26 at 7:59 AM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-26T07:59:15.303087-04:00.accessibility.json) |
-| [September 25 at 7:41 PM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-25T19:40:58.092477-04:00.accessibility.json) |
-| [September 25 at 7:45 AM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-25T07:45:33.974845-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 119 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 121 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 7:48 PM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-30T19:48:40.991990-04:00.lighthouse.json) |
+| [September 30 at 8:00 AM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-30T07:59:49.289997-04:00.lighthouse.json) |
 | [September 29 at 7:56 PM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-29T19:56:06.987439-04:00.lighthouse.json) |
 | [September 29 at 7:54 AM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-29T07:54:36.324390-04:00.lighthouse.json) |
 | [September 28 at 7:46 PM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-28T19:45:53.595483-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 7:52 AM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-27T07:52:12.181834-04:00.lighthouse.json) |
 | [September 26 at 7:45 PM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-26T19:45:16.750002-04:00.lighthouse.json) |
 | [September 26 at 7:59 AM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-26T07:59:15.303087-04:00.lighthouse.json) |
-| [September 25 at 7:41 PM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-25T19:40:58.092477-04:00.lighthouse.json) |
-| [September 25 at 7:45 AM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-09-25T07:45:33.974845-04:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 209 screenshots with the Internet Archive.
+The archiving routine has saved 211 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/harpers-2022/harpers-2022-09-30T19:53:38.903954-04:00.jpg">
+  <img src="https://archive.org/download/harpers-2022/harpers-2022-09-30T19:53:38.903954-04:00.jpg"
+     alt="Harper’s at 2022-09-30 19:53:45-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/harpers-2022/harpers-2022-09-30T19:53:38.903954-04:00.jpg">September 30 at 7:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/harpers-2022/harpers-2022-09-30T08:05:00.676634-04:00.jpg">
+  <img src="https://archive.org/download/harpers-2022/harpers-2022-09-30T08:05:00.676634-04:00.jpg"
+     alt="Harper’s at 2022-09-30 08:05:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/harpers-2022/harpers-2022-09-30T08:05:00.676634-04:00.jpg">September 30 at 8:05 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/harpers-2022/harpers-2022-09-29T20:02:00.305891-04:00.jpg">
   <img src="https://archive.org/download/harpers-2022/harpers-2022-09-29T20:02:00.305891-04:00.jpg"
      alt="Harper’s at 2022-09-29 20:02:06-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/harpers-2022/harpers-2022-09-25T07:49:10.245039-04:00.jpg">September 25 at 7:49 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/harpers-2022/harpers-2022-09-24T19:41:26.081235-04:00.jpg">
-  <img src="https://archive.org/download/harpers-2022/harpers-2022-09-24T19:41:26.081235-04:00.jpg"
-     alt="Harper’s at 2022-09-24 19:41:37-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/harpers-2022/harpers-2022-09-24T19:41:26.081235-04:00.jpg">September 24 at 7:41 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/harpers-2022/harpers-2022-09-24T07:49:43.910690-04:00.jpg">
-  <img src="https://archive.org/download/harpers-2022/harpers-2022-09-24T07:49:43.910690-04:00.jpg"
-     alt="Harper’s at 2022-09-24 07:50:12-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/harpers-2022/harpers-2022-09-24T07:49:43.910690-04:00.jpg">September 24 at 7:50 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 211 hyperlink lists with the Internet Archive.
+The archiving routine has saved 213 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 7:53 PM](https://archive.org/download/harpers-2022/harpers-2022-09-30T19:53:38.903954-04:00.hyperlinks.json) |
+| [September 30 at 8:05 AM](https://archive.org/download/harpers-2022/harpers-2022-09-30T08:05:00.676634-04:00.hyperlinks.json) |
 | [September 29 at 8:02 PM](https://archive.org/download/harpers-2022/harpers-2022-09-29T20:02:00.305891-04:00.hyperlinks.json) |
 | [September 29 at 8:00 AM](https://archive.org/download/harpers-2022/harpers-2022-09-29T08:00:00.122020-04:00.hyperlinks.json) |
 | [September 28 at 7:49 PM](https://archive.org/download/harpers-2022/harpers-2022-09-28T19:49:46.510679-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 7:57 AM](https://archive.org/download/harpers-2022/harpers-2022-09-27T07:57:33.186182-04:00.hyperlinks.json) |
 | [September 26 at 7:50 PM](https://archive.org/download/harpers-2022/harpers-2022-09-26T19:50:17.892371-04:00.hyperlinks.json) |
 | [September 26 at 8:04 AM](https://archive.org/download/harpers-2022/harpers-2022-09-26T08:04:03.149951-04:00.hyperlinks.json) |
-| [September 25 at 7:45 PM](https://archive.org/download/harpers-2022/harpers-2022-09-25T19:44:51.212664-04:00.hyperlinks.json) |
-| [September 25 at 7:49 AM](https://archive.org/download/harpers-2022/harpers-2022-09-25T07:49:10.245039-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 211 accessibility trees with the Internet Archive.
+The archiving routine has saved 213 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 7:53 PM](https://archive.org/download/harpers-2022/harpers-2022-09-30T19:53:38.903954-04:00.accessibility.json) |
+| [September 30 at 8:05 AM](https://archive.org/download/harpers-2022/harpers-2022-09-30T08:05:00.676634-04:00.accessibility.json) |
 | [September 29 at 8:02 PM](https://archive.org/download/harpers-2022/harpers-2022-09-29T20:02:00.305891-04:00.accessibility.json) |
 | [September 29 at 8:00 AM](https://archive.org/download/harpers-2022/harpers-2022-09-29T08:00:00.122020-04:00.accessibility.json) |
 | [September 28 at 7:49 PM](https://archive.org/download/harpers-2022/harpers-2022-09-28T19:49:46.510679-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 7:57 AM](https://archive.org/download/harpers-2022/harpers-2022-09-27T07:57:33.186182-04:00.accessibility.json) |
 | [September 26 at 7:50 PM](https://archive.org/download/harpers-2022/harpers-2022-09-26T19:50:17.892371-04:00.accessibility.json) |
 | [September 26 at 8:04 AM](https://archive.org/download/harpers-2022/harpers-2022-09-26T08:04:03.149951-04:00.accessibility.json) |
-| [September 25 at 7:45 PM](https://archive.org/download/harpers-2022/harpers-2022-09-25T19:44:51.212664-04:00.accessibility.json) |
-| [September 25 at 7:49 AM](https://archive.org/download/harpers-2022/harpers-2022-09-25T07:49:10.245039-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 138 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 140 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 7:53 PM](https://archive.org/download/harpers-2022/harpers-2022-09-30T19:53:38.903954-04:00.lighthouse.json) |
+| [September 30 at 8:05 AM](https://archive.org/download/harpers-2022/harpers-2022-09-30T08:05:00.676634-04:00.lighthouse.json) |
 | [September 29 at 8:02 PM](https://archive.org/download/harpers-2022/harpers-2022-09-29T20:02:00.305891-04:00.lighthouse.json) |
 | [September 29 at 8:00 AM](https://archive.org/download/harpers-2022/harpers-2022-09-29T08:00:00.122020-04:00.lighthouse.json) |
 | [September 28 at 7:49 PM](https://archive.org/download/harpers-2022/harpers-2022-09-28T19:49:46.510679-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 7:57 AM](https://archive.org/download/harpers-2022/harpers-2022-09-27T07:57:33.186182-04:00.lighthouse.json) |
 | [September 26 at 7:50 PM](https://archive.org/download/harpers-2022/harpers-2022-09-26T19:50:17.892371-04:00.lighthouse.json) |
 | [September 26 at 8:04 AM](https://archive.org/download/harpers-2022/harpers-2022-09-26T08:04:03.149951-04:00.lighthouse.json) |
-| [September 25 at 7:45 PM](https://archive.org/download/harpers-2022/harpers-2022-09-25T19:44:51.212664-04:00.lighthouse.json) |
-| [September 25 at 7:49 AM](https://archive.org/download/harpers-2022/harpers-2022-09-25T07:49:10.245039-04:00.lighthouse.json) |
 
 
 
