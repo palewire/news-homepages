@@ -1,5 +1,5 @@
 {
-  "created": 1664589748,
+  "created": 1664628941,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/13/items/ledgerenquirer-2022",
@@ -8710,31 +8710,82 @@
       "sha1": "9e316563831b38b5950d8350884d433f8dab4610"
     },
     {
+      "name": "ledgerenquirer-2022-10-01T08:54:39.826598-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664628883",
+      "size": "464",
+      "md5": "71425f3d6fd6a7df81982a6ea99b6282",
+      "crc32": "0415296f",
+      "sha1": "d44b550780a26a9157541d30579f31d4be23ac8f",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-10-01T08:54:39.826598-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664628885",
+      "size": "35229",
+      "md5": "fe851c6f9e057097cb507bc44c9ced8f",
+      "crc32": "93e2d631",
+      "sha1": "85a4b5d8b19c32082732b5b25f4145ea3175f483",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-10-01T08:54:39.826598-04:00.jpg",
+      "source": "original",
+      "mtime": "1664628881",
+      "size": "265550",
+      "md5": "0fba315753fc75d6119e9a66602a654a",
+      "crc32": "3318e3ce",
+      "sha1": "90e3bcf4c14375b692f5b847b92aeed54f3850cf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ledgerenquirer-2022-10-01T08:54:39.826598-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664628886",
+      "size": "1539",
+      "md5": "2ea0e3358893eba840a062a85a8eabc4",
+      "crc32": "8bfbcf2b",
+      "sha1": "ca59e9849897be0c7c7581aa3c896b692e7b4059",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-10-01T08:54:39.826598-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664628888",
+      "size": "107",
+      "md5": "9eebf1cd09daccb84666b40c936cae66",
+      "crc32": "b2629f10",
+      "sha1": "6026d6cfbe52d1a725f6735a9d465f74184e88a5",
+      "format": "JSON"
+    },
+    {
       "name": "ledgerenquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ab069ca35d5d0bcaaf67ce3efe36e250ba3f3c8a",
-      "mtime": "1664589666",
-      "size": "182896",
-      "md5": "438bdbda131fc4378a43b5ff8f2a73de",
-      "crc32": "4a21ccb5",
-      "sha1": "9757093652fc12745b5a4f8eae745e7a878b02f3",
+      "btih": "ac6d18951caabc3028ad253a90efea3aa9c7e8c0",
+      "mtime": "1664628936",
+      "size": "183965",
+      "md5": "bae621d4d9b7e60c66862c943f76babc",
+      "crc32": "5b7824ba",
+      "sha1": "10d6bec5913ffd3f682f9bf0c555da6fec19a096",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ledgerenquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e75f9a2034e6915eded6e464222dd4ea",
+      "md5": "51860a1cfeeb050c9c8626bcb39fb2ac",
       "summation": "md5"
     },
     {
       "name": "ledgerenquirer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664588047",
-      "size": "1081344",
-      "md5": "f56f5d7c9278f6f6708a80ed56fd4386",
-      "crc32": "98caa1fa",
-      "sha1": "e337ae827e53163682d32ad3d433c31ed1f88032",
+      "mtime": "1664628893",
+      "size": "1089536",
+      "md5": "77da2280ad71d23ebe94b17910945637",
+      "crc32": "bf4dded7",
+      "sha1": "772ea3e5d671f48cbf7f12c259f87d95cf0f773a",
       "format": "Metadata"
     },
     {
@@ -8748,9 +8799,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 845,
-  "item_last_updated": 1664589666,
-  "item_size": 52163942,
+  "files_count": 850,
+  "item_last_updated": 1664628936,
+  "item_size": 52476092,
   "metadata": {
     "identifier": "ledgerenquirer-2022",
     "collection": [
@@ -8767,10 +8818,21 @@
     "publicdate": "2022-07-20 23:31:19",
     "addeddate": "2022-07-20 23:31:19"
   },
-  "server": "ia801503.us.archive.org",
-  "uniq": 1932954598,
+  "pending_tasks": true,
+  "server": "ia601503.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3424653762,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1305365983,
   "workable_servers": [
-    "ia801503.us.archive.org",
     "ia601503.us.archive.org"
   ]
 }

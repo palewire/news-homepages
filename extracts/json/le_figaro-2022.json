@@ -1,5 +1,5 @@
 {
-  "created": 1664612443,
+  "created": 1664628988,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/5/items/le_figaro-2022",
@@ -20911,31 +20911,93 @@
       "format": "JSON"
     },
     {
+      "name": "le_figaro-2022-10-01T10:19:18.252514+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-10-01T10:19:18.252514+02:00.jpg",
+      "mtime": "1664614583",
+      "size": "9729",
+      "md5": "7626acafc5e0fbf51af0280fe545e46a",
+      "crc32": "2658c01a",
+      "sha1": "b92b2b70d29bf5162bd920f040becc2c5af84894"
+    },
+    {
+      "name": "le_figaro-2022-10-01T14:55:00.910344+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664628903",
+      "size": "95405",
+      "md5": "3526d827bb37282cc1af9c6fb1ab3e6e",
+      "crc32": "d3950261",
+      "sha1": "cfa277c722e7484ff32436f6aeca4c8b6ef45c86",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-01T14:55:00.910344+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664628905",
+      "size": "111680",
+      "md5": "3ac2ffea5bea269e456e95aee61df062",
+      "crc32": "599198fb",
+      "sha1": "55b55c582c491a26b2104f687e18de68b2421c28",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-01T14:55:00.910344+02:00.jpg",
+      "source": "original",
+      "mtime": "1664628902",
+      "size": "279287",
+      "md5": "b0319e0bcb2b25203a790543b88f8261",
+      "crc32": "3a543e6d",
+      "sha1": "b26471385bc08d2a8932189e46ed3c120a069978",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-10-01T14:55:00.910344+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664628907",
+      "size": "1468",
+      "md5": "8b13e1130632803e3a3386393c3f5b4d",
+      "crc32": "91cd1589",
+      "sha1": "948bc70da8e6135d92e64597377815a3ccae2988",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-01T14:55:00.910344+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664628909",
+      "size": "31475",
+      "md5": "ca42e0e7ff37d9549ce069365eec9b8c",
+      "crc32": "9a280f2f",
+      "sha1": "6ae63a649f84a07e4cda9c5359998cd24343c772",
+      "format": "JSON"
+    },
+    {
       "name": "le_figaro-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b4e1146d9ce523a04e26aa3a41477edde0c62002",
-      "mtime": "1664612437",
-      "size": "428928",
-      "md5": "e4631139c36f6fd221d7b7bb890b29e9",
-      "crc32": "16558b25",
-      "sha1": "dab2cf5e36248a6f956142c4be69bad8a7df2b9c",
+      "btih": "7fc534f29c177948dae14882fdfe74a6df7456f9",
+      "mtime": "1664628981",
+      "size": "430202",
+      "md5": "f45b741d3678a30feeb95382fc244d7a",
+      "crc32": "c513f02e",
+      "sha1": "b0a189d08b963ff7c6f82869fa4e2162c99a736b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "le_figaro-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bb53c4e236a4c03c9c4444d03a2b342f",
+      "md5": "2be0b43bd531cab66955812c79a38690",
       "summation": "md5"
     },
     {
       "name": "le_figaro-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664612373",
-      "size": "2457600",
-      "md5": "711a7bf3d285f55155c4c0b431570a3a",
-      "crc32": "a1e7763c",
-      "sha1": "6e7a65d6925b5793732ea3b0a9967a66bcaec96b",
+      "mtime": "1664628915",
+      "size": "2465792",
+      "md5": "2f2854148801110ef43dca096aa33c5f",
+      "crc32": "56ef891c",
+      "sha1": "4ba3c684a21297d4c895266d9c25946082bd8218",
       "format": "Metadata"
     },
     {
@@ -20949,9 +21011,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2013,
-  "item_last_updated": 1664612437,
-  "item_size": 213156817,
+  "files_count": 2019,
+  "item_last_updated": 1664628981,
+  "item_size": 213695327,
   "metadata": {
     "identifier": "le_figaro-2022",
     "collection": [
@@ -20973,7 +21035,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3424429787,
+      "task_id": 3424654210,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -20981,7 +21043,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1556227807,
+  "uniq": 1428336129,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]

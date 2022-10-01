@@ -1,5 +1,5 @@
 {
-  "created": 1664590515,
+  "created": 1664628892,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/26/items/jessicavalenti-2022",
@@ -5988,31 +5988,72 @@
       "sha1": "d8958b9608d9c9bf0dd6cb913cad8cbbc33323dc"
     },
     {
+      "name": "jessicavalenti-2022-10-01T08:53:33.190798-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664628830",
+      "size": "13803",
+      "md5": "41540e3d89c403505d593de70ab32fbd",
+      "crc32": "7fe9bfbf",
+      "sha1": "07c8f2adcf3c054eb5049a322ecfec40502def8c",
+      "format": "JSON"
+    },
+    {
+      "name": "jessicavalenti-2022-10-01T08:53:33.190798-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664628831",
+      "size": "11043",
+      "md5": "e320c3db6e63f5703318319fe6914066",
+      "crc32": "28d0060e",
+      "sha1": "b549fe2840270407c49be885b127f52087e93e96",
+      "format": "JSON"
+    },
+    {
+      "name": "jessicavalenti-2022-10-01T08:53:33.190798-04:00.jpg",
+      "source": "original",
+      "mtime": "1664628828",
+      "size": "229797",
+      "md5": "62e928a06c2ac0acf9bf4a3ac6241d0f",
+      "crc32": "ffd0e2f4",
+      "sha1": "1ac4584cdb3f546b895a5d8d3fd7f739ec30b00b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jessicavalenti-2022-10-01T08:53:33.190798-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664628833",
+      "size": "1504",
+      "md5": "e14134d5e3b13eb45946668f73e480d8",
+      "crc32": "493c1190",
+      "sha1": "8532d7d362c419391b5a550e91ac282226b77c92",
+      "format": "JSON"
+    },
+    {
       "name": "jessicavalenti-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8618e3dbbf3fed3a38e133a134d85778c6417d9f",
-      "mtime": "1664590485",
-      "size": "126130",
-      "md5": "19f5eaddc5339d97d34c48147acf6340",
-      "crc32": "ef647487",
-      "sha1": "b16df63b285fa9a7ffcd14d5c89ebcda37913255",
+      "btih": "ed03d30cb17b67eda109bbc53a5c3b3b75ab7776",
+      "mtime": "1664628884",
+      "size": "126989",
+      "md5": "6f2af4cc5056fac5c56529553c0c57ce",
+      "crc32": "47087ab1",
+      "sha1": "fedf75e59fe18b1419ac553ce70e9fe9de7b6242",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jessicavalenti-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c781b75e2bfe199e2b0ac3324b8cdf66",
+      "md5": "b96cdfdc8c7c69e44d8192d9b081817f",
       "summation": "md5"
     },
     {
       "name": "jessicavalenti-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664587948",
-      "size": "757760",
-      "md5": "49f79ed8664a43cf4331760ca01d980a",
-      "crc32": "e8fbef0c",
-      "sha1": "aafd640b059ff79e8cfeb5e121ea146f4e670036",
+      "mtime": "1664628840",
+      "size": "761856",
+      "md5": "fe7927c1e50eb6c31f892b2dbe9b97c9",
+      "crc32": "6830a687",
+      "sha1": "e1a72f3cfdabb4b1e064e79b9d684543611951c7",
       "format": "Metadata"
     },
     {
@@ -6026,9 +6067,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 583,
-  "item_last_updated": 1664590485,
-  "item_size": 25319766,
+  "files_count": 587,
+  "item_last_updated": 1664628884,
+  "item_size": 25580868,
   "metadata": {
     "identifier": "jessicavalenti-2022",
     "collection": [
@@ -6045,10 +6086,21 @@
     "publicdate": "2022-08-14 20:19:10",
     "addeddate": "2022-08-14 20:19:10"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 1989895840,
+  "pending_tasks": true,
+  "server": "ia601403.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3424653012,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1923720601,
   "workable_servers": [
-    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }

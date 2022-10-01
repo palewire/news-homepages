@@ -1,5 +1,5 @@
 {
-  "created": 1664590114,
+  "created": 1664628823,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/10/items/indiancountry-2022",
@@ -9706,31 +9706,82 @@
       "sha1": "c7f182e6fa35fe8ea3275e163fc4777e3c0dd5e2"
     },
     {
+      "name": "indiancountry-2022-10-01T05:52:32.420443-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664628755",
+      "size": "22007",
+      "md5": "af047763c12bda9fda636a5d50f611ad",
+      "crc32": "2e966741",
+      "sha1": "26bafb2e349f9e040e2cfe03ae2fc454666f5d0f",
+      "format": "JSON"
+    },
+    {
+      "name": "indiancountry-2022-10-01T05:52:32.420443-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664628757",
+      "size": "16864",
+      "md5": "164595895120a2cbfd4f54d2c6ca66a4",
+      "crc32": "a1b14ec1",
+      "sha1": "21af79903a8dd1304d187527b1b8fcc75fdb741d",
+      "format": "JSON"
+    },
+    {
+      "name": "indiancountry-2022-10-01T05:52:32.420443-07:00.jpg",
+      "source": "original",
+      "mtime": "1664628753",
+      "size": "251522",
+      "md5": "e4c3187549865b848c1e3ce7418f6926",
+      "crc32": "511d6a78",
+      "sha1": "3d3be1e436f00953ba8848b080f5562205a98253",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "indiancountry-2022-10-01T05:52:32.420443-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664628758",
+      "size": "1521",
+      "md5": "b154c6d55ed9b143a1504d1f67094d89",
+      "crc32": "dde8da7d",
+      "sha1": "f5f02dc98f59e4d2f7b29f4d2b50918a163519be",
+      "format": "JSON"
+    },
+    {
+      "name": "indiancountry-2022-10-01T05:52:32.420443-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664628760",
+      "size": "82273",
+      "md5": "a37d1391bf595cb0535ec750af5d0b41",
+      "crc32": "80055a5b",
+      "sha1": "57dc1fcfe77d5b6c7f79c296b9e91d92840a44cf",
+      "format": "JSON"
+    },
+    {
       "name": "indiancountry-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2873ba36cbc8e992074b25ba7adbef3da8b18120",
-      "mtime": "1664589969",
-      "size": "202720",
-      "md5": "6872747b95a61b950ff1a1ca791af864",
-      "crc32": "238166f3",
-      "sha1": "f5b34fd20c788cd50a466f7be58c37bb13c6a03d",
+      "btih": "3b05752e3eec412aef5f3aca4eb730bcf91df6fd",
+      "mtime": "1664628813",
+      "size": "203808",
+      "md5": "5bfc03b22ab2f2f7b506ced508f0b7c0",
+      "crc32": "49dacc9d",
+      "sha1": "09b40fea068b965e27414c8451aa8c634d7e959d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "indiancountry-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "053a1787438842d1beb60cc9ff1094f6",
+      "md5": "ac45467902518abe2db62129ca696e4d",
       "summation": "md5"
     },
     {
       "name": "indiancountry-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664587880",
-      "size": "1187840",
-      "md5": "e77bdd6001d45ea049490bc56c183ce2",
-      "crc32": "cff1f7b9",
-      "sha1": "f19fb3f533d5a59732269193f0033a5b89feb60f",
+      "mtime": "1664628766",
+      "size": "1196032",
+      "md5": "efe9dff3d38280836b0569401de757bd",
+      "crc32": "a5740d67",
+      "sha1": "0d5613e2afe45e2b1b69184b3e69a06a641c2b24",
       "format": "Metadata"
     },
     {
@@ -9744,9 +9795,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 940,
-  "item_last_updated": 1664589969,
-  "item_size": 57305841,
+  "files_count": 945,
+  "item_last_updated": 1664628813,
+  "item_size": 57689308,
   "metadata": {
     "identifier": "indiancountry-2022",
     "collection": [
@@ -9763,10 +9814,21 @@
     "publicdate": "2022-07-09 03:59:22",
     "addeddate": "2022-07-09 03:59:22"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 807457631,
+  "pending_tasks": true,
+  "server": "ia601505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3424652014,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 690889818,
   "workable_servers": [
-    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }
