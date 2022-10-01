@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 20 screenshots with the Internet Archive.
+The archiving routine has saved 21 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ponews-2022/ponews-2022-09-30T22:34:31.193468-04:00.jpg">
+  <img src="https://archive.org/download/ponews-2022/ponews-2022-09-30T22:34:31.193468-04:00.jpg"
+     alt="Chambersburg Public Opinion at 2022-09-30 22:34:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ponews-2022/ponews-2022-09-30T22:34:31.193468-04:00.jpg">September 30 at 10:34 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ponews-2022/ponews-2022-09-30T10:18:39.692380-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ponews-2022/ponews-2022-09-25T09:52:38.076754-04:00.jpg">September 25 at 9:52 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ponews-2022/ponews-2022-09-24T22:12:05.758173-04:00.jpg">
-  <img src="https://archive.org/download/ponews-2022/ponews-2022-09-24T22:12:05.758173-04:00.jpg"
-     alt="Chambersburg Public Opinion at 2022-09-24 22:12:10-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ponews-2022/ponews-2022-09-24T22:12:05.758173-04:00.jpg">September 24 at 10:12 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 20 hyperlink lists with the Internet Archive.
+The archiving routine has saved 21 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 10:34 PM](https://archive.org/download/ponews-2022/ponews-2022-09-30T22:34:31.193468-04:00.hyperlinks.json) |
 | [September 30 at 10:18 AM](https://archive.org/download/ponews-2022/ponews-2022-09-30T10:18:39.692380-04:00.hyperlinks.json) |
 | [September 29 at 10:42 PM](https://archive.org/download/ponews-2022/ponews-2022-09-29T22:42:49.139907-04:00.hyperlinks.json) |
 | [September 29 at 10:06 AM](https://archive.org/download/ponews-2022/ponews-2022-09-29T10:06:11.612554-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 10:08 AM](https://archive.org/download/ponews-2022/ponews-2022-09-27T10:08:32.707076-04:00.hyperlinks.json) |
 | [September 26 at 10:16 PM](https://archive.org/download/ponews-2022/ponews-2022-09-26T22:16:00.209393-04:00.hyperlinks.json) |
 | [September 26 at 10:05 AM](https://archive.org/download/ponews-2022/ponews-2022-09-26T10:05:38.893482-04:00.hyperlinks.json) |
-| [September 25 at 10:17 PM](https://archive.org/download/ponews-2022/ponews-2022-09-25T22:17:03.949726-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 19 accessibility trees with the Internet Archive.
+The archiving routine has saved 20 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 10:34 PM](https://archive.org/download/ponews-2022/ponews-2022-09-30T22:34:31.193468-04:00.accessibility.json) |
 | [September 30 at 10:18 AM](https://archive.org/download/ponews-2022/ponews-2022-09-30T10:18:39.692380-04:00.accessibility.json) |
 | [September 29 at 10:42 PM](https://archive.org/download/ponews-2022/ponews-2022-09-29T22:42:49.139907-04:00.accessibility.json) |
 | [September 29 at 10:06 AM](https://archive.org/download/ponews-2022/ponews-2022-09-29T10:06:11.612554-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 26 at 10:16 PM](https://archive.org/download/ponews-2022/ponews-2022-09-26T22:16:00.209393-04:00.accessibility.json) |
 | [September 26 at 10:05 AM](https://archive.org/download/ponews-2022/ponews-2022-09-26T10:05:38.893482-04:00.accessibility.json) |
 | [September 25 at 10:17 PM](https://archive.org/download/ponews-2022/ponews-2022-09-25T22:17:03.949726-04:00.accessibility.json) |
-| [September 25 at 9:52 AM](https://archive.org/download/ponews-2022/ponews-2022-09-25T09:52:38.076754-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 21 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 10:34 PM](https://archive.org/download/ponews-2022/ponews-2022-09-30T22:34:31.193468-04:00.lighthouse.json) |
 | [September 30 at 10:18 AM](https://archive.org/download/ponews-2022/ponews-2022-09-30T10:18:39.692380-04:00.lighthouse.json) |
 | [September 29 at 10:42 PM](https://archive.org/download/ponews-2022/ponews-2022-09-29T22:42:49.139907-04:00.lighthouse.json) |
 | [September 29 at 10:06 AM](https://archive.org/download/ponews-2022/ponews-2022-09-29T10:06:11.612554-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 10:08 AM](https://archive.org/download/ponews-2022/ponews-2022-09-27T10:08:32.707076-04:00.lighthouse.json) |
 | [September 26 at 10:16 PM](https://archive.org/download/ponews-2022/ponews-2022-09-26T22:16:00.209393-04:00.lighthouse.json) |
 | [September 26 at 10:05 AM](https://archive.org/download/ponews-2022/ponews-2022-09-26T10:05:38.893482-04:00.lighthouse.json) |
-| [September 25 at 10:17 PM](https://archive.org/download/ponews-2022/ponews-2022-09-25T22:17:03.949726-04:00.lighthouse.json) |
 
 
 

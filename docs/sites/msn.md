@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 75 screenshots with the Internet Archive.
+The archiving routine has saved 76 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 75 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/msn-2022/msn-2022-09-30T18:36:19.659136-07:00.jpg">
+  <img src="https://archive.org/download/msn-2022/msn-2022-09-30T18:36:19.659136-07:00.jpg"
+     alt="MSN at 2022-09-30 18:36:34-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/msn-2022/msn-2022-09-30T18:36:19.659136-07:00.jpg">September 30 at 6:36 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/msn-2022/msn-2022-09-30T06:06:23.443547-07:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/msn-2022/msn-2022-09-25T05:59:25.371274-07:00.jpg">September 25 at 5:59 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/msn-2022/msn-2022-09-24T18:05:58.803919-07:00.jpg">
-  <img src="https://archive.org/download/msn-2022/msn-2022-09-24T18:05:58.803919-07:00.jpg"
-     alt="MSN at 2022-09-24 18:06:03-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/msn-2022/msn-2022-09-24T18:05:58.803919-07:00.jpg">September 24 at 6:06 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 75 hyperlink lists with the Internet Archive.
+The archiving routine has saved 76 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 6:36 PM](https://archive.org/download/msn-2022/msn-2022-09-30T18:36:19.659136-07:00.hyperlinks.json) |
 | [September 30 at 6:06 AM](https://archive.org/download/msn-2022/msn-2022-09-30T06:06:23.443547-07:00.hyperlinks.json) |
 | [September 29 at 6:40 PM](https://archive.org/download/msn-2022/msn-2022-09-29T18:40:04.331420-07:00.hyperlinks.json) |
 | [September 29 at 6:00 AM](https://archive.org/download/msn-2022/msn-2022-09-29T05:59:56.698543-07:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 6:01 AM](https://archive.org/download/msn-2022/msn-2022-09-27T06:01:32.549686-07:00.hyperlinks.json) |
 | [September 26 at 6:12 PM](https://archive.org/download/msn-2022/msn-2022-09-26T18:12:17.199895-07:00.hyperlinks.json) |
 | [September 26 at 6:01 AM](https://archive.org/download/msn-2022/msn-2022-09-26T06:01:02.228934-07:00.hyperlinks.json) |
-| [September 25 at 6:14 PM](https://archive.org/download/msn-2022/msn-2022-09-25T18:14:17.694496-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 76 accessibility trees with the Internet Archive.
+The archiving routine has saved 77 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 6:36 PM](https://archive.org/download/msn-2022/msn-2022-09-30T18:36:19.659136-07:00.accessibility.json) |
 | [September 30 at 6:06 AM](https://archive.org/download/msn-2022/msn-2022-09-30T06:06:23.443547-07:00.accessibility.json) |
 | [September 29 at 6:40 PM](https://archive.org/download/msn-2022/msn-2022-09-29T18:40:04.331420-07:00.accessibility.json) |
 | [September 29 at 6:00 AM](https://archive.org/download/msn-2022/msn-2022-09-29T05:59:56.698543-07:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 6:01 AM](https://archive.org/download/msn-2022/msn-2022-09-27T06:01:32.549686-07:00.accessibility.json) |
 | [September 26 at 6:12 PM](https://archive.org/download/msn-2022/msn-2022-09-26T18:12:17.199895-07:00.accessibility.json) |
 | [September 26 at 6:01 AM](https://archive.org/download/msn-2022/msn-2022-09-26T06:01:02.228934-07:00.accessibility.json) |
-| [September 25 at 6:14 PM](https://archive.org/download/msn-2022/msn-2022-09-25T18:14:17.694496-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 76 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 77 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 6:36 PM](https://archive.org/download/msn-2022/msn-2022-09-30T18:36:19.659136-07:00.lighthouse.json) |
 | [September 30 at 6:06 AM](https://archive.org/download/msn-2022/msn-2022-09-30T06:06:23.443547-07:00.lighthouse.json) |
 | [September 29 at 6:40 PM](https://archive.org/download/msn-2022/msn-2022-09-29T18:40:04.331420-07:00.lighthouse.json) |
 | [September 29 at 6:00 AM](https://archive.org/download/msn-2022/msn-2022-09-29T05:59:56.698543-07:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 6:01 AM](https://archive.org/download/msn-2022/msn-2022-09-27T06:01:32.549686-07:00.lighthouse.json) |
 | [September 26 at 6:12 PM](https://archive.org/download/msn-2022/msn-2022-09-26T18:12:17.199895-07:00.lighthouse.json) |
 | [September 26 at 6:01 AM](https://archive.org/download/msn-2022/msn-2022-09-26T06:01:02.228934-07:00.lighthouse.json) |
-| [September 25 at 6:14 PM](https://archive.org/download/msn-2022/msn-2022-09-25T18:14:17.694496-07:00.lighthouse.json) |
 
 
 

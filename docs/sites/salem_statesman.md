@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 20 screenshots with the Internet Archive.
+The archiving routine has saved 21 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-30T19:38:08.160844-07:00.jpg">
+  <img src="https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-30T19:38:08.160844-07:00.jpg"
+     alt="Salem Statesman Journal at 2022-09-30 19:38:10-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-30T19:38:08.160844-07:00.jpg">September 30 at 7:38 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-30T07:21:31.308992-07:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-25T06:54:50.734236-07:00.jpg">September 25 at 6:54 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-24T19:13:42.118745-07:00.jpg">
-  <img src="https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-24T19:13:42.118745-07:00.jpg"
-     alt="Salem Statesman Journal at 2022-09-24 19:13:44-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-24T19:13:42.118745-07:00.jpg">September 24 at 7:13 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 20 hyperlink lists with the Internet Archive.
+The archiving routine has saved 21 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 7:38 PM](https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-30T19:38:08.160844-07:00.hyperlinks.json) |
 | [September 30 at 7:21 AM](https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-30T07:21:31.308992-07:00.hyperlinks.json) |
 | [September 29 at 7:43 PM](https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-29T19:43:14.652178-07:00.hyperlinks.json) |
 | [September 29 at 7:08 AM](https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-29T07:08:30.507645-07:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 7:11 AM](https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-27T07:10:57.436087-07:00.hyperlinks.json) |
 | [September 26 at 7:18 PM](https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-26T19:17:56.903098-07:00.hyperlinks.json) |
 | [September 26 at 7:08 AM](https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-26T07:08:25.905374-07:00.hyperlinks.json) |
-| [September 25 at 7:19 PM](https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-25T19:19:07.169033-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 20 accessibility trees with the Internet Archive.
+The archiving routine has saved 21 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 7:38 PM](https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-30T19:38:08.160844-07:00.accessibility.json) |
 | [September 30 at 7:21 AM](https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-30T07:21:31.308992-07:00.accessibility.json) |
 | [September 29 at 7:43 PM](https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-29T19:43:14.652178-07:00.accessibility.json) |
 | [September 29 at 7:08 AM](https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-29T07:08:30.507645-07:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 7:11 AM](https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-27T07:10:57.436087-07:00.accessibility.json) |
 | [September 26 at 7:18 PM](https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-26T19:17:56.903098-07:00.accessibility.json) |
 | [September 26 at 7:08 AM](https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-26T07:08:25.905374-07:00.accessibility.json) |
-| [September 25 at 7:19 PM](https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-25T19:19:07.169033-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 21 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 7:38 PM](https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-30T19:38:08.160844-07:00.lighthouse.json) |
 | [September 30 at 7:21 AM](https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-30T07:21:31.308992-07:00.lighthouse.json) |
 | [September 29 at 7:43 PM](https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-29T19:43:14.652178-07:00.lighthouse.json) |
 | [September 29 at 7:08 AM](https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-29T07:08:30.507645-07:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 7:11 AM](https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-27T07:10:57.436087-07:00.lighthouse.json) |
 | [September 26 at 7:18 PM](https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-26T19:17:56.903098-07:00.lighthouse.json) |
 | [September 26 at 7:08 AM](https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-26T07:08:25.905374-07:00.lighthouse.json) |
-| [September 25 at 7:19 PM](https://archive.org/download/salem_statesman-2022/salem_statesman-2022-09-25T19:19:07.169033-07:00.lighthouse.json) |
 
 
 

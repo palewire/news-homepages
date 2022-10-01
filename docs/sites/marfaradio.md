@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 150 screenshots with the Internet Archive.
+The archiving routine has saved 151 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 150 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-09-30T20:36:43.040508-05:00.jpg">
+  <img src="https://archive.org/download/marfaradio-2022/marfaradio-2022-09-30T20:36:43.040508-05:00.jpg"
+     alt="Marfa Public Radio at 2022-09-30 20:36:48-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-09-30T20:36:43.040508-05:00.jpg">September 30 at 8:36 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-09-30T08:06:23.380705-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-09-25T07:59:00.577758-05:00.jpg">September 25 at 7:59 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-09-24T20:05:30.506171-05:00.jpg">
-  <img src="https://archive.org/download/marfaradio-2022/marfaradio-2022-09-24T20:05:30.506171-05:00.jpg"
-     alt="Marfa Public Radio at 2022-09-24 20:05:36-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-09-24T20:05:30.506171-05:00.jpg">September 24 at 8:05 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 151 hyperlink lists with the Internet Archive.
+The archiving routine has saved 152 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 8:36 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-09-30T20:36:43.040508-05:00.hyperlinks.json) |
 | [September 30 at 8:06 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-09-30T08:06:23.380705-05:00.hyperlinks.json) |
 | [September 29 at 8:40 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-09-29T20:40:00.934045-05:00.hyperlinks.json) |
 | [September 29 at 8:00 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-09-29T07:59:55.075610-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 8:01 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-09-27T08:00:59.209285-05:00.hyperlinks.json) |
 | [September 26 at 8:12 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-09-26T20:12:27.122821-05:00.hyperlinks.json) |
 | [September 26 at 8:01 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-09-26T08:01:18.214989-05:00.hyperlinks.json) |
-| [September 25 at 8:13 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-09-25T20:13:43.303612-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 149 accessibility trees with the Internet Archive.
+The archiving routine has saved 150 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 8:36 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-09-30T20:36:43.040508-05:00.accessibility.json) |
 | [September 30 at 8:06 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-09-30T08:06:23.380705-05:00.accessibility.json) |
 | [September 29 at 8:40 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-09-29T20:40:00.934045-05:00.accessibility.json) |
 | [September 29 at 8:00 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-09-29T07:59:55.075610-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 8:01 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-09-27T08:00:59.209285-05:00.accessibility.json) |
 | [September 26 at 8:12 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-09-26T20:12:27.122821-05:00.accessibility.json) |
 | [September 26 at 8:01 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-09-26T08:01:18.214989-05:00.accessibility.json) |
-| [September 25 at 8:13 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-09-25T20:13:43.303612-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 138 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 139 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 8:36 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-09-30T20:36:43.040508-05:00.lighthouse.json) |
 | [September 30 at 8:06 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-09-30T08:06:23.380705-05:00.lighthouse.json) |
 | [September 29 at 8:40 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-09-29T20:40:00.934045-05:00.lighthouse.json) |
 | [September 29 at 8:00 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-09-29T07:59:55.075610-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 8:01 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-09-27T08:00:59.209285-05:00.lighthouse.json) |
 | [September 26 at 8:12 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-09-26T20:12:27.122821-05:00.lighthouse.json) |
 | [September 26 at 8:01 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-09-26T08:01:18.214989-05:00.lighthouse.json) |
-| [September 25 at 8:13 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-09-25T20:13:43.303612-05:00.lighthouse.json) |
 
 
 
