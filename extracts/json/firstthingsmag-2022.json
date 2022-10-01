@@ -1,5 +1,5 @@
 {
-  "created": 1664569343,
+  "created": 1664610394,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/35/items/firstthingsmag-2022",
@@ -12719,31 +12719,93 @@
       "format": "JSON"
     },
     {
+      "name": "firstthingsmag-2022-09-30T16:20:36.821636-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "firstthingsmag-2022-09-30T16:20:36.821636-04:00.jpg",
+      "mtime": "1664571427",
+      "size": "9727",
+      "md5": "9fbc845ff075c7e5224f448500ee5006",
+      "crc32": "019931bc",
+      "sha1": "c2fe3e4a8a61b31c9ac26b0ffdca6949b2bb4169"
+    },
+    {
+      "name": "firstthingsmag-2022-10-01T03:45:06.538919-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664610310",
+      "size": "32406",
+      "md5": "c657cff7773e30c9f69982ca3ece734d",
+      "crc32": "b05699ca",
+      "sha1": "5625a1df181e581ab0d404f3f58beabbdd23cfab",
+      "format": "JSON"
+    },
+    {
+      "name": "firstthingsmag-2022-10-01T03:45:06.538919-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664610313",
+      "size": "19574",
+      "md5": "ee55c96400cc9c6ab4d4fd49a2c6ceef",
+      "crc32": "74eba939",
+      "sha1": "ae371f67ac79b8f0b9549d1221520825e6bd5295",
+      "format": "JSON"
+    },
+    {
+      "name": "firstthingsmag-2022-10-01T03:45:06.538919-04:00.jpg",
+      "source": "original",
+      "mtime": "1664610308",
+      "size": "264636",
+      "md5": "40153414bd3317aa6850584318a94156",
+      "crc32": "1bdbce89",
+      "sha1": "603943f27cbfc35e24131775b5877a132c425cbf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "firstthingsmag-2022-10-01T03:45:06.538919-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664610315",
+      "size": "1504",
+      "md5": "9937aa7aa835f1ae0c59f1741fc2e40e",
+      "crc32": "2a56e671",
+      "sha1": "7e9fd80c29ddba07976519d4f451c40fe2746b92",
+      "format": "JSON"
+    },
+    {
+      "name": "firstthingsmag-2022-10-01T03:45:06.538919-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664610323",
+      "size": "208",
+      "md5": "d07e6e410154507c29e25723c052c53d",
+      "crc32": "fc536995",
+      "sha1": "9a597a2a858501a5b9789b856ce02fc9b707a4a0",
+      "format": "JSON"
+    },
+    {
       "name": "firstthingsmag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7e20398f14da6bd0d7d9103bd7b8d24aadf8fdc5",
-      "mtime": "1664569325",
-      "size": "266648",
-      "md5": "0d2d4d12d89d9a8c36b5359b0365572c",
-      "crc32": "b598ee28",
-      "sha1": "bbf626d14f20794204280f8be995febbb8ad8251",
+      "btih": "cdb9adc32c87ec770792966a614e5ae1417e72e8",
+      "mtime": "1664610384",
+      "size": "267929",
+      "md5": "314f79f4cbae08d6cfc0217a0205807e",
+      "crc32": "f1129266",
+      "sha1": "1e0bd20a0dfef5f78f5724e6cb761340212bc36f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "firstthingsmag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "36f3d511fe56d0cb32f8101beb768d7b",
+      "md5": "ed679ea00c28007250002b30270640ab",
       "summation": "md5"
     },
     {
       "name": "firstthingsmag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664569266",
-      "size": "1564672",
-      "md5": "2bdd2bfe09bb6dc3d6cbfa674b943d39",
-      "crc32": "0b562846",
-      "sha1": "0ffda56a8c10baa830a159f8081edbaf1a936b96",
+      "mtime": "1664610327",
+      "size": "1572864",
+      "md5": "8e31e489e8b1592e5512fe18c7964448",
+      "crc32": "e2d50edc",
+      "sha1": "bfd190748c6788bb70c63ee3270ea0f176f1a3b9",
       "format": "Metadata"
     },
     {
@@ -12757,9 +12819,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1232,
-  "item_last_updated": 1664569325,
-  "item_size": 71107456,
+  "files_count": 1238,
+  "item_last_updated": 1664610384,
+  "item_size": 71444984,
   "metadata": {
     "identifier": "firstthingsmag-2022",
     "collection": [
@@ -12781,7 +12843,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3423819462,
+      "task_id": 3424402172,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12789,7 +12851,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1991718228,
+  "uniq": 463504161,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

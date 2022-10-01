@@ -1,16 +1,8 @@
 {
-  "created": 1664478051,
+  "created": 1664610234,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/23/items/doorcountyknock-2022",
-  "doorcountyknock-2022": {
-    "url": "https://www.doorcountyknock.org/",
-    "job_id": "spn2-0ffa2451c556e303a19337e3a5d420a72d0a6063",
-    "message": "Job failed.",
-    "resources": [],
-    "status": "error",
-    "status_ext": "error:job-failed"
-  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -9435,31 +9427,217 @@
       "format": "JSON"
     },
     {
+      "name": "doorcountyknock-2022-09-29T12:45:13.599253-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "doorcountyknock-2022-09-29T12:45:13.599253-05:00.jpg",
+      "mtime": "1664481723",
+      "size": "9192",
+      "md5": "817ae82dd8fed7023bf5d88405587452",
+      "crc32": "7a59d5d5",
+      "sha1": "c3002a0c7046a1dbdfe2b0729c3013daf6fa8b2e"
+    },
+    {
+      "name": "doorcountyknock-2022-09-30T01:33:23.574793-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664519607",
+      "size": "16322",
+      "md5": "1c9ff84b0680426d0e62c589fafe8539",
+      "crc32": "3b613810",
+      "sha1": "eea8a57de6eaedda05760d2d87fcc7338a4f38eb",
+      "format": "JSON"
+    },
+    {
+      "name": "doorcountyknock-2022-09-30T01:33:23.574793-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664519608",
+      "size": "12862",
+      "md5": "ebfc7394243b22f7b137a9979209772d",
+      "crc32": "5cb077d9",
+      "sha1": "a164a0969b15a0b44355908bd5a03f2757699cd8",
+      "format": "JSON"
+    },
+    {
+      "name": "doorcountyknock-2022-09-30T01:33:23.574793-05:00.jpg",
+      "source": "original",
+      "mtime": "1664519605",
+      "size": "191775",
+      "md5": "73ff61a39969b26af3baee0069c80f32",
+      "crc32": "0a79c48d",
+      "sha1": "80d00620c5ad3a403c842ad0f1a277a3c73a19c1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "doorcountyknock-2022-09-30T01:33:23.574793-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664519610",
+      "size": "1492",
+      "md5": "7cbbc908e0c130e58015376855a4f1be",
+      "crc32": "9b9d1ef3",
+      "sha1": "770b3f691f156fe2f7a0e4e220e10550efc9e0ca",
+      "format": "JSON"
+    },
+    {
+      "name": "doorcountyknock-2022-09-30T01:33:23.574793-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664519612",
+      "size": "6519",
+      "md5": "59785362a654a962dd847cd9c76aadf1",
+      "crc32": "bebc6e40",
+      "sha1": "088fff8c3d960cbfd46f9e9e0da3b9dbf46dbc6c",
+      "format": "JSON"
+    },
+    {
+      "name": "doorcountyknock-2022-09-30T01:33:23.574793-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "doorcountyknock-2022-09-30T01:33:23.574793-05:00.jpg",
+      "mtime": "1664521545",
+      "size": "9192",
+      "md5": "817ae82dd8fed7023bf5d88405587452",
+      "crc32": "7a59d5d5",
+      "sha1": "c3002a0c7046a1dbdfe2b0729c3013daf6fa8b2e"
+    },
+    {
+      "name": "doorcountyknock-2022-09-30T13:27:43.844518-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664562472",
+      "size": "17484",
+      "md5": "5e91a4b1ddde6eab43f030af223af52d",
+      "crc32": "f670bd38",
+      "sha1": "b375c5ec253bc407401239ce3459297b1f347325",
+      "format": "JSON"
+    },
+    {
+      "name": "doorcountyknock-2022-09-30T13:27:43.844518-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664562476",
+      "size": "12862",
+      "md5": "ebfc7394243b22f7b137a9979209772d",
+      "crc32": "5cb077d9",
+      "sha1": "a164a0969b15a0b44355908bd5a03f2757699cd8",
+      "format": "JSON"
+    },
+    {
+      "name": "doorcountyknock-2022-09-30T13:27:43.844518-05:00.jpg",
+      "source": "original",
+      "mtime": "1664562469",
+      "size": "191775",
+      "md5": "73ff61a39969b26af3baee0069c80f32",
+      "crc32": "0a79c48d",
+      "sha1": "80d00620c5ad3a403c842ad0f1a277a3c73a19c1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "doorcountyknock-2022-09-30T13:27:43.844518-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664562479",
+      "size": "1492",
+      "md5": "f7a617d7e881fba0e2b37b0174ab3cfd",
+      "crc32": "2ac05d20",
+      "sha1": "2dd1bc6e466756a6992a50d2763b30c811450892",
+      "format": "JSON"
+    },
+    {
+      "name": "doorcountyknock-2022-09-30T13:27:43.844518-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664562481",
+      "size": "6520",
+      "md5": "fa9fd1f59a0548b9d8027874c3b970ec",
+      "crc32": "93868c6b",
+      "sha1": "efe0478095d01af37a857fb7d63e56f2fb0ee1c1",
+      "format": "JSON"
+    },
+    {
+      "name": "doorcountyknock-2022-09-30T13:27:43.844518-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "doorcountyknock-2022-09-30T13:27:43.844518-05:00.jpg",
+      "mtime": "1664565393",
+      "size": "9192",
+      "md5": "817ae82dd8fed7023bf5d88405587452",
+      "crc32": "7a59d5d5",
+      "sha1": "c3002a0c7046a1dbdfe2b0729c3013daf6fa8b2e"
+    },
+    {
+      "name": "doorcountyknock-2022-10-01T02:42:37.940088-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664610161",
+      "size": "17484",
+      "md5": "5e91a4b1ddde6eab43f030af223af52d",
+      "crc32": "f670bd38",
+      "sha1": "b375c5ec253bc407401239ce3459297b1f347325",
+      "format": "JSON"
+    },
+    {
+      "name": "doorcountyknock-2022-10-01T02:42:37.940088-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664610162",
+      "size": "12862",
+      "md5": "ebfc7394243b22f7b137a9979209772d",
+      "crc32": "5cb077d9",
+      "sha1": "a164a0969b15a0b44355908bd5a03f2757699cd8",
+      "format": "JSON"
+    },
+    {
+      "name": "doorcountyknock-2022-10-01T02:42:37.940088-05:00.jpg",
+      "source": "original",
+      "mtime": "1664610159",
+      "size": "191775",
+      "md5": "73ff61a39969b26af3baee0069c80f32",
+      "crc32": "0a79c48d",
+      "sha1": "80d00620c5ad3a403c842ad0f1a277a3c73a19c1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "doorcountyknock-2022-10-01T02:42:37.940088-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664610164",
+      "size": "1492",
+      "md5": "24f4338d490aca20f3f1feec5b42faad",
+      "crc32": "02c489e1",
+      "sha1": "24385e00e1d679a3f675b3ef861a3c45c0d6785b",
+      "format": "JSON"
+    },
+    {
+      "name": "doorcountyknock-2022-10-01T02:42:37.940088-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664610167",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "doorcountyknock-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6827e1de12b5409ca0e6dd0f7c3937bff9fdc5c6",
-      "mtime": "1664473595",
-      "size": "198242",
-      "md5": "55ba57d9716953496e156c90577391ee",
-      "crc32": "eb0418d8",
-      "sha1": "c806882c8fa8b8b1d757309d21830567986acc12",
+      "btih": "ac222fbca958bfcb94773112dc9f88f03fae3081",
+      "mtime": "1664610220",
+      "size": "202125",
+      "md5": "8856dac62ad67712108b59821ba9cc3b",
+      "crc32": "61a73de2",
+      "sha1": "a7edbd6b60bcffe943a0f313489a634c333b6b00",
       "format": "Archive BitTorrent"
     },
     {
       "name": "doorcountyknock-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c2df53129e576c5d623162ce9d19613c",
+      "md5": "d7fae4be417178434330511999195e8d",
       "summation": "md5"
     },
     {
       "name": "doorcountyknock-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664473550",
-      "size": "1159168",
-      "md5": "6c2068c332bdb7592fa92eae324f58a9",
-      "crc32": "88e92ae1",
-      "sha1": "08a824df0438bd601e4c3a244143768bc7e9c277",
+      "mtime": "1664610173",
+      "size": "1183744",
+      "md5": "6ba93b2df1ed18ca1aff3848b20c3ca3",
+      "crc32": "1bd2ad4f",
+      "sha1": "a287dfc6ed8cfb1c4a5c35daf04d8220c663cf14",
       "format": "Metadata"
     },
     {
@@ -9473,9 +9651,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 913,
-  "item_last_updated": 1664473595,
-  "item_size": 44951220,
+  "files_count": 931,
+  "item_last_updated": 1664610220,
+  "item_size": 45690173,
   "metadata": {
     "identifier": "doorcountyknock-2022",
     "collection": [
@@ -9497,7 +9675,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3422497968,
+      "task_id": 3424400243,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9505,7 +9683,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1757487272,
+  "uniq": 1841864559,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

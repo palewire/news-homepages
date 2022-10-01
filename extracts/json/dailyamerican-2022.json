@@ -1,5 +1,5 @@
 {
-  "created": 1664473147,
+  "created": 1664610088,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/31/items/dailyamerican-2022",
@@ -1183,31 +1183,217 @@
       "format": "JSON"
     },
     {
+      "name": "dailyamerican-2022-09-29T13:38:17.591277-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailyamerican-2022-09-29T13:38:17.591277-04:00.jpg",
+      "mtime": "1664481684",
+      "size": "9458",
+      "md5": "fdc95240ea881b14914a110fab99e5d4",
+      "crc32": "977f320e",
+      "sha1": "ed94acd6e4a2baca9dc9a508c40eaad5e626013d"
+    },
+    {
+      "name": "dailyamerican-2022-09-30T02:31:05.790046-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664519470",
+      "size": "23529",
+      "md5": "3988fcae95b415e91da2f4a0b333a770",
+      "crc32": "10158051",
+      "sha1": "73d8bafc9a876f5e117601de91cce438bcfd7755",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyamerican-2022-09-30T02:31:05.790046-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664519471",
+      "size": "35517",
+      "md5": "1d54724e3ebc5d3250f50f9a73a3a965",
+      "crc32": "3ed2b931",
+      "sha1": "dc712de4c042666ad7504f604e768a73a02f34df",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyamerican-2022-09-30T02:31:05.790046-04:00.jpg",
+      "source": "original",
+      "mtime": "1664519468",
+      "size": "246921",
+      "md5": "251c3f236ea0c59148c68de21344d04e",
+      "crc32": "f3a87939",
+      "sha1": "c4e519b2e82f2193fc150b8f7120cd705140e796",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailyamerican-2022-09-30T02:31:05.790046-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664519472",
+      "size": "1522",
+      "md5": "c4931d8a5ca7c28f51a75e5f3b246219",
+      "crc32": "46b7585c",
+      "sha1": "278d39d492919e8cfbb75c41f17f83d6777e687a",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyamerican-2022-09-30T02:31:05.790046-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664519474",
+      "size": "121634",
+      "md5": "56fcb152ee756c5f042896e85b3b2066",
+      "crc32": "5df7ad55",
+      "sha1": "d3c518b51b8255e1a9ab08d2c5a9db30d6eca84d",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyamerican-2022-09-30T02:31:05.790046-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailyamerican-2022-09-30T02:31:05.790046-04:00.jpg",
+      "mtime": "1664521284",
+      "size": "9173",
+      "md5": "79c0db1371255a5559974c9dd07b1c93",
+      "crc32": "e1493cab",
+      "sha1": "e40be92520ba5b0272daa97684dc8bc1c4c6d95c"
+    },
+    {
+      "name": "dailyamerican-2022-09-30T14:24:31.230799-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664562280",
+      "size": "24187",
+      "md5": "e9a72eb50fa3abafc591f967e05fd8ec",
+      "crc32": "7c90b732",
+      "sha1": "03705e34d518230943d5106f4194ac796bb0f25a",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyamerican-2022-09-30T14:24:31.230799-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664562285",
+      "size": "34520",
+      "md5": "e0b8c63c603dde4f2fb9083e1f865afd",
+      "crc32": "c0247d2f",
+      "sha1": "f4770968475e4ea785e705ee2ded68f19d48a586",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyamerican-2022-09-30T14:24:31.230799-04:00.jpg",
+      "source": "original",
+      "mtime": "1664562275",
+      "size": "261722",
+      "md5": "502aba4018c7183c4dc9935ff7e12c4b",
+      "crc32": "01c0655d",
+      "sha1": "ebb121fc6586bdcae7126413d062d93057247bee",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailyamerican-2022-09-30T14:24:31.230799-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664562291",
+      "size": "1522",
+      "md5": "b819ef512f7a4f6ae0c4b50cebff9603",
+      "crc32": "6ca89332",
+      "sha1": "920bccc10aa58a4752c76e5a9649ac4bfc645f92",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyamerican-2022-09-30T14:24:31.230799-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664562297",
+      "size": "171456",
+      "md5": "f2e5f6f9c87f3845437c86cb4adbb584",
+      "crc32": "c6eed2ea",
+      "sha1": "136e8980d2e950d1df243c5a6d6d6aedaf111007",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyamerican-2022-09-30T14:24:31.230799-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailyamerican-2022-09-30T14:24:31.230799-04:00.jpg",
+      "mtime": "1664565092",
+      "size": "9353",
+      "md5": "1acd58b5c211509d131e86b80dc2f576",
+      "crc32": "1c999cbb",
+      "sha1": "b42ea807306ea2e0b1862a3e31a00d24e9f88e24"
+    },
+    {
+      "name": "dailyamerican-2022-10-01T03:40:34.232476-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664610037",
+      "size": "23598",
+      "md5": "c90dc8a58e333755e4e1df36b21e35b1",
+      "crc32": "21d2e0cc",
+      "sha1": "aee898e764602da64bac1fb0988d801f84e44601",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyamerican-2022-10-01T03:40:34.232476-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664610039",
+      "size": "34551",
+      "md5": "f6a6f2050fbbc47c0f0071ff262e8861",
+      "crc32": "87cd802e",
+      "sha1": "1232945b24dee674fce6b9753e43dc95317f3890",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyamerican-2022-10-01T03:40:34.232476-04:00.jpg",
+      "source": "original",
+      "mtime": "1664610036",
+      "size": "246374",
+      "md5": "16ba55ba87a2dbfb23de1e70307fce69",
+      "crc32": "f0d1730c",
+      "sha1": "8445e4ba9f2b46c699e3324cb47cb27397818be7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailyamerican-2022-10-01T03:40:34.232476-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664610040",
+      "size": "1522",
+      "md5": "787968a53f3dc9e39cdeac7a68964137",
+      "crc32": "523aa89f",
+      "sha1": "9a6c2e281986f0e0aea688bb34aa9d7a646f5fe5",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyamerican-2022-10-01T03:40:34.232476-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664610042",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "dailyamerican-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3884c2da5eec37c2efba1f8bfa90a5d40270415b",
-      "mtime": "1664473145",
-      "size": "26050",
-      "md5": "3b37d6688fa6a23a6867e3e5ecc6ada1",
-      "crc32": "6d586260",
-      "sha1": "52d8f1d0d09382fd8b5d1be9f9bf9b4a23ee6998",
+      "btih": "65c96bb3961bc0bf4a8fe3e18b66a7a3650b2e7a",
+      "mtime": "1664610084",
+      "size": "29921",
+      "md5": "793329dbf95380740029ed684270302c",
+      "crc32": "e219d0fe",
+      "sha1": "7d58b46b2369d88e5d4c353bf67c50f23b521a0c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailyamerican-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3d58b7b94de43d1602dbd329f379668a",
+      "md5": "5d95da0a78e9582f3dbe9b787037f5eb",
       "summation": "md5"
     },
     {
       "name": "dailyamerican-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664473109",
-      "size": "167936",
-      "md5": "df1972c3df4eea8415b511b5c0cb89e5",
-      "crc32": "c1b1641f",
-      "sha1": "b802b940ab2dd239335837a3807318a113aa9e00",
+      "mtime": "1664610047",
+      "size": "192512",
+      "md5": "6badcdce8e991805373e4ad93641ef98",
+      "crc32": "602441ed",
+      "sha1": "6dd65e7ff337761c8f86c29b6cb6b86e9e01fa25",
       "format": "Metadata"
     },
     {
@@ -1221,9 +1407,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 118,
-  "item_last_updated": 1664473145,
-  "item_size": 8457237,
+  "files_count": 136,
+  "item_last_updated": 1664610084,
+  "item_size": 9742445,
   "metadata": {
     "identifier": "dailyamerican-2022",
     "collection": [
@@ -1245,7 +1431,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3422493008,
+      "task_id": 3424398120,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1253,7 +1439,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1640006027,
+  "uniq": 1551118455,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

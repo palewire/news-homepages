@@ -1,5 +1,5 @@
 {
-  "created": 1664569233,
+  "created": 1664610284,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/8/items/democracynow-2022",
@@ -15321,31 +15321,93 @@
       "format": "JSON"
     },
     {
+      "name": "democracynow-2022-09-30T16:18:38.576514-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "democracynow-2022-09-30T16:18:38.576514-04:00.jpg",
+      "mtime": "1664571384",
+      "size": "8848",
+      "md5": "ab3bab6c5d5d5a869ef003a378c4190d",
+      "crc32": "b64641c0",
+      "sha1": "25bd30f1bad87266d5cb75fa633b7388a5d869ef"
+    },
+    {
+      "name": "democracynow-2022-10-01T03:43:05.635054-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664610195",
+      "size": "28529",
+      "md5": "b5eaec18c69743f5a3d08c13fbd8ca38",
+      "crc32": "b03cf446",
+      "sha1": "6df51487fa610566dcf017865792e884bd6d9885",
+      "format": "JSON"
+    },
+    {
+      "name": "democracynow-2022-10-01T03:43:05.635054-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664610196",
+      "size": "32619",
+      "md5": "7f15bef00279b7bb9f4b3e827a801440",
+      "crc32": "fb3408e8",
+      "sha1": "a9c6c9246f27a49404a47a49d50ac23fdccaa359",
+      "format": "JSON"
+    },
+    {
+      "name": "democracynow-2022-10-01T03:43:05.635054-04:00.jpg",
+      "source": "original",
+      "mtime": "1664610192",
+      "size": "254579",
+      "md5": "36ff5bbda3a29cf7f5fe273b7d906188",
+      "crc32": "94a74888",
+      "sha1": "80522f6c4632f5249a4923872f91c476303aefbe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "democracynow-2022-10-01T03:43:05.635054-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664610198",
+      "size": "1512",
+      "md5": "5d0e08689adc6cc2c0f9967891d142ac",
+      "crc32": "c0bdaf03",
+      "sha1": "b850284b02b1835252a786631e85622a49e90b41",
+      "format": "JSON"
+    },
+    {
+      "name": "democracynow-2022-10-01T03:43:05.635054-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664610200",
+      "size": "12218",
+      "md5": "618423b97b65e6e900ee9918fe48c9c2",
+      "crc32": "795b051a",
+      "sha1": "21f32889a8afa46c75d2354d95d680b721fd6c75",
+      "format": "JSON"
+    },
+    {
       "name": "democracynow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fcb8da6baf60aeecf14aec063203c2afbc5628ac",
-      "mtime": "1664569219",
-      "size": "318198",
-      "md5": "75ed40c24400af3d02213d005e03a256",
-      "crc32": "27e8cf4d",
-      "sha1": "516575529bec775104a3e41bc497394436e85918",
+      "btih": "51bc875c972c71552eb2b4b60f5d2d4bed932ad9",
+      "mtime": "1664610275",
+      "size": "319469",
+      "md5": "af786765a0a5871b6bbfc10dc555b34f",
+      "crc32": "41a74fe1",
+      "sha1": "817764c72f05b441dd77db00478ec50184f87f63",
       "format": "Archive BitTorrent"
     },
     {
       "name": "democracynow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ef7891e76ecf76bfe9daf730fc451a0f",
+      "md5": "14c7650f3bb1688210bc783c3c2fb44e",
       "summation": "md5"
     },
     {
       "name": "democracynow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664569141",
-      "size": "1851392",
-      "md5": "cfe0510e1a895d2be2463623423b4ace",
-      "crc32": "04b2a995",
-      "sha1": "823c02b865ad278070f34d979b10927bd6c89ddf",
+      "mtime": "1664610210",
+      "size": "1859584",
+      "md5": "03c98520afff2aadab6ccafa58910f41",
+      "crc32": "ca3994a6",
+      "sha1": "db567b7efaf02d71543437b05eb0552178de2c77",
       "format": "Metadata"
     },
     {
@@ -15359,9 +15421,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1480,
-  "item_last_updated": 1664569219,
-  "item_size": 109504886,
+  "files_count": 1486,
+  "item_last_updated": 1664610275,
+  "item_size": 109852654,
   "metadata": {
     "identifier": "democracynow-2022",
     "collection": [
@@ -15383,7 +15445,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3423818058,
+      "task_id": 3424400852,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -15391,7 +15453,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1582372524,
+  "uniq": 153656624,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1664473242,
+  "created": 1664610100,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/2/items/dailycommercial-2022",
@@ -1183,31 +1183,217 @@
       "format": "JSON"
     },
     {
+      "name": "dailycommercial-2022-09-29T13:39:47.858139-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailycommercial-2022-09-29T13:39:47.858139-04:00.jpg",
+      "mtime": "1664481946",
+      "size": "8845",
+      "md5": "ca3fa2797110e8422a97ce277a42a9e5",
+      "crc32": "1781957e",
+      "sha1": "592b021d9c21fe27c219dce007bf2e1b92722260"
+    },
+    {
+      "name": "dailycommercial-2022-09-30T02:31:12.076461-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664519479",
+      "size": "23491",
+      "md5": "f9d45782c650b71c9fe2486d75ecf52e",
+      "crc32": "6f7d302f",
+      "sha1": "9d7257078e9ada18728dbdccca88988aabbf22c2",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycommercial-2022-09-30T02:31:12.076461-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664519481",
+      "size": "37988",
+      "md5": "589e5c27fa9331aee93663b7ec248f34",
+      "crc32": "524caa57",
+      "sha1": "81dab1145bee47ef6cfd58ea46d957cb0716de04",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycommercial-2022-09-30T02:31:12.076461-04:00.jpg",
+      "source": "original",
+      "mtime": "1664519477",
+      "size": "247191",
+      "md5": "a32b2db7370b41286de312c5dc0f623e",
+      "crc32": "7ee126b5",
+      "sha1": "33f30924437b5bf5ae00935ba6774134429f7673",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailycommercial-2022-09-30T02:31:12.076461-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664519482",
+      "size": "1539",
+      "md5": "3f1a54a0ac32a81894bacbae6d70938c",
+      "crc32": "28d8e850",
+      "sha1": "95228251f1b2ae502d440e2067e7c9db3df5a955",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycommercial-2022-09-30T02:31:12.076461-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664519484",
+      "size": "118540",
+      "md5": "65078fcf09726d0c5bb96f791e8e37d7",
+      "crc32": "439e8c36",
+      "sha1": "d8db95ec6b22a8e8ddfdbb99a608639eba32e22d",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycommercial-2022-09-30T02:31:12.076461-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailycommercial-2022-09-30T02:31:12.076461-04:00.jpg",
+      "mtime": "1664521552",
+      "size": "9004",
+      "md5": "094366490d5b57b75225f3faf0b584b7",
+      "crc32": "26da1280",
+      "sha1": "36c988000597d05dc05a632f210754f539590c26"
+    },
+    {
+      "name": "dailycommercial-2022-09-30T14:24:33.231186-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664562281",
+      "size": "24266",
+      "md5": "8c99d6149e393b2958b36f8cfbdd312c",
+      "crc32": "5f262481",
+      "sha1": "52bf44e80b3e0fb9799d12ef600af90a3e8e5172",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycommercial-2022-09-30T14:24:33.231186-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664562289",
+      "size": "39571",
+      "md5": "1f47f87c684274baf361b8dacc968fb6",
+      "crc32": "bb56d5f9",
+      "sha1": "b14e031b838e4de5e364ef8c027f2dbb4a19bc0e",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycommercial-2022-09-30T14:24:33.231186-04:00.jpg",
+      "source": "original",
+      "mtime": "1664562277",
+      "size": "277823",
+      "md5": "5b7d4898751bd6c2209aef32cdb4dd2d",
+      "crc32": "e9521a33",
+      "sha1": "ae866fe75fb2e472c1bcee8b0ca91107d7f7e392",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailycommercial-2022-09-30T14:24:33.231186-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664562295",
+      "size": "1540",
+      "md5": "bfb690257c23b63dd439f0552dbf7e41",
+      "crc32": "e1cac483",
+      "sha1": "0715e8568b8affc612a5128c1fdde7ea72df57e7",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycommercial-2022-09-30T14:24:33.231186-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664562300",
+      "size": "165442",
+      "md5": "8e16c66fb67c3fd08005d4d0356a5e78",
+      "crc32": "fa5a0dd1",
+      "sha1": "05a30edd1efd4c86aa734f8ed8c9f63917090402",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycommercial-2022-09-30T14:24:33.231186-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailycommercial-2022-09-30T14:24:33.231186-04:00.jpg",
+      "mtime": "1664565637",
+      "size": "9008",
+      "md5": "bec93b842a38005cb6671229b68f8042",
+      "crc32": "3a661e59",
+      "sha1": "b7ebaa4875ab58cb066b56aaaad73b66c68dacdd"
+    },
+    {
+      "name": "dailycommercial-2022-10-01T03:40:40.875449-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664610045",
+      "size": "24226",
+      "md5": "1f36669d0d5218c557556fb15e8ce62e",
+      "crc32": "7a3d56bb",
+      "sha1": "a9c908c9f3fbae9eea40d33f45b14c6e0b35c31a",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycommercial-2022-10-01T03:40:40.875449-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664610047",
+      "size": "36013",
+      "md5": "2e81a5faa9f477722d5dff8a9fa121c6",
+      "crc32": "cc5af37a",
+      "sha1": "5c6e675ae0a59e3635d91f7a07fd68681e15137b",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycommercial-2022-10-01T03:40:40.875449-04:00.jpg",
+      "source": "original",
+      "mtime": "1664610043",
+      "size": "322838",
+      "md5": "8f53e568ea9a92cf00f297d63d17aa8a",
+      "crc32": "a77ce6e6",
+      "sha1": "421d0d23d06285b84c3a45268496363e3828a0fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailycommercial-2022-10-01T03:40:40.875449-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664610048",
+      "size": "1540",
+      "md5": "d4aef40351db0c875c7f128cedc82e2f",
+      "crc32": "416ee813",
+      "sha1": "8df7ef9e35dd72e7232065efe7e39ca0af66dee1",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycommercial-2022-10-01T03:40:40.875449-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664610049",
+      "size": "105902",
+      "md5": "a5f78f7457b788ccb2ce302345417276",
+      "crc32": "8750fd4b",
+      "sha1": "762dbb8c7405d81b0b40e77d5571b0395b5ab708",
+      "format": "JSON"
+    },
+    {
       "name": "dailycommercial-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8d1b8df4ca42430a1a2fafcab7cefeca35589beb",
-      "mtime": "1664473238",
-      "size": "26270",
-      "md5": "ba8ab3f6d90e4ce1800be309732a592e",
-      "crc32": "e517e1d2",
-      "sha1": "16ffcc49d842abc112d0b2d3f767699ca2a1fe1c",
+      "btih": "9747d97c820fb82e837b553ba8db81c698f49646",
+      "mtime": "1664610093",
+      "size": "30200",
+      "md5": "ca0ccbfe593c67e48232009455691d7f",
+      "crc32": "0ce61e1c",
+      "sha1": "3c3b86028ccf308d0b9936adb0b9a75e5baf8edc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailycommercial-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5c91c4a5004aeae450de273484415d1a",
+      "md5": "5b3cb17f1c2403ddee567a16b6780c62",
       "summation": "md5"
     },
     {
       "name": "dailycommercial-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664473202",
-      "size": "167936",
-      "md5": "4dad596170cad82dc8391e9a0ed9e06c",
-      "crc32": "0b61cacd",
-      "sha1": "19306abe6a479b6c994bd2a6e05477912f956b0c",
+      "mtime": "1664610055",
+      "size": "192512",
+      "md5": "f4d9efd20412194c8037fd9a9351cbdd",
+      "crc32": "b8316643",
+      "sha1": "fd78c7eeaf375ad65c7eed227ab8b4173e89e543",
       "format": "Metadata"
     },
     {
@@ -1221,9 +1407,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 118,
-  "item_last_updated": 1664473238,
-  "item_size": 8186908,
+  "files_count": 136,
+  "item_last_updated": 1664610093,
+  "item_size": 9670181,
   "metadata": {
     "identifier": "dailycommercial-2022",
     "collection": [
@@ -1245,7 +1431,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3422494073,
+      "task_id": 3424398292,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1253,7 +1439,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 366202482,
+  "uniq": 1180176578,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

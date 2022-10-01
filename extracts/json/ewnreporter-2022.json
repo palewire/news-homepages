@@ -1,5 +1,5 @@
 {
-  "created": 1664473763,
+  "created": 1664610388,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/12/items/ewnreporter-2022",
@@ -4635,31 +4635,217 @@
       "format": "JSON"
     },
     {
+      "name": "ewnreporter-2022-09-29T19:48:22.794777+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ewnreporter-2022-09-29T19:48:22.794777+02:00.jpg",
+      "mtime": "1664481908",
+      "size": "11042",
+      "md5": "38ca813b6fb32cfdd4f6d95d3597aa6c",
+      "crc32": "168f7595",
+      "sha1": "c0f872e6091ff8bbd098c262c0208b50ead397a0"
+    },
+    {
+      "name": "ewnreporter-2022-09-30T08:34:12.210512+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664519654",
+      "size": "28194",
+      "md5": "c09ed8eddfa2c9094aa8c53101fc1270",
+      "crc32": "e35f3aee",
+      "sha1": "3bcd1a0cdb8a28aec80fda7695b9a13a05e86dfb",
+      "format": "JSON"
+    },
+    {
+      "name": "ewnreporter-2022-09-30T08:34:12.210512+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664519656",
+      "size": "40398",
+      "md5": "05f6d629ba33c5cda2db9cbe5dabdeda",
+      "crc32": "a624407c",
+      "sha1": "6d195bafa0bd76d493c428da0a7d9a1da696e808",
+      "format": "JSON"
+    },
+    {
+      "name": "ewnreporter-2022-09-30T08:34:12.210512+02:00.jpg",
+      "source": "original",
+      "mtime": "1664519653",
+      "size": "321614",
+      "md5": "de58563d445e362ad48ea112a3eca756",
+      "crc32": "a4720d3d",
+      "sha1": "60065f0aa4ed077731af9b799f37b73546c1c33f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ewnreporter-2022-09-30T08:34:12.210512+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664519657",
+      "size": "1414",
+      "md5": "34f99f4bdfbd5d887f170d584226b80b",
+      "crc32": "5b157fe6",
+      "sha1": "e43eefa78dde66848fca11e2b96c6b23f08c4b74",
+      "format": "JSON"
+    },
+    {
+      "name": "ewnreporter-2022-09-30T08:34:12.210512+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664519659",
+      "size": "20261",
+      "md5": "d03646fbda7cff0973742201a8c3b616",
+      "crc32": "9c540a63",
+      "sha1": "f44399ed8b6053d3628160a29e50dacf1e2623af",
+      "format": "JSON"
+    },
+    {
+      "name": "ewnreporter-2022-09-30T08:34:12.210512+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ewnreporter-2022-09-30T08:34:12.210512+02:00.jpg",
+      "mtime": "1664521706",
+      "size": "10860",
+      "md5": "750634c17e1e12e88eebb462fa02c915",
+      "crc32": "609ee275",
+      "sha1": "4dce78e786e5ce67f8ea3327e1785ed40d042db7"
+    },
+    {
+      "name": "ewnreporter-2022-09-30T20:28:55.487040+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664562542",
+      "size": "28690",
+      "md5": "3f782b6beff19c542dadda9cedb02490",
+      "crc32": "49ee178d",
+      "sha1": "dda9cd2a3d0da9c25cd62d3c6b98f63b3ac8c153",
+      "format": "JSON"
+    },
+    {
+      "name": "ewnreporter-2022-09-30T20:28:55.487040+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664562544",
+      "size": "39612",
+      "md5": "947627fd59df6b27e7e18b50f70e6d8a",
+      "crc32": "ced7df28",
+      "sha1": "05863070f1226c17ae1c500392d892966041ad54",
+      "format": "JSON"
+    },
+    {
+      "name": "ewnreporter-2022-09-30T20:28:55.487040+02:00.jpg",
+      "source": "original",
+      "mtime": "1664562539",
+      "size": "309847",
+      "md5": "c3e7fbf09fb2a240655ee1d78093e7cc",
+      "crc32": "6fe7663e",
+      "sha1": "c0b59e85d2f18ea134e977bc7bcd9304f40b21f2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ewnreporter-2022-09-30T20:28:55.487040+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664562546",
+      "size": "1414",
+      "md5": "2d943cce68d368ee9322f5ddd9524e58",
+      "crc32": "bed37f4f",
+      "sha1": "fed702f817ede1817710bd72532969eeb00359cc",
+      "format": "JSON"
+    },
+    {
+      "name": "ewnreporter-2022-09-30T20:28:55.487040+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664562553",
+      "size": "20027",
+      "md5": "cf3021bbb679a9a910578c4cf4e50ab7",
+      "crc32": "30f33b7c",
+      "sha1": "333c2c0a2d3b2cd880e9257c41d571dbe8ee9ba2",
+      "format": "JSON"
+    },
+    {
+      "name": "ewnreporter-2022-09-30T20:28:55.487040+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ewnreporter-2022-09-30T20:28:55.487040+02:00.jpg",
+      "mtime": "1664566384",
+      "size": "10591",
+      "md5": "33e3022cedd62ac229c3e38e7f1aff17",
+      "crc32": "1e391e74",
+      "sha1": "a89b4bdf29666beae065855a5f33f98c024cf7a5"
+    },
+    {
+      "name": "ewnreporter-2022-10-01T09:45:05.056651+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664610311",
+      "size": "28502",
+      "md5": "9d60fd50b2bce6a9b7de4439e6ed06d0",
+      "crc32": "80c86b3b",
+      "sha1": "18b3424c6d28089cc49c349281ed6c8ae1f73e40",
+      "format": "JSON"
+    },
+    {
+      "name": "ewnreporter-2022-10-01T09:45:05.056651+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664610313",
+      "size": "40676",
+      "md5": "d02b389e7c92a000c8f640bc4743ce1e",
+      "crc32": "1786b3c2",
+      "sha1": "29eaf837171815d9066ebab286158b3f2e7c0db4",
+      "format": "JSON"
+    },
+    {
+      "name": "ewnreporter-2022-10-01T09:45:05.056651+02:00.jpg",
+      "source": "original",
+      "mtime": "1664610309",
+      "size": "308929",
+      "md5": "096e68e21e593033ff1540bbe578002e",
+      "crc32": "a5a7ea44",
+      "sha1": "44e267db671c01752911cafb93289f4092949eb2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ewnreporter-2022-10-01T09:45:05.056651+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664610315",
+      "size": "1414",
+      "md5": "e532032b9b3e2627983f7e5e6c2890d8",
+      "crc32": "7e1fe0ab",
+      "sha1": "2f9ff87c26667c9e124f1ee0d6622732c8d93934",
+      "format": "JSON"
+    },
+    {
+      "name": "ewnreporter-2022-10-01T09:45:05.056651+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664610316",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "ewnreporter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "04010793b700f9f2ac72ecfdf02ac4ae37e4be87",
-      "mtime": "1664473758",
-      "size": "97158",
-      "md5": "2d70c12abe2770b4d170d39056a6b7ff",
-      "crc32": "59bb6bc5",
-      "sha1": "956efd9a1842926b4016a79778a3bee64cd34864",
+      "btih": "8afa51cc6361acb70d0fe9e29eec6e41586831ec",
+      "mtime": "1664610372",
+      "size": "101014",
+      "md5": "1eba552f7ff07bcab778877bf633c04b",
+      "crc32": "dcae982a",
+      "sha1": "b1eb9baeedb4efa1dbf99a3cab0bceeea131cc62",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ewnreporter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8e0a72aa7b9097cc4176450b54e6c03b",
+      "md5": "f0f10dad4f0e85237372e69174317a74",
       "summation": "md5"
     },
     {
       "name": "ewnreporter-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664473719",
-      "size": "593920",
-      "md5": "6a087322736d8163365e911d581cce3f",
-      "crc32": "a2062055",
-      "sha1": "d1fd7b5f08b77ce6efa9c02c66e1cdd866bea517",
+      "mtime": "1664610328",
+      "size": "614400",
+      "md5": "0e99d333b8b3800de2c7cd8f65928dc6",
+      "crc32": "44573262",
+      "sha1": "3f93aef0b7befb9ae259ffda5c5b7ae7e8982bd4",
       "format": "Metadata"
     },
     {
@@ -4673,9 +4859,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 452,
-  "item_last_updated": 1664473758,
-  "item_size": 32495999,
+  "files_count": 470,
+  "item_last_updated": 1664610372,
+  "item_size": 33744022,
   "metadata": {
     "identifier": "ewnreporter-2022",
     "collection": [
@@ -4697,7 +4883,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3422499950,
+      "task_id": 3424402166,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4705,7 +4891,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 400414710,
+  "uniq": 1198502728,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

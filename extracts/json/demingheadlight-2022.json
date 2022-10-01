@@ -1,5 +1,5 @@
 {
-  "created": 1664473627,
+  "created": 1664610283,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/3/items/demingheadlight-2022",
@@ -1173,31 +1173,217 @@
       "format": "JSON"
     },
     {
+      "name": "demingheadlight-2022-09-29T11:45:54.507603-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "demingheadlight-2022-09-29T11:45:54.507603-06:00.jpg",
+      "mtime": "1664481759",
+      "size": "9126",
+      "md5": "d103119b434cdfd107f6a5091d04f906",
+      "crc32": "440959b7",
+      "sha1": "c5cb35277139cc9730d6bcbded652000c4df313d"
+    },
+    {
+      "name": "demingheadlight-2022-09-30T00:30:54.239724-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664519458",
+      "size": "21020",
+      "md5": "2a76b330c4a4538e52c556e2c17d25bc",
+      "crc32": "8b355e30",
+      "sha1": "e0dc6ffbf20e58800aa53d35e2c91a728c64ece1",
+      "format": "JSON"
+    },
+    {
+      "name": "demingheadlight-2022-09-30T00:30:54.239724-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664519460",
+      "size": "31037",
+      "md5": "59fcae916679f65870e3aa760c42101a",
+      "crc32": "6909da19",
+      "sha1": "2857d7bdb31c941a38a098ea7dedc491d64b82b6",
+      "format": "JSON"
+    },
+    {
+      "name": "demingheadlight-2022-09-30T00:30:54.239724-06:00.jpg",
+      "source": "original",
+      "mtime": "1664519456",
+      "size": "225512",
+      "md5": "d5a8c94400985caf9862fd15a9c93c2f",
+      "crc32": "f7ca02a0",
+      "sha1": "ab302400ee6535ffb592a8ec386d846010475bdb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "demingheadlight-2022-09-30T00:30:54.239724-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664519462",
+      "size": "1540",
+      "md5": "c10c7b554400114350011284a783df19",
+      "crc32": "3eadff75",
+      "sha1": "2cb8b0c9037fb1bf3d6928ecbb40aaa3d2edf6c9",
+      "format": "JSON"
+    },
+    {
+      "name": "demingheadlight-2022-09-30T00:30:54.239724-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1664519464",
+      "size": "191219",
+      "md5": "52e5d1444425cd0822c1a7c1504af4d5",
+      "crc32": "add2e53c",
+      "sha1": "f2c1889e03928beb969911bba42599de678a93fe",
+      "format": "JSON"
+    },
+    {
+      "name": "demingheadlight-2022-09-30T00:30:54.239724-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "demingheadlight-2022-09-30T00:30:54.239724-06:00.jpg",
+      "mtime": "1664521247",
+      "size": "8935",
+      "md5": "3ae05d435333f304ec35644a9b56930b",
+      "crc32": "01759b0e",
+      "sha1": "8c94a4af91ed8868bc64398afad53b56d9bca8c0"
+    },
+    {
+      "name": "demingheadlight-2022-09-30T12:24:24.899412-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664562276",
+      "size": "20583",
+      "md5": "070a1852ae6e22bf4810fd631ec8a8d6",
+      "crc32": "04aa9404",
+      "sha1": "65dee74c827b0581ad77ab07176ae6c5398845bd",
+      "format": "JSON"
+    },
+    {
+      "name": "demingheadlight-2022-09-30T12:24:24.899412-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664562280",
+      "size": "30793",
+      "md5": "24917062df618ada452788d58ec1e53b",
+      "crc32": "39df0166",
+      "sha1": "e7e614e00bb3ab4cade547d4ba786eb191353398",
+      "format": "JSON"
+    },
+    {
+      "name": "demingheadlight-2022-09-30T12:24:24.899412-06:00.jpg",
+      "source": "original",
+      "mtime": "1664562271",
+      "size": "210546",
+      "md5": "3dc376186495b8bbebd609e4ecf5d4f8",
+      "crc32": "a26f44e6",
+      "sha1": "4f94824f9879872a642523939deff81a1156de8c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "demingheadlight-2022-09-30T12:24:24.899412-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664562287",
+      "size": "1540",
+      "md5": "9bf01b0d5ec85536573e13b6b09c75c5",
+      "crc32": "7b4975cc",
+      "sha1": "2eea9b30dc4f2fdbaf7c259191bd73290d3ee424",
+      "format": "JSON"
+    },
+    {
+      "name": "demingheadlight-2022-09-30T12:24:24.899412-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1664562293",
+      "size": "212",
+      "md5": "bd250678235a76d270d2dafe6dbd296a",
+      "crc32": "4e427167",
+      "sha1": "e07a5174c89122ab2aa45a647593a4de7c40302d",
+      "format": "JSON"
+    },
+    {
+      "name": "demingheadlight-2022-09-30T12:24:24.899412-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "demingheadlight-2022-09-30T12:24:24.899412-06:00.jpg",
+      "mtime": "1664565472",
+      "size": "8635",
+      "md5": "606a1cd05a3691d8612dbecbf43462df",
+      "crc32": "6189eb65",
+      "sha1": "583c77a5d1631a8cc08cfd91a35aefd00a50d31f"
+    },
+    {
+      "name": "demingheadlight-2022-10-01T01:43:08.713920-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664610192",
+      "size": "22418",
+      "md5": "4af1192e0aed4a66d915d690af56d650",
+      "crc32": "f2a2ad29",
+      "sha1": "e8353737a013139da609ba11534f4a9c605393a0",
+      "format": "JSON"
+    },
+    {
+      "name": "demingheadlight-2022-10-01T01:43:08.713920-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664610194",
+      "size": "30975",
+      "md5": "95cd6bbabc1bd3caf8ffc184ac4648ff",
+      "crc32": "6481173e",
+      "sha1": "ce7bd7f0e03f2cb8a72a5ccad8bbe82163edb802",
+      "format": "JSON"
+    },
+    {
+      "name": "demingheadlight-2022-10-01T01:43:08.713920-06:00.jpg",
+      "source": "original",
+      "mtime": "1664610190",
+      "size": "254756",
+      "md5": "3bd82a8302188c10aff8710acfeeb44e",
+      "crc32": "2b8be841",
+      "sha1": "38ba134f0ed8a02650361145cb430961c7ea08d8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "demingheadlight-2022-10-01T01:43:08.713920-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664610196",
+      "size": "1539",
+      "md5": "4f6eb63dcdce63c8237bb5cf3571cc53",
+      "crc32": "5091b165",
+      "sha1": "855ff64fe18a59221e70b7c7b952c54847863c1e",
+      "format": "JSON"
+    },
+    {
+      "name": "demingheadlight-2022-10-01T01:43:08.713920-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1664610198",
+      "size": "212",
+      "md5": "b3dc8d57628e7dfdd3b526f0bce1c65a",
+      "crc32": "712160e8",
+      "sha1": "9e16901a9b1652d7ba6755c730451063fff92ebe",
+      "format": "JSON"
+    },
+    {
       "name": "demingheadlight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b3e6ee46817541feb99db0e91ada6379820979e2",
-      "mtime": "1664473621",
-      "size": "26019",
-      "md5": "9ff5331a889730329695b45c75100191",
-      "crc32": "bb62a589",
-      "sha1": "5deb86422186f19b08bd886ff5b1f2c39b4c2f09",
+      "btih": "01f2ac3561ce7952fe7c7be1ee7574a7ed1dadcf",
+      "mtime": "1664610274",
+      "size": "29923",
+      "md5": "9be90efd734b2547e4f1df1bc4985b2b",
+      "crc32": "a83dc418",
+      "sha1": "2e1ecac8040c8c0c4972502d49b6b73527f27738",
       "format": "Archive BitTorrent"
     },
     {
       "name": "demingheadlight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "44130375dce92e56c3242d08f3ab8d5a",
+      "md5": "76e3561fb1b7f30bfe87c780220237fb",
       "summation": "md5"
     },
     {
       "name": "demingheadlight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664473584",
-      "size": "167936",
-      "md5": "8715cf58c7567cb685ad40f0996cfcf2",
-      "crc32": "f82c5cb9",
-      "sha1": "d6b6c24eee623cadcb3edcdf34a23ecd0f03e916",
+      "mtime": "1664610236",
+      "size": "192512",
+      "md5": "7aa067537f5c9ad8551250d8d6bf542b",
+      "crc32": "131888fb",
+      "sha1": "70260e592a0a24a6d8c1dac3503100b36d237f65",
       "format": "Metadata"
     },
     {
@@ -1211,9 +1397,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 117,
-  "item_last_updated": 1664473621,
-  "item_size": 7530764,
+  "files_count": 135,
+  "item_last_updated": 1664610274,
+  "item_size": 8629842,
   "metadata": {
     "identifier": "demingheadlight-2022",
     "collection": [
@@ -1235,7 +1421,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3422498523,
+      "task_id": 3424400849,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1243,7 +1429,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 996132107,
+  "uniq": 1003763525,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]
