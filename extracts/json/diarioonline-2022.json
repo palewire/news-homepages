@@ -1,5 +1,5 @@
 {
-  "created": 1664610271,
+  "created": 1664625670,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/35/items/diarioonline-2022",
@@ -9883,31 +9883,93 @@
       "format": "JSON"
     },
     {
+      "name": "diarioonline-2022-10-01T04:43:10.895685-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diarioonline-2022-10-01T04:43:10.895685-03:00.jpg",
+      "mtime": "1664612362",
+      "size": "9471",
+      "md5": "ba84c16c5deaeae20a597e28b50d7099",
+      "crc32": "99873d47",
+      "sha1": "510d25a1c227b771a3f2816c172297a6d9297266"
+    },
+    {
+      "name": "diarioonline-2022-10-01T08:59:54.939360-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664625600",
+      "size": "45507",
+      "md5": "5bf4925c535c8461e3809ad7ee4c4169",
+      "crc32": "16e31225",
+      "sha1": "e0a484c77d2eeb7c9fccb0332e104890bda56cf3",
+      "format": "JSON"
+    },
+    {
+      "name": "diarioonline-2022-10-01T08:59:54.939360-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664625604",
+      "size": "39692",
+      "md5": "52516371ecc6e78eaff11e516e44e12c",
+      "crc32": "3267bb9c",
+      "sha1": "80121ddf20e11e03c20c4532b94dd331d16cf653",
+      "format": "JSON"
+    },
+    {
+      "name": "diarioonline-2022-10-01T08:59:54.939360-03:00.jpg",
+      "source": "original",
+      "mtime": "1664625599",
+      "size": "262610",
+      "md5": "6f4ab7ad7470e7def80f5e5692ce1b63",
+      "crc32": "9e6c85f1",
+      "sha1": "ac781454f6a6042a2cfaa8fa0f21978921952133",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diarioonline-2022-10-01T08:59:54.939360-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664625606",
+      "size": "1644",
+      "md5": "949c15757cacf341b2a66db3b30e9c1e",
+      "crc32": "26323fb9",
+      "sha1": "4ef5968d57101e10818e6e161fcda722b499b665",
+      "format": "JSON"
+    },
+    {
+      "name": "diarioonline-2022-10-01T08:59:54.939360-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664625609",
+      "size": "36862",
+      "md5": "1b03c0488a099c577b47219e85510985",
+      "crc32": "2f1fd620",
+      "sha1": "1ba6c94411790492774c49190928c463e416fafa",
+      "format": "JSON"
+    },
+    {
       "name": "diarioonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ccacd7e163c904b0d0904dcec6bd1b0fabd23a9a",
-      "mtime": "1664610264",
-      "size": "206304",
-      "md5": "3000b94b2abc7a4be1750ae914749a34",
-      "crc32": "e729b853",
-      "sha1": "9be790b8492c60604fba59df7c9cdc10a37f793e",
+      "btih": "cfc27ac20cad91c6af52206e3a520a3b6481f1d2",
+      "mtime": "1664625662",
+      "size": "207595",
+      "md5": "c99b6be65ce49b586ffb52617c5ba6ba",
+      "crc32": "5d52aa6b",
+      "sha1": "04245d01465d7ac019e087e11c8f4539d957f2c6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "diarioonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8a341febefac99ea74cf3e00da34dc3f",
+      "md5": "ae68d68dda261b4c02d5da335f931914",
       "summation": "md5"
     },
     {
       "name": "diarioonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664610212",
-      "size": "1236992",
-      "md5": "5715ed1cdef728fdb1f7d985c8a5a85f",
-      "crc32": "6bca88ff",
-      "sha1": "9e82523bf761b08e028e59f06b044601fca36243",
+      "mtime": "1664625615",
+      "size": "1249280",
+      "md5": "017554c48a12bec01818cc28cf5e431e",
+      "crc32": "537e7073",
+      "sha1": "bdbd466e804341cba90b6f4cdd4a904a994c0ef6",
       "format": "Metadata"
     },
     {
@@ -9921,9 +9983,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 960,
-  "item_last_updated": 1664610264,
-  "item_size": 62201407,
+  "files_count": 966,
+  "item_last_updated": 1664625662,
+  "item_size": 62610772,
   "metadata": {
     "identifier": "diarioonline-2022",
     "collection": [
@@ -9945,7 +10007,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3424400703,
+      "task_id": 3424615732,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9953,7 +10015,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1068654471,
+  "uniq": 538983296,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

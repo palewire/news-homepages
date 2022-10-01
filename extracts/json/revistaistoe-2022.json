@@ -1,5 +1,5 @@
 {
-  "created": 1664591951,
+  "created": 1664625640,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/16/items/revistaistoe-2022",
@@ -10249,31 +10249,93 @@
       "format": "JSON"
     },
     {
+      "name": "revistaistoe-2022-09-30T23:37:46.643315-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "revistaistoe-2022-09-30T23:37:46.643315-03:00.jpg",
+      "mtime": "1664595393",
+      "size": "9553",
+      "md5": "1a2caf76bdc8e0b2818bd8d66f509e40",
+      "crc32": "275c4f6f",
+      "sha1": "1fb4d56364f6926a765fa3a785dd47d0ae4c138f"
+    },
+    {
+      "name": "revistaistoe-2022-10-01T08:59:20.867635-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664625568",
+      "size": "21152",
+      "md5": "642615fa65a0dd7105c438cb38ba9c5d",
+      "crc32": "f4442eda",
+      "sha1": "7e9c09bf5686ae5ccc0b9ece4a0323efd629e0f3",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-10-01T08:59:20.867635-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664625570",
+      "size": "17738",
+      "md5": "5161b242553b5692e6943d41d97c0a97",
+      "crc32": "99f2ed8b",
+      "sha1": "5d87d46e0bf8432f1dfd62a714be8a1194f55531",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-10-01T08:59:20.867635-03:00.jpg",
+      "source": "original",
+      "mtime": "1664625566",
+      "size": "272341",
+      "md5": "d74b4764faec748f8371992902f3e0c8",
+      "crc32": "a0374de7",
+      "sha1": "b29b9b8d6fbaf038973b188fc89c9567e546bce6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "revistaistoe-2022-10-01T08:59:20.867635-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664625571",
+      "size": "1441",
+      "md5": "3e67054ae23bf442b714e851672457db",
+      "crc32": "6da98cea",
+      "sha1": "e0b84c542334a1fdd80ffdb50a93e72941aa158e",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-10-01T08:59:20.867635-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664625573",
+      "size": "201",
+      "md5": "fc4fa98b3e722c32594a5aaa8cb5a723",
+      "crc32": "ed5258ec",
+      "sha1": "fcc520d2bbf973fdc131b3986b94f0a6c11ca8ca",
+      "format": "JSON"
+    },
+    {
       "name": "revistaistoe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8c3f1d7f8d15d2d8b05c7ace2c39f683ba894bf5",
-      "mtime": "1664591940",
-      "size": "213713",
-      "md5": "4e24751f5d93807b4620bf0828fd6d9c",
-      "crc32": "d059b1e9",
-      "sha1": "7c2614c25fb3f8d83b78da5477dc5ffcbb8f91c2",
+      "btih": "123fd4d1fe2a8caa835280c59bb821840d1b4c11",
+      "mtime": "1664625631",
+      "size": "215002",
+      "md5": "089dad9c61e7f4ec02eae1dd0275dbe2",
+      "crc32": "72745db5",
+      "sha1": "9de602e4f2e5fa5c3808e45911f08145e0794a65",
       "format": "Archive BitTorrent"
     },
     {
       "name": "revistaistoe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "07bbf2758309a4f82cb2f79a2c86b2f5",
+      "md5": "45a820d80933256456b1f84306b6175b",
       "summation": "md5"
     },
     {
       "name": "revistaistoe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664591888",
-      "size": "1277952",
-      "md5": "44726258ab06e33f6c8015019b7f11b8",
-      "crc32": "c9de2a83",
-      "sha1": "6ce7fb861720fa15a29ebc2bf2451c62141977fa",
+      "mtime": "1664625582",
+      "size": "1286144",
+      "md5": "5f29640744dee1f3ddb46479b9dbdc92",
+      "crc32": "f814a3e3",
+      "sha1": "465388e60268289bc81298942ee5b3814c44f07a",
       "format": "Metadata"
     },
     {
@@ -10287,9 +10349,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 995,
-  "item_last_updated": 1664591940,
-  "item_size": 62335143,
+  "files_count": 1001,
+  "item_last_updated": 1664625631,
+  "item_size": 62667050,
   "metadata": {
     "identifier": "revistaistoe-2022",
     "collection": [
@@ -10311,7 +10373,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3424153517,
+      "task_id": 3424614823,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10319,7 +10381,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2105843052,
+  "uniq": 752470245,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]
