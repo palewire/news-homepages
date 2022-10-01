@@ -1,5 +1,5 @@
 {
-  "created": 1664602140,
+  "created": 1664640628,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/16/items/capecodtimes-2022",
@@ -1318,31 +1318,82 @@
       "sha1": "68cc9a55cc73d566d4218b53cc8b1e4d570fed78"
     },
     {
+      "name": "capecodtimes-2022-10-01T12:09:24.824510-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664640571",
+      "size": "21212",
+      "md5": "7a10deefb66729f14871e8e5d95e8308",
+      "crc32": "52782668",
+      "sha1": "b980cc3da879d7cccfa8da1d493ddc7ce6965310",
+      "format": "JSON"
+    },
+    {
+      "name": "capecodtimes-2022-10-01T12:09:24.824510-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664640572",
+      "size": "30231",
+      "md5": "64d1dd2073709087d74d1e5869332c70",
+      "crc32": "0a36c6a3",
+      "sha1": "7cf4811a5b0801c52309b08a362ceedf67e01e08",
+      "format": "JSON"
+    },
+    {
+      "name": "capecodtimes-2022-10-01T12:09:24.824510-04:00.jpg",
+      "source": "original",
+      "mtime": "1664640569",
+      "size": "288014",
+      "md5": "a1db225ee9f3042fbd93e2f4727af3d4",
+      "crc32": "ed7d3282",
+      "sha1": "865782ac43aa376259e406fd6b7fc1f7633c2c3d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capecodtimes-2022-10-01T12:09:24.824510-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664640574",
+      "size": "1513",
+      "md5": "613b0c91a4051768a6a8feb5f6da0696",
+      "crc32": "ef102531",
+      "sha1": "818bfa3767e5abd6ca69ecbb68f7b8ab9033ce93",
+      "format": "JSON"
+    },
+    {
+      "name": "capecodtimes-2022-10-01T12:09:24.824510-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664640576",
+      "size": "209",
+      "md5": "6157b0a2532d082f47765873e5ede970",
+      "crc32": "6e05c9ea",
+      "sha1": "cae2c192bf433679c8ee7075c7ddaed6d2797675",
+      "format": "JSON"
+    },
+    {
       "name": "capecodtimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6ca0999cf70f6107f267b61f3ddeee45eb174786",
-      "mtime": "1664602085",
-      "size": "28676",
-      "md5": "f7286208e11ce8e934f262e10b1bc751",
-      "crc32": "da522d2f",
-      "sha1": "5ab0235f15f37e8e1439acdcb17a612cb41fdfc9",
+      "btih": "1f99229fb0631007ee235bb7496e2cd6c1b6fb20",
+      "mtime": "1664640621",
+      "size": "29757",
+      "md5": "2a9c5a0dcdf3d73aecb4f7cbd3ff8025",
+      "crc32": "81f07d9c",
+      "sha1": "ce1b4c5f74bc777651e1d47d7f012df8d2642ab3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "capecodtimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ef65b850b42f188d2d670ab78ad2c116",
+      "md5": "65284515b5f01d6f22dfbf626077929a",
       "summation": "md5"
     },
     {
       "name": "capecodtimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664599339",
-      "size": "184320",
-      "md5": "405eb403972887420cdbde2815758653",
-      "crc32": "0b67c70b",
-      "sha1": "752587309227f78549ee8225ed651ed26e3d4c5f",
+      "mtime": "1664640583",
+      "size": "192512",
+      "md5": "216515565bb211cf4ff6cec60d22572e",
+      "crc32": "3bb89dc3",
+      "sha1": "d4debb6bf9c5d8070f7395244ddb56cce5fa3bd0",
       "format": "Metadata"
     },
     {
@@ -1356,9 +1407,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 131,
-  "item_last_updated": 1664602085,
-  "item_size": 8687844,
+  "files_count": 136,
+  "item_last_updated": 1664640621,
+  "item_size": 9038296,
   "metadata": {
     "identifier": "capecodtimes-2022",
     "collection": [
@@ -1375,10 +1426,21 @@
     "publicdate": "2022-09-21 04:39:34",
     "addeddate": "2022-09-21 04:39:34"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 573949440,
+  "pending_tasks": true,
+  "server": "ia601506.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3424815562,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1067395580,
   "workable_servers": [
-    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

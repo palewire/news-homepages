@@ -1,5 +1,5 @@
 {
-  "created": 1664602287,
+  "created": 1664640759,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/32/items/civio-2022",
@@ -12488,31 +12488,82 @@
       "sha1": "211b60e6546702b7289b9939ddb048dccee23937"
     },
     {
+      "name": "civio-2022-10-01T18:11:27.475261+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664640691",
+      "size": "82478",
+      "md5": "5783bd5945d35bcce6f03c35db8d8f86",
+      "crc32": "839cf583",
+      "sha1": "020a68ec96f4ff82aa7c2e85475904e4abb97c8f",
+      "format": "JSON"
+    },
+    {
+      "name": "civio-2022-10-01T18:11:27.475261+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664640693",
+      "size": "42861",
+      "md5": "f0ecf239880caf10337055aed03c6a40",
+      "crc32": "dd142d95",
+      "sha1": "124652ec61b719354f4951fed301a95498ee273e",
+      "format": "JSON"
+    },
+    {
+      "name": "civio-2022-10-01T18:11:27.475261+02:00.jpg",
+      "source": "original",
+      "mtime": "1664640689",
+      "size": "269995",
+      "md5": "4a10426cc5883143c38a0345236649b2",
+      "crc32": "518e24a4",
+      "sha1": "223f510dced17c8b2ebb589844310a9956ffa074",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "civio-2022-10-01T18:11:27.475261+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664640696",
+      "size": "1405",
+      "md5": "855d47a99cfc7a6f80ec4b896cbb480f",
+      "crc32": "df2f6ed5",
+      "sha1": "a62734e0192486627504c50c0d1a9ad85751b241",
+      "format": "JSON"
+    },
+    {
+      "name": "civio-2022-10-01T18:11:27.475261+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664640698",
+      "size": "10961",
+      "md5": "434502c5005de44875ee43864e256479",
+      "crc32": "8c18453f",
+      "sha1": "f3b35b9885f8bce272611a55d1c22cd0a3d8d5b6",
+      "format": "JSON"
+    },
+    {
       "name": "civio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "35392f629818cafab7e77e0ae2016ad5b1267927",
-      "mtime": "1664602140",
-      "size": "251470",
-      "md5": "d64123452a746ab3b1d1ee4170e920f3",
-      "crc32": "88f6b2f7",
-      "sha1": "69530e2ee5ba965bdf76405460acdb70b0db4c5f",
+      "btih": "fdfc432b958a3df7469e03812416a40e01710da5",
+      "mtime": "1664640753",
+      "size": "252498",
+      "md5": "accf1e56f33c24e194c99f56a1f8bfb9",
+      "crc32": "55c47aa0",
+      "sha1": "d162ff8581764def3e10f03b431c3216fd906e9c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "civio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5a8738db73609fdd38e4fe914f0531f4",
+      "md5": "afa7a1a2d30beb3681c2286b11e8a1ad",
       "summation": "md5"
     },
     {
       "name": "civio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664599338",
-      "size": "1478656",
-      "md5": "b3225a52b53c297c5e0e206200be2b3c",
-      "crc32": "a33acf87",
-      "sha1": "1f167d5f915027aaa05f1c150dc80723a94ea8df",
+      "mtime": "1664640704",
+      "size": "1482752",
+      "md5": "4373258225d2a7f76b53f60be8802661",
+      "crc32": "2d6a602c",
+      "sha1": "96b31a0542fe829b9cb7b6048dd4229279e3f6ae",
       "format": "Metadata"
     },
     {
@@ -12526,9 +12577,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1205,
-  "item_last_updated": 1664602140,
-  "item_size": 114625776,
+  "files_count": 1210,
+  "item_last_updated": 1664640753,
+  "item_size": 115038600,
   "metadata": {
     "identifier": "civio-2022",
     "collection": [
@@ -12545,10 +12596,21 @@
     "publicdate": "2022-06-19 23:23:36",
     "addeddate": "2022-06-19 23:23:36"
   },
+  "pending_tasks": true,
   "server": "ia902502.us.archive.org",
-  "uniq": 2117053012,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3424817360,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1406892518,
   "workable_servers": [
-    "ia902502.us.archive.org",
-    "ia802502.us.archive.org"
+    "ia902502.us.archive.org"
   ]
 }

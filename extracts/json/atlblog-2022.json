@@ -1,5 +1,6 @@
 {
-  "created": 1664601363,
+  "conflict": 1664643043,
+  "created": 1664643043,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/10/items/atlblog-2022",
@@ -12756,31 +12757,88 @@
       "sha1": "8890bfce08edb5de9b57d122307df23da62ed7f9"
     },
     {
+      "name": "atlblog-2022-10-01T12:05:27.633747-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664640341",
+      "size": "27328",
+      "md5": "2ea1e820d8c805e074400d46b82a00d9",
+      "crc32": "bb11efcc",
+      "sha1": "ea7b970c3823dcea932036ca92e58034c50d6b9e",
+      "format": "JSON"
+    },
+    {
+      "name": "atlblog-2022-10-01T12:05:27.633747-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664640343",
+      "size": "40958",
+      "md5": "fd0a2d9d2502bfcd81af8ae6d0a2a4d8",
+      "crc32": "adceca03",
+      "sha1": "ed8fdde6257b11ab294c760c33b2587aca323a08",
+      "format": "JSON"
+    },
+    {
+      "name": "atlblog-2022-10-01T12:05:27.633747-04:00.jpg",
+      "source": "original",
+      "mtime": "1664640340",
+      "size": "264900",
+      "md5": "76c451d60f3a45a055bdedaab45b6471",
+      "crc32": "0e4bb6aa",
+      "sha1": "4272f1a65ca164b72aff83e8f98e8273fc315cc2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "atlblog-2022-10-01T12:05:27.633747-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664640344",
+      "size": "1464",
+      "md5": "89fc71e8edff541ed583c4a4b6286ff1",
+      "crc32": "05e35fec",
+      "sha1": "366d3972629776d6decda423a237dcb261fb03d6",
+      "format": "JSON"
+    },
+    {
+      "name": "atlblog-2022-10-01T12:05:27.633747-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664640347",
+      "size": "204",
+      "md5": "b401501b2cbbac40c46045d05bcb2e80",
+      "crc32": "e2a23918",
+      "sha1": "f1aca919cee1ede00df2e4a200e9f6ea5c93bf69",
+      "format": "JSON"
+    },
+    {
+      "name": "atlblog-2022-10-01T12:05:27.633747-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "atlblog-2022-10-01T12:05:27.633747-04:00.jpg"
+    },
+    {
       "name": "atlblog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e6ce251fb0dd9e42d8a526ae1de54dd5c078632a",
-      "mtime": "1664601319",
-      "size": "259406",
-      "md5": "60cbb4e1e9b2d9dee3339e54736a85b6",
-      "crc32": "de58305a",
-      "sha1": "0f6fade55d7cab9aef3449a9403e685eafb1e271",
+      "btih": "7430954e5b5016ea5c5dae26a90516c753413383",
+      "mtime": "1664640431",
+      "size": "260462",
+      "md5": "f3c41587556e4e42b3935011254b4146",
+      "crc32": "6eacaec3",
+      "sha1": "c7d070f51d6399ea5758f1e7c5a1ad363911969e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "atlblog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cebb8e4ab257b8e749fe39f0caae613b",
+      "md5": "8e8eb9ac8092d618d9baaf131461cd96",
       "summation": "md5"
     },
     {
       "name": "atlblog-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664599265",
-      "size": "1560576",
-      "md5": "0d123d2f8de8a1eed446ba1464d313e3",
-      "crc32": "a2280c36",
-      "sha1": "904452271a5b5300f4ef5e28de9a4d8ca546247d",
+      "mtime": "1664640368",
+      "size": "1568768",
+      "md5": "67da6121500d3490a07a983b678be7f6",
+      "crc32": "421807f8",
+      "sha1": "14aee39feb566c7c051fb38c040b8586711cee1e",
       "format": "Metadata"
     },
     {
@@ -12794,9 +12852,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1236,
-  "item_last_updated": 1664601319,
-  "item_size": 86034014,
+  "files_count": 1242,
+  "item_last_updated": 1664640431,
+  "item_size": 86378116,
   "metadata": {
     "identifier": "atlblog-2022",
     "collection": [
@@ -12813,10 +12871,21 @@
     "publicdate": "2022-07-19 01:14:59",
     "addeddate": "2022-07-19 01:14:59"
   },
+  "pending_tasks": true,
   "server": "ia601406.us.archive.org",
-  "uniq": 43365470,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3424812167,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1532812473,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia601406.us.archive.org"
   ]
 }

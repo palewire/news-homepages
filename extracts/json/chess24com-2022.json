@@ -1,5 +1,13 @@
 {
-  "created": 1664601447,
+  "chess24com-2022": {
+    "url": "https://chess24.com/en/read/news",
+    "job_id": "spn2-8c18955d5676e95e3887291ab83749b8881ca79d",
+    "resources": [],
+    "status": "error",
+    "message": "Job failed.",
+    "status_ext": "error:job-failed"
+  },
+  "created": 1664643262,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/27/items/chess24com-2022",
@@ -8742,31 +8750,82 @@
       "sha1": "b56a46bf27fa494c3d36b5a1e95b94b245bf2959"
     },
     {
+      "name": "chess24com-2022-10-01T18:10:34.150704+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664640645",
+      "size": "1045",
+      "md5": "47897d75862dac0f4a2bc9157f8b7828",
+      "crc32": "b1dc5162",
+      "sha1": "0c36e23d241c0bf91380dc11ebf5c993f805f2a0",
+      "format": "JSON"
+    },
+    {
+      "name": "chess24com-2022-10-01T18:10:34.150704+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664640647",
+      "size": "31903",
+      "md5": "8aa4af2b1fcb2b2887d6b1426297d8af",
+      "crc32": "4d8254db",
+      "sha1": "4e507c6deda3fea1b741cb080646a821eaf8974a",
+      "format": "JSON"
+    },
+    {
+      "name": "chess24com-2022-10-01T18:10:34.150704+02:00.jpg",
+      "source": "original",
+      "mtime": "1664640643",
+      "size": "359866",
+      "md5": "f274187051575c4134021f4106caba76",
+      "crc32": "040fed6d",
+      "sha1": "20e74e720ec4645139421c866ffd35a6df5a8ddc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chess24com-2022-10-01T18:10:34.150704+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664640649",
+      "size": "1540",
+      "md5": "b6816ed5639fd84c709dead09a27d424",
+      "crc32": "c64973f8",
+      "sha1": "50c8c2a260b74d1674b1f351dd347743af88896e",
+      "format": "JSON"
+    },
+    {
+      "name": "chess24com-2022-10-01T18:10:34.150704+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664640650",
+      "size": "212",
+      "md5": "2572d9764f9abb5418921589d6f2e612",
+      "crc32": "c87aec3c",
+      "sha1": "0fdcbf2c059c4a45de5f857fcc7342ea17daa11f",
+      "format": "JSON"
+    },
+    {
       "name": "chess24com-2022_archive.torrent",
       "source": "metadata",
-      "btih": "11cbe9e1b3fb1474584e346d745ae63768368147",
-      "mtime": "1664601413",
-      "size": "180807",
-      "md5": "f44bb7b06819a694098571bd970ddae6",
-      "crc32": "9da620cf",
-      "sha1": "44d0d1ca7ecace993ab9cc266c6c634352c373b2",
+      "btih": "ae921d50ef093d2a8cd613828b8864891f0a513e",
+      "mtime": "1664640716",
+      "size": "181877",
+      "md5": "bcdad5b60731e0a89f21785fc37a5f62",
+      "crc32": "e1d4e98d",
+      "sha1": "dd96e25969456c2f41b36fc398d30809e2251029",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chess24com-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d0c42a18225a479ca647d2e85bf9b29f",
+      "md5": "aded571e4b1c38cce04943186287a55e",
       "summation": "md5"
     },
     {
       "name": "chess24com-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664599350",
-      "size": "1081344",
-      "md5": "fea43b50205549504bf4637ee53b8038",
-      "crc32": "37b8969c",
-      "sha1": "41516def401f6917ee331c975a54755b989d3f9d",
+      "mtime": "1664640671",
+      "size": "1089536",
+      "md5": "a33cc6a048d73f69a3c780cd61a4dfe8",
+      "crc32": "3aeb1dc3",
+      "sha1": "4b39f8ff4266dba4317bf6cd909d4228ce614095",
       "format": "Metadata"
     },
     {
@@ -8780,9 +8839,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 848,
-  "item_last_updated": 1664601413,
-  "item_size": 62718344,
+  "files_count": 853,
+  "item_last_updated": 1664640716,
+  "item_size": 63122172,
   "metadata": {
     "identifier": "chess24com-2022",
     "collection": [
@@ -8799,10 +8858,21 @@
     "publicdate": "2022-07-20 11:23:28",
     "addeddate": "2022-07-20 11:23:28"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 906407552,
+  "pending_tasks": true,
+  "server": "ia601508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3424816847,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 344844662,
   "workable_servers": [
-    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

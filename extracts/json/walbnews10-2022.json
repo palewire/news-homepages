@@ -1,5 +1,5 @@
 {
-  "created": 1664601722,
+  "created": 1664640837,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/23/items/walbnews10-2022",
@@ -8638,31 +8638,82 @@
       "sha1": "e376274ed638c8b5bdf257a26d6a38a6dc8cc97e"
     },
     {
+      "name": "walbnews10-2022-10-01T12:12:26.433137-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664640755",
+      "size": "35329",
+      "md5": "2ba2c64c5ebec2ac550fd1298ee9486d",
+      "crc32": "6e54b573",
+      "sha1": "d6d78b83c041bf0a6ae7532b60df510f15a5f2f5",
+      "format": "JSON"
+    },
+    {
+      "name": "walbnews10-2022-10-01T12:12:26.433137-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664640757",
+      "size": "25125",
+      "md5": "a148c9c158d693e7efc4a63563579218",
+      "crc32": "dd8a6aa3",
+      "sha1": "5eb54fe8dacb41ed3d990154ea5939b182a55a0c",
+      "format": "JSON"
+    },
+    {
+      "name": "walbnews10-2022-10-01T12:12:26.433137-04:00.jpg",
+      "source": "original",
+      "mtime": "1664640753",
+      "size": "382747",
+      "md5": "4963c2b66876e364f87ae874386f0ec5",
+      "crc32": "079b572a",
+      "sha1": "408faa848125d7596b716c044d6bc406ead8fcf0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "walbnews10-2022-10-01T12:12:26.433137-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664640759",
+      "size": "1441",
+      "md5": "93739709c9652f612f40bcba07e76552",
+      "crc32": "ce9f359b",
+      "sha1": "e1d1cd3e63d800366e44a8738c679749c65392c1",
+      "format": "JSON"
+    },
+    {
+      "name": "walbnews10-2022-10-01T12:12:26.433137-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664640761",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "walbnews10-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c4eebf8ee75b85e33b9abf62f0631875327338f5",
-      "mtime": "1664601574",
-      "size": "179025",
-      "md5": "04a508b83e457ccd89b1cb31ea8893ac",
-      "crc32": "846c189f",
-      "sha1": "cef53f5974132e0994e8401bbc55070171789538",
+      "btih": "747824415f59376c268534e5293b939668b20de8",
+      "mtime": "1664640818",
+      "size": "180096",
+      "md5": "5fa22c17aa0f2f92accf401dcce1f980",
+      "crc32": "de32c350",
+      "sha1": "7127d26491624502720fa5fff7bce8bf3f2545e8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "walbnews10-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d2ece4228c74693bb7ca12f92bcd8b74",
+      "md5": "f713c4c2c64e32414799dec40e27f016",
       "summation": "md5"
     },
     {
       "name": "walbnews10-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664599473",
-      "size": "1064960",
-      "md5": "371472118f3bf68a89b298de83584287",
-      "crc32": "27cde271",
-      "sha1": "5ba8e0f5a5ef8b9e232cd4690289535f222e7ff2",
+      "mtime": "1664640769",
+      "size": "1073152",
+      "md5": "962b466d9fa533a21e8aac70b49cdccd",
+      "crc32": "e75dd113",
+      "sha1": "239726bf192a6bc5a1c86fb7aa3adeb683d04d44",
       "format": "Metadata"
     },
     {
@@ -8676,9 +8727,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 838,
-  "item_last_updated": 1664601574,
-  "item_size": 67805801,
+  "files_count": 843,
+  "item_last_updated": 1664640818,
+  "item_size": 68259908,
   "metadata": {
     "identifier": "walbnews10-2022",
     "collection": [
@@ -8695,10 +8746,21 @@
     "publicdate": "2022-07-20 23:31:52",
     "addeddate": "2022-07-20 23:31:52"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 652441585,
+  "pending_tasks": true,
+  "server": "ia601409.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3424818448,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 164029521,
   "workable_servers": [
-    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

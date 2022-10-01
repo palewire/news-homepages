@@ -1,5 +1,5 @@
 {
-  "created": 1664599537,
+  "created": 1664640835,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/23/items/washtimes-2022",
@@ -20471,31 +20471,93 @@
       "format": "JSON"
     },
     {
+      "name": "washtimes-2022-10-01T00:43:59.878562-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "washtimes-2022-10-01T00:43:59.878562-04:00.jpg",
+      "mtime": "1664602767",
+      "size": "11303",
+      "md5": "2a11fc325ce8f3b06e5e5f962c874148",
+      "crc32": "23f45d17",
+      "sha1": "425dbb5b577be281c75b7de64db1aaf74a46f65d"
+    },
+    {
+      "name": "washtimes-2022-10-01T12:12:16.600904-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664640750",
+      "size": "98749",
+      "md5": "196caeae50240f364a8a7c3d6029aee8",
+      "crc32": "73904551",
+      "sha1": "d1964d08a40f769a59c40e4e68fe2a4f0192a4cc",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-10-01T12:12:16.600904-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664640752",
+      "size": "61886",
+      "md5": "0e72c15faab6997b5d1026ffdd8f3eaa",
+      "crc32": "530471d2",
+      "sha1": "05c6a33d1cb7802c67e188eb0b679a6be2ca7be0",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-10-01T12:12:16.600904-04:00.jpg",
+      "source": "original",
+      "mtime": "1664640748",
+      "size": "357878",
+      "md5": "1438c03d36455b3670f8ae8a065327a8",
+      "crc32": "dd51f735",
+      "sha1": "8b7704702de3be8b2ddec1b7808426a7b6310447",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "washtimes-2022-10-01T12:12:16.600904-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664640753",
+      "size": "1520",
+      "md5": "8d831f6b6f4c0f780783c8240ed0aafb",
+      "crc32": "4867a755",
+      "sha1": "a5733374435dbbc580159143d08d508bfcc5cb76",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-10-01T12:12:16.600904-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664640755",
+      "size": "212",
+      "md5": "962ab3f7e58ad0c6536ce0030a35344c",
+      "crc32": "47704627",
+      "sha1": "a819a65f8d40d2d1ec89a4dfd3cfc50bee7bbfc3",
+      "format": "JSON"
+    },
+    {
       "name": "washtimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2f414b0d14e3f4ad0674b49864255181e917ba2f",
-      "mtime": "1664599532",
-      "size": "420310",
-      "md5": "a6ac0d90525bf5331a4a56d5751d1c5f",
-      "crc32": "c7dce174",
-      "sha1": "01717108548f7b48770361e8b5ff0fbd8dcaa2a0",
+      "btih": "9ed91d3b7105813318d31619509866c3cb1189aa",
+      "mtime": "1664640830",
+      "size": "421582",
+      "md5": "d1aeadb4f248ea06d85e672aa60d6743",
+      "crc32": "75809acb",
+      "sha1": "42eade26b81599426c1762c256cbb8f893914dcd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "washtimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "27e83ec4f03a04cd0c91fa82a8d40db4",
+      "md5": "06b414f01f121d6afc11a4fa394967be",
       "summation": "md5"
     },
     {
       "name": "washtimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664599464",
-      "size": "2396160",
-      "md5": "21758c56dd9bb154e6f9580eb4cf2edb",
-      "crc32": "77f369af",
-      "sha1": "5bcc99c263044c262ba4d8d07c0e20dcfea14e74",
+      "mtime": "1664640761",
+      "size": "2408448",
+      "md5": "794ba94b13596a8ccb5fa441673fe13d",
+      "crc32": "2f35e496",
+      "sha1": "b31f9adc7d1740e3140f2e653f93970ed8710a46",
       "format": "Metadata"
     },
     {
@@ -20509,9 +20571,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1970,
-  "item_last_updated": 1664599532,
-  "item_size": 221995976,
+  "files_count": 1976,
+  "item_last_updated": 1664640830,
+  "item_size": 222541084,
   "metadata": {
     "identifier": "washtimes-2022",
     "collection": [
@@ -20533,15 +20595,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3424249825,
+      "task_id": 3424818416,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 470174008,
+  "uniq": 440142385,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

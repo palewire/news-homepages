@@ -1,10 +1,6 @@
 {
-  "azcentral-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1664602387,
+  "conflict": 1664642971,
+  "created": 1664642971,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/2/items/azcentral-2022",
@@ -10175,31 +10171,93 @@
       "sha1": "33a7e1679b449c0e76676b0ebb5b6be5348bdfb8"
     },
     {
+      "name": "azcentral-2022-10-01T09:04:58.540929-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664640308",
+      "size": "23133",
+      "md5": "a45c6cf53c702a52e95f46c82fffc2e3",
+      "crc32": "b5a66bd7",
+      "sha1": "d766c989b1c1e66d00fd37c2e7b5271e87728088",
+      "format": "JSON"
+    },
+    {
+      "name": "azcentral-2022-10-01T09:04:58.540929-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664640312",
+      "size": "35835",
+      "md5": "cb74a4c1cbb7ec4624b2d5bbd9366a40",
+      "crc32": "4bd1a51b",
+      "sha1": "cb7bd8627f82bc90154e33efac583a83dfae5d3d",
+      "format": "JSON"
+    },
+    {
+      "name": "azcentral-2022-10-01T09:04:58.540929-07:00.jpg",
+      "source": "original",
+      "mtime": "1664640306",
+      "size": "289991",
+      "md5": "fca48fef2e2e1539a5edda7d0eff5237",
+      "crc32": "26aa4793",
+      "sha1": "2bcf5b799ac74c90b6d1b4d704977884646db294",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "azcentral-2022-10-01T09:04:58.540929-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664640315",
+      "size": "1486",
+      "md5": "8b9857e89864eced6982d04de59f710b",
+      "crc32": "c37332f1",
+      "sha1": "1aeb0e3d0687c41cd998ea84baa6586f35a268e2",
+      "format": "JSON"
+    },
+    {
+      "name": "azcentral-2022-10-01T09:04:58.540929-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664640318",
+      "size": "206",
+      "md5": "4a587f61e18440d742323d056d5d69da",
+      "crc32": "2bffda74",
+      "sha1": "0713217f7490f8eede398ff57e51da1178069432",
+      "format": "JSON"
+    },
+    {
+      "name": "azcentral-2022-10-01T09:04:58.540929-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "azcentral-2022-10-01T09:04:58.540929-07:00.jpg",
+      "mtime": "1664642959",
+      "size": "9689",
+      "md5": "24b0389014dfeade6a29c814c99e0092",
+      "crc32": "aa3dfc25",
+      "sha1": "06eb1fabf702299fbd76966b026ebadaa21baee3"
+    },
+    {
       "name": "azcentral-2022_archive.torrent",
       "source": "metadata",
-      "btih": "048b4af4218e9f21a178557ec5131a088d44139d",
-      "mtime": "1664601305",
-      "size": "208601",
-      "md5": "fa669fa6032ae065641afe6bbc81c4a4",
-      "crc32": "f9187075",
-      "sha1": "ba33160dabe18654f359f675fd2e5fbdca5514fe",
+      "btih": "c1f9769ffd5a5018ab5881e69806081f66729ad1",
+      "mtime": "1664642970",
+      "size": "209872",
+      "md5": "507cc9cd5f22cc20654ec69eccb469f2",
+      "crc32": "07e07236",
+      "sha1": "f7c00d4aea298eb52dda6351820b8418b773b197",
       "format": "Archive BitTorrent"
     },
     {
       "name": "azcentral-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2fa566ea43e8ac272be1f857e773cca0",
+      "md5": "153c60ca2e7b3c25f049eb8ffd6fcefa",
       "summation": "md5"
     },
     {
       "name": "azcentral-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664599207",
-      "size": "1232896",
-      "md5": "b0d20b45514ec96d4e292d26f0255e94",
-      "crc32": "6481d6b3",
-      "sha1": "0d138c25dba20cf2114fa4e530fec2280abe96f7",
+      "mtime": "1664640326",
+      "size": "1241088",
+      "md5": "c3de0579c532ba77993aeed8b0f18aa1",
+      "crc32": "81ff4e2e",
+      "sha1": "84189d48277a6f3d7beffa4f460b57009c6a9fda",
       "format": "Metadata"
     },
     {
@@ -10213,9 +10271,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 984,
-  "item_last_updated": 1664601305,
-  "item_size": 69868997,
+  "files_count": 990,
+  "item_last_updated": 1664642970,
+  "item_size": 70238800,
   "metadata": {
     "identifier": "azcentral-2022",
     "collection": [
@@ -10237,7 +10295,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3424245989,
+      "task_id": 3424810818,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -10245,7 +10303,7 @@
       "status": "running"
     },
     {
-      "task_id": 3424273633,
+      "task_id": 3424840118,
       "cmd": "bup.php",
       "priority": -5,
       "wait_admin": 0,
@@ -10253,7 +10311,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 87508094,
+  "uniq": 521858084,
   "workable_servers": [
     "ia902502.us.archive.org"
   ]

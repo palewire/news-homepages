@@ -1,5 +1,5 @@
 {
-  "created": 1664601348,
+  "created": 1664640566,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/19/items/baltfishbowl-2022",
@@ -9380,31 +9380,82 @@
       "sha1": "5ccd90ed8edcb06e869f4ae661b942feef53e3ad"
     },
     {
+      "name": "baltfishbowl-2022-10-01T12:08:22.305412-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664640505",
+      "size": "25736",
+      "md5": "d8bc031b9fa03aca5e346d444fe5f39f",
+      "crc32": "57e39870",
+      "sha1": "cc85cf56015d7f6902b0f5da0c95598aead0ca7e",
+      "format": "JSON"
+    },
+    {
+      "name": "baltfishbowl-2022-10-01T12:08:22.305412-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664640506",
+      "size": "24001",
+      "md5": "36c7c9730069fa70509a2e74bca55998",
+      "crc32": "dc780a19",
+      "sha1": "f43384d14c43cc5486ab1c463f313fc2c1f54680",
+      "format": "JSON"
+    },
+    {
+      "name": "baltfishbowl-2022-10-01T12:08:22.305412-04:00.jpg",
+      "source": "original",
+      "mtime": "1664640504",
+      "size": "270164",
+      "md5": "f01be8e8976a335097d20d0db4161fa6",
+      "crc32": "472257d0",
+      "sha1": "4f529fdf65569239c7b2e77fd04203b0bc842152",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltfishbowl-2022-10-01T12:08:22.305412-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664640508",
+      "size": "1521",
+      "md5": "f4a1e88ee43058094d5d5d7b91ba391f",
+      "crc32": "7d2ddec1",
+      "sha1": "ee3fd4405a21a28e6223df3447bd36e77817b8b0",
+      "format": "JSON"
+    },
+    {
+      "name": "baltfishbowl-2022-10-01T12:08:22.305412-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664640513",
+      "size": "27989",
+      "md5": "db2ea3c320393519d90ab65138a4b30f",
+      "crc32": "9fff4b1c",
+      "sha1": "fa231c249664331c947489fbf60bc417d3f323f6",
+      "format": "JSON"
+    },
+    {
       "name": "baltfishbowl-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d4e2427570e83fa627a01b58278a9069e6c8414c",
-      "mtime": "1664601331",
-      "size": "195301",
-      "md5": "316eaffe5cba2ca0616ead8e5acab687",
-      "crc32": "bf2bc217",
-      "sha1": "891d66e990a69aa3f121d93d56226522dec5ff8f",
+      "btih": "a493a42b2bcb137b41bd0bd733802604f931a888",
+      "mtime": "1664640561",
+      "size": "196384",
+      "md5": "84ab4163e228ba9ed258e8808ffd5f5e",
+      "crc32": "552b3398",
+      "sha1": "b277c2fbd7d37f3010077f7d137b93ab1e9ad9b1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltfishbowl-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "84c2dd8a866cb0d06898e382f087c3b2",
+      "md5": "f7bd6e21e4b1a1875b3588341256acc7",
       "summation": "md5"
     },
     {
       "name": "baltfishbowl-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664599222",
-      "size": "1155072",
-      "md5": "a47692ce5c5ba5a3a8c2b77ac94fd2e4",
-      "crc32": "68852f78",
-      "sha1": "56284d45d282b5c8aebf57542d943b72509f91bb",
+      "mtime": "1664640517",
+      "size": "1159168",
+      "md5": "303bba7eaa17aa32c137068f3f151b20",
+      "crc32": "5dc5002a",
+      "sha1": "2f1911cedf83f578c977d822d2eb8308eaf0780c",
       "format": "Metadata"
     },
     {
@@ -9418,9 +9469,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 909,
-  "item_last_updated": 1664601331,
-  "item_size": 59184902,
+  "files_count": 914,
+  "item_last_updated": 1664640561,
+  "item_size": 59539492,
   "metadata": {
     "identifier": "baltfishbowl-2022",
     "collection": [
@@ -9437,10 +9488,21 @@
     "publicdate": "2022-07-13 02:24:39",
     "addeddate": "2022-07-13 02:24:39"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 748340858,
+  "pending_tasks": true,
+  "server": "ia902502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3424814675,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 319741959,
   "workable_servers": [
-    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

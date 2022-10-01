@@ -1,5 +1,5 @@
 {
-  "created": 1664601949,
+  "created": 1664640416,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/24/items/asahi-2022",
@@ -13416,31 +13416,82 @@
       "sha1": "0fa979458229ea9f028238b9b73f3e43b9a56387"
     },
     {
+      "name": "asahi-2022-10-02T01:05:04.407980+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664640308",
+      "size": "128967",
+      "md5": "32900daa83f283541ef9a9eff80e719a",
+      "crc32": "f01d32b1",
+      "sha1": "72f386f7277b0ea7f07a7c495a2f768878fd736d",
+      "format": "JSON"
+    },
+    {
+      "name": "asahi-2022-10-02T01:05:04.407980+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664640312",
+      "size": "134646",
+      "md5": "ad0144d1047fe46c98070ab57e283995",
+      "crc32": "10ab5b06",
+      "sha1": "37aee5298bd1fa35cda7ab3e371eb590a6f5c3b3",
+      "format": "JSON"
+    },
+    {
+      "name": "asahi-2022-10-02T01:05:04.407980+09:00.jpg",
+      "source": "original",
+      "mtime": "1664640306",
+      "size": "280815",
+      "md5": "7f0eff249914161826dfdb0361d31da9",
+      "crc32": "ccd6b7b8",
+      "sha1": "08223925f2126f250e982de5777443b43836fb0c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asahi-2022-10-02T01:05:04.407980+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664640315",
+      "size": "1469",
+      "md5": "186020b1fcae4d6ca429efa9e77e57ac",
+      "crc32": "ca25757c",
+      "sha1": "41141def3746a9cf424585336bdb744290e48782",
+      "format": "JSON"
+    },
+    {
+      "name": "asahi-2022-10-02T01:05:04.407980+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1664640317",
+      "size": "228",
+      "md5": "5a4efaeed8efecc470fa52efe1d4e557",
+      "crc32": "92443f8f",
+      "sha1": "da61c8f6ba8faa96687dbf09cf874a44b489f749",
+      "format": "JSON"
+    },
+    {
       "name": "asahi-2022_archive.torrent",
       "source": "metadata",
-      "btih": "642ca5cf8634e87b344cbc9af0c1a938931c0fe2",
-      "mtime": "1664601278",
-      "size": "270962",
-      "md5": "4976c6b6c7962942fa461e8032e80255",
-      "crc32": "bb2f02b8",
-      "sha1": "06187b3f86e58323cd505f395f48d97d577de3cf",
+      "btih": "91841d5bbde5205841274b8de14349faf0f0140c",
+      "mtime": "1664640406",
+      "size": "272010",
+      "md5": "7210e275b6c5f32442d03ad4e728dfe9",
+      "crc32": "bc75f79a",
+      "sha1": "86194f7631028c961149f147c84084e5b9a0f08d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "asahi-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f6f14df82bc81f1e798d372e1965d98c",
+      "md5": "0d2c2fedee5b06a45b81116158e8c286",
       "summation": "md5"
     },
     {
       "name": "asahi-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664599224",
-      "size": "1589248",
-      "md5": "ebbfc96631d837614458c17ae6c505f6",
-      "crc32": "7517d8b4",
-      "sha1": "ad75a369114eb2bb95dca8f70547e42fb8b8a63c",
+      "mtime": "1664640331",
+      "size": "1597440",
+      "md5": "70a33a592a8f5df656ebd0f1295c51d6",
+      "crc32": "afca2531",
+      "sha1": "fa90da730d407ef0a5ad18e8fc83aed7a7db90f3",
       "format": "Metadata"
     },
     {
@@ -13454,9 +13505,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1295,
-  "item_last_updated": 1664601278,
-  "item_size": 140382675,
+  "files_count": 1300,
+  "item_last_updated": 1664640406,
+  "item_size": 140938040,
   "metadata": {
     "identifier": "asahi-2022",
     "collection": [
@@ -13473,10 +13524,21 @@
     "publicdate": "2022-07-09 02:39:04",
     "addeddate": "2022-07-09 02:39:04"
   },
+  "pending_tasks": true,
   "server": "ia601507.us.archive.org",
-  "uniq": 655143413,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3424811658,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 835380196,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
+    "ia601507.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1664599551,
+  "created": 1664642910,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/5/items/votebeatus-2022",
@@ -12697,31 +12697,93 @@
       "format": "JSON"
     },
     {
+      "name": "votebeatus-2022-10-01T00:44:42.075499-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "votebeatus-2022-10-01T00:44:42.075499-04:00.jpg",
+      "mtime": "1664603311",
+      "size": "9637",
+      "md5": "459962f198d066a3bd271ce7eac5bd3d",
+      "crc32": "60f3f012",
+      "sha1": "7ba8e7a095f9b08584cdea4c5a882566494c8909"
+    },
+    {
+      "name": "votebeatus-2022-10-01T12:12:40.021986-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664640768",
+      "size": "48166",
+      "md5": "86c2bc4866e034a325d30d77c057aae0",
+      "crc32": "2eba8157",
+      "sha1": "4524748f539debd48f87ee4092f21c9fe193d50b",
+      "format": "JSON"
+    },
+    {
+      "name": "votebeatus-2022-10-01T12:12:40.021986-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664640770",
+      "size": "57643",
+      "md5": "0fe5aae8b8db156848b59e382f798828",
+      "crc32": "593d89a6",
+      "sha1": "7f5d3e2197ef715ec8d4ab6298265da04a9f2c2f",
+      "format": "JSON"
+    },
+    {
+      "name": "votebeatus-2022-10-01T12:12:40.021986-04:00.jpg",
+      "source": "original",
+      "mtime": "1664640767",
+      "size": "275721",
+      "md5": "7f09886d9be754430a8ce673744e4b86",
+      "crc32": "3caf505b",
+      "sha1": "46b922c70cff5cb444a17838ad02a79aadd42771",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "votebeatus-2022-10-01T12:12:40.021986-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664640772",
+      "size": "1468",
+      "md5": "657fc7a109e0bc283a5ac73deca3b203",
+      "crc32": "582e10b1",
+      "sha1": "f0e9a6ceacb3af4635cb3c26df5b61b5031b77cf",
+      "format": "JSON"
+    },
+    {
+      "name": "votebeatus-2022-10-01T12:12:40.021986-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664640774",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "votebeatus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f6771ee068836b451d3817c5f98144e39949357e",
-      "mtime": "1664599547",
-      "size": "260735",
-      "md5": "f7edb5146d1b3151886c01825eb762ff",
-      "crc32": "fb77f185",
-      "sha1": "5de40bdbf3a1b38e1294b8ef7c8c61847e0b6e7a",
+      "btih": "67b3b95a98423cdfa78e8c145adc107a0e1e2a95",
+      "mtime": "1664640828",
+      "size": "262012",
+      "md5": "6746161bcdfecde89585077dea861829",
+      "crc32": "1781d2ec",
+      "sha1": "10cce1285275a8ed72f7d0e8cfef771fe2decec2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "votebeatus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1b42edbea01cc21d92c1a5fc305474a5",
+      "md5": "3967da814d11203d9de48eb2b94be560",
       "summation": "md5"
     },
     {
       "name": "votebeatus-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664599500",
-      "size": "1515520",
-      "md5": "8e59bebd82f7c55df894d8dac7b69564",
-      "crc32": "7e4c5f93",
-      "sha1": "d4887d604d2344251440eb54cfc03f699cabaad6",
+      "mtime": "1664640782",
+      "size": "1523712",
+      "md5": "4199aedb7f84e2993803c30bf6cef3f0",
+      "crc32": "49682ef9",
+      "sha1": "101c2bb1e9f720278be4df2447a9229dc2904c1b",
       "format": "Metadata"
     },
     {
@@ -12735,9 +12797,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1225,
-  "item_last_updated": 1664599547,
-  "item_size": 88814460,
+  "files_count": 1231,
+  "item_last_updated": 1664640828,
+  "item_size": 89216766,
   "metadata": {
     "identifier": "votebeatus-2022",
     "collection": [
@@ -12759,15 +12821,20 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3424250021,
+      "task_id": 3424818383,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1651005202,
+  "uniq": 952169698,
+  "votebeatus-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
     "ia902509.us.archive.org"
   ]

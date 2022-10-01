@@ -1,5 +1,5 @@
 {
-  "created": 1664599516,
+  "created": 1664640827,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/14/items/yahoofinance-2022",
@@ -4697,31 +4697,93 @@
       "format": "JSON"
     },
     {
+      "name": "yahoofinance-2022-10-01T00:44:01.372058-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoofinance-2022-10-01T00:44:01.372058-04:00.jpg",
+      "mtime": "1664602768",
+      "size": "9618",
+      "md5": "be158605addd5a9d7c83f724159ad4c9",
+      "crc32": "8bd2988a",
+      "sha1": "ef41abf383a521881dad3ce2edeadcb3824f674e"
+    },
+    {
+      "name": "yahoofinance-2022-10-01T12:12:32.541115-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664640759",
+      "size": "40114",
+      "md5": "f0c3f6d40aab249d8fee22e2d82a4496",
+      "crc32": "67c88f16",
+      "sha1": "fafe2267b46dc3ac5717fc9261847636582e71c3",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-10-01T12:12:32.541115-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664640761",
+      "size": "45055",
+      "md5": "ae7bb682a3d059416916a03002c7a8b7",
+      "crc32": "a21c3e8a",
+      "sha1": "5e2edb0ef52b192e215441ef2f1568dd4f7e112a",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-10-01T12:12:32.541115-04:00.jpg",
+      "source": "original",
+      "mtime": "1664640754",
+      "size": "282290",
+      "md5": "245fa99d4308c660dc1658aaeec38aed",
+      "crc32": "0b60fbc1",
+      "sha1": "e2bfc1855d2e2773b5cb92f15b89ae9b0a7cc1fe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoofinance-2022-10-01T12:12:32.541115-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664640762",
+      "size": "1486",
+      "md5": "974b8bb0f3f841f5146cc3e88e1acc8a",
+      "crc32": "cf41c10c",
+      "sha1": "3acb7854485a652091dd5a40eb208eecc035d039",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-10-01T12:12:32.541115-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664640764",
+      "size": "349",
+      "md5": "0adb614655fb426ce9298f77ad17f157",
+      "crc32": "cb9df980",
+      "sha1": "38e9d7bb05b28e90971271c7c51039431f3c2236",
+      "format": "JSON"
+    },
+    {
       "name": "yahoofinance-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6ec8ef9816cbca7419b098bdc6d1f65f5e4c7f5b",
-      "mtime": "1664599509",
-      "size": "98830",
-      "md5": "a2df8ee6c1d4009cbc5a972d4b7d0c57",
-      "crc32": "5cbadaf2",
-      "sha1": "8ede3a7831d1ab82863fa7b7d0b8ca3b40017dc7",
+      "btih": "f463a124b3c396eed1b1603f5c3a4cca578443e1",
+      "mtime": "1664640822",
+      "size": "100119",
+      "md5": "df1771170c499939f16dc3caec76a110",
+      "crc32": "39f41ff3",
+      "sha1": "82a1449c5a0e87dca565be226337ce9e34b7e405",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yahoofinance-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3c2fd21682d64804e36115ad9eb39427",
+      "md5": "07e7fc5b21b4abdfcc8d7d17c2fc80d3",
       "summation": "md5"
     },
     {
       "name": "yahoofinance-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664599458",
-      "size": "598016",
-      "md5": "0d378139bb6186393ba201c57054a5e6",
-      "crc32": "88268ede",
-      "sha1": "a6260a69381ada700b3784322a59a8f0f2862733",
+      "mtime": "1664640774",
+      "size": "606208",
+      "md5": "f47d8bfade4e27b07c7f3034aaba5b65",
+      "crc32": "6fa1ff74",
+      "sha1": "c356de4dfbcc79c7d81574f32dc60ed6f8424754",
       "format": "Metadata"
     },
     {
@@ -4735,9 +4797,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 458,
-  "item_last_updated": 1664599509,
-  "item_size": 32759242,
+  "files_count": 464,
+  "item_last_updated": 1664640822,
+  "item_size": 33147635,
   "metadata": {
     "identifier": "yahoofinance-2022",
     "collection": [
@@ -4759,15 +4821,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3424249543,
+      "task_id": 3424818312,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 2085477400,
+  "uniq": 268527918,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]
