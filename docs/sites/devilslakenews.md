@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 22 screenshots with the Internet Archive.
+The archiving routine has saved 23 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/devilslakenews-2022/devilslakenews-2022-10-01T12:45:12.053033-05:00.jpg">
+  <img src="https://archive.org/download/devilslakenews-2022/devilslakenews-2022-10-01T12:45:12.053033-05:00.jpg"
+     alt="Devils Lake Journal at 2022-10-01 12:45:14-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/devilslakenews-2022/devilslakenews-2022-10-01T12:45:12.053033-05:00.jpg">October 1 at 12:45 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/devilslakenews-2022/devilslakenews-2022-10-01T02:43:23.670378-05:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/devilslakenews-2022/devilslakenews-2022-09-26T01:12:50.104945-05:00.jpg">September 26 at 1:12 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/devilslakenews-2022/devilslakenews-2022-09-25T12:22:27.435081-05:00.jpg">
-  <img src="https://archive.org/download/devilslakenews-2022/devilslakenews-2022-09-25T12:22:27.435081-05:00.jpg"
-     alt="Devils Lake Journal at 2022-09-25 12:22:30-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/devilslakenews-2022/devilslakenews-2022-09-25T12:22:27.435081-05:00.jpg">September 25 at 12:22 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 22 hyperlink lists with the Internet Archive.
+The archiving routine has saved 23 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 12:45 PM](https://archive.org/download/devilslakenews-2022/devilslakenews-2022-10-01T12:45:12.053033-05:00.hyperlinks.json) |
 | [October 1 at 2:43 AM](https://archive.org/download/devilslakenews-2022/devilslakenews-2022-10-01T02:43:23.670378-05:00.hyperlinks.json) |
 | [September 30 at 1:28 PM](https://archive.org/download/devilslakenews-2022/devilslakenews-2022-09-30T13:27:52.966813-05:00.hyperlinks.json) |
 | [September 30 at 1:35 AM](https://archive.org/download/devilslakenews-2022/devilslakenews-2022-09-30T01:35:02.789982-05:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 28 at 1:21 AM](https://archive.org/download/devilslakenews-2022/devilslakenews-2022-09-28T01:21:09.170317-05:00.hyperlinks.json) |
 | [September 27 at 12:50 PM](https://archive.org/download/devilslakenews-2022/devilslakenews-2022-09-27T12:50:52.271617-05:00.hyperlinks.json) |
 | [September 27 at 1:59 AM](https://archive.org/download/devilslakenews-2022/devilslakenews-2022-09-27T01:59:41.188668-05:00.hyperlinks.json) |
-| [September 26 at 12:42 PM](https://archive.org/download/devilslakenews-2022/devilslakenews-2022-09-26T12:41:59.324239-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 22 accessibility trees with the Internet Archive.
+The archiving routine has saved 23 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 12:45 PM](https://archive.org/download/devilslakenews-2022/devilslakenews-2022-10-01T12:45:12.053033-05:00.accessibility.json) |
 | [October 1 at 2:43 AM](https://archive.org/download/devilslakenews-2022/devilslakenews-2022-10-01T02:43:23.670378-05:00.accessibility.json) |
 | [September 30 at 1:27 PM](https://archive.org/download/devilslakenews-2022/devilslakenews-2022-09-30T13:27:52.966813-05:00.accessibility.json) |
 | [September 30 at 1:35 AM](https://archive.org/download/devilslakenews-2022/devilslakenews-2022-09-30T01:35:02.789982-05:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 28 at 1:21 AM](https://archive.org/download/devilslakenews-2022/devilslakenews-2022-09-28T01:21:09.170317-05:00.accessibility.json) |
 | [September 27 at 12:50 PM](https://archive.org/download/devilslakenews-2022/devilslakenews-2022-09-27T12:50:52.271617-05:00.accessibility.json) |
 | [September 27 at 1:59 AM](https://archive.org/download/devilslakenews-2022/devilslakenews-2022-09-27T01:59:41.188668-05:00.accessibility.json) |
-| [September 26 at 12:42 PM](https://archive.org/download/devilslakenews-2022/devilslakenews-2022-09-26T12:41:59.324239-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 12:45 PM](https://archive.org/download/devilslakenews-2022/devilslakenews-2022-10-01T12:45:12.053033-05:00.lighthouse.json) |
 | [October 1 at 2:43 AM](https://archive.org/download/devilslakenews-2022/devilslakenews-2022-10-01T02:43:23.670378-05:00.lighthouse.json) |
 | [September 30 at 1:28 PM](https://archive.org/download/devilslakenews-2022/devilslakenews-2022-09-30T13:27:52.966813-05:00.lighthouse.json) |
 | [September 30 at 1:35 AM](https://archive.org/download/devilslakenews-2022/devilslakenews-2022-09-30T01:35:02.789982-05:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 28 at 1:21 AM](https://archive.org/download/devilslakenews-2022/devilslakenews-2022-09-28T01:21:09.170317-05:00.lighthouse.json) |
 | [September 27 at 12:50 PM](https://archive.org/download/devilslakenews-2022/devilslakenews-2022-09-27T12:50:52.271617-05:00.lighthouse.json) |
 | [September 27 at 1:59 AM](https://archive.org/download/devilslakenews-2022/devilslakenews-2022-09-27T01:59:41.188668-05:00.lighthouse.json) |
-| [September 26 at 12:42 PM](https://archive.org/download/devilslakenews-2022/devilslakenews-2022-09-26T12:41:59.324239-05:00.lighthouse.json) |
 
 
 

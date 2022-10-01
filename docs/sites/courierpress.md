@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 22 screenshots with the Internet Archive.
+The archiving routine has saved 23 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/courierpress-2022/courierpress-2022-10-01T12:38:08.179369-05:00.jpg">
+  <img src="https://archive.org/download/courierpress-2022/courierpress-2022-10-01T12:38:08.179369-05:00.jpg"
+     alt="Evansville Courier & Press at 2022-10-01 12:38:09-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/courierpress-2022/courierpress-2022-10-01T12:38:08.179369-05:00.jpg">October 1 at 12:38 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/courierpress-2022/courierpress-2022-10-01T02:40:24.812949-05:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/courierpress-2022/courierpress-2022-09-26T01:08:39.672344-05:00.jpg">September 26 at 1:08 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/courierpress-2022/courierpress-2022-09-25T12:16:37.351697-05:00.jpg">
-  <img src="https://archive.org/download/courierpress-2022/courierpress-2022-09-25T12:16:37.351697-05:00.jpg"
-     alt="Evansville Courier & Press at 2022-09-25 12:16:39-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/courierpress-2022/courierpress-2022-09-25T12:16:37.351697-05:00.jpg">September 25 at 12:16 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 22 hyperlink lists with the Internet Archive.
+The archiving routine has saved 23 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 12:38 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-01T12:38:08.179369-05:00.hyperlinks.json) |
 | [October 1 at 2:40 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-01T02:40:24.812949-05:00.hyperlinks.json) |
 | [September 30 at 1:24 PM](https://archive.org/download/courierpress-2022/courierpress-2022-09-30T13:24:29.949397-05:00.hyperlinks.json) |
 | [September 30 at 1:30 AM](https://archive.org/download/courierpress-2022/courierpress-2022-09-30T01:30:53.090795-05:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 28 at 1:15 AM](https://archive.org/download/courierpress-2022/courierpress-2022-09-28T01:15:38.766168-05:00.hyperlinks.json) |
 | [September 27 at 12:43 PM](https://archive.org/download/courierpress-2022/courierpress-2022-09-27T12:43:55.366357-05:00.hyperlinks.json) |
 | [September 27 at 1:57 AM](https://archive.org/download/courierpress-2022/courierpress-2022-09-27T01:57:38.782625-05:00.hyperlinks.json) |
-| [September 26 at 12:35 PM](https://archive.org/download/courierpress-2022/courierpress-2022-09-26T12:35:35.887433-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 22 accessibility trees with the Internet Archive.
+The archiving routine has saved 23 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 12:38 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-01T12:38:08.179369-05:00.accessibility.json) |
 | [October 1 at 2:40 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-01T02:40:24.812949-05:00.accessibility.json) |
 | [September 30 at 1:24 PM](https://archive.org/download/courierpress-2022/courierpress-2022-09-30T13:24:29.949397-05:00.accessibility.json) |
 | [September 30 at 1:30 AM](https://archive.org/download/courierpress-2022/courierpress-2022-09-30T01:30:53.090795-05:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 28 at 1:15 AM](https://archive.org/download/courierpress-2022/courierpress-2022-09-28T01:15:38.766168-05:00.accessibility.json) |
 | [September 27 at 12:43 PM](https://archive.org/download/courierpress-2022/courierpress-2022-09-27T12:43:55.366357-05:00.accessibility.json) |
 | [September 27 at 1:57 AM](https://archive.org/download/courierpress-2022/courierpress-2022-09-27T01:57:38.782625-05:00.accessibility.json) |
-| [September 26 at 12:35 PM](https://archive.org/download/courierpress-2022/courierpress-2022-09-26T12:35:35.887433-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 12:38 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-01T12:38:08.179369-05:00.lighthouse.json) |
 | [October 1 at 2:40 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-01T02:40:24.812949-05:00.lighthouse.json) |
 | [September 30 at 1:24 PM](https://archive.org/download/courierpress-2022/courierpress-2022-09-30T13:24:29.949397-05:00.lighthouse.json) |
 | [September 30 at 1:30 AM](https://archive.org/download/courierpress-2022/courierpress-2022-09-30T01:30:53.090795-05:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 28 at 1:15 AM](https://archive.org/download/courierpress-2022/courierpress-2022-09-28T01:15:38.766168-05:00.lighthouse.json) |
 | [September 27 at 12:44 PM](https://archive.org/download/courierpress-2022/courierpress-2022-09-27T12:43:55.366357-05:00.lighthouse.json) |
 | [September 27 at 1:57 AM](https://archive.org/download/courierpress-2022/courierpress-2022-09-27T01:57:38.782625-05:00.lighthouse.json) |
-| [September 26 at 12:35 PM](https://archive.org/download/courierpress-2022/courierpress-2022-09-26T12:35:35.887433-05:00.lighthouse.json) |
 
 
 

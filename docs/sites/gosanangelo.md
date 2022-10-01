@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 22 screenshots with the Internet Archive.
+The archiving routine has saved 23 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gosanangelo-2022/gosanangelo-2022-10-01T12:50:41.899665-05:00.jpg">
+  <img src="https://archive.org/download/gosanangelo-2022/gosanangelo-2022-10-01T12:50:41.899665-05:00.jpg"
+     alt="The San Angelo Standard-Times at 2022-10-01 12:50:43-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gosanangelo-2022/gosanangelo-2022-10-01T12:50:41.899665-05:00.jpg">October 1 at 12:50 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gosanangelo-2022/gosanangelo-2022-10-01T02:45:10.176292-05:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gosanangelo-2022/gosanangelo-2022-09-26T01:20:48.030164-05:00.jpg">September 26 at 1:20 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gosanangelo-2022/gosanangelo-2022-09-25T12:28:53.068981-05:00.jpg">
-  <img src="https://archive.org/download/gosanangelo-2022/gosanangelo-2022-09-25T12:28:53.068981-05:00.jpg"
-     alt="The San Angelo Standard-Times at 2022-09-25 12:28:54-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gosanangelo-2022/gosanangelo-2022-09-25T12:28:53.068981-05:00.jpg">September 25 at 12:28 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 22 hyperlink lists with the Internet Archive.
+The archiving routine has saved 23 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 12:50 PM](https://archive.org/download/gosanangelo-2022/gosanangelo-2022-10-01T12:50:41.899665-05:00.hyperlinks.json) |
 | [October 1 at 2:45 AM](https://archive.org/download/gosanangelo-2022/gosanangelo-2022-10-01T02:45:10.176292-05:00.hyperlinks.json) |
 | [September 30 at 1:31 PM](https://archive.org/download/gosanangelo-2022/gosanangelo-2022-09-30T13:31:03.376195-05:00.hyperlinks.json) |
 | [September 30 at 1:36 AM](https://archive.org/download/gosanangelo-2022/gosanangelo-2022-09-30T01:35:54.411818-05:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 28 at 1:27 AM](https://archive.org/download/gosanangelo-2022/gosanangelo-2022-09-28T01:27:02.011231-05:00.hyperlinks.json) |
 | [September 27 at 12:58 PM](https://archive.org/download/gosanangelo-2022/gosanangelo-2022-09-27T12:58:54.475280-05:00.hyperlinks.json) |
 | [September 27 at 2:01 AM](https://archive.org/download/gosanangelo-2022/gosanangelo-2022-09-27T02:01:36.961228-05:00.hyperlinks.json) |
-| [September 26 at 12:50 PM](https://archive.org/download/gosanangelo-2022/gosanangelo-2022-09-26T12:50:22.911427-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 22 accessibility trees with the Internet Archive.
+The archiving routine has saved 23 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 12:50 PM](https://archive.org/download/gosanangelo-2022/gosanangelo-2022-10-01T12:50:41.899665-05:00.accessibility.json) |
 | [October 1 at 2:45 AM](https://archive.org/download/gosanangelo-2022/gosanangelo-2022-10-01T02:45:10.176292-05:00.accessibility.json) |
 | [September 30 at 1:31 PM](https://archive.org/download/gosanangelo-2022/gosanangelo-2022-09-30T13:31:03.376195-05:00.accessibility.json) |
 | [September 30 at 1:35 AM](https://archive.org/download/gosanangelo-2022/gosanangelo-2022-09-30T01:35:54.411818-05:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 28 at 1:27 AM](https://archive.org/download/gosanangelo-2022/gosanangelo-2022-09-28T01:27:02.011231-05:00.accessibility.json) |
 | [September 27 at 12:58 PM](https://archive.org/download/gosanangelo-2022/gosanangelo-2022-09-27T12:58:54.475280-05:00.accessibility.json) |
 | [September 27 at 2:01 AM](https://archive.org/download/gosanangelo-2022/gosanangelo-2022-09-27T02:01:36.961228-05:00.accessibility.json) |
-| [September 26 at 12:50 PM](https://archive.org/download/gosanangelo-2022/gosanangelo-2022-09-26T12:50:22.911427-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 12:50 PM](https://archive.org/download/gosanangelo-2022/gosanangelo-2022-10-01T12:50:41.899665-05:00.lighthouse.json) |
 | [October 1 at 2:45 AM](https://archive.org/download/gosanangelo-2022/gosanangelo-2022-10-01T02:45:10.176292-05:00.lighthouse.json) |
 | [September 30 at 1:31 PM](https://archive.org/download/gosanangelo-2022/gosanangelo-2022-09-30T13:31:03.376195-05:00.lighthouse.json) |
 | [September 30 at 1:36 AM](https://archive.org/download/gosanangelo-2022/gosanangelo-2022-09-30T01:35:54.411818-05:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 28 at 1:27 AM](https://archive.org/download/gosanangelo-2022/gosanangelo-2022-09-28T01:27:02.011231-05:00.lighthouse.json) |
 | [September 27 at 12:59 PM](https://archive.org/download/gosanangelo-2022/gosanangelo-2022-09-27T12:58:54.475280-05:00.lighthouse.json) |
 | [September 27 at 2:01 AM](https://archive.org/download/gosanangelo-2022/gosanangelo-2022-09-27T02:01:36.961228-05:00.lighthouse.json) |
-| [September 26 at 12:50 PM](https://archive.org/download/gosanangelo-2022/gosanangelo-2022-09-26T12:50:22.911427-05:00.lighthouse.json) |
 
 
 
