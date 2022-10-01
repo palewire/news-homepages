@@ -1,5 +1,5 @@
 {
-  "created": 1664592014,
+  "created": 1664633674,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/19/items/sz-2022",
@@ -6299,31 +6299,93 @@
       "format": "JSON"
     },
     {
+      "name": "sz-2022-10-01T04:38:12.345712+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sz-2022-10-01T04:38:12.345712+02:00.jpg",
+      "mtime": "1664595144",
+      "size": "9271",
+      "md5": "09c3b20c5f6cb8795da004cd5d821481",
+      "crc32": "7f9798db",
+      "sha1": "5f68bcab18cf66859ff4bd0cf733112001b800aa"
+    },
+    {
+      "name": "sz-2022-10-01T16:12:57.508531+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664633585",
+      "size": "104240",
+      "md5": "7d0579e2ba57c4ff411dff926fce00eb",
+      "crc32": "4578faff",
+      "sha1": "d3f1c546ecd965933963e0d0e63c49dc78faae6b",
+      "format": "JSON"
+    },
+    {
+      "name": "sz-2022-10-01T16:12:57.508531+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664633587",
+      "size": "175877",
+      "md5": "7eb4fcc793ed56912797c6893f1963cc",
+      "crc32": "6c4b8ac5",
+      "sha1": "e7a9cac374ac6037565b9805c07d1cb91e4c71d1",
+      "format": "JSON"
+    },
+    {
+      "name": "sz-2022-10-01T16:12:57.508531+02:00.jpg",
+      "source": "original",
+      "mtime": "1664633583",
+      "size": "217192",
+      "md5": "d7e74631666f46e5ae74a2355f19b545",
+      "crc32": "f3f48308",
+      "sha1": "ef51306dd3d8d0558a4c5694f697ad11b8c2fbc8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sz-2022-10-01T16:12:57.508531+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664633589",
+      "size": "1504",
+      "md5": "02b1c9b560209bcc2f959e819524ab10",
+      "crc32": "a0dd37db",
+      "sha1": "be2c379f6425ed2a85c1341514d23551da97c078",
+      "format": "JSON"
+    },
+    {
+      "name": "sz-2022-10-01T16:12:57.508531+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664633590",
+      "size": "246",
+      "md5": "9b1c459305d22be4f348d9b51f103735",
+      "crc32": "eb1ec439",
+      "sha1": "9d7e3a787ae71345fc6d3ce63418403441d1644a",
+      "format": "JSON"
+    },
+    {
       "name": "sz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4b254ff5b63c81ce3cfed26c73d0baf9f210fa3c",
-      "mtime": "1664591998",
-      "size": "126511",
-      "md5": "7f5cb22d22611bca00439f1c443e7333",
-      "crc32": "dc5c40be",
-      "sha1": "00d14846132cea991fb5c07d0eed39729b3f0063",
+      "btih": "1df101abc41f17323a9741c7e520eacfed5dcfab",
+      "mtime": "1664633664",
+      "size": "127742",
+      "md5": "f071d90679ed58b6bf42b48ff881dc54",
+      "crc32": "d452d189",
+      "sha1": "ca8d3ecd6621e55f0a6f35be3ef046100d9f73ed",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "41050ff7080115cb3e79b83688a29644",
+      "md5": "09aa977706171a667cd2932666c7f356",
       "summation": "md5"
     },
     {
       "name": "sz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664591935",
-      "size": "782336",
-      "md5": "e7d404808ee1b8606da2e73ff098f1ce",
-      "crc32": "85f42e3b",
-      "sha1": "30536f6473651d5902108da74d2a3f23935945a2",
+      "mtime": "1664633604",
+      "size": "790528",
+      "md5": "2f9de223aa61526304bac2a67a03d476",
+      "crc32": "3749a13b",
+      "sha1": "043daac3e59564d49a2c9ccd682e489fec919de5",
       "format": "Metadata"
     },
     {
@@ -6337,9 +6399,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 613,
-  "item_last_updated": 1664591998,
-  "item_size": 55802839,
+  "files_count": 619,
+  "item_last_updated": 1664633664,
+  "item_size": 56320592,
   "metadata": {
     "identifier": "sz-2022",
     "collection": [
@@ -6361,15 +6423,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3424154358,
+      "task_id": 3424719905,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1643955238,
+  "uniq": 413196259,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]
