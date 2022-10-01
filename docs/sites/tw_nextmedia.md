@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 119 screenshots with the Internet Archive.
+The archiving routine has saved 120 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 119 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-10-01T23:06:53.273467+08:00.jpg">
+  <img src="https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-10-01T23:06:53.273467+08:00.jpg"
+     alt="Apple Daily at 2022-10-01 23:06:58+08:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-10-01T23:06:53.273467+08:00.jpg">October 1 at 11:06 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-10-01T11:53:42.221571+08:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-09-26T11:42:16.832852+08:00.jpg">September 26 at 11:42 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-09-25T22:45:21.467821+08:00.jpg">
-  <img src="https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-09-25T22:45:21.467821+08:00.jpg"
-     alt="Apple Daily at 2022-09-25 22:45:32+08:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-09-25T22:45:21.467821+08:00.jpg">September 25 at 10:45 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 120 hyperlink lists with the Internet Archive.
+The archiving routine has saved 121 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 11:07 PM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-10-01T23:06:53.273467+08:00.hyperlinks.json) |
 | [October 1 at 11:53 AM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-10-01T11:53:42.221571+08:00.hyperlinks.json) |
 | [October 1 at 12:19 AM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-10-01T00:19:24.274363+08:00.hyperlinks.json) |
 | [September 30 at 11:56 AM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-09-30T11:56:43.064517+08:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 28 at 11:53 AM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-09-28T11:52:59.624008+08:00.hyperlinks.json) |
 | [September 27 at 11:06 PM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-09-27T23:06:43.886362+08:00.hyperlinks.json) |
 | [September 27 at 11:35 AM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-09-27T11:35:09.858781+08:00.hyperlinks.json) |
-| [September 26 at 11:10 PM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-09-26T23:10:30.764938+08:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 120 accessibility trees with the Internet Archive.
+The archiving routine has saved 121 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 11:07 PM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-10-01T23:06:53.273467+08:00.accessibility.json) |
 | [October 1 at 11:53 AM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-10-01T11:53:42.221571+08:00.accessibility.json) |
 | [October 1 at 12:19 AM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-10-01T00:19:24.274363+08:00.accessibility.json) |
 | [September 30 at 11:56 AM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-09-30T11:56:43.064517+08:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 28 at 11:53 AM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-09-28T11:52:59.624008+08:00.accessibility.json) |
 | [September 27 at 11:06 PM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-09-27T23:06:43.886362+08:00.accessibility.json) |
 | [September 27 at 11:35 AM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-09-27T11:35:09.858781+08:00.accessibility.json) |
-| [September 26 at 11:10 PM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-09-26T23:10:30.764938+08:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 119 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 120 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 11:07 PM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-10-01T23:06:53.273467+08:00.lighthouse.json) |
 | [October 1 at 11:53 AM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-10-01T11:53:42.221571+08:00.lighthouse.json) |
 | [October 1 at 12:19 AM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-10-01T00:19:24.274363+08:00.lighthouse.json) |
 | [September 30 at 11:56 AM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-09-30T11:56:43.064517+08:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 28 at 11:53 AM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-09-28T11:52:59.624008+08:00.lighthouse.json) |
 | [September 27 at 11:06 PM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-09-27T23:06:43.886362+08:00.lighthouse.json) |
 | [September 27 at 11:35 AM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-09-27T11:35:09.858781+08:00.lighthouse.json) |
-| [September 26 at 11:10 PM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-09-26T23:10:30.764938+08:00.lighthouse.json) |
 
 
 

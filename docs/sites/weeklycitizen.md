@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 21 screenshots with the Internet Archive.
+The archiving routine has saved 22 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-10-01T11:12:52.549000-05:00.jpg">
+  <img src="https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-10-01T11:12:52.549000-05:00.jpg"
+     alt="Gonzales Weekly Citizen at 2022-10-01 11:12:54-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-10-01T11:12:52.549000-05:00.jpg">October 1 at 11:12 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-09-30T23:44:16.796145-05:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-09-25T23:50:28.413207-05:00.jpg">September 25 at 11:50 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-09-25T10:55:10.937298-05:00.jpg">
-  <img src="https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-09-25T10:55:10.937298-05:00.jpg"
-     alt="Gonzales Weekly Citizen at 2022-09-25 10:55:12-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-09-25T10:55:10.937298-05:00.jpg">September 25 at 10:55 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 21 hyperlink lists with the Internet Archive.
+The archiving routine has saved 22 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 11:12 AM](https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-10-01T11:12:52.549000-05:00.hyperlinks.json) |
 | [September 30 at 11:44 PM](https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-09-30T23:44:16.796145-05:00.hyperlinks.json) |
 | [September 30 at 11:38 AM](https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-09-30T11:38:46.491574-05:00.hyperlinks.json) |
 | [September 30 at 1:14 AM](https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-09-30T01:14:30.820245-05:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 28 at 1:07 AM](https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-09-28T01:07:36.251347-05:00.hyperlinks.json) |
 | [September 27 at 11:08 AM](https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-09-27T11:08:19.207613-05:00.hyperlinks.json) |
 | [September 26 at 11:32 PM](https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-09-26T23:32:47.919168-05:00.hyperlinks.json) |
-| [September 26 at 11:09 AM](https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-09-26T11:09:20.644227-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 21 accessibility trees with the Internet Archive.
+The archiving routine has saved 22 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 11:12 AM](https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-10-01T11:12:52.549000-05:00.accessibility.json) |
 | [September 30 at 11:44 PM](https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-09-30T23:44:16.796145-05:00.accessibility.json) |
 | [September 30 at 11:38 AM](https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-09-30T11:38:46.491574-05:00.accessibility.json) |
 | [September 30 at 1:14 AM](https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-09-30T01:14:30.820245-05:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 28 at 1:07 AM](https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-09-28T01:07:36.251347-05:00.accessibility.json) |
 | [September 27 at 11:08 AM](https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-09-27T11:08:19.207613-05:00.accessibility.json) |
 | [September 26 at 11:32 PM](https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-09-26T23:32:47.919168-05:00.accessibility.json) |
-| [September 26 at 11:09 AM](https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-09-26T11:09:20.644227-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 21 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 11:12 AM](https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-10-01T11:12:52.549000-05:00.lighthouse.json) |
 | [September 30 at 11:44 PM](https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-09-30T23:44:16.796145-05:00.lighthouse.json) |
 | [September 30 at 11:38 AM](https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-09-30T11:38:46.491574-05:00.lighthouse.json) |
 | [September 30 at 1:14 AM](https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-09-30T01:14:30.820245-05:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 28 at 1:07 AM](https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-09-28T01:07:36.251347-05:00.lighthouse.json) |
 | [September 27 at 11:08 AM](https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-09-27T11:08:19.207613-05:00.lighthouse.json) |
 | [September 26 at 11:32 PM](https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-09-26T23:32:47.919168-05:00.lighthouse.json) |
-| [September 26 at 11:09 AM](https://archive.org/download/weeklycitizen-2022/weeklycitizen-2022-09-26T11:09:20.644227-05:00.lighthouse.json) |
 
 
 
