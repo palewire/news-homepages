@@ -1,5 +1,5 @@
 {
-  "created": 1664555042,
+  "created": 1664581781,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/21/items/chicagoreporter-2022",
@@ -16149,31 +16149,93 @@
       "format": "JSON"
     },
     {
+      "name": "chicagoreporter-2022-09-30T11:22:42.535715-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chicagoreporter-2022-09-30T11:22:42.535715-05:00.jpg",
+      "mtime": "1664558819",
+      "size": "8955",
+      "md5": "8760bf1ab3057e74a1b98fc62ae06f03",
+      "crc32": "b53459df",
+      "sha1": "0abd0adf953bf2a97cf2ddd7ee7ef166d546427c"
+    },
+    {
+      "name": "chicagoreporter-2022-09-30T18:48:27.367631-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664581711",
+      "size": "18972",
+      "md5": "82521babe14a473bf6ea67da051a5793",
+      "crc32": "89b57287",
+      "sha1": "d2a3c13d3a587548679be37eccc71840e8410164",
+      "format": "JSON"
+    },
+    {
+      "name": "chicagoreporter-2022-09-30T18:48:27.367631-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664581713",
+      "size": "17251",
+      "md5": "cef40291576945227c09d0cc283f0937",
+      "crc32": "fbe5c355",
+      "sha1": "d99e14dcb4a4098ae96d8265ebd56b9744d88d10",
+      "format": "JSON"
+    },
+    {
+      "name": "chicagoreporter-2022-09-30T18:48:27.367631-05:00.jpg",
+      "source": "original",
+      "mtime": "1664581709",
+      "size": "244227",
+      "md5": "dce5a80ab77513216bf391f7b81312b6",
+      "crc32": "a007d304",
+      "sha1": "2121c2e5b8d6b6299f64dfc4425a16620bf801a6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chicagoreporter-2022-09-30T18:48:27.367631-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664581715",
+      "size": "1531",
+      "md5": "aedd3fc75c018cf66904b37d3261f71c",
+      "crc32": "2cba22f8",
+      "sha1": "8fa95495e8456fcb17d62a9ed2666942f372f08a",
+      "format": "JSON"
+    },
+    {
+      "name": "chicagoreporter-2022-09-30T18:48:27.367631-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664581717",
+      "size": "12282",
+      "md5": "e9e4c9b3606288d7954bad1b09566105",
+      "crc32": "ee1d370c",
+      "sha1": "22ec4cccee2bf75ae42ad06a39f9ce1da93508ea",
+      "format": "JSON"
+    },
+    {
       "name": "chicagoreporter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3fd1939f78bd34a473e5ae7048d886409477f4e7",
-      "mtime": "1664555038",
-      "size": "338817",
-      "md5": "7741042ea5bed97814378f0b85da4111",
-      "crc32": "b1b19f9a",
-      "sha1": "2ce13527503345843ce49e5c918b9d3ad29a44d3",
+      "btih": "e5b9f787fc77601cc710863917194a488903a31b",
+      "mtime": "1664581776",
+      "size": "340126",
+      "md5": "b2aec99706460fd361daa4cee247b099",
+      "crc32": "51350cdf",
+      "sha1": "02123d662ddbfa85eaeff2015ea7e5c4484c8b11",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chicagoreporter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3b2f0d6a7e5ba37834b441909c0d3b13",
+      "md5": "c0898e035783858aae43ae95ef797d9d",
       "summation": "md5"
     },
     {
       "name": "chicagoreporter-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664554982",
-      "size": "1949696",
-      "md5": "df9e55fe3293cb729e7d76178a1c12c2",
-      "crc32": "2607e044",
-      "sha1": "21d80341896edbb01eb3f47b039c0fcee097dbd2",
+      "mtime": "1664581721",
+      "size": "1953792",
+      "md5": "1f2cd38a801b9a0ad789e77df40cb4fa",
+      "crc32": "4f3f7298",
+      "sha1": "3eb49a2f1ddf907fcfaa66ded2578403833429db",
       "format": "Metadata"
     },
     {
@@ -16187,9 +16249,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1559,
-  "item_last_updated": 1664555038,
-  "item_size": 93490012,
+  "files_count": 1565,
+  "item_last_updated": 1664581776,
+  "item_size": 93798635,
   "metadata": {
     "identifier": "chicagoreporter-2022",
     "collection": [
@@ -16211,15 +16273,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3423637746,
+      "task_id": 3423969726,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 734945527,
+  "uniq": 364606595,
   "workable_servers": [
     "ia902508.us.archive.org"
   ]
