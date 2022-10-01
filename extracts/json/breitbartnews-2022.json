@@ -1,5 +1,5 @@
 {
-  "created": 1664621694,
+  "created": 1664653648,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/13/items/breitbartnews-2022",
@@ -20761,31 +20761,93 @@
       "format": "JSON"
     },
     {
+      "name": "breitbartnews-2022-10-01T06:53:24.252551-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "breitbartnews-2022-10-01T06:53:24.252551-04:00.jpg",
+      "mtime": "1664624703",
+      "size": "9995",
+      "md5": "d7c5535df7915664d33dc625be8d640b",
+      "crc32": "2573861e",
+      "sha1": "c149d80e475139cfb7abf5080af8a1e05ef8cfc1"
+    },
+    {
+      "name": "breitbartnews-2022-10-01T15:45:46.564887-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664653569",
+      "size": "51101",
+      "md5": "b4d73b622a7cdb46b72fca3bf407bd30",
+      "crc32": "58127b6d",
+      "sha1": "65bac04b044568a1045f00e88e1ba34b145af201",
+      "format": "JSON"
+    },
+    {
+      "name": "breitbartnews-2022-10-01T15:45:46.564887-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664653571",
+      "size": "55814",
+      "md5": "4d5f021520020d3dc58fd46152ef5d55",
+      "crc32": "a1cdce9b",
+      "sha1": "d9d892fe1f4f384f8a757e1738417c5168c0f13b",
+      "format": "JSON"
+    },
+    {
+      "name": "breitbartnews-2022-10-01T15:45:46.564887-04:00.jpg",
+      "source": "original",
+      "mtime": "1664653567",
+      "size": "328017",
+      "md5": "c49f54b30c8c1d3853d879facc046ca0",
+      "crc32": "c52a9dc5",
+      "sha1": "8dcf1adf86e9db6ebd301aa0d629057f2d1a7876",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "breitbartnews-2022-10-01T15:45:46.564887-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664653573",
+      "size": "1486",
+      "md5": "4ef71ed7a8de773d5782fd01c35c48dd",
+      "crc32": "4891f404",
+      "sha1": "870aeefcdf5f5ed6c9a7d827cbd2fcc8e69e61cf",
+      "format": "JSON"
+    },
+    {
+      "name": "breitbartnews-2022-10-01T15:45:46.564887-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664653575",
+      "size": "38120",
+      "md5": "c2f37f7c4778c261dc33a6105e4ca21f",
+      "crc32": "7e933056",
+      "sha1": "0388a1cb5d5056e7e23a21aa1bd628bc856d457d",
+      "format": "JSON"
+    },
+    {
       "name": "breitbartnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "93b614f173621271b1cf385c9f8a6bb2d348d45d",
-      "mtime": "1664621689",
-      "size": "432122",
-      "md5": "7893db863a94c1968939b69b325acd9e",
-      "crc32": "0aeb000e",
-      "sha1": "9af46dd6b75494cf733fa67f5d03e7fa2920dbca",
+      "btih": "3b2f13fcf797803a20cbc0ce380305bfa2e0dcea",
+      "mtime": "1664653643",
+      "size": "433419",
+      "md5": "972f16bfa42d1ed1b8d5fc6360efb9a2",
+      "crc32": "c7a6642c",
+      "sha1": "053e6b68941f5b7ae61b0e6219828bfa33807dca",
       "format": "Archive BitTorrent"
     },
     {
       "name": "breitbartnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6db0a4e6b7f86cee5deb77985080fc22",
+      "md5": "f46aa051ab05589e018d64a3203ff9e4",
       "summation": "md5"
     },
     {
       "name": "breitbartnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664621626",
-      "size": "2453504",
-      "md5": "0ce23648e6564039ec5989fdd99cb877",
-      "crc32": "3f1397ee",
-      "sha1": "05067fbf6efc08676b346583084b003c4eef4429",
+      "mtime": "1664653578",
+      "size": "2461696",
+      "md5": "a9d742a0a93ac88eab17e4f8c8214d87",
+      "crc32": "2eecfa51",
+      "sha1": "b0ecf20ffb95b34431adf89aad4e977fa873590e",
       "format": "Metadata"
     },
     {
@@ -20799,9 +20861,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1998,
-  "item_last_updated": 1664621689,
-  "item_size": 176147037,
+  "files_count": 2004,
+  "item_last_updated": 1664653643,
+  "item_size": 176641059,
   "metadata": {
     "identifier": "breitbartnews-2022",
     "collection": [
@@ -20823,7 +20885,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3424561825,
+      "task_id": 3424983076,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -20831,7 +20893,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 134736026,
+  "uniq": 901020310,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]
