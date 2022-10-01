@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 21 screenshots with the Internet Archive.
+The archiving routine has saved 22 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/progressindex-2022/progressindex-2022-10-01T10:09:46.781667-04:00.jpg">
+  <img src="https://archive.org/download/progressindex-2022/progressindex-2022-10-01T10:09:46.781667-04:00.jpg"
+     alt="The Progress-Index at 2022-10-01 10:09:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/progressindex-2022/progressindex-2022-10-01T10:09:46.781667-04:00.jpg">October 1 at 10:09 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/progressindex-2022/progressindex-2022-09-30T22:35:03.576416-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/progressindex-2022/progressindex-2022-09-25T22:17:33.071264-04:00.jpg">September 25 at 10:17 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/progressindex-2022/progressindex-2022-09-25T09:52:50.138277-04:00.jpg">
-  <img src="https://archive.org/download/progressindex-2022/progressindex-2022-09-25T09:52:50.138277-04:00.jpg"
-     alt="The Progress-Index at 2022-09-25 09:52:52-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/progressindex-2022/progressindex-2022-09-25T09:52:50.138277-04:00.jpg">September 25 at 9:52 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 21 hyperlink lists with the Internet Archive.
+The archiving routine has saved 22 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 10:09 AM](https://archive.org/download/progressindex-2022/progressindex-2022-10-01T10:09:46.781667-04:00.hyperlinks.json) |
 | [September 30 at 10:35 PM](https://archive.org/download/progressindex-2022/progressindex-2022-09-30T22:35:03.576416-04:00.hyperlinks.json) |
 | [September 30 at 10:18 AM](https://archive.org/download/progressindex-2022/progressindex-2022-09-30T10:18:50.940149-04:00.hyperlinks.json) |
 | [September 29 at 10:43 PM](https://archive.org/download/progressindex-2022/progressindex-2022-09-29T22:43:46.859236-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 10:28 PM](https://archive.org/download/progressindex-2022/progressindex-2022-09-27T22:27:53.764028-04:00.hyperlinks.json) |
 | [September 27 at 10:08 AM](https://archive.org/download/progressindex-2022/progressindex-2022-09-27T10:08:40.318475-04:00.hyperlinks.json) |
 | [September 26 at 10:16 PM](https://archive.org/download/progressindex-2022/progressindex-2022-09-26T22:15:59.123355-04:00.hyperlinks.json) |
-| [September 26 at 10:06 AM](https://archive.org/download/progressindex-2022/progressindex-2022-09-26T10:06:01.441304-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 21 accessibility trees with the Internet Archive.
+The archiving routine has saved 22 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 10:09 AM](https://archive.org/download/progressindex-2022/progressindex-2022-10-01T10:09:46.781667-04:00.accessibility.json) |
 | [September 30 at 10:35 PM](https://archive.org/download/progressindex-2022/progressindex-2022-09-30T22:35:03.576416-04:00.accessibility.json) |
 | [September 30 at 10:18 AM](https://archive.org/download/progressindex-2022/progressindex-2022-09-30T10:18:50.940149-04:00.accessibility.json) |
 | [September 29 at 10:43 PM](https://archive.org/download/progressindex-2022/progressindex-2022-09-29T22:43:46.859236-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 10:27 PM](https://archive.org/download/progressindex-2022/progressindex-2022-09-27T22:27:53.764028-04:00.accessibility.json) |
 | [September 27 at 10:08 AM](https://archive.org/download/progressindex-2022/progressindex-2022-09-27T10:08:40.318475-04:00.accessibility.json) |
 | [September 26 at 10:16 PM](https://archive.org/download/progressindex-2022/progressindex-2022-09-26T22:15:59.123355-04:00.accessibility.json) |
-| [September 26 at 10:06 AM](https://archive.org/download/progressindex-2022/progressindex-2022-09-26T10:06:01.441304-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 21 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 10:09 AM](https://archive.org/download/progressindex-2022/progressindex-2022-10-01T10:09:46.781667-04:00.lighthouse.json) |
 | [September 30 at 10:35 PM](https://archive.org/download/progressindex-2022/progressindex-2022-09-30T22:35:03.576416-04:00.lighthouse.json) |
 | [September 30 at 10:18 AM](https://archive.org/download/progressindex-2022/progressindex-2022-09-30T10:18:50.940149-04:00.lighthouse.json) |
 | [September 29 at 10:43 PM](https://archive.org/download/progressindex-2022/progressindex-2022-09-29T22:43:46.859236-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 10:28 PM](https://archive.org/download/progressindex-2022/progressindex-2022-09-27T22:27:53.764028-04:00.lighthouse.json) |
 | [September 27 at 10:08 AM](https://archive.org/download/progressindex-2022/progressindex-2022-09-27T10:08:40.318475-04:00.lighthouse.json) |
 | [September 26 at 10:16 PM](https://archive.org/download/progressindex-2022/progressindex-2022-09-26T22:15:59.123355-04:00.lighthouse.json) |
-| [September 26 at 10:06 AM](https://archive.org/download/progressindex-2022/progressindex-2022-09-26T10:06:01.441304-04:00.lighthouse.json) |
 
 
 

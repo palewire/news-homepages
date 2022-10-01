@@ -231,7 +231,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 128 hyperlink lists with the Internet Archive.
+The archiving routine has saved 129 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 7:52 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-10-01T19:52:39.372176+05:45.hyperlinks.json) |
 | [September 29 at 7:49 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-09-29T19:49:42.235977+05:45.hyperlinks.json) |
 | [September 26 at 7:48 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-09-26T19:48:13.175954+05:45.hyperlinks.json) |
 | [September 25 at 7:55 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-09-25T07:55:12.163086+05:45.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 23 at 8:02 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-09-23T08:02:45.965414+05:45.hyperlinks.json) |
 | [September 22 at 7:49 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-09-22T19:49:46.547366+05:45.hyperlinks.json) |
 | [September 22 at 8:00 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-09-22T08:00:13.728113+05:45.hyperlinks.json) |
-| [September 21 at 7:46 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-09-21T19:45:57.479571+05:45.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 125 accessibility trees with the Internet Archive.
+The archiving routine has saved 126 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 7:52 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-10-01T19:52:39.372176+05:45.accessibility.json) |
 | [September 26 at 7:48 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-09-26T19:48:13.175954+05:45.accessibility.json) |
 | [September 25 at 7:55 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-09-25T07:55:12.163086+05:45.accessibility.json) |
 | [September 24 at 7:38 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-09-24T19:38:18.424174+05:45.accessibility.json) |
@@ -436,7 +437,6 @@ Here are the 10 most recent accessibility trees.
 | [September 22 at 7:49 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-09-22T19:49:46.547366+05:45.accessibility.json) |
 | [September 22 at 8:00 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-09-22T08:00:13.728113+05:45.accessibility.json) |
 | [September 21 at 7:46 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-09-21T19:45:57.479571+05:45.accessibility.json) |
-| [September 21 at 8:05 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-09-21T08:05:13.949098+05:45.accessibility.json) |
 
 
 
