@@ -1,5 +1,5 @@
 {
-  "created": 1664550783,
+  "created": 1664591561,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/18/items/newyorker-2022",
@@ -11226,31 +11226,82 @@
       "sha1": "cfe0bacb7c2667d075ac9c0f669e3b61ad0e0322"
     },
     {
+      "name": "newyorker-2022-09-30T22:31:18.272782-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664591483",
+      "size": "47474",
+      "md5": "926d324183cf010b8939f1c7a7b4429c",
+      "crc32": "50dbddf3",
+      "sha1": "a2f097ac1ef49608b37859e3346d5b5b9c58df71",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-09-30T22:31:18.272782-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664591485",
+      "size": "26605",
+      "md5": "299d2e20610bc327ae59a0200810f9c9",
+      "crc32": "e4b9e3d6",
+      "sha1": "4cc1e45fdad2219ba76a9b04acdc8e52f192fd8f",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-09-30T22:31:18.272782-04:00.jpg",
+      "source": "original",
+      "mtime": "1664591480",
+      "size": "288050",
+      "md5": "5838317fb682e1f51e5987edbe795582",
+      "crc32": "aceb35b9",
+      "sha1": "e394e9b6d6e2d1202046e3e727da1ea5c7f458de",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newyorker-2022-09-30T22:31:18.272782-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664591486",
+      "size": "1486",
+      "md5": "f9259c7f80b2c6e110c45bbdc5f7bf80",
+      "crc32": "afc7ecd2",
+      "sha1": "92c8b4eb7580d7451dc51d142b587a0643bf5c73",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-09-30T22:31:18.272782-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664591488",
+      "size": "60853",
+      "md5": "96aab63370837aff2c3c67e5f6613b73",
+      "crc32": "348f84d4",
+      "sha1": "f255c4b02a1a92929d875934f0d3809900b07540",
+      "format": "JSON"
+    },
+    {
       "name": "newyorker-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6f8a763d2a521c672ad0b78b2a0527e650e4e874",
-      "mtime": "1664549535",
-      "size": "229877",
-      "md5": "8a8134233d25520a180496e2d39a1c78",
-      "crc32": "be736f5e",
-      "sha1": "6eda3e7da50a5fa7cb491e9a528f7edb12838f54",
+      "btih": "1980dbae6d8cdfdc440ac2f806f415ea76e6784d",
+      "mtime": "1664591550",
+      "size": "230945",
+      "md5": "cfb2d9b2cb6d03ec457b19c1a5adeed2",
+      "crc32": "ddf57194",
+      "sha1": "28748f1333aeb0fb700adfbacda2c1937ccd189b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newyorker-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "89654f9491f5afd0f7b41efb1b344035",
+      "md5": "8bab00f06fb242b9abe2418efb37e3b8",
       "summation": "md5"
     },
     {
       "name": "newyorker-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664547370",
-      "size": "1339392",
-      "md5": "af069997df82044476dd29a175ec2c9b",
-      "crc32": "368a31df",
-      "sha1": "46af1e38c276c9c4d10131c9e21c891ae6cf587c",
+      "mtime": "1664591494",
+      "size": "1347584",
+      "md5": "cf850b21e990abdcfd224fb7583c23d9",
+      "crc32": "0bcf78f6",
+      "sha1": "3a12bd95b3f0aa4e50fe08adf800759f4f94dd87",
       "format": "Metadata"
     },
     {
@@ -11264,9 +11315,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1084,
-  "item_last_updated": 1664549535,
-  "item_size": 83827151,
+  "files_count": 1089,
+  "item_last_updated": 1664591550,
+  "item_size": 84260879,
   "metadata": {
     "identifier": "newyorker-2022",
     "collection": [
@@ -11283,15 +11334,21 @@
     "publicdate": "2022-06-24 22:58:35",
     "addeddate": "2022-06-24 22:58:35"
   },
-  "newyorker-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "pending_tasks": true,
   "server": "ia601503.us.archive.org",
-  "uniq": 1418774681,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3424148396,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1192060578,
   "workable_servers": [
-    "ia601503.us.archive.org",
-    "ia801503.us.archive.org"
+    "ia601503.us.archive.org"
   ]
 }

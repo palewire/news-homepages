@@ -1,5 +1,5 @@
 {
-  "created": 1664549800,
+  "created": 1664591821,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/21/items/reforma-2022",
@@ -5680,31 +5680,82 @@
       "sha1": "cbfd8581527fd0776bdcc4b6ba638b196d66e983"
     },
     {
+      "name": "reforma-2022-09-30T21:35:57.303336-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664591770",
+      "size": "1028",
+      "md5": "21a7f8610ef342b4e1b471d5d0d4eb0d",
+      "crc32": "a46a00db",
+      "sha1": "e075e7ea1b124df6986a18bf7aba6e906aefcce6",
+      "format": "JSON"
+    },
+    {
+      "name": "reforma-2022-09-30T21:35:57.303336-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664591771",
+      "size": "34561",
+      "md5": "a2940d959c9adad5aaaf44df5c6cef06",
+      "crc32": "c8432720",
+      "sha1": "ac66ebd1a9db84fd2903ea5c1550736dd05ea829",
+      "format": "JSON"
+    },
+    {
+      "name": "reforma-2022-09-30T21:35:57.303336-05:00.jpg",
+      "source": "original",
+      "mtime": "1664591768",
+      "size": "283630",
+      "md5": "92d33f7f25654ba9f2f7950083248521",
+      "crc32": "d94cf502",
+      "sha1": "819a3f07f02d98110001ecadd913bf56724ce39e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reforma-2022-09-30T21:35:57.303336-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664591773",
+      "size": "1441",
+      "md5": "51395df202bcc3986648f4515b05bf0d",
+      "crc32": "c34ec642",
+      "sha1": "47faff8b1c59409dadb1074d0ec443872e9df9fa",
+      "format": "JSON"
+    },
+    {
+      "name": "reforma-2022-09-30T21:35:57.303336-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664591774",
+      "size": "30243",
+      "md5": "01a34a9893843de013b9684b8ec6758e",
+      "crc32": "6faf4f0f",
+      "sha1": "5e68f812d13f631fa265c77f1ac5471ee543835b",
+      "format": "JSON"
+    },
+    {
       "name": "reforma-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3651748ec8c9554d8e5b3670a9829ab28e8e8ca9",
-      "mtime": "1664549779",
-      "size": "116171",
-      "md5": "6e6908c48747407bde2f141cc900be01",
-      "crc32": "cf507168",
-      "sha1": "450d362086caf3be6208d715867d19d354c3d43f",
+      "btih": "842c52d23ab300789fb0cad9cc53891c6e1e07fa",
+      "mtime": "1664591818",
+      "size": "117208",
+      "md5": "1b034c8c58984677f8e17cdf2746535a",
+      "crc32": "d058abdb",
+      "sha1": "ac0a1200ea74e3ccf1c2520d2d9a3e9e01948bdb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reforma-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "43b44f8dee8103959cf38a7d4a541ad9",
+      "md5": "180ee7913c4c4eb6035a0a076b719361",
       "summation": "md5"
     },
     {
       "name": "reforma-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664547671",
-      "size": "712704",
-      "md5": "c0f6e014f5664b7763144c970cd5cdf5",
-      "crc32": "54262a1a",
-      "sha1": "ae8b32fae9174206a4caab20a622aa432002f020",
+      "mtime": "1664591779",
+      "size": "720896",
+      "md5": "0d4709b96dcbcef412da7fae0ec15b31",
+      "crc32": "d522c179",
+      "sha1": "b0f44ddabcf0cc69012e51b8ca826596132d6c8a",
       "format": "Metadata"
     },
     {
@@ -5718,9 +5769,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 553,
-  "item_last_updated": 1664549779,
-  "item_size": 33721577,
+  "files_count": 558,
+  "item_last_updated": 1664591818,
+  "item_size": 34081709,
   "metadata": {
     "identifier": "reforma-2022",
     "collection": [
@@ -5737,10 +5788,21 @@
     "publicdate": "2022-08-16 17:11:28",
     "addeddate": "2022-08-16 17:11:28"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 1608995657,
+  "pending_tasks": true,
+  "server": "ia902503.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3424151977,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1702800259,
   "workable_servers": [
-    "ia802503.us.archive.org",
     "ia902503.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1664549818,
+  "created": 1664591818,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/24/items/pokjournal-2022",
@@ -1246,31 +1246,82 @@
       "sha1": "e139faf53a711d67853b338ab779fbccce251ea7"
     },
     {
+      "name": "pokjournal-2022-09-30T22:36:05.146107-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664591768",
+      "size": "20846",
+      "md5": "0ffcb1fbde318c9b9cdb5145e831a20c",
+      "crc32": "f0769c9e",
+      "sha1": "45e7386514552c5d98c7eafd35d1ee4536053033",
+      "format": "JSON"
+    },
+    {
+      "name": "pokjournal-2022-09-30T22:36:05.146107-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664591770",
+      "size": "39227",
+      "md5": "575490326363033f4df013c556cc5409",
+      "crc32": "9fecfe5e",
+      "sha1": "37e66fc64f2c6b5ffe96fda19b4a08dea78f5d40",
+      "format": "JSON"
+    },
+    {
+      "name": "pokjournal-2022-09-30T22:36:05.146107-04:00.jpg",
+      "source": "original",
+      "mtime": "1664591767",
+      "size": "262818",
+      "md5": "4ecc4ec3357b1201926297e4910a9a95",
+      "crc32": "b9ed5f95",
+      "sha1": "5bd37aafa7f246317f894fbcd3d7d30e2667c1cf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pokjournal-2022-09-30T22:36:05.146107-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664591772",
+      "size": "1576",
+      "md5": "4989942583419e42b45a40dafe81157b",
+      "crc32": "50f31ce2",
+      "sha1": "9c3c758e4ef617c63cd010083b9caa55ca508bbb",
+      "format": "JSON"
+    },
+    {
+      "name": "pokjournal-2022-09-30T22:36:05.146107-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664591775",
+      "size": "122266",
+      "md5": "a04b46d9df6903196e6680f5b278ab53",
+      "crc32": "fb0fa6ad",
+      "sha1": "8056189e7eb2daebe28fcedfc279c76b09e4c6a7",
+      "format": "JSON"
+    },
+    {
       "name": "pokjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3fad08a259f3bc091bbc4b9aaf0bf06fbf1ad010",
-      "mtime": "1664549646",
-      "size": "26886",
-      "md5": "a0a1c8991338db422e16db94b6a4fceb",
-      "crc32": "3d9de4d8",
-      "sha1": "45e011bcf163fdc476420a1f1465e47f922bcb93",
+      "btih": "f85e2e44c5e9440cb64dd6db3bbbdb87a1b6dcb4",
+      "mtime": "1664591814",
+      "size": "27960",
+      "md5": "e74813d85f98cb8979d067315d6080aa",
+      "crc32": "c37e1cbe",
+      "sha1": "99c4254d5038efcd02655d7ef322958dce75f9d8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pokjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "598486a80daa3d0e5e4501dcdb178730",
+      "md5": "b0dfc47ae83ad32ed7ee793ea0ae216f",
       "summation": "md5"
     },
     {
       "name": "pokjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664547486",
-      "size": "172032",
-      "md5": "417d3dc484178613025cf411486b62a0",
-      "crc32": "ae44b63e",
-      "sha1": "61d4d67d62ad78f8f646a87ac0201cb9c38b4d71",
+      "mtime": "1664591779",
+      "size": "180224",
+      "md5": "9af6cb7aeddab8baa8d248bd05573bcc",
+      "crc32": "05983901",
+      "sha1": "25f3477ae42c4b7284ed5f3348b052989b7e4828",
       "format": "Metadata"
     },
     {
@@ -1284,9 +1335,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 124,
-  "item_last_updated": 1664549646,
-  "item_size": 7660493,
+  "files_count": 129,
+  "item_last_updated": 1664591814,
+  "item_size": 8116492,
   "metadata": {
     "identifier": "pokjournal-2022",
     "collection": [
@@ -1303,10 +1354,21 @@
     "publicdate": "2022-09-21 02:22:39",
     "addeddate": "2022-09-21 02:22:39"
   },
-  "server": "ia801504.us.archive.org",
-  "uniq": 1822729564,
+  "pending_tasks": true,
+  "server": "ia601504.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3424151956,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1317760378,
   "workable_servers": [
-    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

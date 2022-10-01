@@ -1,5 +1,5 @@
 {
-  "created": 1664550022,
+  "created": 1664591879,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/26/items/pointreyeslight-2022",
@@ -11096,31 +11096,82 @@
       "sha1": "e8769d08dc558f9a06ac823ce441f0a4bee3e3fd"
     },
     {
+      "name": "pointreyeslight-2022-09-30T19:36:20.034171-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664591786",
+      "size": "1108",
+      "md5": "195f8245d30c1279abbb5e1af8fba545",
+      "crc32": "7f4e299c",
+      "sha1": "f644db826e09dc1eed63886cb72957f35aa06e6a",
+      "format": "JSON"
+    },
+    {
+      "name": "pointreyeslight-2022-09-30T19:36:20.034171-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664591787",
+      "size": "5125",
+      "md5": "e5b2a226083c2a3302eb25e6656d9310",
+      "crc32": "c5446883",
+      "sha1": "cd088cb770a7cbe9d450b676d015c819281d7ad1",
+      "format": "JSON"
+    },
+    {
+      "name": "pointreyeslight-2022-09-30T19:36:20.034171-07:00.jpg",
+      "source": "original",
+      "mtime": "1664591784",
+      "size": "254501",
+      "md5": "7be5df3dea14f486f893e0dcf4a2128f",
+      "crc32": "7f0574a9",
+      "sha1": "2cb1b8ff715fcf191c741a3f8f9b65d5cdea5a4e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pointreyeslight-2022-09-30T19:36:20.034171-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664591788",
+      "size": "1513",
+      "md5": "ce80065b5a08de5a717f4fbe1f7796a7",
+      "crc32": "0f42c330",
+      "sha1": "3e5c9905478fe0918b3f7f67531bdb116938cd29",
+      "format": "JSON"
+    },
+    {
+      "name": "pointreyeslight-2022-09-30T19:36:20.034171-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664591790",
+      "size": "6059",
+      "md5": "7f2c097fc8392dbfeb5afd6327032541",
+      "crc32": "1de9c146",
+      "sha1": "a3e758289174f84eb8a59d8ba532c9df9d9126f4",
+      "format": "JSON"
+    },
+    {
       "name": "pointreyeslight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f7fb7824223f574f6b681ae181c2b292c4a1359e",
-      "mtime": "1664549831",
-      "size": "232232",
-      "md5": "40cc16989232a547974d8242c7f5135d",
-      "crc32": "56d227c9",
-      "sha1": "353956f47358896491d3b6ce5e2adb86d737889b",
+      "btih": "bad84c3e222e4398f5a80b249644eb4cf41065e2",
+      "mtime": "1664591860",
+      "size": "233327",
+      "md5": "a774cb31077eef38366237ae765fcead",
+      "crc32": "3f33233f",
+      "sha1": "a03afee49db6a8caadfaefa9eadc8e0d40631902",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pointreyeslight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "91cf998797b588b987962cbc5ce55096",
+      "md5": "4ca7a8e512812686680d68d398fd0ef6",
       "summation": "md5"
     },
     {
       "name": "pointreyeslight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664547554",
-      "size": "1343488",
-      "md5": "e30d5a46959b42922c39c5a959e7d4ad",
-      "crc32": "609389e8",
-      "sha1": "55a5504f85ecf49416361c0047c61b8bf8f327aa",
+      "mtime": "1664591802",
+      "size": "1347584",
+      "md5": "0991b7d7b302c7cae939d5fcbaff3fef",
+      "crc32": "10d12a8b",
+      "sha1": "3aba77aef2cb0eeae37de000ec22f9528d968a1a",
       "format": "Metadata"
     },
     {
@@ -11134,9 +11185,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1072,
-  "item_last_updated": 1664549831,
-  "item_size": 56767505,
+  "files_count": 1077,
+  "item_last_updated": 1664591860,
+  "item_size": 57041002,
   "metadata": {
     "identifier": "pointreyeslight-2022",
     "collection": [
@@ -11153,10 +11204,21 @@
     "publicdate": "2022-06-30 20:48:29",
     "addeddate": "2022-06-30 20:48:29"
   },
+  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "uniq": 1279797719,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3424152639,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 922026731,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia601408.us.archive.org"
   ]
 }

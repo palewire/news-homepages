@@ -1,6 +1,5 @@
 {
-  "conflict": 1664550825,
-  "created": 1664550825,
+  "created": 1664592009,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/19/items/rollingstone-2022",
@@ -11121,31 +11120,82 @@
       "sha1": "d441da2174a8fc88447388cf886c0a6dea33c59f"
     },
     {
+      "name": "rollingstone-2022-09-30T22:38:42.820394-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664591925",
+      "size": "28255",
+      "md5": "8aac34abce3ada2179999d38899c5e3c",
+      "crc32": "0b06743c",
+      "sha1": "2eaf9972971a3276b0130ddcc7211557f990bd28",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-09-30T22:38:42.820394-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664591926",
+      "size": "41518",
+      "md5": "eb41dc75371e9b691297082f1412805d",
+      "crc32": "6bf79ed0",
+      "sha1": "67c7d88f24dac679a0ea934873adbdcf820033ca",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-09-30T22:38:42.820394-04:00.jpg",
+      "source": "original",
+      "mtime": "1664591923",
+      "size": "365297",
+      "md5": "fc438de6d54b8db35ee50cc2e8e94344",
+      "crc32": "da674050",
+      "sha1": "2217dc478810315fe089704014e0550d23101869",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rollingstone-2022-09-30T22:38:42.820394-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664591930",
+      "size": "1513",
+      "md5": "0216cdee14c4dadb76ba086e8ab012f5",
+      "crc32": "afd7a97e",
+      "sha1": "25a695dd30f17707522f9fdbf847e1fe0064d363",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-09-30T22:38:42.820394-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664591934",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "rollingstone-2022_archive.torrent",
       "source": "metadata",
-      "btih": "09e548820c6ca83be202786362c5b3e403316b33",
-      "mtime": "1664550822",
-      "size": "231585",
-      "md5": "d72aff3690098e15b965d72cb6d44ed1",
-      "crc32": "ca927030",
-      "sha1": "a8f162761d927a69701034113a9fd83e12ed380a",
+      "btih": "2cf851d58aea46a043b85f877faac0662e32069a",
+      "mtime": "1664591995",
+      "size": "232666",
+      "md5": "42a8bc83c6306a01d34d5a74fb07df51",
+      "crc32": "74cabd18",
+      "sha1": "7b1b254095b118187cea39c0e9c0a66e6c400d15",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rollingstone-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fcbedea0037060410e0f018399911fee",
+      "md5": "8af9fbf74f3e9d364b969c3a23254a49",
       "summation": "md5"
     },
     {
       "name": "rollingstone-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664547759",
-      "size": "1331200",
-      "md5": "9c48eea8ed3f8ce00b4df0d34ddd78cd",
-      "crc32": "9effbb60",
-      "sha1": "7e2e4ab4b46b1968a25603abb9c5f10c5f6cec12",
+      "mtime": "1664591939",
+      "size": "1335296",
+      "md5": "5c83aa1ecfc75261964ac36b7fefebb9",
+      "crc32": "ffcdff49",
+      "sha1": "0b4b671909eb9db602efaae78d88176e2951fb9f",
       "format": "Metadata"
     },
     {
@@ -11159,9 +11209,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1073,
-  "item_last_updated": 1664550822,
-  "item_size": 100025005,
+  "files_count": 1078,
+  "item_last_updated": 1664591995,
+  "item_size": 100466967,
   "metadata": {
     "identifier": "rollingstone-2022",
     "collection": [
@@ -11183,23 +11233,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3423531189,
+      "task_id": 3424154243,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3423575763,
-      "cmd": "bup.php",
-      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 785242552,
+  "uniq": 959216515,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]

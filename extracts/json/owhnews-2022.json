@@ -1,5 +1,5 @@
 {
-  "created": 1664550823,
+  "created": 1664591715,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/15/items/owhnews-2022",
@@ -7616,31 +7616,82 @@
       "sha1": "719e3118f2bdec0ad57023b40bfdbb98693ba6a7"
     },
     {
+      "name": "owhnews-2022-09-30T21:34:15.421866-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664591663",
+      "size": "26368",
+      "md5": "668064184e7c747a07a3763ae9acfbdb",
+      "crc32": "ff3d2bbd",
+      "sha1": "52b928b3690ff30b165957a9961c91da84c11b92",
+      "format": "JSON"
+    },
+    {
+      "name": "owhnews-2022-09-30T21:34:15.421866-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664591666",
+      "size": "81637",
+      "md5": "e3b2ef2812d2edc18087c5c5f9a5dc38",
+      "crc32": "6e42e230",
+      "sha1": "1491c65388f86bed0d17492ee151e0010daa5b59",
+      "format": "JSON"
+    },
+    {
+      "name": "owhnews-2022-09-30T21:34:15.421866-05:00.jpg",
+      "source": "original",
+      "mtime": "1664591661",
+      "size": "285959",
+      "md5": "a1f48fc776612f944521f6680576f919",
+      "crc32": "f039c97f",
+      "sha1": "ad22c01804219c3b908a21335397905caa75207b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "owhnews-2022-09-30T21:34:15.421866-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664591667",
+      "size": "1411",
+      "md5": "cc99567fbd3b353da9682cff0f05a97f",
+      "crc32": "6d8bf57a",
+      "sha1": "217d7210f63668b4a9a9c3e916f747d2a395b62c",
+      "format": "JSON"
+    },
+    {
+      "name": "owhnews-2022-09-30T21:34:15.421866-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664591669",
+      "size": "49802",
+      "md5": "3adc65bbc1ee887d2f349382f66623e1",
+      "crc32": "47ac2a03",
+      "sha1": "b7d3a7ed21cb85c276a4435217a487ca263e5115",
+      "format": "JSON"
+    },
+    {
       "name": "owhnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "51437d4e3c8573ba813d1227ab595503df42a19d",
-      "mtime": "1664549983",
-      "size": "155938",
-      "md5": "feae1bc58444504c01016b4fd25a1740",
-      "crc32": "50834816",
-      "sha1": "dfd68b218a523766f497588c2f97630dd29d54b7",
+      "btih": "6ec6424262b80db38ce373f6c14d389982f022e1",
+      "mtime": "1664591711",
+      "size": "156996",
+      "md5": "56ef007b9e9ad4b6549ab5c868d0a445",
+      "crc32": "4e6cbf38",
+      "sha1": "bb6597819ea9a290f36713a3727c79cfb2c36905",
       "format": "Archive BitTorrent"
     },
     {
       "name": "owhnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8323bb47ab9b39e4201b1b1692500185",
+      "md5": "e8a86bce7b862b44942c467bd7c7fa3c",
       "summation": "md5"
     },
     {
       "name": "owhnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664547490",
-      "size": "946176",
-      "md5": "3099c920e095a4f805d030a064c171ff",
-      "crc32": "16257c2d",
-      "sha1": "d76170da13c5e0b0ef4f86976269e663691eff04",
+      "mtime": "1664591672",
+      "size": "950272",
+      "md5": "431e7c73944bd094cd8462e7593e5906",
+      "crc32": "5409bdd2",
+      "sha1": "1b61bc087b4ed6614fe6f9cb9c248e0042dc8f9c",
       "format": "Metadata"
     },
     {
@@ -7654,9 +7705,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 740,
-  "item_last_updated": 1664549983,
-  "item_size": 59480490,
+  "files_count": 745,
+  "item_last_updated": 1664591711,
+  "item_size": 59930821,
   "metadata": {
     "identifier": "owhnews-2022",
     "collection": [
@@ -7673,36 +7724,20 @@
     "publicdate": "2022-07-30 16:33:37",
     "addeddate": "2022-07-30 16:33:37"
   },
-  "owhnews-2022": {
-    "url": "https://omaha.com/",
-    "job_id": "spn2-cbf03c67a0ad936d433ea1cffe13e50b9ac5b7df",
-    "message": "Job failed.",
-    "status_ext": "error:job-failed",
-    "status": "error",
-    "resources": []
-  },
   "pending_tasks": true,
   "server": "ia902509.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3423526822,
+      "task_id": 3424150635,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3423559848,
-      "cmd": "bup.php",
-      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 610708950,
+  "uniq": 262054750,
   "workable_servers": [
     "ia902509.us.archive.org"
   ]

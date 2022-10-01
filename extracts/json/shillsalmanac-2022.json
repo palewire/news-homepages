@@ -1,5 +1,5 @@
 {
-  "created": 1664550215,
+  "created": 1664591950,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/15/items/shillsalmanac-2022",
@@ -7584,31 +7584,82 @@
       "sha1": "2e1153279cd06da720a59fe5ee36c69fe1f2c32e"
     },
     {
+      "name": "shillsalmanac-2022-09-30T22:38:08.266852-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664591897",
+      "size": "24805",
+      "md5": "5978594126cabaec143c8b0d3e00a87b",
+      "crc32": "38316e09",
+      "sha1": "9521f2e5836c461831ce120673a134a801c67b99",
+      "format": "JSON"
+    },
+    {
+      "name": "shillsalmanac-2022-09-30T22:38:08.266852-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664591900",
+      "size": "38885",
+      "md5": "d7a32f504df6bf6376e858f4d742ee5a",
+      "crc32": "6d644fbe",
+      "sha1": "92132fb1b9048cf65961ff37ad301a699d012417",
+      "format": "JSON"
+    },
+    {
+      "name": "shillsalmanac-2022-09-30T22:38:08.266852-04:00.jpg",
+      "source": "original",
+      "mtime": "1664591894",
+      "size": "253760",
+      "md5": "c9ea6b35837d8ce31860883c97648458",
+      "crc32": "83daad09",
+      "sha1": "b6b84adeff19b390551a1d516f1d483ae19fb1ab",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "shillsalmanac-2022-09-30T22:38:08.266852-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664591902",
+      "size": "1459",
+      "md5": "a145b2d0d1a4c0356fffd274280bfcbd",
+      "crc32": "ae889f18",
+      "sha1": "8efc2c0403329844b51072443ffd542b41d421fe",
+      "format": "JSON"
+    },
+    {
+      "name": "shillsalmanac-2022-09-30T22:38:08.266852-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664591903",
+      "size": "26386",
+      "md5": "db018aadff4e6b6205ab355a3fafc057",
+      "crc32": "8fd90634",
+      "sha1": "ab5c3c150b4c870211622f1e3e31d96303a25618",
+      "format": "JSON"
+    },
+    {
       "name": "shillsalmanac-2022_archive.torrent",
       "source": "metadata",
-      "btih": "560df234acb827ef977cb2b00f4363ec3dfe3774",
-      "mtime": "1664549961",
-      "size": "158550",
-      "md5": "6e6dedaed600042bfc88726684233b67",
-      "crc32": "66a37665",
-      "sha1": "43129c4203d04d97890a9478d01c8ae00f9dcd63",
+      "btih": "2cb4eab2ff5c3069c0bcb1cb395a9ecad49afa4f",
+      "mtime": "1664591946",
+      "size": "159638",
+      "md5": "50938e08f10238949ea31f7d8ded4d32",
+      "crc32": "62ce54ff",
+      "sha1": "2d6eb873662afccc5c97997e0c2be9fc699d29eb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "shillsalmanac-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e643b25a851535c6834b9b016373d63f",
+      "md5": "5f26a061714b8262e466bcc8eb4e1a77",
       "summation": "md5"
     },
     {
       "name": "shillsalmanac-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664547718",
-      "size": "933888",
-      "md5": "531fac9b0e1fc768631fe9dde4bf4135",
-      "crc32": "0f0fea13",
-      "sha1": "c2506419eec94c8497172eca5d4b543499d0b37b",
+      "mtime": "1664591908",
+      "size": "942080",
+      "md5": "5dddaa05dbdee295386aecbe159fe028",
+      "crc32": "1778c78f",
+      "sha1": "90a46fe0b027170788836960e5434860104312ed",
       "format": "Metadata"
     },
     {
@@ -7622,9 +7673,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 735,
-  "item_last_updated": 1664549961,
-  "item_size": 47611718,
+  "files_count": 740,
+  "item_last_updated": 1664591946,
+  "item_size": 47966293,
   "metadata": {
     "identifier": "shillsalmanac-2022",
     "collection": [
@@ -7641,10 +7692,21 @@
     "publicdate": "2022-07-26 00:25:03",
     "addeddate": "2022-07-26 00:25:03"
   },
+  "pending_tasks": true,
   "server": "ia902500.us.archive.org",
-  "uniq": 1707476103,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3424153508,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 492545656,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia902500.us.archive.org"
   ]
 }

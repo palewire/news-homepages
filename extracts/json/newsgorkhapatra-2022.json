@@ -1,5 +1,5 @@
 {
-  "created": 1664549411,
+  "created": 1664591531,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/0/items/newsgorkhapatra-2022",
@@ -7572,31 +7572,41 @@
       "format": "JSON"
     },
     {
+      "name": "newsgorkhapatra-2022-10-01T08:16:11.429904+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1664591483",
+      "size": "106",
+      "md5": "15076212b5d405637ca84eba22cf3878",
+      "crc32": "07a6e255",
+      "sha1": "1a78df38ac943bdfc07d4649991881e0e917caaf",
+      "format": "JSON"
+    },
+    {
       "name": "newsgorkhapatra-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dc3634f86c3d60579d629c17eef276d80a3e1ffa",
-      "mtime": "1664547350",
-      "size": "160966",
-      "md5": "d7d831d76cb99f80531971e97896ab18",
-      "crc32": "5f5e4eeb",
-      "sha1": "83b1d86cb11e7a5ea53eb8f3af26abde4fee478d",
+      "btih": "b76772ba8c0217bc2d4497396b95b09fa502a610",
+      "mtime": "1664591528",
+      "size": "161179",
+      "md5": "5416a5974555032cf1b238f5dec89f16",
+      "crc32": "5e5b37dd",
+      "sha1": "a16c299e45759c4d45e8005fb46c92b155d431c4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newsgorkhapatra-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ba00b2e4cbf4906d61448367405bde4c",
+      "md5": "5740860da788c195683e7cdcc25752f9",
       "summation": "md5"
     },
     {
       "name": "newsgorkhapatra-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664547313",
+      "mtime": "1664591490",
       "size": "954368",
-      "md5": "d176bf19f8827ebddbff9cb9fa09280b",
-      "crc32": "1b49bb2d",
-      "sha1": "12cd8164fc689c17587e4ed479b220126046c9c7",
+      "md5": "9b17aff76d624faa7a1dd5fef1c590db",
+      "crc32": "893d0668",
+      "sha1": "64fdde989738774e0db7e20f2f78d62018ed04a2",
       "format": "Metadata"
     },
     {
@@ -7610,9 +7620,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 736,
-  "item_last_updated": 1664547350,
-  "item_size": 56892589,
+  "files_count": 737,
+  "item_last_updated": 1664591528,
+  "item_size": 56892908,
   "metadata": {
     "identifier": "newsgorkhapatra-2022",
     "collection": [
@@ -7629,10 +7639,21 @@
     "publicdate": "2022-07-24 20:39:26",
     "addeddate": "2022-07-24 20:39:26"
   },
-  "server": "ia802501.us.archive.org",
-  "uniq": 2072454451,
+  "pending_tasks": true,
+  "server": "ia902501.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3424147901,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 143371357,
   "workable_servers": [
-    "ia802501.us.archive.org",
     "ia902501.us.archive.org"
   ]
 }
