@@ -1,5 +1,5 @@
 {
-  "created": 1664564915,
+  "created": 1664607158,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/1/items/humansofny-2022",
@@ -8430,31 +8430,93 @@
       "sha1": "2666f8eefe24507bbcb624aff3797eb156fdd7a1"
     },
     {
+      "name": "humansofny-2022-10-01T02:16:19.910709-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664604983",
+      "size": "2190",
+      "md5": "b7a06cba358058809e25269f89a3a0f4",
+      "crc32": "e44e264a",
+      "sha1": "5ac2d42dc30bcf3597b6c6081b5379a1a193406c",
+      "format": "JSON"
+    },
+    {
+      "name": "humansofny-2022-10-01T02:16:19.910709-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664604985",
+      "size": "1366",
+      "md5": "bb681b85453068c6eea27cd4abc506ee",
+      "crc32": "fd3b4771",
+      "sha1": "dc8c692057797512255650d3221752b27a4b883e",
+      "format": "JSON"
+    },
+    {
+      "name": "humansofny-2022-10-01T02:16:19.910709-04:00.jpg",
+      "source": "original",
+      "mtime": "1664604981",
+      "size": "120916",
+      "md5": "00baa6211d8df0773c4449b6ea4d8590",
+      "crc32": "0e87bf53",
+      "sha1": "b43d79f8cce5c7b075c1f1d659beb04df02903a8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humansofny-2022-10-01T02:16:19.910709-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664604986",
+      "size": "1540",
+      "md5": "14335b963b6d7481d81e0fdd213ab960",
+      "crc32": "633bacec",
+      "sha1": "a0b0fd08fdbb924b41f7a7b6267340f26fd18c08",
+      "format": "JSON"
+    },
+    {
+      "name": "humansofny-2022-10-01T02:16:19.910709-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664604988",
+      "size": "5312",
+      "md5": "2469919ee4055a0de5b12c1a270f9ee2",
+      "crc32": "930bb0f6",
+      "sha1": "703a12affdedce3bc90290c5806da7026eb14c4f",
+      "format": "JSON"
+    },
+    {
+      "name": "humansofny-2022-10-01T02:16:19.910709-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humansofny-2022-10-01T02:16:19.910709-04:00.jpg",
+      "mtime": "1664606927",
+      "size": "8467",
+      "md5": "e91d1b23ad805f1fab4f29a74dea7edf",
+      "crc32": "c97494a1",
+      "sha1": "bad7fad7d4ab50ab92df62a9faea99f89ae25251"
+    },
+    {
       "name": "humansofny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3b6bcbef709b03faf2941f03e9eaba7f8cf30d4e",
-      "mtime": "1664564768",
-      "size": "172841",
-      "md5": "7bf5445d019ebebc6e876e3903e20ffe",
-      "crc32": "9798546a",
-      "sha1": "9b93becba962447e344dcf7c1ef2df519d4fa737",
+      "btih": "ebdf57ca9b33694b80dc00537bd80f044b46b241",
+      "mtime": "1664606949",
+      "size": "174097",
+      "md5": "73ae47b1f3f0471b9bd95a1ca00cde14",
+      "crc32": "9352b4c5",
+      "sha1": "2821843c2d1112b5e9a9f2d85133242e762689a7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "humansofny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f6d4b48007e4ed65b601fdd551b3cb8a",
+      "md5": "730f5e854aa9e44e271bfccf450f1609",
       "summation": "md5"
     },
     {
       "name": "humansofny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664561240",
-      "size": "1044480",
-      "md5": "9b5d5543ca447a474efff14cc1733c91",
-      "crc32": "73f82794",
-      "sha1": "5aa71ed2e81dda73af7ea7ac72eee491916eca3b",
+      "mtime": "1664604997",
+      "size": "1052672",
+      "md5": "46371cfc512c6e89d3e2f926ce411af5",
+      "crc32": "ab093f29",
+      "sha1": "f2a18e1e9eddea3cb44870f9670f2ee8efdbb1e1",
       "format": "Metadata"
     },
     {
@@ -8468,9 +8530,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 818,
-  "item_last_updated": 1664564768,
-  "item_size": 24471883,
+  "files_count": 824,
+  "item_last_updated": 1664606949,
+  "item_size": 24621122,
   "metadata": {
     "identifier": "humansofny-2022",
     "collection": [
@@ -8488,7 +8550,7 @@
     "addeddate": "2022-07-21 02:25:52"
   },
   "server": "ia601506.us.archive.org",
-  "uniq": 1189381813,
+  "uniq": 1029051123,
   "workable_servers": [
     "ia601506.us.archive.org",
     "ia801506.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1664564961,
+  "created": 1664607759,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/0/items/kpcwradio-2022",
@@ -9488,31 +9488,93 @@
       "sha1": "d752834b65a74d05b23d1b032bb185c4b87b8f3f"
     },
     {
+      "name": "kpcwradio-2022-10-01T00:16:25.839888-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664604993",
+      "size": "19387",
+      "md5": "e5a1a6b2f387f5d566c4b4b09a5da507",
+      "crc32": "13680f1d",
+      "sha1": "b4232a688fc5d985b1d3dacda5c616d01470a6a9",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-01T00:16:25.839888-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664604996",
+      "size": "36707",
+      "md5": "88f29e6b31c3eab7269e8cc8fb7aadff",
+      "crc32": "0543b5f0",
+      "sha1": "1ba0d0ca7665cfa9f764a4bbeb812c43abb99fbe",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-01T00:16:25.839888-06:00.jpg",
+      "source": "original",
+      "mtime": "1664604990",
+      "size": "304251",
+      "md5": "e08498914357aaaa445551533470cb0c",
+      "crc32": "a8baa623",
+      "sha1": "74bfbbc2428c4ad344b96f8c1bb5fd437dbe0392",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcwradio-2022-10-01T00:16:25.839888-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664604998",
+      "size": "1439",
+      "md5": "70211999e1755b8c53d416bc4d8264a5",
+      "crc32": "029bfe88",
+      "sha1": "a82e88977b0d8958a4bd269d11306a53caaf2ebc",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-01T00:16:25.839888-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1664605000",
+      "size": "14412",
+      "md5": "4ca35a8c52fc06d588832bf091101fa0",
+      "crc32": "407476c7",
+      "sha1": "068cc7e8a82769710228cfcbd80e0ea2a68efa87",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-01T00:16:25.839888-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcwradio-2022-10-01T00:16:25.839888-06:00.jpg",
+      "mtime": "1664607499",
+      "size": "10570",
+      "md5": "ffaecc31a007691eb1e5688ba9e13f99",
+      "crc32": "baa7ecce",
+      "sha1": "dec6869c67bd73c90d8fc219b9947c35fc357e63"
+    },
+    {
       "name": "kpcwradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "812bedca297ef51d556b32ea421a3d1033b124e5",
-      "mtime": "1664564909",
-      "size": "194797",
-      "md5": "a210c0d03f083b7be15ffa444ce7a957",
-      "crc32": "c87731db",
-      "sha1": "00bca5020af3e1ad302abf828b71fc8c2eefaf6e",
+      "btih": "70069f40c743993a01c579de40223c82f991bb40",
+      "mtime": "1664607548",
+      "size": "196071",
+      "md5": "43381b0906ba3e0e074d3603358e6d15",
+      "crc32": "1530096d",
+      "sha1": "4bf549cc3fe7e8c9bd40d03cacc590f634d9a775",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpcwradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bfd51c5d2cfa5582a043aa9b45feac80",
+      "md5": "e81a579df5742042190adf2f1227e550",
       "summation": "md5"
     },
     {
       "name": "kpcwradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664561881",
-      "size": "1159168",
-      "md5": "846c26b3c36b376967933df406cb6d6d",
-      "crc32": "d252637e",
-      "sha1": "e53b420415aeea9c3e27151ea184fbdba0004da8",
+      "mtime": "1664605010",
+      "size": "1163264",
+      "md5": "600b6db629906cb820301588183fb541",
+      "crc32": "ea520ac2",
+      "sha1": "1f1c0789f16a61c34120c0efde28aa51c5b88a7b",
       "format": "Metadata"
     },
     {
@@ -9526,9 +9588,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 919,
-  "item_last_updated": 1664564909,
-  "item_size": 59836542,
+  "files_count": 925,
+  "item_last_updated": 1664607548,
+  "item_size": 60228678,
   "metadata": {
     "identifier": "kpcwradio-2022",
     "collection": [
@@ -9546,7 +9608,7 @@
     "addeddate": "2022-07-09 04:00:05"
   },
   "server": "ia801500.us.archive.org",
-  "uniq": 546294997,
+  "uniq": 469620786,
   "workable_servers": [
     "ia801500.us.archive.org",
     "ia601500.us.archive.org"

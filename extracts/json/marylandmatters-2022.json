@@ -1,5 +1,5 @@
 {
-  "created": 1664564990,
+  "created": 1664610541,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/33/items/marylandmatters-2022",
@@ -16158,31 +16158,93 @@
       "sha1": "569f39ce3000f702e15592811897fa695a031421"
     },
     {
+      "name": "marylandmatters-2022-10-01T02:18:44.779728-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664605136",
+      "size": "16373",
+      "md5": "8328ca3a69a4d8d9b0cb1a724043c0cd",
+      "crc32": "677b6492",
+      "sha1": "a6140e87e3d628c5545f24977ffb071c0f8536a3",
+      "format": "JSON"
+    },
+    {
+      "name": "marylandmatters-2022-10-01T02:18:44.779728-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664605139",
+      "size": "18476",
+      "md5": "c5b0a76fef5d020fc237cf80ac3ab5af",
+      "crc32": "2e9402dd",
+      "sha1": "2ad9ffb54d9e9109a78c01922cf23a4bcd6275ca",
+      "format": "JSON"
+    },
+    {
+      "name": "marylandmatters-2022-10-01T02:18:44.779728-04:00.jpg",
+      "source": "original",
+      "mtime": "1664605133",
+      "size": "349988",
+      "md5": "e35a3fb7b5d9a74bf1b214d71c19c1c2",
+      "crc32": "8dcc41ee",
+      "sha1": "356f3e6b7491b21aea0960ee5cd3bead0949ead9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "marylandmatters-2022-10-01T02:18:44.779728-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664605141",
+      "size": "1540",
+      "md5": "d3fa93af5d8541c0a3b63002100eb7cc",
+      "crc32": "eae5c828",
+      "sha1": "8b7c60cdcac9715d63803e7218b5ecc18ba1cbf1",
+      "format": "JSON"
+    },
+    {
+      "name": "marylandmatters-2022-10-01T02:18:44.779728-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664605143",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "marylandmatters-2022-10-01T02:18:44.779728-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "marylandmatters-2022-10-01T02:18:44.779728-04:00.jpg",
+      "mtime": "1664607051",
+      "size": "10200",
+      "md5": "de4d00e8c18f05cff6f2b4f662d59fe1",
+      "crc32": "771ef59d",
+      "sha1": "3a616f920d00fe7a2972c7e798ae1e5646aa9cb9"
+    },
+    {
       "name": "marylandmatters-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d455b71bd14daec860dc0b49942ca6367646f0c8",
-      "mtime": "1664564926",
-      "size": "339394",
-      "md5": "db8ccf13bd89a2d85f8e12f7ade65755",
-      "crc32": "5fe53dd0",
-      "sha1": "10ecd64cb054fd1356206744ba93656296f47745",
+      "btih": "5972ac2d1f21e9ee49cff58ef3629678fa6fed27",
+      "mtime": "1664607079",
+      "size": "340682",
+      "md5": "6cd66d8a3f948e311370ab2cee3d063c",
+      "crc32": "2f752c61",
+      "sha1": "165cbd585ddeaa9773e00d32c98da75eef69af32",
       "format": "Archive BitTorrent"
     },
     {
       "name": "marylandmatters-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "734adbb8723374e123be981eeffc359a",
+      "md5": "d10169b5da9e2dc210ce17471bf591a2",
       "summation": "md5"
     },
     {
       "name": "marylandmatters-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664561841",
-      "size": "1892352",
-      "md5": "cc97ec2ffc64ac82992f4ecae3fc8d72",
-      "crc32": "732fcec4",
-      "sha1": "b6fc5b41472a35338a4eddfcbe56c897d95743b2",
+      "mtime": "1664605146",
+      "size": "1904640",
+      "md5": "168473479e8be95b528002d8ce6f1246",
+      "crc32": "32fc4d7a",
+      "sha1": "638e11f942f841a64d99ec600658cc11ccabc4fd",
       "format": "Metadata"
     },
     {
@@ -16196,9 +16258,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1554,
-  "item_last_updated": 1664564926,
-  "item_size": 136237876,
+  "files_count": 1560,
+  "item_last_updated": 1664607079,
+  "item_size": 136648231,
+  "marylandmatters-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "marylandmatters-2022",
     "collection": [
@@ -16216,7 +16283,7 @@
     "addeddate": "2022-03-31 13:13:28"
   },
   "server": "ia802505.us.archive.org",
-  "uniq": 1765120679,
+  "uniq": 2062838745,
   "workable_servers": [
     "ia802505.us.archive.org",
     "ia902505.us.archive.org"

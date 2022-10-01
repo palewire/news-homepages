@@ -1,5 +1,5 @@
 {
-  "created": 1664564945,
+  "created": 1664607645,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/6/items/lajornadaonline-2022",
@@ -5660,31 +5660,93 @@
       "sha1": "a8ac5a055a7a5899ff5b944ecf4ea498b1701acf"
     },
     {
+      "name": "lajornadaonline-2022-10-01T01:18:25.616699-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664605112",
+      "size": "5116",
+      "md5": "6dcff1359cc9c208257b7f57f91023f8",
+      "crc32": "cf800ee0",
+      "sha1": "657fdd938885de4f695572e9a141c2a29125c39b",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornadaonline-2022-10-01T01:18:25.616699-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664605116",
+      "size": "8780",
+      "md5": "a4e9bd7073001e684a52fa7e9bf49952",
+      "crc32": "9db5c77c",
+      "sha1": "6ec03b37cb4197ebba96337b5021d23f665d88d6",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornadaonline-2022-10-01T01:18:25.616699-05:00.jpg",
+      "source": "original",
+      "mtime": "1664605109",
+      "size": "203985",
+      "md5": "7a903dff87ab32e3d90d9a24a58b3165",
+      "crc32": "987dce0e",
+      "sha1": "6e2a676404d2847f554194659c4122617a0c1ac7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lajornadaonline-2022-10-01T01:18:25.616699-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664605119",
+      "size": "1494",
+      "md5": "2fcb999cec91860a45184568190ef206",
+      "crc32": "2b908952",
+      "sha1": "ba100b9d1b8331210a26d1dc6efa137ca7aaffca",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornadaonline-2022-10-01T01:18:25.616699-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664605121",
+      "size": "24972",
+      "md5": "ba549a33b7753535cfcb7e1d68156d75",
+      "crc32": "9b6e7794",
+      "sha1": "a1217f283fd2c00292557cb8e7a3665cbd66d793",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornadaonline-2022-10-01T01:18:25.616699-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lajornadaonline-2022-10-01T01:18:25.616699-05:00.jpg",
+      "mtime": "1664606984",
+      "size": "8934",
+      "md5": "2c54873ccb3d998ac1099845bd837e84",
+      "crc32": "63400a74",
+      "sha1": "55efe10e499a6e8a1f81f51ec65289c6348482cd"
+    },
+    {
       "name": "lajornadaonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9303abbc22a5f69d997337a9c5c803d424704a33",
-      "mtime": "1664564904",
-      "size": "119510",
-      "md5": "21450bea94c89c2cb98ba1250d2ea59d",
-      "crc32": "8bb51822",
-      "sha1": "43dfcdad790a8ee4b51f4b8caeec980d62f6bc3d",
+      "btih": "cc05678985e6920bd94ba65f268c1e571ee67bb0",
+      "mtime": "1664607025",
+      "size": "120817",
+      "md5": "f2d3d493bc6e7289d972bede2e063242",
+      "crc32": "c06e6ee6",
+      "sha1": "80b16151f2be4e7774455180c53092de49d9d061",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lajornadaonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3adae68385fdccf35581d1856521ae88",
+      "md5": "4fcb736baf0a549424665adcf02477b1",
       "summation": "md5"
     },
     {
       "name": "lajornadaonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664561875",
-      "size": "720896",
-      "md5": "fd61265653a24bb32c13230d5f0a3053",
-      "crc32": "168b934c",
-      "sha1": "45c374aa1c2eccb6a266fe741d6f9a1baf42398f",
+      "mtime": "1664605126",
+      "size": "724992",
+      "md5": "90634cc137e1592cd250e4f70329c970",
+      "crc32": "ebfa0014",
+      "sha1": "8d6357446191ea1ffea8f08b63d678bca2c95fbc",
       "format": "Metadata"
     },
     {
@@ -5698,9 +5760,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 551,
-  "item_last_updated": 1664564904,
-  "item_size": 20410807,
+  "files_count": 557,
+  "item_last_updated": 1664607025,
+  "item_size": 20669491,
   "metadata": {
     "identifier": "lajornadaonline-2022",
     "collection": [
@@ -5718,7 +5780,7 @@
     "addeddate": "2022-08-16 17:11:32"
   },
   "server": "ia601408.us.archive.org",
-  "uniq": 1019997476,
+  "uniq": 1522732554,
   "workable_servers": [
     "ia601408.us.archive.org",
     "ia801408.us.archive.org"

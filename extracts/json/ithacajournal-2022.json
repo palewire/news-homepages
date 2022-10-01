@@ -1,5 +1,5 @@
 {
-  "created": 1664564413,
+  "created": 1664610402,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/30/items/ithacajournal-2022",
@@ -1308,31 +1308,93 @@
       "sha1": "d2f00b718dac139c4a588a188c1912e1cb872ebf"
     },
     {
+      "name": "ithacajournal-2022-10-01T02:15:34.756842-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664604938",
+      "size": "21739",
+      "md5": "cfba5ad876bd9ab93dde7505a824e250",
+      "crc32": "27a249ba",
+      "sha1": "62f2a35c50c2c5381bdbd5bdac2311c18f602a1b",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-01T02:15:34.756842-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664604940",
+      "size": "32032",
+      "md5": "6341e44bf4f562b18b52574dc76f51f1",
+      "crc32": "cb6fca36",
+      "sha1": "0e805c5b0f46370a1977a5969e8b4aa09af3562b",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-01T02:15:34.756842-04:00.jpg",
+      "source": "original",
+      "mtime": "1664604937",
+      "size": "242534",
+      "md5": "686ba8754164e0068da47c78a0dd4c30",
+      "crc32": "2662f614",
+      "sha1": "400bfea1e80244c573d7cbe142cd6e2ea370fd9f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ithacajournal-2022-10-01T02:15:34.756842-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664604942",
+      "size": "1522",
+      "md5": "936067f5216242dd7bd4149d5fdabcae",
+      "crc32": "c0a1afbb",
+      "sha1": "793bc57dd1ecd71c6dc9b79408c17bebceeddbdd",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-01T02:15:34.756842-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664604946",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-01T02:15:34.756842-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ithacajournal-2022-10-01T02:15:34.756842-04:00.jpg",
+      "mtime": "1664607261",
+      "size": "9007",
+      "md5": "f7f57de7fc9f1c9f8ba076db06b3c981",
+      "crc32": "2c82f66c",
+      "sha1": "fda9d1f026c962ff53119056cf3664319e2111b2"
+    },
+    {
       "name": "ithacajournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "586a8cf755259609540ca37a07070e724ce83b64",
-      "mtime": "1664564384",
-      "size": "28596",
-      "md5": "10958e2c9939d11fc5309651e5006efb",
-      "crc32": "d5d0a337",
-      "sha1": "e735ee4f66b3548279ca8a10c39b47255fed53f4",
+      "btih": "332773d4aa319fe5cbde6a209af73c91514db381",
+      "mtime": "1664607266",
+      "size": "29891",
+      "md5": "e67d0c527e66f116086fab7795370dfb",
+      "crc32": "32cfcd76",
+      "sha1": "8947bef231070c1e4b31f4a8a9722cd66a0fe6f9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ithacajournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "87992cbd94015211a37ad04cde9c530c",
+      "md5": "d751e151fb102bf7b1e6da82f12cc06a",
       "summation": "md5"
     },
     {
       "name": "ithacajournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664561237",
-      "size": "184320",
-      "md5": "6210bdf6640cc68bf1c14e0518e1f8cf",
-      "crc32": "22276fe4",
-      "sha1": "48cd1c97d04faad12a3f3377465ac9848d37ef86",
+      "mtime": "1664604950",
+      "size": "192512",
+      "md5": "5301c6a29667a80a82f240a9917fc043",
+      "crc32": "03bfd268",
+      "sha1": "8110e45729b1e8a5349767e747ecb07c7375ffce",
       "format": "Metadata"
     },
     {
@@ -1346,9 +1408,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 130,
-  "item_last_updated": 1664564384,
-  "item_size": 8784934,
+  "files_count": 136,
+  "item_last_updated": 1664607266,
+  "item_size": 9101457,
+  "ithacajournal-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "ithacajournal-2022",
     "collection": [
@@ -1365,10 +1432,10 @@
     "publicdate": "2022-09-20 17:31:27",
     "addeddate": "2022-09-20 17:31:27"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 927555182,
+  "server": "ia601501.us.archive.org",
+  "uniq": 1523590159,
   "workable_servers": [
-    "ia801501.us.archive.org",
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }
