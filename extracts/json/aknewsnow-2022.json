@@ -1,5 +1,5 @@
 {
-  "created": 1664579768,
+  "created": 1664621385,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/26/items/aknewsnow-2022",
@@ -2310,31 +2310,82 @@
       "sha1": "69d0185be6d5a2a07109b2653ccf1494da51f3ea"
     },
     {
+      "name": "aknewsnow-2022-10-01T02:48:52.975482-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664621337",
+      "size": "39728",
+      "md5": "d82ed2a0948e14ef661ff967c2e29b7c",
+      "crc32": "218c88a3",
+      "sha1": "d784668abe5444d238f0eb99f3bc42b8dcaedd3d",
+      "format": "JSON"
+    },
+    {
+      "name": "aknewsnow-2022-10-01T02:48:52.975482-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664621338",
+      "size": "27404",
+      "md5": "907dcac5b2aece1ca1db2a7d3c404c34",
+      "crc32": "bc958b62",
+      "sha1": "0418611265556e4cfa2c92dae56853d7aee888da",
+      "format": "JSON"
+    },
+    {
+      "name": "aknewsnow-2022-10-01T02:48:52.975482-08:00.jpg",
+      "source": "original",
+      "mtime": "1664621335",
+      "size": "382819",
+      "md5": "b7eaa5d8d794d3af5f6f704d985f77b2",
+      "crc32": "67b4eb46",
+      "sha1": "aec757a119134ca4923f1d9c04682d4b3f0c0b73",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aknewsnow-2022-10-01T02:48:52.975482-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664621340",
+      "size": "1558",
+      "md5": "e1ceac859788b3b07801d71c09c7934b",
+      "crc32": "22b93022",
+      "sha1": "0cf4e4d184b1039604bfa2c73c24939183bdca4b",
+      "format": "JSON"
+    },
+    {
+      "name": "aknewsnow-2022-10-01T02:48:52.975482-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1664621341",
+      "size": "41084",
+      "md5": "e23c205e98f5ac18b9e28b6f3897ac1e",
+      "crc32": "30a79d15",
+      "sha1": "bc3ecd86fdfc637dc8cc197b20ac8eebfaba5673",
+      "format": "JSON"
+    },
+    {
       "name": "aknewsnow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c0507775d09aa91af44355e6988fd9c672b61e8c",
-      "mtime": "1664579755",
-      "size": "48741",
-      "md5": "52128434384ebc85ac4da186ca40d815",
-      "crc32": "e3d46df6",
-      "sha1": "c51f3c299fd1985f10dade09104061b9880d9f2b",
+      "btih": "eba5e4f661a77ab5da4a8a22f242b89010d4ff03",
+      "mtime": "1664621381",
+      "size": "49809",
+      "md5": "105136bb93712390f1e4a148576ba697",
+      "crc32": "fa7740fc",
+      "sha1": "bb5b818862caf660fa10527cae5ba957b2617f4c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aknewsnow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d113965bc09094f3ecf431d0a8bfdd7b",
+      "md5": "a21072c4c169dfdaff90396023f079d8",
       "summation": "md5"
     },
     {
       "name": "aknewsnow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664578790",
-      "size": "303104",
-      "md5": "ba78e699b1e1bf638721c89ab537c89a",
-      "crc32": "ec865ecc",
-      "sha1": "52e77f60656afdc80a391702e3e4712b662dc6bd",
+      "mtime": "1664621346",
+      "size": "311296",
+      "md5": "d80d98251203f135724e69eca23a2ae5",
+      "crc32": "7ae414b9",
+      "sha1": "c25afc73b0764ade7b4de438a578dce1e5e21f76",
       "format": "Metadata"
     },
     {
@@ -2348,9 +2399,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 227,
-  "item_last_updated": 1664579755,
-  "item_size": 18954756,
+  "files_count": 232,
+  "item_last_updated": 1664621381,
+  "item_size": 19456609,
   "metadata": {
     "identifier": "aknewsnow-2022",
     "collection": [
@@ -2367,10 +2418,21 @@
     "publicdate": "2022-09-12 22:57:53",
     "addeddate": "2022-09-12 22:57:53"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 1475397883,
+  "pending_tasks": true,
+  "server": "ia601501.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3424557428,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 574260185,
   "workable_servers": [
-    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

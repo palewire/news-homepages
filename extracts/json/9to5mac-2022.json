@@ -1,5 +1,5 @@
 {
-  "created": 1664579876,
+  "created": 1664621373,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/34/items/9to5mac-2022",
@@ -8323,31 +8323,82 @@
       "sha1": "65ba9d7652d13fdf6da658cb6f8dace089e88d46"
     },
     {
+      "name": "9to5mac-2022-10-01T03:48:34.898622-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664621318",
+      "size": "67748",
+      "md5": "0b927b26810703e1428d039326221c13",
+      "crc32": "7dedb0aa",
+      "sha1": "60c766006aebd6d516185f06a568dcee35cbdf64",
+      "format": "JSON"
+    },
+    {
+      "name": "9to5mac-2022-10-01T03:48:34.898622-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664621320",
+      "size": "59601",
+      "md5": "ae1a869359388fcc6405cc80dca49e9b",
+      "crc32": "23fa8a05",
+      "sha1": "bdd33a31d22e6859abb80fd2f64302d97996b78a",
+      "format": "JSON"
+    },
+    {
+      "name": "9to5mac-2022-10-01T03:48:34.898622-07:00.jpg",
+      "source": "original",
+      "mtime": "1664621316",
+      "size": "203099",
+      "md5": "54acbdd6e3c2d5a8d75748ae6ad9d7b2",
+      "crc32": "79f6810c",
+      "sha1": "e8793b154596a0f11d3adc555f3c446970e49008",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "9to5mac-2022-10-01T03:48:34.898622-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664621322",
+      "size": "1432",
+      "md5": "f7cca1f8cad5be6dc9fc12b9dd46c538",
+      "crc32": "e41c2427",
+      "sha1": "19676cfdc1652fe99f1e24748732542549fd7a79",
+      "format": "JSON"
+    },
+    {
+      "name": "9to5mac-2022-10-01T03:48:34.898622-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664621323",
+      "size": "47606",
+      "md5": "fba37d9b42b4d949e99c03dbae6787f4",
+      "crc32": "1a1759cf",
+      "sha1": "6ff4f7a78b93fa441038e1881d67625b427e5df3",
+      "format": "JSON"
+    },
+    {
       "name": "9to5mac-2022_archive.torrent",
       "source": "metadata",
-      "btih": "17a30ccac264049b98c024bfa7a6f2a35173244b",
-      "mtime": "1664579860",
-      "size": "169992",
-      "md5": "b63d073f93e77f8bf43983692c4d0fa0",
-      "crc32": "ebdadfe5",
-      "sha1": "2d9b12ec84ff29d6c1c6f4f14412c921122f773d",
+      "btih": "94f0ae223e80498be1ed2ec5d715333d9203b78a",
+      "mtime": "1664621370",
+      "size": "171050",
+      "md5": "413888722a40fa3c0df04c0f7939fd0c",
+      "crc32": "6a88d7f0",
+      "sha1": "c65d334378038b60f4f8daa4a90bb04cb2008d90",
       "format": "Archive BitTorrent"
     },
     {
       "name": "9to5mac-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ad3007bfa983ea7e45407d202216e73a",
+      "md5": "5621442544261b19482657196c80f6ae",
       "summation": "md5"
     },
     {
       "name": "9to5mac-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664578851",
-      "size": "1028096",
-      "md5": "f015fb696b0b45c5dbe896f4816fc659",
-      "crc32": "4aa2613a",
-      "sha1": "845b13a7e5edf5571fd98fcb718c100df0eeda93",
+      "mtime": "1664621328",
+      "size": "1036288",
+      "md5": "cdc2586dcb2ed3d7afcb96df39f0748c",
+      "crc32": "b8aa5a45",
+      "sha1": "a1f83a183ae515cec86c954268d623a7064be3ef",
       "format": "Metadata"
     },
     {
@@ -8372,9 +8423,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 809,
-  "item_last_updated": 1664579860,
-  "item_size": 56027479,
+  "files_count": 814,
+  "item_last_updated": 1664621370,
+  "item_size": 56416215,
   "metadata": {
     "identifier": "9to5mac-2022",
     "collection": [
@@ -8391,10 +8442,21 @@
     "publicdate": "2022-07-25 06:47:05",
     "addeddate": "2022-07-25 06:47:05"
   },
+  "pending_tasks": true,
   "server": "ia902507.us.archive.org",
-  "uniq": 2133691013,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3424557255,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 864618404,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia902507.us.archive.org"
   ]
 }

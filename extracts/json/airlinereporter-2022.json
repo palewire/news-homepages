@@ -1,5 +1,5 @@
 {
-  "created": 1664579928,
+  "created": 1664621377,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/27/items/airlinereporter-2022",
@@ -5184,31 +5184,82 @@
       "sha1": "ad0b0c482f8317205dcca1bb40f08221dd4230ed"
     },
     {
+      "name": "airlinereporter-2022-10-01T03:48:35.894183-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664621321",
+      "size": "35176",
+      "md5": "a165ae1368e83333f5538fa9f005bc73",
+      "crc32": "e90d20e5",
+      "sha1": "5db7700769298632bb8bfcc0885f2fef8e0ac8bd",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-01T03:48:35.894183-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664621323",
+      "size": "26507",
+      "md5": "adf3c5acb581f94c80999d55b4bea84d",
+      "crc32": "17e0b368",
+      "sha1": "e13f92a1c28eae96f152e5360d7bf72962c7d848",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-01T03:48:35.894183-07:00.jpg",
+      "source": "original",
+      "mtime": "1664621319",
+      "size": "279975",
+      "md5": "8b576eaa579c0e0cb6f0758511bbdc32",
+      "crc32": "21088fa7",
+      "sha1": "d5f164ce86fa032bcb7ab6c4f444be1c9e580aaf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airlinereporter-2022-10-01T03:48:35.894183-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664621326",
+      "size": "1540",
+      "md5": "9d0d33fc64b8e2ea38588f6b81e29b86",
+      "crc32": "858a98be",
+      "sha1": "5dd0770fbcdcc3814016b76dc37fa1d1ab2f2dd4",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-01T03:48:35.894183-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664621327",
+      "size": "18896",
+      "md5": "67072a8615baedfb068c456ac5a2fb16",
+      "crc32": "cc74ed02",
+      "sha1": "85b71330054ac60ca856004a76e8563555915f65",
+      "format": "JSON"
+    },
+    {
       "name": "airlinereporter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f2fa94454f4a82bb732d0ee0f5538366b4efab63",
-      "mtime": "1664579889",
-      "size": "110433",
-      "md5": "d6fab24b22f27061f727ae7c59511553",
-      "crc32": "aac25143",
-      "sha1": "010da45df7f63bd5d1d94648069b76a0dc70ed4c",
+      "btih": "f574d221705ff7b7e5a3f07293e6ae8cc32617c4",
+      "mtime": "1664621372",
+      "size": "111531",
+      "md5": "cfa1f1cc7f56dccf8346c964102da72b",
+      "crc32": "d7098033",
+      "sha1": "c19705151966d6cbcdcf29c8dc71cac80056a314",
       "format": "Archive BitTorrent"
     },
     {
       "name": "airlinereporter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6745a9e27be6e849cfcd13ff34c4f0d4",
+      "md5": "dbcfbd56dafbc6592341073633fc1caa",
       "summation": "md5"
     },
     {
       "name": "airlinereporter-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664578818",
-      "size": "659456",
-      "md5": "bba2bee7403f89e5555c486c6d8b7f48",
-      "crc32": "03d1d5ee",
-      "sha1": "b56f5f1a68735a67a7491d2881fa495d39e86257",
+      "mtime": "1664621332",
+      "size": "667648",
+      "md5": "8f6876cbd50226595798cdc8f93dc464",
+      "crc32": "16f13d66",
+      "sha1": "2601c8c7eb7fa067568d025680fa2676cab82d7a",
       "format": "Metadata"
     },
     {
@@ -5222,9 +5273,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 505,
-  "item_last_updated": 1664579889,
-  "item_size": 33946638,
+  "files_count": 510,
+  "item_last_updated": 1664621372,
+  "item_size": 34318022,
   "metadata": {
     "identifier": "airlinereporter-2022",
     "collection": [
@@ -5241,10 +5292,21 @@
     "publicdate": "2022-08-20 22:59:16",
     "addeddate": "2022-08-20 22:59:16"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 1538059518,
+  "pending_tasks": true,
+  "server": "ia601505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3424557304,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 468910241,
   "workable_servers": [
-    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }
