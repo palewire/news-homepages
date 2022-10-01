@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 147 screenshots with the Internet Archive.
+The archiving routine has saved 148 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 147 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/41nbc-2022/41nbc-2022-10-01T06:49:16.698460-04:00.jpg">
+  <img src="https://archive.org/download/41nbc-2022/41nbc-2022-10-01T06:49:16.698460-04:00.jpg"
+     alt="41NBC / WMGT at 2022-10-01 06:49:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-10-01T06:49:16.698460-04:00.jpg">October 1 at 6:49 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/41nbc-2022/41nbc-2022-09-30T18:59:50.251803-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-09-25T18:41:02.875363-04:00.jpg">September 25 at 6:41 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/41nbc-2022/41nbc-2022-09-25T06:40:11.522383-04:00.jpg">
-  <img src="https://archive.org/download/41nbc-2022/41nbc-2022-09-25T06:40:11.522383-04:00.jpg"
-     alt="41NBC / WMGT at 2022-09-25 06:40:16-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-09-25T06:40:11.522383-04:00.jpg">September 25 at 6:40 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 134 hyperlink lists with the Internet Archive.
+The archiving routine has saved 135 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 6:49 AM](https://archive.org/download/41nbc-2022/41nbc-2022-10-01T06:49:16.698460-04:00.hyperlinks.json) |
 | [September 30 at 6:59 PM](https://archive.org/download/41nbc-2022/41nbc-2022-09-30T18:59:50.251803-04:00.hyperlinks.json) |
 | [September 30 at 6:52 AM](https://archive.org/download/41nbc-2022/41nbc-2022-09-30T06:52:13.047968-04:00.hyperlinks.json) |
 | [September 29 at 6:58 PM](https://archive.org/download/41nbc-2022/41nbc-2022-09-29T18:58:19.438844-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 6:52 PM](https://archive.org/download/41nbc-2022/41nbc-2022-09-27T18:52:45.776367-04:00.hyperlinks.json) |
 | [September 27 at 6:53 AM](https://archive.org/download/41nbc-2022/41nbc-2022-09-27T06:53:45.064545-04:00.hyperlinks.json) |
 | [September 26 at 6:49 PM](https://archive.org/download/41nbc-2022/41nbc-2022-09-26T18:49:36.334423-04:00.hyperlinks.json) |
-| [September 26 at 6:52 AM](https://archive.org/download/41nbc-2022/41nbc-2022-09-26T06:52:19.032516-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 128 accessibility trees with the Internet Archive.
+The archiving routine has saved 129 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 6:49 AM](https://archive.org/download/41nbc-2022/41nbc-2022-10-01T06:49:16.698460-04:00.accessibility.json) |
 | [September 30 at 6:59 PM](https://archive.org/download/41nbc-2022/41nbc-2022-09-30T18:59:50.251803-04:00.accessibility.json) |
 | [September 30 at 6:52 AM](https://archive.org/download/41nbc-2022/41nbc-2022-09-30T06:52:13.047968-04:00.accessibility.json) |
 | [September 29 at 6:58 PM](https://archive.org/download/41nbc-2022/41nbc-2022-09-29T18:58:19.438844-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 6:52 PM](https://archive.org/download/41nbc-2022/41nbc-2022-09-27T18:52:45.776367-04:00.accessibility.json) |
 | [September 27 at 6:53 AM](https://archive.org/download/41nbc-2022/41nbc-2022-09-27T06:53:45.064545-04:00.accessibility.json) |
 | [September 26 at 6:49 PM](https://archive.org/download/41nbc-2022/41nbc-2022-09-26T18:49:36.334423-04:00.accessibility.json) |
-| [September 26 at 6:52 AM](https://archive.org/download/41nbc-2022/41nbc-2022-09-26T06:52:19.032516-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 140 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 141 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 6:49 AM](https://archive.org/download/41nbc-2022/41nbc-2022-10-01T06:49:16.698460-04:00.lighthouse.json) |
 | [September 30 at 7:00 PM](https://archive.org/download/41nbc-2022/41nbc-2022-09-30T18:59:50.251803-04:00.lighthouse.json) |
 | [September 30 at 6:52 AM](https://archive.org/download/41nbc-2022/41nbc-2022-09-30T06:52:13.047968-04:00.lighthouse.json) |
 | [September 29 at 6:58 PM](https://archive.org/download/41nbc-2022/41nbc-2022-09-29T18:58:19.438844-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 6:52 PM](https://archive.org/download/41nbc-2022/41nbc-2022-09-27T18:52:45.776367-04:00.lighthouse.json) |
 | [September 27 at 6:53 AM](https://archive.org/download/41nbc-2022/41nbc-2022-09-27T06:53:45.064545-04:00.lighthouse.json) |
 | [September 26 at 6:49 PM](https://archive.org/download/41nbc-2022/41nbc-2022-09-26T18:49:36.334423-04:00.lighthouse.json) |
-| [September 26 at 6:52 AM](https://archive.org/download/41nbc-2022/41nbc-2022-09-26T06:52:19.032516-04:00.lighthouse.json) |
 
 
 

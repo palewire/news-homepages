@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 22 screenshots with the Internet Archive.
+The archiving routine has saved 23 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-10-01T06:51:16.341900-04:00.jpg">
+  <img src="https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-10-01T06:51:16.341900-04:00.jpg"
+     alt="Asbury Park Press at 2022-10-01 06:51:20-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-10-01T06:51:16.341900-04:00.jpg">October 1 at 6:51 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-09-30T19:02:55.470137-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-09-25T18:43:04.826978-04:00.jpg">September 25 at 6:43 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-09-25T06:41:59.229204-04:00.jpg">
-  <img src="https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-09-25T06:41:59.229204-04:00.jpg"
-     alt="Asbury Park Press at 2022-09-25 06:42:01-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-09-25T06:41:59.229204-04:00.jpg">September 25 at 6:42 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 22 hyperlink lists with the Internet Archive.
+The archiving routine has saved 23 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 6:51 AM](https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-10-01T06:51:16.341900-04:00.hyperlinks.json) |
 | [September 30 at 7:03 PM](https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-09-30T19:02:55.470137-04:00.hyperlinks.json) |
 | [September 30 at 6:55 AM](https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-09-30T06:54:56.369953-04:00.hyperlinks.json) |
 | [September 29 at 7:00 PM](https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-09-29T19:00:24.704787-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 6:55 PM](https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-09-27T18:55:12.211895-04:00.hyperlinks.json) |
 | [September 27 at 6:55 AM](https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-09-27T06:55:16.204802-04:00.hyperlinks.json) |
 | [September 26 at 6:52 PM](https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-09-26T18:52:01.031055-04:00.hyperlinks.json) |
-| [September 26 at 6:55 AM](https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-09-26T06:55:09.660808-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 22 accessibility trees with the Internet Archive.
+The archiving routine has saved 23 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 6:51 AM](https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-10-01T06:51:16.341900-04:00.accessibility.json) |
 | [September 30 at 7:02 PM](https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-09-30T19:02:55.470137-04:00.accessibility.json) |
 | [September 30 at 6:55 AM](https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-09-30T06:54:56.369953-04:00.accessibility.json) |
 | [September 29 at 7:00 PM](https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-09-29T19:00:24.704787-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 6:55 PM](https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-09-27T18:55:12.211895-04:00.accessibility.json) |
 | [September 27 at 6:55 AM](https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-09-27T06:55:16.204802-04:00.accessibility.json) |
 | [September 26 at 6:52 PM](https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-09-26T18:52:01.031055-04:00.accessibility.json) |
-| [September 26 at 6:55 AM](https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-09-26T06:55:09.660808-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 6:51 AM](https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-10-01T06:51:16.341900-04:00.lighthouse.json) |
 | [September 30 at 7:03 PM](https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-09-30T19:02:55.470137-04:00.lighthouse.json) |
 | [September 30 at 6:55 AM](https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-09-30T06:54:56.369953-04:00.lighthouse.json) |
 | [September 29 at 7:00 PM](https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-09-29T19:00:24.704787-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 6:55 PM](https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-09-27T18:55:12.211895-04:00.lighthouse.json) |
 | [September 27 at 6:55 AM](https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-09-27T06:55:16.204802-04:00.lighthouse.json) |
 | [September 26 at 6:52 PM](https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-09-26T18:52:01.031055-04:00.lighthouse.json) |
-| [September 26 at 6:55 AM](https://archive.org/download/asburyparkpress-2022/asburyparkpress-2022-09-26T06:55:09.660808-04:00.lighthouse.json) |
 
 
 
