@@ -1,5 +1,5 @@
 {
-  "created": 1664596185,
+  "created": 1664616062,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/6/items/scotnational-2022",
@@ -12307,31 +12307,93 @@
       "format": "JSON"
     },
     {
+      "name": "scotnational-2022-10-01T04:48:14.547160+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "scotnational-2022-10-01T04:48:14.547160+01:00.jpg",
+      "mtime": "1664598095",
+      "size": "10100",
+      "md5": "6aee6c1d3c6c5a4da3bdb7564d4a50a0",
+      "crc32": "48251c3e",
+      "sha1": "94a72fd9f032003651f817ed5a7b0ccb34c99fc5"
+    },
+    {
+      "name": "scotnational-2022-10-01T10:19:23.560878+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664615972",
+      "size": "30105",
+      "md5": "3eea19183385b7e75cc369a2e16e0417",
+      "crc32": "1d24486b",
+      "sha1": "d94a4d5fe3e723d65a17a991b9442649e9f70c81",
+      "format": "JSON"
+    },
+    {
+      "name": "scotnational-2022-10-01T10:19:23.560878+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664615974",
+      "size": "49124",
+      "md5": "db5103951780ffe9c68612c8177a95bb",
+      "crc32": "d9702f57",
+      "sha1": "88a61327481a5a0608c79ecaadd7e9ad27391e99",
+      "format": "JSON"
+    },
+    {
+      "name": "scotnational-2022-10-01T10:19:23.560878+01:00.jpg",
+      "source": "original",
+      "mtime": "1664615969",
+      "size": "237796",
+      "md5": "b2f6490cbc532280d256695f2599f286",
+      "crc32": "5835c967",
+      "sha1": "5b5e5f48baa4e0ff2bc54af26d1dda19a8266f47",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "scotnational-2022-10-01T10:19:23.560878+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664615975",
+      "size": "1509",
+      "md5": "bef918a5a720bb6b5f84ef43075f4807",
+      "crc32": "a556e938",
+      "sha1": "f707660152cf366309c6472447fb0ed0197de3be",
+      "format": "JSON"
+    },
+    {
+      "name": "scotnational-2022-10-01T10:19:23.560878+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1664615978",
+      "size": "30288",
+      "md5": "0f9209d935897318a61ae5958845e8d1",
+      "crc32": "2cd80e35",
+      "sha1": "5102be7ea8fdc3841c6e31f01be4c1811a1d8304",
+      "format": "JSON"
+    },
+    {
       "name": "scotnational-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5ef32510e3ab34202c3aef48aa702f641bb2fbbe",
-      "mtime": "1664596175",
-      "size": "255975",
-      "md5": "46394c37165e0ab2d403f404eca0ac1a",
-      "crc32": "087e00b8",
-      "sha1": "2f2dbbe85abcc7e99bf5ceec96b94b0b337ca77c",
+      "btih": "745ce622155a9194e1f29d5c5e8974271dfbcbf1",
+      "mtime": "1664616047",
+      "size": "257267",
+      "md5": "68500f182e5babe83f1802e2ffa7da86",
+      "crc32": "ef5b3ac0",
+      "sha1": "1814b8274c24b0671991d52681e6e3d7504cdbda",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scotnational-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5632fdc611a0e37250471d0bb39e4920",
+      "md5": "933dfd91b8c81de18f278a86b4564e91",
       "summation": "md5"
     },
     {
       "name": "scotnational-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664596122",
-      "size": "1503232",
-      "md5": "3b0308a65f01daa4065ed3895b2772e7",
-      "crc32": "71855ddb",
-      "sha1": "aa2d85774e3d502196d0e64b8ee2b7c824bd3023",
+      "mtime": "1664615987",
+      "size": "1511424",
+      "md5": "a885648182c9fb85519955dd8f592f14",
+      "crc32": "df29f729",
+      "sha1": "e097b614e2e7ee4b20d58bf4440ce9a49132dce8",
       "format": "Metadata"
     },
     {
@@ -12345,9 +12407,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1191,
-  "item_last_updated": 1664596175,
-  "item_size": 86487588,
+  "files_count": 1197,
+  "item_last_updated": 1664616047,
+  "item_size": 86855994,
   "metadata": {
     "identifier": "scotnational-2022",
     "collection": [
@@ -12369,7 +12431,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3424203315,
+      "task_id": 3424479374,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12377,7 +12439,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2054698048,
+  "uniq": 949276154,
   "workable_servers": [
     "ia601502.us.archive.org"
   ]
