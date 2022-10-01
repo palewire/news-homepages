@@ -1,5 +1,6 @@
 {
-  "created": 1664610531,
+  "conflict": 1664621048,
+  "created": 1664621048,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/2/items/globeandmail-2022",
@@ -22545,21 +22546,32 @@
       "format": "JSON"
     },
     {
+      "name": "globeandmail-2022-10-01T03:45:58.178403-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "globeandmail-2022-10-01T03:45:58.178403-04:00.jpg",
+      "mtime": "1664612998",
+      "size": "9072",
+      "md5": "0e052d6d6d4ddf091e411bfd20d2452e",
+      "crc32": "360ebd0b",
+      "sha1": "82c2b50ed33e214a4dd8f5dcf81bc295ee30536f"
+    },
+    {
       "name": "globeandmail-2022_archive.torrent",
       "source": "metadata",
-      "btih": "16f0e08e54a2b51059cceb7f54bba7801725817f",
-      "mtime": "1664610506",
-      "size": "468249",
-      "md5": "593f83e9e35960caa4809f2c16946953",
-      "crc32": "3ebb5af8",
-      "sha1": "2d431fd3ebfda1023fba8071988a84c566abc7b2",
+      "btih": "5fc60e9c2b674c8430ff762e4401e5c14aa4e600",
+      "mtime": "1664613088",
+      "size": "468457",
+      "md5": "6473613ad38dd8dbab9ffef4fc85cb3a",
+      "crc32": "8f2eef8c",
+      "sha1": "1756e87d73fa3735f628e1821ac366bc4f8b9cb1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "globeandmail-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ae9b3999489d710979e6604bc0f89057",
+      "md5": "be668363a0f268d03a63a12cca9f2d10",
       "summation": "md5"
     },
     {
@@ -22583,9 +22595,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2179,
-  "item_last_updated": 1664610506,
-  "item_size": 165230988,
+  "files_count": 2180,
+  "item_last_updated": 1664613088,
+  "item_size": 165240268,
   "metadata": {
     "identifier": "globeandmail-2022",
     "collection": [
@@ -22607,15 +22619,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3424403794,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "task_id": 3424552685,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 239114470,
+  "uniq": 1729797240,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]
