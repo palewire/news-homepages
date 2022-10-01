@@ -1,5 +1,5 @@
 {
-  "created": 1664543259,
+  "created": 1664591497,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/2/items/lsjnews-2022",
@@ -1285,31 +1285,93 @@
       "format": "JSON"
     },
     {
+      "name": "lsjnews-2022-09-30T09:06:20.002594-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lsjnews-2022-09-30T09:06:20.002594-04:00.jpg",
+      "mtime": "1664545598",
+      "size": "9360",
+      "md5": "1ac61a8c947fe609e5e305883b2c89a5",
+      "crc32": "7fcf2c21",
+      "sha1": "eae388eae3b47a163579f9aacf55ec283db5bdcd"
+    },
+    {
+      "name": "lsjnews-2022-09-30T21:36:38.178366-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664588202",
+      "size": "21484",
+      "md5": "a7aa44c1c5a1e5371329b775493c57f1",
+      "crc32": "b0baa219",
+      "sha1": "825cc30ab9ce00bc718f1537870d5478a999f13c",
+      "format": "JSON"
+    },
+    {
+      "name": "lsjnews-2022-09-30T21:36:38.178366-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664588204",
+      "size": "31786",
+      "md5": "63015f255c144f69f6fbc1a0538449e8",
+      "crc32": "2ff681d2",
+      "sha1": "67c00faccb26cef661194fd07e8bf2fc8189834a",
+      "format": "JSON"
+    },
+    {
+      "name": "lsjnews-2022-09-30T21:36:38.178366-04:00.jpg",
+      "source": "original",
+      "mtime": "1664588200",
+      "size": "286639",
+      "md5": "4b7d53159c96595dd214debe97b91b30",
+      "crc32": "fe144374",
+      "sha1": "7c520f1cbd20c7abf9e07ba50568d4be3750146d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lsjnews-2022-09-30T21:36:38.178366-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664588205",
+      "size": "1576",
+      "md5": "124d62a581399350d303059fbc0e07b8",
+      "crc32": "3e275230",
+      "sha1": "16dec2b3b1d0342e0438771b5715fe4fec3f020a",
+      "format": "JSON"
+    },
+    {
+      "name": "lsjnews-2022-09-30T21:36:38.178366-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664588207",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "lsjnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c0e65288abc4bb6d640edf64d87e73ed13268a35",
-      "mtime": "1664543252",
-      "size": "27398",
-      "md5": "fb3444ecb1d9889fab6c49fb81d20b3c",
-      "crc32": "e4775cee",
-      "sha1": "f7fc443fe760042d0a732dd1659be209b16cb923",
+      "btih": "b09971cc6a0bcab3f4989960d6c9aadafa48d7e4",
+      "mtime": "1664588252",
+      "size": "28657",
+      "md5": "bd4bad1ab0dc4a08b7a6f2490d4f3444",
+      "crc32": "7aec76a8",
+      "sha1": "3c8c2f9fe0ca8c72b304a836775b260f27d12a36",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lsjnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "841537fbfd2fad6b991d97e86014d3f7",
+      "md5": "9e3b15095ccfa4210c5761a89f40264d",
       "summation": "md5"
     },
     {
       "name": "lsjnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664543215",
-      "size": "180224",
-      "md5": "4b8a727023462f99065973769ff7883c",
-      "crc32": "57b220ce",
-      "sha1": "e4b889976e36a259aaea19ab426b3fe7b1bd1e46",
+      "mtime": "1664588212",
+      "size": "192512",
+      "md5": "94686d4d0e47e1ea690935524bcaa976",
+      "crc32": "82ed182c",
+      "sha1": "6e9b09ef84601e8df7b7b8f57dfaa91fc50c35ed",
       "format": "Metadata"
     },
     {
@@ -1323,9 +1385,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 128,
-  "item_last_updated": 1664543252,
-  "item_size": 8626401,
+  "files_count": 134,
+  "item_last_updated": 1664588252,
+  "item_size": 8990995,
+  "lsjnews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "lsjnews-2022",
     "collection": [
@@ -1347,15 +1414,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3423471149,
+      "task_id": 3424094854,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1144281473,
+  "uniq": 603247741,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]
