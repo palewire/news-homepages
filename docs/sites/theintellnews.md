@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 19 screenshots with the Internet Archive.
+The archiving routine has saved 20 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theintellnews-2022/theintellnews-2022-09-30T23:50:55.124270-04:00.jpg">
+  <img src="https://archive.org/download/theintellnews-2022/theintellnews-2022-09-30T23:50:55.124270-04:00.jpg"
+     alt="The Intelligencer at 2022-09-30 23:50:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theintellnews-2022/theintellnews-2022-09-30T23:50:55.124270-04:00.jpg">September 30 at 11:50 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theintellnews-2022/theintellnews-2022-09-30T12:17:47.466398-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theintellnews-2022/theintellnews-2022-09-25T10:43:38.267245-04:00.jpg">September 25 at 10:43 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theintellnews-2022/theintellnews-2022-09-24T23:34:49.235196-04:00.jpg">
-  <img src="https://archive.org/download/theintellnews-2022/theintellnews-2022-09-24T23:34:49.235196-04:00.jpg"
-     alt="The Intelligencer at 2022-09-24 23:34:50-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theintellnews-2022/theintellnews-2022-09-24T23:34:49.235196-04:00.jpg">September 24 at 11:34 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 20 hyperlink lists with the Internet Archive.
+The archiving routine has saved 21 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 30 at 11:51 PM](https://archive.org/download/theintellnews-2022/theintellnews-2022-09-30T23:50:55.124270-04:00.hyperlinks.json) |
 | [September 30 at 12:17 PM](https://archive.org/download/theintellnews-2022/theintellnews-2022-09-30T12:17:47.466398-04:00.hyperlinks.json) |
 | [September 29 at 11:54 PM](https://archive.org/download/theintellnews-2022/theintellnews-2022-09-29T23:54:34.952333-04:00.hyperlinks.json) |
 | [September 29 at 10:59 AM](https://archive.org/download/theintellnews-2022/theintellnews-2022-09-29T10:59:51.257046-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 11:05 AM](https://archive.org/download/theintellnews-2022/theintellnews-2022-09-27T11:05:38.270690-04:00.hyperlinks.json) |
 | [September 26 at 11:33 PM](https://archive.org/download/theintellnews-2022/theintellnews-2022-09-26T23:33:46.792409-04:00.hyperlinks.json) |
 | [September 26 at 11:08 AM](https://archive.org/download/theintellnews-2022/theintellnews-2022-09-26T11:08:19.498526-04:00.hyperlinks.json) |
-| [September 25 at 11:40 PM](https://archive.org/download/theintellnews-2022/theintellnews-2022-09-25T23:40:27.691719-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 20 accessibility trees with the Internet Archive.
+The archiving routine has saved 21 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 30 at 11:50 PM](https://archive.org/download/theintellnews-2022/theintellnews-2022-09-30T23:50:55.124270-04:00.accessibility.json) |
 | [September 30 at 12:17 PM](https://archive.org/download/theintellnews-2022/theintellnews-2022-09-30T12:17:47.466398-04:00.accessibility.json) |
 | [September 29 at 11:54 PM](https://archive.org/download/theintellnews-2022/theintellnews-2022-09-29T23:54:34.952333-04:00.accessibility.json) |
 | [September 29 at 10:59 AM](https://archive.org/download/theintellnews-2022/theintellnews-2022-09-29T10:59:51.257046-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 11:05 AM](https://archive.org/download/theintellnews-2022/theintellnews-2022-09-27T11:05:38.270690-04:00.accessibility.json) |
 | [September 26 at 11:33 PM](https://archive.org/download/theintellnews-2022/theintellnews-2022-09-26T23:33:46.792409-04:00.accessibility.json) |
 | [September 26 at 11:08 AM](https://archive.org/download/theintellnews-2022/theintellnews-2022-09-26T11:08:19.498526-04:00.accessibility.json) |
-| [September 25 at 11:40 PM](https://archive.org/download/theintellnews-2022/theintellnews-2022-09-25T23:40:27.691719-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 21 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 30 at 11:51 PM](https://archive.org/download/theintellnews-2022/theintellnews-2022-09-30T23:50:55.124270-04:00.lighthouse.json) |
 | [September 30 at 12:17 PM](https://archive.org/download/theintellnews-2022/theintellnews-2022-09-30T12:17:47.466398-04:00.lighthouse.json) |
 | [September 29 at 11:54 PM](https://archive.org/download/theintellnews-2022/theintellnews-2022-09-29T23:54:34.952333-04:00.lighthouse.json) |
 | [September 29 at 10:59 AM](https://archive.org/download/theintellnews-2022/theintellnews-2022-09-29T10:59:51.257046-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 11:05 AM](https://archive.org/download/theintellnews-2022/theintellnews-2022-09-27T11:05:38.270690-04:00.lighthouse.json) |
 | [September 26 at 11:33 PM](https://archive.org/download/theintellnews-2022/theintellnews-2022-09-26T23:33:46.792409-04:00.lighthouse.json) |
 | [September 26 at 11:08 AM](https://archive.org/download/theintellnews-2022/theintellnews-2022-09-26T11:08:19.498526-04:00.lighthouse.json) |
-| [September 25 at 11:40 PM](https://archive.org/download/theintellnews-2022/theintellnews-2022-09-25T23:40:27.691719-04:00.lighthouse.json) |
 
 
 
