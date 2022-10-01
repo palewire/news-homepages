@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 120 screenshots with the Internet Archive.
+The archiving routine has saved 122 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/wkyt-2022/wkyt-2022-10-01T00:44:06.471537-04:00.jpg">
+  <img src="https://archive.org/download/wkyt-2022/wkyt-2022-10-01T00:44:06.471537-04:00.jpg"
+     alt="WKYT at 2022-10-01 00:44:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wkyt-2022/wkyt-2022-10-01T00:44:06.471537-04:00.jpg">October 1 at 12:44 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wkyt-2022/wkyt-2022-09-30T12:38:50.104644-04:00.jpg">
+  <img src="https://archive.org/download/wkyt-2022/wkyt-2022-09-30T12:38:50.104644-04:00.jpg"
+     alt="WKYT at 2022-09-30 12:38:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wkyt-2022/wkyt-2022-09-30T12:38:50.104644-04:00.jpg">September 30 at 12:38 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/wkyt-2022/wkyt-2022-09-30T02:14:17.944748-04:00.jpg">
   <img src="https://archive.org/download/wkyt-2022/wkyt-2022-09-30T02:14:17.944748-04:00.jpg"
      alt="WKYT at 2022-09-30 02:14:36-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wkyt-2022/wkyt-2022-09-25T11:55:17.777956-04:00.jpg">September 25 at 11:55 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wkyt-2022/wkyt-2022-09-25T00:31:28.470207-04:00.jpg">
-  <img src="https://archive.org/download/wkyt-2022/wkyt-2022-09-25T00:31:28.470207-04:00.jpg"
-     alt="WKYT at 2022-09-25 00:31:31-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wkyt-2022/wkyt-2022-09-25T00:31:28.470207-04:00.jpg">September 25 at 12:31 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wkyt-2022/wkyt-2022-09-24T11:53:13.063155-04:00.jpg">
-  <img src="https://archive.org/download/wkyt-2022/wkyt-2022-09-24T11:53:13.063155-04:00.jpg"
-     alt="WKYT at 2022-09-24 11:53:16-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wkyt-2022/wkyt-2022-09-24T11:53:13.063155-04:00.jpg">September 24 at 11:53 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 120 hyperlink lists with the Internet Archive.
+The archiving routine has saved 122 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 12:44 AM](https://archive.org/download/wkyt-2022/wkyt-2022-10-01T00:44:06.471537-04:00.hyperlinks.json) |
+| [September 30 at 12:38 PM](https://archive.org/download/wkyt-2022/wkyt-2022-09-30T12:38:50.104644-04:00.hyperlinks.json) |
 | [September 30 at 2:14 AM](https://archive.org/download/wkyt-2022/wkyt-2022-09-30T02:14:17.944748-04:00.hyperlinks.json) |
 | [September 29 at 12:12 PM](https://archive.org/download/wkyt-2022/wkyt-2022-09-29T12:12:22.798033-04:00.hyperlinks.json) |
 | [September 29 at 1:24 AM](https://archive.org/download/wkyt-2022/wkyt-2022-09-29T01:24:37.443528-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 12:10 PM](https://archive.org/download/wkyt-2022/wkyt-2022-09-27T12:09:56.262750-04:00.hyperlinks.json) |
 | [September 27 at 12:32 AM](https://archive.org/download/wkyt-2022/wkyt-2022-09-27T00:32:49.542473-04:00.hyperlinks.json) |
 | [September 26 at 12:09 PM](https://archive.org/download/wkyt-2022/wkyt-2022-09-26T12:08:29.105054-04:00.hyperlinks.json) |
-| [September 26 at 12:50 AM](https://archive.org/download/wkyt-2022/wkyt-2022-09-26T00:50:06.194633-04:00.hyperlinks.json) |
-| [September 25 at 11:55 AM](https://archive.org/download/wkyt-2022/wkyt-2022-09-25T11:55:17.777956-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 121 accessibility trees with the Internet Archive.
+The archiving routine has saved 123 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 12:44 AM](https://archive.org/download/wkyt-2022/wkyt-2022-10-01T00:44:06.471537-04:00.accessibility.json) |
+| [September 30 at 12:38 PM](https://archive.org/download/wkyt-2022/wkyt-2022-09-30T12:38:50.104644-04:00.accessibility.json) |
 | [September 30 at 2:14 AM](https://archive.org/download/wkyt-2022/wkyt-2022-09-30T02:14:17.944748-04:00.accessibility.json) |
 | [September 29 at 12:12 PM](https://archive.org/download/wkyt-2022/wkyt-2022-09-29T12:12:22.798033-04:00.accessibility.json) |
 | [September 29 at 1:24 AM](https://archive.org/download/wkyt-2022/wkyt-2022-09-29T01:24:37.443528-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 12:10 PM](https://archive.org/download/wkyt-2022/wkyt-2022-09-27T12:09:56.262750-04:00.accessibility.json) |
 | [September 27 at 12:32 AM](https://archive.org/download/wkyt-2022/wkyt-2022-09-27T00:32:49.542473-04:00.accessibility.json) |
 | [September 26 at 12:08 PM](https://archive.org/download/wkyt-2022/wkyt-2022-09-26T12:08:29.105054-04:00.accessibility.json) |
-| [September 26 at 12:50 AM](https://archive.org/download/wkyt-2022/wkyt-2022-09-26T00:50:06.194633-04:00.accessibility.json) |
-| [September 25 at 11:55 AM](https://archive.org/download/wkyt-2022/wkyt-2022-09-25T11:55:17.777956-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 121 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 123 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 12:44 AM](https://archive.org/download/wkyt-2022/wkyt-2022-10-01T00:44:06.471537-04:00.lighthouse.json) |
+| [September 30 at 12:39 PM](https://archive.org/download/wkyt-2022/wkyt-2022-09-30T12:38:50.104644-04:00.lighthouse.json) |
 | [September 30 at 2:14 AM](https://archive.org/download/wkyt-2022/wkyt-2022-09-30T02:14:17.944748-04:00.lighthouse.json) |
 | [September 29 at 12:12 PM](https://archive.org/download/wkyt-2022/wkyt-2022-09-29T12:12:22.798033-04:00.lighthouse.json) |
 | [September 29 at 1:24 AM](https://archive.org/download/wkyt-2022/wkyt-2022-09-29T01:24:37.443528-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 12:10 PM](https://archive.org/download/wkyt-2022/wkyt-2022-09-27T12:09:56.262750-04:00.lighthouse.json) |
 | [September 27 at 12:33 AM](https://archive.org/download/wkyt-2022/wkyt-2022-09-27T00:32:49.542473-04:00.lighthouse.json) |
 | [September 26 at 12:09 PM](https://archive.org/download/wkyt-2022/wkyt-2022-09-26T12:08:29.105054-04:00.lighthouse.json) |
-| [September 26 at 12:50 AM](https://archive.org/download/wkyt-2022/wkyt-2022-09-26T00:50:06.194633-04:00.lighthouse.json) |
-| [September 25 at 11:55 AM](https://archive.org/download/wkyt-2022/wkyt-2022-09-25T11:55:17.777956-04:00.lighthouse.json) |
 
 
 

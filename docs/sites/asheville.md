@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 19 screenshots with the Internet Archive.
+The archiving routine has saved 21 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/asheville-2022/asheville-2022-10-01T00:40:02.893868-04:00.jpg">
+  <img src="https://archive.org/download/asheville-2022/asheville-2022-10-01T00:40:02.893868-04:00.jpg"
+     alt="Asheville Citizen-Times at 2022-10-01 00:40:04-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/asheville-2022/asheville-2022-10-01T00:40:02.893868-04:00.jpg">October 1 at 12:40 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/asheville-2022/asheville-2022-09-30T12:32:16.348074-04:00.jpg">
+  <img src="https://archive.org/download/asheville-2022/asheville-2022-09-30T12:32:16.348074-04:00.jpg"
+     alt="Asheville Citizen-Times at 2022-09-30 12:32:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/asheville-2022/asheville-2022-09-30T12:32:16.348074-04:00.jpg">September 30 at 12:32 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/asheville-2022/asheville-2022-09-30T02:10:01.773173-04:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/asheville-2022/asheville-2022-09-25T11:50:58.091046-04:00.jpg">September 25 at 11:51 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/asheville-2022/asheville-2022-09-25T00:28:35.534117-04:00.jpg">
-  <img src="https://archive.org/download/asheville-2022/asheville-2022-09-25T00:28:35.534117-04:00.jpg"
-     alt="Asheville Citizen-Times at 2022-09-25 00:28:36-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/asheville-2022/asheville-2022-09-25T00:28:35.534117-04:00.jpg">September 25 at 12:28 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/asheville-2022/asheville-2022-09-24T11:49:27.237307-04:00.jpg">
-  <img src="https://archive.org/download/asheville-2022/asheville-2022-09-24T11:49:27.237307-04:00.jpg"
-     alt="Asheville Citizen-Times at 2022-09-24 11:49:28-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/asheville-2022/asheville-2022-09-24T11:49:27.237307-04:00.jpg">September 24 at 11:49 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 19 hyperlink lists with the Internet Archive.
+The archiving routine has saved 21 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 12:40 AM](https://archive.org/download/asheville-2022/asheville-2022-10-01T00:40:02.893868-04:00.hyperlinks.json) |
+| [September 30 at 12:32 PM](https://archive.org/download/asheville-2022/asheville-2022-09-30T12:32:16.348074-04:00.hyperlinks.json) |
 | [September 30 at 2:10 AM](https://archive.org/download/asheville-2022/asheville-2022-09-30T02:10:01.773173-04:00.hyperlinks.json) |
 | [September 29 at 12:05 PM](https://archive.org/download/asheville-2022/asheville-2022-09-29T12:05:26.117002-04:00.hyperlinks.json) |
 | [September 29 at 1:19 AM](https://archive.org/download/asheville-2022/asheville-2022-09-29T01:19:27.143302-04:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 12:06 PM](https://archive.org/download/asheville-2022/asheville-2022-09-27T12:06:14.340732-04:00.hyperlinks.json) |
 | [September 27 at 12:29 AM](https://archive.org/download/asheville-2022/asheville-2022-09-27T00:29:14.751461-04:00.hyperlinks.json) |
 | [September 26 at 12:04 PM](https://archive.org/download/asheville-2022/asheville-2022-09-26T12:04:10.169891-04:00.hyperlinks.json) |
-| [September 26 at 12:42 AM](https://archive.org/download/asheville-2022/asheville-2022-09-26T00:42:15.370249-04:00.hyperlinks.json) |
-| [September 25 at 11:51 AM](https://archive.org/download/asheville-2022/asheville-2022-09-25T11:50:58.091046-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 19 accessibility trees with the Internet Archive.
+The archiving routine has saved 21 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 12:40 AM](https://archive.org/download/asheville-2022/asheville-2022-10-01T00:40:02.893868-04:00.accessibility.json) |
+| [September 30 at 12:32 PM](https://archive.org/download/asheville-2022/asheville-2022-09-30T12:32:16.348074-04:00.accessibility.json) |
 | [September 30 at 2:10 AM](https://archive.org/download/asheville-2022/asheville-2022-09-30T02:10:01.773173-04:00.accessibility.json) |
 | [September 29 at 12:05 PM](https://archive.org/download/asheville-2022/asheville-2022-09-29T12:05:26.117002-04:00.accessibility.json) |
 | [September 29 at 1:19 AM](https://archive.org/download/asheville-2022/asheville-2022-09-29T01:19:27.143302-04:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 12:06 PM](https://archive.org/download/asheville-2022/asheville-2022-09-27T12:06:14.340732-04:00.accessibility.json) |
 | [September 27 at 12:29 AM](https://archive.org/download/asheville-2022/asheville-2022-09-27T00:29:14.751461-04:00.accessibility.json) |
 | [September 26 at 12:04 PM](https://archive.org/download/asheville-2022/asheville-2022-09-26T12:04:10.169891-04:00.accessibility.json) |
-| [September 26 at 12:42 AM](https://archive.org/download/asheville-2022/asheville-2022-09-26T00:42:15.370249-04:00.accessibility.json) |
-| [September 25 at 11:51 AM](https://archive.org/download/asheville-2022/asheville-2022-09-25T11:50:58.091046-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 21 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 12:40 AM](https://archive.org/download/asheville-2022/asheville-2022-10-01T00:40:02.893868-04:00.lighthouse.json) |
+| [September 30 at 12:32 PM](https://archive.org/download/asheville-2022/asheville-2022-09-30T12:32:16.348074-04:00.lighthouse.json) |
 | [September 30 at 2:10 AM](https://archive.org/download/asheville-2022/asheville-2022-09-30T02:10:01.773173-04:00.lighthouse.json) |
 | [September 29 at 12:05 PM](https://archive.org/download/asheville-2022/asheville-2022-09-29T12:05:26.117002-04:00.lighthouse.json) |
 | [September 29 at 1:19 AM](https://archive.org/download/asheville-2022/asheville-2022-09-29T01:19:27.143302-04:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 12:06 PM](https://archive.org/download/asheville-2022/asheville-2022-09-27T12:06:14.340732-04:00.lighthouse.json) |
 | [September 27 at 12:29 AM](https://archive.org/download/asheville-2022/asheville-2022-09-27T00:29:14.751461-04:00.lighthouse.json) |
 | [September 26 at 12:04 PM](https://archive.org/download/asheville-2022/asheville-2022-09-26T12:04:10.169891-04:00.lighthouse.json) |
-| [September 26 at 12:42 AM](https://archive.org/download/asheville-2022/asheville-2022-09-26T00:42:15.370249-04:00.lighthouse.json) |
-| [September 25 at 11:51 AM](https://archive.org/download/asheville-2022/asheville-2022-09-25T11:50:58.091046-04:00.lighthouse.json) |
 
 
 

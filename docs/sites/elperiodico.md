@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 132 screenshots with the Internet Archive.
+The archiving routine has saved 135 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/elperiodico-2022/elperiodico-2022-10-01T09:42:35.367399+02:00.jpg">
+  <img src="https://archive.org/download/elperiodico-2022/elperiodico-2022-10-01T09:42:35.367399+02:00.jpg"
+     alt="El Periodico at 2022-10-01 09:42:37+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elperiodico-2022/elperiodico-2022-10-01T09:42:35.367399+02:00.jpg">October 1 at 9:42 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/elperiodico-2022/elperiodico-2022-09-30T20:27:56.752709+02:00.jpg">
+  <img src="https://archive.org/download/elperiodico-2022/elperiodico-2022-09-30T20:27:56.752709+02:00.jpg"
+     alt="El Periodico at 2022-09-30 20:27:59+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elperiodico-2022/elperiodico-2022-09-30T20:27:56.752709+02:00.jpg">September 30 at 8:27 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/elperiodico-2022/elperiodico-2022-09-30T08:34:06.671823+02:00.jpg">
+  <img src="https://archive.org/download/elperiodico-2022/elperiodico-2022-09-30T08:34:06.671823+02:00.jpg"
+     alt="El Periodico at 2022-09-30 08:34:07+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elperiodico-2022/elperiodico-2022-09-30T08:34:06.671823+02:00.jpg">September 30 at 8:34 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/elperiodico-2022/elperiodico-2022-09-29T19:47:58.384550+02:00.jpg">
   <img src="https://archive.org/download/elperiodico-2022/elperiodico-2022-09-29T19:47:58.384550+02:00.jpg"
      alt="El Periodico at 2022-09-29 19:48:10+02:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/elperiodico-2022/elperiodico-2022-09-25T19:27:09.100442+02:00.jpg">September 25 at 7:27 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/elperiodico-2022/elperiodico-2022-09-25T07:52:07.851676+02:00.jpg">
-  <img src="https://archive.org/download/elperiodico-2022/elperiodico-2022-09-25T07:52:07.851676+02:00.jpg"
-     alt="El Periodico at 2022-09-25 07:52:16+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/elperiodico-2022/elperiodico-2022-09-25T07:52:07.851676+02:00.jpg">September 25 at 7:52 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/elperiodico-2022/elperiodico-2022-09-24T19:26:44.579839+02:00.jpg">
-  <img src="https://archive.org/download/elperiodico-2022/elperiodico-2022-09-24T19:26:44.579839+02:00.jpg"
-     alt="El Periodico at 2022-09-24 19:26:53+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/elperiodico-2022/elperiodico-2022-09-24T19:26:44.579839+02:00.jpg">September 24 at 7:26 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/elperiodico-2022/elperiodico-2022-09-24T07:52:50.968500+02:00.jpg">
-  <img src="https://archive.org/download/elperiodico-2022/elperiodico-2022-09-24T07:52:50.968500+02:00.jpg"
-     alt="El Periodico at 2022-09-24 07:52:52+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/elperiodico-2022/elperiodico-2022-09-24T07:52:50.968500+02:00.jpg">September 24 at 7:52 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 132 hyperlink lists with the Internet Archive.
+The archiving routine has saved 135 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 9:42 AM](https://archive.org/download/elperiodico-2022/elperiodico-2022-10-01T09:42:35.367399+02:00.hyperlinks.json) |
+| [September 30 at 8:28 PM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-30T20:27:56.752709+02:00.hyperlinks.json) |
+| [September 30 at 8:34 AM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-30T08:34:06.671823+02:00.hyperlinks.json) |
 | [September 29 at 7:48 PM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-29T19:47:58.384550+02:00.hyperlinks.json) |
 | [September 29 at 8:19 AM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-29T08:19:32.828951+02:00.hyperlinks.json) |
 | [September 28 at 7:54 PM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-28T19:54:11.830540+02:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 7:52 PM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-27T19:52:40.365423+02:00.hyperlinks.json) |
 | [September 27 at 8:59 AM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-27T08:59:39.348590+02:00.hyperlinks.json) |
 | [September 26 at 7:47 PM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-26T19:47:45.592793+02:00.hyperlinks.json) |
-| [September 26 at 8:18 AM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-26T08:18:32.879142+02:00.hyperlinks.json) |
-| [September 25 at 7:27 PM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-25T19:27:09.100442+02:00.hyperlinks.json) |
-| [September 25 at 7:52 AM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-25T07:52:07.851676+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 130 accessibility trees with the Internet Archive.
+The archiving routine has saved 133 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 9:42 AM](https://archive.org/download/elperiodico-2022/elperiodico-2022-10-01T09:42:35.367399+02:00.accessibility.json) |
+| [September 30 at 8:28 PM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-30T20:27:56.752709+02:00.accessibility.json) |
+| [September 30 at 8:34 AM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-30T08:34:06.671823+02:00.accessibility.json) |
 | [September 29 at 7:48 PM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-29T19:47:58.384550+02:00.accessibility.json) |
 | [September 29 at 8:19 AM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-29T08:19:32.828951+02:00.accessibility.json) |
 | [September 28 at 8:21 AM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-28T08:21:02.150236+02:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 8:59 AM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-27T08:59:39.348590+02:00.accessibility.json) |
 | [September 26 at 7:47 PM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-26T19:47:45.592793+02:00.accessibility.json) |
 | [September 26 at 8:18 AM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-26T08:18:32.879142+02:00.accessibility.json) |
-| [September 25 at 7:27 PM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-25T19:27:09.100442+02:00.accessibility.json) |
-| [September 25 at 7:52 AM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-25T07:52:07.851676+02:00.accessibility.json) |
-| [September 24 at 7:26 PM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-24T19:26:44.579839+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 135 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 9:42 AM](https://archive.org/download/elperiodico-2022/elperiodico-2022-10-01T09:42:35.367399+02:00.lighthouse.json) |
+| [September 30 at 8:28 PM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-30T20:27:56.752709+02:00.lighthouse.json) |
+| [September 30 at 8:34 AM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-30T08:34:06.671823+02:00.lighthouse.json) |
 | [September 29 at 7:48 PM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-29T19:47:58.384550+02:00.lighthouse.json) |
 | [September 29 at 8:19 AM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-29T08:19:32.828951+02:00.lighthouse.json) |
 | [September 28 at 7:54 PM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-28T19:54:11.830540+02:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 7:52 PM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-27T19:52:40.365423+02:00.lighthouse.json) |
 | [September 27 at 8:59 AM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-27T08:59:39.348590+02:00.lighthouse.json) |
 | [September 26 at 7:48 PM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-26T19:47:45.592793+02:00.lighthouse.json) |
-| [September 26 at 8:18 AM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-26T08:18:32.879142+02:00.lighthouse.json) |
-| [September 25 at 7:27 PM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-25T19:27:09.100442+02:00.lighthouse.json) |
-| [September 25 at 7:52 AM](https://archive.org/download/elperiodico-2022/elperiodico-2022-09-25T07:52:07.851676+02:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 186 screenshots with the Internet Archive.
+The archiving routine has saved 188 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/whyynews-2022/whyynews-2022-10-01T00:44:16.812459-04:00.jpg">
+  <img src="https://archive.org/download/whyynews-2022/whyynews-2022-10-01T00:44:16.812459-04:00.jpg"
+     alt="WHYY at 2022-10-01 00:44:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-10-01T00:44:16.812459-04:00.jpg">October 1 at 12:44 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/whyynews-2022/whyynews-2022-09-30T12:38:36.747909-04:00.jpg">
+  <img src="https://archive.org/download/whyynews-2022/whyynews-2022-09-30T12:38:36.747909-04:00.jpg"
+     alt="WHYY at 2022-09-30 12:38:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-09-30T12:38:36.747909-04:00.jpg">September 30 at 12:38 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/whyynews-2022/whyynews-2022-09-30T02:14:20.621657-04:00.jpg">
   <img src="https://archive.org/download/whyynews-2022/whyynews-2022-09-30T02:14:20.621657-04:00.jpg"
      alt="WHYY at 2022-09-30 02:14:33-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-09-25T11:54:58.135859-04:00.jpg">September 25 at 11:55 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/whyynews-2022/whyynews-2022-09-25T00:31:24.025826-04:00.jpg">
-  <img src="https://archive.org/download/whyynews-2022/whyynews-2022-09-25T00:31:24.025826-04:00.jpg"
-     alt="WHYY at 2022-09-25 00:31:37-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-09-25T00:31:24.025826-04:00.jpg">September 25 at 12:31 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/whyynews-2022/whyynews-2022-09-24T11:52:36.784905-04:00.jpg">
-  <img src="https://archive.org/download/whyynews-2022/whyynews-2022-09-24T11:52:36.784905-04:00.jpg"
-     alt="WHYY at 2022-09-24 11:52:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-09-24T11:52:36.784905-04:00.jpg">September 24 at 11:52 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 187 hyperlink lists with the Internet Archive.
+The archiving routine has saved 189 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 12:44 AM](https://archive.org/download/whyynews-2022/whyynews-2022-10-01T00:44:16.812459-04:00.hyperlinks.json) |
+| [September 30 at 12:38 PM](https://archive.org/download/whyynews-2022/whyynews-2022-09-30T12:38:36.747909-04:00.hyperlinks.json) |
 | [September 30 at 2:14 AM](https://archive.org/download/whyynews-2022/whyynews-2022-09-30T02:14:20.621657-04:00.hyperlinks.json) |
 | [September 29 at 12:12 PM](https://archive.org/download/whyynews-2022/whyynews-2022-09-29T12:11:58.450291-04:00.hyperlinks.json) |
 | [September 29 at 1:24 AM](https://archive.org/download/whyynews-2022/whyynews-2022-09-29T01:24:37.100983-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 12:08 PM](https://archive.org/download/whyynews-2022/whyynews-2022-09-27T12:08:39.091710-04:00.hyperlinks.json) |
 | [September 27 at 12:32 AM](https://archive.org/download/whyynews-2022/whyynews-2022-09-27T00:32:31.533427-04:00.hyperlinks.json) |
 | [September 26 at 12:09 PM](https://archive.org/download/whyynews-2022/whyynews-2022-09-26T12:09:23.998992-04:00.hyperlinks.json) |
-| [September 26 at 12:50 AM](https://archive.org/download/whyynews-2022/whyynews-2022-09-26T00:50:12.719414-04:00.hyperlinks.json) |
-| [September 25 at 11:55 AM](https://archive.org/download/whyynews-2022/whyynews-2022-09-25T11:54:58.135859-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 187 accessibility trees with the Internet Archive.
+The archiving routine has saved 189 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 12:44 AM](https://archive.org/download/whyynews-2022/whyynews-2022-10-01T00:44:16.812459-04:00.accessibility.json) |
+| [September 30 at 12:38 PM](https://archive.org/download/whyynews-2022/whyynews-2022-09-30T12:38:36.747909-04:00.accessibility.json) |
 | [September 30 at 2:14 AM](https://archive.org/download/whyynews-2022/whyynews-2022-09-30T02:14:20.621657-04:00.accessibility.json) |
 | [September 29 at 12:12 PM](https://archive.org/download/whyynews-2022/whyynews-2022-09-29T12:11:58.450291-04:00.accessibility.json) |
 | [September 29 at 1:24 AM](https://archive.org/download/whyynews-2022/whyynews-2022-09-29T01:24:37.100983-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 12:08 PM](https://archive.org/download/whyynews-2022/whyynews-2022-09-27T12:08:39.091710-04:00.accessibility.json) |
 | [September 27 at 12:32 AM](https://archive.org/download/whyynews-2022/whyynews-2022-09-27T00:32:31.533427-04:00.accessibility.json) |
 | [September 26 at 12:09 PM](https://archive.org/download/whyynews-2022/whyynews-2022-09-26T12:09:23.998992-04:00.accessibility.json) |
-| [September 26 at 12:50 AM](https://archive.org/download/whyynews-2022/whyynews-2022-09-26T00:50:12.719414-04:00.accessibility.json) |
-| [September 25 at 11:55 AM](https://archive.org/download/whyynews-2022/whyynews-2022-09-25T11:54:58.135859-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 137 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 139 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 12:44 AM](https://archive.org/download/whyynews-2022/whyynews-2022-10-01T00:44:16.812459-04:00.lighthouse.json) |
+| [September 30 at 12:38 PM](https://archive.org/download/whyynews-2022/whyynews-2022-09-30T12:38:36.747909-04:00.lighthouse.json) |
 | [September 30 at 2:14 AM](https://archive.org/download/whyynews-2022/whyynews-2022-09-30T02:14:20.621657-04:00.lighthouse.json) |
 | [September 29 at 1:24 AM](https://archive.org/download/whyynews-2022/whyynews-2022-09-29T01:24:37.100983-04:00.lighthouse.json) |
 | [September 28 at 12:20 PM](https://archive.org/download/whyynews-2022/whyynews-2022-09-28T12:20:13.366619-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 12:32 AM](https://archive.org/download/whyynews-2022/whyynews-2022-09-27T00:32:31.533427-04:00.lighthouse.json) |
 | [September 26 at 12:09 PM](https://archive.org/download/whyynews-2022/whyynews-2022-09-26T12:09:23.998992-04:00.lighthouse.json) |
 | [September 26 at 12:50 AM](https://archive.org/download/whyynews-2022/whyynews-2022-09-26T00:50:12.719414-04:00.lighthouse.json) |
-| [September 25 at 11:55 AM](https://archive.org/download/whyynews-2022/whyynews-2022-09-25T11:54:58.135859-04:00.lighthouse.json) |
-| [September 25 at 12:31 AM](https://archive.org/download/whyynews-2022/whyynews-2022-09-25T00:31:24.025826-04:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 163 screenshots with the Internet Archive.
+The archiving routine has saved 165 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/correio-2022/correio-2022-10-01T04:41:01.237647-03:00.jpg">
+  <img src="https://archive.org/download/correio-2022/correio-2022-10-01T04:41:01.237647-03:00.jpg"
+     alt="Correio Braziliense at 2022-10-01 04:41:07-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/correio-2022/correio-2022-10-01T04:41:01.237647-03:00.jpg">October 1 at 4:41 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/correio-2022/correio-2022-09-30T15:24:27.963649-03:00.jpg">
+  <img src="https://archive.org/download/correio-2022/correio-2022-09-30T15:24:27.963649-03:00.jpg"
+     alt="Correio Braziliense at 2022-09-30 15:24:37-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/correio-2022/correio-2022-09-30T15:24:27.963649-03:00.jpg">September 30 at 3:24 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/correio-2022/correio-2022-09-30T09:06:29.824216-03:00.jpg">
   <img src="https://archive.org/download/correio-2022/correio-2022-09-30T09:06:29.824216-03:00.jpg"
      alt="Correio Braziliense at 2022-09-30 09:06:40-03:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/correio-2022/correio-2022-09-27T08:57:36.334717-03:00.jpg">September 27 at 8:57 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/correio-2022/correio-2022-09-27T03:56:53.994685-03:00.jpg">
-  <img src="https://archive.org/download/correio-2022/correio-2022-09-27T03:56:53.994685-03:00.jpg"
-     alt="Correio Braziliense at 2022-09-27 03:56:59-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/correio-2022/correio-2022-09-27T03:56:53.994685-03:00.jpg">September 27 at 3:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/correio-2022/correio-2022-09-26T14:35:30.214645-03:00.jpg">
-  <img src="https://archive.org/download/correio-2022/correio-2022-09-26T14:35:30.214645-03:00.jpg"
-     alt="Correio Braziliense at 2022-09-26 14:35:49-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/correio-2022/correio-2022-09-26T14:35:30.214645-03:00.jpg">September 26 at 2:35 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 165 hyperlink lists with the Internet Archive.
+The archiving routine has saved 167 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 4:41 AM](https://archive.org/download/correio-2022/correio-2022-10-01T04:41:01.237647-03:00.hyperlinks.json) |
+| [September 30 at 3:24 PM](https://archive.org/download/correio-2022/correio-2022-09-30T15:24:27.963649-03:00.hyperlinks.json) |
 | [September 30 at 9:06 AM](https://archive.org/download/correio-2022/correio-2022-09-30T09:06:29.824216-03:00.hyperlinks.json) |
 | [September 30 at 3:31 AM](https://archive.org/download/correio-2022/correio-2022-09-30T03:30:52.811850-03:00.hyperlinks.json) |
 | [September 29 at 2:37 PM](https://archive.org/download/correio-2022/correio-2022-09-29T14:36:57.483380-03:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 28 at 2:45 PM](https://archive.org/download/correio-2022/correio-2022-09-28T14:45:49.019918-03:00.hyperlinks.json) |
 | [September 28 at 9:02 AM](https://archive.org/download/correio-2022/correio-2022-09-28T09:02:05.097512-03:00.hyperlinks.json) |
 | [September 28 at 3:15 AM](https://archive.org/download/correio-2022/correio-2022-09-28T03:15:35.690294-03:00.hyperlinks.json) |
-| [September 27 at 2:44 PM](https://archive.org/download/correio-2022/correio-2022-09-27T14:44:37.517974-03:00.hyperlinks.json) |
-| [September 27 at 8:57 AM](https://archive.org/download/correio-2022/correio-2022-09-27T08:57:36.334717-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 164 accessibility trees with the Internet Archive.
+The archiving routine has saved 166 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 4:41 AM](https://archive.org/download/correio-2022/correio-2022-10-01T04:41:01.237647-03:00.accessibility.json) |
+| [September 30 at 3:24 PM](https://archive.org/download/correio-2022/correio-2022-09-30T15:24:27.963649-03:00.accessibility.json) |
 | [September 30 at 9:06 AM](https://archive.org/download/correio-2022/correio-2022-09-30T09:06:29.824216-03:00.accessibility.json) |
 | [September 30 at 3:31 AM](https://archive.org/download/correio-2022/correio-2022-09-30T03:30:52.811850-03:00.accessibility.json) |
 | [September 29 at 2:37 PM](https://archive.org/download/correio-2022/correio-2022-09-29T14:36:57.483380-03:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 28 at 2:45 PM](https://archive.org/download/correio-2022/correio-2022-09-28T14:45:49.019918-03:00.accessibility.json) |
 | [September 28 at 9:02 AM](https://archive.org/download/correio-2022/correio-2022-09-28T09:02:05.097512-03:00.accessibility.json) |
 | [September 28 at 3:15 AM](https://archive.org/download/correio-2022/correio-2022-09-28T03:15:35.690294-03:00.accessibility.json) |
-| [September 27 at 2:44 PM](https://archive.org/download/correio-2022/correio-2022-09-27T14:44:37.517974-03:00.accessibility.json) |
-| [September 27 at 8:57 AM](https://archive.org/download/correio-2022/correio-2022-09-27T08:57:36.334717-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 165 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 167 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 4:41 AM](https://archive.org/download/correio-2022/correio-2022-10-01T04:41:01.237647-03:00.lighthouse.json) |
+| [September 30 at 3:24 PM](https://archive.org/download/correio-2022/correio-2022-09-30T15:24:27.963649-03:00.lighthouse.json) |
 | [September 30 at 9:06 AM](https://archive.org/download/correio-2022/correio-2022-09-30T09:06:29.824216-03:00.lighthouse.json) |
 | [September 30 at 3:31 AM](https://archive.org/download/correio-2022/correio-2022-09-30T03:30:52.811850-03:00.lighthouse.json) |
 | [September 29 at 2:37 PM](https://archive.org/download/correio-2022/correio-2022-09-29T14:36:57.483380-03:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 28 at 2:45 PM](https://archive.org/download/correio-2022/correio-2022-09-28T14:45:49.019918-03:00.lighthouse.json) |
 | [September 28 at 9:02 AM](https://archive.org/download/correio-2022/correio-2022-09-28T09:02:05.097512-03:00.lighthouse.json) |
 | [September 28 at 3:15 AM](https://archive.org/download/correio-2022/correio-2022-09-28T03:15:35.690294-03:00.lighthouse.json) |
-| [September 27 at 2:44 PM](https://archive.org/download/correio-2022/correio-2022-09-27T14:44:37.517974-03:00.lighthouse.json) |
-| [September 27 at 8:57 AM](https://archive.org/download/correio-2022/correio-2022-09-27T08:57:36.334717-03:00.lighthouse.json) |
 
 
 

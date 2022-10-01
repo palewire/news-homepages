@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 164 screenshots with the Internet Archive.
+The archiving routine has saved 167 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-10-01T03:42:18.023646-04:00.jpg">
+  <img src="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-10-01T03:42:18.023646-04:00.jpg"
+     alt="Daily Yonder at 2022-10-01 03:42:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-10-01T03:42:18.023646-04:00.jpg">October 1 at 3:42 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-30T14:25:49.649351-04:00.jpg">
+  <img src="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-30T14:25:49.649351-04:00.jpg"
+     alt="Daily Yonder at 2022-09-30 14:25:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-30T14:25:49.649351-04:00.jpg">September 30 at 2:25 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-30T02:31:08.610598-04:00.jpg">
+  <img src="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-30T02:31:08.610598-04:00.jpg"
+     alt="Daily Yonder at 2022-09-30 02:31:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-30T02:31:08.610598-04:00.jpg">September 30 at 2:31 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-29T13:45:05.834981-04:00.jpg">
   <img src="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-29T13:45:05.834981-04:00.jpg"
      alt="Daily Yonder at 2022-09-29 13:45:09-04:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-25T13:22:41.980914-04:00.jpg">September 25 at 1:22 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-25T01:47:33.274087-04:00.jpg">
-  <img src="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-25T01:47:33.274087-04:00.jpg"
-     alt="Daily Yonder at 2022-09-25 01:47:38-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-25T01:47:33.274087-04:00.jpg">September 25 at 1:47 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-24T13:22:23.524160-04:00.jpg">
-  <img src="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-24T13:22:23.524160-04:00.jpg"
-     alt="Daily Yonder at 2022-09-24 13:22:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-24T13:22:23.524160-04:00.jpg">September 24 at 1:22 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-24T01:47:44.454326-04:00.jpg">
-  <img src="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-24T01:47:44.454326-04:00.jpg"
-     alt="Daily Yonder at 2022-09-24 01:47:56-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-24T01:47:44.454326-04:00.jpg">September 24 at 1:47 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 166 hyperlink lists with the Internet Archive.
+The archiving routine has saved 169 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 3:42 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-10-01T03:42:18.023646-04:00.hyperlinks.json) |
+| [September 30 at 2:26 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-30T14:25:49.649351-04:00.hyperlinks.json) |
+| [September 30 at 2:31 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-30T02:31:08.610598-04:00.hyperlinks.json) |
 | [September 29 at 1:45 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-29T13:45:05.834981-04:00.hyperlinks.json) |
 | [September 29 at 2:15 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-29T02:15:17.596580-04:00.hyperlinks.json) |
 | [September 28 at 1:54 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-28T13:54:23.104430-04:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 1:51 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-27T13:51:43.093322-04:00.hyperlinks.json) |
 | [September 27 at 2:58 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-27T02:57:48.023012-04:00.hyperlinks.json) |
 | [September 26 at 1:43 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-26T13:42:35.842482-04:00.hyperlinks.json) |
-| [September 26 at 2:13 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-26T02:12:51.528574-04:00.hyperlinks.json) |
-| [September 25 at 1:22 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-25T13:22:41.980914-04:00.hyperlinks.json) |
-| [September 25 at 1:47 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-25T01:47:33.274087-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 166 accessibility trees with the Internet Archive.
+The archiving routine has saved 169 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 3:42 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-10-01T03:42:18.023646-04:00.accessibility.json) |
+| [September 30 at 2:25 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-30T14:25:49.649351-04:00.accessibility.json) |
+| [September 30 at 2:31 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-30T02:31:08.610598-04:00.accessibility.json) |
 | [September 29 at 1:45 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-29T13:45:05.834981-04:00.accessibility.json) |
 | [September 29 at 2:15 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-29T02:15:17.596580-04:00.accessibility.json) |
 | [September 28 at 1:54 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-28T13:54:23.104430-04:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 1:51 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-27T13:51:43.093322-04:00.accessibility.json) |
 | [September 27 at 2:58 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-27T02:57:48.023012-04:00.accessibility.json) |
 | [September 26 at 1:43 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-26T13:42:35.842482-04:00.accessibility.json) |
-| [September 26 at 2:13 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-26T02:12:51.528574-04:00.accessibility.json) |
-| [September 25 at 1:22 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-25T13:22:41.980914-04:00.accessibility.json) |
-| [September 25 at 1:47 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-25T01:47:33.274087-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 136 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 139 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 3:42 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-10-01T03:42:18.023646-04:00.lighthouse.json) |
+| [September 30 at 2:26 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-30T14:25:49.649351-04:00.lighthouse.json) |
+| [September 30 at 2:31 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-30T02:31:08.610598-04:00.lighthouse.json) |
 | [September 29 at 1:45 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-29T13:45:05.834981-04:00.lighthouse.json) |
 | [September 29 at 2:15 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-29T02:15:17.596580-04:00.lighthouse.json) |
 | [September 28 at 1:54 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-28T13:54:23.104430-04:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 1:51 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-27T13:51:43.093322-04:00.lighthouse.json) |
 | [September 27 at 2:58 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-27T02:57:48.023012-04:00.lighthouse.json) |
 | [September 26 at 1:43 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-26T13:42:35.842482-04:00.lighthouse.json) |
-| [September 26 at 2:13 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-26T02:12:51.528574-04:00.lighthouse.json) |
-| [September 25 at 1:22 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-25T13:22:41.980914-04:00.lighthouse.json) |
-| [September 25 at 1:47 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-25T01:47:33.274087-04:00.lighthouse.json) |
 
 
 

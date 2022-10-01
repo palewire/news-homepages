@@ -234,13 +234,40 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 19 screenshots with the Internet Archive.
+The archiving routine has saved 22 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-01T03:40:40.875449-04:00.jpg">
+  <img src="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-01T03:40:40.875449-04:00.jpg"
+     alt="Leesburg Daily Commercial at 2022-10-01 03:40:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-01T03:40:40.875449-04:00.jpg">October 1 at 3:40 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-30T14:24:33.231186-04:00.jpg">
+  <img src="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-30T14:24:33.231186-04:00.jpg"
+     alt="Leesburg Daily Commercial at 2022-09-30 14:24:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-30T14:24:33.231186-04:00.jpg">September 30 at 2:24 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-30T02:31:12.076461-04:00.jpg">
+  <img src="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-30T02:31:12.076461-04:00.jpg"
+     alt="Leesburg Daily Commercial at 2022-09-30 02:31:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-30T02:31:12.076461-04:00.jpg">September 30 at 2:31 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-29T13:39:47.858139-04:00.jpg">
@@ -323,38 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-25T13:22:16.313705-04:00.jpg">September 25 at 1:22 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-25T01:45:04.942310-04:00.jpg">
-  <img src="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-25T01:45:04.942310-04:00.jpg"
-     alt="Leesburg Daily Commercial at 2022-09-25 01:45:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-25T01:45:04.942310-04:00.jpg">September 25 at 1:45 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-24T13:19:36.955276-04:00.jpg">
-  <img src="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-24T13:19:36.955276-04:00.jpg"
-     alt="Leesburg Daily Commercial at 2022-09-24 13:19:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-24T13:19:36.955276-04:00.jpg">September 24 at 1:19 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-24T01:47:54.748376-04:00.jpg">
-  <img src="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-24T01:47:54.748376-04:00.jpg"
-     alt="Leesburg Daily Commercial at 2022-09-24 01:47:56-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-24T01:47:54.748376-04:00.jpg">September 24 at 1:47 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 19 hyperlink lists with the Internet Archive.
+The archiving routine has saved 22 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 3:40 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-01T03:40:40.875449-04:00.hyperlinks.json) |
+| [September 30 at 2:24 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-30T14:24:33.231186-04:00.hyperlinks.json) |
+| [September 30 at 2:31 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-30T02:31:12.076461-04:00.hyperlinks.json) |
 | [September 29 at 1:39 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-29T13:39:47.858139-04:00.hyperlinks.json) |
 | [September 29 at 2:10 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-29T02:10:19.890422-04:00.hyperlinks.json) |
 | [September 28 at 1:47 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-28T13:47:05.271709-04:00.hyperlinks.json) |
@@ -369,14 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 1:44 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-27T13:44:47.054817-04:00.hyperlinks.json) |
 | [September 27 at 2:58 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-27T02:58:04.811598-04:00.hyperlinks.json) |
 | [September 26 at 1:41 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-26T13:41:43.147299-04:00.hyperlinks.json) |
-| [September 26 at 2:12 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-26T02:12:37.351875-04:00.hyperlinks.json) |
-| [September 25 at 1:22 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-25T13:22:16.313705-04:00.hyperlinks.json) |
-| [September 25 at 1:45 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-25T01:45:04.942310-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 19 accessibility trees with the Internet Archive.
+The archiving routine has saved 22 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 3:40 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-01T03:40:40.875449-04:00.accessibility.json) |
+| [September 30 at 2:24 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-30T14:24:33.231186-04:00.accessibility.json) |
+| [September 30 at 2:31 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-30T02:31:12.076461-04:00.accessibility.json) |
 | [September 29 at 1:39 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-29T13:39:47.858139-04:00.accessibility.json) |
 | [September 29 at 2:10 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-29T02:10:19.890422-04:00.accessibility.json) |
 | [September 28 at 1:47 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-28T13:47:05.271709-04:00.accessibility.json) |
@@ -391,15 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 1:44 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-27T13:44:47.054817-04:00.accessibility.json) |
 | [September 27 at 2:58 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-27T02:58:04.811598-04:00.accessibility.json) |
 | [September 26 at 1:41 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-26T13:41:43.147299-04:00.accessibility.json) |
-| [September 26 at 2:12 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-26T02:12:37.351875-04:00.accessibility.json) |
-| [September 25 at 1:22 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-25T13:22:16.313705-04:00.accessibility.json) |
-| [September 25 at 1:45 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-25T01:45:04.942310-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 3:40 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-01T03:40:40.875449-04:00.lighthouse.json) |
+| [September 30 at 2:24 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-30T14:24:33.231186-04:00.lighthouse.json) |
+| [September 30 at 2:31 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-30T02:31:12.076461-04:00.lighthouse.json) |
 | [September 29 at 1:39 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-29T13:39:47.858139-04:00.lighthouse.json) |
 | [September 29 at 2:10 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-29T02:10:19.890422-04:00.lighthouse.json) |
 | [September 28 at 1:47 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-28T13:47:05.271709-04:00.lighthouse.json) |
@@ -414,9 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 1:44 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-27T13:44:47.054817-04:00.lighthouse.json) |
 | [September 27 at 2:58 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-27T02:58:04.811598-04:00.lighthouse.json) |
 | [September 26 at 1:41 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-26T13:41:43.147299-04:00.lighthouse.json) |
-| [September 26 at 2:12 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-26T02:12:37.351875-04:00.lighthouse.json) |
-| [September 25 at 1:22 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-25T13:22:16.313705-04:00.lighthouse.json) |
-| [September 25 at 1:45 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-09-25T01:45:04.942310-04:00.lighthouse.json) |
 
 
 

@@ -234,13 +234,40 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 19 screenshots with the Internet Archive.
+The archiving routine has saved 22 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-01T03:40:34.232476-04:00.jpg">
+  <img src="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-01T03:40:34.232476-04:00.jpg"
+     alt="Daily American at 2022-10-01 03:40:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-01T03:40:34.232476-04:00.jpg">October 1 at 3:40 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-30T14:24:31.230799-04:00.jpg">
+  <img src="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-30T14:24:31.230799-04:00.jpg"
+     alt="Daily American at 2022-09-30 14:24:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-30T14:24:31.230799-04:00.jpg">September 30 at 2:24 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-30T02:31:05.790046-04:00.jpg">
+  <img src="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-30T02:31:05.790046-04:00.jpg"
+     alt="Daily American at 2022-09-30 02:31:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-30T02:31:05.790046-04:00.jpg">September 30 at 2:31 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-29T13:38:17.591277-04:00.jpg">
@@ -323,38 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-25T13:17:51.217959-04:00.jpg">September 25 at 1:17 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-25T01:45:55.058055-04:00.jpg">
-  <img src="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-25T01:45:55.058055-04:00.jpg"
-     alt="Daily American at 2022-09-25 01:45:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-25T01:45:55.058055-04:00.jpg">September 25 at 1:45 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-24T13:17:40.994235-04:00.jpg">
-  <img src="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-24T13:17:40.994235-04:00.jpg"
-     alt="Daily American at 2022-09-24 13:17:43-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-24T13:17:40.994235-04:00.jpg">September 24 at 1:17 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-24T01:48:22.613050-04:00.jpg">
-  <img src="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-24T01:48:22.613050-04:00.jpg"
-     alt="Daily American at 2022-09-24 01:48:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-24T01:48:22.613050-04:00.jpg">September 24 at 1:48 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 19 hyperlink lists with the Internet Archive.
+The archiving routine has saved 22 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 3:40 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-01T03:40:34.232476-04:00.hyperlinks.json) |
+| [September 30 at 2:24 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-30T14:24:31.230799-04:00.hyperlinks.json) |
+| [September 30 at 2:31 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-30T02:31:05.790046-04:00.hyperlinks.json) |
 | [September 29 at 1:38 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-29T13:38:17.591277-04:00.hyperlinks.json) |
 | [September 29 at 2:09 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-29T02:09:31.506631-04:00.hyperlinks.json) |
 | [September 28 at 1:46 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-28T13:46:40.824777-04:00.hyperlinks.json) |
@@ -369,14 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 1:44 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-27T13:44:07.211933-04:00.hyperlinks.json) |
 | [September 27 at 2:57 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-27T02:57:38.401529-04:00.hyperlinks.json) |
 | [September 26 at 1:37 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-26T13:36:59.178290-04:00.hyperlinks.json) |
-| [September 26 at 2:12 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-26T02:12:27.052363-04:00.hyperlinks.json) |
-| [September 25 at 1:18 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-25T13:17:51.217959-04:00.hyperlinks.json) |
-| [September 25 at 1:45 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-25T01:45:55.058055-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 19 accessibility trees with the Internet Archive.
+The archiving routine has saved 22 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 3:40 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-01T03:40:34.232476-04:00.accessibility.json) |
+| [September 30 at 2:24 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-30T14:24:31.230799-04:00.accessibility.json) |
+| [September 30 at 2:31 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-30T02:31:05.790046-04:00.accessibility.json) |
 | [September 29 at 1:38 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-29T13:38:17.591277-04:00.accessibility.json) |
 | [September 29 at 2:09 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-29T02:09:31.506631-04:00.accessibility.json) |
 | [September 28 at 1:46 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-28T13:46:40.824777-04:00.accessibility.json) |
@@ -391,15 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 1:44 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-27T13:44:07.211933-04:00.accessibility.json) |
 | [September 27 at 2:57 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-27T02:57:38.401529-04:00.accessibility.json) |
 | [September 26 at 1:37 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-26T13:36:59.178290-04:00.accessibility.json) |
-| [September 26 at 2:12 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-26T02:12:27.052363-04:00.accessibility.json) |
-| [September 25 at 1:17 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-25T13:17:51.217959-04:00.accessibility.json) |
-| [September 25 at 1:45 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-25T01:45:55.058055-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 3:40 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-01T03:40:34.232476-04:00.lighthouse.json) |
+| [September 30 at 2:24 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-30T14:24:31.230799-04:00.lighthouse.json) |
+| [September 30 at 2:31 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-30T02:31:05.790046-04:00.lighthouse.json) |
 | [September 29 at 1:38 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-29T13:38:17.591277-04:00.lighthouse.json) |
 | [September 29 at 2:09 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-29T02:09:31.506631-04:00.lighthouse.json) |
 | [September 28 at 1:46 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-28T13:46:40.824777-04:00.lighthouse.json) |
@@ -414,9 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 1:44 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-27T13:44:07.211933-04:00.lighthouse.json) |
 | [September 27 at 2:57 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-27T02:57:38.401529-04:00.lighthouse.json) |
 | [September 26 at 1:37 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-26T13:36:59.178290-04:00.lighthouse.json) |
-| [September 26 at 2:12 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-26T02:12:27.052363-04:00.lighthouse.json) |
-| [September 25 at 1:18 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-25T13:17:51.217959-04:00.lighthouse.json) |
-| [September 25 at 1:46 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-09-25T01:45:55.058055-04:00.lighthouse.json) |
 
 
 

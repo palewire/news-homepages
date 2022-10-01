@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 133 screenshots with the Internet Archive.
+The archiving routine has saved 136 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-10-01T13:27:20.422152+05:45.jpg">
+  <img src="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-10-01T13:27:20.422152+05:45.jpg"
+     alt="Deshsanchar at 2022-10-01 13:27:28+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-10-01T13:27:20.422152+05:45.jpg">October 1 at 1:27 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-10-01T00:12:42.806373+05:45.jpg">
+  <img src="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-10-01T00:12:42.806373+05:45.jpg"
+     alt="Deshsanchar at 2022-10-01 00:12:53+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-10-01T00:12:42.806373+05:45.jpg">October 1 at 12:12 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-30T12:19:00.327105+05:45.jpg">
+  <img src="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-30T12:19:00.327105+05:45.jpg"
+     alt="Deshsanchar at 2022-09-30 12:19:10+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-30T12:19:00.327105+05:45.jpg">September 30 at 12:19 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-29T23:31:08.248290+05:45.jpg">
   <img src="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-29T23:31:08.248290+05:45.jpg"
      alt="Deshsanchar at 2022-09-29 23:31:36+05:45 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-25T23:07:22.657188+05:45.jpg">September 25 at 11:07 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-25T11:33:24.178897+05:45.jpg">
-  <img src="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-25T11:33:24.178897+05:45.jpg"
-     alt="Deshsanchar at 2022-09-25 11:33:28+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-25T11:33:24.178897+05:45.jpg">September 25 at 11:33 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-24T23:07:20.403952+05:45.jpg">
-  <img src="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-24T23:07:20.403952+05:45.jpg"
-     alt="Deshsanchar at 2022-09-24 23:07:29+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-24T23:07:20.403952+05:45.jpg">September 24 at 11:07 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-24T11:32:44.658780+05:45.jpg">
-  <img src="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-24T11:32:44.658780+05:45.jpg"
-     alt="Deshsanchar at 2022-09-24 11:32:50+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-24T11:32:44.658780+05:45.jpg">September 24 at 11:32 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 135 hyperlink lists with the Internet Archive.
+The archiving routine has saved 138 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 1:27 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-10-01T13:27:20.422152+05:45.hyperlinks.json) |
+| [October 1 at 12:12 AM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-10-01T00:12:42.806373+05:45.hyperlinks.json) |
+| [September 30 at 12:19 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-30T12:19:00.327105+05:45.hyperlinks.json) |
 | [September 29 at 11:31 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-29T23:31:08.248290+05:45.hyperlinks.json) |
 | [September 29 at 12:00 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-29T11:59:45.646296+05:45.hyperlinks.json) |
 | [September 28 at 11:39 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-28T23:39:03.957375+05:45.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 11:35 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-27T23:35:41.244343+05:45.hyperlinks.json) |
 | [September 27 at 12:44 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-27T12:44:34.288772+05:45.hyperlinks.json) |
 | [September 26 at 11:27 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-26T23:26:57.320616+05:45.hyperlinks.json) |
-| [September 26 at 11:57 AM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-26T11:57:31.542573+05:45.hyperlinks.json) |
-| [September 25 at 11:07 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-25T23:07:22.657188+05:45.hyperlinks.json) |
-| [September 25 at 11:33 AM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-25T11:33:24.178897+05:45.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 134 accessibility trees with the Internet Archive.
+The archiving routine has saved 137 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 1:27 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-10-01T13:27:20.422152+05:45.accessibility.json) |
+| [October 1 at 12:12 AM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-10-01T00:12:42.806373+05:45.accessibility.json) |
+| [September 30 at 12:19 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-30T12:19:00.327105+05:45.accessibility.json) |
 | [September 29 at 11:31 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-29T23:31:08.248290+05:45.accessibility.json) |
 | [September 29 at 12:00 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-29T11:59:45.646296+05:45.accessibility.json) |
 | [September 28 at 11:39 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-28T23:39:03.957375+05:45.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 11:35 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-27T23:35:41.244343+05:45.accessibility.json) |
 | [September 27 at 12:44 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-27T12:44:34.288772+05:45.accessibility.json) |
 | [September 26 at 11:27 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-26T23:26:57.320616+05:45.accessibility.json) |
-| [September 26 at 11:57 AM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-26T11:57:31.542573+05:45.accessibility.json) |
-| [September 25 at 11:07 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-25T23:07:22.657188+05:45.accessibility.json) |
-| [September 25 at 11:33 AM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-25T11:33:24.178897+05:45.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 135 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 138 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 1:27 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-10-01T13:27:20.422152+05:45.lighthouse.json) |
+| [October 1 at 12:13 AM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-10-01T00:12:42.806373+05:45.lighthouse.json) |
+| [September 30 at 12:19 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-30T12:19:00.327105+05:45.lighthouse.json) |
 | [September 29 at 11:31 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-29T23:31:08.248290+05:45.lighthouse.json) |
 | [September 29 at 12:00 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-29T11:59:45.646296+05:45.lighthouse.json) |
 | [September 28 at 11:39 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-28T23:39:03.957375+05:45.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 11:35 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-27T23:35:41.244343+05:45.lighthouse.json) |
 | [September 27 at 12:44 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-27T12:44:34.288772+05:45.lighthouse.json) |
 | [September 26 at 11:27 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-26T23:26:57.320616+05:45.lighthouse.json) |
-| [September 26 at 11:57 AM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-26T11:57:31.542573+05:45.lighthouse.json) |
-| [September 25 at 11:07 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-25T23:07:22.657188+05:45.lighthouse.json) |
-| [September 25 at 11:33 AM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-09-25T11:33:24.178897+05:45.lighthouse.json) |
 
 
 

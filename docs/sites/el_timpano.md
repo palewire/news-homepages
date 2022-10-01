@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 174 screenshots with the Internet Archive.
+The archiving routine has saved 177 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-10-01T00:43:47.505482-07:00.jpg">
+  <img src="https://archive.org/download/el_timpano-2022/el_timpano-2022-10-01T00:43:47.505482-07:00.jpg"
+     alt="El Tímpano at 2022-10-01 00:43:48-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-10-01T00:43:47.505482-07:00.jpg">October 1 at 12:43 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-09-30T11:27:51.382273-07:00.jpg">
+  <img src="https://archive.org/download/el_timpano-2022/el_timpano-2022-09-30T11:27:51.382273-07:00.jpg"
+     alt="El Tímpano at 2022-09-30 11:28:00-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-09-30T11:27:51.382273-07:00.jpg">September 30 at 11:28 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-09-29T23:33:32.296015-07:00.jpg">
+  <img src="https://archive.org/download/el_timpano-2022/el_timpano-2022-09-29T23:33:32.296015-07:00.jpg"
+     alt="El Tímpano at 2022-09-29 23:33:34-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-09-29T23:33:32.296015-07:00.jpg">September 29 at 11:33 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-09-29T10:47:12.182698-07:00.jpg">
   <img src="https://archive.org/download/el_timpano-2022/el_timpano-2022-09-29T10:47:12.182698-07:00.jpg"
      alt="El Tímpano at 2022-09-29 10:47:13-07:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-09-25T10:23:12.800425-07:00.jpg">September 25 at 10:23 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-09-24T22:50:28.895107-07:00.jpg">
-  <img src="https://archive.org/download/el_timpano-2022/el_timpano-2022-09-24T22:50:28.895107-07:00.jpg"
-     alt="El Tímpano at 2022-09-24 22:50:34-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-09-24T22:50:28.895107-07:00.jpg">September 24 at 10:50 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-09-24T10:22:26.913863-07:00.jpg">
-  <img src="https://archive.org/download/el_timpano-2022/el_timpano-2022-09-24T10:22:26.913863-07:00.jpg"
-     alt="El Tímpano at 2022-09-24 10:22:32-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-09-24T10:22:26.913863-07:00.jpg">September 24 at 10:22 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-09-23T22:53:13.037758-07:00.jpg">
-  <img src="https://archive.org/download/el_timpano-2022/el_timpano-2022-09-23T22:53:13.037758-07:00.jpg"
-     alt="El Tímpano at 2022-09-23 22:53:18-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/el_timpano-2022/el_timpano-2022-09-23T22:53:13.037758-07:00.jpg">September 23 at 10:53 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 174 hyperlink lists with the Internet Archive.
+The archiving routine has saved 177 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 12:43 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-10-01T00:43:47.505482-07:00.hyperlinks.json) |
+| [September 30 at 11:28 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-30T11:27:51.382273-07:00.hyperlinks.json) |
+| [September 29 at 11:33 PM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-29T23:33:32.296015-07:00.hyperlinks.json) |
 | [September 29 at 10:47 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-29T10:47:12.182698-07:00.hyperlinks.json) |
 | [September 28 at 11:14 PM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-28T23:14:31.011502-07:00.hyperlinks.json) |
 | [September 28 at 10:55 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-28T10:55:23.089449-07:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 10:50 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-27T10:50:53.305192-07:00.hyperlinks.json) |
 | [September 27 at 12:00 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-27T00:00:27.088868-07:00.hyperlinks.json) |
 | [September 26 at 10:44 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-26T10:44:07.824543-07:00.hyperlinks.json) |
-| [September 25 at 11:18 PM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-25T23:18:39.862721-07:00.hyperlinks.json) |
-| [September 25 at 10:23 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-25T10:23:12.800425-07:00.hyperlinks.json) |
-| [September 24 at 10:50 PM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-24T22:50:28.895107-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 173 accessibility trees with the Internet Archive.
+The archiving routine has saved 176 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 12:43 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-10-01T00:43:47.505482-07:00.accessibility.json) |
+| [September 30 at 11:28 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-30T11:27:51.382273-07:00.accessibility.json) |
+| [September 29 at 11:33 PM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-29T23:33:32.296015-07:00.accessibility.json) |
 | [September 29 at 10:47 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-29T10:47:12.182698-07:00.accessibility.json) |
 | [September 28 at 11:14 PM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-28T23:14:31.011502-07:00.accessibility.json) |
 | [September 28 at 10:55 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-28T10:55:23.089449-07:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 10:50 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-27T10:50:53.305192-07:00.accessibility.json) |
 | [September 27 at 12:00 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-27T00:00:27.088868-07:00.accessibility.json) |
 | [September 26 at 10:44 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-26T10:44:07.824543-07:00.accessibility.json) |
-| [September 25 at 11:18 PM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-25T23:18:39.862721-07:00.accessibility.json) |
-| [September 25 at 10:23 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-25T10:23:12.800425-07:00.accessibility.json) |
-| [September 24 at 10:50 PM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-24T22:50:28.895107-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 135 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 138 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 12:43 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-10-01T00:43:47.505482-07:00.lighthouse.json) |
+| [September 30 at 11:28 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-30T11:27:51.382273-07:00.lighthouse.json) |
+| [September 29 at 11:33 PM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-29T23:33:32.296015-07:00.lighthouse.json) |
 | [September 29 at 10:47 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-29T10:47:12.182698-07:00.lighthouse.json) |
 | [September 28 at 11:14 PM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-28T23:14:31.011502-07:00.lighthouse.json) |
 | [September 28 at 10:55 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-28T10:55:23.089449-07:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 10:51 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-27T10:50:53.305192-07:00.lighthouse.json) |
 | [September 27 at 12:00 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-27T00:00:27.088868-07:00.lighthouse.json) |
 | [September 26 at 10:44 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-26T10:44:07.824543-07:00.lighthouse.json) |
-| [September 25 at 11:18 PM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-25T23:18:39.862721-07:00.lighthouse.json) |
-| [September 25 at 10:23 AM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-25T10:23:12.800425-07:00.lighthouse.json) |
-| [September 24 at 10:50 PM](https://archive.org/download/el_timpano-2022/el_timpano-2022-09-24T22:50:28.895107-07:00.lighthouse.json) |
 
 
 

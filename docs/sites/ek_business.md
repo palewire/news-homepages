@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 133 screenshots with the Internet Archive.
+The archiving routine has saved 136 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ek_business-2022/ek_business-2022-10-01T13:28:00.077239+05:45.jpg">
+  <img src="https://archive.org/download/ek_business-2022/ek_business-2022-10-01T13:28:00.077239+05:45.jpg"
+     alt="Ekantipur at 2022-10-01 13:28:04+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-10-01T13:28:00.077239+05:45.jpg">October 1 at 1:28 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ek_business-2022/ek_business-2022-10-01T00:12:52.430410+05:45.jpg">
+  <img src="https://archive.org/download/ek_business-2022/ek_business-2022-10-01T00:12:52.430410+05:45.jpg"
+     alt="Ekantipur at 2022-10-01 00:13:01+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-10-01T00:12:52.430410+05:45.jpg">October 1 at 12:13 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ek_business-2022/ek_business-2022-09-30T12:19:02.275228+05:45.jpg">
+  <img src="https://archive.org/download/ek_business-2022/ek_business-2022-09-30T12:19:02.275228+05:45.jpg"
+     alt="Ekantipur at 2022-09-30 12:19:08+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-09-30T12:19:02.275228+05:45.jpg">September 30 at 12:19 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ek_business-2022/ek_business-2022-09-29T23:30:12.353757+05:45.jpg">
   <img src="https://archive.org/download/ek_business-2022/ek_business-2022-09-29T23:30:12.353757+05:45.jpg"
      alt="Ekantipur at 2022-09-29 23:30:20+05:45 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-09-25T23:07:33.317796+05:45.jpg">September 25 at 11:07 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ek_business-2022/ek_business-2022-09-25T11:33:55.404685+05:45.jpg">
-  <img src="https://archive.org/download/ek_business-2022/ek_business-2022-09-25T11:33:55.404685+05:45.jpg"
-     alt="Ekantipur at 2022-09-25 11:34:02+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-09-25T11:33:55.404685+05:45.jpg">September 25 at 11:34 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ek_business-2022/ek_business-2022-09-24T23:07:18.005599+05:45.jpg">
-  <img src="https://archive.org/download/ek_business-2022/ek_business-2022-09-24T23:07:18.005599+05:45.jpg"
-     alt="Ekantipur at 2022-09-24 23:07:27+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-09-24T23:07:18.005599+05:45.jpg">September 24 at 11:07 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ek_business-2022/ek_business-2022-09-24T11:37:40.351322+05:45.jpg">
-  <img src="https://archive.org/download/ek_business-2022/ek_business-2022-09-24T11:37:40.351322+05:45.jpg"
-     alt="Ekantipur at 2022-09-24 11:37:46+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-09-24T11:37:40.351322+05:45.jpg">September 24 at 11:37 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 135 hyperlink lists with the Internet Archive.
+The archiving routine has saved 138 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 1:28 PM](https://archive.org/download/ek_business-2022/ek_business-2022-10-01T13:28:00.077239+05:45.hyperlinks.json) |
+| [October 1 at 12:13 AM](https://archive.org/download/ek_business-2022/ek_business-2022-10-01T00:12:52.430410+05:45.hyperlinks.json) |
+| [September 30 at 12:19 PM](https://archive.org/download/ek_business-2022/ek_business-2022-09-30T12:19:02.275228+05:45.hyperlinks.json) |
 | [September 29 at 11:30 PM](https://archive.org/download/ek_business-2022/ek_business-2022-09-29T23:30:12.353757+05:45.hyperlinks.json) |
 | [September 29 at 12:00 PM](https://archive.org/download/ek_business-2022/ek_business-2022-09-29T12:00:20.893265+05:45.hyperlinks.json) |
 | [September 28 at 11:39 PM](https://archive.org/download/ek_business-2022/ek_business-2022-09-28T23:39:28.079446+05:45.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 11:35 PM](https://archive.org/download/ek_business-2022/ek_business-2022-09-27T23:35:33.744460+05:45.hyperlinks.json) |
 | [September 27 at 12:44 PM](https://archive.org/download/ek_business-2022/ek_business-2022-09-27T12:44:39.472152+05:45.hyperlinks.json) |
 | [September 26 at 11:28 PM](https://archive.org/download/ek_business-2022/ek_business-2022-09-26T23:28:48.020933+05:45.hyperlinks.json) |
-| [September 26 at 12:03 PM](https://archive.org/download/ek_business-2022/ek_business-2022-09-26T12:02:58.393177+05:45.hyperlinks.json) |
-| [September 25 at 11:07 PM](https://archive.org/download/ek_business-2022/ek_business-2022-09-25T23:07:33.317796+05:45.hyperlinks.json) |
-| [September 25 at 11:34 AM](https://archive.org/download/ek_business-2022/ek_business-2022-09-25T11:33:55.404685+05:45.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 135 accessibility trees with the Internet Archive.
+The archiving routine has saved 138 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 1:28 PM](https://archive.org/download/ek_business-2022/ek_business-2022-10-01T13:28:00.077239+05:45.accessibility.json) |
+| [October 1 at 12:13 AM](https://archive.org/download/ek_business-2022/ek_business-2022-10-01T00:12:52.430410+05:45.accessibility.json) |
+| [September 30 at 12:19 PM](https://archive.org/download/ek_business-2022/ek_business-2022-09-30T12:19:02.275228+05:45.accessibility.json) |
 | [September 29 at 11:30 PM](https://archive.org/download/ek_business-2022/ek_business-2022-09-29T23:30:12.353757+05:45.accessibility.json) |
 | [September 29 at 12:00 PM](https://archive.org/download/ek_business-2022/ek_business-2022-09-29T12:00:20.893265+05:45.accessibility.json) |
 | [September 28 at 11:39 PM](https://archive.org/download/ek_business-2022/ek_business-2022-09-28T23:39:28.079446+05:45.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 11:35 PM](https://archive.org/download/ek_business-2022/ek_business-2022-09-27T23:35:33.744460+05:45.accessibility.json) |
 | [September 27 at 12:44 PM](https://archive.org/download/ek_business-2022/ek_business-2022-09-27T12:44:39.472152+05:45.accessibility.json) |
 | [September 26 at 11:28 PM](https://archive.org/download/ek_business-2022/ek_business-2022-09-26T23:28:48.020933+05:45.accessibility.json) |
-| [September 26 at 12:03 PM](https://archive.org/download/ek_business-2022/ek_business-2022-09-26T12:02:58.393177+05:45.accessibility.json) |
-| [September 25 at 11:07 PM](https://archive.org/download/ek_business-2022/ek_business-2022-09-25T23:07:33.317796+05:45.accessibility.json) |
-| [September 25 at 11:34 AM](https://archive.org/download/ek_business-2022/ek_business-2022-09-25T11:33:55.404685+05:45.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 135 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 138 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 1:28 PM](https://archive.org/download/ek_business-2022/ek_business-2022-10-01T13:28:00.077239+05:45.lighthouse.json) |
+| [October 1 at 12:13 AM](https://archive.org/download/ek_business-2022/ek_business-2022-10-01T00:12:52.430410+05:45.lighthouse.json) |
+| [September 30 at 12:19 PM](https://archive.org/download/ek_business-2022/ek_business-2022-09-30T12:19:02.275228+05:45.lighthouse.json) |
 | [September 29 at 11:30 PM](https://archive.org/download/ek_business-2022/ek_business-2022-09-29T23:30:12.353757+05:45.lighthouse.json) |
 | [September 29 at 12:00 PM](https://archive.org/download/ek_business-2022/ek_business-2022-09-29T12:00:20.893265+05:45.lighthouse.json) |
 | [September 28 at 11:39 PM](https://archive.org/download/ek_business-2022/ek_business-2022-09-28T23:39:28.079446+05:45.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 11:35 PM](https://archive.org/download/ek_business-2022/ek_business-2022-09-27T23:35:33.744460+05:45.lighthouse.json) |
 | [September 27 at 12:44 PM](https://archive.org/download/ek_business-2022/ek_business-2022-09-27T12:44:39.472152+05:45.lighthouse.json) |
 | [September 26 at 11:29 PM](https://archive.org/download/ek_business-2022/ek_business-2022-09-26T23:28:48.020933+05:45.lighthouse.json) |
-| [September 26 at 12:03 PM](https://archive.org/download/ek_business-2022/ek_business-2022-09-26T12:02:58.393177+05:45.lighthouse.json) |
-| [September 25 at 11:07 PM](https://archive.org/download/ek_business-2022/ek_business-2022-09-25T23:07:33.317796+05:45.lighthouse.json) |
-| [September 25 at 11:34 AM](https://archive.org/download/ek_business-2022/ek_business-2022-09-25T11:33:55.404685+05:45.lighthouse.json) |
 
 
 
