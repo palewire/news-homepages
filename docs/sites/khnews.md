@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 138 screenshots with the Internet Archive.
+The archiving routine has saved 139 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 138 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/khnews-2022/khnews-2022-10-01T08:54:26.796352-04:00.jpg">
+  <img src="https://archive.org/download/khnews-2022/khnews-2022-10-01T08:54:26.796352-04:00.jpg"
+     alt="Kaiser Health News at 2022-10-01 08:54:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/khnews-2022/khnews-2022-10-01T08:54:26.796352-04:00.jpg">October 1 at 8:54 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/khnews-2022/khnews-2022-09-30T21:33:26.255764-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/khnews-2022/khnews-2022-09-25T21:12:27.650739-04:00.jpg">September 25 at 9:12 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/khnews-2022/khnews-2022-09-25T08:57:47.963538-04:00.jpg">
-  <img src="https://archive.org/download/khnews-2022/khnews-2022-09-25T08:57:47.963538-04:00.jpg"
-     alt="Kaiser Health News at 2022-09-25 08:57:53-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/khnews-2022/khnews-2022-09-25T08:57:47.963538-04:00.jpg">September 25 at 8:57 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 136 hyperlink lists with the Internet Archive.
+The archiving routine has saved 137 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 8:54 AM](https://archive.org/download/khnews-2022/khnews-2022-10-01T08:54:26.796352-04:00.hyperlinks.json) |
 | [September 30 at 9:33 PM](https://archive.org/download/khnews-2022/khnews-2022-09-30T21:33:26.255764-04:00.hyperlinks.json) |
 | [September 30 at 9:04 AM](https://archive.org/download/khnews-2022/khnews-2022-09-30T09:04:22.406526-04:00.hyperlinks.json) |
 | [September 29 at 9:37 PM](https://archive.org/download/khnews-2022/khnews-2022-09-29T21:37:21.270584-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 27 at 9:26 PM](https://archive.org/download/khnews-2022/khnews-2022-09-27T21:26:37.516389-04:00.hyperlinks.json) |
 | [September 27 at 8:59 AM](https://archive.org/download/khnews-2022/khnews-2022-09-27T08:58:58.120951-04:00.hyperlinks.json) |
 | [September 26 at 9:09 PM](https://archive.org/download/khnews-2022/khnews-2022-09-26T21:09:39.467276-04:00.hyperlinks.json) |
-| [September 26 at 8:59 AM](https://archive.org/download/khnews-2022/khnews-2022-09-26T08:58:59.484023-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 138 accessibility trees with the Internet Archive.
+The archiving routine has saved 139 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 8:54 AM](https://archive.org/download/khnews-2022/khnews-2022-10-01T08:54:26.796352-04:00.accessibility.json) |
 | [September 30 at 9:33 PM](https://archive.org/download/khnews-2022/khnews-2022-09-30T21:33:26.255764-04:00.accessibility.json) |
 | [September 30 at 9:04 AM](https://archive.org/download/khnews-2022/khnews-2022-09-30T09:04:22.406526-04:00.accessibility.json) |
 | [September 29 at 9:37 PM](https://archive.org/download/khnews-2022/khnews-2022-09-29T21:37:21.270584-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 27 at 9:26 PM](https://archive.org/download/khnews-2022/khnews-2022-09-27T21:26:37.516389-04:00.accessibility.json) |
 | [September 27 at 8:59 AM](https://archive.org/download/khnews-2022/khnews-2022-09-27T08:58:58.120951-04:00.accessibility.json) |
 | [September 26 at 9:09 PM](https://archive.org/download/khnews-2022/khnews-2022-09-26T21:09:39.467276-04:00.accessibility.json) |
-| [September 26 at 8:59 AM](https://archive.org/download/khnews-2022/khnews-2022-09-26T08:58:59.484023-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 136 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 137 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 8:55 AM](https://archive.org/download/khnews-2022/khnews-2022-10-01T08:54:26.796352-04:00.lighthouse.json) |
 | [September 30 at 9:33 PM](https://archive.org/download/khnews-2022/khnews-2022-09-30T21:33:26.255764-04:00.lighthouse.json) |
 | [September 30 at 9:04 AM](https://archive.org/download/khnews-2022/khnews-2022-09-30T09:04:22.406526-04:00.lighthouse.json) |
 | [September 29 at 9:37 PM](https://archive.org/download/khnews-2022/khnews-2022-09-29T21:37:21.270584-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 27 at 9:26 PM](https://archive.org/download/khnews-2022/khnews-2022-09-27T21:26:37.516389-04:00.lighthouse.json) |
 | [September 27 at 8:59 AM](https://archive.org/download/khnews-2022/khnews-2022-09-27T08:58:58.120951-04:00.lighthouse.json) |
 | [September 26 at 9:09 PM](https://archive.org/download/khnews-2022/khnews-2022-09-26T21:09:39.467276-04:00.lighthouse.json) |
-| [September 26 at 8:59 AM](https://archive.org/download/khnews-2022/khnews-2022-09-26T08:58:59.484023-04:00.lighthouse.json) |
 
 
 
