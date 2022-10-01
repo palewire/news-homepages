@@ -1,5 +1,5 @@
 {
-  "created": 1664636434,
+  "created": 1664659220,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/13/items/newshour-2022",
@@ -21690,31 +21690,82 @@
       "sha1": "62da86b9f5e96f248dbd6c49f50fdd071bf45d4d"
     },
     {
+      "name": "newshour-2022-10-01T17:18:43.899253-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664659134",
+      "size": "33790",
+      "md5": "057b840852e489e3bd8deeddf602e25e",
+      "crc32": "41af623e",
+      "sha1": "77d13c24ab59881560c173083adbad207525998c",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-10-01T17:18:43.899253-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664659136",
+      "size": "37222",
+      "md5": "f03803229dfc2c1625aafcf74f3df567",
+      "crc32": "032898de",
+      "sha1": "efc18f240405ed490355c860330ec99ff8a5421a",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-10-01T17:18:43.899253-04:00.jpg",
+      "source": "original",
+      "mtime": "1664659132",
+      "size": "349880",
+      "md5": "b6ced7deac534a51d7214ecb5ab0cd69",
+      "crc32": "bbafab5b",
+      "sha1": "a1ea70bb94fa26b095840a2c7661215d1503ccd3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newshour-2022-10-01T17:18:43.899253-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664659137",
+      "size": "1513",
+      "md5": "df992e5cf101b11d11497dc6ccf744df",
+      "crc32": "a5653b61",
+      "sha1": "85734adbc569ad04cea3f28b673793424eb79bff",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-10-01T17:18:43.899253-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664659139",
+      "size": "20023",
+      "md5": "7adcfbd7ea2082653aae22e2b115a902",
+      "crc32": "51ada1c8",
+      "sha1": "ccefb89e2b1f799886a9c91c8b581d827890a9e6",
+      "format": "JSON"
+    },
+    {
       "name": "newshour-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ba293fd830784fbb2346d291409a1f3d321a10dd",
-      "mtime": "1664635673",
-      "size": "441756",
-      "md5": "5aa7982bb0cddc1f10dd044d27f9f314",
-      "crc32": "dbae8ec9",
-      "sha1": "045a5c3bb8750d8ff8bfdc153c779292d105d69e",
+      "btih": "5b40872c29fd8ebcf2e94b66679401ad5189c54e",
+      "mtime": "1664659216",
+      "size": "442819",
+      "md5": "adc2f032511ec5066f4f10d6d370e5be",
+      "crc32": "1200b668",
+      "sha1": "cbc29dd7056de0659e663a45c61b627d26f9bab3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newshour-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dfbee12730c204c97b21e7b280d7ea07",
+      "md5": "98c5f9ff45e7adffcc5ee96a24864ef5",
       "summation": "md5"
     },
     {
       "name": "newshour-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664633244",
-      "size": "2588672",
-      "md5": "13aaa1743c45098f7946941d4ae647c9",
-      "crc32": "f7823251",
-      "sha1": "68ca4389508be58fde115704a357680ea093ec75",
+      "mtime": "1664659145",
+      "size": "2596864",
+      "md5": "37699b5456b0d07674b8761bae08806e",
+      "crc32": "ec7c3c91",
+      "sha1": "798fec24aeda3c4e75f58e9af5bd365201b93653",
       "format": "Metadata"
     },
     {
@@ -21728,9 +21779,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2093,
-  "item_last_updated": 1664635673,
-  "item_size": 163609749,
+  "files_count": 2098,
+  "item_last_updated": 1664659216,
+  "item_size": 164061432,
   "metadata": {
     "identifier": "newshour-2022",
     "collection": [
@@ -21747,33 +21798,20 @@
     "publicdate": "2022-06-24 22:58:21",
     "addeddate": "2022-06-24 22:58:21"
   },
-  "newshour-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "pending_tasks": true,
   "server": "ia902505.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3424715223,
+      "task_id": 3425053819,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3424743822,
-      "cmd": "bup.php",
-      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 252677401,
+  "uniq": 1627778870,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]
