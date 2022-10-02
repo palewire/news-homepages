@@ -1,6 +1,5 @@
 {
-  "conflict": 1664707746,
-  "created": 1664707746,
+  "created": 1664739938,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/13/items/alternet-2022",
@@ -13187,34 +13186,80 @@
       "name": "alternet-2022-10-02T06:42:04.518760-04:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "alternet-2022-10-02T06:42:04.518760-04:00.jpg"
+      "original": "alternet-2022-10-02T06:42:04.518760-04:00.jpg",
+      "mtime": "1664707732",
+      "size": "10832",
+      "md5": "fe50e7840ebb61eae453457b901241d6",
+      "crc32": "64cf63ee",
+      "sha1": "7149e4e1be09bea4849a34dfe4a8b884328a1889"
+    },
+    {
+      "name": "alternet-2022-10-02T15:43:57.833910-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664739842",
+      "size": "11164",
+      "md5": "9be2de68b77286fd0ae9edc684517363",
+      "crc32": "6d927732",
+      "sha1": "be172885d8f4c52207f668999918b54aae2f398c",
+      "format": "JSON"
+    },
+    {
+      "name": "alternet-2022-10-02T15:43:57.833910-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664739844",
+      "size": "20349",
+      "md5": "e2c40fe49f747b2ecd4b6e6c0808e90c",
+      "crc32": "5ce96d45",
+      "sha1": "eae701ff8148230fc4cf57e61734ff738a22a211",
+      "format": "JSON"
+    },
+    {
+      "name": "alternet-2022-10-02T15:43:57.833910-04:00.jpg",
+      "source": "original",
+      "mtime": "1664739840",
+      "size": "212041",
+      "md5": "07f87d5048a3d45f375d6002c34a035e",
+      "crc32": "27e3eea4",
+      "sha1": "7cefe7d5e09ebb5d74741fb9f81adeb436beca85",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alternet-2022-10-02T15:43:57.833910-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664739846",
+      "size": "1477",
+      "md5": "297b8bf272c3ccf8f68e93243873a478",
+      "crc32": "69e76a21",
+      "sha1": "265467bc4f513c99d334465c5c085411af823083",
+      "format": "JSON"
     },
     {
       "name": "alternet-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5c048c8c6fd873fc5a4e45f5058f8eca96be8e9c",
-      "mtime": "1664707402",
-      "size": "268766",
-      "md5": "6afc5c22575f18d65410aabbe1c07b14",
-      "crc32": "7eae9e28",
-      "sha1": "5aaf14a2ba16139dbaa6d03bab9e1dd2efdabe8f",
+      "btih": "3853ddadcd4d1533ef596b7bfa9e120f8904d49a",
+      "mtime": "1664739924",
+      "size": "269806",
+      "md5": "575831d77e67f876ea04765a7fb9f17a",
+      "crc32": "1efe6c32",
+      "sha1": "76180ec7d612b3a0f6bedab9523926f8f657105e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "alternet-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5a506895d28c95f1c4aecce3519d76fb",
+      "md5": "7eb7eb7490f7fc236f97762766f6b917",
       "summation": "md5"
     },
     {
       "name": "alternet-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664707342",
-      "size": "1609728",
-      "md5": "cb71c597323d1531ab311d4550359d34",
-      "crc32": "3f2483ae",
-      "sha1": "9b707d50a87ea136dd0123aebdec9dc92db7943e",
+      "mtime": "1664739859",
+      "size": "1613824",
+      "md5": "00522839ae4838ec8470df08075ddcaf",
+      "crc32": "7a74d38d",
+      "sha1": "f4b333fa29952b7d76a23f23cd2de44507fb4082",
       "format": "Metadata"
     },
     {
@@ -13228,9 +13273,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1278,
-  "item_last_updated": 1664707402,
-  "item_size": 70221944,
+  "files_count": 1282,
+  "item_last_updated": 1664739924,
+  "item_size": 70482943,
   "metadata": {
     "identifier": "alternet-2022",
     "collection": [
@@ -13252,7 +13297,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3425718177,
+      "task_id": 3426106455,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -13260,7 +13305,7 @@
       "status": "running"
     }
   ],
-  "uniq": 324317548,
+  "uniq": 227034350,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]
