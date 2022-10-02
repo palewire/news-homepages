@@ -1,5 +1,6 @@
 {
-  "created": 1664674118,
+  "conflict": 1664715591,
+  "created": 1664715591,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/12/items/lasvegassun-2022",
@@ -10185,21 +10186,32 @@
       "format": "JSON"
     },
     {
+      "name": "lasvegassun-2022-10-01T18:27:28.375386-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lasvegassun-2022-10-01T18:27:28.375386-07:00.jpg",
+      "mtime": "1664676607",
+      "size": "10117",
+      "md5": "1f2e6ad8b3f11f0ad02701472dfa3b4b",
+      "crc32": "9dfa0b53",
+      "sha1": "b9f1b8b7dc339a581d7066fb445d7957194cadab"
+    },
+    {
       "name": "lasvegassun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "46389f5c9f697549982b31ddb83690d19677786b",
-      "mtime": "1664674112",
-      "size": "211098",
-      "md5": "f112a0b443f2e1fcb8083171749ff1a5",
-      "crc32": "40b3fd93",
-      "sha1": "27ffa956e92362685111ca2c4d73a45d79030de8",
+      "btih": "09755369b327130eb49231d749a2abd58dd63276",
+      "mtime": "1664676659",
+      "size": "211306",
+      "md5": "e15b4ed5ea6a4d6aa4c65c0f7a2044f4",
+      "crc32": "18454232",
+      "sha1": "eefad9da503135fec2c1a1d501fc6413902abac1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lasvegassun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4a1db3773801cbe64ffdee57c2038a68",
+      "md5": "c99ae84a51132de0dec808416d0ad0bb",
       "summation": "md5"
     },
     {
@@ -10223,9 +10235,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 986,
-  "item_last_updated": 1664674112,
-  "item_size": 72961968,
+  "files_count": 987,
+  "item_last_updated": 1664676659,
+  "item_size": 72972293,
   "metadata": {
     "identifier": "lasvegassun-2022",
     "collection": [
@@ -10247,15 +10259,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3425269209,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "task_id": 3425808114,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 337955354,
+  "uniq": 1109754751,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

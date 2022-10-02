@@ -1,5 +1,5 @@
 {
-  "created": 1664674112,
+  "created": 1664715739,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/19/items/kitv4-2022",
@@ -2279,31 +2279,104 @@
       "format": "JSON"
     },
     {
+      "name": "kitv4-2022-10-01T15:27:21.915482-10:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kitv4-2022-10-01T15:27:21.915482-10:00.jpg",
+      "mtime": "1664676882",
+      "size": "9954",
+      "md5": "1085b581b69bc7834d1a253834f27cf3",
+      "crc32": "8f9e3afe",
+      "sha1": "26684d1e0d8d56c657bad106dd857c4d62e14907"
+    },
+    {
+      "name": "kitv4-2022-10-02T02:58:36.584448-10:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664715525",
+      "size": "38210",
+      "md5": "bd036a8dc78c5d416ee9354b22f7f864",
+      "crc32": "751eb2eb",
+      "sha1": "45997d7fc923ca2f1459f1e4d7b9c73c5dafde1f",
+      "format": "JSON"
+    },
+    {
+      "name": "kitv4-2022-10-02T02:58:36.584448-10:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664715526",
+      "size": "65120",
+      "md5": "f130188379b1d175999ffd08563c722a",
+      "crc32": "42d81e86",
+      "sha1": "164f53927bc83a5b5fc5e8b399e11d0fd475b06c",
+      "format": "JSON"
+    },
+    {
+      "name": "kitv4-2022-10-02T02:58:36.584448-10:00.jpg",
+      "source": "original",
+      "mtime": "1664715523",
+      "size": "283479",
+      "md5": "4df4f663e83f48f8ed5a9bddb7058e18",
+      "crc32": "01be7269",
+      "sha1": "31f39fde1e2df254b986aa2458c4fdd9bb0708b4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kitv4-2022-10-02T02:58:36.584448-10:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664715528",
+      "size": "1438",
+      "md5": "6aa21c10e780099bbc78efda62a70742",
+      "crc32": "145e88aa",
+      "sha1": "d573ca29e4ba4290c020e12bd931434357e6a2cb",
+      "format": "JSON"
+    },
+    {
+      "name": "kitv4-2022-10-02T02:58:36.584448-10:00.wayback.json",
+      "source": "original",
+      "mtime": "1664715529",
+      "size": "55100",
+      "md5": "8426666744dcd84c6804fce8516a299b",
+      "crc32": "8889f321",
+      "sha1": "6db7f1f334644021089b356643ce84749d7c1fb6",
+      "format": "JSON"
+    },
+    {
+      "name": "kitv4-2022-10-02T02:58:36.584448-10:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kitv4-2022-10-02T02:58:36.584448-10:00.jpg",
+      "mtime": "1664715653",
+      "size": "10226",
+      "md5": "50621c06e3072be8fe3033b87b9058cc",
+      "crc32": "44b13bed",
+      "sha1": "026afcf79947301cd0c88088e22ca21fff103c4d"
+    },
+    {
       "name": "kitv4-2022_archive.torrent",
       "source": "metadata",
-      "btih": "08ed980b10c6ff26923673a8a129077ff4264be3",
-      "mtime": "1664674100",
-      "size": "47148",
-      "md5": "372750db28ce40ce5bba4ccc180517ba",
-      "crc32": "deeddc17",
-      "sha1": "22320e27b8be8f87aeb9a8a7609d3db1b8076cd3",
+      "btih": "4cc2877ea4f910429bf90aeb5d93ae5cef4dcbc0",
+      "mtime": "1664715657",
+      "size": "48599",
+      "md5": "2d35a267d12dffc528db3efb340ea9ff",
+      "crc32": "de8fd73b",
+      "sha1": "176b228f0746e057bba9eb2f37f8d7313d60a980",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kitv4-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bc89af1a1d6290aea2b84a5d710de8b5",
+      "md5": "6a0fb26510911911f9eebad9a16cb274",
       "summation": "md5"
     },
     {
       "name": "kitv4-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664674061",
-      "size": "299008",
-      "md5": "f179978afbcd041ffa3413429d48f707",
-      "crc32": "550092b9",
-      "sha1": "ab01d0a6c5a7e9fbb77a1a2d7d32fd9d9e522d89",
+      "mtime": "1664715534",
+      "size": "307200",
+      "md5": "685b2ad7122b3a6022c26d9908a14aad",
+      "crc32": "9eefd5aa",
+      "sha1": "5171844aa8f28b0793dcfe8c927de7292b3da417",
       "format": "Metadata"
     },
     {
@@ -2317,9 +2390,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 224,
-  "item_last_updated": 1664674100,
-  "item_size": 18814993,
+  "files_count": 231,
+  "item_last_updated": 1664715657,
+  "item_size": 19288163,
   "metadata": {
     "identifier": "kitv4-2022",
     "collection": [
@@ -2336,21 +2409,10 @@
     "publicdate": "2022-09-14 12:03:36",
     "addeddate": "2022-09-14 12:03:36"
   },
-  "pending_tasks": true,
   "server": "ia601509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3425269131,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 520070712,
+  "uniq": 325273532,
   "workable_servers": [
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }
