@@ -1,5 +1,5 @@
 {
-  "created": 1664695354,
+  "created": 1664698706,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/15/items/parisreview-2022",
@@ -12749,21 +12749,32 @@
       "format": "JSON"
     },
     {
+      "name": "parisreview-2022-10-02T09:21:14.469295+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "parisreview-2022-10-02T09:21:14.469295+02:00.jpg",
+      "mtime": "1664697987",
+      "size": "9921",
+      "md5": "22fe520627b244c38a1318322e735800",
+      "crc32": "e0c0ef4c",
+      "sha1": "a76053f18961a6187e4bf16fd8a69de63ccb5075"
+    },
+    {
       "name": "parisreview-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1b9cc924527f8f5b34c7c4bb08ecb622bbe7797a",
-      "mtime": "1664695344",
-      "size": "263173",
-      "md5": "80031e3980ebd0017d793b03024ebb67",
-      "crc32": "addd36c7",
-      "sha1": "bd1dba88727bd721877a7deb1d0701af407d7363",
+      "btih": "79672c15619d59ced9b809bf1a200b7dc23b496b",
+      "mtime": "1664698001",
+      "size": "263380",
+      "md5": "ef7d99db9e80ac6ff3375f627b9e167d",
+      "crc32": "977fd33c",
+      "sha1": "a2bb4c8677d24df4a8d88fb8ad3bb0cc4f987fd9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "parisreview-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cac095fe92739410c90ffdc6d9e941dc",
+      "md5": "c1bf1f2553492b8a0d79ea4cb9f3a496",
       "summation": "md5"
     },
     {
@@ -12787,9 +12798,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1234,
-  "item_last_updated": 1664695344,
-  "item_size": 71231204,
+  "files_count": 1235,
+  "item_last_updated": 1664698001,
+  "item_size": 71241332,
   "metadata": {
     "identifier": "parisreview-2022",
     "collection": [
@@ -12806,6 +12817,11 @@
     "publicdate": "2022-07-04 21:51:06",
     "addeddate": "2022-07-04 21:51:06"
   },
+  "parisreview-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "pending_tasks": true,
   "server": "ia601403.us.archive.org",
   "servers_unavailable": true,
@@ -12817,9 +12833,57 @@
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
+    },
+    {
+      "task_id": 3425599394,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3425605712,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3425605732,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3425605749,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3425605766,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3425605791,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 135390628,
+  "uniq": 1230022472,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]
