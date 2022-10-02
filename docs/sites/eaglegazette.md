@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 22 screenshots with the Internet Archive.
+The archiving routine has saved 24 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-01T19:56:05.269189-04:00.jpg">
+  <img src="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-01T19:56:05.269189-04:00.jpg"
+     alt="Lancaster Eagle-Gazette at 2022-10-01 19:56:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-01T19:56:05.269189-04:00.jpg">October 1 at 7:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-01T07:55:09.753348-04:00.jpg">
+  <img src="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-01T07:55:09.753348-04:00.jpg"
+     alt="Lancaster Eagle-Gazette at 2022-10-01 07:55:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-01T07:55:09.753348-04:00.jpg">October 1 at 7:55 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-30T19:51:34.487363-04:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-26T08:01:19.394943-04:00.jpg">September 26 at 8:01 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-25T19:43:05.843645-04:00.jpg">
-  <img src="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-25T19:43:05.843645-04:00.jpg"
-     alt="Lancaster Eagle-Gazette at 2022-09-25 19:43:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-25T19:43:05.843645-04:00.jpg">September 25 at 7:43 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-25T07:46:42.820198-04:00.jpg">
-  <img src="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-25T07:46:42.820198-04:00.jpg"
-     alt="Lancaster Eagle-Gazette at 2022-09-25 07:46:45-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-25T07:46:42.820198-04:00.jpg">September 25 at 7:46 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 22 hyperlink lists with the Internet Archive.
+The archiving routine has saved 24 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 7:56 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-01T19:56:05.269189-04:00.hyperlinks.json) |
+| [October 1 at 7:55 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-01T07:55:09.753348-04:00.hyperlinks.json) |
 | [September 30 at 7:51 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-30T19:51:34.487363-04:00.hyperlinks.json) |
 | [September 30 at 8:01 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-30T08:01:40.454090-04:00.hyperlinks.json) |
 | [September 29 at 8:00 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-29T20:00:33.498289-04:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 28 at 8:09 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-28T08:09:14.567367-04:00.hyperlinks.json) |
 | [September 27 at 7:52 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-27T19:52:23.963727-04:00.hyperlinks.json) |
 | [September 27 at 7:54 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-27T07:54:11.822493-04:00.hyperlinks.json) |
-| [September 26 at 7:48 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-26T19:48:26.207777-04:00.hyperlinks.json) |
-| [September 26 at 8:01 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-26T08:01:19.394943-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 22 accessibility trees with the Internet Archive.
+The archiving routine has saved 24 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 7:56 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-01T19:56:05.269189-04:00.accessibility.json) |
+| [October 1 at 7:55 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-01T07:55:09.753348-04:00.accessibility.json) |
 | [September 30 at 7:51 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-30T19:51:34.487363-04:00.accessibility.json) |
 | [September 30 at 8:01 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-30T08:01:40.454090-04:00.accessibility.json) |
 | [September 29 at 8:00 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-29T20:00:33.498289-04:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 28 at 8:09 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-28T08:09:14.567367-04:00.accessibility.json) |
 | [September 27 at 7:52 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-27T19:52:23.963727-04:00.accessibility.json) |
 | [September 27 at 7:54 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-27T07:54:11.822493-04:00.accessibility.json) |
-| [September 26 at 7:48 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-26T19:48:26.207777-04:00.accessibility.json) |
-| [September 26 at 8:01 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-26T08:01:19.394943-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 7:56 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-01T19:56:05.269189-04:00.lighthouse.json) |
+| [October 1 at 7:55 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-01T07:55:09.753348-04:00.lighthouse.json) |
 | [September 30 at 7:51 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-30T19:51:34.487363-04:00.lighthouse.json) |
 | [September 30 at 8:01 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-30T08:01:40.454090-04:00.lighthouse.json) |
 | [September 29 at 8:00 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-29T20:00:33.498289-04:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 28 at 8:09 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-28T08:09:14.567367-04:00.lighthouse.json) |
 | [September 27 at 7:52 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-27T19:52:23.963727-04:00.lighthouse.json) |
 | [September 27 at 7:54 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-27T07:54:11.822493-04:00.lighthouse.json) |
-| [September 26 at 7:48 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-26T19:48:26.207777-04:00.lighthouse.json) |
-| [September 26 at 8:01 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-09-26T08:01:19.394943-04:00.lighthouse.json) |
 
 
 

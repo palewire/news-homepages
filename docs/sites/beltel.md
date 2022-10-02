@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 199 screenshots with the Internet Archive.
+The archiving routine has saved 200 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 199 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/beltel-2022/beltel-2022-10-01T23:58:23.195162+01:00.jpg">
+  <img src="https://archive.org/download/beltel-2022/beltel-2022-10-01T23:58:23.195162+01:00.jpg"
+     alt="Belfast Telegraph at 2022-10-01 23:58:25+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/beltel-2022/beltel-2022-10-01T23:58:23.195162+01:00.jpg">October 1 at 11:58 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/beltel-2022/beltel-2022-10-01T11:51:35.178879+01:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/beltel-2022/beltel-2022-09-28T10:24:43.111316+01:00.jpg">September 28 at 10:24 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/beltel-2022/beltel-2022-09-27T23:55:30.230374+01:00.jpg">
-  <img src="https://archive.org/download/beltel-2022/beltel-2022-09-27T23:55:30.230374+01:00.jpg"
-     alt="Belfast Telegraph at 2022-09-27 23:55:32+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/beltel-2022/beltel-2022-09-27T23:55:30.230374+01:00.jpg">September 27 at 11:55 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 200 hyperlink lists with the Internet Archive.
+The archiving routine has saved 201 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 11:58 PM](https://archive.org/download/beltel-2022/beltel-2022-10-01T23:58:23.195162+01:00.hyperlinks.json) |
 | [October 1 at 11:51 AM](https://archive.org/download/beltel-2022/beltel-2022-10-01T11:51:35.178879+01:00.hyperlinks.json) |
 | [October 1 at 10:19 AM](https://archive.org/download/beltel-2022/beltel-2022-10-01T10:19:28.350086+01:00.hyperlinks.json) |
 | [October 1 at 12:02 AM](https://archive.org/download/beltel-2022/beltel-2022-10-01T00:02:16.170030+01:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 29 at 11:53 AM](https://archive.org/download/beltel-2022/beltel-2022-09-29T11:53:20.622566+01:00.hyperlinks.json) |
 | [September 29 at 10:23 AM](https://archive.org/download/beltel-2022/beltel-2022-09-29T10:23:12.239120+01:00.hyperlinks.json) |
 | [September 28 at 11:56 PM](https://archive.org/download/beltel-2022/beltel-2022-09-28T23:55:43.652317+01:00.hyperlinks.json) |
-| [September 28 at 12:04 PM](https://archive.org/download/beltel-2022/beltel-2022-09-28T12:04:42.323832+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 200 accessibility trees with the Internet Archive.
+The archiving routine has saved 201 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 11:58 PM](https://archive.org/download/beltel-2022/beltel-2022-10-01T23:58:23.195162+01:00.accessibility.json) |
 | [October 1 at 11:51 AM](https://archive.org/download/beltel-2022/beltel-2022-10-01T11:51:35.178879+01:00.accessibility.json) |
 | [October 1 at 10:19 AM](https://archive.org/download/beltel-2022/beltel-2022-10-01T10:19:28.350086+01:00.accessibility.json) |
 | [October 1 at 12:02 AM](https://archive.org/download/beltel-2022/beltel-2022-10-01T00:02:16.170030+01:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 29 at 11:53 AM](https://archive.org/download/beltel-2022/beltel-2022-09-29T11:53:20.622566+01:00.accessibility.json) |
 | [September 29 at 10:23 AM](https://archive.org/download/beltel-2022/beltel-2022-09-29T10:23:12.239120+01:00.accessibility.json) |
 | [September 28 at 11:56 PM](https://archive.org/download/beltel-2022/beltel-2022-09-28T23:55:43.652317+01:00.accessibility.json) |
-| [September 28 at 12:04 PM](https://archive.org/download/beltel-2022/beltel-2022-09-28T12:04:42.323832+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 188 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 189 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 11:58 PM](https://archive.org/download/beltel-2022/beltel-2022-10-01T23:58:23.195162+01:00.lighthouse.json) |
 | [October 1 at 11:51 AM](https://archive.org/download/beltel-2022/beltel-2022-10-01T11:51:35.178879+01:00.lighthouse.json) |
 | [October 1 at 10:19 AM](https://archive.org/download/beltel-2022/beltel-2022-10-01T10:19:28.350086+01:00.lighthouse.json) |
 | [October 1 at 12:02 AM](https://archive.org/download/beltel-2022/beltel-2022-10-01T00:02:16.170030+01:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 29 at 11:53 AM](https://archive.org/download/beltel-2022/beltel-2022-09-29T11:53:20.622566+01:00.lighthouse.json) |
 | [September 29 at 10:23 AM](https://archive.org/download/beltel-2022/beltel-2022-09-29T10:23:12.239120+01:00.lighthouse.json) |
 | [September 28 at 11:56 PM](https://archive.org/download/beltel-2022/beltel-2022-09-28T23:55:43.652317+01:00.lighthouse.json) |
-| [September 28 at 12:04 PM](https://archive.org/download/beltel-2022/beltel-2022-09-28T12:04:42.323832+01:00.lighthouse.json) |
 
 
 

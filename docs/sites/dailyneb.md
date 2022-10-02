@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 128 screenshots with the Internet Archive.
+The archiving routine has saved 130 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-10-01T18:53:19.429910-05:00.jpg">
+  <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-10-01T18:53:19.429910-05:00.jpg"
+     alt="Daily Nebraskan at 2022-10-01 18:53:35-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-10-01T18:53:19.429910-05:00.jpg">October 1 at 6:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-10-01T06:54:01.442462-05:00.jpg">
+  <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-10-01T06:54:01.442462-05:00.jpg"
+     alt="Daily Nebraskan at 2022-10-01 06:54:07-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-10-01T06:54:01.442462-05:00.jpg">October 1 at 6:54 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-30T18:49:16.483015-05:00.jpg">
   <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-30T18:49:16.483015-05:00.jpg"
      alt="Daily Nebraskan at 2022-09-30 18:49:23-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-26T06:59:20.392836-05:00.jpg">September 26 at 6:59 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-25T18:41:12.412948-05:00.jpg">
-  <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-25T18:41:12.412948-05:00.jpg"
-     alt="Daily Nebraskan at 2022-09-25 18:41:17-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-25T18:41:12.412948-05:00.jpg">September 25 at 6:41 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-25T06:46:11.795669-05:00.jpg">
-  <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-25T06:46:11.795669-05:00.jpg"
-     alt="Daily Nebraskan at 2022-09-25 06:46:15-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-25T06:46:11.795669-05:00.jpg">September 25 at 6:46 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 129 hyperlink lists with the Internet Archive.
+The archiving routine has saved 131 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 6:53 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-01T18:53:19.429910-05:00.hyperlinks.json) |
+| [October 1 at 6:54 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-01T06:54:01.442462-05:00.hyperlinks.json) |
 | [September 30 at 6:49 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-30T18:49:16.483015-05:00.hyperlinks.json) |
 | [September 30 at 6:59 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-30T06:59:40.291410-05:00.hyperlinks.json) |
 | [September 29 at 6:55 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-29T18:55:42.299817-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 28 at 7:07 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-28T07:07:46.535264-05:00.hyperlinks.json) |
 | [September 27 at 6:50 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-27T18:50:06.643948-05:00.hyperlinks.json) |
 | [September 27 at 6:53 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-27T06:53:03.286882-05:00.hyperlinks.json) |
-| [September 26 at 6:45 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-26T18:45:22.337865-05:00.hyperlinks.json) |
-| [September 26 at 6:59 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-26T06:59:20.392836-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 129 accessibility trees with the Internet Archive.
+The archiving routine has saved 131 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 6:53 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-01T18:53:19.429910-05:00.accessibility.json) |
+| [October 1 at 6:54 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-01T06:54:01.442462-05:00.accessibility.json) |
 | [September 30 at 6:49 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-30T18:49:16.483015-05:00.accessibility.json) |
 | [September 30 at 6:59 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-30T06:59:40.291410-05:00.accessibility.json) |
 | [September 29 at 6:55 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-29T18:55:42.299817-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 28 at 7:07 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-28T07:07:46.535264-05:00.accessibility.json) |
 | [September 27 at 6:50 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-27T18:50:06.643948-05:00.accessibility.json) |
 | [September 27 at 6:53 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-27T06:53:03.286882-05:00.accessibility.json) |
-| [September 26 at 6:45 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-26T18:45:22.337865-05:00.accessibility.json) |
-| [September 26 at 6:59 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-26T06:59:20.392836-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 129 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 131 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 6:53 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-01T18:53:19.429910-05:00.lighthouse.json) |
+| [October 1 at 6:54 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-01T06:54:01.442462-05:00.lighthouse.json) |
 | [September 30 at 6:49 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-30T18:49:16.483015-05:00.lighthouse.json) |
 | [September 30 at 6:59 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-30T06:59:40.291410-05:00.lighthouse.json) |
 | [September 29 at 6:55 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-29T18:55:42.299817-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 28 at 7:07 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-28T07:07:46.535264-05:00.lighthouse.json) |
 | [September 27 at 6:50 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-27T18:50:06.643948-05:00.lighthouse.json) |
 | [September 27 at 6:53 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-27T06:53:03.286882-05:00.lighthouse.json) |
-| [September 26 at 6:45 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-26T18:45:22.337865-05:00.lighthouse.json) |
-| [September 26 at 6:59 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-26T06:59:20.392836-05:00.lighthouse.json) |
 
 
 

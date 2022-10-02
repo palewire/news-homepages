@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 184 screenshots with the Internet Archive.
+The archiving routine has saved 186 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-10-01T19:58:52.466925-04:00.jpg">
+  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-10-01T19:58:52.466925-04:00.jpg"
+     alt="Hell Gate at 2022-10-01 19:59:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-10-01T19:58:52.466925-04:00.jpg">October 1 at 7:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-10-01T07:59:20.709836-04:00.jpg">
+  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-10-01T07:59:20.709836-04:00.jpg"
+     alt="Hell Gate at 2022-10-01 07:59:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-10-01T07:59:20.709836-04:00.jpg">October 1 at 7:59 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-09-30T19:53:55.040256-04:00.jpg">
   <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-09-30T19:53:55.040256-04:00.jpg"
      alt="Hell Gate at 2022-09-30 19:53:56-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-09-26T08:04:24.464121-04:00.jpg">September 26 at 8:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-09-25T19:45:25.760491-04:00.jpg">
-  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-09-25T19:45:25.760491-04:00.jpg"
-     alt="Hell Gate at 2022-09-25 19:45:26-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-09-25T19:45:25.760491-04:00.jpg">September 25 at 7:45 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-09-25T07:49:51.664079-04:00.jpg">
-  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-09-25T07:49:51.664079-04:00.jpg"
-     alt="Hell Gate at 2022-09-25 07:50:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-09-25T07:49:51.664079-04:00.jpg">September 25 at 7:50 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 182 hyperlink lists with the Internet Archive.
+The archiving routine has saved 184 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 7:59 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-10-01T19:58:52.466925-04:00.hyperlinks.json) |
+| [October 1 at 7:59 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-10-01T07:59:20.709836-04:00.hyperlinks.json) |
 | [September 30 at 7:53 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-30T19:53:55.040256-04:00.hyperlinks.json) |
 | [September 30 at 8:04 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-30T08:04:22.620555-04:00.hyperlinks.json) |
 | [September 29 at 8:02 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-29T20:01:58.549345-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 28 at 8:12 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-28T08:12:03.215918-04:00.hyperlinks.json) |
 | [September 27 at 7:54 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-27T19:54:38.016806-04:00.hyperlinks.json) |
 | [September 27 at 7:57 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-27T07:57:13.969837-04:00.hyperlinks.json) |
-| [September 26 at 7:50 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-26T19:49:57.989823-04:00.hyperlinks.json) |
-| [September 26 at 8:04 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-26T08:04:24.464121-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 183 accessibility trees with the Internet Archive.
+The archiving routine has saved 185 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 7:59 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-10-01T19:58:52.466925-04:00.accessibility.json) |
+| [October 1 at 7:59 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-10-01T07:59:20.709836-04:00.accessibility.json) |
 | [September 30 at 7:53 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-30T19:53:55.040256-04:00.accessibility.json) |
 | [September 30 at 8:04 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-30T08:04:22.620555-04:00.accessibility.json) |
 | [September 29 at 8:02 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-29T20:01:58.549345-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 28 at 8:12 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-28T08:12:03.215918-04:00.accessibility.json) |
 | [September 27 at 7:54 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-27T19:54:38.016806-04:00.accessibility.json) |
 | [September 27 at 7:57 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-27T07:57:13.969837-04:00.accessibility.json) |
-| [September 26 at 7:50 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-26T19:49:57.989823-04:00.accessibility.json) |
-| [September 26 at 8:04 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-26T08:04:24.464121-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 139 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 141 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 7:59 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-10-01T19:58:52.466925-04:00.lighthouse.json) |
+| [October 1 at 7:59 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-10-01T07:59:20.709836-04:00.lighthouse.json) |
 | [September 30 at 7:54 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-30T19:53:55.040256-04:00.lighthouse.json) |
 | [September 30 at 8:04 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-30T08:04:22.620555-04:00.lighthouse.json) |
 | [September 29 at 8:02 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-29T20:01:58.549345-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 28 at 8:12 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-28T08:12:03.215918-04:00.lighthouse.json) |
 | [September 27 at 7:54 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-27T19:54:38.016806-04:00.lighthouse.json) |
 | [September 27 at 7:57 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-27T07:57:13.969837-04:00.lighthouse.json) |
-| [September 26 at 7:50 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-26T19:49:57.989823-04:00.lighthouse.json) |
-| [September 26 at 8:04 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-26T08:04:24.464121-04:00.lighthouse.json) |
 
 
 
