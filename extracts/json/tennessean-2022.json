@@ -1,5 +1,5 @@
 {
-  "created": 1664639409,
+  "created": 1664682220,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/30/items/tennessean-2022",
@@ -1380,31 +1380,82 @@
       "sha1": "9b9f8fc2328deeb937386ce1baa5f7542c2595e8"
     },
     {
+      "name": "tennessean-2022-10-01T22:42:45.621371-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664682168",
+      "size": "22798",
+      "md5": "47c4d9977008063aeedee4692090d39f",
+      "crc32": "795da207",
+      "sha1": "4685b264085151ec1d0840b4962c0b0dacef9319",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-01T22:42:45.621371-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664682169",
+      "size": "38606",
+      "md5": "32f5c9bbea69b9a55f1331b2e621ba9c",
+      "crc32": "761f3f98",
+      "sha1": "13a7ffa5a1a48b66be0345badcfd4e9aa31fb7df",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-01T22:42:45.621371-05:00.jpg",
+      "source": "original",
+      "mtime": "1664682166",
+      "size": "237488",
+      "md5": "2da0f42e64db5b1aa70ed74a9bc55d4f",
+      "crc32": "508b43b0",
+      "sha1": "a18492d88c595beb1d57af8ecaa7b83b0687c294",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tennessean-2022-10-01T22:42:45.621371-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664682173",
+      "size": "1494",
+      "md5": "8012fe2bb018555fd7a32707a8328cc5",
+      "crc32": "820ec65d",
+      "sha1": "49eb0bcdb3e5eeb43308b880b778708df0ef0c96",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-01T22:42:45.621371-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664682174",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "tennessean-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7b330b53c1e7b67cf63d9b07d40d826299f3cc03",
-      "mtime": "1664639365",
-      "size": "29689",
-      "md5": "c9eb16c7dff288abd3717a99c59d1a0c",
-      "crc32": "0a1f9a7d",
-      "sha1": "a6ce8e56233a5c13154657513fe434d6b9b56c0f",
+      "btih": "c6be233ae6cf43dde7badf49c7f21ef3811f894b",
+      "mtime": "1664682218",
+      "size": "30760",
+      "md5": "c4fcb09a99c8fde2c2fca31f679b9f20",
+      "crc32": "826e6e1d",
+      "sha1": "b610a07f66e527203ab726f3c97c89113e50269a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tennessean-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "46375a3d8d6c9b9b0e06e51e2de0a027",
+      "md5": "ab8b4cb2a2459af9d30b5b303ef68c69",
       "summation": "md5"
     },
     {
       "name": "tennessean-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664636709",
-      "size": "192512",
-      "md5": "93039a266b7eea6bc73283a24bdd19a2",
-      "crc32": "c04c9c5d",
-      "sha1": "0dc697e192e31bd0b422bd854b7796150fbdaf7a",
+      "mtime": "1664682180",
+      "size": "200704",
+      "md5": "b196d0f81147b0dc5fc4ae9f8bdbc2ee",
+      "crc32": "a3ab81f9",
+      "sha1": "683375acec676c20c2f4a31eab15a857d4a541cd",
       "format": "Metadata"
     },
     {
@@ -1418,9 +1469,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 137,
-  "item_last_updated": 1664639365,
-  "item_size": 9329401,
+  "files_count": 142,
+  "item_last_updated": 1664682218,
+  "item_size": 9639252,
   "metadata": {
     "identifier": "tennessean-2022",
     "collection": [
@@ -1437,10 +1488,21 @@
     "publicdate": "2022-09-21 03:43:04",
     "addeddate": "2022-09-21 03:43:04"
   },
-  "server": "ia801509.us.archive.org",
-  "uniq": 154438178,
+  "pending_tasks": true,
+  "server": "ia601509.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3425383552,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 708915359,
   "workable_servers": [
-    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }

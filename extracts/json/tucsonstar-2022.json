@@ -1,5 +1,5 @@
 {
-  "created": 1664639727,
+  "created": 1664682522,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/34/items/tucsonstar-2022",
@@ -9906,31 +9906,82 @@
       "sha1": "e230692506f6696227b421b05d491ad000d25773"
     },
     {
+      "name": "tucsonstar-2022-10-01T20:47:19.591532-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664682447",
+      "size": "26444",
+      "md5": "0d860bbb65667088fa7b5a4b50a3145b",
+      "crc32": "444ca41f",
+      "sha1": "b4e117168c0f8afe59220d730b07d8566f0278c3",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonstar-2022-10-01T20:47:19.591532-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664682449",
+      "size": "74505",
+      "md5": "960f275c35f9e1504b0ddd188289d5e0",
+      "crc32": "b4ad4a4a",
+      "sha1": "76356919a1d96ed6b7f8dbcb33af2a2b163960ed",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonstar-2022-10-01T20:47:19.591532-07:00.jpg",
+      "source": "original",
+      "mtime": "1664682445",
+      "size": "338160",
+      "md5": "255452023e5b3ed1c1bd769c57e72232",
+      "crc32": "897a979b",
+      "sha1": "0b73ffa6b4d71b3f0e05f388c1ceac555699dcfe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tucsonstar-2022-10-01T20:47:19.591532-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664682451",
+      "size": "1423",
+      "md5": "b29c711348fe4d2da849fb51c3e07054",
+      "crc32": "a4891e25",
+      "sha1": "0546fe9019accb1fe8d2e3ec1673d7315e3ab903",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonstar-2022-10-01T20:47:19.591532-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664682452",
+      "size": "49486",
+      "md5": "fec34bcb1d2d3365c5f9bc56cabe9b0c",
+      "crc32": "87829ec9",
+      "sha1": "b23513f7ae35fa1cb9d14a664e9e2b250bc65d8e",
+      "format": "JSON"
+    },
+    {
       "name": "tucsonstar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a9a77d20f200eefced2416aa84c351f8d654da89",
-      "mtime": "1664639575",
-      "size": "204916",
-      "md5": "cc7fd9c259c81caff03e3f78932bd98b",
-      "crc32": "6ba5ee16",
-      "sha1": "b4086e1a9dd0f299992d0c2ac87ca64c28ff55a7",
+      "btih": "4cf60d49290eaf20bf16a0dc56f9b2d3eab57c21",
+      "mtime": "1664682512",
+      "size": "205989",
+      "md5": "54cf717ffb84a3ef45b588da987aeeb9",
+      "crc32": "f6091db2",
+      "sha1": "2c5da54e00c7511ad4e10d2437b66062af3c51a3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tucsonstar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dc89fc8293571034954cb02e9be23737",
+      "md5": "84c3c4272572fc55ddd811858a03dd41",
       "summation": "md5"
     },
     {
       "name": "tucsonstar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664636826",
-      "size": "1208320",
-      "md5": "b43f967902e6b8a71c6b30cadebd0e86",
-      "crc32": "95541c7f",
-      "sha1": "392b17ec4ac57df3145c741c4992319692b1e78e",
+      "mtime": "1664682460",
+      "size": "1216512",
+      "md5": "7fbe244c30737adfada46a04f04ba123",
+      "crc32": "c72f4308",
+      "sha1": "cd23243cc3dc07ba2bfda9b8fd86643d8af82a3e",
       "format": "Metadata"
     },
     {
@@ -9944,9 +9995,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 959,
-  "item_last_updated": 1664639575,
-  "item_size": 81102843,
+  "files_count": 964,
+  "item_last_updated": 1664682512,
+  "item_size": 81602126,
   "metadata": {
     "identifier": "tucsonstar-2022",
     "collection": [
@@ -9963,10 +10014,21 @@
     "publicdate": "2022-07-04 21:48:03",
     "addeddate": "2022-07-04 21:48:03"
   },
+  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "uniq": 1238444062,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3425388813,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1075073085,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia601403.us.archive.org"
   ]
 }

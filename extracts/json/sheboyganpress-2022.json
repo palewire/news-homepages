@@ -1,5 +1,5 @@
 {
-  "created": 1664639398,
+  "created": 1664682180,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/7/items/sheboyganpress-2022",
@@ -1358,31 +1358,82 @@
       "sha1": "fcfa85fd4c9ed6d2aad34d6c3b68122f734c10d0"
     },
     {
+      "name": "sheboyganpress-2022-10-01T22:42:02.421257-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664682127",
+      "size": "22436",
+      "md5": "f47d381183fd3c73a6bbf07b1da6fcef",
+      "crc32": "aae23362",
+      "sha1": "e5ce7704b87e6f8f42975da25acee790813a67d2",
+      "format": "JSON"
+    },
+    {
+      "name": "sheboyganpress-2022-10-01T22:42:02.421257-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664682128",
+      "size": "33634",
+      "md5": "138ba658a8b57b51a433aca39857e875",
+      "crc32": "91f1aadc",
+      "sha1": "6d6c3d5e4ed0da64d0e0e34c3febeb56d53b56f6",
+      "format": "JSON"
+    },
+    {
+      "name": "sheboyganpress-2022-10-01T22:42:02.421257-05:00.jpg",
+      "source": "original",
+      "mtime": "1664682125",
+      "size": "259262",
+      "md5": "ee8876d00eeceec5b15481c4b6d977c2",
+      "crc32": "b706e07d",
+      "sha1": "bc953bdb78c4cd2fd0709d5f9bf49c4faccaae71",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sheboyganpress-2022-10-01T22:42:02.421257-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664682130",
+      "size": "1531",
+      "md5": "88b0e9d57a08d57b8d8ba3178ba445a5",
+      "crc32": "0854facc",
+      "sha1": "a6ea5ccc18540ff6cbcc8eb7a4c3ac775eeb2e2d",
+      "format": "JSON"
+    },
+    {
+      "name": "sheboyganpress-2022-10-01T22:42:02.421257-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664682132",
+      "size": "118782",
+      "md5": "3436e89bde66eb1faef4480b17ef94e0",
+      "crc32": "a1d6eab2",
+      "sha1": "0e8a23475d3dd28ef7baab636231d48f7d0b9828",
+      "format": "JSON"
+    },
+    {
       "name": "sheboyganpress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6c449d4c69e2c15f38532d4730595def7829216f",
-      "mtime": "1664639202",
-      "size": "29858",
-      "md5": "0c0502e9f966c56867e309aede5787df",
-      "crc32": "900c8b23",
-      "sha1": "591cea29bfd5ca6170a5026ffe901653bc003147",
+      "btih": "9d47a87095c155afc389becb31842e1e1e1ca2f5",
+      "mtime": "1664682175",
+      "size": "30952",
+      "md5": "3527e95154f6ca29588ad926e5cc189d",
+      "crc32": "6da7339d",
+      "sha1": "bbc9ca808debc1c0cd12002388246f4acb91aa41",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sheboyganpress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3313eedacda07cf8031cef01b2cc2872",
+      "md5": "94cc19ced0c988a2cdc04068a702abb8",
       "summation": "md5"
     },
     {
       "name": "sheboyganpress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664636624",
-      "size": "192512",
-      "md5": "73b87f7a9d593106fff486723729984d",
-      "crc32": "6d73e55c",
-      "sha1": "52c1320f8a9c0abe9e9e367ec1935bfc495bde2a",
+      "mtime": "1664682137",
+      "size": "196608",
+      "md5": "f70120f1a60cbf52462330472f83f15b",
+      "crc32": "1ff8392a",
+      "sha1": "ab40c9db42377cf19d28ce559fb38aa48664361f",
       "format": "Metadata"
     },
     {
@@ -1396,9 +1447,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 135,
-  "item_last_updated": 1664639202,
-  "item_size": 9937824,
+  "files_count": 140,
+  "item_last_updated": 1664682175,
+  "item_size": 10378659,
   "metadata": {
     "identifier": "sheboyganpress-2022",
     "collection": [
@@ -1415,10 +1466,21 @@
     "publicdate": "2022-09-21 03:42:57",
     "addeddate": "2022-09-21 03:42:57"
   },
+  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "uniq": 1375178927,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3425382889,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1504038555,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia601401.us.archive.org"
   ]
 }

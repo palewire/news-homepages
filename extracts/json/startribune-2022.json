@@ -1,5 +1,5 @@
 {
-  "created": 1664639222,
+  "created": 1664682205,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/17/items/startribune-2022",
@@ -16158,31 +16158,82 @@
       "sha1": "7a3017091ed5b2aca4b205bf301679c3e281acbf"
     },
     {
+      "name": "startribune-2022-10-01T22:42:14.060789-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664682137",
+      "size": "44779",
+      "md5": "af5cfa43e3c3f394d4b8fe98de3fc8fe",
+      "crc32": "635c98a9",
+      "sha1": "8836ebc58544d4a740321ae0a24dc4929c83b57b",
+      "format": "JSON"
+    },
+    {
+      "name": "startribune-2022-10-01T22:42:14.060789-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664682139",
+      "size": "62070",
+      "md5": "73f80751aef81821a23a402c00708f2f",
+      "crc32": "4d8903fe",
+      "sha1": "a3550e9ea88518a2a42f0f414b669db6ec49d843",
+      "format": "JSON"
+    },
+    {
+      "name": "startribune-2022-10-01T22:42:14.060789-05:00.jpg",
+      "source": "original",
+      "mtime": "1664682135",
+      "size": "312622",
+      "md5": "14accb6a23911a087072d0c2ff98638f",
+      "crc32": "a62b43ee",
+      "sha1": "b29eeefb8189e335227aa05f8a312c00ede67c8b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "startribune-2022-10-01T22:42:14.060789-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664682142",
+      "size": "1558",
+      "md5": "c0d490f333b3d3eaacc088cdb8a742f8",
+      "crc32": "490d8a94",
+      "sha1": "d2b90b2293797dcc73e54ca741f965567b146824",
+      "format": "JSON"
+    },
+    {
+      "name": "startribune-2022-10-01T22:42:14.060789-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664682144",
+      "size": "49177",
+      "md5": "11004d1173f4394b1cb30ad39a672667",
+      "crc32": "32520778",
+      "sha1": "71b617e24530f9ab6335daf683ee4fe407e51f5a",
+      "format": "JSON"
+    },
+    {
       "name": "startribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "78681fffa3246f18b14d57a8cf17d8447ebd1a81",
-      "mtime": "1664639199",
-      "size": "333004",
-      "md5": "ef1f587cdae3c642fff41b8800a3508d",
-      "crc32": "dd5e1971",
-      "sha1": "5f0bdc1f7548bc37a5090e7612056987e9b6b1c7",
+      "btih": "b7d20abce8cad19f780988bb243dc4acf7bb4436",
+      "mtime": "1664682201",
+      "size": "334062",
+      "md5": "ea4af5f6ffd3aadc46cd3477ed40ad54",
+      "crc32": "73276b4a",
+      "sha1": "1059d7714f48c4263e531446bc659ca22a317050",
       "format": "Archive BitTorrent"
     },
     {
       "name": "startribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "776b579db3a1c8ebc7cfcd96a6e58dbb",
+      "md5": "e49a042d18d0b41f7aaab4217f6e6977",
       "summation": "md5"
     },
     {
       "name": "startribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664636511",
-      "size": "1884160",
-      "md5": "dd7a5598f0a3806050cdf6b097431d00",
-      "crc32": "a467a521",
-      "sha1": "cfdac8fa1661960a16e4555b14bcb3cd9ad4cb98",
+      "mtime": "1664682148",
+      "size": "1892352",
+      "md5": "b29ce7931630b5ffa9597fdfb009b892",
+      "crc32": "78344663",
+      "sha1": "de8a8ec2e85f092f1e6d2fd07ebed8d3be52a6f8",
       "format": "Metadata"
     },
     {
@@ -16196,9 +16247,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1554,
-  "item_last_updated": 1664639199,
-  "item_size": 138788647,
+  "files_count": 1559,
+  "item_last_updated": 1664682201,
+  "item_size": 139268103,
   "metadata": {
     "identifier": "startribune-2022",
     "collection": [
@@ -16215,10 +16266,21 @@
     "publicdate": "2022-04-01 22:42:36",
     "addeddate": "2022-04-01 22:42:36"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 645638006,
+  "pending_tasks": true,
+  "server": "ia902503.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3425383314,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1710018817,
   "workable_servers": [
-    "ia802503.us.archive.org",
     "ia902503.us.archive.org"
   ]
 }

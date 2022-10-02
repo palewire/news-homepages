@@ -1,5 +1,5 @@
 {
-  "created": 1664639331,
+  "created": 1664682221,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/11/items/texastribune-2022",
@@ -11584,31 +11584,82 @@
       "sha1": "4a367d9ecceb383da5e25aadf822b0306f18a278"
     },
     {
+      "name": "texastribune-2022-10-01T22:42:28.250488-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664682151",
+      "size": "38094",
+      "md5": "11a798a3521460774e4050aa90b79e44",
+      "crc32": "1ae5fbbb",
+      "sha1": "11f8ca25fe7cc48b954983418a18e575ed54ee9a",
+      "format": "JSON"
+    },
+    {
+      "name": "texastribune-2022-10-01T22:42:28.250488-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664682153",
+      "size": "21802",
+      "md5": "5dd2a4b8262c735d60864dcd036b4393",
+      "crc32": "90643d95",
+      "sha1": "bc96dc072ec91e2a2349519ddf317702a282c75b",
+      "format": "JSON"
+    },
+    {
+      "name": "texastribune-2022-10-01T22:42:28.250488-05:00.jpg",
+      "source": "original",
+      "mtime": "1664682150",
+      "size": "309529",
+      "md5": "e103566d5661c322720498ad5f2c64c8",
+      "crc32": "bdc7b3bb",
+      "sha1": "2ddc2ecbb5e0e9677f7a1c4c3d719d6a78756e48",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "texastribune-2022-10-01T22:42:28.250488-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664682155",
+      "size": "1504",
+      "md5": "8663f5b3cdd2d87260e4d88ac86ea6b6",
+      "crc32": "ef5344b8",
+      "sha1": "b2f630f89be23034e3659cb93fdc9f0f300e8e12",
+      "format": "JSON"
+    },
+    {
+      "name": "texastribune-2022-10-01T22:42:28.250488-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664682156",
+      "size": "25680",
+      "md5": "0e5714d1b2fcd7bb799d090a42f49bfb",
+      "crc32": "56d454ba",
+      "sha1": "d106ae9373fb0808d08146668f8230a31fada869",
+      "format": "JSON"
+    },
+    {
       "name": "texastribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5882c7655753b2b71469bb95e82ced23aa90d124",
-      "mtime": "1664639221",
-      "size": "240452",
-      "md5": "19cb22adb060a76484c0722fc2a67f94",
-      "crc32": "401da964",
-      "sha1": "0eff4ec98f67750aa73092ba3db6b33711c38362",
+      "btih": "eb39854753a599264a1f9f420c69a596e023e36e",
+      "mtime": "1664682215",
+      "size": "241535",
+      "md5": "ff1bf72bc5fab21ade64a82886559b8b",
+      "crc32": "28a40254",
+      "sha1": "d78cfa6d3d6e0e9ff93e30aff0dd405bc1aeba35",
       "format": "Archive BitTorrent"
     },
     {
       "name": "texastribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "632ddf71da1c1fad9a7e24e92656fd72",
+      "md5": "1020743ade3bf88e4706cb0f1b957727",
       "summation": "md5"
     },
     {
       "name": "texastribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664636566",
-      "size": "1392640",
-      "md5": "7a434c8b7a8a342c74c7c9de76649cf0",
-      "crc32": "eb0510d1",
-      "sha1": "3eeec338a7e789cc5959bec02e4de5c32e07f3c4",
+      "mtime": "1664682163",
+      "size": "1404928",
+      "md5": "8565212c1344fe543dba1cb902353ec2",
+      "crc32": "662554d4",
+      "sha1": "54d0d2e6f87655c35a43466b77c9ffc8eed4bec7",
       "format": "Metadata"
     },
     {
@@ -11622,9 +11673,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1119,
-  "item_last_updated": 1664639221,
-  "item_size": 80331184,
+  "files_count": 1124,
+  "item_last_updated": 1664682215,
+  "item_size": 80741164,
   "metadata": {
     "identifier": "texastribune-2022",
     "collection": [
@@ -11641,10 +11692,21 @@
     "publicdate": "2022-06-24 23:02:15",
     "addeddate": "2022-06-24 23:02:15"
   },
-  "server": "ia801407.us.archive.org",
-  "uniq": 501611170,
+  "pending_tasks": true,
+  "server": "ia601407.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3425383561,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 337186481,
   "workable_servers": [
-    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

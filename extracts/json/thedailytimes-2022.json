@@ -1,5 +1,5 @@
 {
-  "created": 1664639373,
+  "created": 1664682347,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/14/items/thedailytimes-2022",
@@ -1380,31 +1380,82 @@
       "sha1": "15c7676c4e5310fabd5c97801d0341ece717ffb4"
     },
     {
+      "name": "thedailytimes-2022-10-01T21:44:38.890788-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664682282",
+      "size": "22598",
+      "md5": "068ecc40ff8436134f1d86e6d83ac251",
+      "crc32": "7383231f",
+      "sha1": "e511dd205648b6d8e6bf8070e762b2d3236c4f12",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailytimes-2022-10-01T21:44:38.890788-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664682284",
+      "size": "35235",
+      "md5": "3c649eb672a8b31aa39819228d949168",
+      "crc32": "4ca31cd4",
+      "sha1": "a8178de400b6e48d0dd4f4b85aa8c3c13313eaf3",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailytimes-2022-10-01T21:44:38.890788-06:00.jpg",
+      "source": "original",
+      "mtime": "1664682280",
+      "size": "253499",
+      "md5": "8b68fdfab57f7e0652020474235d3607",
+      "crc32": "7fc92261",
+      "sha1": "06e335d36c2e953ddfc76de28074ebd8f0cde1fd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailytimes-2022-10-01T21:44:38.890788-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664682285",
+      "size": "1503",
+      "md5": "f4cf17d6a3bc394832a97b9290f18618",
+      "crc32": "14c3f2aa",
+      "sha1": "5bf711c908b214a255712df7cccaf465aa5d4e62",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailytimes-2022-10-01T21:44:38.890788-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1664682287",
+      "size": "122797",
+      "md5": "efb6e5f24192bd3fe72920a157fda04c",
+      "crc32": "c0910906",
+      "sha1": "18ba7e58c285711d43e164544465d0771203c460",
+      "format": "JSON"
+    },
+    {
       "name": "thedailytimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "76e9f62c0a3f973a69939e2b6f4dbf9058f11532",
-      "mtime": "1664639332",
-      "size": "30084",
-      "md5": "31d8658e8d12bb77155bbf734bf43a69",
-      "crc32": "4b11167b",
-      "sha1": "efe09b077c2ce773da6c158860f68cca17cef7a5",
+      "btih": "2b5448b966c1cc978f3052e7107852377b553f40",
+      "mtime": "1664682333",
+      "size": "31173",
+      "md5": "8a812bea36354b41537a989e2c329cde",
+      "crc32": "2526a76a",
+      "sha1": "d0857102b0b4291fab9b4f275589fbfcb4619cab",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedailytimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4557bbfd8c2d0b6ee8815e5e5024386d",
+      "md5": "b84b30a543d654c4a6f2db5c7ef069fa",
       "summation": "md5"
     },
     {
       "name": "thedailytimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664636692",
-      "size": "192512",
-      "md5": "8fbd6bef72ce993f76dccce6408e21b6",
-      "crc32": "73dbaa62",
-      "sha1": "69e354b7fe225b4eaeab4e2bd14c1323bd86fc47",
+      "mtime": "1664682295",
+      "size": "200704",
+      "md5": "84c2969b8f6e34fdb51251d1cdf4b866",
+      "crc32": "2b952c38",
+      "sha1": "2aec8ee34e1ace4302a7232003729fb62a9f04f3",
       "format": "Metadata"
     },
     {
@@ -1418,9 +1469,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 137,
-  "item_last_updated": 1664639332,
-  "item_size": 8877421,
+  "files_count": 142,
+  "item_last_updated": 1664682333,
+  "item_size": 9322334,
   "metadata": {
     "identifier": "thedailytimes-2022",
     "collection": [
@@ -1437,10 +1488,21 @@
     "publicdate": "2022-09-21 03:44:35",
     "addeddate": "2022-09-21 03:44:35"
   },
+  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "uniq": 1007742964,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3425385888,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1302785840,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia601501.us.archive.org"
   ]
 }
