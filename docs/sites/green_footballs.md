@@ -437,7 +437,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 93 hyperlink lists with the Internet Archive.
+The archiving routine has saved 94 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 4:57 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-02T04:56:55.771110-07:00.hyperlinks.json) |
 | [October 1 at 4:59 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-01T16:59:13.426699-07:00.hyperlinks.json) |
 | [October 1 at 4:58 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-01T04:58:15.404644-07:00.hyperlinks.json) |
 | [September 30 at 4:54 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-09-30T16:54:44.500926-07:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 28 at 4:50 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-09-28T16:50:03.116250-07:00.hyperlinks.json) |
 | [September 28 at 5:12 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-09-28T05:12:01.852351-07:00.hyperlinks.json) |
 | [September 27 at 4:54 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-09-27T16:54:44.524533-07:00.hyperlinks.json) |
-| [September 27 at 4:56 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-09-27T04:56:40.482063-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 91 accessibility trees with the Internet Archive.
+The archiving routine has saved 92 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 4:57 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-02T04:56:55.771110-07:00.accessibility.json) |
 | [October 1 at 4:59 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-01T16:59:13.426699-07:00.accessibility.json) |
 | [October 1 at 4:58 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-01T04:58:15.404644-07:00.accessibility.json) |
 | [September 30 at 4:54 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-09-30T16:54:44.500926-07:00.accessibility.json) |
@@ -642,7 +643,6 @@ Here are the 10 most recent accessibility trees.
 | [September 28 at 4:50 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-09-28T16:50:03.116250-07:00.accessibility.json) |
 | [September 28 at 5:12 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-09-28T05:12:01.852351-07:00.accessibility.json) |
 | [September 27 at 4:54 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-09-27T16:54:44.524533-07:00.accessibility.json) |
-| [September 27 at 4:56 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-09-27T04:56:40.482063-07:00.accessibility.json) |
 
 
 

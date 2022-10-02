@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 162 screenshots with the Internet Archive.
+The archiving routine has saved 163 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 162 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/diarioonline-2022/diarioonline-2022-10-02T08:58:49.603350-03:00.jpg">
+  <img src="https://archive.org/download/diarioonline-2022/diarioonline-2022-10-02T08:58:49.603350-03:00.jpg"
+     alt="Fortaleza at 2022-10-02 08:58:55-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/diarioonline-2022/diarioonline-2022-10-02T08:58:49.603350-03:00.jpg">October 2 at 8:58 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/diarioonline-2022/diarioonline-2022-10-02T02:54:30.774155-03:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/diarioonline-2022/diarioonline-2022-09-28T14:54:14.615200-03:00.jpg">September 28 at 2:54 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/diarioonline-2022/diarioonline-2022-09-28T09:02:12.367568-03:00.jpg">
-  <img src="https://archive.org/download/diarioonline-2022/diarioonline-2022-09-28T09:02:12.367568-03:00.jpg"
-     alt="Fortaleza at 2022-09-28 09:02:22-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/diarioonline-2022/diarioonline-2022-09-28T09:02:12.367568-03:00.jpg">September 28 at 9:02 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 164 hyperlink lists with the Internet Archive.
+The archiving routine has saved 165 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 8:58 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-10-02T08:58:49.603350-03:00.hyperlinks.json) |
 | [October 2 at 2:54 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-10-02T02:54:30.774155-03:00.hyperlinks.json) |
 | [October 1 at 2:46 PM](https://archive.org/download/diarioonline-2022/diarioonline-2022-10-01T14:45:51.731115-03:00.hyperlinks.json) |
 | [October 1 at 9:00 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-10-01T08:59:54.939360-03:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 3:33 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-09-30T03:33:18.207252-03:00.hyperlinks.json) |
 | [September 29 at 2:45 PM](https://archive.org/download/diarioonline-2022/diarioonline-2022-09-29T14:45:02.206513-03:00.hyperlinks.json) |
 | [September 29 at 9:01 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-09-29T09:01:06.044116-03:00.hyperlinks.json) |
-| [September 29 at 3:14 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-09-29T03:14:27.803041-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 164 accessibility trees with the Internet Archive.
+The archiving routine has saved 165 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 8:58 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-10-02T08:58:49.603350-03:00.accessibility.json) |
 | [October 2 at 2:54 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-10-02T02:54:30.774155-03:00.accessibility.json) |
 | [October 1 at 2:46 PM](https://archive.org/download/diarioonline-2022/diarioonline-2022-10-01T14:45:51.731115-03:00.accessibility.json) |
 | [October 1 at 9:00 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-10-01T08:59:54.939360-03:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 3:33 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-09-30T03:33:18.207252-03:00.accessibility.json) |
 | [September 29 at 2:45 PM](https://archive.org/download/diarioonline-2022/diarioonline-2022-09-29T14:45:02.206513-03:00.accessibility.json) |
 | [September 29 at 9:01 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-09-29T09:01:06.044116-03:00.accessibility.json) |
-| [September 29 at 3:14 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-09-29T03:14:27.803041-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 165 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 166 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 8:59 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-10-02T08:58:49.603350-03:00.lighthouse.json) |
 | [October 2 at 2:54 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-10-02T02:54:30.774155-03:00.lighthouse.json) |
 | [October 1 at 2:46 PM](https://archive.org/download/diarioonline-2022/diarioonline-2022-10-01T14:45:51.731115-03:00.lighthouse.json) |
 | [October 1 at 9:00 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-10-01T08:59:54.939360-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 3:33 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-09-30T03:33:18.207252-03:00.lighthouse.json) |
 | [September 29 at 2:45 PM](https://archive.org/download/diarioonline-2022/diarioonline-2022-09-29T14:45:02.206513-03:00.lighthouse.json) |
 | [September 29 at 9:01 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-09-29T09:01:06.044116-03:00.lighthouse.json) |
-| [September 29 at 3:14 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-09-29T03:14:27.803041-03:00.lighthouse.json) |
 
 
 

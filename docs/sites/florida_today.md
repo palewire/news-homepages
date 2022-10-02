@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 24 screenshots with the Internet Archive.
+The archiving routine has saved 25 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/florida_today-2022/florida_today-2022-10-02T07:57:07.641743-04:00.jpg">
+  <img src="https://archive.org/download/florida_today-2022/florida_today-2022-10-02T07:57:07.641743-04:00.jpg"
+     alt="Brevard Florida Today at 2022-10-02 07:57:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/florida_today-2022/florida_today-2022-10-02T07:57:07.641743-04:00.jpg">October 2 at 7:57 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/florida_today-2022/florida_today-2022-10-01T19:56:12.692468-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/florida_today-2022/florida_today-2022-09-26T19:47:40.173151-04:00.jpg">September 26 at 7:47 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/florida_today-2022/florida_today-2022-09-26T08:02:33.454966-04:00.jpg">
-  <img src="https://archive.org/download/florida_today-2022/florida_today-2022-09-26T08:02:33.454966-04:00.jpg"
-     alt="Brevard Florida Today at 2022-09-26 08:02:34-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/florida_today-2022/florida_today-2022-09-26T08:02:33.454966-04:00.jpg">September 26 at 8:02 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 24 hyperlink lists with the Internet Archive.
+The archiving routine has saved 25 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 7:57 AM](https://archive.org/download/florida_today-2022/florida_today-2022-10-02T07:57:07.641743-04:00.hyperlinks.json) |
 | [October 1 at 7:56 PM](https://archive.org/download/florida_today-2022/florida_today-2022-10-01T19:56:12.692468-04:00.hyperlinks.json) |
 | [October 1 at 7:56 AM](https://archive.org/download/florida_today-2022/florida_today-2022-10-01T07:56:23.451218-04:00.hyperlinks.json) |
 | [September 30 at 7:51 PM](https://archive.org/download/florida_today-2022/florida_today-2022-09-30T19:51:01.632887-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 28 at 7:49 PM](https://archive.org/download/florida_today-2022/florida_today-2022-09-28T19:48:56.554850-04:00.hyperlinks.json) |
 | [September 28 at 8:11 AM](https://archive.org/download/florida_today-2022/florida_today-2022-09-28T08:11:24.869464-04:00.hyperlinks.json) |
 | [September 27 at 7:54 PM](https://archive.org/download/florida_today-2022/florida_today-2022-09-27T19:54:40.340107-04:00.hyperlinks.json) |
-| [September 27 at 7:55 AM](https://archive.org/download/florida_today-2022/florida_today-2022-09-27T07:55:15.529288-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 24 accessibility trees with the Internet Archive.
+The archiving routine has saved 25 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 7:57 AM](https://archive.org/download/florida_today-2022/florida_today-2022-10-02T07:57:07.641743-04:00.accessibility.json) |
 | [October 1 at 7:56 PM](https://archive.org/download/florida_today-2022/florida_today-2022-10-01T19:56:12.692468-04:00.accessibility.json) |
 | [October 1 at 7:56 AM](https://archive.org/download/florida_today-2022/florida_today-2022-10-01T07:56:23.451218-04:00.accessibility.json) |
 | [September 30 at 7:51 PM](https://archive.org/download/florida_today-2022/florida_today-2022-09-30T19:51:01.632887-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 28 at 7:49 PM](https://archive.org/download/florida_today-2022/florida_today-2022-09-28T19:48:56.554850-04:00.accessibility.json) |
 | [September 28 at 8:11 AM](https://archive.org/download/florida_today-2022/florida_today-2022-09-28T08:11:24.869464-04:00.accessibility.json) |
 | [September 27 at 7:54 PM](https://archive.org/download/florida_today-2022/florida_today-2022-09-27T19:54:40.340107-04:00.accessibility.json) |
-| [September 27 at 7:55 AM](https://archive.org/download/florida_today-2022/florida_today-2022-09-27T07:55:15.529288-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 7:57 AM](https://archive.org/download/florida_today-2022/florida_today-2022-10-02T07:57:07.641743-04:00.lighthouse.json) |
 | [October 1 at 7:56 PM](https://archive.org/download/florida_today-2022/florida_today-2022-10-01T19:56:12.692468-04:00.lighthouse.json) |
 | [October 1 at 7:56 AM](https://archive.org/download/florida_today-2022/florida_today-2022-10-01T07:56:23.451218-04:00.lighthouse.json) |
 | [September 30 at 7:51 PM](https://archive.org/download/florida_today-2022/florida_today-2022-09-30T19:51:01.632887-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 28 at 7:49 PM](https://archive.org/download/florida_today-2022/florida_today-2022-09-28T19:48:56.554850-04:00.lighthouse.json) |
 | [September 28 at 8:11 AM](https://archive.org/download/florida_today-2022/florida_today-2022-09-28T08:11:24.869464-04:00.lighthouse.json) |
 | [September 27 at 7:54 PM](https://archive.org/download/florida_today-2022/florida_today-2022-09-27T19:54:40.340107-04:00.lighthouse.json) |
-| [September 27 at 7:55 AM](https://archive.org/download/florida_today-2022/florida_today-2022-09-27T07:55:15.529288-04:00.lighthouse.json) |
 
 
 
