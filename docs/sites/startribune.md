@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 327 screenshots with the Internet Archive.
+The archiving routine has saved 328 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 327 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/startribune-2022/startribune-2022-10-02T10:04:54.640485-05:00.jpg">
+  <img src="https://archive.org/download/startribune-2022/startribune-2022-10-02T10:04:54.640485-05:00.jpg"
+     alt="Minneapolis Star Tribune at 2022-10-02 10:04:56-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/startribune-2022/startribune-2022-10-02T10:04:54.640485-05:00.jpg">October 2 at 10:04 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/startribune-2022/startribune-2022-10-01T22:42:14.060789-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/startribune-2022/startribune-2022-09-26T10:06:17.904119-05:00.jpg">September 26 at 10:06 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/startribune-2022/startribune-2022-09-25T22:38:13.869733-05:00.jpg">
-  <img src="https://archive.org/download/startribune-2022/startribune-2022-09-25T22:38:13.869733-05:00.jpg"
-     alt="Minneapolis Star Tribune at 2022-09-25 22:38:16-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/startribune-2022/startribune-2022-09-25T22:38:13.869733-05:00.jpg">September 25 at 10:38 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 321 hyperlink lists with the Internet Archive.
+The archiving routine has saved 322 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 10:05 AM](https://archive.org/download/startribune-2022/startribune-2022-10-02T10:04:54.640485-05:00.hyperlinks.json) |
 | [October 1 at 10:42 PM](https://archive.org/download/startribune-2022/startribune-2022-10-01T22:42:14.060789-05:00.hyperlinks.json) |
 | [October 1 at 10:01 AM](https://archive.org/download/startribune-2022/startribune-2022-10-01T10:01:32.718726-05:00.hyperlinks.json) |
 | [September 30 at 10:48 PM](https://archive.org/download/startribune-2022/startribune-2022-09-30T22:48:29.325269-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 28 at 10:01 AM](https://archive.org/download/startribune-2022/startribune-2022-09-28T10:01:24.209216-05:00.hyperlinks.json) |
 | [September 27 at 10:47 PM](https://archive.org/download/startribune-2022/startribune-2022-09-27T22:47:25.751331-05:00.hyperlinks.json) |
 | [September 27 at 10:02 AM](https://archive.org/download/startribune-2022/startribune-2022-09-27T10:02:22.127749-05:00.hyperlinks.json) |
-| [September 26 at 10:31 PM](https://archive.org/download/startribune-2022/startribune-2022-09-26T22:31:25.016888-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 327 accessibility trees with the Internet Archive.
+The archiving routine has saved 328 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 10:04 AM](https://archive.org/download/startribune-2022/startribune-2022-10-02T10:04:54.640485-05:00.accessibility.json) |
 | [October 1 at 10:42 PM](https://archive.org/download/startribune-2022/startribune-2022-10-01T22:42:14.060789-05:00.accessibility.json) |
 | [October 1 at 10:01 AM](https://archive.org/download/startribune-2022/startribune-2022-10-01T10:01:32.718726-05:00.accessibility.json) |
 | [September 30 at 10:48 PM](https://archive.org/download/startribune-2022/startribune-2022-09-30T22:48:29.325269-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 28 at 10:01 AM](https://archive.org/download/startribune-2022/startribune-2022-09-28T10:01:24.209216-05:00.accessibility.json) |
 | [September 27 at 10:47 PM](https://archive.org/download/startribune-2022/startribune-2022-09-27T22:47:25.751331-05:00.accessibility.json) |
 | [September 27 at 10:02 AM](https://archive.org/download/startribune-2022/startribune-2022-09-27T10:02:22.127749-05:00.accessibility.json) |
-| [September 26 at 10:31 PM](https://archive.org/download/startribune-2022/startribune-2022-09-26T22:31:25.016888-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 140 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 141 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 10:05 AM](https://archive.org/download/startribune-2022/startribune-2022-10-02T10:04:54.640485-05:00.lighthouse.json) |
 | [October 1 at 10:42 PM](https://archive.org/download/startribune-2022/startribune-2022-10-01T22:42:14.060789-05:00.lighthouse.json) |
 | [October 1 at 10:01 AM](https://archive.org/download/startribune-2022/startribune-2022-10-01T10:01:32.718726-05:00.lighthouse.json) |
 | [September 30 at 10:49 PM](https://archive.org/download/startribune-2022/startribune-2022-09-30T22:48:29.325269-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 28 at 10:01 AM](https://archive.org/download/startribune-2022/startribune-2022-09-28T10:01:24.209216-05:00.lighthouse.json) |
 | [September 27 at 10:47 PM](https://archive.org/download/startribune-2022/startribune-2022-09-27T22:47:25.751331-05:00.lighthouse.json) |
 | [September 27 at 10:02 AM](https://archive.org/download/startribune-2022/startribune-2022-09-27T10:02:22.127749-05:00.lighthouse.json) |
-| [September 26 at 10:31 PM](https://archive.org/download/startribune-2022/startribune-2022-09-26T22:31:25.016888-05:00.lighthouse.json) |
 
 
 

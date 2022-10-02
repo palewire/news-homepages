@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 248 screenshots with the Internet Archive.
+The archiving routine has saved 249 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 248 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thenation-2022/thenation-2022-10-02T11:07:57.193321-04:00.jpg">
+  <img src="https://archive.org/download/thenation-2022/thenation-2022-10-02T11:07:57.193321-04:00.jpg"
+     alt="The Nation at 2022-10-02 11:07:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thenation-2022/thenation-2022-10-02T11:07:57.193321-04:00.jpg">October 2 at 11:07 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thenation-2022/thenation-2022-10-01T23:44:47.116366-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thenation-2022/thenation-2022-09-28T15:45:57.757782-04:00.jpg">September 28 at 3:46 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thenation-2022/thenation-2022-09-28T11:04:36.514753-04:00.jpg">
-  <img src="https://archive.org/download/thenation-2022/thenation-2022-09-28T11:04:36.514753-04:00.jpg"
-     alt="The Nation at 2022-09-28 11:04:37-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thenation-2022/thenation-2022-09-28T11:04:36.514753-04:00.jpg">September 28 at 11:04 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 248 hyperlink lists with the Internet Archive.
+The archiving routine has saved 249 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 11:08 AM](https://archive.org/download/thenation-2022/thenation-2022-10-02T11:07:57.193321-04:00.hyperlinks.json) |
 | [October 1 at 11:44 PM](https://archive.org/download/thenation-2022/thenation-2022-10-01T23:44:47.116366-04:00.hyperlinks.json) |
 | [October 1 at 3:43 PM](https://archive.org/download/thenation-2022/thenation-2022-10-01T15:43:40.782950-04:00.hyperlinks.json) |
 | [October 1 at 11:04 AM](https://archive.org/download/thenation-2022/thenation-2022-10-01T11:04:14.961505-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 29 at 11:54 PM](https://archive.org/download/thenation-2022/thenation-2022-09-29T23:53:57.776717-04:00.hyperlinks.json) |
 | [September 29 at 3:37 PM](https://archive.org/download/thenation-2022/thenation-2022-09-29T15:36:55.113627-04:00.hyperlinks.json) |
 | [September 29 at 11:01 AM](https://archive.org/download/thenation-2022/thenation-2022-09-29T11:01:19.686847-04:00.hyperlinks.json) |
-| [September 28 at 11:43 PM](https://archive.org/download/thenation-2022/thenation-2022-09-28T23:43:35.676635-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 250 accessibility trees with the Internet Archive.
+The archiving routine has saved 251 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 11:08 AM](https://archive.org/download/thenation-2022/thenation-2022-10-02T11:07:57.193321-04:00.accessibility.json) |
 | [October 1 at 11:44 PM](https://archive.org/download/thenation-2022/thenation-2022-10-01T23:44:47.116366-04:00.accessibility.json) |
 | [October 1 at 3:43 PM](https://archive.org/download/thenation-2022/thenation-2022-10-01T15:43:40.782950-04:00.accessibility.json) |
 | [October 1 at 11:04 AM](https://archive.org/download/thenation-2022/thenation-2022-10-01T11:04:14.961505-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 29 at 11:54 PM](https://archive.org/download/thenation-2022/thenation-2022-09-29T23:53:57.776717-04:00.accessibility.json) |
 | [September 29 at 3:36 PM](https://archive.org/download/thenation-2022/thenation-2022-09-29T15:36:55.113627-04:00.accessibility.json) |
 | [September 29 at 11:01 AM](https://archive.org/download/thenation-2022/thenation-2022-09-29T11:01:19.686847-04:00.accessibility.json) |
-| [September 28 at 11:43 PM](https://archive.org/download/thenation-2022/thenation-2022-09-28T23:43:35.676635-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 207 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 208 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 11:08 AM](https://archive.org/download/thenation-2022/thenation-2022-10-02T11:07:57.193321-04:00.lighthouse.json) |
 | [October 1 at 11:44 PM](https://archive.org/download/thenation-2022/thenation-2022-10-01T23:44:47.116366-04:00.lighthouse.json) |
 | [October 1 at 3:43 PM](https://archive.org/download/thenation-2022/thenation-2022-10-01T15:43:40.782950-04:00.lighthouse.json) |
 | [October 1 at 11:04 AM](https://archive.org/download/thenation-2022/thenation-2022-10-01T11:04:14.961505-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 29 at 11:54 PM](https://archive.org/download/thenation-2022/thenation-2022-09-29T23:53:57.776717-04:00.lighthouse.json) |
 | [September 29 at 3:37 PM](https://archive.org/download/thenation-2022/thenation-2022-09-29T15:36:55.113627-04:00.lighthouse.json) |
 | [September 29 at 11:01 AM](https://archive.org/download/thenation-2022/thenation-2022-09-29T11:01:19.686847-04:00.lighthouse.json) |
-| [September 28 at 11:43 PM](https://archive.org/download/thenation-2022/thenation-2022-09-28T23:43:35.676635-04:00.lighthouse.json) |
 
 
 
