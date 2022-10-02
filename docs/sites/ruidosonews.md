@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 22 screenshots with the Internet Archive.
+The archiving routine has saved 23 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ruidosonews-2022/ruidosonews-2022-10-01T20:26:49.233793-06:00.jpg">
+  <img src="https://archive.org/download/ruidosonews-2022/ruidosonews-2022-10-01T20:26:49.233793-06:00.jpg"
+     alt="Ruidoso News at 2022-10-01 20:26:50-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ruidosonews-2022/ruidosonews-2022-10-01T20:26:49.233793-06:00.jpg">October 1 at 8:26 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ruidosonews-2022/ruidosonews-2022-10-01T08:12:31.776955-06:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ruidosonews-2022/ruidosonews-2022-09-26T08:08:13.038162-06:00.jpg">September 26 at 8:08 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ruidosonews-2022/ruidosonews-2022-09-25T20:19:08.544961-06:00.jpg">
-  <img src="https://archive.org/download/ruidosonews-2022/ruidosonews-2022-09-25T20:19:08.544961-06:00.jpg"
-     alt="Ruidoso News at 2022-09-25 20:19:11-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ruidosonews-2022/ruidosonews-2022-09-25T20:19:08.544961-06:00.jpg">September 25 at 8:19 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 22 hyperlink lists with the Internet Archive.
+The archiving routine has saved 23 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 8:26 PM](https://archive.org/download/ruidosonews-2022/ruidosonews-2022-10-01T20:26:49.233793-06:00.hyperlinks.json) |
 | [October 1 at 8:12 AM](https://archive.org/download/ruidosonews-2022/ruidosonews-2022-10-01T08:12:31.776955-06:00.hyperlinks.json) |
 | [September 30 at 8:36 PM](https://archive.org/download/ruidosonews-2022/ruidosonews-2022-09-30T20:36:41.338663-06:00.hyperlinks.json) |
 | [September 30 at 8:21 AM](https://archive.org/download/ruidosonews-2022/ruidosonews-2022-09-30T08:21:38.665349-06:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 28 at 8:04 AM](https://archive.org/download/ruidosonews-2022/ruidosonews-2022-09-28T08:04:43.405516-06:00.hyperlinks.json) |
 | [September 27 at 8:30 PM](https://archive.org/download/ruidosonews-2022/ruidosonews-2022-09-27T20:30:28.018652-06:00.hyperlinks.json) |
 | [September 27 at 8:10 AM](https://archive.org/download/ruidosonews-2022/ruidosonews-2022-09-27T08:10:41.016646-06:00.hyperlinks.json) |
-| [September 26 at 8:17 PM](https://archive.org/download/ruidosonews-2022/ruidosonews-2022-09-26T20:17:35.947034-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 22 accessibility trees with the Internet Archive.
+The archiving routine has saved 23 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 8:26 PM](https://archive.org/download/ruidosonews-2022/ruidosonews-2022-10-01T20:26:49.233793-06:00.accessibility.json) |
 | [October 1 at 8:12 AM](https://archive.org/download/ruidosonews-2022/ruidosonews-2022-10-01T08:12:31.776955-06:00.accessibility.json) |
 | [September 30 at 8:36 PM](https://archive.org/download/ruidosonews-2022/ruidosonews-2022-09-30T20:36:41.338663-06:00.accessibility.json) |
 | [September 30 at 8:21 AM](https://archive.org/download/ruidosonews-2022/ruidosonews-2022-09-30T08:21:38.665349-06:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 28 at 8:04 AM](https://archive.org/download/ruidosonews-2022/ruidosonews-2022-09-28T08:04:43.405516-06:00.accessibility.json) |
 | [September 27 at 8:30 PM](https://archive.org/download/ruidosonews-2022/ruidosonews-2022-09-27T20:30:28.018652-06:00.accessibility.json) |
 | [September 27 at 8:10 AM](https://archive.org/download/ruidosonews-2022/ruidosonews-2022-09-27T08:10:41.016646-06:00.accessibility.json) |
-| [September 26 at 8:17 PM](https://archive.org/download/ruidosonews-2022/ruidosonews-2022-09-26T20:17:35.947034-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 8:26 PM](https://archive.org/download/ruidosonews-2022/ruidosonews-2022-10-01T20:26:49.233793-06:00.lighthouse.json) |
 | [October 1 at 8:12 AM](https://archive.org/download/ruidosonews-2022/ruidosonews-2022-10-01T08:12:31.776955-06:00.lighthouse.json) |
 | [September 30 at 8:36 PM](https://archive.org/download/ruidosonews-2022/ruidosonews-2022-09-30T20:36:41.338663-06:00.lighthouse.json) |
 | [September 30 at 8:21 AM](https://archive.org/download/ruidosonews-2022/ruidosonews-2022-09-30T08:21:38.665349-06:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 28 at 8:04 AM](https://archive.org/download/ruidosonews-2022/ruidosonews-2022-09-28T08:04:43.405516-06:00.lighthouse.json) |
 | [September 27 at 8:30 PM](https://archive.org/download/ruidosonews-2022/ruidosonews-2022-09-27T20:30:28.018652-06:00.lighthouse.json) |
 | [September 27 at 8:10 AM](https://archive.org/download/ruidosonews-2022/ruidosonews-2022-09-27T08:10:41.016646-06:00.lighthouse.json) |
-| [September 26 at 8:17 PM](https://archive.org/download/ruidosonews-2022/ruidosonews-2022-09-26T20:17:35.947034-06:00.lighthouse.json) |
 
 
 

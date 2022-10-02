@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 22 screenshots with the Internet Archive.
+The archiving routine has saved 23 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pokjournal-2022/pokjournal-2022-10-01T22:24:07.738021-04:00.jpg">
+  <img src="https://archive.org/download/pokjournal-2022/pokjournal-2022-10-01T22:24:07.738021-04:00.jpg"
+     alt="Poughkeepsie Journal at 2022-10-01 22:24:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pokjournal-2022/pokjournal-2022-10-01T22:24:07.738021-04:00.jpg">October 1 at 10:24 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pokjournal-2022/pokjournal-2022-10-01T10:10:24.192978-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/pokjournal-2022/pokjournal-2022-09-26T10:05:31.451153-04:00.jpg">September 26 at 10:05 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/pokjournal-2022/pokjournal-2022-09-25T22:17:52.521035-04:00.jpg">
-  <img src="https://archive.org/download/pokjournal-2022/pokjournal-2022-09-25T22:17:52.521035-04:00.jpg"
-     alt="Poughkeepsie Journal at 2022-09-25 22:17:53-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pokjournal-2022/pokjournal-2022-09-25T22:17:52.521035-04:00.jpg">September 25 at 10:17 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 22 hyperlink lists with the Internet Archive.
+The archiving routine has saved 23 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 10:24 PM](https://archive.org/download/pokjournal-2022/pokjournal-2022-10-01T22:24:07.738021-04:00.hyperlinks.json) |
 | [October 1 at 10:10 AM](https://archive.org/download/pokjournal-2022/pokjournal-2022-10-01T10:10:24.192978-04:00.hyperlinks.json) |
 | [September 30 at 10:36 PM](https://archive.org/download/pokjournal-2022/pokjournal-2022-09-30T22:36:05.146107-04:00.hyperlinks.json) |
 | [September 30 at 10:17 AM](https://archive.org/download/pokjournal-2022/pokjournal-2022-09-30T10:17:52.714906-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 28 at 10:03 AM](https://archive.org/download/pokjournal-2022/pokjournal-2022-09-28T10:03:09.501296-04:00.hyperlinks.json) |
 | [September 27 at 10:27 PM](https://archive.org/download/pokjournal-2022/pokjournal-2022-09-27T22:27:43.899267-04:00.hyperlinks.json) |
 | [September 27 at 10:08 AM](https://archive.org/download/pokjournal-2022/pokjournal-2022-09-27T10:08:32.798850-04:00.hyperlinks.json) |
-| [September 26 at 10:15 PM](https://archive.org/download/pokjournal-2022/pokjournal-2022-09-26T22:15:46.552689-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 22 accessibility trees with the Internet Archive.
+The archiving routine has saved 23 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 10:24 PM](https://archive.org/download/pokjournal-2022/pokjournal-2022-10-01T22:24:07.738021-04:00.accessibility.json) |
 | [October 1 at 10:10 AM](https://archive.org/download/pokjournal-2022/pokjournal-2022-10-01T10:10:24.192978-04:00.accessibility.json) |
 | [September 30 at 10:36 PM](https://archive.org/download/pokjournal-2022/pokjournal-2022-09-30T22:36:05.146107-04:00.accessibility.json) |
 | [September 30 at 10:17 AM](https://archive.org/download/pokjournal-2022/pokjournal-2022-09-30T10:17:52.714906-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 28 at 10:03 AM](https://archive.org/download/pokjournal-2022/pokjournal-2022-09-28T10:03:09.501296-04:00.accessibility.json) |
 | [September 27 at 10:27 PM](https://archive.org/download/pokjournal-2022/pokjournal-2022-09-27T22:27:43.899267-04:00.accessibility.json) |
 | [September 27 at 10:08 AM](https://archive.org/download/pokjournal-2022/pokjournal-2022-09-27T10:08:32.798850-04:00.accessibility.json) |
-| [September 26 at 10:15 PM](https://archive.org/download/pokjournal-2022/pokjournal-2022-09-26T22:15:46.552689-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 10:24 PM](https://archive.org/download/pokjournal-2022/pokjournal-2022-10-01T22:24:07.738021-04:00.lighthouse.json) |
 | [October 1 at 10:10 AM](https://archive.org/download/pokjournal-2022/pokjournal-2022-10-01T10:10:24.192978-04:00.lighthouse.json) |
 | [September 30 at 10:36 PM](https://archive.org/download/pokjournal-2022/pokjournal-2022-09-30T22:36:05.146107-04:00.lighthouse.json) |
 | [September 30 at 10:17 AM](https://archive.org/download/pokjournal-2022/pokjournal-2022-09-30T10:17:52.714906-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 28 at 10:03 AM](https://archive.org/download/pokjournal-2022/pokjournal-2022-09-28T10:03:09.501296-04:00.lighthouse.json) |
 | [September 27 at 10:27 PM](https://archive.org/download/pokjournal-2022/pokjournal-2022-09-27T22:27:43.899267-04:00.lighthouse.json) |
 | [September 27 at 10:08 AM](https://archive.org/download/pokjournal-2022/pokjournal-2022-09-27T10:08:32.798850-04:00.lighthouse.json) |
-| [September 26 at 10:15 PM](https://archive.org/download/pokjournal-2022/pokjournal-2022-09-26T22:15:46.552689-04:00.lighthouse.json) |
 
 
 

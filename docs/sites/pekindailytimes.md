@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 22 screenshots with the Internet Archive.
+The archiving routine has saved 23 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-10-01T21:24:09.452825-05:00.jpg">
+  <img src="https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-10-01T21:24:09.452825-05:00.jpg"
+     alt="Pekin Daily Times at 2022-10-01 21:24:14-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-10-01T21:24:09.452825-05:00.jpg">October 1 at 9:24 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-10-01T09:09:40.689634-05:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-09-26T09:05:23.175237-05:00.jpg">September 26 at 9:05 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-09-25T21:17:24.359301-05:00.jpg">
-  <img src="https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-09-25T21:17:24.359301-05:00.jpg"
-     alt="Pekin Daily Times at 2022-09-25 21:17:26-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-09-25T21:17:24.359301-05:00.jpg">September 25 at 9:17 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 22 hyperlink lists with the Internet Archive.
+The archiving routine has saved 23 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 9:24 PM](https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-10-01T21:24:09.452825-05:00.hyperlinks.json) |
 | [October 1 at 9:09 AM](https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-10-01T09:09:40.689634-05:00.hyperlinks.json) |
 | [September 30 at 9:36 PM](https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-09-30T21:36:14.269124-05:00.hyperlinks.json) |
 | [September 30 at 9:18 AM](https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-09-30T09:18:13.435487-05:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 28 at 9:02 AM](https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-09-28T09:02:49.066357-05:00.hyperlinks.json) |
 | [September 27 at 9:27 PM](https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-09-27T21:27:30.724679-05:00.hyperlinks.json) |
 | [September 27 at 9:08 AM](https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-09-27T09:08:46.424667-05:00.hyperlinks.json) |
-| [September 26 at 9:15 PM](https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-09-26T21:15:49.302651-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 22 accessibility trees with the Internet Archive.
+The archiving routine has saved 23 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 9:24 PM](https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-10-01T21:24:09.452825-05:00.accessibility.json) |
 | [October 1 at 9:09 AM](https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-10-01T09:09:40.689634-05:00.accessibility.json) |
 | [September 30 at 9:36 PM](https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-09-30T21:36:14.269124-05:00.accessibility.json) |
 | [September 30 at 9:18 AM](https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-09-30T09:18:13.435487-05:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 28 at 9:02 AM](https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-09-28T09:02:49.066357-05:00.accessibility.json) |
 | [September 27 at 9:27 PM](https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-09-27T21:27:30.724679-05:00.accessibility.json) |
 | [September 27 at 9:08 AM](https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-09-27T09:08:46.424667-05:00.accessibility.json) |
-| [September 26 at 9:15 PM](https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-09-26T21:15:49.302651-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 9:24 PM](https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-10-01T21:24:09.452825-05:00.lighthouse.json) |
 | [October 1 at 9:09 AM](https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-10-01T09:09:40.689634-05:00.lighthouse.json) |
 | [September 30 at 9:36 PM](https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-09-30T21:36:14.269124-05:00.lighthouse.json) |
 | [September 30 at 9:18 AM](https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-09-30T09:18:13.435487-05:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 28 at 9:02 AM](https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-09-28T09:02:49.066357-05:00.lighthouse.json) |
 | [September 27 at 9:27 PM](https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-09-27T21:27:30.724679-05:00.lighthouse.json) |
 | [September 27 at 9:08 AM](https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-09-27T09:08:46.424667-05:00.lighthouse.json) |
-| [September 26 at 9:15 PM](https://archive.org/download/pekindailytimes-2022/pekindailytimes-2022-09-26T21:15:49.302651-05:00.lighthouse.json) |
 
 
 
