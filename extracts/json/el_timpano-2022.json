@@ -1,5 +1,5 @@
 {
-  "created": 1664650215,
+  "created": 1664690152,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/8/items/el_timpano-2022",
@@ -9992,31 +9992,82 @@
       "sha1": "72c72d324e59132244f0f621559cf00dcca37f0b"
     },
     {
+      "name": "el_timpano-2022-10-01T22:54:46.827893-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664690090",
+      "size": "10769",
+      "md5": "30e5df1bd61dbeefb5c07e7f6a33d556",
+      "crc32": "0ac1b12e",
+      "sha1": "586f53f0a43212c6cfcbe2341388cbb3cd8aaaec",
+      "format": "JSON"
+    },
+    {
+      "name": "el_timpano-2022-10-01T22:54:46.827893-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664690092",
+      "size": "9123",
+      "md5": "b5a493c1d15280e3f4a408616b714709",
+      "crc32": "cb0b30f9",
+      "sha1": "77dc724b266fc198a559f327b44cdc137d008d47",
+      "format": "JSON"
+    },
+    {
+      "name": "el_timpano-2022-10-01T22:54:46.827893-07:00.jpg",
+      "source": "original",
+      "mtime": "1664690088",
+      "size": "223988",
+      "md5": "766ce0e414d60e5a4e30183a14649310",
+      "crc32": "a69dc6eb",
+      "sha1": "dbf7397f834e0f0acc2742730d9977677232380d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "el_timpano-2022-10-01T22:54:46.827893-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664690094",
+      "size": "1476",
+      "md5": "a084cef626d1fd8120a5eabe1690605e",
+      "crc32": "1ce643cb",
+      "sha1": "314e79db814cab09063ef289788e7e1191628fa9",
+      "format": "JSON"
+    },
+    {
+      "name": "el_timpano-2022-10-01T22:54:46.827893-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664690096",
+      "size": "9769",
+      "md5": "8b1476bac1e40e5fb4f97aca6d328200",
+      "crc32": "22cb1096",
+      "sha1": "9db7292c5ebbffb41fca079e494f0ada0e2dc227",
+      "format": "JSON"
+    },
+    {
       "name": "el_timpano-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b2411677bd77c005f2f09fe62f5c693e93215c50",
-      "mtime": "1664650004",
-      "size": "204848",
-      "md5": "3b568d04373752f5f60cacbd5cd9eb7b",
-      "crc32": "7f402b29",
-      "sha1": "2b676f9a977c80cfc1a3171e90fdf7a5631141cd",
+      "btih": "b4e68a7b97414b3eefc61ae071e5554efd6009cb",
+      "mtime": "1664690146",
+      "size": "205899",
+      "md5": "3543a7cc07c29319ca23f1b284b8067c",
+      "crc32": "74229cd2",
+      "sha1": "f07cedafcbf0fb0f9c845b41c37b5e451ba1af7b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "el_timpano-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6a72b38828bc4ea4ef32398f55e9ed5e",
+      "md5": "7926ba775d953c18c5d14db6a7e518ac",
       "summation": "md5"
     },
     {
       "name": "el_timpano-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664646363",
-      "size": "1216512",
-      "md5": "c1aef22588d9621144539480f05112ff",
-      "crc32": "dbd0778f",
-      "sha1": "a7023b657442e00e9f3a1ad6d62a279450a380d8",
+      "mtime": "1664690101",
+      "size": "1220608",
+      "md5": "288493a2ff7132b69d9a4244948224c1",
+      "crc32": "4f886f89",
+      "sha1": "9a55b2966db1ac7b2b578a2027b8823a3d24b729",
       "format": "Metadata"
     },
     {
@@ -10030,9 +10081,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 967,
-  "item_last_updated": 1664650004,
-  "item_size": 46926416,
+  "files_count": 972,
+  "item_last_updated": 1664690146,
+  "item_size": 47186688,
   "metadata": {
     "identifier": "el_timpano-2022",
     "collection": [
@@ -10049,10 +10100,21 @@
     "publicdate": "2022-07-09 03:58:15",
     "addeddate": "2022-07-09 03:58:15"
   },
-  "server": "ia802509.us.archive.org",
-  "uniq": 1444847096,
+  "pending_tasks": true,
+  "server": "ia902509.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3425495471,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1685357762,
   "workable_servers": [
-    "ia802509.us.archive.org",
     "ia902509.us.archive.org"
   ]
 }

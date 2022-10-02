@@ -1,5 +1,5 @@
 {
-  "created": 1664649863,
+  "created": 1664692386,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/3/items/demingheadlight-2022",
@@ -1432,31 +1432,93 @@
       "sha1": "5c79dd1c1643975ad5e31f4c9fca434daa61aca1"
     },
     {
+      "name": "demingheadlight-2022-10-01T23:54:44.767807-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664690089",
+      "size": "18287",
+      "md5": "03fa924548e5b5052857e1d4b81b17d8",
+      "crc32": "e8b7447b",
+      "sha1": "edd50930f7419423b2935162af26bd0fc93c1d74",
+      "format": "JSON"
+    },
+    {
+      "name": "demingheadlight-2022-10-01T23:54:44.767807-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664690091",
+      "size": "30841",
+      "md5": "b4e8fbf883c3e3a5bd8e52db6eae8335",
+      "crc32": "eec2f692",
+      "sha1": "2da25b75a7c877382504de6f5b2bfa5c1153c5cb",
+      "format": "JSON"
+    },
+    {
+      "name": "demingheadlight-2022-10-01T23:54:44.767807-06:00.jpg",
+      "source": "original",
+      "mtime": "1664690086",
+      "size": "244948",
+      "md5": "cddf7bd13a609811937bf1cc915a0c92",
+      "crc32": "33127d2f",
+      "sha1": "c1aacd7c84eec9f4e02bdee9186b89b6fca88b6b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "demingheadlight-2022-10-01T23:54:44.767807-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664690092",
+      "size": "1540",
+      "md5": "c3a1868aa988a080a7edc7cc1be42ea0",
+      "crc32": "efc44db3",
+      "sha1": "881b214a9e540b8714d14194fe79cfd7ab346632",
+      "format": "JSON"
+    },
+    {
+      "name": "demingheadlight-2022-10-01T23:54:44.767807-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1664690095",
+      "size": "123890",
+      "md5": "c4553ab4bf3690182f9972002b604a7d",
+      "crc32": "f8d574d3",
+      "sha1": "7e08cba806d25d17066c0b7d7bfd61cf055dc0f0",
+      "format": "JSON"
+    },
+    {
+      "name": "demingheadlight-2022-10-01T23:54:44.767807-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "demingheadlight-2022-10-01T23:54:44.767807-06:00.jpg",
+      "mtime": "1664692289",
+      "size": "8867",
+      "md5": "490cdf1245775b2a9c2a72aeb8e7c80a",
+      "crc32": "5b742ac3",
+      "sha1": "f16606ab5ac1b141d6c8db0a71ab3b73b9256bf3"
+    },
+    {
       "name": "demingheadlight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dd95dd21af38a47a538eeb76b926c4fced952c6f",
-      "mtime": "1664649488",
-      "size": "31441",
-      "md5": "2cc35d66812393b026d03c21cb492858",
-      "crc32": "b064e7bb",
-      "sha1": "66482b10f1101bb678b33e796e5e61f7d31631a6",
+      "btih": "e43cb03bba347a4d8c84f5c6148bd575b7608a8f",
+      "mtime": "1664692298",
+      "size": "32731",
+      "md5": "627ed5d0b6812d2a2dc4bcd533adfddd",
+      "crc32": "45415c68",
+      "sha1": "21dace878ee39aed9732b5edbee47e84303c7c3f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "demingheadlight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0769d73d847b3384280973961fecd15e",
+      "md5": "a3fba7212eebf511b5409cfc68fb1555",
       "summation": "md5"
     },
     {
       "name": "demingheadlight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664646325",
-      "size": "196608",
-      "md5": "29f3edc63aacf794f5da7d682192a779",
-      "crc32": "da722508",
-      "sha1": "90c4aaff479b4397a180a162f6d892bba7609b86",
+      "mtime": "1664690099",
+      "size": "208896",
+      "md5": "25cc29429692de7aecc3b60bc2c639c0",
+      "crc32": "fbd51c42",
+      "sha1": "889480469d9b79814c0cf4332bc24ea1257e3cc5",
       "format": "Metadata"
     },
     {
@@ -1470,9 +1532,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 142,
-  "item_last_updated": 1664649488,
-  "item_size": 8961142,
+  "files_count": 148,
+  "item_last_updated": 1664692298,
+  "item_size": 9403093,
   "metadata": {
     "identifier": "demingheadlight-2022",
     "collection": [
@@ -1490,7 +1552,7 @@
     "addeddate": "2022-09-20 17:45:10"
   },
   "server": "ia601508.us.archive.org",
-  "uniq": 1641706515,
+  "uniq": 512738927,
   "workable_servers": [
     "ia601508.us.archive.org",
     "ia801508.us.archive.org"

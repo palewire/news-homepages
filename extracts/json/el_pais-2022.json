@@ -1,5 +1,5 @@
 {
-  "created": 1664649775,
+  "created": 1664690213,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/el_pais-2022",
@@ -7896,31 +7896,82 @@
       "sha1": "25ac1b3987f98f01307c610f2f63fc2b1ca1b62a"
     },
     {
+      "name": "el_pais-2022-10-02T07:55:31.327317+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664690143",
+      "size": "75512",
+      "md5": "aec56b69346250f46214286ee9d07d02",
+      "crc32": "7a4edadb",
+      "sha1": "fc20451295244512695d99f9a3e6f87df44ade4e",
+      "format": "JSON"
+    },
+    {
+      "name": "el_pais-2022-10-02T07:55:31.327317+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664690147",
+      "size": "85915",
+      "md5": "a168e4f5ae330653488274cf27bf4e68",
+      "crc32": "db0e3edc",
+      "sha1": "5fb0bd23093da425d974a2b07836639635c537f9",
+      "format": "JSON"
+    },
+    {
+      "name": "el_pais-2022-10-02T07:55:31.327317+02:00.jpg",
+      "source": "original",
+      "mtime": "1664690139",
+      "size": "307112",
+      "md5": "6bc39c715d10fc3a5b537dd85354dfbb",
+      "crc32": "06867fbe",
+      "sha1": "6f538ab0dbf83ab9ffc72ae2eac5f3c54fe42e53",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "el_pais-2022-10-02T07:55:31.327317+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664690149",
+      "size": "1495",
+      "md5": "ecd3e149b34bb0b4c1d2637aa633b6a6",
+      "crc32": "46f405e7",
+      "sha1": "2b2689a7e29388a08780322140865c1ae3b62fc9",
+      "format": "JSON"
+    },
+    {
+      "name": "el_pais-2022-10-02T07:55:31.327317+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664690150",
+      "size": "33467",
+      "md5": "829626a2c70dd25191ef2f86d27f69d8",
+      "crc32": "00661bad",
+      "sha1": "0269b65a134c9955c407a63df2ff3f2dc0946043",
+      "format": "JSON"
+    },
+    {
       "name": "el_pais-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e252de7794ef01eebb5600882c7c67513447c0cb",
-      "mtime": "1664649723",
-      "size": "161278",
-      "md5": "3ceea5a3b75dffd01aafa14bc7f07c78",
-      "crc32": "ba2faf01",
-      "sha1": "60103a43c4b808cebc4e2f3940225d8ac2c99107",
+      "btih": "c79c958e682e217353a8047f331e055b6ca78bfe",
+      "mtime": "1664690205",
+      "size": "162336",
+      "md5": "18642f4b9be2aedd82c034985feeee78",
+      "crc32": "7e0c967c",
+      "sha1": "056002933f9b29f55f958d3b4fc4e56e0a630c44",
       "format": "Archive BitTorrent"
     },
     {
       "name": "el_pais-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "928f3a6d4c334eea0bb305b506bdd56e",
+      "md5": "28c69a4fa5ae76b82a747248d7c32f30",
       "summation": "md5"
     },
     {
       "name": "el_pais-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664646341",
-      "size": "978944",
-      "md5": "8002ea0cd7a5e965f74188939e0b469e",
-      "crc32": "501818d8",
-      "sha1": "bad88f512d94b93a042f0a193a67f3f813022a46",
+      "mtime": "1664690155",
+      "size": "987136",
+      "md5": "a4d05a2be5e66d579ee22b44a2f3b100",
+      "crc32": "d777419a",
+      "sha1": "2bcb3fee7c9b73dc1193e80bb23a6755bd926979",
       "format": "Metadata"
     },
     {
@@ -7934,9 +7985,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 767,
-  "item_last_updated": 1664649723,
-  "item_size": 56594877,
+  "files_count": 772,
+  "item_last_updated": 1664690205,
+  "item_size": 57107628,
   "metadata": {
     "identifier": "el_pais-2022",
     "collection": [
@@ -7953,10 +8004,21 @@
     "publicdate": "2022-07-28 18:53:38",
     "addeddate": "2022-07-28 18:53:38"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 1729058521,
+  "pending_tasks": true,
+  "server": "ia601403.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3425496145,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1582357247,
   "workable_servers": [
-    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }
