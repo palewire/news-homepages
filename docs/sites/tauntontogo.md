@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 21 screenshots with the Internet Archive.
+The archiving routine has saved 22 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tauntontogo-2022/tauntontogo-2022-10-01T23:42:40.259903-04:00.jpg">
+  <img src="https://archive.org/download/tauntontogo-2022/tauntontogo-2022-10-01T23:42:40.259903-04:00.jpg"
+     alt="Taunton Daily Gazette at 2022-10-01 23:42:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tauntontogo-2022/tauntontogo-2022-10-01T23:42:40.259903-04:00.jpg">October 1 at 11:42 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tauntontogo-2022/tauntontogo-2022-10-01T11:01:33.490006-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/tauntontogo-2022/tauntontogo-2022-09-26T11:05:57.030000-04:00.jpg">September 26 at 11:06 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/tauntontogo-2022/tauntontogo-2022-09-25T23:39:22.136199-04:00.jpg">
-  <img src="https://archive.org/download/tauntontogo-2022/tauntontogo-2022-09-25T23:39:22.136199-04:00.jpg"
-     alt="Taunton Daily Gazette at 2022-09-25 23:39:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tauntontogo-2022/tauntontogo-2022-09-25T23:39:22.136199-04:00.jpg">September 25 at 11:39 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 22 hyperlink lists with the Internet Archive.
+The archiving routine has saved 23 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 11:42 PM](https://archive.org/download/tauntontogo-2022/tauntontogo-2022-10-01T23:42:40.259903-04:00.hyperlinks.json) |
 | [October 1 at 11:01 AM](https://archive.org/download/tauntontogo-2022/tauntontogo-2022-10-01T11:01:33.490006-04:00.hyperlinks.json) |
 | [September 30 at 11:49 PM](https://archive.org/download/tauntontogo-2022/tauntontogo-2022-09-30T23:48:57.898069-04:00.hyperlinks.json) |
 | [September 30 at 12:13 PM](https://archive.org/download/tauntontogo-2022/tauntontogo-2022-09-30T12:13:07.517224-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 28 at 11:02 AM](https://archive.org/download/tauntontogo-2022/tauntontogo-2022-09-28T11:02:15.948106-04:00.hyperlinks.json) |
 | [September 27 at 11:47 PM](https://archive.org/download/tauntontogo-2022/tauntontogo-2022-09-27T23:47:26.600922-04:00.hyperlinks.json) |
 | [September 27 at 11:02 AM](https://archive.org/download/tauntontogo-2022/tauntontogo-2022-09-27T11:02:18.425423-04:00.hyperlinks.json) |
-| [September 26 at 11:32 PM](https://archive.org/download/tauntontogo-2022/tauntontogo-2022-09-26T23:32:36.640150-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 22 accessibility trees with the Internet Archive.
+The archiving routine has saved 23 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 11:42 PM](https://archive.org/download/tauntontogo-2022/tauntontogo-2022-10-01T23:42:40.259903-04:00.accessibility.json) |
 | [October 1 at 11:01 AM](https://archive.org/download/tauntontogo-2022/tauntontogo-2022-10-01T11:01:33.490006-04:00.accessibility.json) |
 | [September 30 at 11:49 PM](https://archive.org/download/tauntontogo-2022/tauntontogo-2022-09-30T23:48:57.898069-04:00.accessibility.json) |
 | [September 30 at 12:13 PM](https://archive.org/download/tauntontogo-2022/tauntontogo-2022-09-30T12:13:07.517224-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 28 at 11:02 AM](https://archive.org/download/tauntontogo-2022/tauntontogo-2022-09-28T11:02:15.948106-04:00.accessibility.json) |
 | [September 27 at 11:47 PM](https://archive.org/download/tauntontogo-2022/tauntontogo-2022-09-27T23:47:26.600922-04:00.accessibility.json) |
 | [September 27 at 11:02 AM](https://archive.org/download/tauntontogo-2022/tauntontogo-2022-09-27T11:02:18.425423-04:00.accessibility.json) |
-| [September 26 at 11:32 PM](https://archive.org/download/tauntontogo-2022/tauntontogo-2022-09-26T23:32:36.640150-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 11:42 PM](https://archive.org/download/tauntontogo-2022/tauntontogo-2022-10-01T23:42:40.259903-04:00.lighthouse.json) |
 | [October 1 at 11:01 AM](https://archive.org/download/tauntontogo-2022/tauntontogo-2022-10-01T11:01:33.490006-04:00.lighthouse.json) |
 | [September 30 at 11:49 PM](https://archive.org/download/tauntontogo-2022/tauntontogo-2022-09-30T23:48:57.898069-04:00.lighthouse.json) |
 | [September 30 at 12:13 PM](https://archive.org/download/tauntontogo-2022/tauntontogo-2022-09-30T12:13:07.517224-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 28 at 11:02 AM](https://archive.org/download/tauntontogo-2022/tauntontogo-2022-09-28T11:02:15.948106-04:00.lighthouse.json) |
 | [September 27 at 11:47 PM](https://archive.org/download/tauntontogo-2022/tauntontogo-2022-09-27T23:47:26.600922-04:00.lighthouse.json) |
 | [September 27 at 11:02 AM](https://archive.org/download/tauntontogo-2022/tauntontogo-2022-09-27T11:02:18.425423-04:00.lighthouse.json) |
-| [September 26 at 11:32 PM](https://archive.org/download/tauntontogo-2022/tauntontogo-2022-09-26T23:32:36.640150-04:00.lighthouse.json) |
 
 
 

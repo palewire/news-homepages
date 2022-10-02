@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 22 screenshots with the Internet Archive.
+The archiving routine has saved 23 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/timestelegram-2022/timestelegram-2022-10-01T23:47:37.054293-04:00.jpg">
+  <img src="https://archive.org/download/timestelegram-2022/timestelegram-2022-10-01T23:47:37.054293-04:00.jpg"
+     alt="The Times Telegram at 2022-10-01 23:47:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/timestelegram-2022/timestelegram-2022-10-01T23:47:37.054293-04:00.jpg">October 1 at 11:47 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/timestelegram-2022/timestelegram-2022-10-01T11:06:50.140622-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/timestelegram-2022/timestelegram-2022-09-26T11:11:43.460781-04:00.jpg">September 26 at 11:11 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/timestelegram-2022/timestelegram-2022-09-25T23:42:23.270877-04:00.jpg">
-  <img src="https://archive.org/download/timestelegram-2022/timestelegram-2022-09-25T23:42:23.270877-04:00.jpg"
-     alt="The Times Telegram at 2022-09-25 23:42:25-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/timestelegram-2022/timestelegram-2022-09-25T23:42:23.270877-04:00.jpg">September 25 at 11:42 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 22 hyperlink lists with the Internet Archive.
+The archiving routine has saved 23 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 11:47 PM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-01T23:47:37.054293-04:00.hyperlinks.json) |
 | [October 1 at 11:06 AM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-01T11:06:50.140622-04:00.hyperlinks.json) |
 | [September 30 at 11:53 PM](https://archive.org/download/timestelegram-2022/timestelegram-2022-09-30T23:53:32.458492-04:00.hyperlinks.json) |
 | [September 30 at 12:19 PM](https://archive.org/download/timestelegram-2022/timestelegram-2022-09-30T12:19:36.721022-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 28 at 11:06 AM](https://archive.org/download/timestelegram-2022/timestelegram-2022-09-28T11:05:58.246563-04:00.hyperlinks.json) |
 | [September 27 at 11:53 PM](https://archive.org/download/timestelegram-2022/timestelegram-2022-09-27T23:53:24.979462-04:00.hyperlinks.json) |
 | [September 27 at 11:06 AM](https://archive.org/download/timestelegram-2022/timestelegram-2022-09-27T11:06:32.566993-04:00.hyperlinks.json) |
-| [September 26 at 11:34 PM](https://archive.org/download/timestelegram-2022/timestelegram-2022-09-26T23:34:51.831859-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 22 accessibility trees with the Internet Archive.
+The archiving routine has saved 23 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 11:47 PM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-01T23:47:37.054293-04:00.accessibility.json) |
 | [October 1 at 11:06 AM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-01T11:06:50.140622-04:00.accessibility.json) |
 | [September 30 at 11:53 PM](https://archive.org/download/timestelegram-2022/timestelegram-2022-09-30T23:53:32.458492-04:00.accessibility.json) |
 | [September 30 at 12:19 PM](https://archive.org/download/timestelegram-2022/timestelegram-2022-09-30T12:19:36.721022-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 28 at 11:06 AM](https://archive.org/download/timestelegram-2022/timestelegram-2022-09-28T11:05:58.246563-04:00.accessibility.json) |
 | [September 27 at 11:53 PM](https://archive.org/download/timestelegram-2022/timestelegram-2022-09-27T23:53:24.979462-04:00.accessibility.json) |
 | [September 27 at 11:06 AM](https://archive.org/download/timestelegram-2022/timestelegram-2022-09-27T11:06:32.566993-04:00.accessibility.json) |
-| [September 26 at 11:34 PM](https://archive.org/download/timestelegram-2022/timestelegram-2022-09-26T23:34:51.831859-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 11:47 PM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-01T23:47:37.054293-04:00.lighthouse.json) |
 | [October 1 at 11:06 AM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-01T11:06:50.140622-04:00.lighthouse.json) |
 | [September 30 at 11:53 PM](https://archive.org/download/timestelegram-2022/timestelegram-2022-09-30T23:53:32.458492-04:00.lighthouse.json) |
 | [September 30 at 12:19 PM](https://archive.org/download/timestelegram-2022/timestelegram-2022-09-30T12:19:36.721022-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 28 at 11:06 AM](https://archive.org/download/timestelegram-2022/timestelegram-2022-09-28T11:05:58.246563-04:00.lighthouse.json) |
 | [September 27 at 11:53 PM](https://archive.org/download/timestelegram-2022/timestelegram-2022-09-27T23:53:24.979462-04:00.lighthouse.json) |
 | [September 27 at 11:06 AM](https://archive.org/download/timestelegram-2022/timestelegram-2022-09-27T11:06:32.566993-04:00.lighthouse.json) |
-| [September 26 at 11:34 PM](https://archive.org/download/timestelegram-2022/timestelegram-2022-09-26T23:34:51.831859-04:00.lighthouse.json) |
 
 
 
