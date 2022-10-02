@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 22 screenshots with the Internet Archive.
+The archiving routine has saved 23 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-10-02T05:43:57.187262-05:00.jpg">
+  <img src="https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-10-02T05:43:57.187262-05:00.jpg"
+     alt="Examiner-Enterprise at 2022-10-02 05:43:59-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-10-02T05:43:57.187262-05:00.jpg">October 2 at 5:43 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-10-01T17:59:06.074478-05:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-09-26T05:54:42.598473-05:00.jpg">September 26 at 5:54 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-09-25T17:43:03.424098-05:00.jpg">
-  <img src="https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-09-25T17:43:03.424098-05:00.jpg"
-     alt="Examiner-Enterprise at 2022-09-25 17:43:04-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-09-25T17:43:03.424098-05:00.jpg">September 25 at 5:43 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 23 hyperlink lists with the Internet Archive.
+The archiving routine has saved 24 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 5:44 AM](https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-10-02T05:43:57.187262-05:00.hyperlinks.json) |
 | [October 1 at 5:59 PM](https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-10-01T17:59:06.074478-05:00.hyperlinks.json) |
 | [October 1 at 5:51 AM](https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-10-01T05:50:57.813043-05:00.hyperlinks.json) |
 | [September 30 at 6:02 PM](https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-09-30T18:02:07.482292-05:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 28 at 5:54 PM](https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-09-28T17:54:49.512056-05:00.hyperlinks.json) |
 | [September 28 at 6:04 AM](https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-09-28T06:04:36.105782-05:00.hyperlinks.json) |
 | [September 27 at 5:55 PM](https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-09-27T17:55:37.788796-05:00.hyperlinks.json) |
-| [September 27 at 5:55 AM](https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-09-27T05:55:50.699754-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 23 accessibility trees with the Internet Archive.
+The archiving routine has saved 24 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 5:44 AM](https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-10-02T05:43:57.187262-05:00.accessibility.json) |
 | [October 1 at 5:59 PM](https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-10-01T17:59:06.074478-05:00.accessibility.json) |
 | [October 1 at 5:51 AM](https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-10-01T05:50:57.813043-05:00.accessibility.json) |
 | [September 30 at 6:02 PM](https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-09-30T18:02:07.482292-05:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 28 at 5:54 PM](https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-09-28T17:54:49.512056-05:00.accessibility.json) |
 | [September 28 at 6:04 AM](https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-09-28T06:04:36.105782-05:00.accessibility.json) |
 | [September 27 at 5:55 PM](https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-09-27T17:55:37.788796-05:00.accessibility.json) |
-| [September 27 at 5:55 AM](https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-09-27T05:55:50.699754-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 5:44 AM](https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-10-02T05:43:57.187262-05:00.lighthouse.json) |
 | [October 1 at 5:59 PM](https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-10-01T17:59:06.074478-05:00.lighthouse.json) |
 | [October 1 at 5:51 AM](https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-10-01T05:50:57.813043-05:00.lighthouse.json) |
 | [September 30 at 6:02 PM](https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-09-30T18:02:07.482292-05:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 28 at 5:54 PM](https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-09-28T17:54:49.512056-05:00.lighthouse.json) |
 | [September 28 at 6:04 AM](https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-09-28T06:04:36.105782-05:00.lighthouse.json) |
 | [September 27 at 5:55 PM](https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-09-27T17:55:37.788796-05:00.lighthouse.json) |
-| [September 27 at 5:55 AM](https://archive.org/download/bartlesvilleee-2022/bartlesvilleee-2022-09-27T05:55:50.699754-05:00.lighthouse.json) |
 
 
 
