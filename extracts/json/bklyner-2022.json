@@ -1,5 +1,5 @@
 {
-  "created": 1664640654,
+  "created": 1664690031,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/10/items/bklyner-2022",
@@ -12485,31 +12485,93 @@
       "format": "JSON"
     },
     {
+      "name": "bklyner-2022-10-01T12:09:21.962933-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bklyner-2022-10-01T12:09:21.962933-04:00.jpg",
+      "mtime": "1664644028",
+      "size": "9634",
+      "md5": "1fb4ec6f531e49ab5f31d52eea916352",
+      "crc32": "19060f4c",
+      "sha1": "45a51a43a0749c2c60ef447ff9745b40d28187e0"
+    },
+    {
+      "name": "bklyner-2022-10-02T01:49:51.827545-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664689794",
+      "size": "23113",
+      "md5": "736c7c0bb45ff5caeabfbcb71d7eab79",
+      "crc32": "ea4f7285",
+      "sha1": "3bc80d29da4287c0c249193c4484ddc116b3444a",
+      "format": "JSON"
+    },
+    {
+      "name": "bklyner-2022-10-02T01:49:51.827545-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664689796",
+      "size": "18984",
+      "md5": "374397c039f008f5906893cb17c56abd",
+      "crc32": "538daf06",
+      "sha1": "aeb487bd5758ca1b0c50a8416592f9c59c6c1889",
+      "format": "JSON"
+    },
+    {
+      "name": "bklyner-2022-10-02T01:49:51.827545-04:00.jpg",
+      "source": "original",
+      "mtime": "1664689792",
+      "size": "323624",
+      "md5": "f7b2dbd32e9ae45fd1d1098968509392",
+      "crc32": "42b655e6",
+      "sha1": "c93bbb3abca7ce1c80b8497878853f47f0158fd2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bklyner-2022-10-02T01:49:51.827545-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664689797",
+      "size": "1423",
+      "md5": "2d6d3c1c99c7986ede522e6f925cbcb4",
+      "crc32": "f7d92def",
+      "sha1": "37d58fd7aa004d60be2bf965b480e3748f684b67",
+      "format": "JSON"
+    },
+    {
+      "name": "bklyner-2022-10-02T01:49:51.827545-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664689798",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "bklyner-2022_archive.torrent",
       "source": "metadata",
-      "btih": "84765954172f0c1472ed21d3672ac62dd1b66980",
-      "mtime": "1664640647",
-      "size": "253546",
-      "md5": "c3af946bd515ee8507b2609baad20b6f",
-      "crc32": "a62be175",
-      "sha1": "526047020d80dad1a8582f097e7453bc65239f65",
+      "btih": "518bbb001c199994af1676d01ddb71c5e16ec5ae",
+      "mtime": "1664689984",
+      "size": "254805",
+      "md5": "0409fc1f9d4031bfac3bbbe3c53f6c9c",
+      "crc32": "dc7d9b3c",
+      "sha1": "e63ecd0318d6b1bbdefcbe56d397f2e960f5b8ff",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bklyner-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "94981388bf396447823166b9ad8a809e",
+      "md5": "2c6a97aba50c1ef7146453dd056d6410",
       "summation": "md5"
     },
     {
       "name": "bklyner-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664640583",
-      "size": "1482752",
-      "md5": "1d8b209bfabfd7d788e570f10e52dcea",
-      "crc32": "95c2fe49",
-      "sha1": "667dca896e92ff08cdf9a674258e51e8e0a68f91",
+      "mtime": "1664689844",
+      "size": "1490944",
+      "md5": "932a06c987c6656a3d517665a74d30d1",
+      "crc32": "456b504b",
+      "sha1": "3a9521f0539b7fddd146e40647f17ae573927cbe",
       "format": "Metadata"
     },
     {
@@ -12523,9 +12585,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1205,
-  "item_last_updated": 1664640647,
-  "item_size": 100192487,
+  "files_count": 1211,
+  "item_last_updated": 1664689984,
+  "item_size": 100578918,
   "metadata": {
     "identifier": "bklyner-2022",
     "collection": [
@@ -12547,15 +12609,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3424815958,
+      "task_id": 3425494203,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1291864888,
+  "uniq": 996602518,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

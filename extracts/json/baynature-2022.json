@@ -1,5 +1,5 @@
 {
-  "created": 1664640623,
+  "created": 1664689785,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/7/items/baynature-2022",
@@ -10093,31 +10093,93 @@
       "format": "JSON"
     },
     {
+      "name": "baynature-2022-10-01T09:09:15.898153-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baynature-2022-10-01T09:09:15.898153-07:00.jpg",
+      "mtime": "1664644967",
+      "size": "10282",
+      "md5": "0d095434d699cff63e1d7bba8061f04e",
+      "crc32": "8dfc234c",
+      "sha1": "539be396acb7bef6aa97434a3d5fdb91e9679d54"
+    },
+    {
+      "name": "baynature-2022-10-01T22:48:45.390919-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664689729",
+      "size": "12991",
+      "md5": "60cc2d3643ec65de7ec6e13596550363",
+      "crc32": "87cf4455",
+      "sha1": "2755817be974a89d0fd79c30e5da1148e5c47257",
+      "format": "JSON"
+    },
+    {
+      "name": "baynature-2022-10-01T22:48:45.390919-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664689731",
+      "size": "7686",
+      "md5": "777d9941ddd6772ccf739653b3617a92",
+      "crc32": "3bb2c619",
+      "sha1": "d1cb5a481ea8243b86a6b3418cbd27bae4a69e3a",
+      "format": "JSON"
+    },
+    {
+      "name": "baynature-2022-10-01T22:48:45.390919-07:00.jpg",
+      "source": "original",
+      "mtime": "1664689727",
+      "size": "341246",
+      "md5": "c6d18f4331b166f4e88c6d3174be0c27",
+      "crc32": "1c7c7bef",
+      "sha1": "b0daa2f1dedf953a47979e82a089ad49e8dc6d59",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baynature-2022-10-01T22:48:45.390919-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664689732",
+      "size": "1450",
+      "md5": "af27f57cdb953452013540be6b024058",
+      "crc32": "4f0548da",
+      "sha1": "f5b9c4e3f8382fe2718d7622dae671eefa273051",
+      "format": "JSON"
+    },
+    {
+      "name": "baynature-2022-10-01T22:48:45.390919-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664689734",
+      "size": "16591",
+      "md5": "edafd69397e5157e33a183a5e817742f",
+      "crc32": "e01b8b96",
+      "sha1": "a6e9ba0e2af29c789d4292793d9842984a2ca68a",
+      "format": "JSON"
+    },
+    {
       "name": "baynature-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c52f8a62d7d2eeda317fe34c65df8890edfb4b84",
-      "mtime": "1664640617",
-      "size": "207083",
-      "md5": "24dd24e232f9326c2325dd66d8d84693",
-      "crc32": "e9bf579d",
-      "sha1": "d6338acc9ea019cde3ce0fe1e65822f760a0207c",
+      "btih": "831cacdb9526d4845021cfeedb9b3052fcd0ddbe",
+      "mtime": "1664689781",
+      "size": "208356",
+      "md5": "5dd74c4231c2eaefc3a300ce431e84e9",
+      "crc32": "f198a0d3",
+      "sha1": "b46784f88de70dd06435f5964c372a27bd9f76c3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baynature-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dbe2e8367d76666d12a3f434670733a5",
+      "md5": "ea8254a7d79731284343ca61297e9acf",
       "summation": "md5"
     },
     {
       "name": "baynature-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664640569",
-      "size": "1228800",
-      "md5": "7988e6e1bc75eccab68bd2d99dd67089",
-      "crc32": "51d14dc0",
-      "sha1": "715f62d59120a1ab8b6f6d442f458cecc544d9e5",
+      "mtime": "1664689738",
+      "size": "1236992",
+      "md5": "dca915af7ada42b24fc384e6533e6f20",
+      "crc32": "6f25a6f0",
+      "sha1": "45d93a1762aedbd0dc8bc075a972ecce7b5f1463",
       "format": "Metadata"
     },
     {
@@ -10131,9 +10193,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 977,
-  "item_last_updated": 1664640617,
-  "item_size": 69015029,
+  "files_count": 983,
+  "item_last_updated": 1664689781,
+  "item_size": 69414740,
   "metadata": {
     "identifier": "baynature-2022",
     "collection": [
@@ -10155,7 +10217,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3424815485,
+      "task_id": 3425490726,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -10163,7 +10225,7 @@
       "status": "running"
     }
   ],
-  "uniq": 343725555,
+  "uniq": 711410461,
   "workable_servers": [
     "ia902503.us.archive.org"
   ]

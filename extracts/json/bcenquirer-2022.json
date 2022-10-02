@@ -1,5 +1,5 @@
 {
-  "created": 1664640680,
+  "created": 1664689804,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/30/items/bcenquirer-2022",
@@ -1369,31 +1369,93 @@
       "format": "JSON"
     },
     {
+      "name": "bcenquirer-2022-10-01T12:10:29.120220-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bcenquirer-2022-10-01T12:10:29.120220-04:00.jpg",
+      "mtime": "1664643718",
+      "size": "9293",
+      "md5": "91b5504f1132510cfb7234e9a50ca2ca",
+      "crc32": "46dee6ce",
+      "sha1": "c01fe8826dba959b90e252feb2431c604241b782"
+    },
+    {
+      "name": "bcenquirer-2022-10-02T01:49:03.535944-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664689748",
+      "size": "20144",
+      "md5": "01f6f75ddba080e084c9840fa0c4fc16",
+      "crc32": "916b275b",
+      "sha1": "b130d2d727cd359a800bcdb5797f0c17efa0dda1",
+      "format": "JSON"
+    },
+    {
+      "name": "bcenquirer-2022-10-02T01:49:03.535944-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664689749",
+      "size": "37661",
+      "md5": "84106be4090f2a338dc5553c390e6e98",
+      "crc32": "07165acc",
+      "sha1": "e33e6364894a28c907bc2eef8bb19138e54965e1",
+      "format": "JSON"
+    },
+    {
+      "name": "bcenquirer-2022-10-02T01:49:03.535944-04:00.jpg",
+      "source": "original",
+      "mtime": "1664689746",
+      "size": "275805",
+      "md5": "5a311e6070f2dfa829e1ada6bfc826c7",
+      "crc32": "25f6adef",
+      "sha1": "61c641e82cb129925f65ec8a50716e981eb6cb7f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bcenquirer-2022-10-02T01:49:03.535944-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664689751",
+      "size": "1576",
+      "md5": "8d0720dc6df33ecc02bc7a1f3818d5d2",
+      "crc32": "89bafc89",
+      "sha1": "bc05158f9d6f4a3f986aaf4d3625e942c9f6d6ec",
+      "format": "JSON"
+    },
+    {
+      "name": "bcenquirer-2022-10-02T01:49:03.535944-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664689752",
+      "size": "89346",
+      "md5": "3c9b69d1c7c63d58cd8e3735d54076de",
+      "crc32": "c78d7aa9",
+      "sha1": "904b53efe97a28b01f2e0ee14bdf4219a6ee62b7",
+      "format": "JSON"
+    },
+    {
       "name": "bcenquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a7a4889e3727ca3c0ad8b1f26b70122de46a0a74",
-      "mtime": "1664640678",
-      "size": "29458",
-      "md5": "b8e7aa437ca8b8c1386e3adb1d68994d",
-      "crc32": "93a535c0",
-      "sha1": "55f8115d47abeaaaad974580ec59fd4e8b3e926a",
+      "btih": "58cf8dc4cc48364c1671f40f878f6dc4d8aa756b",
+      "mtime": "1664689799",
+      "size": "30737",
+      "md5": "f54556803074175f5b1d9e3ac05c0c4c",
+      "crc32": "368ac9db",
+      "sha1": "377b06d34060517f35c8ce26d5616c8bd82bf59d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bcenquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d9bdd0dab531210414a4253754b3ee3b",
+      "md5": "6688e1776522bbf6b27077efabcb4beb",
       "summation": "md5"
     },
     {
       "name": "bcenquirer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664640643",
-      "size": "192512",
-      "md5": "6d1fe0ed174df9f6840147c8d5ab8d4e",
-      "crc32": "1a4e820a",
-      "sha1": "8fa459dbfd8cf5ea29fc5d8bb0c3deb627b3a66b",
+      "mtime": "1664689760",
+      "size": "200704",
+      "md5": "6515e6a877b17b95cfa07f48f82f386e",
+      "crc32": "547a9dcb",
+      "sha1": "12b5146ffca6ccde02ef063b07fa6f17cc99c6fd",
       "format": "Metadata"
     },
     {
@@ -1407,9 +1469,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 136,
-  "item_last_updated": 1664640678,
-  "item_size": 8700806,
+  "files_count": 142,
+  "item_last_updated": 1664689799,
+  "item_size": 9144102,
   "metadata": {
     "identifier": "bcenquirer-2022",
     "collection": [
@@ -1431,15 +1493,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3424816361,
+      "task_id": 3425491000,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 2133827739,
+  "uniq": 368613874,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

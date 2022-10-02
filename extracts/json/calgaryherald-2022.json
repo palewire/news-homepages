@@ -1,5 +1,5 @@
 {
-  "created": 1664640757,
+  "created": 1664689818,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/2/items/calgaryherald-2022",
@@ -11249,31 +11249,93 @@
       "format": "JSON"
     },
     {
+      "name": "calgaryherald-2022-10-01T10:10:40.506931-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "calgaryherald-2022-10-01T10:10:40.506931-06:00.jpg",
+      "mtime": "1664643963",
+      "size": "10187",
+      "md5": "81ceb97fa020b2db71cf011f5e19ac31",
+      "crc32": "bd5fca45",
+      "sha1": "64e7f9776cc18c7266a04692817c9dce1284202f"
+    },
+    {
+      "name": "calgaryherald-2022-10-01T23:49:01.220220-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664689744",
+      "size": "65696",
+      "md5": "3dfe1f8192cbd44bc9f3fca3572a955e",
+      "crc32": "54b40ad2",
+      "sha1": "12f7defe6d899208cc6ffe7118859fcbee7fd873",
+      "format": "JSON"
+    },
+    {
+      "name": "calgaryherald-2022-10-01T23:49:01.220220-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664689748",
+      "size": "57395",
+      "md5": "ceb991cb6f96d279ed4b76c4bed413f9",
+      "crc32": "c762adee",
+      "sha1": "ef72a064ccd88bad0fed825e5608f19fc188a278",
+      "format": "JSON"
+    },
+    {
+      "name": "calgaryherald-2022-10-01T23:49:01.220220-06:00.jpg",
+      "source": "original",
+      "mtime": "1664689743",
+      "size": "327914",
+      "md5": "7fbd44f39966122f2e3d75c9d09e492c",
+      "crc32": "7395cd8c",
+      "sha1": "f52ab75bd00fd9ec37610e8b9c7e122981303a89",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "calgaryherald-2022-10-01T23:49:01.220220-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664689750",
+      "size": "1486",
+      "md5": "cb83cb0ab98db3093213162520e02fbe",
+      "crc32": "c3f621fb",
+      "sha1": "077b8ed29c9e9b1ab2f8229836a55dee81e41569",
+      "format": "JSON"
+    },
+    {
+      "name": "calgaryherald-2022-10-01T23:49:01.220220-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1664689752",
+      "size": "489",
+      "md5": "d012c1dd2545a65fc58f73fc16a7c72b",
+      "crc32": "29cae17c",
+      "sha1": "a8c120a101ea37e638845398508f146cbc75059d",
+      "format": "JSON"
+    },
+    {
       "name": "calgaryherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ec72f12cdb56d6c7630ccdb36b9f4148d85ba15c",
-      "mtime": "1664640744",
-      "size": "235191",
-      "md5": "9f993f1e626c443e05f9f55d38d9c8a2",
-      "crc32": "5ea4e379",
-      "sha1": "3f1b4f52b1696b1e86ca05b3f78387c0c64dfd2b",
+      "btih": "b5687bfd26788193715ca55b68f600d28a1f5f99",
+      "mtime": "1664689810",
+      "size": "236487",
+      "md5": "7bebf0a18b993cda65e935d60bfabfd6",
+      "crc32": "58911214",
+      "sha1": "d6c2311939f93cf9f3135ec4e24dbdbdf9e44a02",
       "format": "Archive BitTorrent"
     },
     {
       "name": "calgaryherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "182070f7a0e75b28a4255af94e68d0cc",
+      "md5": "c7b6f0edc3295ce4381038b067458225",
       "summation": "md5"
     },
     {
       "name": "calgaryherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664640674",
-      "size": "1355776",
-      "md5": "d5a1a3343427128c2c0da708d89c4b70",
-      "crc32": "41dc40d2",
-      "sha1": "82ea323ce099b4a83f93b2ec88d16e17fc72a06e",
+      "mtime": "1664689758",
+      "size": "1368064",
+      "md5": "d9dc99c1d774a4d7d9ed4ba315fc6bbd",
+      "crc32": "cdc93c45",
+      "sha1": "f77f4e4add0d20a84676d56a020023133d6337e6",
       "format": "Metadata"
     },
     {
@@ -11287,9 +11349,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1087,
-  "item_last_updated": 1664640744,
-  "item_size": 91820090,
+  "files_count": 1093,
+  "item_last_updated": 1664689810,
+  "item_size": 92296841,
   "metadata": {
     "identifier": "calgaryherald-2022",
     "collection": [
@@ -11311,15 +11373,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3424817334,
+      "task_id": 3425491171,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1570055668,
+  "uniq": 1127185004,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]
