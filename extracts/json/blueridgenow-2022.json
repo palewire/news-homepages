@@ -1,5 +1,5 @@
 {
-  "created": 1664707600,
+  "created": 1664752318,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/35/items/blueridgenow-2022",
@@ -1544,31 +1544,93 @@
       "sha1": "9355030b40d093bd849648b4f11759b43bce6796"
     },
     {
+      "name": "blueridgenow-2022-10-02T19:00:58.753437-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664751665",
+      "size": "23676",
+      "md5": "6d188e2b82a3095726e2b61d7d40c1f9",
+      "crc32": "81b311a1",
+      "sha1": "81f8095f18f946ccc488fbad5bcaebe55bcc8a6a",
+      "format": "JSON"
+    },
+    {
+      "name": "blueridgenow-2022-10-02T19:00:58.753437-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664751666",
+      "size": "38453",
+      "md5": "3fae7da5a52f59091a34141eb0ff703c",
+      "crc32": "da88613f",
+      "sha1": "6eefe6fdc6cd925c562f092fd7852cdb6a069797",
+      "format": "JSON"
+    },
+    {
+      "name": "blueridgenow-2022-10-02T19:00:58.753437-04:00.jpg",
+      "source": "original",
+      "mtime": "1664751663",
+      "size": "296609",
+      "md5": "8b345257b72d26d81484ac89db06f0ae",
+      "crc32": "8b5f919b",
+      "sha1": "88e6d084717810c3d4fa700f0fffd577984b037f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "blueridgenow-2022-10-02T19:00:58.753437-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664751669",
+      "size": "1513",
+      "md5": "67e1460750822c4b8fdafe4589b9345b",
+      "crc32": "7f1114f6",
+      "sha1": "f4d998a3d3be8d90c70a0f9675ce131545513c66",
+      "format": "JSON"
+    },
+    {
+      "name": "blueridgenow-2022-10-02T19:00:58.753437-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664751673",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "blueridgenow-2022-10-02T19:00:58.753437-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "blueridgenow-2022-10-02T19:00:58.753437-04:00.jpg",
+      "mtime": "1664752276",
+      "size": "9541",
+      "md5": "e75679f5811756bfea81b99fb49ae32b",
+      "crc32": "36ff9ae8",
+      "sha1": "49cade99649b371a658b1d6ec6241e27b306414a"
+    },
+    {
       "name": "blueridgenow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "62b465f978e1bdd2e8d5fae23509eda75b493665",
-      "mtime": "1664707569",
-      "size": "33424",
-      "md5": "549ef28f8b6bbe158e2d52e037ee1cd6",
-      "crc32": "936bd8b0",
-      "sha1": "a3ae38d13fcb5922f6778289ec13b450e13e5f29",
+      "btih": "ca8c499e7d6f73d83ed43faced1b7483104ea39e",
+      "mtime": "1664752280",
+      "size": "34693",
+      "md5": "49ea8d23aca2d0c5ab0b44d896e9d601",
+      "crc32": "2690c53e",
+      "sha1": "095f066de5326a55f1755e74dbb56a3a9e25bf9f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "blueridgenow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d75f5bbfc0e63f40f8db267a023d6e7e",
+      "md5": "02e451c67942cf0b6a14854af2069f5c",
       "summation": "md5"
     },
     {
       "name": "blueridgenow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664707472",
-      "size": "217088",
-      "md5": "8539e8b4e14540c4b5055328dab373f5",
-      "crc32": "66cb779c",
-      "sha1": "2c165b18a889727e7ab322b1c6e4f455c816c5f4",
+      "mtime": "1664751681",
+      "size": "221184",
+      "md5": "f0ab8c265740f9b9fd39b4763ed48dfa",
+      "crc32": "e0e311cb",
+      "sha1": "012213090ec395c46c9a5899750780626334ed06",
       "format": "Metadata"
     },
     {
@@ -1582,9 +1644,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 153,
-  "item_last_updated": 1664707569,
-  "item_size": 10591919,
+  "files_count": 159,
+  "item_last_updated": 1664752280,
+  "item_size": 10967278,
   "metadata": {
     "identifier": "blueridgenow-2022",
     "collection": [
@@ -1601,10 +1663,10 @@
     "publicdate": "2022-09-20 22:12:10",
     "addeddate": "2022-09-20 22:12:10"
   },
-  "server": "ia801509.us.archive.org",
-  "uniq": 867688695,
+  "server": "ia601509.us.archive.org",
+  "uniq": 965863749,
   "workable_servers": [
-    "ia801509.us.archive.org",
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }
