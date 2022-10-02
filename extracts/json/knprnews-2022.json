@@ -1,5 +1,5 @@
 {
-  "created": 1664692366,
+  "created": 1664737695,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/9/items/knprnews-2022",
@@ -9592,31 +9592,93 @@
       "sha1": "add89266d3563fa1c14e44800e7f4257c737c09d"
     },
     {
+      "name": "knprnews-2022-10-02T10:30:07.872095-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664731816",
+      "size": "19068",
+      "md5": "ed33dea0ff543abd65a595a6beffb6eb",
+      "crc32": "ca9071c7",
+      "sha1": "57c25655db4938d580fc5201ae3f63a88b213508",
+      "format": "JSON"
+    },
+    {
+      "name": "knprnews-2022-10-02T10:30:07.872095-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664731818",
+      "size": "14130",
+      "md5": "1381e03ef5cb2b47fb6735b07ae88cac",
+      "crc32": "e12bbf37",
+      "sha1": "384b3c1371a33e55a5aeabf0cdbf2c51b84a59d3",
+      "format": "JSON"
+    },
+    {
+      "name": "knprnews-2022-10-02T10:30:07.872095-07:00.jpg",
+      "source": "original",
+      "mtime": "1664731814",
+      "size": "240643",
+      "md5": "9990d936b75aef9ac98efe9f3325193c",
+      "crc32": "b8b4da04",
+      "sha1": "d4efc097b77212e16ccebf01bc6b641f4170bb71",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "knprnews-2022-10-02T10:30:07.872095-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664731820",
+      "size": "1405",
+      "md5": "229bb86d57355368165a071c09ca4141",
+      "crc32": "53ae710b",
+      "sha1": "2055b90c75d94a225fd7261177073e81d32ccb4e",
+      "format": "JSON"
+    },
+    {
+      "name": "knprnews-2022-10-02T10:30:07.872095-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664731821",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "knprnews-2022-10-02T10:30:07.872095-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "knprnews-2022-10-02T10:30:07.872095-07:00.jpg",
+      "mtime": "1664731951",
+      "size": "8623",
+      "md5": "98072badbe8a533afafbc46e26ffc200",
+      "crc32": "0c98645f",
+      "sha1": "cd298fdce3cfb32e6d9d51168f895421c990ed16"
+    },
+    {
       "name": "knprnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fcec73c3ff898a3fcdefa2a0eccd97e8b7e17e3b",
-      "mtime": "1664692349",
-      "size": "195435",
-      "md5": "f895377b6472c2f677f3fafa4d50ac33",
-      "crc32": "b2c1dc99",
-      "sha1": "a25a31886dfc690674fd687be8b1b22651d26514",
+      "btih": "df2523b16cd3b474e15927713c6e5aff5c2583e6",
+      "mtime": "1664731966",
+      "size": "196700",
+      "md5": "ea6d0326d4b24a3c2092c8bc9a8745f6",
+      "crc32": "4b6d77df",
+      "sha1": "62227cecf759e4cdd43ddc0eec811c193132efb4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "knprnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bf3a524789220c7f8ded896a5ed2086f",
+      "md5": "aeadd528fa92e915920cae8d4a7f4ffd",
       "summation": "md5"
     },
     {
       "name": "knprnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664690616",
-      "size": "1167360",
-      "md5": "c841fd749804398a9ae9c1346df4f892",
-      "crc32": "17022ca0",
-      "sha1": "867ed9d17ac54dffd0318c5354688b1224fcad47",
+      "mtime": "1664731831",
+      "size": "1175552",
+      "md5": "7381af4b24b91206f1e11a8e3bb6f7bf",
+      "crc32": "5dc1ca62",
+      "sha1": "893434986563d02dc102e0866dbd7524f942d5e4",
       "format": "Metadata"
     },
     {
@@ -9630,9 +9692,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 929,
-  "item_last_updated": 1664692349,
-  "item_size": 50472087,
+  "files_count": 935,
+  "item_last_updated": 1664731966,
+  "item_size": 50765615,
+  "knprnews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "knprnews-2022",
     "collection": [
@@ -9650,7 +9717,7 @@
     "addeddate": "2022-07-09 03:59:32"
   },
   "server": "ia801506.us.archive.org",
-  "uniq": 1928010652,
+  "uniq": 1269134532,
   "workable_servers": [
     "ia801506.us.archive.org",
     "ia601506.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1664692744,
+  "created": 1664737908,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/34/items/mnherald-2022",
@@ -1504,31 +1504,93 @@
       "sha1": "b8cedd09c4d37bb2c56b542f4f72098b82041885"
     },
     {
+      "name": "mnherald-2022-10-02T12:32:13.164714-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664731938",
+      "size": "24131",
+      "md5": "d5375c9fa0f923638b4c086450380c75",
+      "crc32": "5dcb3d6a",
+      "sha1": "5ec19ada4c05b078b376fbd6819cf152467e8dcc",
+      "format": "JSON"
+    },
+    {
+      "name": "mnherald-2022-10-02T12:32:13.164714-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664731939",
+      "size": "42552",
+      "md5": "43141ec3da1417f7fbf41796526241ca",
+      "crc32": "83ec76aa",
+      "sha1": "cef4f9fb9975f917a5c74e805683e86a16c62e7c",
+      "format": "JSON"
+    },
+    {
+      "name": "mnherald-2022-10-02T12:32:13.164714-05:00.jpg",
+      "source": "original",
+      "mtime": "1664731936",
+      "size": "268116",
+      "md5": "0deecb6bd76fab3b6e12dfc9a42d71e9",
+      "crc32": "dc87313d",
+      "sha1": "3c32ac2f6d982c3c88710bfaf6fa6576c4673bd8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mnherald-2022-10-02T12:32:13.164714-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664731941",
+      "size": "1585",
+      "md5": "8a45b6fb96f491b0220037089ad48d85",
+      "crc32": "7b390b5a",
+      "sha1": "4214a837760ab78b3a3f6f7a7c56efe8ebdcedf0",
+      "format": "JSON"
+    },
+    {
+      "name": "mnherald-2022-10-02T12:32:13.164714-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664731942",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mnherald-2022-10-02T12:32:13.164714-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mnherald-2022-10-02T12:32:13.164714-05:00.jpg",
+      "mtime": "1664732312",
+      "size": "9328",
+      "md5": "17c4c14843fe61c861c50a8dab06e21b",
+      "crc32": "2a9a3ef4",
+      "sha1": "bdfda549727db855726f53543a30b16d709320ff"
+    },
+    {
       "name": "mnherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e2872c662b28ce7c3e943d14bdbca684dc13bb30",
-      "mtime": "1664692682",
-      "size": "31909",
-      "md5": "d4e44cdd5522d707108c0b699fdcf8f5",
-      "crc32": "a7386774",
-      "sha1": "59864c7355e4f7f7d083d4d78feb2e2d0b188c48",
+      "btih": "c78c6b3fee168fe36fdc31b2c6d4d926d7e2c991",
+      "mtime": "1664732320",
+      "size": "33174",
+      "md5": "6aa94a5a5dd61718303720fb84cff9d4",
+      "crc32": "6a438487",
+      "sha1": "5ee7d47690123e459841693b0cb23c2fa6c6f795",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mnherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "931235d77cf52edc7cc041c22c2ebef9",
+      "md5": "2ec84ab1e46ddff47afea512e81722a1",
       "summation": "md5"
     },
     {
       "name": "mnherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664690906",
-      "size": "204800",
-      "md5": "19d6a72cacc32aedc000ba61a9b73d67",
-      "crc32": "bff43782",
-      "sha1": "04c7d0ef50d75686b371c27eaaa9b51f5a38e0d9",
+      "mtime": "1664731952",
+      "size": "212992",
+      "md5": "f41e869778fa9f910fbb4f1f7bdb546d",
+      "crc32": "7da312dc",
+      "sha1": "c1cb88e86ee71a8ff5437eb503cd4d4b0d94227c",
       "format": "Metadata"
     },
     {
@@ -1542,9 +1604,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 149,
-  "item_last_updated": 1664692682,
-  "item_size": 9919803,
+  "files_count": 155,
+  "item_last_updated": 1664732320,
+  "item_size": 10275174,
   "metadata": {
     "identifier": "mnherald-2022",
     "collection": [
@@ -1561,10 +1623,15 @@
     "publicdate": "2022-09-20 17:36:08",
     "addeddate": "2022-09-20 17:36:08"
   },
-  "server": "ia801402.us.archive.org",
-  "uniq": 699104594,
+  "mnherald-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia601402.us.archive.org",
+  "uniq": 2078238390,
   "workable_servers": [
-    "ia801402.us.archive.org",
-    "ia601402.us.archive.org"
+    "ia601402.us.archive.org",
+    "ia801402.us.archive.org"
   ]
 }
