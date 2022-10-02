@@ -1,5 +1,6 @@
 {
-  "created": 1664394384,
+  "conflict": 1664696254,
+  "created": 1664696254,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/11/items/rtenews-2022",
@@ -8433,31 +8434,476 @@
       "format": "JSON"
     },
     {
+      "name": "rtenews-2022-09-28T20:41:20.408026+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rtenews-2022-09-28T20:41:20.408026+01:00.jpg",
+      "mtime": "1664399583",
+      "size": "10148",
+      "md5": "08d5f7ec9ce4524b9ed975636938df4e",
+      "crc32": "f3728749",
+      "sha1": "fb01ee9b652f4b5190c75f1a3340cf82cc716c5d"
+    },
+    {
+      "name": "rtenews-2022-09-29T08:39:12.154103+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664437158",
+      "size": "32558",
+      "md5": "4c20352060d559b804553eaf271e6daf",
+      "crc32": "eafcca64",
+      "sha1": "68c4cc594039518901592fb37f3a58528fe383d5",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-09-29T08:39:12.154103+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664437160",
+      "size": "39820",
+      "md5": "85037f25abb62726424a6a118d215421",
+      "crc32": "e40c0798",
+      "sha1": "9cff28f95244efeb960fd42a7f86feb61286c358",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-09-29T08:39:12.154103+01:00.jpg",
+      "source": "original",
+      "mtime": "1664437156",
+      "size": "316304",
+      "md5": "d2f194cfdb451107a06350aa178d37f2",
+      "crc32": "90384f2b",
+      "sha1": "5d1b013be07ba8efbc87892a85a424ca6aee9497",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rtenews-2022-09-29T08:39:12.154103+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664437161",
+      "size": "1423",
+      "md5": "6632adb724bf2d200d53331a40f17fcc",
+      "crc32": "31f52352",
+      "sha1": "153779e468b5df9d96cf499439430fa5b5dcf48e",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-09-29T08:39:12.154103+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1664437163",
+      "size": "15646",
+      "md5": "6be0c92031659d6d690f57152a19ac3c",
+      "crc32": "81ae1581",
+      "sha1": "4c1e266f00fbfc033d67999a8bb80418dffca3aa",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-09-29T08:39:12.154103+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rtenews-2022-09-29T08:39:12.154103+01:00.jpg",
+      "mtime": "1664438685",
+      "size": "10279",
+      "md5": "5437b31b465567c98764527e45ff1d9a",
+      "crc32": "b0a71c96",
+      "sha1": "5f3e273e5401c740f40950e867f2a84f4dce6fcb"
+    },
+    {
+      "name": "rtenews-2022-09-29T20:33:09.434194+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664479998",
+      "size": "32563",
+      "md5": "48527efb2ef49438d438272ed7e0b819",
+      "crc32": "f7206952",
+      "sha1": "99d3d1f09a4a02dfb1715cc9dff583ea67a7d603",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-09-29T20:33:09.434194+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664480000",
+      "size": "43080",
+      "md5": "d04dac024b734331a5fc405ddea2a41b",
+      "crc32": "0f827ff1",
+      "sha1": "8feded16495f8c920f1a8eacbc12fa789e4798f6",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-09-29T20:33:09.434194+01:00.jpg",
+      "source": "original",
+      "mtime": "1664479996",
+      "size": "296608",
+      "md5": "727b1b93614b0fc409d9aa61968ef3ab",
+      "crc32": "1713c8a4",
+      "sha1": "31babd93a67a07a290cd011e5d61c6edbb1d16c6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rtenews-2022-09-29T20:33:09.434194+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664480002",
+      "size": "1423",
+      "md5": "ce909df72eef06f6320d9965172d90ef",
+      "crc32": "4dcc1ed8",
+      "sha1": "4284c42f7487576259cb3e46a9f3deb771869796",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-09-29T20:33:09.434194+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1664480004",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-09-29T20:33:09.434194+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rtenews-2022-09-29T20:33:09.434194+01:00.jpg",
+      "mtime": "1664487385",
+      "size": "10038",
+      "md5": "21bda9e9a2e45fecd26dc691e77532cb",
+      "crc32": "a3b58aac",
+      "sha1": "7ad012a21aa73a3ddc780252f579b75059a19197"
+    },
+    {
+      "name": "rtenews-2022-09-30T09:04:13.367855+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664525060",
+      "size": "34045",
+      "md5": "17628f32d0c6f446fae574796849bbf0",
+      "crc32": "c7c00686",
+      "sha1": "9d4d168a87f5986d302b30b5c588ae965daf6fc2",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-09-30T09:04:13.367855+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664525062",
+      "size": "43872",
+      "md5": "60cb3fa83992d7682732e65c4633d332",
+      "crc32": "59815446",
+      "sha1": "5920fdbc2763ffb4687f3c28f34d407bf637984b",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-09-30T09:04:13.367855+01:00.jpg",
+      "source": "original",
+      "mtime": "1664525059",
+      "size": "305941",
+      "md5": "34c719e7d182f5bc2e5bcd761aace424",
+      "crc32": "e18bd2a8",
+      "sha1": "fd0c664cf55c101a24bf8a07dca757af02ef6c94",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rtenews-2022-09-30T09:04:13.367855+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664525064",
+      "size": "1421",
+      "md5": "36b141dec041c7a2fcb871d047771c37",
+      "crc32": "8460c5f8",
+      "sha1": "1c8ccf1ca234a165d5de19a1cb8753e54ebdcc74",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-09-30T09:04:13.367855+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1664525065",
+      "size": "17608",
+      "md5": "3da88352a1ba6bc5dad7ca3c9305a1c2",
+      "crc32": "f78a0121",
+      "sha1": "acef7482b47ee10d3a5f491b0a137b104385d90a",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-09-30T09:04:13.367855+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rtenews-2022-09-30T09:04:13.367855+01:00.jpg",
+      "mtime": "1664527660",
+      "size": "10087",
+      "md5": "52fb8380fff5e3988f4c8e2436f10c1c",
+      "crc32": "4abb217a",
+      "sha1": "939d0e63c07bb592cb569cac2c6afdb9c982910a"
+    },
+    {
+      "name": "rtenews-2022-09-30T21:16:26.756508+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664569001",
+      "size": "33325",
+      "md5": "6f269f8e0817278787c5f92f26c59b42",
+      "crc32": "a07ac8f7",
+      "sha1": "34c362fb8275e6ff9b883411cb5c2a128c72d4fd",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-09-30T21:16:26.756508+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664569003",
+      "size": "43345",
+      "md5": "e76282f288372444500fd5facdfe8fab",
+      "crc32": "36ff6bbb",
+      "sha1": "5590e2585ae1980ce92feb4f93d2dcbd1b31d7f9",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-09-30T21:16:26.756508+01:00.jpg",
+      "source": "original",
+      "mtime": "1664568999",
+      "size": "320991",
+      "md5": "cf51e59f71fe0e66831dc6d47d279b0a",
+      "crc32": "58ee3810",
+      "sha1": "c6c02e064b04e3c632154c35f7e28f9899f2e09c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rtenews-2022-09-30T21:16:26.756508+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664569004",
+      "size": "1422",
+      "md5": "c02bc44a167da12b7adabea9082a185f",
+      "crc32": "fe3391b8",
+      "sha1": "d7bcda5f857e5343d5f21db469c2b654a8c52be6",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-09-30T21:16:26.756508+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1664569006",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-09-30T21:16:26.756508+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rtenews-2022-09-30T21:16:26.756508+01:00.jpg",
+      "mtime": "1664571398",
+      "size": "10299",
+      "md5": "8e005c074f1cb4a8c79fbb6b161b0b44",
+      "crc32": "e232a89c",
+      "sha1": "d640448267aed6803989d2228f3fb60824b83214"
+    },
+    {
+      "name": "rtenews-2022-10-01T09:00:44.688428+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664611252",
+      "size": "33240",
+      "md5": "58a5f4c738fec16f1dcab3752a5f7334",
+      "crc32": "60f1b653",
+      "sha1": "41151b91764dc31eb168e48a23ebfb26ff90fc60",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-10-01T09:00:44.688428+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664611254",
+      "size": "41498",
+      "md5": "823fe141eaa1cec6fb3ce1dc94e21193",
+      "crc32": "4b6f3c6d",
+      "sha1": "59d64db111ea4e5dbfd64ac1e12d2abe24c4e730",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-10-01T09:00:44.688428+01:00.jpg",
+      "source": "original",
+      "mtime": "1664611250",
+      "size": "292281",
+      "md5": "c03e98d536dc88df939cc8ae0c1eb530",
+      "crc32": "b7a9d2be",
+      "sha1": "c72d16a212b817e550de7418202c11c623505513",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rtenews-2022-10-01T09:00:44.688428+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664611256",
+      "size": "1423",
+      "md5": "e27fa7453eb5836068d834ca7f6b5b8d",
+      "crc32": "69aaec9f",
+      "sha1": "c2602b0f4def281e4fa7d6ebbcfacda8a81fd04d",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-10-01T09:00:44.688428+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1664611258",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-10-01T09:00:44.688428+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rtenews-2022-10-01T09:00:44.688428+01:00.jpg",
+      "mtime": "1664613536",
+      "size": "10118",
+      "md5": "e504dd69566aa27b36bb231dc35dfa02",
+      "crc32": "b5895cd6",
+      "sha1": "43ef7533e5b957bff66c4b8c7f452297e789c3f3"
+    },
+    {
+      "name": "rtenews-2022-10-01T20:07:57.258901+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664651297",
+      "size": "33538",
+      "md5": "8cd6466bd3b6562354c2a81d0344eaab",
+      "crc32": "d89f5170",
+      "sha1": "a321b00eb3df7d3ce7a1283cddc8c707b1b90267",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-10-01T20:07:57.258901+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664651298",
+      "size": "41771",
+      "md5": "b4e334b7f514cddaf3c9f1dc71039e0a",
+      "crc32": "b4301cef",
+      "sha1": "ef151bb86309937433bc49e65e28831ed2edf602",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-10-01T20:07:57.258901+01:00.jpg",
+      "source": "original",
+      "mtime": "1664651295",
+      "size": "302049",
+      "md5": "e9c7cdf20ec0e0b8ffdf3cdfec0d820a",
+      "crc32": "c2436d2c",
+      "sha1": "5ea73128d5acefa511db419d9a2123804f633360",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rtenews-2022-10-01T20:07:57.258901+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664651300",
+      "size": "1423",
+      "md5": "fd7dcee7e9b5852bb8c14ad768e72674",
+      "crc32": "fc1c34e2",
+      "sha1": "538b8bc831533bd12a5ffc68a7e238614d9f5979",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-10-01T20:07:57.258901+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1664651302",
+      "size": "16210",
+      "md5": "78fe0d384d8cdb6a16161ae2a97250c2",
+      "crc32": "91b1c32d",
+      "sha1": "d3e519690a08bd6ca75f0085f56f00d7f00d25da",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-10-01T20:07:57.258901+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rtenews-2022-10-01T20:07:57.258901+01:00.jpg",
+      "mtime": "1664654223",
+      "size": "10006",
+      "md5": "3f82905a346e1cea05f4685e5eb22712",
+      "crc32": "a47b5c19",
+      "sha1": "d0e26dd9c8c89dd369a459c3948109d14326979c"
+    },
+    {
+      "name": "rtenews-2022-10-02T08:23:43.238573+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664695431",
+      "size": "30630",
+      "md5": "fbfe50423bde9728dcb271f3b438d59b",
+      "crc32": "73397a44",
+      "sha1": "296da5266a2db18cac61224436c9760aa50b7969",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-10-02T08:23:43.238573+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664695433",
+      "size": "33083",
+      "md5": "6e957bc8aa8d96105cc168e82aad3102",
+      "crc32": "d233e6d9",
+      "sha1": "a0af344f1024dfdfc7e44080b6278df99678f41d",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-10-02T08:23:43.238573+01:00.jpg",
+      "source": "original",
+      "mtime": "1664695429",
+      "size": "322935",
+      "md5": "13feb8f60adf3ba6f4da9f7c422bb5ec",
+      "crc32": "d23d0954",
+      "sha1": "109385b6c76836da5aa9abf354ccf3a65b074d48",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rtenews-2022-10-02T08:23:43.238573+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664695434",
+      "size": "1423",
+      "md5": "2210c355a436f0eecd93b53ffdb2b969",
+      "crc32": "11e67e05",
+      "sha1": "28ed635aa7d88cf8c7459d72d5c013bc0e97f8d0",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-10-02T08:23:43.238573+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1664695436",
+      "size": "16125",
+      "md5": "05dde70c689ca71e64f7cb908ff458ab",
+      "crc32": "a157d863",
+      "sha1": "ed7d9f9fac09a0c51e36a910e1d7fbd6198969ec",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-10-02T08:23:43.238573+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rtenews-2022-10-02T08:23:43.238573+01:00.jpg",
+      "mtime": "1664696224",
+      "size": "10553",
+      "md5": "6fd0fdb34bd8574ecc24ea8475953819",
+      "crc32": "4ec58a00",
+      "sha1": "103ca4e5fedfe30448c1c7d67232cc74ea535b81"
+    },
+    {
       "name": "rtenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6b96f67c5d61a075a4cf0a4b1991c799d046b3b2",
-      "mtime": "1664394378",
-      "size": "171948",
-      "md5": "7526093f0fab0448be57c492b776f30b",
-      "crc32": "17bf43e5",
-      "sha1": "0ca83156d836bbabd788647287fbeaff1704cc70",
+      "btih": "7e6b1c5bbed2fec36fdf1f800d073fc1f6de4fd4",
+      "mtime": "1664696249",
+      "size": "180940",
+      "md5": "e9fe8c238fc0944fa3c689440797071a",
+      "crc32": "82f4fe99",
+      "sha1": "29068ae49d78f0cd10de9a112cd26834bc8f9ba8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rtenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f944ba725c190d2481bb497aad67b08d",
+      "md5": "e456c8a7f52ac638441073a2735d2a3b",
       "summation": "md5"
     },
     {
       "name": "rtenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664394334",
-      "size": "1036288",
-      "md5": "887c8780d83420177b67cb0423ee5e68",
-      "crc32": "c956b015",
-      "sha1": "13af3152cd2fff6535fe0aa12e640327a33def43",
+      "mtime": "1664695444",
+      "size": "1089536",
+      "md5": "b3c2e35912d72d542e5ee4b7a49e2857",
+      "crc32": "04e8650c",
+      "sha1": "cbd4558715bc3c3da3a2a188f9acf88a0b633aeb",
       "format": "Metadata"
     },
     {
@@ -8471,9 +8917,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 818,
-  "item_last_updated": 1664394378,
-  "item_size": 56299345,
+  "files_count": 861,
+  "item_last_updated": 1664696249,
+  "item_size": 59192743,
   "metadata": {
     "identifier": "rtenews-2022",
     "collection": [
@@ -8495,15 +8941,23 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3421367646,
+      "task_id": 3425571669,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3425578738,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1529048701,
+  "uniq": 996794264,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

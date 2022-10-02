@@ -1,5 +1,5 @@
 {
-  "created": 1664394408,
+  "created": 1664696257,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/32/items/semafor-2022",
@@ -10931,31 +10931,476 @@
       "format": "JSON"
     },
     {
+      "name": "semafor-2022-09-28T15:42:16.198800-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "semafor-2022-09-28T15:42:16.198800-04:00.jpg",
+      "mtime": "1664399624",
+      "size": "8590",
+      "md5": "29366461de3832301f03b9bfb5ac960d",
+      "crc32": "139d98a4",
+      "sha1": "611afa6ac47f197f332c3aef4bb8eecb988b705a"
+    },
+    {
+      "name": "semafor-2022-09-29T03:40:21.270545-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664437227",
+      "size": "3400",
+      "md5": "6d677df0fbffc25e8529138be1c76d14",
+      "crc32": "a9d9dc88",
+      "sha1": "f4d78b5903e4ae7b9c98294ff02acc8cb59a583b",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-09-29T03:40:21.270545-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664437228",
+      "size": "335",
+      "md5": "e96a2c20804e679b6a5f38e01cfeca79",
+      "crc32": "a1a12625",
+      "sha1": "5ee02efd3d700fa81a625d17ad03890400eb1849",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-09-29T03:40:21.270545-04:00.jpg",
+      "source": "original",
+      "mtime": "1664437225",
+      "size": "162379",
+      "md5": "1b7db287dc904c3475a1ae177d0404a1",
+      "crc32": "b04940cc",
+      "sha1": "33cbc695eb6e2a5deac9a978b95854b0f05c7ddf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "semafor-2022-09-29T03:40:21.270545-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664437230",
+      "size": "1450",
+      "md5": "0c7d99d56325f901d10892f5c1a94660",
+      "crc32": "87623279",
+      "sha1": "c3adafb99fab75daeca65e0202981f889e60c47f",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-09-29T03:40:21.270545-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664437232",
+      "size": "8021",
+      "md5": "fb36550b6cddbb74083709f6f72b8865",
+      "crc32": "99e80ba8",
+      "sha1": "99d7f8691ad0647511f71ada7f7a64f002085daa",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-09-29T03:40:21.270545-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "semafor-2022-09-29T03:40:21.270545-04:00.jpg",
+      "mtime": "1664438749",
+      "size": "8590",
+      "md5": "29366461de3832301f03b9bfb5ac960d",
+      "crc32": "139d98a4",
+      "sha1": "611afa6ac47f197f332c3aef4bb8eecb988b705a"
+    },
+    {
+      "name": "semafor-2022-09-29T15:33:48.798405-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664480036",
+      "size": "3400",
+      "md5": "6d677df0fbffc25e8529138be1c76d14",
+      "crc32": "a9d9dc88",
+      "sha1": "f4d78b5903e4ae7b9c98294ff02acc8cb59a583b",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-09-29T15:33:48.798405-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664480038",
+      "size": "335",
+      "md5": "e96a2c20804e679b6a5f38e01cfeca79",
+      "crc32": "a1a12625",
+      "sha1": "5ee02efd3d700fa81a625d17ad03890400eb1849",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-09-29T15:33:48.798405-04:00.jpg",
+      "source": "original",
+      "mtime": "1664480034",
+      "size": "162547",
+      "md5": "044fd605f39b9bcdb04babadb90ecc89",
+      "crc32": "aef5a84f",
+      "sha1": "1d794a3f3d0f179d24b520fe5156ab6b64c20d94",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "semafor-2022-09-29T15:33:48.798405-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664480040",
+      "size": "1449",
+      "md5": "0e114ad08ed8b664d517ab5354772dc8",
+      "crc32": "cb3fadb5",
+      "sha1": "33398b0dd0fbced7e4b746c6381f7e850596aa0c",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-09-29T15:33:48.798405-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664480042",
+      "size": "7740",
+      "md5": "68080fe89c8f49afe80ee477f0c7e82a",
+      "crc32": "47cb7b64",
+      "sha1": "eb34b16a950b5953efb18a15960412e74d52bb77",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-09-29T15:33:48.798405-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "semafor-2022-09-29T15:33:48.798405-04:00.jpg",
+      "mtime": "1664487011",
+      "size": "8599",
+      "md5": "5a2aab00126c570b77266d88b0976e27",
+      "crc32": "7236fd9b",
+      "sha1": "2175ee19d51d68454e6c9c568033ee3e5ae5ce69"
+    },
+    {
+      "name": "semafor-2022-09-30T04:07:13.154967-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664525237",
+      "size": "3400",
+      "md5": "6d677df0fbffc25e8529138be1c76d14",
+      "crc32": "a9d9dc88",
+      "sha1": "f4d78b5903e4ae7b9c98294ff02acc8cb59a583b",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-09-30T04:07:13.154967-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664525238",
+      "size": "335",
+      "md5": "e96a2c20804e679b6a5f38e01cfeca79",
+      "crc32": "a1a12625",
+      "sha1": "5ee02efd3d700fa81a625d17ad03890400eb1849",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-09-30T04:07:13.154967-04:00.jpg",
+      "source": "original",
+      "mtime": "1664525235",
+      "size": "163255",
+      "md5": "f86932c8700c1f23ee1e0fd6f38f5538",
+      "crc32": "c4020843",
+      "sha1": "aa39d69a94911fe9ab941950db618ba81bcc3033",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "semafor-2022-09-30T04:07:13.154967-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664525240",
+      "size": "1450",
+      "md5": "54cd1ef2757ea3b6de2b21446cd98c7f",
+      "crc32": "edd77769",
+      "sha1": "fcffc9548251ecb53eca5099cc25902ef07d02a4",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-09-30T04:07:13.154967-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664525242",
+      "size": "8097",
+      "md5": "9e20ff79b2e0bbb16f47a2e422c547e0",
+      "crc32": "2a8afc52",
+      "sha1": "56c434d8500bfdc41f9fbf590b2cab44025411f5",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-09-30T04:07:13.154967-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "semafor-2022-09-30T04:07:13.154967-04:00.jpg",
+      "mtime": "1664527994",
+      "size": "8615",
+      "md5": "dfd9b77856bd3b4e3e4120388de6f913",
+      "crc32": "af3c1b9d",
+      "sha1": "9a6ed499d21a0e4aef18d70b42083c8e7dad850c"
+    },
+    {
+      "name": "semafor-2022-09-30T16:16:44.427408-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664569008",
+      "size": "3400",
+      "md5": "6d677df0fbffc25e8529138be1c76d14",
+      "crc32": "a9d9dc88",
+      "sha1": "f4d78b5903e4ae7b9c98294ff02acc8cb59a583b",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-09-30T16:16:44.427408-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664569010",
+      "size": "335",
+      "md5": "e96a2c20804e679b6a5f38e01cfeca79",
+      "crc32": "a1a12625",
+      "sha1": "5ee02efd3d700fa81a625d17ad03890400eb1849",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-09-30T16:16:44.427408-04:00.jpg",
+      "source": "original",
+      "mtime": "1664569006",
+      "size": "163180",
+      "md5": "8bb7a091855eba9f5acc8edd24806c7c",
+      "crc32": "24276fb5",
+      "sha1": "20ea69f6acff67acf8e1982ab9f8d0d9ca8a7bb7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "semafor-2022-09-30T16:16:44.427408-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664569012",
+      "size": "1449",
+      "md5": "a7f55ac16f9ab32f0cd98cf2c1c9692e",
+      "crc32": "ffe39b2e",
+      "sha1": "fca88df7c6197003a911f3787b6edd17e17587db",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-09-30T16:16:44.427408-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664569014",
+      "size": "7947",
+      "md5": "d1411dd01abaa3df4cfacc2384b45a1e",
+      "crc32": "18cf0bf7",
+      "sha1": "44537c53803af4a98d5d9bf5a4f6b29c7066a631",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-09-30T16:16:44.427408-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "semafor-2022-09-30T16:16:44.427408-04:00.jpg",
+      "mtime": "1664571493",
+      "size": "8594",
+      "md5": "2cb62521fc20e4d08b612050d6a9a062",
+      "crc32": "aa27dcdc",
+      "sha1": "1196050c4478c15b3c7a66c61b7acbcc90146c63"
+    },
+    {
+      "name": "semafor-2022-10-01T04:00:53.397345-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664611256",
+      "size": "3400",
+      "md5": "6d677df0fbffc25e8529138be1c76d14",
+      "crc32": "a9d9dc88",
+      "sha1": "f4d78b5903e4ae7b9c98294ff02acc8cb59a583b",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-10-01T04:00:53.397345-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664611258",
+      "size": "335",
+      "md5": "e96a2c20804e679b6a5f38e01cfeca79",
+      "crc32": "a1a12625",
+      "sha1": "5ee02efd3d700fa81a625d17ad03890400eb1849",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-10-01T04:00:53.397345-04:00.jpg",
+      "source": "original",
+      "mtime": "1664611255",
+      "size": "163405",
+      "md5": "eb0d614cf4ceca3771b03bc803f2b975",
+      "crc32": "a59648a6",
+      "sha1": "83807e28fd554833726cdd9b0c91a000be0d7f7f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "semafor-2022-10-01T04:00:53.397345-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664611262",
+      "size": "1450",
+      "md5": "5c5f72effc5c69a1b5adce304da07e57",
+      "crc32": "cf8be9c8",
+      "sha1": "2026d5df2e62514e28336b8f62b1c56e14170636",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-10-01T04:00:53.397345-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664611264",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-10-01T04:00:53.397345-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "semafor-2022-10-01T04:00:53.397345-04:00.jpg",
+      "mtime": "1664613769",
+      "size": "8618",
+      "md5": "d5f42367172f87ceb7b017fe4f317121",
+      "crc32": "22618831",
+      "sha1": "eebf31add79f16f9d29873274a842f30ab932b35"
+    },
+    {
+      "name": "semafor-2022-10-01T15:10:16.222370-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664651420",
+      "size": "3400",
+      "md5": "6d677df0fbffc25e8529138be1c76d14",
+      "crc32": "a9d9dc88",
+      "sha1": "f4d78b5903e4ae7b9c98294ff02acc8cb59a583b",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-10-01T15:10:16.222370-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664651422",
+      "size": "335",
+      "md5": "e96a2c20804e679b6a5f38e01cfeca79",
+      "crc32": "a1a12625",
+      "sha1": "5ee02efd3d700fa81a625d17ad03890400eb1849",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-10-01T15:10:16.222370-04:00.jpg",
+      "source": "original",
+      "mtime": "1664651418",
+      "size": "163255",
+      "md5": "f86932c8700c1f23ee1e0fd6f38f5538",
+      "crc32": "c4020843",
+      "sha1": "aa39d69a94911fe9ab941950db618ba81bcc3033",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "semafor-2022-10-01T15:10:16.222370-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664651424",
+      "size": "1450",
+      "md5": "d8a161e3c89dd26c24365000c0b92730",
+      "crc32": "a3d68981",
+      "sha1": "8591847cf25d62524df874730359e48c936b55dc",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-10-01T15:10:16.222370-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664651426",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-10-01T15:10:16.222370-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "semafor-2022-10-01T15:10:16.222370-04:00.jpg",
+      "mtime": "1664654460",
+      "size": "8615",
+      "md5": "dfd9b77856bd3b4e3e4120388de6f913",
+      "crc32": "af3c1b9d",
+      "sha1": "9a6ed499d21a0e4aef18d70b42083c8e7dad850c"
+    },
+    {
+      "name": "semafor-2022-10-02T03:23:56.111097-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664695440",
+      "size": "3400",
+      "md5": "6d677df0fbffc25e8529138be1c76d14",
+      "crc32": "a9d9dc88",
+      "sha1": "f4d78b5903e4ae7b9c98294ff02acc8cb59a583b",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-10-02T03:23:56.111097-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664695441",
+      "size": "335",
+      "md5": "e96a2c20804e679b6a5f38e01cfeca79",
+      "crc32": "a1a12625",
+      "sha1": "5ee02efd3d700fa81a625d17ad03890400eb1849",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-10-02T03:23:56.111097-04:00.jpg",
+      "source": "original",
+      "mtime": "1664695438",
+      "size": "161358",
+      "md5": "056cc6b2a157f6cd7c66bcffe376ba23",
+      "crc32": "364f7e66",
+      "sha1": "83ceef4bb41ed9d818b6a2c4047e6421663edcc4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "semafor-2022-10-02T03:23:56.111097-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664695443",
+      "size": "1449",
+      "md5": "f19287c80a7dbdab8587c797745423ff",
+      "crc32": "4d8b3a5a",
+      "sha1": "a0d87604ba75de269a214e7bd13a8bc993fe5df1",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-10-02T03:23:56.111097-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664695445",
+      "size": "8104",
+      "md5": "193830a6224094bea1957f8160103839",
+      "crc32": "643d7ad0",
+      "sha1": "e97e14187696985fe30dc951777c73bc6b984bda",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-10-02T03:23:56.111097-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "semafor-2022-10-02T03:23:56.111097-04:00.jpg",
+      "mtime": "1664696120",
+      "size": "8581",
+      "md5": "9b0fba876e6eaf66f8000ee92419af0a",
+      "crc32": "dfac359e",
+      "sha1": "f3a4ad69032d071e3ae16fb7838f072a2b7c9147"
+    },
+    {
       "name": "semafor-2022_archive.torrent",
       "source": "metadata",
-      "btih": "31375fc63ba5c2120f8d623f4e956b4308a9cf20",
-      "mtime": "1664394394",
-      "size": "219312",
-      "md5": "930a84dcc16072c62946a3c062c9db48",
-      "crc32": "1c6972b5",
-      "sha1": "9023f51462567a0bf2713e51ff31c5265dd4606a",
+      "btih": "2de9d5dc6805b9b498606929955f3235763953bd",
+      "mtime": "1664696154",
+      "size": "228212",
+      "md5": "51af8480775815981a61a3e4e413a3ee",
+      "crc32": "f8500920",
+      "sha1": "bbd77797076da9997ee7d270a1228b7be06a196e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "semafor-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0d6314b186555a3b6a9f5663f2b44ea0",
+      "md5": "66099a5dbcf850068dc583c576199786",
       "summation": "md5"
     },
     {
       "name": "semafor-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664394345",
-      "size": "1302528",
-      "md5": "e1db1e57fb88d2a522e45043b376cc83",
-      "crc32": "5f00f444",
-      "sha1": "1828db42b786373a40f1d3824e23da47f988a343",
+      "mtime": "1664695449",
+      "size": "1359872",
+      "md5": "5a30721108cc876586394f953e4c999d",
+      "crc32": "83819c17",
+      "sha1": "7b489a85891d679afbb8b1612b752530e8be2581",
       "format": "Metadata"
     },
     {
@@ -10969,9 +11414,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1056,
-  "item_last_updated": 1664394394,
-  "item_size": 31848581,
+  "files_count": 1099,
+  "item_last_updated": 1664696154,
+  "item_size": 33199611,
   "metadata": {
     "identifier": "semafor-2022",
     "collection": [
@@ -10988,21 +11433,10 @@
     "publicdate": "2022-06-24 23:02:08",
     "addeddate": "2022-06-24 23:02:08"
   },
-  "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3421368162,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2072083519,
+  "server": "ia801407.us.archive.org",
+  "uniq": 894939189,
   "workable_servers": [
+    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }
