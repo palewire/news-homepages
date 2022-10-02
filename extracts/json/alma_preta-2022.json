@@ -1,5 +1,5 @@
 {
-  "created": 1664707396,
+  "created": 1664711995,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/16/items/alma_preta-2022",
@@ -9979,31 +9979,93 @@
       "format": "JSON"
     },
     {
+      "name": "alma_preta-2022-10-02T07:42:02.138978-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alma_preta-2022-10-02T07:42:02.138978-03:00.jpg",
+      "mtime": "1664708414",
+      "size": "10172",
+      "md5": "a66018a5cca7e6243252b4100ae60949",
+      "crc32": "43e94e3e",
+      "sha1": "1450b122c58f858357a4e49ec923afa75b475d3c"
+    },
+    {
+      "name": "alma_preta-2022-10-02T08:58:40.123921-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664711923",
+      "size": "31632",
+      "md5": "6d0c17909911836a5ad92233db8fe56d",
+      "crc32": "6b2e1ec3",
+      "sha1": "bd05218474e45831a1c57c9b8f353790d225b5ae",
+      "format": "JSON"
+    },
+    {
+      "name": "alma_preta-2022-10-02T08:58:40.123921-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664711925",
+      "size": "36623",
+      "md5": "1a76f17c7457d2441492f4c6ee8f2514",
+      "crc32": "956f12de",
+      "sha1": "3f8f657759276925f353161148c004fb0a114bea",
+      "format": "JSON"
+    },
+    {
+      "name": "alma_preta-2022-10-02T08:58:40.123921-03:00.jpg",
+      "source": "original",
+      "mtime": "1664711921",
+      "size": "248994",
+      "md5": "fb973536e462836e9f1400fecbedc600",
+      "crc32": "3f28446c",
+      "sha1": "46e58fe779018625f39367263f329048bb682c22",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alma_preta-2022-10-02T08:58:40.123921-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664711927",
+      "size": "1449",
+      "md5": "4fc5fc4039b3e20cd1b608d85f6cd728",
+      "crc32": "250b5e03",
+      "sha1": "48c7b64fb428ebfd9fc5b3dc4ae431af0ebe1338",
+      "format": "JSON"
+    },
+    {
+      "name": "alma_preta-2022-10-02T08:58:40.123921-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664711928",
+      "size": "202",
+      "md5": "55f010a2db6bbd2f40b0fb700cc8cd7d",
+      "crc32": "9077cb51",
+      "sha1": "2b87b68c6feb2d8752643ec5aca85b74d1b4fd92",
+      "format": "JSON"
+    },
+    {
       "name": "alma_preta-2022_archive.torrent",
       "source": "metadata",
-      "btih": "76e8dc07699f6fdcee18c3f9a58667c90b312ea2",
-      "mtime": "1664707391",
-      "size": "206178",
-      "md5": "7b193991dc68de1fd98594a2bb4a0654",
-      "crc32": "091ee755",
-      "sha1": "4e29f702fd6db6bc8af787fd3ec4be1d36d97d51",
+      "btih": "dd04ceb0ddcf0368808716cd4a3dc5ca2d7dccee",
+      "mtime": "1664711986",
+      "size": "207436",
+      "md5": "55788998b1fae7d56a2346d718e6aedc",
+      "crc32": "1b724cab",
+      "sha1": "33d52990e157c4af76299c3dcefa285d1fa48e1c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "alma_preta-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4599f153784980b07f545f3aab4c6546",
+      "md5": "87807f5d65484f5796aa718bec251b2b",
       "summation": "md5"
     },
     {
       "name": "alma_preta-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664707342",
-      "size": "1241088",
-      "md5": "08e3946c97dc1e4f8f352b7ff25da4b7",
-      "crc32": "5e934466",
-      "sha1": "275dfb3734bcb465c3fd6a99c70bf98d8128d3e1",
+      "mtime": "1664711936",
+      "size": "1253376",
+      "md5": "23e000f4fa3c7ed1c6c79894ff35b520",
+      "crc32": "671bccec",
+      "sha1": "debcdf75e8ac155cae4704317826a7c76ef7b99d",
       "format": "Metadata"
     },
     {
@@ -10017,9 +10079,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 969,
-  "item_last_updated": 1664707391,
-  "item_size": 58933803,
+  "files_count": 975,
+  "item_last_updated": 1664711986,
+  "item_size": 59276421,
   "metadata": {
     "identifier": "alma_preta-2022",
     "collection": [
@@ -10041,7 +10103,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3425717920,
+      "task_id": 3425769960,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -10049,7 +10111,7 @@
       "status": "running"
     }
   ],
-  "uniq": 1807536542,
+  "uniq": 64744788,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

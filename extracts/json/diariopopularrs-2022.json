@@ -1,5 +1,6 @@
 {
-  "created": 1664691866,
+  "conflict": 1664712145,
+  "created": 1664712145,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/29/items/diariopopularrs-2022",
@@ -9418,31 +9419,93 @@
       "sha1": "431f96567a0161ff400262de2f85e42b7ec631a4"
     },
     {
+      "name": "diariopopularrs-2022-10-02T08:59:09.292940-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664711953",
+      "size": "22029",
+      "md5": "5037676c732d5c4d096040eeab7d9341",
+      "crc32": "719bc88c",
+      "sha1": "dfd8a3a8d1252abb419c50584263a3c3d6964dcd",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-10-02T08:59:09.292940-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664711955",
+      "size": "22674",
+      "md5": "4b9092282d51321d2b5a3ed37a9fe839",
+      "crc32": "1fa5e347",
+      "sha1": "9cba8e4a77de4b6d2f78ef17447823add2a03ae0",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-10-02T08:59:09.292940-03:00.jpg",
+      "source": "original",
+      "mtime": "1664711951",
+      "size": "314697",
+      "md5": "e859cd25c6ce8a7be1bbf8af0a1ea07d",
+      "crc32": "3726e39b",
+      "sha1": "77680aa3b5b647115c07a92f4787ed6c7a210240",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariopopularrs-2022-10-02T08:59:09.292940-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664711957",
+      "size": "1549",
+      "md5": "49518a09baffa4678f6bf4d6601c0566",
+      "crc32": "a35653aa",
+      "sha1": "b076833754a04bf4c78e489aec5f40db00c233b5",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-10-02T08:59:09.292940-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664711958",
+      "size": "16731",
+      "md5": "c50ca5b560ebd9af60dbc44a8033eb30",
+      "crc32": "8a49ebe0",
+      "sha1": "11b94c8051e91b7b7b6e1ebfc6027ab35b0fba01",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-10-02T08:59:09.292940-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariopopularrs-2022-10-02T08:59:09.292940-03:00.jpg",
+      "mtime": "1664712124",
+      "size": "10797",
+      "md5": "1650b4991c50cbfa3b6aaddf3677f3a3",
+      "crc32": "e9c0a3b9",
+      "sha1": "99d5763b4d93ba0afaa5ceb306abf3b231952a72"
+    },
+    {
       "name": "diariopopularrs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dce7510331a4f52d4f173a5633e5aa74c76dfe97",
-      "mtime": "1664691828",
-      "size": "199343",
-      "md5": "9d4943a05a65de038ac1fd0f2298fac1",
-      "crc32": "3f131af4",
-      "sha1": "464aeea05c5e5e5d80aea606e3bc141ff433ea0c",
+      "btih": "bc495d33687ab7d3b0497e3b9eaa2c0e536f15e3",
+      "mtime": "1664712142",
+      "size": "200633",
+      "md5": "b76086409b45270d1be331523685067f",
+      "crc32": "9bfe18d1",
+      "sha1": "b71329008249cc15fa9860113fea322e0f25bf13",
       "format": "Archive BitTorrent"
     },
     {
       "name": "diariopopularrs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b3f89284a2ba3abf039816e370d93c7a",
+      "md5": "e51990297a8cd21643ee5f4045cbb794",
       "summation": "md5"
     },
     {
       "name": "diariopopularrs-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664690089",
-      "size": "1183744",
-      "md5": "723b4b6aedf39c9178b2fac286ca45bf",
-      "crc32": "6e552658",
-      "sha1": "a4faaa0b5a25042990793e581b1240a7e2317f2c",
+      "mtime": "1664711964",
+      "size": "1191936",
+      "md5": "28788dc6b64d0e78813d0e6dec52d8fe",
+      "crc32": "46b1f20e",
+      "sha1": "12a8c16754985e3d8b743c6bba0056399ff3b307",
       "format": "Metadata"
     },
     {
@@ -9456,9 +9519,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 915,
-  "item_last_updated": 1664691828,
-  "item_size": 55848544,
+  "files_count": 921,
+  "item_last_updated": 1664712142,
+  "item_size": 56246503,
   "metadata": {
     "identifier": "diariopopularrs-2022",
     "collection": [
@@ -9475,10 +9538,29 @@
     "publicdate": "2022-08-09 17:22:14",
     "addeddate": "2022-08-09 17:22:14"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 944069184,
+  "pending_tasks": true,
+  "server": "ia601500.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3425770507,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3425774388,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1646665475,
   "workable_servers": [
-    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

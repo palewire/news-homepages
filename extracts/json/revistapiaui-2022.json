@@ -1,5 +1,5 @@
 {
-  "created": 1664695450,
+  "created": 1664712024,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/34/items/revistapiaui-2022",
@@ -9751,31 +9751,83 @@
       "format": "JSON"
     },
     {
+      "name": "revistapiaui-2022-10-02T04:22:56.188467-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "revistapiaui-2022-10-02T04:22:56.188467-03:00.jpg",
+      "mtime": "1664696708",
+      "size": "8946",
+      "md5": "e8cc298626f59c90cffc22c5d27054cc",
+      "crc32": "84e01122",
+      "sha1": "376f153148de676ee8ea8e774cede83d670653ab"
+    },
+    {
+      "name": "revistapiaui-2022-10-02T08:59:12.350022-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664711956",
+      "size": "22210",
+      "md5": "cdc0bcfc89bb823f68b99a549f8b58fe",
+      "crc32": "043c8d3f",
+      "sha1": "357dcaa1d88a21faa2530943225ad23b478839f5",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-10-02T08:59:12.350022-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664711957",
+      "size": "31726",
+      "md5": "5ccece79cad8bae9e20c88439f6c2fda",
+      "crc32": "d0f35ffc",
+      "sha1": "6e355ca3de405dfd67223ddb3d3838a6e78e7d7a",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-10-02T08:59:12.350022-03:00.jpg",
+      "source": "original",
+      "mtime": "1664711954",
+      "size": "230067",
+      "md5": "f36ea3f4b5356f1d1f07216becca5343",
+      "crc32": "9666185a",
+      "sha1": "362d74fbbc276e91b7e43af7681b35ce9a0d4607",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "revistapiaui-2022-10-02T08:59:12.350022-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664711959",
+      "size": "1531",
+      "md5": "2d97849b3b8cac5fa4ffeb14eea67777",
+      "crc32": "cbaefe66",
+      "sha1": "78310cac99db07e1a13b1244309e9b6a9fedbe5c",
+      "format": "JSON"
+    },
+    {
       "name": "revistapiaui-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5c9ee3a47129a94420f44fdd8194882a75413e93",
-      "mtime": "1664695444",
-      "size": "203122",
-      "md5": "c6cd30d2036b34f2aa4cf65c7b19c419",
-      "crc32": "04d03008",
-      "sha1": "a4b8ab7e98e223e9966ebf2488e21b9ed0232f62",
+      "btih": "dbfb2e5281a9fae4190bc48a968cff5ef80c8aed",
+      "mtime": "1664712017",
+      "size": "204201",
+      "md5": "6af7bf9d2d055308ea79c5bdaa2e2942",
+      "crc32": "4e662d09",
+      "sha1": "f8236d417fdff862896da7a35a46321139c0698b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "revistapiaui-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9de69271d5f07428e845ac45e50be005",
+      "md5": "2c7cdfb2db6914d139b7f70495220f9f",
       "summation": "md5"
     },
     {
       "name": "revistapiaui-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664695397",
-      "size": "1220608",
-      "md5": "04d53a2e0557970897b14c19d8d439b7",
-      "crc32": "8bd04eb7",
-      "sha1": "bbede348bb22ea59fa595e1119a4a8ec9c6da397",
+      "mtime": "1664711966",
+      "size": "1224704",
+      "md5": "31e87b7b3fcfd4c2ec9559e7bfee7cdd",
+      "crc32": "9db8968b",
+      "sha1": "dc700bd63f29fe6aab2dd3e91cd2a77579ae4d65",
       "format": "Metadata"
     },
     {
@@ -9789,9 +9841,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 947,
-  "item_last_updated": 1664695444,
-  "item_size": 53106345,
+  "files_count": 952,
+  "item_last_updated": 1664712017,
+  "item_size": 53406000,
   "metadata": {
     "identifier": "revistapiaui-2022",
     "collection": [
@@ -9813,7 +9865,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3425571147,
+      "task_id": 3425770587,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -9821,7 +9873,7 @@
       "status": "running"
     }
   ],
-  "uniq": 57123716,
+  "uniq": 1997375875,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]
