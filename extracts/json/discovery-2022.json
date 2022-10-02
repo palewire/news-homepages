@@ -1,5 +1,5 @@
 {
-  "created": 1664581936,
+  "created": 1664668636,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/3/items/discovery-2022",
@@ -10139,31 +10139,155 @@
       "format": "JSON"
     },
     {
+      "name": "discovery-2022-09-30T19:51:08.134453-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "discovery-2022-09-30T19:51:08.134453-04:00.jpg",
+      "mtime": "1664583366",
+      "size": "10115",
+      "md5": "19269dc26cf7e17bf5cde9adcc2b0f01",
+      "crc32": "1aef5faa",
+      "sha1": "db05d61755904d5ae29c5f84a3498de600ea8eca"
+    },
+    {
+      "name": "discovery-2022-10-01T07:54:59.196360-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664625303",
+      "size": "11347",
+      "md5": "73ecd900a96e1213c0d9a89372efc070",
+      "crc32": "587c04d7",
+      "sha1": "d42c76d933b9ddb828c384357eec20cb7dcf4bbd",
+      "format": "JSON"
+    },
+    {
+      "name": "discovery-2022-10-01T07:54:59.196360-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664625304",
+      "size": "54895",
+      "md5": "b9af93c2461a0edc96e616a45eb0d3fc",
+      "crc32": "f2b8be6c",
+      "sha1": "f6a9c51271303a2c6dd32bd4686f3329f5371285",
+      "format": "JSON"
+    },
+    {
+      "name": "discovery-2022-10-01T07:54:59.196360-04:00.jpg",
+      "source": "original",
+      "mtime": "1664625301",
+      "size": "240355",
+      "md5": "8d54c0322da14f2c835f51b31ff65270",
+      "crc32": "1fefb239",
+      "sha1": "f438664dbc3113d6d7ae963f271774e905858c57",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "discovery-2022-10-01T07:54:59.196360-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664625306",
+      "size": "1486",
+      "md5": "a9e868cf1a4c02759fc41774f28c3fe0",
+      "crc32": "a45d86e2",
+      "sha1": "3d52459973e0f35f14a15cd1dc46de201c8d8d07",
+      "format": "JSON"
+    },
+    {
+      "name": "discovery-2022-10-01T07:54:59.196360-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664625308",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "discovery-2022-10-01T07:54:59.196360-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "discovery-2022-10-01T07:54:59.196360-04:00.jpg",
+      "mtime": "1664628446",
+      "size": "10084",
+      "md5": "3a26a4524d7e5e7458dd0dbd84b9dd68",
+      "crc32": "2d14f97f",
+      "sha1": "e39df695b8fd08109b3c4699543df65022babe55"
+    },
+    {
+      "name": "discovery-2022-10-01T19:56:04.414757-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664668573",
+      "size": "11839",
+      "md5": "8c06c8af9e9a7cfa891918daeddd76ba",
+      "crc32": "e64650e1",
+      "sha1": "d180a9b2e1bf169315c42b55be0f59872f36ee78",
+      "format": "JSON"
+    },
+    {
+      "name": "discovery-2022-10-01T19:56:04.414757-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664668575",
+      "size": "55617",
+      "md5": "74fb9ee7635afa4eb4659c8da7e2951b",
+      "crc32": "4c75d603",
+      "sha1": "23a31216fddcedc6fd29c899c1d6b118ef90e189",
+      "format": "JSON"
+    },
+    {
+      "name": "discovery-2022-10-01T19:56:04.414757-04:00.jpg",
+      "source": "original",
+      "mtime": "1664668571",
+      "size": "270665",
+      "md5": "519adf5ebc0eff037ae9948524db7639",
+      "crc32": "3d44ef9c",
+      "sha1": "fb55be5d4ba5e430f6ffd5f3c85d2dd519e6cb80",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "discovery-2022-10-01T19:56:04.414757-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664668577",
+      "size": "1486",
+      "md5": "4f870f4d8be9a405818580383521418f",
+      "crc32": "cc3342d8",
+      "sha1": "a802283206151cb1a6a6239b6c2a24186a244da1",
+      "format": "JSON"
+    },
+    {
+      "name": "discovery-2022-10-01T19:56:04.414757-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664668579",
+      "size": "33322",
+      "md5": "792e4752241f03b47c0ffa94a9dea00b",
+      "crc32": "ae772802",
+      "sha1": "05d3ff2f5494a538c5b54072812473780f143f16",
+      "format": "JSON"
+    },
+    {
       "name": "discovery-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5e11e78661df075e5758e6c1dfe96943aa132d25",
-      "mtime": "1664581929",
-      "size": "207724",
-      "md5": "791ffe1d89e4df8abd45b593125a75b7",
-      "crc32": "d2404271",
-      "sha1": "5156573482cf6646577404a2de370f772a3d34b1",
+      "btih": "f3b8cb830d85772806faf87a6b0e5cbf1d921106",
+      "mtime": "1664668628",
+      "size": "210270",
+      "md5": "e0e549fa24645b1ee757744c5ec327ee",
+      "crc32": "4348d7a2",
+      "sha1": "563c54d19d777b0015fd9a689e311c926e70c3f7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "discovery-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "31706d62eb5cf3e172ca035114f21656",
+      "md5": "dff9a2f9710ef31887900fe59ed941c3",
       "summation": "md5"
     },
     {
       "name": "discovery-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664581882",
-      "size": "1228800",
-      "md5": "fb366e84ba38fd7fbe4d1b3b7e162a1c",
-      "crc32": "1156f3a5",
-      "sha1": "34f4a7ea6106d5d2ee0d2ee3fe18c25831efda11",
+      "mtime": "1664668585",
+      "size": "1245184",
+      "md5": "4c3ad9b47ef9286efc4ef89edfa85f43",
+      "crc32": "e72350fa",
+      "sha1": "3d5fc82bead46a41cd0bfd6987642c7ae5e38829",
       "format": "Metadata"
     },
     {
@@ -10177,9 +10301,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 981,
-  "item_last_updated": 1664581929,
-  "item_size": 60937809,
+  "files_count": 993,
+  "item_last_updated": 1664668628,
+  "item_size": 61658152,
   "metadata": {
     "identifier": "discovery-2022",
     "collection": [
@@ -10201,7 +10325,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3423971482,
+      "task_id": 3425182025,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10209,7 +10333,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 3380092,
+  "uniq": 158780137,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]
