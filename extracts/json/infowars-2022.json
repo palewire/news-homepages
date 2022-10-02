@@ -1,5 +1,5 @@
 {
-  "created": 1664653755,
+  "created": 1664690388,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/28/items/infowars-2022",
@@ -10735,31 +10735,83 @@
       "format": "JSON"
     },
     {
+      "name": "infowars-2022-10-01T14:48:07.063686-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "infowars-2022-10-01T14:48:07.063686-05:00.jpg",
+      "mtime": "1664656295",
+      "size": "10489",
+      "md5": "fdabb655b7fdeb2b6773bc5d7e0e1f33",
+      "crc32": "004e59ca",
+      "sha1": "11ab27e27dadfbfc1039191afbd4e48a9a351f3a"
+    },
+    {
+      "name": "infowars-2022-10-02T00:58:33.208737-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664690316",
+      "size": "14424",
+      "md5": "fd305a08ab288f287816129f191bff81",
+      "crc32": "4af8aaeb",
+      "sha1": "6b8cb6a551d94ffbfe14f3661dcca4a0e3e97bd3",
+      "format": "JSON"
+    },
+    {
+      "name": "infowars-2022-10-02T00:58:33.208737-05:00.jpg",
+      "source": "original",
+      "mtime": "1664690315",
+      "size": "334490",
+      "md5": "d8dcc6054b07bda35092e5c0c11bfaa2",
+      "crc32": "b8a8fa5e",
+      "sha1": "c67b2159cd22b6377f4e1d7e0f1e897d0a54f85a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "infowars-2022-10-02T00:58:33.208737-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664690318",
+      "size": "1476",
+      "md5": "43b6b5e8a950da79c5f78c82689ef8f4",
+      "crc32": "ca781440",
+      "sha1": "569d0187f9e7b43692190f5c61b721f0868c7c7c",
+      "format": "JSON"
+    },
+    {
+      "name": "infowars-2022-10-02T00:58:33.208737-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664690320",
+      "size": "10993",
+      "md5": "86bc685bf6dbbbde79d7e53541da1ba4",
+      "crc32": "d1c986be",
+      "sha1": "a0aaf494937cc08a3661749c3cef48dc117973f1",
+      "format": "JSON"
+    },
+    {
       "name": "infowars-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c10e02c8df8bb15aed77473dcf9875c112e56c75",
-      "mtime": "1664653749",
-      "size": "216888",
-      "md5": "88b80cde05ba2a3b8c39d3ef9bfe3b23",
-      "crc32": "60c68eae",
-      "sha1": "302b83c059f0d341452cbea56e7998c4bd9c5c90",
+      "btih": "229c996a348b0d8c3d99bb9b7f5471007c827304",
+      "mtime": "1664690379",
+      "size": "217922",
+      "md5": "0172d89a5a04a84f5b109a76758e89a7",
+      "crc32": "784e94d4",
+      "sha1": "c0fb1ce3f239ac5808934127f2cd7d97f22c3648",
       "format": "Archive BitTorrent"
     },
     {
       "name": "infowars-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7c8a6bbacd8999b892ab0cf116219fd7",
+      "md5": "a1326b367c7598524cdee60c19c25df7",
       "summation": "md5"
     },
     {
       "name": "infowars-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664653702",
-      "size": "1245184",
-      "md5": "bd3f577d530b02c1ec1a9049e08e7930",
-      "crc32": "720c9781",
-      "sha1": "b96a908b2f704e63ee6fd555674b5887519c639e",
+      "mtime": "1664690327",
+      "size": "1249280",
+      "md5": "58e293519b0c3d7a90f0e589fdfe7fd6",
+      "crc32": "8ad43d18",
+      "sha1": "3097f39bd1a7598b373b70355b4cb392d84c7b31",
       "format": "Metadata"
     },
     {
@@ -10773,9 +10825,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1033,
-  "item_last_updated": 1664653749,
-  "item_size": 75784496,
+  "files_count": 1038,
+  "item_last_updated": 1664690379,
+  "item_size": 76161498,
   "metadata": {
     "identifier": "infowars-2022",
     "collection": [
@@ -10797,15 +10849,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3424984416,
+      "task_id": 3425498337,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1903636248,
+  "uniq": 1725599671,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]
