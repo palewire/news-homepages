@@ -1,5 +1,6 @@
 {
-  "created": 1664667813,
+  "conflict": 1664707615,
+  "created": 1664707615,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/11/items/bartlesvilleee-2022",
@@ -1420,31 +1421,88 @@
       "sha1": "316b559967e47ff94401bb4c578ec33d59084541"
     },
     {
+      "name": "bartlesvilleee-2022-10-02T05:43:57.187262-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664707440",
+      "size": "21742",
+      "md5": "3638c74745d18b80437bf66bd934d847",
+      "crc32": "1f117396",
+      "sha1": "7fc94cb6417e9a287b0486b57853570a03d9fab3",
+      "format": "JSON"
+    },
+    {
+      "name": "bartlesvilleee-2022-10-02T05:43:57.187262-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664707442",
+      "size": "32669",
+      "md5": "8a181694b43da210f7b53deb195b2488",
+      "crc32": "963f3b7b",
+      "sha1": "f825c112795f220903a1ea49d58c068bd6076ca8",
+      "format": "JSON"
+    },
+    {
+      "name": "bartlesvilleee-2022-10-02T05:43:57.187262-05:00.jpg",
+      "source": "original",
+      "mtime": "1664707439",
+      "size": "254267",
+      "md5": "09db771babb92478efbd644c3612fd89",
+      "crc32": "a1b8de7f",
+      "sha1": "3f7f1f0222bff56dc26efad3fa8a2ff74d0ac5b3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bartlesvilleee-2022-10-02T05:43:57.187262-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664707443",
+      "size": "1576",
+      "md5": "f9bf5dad1a8fd2710c129a2e17dc53d7",
+      "crc32": "c70835d0",
+      "sha1": "e50d2934c069b9ff467cea3efaa601ec02875980",
+      "format": "JSON"
+    },
+    {
+      "name": "bartlesvilleee-2022-10-02T05:43:57.187262-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664707445",
+      "size": "112188",
+      "md5": "41b31b35e2dc778b634a3dcf24727209",
+      "crc32": "e458ce30",
+      "sha1": "48881254122dc6e29f2c98c250b7b2e5d3cb90df",
+      "format": "JSON"
+    },
+    {
+      "name": "bartlesvilleee-2022-10-02T05:43:57.187262-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bartlesvilleee-2022-10-02T05:43:57.187262-05:00.jpg"
+    },
+    {
       "name": "bartlesvilleee-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7e0b0e6800b52dcb68c5d92e329b81a6d4b57678",
-      "mtime": "1664667734",
-      "size": "31096",
-      "md5": "c4fa4d32f3eb65845e3d3d554ca45972",
-      "crc32": "ae22ec0a",
-      "sha1": "a98468eaf885c47d87dec94f6e13398135b49822",
+      "btih": "fecadb49d99fa9b392315b28dd1a2b57daf6ccaa",
+      "mtime": "1664707485",
+      "size": "32190",
+      "md5": "82ff894591f51715cca4c91c80fd678a",
+      "crc32": "0865f4fb",
+      "sha1": "1d7444db78da53beecb8937df462405f4864faed",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bartlesvilleee-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e3b0f08581accf8592480bab480d5aeb",
+      "md5": "117af096f836907fa75a5dd3b0728ac2",
       "summation": "md5"
     },
     {
       "name": "bartlesvilleee-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664665159",
-      "size": "196608",
-      "md5": "a92fe41621f642f82fa0ff2a271966b0",
-      "crc32": "2a5c7e5b",
-      "sha1": "2281eb764b8c817ee4aa9ad2f03c66b07a495ccc",
+      "mtime": "1664707450",
+      "size": "204800",
+      "md5": "0c6569f97d98beb5dc3a12cb5ddfc8e2",
+      "crc32": "a9df2578",
+      "sha1": "94297fee3ff97bef7b152c82840afd25c327e435",
       "format": "Metadata"
     },
     {
@@ -1458,9 +1516,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 141,
-  "item_last_updated": 1664667734,
-  "item_size": 8751809,
+  "files_count": 147,
+  "item_last_updated": 1664707485,
+  "item_size": 9183537,
   "metadata": {
     "identifier": "bartlesvilleee-2022",
     "collection": [
@@ -1477,10 +1535,21 @@
     "publicdate": "2022-09-20 22:10:16",
     "addeddate": "2022-09-20 22:10:16"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 336454504,
+  "pending_tasks": true,
+  "server": "ia601505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3425719166,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 779090693,
   "workable_servers": [
-    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

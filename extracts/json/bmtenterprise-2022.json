@@ -1,5 +1,6 @@
 {
-  "created": 1664668369,
+  "conflict": 1664707496,
+  "created": 1664707496,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/27/items/bmtenterprise-2022",
@@ -8605,21 +8606,32 @@
       "format": "JSON"
     },
     {
+      "name": "bmtenterprise-2022-10-01T17:57:55.405629-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bmtenterprise-2022-10-01T17:57:55.405629-05:00.jpg",
+      "mtime": "1664672293",
+      "size": "10500",
+      "md5": "ceeb6ade2456210402055314c902be7b",
+      "crc32": "681c220c",
+      "sha1": "5f11bb5c07e79838b6ba1edb85724250f6a9876d"
+    },
+    {
       "name": "bmtenterprise-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d88f991f822a74b6ea5e56d1d242453043dbba97",
-      "mtime": "1664665282",
-      "size": "180625",
-      "md5": "33bfccd11fa27c0042b6f5cee653b356",
-      "crc32": "96a178cb",
-      "sha1": "5244416f2fb04bea0578b581342840d5b39a0aee",
+      "btih": "d353a57e5bc7feb2dca17f00a9335eab8587c717",
+      "mtime": "1664672302",
+      "size": "180835",
+      "md5": "4901536f00b597a7e10bcaf93141a32a",
+      "crc32": "9e78ac98",
+      "sha1": "4ca075f1cf9e7ba2c808082cbfad5f712cdb1921",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bmtenterprise-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3862e80888295911a6e33bb3eec48d28",
+      "md5": "d917c79fa9f7e003fd0d5ab499d3b3e5",
       "summation": "md5"
     },
     {
@@ -8643,9 +8655,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 833,
-  "item_last_updated": 1664665282,
-  "item_size": 75873327,
+  "files_count": 834,
+  "item_last_updated": 1664672302,
+  "item_size": 75884037,
   "metadata": {
     "identifier": "bmtenterprise-2022",
     "collection": [
@@ -8667,15 +8679,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3425134693,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3425718698,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     }
   ],
-  "uniq": 239565412,
+  "uniq": 190128148,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]
