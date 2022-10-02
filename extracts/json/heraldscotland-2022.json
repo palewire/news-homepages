@@ -1,5 +1,5 @@
 {
-  "created": 1664692926,
+  "created": 1664702287,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/13/items/heraldscotland-2022",
@@ -12452,31 +12452,82 @@
       "sha1": "8eb1199cf6dda5b634a1e70af9646e48a2323d61"
     },
     {
+      "name": "heraldscotland-2022-10-02T10:16:45.037980+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664702209",
+      "size": "31893",
+      "md5": "33de94e4f3a34c8145955823e5caba12",
+      "crc32": "a31e25cb",
+      "sha1": "4a54eb2cce8ff968ab8c4c1e2ddac7677e1da750",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldscotland-2022-10-02T10:16:45.037980+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664702211",
+      "size": "49946",
+      "md5": "27eab61d9a6df3fe269029dee4e2cfb4",
+      "crc32": "4656f4e5",
+      "sha1": "b46092b28fa22d3d06c0fd57645b2480356d64ae",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldscotland-2022-10-02T10:16:45.037980+01:00.jpg",
+      "source": "original",
+      "mtime": "1664702207",
+      "size": "252911",
+      "md5": "cd3b18e2799851261da8094ff62def5e",
+      "crc32": "3767113b",
+      "sha1": "866d705cd727eb43553d1e1c13faab9132f44df2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "heraldscotland-2022-10-02T10:16:45.037980+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664702214",
+      "size": "1531",
+      "md5": "9ef33f2044cdf89a32e06cf25a870ff2",
+      "crc32": "e0fd9a58",
+      "sha1": "c8f90fe35335863eadab93ffe73f0c1b297945ad",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldscotland-2022-10-02T10:16:45.037980+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1664702215",
+      "size": "107",
+      "md5": "cc27b005e6cf63435cc67f9b4ee45fea",
+      "crc32": "dcda7742",
+      "sha1": "bb5728a1e0fec4cbc19642bb010bc010ce5c7828",
+      "format": "JSON"
+    },
+    {
       "name": "heraldscotland-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2ca960d9a784f053dc91ab01d91444ac117da9f9",
-      "mtime": "1664692082",
-      "size": "261456",
-      "md5": "f77364c1cb0b6671b8964c330bfe6d57",
-      "crc32": "189ab40f",
-      "sha1": "3768bc89ac6cea164cabde3869ce1073b049a4d3",
+      "btih": "e5fd9836dd9fafe1f6b2512ae4bdb07e1f330082",
+      "mtime": "1664702279",
+      "size": "262527",
+      "md5": "14a16cb9261ef45c5a31102c67a0e7aa",
+      "crc32": "50fd317f",
+      "sha1": "5a5e72837f3f88abda263ca7068f1f444c448c26",
       "format": "Archive BitTorrent"
     },
     {
       "name": "heraldscotland-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "50fa1f2ec7609bb3d3aabadab4a50434",
+      "md5": "28c8121863a547c221de7d564dec3b56",
       "summation": "md5"
     },
     {
       "name": "heraldscotland-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664690361",
-      "size": "1527808",
-      "md5": "e541995602683b30b4c0035dc9ae0ae8",
-      "crc32": "550a0efa",
-      "sha1": "0a7f1d444bb7f59a190d9c15bda3839674fcadb8",
+      "mtime": "1664702220",
+      "size": "1531904",
+      "md5": "804a046dce3cdba917be0015375f555a",
+      "crc32": "12f104bf",
+      "sha1": "d27e5a8f280bc6c939bbc2a41c70f9d127b97fc1",
       "format": "Metadata"
     },
     {
@@ -12490,9 +12541,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1205,
-  "item_last_updated": 1664692082,
-  "item_size": 88412579,
+  "files_count": 1210,
+  "item_last_updated": 1664702279,
+  "item_size": 88754134,
   "metadata": {
     "identifier": "heraldscotland-2022",
     "collection": [
@@ -12509,10 +12560,21 @@
     "publicdate": "2022-07-06 21:13:21",
     "addeddate": "2022-07-06 21:13:21"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 1960926114,
+  "pending_tasks": true,
+  "server": "ia601406.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3425652221,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 728838105,
   "workable_servers": [
-    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1664668678,
+  "created": 1664702315,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/29/items/flightglobal-2022",
@@ -7983,31 +7983,93 @@
       "format": "JSON"
     },
     {
+      "name": "flightglobal-2022-10-02T00:56:26.763387+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flightglobal-2022-10-02T00:56:26.763387+01:00.jpg",
+      "mtime": "1664671370",
+      "size": "9680",
+      "md5": "ba31c26bd927a2f91bc811dc91846ae4",
+      "crc32": "7add61ac",
+      "sha1": "f8fba25e9d8cf4aeaaa6657bd338f9f1c103e2de"
+    },
+    {
+      "name": "flightglobal-2022-10-02T10:16:44.590521+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664702238",
+      "size": "40094",
+      "md5": "fa2196ade92255c081c4b7b193b01053",
+      "crc32": "ad5c6024",
+      "sha1": "a16e14660d45e1f687a2559aefdee22cb75960ee",
+      "format": "JSON"
+    },
+    {
+      "name": "flightglobal-2022-10-02T10:16:44.590521+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664702240",
+      "size": "56494",
+      "md5": "0558dcd014db0e188ea61743a6e3e1c8",
+      "crc32": "d159ac98",
+      "sha1": "9bdc59f8388eb0de99983116a275733570e69aaa",
+      "format": "JSON"
+    },
+    {
+      "name": "flightglobal-2022-10-02T10:16:44.590521+01:00.jpg",
+      "source": "original",
+      "mtime": "1664702233",
+      "size": "255705",
+      "md5": "54bea3256cbaf632849ac0b02a430883",
+      "crc32": "d5411b54",
+      "sha1": "9d7083ae3e51b99f80f3e549cf2a253f1e3dee20",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flightglobal-2022-10-02T10:16:44.590521+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664702241",
+      "size": "1512",
+      "md5": "b66198564d96198e1f07662cdaeb41d9",
+      "crc32": "8c115dc8",
+      "sha1": "e2c992bd674d0b27651f7a8b2ed116b27a87816f",
+      "format": "JSON"
+    },
+    {
+      "name": "flightglobal-2022-10-02T10:16:44.590521+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1664702245",
+      "size": "25019",
+      "md5": "d2b690f9570228cd5a27b24e75d2bcf7",
+      "crc32": "5ef9b196",
+      "sha1": "673c37fb399b343f6d0704978be2efb874fa33f8",
+      "format": "JSON"
+    },
+    {
       "name": "flightglobal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4b904e443fcfa00577eeb295da56d4ab86dd78c2",
-      "mtime": "1664668673",
-      "size": "166833",
-      "md5": "181f9a7dde160052a41ea2e7a94365b5",
-      "crc32": "9a88a649",
-      "sha1": "71c4485686130e9faf30843bad8ae62e47c6fca2",
+      "btih": "4f1e087b1dbd318744090597ead50b9819623165",
+      "mtime": "1664702308",
+      "size": "168124",
+      "md5": "ed021bcd0aaf75e81ebfa108fb834921",
+      "crc32": "6710ae9a",
+      "sha1": "cecfeb859547015a966c936f8e9ba3c2fd2c8528",
       "format": "Archive BitTorrent"
     },
     {
       "name": "flightglobal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a97e41201cceebc989b46571a3a5069a",
+      "md5": "c332619ebc5223120ababa9a843253c8",
       "summation": "md5"
     },
     {
       "name": "flightglobal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664668621",
-      "size": "1003520",
-      "md5": "534101f061e19a589c3cd32a21305818",
-      "crc32": "837a7324",
-      "sha1": "4533524a955978f64691bbdc27f8a48ed55d7b1f",
+      "mtime": "1664702254",
+      "size": "1007616",
+      "md5": "5c3c77023feec52908ae98690d64ec87",
+      "crc32": "6359fad3",
+      "sha1": "72fa653006905b6bb7c2f2cc6fc051757ef538d2",
       "format": "Metadata"
     },
     {
@@ -8021,9 +8083,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 776,
-  "item_last_updated": 1664668673,
-  "item_size": 50141322,
+  "files_count": 782,
+  "item_last_updated": 1664702308,
+  "item_size": 50535213,
   "metadata": {
     "identifier": "flightglobal-2022",
     "collection": [
@@ -8045,15 +8107,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3425182551,
+      "task_id": 3425652582,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 666097672,
+  "uniq": 1370314064,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

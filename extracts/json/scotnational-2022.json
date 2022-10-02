@@ -1,5 +1,6 @@
 {
-  "created": 1664682243,
+  "conflict": 1664702233,
+  "created": 1664702233,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/6/items/scotnational-2022",
@@ -12483,21 +12484,32 @@
       "format": "JSON"
     },
     {
+      "name": "scotnational-2022-10-02T04:42:24.298249+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "scotnational-2022-10-02T04:42:24.298249+01:00.jpg",
+      "mtime": "1664684407",
+      "size": "9494",
+      "md5": "3b4be9eba9377f82dcf25dccc220f57b",
+      "crc32": "7f6367a5",
+      "sha1": "ea15b059e7facc1ed2523d8a08e5f6a0c915348c"
+    },
+    {
       "name": "scotnational-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a9f12fe98b336ba1e0df7e0918bae774373f2bfe",
-      "mtime": "1664682234",
-      "size": "259618",
-      "md5": "0e45510ff5cb8409902b11b7bcc8bb5b",
-      "crc32": "a21e4712",
-      "sha1": "f1cc1ba2c3303a02b2bd324a2abe8e2c4414e8a5",
+      "btih": "2a067b4d454b02e35d0400213e0370c493018038",
+      "mtime": "1664685987",
+      "size": "259826",
+      "md5": "5d62b942f8701e6f5e42e9dd0a65ebd1",
+      "crc32": "5f4aa8fa",
+      "sha1": "be68d01aa1412aa7710ef8970c5dc98283eb98dc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scotnational-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "51235a7f23e260513555984dd8f96fca",
+      "md5": "91b74d289ee1613d30fba3f189d78a5f",
       "summation": "md5"
     },
     {
@@ -12521,9 +12533,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1208,
-  "item_last_updated": 1664682234,
-  "item_size": 87687854,
+  "files_count": 1209,
+  "item_last_updated": 1664685987,
+  "item_size": 87697556,
   "metadata": {
     "identifier": "scotnational-2022",
     "collection": [
@@ -12545,15 +12557,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3425383917,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "task_id": 3425651036,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1492948643,
+  "uniq": 412467564,
   "workable_servers": [
     "ia601502.us.archive.org"
   ]

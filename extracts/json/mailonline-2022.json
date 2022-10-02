@@ -1,5 +1,6 @@
 {
-  "created": 1664674428,
+  "conflict": 1664702281,
+  "created": 1664702281,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/11/items/mailonline-2022",
@@ -15609,21 +15610,32 @@
       "format": "JSON"
     },
     {
+      "name": "mailonline-2022-10-02T02:29:45.028521+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mailonline-2022-10-02T02:29:45.028521+01:00.jpg",
+      "mtime": "1664677058",
+      "size": "10826",
+      "md5": "f0bd009908dd802fc6eb5dd4670b1741",
+      "crc32": "35fafc96",
+      "sha1": "8bf954832308936937c729e86e52de886b6fc721"
+    },
+    {
       "name": "mailonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ebd477a70fc8b74f81be66780eb1c24b5f778e1a",
-      "mtime": "1664674400",
-      "size": "325863",
-      "md5": "9ef39c8fd9d2d8ccc16ec70dadcbe402",
-      "crc32": "f5810d3a",
-      "sha1": "4451a0c2b89fe6bd361f126190a1631a19b1c124",
+      "btih": "37ec40005f59de3fb6764ff66e85b4367a6296bb",
+      "mtime": "1664677087",
+      "size": "326070",
+      "md5": "aefc7862ab4cdb90cecd6751686733ef",
+      "crc32": "49c75fd0",
+      "sha1": "8b592035b61d52294d02f99ea9175cc1b6ac3e37",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mailonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ac89f9ea45a482a42492811ff6ff00a3",
+      "md5": "05046f2c1f1f6deccd562145d115b851",
       "summation": "md5"
     },
     {
@@ -15647,9 +15659,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1504,
-  "item_last_updated": 1664674400,
-  "item_size": 254854241,
+  "files_count": 1505,
+  "item_last_updated": 1664677087,
+  "item_size": 254865274,
   "metadata": {
     "identifier": "mailonline-2022",
     "collection": [
@@ -15671,15 +15683,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3425273724,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "task_id": 3425651737,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 228658144,
+  "uniq": 1907883012,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]
