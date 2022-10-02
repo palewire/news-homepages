@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 399 screenshots with the Internet Archive.
+The archiving routine has saved 400 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 399 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newshour-2022/newshour-2022-10-02T08:53:43.415223-04:00.jpg">
+  <img src="https://archive.org/download/newshour-2022/newshour-2022-10-02T08:53:43.415223-04:00.jpg"
+     alt="PBS News Hour at 2022-10-02 08:53:45-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newshour-2022/newshour-2022-10-02T08:53:43.415223-04:00.jpg">October 2 at 8:53 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newshour-2022/newshour-2022-10-01T22:22:37.813269-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/newshour-2022/newshour-2022-09-29T10:04:09.117628-04:00.jpg">September 29 at 10:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/newshour-2022/newshour-2022-09-28T22:18:22.945745-04:00.jpg">
-  <img src="https://archive.org/download/newshour-2022/newshour-2022-09-28T22:18:22.945745-04:00.jpg"
-     alt="PBS News Hour at 2022-09-28 22:18:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newshour-2022/newshour-2022-09-28T22:18:22.945745-04:00.jpg">September 28 at 10:18 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 402 hyperlink lists with the Internet Archive.
+The archiving routine has saved 403 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 8:53 AM](https://archive.org/download/newshour-2022/newshour-2022-10-02T08:53:43.415223-04:00.hyperlinks.json) |
 | [October 1 at 10:23 PM](https://archive.org/download/newshour-2022/newshour-2022-10-01T22:22:37.813269-04:00.hyperlinks.json) |
 | [October 1 at 5:18 PM](https://archive.org/download/newshour-2022/newshour-2022-10-01T17:18:43.899253-04:00.hyperlinks.json) |
 | [October 1 at 10:07 AM](https://archive.org/download/newshour-2022/newshour-2022-10-01T10:07:10.181628-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 10:15 AM](https://archive.org/download/newshour-2022/newshour-2022-09-30T10:14:51.233210-04:00.hyperlinks.json) |
 | [September 30 at 8:57 AM](https://archive.org/download/newshour-2022/newshour-2022-09-30T08:57:04.775209-04:00.hyperlinks.json) |
 | [September 29 at 10:37 PM](https://archive.org/download/newshour-2022/newshour-2022-09-29T22:36:56.335340-04:00.hyperlinks.json) |
-| [September 29 at 5:19 PM](https://archive.org/download/newshour-2022/newshour-2022-09-29T17:19:32.918927-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 403 accessibility trees with the Internet Archive.
+The archiving routine has saved 404 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 8:53 AM](https://archive.org/download/newshour-2022/newshour-2022-10-02T08:53:43.415223-04:00.accessibility.json) |
 | [October 1 at 10:23 PM](https://archive.org/download/newshour-2022/newshour-2022-10-01T22:22:37.813269-04:00.accessibility.json) |
 | [October 1 at 5:18 PM](https://archive.org/download/newshour-2022/newshour-2022-10-01T17:18:43.899253-04:00.accessibility.json) |
 | [October 1 at 10:07 AM](https://archive.org/download/newshour-2022/newshour-2022-10-01T10:07:10.181628-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 10:15 AM](https://archive.org/download/newshour-2022/newshour-2022-09-30T10:14:51.233210-04:00.accessibility.json) |
 | [September 30 at 8:57 AM](https://archive.org/download/newshour-2022/newshour-2022-09-30T08:57:04.775209-04:00.accessibility.json) |
 | [September 29 at 10:37 PM](https://archive.org/download/newshour-2022/newshour-2022-09-29T22:36:56.335340-04:00.accessibility.json) |
-| [September 29 at 5:19 PM](https://archive.org/download/newshour-2022/newshour-2022-09-29T17:19:32.918927-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 276 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 277 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 8:53 AM](https://archive.org/download/newshour-2022/newshour-2022-10-02T08:53:43.415223-04:00.lighthouse.json) |
 | [October 1 at 10:23 PM](https://archive.org/download/newshour-2022/newshour-2022-10-01T22:22:37.813269-04:00.lighthouse.json) |
 | [October 1 at 5:18 PM](https://archive.org/download/newshour-2022/newshour-2022-10-01T17:18:43.899253-04:00.lighthouse.json) |
 | [October 1 at 10:07 AM](https://archive.org/download/newshour-2022/newshour-2022-10-01T10:07:10.181628-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 10:15 AM](https://archive.org/download/newshour-2022/newshour-2022-09-30T10:14:51.233210-04:00.lighthouse.json) |
 | [September 30 at 8:57 AM](https://archive.org/download/newshour-2022/newshour-2022-09-30T08:57:04.775209-04:00.lighthouse.json) |
 | [September 29 at 10:37 PM](https://archive.org/download/newshour-2022/newshour-2022-09-29T22:36:56.335340-04:00.lighthouse.json) |
-| [September 29 at 5:19 PM](https://archive.org/download/newshour-2022/newshour-2022-09-29T17:19:32.918927-04:00.lighthouse.json) |
 
 
 
