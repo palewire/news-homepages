@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 23 screenshots with the Internet Archive.
+The archiving routine has saved 24 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/indystar-2022/indystar-2022-10-02T13:27:52.404445-04:00.jpg">
+  <img src="https://archive.org/download/indystar-2022/indystar-2022-10-02T13:27:52.404445-04:00.jpg"
+     alt="The Indianapolis Star at 2022-10-02 13:27:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/indystar-2022/indystar-2022-10-02T13:27:52.404445-04:00.jpg">October 2 at 1:27 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/indystar-2022/indystar-2022-10-02T01:58:21.673205-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/indystar-2022/indystar-2022-09-26T13:27:44.845014-04:00.jpg">September 26 at 1:27 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/indystar-2022/indystar-2022-09-26T02:01:32.553003-04:00.jpg">
-  <img src="https://archive.org/download/indystar-2022/indystar-2022-09-26T02:01:32.553003-04:00.jpg"
-     alt="The Indianapolis Star at 2022-09-26 02:01:34-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/indystar-2022/indystar-2022-09-26T02:01:32.553003-04:00.jpg">September 26 at 2:01 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 24 hyperlink lists with the Internet Archive.
+The archiving routine has saved 25 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 1:28 PM](https://archive.org/download/indystar-2022/indystar-2022-10-02T13:27:52.404445-04:00.hyperlinks.json) |
 | [October 2 at 1:58 AM](https://archive.org/download/indystar-2022/indystar-2022-10-02T01:58:21.673205-04:00.hyperlinks.json) |
 | [October 1 at 1:32 PM](https://archive.org/download/indystar-2022/indystar-2022-10-01T13:32:30.224361-04:00.hyperlinks.json) |
 | [October 1 at 2:16 AM](https://archive.org/download/indystar-2022/indystar-2022-10-01T02:15:57.924937-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 29 at 2:02 AM](https://archive.org/download/indystar-2022/indystar-2022-09-29T02:02:29.391884-04:00.hyperlinks.json) |
 | [September 28 at 1:38 PM](https://archive.org/download/indystar-2022/indystar-2022-09-28T13:38:48.345029-04:00.hyperlinks.json) |
 | [September 28 at 2:09 AM](https://archive.org/download/indystar-2022/indystar-2022-09-28T02:09:25.175376-04:00.hyperlinks.json) |
-| [September 27 at 1:36 PM](https://archive.org/download/indystar-2022/indystar-2022-09-27T13:36:02.391085-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 24 accessibility trees with the Internet Archive.
+The archiving routine has saved 25 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 1:27 PM](https://archive.org/download/indystar-2022/indystar-2022-10-02T13:27:52.404445-04:00.accessibility.json) |
 | [October 2 at 1:58 AM](https://archive.org/download/indystar-2022/indystar-2022-10-02T01:58:21.673205-04:00.accessibility.json) |
 | [October 1 at 1:32 PM](https://archive.org/download/indystar-2022/indystar-2022-10-01T13:32:30.224361-04:00.accessibility.json) |
 | [October 1 at 2:16 AM](https://archive.org/download/indystar-2022/indystar-2022-10-01T02:15:57.924937-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 29 at 2:02 AM](https://archive.org/download/indystar-2022/indystar-2022-09-29T02:02:29.391884-04:00.accessibility.json) |
 | [September 28 at 1:38 PM](https://archive.org/download/indystar-2022/indystar-2022-09-28T13:38:48.345029-04:00.accessibility.json) |
 | [September 28 at 2:09 AM](https://archive.org/download/indystar-2022/indystar-2022-09-28T02:09:25.175376-04:00.accessibility.json) |
-| [September 27 at 1:36 PM](https://archive.org/download/indystar-2022/indystar-2022-09-27T13:36:02.391085-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 1:28 PM](https://archive.org/download/indystar-2022/indystar-2022-10-02T13:27:52.404445-04:00.lighthouse.json) |
 | [October 2 at 1:58 AM](https://archive.org/download/indystar-2022/indystar-2022-10-02T01:58:21.673205-04:00.lighthouse.json) |
 | [October 1 at 1:32 PM](https://archive.org/download/indystar-2022/indystar-2022-10-01T13:32:30.224361-04:00.lighthouse.json) |
 | [October 1 at 2:16 AM](https://archive.org/download/indystar-2022/indystar-2022-10-01T02:15:57.924937-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 29 at 2:02 AM](https://archive.org/download/indystar-2022/indystar-2022-09-29T02:02:29.391884-04:00.lighthouse.json) |
 | [September 28 at 1:38 PM](https://archive.org/download/indystar-2022/indystar-2022-09-28T13:38:48.345029-04:00.lighthouse.json) |
 | [September 28 at 2:09 AM](https://archive.org/download/indystar-2022/indystar-2022-09-28T02:09:25.175376-04:00.lighthouse.json) |
-| [September 27 at 1:36 PM](https://archive.org/download/indystar-2022/indystar-2022-09-27T13:36:02.391085-04:00.lighthouse.json) |
 
 
 

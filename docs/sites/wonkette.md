@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 136 screenshots with the Internet Archive.
+The archiving routine has saved 138 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/wonkette-2022/wonkette-2022-10-02T14:44:04.471987-05:00.jpg">
+  <img src="https://archive.org/download/wonkette-2022/wonkette-2022-10-02T14:44:04.471987-05:00.jpg"
+     alt="Wonkette at 2022-10-02 14:44:09-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wonkette-2022/wonkette-2022-10-02T14:44:04.471987-05:00.jpg">October 2 at 2:44 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wonkette-2022/wonkette-2022-10-02T11:06:36.954525-05:00.jpg">
+  <img src="https://archive.org/download/wonkette-2022/wonkette-2022-10-02T11:06:36.954525-05:00.jpg"
+     alt="Wonkette at 2022-10-02 11:06:44-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wonkette-2022/wonkette-2022-10-02T11:06:36.954525-05:00.jpg">October 2 at 11:06 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/wonkette-2022/wonkette-2022-10-02T00:51:52.510435-05:00.jpg">
   <img src="https://archive.org/download/wonkette-2022/wonkette-2022-10-02T00:51:52.510435-05:00.jpg"
      alt="Wonkette at 2022-10-02 00:51:59-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wonkette-2022/wonkette-2022-09-29T00:25:18.280180-05:00.jpg">September 29 at 12:25 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wonkette-2022/wonkette-2022-09-28T14:46:10.011408-05:00.jpg">
-  <img src="https://archive.org/download/wonkette-2022/wonkette-2022-09-28T14:46:10.011408-05:00.jpg"
-     alt="Wonkette at 2022-09-28 14:46:12-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wonkette-2022/wonkette-2022-09-28T14:46:10.011408-05:00.jpg">September 28 at 2:46 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wonkette-2022/wonkette-2022-09-28T11:19:24.521797-05:00.jpg">
-  <img src="https://archive.org/download/wonkette-2022/wonkette-2022-09-28T11:19:24.521797-05:00.jpg"
-     alt="Wonkette at 2022-09-28 11:19:36-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wonkette-2022/wonkette-2022-09-28T11:19:24.521797-05:00.jpg">September 28 at 11:19 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 136 hyperlink lists with the Internet Archive.
+The archiving routine has saved 138 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 2:44 PM](https://archive.org/download/wonkette-2022/wonkette-2022-10-02T14:44:04.471987-05:00.hyperlinks.json) |
+| [October 2 at 11:06 AM](https://archive.org/download/wonkette-2022/wonkette-2022-10-02T11:06:36.954525-05:00.hyperlinks.json) |
 | [October 2 at 12:52 AM](https://archive.org/download/wonkette-2022/wonkette-2022-10-02T00:51:52.510435-05:00.hyperlinks.json) |
 | [October 1 at 2:45 PM](https://archive.org/download/wonkette-2022/wonkette-2022-10-01T14:45:42.398000-05:00.hyperlinks.json) |
 | [October 1 at 11:13 AM](https://archive.org/download/wonkette-2022/wonkette-2022-10-01T11:13:12.918853-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 11:39 AM](https://archive.org/download/wonkette-2022/wonkette-2022-09-30T11:38:51.802399-05:00.hyperlinks.json) |
 | [September 30 at 1:15 AM](https://archive.org/download/wonkette-2022/wonkette-2022-09-30T01:15:10.148177-05:00.hyperlinks.json) |
 | [September 29 at 2:38 PM](https://archive.org/download/wonkette-2022/wonkette-2022-09-29T14:38:20.289739-05:00.hyperlinks.json) |
-| [September 29 at 11:11 AM](https://archive.org/download/wonkette-2022/wonkette-2022-09-29T11:10:47.084716-05:00.hyperlinks.json) |
-| [September 29 at 12:25 AM](https://archive.org/download/wonkette-2022/wonkette-2022-09-29T00:25:18.280180-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 136 accessibility trees with the Internet Archive.
+The archiving routine has saved 138 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 2:44 PM](https://archive.org/download/wonkette-2022/wonkette-2022-10-02T14:44:04.471987-05:00.accessibility.json) |
+| [October 2 at 11:06 AM](https://archive.org/download/wonkette-2022/wonkette-2022-10-02T11:06:36.954525-05:00.accessibility.json) |
 | [October 2 at 12:52 AM](https://archive.org/download/wonkette-2022/wonkette-2022-10-02T00:51:52.510435-05:00.accessibility.json) |
 | [October 1 at 2:45 PM](https://archive.org/download/wonkette-2022/wonkette-2022-10-01T14:45:42.398000-05:00.accessibility.json) |
 | [October 1 at 11:13 AM](https://archive.org/download/wonkette-2022/wonkette-2022-10-01T11:13:12.918853-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 11:39 AM](https://archive.org/download/wonkette-2022/wonkette-2022-09-30T11:38:51.802399-05:00.accessibility.json) |
 | [September 30 at 1:15 AM](https://archive.org/download/wonkette-2022/wonkette-2022-09-30T01:15:10.148177-05:00.accessibility.json) |
 | [September 29 at 2:38 PM](https://archive.org/download/wonkette-2022/wonkette-2022-09-29T14:38:20.289739-05:00.accessibility.json) |
-| [September 29 at 11:11 AM](https://archive.org/download/wonkette-2022/wonkette-2022-09-29T11:10:47.084716-05:00.accessibility.json) |
-| [September 29 at 12:25 AM](https://archive.org/download/wonkette-2022/wonkette-2022-09-29T00:25:18.280180-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 137 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 139 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 2:44 PM](https://archive.org/download/wonkette-2022/wonkette-2022-10-02T14:44:04.471987-05:00.lighthouse.json) |
+| [October 2 at 11:06 AM](https://archive.org/download/wonkette-2022/wonkette-2022-10-02T11:06:36.954525-05:00.lighthouse.json) |
 | [October 2 at 12:52 AM](https://archive.org/download/wonkette-2022/wonkette-2022-10-02T00:51:52.510435-05:00.lighthouse.json) |
 | [October 1 at 2:45 PM](https://archive.org/download/wonkette-2022/wonkette-2022-10-01T14:45:42.398000-05:00.lighthouse.json) |
 | [October 1 at 11:13 AM](https://archive.org/download/wonkette-2022/wonkette-2022-10-01T11:13:12.918853-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 11:39 AM](https://archive.org/download/wonkette-2022/wonkette-2022-09-30T11:38:51.802399-05:00.lighthouse.json) |
 | [September 30 at 1:15 AM](https://archive.org/download/wonkette-2022/wonkette-2022-09-30T01:15:10.148177-05:00.lighthouse.json) |
 | [September 29 at 2:38 PM](https://archive.org/download/wonkette-2022/wonkette-2022-09-29T14:38:20.289739-05:00.lighthouse.json) |
-| [September 29 at 11:11 AM](https://archive.org/download/wonkette-2022/wonkette-2022-09-29T11:10:47.084716-05:00.lighthouse.json) |
-| [September 29 at 12:25 AM](https://archive.org/download/wonkette-2022/wonkette-2022-09-29T00:25:18.280180-05:00.lighthouse.json) |
 
 
 

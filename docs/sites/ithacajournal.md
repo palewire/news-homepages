@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 24 screenshots with the Internet Archive.
+The archiving routine has saved 25 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-02T13:27:40.094615-04:00.jpg">
+  <img src="https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-02T13:27:40.094615-04:00.jpg"
+     alt="Ithaca Journal at 2022-10-02 13:27:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-02T13:27:40.094615-04:00.jpg">October 2 at 1:27 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-02T02:01:24.919718-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ithacajournal-2022/ithacajournal-2022-09-27T01:41:23.044573-04:00.jpg">September 27 at 1:41 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ithacajournal-2022/ithacajournal-2022-09-26T13:30:32.275467-04:00.jpg">
-  <img src="https://archive.org/download/ithacajournal-2022/ithacajournal-2022-09-26T13:30:32.275467-04:00.jpg"
-     alt="Ithaca Journal at 2022-09-26 13:30:34-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ithacajournal-2022/ithacajournal-2022-09-26T13:30:32.275467-04:00.jpg">September 26 at 1:30 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 24 hyperlink lists with the Internet Archive.
+The archiving routine has saved 25 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 1:27 PM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-02T13:27:40.094615-04:00.hyperlinks.json) |
 | [October 2 at 2:01 AM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-02T02:01:24.919718-04:00.hyperlinks.json) |
 | [October 1 at 1:32 PM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-01T13:32:22.848965-04:00.hyperlinks.json) |
 | [October 1 at 2:15 AM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-01T02:15:34.756842-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 29 at 2:01 AM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-09-29T02:01:32.057080-04:00.hyperlinks.json) |
 | [September 28 at 1:40 PM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-09-28T13:40:08.575085-04:00.hyperlinks.json) |
 | [September 28 at 2:10 AM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-09-28T02:10:30.000430-04:00.hyperlinks.json) |
-| [September 27 at 1:36 PM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-09-27T13:36:21.152874-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 23 accessibility trees with the Internet Archive.
+The archiving routine has saved 24 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 1:27 PM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-02T13:27:40.094615-04:00.accessibility.json) |
 | [October 2 at 2:01 AM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-02T02:01:24.919718-04:00.accessibility.json) |
 | [October 1 at 1:32 PM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-01T13:32:22.848965-04:00.accessibility.json) |
 | [October 1 at 2:15 AM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-01T02:15:34.756842-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 29 at 2:01 AM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-09-29T02:01:32.057080-04:00.accessibility.json) |
 | [September 28 at 1:40 PM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-09-28T13:40:08.575085-04:00.accessibility.json) |
 | [September 28 at 2:10 AM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-09-28T02:10:30.000430-04:00.accessibility.json) |
-| [September 27 at 1:36 PM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-09-27T13:36:21.152874-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 1:27 PM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-02T13:27:40.094615-04:00.lighthouse.json) |
 | [October 2 at 2:01 AM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-02T02:01:24.919718-04:00.lighthouse.json) |
 | [October 1 at 1:32 PM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-01T13:32:22.848965-04:00.lighthouse.json) |
 | [October 1 at 2:15 AM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-01T02:15:34.756842-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 29 at 2:01 AM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-09-29T02:01:32.057080-04:00.lighthouse.json) |
 | [September 28 at 1:40 PM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-09-28T13:40:08.575085-04:00.lighthouse.json) |
 | [September 28 at 2:10 AM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-09-28T02:10:30.000430-04:00.lighthouse.json) |
-| [September 27 at 1:36 PM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-09-27T13:36:21.152874-04:00.lighthouse.json) |
 
 
 
