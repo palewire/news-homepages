@@ -1,5 +1,6 @@
 {
-  "created": 1664668812,
+  "conflict": 1664712091,
+  "created": 1664712091,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/4/items/green_footballs-2022",
@@ -5919,31 +5920,72 @@
       "format": "JSON"
     },
     {
+      "name": "green_footballs-2022-10-01T16:59:13.426699-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "green_footballs-2022-10-01T16:59:13.426699-07:00.jpg",
+      "mtime": "1664671345",
+      "size": "10364",
+      "md5": "04102a94cd3b2d1443c1decc3fd06f51",
+      "crc32": "5d78851d",
+      "sha1": "166668c814ff617129eb931db18a2ac94a0ebbfe"
+    },
+    {
+      "name": "green_footballs-2022-10-02T04:56:55.771110-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664711821",
+      "size": "41169",
+      "md5": "98cc5ed0b61effd212afe56e84cfd5d3",
+      "crc32": "6c11c435",
+      "sha1": "4236bfc27fe46dab76412939735898ec02f0d1dd",
+      "format": "JSON"
+    },
+    {
+      "name": "green_footballs-2022-10-02T04:56:55.771110-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664711823",
+      "size": "51145",
+      "md5": "de169554214a2df2154b8bb6724152e6",
+      "crc32": "2c2c4c61",
+      "sha1": "d83348a98c47733e93557cc91a3d5bea54e2a9ed",
+      "format": "JSON"
+    },
+    {
+      "name": "green_footballs-2022-10-02T04:56:55.771110-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664711825",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "green_footballs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6d5e4fc721a8bfda48014be86055db88f5653488",
-      "mtime": "1664668803",
-      "size": "125942",
-      "md5": "7d9755f9e5d2ca7d97b6913d1b87a733",
-      "crc32": "4e270edf",
-      "sha1": "cafc388d11a5514eecbc10ddd0106ce49936ea18",
+      "btih": "0f2674c0b18ff0fc3086a5ee6b99bd943d12ff21",
+      "mtime": "1664711866",
+      "size": "126806",
+      "md5": "83afaf5ee1184944df00c1d81e99a675",
+      "crc32": "c7cc509b",
+      "sha1": "fa00b00e097e6b5ecb59bbe234df4d2c8b376c0f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "green_footballs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b44d6053be9f8ba04a4d896c56eec71c",
+      "md5": "21c84a6799494deaa9fcc1ab6c9fa3ba",
       "summation": "md5"
     },
     {
       "name": "green_footballs-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664668766",
-      "size": "749568",
-      "md5": "9cf93794c4363ec5ec719bc1432c31b3",
-      "crc32": "32010fcb",
-      "sha1": "6326555f2a70fae4297cd9e3747a5c13e1df490e",
+      "mtime": "1664711828",
+      "size": "753664",
+      "md5": "4a7473be20a689668b4cded399e622df",
+      "crc32": "f60045b1",
+      "sha1": "4367e6274983c13e0457fcf61d3608c627056f52",
       "format": "Metadata"
     },
     {
@@ -5957,9 +5999,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 576,
-  "item_last_updated": 1664668803,
-  "item_size": 42937195,
+  "files_count": 580,
+  "item_last_updated": 1664711866,
+  "item_size": 43045035,
   "metadata": {
     "identifier": "green_footballs-2022",
     "collection": [
@@ -5981,15 +6023,23 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3425184299,
+      "task_id": 3425768528,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3425772816,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1955421350,
+  "uniq": 1784612406,
   "workable_servers": [
     "ia902502.us.archive.org"
   ]
