@@ -1,5 +1,5 @@
 {
-  "created": 1664636034,
+  "created": 1664677663,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/18/items/ruidosonews-2022",
@@ -1380,31 +1380,82 @@
       "sha1": "1b1a7e4f18d5b07fcdecde21dc55b66309617021"
     },
     {
+      "name": "ruidosonews-2022-10-01T20:26:49.233793-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664677612",
+      "size": "21293",
+      "md5": "7e4350d16626bf2585fe9ea733406d3c",
+      "crc32": "79b92070",
+      "sha1": "7f53659cea7a6d687ae465a738763389eb73e9e5",
+      "format": "JSON"
+    },
+    {
+      "name": "ruidosonews-2022-10-01T20:26:49.233793-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664677613",
+      "size": "33546",
+      "md5": "8ff9c6baa8d015d04ba6a85869f47f56",
+      "crc32": "4b5f4a33",
+      "sha1": "afd5c980e70cb23131c3d9e10bd4f2f5ff47bdb3",
+      "format": "JSON"
+    },
+    {
+      "name": "ruidosonews-2022-10-01T20:26:49.233793-06:00.jpg",
+      "source": "original",
+      "mtime": "1664677610",
+      "size": "249100",
+      "md5": "4afb5921de38568fdeb2b0e0f30a151a",
+      "crc32": "9f1e2599",
+      "sha1": "00c5abd6f7fa7a483043377dc717e7081fc4a838",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ruidosonews-2022-10-01T20:26:49.233793-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664677614",
+      "size": "1504",
+      "md5": "601d727ebedd8f0047e7b96331539cc4",
+      "crc32": "83310770",
+      "sha1": "4afe210be826d901f1aed40b6e3fc4ef69a5c2d6",
+      "format": "JSON"
+    },
+    {
+      "name": "ruidosonews-2022-10-01T20:26:49.233793-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1664677615",
+      "size": "208",
+      "md5": "282f71b848767de72f109fce167a6d71",
+      "crc32": "e3ea4f27",
+      "sha1": "1b75824192e0a506cc292a8e9ec02626f1fada09",
+      "format": "JSON"
+    },
+    {
       "name": "ruidosonews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "823b1524ce55123cb94bde7c9eeadfc4ffb2cdc4",
-      "mtime": "1664636010",
-      "size": "29769",
-      "md5": "2cf7b882a8f4a30c83d79dae3324afd7",
-      "crc32": "e4245a61",
-      "sha1": "77029c50068d6ee337ac54652ed9e8be80f68839",
+      "btih": "16968abe02e6925238705040b7b06c2e7751989d",
+      "mtime": "1664677658",
+      "size": "30845",
+      "md5": "3d19a19285e01c90447187562de6fc8a",
+      "crc32": "4d7a19f0",
+      "sha1": "f419fb46392f74e7cc7e6c638e7e23ab1cd19d47",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ruidosonews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "53859446a8217cf2f3140ff90ac26bff",
+      "md5": "03d5a70f215c90b3eead188580c2f9a6",
       "summation": "md5"
     },
     {
       "name": "ruidosonews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664633567",
-      "size": "192512",
-      "md5": "d2293dbd88d815d29e3a0779a43f89da",
-      "crc32": "0e679f8d",
-      "sha1": "a50b2e947b7c907ae31e36038c0545413984c7a0",
+      "mtime": "1664677623",
+      "size": "200704",
+      "md5": "cf4a0ca5223ae90a4b08b7738c911cae",
+      "crc32": "54202eba",
+      "sha1": "dc4064911c1378e34ac1295cf05a3785ff23abae",
       "format": "Metadata"
     },
     {
@@ -1418,9 +1469,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 137,
-  "item_last_updated": 1664636010,
-  "item_size": 8144887,
+  "files_count": 142,
+  "item_last_updated": 1664677658,
+  "item_size": 8459806,
   "metadata": {
     "identifier": "ruidosonews-2022",
     "collection": [
@@ -1437,10 +1488,21 @@
     "publicdate": "2022-09-21 02:24:31",
     "addeddate": "2022-09-21 02:24:31"
   },
+  "pending_tasks": true,
   "server": "ia601402.us.archive.org",
-  "uniq": 1679524989,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3425319154,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1882114989,
   "workable_servers": [
-    "ia601402.us.archive.org",
-    "ia801402.us.archive.org"
+    "ia601402.us.archive.org"
   ]
 }

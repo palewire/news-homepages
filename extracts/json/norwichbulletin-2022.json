@@ -1,6 +1,5 @@
 {
-  "conflict": 1664636424,
-  "created": 1664636424,
+  "created": 1664677374,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/9/items/norwichbulletin-2022",
@@ -1371,31 +1370,82 @@
       "sha1": "8c36765b113e540600391947f35772c2e4d3ef7a"
     },
     {
+      "name": "norwichbulletin-2022-10-01T22:21:54.518888-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664677321",
+      "size": "22955",
+      "md5": "575c54712bd919cf23d18bac8b569291",
+      "crc32": "bfa873c9",
+      "sha1": "ef8dd2ed1d8e4e4fee9064565512dda732d79566",
+      "format": "JSON"
+    },
+    {
+      "name": "norwichbulletin-2022-10-01T22:21:54.518888-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664677322",
+      "size": "38924",
+      "md5": "f0efc41daddffac56d18d25a10f19567",
+      "crc32": "f1b9ccd9",
+      "sha1": "eb8bb49f91db6bd02ba59854bbeb716860973227",
+      "format": "JSON"
+    },
+    {
+      "name": "norwichbulletin-2022-10-01T22:21:54.518888-04:00.jpg",
+      "source": "original",
+      "mtime": "1664677319",
+      "size": "277303",
+      "md5": "34cfb81f2bfa2bcd1da2578c82a8773b",
+      "crc32": "ac575dfb",
+      "sha1": "f91dd7aa5481746ded465f3cadc68f4892f58e81",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "norwichbulletin-2022-10-01T22:21:54.518888-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664677324",
+      "size": "1540",
+      "md5": "2678a94c7878a96d5ceb9e007a743f3f",
+      "crc32": "aec8a11c",
+      "sha1": "dfb0ab091808da49d743e71744fc34eeb1ef739d",
+      "format": "JSON"
+    },
+    {
+      "name": "norwichbulletin-2022-10-01T22:21:54.518888-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664677326",
+      "size": "102263",
+      "md5": "bb2dc0d83adb502aea519fa8ce90c544",
+      "crc32": "58895952",
+      "sha1": "156d5e957092105ee38e7fd5299bce0051ea899b",
+      "format": "JSON"
+    },
+    {
       "name": "norwichbulletin-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7ecc02a73f61c47d7dbb123a9d4320cd687eb68c",
-      "mtime": "1664636423",
-      "size": "30165",
-      "md5": "0d5ab30982614e7dac6523161e23bd0d",
-      "crc32": "349cdf61",
-      "sha1": "fad96a9a0e375b2605a5003dcd86383b23b4e8fb",
+      "btih": "2d4f27789ec75b73ca67e20304d54b6968d5c9f8",
+      "mtime": "1664677370",
+      "size": "31264",
+      "md5": "6e37523e4fe173d6de6136e85deb6c61",
+      "crc32": "c954e322",
+      "sha1": "4f43512bc292bc508b2ce6bd2c7e5c8924c236b5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "norwichbulletin-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "44bd686b4221eb55d9eedd67dee7d913",
+      "md5": "179f08a2d230b0c8d001d380776298ac",
       "summation": "md5"
     },
     {
       "name": "norwichbulletin-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664633275",
-      "size": "192512",
-      "md5": "da4d0beacb77cf9db56c2853fd3f238f",
-      "crc32": "ff24eb38",
-      "sha1": "7c9d0ef001af668b48653bfe336121f8ac5eb7f2",
+      "mtime": "1664677333",
+      "size": "196608",
+      "md5": "5eabb6e80fb5442535e24c76c5cf88ff",
+      "crc32": "eca270eb",
+      "sha1": "9a0f1bdc48d00611d3d0e3e17222c2beeb91c644",
       "format": "Metadata"
     },
     {
@@ -1409,9 +1459,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 136,
-  "item_last_updated": 1664636423,
-  "item_size": 9447726,
+  "files_count": 141,
+  "item_last_updated": 1664677370,
+  "item_size": 9895906,
   "metadata": {
     "identifier": "norwichbulletin-2022",
     "collection": [
@@ -1433,23 +1483,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3424715162,
+      "task_id": 3425314929,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3424752539,
-      "cmd": "bup.php",
-      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 436381319,
+  "uniq": 1806765350,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

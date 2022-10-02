@@ -1,5 +1,5 @@
 {
-  "created": 1664635942,
+  "created": 1664677539,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/34/items/pinjnews-2022",
@@ -4460,31 +4460,82 @@
       "sha1": "cb56e0bb02291f6f3d285f5be0a4e88d2b8ad5ed"
     },
     {
+      "name": "pinjnews-2022-10-01T22:24:33.228147-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664677479",
+      "size": "20539",
+      "md5": "a32b590da84f7eabcb24d3f399f1ea30",
+      "crc32": "2098be7a",
+      "sha1": "67f0044d005a77c2445f4a068563ad6125b004db",
+      "format": "JSON"
+    },
+    {
+      "name": "pinjnews-2022-10-01T22:24:33.228147-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664677481",
+      "size": "15206",
+      "md5": "42a6b3cfa9dada98f9ea5d5ef66117a1",
+      "crc32": "dc24673e",
+      "sha1": "cfeace9619b16def059df29f80da89e42ab4ca60",
+      "format": "JSON"
+    },
+    {
+      "name": "pinjnews-2022-10-01T22:24:33.228147-04:00.jpg",
+      "source": "original",
+      "mtime": "1664677477",
+      "size": "206731",
+      "md5": "aa6fb9f0bf9abadb39935ed627b829e3",
+      "crc32": "ccb25d85",
+      "sha1": "396fae4b48098a90b316f02b2b76375805255069",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pinjnews-2022-10-01T22:24:33.228147-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664677483",
+      "size": "1441",
+      "md5": "62e1c1809bc95e854ca9d9a18a51127f",
+      "crc32": "9dd252c4",
+      "sha1": "e376b0f17bcec06ca22dbd3a473ae0a559b7a90d",
+      "format": "JSON"
+    },
+    {
+      "name": "pinjnews-2022-10-01T22:24:33.228147-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664677485",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "pinjnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cd049475d9cff4fd07c124f6e3a1bd0780bacc8b",
-      "mtime": "1664635887",
-      "size": "91668",
-      "md5": "4a79701009f2520185386a2dd2772320",
-      "crc32": "776d668e",
-      "sha1": "fa1b72a02094da954a65fd294f6c2d62b40dd8a4",
+      "btih": "5f3dcf546801a19207db7c860f4772a54d0ab5b8",
+      "mtime": "1664677531",
+      "size": "92709",
+      "md5": "f33f6e13caaa130105bff1a912ead6ee",
+      "crc32": "6e5347d1",
+      "sha1": "7d7de18c930deb922347c192cf176c67f909be81",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pinjnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f933f6bd4de25bbc027cb1424007b64c",
+      "md5": "c30b09b7e85815d3681a1b85daf580d1",
       "summation": "md5"
     },
     {
       "name": "pinjnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664633436",
-      "size": "565248",
-      "md5": "acf3535e30828ac986daec76b97acdd3",
-      "crc32": "0bfaac39",
-      "sha1": "7a81d54fd811f763b05c85bb35f7d5328d115e99",
+      "mtime": "1664677491",
+      "size": "569344",
+      "md5": "3798fe715604f88fc8e96c4fd84369f8",
+      "crc32": "6624bc8b",
+      "sha1": "50ded2a69989f9c7aaa0f6ef5770ed0967368a2e",
       "format": "Metadata"
     },
     {
@@ -4498,9 +4549,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 435,
-  "item_last_updated": 1664635887,
-  "item_size": 19624254,
+  "files_count": 440,
+  "item_last_updated": 1664677531,
+  "item_size": 19873510,
   "metadata": {
     "identifier": "pinjnews-2022",
     "collection": [
@@ -4517,10 +4568,21 @@
     "publicdate": "2022-08-26 12:59:42",
     "addeddate": "2022-08-26 12:59:42"
   },
+  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "uniq": 2086582093,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3425317460,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1684922134,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia601500.us.archive.org"
   ]
 }

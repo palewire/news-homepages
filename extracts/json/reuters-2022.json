@@ -1,5 +1,5 @@
 {
-  "created": 1664636377,
+  "created": 1664677783,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/1/items/reuters-2022",
@@ -11454,31 +11454,82 @@
       "sha1": "dc2278d0b14bac708be935e4c5db1b394a0c547a"
     },
     {
+      "name": "reuters-2022-10-01T22:26:34.420030-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664677624",
+      "size": "35316",
+      "md5": "8f54424f0c08e97e0bef1381432d26e4",
+      "crc32": "00ae6f29",
+      "sha1": "91ddbbae07f5bfe722ebdf6f4ad1455f08fa5add",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-10-01T22:26:34.420030-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664677626",
+      "size": "27110",
+      "md5": "cb015ba46c33bc03a410105e87399eb2",
+      "crc32": "ea9395f1",
+      "sha1": "e9ff69f5ac7f4a7693f1174ec20dc374cfc6c4d5",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-10-01T22:26:34.420030-04:00.jpg",
+      "source": "original",
+      "mtime": "1664677622",
+      "size": "238596",
+      "md5": "919ccb7b771bd7434ead39682f3f1da6",
+      "crc32": "8788e674",
+      "sha1": "1d6bd5bc85d57ee81107c9f16ee8a43512d48dcc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reuters-2022-10-01T22:26:34.420030-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664677628",
+      "size": "1459",
+      "md5": "41fdea860cf8f388dbda6838af9106df",
+      "crc32": "41fa1501",
+      "sha1": "abf1ee1e78a4725093dea888537b849d7908f381",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-10-01T22:26:34.420030-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664677629",
+      "size": "231",
+      "md5": "b1e486b9243702a46fb5d5ce44d80e89",
+      "crc32": "f8f52fd0",
+      "sha1": "d4d1e4dc146be929b16edb7691cb4ee6073b6ba6",
+      "format": "JSON"
+    },
+    {
       "name": "reuters-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b5789627c70d8513eea35ffdc9d5713721b179dc",
-      "mtime": "1664636226",
-      "size": "231582",
-      "md5": "ea34c6a5e709555d12d3e05b1a88a99a",
-      "crc32": "13879fae",
-      "sha1": "8f9c60b6fee24feaeed2d92c2385555c64d45b82",
+      "btih": "748ccee53a3d8d824e4601307a2c0c17f96ca31f",
+      "mtime": "1664677770",
+      "size": "232638",
+      "md5": "bc133830bebee822de11c92f5eacff67",
+      "crc32": "b19da053",
+      "sha1": "6452b6f9bd2e839b55e58887545de3d1d6b0f9f2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reuters-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1ef8d025b88aebd96eb3123bc125db5b",
+      "md5": "ae45de510b6b567abe2c63ffe26a20cd",
       "summation": "md5"
     },
     {
       "name": "reuters-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664633583",
-      "size": "1363968",
-      "md5": "1133814e5854751860be6519098ff793",
-      "crc32": "59682a83",
-      "sha1": "96693e659feb6970df7754c51f806997adab0712",
+      "mtime": "1664677651",
+      "size": "1372160",
+      "md5": "0053e63730db884e256f8984503a053c",
+      "crc32": "94e8bcc0",
+      "sha1": "efef21b82b2c74ed5be3fed5094dc6c29cb42081",
       "format": "Metadata"
     },
     {
@@ -11492,9 +11543,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1106,
-  "item_last_updated": 1664636226,
-  "item_size": 67040847,
+  "files_count": 1111,
+  "item_last_updated": 1664677770,
+  "item_size": 67352807,
   "metadata": {
     "identifier": "reuters-2022",
     "collection": [
@@ -11511,10 +11562,21 @@
     "publicdate": "2022-06-24 23:00:05",
     "addeddate": "2022-06-24 23:00:05"
   },
+  "pending_tasks": true,
   "server": "ia902504.us.archive.org",
-  "uniq": 1510235517,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3425320486,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 835810362,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia902504.us.archive.org"
   ]
 }

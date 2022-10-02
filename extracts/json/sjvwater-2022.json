@@ -1,5 +1,5 @@
 {
-  "created": 1664636633,
+  "created": 1664677656,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/11/items/sjvwater-2022",
@@ -4459,31 +4459,93 @@
       "format": "JSON"
     },
     {
+      "name": "sjvwater-2022-10-01T07:12:42.187329-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sjvwater-2022-10-01T07:12:42.187329-07:00.jpg",
+      "mtime": "1664637067",
+      "size": "8365",
+      "md5": "a6f354147908dae8e2c4e894de22523f",
+      "crc32": "73bbe6b5",
+      "sha1": "fe2b68a064232434890b12fe5b1a2eca6d042e5c"
+    },
+    {
+      "name": "sjvwater-2022-10-01T19:26:14.817335-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664677589",
+      "size": "18892",
+      "md5": "86389364aba3a038af78d9d51a4299bd",
+      "crc32": "0d9472af",
+      "sha1": "5ffa89f937c239de0261d89691e4a1486c901f8b",
+      "format": "JSON"
+    },
+    {
+      "name": "sjvwater-2022-10-01T19:26:14.817335-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664677591",
+      "size": "17727",
+      "md5": "cd443dfaecbe658213981c4a5f721374",
+      "crc32": "5d4393fc",
+      "sha1": "f50885c2190266dee8fc71e55f1a997ff17cc646",
+      "format": "JSON"
+    },
+    {
+      "name": "sjvwater-2022-10-01T19:26:14.817335-07:00.jpg",
+      "source": "original",
+      "mtime": "1664677587",
+      "size": "241003",
+      "md5": "6a5eebab2f4add9fc7acb9c1b61b5068",
+      "crc32": "bc883060",
+      "sha1": "d77f29d1e8d4588bef41fcaade3790e80c8ce104",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sjvwater-2022-10-01T19:26:14.817335-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664677592",
+      "size": "1486",
+      "md5": "ef28461d9e0bbc1299e74653314bf424",
+      "crc32": "3661571c",
+      "sha1": "9f0d9dd7a512efe7ef6a2f2943890c7b9bfdb87d",
+      "format": "JSON"
+    },
+    {
+      "name": "sjvwater-2022-10-01T19:26:14.817335-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664677594",
+      "size": "206",
+      "md5": "2123e103c86abf33ba87d0310ed2b48c",
+      "crc32": "25652188",
+      "sha1": "ffe79f4df89e9024c7c9ca553eac4770f0a6ac8d",
+      "format": "JSON"
+    },
+    {
       "name": "sjvwater-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f73ba831a02f4694f61a26a71705ec499c19f0a1",
-      "mtime": "1664633616",
-      "size": "91722",
-      "md5": "3f29bf09d469b2d43739c4269d468e6d",
-      "crc32": "c0d36fb5",
-      "sha1": "3b02fec6af8cce3123beec5eaf6ee8efb2c99b33",
+      "btih": "5baf63ae2aa4f64b171589c7409963e289d87155",
+      "mtime": "1664677648",
+      "size": "92967",
+      "md5": "708dfd448c235576222aa26483ef8288",
+      "crc32": "f4a0b79e",
+      "sha1": "47c0777bbc7c42d9af845829dfba0444249c4577",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sjvwater-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6fdd0b3b41c27975fc929ddda1eb17be",
+      "md5": "65d97c2b2766aa3008d13f93bf6ba6cc",
       "summation": "md5"
     },
     {
       "name": "sjvwater-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664633579",
-      "size": "565248",
-      "md5": "4952bed7ae7588c7828fc6189ec0c09b",
-      "crc32": "55331cb1",
-      "sha1": "3e2bc9bdcc379ea45681c3b226101a81cd9ed621",
+      "mtime": "1664677605",
+      "size": "573440",
+      "md5": "3b164f9948f48f8d502dd00f938b72ce",
+      "crc32": "0f6b77d7",
+      "sha1": "b0e8cb22fe094376841950cdef7c58f1a850f17c",
       "format": "Metadata"
     },
     {
@@ -4497,9 +4559,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 435,
-  "item_last_updated": 1664633616,
-  "item_size": 21659939,
+  "files_count": 441,
+  "item_last_updated": 1664677648,
+  "item_size": 21957055,
   "metadata": {
     "identifier": "sjvwater-2022",
     "collection": [
@@ -4519,22 +4581,17 @@
   "pending_tasks": true,
   "server": "ia601404.us.archive.org",
   "servers_unavailable": true,
-  "sjvwater-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "tasks": [
     {
-      "task_id": 3424719315,
+      "task_id": 3425319087,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 701150287,
+  "uniq": 590488283,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]

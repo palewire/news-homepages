@@ -1,5 +1,5 @@
 {
-  "created": 1664635737,
+  "created": 1664677356,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/18/items/newyorker-2022",
@@ -11350,31 +11350,82 @@
       "sha1": "92d8e1a26c46df25b8d735761e6a7ae40f1ad826"
     },
     {
+      "name": "newyorker-2022-10-01T22:21:08.648033-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664677272",
+      "size": "47524",
+      "md5": "8ebf7cabfc8bd298b3ce74db778c13ff",
+      "crc32": "28003448",
+      "sha1": "6a624d84f6e38e725b79de9575b0397e8753d7e9",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-10-01T22:21:08.648033-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664677273",
+      "size": "26293",
+      "md5": "b5b4bf998561c56b35ccac8836091f84",
+      "crc32": "de8fbad0",
+      "sha1": "097924a9f443e1186658bb5613be1efd793a6c4b",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-10-01T22:21:08.648033-04:00.jpg",
+      "source": "original",
+      "mtime": "1664677270",
+      "size": "284715",
+      "md5": "816015df1ef0df3a260367f398463618",
+      "crc32": "54aa9153",
+      "sha1": "80c83621f99a4742aad5195f632aafc7699be403",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newyorker-2022-10-01T22:21:08.648033-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664677275",
+      "size": "1486",
+      "md5": "4965f965256e6c760146223ba8796336",
+      "crc32": "73ac5961",
+      "sha1": "d2b1f07afd438cca975b6a138afd6521bbfd1d24",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-10-01T22:21:08.648033-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664677277",
+      "size": "75696",
+      "md5": "d6dc2306aaab32331210df1088aa88fb",
+      "crc32": "d2a5413d",
+      "sha1": "799cedd286aa4d909f1d57d2f172ab72c7784822",
+      "format": "JSON"
+    },
+    {
       "name": "newyorker-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2fffb6353305fd763ff82c79773c3038156c6b67",
-      "mtime": "1664635681",
-      "size": "232421",
-      "md5": "4b7f52435fcbdac5897a972414a05f9d",
-      "crc32": "0a1ee72c",
-      "sha1": "3b55b89fe4cabcadcd34e98be7424075747c7a25",
+      "btih": "96ec0dffe7341c8fdfcfcc8989b4c6b4e20e3b97",
+      "mtime": "1664677346",
+      "size": "233469",
+      "md5": "59385e0cef500e4fe3ffccb70d00522d",
+      "crc32": "5e28bed6",
+      "sha1": "608ad4083a2b5a691cab46fb8abc358f0fa8617c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newyorker-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8edb27aedce46221848900d9d13bd937",
+      "md5": "185fc8db9d4062d736d79938259c49d8",
       "summation": "md5"
     },
     {
       "name": "newyorker-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664633239",
-      "size": "1351680",
-      "md5": "357c95848730657e9678621689ee7303",
-      "crc32": "b3a4e3ab",
-      "sha1": "c70cb95046f892f34904913d5233e649f9c931cc",
+      "mtime": "1664677288",
+      "size": "1363968",
+      "md5": "4562fbbdcb171ca2737a9b85883da46f",
+      "crc32": "2cea0bcc",
+      "sha1": "5c2a3d90f11684559f264fe6604915d0b50332cb",
       "format": "Metadata"
     },
     {
@@ -11388,9 +11439,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1096,
-  "item_last_updated": 1664635681,
-  "item_size": 84645215,
+  "files_count": 1101,
+  "item_last_updated": 1664677346,
+  "item_size": 85094265,
   "metadata": {
     "identifier": "newyorker-2022",
     "collection": [
@@ -11407,10 +11458,21 @@
     "publicdate": "2022-06-24 22:58:35",
     "addeddate": "2022-06-24 22:58:35"
   },
-  "server": "ia801503.us.archive.org",
-  "uniq": 1091175174,
+  "pending_tasks": true,
+  "server": "ia601503.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3425314655,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1372186222,
   "workable_servers": [
-    "ia801503.us.archive.org",
     "ia601503.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1664635624,
+  "created": 1664677329,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/9/items/niemanlab-2022",
@@ -8866,31 +8866,82 @@
       "sha1": "cf277b768729f875c0473af0f8ae753543df1d9c"
     },
     {
+      "name": "niemanlab-2022-10-01T22:21:09.285660-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664677272",
+      "size": "15515",
+      "md5": "b12c9a7585bd0d1fa62123ad076bedd8",
+      "crc32": "8d2ec7c7",
+      "sha1": "225d31896a95cd2208fe32df98cf3ad5fc54d043",
+      "format": "JSON"
+    },
+    {
+      "name": "niemanlab-2022-10-01T22:21:09.285660-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664677274",
+      "size": "19878",
+      "md5": "81cbc8be47204d82ddb102b8b5e2c68a",
+      "crc32": "d5eed482",
+      "sha1": "2e83f1b4619b058786df2125785208b5631138f5",
+      "format": "JSON"
+    },
+    {
+      "name": "niemanlab-2022-10-01T22:21:09.285660-04:00.jpg",
+      "source": "original",
+      "mtime": "1664677270",
+      "size": "305707",
+      "md5": "dc7683aed3a1f93995d472d8ed8414e5",
+      "crc32": "68f5c952",
+      "sha1": "46a89ba696f2ff5a130d53e6f59605f6e28c5a6a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "niemanlab-2022-10-01T22:21:09.285660-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664677275",
+      "size": "1485",
+      "md5": "3da7f46ff7eba59b9baeb0741a502386",
+      "crc32": "6da152c1",
+      "sha1": "90d595cd79c0c0394d02021f31f483e108857b3b",
+      "format": "JSON"
+    },
+    {
+      "name": "niemanlab-2022-10-01T22:21:09.285660-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664677277",
+      "size": "13392",
+      "md5": "822e018a293564f7be4be78d4c6f9360",
+      "crc32": "05db5bed",
+      "sha1": "05bb291799ff883a69c28625b7368b6db26c87a8",
+      "format": "JSON"
+    },
+    {
       "name": "niemanlab-2022_archive.torrent",
       "source": "metadata",
-      "btih": "704808de63998b25da69d850745266b3a2377b98",
-      "mtime": "1664635604",
-      "size": "182042",
-      "md5": "2ef3df92ad148974574b4e38925a9e3e",
-      "crc32": "3bcc26e4",
-      "sha1": "9532750b88f081ee43333309046012aecb3a1892",
+      "btih": "365789526a942ff1b1dc1c7e19a9102a70aa644b",
+      "mtime": "1664677325",
+      "size": "183110",
+      "md5": "142240865a77a90248e047f0a146f4c5",
+      "crc32": "1e3b257e",
+      "sha1": "9bbb830259e129fdd7fa070f95a379310dae5a20",
       "format": "Archive BitTorrent"
     },
     {
       "name": "niemanlab-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9566bb12d24bde69016997d82be84fa9",
+      "md5": "eff25da29ea6a6566b0c53f5fe0c14a1",
       "summation": "md5"
     },
     {
       "name": "niemanlab-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664633261",
-      "size": "1089536",
-      "md5": "872417c8c85e7f83b176f31b4bd5472a",
-      "crc32": "44899e17",
-      "sha1": "2adabcce8f4a546f37e381e891aaa033a388a661",
+      "mtime": "1664677282",
+      "size": "1101824",
+      "md5": "2363cc9e084c7a6f6f338a3daefe6a8f",
+      "crc32": "ae931665",
+      "sha1": "d6c308928399c4268cb972cbe37c9f74ea31f4fa",
       "format": "Metadata"
     },
     {
@@ -8904,9 +8955,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 860,
-  "item_last_updated": 1664635604,
-  "item_size": 50346520,
+  "files_count": 865,
+  "item_last_updated": 1664677325,
+  "item_size": 50715853,
   "metadata": {
     "identifier": "niemanlab-2022",
     "collection": [
@@ -8923,10 +8974,21 @@
     "publicdate": "2022-07-18 17:57:47",
     "addeddate": "2022-07-18 17:57:47"
   },
-  "server": "ia802500.us.archive.org",
-  "uniq": 796365448,
+  "pending_tasks": true,
+  "server": "ia902500.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3425314213,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1744012962,
   "workable_servers": [
-    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }

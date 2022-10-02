@@ -1,5 +1,5 @@
 {
-  "created": 1664636033,
+  "created": 1664677692,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/6/items/realclearnews-2022",
@@ -5966,31 +5966,72 @@
       "sha1": "5b27044f0286e2eb631e91740b15b25afb4cca77"
     },
     {
+      "name": "realclearnews-2022-10-01T22:26:33.898693-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664677615",
+      "size": "161",
+      "md5": "b3fc1ae5b5a7028736d79c1ef50ce6eb",
+      "crc32": "837fa67e",
+      "sha1": "fc80bdf0e3eb433f99a11f1e02a7c22401d714b9",
+      "format": "JSON"
+    },
+    {
+      "name": "realclearnews-2022-10-01T22:26:33.898693-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664677616",
+      "size": "2",
+      "md5": "d751713988987e9331980363e24189ce",
+      "crc32": "0d4cbb29",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c",
+      "format": "JSON"
+    },
+    {
+      "name": "realclearnews-2022-10-01T22:26:33.898693-04:00.jpg",
+      "source": "original",
+      "mtime": "1664677613",
+      "size": "446993",
+      "md5": "219006a9c78646c25ec40357679a09c2",
+      "crc32": "dc557f38",
+      "sha1": "bd118b887f830f26c1590031843bd308afca7d7f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "realclearnews-2022-10-01T22:26:33.898693-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664677618",
+      "size": "173225",
+      "md5": "4f9d966d49457b96846885b0b78e77f2",
+      "crc32": "3df19863",
+      "sha1": "ecb345a69702e9cf29cf73f677936a69d885dc08",
+      "format": "JSON"
+    },
+    {
       "name": "realclearnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2b0f85fe23b9a338140f508c56b360d9f1627734",
-      "mtime": "1664636003",
-      "size": "125104",
-      "md5": "dd7373979718f08f6079a458594443a6",
-      "crc32": "e57006b3",
-      "sha1": "2138ea0855f4b631c93c3a16f537a47fbf9d0f05",
+      "btih": "62f5fb1391500b6f63012d68e24ac569d63b1a01",
+      "mtime": "1664677681",
+      "size": "125992",
+      "md5": "844ca307b825650e71f263645b94cb0b",
+      "crc32": "1fa7a4e5",
+      "sha1": "42bf240f1b93379743bbde24543647deddb55479",
       "format": "Archive BitTorrent"
     },
     {
       "name": "realclearnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "75d8ecec6fcf8b81a451622d29d5ced5",
+      "md5": "d7eb5c491c14f9d0e6898ea6d22fc41b",
       "summation": "md5"
     },
     {
       "name": "realclearnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664633604",
-      "size": "720896",
-      "md5": "69d3f6c508c783fcd84149ddf27a03e8",
-      "crc32": "5669deb5",
-      "sha1": "d66edf64a51753792dbce4aa5f783e734bbed315",
+      "mtime": "1664677631",
+      "size": "729088",
+      "md5": "3eabd1b6ee91809e6173b9d99b964a34",
+      "crc32": "a12e5701",
+      "sha1": "6edc0b653879cf1f692c8a7e861e22bbe0e18fd0",
       "format": "Metadata"
     },
     {
@@ -6004,9 +6045,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 577,
-  "item_last_updated": 1664636003,
-  "item_size": 66605795,
+  "files_count": 581,
+  "item_last_updated": 1664677681,
+  "item_size": 67235256,
   "metadata": {
     "identifier": "realclearnews-2022",
     "collection": [
@@ -6023,10 +6064,21 @@
     "publicdate": "2022-08-05 12:46:57",
     "addeddate": "2022-08-05 12:46:57"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 518505042,
+  "pending_tasks": true,
+  "server": "ia601404.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3425319500,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1159546137,
   "workable_servers": [
-    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }

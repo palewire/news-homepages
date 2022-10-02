@@ -1,5 +1,5 @@
 {
-  "created": 1664635581,
+  "created": 1664677379,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/2/items/news12nj-2022",
@@ -8154,31 +8154,82 @@
       "sha1": "eb7eaba92f6af6aa17c912287abc5a2c806505a0"
     },
     {
+      "name": "news12nj-2022-10-01T22:21:58.106526-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664677325",
+      "size": "18958",
+      "md5": "010753125b292ae70191280a99eed811",
+      "crc32": "3999ae6c",
+      "sha1": "e7a771fd58143b01f70e0355ed855bcf8dc2a58d",
+      "format": "JSON"
+    },
+    {
+      "name": "news12nj-2022-10-01T22:21:58.106526-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664677327",
+      "size": "23942",
+      "md5": "06ecbcb6b97f2fb86143d38783b7f62d",
+      "crc32": "7ac207fc",
+      "sha1": "a904e65fe855587044aa37fa4cfb59581a5c6dab",
+      "format": "JSON"
+    },
+    {
+      "name": "news12nj-2022-10-01T22:21:58.106526-04:00.jpg",
+      "source": "original",
+      "mtime": "1664677324",
+      "size": "274126",
+      "md5": "040cb62626acdb08fd0f36dfd0f02643",
+      "crc32": "58896cf2",
+      "sha1": "2293631b4ca6dc4fee5fbdf0c2d66af174e7b144",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "news12nj-2022-10-01T22:21:58.106526-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664677329",
+      "size": "1510",
+      "md5": "25eff78806a7c01a3561dc0bd0a09db0",
+      "crc32": "90fb6339",
+      "sha1": "20218c0accde2c59b0053713bc8d9a3ad8ba230e",
+      "format": "JSON"
+    },
+    {
+      "name": "news12nj-2022-10-01T22:21:58.106526-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664677331",
+      "size": "209",
+      "md5": "fc8369fa978085c498c2fa657e8a46aa",
+      "crc32": "d83d94fc",
+      "sha1": "ff8e582638b28d4077d980cfbde1c84b63023fba",
+      "format": "JSON"
+    },
+    {
       "name": "news12nj-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b170483fcc788f1b45795a1bdac97e527a274645",
-      "mtime": "1664635564",
-      "size": "166726",
-      "md5": "22eb440c6be93fa428c0cd56142fa32b",
-      "crc32": "3bc28122",
-      "sha1": "23bc90c851ba6e9e0a87574fe0a60030678971e5",
+      "btih": "c02b45a90e9e26ec39f4f1b0adf90231033c0d05",
+      "mtime": "1664677375",
+      "size": "167787",
+      "md5": "82a2cd25bc3713e6117a25f5fe5f8560",
+      "crc32": "1cc64885",
+      "sha1": "d84614d8a1c81f13023d1397b8f103adc8143dd8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "news12nj-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "12c5012fb5b95cc221ea0737ca7dabd7",
+      "md5": "420151685442a3d56d95b026484d419c",
       "summation": "md5"
     },
     {
       "name": "news12nj-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664633237",
-      "size": "1011712",
-      "md5": "c7ed60a6e4a2436ea5019c84e2ca200b",
-      "crc32": "989bc4c2",
-      "sha1": "860a83861a7c57f08fb2c946a95333d4391fb076",
+      "mtime": "1664677335",
+      "size": "1019904",
+      "md5": "8583fb0298d807408929407be1e5944f",
+      "crc32": "3bf57bd0",
+      "sha1": "d87be9a91b8c3ba4c60a42c9a53963e38e023498",
       "format": "Metadata"
     },
     {
@@ -8192,9 +8243,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 792,
-  "item_last_updated": 1664635564,
-  "item_size": 42474803,
+  "files_count": 797,
+  "item_last_updated": 1664677375,
+  "item_size": 42802801,
   "metadata": {
     "identifier": "news12nj-2022",
     "collection": [
@@ -8211,10 +8262,21 @@
     "publicdate": "2022-07-26 00:20:38",
     "addeddate": "2022-07-26 00:20:38"
   },
+  "pending_tasks": true,
   "server": "ia902508.us.archive.org",
-  "uniq": 1276730773,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3425314989,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 702052355,
   "workable_servers": [
-    "ia902508.us.archive.org",
-    "ia802508.us.archive.org"
+    "ia902508.us.archive.org"
   ]
 }

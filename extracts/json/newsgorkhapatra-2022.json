@@ -1,5 +1,5 @@
 {
-  "created": 1664635723,
+  "created": 1664677306,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/0/items/newsgorkhapatra-2022",
@@ -7612,31 +7612,82 @@
       "format": "JSON"
     },
     {
+      "name": "newsgorkhapatra-2022-10-02T08:05:45.543930+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1664677253",
+      "size": "84981",
+      "md5": "9ada5c4df0a922c3c3c71819095912c9",
+      "crc32": "468e4518",
+      "sha1": "b778bd4da79402dae51d052c3ad31b95e7a907d6",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-02T08:05:45.543930+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664677255",
+      "size": "68766",
+      "md5": "1c70bf477a6a741f28b5aa96297a914b",
+      "crc32": "c752ff57",
+      "sha1": "bea65e0f4b484908ebff9a9217e01b9f1e3e20b3",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-02T08:05:45.543930+05:45.jpg",
+      "source": "original",
+      "mtime": "1664677251",
+      "size": "216316",
+      "md5": "bdd5093c26a2277698a20071f875b243",
+      "crc32": "dde6d761",
+      "sha1": "7f04f181f4b19067d5f028096db8d56e8dcd6852",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-02T08:05:45.543930+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1664677257",
+      "size": "1519",
+      "md5": "9e381dbf88153cc85cda6a6e7ebdcf32",
+      "crc32": "1b6c5158",
+      "sha1": "e1d10691e205a11305d16f3325f93de6adef21c9",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-02T08:05:45.543930+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1664677258",
+      "size": "15775",
+      "md5": "db4cb2446d42870735e7c85111734e89",
+      "crc32": "5276afb0",
+      "sha1": "cde35002a124a51d67f277c12e98c0b9063f676a",
+      "format": "JSON"
+    },
+    {
       "name": "newsgorkhapatra-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0a58f3916b27cdcc908994357ec87909594db467",
-      "mtime": "1664633320",
-      "size": "161831",
-      "md5": "e0f6cded1603cff444515fbf04cc1103",
-      "crc32": "92f3b495",
-      "sha1": "d461d2cc37b865da7aa5c282231e7ad753d1d630",
+      "btih": "03954c5f21126ba15fb2cca7783a6235d4f81d6c",
+      "mtime": "1664677302",
+      "size": "162929",
+      "md5": "80ea7d2a60c5b436dc889492a638c2c1",
+      "crc32": "6604e4df",
+      "sha1": "572e75f33cbb59edc6724277126f542ac85d5e25",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newsgorkhapatra-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0d7de8ea83dbfdf2646cf59daee0044f",
+      "md5": "5c63961ae4d912eaced6d8df69818097",
       "summation": "md5"
     },
     {
       "name": "newsgorkhapatra-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664633279",
-      "size": "958464",
-      "md5": "6f327a2a319d6338b49ca98322835b9c",
-      "crc32": "048e103f",
-      "sha1": "2943a388882b28dec43b1857e283131c278c834d",
+      "mtime": "1664677262",
+      "size": "966656",
+      "md5": "03bfde8a16ec85cfe32fa81dd7f78496",
+      "crc32": "554ec350",
+      "sha1": "60051c8002fd25573b9dc8e8e89344b8751ab55f",
       "format": "Metadata"
     },
     {
@@ -7650,9 +7701,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 740,
-  "item_last_updated": 1664633320,
-  "item_size": 57050653,
+  "files_count": 745,
+  "item_last_updated": 1664677302,
+  "item_size": 57447300,
   "metadata": {
     "identifier": "newsgorkhapatra-2022",
     "collection": [
@@ -7669,10 +7720,21 @@
     "publicdate": "2022-07-24 20:39:26",
     "addeddate": "2022-07-24 20:39:26"
   },
-  "server": "ia802501.us.archive.org",
-  "uniq": 202605716,
+  "pending_tasks": true,
+  "server": "ia902501.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3425313840,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 56223818,
   "workable_servers": [
-    "ia802501.us.archive.org",
     "ia902501.us.archive.org"
   ]
 }
