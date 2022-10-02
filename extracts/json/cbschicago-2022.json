@@ -1,5 +1,5 @@
 {
-  "created": 1664689844,
+  "created": 1664727389,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/12/items/cbschicago-2022",
@@ -11659,31 +11659,166 @@
       "format": "JSON"
     },
     {
+      "name": "cbschicago-2022-10-02T00:49:19.573902-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbschicago-2022-10-02T00:49:19.573902-05:00.jpg",
+      "mtime": "1664691947",
+      "size": "8912",
+      "md5": "6e5db03dac4ed0572a66c26b8526f698",
+      "crc32": "2c2fa43d",
+      "sha1": "6b01bdb169dd46aafcedc0c4a7612b7567dcb191"
+    },
+    {
+      "name": "cbschicago-2022-10-02T11:03:43.083599-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664726630",
+      "size": "26619",
+      "md5": "9d11b97f39bdb453bb2e45a38b16d366",
+      "crc32": "a62d43e4",
+      "sha1": "48e1843207df5872d4084ca248324d897522416d",
+      "format": "JSON"
+    },
+    {
+      "name": "cbschicago-2022-10-02T11:03:43.083599-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664726631",
+      "size": "70992",
+      "md5": "fb57de74b5a651d9d24f942f9ec38d05",
+      "crc32": "f8153386",
+      "sha1": "c90b5f77f57ed8de6b1c25c72659da7fcc1ed9f4",
+      "format": "JSON"
+    },
+    {
+      "name": "cbschicago-2022-10-02T11:03:43.083599-05:00.jpg",
+      "source": "original",
+      "mtime": "1664726628",
+      "size": "211344",
+      "md5": "b0778cdb3efd79e9fbbcf3009b9fad0a",
+      "crc32": "5d241503",
+      "sha1": "e3f60268f1f0ca64acfeb1f638764f408ece46bf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbschicago-2022-10-02T11:03:43.083599-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664726633",
+      "size": "1530",
+      "md5": "f89b91d133a888e630d2bac3fd386ed7",
+      "crc32": "a041b68e",
+      "sha1": "574c73873106fc49ae90c2cd8b52cf8902f1a992",
+      "format": "JSON"
+    },
+    {
+      "name": "cbschicago-2022-10-02T11:03:43.083599-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664726635",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "cbschicago-2022-10-02T11:03:43.083599-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbschicago-2022-10-02T11:03:43.083599-05:00.jpg",
+      "mtime": "1664726855",
+      "size": "9195",
+      "md5": "2c592ef40fd47ac6f35d5724e1020ac3",
+      "crc32": "cd54320a",
+      "sha1": "0aa51bc58a714600e92ddb2ba6ef41076a918bb6"
+    },
+    {
+      "name": "cbschicago-2022-10-02T11:06:09.456095-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664726773",
+      "size": "26626",
+      "md5": "4151775587a9f79e5284c48414902284",
+      "crc32": "0f3621cc",
+      "sha1": "467cee61b7b51230f48879ee272b8a01a157b65e",
+      "format": "JSON"
+    },
+    {
+      "name": "cbschicago-2022-10-02T11:06:09.456095-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664726774",
+      "size": "71017",
+      "md5": "f39974b7f91242a949fb33663d605a14",
+      "crc32": "1d06d06d",
+      "sha1": "345d99cc95acfa73d95cdff08d3a7f7b8f04f517",
+      "format": "JSON"
+    },
+    {
+      "name": "cbschicago-2022-10-02T11:06:09.456095-05:00.jpg",
+      "source": "original",
+      "mtime": "1664726771",
+      "size": "202603",
+      "md5": "50c0a3bef7ba9fe99ca04899cbe1b30b",
+      "crc32": "51b6d40b",
+      "sha1": "08457b53dc296136b8995561abfd3ea3018599ff",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbschicago-2022-10-02T11:06:09.456095-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664726776",
+      "size": "1530",
+      "md5": "a0057d9dd92b8fe2e8adfd4d6602126e",
+      "crc32": "55d1c934",
+      "sha1": "d94fa35e299e8860ce1c9bb41409a40d73c0ed57",
+      "format": "JSON"
+    },
+    {
+      "name": "cbschicago-2022-10-02T11:06:09.456095-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664726779",
+      "size": "14814",
+      "md5": "caf37c3cf6b2d6c251ebfba1a3f28cf5",
+      "crc32": "e3395b06",
+      "sha1": "f26718a724ba45b4f7ae32b8384f7b8acb200cd9",
+      "format": "JSON"
+    },
+    {
+      "name": "cbschicago-2022-10-02T11:06:09.456095-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbschicago-2022-10-02T11:06:09.456095-05:00.jpg",
+      "mtime": "1664727223",
+      "size": "9016",
+      "md5": "a96c6fd07217d7bf08cf61320121a345",
+      "crc32": "0e5618d1",
+      "sha1": "048c6defee00297224e4eaf4579eddd8e6c5652a"
+    },
+    {
       "name": "cbschicago-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9e1ec05377d01ce6a559925a61e522314243d2e7",
-      "mtime": "1664689838",
-      "size": "240265",
-      "md5": "d725f0cbe79c73af8535a82a3a0b5a10",
-      "crc32": "3cef1621",
-      "sha1": "6fc6c44170f7d7582ae8b3993509637d2e003a2c",
+      "btih": "d922df34e302611e8b8484f2842e330ee5c1d2d8",
+      "mtime": "1664727328",
+      "size": "243007",
+      "md5": "d691b3d795abbf621ef91d6857dbf12b",
+      "crc32": "67e86dfc",
+      "sha1": "a1a4734859d051cd46df297dbff241eb104b786a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cbschicago-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "377d783accfc811bfcd7ced147e69f63",
+      "md5": "637ef06f6c826088750c2bec4728b5ac",
       "summation": "md5"
     },
     {
       "name": "cbschicago-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664689782",
-      "size": "1445888",
-      "md5": "73d8dcd03ab432477074bcbd62315ed5",
-      "crc32": "216c8e24",
-      "sha1": "19ddbf2e0ad5a83ae559d5694f957c4d63f1f41b",
+      "mtime": "1664727070",
+      "size": "1458176",
+      "md5": "3e0d80bbac2881bd3d4a9a00014d2c32",
+      "crc32": "d20524ac",
+      "sha1": "5107ea9910ea02b8edb8a6fe17ba894d65aef902",
       "format": "Metadata"
     },
     {
@@ -11697,9 +11832,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1131,
-  "item_last_updated": 1664689838,
-  "item_size": 64939249,
+  "files_count": 1144,
+  "item_last_updated": 1664727328,
+  "item_size": 65608679,
   "metadata": {
     "identifier": "cbschicago-2022",
     "collection": [
@@ -11716,21 +11851,10 @@
     "publicdate": "2022-07-28 20:04:20",
     "addeddate": "2022-07-28 20:04:20"
   },
-  "pending_tasks": true,
   "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3425491478,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1181580314,
+  "uniq": 140297719,
   "workable_servers": [
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }
