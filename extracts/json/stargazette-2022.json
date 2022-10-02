@@ -1,5 +1,5 @@
 {
-  "created": 1664525297,
+  "created": 1664694850,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/0/items/stargazette-2022",
@@ -1225,31 +1225,279 @@
       "format": "JSON"
     },
     {
+      "name": "stargazette-2022-09-30T04:06:56.838901-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stargazette-2022-09-30T04:06:56.838901-04:00.jpg",
+      "mtime": "1664527897",
+      "size": "9265",
+      "md5": "1dd4a2f7f3b2d870ebb99d52b3ca3b41",
+      "crc32": "616fb1da",
+      "sha1": "8b52aaa5f7ecf0f25e1266fc2272035c2cf7e3d1"
+    },
+    {
+      "name": "stargazette-2022-09-30T15:51:08.886088-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664567473",
+      "size": "22869",
+      "md5": "99a76a648ee8708e74db4434f606480c",
+      "crc32": "a8a50558",
+      "sha1": "6e3f0848914beafe3845a77c4e3943c6931064eb",
+      "format": "JSON"
+    },
+    {
+      "name": "stargazette-2022-09-30T15:51:08.886088-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664567475",
+      "size": "48759",
+      "md5": "71b3beb2ee8606c3d995ea747e51a771",
+      "crc32": "1152d55f",
+      "sha1": "a25f0564be013ec5abb8d1161f9dce8675178909",
+      "format": "JSON"
+    },
+    {
+      "name": "stargazette-2022-09-30T15:51:08.886088-04:00.jpg",
+      "source": "original",
+      "mtime": "1664567472",
+      "size": "223025",
+      "md5": "dccca650c62732b59d97438a0d4bdc5f",
+      "crc32": "37434637",
+      "sha1": "246429d37241ead0490fd795f06cbae2c23df02a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stargazette-2022-09-30T15:51:08.886088-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664567476",
+      "size": "1504",
+      "md5": "4597d22d086c4483d2621648bb3ed01b",
+      "crc32": "b4e37b14",
+      "sha1": "b24b4c64dcc44085f2d071d385d06c4566265d0c",
+      "format": "JSON"
+    },
+    {
+      "name": "stargazette-2022-09-30T15:51:08.886088-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664567478",
+      "size": "90824",
+      "md5": "4aa96b8bf179d322cd2962723aac7240",
+      "crc32": "a1daa806",
+      "sha1": "e3bff9ca69bb465df75ea34e2efd6a795a987cf0",
+      "format": "JSON"
+    },
+    {
+      "name": "stargazette-2022-09-30T15:51:08.886088-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stargazette-2022-09-30T15:51:08.886088-04:00.jpg",
+      "mtime": "1664569658",
+      "size": "8769",
+      "md5": "23513601a1ff59c8c9c190c5e765bede",
+      "crc32": "2e6c2752",
+      "sha1": "6082d9675a99b9a2680306ce45c55947eefb8fe2"
+    },
+    {
+      "name": "stargazette-2022-10-01T03:47:43.095772-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664610466",
+      "size": "24749",
+      "md5": "cac1fe15376da12cb91c41fa6f9a9e7d",
+      "crc32": "764dedb4",
+      "sha1": "988df51884ec0bf0cadffcbb8102b6b3f55282a6",
+      "format": "JSON"
+    },
+    {
+      "name": "stargazette-2022-10-01T03:47:43.095772-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664610469",
+      "size": "42931",
+      "md5": "3b485ee7d1ed0f2e9bf9477e205d0ad5",
+      "crc32": "dbb62e2c",
+      "sha1": "8bd4f62b940b1e25489d8c60b42f6e196f0fbef6",
+      "format": "JSON"
+    },
+    {
+      "name": "stargazette-2022-10-01T03:47:43.095772-04:00.jpg",
+      "source": "original",
+      "mtime": "1664610464",
+      "size": "231635",
+      "md5": "bfaae4a4f1eb6203896bbd6b8cc06c31",
+      "crc32": "e435d635",
+      "sha1": "bda6e94bb2bbb6c17d1f6e2973a79562303a8605",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stargazette-2022-10-01T03:47:43.095772-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664610471",
+      "size": "1504",
+      "md5": "26d4612f8db212173948e2499e691060",
+      "crc32": "eeec98ac",
+      "sha1": "92dfa11852491d471d1d4399f5138c559b9ea9b9",
+      "format": "JSON"
+    },
+    {
+      "name": "stargazette-2022-10-01T03:47:43.095772-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664610472",
+      "size": "88528",
+      "md5": "cd42c70d91c906a7c05b722fd5d54578",
+      "crc32": "c1d8711d",
+      "sha1": "fab68f3435c9c5b6ef0a544fbfb6d58f2eba255f",
+      "format": "JSON"
+    },
+    {
+      "name": "stargazette-2022-10-01T03:47:43.095772-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stargazette-2022-10-01T03:47:43.095772-04:00.jpg",
+      "mtime": "1664612640",
+      "size": "8960",
+      "md5": "b91ca785148d64def0083224c4b5a71a",
+      "crc32": "975861b1",
+      "sha1": "a7381cdfad7ab281c76ea91cd9084c37e51ea376"
+    },
+    {
+      "name": "stargazette-2022-10-01T15:37:14.611873-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664653037",
+      "size": "22592",
+      "md5": "bf1f22758c06431614e999d7d4e49d00",
+      "crc32": "f5366003",
+      "sha1": "39bf2b2870c7e6eb3fd2b971b0ff77283b5ac821",
+      "format": "JSON"
+    },
+    {
+      "name": "stargazette-2022-10-01T15:37:14.611873-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664653039",
+      "size": "49418",
+      "md5": "1c268c25f362dc75a18c493c4761dee8",
+      "crc32": "f5db8b6f",
+      "sha1": "1b055b72c7ce4e3feada035e1ed313b48837f5db",
+      "format": "JSON"
+    },
+    {
+      "name": "stargazette-2022-10-01T15:37:14.611873-04:00.jpg",
+      "source": "original",
+      "mtime": "1664653036",
+      "size": "253209",
+      "md5": "800885905975426a07637ec25b9f389a",
+      "crc32": "0807ce07",
+      "sha1": "a931707413ad3f593ab90342c3e87b8db172c73e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stargazette-2022-10-01T15:37:14.611873-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664653041",
+      "size": "1504",
+      "md5": "8c33529a3d109c4fa8784bd978852e83",
+      "crc32": "7f8a493d",
+      "sha1": "1f243bc4e10d2dd84184c4fed56179e7fc1d8645",
+      "format": "JSON"
+    },
+    {
+      "name": "stargazette-2022-10-01T15:37:14.611873-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664653043",
+      "size": "129427",
+      "md5": "b26e1e3ba459fbf5c32bd70b11bcdfff",
+      "crc32": "83f4ebe4",
+      "sha1": "2469bb3d31f31c136946bd59d5493bd46fe9a6a6",
+      "format": "JSON"
+    },
+    {
+      "name": "stargazette-2022-10-01T15:37:14.611873-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stargazette-2022-10-01T15:37:14.611873-04:00.jpg",
+      "mtime": "1664655622",
+      "size": "8977",
+      "md5": "ba57b2aa16622a9a39ab1f4a4dccfcd2",
+      "crc32": "419089a9",
+      "sha1": "b581651d4ec79ca0f22dbd5d4bc4c4017e7664ba"
+    },
+    {
+      "name": "stargazette-2022-10-02T03:13:07.994091-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664694793",
+      "size": "22332",
+      "md5": "70e0bbf4549f9463267a675be5fcc91a",
+      "crc32": "ae4fe96c",
+      "sha1": "c56ad733d538c58fde1b869ede51c1122b41783f",
+      "format": "JSON"
+    },
+    {
+      "name": "stargazette-2022-10-02T03:13:07.994091-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664694795",
+      "size": "48162",
+      "md5": "938e715dfecabda5fdfcf1ba6e5ecbb7",
+      "crc32": "7ea7a507",
+      "sha1": "ae0b4cf0f0a7d71695ee6a029caece5199cd80d8",
+      "format": "JSON"
+    },
+    {
+      "name": "stargazette-2022-10-02T03:13:07.994091-04:00.jpg",
+      "source": "original",
+      "mtime": "1664694789",
+      "size": "227303",
+      "md5": "234f2332e7709aa7103baf8296d26d3f",
+      "crc32": "44440546",
+      "sha1": "912308eda986da7871d607cdc8ba66f5916a5ddc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stargazette-2022-10-02T03:13:07.994091-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664694797",
+      "size": "1504",
+      "md5": "187c6f91bb769a3d1a048e0533d3e258",
+      "crc32": "092a98a9",
+      "sha1": "3fe2b161a330faf939f0a7c5dc0d99de92e5db1c",
+      "format": "JSON"
+    },
+    {
+      "name": "stargazette-2022-10-02T03:13:07.994091-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664694804",
+      "size": "208",
+      "md5": "89dbf1eef1b436f4fac89d185bddc51f",
+      "crc32": "bd26490a",
+      "sha1": "08b5eb41520a94cceefa782d238d3ceeeb88a76d",
+      "format": "JSON"
+    },
+    {
       "name": "stargazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aa357fc3aac6fbdabbf4762e4fd63ef504c946a3",
-      "mtime": "1664525292",
-      "size": "26646",
-      "md5": "40477b5de2064dfa7261feca44a284de",
-      "crc32": "dc741284",
-      "sha1": "c1aa933e5a42f4f6fb4586746ee9f153823fd5fc",
+      "btih": "dea49a906f67e7b78f4806110cce7ccb91bcbeb9",
+      "mtime": "1664694845",
+      "size": "31765",
+      "md5": "21ba1f4016f96b12bf7202304bfe28d9",
+      "crc32": "2f562d28",
+      "sha1": "a99b28412faab432def48cc87d56f7332ac90fa8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "stargazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "55e4855e21dc7d3bf6b559d8befb4a09",
+      "md5": "088964bd2d83e0689e9652239eb7857d",
       "summation": "md5"
     },
     {
       "name": "stargazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664525257",
-      "size": "172032",
-      "md5": "60b7491775aebef1b24f0e41c868a6b1",
-      "crc32": "7d998d3e",
-      "sha1": "6ed5afc765df9ab548f2f93d448bc81ab8a10451",
+      "mtime": "1664694807",
+      "size": "204800",
+      "md5": "7898cbbcd96bc7e011c44334b6dfcd68",
+      "crc32": "f81bdc02",
+      "sha1": "93decd0a640f708e6dafb0779fe890f941cf94a0",
       "format": "Metadata"
     },
     {
@@ -1263,9 +1511,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 122,
-  "item_last_updated": 1664525292,
-  "item_size": 8670067,
+  "files_count": 146,
+  "item_last_updated": 1664694845,
+  "item_size": 10275912,
   "metadata": {
     "identifier": "stargazette-2022",
     "collection": [
@@ -1287,15 +1535,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3423212391,
+      "task_id": 3425563594,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 373197056,
+  "uniq": 824652690,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

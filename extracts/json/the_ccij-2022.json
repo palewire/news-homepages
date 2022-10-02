@@ -1,5 +1,5 @@
 {
-  "created": 1664525476,
+  "created": 1664694913,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/17/items/the_ccij-2022",
@@ -4253,31 +4253,279 @@
       "format": "JSON"
     },
     {
+      "name": "the_ccij-2022-09-30T03:10:08.978545-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the_ccij-2022-09-30T03:10:08.978545-05:00.jpg",
+      "mtime": "1664528134",
+      "size": "9798",
+      "md5": "18494e102e9498032d2bb21235beca30",
+      "crc32": "46ad3129",
+      "sha1": "2124beea3a8994b852f9f45409faa16e3f51d15d"
+    },
+    {
+      "name": "the_ccij-2022-09-30T14:52:31.593620-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664567557",
+      "size": "39080",
+      "md5": "247c05adf9aa5c7c0bf0a8cbbebe8716",
+      "crc32": "600594af",
+      "sha1": "1406ceb9a84c5e4191519f6a1813cc35690d93c6",
+      "format": "JSON"
+    },
+    {
+      "name": "the_ccij-2022-09-30T14:52:31.593620-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664567559",
+      "size": "16231",
+      "md5": "d5bebd3cb2b7582a680bfd571c7eee4e",
+      "crc32": "3986208f",
+      "sha1": "8b020c241c3cdd18a6874f4f1fd5d1102cff062b",
+      "format": "JSON"
+    },
+    {
+      "name": "the_ccij-2022-09-30T14:52:31.593620-05:00.jpg",
+      "source": "original",
+      "mtime": "1664567555",
+      "size": "342965",
+      "md5": "909414c8ae5e11c33accb1735542d44f",
+      "crc32": "c70523fd",
+      "sha1": "663e8f7d73201c94a24da3aa0f312235d732c663",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the_ccij-2022-09-30T14:52:31.593620-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664567560",
+      "size": "1531",
+      "md5": "6193bd630d002e5ad4e81aa0464bebfd",
+      "crc32": "173da8a5",
+      "sha1": "9ad0ab8f2e21ca531910ba0aa8921add9cbb19cb",
+      "format": "JSON"
+    },
+    {
+      "name": "the_ccij-2022-09-30T14:52:31.593620-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664567562",
+      "size": "18048",
+      "md5": "01c83ceb6c5069acaf88964ae8f34fc7",
+      "crc32": "959e9539",
+      "sha1": "2e2c021d4aa609c84413536b0e9a6351602ebfd3",
+      "format": "JSON"
+    },
+    {
+      "name": "the_ccij-2022-09-30T14:52:31.593620-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the_ccij-2022-09-30T14:52:31.593620-05:00.jpg",
+      "mtime": "1664569819",
+      "size": "9801",
+      "md5": "d743451a567da6fc6f8379a8125c0c64",
+      "crc32": "51b9b461",
+      "sha1": "28f84c141ada8aa2d13bb9ed5b34ee4111953f7c"
+    },
+    {
+      "name": "the_ccij-2022-10-01T02:47:48.924052-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664610474",
+      "size": "39081",
+      "md5": "2dcf1f231c928ea9b72c0e0bb09504bc",
+      "crc32": "398ff417",
+      "sha1": "f6306e44e5ce64a78b8043658c669d0ec9a9521d",
+      "format": "JSON"
+    },
+    {
+      "name": "the_ccij-2022-10-01T02:47:48.924052-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664610475",
+      "size": "16231",
+      "md5": "d5bebd3cb2b7582a680bfd571c7eee4e",
+      "crc32": "3986208f",
+      "sha1": "8b020c241c3cdd18a6874f4f1fd5d1102cff062b",
+      "format": "JSON"
+    },
+    {
+      "name": "the_ccij-2022-10-01T02:47:48.924052-05:00.jpg",
+      "source": "original",
+      "mtime": "1664610472",
+      "size": "343066",
+      "md5": "7c9265dac8f197c26884795159d7c6df",
+      "crc32": "7a0e485d",
+      "sha1": "c72f9d509e864e9f99323df924ee49b4b55b28ba",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the_ccij-2022-10-01T02:47:48.924052-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664610477",
+      "size": "1531",
+      "md5": "adba16ce0b9fbb967fcb60a13d70a496",
+      "crc32": "776b4f55",
+      "sha1": "cbb7362346819dd61dfd470f8993cbfd5badf9ca",
+      "format": "JSON"
+    },
+    {
+      "name": "the_ccij-2022-10-01T02:47:48.924052-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664610479",
+      "size": "17342",
+      "md5": "de8c58c3fbaec47add196eedf687a3af",
+      "crc32": "578de1f7",
+      "sha1": "314d957355d289b16324af45a505661bab39ee49",
+      "format": "JSON"
+    },
+    {
+      "name": "the_ccij-2022-10-01T02:47:48.924052-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the_ccij-2022-10-01T02:47:48.924052-05:00.jpg",
+      "mtime": "1664613366",
+      "size": "9802",
+      "md5": "d127472fd079217b08cf6fc367e0f0ca",
+      "crc32": "7d5735f1",
+      "sha1": "aa16c4d1850d1d3d90ef70a1e0cb45648e95e389"
+    },
+    {
+      "name": "the_ccij-2022-10-01T14:36:50.613357-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664653013",
+      "size": "39087",
+      "md5": "164b6e936e6b8bcf20e1d89c3961b576",
+      "crc32": "d0956bcf",
+      "sha1": "38ac9ba67e37cf91dd242c000e2180e71ba9a9f4",
+      "format": "JSON"
+    },
+    {
+      "name": "the_ccij-2022-10-01T14:36:50.613357-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664653016",
+      "size": "16231",
+      "md5": "d5bebd3cb2b7582a680bfd571c7eee4e",
+      "crc32": "3986208f",
+      "sha1": "8b020c241c3cdd18a6874f4f1fd5d1102cff062b",
+      "format": "JSON"
+    },
+    {
+      "name": "the_ccij-2022-10-01T14:36:50.613357-05:00.jpg",
+      "source": "original",
+      "mtime": "1664653012",
+      "size": "343386",
+      "md5": "445df132f18e0d9555c6a3b556ac11d3",
+      "crc32": "8f0ecc16",
+      "sha1": "6f359e9ad9b6a961c10bec13f5b26837f424ffab",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the_ccij-2022-10-01T14:36:50.613357-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664653018",
+      "size": "1531",
+      "md5": "9494d3fdcde3f4c12c942c832bb4c76a",
+      "crc32": "1ef9f301",
+      "sha1": "59e7cc4ae6dd7e9c2c80e78ff3a377a5565730c6",
+      "format": "JSON"
+    },
+    {
+      "name": "the_ccij-2022-10-01T14:36:50.613357-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664653020",
+      "size": "211",
+      "md5": "12564ca8ff3163f0821f467392f00d83",
+      "crc32": "dfe11e85",
+      "sha1": "b268e39dfe1e29d1b1737f4707598f633c91adb5",
+      "format": "JSON"
+    },
+    {
+      "name": "the_ccij-2022-10-01T14:36:50.613357-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the_ccij-2022-10-01T14:36:50.613357-05:00.jpg",
+      "mtime": "1664655872",
+      "size": "9800",
+      "md5": "96079d403be7b3a2dc474849111d8140",
+      "crc32": "e2b860c9",
+      "sha1": "54874cfd154e13c66248012e838925d62d5b079b"
+    },
+    {
+      "name": "the_ccij-2022-10-02T02:14:01.097346-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664694849",
+      "size": "39087",
+      "md5": "164b6e936e6b8bcf20e1d89c3961b576",
+      "crc32": "d0956bcf",
+      "sha1": "38ac9ba67e37cf91dd242c000e2180e71ba9a9f4",
+      "format": "JSON"
+    },
+    {
+      "name": "the_ccij-2022-10-02T02:14:01.097346-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664694851",
+      "size": "16231",
+      "md5": "d5bebd3cb2b7582a680bfd571c7eee4e",
+      "crc32": "3986208f",
+      "sha1": "8b020c241c3cdd18a6874f4f1fd5d1102cff062b",
+      "format": "JSON"
+    },
+    {
+      "name": "the_ccij-2022-10-02T02:14:01.097346-05:00.jpg",
+      "source": "original",
+      "mtime": "1664694847",
+      "size": "343386",
+      "md5": "445df132f18e0d9555c6a3b556ac11d3",
+      "crc32": "8f0ecc16",
+      "sha1": "6f359e9ad9b6a961c10bec13f5b26837f424ffab",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the_ccij-2022-10-02T02:14:01.097346-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664694853",
+      "size": "1531",
+      "md5": "c756e1bd7dcbffc1e8e13d12aceeecf5",
+      "crc32": "b1ef95bb",
+      "sha1": "1494b6a9f46e54c962d95c94074c9f6c1dc07679",
+      "format": "JSON"
+    },
+    {
+      "name": "the_ccij-2022-10-02T02:14:01.097346-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664694854",
+      "size": "211",
+      "md5": "1a876f074b6e8e5f30152e63ca974f02",
+      "crc32": "73dcc43c",
+      "sha1": "14510eecb78e397e9f43254b951c80bd7c41bfcf",
+      "format": "JSON"
+    },
+    {
       "name": "the_ccij-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cbdf23a42dcb69aec2d235da1b297a6825ef7fda",
-      "mtime": "1664525467",
-      "size": "87914",
-      "md5": "989bc8db2af0316286d79e9f59140776",
-      "crc32": "b9d54c98",
-      "sha1": "de609f28652661dc95fa871fe5fc676cb93647a7",
+      "btih": "182ef2bcb1365e83364d92670016541fc379c09b",
+      "mtime": "1664694901",
+      "size": "92958",
+      "md5": "4179ea5a436468af657046d2c68bef4c",
+      "crc32": "330981d3",
+      "sha1": "e92bd8c8e02b55b8cb727616b1fc9ee0336623b9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "the_ccij-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4a9b51f5b58cf0942544baec479fb66d",
+      "md5": "6446251a22572a64501c92f1c0a2a117",
       "summation": "md5"
     },
     {
       "name": "the_ccij-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664525428",
-      "size": "540672",
-      "md5": "d9005a6369f8784434ec66b0def5f2d8",
-      "crc32": "5d357945",
-      "sha1": "e4e18cf78511db033fc4b57f98bdfa9ddcc8f6ee",
+      "mtime": "1664694862",
+      "size": "569344",
+      "md5": "83d4ef05f6f3fc8915ac29cbc19d1153",
+      "crc32": "998f150a",
+      "sha1": "e83715a66f1fcdc84229e16f389af6c57d69ca08",
       "format": "Metadata"
     },
     {
@@ -4291,9 +4539,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 415,
-  "item_last_updated": 1664525467,
-  "item_size": 29517936,
+  "files_count": 439,
+  "item_last_updated": 1664694901,
+  "item_size": 31226851,
   "metadata": {
     "identifier": "the_ccij-2022",
     "collection": [
@@ -4315,15 +4563,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3423214858,
+      "task_id": 3425564440,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1949289366,
+  "uniq": 1048225006,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]
