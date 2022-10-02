@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 22 screenshots with the Internet Archive.
+The archiving routine has saved 23 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/callerdotcom-2022/callerdotcom-2022-10-02T00:49:26.348911-05:00.jpg">
+  <img src="https://archive.org/download/callerdotcom-2022/callerdotcom-2022-10-02T00:49:26.348911-05:00.jpg"
+     alt="Corpus Christi Caller Times at 2022-10-02 00:49:28-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/callerdotcom-2022/callerdotcom-2022-10-02T00:49:26.348911-05:00.jpg">October 2 at 12:49 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/callerdotcom-2022/callerdotcom-2022-10-01T11:09:27.041208-05:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-26T11:06:29.580715-05:00.jpg">September 26 at 11:06 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-25T23:48:06.387445-05:00.jpg">
-  <img src="https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-25T23:48:06.387445-05:00.jpg"
-     alt="Corpus Christi Caller Times at 2022-09-25 23:48:08-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-25T23:48:06.387445-05:00.jpg">September 25 at 11:48 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 22 hyperlink lists with the Internet Archive.
+The archiving routine has saved 23 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 12:49 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-10-02T00:49:26.348911-05:00.hyperlinks.json) |
 | [October 1 at 11:09 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-10-01T11:09:27.041208-05:00.hyperlinks.json) |
 | [September 30 at 11:42 PM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-30T23:42:07.604713-05:00.hyperlinks.json) |
 | [September 30 at 11:32 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-30T11:32:47.105591-05:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 28 at 11:17 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-28T11:17:17.217395-05:00.hyperlinks.json) |
 | [September 28 at 1:05 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-28T01:05:45.405495-05:00.hyperlinks.json) |
 | [September 27 at 11:06 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-27T11:06:33.460058-05:00.hyperlinks.json) |
-| [September 26 at 11:30 PM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-26T23:30:28.642739-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 22 accessibility trees with the Internet Archive.
+The archiving routine has saved 23 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 12:49 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-10-02T00:49:26.348911-05:00.accessibility.json) |
 | [October 1 at 11:09 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-10-01T11:09:27.041208-05:00.accessibility.json) |
 | [September 30 at 11:42 PM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-30T23:42:07.604713-05:00.accessibility.json) |
 | [September 30 at 11:32 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-30T11:32:47.105591-05:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 28 at 11:17 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-28T11:17:17.217395-05:00.accessibility.json) |
 | [September 28 at 1:05 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-28T01:05:45.405495-05:00.accessibility.json) |
 | [September 27 at 11:06 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-27T11:06:33.460058-05:00.accessibility.json) |
-| [September 26 at 11:30 PM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-26T23:30:28.642739-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 12:49 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-10-02T00:49:26.348911-05:00.lighthouse.json) |
 | [October 1 at 11:09 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-10-01T11:09:27.041208-05:00.lighthouse.json) |
 | [September 30 at 11:42 PM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-30T23:42:07.604713-05:00.lighthouse.json) |
 | [September 30 at 11:32 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-30T11:32:47.105591-05:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 28 at 11:17 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-28T11:17:17.217395-05:00.lighthouse.json) |
 | [September 28 at 1:05 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-28T01:05:45.405495-05:00.lighthouse.json) |
 | [September 27 at 11:06 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-27T11:06:33.460058-05:00.lighthouse.json) |
-| [September 26 at 11:30 PM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-26T23:30:28.642739-05:00.lighthouse.json) |
 
 
 

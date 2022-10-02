@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 22 screenshots with the Internet Archive.
+The archiving routine has saved 23 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-01T22:51:39.691300-07:00.jpg">
+  <img src="https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-01T22:51:39.691300-07:00.jpg"
+     alt="Victorville Daily Press at 2022-10-01 22:51:42-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-01T22:51:39.691300-07:00.jpg">October 1 at 10:51 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-01T09:12:01.338176-07:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/vvdailypress-2022/vvdailypress-2022-09-26T09:08:24.481847-07:00.jpg">September 26 at 9:08 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/vvdailypress-2022/vvdailypress-2022-09-25T21:50:13.612046-07:00.jpg">
-  <img src="https://archive.org/download/vvdailypress-2022/vvdailypress-2022-09-25T21:50:13.612046-07:00.jpg"
-     alt="Victorville Daily Press at 2022-09-25 21:50:15-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vvdailypress-2022/vvdailypress-2022-09-25T21:50:13.612046-07:00.jpg">September 25 at 9:50 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 22 hyperlink lists with the Internet Archive.
+The archiving routine has saved 23 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 1 at 10:51 PM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-01T22:51:39.691300-07:00.hyperlinks.json) |
 | [October 1 at 9:12 AM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-01T09:12:01.338176-07:00.hyperlinks.json) |
 | [September 30 at 9:44 PM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-09-30T21:44:22.353090-07:00.hyperlinks.json) |
 | [September 30 at 9:39 AM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-09-30T09:38:59.273591-07:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 28 at 9:19 AM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-09-28T09:19:23.095155-07:00.hyperlinks.json) |
 | [September 27 at 11:07 PM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-09-27T23:07:30.947453-07:00.hyperlinks.json) |
 | [September 27 at 9:08 AM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-09-27T09:08:44.276418-07:00.hyperlinks.json) |
-| [September 26 at 9:32 PM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-09-26T21:32:09.930486-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 22 accessibility trees with the Internet Archive.
+The archiving routine has saved 23 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 1 at 10:51 PM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-01T22:51:39.691300-07:00.accessibility.json) |
 | [October 1 at 9:12 AM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-01T09:12:01.338176-07:00.accessibility.json) |
 | [September 30 at 9:44 PM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-09-30T21:44:22.353090-07:00.accessibility.json) |
 | [September 30 at 9:39 AM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-09-30T09:38:59.273591-07:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 28 at 9:19 AM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-09-28T09:19:23.095155-07:00.accessibility.json) |
 | [September 27 at 11:07 PM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-09-27T23:07:30.947453-07:00.accessibility.json) |
 | [September 27 at 9:08 AM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-09-27T09:08:44.276418-07:00.accessibility.json) |
-| [September 26 at 9:32 PM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-09-26T21:32:09.930486-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 1 at 10:51 PM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-01T22:51:39.691300-07:00.lighthouse.json) |
 | [October 1 at 9:12 AM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-01T09:12:01.338176-07:00.lighthouse.json) |
 | [September 30 at 9:44 PM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-09-30T21:44:22.353090-07:00.lighthouse.json) |
 | [September 30 at 9:39 AM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-09-30T09:38:59.273591-07:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 28 at 9:19 AM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-09-28T09:19:23.095155-07:00.lighthouse.json) |
 | [September 27 at 11:07 PM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-09-27T23:07:30.947453-07:00.lighthouse.json) |
 | [September 27 at 9:08 AM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-09-27T09:08:44.276418-07:00.lighthouse.json) |
-| [September 26 at 9:32 PM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-09-26T21:32:09.930486-07:00.lighthouse.json) |
 
 
 

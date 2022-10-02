@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 149 screenshots with the Internet Archive.
+The archiving routine has saved 151 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-10-02T07:00:56.814091+01:00.jpg">
+  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-10-02T07:00:56.814091+01:00.jpg"
+     alt="Irish Examiner at 2022-10-02 07:01:01+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-10-02T07:00:56.814091+01:00.jpg">October 2 at 7:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-10-01T18:32:00.706961+01:00.jpg">
+  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-10-01T18:32:00.706961+01:00.jpg"
+     alt="Irish Examiner at 2022-10-01 18:32:17+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-10-01T18:32:00.706961+01:00.jpg">October 1 at 6:32 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-10-01T07:16:17.558071+01:00.jpg">
   <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-10-01T07:16:17.558071+01:00.jpg"
      alt="Irish Examiner at 2022-10-01 07:16:22+01:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-26T18:28:58.198557+01:00.jpg">September 26 at 6:29 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-26T07:01:50.584992+01:00.jpg">
-  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-26T07:01:50.584992+01:00.jpg"
-     alt="Irish Examiner at 2022-09-26 07:01:56+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-26T07:01:50.584992+01:00.jpg">September 26 at 7:01 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-25T18:11:24.625660+01:00.jpg">
-  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-25T18:11:24.625660+01:00.jpg"
-     alt="Irish Examiner at 2022-09-25 18:11:29+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-25T18:11:24.625660+01:00.jpg">September 25 at 6:11 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 149 hyperlink lists with the Internet Archive.
+The archiving routine has saved 151 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 7:01 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-10-02T07:00:56.814091+01:00.hyperlinks.json) |
+| [October 1 at 6:32 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-10-01T18:32:00.706961+01:00.hyperlinks.json) |
 | [October 1 at 7:16 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-10-01T07:16:17.558071+01:00.hyperlinks.json) |
 | [September 30 at 7:08 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-30T19:08:20.838505+01:00.hyperlinks.json) |
 | [September 30 at 7:17 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-30T07:17:11.640514+01:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 28 at 6:38 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-28T18:38:42.719332+01:00.hyperlinks.json) |
 | [September 28 at 7:10 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-28T07:10:03.205293+01:00.hyperlinks.json) |
 | [September 27 at 6:36 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-27T18:36:21.343063+01:00.hyperlinks.json) |
-| [September 27 at 6:41 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-27T06:41:33.244562+01:00.hyperlinks.json) |
-| [September 26 at 6:29 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-26T18:28:58.198557+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 149 accessibility trees with the Internet Archive.
+The archiving routine has saved 151 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 7:01 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-10-02T07:00:56.814091+01:00.accessibility.json) |
+| [October 1 at 6:32 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-10-01T18:32:00.706961+01:00.accessibility.json) |
 | [October 1 at 7:16 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-10-01T07:16:17.558071+01:00.accessibility.json) |
 | [September 30 at 7:08 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-30T19:08:20.838505+01:00.accessibility.json) |
 | [September 30 at 7:17 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-30T07:17:11.640514+01:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 28 at 6:38 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-28T18:38:42.719332+01:00.accessibility.json) |
 | [September 28 at 7:10 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-28T07:10:03.205293+01:00.accessibility.json) |
 | [September 27 at 6:36 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-27T18:36:21.343063+01:00.accessibility.json) |
-| [September 27 at 6:41 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-27T06:41:33.244562+01:00.accessibility.json) |
-| [September 26 at 6:29 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-26T18:28:58.198557+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 137 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 139 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 7:01 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-10-02T07:00:56.814091+01:00.lighthouse.json) |
+| [October 1 at 6:32 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-10-01T18:32:00.706961+01:00.lighthouse.json) |
 | [October 1 at 7:16 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-10-01T07:16:17.558071+01:00.lighthouse.json) |
 | [September 30 at 7:08 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-30T19:08:20.838505+01:00.lighthouse.json) |
 | [September 30 at 7:17 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-30T07:17:11.640514+01:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 28 at 6:38 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-28T18:38:42.719332+01:00.lighthouse.json) |
 | [September 28 at 7:10 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-28T07:10:03.205293+01:00.lighthouse.json) |
 | [September 27 at 6:36 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-27T18:36:21.343063+01:00.lighthouse.json) |
-| [September 27 at 6:41 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-27T06:41:33.244562+01:00.lighthouse.json) |
-| [September 26 at 6:29 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-26T18:28:58.198557+01:00.lighthouse.json) |
 
 
 

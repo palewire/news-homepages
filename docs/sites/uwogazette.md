@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 134 screenshots with the Internet Archive.
+The archiving routine has saved 138 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-10-02T03:16:59.276816-04:00.jpg">
+  <img src="https://archive.org/download/uwogazette-2022/uwogazette-2022-10-02T03:16:59.276816-04:00.jpg"
+     alt="Western Gazette at 2022-10-02 03:17:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-10-02T03:16:59.276816-04:00.jpg">October 2 at 3:17 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-10-01T15:40:59.838890-04:00.jpg">
+  <img src="https://archive.org/download/uwogazette-2022/uwogazette-2022-10-01T15:40:59.838890-04:00.jpg"
+     alt="Western Gazette at 2022-10-01 15:41:04-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-10-01T15:40:59.838890-04:00.jpg">October 1 at 3:41 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-10-01T03:50:45.437793-04:00.jpg">
+  <img src="https://archive.org/download/uwogazette-2022/uwogazette-2022-10-01T03:50:45.437793-04:00.jpg"
+     alt="Western Gazette at 2022-10-01 03:50:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-10-01T03:50:45.437793-04:00.jpg">October 1 at 3:50 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-09-30T15:54:41.169189-04:00.jpg">
+  <img src="https://archive.org/download/uwogazette-2022/uwogazette-2022-09-30T15:54:41.169189-04:00.jpg"
+     alt="Western Gazette at 2022-09-30 15:54:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-09-30T15:54:41.169189-04:00.jpg">September 30 at 3:54 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-09-30T04:12:33.528226-04:00.jpg">
   <img src="https://archive.org/download/uwogazette-2022/uwogazette-2022-09-30T04:12:33.528226-04:00.jpg"
      alt="Western Gazette at 2022-09-30 04:12:40-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-09-26T15:12:41.269895-04:00.jpg">September 26 at 3:12 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-09-26T03:32:27.781556-04:00.jpg">
-  <img src="https://archive.org/download/uwogazette-2022/uwogazette-2022-09-26T03:32:27.781556-04:00.jpg"
-     alt="Western Gazette at 2022-09-26 03:32:32-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-09-26T03:32:27.781556-04:00.jpg">September 26 at 3:32 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-09-25T14:48:14.534333-04:00.jpg">
-  <img src="https://archive.org/download/uwogazette-2022/uwogazette-2022-09-25T14:48:14.534333-04:00.jpg"
-     alt="Western Gazette at 2022-09-25 14:48:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-09-25T14:48:14.534333-04:00.jpg">September 25 at 2:48 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-09-25T03:01:13.752549-04:00.jpg">
-  <img src="https://archive.org/download/uwogazette-2022/uwogazette-2022-09-25T03:01:13.752549-04:00.jpg"
-     alt="Western Gazette at 2022-09-25 03:01:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-09-25T03:01:13.752549-04:00.jpg">September 25 at 3:01 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-09-24T14:40:19.532592-04:00.jpg">
-  <img src="https://archive.org/download/uwogazette-2022/uwogazette-2022-09-24T14:40:19.532592-04:00.jpg"
-     alt="Western Gazette at 2022-09-24 14:40:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/uwogazette-2022/uwogazette-2022-09-24T14:40:19.532592-04:00.jpg">September 24 at 2:40 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 113 hyperlink lists with the Internet Archive.
+The archiving routine has saved 117 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 3:17 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-10-02T03:16:59.276816-04:00.hyperlinks.json) |
+| [October 1 at 3:41 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-10-01T15:40:59.838890-04:00.hyperlinks.json) |
+| [October 1 at 3:50 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-10-01T03:50:45.437793-04:00.hyperlinks.json) |
+| [September 30 at 3:54 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-30T15:54:41.169189-04:00.hyperlinks.json) |
 | [September 30 at 4:12 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-30T04:12:33.528226-04:00.hyperlinks.json) |
 | [September 29 at 3:02 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-29T15:02:32.083977-04:00.hyperlinks.json) |
 | [September 29 at 3:32 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-29T03:32:23.370241-04:00.hyperlinks.json) |
 | [September 28 at 3:09 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-28T15:09:44.320188-04:00.hyperlinks.json) |
 | [September 28 at 3:56 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-28T03:56:43.000614-04:00.hyperlinks.json) |
 | [September 27 at 3:42 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-27T15:42:39.404412-04:00.hyperlinks.json) |
-| [September 27 at 3:05 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-27T03:05:24.421205-04:00.hyperlinks.json) |
-| [September 26 at 3:12 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-26T15:12:41.269895-04:00.hyperlinks.json) |
-| [September 26 at 3:32 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-26T03:32:27.781556-04:00.hyperlinks.json) |
-| [September 25 at 2:48 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-25T14:48:14.534333-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 111 accessibility trees with the Internet Archive.
+The archiving routine has saved 115 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 3:17 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-10-02T03:16:59.276816-04:00.accessibility.json) |
+| [October 1 at 3:41 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-10-01T15:40:59.838890-04:00.accessibility.json) |
+| [October 1 at 3:50 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-10-01T03:50:45.437793-04:00.accessibility.json) |
+| [September 30 at 3:54 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-30T15:54:41.169189-04:00.accessibility.json) |
 | [September 30 at 4:12 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-30T04:12:33.528226-04:00.accessibility.json) |
 | [September 29 at 3:02 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-29T15:02:32.083977-04:00.accessibility.json) |
 | [September 29 at 3:32 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-29T03:32:23.370241-04:00.accessibility.json) |
 | [September 28 at 3:09 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-28T15:09:44.320188-04:00.accessibility.json) |
 | [September 28 at 3:56 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-28T03:56:43.000614-04:00.accessibility.json) |
 | [September 27 at 3:42 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-27T15:42:39.404412-04:00.accessibility.json) |
-| [September 27 at 3:05 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-27T03:05:24.421205-04:00.accessibility.json) |
-| [September 26 at 3:12 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-26T15:12:41.269895-04:00.accessibility.json) |
-| [September 26 at 3:32 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-26T03:32:27.781556-04:00.accessibility.json) |
-| [September 25 at 2:48 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-25T14:48:14.534333-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 129 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 3:17 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-10-02T03:16:59.276816-04:00.lighthouse.json) |
+| [October 1 at 3:41 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-10-01T15:40:59.838890-04:00.lighthouse.json) |
+| [October 1 at 3:50 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-10-01T03:50:45.437793-04:00.lighthouse.json) |
+| [September 30 at 3:54 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-30T15:54:41.169189-04:00.lighthouse.json) |
 | [September 30 at 4:12 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-30T04:12:33.528226-04:00.lighthouse.json) |
 | [September 29 at 3:02 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-29T15:02:32.083977-04:00.lighthouse.json) |
 | [September 29 at 3:32 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-29T03:32:23.370241-04:00.lighthouse.json) |
 | [September 28 at 3:09 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-28T15:09:44.320188-04:00.lighthouse.json) |
 | [September 28 at 3:56 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-28T03:56:43.000614-04:00.lighthouse.json) |
 | [September 27 at 3:42 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-27T15:42:39.404412-04:00.lighthouse.json) |
-| [September 27 at 3:05 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-27T03:05:24.421205-04:00.lighthouse.json) |
-| [September 26 at 3:12 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-26T15:12:41.269895-04:00.lighthouse.json) |
-| [September 26 at 3:32 AM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-26T03:32:27.781556-04:00.lighthouse.json) |
-| [September 25 at 2:48 PM](https://archive.org/download/uwogazette-2022/uwogazette-2022-09-25T14:48:14.534333-04:00.lighthouse.json) |
 
 
 

@@ -234,13 +234,76 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 17 screenshots with the Internet Archive.
+The archiving routine has saved 24 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/registerguard-2022/registerguard-2022-10-02T00:23:32.500643-07:00.jpg">
+  <img src="https://archive.org/download/registerguard-2022/registerguard-2022-10-02T00:23:32.500643-07:00.jpg"
+     alt="The Register Guard at 2022-10-02 00:23:35-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/registerguard-2022/registerguard-2022-10-02T00:23:32.500643-07:00.jpg">October 2 at 12:23 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/registerguard-2022/registerguard-2022-10-01T12:07:58.117655-07:00.jpg">
+  <img src="https://archive.org/download/registerguard-2022/registerguard-2022-10-01T12:07:58.117655-07:00.jpg"
+     alt="The Register Guard at 2022-10-01 12:07:59-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/registerguard-2022/registerguard-2022-10-01T12:07:58.117655-07:00.jpg">October 1 at 12:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/registerguard-2022/registerguard-2022-10-01T00:58:47.300467-07:00.jpg">
+  <img src="https://archive.org/download/registerguard-2022/registerguard-2022-10-01T00:58:47.300467-07:00.jpg"
+     alt="The Register Guard at 2022-10-01 00:58:48-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/registerguard-2022/registerguard-2022-10-01T00:58:47.300467-07:00.jpg">October 1 at 12:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/registerguard-2022/registerguard-2022-09-30T13:16:56.545042-07:00.jpg">
+  <img src="https://archive.org/download/registerguard-2022/registerguard-2022-09-30T13:16:56.545042-07:00.jpg"
+     alt="The Register Guard at 2022-09-30 13:16:57-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/registerguard-2022/registerguard-2022-09-30T13:16:56.545042-07:00.jpg">September 30 at 1:16 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/registerguard-2022/registerguard-2022-09-30T01:04:53.731331-07:00.jpg">
+  <img src="https://archive.org/download/registerguard-2022/registerguard-2022-09-30T01:04:53.731331-07:00.jpg"
+     alt="The Register Guard at 2022-09-30 01:04:56-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/registerguard-2022/registerguard-2022-09-30T01:04:53.731331-07:00.jpg">September 30 at 1:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/registerguard-2022/registerguard-2022-09-29T12:32:58.350565-07:00.jpg">
+  <img src="https://archive.org/download/registerguard-2022/registerguard-2022-09-29T12:32:58.350565-07:00.jpg"
+     alt="The Register Guard at 2022-09-29 12:33:00-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/registerguard-2022/registerguard-2022-09-29T12:32:58.350565-07:00.jpg">September 29 at 12:33 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/registerguard-2022/registerguard-2022-09-29T00:38:00.275956-07:00.jpg">
+  <img src="https://archive.org/download/registerguard-2022/registerguard-2022-09-29T00:38:00.275956-07:00.jpg"
+     alt="The Register Guard at 2022-09-29 00:38:01-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/registerguard-2022/registerguard-2022-09-29T00:38:00.275956-07:00.jpg">September 29 at 12:38 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/registerguard-2022/registerguard-2022-09-28T12:40:57.752819-07:00.jpg">
@@ -287,74 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/registerguard-2022/registerguard-2022-09-26T12:30:20.494577-07:00.jpg">September 26 at 12:30 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/registerguard-2022/registerguard-2022-09-26T00:45:06.752266-07:00.jpg">
-  <img src="https://archive.org/download/registerguard-2022/registerguard-2022-09-26T00:45:06.752266-07:00.jpg"
-     alt="The Register Guard at 2022-09-26 00:45:08-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/registerguard-2022/registerguard-2022-09-26T00:45:06.752266-07:00.jpg">September 26 at 12:45 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/registerguard-2022/registerguard-2022-09-25T11:34:13.500810-07:00.jpg">
-  <img src="https://archive.org/download/registerguard-2022/registerguard-2022-09-25T11:34:13.500810-07:00.jpg"
-     alt="The Register Guard at 2022-09-25 11:34:14-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/registerguard-2022/registerguard-2022-09-25T11:34:13.500810-07:00.jpg">September 25 at 11:34 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/registerguard-2022/registerguard-2022-09-24T23:56:37.434553-07:00.jpg">
-  <img src="https://archive.org/download/registerguard-2022/registerguard-2022-09-24T23:56:37.434553-07:00.jpg"
-     alt="The Register Guard at 2022-09-24 23:56:38-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/registerguard-2022/registerguard-2022-09-24T23:56:37.434553-07:00.jpg">September 24 at 11:56 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/registerguard-2022/registerguard-2022-09-24T11:33:12.909287-07:00.jpg">
-  <img src="https://archive.org/download/registerguard-2022/registerguard-2022-09-24T11:33:12.909287-07:00.jpg"
-     alt="The Register Guard at 2022-09-24 11:33:15-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/registerguard-2022/registerguard-2022-09-24T11:33:12.909287-07:00.jpg">September 24 at 11:33 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/registerguard-2022/registerguard-2022-09-23T23:58:15.897096-07:00.jpg">
-  <img src="https://archive.org/download/registerguard-2022/registerguard-2022-09-23T23:58:15.897096-07:00.jpg"
-     alt="The Register Guard at 2022-09-23 23:58:17-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/registerguard-2022/registerguard-2022-09-23T23:58:15.897096-07:00.jpg">September 23 at 11:58 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/registerguard-2022/registerguard-2022-09-23T11:52:59.947700-07:00.jpg">
-  <img src="https://archive.org/download/registerguard-2022/registerguard-2022-09-23T11:52:59.947700-07:00.jpg"
-     alt="The Register Guard at 2022-09-23 11:53:01-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/registerguard-2022/registerguard-2022-09-23T11:52:59.947700-07:00.jpg">September 23 at 11:53 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/registerguard-2022/registerguard-2022-09-23T00:20:59.085715-07:00.jpg">
-  <img src="https://archive.org/download/registerguard-2022/registerguard-2022-09-23T00:20:59.085715-07:00.jpg"
-     alt="The Register Guard at 2022-09-23 00:21:01-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/registerguard-2022/registerguard-2022-09-23T00:20:59.085715-07:00.jpg">September 23 at 12:21 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 16 hyperlink lists with the Internet Archive.
+The archiving routine has saved 23 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,21 +362,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 12:23 AM](https://archive.org/download/registerguard-2022/registerguard-2022-10-02T00:23:32.500643-07:00.hyperlinks.json) |
+| [October 1 at 12:08 PM](https://archive.org/download/registerguard-2022/registerguard-2022-10-01T12:07:58.117655-07:00.hyperlinks.json) |
+| [October 1 at 12:58 AM](https://archive.org/download/registerguard-2022/registerguard-2022-10-01T00:58:47.300467-07:00.hyperlinks.json) |
+| [September 30 at 1:17 PM](https://archive.org/download/registerguard-2022/registerguard-2022-09-30T13:16:56.545042-07:00.hyperlinks.json) |
+| [September 30 at 1:05 AM](https://archive.org/download/registerguard-2022/registerguard-2022-09-30T01:04:53.731331-07:00.hyperlinks.json) |
+| [September 29 at 12:33 PM](https://archive.org/download/registerguard-2022/registerguard-2022-09-29T12:32:58.350565-07:00.hyperlinks.json) |
+| [September 29 at 12:38 AM](https://archive.org/download/registerguard-2022/registerguard-2022-09-29T00:38:00.275956-07:00.hyperlinks.json) |
 | [September 28 at 12:41 PM](https://archive.org/download/registerguard-2022/registerguard-2022-09-28T12:40:57.752819-07:00.hyperlinks.json) |
 | [September 28 at 12:50 AM](https://archive.org/download/registerguard-2022/registerguard-2022-09-28T00:49:59.010509-07:00.hyperlinks.json) |
 | [September 27 at 12:13 PM](https://archive.org/download/registerguard-2022/registerguard-2022-09-27T12:13:38.010758-07:00.hyperlinks.json) |
-| [September 27 at 12:10 AM](https://archive.org/download/registerguard-2022/registerguard-2022-09-27T00:10:17.183663-07:00.hyperlinks.json) |
-| [September 26 at 12:30 PM](https://archive.org/download/registerguard-2022/registerguard-2022-09-26T12:30:20.494577-07:00.hyperlinks.json) |
-| [September 26 at 12:45 AM](https://archive.org/download/registerguard-2022/registerguard-2022-09-26T00:45:06.752266-07:00.hyperlinks.json) |
-| [September 25 at 11:34 AM](https://archive.org/download/registerguard-2022/registerguard-2022-09-25T11:34:13.500810-07:00.hyperlinks.json) |
-| [September 24 at 11:56 PM](https://archive.org/download/registerguard-2022/registerguard-2022-09-24T23:56:37.434553-07:00.hyperlinks.json) |
-| [September 24 at 11:33 AM](https://archive.org/download/registerguard-2022/registerguard-2022-09-24T11:33:12.909287-07:00.hyperlinks.json) |
-| [September 23 at 11:58 PM](https://archive.org/download/registerguard-2022/registerguard-2022-09-23T23:58:15.897096-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 17 accessibility trees with the Internet Archive.
+The archiving routine has saved 24 accessibility trees with the Internet Archive.
 
 
 
@@ -384,22 +384,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 12:23 AM](https://archive.org/download/registerguard-2022/registerguard-2022-10-02T00:23:32.500643-07:00.accessibility.json) |
+| [October 1 at 12:08 PM](https://archive.org/download/registerguard-2022/registerguard-2022-10-01T12:07:58.117655-07:00.accessibility.json) |
+| [October 1 at 12:58 AM](https://archive.org/download/registerguard-2022/registerguard-2022-10-01T00:58:47.300467-07:00.accessibility.json) |
+| [September 30 at 1:16 PM](https://archive.org/download/registerguard-2022/registerguard-2022-09-30T13:16:56.545042-07:00.accessibility.json) |
+| [September 30 at 1:04 AM](https://archive.org/download/registerguard-2022/registerguard-2022-09-30T01:04:53.731331-07:00.accessibility.json) |
+| [September 29 at 12:33 PM](https://archive.org/download/registerguard-2022/registerguard-2022-09-29T12:32:58.350565-07:00.accessibility.json) |
+| [September 29 at 12:38 AM](https://archive.org/download/registerguard-2022/registerguard-2022-09-29T00:38:00.275956-07:00.accessibility.json) |
 | [September 28 at 12:41 PM](https://archive.org/download/registerguard-2022/registerguard-2022-09-28T12:40:57.752819-07:00.accessibility.json) |
 | [September 28 at 12:50 AM](https://archive.org/download/registerguard-2022/registerguard-2022-09-28T00:49:59.010509-07:00.accessibility.json) |
 | [September 27 at 12:13 PM](https://archive.org/download/registerguard-2022/registerguard-2022-09-27T12:13:38.010758-07:00.accessibility.json) |
-| [September 27 at 12:10 AM](https://archive.org/download/registerguard-2022/registerguard-2022-09-27T00:10:17.183663-07:00.accessibility.json) |
-| [September 26 at 12:30 PM](https://archive.org/download/registerguard-2022/registerguard-2022-09-26T12:30:20.494577-07:00.accessibility.json) |
-| [September 26 at 12:45 AM](https://archive.org/download/registerguard-2022/registerguard-2022-09-26T00:45:06.752266-07:00.accessibility.json) |
-| [September 25 at 11:34 AM](https://archive.org/download/registerguard-2022/registerguard-2022-09-25T11:34:13.500810-07:00.accessibility.json) |
-| [September 24 at 11:56 PM](https://archive.org/download/registerguard-2022/registerguard-2022-09-24T23:56:37.434553-07:00.accessibility.json) |
-| [September 24 at 11:33 AM](https://archive.org/download/registerguard-2022/registerguard-2022-09-24T11:33:12.909287-07:00.accessibility.json) |
-| [September 23 at 11:58 PM](https://archive.org/download/registerguard-2022/registerguard-2022-09-23T23:58:15.897096-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,16 +407,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 12:23 AM](https://archive.org/download/registerguard-2022/registerguard-2022-10-02T00:23:32.500643-07:00.lighthouse.json) |
+| [October 1 at 12:08 PM](https://archive.org/download/registerguard-2022/registerguard-2022-10-01T12:07:58.117655-07:00.lighthouse.json) |
+| [October 1 at 12:58 AM](https://archive.org/download/registerguard-2022/registerguard-2022-10-01T00:58:47.300467-07:00.lighthouse.json) |
+| [September 30 at 1:17 PM](https://archive.org/download/registerguard-2022/registerguard-2022-09-30T13:16:56.545042-07:00.lighthouse.json) |
+| [September 30 at 1:05 AM](https://archive.org/download/registerguard-2022/registerguard-2022-09-30T01:04:53.731331-07:00.lighthouse.json) |
+| [September 29 at 12:33 PM](https://archive.org/download/registerguard-2022/registerguard-2022-09-29T12:32:58.350565-07:00.lighthouse.json) |
+| [September 29 at 12:38 AM](https://archive.org/download/registerguard-2022/registerguard-2022-09-29T00:38:00.275956-07:00.lighthouse.json) |
 | [September 28 at 12:41 PM](https://archive.org/download/registerguard-2022/registerguard-2022-09-28T12:40:57.752819-07:00.lighthouse.json) |
 | [September 28 at 12:50 AM](https://archive.org/download/registerguard-2022/registerguard-2022-09-28T00:49:59.010509-07:00.lighthouse.json) |
 | [September 27 at 12:13 PM](https://archive.org/download/registerguard-2022/registerguard-2022-09-27T12:13:38.010758-07:00.lighthouse.json) |
-| [September 27 at 12:10 AM](https://archive.org/download/registerguard-2022/registerguard-2022-09-27T00:10:17.183663-07:00.lighthouse.json) |
-| [September 26 at 12:30 PM](https://archive.org/download/registerguard-2022/registerguard-2022-09-26T12:30:20.494577-07:00.lighthouse.json) |
-| [September 26 at 12:45 AM](https://archive.org/download/registerguard-2022/registerguard-2022-09-26T00:45:06.752266-07:00.lighthouse.json) |
-| [September 25 at 11:34 AM](https://archive.org/download/registerguard-2022/registerguard-2022-09-25T11:34:13.500810-07:00.lighthouse.json) |
-| [September 24 at 11:56 PM](https://archive.org/download/registerguard-2022/registerguard-2022-09-24T23:56:37.434553-07:00.lighthouse.json) |
-| [September 24 at 11:33 AM](https://archive.org/download/registerguard-2022/registerguard-2022-09-24T11:33:12.909287-07:00.lighthouse.json) |
-| [September 23 at 11:58 PM](https://archive.org/download/registerguard-2022/registerguard-2022-09-23T23:58:15.897096-07:00.lighthouse.json) |
 
 
 

@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 23 screenshots with the Internet Archive.
+The archiving routine has saved 24 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gardner_news-2022/gardner_news-2022-10-02T01:56:49.505115-04:00.jpg">
+  <img src="https://archive.org/download/gardner_news-2022/gardner_news-2022-10-02T01:56:49.505115-04:00.jpg"
+     alt="The Gardner News at 2022-10-02 01:56:51-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gardner_news-2022/gardner_news-2022-10-02T01:56:49.505115-04:00.jpg">October 2 at 1:56 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gardner_news-2022/gardner_news-2022-10-01T13:50:22.607705-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gardner_news-2022/gardner_news-2022-09-26T13:47:41.174519-04:00.jpg">September 26 at 1:47 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gardner_news-2022/gardner_news-2022-09-26T02:18:49.148717-04:00.jpg">
-  <img src="https://archive.org/download/gardner_news-2022/gardner_news-2022-09-26T02:18:49.148717-04:00.jpg"
-     alt="The Gardner News at 2022-09-26 02:18:51-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gardner_news-2022/gardner_news-2022-09-26T02:18:49.148717-04:00.jpg">September 26 at 2:18 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 23 hyperlink lists with the Internet Archive.
+The archiving routine has saved 24 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 1:56 AM](https://archive.org/download/gardner_news-2022/gardner_news-2022-10-02T01:56:49.505115-04:00.hyperlinks.json) |
 | [October 1 at 1:50 PM](https://archive.org/download/gardner_news-2022/gardner_news-2022-10-01T13:50:22.607705-04:00.hyperlinks.json) |
 | [October 1 at 3:45 AM](https://archive.org/download/gardner_news-2022/gardner_news-2022-10-01T03:45:46.265274-04:00.hyperlinks.json) |
 | [September 30 at 2:34 PM](https://archive.org/download/gardner_news-2022/gardner_news-2022-09-30T14:34:16.172308-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 28 at 1:56 PM](https://archive.org/download/gardner_news-2022/gardner_news-2022-09-28T13:56:15.340530-04:00.hyperlinks.json) |
 | [September 28 at 2:27 AM](https://archive.org/download/gardner_news-2022/gardner_news-2022-09-28T02:27:08.878143-04:00.hyperlinks.json) |
 | [September 27 at 1:56 PM](https://archive.org/download/gardner_news-2022/gardner_news-2022-09-27T13:56:30.809600-04:00.hyperlinks.json) |
-| [September 27 at 3:01 AM](https://archive.org/download/gardner_news-2022/gardner_news-2022-09-27T03:01:21.833951-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 23 accessibility trees with the Internet Archive.
+The archiving routine has saved 24 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 1:56 AM](https://archive.org/download/gardner_news-2022/gardner_news-2022-10-02T01:56:49.505115-04:00.accessibility.json) |
 | [October 1 at 1:50 PM](https://archive.org/download/gardner_news-2022/gardner_news-2022-10-01T13:50:22.607705-04:00.accessibility.json) |
 | [October 1 at 3:45 AM](https://archive.org/download/gardner_news-2022/gardner_news-2022-10-01T03:45:46.265274-04:00.accessibility.json) |
 | [September 30 at 2:34 PM](https://archive.org/download/gardner_news-2022/gardner_news-2022-09-30T14:34:16.172308-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 28 at 1:56 PM](https://archive.org/download/gardner_news-2022/gardner_news-2022-09-28T13:56:15.340530-04:00.accessibility.json) |
 | [September 28 at 2:27 AM](https://archive.org/download/gardner_news-2022/gardner_news-2022-09-28T02:27:08.878143-04:00.accessibility.json) |
 | [September 27 at 1:56 PM](https://archive.org/download/gardner_news-2022/gardner_news-2022-09-27T13:56:30.809600-04:00.accessibility.json) |
-| [September 27 at 3:01 AM](https://archive.org/download/gardner_news-2022/gardner_news-2022-09-27T03:01:21.833951-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 1:56 AM](https://archive.org/download/gardner_news-2022/gardner_news-2022-10-02T01:56:49.505115-04:00.lighthouse.json) |
 | [October 1 at 1:50 PM](https://archive.org/download/gardner_news-2022/gardner_news-2022-10-01T13:50:22.607705-04:00.lighthouse.json) |
 | [October 1 at 3:45 AM](https://archive.org/download/gardner_news-2022/gardner_news-2022-10-01T03:45:46.265274-04:00.lighthouse.json) |
 | [September 30 at 2:34 PM](https://archive.org/download/gardner_news-2022/gardner_news-2022-09-30T14:34:16.172308-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 28 at 1:56 PM](https://archive.org/download/gardner_news-2022/gardner_news-2022-09-28T13:56:15.340530-04:00.lighthouse.json) |
 | [September 28 at 2:27 AM](https://archive.org/download/gardner_news-2022/gardner_news-2022-09-28T02:27:08.878143-04:00.lighthouse.json) |
 | [September 27 at 1:56 PM](https://archive.org/download/gardner_news-2022/gardner_news-2022-09-27T13:56:30.809600-04:00.lighthouse.json) |
-| [September 27 at 3:01 AM](https://archive.org/download/gardner_news-2022/gardner_news-2022-09-27T03:01:21.833951-04:00.lighthouse.json) |
 
 
 

@@ -234,13 +234,76 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 23 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/recordonline-2022/recordonline-2022-10-02T03:23:20.983593-04:00.jpg">
+  <img src="https://archive.org/download/recordonline-2022/recordonline-2022-10-02T03:23:20.983593-04:00.jpg"
+     alt="Times Herald-Record at 2022-10-02 03:23:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/recordonline-2022/recordonline-2022-10-02T03:23:20.983593-04:00.jpg">October 2 at 3:23 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/recordonline-2022/recordonline-2022-10-01T15:08:05.779752-04:00.jpg">
+  <img src="https://archive.org/download/recordonline-2022/recordonline-2022-10-01T15:08:05.779752-04:00.jpg"
+     alt="Times Herald-Record at 2022-10-01 15:08:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/recordonline-2022/recordonline-2022-10-01T15:08:05.779752-04:00.jpg">October 1 at 3:08 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/recordonline-2022/recordonline-2022-10-01T03:58:36.278558-04:00.jpg">
+  <img src="https://archive.org/download/recordonline-2022/recordonline-2022-10-01T03:58:36.278558-04:00.jpg"
+     alt="Times Herald-Record at 2022-10-01 03:58:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/recordonline-2022/recordonline-2022-10-01T03:58:36.278558-04:00.jpg">October 1 at 3:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/recordonline-2022/recordonline-2022-09-30T16:16:39.868137-04:00.jpg">
+  <img src="https://archive.org/download/recordonline-2022/recordonline-2022-09-30T16:16:39.868137-04:00.jpg"
+     alt="Times Herald-Record at 2022-09-30 16:16:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/recordonline-2022/recordonline-2022-09-30T16:16:39.868137-04:00.jpg">September 30 at 4:16 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/recordonline-2022/recordonline-2022-09-30T04:05:32.743607-04:00.jpg">
+  <img src="https://archive.org/download/recordonline-2022/recordonline-2022-09-30T04:05:32.743607-04:00.jpg"
+     alt="Times Herald-Record at 2022-09-30 04:05:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/recordonline-2022/recordonline-2022-09-30T04:05:32.743607-04:00.jpg">September 30 at 4:05 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/recordonline-2022/recordonline-2022-09-29T15:33:07.893992-04:00.jpg">
+  <img src="https://archive.org/download/recordonline-2022/recordonline-2022-09-29T15:33:07.893992-04:00.jpg"
+     alt="Times Herald-Record at 2022-09-29 15:33:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/recordonline-2022/recordonline-2022-09-29T15:33:07.893992-04:00.jpg">September 29 at 3:33 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/recordonline-2022/recordonline-2022-09-29T03:38:35.735551-04:00.jpg">
+  <img src="https://archive.org/download/recordonline-2022/recordonline-2022-09-29T03:38:35.735551-04:00.jpg"
+     alt="Times Herald-Record at 2022-09-29 03:38:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/recordonline-2022/recordonline-2022-09-29T03:38:35.735551-04:00.jpg">September 29 at 3:38 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/recordonline-2022/recordonline-2022-09-28T15:40:40.532863-04:00.jpg">
@@ -287,74 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/recordonline-2022/recordonline-2022-09-26T15:29:25.972381-04:00.jpg">September 26 at 3:29 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/recordonline-2022/recordonline-2022-09-26T03:45:05.835323-04:00.jpg">
-  <img src="https://archive.org/download/recordonline-2022/recordonline-2022-09-26T03:45:05.835323-04:00.jpg"
-     alt="Times Herald-Record at 2022-09-26 03:45:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/recordonline-2022/recordonline-2022-09-26T03:45:05.835323-04:00.jpg">September 26 at 3:45 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/recordonline-2022/recordonline-2022-09-25T14:33:16.277975-04:00.jpg">
-  <img src="https://archive.org/download/recordonline-2022/recordonline-2022-09-25T14:33:16.277975-04:00.jpg"
-     alt="Times Herald-Record at 2022-09-25 14:33:18-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/recordonline-2022/recordonline-2022-09-25T14:33:16.277975-04:00.jpg">September 25 at 2:33 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/recordonline-2022/recordonline-2022-09-25T02:57:06.702013-04:00.jpg">
-  <img src="https://archive.org/download/recordonline-2022/recordonline-2022-09-25T02:57:06.702013-04:00.jpg"
-     alt="Times Herald-Record at 2022-09-25 02:57:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/recordonline-2022/recordonline-2022-09-25T02:57:06.702013-04:00.jpg">September 25 at 2:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/recordonline-2022/recordonline-2022-09-24T14:33:01.446272-04:00.jpg">
-  <img src="https://archive.org/download/recordonline-2022/recordonline-2022-09-24T14:33:01.446272-04:00.jpg"
-     alt="Times Herald-Record at 2022-09-24 14:33:03-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/recordonline-2022/recordonline-2022-09-24T14:33:01.446272-04:00.jpg">September 24 at 2:33 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/recordonline-2022/recordonline-2022-09-24T02:57:41.444640-04:00.jpg">
-  <img src="https://archive.org/download/recordonline-2022/recordonline-2022-09-24T02:57:41.444640-04:00.jpg"
-     alt="Times Herald-Record at 2022-09-24 02:57:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/recordonline-2022/recordonline-2022-09-24T02:57:41.444640-04:00.jpg">September 24 at 2:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/recordonline-2022/recordonline-2022-09-23T14:52:58.797811-04:00.jpg">
-  <img src="https://archive.org/download/recordonline-2022/recordonline-2022-09-23T14:52:58.797811-04:00.jpg"
-     alt="Times Herald-Record at 2022-09-23 14:53:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/recordonline-2022/recordonline-2022-09-23T14:52:58.797811-04:00.jpg">September 23 at 2:53 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/recordonline-2022/recordonline-2022-09-23T03:20:27.140515-04:00.jpg">
-  <img src="https://archive.org/download/recordonline-2022/recordonline-2022-09-23T03:20:27.140515-04:00.jpg"
-     alt="Times Herald-Record at 2022-09-23 03:20:29-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/recordonline-2022/recordonline-2022-09-23T03:20:27.140515-04:00.jpg">September 23 at 3:20 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 24 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,21 +362,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 3:23 AM](https://archive.org/download/recordonline-2022/recordonline-2022-10-02T03:23:20.983593-04:00.hyperlinks.json) |
+| [October 1 at 3:08 PM](https://archive.org/download/recordonline-2022/recordonline-2022-10-01T15:08:05.779752-04:00.hyperlinks.json) |
+| [October 1 at 3:58 AM](https://archive.org/download/recordonline-2022/recordonline-2022-10-01T03:58:36.278558-04:00.hyperlinks.json) |
+| [September 30 at 4:16 PM](https://archive.org/download/recordonline-2022/recordonline-2022-09-30T16:16:39.868137-04:00.hyperlinks.json) |
+| [September 30 at 4:05 AM](https://archive.org/download/recordonline-2022/recordonline-2022-09-30T04:05:32.743607-04:00.hyperlinks.json) |
+| [September 29 at 3:33 PM](https://archive.org/download/recordonline-2022/recordonline-2022-09-29T15:33:07.893992-04:00.hyperlinks.json) |
+| [September 29 at 3:38 AM](https://archive.org/download/recordonline-2022/recordonline-2022-09-29T03:38:35.735551-04:00.hyperlinks.json) |
 | [September 28 at 3:40 PM](https://archive.org/download/recordonline-2022/recordonline-2022-09-28T15:40:40.532863-04:00.hyperlinks.json) |
 | [September 28 at 3:50 AM](https://archive.org/download/recordonline-2022/recordonline-2022-09-28T03:50:04.669122-04:00.hyperlinks.json) |
 | [September 27 at 3:14 PM](https://archive.org/download/recordonline-2022/recordonline-2022-09-27T15:14:02.746400-04:00.hyperlinks.json) |
-| [September 27 at 3:10 AM](https://archive.org/download/recordonline-2022/recordonline-2022-09-27T03:10:04.590400-04:00.hyperlinks.json) |
-| [September 26 at 3:29 PM](https://archive.org/download/recordonline-2022/recordonline-2022-09-26T15:29:25.972381-04:00.hyperlinks.json) |
-| [September 26 at 3:45 AM](https://archive.org/download/recordonline-2022/recordonline-2022-09-26T03:45:05.835323-04:00.hyperlinks.json) |
-| [September 25 at 2:33 PM](https://archive.org/download/recordonline-2022/recordonline-2022-09-25T14:33:16.277975-04:00.hyperlinks.json) |
-| [September 25 at 2:57 AM](https://archive.org/download/recordonline-2022/recordonline-2022-09-25T02:57:06.702013-04:00.hyperlinks.json) |
-| [September 24 at 2:33 PM](https://archive.org/download/recordonline-2022/recordonline-2022-09-24T14:33:01.446272-04:00.hyperlinks.json) |
-| [September 24 at 2:57 AM](https://archive.org/download/recordonline-2022/recordonline-2022-09-24T02:57:41.444640-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 17 accessibility trees with the Internet Archive.
+The archiving routine has saved 24 accessibility trees with the Internet Archive.
 
 
 
@@ -384,22 +384,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 3:23 AM](https://archive.org/download/recordonline-2022/recordonline-2022-10-02T03:23:20.983593-04:00.accessibility.json) |
+| [October 1 at 3:08 PM](https://archive.org/download/recordonline-2022/recordonline-2022-10-01T15:08:05.779752-04:00.accessibility.json) |
+| [October 1 at 3:58 AM](https://archive.org/download/recordonline-2022/recordonline-2022-10-01T03:58:36.278558-04:00.accessibility.json) |
+| [September 30 at 4:16 PM](https://archive.org/download/recordonline-2022/recordonline-2022-09-30T16:16:39.868137-04:00.accessibility.json) |
+| [September 30 at 4:05 AM](https://archive.org/download/recordonline-2022/recordonline-2022-09-30T04:05:32.743607-04:00.accessibility.json) |
+| [September 29 at 3:33 PM](https://archive.org/download/recordonline-2022/recordonline-2022-09-29T15:33:07.893992-04:00.accessibility.json) |
+| [September 29 at 3:38 AM](https://archive.org/download/recordonline-2022/recordonline-2022-09-29T03:38:35.735551-04:00.accessibility.json) |
 | [September 28 at 3:40 PM](https://archive.org/download/recordonline-2022/recordonline-2022-09-28T15:40:40.532863-04:00.accessibility.json) |
 | [September 28 at 3:50 AM](https://archive.org/download/recordonline-2022/recordonline-2022-09-28T03:50:04.669122-04:00.accessibility.json) |
 | [September 27 at 3:14 PM](https://archive.org/download/recordonline-2022/recordonline-2022-09-27T15:14:02.746400-04:00.accessibility.json) |
-| [September 27 at 3:10 AM](https://archive.org/download/recordonline-2022/recordonline-2022-09-27T03:10:04.590400-04:00.accessibility.json) |
-| [September 26 at 3:29 PM](https://archive.org/download/recordonline-2022/recordonline-2022-09-26T15:29:25.972381-04:00.accessibility.json) |
-| [September 26 at 3:45 AM](https://archive.org/download/recordonline-2022/recordonline-2022-09-26T03:45:05.835323-04:00.accessibility.json) |
-| [September 25 at 2:33 PM](https://archive.org/download/recordonline-2022/recordonline-2022-09-25T14:33:16.277975-04:00.accessibility.json) |
-| [September 25 at 2:57 AM](https://archive.org/download/recordonline-2022/recordonline-2022-09-25T02:57:06.702013-04:00.accessibility.json) |
-| [September 24 at 2:33 PM](https://archive.org/download/recordonline-2022/recordonline-2022-09-24T14:33:01.446272-04:00.accessibility.json) |
-| [September 24 at 2:57 AM](https://archive.org/download/recordonline-2022/recordonline-2022-09-24T02:57:41.444640-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,16 +407,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 3:23 AM](https://archive.org/download/recordonline-2022/recordonline-2022-10-02T03:23:20.983593-04:00.lighthouse.json) |
+| [October 1 at 3:08 PM](https://archive.org/download/recordonline-2022/recordonline-2022-10-01T15:08:05.779752-04:00.lighthouse.json) |
+| [October 1 at 3:58 AM](https://archive.org/download/recordonline-2022/recordonline-2022-10-01T03:58:36.278558-04:00.lighthouse.json) |
+| [September 30 at 4:16 PM](https://archive.org/download/recordonline-2022/recordonline-2022-09-30T16:16:39.868137-04:00.lighthouse.json) |
+| [September 30 at 4:05 AM](https://archive.org/download/recordonline-2022/recordonline-2022-09-30T04:05:32.743607-04:00.lighthouse.json) |
+| [September 29 at 3:33 PM](https://archive.org/download/recordonline-2022/recordonline-2022-09-29T15:33:07.893992-04:00.lighthouse.json) |
+| [September 29 at 3:38 AM](https://archive.org/download/recordonline-2022/recordonline-2022-09-29T03:38:35.735551-04:00.lighthouse.json) |
 | [September 28 at 3:40 PM](https://archive.org/download/recordonline-2022/recordonline-2022-09-28T15:40:40.532863-04:00.lighthouse.json) |
 | [September 28 at 3:50 AM](https://archive.org/download/recordonline-2022/recordonline-2022-09-28T03:50:04.669122-04:00.lighthouse.json) |
 | [September 27 at 3:14 PM](https://archive.org/download/recordonline-2022/recordonline-2022-09-27T15:14:02.746400-04:00.lighthouse.json) |
-| [September 27 at 3:10 AM](https://archive.org/download/recordonline-2022/recordonline-2022-09-27T03:10:04.590400-04:00.lighthouse.json) |
-| [September 26 at 3:29 PM](https://archive.org/download/recordonline-2022/recordonline-2022-09-26T15:29:25.972381-04:00.lighthouse.json) |
-| [September 26 at 3:45 AM](https://archive.org/download/recordonline-2022/recordonline-2022-09-26T03:45:05.835323-04:00.lighthouse.json) |
-| [September 25 at 2:33 PM](https://archive.org/download/recordonline-2022/recordonline-2022-09-25T14:33:16.277975-04:00.lighthouse.json) |
-| [September 25 at 2:57 AM](https://archive.org/download/recordonline-2022/recordonline-2022-09-25T02:57:06.702013-04:00.lighthouse.json) |
-| [September 24 at 2:33 PM](https://archive.org/download/recordonline-2022/recordonline-2022-09-24T14:33:01.446272-04:00.lighthouse.json) |
-| [September 24 at 2:57 AM](https://archive.org/download/recordonline-2022/recordonline-2022-09-24T02:57:41.444640-04:00.lighthouse.json) |
 
 
 

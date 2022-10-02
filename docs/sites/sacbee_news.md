@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 185 screenshots with the Internet Archive.
+The archiving routine has saved 192 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,69 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-10-02T00:24:30.154902-07:00.jpg">
+  <img src="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-10-02T00:24:30.154902-07:00.jpg"
+     alt="Sacramento Bee at 2022-10-02 00:24:32-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-10-02T00:24:30.154902-07:00.jpg">October 2 at 12:24 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-10-01T12:08:09.968488-07:00.jpg">
+  <img src="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-10-01T12:08:09.968488-07:00.jpg"
+     alt="Sacramento Bee at 2022-10-01 12:08:38-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-10-01T12:08:09.968488-07:00.jpg">October 1 at 12:08 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-10-01T01:00:56.741005-07:00.jpg">
+  <img src="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-10-01T01:00:56.741005-07:00.jpg"
+     alt="Sacramento Bee at 2022-10-01 01:01:13-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-10-01T01:00:56.741005-07:00.jpg">October 1 at 1:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-30T13:16:30.504531-07:00.jpg">
+  <img src="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-30T13:16:30.504531-07:00.jpg"
+     alt="Sacramento Bee at 2022-09-30 13:16:36-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-30T13:16:30.504531-07:00.jpg">September 30 at 1:16 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-30T01:04:15.397433-07:00.jpg">
+  <img src="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-30T01:04:15.397433-07:00.jpg"
+     alt="Sacramento Bee at 2022-09-30 01:04:19-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-30T01:04:15.397433-07:00.jpg">September 30 at 1:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-29T12:33:31.638553-07:00.jpg">
+  <img src="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-29T12:33:31.638553-07:00.jpg"
+     alt="Sacramento Bee at 2022-09-29 12:33:34-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-29T12:33:31.638553-07:00.jpg">September 29 at 12:33 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-29T00:39:49.318790-07:00.jpg">
+  <img src="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-29T00:39:49.318790-07:00.jpg"
+     alt="Sacramento Bee at 2022-09-29 00:39:56-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-29T00:39:49.318790-07:00.jpg">September 29 at 12:39 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-28T12:39:57.157988-07:00.jpg">
   <img src="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-28T12:39:57.157988-07:00.jpg"
      alt="Sacramento Bee at 2022-09-28 12:40:04-07:00 local time"
@@ -370,74 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-26T12:31:09.612426-07:00.jpg">September 26 at 12:31 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-26T00:46:36.119677-07:00.jpg">
-  <img src="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-26T00:46:36.119677-07:00.jpg"
-     alt="Sacramento Bee at 2022-09-26 00:46:38-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-26T00:46:36.119677-07:00.jpg">September 26 at 12:46 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-25T11:34:48.674670-07:00.jpg">
-  <img src="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-25T11:34:48.674670-07:00.jpg"
-     alt="Sacramento Bee at 2022-09-25 11:34:50-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-25T11:34:48.674670-07:00.jpg">September 25 at 11:34 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-24T23:57:32.778691-07:00.jpg">
-  <img src="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-24T23:57:32.778691-07:00.jpg"
-     alt="Sacramento Bee at 2022-09-24 23:57:41-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-24T23:57:32.778691-07:00.jpg">September 24 at 11:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-24T11:34:53.634929-07:00.jpg">
-  <img src="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-24T11:34:53.634929-07:00.jpg"
-     alt="Sacramento Bee at 2022-09-24 11:34:58-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-24T11:34:53.634929-07:00.jpg">September 24 at 11:34 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-23T23:59:11.681778-07:00.jpg">
-  <img src="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-23T23:59:11.681778-07:00.jpg"
-     alt="Sacramento Bee at 2022-09-23 23:59:16-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-23T23:59:11.681778-07:00.jpg">September 23 at 11:59 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-23T11:52:37.529636-07:00.jpg">
-  <img src="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-23T11:52:37.529636-07:00.jpg"
-     alt="Sacramento Bee at 2022-09-23 11:52:43-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-23T11:52:37.529636-07:00.jpg">September 23 at 11:52 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-23T00:22:17.190377-07:00.jpg">
-  <img src="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-23T00:22:17.190377-07:00.jpg"
-     alt="Sacramento Bee at 2022-09-23 00:22:27-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-23T00:22:17.190377-07:00.jpg">September 23 at 12:22 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 155 hyperlink lists with the Internet Archive.
+The archiving routine has saved 162 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 12:24 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-10-02T00:24:30.154902-07:00.hyperlinks.json) |
+| [October 1 at 12:08 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-10-01T12:08:09.968488-07:00.hyperlinks.json) |
+| [October 1 at 1:01 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-10-01T01:00:56.741005-07:00.hyperlinks.json) |
+| [September 30 at 1:16 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-30T13:16:30.504531-07:00.hyperlinks.json) |
+| [September 30 at 1:04 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-30T01:04:15.397433-07:00.hyperlinks.json) |
+| [September 29 at 12:33 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-29T12:33:31.638553-07:00.hyperlinks.json) |
+| [September 29 at 12:39 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-29T00:39:49.318790-07:00.hyperlinks.json) |
 | [September 28 at 12:40 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-28T12:39:57.157988-07:00.hyperlinks.json) |
 | [September 28 at 12:52 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-28T00:52:02.550118-07:00.hyperlinks.json) |
 | [September 27 at 12:14 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-27T12:14:40.385601-07:00.hyperlinks.json) |
-| [September 27 at 12:11 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-27T00:11:13.030898-07:00.hyperlinks.json) |
-| [September 26 at 12:31 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-26T12:31:09.612426-07:00.hyperlinks.json) |
-| [September 26 at 12:46 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-26T00:46:36.119677-07:00.hyperlinks.json) |
-| [September 25 at 11:34 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-25T11:34:48.674670-07:00.hyperlinks.json) |
-| [September 24 at 11:57 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-24T23:57:32.778691-07:00.hyperlinks.json) |
-| [September 24 at 11:35 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-24T11:34:53.634929-07:00.hyperlinks.json) |
-| [September 23 at 11:59 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-23T23:59:11.681778-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 185 accessibility trees with the Internet Archive.
+The archiving routine has saved 192 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 12:24 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-10-02T00:24:30.154902-07:00.accessibility.json) |
+| [October 1 at 12:08 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-10-01T12:08:09.968488-07:00.accessibility.json) |
+| [October 1 at 1:01 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-10-01T01:00:56.741005-07:00.accessibility.json) |
+| [September 30 at 1:16 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-30T13:16:30.504531-07:00.accessibility.json) |
+| [September 30 at 1:04 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-30T01:04:15.397433-07:00.accessibility.json) |
+| [September 29 at 12:33 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-29T12:33:31.638553-07:00.accessibility.json) |
+| [September 29 at 12:39 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-29T00:39:49.318790-07:00.accessibility.json) |
 | [September 28 at 12:40 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-28T12:39:57.157988-07:00.accessibility.json) |
 | [September 28 at 12:52 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-28T00:52:02.550118-07:00.accessibility.json) |
 | [September 27 at 12:14 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-27T12:14:40.385601-07:00.accessibility.json) |
-| [September 27 at 12:11 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-27T00:11:13.030898-07:00.accessibility.json) |
-| [September 26 at 12:31 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-26T12:31:09.612426-07:00.accessibility.json) |
-| [September 26 at 12:46 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-26T00:46:36.119677-07:00.accessibility.json) |
-| [September 25 at 11:34 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-25T11:34:48.674670-07:00.accessibility.json) |
-| [September 24 at 11:57 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-24T23:57:32.778691-07:00.accessibility.json) |
-| [September 24 at 11:35 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-24T11:34:53.634929-07:00.accessibility.json) |
-| [September 23 at 11:59 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-23T23:59:11.681778-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 140 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 12:24 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-10-02T00:24:30.154902-07:00.lighthouse.json) |
+| [October 1 at 12:08 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-10-01T12:08:09.968488-07:00.lighthouse.json) |
+| [October 1 at 1:01 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-10-01T01:00:56.741005-07:00.lighthouse.json) |
+| [September 30 at 1:16 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-30T13:16:30.504531-07:00.lighthouse.json) |
+| [September 30 at 1:04 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-30T01:04:15.397433-07:00.lighthouse.json) |
+| [September 29 at 12:33 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-29T12:33:31.638553-07:00.lighthouse.json) |
+| [September 29 at 12:40 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-29T00:39:49.318790-07:00.lighthouse.json) |
 | [September 28 at 12:40 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-28T12:39:57.157988-07:00.lighthouse.json) |
 | [September 28 at 12:52 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-28T00:52:02.550118-07:00.lighthouse.json) |
 | [September 27 at 12:14 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-27T12:14:40.385601-07:00.lighthouse.json) |
-| [September 27 at 12:11 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-27T00:11:13.030898-07:00.lighthouse.json) |
-| [September 26 at 12:31 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-26T12:31:09.612426-07:00.lighthouse.json) |
-| [September 26 at 12:46 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-26T00:46:36.119677-07:00.lighthouse.json) |
-| [September 25 at 11:34 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-25T11:34:48.674670-07:00.lighthouse.json) |
-| [September 24 at 11:57 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-24T23:57:32.778691-07:00.lighthouse.json) |
-| [September 24 at 11:35 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-24T11:34:53.634929-07:00.lighthouse.json) |
-| [September 23 at 11:59 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-09-23T23:59:11.681778-07:00.lighthouse.json) |
 
 
 

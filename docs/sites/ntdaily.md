@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 146 screenshots with the Internet Archive.
+The archiving routine has saved 153 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,69 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-10-02T02:19:58.620254-05:00.jpg">
+  <img src="https://archive.org/download/ntdaily-2022/ntdaily-2022-10-02T02:19:58.620254-05:00.jpg"
+     alt="North Texas Daily at 2022-10-02 02:20:04-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-10-02T02:19:58.620254-05:00.jpg">October 2 at 2:20 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-10-01T14:02:17.237202-05:00.jpg">
+  <img src="https://archive.org/download/ntdaily-2022/ntdaily-2022-10-01T14:02:17.237202-05:00.jpg"
+     alt="North Texas Daily at 2022-10-01 14:02:22-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-10-01T14:02:17.237202-05:00.jpg">October 1 at 2:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-10-01T02:55:48.273678-05:00.jpg">
+  <img src="https://archive.org/download/ntdaily-2022/ntdaily-2022-10-01T02:55:48.273678-05:00.jpg"
+     alt="North Texas Daily at 2022-10-01 02:55:52-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-10-01T02:55:48.273678-05:00.jpg">October 1 at 2:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-30T15:12:33.343472-05:00.jpg">
+  <img src="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-30T15:12:33.343472-05:00.jpg"
+     alt="North Texas Daily at 2022-09-30 15:12:40-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-30T15:12:33.343472-05:00.jpg">September 30 at 3:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-30T02:58:32.370135-05:00.jpg">
+  <img src="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-30T02:58:32.370135-05:00.jpg"
+     alt="North Texas Daily at 2022-09-30 02:59:01-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-30T02:58:32.370135-05:00.jpg">September 30 at 2:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-29T14:29:58.402585-05:00.jpg">
+  <img src="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-29T14:29:58.402585-05:00.jpg"
+     alt="North Texas Daily at 2022-09-29 14:30:04-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-29T14:29:58.402585-05:00.jpg">September 29 at 2:30 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-29T02:35:50.790693-05:00.jpg">
+  <img src="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-29T02:35:50.790693-05:00.jpg"
+     alt="North Texas Daily at 2022-09-29 02:35:55-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-29T02:35:50.790693-05:00.jpg">September 29 at 2:35 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-28T14:36:20.426193-05:00.jpg">
   <img src="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-28T14:36:20.426193-05:00.jpg"
      alt="North Texas Daily at 2022-09-28 14:36:25-05:00 local time"
@@ -370,74 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-26T14:26:42.702887-05:00.jpg">September 26 at 2:26 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-26T02:42:18.594657-05:00.jpg">
-  <img src="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-26T02:42:18.594657-05:00.jpg"
-     alt="North Texas Daily at 2022-09-26 02:42:28-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-26T02:42:18.594657-05:00.jpg">September 26 at 2:42 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-25T13:30:15.935912-05:00.jpg">
-  <img src="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-25T13:30:15.935912-05:00.jpg"
-     alt="North Texas Daily at 2022-09-25 13:30:21-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-25T13:30:15.935912-05:00.jpg">September 25 at 1:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-25T01:54:02.808380-05:00.jpg">
-  <img src="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-25T01:54:02.808380-05:00.jpg"
-     alt="North Texas Daily at 2022-09-25 01:54:07-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-25T01:54:02.808380-05:00.jpg">September 25 at 1:54 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-24T13:29:54.169885-05:00.jpg">
-  <img src="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-24T13:29:54.169885-05:00.jpg"
-     alt="North Texas Daily at 2022-09-24 13:30:00-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-24T13:29:54.169885-05:00.jpg">September 24 at 1:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-24T01:54:56.588365-05:00.jpg">
-  <img src="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-24T01:54:56.588365-05:00.jpg"
-     alt="North Texas Daily at 2022-09-24 01:55:00-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-24T01:54:56.588365-05:00.jpg">September 24 at 1:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-23T13:46:14.816910-05:00.jpg">
-  <img src="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-23T13:46:14.816910-05:00.jpg"
-     alt="North Texas Daily at 2022-09-23 13:46:33-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-23T13:46:14.816910-05:00.jpg">September 23 at 1:46 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-23T02:18:50.187871-05:00.jpg">
-  <img src="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-23T02:18:50.187871-05:00.jpg"
-     alt="North Texas Daily at 2022-09-23 02:18:54-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ntdaily-2022/ntdaily-2022-09-23T02:18:50.187871-05:00.jpg">September 23 at 2:18 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 146 hyperlink lists with the Internet Archive.
+The archiving routine has saved 153 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 2:20 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-10-02T02:19:58.620254-05:00.hyperlinks.json) |
+| [October 1 at 2:02 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-10-01T14:02:17.237202-05:00.hyperlinks.json) |
+| [October 1 at 2:55 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-10-01T02:55:48.273678-05:00.hyperlinks.json) |
+| [September 30 at 3:12 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-30T15:12:33.343472-05:00.hyperlinks.json) |
+| [September 30 at 2:59 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-30T02:58:32.370135-05:00.hyperlinks.json) |
+| [September 29 at 2:30 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-29T14:29:58.402585-05:00.hyperlinks.json) |
+| [September 29 at 2:35 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-29T02:35:50.790693-05:00.hyperlinks.json) |
 | [September 28 at 2:36 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-28T14:36:20.426193-05:00.hyperlinks.json) |
 | [September 28 at 2:47 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-28T02:47:15.803962-05:00.hyperlinks.json) |
 | [September 27 at 2:10 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-27T14:10:00.350907-05:00.hyperlinks.json) |
-| [September 27 at 2:07 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-27T02:07:45.828410-05:00.hyperlinks.json) |
-| [September 26 at 2:26 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-26T14:26:42.702887-05:00.hyperlinks.json) |
-| [September 26 at 2:42 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-26T02:42:18.594657-05:00.hyperlinks.json) |
-| [September 25 at 1:30 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-25T13:30:15.935912-05:00.hyperlinks.json) |
-| [September 25 at 1:54 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-25T01:54:02.808380-05:00.hyperlinks.json) |
-| [September 24 at 1:30 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-24T13:29:54.169885-05:00.hyperlinks.json) |
-| [September 24 at 1:55 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-24T01:54:56.588365-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 146 accessibility trees with the Internet Archive.
+The archiving routine has saved 153 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 2:20 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-10-02T02:19:58.620254-05:00.accessibility.json) |
+| [October 1 at 2:02 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-10-01T14:02:17.237202-05:00.accessibility.json) |
+| [October 1 at 2:55 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-10-01T02:55:48.273678-05:00.accessibility.json) |
+| [September 30 at 3:12 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-30T15:12:33.343472-05:00.accessibility.json) |
+| [September 30 at 2:59 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-30T02:58:32.370135-05:00.accessibility.json) |
+| [September 29 at 2:30 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-29T14:29:58.402585-05:00.accessibility.json) |
+| [September 29 at 2:35 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-29T02:35:50.790693-05:00.accessibility.json) |
 | [September 28 at 2:36 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-28T14:36:20.426193-05:00.accessibility.json) |
 | [September 28 at 2:47 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-28T02:47:15.803962-05:00.accessibility.json) |
 | [September 27 at 2:10 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-27T14:10:00.350907-05:00.accessibility.json) |
-| [September 27 at 2:07 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-27T02:07:45.828410-05:00.accessibility.json) |
-| [September 26 at 2:26 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-26T14:26:42.702887-05:00.accessibility.json) |
-| [September 26 at 2:42 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-26T02:42:18.594657-05:00.accessibility.json) |
-| [September 25 at 1:30 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-25T13:30:15.935912-05:00.accessibility.json) |
-| [September 25 at 1:54 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-25T01:54:02.808380-05:00.accessibility.json) |
-| [September 24 at 1:30 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-24T13:29:54.169885-05:00.accessibility.json) |
-| [September 24 at 1:55 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-24T01:54:56.588365-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 140 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 2:20 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-10-02T02:19:58.620254-05:00.lighthouse.json) |
+| [October 1 at 2:02 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-10-01T14:02:17.237202-05:00.lighthouse.json) |
+| [October 1 at 2:55 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-10-01T02:55:48.273678-05:00.lighthouse.json) |
+| [September 30 at 3:12 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-30T15:12:33.343472-05:00.lighthouse.json) |
+| [September 30 at 2:59 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-30T02:58:32.370135-05:00.lighthouse.json) |
+| [September 29 at 2:30 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-29T14:29:58.402585-05:00.lighthouse.json) |
+| [September 29 at 2:36 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-29T02:35:50.790693-05:00.lighthouse.json) |
 | [September 28 at 2:36 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-28T14:36:20.426193-05:00.lighthouse.json) |
 | [September 28 at 2:47 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-28T02:47:15.803962-05:00.lighthouse.json) |
 | [September 27 at 2:10 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-27T14:10:00.350907-05:00.lighthouse.json) |
-| [September 27 at 2:08 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-27T02:07:45.828410-05:00.lighthouse.json) |
-| [September 26 at 2:27 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-26T14:26:42.702887-05:00.lighthouse.json) |
-| [September 26 at 2:42 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-26T02:42:18.594657-05:00.lighthouse.json) |
-| [September 25 at 1:30 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-25T13:30:15.935912-05:00.lighthouse.json) |
-| [September 25 at 1:54 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-25T01:54:02.808380-05:00.lighthouse.json) |
-| [September 24 at 1:30 PM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-24T13:29:54.169885-05:00.lighthouse.json) |
-| [September 24 at 1:55 AM](https://archive.org/download/ntdaily-2022/ntdaily-2022-09-24T01:54:56.588365-05:00.lighthouse.json) |
 
 
 

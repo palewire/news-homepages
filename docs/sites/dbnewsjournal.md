@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 23 screenshots with the Internet Archive.
+The archiving routine has saved 24 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-02T01:53:26.444790-04:00.jpg">
+  <img src="https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-02T01:53:26.444790-04:00.jpg"
+     alt="The Daytona Beach News-Journal at 2022-10-02 01:53:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-02T01:53:26.444790-04:00.jpg">October 2 at 1:53 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-01T13:45:09.788388-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-09-26T13:41:17.131793-04:00.jpg">September 26 at 1:41 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-09-26T02:12:35.226340-04:00.jpg">
-  <img src="https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-09-26T02:12:35.226340-04:00.jpg"
-     alt="The Daytona Beach News-Journal at 2022-09-26 02:12:37-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-09-26T02:12:35.226340-04:00.jpg">September 26 at 2:12 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 23 hyperlink lists with the Internet Archive.
+The archiving routine has saved 24 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 1:53 AM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-02T01:53:26.444790-04:00.hyperlinks.json) |
 | [October 1 at 1:45 PM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-01T13:45:09.788388-04:00.hyperlinks.json) |
 | [October 1 at 3:43 AM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-01T03:43:30.189339-04:00.hyperlinks.json) |
 | [September 30 at 2:24 PM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-09-30T14:24:41.396305-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 28 at 1:54 PM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-09-28T13:54:38.700390-04:00.hyperlinks.json) |
 | [September 28 at 2:17 AM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-09-28T02:17:14.214636-04:00.hyperlinks.json) |
 | [September 27 at 1:51 PM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-09-27T13:51:41.511033-04:00.hyperlinks.json) |
-| [September 27 at 2:58 AM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-09-27T02:58:48.435246-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 23 accessibility trees with the Internet Archive.
+The archiving routine has saved 24 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 1:53 AM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-02T01:53:26.444790-04:00.accessibility.json) |
 | [October 1 at 1:45 PM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-01T13:45:09.788388-04:00.accessibility.json) |
 | [October 1 at 3:43 AM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-01T03:43:30.189339-04:00.accessibility.json) |
 | [September 30 at 2:24 PM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-09-30T14:24:41.396305-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 28 at 1:54 PM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-09-28T13:54:38.700390-04:00.accessibility.json) |
 | [September 28 at 2:17 AM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-09-28T02:17:14.214636-04:00.accessibility.json) |
 | [September 27 at 1:51 PM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-09-27T13:51:41.511033-04:00.accessibility.json) |
-| [September 27 at 2:58 AM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-09-27T02:58:48.435246-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 1:53 AM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-02T01:53:26.444790-04:00.lighthouse.json) |
 | [October 1 at 1:45 PM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-01T13:45:09.788388-04:00.lighthouse.json) |
 | [October 1 at 3:43 AM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-01T03:43:30.189339-04:00.lighthouse.json) |
 | [September 30 at 2:25 PM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-09-30T14:24:41.396305-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 28 at 1:54 PM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-09-28T13:54:38.700390-04:00.lighthouse.json) |
 | [September 28 at 2:17 AM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-09-28T02:17:14.214636-04:00.lighthouse.json) |
 | [September 27 at 1:51 PM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-09-27T13:51:41.511033-04:00.lighthouse.json) |
-| [September 27 at 2:58 AM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-09-27T02:58:48.435246-04:00.lighthouse.json) |
 
 
 

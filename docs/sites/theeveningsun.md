@@ -234,13 +234,49 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 20 screenshots with the Internet Archive.
+The archiving routine has saved 24 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theeveningsun-2022/theeveningsun-2022-10-02T03:14:17.026671-04:00.jpg">
+  <img src="https://archive.org/download/theeveningsun-2022/theeveningsun-2022-10-02T03:14:17.026671-04:00.jpg"
+     alt="Hanover Evening Sun at 2022-10-02 03:14:20-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theeveningsun-2022/theeveningsun-2022-10-02T03:14:17.026671-04:00.jpg">October 2 at 3:14 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theeveningsun-2022/theeveningsun-2022-10-01T15:39:08.058293-04:00.jpg">
+  <img src="https://archive.org/download/theeveningsun-2022/theeveningsun-2022-10-01T15:39:08.058293-04:00.jpg"
+     alt="Hanover Evening Sun at 2022-10-01 15:39:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theeveningsun-2022/theeveningsun-2022-10-01T15:39:08.058293-04:00.jpg">October 1 at 3:39 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theeveningsun-2022/theeveningsun-2022-10-01T03:48:32.855915-04:00.jpg">
+  <img src="https://archive.org/download/theeveningsun-2022/theeveningsun-2022-10-01T03:48:32.855915-04:00.jpg"
+     alt="Hanover Evening Sun at 2022-10-01 03:48:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theeveningsun-2022/theeveningsun-2022-10-01T03:48:32.855915-04:00.jpg">October 1 at 3:48 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-30T15:52:37.193312-04:00.jpg">
+  <img src="https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-30T15:52:37.193312-04:00.jpg"
+     alt="Hanover Evening Sun at 2022-09-30 15:52:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-30T15:52:37.193312-04:00.jpg">September 30 at 3:52 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-30T04:09:52.855440-04:00.jpg">
@@ -314,47 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-26T15:08:26.465831-04:00.jpg">September 26 at 3:08 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-26T03:30:17.981989-04:00.jpg">
-  <img src="https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-26T03:30:17.981989-04:00.jpg"
-     alt="Hanover Evening Sun at 2022-09-26 03:30:20-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-26T03:30:17.981989-04:00.jpg">September 26 at 3:30 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-25T14:46:28.311620-04:00.jpg">
-  <img src="https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-25T14:46:28.311620-04:00.jpg"
-     alt="Hanover Evening Sun at 2022-09-25 14:46:31-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-25T14:46:28.311620-04:00.jpg">September 25 at 2:46 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-25T03:00:01.317744-04:00.jpg">
-  <img src="https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-25T03:00:01.317744-04:00.jpg"
-     alt="Hanover Evening Sun at 2022-09-25 03:00:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-25T03:00:01.317744-04:00.jpg">September 25 at 3:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-24T14:38:06.447824-04:00.jpg">
-  <img src="https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-24T14:38:06.447824-04:00.jpg"
-     alt="Hanover Evening Sun at 2022-09-24 14:38:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-24T14:38:06.447824-04:00.jpg">September 24 at 2:38 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 19 hyperlink lists with the Internet Archive.
+The archiving routine has saved 23 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,21 +362,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 3:14 AM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-10-02T03:14:17.026671-04:00.hyperlinks.json) |
+| [October 1 at 3:39 PM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-10-01T15:39:08.058293-04:00.hyperlinks.json) |
+| [October 1 at 3:48 AM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-10-01T03:48:32.855915-04:00.hyperlinks.json) |
+| [September 30 at 3:52 PM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-30T15:52:37.193312-04:00.hyperlinks.json) |
 | [September 30 at 4:10 AM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-30T04:09:52.855440-04:00.hyperlinks.json) |
 | [September 29 at 2:58 PM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-29T14:58:42.789990-04:00.hyperlinks.json) |
 | [September 29 at 3:31 AM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-29T03:31:05.540697-04:00.hyperlinks.json) |
 | [September 28 at 3:08 PM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-28T15:08:04.278716-04:00.hyperlinks.json) |
 | [September 28 at 3:54 AM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-28T03:54:28.221883-04:00.hyperlinks.json) |
 | [September 27 at 3:04 AM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-27T03:04:12.761001-04:00.hyperlinks.json) |
-| [September 26 at 3:08 PM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-26T15:08:26.465831-04:00.hyperlinks.json) |
-| [September 26 at 3:30 AM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-26T03:30:17.981989-04:00.hyperlinks.json) |
-| [September 25 at 2:46 PM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-25T14:46:28.311620-04:00.hyperlinks.json) |
-| [September 25 at 3:00 AM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-25T03:00:01.317744-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 20 accessibility trees with the Internet Archive.
+The archiving routine has saved 24 accessibility trees with the Internet Archive.
 
 
 
@@ -384,22 +384,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 3:14 AM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-10-02T03:14:17.026671-04:00.accessibility.json) |
+| [October 1 at 3:39 PM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-10-01T15:39:08.058293-04:00.accessibility.json) |
+| [October 1 at 3:48 AM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-10-01T03:48:32.855915-04:00.accessibility.json) |
+| [September 30 at 3:52 PM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-30T15:52:37.193312-04:00.accessibility.json) |
 | [September 30 at 4:09 AM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-30T04:09:52.855440-04:00.accessibility.json) |
 | [September 29 at 2:58 PM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-29T14:58:42.789990-04:00.accessibility.json) |
 | [September 29 at 3:31 AM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-29T03:31:05.540697-04:00.accessibility.json) |
 | [September 28 at 3:08 PM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-28T15:08:04.278716-04:00.accessibility.json) |
 | [September 28 at 3:54 AM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-28T03:54:28.221883-04:00.accessibility.json) |
 | [September 27 at 3:40 PM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-27T15:40:39.795741-04:00.accessibility.json) |
-| [September 27 at 3:04 AM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-27T03:04:12.761001-04:00.accessibility.json) |
-| [September 26 at 3:08 PM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-26T15:08:26.465831-04:00.accessibility.json) |
-| [September 26 at 3:30 AM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-26T03:30:17.981989-04:00.accessibility.json) |
-| [September 25 at 2:46 PM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-25T14:46:28.311620-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,16 +407,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 3:14 AM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-10-02T03:14:17.026671-04:00.lighthouse.json) |
+| [October 1 at 3:39 PM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-10-01T15:39:08.058293-04:00.lighthouse.json) |
+| [October 1 at 3:48 AM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-10-01T03:48:32.855915-04:00.lighthouse.json) |
+| [September 30 at 3:52 PM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-30T15:52:37.193312-04:00.lighthouse.json) |
 | [September 30 at 4:10 AM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-30T04:09:52.855440-04:00.lighthouse.json) |
 | [September 29 at 2:58 PM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-29T14:58:42.789990-04:00.lighthouse.json) |
 | [September 29 at 3:31 AM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-29T03:31:05.540697-04:00.lighthouse.json) |
 | [September 28 at 3:08 PM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-28T15:08:04.278716-04:00.lighthouse.json) |
 | [September 28 at 3:54 AM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-28T03:54:28.221883-04:00.lighthouse.json) |
 | [September 27 at 3:40 PM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-27T15:40:39.795741-04:00.lighthouse.json) |
-| [September 27 at 3:04 AM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-27T03:04:12.761001-04:00.lighthouse.json) |
-| [September 26 at 3:08 PM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-26T15:08:26.465831-04:00.lighthouse.json) |
-| [September 26 at 3:30 AM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-26T03:30:17.981989-04:00.lighthouse.json) |
-| [September 25 at 2:46 PM](https://archive.org/download/theeveningsun-2022/theeveningsun-2022-09-25T14:46:28.311620-04:00.lighthouse.json) |
 
 
 

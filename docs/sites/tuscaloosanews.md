@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 37 screenshots with the Internet Archive.
+The archiving routine has saved 41 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-10-02T02:16:04.200258-05:00.jpg">
+  <img src="https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-10-02T02:16:04.200258-05:00.jpg"
+     alt="Tuscaloosa News at 2022-10-02 02:16:07-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-10-02T02:16:04.200258-05:00.jpg">October 2 at 2:16 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-10-01T14:39:06.940219-05:00.jpg">
+  <img src="https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-10-01T14:39:06.940219-05:00.jpg"
+     alt="Tuscaloosa News at 2022-10-01 14:39:11-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-10-01T14:39:06.940219-05:00.jpg">October 1 at 2:39 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-10-01T02:50:42.113997-05:00.jpg">
+  <img src="https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-10-01T02:50:42.113997-05:00.jpg"
+     alt="Tuscaloosa News at 2022-10-01 02:50:43-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-10-01T02:50:42.113997-05:00.jpg">October 1 at 2:50 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-30T14:54:53.196323-05:00.jpg">
+  <img src="https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-30T14:54:53.196323-05:00.jpg"
+     alt="Tuscaloosa News at 2022-09-30 14:54:56-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-30T14:54:53.196323-05:00.jpg">September 30 at 2:54 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-30T03:12:32.135111-05:00.jpg">
   <img src="https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-30T03:12:32.135111-05:00.jpg"
      alt="Tuscaloosa News at 2022-09-30 03:12:38-05:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-26T14:13:54.547410-05:00.jpg">September 26 at 2:13 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-26T02:32:34.052919-05:00.jpg">
-  <img src="https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-26T02:32:34.052919-05:00.jpg"
-     alt="Tuscaloosa News at 2022-09-26 02:32:39-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-26T02:32:34.052919-05:00.jpg">September 26 at 2:32 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-25T13:47:12.130866-05:00.jpg">
-  <img src="https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-25T13:47:12.130866-05:00.jpg"
-     alt="Tuscaloosa News at 2022-09-25 13:47:13-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-25T13:47:12.130866-05:00.jpg">September 25 at 1:47 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-25T02:01:37.519573-05:00.jpg">
-  <img src="https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-25T02:01:37.519573-05:00.jpg"
-     alt="Tuscaloosa News at 2022-09-25 02:01:39-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-25T02:01:37.519573-05:00.jpg">September 25 at 2:01 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-24T13:40:01.979939-05:00.jpg">
-  <img src="https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-24T13:40:01.979939-05:00.jpg"
-     alt="Tuscaloosa News at 2022-09-24 13:40:03-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-24T13:40:01.979939-05:00.jpg">September 24 at 1:40 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 37 hyperlink lists with the Internet Archive.
+The archiving routine has saved 41 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 2:16 AM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-10-02T02:16:04.200258-05:00.hyperlinks.json) |
+| [October 1 at 2:39 PM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-10-01T14:39:06.940219-05:00.hyperlinks.json) |
+| [October 1 at 2:50 AM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-10-01T02:50:42.113997-05:00.hyperlinks.json) |
+| [September 30 at 2:55 PM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-30T14:54:53.196323-05:00.hyperlinks.json) |
 | [September 30 at 3:12 AM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-30T03:12:32.135111-05:00.hyperlinks.json) |
 | [September 29 at 2:02 PM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-29T14:02:14.863776-05:00.hyperlinks.json) |
 | [September 29 at 2:32 AM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-29T02:32:33.066323-05:00.hyperlinks.json) |
 | [September 28 at 2:11 PM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-28T14:11:17.757566-05:00.hyperlinks.json) |
 | [September 28 at 2:56 AM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-28T02:56:53.321948-05:00.hyperlinks.json) |
 | [September 27 at 2:42 PM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-27T14:42:21.800522-05:00.hyperlinks.json) |
-| [September 27 at 2:05 AM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-27T02:05:23.081993-05:00.hyperlinks.json) |
-| [September 26 at 2:14 PM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-26T14:13:54.547410-05:00.hyperlinks.json) |
-| [September 26 at 2:32 AM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-26T02:32:34.052919-05:00.hyperlinks.json) |
-| [September 25 at 1:47 PM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-25T13:47:12.130866-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 37 accessibility trees with the Internet Archive.
+The archiving routine has saved 41 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 2:16 AM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-10-02T02:16:04.200258-05:00.accessibility.json) |
+| [October 1 at 2:39 PM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-10-01T14:39:06.940219-05:00.accessibility.json) |
+| [October 1 at 2:50 AM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-10-01T02:50:42.113997-05:00.accessibility.json) |
+| [September 30 at 2:54 PM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-30T14:54:53.196323-05:00.accessibility.json) |
 | [September 30 at 3:12 AM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-30T03:12:32.135111-05:00.accessibility.json) |
 | [September 29 at 2:02 PM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-29T14:02:14.863776-05:00.accessibility.json) |
 | [September 29 at 2:32 AM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-29T02:32:33.066323-05:00.accessibility.json) |
 | [September 28 at 2:11 PM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-28T14:11:17.757566-05:00.accessibility.json) |
 | [September 28 at 2:56 AM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-28T02:56:53.321948-05:00.accessibility.json) |
 | [September 27 at 2:42 PM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-27T14:42:21.800522-05:00.accessibility.json) |
-| [September 27 at 2:05 AM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-27T02:05:23.081993-05:00.accessibility.json) |
-| [September 26 at 2:14 PM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-26T14:13:54.547410-05:00.accessibility.json) |
-| [September 26 at 2:32 AM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-26T02:32:34.052919-05:00.accessibility.json) |
-| [September 25 at 1:47 PM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-25T13:47:12.130866-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 37 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 41 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 2:16 AM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-10-02T02:16:04.200258-05:00.lighthouse.json) |
+| [October 1 at 2:39 PM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-10-01T14:39:06.940219-05:00.lighthouse.json) |
+| [October 1 at 2:50 AM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-10-01T02:50:42.113997-05:00.lighthouse.json) |
+| [September 30 at 2:55 PM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-30T14:54:53.196323-05:00.lighthouse.json) |
 | [September 30 at 3:12 AM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-30T03:12:32.135111-05:00.lighthouse.json) |
 | [September 29 at 2:02 PM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-29T14:02:14.863776-05:00.lighthouse.json) |
 | [September 29 at 2:32 AM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-29T02:32:33.066323-05:00.lighthouse.json) |
 | [September 28 at 2:11 PM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-28T14:11:17.757566-05:00.lighthouse.json) |
 | [September 28 at 2:57 AM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-28T02:56:53.321948-05:00.lighthouse.json) |
 | [September 27 at 2:42 PM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-27T14:42:21.800522-05:00.lighthouse.json) |
-| [September 27 at 2:05 AM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-27T02:05:23.081993-05:00.lighthouse.json) |
-| [September 26 at 2:14 PM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-26T14:13:54.547410-05:00.lighthouse.json) |
-| [September 26 at 2:32 AM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-26T02:32:34.052919-05:00.lighthouse.json) |
-| [September 25 at 1:47 PM](https://archive.org/download/tuscaloosanews-2022/tuscaloosanews-2022-09-25T13:47:12.130866-05:00.lighthouse.json) |
 
 
 

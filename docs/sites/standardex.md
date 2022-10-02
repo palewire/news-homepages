@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 94 screenshots with the Internet Archive.
+The archiving routine has saved 98 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/standardex-2022/standardex-2022-10-02T01:13:39.224005-06:00.jpg">
+  <img src="https://archive.org/download/standardex-2022/standardex-2022-10-02T01:13:39.224005-06:00.jpg"
+     alt="Ogden Standard-Examiner at 2022-10-02 01:13:47-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/standardex-2022/standardex-2022-10-02T01:13:39.224005-06:00.jpg">October 2 at 1:13 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/standardex-2022/standardex-2022-10-01T13:36:29.141973-06:00.jpg">
+  <img src="https://archive.org/download/standardex-2022/standardex-2022-10-01T13:36:29.141973-06:00.jpg"
+     alt="Ogden Standard-Examiner at 2022-10-01 13:36:41-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/standardex-2022/standardex-2022-10-01T13:36:29.141973-06:00.jpg">October 1 at 1:36 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/standardex-2022/standardex-2022-10-01T01:47:48.351830-06:00.jpg">
+  <img src="https://archive.org/download/standardex-2022/standardex-2022-10-01T01:47:48.351830-06:00.jpg"
+     alt="Ogden Standard-Examiner at 2022-10-01 01:47:52-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/standardex-2022/standardex-2022-10-01T01:47:48.351830-06:00.jpg">October 1 at 1:47 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/standardex-2022/standardex-2022-09-30T13:50:15.538186-06:00.jpg">
+  <img src="https://archive.org/download/standardex-2022/standardex-2022-09-30T13:50:15.538186-06:00.jpg"
+     alt="Ogden Standard-Examiner at 2022-09-30 13:50:20-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/standardex-2022/standardex-2022-09-30T13:50:15.538186-06:00.jpg">September 30 at 1:50 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/standardex-2022/standardex-2022-09-30T02:07:20.590509-06:00.jpg">
   <img src="https://archive.org/download/standardex-2022/standardex-2022-09-30T02:07:20.590509-06:00.jpg"
      alt="Ogden Standard-Examiner at 2022-09-30 02:07:23-06:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/standardex-2022/standardex-2022-09-26T13:07:03.119025-06:00.jpg">September 26 at 1:07 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/standardex-2022/standardex-2022-09-26T01:28:42.550163-06:00.jpg">
-  <img src="https://archive.org/download/standardex-2022/standardex-2022-09-26T01:28:42.550163-06:00.jpg"
-     alt="Ogden Standard-Examiner at 2022-09-26 01:28:45-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/standardex-2022/standardex-2022-09-26T01:28:42.550163-06:00.jpg">September 26 at 1:28 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/standardex-2022/standardex-2022-09-25T12:45:50.522822-06:00.jpg">
-  <img src="https://archive.org/download/standardex-2022/standardex-2022-09-25T12:45:50.522822-06:00.jpg"
-     alt="Ogden Standard-Examiner at 2022-09-25 12:45:57-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/standardex-2022/standardex-2022-09-25T12:45:50.522822-06:00.jpg">September 25 at 12:45 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/standardex-2022/standardex-2022-09-25T00:58:40.230502-06:00.jpg">
-  <img src="https://archive.org/download/standardex-2022/standardex-2022-09-25T00:58:40.230502-06:00.jpg"
-     alt="Ogden Standard-Examiner at 2022-09-25 00:58:41-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/standardex-2022/standardex-2022-09-25T00:58:40.230502-06:00.jpg">September 25 at 12:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/standardex-2022/standardex-2022-09-24T12:37:04.755339-06:00.jpg">
-  <img src="https://archive.org/download/standardex-2022/standardex-2022-09-24T12:37:04.755339-06:00.jpg"
-     alt="Ogden Standard-Examiner at 2022-09-24 12:37:08-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/standardex-2022/standardex-2022-09-24T12:37:04.755339-06:00.jpg">September 24 at 12:37 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 94 hyperlink lists with the Internet Archive.
+The archiving routine has saved 98 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 1:13 AM](https://archive.org/download/standardex-2022/standardex-2022-10-02T01:13:39.224005-06:00.hyperlinks.json) |
+| [October 1 at 1:36 PM](https://archive.org/download/standardex-2022/standardex-2022-10-01T13:36:29.141973-06:00.hyperlinks.json) |
+| [October 1 at 1:47 AM](https://archive.org/download/standardex-2022/standardex-2022-10-01T01:47:48.351830-06:00.hyperlinks.json) |
+| [September 30 at 1:50 PM](https://archive.org/download/standardex-2022/standardex-2022-09-30T13:50:15.538186-06:00.hyperlinks.json) |
 | [September 30 at 2:07 AM](https://archive.org/download/standardex-2022/standardex-2022-09-30T02:07:20.590509-06:00.hyperlinks.json) |
 | [September 29 at 12:56 PM](https://archive.org/download/standardex-2022/standardex-2022-09-29T12:56:27.264760-06:00.hyperlinks.json) |
 | [September 29 at 1:28 AM](https://archive.org/download/standardex-2022/standardex-2022-09-29T01:28:48.039553-06:00.hyperlinks.json) |
 | [September 28 at 1:03 PM](https://archive.org/download/standardex-2022/standardex-2022-09-28T13:03:39.531578-06:00.hyperlinks.json) |
 | [September 28 at 1:51 AM](https://archive.org/download/standardex-2022/standardex-2022-09-28T01:51:38.811630-06:00.hyperlinks.json) |
 | [September 27 at 1:40 PM](https://archive.org/download/standardex-2022/standardex-2022-09-27T13:39:59.860629-06:00.hyperlinks.json) |
-| [September 27 at 1:02 AM](https://archive.org/download/standardex-2022/standardex-2022-09-27T01:02:14.903979-06:00.hyperlinks.json) |
-| [September 26 at 1:07 PM](https://archive.org/download/standardex-2022/standardex-2022-09-26T13:07:03.119025-06:00.hyperlinks.json) |
-| [September 26 at 1:28 AM](https://archive.org/download/standardex-2022/standardex-2022-09-26T01:28:42.550163-06:00.hyperlinks.json) |
-| [September 25 at 12:46 PM](https://archive.org/download/standardex-2022/standardex-2022-09-25T12:45:50.522822-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 94 accessibility trees with the Internet Archive.
+The archiving routine has saved 98 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 1:13 AM](https://archive.org/download/standardex-2022/standardex-2022-10-02T01:13:39.224005-06:00.accessibility.json) |
+| [October 1 at 1:36 PM](https://archive.org/download/standardex-2022/standardex-2022-10-01T13:36:29.141973-06:00.accessibility.json) |
+| [October 1 at 1:47 AM](https://archive.org/download/standardex-2022/standardex-2022-10-01T01:47:48.351830-06:00.accessibility.json) |
+| [September 30 at 1:50 PM](https://archive.org/download/standardex-2022/standardex-2022-09-30T13:50:15.538186-06:00.accessibility.json) |
 | [September 30 at 2:07 AM](https://archive.org/download/standardex-2022/standardex-2022-09-30T02:07:20.590509-06:00.accessibility.json) |
 | [September 29 at 12:56 PM](https://archive.org/download/standardex-2022/standardex-2022-09-29T12:56:27.264760-06:00.accessibility.json) |
 | [September 29 at 1:28 AM](https://archive.org/download/standardex-2022/standardex-2022-09-29T01:28:48.039553-06:00.accessibility.json) |
 | [September 28 at 1:03 PM](https://archive.org/download/standardex-2022/standardex-2022-09-28T13:03:39.531578-06:00.accessibility.json) |
 | [September 28 at 1:51 AM](https://archive.org/download/standardex-2022/standardex-2022-09-28T01:51:38.811630-06:00.accessibility.json) |
 | [September 27 at 1:40 PM](https://archive.org/download/standardex-2022/standardex-2022-09-27T13:39:59.860629-06:00.accessibility.json) |
-| [September 27 at 1:02 AM](https://archive.org/download/standardex-2022/standardex-2022-09-27T01:02:14.903979-06:00.accessibility.json) |
-| [September 26 at 1:07 PM](https://archive.org/download/standardex-2022/standardex-2022-09-26T13:07:03.119025-06:00.accessibility.json) |
-| [September 26 at 1:28 AM](https://archive.org/download/standardex-2022/standardex-2022-09-26T01:28:42.550163-06:00.accessibility.json) |
-| [September 25 at 12:46 PM](https://archive.org/download/standardex-2022/standardex-2022-09-25T12:45:50.522822-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 94 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 1:13 AM](https://archive.org/download/standardex-2022/standardex-2022-10-02T01:13:39.224005-06:00.lighthouse.json) |
+| [October 1 at 1:36 PM](https://archive.org/download/standardex-2022/standardex-2022-10-01T13:36:29.141973-06:00.lighthouse.json) |
+| [October 1 at 1:47 AM](https://archive.org/download/standardex-2022/standardex-2022-10-01T01:47:48.351830-06:00.lighthouse.json) |
+| [September 30 at 1:50 PM](https://archive.org/download/standardex-2022/standardex-2022-09-30T13:50:15.538186-06:00.lighthouse.json) |
 | [September 30 at 2:07 AM](https://archive.org/download/standardex-2022/standardex-2022-09-30T02:07:20.590509-06:00.lighthouse.json) |
 | [September 29 at 12:56 PM](https://archive.org/download/standardex-2022/standardex-2022-09-29T12:56:27.264760-06:00.lighthouse.json) |
 | [September 29 at 1:28 AM](https://archive.org/download/standardex-2022/standardex-2022-09-29T01:28:48.039553-06:00.lighthouse.json) |
 | [September 28 at 1:03 PM](https://archive.org/download/standardex-2022/standardex-2022-09-28T13:03:39.531578-06:00.lighthouse.json) |
 | [September 28 at 1:51 AM](https://archive.org/download/standardex-2022/standardex-2022-09-28T01:51:38.811630-06:00.lighthouse.json) |
 | [September 27 at 1:40 PM](https://archive.org/download/standardex-2022/standardex-2022-09-27T13:39:59.860629-06:00.lighthouse.json) |
-| [September 27 at 1:02 AM](https://archive.org/download/standardex-2022/standardex-2022-09-27T01:02:14.903979-06:00.lighthouse.json) |
-| [September 26 at 1:07 PM](https://archive.org/download/standardex-2022/standardex-2022-09-26T13:07:03.119025-06:00.lighthouse.json) |
-| [September 26 at 1:28 AM](https://archive.org/download/standardex-2022/standardex-2022-09-26T01:28:42.550163-06:00.lighthouse.json) |
-| [September 25 at 12:46 PM](https://archive.org/download/standardex-2022/standardex-2022-09-25T12:45:50.522822-06:00.lighthouse.json) |
 
 
 

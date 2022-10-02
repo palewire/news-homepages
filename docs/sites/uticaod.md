@@ -234,13 +234,49 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 20 screenshots with the Internet Archive.
+The archiving routine has saved 24 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/uticaod-2022/uticaod-2022-10-02T03:16:16.535507-04:00.jpg">
+  <img src="https://archive.org/download/uticaod-2022/uticaod-2022-10-02T03:16:16.535507-04:00.jpg"
+     alt="Utica Observer-Dispatch at 2022-10-02 03:16:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/uticaod-2022/uticaod-2022-10-02T03:16:16.535507-04:00.jpg">October 2 at 3:16 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/uticaod-2022/uticaod-2022-10-01T15:40:31.446017-04:00.jpg">
+  <img src="https://archive.org/download/uticaod-2022/uticaod-2022-10-01T15:40:31.446017-04:00.jpg"
+     alt="Utica Observer-Dispatch at 2022-10-01 15:40:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/uticaod-2022/uticaod-2022-10-01T15:40:31.446017-04:00.jpg">October 1 at 3:40 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/uticaod-2022/uticaod-2022-10-01T03:50:46.297640-04:00.jpg">
+  <img src="https://archive.org/download/uticaod-2022/uticaod-2022-10-01T03:50:46.297640-04:00.jpg"
+     alt="Utica Observer-Dispatch at 2022-10-01 03:50:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/uticaod-2022/uticaod-2022-10-01T03:50:46.297640-04:00.jpg">October 1 at 3:50 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/uticaod-2022/uticaod-2022-09-30T15:55:08.107623-04:00.jpg">
+  <img src="https://archive.org/download/uticaod-2022/uticaod-2022-09-30T15:55:08.107623-04:00.jpg"
+     alt="Utica Observer-Dispatch at 2022-09-30 15:55:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/uticaod-2022/uticaod-2022-09-30T15:55:08.107623-04:00.jpg">September 30 at 3:55 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/uticaod-2022/uticaod-2022-09-30T04:12:34.891084-04:00.jpg">
@@ -314,47 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/uticaod-2022/uticaod-2022-09-26T15:12:21.758874-04:00.jpg">September 26 at 3:12 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/uticaod-2022/uticaod-2022-09-26T03:32:32.670141-04:00.jpg">
-  <img src="https://archive.org/download/uticaod-2022/uticaod-2022-09-26T03:32:32.670141-04:00.jpg"
-     alt="Utica Observer-Dispatch at 2022-09-26 03:32:34-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/uticaod-2022/uticaod-2022-09-26T03:32:32.670141-04:00.jpg">September 26 at 3:32 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/uticaod-2022/uticaod-2022-09-25T14:47:49.130581-04:00.jpg">
-  <img src="https://archive.org/download/uticaod-2022/uticaod-2022-09-25T14:47:49.130581-04:00.jpg"
-     alt="Utica Observer-Dispatch at 2022-09-25 14:47:51-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/uticaod-2022/uticaod-2022-09-25T14:47:49.130581-04:00.jpg">September 25 at 2:47 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/uticaod-2022/uticaod-2022-09-25T03:02:06.850430-04:00.jpg">
-  <img src="https://archive.org/download/uticaod-2022/uticaod-2022-09-25T03:02:06.850430-04:00.jpg"
-     alt="Utica Observer-Dispatch at 2022-09-25 03:02:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/uticaod-2022/uticaod-2022-09-25T03:02:06.850430-04:00.jpg">September 25 at 3:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/uticaod-2022/uticaod-2022-09-24T14:39:42.750505-04:00.jpg">
-  <img src="https://archive.org/download/uticaod-2022/uticaod-2022-09-24T14:39:42.750505-04:00.jpg"
-     alt="Utica Observer-Dispatch at 2022-09-24 14:39:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/uticaod-2022/uticaod-2022-09-24T14:39:42.750505-04:00.jpg">September 24 at 2:39 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 20 hyperlink lists with the Internet Archive.
+The archiving routine has saved 24 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,21 +362,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 3:16 AM](https://archive.org/download/uticaod-2022/uticaod-2022-10-02T03:16:16.535507-04:00.hyperlinks.json) |
+| [October 1 at 3:40 PM](https://archive.org/download/uticaod-2022/uticaod-2022-10-01T15:40:31.446017-04:00.hyperlinks.json) |
+| [October 1 at 3:50 AM](https://archive.org/download/uticaod-2022/uticaod-2022-10-01T03:50:46.297640-04:00.hyperlinks.json) |
+| [September 30 at 3:55 PM](https://archive.org/download/uticaod-2022/uticaod-2022-09-30T15:55:08.107623-04:00.hyperlinks.json) |
 | [September 30 at 4:12 AM](https://archive.org/download/uticaod-2022/uticaod-2022-09-30T04:12:34.891084-04:00.hyperlinks.json) |
 | [September 29 at 3:02 PM](https://archive.org/download/uticaod-2022/uticaod-2022-09-29T15:02:13.831510-04:00.hyperlinks.json) |
 | [September 29 at 3:32 AM](https://archive.org/download/uticaod-2022/uticaod-2022-09-29T03:32:26.157800-04:00.hyperlinks.json) |
 | [September 28 at 3:09 PM](https://archive.org/download/uticaod-2022/uticaod-2022-09-28T15:09:35.095344-04:00.hyperlinks.json) |
 | [September 28 at 3:56 AM](https://archive.org/download/uticaod-2022/uticaod-2022-09-28T03:56:31.382736-04:00.hyperlinks.json) |
 | [September 27 at 3:43 PM](https://archive.org/download/uticaod-2022/uticaod-2022-09-27T15:43:42.908236-04:00.hyperlinks.json) |
-| [September 27 at 3:05 AM](https://archive.org/download/uticaod-2022/uticaod-2022-09-27T03:05:35.456263-04:00.hyperlinks.json) |
-| [September 26 at 3:12 PM](https://archive.org/download/uticaod-2022/uticaod-2022-09-26T15:12:21.758874-04:00.hyperlinks.json) |
-| [September 26 at 3:32 AM](https://archive.org/download/uticaod-2022/uticaod-2022-09-26T03:32:32.670141-04:00.hyperlinks.json) |
-| [September 25 at 2:47 PM](https://archive.org/download/uticaod-2022/uticaod-2022-09-25T14:47:49.130581-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 20 accessibility trees with the Internet Archive.
+The archiving routine has saved 24 accessibility trees with the Internet Archive.
 
 
 
@@ -384,22 +384,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 3:16 AM](https://archive.org/download/uticaod-2022/uticaod-2022-10-02T03:16:16.535507-04:00.accessibility.json) |
+| [October 1 at 3:40 PM](https://archive.org/download/uticaod-2022/uticaod-2022-10-01T15:40:31.446017-04:00.accessibility.json) |
+| [October 1 at 3:50 AM](https://archive.org/download/uticaod-2022/uticaod-2022-10-01T03:50:46.297640-04:00.accessibility.json) |
+| [September 30 at 3:55 PM](https://archive.org/download/uticaod-2022/uticaod-2022-09-30T15:55:08.107623-04:00.accessibility.json) |
 | [September 30 at 4:12 AM](https://archive.org/download/uticaod-2022/uticaod-2022-09-30T04:12:34.891084-04:00.accessibility.json) |
 | [September 29 at 3:02 PM](https://archive.org/download/uticaod-2022/uticaod-2022-09-29T15:02:13.831510-04:00.accessibility.json) |
 | [September 29 at 3:32 AM](https://archive.org/download/uticaod-2022/uticaod-2022-09-29T03:32:26.157800-04:00.accessibility.json) |
 | [September 28 at 3:09 PM](https://archive.org/download/uticaod-2022/uticaod-2022-09-28T15:09:35.095344-04:00.accessibility.json) |
 | [September 28 at 3:56 AM](https://archive.org/download/uticaod-2022/uticaod-2022-09-28T03:56:31.382736-04:00.accessibility.json) |
 | [September 27 at 3:43 PM](https://archive.org/download/uticaod-2022/uticaod-2022-09-27T15:43:42.908236-04:00.accessibility.json) |
-| [September 27 at 3:05 AM](https://archive.org/download/uticaod-2022/uticaod-2022-09-27T03:05:35.456263-04:00.accessibility.json) |
-| [September 26 at 3:12 PM](https://archive.org/download/uticaod-2022/uticaod-2022-09-26T15:12:21.758874-04:00.accessibility.json) |
-| [September 26 at 3:32 AM](https://archive.org/download/uticaod-2022/uticaod-2022-09-26T03:32:32.670141-04:00.accessibility.json) |
-| [September 25 at 2:47 PM](https://archive.org/download/uticaod-2022/uticaod-2022-09-25T14:47:49.130581-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,16 +407,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 3:16 AM](https://archive.org/download/uticaod-2022/uticaod-2022-10-02T03:16:16.535507-04:00.lighthouse.json) |
+| [October 1 at 3:40 PM](https://archive.org/download/uticaod-2022/uticaod-2022-10-01T15:40:31.446017-04:00.lighthouse.json) |
+| [October 1 at 3:50 AM](https://archive.org/download/uticaod-2022/uticaod-2022-10-01T03:50:46.297640-04:00.lighthouse.json) |
+| [September 30 at 3:55 PM](https://archive.org/download/uticaod-2022/uticaod-2022-09-30T15:55:08.107623-04:00.lighthouse.json) |
 | [September 30 at 4:12 AM](https://archive.org/download/uticaod-2022/uticaod-2022-09-30T04:12:34.891084-04:00.lighthouse.json) |
 | [September 29 at 3:02 PM](https://archive.org/download/uticaod-2022/uticaod-2022-09-29T15:02:13.831510-04:00.lighthouse.json) |
 | [September 29 at 3:32 AM](https://archive.org/download/uticaod-2022/uticaod-2022-09-29T03:32:26.157800-04:00.lighthouse.json) |
 | [September 28 at 3:09 PM](https://archive.org/download/uticaod-2022/uticaod-2022-09-28T15:09:35.095344-04:00.lighthouse.json) |
 | [September 28 at 3:56 AM](https://archive.org/download/uticaod-2022/uticaod-2022-09-28T03:56:31.382736-04:00.lighthouse.json) |
 | [September 27 at 3:43 PM](https://archive.org/download/uticaod-2022/uticaod-2022-09-27T15:43:42.908236-04:00.lighthouse.json) |
-| [September 27 at 3:05 AM](https://archive.org/download/uticaod-2022/uticaod-2022-09-27T03:05:35.456263-04:00.lighthouse.json) |
-| [September 26 at 3:12 PM](https://archive.org/download/uticaod-2022/uticaod-2022-09-26T15:12:21.758874-04:00.lighthouse.json) |
-| [September 26 at 3:32 AM](https://archive.org/download/uticaod-2022/uticaod-2022-09-26T03:32:32.670141-04:00.lighthouse.json) |
-| [September 25 at 2:47 PM](https://archive.org/download/uticaod-2022/uticaod-2022-09-25T14:47:49.130581-04:00.lighthouse.json) |
 
 
 

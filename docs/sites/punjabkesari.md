@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 126 screenshots with the Internet Archive.
+The archiving routine has saved 133 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,69 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-10-02T12:52:49.267199+05:30.jpg">
+  <img src="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-10-02T12:52:49.267199+05:30.jpg"
+     alt="Punjab Kesari at 2022-10-02 12:52:51+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-10-02T12:52:49.267199+05:30.jpg">October 2 at 12:52 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-10-02T00:37:48.136285+05:30.jpg">
+  <img src="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-10-02T00:37:48.136285+05:30.jpg"
+     alt="Punjab Kesari at 2022-10-02 00:37:55+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-10-02T00:37:48.136285+05:30.jpg">October 2 at 12:37 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-10-01T13:28:48.369307+05:30.jpg">
+  <img src="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-10-01T13:28:48.369307+05:30.jpg"
+     alt="Punjab Kesari at 2022-10-01 13:28:53+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-10-01T13:28:48.369307+05:30.jpg">October 1 at 1:28 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-10-01T01:44:54.873473+05:30.jpg">
+  <img src="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-10-01T01:44:54.873473+05:30.jpg"
+     alt="Punjab Kesari at 2022-10-01 01:44:59+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-10-01T01:44:54.873473+05:30.jpg">October 1 at 1:44 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-30T13:34:53.460102+05:30.jpg">
+  <img src="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-30T13:34:53.460102+05:30.jpg"
+     alt="Punjab Kesari at 2022-09-30 13:34:59+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-30T13:34:53.460102+05:30.jpg">September 30 at 1:34 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-30T01:02:33.606152+05:30.jpg">
+  <img src="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-30T01:02:33.606152+05:30.jpg"
+     alt="Punjab Kesari at 2022-09-30 01:02:41+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-30T01:02:33.606152+05:30.jpg">September 30 at 1:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-29T13:07:56.235910+05:30.jpg">
+  <img src="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-29T13:07:56.235910+05:30.jpg"
+     alt="Punjab Kesari at 2022-09-29 13:08:03+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-29T13:07:56.235910+05:30.jpg">September 29 at 1:08 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-29T01:08:22.152239+05:30.jpg">
   <img src="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-29T01:08:22.152239+05:30.jpg"
      alt="Punjab Kesari at 2022-09-29 01:08:28+05:30 local time"
@@ -370,74 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-27T00:58:42.861750+05:30.jpg">September 27 at 12:58 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-26T13:14:56.470349+05:30.jpg">
-  <img src="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-26T13:14:56.470349+05:30.jpg"
-     alt="Punjab Kesari at 2022-09-26 13:15:06+05:30 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-26T13:14:56.470349+05:30.jpg">September 26 at 1:15 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-26T00:02:27.859066+05:30.jpg">
-  <img src="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-26T00:02:27.859066+05:30.jpg"
-     alt="Punjab Kesari at 2022-09-26 00:02:46+05:30 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-26T00:02:27.859066+05:30.jpg">September 26 at 12:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-25T12:25:51.967599+05:30.jpg">
-  <img src="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-25T12:25:51.967599+05:30.jpg"
-     alt="Punjab Kesari at 2022-09-25 12:26:08+05:30 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-25T12:25:51.967599+05:30.jpg">September 25 at 12:26 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-25T00:03:16.234666+05:30.jpg">
-  <img src="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-25T00:03:16.234666+05:30.jpg"
-     alt="Punjab Kesari at 2022-09-25 00:03:22+05:30 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-25T00:03:16.234666+05:30.jpg">September 25 at 12:03 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-24T12:27:45.431427+05:30.jpg">
-  <img src="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-24T12:27:45.431427+05:30.jpg"
-     alt="Punjab Kesari at 2022-09-24 12:27:50+05:30 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-24T12:27:45.431427+05:30.jpg">September 24 at 12:27 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-24T00:22:54.735489+05:30.jpg">
-  <img src="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-24T00:22:54.735489+05:30.jpg"
-     alt="Punjab Kesari at 2022-09-24 00:23:00+05:30 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-24T00:22:54.735489+05:30.jpg">September 24 at 12:23 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-23T12:50:45.073006+05:30.jpg">
-  <img src="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-23T12:50:45.073006+05:30.jpg"
-     alt="Punjab Kesari at 2022-09-23 12:50:50+05:30 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-23T12:50:45.073006+05:30.jpg">September 23 at 12:50 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 123 hyperlink lists with the Internet Archive.
+The archiving routine has saved 130 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 12:52 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-10-02T12:52:49.267199+05:30.hyperlinks.json) |
+| [October 2 at 12:37 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-10-02T00:37:48.136285+05:30.hyperlinks.json) |
+| [October 1 at 1:28 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-10-01T13:28:48.369307+05:30.hyperlinks.json) |
+| [October 1 at 1:45 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-10-01T01:44:54.873473+05:30.hyperlinks.json) |
+| [September 30 at 1:35 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-30T13:34:53.460102+05:30.hyperlinks.json) |
+| [September 30 at 1:02 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-30T01:02:33.606152+05:30.hyperlinks.json) |
+| [September 29 at 1:08 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-29T13:07:56.235910+05:30.hyperlinks.json) |
 | [September 29 at 1:08 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-29T01:08:22.152239+05:30.hyperlinks.json) |
 | [September 28 at 1:20 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-28T13:20:11.181343+05:30.hyperlinks.json) |
 | [September 28 at 12:42 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-28T00:42:23.611300+05:30.hyperlinks.json) |
-| [September 27 at 12:40 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-27T12:40:05.673475+05:30.hyperlinks.json) |
-| [September 27 at 12:58 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-27T00:58:42.861750+05:30.hyperlinks.json) |
-| [September 26 at 1:15 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-26T13:14:56.470349+05:30.hyperlinks.json) |
-| [September 26 at 12:02 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-26T00:02:27.859066+05:30.hyperlinks.json) |
-| [September 25 at 12:26 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-25T12:25:51.967599+05:30.hyperlinks.json) |
-| [September 25 at 12:03 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-25T00:03:16.234666+05:30.hyperlinks.json) |
-| [September 24 at 12:27 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-24T12:27:45.431427+05:30.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 126 accessibility trees with the Internet Archive.
+The archiving routine has saved 133 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 12:52 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-10-02T12:52:49.267199+05:30.accessibility.json) |
+| [October 2 at 12:37 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-10-02T00:37:48.136285+05:30.accessibility.json) |
+| [October 1 at 1:28 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-10-01T13:28:48.369307+05:30.accessibility.json) |
+| [October 1 at 1:45 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-10-01T01:44:54.873473+05:30.accessibility.json) |
+| [September 30 at 1:35 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-30T13:34:53.460102+05:30.accessibility.json) |
+| [September 30 at 1:02 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-30T01:02:33.606152+05:30.accessibility.json) |
+| [September 29 at 1:08 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-29T13:07:56.235910+05:30.accessibility.json) |
 | [September 29 at 1:08 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-29T01:08:22.152239+05:30.accessibility.json) |
 | [September 28 at 1:20 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-28T13:20:11.181343+05:30.accessibility.json) |
 | [September 28 at 12:42 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-28T00:42:23.611300+05:30.accessibility.json) |
-| [September 27 at 12:40 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-27T12:40:05.673475+05:30.accessibility.json) |
-| [September 27 at 12:58 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-27T00:58:42.861750+05:30.accessibility.json) |
-| [September 26 at 1:15 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-26T13:14:56.470349+05:30.accessibility.json) |
-| [September 26 at 12:02 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-26T00:02:27.859066+05:30.accessibility.json) |
-| [September 25 at 12:26 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-25T12:25:51.967599+05:30.accessibility.json) |
-| [September 25 at 12:03 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-25T00:03:16.234666+05:30.accessibility.json) |
-| [September 24 at 12:27 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-24T12:27:45.431427+05:30.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 126 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 12:52 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-10-02T12:52:49.267199+05:30.lighthouse.json) |
+| [October 2 at 12:38 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-10-02T00:37:48.136285+05:30.lighthouse.json) |
+| [October 1 at 1:29 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-10-01T13:28:48.369307+05:30.lighthouse.json) |
+| [October 1 at 1:45 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-10-01T01:44:54.873473+05:30.lighthouse.json) |
+| [September 30 at 1:35 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-30T13:34:53.460102+05:30.lighthouse.json) |
+| [September 30 at 1:02 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-30T01:02:33.606152+05:30.lighthouse.json) |
+| [September 29 at 1:08 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-29T13:07:56.235910+05:30.lighthouse.json) |
 | [September 29 at 1:08 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-29T01:08:22.152239+05:30.lighthouse.json) |
 | [September 28 at 1:20 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-28T13:20:11.181343+05:30.lighthouse.json) |
 | [September 28 at 12:42 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-28T00:42:23.611300+05:30.lighthouse.json) |
-| [September 27 at 12:40 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-27T12:40:05.673475+05:30.lighthouse.json) |
-| [September 27 at 12:58 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-27T00:58:42.861750+05:30.lighthouse.json) |
-| [September 26 at 1:15 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-26T13:14:56.470349+05:30.lighthouse.json) |
-| [September 26 at 12:02 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-26T00:02:27.859066+05:30.lighthouse.json) |
-| [September 25 at 12:26 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-25T12:25:51.967599+05:30.lighthouse.json) |
-| [September 25 at 12:03 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-25T00:03:16.234666+05:30.lighthouse.json) |
-| [September 24 at 12:27 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-24T12:27:45.431427+05:30.lighthouse.json) |
 
 
 

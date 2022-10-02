@@ -234,13 +234,49 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 19 screenshots with the Internet Archive.
+The archiving routine has saved 23 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/therecordherald-2022/therecordherald-2022-10-02T03:16:33.544418-04:00.jpg">
+  <img src="https://archive.org/download/therecordherald-2022/therecordherald-2022-10-02T03:16:33.544418-04:00.jpg"
+     alt="Waynesboro Record Herald at 2022-10-02 03:16:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/therecordherald-2022/therecordherald-2022-10-02T03:16:33.544418-04:00.jpg">October 2 at 3:16 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/therecordherald-2022/therecordherald-2022-10-01T15:39:10.332391-04:00.jpg">
+  <img src="https://archive.org/download/therecordherald-2022/therecordherald-2022-10-01T15:39:10.332391-04:00.jpg"
+     alt="Waynesboro Record Herald at 2022-10-01 15:39:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/therecordherald-2022/therecordherald-2022-10-01T15:39:10.332391-04:00.jpg">October 1 at 3:39 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/therecordherald-2022/therecordherald-2022-10-01T03:51:39.492098-04:00.jpg">
+  <img src="https://archive.org/download/therecordherald-2022/therecordherald-2022-10-01T03:51:39.492098-04:00.jpg"
+     alt="Waynesboro Record Herald at 2022-10-01 03:51:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/therecordherald-2022/therecordherald-2022-10-01T03:51:39.492098-04:00.jpg">October 1 at 3:51 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/therecordherald-2022/therecordherald-2022-09-30T15:52:57.766073-04:00.jpg">
+  <img src="https://archive.org/download/therecordherald-2022/therecordherald-2022-09-30T15:52:57.766073-04:00.jpg"
+     alt="Waynesboro Record Herald at 2022-09-30 15:53:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/therecordherald-2022/therecordherald-2022-09-30T15:52:57.766073-04:00.jpg">September 30 at 3:53 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/therecordherald-2022/therecordherald-2022-09-30T04:10:22.126258-04:00.jpg">
@@ -314,47 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/therecordherald-2022/therecordherald-2022-09-26T03:31:13.180595-04:00.jpg">September 26 at 3:31 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/therecordherald-2022/therecordherald-2022-09-25T14:46:59.076364-04:00.jpg">
-  <img src="https://archive.org/download/therecordherald-2022/therecordherald-2022-09-25T14:46:59.076364-04:00.jpg"
-     alt="Waynesboro Record Herald at 2022-09-25 14:47:01-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/therecordherald-2022/therecordherald-2022-09-25T14:46:59.076364-04:00.jpg">September 25 at 2:47 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/therecordherald-2022/therecordherald-2022-09-25T03:00:50.430292-04:00.jpg">
-  <img src="https://archive.org/download/therecordherald-2022/therecordherald-2022-09-25T03:00:50.430292-04:00.jpg"
-     alt="Waynesboro Record Herald at 2022-09-25 03:00:52-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/therecordherald-2022/therecordherald-2022-09-25T03:00:50.430292-04:00.jpg">September 25 at 3:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/therecordherald-2022/therecordherald-2022-09-24T14:40:09.268910-04:00.jpg">
-  <img src="https://archive.org/download/therecordherald-2022/therecordherald-2022-09-24T14:40:09.268910-04:00.jpg"
-     alt="Waynesboro Record Herald at 2022-09-24 14:40:10-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/therecordherald-2022/therecordherald-2022-09-24T14:40:09.268910-04:00.jpg">September 24 at 2:40 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/therecordherald-2022/therecordherald-2022-09-24T03:01:41.988710-04:00.jpg">
-  <img src="https://archive.org/download/therecordherald-2022/therecordherald-2022-09-24T03:01:41.988710-04:00.jpg"
-     alt="Waynesboro Record Herald at 2022-09-24 03:01:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/therecordherald-2022/therecordherald-2022-09-24T03:01:41.988710-04:00.jpg">September 24 at 3:01 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 19 hyperlink lists with the Internet Archive.
+The archiving routine has saved 23 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,21 +362,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 3:16 AM](https://archive.org/download/therecordherald-2022/therecordherald-2022-10-02T03:16:33.544418-04:00.hyperlinks.json) |
+| [October 1 at 3:39 PM](https://archive.org/download/therecordherald-2022/therecordherald-2022-10-01T15:39:10.332391-04:00.hyperlinks.json) |
+| [October 1 at 3:51 AM](https://archive.org/download/therecordherald-2022/therecordherald-2022-10-01T03:51:39.492098-04:00.hyperlinks.json) |
+| [September 30 at 3:53 PM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-30T15:52:57.766073-04:00.hyperlinks.json) |
 | [September 30 at 4:10 AM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-30T04:10:22.126258-04:00.hyperlinks.json) |
 | [September 29 at 2:59 PM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-29T14:59:48.476564-04:00.hyperlinks.json) |
 | [September 28 at 3:08 PM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-28T15:08:21.572096-04:00.hyperlinks.json) |
 | [September 28 at 3:56 AM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-28T03:56:00.993959-04:00.hyperlinks.json) |
 | [September 27 at 3:42 PM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-27T15:42:34.224466-04:00.hyperlinks.json) |
 | [September 27 at 3:05 AM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-27T03:04:56.953174-04:00.hyperlinks.json) |
-| [September 26 at 3:12 PM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-26T15:12:03.423485-04:00.hyperlinks.json) |
-| [September 26 at 3:31 AM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-26T03:31:13.180595-04:00.hyperlinks.json) |
-| [September 25 at 2:47 PM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-25T14:46:59.076364-04:00.hyperlinks.json) |
-| [September 25 at 3:00 AM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-25T03:00:50.430292-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 19 accessibility trees with the Internet Archive.
+The archiving routine has saved 23 accessibility trees with the Internet Archive.
 
 
 
@@ -384,22 +384,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 3:16 AM](https://archive.org/download/therecordherald-2022/therecordherald-2022-10-02T03:16:33.544418-04:00.accessibility.json) |
+| [October 1 at 3:39 PM](https://archive.org/download/therecordherald-2022/therecordherald-2022-10-01T15:39:10.332391-04:00.accessibility.json) |
+| [October 1 at 3:51 AM](https://archive.org/download/therecordherald-2022/therecordherald-2022-10-01T03:51:39.492098-04:00.accessibility.json) |
+| [September 30 at 3:53 PM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-30T15:52:57.766073-04:00.accessibility.json) |
 | [September 30 at 4:10 AM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-30T04:10:22.126258-04:00.accessibility.json) |
 | [September 29 at 2:59 PM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-29T14:59:48.476564-04:00.accessibility.json) |
 | [September 28 at 3:08 PM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-28T15:08:21.572096-04:00.accessibility.json) |
 | [September 28 at 3:56 AM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-28T03:56:00.993959-04:00.accessibility.json) |
 | [September 27 at 3:42 PM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-27T15:42:34.224466-04:00.accessibility.json) |
 | [September 27 at 3:05 AM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-27T03:04:56.953174-04:00.accessibility.json) |
-| [September 26 at 3:12 PM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-26T15:12:03.423485-04:00.accessibility.json) |
-| [September 26 at 3:31 AM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-26T03:31:13.180595-04:00.accessibility.json) |
-| [September 25 at 2:47 PM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-25T14:46:59.076364-04:00.accessibility.json) |
-| [September 25 at 3:00 AM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-25T03:00:50.430292-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,16 +407,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 3:16 AM](https://archive.org/download/therecordherald-2022/therecordherald-2022-10-02T03:16:33.544418-04:00.lighthouse.json) |
+| [October 1 at 3:39 PM](https://archive.org/download/therecordherald-2022/therecordherald-2022-10-01T15:39:10.332391-04:00.lighthouse.json) |
+| [October 1 at 3:51 AM](https://archive.org/download/therecordherald-2022/therecordherald-2022-10-01T03:51:39.492098-04:00.lighthouse.json) |
+| [September 30 at 3:53 PM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-30T15:52:57.766073-04:00.lighthouse.json) |
 | [September 30 at 4:10 AM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-30T04:10:22.126258-04:00.lighthouse.json) |
 | [September 29 at 2:59 PM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-29T14:59:48.476564-04:00.lighthouse.json) |
 | [September 28 at 3:08 PM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-28T15:08:21.572096-04:00.lighthouse.json) |
 | [September 28 at 3:56 AM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-28T03:56:00.993959-04:00.lighthouse.json) |
 | [September 27 at 3:42 PM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-27T15:42:34.224466-04:00.lighthouse.json) |
 | [September 27 at 3:05 AM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-27T03:04:56.953174-04:00.lighthouse.json) |
-| [September 26 at 3:12 PM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-26T15:12:03.423485-04:00.lighthouse.json) |
-| [September 26 at 3:31 AM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-26T03:31:13.180595-04:00.lighthouse.json) |
-| [September 25 at 2:47 PM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-25T14:46:59.076364-04:00.lighthouse.json) |
-| [September 25 at 3:01 AM](https://archive.org/download/therecordherald-2022/therecordherald-2022-09-25T03:00:50.430292-04:00.lighthouse.json) |
 
 
 

@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 119 screenshots with the Internet Archive.
+The archiving routine has saved 120 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 119 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wgrz-2022/wgrz-2022-10-02T01:51:22.011246-04:00.jpg">
+  <img src="https://archive.org/download/wgrz-2022/wgrz-2022-10-02T01:51:22.011246-04:00.jpg"
+     alt="WGRZ at 2022-10-02 01:51:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-10-02T01:51:22.011246-04:00.jpg">October 2 at 1:51 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wgrz-2022/wgrz-2022-10-01T12:12:44.755817-04:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-26T12:10:06.351632-04:00.jpg">September 26 at 12:10 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-26T00:50:04.890185-04:00.jpg">
-  <img src="https://archive.org/download/wgrz-2022/wgrz-2022-09-26T00:50:04.890185-04:00.jpg"
-     alt="WGRZ at 2022-09-26 00:50:12-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-09-26T00:50:04.890185-04:00.jpg">September 26 at 12:50 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 120 hyperlink lists with the Internet Archive.
+The archiving routine has saved 121 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 1:51 AM](https://archive.org/download/wgrz-2022/wgrz-2022-10-02T01:51:22.011246-04:00.hyperlinks.json) |
 | [October 1 at 12:12 PM](https://archive.org/download/wgrz-2022/wgrz-2022-10-01T12:12:44.755817-04:00.hyperlinks.json) |
 | [October 1 at 12:44 AM](https://archive.org/download/wgrz-2022/wgrz-2022-10-01T00:44:08.556513-04:00.hyperlinks.json) |
 | [September 30 at 12:39 PM](https://archive.org/download/wgrz-2022/wgrz-2022-09-30T12:39:01.767649-04:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 28 at 12:19 PM](https://archive.org/download/wgrz-2022/wgrz-2022-09-28T12:19:28.450990-04:00.hyperlinks.json) |
 | [September 28 at 2:08 AM](https://archive.org/download/wgrz-2022/wgrz-2022-09-28T02:08:11.975705-04:00.hyperlinks.json) |
 | [September 27 at 12:08 PM](https://archive.org/download/wgrz-2022/wgrz-2022-09-27T12:08:32.133592-04:00.hyperlinks.json) |
-| [September 27 at 12:32 AM](https://archive.org/download/wgrz-2022/wgrz-2022-09-27T00:32:24.092890-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 120 accessibility trees with the Internet Archive.
+The archiving routine has saved 121 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 1:51 AM](https://archive.org/download/wgrz-2022/wgrz-2022-10-02T01:51:22.011246-04:00.accessibility.json) |
 | [October 1 at 12:12 PM](https://archive.org/download/wgrz-2022/wgrz-2022-10-01T12:12:44.755817-04:00.accessibility.json) |
 | [October 1 at 12:44 AM](https://archive.org/download/wgrz-2022/wgrz-2022-10-01T00:44:08.556513-04:00.accessibility.json) |
 | [September 30 at 12:39 PM](https://archive.org/download/wgrz-2022/wgrz-2022-09-30T12:39:01.767649-04:00.accessibility.json) |
@@ -436,7 +437,6 @@ Here are the 10 most recent accessibility trees.
 | [September 28 at 12:19 PM](https://archive.org/download/wgrz-2022/wgrz-2022-09-28T12:19:28.450990-04:00.accessibility.json) |
 | [September 28 at 2:08 AM](https://archive.org/download/wgrz-2022/wgrz-2022-09-28T02:08:11.975705-04:00.accessibility.json) |
 | [September 27 at 12:08 PM](https://archive.org/download/wgrz-2022/wgrz-2022-09-27T12:08:32.133592-04:00.accessibility.json) |
-| [September 27 at 12:32 AM](https://archive.org/download/wgrz-2022/wgrz-2022-09-27T00:32:24.092890-04:00.accessibility.json) |
 
 
 

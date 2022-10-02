@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 226 screenshots with the Internet Archive.
+The archiving routine has saved 233 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,69 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/reveal-2022/reveal-2022-10-02T00:23:31.969984-07:00.jpg">
+  <img src="https://archive.org/download/reveal-2022/reveal-2022-10-02T00:23:31.969984-07:00.jpg"
+     alt="Reveal at 2022-10-02 00:23:33-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-10-02T00:23:31.969984-07:00.jpg">October 2 at 12:23 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reveal-2022/reveal-2022-10-01T12:07:45.746902-07:00.jpg">
+  <img src="https://archive.org/download/reveal-2022/reveal-2022-10-01T12:07:45.746902-07:00.jpg"
+     alt="Reveal at 2022-10-01 12:07:47-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-10-01T12:07:45.746902-07:00.jpg">October 1 at 12:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reveal-2022/reveal-2022-10-01T00:58:14.040314-07:00.jpg">
+  <img src="https://archive.org/download/reveal-2022/reveal-2022-10-01T00:58:14.040314-07:00.jpg"
+     alt="Reveal at 2022-10-01 00:58:15-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-10-01T00:58:14.040314-07:00.jpg">October 1 at 12:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reveal-2022/reveal-2022-09-30T13:17:16.836222-07:00.jpg">
+  <img src="https://archive.org/download/reveal-2022/reveal-2022-09-30T13:17:16.836222-07:00.jpg"
+     alt="Reveal at 2022-09-30 13:17:34-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-09-30T13:17:16.836222-07:00.jpg">September 30 at 1:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reveal-2022/reveal-2022-09-30T01:04:45.369229-07:00.jpg">
+  <img src="https://archive.org/download/reveal-2022/reveal-2022-09-30T01:04:45.369229-07:00.jpg"
+     alt="Reveal at 2022-09-30 01:04:58-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-09-30T01:04:45.369229-07:00.jpg">September 30 at 1:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reveal-2022/reveal-2022-09-29T12:32:57.779669-07:00.jpg">
+  <img src="https://archive.org/download/reveal-2022/reveal-2022-09-29T12:32:57.779669-07:00.jpg"
+     alt="Reveal at 2022-09-29 12:33:15-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-09-29T12:32:57.779669-07:00.jpg">September 29 at 12:33 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reveal-2022/reveal-2022-09-29T00:38:57.617505-07:00.jpg">
+  <img src="https://archive.org/download/reveal-2022/reveal-2022-09-29T00:38:57.617505-07:00.jpg"
+     alt="Reveal at 2022-09-29 00:39:03-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-09-29T00:38:57.617505-07:00.jpg">September 29 at 12:39 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/reveal-2022/reveal-2022-09-28T12:39:46.711952-07:00.jpg">
   <img src="https://archive.org/download/reveal-2022/reveal-2022-09-28T12:39:46.711952-07:00.jpg"
      alt="Reveal at 2022-09-28 12:39:54-07:00 local time"
@@ -370,74 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/reveal-2022/reveal-2022-09-26T12:31:48.023358-07:00.jpg">September 26 at 12:32 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/reveal-2022/reveal-2022-09-26T00:44:34.487188-07:00.jpg">
-  <img src="https://archive.org/download/reveal-2022/reveal-2022-09-26T00:44:34.487188-07:00.jpg"
-     alt="Reveal at 2022-09-26 00:44:48-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-09-26T00:44:34.487188-07:00.jpg">September 26 at 12:44 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/reveal-2022/reveal-2022-09-25T11:33:20.192628-07:00.jpg">
-  <img src="https://archive.org/download/reveal-2022/reveal-2022-09-25T11:33:20.192628-07:00.jpg"
-     alt="Reveal at 2022-09-25 11:33:22-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-09-25T11:33:20.192628-07:00.jpg">September 25 at 11:33 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/reveal-2022/reveal-2022-09-24T23:57:08.624861-07:00.jpg">
-  <img src="https://archive.org/download/reveal-2022/reveal-2022-09-24T23:57:08.624861-07:00.jpg"
-     alt="Reveal at 2022-09-24 23:57:09-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-09-24T23:57:08.624861-07:00.jpg">September 24 at 11:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/reveal-2022/reveal-2022-09-24T11:33:06.458898-07:00.jpg">
-  <img src="https://archive.org/download/reveal-2022/reveal-2022-09-24T11:33:06.458898-07:00.jpg"
-     alt="Reveal at 2022-09-24 11:33:11-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-09-24T11:33:06.458898-07:00.jpg">September 24 at 11:33 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/reveal-2022/reveal-2022-09-23T23:57:19.332069-07:00.jpg">
-  <img src="https://archive.org/download/reveal-2022/reveal-2022-09-23T23:57:19.332069-07:00.jpg"
-     alt="Reveal at 2022-09-23 23:57:21-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-09-23T23:57:19.332069-07:00.jpg">September 23 at 11:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/reveal-2022/reveal-2022-09-23T11:52:34.166066-07:00.jpg">
-  <img src="https://archive.org/download/reveal-2022/reveal-2022-09-23T11:52:34.166066-07:00.jpg"
-     alt="Reveal at 2022-09-23 11:52:48-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-09-23T11:52:34.166066-07:00.jpg">September 23 at 11:52 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/reveal-2022/reveal-2022-09-23T00:20:26.838524-07:00.jpg">
-  <img src="https://archive.org/download/reveal-2022/reveal-2022-09-23T00:20:26.838524-07:00.jpg"
-     alt="Reveal at 2022-09-23 00:20:28-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-09-23T00:20:26.838524-07:00.jpg">September 23 at 12:20 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 228 hyperlink lists with the Internet Archive.
+The archiving routine has saved 235 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 12:23 AM](https://archive.org/download/reveal-2022/reveal-2022-10-02T00:23:31.969984-07:00.hyperlinks.json) |
+| [October 1 at 12:07 PM](https://archive.org/download/reveal-2022/reveal-2022-10-01T12:07:45.746902-07:00.hyperlinks.json) |
+| [October 1 at 12:58 AM](https://archive.org/download/reveal-2022/reveal-2022-10-01T00:58:14.040314-07:00.hyperlinks.json) |
+| [September 30 at 1:17 PM](https://archive.org/download/reveal-2022/reveal-2022-09-30T13:17:16.836222-07:00.hyperlinks.json) |
+| [September 30 at 1:05 AM](https://archive.org/download/reveal-2022/reveal-2022-09-30T01:04:45.369229-07:00.hyperlinks.json) |
+| [September 29 at 12:33 PM](https://archive.org/download/reveal-2022/reveal-2022-09-29T12:32:57.779669-07:00.hyperlinks.json) |
+| [September 29 at 12:39 AM](https://archive.org/download/reveal-2022/reveal-2022-09-29T00:38:57.617505-07:00.hyperlinks.json) |
 | [September 28 at 12:39 PM](https://archive.org/download/reveal-2022/reveal-2022-09-28T12:39:46.711952-07:00.hyperlinks.json) |
 | [September 28 at 12:50 AM](https://archive.org/download/reveal-2022/reveal-2022-09-28T00:49:52.252839-07:00.hyperlinks.json) |
 | [September 27 at 12:13 PM](https://archive.org/download/reveal-2022/reveal-2022-09-27T12:13:28.875107-07:00.hyperlinks.json) |
-| [September 27 at 12:10 AM](https://archive.org/download/reveal-2022/reveal-2022-09-27T00:10:42.216673-07:00.hyperlinks.json) |
-| [September 26 at 12:32 PM](https://archive.org/download/reveal-2022/reveal-2022-09-26T12:31:48.023358-07:00.hyperlinks.json) |
-| [September 26 at 12:44 AM](https://archive.org/download/reveal-2022/reveal-2022-09-26T00:44:34.487188-07:00.hyperlinks.json) |
-| [September 25 at 11:33 AM](https://archive.org/download/reveal-2022/reveal-2022-09-25T11:33:20.192628-07:00.hyperlinks.json) |
-| [September 24 at 11:57 PM](https://archive.org/download/reveal-2022/reveal-2022-09-24T23:57:08.624861-07:00.hyperlinks.json) |
-| [September 24 at 11:33 AM](https://archive.org/download/reveal-2022/reveal-2022-09-24T11:33:06.458898-07:00.hyperlinks.json) |
-| [September 23 at 11:57 PM](https://archive.org/download/reveal-2022/reveal-2022-09-23T23:57:19.332069-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 228 accessibility trees with the Internet Archive.
+The archiving routine has saved 235 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 12:23 AM](https://archive.org/download/reveal-2022/reveal-2022-10-02T00:23:31.969984-07:00.accessibility.json) |
+| [October 1 at 12:07 PM](https://archive.org/download/reveal-2022/reveal-2022-10-01T12:07:45.746902-07:00.accessibility.json) |
+| [October 1 at 12:58 AM](https://archive.org/download/reveal-2022/reveal-2022-10-01T00:58:14.040314-07:00.accessibility.json) |
+| [September 30 at 1:17 PM](https://archive.org/download/reveal-2022/reveal-2022-09-30T13:17:16.836222-07:00.accessibility.json) |
+| [September 30 at 1:05 AM](https://archive.org/download/reveal-2022/reveal-2022-09-30T01:04:45.369229-07:00.accessibility.json) |
+| [September 29 at 12:33 PM](https://archive.org/download/reveal-2022/reveal-2022-09-29T12:32:57.779669-07:00.accessibility.json) |
+| [September 29 at 12:39 AM](https://archive.org/download/reveal-2022/reveal-2022-09-29T00:38:57.617505-07:00.accessibility.json) |
 | [September 28 at 12:39 PM](https://archive.org/download/reveal-2022/reveal-2022-09-28T12:39:46.711952-07:00.accessibility.json) |
 | [September 28 at 12:50 AM](https://archive.org/download/reveal-2022/reveal-2022-09-28T00:49:52.252839-07:00.accessibility.json) |
 | [September 27 at 12:13 PM](https://archive.org/download/reveal-2022/reveal-2022-09-27T12:13:28.875107-07:00.accessibility.json) |
-| [September 27 at 12:10 AM](https://archive.org/download/reveal-2022/reveal-2022-09-27T00:10:42.216673-07:00.accessibility.json) |
-| [September 26 at 12:32 PM](https://archive.org/download/reveal-2022/reveal-2022-09-26T12:31:48.023358-07:00.accessibility.json) |
-| [September 26 at 12:44 AM](https://archive.org/download/reveal-2022/reveal-2022-09-26T00:44:34.487188-07:00.accessibility.json) |
-| [September 25 at 11:33 AM](https://archive.org/download/reveal-2022/reveal-2022-09-25T11:33:20.192628-07:00.accessibility.json) |
-| [September 24 at 11:57 PM](https://archive.org/download/reveal-2022/reveal-2022-09-24T23:57:08.624861-07:00.accessibility.json) |
-| [September 24 at 11:33 AM](https://archive.org/download/reveal-2022/reveal-2022-09-24T11:33:06.458898-07:00.accessibility.json) |
-| [September 23 at 11:57 PM](https://archive.org/download/reveal-2022/reveal-2022-09-23T23:57:19.332069-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 140 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 12:23 AM](https://archive.org/download/reveal-2022/reveal-2022-10-02T00:23:31.969984-07:00.lighthouse.json) |
+| [October 1 at 12:07 PM](https://archive.org/download/reveal-2022/reveal-2022-10-01T12:07:45.746902-07:00.lighthouse.json) |
+| [October 1 at 12:58 AM](https://archive.org/download/reveal-2022/reveal-2022-10-01T00:58:14.040314-07:00.lighthouse.json) |
+| [September 30 at 1:17 PM](https://archive.org/download/reveal-2022/reveal-2022-09-30T13:17:16.836222-07:00.lighthouse.json) |
+| [September 30 at 1:05 AM](https://archive.org/download/reveal-2022/reveal-2022-09-30T01:04:45.369229-07:00.lighthouse.json) |
+| [September 29 at 12:33 PM](https://archive.org/download/reveal-2022/reveal-2022-09-29T12:32:57.779669-07:00.lighthouse.json) |
+| [September 29 at 12:39 AM](https://archive.org/download/reveal-2022/reveal-2022-09-29T00:38:57.617505-07:00.lighthouse.json) |
 | [September 28 at 12:40 PM](https://archive.org/download/reveal-2022/reveal-2022-09-28T12:39:46.711952-07:00.lighthouse.json) |
 | [September 28 at 12:50 AM](https://archive.org/download/reveal-2022/reveal-2022-09-28T00:49:52.252839-07:00.lighthouse.json) |
 | [September 27 at 12:13 PM](https://archive.org/download/reveal-2022/reveal-2022-09-27T12:13:28.875107-07:00.lighthouse.json) |
-| [September 27 at 12:10 AM](https://archive.org/download/reveal-2022/reveal-2022-09-27T00:10:42.216673-07:00.lighthouse.json) |
-| [September 26 at 12:32 PM](https://archive.org/download/reveal-2022/reveal-2022-09-26T12:31:48.023358-07:00.lighthouse.json) |
-| [September 26 at 12:44 AM](https://archive.org/download/reveal-2022/reveal-2022-09-26T00:44:34.487188-07:00.lighthouse.json) |
-| [September 25 at 11:33 AM](https://archive.org/download/reveal-2022/reveal-2022-09-25T11:33:20.192628-07:00.lighthouse.json) |
-| [September 24 at 11:57 PM](https://archive.org/download/reveal-2022/reveal-2022-09-24T23:57:08.624861-07:00.lighthouse.json) |
-| [September 24 at 11:33 AM](https://archive.org/download/reveal-2022/reveal-2022-09-24T11:33:06.458898-07:00.lighthouse.json) |
-| [September 23 at 11:57 PM](https://archive.org/download/reveal-2022/reveal-2022-09-23T23:57:19.332069-07:00.lighthouse.json) |
 
 
 

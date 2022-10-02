@@ -234,13 +234,76 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 17 screenshots with the Internet Archive.
+The archiving routine has saved 24 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-02T03:25:22.579278-04:00.jpg">
+  <img src="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-02T03:25:22.579278-04:00.jpg"
+     alt="SouthCoastToday.com at 2022-10-02 03:25:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-02T03:25:22.579278-04:00.jpg">October 2 at 3:25 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-01T15:10:50.030986-04:00.jpg">
+  <img src="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-01T15:10:50.030986-04:00.jpg"
+     alt="SouthCoastToday.com at 2022-10-01 15:10:51-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-01T15:10:50.030986-04:00.jpg">October 1 at 3:10 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-01T04:00:52.852673-04:00.jpg">
+  <img src="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-01T04:00:52.852673-04:00.jpg"
+     alt="SouthCoastToday.com at 2022-10-01 04:00:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-01T04:00:52.852673-04:00.jpg">October 1 at 4:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-30T16:17:44.940160-04:00.jpg">
+  <img src="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-30T16:17:44.940160-04:00.jpg"
+     alt="SouthCoastToday.com at 2022-09-30 16:17:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-30T16:17:44.940160-04:00.jpg">September 30 at 4:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-30T04:07:39.601247-04:00.jpg">
+  <img src="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-30T04:07:39.601247-04:00.jpg"
+     alt="SouthCoastToday.com at 2022-09-30 04:07:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-30T04:07:39.601247-04:00.jpg">September 30 at 4:07 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-29T15:34:50.954693-04:00.jpg">
+  <img src="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-29T15:34:50.954693-04:00.jpg"
+     alt="SouthCoastToday.com at 2022-09-29 15:34:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-29T15:34:50.954693-04:00.jpg">September 29 at 3:34 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-29T03:40:01.172259-04:00.jpg">
+  <img src="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-29T03:40:01.172259-04:00.jpg"
+     alt="SouthCoastToday.com at 2022-09-29 03:40:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-29T03:40:01.172259-04:00.jpg">September 29 at 3:40 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-28T15:42:22.613618-04:00.jpg">
@@ -287,74 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-26T15:32:23.398344-04:00.jpg">September 26 at 3:32 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-26T03:46:33.075586-04:00.jpg">
-  <img src="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-26T03:46:33.075586-04:00.jpg"
-     alt="SouthCoastToday.com at 2022-09-26 03:46:34-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-26T03:46:33.075586-04:00.jpg">September 26 at 3:46 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-25T14:35:54.645272-04:00.jpg">
-  <img src="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-25T14:35:54.645272-04:00.jpg"
-     alt="SouthCoastToday.com at 2022-09-25 14:35:56-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-25T14:35:54.645272-04:00.jpg">September 25 at 2:35 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-25T02:58:40.696258-04:00.jpg">
-  <img src="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-25T02:58:40.696258-04:00.jpg"
-     alt="SouthCoastToday.com at 2022-09-25 02:58:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-25T02:58:40.696258-04:00.jpg">September 25 at 2:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-24T14:34:57.034486-04:00.jpg">
-  <img src="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-24T14:34:57.034486-04:00.jpg"
-     alt="SouthCoastToday.com at 2022-09-24 14:34:59-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-24T14:34:57.034486-04:00.jpg">September 24 at 2:34 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-24T02:59:27.741620-04:00.jpg">
-  <img src="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-24T02:59:27.741620-04:00.jpg"
-     alt="SouthCoastToday.com at 2022-09-24 02:59:29-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-24T02:59:27.741620-04:00.jpg">September 24 at 2:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-23T14:55:24.452984-04:00.jpg">
-  <img src="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-23T14:55:24.452984-04:00.jpg"
-     alt="SouthCoastToday.com at 2022-09-23 14:55:25-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-23T14:55:24.452984-04:00.jpg">September 23 at 2:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-23T03:23:43.120742-04:00.jpg">
-  <img src="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-23T03:23:43.120742-04:00.jpg"
-     alt="SouthCoastToday.com at 2022-09-23 03:23:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-23T03:23:43.120742-04:00.jpg">September 23 at 3:23 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 24 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,21 +362,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 3:25 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-02T03:25:22.579278-04:00.hyperlinks.json) |
+| [October 1 at 3:10 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-01T15:10:50.030986-04:00.hyperlinks.json) |
+| [October 1 at 4:00 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-01T04:00:52.852673-04:00.hyperlinks.json) |
+| [September 30 at 4:17 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-30T16:17:44.940160-04:00.hyperlinks.json) |
+| [September 30 at 4:07 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-30T04:07:39.601247-04:00.hyperlinks.json) |
+| [September 29 at 3:34 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-29T15:34:50.954693-04:00.hyperlinks.json) |
+| [September 29 at 3:40 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-29T03:40:01.172259-04:00.hyperlinks.json) |
 | [September 28 at 3:42 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-28T15:42:22.613618-04:00.hyperlinks.json) |
 | [September 28 at 3:51 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-28T03:51:43.701259-04:00.hyperlinks.json) |
 | [September 27 at 3:15 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-27T15:15:13.512429-04:00.hyperlinks.json) |
-| [September 27 at 3:12 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-27T03:12:24.143306-04:00.hyperlinks.json) |
-| [September 26 at 3:32 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-26T15:32:23.398344-04:00.hyperlinks.json) |
-| [September 26 at 3:46 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-26T03:46:33.075586-04:00.hyperlinks.json) |
-| [September 25 at 2:36 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-25T14:35:54.645272-04:00.hyperlinks.json) |
-| [September 25 at 2:58 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-25T02:58:40.696258-04:00.hyperlinks.json) |
-| [September 24 at 2:35 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-24T14:34:57.034486-04:00.hyperlinks.json) |
-| [September 24 at 2:59 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-24T02:59:27.741620-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 17 accessibility trees with the Internet Archive.
+The archiving routine has saved 24 accessibility trees with the Internet Archive.
 
 
 
@@ -384,22 +384,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 3:25 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-02T03:25:22.579278-04:00.accessibility.json) |
+| [October 1 at 3:10 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-01T15:10:50.030986-04:00.accessibility.json) |
+| [October 1 at 4:00 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-01T04:00:52.852673-04:00.accessibility.json) |
+| [September 30 at 4:17 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-30T16:17:44.940160-04:00.accessibility.json) |
+| [September 30 at 4:07 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-30T04:07:39.601247-04:00.accessibility.json) |
+| [September 29 at 3:34 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-29T15:34:50.954693-04:00.accessibility.json) |
+| [September 29 at 3:40 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-29T03:40:01.172259-04:00.accessibility.json) |
 | [September 28 at 3:42 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-28T15:42:22.613618-04:00.accessibility.json) |
 | [September 28 at 3:51 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-28T03:51:43.701259-04:00.accessibility.json) |
 | [September 27 at 3:15 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-27T15:15:13.512429-04:00.accessibility.json) |
-| [September 27 at 3:12 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-27T03:12:24.143306-04:00.accessibility.json) |
-| [September 26 at 3:32 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-26T15:32:23.398344-04:00.accessibility.json) |
-| [September 26 at 3:46 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-26T03:46:33.075586-04:00.accessibility.json) |
-| [September 25 at 2:35 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-25T14:35:54.645272-04:00.accessibility.json) |
-| [September 25 at 2:58 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-25T02:58:40.696258-04:00.accessibility.json) |
-| [September 24 at 2:35 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-24T14:34:57.034486-04:00.accessibility.json) |
-| [September 24 at 2:59 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-24T02:59:27.741620-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,16 +407,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 3:25 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-02T03:25:22.579278-04:00.lighthouse.json) |
+| [October 1 at 3:10 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-01T15:10:50.030986-04:00.lighthouse.json) |
+| [October 1 at 4:00 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-01T04:00:52.852673-04:00.lighthouse.json) |
+| [September 30 at 4:17 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-30T16:17:44.940160-04:00.lighthouse.json) |
+| [September 30 at 4:07 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-30T04:07:39.601247-04:00.lighthouse.json) |
+| [September 29 at 3:34 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-29T15:34:50.954693-04:00.lighthouse.json) |
+| [September 29 at 3:40 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-29T03:40:01.172259-04:00.lighthouse.json) |
 | [September 28 at 3:42 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-28T15:42:22.613618-04:00.lighthouse.json) |
 | [September 28 at 3:51 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-28T03:51:43.701259-04:00.lighthouse.json) |
 | [September 27 at 3:15 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-27T15:15:13.512429-04:00.lighthouse.json) |
-| [September 27 at 3:12 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-27T03:12:24.143306-04:00.lighthouse.json) |
-| [September 26 at 3:32 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-26T15:32:23.398344-04:00.lighthouse.json) |
-| [September 26 at 3:46 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-26T03:46:33.075586-04:00.lighthouse.json) |
-| [September 25 at 2:36 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-25T14:35:54.645272-04:00.lighthouse.json) |
-| [September 25 at 2:58 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-25T02:58:40.696258-04:00.lighthouse.json) |
-| [September 24 at 2:35 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-24T14:34:57.034486-04:00.lighthouse.json) |
-| [September 24 at 2:59 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-09-24T02:59:27.741620-04:00.lighthouse.json) |
 
 
 

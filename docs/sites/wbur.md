@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 129 screenshots with the Internet Archive.
+The archiving routine has saved 130 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 129 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wbur-2022/wbur-2022-10-02T01:51:23.524197-04:00.jpg">
+  <img src="https://archive.org/download/wbur-2022/wbur-2022-10-02T01:51:23.524197-04:00.jpg"
+     alt="WBUR at 2022-10-02 01:51:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wbur-2022/wbur-2022-10-02T01:51:23.524197-04:00.jpg">October 2 at 1:51 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wbur-2022/wbur-2022-10-01T12:12:01.533198-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wbur-2022/wbur-2022-09-26T12:08:58.676586-04:00.jpg">September 26 at 12:09 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wbur-2022/wbur-2022-09-26T00:50:31.639501-04:00.jpg">
-  <img src="https://archive.org/download/wbur-2022/wbur-2022-09-26T00:50:31.639501-04:00.jpg"
-     alt="WBUR at 2022-09-26 00:50:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wbur-2022/wbur-2022-09-26T00:50:31.639501-04:00.jpg">September 26 at 12:50 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 130 hyperlink lists with the Internet Archive.
+The archiving routine has saved 131 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 1:51 AM](https://archive.org/download/wbur-2022/wbur-2022-10-02T01:51:23.524197-04:00.hyperlinks.json) |
 | [October 1 at 12:12 PM](https://archive.org/download/wbur-2022/wbur-2022-10-01T12:12:01.533198-04:00.hyperlinks.json) |
 | [October 1 at 12:44 AM](https://archive.org/download/wbur-2022/wbur-2022-10-01T00:44:06.414437-04:00.hyperlinks.json) |
 | [September 30 at 12:39 PM](https://archive.org/download/wbur-2022/wbur-2022-09-30T12:39:21.380276-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 28 at 12:19 PM](https://archive.org/download/wbur-2022/wbur-2022-09-28T12:19:18.973872-04:00.hyperlinks.json) |
 | [September 28 at 2:07 AM](https://archive.org/download/wbur-2022/wbur-2022-09-28T02:07:36.495021-04:00.hyperlinks.json) |
 | [September 27 at 12:08 PM](https://archive.org/download/wbur-2022/wbur-2022-09-27T12:08:30.130670-04:00.hyperlinks.json) |
-| [September 27 at 12:32 AM](https://archive.org/download/wbur-2022/wbur-2022-09-27T00:32:19.682594-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 129 accessibility trees with the Internet Archive.
+The archiving routine has saved 130 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 1:51 AM](https://archive.org/download/wbur-2022/wbur-2022-10-02T01:51:23.524197-04:00.accessibility.json) |
 | [October 1 at 12:12 PM](https://archive.org/download/wbur-2022/wbur-2022-10-01T12:12:01.533198-04:00.accessibility.json) |
 | [October 1 at 12:44 AM](https://archive.org/download/wbur-2022/wbur-2022-10-01T00:44:06.414437-04:00.accessibility.json) |
 | [September 30 at 12:39 PM](https://archive.org/download/wbur-2022/wbur-2022-09-30T12:39:21.380276-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 28 at 12:19 PM](https://archive.org/download/wbur-2022/wbur-2022-09-28T12:19:18.973872-04:00.accessibility.json) |
 | [September 28 at 2:07 AM](https://archive.org/download/wbur-2022/wbur-2022-09-28T02:07:36.495021-04:00.accessibility.json) |
 | [September 27 at 12:08 PM](https://archive.org/download/wbur-2022/wbur-2022-09-27T12:08:30.130670-04:00.accessibility.json) |
-| [September 27 at 12:32 AM](https://archive.org/download/wbur-2022/wbur-2022-09-27T00:32:19.682594-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 130 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 131 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 1:51 AM](https://archive.org/download/wbur-2022/wbur-2022-10-02T01:51:23.524197-04:00.lighthouse.json) |
 | [October 1 at 12:12 PM](https://archive.org/download/wbur-2022/wbur-2022-10-01T12:12:01.533198-04:00.lighthouse.json) |
 | [October 1 at 12:44 AM](https://archive.org/download/wbur-2022/wbur-2022-10-01T00:44:06.414437-04:00.lighthouse.json) |
 | [September 30 at 12:39 PM](https://archive.org/download/wbur-2022/wbur-2022-09-30T12:39:21.380276-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 28 at 12:19 PM](https://archive.org/download/wbur-2022/wbur-2022-09-28T12:19:18.973872-04:00.lighthouse.json) |
 | [September 28 at 2:07 AM](https://archive.org/download/wbur-2022/wbur-2022-09-28T02:07:36.495021-04:00.lighthouse.json) |
 | [September 27 at 12:08 PM](https://archive.org/download/wbur-2022/wbur-2022-09-27T12:08:30.130670-04:00.lighthouse.json) |
-| [September 27 at 12:32 AM](https://archive.org/download/wbur-2022/wbur-2022-09-27T00:32:19.682594-04:00.lighthouse.json) |
 
 
 

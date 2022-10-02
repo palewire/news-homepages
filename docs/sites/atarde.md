@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 165 screenshots with the Internet Archive.
+The archiving routine has saved 166 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 165 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/atarde-2022/atarde-2022-10-02T02:47:29.219711-03:00.jpg">
+  <img src="https://archive.org/download/atarde-2022/atarde-2022-10-02T02:47:29.219711-03:00.jpg"
+     alt="Jornal A Tarde at 2022-10-02 02:47:31-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/atarde-2022/atarde-2022-10-02T02:47:29.219711-03:00.jpg">October 2 at 2:47 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/atarde-2022/atarde-2022-10-01T13:04:59.679824-03:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/atarde-2022/atarde-2022-09-28T09:02:42.960060-03:00.jpg">September 28 at 9:02 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/atarde-2022/atarde-2022-09-28T03:02:17.637321-03:00.jpg">
-  <img src="https://archive.org/download/atarde-2022/atarde-2022-09-28T03:02:17.637321-03:00.jpg"
-     alt="Jornal A Tarde at 2022-09-28 03:02:19-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/atarde-2022/atarde-2022-09-28T03:02:17.637321-03:00.jpg">September 28 at 3:02 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 168 hyperlink lists with the Internet Archive.
+The archiving routine has saved 169 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 2:47 AM](https://archive.org/download/atarde-2022/atarde-2022-10-02T02:47:29.219711-03:00.hyperlinks.json) |
 | [October 1 at 1:05 PM](https://archive.org/download/atarde-2022/atarde-2022-10-01T13:04:59.679824-03:00.hyperlinks.json) |
 | [October 1 at 8:59 AM](https://archive.org/download/atarde-2022/atarde-2022-10-01T08:59:36.732849-03:00.hyperlinks.json) |
 | [October 1 at 1:40 AM](https://archive.org/download/atarde-2022/atarde-2022-10-01T01:40:01.505451-03:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 29 at 1:06 PM](https://archive.org/download/atarde-2022/atarde-2022-09-29T13:06:27.646566-03:00.hyperlinks.json) |
 | [September 29 at 8:59 AM](https://archive.org/download/atarde-2022/atarde-2022-09-29T08:59:52.062967-03:00.hyperlinks.json) |
 | [September 29 at 2:19 AM](https://archive.org/download/atarde-2022/atarde-2022-09-29T02:19:26.314877-03:00.hyperlinks.json) |
-| [September 28 at 1:11 PM](https://archive.org/download/atarde-2022/atarde-2022-09-28T13:11:46.511247-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 168 accessibility trees with the Internet Archive.
+The archiving routine has saved 169 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 2:47 AM](https://archive.org/download/atarde-2022/atarde-2022-10-02T02:47:29.219711-03:00.accessibility.json) |
 | [October 1 at 1:05 PM](https://archive.org/download/atarde-2022/atarde-2022-10-01T13:04:59.679824-03:00.accessibility.json) |
 | [October 1 at 8:59 AM](https://archive.org/download/atarde-2022/atarde-2022-10-01T08:59:36.732849-03:00.accessibility.json) |
 | [October 1 at 1:40 AM](https://archive.org/download/atarde-2022/atarde-2022-10-01T01:40:01.505451-03:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 29 at 1:06 PM](https://archive.org/download/atarde-2022/atarde-2022-09-29T13:06:27.646566-03:00.accessibility.json) |
 | [September 29 at 8:59 AM](https://archive.org/download/atarde-2022/atarde-2022-09-29T08:59:52.062967-03:00.accessibility.json) |
 | [September 29 at 2:19 AM](https://archive.org/download/atarde-2022/atarde-2022-09-29T02:19:26.314877-03:00.accessibility.json) |
-| [September 28 at 1:11 PM](https://archive.org/download/atarde-2022/atarde-2022-09-28T13:11:46.511247-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 168 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 169 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 2:47 AM](https://archive.org/download/atarde-2022/atarde-2022-10-02T02:47:29.219711-03:00.lighthouse.json) |
 | [October 1 at 1:05 PM](https://archive.org/download/atarde-2022/atarde-2022-10-01T13:04:59.679824-03:00.lighthouse.json) |
 | [October 1 at 8:59 AM](https://archive.org/download/atarde-2022/atarde-2022-10-01T08:59:36.732849-03:00.lighthouse.json) |
 | [October 1 at 1:40 AM](https://archive.org/download/atarde-2022/atarde-2022-10-01T01:40:01.505451-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 29 at 1:06 PM](https://archive.org/download/atarde-2022/atarde-2022-09-29T13:06:27.646566-03:00.lighthouse.json) |
 | [September 29 at 8:59 AM](https://archive.org/download/atarde-2022/atarde-2022-09-29T08:59:52.062967-03:00.lighthouse.json) |
 | [September 29 at 2:19 AM](https://archive.org/download/atarde-2022/atarde-2022-09-29T02:19:26.314877-03:00.lighthouse.json) |
-| [September 28 at 1:12 PM](https://archive.org/download/atarde-2022/atarde-2022-09-28T13:11:46.511247-03:00.lighthouse.json) |
 
 
 

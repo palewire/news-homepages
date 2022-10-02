@@ -234,13 +234,76 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 17 screenshots with the Internet Archive.
+The archiving routine has saved 24 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rgj-2022/rgj-2022-10-02T00:22:57.995831-07:00.jpg">
+  <img src="https://archive.org/download/rgj-2022/rgj-2022-10-02T00:22:57.995831-07:00.jpg"
+     alt="Reno Gazette-Journal at 2022-10-02 00:23:00-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rgj-2022/rgj-2022-10-02T00:22:57.995831-07:00.jpg">October 2 at 12:23 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rgj-2022/rgj-2022-10-01T12:07:58.968803-07:00.jpg">
+  <img src="https://archive.org/download/rgj-2022/rgj-2022-10-01T12:07:58.968803-07:00.jpg"
+     alt="Reno Gazette-Journal at 2022-10-01 12:08:00-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rgj-2022/rgj-2022-10-01T12:07:58.968803-07:00.jpg">October 1 at 12:08 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rgj-2022/rgj-2022-10-01T00:58:18.598897-07:00.jpg">
+  <img src="https://archive.org/download/rgj-2022/rgj-2022-10-01T00:58:18.598897-07:00.jpg"
+     alt="Reno Gazette-Journal at 2022-10-01 00:58:21-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rgj-2022/rgj-2022-10-01T00:58:18.598897-07:00.jpg">October 1 at 12:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rgj-2022/rgj-2022-09-30T13:17:07.885023-07:00.jpg">
+  <img src="https://archive.org/download/rgj-2022/rgj-2022-09-30T13:17:07.885023-07:00.jpg"
+     alt="Reno Gazette-Journal at 2022-09-30 13:17:10-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rgj-2022/rgj-2022-09-30T13:17:07.885023-07:00.jpg">September 30 at 1:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rgj-2022/rgj-2022-09-30T01:04:29.675516-07:00.jpg">
+  <img src="https://archive.org/download/rgj-2022/rgj-2022-09-30T01:04:29.675516-07:00.jpg"
+     alt="Reno Gazette-Journal at 2022-09-30 01:04:31-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rgj-2022/rgj-2022-09-30T01:04:29.675516-07:00.jpg">September 30 at 1:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rgj-2022/rgj-2022-09-29T12:33:02.316302-07:00.jpg">
+  <img src="https://archive.org/download/rgj-2022/rgj-2022-09-29T12:33:02.316302-07:00.jpg"
+     alt="Reno Gazette-Journal at 2022-09-29 12:33:04-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rgj-2022/rgj-2022-09-29T12:33:02.316302-07:00.jpg">September 29 at 12:33 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rgj-2022/rgj-2022-09-29T00:39:38.644154-07:00.jpg">
+  <img src="https://archive.org/download/rgj-2022/rgj-2022-09-29T00:39:38.644154-07:00.jpg"
+     alt="Reno Gazette-Journal at 2022-09-29 00:39:39-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rgj-2022/rgj-2022-09-29T00:39:38.644154-07:00.jpg">September 29 at 12:39 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rgj-2022/rgj-2022-09-28T12:39:40.394232-07:00.jpg">
@@ -287,74 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/rgj-2022/rgj-2022-09-26T12:30:47.535824-07:00.jpg">September 26 at 12:30 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/rgj-2022/rgj-2022-09-26T00:44:57.735332-07:00.jpg">
-  <img src="https://archive.org/download/rgj-2022/rgj-2022-09-26T00:44:57.735332-07:00.jpg"
-     alt="Reno Gazette-Journal at 2022-09-26 00:44:59-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rgj-2022/rgj-2022-09-26T00:44:57.735332-07:00.jpg">September 26 at 12:44 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rgj-2022/rgj-2022-09-25T11:33:58.782513-07:00.jpg">
-  <img src="https://archive.org/download/rgj-2022/rgj-2022-09-25T11:33:58.782513-07:00.jpg"
-     alt="Reno Gazette-Journal at 2022-09-25 11:34:00-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rgj-2022/rgj-2022-09-25T11:33:58.782513-07:00.jpg">September 25 at 11:34 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rgj-2022/rgj-2022-09-24T23:57:36.787841-07:00.jpg">
-  <img src="https://archive.org/download/rgj-2022/rgj-2022-09-24T23:57:36.787841-07:00.jpg"
-     alt="Reno Gazette-Journal at 2022-09-24 23:57:38-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rgj-2022/rgj-2022-09-24T23:57:36.787841-07:00.jpg">September 24 at 11:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rgj-2022/rgj-2022-09-24T11:33:39.380238-07:00.jpg">
-  <img src="https://archive.org/download/rgj-2022/rgj-2022-09-24T11:33:39.380238-07:00.jpg"
-     alt="Reno Gazette-Journal at 2022-09-24 11:33:41-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rgj-2022/rgj-2022-09-24T11:33:39.380238-07:00.jpg">September 24 at 11:33 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rgj-2022/rgj-2022-09-23T23:57:43.617135-07:00.jpg">
-  <img src="https://archive.org/download/rgj-2022/rgj-2022-09-23T23:57:43.617135-07:00.jpg"
-     alt="Reno Gazette-Journal at 2022-09-23 23:57:45-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rgj-2022/rgj-2022-09-23T23:57:43.617135-07:00.jpg">September 23 at 11:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rgj-2022/rgj-2022-09-23T11:52:53.074099-07:00.jpg">
-  <img src="https://archive.org/download/rgj-2022/rgj-2022-09-23T11:52:53.074099-07:00.jpg"
-     alt="Reno Gazette-Journal at 2022-09-23 11:52:54-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rgj-2022/rgj-2022-09-23T11:52:53.074099-07:00.jpg">September 23 at 11:52 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rgj-2022/rgj-2022-09-23T00:21:53.265579-07:00.jpg">
-  <img src="https://archive.org/download/rgj-2022/rgj-2022-09-23T00:21:53.265579-07:00.jpg"
-     alt="Reno Gazette-Journal at 2022-09-23 00:21:55-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rgj-2022/rgj-2022-09-23T00:21:53.265579-07:00.jpg">September 23 at 12:21 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 24 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,21 +362,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 12:23 AM](https://archive.org/download/rgj-2022/rgj-2022-10-02T00:22:57.995831-07:00.hyperlinks.json) |
+| [October 1 at 12:08 PM](https://archive.org/download/rgj-2022/rgj-2022-10-01T12:07:58.968803-07:00.hyperlinks.json) |
+| [October 1 at 12:58 AM](https://archive.org/download/rgj-2022/rgj-2022-10-01T00:58:18.598897-07:00.hyperlinks.json) |
+| [September 30 at 1:17 PM](https://archive.org/download/rgj-2022/rgj-2022-09-30T13:17:07.885023-07:00.hyperlinks.json) |
+| [September 30 at 1:04 AM](https://archive.org/download/rgj-2022/rgj-2022-09-30T01:04:29.675516-07:00.hyperlinks.json) |
+| [September 29 at 12:33 PM](https://archive.org/download/rgj-2022/rgj-2022-09-29T12:33:02.316302-07:00.hyperlinks.json) |
+| [September 29 at 12:39 AM](https://archive.org/download/rgj-2022/rgj-2022-09-29T00:39:38.644154-07:00.hyperlinks.json) |
 | [September 28 at 12:39 PM](https://archive.org/download/rgj-2022/rgj-2022-09-28T12:39:40.394232-07:00.hyperlinks.json) |
 | [September 28 at 12:50 AM](https://archive.org/download/rgj-2022/rgj-2022-09-28T00:50:37.220763-07:00.hyperlinks.json) |
 | [September 27 at 12:13 PM](https://archive.org/download/rgj-2022/rgj-2022-09-27T12:13:29.751635-07:00.hyperlinks.json) |
-| [September 27 at 12:10 AM](https://archive.org/download/rgj-2022/rgj-2022-09-27T00:10:35.565209-07:00.hyperlinks.json) |
-| [September 26 at 12:30 PM](https://archive.org/download/rgj-2022/rgj-2022-09-26T12:30:47.535824-07:00.hyperlinks.json) |
-| [September 26 at 12:45 AM](https://archive.org/download/rgj-2022/rgj-2022-09-26T00:44:57.735332-07:00.hyperlinks.json) |
-| [September 25 at 11:34 AM](https://archive.org/download/rgj-2022/rgj-2022-09-25T11:33:58.782513-07:00.hyperlinks.json) |
-| [September 24 at 11:57 PM](https://archive.org/download/rgj-2022/rgj-2022-09-24T23:57:36.787841-07:00.hyperlinks.json) |
-| [September 24 at 11:33 AM](https://archive.org/download/rgj-2022/rgj-2022-09-24T11:33:39.380238-07:00.hyperlinks.json) |
-| [September 23 at 11:57 PM](https://archive.org/download/rgj-2022/rgj-2022-09-23T23:57:43.617135-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 17 accessibility trees with the Internet Archive.
+The archiving routine has saved 24 accessibility trees with the Internet Archive.
 
 
 
@@ -384,22 +384,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 12:23 AM](https://archive.org/download/rgj-2022/rgj-2022-10-02T00:22:57.995831-07:00.accessibility.json) |
+| [October 1 at 12:08 PM](https://archive.org/download/rgj-2022/rgj-2022-10-01T12:07:58.968803-07:00.accessibility.json) |
+| [October 1 at 12:58 AM](https://archive.org/download/rgj-2022/rgj-2022-10-01T00:58:18.598897-07:00.accessibility.json) |
+| [September 30 at 1:17 PM](https://archive.org/download/rgj-2022/rgj-2022-09-30T13:17:07.885023-07:00.accessibility.json) |
+| [September 30 at 1:04 AM](https://archive.org/download/rgj-2022/rgj-2022-09-30T01:04:29.675516-07:00.accessibility.json) |
+| [September 29 at 12:33 PM](https://archive.org/download/rgj-2022/rgj-2022-09-29T12:33:02.316302-07:00.accessibility.json) |
+| [September 29 at 12:39 AM](https://archive.org/download/rgj-2022/rgj-2022-09-29T00:39:38.644154-07:00.accessibility.json) |
 | [September 28 at 12:39 PM](https://archive.org/download/rgj-2022/rgj-2022-09-28T12:39:40.394232-07:00.accessibility.json) |
 | [September 28 at 12:50 AM](https://archive.org/download/rgj-2022/rgj-2022-09-28T00:50:37.220763-07:00.accessibility.json) |
 | [September 27 at 12:13 PM](https://archive.org/download/rgj-2022/rgj-2022-09-27T12:13:29.751635-07:00.accessibility.json) |
-| [September 27 at 12:10 AM](https://archive.org/download/rgj-2022/rgj-2022-09-27T00:10:35.565209-07:00.accessibility.json) |
-| [September 26 at 12:30 PM](https://archive.org/download/rgj-2022/rgj-2022-09-26T12:30:47.535824-07:00.accessibility.json) |
-| [September 26 at 12:45 AM](https://archive.org/download/rgj-2022/rgj-2022-09-26T00:44:57.735332-07:00.accessibility.json) |
-| [September 25 at 11:34 AM](https://archive.org/download/rgj-2022/rgj-2022-09-25T11:33:58.782513-07:00.accessibility.json) |
-| [September 24 at 11:57 PM](https://archive.org/download/rgj-2022/rgj-2022-09-24T23:57:36.787841-07:00.accessibility.json) |
-| [September 24 at 11:33 AM](https://archive.org/download/rgj-2022/rgj-2022-09-24T11:33:39.380238-07:00.accessibility.json) |
-| [September 23 at 11:57 PM](https://archive.org/download/rgj-2022/rgj-2022-09-23T23:57:43.617135-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,16 +407,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 12:23 AM](https://archive.org/download/rgj-2022/rgj-2022-10-02T00:22:57.995831-07:00.lighthouse.json) |
+| [October 1 at 12:08 PM](https://archive.org/download/rgj-2022/rgj-2022-10-01T12:07:58.968803-07:00.lighthouse.json) |
+| [October 1 at 12:58 AM](https://archive.org/download/rgj-2022/rgj-2022-10-01T00:58:18.598897-07:00.lighthouse.json) |
+| [September 30 at 1:17 PM](https://archive.org/download/rgj-2022/rgj-2022-09-30T13:17:07.885023-07:00.lighthouse.json) |
+| [September 30 at 1:04 AM](https://archive.org/download/rgj-2022/rgj-2022-09-30T01:04:29.675516-07:00.lighthouse.json) |
+| [September 29 at 12:33 PM](https://archive.org/download/rgj-2022/rgj-2022-09-29T12:33:02.316302-07:00.lighthouse.json) |
+| [September 29 at 12:39 AM](https://archive.org/download/rgj-2022/rgj-2022-09-29T00:39:38.644154-07:00.lighthouse.json) |
 | [September 28 at 12:39 PM](https://archive.org/download/rgj-2022/rgj-2022-09-28T12:39:40.394232-07:00.lighthouse.json) |
 | [September 28 at 12:50 AM](https://archive.org/download/rgj-2022/rgj-2022-09-28T00:50:37.220763-07:00.lighthouse.json) |
 | [September 27 at 12:13 PM](https://archive.org/download/rgj-2022/rgj-2022-09-27T12:13:29.751635-07:00.lighthouse.json) |
-| [September 27 at 12:10 AM](https://archive.org/download/rgj-2022/rgj-2022-09-27T00:10:35.565209-07:00.lighthouse.json) |
-| [September 26 at 12:30 PM](https://archive.org/download/rgj-2022/rgj-2022-09-26T12:30:47.535824-07:00.lighthouse.json) |
-| [September 26 at 12:45 AM](https://archive.org/download/rgj-2022/rgj-2022-09-26T00:44:57.735332-07:00.lighthouse.json) |
-| [September 25 at 11:34 AM](https://archive.org/download/rgj-2022/rgj-2022-09-25T11:33:58.782513-07:00.lighthouse.json) |
-| [September 24 at 11:57 PM](https://archive.org/download/rgj-2022/rgj-2022-09-24T23:57:36.787841-07:00.lighthouse.json) |
-| [September 24 at 11:33 AM](https://archive.org/download/rgj-2022/rgj-2022-09-24T11:33:39.380238-07:00.lighthouse.json) |
-| [September 23 at 11:57 PM](https://archive.org/download/rgj-2022/rgj-2022-09-23T23:57:43.617135-07:00.lighthouse.json) |
 
 
 

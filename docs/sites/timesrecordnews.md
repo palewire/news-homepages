@@ -234,13 +234,49 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 20 screenshots with the Internet Archive.
+The archiving routine has saved 24 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-10-02T02:16:08.223901-05:00.jpg">
+  <img src="https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-10-02T02:16:08.223901-05:00.jpg"
+     alt="Times Record News at 2022-10-02 02:16:10-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-10-02T02:16:08.223901-05:00.jpg">October 2 at 2:16 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-10-01T14:38:54.236102-05:00.jpg">
+  <img src="https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-10-01T14:38:54.236102-05:00.jpg"
+     alt="Times Record News at 2022-10-01 14:38:56-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-10-01T14:38:54.236102-05:00.jpg">October 1 at 2:38 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-10-01T02:50:50.196134-05:00.jpg">
+  <img src="https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-10-01T02:50:50.196134-05:00.jpg"
+     alt="Times Record News at 2022-10-01 02:50:51-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-10-01T02:50:50.196134-05:00.jpg">October 1 at 2:50 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-30T14:53:51.132711-05:00.jpg">
+  <img src="https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-30T14:53:51.132711-05:00.jpg"
+     alt="Times Record News at 2022-09-30 14:53:53-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-30T14:53:51.132711-05:00.jpg">September 30 at 2:53 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-30T03:10:30.191989-05:00.jpg">
@@ -314,47 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-26T14:12:09.766876-05:00.jpg">September 26 at 2:12 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-26T02:31:59.350578-05:00.jpg">
-  <img src="https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-26T02:31:59.350578-05:00.jpg"
-     alt="Times Record News at 2022-09-26 02:32:01-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-26T02:31:59.350578-05:00.jpg">September 26 at 2:32 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-25T13:47:11.576662-05:00.jpg">
-  <img src="https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-25T13:47:11.576662-05:00.jpg"
-     alt="Times Record News at 2022-09-25 13:47:13-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-25T13:47:11.576662-05:00.jpg">September 25 at 1:47 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-25T02:01:05.451206-05:00.jpg">
-  <img src="https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-25T02:01:05.451206-05:00.jpg"
-     alt="Times Record News at 2022-09-25 02:01:07-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-25T02:01:05.451206-05:00.jpg">September 25 at 2:01 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-24T13:39:21.965136-05:00.jpg">
-  <img src="https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-24T13:39:21.965136-05:00.jpg"
-     alt="Times Record News at 2022-09-24 13:39:24-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-24T13:39:21.965136-05:00.jpg">September 24 at 1:39 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 20 hyperlink lists with the Internet Archive.
+The archiving routine has saved 24 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,21 +362,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 2:16 AM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-10-02T02:16:08.223901-05:00.hyperlinks.json) |
+| [October 1 at 2:38 PM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-10-01T14:38:54.236102-05:00.hyperlinks.json) |
+| [October 1 at 2:50 AM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-10-01T02:50:50.196134-05:00.hyperlinks.json) |
+| [September 30 at 2:53 PM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-30T14:53:51.132711-05:00.hyperlinks.json) |
 | [September 30 at 3:10 AM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-30T03:10:30.191989-05:00.hyperlinks.json) |
 | [September 29 at 2:02 PM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-29T14:02:42.171916-05:00.hyperlinks.json) |
 | [September 29 at 2:32 AM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-29T02:32:07.574865-05:00.hyperlinks.json) |
 | [September 28 at 2:09 PM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-28T14:09:17.254703-05:00.hyperlinks.json) |
 | [September 28 at 2:56 AM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-28T02:56:13.217135-05:00.hyperlinks.json) |
 | [September 27 at 2:42 PM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-27T14:42:10.145418-05:00.hyperlinks.json) |
-| [September 27 at 2:05 AM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-27T02:05:23.465737-05:00.hyperlinks.json) |
-| [September 26 at 2:12 PM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-26T14:12:09.766876-05:00.hyperlinks.json) |
-| [September 26 at 2:32 AM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-26T02:31:59.350578-05:00.hyperlinks.json) |
-| [September 25 at 1:47 PM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-25T13:47:11.576662-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 20 accessibility trees with the Internet Archive.
+The archiving routine has saved 24 accessibility trees with the Internet Archive.
 
 
 
@@ -384,22 +384,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 2:16 AM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-10-02T02:16:08.223901-05:00.accessibility.json) |
+| [October 1 at 2:38 PM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-10-01T14:38:54.236102-05:00.accessibility.json) |
+| [October 1 at 2:50 AM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-10-01T02:50:50.196134-05:00.accessibility.json) |
+| [September 30 at 2:53 PM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-30T14:53:51.132711-05:00.accessibility.json) |
 | [September 30 at 3:10 AM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-30T03:10:30.191989-05:00.accessibility.json) |
 | [September 29 at 2:02 PM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-29T14:02:42.171916-05:00.accessibility.json) |
 | [September 29 at 2:32 AM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-29T02:32:07.574865-05:00.accessibility.json) |
 | [September 28 at 2:09 PM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-28T14:09:17.254703-05:00.accessibility.json) |
 | [September 28 at 2:56 AM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-28T02:56:13.217135-05:00.accessibility.json) |
 | [September 27 at 2:42 PM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-27T14:42:10.145418-05:00.accessibility.json) |
-| [September 27 at 2:05 AM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-27T02:05:23.465737-05:00.accessibility.json) |
-| [September 26 at 2:12 PM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-26T14:12:09.766876-05:00.accessibility.json) |
-| [September 26 at 2:32 AM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-26T02:31:59.350578-05:00.accessibility.json) |
-| [September 25 at 1:47 PM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-25T13:47:11.576662-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,16 +407,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 2:16 AM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-10-02T02:16:08.223901-05:00.lighthouse.json) |
+| [October 1 at 2:39 PM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-10-01T14:38:54.236102-05:00.lighthouse.json) |
+| [October 1 at 2:50 AM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-10-01T02:50:50.196134-05:00.lighthouse.json) |
+| [September 30 at 2:53 PM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-30T14:53:51.132711-05:00.lighthouse.json) |
 | [September 30 at 3:10 AM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-30T03:10:30.191989-05:00.lighthouse.json) |
 | [September 29 at 2:02 PM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-29T14:02:42.171916-05:00.lighthouse.json) |
 | [September 29 at 2:32 AM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-29T02:32:07.574865-05:00.lighthouse.json) |
 | [September 28 at 2:09 PM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-28T14:09:17.254703-05:00.lighthouse.json) |
 | [September 28 at 2:56 AM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-28T02:56:13.217135-05:00.lighthouse.json) |
 | [September 27 at 2:42 PM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-27T14:42:10.145418-05:00.lighthouse.json) |
-| [September 27 at 2:05 AM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-27T02:05:23.465737-05:00.lighthouse.json) |
-| [September 26 at 2:12 PM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-26T14:12:09.766876-05:00.lighthouse.json) |
-| [September 26 at 2:32 AM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-26T02:31:59.350578-05:00.lighthouse.json) |
-| [September 25 at 1:47 PM](https://archive.org/download/timesrecordnews-2022/timesrecordnews-2022-09-25T13:47:11.576662-05:00.lighthouse.json) |
 
 
 

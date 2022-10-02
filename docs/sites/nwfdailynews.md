@@ -234,13 +234,76 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 17 screenshots with the Internet Archive.
+The archiving routine has saved 24 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-10-02T02:20:23.396015-05:00.jpg">
+  <img src="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-10-02T02:20:23.396015-05:00.jpg"
+     alt="Northwest Florida Daily News at 2022-10-02 02:20:25-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-10-02T02:20:23.396015-05:00.jpg">October 2 at 2:20 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-10-01T14:02:17.741769-05:00.jpg">
+  <img src="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-10-01T14:02:17.741769-05:00.jpg"
+     alt="Northwest Florida Daily News at 2022-10-01 14:02:19-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-10-01T14:02:17.741769-05:00.jpg">October 1 at 2:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-10-01T02:55:42.634723-05:00.jpg">
+  <img src="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-10-01T02:55:42.634723-05:00.jpg"
+     alt="Northwest Florida Daily News at 2022-10-01 02:55:44-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-10-01T02:55:42.634723-05:00.jpg">October 1 at 2:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-30T15:13:35.367184-05:00.jpg">
+  <img src="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-30T15:13:35.367184-05:00.jpg"
+     alt="Northwest Florida Daily News at 2022-09-30 15:13:37-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-30T15:13:35.367184-05:00.jpg">September 30 at 3:13 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-30T02:59:29.286239-05:00.jpg">
+  <img src="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-30T02:59:29.286239-05:00.jpg"
+     alt="Northwest Florida Daily News at 2022-09-30 02:59:31-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-30T02:59:29.286239-05:00.jpg">September 30 at 2:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-29T14:29:14.407628-05:00.jpg">
+  <img src="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-29T14:29:14.407628-05:00.jpg"
+     alt="Northwest Florida Daily News at 2022-09-29 14:29:16-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-29T14:29:14.407628-05:00.jpg">September 29 at 2:29 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-29T02:35:54.510736-05:00.jpg">
+  <img src="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-29T02:35:54.510736-05:00.jpg"
+     alt="Northwest Florida Daily News at 2022-09-29 02:35:56-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-29T02:35:54.510736-05:00.jpg">September 29 at 2:35 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-28T14:36:30.361619-05:00.jpg">
@@ -287,74 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-26T14:27:32.431441-05:00.jpg">September 26 at 2:27 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-26T02:42:26.075548-05:00.jpg">
-  <img src="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-26T02:42:26.075548-05:00.jpg"
-     alt="Northwest Florida Daily News at 2022-09-26 02:42:29-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-26T02:42:26.075548-05:00.jpg">September 26 at 2:42 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-25T13:30:23.417834-05:00.jpg">
-  <img src="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-25T13:30:23.417834-05:00.jpg"
-     alt="Northwest Florida Daily News at 2022-09-25 13:30:25-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-25T13:30:23.417834-05:00.jpg">September 25 at 1:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-25T01:54:09.315418-05:00.jpg">
-  <img src="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-25T01:54:09.315418-05:00.jpg"
-     alt="Northwest Florida Daily News at 2022-09-25 01:54:11-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-25T01:54:09.315418-05:00.jpg">September 25 at 1:54 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-24T13:30:17.341348-05:00.jpg">
-  <img src="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-24T13:30:17.341348-05:00.jpg"
-     alt="Northwest Florida Daily News at 2022-09-24 13:30:19-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-24T13:30:17.341348-05:00.jpg">September 24 at 1:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-24T01:54:53.677591-05:00.jpg">
-  <img src="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-24T01:54:53.677591-05:00.jpg"
-     alt="Northwest Florida Daily News at 2022-09-24 01:54:55-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-24T01:54:53.677591-05:00.jpg">September 24 at 1:54 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-23T13:47:08.448524-05:00.jpg">
-  <img src="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-23T13:47:08.448524-05:00.jpg"
-     alt="Northwest Florida Daily News at 2022-09-23 13:47:11-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-23T13:47:08.448524-05:00.jpg">September 23 at 1:47 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-23T02:18:43.191298-05:00.jpg">
-  <img src="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-23T02:18:43.191298-05:00.jpg"
-     alt="Northwest Florida Daily News at 2022-09-23 02:18:44-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-23T02:18:43.191298-05:00.jpg">September 23 at 2:18 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 24 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,21 +362,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 2:20 AM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-10-02T02:20:23.396015-05:00.hyperlinks.json) |
+| [October 1 at 2:02 PM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-10-01T14:02:17.741769-05:00.hyperlinks.json) |
+| [October 1 at 2:55 AM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-10-01T02:55:42.634723-05:00.hyperlinks.json) |
+| [September 30 at 3:13 PM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-30T15:13:35.367184-05:00.hyperlinks.json) |
+| [September 30 at 2:59 AM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-30T02:59:29.286239-05:00.hyperlinks.json) |
+| [September 29 at 2:29 PM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-29T14:29:14.407628-05:00.hyperlinks.json) |
+| [September 29 at 2:35 AM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-29T02:35:54.510736-05:00.hyperlinks.json) |
 | [September 28 at 2:36 PM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-28T14:36:30.361619-05:00.hyperlinks.json) |
 | [September 28 at 2:47 AM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-28T02:47:27.237582-05:00.hyperlinks.json) |
 | [September 27 at 2:08 PM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-27T14:08:20.915955-05:00.hyperlinks.json) |
-| [September 27 at 2:08 AM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-27T02:07:57.443177-05:00.hyperlinks.json) |
-| [September 26 at 2:27 PM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-26T14:27:32.431441-05:00.hyperlinks.json) |
-| [September 26 at 2:42 AM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-26T02:42:26.075548-05:00.hyperlinks.json) |
-| [September 25 at 1:30 PM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-25T13:30:23.417834-05:00.hyperlinks.json) |
-| [September 25 at 1:54 AM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-25T01:54:09.315418-05:00.hyperlinks.json) |
-| [September 24 at 1:30 PM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-24T13:30:17.341348-05:00.hyperlinks.json) |
-| [September 24 at 1:54 AM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-24T01:54:53.677591-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 17 accessibility trees with the Internet Archive.
+The archiving routine has saved 24 accessibility trees with the Internet Archive.
 
 
 
@@ -384,22 +384,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 2:20 AM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-10-02T02:20:23.396015-05:00.accessibility.json) |
+| [October 1 at 2:02 PM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-10-01T14:02:17.741769-05:00.accessibility.json) |
+| [October 1 at 2:55 AM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-10-01T02:55:42.634723-05:00.accessibility.json) |
+| [September 30 at 3:13 PM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-30T15:13:35.367184-05:00.accessibility.json) |
+| [September 30 at 2:59 AM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-30T02:59:29.286239-05:00.accessibility.json) |
+| [September 29 at 2:29 PM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-29T14:29:14.407628-05:00.accessibility.json) |
+| [September 29 at 2:35 AM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-29T02:35:54.510736-05:00.accessibility.json) |
 | [September 28 at 2:36 PM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-28T14:36:30.361619-05:00.accessibility.json) |
 | [September 28 at 2:47 AM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-28T02:47:27.237582-05:00.accessibility.json) |
 | [September 27 at 2:08 PM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-27T14:08:20.915955-05:00.accessibility.json) |
-| [September 27 at 2:08 AM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-27T02:07:57.443177-05:00.accessibility.json) |
-| [September 26 at 2:27 PM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-26T14:27:32.431441-05:00.accessibility.json) |
-| [September 26 at 2:42 AM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-26T02:42:26.075548-05:00.accessibility.json) |
-| [September 25 at 1:30 PM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-25T13:30:23.417834-05:00.accessibility.json) |
-| [September 25 at 1:54 AM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-25T01:54:09.315418-05:00.accessibility.json) |
-| [September 24 at 1:30 PM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-24T13:30:17.341348-05:00.accessibility.json) |
-| [September 24 at 1:54 AM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-24T01:54:53.677591-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,16 +407,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 2:20 AM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-10-02T02:20:23.396015-05:00.lighthouse.json) |
+| [October 1 at 2:02 PM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-10-01T14:02:17.741769-05:00.lighthouse.json) |
+| [October 1 at 2:55 AM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-10-01T02:55:42.634723-05:00.lighthouse.json) |
+| [September 30 at 3:13 PM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-30T15:13:35.367184-05:00.lighthouse.json) |
+| [September 30 at 2:59 AM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-30T02:59:29.286239-05:00.lighthouse.json) |
+| [September 29 at 2:29 PM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-29T14:29:14.407628-05:00.lighthouse.json) |
+| [September 29 at 2:36 AM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-29T02:35:54.510736-05:00.lighthouse.json) |
 | [September 28 at 2:36 PM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-28T14:36:30.361619-05:00.lighthouse.json) |
 | [September 28 at 2:47 AM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-28T02:47:27.237582-05:00.lighthouse.json) |
 | [September 27 at 2:08 PM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-27T14:08:20.915955-05:00.lighthouse.json) |
-| [September 27 at 2:08 AM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-27T02:07:57.443177-05:00.lighthouse.json) |
-| [September 26 at 2:27 PM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-26T14:27:32.431441-05:00.lighthouse.json) |
-| [September 26 at 2:42 AM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-26T02:42:26.075548-05:00.lighthouse.json) |
-| [September 25 at 1:30 PM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-25T13:30:23.417834-05:00.lighthouse.json) |
-| [September 25 at 1:54 AM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-25T01:54:09.315418-05:00.lighthouse.json) |
-| [September 24 at 1:30 PM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-24T13:30:17.341348-05:00.lighthouse.json) |
-| [September 24 at 1:55 AM](https://archive.org/download/nwfdailynews-2022/nwfdailynews-2022-09-24T01:54:53.677591-05:00.lighthouse.json) |
 
 
 

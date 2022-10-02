@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 22 screenshots with the Internet Archive.
+The archiving routine has saved 24 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ndn-2022/ndn-2022-10-02T02:10:12.793010-04:00.jpg">
+  <img src="https://archive.org/download/ndn-2022/ndn-2022-10-02T02:10:12.793010-04:00.jpg"
+     alt="Naples Daily News at 2022-10-02 02:10:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ndn-2022/ndn-2022-10-02T02:10:12.793010-04:00.jpg">October 2 at 2:10 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ndn-2022/ndn-2022-10-01T13:37:02.451343-04:00.jpg">
+  <img src="https://archive.org/download/ndn-2022/ndn-2022-10-01T13:37:02.451343-04:00.jpg"
+     alt="Naples Daily News at 2022-10-01 13:37:04-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ndn-2022/ndn-2022-10-01T13:37:02.451343-04:00.jpg">October 1 at 1:37 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ndn-2022/ndn-2022-10-01T02:21:03.128618-04:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ndn-2022/ndn-2022-09-26T13:35:27.296557-04:00.jpg">September 26 at 1:35 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ndn-2022/ndn-2022-09-26T02:06:46.621638-04:00.jpg">
-  <img src="https://archive.org/download/ndn-2022/ndn-2022-09-26T02:06:46.621638-04:00.jpg"
-     alt="Naples Daily News at 2022-09-26 02:06:48-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ndn-2022/ndn-2022-09-26T02:06:46.621638-04:00.jpg">September 26 at 2:06 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ndn-2022/ndn-2022-09-25T13:16:43.572434-04:00.jpg">
-  <img src="https://archive.org/download/ndn-2022/ndn-2022-09-25T13:16:43.572434-04:00.jpg"
-     alt="Naples Daily News at 2022-09-25 13:16:45-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ndn-2022/ndn-2022-09-25T13:16:43.572434-04:00.jpg">September 25 at 1:16 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 22 hyperlink lists with the Internet Archive.
+The archiving routine has saved 24 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 2:10 AM](https://archive.org/download/ndn-2022/ndn-2022-10-02T02:10:12.793010-04:00.hyperlinks.json) |
+| [October 1 at 1:37 PM](https://archive.org/download/ndn-2022/ndn-2022-10-01T13:37:02.451343-04:00.hyperlinks.json) |
 | [October 1 at 2:21 AM](https://archive.org/download/ndn-2022/ndn-2022-10-01T02:21:03.128618-04:00.hyperlinks.json) |
 | [September 30 at 2:21 PM](https://archive.org/download/ndn-2022/ndn-2022-09-30T14:20:25.265213-04:00.hyperlinks.json) |
 | [September 30 at 2:28 AM](https://archive.org/download/ndn-2022/ndn-2022-09-30T02:28:31.826697-04:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 28 at 1:45 PM](https://archive.org/download/ndn-2022/ndn-2022-09-28T13:45:15.027355-04:00.hyperlinks.json) |
 | [September 28 at 2:14 AM](https://archive.org/download/ndn-2022/ndn-2022-09-28T02:14:15.868529-04:00.hyperlinks.json) |
 | [September 27 at 1:42 PM](https://archive.org/download/ndn-2022/ndn-2022-09-27T13:41:57.276225-04:00.hyperlinks.json) |
-| [September 27 at 1:45 AM](https://archive.org/download/ndn-2022/ndn-2022-09-27T01:45:13.335550-04:00.hyperlinks.json) |
-| [September 26 at 1:35 PM](https://archive.org/download/ndn-2022/ndn-2022-09-26T13:35:27.296557-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 22 accessibility trees with the Internet Archive.
+The archiving routine has saved 24 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 2:10 AM](https://archive.org/download/ndn-2022/ndn-2022-10-02T02:10:12.793010-04:00.accessibility.json) |
+| [October 1 at 1:37 PM](https://archive.org/download/ndn-2022/ndn-2022-10-01T13:37:02.451343-04:00.accessibility.json) |
 | [October 1 at 2:21 AM](https://archive.org/download/ndn-2022/ndn-2022-10-01T02:21:03.128618-04:00.accessibility.json) |
 | [September 30 at 2:20 PM](https://archive.org/download/ndn-2022/ndn-2022-09-30T14:20:25.265213-04:00.accessibility.json) |
 | [September 30 at 2:28 AM](https://archive.org/download/ndn-2022/ndn-2022-09-30T02:28:31.826697-04:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 28 at 1:45 PM](https://archive.org/download/ndn-2022/ndn-2022-09-28T13:45:15.027355-04:00.accessibility.json) |
 | [September 28 at 2:14 AM](https://archive.org/download/ndn-2022/ndn-2022-09-28T02:14:15.868529-04:00.accessibility.json) |
 | [September 27 at 1:42 PM](https://archive.org/download/ndn-2022/ndn-2022-09-27T13:41:57.276225-04:00.accessibility.json) |
-| [September 27 at 1:45 AM](https://archive.org/download/ndn-2022/ndn-2022-09-27T01:45:13.335550-04:00.accessibility.json) |
-| [September 26 at 1:35 PM](https://archive.org/download/ndn-2022/ndn-2022-09-26T13:35:27.296557-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 2:10 AM](https://archive.org/download/ndn-2022/ndn-2022-10-02T02:10:12.793010-04:00.lighthouse.json) |
+| [October 1 at 1:37 PM](https://archive.org/download/ndn-2022/ndn-2022-10-01T13:37:02.451343-04:00.lighthouse.json) |
 | [October 1 at 2:21 AM](https://archive.org/download/ndn-2022/ndn-2022-10-01T02:21:03.128618-04:00.lighthouse.json) |
 | [September 30 at 2:21 PM](https://archive.org/download/ndn-2022/ndn-2022-09-30T14:20:25.265213-04:00.lighthouse.json) |
 | [September 30 at 2:28 AM](https://archive.org/download/ndn-2022/ndn-2022-09-30T02:28:31.826697-04:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 28 at 1:45 PM](https://archive.org/download/ndn-2022/ndn-2022-09-28T13:45:15.027355-04:00.lighthouse.json) |
 | [September 28 at 2:14 AM](https://archive.org/download/ndn-2022/ndn-2022-09-28T02:14:15.868529-04:00.lighthouse.json) |
 | [September 27 at 1:42 PM](https://archive.org/download/ndn-2022/ndn-2022-09-27T13:41:57.276225-04:00.lighthouse.json) |
-| [September 27 at 1:45 AM](https://archive.org/download/ndn-2022/ndn-2022-09-27T01:45:13.335550-04:00.lighthouse.json) |
-| [September 26 at 1:35 PM](https://archive.org/download/ndn-2022/ndn-2022-09-26T13:35:27.296557-04:00.lighthouse.json) |
 
 
 

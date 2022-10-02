@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 28 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/argusleader-2022/argusleader-2022-10-02T00:46:58.273704-05:00.jpg">
+  <img src="https://archive.org/download/argusleader-2022/argusleader-2022-10-02T00:46:58.273704-05:00.jpg"
+     alt="Sioux Falls Argus Leader at 2022-10-02 00:47:01-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/argusleader-2022/argusleader-2022-10-02T00:46:58.273704-05:00.jpg">October 2 at 12:47 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/argusleader-2022/argusleader-2022-10-01T11:04:47.026787-05:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/argusleader-2022/argusleader-2022-09-27T11:04:46.752356-05:00.jpg">September 27 at 11:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/argusleader-2022/argusleader-2022-09-26T23:28:27.560485-05:00.jpg">
-  <img src="https://archive.org/download/argusleader-2022/argusleader-2022-09-26T23:28:27.560485-05:00.jpg"
-     alt="Sioux Falls Argus Leader at 2022-09-26 23:28:29-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/argusleader-2022/argusleader-2022-09-26T23:28:27.560485-05:00.jpg">September 26 at 11:28 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 27 hyperlink lists with the Internet Archive.
+The archiving routine has saved 28 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 12:47 AM](https://archive.org/download/argusleader-2022/argusleader-2022-10-02T00:46:58.273704-05:00.hyperlinks.json) |
 | [October 1 at 11:04 AM](https://archive.org/download/argusleader-2022/argusleader-2022-10-01T11:04:47.026787-05:00.hyperlinks.json) |
 | [September 30 at 11:40 PM](https://archive.org/download/argusleader-2022/argusleader-2022-09-30T23:39:52.062799-05:00.hyperlinks.json) |
 | [September 30 at 11:25 AM](https://archive.org/download/argusleader-2022/argusleader-2022-09-30T11:25:46.118257-05:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 29 at 12:16 AM](https://archive.org/download/argusleader-2022/argusleader-2022-09-29T00:16:08.167651-05:00.hyperlinks.json) |
 | [September 28 at 11:11 AM](https://archive.org/download/argusleader-2022/argusleader-2022-09-28T11:11:28.491343-05:00.hyperlinks.json) |
 | [September 28 at 11:08 AM](https://archive.org/download/argusleader-2022/argusleader-2022-09-28T11:08:26.777375-05:00.hyperlinks.json) |
-| [September 28 at 1:03 AM](https://archive.org/download/argusleader-2022/argusleader-2022-09-28T01:03:13.714539-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 27 accessibility trees with the Internet Archive.
+The archiving routine has saved 28 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 12:47 AM](https://archive.org/download/argusleader-2022/argusleader-2022-10-02T00:46:58.273704-05:00.accessibility.json) |
 | [October 1 at 11:04 AM](https://archive.org/download/argusleader-2022/argusleader-2022-10-01T11:04:47.026787-05:00.accessibility.json) |
 | [September 30 at 11:40 PM](https://archive.org/download/argusleader-2022/argusleader-2022-09-30T23:39:52.062799-05:00.accessibility.json) |
 | [September 30 at 11:25 AM](https://archive.org/download/argusleader-2022/argusleader-2022-09-30T11:25:46.118257-05:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 29 at 12:16 AM](https://archive.org/download/argusleader-2022/argusleader-2022-09-29T00:16:08.167651-05:00.accessibility.json) |
 | [September 28 at 11:11 AM](https://archive.org/download/argusleader-2022/argusleader-2022-09-28T11:11:28.491343-05:00.accessibility.json) |
 | [September 28 at 11:08 AM](https://archive.org/download/argusleader-2022/argusleader-2022-09-28T11:08:26.777375-05:00.accessibility.json) |
-| [September 28 at 1:03 AM](https://archive.org/download/argusleader-2022/argusleader-2022-09-28T01:03:13.714539-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 12:47 AM](https://archive.org/download/argusleader-2022/argusleader-2022-10-02T00:46:58.273704-05:00.lighthouse.json) |
 | [October 1 at 11:04 AM](https://archive.org/download/argusleader-2022/argusleader-2022-10-01T11:04:47.026787-05:00.lighthouse.json) |
 | [September 30 at 11:40 PM](https://archive.org/download/argusleader-2022/argusleader-2022-09-30T23:39:52.062799-05:00.lighthouse.json) |
 | [September 30 at 11:25 AM](https://archive.org/download/argusleader-2022/argusleader-2022-09-30T11:25:46.118257-05:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 29 at 12:16 AM](https://archive.org/download/argusleader-2022/argusleader-2022-09-29T00:16:08.167651-05:00.lighthouse.json) |
 | [September 28 at 11:11 AM](https://archive.org/download/argusleader-2022/argusleader-2022-09-28T11:11:28.491343-05:00.lighthouse.json) |
 | [September 28 at 11:08 AM](https://archive.org/download/argusleader-2022/argusleader-2022-09-28T11:08:26.777375-05:00.lighthouse.json) |
-| [September 28 at 1:03 AM](https://archive.org/download/argusleader-2022/argusleader-2022-09-28T01:03:13.714539-05:00.lighthouse.json) |
 
 
 
