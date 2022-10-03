@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 355 screenshots with the Internet Archive.
+The archiving routine has saved 356 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 355 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-10-03T10:07:54.457574-05:00.jpg">
+  <img src="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-10-03T10:07:54.457574-05:00.jpg"
+     alt="Dubuque Telegraph Herald at 2022-10-03 10:08:04-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-10-03T10:07:54.457574-05:00.jpg">October 3 at 10:08 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-10-02T22:36:07.707948-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-09-28T11:09:14.552878-05:00.jpg">September 28 at 11:09 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-09-28T10:01:20.955140-05:00.jpg">
-  <img src="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-09-28T10:01:20.955140-05:00.jpg"
-     alt="Dubuque Telegraph Herald at 2022-09-28 10:01:23-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/telegraphherald-2022/telegraphherald-2022-09-28T10:01:20.955140-05:00.jpg">September 28 at 10:01 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 322 hyperlink lists with the Internet Archive.
+The archiving routine has saved 323 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 3 at 10:08 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-10-03T10:07:54.457574-05:00.hyperlinks.json) |
 | [October 2 at 10:36 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-10-02T22:36:07.707948-05:00.hyperlinks.json) |
 | [October 2 at 10:05 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-10-02T10:04:55.896064-05:00.hyperlinks.json) |
 | [October 1 at 10:42 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-10-01T22:42:13.580341-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 11:13 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-09-30T11:13:08.881698-05:00.hyperlinks.json) |
 | [September 29 at 10:51 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-09-29T22:51:06.055759-05:00.hyperlinks.json) |
 | [September 29 at 9:58 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-09-29T09:58:16.788368-05:00.hyperlinks.json) |
-| [September 28 at 10:41 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-09-28T22:41:17.263712-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 324 accessibility trees with the Internet Archive.
+The archiving routine has saved 325 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 3 at 10:08 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-10-03T10:07:54.457574-05:00.accessibility.json) |
 | [October 2 at 10:36 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-10-02T22:36:07.707948-05:00.accessibility.json) |
 | [October 2 at 10:04 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-10-02T10:04:55.896064-05:00.accessibility.json) |
 | [October 1 at 10:42 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-10-01T22:42:13.580341-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 11:13 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-09-30T11:13:08.881698-05:00.accessibility.json) |
 | [September 29 at 10:51 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-09-29T22:51:06.055759-05:00.accessibility.json) |
 | [September 29 at 9:58 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-09-29T09:58:16.788368-05:00.accessibility.json) |
-| [September 28 at 10:41 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-09-28T22:41:17.263712-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 173 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 174 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 3 at 10:08 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-10-03T10:07:54.457574-05:00.lighthouse.json) |
 | [October 2 at 10:36 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-10-02T22:36:07.707948-05:00.lighthouse.json) |
 | [October 2 at 10:05 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-10-02T10:04:55.896064-05:00.lighthouse.json) |
 | [October 1 at 10:42 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-10-01T22:42:13.580341-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 11:13 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-09-30T11:13:08.881698-05:00.lighthouse.json) |
 | [September 29 at 10:51 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-09-29T22:51:06.055759-05:00.lighthouse.json) |
 | [September 29 at 9:58 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-09-29T09:58:16.788368-05:00.lighthouse.json) |
-| [September 28 at 10:41 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-09-28T22:41:17.263712-05:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 222 screenshots with the Internet Archive.
+The archiving routine has saved 224 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/scotnational-2022/scotnational-2022-10-03T16:08:38.924401+01:00.jpg">
+  <img src="https://archive.org/download/scotnational-2022/scotnational-2022-10-03T16:08:38.924401+01:00.jpg"
+     alt="National at 2022-10-03 16:08:40+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-10-03T16:08:38.924401+01:00.jpg">October 3 at 4:08 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/scotnational-2022/scotnational-2022-10-03T10:20:06.611376+01:00.jpg">
+  <img src="https://archive.org/download/scotnational-2022/scotnational-2022-10-03T10:20:06.611376+01:00.jpg"
+     alt="National at 2022-10-03 10:20:14+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-10-03T10:20:06.611376+01:00.jpg">October 3 at 10:20 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/scotnational-2022/scotnational-2022-10-03T04:36:47.821362+01:00.jpg">
   <img src="https://archive.org/download/scotnational-2022/scotnational-2022-10-03T04:36:47.821362+01:00.jpg"
      alt="National at 2022-10-03 04:37:05+01:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-09-30T04:51:09.261046+01:00.jpg">September 30 at 4:51 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/scotnational-2022/scotnational-2022-09-29T15:57:45.280310+01:00.jpg">
-  <img src="https://archive.org/download/scotnational-2022/scotnational-2022-09-29T15:57:45.280310+01:00.jpg"
-     alt="National at 2022-09-29 15:57:46+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-09-29T15:57:45.280310+01:00.jpg">September 29 at 3:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/scotnational-2022/scotnational-2022-09-29T10:22:55.319871+01:00.jpg">
-  <img src="https://archive.org/download/scotnational-2022/scotnational-2022-09-29T10:22:55.319871+01:00.jpg"
-     alt="National at 2022-09-29 10:23:06+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-09-29T10:22:55.319871+01:00.jpg">September 29 at 10:23 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 217 hyperlink lists with the Internet Archive.
+The archiving routine has saved 219 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 3 at 4:08 PM](https://archive.org/download/scotnational-2022/scotnational-2022-10-03T16:08:38.924401+01:00.hyperlinks.json) |
+| [October 3 at 10:20 AM](https://archive.org/download/scotnational-2022/scotnational-2022-10-03T10:20:06.611376+01:00.hyperlinks.json) |
 | [October 3 at 4:37 AM](https://archive.org/download/scotnational-2022/scotnational-2022-10-03T04:36:47.821362+01:00.hyperlinks.json) |
 | [October 2 at 4:05 PM](https://archive.org/download/scotnational-2022/scotnational-2022-10-02T16:05:34.919881+01:00.hyperlinks.json) |
 | [October 2 at 10:16 AM](https://archive.org/download/scotnational-2022/scotnational-2022-10-02T10:16:43.686205+01:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 10:19 AM](https://archive.org/download/scotnational-2022/scotnational-2022-10-01T10:19:23.560878+01:00.hyperlinks.json) |
 | [October 1 at 4:48 AM](https://archive.org/download/scotnational-2022/scotnational-2022-10-01T04:48:14.547160+01:00.hyperlinks.json) |
 | [September 30 at 5:13 PM](https://archive.org/download/scotnational-2022/scotnational-2022-09-30T17:13:08.436183+01:00.hyperlinks.json) |
-| [September 30 at 10:25 AM](https://archive.org/download/scotnational-2022/scotnational-2022-09-30T10:25:18.580520+01:00.hyperlinks.json) |
-| [September 30 at 4:51 AM](https://archive.org/download/scotnational-2022/scotnational-2022-09-30T04:51:09.261046+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 215 accessibility trees with the Internet Archive.
+The archiving routine has saved 217 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 3 at 4:08 PM](https://archive.org/download/scotnational-2022/scotnational-2022-10-03T16:08:38.924401+01:00.accessibility.json) |
+| [October 3 at 10:20 AM](https://archive.org/download/scotnational-2022/scotnational-2022-10-03T10:20:06.611376+01:00.accessibility.json) |
 | [October 3 at 4:37 AM](https://archive.org/download/scotnational-2022/scotnational-2022-10-03T04:36:47.821362+01:00.accessibility.json) |
 | [October 2 at 4:05 PM](https://archive.org/download/scotnational-2022/scotnational-2022-10-02T16:05:34.919881+01:00.accessibility.json) |
 | [October 2 at 10:16 AM](https://archive.org/download/scotnational-2022/scotnational-2022-10-02T10:16:43.686205+01:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 10:19 AM](https://archive.org/download/scotnational-2022/scotnational-2022-10-01T10:19:23.560878+01:00.accessibility.json) |
 | [October 1 at 4:48 AM](https://archive.org/download/scotnational-2022/scotnational-2022-10-01T04:48:14.547160+01:00.accessibility.json) |
 | [September 30 at 5:13 PM](https://archive.org/download/scotnational-2022/scotnational-2022-09-30T17:13:08.436183+01:00.accessibility.json) |
-| [September 30 at 10:25 AM](https://archive.org/download/scotnational-2022/scotnational-2022-09-30T10:25:18.580520+01:00.accessibility.json) |
-| [September 30 at 4:51 AM](https://archive.org/download/scotnational-2022/scotnational-2022-09-30T04:51:09.261046+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 188 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 190 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 3 at 4:08 PM](https://archive.org/download/scotnational-2022/scotnational-2022-10-03T16:08:38.924401+01:00.lighthouse.json) |
+| [October 3 at 10:20 AM](https://archive.org/download/scotnational-2022/scotnational-2022-10-03T10:20:06.611376+01:00.lighthouse.json) |
 | [October 3 at 4:37 AM](https://archive.org/download/scotnational-2022/scotnational-2022-10-03T04:36:47.821362+01:00.lighthouse.json) |
 | [October 2 at 4:05 PM](https://archive.org/download/scotnational-2022/scotnational-2022-10-02T16:05:34.919881+01:00.lighthouse.json) |
 | [October 2 at 10:17 AM](https://archive.org/download/scotnational-2022/scotnational-2022-10-02T10:16:43.686205+01:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 10:19 AM](https://archive.org/download/scotnational-2022/scotnational-2022-10-01T10:19:23.560878+01:00.lighthouse.json) |
 | [October 1 at 4:48 AM](https://archive.org/download/scotnational-2022/scotnational-2022-10-01T04:48:14.547160+01:00.lighthouse.json) |
 | [September 30 at 5:13 PM](https://archive.org/download/scotnational-2022/scotnational-2022-09-30T17:13:08.436183+01:00.lighthouse.json) |
-| [September 30 at 10:25 AM](https://archive.org/download/scotnational-2022/scotnational-2022-09-30T10:25:18.580520+01:00.lighthouse.json) |
-| [September 30 at 4:51 AM](https://archive.org/download/scotnational-2022/scotnational-2022-09-30T04:51:09.261046+01:00.lighthouse.json) |
 
 
 
