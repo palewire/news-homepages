@@ -1,5 +1,5 @@
 {
-  "created": 1664782704,
+  "created": 1664826801,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/29/items/platformer-2022",
@@ -8425,31 +8425,93 @@
       "format": "JSON"
     },
     {
+      "name": "platformer-2022-10-03T00:36:52.662348-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "platformer-2022-10-03T00:36:52.662348-07:00.jpg",
+      "mtime": "1664787534",
+      "size": "9046",
+      "md5": "3a2f84dec12f86bb4fe6b84f3a93daab",
+      "crc32": "da2df07b",
+      "sha1": "c0984e141978653548e45adc5b6877844ccb5efa"
+    },
+    {
+      "name": "platformer-2022-10-03T12:19:58.034480-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664824807",
+      "size": "16106",
+      "md5": "4543dc990f1cd2b50bb8321fdcf8a6c0",
+      "crc32": "4c63ca24",
+      "sha1": "96e263ebc865a4bb1caf7fdd7698b62ce5cd41a5",
+      "format": "JSON"
+    },
+    {
+      "name": "platformer-2022-10-03T12:19:58.034480-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664824810",
+      "size": "12345",
+      "md5": "51879624e0a7223d422adce18d6f8e78",
+      "crc32": "96ed02ef",
+      "sha1": "17fe0d7c3c7e2985e15ee9faef6b61234bc3fdde",
+      "format": "JSON"
+    },
+    {
+      "name": "platformer-2022-10-03T12:19:58.034480-07:00.jpg",
+      "source": "original",
+      "mtime": "1664824805",
+      "size": "246748",
+      "md5": "67f3f47574c06a77cbf4259761de48a7",
+      "crc32": "9ebc83c9",
+      "sha1": "5d2e2f647c6a0417477c4d27bc5bc400f10d8ec6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "platformer-2022-10-03T12:19:58.034480-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664824812",
+      "size": "1495",
+      "md5": "df3c33ba36e57a4dce276e1f673e8500",
+      "crc32": "62c2cf55",
+      "sha1": "95301ed97d44a81923ef87545d1defe79eb61348",
+      "format": "JSON"
+    },
+    {
+      "name": "platformer-2022-10-03T12:19:58.034480-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664824815",
+      "size": "208",
+      "md5": "65e69c66decc976633f257ae0565952f",
+      "crc32": "84c90848",
+      "sha1": "e321babc5693d1ad21b3307f94081f7279bbc750",
+      "format": "JSON"
+    },
+    {
       "name": "platformer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "67fe56aec5cdebe64d279ec6697219c3d3960277",
-      "mtime": "1664782691",
-      "size": "173492",
-      "md5": "39ae883a531b9d6389dd96ced6cd1b33",
-      "crc32": "26d67fac",
-      "sha1": "162e564bee5da6541b768cc49a890732161efee2",
+      "btih": "874c6de1c07733153ef6d2edb410bd904848a52f",
+      "mtime": "1664824870",
+      "size": "174769",
+      "md5": "1af0ec30b0ba5ce04cc326bbd6b67c58",
+      "crc32": "d12adb14",
+      "sha1": "266c594e6630f4ed1bc39eb33d75f11e7f5cac92",
       "format": "Archive BitTorrent"
     },
     {
       "name": "platformer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "77a4a04d0fd9957cf68c12ac1ed998c1",
+      "md5": "4c3cdf2127fc96b655e7bde0d613b792",
       "summation": "md5"
     },
     {
       "name": "platformer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664782645",
-      "size": "1048576",
-      "md5": "59cd85cbd63033e50957f9543c289d26",
-      "crc32": "27ab3dc2",
-      "sha1": "b699eefc0c569545f3d0faca7d7f12967a579ba2",
+      "mtime": "1664824822",
+      "size": "1056768",
+      "md5": "17f4a3e6242d9494f20c98e2fad5b30f",
+      "crc32": "7c9830c5",
+      "sha1": "ce2de3c93e1ab30080ba0ce032cbd9086475324b",
       "format": "Metadata"
     },
     {
@@ -8463,9 +8525,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 818,
-  "item_last_updated": 1664782691,
-  "item_size": 35101052,
+  "files_count": 824,
+  "item_last_updated": 1664824870,
+  "item_size": 35396469,
   "metadata": {
     "identifier": "platformer-2022",
     "collection": [
@@ -8483,11 +8545,19 @@
     "addeddate": "2022-07-25 06:47:18"
   },
   "pending_tasks": true,
+  "platformer-2022": {
+    "url": "https://www.platformer.news/",
+    "job_id": "spn2-1b2d7b4709c76e849bc782fd5284f912629f81ff",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "message": "Job failed.",
+    "resources": []
+  },
   "server": "ia601500.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426691770,
+      "task_id": 3427303627,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8495,7 +8565,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 963778548,
+  "uniq": 1790457145,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1664783106,
+  "created": 1664826980,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/8/items/sdut-2022",
@@ -23739,31 +23739,93 @@
       "format": "JSON"
     },
     {
+      "name": "sdut-2022-10-03T00:40:59.253321-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sdut-2022-10-03T00:40:59.253321-07:00.jpg",
+      "mtime": "1664785396",
+      "size": "9418",
+      "md5": "a2220439ab848373fbcb7ca99852ebc5",
+      "crc32": "caf0ebbd",
+      "sha1": "36dd2e1ac52267319d868c5adf6d28b26b08bf06"
+    },
+    {
+      "name": "sdut-2022-10-03T12:23:12.987733-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664824997",
+      "size": "50824",
+      "md5": "1cedc3119ab7d798ecdcd10f76a11e65",
+      "crc32": "2ccd4577",
+      "sha1": "212764e0e615510f2eec5bb4918fa5fc41618f50",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-10-03T12:23:12.987733-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664825000",
+      "size": "67264",
+      "md5": "8c91adb89db4006b2d540a9c5cac3310",
+      "crc32": "52954e4f",
+      "sha1": "30aded5f4ae3f9be7fb4f37b3cafb73f2414f4df",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-10-03T12:23:12.987733-07:00.jpg",
+      "source": "original",
+      "mtime": "1664824995",
+      "size": "283565",
+      "md5": "6da05571724736744133ec19eecbdab1",
+      "crc32": "87072e57",
+      "sha1": "35c39558762cec7899a0330fc494835fcdad2d2e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sdut-2022-10-03T12:23:12.987733-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664825002",
+      "size": "1585",
+      "md5": "b242ce808301ebc9c464cf2e169c8fcd",
+      "crc32": "58f84676",
+      "sha1": "595c8cc8b7d6a41b0b0afe0d1630a816bf29235b",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-10-03T12:23:12.987733-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664825004",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "sdut-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c886fc743de0a21297eb810805473ef61f711502",
-      "mtime": "1664783072",
-      "size": "472636",
-      "md5": "a05b67b88d7e20cfadb395f72a306c7a",
-      "crc32": "e4766aef",
-      "sha1": "e86027f32a7f8289726e1654bb4d44fd6a5ad718",
+      "btih": "28060674bb5d55b9222d6a522a07be996a385895",
+      "mtime": "1664825166",
+      "size": "473877",
+      "md5": "caf7bb57fbc4c48bfb264bdc84fc8cd4",
+      "crc32": "11babaf6",
+      "sha1": "1ed690454b2c8f972086e54209d74304b2fcc072",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sdut-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5650fdf4ebc4fad7f15c4d342f849f2d",
+      "md5": "6fb69c4fbefb6b365421194aebc1ad71",
       "summation": "md5"
     },
     {
       "name": "sdut-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664782946",
-      "size": "2732032",
-      "md5": "ba8f67e35a54161b2ab6906d851e5206",
-      "crc32": "7185d853",
-      "sha1": "cf25028fe9ab8390edc22eef529081bbad5d8ded",
+      "mtime": "1664825034",
+      "size": "2740224",
+      "md5": "e09d9c8ff5d447adcb65f4d9e409fe86",
+      "crc32": "af22fb85",
+      "sha1": "3e313383900e5ea103fcd552a571fbc6407a4d9e",
       "format": "Metadata"
     },
     {
@@ -23777,9 +23839,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2281,
-  "item_last_updated": 1664783072,
-  "item_size": 209308398,
+  "files_count": 2287,
+  "item_last_updated": 1664825166,
+  "item_size": 209730689,
   "metadata": {
     "identifier": "sdut-2022",
     "collection": [
@@ -23797,11 +23859,16 @@
     "addeddate": "2022-03-23 02:09:42"
   },
   "pending_tasks": true,
+  "sdut-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia601401.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426697733,
+      "task_id": 3427308097,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -23809,7 +23876,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 436910390,
+  "uniq": 1345070456,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]
