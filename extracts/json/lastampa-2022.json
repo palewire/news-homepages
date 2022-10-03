@@ -1,6 +1,5 @@
 {
-  "conflict": 1664759983,
-  "created": 1664759983,
+  "created": 1664801989,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/27/items/lastampa-2022",
@@ -6745,31 +6744,82 @@
       "sha1": "542c9e6edda1227f94b75c1ed659f19586e7c4da"
     },
     {
+      "name": "lastampa-2022-10-03T14:58:24.284880+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664801912",
+      "size": "70754",
+      "md5": "e7eed8825856e3847e8fb3531a2cf28c",
+      "crc32": "900df67a",
+      "sha1": "22893db64213c65a5497f59ff802187a483ec39a",
+      "format": "JSON"
+    },
+    {
+      "name": "lastampa-2022-10-03T14:58:24.284880+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664801913",
+      "size": "125549",
+      "md5": "09d785e654c652c9b75a27834ca75db8",
+      "crc32": "ae626f92",
+      "sha1": "2fc4acefe4aad1671228d2ae9d85f2286735a532",
+      "format": "JSON"
+    },
+    {
+      "name": "lastampa-2022-10-03T14:58:24.284880+02:00.jpg",
+      "source": "original",
+      "mtime": "1664801910",
+      "size": "289272",
+      "md5": "cc76cadd7848c59e99251b1a01278649",
+      "crc32": "c09cfd82",
+      "sha1": "56832b4952dfb8869ae858c318df5b9bf0900acc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lastampa-2022-10-03T14:58:24.284880+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664801915",
+      "size": "1467",
+      "md5": "61950e587714b629b2d6864111b03e35",
+      "crc32": "0e1a5276",
+      "sha1": "5f2d88b5caa50d8ddda2541733d59c513c9a0471",
+      "format": "JSON"
+    },
+    {
+      "name": "lastampa-2022-10-03T14:58:24.284880+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664801916",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "lastampa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "02689706ffe3c43dd57965b76bbc7e3df30c2645",
-      "mtime": "1664759964",
-      "size": "139075",
-      "md5": "11f278aefbf1128472e1346f8cfadf09",
-      "crc32": "d76d8a19",
-      "sha1": "b99c8d53844e03359c805066a7344109dc4c1a90",
+      "btih": "4ffc72adb80d9c3b063230dbaa646efa6aee013f",
+      "mtime": "1664801985",
+      "size": "140137",
+      "md5": "c84210dd6b0bf2eefc6dc7532f3cc790",
+      "crc32": "3ec590bd",
+      "sha1": "2c6cd80f89f84016feaa47b859bac5a1bd773cb9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lastampa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "874569e30b840e8fd3cc721b574c24c4",
+      "md5": "3fda7437145e240a185c51755830b3ad",
       "summation": "md5"
     },
     {
       "name": "lastampa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664759737",
-      "size": "843776",
-      "md5": "6360cfde5c2d7afbd7b3808cd661ac40",
-      "crc32": "7a3990ba",
-      "sha1": "0b4789eb70b878d9773d1f498b528785a22e5d10",
+      "mtime": "1664801931",
+      "size": "851968",
+      "md5": "ccdc6f93f6fb67bdcebb943a198b99d1",
+      "crc32": "df3d059d",
+      "sha1": "216b93d27347af004bc6e9dfb07b12bb5d24e945",
       "format": "Metadata"
     },
     {
@@ -6783,9 +6833,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 656,
-  "item_last_updated": 1664759964,
-  "item_size": 56196758,
+  "files_count": 661,
+  "item_last_updated": 1664801985,
+  "item_size": 56693256,
   "metadata": {
     "identifier": "lastampa-2022",
     "collection": [
@@ -6807,23 +6857,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426365931,
+      "task_id": 3426977055,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3426368726,
-      "cmd": "bup.php",
-      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1358680879,
+  "uniq": 767449520,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]

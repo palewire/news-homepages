@@ -1,6 +1,5 @@
 {
-  "conflict": 1664759674,
-  "created": 1664759674,
+  "created": 1664801850,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/5/items/hornelltribune-2022",
@@ -1629,31 +1628,82 @@
       "sha1": "f4ad1a022dd2eededc026b3a44c5ef4074d69db5"
     },
     {
+      "name": "hornelltribune-2022-10-03T08:56:13.994112-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664801778",
+      "size": "24223",
+      "md5": "bbd20dad46ca6fd6a20adef149be26b1",
+      "crc32": "3af1b303",
+      "sha1": "9cf7d364018641d711fa6aa9e5116c5a1d1dcac7",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-03T08:56:13.994112-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664801781",
+      "size": "33477",
+      "md5": "7f7710b3990fd7eb9ea30d4ff9d1e61a",
+      "crc32": "7740073d",
+      "sha1": "78614547084145c0ded6b3fa60d16bfc9aaea16b",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-03T08:56:13.994112-04:00.jpg",
+      "source": "original",
+      "mtime": "1664801776",
+      "size": "256467",
+      "md5": "e6db62f96b6efdc82c5e8b9633786dac",
+      "crc32": "e773bf7e",
+      "sha1": "8bb9ac35fe219ec9bbd18fb792b7874af5c23471",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hornelltribune-2022-10-03T08:56:13.994112-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664801788",
+      "size": "1531",
+      "md5": "215d2ac6c04f7059777fe3fd8c9d1f4c",
+      "crc32": "663c5b52",
+      "sha1": "027e1223f91dae9972b401b8d7607102a1602e06",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-03T08:56:13.994112-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664801790",
+      "size": "259370",
+      "md5": "fb4ac44e7c4a3d52fe1fd19b8b2c9a32",
+      "crc32": "5ab0cf84",
+      "sha1": "25109c5f8b9b123072983fb25a284fd414564c88",
+      "format": "JSON"
+    },
+    {
       "name": "hornelltribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6a9e6e799d50fde6428ed00aadd1c306e9b55b72",
-      "mtime": "1664759669",
-      "size": "35490",
-      "md5": "c5290163f6e7575eb5050b6312c843a4",
-      "crc32": "6226f26d",
-      "sha1": "56c35d008768d4a58f0008ced98bfaeef7695b55",
+      "btih": "f139595da980a0e3b072a97cbe0912bcfe5f0baa",
+      "mtime": "1664801839",
+      "size": "36584",
+      "md5": "236ed58bb90f23f7f6707fd7e6b0ea79",
+      "crc32": "ace79e2f",
+      "sha1": "73e4eb59244b0f84963b3340370be3fad4427ff1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hornelltribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "567b83f4dbc2ececa2a19760cc82ed2f",
+      "md5": "83a378f65fcae58ec9479b7861e037c6",
       "summation": "md5"
     },
     {
       "name": "hornelltribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664759584",
-      "size": "225280",
-      "md5": "955949bdef9c4b8d0fd78335d35b7b3d",
-      "crc32": "236c5af6",
-      "sha1": "670a6d3dc4b8459a905d5efe349a7e015acf1ef4",
+      "mtime": "1664801797",
+      "size": "229376",
+      "md5": "1ba9c348bd15b04c3e3fbd8f3e7252d2",
+      "crc32": "35177e8d",
+      "sha1": "351a594b528c7dabeb97d51a2d1cc4e7eace35e1",
       "format": "Metadata"
     },
     {
@@ -1667,9 +1717,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 161,
-  "item_last_updated": 1664759669,
-  "item_size": 11673687,
+  "files_count": 166,
+  "item_last_updated": 1664801839,
+  "item_size": 12253945,
   "metadata": {
     "identifier": "hornelltribune-2022",
     "collection": [
@@ -1691,23 +1741,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426361266,
+      "task_id": 3426975188,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3426362362,
-      "cmd": "bup.php",
-      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 92536177,
+  "uniq": 1303200916,
   "workable_servers": [
     "ia601504.us.archive.org"
   ]

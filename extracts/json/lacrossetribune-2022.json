@@ -1,5 +1,5 @@
 {
-  "created": 1664759971,
+  "created": 1664801976,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/31/items/lacrossetribune-2022",
@@ -15814,31 +15814,82 @@
       "sha1": "8babf9144612c85211cb1f9160f691f672d25f29"
     },
     {
+      "name": "lacrossetribune-2022-10-03T07:57:55.329910-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664801897",
+      "size": "26280",
+      "md5": "aaeb8cf994f602a30c5fcd39c85b20ba",
+      "crc32": "06a2eb4b",
+      "sha1": "e992662f88f65a12d96f7795c80e09ff93941631",
+      "format": "JSON"
+    },
+    {
+      "name": "lacrossetribune-2022-10-03T07:57:55.329910-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664801899",
+      "size": "83395",
+      "md5": "01bb50855725fd01f8da5804c7128d0d",
+      "crc32": "f3ba208c",
+      "sha1": "22a1493c7395554d6907984297c56fae9d6e615a",
+      "format": "JSON"
+    },
+    {
+      "name": "lacrossetribune-2022-10-03T07:57:55.329910-05:00.jpg",
+      "source": "original",
+      "mtime": "1664801895",
+      "size": "311748",
+      "md5": "80ddebbd691480ec94885d6ee2e17a0e",
+      "crc32": "ba365b89",
+      "sha1": "6300a0a3f00c13c3e17badb039ffd7b886c59a25",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lacrossetribune-2022-10-03T07:57:55.329910-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664801901",
+      "size": "1504",
+      "md5": "b6bb941f8c96deb5a840f34a0e968cb2",
+      "crc32": "f04c3d00",
+      "sha1": "a16ca91612914bd8f900d96bc980aff23c67a636",
+      "format": "JSON"
+    },
+    {
+      "name": "lacrossetribune-2022-10-03T07:57:55.329910-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664801903",
+      "size": "51851",
+      "md5": "cde7386d4566e3100234944cd407f2c7",
+      "crc32": "c45ab8ac",
+      "sha1": "18800f9dca472db604c1c67c38e6c5a1f8453a5e",
+      "format": "JSON"
+    },
+    {
       "name": "lacrossetribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3e4471dd2af503a006981dcddd918348959e0929",
-      "mtime": "1664759953",
-      "size": "332567",
-      "md5": "92039128b88435cc933798609fb26368",
-      "crc32": "e1570f32",
-      "sha1": "91348656debaf7c5ca3516ace95e1b14dd3eee22",
+      "btih": "a1d8a6bd6978c1a856a9fcb14a01f614ce01cacf",
+      "mtime": "1664801971",
+      "size": "333665",
+      "md5": "bc60d42377528b4ec0ad4db534676e43",
+      "crc32": "6a8522d2",
+      "sha1": "7f13edd1b4e431cab2bc0bfb647637df7ba9b1aa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lacrossetribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "35da7ff0c2b864fb95216349edfb3ac5",
+      "md5": "38f40add139e2840bd605252f25149b4",
       "summation": "md5"
     },
     {
       "name": "lacrossetribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664759741",
-      "size": "1851392",
-      "md5": "ce3c95a63441fcc69323b1bbae587f8a",
-      "crc32": "e6989be0",
-      "sha1": "1593ba97d1edb058399c085b69641486b9a46178",
+      "mtime": "1664801908",
+      "size": "1859584",
+      "md5": "a23fc3c8de172dddc18ad97e15e4c8ee",
+      "crc32": "b1247df9",
+      "sha1": "f10213efe1c138373d18837e1bc7e5de7a0b0eac",
       "format": "Metadata"
     },
     {
@@ -15852,9 +15903,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1521,
-  "item_last_updated": 1664759953,
-  "item_size": 143698836,
+  "files_count": 1526,
+  "item_last_updated": 1664801971,
+  "item_size": 144182904,
   "metadata": {
     "identifier": "lacrossetribune-2022",
     "collection": [
@@ -15871,10 +15922,21 @@
     "publicdate": "2022-03-23 23:06:48",
     "addeddate": "2022-03-23 23:06:48"
   },
+  "pending_tasks": true,
   "server": "ia902508.us.archive.org",
-  "uniq": 1221594810,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3426976931,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 473706505,
   "workable_servers": [
-    "ia902508.us.archive.org",
-    "ia802508.us.archive.org"
+    "ia902508.us.archive.org"
   ]
 }

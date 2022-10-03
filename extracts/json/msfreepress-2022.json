@@ -1,6 +1,5 @@
 {
-  "conflict": 1664760037,
-  "created": 1664760037,
+  "created": 1664802064,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/19/items/msfreepress-2022",
@@ -4553,31 +4552,82 @@
       "sha1": "384db3fb92a0f23907ea8bcd25a251fbf27cfedd"
     },
     {
+      "name": "msfreepress-2022-10-03T07:59:53.025819-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664802005",
+      "size": "27744",
+      "md5": "659f9bef61bbc8b6d3cb9358892459e8",
+      "crc32": "92c324e0",
+      "sha1": "61334d081c6a9c908d42eee12bf72b79d7c6ae54",
+      "format": "JSON"
+    },
+    {
+      "name": "msfreepress-2022-10-03T07:59:53.025819-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664802007",
+      "size": "36567",
+      "md5": "ca219e908d49574766aeb5207ae3ff88",
+      "crc32": "4757b534",
+      "sha1": "5655544e9653f5dc65bd8282254e4ecbaaca3db4",
+      "format": "JSON"
+    },
+    {
+      "name": "msfreepress-2022-10-03T07:59:53.025819-05:00.jpg",
+      "source": "original",
+      "mtime": "1664802000",
+      "size": "304260",
+      "md5": "20aec8751c613e7d704e6c99988fe09a",
+      "crc32": "771f185b",
+      "sha1": "b35c877f0bde8a736cfe1d17cff2a4397644eb4a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "msfreepress-2022-10-03T07:59:53.025819-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664802008",
+      "size": "1582",
+      "md5": "ef334988546bc447ba5b1c88de6b5f61",
+      "crc32": "0d64fbc1",
+      "sha1": "a2e622e436a2145b84501ca26a2c4cc4d74efbdc",
+      "format": "JSON"
+    },
+    {
+      "name": "msfreepress-2022-10-03T07:59:53.025819-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664802010",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "msfreepress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "52e9f7369302118547f8c07060c2c31ea44326ee",
-      "mtime": "1664760033",
-      "size": "95270",
-      "md5": "b3cb53a6bf9a202d62e9b41221beeafc",
-      "crc32": "651a1c4d",
-      "sha1": "c5fee82a5418e8d36636cbe755990d4da88788e9",
+      "btih": "736aa6410f65d8c9415f7fc317ef7feb1c0ae707",
+      "mtime": "1664802057",
+      "size": "96346",
+      "md5": "85bce16a3f3d1d0810451f9a39a74331",
+      "crc32": "47780d7e",
+      "sha1": "e1b7a407b72529024fb2e19d2b16e7666e5abf71",
       "format": "Archive BitTorrent"
     },
     {
       "name": "msfreepress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f65dcc47b497336db06090f7672df5c2",
+      "md5": "2fea579334106af7f05d5521d3f97e50",
       "summation": "md5"
     },
     {
       "name": "msfreepress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664759927",
-      "size": "581632",
-      "md5": "8567e1937ca344e8fcdfb980eaaef496",
-      "crc32": "3dd00b84",
-      "sha1": "b9d36acc6bdabd7d9285b3e5787ee1832ec73e21",
+      "mtime": "1664802017",
+      "size": "589824",
+      "md5": "1d23d6df089a1442cd74d219b7b0a5c1",
+      "crc32": "275f3eda",
+      "sha1": "af5fa7bac38b3ed8f24477d555a717d82ca5d80a",
       "format": "Metadata"
     },
     {
@@ -4591,9 +4641,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 444,
-  "item_last_updated": 1664760033,
-  "item_size": 28554718,
+  "files_count": 449,
+  "item_last_updated": 1664802057,
+  "item_size": 28934341,
   "metadata": {
     "identifier": "msfreepress-2022",
     "collection": [
@@ -4615,23 +4665,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426368738,
+      "task_id": 3426979237,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3426369390,
-      "cmd": "bup.php",
-      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 817268170,
+  "uniq": 1361429361,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

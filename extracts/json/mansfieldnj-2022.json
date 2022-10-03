@@ -1,5 +1,5 @@
 {
-  "created": 1664759941,
+  "created": 1664802070,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/5/items/mansfieldnj-2022",
@@ -1617,31 +1617,93 @@
       "format": "JSON"
     },
     {
+      "name": "mansfieldnj-2022-10-02T21:18:01.315567-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mansfieldnj-2022-10-02T21:18:01.315567-04:00.jpg",
+      "mtime": "1664760703",
+      "size": "9468",
+      "md5": "122426598180d7bf56a697251542596b",
+      "crc32": "345012c0",
+      "sha1": "153e197126575f28d73a4c97e661b02acd94ca15"
+    },
+    {
+      "name": "mansfieldnj-2022-10-03T08:59:54.004783-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664801999",
+      "size": "18359",
+      "md5": "c93056aaeb0ce231cc89a608b916813c",
+      "crc32": "1e2dd71e",
+      "sha1": "a439c9a845acea5a854a7609613d6a6d03ca97b2",
+      "format": "JSON"
+    },
+    {
+      "name": "mansfieldnj-2022-10-03T08:59:54.004783-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664802000",
+      "size": "28163",
+      "md5": "1dc17101c45d5e718d0e620b680732b6",
+      "crc32": "6e819333",
+      "sha1": "bb76f5623e4b638a5d7c3536d61b823ffd7bab4a",
+      "format": "JSON"
+    },
+    {
+      "name": "mansfieldnj-2022-10-03T08:59:54.004783-04:00.jpg",
+      "source": "original",
+      "mtime": "1664801997",
+      "size": "278173",
+      "md5": "bcf248401679ce2117e1925717ea4281",
+      "crc32": "1a054091",
+      "sha1": "4aeba07feb885eb36e5b0d99fa6b79f9850f2982",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mansfieldnj-2022-10-03T08:59:54.004783-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664802004",
+      "size": "1585",
+      "md5": "0d0ba86095f4e3eddf4187afdb3b0eef",
+      "crc32": "4c2c26d2",
+      "sha1": "dd36b915556da18d66a1eaaaacd60d0af7792e38",
+      "format": "JSON"
+    },
+    {
+      "name": "mansfieldnj-2022-10-03T08:59:54.004783-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664802006",
+      "size": "129625",
+      "md5": "20e9b614b0c47eb48d72684b68e7c8ce",
+      "crc32": "3fe685dd",
+      "sha1": "529bb829b376c1eba0f37eb19de19d380340886a",
+      "format": "JSON"
+    },
+    {
       "name": "mansfieldnj-2022_archive.torrent",
       "source": "metadata",
-      "btih": "db5217ca95282f9f5f6aa7503503f4db0babc7ab",
-      "mtime": "1664759934",
-      "size": "34708",
-      "md5": "2bfc9f43d0faa14a41aebeca8e4199eb",
-      "crc32": "2fe97761",
-      "sha1": "9df447ad9f39ac5c22f007f58c5e75ab0dbf0f89",
+      "btih": "8df695b07f655b4031c9043f73d2647a7f34a0f6",
+      "mtime": "1664802064",
+      "size": "35994",
+      "md5": "b00d5b3dd99d7c984490903ebcf29f45",
+      "crc32": "65762168",
+      "sha1": "da7bc59313e532e6515a4514b62e0be9089226d5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mansfieldnj-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "db4eaf689b26f2f570cf38b9cbef417c",
+      "md5": "65476e32a78b9f75c612eefedc7e6fc6",
       "summation": "md5"
     },
     {
       "name": "mansfieldnj-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664759895",
-      "size": "225280",
-      "md5": "2cbeb761b3d86eddd8786b772b6214e9",
-      "crc32": "1102bd58",
-      "sha1": "b321ae5f6e79c09d44aa521377cd2ec696ea7844",
+      "mtime": "1664802023",
+      "size": "229376",
+      "md5": "b3064492588fc90f59dccb28ae85fc1d",
+      "crc32": "ef6d2057",
+      "sha1": "3b4079b70d42927f7ecb86695bf93740eb57622d",
       "format": "Metadata"
     },
     {
@@ -1655,9 +1717,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 160,
-  "item_last_updated": 1664759934,
-  "item_size": 10211982,
+  "files_count": 166,
+  "item_last_updated": 1664802064,
+  "item_size": 10682737,
   "metadata": {
     "identifier": "mansfieldnj-2022",
     "collection": [
@@ -1679,15 +1741,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426368183,
+      "task_id": 3426979458,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1883575454,
+  "uniq": 1173792689,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

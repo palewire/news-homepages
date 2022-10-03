@@ -1,6 +1,5 @@
 {
-  "conflict": 1664760033,
-  "created": 1664760033,
+  "created": 1664801799,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/18/items/jstor_daily-2022",
@@ -8549,31 +8548,82 @@
       "sha1": "3a70fb5027edac24184ee1eddaf7fa911656be28"
     },
     {
+      "name": "jstor_daily-2022-10-03T08:55:26.557429-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664801740",
+      "size": "32758",
+      "md5": "e55132d329a5ae586fc8ed35cfc7c509",
+      "crc32": "9202e1da",
+      "sha1": "2a6f041d52883c44a2b9c4838e0348b8bc76d959",
+      "format": "JSON"
+    },
+    {
+      "name": "jstor_daily-2022-10-03T08:55:26.557429-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664801742",
+      "size": "22101",
+      "md5": "82d629d20f30ce9ae80ff685a46ebb07",
+      "crc32": "9579f49f",
+      "sha1": "9e10472052e8c72413b1650637293a0baf412c17",
+      "format": "JSON"
+    },
+    {
+      "name": "jstor_daily-2022-10-03T08:55:26.557429-04:00.jpg",
+      "source": "original",
+      "mtime": "1664801738",
+      "size": "358636",
+      "md5": "40d1cdd357b94296acb9fe5f797f3776",
+      "crc32": "e437acd5",
+      "sha1": "9f669b6db70f70fbfd97fcc227026f0e6d7e70c1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jstor_daily-2022-10-03T08:55:26.557429-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664801743",
+      "size": "1455",
+      "md5": "5d4be28930d93e80f7dbbc2db3896670",
+      "crc32": "02dcfd82",
+      "sha1": "20ee84f688d53f1c21f57efa12b1cd1dac0c91f3",
+      "format": "JSON"
+    },
+    {
+      "name": "jstor_daily-2022-10-03T08:55:26.557429-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664801746",
+      "size": "12897",
+      "md5": "09004c438f8435a374abae80b28c234c",
+      "crc32": "2bc472bf",
+      "sha1": "0fc85b5b6f2542bd6dc2dcd85beb7963161b7681",
+      "format": "JSON"
+    },
+    {
       "name": "jstor_daily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9316a3a2d9721d771ba6dfa822dc1aed0145a456",
-      "mtime": "1664760031",
-      "size": "177916",
-      "md5": "f156a2d27d125f2671c29ac6bef5d0e8",
-      "crc32": "22897310",
-      "sha1": "5a539e83ffc03b5664db3e1432f493016fd0c4fe",
+      "btih": "9ec8d4d41f0098054aa6136210c9df28c8fad7cb",
+      "mtime": "1664801795",
+      "size": "178994",
+      "md5": "15b2baf10bfbe7ef1a2d7ad2e246f749",
+      "crc32": "aebcabca",
+      "sha1": "58985cd4a74329a126db7ae8c13fed9f072be8d7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jstor_daily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d689130fc3012e5fc3228053529bff3d",
+      "md5": "3b81a1ce844358b9e7ee2dc94e209b85",
       "summation": "md5"
     },
     {
       "name": "jstor_daily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664759571",
-      "size": "1064960",
-      "md5": "50d35e2b887211da9474583bbe0c0e9c",
-      "crc32": "b3cacf28",
-      "sha1": "016bbcc907c788c34bfbb5322f77186c35efa804",
+      "mtime": "1664801752",
+      "size": "1073152",
+      "md5": "80f4344dc928b05974eae0e674a85a82",
+      "crc32": "2641a35b",
+      "sha1": "f9e942c285f6aaaaefe972ec1fbe75553dc50b03",
       "format": "Metadata"
     },
     {
@@ -8587,9 +8637,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 830,
-  "item_last_updated": 1664760031,
-  "item_size": 59585850,
+  "files_count": 835,
+  "item_last_updated": 1664801795,
+  "item_size": 60022967,
   "metadata": {
     "identifier": "jstor_daily-2022",
     "collection": [
@@ -8611,23 +8661,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426361117,
+      "task_id": 3426974547,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3426369332,
-      "cmd": "bup.php",
-      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1251069475,
+  "uniq": 1334569391,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]
