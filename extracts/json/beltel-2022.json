@@ -1,5 +1,5 @@
 {
-  "created": 1664751977,
+  "created": 1664788887,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/28/items/beltel-2022",
@@ -12092,31 +12092,82 @@
       "sha1": "a6c7cb496af7f988ddbf954a522aaf5d82d1e383"
     },
     {
+      "name": "beltel-2022-10-03T10:20:07.226454+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664788814",
+      "size": "35845",
+      "md5": "ad507daabdaf494c6b9b5c0fc2ba400a",
+      "crc32": "acebb669",
+      "sha1": "360836823d9812806b7203aee64d64339af2b16d",
+      "format": "JSON"
+    },
+    {
+      "name": "beltel-2022-10-03T10:20:07.226454+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664788816",
+      "size": "78606",
+      "md5": "6dea78fb710f5f50594c32a7b4a7be6d",
+      "crc32": "1b908e15",
+      "sha1": "b8b82b0ca68fc6cd7edd5fb5faaddf51d9d00ab2",
+      "format": "JSON"
+    },
+    {
+      "name": "beltel-2022-10-03T10:20:07.226454+01:00.jpg",
+      "source": "original",
+      "mtime": "1664788812",
+      "size": "271343",
+      "md5": "accabc978ffaa88c044460ab03c6988e",
+      "crc32": "924824f0",
+      "sha1": "e27ac999227cc057295e8831910b76e1caa1e24a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "beltel-2022-10-03T10:20:07.226454+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664788817",
+      "size": "1548",
+      "md5": "87878d7ef95e315f06f97846446fc4fe",
+      "crc32": "36dafaa6",
+      "sha1": "0379d33e51d90740a440d346872e9aeecd7bf989",
+      "format": "JSON"
+    },
+    {
+      "name": "beltel-2022-10-03T10:20:07.226454+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1664788819",
+      "size": "215",
+      "md5": "ffdb46d481bfa3d9c16bfeb254b9ee46",
+      "crc32": "a8a68b6c",
+      "sha1": "b0b87578fd5e13303088487070fc3b176a4e8b35",
+      "format": "JSON"
+    },
+    {
       "name": "beltel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "92e12d3331c07c5482e78e487c068a40a705ab41",
-      "mtime": "1664751900",
-      "size": "244862",
-      "md5": "aae29c26a1cde0fd472e461581ba2e8a",
-      "crc32": "0cff8292",
-      "sha1": "67db913920592cf9ca6815d892e52cf11c8c8c59",
+      "btih": "b3d01e3f5cc1ad179f6c39738b5bff3cb2042c77",
+      "mtime": "1664788879",
+      "size": "245913",
+      "md5": "c04f1b42f1a2df97590d38039225c526",
+      "crc32": "5590a4b9",
+      "sha1": "27f4e7d3f23ae41ba052828f427dbbf4281a0e67",
       "format": "Archive BitTorrent"
     },
     {
       "name": "beltel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6a706a5a55f1631f07c64d7a6ad0db63",
+      "md5": "d13d683c8098c8df463903fce9841e42",
       "summation": "md5"
     },
     {
       "name": "beltel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664751703",
-      "size": "1478656",
-      "md5": "d8a18bb548685a2bc50db419cf205108",
-      "crc32": "f34be5ed",
-      "sha1": "d2b8cb5b63779fcbffa59cd0904052bdb1c29a1c",
+      "mtime": "1664788828",
+      "size": "1482752",
+      "md5": "01d3b0b98de4b8a5b21152dbf4f3be9a",
+      "crc32": "91a03324",
+      "sha1": "2aaf19c5d90242d518324ae4ef060b3a43657ec2",
       "format": "Metadata"
     },
     {
@@ -12130,9 +12181,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1172,
-  "item_last_updated": 1664751900,
-  "item_size": 83840442,
+  "files_count": 1177,
+  "item_last_updated": 1664788879,
+  "item_size": 84233146,
   "metadata": {
     "identifier": "beltel-2022",
     "collection": [
@@ -12149,10 +12200,21 @@
     "publicdate": "2022-07-18 00:59:08",
     "addeddate": "2022-07-18 00:59:08"
   },
+  "pending_tasks": true,
   "server": "ia601508.us.archive.org",
-  "uniq": 1831683476,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3426786100,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 48248413,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia601508.us.archive.org"
   ]
 }

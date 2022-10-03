@@ -1,5 +1,6 @@
 {
-  "created": 1664782267,
+  "conflict": 1664789053,
+  "created": 1664784262,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/7/items/theipaper-2022",
@@ -8913,21 +8914,32 @@
       "format": "JSON"
     },
     {
+      "name": "theipaper-2022-10-03T08:29:10.610569+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theipaper-2022-10-03T08:29:10.610569+01:00.jpg",
+      "mtime": "1664784221",
+      "size": "10473",
+      "md5": "b173799559e25cc021f0b3c928652157",
+      "crc32": "ed5e0b87",
+      "sha1": "a06ed5fe21598e2fa2c7e9dcd2450cfb80a4bc0c"
+    },
+    {
       "name": "theipaper-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8eabe12b25c4421f60d840a9a1d8d03cb7705538",
-      "mtime": "1664782247",
-      "size": "184229",
-      "md5": "877cb922d40492d416bebd415dd67b6d",
-      "crc32": "a7d4993b",
-      "sha1": "6ecd697dc69e0baaaf19c953114870ecb6640c73",
+      "btih": "07ab3df316aaba881d5362dcc3c7bff7fc0b9c8a",
+      "mtime": "1664784243",
+      "size": "184435",
+      "md5": "9fd2e7eb73ad4dce57a348d73da1eb10",
+      "crc32": "fc9c21a4",
+      "sha1": "bdf9aab4367daaebd8afe027ff6543f86924a49f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theipaper-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "75ea1ad2883c499e754efc8711d29290",
+      "md5": "e9cc0127670188abeefff6057fd42382",
       "summation": "md5"
     },
     {
@@ -8951,9 +8963,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 866,
-  "item_last_updated": 1664782247,
-  "item_size": 72062107,
+  "files_count": 867,
+  "item_last_updated": 1664784243,
+  "item_size": 72072786,
   "metadata": {
     "identifier": "theipaper-2022",
     "collection": [
@@ -8971,20 +8983,52 @@
     "addeddate": "2022-08-15 06:48:06"
   },
   "pending_tasks": true,
-  "server": "ia601506.us.archive.org",
+  "server": "ia801506.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426685943,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3426783699,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3426783767,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3426783850,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3426783930,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3426783983,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 542524571,
+  "uniq": 918283372,
   "workable_servers": [
-    "ia601506.us.archive.org"
+    "ia801506.us.archive.org"
   ]
 }

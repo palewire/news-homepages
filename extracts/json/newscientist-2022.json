@@ -1,5 +1,5 @@
 {
-  "created": 1664774374,
+  "created": 1664788875,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/27/items/newscientist-2022",
@@ -13000,31 +13000,82 @@
       "sha1": "bc54e77a017ea7693aeb439da5f9a24152540e56"
     },
     {
+      "name": "newscientist-2022-10-03T10:20:05.897660+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664788809",
+      "size": "17981",
+      "md5": "d1fc818446f528f54b570fd0fd24e218",
+      "crc32": "ba118548",
+      "sha1": "59f7cb24398e6393efbc6e95d2387802e71754a6",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-10-03T10:20:05.897660+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664788810",
+      "size": "14460",
+      "md5": "458808ac7db296f5ebb72c2aacb26610",
+      "crc32": "38148565",
+      "sha1": "0e4710dc07120198de79b2e779fbe30e32c2a01d",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-10-03T10:20:05.897660+01:00.jpg",
+      "source": "original",
+      "mtime": "1664788807",
+      "size": "299329",
+      "md5": "f3edfdfb94b0c27263f84c89c89c9024",
+      "crc32": "dabe7dfc",
+      "sha1": "ff22dc18efd892abe07496c3bb91a5a53326e1da",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newscientist-2022-10-03T10:20:05.897660+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664788812",
+      "size": "1513",
+      "md5": "a845d486b2db10c7e182999ef3adc46d",
+      "crc32": "54b1dc2e",
+      "sha1": "b1788842e9fc7a206f498e2b9d29d8c03fc55b99",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-10-03T10:20:05.897660+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1664788813",
+      "size": "254",
+      "md5": "65c8da20013f5ce4ccce04d7f7a983ec",
+      "crc32": "bb729f8a",
+      "sha1": "a149e1f10c6ef07bf36677cdf4a588c690b26739",
+      "format": "JSON"
+    },
+    {
       "name": "newscientist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1211f435fd7574e3cfcadc316a1508861c28e245",
-      "mtime": "1664774349",
-      "size": "270231",
-      "md5": "b94239cb59cca9de54c59cd004e0c627",
-      "crc32": "9b6f33b3",
-      "sha1": "86b38015a01d9ff3fa71c5db4f94455654f102e9",
+      "btih": "67e56663d4153c3a62f6cd70b41866a727692dc3",
+      "mtime": "1664788870",
+      "size": "271292",
+      "md5": "298ea41b48fc297da77cf42100e9aedb",
+      "crc32": "31e46aa2",
+      "sha1": "6995b8ce38128e010af3081e8643dc6a9e4f5ea2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newscientist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ad412f9bae3e799db406411a785696e0",
+      "md5": "14ee7e9d41a189218fcfd916dca0a06b",
       "summation": "md5"
     },
     {
       "name": "newscientist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664774135",
-      "size": "1585152",
-      "md5": "c8d87682486bfe76137e9e5dc50bec51",
-      "crc32": "51175e99",
-      "sha1": "42b7262a32b8610057533bce83863395e4cd4ea4",
+      "mtime": "1664788819",
+      "size": "1593344",
+      "md5": "2c5722b12898c8d4a835dffa994b0203",
+      "crc32": "9d43544b",
+      "sha1": "20a3d97ae7236e6835729cfcf704d2b05b831c7b",
       "format": "Metadata"
     },
     {
@@ -13038,9 +13089,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1258,
-  "item_last_updated": 1664774349,
-  "item_size": 82667132,
+  "files_count": 1263,
+  "item_last_updated": 1664788870,
+  "item_size": 83009922,
   "metadata": {
     "identifier": "newscientist-2022",
     "collection": [
@@ -13057,10 +13108,21 @@
     "publicdate": "2022-07-04 21:49:18",
     "addeddate": "2022-07-04 21:49:18"
   },
+  "pending_tasks": true,
   "server": "ia902503.us.archive.org",
-  "uniq": 86175407,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3426785841,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 208527101,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia902503.us.archive.org"
   ]
 }

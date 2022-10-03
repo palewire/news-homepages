@@ -1,5 +1,6 @@
 {
-  "created": 1664782964,
+  "conflict": 1664789050,
+  "created": 1664785341,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/34/items/simple_flying-2022",
@@ -7887,21 +7888,32 @@
       "format": "JSON"
     },
     {
+      "name": "simple_flying-2022-10-03T08:41:38.339544+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "simple_flying-2022-10-03T08:41:38.339544+01:00.jpg",
+      "mtime": "1664785289",
+      "size": "9039",
+      "md5": "3e0964120654b292a4a424facad194a4",
+      "crc32": "e3dd40bf",
+      "sha1": "a11ed4fefce76a85a8fd9ff836a6bc1baa1ec50f"
+    },
+    {
       "name": "simple_flying-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3bb23e8200928529ab9a84171dcc6a580512e076",
-      "mtime": "1664782959",
-      "size": "165529",
-      "md5": "93ad56e425aa1c67218178764bff539f",
-      "crc32": "ec0e0915",
-      "sha1": "9ff7d311e244f2ec29afab57617a8e5695523249",
+      "btih": "94df0f6d8d406f6612331b8575553e07b09c82e8",
+      "mtime": "1664785311",
+      "size": "165738",
+      "md5": "22ed5f9d9c2716492b2d79a607c896ec",
+      "crc32": "6717b512",
+      "sha1": "e5282c0f57b800668728eb3d523e315b144cd362",
       "format": "Archive BitTorrent"
     },
     {
       "name": "simple_flying-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "308dd93647bd4f35ac13dde471d8c7e6",
+      "md5": "e554635df90db26b21e01fe9565b26b1",
       "summation": "md5"
     },
     {
@@ -7925,9 +7937,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 767,
-  "item_last_updated": 1664782959,
-  "item_size": 45544783,
+  "files_count": 768,
+  "item_last_updated": 1664785311,
+  "item_size": 45554031,
   "metadata": {
     "identifier": "simple_flying-2022",
     "collection": [
@@ -7945,20 +7957,52 @@
     "addeddate": "2022-08-21 03:36:53"
   },
   "pending_tasks": true,
-  "server": "ia601506.us.archive.org",
+  "server": "ia801506.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426695414,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3426783588,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3426783632,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3426783694,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3426783757,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3426783807,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 2014920552,
+  "uniq": 1730459735,
   "workable_servers": [
-    "ia601506.us.archive.org"
+    "ia801506.us.archive.org"
   ]
 }
