@@ -1,5 +1,5 @@
 {
-  "created": 1664764385,
+  "created": 1664805951,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/2/items/news12nj-2022",
@@ -8340,31 +8340,82 @@
       "sha1": "324118b6c1a66a0394bfcd68f6bf5f802d979c05"
     },
     {
+      "name": "news12nj-2022-10-03T10:04:41.782040-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664805890",
+      "size": "19094",
+      "md5": "93b212d41fd46b83354be90d6556838b",
+      "crc32": "f815017a",
+      "sha1": "73e2e20991257beb44f1cb13cdf556d3ab535ef2",
+      "format": "JSON"
+    },
+    {
+      "name": "news12nj-2022-10-03T10:04:41.782040-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664805892",
+      "size": "24200",
+      "md5": "bdf25e0e471145a83895a29aea9ff07e",
+      "crc32": "7ae58cf9",
+      "sha1": "751598b6231e650e79b22db5e774775199cb1d13",
+      "format": "JSON"
+    },
+    {
+      "name": "news12nj-2022-10-03T10:04:41.782040-04:00.jpg",
+      "source": "original",
+      "mtime": "1664805887",
+      "size": "225752",
+      "md5": "8bc1920879c656fbd35afa6a46313a65",
+      "crc32": "a6b2d1d8",
+      "sha1": "c24821b3a2e17a19a9ed1536de946525be0e1566",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "news12nj-2022-10-03T10:04:41.782040-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664805894",
+      "size": "1509",
+      "md5": "8454c4f0cfd06152a882f86d28abe90f",
+      "crc32": "4e15f2dc",
+      "sha1": "8cd0e60bf7365ead1f68fe526f77f4b917161c9d",
+      "format": "JSON"
+    },
+    {
+      "name": "news12nj-2022-10-03T10:04:41.782040-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664805895",
+      "size": "17370",
+      "md5": "d06e30bd7c2f16f7ab4d2a98a8974013",
+      "crc32": "18600369",
+      "sha1": "c8354630b8d586e529f0fcbf8f5dfac0516f46a3",
+      "format": "JSON"
+    },
+    {
       "name": "news12nj-2022_archive.torrent",
       "source": "metadata",
-      "btih": "49678f8070f52326cf0feadd2c893ab64e2bb771",
-      "mtime": "1664764366",
-      "size": "170505",
-      "md5": "c81976663f5210437614856f67df1d37",
-      "crc32": "2f6f4729",
-      "sha1": "acdbb0d6237264d31928dcebbb04836973545875",
+      "btih": "034c2ad6423fd28fb86bdd99e948e7dc289cebf8",
+      "mtime": "1664805946",
+      "size": "171568",
+      "md5": "853d8c7b3dc06e93bd5f909994ec2413",
+      "crc32": "87c8396f",
+      "sha1": "9e9ddb5ca74781f35f67e72a84228ccb2a437efc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "news12nj-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8b22f803b24d39242eb78fbf8e303929",
+      "md5": "361d7ba32ce9b3ab370e6048ac1b30c3",
       "summation": "md5"
     },
     {
       "name": "news12nj-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664764079",
-      "size": "1036288",
-      "md5": "11a9b43fc5877373b51d82540de4f55d",
-      "crc32": "6930cb97",
-      "sha1": "9c57b52fcd0d3b4fa61369c556d32e5f9466d00d",
+      "mtime": "1664805901",
+      "size": "1044480",
+      "md5": "bdf05447d7ac8e4e9b5702cdb7e7568f",
+      "crc32": "56af70e6",
+      "sha1": "ac6929870fdfbc75836d269fcc8f13e12484e1f4",
       "format": "Metadata"
     },
     {
@@ -8378,9 +8429,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 810,
-  "item_last_updated": 1664764366,
-  "item_size": 43498686,
+  "files_count": 815,
+  "item_last_updated": 1664805946,
+  "item_size": 43795866,
   "metadata": {
     "identifier": "news12nj-2022",
     "collection": [
@@ -8397,10 +8448,21 @@
     "publicdate": "2022-07-26 00:20:38",
     "addeddate": "2022-07-26 00:20:38"
   },
+  "pending_tasks": true,
   "server": "ia902508.us.archive.org",
-  "uniq": 1707313979,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3427036834,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1932505132,
   "workable_servers": [
-    "ia902508.us.archive.org",
-    "ia802508.us.archive.org"
+    "ia902508.us.archive.org"
   ]
 }

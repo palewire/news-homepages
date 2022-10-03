@@ -1,5 +1,5 @@
 {
-  "created": 1664764808,
+  "created": 1664806334,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/33/items/sltimes-2022",
@@ -14550,31 +14550,82 @@
       "sha1": "5f7fde19763ca773d1167aef822ed8a204097ec6"
     },
     {
+      "name": "sltimes-2022-10-03T09:08:59.441322-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664806152",
+      "size": "25745",
+      "md5": "41a9dbb2de64d30de0f5e67be6daa71a",
+      "crc32": "66e56b50",
+      "sha1": "68e11075018fe4d7e4ee1c0257e4842a656423ee",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-10-03T09:08:59.441322-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664806154",
+      "size": "19905",
+      "md5": "ea1607b45d1d1790383b8f4094607fa0",
+      "crc32": "a0d3d20b",
+      "sha1": "1665857a1f9493f25d1b5b478f3d540db0b29a97",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-10-03T09:08:59.441322-05:00.jpg",
+      "source": "original",
+      "mtime": "1664806150",
+      "size": "366205",
+      "md5": "a19445e57aa341e1c99c4801561ea73c",
+      "crc32": "8223e34b",
+      "sha1": "f5583a162f02bbf248a21f2b75c9c33a1accbcf8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sltimes-2022-10-03T09:08:59.441322-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664806156",
+      "size": "1486",
+      "md5": "ac3f13358ae93ec772dbb08bd833463c",
+      "crc32": "50f4cc71",
+      "sha1": "a3fd434315c1edc6032e8c51f31a5495cbb024c1",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-10-03T09:08:59.441322-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664806158",
+      "size": "520",
+      "md5": "e607952e4f0d7cb917dfbc0a3f543b64",
+      "crc32": "f995d9c6",
+      "sha1": "52219d450c49cf6bc3d844fc6b73e64e130ce425",
+      "format": "JSON"
+    },
+    {
       "name": "sltimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "94773d13df2a6729459e5926aefbafecce45e829",
-      "mtime": "1664764667",
-      "size": "295527",
-      "md5": "6e48c9c383a259be3bf29b67de903e9b",
-      "crc32": "50f53639",
-      "sha1": "5aafa4900e2ab4f0447c46139f0f18e024301fc7",
+      "btih": "26d23eadca46c857fe53fb7a227af8180cff766f",
+      "mtime": "1664806316",
+      "size": "296583",
+      "md5": "5d651ff84c7f46b1b8a1122a2308c22a",
+      "crc32": "dc29800b",
+      "sha1": "4f3658b68665988276ff1ac55858a6836ccd72b8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sltimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d6f2fc5adb0569c8d1c7c5d7e3a29793",
+      "md5": "230ee066041695993dd1c6b6065d6031",
       "summation": "md5"
     },
     {
       "name": "sltimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664764468",
-      "size": "1728512",
-      "md5": "57478bc5510b4b0e4d308b02e431687b",
-      "crc32": "89c6b040",
-      "sha1": "7ff504f6497dd6e73e0c332f47fa025944a1131b",
+      "mtime": "1664806262",
+      "size": "1736704",
+      "md5": "61d316f7a601157a9f2e05d168f4da83",
+      "crc32": "421ed8bc",
+      "sha1": "9b3b6a34044f55223306c6d8716f9d5a39496dce",
       "format": "Metadata"
     },
     {
@@ -14588,9 +14639,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1404,
-  "item_last_updated": 1664764667,
-  "item_size": 121579519,
+  "files_count": 1409,
+  "item_last_updated": 1664806316,
+  "item_size": 122002628,
   "metadata": {
     "identifier": "sltimes-2022",
     "collection": [
@@ -14607,10 +14658,21 @@
     "publicdate": "2022-06-19 23:28:16",
     "addeddate": "2022-06-19 23:28:16"
   },
+  "pending_tasks": true,
   "server": "ia601502.us.archive.org",
-  "uniq": 1974286803,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3427042980,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 266953689,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia601502.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1664788875,
+  "created": 1664806100,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/31/items/oldiemagazine-2022",
@@ -8551,31 +8551,93 @@
       "format": "JSON"
     },
     {
+      "name": "oldiemagazine-2022-10-03T10:19:39.094505+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oldiemagazine-2022-10-03T10:19:39.094505+01:00.jpg",
+      "mtime": "1664791100",
+      "size": "8105",
+      "md5": "3452d2b7c514cb285993bea85b6a321c",
+      "crc32": "8e1f0766",
+      "sha1": "3ebe45678eb7ab080b003c9c4fc51e9d016dbc0f"
+    },
+    {
+      "name": "oldiemagazine-2022-10-03T15:06:52.177676+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664806020",
+      "size": "11603",
+      "md5": "eced30e56a34667bad1a70e216c29ee8",
+      "crc32": "388902d0",
+      "sha1": "28c222fc34a4b4858feaf2bc42e9aab5775a0bc3",
+      "format": "JSON"
+    },
+    {
+      "name": "oldiemagazine-2022-10-03T15:06:52.177676+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664806022",
+      "size": "11821",
+      "md5": "64b75b23a57019c94f49bb369b9a3fec",
+      "crc32": "bf20b39e",
+      "sha1": "2990bc7852bdc82e872e0d014071a7eaab3b2093",
+      "format": "JSON"
+    },
+    {
+      "name": "oldiemagazine-2022-10-03T15:06:52.177676+01:00.jpg",
+      "source": "original",
+      "mtime": "1664806018",
+      "size": "98210",
+      "md5": "575de45e4c1ff837a58dd5abab9ebd80",
+      "crc32": "563ae72b",
+      "sha1": "1cb23c5cd7997973c445a31b4010a48621036ba2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oldiemagazine-2022-10-03T15:06:52.177676+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664806024",
+      "size": "1492",
+      "md5": "9f34b687ed44f8752183cd77ff925ba3",
+      "crc32": "148364b1",
+      "sha1": "99922f72a7e0e7e0b7e4ae6999007b1a3d8600d3",
+      "format": "JSON"
+    },
+    {
+      "name": "oldiemagazine-2022-10-03T15:06:52.177676+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1664806026",
+      "size": "7228",
+      "md5": "96aec0ea8dede9e199604351b63182fa",
+      "crc32": "c58f723c",
+      "sha1": "a0572f29c574a451ac0b0eaf5a6762b957c15143",
+      "format": "JSON"
+    },
+    {
       "name": "oldiemagazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0b29d822db1af71730113af028e417d3161086b7",
-      "mtime": "1664788855",
-      "size": "177953",
-      "md5": "5430d8788ee42258927653a3d781b50e",
-      "crc32": "9773c642",
-      "sha1": "959965d3ea1b3dc2706ac1e5c9fa1595536da0cb",
+      "btih": "b848c7f5de9b97629aa1424ae2399f2569374a09",
+      "mtime": "1664806086",
+      "size": "179228",
+      "md5": "ab5cc7a2c5643e173b347544926e1307",
+      "crc32": "c9d8570f",
+      "sha1": "b97986f9904c30aa363351a4f222cd29b5fd33dc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oldiemagazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4479c54531eefecfd0675416598aff84",
+      "md5": "cf5f012091bbf0a5cec7bf70eaf02692",
       "summation": "md5"
     },
     {
       "name": "oldiemagazine-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664788812",
-      "size": "1077248",
-      "md5": "d718475330dc3873a67662f4557a6b03",
-      "crc32": "2d8e1f9e",
-      "sha1": "6e075be265596a441151f2a8818d9f046e6105ab",
+      "mtime": "1664806037",
+      "size": "1085440",
+      "md5": "952cba6cced307498af0d4c39b58a15a",
+      "crc32": "9ff6cd54",
+      "sha1": "e0601eddd78996c6579071a37f765846b6271949",
       "format": "Metadata"
     },
     {
@@ -8589,9 +8651,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 831,
-  "item_last_updated": 1664788855,
-  "item_size": 20162541,
+  "files_count": 837,
+  "item_last_updated": 1664806086,
+  "item_size": 20310467,
   "metadata": {
     "identifier": "oldiemagazine-2022",
     "collection": [
@@ -8613,7 +8675,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426786052,
+      "task_id": 3427039435,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8621,7 +8683,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1977808679,
+  "uniq": 1191177141,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

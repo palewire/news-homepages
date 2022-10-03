@@ -1,6 +1,5 @@
 {
-  "conflict": 1664764494,
-  "created": 1664764494,
+  "created": 1664806233,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/11/items/sahanjournal-2022",
@@ -16345,34 +16344,90 @@
       "name": "sahanjournal-2022-10-02T21:31:12.504457-05:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "sahanjournal-2022-10-02T21:31:12.504457-05:00.jpg"
+      "original": "sahanjournal-2022-10-02T21:31:12.504457-05:00.jpg",
+      "mtime": "1664764490",
+      "size": "10964",
+      "md5": "d92fe109bc514a13a0099f070b9b9892",
+      "crc32": "40aaa0aa",
+      "sha1": "b9e0c01baf13bf0044c7429b26b13f51bd9d389f"
+    },
+    {
+      "name": "sahanjournal-2022-10-03T09:09:06.988529-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664806155",
+      "size": "29248",
+      "md5": "eaf73ee8fe93557af83cf2307d46353c",
+      "crc32": "d5ccfa5b",
+      "sha1": "6fe6b2b439cc26a7d1283e38e3305a042b428c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-10-03T09:09:06.988529-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664806157",
+      "size": "29963",
+      "md5": "197a34050ee458bfe00071270a071aa7",
+      "crc32": "0afbb7a5",
+      "sha1": "2c008a27c04c98f0600defb0c1a0a9224a2178ec",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-10-03T09:09:06.988529-05:00.jpg",
+      "source": "original",
+      "mtime": "1664806152",
+      "size": "269525",
+      "md5": "6fd618d76d3ab88022aa799219cfaa49",
+      "crc32": "1f054acb",
+      "sha1": "0103d2a17e36431d67691afc7eb51043fee2e23c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sahanjournal-2022-10-03T09:09:06.988529-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664806159",
+      "size": "1477",
+      "md5": "b1c1b2308b2b6d973dee951f645216dd",
+      "crc32": "b7045c25",
+      "sha1": "37fb20101bf428f041a85c753576c86e261dc580",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-10-03T09:09:06.988529-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664806161",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
     },
     {
       "name": "sahanjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "eac77c7c482817ed46e618f136c461bc40f3d8ed",
-      "mtime": "1664764408",
-      "size": "337950",
-      "md5": "2a94c47d28bb20f03c2ae5a125a5cc4c",
-      "crc32": "8d2b55d5",
-      "sha1": "6a03cd697b96b7c341222e96dbfa42d18e65c7c7",
+      "btih": "c8b52d9bcb5a999595931a75280ac02d2c77b15b",
+      "mtime": "1664806225",
+      "size": "339240",
+      "md5": "40238b300f088f21640c3f65ddf7adf9",
+      "crc32": "01ae657f",
+      "sha1": "10f6aec51eeb408cd68054b8193328bde88efae0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sahanjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "36a8ba4505e081b8e371367acba12b3e",
+      "md5": "53d72725f09dcdf11937d1f490c91356",
       "summation": "md5"
     },
     {
       "name": "sahanjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664764352",
-      "size": "1912832",
-      "md5": "493a9853d9a5c47e26a7eedd3b69cc4a",
-      "crc32": "e0491d01",
-      "sha1": "832b1787b49df0c45b2ac2dd5e6e1e77be4103fe",
+      "mtime": "1664806166",
+      "size": "1916928",
+      "md5": "6c15144b134f729087349d45ed4dfe85",
+      "crc32": "4f05400c",
+      "sha1": "4055582709ecd405197fb4909910c2a46bb8d9dc",
       "format": "Metadata"
     },
     {
@@ -16386,9 +16441,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1573,
-  "item_last_updated": 1664764408,
-  "item_size": 119722102,
+  "files_count": 1578,
+  "item_last_updated": 1664806225,
+  "item_size": 120068867,
   "metadata": {
     "identifier": "sahanjournal-2022",
     "collection": [
@@ -16410,15 +16465,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426428785,
+      "task_id": 3427041324,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1729588438,
+  "uniq": 968624037,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]
