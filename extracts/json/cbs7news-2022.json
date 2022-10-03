@@ -1,10 +1,5 @@
 {
-  "cbs7news-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1664754957,
+  "created": 1664794331,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/8/items/cbs7news-2022",
@@ -9267,31 +9262,82 @@
       "sha1": "cd172aae8261d382d9a73074ffd1c16226a12772"
     },
     {
+      "name": "cbs7news-2022-10-03T05:50:44.111161-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664794254",
+      "size": "33733",
+      "md5": "0865208948d9929e662d92d1d1724b12",
+      "crc32": "293a9711",
+      "sha1": "b88ac3a57f1b816a71a622450ceaaec8a2e9c9f6",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-03T05:50:44.111161-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664794256",
+      "size": "15052",
+      "md5": "2dc2e3029e7b07e62d2def6a6e092bd3",
+      "crc32": "bbd34013",
+      "sha1": "f003c6972004f65d3ad127830c8062a588c037cd",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-03T05:50:44.111161-05:00.jpg",
+      "source": "original",
+      "mtime": "1664794252",
+      "size": "330829",
+      "md5": "b392bcc445009b3996e05a56ae253b9c",
+      "crc32": "5c40ce29",
+      "sha1": "a8df49638685df050e634269497a0f1df3f6ff31",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbs7news-2022-10-03T05:50:44.111161-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664794257",
+      "size": "1441",
+      "md5": "85cc8733dfd6908df0323dbb701da08f",
+      "crc32": "235d64bc",
+      "sha1": "4a33de64d6728b30990ae086d36ecb5f4aa9b0aa",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-03T05:50:44.111161-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664794259",
+      "size": "246",
+      "md5": "6691d65b66463e1aac75c9334b619fed",
+      "crc32": "649bc9b2",
+      "sha1": "80fd7f724cf3a2b5228000a7ff9fb20bc20f99f7",
+      "format": "JSON"
+    },
+    {
       "name": "cbs7news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c732eca145a81f52034fe94aee01d21f49e0fefc",
-      "mtime": "1664752086",
-      "size": "189871",
-      "md5": "34b1f7d1be1fd0fba765971df866631f",
-      "crc32": "96ea60cc",
-      "sha1": "0435847a2c8785a337dbc3673b56e85667231a7f",
+      "btih": "adb05b313623ce0fbb0bb0a8a7ea1b416e045190",
+      "mtime": "1664794322",
+      "size": "190912",
+      "md5": "c2ee47ffc786df7437f5adb1284d8a6f",
+      "crc32": "66fba276",
+      "sha1": "98f10b641b236c871c97b1646097a6032222ab13",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cbs7news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5ca70eb03932345dda79a1ef3b3e3ec5",
+      "md5": "0c83a61962bc38548e2fba7e6332e577",
       "summation": "md5"
     },
     {
       "name": "cbs7news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664751958",
-      "size": "1134592",
-      "md5": "c5b8fc202aa21a2e24656f1fdfad1e07",
-      "crc32": "2c9dd21c",
-      "sha1": "a8dd5755f04412afc6cc3c11f5f9f4c1315ea9ca",
+      "mtime": "1664794271",
+      "size": "1142784",
+      "md5": "ad7bdaf4dc6c8d7dbf575c9036a999e7",
+      "crc32": "76b73346",
+      "sha1": "c38d14b3194d92e055f77068834f1ffd257c03c8",
       "format": "Metadata"
     },
     {
@@ -9305,9 +9351,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 898,
-  "item_last_updated": 1664752086,
-  "item_size": 68378366,
+  "files_count": 903,
+  "item_last_updated": 1664794322,
+  "item_size": 68768900,
   "metadata": {
     "identifier": "cbs7news-2022",
     "collection": [
@@ -9324,10 +9370,21 @@
     "publicdate": "2022-07-18 00:04:04",
     "addeddate": "2022-07-18 00:04:04"
   },
+  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "uniq": 1673320526,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3426870463,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 370051649,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia601403.us.archive.org"
   ]
 }
