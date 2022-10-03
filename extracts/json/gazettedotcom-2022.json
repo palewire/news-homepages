@@ -1,5 +1,5 @@
 {
-  "created": 1664778405,
+  "created": 1664816936,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/4/items/gazettedotcom-2022",
@@ -17928,31 +17928,93 @@
       "sha1": "45b035cb8c3a09b7a2aab5bdaa5206fc7867f7a0"
     },
     {
+      "name": "gazettedotcom-2022-10-03T11:17:03.301065-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664813826",
+      "size": "43069",
+      "md5": "86a61a6f0a0c3870b45b85c06938f9e4",
+      "crc32": "b5a3cf54",
+      "sha1": "7d1c42a7e87d664f18deb61dc53c1f4933ccd2ab",
+      "format": "JSON"
+    },
+    {
+      "name": "gazettedotcom-2022-10-03T11:17:03.301065-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664813828",
+      "size": "80046",
+      "md5": "8331112e39c1e097d0ea9863e7840219",
+      "crc32": "01fffc76",
+      "sha1": "d52faf272dd501723c2509bea1b3b9c1322682cb",
+      "format": "JSON"
+    },
+    {
+      "name": "gazettedotcom-2022-10-03T11:17:03.301065-05:00.jpg",
+      "source": "original",
+      "mtime": "1664813824",
+      "size": "202097",
+      "md5": "281515f78e9739655d51ef44bfaacfa5",
+      "crc32": "4a0c72b7",
+      "sha1": "ed1b5506e2acbbe9371a0368d925f9ac20f3cfcf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gazettedotcom-2022-10-03T11:17:03.301065-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664813830",
+      "size": "1489",
+      "md5": "6581a7827a01d97cf7bbc7816c63fee8",
+      "crc32": "ad6e1a54",
+      "sha1": "740e4ccf0d3b3cb9dd899a5ca363c40c581d0081",
+      "format": "JSON"
+    },
+    {
+      "name": "gazettedotcom-2022-10-03T11:17:03.301065-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664813832",
+      "size": "207",
+      "md5": "1ca998757944d304d04acbbeb1e9f21a",
+      "crc32": "981c6ae6",
+      "sha1": "4c2311b1008f06dacb71123916e865a470f4f6ad",
+      "format": "JSON"
+    },
+    {
+      "name": "gazettedotcom-2022-10-03T11:17:03.301065-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gazettedotcom-2022-10-03T11:17:03.301065-05:00.jpg",
+      "mtime": "1664816761",
+      "size": "8244",
+      "md5": "e61d222835311a96be335230b2053dbf",
+      "crc32": "66ae6b49",
+      "sha1": "20b578718e10aa41d3e6f3b1c7146bc535328c15"
+    },
+    {
       "name": "gazettedotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ff93c62515cb46c5cf70b44c44201666dd0366c1",
-      "mtime": "1664778374",
-      "size": "372878",
-      "md5": "27ab0c5d30eb84ec8e56ef1275f8f677",
-      "crc32": "bb07ecac",
-      "sha1": "784814c3e4a02b1b426938871dd91f02f807d523",
+      "btih": "2c49266457cf64c8a0e946b82432c5d314c07de5",
+      "mtime": "1664816908",
+      "size": "374153",
+      "md5": "85daf47c8f6cfea5dd0fd55d12b50ebb",
+      "crc32": "1f6112b2",
+      "sha1": "41ee260fa9292fa2f09c629cf4cae908c5f5f279",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gazettedotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ac275bf696f21d8d21609d7b56edb33f",
+      "md5": "c7db5330868bb48f2290aa0f47220926",
       "summation": "md5"
     },
     {
       "name": "gazettedotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664777222",
-      "size": "2105344",
-      "md5": "7a99f84d60522f50ceb968fc875a4375",
-      "crc32": "4905bbfc",
-      "sha1": "97cfe60cd725843510ad07be21d1412736faafa9",
+      "mtime": "1664813849",
+      "size": "2113536",
+      "md5": "6ed5cfe08e8be46fd20f2b37534ef378",
+      "crc32": "27c90f7b",
+      "sha1": "45dcb7848ad481cc0649ab426c177884e6ec4a43",
       "format": "Metadata"
     },
     {
@@ -17966,9 +18028,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1725,
-  "item_last_updated": 1664778374,
-  "item_size": 148918447,
+  "files_count": 1731,
+  "item_last_updated": 1664816908,
+  "item_size": 149263066,
   "metadata": {
     "identifier": "gazettedotcom-2022",
     "collection": [
@@ -17985,10 +18047,10 @@
     "publicdate": "2022-03-25 03:34:38",
     "addeddate": "2022-03-25 03:34:38"
   },
-  "server": "ia802508.us.archive.org",
-  "uniq": 1500683860,
+  "server": "ia902508.us.archive.org",
+  "servers_unavailable": true,
+  "uniq": 689112611,
   "workable_servers": [
-    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }
