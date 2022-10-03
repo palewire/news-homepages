@@ -1,5 +1,5 @@
 {
-  "created": 1664689804,
+  "created": 1664775771,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/30/items/bcenquirer-2022",
@@ -1431,31 +1431,166 @@
       "format": "JSON"
     },
     {
+      "name": "bcenquirer-2022-10-02T01:49:03.535944-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bcenquirer-2022-10-02T01:49:03.535944-04:00.jpg",
+      "mtime": "1664692053",
+      "size": "9269",
+      "md5": "e694a92df27b260b428c43437e6c43bb",
+      "crc32": "f8a6093c",
+      "sha1": "0d56e1fe347682344ab8ed49a4cee6e008e1e031"
+    },
+    {
+      "name": "bcenquirer-2022-10-02T12:01:14.268415-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664726480",
+      "size": "20222",
+      "md5": "b891e9e979aee588b5f10a43d9641b54",
+      "crc32": "1f684726",
+      "sha1": "bea4206a22cb92a9413d13031e0fc6bd395a0822",
+      "format": "JSON"
+    },
+    {
+      "name": "bcenquirer-2022-10-02T12:01:14.268415-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664726481",
+      "size": "35574",
+      "md5": "9a652ea55cd9bd9774fa1494a2bdc5bf",
+      "crc32": "b872615f",
+      "sha1": "43ca9229cecc7b79041eb1898c67ad0c6c2b2d80",
+      "format": "JSON"
+    },
+    {
+      "name": "bcenquirer-2022-10-02T12:01:14.268415-04:00.jpg",
+      "source": "original",
+      "mtime": "1664726477",
+      "size": "276004",
+      "md5": "cac8230ffe5e5e476d6c11fd7c1d5769",
+      "crc32": "dd262670",
+      "sha1": "07cd25d665e8a573097792e857fc265387a96a12",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bcenquirer-2022-10-02T12:01:14.268415-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664726483",
+      "size": "1576",
+      "md5": "1812b11ad1b82f7c3e9d5177ede59df9",
+      "crc32": "4a604b0b",
+      "sha1": "32276391eff17695c6a5dd7e3ad3b6a878c6f109",
+      "format": "JSON"
+    },
+    {
+      "name": "bcenquirer-2022-10-02T12:01:14.268415-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664726486",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "bcenquirer-2022-10-02T12:01:14.268415-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bcenquirer-2022-10-02T12:01:14.268415-04:00.jpg",
+      "mtime": "1664726612",
+      "size": "9210",
+      "md5": "8460d87fb22a1c6912a8ff49cf73df03",
+      "crc32": "1d7ccce4",
+      "sha1": "d0e1fbdea845500589fb50ce2ca430d0860acf7c"
+    },
+    {
+      "name": "bcenquirer-2022-10-03T01:02:11.258831-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664773342",
+      "size": "21328",
+      "md5": "b26ce7abf34968ae3f846dac6ff90b47",
+      "crc32": "bfb09379",
+      "sha1": "acfc242ab3b14282775648853b01b036b6c42877",
+      "format": "JSON"
+    },
+    {
+      "name": "bcenquirer-2022-10-03T01:02:11.258831-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664773343",
+      "size": "32837",
+      "md5": "7e0fef3d9ef55cf1ee83a9a8e576a204",
+      "crc32": "c2f42b80",
+      "sha1": "c5b72ba8e0444e4601364b30f1caf94ef1e3091a",
+      "format": "JSON"
+    },
+    {
+      "name": "bcenquirer-2022-10-03T01:02:11.258831-04:00.jpg",
+      "source": "original",
+      "mtime": "1664773341",
+      "size": "276692",
+      "md5": "9e23a7826e90b08b69fb18e967620fae",
+      "crc32": "2837aa01",
+      "sha1": "c44a66df6564b2df1d810273923117165e782162",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bcenquirer-2022-10-03T01:02:11.258831-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664773345",
+      "size": "1576",
+      "md5": "98419e99a4b12437163be793e1c327f7",
+      "crc32": "e7f1e575",
+      "sha1": "2e3cb66546057bfae1e0c700b8d07470eace3c02",
+      "format": "JSON"
+    },
+    {
+      "name": "bcenquirer-2022-10-03T01:02:11.258831-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664773346",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "bcenquirer-2022-10-03T01:02:11.258831-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bcenquirer-2022-10-03T01:02:11.258831-04:00.jpg",
+      "mtime": "1664774565",
+      "size": "9708",
+      "md5": "d7453ddacd75013031b0044902572ac9",
+      "crc32": "995faba6",
+      "sha1": "695c9f530eacab3f63d23182abd057b78f6a5490"
+    },
+    {
       "name": "bcenquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "58cf8dc4cc48364c1671f40f878f6dc4d8aa756b",
-      "mtime": "1664689799",
-      "size": "30737",
-      "md5": "f54556803074175f5b1d9e3ac05c0c4c",
-      "crc32": "368ac9db",
-      "sha1": "377b06d34060517f35c8ce26d5616c8bd82bf59d",
+      "btih": "3d860e64bce957f1a383e182e767a4b8324102f3",
+      "mtime": "1664774581",
+      "size": "33477",
+      "md5": "5981bc187819a9238a4e507a2e46d038",
+      "crc32": "82f05e15",
+      "sha1": "7a29010daccb738af703ae688e6d3fa950e54b66",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bcenquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6688e1776522bbf6b27077efabcb4beb",
+      "md5": "55de6dfb8abf8f4b2b91bf1c088ba0ed",
       "summation": "md5"
     },
     {
       "name": "bcenquirer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664689760",
-      "size": "200704",
-      "md5": "6515e6a877b17b95cfa07f48f82f386e",
-      "crc32": "547a9dcb",
-      "sha1": "12b5146ffca6ccde02ef063b07fa6f17cc99c6fd",
+      "mtime": "1664773830",
+      "size": "212992",
+      "md5": "8f75463f4f5251776946d10e202463ef",
+      "crc32": "f983e33a",
+      "sha1": "0d21c82405101a7b9ff35291070f6823aaed2f97",
       "format": "Metadata"
     },
     {
@@ -1469,9 +1604,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 142,
-  "item_last_updated": 1664689799,
-  "item_size": 9144102,
+  "files_count": 155,
+  "item_last_updated": 1664774581,
+  "item_size": 9853530,
   "metadata": {
     "identifier": "bcenquirer-2022",
     "collection": [
@@ -1488,21 +1623,10 @@
     "publicdate": "2022-09-21 04:39:08",
     "addeddate": "2022-09-21 04:39:08"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3425491000,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 368613874,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1376213715,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }
