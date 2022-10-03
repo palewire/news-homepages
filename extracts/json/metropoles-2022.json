@@ -1,6 +1,5 @@
 {
-  "conflict": 1664716032,
-  "created": 1664716032,
+  "created": 1664759914,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/32/items/metropoles-2022",
@@ -9963,34 +9962,90 @@
       "name": "metropoles-2022-10-02T10:00:45.073261-03:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "metropoles-2022-10-02T10:00:45.073261-03:00.jpg"
+      "original": "metropoles-2022-10-02T10:00:45.073261-03:00.jpg",
+      "mtime": "1664716030",
+      "size": "9812",
+      "md5": "3414576cbba31c7f94b475660d600e0d",
+      "crc32": "e0080a4e",
+      "sha1": "ed00e8432eb15cc223e94d10f43d334baf8b15a7"
+    },
+    {
+      "name": "metropoles-2022-10-02T22:17:19.705796-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664759850",
+      "size": "74105",
+      "md5": "8b1e1f67969ec7b583f7c886dd2a739f",
+      "crc32": "e47d5658",
+      "sha1": "1947e495319408d552172deab578a060310a24f2",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-10-02T22:17:19.705796-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664759852",
+      "size": "82823",
+      "md5": "0a9602b6a20144c1830aa5e1659a7651",
+      "crc32": "8bd61461",
+      "sha1": "95a8109b51eba5398b85764a19567fbf85a27d57",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-10-02T22:17:19.705796-03:00.jpg",
+      "source": "original",
+      "mtime": "1664759847",
+      "size": "355299",
+      "md5": "516b9cd73f0ff69510afe1b08d71622d",
+      "crc32": "e789bed0",
+      "sha1": "40157ad30ed50fc46b80a4141c7838ed21c0034d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "metropoles-2022-10-02T22:17:19.705796-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664759853",
+      "size": "1494",
+      "md5": "63a840dc0f79962e04358192acb1bf64",
+      "crc32": "76848268",
+      "sha1": "d8430a65eef360db49af0a010d1559861571700d",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-10-02T22:17:19.705796-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664759856",
+      "size": "103",
+      "md5": "168a3e7b4919547285bea670dedb6659",
+      "crc32": "3d6c481a",
+      "sha1": "8ae591d96a639a5164276138481679b18d273035",
+      "format": "JSON"
     },
     {
       "name": "metropoles-2022_archive.torrent",
       "source": "metadata",
-      "btih": "36d5ee98ca2066cca10058dde65818352e6ea6a5",
-      "mtime": "1664715713",
-      "size": "206342",
-      "md5": "aab1ad62ce4b91e64eb50b7b972e7d8b",
-      "crc32": "b8735d0f",
-      "sha1": "a429bc0a3cbb452936c812f85e416f9d5d00f164",
+      "btih": "e2093a0f517e94d96c0e8145ce5f4b70435ec29c",
+      "mtime": "1664759907",
+      "size": "207619",
+      "md5": "81d6ea183d529a836fca61eaf0cc5683",
+      "crc32": "7251cfdb",
+      "sha1": "3bcf449aefd9b8f09f693cd1669cc388acae21fb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "metropoles-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "be703c70b6f413ce6f8025a70acb4d70",
+      "md5": "b840692b264210104738ec7090324d75",
       "summation": "md5"
     },
     {
       "name": "metropoles-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664715668",
-      "size": "1236992",
-      "md5": "ce7be360f46902dba06f710f718116dc",
-      "crc32": "0587ce45",
-      "sha1": "742a041b8860a6206269b5d346ba9666fe9374ff",
+      "mtime": "1664759861",
+      "size": "1245184",
+      "md5": "eac272e71842263a0960d89576a0e942",
+      "crc32": "ca3af34f",
+      "sha1": "1630a3c86e3fbf5393145232026beb8719ff342a",
       "format": "Metadata"
     },
     {
@@ -10004,9 +10059,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 968,
-  "item_last_updated": 1664715713,
-  "item_size": 78904820,
+  "files_count": 973,
+  "item_last_updated": 1664759907,
+  "item_size": 79437925,
   "metadata": {
     "identifier": "metropoles-2022",
     "collection": [
@@ -10028,7 +10083,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3425812901,
+      "task_id": 3426367769,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -10036,7 +10091,7 @@
       "status": "running"
     }
   ],
-  "uniq": 2116946398,
+  "uniq": 613645595,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]

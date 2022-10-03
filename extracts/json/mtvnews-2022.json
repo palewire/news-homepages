@@ -1,5 +1,5 @@
 {
-  "created": 1664715875,
+  "created": 1664759939,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/15/items/mtvnews-2022",
@@ -9064,31 +9064,82 @@
       "sha1": "cb3c6149a9c32d1bc8d8eb82326ae926eb2a5277"
     },
     {
+      "name": "mtvnews-2022-10-02T21:17:21.754558-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664759857",
+      "size": "7195",
+      "md5": "b04e1d90bba03dd56de3bdbf5ea4eb27",
+      "crc32": "bf1cd694",
+      "sha1": "039a430e98e3918437b3459a4a740d3d3b96c4af",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-02T21:17:21.754558-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664759859",
+      "size": "9045",
+      "md5": "239d8b0e56634710965fbd1ccbeef43e",
+      "crc32": "ff49cb1f",
+      "sha1": "50f2e5b6e04ec3860a744070e02aad5be7ddf2a8",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-02T21:17:21.754558-04:00.jpg",
+      "source": "original",
+      "mtime": "1664759853",
+      "size": "253027",
+      "md5": "6eefff444a3b9995ad47bde814771f59",
+      "crc32": "d3d06152",
+      "sha1": "85b103060243f5214bb867553cc05a5e1c2aff21",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtvnews-2022-10-02T21:17:21.754558-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664759860",
+      "size": "1468",
+      "md5": "9cef451bb33f1c1f4d0ed74f09849d4e",
+      "crc32": "547a19bf",
+      "sha1": "8ee1394b33f4c1c67b99296cb499d1f83670cfb0",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-02T21:17:21.754558-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664759862",
+      "size": "8792",
+      "md5": "2d48ca0b5f9f65f275579acb33b1d9c7",
+      "crc32": "14ae9090",
+      "sha1": "483f2a0854bd927849e48f69a40ebabaf6e45c9c",
+      "format": "JSON"
+    },
+    {
       "name": "mtvnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8f5075a1d1f6eb16e16a1dc14e41f7850f232bf0",
-      "mtime": "1664715806",
-      "size": "183953",
-      "md5": "4ae0221d1d4335ead851b1bf709176c4",
-      "crc32": "6679abcd",
-      "sha1": "0bd886f035f3789bddc9586ce47427752af0491f",
+      "btih": "feb4c93fc44555f1b113d02aaf32da85ce12dd8e",
+      "mtime": "1664759927",
+      "size": "185008",
+      "md5": "1f29426e0853e61ca24f712450bfb0ed",
+      "crc32": "0a8da7e8",
+      "sha1": "3a4a2b0f7bbd73742c1122b60e23b2b1a5fa6755",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mtvnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b14c5a35243ed83580bd20bdd34380dd",
+      "md5": "6c4dc8109ae91322785c6220730324dc",
       "summation": "md5"
     },
     {
       "name": "mtvnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664715675",
-      "size": "1110016",
-      "md5": "e5efe565a8959c5499bf0b1ff71732a6",
-      "crc32": "0b4e2fa2",
-      "sha1": "7d0bc1b32a50b8df2c3f5afccea81030454e0cf4",
+      "mtime": "1664759871",
+      "size": "1118208",
+      "md5": "254a40c55a52a27148a0dc8d276f6293",
+      "crc32": "ccc11139",
+      "sha1": "75ea0c51ffee9b5d66ab7484088d2e9acf4c67f4",
       "format": "Metadata"
     },
     {
@@ -9102,9 +9153,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 879,
-  "item_last_updated": 1664715806,
-  "item_size": 48928247,
+  "files_count": 884,
+  "item_last_updated": 1664759927,
+  "item_size": 49217021,
   "metadata": {
     "identifier": "mtvnews-2022",
     "collection": [
@@ -9121,10 +9172,21 @@
     "publicdate": "2022-07-18 03:27:44",
     "addeddate": "2022-07-18 03:27:44"
   },
+  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "uniq": 564426399,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3426368150,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1181884623,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia601408.us.archive.org"
   ]
 }

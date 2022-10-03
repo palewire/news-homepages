@@ -1,5 +1,5 @@
 {
-  "created": 1664740012,
+  "created": 1664759674,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/18/items/jezebel-2022",
@@ -12502,31 +12502,82 @@
       "sha1": "07fb9d56c176eff66bef354b8badbaf5d3543bc9"
     },
     {
+      "name": "jezebel-2022-10-02T21:13:24.013270-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664759606",
+      "size": "29539",
+      "md5": "c7b3ace82022f54f8cb197f7f8fd6ec4",
+      "crc32": "7bba945e",
+      "sha1": "a2515c16621e869740675188aa80599bc4507541",
+      "format": "JSON"
+    },
+    {
+      "name": "jezebel-2022-10-02T21:13:24.013270-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664759608",
+      "size": "20637",
+      "md5": "41fd6809de548c57edc4ec83c94d72d7",
+      "crc32": "03959bcc",
+      "sha1": "eb1603744ee017d313867f0e7ee63954cee4fea9",
+      "format": "JSON"
+    },
+    {
+      "name": "jezebel-2022-10-02T21:13:24.013270-04:00.jpg",
+      "source": "original",
+      "mtime": "1664759605",
+      "size": "262722",
+      "md5": "4180afb9f1dfe48f0335f83a332a7235",
+      "crc32": "106726e8",
+      "sha1": "e17700a9e5fe435942131bf3aa378d394766d8cc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jezebel-2022-10-02T21:13:24.013270-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664759610",
+      "size": "1427",
+      "md5": "7b66926f70c40496de3f1d0f9a12dc64",
+      "crc32": "9faf800e",
+      "sha1": "b805fe0ed6172a47aeb656c76d1f5a914d80ef33",
+      "format": "JSON"
+    },
+    {
+      "name": "jezebel-2022-10-02T21:13:24.013270-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664759611",
+      "size": "23842",
+      "md5": "fc785bf512c960d82860285e2da84a6c",
+      "crc32": "80f1bb35",
+      "sha1": "62b55edc750a6281703eba8ebf7030d2d8e3e4bc",
+      "format": "JSON"
+    },
+    {
       "name": "jezebel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d46391b0b4914d698228f1e2536cd289b49f794d",
-      "mtime": "1664739990",
-      "size": "253578",
-      "md5": "baeb4b05939a0d3d66dc41bf75a24090",
-      "crc32": "1b80f261",
-      "sha1": "bb43d15452df94d2870534612dba65545803828f",
+      "btih": "3472d612c61002eab2639e077bf90cdeb2624ad0",
+      "mtime": "1664759669",
+      "size": "254616",
+      "md5": "388c5566a0f87eb86287997c6d8b2ca5",
+      "crc32": "7d00c829",
+      "sha1": "db11a9634e5c59af504022657ebbe41f002e890c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jezebel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d842b1154106d176320c4d954f118e51",
+      "md5": "d06cdddf47a1d0c503b4b92136a5fced",
       "summation": "md5"
     },
     {
       "name": "jezebel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664739848",
-      "size": "1507328",
-      "md5": "f48a49536d150955fe89a6f764a792a2",
-      "crc32": "83290d53",
-      "sha1": "710a25dd0feacf9d71e0512ccdca64d8aa179601",
+      "mtime": "1664759617",
+      "size": "1515520",
+      "md5": "2b2b5147079499fda2ded71af11aa582",
+      "crc32": "ebe2259d",
+      "sha1": "0f8e355b688a16158e861a74f1c12b4929e6cd9c",
       "format": "Metadata"
     },
     {
@@ -12540,9 +12591,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1209,
-  "item_last_updated": 1664739990,
-  "item_size": 83218561,
+  "files_count": 1214,
+  "item_last_updated": 1664759669,
+  "item_size": 83565958,
   "metadata": {
     "identifier": "jezebel-2022",
     "collection": [
@@ -12559,10 +12610,21 @@
     "publicdate": "2022-07-18 17:50:14",
     "addeddate": "2022-07-18 17:50:14"
   },
-  "server": "ia802508.us.archive.org",
-  "uniq": 1297716952,
+  "pending_tasks": true,
+  "server": "ia902508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3426362329,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1018180622,
   "workable_servers": [
-    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

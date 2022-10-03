@@ -1,5 +1,5 @@
 {
-  "created": 1664716000,
+  "created": 1664759964,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/26/items/macrumors-2022",
@@ -8388,31 +8388,82 @@
       "sha1": "9dd7670fa379e7c0b12e2afc739c8c9ed27214e0"
     },
     {
+      "name": "macrumors-2022-10-02T21:17:23.301901-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664759855",
+      "size": "173846",
+      "md5": "4bf2070fb2a5284eb4de8904e0cff0b5",
+      "crc32": "c4dcf303",
+      "sha1": "b006804ec8e570ac5ccc4fcbd2d39b679bea8388",
+      "format": "JSON"
+    },
+    {
+      "name": "macrumors-2022-10-02T21:17:23.301901-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664759857",
+      "size": "119106",
+      "md5": "e586408b5641ac1196bf88781cf06348",
+      "crc32": "dc96a882",
+      "sha1": "b6a727571e0d7f382849cb999663618bda6b3bb6",
+      "format": "JSON"
+    },
+    {
+      "name": "macrumors-2022-10-02T21:17:23.301901-04:00.jpg",
+      "source": "original",
+      "mtime": "1664759853",
+      "size": "301033",
+      "md5": "816dedac54d31c6f3ab2563728e7618f",
+      "crc32": "da74c767",
+      "sha1": "0f97f1babbcad42ef98a104fcd176fa62867137d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "macrumors-2022-10-02T21:17:23.301901-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664759859",
+      "size": "1486",
+      "md5": "1300cb0b84df541d9115da3fda860a5e",
+      "crc32": "6da9250f",
+      "sha1": "51711f360e29496386c50bd118b08cc77e593c90",
+      "format": "JSON"
+    },
+    {
+      "name": "macrumors-2022-10-02T21:17:23.301901-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664759861",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "macrumors-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a913e02826cfd033971084e95857010fed2e69a1",
-      "mtime": "1664715919",
-      "size": "174229",
-      "md5": "368da16b990bc838351455759d826bd1",
-      "crc32": "cce3187a",
-      "sha1": "070aa7c08f452d18403b1c1caa5a647f18e7a3ce",
+      "btih": "52e88fcecea1940d9da6d6bf02690b48490db556",
+      "mtime": "1664759955",
+      "size": "175297",
+      "md5": "6783496618a1857be194d11a84a0361c",
+      "crc32": "b0dbf8a3",
+      "sha1": "c3e72786d952563a36f01e72ce8cb26e06d1bb83",
       "format": "Archive BitTorrent"
     },
     {
       "name": "macrumors-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "676cdd25acc08180e418514df57c9b62",
+      "md5": "71ad048ad4e7744b20935bcc71a8137b",
       "summation": "md5"
     },
     {
       "name": "macrumors-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664715697",
-      "size": "1036288",
-      "md5": "a883cdcd3c30eaf4f8938cdbf2fe9c8b",
-      "crc32": "489338d6",
-      "sha1": "90a35921b946d064083b572cc5822a24445fe866",
+      "mtime": "1664759885",
+      "size": "1044480",
+      "md5": "86960a937aae86a8ae1f6e4603a1d30d",
+      "crc32": "be572894",
+      "sha1": "6cd798d7b93769e646eb2d1271a3dbd0e20dbc6f",
       "format": "Metadata"
     },
     {
@@ -8426,9 +8477,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 814,
-  "item_last_updated": 1664715919,
-  "item_size": 89638440,
+  "files_count": 819,
+  "item_last_updated": 1664759955,
+  "item_size": 90243373,
   "metadata": {
     "identifier": "macrumors-2022",
     "collection": [
@@ -8445,10 +8496,21 @@
     "publicdate": "2022-07-25 06:47:43",
     "addeddate": "2022-07-25 06:47:43"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 734129113,
+  "pending_tasks": true,
+  "server": "ia601501.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3426368493,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 2139143762,
   "workable_servers": [
-    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

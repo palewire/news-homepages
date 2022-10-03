@@ -1,6 +1,5 @@
 {
-  "conflict": 1664715967,
-  "created": 1664715967,
+  "created": 1664759954,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/24/items/mddailyrecord-2022",
@@ -9423,34 +9422,90 @@
       "name": "mddailyrecord-2022-10-02T09:00:43.637079-04:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "mddailyrecord-2022-10-02T09:00:43.637079-04:00.jpg"
+      "original": "mddailyrecord-2022-10-02T09:00:43.637079-04:00.jpg",
+      "mtime": "1664715961",
+      "size": "10176",
+      "md5": "0286d1090efe557d995e841e999fbf92",
+      "crc32": "2d5b8f19",
+      "sha1": "0a124c4aa50e65852e35fe8fa83e19fb15972b12"
+    },
+    {
+      "name": "mddailyrecord-2022-10-02T21:17:40.121041-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664759863",
+      "size": "50484",
+      "md5": "723fdad9bef5ea4a4f7581cada5e8429",
+      "crc32": "201f8195",
+      "sha1": "b6467ed90b08be1b20bf68e2937aa90122da78fa",
+      "format": "JSON"
+    },
+    {
+      "name": "mddailyrecord-2022-10-02T21:17:40.121041-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664759864",
+      "size": "52320",
+      "md5": "60ac30bae9c923e080fcdcca0ed9d590",
+      "crc32": "8cc25506",
+      "sha1": "4c41bc5358dc15cc02fe1dad527a7ad751d4cad0",
+      "format": "JSON"
+    },
+    {
+      "name": "mddailyrecord-2022-10-02T21:17:40.121041-04:00.jpg",
+      "source": "original",
+      "mtime": "1664759861",
+      "size": "375057",
+      "md5": "9436876ef02281969db808c28568a5a1",
+      "crc32": "4bc5de7a",
+      "sha1": "da90067082b245c3ed3d5d83bcc1f1a519a2ba2b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mddailyrecord-2022-10-02T21:17:40.121041-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664759866",
+      "size": "1495",
+      "md5": "dd8404872dc65bfdb3ec33566c8a9dc5",
+      "crc32": "bee157c7",
+      "sha1": "3a0292fee2961110f6fa5e48a965b28d1dd3205a",
+      "format": "JSON"
+    },
+    {
+      "name": "mddailyrecord-2022-10-02T21:17:40.121041-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664759868",
+      "size": "46546",
+      "md5": "16c4ebd585a7d4094ed9465c5615db45",
+      "crc32": "9f76009b",
+      "sha1": "5213bd5ae1877bce91709f54b0a9b75475dd0b2d",
+      "format": "JSON"
     },
     {
       "name": "mddailyrecord-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2f701eda16adab1456de4930dbb16fdb6fe4ab77",
-      "mtime": "1664715773",
-      "size": "197553",
-      "md5": "e0d30f5ecafdc4280f12c4347d29e256",
-      "crc32": "f62b6393",
-      "sha1": "997b3c3d265d3e63e726b92bb3ea663f51b8ef68",
+      "btih": "25da19599e3363a893367b78931987a0ee35cb12",
+      "mtime": "1664759946",
+      "size": "198851",
+      "md5": "78021f9ad2f1d03d78abaed3ee138593",
+      "crc32": "f708d16b",
+      "sha1": "7be7e7e466658aced8f392b2237aa935b1d2a619",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mddailyrecord-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "331bb91a04f06701a68b15c18a98ad5f",
+      "md5": "69b92dc7e579f53237a86e6fa6da6acb",
       "summation": "md5"
     },
     {
       "name": "mddailyrecord-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664715698",
-      "size": "1155072",
-      "md5": "bad95c4911a43556b682361d12640d12",
-      "crc32": "dffce58c",
-      "sha1": "2d4424815a13d5f924c229a165c41157c26cd386",
+      "mtime": "1664759881",
+      "size": "1163264",
+      "md5": "017bc2a831f625020aaa16f5746b0f60",
+      "crc32": "d39e6b24",
+      "sha1": "c44449814780644541474357034348904eb28707",
       "format": "Metadata"
     },
     {
@@ -9464,9 +9519,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 913,
-  "item_last_updated": 1664715773,
-  "item_size": 80655184,
+  "files_count": 918,
+  "item_last_updated": 1664759946,
+  "item_size": 81200752,
   "metadata": {
     "identifier": "mddailyrecord-2022",
     "collection": [
@@ -9488,7 +9543,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3425814889,
+      "task_id": 3426368366,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -9496,7 +9551,7 @@
       "status": "running"
     }
   ],
-  "uniq": 1687965103,
+  "uniq": 433897946,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]
