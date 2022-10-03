@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 26 screenshots with the Internet Archive.
+The archiving routine has saved 27 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/petoskeynews-2022/petoskeynews-2022-10-03T15:20:46.858186-04:00.jpg">
+  <img src="https://archive.org/download/petoskeynews-2022/petoskeynews-2022-10-03T15:20:46.858186-04:00.jpg"
+     alt="Petoskey News-Review at 2022-10-03 15:20:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/petoskeynews-2022/petoskeynews-2022-10-03T15:20:46.858186-04:00.jpg">October 3 at 3:20 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/petoskeynews-2022/petoskeynews-2022-10-03T03:35:55.965518-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/petoskeynews-2022/petoskeynews-2022-09-28T03:47:14.326893-04:00.jpg">September 28 at 3:47 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/petoskeynews-2022/petoskeynews-2022-09-27T15:11:33.207440-04:00.jpg">
-  <img src="https://archive.org/download/petoskeynews-2022/petoskeynews-2022-09-27T15:11:33.207440-04:00.jpg"
-     alt="Petoskey News-Review at 2022-09-27 15:11:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/petoskeynews-2022/petoskeynews-2022-09-27T15:11:33.207440-04:00.jpg">September 27 at 3:11 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 26 hyperlink lists with the Internet Archive.
+The archiving routine has saved 27 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 3 at 3:20 PM](https://archive.org/download/petoskeynews-2022/petoskeynews-2022-10-03T15:20:46.858186-04:00.hyperlinks.json) |
 | [October 3 at 3:36 AM](https://archive.org/download/petoskeynews-2022/petoskeynews-2022-10-03T03:35:55.965518-04:00.hyperlinks.json) |
 | [October 2 at 3:07 PM](https://archive.org/download/petoskeynews-2022/petoskeynews-2022-10-02T15:07:32.398293-04:00.hyperlinks.json) |
 | [October 2 at 3:21 AM](https://archive.org/download/petoskeynews-2022/petoskeynews-2022-10-02T03:20:52.406282-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 4:01 AM](https://archive.org/download/petoskeynews-2022/petoskeynews-2022-09-30T04:01:33.708211-04:00.hyperlinks.json) |
 | [September 29 at 3:31 PM](https://archive.org/download/petoskeynews-2022/petoskeynews-2022-09-29T15:31:08.161031-04:00.hyperlinks.json) |
 | [September 29 at 3:37 AM](https://archive.org/download/petoskeynews-2022/petoskeynews-2022-09-29T03:37:03.496712-04:00.hyperlinks.json) |
-| [September 28 at 3:38 PM](https://archive.org/download/petoskeynews-2022/petoskeynews-2022-09-28T15:38:35.135630-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 26 accessibility trees with the Internet Archive.
+The archiving routine has saved 27 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 3 at 3:20 PM](https://archive.org/download/petoskeynews-2022/petoskeynews-2022-10-03T15:20:46.858186-04:00.accessibility.json) |
 | [October 3 at 3:35 AM](https://archive.org/download/petoskeynews-2022/petoskeynews-2022-10-03T03:35:55.965518-04:00.accessibility.json) |
 | [October 2 at 3:07 PM](https://archive.org/download/petoskeynews-2022/petoskeynews-2022-10-02T15:07:32.398293-04:00.accessibility.json) |
 | [October 2 at 3:20 AM](https://archive.org/download/petoskeynews-2022/petoskeynews-2022-10-02T03:20:52.406282-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 4:01 AM](https://archive.org/download/petoskeynews-2022/petoskeynews-2022-09-30T04:01:33.708211-04:00.accessibility.json) |
 | [September 29 at 3:31 PM](https://archive.org/download/petoskeynews-2022/petoskeynews-2022-09-29T15:31:08.161031-04:00.accessibility.json) |
 | [September 29 at 3:37 AM](https://archive.org/download/petoskeynews-2022/petoskeynews-2022-09-29T03:37:03.496712-04:00.accessibility.json) |
-| [September 28 at 3:38 PM](https://archive.org/download/petoskeynews-2022/petoskeynews-2022-09-28T15:38:35.135630-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 3 at 3:20 PM](https://archive.org/download/petoskeynews-2022/petoskeynews-2022-10-03T15:20:46.858186-04:00.lighthouse.json) |
 | [October 3 at 3:36 AM](https://archive.org/download/petoskeynews-2022/petoskeynews-2022-10-03T03:35:55.965518-04:00.lighthouse.json) |
 | [October 2 at 3:07 PM](https://archive.org/download/petoskeynews-2022/petoskeynews-2022-10-02T15:07:32.398293-04:00.lighthouse.json) |
 | [October 2 at 3:21 AM](https://archive.org/download/petoskeynews-2022/petoskeynews-2022-10-02T03:20:52.406282-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 4:01 AM](https://archive.org/download/petoskeynews-2022/petoskeynews-2022-09-30T04:01:33.708211-04:00.lighthouse.json) |
 | [September 29 at 3:31 PM](https://archive.org/download/petoskeynews-2022/petoskeynews-2022-09-29T15:31:08.161031-04:00.lighthouse.json) |
 | [September 29 at 3:37 AM](https://archive.org/download/petoskeynews-2022/petoskeynews-2022-09-29T03:37:03.496712-04:00.lighthouse.json) |
-| [September 28 at 3:38 PM](https://archive.org/download/petoskeynews-2022/petoskeynews-2022-09-28T15:38:35.135630-04:00.lighthouse.json) |
 
 
 

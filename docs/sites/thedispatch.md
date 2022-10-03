@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 226 screenshots with the Internet Archive.
+The archiving routine has saved 227 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 226 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thedispatch-2022/thedispatch-2022-10-03T15:10:34.834931-04:00.jpg">
+  <img src="https://archive.org/download/thedispatch-2022/thedispatch-2022-10-03T15:10:34.834931-04:00.jpg"
+     alt="Dispatch at 2022-10-03 15:10:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thedispatch-2022/thedispatch-2022-10-03T15:10:34.834931-04:00.jpg">October 3 at 3:10 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thedispatch-2022/thedispatch-2022-10-03T03:28:42.107059-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thedispatch-2022/thedispatch-2022-09-29T15:38:22.927672-04:00.jpg">September 29 at 3:38 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thedispatch-2022/thedispatch-2022-09-29T14:58:41.564598-04:00.jpg">
-  <img src="https://archive.org/download/thedispatch-2022/thedispatch-2022-09-29T14:58:41.564598-04:00.jpg"
-     alt="Dispatch at 2022-09-29 14:58:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thedispatch-2022/thedispatch-2022-09-29T14:58:41.564598-04:00.jpg">September 29 at 2:58 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 225 hyperlink lists with the Internet Archive.
+The archiving routine has saved 226 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 3 at 3:10 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-10-03T15:10:34.834931-04:00.hyperlinks.json) |
 | [October 3 at 3:28 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-10-03T03:28:42.107059-04:00.hyperlinks.json) |
 | [October 2 at 3:45 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-10-02T15:45:50.044513-04:00.hyperlinks.json) |
 | [October 2 at 3:36 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-10-02T15:36:23.978115-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 3:48 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-10-01T03:48:03.511602-04:00.hyperlinks.json) |
 | [September 30 at 4:20 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-09-30T16:20:51.683534-04:00.hyperlinks.json) |
 | [September 30 at 3:53 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-09-30T15:53:02.840673-04:00.hyperlinks.json) |
-| [September 30 at 4:10 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-09-30T04:10:00.133082-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 226 accessibility trees with the Internet Archive.
+The archiving routine has saved 227 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 3 at 3:10 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-10-03T15:10:34.834931-04:00.accessibility.json) |
 | [October 3 at 3:28 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-10-03T03:28:42.107059-04:00.accessibility.json) |
 | [October 2 at 3:45 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-10-02T15:45:50.044513-04:00.accessibility.json) |
 | [October 2 at 3:36 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-10-02T15:36:23.978115-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 3:48 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-10-01T03:48:03.511602-04:00.accessibility.json) |
 | [September 30 at 4:20 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-09-30T16:20:51.683534-04:00.accessibility.json) |
 | [September 30 at 3:53 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-09-30T15:53:02.840673-04:00.accessibility.json) |
-| [September 30 at 4:10 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-09-30T04:10:00.133082-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 208 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 209 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 3 at 3:10 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-10-03T15:10:34.834931-04:00.lighthouse.json) |
 | [October 3 at 3:28 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-10-03T03:28:42.107059-04:00.lighthouse.json) |
 | [October 2 at 3:45 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-10-02T15:45:50.044513-04:00.lighthouse.json) |
 | [October 2 at 3:36 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-10-02T15:36:23.978115-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 3:48 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-10-01T03:48:03.511602-04:00.lighthouse.json) |
 | [September 30 at 4:20 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-09-30T16:20:51.683534-04:00.lighthouse.json) |
 | [September 30 at 3:53 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-09-30T15:53:02.840673-04:00.lighthouse.json) |
-| [September 30 at 4:10 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-09-30T04:10:00.133082-04:00.lighthouse.json) |
 
 
 

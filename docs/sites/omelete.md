@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 171 screenshots with the Internet Archive.
+The archiving routine has saved 173 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/omelete-2022/omelete-2022-10-03T16:19:34.549133-03:00.jpg">
+  <img src="https://archive.org/download/omelete-2022/omelete-2022-10-03T16:19:34.549133-03:00.jpg"
+     alt="Omelete at 2022-10-03 16:19:46-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/omelete-2022/omelete-2022-10-03T16:19:34.549133-03:00.jpg">October 3 at 4:19 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/omelete-2022/omelete-2022-10-03T09:05:02.240596-03:00.jpg">
+  <img src="https://archive.org/download/omelete-2022/omelete-2022-10-03T09:05:02.240596-03:00.jpg"
+     alt="Omelete at 2022-10-03 09:05:09-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/omelete-2022/omelete-2022-10-03T09:05:02.240596-03:00.jpg">October 3 at 9:05 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/omelete-2022/omelete-2022-10-03T04:36:09.544853-03:00.jpg">
   <img src="https://archive.org/download/omelete-2022/omelete-2022-10-03T04:36:09.544853-03:00.jpg"
      alt="Omelete at 2022-10-03 04:36:11-03:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/omelete-2022/omelete-2022-09-30T05:02:06.531363-03:00.jpg">September 30 at 5:02 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/omelete-2022/omelete-2022-09-29T16:30:51.569140-03:00.jpg">
-  <img src="https://archive.org/download/omelete-2022/omelete-2022-09-29T16:30:51.569140-03:00.jpg"
-     alt="Omelete at 2022-09-29 16:30:58-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/omelete-2022/omelete-2022-09-29T16:30:51.569140-03:00.jpg">September 29 at 4:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/omelete-2022/omelete-2022-09-29T09:02:05.616392-03:00.jpg">
-  <img src="https://archive.org/download/omelete-2022/omelete-2022-09-29T09:02:05.616392-03:00.jpg"
-     alt="Omelete at 2022-09-29 09:02:25-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/omelete-2022/omelete-2022-09-29T09:02:05.616392-03:00.jpg">September 29 at 9:02 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 170 hyperlink lists with the Internet Archive.
+The archiving routine has saved 172 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 3 at 4:19 PM](https://archive.org/download/omelete-2022/omelete-2022-10-03T16:19:34.549133-03:00.hyperlinks.json) |
+| [October 3 at 9:05 AM](https://archive.org/download/omelete-2022/omelete-2022-10-03T09:05:02.240596-03:00.hyperlinks.json) |
 | [October 3 at 4:36 AM](https://archive.org/download/omelete-2022/omelete-2022-10-03T04:36:09.544853-03:00.hyperlinks.json) |
 | [October 2 at 4:05 PM](https://archive.org/download/omelete-2022/omelete-2022-10-02T16:04:50.237471-03:00.hyperlinks.json) |
 | [October 2 at 8:59 AM](https://archive.org/download/omelete-2022/omelete-2022-10-02T08:59:03.397055-03:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 8:59 AM](https://archive.org/download/omelete-2022/omelete-2022-10-01T08:59:24.228103-03:00.hyperlinks.json) |
 | [October 1 at 4:56 AM](https://archive.org/download/omelete-2022/omelete-2022-10-01T04:55:58.732961-03:00.hyperlinks.json) |
 | [September 30 at 5:12 PM](https://archive.org/download/omelete-2022/omelete-2022-09-30T17:12:41.414634-03:00.hyperlinks.json) |
-| [September 30 at 9:06 AM](https://archive.org/download/omelete-2022/omelete-2022-09-30T09:06:33.709409-03:00.hyperlinks.json) |
-| [September 30 at 5:02 AM](https://archive.org/download/omelete-2022/omelete-2022-09-30T05:02:06.531363-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 170 accessibility trees with the Internet Archive.
+The archiving routine has saved 172 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 3 at 4:19 PM](https://archive.org/download/omelete-2022/omelete-2022-10-03T16:19:34.549133-03:00.accessibility.json) |
+| [October 3 at 9:05 AM](https://archive.org/download/omelete-2022/omelete-2022-10-03T09:05:02.240596-03:00.accessibility.json) |
 | [October 3 at 4:36 AM](https://archive.org/download/omelete-2022/omelete-2022-10-03T04:36:09.544853-03:00.accessibility.json) |
 | [October 2 at 4:05 PM](https://archive.org/download/omelete-2022/omelete-2022-10-02T16:04:50.237471-03:00.accessibility.json) |
 | [October 2 at 8:59 AM](https://archive.org/download/omelete-2022/omelete-2022-10-02T08:59:03.397055-03:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 8:59 AM](https://archive.org/download/omelete-2022/omelete-2022-10-01T08:59:24.228103-03:00.accessibility.json) |
 | [October 1 at 4:56 AM](https://archive.org/download/omelete-2022/omelete-2022-10-01T04:55:58.732961-03:00.accessibility.json) |
 | [September 30 at 5:12 PM](https://archive.org/download/omelete-2022/omelete-2022-09-30T17:12:41.414634-03:00.accessibility.json) |
-| [September 30 at 9:06 AM](https://archive.org/download/omelete-2022/omelete-2022-09-30T09:06:33.709409-03:00.accessibility.json) |
-| [September 30 at 5:02 AM](https://archive.org/download/omelete-2022/omelete-2022-09-30T05:02:06.531363-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 171 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 173 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 3 at 4:19 PM](https://archive.org/download/omelete-2022/omelete-2022-10-03T16:19:34.549133-03:00.lighthouse.json) |
+| [October 3 at 9:05 AM](https://archive.org/download/omelete-2022/omelete-2022-10-03T09:05:02.240596-03:00.lighthouse.json) |
 | [October 3 at 4:36 AM](https://archive.org/download/omelete-2022/omelete-2022-10-03T04:36:09.544853-03:00.lighthouse.json) |
 | [October 2 at 4:05 PM](https://archive.org/download/omelete-2022/omelete-2022-10-02T16:04:50.237471-03:00.lighthouse.json) |
 | [October 2 at 8:59 AM](https://archive.org/download/omelete-2022/omelete-2022-10-02T08:59:03.397055-03:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 8:59 AM](https://archive.org/download/omelete-2022/omelete-2022-10-01T08:59:24.228103-03:00.lighthouse.json) |
 | [October 1 at 4:56 AM](https://archive.org/download/omelete-2022/omelete-2022-10-01T04:55:58.732961-03:00.lighthouse.json) |
 | [September 30 at 5:12 PM](https://archive.org/download/omelete-2022/omelete-2022-09-30T17:12:41.414634-03:00.lighthouse.json) |
-| [September 30 at 9:06 AM](https://archive.org/download/omelete-2022/omelete-2022-09-30T09:06:33.709409-03:00.lighthouse.json) |
-| [September 30 at 5:02 AM](https://archive.org/download/omelete-2022/omelete-2022-09-30T05:02:06.531363-03:00.lighthouse.json) |
 
 
 

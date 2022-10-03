@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 26 screenshots with the Internet Archive.
+The archiving routine has saved 27 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-03T14:25:05.792772-05:00.jpg">
+  <img src="https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-03T14:25:05.792772-05:00.jpg"
+     alt="Shreveport Times at 2022-10-03 14:25:09-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-03T14:25:05.792772-05:00.jpg">October 3 at 2:25 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-03T02:41:04.371979-05:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-09-28T02:52:11.927098-05:00.jpg">September 28 at 2:52 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-09-27T14:15:32.796179-05:00.jpg">
-  <img src="https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-09-27T14:15:32.796179-05:00.jpg"
-     alt="Shreveport Times at 2022-09-27 14:15:36-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-09-27T14:15:32.796179-05:00.jpg">September 27 at 2:15 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 26 hyperlink lists with the Internet Archive.
+The archiving routine has saved 27 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 3 at 2:25 PM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-03T14:25:05.792772-05:00.hyperlinks.json) |
 | [October 3 at 2:41 AM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-03T02:41:04.371979-05:00.hyperlinks.json) |
 | [October 2 at 2:12 PM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-02T14:12:27.924156-05:00.hyperlinks.json) |
 | [October 2 at 2:25 AM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-02T02:25:30.228865-05:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 3:07 AM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-09-30T03:07:18.435424-05:00.hyperlinks.json) |
 | [September 29 at 2:34 PM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-09-29T14:34:17.156356-05:00.hyperlinks.json) |
 | [September 29 at 2:40 AM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-09-29T02:40:15.346064-05:00.hyperlinks.json) |
-| [September 28 at 2:42 PM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-09-28T14:42:18.458920-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 26 accessibility trees with the Internet Archive.
+The archiving routine has saved 27 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 3 at 2:25 PM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-03T14:25:05.792772-05:00.accessibility.json) |
 | [October 3 at 2:41 AM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-03T02:41:04.371979-05:00.accessibility.json) |
 | [October 2 at 2:12 PM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-02T14:12:27.924156-05:00.accessibility.json) |
 | [October 2 at 2:25 AM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-02T02:25:30.228865-05:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 3:07 AM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-09-30T03:07:18.435424-05:00.accessibility.json) |
 | [September 29 at 2:34 PM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-09-29T14:34:17.156356-05:00.accessibility.json) |
 | [September 29 at 2:40 AM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-09-29T02:40:15.346064-05:00.accessibility.json) |
-| [September 28 at 2:42 PM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-09-28T14:42:18.458920-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 3 at 2:25 PM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-03T14:25:05.792772-05:00.lighthouse.json) |
 | [October 3 at 2:41 AM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-03T02:41:04.371979-05:00.lighthouse.json) |
 | [October 2 at 2:12 PM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-02T14:12:27.924156-05:00.lighthouse.json) |
 | [October 2 at 2:25 AM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-02T02:25:30.228865-05:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 3:07 AM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-09-30T03:07:18.435424-05:00.lighthouse.json) |
 | [September 29 at 2:34 PM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-09-29T14:34:17.156356-05:00.lighthouse.json) |
 | [September 29 at 2:40 AM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-09-29T02:40:15.346064-05:00.lighthouse.json) |
-| [September 28 at 2:42 PM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-09-28T14:42:18.458920-05:00.lighthouse.json) |
 
 
 

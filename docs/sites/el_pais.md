@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 133 screenshots with the Internet Archive.
+The archiving routine has saved 134 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 133 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/el_pais-2022/el_pais-2022-10-03T20:03:41.590318+02:00.jpg">
+  <img src="https://archive.org/download/el_pais-2022/el_pais-2022-10-03T20:03:41.590318+02:00.jpg"
+     alt="El Pais at 2022-10-03 20:04:02+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/el_pais-2022/el_pais-2022-10-03T20:03:41.590318+02:00.jpg">October 3 at 8:04 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/el_pais-2022/el_pais-2022-10-03T08:03:17.010160+02:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/el_pais-2022/el_pais-2022-09-28T08:21:46.617686+02:00.jpg">September 28 at 8:21 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/el_pais-2022/el_pais-2022-09-27T19:51:08.178153+02:00.jpg">
-  <img src="https://archive.org/download/el_pais-2022/el_pais-2022-09-27T19:51:08.178153+02:00.jpg"
-     alt="El Pais at 2022-09-27 19:51:09+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/el_pais-2022/el_pais-2022-09-27T19:51:08.178153+02:00.jpg">September 27 at 7:51 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 133 hyperlink lists with the Internet Archive.
+The archiving routine has saved 134 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 3 at 8:04 PM](https://archive.org/download/el_pais-2022/el_pais-2022-10-03T20:03:41.590318+02:00.hyperlinks.json) |
 | [October 3 at 8:03 AM](https://archive.org/download/el_pais-2022/el_pais-2022-10-03T08:03:17.010160+02:00.hyperlinks.json) |
 | [October 2 at 7:40 PM](https://archive.org/download/el_pais-2022/el_pais-2022-10-02T19:40:11.288999+02:00.hyperlinks.json) |
 | [October 2 at 7:55 AM](https://archive.org/download/el_pais-2022/el_pais-2022-10-02T07:55:31.327317+02:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 8:33 AM](https://archive.org/download/el_pais-2022/el_pais-2022-09-30T08:33:37.082045+02:00.hyperlinks.json) |
 | [September 29 at 7:45 PM](https://archive.org/download/el_pais-2022/el_pais-2022-09-29T19:45:29.060056+02:00.hyperlinks.json) |
 | [September 29 at 8:15 AM](https://archive.org/download/el_pais-2022/el_pais-2022-09-29T08:15:18.665179+02:00.hyperlinks.json) |
-| [September 28 at 7:55 PM](https://archive.org/download/el_pais-2022/el_pais-2022-09-28T19:55:13.479274+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 132 accessibility trees with the Internet Archive.
+The archiving routine has saved 133 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 3 at 8:04 PM](https://archive.org/download/el_pais-2022/el_pais-2022-10-03T20:03:41.590318+02:00.accessibility.json) |
 | [October 3 at 8:03 AM](https://archive.org/download/el_pais-2022/el_pais-2022-10-03T08:03:17.010160+02:00.accessibility.json) |
 | [October 2 at 7:40 PM](https://archive.org/download/el_pais-2022/el_pais-2022-10-02T19:40:11.288999+02:00.accessibility.json) |
 | [October 2 at 7:55 AM](https://archive.org/download/el_pais-2022/el_pais-2022-10-02T07:55:31.327317+02:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 8:33 AM](https://archive.org/download/el_pais-2022/el_pais-2022-09-30T08:33:37.082045+02:00.accessibility.json) |
 | [September 29 at 7:45 PM](https://archive.org/download/el_pais-2022/el_pais-2022-09-29T19:45:29.060056+02:00.accessibility.json) |
 | [September 29 at 8:15 AM](https://archive.org/download/el_pais-2022/el_pais-2022-09-29T08:15:18.665179+02:00.accessibility.json) |
-| [September 28 at 7:55 PM](https://archive.org/download/el_pais-2022/el_pais-2022-09-28T19:55:13.479274+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 3 at 8:04 PM](https://archive.org/download/el_pais-2022/el_pais-2022-10-03T20:03:41.590318+02:00.lighthouse.json) |
 | [October 3 at 8:03 AM](https://archive.org/download/el_pais-2022/el_pais-2022-10-03T08:03:17.010160+02:00.lighthouse.json) |
 | [October 2 at 7:40 PM](https://archive.org/download/el_pais-2022/el_pais-2022-10-02T19:40:11.288999+02:00.lighthouse.json) |
 | [October 2 at 7:55 AM](https://archive.org/download/el_pais-2022/el_pais-2022-10-02T07:55:31.327317+02:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 8:33 AM](https://archive.org/download/el_pais-2022/el_pais-2022-09-30T08:33:37.082045+02:00.lighthouse.json) |
 | [September 29 at 7:45 PM](https://archive.org/download/el_pais-2022/el_pais-2022-09-29T19:45:29.060056+02:00.lighthouse.json) |
 | [September 29 at 8:15 AM](https://archive.org/download/el_pais-2022/el_pais-2022-09-29T08:15:18.665179+02:00.lighthouse.json) |
-| [September 28 at 7:55 PM](https://archive.org/download/el_pais-2022/el_pais-2022-09-28T19:55:13.479274+02:00.lighthouse.json) |
 
 
 

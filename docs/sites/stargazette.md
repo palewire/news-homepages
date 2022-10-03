@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 26 screenshots with the Internet Archive.
+The archiving routine has saved 27 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stargazette-2022/stargazette-2022-10-03T15:08:51.713027-04:00.jpg">
+  <img src="https://archive.org/download/stargazette-2022/stargazette-2022-10-03T15:08:51.713027-04:00.jpg"
+     alt="Elmira Star Gazette at 2022-10-03 15:08:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stargazette-2022/stargazette-2022-10-03T15:08:51.713027-04:00.jpg">October 3 at 3:08 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stargazette-2022/stargazette-2022-10-03T03:26:46.243576-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/stargazette-2022/stargazette-2022-09-28T03:52:11.110894-04:00.jpg">September 28 at 3:52 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/stargazette-2022/stargazette-2022-09-27T15:40:04.264615-04:00.jpg">
-  <img src="https://archive.org/download/stargazette-2022/stargazette-2022-09-27T15:40:04.264615-04:00.jpg"
-     alt="Elmira Star Gazette at 2022-09-27 15:40:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/stargazette-2022/stargazette-2022-09-27T15:40:04.264615-04:00.jpg">September 27 at 3:40 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 26 hyperlink lists with the Internet Archive.
+The archiving routine has saved 27 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 3 at 3:08 PM](https://archive.org/download/stargazette-2022/stargazette-2022-10-03T15:08:51.713027-04:00.hyperlinks.json) |
 | [October 3 at 3:26 AM](https://archive.org/download/stargazette-2022/stargazette-2022-10-03T03:26:46.243576-04:00.hyperlinks.json) |
 | [October 2 at 3:37 PM](https://archive.org/download/stargazette-2022/stargazette-2022-10-02T15:37:32.891432-04:00.hyperlinks.json) |
 | [October 2 at 3:13 AM](https://archive.org/download/stargazette-2022/stargazette-2022-10-02T03:13:07.994091-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 4:07 AM](https://archive.org/download/stargazette-2022/stargazette-2022-09-30T04:06:56.838901-04:00.hyperlinks.json) |
 | [September 29 at 2:57 PM](https://archive.org/download/stargazette-2022/stargazette-2022-09-29T14:57:13.260568-04:00.hyperlinks.json) |
 | [September 29 at 3:28 AM](https://archive.org/download/stargazette-2022/stargazette-2022-09-29T03:28:41.028138-04:00.hyperlinks.json) |
-| [September 28 at 3:05 PM](https://archive.org/download/stargazette-2022/stargazette-2022-09-28T15:04:59.154664-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 25 accessibility trees with the Internet Archive.
+The archiving routine has saved 26 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 3 at 3:08 PM](https://archive.org/download/stargazette-2022/stargazette-2022-10-03T15:08:51.713027-04:00.accessibility.json) |
 | [October 3 at 3:26 AM](https://archive.org/download/stargazette-2022/stargazette-2022-10-03T03:26:46.243576-04:00.accessibility.json) |
 | [October 2 at 3:37 PM](https://archive.org/download/stargazette-2022/stargazette-2022-10-02T15:37:32.891432-04:00.accessibility.json) |
 | [October 2 at 3:13 AM](https://archive.org/download/stargazette-2022/stargazette-2022-10-02T03:13:07.994091-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 4:07 AM](https://archive.org/download/stargazette-2022/stargazette-2022-09-30T04:06:56.838901-04:00.accessibility.json) |
 | [September 29 at 2:57 PM](https://archive.org/download/stargazette-2022/stargazette-2022-09-29T14:57:13.260568-04:00.accessibility.json) |
 | [September 28 at 3:05 PM](https://archive.org/download/stargazette-2022/stargazette-2022-09-28T15:04:59.154664-04:00.accessibility.json) |
-| [September 28 at 3:52 AM](https://archive.org/download/stargazette-2022/stargazette-2022-09-28T03:52:11.110894-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 3 at 3:09 PM](https://archive.org/download/stargazette-2022/stargazette-2022-10-03T15:08:51.713027-04:00.lighthouse.json) |
 | [October 3 at 3:26 AM](https://archive.org/download/stargazette-2022/stargazette-2022-10-03T03:26:46.243576-04:00.lighthouse.json) |
 | [October 2 at 3:37 PM](https://archive.org/download/stargazette-2022/stargazette-2022-10-02T15:37:32.891432-04:00.lighthouse.json) |
 | [October 2 at 3:13 AM](https://archive.org/download/stargazette-2022/stargazette-2022-10-02T03:13:07.994091-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 4:07 AM](https://archive.org/download/stargazette-2022/stargazette-2022-09-30T04:06:56.838901-04:00.lighthouse.json) |
 | [September 29 at 2:57 PM](https://archive.org/download/stargazette-2022/stargazette-2022-09-29T14:57:13.260568-04:00.lighthouse.json) |
 | [September 29 at 3:28 AM](https://archive.org/download/stargazette-2022/stargazette-2022-09-29T03:28:41.028138-04:00.lighthouse.json) |
-| [September 28 at 3:05 PM](https://archive.org/download/stargazette-2022/stargazette-2022-09-28T15:04:59.154664-04:00.lighthouse.json) |
 
 
 
