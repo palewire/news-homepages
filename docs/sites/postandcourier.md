@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 212 screenshots with the Internet Archive.
+The archiving routine has saved 214 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-10-03T03:38:53.413441-04:00.jpg">
+  <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-10-03T03:38:53.413441-04:00.jpg"
+     alt="Post and Courier at 2022-10-03 03:38:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-10-03T03:38:53.413441-04:00.jpg">October 3 at 3:38 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-10-02T15:07:10.007867-04:00.jpg">
+  <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-10-02T15:07:10.007867-04:00.jpg"
+     alt="Post and Courier at 2022-10-02 15:07:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-10-02T15:07:10.007867-04:00.jpg">October 2 at 3:07 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-10-02T03:21:47.446587-04:00.jpg">
   <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-10-02T03:21:47.446587-04:00.jpg"
      alt="Post and Courier at 2022-10-02 03:21:55-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-09-27T15:12:46.534391-04:00.jpg">September 27 at 3:12 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-09-27T03:10:08.225182-04:00.jpg">
-  <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-09-27T03:10:08.225182-04:00.jpg"
-     alt="Post and Courier at 2022-09-27 03:10:11-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-09-27T03:10:08.225182-04:00.jpg">September 27 at 3:10 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-09-26T15:28:40.876075-04:00.jpg">
-  <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-09-26T15:28:40.876075-04:00.jpg"
-     alt="Post and Courier at 2022-09-26 15:28:43-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-09-26T15:28:40.876075-04:00.jpg">September 26 at 3:28 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 212 hyperlink lists with the Internet Archive.
+The archiving routine has saved 214 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 3 at 3:38 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-10-03T03:38:53.413441-04:00.hyperlinks.json) |
+| [October 2 at 3:07 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-10-02T15:07:10.007867-04:00.hyperlinks.json) |
 | [October 2 at 3:22 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-10-02T03:21:47.446587-04:00.hyperlinks.json) |
 | [October 1 at 3:05 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-10-01T15:05:30.224541-04:00.hyperlinks.json) |
 | [October 1 at 3:58 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-10-01T03:58:35.739623-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 29 at 3:31 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-09-29T15:31:18.124932-04:00.hyperlinks.json) |
 | [September 29 at 3:37 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-09-29T03:37:41.601411-04:00.hyperlinks.json) |
 | [September 28 at 3:38 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-09-28T15:38:17.954590-04:00.hyperlinks.json) |
-| [September 28 at 3:49 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-09-28T03:49:06.215795-04:00.hyperlinks.json) |
-| [September 27 at 3:12 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-09-27T15:12:46.534391-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 213 accessibility trees with the Internet Archive.
+The archiving routine has saved 215 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 3 at 3:38 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-10-03T03:38:53.413441-04:00.accessibility.json) |
+| [October 2 at 3:07 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-10-02T15:07:10.007867-04:00.accessibility.json) |
 | [October 2 at 3:22 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-10-02T03:21:47.446587-04:00.accessibility.json) |
 | [October 1 at 3:05 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-10-01T15:05:30.224541-04:00.accessibility.json) |
 | [October 1 at 3:58 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-10-01T03:58:35.739623-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 29 at 3:31 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-09-29T15:31:18.124932-04:00.accessibility.json) |
 | [September 29 at 3:37 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-09-29T03:37:41.601411-04:00.accessibility.json) |
 | [September 28 at 3:38 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-09-28T15:38:17.954590-04:00.accessibility.json) |
-| [September 28 at 3:49 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-09-28T03:49:06.215795-04:00.accessibility.json) |
-| [September 27 at 3:12 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-09-27T15:12:46.534391-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 136 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 138 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 3 at 3:39 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-10-03T03:38:53.413441-04:00.lighthouse.json) |
+| [October 2 at 3:07 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-10-02T15:07:10.007867-04:00.lighthouse.json) |
 | [October 2 at 3:22 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-10-02T03:21:47.446587-04:00.lighthouse.json) |
 | [October 1 at 3:05 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-10-01T15:05:30.224541-04:00.lighthouse.json) |
 | [October 1 at 3:58 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-10-01T03:58:35.739623-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 29 at 3:31 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-09-29T15:31:18.124932-04:00.lighthouse.json) |
 | [September 29 at 3:37 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-09-29T03:37:41.601411-04:00.lighthouse.json) |
 | [September 28 at 3:38 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-09-28T15:38:17.954590-04:00.lighthouse.json) |
-| [September 28 at 3:49 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-09-28T03:49:06.215795-04:00.lighthouse.json) |
-| [September 27 at 3:12 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-09-27T15:12:46.534391-04:00.lighthouse.json) |
 
 
 

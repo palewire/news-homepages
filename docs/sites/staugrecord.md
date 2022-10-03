@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 24 screenshots with the Internet Archive.
+The archiving routine has saved 26 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/staugrecord-2022/staugrecord-2022-10-03T03:26:44.008528-04:00.jpg">
+  <img src="https://archive.org/download/staugrecord-2022/staugrecord-2022-10-03T03:26:44.008528-04:00.jpg"
+     alt="The St. Augustine Record at 2022-10-03 03:26:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/staugrecord-2022/staugrecord-2022-10-03T03:26:44.008528-04:00.jpg">October 3 at 3:26 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/staugrecord-2022/staugrecord-2022-10-02T15:36:43.871761-04:00.jpg">
+  <img src="https://archive.org/download/staugrecord-2022/staugrecord-2022-10-02T15:36:43.871761-04:00.jpg"
+     alt="The St. Augustine Record at 2022-10-02 15:36:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/staugrecord-2022/staugrecord-2022-10-02T15:36:43.871761-04:00.jpg">October 2 at 3:36 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/staugrecord-2022/staugrecord-2022-10-02T03:14:37.735033-04:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/staugrecord-2022/staugrecord-2022-09-27T15:40:51.397015-04:00.jpg">September 27 at 3:40 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/staugrecord-2022/staugrecord-2022-09-27T03:02:16.676733-04:00.jpg">
-  <img src="https://archive.org/download/staugrecord-2022/staugrecord-2022-09-27T03:02:16.676733-04:00.jpg"
-     alt="The St. Augustine Record at 2022-09-27 03:02:18-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/staugrecord-2022/staugrecord-2022-09-27T03:02:16.676733-04:00.jpg">September 27 at 3:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/staugrecord-2022/staugrecord-2022-09-26T15:06:54.643777-04:00.jpg">
-  <img src="https://archive.org/download/staugrecord-2022/staugrecord-2022-09-26T15:06:54.643777-04:00.jpg"
-     alt="The St. Augustine Record at 2022-09-26 15:06:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/staugrecord-2022/staugrecord-2022-09-26T15:06:54.643777-04:00.jpg">September 26 at 3:06 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 23 hyperlink lists with the Internet Archive.
+The archiving routine has saved 25 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 3 at 3:26 AM](https://archive.org/download/staugrecord-2022/staugrecord-2022-10-03T03:26:44.008528-04:00.hyperlinks.json) |
+| [October 2 at 3:36 PM](https://archive.org/download/staugrecord-2022/staugrecord-2022-10-02T15:36:43.871761-04:00.hyperlinks.json) |
 | [October 2 at 3:14 AM](https://archive.org/download/staugrecord-2022/staugrecord-2022-10-02T03:14:37.735033-04:00.hyperlinks.json) |
 | [October 1 at 3:36 PM](https://archive.org/download/staugrecord-2022/staugrecord-2022-10-01T15:36:48.051132-04:00.hyperlinks.json) |
 | [October 1 at 3:48 AM](https://archive.org/download/staugrecord-2022/staugrecord-2022-10-01T03:48:32.012679-04:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 29 at 2:57 PM](https://archive.org/download/staugrecord-2022/staugrecord-2022-09-29T14:57:01.354784-04:00.hyperlinks.json) |
 | [September 29 at 3:28 AM](https://archive.org/download/staugrecord-2022/staugrecord-2022-09-29T03:28:36.179000-04:00.hyperlinks.json) |
 | [September 28 at 3:04 PM](https://archive.org/download/staugrecord-2022/staugrecord-2022-09-28T15:03:59.219949-04:00.hyperlinks.json) |
-| [September 28 at 3:52 AM](https://archive.org/download/staugrecord-2022/staugrecord-2022-09-28T03:52:09.105273-04:00.hyperlinks.json) |
-| [September 27 at 3:41 PM](https://archive.org/download/staugrecord-2022/staugrecord-2022-09-27T15:40:51.397015-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 24 accessibility trees with the Internet Archive.
+The archiving routine has saved 26 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 3 at 3:26 AM](https://archive.org/download/staugrecord-2022/staugrecord-2022-10-03T03:26:44.008528-04:00.accessibility.json) |
+| [October 2 at 3:36 PM](https://archive.org/download/staugrecord-2022/staugrecord-2022-10-02T15:36:43.871761-04:00.accessibility.json) |
 | [October 2 at 3:14 AM](https://archive.org/download/staugrecord-2022/staugrecord-2022-10-02T03:14:37.735033-04:00.accessibility.json) |
 | [October 1 at 3:36 PM](https://archive.org/download/staugrecord-2022/staugrecord-2022-10-01T15:36:48.051132-04:00.accessibility.json) |
 | [October 1 at 3:48 AM](https://archive.org/download/staugrecord-2022/staugrecord-2022-10-01T03:48:32.012679-04:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 29 at 2:57 PM](https://archive.org/download/staugrecord-2022/staugrecord-2022-09-29T14:57:01.354784-04:00.accessibility.json) |
 | [September 29 at 3:28 AM](https://archive.org/download/staugrecord-2022/staugrecord-2022-09-29T03:28:36.179000-04:00.accessibility.json) |
 | [September 28 at 3:04 PM](https://archive.org/download/staugrecord-2022/staugrecord-2022-09-28T15:03:59.219949-04:00.accessibility.json) |
-| [September 28 at 3:52 AM](https://archive.org/download/staugrecord-2022/staugrecord-2022-09-28T03:52:09.105273-04:00.accessibility.json) |
-| [September 27 at 3:41 PM](https://archive.org/download/staugrecord-2022/staugrecord-2022-09-27T15:40:51.397015-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 3 at 3:26 AM](https://archive.org/download/staugrecord-2022/staugrecord-2022-10-03T03:26:44.008528-04:00.lighthouse.json) |
+| [October 2 at 3:36 PM](https://archive.org/download/staugrecord-2022/staugrecord-2022-10-02T15:36:43.871761-04:00.lighthouse.json) |
 | [October 2 at 3:14 AM](https://archive.org/download/staugrecord-2022/staugrecord-2022-10-02T03:14:37.735033-04:00.lighthouse.json) |
 | [October 1 at 3:36 PM](https://archive.org/download/staugrecord-2022/staugrecord-2022-10-01T15:36:48.051132-04:00.lighthouse.json) |
 | [October 1 at 3:48 AM](https://archive.org/download/staugrecord-2022/staugrecord-2022-10-01T03:48:32.012679-04:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 29 at 2:57 PM](https://archive.org/download/staugrecord-2022/staugrecord-2022-09-29T14:57:01.354784-04:00.lighthouse.json) |
 | [September 29 at 3:28 AM](https://archive.org/download/staugrecord-2022/staugrecord-2022-09-29T03:28:36.179000-04:00.lighthouse.json) |
 | [September 28 at 3:04 PM](https://archive.org/download/staugrecord-2022/staugrecord-2022-09-28T15:03:59.219949-04:00.lighthouse.json) |
-| [September 28 at 3:52 AM](https://archive.org/download/staugrecord-2022/staugrecord-2022-09-28T03:52:09.105273-04:00.lighthouse.json) |
-| [September 27 at 3:41 PM](https://archive.org/download/staugrecord-2022/staugrecord-2022-09-27T15:40:51.397015-04:00.lighthouse.json) |
 
 
 

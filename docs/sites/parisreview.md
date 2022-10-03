@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 222 screenshots with the Internet Archive.
+The archiving routine has saved 225 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/parisreview-2022/parisreview-2022-10-03T09:36:08.538340+02:00.jpg">
+  <img src="https://archive.org/download/parisreview-2022/parisreview-2022-10-03T09:36:08.538340+02:00.jpg"
+     alt="Paris Review at 2022-10-03 09:36:17+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-10-03T09:36:08.538340+02:00.jpg">October 3 at 9:36 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/parisreview-2022/parisreview-2022-10-02T21:07:13.870746+02:00.jpg">
+  <img src="https://archive.org/download/parisreview-2022/parisreview-2022-10-02T21:07:13.870746+02:00.jpg"
+     alt="Paris Review at 2022-10-02 21:07:22+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-10-02T21:07:13.870746+02:00.jpg">October 2 at 9:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/parisreview-2022/parisreview-2022-10-02T10:15:54.606893+02:00.jpg">
+  <img src="https://archive.org/download/parisreview-2022/parisreview-2022-10-02T10:15:54.606893+02:00.jpg"
+     alt="Paris Review at 2022-10-02 10:15:55+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-10-02T10:15:54.606893+02:00.jpg">October 2 at 10:15 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/parisreview-2022/parisreview-2022-10-02T09:21:14.469295+02:00.jpg">
   <img src="https://archive.org/download/parisreview-2022/parisreview-2022-10-02T09:21:14.469295+02:00.jpg"
      alt="Paris Review at 2022-10-02 09:21:18+02:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-09-29T10:19:37.552959+02:00.jpg">September 29 at 10:19 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/parisreview-2022/parisreview-2022-09-29T09:36:25.678509+02:00.jpg">
-  <img src="https://archive.org/download/parisreview-2022/parisreview-2022-09-29T09:36:25.678509+02:00.jpg"
-     alt="Paris Review at 2022-09-29 09:36:32+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-09-29T09:36:25.678509+02:00.jpg">September 29 at 9:36 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/parisreview-2022/parisreview-2022-09-28T21:37:32.183105+02:00.jpg">
-  <img src="https://archive.org/download/parisreview-2022/parisreview-2022-09-28T21:37:32.183105+02:00.jpg"
-     alt="Paris Review at 2022-09-28 21:37:43+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-09-28T21:37:32.183105+02:00.jpg">September 28 at 9:37 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/parisreview-2022/parisreview-2022-09-28T10:19:15.580987+02:00.jpg">
-  <img src="https://archive.org/download/parisreview-2022/parisreview-2022-09-28T10:19:15.580987+02:00.jpg"
-     alt="Paris Review at 2022-09-28 10:19:17+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-09-28T10:19:15.580987+02:00.jpg">September 28 at 10:19 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 223 hyperlink lists with the Internet Archive.
+The archiving routine has saved 226 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 3 at 9:36 AM](https://archive.org/download/parisreview-2022/parisreview-2022-10-03T09:36:08.538340+02:00.hyperlinks.json) |
+| [October 2 at 9:07 PM](https://archive.org/download/parisreview-2022/parisreview-2022-10-02T21:07:13.870746+02:00.hyperlinks.json) |
+| [October 2 at 10:15 AM](https://archive.org/download/parisreview-2022/parisreview-2022-10-02T10:15:54.606893+02:00.hyperlinks.json) |
 | [October 2 at 9:21 AM](https://archive.org/download/parisreview-2022/parisreview-2022-10-02T09:21:14.469295+02:00.hyperlinks.json) |
 | [October 1 at 9:04 PM](https://archive.org/download/parisreview-2022/parisreview-2022-10-01T21:04:05.068321+02:00.hyperlinks.json) |
 | [October 1 at 10:19 AM](https://archive.org/download/parisreview-2022/parisreview-2022-10-01T10:19:18.700357+02:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 10:15 PM](https://archive.org/download/parisreview-2022/parisreview-2022-09-30T22:14:49.450330+02:00.hyperlinks.json) |
 | [September 30 at 10:26 AM](https://archive.org/download/parisreview-2022/parisreview-2022-09-30T10:26:21.121779+02:00.hyperlinks.json) |
 | [September 30 at 10:02 AM](https://archive.org/download/parisreview-2022/parisreview-2022-09-30T10:01:56.955434+02:00.hyperlinks.json) |
-| [September 29 at 9:31 PM](https://archive.org/download/parisreview-2022/parisreview-2022-09-29T21:31:12.636682+02:00.hyperlinks.json) |
-| [September 29 at 10:19 AM](https://archive.org/download/parisreview-2022/parisreview-2022-09-29T10:19:37.552959+02:00.hyperlinks.json) |
-| [September 29 at 9:36 AM](https://archive.org/download/parisreview-2022/parisreview-2022-09-29T09:36:25.678509+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 223 accessibility trees with the Internet Archive.
+The archiving routine has saved 226 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 3 at 9:36 AM](https://archive.org/download/parisreview-2022/parisreview-2022-10-03T09:36:08.538340+02:00.accessibility.json) |
+| [October 2 at 9:07 PM](https://archive.org/download/parisreview-2022/parisreview-2022-10-02T21:07:13.870746+02:00.accessibility.json) |
+| [October 2 at 10:15 AM](https://archive.org/download/parisreview-2022/parisreview-2022-10-02T10:15:54.606893+02:00.accessibility.json) |
 | [October 2 at 9:21 AM](https://archive.org/download/parisreview-2022/parisreview-2022-10-02T09:21:14.469295+02:00.accessibility.json) |
 | [October 1 at 9:04 PM](https://archive.org/download/parisreview-2022/parisreview-2022-10-01T21:04:05.068321+02:00.accessibility.json) |
 | [October 1 at 10:19 AM](https://archive.org/download/parisreview-2022/parisreview-2022-10-01T10:19:18.700357+02:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 10:15 PM](https://archive.org/download/parisreview-2022/parisreview-2022-09-30T22:14:49.450330+02:00.accessibility.json) |
 | [September 30 at 10:26 AM](https://archive.org/download/parisreview-2022/parisreview-2022-09-30T10:26:21.121779+02:00.accessibility.json) |
 | [September 30 at 10:02 AM](https://archive.org/download/parisreview-2022/parisreview-2022-09-30T10:01:56.955434+02:00.accessibility.json) |
-| [September 29 at 9:31 PM](https://archive.org/download/parisreview-2022/parisreview-2022-09-29T21:31:12.636682+02:00.accessibility.json) |
-| [September 29 at 10:19 AM](https://archive.org/download/parisreview-2022/parisreview-2022-09-29T10:19:37.552959+02:00.accessibility.json) |
-| [September 29 at 9:36 AM](https://archive.org/download/parisreview-2022/parisreview-2022-09-29T09:36:25.678509+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 184 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 187 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 3 at 9:36 AM](https://archive.org/download/parisreview-2022/parisreview-2022-10-03T09:36:08.538340+02:00.lighthouse.json) |
+| [October 2 at 9:07 PM](https://archive.org/download/parisreview-2022/parisreview-2022-10-02T21:07:13.870746+02:00.lighthouse.json) |
+| [October 2 at 10:16 AM](https://archive.org/download/parisreview-2022/parisreview-2022-10-02T10:15:54.606893+02:00.lighthouse.json) |
 | [October 2 at 9:21 AM](https://archive.org/download/parisreview-2022/parisreview-2022-10-02T09:21:14.469295+02:00.lighthouse.json) |
 | [October 1 at 9:04 PM](https://archive.org/download/parisreview-2022/parisreview-2022-10-01T21:04:05.068321+02:00.lighthouse.json) |
 | [October 1 at 10:19 AM](https://archive.org/download/parisreview-2022/parisreview-2022-10-01T10:19:18.700357+02:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 10:15 PM](https://archive.org/download/parisreview-2022/parisreview-2022-09-30T22:14:49.450330+02:00.lighthouse.json) |
 | [September 30 at 10:26 AM](https://archive.org/download/parisreview-2022/parisreview-2022-09-30T10:26:21.121779+02:00.lighthouse.json) |
 | [September 30 at 10:02 AM](https://archive.org/download/parisreview-2022/parisreview-2022-09-30T10:01:56.955434+02:00.lighthouse.json) |
-| [September 29 at 9:31 PM](https://archive.org/download/parisreview-2022/parisreview-2022-09-29T21:31:12.636682+02:00.lighthouse.json) |
-| [September 29 at 10:19 AM](https://archive.org/download/parisreview-2022/parisreview-2022-09-29T10:19:37.552959+02:00.lighthouse.json) |
-| [September 29 at 9:36 AM](https://archive.org/download/parisreview-2022/parisreview-2022-09-29T09:36:25.678509+02:00.lighthouse.json) |
 
 
 

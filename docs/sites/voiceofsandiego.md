@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 470 screenshots with the Internet Archive.
+The archiving routine has saved 472 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-10-03T00:31:24.783588-07:00.jpg">
+  <img src="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-10-03T00:31:24.783588-07:00.jpg"
+     alt="Voice of San Diego at 2022-10-03 00:31:48-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-10-03T00:31:24.783588-07:00.jpg">October 3 at 12:31 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-10-02T12:47:33.382327-07:00.jpg">
+  <img src="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-10-02T12:47:33.382327-07:00.jpg"
+     alt="Voice of San Diego at 2022-10-02 12:47:35-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-10-02T12:47:33.382327-07:00.jpg">October 2 at 12:47 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-10-02T12:41:31.339690-07:00.jpg">
   <img src="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-10-02T12:41:31.339690-07:00.jpg"
      alt="Voice of San Diego at 2022-10-02 12:41:40-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-09-29T12:02:41.893199-07:00.jpg">September 29 at 12:02 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-09-29T00:33:39.771390-07:00.jpg">
-  <img src="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-09-29T00:33:39.771390-07:00.jpg"
-     alt="Voice of San Diego at 2022-09-29 00:33:41-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-09-29T00:33:39.771390-07:00.jpg">September 29 at 12:33 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-09-28T12:46:51.436938-07:00.jpg">
-  <img src="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-09-28T12:46:51.436938-07:00.jpg"
-     alt="Voice of San Diego at 2022-09-28 12:46:53-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-09-28T12:46:51.436938-07:00.jpg">September 28 at 12:46 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 467 hyperlink lists with the Internet Archive.
+The archiving routine has saved 469 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 3 at 12:31 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-10-03T00:31:24.783588-07:00.hyperlinks.json) |
+| [October 2 at 12:47 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-10-02T12:47:33.382327-07:00.hyperlinks.json) |
 | [October 2 at 12:41 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-10-02T12:41:31.339690-07:00.hyperlinks.json) |
 | [October 2 at 12:18 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-10-02T00:18:01.743869-07:00.hyperlinks.json) |
 | [October 1 at 12:46 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-10-01T12:45:55.998859-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 1:22 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-09-30T13:22:07.329755-07:00.hyperlinks.json) |
 | [September 30 at 12:54 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-09-30T12:54:01.977868-07:00.hyperlinks.json) |
 | [September 30 at 1:12 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-09-30T01:12:47.311674-07:00.hyperlinks.json) |
-| [September 29 at 12:40 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-09-29T12:40:29.578674-07:00.hyperlinks.json) |
-| [September 29 at 12:02 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-09-29T12:02:41.893199-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 466 accessibility trees with the Internet Archive.
+The archiving routine has saved 468 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 3 at 12:31 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-10-03T00:31:24.783588-07:00.accessibility.json) |
+| [October 2 at 12:47 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-10-02T12:47:33.382327-07:00.accessibility.json) |
 | [October 2 at 12:41 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-10-02T12:41:31.339690-07:00.accessibility.json) |
 | [October 2 at 12:18 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-10-02T00:18:01.743869-07:00.accessibility.json) |
 | [October 1 at 12:45 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-10-01T12:45:55.998859-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 1:22 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-09-30T13:22:07.329755-07:00.accessibility.json) |
 | [September 30 at 12:54 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-09-30T12:54:01.977868-07:00.accessibility.json) |
 | [September 30 at 1:12 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-09-30T01:12:47.311674-07:00.accessibility.json) |
-| [September 29 at 12:40 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-09-29T12:40:29.578674-07:00.accessibility.json) |
-| [September 29 at 12:02 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-09-29T12:02:41.893199-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 204 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 206 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 3 at 12:31 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-10-03T00:31:24.783588-07:00.lighthouse.json) |
+| [October 2 at 12:47 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-10-02T12:47:33.382327-07:00.lighthouse.json) |
 | [October 2 at 12:41 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-10-02T12:41:31.339690-07:00.lighthouse.json) |
 | [October 2 at 12:18 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-10-02T00:18:01.743869-07:00.lighthouse.json) |
 | [October 1 at 12:46 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-10-01T12:45:55.998859-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 1:22 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-09-30T13:22:07.329755-07:00.lighthouse.json) |
 | [September 30 at 12:54 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-09-30T12:54:01.977868-07:00.lighthouse.json) |
 | [September 30 at 1:13 AM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-09-30T01:12:47.311674-07:00.lighthouse.json) |
-| [September 29 at 12:40 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-09-29T12:40:29.578674-07:00.lighthouse.json) |
-| [September 29 at 12:02 PM](https://archive.org/download/voiceofsandiego-2022/voiceofsandiego-2022-09-29T12:02:41.893199-07:00.lighthouse.json) |
 
 
 
