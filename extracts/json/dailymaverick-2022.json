@@ -1,5 +1,6 @@
 {
-  "created": 1664777353,
+  "conflict": 1664823819,
+  "created": 1664823819,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/9/items/dailymaverick-2022",
@@ -5224,31 +5225,93 @@
       "sha1": "01e2eefa73464bd5f6e8c8a789643c80ff949fe7"
     },
     {
+      "name": "dailymaverick-2022-10-03T19:57:33.253683+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664819865",
+      "size": "64687",
+      "md5": "c2607360893895d569a3ba6b5072511b",
+      "crc32": "71def959",
+      "sha1": "d1d1e0f87282c93530519f5db56b273953985bfb",
+      "format": "JSON"
+    },
+    {
+      "name": "dailymaverick-2022-10-03T19:57:33.253683+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664819867",
+      "size": "79574",
+      "md5": "b3b55a9016a4770f1969558f232d4fd2",
+      "crc32": "ddef4747",
+      "sha1": "c2cce4f5922bd7cd4d1683bd7411c75727a2bbbe",
+      "format": "JSON"
+    },
+    {
+      "name": "dailymaverick-2022-10-03T19:57:33.253683+02:00.jpg",
+      "source": "original",
+      "mtime": "1664819863",
+      "size": "293020",
+      "md5": "6fc7633a1ab549932f3863cb3f05df22",
+      "crc32": "adbae7cc",
+      "sha1": "aa9b9731f005a870bdcf8bb16c51f3f724af69e8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailymaverick-2022-10-03T19:57:33.253683+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664819870",
+      "size": "1539",
+      "md5": "ee4613b33410a6c5c19e371b5ffd4d64",
+      "crc32": "e87e4380",
+      "sha1": "0ffcb6bf28056abe1ff629c05b7558346537c1eb",
+      "format": "JSON"
+    },
+    {
+      "name": "dailymaverick-2022-10-03T19:57:33.253683+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664819873",
+      "size": "30958",
+      "md5": "0b0b8860de42d106c6f77ae7c7a02a0c",
+      "crc32": "2347fe10",
+      "sha1": "e638accb0d78c6c8e90cb9d9edc757139fc8b9b2",
+      "format": "JSON"
+    },
+    {
+      "name": "dailymaverick-2022-10-03T19:57:33.253683+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailymaverick-2022-10-03T19:57:33.253683+02:00.jpg",
+      "mtime": "1664823731",
+      "size": "9601",
+      "md5": "1c389a06d556d74e8a46de0436285463",
+      "crc32": "e069f45f",
+      "sha1": "2bbbaadf1a029ec85702833f966da1a190209eb5"
+    },
+    {
       "name": "dailymaverick-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a1dcf653293c2ffadc724ff33c3d9b867f8b7e4e",
-      "mtime": "1664777323",
-      "size": "110402",
-      "md5": "cdc6513d2f28df698820f99134b9300b",
-      "crc32": "6e49f22d",
-      "sha1": "c877f97fd4a33e1ff6bb1087cd5717e594dc6210",
+      "btih": "11215fc80575b8784450f320d4e7b4d912d4f288",
+      "mtime": "1664823815",
+      "size": "111699",
+      "md5": "5d5df62c9e9948e7fc8cac0d4750a6d0",
+      "crc32": "7652e522",
+      "sha1": "dfdd12e47cf271f50a6f1c137fc9c99f44e6e58b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailymaverick-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "38db6ebe7216505d0fa6b6a4def1c9d0",
+      "md5": "b9062d43014162fa5425e08ef7985c5a",
       "summation": "md5"
     },
     {
       "name": "dailymaverick-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664776625",
-      "size": "663552",
-      "md5": "42256d40fca861b9ce9d5f3a3597ef61",
-      "crc32": "c900993f",
-      "sha1": "ac9c055a4281b569ef0a26b5e15690c9ff7009d0",
+      "mtime": "1664819889",
+      "size": "671744",
+      "md5": "f872dae41665bbe1513118676a33dc64",
+      "crc32": "b575a13a",
+      "sha1": "cdbe378e7954df672d9152639d23c4b5391c512b",
       "format": "Metadata"
     },
     {
@@ -5262,9 +5325,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 509,
-  "item_last_updated": 1664777323,
-  "item_size": 40649734,
+  "files_count": 515,
+  "item_last_updated": 1664823815,
+  "item_size": 41138602,
   "metadata": {
     "identifier": "dailymaverick-2022",
     "collection": [
@@ -5281,10 +5344,29 @@
     "publicdate": "2022-08-22 22:03:33",
     "addeddate": "2022-08-22 22:03:33"
   },
+  "pending_tasks": true,
   "server": "ia601503.us.archive.org",
-  "uniq": 1051477491,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3427232159,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3427286550,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1335660992,
   "workable_servers": [
-    "ia601503.us.archive.org",
-    "ia801503.us.archive.org"
+    "ia601503.us.archive.org"
   ]
 }
