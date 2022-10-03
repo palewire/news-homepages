@@ -1,5 +1,6 @@
 {
-  "created": 1664782241,
+  "conflict": 1664826548,
+  "created": 1664826548,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/32/items/thehill-2022",
@@ -10073,31 +10074,99 @@
       "format": "JSON"
     },
     {
+      "name": "thehill-2022-10-03T03:29:06.014263-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thehill-2022-10-03T03:29:06.014263-04:00.jpg",
+      "mtime": "1664784052",
+      "size": "11487",
+      "md5": "42da0a12ae2903fe7a7d9ee222ba66da",
+      "crc32": "ebb45477",
+      "sha1": "14ea3482e94edf6556bafffa3eacde0559305f5e"
+    },
+    {
+      "name": "thehill-2022-10-03T15:11:50.953360-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664824332",
+      "size": "47402",
+      "md5": "d5c59e3f522af3ad51cdd3302aac0e61",
+      "crc32": "c8a2410f",
+      "sha1": "a7c11c51fcf00c6e462a93bd3988decc1787a9fc",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-03T15:11:50.953360-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664824334",
+      "size": "67822",
+      "md5": "5e9bfb937954eaf15897d711c59e231b",
+      "crc32": "ca971a20",
+      "sha1": "d8015bafa683b3dbe350108783ae205e42e1eafc",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-03T15:11:50.953360-04:00.jpg",
+      "source": "original",
+      "mtime": "1664824330",
+      "size": "319641",
+      "md5": "f11d89cc3c84aa2fbb609f0f64e373f4",
+      "crc32": "582c7a98",
+      "sha1": "d51f8e642142751b0c46c0cf3b7e5c60d7f29b3b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thehill-2022-10-03T15:11:50.953360-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664824336",
+      "size": "1432",
+      "md5": "e06a6753903e1469c2d90a9a97f5eb94",
+      "crc32": "c1d33a11",
+      "sha1": "1e99ad94f0f8b79f1c320a911e1fb26d433c4d92",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-03T15:11:50.953360-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664824339",
+      "size": "48356",
+      "md5": "2cdaede460252fd51ccf82b14f55918a",
+      "crc32": "29fb57aa",
+      "sha1": "1fbdfb55254142e4444efa85db1263cfe2dd3cae",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-03T15:11:50.953360-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thehill-2022-10-03T15:11:50.953360-04:00.jpg"
+    },
+    {
       "name": "thehill-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bda4b2e3283df607c2f1a18d810859bc0d5b350f",
-      "mtime": "1664782225",
-      "size": "205422",
-      "md5": "dbff63b99a65cb9cb0acdc40678d95e6",
-      "crc32": "ed7ea5cf",
-      "sha1": "52f40f2c859c00895697d5f17f27a2e37bdd361a",
+      "btih": "cc8d38c6f4b344d2f0f6a13ea8d6542e57c25de6",
+      "mtime": "1664824529",
+      "size": "206684",
+      "md5": "0e737326242a625b3e77d39890969432",
+      "crc32": "3136de8e",
+      "sha1": "b29d7a7bf50f678977d0101570b6d8f74f4b418b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thehill-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f5ea018b9ea11eabc496ce6ea63934b3",
+      "md5": "c0929e833e9cbf6619ef99ea5ed95a2d",
       "summation": "md5"
     },
     {
       "name": "thehill-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664782168",
-      "size": "1216512",
-      "md5": "cf9dd2c92405eed6c856238c85b26420",
-      "crc32": "56945e0e",
-      "sha1": "2072a9f780de5792284561308b30a0874dea6815",
+      "mtime": "1664824457",
+      "size": "1224704",
+      "md5": "df970cb6b0df18532d857e25a729b547",
+      "crc32": "859df7af",
+      "sha1": "ea87a073c0b750534afc6da42d7334a41bb50ad7",
       "format": "Metadata"
     },
     {
@@ -10111,9 +10180,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 975,
-  "item_last_updated": 1664782225,
-  "item_size": 83461132,
+  "files_count": 982,
+  "item_last_updated": 1664824529,
+  "item_size": 83966726,
   "metadata": {
     "identifier": "thehill-2022",
     "collection": [
@@ -10135,15 +10204,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426685469,
+      "task_id": 3427299033,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 867958841,
+  "uniq": 1973000631,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]

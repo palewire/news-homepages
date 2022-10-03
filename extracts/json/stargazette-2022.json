@@ -1,5 +1,5 @@
 {
-  "created": 1664782139,
+  "created": 1664824313,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/0/items/stargazette-2022",
@@ -1597,31 +1597,93 @@
       "format": "JSON"
     },
     {
+      "name": "stargazette-2022-10-03T03:26:46.243576-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stargazette-2022-10-03T03:26:46.243576-04:00.jpg",
+      "mtime": "1664783663",
+      "size": "8880",
+      "md5": "8f9987e626e6597ff8102a87b425ffae",
+      "crc32": "65c4e223",
+      "sha1": "8f3de341b2a4050fc838a06b4bd4996330cf8f8f"
+    },
+    {
+      "name": "stargazette-2022-10-03T15:08:51.713027-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664824136",
+      "size": "20577",
+      "md5": "d3f6b1b6c4177a550e60306db99c398c",
+      "crc32": "175c378c",
+      "sha1": "6190cb39706606bb9f6119d106a30ee405e677ea",
+      "format": "JSON"
+    },
+    {
+      "name": "stargazette-2022-10-03T15:08:51.713027-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664824139",
+      "size": "32509",
+      "md5": "720b1732ab57289f4234d742e428bd8a",
+      "crc32": "e9f86fda",
+      "sha1": "e60ab42fdb3179010c56b73fd08f9396ea03eff9",
+      "format": "JSON"
+    },
+    {
+      "name": "stargazette-2022-10-03T15:08:51.713027-04:00.jpg",
+      "source": "original",
+      "mtime": "1664824134",
+      "size": "256752",
+      "md5": "acd1394e19029e9918a9fc46a609de24",
+      "crc32": "824d7b9e",
+      "sha1": "fe0f9326e696f378d6f756fc9c28a5a4bca199d9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stargazette-2022-10-03T15:08:51.713027-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664824141",
+      "size": "1504",
+      "md5": "c8562db35f468153ecd97ccf073fcfca",
+      "crc32": "1bbd7f54",
+      "sha1": "32b195edfbfe357959e88f20c91ec2a2a66d622d",
+      "format": "JSON"
+    },
+    {
+      "name": "stargazette-2022-10-03T15:08:51.713027-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664824143",
+      "size": "90540",
+      "md5": "bcf13cec4312dd306bf817f695eb6f2b",
+      "crc32": "d59a27bf",
+      "sha1": "2dd524557e974b904b9893aa919ac35e5a484443",
+      "format": "JSON"
+    },
+    {
       "name": "stargazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "91be4269e8d8b197b805dd0584429b1d51abb24c",
-      "mtime": "1664782102",
-      "size": "34313",
-      "md5": "5572c74182ef4d21560edd9f21c5fc27",
-      "crc32": "e61d8b70",
-      "sha1": "9993f3be09d8b3b924131ef702986926d9edbe81",
+      "btih": "f42c1a29a42efdf715c0592d983354297d1065fa",
+      "mtime": "1664824307",
+      "size": "35598",
+      "md5": "bf042db6498dda35115b9910f1d77314",
+      "crc32": "dfc49ac0",
+      "sha1": "250ce70acc96967dc771ee04b14d5dc8d135cae4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "stargazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "52372c0435e63c716697b82ab9ad6b07",
+      "md5": "c0c2b509b4c2b5139825dfa7e5586707",
       "summation": "md5"
     },
     {
       "name": "stargazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664782066",
-      "size": "221184",
-      "md5": "2a2279fb7c204a8c048740bb074cc08a",
-      "crc32": "bba8231d",
-      "sha1": "307c1f87f7a04be900e0b00053aceb719e8629eb",
+      "mtime": "1664824268",
+      "size": "229376",
+      "md5": "c392eccb72acda65cc8837365490a514",
+      "crc32": "4e26d7ad",
+      "sha1": "baed10e68d052f0aecd6a0d84e41a4327f6c779a",
       "format": "Metadata"
     },
     {
@@ -1635,9 +1697,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 158,
-  "item_last_updated": 1664782102,
-  "item_size": 10981116,
+  "files_count": 164,
+  "item_last_updated": 1664824307,
+  "item_size": 11401355,
   "metadata": {
     "identifier": "stargazette-2022",
     "collection": [
@@ -1659,15 +1721,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426684649,
+      "task_id": 3427295732,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1389162247,
+  "uniq": 204845368,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1664782514,
+  "created": 1664826850,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/9/items/ydrcom-2022",
@@ -1617,31 +1617,104 @@
       "format": "JSON"
     },
     {
+      "name": "ydrcom-2022-10-03T03:34:22.010420-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ydrcom-2022-10-03T03:34:22.010420-04:00.jpg",
+      "mtime": "1664784665",
+      "size": "8829",
+      "md5": "9b6791e0f73aa6936cb8c20c59e12eae",
+      "crc32": "9f45e483",
+      "sha1": "4f402b95421fd3b321d257277dd6ab197203d76c"
+    },
+    {
+      "name": "ydrcom-2022-10-03T15:17:20.343825-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664824644",
+      "size": "20335",
+      "md5": "d913b6e39a14683bc7807e6ef7972fe1",
+      "crc32": "d676ef69",
+      "sha1": "464f89bfdc74c92190ff42fa095df72370df41d7",
+      "format": "JSON"
+    },
+    {
+      "name": "ydrcom-2022-10-03T15:17:20.343825-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664824646",
+      "size": "37846",
+      "md5": "eb7ac74bd5ddc4c06be43ca3d8c13ec5",
+      "crc32": "fc21cb08",
+      "sha1": "cd69eaf07f8e5c28cf2de43103d8698dea6c61dc",
+      "format": "JSON"
+    },
+    {
+      "name": "ydrcom-2022-10-03T15:17:20.343825-04:00.jpg",
+      "source": "original",
+      "mtime": "1664824642",
+      "size": "297240",
+      "md5": "22331e162848f6ee60aa5abb30557b39",
+      "crc32": "378cbf2b",
+      "sha1": "b388c1bd03a43adbddb38d52627c70eb373d2a45",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ydrcom-2022-10-03T15:17:20.343825-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664824648",
+      "size": "1431",
+      "md5": "a3f09f681d2ce79f5362e19cd7f8dda5",
+      "crc32": "6b49e672",
+      "sha1": "75787336eb5b54eb41b2cd614f8a275316544fa0",
+      "format": "JSON"
+    },
+    {
+      "name": "ydrcom-2022-10-03T15:17:20.343825-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664824650",
+      "size": "97768",
+      "md5": "056f0b067ddbcbbff34ad91c6a138ab0",
+      "crc32": "5f0cc214",
+      "sha1": "cd0deee8813670c95216944c5680fc6155c86cd5",
+      "format": "JSON"
+    },
+    {
+      "name": "ydrcom-2022-10-03T15:17:20.343825-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ydrcom-2022-10-03T15:17:20.343825-04:00.jpg",
+      "mtime": "1664826754",
+      "size": "9152",
+      "md5": "702088a38338c97130447d679eb7324f",
+      "crc32": "5773e305",
+      "sha1": "9dd5107841178bee4237d520f36f5fbb83df7c25"
+    },
+    {
       "name": "ydrcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9e7fe2f60a82d17b0d76c64659783aa33c9c21c6",
-      "mtime": "1664782510",
-      "size": "33891",
-      "md5": "9cfcc87387b60a42205182c0b07d04bf",
-      "crc32": "55f872b8",
-      "sha1": "cf8c2a9f6748cb619e2fa1b7ef6b1c927dd77b99",
+      "btih": "caa8f6847ca2188820682364a83ea3480590a591",
+      "mtime": "1664826759",
+      "size": "35348",
+      "md5": "4951200173cc15c1e1054443261490dc",
+      "crc32": "af1ded63",
+      "sha1": "89a0d2b4ca17dfda112655df80b208bdc7c088d7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ydrcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c9d3116a6054a9be76b7825e5ee1b36d",
+      "md5": "d2231e9f4ecaa1076aa9514c5f732dd5",
       "summation": "md5"
     },
     {
       "name": "ydrcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664782474",
-      "size": "221184",
-      "md5": "3ec299dd5ac96afddd6567391cd613d4",
-      "crc32": "81a534e2",
-      "sha1": "9580e21863cd0e356f0349d541b9608c4f2f34d4",
+      "mtime": "1664824666",
+      "size": "225280",
+      "md5": "a6fc259cc58cce090bcdbcaa8525214a",
+      "crc32": "68d5d632",
+      "sha1": "c55fb4296a821416b1fe87c206c592c4f17a7a2c",
       "format": "Metadata"
     },
     {
@@ -1655,9 +1728,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 160,
-  "item_last_updated": 1664782510,
-  "item_size": 10475420,
+  "files_count": 167,
+  "item_last_updated": 1664826759,
+  "item_size": 10953574,
   "metadata": {
     "identifier": "ydrcom-2022",
     "collection": [
@@ -1674,21 +1747,10 @@
     "publicdate": "2022-09-20 19:31:00",
     "addeddate": "2022-09-20 19:31:00"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3426689431,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1091599561,
+  "server": "ia801505.us.archive.org",
+  "uniq": 1579731544,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

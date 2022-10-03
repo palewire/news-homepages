@@ -1,5 +1,5 @@
 {
-  "created": 1664782070,
+  "created": 1664824492,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/1/items/statejournal-2022",
@@ -7445,31 +7445,93 @@
       "format": "JSON"
     },
     {
+      "name": "statejournal-2022-10-03T03:26:17.514054-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "statejournal-2022-10-03T03:26:17.514054-04:00.jpg",
+      "mtime": "1664783535",
+      "size": "9308",
+      "md5": "acd3bcbce049c59410157879ae8f3cd1",
+      "crc32": "befa8d66",
+      "sha1": "d537f4a607cfe8970c890a04f0256f362f974acf"
+    },
+    {
+      "name": "statejournal-2022-10-03T15:08:50.499344-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664824143",
+      "size": "43167",
+      "md5": "12b82272449595463d8996fe0e1edc54",
+      "crc32": "4e2df2bb",
+      "sha1": "0a0a82c1ec0b5fb438321c5f03b9cdf52b8ffa70",
+      "format": "JSON"
+    },
+    {
+      "name": "statejournal-2022-10-03T15:08:50.499344-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664824145",
+      "size": "103395",
+      "md5": "b72c045619e5579686182e4a79b6ae15",
+      "crc32": "6c0f7a5d",
+      "sha1": "105d4fa4159b00c8489186a7256b9b591e45c598",
+      "format": "JSON"
+    },
+    {
+      "name": "statejournal-2022-10-03T15:08:50.499344-04:00.jpg",
+      "source": "original",
+      "mtime": "1664824140",
+      "size": "255904",
+      "md5": "f1a8d787bb99e2db9b798144052a1b70",
+      "crc32": "d9c53cca",
+      "sha1": "6b78a81eac0c501b3f17add350c423a5c2ab6dec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "statejournal-2022-10-03T15:08:50.499344-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664824147",
+      "size": "1522",
+      "md5": "227a63eca1e92d1f8955bdcfe3d3f1c2",
+      "crc32": "ed4ca294",
+      "sha1": "e606a88c6fda7185c888fdebcad29afb7df68ad8",
+      "format": "JSON"
+    },
+    {
+      "name": "statejournal-2022-10-03T15:08:50.499344-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664824149",
+      "size": "84326",
+      "md5": "ab5d326269555b4c12600eaac45c8e21",
+      "crc32": "6a46b0d6",
+      "sha1": "85f558326b7ba2e63f52e70360101785a4586344",
+      "format": "JSON"
+    },
+    {
       "name": "statejournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3e2368e33a7fb294261c67ef490051432e78ecc6",
-      "mtime": "1664782061",
-      "size": "156000",
-      "md5": "85ee9756de4c7608d2cb35abbfc27f97",
-      "crc32": "963494f0",
-      "sha1": "6b38ebb5cbcd66610b5010ec461e17d49f4dfad7",
+      "btih": "1c184ae4b2103feda2abc6c9b84caf088b127e5e",
+      "mtime": "1664824482",
+      "size": "157292",
+      "md5": "6f3725d75047cf1d198b098a1b9974b1",
+      "crc32": "b095a1e3",
+      "sha1": "9f60bf2c826625e0a932ccc6888646cd5affc02e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "statejournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c60b3a3ffbbc5c37481ec979f27f7625",
+      "md5": "495b76a59c9aab595ceadbcd17fbaae9",
       "summation": "md5"
     },
     {
       "name": "statejournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664782003",
-      "size": "925696",
-      "md5": "83621bf790dc52234b7b422d94ce0544",
-      "crc32": "334f559a",
-      "sha1": "f28e72e959086ec53283ccdec53cb0a9ab03cbb0",
+      "mtime": "1664824427",
+      "size": "933888",
+      "md5": "2a02c93ab12382951a24e9a564182809",
+      "crc32": "a4da69f3",
+      "sha1": "ddef4fbfda5c25206ed55b66e99e8da0fee81cc4",
       "format": "Metadata"
     },
     {
@@ -7483,9 +7545,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 723,
-  "item_last_updated": 1664782061,
-  "item_size": 60326559,
+  "files_count": 729,
+  "item_last_updated": 1664824482,
+  "item_size": 60833665,
   "metadata": {
     "identifier": "statejournal-2022",
     "collection": [
@@ -7507,15 +7569,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426683197,
+      "task_id": 3427298280,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 626715434,
+  "uniq": 176300123,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1664782208,
+  "created": 1664826745,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/17/items/theinformation-2022",
@@ -10757,31 +10757,93 @@
       "format": "JSON"
     },
     {
+      "name": "theinformation-2022-10-03T00:28:51.974707-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theinformation-2022-10-03T00:28:51.974707-07:00.jpg",
+      "mtime": "1664783853",
+      "size": "8982",
+      "md5": "89f1531a0f5e5f06d0d14d7827909d4b",
+      "crc32": "45f54bfb",
+      "sha1": "045cd870105d1237314f669c4458afcc5ba545c4"
+    },
+    {
+      "name": "theinformation-2022-10-03T12:11:15.887931-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664824279",
+      "size": "10870",
+      "md5": "fbcee021ca0a72ebe5d952f39667a5bf",
+      "crc32": "ef42d92d",
+      "sha1": "77937639079c8676bfd223901f79abe476046d31",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-10-03T12:11:15.887931-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664824281",
+      "size": "9446",
+      "md5": "422852bcce3b6adffa08f3584e9c292b",
+      "crc32": "65d4265e",
+      "sha1": "f6e50044e74e06e617037b3f83d858724c494e85",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-10-03T12:11:15.887931-07:00.jpg",
+      "source": "original",
+      "mtime": "1664824277",
+      "size": "157109",
+      "md5": "97be042b79babf7d795b880470608925",
+      "crc32": "11c06626",
+      "sha1": "77355259cda67eb66d68bc912a8625abf2328157",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theinformation-2022-10-03T12:11:15.887931-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664824283",
+      "size": "1531",
+      "md5": "117b3473f0233dc7f6139aa592470a11",
+      "crc32": "ec89e89f",
+      "sha1": "796b0cdb74fcfe82560e4cffee3ccbdceaef7fba",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-10-03T12:11:15.887931-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664824285",
+      "size": "236",
+      "md5": "0a708734da11d047faaca21619da03e6",
+      "crc32": "d65c4234",
+      "sha1": "a7a6757eb86a023b5069f9ed73c97fa071c91c3f",
+      "format": "JSON"
+    },
+    {
       "name": "theinformation-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b360b5814b2ec225b03fd4fc4819a3911e0fe861",
-      "mtime": "1664782203",
-      "size": "224152",
-      "md5": "2a1db2094c325e2fb0dacd6b5f12c768",
-      "crc32": "70f9f0ef",
-      "sha1": "beadeaf5a3a6a819ae6e7ec2cab4ce2e75ee51d1",
+      "btih": "78d34f8328c22e1f10a3d649560f2a1658d6401e",
+      "mtime": "1664824614",
+      "size": "225452",
+      "md5": "c40ac15ccfa5350f6b839d7db9731d8e",
+      "crc32": "1e13c2fa",
+      "sha1": "9444b0d31d7b29c8e29868deb292f83131ad9c61",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theinformation-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3fe8efd93223ed325353c7dac0483588",
+      "md5": "82020121c84babbbc92a2bc5985b315c",
       "summation": "md5"
     },
     {
       "name": "theinformation-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664782158",
-      "size": "1306624",
-      "md5": "3977caad1fd04466d9cfb265bc72b6e4",
-      "crc32": "a20975a2",
-      "sha1": "99754ca56f79e0039ce12470a77d7a69e5cb3ac8",
+      "mtime": "1664824559",
+      "size": "1314816",
+      "md5": "6642c030b2eafb6f9bf07dfc2ed53202",
+      "crc32": "0b4af468",
+      "sha1": "124e37e3f2d5e38c3dfb8e248c3712794621296a",
       "format": "Metadata"
     },
     {
@@ -10795,9 +10857,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1040,
-  "item_last_updated": 1664782203,
-  "item_size": 41618562,
+  "files_count": 1046,
+  "item_last_updated": 1664824614,
+  "item_size": 41816228,
   "metadata": {
     "identifier": "theinformation-2022",
     "collection": [
@@ -10819,15 +10881,20 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426684972,
+      "task_id": 3427300886,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 912899822,
+  "theinformation-2022": {
+    "url": "https://www.theinformation.com/",
+    "job_id": "spn2-70824fc05d306586ffb4ccccac4101eaf9d9d0cd",
+    "message": "The same snapshot had been made 1 minute, 37 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
+  "uniq": 477762575,
   "workable_servers": [
     "ia601504.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1664782524,
+  "created": 1664826842,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/21/items/wave3news-2022",
@@ -7615,31 +7615,93 @@
       "format": "JSON"
     },
     {
+      "name": "wave3news-2022-10-03T03:34:23.824716-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wave3news-2022-10-03T03:34:23.824716-04:00.jpg",
+      "mtime": "1664784727",
+      "size": "10864",
+      "md5": "54b6d1c0e54168d64239cd92089e0373",
+      "crc32": "53df83fe",
+      "sha1": "2fb342a1701247ad5ac53bd3228af745ef558aa4"
+    },
+    {
+      "name": "wave3news-2022-10-03T15:16:26.979582-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664824593",
+      "size": "34682",
+      "md5": "2500b76a1895c73d3f77d9dd365c231a",
+      "crc32": "b8d44ebb",
+      "sha1": "cabf3eaf6d82898f428f6aa3f8521a4a677895f7",
+      "format": "JSON"
+    },
+    {
+      "name": "wave3news-2022-10-03T15:16:26.979582-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664824595",
+      "size": "25098",
+      "md5": "f2a2c83a37985e95654f3c358157134d",
+      "crc32": "aa8296ae",
+      "sha1": "37de6d56da7fb407b5983b6bf8cd90b22a20f083",
+      "format": "JSON"
+    },
+    {
+      "name": "wave3news-2022-10-03T15:16:26.979582-04:00.jpg",
+      "source": "original",
+      "mtime": "1664824590",
+      "size": "302654",
+      "md5": "d376f5e11c8d39206ddd4ec9f7f4b177",
+      "crc32": "2852baa1",
+      "sha1": "1cb29b5f30483b5b5269147f661e8a798fe855fe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wave3news-2022-10-03T15:16:26.979582-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664824597",
+      "size": "1448",
+      "md5": "36264104f67650def165323dad84c572",
+      "crc32": "7f10e161",
+      "sha1": "ed32f5cb722be1ed0fd8e4a3c43b7e8774904762",
+      "format": "JSON"
+    },
+    {
+      "name": "wave3news-2022-10-03T15:16:26.979582-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664824598",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "wave3news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "76c5259a60b34f5a0fee2f7125ee744df1bf4b15",
-      "mtime": "1664782520",
-      "size": "157332",
-      "md5": "5dfc91c08c7949605232b00799a937d9",
-      "crc32": "c4d9fc9d",
-      "sha1": "d9b0b0ea18669e237618466ecd7c458b1b37a207",
+      "btih": "2db4ea553cf3377fa87f7fb38835c530ae7e8d3f",
+      "mtime": "1664824683",
+      "size": "158604",
+      "md5": "49313f6365880c4add46db366136ff21",
+      "crc32": "d94721ca",
+      "sha1": "fb13a41a8ed16fdd3f9fef7fa587e87cbc7ea025",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wave3news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "626a1f19cf466f3f0e4c1a3b9a0dbe50",
+      "md5": "1e26aecef4c365cb3f32072906b9ac2d",
       "summation": "md5"
     },
     {
       "name": "wave3news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664782480",
-      "size": "950272",
-      "md5": "e2de701f19b79e1aa7a280a1a925ed65",
-      "crc32": "c1fb549d",
-      "sha1": "6ccf423cf10a6079e8a270ee5c20b5e8af529940",
+      "mtime": "1664824638",
+      "size": "958464",
+      "md5": "e36ecce3f5b51d208da5e6b71e03ca64",
+      "crc32": "699aae0b",
+      "sha1": "0554eebd2ff9828613f7feaf27d0fb598c223d44",
       "format": "Metadata"
     },
     {
@@ -7653,9 +7715,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 740,
-  "item_last_updated": 1664782520,
-  "item_size": 57256267,
+  "files_count": 746,
+  "item_last_updated": 1664824683,
+  "item_size": 57640679,
   "metadata": {
     "identifier": "wave3news-2022",
     "collection": [
@@ -7677,15 +7739,20 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426689563,
+      "task_id": 3427301016,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1122316904,
+  "uniq": 1324014717,
+  "wave3news-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
     "ia902503.us.archive.org"
   ]
