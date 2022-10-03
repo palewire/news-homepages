@@ -1,5 +1,5 @@
 {
-  "created": 1664780242,
+  "created": 1664801731,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/14/items/foxnews-2022",
@@ -39152,31 +39152,82 @@
       "sha1": "0b91b708219f405aa6536f8ccc9adea9adb228fd"
     },
     {
+      "name": "foxnews-2022-10-03T08:52:41.990570-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664801566",
+      "size": "79937",
+      "md5": "74d9286bd5c0c041449b6ddcd4042341",
+      "crc32": "edd79bb6",
+      "sha1": "731c0ebe30422527f184831ad6bdf1542614e9ff",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-10-03T08:52:41.990570-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664801568",
+      "size": "103338",
+      "md5": "94857c87a27977aa6c1dfb1dc7341242",
+      "crc32": "f386e3da",
+      "sha1": "1a4f4141dffbeb67cd831532427e356a4664b33e",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-10-03T08:52:41.990570-04:00.jpg",
+      "source": "original",
+      "mtime": "1664801564",
+      "size": "424326",
+      "md5": "39425cb9f0db154d927e0be0e1e229e4",
+      "crc32": "9560be50",
+      "sha1": "fa0f773a28c8739a326877cd0697e41c067ead13",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxnews-2022-10-03T08:52:41.990570-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664801570",
+      "size": "1468",
+      "md5": "dc3c6582ecc4794c04a29beee9c33643",
+      "crc32": "6e7d43ef",
+      "sha1": "193b425b3f9291bd497f10deb560bf29eb492965",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-10-03T08:52:41.990570-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664801572",
+      "size": "231",
+      "md5": "dedb19bad8ad8dde300108907ad39990",
+      "crc32": "448eaa4c",
+      "sha1": "17d536c8b728a986581dfc454d191e275b0112db",
+      "format": "JSON"
+    },
+    {
       "name": "foxnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a4d67bf2874c9d93f04ff410edf61a940ad33bc3",
-      "mtime": "1664779941",
-      "size": "795226",
-      "md5": "33f8ac854925a46bee9ae89bf44c6114",
-      "crc32": "523c8786",
-      "sha1": "b46b8a58e7b962bcf57e2ddf34955a073a1c978e",
+      "btih": "2ae9f351016ea1e2c6e3ba7a067cad2a11ef1e9d",
+      "mtime": "1664801722",
+      "size": "796283",
+      "md5": "4c86278f7b9203baac9fbf20616a13be",
+      "crc32": "bcc0c6c1",
+      "sha1": "3596747f51d964ed58c427b51f5a51d906fec266",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foxnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f132c631bf58e34b4025686c5cd563c2",
+      "md5": "235dc5db0ffa5f24e37626b0f90fbdde",
       "summation": "md5"
     },
     {
       "name": "foxnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664777260",
-      "size": "4468736",
-      "md5": "e5626e5724e98bc17dc64bab96ad8a96",
-      "crc32": "446bf274",
-      "sha1": "85643670d09215a7d1b8a22d6b0c270913cf10ae",
+      "mtime": "1664801583",
+      "size": "4472832",
+      "md5": "70b0b9035cda8da369cc7f039d083770",
+      "crc32": "32cf2b00",
+      "sha1": "bf91d2413d0afa8a9fade8b85ae83e120e72f865",
       "format": "Metadata"
     },
     {
@@ -39190,9 +39241,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 3756,
-  "item_last_updated": 1664779941,
-  "item_size": 486445384,
+  "files_count": 3761,
+  "item_last_updated": 1664801722,
+  "item_size": 487059837,
   "metadata": {
     "identifier": "foxnews-2022",
     "collection": [
@@ -39209,10 +39260,21 @@
     "publicdate": "2022-03-23 01:45:55",
     "addeddate": "2022-03-23 01:45:55"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 1572963006,
+  "pending_tasks": true,
+  "server": "ia902505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3426973505,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 147288442,
   "workable_servers": [
-    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }
