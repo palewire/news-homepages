@@ -1,5 +1,5 @@
 {
-  "created": 1664769000,
+  "created": 1664809877,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/3/items/therealnews-2022",
@@ -9650,31 +9650,82 @@
       "sha1": "2e0f7520961f7ef6bfc8096a76af730a0195b9ac"
     },
     {
+      "name": "therealnews-2022-10-03T11:10:01.514476-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664809814",
+      "size": "25113",
+      "md5": "62f21ba0c2ba00cf9aab48c8ca63c301",
+      "crc32": "f671e277",
+      "sha1": "63586be576e93ef19dc30fd05e04b007d00926a3",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-03T11:10:01.514476-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664809816",
+      "size": "33351",
+      "md5": "27a0cddb2a2797601ae5758fbb5986d3",
+      "crc32": "90286d0b",
+      "sha1": "676a879ebe39cc7c622f3e25aa76d8c65581e90c",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-03T11:10:01.514476-04:00.jpg",
+      "source": "original",
+      "mtime": "1664809812",
+      "size": "318705",
+      "md5": "763277cd2b2c27d23bc14fdc6119de90",
+      "crc32": "3b98e1cf",
+      "sha1": "c3fb69cb27b0c62d33ed5c5dff52372fed5cacdb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "therealnews-2022-10-03T11:10:01.514476-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664809818",
+      "size": "1468",
+      "md5": "b1fa41031b6207a52881c66dc44c6ec4",
+      "crc32": "186c0edc",
+      "sha1": "2ef84af6d53c4890d12cbdb08f54934a32205650",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-03T11:10:01.514476-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664809820",
+      "size": "26749",
+      "md5": "0c947219156001cbcbdbdf25af17dfc9",
+      "crc32": "edfb7a6a",
+      "sha1": "5ee0246ab9ec17c02d6175fccbe85ba2f9e15ee2",
+      "format": "JSON"
+    },
+    {
       "name": "therealnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "be99761de65a810d344277ef15f4b427c97953c5",
-      "mtime": "1664768825",
-      "size": "200524",
-      "md5": "c300bb16c2482adbcc7be1af790d0acc",
-      "crc32": "f1ec413a",
-      "sha1": "a3d409d422e41619d2d0f0fe92590bcafe0c8e2e",
+      "btih": "2347baafbea4aad039157f42d486d0a02956f31b",
+      "mtime": "1664809871",
+      "size": "201582",
+      "md5": "04a18d32883f5accac2c1885f85a1d1d",
+      "crc32": "690cf212",
+      "sha1": "eba44322e01493e544ac9f545df3f0befc52233e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "therealnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1448f2b264e976aa56ebf8fb7ae1769e",
+      "md5": "ce680f4be4eafd8acb2c66baba28aecf",
       "summation": "md5"
     },
     {
       "name": "therealnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664768364",
-      "size": "1187840",
-      "md5": "40ac21edbd15f1bd6cc79c5ac802e8fb",
-      "crc32": "66f04044",
-      "sha1": "c29d781198e10653297137cbab8d47de8e28d40c",
+      "mtime": "1664809827",
+      "size": "1191936",
+      "md5": "891d1113f8cc396b438fab44d3946d37",
+      "crc32": "61ce712a",
+      "sha1": "03c5082e3c5e1d0c1f1bd0fa5b313257ff46fe49",
       "format": "Metadata"
     },
     {
@@ -9688,9 +9739,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 935,
-  "item_last_updated": 1664768825,
-  "item_size": 72624623,
+  "files_count": 940,
+  "item_last_updated": 1664809871,
+  "item_size": 73035163,
   "metadata": {
     "identifier": "therealnews-2022",
     "collection": [
@@ -9707,10 +9758,21 @@
     "publicdate": "2022-07-13 02:25:04",
     "addeddate": "2022-07-13 02:25:04"
   },
+  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "uniq": 885269712,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3427091176,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 772863832,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia601401.us.archive.org"
   ]
 }

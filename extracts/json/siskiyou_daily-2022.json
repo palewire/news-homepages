@@ -1,6 +1,5 @@
 {
-  "conflict": 1664770723,
-  "created": 1664770723,
+  "created": 1664812089,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/28/items/siskiyou_daily-2022",
@@ -1567,31 +1566,93 @@
       "sha1": "03698150dc8f2be55aa1b82a6b5e8b1fe1aa7204"
     },
     {
+      "name": "siskiyou_daily-2022-10-03T08:07:49.899539-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664809673",
+      "size": "24814",
+      "md5": "cd3df86cc81dde76369e4bbbfd65fdbd",
+      "crc32": "8af551ba",
+      "sha1": "b478517ed56b61ec9d67ca385529ccba2bbe82c7",
+      "format": "JSON"
+    },
+    {
+      "name": "siskiyou_daily-2022-10-03T08:07:49.899539-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664809675",
+      "size": "30852",
+      "md5": "640c95589c21297e9c5285f5aa3eec6f",
+      "crc32": "f0238bb5",
+      "sha1": "e898db85e25f0c4f9eb6ffa2ca8ee5149cac58d7",
+      "format": "JSON"
+    },
+    {
+      "name": "siskiyou_daily-2022-10-03T08:07:49.899539-07:00.jpg",
+      "source": "original",
+      "mtime": "1664809671",
+      "size": "224527",
+      "md5": "d9d3e61ea5dd0f36d2b0641a890fb7db",
+      "crc32": "e249b9a0",
+      "sha1": "20999cc4741e228e191d5ffb646b3f9481a9bf06",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "siskiyou_daily-2022-10-03T08:07:49.899539-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664809676",
+      "size": "1522",
+      "md5": "1b93c6530431ac3773f35ce41764a344",
+      "crc32": "fce0b193",
+      "sha1": "94f94f0d3163a5020a78018b83f9678e32593bf0",
+      "format": "JSON"
+    },
+    {
+      "name": "siskiyou_daily-2022-10-03T08:07:49.899539-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664809678",
+      "size": "108322",
+      "md5": "89b4a80aaf36f566f08d71208eb8244a",
+      "crc32": "a1459854",
+      "sha1": "c2fbdcefc5999944b4d6f13a680ace89f0014630",
+      "format": "JSON"
+    },
+    {
+      "name": "siskiyou_daily-2022-10-03T08:07:49.899539-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "siskiyou_daily-2022-10-03T08:07:49.899539-07:00.jpg",
+      "mtime": "1664811991",
+      "size": "8824",
+      "md5": "42c8297b7971434338258b9c7b078ca6",
+      "crc32": "44fd7249",
+      "sha1": "655bbfceec4a7bf48c40e2a2d1528e30401b1332"
+    },
+    {
       "name": "siskiyou_daily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4d12f7bb02c124f4d72d3615f4b743e1d58294b8",
-      "mtime": "1664770714",
-      "size": "34168",
-      "md5": "de89f81850cf63843b504c352aaa38c2",
-      "crc32": "f1e4a0df",
-      "sha1": "c546f00cfbee4a13b993f1ab4f71a56809c885b1",
+      "btih": "e080776340f6f29d82e5b98ea02eb24ce736b045",
+      "mtime": "1664812003",
+      "size": "35472",
+      "md5": "bd0b0c8e7e976ff3e2efb3388d1e2c39",
+      "crc32": "80208ae9",
+      "sha1": "7e3edf8e820494e6dfeb26e2c77e825cb45b11aa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "siskiyou_daily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e5b8f79778d41a7d458aec882de8b322",
+      "md5": "cd3237aa20aa4bc5070c246475f6da24",
       "summation": "md5"
     },
     {
       "name": "siskiyou_daily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664768220",
-      "size": "217088",
-      "md5": "125ab9a24750273cf9997c9aa3268e1d",
-      "crc32": "ee49c8f9",
-      "sha1": "4a3859b780708ea042442278ca650d7d641c730b",
+      "mtime": "1664809688",
+      "size": "225280",
+      "md5": "6181dc4c1b848f78cb27808641b56da8",
+      "crc32": "03fd9490",
+      "sha1": "12aa1c797b48cefbdde2004985bb78321530f91b",
       "format": "Metadata"
     },
     {
@@ -1605,9 +1666,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 155,
-  "item_last_updated": 1664770714,
-  "item_size": 11043453,
+  "files_count": 161,
+  "item_last_updated": 1664812003,
+  "item_size": 11451810,
   "metadata": {
     "identifier": "siskiyou_daily-2022",
     "collection": [
@@ -1624,29 +1685,10 @@
     "publicdate": "2022-09-21 03:42:55",
     "addeddate": "2022-09-21 03:42:55"
   },
-  "pending_tasks": true,
-  "server": "ia601400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3426480963,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3426520334,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1529476849,
+  "server": "ia801400.us.archive.org",
+  "uniq": 503852198,
   "workable_servers": [
+    "ia801400.us.archive.org",
     "ia601400.us.archive.org"
   ]
 }

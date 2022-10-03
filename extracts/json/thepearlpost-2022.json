@@ -1,5 +1,5 @@
 {
-  "created": 1664770333,
+  "created": 1664809873,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/13/items/thepearlpost-2022",
@@ -3582,31 +3582,82 @@
       "sha1": "5fa862ae0578303a2285ad8bff3f51fdca90ef47"
     },
     {
+      "name": "thepearlpost-2022-10-03T08:09:57.866503-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664809801",
+      "size": "7320",
+      "md5": "823c311879e5ec5ad3259392b2934421",
+      "crc32": "39cbf926",
+      "sha1": "5e83780b30d42d0e0b73b9d482878a2617f2aad5",
+      "format": "JSON"
+    },
+    {
+      "name": "thepearlpost-2022-10-03T08:09:57.866503-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664809804",
+      "size": "31401",
+      "md5": "c1ccdec96d5294b7eedb3f622d48e231",
+      "crc32": "dddcb5d8",
+      "sha1": "a199a72df29a33c236455a1c19906e8d95976c24",
+      "format": "JSON"
+    },
+    {
+      "name": "thepearlpost-2022-10-03T08:09:57.866503-07:00.jpg",
+      "source": "original",
+      "mtime": "1664809800",
+      "size": "261517",
+      "md5": "02a7039323d27a766821a4b00cd08b66",
+      "crc32": "33a8adf8",
+      "sha1": "efa7930396c9f155aff094ddcbe285e6d71a8ba7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thepearlpost-2022-10-03T08:09:57.866503-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664809806",
+      "size": "1512",
+      "md5": "f9e50d9c04dc2b870755bcb49ab1b7dc",
+      "crc32": "2ec56737",
+      "sha1": "747ba9f30493602704d38acf2473ab1b7e4203a7",
+      "format": "JSON"
+    },
+    {
+      "name": "thepearlpost-2022-10-03T08:09:57.866503-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664809808",
+      "size": "21633",
+      "md5": "c21051c58b639f45a56508d43b0429ec",
+      "crc32": "2765a3d3",
+      "sha1": "d77e493a0cc1863ec8afebbe270b3d785bdf5f16",
+      "format": "JSON"
+    },
+    {
       "name": "thepearlpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d778055f4eab50b7a631ad8e3b7cdd14649654d1",
-      "mtime": "1664770170",
-      "size": "75445",
-      "md5": "2e8e7cb849ae49264418c9f90f357af8",
-      "crc32": "74119be0",
-      "sha1": "6e1372461d808d037766ebd3d7760f945348b837",
+      "btih": "5e1875a4f2caab1138ce224071e32257813b1897",
+      "mtime": "1664809862",
+      "size": "76507",
+      "md5": "fb85c90b91e38e8a1a7937ebcc03b74a",
+      "crc32": "0490cc31",
+      "sha1": "e4bd3e081dc959c408bbeb79352dea633a3f1d89",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thepearlpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "669ad14849dd1ee95d5f0dccccb8f589",
+      "md5": "504146019ea5cb3c5632c994521ab5cb",
       "summation": "md5"
     },
     {
       "name": "thepearlpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664768418",
-      "size": "458752",
-      "md5": "1dde914884cdf0c1294cfca4ee0e572c",
-      "crc32": "d6b51572",
-      "sha1": "48e291894f9e9b16e1abe9cc54104a627563d0d6",
+      "mtime": "1664809822",
+      "size": "466944",
+      "md5": "f5398a08a5b2d785889af8cc029978f5",
+      "crc32": "a183d129",
+      "sha1": "3dd182e131799a97b8085263b9f5bd49b5c7c3a6",
       "format": "Metadata"
     },
     {
@@ -3620,9 +3671,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 350,
-  "item_last_updated": 1664770170,
-  "item_size": 20680321,
+  "files_count": 355,
+  "item_last_updated": 1664809862,
+  "item_size": 21012958,
   "metadata": {
     "identifier": "thepearlpost-2022",
     "collection": [
@@ -3639,10 +3690,21 @@
     "publicdate": "2022-09-04 03:47:40",
     "addeddate": "2022-09-04 03:47:40"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 1871704458,
+  "pending_tasks": true,
+  "server": "ia601500.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3427091130,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 274463071,
   "workable_servers": [
-    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }
