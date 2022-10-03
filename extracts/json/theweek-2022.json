@@ -1,5 +1,5 @@
 {
-  "created": 1664724041,
+  "created": 1664768982,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/29/items/theweek-2022",
@@ -5442,31 +5442,93 @@
       "sha1": "b1f5b867ce9e637cdebc8f3df18f32802c8ceba0"
     },
     {
+      "name": "theweek-2022-10-02T23:41:59.045665-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664768549",
+      "size": "31225",
+      "md5": "b8978cdc0b1a6209df124f6068a374fd",
+      "crc32": "43ca6bcd",
+      "sha1": "c7fb5346d0584611490b1c665a901800e56dd276",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-02T23:41:59.045665-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664768551",
+      "size": "14988",
+      "md5": "95ef8578f112f47511cb319084438675",
+      "crc32": "31f57509",
+      "sha1": "0eedbe42ee52a6211abe825daa827335f09e5d2d",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-02T23:41:59.045665-04:00.jpg",
+      "source": "original",
+      "mtime": "1664768548",
+      "size": "263182",
+      "md5": "ad242563e1262fccc7974102b126bd40",
+      "crc32": "fbcb50f5",
+      "sha1": "b9b672927136f3fc40ca5eeaef746a9d3bfca60b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theweek-2022-10-02T23:41:59.045665-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664768552",
+      "size": "1431",
+      "md5": "aeb928766a414badac966ac361b7e9e7",
+      "crc32": "84952e2e",
+      "sha1": "88d543306368f22a2b88af448ea813004b641336",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-02T23:41:59.045665-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664768555",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-02T23:41:59.045665-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theweek-2022-10-02T23:41:59.045665-04:00.jpg",
+      "mtime": "1664768820",
+      "size": "9739",
+      "md5": "0f701a114730bcb7a6e9a741d15547bf",
+      "crc32": "e3eba0f9",
+      "sha1": "b07ac2ba8288815204e7db6e629a6fe1c907fea0"
+    },
+    {
       "name": "theweek-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3ecb07d4a330760a108941ebd53bc269fa421e8f",
-      "mtime": "1664723908",
-      "size": "111437",
-      "md5": "95898e4bedd492db885f7b720788df84",
-      "crc32": "6a90adfe",
-      "sha1": "007f2efd0ca2ece26561d6d5c13502a2d9a43d44",
+      "btih": "66ecb17c29cef6961c97cbb174f9356c2252a8a0",
+      "mtime": "1664768885",
+      "size": "112696",
+      "md5": "4961d223193bd1cc0c35e2dd86e35d48",
+      "crc32": "9d0710b1",
+      "sha1": "5e5959872e41cf175ef870c06d10be9ccd85ed17",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theweek-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "15bfb3cc009cd1248686457b4a721033",
+      "md5": "ffd5774bbc6d54bc749b00d8f7544150",
       "summation": "md5"
     },
     {
       "name": "theweek-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664723523",
-      "size": "684032",
-      "md5": "367102fb25e9a7ca3bbabf2b21eee033",
-      "crc32": "76daaf50",
-      "sha1": "9b9ef0e65334f625ff27ec224f45e0aaa3c15b4e",
+      "mtime": "1664768608",
+      "size": "696320",
+      "md5": "30964ceaacb69191e2e1a2864b78cdc2",
+      "crc32": "63d64dcf",
+      "sha1": "c57eefee1a3347cdeefb6f378278fd954c4fbb84",
       "format": "Metadata"
     },
     {
@@ -5480,9 +5542,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 530,
-  "item_last_updated": 1664723908,
-  "item_size": 32299828,
+  "files_count": 536,
+  "item_last_updated": 1664768885,
+  "item_size": 32634142,
   "metadata": {
     "identifier": "theweek-2022",
     "collection": [
@@ -5500,7 +5562,7 @@
     "addeddate": "2022-08-19 01:22:20"
   },
   "server": "ia601404.us.archive.org",
-  "uniq": 2070843181,
+  "uniq": 457336295,
   "workable_servers": [
     "ia601404.us.archive.org",
     "ia801404.us.archive.org"

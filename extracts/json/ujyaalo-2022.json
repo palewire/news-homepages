@@ -1,5 +1,5 @@
 {
-  "created": 1664723852,
+  "created": 1664768631,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/19/items/ujyaalo-2022",
@@ -8424,31 +8424,82 @@
       "sha1": "90c3a9a870f8dbfa9af7f37bad0d7c7b81526958"
     },
     {
+      "name": "ujyaalo-2022-10-03T09:26:47.602956+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1664768516",
+      "size": "89984",
+      "md5": "56309024e4c65850baa7a5608d7af85c",
+      "crc32": "d10f925a",
+      "sha1": "3440d9b688f8a025e53bdb1553afec4fc34e998e",
+      "format": "JSON"
+    },
+    {
+      "name": "ujyaalo-2022-10-03T09:26:47.602956+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664768519",
+      "size": "67677",
+      "md5": "ca2df30c1599356f72cfd6b5a117c19e",
+      "crc32": "20081015",
+      "sha1": "831a78d4909a961315796f25894380159eb552ca",
+      "format": "JSON"
+    },
+    {
+      "name": "ujyaalo-2022-10-03T09:26:47.602956+05:45.jpg",
+      "source": "original",
+      "mtime": "1664768514",
+      "size": "266848",
+      "md5": "2515a19fdcc94288b95c6b8c3863cbaf",
+      "crc32": "7c123886",
+      "sha1": "ef13f9524c52edfaafbb64e676d050748b45ad88",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ujyaalo-2022-10-03T09:26:47.602956+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1664768521",
+      "size": "1486",
+      "md5": "0da484ec10108d29c7d1971fce3a8f7b",
+      "crc32": "5d056904",
+      "sha1": "fe9ad0cd4d2247ae37089a19ff1bdb9828bf5324",
+      "format": "JSON"
+    },
+    {
+      "name": "ujyaalo-2022-10-03T09:26:47.602956+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1664768523",
+      "size": "22086",
+      "md5": "79f4ba54ea1b6a115b923c460f87c66c",
+      "crc32": "6c8b8a78",
+      "sha1": "d9c6106cd8f6cabf3543f9aca5e00c14e2edd35d",
+      "format": "JSON"
+    },
+    {
       "name": "ujyaalo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f7af5b6faddf50cf6faa8eb036e61516bb62aa1d",
-      "mtime": "1664723717",
-      "size": "172084",
-      "md5": "1d827d91097f31ec07c34a424a018078",
-      "crc32": "49e02063",
-      "sha1": "0fb6c19dccd7dc15ecc8cf4faefcb39c095b9ee6",
+      "btih": "7b8fc77ae24e2b3db4f19278032b308bc46a41b4",
+      "mtime": "1664768614",
+      "size": "173142",
+      "md5": "5f8d7fea3ab08feba95664f2e5679acf",
+      "crc32": "9ce29458",
+      "sha1": "f77806a8acf6fdc5c40e93d80cc98c51d14dc541",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ujyaalo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fd926c17ff7478b9f075ab32c8aa5202",
+      "md5": "93455432a5ca019cefb1020f0ca5f9c3",
       "summation": "md5"
     },
     {
       "name": "ujyaalo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664723471",
-      "size": "1040384",
-      "md5": "104979ff8d7e675615cc481b4971c888",
-      "crc32": "da0c85ad",
-      "sha1": "ec42fe207dbee297ebaeb924e1f57d7e4519e7a0",
+      "mtime": "1664768559",
+      "size": "1048576",
+      "md5": "826230ad8b3e12b20d174a2a982a58d2",
+      "crc32": "72338881",
+      "sha1": "8afc351724983899949e17a7dddb30f4d0b88c7d",
       "format": "Metadata"
     },
     {
@@ -8462,9 +8513,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 818,
-  "item_last_updated": 1664723717,
-  "item_size": 62162385,
+  "files_count": 823,
+  "item_last_updated": 1664768614,
+  "item_size": 62619716,
   "metadata": {
     "identifier": "ujyaalo-2022",
     "collection": [
@@ -8481,10 +8532,21 @@
     "publicdate": "2022-07-24 20:39:52",
     "addeddate": "2022-07-24 20:39:52"
   },
+  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "uniq": 1307949000,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3426486040,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1071486727,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia601401.us.archive.org"
   ]
 }

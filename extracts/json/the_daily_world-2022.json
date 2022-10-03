@@ -1,5 +1,5 @@
 {
-  "created": 1664723220,
+  "created": 1664768270,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/30/items/the_daily_world-2022",
@@ -1494,31 +1494,82 @@
       "sha1": "8229d3fcbb05a05cc0a334785a7cd3dcc2f464b9"
     },
     {
+      "name": "the_daily_world-2022-10-02T22:36:54.680295-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664768218",
+      "size": "21132",
+      "md5": "8f05a9c43317be6e2dcae128878ac1fe",
+      "crc32": "8ca695c4",
+      "sha1": "06857c51cf88408bc2befa4d9f9ceddda2c3dc4f",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-02T22:36:54.680295-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664768220",
+      "size": "28507",
+      "md5": "ee96a83914ed88cc46d6981a6e865e14",
+      "crc32": "93c2e234",
+      "sha1": "63c30921e61381ebc4157caa8db3d34d5ee91ec5",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-02T22:36:54.680295-05:00.jpg",
+      "source": "original",
+      "mtime": "1664768217",
+      "size": "223400",
+      "md5": "74fd5073ef2f5dd5ed129d44135beb0c",
+      "crc32": "c1b2b1aa",
+      "sha1": "ab2f48399bbdf31c8ac3f968028d9993f2c1ec39",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the_daily_world-2022-10-02T22:36:54.680295-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664768221",
+      "size": "1495",
+      "md5": "3506175f1b065c66348f66c28aa667be",
+      "crc32": "17d122cd",
+      "sha1": "1439628b9f30b21cb5c6d0932da04717b6aa1229",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-02T22:36:54.680295-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664768223",
+      "size": "84090",
+      "md5": "6ea914dc140dc5424ae83c7a9752d570",
+      "crc32": "aaeee625",
+      "sha1": "c4ec4816d1f2bd6e39f6b2985a95e50e9dcdf525",
+      "format": "JSON"
+    },
+    {
       "name": "the_daily_world-2022_archive.torrent",
       "source": "metadata",
-      "btih": "128a140a657292bf19a650bf5a878c13f805470c",
-      "mtime": "1664723205",
-      "size": "32745",
-      "md5": "dbdec3fed805d5f33aca90db01edd96f",
-      "crc32": "411b5a63",
-      "sha1": "8fbc25bd2925266bc6d25b0e3b98947621a85bb6",
+      "btih": "4130e88d084679ba7b573f5d640e8f0d630b6fc5",
+      "mtime": "1664768266",
+      "size": "33843",
+      "md5": "772e795c9034f4c36d467fb33c008e14",
+      "crc32": "f5f4e276",
+      "sha1": "b6ca78f99e9f611f6e5714ec4664620fa39c86f2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "the_daily_world-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ad76220357e1c1c5d5aa0bd181121919",
+      "md5": "66f94167bc92e1d3105971e6a0673917",
       "summation": "md5"
     },
     {
       "name": "the_daily_world-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664723112",
-      "size": "208896",
-      "md5": "71fbab6f310fee3222db3dcb682d91d7",
-      "crc32": "cd086ee9",
-      "sha1": "ba296a4745ed022edf543446ab2dc216c5219eaf",
+      "mtime": "1664768230",
+      "size": "217088",
+      "md5": "78431922b77e1d40494e62700c578d41",
+      "crc32": "dee8fc7b",
+      "sha1": "c0a2c317549dadd13f0c0f0a6e7d794ece0268eb",
       "format": "Metadata"
     },
     {
@@ -1532,9 +1583,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 148,
-  "item_last_updated": 1664723205,
-  "item_size": 9403851,
+  "files_count": 153,
+  "item_last_updated": 1664768266,
+  "item_size": 9771765,
   "metadata": {
     "identifier": "the_daily_world-2022",
     "collection": [
@@ -1551,10 +1602,21 @@
     "publicdate": "2022-09-21 03:43:02",
     "addeddate": "2022-09-21 03:43:02"
   },
-  "server": "ia801504.us.archive.org",
-  "uniq": 1156023175,
+  "pending_tasks": true,
+  "server": "ia601504.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3426480943,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 2108648614,
   "workable_servers": [
-    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

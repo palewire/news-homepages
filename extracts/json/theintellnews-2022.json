@@ -1,5 +1,5 @@
 {
-  "created": 1664724339,
+  "created": 1664771065,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/6/items/theintellnews-2022",
@@ -1482,31 +1482,93 @@
       "sha1": "35b32ed7cce01d7284398706599aa0ae32b4e475"
     },
     {
+      "name": "theintellnews-2022-10-02T23:40:06.873823-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664768410",
+      "size": "24599",
+      "md5": "f01c0f77f10e70e8c6bd1774d2c79d4d",
+      "crc32": "e452a394",
+      "sha1": "cb12a21e5cf3def88e9225297ed46d6d4453b63c",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-02T23:40:06.873823-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664768412",
+      "size": "35115",
+      "md5": "ae193d60c11cc4cfa216c05965f7bb06",
+      "crc32": "139b949b",
+      "sha1": "6cd612bee4571cbe35e0fe7af5aac6f264715001",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-02T23:40:06.873823-04:00.jpg",
+      "source": "original",
+      "mtime": "1664768408",
+      "size": "242184",
+      "md5": "6ba1f55efc154784415333b4b66dcf23",
+      "crc32": "5dba6a68",
+      "sha1": "a51469b9eefc8f7a473962616346bf629b539968",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theintellnews-2022-10-02T23:40:06.873823-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664768413",
+      "size": "1486",
+      "md5": "788c49b744c62a25a104f2c3eb316935",
+      "crc32": "2482049f",
+      "sha1": "160de64a88b10acaac6e47662a333889b9e9e67f",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-02T23:40:06.873823-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664768414",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-02T23:40:06.873823-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theintellnews-2022-10-02T23:40:06.873823-04:00.jpg",
+      "mtime": "1664768515",
+      "size": "9095",
+      "md5": "03beffb02a8197c498c1d867ebbaf847",
+      "crc32": "c19f035b",
+      "sha1": "ce800f6114c04fe8197368434db2cf1c8ff5ac6c"
+    },
+    {
       "name": "theintellnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "35728a75e74d3c69912991809d12955a3360cff4",
-      "mtime": "1664724185",
-      "size": "32261",
-      "md5": "b98459fd7f8d0e9a064ed95d8d3cc7ff",
-      "crc32": "a471719d",
-      "sha1": "14c0bec964f6f64515b70f634e59dcb7d7a87160",
+      "btih": "695c3a461f62008403be3ff4a046eb8fd82e2187",
+      "mtime": "1664768584",
+      "size": "33556",
+      "md5": "62c526025f5986b2fe83a23354aedb21",
+      "crc32": "cb24892c",
+      "sha1": "778fd29c6d7f58bacf7356c31b96eec3c96faa8e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theintellnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3d425c47bedc7a6dab2ea1ba080c874e",
+      "md5": "2872ee3a07b2703926fac969dabedcda",
       "summation": "md5"
     },
     {
       "name": "theintellnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664723305",
-      "size": "204800",
-      "md5": "04d00df791d462285ef89fbf48b1c56c",
-      "crc32": "5e61f3c9",
-      "sha1": "51d69fd67e46d82c1375d224c6cf09ffd895f165",
+      "mtime": "1664768428",
+      "size": "217088",
+      "md5": "33f42fd50a91b27236c101306fb29d30",
+      "crc32": "458840d7",
+      "sha1": "5725ce252058f019967593863e0a4e862a20bd34",
       "format": "Metadata"
     },
     {
@@ -1520,9 +1582,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 147,
-  "item_last_updated": 1664724185,
-  "item_size": 9858546,
+  "files_count": 153,
+  "item_last_updated": 1664768584,
+  "item_size": 10184810,
   "metadata": {
     "identifier": "theintellnews-2022",
     "collection": [
@@ -1540,7 +1602,12 @@
     "addeddate": "2022-09-21 03:45:20"
   },
   "server": "ia601403.us.archive.org",
-  "uniq": 243989983,
+  "theintellnews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1968732516,
   "workable_servers": [
     "ia601403.us.archive.org",
     "ia801403.us.archive.org"

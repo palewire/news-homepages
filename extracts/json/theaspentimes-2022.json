@@ -1,5 +1,6 @@
 {
-  "created": 1664723417,
+  "conflict": 1664771012,
+  "created": 1664771012,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/0/items/theaspentimes-2022",
@@ -4978,31 +4979,88 @@
       "sha1": "aaefb8998d73af564fd7ae42ad6ef240a0e9a459"
     },
     {
+      "name": "theaspentimes-2022-10-02T21:39:12.747322-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664768366",
+      "size": "18752",
+      "md5": "118a33645a09f2a2920169abad75d589",
+      "crc32": "af7fd0fe",
+      "sha1": "4e229561ac61a46a649b1540e68cefe80cee0350",
+      "format": "JSON"
+    },
+    {
+      "name": "theaspentimes-2022-10-02T21:39:12.747322-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664768368",
+      "size": "27061",
+      "md5": "0c105a1ef79dbdbeb98dbfb993761c54",
+      "crc32": "e800c19e",
+      "sha1": "b7b4a1757be8549838d45b681aaa7eea29fcd495",
+      "format": "JSON"
+    },
+    {
+      "name": "theaspentimes-2022-10-02T21:39:12.747322-06:00.jpg",
+      "source": "original",
+      "mtime": "1664768360",
+      "size": "256863",
+      "md5": "9f54c0aced13a0e538e81ded328d675b",
+      "crc32": "9c9cb264",
+      "sha1": "3714725af7b891a1d1411a25f7166612033cbb75",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theaspentimes-2022-10-02T21:39:12.747322-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664768370",
+      "size": "1493",
+      "md5": "5b5ef44da01354efb261cea09d0286ff",
+      "crc32": "9ec8dbcb",
+      "sha1": "d3b9115ca2f1bea6345b652ceeeca8792e689084",
+      "format": "JSON"
+    },
+    {
+      "name": "theaspentimes-2022-10-02T21:39:12.747322-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1664768371",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theaspentimes-2022-10-02T21:39:12.747322-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theaspentimes-2022-10-02T21:39:12.747322-06:00.jpg"
+    },
+    {
       "name": "theaspentimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "11d9c6e334bcbdd9fa3592a43d777179842263ac",
-      "mtime": "1664723400",
-      "size": "104769",
-      "md5": "2bec6c66b7637bb01d911142783f35fb",
-      "crc32": "dd188a61",
-      "sha1": "f6757052692e00c9aee44068134a23f079aa3013",
+      "btih": "2af356ae8303f857e467a7e4066f99496e9c3347",
+      "mtime": "1664768419",
+      "size": "105855",
+      "md5": "884ccd27ae603d52e70c0cc2bc00632d",
+      "crc32": "051f0927",
+      "sha1": "6abe882ed7312b493566eb784a5cde79f7810d7c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theaspentimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a2d7b07d116590e8f0175213ffa3dcc7",
+      "md5": "89e941f362918406f6b37a97620656b1",
       "summation": "md5"
     },
     {
       "name": "theaspentimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664723326",
-      "size": "634880",
-      "md5": "ea03f0aebc9688a3e7b917a65bd43f51",
-      "crc32": "ebd3bf29",
-      "sha1": "99a2756992db9ff67f1fcd3d2eaa54ae03630f91",
+      "mtime": "1664768378",
+      "size": "643072",
+      "md5": "5ffede51df5808299bf77d22bd1b7bf5",
+      "crc32": "562cf689",
+      "sha1": "03e61f6a01aff58168eb26db0eaf8d8830580a14",
       "format": "Metadata"
     },
     {
@@ -5016,9 +5074,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 485,
-  "item_last_updated": 1664723400,
-  "item_size": 27217400,
+  "files_count": 491,
+  "item_last_updated": 1664768419,
+  "item_size": 27531049,
   "metadata": {
     "identifier": "theaspentimes-2022",
     "collection": [
@@ -5035,10 +5093,21 @@
     "publicdate": "2022-08-22 13:05:38",
     "addeddate": "2022-08-22 13:05:38"
   },
+  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "uniq": 1355708697,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3426483035,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 490662994,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia601500.us.archive.org"
   ]
 }
