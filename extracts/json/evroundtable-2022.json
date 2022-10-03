@@ -1,5 +1,6 @@
 {
-  "created": 1664727129,
+  "conflict": 1664755501,
+  "created": 1664755501,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/20/items/evroundtable-2022",
@@ -14420,31 +14421,93 @@
       "sha1": "4bc92cd084e9cb5a0291edd6011807eff0ec85e4"
     },
     {
+      "name": "evroundtable-2022-10-02T19:00:12.288413-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664755226",
+      "size": "34423",
+      "md5": "056fb56dbfaf40a6d5f623f991aafbc2",
+      "crc32": "0ac696c8",
+      "sha1": "d4b7f3a3ca93fc52404ae8901cc602128db9f0ac",
+      "format": "JSON"
+    },
+    {
+      "name": "evroundtable-2022-10-02T19:00:12.288413-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664755228",
+      "size": "33593",
+      "md5": "28e2d859acc5f245253d0268a7de61a1",
+      "crc32": "45797928",
+      "sha1": "71319db1c1ed727a771c7b012df14f5e625431e5",
+      "format": "JSON"
+    },
+    {
+      "name": "evroundtable-2022-10-02T19:00:12.288413-05:00.jpg",
+      "source": "original",
+      "mtime": "1664755224",
+      "size": "360108",
+      "md5": "6d936c4e7e4cda6cd450fee9a9956304",
+      "crc32": "ac90743b",
+      "sha1": "660b1e4b1c7f97d371a7267d810d2f6ba114a63e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "evroundtable-2022-10-02T19:00:12.288413-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664755230",
+      "size": "1522",
+      "md5": "685cd20d8e3f83a892552447cac979c6",
+      "crc32": "06fc466b",
+      "sha1": "2a026bf14916a10b772d65719315a0399fea4a22",
+      "format": "JSON"
+    },
+    {
+      "name": "evroundtable-2022-10-02T19:00:12.288413-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664755233",
+      "size": "24787",
+      "md5": "eac033b5b2d9791442c006e5f6c9caa1",
+      "crc32": "50a48374",
+      "sha1": "ff80fc139d41e6bd193099c4fe18bc8210c03192",
+      "format": "JSON"
+    },
+    {
+      "name": "evroundtable-2022-10-02T19:00:12.288413-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "evroundtable-2022-10-02T19:00:12.288413-05:00.jpg",
+      "mtime": "1664755477",
+      "size": "10665",
+      "md5": "874bdafcc3a7549db6f1bcd254946cf2",
+      "crc32": "4add77c5",
+      "sha1": "914cc1ccb5aba3895d142fa031a072c73682d167"
+    },
+    {
       "name": "evroundtable-2022_archive.torrent",
       "source": "metadata",
-      "btih": "70d0b28703051fd097142b47d429fb5951cf8fc4",
-      "mtime": "1664726996",
-      "size": "300694",
-      "md5": "39781b37425649d5da8cbd7e7a9724db",
-      "crc32": "b7c560f7",
-      "sha1": "bb50f323d7643eb007a972d3366514ee07ff3a72",
+      "btih": "be9e5cb6581b5a79d35f993ad839deea54a800bd",
+      "mtime": "1664755499",
+      "size": "301986",
+      "md5": "5bb28f2dff2224b8c3c723f640000d8e",
+      "crc32": "1a4d9662",
+      "sha1": "ae42e3a35c49418c8c11cd25498207b477baf3c5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "evroundtable-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "694b5079eeaf9a8c8263eedb1d281381",
+      "md5": "3c8e19f168e427198f9e40ace8018eba",
       "summation": "md5"
     },
     {
       "name": "evroundtable-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664726794",
-      "size": "1757184",
-      "md5": "862e694b1c0b757f1965730dfc01f4e3",
-      "crc32": "889e7bd2",
-      "sha1": "0f1df356db46596ed755210d3e3030f36e235023",
+      "mtime": "1664755247",
+      "size": "1761280",
+      "md5": "acd5c5b0dbd6e1fa807a65385253685b",
+      "crc32": "dff88b30",
+      "sha1": "96e3c05d159300ca0b08ef35c6de2ee9afa12bea",
       "format": "Metadata"
     },
     {
@@ -14458,9 +14521,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1395,
-  "item_last_updated": 1664726996,
-  "item_size": 119015050,
+  "files_count": 1401,
+  "item_last_updated": 1664755499,
+  "item_size": 119485536,
   "metadata": {
     "identifier": "evroundtable-2022",
     "collection": [
@@ -14477,10 +14540,29 @@
     "publicdate": "2022-07-09 03:58:22",
     "addeddate": "2022-07-09 03:58:22"
   },
-  "server": "ia801507.us.archive.org",
-  "uniq": 463314143,
+  "pending_tasks": true,
+  "server": "ia601507.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3426297302,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3426299101,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 815900642,
   "workable_servers": [
-    "ia801507.us.archive.org",
     "ia601507.us.archive.org"
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "conflict": 1664711993,
-  "created": 1664711993,
+  "conflict": 1664755785,
+  "created": 1664755785,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/14/items/harpers-2022",
@@ -11645,31 +11645,88 @@
       "sha1": "05ab5ba258988e69bb638095ea985f3ea076e54e"
     },
     {
+      "name": "harpers-2022-10-02T20:03:20.242580-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664755426",
+      "size": "64",
+      "md5": "7ecae99616d4d650954f4199e487a165",
+      "crc32": "8ba0f891",
+      "sha1": "e37f0c3aa8a3683c0eca8b3652bb286e169a298d",
+      "format": "JSON"
+    },
+    {
+      "name": "harpers-2022-10-02T20:03:20.242580-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664755428",
+      "size": "129203",
+      "md5": "2a040db9b6d29d51b60a5e20c5718514",
+      "crc32": "a3ee996b",
+      "sha1": "eb5883c6b2e11537e6d0d2a18017adb129fc548d",
+      "format": "JSON"
+    },
+    {
+      "name": "harpers-2022-10-02T20:03:20.242580-04:00.jpg",
+      "source": "original",
+      "mtime": "1664755423",
+      "size": "230252",
+      "md5": "9530b05c0a1ccef15b85c44e7a364699",
+      "crc32": "ca5e1757",
+      "sha1": "6538f538fb11cb65823d439e581ead56816f41de",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "harpers-2022-10-02T20:03:20.242580-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664755430",
+      "size": "1429",
+      "md5": "cba41725bc372d6cab270a44594f70dc",
+      "crc32": "1f8578f5",
+      "sha1": "8a41bb6ce2677392165eb3191be8743871e980c9",
+      "format": "JSON"
+    },
+    {
+      "name": "harpers-2022-10-02T20:03:20.242580-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664755432",
+      "size": "20474",
+      "md5": "e682c8f269f099cae858859c92d7abe1",
+      "crc32": "799f3a40",
+      "sha1": "2812dec334e3fc4c8be8cf6e3fe24517b263fe80",
+      "format": "JSON"
+    },
+    {
+      "name": "harpers-2022-10-02T20:03:20.242580-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "harpers-2022-10-02T20:03:20.242580-04:00.jpg"
+    },
+    {
       "name": "harpers-2022_archive.torrent",
       "source": "metadata",
-      "btih": "99465fa3df31f2fad70c3ebeffe206ec95fbed8c",
-      "mtime": "1664711991",
-      "size": "236196",
-      "md5": "b3a137877a9a89e1283cc0b8f60561f4",
-      "crc32": "ef20ffdb",
-      "sha1": "3881c39117344be6bdd39d8f099d92d97e020b24",
+      "btih": "da635ef1e74e3477ca0e9a2b35761da152acd90b",
+      "mtime": "1664755494",
+      "size": "237252",
+      "md5": "5c30840ae00189b939b840f3d857a998",
+      "crc32": "d27ef37c",
+      "sha1": "1bc09a433874ce91a0c6dd2c08a3011c7b002950",
       "format": "Archive BitTorrent"
     },
     {
       "name": "harpers-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9261cfb8acc176350cc335db5f709d29",
+      "md5": "3187e7345d7074ecaa1ecc2dfc8668d3",
       "summation": "md5"
     },
     {
       "name": "harpers-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664711861",
-      "size": "1388544",
-      "md5": "86ea70296d6cee6b092a04b4fec0419a",
-      "crc32": "00da7089",
-      "sha1": "fc04d7b50c4171dc7e17f3a1f4ac2e621743300f",
+      "mtime": "1664755444",
+      "size": "1400832",
+      "md5": "de3485193bcf7f8b49c20e151e3fcd01",
+      "crc32": "a045ad00",
+      "sha1": "acbfc5eccb5356a248a41a2dbbffaae234b29dff",
       "format": "Metadata"
     },
     {
@@ -11683,9 +11740,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1125,
-  "item_last_updated": 1664711991,
-  "item_size": 89076747,
+  "files_count": 1131,
+  "item_last_updated": 1664755494,
+  "item_size": 89471513,
   "metadata": {
     "identifier": "harpers-2022",
     "collection": [
@@ -11707,23 +11764,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3425769023,
+      "task_id": 3426299139,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
-    },
-    {
-      "task_id": 3425769941,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
     }
   ],
-  "uniq": 897253726,
+  "uniq": 33363297,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

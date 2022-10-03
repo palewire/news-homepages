@@ -1,5 +1,6 @@
 {
-  "created": 1664711791,
+  "conflict": 1664755666,
+  "created": 1664755666,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/21/items/discovermag-2022",
@@ -10084,31 +10085,93 @@
       "sha1": "7131423289a81a37d054944b8497da1ff9cd383b"
     },
     {
+      "name": "discovermag-2022-10-02T20:00:34.350148-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664755237",
+      "size": "21493",
+      "md5": "ddc75019fb317a9eff90dfdb5f4dc6d7",
+      "crc32": "ba15f921",
+      "sha1": "7ad5d8e7882b0febdd9905de301d6d4568530cfc",
+      "format": "JSON"
+    },
+    {
+      "name": "discovermag-2022-10-02T20:00:34.350148-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664755239",
+      "size": "25153",
+      "md5": "34052bfd73ec70f5cad2a82b42081785",
+      "crc32": "0d7cddbf",
+      "sha1": "56dd6297fda25f5fb08ccfc2d31739082e8eae00",
+      "format": "JSON"
+    },
+    {
+      "name": "discovermag-2022-10-02T20:00:34.350148-04:00.jpg",
+      "source": "original",
+      "mtime": "1664755235",
+      "size": "336111",
+      "md5": "6ad2d11b58bc9386a31286ad758e8dcc",
+      "crc32": "b590b9c1",
+      "sha1": "e3d5f4226b422d2e90318b5471aafc5a9867f30c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "discovermag-2022-10-02T20:00:34.350148-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664755240",
+      "size": "1549",
+      "md5": "52507b4a45178107dfdfc8d4ffd34a40",
+      "crc32": "c1b98ef4",
+      "sha1": "65f044dfd8d7458233c04a8c9c418fa225f7acf7",
+      "format": "JSON"
+    },
+    {
+      "name": "discovermag-2022-10-02T20:00:34.350148-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664755242",
+      "size": "8130",
+      "md5": "645e219196d73513be7eb17c7e6d377c",
+      "crc32": "84f11687",
+      "sha1": "fcadc75129d496099e6000d253e2d0005179d1a0",
+      "format": "JSON"
+    },
+    {
+      "name": "discovermag-2022-10-02T20:00:34.350148-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "discovermag-2022-10-02T20:00:34.350148-04:00.jpg",
+      "mtime": "1664755618",
+      "size": "8793",
+      "md5": "4769900df22253722175112c1c1eb289",
+      "crc32": "1b00ab0f",
+      "sha1": "7131423289a81a37d054944b8497da1ff9cd383b"
+    },
+    {
       "name": "discovermag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d1bc14f23bf9c5949726296068582f805183bba9",
-      "mtime": "1664711777",
-      "size": "208522",
-      "md5": "aaea5f5053e0194a6d42dfd727add626",
-      "crc32": "c898cfd1",
-      "sha1": "36d5935788dbd18fbd2bfc863ebbd55b8f23c67d",
+      "btih": "50e080a52d572b1e24ffb3d7f73ef7f143cfb129",
+      "mtime": "1664755662",
+      "size": "209806",
+      "md5": "74ad9405fb92d36ec6b6e94133484ec1",
+      "crc32": "c89b77d2",
+      "sha1": "b602bda92ac620fa8b35ecc826579c99ad370de1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "discovermag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c1f7d6f520ead35f8de3c8c48d83c5e7",
+      "md5": "5e687e3f1a615cfeacb3c60428905457",
       "summation": "md5"
     },
     {
       "name": "discovermag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664711701",
-      "size": "1216512",
-      "md5": "5372176c9a58a09400178aa687cd8e97",
-      "crc32": "37d845b5",
-      "sha1": "30c0e9f423ce95717769236639069e8733bcb9fc",
+      "mtime": "1664755247",
+      "size": "1224704",
+      "md5": "eb633856e7b4bd1812f1e34f966742d5",
+      "crc32": "d9c44da7",
+      "sha1": "2f8e14e2512c0e3746a89c4fc71d8f22239171b8",
       "format": "Metadata"
     },
     {
@@ -10122,9 +10185,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 975,
-  "item_last_updated": 1664711777,
-  "item_size": 70069159,
+  "files_count": 981,
+  "item_last_updated": 1664755662,
+  "item_size": 70479864,
   "metadata": {
     "identifier": "discovermag-2022",
     "collection": [
@@ -10141,10 +10204,29 @@
     "publicdate": "2022-07-04 20:47:27",
     "addeddate": "2022-07-04 20:47:27"
   },
-  "server": "ia802506.us.archive.org",
-  "uniq": 2121455348,
+  "pending_tasks": true,
+  "server": "ia902506.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3426294460,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3426301665,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1363644439,
   "workable_servers": [
-    "ia802506.us.archive.org",
     "ia902506.us.archive.org"
   ]
 }

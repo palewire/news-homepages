@@ -1,5 +1,5 @@
 {
-  "created": 1664712192,
+  "created": 1664755477,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/16/items/gothamgazette-2022",
@@ -7538,31 +7538,82 @@
       "sha1": "749cd6004430d118d70c5dbf64d9a7f52119ca57"
     },
     {
+      "name": "gothamgazette-2022-10-02T20:03:04.627251-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664755393",
+      "size": "27627",
+      "md5": "e569bebd79576e81bb19fd47e64aa5c1",
+      "crc32": "cdd4faa2",
+      "sha1": "58ef9372e7076ab6e1620725181d881abaf37b35",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamgazette-2022-10-02T20:03:04.627251-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664755395",
+      "size": "15941",
+      "md5": "03ceda446f74126a9d5901783125f9ed",
+      "crc32": "8c71e8bb",
+      "sha1": "a693fdcf1ff0c6e1d45b3bbe60b2ffe18bed0dca",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamgazette-2022-10-02T20:03:04.627251-04:00.jpg",
+      "source": "original",
+      "mtime": "1664755386",
+      "size": "317228",
+      "md5": "c00a0141a9a8289d550f25b0016867d0",
+      "crc32": "57c1ba8b",
+      "sha1": "706c7fdb2d4975b153d4e1e83f9c625bc2c2d4db",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gothamgazette-2022-10-02T20:03:04.627251-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664755397",
+      "size": "1522",
+      "md5": "deecf1d7b96458cb99f1fde493d3b45c",
+      "crc32": "37c88127",
+      "sha1": "6fd08819c25050d518e1c613fad0b240531cf844",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamgazette-2022-10-02T20:03:04.627251-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664755398",
+      "size": "106",
+      "md5": "d427c8a2a1c422a55dc932c6c2887af9",
+      "crc32": "7c3330a5",
+      "sha1": "de18331066918f589879b17d0730bedd10c1515a",
+      "format": "JSON"
+    },
+    {
       "name": "gothamgazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1e87ad80aa22a26089538521caa2de7eb0e3a570",
-      "mtime": "1664712040",
-      "size": "158410",
-      "md5": "1cefb2015d92d00a051b4fe8dec82324",
-      "crc32": "f10b4a2f",
-      "sha1": "91d2747d7d1c7304494b1c55806dc661841a230a",
+      "btih": "96541490c7dc9f62706265f2bdf176b2c29faa3f",
+      "mtime": "1664755470",
+      "size": "159496",
+      "md5": "7a7d9281ffe97bb6871bda4d382d3711",
+      "crc32": "7d07a5ff",
+      "sha1": "72f839830ffa60983527943f3fa083cd86753289",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gothamgazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fb685bfe799b926234fedefea494d99d",
+      "md5": "9a51b79fb83a3838dd8df619a50afa99",
       "summation": "md5"
     },
     {
       "name": "gothamgazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664711861",
-      "size": "950272",
-      "md5": "2bc7c6499585166f794bf6e5b082ffea",
-      "crc32": "5ddf75d3",
-      "sha1": "5dc8fa662285e0763c1250e4e8e8310c620596b8",
+      "mtime": "1664755423",
+      "size": "958464",
+      "md5": "9ef46d10c154c657ac253cf08ad2c6a1",
+      "crc32": "e8f4447e",
+      "sha1": "949c91c190e1aac3b2adc2c30ea521bd1e49b3dd",
       "format": "Metadata"
     },
     {
@@ -7576,9 +7627,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 733,
-  "item_last_updated": 1664712040,
-  "item_size": 46456448,
+  "files_count": 738,
+  "item_last_updated": 1664755470,
+  "item_size": 46828150,
   "metadata": {
     "identifier": "gothamgazette-2022",
     "collection": [
@@ -7595,10 +7646,21 @@
     "publicdate": "2022-08-02 23:26:38",
     "addeddate": "2022-08-02 23:26:38"
   },
-  "server": "ia801503.us.archive.org",
-  "uniq": 1013087335,
+  "pending_tasks": true,
+  "server": "ia601503.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3426298749,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1772491843,
   "workable_servers": [
-    "ia801503.us.archive.org",
     "ia601503.us.archive.org"
   ]
 }
