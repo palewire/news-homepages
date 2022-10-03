@@ -1,5 +1,5 @@
 {
-  "created": 1664783918,
+  "created": 1664825064,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/15/items/rt_com-2022",
@@ -13654,31 +13654,144 @@
       "sha1": "0d65928591d8fe0079b2a59bd76f77be64a95fa0"
     },
     {
+      "name": "rt_com-2022-10-03T10:40:56.242983+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664782860",
+      "size": "24330",
+      "md5": "83bee12b329adf3402e640b7d0a9e1de",
+      "crc32": "2257fa25",
+      "sha1": "079261e081c282dbc3a9e6a22c2553d45e00ae6b",
+      "format": "JSON"
+    },
+    {
+      "name": "rt_com-2022-10-03T10:40:56.242983+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664782861",
+      "size": "29814",
+      "md5": "ab90c3d4edbcbcd431575df3ccf53337",
+      "crc32": "3c4dea53",
+      "sha1": "45f31284c1919c884df19a48d93288196a1a0fbd",
+      "format": "JSON"
+    },
+    {
+      "name": "rt_com-2022-10-03T10:40:56.242983+03:00.jpg",
+      "source": "original",
+      "mtime": "1664782858",
+      "size": "348092",
+      "md5": "1b763a2c23dde8bc30a54513bcafb21e",
+      "crc32": "07cb6bd9",
+      "sha1": "7a9ae99cce890ab3a30e9dcce6ebd8a4a92fd5a9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rt_com-2022-10-03T10:40:56.242983+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664782863",
+      "size": "1422",
+      "md5": "8f13b0171dc0f893eec9639062aa69ce",
+      "crc32": "7fca5e80",
+      "sha1": "3208e8f26c6883702b8071adcffb1b799b1b4677",
+      "format": "JSON"
+    },
+    {
+      "name": "rt_com-2022-10-03T10:40:56.242983+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664782865",
+      "size": "226",
+      "md5": "2d929899be7b2b87b84a217bab11bac2",
+      "crc32": "c77fa5c0",
+      "sha1": "4ec0e776cf4aa1d0abe5c3f7136f39043f1e2d30",
+      "format": "JSON"
+    },
+    {
+      "name": "rt_com-2022-10-03T10:40:56.242983+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rt_com-2022-10-03T10:40:56.242983+03:00.jpg",
+      "mtime": "1664786583",
+      "size": "11817",
+      "md5": "1ba936279985731200936d6404f613f6",
+      "crc32": "c9b1fc45",
+      "sha1": "d5fa37a1d95ec3d7c29efcd9ec271c526db44d31"
+    },
+    {
+      "name": "rt_com-2022-10-03T22:22:55.315530+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664824985",
+      "size": "24300",
+      "md5": "f5e151d7e06812a5375706bafb02d3ca",
+      "crc32": "2c942c70",
+      "sha1": "3bc187f4744b2f97c985735b8d2fdd6bcfd6908d",
+      "format": "JSON"
+    },
+    {
+      "name": "rt_com-2022-10-03T22:22:55.315530+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664824987",
+      "size": "32171",
+      "md5": "723a7177dea9268552224c3970ed2a1c",
+      "crc32": "1bdb7060",
+      "sha1": "193a7b8d2fc83e8756fc021295c989be0bd932c7",
+      "format": "JSON"
+    },
+    {
+      "name": "rt_com-2022-10-03T22:22:55.315530+03:00.jpg",
+      "source": "original",
+      "mtime": "1664824982",
+      "size": "334219",
+      "md5": "52de7437e99b14cd8ee39b39a814f7f6",
+      "crc32": "2c350a6e",
+      "sha1": "34ad83a463b786fba76fc38e371b136b9d4e3eee",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rt_com-2022-10-03T22:22:55.315530+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664824989",
+      "size": "1421",
+      "md5": "64912aab6eacabc0aada1ba53dab97fc",
+      "crc32": "2c92541a",
+      "sha1": "77b6751ae291acc4c4c6e64e04a98a97a66a7259",
+      "format": "JSON"
+    },
+    {
+      "name": "rt_com-2022-10-03T22:22:55.315530+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664824991",
+      "size": "12541",
+      "md5": "1384d2ca637358917c06bb512b8a1a77",
+      "crc32": "b2f0bbdd",
+      "sha1": "058201df2e55a8f95d748d8de28de16a02cfebd9",
+      "format": "JSON"
+    },
+    {
       "name": "rt_com-2022_archive.torrent",
       "source": "metadata",
-      "btih": "49aec9660f7dd5282dc28764416d49fb39a6c0d0",
-      "mtime": "1664782498",
-      "size": "276069",
-      "md5": "692c7f3150132b6f87d71a32b8f31853",
-      "crc32": "226a34de",
-      "sha1": "5c068a2007feffdb30659e2702b54a39eeff3d7e",
+      "btih": "834d084a060d275dc6e5d580c02e9766e42beabd",
+      "mtime": "1664825055",
+      "size": "278579",
+      "md5": "467eea61f51fc6a62ee853bb7639ec73",
+      "crc32": "a8535551",
+      "sha1": "c5487c69eee09d64130aa1c5f2830f44e775ce69",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rt_com-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ecad02a839c7d8912ec351e1f3e6f07f",
+      "md5": "8115216a37c9bd91e322e7c44cfdcdba",
       "summation": "md5"
     },
     {
       "name": "rt_com-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664782444",
-      "size": "1658880",
-      "md5": "4c12f2c5d6a19d97d1d45fa89dc3887e",
-      "crc32": "a9c7e741",
-      "sha1": "4554da4f82b44b2379ba5dd976d0a38c18e9d83b",
+      "mtime": "1664824999",
+      "size": "1675264",
+      "md5": "2be85cdf43fa3de2a76e74d0f722f5c1",
+      "crc32": "3f8079e5",
+      "sha1": "9bbc50ea6743435377270fec56d4c58e62bf095a",
       "format": "Metadata"
     },
     {
@@ -13692,9 +13805,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1322,
-  "item_last_updated": 1664783256,
-  "item_size": 96163824,
+  "files_count": 1333,
+  "item_last_updated": 1664825055,
+  "item_size": 97003071,
   "metadata": {
     "identifier": "rt_com-2022",
     "collection": [
@@ -13712,120 +13825,19 @@
     "addeddate": "2022-07-16 20:26:07"
   },
   "pending_tasks": true,
-  "rt_com-2022": {
-    "url": "https://www.rt.com/",
-    "job_id": "spn2-434ead0ec26e2574e3b6f4e4c1550007fc1a1806",
-    "delay_wb_availability": true,
-    "outlinks": [],
-    "http_status": 200,
-    "status": "success",
-    "counters": {
-      "embeds": 94,
-      "outlinks": 70
-    },
-    "resources": [
-      "https://www.rt.com/",
-      "https://en.russiatoday.com/static/js/common.min.js?v=1646412449447513abd1",
-      "https://en.russiatoday.com/static/css/template.min.css?v=as1658228541",
-      "https://en.russiatoday.com/static/js/services.sharing.js?v=9",
-      "https://cdn.dmtgvn.com/wrapper/js/manager.js?pid=880ca144-da2d-42d5-918a-bc6aa4fbd9c3",
-      "https://odysee.com/$/embed/Poets-on-the-Frontline/a4f9db0ec8d4baf1099e3ecda49236871425d011?r=Le5WNdwKUK3ZT3xt2dhyde5cdTozpeZN",
-      "https://fonts.gstatic.com/s/archivo/v3/k3kQo8UDI-1M0wlSfdnoLg.woff2",
-      "https://en.russiatoday.com/static/js/libs/counters.js?b=7",
-      "https://fonts.gstatic.com/s/archivo/v3/k3kVo8UDI-1M0wlSdWLNO0bhLA.woff2",
-      "https://fonts.gstatic.com/s/archivo/v3/k3kVo8UDI-1M0wlSdSrLO0bhLA.woff2",
-      "https://en.russiatoday.com/static/libs/jquery-1.11.2.min.js?v=2",
-      "https://c2.taboola.com/nr/rt-rtcom/newsroom.js",
-      "https://sb.scorecardresearch.com/beacon.js",
-      "https://en.russiatoday.com/static/js/pushes/notification.js?v=3",
-      "https://en.russiatoday.com/static/js/libs/lazysizes.min.js",
-      "https://en.russiatoday.com/static/js/libs/lazyall.js",
-      "https://yandex.ru/ads/system/context.js",
-      "https://sb.scorecardresearch.com/b?c1=2&c2=17935924&cs_it=b3&cv=3.8.0.210223&ns__t=1664779614333&ns_c=UTF-8&c7=https://www.rt.com/&c8=RT - Breaking news, shows, podcasts&c9=",
-      "https://tru.am/scripts/ta-pagesocial-sdk.js",
-      "https://nr-events.taboola.com/newsroom/1.0/rt-rtcom/get-action?page.url=https://www.rt.com/&view.id=379670684519258153&page.template=home&page.dashboard=home",
-      "https://ruptly-d.openx.net/w/1.0/jstag?nc=144751494-RT",
-      "https://en.russiatoday.com/static/blocks/footer/Search_icon_gray.svg",
-      "https://rtstat.api.rt.com/js/plausible.js",
-      "https://www.rt.com/static/img/logo-bottom.png",
-      "https://nr-events.taboola.com/newsroom/1.0/rt-rtcom/notify-impression?page.url=https://www.rt.com/&view.id=379670684519258153&page.template=home&page.dashboard=home",
-      "https://cdn.dmtgvn.com/wrapper/js/common-engine.js?v=s-f85104db-c6b5-4c08-9bea-34c6ced319b5",
-      "https://cdni.russiatoday.com/files/2022.10/thumbnail/6339ee5a85f5406bc14c037a.jpg",
-      "https://cdni.russiatoday.com/files/2022.10/xxs/6339fcae85f540732113fe93.jpg",
-      "https://cdni.russiatoday.com/files/2022.10/xxs/633a40a385f54066d315adaf.jpg",
-      "https://cdni.russiatoday.com/files/2022.10/xxs/633846642030275ac928274b.jpg",
-      "https://yastatic.net/partner-code-bundles/659462/b75858ec99fadc4b14bf.js",
-      "https://yastatic.net/safeframe-bundles/0.83/host.js",
-      "https://yastatic.net/partner-code-bundles/659462/182109b17d885ab3048d.js",
-      "https://cdni.russiatoday.com/files/2022.10/xxs/633a2fc9203027323719abae.jpg",
-      "https://cdni.russiatoday.com/files/2022.10/xxs/633a03e620302762801cbe6d.jpg",
-      "https://yastatic.net/partner-code-bundles/659462/04ce7d20e1e265b7689e.js"
-    ],
-    "duration_sec": 15.799,
-    "timestamp": "20221003051518",
-    "original_url": "https://www.rt.com/"
-  },
   "server": "ia601406.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426689320,
+      "task_id": 3427306049,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3426693895,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3426693914,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3426693939,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3426693976,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3426694002,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3426699227,
-      "cmd": "bup.php",
-      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1994497572,
+  "uniq": 1175057512,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

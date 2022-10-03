@@ -1,5 +1,5 @@
 {
-  "created": 1664783834,
+  "created": 1664826875,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/31/items/propublica-2022",
@@ -12950,31 +12950,82 @@
       "sha1": "c3881258cb133bad91b00b85a3ed1a372f365130"
     },
     {
+      "name": "propublica-2022-10-03T15:21:10.423230-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664824886",
+      "size": "47118",
+      "md5": "95b16c5052fbe5185d9923ae3c289310",
+      "crc32": "558e3b9c",
+      "sha1": "d9c2f5a11876e88bfe315e0e9504904e4a36fb73",
+      "format": "JSON"
+    },
+    {
+      "name": "propublica-2022-10-03T15:21:10.423230-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664824888",
+      "size": "19872",
+      "md5": "24a18754291044cc4f746b9acc8e618f",
+      "crc32": "767b6c5c",
+      "sha1": "dcef8a4146a7bb58c33ad8428bf3924dbecf9bc7",
+      "format": "JSON"
+    },
+    {
+      "name": "propublica-2022-10-03T15:21:10.423230-04:00.jpg",
+      "source": "original",
+      "mtime": "1664824883",
+      "size": "312823",
+      "md5": "518dca4299993af529366eee3eaef230",
+      "crc32": "c53a60a3",
+      "sha1": "f6fce4ff5d906564600c20c9a4f5871cd4f39693",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "propublica-2022-10-03T15:21:10.423230-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664824891",
+      "size": "1483",
+      "md5": "06a8a6b627f3e88262c9215f43f7ccbc",
+      "crc32": "b7b5e764",
+      "sha1": "6c327ef183a64b7e7f18d9ebbe22e1988a783e4f",
+      "format": "JSON"
+    },
+    {
+      "name": "propublica-2022-10-03T15:21:10.423230-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664824894",
+      "size": "207",
+      "md5": "a4b378a8751913f3996eece848557179",
+      "crc32": "0cb15418",
+      "sha1": "f4b0e1f2668dc93aa2a217c7329188f08fd4e941",
+      "format": "JSON"
+    },
+    {
       "name": "propublica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f7e17584ade0a443855148a68400048a34ff377e",
-      "mtime": "1664738295",
-      "size": "266296",
-      "md5": "38331643988bebb140bfef6ff2dfd0bc",
-      "crc32": "b6541a90",
-      "sha1": "ccd73f06a732efef484000b7f71c9d81e6bada2f",
+      "btih": "6019e92ac5f086a94e3d6122409ec5a900e2bc75",
+      "mtime": "1664824975",
+      "size": "267367",
+      "md5": "a3468898a9a91aed80f0479e2c12deab",
+      "crc32": "c26f3ee3",
+      "sha1": "388a8a3502672049393e33d4427a4fed5dfcbbcb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "propublica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b431710480769a4f1f3bee76e2299367",
+      "md5": "1b3d060747d50e3dff54c403c9cd536f",
       "summation": "md5"
     },
     {
       "name": "propublica-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664737850",
-      "size": "1540096",
-      "md5": "18b5f3e89bf4853d98953130a8099cb4",
-      "crc32": "403d1a6d",
-      "sha1": "1fe2af62ebc75e0d7a6cafc2bec18cf4270de059",
+      "mtime": "1664824913",
+      "size": "1544192",
+      "md5": "424d700a0bbb758438a79a8e86f62db0",
+      "crc32": "0d91f6e8",
+      "sha1": "ac0af9b9c210f0599e32a8aae9b4ebdc8ff766bc",
       "format": "Metadata"
     },
     {
@@ -12988,9 +13039,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1249,
-  "item_last_updated": 1664738295,
-  "item_size": 99800270,
+  "files_count": 1254,
+  "item_last_updated": 1664824975,
+  "item_size": 100186940,
   "metadata": {
     "identifier": "propublica-2022",
     "collection": [
@@ -13007,10 +13058,29 @@
     "publicdate": "2022-06-17 17:26:41",
     "addeddate": "2022-06-17 17:26:41"
   },
-  "server": "ia801504.us.archive.org",
-  "uniq": 438123322,
+  "pending_tasks": true,
+  "propublica-2022": {
+    "url": "https://www.propublica.org/",
+    "job_id": "spn2-ca27e5875a9a701e7b01b2885b9c1ac329d2491d",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "resources": [],
+    "message": "Job failed."
+  },
+  "server": "ia601504.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3427305136,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1027073803,
   "workable_servers": [
-    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

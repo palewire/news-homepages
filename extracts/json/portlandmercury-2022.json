@@ -1,5 +1,5 @@
 {
-  "created": 1664783048,
+  "created": 1664824968,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/10/items/portlandmercury-2022",
@@ -9249,31 +9249,82 @@
       "format": "JSON"
     },
     {
+      "name": "portlandmercury-2022-10-03T00:38:46.865164-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "portlandmercury-2022-10-03T00:38:46.865164-07:00.jpg",
+      "mtime": "1664786434",
+      "size": "11239",
+      "md5": "35a75bc39ad2c2fdaf845cdebeb70479",
+      "crc32": "652d32c9",
+      "sha1": "d48f4a6ce9a6d82aec957240fc88cfe19ed07c13"
+    },
+    {
+      "name": "portlandmercury-2022-10-03T12:21:04.104369-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664824870",
+      "size": "20916",
+      "md5": "7a660cd79da34bc1a0cb4d9150ff0aa6",
+      "crc32": "f6460af6",
+      "sha1": "e5cb2542bff588ae6e06ef2c163f5ccdbee3a453",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-10-03T12:21:04.104369-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664824872",
+      "size": "22752",
+      "md5": "0d5b4e436c110859f6e51beb8a01fecc",
+      "crc32": "22906894",
+      "sha1": "a8e0a0b0ff11b41c6b86c71d43817c3ee606175d",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-10-03T12:21:04.104369-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664824875",
+      "size": "1540",
+      "md5": "c548b10009ecbe28aa3a503a6d297c48",
+      "crc32": "53be58ab",
+      "sha1": "02bb4a5db0da7f71c585c14bce4b0c8f030a008a",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-10-03T12:21:04.104369-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664824878",
+      "size": "21098",
+      "md5": "83544db98b3e95ab7f4a9ccaa5e9504d",
+      "crc32": "881afbbb",
+      "sha1": "2d42eb5ed121ab97307fc28d8db85006d8b1639c",
+      "format": "JSON"
+    },
+    {
       "name": "portlandmercury-2022_archive.torrent",
       "source": "metadata",
-      "btih": "49eae063f4ef4fc8a13eaf6a11798d8f07bf1348",
-      "mtime": "1664782963",
-      "size": "196042",
-      "md5": "d1e73af8b0739a570a87b4e37dfff368",
-      "crc32": "4519aaee",
-      "sha1": "141f3c62032758e90d4d6274e728251e6d7ba728",
+      "btih": "c90108194e0eed7f231982c7d439f75e6dadb477",
+      "mtime": "1664824954",
+      "size": "197145",
+      "md5": "b260b098f23523b4dfffd7f0535646d6",
+      "crc32": "a5131974",
+      "sha1": "94fa6cab8fadf362d5a51a602d1fb278738c353b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "portlandmercury-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "288c2a7ea6a98bcca730a06a7d74ff04",
+      "md5": "50a0df1cd1eada01ca6d864fbbb9fa13",
       "summation": "md5"
     },
     {
       "name": "portlandmercury-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664782912",
-      "size": "1159168",
-      "md5": "d7ca1756c4d83add42a06d23e61b44f8",
-      "crc32": "98764e31",
-      "sha1": "1696bd7155885f7470fbb8fe6a029738d6b940d6",
+      "mtime": "1664824897",
+      "size": "1163264",
+      "md5": "338d49d062c4ac0341bee087913ec7c8",
+      "crc32": "3d0a27be",
+      "sha1": "24443e74cc23d82140d4e83e6abee5a79b155780",
       "format": "Metadata"
     },
     {
@@ -9287,9 +9338,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 898,
-  "item_last_updated": 1664782963,
-  "item_size": 60977703,
+  "files_count": 903,
+  "item_last_updated": 1664824954,
+  "item_size": 61060447,
   "metadata": {
     "identifier": "portlandmercury-2022",
     "collection": [
@@ -9311,7 +9362,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426697766,
+      "task_id": 3427304794,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9319,7 +9370,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 110183881,
+  "uniq": 1638239218,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]
