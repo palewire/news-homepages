@@ -1,6 +1,5 @@
 {
-  "conflict": 1664677932,
-  "created": 1664677678,
+  "created": 1664764619,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/31/items/salem_statesman-2022",
@@ -1432,31 +1431,166 @@
       "format": "JSON"
     },
     {
+      "name": "salem_statesman-2022-10-01T19:26:51.798423-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salem_statesman-2022-10-01T19:26:51.798423-07:00.jpg",
+      "mtime": "1664683128",
+      "size": "9937",
+      "md5": "7adacd8cb1df6e168ce29ef6121ea7a3",
+      "crc32": "c21e3223",
+      "sha1": "ec0c9f38298358d5e89d83f629071fa1366edf1e"
+    },
+    {
+      "name": "salem_statesman-2022-10-02T07:16:30.703389-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664720197",
+      "size": "20254",
+      "md5": "9d867d4ef28d5691a3850f183eab108a",
+      "crc32": "fde97629",
+      "sha1": "28ad78b28903a65473caf8be8425ac223b315fe6",
+      "format": "JSON"
+    },
+    {
+      "name": "salem_statesman-2022-10-02T07:16:30.703389-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664720199",
+      "size": "35349",
+      "md5": "e430f02792332648940a56f0f78027b7",
+      "crc32": "b3738e63",
+      "sha1": "8085ecc403e6c2ee31da77595d0920ba6f0f8fcd",
+      "format": "JSON"
+    },
+    {
+      "name": "salem_statesman-2022-10-02T07:16:30.703389-07:00.jpg",
+      "source": "original",
+      "mtime": "1664720195",
+      "size": "246197",
+      "md5": "df98f9c5f7a8ecdaaf49bae62912307a",
+      "crc32": "552b16f6",
+      "sha1": "76ded27b319e39167fef6b0db361dc133cf80c4d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salem_statesman-2022-10-02T07:16:30.703389-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664720201",
+      "size": "1548",
+      "md5": "b20f904887019ad6814fdb3e50b62a72",
+      "crc32": "860276bb",
+      "sha1": "8840ee71053727ed58435d028a276777b50ef419",
+      "format": "JSON"
+    },
+    {
+      "name": "salem_statesman-2022-10-02T07:16:30.703389-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664720202",
+      "size": "111666",
+      "md5": "d39dc9ae191baf8c722d121d57fc46a9",
+      "crc32": "c762b6e8",
+      "sha1": "2858184bc524c81e0bed3e52568dbdd1784fd2a6",
+      "format": "JSON"
+    },
+    {
+      "name": "salem_statesman-2022-10-02T07:16:30.703389-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salem_statesman-2022-10-02T07:16:30.703389-07:00.jpg",
+      "mtime": "1664720274",
+      "size": "9320",
+      "md5": "ef0a8776b57f9fc71a67ed04060b6c74",
+      "crc32": "92b7363e",
+      "sha1": "d5aad56766530c64c7ba8fc81d86a8c778817a15"
+    },
+    {
+      "name": "salem_statesman-2022-10-02T19:32:26.919575-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664764349",
+      "size": "20629",
+      "md5": "6474feaa58de97b1d5d1194b7fef4dc7",
+      "crc32": "a31e3512",
+      "sha1": "31bbcdf05bb954a476228917487ffb0b904bd581",
+      "format": "JSON"
+    },
+    {
+      "name": "salem_statesman-2022-10-02T19:32:26.919575-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664764350",
+      "size": "28263",
+      "md5": "6ae6f343c9ba24ac54cf4379d6619743",
+      "crc32": "0c61c0b0",
+      "sha1": "d8ed9e04c27baeb4bd3534f512bacc9fdfdcf2b2",
+      "format": "JSON"
+    },
+    {
+      "name": "salem_statesman-2022-10-02T19:32:26.919575-07:00.jpg",
+      "source": "original",
+      "mtime": "1664764347",
+      "size": "277813",
+      "md5": "d47922a3c7b55593449322254f3292a5",
+      "crc32": "7882901a",
+      "sha1": "1801aa2544ff971b91acb22a62d256b39e3ef7fd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salem_statesman-2022-10-02T19:32:26.919575-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664764351",
+      "size": "1548",
+      "md5": "c3561712536eedd2ad540ee6c96510f5",
+      "crc32": "1fad3532",
+      "sha1": "332262537a5b7047b47e89b44670dada89e4dbf0",
+      "format": "JSON"
+    },
+    {
+      "name": "salem_statesman-2022-10-02T19:32:26.919575-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664764353",
+      "size": "86005",
+      "md5": "c8999af0daf521ddf26338afdb0a1075",
+      "crc32": "0696c656",
+      "sha1": "980c477779dcaf7ec766677a253232fe233ce4c7",
+      "format": "JSON"
+    },
+    {
+      "name": "salem_statesman-2022-10-02T19:32:26.919575-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salem_statesman-2022-10-02T19:32:26.919575-07:00.jpg",
+      "mtime": "1664764481",
+      "size": "9552",
+      "md5": "35677f5ab7fb93294140f4b9fb8cf75f",
+      "crc32": "960f5a2a",
+      "sha1": "1d6dd55c9c1cb3bee5b5150557828f3809be77bc"
+    },
+    {
       "name": "salem_statesman-2022_archive.torrent",
       "source": "metadata",
-      "btih": "04913d2ef3fb78f6041b5c460b5de4aca3e37056",
-      "mtime": "1664677666",
-      "size": "31458",
-      "md5": "81b7608623811f1881efd3cfffe17149",
-      "crc32": "60246372",
-      "sha1": "842365b56c97cf4680d82e9d4139120abaf23259",
+      "btih": "69c2f601377cb29c37178fe72fe1273819e9fc13",
+      "mtime": "1664764558",
+      "size": "34288",
+      "md5": "cdc7cd0b281933b0d32da7b8549714d6",
+      "crc32": "ca22697a",
+      "sha1": "497e3f172b51d5cb0083d0203248791d63bcf53d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "salem_statesman-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b20ba083788f07122a75084bff6c1622",
+      "md5": "74b91b331b9cab7fd68a0bdc1b448afe",
       "summation": "md5"
     },
     {
       "name": "salem_statesman-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664677626",
-      "size": "200704",
-      "md5": "ddc83e6c0f8ee18cc2c7172da25c1350",
-      "crc32": "cfc949b6",
-      "sha1": "eb0e4d6ba632c35b776da4888765e663065e77ca",
+      "mtime": "1664764370",
+      "size": "217088",
+      "md5": "b9858f7a1f237943997135463c243794",
+      "crc32": "bf66e223",
+      "sha1": "023cbe09a9f68ab531f7a5c1c71574504c6798af",
       "format": "Metadata"
     },
     {
@@ -1470,9 +1604,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 142,
-  "item_last_updated": 1664677666,
-  "item_size": 9168011,
+  "files_count": 155,
+  "item_last_updated": 1664764558,
+  "item_size": 10045306,
   "metadata": {
     "identifier": "salem_statesman-2022",
     "collection": [
@@ -1489,21 +1623,10 @@
     "publicdate": "2022-09-21 02:24:48",
     "addeddate": "2022-09-21 02:24:48"
   },
-  "pending_tasks": true,
   "server": "ia801508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3425319350,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1478457802,
+  "uniq": 1896441116,
   "workable_servers": [
-    "ia801508.us.archive.org"
+    "ia801508.us.archive.org",
+    "ia601508.us.archive.org"
   ]
 }

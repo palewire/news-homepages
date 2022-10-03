@@ -1,5 +1,6 @@
 {
-  "created": 1664745791,
+  "conflict": 1664764311,
+  "created": 1664764311,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/23/items/nbcnews-2022",
@@ -35439,31 +35440,99 @@
       "format": "JSON"
     },
     {
+      "name": "nbcnews-2022-10-02T17:20:30.997892-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcnews-2022-10-02T17:20:30.997892-04:00.jpg",
+      "mtime": "1664746337",
+      "size": "10485",
+      "md5": "c535b63d0989c566f083a93130373eaa",
+      "crc32": "16bb7550",
+      "sha1": "e55bd0fb53f2d20e585ba68cdbdfe0541308c08a"
+    },
+    {
+      "name": "nbcnews-2022-10-02T22:28:00.712008-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664764084",
+      "size": "66270",
+      "md5": "85646cb9418c54c1ad3fc7d2707aa815",
+      "crc32": "1a005ce3",
+      "sha1": "4585e6d25f971fb1090544de10245781a9e11dea",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-10-02T22:28:00.712008-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664764087",
+      "size": "84486",
+      "md5": "0b2428c2b22dc498031baa963e8d7072",
+      "crc32": "74998c9d",
+      "sha1": "27fe679b58e446ec67874ef5f9e6130079487ccc",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-10-02T22:28:00.712008-04:00.jpg",
+      "source": "original",
+      "mtime": "1664764082",
+      "size": "323690",
+      "md5": "c0ca4b46b698bf7e35212b92ae55e9a7",
+      "crc32": "8964f896",
+      "sha1": "8719afcf1182657da301e9b46c1efd000154d88f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcnews-2022-10-02T22:28:00.712008-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664764089",
+      "size": "1465",
+      "md5": "12e5c85415099274b911ef969f5c50b8",
+      "crc32": "dc706ec4",
+      "sha1": "475981bc5faa1e668ae12aab1303e796cdabdc01",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-10-02T22:28:00.712008-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664764090",
+      "size": "231",
+      "md5": "ac12629a09b2872a5112ab3d5c58f22c",
+      "crc32": "a9359b5d",
+      "sha1": "75217d392ed3b1f06a81ee3abd9588c14d2aaf01",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-10-02T22:28:00.712008-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcnews-2022-10-02T22:28:00.712008-04:00.jpg"
+    },
+    {
       "name": "nbcnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4413bb05aa423e89edd2619fa97e69f3a9e98033",
-      "mtime": "1664745784",
-      "size": "716274",
-      "md5": "4290b92db6bef6386069b171037db9bd",
-      "crc32": "3de4b6c0",
-      "sha1": "fdc87a08ebbc97927e11f126fc0a4ba9b37bb5c8",
+      "btih": "c2f1c22017a7ff54dd1983a7c283696437c0c120",
+      "mtime": "1664764205",
+      "size": "717534",
+      "md5": "d13929137506dd1dc4812f5009c2af71",
+      "crc32": "aa4e72d6",
+      "sha1": "7d2d2bcd742d9669db74114ca7be95e171668bdc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d3b592a1860d2c07532dc7736d941556",
+      "md5": "51b133dece6ba016794b5cfbdde23224",
       "summation": "md5"
     },
     {
       "name": "nbcnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664745664",
-      "size": "4059136",
-      "md5": "7da166518dcd4e03221d7d24bc8e0c66",
-      "crc32": "fef0eba4",
-      "sha1": "ed548af1131f47c827e7ffbe2b786e85a69e87b1",
+      "mtime": "1664764094",
+      "size": "4063232",
+      "md5": "ff83342cfb7236b6a3dff580bc9e421f",
+      "crc32": "3b5aba43",
+      "sha1": "5e34b4f0b6644c443ec459f20b33d288c88ac4eb",
       "format": "Metadata"
     },
     {
@@ -35477,9 +35546,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 3401,
-  "item_last_updated": 1664745784,
-  "item_size": 344406405,
+  "files_count": 3408,
+  "item_last_updated": 1664764205,
+  "item_size": 344898388,
   "metadata": {
     "identifier": "nbcnews-2022",
     "collection": [
@@ -35501,7 +35570,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426176835,
+      "task_id": 3426425579,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -35509,7 +35578,7 @@
       "status": "running"
     }
   ],
-  "uniq": 387604709,
+  "uniq": 540648171,
   "workable_servers": [
     "ia902500.us.archive.org"
   ]
