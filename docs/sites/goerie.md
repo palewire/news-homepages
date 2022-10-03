@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 26 screenshots with the Internet Archive.
+The archiving routine has saved 27 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/goerie-2022/goerie-2022-10-03T08:03:26.141910-04:00.jpg">
+  <img src="https://archive.org/download/goerie-2022/goerie-2022-10-03T08:03:26.141910-04:00.jpg"
+     alt="GoErie.com at 2022-10-03 08:03:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/goerie-2022/goerie-2022-10-03T08:03:26.141910-04:00.jpg">October 3 at 8:03 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/goerie-2022/goerie-2022-10-02T20:02:53.697369-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/goerie-2022/goerie-2022-09-27T19:55:29.143604-04:00.jpg">September 27 at 7:55 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/goerie-2022/goerie-2022-09-27T07:57:00.508946-04:00.jpg">
-  <img src="https://archive.org/download/goerie-2022/goerie-2022-09-27T07:57:00.508946-04:00.jpg"
-     alt="GoErie.com at 2022-09-27 07:57:01-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/goerie-2022/goerie-2022-09-27T07:57:00.508946-04:00.jpg">September 27 at 7:57 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 26 hyperlink lists with the Internet Archive.
+The archiving routine has saved 27 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 3 at 8:03 AM](https://archive.org/download/goerie-2022/goerie-2022-10-03T08:03:26.141910-04:00.hyperlinks.json) |
 | [October 2 at 8:03 PM](https://archive.org/download/goerie-2022/goerie-2022-10-02T20:02:53.697369-04:00.hyperlinks.json) |
 | [October 2 at 7:56 AM](https://archive.org/download/goerie-2022/goerie-2022-10-02T07:56:26.575863-04:00.hyperlinks.json) |
 | [October 1 at 7:58 PM](https://archive.org/download/goerie-2022/goerie-2022-10-01T19:58:52.500221-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 29 at 8:01 PM](https://archive.org/download/goerie-2022/goerie-2022-09-29T20:01:37.801616-04:00.hyperlinks.json) |
 | [September 29 at 8:00 AM](https://archive.org/download/goerie-2022/goerie-2022-09-29T08:00:41.311531-04:00.hyperlinks.json) |
 | [September 28 at 7:50 PM](https://archive.org/download/goerie-2022/goerie-2022-09-28T19:50:40.096176-04:00.hyperlinks.json) |
-| [September 28 at 8:12 AM](https://archive.org/download/goerie-2022/goerie-2022-09-28T08:12:07.517852-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 26 accessibility trees with the Internet Archive.
+The archiving routine has saved 27 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 3 at 8:03 AM](https://archive.org/download/goerie-2022/goerie-2022-10-03T08:03:26.141910-04:00.accessibility.json) |
 | [October 2 at 8:02 PM](https://archive.org/download/goerie-2022/goerie-2022-10-02T20:02:53.697369-04:00.accessibility.json) |
 | [October 2 at 7:56 AM](https://archive.org/download/goerie-2022/goerie-2022-10-02T07:56:26.575863-04:00.accessibility.json) |
 | [October 1 at 7:58 PM](https://archive.org/download/goerie-2022/goerie-2022-10-01T19:58:52.500221-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 29 at 8:01 PM](https://archive.org/download/goerie-2022/goerie-2022-09-29T20:01:37.801616-04:00.accessibility.json) |
 | [September 29 at 8:00 AM](https://archive.org/download/goerie-2022/goerie-2022-09-29T08:00:41.311531-04:00.accessibility.json) |
 | [September 28 at 7:50 PM](https://archive.org/download/goerie-2022/goerie-2022-09-28T19:50:40.096176-04:00.accessibility.json) |
-| [September 28 at 8:12 AM](https://archive.org/download/goerie-2022/goerie-2022-09-28T08:12:07.517852-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 3 at 8:03 AM](https://archive.org/download/goerie-2022/goerie-2022-10-03T08:03:26.141910-04:00.lighthouse.json) |
 | [October 2 at 8:03 PM](https://archive.org/download/goerie-2022/goerie-2022-10-02T20:02:53.697369-04:00.lighthouse.json) |
 | [October 2 at 7:56 AM](https://archive.org/download/goerie-2022/goerie-2022-10-02T07:56:26.575863-04:00.lighthouse.json) |
 | [October 1 at 7:58 PM](https://archive.org/download/goerie-2022/goerie-2022-10-01T19:58:52.500221-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 29 at 8:01 PM](https://archive.org/download/goerie-2022/goerie-2022-09-29T20:01:37.801616-04:00.lighthouse.json) |
 | [September 29 at 8:00 AM](https://archive.org/download/goerie-2022/goerie-2022-09-29T08:00:41.311531-04:00.lighthouse.json) |
 | [September 28 at 7:50 PM](https://archive.org/download/goerie-2022/goerie-2022-09-28T19:50:40.096176-04:00.lighthouse.json) |
-| [September 28 at 8:12 AM](https://archive.org/download/goerie-2022/goerie-2022-09-28T08:12:07.517852-04:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 148 screenshots with the Internet Archive.
+The archiving routine has saved 149 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 148 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-10-03T08:01:14.601779-04:00.jpg">
+  <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-10-03T08:01:14.601779-04:00.jpg"
+     alt="Epoch Times at 2022-10-03 08:01:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-10-03T08:01:14.601779-04:00.jpg">October 3 at 8:01 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-10-02T20:00:21.877537-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-09-29T15:38:34.658009-04:00.jpg">September 29 at 3:38 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-09-29T07:57:04.286558-04:00.jpg">
-  <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-09-29T07:57:04.286558-04:00.jpg"
-     alt="Epoch Times at 2022-09-29 07:57:17-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-09-29T07:57:04.286558-04:00.jpg">September 29 at 7:57 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 148 hyperlink lists with the Internet Archive.
+The archiving routine has saved 149 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 3 at 8:01 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-03T08:01:14.601779-04:00.hyperlinks.json) |
 | [October 2 at 8:00 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-02T20:00:21.877537-04:00.hyperlinks.json) |
 | [October 2 at 3:46 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-02T15:46:09.024415-04:00.hyperlinks.json) |
 | [October 2 at 7:55 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-02T07:55:31.502629-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 7:51 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-30T19:50:59.898948-04:00.hyperlinks.json) |
 | [September 30 at 4:21 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-30T16:20:59.064499-04:00.hyperlinks.json) |
 | [September 30 at 8:02 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-30T08:02:18.531711-04:00.hyperlinks.json) |
-| [September 29 at 7:59 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-29T19:59:26.854689-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 148 accessibility trees with the Internet Archive.
+The archiving routine has saved 149 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 3 at 8:01 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-03T08:01:14.601779-04:00.accessibility.json) |
 | [October 2 at 8:00 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-02T20:00:21.877537-04:00.accessibility.json) |
 | [October 2 at 3:46 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-02T15:46:09.024415-04:00.accessibility.json) |
 | [October 2 at 7:55 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-02T07:55:31.502629-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 7:51 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-30T19:50:59.898948-04:00.accessibility.json) |
 | [September 30 at 4:21 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-30T16:20:59.064499-04:00.accessibility.json) |
 | [September 30 at 8:02 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-30T08:02:18.531711-04:00.accessibility.json) |
-| [September 29 at 7:59 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-29T19:59:26.854689-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 149 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 150 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 3 at 8:01 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-03T08:01:14.601779-04:00.lighthouse.json) |
 | [October 2 at 8:00 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-02T20:00:21.877537-04:00.lighthouse.json) |
 | [October 2 at 3:46 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-02T15:46:09.024415-04:00.lighthouse.json) |
 | [October 2 at 7:55 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-02T07:55:31.502629-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 7:51 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-30T19:50:59.898948-04:00.lighthouse.json) |
 | [September 30 at 4:21 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-30T16:20:59.064499-04:00.lighthouse.json) |
 | [September 30 at 8:02 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-30T08:02:18.531711-04:00.lighthouse.json) |
-| [September 29 at 7:59 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-29T19:59:26.854689-04:00.lighthouse.json) |
 
 
 
