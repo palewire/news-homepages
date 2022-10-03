@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 24 screenshots with the Internet Archive.
+The archiving routine has saved 25 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/blueridgenow-2022/blueridgenow-2022-10-02T19:00:58.753437-04:00.jpg">
+  <img src="https://archive.org/download/blueridgenow-2022/blueridgenow-2022-10-02T19:00:58.753437-04:00.jpg"
+     alt="blueridgenow.com at 2022-10-02 19:01:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/blueridgenow-2022/blueridgenow-2022-10-02T19:00:58.753437-04:00.jpg">October 2 at 7:01 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/blueridgenow-2022/blueridgenow-2022-10-02T06:44:19.049368-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-26T18:52:46.752069-04:00.jpg">September 26 at 6:52 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-26T06:54:36.983711-04:00.jpg">
-  <img src="https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-26T06:54:36.983711-04:00.jpg"
-     alt="blueridgenow.com at 2022-09-26 06:54:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-26T06:54:36.983711-04:00.jpg">September 26 at 6:54 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 25 hyperlink lists with the Internet Archive.
+The archiving routine has saved 26 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 7:01 PM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-10-02T19:00:58.753437-04:00.hyperlinks.json) |
 | [October 2 at 6:44 AM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-10-02T06:44:19.049368-04:00.hyperlinks.json) |
 | [October 1 at 6:58 PM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-10-01T18:58:23.325532-04:00.hyperlinks.json) |
 | [October 1 at 6:51 AM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-10-01T06:50:57.185659-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 29 at 6:54 AM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-29T06:53:58.749154-04:00.hyperlinks.json) |
 | [September 28 at 6:54 PM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-28T18:54:36.502850-04:00.hyperlinks.json) |
 | [September 28 at 7:05 AM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-28T07:05:23.258905-04:00.hyperlinks.json) |
-| [September 27 at 6:56 PM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-27T18:56:17.062313-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 25 accessibility trees with the Internet Archive.
+The archiving routine has saved 26 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 7:01 PM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-10-02T19:00:58.753437-04:00.accessibility.json) |
 | [October 2 at 6:44 AM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-10-02T06:44:19.049368-04:00.accessibility.json) |
 | [October 1 at 6:58 PM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-10-01T18:58:23.325532-04:00.accessibility.json) |
 | [October 1 at 6:51 AM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-10-01T06:50:57.185659-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 29 at 6:54 AM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-29T06:53:58.749154-04:00.accessibility.json) |
 | [September 28 at 6:54 PM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-28T18:54:36.502850-04:00.accessibility.json) |
 | [September 28 at 7:05 AM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-28T07:05:23.258905-04:00.accessibility.json) |
-| [September 27 at 6:56 PM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-27T18:56:17.062313-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 7:01 PM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-10-02T19:00:58.753437-04:00.lighthouse.json) |
 | [October 2 at 6:44 AM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-10-02T06:44:19.049368-04:00.lighthouse.json) |
 | [October 1 at 6:58 PM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-10-01T18:58:23.325532-04:00.lighthouse.json) |
 | [October 1 at 6:51 AM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-10-01T06:50:57.185659-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 29 at 6:54 AM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-29T06:53:58.749154-04:00.lighthouse.json) |
 | [September 28 at 6:54 PM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-28T18:54:36.502850-04:00.lighthouse.json) |
 | [September 28 at 7:05 AM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-28T07:05:23.258905-04:00.lighthouse.json) |
-| [September 27 at 6:56 PM](https://archive.org/download/blueridgenow-2022/blueridgenow-2022-09-27T18:56:17.062313-04:00.lighthouse.json) |
 
 
 

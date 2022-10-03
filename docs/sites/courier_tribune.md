@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 25 screenshots with the Internet Archive.
+The archiving routine has saved 26 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-02T19:57:40.312617-04:00.jpg">
+  <img src="https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-02T19:57:40.312617-04:00.jpg"
+     alt="The Courier-Tribune at 2022-10-02 19:57:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-02T19:57:40.312617-04:00.jpg">October 2 at 7:57 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-02T07:53:26.920761-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/courier_tribune-2022/courier_tribune-2022-09-27T07:52:49.866453-04:00.jpg">September 27 at 7:52 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/courier_tribune-2022/courier_tribune-2022-09-26T19:45:02.410883-04:00.jpg">
-  <img src="https://archive.org/download/courier_tribune-2022/courier_tribune-2022-09-26T19:45:02.410883-04:00.jpg"
-     alt="The Courier-Tribune at 2022-09-26 19:45:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/courier_tribune-2022/courier_tribune-2022-09-26T19:45:02.410883-04:00.jpg">September 26 at 7:45 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 25 hyperlink lists with the Internet Archive.
+The archiving routine has saved 26 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 7:57 PM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-02T19:57:40.312617-04:00.hyperlinks.json) |
 | [October 2 at 7:53 AM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-02T07:53:26.920761-04:00.hyperlinks.json) |
 | [October 1 at 7:54 PM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-01T19:54:02.902777-04:00.hyperlinks.json) |
 | [October 1 at 7:53 AM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-01T07:53:22.353368-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 29 at 7:55 AM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-09-29T07:55:43.179954-04:00.hyperlinks.json) |
 | [September 28 at 7:45 PM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-09-28T19:45:48.968281-04:00.hyperlinks.json) |
 | [September 28 at 8:07 AM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-09-28T08:07:12.231923-04:00.hyperlinks.json) |
-| [September 27 at 7:49 PM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-09-27T19:49:53.773749-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 25 accessibility trees with the Internet Archive.
+The archiving routine has saved 26 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 7:57 PM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-02T19:57:40.312617-04:00.accessibility.json) |
 | [October 2 at 7:53 AM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-02T07:53:26.920761-04:00.accessibility.json) |
 | [October 1 at 7:54 PM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-01T19:54:02.902777-04:00.accessibility.json) |
 | [October 1 at 7:53 AM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-01T07:53:22.353368-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 29 at 7:55 AM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-09-29T07:55:43.179954-04:00.accessibility.json) |
 | [September 28 at 7:45 PM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-09-28T19:45:48.968281-04:00.accessibility.json) |
 | [September 28 at 8:07 AM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-09-28T08:07:12.231923-04:00.accessibility.json) |
-| [September 27 at 7:49 PM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-09-27T19:49:53.773749-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 7:57 PM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-02T19:57:40.312617-04:00.lighthouse.json) |
 | [October 2 at 7:53 AM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-02T07:53:26.920761-04:00.lighthouse.json) |
 | [October 1 at 7:54 PM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-01T19:54:02.902777-04:00.lighthouse.json) |
 | [October 1 at 7:53 AM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-01T07:53:22.353368-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 29 at 7:55 AM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-09-29T07:55:43.179954-04:00.lighthouse.json) |
 | [September 28 at 7:45 PM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-09-28T19:45:48.968281-04:00.lighthouse.json) |
 | [September 28 at 8:07 AM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-09-28T08:07:12.231923-04:00.lighthouse.json) |
-| [September 27 at 7:49 PM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-09-27T19:49:53.773749-04:00.lighthouse.json) |
 
 
 

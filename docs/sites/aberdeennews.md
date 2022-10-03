@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 25 screenshots with the Internet Archive.
+The archiving routine has saved 26 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/aberdeennews-2022/aberdeennews-2022-10-02T17:57:59.250952-05:00.jpg">
+  <img src="https://archive.org/download/aberdeennews-2022/aberdeennews-2022-10-02T17:57:59.250952-05:00.jpg"
+     alt="Aberdeen News at 2022-10-02 17:58:02-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/aberdeennews-2022/aberdeennews-2022-10-02T17:57:59.250952-05:00.jpg">October 2 at 5:58 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/aberdeennews-2022/aberdeennews-2022-10-02T05:41:26.089197-05:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-27T05:54:14.863725-05:00.jpg">September 27 at 5:54 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-26T17:49:45.883693-05:00.jpg">
-  <img src="https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-26T17:49:45.883693-05:00.jpg"
-     alt="Aberdeen News at 2022-09-26 17:49:47-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-26T17:49:45.883693-05:00.jpg">September 26 at 5:49 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 25 hyperlink lists with the Internet Archive.
+The archiving routine has saved 26 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 5:58 PM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-10-02T17:57:59.250952-05:00.hyperlinks.json) |
 | [October 2 at 5:41 AM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-10-02T05:41:26.089197-05:00.hyperlinks.json) |
 | [October 1 at 5:54 PM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-10-01T17:54:21.413499-05:00.hyperlinks.json) |
 | [October 1 at 5:48 AM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-10-01T05:48:47.659924-05:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 29 at 5:50 AM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-29T05:50:28.973572-05:00.hyperlinks.json) |
 | [September 28 at 5:52 PM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-28T17:52:26.937709-05:00.hyperlinks.json) |
 | [September 28 at 6:02 AM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-28T06:02:08.339587-05:00.hyperlinks.json) |
-| [September 27 at 5:52 PM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-27T17:52:34.989980-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 24 accessibility trees with the Internet Archive.
+The archiving routine has saved 25 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 5:58 PM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-10-02T17:57:59.250952-05:00.accessibility.json) |
 | [October 2 at 5:41 AM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-10-02T05:41:26.089197-05:00.accessibility.json) |
 | [October 1 at 5:54 PM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-10-01T17:54:21.413499-05:00.accessibility.json) |
 | [October 1 at 5:48 AM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-10-01T05:48:47.659924-05:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 29 at 5:50 AM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-29T05:50:28.973572-05:00.accessibility.json) |
 | [September 28 at 5:52 PM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-28T17:52:26.937709-05:00.accessibility.json) |
 | [September 28 at 6:02 AM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-28T06:02:08.339587-05:00.accessibility.json) |
-| [September 27 at 5:52 PM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-27T17:52:34.989980-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 5:58 PM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-10-02T17:57:59.250952-05:00.lighthouse.json) |
 | [October 2 at 5:41 AM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-10-02T05:41:26.089197-05:00.lighthouse.json) |
 | [October 1 at 5:54 PM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-10-01T17:54:21.413499-05:00.lighthouse.json) |
 | [October 1 at 5:48 AM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-10-01T05:48:47.659924-05:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 29 at 5:50 AM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-29T05:50:28.973572-05:00.lighthouse.json) |
 | [September 28 at 5:52 PM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-28T17:52:26.937709-05:00.lighthouse.json) |
 | [September 28 at 6:02 AM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-28T06:02:08.339587-05:00.lighthouse.json) |
-| [September 27 at 5:52 PM](https://archive.org/download/aberdeennews-2022/aberdeennews-2022-09-27T17:52:34.989980-05:00.lighthouse.json) |
 
 
 
