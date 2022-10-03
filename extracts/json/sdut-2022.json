@@ -1,5 +1,6 @@
 {
-  "created": 1664826980,
+  "conflict": 1664827293,
+  "created": 1664827293,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/8/items/sdut-2022",
@@ -23801,6 +23802,17 @@
       "format": "JSON"
     },
     {
+      "name": "sdut-2022-10-03T12:23:12.987733-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sdut-2022-10-03T12:23:12.987733-07:00.jpg",
+      "mtime": "1664827241",
+      "size": "8758",
+      "md5": "4f0e0d2a1b12c4b8286373b2dab2add0",
+      "crc32": "d226364a",
+      "sha1": "c3fcda5c9c3b7b56124ebae6c51518918b367e31"
+    },
+    {
       "name": "sdut-2022_archive.torrent",
       "source": "metadata",
       "btih": "28060674bb5d55b9222d6a522a07be996a385895",
@@ -23815,7 +23827,7 @@
       "name": "sdut-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6fb69c4fbefb6b365421194aebc1ad71",
+      "md5": "aef3ede4bb100e35608f1c9fa53e1ee4",
       "summation": "md5"
     },
     {
@@ -23839,9 +23851,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2287,
-  "item_last_updated": 1664825166,
-  "item_size": 209730689,
+  "files_count": 2288,
+  "item_last_updated": 1664827241,
+  "item_size": 209739447,
   "metadata": {
     "identifier": "sdut-2022",
     "collection": [
@@ -23859,24 +23871,59 @@
     "addeddate": "2022-03-23 02:09:42"
   },
   "pending_tasks": true,
-  "sdut-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "server": "ia601401.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3427308097,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3427334707,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3427334784,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3427334864,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3427334951,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3427335021,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3427336655,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1345070456,
+  "uniq": 720497808,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]
