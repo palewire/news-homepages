@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 23 screenshots with the Internet Archive.
+The archiving routine has saved 25 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/recordpub-2022/recordpub-2022-10-02T22:31:21.481329-04:00.jpg">
+  <img src="https://archive.org/download/recordpub-2022/recordpub-2022-10-02T22:31:21.481329-04:00.jpg"
+     alt="Kent Ravenna Record-Courier at 2022-10-02 22:31:22-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/recordpub-2022/recordpub-2022-10-02T22:31:21.481329-04:00.jpg">October 2 at 10:31 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/recordpub-2022/recordpub-2022-10-02T10:17:17.355424-04:00.jpg">
+  <img src="https://archive.org/download/recordpub-2022/recordpub-2022-10-02T10:17:17.355424-04:00.jpg"
+     alt="Kent Ravenna Record-Courier at 2022-10-02 10:17:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/recordpub-2022/recordpub-2022-10-02T10:17:17.355424-04:00.jpg">October 2 at 10:17 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/recordpub-2022/recordpub-2022-10-01T22:26:53.377777-04:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/recordpub-2022/recordpub-2022-09-27T10:10:34.139347-04:00.jpg">September 27 at 10:10 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/recordpub-2022/recordpub-2022-09-26T22:17:40.734476-04:00.jpg">
-  <img src="https://archive.org/download/recordpub-2022/recordpub-2022-09-26T22:17:40.734476-04:00.jpg"
-     alt="Kent Ravenna Record-Courier at 2022-09-26 22:17:43-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/recordpub-2022/recordpub-2022-09-26T22:17:40.734476-04:00.jpg">September 26 at 10:17 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/recordpub-2022/recordpub-2022-09-26T10:07:41.096650-04:00.jpg">
-  <img src="https://archive.org/download/recordpub-2022/recordpub-2022-09-26T10:07:41.096650-04:00.jpg"
-     alt="Kent Ravenna Record-Courier at 2022-09-26 10:07:43-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/recordpub-2022/recordpub-2022-09-26T10:07:41.096650-04:00.jpg">September 26 at 10:07 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 23 hyperlink lists with the Internet Archive.
+The archiving routine has saved 25 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 10:31 PM](https://archive.org/download/recordpub-2022/recordpub-2022-10-02T22:31:21.481329-04:00.hyperlinks.json) |
+| [October 2 at 10:17 AM](https://archive.org/download/recordpub-2022/recordpub-2022-10-02T10:17:17.355424-04:00.hyperlinks.json) |
 | [October 1 at 10:26 PM](https://archive.org/download/recordpub-2022/recordpub-2022-10-01T22:26:53.377777-04:00.hyperlinks.json) |
 | [October 1 at 10:12 AM](https://archive.org/download/recordpub-2022/recordpub-2022-10-01T10:12:38.575347-04:00.hyperlinks.json) |
 | [September 30 at 10:35 PM](https://archive.org/download/recordpub-2022/recordpub-2022-09-30T22:35:46.163694-04:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 29 at 10:08 AM](https://archive.org/download/recordpub-2022/recordpub-2022-09-29T10:08:23.737200-04:00.hyperlinks.json) |
 | [September 28 at 10:23 PM](https://archive.org/download/recordpub-2022/recordpub-2022-09-28T22:22:58.126097-04:00.hyperlinks.json) |
 | [September 28 at 10:05 AM](https://archive.org/download/recordpub-2022/recordpub-2022-09-28T10:05:07.605272-04:00.hyperlinks.json) |
-| [September 27 at 10:31 PM](https://archive.org/download/recordpub-2022/recordpub-2022-09-27T22:31:00.916985-04:00.hyperlinks.json) |
-| [September 27 at 10:10 AM](https://archive.org/download/recordpub-2022/recordpub-2022-09-27T10:10:34.139347-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 22 accessibility trees with the Internet Archive.
+The archiving routine has saved 24 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 10:31 PM](https://archive.org/download/recordpub-2022/recordpub-2022-10-02T22:31:21.481329-04:00.accessibility.json) |
+| [October 2 at 10:17 AM](https://archive.org/download/recordpub-2022/recordpub-2022-10-02T10:17:17.355424-04:00.accessibility.json) |
 | [October 1 at 10:26 PM](https://archive.org/download/recordpub-2022/recordpub-2022-10-01T22:26:53.377777-04:00.accessibility.json) |
 | [October 1 at 10:12 AM](https://archive.org/download/recordpub-2022/recordpub-2022-10-01T10:12:38.575347-04:00.accessibility.json) |
 | [September 30 at 10:35 PM](https://archive.org/download/recordpub-2022/recordpub-2022-09-30T22:35:46.163694-04:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 29 at 10:08 AM](https://archive.org/download/recordpub-2022/recordpub-2022-09-29T10:08:23.737200-04:00.accessibility.json) |
 | [September 28 at 10:23 PM](https://archive.org/download/recordpub-2022/recordpub-2022-09-28T22:22:58.126097-04:00.accessibility.json) |
 | [September 28 at 10:05 AM](https://archive.org/download/recordpub-2022/recordpub-2022-09-28T10:05:07.605272-04:00.accessibility.json) |
-| [September 27 at 10:31 PM](https://archive.org/download/recordpub-2022/recordpub-2022-09-27T22:31:00.916985-04:00.accessibility.json) |
-| [September 26 at 10:17 PM](https://archive.org/download/recordpub-2022/recordpub-2022-09-26T22:17:40.734476-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 10:31 PM](https://archive.org/download/recordpub-2022/recordpub-2022-10-02T22:31:21.481329-04:00.lighthouse.json) |
+| [October 2 at 10:17 AM](https://archive.org/download/recordpub-2022/recordpub-2022-10-02T10:17:17.355424-04:00.lighthouse.json) |
 | [October 1 at 10:27 PM](https://archive.org/download/recordpub-2022/recordpub-2022-10-01T22:26:53.377777-04:00.lighthouse.json) |
 | [October 1 at 10:12 AM](https://archive.org/download/recordpub-2022/recordpub-2022-10-01T10:12:38.575347-04:00.lighthouse.json) |
 | [September 30 at 10:35 PM](https://archive.org/download/recordpub-2022/recordpub-2022-09-30T22:35:46.163694-04:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 29 at 10:08 AM](https://archive.org/download/recordpub-2022/recordpub-2022-09-29T10:08:23.737200-04:00.lighthouse.json) |
 | [September 28 at 10:23 PM](https://archive.org/download/recordpub-2022/recordpub-2022-09-28T22:22:58.126097-04:00.lighthouse.json) |
 | [September 28 at 10:05 AM](https://archive.org/download/recordpub-2022/recordpub-2022-09-28T10:05:07.605272-04:00.lighthouse.json) |
-| [September 27 at 10:31 PM](https://archive.org/download/recordpub-2022/recordpub-2022-09-27T22:31:00.916985-04:00.lighthouse.json) |
-| [September 27 at 10:10 AM](https://archive.org/download/recordpub-2022/recordpub-2022-09-27T10:10:34.139347-04:00.lighthouse.json) |
 
 
 

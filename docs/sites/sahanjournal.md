@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 326 screenshots with the Internet Archive.
+The archiving routine has saved 328 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-10-02T21:31:12.504457-05:00.jpg">
+  <img src="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-10-02T21:31:12.504457-05:00.jpg"
+     alt="Sahan Journal at 2022-10-02 21:31:20-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-10-02T21:31:12.504457-05:00.jpg">October 2 at 9:31 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-10-02T09:16:35.744733-05:00.jpg">
+  <img src="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-10-02T09:16:35.744733-05:00.jpg"
+     alt="Sahan Journal at 2022-10-02 09:16:41-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-10-02T09:16:35.744733-05:00.jpg">October 2 at 9:16 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-10-01T21:26:55.614208-05:00.jpg">
   <img src="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-10-01T21:26:55.614208-05:00.jpg"
      alt="Sahan Journal at 2022-10-01 21:26:59-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-09-27T09:11:07.863842-05:00.jpg">September 27 at 9:11 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-09-26T21:18:35.473860-05:00.jpg">
-  <img src="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-09-26T21:18:35.473860-05:00.jpg"
-     alt="Sahan Journal at 2022-09-26 21:18:36-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-09-26T21:18:35.473860-05:00.jpg">September 26 at 9:18 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-09-26T09:08:03.364201-05:00.jpg">
-  <img src="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-09-26T09:08:03.364201-05:00.jpg"
-     alt="Sahan Journal at 2022-09-26 09:08:04-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-09-26T09:08:03.364201-05:00.jpg">September 26 at 9:08 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 326 hyperlink lists with the Internet Archive.
+The archiving routine has saved 328 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 9:31 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-10-02T21:31:12.504457-05:00.hyperlinks.json) |
+| [October 2 at 9:16 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-10-02T09:16:35.744733-05:00.hyperlinks.json) |
 | [October 1 at 9:27 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-10-01T21:26:55.614208-05:00.hyperlinks.json) |
 | [October 1 at 9:12 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-10-01T09:12:30.904584-05:00.hyperlinks.json) |
 | [September 30 at 9:36 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-09-30T21:36:47.987141-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 29 at 9:08 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-09-29T09:08:27.546517-05:00.hyperlinks.json) |
 | [September 28 at 9:22 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-09-28T21:22:48.414924-05:00.hyperlinks.json) |
 | [September 28 at 9:05 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-09-28T09:05:07.034642-05:00.hyperlinks.json) |
-| [September 27 at 9:30 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-09-27T21:30:23.135375-05:00.hyperlinks.json) |
-| [September 27 at 9:11 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-09-27T09:11:07.863842-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 325 accessibility trees with the Internet Archive.
+The archiving routine has saved 327 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 9:31 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-10-02T21:31:12.504457-05:00.accessibility.json) |
+| [October 2 at 9:16 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-10-02T09:16:35.744733-05:00.accessibility.json) |
 | [October 1 at 9:27 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-10-01T21:26:55.614208-05:00.accessibility.json) |
 | [October 1 at 9:12 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-10-01T09:12:30.904584-05:00.accessibility.json) |
 | [September 30 at 9:36 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-09-30T21:36:47.987141-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 29 at 9:08 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-09-29T09:08:27.546517-05:00.accessibility.json) |
 | [September 28 at 9:22 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-09-28T21:22:48.414924-05:00.accessibility.json) |
 | [September 28 at 9:05 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-09-28T09:05:07.034642-05:00.accessibility.json) |
-| [September 27 at 9:30 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-09-27T21:30:23.135375-05:00.accessibility.json) |
-| [September 27 at 9:11 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-09-27T09:11:07.863842-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 140 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 142 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 9:31 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-10-02T21:31:12.504457-05:00.lighthouse.json) |
+| [October 2 at 9:16 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-10-02T09:16:35.744733-05:00.lighthouse.json) |
 | [October 1 at 9:27 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-10-01T21:26:55.614208-05:00.lighthouse.json) |
 | [October 1 at 9:12 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-10-01T09:12:30.904584-05:00.lighthouse.json) |
 | [September 30 at 9:36 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-09-30T21:36:47.987141-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 29 at 9:08 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-09-29T09:08:27.546517-05:00.lighthouse.json) |
 | [September 28 at 9:23 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-09-28T21:22:48.414924-05:00.lighthouse.json) |
 | [September 28 at 9:05 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-09-28T09:05:07.034642-05:00.lighthouse.json) |
-| [September 27 at 9:30 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-09-27T21:30:23.135375-05:00.lighthouse.json) |
-| [September 27 at 9:11 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-09-27T09:11:07.863842-05:00.lighthouse.json) |
 
 
 

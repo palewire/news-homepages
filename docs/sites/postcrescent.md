@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 324 screenshots with the Internet Archive.
+The archiving routine has saved 326 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/postcrescent-2022/postcrescent-2022-10-02T21:31:28.808539-05:00.jpg">
+  <img src="https://archive.org/download/postcrescent-2022/postcrescent-2022-10-02T21:31:28.808539-05:00.jpg"
+     alt="Appleton Post Crescent at 2022-10-02 21:31:29-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/postcrescent-2022/postcrescent-2022-10-02T21:31:28.808539-05:00.jpg">October 2 at 9:31 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/postcrescent-2022/postcrescent-2022-10-02T09:13:31.647014-05:00.jpg">
+  <img src="https://archive.org/download/postcrescent-2022/postcrescent-2022-10-02T09:13:31.647014-05:00.jpg"
+     alt="Appleton Post Crescent at 2022-10-02 09:13:33-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/postcrescent-2022/postcrescent-2022-10-02T09:13:31.647014-05:00.jpg">October 2 at 9:13 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/postcrescent-2022/postcrescent-2022-10-01T21:24:00.412924-05:00.jpg">
   <img src="https://archive.org/download/postcrescent-2022/postcrescent-2022-10-01T21:24:00.412924-05:00.jpg"
      alt="Appleton Post Crescent at 2022-10-01 21:24:02-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/postcrescent-2022/postcrescent-2022-09-27T09:08:25.439573-05:00.jpg">September 27 at 9:08 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/postcrescent-2022/postcrescent-2022-09-26T21:16:29.858301-05:00.jpg">
-  <img src="https://archive.org/download/postcrescent-2022/postcrescent-2022-09-26T21:16:29.858301-05:00.jpg"
-     alt="Appleton Post Crescent at 2022-09-26 21:16:36-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/postcrescent-2022/postcrescent-2022-09-26T21:16:29.858301-05:00.jpg">September 26 at 9:16 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/postcrescent-2022/postcrescent-2022-09-26T09:05:31.738862-05:00.jpg">
-  <img src="https://archive.org/download/postcrescent-2022/postcrescent-2022-09-26T09:05:31.738862-05:00.jpg"
-     alt="Appleton Post Crescent at 2022-09-26 09:05:39-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/postcrescent-2022/postcrescent-2022-09-26T09:05:31.738862-05:00.jpg">September 26 at 9:05 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 315 hyperlink lists with the Internet Archive.
+The archiving routine has saved 317 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 9:31 PM](https://archive.org/download/postcrescent-2022/postcrescent-2022-10-02T21:31:28.808539-05:00.hyperlinks.json) |
+| [October 2 at 9:13 AM](https://archive.org/download/postcrescent-2022/postcrescent-2022-10-02T09:13:31.647014-05:00.hyperlinks.json) |
 | [October 1 at 9:24 PM](https://archive.org/download/postcrescent-2022/postcrescent-2022-10-01T21:24:00.412924-05:00.hyperlinks.json) |
 | [October 1 at 9:10 AM](https://archive.org/download/postcrescent-2022/postcrescent-2022-10-01T09:09:54.536299-05:00.hyperlinks.json) |
 | [September 30 at 9:35 PM](https://archive.org/download/postcrescent-2022/postcrescent-2022-09-30T21:35:25.624147-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 29 at 9:06 AM](https://archive.org/download/postcrescent-2022/postcrescent-2022-09-29T09:06:21.584344-05:00.hyperlinks.json) |
 | [September 28 at 9:21 PM](https://archive.org/download/postcrescent-2022/postcrescent-2022-09-28T21:21:04.349219-05:00.hyperlinks.json) |
 | [September 28 at 9:03 AM](https://archive.org/download/postcrescent-2022/postcrescent-2022-09-28T09:03:00.847234-05:00.hyperlinks.json) |
-| [September 27 at 9:28 PM](https://archive.org/download/postcrescent-2022/postcrescent-2022-09-27T21:28:24.296026-05:00.hyperlinks.json) |
-| [September 27 at 9:08 AM](https://archive.org/download/postcrescent-2022/postcrescent-2022-09-27T09:08:25.439573-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 313 accessibility trees with the Internet Archive.
+The archiving routine has saved 315 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 9:31 PM](https://archive.org/download/postcrescent-2022/postcrescent-2022-10-02T21:31:28.808539-05:00.accessibility.json) |
+| [October 2 at 9:13 AM](https://archive.org/download/postcrescent-2022/postcrescent-2022-10-02T09:13:31.647014-05:00.accessibility.json) |
 | [October 1 at 9:24 PM](https://archive.org/download/postcrescent-2022/postcrescent-2022-10-01T21:24:00.412924-05:00.accessibility.json) |
 | [October 1 at 9:09 AM](https://archive.org/download/postcrescent-2022/postcrescent-2022-10-01T09:09:54.536299-05:00.accessibility.json) |
 | [September 30 at 9:35 PM](https://archive.org/download/postcrescent-2022/postcrescent-2022-09-30T21:35:25.624147-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 29 at 9:06 AM](https://archive.org/download/postcrescent-2022/postcrescent-2022-09-29T09:06:21.584344-05:00.accessibility.json) |
 | [September 28 at 9:21 PM](https://archive.org/download/postcrescent-2022/postcrescent-2022-09-28T21:21:04.349219-05:00.accessibility.json) |
 | [September 27 at 9:28 PM](https://archive.org/download/postcrescent-2022/postcrescent-2022-09-27T21:28:24.296026-05:00.accessibility.json) |
-| [September 27 at 9:08 AM](https://archive.org/download/postcrescent-2022/postcrescent-2022-09-27T09:08:25.439573-05:00.accessibility.json) |
-| [September 26 at 9:16 PM](https://archive.org/download/postcrescent-2022/postcrescent-2022-09-26T21:16:29.858301-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 140 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 142 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 9:31 PM](https://archive.org/download/postcrescent-2022/postcrescent-2022-10-02T21:31:28.808539-05:00.lighthouse.json) |
+| [October 2 at 9:13 AM](https://archive.org/download/postcrescent-2022/postcrescent-2022-10-02T09:13:31.647014-05:00.lighthouse.json) |
 | [October 1 at 9:24 PM](https://archive.org/download/postcrescent-2022/postcrescent-2022-10-01T21:24:00.412924-05:00.lighthouse.json) |
 | [October 1 at 9:10 AM](https://archive.org/download/postcrescent-2022/postcrescent-2022-10-01T09:09:54.536299-05:00.lighthouse.json) |
 | [September 30 at 9:35 PM](https://archive.org/download/postcrescent-2022/postcrescent-2022-09-30T21:35:25.624147-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 29 at 9:06 AM](https://archive.org/download/postcrescent-2022/postcrescent-2022-09-29T09:06:21.584344-05:00.lighthouse.json) |
 | [September 28 at 9:21 PM](https://archive.org/download/postcrescent-2022/postcrescent-2022-09-28T21:21:04.349219-05:00.lighthouse.json) |
 | [September 28 at 9:03 AM](https://archive.org/download/postcrescent-2022/postcrescent-2022-09-28T09:03:00.847234-05:00.lighthouse.json) |
-| [September 27 at 9:28 PM](https://archive.org/download/postcrescent-2022/postcrescent-2022-09-27T21:28:24.296026-05:00.lighthouse.json) |
-| [September 27 at 9:08 AM](https://archive.org/download/postcrescent-2022/postcrescent-2022-09-27T09:08:25.439573-05:00.lighthouse.json) |
 
 
 

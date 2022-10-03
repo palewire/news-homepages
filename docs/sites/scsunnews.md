@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 23 screenshots with the Internet Archive.
+The archiving routine has saved 25 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/scsunnews-2022/scsunnews-2022-10-02T20:31:15.111726-06:00.jpg">
+  <img src="https://archive.org/download/scsunnews-2022/scsunnews-2022-10-02T20:31:15.111726-06:00.jpg"
+     alt="Silver City Sun News at 2022-10-02 20:31:17-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scsunnews-2022/scsunnews-2022-10-02T20:31:15.111726-06:00.jpg">October 2 at 8:31 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/scsunnews-2022/scsunnews-2022-10-02T08:16:41.812540-06:00.jpg">
+  <img src="https://archive.org/download/scsunnews-2022/scsunnews-2022-10-02T08:16:41.812540-06:00.jpg"
+     alt="Silver City Sun News at 2022-10-02 08:16:43-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scsunnews-2022/scsunnews-2022-10-02T08:16:41.812540-06:00.jpg">October 2 at 8:16 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scsunnews-2022/scsunnews-2022-10-01T20:26:23.086648-06:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/scsunnews-2022/scsunnews-2022-09-27T08:10:53.439373-06:00.jpg">September 27 at 8:10 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/scsunnews-2022/scsunnews-2022-09-26T20:17:51.205540-06:00.jpg">
-  <img src="https://archive.org/download/scsunnews-2022/scsunnews-2022-09-26T20:17:51.205540-06:00.jpg"
-     alt="Silver City Sun News at 2022-09-26 20:17:53-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/scsunnews-2022/scsunnews-2022-09-26T20:17:51.205540-06:00.jpg">September 26 at 8:17 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/scsunnews-2022/scsunnews-2022-09-26T08:07:59.304314-06:00.jpg">
-  <img src="https://archive.org/download/scsunnews-2022/scsunnews-2022-09-26T08:07:59.304314-06:00.jpg"
-     alt="Silver City Sun News at 2022-09-26 08:08:00-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/scsunnews-2022/scsunnews-2022-09-26T08:07:59.304314-06:00.jpg">September 26 at 8:08 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 23 hyperlink lists with the Internet Archive.
+The archiving routine has saved 25 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 8:31 PM](https://archive.org/download/scsunnews-2022/scsunnews-2022-10-02T20:31:15.111726-06:00.hyperlinks.json) |
+| [October 2 at 8:16 AM](https://archive.org/download/scsunnews-2022/scsunnews-2022-10-02T08:16:41.812540-06:00.hyperlinks.json) |
 | [October 1 at 8:26 PM](https://archive.org/download/scsunnews-2022/scsunnews-2022-10-01T20:26:23.086648-06:00.hyperlinks.json) |
 | [October 1 at 8:13 AM](https://archive.org/download/scsunnews-2022/scsunnews-2022-10-01T08:13:43.541825-06:00.hyperlinks.json) |
 | [September 30 at 8:39 PM](https://archive.org/download/scsunnews-2022/scsunnews-2022-09-30T20:39:21.795461-06:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 29 at 8:08 AM](https://archive.org/download/scsunnews-2022/scsunnews-2022-09-29T08:08:22.158281-06:00.hyperlinks.json) |
 | [September 28 at 8:22 PM](https://archive.org/download/scsunnews-2022/scsunnews-2022-09-28T20:22:48.600068-06:00.hyperlinks.json) |
 | [September 28 at 8:05 AM](https://archive.org/download/scsunnews-2022/scsunnews-2022-09-28T08:05:02.378999-06:00.hyperlinks.json) |
-| [September 27 at 8:30 PM](https://archive.org/download/scsunnews-2022/scsunnews-2022-09-27T20:30:51.375624-06:00.hyperlinks.json) |
-| [September 27 at 8:10 AM](https://archive.org/download/scsunnews-2022/scsunnews-2022-09-27T08:10:53.439373-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 22 accessibility trees with the Internet Archive.
+The archiving routine has saved 24 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 8:31 PM](https://archive.org/download/scsunnews-2022/scsunnews-2022-10-02T20:31:15.111726-06:00.accessibility.json) |
+| [October 2 at 8:16 AM](https://archive.org/download/scsunnews-2022/scsunnews-2022-10-02T08:16:41.812540-06:00.accessibility.json) |
 | [October 1 at 8:26 PM](https://archive.org/download/scsunnews-2022/scsunnews-2022-10-01T20:26:23.086648-06:00.accessibility.json) |
 | [October 1 at 8:13 AM](https://archive.org/download/scsunnews-2022/scsunnews-2022-10-01T08:13:43.541825-06:00.accessibility.json) |
 | [September 30 at 8:39 PM](https://archive.org/download/scsunnews-2022/scsunnews-2022-09-30T20:39:21.795461-06:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 29 at 8:08 AM](https://archive.org/download/scsunnews-2022/scsunnews-2022-09-29T08:08:22.158281-06:00.accessibility.json) |
 | [September 28 at 8:22 PM](https://archive.org/download/scsunnews-2022/scsunnews-2022-09-28T20:22:48.600068-06:00.accessibility.json) |
 | [September 27 at 8:30 PM](https://archive.org/download/scsunnews-2022/scsunnews-2022-09-27T20:30:51.375624-06:00.accessibility.json) |
-| [September 27 at 8:10 AM](https://archive.org/download/scsunnews-2022/scsunnews-2022-09-27T08:10:53.439373-06:00.accessibility.json) |
-| [September 26 at 8:17 PM](https://archive.org/download/scsunnews-2022/scsunnews-2022-09-26T20:17:51.205540-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 8:31 PM](https://archive.org/download/scsunnews-2022/scsunnews-2022-10-02T20:31:15.111726-06:00.lighthouse.json) |
+| [October 2 at 8:16 AM](https://archive.org/download/scsunnews-2022/scsunnews-2022-10-02T08:16:41.812540-06:00.lighthouse.json) |
 | [October 1 at 8:26 PM](https://archive.org/download/scsunnews-2022/scsunnews-2022-10-01T20:26:23.086648-06:00.lighthouse.json) |
 | [October 1 at 8:13 AM](https://archive.org/download/scsunnews-2022/scsunnews-2022-10-01T08:13:43.541825-06:00.lighthouse.json) |
 | [September 30 at 8:39 PM](https://archive.org/download/scsunnews-2022/scsunnews-2022-09-30T20:39:21.795461-06:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 29 at 8:08 AM](https://archive.org/download/scsunnews-2022/scsunnews-2022-09-29T08:08:22.158281-06:00.lighthouse.json) |
 | [September 28 at 8:22 PM](https://archive.org/download/scsunnews-2022/scsunnews-2022-09-28T20:22:48.600068-06:00.lighthouse.json) |
 | [September 28 at 8:05 AM](https://archive.org/download/scsunnews-2022/scsunnews-2022-09-28T08:05:02.378999-06:00.lighthouse.json) |
-| [September 27 at 8:31 PM](https://archive.org/download/scsunnews-2022/scsunnews-2022-09-27T20:30:51.375624-06:00.lighthouse.json) |
-| [September 27 at 8:11 AM](https://archive.org/download/scsunnews-2022/scsunnews-2022-09-27T08:10:53.439373-06:00.lighthouse.json) |
 
 
 
