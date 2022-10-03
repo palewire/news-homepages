@@ -1,5 +1,5 @@
 {
-  "created": 1664794139,
+  "created": 1664837730,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/35/items/arkansasonline-2022",
@@ -2723,31 +2723,93 @@
       "format": "JSON"
     },
     {
+      "name": "arkansasonline-2022-10-03T05:47:59.024378-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arkansasonline-2022-10-03T05:47:59.024378-05:00.jpg",
+      "mtime": "1664797080",
+      "size": "9730",
+      "md5": "00647452b5b9488395e2b43490278acf",
+      "crc32": "efa26aab",
+      "sha1": "15792fce4306ef70fb3ec04a6d15f36988248418"
+    },
+    {
+      "name": "arkansasonline-2022-10-03T17:54:28.449764-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664837675",
+      "size": "43493",
+      "md5": "64b57ce332917213be537cf52d3462d2",
+      "crc32": "ea557fec",
+      "sha1": "4b7bebbd361ab52c0a204fe55ce375c8ce7129d8",
+      "format": "JSON"
+    },
+    {
+      "name": "arkansasonline-2022-10-03T17:54:28.449764-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664837677",
+      "size": "29063",
+      "md5": "4bcaf67a42be69e2393b9c1c7a0d3876",
+      "crc32": "86dd4804",
+      "sha1": "c0e3787d8da0f2538b178e91a322027ea0d791f2",
+      "format": "JSON"
+    },
+    {
+      "name": "arkansasonline-2022-10-03T17:54:28.449764-05:00.jpg",
+      "source": "original",
+      "mtime": "1664837674",
+      "size": "335324",
+      "md5": "c181c77f3dfd98ce6a4f60364c17eeab",
+      "crc32": "af7529b0",
+      "sha1": "51b902a8289e179104a2b55fdb5d11fdc5fe3dd8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arkansasonline-2022-10-03T17:54:28.449764-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664837679",
+      "size": "1522",
+      "md5": "263f966e7c381d191629dc0b3bb52d15",
+      "crc32": "60bcc2c2",
+      "sha1": "dd32828aba90cce88d6d411a0e5f88f57a1360e2",
+      "format": "JSON"
+    },
+    {
+      "name": "arkansasonline-2022-10-03T17:54:28.449764-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664837680",
+      "size": "28754",
+      "md5": "30cb1babd7d4acc70c3f2e294994d52d",
+      "crc32": "a3b44d1f",
+      "sha1": "31e6c86e4a1e317bf87c06f0c97426ad97de6785",
+      "format": "JSON"
+    },
+    {
       "name": "arkansasonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "33564f1dd5dfeadc998f95e393a4591712c719d3",
-      "mtime": "1664794135",
-      "size": "58430",
-      "md5": "24bc7eb0e933568c9f5b4542c3306394",
-      "crc32": "9c49cb21",
-      "sha1": "76fc2e83a84f3037d8da068dcbb28f677b129214",
+      "btih": "a43a9d503406bd11b1077786b2730098ee2d4190",
+      "mtime": "1664837726",
+      "size": "59713",
+      "md5": "21d30895d78e1e561b1330b2af44b37f",
+      "crc32": "c6d2a7fe",
+      "sha1": "cd56ea0f81fb3a22612e0e11b165fed937736433",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arkansasonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ab97fff1a89cd30ae00fd90873ea902e",
+      "md5": "80a69b41ef3466ba86972f7bc4dc39e5",
       "summation": "md5"
     },
     {
       "name": "arkansasonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664794095",
-      "size": "356352",
-      "md5": "69cd1edc4d25fa347b61c9a5cca73062",
-      "crc32": "66fe2d0a",
-      "sha1": "9c9f80a7ef65c5ecb7434fb260dcaa8e1b0eb4fd",
+      "mtime": "1664837687",
+      "size": "364544",
+      "md5": "19fb9b83cec046d21eddac334071a036",
+      "crc32": "1cf6212a",
+      "sha1": "c3247ee9606f9595a69c5e5b6cd636b744df10c2",
       "format": "Metadata"
     },
     {
@@ -2761,9 +2823,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 267,
-  "item_last_updated": 1664794135,
-  "item_size": 19461625,
+  "files_count": 273,
+  "item_last_updated": 1664837726,
+  "item_size": 19918986,
   "metadata": {
     "identifier": "arkansasonline-2022",
     "collection": [
@@ -2785,7 +2847,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426867573,
+      "task_id": 3427474613,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2793,7 +2855,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1711162693,
+  "uniq": 148091025,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]

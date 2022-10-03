@@ -1,5 +1,5 @@
 {
-  "created": 1664818040,
+  "created": 1664837919,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/32/items/blockclubchi-2022",
@@ -17586,31 +17586,82 @@
       "sha1": "4640dd2a4cee94c296d401e3e53fbe8f56c692f5"
     },
     {
+      "name": "blockclubchi-2022-10-03T17:57:07.320100-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664837838",
+      "size": "23364",
+      "md5": "278d05cb3e5c60287bcf228dbb249bef",
+      "crc32": "b101fa9b",
+      "sha1": "ddff8c1dafe0ea3eb0fcda72df1ddf0b74ee6587",
+      "format": "JSON"
+    },
+    {
+      "name": "blockclubchi-2022-10-03T17:57:07.320100-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664837840",
+      "size": "32204",
+      "md5": "55cd72bfab9548378b62119ad08cbd3a",
+      "crc32": "898dc477",
+      "sha1": "52ac7019718872adbb698ecff503acb3ebda0074",
+      "format": "JSON"
+    },
+    {
+      "name": "blockclubchi-2022-10-03T17:57:07.320100-05:00.jpg",
+      "source": "original",
+      "mtime": "1664837836",
+      "size": "310856",
+      "md5": "201185f55c6e5c29ffe77a7f8bcbdfb2",
+      "crc32": "308e1298",
+      "sha1": "17600fb3393c5423b8cd2e768f48a731800966bd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "blockclubchi-2022-10-03T17:57:07.320100-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664837842",
+      "size": "1511",
+      "md5": "e2fbc25335024061718226e6351cc102",
+      "crc32": "fd187fee",
+      "sha1": "d60efcaffd2d7a0067527d9b5cd649acc354be87",
+      "format": "JSON"
+    },
+    {
+      "name": "blockclubchi-2022-10-03T17:57:07.320100-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664837843",
+      "size": "18344",
+      "md5": "ed945ad6ee7431ab4a29e42226d60f27",
+      "crc32": "6ea69826",
+      "sha1": "8075d43f10c14fa93c209f1de7a0947b8f76509c",
+      "format": "JSON"
+    },
+    {
       "name": "blockclubchi-2022_archive.torrent",
       "source": "metadata",
-      "btih": "709e5b46d0bddfa45bf58da0e007e3d5d442cfb4",
-      "mtime": "1664817707",
-      "size": "365043",
-      "md5": "af0b989f46e0f7a54695f96ea93cff92",
-      "crc32": "c85c1063",
-      "sha1": "c3d73e6dac21c089f1f6d7c62d1a37ad060e6695",
+      "btih": "6c715bef9a97dd34d0a2b5a1ebb093a742bc0d95",
+      "mtime": "1664837910",
+      "size": "366106",
+      "md5": "69ce6bb9d002f0d9196e8a22ee836f42",
+      "crc32": "ecb59e3a",
+      "sha1": "3fdaa7222b1e7bb8a9b59c3e1b6fbf1929c53da9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "blockclubchi-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aeb5df8b34c76e70c8fe864f316dcb7e",
+      "md5": "35c940953b6a820f1ae91dd2a1ef0074",
       "summation": "md5"
     },
     {
       "name": "blockclubchi-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664814237",
-      "size": "2105344",
-      "md5": "69c363aa5a013f82d1c7004af1ec452d",
-      "crc32": "fd8622e0",
-      "sha1": "291367ef67d3baf0c8923d2919ab11bbd7c711ab",
+      "mtime": "1664837848",
+      "size": "2113536",
+      "md5": "0dff3e84c7ba26ebee8be9c6a851baa1",
+      "crc32": "f6b58751",
+      "sha1": "8de2431eba4f062580218a1dc9c464f9f1f9c1f6",
       "format": "Metadata"
     },
     {
@@ -17624,9 +17675,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1697,
-  "item_last_updated": 1664817707,
-  "item_size": 131515787,
+  "files_count": 1702,
+  "item_last_updated": 1664837910,
+  "item_size": 131911321,
   "metadata": {
     "identifier": "blockclubchi-2022",
     "collection": [
@@ -17643,10 +17694,21 @@
     "publicdate": "2022-06-19 23:23:08",
     "addeddate": "2022-06-19 23:23:08"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 1601991531,
+  "pending_tasks": true,
+  "server": "ia601506.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3427477171,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 140593373,
   "workable_servers": [
-    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

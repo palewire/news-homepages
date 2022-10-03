@@ -1,5 +1,5 @@
 {
-  "created": 1664794067,
+  "created": 1664837736,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/11/items/aftenposten-2022",
@@ -9063,31 +9063,93 @@
       "format": "JSON"
     },
     {
+      "name": "aftenposten-2022-10-03T12:46:27.653918+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aftenposten-2022-10-03T12:46:27.653918+02:00.jpg",
+      "mtime": "1664796575",
+      "size": "9602",
+      "md5": "574b632d3f1c7b85466f949443a307e9",
+      "crc32": "f31decbc",
+      "sha1": "98b19b27c5f8a8310eb7ac4f7bad6ef06e6de551"
+    },
+    {
+      "name": "aftenposten-2022-10-04T00:54:18.757896+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664837668",
+      "size": "29724",
+      "md5": "93bea28120b2a91b541e8179e7d62833",
+      "crc32": "e015ac55",
+      "sha1": "8d13e52521ae6372da3453e0abe3338b5468f09f",
+      "format": "JSON"
+    },
+    {
+      "name": "aftenposten-2022-10-04T00:54:18.757896+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664837669",
+      "size": "30505",
+      "md5": "103cc068d686f2b65f6f95d1458ff47c",
+      "crc32": "26393b53",
+      "sha1": "153dec380cc749f81792a90621f107d0eea364d5",
+      "format": "JSON"
+    },
+    {
+      "name": "aftenposten-2022-10-04T00:54:18.757896+02:00.jpg",
+      "source": "original",
+      "mtime": "1664837666",
+      "size": "227334",
+      "md5": "37a01ff931ec8689e31b973e25a80f7a",
+      "crc32": "05c5994d",
+      "sha1": "1c4a01df0a0efedc62b3c2cad1b28de56bb8bc45",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aftenposten-2022-10-04T00:54:18.757896+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664837671",
+      "size": "1493",
+      "md5": "92a3c9b100dd11c266f5cc900141317b",
+      "crc32": "b40d6fb3",
+      "sha1": "079a62c6e5c1d551be374598b377f2fd71e3c6a1",
+      "format": "JSON"
+    },
+    {
+      "name": "aftenposten-2022-10-04T00:54:18.757896+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664837672",
+      "size": "28918",
+      "md5": "71287461232e10b6549a01b7bf1250eb",
+      "crc32": "be61ae14",
+      "sha1": "2e49a36d5b14b0ae2193d189cb7e93263e187e44",
+      "format": "JSON"
+    },
+    {
       "name": "aftenposten-2022_archive.torrent",
       "source": "metadata",
-      "btih": "79b3501f388f2fcc5a36812a713dd7fbcd727001",
-      "mtime": "1664794058",
-      "size": "187977",
-      "md5": "2e6a79873a24d7b8bd2e8411a9ba2bde",
-      "crc32": "5704defc",
-      "sha1": "bc74121b169750ce1b25b07f96608003fbd592b7",
+      "btih": "cd35c84a45cce78357fad237ba783a87985249e5",
+      "mtime": "1664837729",
+      "size": "189262",
+      "md5": "d9e1206079d358e96203bf671fa8d8dd",
+      "crc32": "d3f43207",
+      "sha1": "925dc1770141e7fa5d49c1707c1409396f9c78b3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aftenposten-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "82500e87d32a46cac6e8410b6052090e",
+      "md5": "eb6de1b4d066246b43155ddb31931ef7",
       "summation": "md5"
     },
     {
       "name": "aftenposten-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664794010",
-      "size": "1122304",
-      "md5": "16553ca550fb19759519eb4100b0ccc5",
-      "crc32": "85efc6b4",
-      "sha1": "031f2d9a0d9c5785dd439be99b37f2356b24ca05",
+      "mtime": "1664837680",
+      "size": "1126400",
+      "md5": "2612b746eb2b831aa4ad63b8017c4b63",
+      "crc32": "e9d3b0ee",
+      "sha1": "1bf6ae89d037d04d0a14ffe697571c81bd041eba",
       "format": "Metadata"
     },
     {
@@ -9101,9 +9163,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 879,
-  "item_last_updated": 1664794058,
-  "item_size": 56242449,
+  "files_count": 885,
+  "item_last_updated": 1664837729,
+  "item_size": 56575406,
   "metadata": {
     "identifier": "aftenposten-2022",
     "collection": [
@@ -9125,7 +9187,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426866413,
+      "task_id": 3427474706,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9133,7 +9195,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 400774851,
+  "uniq": 91135474,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]

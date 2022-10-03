@@ -1,5 +1,5 @@
 {
-  "created": 1664794231,
+  "created": 1664837904,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/3/items/baltimorebanner-2022",
@@ -13301,31 +13301,93 @@
       "format": "JSON"
     },
     {
+      "name": "baltimorebanner-2022-10-03T06:49:13.416269-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltimorebanner-2022-10-03T06:49:13.416269-04:00.jpg",
+      "mtime": "1664796874",
+      "size": "9518",
+      "md5": "5e947a00bd434a5f01dfdfc9dca27d56",
+      "crc32": "cc21f418",
+      "sha1": "a2d48647a48731dd26237b52d502d4726053ee07"
+    },
+    {
+      "name": "baltimorebanner-2022-10-03T18:57:06.815541-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664837831",
+      "size": "43591",
+      "md5": "33c4410132a8ba2905daff2c32444269",
+      "crc32": "aca9e0a6",
+      "sha1": "0225b8192af46b6d0b798e5568bf4adf7b999d92",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebanner-2022-10-03T18:57:06.815541-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664837833",
+      "size": "38071",
+      "md5": "964161633a834c44d44ea63697eb5abe",
+      "crc32": "c395520e",
+      "sha1": "757144689a90d826571bf7eb9c9fa3612698d208",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebanner-2022-10-03T18:57:06.815541-04:00.jpg",
+      "source": "original",
+      "mtime": "1664837828",
+      "size": "290726",
+      "md5": "d6822c94ea0db4177e3e51bd86c2fb8a",
+      "crc32": "d6dae992",
+      "sha1": "7769bbaaaec26f3f20ab0691c2729eda6912f4b5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltimorebanner-2022-10-03T18:57:06.815541-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664837835",
+      "size": "1567",
+      "md5": "4f5dd820a55507f89320abaf26dbd1fc",
+      "crc32": "51c06d79",
+      "sha1": "b0799a178de07d7f493a388c0435c16ebf2ea8c8",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebanner-2022-10-03T18:57:06.815541-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664837836",
+      "size": "44277",
+      "md5": "45c1b189542f0cafc4c2a6ac7ce57779",
+      "crc32": "9c24b7f1",
+      "sha1": "6105506f6b04e52bd4fd65e9e07b44cb22671553",
+      "format": "JSON"
+    },
+    {
       "name": "baltimorebanner-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5307e2066ffdfe0537a523c039794b5cde2dce09",
-      "mtime": "1664794224",
-      "size": "279258",
-      "md5": "57af002ef45851defdbb2b9ac4917d88",
-      "crc32": "7630fe38",
-      "sha1": "34cb38bbf2f82de9819163793add9e62e9cd2975",
+      "btih": "e85d9c8d3683325553b937e5536e53a0ea5d5000",
+      "mtime": "1664837898",
+      "size": "280567",
+      "md5": "54c0cfb14dc87871dd71ec1440a8f9c4",
+      "crc32": "bce431d7",
+      "sha1": "75fd146122e8aabe3d3ef06433e14d0a7ef83625",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltimorebanner-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fc3ec9e228e6e280145e1e0dfa7564a6",
+      "md5": "5376a3135d645640211ec17d9d433ecc",
       "summation": "md5"
     },
     {
       "name": "baltimorebanner-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664794167",
-      "size": "1593344",
-      "md5": "7561de3c0a40811e7884a14f66dc8a66",
-      "crc32": "94e4cf3e",
-      "sha1": "618911c538f069ed5de46cbdbd94b645a80d63d6",
+      "mtime": "1664837842",
+      "size": "1601536",
+      "md5": "16900cefda78d771e782e71062be7ea3",
+      "crc32": "e85877a7",
+      "sha1": "ae7fe1542666341e45ecfff6e2a81538adfa971e",
       "format": "Metadata"
     },
     {
@@ -13339,9 +13401,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1283,
-  "item_last_updated": 1664794224,
-  "item_size": 87728004,
+  "files_count": 1289,
+  "item_last_updated": 1664837898,
+  "item_size": 88165255,
   "metadata": {
     "identifier": "baltimorebanner-2022",
     "collection": [
@@ -13363,7 +13425,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426868946,
+      "task_id": 3427476967,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13371,7 +13433,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1572454185,
+  "uniq": 408826914,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]
