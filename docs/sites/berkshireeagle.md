@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 134 screenshots with the Internet Archive.
+The archiving routine has saved 135 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 134 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-10-03T06:48:34.578039-04:00.jpg">
+  <img src="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-10-03T06:48:34.578039-04:00.jpg"
+     alt="Berkshire Eagle at 2022-10-03 06:48:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-10-03T06:48:34.578039-04:00.jpg">October 3 at 6:48 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-10-02T19:01:13.796636-04:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-09-27T18:55:34.532312-04:00.jpg">September 27 at 6:55 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-09-27T06:56:19.653598-04:00.jpg">
-  <img src="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-09-27T06:56:19.653598-04:00.jpg"
-     alt="Berkshire Eagle at 2022-09-27 06:56:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-09-27T06:56:19.653598-04:00.jpg">September 27 at 6:56 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 133 hyperlink lists with the Internet Archive.
+The archiving routine has saved 134 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 3 at 6:48 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-10-03T06:48:34.578039-04:00.hyperlinks.json) |
 | [October 2 at 7:01 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-10-02T19:01:13.796636-04:00.hyperlinks.json) |
 | [October 2 at 6:43 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-10-02T06:43:36.482683-04:00.hyperlinks.json) |
 | [October 1 at 6:57 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-10-01T18:57:48.686093-04:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 29 at 7:00 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-09-29T19:00:42.355760-04:00.hyperlinks.json) |
 | [September 29 at 6:53 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-09-29T06:53:16.563140-04:00.hyperlinks.json) |
 | [September 28 at 6:55 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-09-28T18:55:17.138071-04:00.hyperlinks.json) |
-| [September 28 at 7:05 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-09-28T07:05:01.819755-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 131 accessibility trees with the Internet Archive.
+The archiving routine has saved 132 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 3 at 6:48 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-10-03T06:48:34.578039-04:00.accessibility.json) |
 | [October 2 at 7:01 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-10-02T19:01:13.796636-04:00.accessibility.json) |
 | [October 2 at 6:43 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-10-02T06:43:36.482683-04:00.accessibility.json) |
 | [October 1 at 6:57 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-10-01T18:57:48.686093-04:00.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 29 at 7:00 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-09-29T19:00:42.355760-04:00.accessibility.json) |
 | [September 29 at 6:53 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-09-29T06:53:16.563140-04:00.accessibility.json) |
 | [September 28 at 6:55 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-09-28T18:55:17.138071-04:00.accessibility.json) |
-| [September 28 at 7:05 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-09-28T07:05:01.819755-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 121 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 122 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 3 at 6:48 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-10-03T06:48:34.578039-04:00.lighthouse.json) |
 | [October 2 at 7:01 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-10-02T19:01:13.796636-04:00.lighthouse.json) |
 | [October 2 at 6:43 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-10-02T06:43:36.482683-04:00.lighthouse.json) |
 | [October 1 at 6:58 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-10-01T18:57:48.686093-04:00.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 29 at 7:00 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-09-29T19:00:42.355760-04:00.lighthouse.json) |
 | [September 29 at 6:53 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-09-29T06:53:16.563140-04:00.lighthouse.json) |
 | [September 28 at 6:55 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-09-28T18:55:17.138071-04:00.lighthouse.json) |
-| [September 28 at 7:05 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-09-28T07:05:01.819755-04:00.lighthouse.json) |
 
 
 
