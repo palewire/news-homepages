@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 23 screenshots with the Internet Archive.
+The archiving routine has saved 25 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/callerdotcom-2022/callerdotcom-2022-10-03T00:01:56.215747-05:00.jpg">
+  <img src="https://archive.org/download/callerdotcom-2022/callerdotcom-2022-10-03T00:01:56.215747-05:00.jpg"
+     alt="Corpus Christi Caller Times at 2022-10-03 00:02:00-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/callerdotcom-2022/callerdotcom-2022-10-03T00:01:56.215747-05:00.jpg">October 3 at 12:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/callerdotcom-2022/callerdotcom-2022-10-02T11:03:44.044211-05:00.jpg">
+  <img src="https://archive.org/download/callerdotcom-2022/callerdotcom-2022-10-02T11:03:44.044211-05:00.jpg"
+     alt="Corpus Christi Caller Times at 2022-10-02 11:03:45-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/callerdotcom-2022/callerdotcom-2022-10-02T11:03:44.044211-05:00.jpg">October 2 at 11:03 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/callerdotcom-2022/callerdotcom-2022-10-02T00:49:26.348911-05:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-27T11:06:33.460058-05:00.jpg">September 27 at 11:06 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-26T23:30:28.642739-05:00.jpg">
-  <img src="https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-26T23:30:28.642739-05:00.jpg"
-     alt="Corpus Christi Caller Times at 2022-09-26 23:30:32-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-26T23:30:28.642739-05:00.jpg">September 26 at 11:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-26T11:06:29.580715-05:00.jpg">
-  <img src="https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-26T11:06:29.580715-05:00.jpg"
-     alt="Corpus Christi Caller Times at 2022-09-26 11:06:31-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-26T11:06:29.580715-05:00.jpg">September 26 at 11:06 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 23 hyperlink lists with the Internet Archive.
+The archiving routine has saved 25 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 3 at 12:02 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-10-03T00:01:56.215747-05:00.hyperlinks.json) |
+| [October 2 at 11:03 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-10-02T11:03:44.044211-05:00.hyperlinks.json) |
 | [October 2 at 12:49 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-10-02T00:49:26.348911-05:00.hyperlinks.json) |
 | [October 1 at 11:09 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-10-01T11:09:27.041208-05:00.hyperlinks.json) |
 | [September 30 at 11:42 PM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-30T23:42:07.604713-05:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 29 at 11:08 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-29T11:08:04.172289-05:00.hyperlinks.json) |
 | [September 29 at 12:22 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-29T00:22:07.521051-05:00.hyperlinks.json) |
 | [September 28 at 11:17 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-28T11:17:17.217395-05:00.hyperlinks.json) |
-| [September 28 at 1:05 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-28T01:05:45.405495-05:00.hyperlinks.json) |
-| [September 27 at 11:06 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-27T11:06:33.460058-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 23 accessibility trees with the Internet Archive.
+The archiving routine has saved 25 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 3 at 12:02 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-10-03T00:01:56.215747-05:00.accessibility.json) |
+| [October 2 at 11:03 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-10-02T11:03:44.044211-05:00.accessibility.json) |
 | [October 2 at 12:49 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-10-02T00:49:26.348911-05:00.accessibility.json) |
 | [October 1 at 11:09 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-10-01T11:09:27.041208-05:00.accessibility.json) |
 | [September 30 at 11:42 PM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-30T23:42:07.604713-05:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 29 at 11:08 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-29T11:08:04.172289-05:00.accessibility.json) |
 | [September 29 at 12:22 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-29T00:22:07.521051-05:00.accessibility.json) |
 | [September 28 at 11:17 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-28T11:17:17.217395-05:00.accessibility.json) |
-| [September 28 at 1:05 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-28T01:05:45.405495-05:00.accessibility.json) |
-| [September 27 at 11:06 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-27T11:06:33.460058-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 3 at 12:02 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-10-03T00:01:56.215747-05:00.lighthouse.json) |
+| [October 2 at 11:03 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-10-02T11:03:44.044211-05:00.lighthouse.json) |
 | [October 2 at 12:49 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-10-02T00:49:26.348911-05:00.lighthouse.json) |
 | [October 1 at 11:09 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-10-01T11:09:27.041208-05:00.lighthouse.json) |
 | [September 30 at 11:42 PM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-30T23:42:07.604713-05:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 29 at 11:08 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-29T11:08:04.172289-05:00.lighthouse.json) |
 | [September 29 at 12:22 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-29T00:22:07.521051-05:00.lighthouse.json) |
 | [September 28 at 11:17 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-28T11:17:17.217395-05:00.lighthouse.json) |
-| [September 28 at 1:05 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-28T01:05:45.405495-05:00.lighthouse.json) |
-| [September 27 at 11:06 AM](https://archive.org/download/callerdotcom-2022/callerdotcom-2022-09-27T11:06:33.460058-05:00.lighthouse.json) |
 
 
 

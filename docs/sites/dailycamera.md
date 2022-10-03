@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 99 screenshots with the Internet Archive.
+The archiving routine has saved 101 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/dailycamera-2022/dailycamera-2022-10-02T23:56:52.076046-06:00.jpg">
+  <img src="https://archive.org/download/dailycamera-2022/dailycamera-2022-10-02T23:56:52.076046-06:00.jpg"
+     alt="Daily Camera at 2022-10-02 23:57:01-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailycamera-2022/dailycamera-2022-10-02T23:56:52.076046-06:00.jpg">October 2 at 11:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailycamera-2022/dailycamera-2022-10-02T11:36:47.632136-06:00.jpg">
+  <img src="https://archive.org/download/dailycamera-2022/dailycamera-2022-10-02T11:36:47.632136-06:00.jpg"
+     alt="Daily Camera at 2022-10-02 11:36:52-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailycamera-2022/dailycamera-2022-10-02T11:36:47.632136-06:00.jpg">October 2 at 11:36 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/dailycamera-2022/dailycamera-2022-10-01T23:53:22.473316-06:00.jpg">
   <img src="https://archive.org/download/dailycamera-2022/dailycamera-2022-10-01T23:53:22.473316-06:00.jpg"
      alt="Daily Camera at 2022-10-01 23:53:28-06:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailycamera-2022/dailycamera-2022-09-27T11:43:54.812062-06:00.jpg">September 27 at 11:43 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailycamera-2022/dailycamera-2022-09-27T00:57:55.744167-06:00.jpg">
-  <img src="https://archive.org/download/dailycamera-2022/dailycamera-2022-09-27T00:57:55.744167-06:00.jpg"
-     alt="Daily Camera at 2022-09-27 00:58:02-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailycamera-2022/dailycamera-2022-09-27T00:57:55.744167-06:00.jpg">September 27 at 12:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailycamera-2022/dailycamera-2022-09-26T11:36:55.730231-06:00.jpg">
-  <img src="https://archive.org/download/dailycamera-2022/dailycamera-2022-09-26T11:36:55.730231-06:00.jpg"
-     alt="Daily Camera at 2022-09-26 11:37:00-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailycamera-2022/dailycamera-2022-09-26T11:36:55.730231-06:00.jpg">September 26 at 11:37 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 99 hyperlink lists with the Internet Archive.
+The archiving routine has saved 101 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 11:57 PM](https://archive.org/download/dailycamera-2022/dailycamera-2022-10-02T23:56:52.076046-06:00.hyperlinks.json) |
+| [October 2 at 11:36 AM](https://archive.org/download/dailycamera-2022/dailycamera-2022-10-02T11:36:47.632136-06:00.hyperlinks.json) |
 | [October 1 at 11:53 PM](https://archive.org/download/dailycamera-2022/dailycamera-2022-10-01T23:53:22.473316-06:00.hyperlinks.json) |
 | [October 1 at 11:39 AM](https://archive.org/download/dailycamera-2022/dailycamera-2022-10-01T11:39:25.521379-06:00.hyperlinks.json) |
 | [October 1 at 1:40 AM](https://archive.org/download/dailycamera-2022/dailycamera-2022-10-01T01:40:23.391705-06:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 29 at 11:39 AM](https://archive.org/download/dailycamera-2022/dailycamera-2022-09-29T11:39:51.841201-06:00.hyperlinks.json) |
 | [September 29 at 12:10 AM](https://archive.org/download/dailycamera-2022/dailycamera-2022-09-29T00:10:35.706699-06:00.hyperlinks.json) |
 | [September 28 at 11:48 AM](https://archive.org/download/dailycamera-2022/dailycamera-2022-09-28T11:48:17.896426-06:00.hyperlinks.json) |
-| [September 28 at 12:15 AM](https://archive.org/download/dailycamera-2022/dailycamera-2022-09-28T00:15:46.159484-06:00.hyperlinks.json) |
-| [September 27 at 11:44 AM](https://archive.org/download/dailycamera-2022/dailycamera-2022-09-27T11:43:54.812062-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 99 accessibility trees with the Internet Archive.
+The archiving routine has saved 101 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 11:57 PM](https://archive.org/download/dailycamera-2022/dailycamera-2022-10-02T23:56:52.076046-06:00.accessibility.json) |
+| [October 2 at 11:36 AM](https://archive.org/download/dailycamera-2022/dailycamera-2022-10-02T11:36:47.632136-06:00.accessibility.json) |
 | [October 1 at 11:53 PM](https://archive.org/download/dailycamera-2022/dailycamera-2022-10-01T23:53:22.473316-06:00.accessibility.json) |
 | [October 1 at 11:39 AM](https://archive.org/download/dailycamera-2022/dailycamera-2022-10-01T11:39:25.521379-06:00.accessibility.json) |
 | [October 1 at 1:40 AM](https://archive.org/download/dailycamera-2022/dailycamera-2022-10-01T01:40:23.391705-06:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 29 at 11:39 AM](https://archive.org/download/dailycamera-2022/dailycamera-2022-09-29T11:39:51.841201-06:00.accessibility.json) |
 | [September 29 at 12:10 AM](https://archive.org/download/dailycamera-2022/dailycamera-2022-09-29T00:10:35.706699-06:00.accessibility.json) |
 | [September 28 at 11:48 AM](https://archive.org/download/dailycamera-2022/dailycamera-2022-09-28T11:48:17.896426-06:00.accessibility.json) |
-| [September 28 at 12:15 AM](https://archive.org/download/dailycamera-2022/dailycamera-2022-09-28T00:15:46.159484-06:00.accessibility.json) |
-| [September 27 at 11:43 AM](https://archive.org/download/dailycamera-2022/dailycamera-2022-09-27T11:43:54.812062-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 99 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 101 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 11:57 PM](https://archive.org/download/dailycamera-2022/dailycamera-2022-10-02T23:56:52.076046-06:00.lighthouse.json) |
+| [October 2 at 11:36 AM](https://archive.org/download/dailycamera-2022/dailycamera-2022-10-02T11:36:47.632136-06:00.lighthouse.json) |
 | [October 1 at 11:53 PM](https://archive.org/download/dailycamera-2022/dailycamera-2022-10-01T23:53:22.473316-06:00.lighthouse.json) |
 | [October 1 at 11:39 AM](https://archive.org/download/dailycamera-2022/dailycamera-2022-10-01T11:39:25.521379-06:00.lighthouse.json) |
 | [October 1 at 1:40 AM](https://archive.org/download/dailycamera-2022/dailycamera-2022-10-01T01:40:23.391705-06:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 29 at 11:40 AM](https://archive.org/download/dailycamera-2022/dailycamera-2022-09-29T11:39:51.841201-06:00.lighthouse.json) |
 | [September 29 at 12:10 AM](https://archive.org/download/dailycamera-2022/dailycamera-2022-09-29T00:10:35.706699-06:00.lighthouse.json) |
 | [September 28 at 11:48 AM](https://archive.org/download/dailycamera-2022/dailycamera-2022-09-28T11:48:17.896426-06:00.lighthouse.json) |
-| [September 28 at 12:15 AM](https://archive.org/download/dailycamera-2022/dailycamera-2022-09-28T00:15:46.159484-06:00.lighthouse.json) |
-| [September 27 at 11:44 AM](https://archive.org/download/dailycamera-2022/dailycamera-2022-09-27T11:43:54.812062-06:00.lighthouse.json) |
 
 
 
