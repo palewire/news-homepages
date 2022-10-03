@@ -1,5 +1,5 @@
 {
-  "created": 1664695018,
+  "created": 1664782591,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/13/items/theledger-2022",
@@ -1493,31 +1493,155 @@
       "format": "JSON"
     },
     {
+      "name": "theledger-2022-10-02T03:16:04.510238-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theledger-2022-10-02T03:16:04.510238-04:00.jpg",
+      "mtime": "1664695678",
+      "size": "9193",
+      "md5": "e85224d3faf14896fc6fc8e870d5f66c",
+      "crc32": "2e39eef6",
+      "sha1": "12f84764896c27f7ff7f70345e8353532f575c4d"
+    },
+    {
+      "name": "theledger-2022-10-02T15:38:58.938167-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664739544",
+      "size": "21926",
+      "md5": "2ddfe4f0f5ddf9577f5c5120646c735b",
+      "crc32": "5baf2140",
+      "sha1": "47fa4b3aebb78a3d7ab415bf48dbf3005d04ac8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theledger-2022-10-02T15:38:58.938167-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664739546",
+      "size": "19771",
+      "md5": "0e0c6200231973581fae82c25b7e2878",
+      "crc32": "5d1ffd8f",
+      "sha1": "6aa3107c662ee01a110bbff91a10bdfcb6088ba4",
+      "format": "JSON"
+    },
+    {
+      "name": "theledger-2022-10-02T15:38:58.938167-04:00.jpg",
+      "source": "original",
+      "mtime": "1664739543",
+      "size": "326954",
+      "md5": "635289d102e26e839469db4a4e04595d",
+      "crc32": "31bf2045",
+      "sha1": "09462c31cd099e9a5690e186e4b1f657a461c29c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theledger-2022-10-02T15:38:58.938167-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664739547",
+      "size": "1486",
+      "md5": "4b1f10fd1d342f9cbf8e137946d88f08",
+      "crc32": "dbf90e66",
+      "sha1": "f590aa807d5b208ac8cb210e6e449ca6e20441e2",
+      "format": "JSON"
+    },
+    {
+      "name": "theledger-2022-10-02T15:38:58.938167-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664739549",
+      "size": "206",
+      "md5": "9336ce5c31946b1eedfd84a0ee79e942",
+      "crc32": "68c6e6f5",
+      "sha1": "fcd91f6ec1335c1df5ef883a87a29454c0af36d8",
+      "format": "JSON"
+    },
+    {
+      "name": "theledger-2022-10-02T15:38:58.938167-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theledger-2022-10-02T15:38:58.938167-04:00.jpg",
+      "mtime": "1664740031",
+      "size": "9581",
+      "md5": "1e1a44eca8799295653abb0e1ed581ac",
+      "crc32": "25086068",
+      "sha1": "1a852aa72364a8409cd7c02e4df3fde68ae2add5"
+    },
+    {
+      "name": "theledger-2022-10-03T03:30:44.930097-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664782248",
+      "size": "22111",
+      "md5": "90a956920d1b1e6a2305c3295be6cbe6",
+      "crc32": "3bc6a95c",
+      "sha1": "d2a19ffa4bfbc1ef5049249b42c4ddd0b6f8ebde",
+      "format": "JSON"
+    },
+    {
+      "name": "theledger-2022-10-03T03:30:44.930097-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664782249",
+      "size": "34396",
+      "md5": "83b0f5e49e3db6ea1fa9e3d145676cf0",
+      "crc32": "caf1e740",
+      "sha1": "d4442c883f4c747586e1f7084b8ae7b152c91bb8",
+      "format": "JSON"
+    },
+    {
+      "name": "theledger-2022-10-03T03:30:44.930097-04:00.jpg",
+      "source": "original",
+      "mtime": "1664782247",
+      "size": "265243",
+      "md5": "ad3621c51fe0060eab523e3b37f0eaf9",
+      "crc32": "ddd3080b",
+      "sha1": "050303d369521329593428308ed25811e9f58f74",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theledger-2022-10-03T03:30:44.930097-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664782251",
+      "size": "1486",
+      "md5": "37a84735c8cbd35cdb4d35bae2bb4b6c",
+      "crc32": "bf700474",
+      "sha1": "0945891435dc17510790657c92d078a0c2c322d1",
+      "format": "JSON"
+    },
+    {
+      "name": "theledger-2022-10-03T03:30:44.930097-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664782253",
+      "size": "252584",
+      "md5": "c36b2ad71da9bc155044246ab78a248b",
+      "crc32": "41259d58",
+      "sha1": "5a735fb73a78ecf2effd5eed8be74d6a41b361fe",
+      "format": "JSON"
+    },
+    {
       "name": "theledger-2022_archive.torrent",
       "source": "metadata",
-      "btih": "02df8d80aa2c1c4647d01cfa3b6dc96c5b868cee",
-      "mtime": "1664695015",
-      "size": "31856",
-      "md5": "1e3d3203d971de935d981766a6e778e7",
-      "crc32": "b331aabf",
-      "sha1": "5373991b0e0347d451a0f709dfa9d3e7312e0a6d",
+      "btih": "a589dbd1f4c6fab7653c1efc28318d34ae57a575",
+      "mtime": "1664782525",
+      "size": "34401",
+      "md5": "71e6d9b9270118443ac342e73c3bdb1f",
+      "crc32": "e35f5e0e",
+      "sha1": "60402fad3eb448c1ff404cb9848f87f3724e5e45",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theledger-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8a541f8aae4094c18457ecaac23b5cf4",
+      "md5": "dc842c709420fd16528cc99ce90ccc67",
       "summation": "md5"
     },
     {
       "name": "theledger-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664694980",
-      "size": "204800",
-      "md5": "9336a9a75f02745a5eef8bad382c2e2d",
-      "crc32": "cf6c8062",
-      "sha1": "905556e09e6f305b8afcf51c6b231c264db66922",
+      "mtime": "1664782489",
+      "size": "225280",
+      "md5": "d2e4b410fc4a4821ee5ceb25f3e36b58",
+      "crc32": "d101d049",
+      "sha1": "3654866efed9b6cdec1a803290ee629788270d5a",
       "format": "Metadata"
     },
     {
@@ -1531,9 +1655,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 148,
-  "item_last_updated": 1664695015,
-  "item_size": 9968826,
+  "files_count": 160,
+  "item_last_updated": 1664782525,
+  "item_size": 10956788,
   "metadata": {
     "identifier": "theledger-2022",
     "collection": [
@@ -1555,15 +1679,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3425565886,
+      "task_id": 3426691533,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 2142290603,
+  "uniq": 1711743319,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

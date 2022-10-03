@@ -1,6 +1,5 @@
 {
-  "conflict": 1664740029,
-  "created": 1664740029,
+  "created": 1664782367,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/5/items/thebafflermag-2022",
@@ -13073,31 +13072,82 @@
       "sha1": "45acc6c225931491e4e6783763db6224b360b2de"
     },
     {
+      "name": "thebafflermag-2022-10-03T03:28:43.724676-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664782127",
+      "size": "14940",
+      "md5": "34456827a5b5ae5f92a67312296beac3",
+      "crc32": "26f684b5",
+      "sha1": "be1c8a31455724c4c39d79693f9b65b6ee2b809d",
+      "format": "JSON"
+    },
+    {
+      "name": "thebafflermag-2022-10-03T03:28:43.724676-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664782132",
+      "size": "18899",
+      "md5": "ae03855db5fb1ca1c82cd24762cc9aeb",
+      "crc32": "d19fa476",
+      "sha1": "9969439754940c7307c0c374e714099672206491",
+      "format": "JSON"
+    },
+    {
+      "name": "thebafflermag-2022-10-03T03:28:43.724676-04:00.jpg",
+      "source": "original",
+      "mtime": "1664782125",
+      "size": "224943",
+      "md5": "068414bde22b9195dfc3635f29951d90",
+      "crc32": "fcfcd7b1",
+      "sha1": "2519139053932596bc390446a0fcdfdfbdf6f425",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thebafflermag-2022-10-03T03:28:43.724676-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664782134",
+      "size": "1456",
+      "md5": "60afcd8e53533d79dcd0e6eeb2bb2797",
+      "crc32": "8d30c224",
+      "sha1": "9091064d6bd29254b82a5e8a3b42fae6f7b64226",
+      "format": "JSON"
+    },
+    {
+      "name": "thebafflermag-2022-10-03T03:28:43.724676-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664782135",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "thebafflermag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e42b7fbb939d20818ea68a0a1f90ebded946da93",
-      "mtime": "1664740025",
-      "size": "272642",
-      "md5": "2e31eaa126888a91fd368e8b7d59ff74",
-      "crc32": "5cea7913",
-      "sha1": "d3b6ef0ed0a78c16f19c87c1ad0fc8da1efc818c",
+      "btih": "7a4f6e54d3bd378ba6b8e0ce492a2265f21fde3e",
+      "mtime": "1664782307",
+      "size": "273728",
+      "md5": "c61a3bbbc5b1bd0416684f06d08b8482",
+      "crc32": "ce28e10b",
+      "sha1": "dc1bff7eb1d0ed8d003f04fa65e5d88db10c0c37",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thebafflermag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "593eb4103ce8491e43d588775c04d9fa",
+      "md5": "7d32733a04f7ce213c87359c2c95ecbd",
       "summation": "md5"
     },
     {
       "name": "thebafflermag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664739848",
-      "size": "1609728",
-      "md5": "d73efaa2b52ed88f60a8db57f21bbb77",
-      "crc32": "53bab6d3",
-      "sha1": "d5ac21bf8da79891af6811a310d4da9395a20019",
+      "mtime": "1664782246",
+      "size": "1617920",
+      "md5": "c9c26614cf111470a04cd1e995344c30",
+      "crc32": "e308d028",
+      "sha1": "83afca7ead10da059f3f4c7d5cb0177979e55425",
       "format": "Metadata"
     },
     {
@@ -13111,9 +13161,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1266,
-  "item_last_updated": 1664740025,
-  "item_size": 73531630,
+  "files_count": 1271,
+  "item_last_updated": 1664782307,
+  "item_size": 73801348,
   "metadata": {
     "identifier": "thebafflermag-2022",
     "collection": [
@@ -13135,23 +13185,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426106085,
+      "task_id": 3426687877,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3426107692,
-      "cmd": "bup.php",
-      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 910945217,
+  "uniq": 1788974503,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]
