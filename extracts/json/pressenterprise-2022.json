@@ -1,6 +1,5 @@
 {
-  "conflict": 1664740237,
-  "created": 1664740237,
+  "created": 1664782896,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/25/items/pressenterprise-2022",
@@ -23491,31 +23490,82 @@
       "sha1": "06c6d60b53088351bfff22b0ba67773d4fffc5b0"
     },
     {
+      "name": "pressenterprise-2022-10-03T00:39:26.874578-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664782780",
+      "size": "40627",
+      "md5": "77859d5eae0871929fb0e523d00636ae",
+      "crc32": "7413c9b4",
+      "sha1": "a9981bc96a1cc4bb16cd7dfffaec062523d881a4",
+      "format": "JSON"
+    },
+    {
+      "name": "pressenterprise-2022-10-03T00:39:26.874578-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664782782",
+      "size": "46884",
+      "md5": "fdec42c1c99a7d7d9083161eed659f23",
+      "crc32": "fb197c6a",
+      "sha1": "dbe0d649749187da4b6620ae17eddaadf0ee99dd",
+      "format": "JSON"
+    },
+    {
+      "name": "pressenterprise-2022-10-03T00:39:26.874578-07:00.jpg",
+      "source": "original",
+      "mtime": "1664782778",
+      "size": "271695",
+      "md5": "537d34a8da0a060904d7e20aa2e5245d",
+      "crc32": "aab5418e",
+      "sha1": "1d2997e6fc222effa5133c4f628956118d267b33",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pressenterprise-2022-10-03T00:39:26.874578-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664782783",
+      "size": "1423",
+      "md5": "29d1242a9111c97a90fe47ea24c5ba78",
+      "crc32": "dbd73d61",
+      "sha1": "c8f2f26e3c88eb4dee8251d73c389e7e47c3d048",
+      "format": "JSON"
+    },
+    {
+      "name": "pressenterprise-2022-10-03T00:39:26.874578-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664782785",
+      "size": "44605",
+      "md5": "3fa9416576f428c6a7858bc0db6aa2dc",
+      "crc32": "5adb1366",
+      "sha1": "7d32753178b6a2d561ed5e4c6b737956f825fc59",
+      "format": "JSON"
+    },
+    {
       "name": "pressenterprise-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e7494eddd26e8b51c3e60732a7204e72ee348854",
-      "mtime": "1664740231",
-      "size": "492293",
-      "md5": "7b32ddbbb4f5c3b063859067c874fc1a",
-      "crc32": "c3800c70",
-      "sha1": "e82180970ce679381a2585af0f116a7f416d038d",
+      "btih": "d78276a22e957b79cea6b3e50e4f06b935f0e113",
+      "mtime": "1664782890",
+      "size": "493391",
+      "md5": "e8c745947784475f412a570bbca09cd5",
+      "crc32": "e8bc0d68",
+      "sha1": "78de693812095c6f73582d3fd78b121b6b257634",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pressenterprise-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e92eb4397167d1bf9a655823e491ea93",
+      "md5": "68db84e1d41af8cd7b5e12fbfd7adfa4",
       "summation": "md5"
     },
     {
       "name": "pressenterprise-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664739978",
-      "size": "2744320",
-      "md5": "dcb7ce50f6e732a74e0e14533d730c50",
-      "crc32": "cf76ff0b",
-      "sha1": "48001b140d7d72f01c81d86073444adb317bf71d",
+      "mtime": "1664782800",
+      "size": "2752512",
+      "md5": "972dd4dab3fde221a2d947a4051a1de2",
+      "crc32": "2586fdb0",
+      "sha1": "cb9daf9beec954876e8f79583be56dc3cecaa046",
       "format": "Metadata"
     },
     {
@@ -23529,9 +23579,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2257,
-  "item_last_updated": 1664740231,
-  "item_size": 201028800,
+  "files_count": 2262,
+  "item_last_updated": 1664782890,
+  "item_size": 201443324,
   "metadata": {
     "identifier": "pressenterprise-2022",
     "collection": [
@@ -23553,23 +23603,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426108172,
+      "task_id": 3426694476,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3426110261,
-      "cmd": "bup.php",
-      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 944032249,
+  "uniq": 1211682325,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]
