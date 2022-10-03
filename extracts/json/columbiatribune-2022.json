@@ -1,5 +1,5 @@
 {
-  "created": 1664691399,
+  "created": 1664777445,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/8/items/columbiatribune-2022",
@@ -1494,31 +1494,155 @@
       "sha1": "7ed18912c8f0e12540095e855f29a455d4244690"
     },
     {
+      "name": "columbiatribune-2022-10-02T12:34:55.491941-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664732102",
+      "size": "22304",
+      "md5": "0ce599ffdbd40b9f240182e2ad7efcd2",
+      "crc32": "b3019f35",
+      "sha1": "a65864988ab9be213f9976d103f644541898ba3f",
+      "format": "JSON"
+    },
+    {
+      "name": "columbiatribune-2022-10-02T12:34:55.491941-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664732105",
+      "size": "34107",
+      "md5": "bfa51d27e9252a44c642220f8997cbd0",
+      "crc32": "9ed3953e",
+      "sha1": "3acff4fefd8636bb8bd6b00538ae427523420d7a",
+      "format": "JSON"
+    },
+    {
+      "name": "columbiatribune-2022-10-02T12:34:55.491941-05:00.jpg",
+      "source": "original",
+      "mtime": "1664732100",
+      "size": "281762",
+      "md5": "a9913f00f0f1ddec4711fb7d9fdc9750",
+      "crc32": "dbd41ca7",
+      "sha1": "a54bd5ee1eebb4beeb0ca5cacd9d1daf534e5f60",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "columbiatribune-2022-10-02T12:34:55.491941-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664732106",
+      "size": "1540",
+      "md5": "f06d19e206c75491721a609ec4fb081b",
+      "crc32": "f16730f8",
+      "sha1": "7905b55c24c5354e6b5c2888843169d18d93722a",
+      "format": "JSON"
+    },
+    {
+      "name": "columbiatribune-2022-10-02T12:34:55.491941-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664732108",
+      "size": "80257",
+      "md5": "4c49985c01db130813496d04d6e41a05",
+      "crc32": "c4d0809d",
+      "sha1": "80a6ce187023f09b93d95689bb06a83e38ab25fa",
+      "format": "JSON"
+    },
+    {
+      "name": "columbiatribune-2022-10-02T12:34:55.491941-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "columbiatribune-2022-10-02T12:34:55.491941-05:00.jpg",
+      "mtime": "1664732173",
+      "size": "10033",
+      "md5": "8c96e672e0c2f7270b5d22904ec6c07e",
+      "crc32": "5563bb54",
+      "sha1": "f651f6e2a69a1907757ff58b5147653b4f88dc0a"
+    },
+    {
+      "name": "columbiatribune-2022-10-03T00:56:14.482856-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664776578",
+      "size": "22906",
+      "md5": "10a45d9f44b4ce205a1548fde0db07cd",
+      "crc32": "d8225c54",
+      "sha1": "59a7ec99690c4abee156c184a23073d3c40d6b5d",
+      "format": "JSON"
+    },
+    {
+      "name": "columbiatribune-2022-10-03T00:56:14.482856-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664776580",
+      "size": "32188",
+      "md5": "5a70f789c33208f0d09289e595151b75",
+      "crc32": "434bae5d",
+      "sha1": "2b3eb116f1d9705c408fbaf38f93bef2ba5eb794",
+      "format": "JSON"
+    },
+    {
+      "name": "columbiatribune-2022-10-03T00:56:14.482856-05:00.jpg",
+      "source": "original",
+      "mtime": "1664776577",
+      "size": "269911",
+      "md5": "18331c68698ac4cf2b6edb5933ad55fe",
+      "crc32": "2ae073b5",
+      "sha1": "d930bae85503fd714effd0cc0e7ee16e4cb4a547",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "columbiatribune-2022-10-03T00:56:14.482856-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664776582",
+      "size": "1540",
+      "md5": "57a295f83e65c5c0c6bba3f61b943b3d",
+      "crc32": "fd18810e",
+      "sha1": "51ed610e4f611a7ce195c41d3983dbc226f82f8a",
+      "format": "JSON"
+    },
+    {
+      "name": "columbiatribune-2022-10-03T00:56:14.482856-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664776583",
+      "size": "88732",
+      "md5": "a4a2149a0b643e0890824efcc3771fd1",
+      "crc32": "29e05dce",
+      "sha1": "bb0a358972d416342661acedb9ce18ac4d2ee22e",
+      "format": "JSON"
+    },
+    {
+      "name": "columbiatribune-2022-10-03T00:56:14.482856-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "columbiatribune-2022-10-03T00:56:14.482856-05:00.jpg",
+      "mtime": "1664777303",
+      "size": "9382",
+      "md5": "fc5092f76d80cbe877b981b47fb8a0dd",
+      "crc32": "aee41ceb",
+      "sha1": "451e361bd36dba912962c52a842d0ecaabea2a1f"
+    },
+    {
       "name": "columbiatribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8a322815667c88fcaf4fe86856cb09178841aad6",
-      "mtime": "1664691340",
-      "size": "32843",
-      "md5": "29411ca27499d7327d938c312b658a91",
-      "crc32": "fc76b64d",
-      "sha1": "197e52f0b34809baadbe52eef3ffc5fc29a25812",
+      "btih": "2db152e779539f0bd0959c0836e1edc4fe77a066",
+      "mtime": "1664777328",
+      "size": "35442",
+      "md5": "a05ba31729c89123a23fd4c63d96aaa1",
+      "crc32": "5916402b",
+      "sha1": "40ffc8fd362fe1483b587fdf2bf06e2530f07119",
       "format": "Archive BitTorrent"
     },
     {
       "name": "columbiatribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ab42838a618e73c4e40dad88648feb47",
+      "md5": "598d237deca8674af82813c940e4dce8",
       "summation": "md5"
     },
     {
       "name": "columbiatribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664689925",
-      "size": "208896",
-      "md5": "ff0f5185079ba62373777e65bfb6a88a",
-      "crc32": "87e7bdc2",
-      "sha1": "a961312b63e76e9ae330f384105c5acbe5fca68a",
+      "mtime": "1664776589",
+      "size": "221184",
+      "md5": "d03ae5b7a9d5a8cadfb306a0e9aaaa14",
+      "crc32": "95d58bbd",
+      "sha1": "cc207098c320c28f0605fae12ab8c52b11a82a18",
       "format": "Metadata"
     },
     {
@@ -1532,9 +1656,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 148,
-  "item_last_updated": 1664691340,
-  "item_size": 11197100,
+  "files_count": 160,
+  "item_last_updated": 1664777328,
+  "item_size": 12066649,
   "metadata": {
     "identifier": "columbiatribune-2022",
     "collection": [
@@ -1552,7 +1676,7 @@
     "addeddate": "2022-09-20 17:40:34"
   },
   "server": "ia601404.us.archive.org",
-  "uniq": 1450579972,
+  "uniq": 342879153,
   "workable_servers": [
     "ia601404.us.archive.org",
     "ia801404.us.archive.org"

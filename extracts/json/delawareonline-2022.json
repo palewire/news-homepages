@@ -1,5 +1,5 @@
 {
-  "created": 1664691582,
+  "created": 1664778031,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/18/items/delawareonline-2022",
@@ -2372,31 +2372,155 @@
       "sha1": "b9ebabba35d1dbc68a0e9cefbc3aef1e82a28ba8"
     },
     {
+      "name": "delawareonline-2022-10-02T13:40:35.276847-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664732443",
+      "size": "21501",
+      "md5": "2fea36b0e44a3e558ba6b3c7856c7081",
+      "crc32": "8c1f968e",
+      "sha1": "271a64c3b6c72965cd73f943dea5b4db0cef6957",
+      "format": "JSON"
+    },
+    {
+      "name": "delawareonline-2022-10-02T13:40:35.276847-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664732445",
+      "size": "35697",
+      "md5": "305879f22030aeb7a045dce9085c9bc0",
+      "crc32": "0671aef6",
+      "sha1": "7bba9291fa2d54352228559e5ca2bbb8b8afc263",
+      "format": "JSON"
+    },
+    {
+      "name": "delawareonline-2022-10-02T13:40:35.276847-04:00.jpg",
+      "source": "original",
+      "mtime": "1664732442",
+      "size": "251658",
+      "md5": "a1c2555abde31485952d120f459a5908",
+      "crc32": "97603dae",
+      "sha1": "693666d823a7c107aa8cd96d8187570469433c3a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "delawareonline-2022-10-02T13:40:35.276847-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664732446",
+      "size": "1530",
+      "md5": "2ac3913ff03ba6f9d3afcc6a61e2b7a6",
+      "crc32": "ec0e7d85",
+      "sha1": "8d45cb16809854347b7c5cf99275a342589f1831",
+      "format": "JSON"
+    },
+    {
+      "name": "delawareonline-2022-10-02T13:40:35.276847-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664732448",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "delawareonline-2022-10-02T13:40:35.276847-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "delawareonline-2022-10-02T13:40:35.276847-04:00.jpg",
+      "mtime": "1664732582",
+      "size": "9341",
+      "md5": "c37bed8c4f30b741870b0f24b175ef3a",
+      "crc32": "8a8615ef",
+      "sha1": "082489e2493868fa0edd414d285200128b448cd7"
+    },
+    {
+      "name": "delawareonline-2022-10-03T02:03:08.740266-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664776992",
+      "size": "21522",
+      "md5": "37b47dc9998e1292daa996b614a0a431",
+      "crc32": "a1bf4199",
+      "sha1": "5b35c1a69777465941c255c8e60fb2e39b474cbf",
+      "format": "JSON"
+    },
+    {
+      "name": "delawareonline-2022-10-03T02:03:08.740266-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664776993",
+      "size": "31702",
+      "md5": "570fa2b04a331aa5cea02e66de57e527",
+      "crc32": "323b3820",
+      "sha1": "60d8ad82440d3d3e30fe7ada333d3f5617b6b72b",
+      "format": "JSON"
+    },
+    {
+      "name": "delawareonline-2022-10-03T02:03:08.740266-04:00.jpg",
+      "source": "original",
+      "mtime": "1664776990",
+      "size": "254550",
+      "md5": "bccecc0819b330e85c04f632437c98b8",
+      "crc32": "c461f565",
+      "sha1": "4a11e42c9febbfaea1af430edf5cfb4b6414d394",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "delawareonline-2022-10-03T02:03:08.740266-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664776995",
+      "size": "1530",
+      "md5": "6aa30a4605fcd673e800b17c763a9274",
+      "crc32": "49a7f1c1",
+      "sha1": "8f06e94ec895fe3980d1288a932854d82acc6ab6",
+      "format": "JSON"
+    },
+    {
+      "name": "delawareonline-2022-10-03T02:03:08.740266-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664776997",
+      "size": "92768",
+      "md5": "5252f9fde36612b932fc09459a3ba1eb",
+      "crc32": "a514f2d9",
+      "sha1": "6f92e72c1e01aa048018df97f7b2ad333e633b1d",
+      "format": "JSON"
+    },
+    {
+      "name": "delawareonline-2022-10-03T02:03:08.740266-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "delawareonline-2022-10-03T02:03:08.740266-04:00.jpg",
+      "mtime": "1664777870",
+      "size": "9207",
+      "md5": "e60d756f8c91719e295ff42441816308",
+      "crc32": "de4191ef",
+      "sha1": "cd29956f4a60ea064951bf61b52edad612da6167"
+    },
+    {
       "name": "delawareonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "46350fcc72ac0bac5de77f6c6f02e5a86c0d5c37",
-      "mtime": "1664691471",
-      "size": "51007",
-      "md5": "5170fc4b6e086d8d17cffb3528822cb8",
-      "crc32": "a3a3046e",
-      "sha1": "6cefae3ea67e6a1f651aa00b505d1be350e0f813",
+      "btih": "e308a1b05be7440ca921238df15c7bba6c2d65b9",
+      "mtime": "1664777880",
+      "size": "53591",
+      "md5": "2c0698169b0ff5f9558038a99033018a",
+      "crc32": "45d68b2a",
+      "sha1": "5c8a9ea76339738dd8f4e25052401456e0ba6fb6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "delawareonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c866e710dc1ac5e4f4beedad810947a6",
+      "md5": "ff6ecc2aef8cdcd0c057d5d2a75d4c1e",
       "summation": "md5"
     },
     {
       "name": "delawareonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664690117",
-      "size": "315392",
-      "md5": "5ea1fe9ebd31b9fe67a79f43099d6a96",
-      "crc32": "d5c39a0a",
-      "sha1": "cd3135fba5908f2b284654b86e0764d02599faa1",
+      "mtime": "1664777001",
+      "size": "331776",
+      "md5": "999c78e470b6029ffc3e967ff3d332d9",
+      "crc32": "8ea27f66",
+      "sha1": "f819910126689922c96c1e3c4acd8a4a80937a12",
       "format": "Metadata"
     },
     {
@@ -2410,9 +2534,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 233,
-  "item_last_updated": 1664691471,
-  "item_size": 15295668,
+  "files_count": 245,
+  "item_last_updated": 1664777880,
+  "item_size": 16045844,
   "metadata": {
     "identifier": "delawareonline-2022",
     "collection": [
@@ -2430,7 +2554,7 @@
     "addeddate": "2022-09-14 03:48:08"
   },
   "server": "ia801502.us.archive.org",
-  "uniq": 1690422991,
+  "uniq": 1473622561,
   "workable_servers": [
     "ia801502.us.archive.org",
     "ia601502.us.archive.org"
