@@ -1,5 +1,5 @@
 {
-  "created": 1664740005,
+  "created": 1664776406,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/8/items/labornotes-2022",
@@ -12442,31 +12442,93 @@
       "sha1": "19e9b2dd545bce33827186c261a9c92192d4e3a3"
     },
     {
+      "name": "labornotes-2022-10-03T00:11:51.728463-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664773915",
+      "size": "12459",
+      "md5": "4678fd9360fc60a16d671a61ca8be945",
+      "crc32": "85ea971f",
+      "sha1": "22f7afd26487b9b10ae906d51f7e6f9e734c2bac",
+      "format": "JSON"
+    },
+    {
+      "name": "labornotes-2022-10-03T00:11:51.728463-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664773917",
+      "size": "8126",
+      "md5": "236347a74cc6811f13b32544fc4e709f",
+      "crc32": "5264d82e",
+      "sha1": "e0ef8cb64f5a55d972aaaf8c592bd8d5e0e90a33",
+      "format": "JSON"
+    },
+    {
+      "name": "labornotes-2022-10-03T00:11:51.728463-05:00.jpg",
+      "source": "original",
+      "mtime": "1664773913",
+      "size": "296814",
+      "md5": "f826e51fbb6d8c380f30bf12d32b877b",
+      "crc32": "d332956d",
+      "sha1": "7ec2e5cd9b66db8441d86f3286283a0fce7693c6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "labornotes-2022-10-03T00:11:51.728463-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664773918",
+      "size": "1495",
+      "md5": "3df2a4c7fdfbad340f34c58ec9be6eda",
+      "crc32": "07855ba7",
+      "sha1": "d042d9cec82782afdc17ac77b815bffe5df4c234",
+      "format": "JSON"
+    },
+    {
+      "name": "labornotes-2022-10-03T00:11:51.728463-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664773920",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "labornotes-2022-10-03T00:11:51.728463-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "labornotes-2022-10-03T00:11:51.728463-05:00.jpg",
+      "mtime": "1664775532",
+      "size": "9828",
+      "md5": "58502e7a6313b54caeaf53c1ab7fe7c9",
+      "crc32": "0fcdbc0b",
+      "sha1": "19e9b2dd545bce33827186c261a9c92192d4e3a3"
+    },
+    {
       "name": "labornotes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "30fef1ea19e0c0b1829587f016f47296e14251e6",
-      "mtime": "1664739994",
-      "size": "256116",
-      "md5": "a4b80d825161ebeefc20280f1d88ce2a",
-      "crc32": "87426dfd",
-      "sha1": "dfde498a0523954dfea0e12b72fd23ad9f92d9da",
+      "btih": "d80fa251f015bf3d2fca1468af093ce0dd1ed329",
+      "mtime": "1664775558",
+      "size": "257392",
+      "md5": "7bb317ce1c2935a50aab1e327968c9ce",
+      "crc32": "d3739200",
+      "sha1": "7adeb2d974d3b8eaeb612bc7b7fe4e9ef3dd1bc1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "labornotes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cffe165c8919c90850e2bfba853feaa2",
+      "md5": "e25fe8968a92b7ace07bd211336791ec",
       "summation": "md5"
     },
     {
       "name": "labornotes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664739836",
-      "size": "1531904",
-      "md5": "388438e5e00b798d7bc87c1659f1e5a2",
-      "crc32": "5266d8ad",
-      "sha1": "ab8b53add512368a190c5c11cced1ce0d67e162e",
+      "mtime": "1664773926",
+      "size": "1540096",
+      "md5": "e2e502feff906cecc5da71cb581af8cc",
+      "crc32": "acadf557",
+      "sha1": "f660a54f06b0e78a13908bec073b363f04133c89",
       "format": "Metadata"
     },
     {
@@ -12480,9 +12542,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1206,
-  "item_last_updated": 1664739994,
-  "item_size": 71544664,
+  "files_count": 1212,
+  "item_last_updated": 1664775558,
+  "item_size": 71883056,
+  "labornotes-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "labornotes-2022",
     "collection": [
@@ -12499,10 +12566,29 @@
     "publicdate": "2022-07-23 02:31:50",
     "addeddate": "2022-07-23 02:31:50"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 704706386,
+  "pending_tasks": true,
+  "server": "ia902503.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3426567660,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3426591591,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1586261428,
   "workable_servers": [
-    "ia802503.us.archive.org",
     "ia902503.us.archive.org"
   ]
 }

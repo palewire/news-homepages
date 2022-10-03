@@ -1,5 +1,5 @@
 {
-  "created": 1664731752,
+  "created": 1664774206,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/30/items/ithacajournal-2022",
@@ -1556,31 +1556,93 @@
       "sha1": "564ce62e68976ff254fa6e8ef2289cce6201f6a8"
     },
     {
+      "name": "ithacajournal-2022-10-03T01:06:33.888009-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664773597",
+      "size": "20939",
+      "md5": "78cf82b1d9642425f2d9e9f3daca914f",
+      "crc32": "ff7c9753",
+      "sha1": "8dec9cdce180043f662261b953b836bc9c812f49",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-03T01:06:33.888009-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664773598",
+      "size": "35619",
+      "md5": "002fc798f139e997fd28307d1b6a98bf",
+      "crc32": "583af61b",
+      "sha1": "7eee944eb8bfa03842b6b8c3021a0bb095e7f01a",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-03T01:06:33.888009-04:00.jpg",
+      "source": "original",
+      "mtime": "1664773595",
+      "size": "234266",
+      "md5": "fe39eb172d055bd81fd926458330be93",
+      "crc32": "4a570a81",
+      "sha1": "6dd3ac53ef22126c5482f8270d3f4584b75da605",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ithacajournal-2022-10-03T01:06:33.888009-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664773600",
+      "size": "1522",
+      "md5": "b95937e7749c79db2ebcaee4b2604355",
+      "crc32": "9ceda376",
+      "sha1": "559a450833e5a3141cd8662c6b33d597f626ce13",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-03T01:06:33.888009-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664773602",
+      "size": "121533",
+      "md5": "b479f709505b5fbaeb4ed207c3a30741",
+      "crc32": "a01cea26",
+      "sha1": "311cb75b42767f7da7fb8cd8947a002a8f112353",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-03T01:06:33.888009-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ithacajournal-2022-10-03T01:06:33.888009-04:00.jpg",
+      "mtime": "1664774102",
+      "size": "8839",
+      "md5": "baad102acccd7502f21c8c0dd312e5e9",
+      "crc32": "32a80443",
+      "sha1": "7517b07806bb04eb94f4f7f385c531c33b46632a"
+    },
+    {
       "name": "ithacajournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6750f44a7facbea664e6234008cbe05d620fd68b",
-      "mtime": "1664731738",
-      "size": "33761",
-      "md5": "46e789c9cb2ebdb544840f0a913c2d65",
-      "crc32": "f8ecf285",
-      "sha1": "e51d5769fd9c5582f58f863e79c86d1cfcedf0dc",
+      "btih": "4bf83c15384ff8e8dafd05b0a13e254722afd169",
+      "mtime": "1664774137",
+      "size": "35059",
+      "md5": "de37713e5526ab81ba8856aed6da8ffc",
+      "crc32": "107a1c57",
+      "sha1": "8aae9b1cc285b2ec812b1f09cbb31666bfb6cff0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ithacajournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b6b8202f1f7fc22cb5772bda3212e8a9",
+      "md5": "e321af48bd852e39f6236c0979387f7f",
       "summation": "md5"
     },
     {
       "name": "ithacajournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664731678",
-      "size": "217088",
-      "md5": "b29306dbd4f5739faa6383e774b788c5",
-      "crc32": "61e3fc58",
-      "sha1": "f73ce81bc41a5d66237d6ebbf2ac40b14f5cedbd",
+      "mtime": "1664773950",
+      "size": "221184",
+      "md5": "a199c7c3ffada12143f4907a76f9c96f",
+      "crc32": "6a4ea4a6",
+      "sha1": "383cd045e4706f2730a29f5de1ee4a6019424570",
       "format": "Metadata"
     },
     {
@@ -1594,9 +1656,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 154,
-  "item_last_updated": 1664731738,
-  "item_size": 10297389,
+  "files_count": 160,
+  "item_last_updated": 1664774137,
+  "item_size": 10725501,
   "metadata": {
     "identifier": "ithacajournal-2022",
     "collection": [
@@ -1613,10 +1675,10 @@
     "publicdate": "2022-09-20 17:31:27",
     "addeddate": "2022-09-20 17:31:27"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 1607440209,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1476711641,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }
