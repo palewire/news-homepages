@@ -1,5 +1,6 @@
 {
-  "created": 1664824723,
+  "conflict": 1664826836,
+  "created": 1664826836,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/22/items/voxdotcom-2022",
@@ -16037,6 +16038,17 @@
       "format": "JSON"
     },
     {
+      "name": "voxdotcom-2022-10-03T15:16:03.728426-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "voxdotcom-2022-10-03T15:16:03.728426-04:00.jpg",
+      "mtime": "1664826829",
+      "size": "8580",
+      "md5": "bf32d8b5ade3da16b78019c2cfa35afc",
+      "crc32": "8cf723d4",
+      "sha1": "26d7d8989891eab0ceabbc8e3f3daf81da2ef4e9"
+    },
+    {
       "name": "voxdotcom-2022_archive.torrent",
       "source": "metadata",
       "btih": "af5bfcb3af7e57d679ac3a720b875a5a34fc7bfd",
@@ -16051,7 +16063,7 @@
       "name": "voxdotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b591c794433241251f4f0c902403675a",
+      "md5": "64ae9bd9ff3b55ac8fbe4e0eed5b5885",
       "summation": "md5"
     },
     {
@@ -16075,9 +16087,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1549,
-  "item_last_updated": 1664824710,
-  "item_size": 115365283,
+  "files_count": 1550,
+  "item_last_updated": 1664826829,
+  "item_size": 115373863,
   "metadata": {
     "identifier": "voxdotcom-2022",
     "collection": [
@@ -16105,9 +16117,57 @@
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
+    },
+    {
+      "task_id": 3427328696,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3427328718,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3427328747,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3427328769,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3427328794,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3427328954,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1340990804,
+  "uniq": 2122529128,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

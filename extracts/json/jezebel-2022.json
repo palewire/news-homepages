@@ -1,5 +1,5 @@
 {
-  "created": 1664801820,
+  "created": 1664826914,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/18/items/jezebel-2022",
@@ -12615,31 +12615,93 @@
       "format": "JSON"
     },
     {
+      "name": "jezebel-2022-10-03T08:55:38.248927-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jezebel-2022-10-03T08:55:38.248927-04:00.jpg",
+      "mtime": "1664804863",
+      "size": "10216",
+      "md5": "51c5f1f1d9356678f14b72ee8f5911c6",
+      "crc32": "4e753a4a",
+      "sha1": "91de2b187901af34ae4f81fcdfe6abac8d6145e2"
+    },
+    {
+      "name": "jezebel-2022-10-03T15:53:38.433592-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664826848",
+      "size": "29654",
+      "md5": "eb5d5c663e479d70d4845cf4b644330f",
+      "crc32": "9657a1d5",
+      "sha1": "2269868a6f44b994c7e5fd72ce5df9000872df67",
+      "format": "JSON"
+    },
+    {
+      "name": "jezebel-2022-10-03T15:53:38.433592-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664826850",
+      "size": "15773",
+      "md5": "705ad572f7c0ccf17728135d3c85c9a9",
+      "crc32": "c5ee7aeb",
+      "sha1": "8de41f11cb6c81782b287093b0e87b69c1488f28",
+      "format": "JSON"
+    },
+    {
+      "name": "jezebel-2022-10-03T15:53:38.433592-04:00.jpg",
+      "source": "original",
+      "mtime": "1664826847",
+      "size": "256631",
+      "md5": "06035ee3b247875d807923eb8e6e3aa5",
+      "crc32": "7b93c0d4",
+      "sha1": "80b19f57db7718d8986a52cf72380032934a2a43",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jezebel-2022-10-03T15:53:38.433592-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664826852",
+      "size": "1428",
+      "md5": "0d612ba3d54e4418d10e376918b374f5",
+      "crc32": "07d3081e",
+      "sha1": "94c4a34f2c204a7de5f0f32f1fb0a4f48b0c3b76",
+      "format": "JSON"
+    },
+    {
+      "name": "jezebel-2022-10-03T15:53:38.433592-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664826854",
+      "size": "41131",
+      "md5": "660620ef81bd9686eef90f1ba9af6b4e",
+      "crc32": "6673e4c6",
+      "sha1": "71365662851a20bb4ec7bd498aca41b3ee447281",
+      "format": "JSON"
+    },
+    {
       "name": "jezebel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fafcc636e3a55b8408a8e4ff400f92f81776aa22",
-      "mtime": "1664801813",
-      "size": "255878",
-      "md5": "67ac5652ea66f9674875d43d005ea470",
-      "crc32": "25993c75",
-      "sha1": "53ebe8d3a57eac5c50e07ba559e3f6a1ec59f17b",
+      "btih": "e6146aa29e2820336584addec4dee55091701559",
+      "mtime": "1664826909",
+      "size": "257140",
+      "md5": "f950ae5820477e4c8ec019c68f72eeef",
+      "crc32": "542a6744",
+      "sha1": "aab4cef8abf9138f4084e97b4f9e16cf263fd5d1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jezebel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c1ed6d662b9da39a29db3fd40cfac787",
+      "md5": "90d48e3bbc5774fa919c2db0a390b573",
       "summation": "md5"
     },
     {
       "name": "jezebel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664801755",
-      "size": "1523712",
-      "md5": "64b3578f5a2d9bcc4dde781dca0fe3a0",
-      "crc32": "979b805b",
-      "sha1": "b8da7d0845ecc65cb3a62cd859998383f20d5e87",
+      "mtime": "1664826859",
+      "size": "1527808",
+      "md5": "b81fbd047bc555a151eb33226b3785d5",
+      "crc32": "907f41ad",
+      "sha1": "c28592bf96d19de571cff746fb6e2a8665f29a45",
       "format": "Metadata"
     },
     {
@@ -12653,9 +12715,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1220,
-  "item_last_updated": 1664801813,
-  "item_size": 83908513,
+  "files_count": 1226,
+  "item_last_updated": 1664826909,
+  "item_size": 84268704,
   "metadata": {
     "identifier": "jezebel-2022",
     "collection": [
@@ -12677,7 +12739,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426974811,
+      "task_id": 3427329945,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12685,7 +12747,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1569682038,
+  "uniq": 1072029575,
   "workable_servers": [
     "ia902508.us.archive.org"
   ]

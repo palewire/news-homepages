@@ -1,5 +1,6 @@
 {
-  "created": 1664824429,
+  "conflict": 1664827047,
+  "created": 1664827047,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/30/items/theintercept-2022",
@@ -16637,6 +16638,17 @@
       "format": "JSON"
     },
     {
+      "name": "theintercept-2022-10-03T15:10:45.379346-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theintercept-2022-10-03T15:10:45.379346-04:00.jpg",
+      "mtime": "1664827042",
+      "size": "10002",
+      "md5": "0be45f1489c54b12e5a8f1c89d0a5c0f",
+      "crc32": "f988c38d",
+      "sha1": "6bbd4b75e8da214bdda9dbb1a4457b765f0eeecd"
+    },
+    {
       "name": "theintercept-2022_archive.torrent",
       "source": "metadata",
       "btih": "5401b00d066f032abe035c6b4b47e31e9a05bc93",
@@ -16651,7 +16663,7 @@
       "name": "theintercept-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "54270ca969ce69162604eed11fe91c86",
+      "md5": "fc6ac930d0d233c525853e84728aecb5",
       "summation": "md5"
     },
     {
@@ -16675,9 +16687,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1606,
-  "item_last_updated": 1664824425,
-  "item_size": 87428736,
+  "files_count": 1607,
+  "item_last_updated": 1664827042,
+  "item_size": 87438738,
   "metadata": {
     "identifier": "theintercept-2022",
     "collection": [
@@ -16705,9 +16717,57 @@
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
+    },
+    {
+      "task_id": 3427328693,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3427328712,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3427328737,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3427328766,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3427328792,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3427331722,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 128065279,
+  "uniq": 1667968270,
   "workable_servers": [
     "ia902503.us.archive.org"
   ]
