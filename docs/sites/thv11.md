@@ -437,7 +437,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 42 hyperlink lists with the Internet Archive.
+The archiving routine has saved 43 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 10:42 PM](https://archive.org/download/thv11-2022/thv11-2022-10-02T22:42:03.631817-05:00.hyperlinks.json) |
 | [October 2 at 10:11 AM](https://archive.org/download/thv11-2022/thv11-2022-10-02T10:10:58.615035-05:00.hyperlinks.json) |
 | [October 1 at 10:47 PM](https://archive.org/download/thv11-2022/thv11-2022-10-01T22:47:17.541151-05:00.hyperlinks.json) |
 | [October 1 at 10:07 AM](https://archive.org/download/thv11-2022/thv11-2022-10-01T10:06:59.985217-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 29 at 10:01 AM](https://archive.org/download/thv11-2022/thv11-2022-09-29T10:01:38.449191-05:00.hyperlinks.json) |
 | [September 28 at 10:45 PM](https://archive.org/download/thv11-2022/thv11-2022-09-28T22:45:32.062718-05:00.hyperlinks.json) |
 | [September 28 at 10:05 AM](https://archive.org/download/thv11-2022/thv11-2022-09-28T10:04:59.440353-05:00.hyperlinks.json) |
-| [September 27 at 10:53 PM](https://archive.org/download/thv11-2022/thv11-2022-09-27T22:53:17.395044-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 42 accessibility trees with the Internet Archive.
+The archiving routine has saved 43 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 10:42 PM](https://archive.org/download/thv11-2022/thv11-2022-10-02T22:42:03.631817-05:00.accessibility.json) |
 | [October 2 at 10:11 AM](https://archive.org/download/thv11-2022/thv11-2022-10-02T10:10:58.615035-05:00.accessibility.json) |
 | [October 1 at 10:47 PM](https://archive.org/download/thv11-2022/thv11-2022-10-01T22:47:17.541151-05:00.accessibility.json) |
 | [October 1 at 10:07 AM](https://archive.org/download/thv11-2022/thv11-2022-10-01T10:06:59.985217-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 29 at 10:01 AM](https://archive.org/download/thv11-2022/thv11-2022-09-29T10:01:38.449191-05:00.accessibility.json) |
 | [September 28 at 10:45 PM](https://archive.org/download/thv11-2022/thv11-2022-09-28T22:45:32.062718-05:00.accessibility.json) |
 | [September 28 at 10:05 AM](https://archive.org/download/thv11-2022/thv11-2022-09-28T10:04:59.440353-05:00.accessibility.json) |
-| [September 27 at 10:53 PM](https://archive.org/download/thv11-2022/thv11-2022-09-27T22:53:17.395044-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 42 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 10:42 PM](https://archive.org/download/thv11-2022/thv11-2022-10-02T22:42:03.631817-05:00.lighthouse.json) |
 | [October 2 at 10:11 AM](https://archive.org/download/thv11-2022/thv11-2022-10-02T10:10:58.615035-05:00.lighthouse.json) |
 | [October 1 at 10:47 PM](https://archive.org/download/thv11-2022/thv11-2022-10-01T22:47:17.541151-05:00.lighthouse.json) |
 | [October 1 at 10:07 AM](https://archive.org/download/thv11-2022/thv11-2022-10-01T10:06:59.985217-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 29 at 10:01 AM](https://archive.org/download/thv11-2022/thv11-2022-09-29T10:01:38.449191-05:00.lighthouse.json) |
 | [September 28 at 10:45 PM](https://archive.org/download/thv11-2022/thv11-2022-09-28T22:45:32.062718-05:00.lighthouse.json) |
 | [September 28 at 10:05 AM](https://archive.org/download/thv11-2022/thv11-2022-09-28T10:04:59.440353-05:00.lighthouse.json) |
-| [September 27 at 10:53 PM](https://archive.org/download/thv11-2022/thv11-2022-09-27T22:53:17.395044-05:00.lighthouse.json) |
 
 
 

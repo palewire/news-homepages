@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 24 screenshots with the Internet Archive.
+The archiving routine has saved 25 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/timesrecorder-2022/timesrecorder-2022-10-02T23:41:45.228201-04:00.jpg">
+  <img src="https://archive.org/download/timesrecorder-2022/timesrecorder-2022-10-02T23:41:45.228201-04:00.jpg"
+     alt="Zanesville Times Recorder at 2022-10-02 23:41:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/timesrecorder-2022/timesrecorder-2022-10-02T23:41:45.228201-04:00.jpg">October 2 at 11:41 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/timesrecorder-2022/timesrecorder-2022-10-02T11:11:18.775974-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/timesrecorder-2022/timesrecorder-2022-09-27T11:06:43.691939-04:00.jpg">September 27 at 11:06 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/timesrecorder-2022/timesrecorder-2022-09-26T23:34:43.842142-04:00.jpg">
-  <img src="https://archive.org/download/timesrecorder-2022/timesrecorder-2022-09-26T23:34:43.842142-04:00.jpg"
-     alt="Zanesville Times Recorder at 2022-09-26 23:34:46-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/timesrecorder-2022/timesrecorder-2022-09-26T23:34:43.842142-04:00.jpg">September 26 at 11:34 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 23 hyperlink lists with the Internet Archive.
+The archiving routine has saved 24 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 2 at 11:41 PM](https://archive.org/download/timesrecorder-2022/timesrecorder-2022-10-02T23:41:45.228201-04:00.hyperlinks.json) |
 | [October 2 at 11:11 AM](https://archive.org/download/timesrecorder-2022/timesrecorder-2022-10-02T11:11:18.775974-04:00.hyperlinks.json) |
 | [October 1 at 11:47 PM](https://archive.org/download/timesrecorder-2022/timesrecorder-2022-10-01T23:47:42.904879-04:00.hyperlinks.json) |
 | [October 1 at 11:07 AM](https://archive.org/download/timesrecorder-2022/timesrecorder-2022-10-01T11:06:55.912154-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 29 at 11:01 AM](https://archive.org/download/timesrecorder-2022/timesrecorder-2022-09-29T11:01:37.028100-04:00.hyperlinks.json) |
 | [September 28 at 11:46 PM](https://archive.org/download/timesrecorder-2022/timesrecorder-2022-09-28T23:46:31.973134-04:00.hyperlinks.json) |
 | [September 28 at 11:05 AM](https://archive.org/download/timesrecorder-2022/timesrecorder-2022-09-28T11:05:20.906082-04:00.hyperlinks.json) |
-| [September 27 at 11:53 PM](https://archive.org/download/timesrecorder-2022/timesrecorder-2022-09-27T23:52:57.629830-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 23 accessibility trees with the Internet Archive.
+The archiving routine has saved 24 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 2 at 11:41 PM](https://archive.org/download/timesrecorder-2022/timesrecorder-2022-10-02T23:41:45.228201-04:00.accessibility.json) |
 | [October 2 at 11:11 AM](https://archive.org/download/timesrecorder-2022/timesrecorder-2022-10-02T11:11:18.775974-04:00.accessibility.json) |
 | [October 1 at 11:47 PM](https://archive.org/download/timesrecorder-2022/timesrecorder-2022-10-01T23:47:42.904879-04:00.accessibility.json) |
 | [October 1 at 11:07 AM](https://archive.org/download/timesrecorder-2022/timesrecorder-2022-10-01T11:06:55.912154-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 29 at 11:01 AM](https://archive.org/download/timesrecorder-2022/timesrecorder-2022-09-29T11:01:37.028100-04:00.accessibility.json) |
 | [September 28 at 11:46 PM](https://archive.org/download/timesrecorder-2022/timesrecorder-2022-09-28T23:46:31.973134-04:00.accessibility.json) |
 | [September 28 at 11:05 AM](https://archive.org/download/timesrecorder-2022/timesrecorder-2022-09-28T11:05:20.906082-04:00.accessibility.json) |
-| [September 27 at 11:53 PM](https://archive.org/download/timesrecorder-2022/timesrecorder-2022-09-27T23:52:57.629830-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 2 at 11:41 PM](https://archive.org/download/timesrecorder-2022/timesrecorder-2022-10-02T23:41:45.228201-04:00.lighthouse.json) |
 | [October 2 at 11:11 AM](https://archive.org/download/timesrecorder-2022/timesrecorder-2022-10-02T11:11:18.775974-04:00.lighthouse.json) |
 | [October 1 at 11:47 PM](https://archive.org/download/timesrecorder-2022/timesrecorder-2022-10-01T23:47:42.904879-04:00.lighthouse.json) |
 | [October 1 at 11:07 AM](https://archive.org/download/timesrecorder-2022/timesrecorder-2022-10-01T11:06:55.912154-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 29 at 11:01 AM](https://archive.org/download/timesrecorder-2022/timesrecorder-2022-09-29T11:01:37.028100-04:00.lighthouse.json) |
 | [September 28 at 11:46 PM](https://archive.org/download/timesrecorder-2022/timesrecorder-2022-09-28T23:46:31.973134-04:00.lighthouse.json) |
 | [September 28 at 11:05 AM](https://archive.org/download/timesrecorder-2022/timesrecorder-2022-09-28T11:05:20.906082-04:00.lighthouse.json) |
-| [September 27 at 11:53 PM](https://archive.org/download/timesrecorder-2022/timesrecorder-2022-09-27T23:52:57.629830-04:00.lighthouse.json) |
 
 
 
