@@ -1,5 +1,5 @@
 {
-  "created": 1664755683,
+  "created": 1664798696,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/32/items/heraldmailnews-2022",
@@ -1628,31 +1628,82 @@
       "sha1": "eebdd959068b6bb4ae73025cf4ad0fb16549c98c"
     },
     {
+      "name": "heraldmailnews-2022-10-03T08:03:31.937060-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664798617",
+      "size": "25856",
+      "md5": "63c91caec5e709fe24f1ed78d845d9eb",
+      "crc32": "ef4a9a95",
+      "sha1": "f55acbe6f569981fcb2a6ce341d31e2c04dc75e4",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldmailnews-2022-10-03T08:03:31.937060-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664798619",
+      "size": "47460",
+      "md5": "bea3717de8e67228ebf0f4798d41624a",
+      "crc32": "1bb06062",
+      "sha1": "a224ca65b9d84194a68a60282dad55c7763e544c",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldmailnews-2022-10-03T08:03:31.937060-04:00.jpg",
+      "source": "original",
+      "mtime": "1664798615",
+      "size": "252204",
+      "md5": "b943e386607eeb2c110e5fd82188fdfd",
+      "crc32": "765cfb3c",
+      "sha1": "0eca0dfc38a99b5b125bbb80d0e3009e84d1720d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "heraldmailnews-2022-10-03T08:03:31.937060-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664798622",
+      "size": "1539",
+      "md5": "37edcbd62269ded349badaa9bd418be6",
+      "crc32": "8d19d475",
+      "sha1": "1cab38f3c7c0d393d8c48e238578fda9fee292cd",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldmailnews-2022-10-03T08:03:31.937060-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664798624",
+      "size": "103076",
+      "md5": "d7a03309238602a50ab2d96ac65d5e80",
+      "crc32": "3e5bad19",
+      "sha1": "4e17f1e6017741d02d08ecbdf8eed7bdad3155e8",
+      "format": "JSON"
+    },
+    {
       "name": "heraldmailnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0921745fc75a92762e8309cc0945facb2de302a4",
-      "mtime": "1664755635",
-      "size": "35458",
-      "md5": "f39d1e8bbd2126faf7624d795c962019",
-      "crc32": "b4ee0200",
-      "sha1": "510db1e487473306e2dbc0ab058b9568717db180",
+      "btih": "2908f4091e76f0d3498a9da1f04f5d7f09cdb1c0",
+      "mtime": "1664798692",
+      "size": "36552",
+      "md5": "dd2ae49b5d5079ba3d4c7f1bdadea828",
+      "crc32": "17e74dff",
+      "sha1": "0dba81f45545e63ccd4a021e0b5b25b016c088f9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "heraldmailnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "05cdd3cb10accecad662db07ef2a2292",
+      "md5": "c74b51f48ef96c9eed44337a41675412",
       "summation": "md5"
     },
     {
       "name": "heraldmailnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664755468",
-      "size": "225280",
-      "md5": "07a66731420dcb8e95ffbf18d11f62d3",
-      "crc32": "1c84c9f6",
-      "sha1": "5b96ca765ff9f32d4059111407bca52747faae62",
+      "mtime": "1664798656",
+      "size": "229376",
+      "md5": "b13d1324e65524e48ef71c0742c224d8",
+      "crc32": "f35344bf",
+      "sha1": "64bf054654dcd42adad049fdac5ed45639eb9741",
       "format": "Metadata"
     },
     {
@@ -1666,9 +1717,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 161,
-  "item_last_updated": 1664755635,
-  "item_size": 11181906,
+  "files_count": 166,
+  "item_last_updated": 1664798692,
+  "item_size": 11617231,
   "metadata": {
     "identifier": "heraldmailnews-2022",
     "collection": [
@@ -1685,10 +1736,21 @@
     "publicdate": "2022-09-20 22:18:30",
     "addeddate": "2022-09-20 22:18:30"
   },
+  "pending_tasks": true,
   "server": "ia601508.us.archive.org",
-  "uniq": 1343060146,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3426935921,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 139158521,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia601508.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1664755368,
+  "created": 1664798331,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/20/items/ciceronoticias-2022",
@@ -14064,31 +14064,82 @@
       "sha1": "fc706659f70f5eb34b5974f14a57cfdfe5247d20"
     },
     {
+      "name": "ciceronoticias-2022-10-03T06:57:09.275321-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664798259",
+      "size": "73265",
+      "md5": "7b4863a3b7bf4c3539d54b4bfc350de3",
+      "crc32": "5c1586c9",
+      "sha1": "e1737b200c3564b378610a58e716e362f8746176",
+      "format": "JSON"
+    },
+    {
+      "name": "ciceronoticias-2022-10-03T06:57:09.275321-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664798261",
+      "size": "68486",
+      "md5": "ac2ce428778016a685285e5bae493aa2",
+      "crc32": "0f489d1c",
+      "sha1": "ee2b2da151acc75ca884917d246607f45049cdcc",
+      "format": "JSON"
+    },
+    {
+      "name": "ciceronoticias-2022-10-03T06:57:09.275321-05:00.jpg",
+      "source": "original",
+      "mtime": "1664798257",
+      "size": "174042",
+      "md5": "e5be4b8f877fbdbe33cc887f5a714de7",
+      "crc32": "3cf2677c",
+      "sha1": "754a8b53aabbf131bfde36fde85b6167886bd66e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ciceronoticias-2022-10-03T06:57:09.275321-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664798263",
+      "size": "1562",
+      "md5": "d64d9d91c2c0b83e9cf40a7db072a0e9",
+      "crc32": "7f8c1aa0",
+      "sha1": "92f03869e6618adaedc44ad1ef07359cd5046dc2",
+      "format": "JSON"
+    },
+    {
+      "name": "ciceronoticias-2022-10-03T06:57:09.275321-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664798264",
+      "size": "28050",
+      "md5": "b801c4918c72ff9b0e510a1df2ea7e4c",
+      "crc32": "bb75bb03",
+      "sha1": "9ed3c300bcd6ef0d20193178197e8ce875107a66",
+      "format": "JSON"
+    },
+    {
       "name": "ciceronoticias-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3ed06b4091383cc0c42cce9e832c4fd8e9d7c5e8",
-      "mtime": "1664755249",
-      "size": "294605",
-      "md5": "403fc2cc57d8eeef1e4edaa52530f848",
-      "crc32": "22818899",
-      "sha1": "4f965be04dbc35ac7c5414ea5df82e9922886e3a",
+      "btih": "a22c113397c111c8bc384fb4f40e007bbe47130e",
+      "mtime": "1664798324",
+      "size": "295698",
+      "md5": "9c1fe74d0f37db4f35bfc127392866b9",
+      "crc32": "f6527caa",
+      "sha1": "74af13454b3c1bdb611f12c9bda1783ae1720722",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ciceronoticias-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6362f1bc2605b5fbb54fbae65f480045",
+      "md5": "58f4e07ef4be6f5fb984126a5450cb39",
       "summation": "md5"
     },
     {
       "name": "ciceronoticias-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664755066",
-      "size": "1720320",
-      "md5": "5f40d73043dd7a42cfd51d2a2a93cdd9",
-      "crc32": "492d4a84",
-      "sha1": "1f4c19ab08cf06719e1be99619c6f5d3fa6cc124",
+      "mtime": "1664798275",
+      "size": "1728512",
+      "md5": "641d14a8b461abdce9b92f7af990fae9",
+      "crc32": "418e08d1",
+      "sha1": "47ef3200cedaac2f4e02767d26f62787d433e2a8",
       "format": "Metadata"
     },
     {
@@ -14102,9 +14153,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1361,
-  "item_last_updated": 1664755249,
-  "item_size": 82602768,
+  "files_count": 1366,
+  "item_last_updated": 1664798324,
+  "item_size": 82957458,
   "metadata": {
     "identifier": "ciceronoticias-2022",
     "collection": [
@@ -14132,9 +14183,17 @@
       "wait_admin": 9,
       "color": "brown",
       "status": "paused"
+    },
+    {
+      "task_id": 3426927347,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1532638241,
+  "uniq": 992849960,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

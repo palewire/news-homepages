@@ -1,6 +1,6 @@
 {
-  "conflict": 1664755719,
-  "created": 1664755719,
+  "conflict": 1664798831,
+  "created": 1664785944,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/23/items/desert_oracle-2022",
@@ -10371,20 +10371,52 @@
     "addeddate": "2022-07-04 22:30:03"
   },
   "pending_tasks": true,
-  "server": "ia601506.us.archive.org",
+  "server": "ia801506.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426300727,
-      "cmd": "bup.php",
+      "task_id": 3426927631,
+      "cmd": "archive.php",
       "priority": -5,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
+    },
+    {
+      "task_id": 3426927656,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3426927666,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3426927704,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3426927713,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1510963737,
+  "uniq": 2026915013,
   "workable_servers": [
-    "ia601506.us.archive.org"
+    "ia801506.us.archive.org"
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "conflict": 1664755716,
-  "created": 1664755716,
+  "conflict": 1664798909,
+  "created": 1664798526,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/21/items/fortunemagazine-2022",
@@ -12489,28 +12489,52 @@
     "addeddate": "2022-06-19 23:24:03"
   },
   "pending_tasks": true,
-  "server": "ia601506.us.archive.org",
+  "server": "ia801506.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426300035,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3426931958,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     },
     {
-      "task_id": 3426302241,
-      "cmd": "bup.php",
+      "task_id": 3426932037,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3426932270,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3426932326,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3426932429,
+      "cmd": "archive.php",
       "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1924744919,
+  "uniq": 1669673698,
   "workable_servers": [
-    "ia601506.us.archive.org"
+    "ia801506.us.archive.org"
   ]
 }

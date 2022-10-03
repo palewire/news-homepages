@@ -1,5 +1,5 @@
 {
-  "conflict": 1664789014,
+  "conflict": 1664798816,
   "created": 1664788808,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
@@ -13214,6 +13214,7 @@
     }
   ],
   "files_count": 1275,
+  "has_redrow": true,
   "item_last_updated": 1664755204,
   "item_size": 128326457,
   "metadata": {
@@ -13240,9 +13241,9 @@
       "task_id": 3426784260,
       "cmd": "archive.php",
       "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 2,
+      "color": "red",
+      "status": "error"
     },
     {
       "task_id": 3426784355,
@@ -13270,6 +13271,46 @@
     },
     {
       "task_id": 3426784535,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3426928033,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3426928063,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3426928085,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3426928130,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3426928158,
       "cmd": "archive.php",
       "priority": -5,
       "wait_admin": 0,

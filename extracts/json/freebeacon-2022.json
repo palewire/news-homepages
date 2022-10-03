@@ -1,5 +1,6 @@
 {
-  "created": 1664755808,
+  "conflict": 1664798797,
+  "created": 1664798797,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/9/items/freebeacon-2022",
@@ -13329,21 +13330,32 @@
       "format": "JSON"
     },
     {
+      "name": "freebeacon-2022-10-02T20:03:02.631719-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "freebeacon-2022-10-02T20:03:02.631719-04:00.jpg",
+      "mtime": "1664756220",
+      "size": "10268",
+      "md5": "f74e992c7acf05fd86450e6be16595c0",
+      "crc32": "97bb20cc",
+      "sha1": "365fd71157b3a93de92223a435eb3d6494284fdd"
+    },
+    {
       "name": "freebeacon-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6edfde4bd8f32be7fb4a5dd057c942e089c4229c",
-      "mtime": "1664755792",
-      "size": "274596",
-      "md5": "a176beb3eb42bf4e02ce81d1b53e6607",
-      "crc32": "e666d15f",
-      "sha1": "f155fda60fa133470456179fcadf5deb89e7d6ff",
+      "btih": "0042ffe52d4cf5655e10cb7f01f3d32f4dcd8a59",
+      "mtime": "1664756346",
+      "size": "274803",
+      "md5": "dbf6aa00e1a30c0560d879c9b12a4276",
+      "crc32": "aa2c8750",
+      "sha1": "ae52dcd696e78e993128d67247843b41d3b7d318",
       "format": "Archive BitTorrent"
     },
     {
       "name": "freebeacon-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c774bb08c5a329e0ba4205db904e276b",
+      "md5": "3f14cbf4b0bbaa3c5e5d49ef5516ee78",
       "summation": "md5"
     },
     {
@@ -13367,9 +13379,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1291,
-  "item_last_updated": 1664755792,
-  "item_size": 82697055,
+  "files_count": 1292,
+  "item_last_updated": 1664756346,
+  "item_size": 82707530,
   "metadata": {
     "identifier": "freebeacon-2022",
     "collection": [
@@ -13391,15 +13403,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426303279,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3426934091,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     }
   ],
-  "uniq": 2108534290,
+  "uniq": 1260250525,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1664755527,
+  "created": 1664798446,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/21/items/delawaretoday-2022",
@@ -2424,31 +2424,82 @@
       "sha1": "2da6fb24eb348ac9570f8f016098e2f58c320e2f"
     },
     {
+      "name": "delawaretoday-2022-10-03T07:59:24.222957-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664798373",
+      "size": "23735",
+      "md5": "c2f0c9c859ecf107847c1debca88cc06",
+      "crc32": "c274bb15",
+      "sha1": "0a2ed74b2fb240e7a87f2efdb9a7839f66b4e7f1",
+      "format": "JSON"
+    },
+    {
+      "name": "delawaretoday-2022-10-03T07:59:24.222957-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664798374",
+      "size": "25131",
+      "md5": "b65ddf90a402386b25b528e76b7c8dea",
+      "crc32": "905c9fc0",
+      "sha1": "fb13846f1b4ded6db1776bb167e6f585de9723bf",
+      "format": "JSON"
+    },
+    {
+      "name": "delawaretoday-2022-10-03T07:59:24.222957-04:00.jpg",
+      "source": "original",
+      "mtime": "1664798372",
+      "size": "238703",
+      "md5": "1cc2dfb1045352c4bc2e751ed2113753",
+      "crc32": "bcc518c0",
+      "sha1": "33c89e98a2aeb4b9afe475b02fa2359e82e5396c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "delawaretoday-2022-10-03T07:59:24.222957-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664798376",
+      "size": "1486",
+      "md5": "432150f1eb307c5bb17e8dfe94b0fca2",
+      "crc32": "c0c3226f",
+      "sha1": "235634f0fc32abf0105c140d0b27ad0fd26e5353",
+      "format": "JSON"
+    },
+    {
+      "name": "delawaretoday-2022-10-03T07:59:24.222957-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664798378",
+      "size": "12410",
+      "md5": "885fe373b9b3b6f4d9d8805a3baf3ae9",
+      "crc32": "6bacb7b7",
+      "sha1": "ebe8e8189b6a412a1bae4ac32084a14d2e1d3126",
+      "format": "JSON"
+    },
+    {
       "name": "delawaretoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "38d5a3a237d642a9bba418899cac730df8ca5013",
-      "mtime": "1664755193",
-      "size": "51738",
-      "md5": "43cd2b975442652653f7b0c5832fc85c",
-      "crc32": "bf8718f6",
-      "sha1": "f09a20ea9f9e972d1937b7b37be1e5414da6ec8b",
+      "btih": "24e557f6d01486bb427954512028d9c5565ded56",
+      "mtime": "1664798437",
+      "size": "52826",
+      "md5": "ec1bf805cc1b2ad433e90876736abaaa",
+      "crc32": "a5bbb379",
+      "sha1": "625584f1ef0e36c33688d164d7696aaf797c1c4a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "delawaretoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d55a9aefa91d8563c1070f3bff845633",
+      "md5": "71e4c7774cbea4e131eba16ce77289c9",
       "summation": "md5"
     },
     {
       "name": "delawaretoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664755067",
-      "size": "319488",
-      "md5": "05d77e9ca1f9a0c6368e956a9f8d0f7a",
-      "crc32": "39c662f4",
-      "sha1": "03f061be53be87ce988bfa7eb67fe6dda8eeadae",
+      "mtime": "1664798397",
+      "size": "327680",
+      "md5": "db70ef811aacadbcd87e1850cadefc6a",
+      "crc32": "79c55c76",
+      "sha1": "a96008c8ec05da7e7c058f03615a40f3528c08dd",
       "format": "Metadata"
     },
     {
@@ -2462,9 +2513,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 238,
-  "item_last_updated": 1664755193,
-  "item_size": 13085368,
+  "files_count": 243,
+  "item_last_updated": 1664798437,
+  "item_size": 13396113,
   "metadata": {
     "identifier": "delawaretoday-2022",
     "collection": [
@@ -2481,10 +2532,21 @@
     "publicdate": "2022-09-14 10:58:21",
     "addeddate": "2022-09-14 10:58:21"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 1809504110,
+  "pending_tasks": true,
+  "server": "ia601405.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3426929561,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1955558167,
   "workable_servers": [
-    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

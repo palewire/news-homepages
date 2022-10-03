@@ -1,5 +1,5 @@
 {
-  "created": 1664785084,
+  "created": 1664798644,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/26/items/france24-2022",
@@ -21377,31 +21377,93 @@
       "format": "JSON"
     },
     {
+      "name": "france24-2022-10-03T10:16:29.432998+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "france24-2022-10-03T10:16:29.432998+02:00.jpg",
+      "mtime": "1664787341",
+      "size": "9472",
+      "md5": "b90e0f08ff0be7fd002bde96fe0cfa85",
+      "crc32": "809f46d2",
+      "sha1": "aba8b61d90c29c638e05c0a3aa7afec39805e535"
+    },
+    {
+      "name": "france24-2022-10-03T14:01:43.949457+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664798508",
+      "size": "26837",
+      "md5": "cd2115ad2635f6a7f18af84ac7066788",
+      "crc32": "9a8f0a0b",
+      "sha1": "6ec7d9579f23d42d063077dab77295837137177a",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-10-03T14:01:43.949457+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664798510",
+      "size": "46541",
+      "md5": "e07b96080157ff8dea96233ac803d9e0",
+      "crc32": "343ea682",
+      "sha1": "1255627d2b92ae65c5c6b335604adfcef05f940d",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-10-03T14:01:43.949457+02:00.jpg",
+      "source": "original",
+      "mtime": "1664798506",
+      "size": "231061",
+      "md5": "12bf3db9c8ea77c706bdc242bef313a5",
+      "crc32": "e112d828",
+      "sha1": "bb81c6fd143f9d12994078031b4077c5b2baa9f4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "france24-2022-10-03T14:01:43.949457+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664798512",
+      "size": "1489",
+      "md5": "60a334e23963d26a3fec4cd8d22ab2d5",
+      "crc32": "9281dc51",
+      "sha1": "af25cd5a6eae5c084a422d3a75bf8b715675f50b",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-10-03T14:01:43.949457+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664798514",
+      "size": "15224",
+      "md5": "e530098d20888f0890aae09b0e88b6b0",
+      "crc32": "954c1a2d",
+      "sha1": "a9395a067c0f905394c71046945c8444208d526a",
+      "format": "JSON"
+    },
+    {
       "name": "france24-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d4c85b009601106d648db35c0ea011422b972c82",
-      "mtime": "1664785079",
-      "size": "433154",
-      "md5": "ce452c6ea2e2b208636c9c89d80ef174",
-      "crc32": "3c8e024a",
-      "sha1": "e01bfd4c97f9fedc2f5353680ec3dd4f633ede4f",
+      "btih": "adecc5d6d477dd660ea4456eca5189430a0f11f1",
+      "mtime": "1664798638",
+      "size": "434401",
+      "md5": "e02e64c497ed99ab46aff4f1fcd46c4c",
+      "crc32": "50207eb5",
+      "sha1": "bed60db972d31989c97b729b59d9cbba7d3cb589",
       "format": "Archive BitTorrent"
     },
     {
       "name": "france24-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ed2b2c280d9f8cb91c1104b595e9ed08",
+      "md5": "9950d167c1d85beb81f254592886eeff",
       "summation": "md5"
     },
     {
       "name": "france24-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664785015",
-      "size": "2506752",
-      "md5": "ed868352c1c84c27e798a6419712e602",
-      "crc32": "6610d0a1",
-      "sha1": "71e901048527bfbd207339eb574d928fc202f4c2",
+      "mtime": "1664798572",
+      "size": "2514944",
+      "md5": "d4b8dcc43c57d1421a1f9b2ef1a6e8c1",
+      "crc32": "93015c68",
+      "sha1": "eb681dd3199af129fa9807bc3a9d6b902e57e3e1",
       "format": "Metadata"
     },
     {
@@ -21415,9 +21477,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2058,
-  "item_last_updated": 1664785079,
-  "item_size": 142043214,
+  "files_count": 2064,
+  "item_last_updated": 1664798638,
+  "item_size": 142383277,
   "metadata": {
     "identifier": "france24-2022",
     "collection": [
@@ -21439,7 +21501,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426726887,
+      "task_id": 3426934979,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -21447,7 +21509,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1583738520,
+  "uniq": 979545113,
   "workable_servers": [
     "ia902500.us.archive.org"
   ]

@@ -1,6 +1,5 @@
 {
-  "conflict": 1664755785,
-  "created": 1664755785,
+  "created": 1664798734,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/14/items/harpers-2022",
@@ -11699,34 +11698,90 @@
       "name": "harpers-2022-10-02T20:03:20.242580-04:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "harpers-2022-10-02T20:03:20.242580-04:00.jpg"
+      "original": "harpers-2022-10-02T20:03:20.242580-04:00.jpg",
+      "mtime": "1664755780",
+      "size": "8829",
+      "md5": "197bc8d8b71b399624eefb3e884d2e5e",
+      "crc32": "6c47f228",
+      "sha1": "05ab5ba258988e69bb638095ea985f3ea076e54e"
+    },
+    {
+      "name": "harpers-2022-10-03T08:04:19.581057-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664798668",
+      "size": "19013",
+      "md5": "0de98aa1c86f9b7e73628d5d17b7b07d",
+      "crc32": "8cdef49a",
+      "sha1": "96da20e3b388d36c96eaa1da98a42ec480f6b41a",
+      "format": "JSON"
+    },
+    {
+      "name": "harpers-2022-10-03T08:04:19.581057-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664798670",
+      "size": "129203",
+      "md5": "38b2de793c58a1e7d65a4495256942db",
+      "crc32": "984c58fe",
+      "sha1": "af61643d42771f016b8589f25b9adde9f0349842",
+      "format": "JSON"
+    },
+    {
+      "name": "harpers-2022-10-03T08:04:19.581057-04:00.jpg",
+      "source": "original",
+      "mtime": "1664798667",
+      "size": "230252",
+      "md5": "9530b05c0a1ccef15b85c44e7a364699",
+      "crc32": "ca5e1757",
+      "sha1": "6538f538fb11cb65823d439e581ead56816f41de",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "harpers-2022-10-03T08:04:19.581057-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664798671",
+      "size": "1429",
+      "md5": "9eea16c6a8c53fe0954cb893c19d3b6d",
+      "crc32": "2244eac6",
+      "sha1": "7daa0cb6fb488a74abc1b32f23ec90039cd854e1",
+      "format": "JSON"
+    },
+    {
+      "name": "harpers-2022-10-03T08:04:19.581057-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664798673",
+      "size": "22216",
+      "md5": "4c2ebcba703b8ebaeccadc69a58a9f9c",
+      "crc32": "6f33d803",
+      "sha1": "366ed84efb69d40188b431a508d01f5356699e85",
+      "format": "JSON"
     },
     {
       "name": "harpers-2022_archive.torrent",
       "source": "metadata",
-      "btih": "da635ef1e74e3477ca0e9a2b35761da152acd90b",
-      "mtime": "1664755494",
-      "size": "237252",
-      "md5": "5c30840ae00189b939b840f3d857a998",
-      "crc32": "d27ef37c",
-      "sha1": "1bc09a433874ce91a0c6dd2c08a3011c7b002950",
+      "btih": "1630ede9ecd9f1309158b5825c149cca81610736",
+      "mtime": "1664798728",
+      "size": "238514",
+      "md5": "045f1ba534194df7820d4dbae2d3833d",
+      "crc32": "ab65c418",
+      "sha1": "9f3be488b09ff89b5386a9fff8ac0af0c547a6fe",
       "format": "Archive BitTorrent"
     },
     {
       "name": "harpers-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3187e7345d7074ecaa1ecc2dfc8668d3",
+      "md5": "bf13d2d981945d73efd3d29a498911e3",
       "summation": "md5"
     },
     {
       "name": "harpers-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664755444",
-      "size": "1400832",
-      "md5": "de3485193bcf7f8b49c20e151e3fcd01",
-      "crc32": "a045ad00",
-      "sha1": "acbfc5eccb5356a248a41a2dbbffaae234b29dff",
+      "mtime": "1664798681",
+      "size": "1409024",
+      "md5": "f3663cdd0ce68f569f344a1a946750ec",
+      "crc32": "53d65658",
+      "sha1": "1bbfd8ff3977a32a79728365a5a38f2ea43ece0f",
       "format": "Metadata"
     },
     {
@@ -11740,9 +11795,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1131,
-  "item_last_updated": 1664755494,
-  "item_size": 89471513,
+  "files_count": 1136,
+  "item_last_updated": 1664798728,
+  "item_size": 89891909,
   "metadata": {
     "identifier": "harpers-2022",
     "collection": [
@@ -11764,15 +11819,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426299139,
+      "task_id": 3426936642,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 33363297,
+  "uniq": 2013499368,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

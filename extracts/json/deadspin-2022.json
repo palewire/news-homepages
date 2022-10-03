@@ -1,5 +1,5 @@
 {
-  "created": 1664755173,
+  "created": 1664798447,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/33/items/deadspin-2022",
@@ -10126,31 +10126,82 @@
       "sha1": "a0e69a5d5b10ad63a4f77d6e29929378c4042ad4"
     },
     {
+      "name": "deadspin-2022-10-03T07:59:45.088244-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664798392",
+      "size": "37245",
+      "md5": "efe9c1827332133cea77001bcda1b120",
+      "crc32": "931260c7",
+      "sha1": "90ce7d1a5c96c6e68362e3e318b6269d79b08d0e",
+      "format": "JSON"
+    },
+    {
+      "name": "deadspin-2022-10-03T07:59:45.088244-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664798393",
+      "size": "22810",
+      "md5": "92069e6f834e204016e72af32980f60a",
+      "crc32": "16bfc37a",
+      "sha1": "a89c4819eaef4af5b632e229e0e9109e30a36572",
+      "format": "JSON"
+    },
+    {
+      "name": "deadspin-2022-10-03T07:59:45.088244-04:00.jpg",
+      "source": "original",
+      "mtime": "1664798390",
+      "size": "345398",
+      "md5": "2fb881ca8ef84c2165bef949e238d4f4",
+      "crc32": "1ae8dda9",
+      "sha1": "cef477bd068f57647f68b2e0f65c4af50715eccf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "deadspin-2022-10-03T07:59:45.088244-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664798395",
+      "size": "1438",
+      "md5": "803119d5158a2840d9997e31ef6c9c71",
+      "crc32": "7ec11529",
+      "sha1": "097260af712780bf87cc57fb0ad379aa32685424",
+      "format": "JSON"
+    },
+    {
+      "name": "deadspin-2022-10-03T07:59:45.088244-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664798397",
+      "size": "9339",
+      "md5": "fa8b8b7685a50a105e7ce9132c60a03f",
+      "crc32": "2394860a",
+      "sha1": "93a05ac2224a75e7cfe46a69921c82113e14b820",
+      "format": "JSON"
+    },
+    {
       "name": "deadspin-2022_archive.torrent",
       "source": "metadata",
-      "btih": "91115cf49256b9d8be3767e00521f5cdfbeef7ad",
-      "mtime": "1664755153",
-      "size": "206791",
-      "md5": "00a3404e2de7056744eff35f2610c727",
-      "crc32": "7f0ee183",
-      "sha1": "6ffa438b020cf7f0a4328c73236b914501843b11",
+      "btih": "b237cc5b247011c49f9ea4f6c65390d8097417a3",
+      "mtime": "1664798443",
+      "size": "207853",
+      "md5": "a0bad07e36ff50364f0c4dd8e02c5039",
+      "crc32": "b15de32f",
+      "sha1": "326e478b81f1c6c1eee48817211e4c7c839e7c86",
       "format": "Archive BitTorrent"
     },
     {
       "name": "deadspin-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b1a4ce1ec00782a5946f901656b0540e",
+      "md5": "b29063d16888dbba8f04f8ded3055d8e",
       "summation": "md5"
     },
     {
       "name": "deadspin-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664755056",
-      "size": "1216512",
-      "md5": "431854cdf2c7064f8a88290196a03a2c",
-      "crc32": "b1c00a87",
-      "sha1": "48e1637608c327a4b4906a88c3575280f2e440fd",
+      "mtime": "1664798400",
+      "size": "1224704",
+      "md5": "b38d8478e39e66b52bc41a1f3fddd792",
+      "crc32": "16e88867",
+      "sha1": "b12b103077ddbbaa966b1dd0d4a8bfbd4a85378b",
       "format": "Metadata"
     },
     {
@@ -10164,9 +10215,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 979,
-  "item_last_updated": 1664755153,
-  "item_size": 74338768,
+  "files_count": 984,
+  "item_last_updated": 1664798443,
+  "item_size": 74764252,
   "metadata": {
     "identifier": "deadspin-2022",
     "collection": [
@@ -10183,10 +10234,21 @@
     "publicdate": "2022-07-04 20:47:14",
     "addeddate": "2022-07-04 20:47:14"
   },
-  "server": "ia802507.us.archive.org",
-  "uniq": 1882578555,
+  "pending_tasks": true,
+  "server": "ia902507.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3426929601,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2102494655,
   "workable_servers": [
-    "ia802507.us.archive.org",
     "ia902507.us.archive.org"
   ]
 }

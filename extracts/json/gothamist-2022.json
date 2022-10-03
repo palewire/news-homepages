@@ -1,5 +1,5 @@
 {
-  "created": 1664755747,
+  "created": 1664798790,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/20/items/gothamist-2022",
@@ -10488,31 +10488,82 @@
       "sha1": "b29554c97997c423fd7bf9d1834b00692ae2ae68"
     },
     {
+      "name": "gothamist-2022-10-03T08:03:36.221106-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664798635",
+      "size": "21631",
+      "md5": "a62bbd3ea2b77d77add7355472d74481",
+      "crc32": "3072e572",
+      "sha1": "fed0ca19c7347eda6a2d7d0a52c0c6061a2a5d5d",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamist-2022-10-03T08:03:36.221106-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664798637",
+      "size": "14636",
+      "md5": "b2106751282c85548f9612ec9c5879a7",
+      "crc32": "0c4c9d0f",
+      "sha1": "66f3486e584212b56c35aa71de5d1f1dd6a88951",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamist-2022-10-03T08:03:36.221106-04:00.jpg",
+      "source": "original",
+      "mtime": "1664798633",
+      "size": "181097",
+      "md5": "5badfea8f40cd543f0e1f4b80c26b390",
+      "crc32": "9dd25f47",
+      "sha1": "0db7d346608b9eab5a98c814f59c56eba4192ed8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gothamist-2022-10-03T08:03:36.221106-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664798639",
+      "size": "1461",
+      "md5": "1830cc45fe04a2a0fa7a3b7798261072",
+      "crc32": "f7322792",
+      "sha1": "13a1838db733d20d45419a437962b16f3cac4b61",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamist-2022-10-03T08:03:36.221106-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664798641",
+      "size": "94820",
+      "md5": "947c2a980ea26301162d053204ca4639",
+      "crc32": "4d34e26a",
+      "sha1": "906ec6329329dfc7b7fc203433d7ef3797485f97",
+      "format": "JSON"
+    },
+    {
       "name": "gothamist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "302a46e65e20f5d1e5361dd6176a6060c5d55946",
-      "mtime": "1664755638",
-      "size": "214509",
-      "md5": "7cd0e56825ca35405d734e5be4ba4b7e",
-      "crc32": "94ded584",
-      "sha1": "7dddd036a9c5d50b3d5fbd75fb89fe0a7ca583fb",
+      "btih": "1a9c8743e7d6b9351eb814e57336982e28867d23",
+      "mtime": "1664798785",
+      "size": "215577",
+      "md5": "8c7c7589fd1881e1951f5338bfc5127e",
+      "crc32": "fb112ea2",
+      "sha1": "3d462a0532311c3fd480a162bd751ea1e62ec75d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gothamist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4373ef9c8ef84674b20c9c5cdcaf0def",
+      "md5": "ddcfe89a5badc8ea33bd72fa152d11eb",
       "summation": "md5"
     },
     {
       "name": "gothamist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664755409",
-      "size": "1273856",
-      "md5": "09306d9ae17eca1a47251ccdb7a49bc2",
-      "crc32": "db94efde",
-      "sha1": "95ab58a17b5e6cde3c5f4f48e94dc5e9bcf51eb2",
+      "mtime": "1664798736",
+      "size": "1282048",
+      "md5": "b2a813ab2ca26398f96478a4d94bd73b",
+      "crc32": "de2df69c",
+      "sha1": "cdaa41ca18801100bdf45180f7f2000d4d37d0cf",
       "format": "Metadata"
     },
     {
@@ -10526,9 +10577,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1015,
-  "item_last_updated": 1664755638,
-  "item_size": 55740554,
+  "files_count": 1020,
+  "item_last_updated": 1664798785,
+  "item_size": 56063459,
   "metadata": {
     "identifier": "gothamist-2022",
     "collection": [
@@ -10545,10 +10596,21 @@
     "publicdate": "2022-07-04 21:54:16",
     "addeddate": "2022-07-04 21:54:16"
   },
-  "server": "ia802508.us.archive.org",
-  "uniq": 1988401693,
+  "pending_tasks": true,
+  "server": "ia902508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3426937655,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1986355009,
   "workable_servers": [
-    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

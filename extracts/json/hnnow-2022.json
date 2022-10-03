@@ -1,6 +1,6 @@
 {
-  "conflict": 1664755809,
-  "created": 1664755809,
+  "conflict": 1664798902,
+  "created": 1664798902,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/34/items/hnnow-2022",
@@ -1691,23 +1691,39 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426299149,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3426933722,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     },
     {
-      "task_id": 3426303319,
-      "cmd": "bup.php",
+      "task_id": 3426933851,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3426933911,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3426933977,
+      "cmd": "archive.php",
       "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 2144389231,
+  "uniq": 145296672,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

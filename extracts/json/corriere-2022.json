@@ -1,5 +1,5 @@
 {
-  "created": 1664755505,
+  "created": 1664798406,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/20/items/corriere-2022",
@@ -6764,31 +6764,82 @@
       "sha1": "2c4528920a720f04170b5c3fb1068baa7aa32b70"
     },
     {
+      "name": "corriere-2022-10-03T13:59:03.248356+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664798354",
+      "size": "124610",
+      "md5": "068796ba5dc81965de817fc6cca077a1",
+      "crc32": "76372d1b",
+      "sha1": "aae731f1a0f41a5b4030eeaf3ba24114d5e030ec",
+      "format": "JSON"
+    },
+    {
+      "name": "corriere-2022-10-03T13:59:03.248356+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664798355",
+      "size": "208430",
+      "md5": "bcaf19a76909ac7efdcb0903c8fb1331",
+      "crc32": "472d8a74",
+      "sha1": "4e7d60e07dbbbb81cc968819590440aff3f5323f",
+      "format": "JSON"
+    },
+    {
+      "name": "corriere-2022-10-03T13:59:03.248356+02:00.jpg",
+      "source": "original",
+      "mtime": "1664798352",
+      "size": "171410",
+      "md5": "3738d83dff46557f2c28e4ed7d4b4251",
+      "crc32": "c7977f93",
+      "sha1": "5a493b223dbd981b7098365862491e5bcc8e7ee0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "corriere-2022-10-03T13:59:03.248356+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664798357",
+      "size": "1468",
+      "md5": "064674fe2d987ea20d5948093e6c6278",
+      "crc32": "496172a0",
+      "sha1": "7ece958484e6254c5d1e4b7cd838e4e1b67c3fd2",
+      "format": "JSON"
+    },
+    {
+      "name": "corriere-2022-10-03T13:59:03.248356+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664798358",
+      "size": "57759",
+      "md5": "5600b0f88d2bc7f6d2f764564efd196f",
+      "crc32": "0e87d351",
+      "sha1": "1edaa13f176f1485319de81e79bab269859fd82b",
+      "format": "JSON"
+    },
+    {
       "name": "corriere-2022_archive.torrent",
       "source": "metadata",
-      "btih": "74a7806bd539a26ab643124c3484710d2a19c0d0",
-      "mtime": "1664755470",
-      "size": "139820",
-      "md5": "9f3859e186919bb41ae1ec56e94dd58a",
-      "crc32": "c9172fc3",
-      "sha1": "058c9e3b07d77cbff7a27faad013137dfd2f7863",
+      "btih": "34a53174e6a76b9c1cdd28c6e1ef48d3d4a5226c",
+      "mtime": "1664798403",
+      "size": "140885",
+      "md5": "3226f9a4f9b3652096f94586c11aafd1",
+      "crc32": "71566740",
+      "sha1": "cff92a5d87cde701ba65670f519bdb60fdf5b911",
       "format": "Archive BitTorrent"
     },
     {
       "name": "corriere-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ecc4fdb110766844715d335837d2c89d",
+      "md5": "0479849bb43f62103e4b0e427ed14e3c",
       "summation": "md5"
     },
     {
       "name": "corriere-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664755037",
-      "size": "847872",
-      "md5": "416b8bd6bb11bcbea8d2d2678bccb071",
-      "crc32": "b5ebe8a6",
-      "sha1": "ba0612a34f7e67016e26660feed6a29507e3ea0b",
+      "mtime": "1664798364",
+      "size": "851968",
+      "md5": "96a02775fcef0a5d01802061c1554e74",
+      "crc32": "d50e6409",
+      "sha1": "ddd9c6ac40b2f150549553fcedfaf50634ce17e7",
       "format": "Metadata"
     },
     {
@@ -6802,9 +6853,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 658,
-  "item_last_updated": 1664755470,
-  "item_size": 61595889,
+  "files_count": 663,
+  "item_last_updated": 1664798403,
+  "item_size": 62164727,
   "metadata": {
     "identifier": "corriere-2022",
     "collection": [
@@ -6821,10 +6872,21 @@
     "publicdate": "2022-08-11 00:42:02",
     "addeddate": "2022-08-11 00:42:02"
   },
-  "server": "ia802500.us.archive.org",
-  "uniq": 846535386,
+  "pending_tasks": true,
+  "server": "ia902500.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3426928320,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 670953895,
   "workable_servers": [
-    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }

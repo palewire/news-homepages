@@ -1,5 +1,5 @@
 {
-  "created": 1664755751,
+  "created": 1664798603,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/22/items/forbes-2022",
@@ -3622,31 +3622,82 @@
       "sha1": "395bab84080a01a15b8f2e51ffcee55a614b4181"
     },
     {
+      "name": "forbes-2022-10-03T08:01:54.052970-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664798520",
+      "size": "37653",
+      "md5": "cc362e6e5919a4a89ec5e6248ee56701",
+      "crc32": "a1ae66fd",
+      "sha1": "da0d8b853c05cd42eb07f836c8d911dc061e290c",
+      "format": "JSON"
+    },
+    {
+      "name": "forbes-2022-10-03T08:01:54.052970-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664798523",
+      "size": "46941",
+      "md5": "51d92eaa1d92604d3f4ba6c628db412a",
+      "crc32": "8f2e908c",
+      "sha1": "e551d41d8b8a064edfa0b8955dc6963e33c0589d",
+      "format": "JSON"
+    },
+    {
+      "name": "forbes-2022-10-03T08:01:54.052970-04:00.jpg",
+      "source": "original",
+      "mtime": "1664798518",
+      "size": "201617",
+      "md5": "fa85ca314d84fdb76f3fb63f697c1084",
+      "crc32": "44dfbafc",
+      "sha1": "77d726acaccef249da97b2eaa60f1996b6d16242",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "forbes-2022-10-03T08:01:54.052970-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664798528",
+      "size": "1459",
+      "md5": "c7cf3b4d80bb8f8a8c664c7cbb6005fd",
+      "crc32": "cc86e996",
+      "sha1": "abafd72cae33d8de4eb0a94dfa358859eccc9af7",
+      "format": "JSON"
+    },
+    {
+      "name": "forbes-2022-10-03T08:01:54.052970-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664798530",
+      "size": "343",
+      "md5": "03ee6c75a66d8c4d3dbade7fa6700c5e",
+      "crc32": "a88afc6b",
+      "sha1": "7b69942e637c120558c1b7b42d9755008099db3d",
+      "format": "JSON"
+    },
+    {
       "name": "forbes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "eaa8964f4983f4cfe8fb6ecdd991ae8f0dc2338f",
-      "mtime": "1664755733",
-      "size": "74146",
-      "md5": "17183fda2cf45533c7d51a14363c6979",
-      "crc32": "f228d263",
-      "sha1": "9d10b0f17bb0f42d906b7c86b969a8967e71582d",
+      "btih": "36c2cf814c7a3491e35e238b987cac15106293bc",
+      "mtime": "1664798594",
+      "size": "75197",
+      "md5": "7b0f3b232d5cedb3079cfa4359619013",
+      "crc32": "b472bf2c",
+      "sha1": "6a9f2d5cf86d642541804ff7b3fc42aadfca306a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "forbes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2d9f6ec3137dff7d4abfbba61a68fd92",
+      "md5": "41831ccf6dc17fded4edcc3b01994868",
       "summation": "md5"
     },
     {
       "name": "forbes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664755639",
-      "size": "462848",
-      "md5": "8f376c76f326f37b328207ab9782b2ef",
-      "crc32": "ccf410ea",
-      "sha1": "e2c2b15ddce0c4eee0524f6946314c0fffb1a058",
+      "mtime": "1664798545",
+      "size": "471040",
+      "md5": "9b95a4dd98bc98c65e64141ad13495c3",
+      "crc32": "57d4a5c7",
+      "sha1": "9e565ddf29467631aded32d6dec6b07f19f5cf4e",
       "format": "Metadata"
     },
     {
@@ -3660,9 +3711,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 354,
-  "item_last_updated": 1664755733,
-  "item_size": 19872973,
+  "files_count": 359,
+  "item_last_updated": 1664798594,
+  "item_size": 20170229,
   "metadata": {
     "identifier": "forbes-2022",
     "collection": [
@@ -3679,10 +3730,21 @@
     "publicdate": "2022-09-04 11:54:20",
     "addeddate": "2022-09-04 11:54:20"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 1039183069,
+  "pending_tasks": true,
+  "server": "ia601404.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3426933895,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1254828040,
   "workable_servers": [
-    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }

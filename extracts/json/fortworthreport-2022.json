@@ -1,6 +1,5 @@
 {
-  "conflict": 1664755794,
-  "created": 1664755794,
+  "created": 1664798757,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/fortworthreport-2022",
@@ -9977,31 +9976,82 @@
       "sha1": "8ee9e09cfcf56353e021ef94dbc4a791771e8746"
     },
     {
+      "name": "fortworthreport-2022-10-03T07:01:54.250412-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664798518",
+      "size": "42525",
+      "md5": "b83063b07eaf00a7d75f9fd0924566ba",
+      "crc32": "c83fb364",
+      "sha1": "0f9c453b529877d3a659184264ee30ed66c0a130",
+      "format": "JSON"
+    },
+    {
+      "name": "fortworthreport-2022-10-03T07:01:54.250412-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664798520",
+      "size": "39395",
+      "md5": "5f0ff5d50405bbf2e395e3e55f209739",
+      "crc32": "f1e2ffc9",
+      "sha1": "8af9d905336a26c5d6e5207345dbd447341efc56",
+      "format": "JSON"
+    },
+    {
+      "name": "fortworthreport-2022-10-03T07:01:54.250412-05:00.jpg",
+      "source": "original",
+      "mtime": "1664798515",
+      "size": "186900",
+      "md5": "ea7c59b25622937e59d25d122f54e6fe",
+      "crc32": "300ad85d",
+      "sha1": "cc133eb2747b0b0dbde18095a4533d3f30ad7c95",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fortworthreport-2022-10-03T07:01:54.250412-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664798523",
+      "size": "1495",
+      "md5": "30773c3c77b7d8b57b40b080fc57bf03",
+      "crc32": "3928f7bb",
+      "sha1": "147b8b20b30f0d4819ddd477e19dc7cee59b332f",
+      "format": "JSON"
+    },
+    {
+      "name": "fortworthreport-2022-10-03T07:01:54.250412-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664798528",
+      "size": "38778",
+      "md5": "db9d674dd4a101b0a24dcf7f6a341171",
+      "crc32": "79a17f4e",
+      "sha1": "e3981878a11e17371c8ab73025b798123e55d876",
+      "format": "JSON"
+    },
+    {
       "name": "fortworthreport-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5d2a18031d07a7a2bb0627062460babfc24b6f78",
-      "mtime": "1664755757",
-      "size": "210213",
-      "md5": "27ca1ad504997079766814296b8b3a2b",
-      "crc32": "7880a295",
-      "sha1": "7988b50a08db5c39e03e35d21f3c920e5ac503d3",
+      "btih": "c7b8e726f43da0df04dbe7a543d139a3442894b6",
+      "mtime": "1664798735",
+      "size": "211291",
+      "md5": "cca2096cf617ce16200582c041de4801",
+      "crc32": "0da25976",
+      "sha1": "0c3044ca1a3e3cb843ad1e462ee772ce8bce1690",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fortworthreport-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7c5e3d6fe2142b2ac3d9607b8f66d235",
+      "md5": "b64ea7dd7e609399241f9262da06f190",
       "summation": "md5"
     },
     {
       "name": "fortworthreport-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664755501",
-      "size": "1224704",
-      "md5": "5d8f19ac951dcdadbe7052687b8a0962",
-      "crc32": "cc370f96",
-      "sha1": "ac92273ac77ca8dafc7aec09ac453432c5885bed",
+      "mtime": "1664798656",
+      "size": "1232896",
+      "md5": "f77c14650095fa3268384f449d866553",
+      "crc32": "c570d522",
+      "sha1": "a546e542df536fb9517641a76ae3d6ab87152bc4",
       "format": "Metadata"
     },
     {
@@ -10015,9 +10065,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 966,
-  "item_last_updated": 1664755757,
-  "item_size": 57548380,
+  "files_count": 971,
+  "item_last_updated": 1664798735,
+  "item_size": 57866743,
   "metadata": {
     "identifier": "fortworthreport-2022",
     "collection": [
@@ -10039,15 +10089,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426302760,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "task_id": 3426937228,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 854520217,
+  "uniq": 730703889,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

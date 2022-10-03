@@ -1,6 +1,6 @@
 {
-  "conflict": 1664755400,
-  "created": 1664755400,
+  "conflict": 1664798471,
+  "created": 1664798471,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/9/items/comissourian-2022",
@@ -10359,23 +10359,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426289832,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3426927391,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
-    },
-    {
-      "task_id": 3426297433,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
     }
   ],
-  "uniq": 1985466430,
+  "uniq": 70839299,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]
