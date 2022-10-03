@@ -1,5 +1,6 @@
 {
-  "created": 1664776483,
+  "conflict": 1664785007,
+  "created": 1664785007,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/6/items/lemondefr-2022",
@@ -21107,11 +21108,6 @@
   "files_count": 2028,
   "item_last_updated": 1664775488,
   "item_size": 150962350,
-  "lemondefr-2022": {
-    "url": "https://www.lemonde.fr/",
-    "job_id": "spn2-047b2d2d350fb4d931286bdf7484bc56c93cc577",
-    "message": "The same snapshot had been made 11 minutes, 20 seconds ago. You can make new capture of this URL after 45 minutes."
-  },
   "metadata": {
     "identifier": "lemondefr-2022",
     "collection": [
@@ -21133,23 +21129,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426570244,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3426725247,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
-    },
-    {
-      "task_id": 3426588524,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
     }
   ],
-  "uniq": 2132619812,
+  "uniq": 4834636,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

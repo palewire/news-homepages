@@ -1,5 +1,6 @@
 {
-  "created": 1664782645,
+  "conflict": 1664785019,
+  "created": 1664785019,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/15/items/parisreview-2022",
@@ -12935,6 +12936,17 @@
       "format": "JSON"
     },
     {
+      "name": "parisreview-2022-10-03T09:36:08.538340+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "parisreview-2022-10-03T09:36:08.538340+02:00.jpg",
+      "mtime": "1664785010",
+      "size": "9921",
+      "md5": "22fe520627b244c38a1318322e735800",
+      "crc32": "e0c0ef4c",
+      "sha1": "a76053f18961a6187e4bf16fd8a69de63ccb5075"
+    },
+    {
       "name": "parisreview-2022_archive.torrent",
       "source": "metadata",
       "btih": "bf6d578fb1c2990df206edd3aefe1848b96e4162",
@@ -12949,7 +12961,7 @@
       "name": "parisreview-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "68dee5a9eb8e96811ce3232aa423aeaf",
+      "md5": "ee7ece97803aeed7dd7a08160ebeb15b",
       "summation": "md5"
     },
     {
@@ -12973,9 +12985,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1252,
-  "item_last_updated": 1664782638,
-  "item_size": 72208842,
+  "files_count": 1253,
+  "item_last_updated": 1664785010,
+  "item_size": 72218763,
   "metadata": {
     "identifier": "parisreview-2022",
     "collection": [
@@ -13000,12 +13012,60 @@
       "task_id": 3426691105,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3426725273,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3426725296,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3426725327,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3426725352,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3426725377,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3426725961,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 508334539,
+  "uniq": 219725132,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]
