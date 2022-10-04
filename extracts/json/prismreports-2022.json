@@ -1,5 +1,5 @@
 {
-  "created": 1664826828,
+  "created": 1664869668,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/13/items/prismreports-2022",
@@ -9769,31 +9769,93 @@
       "format": "JSON"
     },
     {
+      "name": "prismreports-2022-10-03T12:20:58.531757-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "prismreports-2022-10-03T12:20:58.531757-07:00.jpg",
+      "mtime": "1664827089",
+      "size": "10061",
+      "md5": "70e8378a1e29d4fb6dec4c18f6bf1f24",
+      "crc32": "ee18803e",
+      "sha1": "95e7499fd3d1f8343786e54f952e870894591f80"
+    },
+    {
+      "name": "prismreports-2022-10-04T00:46:39.070839-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664869606",
+      "size": "19517",
+      "md5": "32905f73e5bf63f109323b7a15d3e956",
+      "crc32": "76f9b3e1",
+      "sha1": "25adc43e53a7d42291984142e2ca0087c6a79806",
+      "format": "JSON"
+    },
+    {
+      "name": "prismreports-2022-10-04T00:46:39.070839-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664869608",
+      "size": "21293",
+      "md5": "2884d4bd10d4c1ff3ebb4b25610bfde8",
+      "crc32": "38976dcf",
+      "sha1": "55f3f80f406b7d22f42d768a3482ea1f7fa2e50d",
+      "format": "JSON"
+    },
+    {
+      "name": "prismreports-2022-10-04T00:46:39.070839-07:00.jpg",
+      "source": "original",
+      "mtime": "1664869604",
+      "size": "339801",
+      "md5": "c83e3bbf6f859782fe1caa99c9475f8c",
+      "crc32": "76aa0481",
+      "sha1": "04c83952ba806f18c79cf9580126460e279f121c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "prismreports-2022-10-04T00:46:39.070839-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664869609",
+      "size": "1475",
+      "md5": "e2111e3dc90dd39654763eefb74a73bb",
+      "crc32": "5e822073",
+      "sha1": "115dc17b2f516f7edc2dba122eb3913b265dc583",
+      "format": "JSON"
+    },
+    {
+      "name": "prismreports-2022-10-04T00:46:39.070839-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664869610",
+      "size": "16350",
+      "md5": "68e5b4a9f2b877239e04d8f62721b6d4",
+      "crc32": "39daa587",
+      "sha1": "15c97c9331ede4e968bb085d9ac3886d6c76585f",
+      "format": "JSON"
+    },
+    {
       "name": "prismreports-2022_archive.torrent",
       "source": "metadata",
-      "btih": "64dbbad116a66dc4307a69e00e9d50c4ae3d8363",
-      "mtime": "1664824922",
-      "size": "203582",
-      "md5": "b8990f5cb073dbcc05bc1ea9fb9d85df",
-      "crc32": "df235c86",
-      "sha1": "67574fd88de5f028be14df919a1f391155c14682",
+      "btih": "170e1101ca58e66ad6c580503bd6025f5ab26b6e",
+      "mtime": "1664869664",
+      "size": "204854",
+      "md5": "b0c3df36e2afb2e216386de35746e4b0",
+      "crc32": "20c0a4b3",
+      "sha1": "f3390207c45c34150553aa6614f2db0e818cdf53",
       "format": "Archive BitTorrent"
     },
     {
       "name": "prismreports-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "51737de26ab52d21f399c62ec6591906",
+      "md5": "5d5294906c5569b9d8c7e838134bcfff",
       "summation": "md5"
     },
     {
       "name": "prismreports-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664824877",
-      "size": "1196032",
-      "md5": "f888db77640e4a3b1b4b81dac75c172d",
-      "crc32": "95b4c118",
-      "sha1": "0f044cbc2c829f84128a844da4c02816e955bebf",
+      "mtime": "1664869617",
+      "size": "1204224",
+      "md5": "8449495cd04529563d0a6ea4c45252b4",
+      "crc32": "96738507",
+      "sha1": "5ef35e1b2bf77448c121afde0a8925a3c34b5468",
       "format": "Metadata"
     },
     {
@@ -9807,9 +9869,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 946,
-  "item_last_updated": 1664824922,
-  "item_size": 67889746,
+  "files_count": 952,
+  "item_last_updated": 1664869664,
+  "item_size": 68307707,
   "metadata": {
     "identifier": "prismreports-2022",
     "collection": [
@@ -9827,16 +9889,11 @@
     "addeddate": "2022-07-09 04:03:23"
   },
   "pending_tasks": true,
-  "prismreports-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "server": "ia902502.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3427304225,
+      "task_id": 3427969537,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9844,7 +9901,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2004589654,
+  "uniq": 1909653394,
   "workable_servers": [
     "ia902502.us.archive.org"
   ]

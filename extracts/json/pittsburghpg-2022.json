@@ -1,5 +1,5 @@
 {
-  "created": 1664824854,
+  "created": 1664869670,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/24/items/pittsburghpg-2022",
@@ -8331,31 +8331,93 @@
       "format": "JSON"
     },
     {
+      "name": "pittsburghpg-2022-10-03T15:19:44.846290-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pittsburghpg-2022-10-03T15:19:44.846290-04:00.jpg",
+      "mtime": "1664827109",
+      "size": "9968",
+      "md5": "14caf9fa5f7224173936233015ebaec0",
+      "crc32": "27c6e77a",
+      "sha1": "f37848f6839d1744fe6c8e3183f683e113f27f0f"
+    },
+    {
+      "name": "pittsburghpg-2022-10-04T03:46:40.390269-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664869603",
+      "size": "50508",
+      "md5": "ceede21cb25b600e2861da017f8e0990",
+      "crc32": "647dd9b1",
+      "sha1": "dd97952319ff391f219572271b1b3c3d4e1bfc4b",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-04T03:46:40.390269-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664869605",
+      "size": "94128",
+      "md5": "9ba0448660dd797d43ee6cb10989c12b",
+      "crc32": "89b1f6ca",
+      "sha1": "b53d19b5962fa8e97069b9003fee1d4c07a02296",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-04T03:46:40.390269-04:00.jpg",
+      "source": "original",
+      "mtime": "1664869601",
+      "size": "352486",
+      "md5": "22f3c3d89870f8a8d9dfd2c036db94fe",
+      "crc32": "4530879e",
+      "sha1": "e39f25cb34dfaf2340c86652f308452e1478c841",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pittsburghpg-2022-10-04T03:46:40.390269-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664869606",
+      "size": "1512",
+      "md5": "fff2cfe239c9e078c7eea96d20241b06",
+      "crc32": "ca8ada2f",
+      "sha1": "7f1e16511f6746aa4c9cab4f2110d207db1076bb",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-04T03:46:40.390269-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664869608",
+      "size": "82584",
+      "md5": "c8405b19c924915ee22c0b3449a10c6f",
+      "crc32": "9e062a57",
+      "sha1": "a0a37b21f07a4c1c563d0f9c4efecbf3bb827a9f",
+      "format": "JSON"
+    },
+    {
       "name": "pittsburghpg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c36777e3c8f97da54d0bfdbb4cfd56b3a4465aa9",
-      "mtime": "1664824849",
-      "size": "174707",
-      "md5": "bb549324e42cfcd8b0386fe5dcb7d5c1",
-      "crc32": "adc17ac8",
-      "sha1": "49793ae42f6a480ccc3b9e7c1a891a56c3c1497a",
+      "btih": "279721240dd1ebe845275d8eaa20206c7c7f078b",
+      "mtime": "1664869664",
+      "size": "175998",
+      "md5": "ab66fc2a151a0a80b4df7c7b8035cd6c",
+      "crc32": "ac93f3fc",
+      "sha1": "016b55da62f309cf5bbb882c611bdf80b2fb22d7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pittsburghpg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a56e35a0325fc57d44bf517a293c1750",
+      "md5": "1b761c894af4d3c03aa118e6d4574932",
       "summation": "md5"
     },
     {
       "name": "pittsburghpg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664824804",
-      "size": "1040384",
-      "md5": "719e05b3c3deba32a937f6ee4aeed0a3",
-      "crc32": "d536f523",
-      "sha1": "2140a719a800c19ed8a15e5834aaee60d2b94e10",
+      "mtime": "1664869616",
+      "size": "1044480",
+      "md5": "a3e6c6ada71f0d989af4b97e42c24d87",
+      "crc32": "725c9e5d",
+      "sha1": "97fad6844479e898fdf2679998f5aefcd42fc0df",
       "format": "Metadata"
     },
     {
@@ -8369,9 +8431,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 809,
-  "item_last_updated": 1664824849,
-  "item_size": 72670648,
+  "files_count": 815,
+  "item_last_updated": 1664869664,
+  "item_size": 73267221,
   "metadata": {
     "identifier": "pittsburghpg-2022",
     "collection": [
@@ -8393,7 +8455,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3427303296,
+      "task_id": 3427969563,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8401,7 +8463,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1331143110,
+  "uniq": 1984578193,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]

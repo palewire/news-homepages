@@ -1,5 +1,5 @@
 {
-  "created": 1664824983,
+  "created": 1664869659,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/14/items/politico-2022",
@@ -11029,31 +11029,93 @@
       "format": "JSON"
     },
     {
+      "name": "politico-2022-10-03T15:21:48.638655-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "politico-2022-10-03T15:21:48.638655-04:00.jpg",
+      "mtime": "1664827724",
+      "size": "9510",
+      "md5": "764068dd504ffd5caf754306699f0354",
+      "crc32": "fadb5a4f",
+      "sha1": "71c41fa54581492649538271a654647f739a39e0"
+    },
+    {
+      "name": "politico-2022-10-04T03:46:21.600934-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664869598",
+      "size": "64853",
+      "md5": "d4ad70ff1756b5fd3769e5c9381e152d",
+      "crc32": "1f05fb4a",
+      "sha1": "34bf317c5bd0a1d901099edad740f72dd452d963",
+      "format": "JSON"
+    },
+    {
+      "name": "politico-2022-10-04T03:46:21.600934-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664869600",
+      "size": "47704",
+      "md5": "47a75a8899d4f1a9ccb3f105bcfecddf",
+      "crc32": "3f97dbc6",
+      "sha1": "3da30bcbd23e61a1c8209626cda43d19d77b0bf2",
+      "format": "JSON"
+    },
+    {
+      "name": "politico-2022-10-04T03:46:21.600934-04:00.jpg",
+      "source": "original",
+      "mtime": "1664869597",
+      "size": "265477",
+      "md5": "2ee890ac78c5293d292519635ef09369",
+      "crc32": "75c31af0",
+      "sha1": "db42f88e9b035ffc6cdfd96d7af51eb7c1a4af2c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "politico-2022-10-04T03:46:21.600934-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664869601",
+      "size": "1475",
+      "md5": "bada8f9d10941687c00bbaf6efaff5fe",
+      "crc32": "6ce75565",
+      "sha1": "5814b41df499f52214c347b5fd944cecdbbf36f7",
+      "format": "JSON"
+    },
+    {
+      "name": "politico-2022-10-04T03:46:21.600934-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664869603",
+      "size": "47473",
+      "md5": "681434c9f6249adb27318cf7fc9a229c",
+      "crc32": "7005bd60",
+      "sha1": "b0facc1d18330a720a9971a9516efb6209c5d328",
+      "format": "JSON"
+    },
+    {
       "name": "politico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "375849402a180de0d5a314295ec91c2e2087ea9a",
-      "mtime": "1664824979",
-      "size": "225115",
-      "md5": "36ec56557956109005df2a3ad63c08e9",
-      "crc32": "30adc31c",
-      "sha1": "53abad4a7282e4b2a347804b1709e7584fca47e3",
+      "btih": "a2da0c257214133843d86bd8610655d1b520f7f2",
+      "mtime": "1664869656",
+      "size": "226382",
+      "md5": "38e31a43f1f8699c9df5d1491a97e0fd",
+      "crc32": "18a0c72d",
+      "sha1": "552b7a4c08bd1035e4b82d75e1d3382a99beb853",
       "format": "Archive BitTorrent"
     },
     {
       "name": "politico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a3f7e8c3c4f31facbec30ef15ce31a69",
+      "md5": "51fc37533ceb34d94443d21a7ca332fc",
       "summation": "md5"
     },
     {
       "name": "politico-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664824932",
-      "size": "1327104",
-      "md5": "31177bf8979e1ce1b44a61c34d3b3f91",
-      "crc32": "fdef5d8c",
-      "sha1": "85ce85feebaafa6b80768586f390be62bc7490a2",
+      "mtime": "1664869607",
+      "size": "1335296",
+      "md5": "df4263fb5f97e554d9b96c9f519c0888",
+      "crc32": "318a89a4",
+      "sha1": "00f7109ad5947415c9dda2d869f860097d084d67",
       "format": "Metadata"
     },
     {
@@ -11067,9 +11129,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1066,
-  "item_last_updated": 1664824979,
-  "item_size": 84254589,
+  "files_count": 1072,
+  "item_last_updated": 1664869656,
+  "item_size": 84700540,
   "metadata": {
     "identifier": "politico-2022",
     "collection": [
@@ -11091,7 +11153,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3427305024,
+      "task_id": 3427969430,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11099,7 +11161,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 874379279,
+  "uniq": 1439256752,
   "workable_servers": [
     "ia902500.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1664824831,
+  "created": 1664869493,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/2/items/opovo-2022",
@@ -9566,31 +9566,61 @@
       "format": "JSON"
     },
     {
+      "name": "opovo-2022-10-04T04:43:45.413382-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664869431",
+      "size": "27375",
+      "md5": "58949773e82ac528b53cc428ba0c1cf1",
+      "crc32": "ad62237f",
+      "sha1": "dfe6b19a9eedddb8c37efa4250492bbce5a442ad",
+      "format": "JSON"
+    },
+    {
+      "name": "opovo-2022-10-04T04:43:45.413382-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664869433",
+      "size": "43089",
+      "md5": "b91814677b432d8c997c7d1984bf3a4c",
+      "crc32": "86e94daf",
+      "sha1": "cf0df4e5fda1a5308ed15226b4af796633f02330",
+      "format": "JSON"
+    },
+    {
+      "name": "opovo-2022-10-04T04:43:45.413382-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664869435",
+      "size": "44117",
+      "md5": "e48fc00d778792a5f62bd4e8eb0936ec",
+      "crc32": "b2e69668",
+      "sha1": "ed14edb5eb9ca0f82629f0aa931f5f4ad5482f99",
+      "format": "JSON"
+    },
+    {
       "name": "opovo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "39cfe321439073d5bac0a4bac5f55448be8e37b7",
-      "mtime": "1664824827",
-      "size": "192186",
-      "md5": "676e312dc743a4478c5712270bf212b0",
-      "crc32": "10a71bb4",
-      "sha1": "bc73fd564734c585d09e2ca1b8b086694d8550a2",
+      "btih": "bd84d740cfc6dc94135e73c2cd4f088a13a7b188",
+      "mtime": "1664869489",
+      "size": "192830",
+      "md5": "eb3ca9ffe92acd6807cda2b4133b6a00",
+      "crc32": "cd6123ef",
+      "sha1": "a282fe80f1cc184e1b0dba48f86bf55de50073e7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "opovo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "885629a5b7b17dae924e31562ba17f88",
+      "md5": "6cf636aa26a85ebf9eb778de758947a8",
       "summation": "md5"
     },
     {
       "name": "opovo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664824785",
-      "size": "1163264",
-      "md5": "5f556bf5b34d7d0a001d2b06fc528f85",
-      "crc32": "3a8907a8",
-      "sha1": "5d7591093999a48fcd7f50276c87a11b718a2f4e",
+      "mtime": "1664869444",
+      "size": "1167360",
+      "md5": "f99b458fbc2e165a351583c3a72f2e74",
+      "crc32": "bf0ab37f",
+      "sha1": "77cfa63d2d8efcf6feaed8331f32caa9c4d00cf5",
       "format": "Metadata"
     },
     {
@@ -9604,9 +9634,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 927,
-  "item_last_updated": 1664824827,
-  "item_size": 60914090,
+  "files_count": 930,
+  "item_last_updated": 1664869489,
+  "item_size": 61033411,
   "metadata": {
     "identifier": "opovo-2022",
     "collection": [
@@ -9628,7 +9658,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3427302922,
+      "task_id": 3427967197,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9636,7 +9666,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1427996838,
+  "uniq": 403239241,
   "workable_servers": [
     "ia902500.us.archive.org"
   ]

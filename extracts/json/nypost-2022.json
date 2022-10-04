@@ -1,5 +1,5 @@
 {
-  "created": 1664824768,
+  "created": 1664869498,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/16/items/nypost-2022",
@@ -9867,31 +9867,93 @@
       "format": "JSON"
     },
     {
+      "name": "nypost-2022-10-03T15:18:19.574767-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nypost-2022-10-03T15:18:19.574767-04:00.jpg",
+      "mtime": "1664827147",
+      "size": "11838",
+      "md5": "6901ec253d6ec692dd3a2dcb3d2c191f",
+      "crc32": "7c846653",
+      "sha1": "af481393a87bf3ef2541bc3e91289a120240e869"
+    },
+    {
+      "name": "nypost-2022-10-04T03:43:50.883453-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664869440",
+      "size": "61729",
+      "md5": "147c6c5dd1a861a5814edc05b1152004",
+      "crc32": "5e9f708d",
+      "sha1": "a11de0a334b12030cac2b70f3df8399e189dac5d",
+      "format": "JSON"
+    },
+    {
+      "name": "nypost-2022-10-04T03:43:50.883453-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664869442",
+      "size": "65334",
+      "md5": "0dddc1b2eea109c64eed7386d77dff77",
+      "crc32": "f8864a3d",
+      "sha1": "28a233676774348c7a4ad388259aa66bd2a143f7",
+      "format": "JSON"
+    },
+    {
+      "name": "nypost-2022-10-04T03:43:50.883453-04:00.jpg",
+      "source": "original",
+      "mtime": "1664869438",
+      "size": "352163",
+      "md5": "6455195c62108272f0a287dd8b033ec4",
+      "crc32": "6d0fc699",
+      "sha1": "bff020d9c63683625eac499aadcf95078e1940df",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nypost-2022-10-04T03:43:50.883453-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664869444",
+      "size": "1419",
+      "md5": "c1bf3f8b9bfaf6d0d151ed3750be3cd3",
+      "crc32": "ea1cd08c",
+      "sha1": "de7d7163e81ddd000652a2256290ba5205d976da",
+      "format": "JSON"
+    },
+    {
+      "name": "nypost-2022-10-04T03:43:50.883453-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664869445",
+      "size": "37061",
+      "md5": "5e09ec0e5f2a92d7fce44c1025e923d6",
+      "crc32": "e0d78b79",
+      "sha1": "0783dc733549285117e793d61c563695f2595828",
+      "format": "JSON"
+    },
+    {
       "name": "nypost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8b091f17ad8ebbc0c376023eced6b43abe07c250",
-      "mtime": "1664824764",
-      "size": "199939",
-      "md5": "726ed6182ebafae065f0b830e9189968",
-      "crc32": "076873ee",
-      "sha1": "eed59a6eee2efc178c60d173dd960f2d11eaf8f9",
+      "btih": "3d67d1d2d2212a78b265762880f65100f3b3032d",
+      "mtime": "1664869495",
+      "size": "201195",
+      "md5": "bcf7704a1e4b74c0083bd900cf7c82ee",
+      "crc32": "917e4d87",
+      "sha1": "41dd7fc85b73b917a0dac5ed7693dca62e5b267b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nypost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3f6ff67376b2fa09a15590ff0ad82212",
+      "md5": "d173df9329f4dcb70c5bf8159658dc0c",
       "summation": "md5"
     },
     {
       "name": "nypost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664824715",
-      "size": "1179648",
-      "md5": "a7619c5c18ba123511fbd5825219819c",
-      "crc32": "0bb58b02",
-      "sha1": "6f22e19048b8f86ae152b6e0396ac8d22f91ad52",
+      "mtime": "1664869450",
+      "size": "1183744",
+      "md5": "ac68f34b3f375ae10afcc6281f695af2",
+      "crc32": "90bb7fe1",
+      "sha1": "380a7863d66fd3a61661ef81172e9b747a0f28b0",
       "format": "Metadata"
     },
     {
@@ -9905,9 +9967,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 953,
-  "item_last_updated": 1664824764,
-  "item_size": 90888719,
+  "files_count": 959,
+  "item_last_updated": 1664869495,
+  "item_size": 91423615,
   "metadata": {
     "identifier": "nypost-2022",
     "collection": [
@@ -9929,7 +9991,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3427302110,
+      "task_id": 3427967280,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9937,7 +9999,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 405827939,
+  "uniq": 1653567993,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]

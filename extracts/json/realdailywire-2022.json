@@ -1,5 +1,5 @@
 {
-  "created": 1664826863,
+  "created": 1664869676,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/14/items/realdailywire-2022",
@@ -20273,31 +20273,93 @@
       "format": "JSON"
     },
     {
+      "name": "realdailywire-2022-10-03T15:52:23.858568-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "realdailywire-2022-10-03T15:52:23.858568-04:00.jpg",
+      "mtime": "1664828968",
+      "size": "10867",
+      "md5": "3c5d58b330014eed3eced6cac440fe97",
+      "crc32": "b947f8b5",
+      "sha1": "8f83ea256c818f0eba7db222667c633c546d417c"
+    },
+    {
+      "name": "realdailywire-2022-10-04T03:46:36.229514-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664869600",
+      "size": "17549",
+      "md5": "85e81f21142fff4bdaede0f08a884784",
+      "crc32": "6a276493",
+      "sha1": "05a36ba11712a9cc604902aebe6ac647177d45e3",
+      "format": "JSON"
+    },
+    {
+      "name": "realdailywire-2022-10-04T03:46:36.229514-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664869602",
+      "size": "11252",
+      "md5": "6ab86426bf90e6a4de10f4862462c282",
+      "crc32": "7b68f267",
+      "sha1": "42972d7261408dd9345f1a082e26db743d14b9f3",
+      "format": "JSON"
+    },
+    {
+      "name": "realdailywire-2022-10-04T03:46:36.229514-04:00.jpg",
+      "source": "original",
+      "mtime": "1664869598",
+      "size": "272645",
+      "md5": "c3d0a2ac8129471d4567e34ef0ce7c24",
+      "crc32": "62ba1004",
+      "sha1": "3780b3c908f40e3a3187fa92d8bbaf7438bb6e02",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "realdailywire-2022-10-04T03:46:36.229514-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664869603",
+      "size": "1486",
+      "md5": "4837a45121d7941fdd4e152079fbf95e",
+      "crc32": "a5c67239",
+      "sha1": "1376ecfb01edee55863561441ac69c1a552c2cd4",
+      "format": "JSON"
+    },
+    {
+      "name": "realdailywire-2022-10-04T03:46:36.229514-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664869605",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "realdailywire-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b762e96e66f5ce532cd126bf5e9b285ac12e64dd",
-      "mtime": "1664826851",
-      "size": "420003",
-      "md5": "b453595d9fd02a22508e04ce8e90bcbb",
-      "crc32": "22307ffd",
-      "sha1": "8aee5ed57ea5d322742364186d1cc22f69da9c5c",
+      "btih": "a1c2b3c095ecd82d1603a35257c988a255a0ff41",
+      "mtime": "1664869671",
+      "size": "421299",
+      "md5": "6ea68c6358f0a5736f63f391f71a7c62",
+      "crc32": "9a89977c",
+      "sha1": "a97704fc9039b5feac6b101279572a1bb078a74b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "realdailywire-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ca3b7e234acf684bea87aa1da8b7d53f",
+      "md5": "d235bd69454923470f2f40327331b296",
       "summation": "md5"
     },
     {
       "name": "realdailywire-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664826823",
-      "size": "2367488",
-      "md5": "da4cfae4ee0721a2ee0b3602e45c2042",
-      "crc32": "d294296a",
-      "sha1": "4ae728f51a5dc03e6401f9429513e5bebcc69e7d",
+      "mtime": "1664869611",
+      "size": "2375680",
+      "md5": "2719e25b35f3e776c8a45a4b7f81cce5",
+      "crc32": "867736d0",
+      "sha1": "0fc38b4a567170ad18b8780feb1c167d3efc64f6",
       "format": "Metadata"
     },
     {
@@ -20311,9 +20373,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1949,
-  "item_last_updated": 1664826851,
-  "item_size": 133974555,
+  "files_count": 1955,
+  "item_last_updated": 1664869671,
+  "item_size": 134298044,
   "metadata": {
     "identifier": "realdailywire-2022",
     "collection": [
@@ -20335,7 +20397,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3427329266,
+      "task_id": 3427969610,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -20343,7 +20405,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 385267471,
+  "uniq": 1299032982,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]
