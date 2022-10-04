@@ -1,5 +1,5 @@
 {
-  "created": 1664866673,
+  "created": 1664906329,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/29/items/mtshastanews-2022",
@@ -1732,31 +1732,93 @@
       "sha1": "5d9361e33ebf6d18d2a6ac19b48a51b3b5c9eafb"
     },
     {
+      "name": "mtshastanews-2022-10-04T10:52:52.539530-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664905980",
+      "size": "12023",
+      "md5": "728006f50eb7a22b08f17f6bf00e106a",
+      "crc32": "d17a6221",
+      "sha1": "7db0751c3bd8080994a8d0a91744d9cd72ec3143",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-04T10:52:52.539530-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664905983",
+      "size": "30849",
+      "md5": "ff806aa53d3b4d1d1d7289dc4585fc40",
+      "crc32": "e43d772a",
+      "sha1": "03363df91e44ca0493135c0b15ff71053556bf89",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-04T10:52:52.539530-07:00.jpg",
+      "source": "original",
+      "mtime": "1664905976",
+      "size": "274462",
+      "md5": "72f55c50ed292ebd867b6c8238cfa25e",
+      "crc32": "79e66a24",
+      "sha1": "5399ad312b173fc16171be8e491dc3369d0db6e2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtshastanews-2022-10-04T10:52:52.539530-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664905988",
+      "size": "1512",
+      "md5": "fabfe218fd757d800253718a747704c0",
+      "crc32": "6a4ef8dd",
+      "sha1": "b1b8cb0a991554d1fe010cced04f6a8355cc0f15",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-04T10:52:52.539530-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664905989",
+      "size": "97808",
+      "md5": "bb51716aa3ce79515a83eaa4b6c33a99",
+      "crc32": "134ed134",
+      "sha1": "f7d7dc187b8a99aac75693c4d279e773ccac3d73",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-04T10:52:52.539530-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtshastanews-2022-10-04T10:52:52.539530-07:00.jpg",
+      "mtime": "1664906189",
+      "size": "8840",
+      "md5": "58701dbab1ebf786635559e2afe05b27",
+      "crc32": "37972a40",
+      "sha1": "bb4c218a75feaf0bf26076ff29d4ccf6776af2c6"
+    },
+    {
       "name": "mtshastanews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "98ab25d8671ea4206d30fe7e336b8862555543dd",
-      "mtime": "1664866579",
-      "size": "37245",
-      "md5": "bbf0a2b7f73e7ef00edbec511849d6ae",
-      "crc32": "4eb3b6f7",
-      "sha1": "ce5f501d53f8e31e1c904da0ef5b1f984ac61d21",
+      "btih": "f67af66c7f5c4bd5cc35cffae4516c83620a79de",
+      "mtime": "1664906207",
+      "size": "38536",
+      "md5": "b7efd8f0b3d29116b7a401b65ec50159",
+      "crc32": "ca129977",
+      "sha1": "317908cf54485ffaafc7ce9a48a1ed95ad3dfd59",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mtshastanews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "472a7f27f8d60fcb576c53b6af649bb5",
+      "md5": "f77633f1bd4d5b96634beec22150a434",
       "summation": "md5"
     },
     {
       "name": "mtshastanews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664864066",
-      "size": "233472",
-      "md5": "41da3f2da7f475d9185d84635bed1646",
-      "crc32": "dfbf3efe",
-      "sha1": "780b04a792989cfd63541626009227262a88068a",
+      "mtime": "1664905993",
+      "size": "241664",
+      "md5": "c4579462fe404a7e8fcb63ee55c463b1",
+      "crc32": "686dde63",
+      "sha1": "680e1e90eb21fb9a0aa483ded06cdf28bbe662cb",
       "format": "Metadata"
     },
     {
@@ -1770,9 +1832,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 171,
-  "item_last_updated": 1664866579,
-  "item_size": 11249984,
+  "files_count": 177,
+  "item_last_updated": 1664906207,
+  "item_size": 11684961,
   "metadata": {
     "identifier": "mtshastanews-2022",
     "collection": [
@@ -1789,10 +1851,10 @@
     "publicdate": "2022-09-20 17:35:39",
     "addeddate": "2022-09-20 17:35:39"
   },
-  "server": "ia601505.us.archive.org",
-  "uniq": 1821354941,
+  "server": "ia801505.us.archive.org",
+  "uniq": 59214443,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia801505.us.archive.org",
+    "ia601505.us.archive.org"
   ]
 }

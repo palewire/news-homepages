@@ -1,5 +1,5 @@
 {
-  "created": 1664869460,
+  "created": 1664907007,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/6/items/lajornadaonline-2022",
@@ -6094,31 +6094,93 @@
       "sha1": "d09bd9563fa9b02d11d28eb4c1698b803148a5ba"
     },
     {
+      "name": "lajornadaonline-2022-10-04T12:49:36.123794-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664905789",
+      "size": "4653",
+      "md5": "da9a6a23c6efcf30de39f31c24755f7b",
+      "crc32": "dc5c2f64",
+      "sha1": "6f2531eafb41437ae7960a24922d39da1ca398c1",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornadaonline-2022-10-04T12:49:36.123794-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664905793",
+      "size": "8603",
+      "md5": "3e1793067d8d6c59b38d3fecac10a404",
+      "crc32": "f904a2dc",
+      "sha1": "6e6c7b4f515f21ccc153a6dd0753777c6ee96977",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornadaonline-2022-10-04T12:49:36.123794-05:00.jpg",
+      "source": "original",
+      "mtime": "1664905783",
+      "size": "140402",
+      "md5": "ae7c71e68647c7fce063a40fbf628794",
+      "crc32": "51a41f12",
+      "sha1": "60b38b9cb632519c7a6f4fb1e6ae5c9f25031d5b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lajornadaonline-2022-10-04T12:49:36.123794-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664905798",
+      "size": "1494",
+      "md5": "ab2770758278467049638f865641bc29",
+      "crc32": "9ac6e063",
+      "sha1": "8576647250c01995f1c6f04f02983b2e2ee0ab27",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornadaonline-2022-10-04T12:49:36.123794-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664905803",
+      "size": "23841",
+      "md5": "c7353d30c54eefbf59d4f165e21f96d7",
+      "crc32": "7fb6f5a1",
+      "sha1": "f35bca93ae10cef3695c026b3483c0a6e15af105",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornadaonline-2022-10-04T12:49:36.123794-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lajornadaonline-2022-10-04T12:49:36.123794-05:00.jpg",
+      "mtime": "1664906956",
+      "size": "8419",
+      "md5": "1b1504bcb3287fbe225bb23b867616e8",
+      "crc32": "b15c1335",
+      "sha1": "8d56286dedee0552a8274471dd86db7bcd056539"
+    },
+    {
       "name": "lajornadaonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0d4e0fbe7c359eba4d57e0421b1e4a23e5866c23",
-      "mtime": "1664866300",
-      "size": "128573",
-      "md5": "9a392266be70a07ef7f85feca4055cb5",
-      "crc32": "469f5ca0",
-      "sha1": "d87f607f8316256f502aa6060c82cdab65afbdbb",
+      "btih": "c7764ce0bdd0821cc89865d888daaf32f01ee049",
+      "mtime": "1664906964",
+      "size": "129860",
+      "md5": "f21fad02d49e7db641d67a8380144dd6",
+      "crc32": "1fdcca10",
+      "sha1": "2a45565a29ae8c4ab013c6a567dc4fe549acaa61",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lajornadaonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8b83ec989a12250eb26d38f93864f507",
+      "md5": "75f71ef66174760986db2ff7fdd0a3a5",
       "summation": "md5"
     },
     {
       "name": "lajornadaonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664863922",
-      "size": "770048",
-      "md5": "9736b904095c1940eb5c99e477f8a156",
-      "crc32": "b150f53e",
-      "sha1": "5cb9f83700d6c9b9db3395758b0a5fb24841c279",
+      "mtime": "1664905808",
+      "size": "782336",
+      "md5": "35951e6a6bae438c1947f6d33b7a83d9",
+      "crc32": "93ec1780",
+      "sha1": "b826d9d835e7386537d97c65e126c7d5d94aabec",
       "format": "Metadata"
     },
     {
@@ -6132,17 +6194,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 593,
-  "item_last_updated": 1664866300,
-  "item_size": 21816525,
-  "lajornadaonline-2022": {
-    "url": "https://www.jornada.com.mx/",
-    "job_id": "spn2-4ce9d1e8a74767c6aabb58f63c6e21717e1b6a60",
-    "status": "error",
-    "status_ext": "<class 'Exception",
-    "resources": [],
-    "message": "killing chrome, failed to retrieve http://localhost:53607/json after 31.374748706817627 seconds"
-  },
+  "files_count": 599,
+  "item_last_updated": 1664906964,
+  "item_size": 22017512,
   "metadata": {
     "identifier": "lajornadaonline-2022",
     "collection": [
@@ -6160,7 +6214,7 @@
     "addeddate": "2022-08-16 17:11:32"
   },
   "server": "ia601408.us.archive.org",
-  "uniq": 1950823357,
+  "uniq": 158546159,
   "workable_servers": [
     "ia601408.us.archive.org",
     "ia801408.us.archive.org"
