@@ -1,5 +1,5 @@
 {
-  "created": 1664806107,
+  "created": 1664850634,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/34/items/rajdhani_daily-2022",
@@ -8621,31 +8621,93 @@
       "format": "JSON"
     },
     {
+      "name": "rajdhani_daily-2022-10-03T19:52:12.851583+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rajdhani_daily-2022-10-03T19:52:12.851583+05:45.jpg",
+      "mtime": "1664808756",
+      "size": "10148",
+      "md5": "90430ecc4783ab16eb0daeca514586a4",
+      "crc32": "51d875c7",
+      "sha1": "d2ddac822324f1b0e6febdf50368d9ff50220a54"
+    },
+    {
+      "name": "rajdhani_daily-2022-10-04T08:14:10.439484+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1664850562",
+      "size": "85516",
+      "md5": "744e07edddd121894d7ab4c9cb582581",
+      "crc32": "f7f37dca",
+      "sha1": "8db017e961d8facf92b08d940bc3d5c9ccc9391b",
+      "format": "JSON"
+    },
+    {
+      "name": "rajdhani_daily-2022-10-04T08:14:10.439484+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664850564",
+      "size": "46257",
+      "md5": "bbdb59d88266d1a655ee4d3e99e8f4e0",
+      "crc32": "1c22ee57",
+      "sha1": "0fa63b667519fac906a43226c57d9541d1b77f8b",
+      "format": "JSON"
+    },
+    {
+      "name": "rajdhani_daily-2022-10-04T08:14:10.439484+05:45.jpg",
+      "source": "original",
+      "mtime": "1664850561",
+      "size": "219520",
+      "md5": "3b2f95ef2b40286cfe497324cfb31987",
+      "crc32": "624994d0",
+      "sha1": "cac1bb57926f6456e96e4a404565d819ea0fa4c2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rajdhani_daily-2022-10-04T08:14:10.439484+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1664850566",
+      "size": "1486",
+      "md5": "7d5d14c9e0a40eb470dd89b755ca795b",
+      "crc32": "fd274255",
+      "sha1": "1febb362672b92f66ab94f547f19f57445d42d07",
+      "format": "JSON"
+    },
+    {
+      "name": "rajdhani_daily-2022-10-04T08:14:10.439484+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1664850567",
+      "size": "24864",
+      "md5": "d38be42130c485cfb6b4c148528d7c27",
+      "crc32": "d7ea9512",
+      "sha1": "efe4b6e17c8d74078f9066e6dd8cb0a9ee7dc1c0",
+      "format": "JSON"
+    },
+    {
       "name": "rajdhani_daily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "89ce583e0c0d4408e26ea08d2410ebaabc8be5b2",
-      "mtime": "1664806102",
-      "size": "181669",
-      "md5": "4ee72660827aa1844f7014eef451c749",
-      "crc32": "c0b5a404",
-      "sha1": "7c1a4a0b581f844699482d3ee2761c746f85db96",
+      "btih": "4b02d12e607c62fb4ff7338e5a86c6f8400c8bc3",
+      "mtime": "1664850625",
+      "size": "182973",
+      "md5": "7182ef951bfc0b30d6835aa21d06f6a9",
+      "crc32": "4570a326",
+      "sha1": "881ad9f93e14c85493941332b37a5fefc6c894ae",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rajdhani_daily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "23c3ed79b919a6ac12416c0a819ff76b",
+      "md5": "72f270a7ad382288afa3a848ff8dc843",
       "summation": "md5"
     },
     {
       "name": "rajdhani_daily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664806056",
-      "size": "1077248",
-      "md5": "10c4cb2932cbb92c1bc0d382a3244935",
-      "crc32": "802c76a1",
-      "sha1": "7557be50fc689e32e3d8e3a93a1d410df2f8e888",
+      "mtime": "1664850575",
+      "size": "1085440",
+      "md5": "99e67cc6c1eea86f88d0af46dbc621b9",
+      "crc32": "f25dde24",
+      "sha1": "b977f0f294b3d058285f3b6edfac223455ee5605",
       "format": "Metadata"
     },
     {
@@ -8659,9 +8721,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 837,
-  "item_last_updated": 1664806102,
-  "item_size": 55749310,
+  "files_count": 843,
+  "item_last_updated": 1664850625,
+  "item_size": 56146597,
   "metadata": {
     "identifier": "rajdhani_daily-2022",
     "collection": [
@@ -8683,7 +8745,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3427039492,
+      "task_id": 3427665334,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8691,7 +8753,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1365662283,
+  "uniq": 1819911703,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

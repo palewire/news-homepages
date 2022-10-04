@@ -1,5 +1,5 @@
 {
-  "created": 1664806199,
+  "created": 1664850821,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/15/items/shillsalmanac-2022",
@@ -7945,31 +7945,93 @@
       "format": "JSON"
     },
     {
+      "name": "shillsalmanac-2022-10-03T10:08:57.603490-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "shillsalmanac-2022-10-03T10:08:57.603490-04:00.jpg",
+      "mtime": "1664808656",
+      "size": "9890",
+      "md5": "2094c91e0c19febd340ed98939b1b0eb",
+      "crc32": "91f68c12",
+      "sha1": "bf0f786ec6c334c292495342d27995bfe161be5b"
+    },
+    {
+      "name": "shillsalmanac-2022-10-03T22:32:43.401468-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664850769",
+      "size": "26843",
+      "md5": "2a9ce3713b4067245cd76d824492d117",
+      "crc32": "1cf24047",
+      "sha1": "c87a350fe305830b7f9b459f6dbb7e3e84ed50c2",
+      "format": "JSON"
+    },
+    {
+      "name": "shillsalmanac-2022-10-03T22:32:43.401468-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664850770",
+      "size": "40878",
+      "md5": "c7f6a35fe581b757c6172d144e2c86ab",
+      "crc32": "39bed495",
+      "sha1": "ba1d1172809c39daf66a2172608f834579229d35",
+      "format": "JSON"
+    },
+    {
+      "name": "shillsalmanac-2022-10-03T22:32:43.401468-04:00.jpg",
+      "source": "original",
+      "mtime": "1664850767",
+      "size": "286654",
+      "md5": "a09625fa22a91671f77498d3c8fba839",
+      "crc32": "92370d81",
+      "sha1": "c2652c5a9fe88779db4f4d4b7394226190e94a29",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "shillsalmanac-2022-10-03T22:32:43.401468-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664850772",
+      "size": "1459",
+      "md5": "f880aae5183af2aee72e094f4a07e80f",
+      "crc32": "a92bc035",
+      "sha1": "9c45b0fa7fc46c5f1b7cdffe6af36720f4a42289",
+      "format": "JSON"
+    },
+    {
+      "name": "shillsalmanac-2022-10-03T22:32:43.401468-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664850773",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "shillsalmanac-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d3d9e4143f66d73640b50fb00dd517271a31a9fe",
-      "mtime": "1664806195",
-      "size": "166080",
-      "md5": "5c647738f712db24dde5ffaa82025c3a",
-      "crc32": "1cadc8e3",
-      "sha1": "ea85979eec3c0a90b589cd6c2af79367c2755727",
+      "btih": "fc0a57f8573709fd279e0db26875d48360015b6a",
+      "mtime": "1664850817",
+      "size": "167375",
+      "md5": "b6ac1e44fa9f282d617684b4c0999d87",
+      "crc32": "54920a66",
+      "sha1": "46e840702f943ec7ec794f2172742154dcd484d2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "shillsalmanac-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6614a5cc10735c21a0c08933fddc9815",
+      "md5": "ba6c3ac7801a2632af315f02b558f033",
       "summation": "md5"
     },
     {
       "name": "shillsalmanac-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664806155",
-      "size": "978944",
-      "md5": "be2de678d48c97aceff3d08ec5581533",
-      "crc32": "07435ec1",
-      "sha1": "8cb2cf31a6b3ef4c198a331a004a34f87a6ee35d",
+      "mtime": "1664850777",
+      "size": "987136",
+      "md5": "f8e61c0af5077f912002fbde19c30249",
+      "crc32": "0f1e1520",
+      "sha1": "bf5b95c96af680e63273aa6c96115b17c222102b",
       "format": "Metadata"
     },
     {
@@ -7983,9 +8045,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 770,
-  "item_last_updated": 1664806195,
-  "item_size": 49946873,
+  "files_count": 776,
+  "item_last_updated": 1664850817,
+  "item_size": 50322286,
   "metadata": {
     "identifier": "shillsalmanac-2022",
     "collection": [
@@ -8007,7 +8069,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3427040849,
+      "task_id": 3427668348,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8015,7 +8077,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1627207438,
+  "uniq": 1264669040,
   "workable_servers": [
     "ia902500.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1664806216,
+  "created": 1664850649,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/21/items/reforma-2022",
@@ -6041,31 +6041,93 @@
       "format": "JSON"
     },
     {
+      "name": "reforma-2022-10-03T09:09:13.210761-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reforma-2022-10-03T09:09:13.210761-05:00.jpg",
+      "mtime": "1664808669",
+      "size": "10744",
+      "md5": "a5edcd316a6c02a553c43bb4ee6b9f04",
+      "crc32": "d8f2dfc5",
+      "sha1": "9caec12ed1e0522fa759238563bf7077aafef7aa"
+    },
+    {
+      "name": "reforma-2022-10-03T21:29:51.282309-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664850597",
+      "size": "1028",
+      "md5": "7aefa78c940715e5a57f58eb40074cb6",
+      "crc32": "bf124d3e",
+      "sha1": "bc5d6f331dd05f694ef89355d53d32dfea56c825",
+      "format": "JSON"
+    },
+    {
+      "name": "reforma-2022-10-03T21:29:51.282309-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664850599",
+      "size": "32923",
+      "md5": "ddff836f703619c8a0acd6606b8ec186",
+      "crc32": "5129f3e6",
+      "sha1": "46210ba8ffb89f262df479f16c41b63f022fbb61",
+      "format": "JSON"
+    },
+    {
+      "name": "reforma-2022-10-03T21:29:51.282309-05:00.jpg",
+      "source": "original",
+      "mtime": "1664850595",
+      "size": "260480",
+      "md5": "96331983966b7ac1db347a7e4518e45e",
+      "crc32": "fb5d060b",
+      "sha1": "f28f91d9a8c11fa733469b8bcad729e2ed424e40",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reforma-2022-10-03T21:29:51.282309-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664850601",
+      "size": "1441",
+      "md5": "bfa8a286190ea629812a44227dce8f4a",
+      "crc32": "491c43d9",
+      "sha1": "791f4068cd8ad12a1ef4aa73d6f258888a9fd02c",
+      "format": "JSON"
+    },
+    {
+      "name": "reforma-2022-10-03T21:29:51.282309-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664850603",
+      "size": "26811",
+      "md5": "42257551b863d942c6649838a6334379",
+      "crc32": "54787dc6",
+      "sha1": "dd252f7c03ddffbbf1164f4a9128638915f139ee",
+      "format": "JSON"
+    },
+    {
       "name": "reforma-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5711f2d6c3803fbfc6a3db0069baea3fd5cbda65",
-      "mtime": "1664806212",
-      "size": "123487",
-      "md5": "3b1255993e640af05d6c01f6aa136446",
-      "crc32": "06b12817",
-      "sha1": "2b8b1ec30607b816abb597fdf6ef5a905c771d9e",
+      "btih": "65f6fede0ab668c181560855450d24aef1211c84",
+      "mtime": "1664850646",
+      "size": "124748",
+      "md5": "4c816885d712a6536c3c1674aa8d59bb",
+      "crc32": "d7958cb9",
+      "sha1": "8f07b8bc514476d39faf40991307cdc710d2cb46",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reforma-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "73695b62ecec09e3d2cec3c4a935cc4e",
+      "md5": "a179f11cf972fb3ee4eb617d9c58a54c",
       "summation": "md5"
     },
     {
       "name": "reforma-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664806172",
-      "size": "757760",
-      "md5": "7e33d5f708e6f2e7a2cc4014e6452170",
-      "crc32": "bd9592ef",
-      "sha1": "0b8e4e9561e308a69c4347f47eabd45dd319b810",
+      "mtime": "1664850609",
+      "size": "765952",
+      "md5": "afaa756f1a2db0c54708a31408f77427",
+      "crc32": "3a95e6fc",
+      "sha1": "6fb08a8af671b6c762c7a7011807baaf44653239",
       "format": "Metadata"
     },
     {
@@ -6079,9 +6141,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 588,
-  "item_last_updated": 1664806212,
-  "item_size": 36037647,
+  "files_count": 594,
+  "item_last_updated": 1664850646,
+  "item_size": 36380527,
   "metadata": {
     "identifier": "reforma-2022",
     "collection": [
@@ -6103,7 +6165,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3427041090,
+      "task_id": 3427665536,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -6111,7 +6173,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 951131478,
+  "uniq": 532211302,
   "workable_servers": [
     "ia902503.us.archive.org"
   ]

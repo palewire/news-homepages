@@ -1,5 +1,5 @@
 {
-  "created": 1664850383,
+  "created": 1664851118,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/26/items/sankei_news-2022",
@@ -13851,31 +13851,93 @@
       "format": "JSON"
     },
     {
+      "name": "sankei_news-2022-10-04T11:25:06.547637+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sankei_news-2022-10-04T11:25:06.547637+09:00.jpg",
+      "mtime": "1664851068",
+      "size": "10920",
+      "md5": "d29f18e41eb8d2c9828b4cf6e0f04b1f",
+      "crc32": "a657e8af",
+      "sha1": "beaed4549118b6a1e566b183ed547b7346b74155"
+    },
+    {
+      "name": "sankei_news-2022-10-04T11:32:19.634364+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664850743",
+      "size": "62366",
+      "md5": "a40fb5939bd2b7203d6a6f13e184a6b9",
+      "crc32": "2aebfa22",
+      "sha1": "abacb7aeca1f9be54639fe2e892452d0774d1ca3",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-10-04T11:32:19.634364+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664850745",
+      "size": "88767",
+      "md5": "025508b9a61351af9306fb72239bf1bc",
+      "crc32": "ebd106fe",
+      "sha1": "510ac44eda2ce35a2bf92ded7f05fc6466f37cb5",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-10-04T11:32:19.634364+09:00.jpg",
+      "source": "original",
+      "mtime": "1664850741",
+      "size": "372098",
+      "md5": "fac3ee5714c2ff75c16dfe3b1adb52b6",
+      "crc32": "d6bc6904",
+      "sha1": "c7b32bda112a34ba1a0ded172ded6f2c88143f9f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sankei_news-2022-10-04T11:32:19.634364+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664850748",
+      "size": "1459",
+      "md5": "3c06899d8a6c7993689a8546928db1dd",
+      "crc32": "852e22e3",
+      "sha1": "9bc6ed3b5c119800b82cd453233f8c11334a17b8",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-10-04T11:32:19.634364+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1664850750",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "sankei_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1b06d6655b90185d9e714424fa92fc0b490d5c42",
-      "mtime": "1664850379",
-      "size": "287480",
-      "md5": "afc2f736c9f135dd36010b99a63a86c8",
-      "crc32": "d8a6ca5a",
-      "sha1": "c08a4237ae146f2ea1ba7c1ee4f7ac9544afe290",
+      "btih": "229fa31d2f0e5acf784d0124fb5df261254a758f",
+      "mtime": "1664851110",
+      "size": "288764",
+      "md5": "a21b7ce28b42cefc4343a29c9ece6d80",
+      "crc32": "c27c3a37",
+      "sha1": "1eb008733de0c4d6cb35542e497db840719898ec",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sankei_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "14fe9193e61bba543a5cf5d6392f95cc",
+      "md5": "72f5d396b3ecbe96af2f58a289f60e80",
       "summation": "md5"
     },
     {
       "name": "sankei_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664850327",
-      "size": "1658880",
-      "md5": "681494afb2e11ea68aaeb12f6ca9b7dc",
-      "crc32": "2df6f82e",
-      "sha1": "2ff82e28c7e8396639837f7426fb8428dbbc9244",
+      "mtime": "1664851097",
+      "size": "1667072",
+      "md5": "84404031d7da383f59af2c12ebb12db3",
+      "crc32": "58696091",
+      "sha1": "9c75a2846f7ed0dd0032798bd8234ff7c2e91fd9",
       "format": "Metadata"
     },
     {
@@ -13889,9 +13951,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1337,
-  "item_last_updated": 1664850379,
-  "item_size": 141399631,
+  "files_count": 1343,
+  "item_last_updated": 1664851110,
+  "item_size": 141944919,
   "metadata": {
     "identifier": "sankei_news-2022",
     "collection": [
@@ -13913,7 +13975,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3427661514,
+      "task_id": 3427672366,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13921,7 +13983,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 872592512,
+  "uniq": 1223470414,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]
