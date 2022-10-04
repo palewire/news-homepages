@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 412 screenshots with the Internet Archive.
+The archiving routine has saved 413 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 412 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/washtimes-2022/washtimes-2022-10-04T12:24:57.782824-04:00.jpg">
+  <img src="https://archive.org/download/washtimes-2022/washtimes-2022-10-04T12:24:57.782824-04:00.jpg"
+     alt="Washington Times at 2022-10-04 12:25:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-10-04T12:24:57.782824-04:00.jpg">October 4 at 12:25 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/washtimes-2022/washtimes-2022-10-04T01:21:31.229497-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-09-30T16:20:51.446317-04:00.jpg">September 30 at 4:21 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/washtimes-2022/washtimes-2022-09-30T12:38:39.993382-04:00.jpg">
-  <img src="https://archive.org/download/washtimes-2022/washtimes-2022-09-30T12:38:39.993382-04:00.jpg"
-     alt="Washington Times at 2022-09-30 12:38:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-09-30T12:38:39.993382-04:00.jpg">September 30 at 12:38 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 405 hyperlink lists with the Internet Archive.
+The archiving routine has saved 406 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 12:25 PM](https://archive.org/download/washtimes-2022/washtimes-2022-10-04T12:24:57.782824-04:00.hyperlinks.json) |
 | [October 4 at 1:22 AM](https://archive.org/download/washtimes-2022/washtimes-2022-10-04T01:21:31.229497-04:00.hyperlinks.json) |
 | [October 3 at 3:51 PM](https://archive.org/download/washtimes-2022/washtimes-2022-10-03T15:51:46.145365-04:00.hyperlinks.json) |
 | [October 3 at 12:16 PM](https://archive.org/download/washtimes-2022/washtimes-2022-10-03T12:15:56.531863-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 2 at 1:52 AM](https://archive.org/download/washtimes-2022/washtimes-2022-10-02T01:51:12.644512-04:00.hyperlinks.json) |
 | [October 1 at 3:48 PM](https://archive.org/download/washtimes-2022/washtimes-2022-10-01T15:47:57.489231-04:00.hyperlinks.json) |
 | [October 1 at 12:12 PM](https://archive.org/download/washtimes-2022/washtimes-2022-10-01T12:12:16.600904-04:00.hyperlinks.json) |
-| [October 1 at 12:44 AM](https://archive.org/download/washtimes-2022/washtimes-2022-10-01T00:43:59.878562-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 408 accessibility trees with the Internet Archive.
+The archiving routine has saved 409 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 12:25 PM](https://archive.org/download/washtimes-2022/washtimes-2022-10-04T12:24:57.782824-04:00.accessibility.json) |
 | [October 4 at 1:22 AM](https://archive.org/download/washtimes-2022/washtimes-2022-10-04T01:21:31.229497-04:00.accessibility.json) |
 | [October 3 at 3:51 PM](https://archive.org/download/washtimes-2022/washtimes-2022-10-03T15:51:46.145365-04:00.accessibility.json) |
 | [October 3 at 12:16 PM](https://archive.org/download/washtimes-2022/washtimes-2022-10-03T12:15:56.531863-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 2 at 1:51 AM](https://archive.org/download/washtimes-2022/washtimes-2022-10-02T01:51:12.644512-04:00.accessibility.json) |
 | [October 1 at 3:48 PM](https://archive.org/download/washtimes-2022/washtimes-2022-10-01T15:47:57.489231-04:00.accessibility.json) |
 | [October 1 at 12:12 PM](https://archive.org/download/washtimes-2022/washtimes-2022-10-01T12:12:16.600904-04:00.accessibility.json) |
-| [October 1 at 12:44 AM](https://archive.org/download/washtimes-2022/washtimes-2022-10-01T00:43:59.878562-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 212 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 213 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 12:25 PM](https://archive.org/download/washtimes-2022/washtimes-2022-10-04T12:24:57.782824-04:00.lighthouse.json) |
 | [October 4 at 1:22 AM](https://archive.org/download/washtimes-2022/washtimes-2022-10-04T01:21:31.229497-04:00.lighthouse.json) |
 | [October 3 at 3:51 PM](https://archive.org/download/washtimes-2022/washtimes-2022-10-03T15:51:46.145365-04:00.lighthouse.json) |
 | [October 3 at 12:16 PM](https://archive.org/download/washtimes-2022/washtimes-2022-10-03T12:15:56.531863-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 2 at 1:52 AM](https://archive.org/download/washtimes-2022/washtimes-2022-10-02T01:51:12.644512-04:00.lighthouse.json) |
 | [October 1 at 3:48 PM](https://archive.org/download/washtimes-2022/washtimes-2022-10-01T15:47:57.489231-04:00.lighthouse.json) |
 | [October 1 at 12:12 PM](https://archive.org/download/washtimes-2022/washtimes-2022-10-01T12:12:16.600904-04:00.lighthouse.json) |
-| [October 1 at 12:44 AM](https://archive.org/download/washtimes-2022/washtimes-2022-10-01T00:43:59.878562-04:00.lighthouse.json) |
 
 
 

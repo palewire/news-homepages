@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 28 screenshots with the Internet Archive.
+The archiving routine has saved 29 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-10-04T13:53:39.985138-04:00.jpg">
+  <img src="https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-10-04T13:53:39.985138-04:00.jpg"
+     alt="Salisbury Daily Times at 2022-10-04 13:53:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-10-04T13:53:39.985138-04:00.jpg">October 4 at 1:53 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-10-04T02:14:10.010708-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-09-29T02:08:03.067555-04:00.jpg">September 29 at 2:08 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-09-28T13:44:55.336092-04:00.jpg">
-  <img src="https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-09-28T13:44:55.336092-04:00.jpg"
-     alt="Salisbury Daily Times at 2022-09-28 13:44:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-09-28T13:44:55.336092-04:00.jpg">September 28 at 1:44 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 28 hyperlink lists with the Internet Archive.
+The archiving routine has saved 29 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 1:53 PM](https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-10-04T13:53:39.985138-04:00.hyperlinks.json) |
 | [October 4 at 2:14 AM](https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-10-04T02:14:10.010708-04:00.hyperlinks.json) |
 | [October 3 at 1:51 PM](https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-10-03T13:50:57.133136-04:00.hyperlinks.json) |
 | [October 3 at 1:15 AM](https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-10-03T01:15:07.384973-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 2:21 AM](https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-10-01T02:21:05.163901-04:00.hyperlinks.json) |
 | [September 30 at 2:20 PM](https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-09-30T14:20:08.522559-04:00.hyperlinks.json) |
 | [September 30 at 2:29 AM](https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-09-30T02:29:04.180498-04:00.hyperlinks.json) |
-| [September 29 at 1:35 PM](https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-09-29T13:35:27.023371-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 28 accessibility trees with the Internet Archive.
+The archiving routine has saved 29 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 1:53 PM](https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-10-04T13:53:39.985138-04:00.accessibility.json) |
 | [October 4 at 2:14 AM](https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-10-04T02:14:10.010708-04:00.accessibility.json) |
 | [October 3 at 1:51 PM](https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-10-03T13:50:57.133136-04:00.accessibility.json) |
 | [October 3 at 1:15 AM](https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-10-03T01:15:07.384973-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 2:21 AM](https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-10-01T02:21:05.163901-04:00.accessibility.json) |
 | [September 30 at 2:20 PM](https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-09-30T14:20:08.522559-04:00.accessibility.json) |
 | [September 30 at 2:29 AM](https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-09-30T02:29:04.180498-04:00.accessibility.json) |
-| [September 29 at 1:35 PM](https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-09-29T13:35:27.023371-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 1:53 PM](https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-10-04T13:53:39.985138-04:00.lighthouse.json) |
 | [October 4 at 2:14 AM](https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-10-04T02:14:10.010708-04:00.lighthouse.json) |
 | [October 3 at 1:51 PM](https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-10-03T13:50:57.133136-04:00.lighthouse.json) |
 | [October 3 at 1:15 AM](https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-10-03T01:15:07.384973-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 2:21 AM](https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-10-01T02:21:05.163901-04:00.lighthouse.json) |
 | [September 30 at 2:20 PM](https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-09-30T14:20:08.522559-04:00.lighthouse.json) |
 | [September 30 at 2:29 AM](https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-09-30T02:29:04.180498-04:00.lighthouse.json) |
-| [September 29 at 1:35 PM](https://archive.org/download/mydelmarvanow-2022/mydelmarvanow-2022-09-29T13:35:27.023371-04:00.lighthouse.json) |
 
 
 

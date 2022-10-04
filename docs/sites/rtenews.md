@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 155 screenshots with the Internet Archive.
+The archiving routine has saved 156 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 155 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rtenews-2022/rtenews-2022-10-04T20:37:01.376768+01:00.jpg">
+  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-10-04T20:37:01.376768+01:00.jpg"
+     alt="RTE at 2022-10-04 20:37:11+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-10-04T20:37:01.376768+01:00.jpg">October 4 at 8:37 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rtenews-2022/rtenews-2022-10-04T08:49:22.410196+01:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-29T08:39:12.154103+01:00.jpg">September 29 at 8:39 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-28T20:41:20.408026+01:00.jpg">
-  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-09-28T20:41:20.408026+01:00.jpg"
-     alt="RTE at 2022-09-28 20:41:28+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-28T20:41:20.408026+01:00.jpg">September 28 at 8:41 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 155 hyperlink lists with the Internet Archive.
+The archiving routine has saved 156 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 8:37 PM](https://archive.org/download/rtenews-2022/rtenews-2022-10-04T20:37:01.376768+01:00.hyperlinks.json) |
 | [October 4 at 8:49 AM](https://archive.org/download/rtenews-2022/rtenews-2022-10-04T08:49:22.410196+01:00.hyperlinks.json) |
 | [October 3 at 8:23 PM](https://archive.org/download/rtenews-2022/rtenews-2022-10-03T20:23:08.806969+01:00.hyperlinks.json) |
 | [October 3 at 8:41 AM](https://archive.org/download/rtenews-2022/rtenews-2022-10-03T08:41:38.465322+01:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 9:00 AM](https://archive.org/download/rtenews-2022/rtenews-2022-10-01T09:00:44.688428+01:00.hyperlinks.json) |
 | [September 30 at 9:16 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-30T21:16:26.756508+01:00.hyperlinks.json) |
 | [September 30 at 9:04 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-30T09:04:13.367855+01:00.hyperlinks.json) |
-| [September 29 at 8:33 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-29T20:33:09.434194+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 155 accessibility trees with the Internet Archive.
+The archiving routine has saved 156 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 8:37 PM](https://archive.org/download/rtenews-2022/rtenews-2022-10-04T20:37:01.376768+01:00.accessibility.json) |
 | [October 4 at 8:49 AM](https://archive.org/download/rtenews-2022/rtenews-2022-10-04T08:49:22.410196+01:00.accessibility.json) |
 | [October 3 at 8:23 PM](https://archive.org/download/rtenews-2022/rtenews-2022-10-03T20:23:08.806969+01:00.accessibility.json) |
 | [October 3 at 8:41 AM](https://archive.org/download/rtenews-2022/rtenews-2022-10-03T08:41:38.465322+01:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 9:00 AM](https://archive.org/download/rtenews-2022/rtenews-2022-10-01T09:00:44.688428+01:00.accessibility.json) |
 | [September 30 at 9:16 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-30T21:16:26.756508+01:00.accessibility.json) |
 | [September 30 at 9:04 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-30T09:04:13.367855+01:00.accessibility.json) |
-| [September 29 at 8:33 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-29T20:33:09.434194+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 144 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 145 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 8:37 PM](https://archive.org/download/rtenews-2022/rtenews-2022-10-04T20:37:01.376768+01:00.lighthouse.json) |
 | [October 4 at 8:49 AM](https://archive.org/download/rtenews-2022/rtenews-2022-10-04T08:49:22.410196+01:00.lighthouse.json) |
 | [October 3 at 8:23 PM](https://archive.org/download/rtenews-2022/rtenews-2022-10-03T20:23:08.806969+01:00.lighthouse.json) |
 | [October 3 at 8:42 AM](https://archive.org/download/rtenews-2022/rtenews-2022-10-03T08:41:38.465322+01:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 9:00 AM](https://archive.org/download/rtenews-2022/rtenews-2022-10-01T09:00:44.688428+01:00.lighthouse.json) |
 | [September 30 at 9:16 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-30T21:16:26.756508+01:00.lighthouse.json) |
 | [September 30 at 9:04 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-30T09:04:13.367855+01:00.lighthouse.json) |
-| [September 29 at 8:33 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-29T20:33:09.434194+01:00.lighthouse.json) |
 
 
 

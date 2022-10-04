@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 111 screenshots with the Internet Archive.
+The archiving routine has saved 112 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 111 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/amerindependent-2022/amerindependent-2022-10-04T16:12:47.166097-04:00.jpg">
+  <img src="https://archive.org/download/amerindependent-2022/amerindependent-2022-10-04T16:12:47.166097-04:00.jpg"
+     alt="American Independent at 2022-10-04 16:12:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/amerindependent-2022/amerindependent-2022-10-04T16:12:47.166097-04:00.jpg">October 4 at 4:12 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/amerindependent-2022/amerindependent-2022-10-04T06:58:25.940775-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/amerindependent-2022/amerindependent-2022-09-30T18:59:59.395232-04:00.jpg">September 30 at 7:00 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/amerindependent-2022/amerindependent-2022-09-30T16:18:36.766122-04:00.jpg">
-  <img src="https://archive.org/download/amerindependent-2022/amerindependent-2022-09-30T16:18:36.766122-04:00.jpg"
-     alt="American Independent at 2022-09-30 16:18:38-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/amerindependent-2022/amerindependent-2022-09-30T16:18:36.766122-04:00.jpg">September 30 at 4:18 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 112 hyperlink lists with the Internet Archive.
+The archiving routine has saved 113 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 4:13 PM](https://archive.org/download/amerindependent-2022/amerindependent-2022-10-04T16:12:47.166097-04:00.hyperlinks.json) |
 | [October 4 at 6:58 AM](https://archive.org/download/amerindependent-2022/amerindependent-2022-10-04T06:58:25.940775-04:00.hyperlinks.json) |
 | [October 3 at 6:55 PM](https://archive.org/download/amerindependent-2022/amerindependent-2022-10-03T18:55:02.144520-04:00.hyperlinks.json) |
 | [October 3 at 3:51 PM](https://archive.org/download/amerindependent-2022/amerindependent-2022-10-03T15:51:31.300303-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 2 at 6:41 AM](https://archive.org/download/amerindependent-2022/amerindependent-2022-10-02T06:41:33.948847-04:00.hyperlinks.json) |
 | [October 1 at 6:55 PM](https://archive.org/download/amerindependent-2022/amerindependent-2022-10-01T18:55:49.311228-04:00.hyperlinks.json) |
 | [October 1 at 3:43 PM](https://archive.org/download/amerindependent-2022/amerindependent-2022-10-01T15:43:38.893830-04:00.hyperlinks.json) |
-| [October 1 at 6:49 AM](https://archive.org/download/amerindependent-2022/amerindependent-2022-10-01T06:49:19.669298-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 112 accessibility trees with the Internet Archive.
+The archiving routine has saved 113 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 4:12 PM](https://archive.org/download/amerindependent-2022/amerindependent-2022-10-04T16:12:47.166097-04:00.accessibility.json) |
 | [October 4 at 6:58 AM](https://archive.org/download/amerindependent-2022/amerindependent-2022-10-04T06:58:25.940775-04:00.accessibility.json) |
 | [October 3 at 6:55 PM](https://archive.org/download/amerindependent-2022/amerindependent-2022-10-03T18:55:02.144520-04:00.accessibility.json) |
 | [October 3 at 3:51 PM](https://archive.org/download/amerindependent-2022/amerindependent-2022-10-03T15:51:31.300303-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 2 at 6:41 AM](https://archive.org/download/amerindependent-2022/amerindependent-2022-10-02T06:41:33.948847-04:00.accessibility.json) |
 | [October 1 at 6:55 PM](https://archive.org/download/amerindependent-2022/amerindependent-2022-10-01T18:55:49.311228-04:00.accessibility.json) |
 | [October 1 at 3:43 PM](https://archive.org/download/amerindependent-2022/amerindependent-2022-10-01T15:43:38.893830-04:00.accessibility.json) |
-| [October 1 at 6:49 AM](https://archive.org/download/amerindependent-2022/amerindependent-2022-10-01T06:49:19.669298-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 113 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 114 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 4:13 PM](https://archive.org/download/amerindependent-2022/amerindependent-2022-10-04T16:12:47.166097-04:00.lighthouse.json) |
 | [October 4 at 6:58 AM](https://archive.org/download/amerindependent-2022/amerindependent-2022-10-04T06:58:25.940775-04:00.lighthouse.json) |
 | [October 3 at 6:55 PM](https://archive.org/download/amerindependent-2022/amerindependent-2022-10-03T18:55:02.144520-04:00.lighthouse.json) |
 | [October 3 at 3:51 PM](https://archive.org/download/amerindependent-2022/amerindependent-2022-10-03T15:51:31.300303-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 2 at 6:41 AM](https://archive.org/download/amerindependent-2022/amerindependent-2022-10-02T06:41:33.948847-04:00.lighthouse.json) |
 | [October 1 at 6:55 PM](https://archive.org/download/amerindependent-2022/amerindependent-2022-10-01T18:55:49.311228-04:00.lighthouse.json) |
 | [October 1 at 3:43 PM](https://archive.org/download/amerindependent-2022/amerindependent-2022-10-01T15:43:38.893830-04:00.lighthouse.json) |
-| [October 1 at 6:49 AM](https://archive.org/download/amerindependent-2022/amerindependent-2022-10-01T06:49:19.669298-04:00.lighthouse.json) |
 
 
 

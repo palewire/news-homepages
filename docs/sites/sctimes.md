@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 28 screenshots with the Internet Archive.
+The archiving routine has saved 29 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sctimes-2022/sctimes-2022-10-04T14:38:17.574174-05:00.jpg">
+  <img src="https://archive.org/download/sctimes-2022/sctimes-2022-10-04T14:38:17.574174-05:00.jpg"
+     alt="St. Cloud Times at 2022-10-04 14:38:20-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sctimes-2022/sctimes-2022-10-04T14:38:17.574174-05:00.jpg">October 4 at 2:38 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sctimes-2022/sctimes-2022-10-04T02:48:37.834802-05:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sctimes-2022/sctimes-2022-09-29T02:40:25.804604-05:00.jpg">September 29 at 2:40 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sctimes-2022/sctimes-2022-09-28T14:40:10.634873-05:00.jpg">
-  <img src="https://archive.org/download/sctimes-2022/sctimes-2022-09-28T14:40:10.634873-05:00.jpg"
-     alt="St. Cloud Times at 2022-09-28 14:40:15-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sctimes-2022/sctimes-2022-09-28T14:40:10.634873-05:00.jpg">September 28 at 2:40 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 28 hyperlink lists with the Internet Archive.
+The archiving routine has saved 29 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 2:38 PM](https://archive.org/download/sctimes-2022/sctimes-2022-10-04T14:38:17.574174-05:00.hyperlinks.json) |
 | [October 4 at 2:48 AM](https://archive.org/download/sctimes-2022/sctimes-2022-10-04T02:48:37.834802-05:00.hyperlinks.json) |
 | [October 3 at 2:23 PM](https://archive.org/download/sctimes-2022/sctimes-2022-10-03T14:23:08.007401-05:00.hyperlinks.json) |
 | [October 3 at 2:41 AM](https://archive.org/download/sctimes-2022/sctimes-2022-10-03T02:41:17.928519-05:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 3:01 AM](https://archive.org/download/sctimes-2022/sctimes-2022-10-01T03:01:40.767327-05:00.hyperlinks.json) |
 | [September 30 at 3:16 PM](https://archive.org/download/sctimes-2022/sctimes-2022-09-30T15:16:22.066907-05:00.hyperlinks.json) |
 | [September 30 at 3:05 AM](https://archive.org/download/sctimes-2022/sctimes-2022-09-30T03:04:56.221927-05:00.hyperlinks.json) |
-| [September 29 at 2:34 PM](https://archive.org/download/sctimes-2022/sctimes-2022-09-29T14:34:41.719561-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 28 accessibility trees with the Internet Archive.
+The archiving routine has saved 29 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 2:38 PM](https://archive.org/download/sctimes-2022/sctimes-2022-10-04T14:38:17.574174-05:00.accessibility.json) |
 | [October 4 at 2:48 AM](https://archive.org/download/sctimes-2022/sctimes-2022-10-04T02:48:37.834802-05:00.accessibility.json) |
 | [October 3 at 2:23 PM](https://archive.org/download/sctimes-2022/sctimes-2022-10-03T14:23:08.007401-05:00.accessibility.json) |
 | [October 3 at 2:41 AM](https://archive.org/download/sctimes-2022/sctimes-2022-10-03T02:41:17.928519-05:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 3:01 AM](https://archive.org/download/sctimes-2022/sctimes-2022-10-01T03:01:40.767327-05:00.accessibility.json) |
 | [September 30 at 3:16 PM](https://archive.org/download/sctimes-2022/sctimes-2022-09-30T15:16:22.066907-05:00.accessibility.json) |
 | [September 30 at 3:05 AM](https://archive.org/download/sctimes-2022/sctimes-2022-09-30T03:04:56.221927-05:00.accessibility.json) |
-| [September 29 at 2:34 PM](https://archive.org/download/sctimes-2022/sctimes-2022-09-29T14:34:41.719561-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 2:38 PM](https://archive.org/download/sctimes-2022/sctimes-2022-10-04T14:38:17.574174-05:00.lighthouse.json) |
 | [October 4 at 2:48 AM](https://archive.org/download/sctimes-2022/sctimes-2022-10-04T02:48:37.834802-05:00.lighthouse.json) |
 | [October 3 at 2:23 PM](https://archive.org/download/sctimes-2022/sctimes-2022-10-03T14:23:08.007401-05:00.lighthouse.json) |
 | [October 3 at 2:41 AM](https://archive.org/download/sctimes-2022/sctimes-2022-10-03T02:41:17.928519-05:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 3:01 AM](https://archive.org/download/sctimes-2022/sctimes-2022-10-01T03:01:40.767327-05:00.lighthouse.json) |
 | [September 30 at 3:16 PM](https://archive.org/download/sctimes-2022/sctimes-2022-09-30T15:16:22.066907-05:00.lighthouse.json) |
 | [September 30 at 3:05 AM](https://archive.org/download/sctimes-2022/sctimes-2022-09-30T03:04:56.221927-05:00.lighthouse.json) |
-| [September 29 at 2:34 PM](https://archive.org/download/sctimes-2022/sctimes-2022-09-29T14:34:41.719561-05:00.lighthouse.json) |
 
 
 

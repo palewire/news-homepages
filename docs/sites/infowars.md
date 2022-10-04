@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 227 screenshots with the Internet Archive.
+The archiving routine has saved 228 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 227 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/infowars-2022/infowars-2022-10-04T12:47:04.895209-05:00.jpg">
+  <img src="https://archive.org/download/infowars-2022/infowars-2022-10-04T12:47:04.895209-05:00.jpg"
+     alt="Infowars at 2022-10-04 12:47:07-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/infowars-2022/infowars-2022-10-04T12:47:04.895209-05:00.jpg">October 4 at 12:47 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/infowars-2022/infowars-2022-10-04T01:06:06.964170-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/infowars-2022/infowars-2022-09-30T15:20:38.232959-05:00.jpg">September 30 at 3:20 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/infowars-2022/infowars-2022-09-30T13:06:58.701661-05:00.jpg">
-  <img src="https://archive.org/download/infowars-2022/infowars-2022-09-30T13:06:58.701661-05:00.jpg"
-     alt="Infowars at 2022-09-30 13:07:02-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/infowars-2022/infowars-2022-09-30T13:06:58.701661-05:00.jpg">September 30 at 1:07 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 228 hyperlink lists with the Internet Archive.
+The archiving routine has saved 229 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 12:47 PM](https://archive.org/download/infowars-2022/infowars-2022-10-04T12:47:04.895209-05:00.hyperlinks.json) |
 | [October 4 at 1:06 AM](https://archive.org/download/infowars-2022/infowars-2022-10-04T01:06:06.964170-05:00.hyperlinks.json) |
 | [October 3 at 2:51 PM](https://archive.org/download/infowars-2022/infowars-2022-10-03T14:51:04.335678-05:00.hyperlinks.json) |
 | [October 3 at 12:46 PM](https://archive.org/download/infowars-2022/infowars-2022-10-03T12:46:06.393689-05:00.hyperlinks.json) |
@@ -537,7 +538,6 @@ Here are the 10 most recent hyperlink lists.
 | [October 2 at 12:58 AM](https://archive.org/download/infowars-2022/infowars-2022-10-02T00:58:33.208737-05:00.hyperlinks.json) |
 | [October 1 at 2:48 PM](https://archive.org/download/infowars-2022/infowars-2022-10-01T14:48:07.063686-05:00.hyperlinks.json) |
 | [October 1 at 12:32 PM](https://archive.org/download/infowars-2022/infowars-2022-10-01T12:32:44.781653-05:00.hyperlinks.json) |
-| [October 1 at 1:15 AM](https://archive.org/download/infowars-2022/infowars-2022-10-01T01:15:36.348558-05:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -556,7 +556,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 211 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 212 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -647,6 +647,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 12:47 PM](https://archive.org/download/infowars-2022/infowars-2022-10-04T12:47:04.895209-05:00.lighthouse.json) |
 | [October 4 at 1:06 AM](https://archive.org/download/infowars-2022/infowars-2022-10-04T01:06:06.964170-05:00.lighthouse.json) |
 | [October 3 at 2:51 PM](https://archive.org/download/infowars-2022/infowars-2022-10-03T14:51:04.335678-05:00.lighthouse.json) |
 | [October 3 at 12:46 PM](https://archive.org/download/infowars-2022/infowars-2022-10-03T12:46:06.393689-05:00.lighthouse.json) |
@@ -656,7 +657,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 2 at 12:58 AM](https://archive.org/download/infowars-2022/infowars-2022-10-02T00:58:33.208737-05:00.lighthouse.json) |
 | [October 1 at 2:48 PM](https://archive.org/download/infowars-2022/infowars-2022-10-01T14:48:07.063686-05:00.lighthouse.json) |
 | [October 1 at 12:32 PM](https://archive.org/download/infowars-2022/infowars-2022-10-01T12:32:44.781653-05:00.lighthouse.json) |
-| [October 1 at 1:15 AM](https://archive.org/download/infowars-2022/infowars-2022-10-01T01:15:36.348558-05:00.lighthouse.json) |
 
 
 
