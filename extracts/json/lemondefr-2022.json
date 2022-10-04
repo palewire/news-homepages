@@ -1,5 +1,5 @@
 {
-  "created": 1664867594,
+  "created": 1664871665,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/6/items/lemondefr-2022",
@@ -21252,31 +21252,82 @@
       "sha1": "843c7cadfaa90694e6b9164879dffe4944ae4383"
     },
     {
+      "name": "lemondefr-2022-10-04T10:19:23.364364+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664871566",
+      "size": "30122",
+      "md5": "9106246126118dd94245402f065ad0f5",
+      "crc32": "d13ad15d",
+      "sha1": "534fcf0adad828f678ea23dd16507d6d34bd7ba9",
+      "format": "JSON"
+    },
+    {
+      "name": "lemondefr-2022-10-04T10:19:23.364364+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664871568",
+      "size": "47393",
+      "md5": "3cbdec285419a70d276ab09bfb60cb70",
+      "crc32": "35e70b5b",
+      "sha1": "23e7f8d30ca8d13b9e7411a06d0370274c1eaf3c",
+      "format": "JSON"
+    },
+    {
+      "name": "lemondefr-2022-10-04T10:19:23.364364+02:00.jpg",
+      "source": "original",
+      "mtime": "1664871565",
+      "size": "274201",
+      "md5": "6bfa177ce2b0fe90f38841a38580bb79",
+      "crc32": "9ba589b2",
+      "sha1": "0ebf51a90b983f061fd9a26e2a4c39324304b762",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lemondefr-2022-10-04T10:19:23.364364+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664871570",
+      "size": "1450",
+      "md5": "7f9ba85b5cfeaea0aca97767ba275cb2",
+      "crc32": "aa6663c9",
+      "sha1": "dbeb5ad94337560b8548422203f9807dafc7dc7c",
+      "format": "JSON"
+    },
+    {
+      "name": "lemondefr-2022-10-04T10:19:23.364364+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664871572",
+      "size": "229",
+      "md5": "bfd0627f2bbc4f2f9e07991ad409fdab",
+      "crc32": "217ae01b",
+      "sha1": "6afae38f0a0b3bd06c67050bc556fa42323412de",
+      "format": "JSON"
+    },
+    {
       "name": "lemondefr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ac930a14c921c52c9030c388a23a566c462d7e4e",
-      "mtime": "1664866389",
-      "size": "432915",
-      "md5": "85f4eae43ffae069bb779e0af2210b39",
-      "crc32": "2edcfa2e",
-      "sha1": "acfa916296571e95aac8aec7e9ffda2beb562b47",
+      "btih": "bff5d7e1ba9d496fc59e453795ba6b8640db5422",
+      "mtime": "1664871654",
+      "size": "433961",
+      "md5": "bf407533485475c16c56e9662705d53b",
+      "crc32": "c29171b9",
+      "sha1": "33390f37dc66896c7a3b5e45973ae6d344548cd7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lemondefr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cd5620d429f48d75b5a8b2ca4963e52d",
+      "md5": "20801a319f209adfcbfe276da3de6f42",
       "summation": "md5"
     },
     {
       "name": "lemondefr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664863921",
-      "size": "2502656",
-      "md5": "ab06149835186824130a92d0a2f9caff",
-      "crc32": "71def950",
-      "sha1": "18329a6707ad7fe861301fe38bb0e51f721fcde1",
+      "mtime": "1664871583",
+      "size": "2510848",
+      "md5": "c51968e1ada12523e304fc289c1c6d3a",
+      "crc32": "a9096c08",
+      "sha1": "c177e0764fc7c295359a782c505ba90fdcacd057",
       "format": "Metadata"
     },
     {
@@ -21290,9 +21341,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2046,
-  "item_last_updated": 1664866389,
-  "item_size": 152081393,
+  "files_count": 2051,
+  "item_last_updated": 1664871654,
+  "item_size": 152444026,
   "metadata": {
     "identifier": "lemondefr-2022",
     "collection": [
@@ -21309,10 +21360,21 @@
     "publicdate": "2022-04-09 13:41:01",
     "addeddate": "2022-04-09 13:41:01"
   },
+  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "uniq": 1414417591,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3428001271,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1240217690,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia601501.us.archive.org"
   ]
 }
