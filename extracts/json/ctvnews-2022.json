@@ -1,6 +1,5 @@
 {
-  "conflict": 1664824295,
-  "created": 1664819830,
+  "created": 1664866732,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/12/items/ctvnews-2022",
@@ -9948,31 +9947,83 @@
       "format": "JSON"
     },
     {
+      "name": "ctvnews-2022-10-03T13:55:41.711924-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ctvnews-2022-10-03T13:55:41.711924-04:00.jpg",
+      "mtime": "1664845627",
+      "size": "9840",
+      "md5": "86e215fcb2ef743faaddb1f6002f553f",
+      "crc32": "2a520c88",
+      "sha1": "c166965421b9b1814e72095b184a2808b5e47bce"
+    },
+    {
+      "name": "ctvnews-2022-10-04T02:57:51.413334-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664866675",
+      "size": "96351",
+      "md5": "aa8733a5ec71b96298ed4bd00f0c3a39",
+      "crc32": "f040d720",
+      "sha1": "ed34064594db9b7bdd71ec7c60b98dc67ba0aeb3",
+      "format": "JSON"
+    },
+    {
+      "name": "ctvnews-2022-10-04T02:57:51.413334-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664866677",
+      "size": "92181",
+      "md5": "f445a4c1cf3ff81ba4f4d764f52c35ac",
+      "crc32": "11b4f7bc",
+      "sha1": "394724deb33f8bbad4ee98ac9a93c38b5e805687",
+      "format": "JSON"
+    },
+    {
+      "name": "ctvnews-2022-10-04T02:57:51.413334-04:00.jpg",
+      "source": "original",
+      "mtime": "1664866673",
+      "size": "298160",
+      "md5": "99f8b7e47ca79c81faeee17b0e248e41",
+      "crc32": "8b0a2505",
+      "sha1": "b184fb8fe347360f3690539c0acb7619697e77cd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ctvnews-2022-10-04T02:57:51.413334-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664866679",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "ctvnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6d2f0ad70a432b4b023662778f3ec14ea9b392ee",
-      "mtime": "1664819817",
-      "size": "201995",
-      "md5": "b30d30f479105a184a08ff57126ff2e0",
-      "crc32": "d1045f32",
-      "sha1": "9eba86419121130ce326cf89baa0e38c3955ecfd",
+      "btih": "acf37ed27caf9ea552ab751505ad05372bb1d741",
+      "mtime": "1664866728",
+      "size": "203045",
+      "md5": "5de38b170d24c6224c652798422acf6b",
+      "crc32": "e3c84df1",
+      "sha1": "edc6e46bfe042c3a6aa37cc20ae055369c2cf584",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ctvnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d7aebc2bcc4208b378ca0b812844ac93",
+      "md5": "361055d319f3c1a4cf6d1aee989d2b5b",
       "summation": "md5"
     },
     {
       "name": "ctvnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664819758",
-      "size": "1142784",
-      "md5": "b27efe5a47e58f47810537535a1f7450",
-      "crc32": "828d700e",
-      "sha1": "e2f2c2c4da82482e5665ee0459a57cd026ec322f",
+      "mtime": "1664866684",
+      "size": "1150976",
+      "md5": "bf4e830afe12bc30e6007d57d1730d67",
+      "crc32": "3ad54897",
+      "sha1": "7bd12a303821327989bb8c956e699f4f2cb2c240",
       "format": "Metadata"
     },
     {
@@ -9986,9 +10037,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 956,
-  "item_last_updated": 1664819817,
-  "item_size": 109764252,
+  "files_count": 961,
+  "item_last_updated": 1664866728,
+  "item_size": 110270228,
   "metadata": {
     "identifier": "ctvnews-2022",
     "collection": [
@@ -10006,20 +10057,20 @@
     "addeddate": "2022-06-30 22:35:40"
   },
   "pending_tasks": true,
-  "server": "ia802505.us.archive.org",
+  "server": "ia902505.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3427230613,
+      "task_id": 3427923705,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1734817121,
+  "uniq": 1612286008,
   "workable_servers": [
-    "ia802505.us.archive.org"
+    "ia902505.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1664824292,
+  "created": 1664866885,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/29/items/dnyuzcom-2022",
@@ -5082,31 +5082,82 @@
       "sha1": "8f8609d94f29fd3dfdb717ebc66fcbe0893cd2d8"
     },
     {
+      "name": "dnyuzcom-2022-10-04T03:00:16.491458-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664866822",
+      "size": "23745",
+      "md5": "0196e4d56032bc10112fec6f229ffe24",
+      "crc32": "83a0c972",
+      "sha1": "d9b35ee89fa2da0a3252983f57cacb0c90bd4a2c",
+      "format": "JSON"
+    },
+    {
+      "name": "dnyuzcom-2022-10-04T03:00:16.491458-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664866824",
+      "size": "23257",
+      "md5": "3da23fc7f56d1729e4e318ce4a60abb3",
+      "crc32": "cc7a2eed",
+      "sha1": "229ddbb3e5bb8d2085408529feebf45f193ebeea",
+      "format": "JSON"
+    },
+    {
+      "name": "dnyuzcom-2022-10-04T03:00:16.491458-04:00.jpg",
+      "source": "original",
+      "mtime": "1664866818",
+      "size": "357701",
+      "md5": "ea0b4cac538acc751930e2f21140f58f",
+      "crc32": "7b2b4d94",
+      "sha1": "93f6f755202287fce36db1b39fcf15f32782f41c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dnyuzcom-2022-10-04T03:00:16.491458-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664866831",
+      "size": "1414",
+      "md5": "64315e0ce067bb2872ffe9098fde8543",
+      "crc32": "e670e3af",
+      "sha1": "d24e37f99074db7786e9c5060f35194cc8b01684",
+      "format": "JSON"
+    },
+    {
+      "name": "dnyuzcom-2022-10-04T03:00:16.491458-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664866832",
+      "size": "198",
+      "md5": "d04627a822cd1d5fefa81bc5b23f68f3",
+      "crc32": "354ebcee",
+      "sha1": "5e8211ed240abf2da35a5f61dd29ec472f6d339d",
+      "format": "JSON"
+    },
+    {
       "name": "dnyuzcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0b551e72fc6792aede2a227491f301ba882b1739",
-      "mtime": "1664822807",
-      "size": "104810",
-      "md5": "01ec7cc8bc04af5f09b08ec584fd0a83",
-      "crc32": "23963e09",
-      "sha1": "ce96781768315c88ea15e004c80020d6b96aaba5",
+      "btih": "15aaaa17c47670ef4086fcba9d871968980feb87",
+      "mtime": "1664866878",
+      "size": "105871",
+      "md5": "4f9785a173dc04ff78bd0b717635db12",
+      "crc32": "b05570ef",
+      "sha1": "469c4e85842ec57942d2b88af13582cb92459feb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dnyuzcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b94252250255724772077f4845995493",
+      "md5": "fd5c9a76db09c6dc3e1221da68669344",
       "summation": "md5"
     },
     {
       "name": "dnyuzcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664819880",
-      "size": "638976",
-      "md5": "5139e019d0d183e4bffda44e86d06a3c",
-      "crc32": "667ecb63",
-      "sha1": "1011e5bd46eb0536eaebadb99eda7497805f7915",
+      "mtime": "1664866837",
+      "size": "647168",
+      "md5": "ff2299f7a04e9b07f65af58724d343f5",
+      "crc32": "29573024",
+      "sha1": "fc82475d98f1ad7dc5e4bc982b17e30719429812",
       "format": "Metadata"
     },
     {
@@ -5120,9 +5171,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 495,
-  "item_last_updated": 1664822807,
-  "item_size": 36019684,
+  "files_count": 500,
+  "item_last_updated": 1664866878,
+  "item_size": 36435252,
   "metadata": {
     "identifier": "dnyuzcom-2022",
     "collection": [
@@ -5139,9 +5190,20 @@
     "publicdate": "2022-08-23 14:03:00",
     "addeddate": "2022-08-23 14:03:00"
   },
+  "pending_tasks": true,
   "server": "ia601406.us.archive.org",
   "servers_unavailable": true,
-  "uniq": 739767416,
+  "tasks": [
+    {
+      "task_id": 3427927205,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1142563196,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

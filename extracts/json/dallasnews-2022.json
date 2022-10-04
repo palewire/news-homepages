@@ -1,5 +1,5 @@
 {
-  "created": 1664823336,
+  "created": 1664866972,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/1/items/dallasnews-2022",
@@ -11666,31 +11666,82 @@
       "sha1": "fe6a26f6c1a86ca0cddc644f86d0efb4dc659362"
     },
     {
+      "name": "dallasnews-2022-10-04T02:00:19.904152-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664866828",
+      "size": "23602",
+      "md5": "7527fb60d63c54f103e2e123ef6461fc",
+      "crc32": "df07e0ca",
+      "sha1": "5474509581ac099aeb7f244cade0eb464122fea5",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasnews-2022-10-04T02:00:19.904152-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664866830",
+      "size": "36064",
+      "md5": "226dac12759aca318cb8042856cb1b9d",
+      "crc32": "acbf6593",
+      "sha1": "230f4da9e3dcf0ebb8cdf35971275e0c4171893c",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasnews-2022-10-04T02:00:19.904152-05:00.jpg",
+      "source": "original",
+      "mtime": "1664866826",
+      "size": "275757",
+      "md5": "bce5d15f399c96cfb307bc8edb3809bf",
+      "crc32": "cc05288a",
+      "sha1": "9e6289398d19be9bc48103c5a7601cd0df29b1bb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dallasnews-2022-10-04T02:00:19.904152-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664866831",
+      "size": "1495",
+      "md5": "b4dafdc51e516da804beb24483797989",
+      "crc32": "b469d6c4",
+      "sha1": "512b23ee13b1ceddab67e49e9eb56cd86da506a2",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasnews-2022-10-04T02:00:19.904152-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664866833",
+      "size": "207",
+      "md5": "0171e8e2ac94a2bb6d3883252711930b",
+      "crc32": "40d488e3",
+      "sha1": "c0dfd7913cb28b30d5b04505e0f29b11ce181ed4",
+      "format": "JSON"
+    },
+    {
       "name": "dallasnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3bfe202e4edb6f63dd2e40e6bf0f4e7147deae88",
-      "mtime": "1664822295",
-      "size": "240010",
-      "md5": "40004d9f561f1674065d86783088adf0",
-      "crc32": "f1941db2",
-      "sha1": "9305c1015f5eed6ee01785f3b639cb21fe2d68fc",
+      "btih": "28a74df82cadbb7b4e75cd5bf7edee7a731cc635",
+      "mtime": "1664866954",
+      "size": "241081",
+      "md5": "93bd0abe8a6fa5c74081df9b0a06862f",
+      "crc32": "3ad9774a",
+      "sha1": "1e91b0a4ccc1a1e503906dcd9b2093b4f112f1e2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dallasnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6395d54d9e84b9e348b06abf23a6d02b",
+      "md5": "46ce42835e3c55c955238efe8410b823",
       "summation": "md5"
     },
     {
       "name": "dallasnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664819888",
-      "size": "1400832",
-      "md5": "f90dfe5f831804fb3c1519001548498e",
-      "crc32": "e857d494",
-      "sha1": "0677a3506c1838429b7f49fbe70f4f879fef2d1a",
+      "mtime": "1664866897",
+      "size": "1404928",
+      "md5": "1f4d1269dfc69e8eb2478a93cba637a3",
+      "crc32": "5aaaa262",
+      "sha1": "bfbaad31747f062dd0a6f5b65694a402ac7513ae",
       "format": "Metadata"
     },
     {
@@ -11704,9 +11755,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1127,
-  "item_last_updated": 1664822295,
-  "item_size": 83559492,
+  "files_count": 1132,
+  "item_last_updated": 1664866954,
+  "item_size": 83901784,
   "metadata": {
     "identifier": "dallasnews-2022",
     "collection": [
@@ -11723,10 +11774,21 @@
     "publicdate": "2022-06-24 22:54:46",
     "addeddate": "2022-06-24 22:54:46"
   },
+  "pending_tasks": true,
   "server": "ia601502.us.archive.org",
-  "uniq": 255687365,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3427930237,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1760127300,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia601502.us.archive.org"
   ]
 }

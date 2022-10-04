@@ -1,5 +1,5 @@
 {
-  "created": 1664823816,
+  "created": 1664867045,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/12/items/gizmodo-2022",
@@ -10106,31 +10106,82 @@
       "sha1": "93566ec36d1685fb3d4a5640389f87f3db107864"
     },
     {
+      "name": "gizmodo-2022-10-04T00:02:10.501628-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664866934",
+      "size": "46708",
+      "md5": "b851241fc332f907dec75f8965d5b63e",
+      "crc32": "b187ecbe",
+      "sha1": "99db0fd8f98638428903e022b6fb822927d9f0d7",
+      "format": "JSON"
+    },
+    {
+      "name": "gizmodo-2022-10-04T00:02:10.501628-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664866935",
+      "size": "30117",
+      "md5": "9282f077ca9b72ad96a3512f512f10b0",
+      "crc32": "0889de02",
+      "sha1": "b917005a25238cc0c37447872604445701ef8689",
+      "format": "JSON"
+    },
+    {
+      "name": "gizmodo-2022-10-04T00:02:10.501628-07:00.jpg",
+      "source": "original",
+      "mtime": "1664866932",
+      "size": "288757",
+      "md5": "e4d0780fe04600f1f1947fb44a01dd1b",
+      "crc32": "7b4c4e85",
+      "sha1": "d95df3a0d9a8fe50e367465531bd4fbd3c93267a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gizmodo-2022-10-04T00:02:10.501628-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664866937",
+      "size": "1429",
+      "md5": "d4e3ee67ddf8f3e273c697d357af0fcf",
+      "crc32": "e69c563b",
+      "sha1": "965a77a49c91505fe196aeee22d11d07f35e2bf3",
+      "format": "JSON"
+    },
+    {
+      "name": "gizmodo-2022-10-04T00:02:10.501628-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664866939",
+      "size": "34093",
+      "md5": "1c8688648a4db4dda4fdf0af552ff7e6",
+      "crc32": "4a77550d",
+      "sha1": "3200f09353703363053b979a6175e24455eceab7",
+      "format": "JSON"
+    },
+    {
       "name": "gizmodo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4847201d2276ee86d740aa52d99c262c0ca09478",
-      "mtime": "1664823545",
-      "size": "205133",
-      "md5": "8139061ac62386b6376d4e9325b21be1",
-      "crc32": "7fdc96d1",
-      "sha1": "7b3a4dfa9f0b8234a392f1919a14dabec6e36ee6",
+      "btih": "e26ec39a51ffa9842094cb77813d3bcc46a2e746",
+      "mtime": "1664867034",
+      "size": "206191",
+      "md5": "6dcc41f2071a42214a74249cb466a6bf",
+      "crc32": "d9a006df",
+      "sha1": "e6b9b2e7f24e40cdb7ec042a360ea5d4698093ad",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gizmodo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6c3f36e8d36c56441507f8048b622502",
+      "md5": "6bd702b8f259c84e68497b62f5b90e14",
       "summation": "md5"
     },
     {
       "name": "gizmodo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664820696",
-      "size": "1196032",
-      "md5": "fdf402278a9cc61fdd66ff028821d230",
-      "crc32": "5e52c7e7",
-      "sha1": "41dbfc36e822fc55c22be9ccf93566bb70d4111e",
+      "mtime": "1664866984",
+      "size": "1200128",
+      "md5": "4aeac798b6a406c2f4ae9fe7b62f319e",
+      "crc32": "fda369a8",
+      "sha1": "eabe18c78dc5bad2849470287c360cf129e6c556",
       "format": "Metadata"
     },
     {
@@ -10144,9 +10195,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 975,
-  "item_last_updated": 1664823545,
-  "item_size": 83336540,
+  "files_count": 980,
+  "item_last_updated": 1664867034,
+  "item_size": 83742798,
   "metadata": {
     "identifier": "gizmodo-2022",
     "collection": [
@@ -10163,10 +10214,21 @@
     "publicdate": "2022-07-04 20:17:36",
     "addeddate": "2022-07-04 20:17:36"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 1499643766,
+  "pending_tasks": true,
+  "server": "ia601501.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3427931619,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1868325458,
   "workable_servers": [
-    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

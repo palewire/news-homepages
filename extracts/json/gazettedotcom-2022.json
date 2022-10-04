@@ -1,5 +1,5 @@
 {
-  "created": 1664824436,
+  "created": 1664867040,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/4/items/gazettedotcom-2022",
@@ -18052,31 +18052,72 @@
       "sha1": "1b0cf1c079acb28515e7e4418e189236e741921e"
     },
     {
+      "name": "gazettedotcom-2022-10-04T02:02:17.951698-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664866960",
+      "size": "43122",
+      "md5": "ea46ede12fe194145aa32cae373310d8",
+      "crc32": "56a6d679",
+      "sha1": "9e3f732604e94a6a82125cbc4b405ab04d5a6833",
+      "format": "JSON"
+    },
+    {
+      "name": "gazettedotcom-2022-10-04T02:02:17.951698-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664866962",
+      "size": "79459",
+      "md5": "d8ef29fda75357259056d4886322671e",
+      "crc32": "b13f2357",
+      "sha1": "35ebef03be250242d021ad2a8f1e598a3d6519ed",
+      "format": "JSON"
+    },
+    {
+      "name": "gazettedotcom-2022-10-04T02:02:17.951698-05:00.jpg",
+      "source": "original",
+      "mtime": "1664866958",
+      "size": "196819",
+      "md5": "627af442fdbb07315f5197dbc769fb08",
+      "crc32": "544ad616",
+      "sha1": "a82be0580b5d7e1f85a12456459cc0323c0572e3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gazettedotcom-2022-10-04T02:02:17.951698-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664866965",
+      "size": "1492",
+      "md5": "e91a80981363d20d4e79ddf559d50e71",
+      "crc32": "0489c461",
+      "sha1": "bc21a62e9eb4ad1aa99f6b33fe716b110d319fd7",
+      "format": "JSON"
+    },
+    {
       "name": "gazettedotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "773138342a49500c297bb90bb23d291f3a45db25",
-      "mtime": "1664824263",
-      "size": "375448",
-      "md5": "be272a9950c84cccfd5b0439644f1169",
-      "crc32": "b4519517",
-      "sha1": "c856e78edb88ec79f4b677717412f736d1303b3c",
+      "btih": "ff1bbd301b1d1cd43a89b6cb345d66edb200af0f",
+      "mtime": "1664867034",
+      "size": "376323",
+      "md5": "afeff673a8f655865b108ac5fd4b762f",
+      "crc32": "9497c279",
+      "sha1": "7703e579242c62c8662b99b9cb82dc4e94769ec3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gazettedotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e98a2139f1c4881346e89024fddfe295",
+      "md5": "64b5b34b48ed2b581f9200a32a13db86",
       "summation": "md5"
     },
     {
       "name": "gazettedotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664820749",
-      "size": "2117632",
-      "md5": "ad5a06239eacc5043b5df47e380e9f56",
-      "crc32": "5eefca86",
-      "sha1": "85ec282c30d0f7f9e30e88656c96a02c1d65b58f",
+      "mtime": "1664866970",
+      "size": "2125824",
+      "md5": "ceabe3d5fe955e4848ddfa0f3c54bf47",
+      "crc32": "15783959",
+      "sha1": "5d8da5eb92d10878d196e6ce0062a47862418a57",
       "format": "Metadata"
     },
     {
@@ -18090,9 +18131,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1737,
-  "item_last_updated": 1664824263,
-  "item_size": 149601568,
+  "files_count": 1741,
+  "item_last_updated": 1664867034,
+  "item_size": 149931527,
   "metadata": {
     "identifier": "gazettedotcom-2022",
     "collection": [
@@ -18109,10 +18150,21 @@
     "publicdate": "2022-03-25 03:34:38",
     "addeddate": "2022-03-25 03:34:38"
   },
-  "server": "ia802508.us.archive.org",
-  "uniq": 519254301,
+  "pending_tasks": true,
+  "server": "ia902508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3427931539,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1862580293,
   "workable_servers": [
-    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

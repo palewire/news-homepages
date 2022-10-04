@@ -1,5 +1,5 @@
 {
-  "created": 1664822396,
+  "created": 1664866780,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/8/items/dailypenn-2022",
@@ -8456,31 +8456,82 @@
       "sha1": "11a2cad0c476621d95650ed046c5ec07e9a65f1c"
     },
     {
+      "name": "dailypenn-2022-10-04T02:58:10.965672-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664866693",
+      "size": "27125",
+      "md5": "0c21927d63d804f2ef197f3cc165125a",
+      "crc32": "25758b03",
+      "sha1": "0ce3030afff08bb35dbb3b06a2eec7dc6b257f11",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-04T02:58:10.965672-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664866696",
+      "size": "24938",
+      "md5": "11fce0009cc4305dfe4d7896f2f17fa3",
+      "crc32": "78d20042",
+      "sha1": "508ea9f10ef269c1cd7c0da09894707d14982eb5",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-04T02:58:10.965672-04:00.jpg",
+      "source": "original",
+      "mtime": "1664866692",
+      "size": "331552",
+      "md5": "98b34b05685320c8d7f577aace75480f",
+      "crc32": "38bfc328",
+      "sha1": "c889429c7505a46f807d4effdd1243b7838b74f3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailypenn-2022-10-04T02:58:10.965672-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664866697",
+      "size": "1450",
+      "md5": "90806ef58a8995e19bfa89c3152ed139",
+      "crc32": "079ded05",
+      "sha1": "ba366655ab902ef832d078b9ef399eaff8b3d38e",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-04T02:58:10.965672-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664866698",
+      "size": "98",
+      "md5": "45dd0bbfca16c1117cebc93e13ef9a69",
+      "crc32": "1ebcb251",
+      "sha1": "45e220cdb6e69f504953112917503736e940573f",
+      "format": "JSON"
+    },
+    {
       "name": "dailypenn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "12f9f86e29aa2d7e2eb36da72c1f6fbe73e2784d",
-      "mtime": "1664822276",
-      "size": "174007",
-      "md5": "357b39e46f28681aeb4a2f71fcf35412",
-      "crc32": "97a7f629",
-      "sha1": "acebc1f6db229e597b05738556261e18765a5fe8",
+      "btih": "cb9a09bac5b705d275e3ffd9461e16e51975c58b",
+      "mtime": "1664866770",
+      "size": "175072",
+      "md5": "d2e1ae4cfb8729d84d05710b178dfe0e",
+      "crc32": "b39680b3",
+      "sha1": "1d693fb249c0282cd7c9256724dd1cda86f53d4c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailypenn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "52a16b0e834962686c28b13750befb82",
+      "md5": "2035fd2d2695e52bcc036209832bc1b9",
       "summation": "md5"
     },
     {
       "name": "dailypenn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664819911",
-      "size": "1048576",
-      "md5": "c579d5b702a92a7013316f341ffb4c64",
-      "crc32": "1cbd4fea",
-      "sha1": "e3ccc326790113c25804d1be23b364a828269442",
+      "mtime": "1664866714",
+      "size": "1056768",
+      "md5": "9df730d0852afdc71608f2b9a383cfbe",
+      "crc32": "0123d7a7",
+      "sha1": "5de1c4cfacbeb19f99dc1644192ce6a5001d12d6",
       "format": "Metadata"
     },
     {
@@ -8494,9 +8545,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 821,
-  "item_last_updated": 1664822276,
-  "item_size": 56733387,
+  "files_count": 826,
+  "item_last_updated": 1664866770,
+  "item_size": 57127807,
   "metadata": {
     "identifier": "dailypenn-2022",
     "collection": [
@@ -8513,10 +8564,21 @@
     "publicdate": "2022-07-26 02:41:30",
     "addeddate": "2022-07-26 02:41:30"
   },
-  "server": "ia801507.us.archive.org",
-  "uniq": 830291477,
+  "pending_tasks": true,
+  "server": "ia601507.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3427924374,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 712252894,
   "workable_servers": [
-    "ia801507.us.archive.org",
     "ia601507.us.archive.org"
   ]
 }

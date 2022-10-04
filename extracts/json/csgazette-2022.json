@@ -1,5 +1,5 @@
 {
-  "created": 1664822855,
+  "created": 1664866742,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/5/items/csgazette-2022",
@@ -5990,31 +5990,82 @@
       "sha1": "bbeb55316d3ce30f3febd0876799f4d09d01741f"
     },
     {
+      "name": "csgazette-2022-10-04T00:57:45.526536-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664866676",
+      "size": "57926",
+      "md5": "e8639d4511cfd8bf5ceaf0b7992915f9",
+      "crc32": "279fc3fe",
+      "sha1": "12f38153d940391382ed50de0db5cdc9897a6f8e",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-04T00:57:45.526536-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664866677",
+      "size": "105868",
+      "md5": "74d27993825d82abdbe52bb443e38281",
+      "crc32": "cce995f6",
+      "sha1": "32efd4cf7c66b8c706dd6ea73e766d25cb99b3a9",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-04T00:57:45.526536-06:00.jpg",
+      "source": "original",
+      "mtime": "1664866674",
+      "size": "389862",
+      "md5": "5ba893f644a296831874faaf6b120876",
+      "crc32": "46f57921",
+      "sha1": "887535073c78c3b20201d4a0899f75d1b8469cb4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "csgazette-2022-10-04T00:57:45.526536-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664866679",
+      "size": "1429",
+      "md5": "6a3918e3604d080751642d7878bd0f02",
+      "crc32": "7b4b3dce",
+      "sha1": "2aeb0de6c8bc679d0b892cb6510233851578474b",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-04T00:57:45.526536-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1664866680",
+      "size": "173921",
+      "md5": "35dba97f0b10848ffdf975ccdd1caa04",
+      "crc32": "f8ee96e2",
+      "sha1": "8e19562d52e15c3e5e8bef557b71e06012f2fb4f",
+      "format": "JSON"
+    },
+    {
       "name": "csgazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "642b9f2edc3090398722ba4f01d28e0242301683",
-      "mtime": "1664822634",
-      "size": "124793",
-      "md5": "ab481fdfa30c7e7ab02d753313c68d28",
-      "crc32": "d2a2b6c7",
-      "sha1": "7366f72839c1e384a61b2358f7a0418a4f0410b2",
+      "btih": "e84c8b1c7a236ec9160781c7c258fe3f1ec7583c",
+      "mtime": "1664866734",
+      "size": "125863",
+      "md5": "800b6146e53ff732a71f2f6b690d7acc",
+      "crc32": "869cc6cf",
+      "sha1": "8a426990a32bd9444feb99e229b890519991c3f6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "csgazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0a30b1aea6b6426ef7808f68b376bc53",
+      "md5": "38cb47a0405e0c4acabae411b72528ee",
       "summation": "md5"
     },
     {
       "name": "csgazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664819823",
-      "size": "745472",
-      "md5": "59e50aad63f4a7be6c4088c999791392",
-      "crc32": "99e1f856",
-      "sha1": "acebaec801e32c6db42d92c28e6e72617082d1c5",
+      "mtime": "1664866691",
+      "size": "749568",
+      "md5": "da0b3c459b761e72cfb2825bfeb49e23",
+      "crc32": "96f16ed8",
+      "sha1": "4c5d50d336878a88898d5da9736352de07c5c618",
       "format": "Metadata"
     },
     {
@@ -6028,9 +6079,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 582,
-  "item_last_updated": 1664822634,
-  "item_size": 69568477,
+  "files_count": 587,
+  "item_last_updated": 1664866734,
+  "item_size": 70302649,
   "metadata": {
     "identifier": "csgazette-2022",
     "collection": [
@@ -6047,10 +6098,21 @@
     "publicdate": "2022-08-14 06:41:11",
     "addeddate": "2022-08-14 06:41:11"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 1562767380,
+  "pending_tasks": true,
+  "server": "ia601404.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3427923852,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 217827924,
   "workable_servers": [
-    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }

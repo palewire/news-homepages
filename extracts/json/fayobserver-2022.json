@@ -1,5 +1,5 @@
 {
-  "created": 1664823308,
+  "created": 1664866935,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/4/items/fayobserver-2022",
@@ -1690,31 +1690,82 @@
       "sha1": "ec57d0e8d826cb7137545e5feffce7b222deb63e"
     },
     {
+      "name": "fayobserver-2022-10-04T03:00:58.940543-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664866862",
+      "size": "21561",
+      "md5": "127d59bfc4d8eb23458b124d520910c2",
+      "crc32": "701b560d",
+      "sha1": "e1b5b97015eba2a7cb181a634ce1c3aa3fb0864c",
+      "format": "JSON"
+    },
+    {
+      "name": "fayobserver-2022-10-04T03:00:58.940543-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664866864",
+      "size": "30248",
+      "md5": "c5311d5cdf21c03dfa247ff11a1f6c4f",
+      "crc32": "7a639ee4",
+      "sha1": "f517577220b658066a1d283c585e8046cfd14e8f",
+      "format": "JSON"
+    },
+    {
+      "name": "fayobserver-2022-10-04T03:00:58.940543-04:00.jpg",
+      "source": "original",
+      "mtime": "1664866860",
+      "size": "271188",
+      "md5": "c9b177502eca57057fff6fe6e42cded9",
+      "crc32": "b7830db4",
+      "sha1": "304854d8bb7eecdf994cf71dc78323ecba75088c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fayobserver-2022-10-04T03:00:58.940543-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664866866",
+      "size": "1504",
+      "md5": "88eeb46fd1b825725779dac1a58ca0b2",
+      "crc32": "3d211887",
+      "sha1": "ddc7f48a894d9784854294df22e12db8469b7387",
+      "format": "JSON"
+    },
+    {
+      "name": "fayobserver-2022-10-04T03:00:58.940543-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664866868",
+      "size": "142909",
+      "md5": "0cc1af6808945f38d90dc87e81396b7d",
+      "crc32": "5a67d9f6",
+      "sha1": "817b8a218096a36eb31d2e8fe10899108c261707",
+      "format": "JSON"
+    },
+    {
       "name": "fayobserver-2022_archive.torrent",
       "source": "metadata",
-      "btih": "82c4a2911dd16f941a2f5df9f869506f635fa57c",
-      "mtime": "1664823162",
-      "size": "36228",
-      "md5": "3b09058626880971f02f21743ea84dcb",
-      "crc32": "5e91d6d9",
-      "sha1": "39253bc1b38431f5c8b4d38efb2c37f4ff163a88",
+      "btih": "7b599f12252652c5016f9600462dcd887123032a",
+      "mtime": "1664866931",
+      "size": "37307",
+      "md5": "568e88f0560e1cbcbb3ced68e6070b45",
+      "crc32": "eeec1b98",
+      "sha1": "4c324d1b3d4e196d2080dd5fbb0c468258733f30",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fayobserver-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "103dcc074c1e7e076c772b12e5acc9f1",
+      "md5": "a08afadd6a4d9fa6646736b4d9fa89b0",
       "summation": "md5"
     },
     {
       "name": "fayobserver-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664820726",
-      "size": "229376",
-      "md5": "3c3c9db55a7837ce9cf226ffb62db0ed",
-      "crc32": "97661c3a",
-      "sha1": "c0512df94d9f493ab967eeb8bbd50895e346d069",
+      "mtime": "1664866894",
+      "size": "237568",
+      "md5": "a4b37a22f4af5a76b4936d0e4c2b99f9",
+      "crc32": "7bb3d4c7",
+      "sha1": "869efff9ff997f7e31b7eda878b022b7bdf1c0cb",
       "format": "Metadata"
     },
     {
@@ -1728,9 +1779,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 167,
-  "item_last_updated": 1664823162,
-  "item_size": 11510010,
+  "files_count": 172,
+  "item_last_updated": 1664866931,
+  "item_size": 11986691,
   "metadata": {
     "identifier": "fayobserver-2022",
     "collection": [
@@ -1747,10 +1798,21 @@
     "publicdate": "2022-09-20 17:50:17",
     "addeddate": "2022-09-20 17:50:17"
   },
+  "pending_tasks": true,
   "server": "ia601402.us.archive.org",
-  "uniq": 1660858527,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3427928771,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1687571169,
   "workable_servers": [
-    "ia601402.us.archive.org",
-    "ia801402.us.archive.org"
+    "ia601402.us.archive.org"
   ]
 }

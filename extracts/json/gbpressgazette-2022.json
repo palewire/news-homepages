@@ -1,5 +1,5 @@
 {
-  "created": 1664823804,
+  "created": 1664867039,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/7/items/gbpressgazette-2022",
@@ -16314,31 +16314,82 @@
       "sha1": "07c186753eb13b8e783d81ac892e6e58b84225f9"
     },
     {
+      "name": "gbpressgazette-2022-10-04T02:02:18.422042-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664866947",
+      "size": "21849",
+      "md5": "abc991f6307166567272cb7f95d1550d",
+      "crc32": "d633f928",
+      "sha1": "cef4255bbeab2b575f817473d6cf373aa92f9f08",
+      "format": "JSON"
+    },
+    {
+      "name": "gbpressgazette-2022-10-04T02:02:18.422042-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664866949",
+      "size": "32937",
+      "md5": "e39200ca04ea89c439ab0b336022e661",
+      "crc32": "0e48ccc1",
+      "sha1": "2603d89f5f53e2b669f83681e6f4935a2f743f8f",
+      "format": "JSON"
+    },
+    {
+      "name": "gbpressgazette-2022-10-04T02:02:18.422042-05:00.jpg",
+      "source": "original",
+      "mtime": "1664866945",
+      "size": "243405",
+      "md5": "c26fa9626b0284b808d743262d7d0c3b",
+      "crc32": "1bd125b5",
+      "sha1": "4e8fea9754809832049100fea5f585b66abc0e61",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gbpressgazette-2022-10-04T02:02:18.422042-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664866951",
+      "size": "1585",
+      "md5": "8c2c89eebaef92503f064171b3a34f3f",
+      "crc32": "bbc78c3e",
+      "sha1": "57475b4f0f2cc924fa8ab29ca65c96553d03a3c4",
+      "format": "JSON"
+    },
+    {
+      "name": "gbpressgazette-2022-10-04T02:02:18.422042-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664866952",
+      "size": "113",
+      "md5": "af02d8b440d48a761b1048a60da264fb",
+      "crc32": "686fc83f",
+      "sha1": "796229d1a8d330ab98c0da13c872a145c039808f",
+      "format": "JSON"
+    },
+    {
       "name": "gbpressgazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0b5b2ef1a41407cdbefac6b2aa3f7af029d293ed",
-      "mtime": "1664823508",
-      "size": "340262",
-      "md5": "a651284bea2551a5d269cb4c587707a3",
-      "crc32": "02fb73ef",
-      "sha1": "f235936ad4356e64f2b2d19c4b14346d25c1e12e",
+      "btih": "3ee4c813cf8fc8576b39c4ad5fe461dc8554db83",
+      "mtime": "1664867033",
+      "size": "341333",
+      "md5": "0f56763cb836fd6ac1d0cf1ded3b423a",
+      "crc32": "c56f1d55",
+      "sha1": "246228dca26a5c2a0ef9708796c60a32ea05e27c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gbpressgazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4f4ac611eaa8cbd87a73a8f86593b6cf",
+      "md5": "81b53e271f0f8e1c776f0ebedd26dccd",
       "summation": "md5"
     },
     {
       "name": "gbpressgazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664820683",
-      "size": "1908736",
-      "md5": "0efed6a507597a16fb10edc1a64f74cf",
-      "crc32": "2a91922e",
-      "sha1": "636609e10ab24fac7a59c2768535d835140af587",
+      "mtime": "1664866981",
+      "size": "1916928",
+      "md5": "f93093278597db2933541772bbd4265f",
+      "crc32": "1b0ceedb",
+      "sha1": "5b10ad9804260ecfa0a9c4530fddc5f3350c7bd4",
       "format": "Metadata"
     },
     {
@@ -16352,9 +16403,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1569,
-  "item_last_updated": 1664823508,
-  "item_size": 121595613,
+  "files_count": 1574,
+  "item_last_updated": 1664867033,
+  "item_size": 121904765,
   "metadata": {
     "identifier": "gbpressgazette-2022",
     "collection": [
@@ -16371,10 +16422,21 @@
     "publicdate": "2022-03-23 23:06:20",
     "addeddate": "2022-03-23 23:06:20"
   },
-  "server": "ia802508.us.archive.org",
-  "uniq": 1939373726,
+  "pending_tasks": true,
+  "server": "ia902508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3427931511,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2092432311,
   "workable_servers": [
-    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }
