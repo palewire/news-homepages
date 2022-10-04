@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 28 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/destinlog-2022/destinlog-2022-10-03T18:56:14.496775-05:00.jpg">
+  <img src="https://archive.org/download/destinlog-2022/destinlog-2022-10-03T18:56:14.496775-05:00.jpg"
+     alt="The Destin Log at 2022-10-03 18:56:16-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/destinlog-2022/destinlog-2022-10-03T18:56:14.496775-05:00.jpg">October 3 at 6:56 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/destinlog-2022/destinlog-2022-10-03T06:59:11.184014-05:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/destinlog-2022/destinlog-2022-09-28T07:09:28.406478-05:00.jpg">September 28 at 7:09 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/destinlog-2022/destinlog-2022-09-27T18:52:05.774036-05:00.jpg">
-  <img src="https://archive.org/download/destinlog-2022/destinlog-2022-09-27T18:52:05.774036-05:00.jpg"
-     alt="The Destin Log at 2022-09-27 18:52:09-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/destinlog-2022/destinlog-2022-09-27T18:52:05.774036-05:00.jpg">September 27 at 6:52 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 27 hyperlink lists with the Internet Archive.
+The archiving routine has saved 28 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 3 at 6:56 PM](https://archive.org/download/destinlog-2022/destinlog-2022-10-03T18:56:14.496775-05:00.hyperlinks.json) |
 | [October 3 at 6:59 AM](https://archive.org/download/destinlog-2022/destinlog-2022-10-03T06:59:11.184014-05:00.hyperlinks.json) |
 | [October 2 at 6:59 PM](https://archive.org/download/destinlog-2022/destinlog-2022-10-02T18:59:53.286675-05:00.hyperlinks.json) |
 | [October 2 at 6:54 AM](https://archive.org/download/destinlog-2022/destinlog-2022-10-02T06:54:13.605964-05:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 7:02 AM](https://archive.org/download/destinlog-2022/destinlog-2022-09-30T07:02:20.996944-05:00.hyperlinks.json) |
 | [September 29 at 6:59 PM](https://archive.org/download/destinlog-2022/destinlog-2022-09-29T18:59:50.544550-05:00.hyperlinks.json) |
 | [September 29 at 6:57 AM](https://archive.org/download/destinlog-2022/destinlog-2022-09-29T06:57:38.053181-05:00.hyperlinks.json) |
-| [September 28 at 6:47 PM](https://archive.org/download/destinlog-2022/destinlog-2022-09-28T18:47:50.657770-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 27 accessibility trees with the Internet Archive.
+The archiving routine has saved 28 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 3 at 6:56 PM](https://archive.org/download/destinlog-2022/destinlog-2022-10-03T18:56:14.496775-05:00.accessibility.json) |
 | [October 3 at 6:59 AM](https://archive.org/download/destinlog-2022/destinlog-2022-10-03T06:59:11.184014-05:00.accessibility.json) |
 | [October 2 at 6:59 PM](https://archive.org/download/destinlog-2022/destinlog-2022-10-02T18:59:53.286675-05:00.accessibility.json) |
 | [October 2 at 6:54 AM](https://archive.org/download/destinlog-2022/destinlog-2022-10-02T06:54:13.605964-05:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 7:02 AM](https://archive.org/download/destinlog-2022/destinlog-2022-09-30T07:02:20.996944-05:00.accessibility.json) |
 | [September 29 at 6:59 PM](https://archive.org/download/destinlog-2022/destinlog-2022-09-29T18:59:50.544550-05:00.accessibility.json) |
 | [September 29 at 6:57 AM](https://archive.org/download/destinlog-2022/destinlog-2022-09-29T06:57:38.053181-05:00.accessibility.json) |
-| [September 28 at 6:47 PM](https://archive.org/download/destinlog-2022/destinlog-2022-09-28T18:47:50.657770-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 3 at 6:56 PM](https://archive.org/download/destinlog-2022/destinlog-2022-10-03T18:56:14.496775-05:00.lighthouse.json) |
 | [October 3 at 6:59 AM](https://archive.org/download/destinlog-2022/destinlog-2022-10-03T06:59:11.184014-05:00.lighthouse.json) |
 | [October 2 at 7:00 PM](https://archive.org/download/destinlog-2022/destinlog-2022-10-02T18:59:53.286675-05:00.lighthouse.json) |
 | [October 2 at 6:54 AM](https://archive.org/download/destinlog-2022/destinlog-2022-10-02T06:54:13.605964-05:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 7:02 AM](https://archive.org/download/destinlog-2022/destinlog-2022-09-30T07:02:20.996944-05:00.lighthouse.json) |
 | [September 29 at 6:59 PM](https://archive.org/download/destinlog-2022/destinlog-2022-09-29T18:59:50.544550-05:00.lighthouse.json) |
 | [September 29 at 6:57 AM](https://archive.org/download/destinlog-2022/destinlog-2022-09-29T06:57:38.053181-05:00.lighthouse.json) |
-| [September 28 at 6:47 PM](https://archive.org/download/destinlog-2022/destinlog-2022-09-28T18:47:50.657770-05:00.lighthouse.json) |
 
 
 

@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 26 screenshots with the Internet Archive.
+The archiving routine has saved 28 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/heraldtribune-2022/heraldtribune-2022-10-03T19:59:19.275580-04:00.jpg">
+  <img src="https://archive.org/download/heraldtribune-2022/heraldtribune-2022-10-03T19:59:19.275580-04:00.jpg"
+     alt="Sarasota Herald-Tribune at 2022-10-03 19:59:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/heraldtribune-2022/heraldtribune-2022-10-03T19:59:19.275580-04:00.jpg">October 3 at 7:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/heraldtribune-2022/heraldtribune-2022-10-03T08:03:41.014963-04:00.jpg">
+  <img src="https://archive.org/download/heraldtribune-2022/heraldtribune-2022-10-03T08:03:41.014963-04:00.jpg"
+     alt="Sarasota Herald-Tribune at 2022-10-03 08:03:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/heraldtribune-2022/heraldtribune-2022-10-03T08:03:41.014963-04:00.jpg">October 3 at 8:03 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/heraldtribune-2022/heraldtribune-2022-10-02T20:03:24.874987-04:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/heraldtribune-2022/heraldtribune-2022-09-28T08:11:44.326003-04:00.jpg">September 28 at 8:11 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/heraldtribune-2022/heraldtribune-2022-09-27T19:54:35.176846-04:00.jpg">
-  <img src="https://archive.org/download/heraldtribune-2022/heraldtribune-2022-09-27T19:54:35.176846-04:00.jpg"
-     alt="Sarasota Herald-Tribune at 2022-09-27 19:54:38-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/heraldtribune-2022/heraldtribune-2022-09-27T19:54:35.176846-04:00.jpg">September 27 at 7:54 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/heraldtribune-2022/heraldtribune-2022-09-27T07:57:19.511565-04:00.jpg">
-  <img src="https://archive.org/download/heraldtribune-2022/heraldtribune-2022-09-27T07:57:19.511565-04:00.jpg"
-     alt="Sarasota Herald-Tribune at 2022-09-27 07:57:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/heraldtribune-2022/heraldtribune-2022-09-27T07:57:19.511565-04:00.jpg">September 27 at 7:57 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 26 hyperlink lists with the Internet Archive.
+The archiving routine has saved 28 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 3 at 7:59 PM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-10-03T19:59:19.275580-04:00.hyperlinks.json) |
+| [October 3 at 8:03 AM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-10-03T08:03:41.014963-04:00.hyperlinks.json) |
 | [October 2 at 8:03 PM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-10-02T20:03:24.874987-04:00.hyperlinks.json) |
 | [October 2 at 7:57 AM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-10-02T07:57:31.563579-04:00.hyperlinks.json) |
 | [October 1 at 7:59 PM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-10-01T19:59:06.607516-04:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 8:06 AM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-09-30T08:06:31.109850-04:00.hyperlinks.json) |
 | [September 29 at 8:01 PM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-09-29T20:01:49.673787-04:00.hyperlinks.json) |
 | [September 29 at 8:00 AM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-09-29T08:00:19.316856-04:00.hyperlinks.json) |
-| [September 28 at 7:50 PM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-09-28T19:50:03.119069-04:00.hyperlinks.json) |
-| [September 28 at 8:11 AM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-09-28T08:11:44.326003-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 26 accessibility trees with the Internet Archive.
+The archiving routine has saved 28 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 3 at 7:59 PM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-10-03T19:59:19.275580-04:00.accessibility.json) |
+| [October 3 at 8:03 AM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-10-03T08:03:41.014963-04:00.accessibility.json) |
 | [October 2 at 8:03 PM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-10-02T20:03:24.874987-04:00.accessibility.json) |
 | [October 2 at 7:57 AM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-10-02T07:57:31.563579-04:00.accessibility.json) |
 | [October 1 at 7:59 PM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-10-01T19:59:06.607516-04:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 8:06 AM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-09-30T08:06:31.109850-04:00.accessibility.json) |
 | [September 29 at 8:01 PM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-09-29T20:01:49.673787-04:00.accessibility.json) |
 | [September 29 at 8:00 AM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-09-29T08:00:19.316856-04:00.accessibility.json) |
-| [September 28 at 7:50 PM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-09-28T19:50:03.119069-04:00.accessibility.json) |
-| [September 28 at 8:11 AM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-09-28T08:11:44.326003-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 3 at 7:59 PM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-10-03T19:59:19.275580-04:00.lighthouse.json) |
+| [October 3 at 8:03 AM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-10-03T08:03:41.014963-04:00.lighthouse.json) |
 | [October 2 at 8:03 PM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-10-02T20:03:24.874987-04:00.lighthouse.json) |
 | [October 2 at 7:57 AM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-10-02T07:57:31.563579-04:00.lighthouse.json) |
 | [October 1 at 7:59 PM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-10-01T19:59:06.607516-04:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 8:06 AM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-09-30T08:06:31.109850-04:00.lighthouse.json) |
 | [September 29 at 8:01 PM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-09-29T20:01:49.673787-04:00.lighthouse.json) |
 | [September 29 at 8:00 AM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-09-29T08:00:19.316856-04:00.lighthouse.json) |
-| [September 28 at 7:50 PM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-09-28T19:50:03.119069-04:00.lighthouse.json) |
-| [September 28 at 8:11 AM](https://archive.org/download/heraldtribune-2022/heraldtribune-2022-09-28T08:11:44.326003-04:00.lighthouse.json) |
 
 
 
