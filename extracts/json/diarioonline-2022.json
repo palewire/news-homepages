@@ -1,5 +1,5 @@
 {
-  "created": 1664885683,
+  "created": 1664906708,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/35/items/diarioonline-2022",
@@ -10514,31 +10514,93 @@
       "sha1": "d0f0e5165042d53e935598baa41cd6ad663d8c81"
     },
     {
+      "name": "diarioonline-2022-10-04T15:01:34.444894-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664906504",
+      "size": "46514",
+      "md5": "43d4bfcb05666fd84b75aa7b41f01076",
+      "crc32": "4d6982fd",
+      "sha1": "dff2953a1d537ba013df323b4c99651f18834bda",
+      "format": "JSON"
+    },
+    {
+      "name": "diarioonline-2022-10-04T15:01:34.444894-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664906508",
+      "size": "42707",
+      "md5": "647fdd205f95788885f0f47dd5b90782",
+      "crc32": "7f8fe501",
+      "sha1": "1a82718f0243d10293b0e2e184cacbad1fbdbb42",
+      "format": "JSON"
+    },
+    {
+      "name": "diarioonline-2022-10-04T15:01:34.444894-03:00.jpg",
+      "source": "original",
+      "mtime": "1664906498",
+      "size": "266265",
+      "md5": "039c6289814a380a4320f9815dd65381",
+      "crc32": "ebfcef75",
+      "sha1": "cf0866c8bc114d4b2e8070199169be9768519d46",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diarioonline-2022-10-04T15:01:34.444894-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664906511",
+      "size": "1648",
+      "md5": "f25ef7ce2ecc105641bc253261610568",
+      "crc32": "8403a9fc",
+      "sha1": "4c093dfcba821c0cc64e7013e9da2befc05b9495",
+      "format": "JSON"
+    },
+    {
+      "name": "diarioonline-2022-10-04T15:01:34.444894-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664906518",
+      "size": "44992",
+      "md5": "7a4ee71fafca05080963be72d1b026f8",
+      "crc32": "cab56bd6",
+      "sha1": "fffc55c55a5e3af124cbe892049fbe139b43dd0c",
+      "format": "JSON"
+    },
+    {
+      "name": "diarioonline-2022-10-04T15:01:34.444894-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diarioonline-2022-10-04T15:01:34.444894-03:00.jpg",
+      "mtime": "1664906633",
+      "size": "9591",
+      "md5": "6e779107c98cf33c98b0a4d227ab9093",
+      "crc32": "c5df980c",
+      "sha1": "ab117f5f92156de5de3799cec030508b43860153"
+    },
+    {
       "name": "diarioonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "53e571aed9cc3a5f5c778a200ac8844268b07742",
-      "mtime": "1664885635",
-      "size": "219360",
-      "md5": "b033f5e5329d9003d94e19b6ab28a8ff",
-      "crc32": "3a4f5e67",
-      "sha1": "8926fe02d171f16fbf0b865f90c6170e21b0a961",
+      "btih": "09149bfc036cef9ca0f6116fb6c32f1c02700569",
+      "mtime": "1664906654",
+      "size": "220631",
+      "md5": "07fdf99117f7789e722ff9b413c9a52d",
+      "crc32": "f0d74d16",
+      "sha1": "7a39ad28524d1d61e544420a45cae303598d5489",
       "format": "Archive BitTorrent"
     },
     {
       "name": "diarioonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "007be8b54c04c9c6303f20cc413ce702",
+      "md5": "1db26012a47df67e30a3001b11de4008",
       "summation": "md5"
     },
     {
       "name": "diarioonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664885489",
-      "size": "1314816",
-      "md5": "d3cf8b50d4006e2af0020f596ac30729",
-      "crc32": "57f0cdc3",
-      "sha1": "4ab8753b5531779975b8e2a967731caca12ef7a4",
+      "mtime": "1664906523",
+      "size": "1323008",
+      "md5": "c04dd90d6a17d5087acba9a7c8266078",
+      "crc32": "f74b9c8a",
+      "sha1": "9e42d58a90e54e0fccf49258df182bec09493ec7",
       "format": "Metadata"
     },
     {
@@ -10552,9 +10614,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1021,
-  "item_last_updated": 1664885635,
-  "item_size": 65857679,
+  "files_count": 1027,
+  "item_last_updated": 1664906654,
+  "item_size": 66278859,
   "metadata": {
     "identifier": "diarioonline-2022",
     "collection": [
@@ -10571,10 +10633,10 @@
     "publicdate": "2022-08-05 03:14:28",
     "addeddate": "2022-08-05 03:14:28"
   },
-  "server": "ia601407.us.archive.org",
-  "uniq": 2043563698,
+  "server": "ia801407.us.archive.org",
+  "uniq": 760030363,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia801407.us.archive.org",
+    "ia601407.us.archive.org"
   ]
 }

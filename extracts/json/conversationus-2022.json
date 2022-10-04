@@ -1,10 +1,5 @@
 {
-  "conversationus-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1664869930,
+  "created": 1664906384,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/23/items/conversationus-2022",
@@ -10132,31 +10127,104 @@
       "format": "JSON"
     },
     {
+      "name": "conversationus-2022-10-04T02:58:12.855488-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "conversationus-2022-10-04T02:58:12.855488-04:00.jpg",
+      "mtime": "1664871017",
+      "size": "10625",
+      "md5": "8c5392c9033fac87f0f6e7a374d58d67",
+      "crc32": "67dd5467",
+      "sha1": "9019f6b2cc0cc959b76987c71930a26924b2abcb"
+    },
+    {
+      "name": "conversationus-2022-10-04T13:55:20.799961-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664906130",
+      "size": "44898",
+      "md5": "3c733e4e8c6efe1d4b0f93d01f5fa779",
+      "crc32": "cbb0ef28",
+      "sha1": "648a05782cfa6bf3d3cb42a8c343e43e44c28243",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-10-04T13:55:20.799961-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664906137",
+      "size": "37202",
+      "md5": "717ed37f89b57edeb76a0061e30b0fa0",
+      "crc32": "7ed50d7b",
+      "sha1": "6c338b56d9867a00fbba901c2b4b2cd399ad777c",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-10-04T13:55:20.799961-04:00.jpg",
+      "source": "original",
+      "mtime": "1664906127",
+      "size": "304255",
+      "md5": "e2c5187cbc3c18ca8d7a3b1454613d8d",
+      "crc32": "8bb9ed59",
+      "sha1": "ac188e519bbd1703ec334e1116472727d6d74b14",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "conversationus-2022-10-04T13:55:20.799961-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664906140",
+      "size": "1504",
+      "md5": "b44ed1287b392d59925cd6dc8e937985",
+      "crc32": "b338c643",
+      "sha1": "5c22f54d8e8310ba6cd15bd967802ec3a2f429ce",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-10-04T13:55:20.799961-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664906145",
+      "size": "24895",
+      "md5": "2f983478d5ef2f663d996ea2167a741e",
+      "crc32": "89e1cdff",
+      "sha1": "175631aa883eebcf59bd40a5ca993808e1f013ab",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-10-04T13:55:20.799961-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "conversationus-2022-10-04T13:55:20.799961-04:00.jpg",
+      "mtime": "1664906322",
+      "size": "10053",
+      "md5": "e225f0e82ec7f3f65ae232455f60270f",
+      "crc32": "6ed9aeb5",
+      "sha1": "1babac7d9268efa3a1e0133a028b5506ba900b62"
+    },
+    {
       "name": "conversationus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a498528852b6c850c83c58e494fdbd0c256dc49f",
-      "mtime": "1664866764",
-      "size": "213157",
-      "md5": "76d62935ede38163bc580389f2e87746",
-      "crc32": "0bbe6d52",
-      "sha1": "b2487061671890c33fe9b5b2c2a109f8fa8c9596",
+      "btih": "34dfd92bd9c44b36ccc08b61846333acd8d53697",
+      "mtime": "1664906335",
+      "size": "214672",
+      "md5": "c0d7ce3e91e2e068c8aa5e1e1d467b27",
+      "crc32": "91ed1566",
+      "sha1": "8c58929a73c2bd62f1b87f7c3cd221bed9d99daa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "conversationus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "61f770446d5deabf9f880f9294bedd84",
+      "md5": "73c8062aa559cc18651e45ad9e3ff006",
       "summation": "md5"
     },
     {
       "name": "conversationus-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664866713",
-      "size": "1245184",
-      "md5": "5669fe3b285c8d22246d9a27227f6852",
-      "crc32": "a2b47d88",
-      "sha1": "e980511cda3c7d829d2f439e95fa56f264e54158",
+      "mtime": "1664906149",
+      "size": "1253376",
+      "md5": "c5dde9eaa47396d220c2f769dc8705d2",
+      "crc32": "242839ec",
+      "sha1": "c17465d8bcb89687cdeb73f2975a7da77622b90f",
       "format": "Metadata"
     },
     {
@@ -10170,9 +10238,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 981,
-  "item_last_updated": 1664866764,
-  "item_size": 73088153,
+  "files_count": 988,
+  "item_last_updated": 1664906335,
+  "item_size": 73531292,
   "metadata": {
     "identifier": "conversationus-2022",
     "collection": [
@@ -10189,21 +10257,10 @@
     "publicdate": "2022-07-09 03:57:31",
     "addeddate": "2022-07-09 03:57:31"
   },
-  "pending_tasks": true,
-  "server": "ia601504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3427924270,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 922295829,
+  "server": "ia801504.us.archive.org",
+  "uniq": 491288050,
   "workable_servers": [
+    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }
