@@ -1,5 +1,6 @@
 {
-  "created": 1664798780,
+  "conflict": 1664841908,
+  "created": 1664841570,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/22/items/foreignpolicy-2022",
@@ -12543,21 +12544,32 @@
       "format": "JSON"
     },
     {
+      "name": "foreignpolicy-2022-10-03T08:01:42.916102-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foreignpolicy-2022-10-03T08:01:42.916102-04:00.jpg",
+      "mtime": "1664801726",
+      "size": "10355",
+      "md5": "a367b067a9ae84bbf7cc147e13bef951",
+      "crc32": "a698f044",
+      "sha1": "f3c1baa2dd73717a1ee7ca13ff22cf13d07f3d4b"
+    },
+    {
       "name": "foreignpolicy-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e4152b2d017bcf266d51de9410b7cbcb4e692b04",
-      "mtime": "1664798696",
-      "size": "262501",
-      "md5": "4ed4138e996e790aece0762fc13e91b7",
-      "crc32": "2b8b247a",
-      "sha1": "bc0aad30af1c36e648ab53d0556d9f4f585a35d3",
+      "btih": "8f88f1918c8045ca9fae22ab3bb717e228856189",
+      "mtime": "1664801747",
+      "size": "262711",
+      "md5": "7534fd83da4c50419696ea7f8983ad47",
+      "crc32": "ccce7bc5",
+      "sha1": "3e8c004cbe9e491bc33d509c9dd6ddeb49101bd2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foreignpolicy-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4b0f53bf9b7fd490694c1ae65c4b5aab",
+      "md5": "588d06cb19dc4b9c33be394ce7c15ada",
       "summation": "md5"
     },
     {
@@ -12581,9 +12593,10 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1210,
-  "item_last_updated": 1664798696,
-  "item_size": 117902861,
+  "files_count": 1211,
+  "has_redrow": true,
+  "item_last_updated": 1664801747,
+  "item_size": 117913426,
   "metadata": {
     "identifier": "foreignpolicy-2022",
     "collection": [
@@ -12601,20 +12614,52 @@
     "addeddate": "2022-06-19 23:24:15"
   },
   "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
+  "server": "ia801401.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426938993,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3427524329,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 2,
+      "color": "red",
+      "status": "error"
+    },
+    {
+      "task_id": 3427524343,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3427524360,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3427524386,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3427524405,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 42869394,
+  "uniq": 391659112,
   "workable_servers": [
-    "ia601401.us.archive.org"
+    "ia801401.us.archive.org"
   ]
 }

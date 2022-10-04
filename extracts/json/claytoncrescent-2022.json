@@ -1,5 +1,5 @@
 {
-  "created": 1664798341,
+  "created": 1664841277,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/14/items/claytoncrescent-2022",
@@ -10047,31 +10047,93 @@
       "format": "JSON"
     },
     {
+      "name": "claytoncrescent-2022-10-03T07:57:32.381792-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "claytoncrescent-2022-10-03T07:57:32.381792-04:00.jpg",
+      "mtime": "1664801098",
+      "size": "8714",
+      "md5": "836badc76c0408830d8b12b5d442d23b",
+      "crc32": "a1443a5f",
+      "sha1": "3ac421c2439f633dec18c41ae949b23e966a189f"
+    },
+    {
+      "name": "claytoncrescent-2022-10-03T19:53:24.972250-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664841212",
+      "size": "24502",
+      "md5": "e4d778bc3d6cc58d23dd747b3f7cedae",
+      "crc32": "2aa97fed",
+      "sha1": "8049a60f127bcb75113b866b3ba5f05f9270133e",
+      "format": "JSON"
+    },
+    {
+      "name": "claytoncrescent-2022-10-03T19:53:24.972250-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664841214",
+      "size": "39750",
+      "md5": "d4b0c9d29265b6f6dac8b5dd2da3c851",
+      "crc32": "b43130cf",
+      "sha1": "f8fbc94cecc4d161a1ba50833ee28c18f3ecf815",
+      "format": "JSON"
+    },
+    {
+      "name": "claytoncrescent-2022-10-03T19:53:24.972250-04:00.jpg",
+      "source": "original",
+      "mtime": "1664841211",
+      "size": "230682",
+      "md5": "b9672e407b238b2a4209a807254f7f76",
+      "crc32": "d68c976b",
+      "sha1": "6ffb21d589f5fdf9c528ad389d9a81bed6569d84",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "claytoncrescent-2022-10-03T19:53:24.972250-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664841216",
+      "size": "1501",
+      "md5": "0585288410bc0b9259c98787b9283c4c",
+      "crc32": "dffe9c09",
+      "sha1": "ed05e8ceda6b392052d03ff53e8cfd41b292766c",
+      "format": "JSON"
+    },
+    {
+      "name": "claytoncrescent-2022-10-03T19:53:24.972250-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664841217",
+      "size": "21052",
+      "md5": "e5db2e8cc040975ec15b1d5eb2f27688",
+      "crc32": "ae08edf2",
+      "sha1": "72f8a9d88190cafc8f0609d66a0e8eb80c2e1c74",
+      "format": "JSON"
+    },
+    {
       "name": "claytoncrescent-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1fbce9df300622db91a7182a2ebfb164d91630b6",
-      "mtime": "1664798334",
-      "size": "211993",
-      "md5": "3a7b98d2640cc915d47ea9a374ee6aae",
-      "crc32": "1eda871d",
-      "sha1": "8290443e9f7d66f67040b64b5866d2c7842abb3a",
+      "btih": "da16d8ebff325dde3bf3aa5a38a9ae2ad061daaf",
+      "mtime": "1664841269",
+      "size": "213282",
+      "md5": "6e58e149b4b31741bebf20c91a8aa838",
+      "crc32": "eb7071fc",
+      "sha1": "31170dc127d362e9bdd27f6829cfd69f1f8fa1b4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "claytoncrescent-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ea103eb995500320f7879a2394b1d1ca",
+      "md5": "b44ab534dd45b9810694a52cb9bfaf16",
       "summation": "md5"
     },
     {
       "name": "claytoncrescent-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664798275",
-      "size": "1236992",
-      "md5": "c9b42980310d17a0ec0f599349a02b42",
-      "crc32": "77065cc5",
-      "sha1": "a4a5b77246a8c2050d4aaf6ee305ccb54909da89",
+      "mtime": "1664841223",
+      "size": "1241088",
+      "md5": "23486aae87ac3abdea2facb6c8a77f4a",
+      "crc32": "2022d91b",
+      "sha1": "51992b679b743e59d655c6aa47870cf8f63ccc6b",
       "format": "Metadata"
     },
     {
@@ -10085,9 +10147,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 973,
-  "item_last_updated": 1664798334,
-  "item_size": 63253918,
+  "files_count": 979,
+  "item_last_updated": 1664841269,
+  "item_size": 63585504,
   "metadata": {
     "identifier": "claytoncrescent-2022",
     "collection": [
@@ -10109,7 +10171,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426927448,
+      "task_id": 3427520368,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10117,7 +10179,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 982835693,
+  "uniq": 2022538074,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

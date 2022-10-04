@@ -1,5 +1,6 @@
 {
-  "created": 1664798329,
+  "conflict": 1664841783,
+  "created": 1664841221,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/35/items/chessbase-2022",
@@ -9103,21 +9104,32 @@
       "format": "JSON"
     },
     {
+      "name": "chessbase-2022-10-03T13:57:06.673323+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chessbase-2022-10-03T13:57:06.673323+02:00.jpg",
+      "mtime": "1664801679",
+      "size": "10876",
+      "md5": "56d8cf37c37d7d5bc495433d532e685d",
+      "crc32": "78b572ed",
+      "sha1": "89174cfa0bd05ae095a95cfa1c5be574dd379d7b"
+    },
+    {
       "name": "chessbase-2022_archive.torrent",
       "source": "metadata",
-      "btih": "712b3034f89c0811e6e80ef3600c4257d610ecdd",
-      "mtime": "1664798315",
-      "size": "187831",
-      "md5": "7fd5720852721d569673e778af30ed96",
-      "crc32": "10a27cdd",
-      "sha1": "2c3dd80aeeb5c133df4db15ba8501e123bc62959",
+      "btih": "bb56eb59486d93fee6331b71f1370eafe8e0e1ab",
+      "mtime": "1664801735",
+      "size": "188037",
+      "md5": "fd143eb66815a9fdbf829b4ee8118110",
+      "crc32": "0336fc3c",
+      "sha1": "3666f250f7ea8cc81e6bbdcd10dc089f54731ff2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chessbase-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d3b7f1844adcc7a40adf53c306fd5b75",
+      "md5": "eb2b1f5176d898abcda1eda249d4e44b",
       "summation": "md5"
     },
     {
@@ -9141,9 +9153,10 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 883,
-  "item_last_updated": 1664798315,
-  "item_size": 72565798,
+  "files_count": 884,
+  "has_redrow": true,
+  "item_last_updated": 1664801735,
+  "item_size": 72576880,
   "metadata": {
     "identifier": "chessbase-2022",
     "collection": [
@@ -9161,20 +9174,52 @@
     "addeddate": "2022-07-20 11:23:28"
   },
   "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
+  "server": "ia801401.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426927339,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3427519781,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 2,
+      "color": "red",
+      "status": "error"
+    },
+    {
+      "task_id": 3427519818,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3427519862,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3427519892,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3427519917,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1204049053,
+  "uniq": 1856826921,
   "workable_servers": [
-    "ia601401.us.archive.org"
+    "ia801401.us.archive.org"
   ]
 }

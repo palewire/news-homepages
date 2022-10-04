@@ -1,5 +1,6 @@
 {
-  "created": 1664798844,
+  "conflict": 1664841923,
+  "created": 1664841563,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/11/items/goerie-2022",
@@ -1679,21 +1680,32 @@
       "format": "JSON"
     },
     {
+      "name": "goerie-2022-10-03T08:03:26.141910-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "goerie-2022-10-03T08:03:26.141910-04:00.jpg",
+      "mtime": "1664801717",
+      "size": "8678",
+      "md5": "185aca4a8355cbf415d30dfeaf99a9d2",
+      "crc32": "58aa8a70",
+      "sha1": "3c821df39e4c3c2e8adcedd186392d07136d7531"
+    },
+    {
       "name": "goerie-2022_archive.torrent",
       "source": "metadata",
-      "btih": "76076871643e7a904e64d3834ec430d3475a65ac",
-      "mtime": "1664798718",
-      "size": "35169",
-      "md5": "36a3f6e039b6207827fa43ddf3941cc1",
-      "crc32": "c5d4f2e3",
-      "sha1": "823ff00a00af0e7c203cb0cd9921309cec311f0c",
+      "btih": "3b4374efe4a6054f48559705f79369bbda9c3710",
+      "mtime": "1664801722",
+      "size": "35371",
+      "md5": "c9b4b30ae86ef9d13d2f189ab6a5b8d2",
+      "crc32": "84c9f76e",
+      "sha1": "a12718ba510345da0638436f160337c112cdb4e9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "goerie-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4a7780c476358c419d83084bc5488252",
+      "md5": "af231c66212b1fdd3efa7aaf7a0bd370",
       "summation": "md5"
     },
     {
@@ -1717,9 +1729,10 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 166,
-  "item_last_updated": 1664798718,
-  "item_size": 11105269,
+  "files_count": 167,
+  "has_redrow": true,
+  "item_last_updated": 1664801722,
+  "item_size": 11114149,
   "metadata": {
     "identifier": "goerie-2022",
     "collection": [
@@ -1737,20 +1750,52 @@
     "addeddate": "2022-09-20 22:18:33"
   },
   "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
+  "server": "ia801401.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426939081,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3427524228,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 2,
+      "color": "red",
+      "status": "error"
+    },
+    {
+      "task_id": 3427524252,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3427524264,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3427524287,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3427524315,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1782262572,
+  "uniq": 667194149,
   "workable_servers": [
-    "ia601401.us.archive.org"
+    "ia801401.us.archive.org"
   ]
 }

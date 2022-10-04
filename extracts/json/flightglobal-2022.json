@@ -1,5 +1,6 @@
 {
-  "created": 1664798791,
+  "conflict": 1664841902,
+  "created": 1664841384,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/29/items/flightglobal-2022",
@@ -8293,21 +8294,32 @@
       "format": "JSON"
     },
     {
+      "name": "flightglobal-2022-10-03T13:01:13.940377+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flightglobal-2022-10-03T13:01:13.940377+01:00.jpg",
+      "mtime": "1664801726",
+      "size": "9357",
+      "md5": "5ffc5e6817a78fbe4fb94ac0082b64bf",
+      "crc32": "5882bd14",
+      "sha1": "5771f4a624d62236b442258ab89ad83735bf900f"
+    },
+    {
       "name": "flightglobal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "daf00cd0fd23d55168885e7b486fe73e26de3b72",
-      "mtime": "1664798698",
-      "size": "173242",
-      "md5": "b67b17d8db665bb650a86f3a4e3f2acc",
-      "crc32": "049c442f",
-      "sha1": "d4c2b445ccacacfd80e446e177c2b53bd4a7e8d7",
+      "btih": "cb2853282f4d0f53bab2d85567db099a1b65b678",
+      "mtime": "1664801740",
+      "size": "173450",
+      "md5": "a35e8576e7daee2fc6748f9159d6c85d",
+      "crc32": "baee5b19",
+      "sha1": "6ef5f7308a72892d917b28875185c2c8285f317a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "flightglobal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0aa169596639e1a00a40aff9cf849571",
+      "md5": "b6144cadb4ddeab19b3e8060aae09ef2",
       "summation": "md5"
     },
     {
@@ -8331,9 +8343,10 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 806,
-  "item_last_updated": 1664798698,
-  "item_size": 52034743,
+  "files_count": 807,
+  "has_redrow": true,
+  "item_last_updated": 1664801740,
+  "item_size": 52044308,
   "metadata": {
     "identifier": "flightglobal-2022",
     "collection": [
@@ -8351,20 +8364,52 @@
     "addeddate": "2022-08-20 23:04:25"
   },
   "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
+  "server": "ia801401.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426938989,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3427521825,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 2,
+      "color": "red",
+      "status": "error"
+    },
+    {
+      "task_id": 3427521872,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3427521935,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3427521964,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3427522001,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 264334900,
+  "uniq": 36008365,
   "workable_servers": [
-    "ia601401.us.archive.org"
+    "ia801401.us.archive.org"
   ]
 }

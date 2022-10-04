@@ -1,5 +1,5 @@
 {
-  "created": 1664798687,
+  "created": 1664841591,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/25/items/hellgateny-2022",
@@ -10533,31 +10533,93 @@
       "format": "JSON"
     },
     {
+      "name": "hellgateny-2022-10-03T08:03:11.383576-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hellgateny-2022-10-03T08:03:11.383576-04:00.jpg",
+      "mtime": "1664801500",
+      "size": "8812",
+      "md5": "09036208f169620bb50503cd1ff9b7a8",
+      "crc32": "5e1bd100",
+      "sha1": "e8b01dd5f152655d0ec803288975a0d085ce5ede"
+    },
+    {
+      "name": "hellgateny-2022-10-03T19:58:48.388293-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664841532",
+      "size": "18254",
+      "md5": "f99cd3e1da31195bb72a6580ca397a07",
+      "crc32": "ad057cfb",
+      "sha1": "995b25efc038b685cf19de02aadfcb55fdc4caa3",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-03T19:58:48.388293-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664841534",
+      "size": "17409",
+      "md5": "d5a07441c70ffbb32a3bdeefbd09de1d",
+      "crc32": "1ea2c1c6",
+      "sha1": "b2a832823a8f5670c293bfc4b4511983b5bbb854",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-03T19:58:48.388293-04:00.jpg",
+      "source": "original",
+      "mtime": "1664841530",
+      "size": "227805",
+      "md5": "1d139966553224f7f3804423ae5bde88",
+      "crc32": "6f112dd4",
+      "sha1": "e168e7e80872e9b90b1d4cb1f9d6117f7a3f3162",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hellgateny-2022-10-03T19:58:48.388293-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664841535",
+      "size": "1456",
+      "md5": "8ef9bfec48d3afc4eb0b50e091063382",
+      "crc32": "3ddf3e92",
+      "sha1": "7ba85c84932da7bf21030d65531986d9558ee749",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-03T19:58:48.388293-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664841538",
+      "size": "208",
+      "md5": "edb31347a86251a5f81ca11c82a9f7bf",
+      "crc32": "39cd0f58",
+      "sha1": "a5e6a35def61682e29fc37146ed5c39531ada803",
+      "format": "JSON"
+    },
+    {
       "name": "hellgateny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2fd69130b2245d4241368c96adcfff88e6060dd7",
-      "mtime": "1664798684",
-      "size": "216221",
-      "md5": "c484daf8fe368a3d54796847798eec1a",
-      "crc32": "4d539980",
-      "sha1": "6b50053884c21ff8ea73f59bf6023c6851c066ae",
+      "btih": "92ca75f7b8ea0ac70644957ea571cc9f283b5cf1",
+      "mtime": "1664841588",
+      "size": "217478",
+      "md5": "766272055d5dcf3abdf8384f5dc5dfdc",
+      "crc32": "1b1ebdbb",
+      "sha1": "db3a404f9a4a000335f928a2296e548e0d72b4db",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hellgateny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "18120535c9c687a5a1644de4c6cbabb4",
+      "md5": "88e86e51769ae097d625068b21906c39",
       "summation": "md5"
     },
     {
       "name": "hellgateny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664798631",
-      "size": "1282048",
-      "md5": "e8be98ddcf9f8cb7d51b82ba4ac6cc42",
-      "crc32": "4bb913ce",
-      "sha1": "39d5a370e4ccc246e9a748a6f2e4ff14664e79fc",
+      "mtime": "1664841543",
+      "size": "1286144",
+      "md5": "ca40cf252cc7734536a4c6fb3a42424c",
+      "crc32": "234e57d2",
+      "sha1": "6864c4a800e8c75752f7dc8da9a0301fe6bae428",
       "format": "Metadata"
     },
     {
@@ -10571,9 +10633,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1019,
-  "item_last_updated": 1664798684,
-  "item_size": 54418336,
+  "files_count": 1025,
+  "item_last_updated": 1664841588,
+  "item_size": 54697633,
   "metadata": {
     "identifier": "hellgateny-2022",
     "collection": [
@@ -10595,7 +10657,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3426935741,
+      "task_id": 3427524565,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10603,7 +10665,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2024984688,
+  "uniq": 611179237,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]
