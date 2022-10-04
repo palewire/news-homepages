@@ -1,5 +1,5 @@
 {
-  "created": 1664855204,
+  "created": 1664875619,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/32/items/theeconomist-2022",
@@ -13359,31 +13359,93 @@
       "format": "JSON"
     },
     {
+      "name": "theeconomist-2022-10-04T04:45:37.210526+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theeconomist-2022-10-04T04:45:37.210526+01:00.jpg",
+      "mtime": "1664857917",
+      "size": "8931",
+      "md5": "e9675c89251ce85bb8c0aeeedc303e36",
+      "crc32": "5b1e7cb0",
+      "sha1": "0be09bd6d50ba7b8f50100909ac554b395fe5860"
+    },
+    {
+      "name": "theeconomist-2022-10-04T10:25:54.284187+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664875557",
+      "size": "20744",
+      "md5": "24d40d7c9c797f0dc5660994e26508ea",
+      "crc32": "8e6d9450",
+      "sha1": "6c46918c05107b4f58527f657860c0e17cb73c00",
+      "format": "JSON"
+    },
+    {
+      "name": "theeconomist-2022-10-04T10:25:54.284187+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664875559",
+      "size": "20296",
+      "md5": "4f659a5c0439ddbf9c15221740493a6b",
+      "crc32": "4d7fe445",
+      "sha1": "fd29527198fef3c3e6774eca6677e0913b7074ac",
+      "format": "JSON"
+    },
+    {
+      "name": "theeconomist-2022-10-04T10:25:54.284187+01:00.jpg",
+      "source": "original",
+      "mtime": "1664875556",
+      "size": "292651",
+      "md5": "f3a8488ce44d0ea9625fe5c5515aec67",
+      "crc32": "9635888b",
+      "sha1": "5a377a6b73de026df4f4f7aab87dbae176aac725",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theeconomist-2022-10-04T10:25:54.284187+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664875560",
+      "size": "1477",
+      "md5": "77cc9690be8fdd37da224b4ae8be4bf2",
+      "crc32": "a1ed26ec",
+      "sha1": "a2ea7c3c273b811d6bc0fa872d15da20bf559bc6",
+      "format": "JSON"
+    },
+    {
+      "name": "theeconomist-2022-10-04T10:25:54.284187+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1664875562",
+      "size": "206",
+      "md5": "0ef4d5b0dea2de46358add2b5f26ec61",
+      "crc32": "5701b05b",
+      "sha1": "ef96ed75bc57864b70e83983a57331db86bb1c86",
+      "format": "JSON"
+    },
+    {
       "name": "theeconomist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e6f906dcb620bb47c2abd058e7a0b4215b21df49",
-      "mtime": "1664855200",
-      "size": "277559",
-      "md5": "b81affdcd858661f8168919af788e28a",
-      "crc32": "d522b4a5",
-      "sha1": "f3e693e750b08c03f108ef93cfe3b3ea4216236d",
+      "btih": "f33a0c1d47776ab6ead7db83a2b65cacfa97103f",
+      "mtime": "1664875615",
+      "size": "278828",
+      "md5": "93e3144fb4a8675be7000a9072ba1a2f",
+      "crc32": "ad14387b",
+      "sha1": "4f4a2f35c35521a83417dd83530d797f51d0540a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theeconomist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "be8309e53cfade13bf1a965c8b04a548",
+      "md5": "1f927051bd06c5edcf991154b297f178",
       "summation": "md5"
     },
     {
       "name": "theeconomist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664855151",
-      "size": "1638400",
-      "md5": "f90692e448219f0f388e45ecf236b861",
-      "crc32": "3eca4217",
-      "sha1": "f584ed574399068cce10595099c0ac4fb738df0f",
+      "mtime": "1664875567",
+      "size": "1642496",
+      "md5": "32ceb78d4e60bdb1a34d2da438e77329",
+      "crc32": "e8fd058c",
+      "sha1": "e068be8f2c12dcf6a21ee5ee50e67405f14c4579",
       "format": "Metadata"
     },
     {
@@ -13397,9 +13459,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1293,
-  "item_last_updated": 1664855200,
-  "item_size": 84765964,
+  "files_count": 1299,
+  "item_last_updated": 1664875615,
+  "item_size": 85115634,
   "metadata": {
     "identifier": "theeconomist-2022",
     "collection": [
@@ -13421,15 +13483,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3427733087,
+      "task_id": 3428065087,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 331236358,
+  "uniq": 963738065,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

@@ -1,5 +1,6 @@
 {
-  "created": 1664863357,
+  "conflict": 1664875802,
+  "created": 1664874861,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/3/items/bbc-2022",
@@ -26139,6 +26140,7 @@
     }
   ],
   "files_count": 2507,
+  "has_redrow": true,
   "item_last_updated": 1664863320,
   "item_size": 213326650,
   "metadata": {
@@ -26157,10 +26159,53 @@
     "publicdate": "2022-03-23 01:47:02",
     "addeddate": "2022-03-23 01:47:02"
   },
+  "pending_tasks": true,
   "server": "ia802502.us.archive.org",
-  "uniq": 2087304674,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3428064362,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 2,
+      "color": "red",
+      "status": "error"
+    },
+    {
+      "task_id": 3428064404,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3428064441,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3428064463,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3428064480,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 945112461,
   "workable_servers": [
-    "ia802502.us.archive.org",
-    "ia902502.us.archive.org"
+    "ia802502.us.archive.org"
   ]
 }
