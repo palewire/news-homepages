@@ -1,5 +1,5 @@
 {
-  "created": 1664812642,
+  "created": 1664855376,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/8/items/tylerpaper-2022",
@@ -8980,31 +8980,82 @@
       "sha1": "78445bf92158f7c9ef13ca469db30cb55934e22c"
     },
     {
+      "name": "tylerpaper-2022-10-03T22:48:24.498725-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664855311",
+      "size": "43198",
+      "md5": "538229ed6406a34ce048189c914ea9de",
+      "crc32": "a4280319",
+      "sha1": "fb50a3e4096d1764a7ff0b72e2bb7e938fcbb4a5",
+      "format": "JSON"
+    },
+    {
+      "name": "tylerpaper-2022-10-03T22:48:24.498725-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664855313",
+      "size": "49182",
+      "md5": "94424eea55795ed74eeb95e2ffe4fe03",
+      "crc32": "5630ab11",
+      "sha1": "96ce81899ad727bc3a895640b3b222c1e9ba2b67",
+      "format": "JSON"
+    },
+    {
+      "name": "tylerpaper-2022-10-03T22:48:24.498725-05:00.jpg",
+      "source": "original",
+      "mtime": "1664855309",
+      "size": "293866",
+      "md5": "137de732463ea7cfc415b9a6c3009183",
+      "crc32": "a7e0c5dd",
+      "sha1": "b393538a9c2a5328217666769df2e6f4b5fff880",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tylerpaper-2022-10-03T22:48:24.498725-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664855315",
+      "size": "1459",
+      "md5": "ec7f6a8ab136553ca797a17866f536d0",
+      "crc32": "abe6eb4f",
+      "sha1": "dd88584cdbcb1744198b956034af095f7f338f76",
+      "format": "JSON"
+    },
+    {
+      "name": "tylerpaper-2022-10-03T22:48:24.498725-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664855317",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "tylerpaper-2022_archive.torrent",
       "source": "metadata",
-      "btih": "219b1247ed4b069ddbc3a322c2a8d6ef75d9466d",
-      "mtime": "1664812612",
-      "size": "185651",
-      "md5": "78f9cb74ac157ac89d9c3d8555085dfc",
-      "crc32": "9728952a",
-      "sha1": "089136c15d03ed70eb6de1965de4da889704cda7",
+      "btih": "7f6e526a86e9d16ff4840e2465f130748b04c050",
+      "mtime": "1664855369",
+      "size": "186722",
+      "md5": "2e64163c82c62f1e9737c130338f7a78",
+      "crc32": "d6941a51",
+      "sha1": "0accb19df564426c6b1586311076ffef0d1aaec0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tylerpaper-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3c211ead484c40463ef0d9fb0c22987e",
+      "md5": "e7709e32f40c230136d164d1ea70975b",
       "summation": "md5"
     },
     {
       "name": "tylerpaper-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664809932",
-      "size": "1097728",
-      "md5": "8fbc368106776c4f7d525feb85aff58c",
-      "crc32": "b50aedfd",
-      "sha1": "6de9be8035ecd9b323036e8bdc4022a1c5d0aba0",
+      "mtime": "1664855324",
+      "size": "1105920",
+      "md5": "77eccd6697b94ab025ca3857f5d85bd0",
+      "crc32": "ebf3b565",
+      "sha1": "329dd7106b51f1741e8ef37fd31aba67c07d4b40",
       "format": "Metadata"
     },
     {
@@ -9018,9 +9069,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 870,
-  "item_last_updated": 1664812612,
-  "item_size": 68215770,
+  "files_count": 875,
+  "item_last_updated": 1664855369,
+  "item_size": 68612940,
   "metadata": {
     "identifier": "tylerpaper-2022",
     "collection": [
@@ -9037,10 +9088,21 @@
     "publicdate": "2022-07-18 00:06:00",
     "addeddate": "2022-07-18 00:06:00"
   },
-  "server": "ia801509.us.archive.org",
-  "uniq": 1503319626,
+  "pending_tasks": true,
+  "server": "ia601509.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3427735738,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 865947153,
   "workable_servers": [
-    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }

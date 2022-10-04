@@ -1,6 +1,5 @@
 {
-  "conflict": 1664812757,
-  "created": 1664812757,
+  "created": 1664857867,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/6/items/timeslive-2022",
@@ -5133,31 +5132,93 @@
       "sha1": "0a0bb21ad5fc8d9d77119037e748d62b41f33008"
     },
     {
+      "name": "timeslive-2022-10-04T05:49:00.284380+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664855342",
+      "size": "46167",
+      "md5": "4d00f561ba7321851e40ae625d006876",
+      "crc32": "998a871f",
+      "sha1": "f865d874613bed4d9421d48151a7032a289c3dc3",
+      "format": "JSON"
+    },
+    {
+      "name": "timeslive-2022-10-04T05:49:00.284380+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664855344",
+      "size": "33983",
+      "md5": "496278f36484dc555bd28f46f2628d85",
+      "crc32": "43bbcdfc",
+      "sha1": "825f86543b3e26368bc9003ffe75359d159c33c4",
+      "format": "JSON"
+    },
+    {
+      "name": "timeslive-2022-10-04T05:49:00.284380+02:00.jpg",
+      "source": "original",
+      "mtime": "1664855341",
+      "size": "253397",
+      "md5": "f7e0fc56682f1396147d7cf810e7c60a",
+      "crc32": "0cd2a1a3",
+      "sha1": "cba1b99f2d8c817b6b461021f2794e553273ccac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "timeslive-2022-10-04T05:49:00.284380+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664855345",
+      "size": "1504",
+      "md5": "8e3db2aa01a631b98abbbf8f494fd8cb",
+      "crc32": "e3754493",
+      "sha1": "e68dd1a392ad863af86818f875b687b8faa95635",
+      "format": "JSON"
+    },
+    {
+      "name": "timeslive-2022-10-04T05:49:00.284380+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664855347",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "timeslive-2022-10-04T05:49:00.284380+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timeslive-2022-10-04T05:49:00.284380+02:00.jpg",
+      "mtime": "1664857816",
+      "size": "9457",
+      "md5": "a84c72edc7a6f3f0966f8122a05ff030",
+      "crc32": "6f9f52e0",
+      "sha1": "52b291258a2c46eeb11918d8d59cd745754ad5d3"
+    },
+    {
       "name": "timeslive-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2b1805950d98022de9aa2bcf66493dd73f39c7ba",
-      "mtime": "1664812753",
-      "size": "106077",
-      "md5": "c24d5993f5e39a9a501af84b58d3a005",
-      "crc32": "1620274a",
-      "sha1": "5116d37b3e20fc918e114b80297185842696804f",
+      "btih": "443d53e155f4930e7faa1871eaa54eecac1cc285",
+      "mtime": "1664857826",
+      "size": "107328",
+      "md5": "f4dc2c0c702e7d32dc1b0478c98933a2",
+      "crc32": "1db38733",
+      "sha1": "7ad232ed94ad60aa2cb746a213777293c9e8c724",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timeslive-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d7f1c26c65150b0e7c3270b9e871d94b",
+      "md5": "7606e24079e0dc60548ff43c34c4a7c6",
       "summation": "md5"
     },
     {
       "name": "timeslive-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664809954",
-      "size": "647168",
-      "md5": "2b3762d511b5454f32859bdd10db0a74",
-      "crc32": "bd351751",
-      "sha1": "a283bee33aa9d6ae8b9b63923d29f173522fe97b",
+      "mtime": "1664855361",
+      "size": "655360",
+      "md5": "c70ee85032e15ec0f07efd107341587a",
+      "crc32": "b34d63c7",
+      "sha1": "71ab70ea92dec89ccf22979a8e41f49ba0a6b49b",
       "format": "Metadata"
     },
     {
@@ -5171,9 +5232,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 500,
-  "item_last_updated": 1664812753,
-  "item_size": 30082117,
+  "files_count": 506,
+  "item_last_updated": 1664857826,
+  "item_size": 30436270,
   "metadata": {
     "identifier": "timeslive-2022",
     "collection": [
@@ -5190,29 +5251,10 @@
     "publicdate": "2022-08-22 22:03:22",
     "addeddate": "2022-08-22 22:03:22"
   },
-  "pending_tasks": true,
-  "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3427093282,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3427126861,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2062303471,
+  "server": "ia801502.us.archive.org",
+  "uniq": 1900235034,
   "workable_servers": [
+    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

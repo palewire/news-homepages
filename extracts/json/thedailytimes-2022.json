@@ -1,5 +1,6 @@
 {
-  "created": 1664812288,
+  "conflict": 1664857837,
+  "created": 1664857837,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/14/items/thedailytimes-2022",
@@ -1628,31 +1629,93 @@
       "sha1": "69b6e74f7905c0b5274023eb29c1ab1eb1a60aff"
     },
     {
+      "name": "thedailytimes-2022-10-03T21:46:17.263684-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664855185",
+      "size": "23140",
+      "md5": "f844aeb5aac2eb68f87bb7ad8e6a1d24",
+      "crc32": "1f87988a",
+      "sha1": "2de2a95320221e5530cc233577fca01e4c95e499",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailytimes-2022-10-03T21:46:17.263684-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664855186",
+      "size": "35309",
+      "md5": "f29a1fd5b497517e1c5e4f04f9c8ca4c",
+      "crc32": "8085b9ba",
+      "sha1": "4dc3856fb3a30fffcc169dd39873ffc5df396071",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailytimes-2022-10-03T21:46:17.263684-06:00.jpg",
+      "source": "original",
+      "mtime": "1664855183",
+      "size": "261402",
+      "md5": "4c3c4348372e415ce90046f0becac083",
+      "crc32": "40b0b47f",
+      "sha1": "f807c4714f0e7245692eb34fec89512c05bda053",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailytimes-2022-10-03T21:46:17.263684-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664855188",
+      "size": "1503",
+      "md5": "6aea9a215682df1786bd77bf355f7cf0",
+      "crc32": "1d29dfb0",
+      "sha1": "633a80b8693feece1df081e2dfae0330ab9d16fc",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailytimes-2022-10-03T21:46:17.263684-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1664855193",
+      "size": "90937",
+      "md5": "4c3625bf9e103f811893276e488e2f10",
+      "crc32": "d95818ae",
+      "sha1": "2e8d712635cbe97cda43cb10a1299faaaa2e7e69",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailytimes-2022-10-03T21:46:17.263684-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailytimes-2022-10-03T21:46:17.263684-06:00.jpg",
+      "mtime": "1664857827",
+      "size": "9269",
+      "md5": "ba0972947b4b7614b5e277128de046a7",
+      "crc32": "bb4963d8",
+      "sha1": "32c9fc298b7ba145463168f59960f34f9ac44dca"
+    },
+    {
       "name": "thedailytimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d31e5421951739f9751d694f6b26e043a653a9ac",
-      "mtime": "1664812227",
-      "size": "35275",
-      "md5": "1c6360d0e461eccca39aee03fdf99675",
-      "crc32": "360d33ac",
-      "sha1": "7bf508a724db267a4c868e3a2079a50782a78910",
+      "btih": "1aa0db7a9a110ea37c15c4a4ce0a70693e566e97",
+      "mtime": "1664857833",
+      "size": "36552",
+      "md5": "7d0e59e225a82499d7af64d880ef5695",
+      "crc32": "a73c5295",
+      "sha1": "25b4d8614a8514f0c3498b34b031f91c3b6949d8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedailytimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "545b3d361831bec632154173d0019dbc",
+      "md5": "192187cc392966ffb414a49568376d59",
       "summation": "md5"
     },
     {
       "name": "thedailytimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664809832",
-      "size": "225280",
-      "md5": "967222e6ee9a201dd94b7ce71c6c110b",
-      "crc32": "f7d383f3",
-      "sha1": "96c9fe966850e6063f371cb3f124992454533730",
+      "mtime": "1664855196",
+      "size": "229376",
+      "md5": "a73193bb2c6dc5922548b2ea71c5faba",
+      "crc32": "b04a43cc",
+      "sha1": "52a73e7d1a23dffb255b86ea4787d13df0b364ac",
       "format": "Metadata"
     },
     {
@@ -1666,9 +1729,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 161,
-  "item_last_updated": 1664812227,
-  "item_size": 10619109,
+  "files_count": 167,
+  "item_last_updated": 1664857833,
+  "item_size": 11046042,
   "metadata": {
     "identifier": "thedailytimes-2022",
     "collection": [
@@ -1685,10 +1748,29 @@
     "publicdate": "2022-09-21 03:44:35",
     "addeddate": "2022-09-21 03:44:35"
   },
+  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "uniq": 1759958578,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3427733565,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3427779891,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 49886084,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia601501.us.archive.org"
   ]
 }

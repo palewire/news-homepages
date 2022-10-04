@@ -1,5 +1,6 @@
 {
-  "created": 1664812431,
+  "conflict": 1664857827,
+  "created": 1664857827,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/26/items/timesrecorder-2022",
@@ -1608,31 +1609,93 @@
       "sha1": "47ad6449ad7f14cf42a164ada86f043825bf6c55"
     },
     {
+      "name": "timesrecorder-2022-10-03T23:49:01.037772-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664855345",
+      "size": "20326",
+      "md5": "f0787f6baad5ea1d79b6d7e0ac2a9fd1",
+      "crc32": "0059eda3",
+      "sha1": "a4a3d358cd5344cf7e3e2f3434e4f253411185f9",
+      "format": "JSON"
+    },
+    {
+      "name": "timesrecorder-2022-10-03T23:49:01.037772-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664855346",
+      "size": "52913",
+      "md5": "d50ccfcfa5bbe7c4924c46e27c2e1d3f",
+      "crc32": "07ffb3bf",
+      "sha1": "2782e9a15a30c1abae921bb0400341eec8dd475c",
+      "format": "JSON"
+    },
+    {
+      "name": "timesrecorder-2022-10-03T23:49:01.037772-04:00.jpg",
+      "source": "original",
+      "mtime": "1664855343",
+      "size": "252396",
+      "md5": "230b8ed0e7757cede6ce236cbcc49381",
+      "crc32": "9af69c62",
+      "sha1": "55c8d2b4e1f6daf1cd809ec659bc987a249237cf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "timesrecorder-2022-10-03T23:49:01.037772-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664855349",
+      "size": "1612",
+      "md5": "fb326691cbebc4f3cacb1a9267c27df4",
+      "crc32": "120931cf",
+      "sha1": "b477cf1ebc5e8c6c1e02609aa8ff95ffe476efce",
+      "format": "JSON"
+    },
+    {
+      "name": "timesrecorder-2022-10-03T23:49:01.037772-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664855351",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "timesrecorder-2022-10-03T23:49:01.037772-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timesrecorder-2022-10-03T23:49:01.037772-04:00.jpg",
+      "mtime": "1664857763",
+      "size": "9095",
+      "md5": "7ebbde5aa764ac780a197586d20059d8",
+      "crc32": "04ac21e8",
+      "sha1": "afe04b066652f6a9500f7770dd0802932e460136"
+    },
+    {
       "name": "timesrecorder-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f63ebdd93b211c5d1084c5591c8d8072b9a60e3e",
-      "mtime": "1664812413",
-      "size": "34869",
-      "md5": "bdff9ca1a72b61330e9177600bbf04b1",
-      "crc32": "98cb6a1c",
-      "sha1": "d13644d24831df3c3e4fc5a87744709d59e43b75",
+      "btih": "e20ac37d548f1b276d19da5d68b6042b83fc57b2",
+      "mtime": "1664857809",
+      "size": "36164",
+      "md5": "3bf8c45910cf9a53f84fc2ef30177742",
+      "crc32": "aeed141b",
+      "sha1": "730e57360b877000ac5ab21adf50fcda3f6beed1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesrecorder-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "33a2f8fb8a4836559871f3692c43dff6",
+      "md5": "90c6e8131e2d37a34508849a389e04ee",
       "summation": "md5"
     },
     {
       "name": "timesrecorder-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664810028",
-      "size": "221184",
-      "md5": "f4a44f272fe9fe722bc1c21b46b8abfe",
-      "crc32": "9ecf86c7",
-      "sha1": "eafcbf65ff96bf434cc9be03126b6561e99bb709",
+      "mtime": "1664855356",
+      "size": "229376",
+      "md5": "7fe01cbbb3b3dc530a33b6d181e09e7c",
+      "crc32": "c544badb",
+      "sha1": "f65c35b50f379fdf1563ccd793dc7674fa78d7f2",
       "format": "Metadata"
     },
     {
@@ -1646,9 +1709,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 159,
-  "item_last_updated": 1664812413,
-  "item_size": 11428052,
+  "files_count": 165,
+  "item_last_updated": 1664857809,
+  "item_size": 11774083,
   "metadata": {
     "identifier": "timesrecorder-2022",
     "collection": [
@@ -1665,10 +1728,29 @@
     "publicdate": "2022-09-21 03:47:00",
     "addeddate": "2022-09-21 03:47:00"
   },
+  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "uniq": 322099257,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3427736012,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3427779760,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 634750347,
   "workable_servers": [
-    "ia601404.us.archive.org",
-    "ia801404.us.archive.org"
+    "ia601404.us.archive.org"
   ]
 }

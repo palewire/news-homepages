@@ -1,5 +1,6 @@
 {
-  "created": 1664812389,
+  "conflict": 1664857684,
+  "created": 1664857684,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/9/items/thebabylonbee-2022",
@@ -6412,31 +6413,93 @@
       "sha1": "5a2d539e0a13f511c0c5284f911b51ab8d9400bb"
     },
     {
+      "name": "thebabylonbee-2022-10-03T23:46:06.119842-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664855171",
+      "size": "26364",
+      "md5": "1ca19e3874966f64a377805b8a2a8923",
+      "crc32": "07a4196a",
+      "sha1": "326176645c9b594216605efe0f89989b0031b82d",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-10-03T23:46:06.119842-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664855172",
+      "size": "23973",
+      "md5": "a8b4abc667659854a1cd858df31ccb00",
+      "crc32": "9e4cda10",
+      "sha1": "e53c9647a8b87469896bd58c4fa52a5dfd778763",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-10-03T23:46:06.119842-04:00.jpg",
+      "source": "original",
+      "mtime": "1664855169",
+      "size": "364094",
+      "md5": "205129d817334785ea615efdc7db3a7d",
+      "crc32": "7b439152",
+      "sha1": "f8205f8058b1fdc9f538653f984c4fc7784b31d9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thebabylonbee-2022-10-03T23:46:06.119842-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664855174",
+      "size": "1456",
+      "md5": "83ed9e156b1f573bc3457570676b26f6",
+      "crc32": "76b33922",
+      "sha1": "ce555fd9e7fee4df12e77a5f0657cf9b560c38fe",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-10-03T23:46:06.119842-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664855176",
+      "size": "42917",
+      "md5": "b92018a3894ecbf3aa4f381914668ead",
+      "crc32": "b5282f98",
+      "sha1": "96c199e24331b9f3a1b53da7228ff17a71a700a1",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-10-03T23:46:06.119842-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thebabylonbee-2022-10-03T23:46:06.119842-04:00.jpg",
+      "mtime": "1664857675",
+      "size": "9746",
+      "md5": "d2083dfa3eb3d92cf366d5b771cfe377",
+      "crc32": "d08ae17e",
+      "sha1": "6c902ca33bb5cb8925c7eeececa9ee6ac5c54ee2"
+    },
+    {
       "name": "thebabylonbee-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e3c8ceccbcf302187faef1810935a4855536d25e",
-      "mtime": "1664812299",
-      "size": "134137",
-      "md5": "2a20fb92fed7cde1e33b83ecbdb3c94b",
-      "crc32": "91d34af1",
-      "sha1": "d91c320ecce996edd50e30f7a30b7079c9fe942e",
+      "btih": "c41cb7a144020ede552c3d1d4514339f11e9c6d6",
+      "mtime": "1664857683",
+      "size": "135434",
+      "md5": "d0c96032887decb4324b8b6323440d60",
+      "crc32": "a96092cf",
+      "sha1": "4eecd54961feaf2884622095e4a29ea418a727b7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thebabylonbee-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6693f68d535bd2f0de3b6ab7bef39267",
+      "md5": "99cc73b4702e2c0598507c0af00d135f",
       "summation": "md5"
     },
     {
       "name": "thebabylonbee-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664809831",
-      "size": "778240",
-      "md5": "0b15a7bffbc7f14dab6ba20d53977dd8",
-      "crc32": "0ddadc5c",
-      "sha1": "3d66e39410cf808d3801765757889e35019aef8d",
+      "mtime": "1664855183",
+      "size": "790528",
+      "md5": "4777a4fa2833507e48c613b1523ee328",
+      "crc32": "c1b8f91c",
+      "sha1": "732d8cfb421056c89ea6673f41bee630a81a6c81",
       "format": "Metadata"
     },
     {
@@ -6450,9 +6513,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 621,
-  "item_last_updated": 1664812299,
-  "item_size": 48206771,
+  "files_count": 627,
+  "item_last_updated": 1664857683,
+  "item_size": 48688906,
   "metadata": {
     "identifier": "thebabylonbee-2022",
     "collection": [
@@ -6469,10 +6532,29 @@
     "publicdate": "2022-08-05 14:11:17",
     "addeddate": "2022-08-05 14:11:17"
   },
-  "server": "ia801407.us.archive.org",
-  "uniq": 276516579,
+  "pending_tasks": true,
+  "server": "ia601407.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3427733856,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3427777925,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 219332615,
   "workable_servers": [
-    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

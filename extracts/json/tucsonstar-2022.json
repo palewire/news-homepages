@@ -1,5 +1,6 @@
 {
-  "created": 1664812585,
+  "conflict": 1664857942,
+  "created": 1664857942,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/34/items/tucsonstar-2022",
@@ -10154,31 +10155,88 @@
       "sha1": "dfb33c5e50e2bab5d55145bdc2f1573b64128862"
     },
     {
+      "name": "tucsonstar-2022-10-03T20:49:32.744712-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664855375",
+      "size": "26487",
+      "md5": "13d0dc34e6bc0d81d7ca6d9f5555eab1",
+      "crc32": "dbe796c0",
+      "sha1": "c7548d720c83b997bc4ce994ca204b82d7ea44ae",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonstar-2022-10-03T20:49:32.744712-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664855377",
+      "size": "76355",
+      "md5": "b1c1b20b023bb897a9e4afd46e86f80b",
+      "crc32": "3534977a",
+      "sha1": "7791cfb3f95eba031f7175f4f2810da095ae57a9",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonstar-2022-10-03T20:49:32.744712-07:00.jpg",
+      "source": "original",
+      "mtime": "1664855374",
+      "size": "357513",
+      "md5": "62f925d5f2747af3300acecda511098b",
+      "crc32": "988bde9b",
+      "sha1": "fd11696d4ddc90837f759e2320942440a51e185b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tucsonstar-2022-10-03T20:49:32.744712-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664855378",
+      "size": "1423",
+      "md5": "57e6749b998691e70c849796d0eb176f",
+      "crc32": "eeacd177",
+      "sha1": "3798763e5f8237d0084874671a3a0ffc7b127fe0",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonstar-2022-10-03T20:49:32.744712-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664855379",
+      "size": "41364",
+      "md5": "da9ac625ebaba444bf82e866586d2397",
+      "crc32": "a5aa0548",
+      "sha1": "204f3fc6622546460f62a83cc5996f5a2be2914d",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonstar-2022-10-03T20:49:32.744712-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tucsonstar-2022-10-03T20:49:32.744712-07:00.jpg"
+    },
+    {
       "name": "tucsonstar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "83d89302d3046b2a20233bb12c2b13aa4b09265c",
-      "mtime": "1664812531",
-      "size": "210036",
-      "md5": "5efbbdf8534120b38eb4bb4d9bf57d79",
-      "crc32": "9d8762da",
-      "sha1": "0ec5dafa98c9cfa641f45f8bf60c664a50901943",
+      "btih": "4595f3e5d818e5dfcdf2ca611bc899cdcc9534e6",
+      "mtime": "1664855484",
+      "size": "211109",
+      "md5": "b9fd3e221be07bd99ec140c842d501cc",
+      "crc32": "121025aa",
+      "sha1": "55f2c144c58b8f57b3ff85a526451c1a677d21ad",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tucsonstar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c08f1086b7e5923a77d46b9446b6eab2",
+      "md5": "0b8ed0aa7e4909a99b931aa6bfe3f099",
       "summation": "md5"
     },
     {
       "name": "tucsonstar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664810054",
-      "size": "1236992",
-      "md5": "ba1c133846e852f436a1143b0a4d63be",
-      "crc32": "6c86def6",
-      "sha1": "cf69317bea45853188cb7f71ca3e36896d79a36f",
+      "mtime": "1664855425",
+      "size": "1241088",
+      "md5": "abdb9dbdac40471e2c29033d831a0fc2",
+      "crc32": "d361acb8",
+      "sha1": "5b6eaae9b6bbeb187b536ae9177249ed4d906d6e",
       "format": "Metadata"
     },
     {
@@ -10192,9 +10250,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 983,
-  "item_last_updated": 1664812531,
-  "item_size": 83082962,
+  "files_count": 989,
+  "item_last_updated": 1664855484,
+  "item_size": 83591273,
   "metadata": {
     "identifier": "tucsonstar-2022",
     "collection": [
@@ -10211,10 +10269,21 @@
     "publicdate": "2022-07-04 21:48:03",
     "addeddate": "2022-07-04 21:48:03"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 1309465905,
+  "pending_tasks": true,
+  "server": "ia601403.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3427739278,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 194382197,
   "workable_servers": [
-    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }

@@ -1,5 +1,6 @@
 {
-  "created": 1664812397,
+  "conflict": 1664857897,
+  "created": 1664857897,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/13/items/theoklahoman_-2022",
@@ -11678,31 +11679,93 @@
       "sha1": "c01ee6e83ea7d7d9c3ff8b7ef922bcdf09bac027"
     },
     {
+      "name": "theoklahoman_-2022-10-03T22:46:16.188891-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664855188",
+      "size": "25139",
+      "md5": "636643938fad383e5c2e7d9779e83942",
+      "crc32": "12585193",
+      "sha1": "9dcea135ccf8cc5cc7f9efe190275a792b0e5243",
+      "format": "JSON"
+    },
+    {
+      "name": "theoklahoman_-2022-10-03T22:46:16.188891-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664855190",
+      "size": "33600",
+      "md5": "3b47748dcf524fbda83d053a68cbc1dc",
+      "crc32": "21e2b26c",
+      "sha1": "0ff4a7a9bd7f94ecbfebae8d812e50682edc784b",
+      "format": "JSON"
+    },
+    {
+      "name": "theoklahoman_-2022-10-03T22:46:16.188891-05:00.jpg",
+      "source": "original",
+      "mtime": "1664855187",
+      "size": "240392",
+      "md5": "4c0c1d6f2c1e8c7e81791b55dfb2741c",
+      "crc32": "52f2889f",
+      "sha1": "e42b5f764fa4bcf4d133d09d00de07759780aa02",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theoklahoman_-2022-10-03T22:46:16.188891-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664855191",
+      "size": "1486",
+      "md5": "64fa880de01ee76e3dfccb49999bd769",
+      "crc32": "61e31802",
+      "sha1": "4f5022cb450fa98437c1a54eb6d510b154de5dec",
+      "format": "JSON"
+    },
+    {
+      "name": "theoklahoman_-2022-10-03T22:46:16.188891-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664855194",
+      "size": "117084",
+      "md5": "4d66070dfe7fe518cd45b95cee04a904",
+      "crc32": "bf2339ea",
+      "sha1": "f39c625b7b0905de7b7c7a1c2e1ae48abab81264",
+      "format": "JSON"
+    },
+    {
+      "name": "theoklahoman_-2022-10-03T22:46:16.188891-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theoklahoman_-2022-10-03T22:46:16.188891-05:00.jpg",
+      "mtime": "1664857879",
+      "size": "9648",
+      "md5": "86d911bcc8f60cada7794eab64668ed8",
+      "crc32": "636d1dae",
+      "sha1": "64df5e67738fc6b67e2ca4785dba0e9791972b76"
+    },
+    {
       "name": "theoklahoman_-2022_archive.torrent",
       "source": "metadata",
-      "btih": "99e8e35a0a071ef48188b54a5f438d399f0f045b",
-      "mtime": "1664812315",
-      "size": "243602",
-      "md5": "9d0ae8ef35661e2de87062ac73088fe0",
-      "crc32": "7ed94621",
-      "sha1": "81a35f30e5fbe773e8f032a9ba64be3d475051bf",
+      "btih": "0a123fd1fea47ee5972c2599abf9cf1772c1d7d7",
+      "mtime": "1664857894",
+      "size": "244900",
+      "md5": "1073bda177d8ccff03b273cda60c6d5f",
+      "crc32": "b4d2b146",
+      "sha1": "c08a19564b2b71c13d3b5d3f6c67fb69274e81d2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theoklahoman_-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f5fabccb2c0b79840433ecd34764a550",
+      "md5": "8e39a34e6ebb5839cf69d0a6496cb5a6",
       "summation": "md5"
     },
     {
       "name": "theoklahoman_-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664809828",
-      "size": "1409024",
-      "md5": "17600017724f40370509461d2481a801",
-      "crc32": "29de3d7c",
-      "sha1": "acfbc73dca461db72f46225dcea2bf36b0bd7ff7",
+      "mtime": "1664855208",
+      "size": "1413120",
+      "md5": "451f333b5deb9901cb1c27aaf282f90d",
+      "crc32": "90851e13",
+      "sha1": "eda11de92bf2077cb71dd6e4a59d610ed217142f",
       "format": "Metadata"
     },
     {
@@ -11716,9 +11779,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1128,
-  "item_last_updated": 1664812315,
-  "item_size": 82302224,
+  "files_count": 1134,
+  "item_last_updated": 1664857894,
+  "item_size": 82734967,
   "metadata": {
     "identifier": "theoklahoman_-2022",
     "collection": [
@@ -11735,10 +11798,29 @@
     "publicdate": "2022-06-24 23:02:53",
     "addeddate": "2022-06-24 23:02:53"
   },
+  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "uniq": 356874807,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3427734543,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3427780887,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1714930845,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia601501.us.archive.org"
   ]
 }

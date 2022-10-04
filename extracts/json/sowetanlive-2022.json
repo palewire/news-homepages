@@ -1,5 +1,6 @@
 {
-  "created": 1664812547,
+  "conflict": 1664857675,
+  "created": 1664857675,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/2/items/sowetanlive-2022",
@@ -5050,31 +5051,93 @@
       "sha1": "fb407772ecd90bee24cf6fdf5f3a39ee1d957d28"
     },
     {
+      "name": "sowetanlive-2022-10-04T05:40:04.664148+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664854811",
+      "size": "28761",
+      "md5": "079a4dd5e3a08aabc344a3faeceef100",
+      "crc32": "a6436b42",
+      "sha1": "db0bbdf496099c438364a85c4801d92097ffb34d",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-04T05:40:04.664148+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664854813",
+      "size": "28487",
+      "md5": "1e4f0716b2a55a9b5e7189f2caa46631",
+      "crc32": "b348f8f4",
+      "sha1": "a53f3634a3d3d4429a2e807a31b0e9d5182158e9",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-04T05:40:04.664148+02:00.jpg",
+      "source": "original",
+      "mtime": "1664854809",
+      "size": "245628",
+      "md5": "db5067256a10a279b1708a8e9f7cb9b6",
+      "crc32": "616735cf",
+      "sha1": "13b3f96acad73dac4e9fbea5fd8a986538f60555",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sowetanlive-2022-10-04T05:40:04.664148+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664854814",
+      "size": "1518",
+      "md5": "03e16a6fd90e9bcbb7a7754ea9316b8d",
+      "crc32": "3d25d04e",
+      "sha1": "0fe513f3e380ae42d9aa09a907b73f251e659337",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-04T05:40:04.664148+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664854816",
+      "size": "41881",
+      "md5": "93f7fdf629f56817d5ba7ee545bc9d88",
+      "crc32": "ce2b86b7",
+      "sha1": "52596dc9053e985cd1148863277cdf0b6e4f98d0",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-04T05:40:04.664148+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sowetanlive-2022-10-04T05:40:04.664148+02:00.jpg",
+      "mtime": "1664857658",
+      "size": "9594",
+      "md5": "e7e0c7f79b3d585638956fc9bf88ef48",
+      "crc32": "de11d2ac",
+      "sha1": "0aa12fe80259a1c596ddbe230e76ca484cbd7e10"
+    },
+    {
       "name": "sowetanlive-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d575cd2aa8904c2eab4c3278721452790010f49e",
-      "mtime": "1664812466",
-      "size": "105336",
-      "md5": "e4a3fd4cd4c3573f94da54ef126c0e78",
-      "crc32": "d5e28f03",
-      "sha1": "963631fcac4c1d87c665c8ad5168ab8936d5ae07",
+      "btih": "2cb82b698905a738a00419e12da8330347527d25",
+      "mtime": "1664857671",
+      "size": "106621",
+      "md5": "c2ccbb920782453d9b3b0c5845cfac17",
+      "crc32": "1c0f77a4",
+      "sha1": "7f343e39455f95bf058d0ed781b9e7e7256b407c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sowetanlive-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dbc3d58e83eef732a4ce476301985ac2",
+      "md5": "05f4bde9bb49dea761f134c8cd848d85",
       "summation": "md5"
     },
     {
       "name": "sowetanlive-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664809687",
-      "size": "638976",
-      "md5": "0048e51a0dea0f04dfd3ab81ee42855e",
-      "crc32": "d3f1ff94",
-      "sha1": "55308fcf010fb2c5964f19437df2244ddbe1e310",
+      "mtime": "1664854823",
+      "size": "651264",
+      "md5": "9d69eacc5fb1144021f2e4fb3b05f34e",
+      "crc32": "7749c569",
+      "sha1": "3e254c690e6bfd39df91e1b29bf8dc57c2db4edc",
       "format": "Metadata"
     },
     {
@@ -5088,9 +5151,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 492,
-  "item_last_updated": 1664812466,
-  "item_size": 28063589,
+  "files_count": 498,
+  "item_last_updated": 1664857671,
+  "item_size": 28433031,
   "metadata": {
     "identifier": "sowetanlive-2022",
     "collection": [
@@ -5107,10 +5170,29 @@
     "publicdate": "2022-08-23 12:56:55",
     "addeddate": "2022-08-23 12:56:55"
   },
+  "pending_tasks": true,
   "server": "ia601508.us.archive.org",
-  "uniq": 1127611753,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3427728015,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3427777775,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 557042305,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia601508.us.archive.org"
   ]
 }
