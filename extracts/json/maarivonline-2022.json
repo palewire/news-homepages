@@ -1,5 +1,5 @@
 {
-  "created": 1664802179,
+  "created": 1664889152,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/8/items/maarivonline-2022",
@@ -6221,31 +6221,166 @@
       "format": "JSON"
     },
     {
+      "name": "maarivonline-2022-10-03T16:00:36.621196+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "maarivonline-2022-10-03T16:00:36.621196+03:00.jpg",
+      "mtime": "1664805381",
+      "size": "8973",
+      "md5": "702f36459d532dba95080e6969d85ff3",
+      "crc32": "3c3fd450",
+      "sha1": "25306a8f44c421cf3fedcefb88f77fc29a43b6da"
+    },
+    {
+      "name": "maarivonline-2022-10-04T04:31:57.680851+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664847130",
+      "size": "98060",
+      "md5": "3b4cd09d7d9582c239fceda84c931b68",
+      "crc32": "9031eab0",
+      "sha1": "5726e33e046a408881208827335ea9790b40d66e",
+      "format": "JSON"
+    },
+    {
+      "name": "maarivonline-2022-10-04T04:31:57.680851+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664847133",
+      "size": "157103",
+      "md5": "37ed295cabdced89907481d1f8186b5e",
+      "crc32": "60b15310",
+      "sha1": "c0605161442b1f2cb5e098fe22c16940ed66bb04",
+      "format": "JSON"
+    },
+    {
+      "name": "maarivonline-2022-10-04T04:31:57.680851+03:00.jpg",
+      "source": "original",
+      "mtime": "1664847128",
+      "size": "251134",
+      "md5": "77a60ae6ab0774ca3691fbd47e9532b0",
+      "crc32": "8ff44325",
+      "sha1": "512f432a3e2cb488c97f1cdcb89b7ae9d2a77d84",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "maarivonline-2022-10-04T04:31:57.680851+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664847135",
+      "size": "1458",
+      "md5": "af10bb5cc938c8abff38851e7b659dfb",
+      "crc32": "5d012359",
+      "sha1": "5ef8cc048af1946fc63c12513636987afd9ed225",
+      "format": "JSON"
+    },
+    {
+      "name": "maarivonline-2022-10-04T04:31:57.680851+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664847138",
+      "size": "116949",
+      "md5": "fefc012d195d8e6657b15dfff9a7f087",
+      "crc32": "3e8d4142",
+      "sha1": "f84ee62592a90c787eeafd2711edc4bac5f13660",
+      "format": "JSON"
+    },
+    {
+      "name": "maarivonline-2022-10-04T04:31:57.680851+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "maarivonline-2022-10-04T04:31:57.680851+03:00.jpg",
+      "mtime": "1664849392",
+      "size": "9002",
+      "md5": "c9e76d20e9a6b229dcd0d1d41bed3128",
+      "crc32": "1a5f386e",
+      "sha1": "70858b897bd3c1aa82625db034d08e960a2368a6"
+    },
+    {
+      "name": "maarivonline-2022-10-04T16:03:42.884589+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664888630",
+      "size": "107388",
+      "md5": "847c363358fd5be563c8bdb7e889d306",
+      "crc32": "b5b99e48",
+      "sha1": "78fe7ab0ebd2e854bd2a332167f5ac28b1aafa6b",
+      "format": "JSON"
+    },
+    {
+      "name": "maarivonline-2022-10-04T16:03:42.884589+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664888632",
+      "size": "158526",
+      "md5": "9bd0946a1636864b9a005c503aaecda6",
+      "crc32": "7e943465",
+      "sha1": "ec47edbf0879f7c3abe131eb395a21eaf822e613",
+      "format": "JSON"
+    },
+    {
+      "name": "maarivonline-2022-10-04T16:03:42.884589+03:00.jpg",
+      "source": "original",
+      "mtime": "1664888628",
+      "size": "232329",
+      "md5": "1d96f1bf18b0e7f4c7d596d390c9a814",
+      "crc32": "2ae682cc",
+      "sha1": "f414ba6a29e05e6eeb9004bcaf84e22913b96496",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "maarivonline-2022-10-04T16:03:42.884589+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664888634",
+      "size": "1459",
+      "md5": "8508549229d262027aaa81cdb23eb142",
+      "crc32": "ad6269ed",
+      "sha1": "4e68791d4a8cb6e712529e3697566743e9b4e29b",
+      "format": "JSON"
+    },
+    {
+      "name": "maarivonline-2022-10-04T16:03:42.884589+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664888636",
+      "size": "85336",
+      "md5": "ef8956369cbe94e912de0851050ba25b",
+      "crc32": "667b25e9",
+      "sha1": "15de047f8da37f66c5e9aff5fe3835a0e39a6a1b",
+      "format": "JSON"
+    },
+    {
+      "name": "maarivonline-2022-10-04T16:03:42.884589+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "maarivonline-2022-10-04T16:03:42.884589+03:00.jpg",
+      "mtime": "1664889067",
+      "size": "8759",
+      "md5": "c685536ca89c09ad94c46a8c10dc8f26",
+      "crc32": "e8752a44",
+      "sha1": "30e4bb6ba6a5b502b8a749a9b1548afd529d571d"
+    },
+    {
       "name": "maarivonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8102df6162b9bef2ab86e650b488d7b1a3239e78",
-      "mtime": "1664802163",
-      "size": "130996",
-      "md5": "fe00f945b66470631918ef47821ba346",
-      "crc32": "4e26f776",
-      "sha1": "791188cf44b604964b8297d1c3a3da1888123add",
+      "btih": "1efd06c619ce811c5718579dfb72461d66ea9976",
+      "mtime": "1664889082",
+      "size": "133790",
+      "md5": "1d214cd0c010613c2c81f4c04f89ab41",
+      "crc32": "041cd792",
+      "sha1": "79b2da694e9c1be13bc30df273501caabffe9c5e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "maarivonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e1af5160119708b765a85c8279eac6eb",
+      "md5": "32702066c73036023a1784ef3ced886e",
       "summation": "md5"
     },
     {
       "name": "maarivonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664802112",
-      "size": "778240",
-      "md5": "d14054b4b3eea3ca86db7042e2200979",
-      "crc32": "10ed11fc",
-      "sha1": "5bfd33b8dbd132398a3bf915b316efdcc2a24437",
+      "mtime": "1664888875",
+      "size": "798720",
+      "md5": "6d07ea569f8a9ea9127fa0d81d559fcb",
+      "crc32": "7bb7d9f2",
+      "sha1": "8fc701391a99481251b33339c774922814268430",
       "format": "Metadata"
     },
     {
@@ -6259,9 +6394,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 605,
-  "item_last_updated": 1664802163,
-  "item_size": 56800321,
+  "files_count": 618,
+  "item_last_updated": 1664889082,
+  "item_size": 58060071,
   "metadata": {
     "identifier": "maarivonline-2022",
     "collection": [
@@ -6278,21 +6413,10 @@
     "publicdate": "2022-08-14 03:14:50",
     "addeddate": "2022-08-14 03:14:50"
   },
-  "pending_tasks": true,
-  "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3426983046,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1060561813,
+  "server": "ia801500.us.archive.org",
+  "uniq": 642289247,
   "workable_servers": [
+    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

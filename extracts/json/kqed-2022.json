@@ -1,5 +1,5 @@
 {
-  "created": 1664801945,
+  "created": 1664888895,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/23/items/kqed-2022",
@@ -11687,31 +11687,166 @@
       "format": "JSON"
     },
     {
+      "name": "kqed-2022-10-03T05:57:42.079804-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kqed-2022-10-03T05:57:42.079804-07:00.jpg",
+      "mtime": "1664804892",
+      "size": "9008",
+      "md5": "e9f4cbcb868d6c130259dbf52055a7e5",
+      "crc32": "d39df06b",
+      "sha1": "dc5d7e300666a60aedfb937b38700085671b20a2"
+    },
+    {
+      "name": "kqed-2022-10-03T18:29:35.108733-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664846979",
+      "size": "29459",
+      "md5": "cb6ed9e3afd0d2024f8e3457e91b51c3",
+      "crc32": "d4efe6f8",
+      "sha1": "5af049800036d291a9ff38827f029fe26192b3a2",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-10-03T18:29:35.108733-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664846980",
+      "size": "18648",
+      "md5": "bdf26e7a2a27b2061b5eec7e889f99c1",
+      "crc32": "c80756a7",
+      "sha1": "40e1ddc2c57b820f7feb333b09d72cf49605bd41",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-10-03T18:29:35.108733-07:00.jpg",
+      "source": "original",
+      "mtime": "1664846977",
+      "size": "226088",
+      "md5": "7fa048792e76bfffc648f03c87e5168b",
+      "crc32": "7d78a6fa",
+      "sha1": "9501aa1f0e6cd28b23b6afee7626c94a7e38f7a7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kqed-2022-10-03T18:29:35.108733-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664846982",
+      "size": "1431",
+      "md5": "0eb750d999bac58951eecced84d818ed",
+      "crc32": "5c70c5bd",
+      "sha1": "03ca1f90412751a182340819f5b8d7ed244c2ae8",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-10-03T18:29:35.108733-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664846983",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-10-03T18:29:35.108733-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kqed-2022-10-03T18:29:35.108733-07:00.jpg",
+      "mtime": "1664849378",
+      "size": "9969",
+      "md5": "072695d62e2badc983da1c19cda4ce80",
+      "crc32": "c2207afd",
+      "sha1": "c66d759bfd69351133aaef85905ad43176673e19"
+    },
+    {
+      "name": "kqed-2022-10-04T06:02:01.391502-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664888532",
+      "size": "29500",
+      "md5": "cb28f2f6aaba97ccc7d247a1ba59e9f0",
+      "crc32": "8d0c6e71",
+      "sha1": "2d7ff757d1db09a2fa3d529557fdd1664f066e5d",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-10-04T06:02:01.391502-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664888536",
+      "size": "18670",
+      "md5": "df8802b05380efe2a030284bcc57f616",
+      "crc32": "9c20aa68",
+      "sha1": "454db0a3cf28170a4e6ab0d86c7062b8b85a3bc7",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-10-04T06:02:01.391502-07:00.jpg",
+      "source": "original",
+      "mtime": "1664888529",
+      "size": "212264",
+      "md5": "f12dfd419f76748a7300eff75f26798d",
+      "crc32": "5c2cc9c7",
+      "sha1": "85115f58d51d04f10e7064ad0638b454bc9c2044",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kqed-2022-10-04T06:02:01.391502-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664888539",
+      "size": "1435",
+      "md5": "97e7778b67cb771bae407517370df56b",
+      "crc32": "3c45e241",
+      "sha1": "92a394ca769995ab2441e32b175233b27912dd70",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-10-04T06:02:01.391502-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664888542",
+      "size": "97",
+      "md5": "158979ac5c12bebfb4f88ce006bae7bb",
+      "crc32": "e055f811",
+      "sha1": "53263453bfc9493a91b0d2f395de478f6a4c8059",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-10-04T06:02:01.391502-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kqed-2022-10-04T06:02:01.391502-07:00.jpg",
+      "mtime": "1664888780",
+      "size": "9697",
+      "md5": "e62393f8f12c812e9a8513c2a99c1352",
+      "crc32": "02a0ca8e",
+      "sha1": "052526fc2e4497daf548ff17620932137f69fe9e"
+    },
+    {
       "name": "kqed-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0748df3dadb45bdc94bc09e1dbc46a58ac1b6383",
-      "mtime": "1664801929",
-      "size": "232589",
-      "md5": "04615b322ea600836d9f657247fa5d34",
-      "crc32": "324e4680",
-      "sha1": "f7def4e5d7baefbb17ea5181dfdaf99838f0b37e",
+      "btih": "6a2c57bf3838bff93715fe5e59ec64ddf8439355",
+      "mtime": "1664888793",
+      "size": "235250",
+      "md5": "37e5f59a47f4439fde3e46de0b9df25d",
+      "crc32": "2cd289af",
+      "sha1": "938c2b060e70b46f438bead6c790c18a6a49a279",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kqed-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d89485e1d93c13ef7d8d1b1c574da446",
+      "md5": "47692d6507acf0f97701c7b646b6cc60",
       "summation": "md5"
     },
     {
       "name": "kqed-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664801879",
-      "size": "1392640",
-      "md5": "d73b95b070e7f8ada047545f31141e7b",
-      "crc32": "1c17b4e0",
-      "sha1": "ef47aafa643e77756f2c159560aad11c3f66ad82",
+      "mtime": "1664888634",
+      "size": "1409024",
+      "md5": "5018e63cc2310036a5011e79cf21cc66",
+      "crc32": "2dfda96d",
+      "sha1": "298f4be5c27fc0c2f637b904aee93a8033162365",
       "format": "Metadata"
     },
     {
@@ -11725,9 +11860,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1129,
-  "item_last_updated": 1664801929,
-  "item_size": 62261872,
+  "files_count": 1142,
+  "item_last_updated": 1664888793,
+  "item_size": 62847385,
   "metadata": {
     "identifier": "kqed-2022",
     "collection": [
@@ -11744,21 +11879,10 @@
     "publicdate": "2022-06-24 22:56:44",
     "addeddate": "2022-06-24 22:56:44"
   },
-  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3426976596,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 172885480,
+  "uniq": 1099971050,
   "workable_servers": [
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

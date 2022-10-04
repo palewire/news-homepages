@@ -1,5 +1,5 @@
 {
-  "created": 1664802181,
+  "created": 1664889123,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/11/items/midnight_sun_ak-2022",
@@ -2671,31 +2671,166 @@
       "format": "JSON"
     },
     {
+      "name": "midnight_sun_ak-2022-10-03T05:00:17.455234-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "midnight_sun_ak-2022-10-03T05:00:17.455234-08:00.jpg",
+      "mtime": "1664805158",
+      "size": "11224",
+      "md5": "602b3a64cc0e90eda171e93bd2fee815",
+      "crc32": "dd083fbd",
+      "sha1": "c03ff3267806f051b6c3ceef2fe0238cecf50aa8"
+    },
+    {
+      "name": "midnight_sun_ak-2022-10-03T17:32:08.624982-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664847133",
+      "size": "15413",
+      "md5": "56309e6b21ae508d903474513f64788b",
+      "crc32": "287cad7c",
+      "sha1": "af01f9bf0c834ef0a9811a4a7824d7a0eba8bb5b",
+      "format": "JSON"
+    },
+    {
+      "name": "midnight_sun_ak-2022-10-03T17:32:08.624982-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664847135",
+      "size": "11221",
+      "md5": "8da587415084a92f228a639fa950610f",
+      "crc32": "723a9c87",
+      "sha1": "0721c1b5f15f1dccc879a27abcc343505322f643",
+      "format": "JSON"
+    },
+    {
+      "name": "midnight_sun_ak-2022-10-03T17:32:08.624982-08:00.jpg",
+      "source": "original",
+      "mtime": "1664847131",
+      "size": "296686",
+      "md5": "8da626d750c5ccf5d1ca9f7b0e32a262",
+      "crc32": "1f177fc1",
+      "sha1": "002396b96898e86ff7af58f4c8bbb1f8e1ad0c28",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "midnight_sun_ak-2022-10-03T17:32:08.624982-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664847138",
+      "size": "1486",
+      "md5": "a291283b7d7796aee11b79c65612b60a",
+      "crc32": "7e071ea4",
+      "sha1": "83e53bf61aad7c7eaaeb487d13490097e5c4efc9",
+      "format": "JSON"
+    },
+    {
+      "name": "midnight_sun_ak-2022-10-03T17:32:08.624982-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1664847140",
+      "size": "6547",
+      "md5": "e22178b43ad18b1ae381fa8653bbbbab",
+      "crc32": "8e773f37",
+      "sha1": "80f07b4885139c43108006379413252b016759f2",
+      "format": "JSON"
+    },
+    {
+      "name": "midnight_sun_ak-2022-10-03T17:32:08.624982-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "midnight_sun_ak-2022-10-03T17:32:08.624982-08:00.jpg",
+      "mtime": "1664849411",
+      "size": "11045",
+      "md5": "d347b552ad02131359773daffb03daa0",
+      "crc32": "f06e2ae5",
+      "sha1": "a52441fd579e02d38c6e7993634fa21d241b1fc7"
+    },
+    {
+      "name": "midnight_sun_ak-2022-10-04T05:03:58.952375-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664888643",
+      "size": "15413",
+      "md5": "56309e6b21ae508d903474513f64788b",
+      "crc32": "287cad7c",
+      "sha1": "af01f9bf0c834ef0a9811a4a7824d7a0eba8bb5b",
+      "format": "JSON"
+    },
+    {
+      "name": "midnight_sun_ak-2022-10-04T05:03:58.952375-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664888647",
+      "size": "11219",
+      "md5": "a7dd802c492f36671d708847a4a77684",
+      "crc32": "d0edb4c4",
+      "sha1": "9581ecd824549d386c70e97a88fde514de10f10d",
+      "format": "JSON"
+    },
+    {
+      "name": "midnight_sun_ak-2022-10-04T05:03:58.952375-08:00.jpg",
+      "source": "original",
+      "mtime": "1664888641",
+      "size": "289938",
+      "md5": "43ca5ea608df8d4c2c383e0296277be0",
+      "crc32": "c6c0d3b7",
+      "sha1": "de175b7095749881ab68f75a8d9e3ce3a1ab38e8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "midnight_sun_ak-2022-10-04T05:03:58.952375-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664888650",
+      "size": "1485",
+      "md5": "c6a038d9d09b204f8ffd4d1d2fd2d1b3",
+      "crc32": "698047fe",
+      "sha1": "957364e8fe2341fe691f43e75046f5ab2b3b04bf",
+      "format": "JSON"
+    },
+    {
+      "name": "midnight_sun_ak-2022-10-04T05:03:58.952375-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1664888652",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "midnight_sun_ak-2022-10-04T05:03:58.952375-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "midnight_sun_ak-2022-10-04T05:03:58.952375-08:00.jpg",
+      "mtime": "1664889065",
+      "size": "10903",
+      "md5": "1d881e05f20dcb705b8b6d55819660ce",
+      "crc32": "d179a6c0",
+      "sha1": "0ff14d3061ab47269165a5be3f5dde0563913c2c"
+    },
+    {
       "name": "midnight_sun_ak-2022_archive.torrent",
       "source": "metadata",
-      "btih": "536fee40b2ddd46bc2f977c5cc8151a8814bcd4e",
-      "mtime": "1664802157",
-      "size": "57429",
-      "md5": "464926cfd6cf7ba8d5f269efccb761d5",
-      "crc32": "106eb476",
-      "sha1": "f89b3d3695723d0a3d5a33d37420bd588ccfd1c8",
+      "btih": "284f6bfade84cb6d310032490bbfe534f7bf0996",
+      "mtime": "1664889071",
+      "size": "60258",
+      "md5": "dda45f3d522c9c39d4599c452c156020",
+      "crc32": "9f4dcfc0",
+      "sha1": "199d5bad5d06abba52d0ffcc33b49612458dfe3e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "midnight_sun_ak-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ace415cdc48475cc1a9acfa19b931411",
+      "md5": "35ce18ad4af4a3687c58a10dbeb74a5e",
       "summation": "md5"
     },
     {
       "name": "midnight_sun_ak-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664802116",
-      "size": "352256",
-      "md5": "21e3781f81ad719bcd337f76cf5a6069",
-      "crc32": "bc94181c",
-      "sha1": "17becdc0dccd1eef31ab6dbc078674759f717f19",
+      "mtime": "1664888883",
+      "size": "364544",
+      "md5": "90fbbd917e0230ff75fbe294d01f85b2",
+      "crc32": "9c6b36c9",
+      "sha1": "01a62b845ba4a9a22b7cc1b27051109e0c260f77",
       "format": "Metadata"
     },
     {
@@ -2709,9 +2844,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 262,
-  "item_last_updated": 1664802157,
-  "item_size": 14697062,
+  "files_count": 275,
+  "item_last_updated": 1664889071,
+  "item_size": 15394961,
   "metadata": {
     "identifier": "midnight_sun_ak-2022",
     "collection": [
@@ -2728,21 +2863,10 @@
     "publicdate": "2022-09-13 01:14:49",
     "addeddate": "2022-09-13 01:14:49"
   },
-  "pending_tasks": true,
   "server": "ia601400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3426983416,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1267318737,
+  "uniq": 2136472373,
   "workable_servers": [
-    "ia601400.us.archive.org"
+    "ia601400.us.archive.org",
+    "ia801400.us.archive.org"
   ]
 }
