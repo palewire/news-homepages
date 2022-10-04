@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 238 screenshots with the Internet Archive.
+The archiving routine has saved 239 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 238 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-10-04T06:28:25.009216+04:00.jpg">
+  <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-10-04T06:28:25.009216+04:00.jpg"
+     alt="Open Caucasus Media at 2022-10-04 06:28:34+04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-10-04T06:28:25.009216+04:00.jpg">October 4 at 6:28 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-10-03T18:06:50.742288+04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-09-28T18:02:48.349513+04:00.jpg">September 28 at 6:02 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-09-28T06:28:20.921364+04:00.jpg">
-  <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-09-28T06:28:20.921364+04:00.jpg"
-     alt="Open Caucasus Media at 2022-09-28 06:28:22+04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-09-28T06:28:20.921364+04:00.jpg">September 28 at 6:28 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 239 hyperlink lists with the Internet Archive.
+The archiving routine has saved 240 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 6:28 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-10-04T06:28:25.009216+04:00.hyperlinks.json) |
 | [October 3 at 6:07 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-10-03T18:06:50.742288+04:00.hyperlinks.json) |
 | [October 3 at 6:29 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-10-03T06:29:09.931609+04:00.hyperlinks.json) |
 | [October 2 at 6:14 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-10-02T18:14:01.301962+04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 6:18 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-09-30T18:17:53.362250+04:00.hyperlinks.json) |
 | [September 30 at 6:39 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-09-30T06:39:50.922175+04:00.hyperlinks.json) |
 | [September 29 at 6:07 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-09-29T18:07:17.117406+04:00.hyperlinks.json) |
-| [September 29 at 6:21 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-09-29T06:21:43.980361+04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 239 accessibility trees with the Internet Archive.
+The archiving routine has saved 240 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 6:28 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-10-04T06:28:25.009216+04:00.accessibility.json) |
 | [October 3 at 6:07 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-10-03T18:06:50.742288+04:00.accessibility.json) |
 | [October 3 at 6:29 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-10-03T06:29:09.931609+04:00.accessibility.json) |
 | [October 2 at 6:14 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-10-02T18:14:01.301962+04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 6:18 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-09-30T18:17:53.362250+04:00.accessibility.json) |
 | [September 30 at 6:39 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-09-30T06:39:50.922175+04:00.accessibility.json) |
 | [September 29 at 6:07 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-09-29T18:07:17.117406+04:00.accessibility.json) |
-| [September 29 at 6:21 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-09-29T06:21:43.980361+04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 143 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 144 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 6:28 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-10-04T06:28:25.009216+04:00.lighthouse.json) |
 | [October 3 at 6:07 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-10-03T18:06:50.742288+04:00.lighthouse.json) |
 | [October 3 at 6:29 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-10-03T06:29:09.931609+04:00.lighthouse.json) |
 | [October 2 at 6:14 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-10-02T18:14:01.301962+04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 6:18 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-09-30T18:17:53.362250+04:00.lighthouse.json) |
 | [September 30 at 6:39 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-09-30T06:39:50.922175+04:00.lighthouse.json) |
 | [September 29 at 6:07 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-09-29T18:07:17.117406+04:00.lighthouse.json) |
-| [September 29 at 6:21 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-09-29T06:21:43.980361+04:00.lighthouse.json) |
 
 
 

@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 26 screenshots with the Internet Archive.
+The archiving routine has saved 27 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-10-03T22:27:33.087859-04:00.jpg">
+  <img src="https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-10-03T22:27:33.087859-04:00.jpg"
+     alt="The Norwich Bulletin at 2022-10-03 22:27:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-10-03T22:27:33.087859-04:00.jpg">October 3 at 10:27 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-10-03T10:04:46.774752-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-09-28T10:00:53.935659-04:00.jpg">September 28 at 10:00 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-09-27T22:26:16.284618-04:00.jpg">
-  <img src="https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-09-27T22:26:16.284618-04:00.jpg"
-     alt="The Norwich Bulletin at 2022-09-27 22:26:17-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-09-27T22:26:16.284618-04:00.jpg">September 27 at 10:26 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 26 hyperlink lists with the Internet Archive.
+The archiving routine has saved 27 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 3 at 10:27 PM](https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-10-03T22:27:33.087859-04:00.hyperlinks.json) |
 | [October 3 at 10:04 AM](https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-10-03T10:04:46.774752-04:00.hyperlinks.json) |
 | [October 2 at 10:27 PM](https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-10-02T22:27:23.282406-04:00.hyperlinks.json) |
 | [October 2 at 10:08 AM](https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-10-02T10:08:40.855869-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 10:15 AM](https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-09-30T10:15:36.744632-04:00.hyperlinks.json) |
 | [September 29 at 10:39 PM](https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-09-29T22:39:46.166704-04:00.hyperlinks.json) |
 | [September 29 at 10:04 AM](https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-09-29T10:04:43.892630-04:00.hyperlinks.json) |
-| [September 28 at 10:18 PM](https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-09-28T22:18:25.912619-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 25 accessibility trees with the Internet Archive.
+The archiving routine has saved 26 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 3 at 10:27 PM](https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-10-03T22:27:33.087859-04:00.accessibility.json) |
 | [October 3 at 10:04 AM](https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-10-03T10:04:46.774752-04:00.accessibility.json) |
 | [October 2 at 10:27 PM](https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-10-02T22:27:23.282406-04:00.accessibility.json) |
 | [October 2 at 10:08 AM](https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-10-02T10:08:40.855869-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 10:15 AM](https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-09-30T10:15:36.744632-04:00.accessibility.json) |
 | [September 29 at 10:39 PM](https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-09-29T22:39:46.166704-04:00.accessibility.json) |
 | [September 29 at 10:04 AM](https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-09-29T10:04:43.892630-04:00.accessibility.json) |
-| [September 28 at 10:18 PM](https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-09-28T22:18:25.912619-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 3 at 10:27 PM](https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-10-03T22:27:33.087859-04:00.lighthouse.json) |
 | [October 3 at 10:04 AM](https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-10-03T10:04:46.774752-04:00.lighthouse.json) |
 | [October 2 at 10:27 PM](https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-10-02T22:27:23.282406-04:00.lighthouse.json) |
 | [October 2 at 10:08 AM](https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-10-02T10:08:40.855869-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 10:15 AM](https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-09-30T10:15:36.744632-04:00.lighthouse.json) |
 | [September 29 at 10:39 PM](https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-09-29T22:39:46.166704-04:00.lighthouse.json) |
 | [September 29 at 10:04 AM](https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-09-29T10:04:43.892630-04:00.lighthouse.json) |
-| [September 28 at 10:18 PM](https://archive.org/download/norwichbulletin-2022/norwichbulletin-2022-09-28T22:18:25.912619-04:00.lighthouse.json) |
 
 
 

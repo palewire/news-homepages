@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 26 screenshots with the Internet Archive.
+The archiving routine has saved 27 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-03T22:26:50.073396-04:00.jpg">
+  <img src="https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-03T22:26:50.073396-04:00.jpg"
+     alt="Staunton Daily News Leader at 2022-10-03 22:26:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-03T22:26:50.073396-04:00.jpg">October 3 at 10:26 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-03T10:04:35.071338-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/newsleadernow-2022/newsleadernow-2022-09-28T10:01:28.655800-04:00.jpg">September 28 at 10:01 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/newsleadernow-2022/newsleadernow-2022-09-27T22:25:49.131766-04:00.jpg">
-  <img src="https://archive.org/download/newsleadernow-2022/newsleadernow-2022-09-27T22:25:49.131766-04:00.jpg"
-     alt="Staunton Daily News Leader at 2022-09-27 22:25:50-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newsleadernow-2022/newsleadernow-2022-09-27T22:25:49.131766-04:00.jpg">September 27 at 10:25 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 26 hyperlink lists with the Internet Archive.
+The archiving routine has saved 27 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 3 at 10:26 PM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-03T22:26:50.073396-04:00.hyperlinks.json) |
 | [October 3 at 10:04 AM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-03T10:04:35.071338-04:00.hyperlinks.json) |
 | [October 2 at 10:27 PM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-02T22:27:46.240687-04:00.hyperlinks.json) |
 | [October 2 at 10:09 AM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-02T10:08:56.120021-04:00.hyperlinks.json) |
@@ -371,7 +372,6 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 10:15 AM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-09-30T10:15:10.387267-04:00.hyperlinks.json) |
 | [September 29 at 10:37 PM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-09-29T22:37:54.379551-04:00.hyperlinks.json) |
 | [September 29 at 10:04 AM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-09-29T10:04:42.331700-04:00.hyperlinks.json) |
-| [September 28 at 10:18 PM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-09-28T22:18:44.055133-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -399,7 +399,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 3 at 10:26 PM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-03T22:26:50.073396-04:00.lighthouse.json) |
 | [October 3 at 10:04 AM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-03T10:04:35.071338-04:00.lighthouse.json) |
 | [October 2 at 10:27 PM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-02T22:27:46.240687-04:00.lighthouse.json) |
 | [October 2 at 10:09 AM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-02T10:08:56.120021-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 10:15 AM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-09-30T10:15:10.387267-04:00.lighthouse.json) |
 | [September 29 at 10:38 PM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-09-29T22:37:54.379551-04:00.lighthouse.json) |
 | [September 29 at 10:04 AM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-09-29T10:04:42.331700-04:00.lighthouse.json) |
-| [September 28 at 10:18 PM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-09-28T22:18:44.055133-04:00.lighthouse.json) |
 
 
 
