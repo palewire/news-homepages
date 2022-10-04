@@ -1,5 +1,5 @@
 {
-  "created": 1664881320,
+  "created": 1664924532,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/35/items/arkansasonline-2022",
@@ -2858,31 +2858,93 @@
       "sha1": "cf9e2969d399207962196316dd1a0c0c64070f95"
     },
     {
+      "name": "arkansasonline-2022-10-04T18:00:15.632460-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664924421",
+      "size": "43715",
+      "md5": "49a76fa1d474ee21e11608250b18ca51",
+      "crc32": "b197a483",
+      "sha1": "72a32b6c0fc46744e4507b2a90fc983d59e45f6b",
+      "format": "JSON"
+    },
+    {
+      "name": "arkansasonline-2022-10-04T18:00:15.632460-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664924422",
+      "size": "29595",
+      "md5": "7e3cb2c035527e2b59afd0f3aa1d4111",
+      "crc32": "ea533342",
+      "sha1": "77349ad4843a72b560b07feb103a647c3a9f9bfe",
+      "format": "JSON"
+    },
+    {
+      "name": "arkansasonline-2022-10-04T18:00:15.632460-05:00.jpg",
+      "source": "original",
+      "mtime": "1664924419",
+      "size": "328640",
+      "md5": "1cc2e8a81b5bb09a4b99d768cd498305",
+      "crc32": "bbcbdb1f",
+      "sha1": "163253bd1051e04d7405e4ce99236bb90f03f271",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arkansasonline-2022-10-04T18:00:15.632460-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664924424",
+      "size": "1522",
+      "md5": "c57d00eac2b101f9af85760c576de3d8",
+      "crc32": "b58cbf0d",
+      "sha1": "1d25b73fa7c980ce5184d1190b359620c5259e22",
+      "format": "JSON"
+    },
+    {
+      "name": "arkansasonline-2022-10-04T18:00:15.632460-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664924426",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "arkansasonline-2022-10-04T18:00:15.632460-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arkansasonline-2022-10-04T18:00:15.632460-05:00.jpg",
+      "mtime": "1664924510",
+      "size": "9429",
+      "md5": "6013a342b513e355443b688a446cf325",
+      "crc32": "0a8edd4e",
+      "sha1": "69126fc2d43ca9f9c3f17a7718651546874efeb5"
+    },
+    {
       "name": "arkansasonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0639ab22f8cb28a62859ca925a83604983cd30c3",
-      "mtime": "1664881277",
-      "size": "61224",
-      "md5": "3d35dc9407e13c56cc5d92da8633c513",
-      "crc32": "344a343b",
-      "sha1": "c351cc37357dcbaa2103e835a51fbb14e47205ab",
+      "btih": "5b241a5d75d87950ab24657de4acc97d5750ba3a",
+      "mtime": "1664924521",
+      "size": "62525",
+      "md5": "108e3b960c9857610a8214a04315768a",
+      "crc32": "6d55ce31",
+      "sha1": "a45753bcb68304e2eb3250d2bfbd43c225b37ecb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arkansasonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1e77656da1b240776d94656abc6939dc",
+      "md5": "22d0bc900f7cf588552d26b75a679f60",
       "summation": "md5"
     },
     {
       "name": "arkansasonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664881135",
-      "size": "372736",
-      "md5": "fd9d37a907642c28bfc766c2d7314ebe",
-      "crc32": "cc146d9a",
-      "sha1": "4ec23c87841b36a0d566b73d8b22d5fb1f67ce03",
+      "mtime": "1664924453",
+      "size": "380928",
+      "md5": "c0bd2efbcfc6993cf7feeff49496b479",
+      "crc32": "a1bab54f",
+      "sha1": "8159c0cb745681c0485a74989fab6dcac6029953",
       "format": "Metadata"
     },
     {
@@ -2896,9 +2958,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 280,
-  "item_last_updated": 1664881277,
-  "item_size": 20360143,
+  "files_count": 286,
+  "item_last_updated": 1664924521,
+  "item_size": 20782739,
   "metadata": {
     "identifier": "arkansasonline-2022",
     "collection": [
@@ -2916,7 +2978,7 @@
     "addeddate": "2022-09-12 11:03:11"
   },
   "server": "ia601500.us.archive.org",
-  "uniq": 1853870349,
+  "uniq": 1812351748,
   "workable_servers": [
     "ia601500.us.archive.org",
     "ia801500.us.archive.org"
