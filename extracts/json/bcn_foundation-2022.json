@@ -1,5 +1,5 @@
 {
-  "created": 1664773904,
+  "created": 1664863339,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/9/items/bcn_foundation-2022",
@@ -10302,31 +10302,155 @@
       "sha1": "1602b10524e13f93a09f232926013587bf6bdf7f"
     },
     {
+      "name": "bcn_foundation-2022-10-03T09:13:53.069103-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664813637",
+      "size": "67964",
+      "md5": "b71859f2eb521afbc43ab74a0ac5db9a",
+      "crc32": "cd778b1e",
+      "sha1": "a6c181f52c6ae4751502e09a38c628a951eb2301",
+      "format": "JSON"
+    },
+    {
+      "name": "bcn_foundation-2022-10-03T09:13:53.069103-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664813638",
+      "size": "74287",
+      "md5": "ad7c9ee9a52b2014a4a36935f438332a",
+      "crc32": "c8339063",
+      "sha1": "3557a3eef8d90b3488b2f4d99fb356c2690d5ea4",
+      "format": "JSON"
+    },
+    {
+      "name": "bcn_foundation-2022-10-03T09:13:53.069103-07:00.jpg",
+      "source": "original",
+      "mtime": "1664813634",
+      "size": "244664",
+      "md5": "db8fc89f907ec715d22aa5eb0f7a0edd",
+      "crc32": "59ff0299",
+      "sha1": "8ab234bdc6583be895c302e3534e57620533eb73",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bcn_foundation-2022-10-03T09:13:53.069103-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664813640",
+      "size": "1510",
+      "md5": "3a8d1877a1c2cfffbefbf757213c3bd4",
+      "crc32": "2554c8ce",
+      "sha1": "748b1602356c02af6803d684d4e4a05a92ab26e9",
+      "format": "JSON"
+    },
+    {
+      "name": "bcn_foundation-2022-10-03T09:13:53.069103-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664813642",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "bcn_foundation-2022-10-03T09:13:53.069103-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bcn_foundation-2022-10-03T09:13:53.069103-07:00.jpg",
+      "mtime": "1664816533",
+      "size": "9787",
+      "md5": "b9a6a32a1dabefaef37e675b626fd646",
+      "crc32": "8aa9ea97",
+      "sha1": "41e9f3eed5f3dbe81461e0d3e46dcfc2198bdd49"
+    },
+    {
+      "name": "bcn_foundation-2022-10-03T22:18:54.185491-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664860744",
+      "size": "68220",
+      "md5": "07757c76e497f60c8d360bbf5d72807f",
+      "crc32": "ffc5861a",
+      "sha1": "a00784661251a9f0770332466f11caf553b5a20e",
+      "format": "JSON"
+    },
+    {
+      "name": "bcn_foundation-2022-10-03T22:18:54.185491-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664860746",
+      "size": "74311",
+      "md5": "d08eee4372abe434c26faa2d2657df55",
+      "crc32": "4fa0dd25",
+      "sha1": "6bba68d38e05a5f31cad49e86cc682657dc4a6bb",
+      "format": "JSON"
+    },
+    {
+      "name": "bcn_foundation-2022-10-03T22:18:54.185491-07:00.jpg",
+      "source": "original",
+      "mtime": "1664860740",
+      "size": "209526",
+      "md5": "7026f591894580120ab9c42a78733f0b",
+      "crc32": "951a03c2",
+      "sha1": "7a92cc71c193eeaa9db77c205d4b7e36b34ea230",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bcn_foundation-2022-10-03T22:18:54.185491-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664860748",
+      "size": "1509",
+      "md5": "92bf91bcdc6db031b5893fa92ca53648",
+      "crc32": "f8c2b476",
+      "sha1": "6b8cb5c6d28950fea7baae00a0b9cfba3d3dd65a",
+      "format": "JSON"
+    },
+    {
+      "name": "bcn_foundation-2022-10-03T22:18:54.185491-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664860751",
+      "size": "12692",
+      "md5": "394978a440d6ef7fee06a4d81ac6ca6f",
+      "crc32": "5144f78a",
+      "sha1": "19ed0cfb726c95bf3e96ad68a6dae762630d92df",
+      "format": "JSON"
+    },
+    {
+      "name": "bcn_foundation-2022-10-03T22:18:54.185491-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bcn_foundation-2022-10-03T22:18:54.185491-07:00.jpg",
+      "mtime": "1664863297",
+      "size": "9632",
+      "md5": "00b2cfa68f5f74a7ed99ebb116b0f7f6",
+      "crc32": "686b74bf",
+      "sha1": "c286191f161738bf12bcc28b97a16912d84809c7"
+    },
+    {
       "name": "bcn_foundation-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8185b756f14888835564e0bd4f3d841fd252256c",
-      "mtime": "1664773833",
-      "size": "216254",
-      "md5": "d64cd9d824ecaf12e3b5f67f40844c1f",
-      "crc32": "a7a8e8c1",
-      "sha1": "8e42fae5a130cdcda189f61f384f387edd8aae2e",
+      "btih": "a7eae7b29bec7dac4cc2d281ecb196d63cdfd19d",
+      "mtime": "1664863309",
+      "size": "218838",
+      "md5": "daf881eb099c6170a81b6f536f7d9b60",
+      "crc32": "1e50e12c",
+      "sha1": "7b417e048ded7625219e77ebcf3474dc8b9d59b0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bcn_foundation-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e2c6e45ebe28f2505ddf19443b5ef4f2",
+      "md5": "2cc0212e08e9cba4aede21566a2c5f78",
       "summation": "md5"
     },
     {
       "name": "bcn_foundation-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664773570",
-      "size": "1257472",
-      "md5": "6ea318d3edc45cd141c01a092a6eeb76",
-      "crc32": "f73ccef2",
-      "sha1": "83caeef532c877aa803caff428c692776edd03d8",
+      "mtime": "1664860759",
+      "size": "1273856",
+      "md5": "0403da6e11af8a0a172c691f36018e50",
+      "crc32": "f8c979e9",
+      "sha1": "d58af42c558ea350e3a6bef8aa82bde1f0a01d07",
       "format": "Metadata"
     },
     {
@@ -10340,9 +10464,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 997,
-  "item_last_updated": 1664773833,
-  "item_size": 70114886,
+  "files_count": 1009,
+  "item_last_updated": 1664863309,
+  "item_size": 70908158,
   "metadata": {
     "identifier": "bcn_foundation-2022",
     "collection": [
@@ -10360,7 +10484,7 @@
     "addeddate": "2022-07-09 03:56:17"
   },
   "server": "ia801401.us.archive.org",
-  "uniq": 1127295586,
+  "uniq": 1351545023,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

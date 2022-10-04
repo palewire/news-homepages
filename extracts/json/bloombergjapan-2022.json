@@ -1,5 +1,5 @@
 {
-  "created": 1664850370,
+  "created": 1664860956,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/34/items/bloombergjapan-2022",
@@ -12505,31 +12505,93 @@
       "format": "JSON"
     },
     {
+      "name": "bloombergjapan-2022-10-04T11:25:04.148613+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bloombergjapan-2022-10-04T11:25:04.148613+09:00.jpg",
+      "mtime": "1664853669",
+      "size": "9888",
+      "md5": "6e729c7c3c8359bb1cd66f56c54346b3",
+      "crc32": "f392a090",
+      "sha1": "950243fec7dd199359a4839b4698bd1d734b6568"
+    },
+    {
+      "name": "bloombergjapan-2022-10-04T14:21:33.472277+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664860896",
+      "size": "10952",
+      "md5": "054325d6f68cb3769f4f66fe01925847",
+      "crc32": "f3110302",
+      "sha1": "5c1bd1f82eb5e70954d4b42d52fb81e2fedcb207",
+      "format": "JSON"
+    },
+    {
+      "name": "bloombergjapan-2022-10-04T14:21:33.472277+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664860897",
+      "size": "9992",
+      "md5": "1ce490adba68efbf6e7c8b33d3042e59",
+      "crc32": "b9504dd1",
+      "sha1": "9c503d3cbc1cfb8549d4137eb1156982919b90fa",
+      "format": "JSON"
+    },
+    {
+      "name": "bloombergjapan-2022-10-04T14:21:33.472277+09:00.jpg",
+      "source": "original",
+      "mtime": "1664860894",
+      "size": "260649",
+      "md5": "2d330a3be1204206e1d3dfa2bef13c0b",
+      "crc32": "1ec8257f",
+      "sha1": "747d97aeac982f9d64c4c6e154dee154717aaa99",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bloombergjapan-2022-10-04T14:21:33.472277+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664860899",
+      "size": "1501",
+      "md5": "643034ef4e547b8634c8f3432f6f699d",
+      "crc32": "7faa7798",
+      "sha1": "3103b3dc92a6a63a1f6e4603def94b698df70d36",
+      "format": "JSON"
+    },
+    {
+      "name": "bloombergjapan-2022-10-04T14:21:33.472277+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1664860901",
+      "size": "55169",
+      "md5": "2b905aecdad076f0c36c42dc9a21aec1",
+      "crc32": "3ae3d736",
+      "sha1": "a67f908d2aa123dd4b88aec1ee270fb842dc3c39",
+      "format": "JSON"
+    },
+    {
       "name": "bloombergjapan-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f0247c4e7469ecc7f17bdbe7217fa74095eb40a2",
-      "mtime": "1664850367",
-      "size": "262722",
-      "md5": "82eb9503c0f65e274d016ac99c55dbc7",
-      "crc32": "94cf33b6",
-      "sha1": "8bc3a37c8aff1de94a883e71d5f1d8413ad6fbff",
+      "btih": "b1b7a88561c686fff26cbd236c44414f2ede8ba7",
+      "mtime": "1664860952",
+      "size": "264024",
+      "md5": "95f965d34bee5ec8d3198d596a6f7a22",
+      "crc32": "35167f76",
+      "sha1": "ec801cef663956460c3270ea44434b886d87e09d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bloombergjapan-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "08c3005827c3593e5aa1a72420d6bd18",
+      "md5": "12f9ed4c613de7d6fd118bef02c2532c",
       "summation": "md5"
     },
     {
       "name": "bloombergjapan-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664850319",
-      "size": "1556480",
-      "md5": "c30c45f571e7d2ce1918248791fee982",
-      "crc32": "952b2584",
-      "sha1": "f5de4ee2acb058d9a00b85bf11ee010f3522f323",
+      "mtime": "1664860907",
+      "size": "1564672",
+      "md5": "e7e24966d3f1280b91da071be5e52cb5",
+      "crc32": "88d75222",
+      "sha1": "76f5ea8ec5e35900dadf9518a63c6f3c08bcbbaa",
       "format": "Metadata"
     },
     {
@@ -12543,9 +12605,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1213,
-  "item_last_updated": 1664850367,
-  "item_size": 76267104,
+  "files_count": 1219,
+  "item_last_updated": 1664860952,
+  "item_size": 76624749,
   "metadata": {
     "identifier": "bloombergjapan-2022",
     "collection": [
@@ -12567,15 +12629,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3427661359,
+      "task_id": 3427836880,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 520705443,
+  "uniq": 1587955266,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]

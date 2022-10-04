@@ -1,5 +1,6 @@
 {
-  "created": 1664773964,
+  "conflict": 1664864310,
+  "created": 1664864310,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/20/items/callerdotcom-2022",
@@ -1566,31 +1567,144 @@
       "sha1": "7902942b09f749399ba72c5984bc57dd7d7109a5"
     },
     {
+      "name": "callerdotcom-2022-10-03T11:13:17.230046-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664813608",
+      "size": "10169",
+      "md5": "3607bd50441bc9061fe6d3369fa9da3d",
+      "crc32": "4e73a693",
+      "sha1": "a5ab17d2f17c18bcab98c238750531b0c7ab0c6f",
+      "format": "JSON"
+    },
+    {
+      "name": "callerdotcom-2022-10-03T11:13:17.230046-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664813611",
+      "size": "12537",
+      "md5": "3a905e1e7a9cb52a8bb07c850eefc2e8",
+      "crc32": "4b2de653",
+      "sha1": "5885df32c2b5636a66e098af61e87a7dd1d6a767",
+      "format": "JSON"
+    },
+    {
+      "name": "callerdotcom-2022-10-03T11:13:17.230046-05:00.jpg",
+      "source": "original",
+      "mtime": "1664813603",
+      "size": "250994",
+      "md5": "2fd2948687cf4960640a147fc7e94ae2",
+      "crc32": "d9881f01",
+      "sha1": "6e7ac0d6ccbe165faab38a5eee65239cab5afe81",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "callerdotcom-2022-10-03T11:13:17.230046-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664813613",
+      "size": "1459",
+      "md5": "a8df44f309c0cd8bb8b3f7abb69e0748",
+      "crc32": "a4984a91",
+      "sha1": "3e5b327a6473ff1e783616eb7fb6cd5a0ba3a059",
+      "format": "JSON"
+    },
+    {
+      "name": "callerdotcom-2022-10-03T11:13:17.230046-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664813615",
+      "size": "63301",
+      "md5": "f5c9fb301029043500c64035552025df",
+      "crc32": "e0ac5131",
+      "sha1": "072590e51a3973017346d74bb12f7bbedcd9458e",
+      "format": "JSON"
+    },
+    {
+      "name": "callerdotcom-2022-10-03T11:13:17.230046-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "callerdotcom-2022-10-03T11:13:17.230046-05:00.jpg",
+      "mtime": "1664816309",
+      "size": "9227",
+      "md5": "9d4e6706f84f1c809c4137e320071a93",
+      "crc32": "31903bf4",
+      "sha1": "81b030352728fc570690adb062bd779095edcb75"
+    },
+    {
+      "name": "callerdotcom-2022-10-04T00:21:12.651759-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664860879",
+      "size": "11080",
+      "md5": "e45c7982897f971f8670263a1c72f447",
+      "crc32": "84719d32",
+      "sha1": "2fd073b2d8968a0663ea48f91fe6d57dcb408738",
+      "format": "JSON"
+    },
+    {
+      "name": "callerdotcom-2022-10-04T00:21:12.651759-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664860880",
+      "size": "12638",
+      "md5": "2be7500d97a86efc8115489a42995f33",
+      "crc32": "5921e24a",
+      "sha1": "92d0201d2f99fe664cd1c3d075d5f4e66555b6db",
+      "format": "JSON"
+    },
+    {
+      "name": "callerdotcom-2022-10-04T00:21:12.651759-05:00.jpg",
+      "source": "original",
+      "mtime": "1664860877",
+      "size": "280941",
+      "md5": "b03a8fd61350713095cb6faf4322b75a",
+      "crc32": "d16d490f",
+      "sha1": "6d013a50d637db744eba37f996286f3b94910aae",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "callerdotcom-2022-10-04T00:21:12.651759-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664860882",
+      "size": "1459",
+      "md5": "97468cb00a25904a6c385604fe35853d",
+      "crc32": "0da6e22a",
+      "sha1": "a6efcd4b013809e6d688ca0df82c4fb44f439bc8",
+      "format": "JSON"
+    },
+    {
+      "name": "callerdotcom-2022-10-04T00:21:12.651759-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664860884",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "callerdotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5bff637632afbf59b4b565ffaee8ca8f66597b4b",
-      "mtime": "1664773826",
-      "size": "33784",
-      "md5": "bdc4c6bae62300c872041495762d46ad",
-      "crc32": "50a6d44d",
-      "sha1": "af935fd742b80dbce0991ba4ba8a95912b6d91e3",
+      "btih": "61651fc3115232ad1f77389720e0d99a1666eb9d",
+      "mtime": "1664860927",
+      "size": "36156",
+      "md5": "485acc8a091f82e2315706d8bf6363bc",
+      "crc32": "2ec48d50",
+      "sha1": "a9b44594d47c4f466f6293723b48909bf59d374b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "callerdotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c4af914e900cbbabfa5ea1ac7e932af3",
+      "md5": "34103fc4b07b754c62133ab693a9d3fa",
       "summation": "md5"
     },
     {
       "name": "callerdotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664773679",
-      "size": "217088",
-      "md5": "58f172555b61baca5fcd07ff1839dcae",
-      "crc32": "1b38be7d",
-      "sha1": "409ad0d0070237870dccd5df34677b8a3a1e3d0e",
+      "mtime": "1664860891",
+      "size": "229376",
+      "md5": "19856b28fac43aac06a0072514312c54",
+      "crc32": "e60876de",
+      "sha1": "1abac39feed7496384a252f5ec4858cb7e79a5a2",
       "format": "Metadata"
     },
     {
@@ -1604,9 +1718,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 155,
-  "item_last_updated": 1664773826,
-  "item_size": 9887562,
+  "files_count": 166,
+  "item_last_updated": 1664860927,
+  "item_size": 10556229,
   "metadata": {
     "identifier": "callerdotcom-2022",
     "collection": [
@@ -1623,10 +1737,21 @@
     "publicdate": "2022-09-21 04:39:27",
     "addeddate": "2022-09-21 04:39:27"
   },
+  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "uniq": 1840405024,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3427836377,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 621306690,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia601500.us.archive.org"
   ]
 }
