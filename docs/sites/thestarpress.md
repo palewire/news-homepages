@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 26 screenshots with the Internet Archive.
+The archiving routine has saved 27 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thestarpress-2022/thestarpress-2022-10-03T23:46:17.016536-04:00.jpg">
+  <img src="https://archive.org/download/thestarpress-2022/thestarpress-2022-10-03T23:46:17.016536-04:00.jpg"
+     alt="Muncie Star Press at 2022-10-03 23:46:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thestarpress-2022/thestarpress-2022-10-03T23:46:17.016536-04:00.jpg">October 3 at 11:46 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thestarpress-2022/thestarpress-2022-10-03T11:10:04.391960-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thestarpress-2022/thestarpress-2022-09-28T11:04:39.011077-04:00.jpg">September 28 at 11:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thestarpress-2022/thestarpress-2022-09-27T23:50:22.848894-04:00.jpg">
-  <img src="https://archive.org/download/thestarpress-2022/thestarpress-2022-09-27T23:50:22.848894-04:00.jpg"
-     alt="Muncie Star Press at 2022-09-27 23:50:25-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thestarpress-2022/thestarpress-2022-09-27T23:50:22.848894-04:00.jpg">September 27 at 11:50 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 26 hyperlink lists with the Internet Archive.
+The archiving routine has saved 27 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 3 at 11:46 PM](https://archive.org/download/thestarpress-2022/thestarpress-2022-10-03T23:46:17.016536-04:00.hyperlinks.json) |
 | [October 3 at 11:10 AM](https://archive.org/download/thestarpress-2022/thestarpress-2022-10-03T11:10:04.391960-04:00.hyperlinks.json) |
 | [October 2 at 11:39 PM](https://archive.org/download/thestarpress-2022/thestarpress-2022-10-02T23:38:58.601346-04:00.hyperlinks.json) |
 | [October 2 at 11:07 AM](https://archive.org/download/thestarpress-2022/thestarpress-2022-10-02T11:07:52.633427-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 12:19 PM](https://archive.org/download/thestarpress-2022/thestarpress-2022-09-30T12:19:17.087469-04:00.hyperlinks.json) |
 | [September 29 at 11:54 PM](https://archive.org/download/thestarpress-2022/thestarpress-2022-09-29T23:54:11.314459-04:00.hyperlinks.json) |
 | [September 29 at 11:01 AM](https://archive.org/download/thestarpress-2022/thestarpress-2022-09-29T11:01:46.029286-04:00.hyperlinks.json) |
-| [September 28 at 11:43 PM](https://archive.org/download/thestarpress-2022/thestarpress-2022-09-28T23:43:21.147894-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 26 accessibility trees with the Internet Archive.
+The archiving routine has saved 27 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 3 at 11:46 PM](https://archive.org/download/thestarpress-2022/thestarpress-2022-10-03T23:46:17.016536-04:00.accessibility.json) |
 | [October 3 at 11:10 AM](https://archive.org/download/thestarpress-2022/thestarpress-2022-10-03T11:10:04.391960-04:00.accessibility.json) |
 | [October 2 at 11:39 PM](https://archive.org/download/thestarpress-2022/thestarpress-2022-10-02T23:38:58.601346-04:00.accessibility.json) |
 | [October 2 at 11:07 AM](https://archive.org/download/thestarpress-2022/thestarpress-2022-10-02T11:07:52.633427-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 12:19 PM](https://archive.org/download/thestarpress-2022/thestarpress-2022-09-30T12:19:17.087469-04:00.accessibility.json) |
 | [September 29 at 11:54 PM](https://archive.org/download/thestarpress-2022/thestarpress-2022-09-29T23:54:11.314459-04:00.accessibility.json) |
 | [September 29 at 11:01 AM](https://archive.org/download/thestarpress-2022/thestarpress-2022-09-29T11:01:46.029286-04:00.accessibility.json) |
-| [September 28 at 11:43 PM](https://archive.org/download/thestarpress-2022/thestarpress-2022-09-28T23:43:21.147894-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 3 at 11:46 PM](https://archive.org/download/thestarpress-2022/thestarpress-2022-10-03T23:46:17.016536-04:00.lighthouse.json) |
 | [October 3 at 11:10 AM](https://archive.org/download/thestarpress-2022/thestarpress-2022-10-03T11:10:04.391960-04:00.lighthouse.json) |
 | [October 2 at 11:39 PM](https://archive.org/download/thestarpress-2022/thestarpress-2022-10-02T23:38:58.601346-04:00.lighthouse.json) |
 | [October 2 at 11:07 AM](https://archive.org/download/thestarpress-2022/thestarpress-2022-10-02T11:07:52.633427-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 12:19 PM](https://archive.org/download/thestarpress-2022/thestarpress-2022-09-30T12:19:17.087469-04:00.lighthouse.json) |
 | [September 29 at 11:54 PM](https://archive.org/download/thestarpress-2022/thestarpress-2022-09-29T23:54:11.314459-04:00.lighthouse.json) |
 | [September 29 at 11:01 AM](https://archive.org/download/thestarpress-2022/thestarpress-2022-09-29T11:01:46.029286-04:00.lighthouse.json) |
-| [September 28 at 11:43 PM](https://archive.org/download/thestarpress-2022/thestarpress-2022-09-28T23:43:21.147894-04:00.lighthouse.json) |
 
 
 

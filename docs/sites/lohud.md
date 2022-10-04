@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 26 screenshots with the Internet Archive.
+The archiving routine has saved 28 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lohud-2022/lohud-2022-10-04T02:12:24.907430-04:00.jpg">
+  <img src="https://archive.org/download/lohud-2022/lohud-2022-10-04T02:12:24.907430-04:00.jpg"
+     alt="The Westchester County Journal News at 2022-10-04 02:12:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lohud-2022/lohud-2022-10-04T02:12:24.907430-04:00.jpg">October 4 at 2:12 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lohud-2022/lohud-2022-10-03T13:48:34.851424-04:00.jpg">
+  <img src="https://archive.org/download/lohud-2022/lohud-2022-10-03T13:48:34.851424-04:00.jpg"
+     alt="The Westchester County Journal News at 2022-10-03 13:48:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lohud-2022/lohud-2022-10-03T13:48:34.851424-04:00.jpg">October 3 at 1:48 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lohud-2022/lohud-2022-10-03T01:12:47.420981-04:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lohud-2022/lohud-2022-09-28T13:42:25.049236-04:00.jpg">September 28 at 1:42 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lohud-2022/lohud-2022-09-28T02:12:07.441297-04:00.jpg">
-  <img src="https://archive.org/download/lohud-2022/lohud-2022-09-28T02:12:07.441297-04:00.jpg"
-     alt="The Westchester County Journal News at 2022-09-28 02:12:10-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lohud-2022/lohud-2022-09-28T02:12:07.441297-04:00.jpg">September 28 at 2:12 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lohud-2022/lohud-2022-09-27T13:40:04.215519-04:00.jpg">
-  <img src="https://archive.org/download/lohud-2022/lohud-2022-09-27T13:40:04.215519-04:00.jpg"
-     alt="The Westchester County Journal News at 2022-09-27 13:40:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lohud-2022/lohud-2022-09-27T13:40:04.215519-04:00.jpg">September 27 at 1:40 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 26 hyperlink lists with the Internet Archive.
+The archiving routine has saved 28 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 2:12 AM](https://archive.org/download/lohud-2022/lohud-2022-10-04T02:12:24.907430-04:00.hyperlinks.json) |
+| [October 3 at 1:48 PM](https://archive.org/download/lohud-2022/lohud-2022-10-03T13:48:34.851424-04:00.hyperlinks.json) |
 | [October 3 at 1:12 AM](https://archive.org/download/lohud-2022/lohud-2022-10-03T01:12:47.420981-04:00.hyperlinks.json) |
 | [October 2 at 1:32 PM](https://archive.org/download/lohud-2022/lohud-2022-10-02T13:32:15.241718-04:00.hyperlinks.json) |
 | [October 2 at 2:07 AM](https://archive.org/download/lohud-2022/lohud-2022-10-02T02:07:26.997857-04:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 2:17 PM](https://archive.org/download/lohud-2022/lohud-2022-09-30T14:16:59.238905-04:00.hyperlinks.json) |
 | [September 30 at 2:24 AM](https://archive.org/download/lohud-2022/lohud-2022-09-30T02:24:13.864735-04:00.hyperlinks.json) |
 | [September 29 at 1:33 PM](https://archive.org/download/lohud-2022/lohud-2022-09-29T13:33:26.619980-04:00.hyperlinks.json) |
-| [September 29 at 2:05 AM](https://archive.org/download/lohud-2022/lohud-2022-09-29T02:05:25.478371-04:00.hyperlinks.json) |
-| [September 28 at 1:42 PM](https://archive.org/download/lohud-2022/lohud-2022-09-28T13:42:25.049236-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 26 accessibility trees with the Internet Archive.
+The archiving routine has saved 28 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 2:12 AM](https://archive.org/download/lohud-2022/lohud-2022-10-04T02:12:24.907430-04:00.accessibility.json) |
+| [October 3 at 1:48 PM](https://archive.org/download/lohud-2022/lohud-2022-10-03T13:48:34.851424-04:00.accessibility.json) |
 | [October 3 at 1:12 AM](https://archive.org/download/lohud-2022/lohud-2022-10-03T01:12:47.420981-04:00.accessibility.json) |
 | [October 2 at 1:32 PM](https://archive.org/download/lohud-2022/lohud-2022-10-02T13:32:15.241718-04:00.accessibility.json) |
 | [October 2 at 2:07 AM](https://archive.org/download/lohud-2022/lohud-2022-10-02T02:07:26.997857-04:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 2:17 PM](https://archive.org/download/lohud-2022/lohud-2022-09-30T14:16:59.238905-04:00.accessibility.json) |
 | [September 30 at 2:24 AM](https://archive.org/download/lohud-2022/lohud-2022-09-30T02:24:13.864735-04:00.accessibility.json) |
 | [September 29 at 1:33 PM](https://archive.org/download/lohud-2022/lohud-2022-09-29T13:33:26.619980-04:00.accessibility.json) |
-| [September 29 at 2:05 AM](https://archive.org/download/lohud-2022/lohud-2022-09-29T02:05:25.478371-04:00.accessibility.json) |
-| [September 28 at 1:42 PM](https://archive.org/download/lohud-2022/lohud-2022-09-28T13:42:25.049236-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 2:12 AM](https://archive.org/download/lohud-2022/lohud-2022-10-04T02:12:24.907430-04:00.lighthouse.json) |
+| [October 3 at 1:48 PM](https://archive.org/download/lohud-2022/lohud-2022-10-03T13:48:34.851424-04:00.lighthouse.json) |
 | [October 3 at 1:12 AM](https://archive.org/download/lohud-2022/lohud-2022-10-03T01:12:47.420981-04:00.lighthouse.json) |
 | [October 2 at 1:32 PM](https://archive.org/download/lohud-2022/lohud-2022-10-02T13:32:15.241718-04:00.lighthouse.json) |
 | [October 2 at 2:07 AM](https://archive.org/download/lohud-2022/lohud-2022-10-02T02:07:26.997857-04:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 2:17 PM](https://archive.org/download/lohud-2022/lohud-2022-09-30T14:16:59.238905-04:00.lighthouse.json) |
 | [September 30 at 2:24 AM](https://archive.org/download/lohud-2022/lohud-2022-09-30T02:24:13.864735-04:00.lighthouse.json) |
 | [September 29 at 1:33 PM](https://archive.org/download/lohud-2022/lohud-2022-09-29T13:33:26.619980-04:00.lighthouse.json) |
-| [September 29 at 2:05 AM](https://archive.org/download/lohud-2022/lohud-2022-09-29T02:05:25.478371-04:00.lighthouse.json) |
-| [September 28 at 1:42 PM](https://archive.org/download/lohud-2022/lohud-2022-09-28T13:42:25.049236-04:00.lighthouse.json) |
 
 
 

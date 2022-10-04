@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 28 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pjstar-2022/pjstar-2022-10-04T02:45:54.540427-05:00.jpg">
+  <img src="https://archive.org/download/pjstar-2022/pjstar-2022-10-04T02:45:54.540427-05:00.jpg"
+     alt="Peoria Journal Star at 2022-10-04 02:45:58-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pjstar-2022/pjstar-2022-10-04T02:45:54.540427-05:00.jpg">October 4 at 2:45 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pjstar-2022/pjstar-2022-10-03T14:20:26.070668-05:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/pjstar-2022/pjstar-2022-09-28T14:37:54.580846-05:00.jpg">September 28 at 2:37 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/pjstar-2022/pjstar-2022-09-28T02:48:12.745714-05:00.jpg">
-  <img src="https://archive.org/download/pjstar-2022/pjstar-2022-09-28T02:48:12.745714-05:00.jpg"
-     alt="Peoria Journal Star at 2022-09-28 02:48:14-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pjstar-2022/pjstar-2022-09-28T02:48:12.745714-05:00.jpg">September 28 at 2:48 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 26 hyperlink lists with the Internet Archive.
+The archiving routine has saved 27 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 2:46 AM](https://archive.org/download/pjstar-2022/pjstar-2022-10-04T02:45:54.540427-05:00.hyperlinks.json) |
 | [October 3 at 2:20 PM](https://archive.org/download/pjstar-2022/pjstar-2022-10-03T14:20:26.070668-05:00.hyperlinks.json) |
 | [October 3 at 2:37 AM](https://archive.org/download/pjstar-2022/pjstar-2022-10-03T02:37:11.942873-05:00.hyperlinks.json) |
 | [October 2 at 2:07 PM](https://archive.org/download/pjstar-2022/pjstar-2022-10-02T14:07:21.703461-05:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 3:14 PM](https://archive.org/download/pjstar-2022/pjstar-2022-09-30T15:14:11.228010-05:00.hyperlinks.json) |
 | [September 30 at 3:01 AM](https://archive.org/download/pjstar-2022/pjstar-2022-09-30T03:01:53.260250-05:00.hyperlinks.json) |
 | [September 29 at 2:31 PM](https://archive.org/download/pjstar-2022/pjstar-2022-09-29T14:31:01.977025-05:00.hyperlinks.json) |
-| [September 29 at 2:37 AM](https://archive.org/download/pjstar-2022/pjstar-2022-09-29T02:37:15.897558-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 27 accessibility trees with the Internet Archive.
+The archiving routine has saved 28 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 2:45 AM](https://archive.org/download/pjstar-2022/pjstar-2022-10-04T02:45:54.540427-05:00.accessibility.json) |
 | [October 3 at 2:20 PM](https://archive.org/download/pjstar-2022/pjstar-2022-10-03T14:20:26.070668-05:00.accessibility.json) |
 | [October 3 at 2:37 AM](https://archive.org/download/pjstar-2022/pjstar-2022-10-03T02:37:11.942873-05:00.accessibility.json) |
 | [October 2 at 2:07 PM](https://archive.org/download/pjstar-2022/pjstar-2022-10-02T14:07:21.703461-05:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 3:14 PM](https://archive.org/download/pjstar-2022/pjstar-2022-09-30T15:14:11.228010-05:00.accessibility.json) |
 | [September 30 at 3:01 AM](https://archive.org/download/pjstar-2022/pjstar-2022-09-30T03:01:53.260250-05:00.accessibility.json) |
 | [September 29 at 2:31 PM](https://archive.org/download/pjstar-2022/pjstar-2022-09-29T14:31:01.977025-05:00.accessibility.json) |
-| [September 29 at 2:37 AM](https://archive.org/download/pjstar-2022/pjstar-2022-09-29T02:37:15.897558-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 2:46 AM](https://archive.org/download/pjstar-2022/pjstar-2022-10-04T02:45:54.540427-05:00.lighthouse.json) |
 | [October 3 at 2:20 PM](https://archive.org/download/pjstar-2022/pjstar-2022-10-03T14:20:26.070668-05:00.lighthouse.json) |
 | [October 3 at 2:37 AM](https://archive.org/download/pjstar-2022/pjstar-2022-10-03T02:37:11.942873-05:00.lighthouse.json) |
 | [October 2 at 2:07 PM](https://archive.org/download/pjstar-2022/pjstar-2022-10-02T14:07:21.703461-05:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 3:14 PM](https://archive.org/download/pjstar-2022/pjstar-2022-09-30T15:14:11.228010-05:00.lighthouse.json) |
 | [September 29 at 2:31 PM](https://archive.org/download/pjstar-2022/pjstar-2022-09-29T14:31:01.977025-05:00.lighthouse.json) |
 | [September 29 at 2:37 AM](https://archive.org/download/pjstar-2022/pjstar-2022-09-29T02:37:15.897558-05:00.lighthouse.json) |
-| [September 28 at 2:38 PM](https://archive.org/download/pjstar-2022/pjstar-2022-09-28T14:37:54.580846-05:00.lighthouse.json) |
 
 
 

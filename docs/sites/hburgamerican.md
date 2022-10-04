@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 25 screenshots with the Internet Archive.
+The archiving routine has saved 27 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-04T01:04:27.438293-05:00.jpg">
+  <img src="https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-04T01:04:27.438293-05:00.jpg"
+     alt="Hattiesburg American at 2022-10-04 01:04:29-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-04T01:04:27.438293-05:00.jpg">October 4 at 1:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-03T12:45:47.354703-05:00.jpg">
+  <img src="https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-03T12:45:47.354703-05:00.jpg"
+     alt="Hattiesburg American at 2022-10-03 12:45:49-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-03T12:45:47.354703-05:00.jpg">October 3 at 12:45 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-03T00:05:56.842152-05:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/hburgamerican-2022/hburgamerican-2022-09-28T01:09:03.924021-05:00.jpg">September 28 at 1:09 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/hburgamerican-2022/hburgamerican-2022-09-27T12:36:16.112809-05:00.jpg">
-  <img src="https://archive.org/download/hburgamerican-2022/hburgamerican-2022-09-27T12:36:16.112809-05:00.jpg"
-     alt="Hattiesburg American at 2022-09-27 12:36:18-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hburgamerican-2022/hburgamerican-2022-09-27T12:36:16.112809-05:00.jpg">September 27 at 12:36 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/hburgamerican-2022/hburgamerican-2022-09-27T00:40:47.832280-05:00.jpg">
-  <img src="https://archive.org/download/hburgamerican-2022/hburgamerican-2022-09-27T00:40:47.832280-05:00.jpg"
-     alt="Hattiesburg American at 2022-09-27 00:40:50-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hburgamerican-2022/hburgamerican-2022-09-27T00:40:47.832280-05:00.jpg">September 27 at 12:40 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 26 hyperlink lists with the Internet Archive.
+The archiving routine has saved 28 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 1:04 AM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-04T01:04:27.438293-05:00.hyperlinks.json) |
+| [October 3 at 12:45 PM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-03T12:45:47.354703-05:00.hyperlinks.json) |
 | [October 3 at 12:06 AM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-03T00:05:56.842152-05:00.hyperlinks.json) |
 | [October 2 at 12:28 PM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-02T12:28:11.946376-05:00.hyperlinks.json) |
 | [October 2 at 12:59 AM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-02T00:59:12.507204-05:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 1:07 PM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-09-30T13:07:02.965562-05:00.hyperlinks.json) |
 | [September 30 at 1:17 AM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-09-30T01:17:20.307992-05:00.hyperlinks.json) |
 | [September 29 at 12:29 PM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-09-29T12:29:32.500378-05:00.hyperlinks.json) |
-| [September 29 at 1:01 AM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-09-29T01:01:43.387080-05:00.hyperlinks.json) |
-| [September 28 at 12:38 PM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-09-28T12:38:39.395691-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 26 accessibility trees with the Internet Archive.
+The archiving routine has saved 28 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 1:04 AM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-04T01:04:27.438293-05:00.accessibility.json) |
+| [October 3 at 12:45 PM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-03T12:45:47.354703-05:00.accessibility.json) |
 | [October 3 at 12:06 AM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-03T00:05:56.842152-05:00.accessibility.json) |
 | [October 2 at 12:28 PM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-02T12:28:11.946376-05:00.accessibility.json) |
 | [October 2 at 12:59 AM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-02T00:59:12.507204-05:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 1:07 PM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-09-30T13:07:02.965562-05:00.accessibility.json) |
 | [September 30 at 1:17 AM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-09-30T01:17:20.307992-05:00.accessibility.json) |
 | [September 29 at 12:29 PM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-09-29T12:29:32.500378-05:00.accessibility.json) |
-| [September 29 at 1:01 AM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-09-29T01:01:43.387080-05:00.accessibility.json) |
-| [September 28 at 12:38 PM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-09-28T12:38:39.395691-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 1:04 AM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-04T01:04:27.438293-05:00.lighthouse.json) |
+| [October 3 at 12:45 PM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-03T12:45:47.354703-05:00.lighthouse.json) |
 | [October 3 at 12:06 AM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-03T00:05:56.842152-05:00.lighthouse.json) |
 | [October 2 at 12:28 PM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-02T12:28:11.946376-05:00.lighthouse.json) |
 | [October 2 at 12:59 AM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-02T00:59:12.507204-05:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 1:07 PM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-09-30T13:07:02.965562-05:00.lighthouse.json) |
 | [September 30 at 1:17 AM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-09-30T01:17:20.307992-05:00.lighthouse.json) |
 | [September 29 at 12:29 PM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-09-29T12:29:32.500378-05:00.lighthouse.json) |
-| [September 29 at 1:01 AM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-09-29T01:01:43.387080-05:00.lighthouse.json) |
-| [September 28 at 12:38 PM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-09-28T12:38:39.395691-05:00.lighthouse.json) |
 
 
 

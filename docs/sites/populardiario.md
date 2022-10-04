@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 110 screenshots with the Internet Archive.
+The archiving routine has saved 111 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 110 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/populardiario-2022/populardiario-2022-10-04T04:46:17.096891-03:00.jpg">
+  <img src="https://archive.org/download/populardiario-2022/populardiario-2022-10-04T04:46:17.096891-03:00.jpg"
+     alt="Diario Popular at 2022-10-04 04:46:18-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/populardiario-2022/populardiario-2022-10-04T04:46:17.096891-03:00.jpg">October 4 at 4:46 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/populardiario-2022/populardiario-2022-10-03T16:21:41.245469-03:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/populardiario-2022/populardiario-2022-09-28T16:37:52.555062-03:00.jpg">September 28 at 4:38 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/populardiario-2022/populardiario-2022-09-28T04:49:25.740016-03:00.jpg">
-  <img src="https://archive.org/download/populardiario-2022/populardiario-2022-09-28T04:49:25.740016-03:00.jpg"
-     alt="Diario Popular at 2022-09-28 04:49:31-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/populardiario-2022/populardiario-2022-09-28T04:49:25.740016-03:00.jpg">September 28 at 4:49 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 110 hyperlink lists with the Internet Archive.
+The archiving routine has saved 111 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 4:46 AM](https://archive.org/download/populardiario-2022/populardiario-2022-10-04T04:46:17.096891-03:00.hyperlinks.json) |
 | [October 3 at 4:21 PM](https://archive.org/download/populardiario-2022/populardiario-2022-10-03T16:21:41.245469-03:00.hyperlinks.json) |
 | [October 3 at 4:38 AM](https://archive.org/download/populardiario-2022/populardiario-2022-10-03T04:38:09.074533-03:00.hyperlinks.json) |
 | [October 2 at 4:07 PM](https://archive.org/download/populardiario-2022/populardiario-2022-10-02T16:07:02.543188-03:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 5:14 PM](https://archive.org/download/populardiario-2022/populardiario-2022-09-30T17:14:34.977045-03:00.hyperlinks.json) |
 | [September 30 at 5:01 AM](https://archive.org/download/populardiario-2022/populardiario-2022-09-30T05:01:30.718037-03:00.hyperlinks.json) |
 | [September 29 at 4:31 PM](https://archive.org/download/populardiario-2022/populardiario-2022-09-29T16:30:54.090423-03:00.hyperlinks.json) |
-| [September 29 at 4:37 AM](https://archive.org/download/populardiario-2022/populardiario-2022-09-29T04:37:07.498109-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 110 accessibility trees with the Internet Archive.
+The archiving routine has saved 111 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 4:46 AM](https://archive.org/download/populardiario-2022/populardiario-2022-10-04T04:46:17.096891-03:00.accessibility.json) |
 | [October 3 at 4:21 PM](https://archive.org/download/populardiario-2022/populardiario-2022-10-03T16:21:41.245469-03:00.accessibility.json) |
 | [October 3 at 4:38 AM](https://archive.org/download/populardiario-2022/populardiario-2022-10-03T04:38:09.074533-03:00.accessibility.json) |
 | [October 2 at 4:07 PM](https://archive.org/download/populardiario-2022/populardiario-2022-10-02T16:07:02.543188-03:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 5:14 PM](https://archive.org/download/populardiario-2022/populardiario-2022-09-30T17:14:34.977045-03:00.accessibility.json) |
 | [September 30 at 5:01 AM](https://archive.org/download/populardiario-2022/populardiario-2022-09-30T05:01:30.718037-03:00.accessibility.json) |
 | [September 29 at 4:31 PM](https://archive.org/download/populardiario-2022/populardiario-2022-09-29T16:30:54.090423-03:00.accessibility.json) |
-| [September 29 at 4:37 AM](https://archive.org/download/populardiario-2022/populardiario-2022-09-29T04:37:07.498109-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 110 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 111 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 4:46 AM](https://archive.org/download/populardiario-2022/populardiario-2022-10-04T04:46:17.096891-03:00.lighthouse.json) |
 | [October 3 at 4:21 PM](https://archive.org/download/populardiario-2022/populardiario-2022-10-03T16:21:41.245469-03:00.lighthouse.json) |
 | [October 3 at 4:38 AM](https://archive.org/download/populardiario-2022/populardiario-2022-10-03T04:38:09.074533-03:00.lighthouse.json) |
 | [October 2 at 4:07 PM](https://archive.org/download/populardiario-2022/populardiario-2022-10-02T16:07:02.543188-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 5:14 PM](https://archive.org/download/populardiario-2022/populardiario-2022-09-30T17:14:34.977045-03:00.lighthouse.json) |
 | [September 30 at 5:01 AM](https://archive.org/download/populardiario-2022/populardiario-2022-09-30T05:01:30.718037-03:00.lighthouse.json) |
 | [September 29 at 4:31 PM](https://archive.org/download/populardiario-2022/populardiario-2022-09-29T16:30:54.090423-03:00.lighthouse.json) |
-| [September 29 at 4:37 AM](https://archive.org/download/populardiario-2022/populardiario-2022-09-29T04:37:07.498109-03:00.lighthouse.json) |
 
 
 

@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 28 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/coshtribune-2022/coshtribune-2022-10-04T02:58:05.454332-04:00.jpg">
+  <img src="https://archive.org/download/coshtribune-2022/coshtribune-2022-10-04T02:58:05.454332-04:00.jpg"
+     alt="Coshocton Tribune at 2022-10-04 02:58:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/coshtribune-2022/coshtribune-2022-10-04T02:58:05.454332-04:00.jpg">October 4 at 2:58 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/coshtribune-2022/coshtribune-2022-10-03T13:53:19.035885-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/coshtribune-2022/coshtribune-2022-09-28T13:46:07.735921-04:00.jpg">September 28 at 1:46 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/coshtribune-2022/coshtribune-2022-09-28T02:14:33.713359-04:00.jpg">
-  <img src="https://archive.org/download/coshtribune-2022/coshtribune-2022-09-28T02:14:33.713359-04:00.jpg"
-     alt="Coshocton Tribune at 2022-09-28 02:14:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/coshtribune-2022/coshtribune-2022-09-28T02:14:33.713359-04:00.jpg">September 28 at 2:14 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 27 hyperlink lists with the Internet Archive.
+The archiving routine has saved 28 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 2:58 AM](https://archive.org/download/coshtribune-2022/coshtribune-2022-10-04T02:58:05.454332-04:00.hyperlinks.json) |
 | [October 3 at 1:53 PM](https://archive.org/download/coshtribune-2022/coshtribune-2022-10-03T13:53:19.035885-04:00.hyperlinks.json) |
 | [October 3 at 1:56 AM](https://archive.org/download/coshtribune-2022/coshtribune-2022-10-03T01:56:23.199050-04:00.hyperlinks.json) |
 | [October 2 at 1:34 PM](https://archive.org/download/coshtribune-2022/coshtribune-2022-10-02T13:34:30.536192-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 2:24 PM](https://archive.org/download/coshtribune-2022/coshtribune-2022-09-30T14:24:38.760613-04:00.hyperlinks.json) |
 | [September 30 at 2:31 AM](https://archive.org/download/coshtribune-2022/coshtribune-2022-09-30T02:31:17.463192-04:00.hyperlinks.json) |
 | [September 29 at 1:36 PM](https://archive.org/download/coshtribune-2022/coshtribune-2022-09-29T13:36:12.063086-04:00.hyperlinks.json) |
-| [September 29 at 2:08 AM](https://archive.org/download/coshtribune-2022/coshtribune-2022-09-29T02:08:11.816064-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 27 accessibility trees with the Internet Archive.
+The archiving routine has saved 28 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 2:58 AM](https://archive.org/download/coshtribune-2022/coshtribune-2022-10-04T02:58:05.454332-04:00.accessibility.json) |
 | [October 3 at 1:53 PM](https://archive.org/download/coshtribune-2022/coshtribune-2022-10-03T13:53:19.035885-04:00.accessibility.json) |
 | [October 3 at 1:56 AM](https://archive.org/download/coshtribune-2022/coshtribune-2022-10-03T01:56:23.199050-04:00.accessibility.json) |
 | [October 2 at 1:34 PM](https://archive.org/download/coshtribune-2022/coshtribune-2022-10-02T13:34:30.536192-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 2:24 PM](https://archive.org/download/coshtribune-2022/coshtribune-2022-09-30T14:24:38.760613-04:00.accessibility.json) |
 | [September 30 at 2:31 AM](https://archive.org/download/coshtribune-2022/coshtribune-2022-09-30T02:31:17.463192-04:00.accessibility.json) |
 | [September 29 at 1:36 PM](https://archive.org/download/coshtribune-2022/coshtribune-2022-09-29T13:36:12.063086-04:00.accessibility.json) |
-| [September 29 at 2:08 AM](https://archive.org/download/coshtribune-2022/coshtribune-2022-09-29T02:08:11.816064-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 2:58 AM](https://archive.org/download/coshtribune-2022/coshtribune-2022-10-04T02:58:05.454332-04:00.lighthouse.json) |
 | [October 3 at 1:53 PM](https://archive.org/download/coshtribune-2022/coshtribune-2022-10-03T13:53:19.035885-04:00.lighthouse.json) |
 | [October 3 at 1:56 AM](https://archive.org/download/coshtribune-2022/coshtribune-2022-10-03T01:56:23.199050-04:00.lighthouse.json) |
 | [October 2 at 1:34 PM](https://archive.org/download/coshtribune-2022/coshtribune-2022-10-02T13:34:30.536192-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 2:25 PM](https://archive.org/download/coshtribune-2022/coshtribune-2022-09-30T14:24:38.760613-04:00.lighthouse.json) |
 | [September 30 at 2:31 AM](https://archive.org/download/coshtribune-2022/coshtribune-2022-09-30T02:31:17.463192-04:00.lighthouse.json) |
 | [September 29 at 1:36 PM](https://archive.org/download/coshtribune-2022/coshtribune-2022-09-29T13:36:12.063086-04:00.lighthouse.json) |
-| [September 29 at 2:08 AM](https://archive.org/download/coshtribune-2022/coshtribune-2022-09-29T02:08:11.816064-04:00.lighthouse.json) |
 
 
 

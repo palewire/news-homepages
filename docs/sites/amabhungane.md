@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 80 screenshots with the Internet Archive.
+The archiving routine has saved 82 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/amabhungane-2022/amabhungane-2022-10-04T07:19:04.563410+02:00.jpg">
+  <img src="https://archive.org/download/amabhungane-2022/amabhungane-2022-10-04T07:19:04.563410+02:00.jpg"
+     alt="amaBhungane at 2022-10-04 07:19:08+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/amabhungane-2022/amabhungane-2022-10-04T07:19:04.563410+02:00.jpg">October 4 at 7:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/amabhungane-2022/amabhungane-2022-10-03T18:11:44.603200+02:00.jpg">
+  <img src="https://archive.org/download/amabhungane-2022/amabhungane-2022-10-03T18:11:44.603200+02:00.jpg"
+     alt="amaBhungane at 2022-10-03 18:11:50+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/amabhungane-2022/amabhungane-2022-10-03T18:11:44.603200+02:00.jpg">October 3 at 6:11 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/amabhungane-2022/amabhungane-2022-10-03T07:00:29.294193+02:00.jpg">
   <img src="https://archive.org/download/amabhungane-2022/amabhungane-2022-10-03T07:00:29.294193+02:00.jpg"
      alt="amaBhungane at 2022-10-03 07:00:31+02:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/amabhungane-2022/amabhungane-2022-09-28T18:11:33.829516+02:00.jpg">September 28 at 6:11 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/amabhungane-2022/amabhungane-2022-09-28T08:02:04.129732+02:00.jpg">
-  <img src="https://archive.org/download/amabhungane-2022/amabhungane-2022-09-28T08:02:04.129732+02:00.jpg"
-     alt="amaBhungane at 2022-09-28 08:02:07+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/amabhungane-2022/amabhungane-2022-09-28T08:02:04.129732+02:00.jpg">September 28 at 8:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/amabhungane-2022/amabhungane-2022-09-27T18:04:34.079767+02:00.jpg">
-  <img src="https://archive.org/download/amabhungane-2022/amabhungane-2022-09-27T18:04:34.079767+02:00.jpg"
-     alt="amaBhungane at 2022-09-27 18:04:36+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/amabhungane-2022/amabhungane-2022-09-27T18:04:34.079767+02:00.jpg">September 27 at 6:04 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 80 hyperlink lists with the Internet Archive.
+The archiving routine has saved 82 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 7:19 AM](https://archive.org/download/amabhungane-2022/amabhungane-2022-10-04T07:19:04.563410+02:00.hyperlinks.json) |
+| [October 3 at 6:11 PM](https://archive.org/download/amabhungane-2022/amabhungane-2022-10-03T18:11:44.603200+02:00.hyperlinks.json) |
 | [October 3 at 7:00 AM](https://archive.org/download/amabhungane-2022/amabhungane-2022-10-03T07:00:29.294193+02:00.hyperlinks.json) |
 | [October 2 at 6:01 PM](https://archive.org/download/amabhungane-2022/amabhungane-2022-10-02T18:01:32.938916+02:00.hyperlinks.json) |
 | [October 2 at 7:47 AM](https://archive.org/download/amabhungane-2022/amabhungane-2022-10-02T07:47:08.295907+02:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 6:25 PM](https://archive.org/download/amabhungane-2022/amabhungane-2022-09-30T18:25:37.938995+02:00.hyperlinks.json) |
 | [September 30 at 8:10 AM](https://archive.org/download/amabhungane-2022/amabhungane-2022-09-30T08:09:50.363103+02:00.hyperlinks.json) |
 | [September 29 at 6:05 PM](https://archive.org/download/amabhungane-2022/amabhungane-2022-09-29T18:05:30.493537+02:00.hyperlinks.json) |
-| [September 29 at 7:16 AM](https://archive.org/download/amabhungane-2022/amabhungane-2022-09-29T07:15:56.756181+02:00.hyperlinks.json) |
-| [September 28 at 6:11 PM](https://archive.org/download/amabhungane-2022/amabhungane-2022-09-28T18:11:33.829516+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 80 accessibility trees with the Internet Archive.
+The archiving routine has saved 82 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 7:19 AM](https://archive.org/download/amabhungane-2022/amabhungane-2022-10-04T07:19:04.563410+02:00.accessibility.json) |
+| [October 3 at 6:11 PM](https://archive.org/download/amabhungane-2022/amabhungane-2022-10-03T18:11:44.603200+02:00.accessibility.json) |
 | [October 3 at 7:00 AM](https://archive.org/download/amabhungane-2022/amabhungane-2022-10-03T07:00:29.294193+02:00.accessibility.json) |
 | [October 2 at 6:01 PM](https://archive.org/download/amabhungane-2022/amabhungane-2022-10-02T18:01:32.938916+02:00.accessibility.json) |
 | [October 2 at 7:47 AM](https://archive.org/download/amabhungane-2022/amabhungane-2022-10-02T07:47:08.295907+02:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 6:25 PM](https://archive.org/download/amabhungane-2022/amabhungane-2022-09-30T18:25:37.938995+02:00.accessibility.json) |
 | [September 30 at 8:10 AM](https://archive.org/download/amabhungane-2022/amabhungane-2022-09-30T08:09:50.363103+02:00.accessibility.json) |
 | [September 29 at 6:05 PM](https://archive.org/download/amabhungane-2022/amabhungane-2022-09-29T18:05:30.493537+02:00.accessibility.json) |
-| [September 29 at 7:16 AM](https://archive.org/download/amabhungane-2022/amabhungane-2022-09-29T07:15:56.756181+02:00.accessibility.json) |
-| [September 28 at 6:11 PM](https://archive.org/download/amabhungane-2022/amabhungane-2022-09-28T18:11:33.829516+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 80 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 82 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 7:19 AM](https://archive.org/download/amabhungane-2022/amabhungane-2022-10-04T07:19:04.563410+02:00.lighthouse.json) |
+| [October 3 at 6:12 PM](https://archive.org/download/amabhungane-2022/amabhungane-2022-10-03T18:11:44.603200+02:00.lighthouse.json) |
 | [October 3 at 7:00 AM](https://archive.org/download/amabhungane-2022/amabhungane-2022-10-03T07:00:29.294193+02:00.lighthouse.json) |
 | [October 2 at 6:01 PM](https://archive.org/download/amabhungane-2022/amabhungane-2022-10-02T18:01:32.938916+02:00.lighthouse.json) |
 | [October 2 at 7:47 AM](https://archive.org/download/amabhungane-2022/amabhungane-2022-10-02T07:47:08.295907+02:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 6:25 PM](https://archive.org/download/amabhungane-2022/amabhungane-2022-09-30T18:25:37.938995+02:00.lighthouse.json) |
 | [September 30 at 8:10 AM](https://archive.org/download/amabhungane-2022/amabhungane-2022-09-30T08:09:50.363103+02:00.lighthouse.json) |
 | [September 29 at 6:05 PM](https://archive.org/download/amabhungane-2022/amabhungane-2022-09-29T18:05:30.493537+02:00.lighthouse.json) |
-| [September 29 at 7:16 AM](https://archive.org/download/amabhungane-2022/amabhungane-2022-09-29T07:15:56.756181+02:00.lighthouse.json) |
-| [September 28 at 6:11 PM](https://archive.org/download/amabhungane-2022/amabhungane-2022-09-28T18:11:33.829516+02:00.lighthouse.json) |
 
 
 

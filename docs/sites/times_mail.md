@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 25 screenshots with the Internet Archive.
+The archiving routine has saved 26 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/times_mail-2022/times_mail-2022-10-03T23:49:05.924068-04:00.jpg">
+  <img src="https://archive.org/download/times_mail-2022/times_mail-2022-10-03T23:49:05.924068-04:00.jpg"
+     alt="Times Mail at 2022-10-03 23:49:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/times_mail-2022/times_mail-2022-10-03T23:49:05.924068-04:00.jpg">October 3 at 11:49 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/times_mail-2022/times_mail-2022-10-03T11:12:13.370001-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/times_mail-2022/times_mail-2022-09-28T11:05:31.367615-04:00.jpg">September 28 at 11:05 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/times_mail-2022/times_mail-2022-09-27T23:53:10.404155-04:00.jpg">
-  <img src="https://archive.org/download/times_mail-2022/times_mail-2022-09-27T23:53:10.404155-04:00.jpg"
-     alt="Times Mail at 2022-09-27 23:53:12-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/times_mail-2022/times_mail-2022-09-27T23:53:10.404155-04:00.jpg">September 27 at 11:53 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 26 hyperlink lists with the Internet Archive.
+The archiving routine has saved 27 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 3 at 11:49 PM](https://archive.org/download/times_mail-2022/times_mail-2022-10-03T23:49:05.924068-04:00.hyperlinks.json) |
 | [October 3 at 11:12 AM](https://archive.org/download/times_mail-2022/times_mail-2022-10-03T11:12:13.370001-04:00.hyperlinks.json) |
 | [October 2 at 11:41 PM](https://archive.org/download/times_mail-2022/times_mail-2022-10-02T23:41:46.901676-04:00.hyperlinks.json) |
 | [October 2 at 11:11 AM](https://archive.org/download/times_mail-2022/times_mail-2022-10-02T11:11:13.712015-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 12:20 PM](https://archive.org/download/times_mail-2022/times_mail-2022-09-30T12:20:26.624549-04:00.hyperlinks.json) |
 | [September 29 at 11:57 PM](https://archive.org/download/times_mail-2022/times_mail-2022-09-29T23:56:57.976137-04:00.hyperlinks.json) |
 | [September 29 at 11:02 AM](https://archive.org/download/times_mail-2022/times_mail-2022-09-29T11:02:53.120296-04:00.hyperlinks.json) |
-| [September 28 at 11:45 PM](https://archive.org/download/times_mail-2022/times_mail-2022-09-28T23:45:39.985824-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 26 accessibility trees with the Internet Archive.
+The archiving routine has saved 27 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 3 at 11:49 PM](https://archive.org/download/times_mail-2022/times_mail-2022-10-03T23:49:05.924068-04:00.accessibility.json) |
 | [October 3 at 11:12 AM](https://archive.org/download/times_mail-2022/times_mail-2022-10-03T11:12:13.370001-04:00.accessibility.json) |
 | [October 2 at 11:41 PM](https://archive.org/download/times_mail-2022/times_mail-2022-10-02T23:41:46.901676-04:00.accessibility.json) |
 | [October 2 at 11:11 AM](https://archive.org/download/times_mail-2022/times_mail-2022-10-02T11:11:13.712015-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 12:20 PM](https://archive.org/download/times_mail-2022/times_mail-2022-09-30T12:20:26.624549-04:00.accessibility.json) |
 | [September 29 at 11:57 PM](https://archive.org/download/times_mail-2022/times_mail-2022-09-29T23:56:57.976137-04:00.accessibility.json) |
 | [September 29 at 11:02 AM](https://archive.org/download/times_mail-2022/times_mail-2022-09-29T11:02:53.120296-04:00.accessibility.json) |
-| [September 28 at 11:45 PM](https://archive.org/download/times_mail-2022/times_mail-2022-09-28T23:45:39.985824-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 3 at 11:49 PM](https://archive.org/download/times_mail-2022/times_mail-2022-10-03T23:49:05.924068-04:00.lighthouse.json) |
 | [October 3 at 11:12 AM](https://archive.org/download/times_mail-2022/times_mail-2022-10-03T11:12:13.370001-04:00.lighthouse.json) |
 | [October 2 at 11:41 PM](https://archive.org/download/times_mail-2022/times_mail-2022-10-02T23:41:46.901676-04:00.lighthouse.json) |
 | [October 2 at 11:11 AM](https://archive.org/download/times_mail-2022/times_mail-2022-10-02T11:11:13.712015-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 12:20 PM](https://archive.org/download/times_mail-2022/times_mail-2022-09-30T12:20:26.624549-04:00.lighthouse.json) |
 | [September 29 at 11:57 PM](https://archive.org/download/times_mail-2022/times_mail-2022-09-29T23:56:57.976137-04:00.lighthouse.json) |
 | [September 29 at 11:03 AM](https://archive.org/download/times_mail-2022/times_mail-2022-09-29T11:02:53.120296-04:00.lighthouse.json) |
-| [September 28 at 11:45 PM](https://archive.org/download/times_mail-2022/times_mail-2022-09-28T23:45:39.985824-04:00.lighthouse.json) |
 
 
 

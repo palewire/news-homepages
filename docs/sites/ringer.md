@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 237 screenshots with the Internet Archive.
+The archiving routine has saved 238 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 237 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ringer-2022/ringer-2022-10-04T00:48:35.862186-07:00.jpg">
+  <img src="https://archive.org/download/ringer-2022/ringer-2022-10-04T00:48:35.862186-07:00.jpg"
+     alt="Ringer at 2022-10-04 00:48:37-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ringer-2022/ringer-2022-10-04T00:48:35.862186-07:00.jpg">October 4 at 12:48 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ringer-2022/ringer-2022-10-03T12:22:00.610792-07:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ringer-2022/ringer-2022-09-28T12:39:39.922310-07:00.jpg">September 28 at 12:39 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ringer-2022/ringer-2022-09-28T00:49:56.528703-07:00.jpg">
-  <img src="https://archive.org/download/ringer-2022/ringer-2022-09-28T00:49:56.528703-07:00.jpg"
-     alt="Ringer at 2022-09-28 00:49:58-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ringer-2022/ringer-2022-09-28T00:49:56.528703-07:00.jpg">September 28 at 12:49 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 236 hyperlink lists with the Internet Archive.
+The archiving routine has saved 237 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 12:48 AM](https://archive.org/download/ringer-2022/ringer-2022-10-04T00:48:35.862186-07:00.hyperlinks.json) |
 | [October 3 at 12:22 PM](https://archive.org/download/ringer-2022/ringer-2022-10-03T12:22:00.610792-07:00.hyperlinks.json) |
 | [October 2 at 12:10 PM](https://archive.org/download/ringer-2022/ringer-2022-10-02T12:10:23.667384-07:00.hyperlinks.json) |
 | [October 2 at 12:24 AM](https://archive.org/download/ringer-2022/ringer-2022-10-02T00:23:59.762433-07:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 1:04 AM](https://archive.org/download/ringer-2022/ringer-2022-09-30T01:04:10.836675-07:00.hyperlinks.json) |
 | [September 29 at 12:34 PM](https://archive.org/download/ringer-2022/ringer-2022-09-29T12:34:08.446608-07:00.hyperlinks.json) |
 | [September 29 at 12:38 AM](https://archive.org/download/ringer-2022/ringer-2022-09-29T00:38:42.263382-07:00.hyperlinks.json) |
-| [September 28 at 12:39 PM](https://archive.org/download/ringer-2022/ringer-2022-09-28T12:39:39.922310-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 236 accessibility trees with the Internet Archive.
+The archiving routine has saved 237 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 12:48 AM](https://archive.org/download/ringer-2022/ringer-2022-10-04T00:48:35.862186-07:00.accessibility.json) |
 | [October 3 at 12:22 PM](https://archive.org/download/ringer-2022/ringer-2022-10-03T12:22:00.610792-07:00.accessibility.json) |
 | [October 3 at 12:38 AM](https://archive.org/download/ringer-2022/ringer-2022-10-03T00:38:45.259366-07:00.accessibility.json) |
 | [October 2 at 12:10 PM](https://archive.org/download/ringer-2022/ringer-2022-10-02T12:10:23.667384-07:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 1:16 PM](https://archive.org/download/ringer-2022/ringer-2022-09-30T13:16:47.563017-07:00.accessibility.json) |
 | [September 30 at 1:04 AM](https://archive.org/download/ringer-2022/ringer-2022-09-30T01:04:10.836675-07:00.accessibility.json) |
 | [September 29 at 12:34 PM](https://archive.org/download/ringer-2022/ringer-2022-09-29T12:34:08.446608-07:00.accessibility.json) |
-| [September 29 at 12:38 AM](https://archive.org/download/ringer-2022/ringer-2022-09-29T00:38:42.263382-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 143 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 144 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 12:48 AM](https://archive.org/download/ringer-2022/ringer-2022-10-04T00:48:35.862186-07:00.lighthouse.json) |
 | [October 3 at 12:22 PM](https://archive.org/download/ringer-2022/ringer-2022-10-03T12:22:00.610792-07:00.lighthouse.json) |
 | [October 3 at 12:38 AM](https://archive.org/download/ringer-2022/ringer-2022-10-03T00:38:45.259366-07:00.lighthouse.json) |
 | [October 2 at 12:10 PM](https://archive.org/download/ringer-2022/ringer-2022-10-02T12:10:23.667384-07:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 1:16 PM](https://archive.org/download/ringer-2022/ringer-2022-09-30T13:16:47.563017-07:00.lighthouse.json) |
 | [September 30 at 1:04 AM](https://archive.org/download/ringer-2022/ringer-2022-09-30T01:04:10.836675-07:00.lighthouse.json) |
 | [September 29 at 12:34 PM](https://archive.org/download/ringer-2022/ringer-2022-09-29T12:34:08.446608-07:00.lighthouse.json) |
-| [September 29 at 12:38 AM](https://archive.org/download/ringer-2022/ringer-2022-09-29T00:38:42.263382-07:00.lighthouse.json) |
 
 
 

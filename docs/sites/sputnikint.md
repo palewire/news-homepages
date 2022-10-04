@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 236 screenshots with the Internet Archive.
+The archiving routine has saved 238 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-10-04T10:58:24.270717+03:00.jpg">
+  <img src="https://archive.org/download/sputnikint-2022/sputnikint-2022-10-04T10:58:24.270717+03:00.jpg"
+     alt="Sputnik at 2022-10-04 10:58:26+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-10-04T10:58:24.270717+03:00.jpg">October 4 at 10:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-10-04T06:40:14.825255+03:00.jpg">
+  <img src="https://archive.org/download/sputnikint-2022/sputnikint-2022-10-04T06:40:14.825255+03:00.jpg"
+     alt="Sputnik at 2022-10-04 06:40:16+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-10-04T06:40:14.825255+03:00.jpg">October 4 at 6:40 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-10-03T18:07:52.100919+03:00.jpg">
   <img src="https://archive.org/download/sputnikint-2022/sputnikint-2022-10-03T18:07:52.100919+03:00.jpg"
      alt="Sputnik at 2022-10-03 18:07:57+03:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-09-30T19:14:08.975695+03:00.jpg">September 30 at 7:14 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-09-30T11:06:49.797024+03:00.jpg">
-  <img src="https://archive.org/download/sputnikint-2022/sputnikint-2022-09-30T11:06:49.797024+03:00.jpg"
-     alt="Sputnik at 2022-09-30 11:06:51+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-09-30T11:06:49.797024+03:00.jpg">September 30 at 11:06 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-09-30T06:51:46.450984+03:00.jpg">
-  <img src="https://archive.org/download/sputnikint-2022/sputnikint-2022-09-30T06:51:46.450984+03:00.jpg"
-     alt="Sputnik at 2022-09-30 06:51:47+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-09-30T06:51:46.450984+03:00.jpg">September 30 at 6:51 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 237 hyperlink lists with the Internet Archive.
+The archiving routine has saved 239 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 10:58 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-10-04T10:58:24.270717+03:00.hyperlinks.json) |
+| [October 4 at 6:40 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-10-04T06:40:14.825255+03:00.hyperlinks.json) |
 | [October 3 at 6:08 PM](https://archive.org/download/sputnikint-2022/sputnikint-2022-10-03T18:07:52.100919+03:00.hyperlinks.json) |
 | [October 3 at 10:34 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-10-03T10:34:11.287510+03:00.hyperlinks.json) |
 | [October 3 at 6:36 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-10-03T06:36:27.970640+03:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 2 at 6:42 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-10-02T06:41:59.945124+03:00.hyperlinks.json) |
 | [October 1 at 6:01 PM](https://archive.org/download/sputnikint-2022/sputnikint-2022-10-01T18:01:23.631155+03:00.hyperlinks.json) |
 | [October 1 at 11:00 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-10-01T11:00:41.969014+03:00.hyperlinks.json) |
-| [October 1 at 6:50 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-10-01T06:50:35.905482+03:00.hyperlinks.json) |
-| [September 30 at 7:14 PM](https://archive.org/download/sputnikint-2022/sputnikint-2022-09-30T19:14:08.975695+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 237 accessibility trees with the Internet Archive.
+The archiving routine has saved 239 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 10:58 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-10-04T10:58:24.270717+03:00.accessibility.json) |
+| [October 4 at 6:40 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-10-04T06:40:14.825255+03:00.accessibility.json) |
 | [October 3 at 6:07 PM](https://archive.org/download/sputnikint-2022/sputnikint-2022-10-03T18:07:52.100919+03:00.accessibility.json) |
 | [October 3 at 10:34 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-10-03T10:34:11.287510+03:00.accessibility.json) |
 | [October 3 at 6:36 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-10-03T06:36:27.970640+03:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 2 at 6:42 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-10-02T06:41:59.945124+03:00.accessibility.json) |
 | [October 1 at 6:01 PM](https://archive.org/download/sputnikint-2022/sputnikint-2022-10-01T18:01:23.631155+03:00.accessibility.json) |
 | [October 1 at 11:00 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-10-01T11:00:41.969014+03:00.accessibility.json) |
-| [October 1 at 6:50 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-10-01T06:50:35.905482+03:00.accessibility.json) |
-| [September 30 at 7:14 PM](https://archive.org/download/sputnikint-2022/sputnikint-2022-09-30T19:14:08.975695+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 211 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 213 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 10:58 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-10-04T10:58:24.270717+03:00.lighthouse.json) |
+| [October 4 at 6:40 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-10-04T06:40:14.825255+03:00.lighthouse.json) |
 | [October 3 at 6:08 PM](https://archive.org/download/sputnikint-2022/sputnikint-2022-10-03T18:07:52.100919+03:00.lighthouse.json) |
 | [October 3 at 10:34 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-10-03T10:34:11.287510+03:00.lighthouse.json) |
 | [October 3 at 6:36 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-10-03T06:36:27.970640+03:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 2 at 6:42 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-10-02T06:41:59.945124+03:00.lighthouse.json) |
 | [October 1 at 6:01 PM](https://archive.org/download/sputnikint-2022/sputnikint-2022-10-01T18:01:23.631155+03:00.lighthouse.json) |
 | [October 1 at 11:00 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-10-01T11:00:41.969014+03:00.lighthouse.json) |
-| [October 1 at 6:50 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-10-01T06:50:35.905482+03:00.lighthouse.json) |
-| [September 30 at 7:14 PM](https://archive.org/download/sputnikint-2022/sputnikint-2022-09-30T19:14:08.975695+03:00.lighthouse.json) |
 
 
 

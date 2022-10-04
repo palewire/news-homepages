@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 138 screenshots with the Internet Archive.
+The archiving routine has saved 139 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 138 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-10-04T03:46:40.390269-04:00.jpg">
+  <img src="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-10-04T03:46:40.390269-04:00.jpg"
+     alt="Pittsburgh Post-Gazette at 2022-10-04 03:46:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-10-04T03:46:40.390269-04:00.jpg">October 4 at 3:46 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-10-03T15:19:44.846290-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-09-28T15:38:03.170317-04:00.jpg">September 28 at 3:38 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-09-28T03:47:59.346851-04:00.jpg">
-  <img src="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-09-28T03:47:59.346851-04:00.jpg"
-     alt="Pittsburgh Post-Gazette at 2022-09-28 03:48:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-09-28T03:47:59.346851-04:00.jpg">September 28 at 3:48 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 137 hyperlink lists with the Internet Archive.
+The archiving routine has saved 138 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 3:46 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-10-04T03:46:40.390269-04:00.hyperlinks.json) |
 | [October 3 at 3:19 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-10-03T15:19:44.846290-04:00.hyperlinks.json) |
 | [October 3 at 3:38 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-10-03T03:37:56.210754-04:00.hyperlinks.json) |
 | [October 2 at 3:07 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-10-02T15:07:29.879158-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 4:15 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-09-30T16:14:51.506592-04:00.hyperlinks.json) |
 | [September 30 at 4:01 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-09-30T04:01:15.216824-04:00.hyperlinks.json) |
 | [September 29 at 3:31 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-09-29T15:30:54.227394-04:00.hyperlinks.json) |
-| [September 29 at 3:37 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-09-29T03:37:12.076681-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 139 accessibility trees with the Internet Archive.
+The archiving routine has saved 140 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 3:46 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-10-04T03:46:40.390269-04:00.accessibility.json) |
 | [October 3 at 3:19 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-10-03T15:19:44.846290-04:00.accessibility.json) |
 | [October 3 at 3:37 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-10-03T03:37:56.210754-04:00.accessibility.json) |
 | [October 2 at 3:07 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-10-02T15:07:29.879158-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 4:15 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-09-30T16:14:51.506592-04:00.accessibility.json) |
 | [September 30 at 4:01 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-09-30T04:01:15.216824-04:00.accessibility.json) |
 | [September 29 at 3:30 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-09-29T15:30:54.227394-04:00.accessibility.json) |
-| [September 29 at 3:37 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-09-29T03:37:12.076681-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 139 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 140 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 3:46 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-10-04T03:46:40.390269-04:00.lighthouse.json) |
 | [October 3 at 3:19 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-10-03T15:19:44.846290-04:00.lighthouse.json) |
 | [October 3 at 3:38 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-10-03T03:37:56.210754-04:00.lighthouse.json) |
 | [October 2 at 3:07 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-10-02T15:07:29.879158-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 4:15 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-09-30T16:14:51.506592-04:00.lighthouse.json) |
 | [September 30 at 4:01 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-09-30T04:01:15.216824-04:00.lighthouse.json) |
 | [September 29 at 3:31 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-09-29T15:30:54.227394-04:00.lighthouse.json) |
-| [September 29 at 3:37 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-09-29T03:37:12.076681-04:00.lighthouse.json) |
 
 
 

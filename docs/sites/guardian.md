@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 519 screenshots with the Internet Archive.
+The archiving routine has saved 521 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/guardian-2022/guardian-2022-10-04T07:04:46.140171+01:00.jpg">
+  <img src="https://archive.org/download/guardian-2022/guardian-2022-10-04T07:04:46.140171+01:00.jpg"
+     alt="The Guardian at 2022-10-04 07:04:48+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-10-04T07:04:46.140171+01:00.jpg">October 4 at 7:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/guardian-2022/guardian-2022-10-03T18:43:49.471805+01:00.jpg">
+  <img src="https://archive.org/download/guardian-2022/guardian-2022-10-03T18:43:49.471805+01:00.jpg"
+     alt="The Guardian at 2022-10-03 18:44:18+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-10-03T18:43:49.471805+01:00.jpg">October 3 at 6:44 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/guardian-2022/guardian-2022-10-03T10:19:46.833017+01:00.jpg">
   <img src="https://archive.org/download/guardian-2022/guardian-2022-10-03T10:19:46.833017+01:00.jpg"
      alt="The Guardian at 2022-10-03 10:19:49+01:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/guardian-2022/guardian-2022-09-30T10:25:20.260904+01:00.jpg">September 30 at 10:25 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/guardian-2022/guardian-2022-09-30T07:16:32.480852+01:00.jpg">
-  <img src="https://archive.org/download/guardian-2022/guardian-2022-09-30T07:16:32.480852+01:00.jpg"
-     alt="The Guardian at 2022-09-30 07:16:34+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/guardian-2022/guardian-2022-09-30T07:16:32.480852+01:00.jpg">September 30 at 7:16 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/guardian-2022/guardian-2022-09-29T18:29:25.418835+01:00.jpg">
-  <img src="https://archive.org/download/guardian-2022/guardian-2022-09-29T18:29:25.418835+01:00.jpg"
-     alt="The Guardian at 2022-09-29 18:29:27+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/guardian-2022/guardian-2022-09-29T18:29:25.418835+01:00.jpg">September 29 at 6:29 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 506 hyperlink lists with the Internet Archive.
+The archiving routine has saved 508 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 7:04 AM](https://archive.org/download/guardian-2022/guardian-2022-10-04T07:04:46.140171+01:00.hyperlinks.json) |
+| [October 3 at 6:44 PM](https://archive.org/download/guardian-2022/guardian-2022-10-03T18:43:49.471805+01:00.hyperlinks.json) |
 | [October 3 at 10:19 AM](https://archive.org/download/guardian-2022/guardian-2022-10-03T10:19:46.833017+01:00.hyperlinks.json) |
 | [October 3 at 6:05 AM](https://archive.org/download/guardian-2022/guardian-2022-10-03T06:05:14.003236+01:00.hyperlinks.json) |
 | [October 2 at 6:28 PM](https://archive.org/download/guardian-2022/guardian-2022-10-02T18:28:27.389026+01:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 6:30 PM](https://archive.org/download/guardian-2022/guardian-2022-10-01T18:30:01.132956+01:00.hyperlinks.json) |
 | [October 1 at 10:19 AM](https://archive.org/download/guardian-2022/guardian-2022-10-01T10:19:34.554363+01:00.hyperlinks.json) |
 | [October 1 at 7:08 AM](https://archive.org/download/guardian-2022/guardian-2022-10-01T07:08:31.608269+01:00.hyperlinks.json) |
-| [September 30 at 7:07 PM](https://archive.org/download/guardian-2022/guardian-2022-09-30T19:07:02.663356+01:00.hyperlinks.json) |
-| [September 30 at 10:25 AM](https://archive.org/download/guardian-2022/guardian-2022-09-30T10:25:20.260904+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 507 accessibility trees with the Internet Archive.
+The archiving routine has saved 509 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 7:04 AM](https://archive.org/download/guardian-2022/guardian-2022-10-04T07:04:46.140171+01:00.accessibility.json) |
+| [October 3 at 6:44 PM](https://archive.org/download/guardian-2022/guardian-2022-10-03T18:43:49.471805+01:00.accessibility.json) |
 | [October 3 at 10:19 AM](https://archive.org/download/guardian-2022/guardian-2022-10-03T10:19:46.833017+01:00.accessibility.json) |
 | [October 3 at 6:05 AM](https://archive.org/download/guardian-2022/guardian-2022-10-03T06:05:14.003236+01:00.accessibility.json) |
 | [October 2 at 6:28 PM](https://archive.org/download/guardian-2022/guardian-2022-10-02T18:28:27.389026+01:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 6:30 PM](https://archive.org/download/guardian-2022/guardian-2022-10-01T18:30:01.132956+01:00.accessibility.json) |
 | [October 1 at 10:19 AM](https://archive.org/download/guardian-2022/guardian-2022-10-01T10:19:34.554363+01:00.accessibility.json) |
 | [October 1 at 7:08 AM](https://archive.org/download/guardian-2022/guardian-2022-10-01T07:08:31.608269+01:00.accessibility.json) |
-| [September 30 at 7:07 PM](https://archive.org/download/guardian-2022/guardian-2022-09-30T19:07:02.663356+01:00.accessibility.json) |
-| [September 30 at 10:25 AM](https://archive.org/download/guardian-2022/guardian-2022-09-30T10:25:20.260904+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 213 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 215 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 7:04 AM](https://archive.org/download/guardian-2022/guardian-2022-10-04T07:04:46.140171+01:00.lighthouse.json) |
+| [October 3 at 6:44 PM](https://archive.org/download/guardian-2022/guardian-2022-10-03T18:43:49.471805+01:00.lighthouse.json) |
 | [October 3 at 10:19 AM](https://archive.org/download/guardian-2022/guardian-2022-10-03T10:19:46.833017+01:00.lighthouse.json) |
 | [October 3 at 6:05 AM](https://archive.org/download/guardian-2022/guardian-2022-10-03T06:05:14.003236+01:00.lighthouse.json) |
 | [October 2 at 6:28 PM](https://archive.org/download/guardian-2022/guardian-2022-10-02T18:28:27.389026+01:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 6:30 PM](https://archive.org/download/guardian-2022/guardian-2022-10-01T18:30:01.132956+01:00.lighthouse.json) |
 | [October 1 at 10:19 AM](https://archive.org/download/guardian-2022/guardian-2022-10-01T10:19:34.554363+01:00.lighthouse.json) |
 | [October 1 at 7:08 AM](https://archive.org/download/guardian-2022/guardian-2022-10-01T07:08:31.608269+01:00.lighthouse.json) |
-| [September 30 at 7:07 PM](https://archive.org/download/guardian-2022/guardian-2022-09-30T19:07:02.663356+01:00.lighthouse.json) |
-| [September 30 at 10:25 AM](https://archive.org/download/guardian-2022/guardian-2022-09-30T10:25:20.260904+01:00.lighthouse.json) |
 
 
 

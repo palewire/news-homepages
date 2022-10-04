@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 98 screenshots with the Internet Archive.
+The archiving routine has saved 99 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 98 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/proceso-2022/proceso-2022-10-04T02:46:06.397009-05:00.jpg">
+  <img src="https://archive.org/download/proceso-2022/proceso-2022-10-04T02:46:06.397009-05:00.jpg"
+     alt="Proceso at 2022-10-04 02:46:10-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/proceso-2022/proceso-2022-10-04T02:46:06.397009-05:00.jpg">October 4 at 2:46 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/proceso-2022/proceso-2022-10-03T14:21:06.247792-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/proceso-2022/proceso-2022-09-28T14:39:25.016008-05:00.jpg">September 28 at 2:39 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/proceso-2022/proceso-2022-09-28T02:50:05.840116-05:00.jpg">
-  <img src="https://archive.org/download/proceso-2022/proceso-2022-09-28T02:50:05.840116-05:00.jpg"
-     alt="Proceso at 2022-09-28 02:50:09-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/proceso-2022/proceso-2022-09-28T02:50:05.840116-05:00.jpg">September 28 at 2:50 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 97 hyperlink lists with the Internet Archive.
+The archiving routine has saved 98 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 2:46 AM](https://archive.org/download/proceso-2022/proceso-2022-10-04T02:46:06.397009-05:00.hyperlinks.json) |
 | [October 3 at 2:21 PM](https://archive.org/download/proceso-2022/proceso-2022-10-03T14:21:06.247792-05:00.hyperlinks.json) |
 | [October 3 at 2:38 AM](https://archive.org/download/proceso-2022/proceso-2022-10-03T02:38:00.205325-05:00.hyperlinks.json) |
 | [October 2 at 2:09 PM](https://archive.org/download/proceso-2022/proceso-2022-10-02T14:09:42.728607-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 3:14 PM](https://archive.org/download/proceso-2022/proceso-2022-09-30T15:14:22.249845-05:00.hyperlinks.json) |
 | [September 30 at 3:02 AM](https://archive.org/download/proceso-2022/proceso-2022-09-30T03:02:28.465356-05:00.hyperlinks.json) |
 | [September 29 at 2:32 PM](https://archive.org/download/proceso-2022/proceso-2022-09-29T14:32:30.822645-05:00.hyperlinks.json) |
-| [September 29 at 2:37 AM](https://archive.org/download/proceso-2022/proceso-2022-09-29T02:37:43.698518-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 98 accessibility trees with the Internet Archive.
+The archiving routine has saved 99 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 2:46 AM](https://archive.org/download/proceso-2022/proceso-2022-10-04T02:46:06.397009-05:00.accessibility.json) |
 | [October 3 at 2:21 PM](https://archive.org/download/proceso-2022/proceso-2022-10-03T14:21:06.247792-05:00.accessibility.json) |
 | [October 3 at 2:38 AM](https://archive.org/download/proceso-2022/proceso-2022-10-03T02:38:00.205325-05:00.accessibility.json) |
 | [October 2 at 2:09 PM](https://archive.org/download/proceso-2022/proceso-2022-10-02T14:09:42.728607-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 3:14 PM](https://archive.org/download/proceso-2022/proceso-2022-09-30T15:14:22.249845-05:00.accessibility.json) |
 | [September 30 at 3:02 AM](https://archive.org/download/proceso-2022/proceso-2022-09-30T03:02:28.465356-05:00.accessibility.json) |
 | [September 29 at 2:32 PM](https://archive.org/download/proceso-2022/proceso-2022-09-29T14:32:30.822645-05:00.accessibility.json) |
-| [September 29 at 2:37 AM](https://archive.org/download/proceso-2022/proceso-2022-09-29T02:37:43.698518-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 99 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 2:46 AM](https://archive.org/download/proceso-2022/proceso-2022-10-04T02:46:06.397009-05:00.lighthouse.json) |
 | [October 3 at 2:21 PM](https://archive.org/download/proceso-2022/proceso-2022-10-03T14:21:06.247792-05:00.lighthouse.json) |
 | [October 3 at 2:38 AM](https://archive.org/download/proceso-2022/proceso-2022-10-03T02:38:00.205325-05:00.lighthouse.json) |
 | [October 2 at 2:09 PM](https://archive.org/download/proceso-2022/proceso-2022-10-02T14:09:42.728607-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 3:14 PM](https://archive.org/download/proceso-2022/proceso-2022-09-30T15:14:22.249845-05:00.lighthouse.json) |
 | [September 30 at 3:02 AM](https://archive.org/download/proceso-2022/proceso-2022-09-30T03:02:28.465356-05:00.lighthouse.json) |
 | [September 29 at 2:32 PM](https://archive.org/download/proceso-2022/proceso-2022-09-29T14:32:30.822645-05:00.lighthouse.json) |
-| [September 29 at 2:37 AM](https://archive.org/download/proceso-2022/proceso-2022-09-29T02:37:43.698518-05:00.lighthouse.json) |
 
 
 
