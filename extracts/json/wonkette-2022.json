@@ -1,5 +1,5 @@
 {
-  "created": 1664863660,
+  "created": 1664905856,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/8/items/wonkette-2022",
@@ -8780,31 +8780,93 @@
       "sha1": "7dc97e655580e57dfdec443aaa554f1114cefd4a"
     },
     {
+      "name": "wonkette-2022-10-04T11:27:50.598370-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664900895",
+      "size": "14594",
+      "md5": "1b917259c2da549aeb5660c3d3d9c3e7",
+      "crc32": "4e6da9c3",
+      "sha1": "20de8c7de4ef487d110f15f0165ea05acbea69d3",
+      "format": "JSON"
+    },
+    {
+      "name": "wonkette-2022-10-04T11:27:50.598370-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664900897",
+      "size": "57579",
+      "md5": "37e988870d81e4bb831c431cec91ce3f",
+      "crc32": "a51a37f1",
+      "sha1": "0eaade9825ee3c41b28fb396f056d580c6c2c6ab",
+      "format": "JSON"
+    },
+    {
+      "name": "wonkette-2022-10-04T11:27:50.598370-05:00.jpg",
+      "source": "original",
+      "mtime": "1664900893",
+      "size": "276492",
+      "md5": "aeefd2bf79f2bba64dbf526a6863e243",
+      "crc32": "ac1cd868",
+      "sha1": "36cda1257c12f93aa6e17966df2fa85e9687970f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wonkette-2022-10-04T11:27:50.598370-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664900899",
+      "size": "1465",
+      "md5": "e7c6b9a605ac5641bf235bbb0dbbfa15",
+      "crc32": "348a6585",
+      "sha1": "f6fd1f08f2e868fb7c04dd88bef9ec3d4329e72b",
+      "format": "JSON"
+    },
+    {
+      "name": "wonkette-2022-10-04T11:27:50.598370-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664900901",
+      "size": "205",
+      "md5": "b61e81a7a11750a331014cfcba8d5a38",
+      "crc32": "0ef549b2",
+      "sha1": "4030134b83bfb29826e1134591fe6b5df419e087",
+      "format": "JSON"
+    },
+    {
+      "name": "wonkette-2022-10-04T11:27:50.598370-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wonkette-2022-10-04T11:27:50.598370-05:00.jpg",
+      "mtime": "1664901068",
+      "size": "9478",
+      "md5": "bc7daf6b7c653f3c071644a676744749",
+      "crc32": "b423136b",
+      "sha1": "6ab81d261526fda1beaaaecd4e7fc3a422702b87"
+    },
+    {
       "name": "wonkette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "de2bce8ebf88424feb1e7663adf98f91ad6c0b24",
-      "mtime": "1664863619",
-      "size": "179754",
-      "md5": "873d3c171822daf2584133f145e67aea",
-      "crc32": "fadc0016",
-      "sha1": "515c4c68b607c6db7b25ffcd0beadbebf485ea01",
+      "btih": "77e65aa4fb5ae161b014575a31e4297eb99b2971",
+      "mtime": "1664901105",
+      "size": "181019",
+      "md5": "527915227831adedb2be527c81986e6a",
+      "crc32": "39e3abaa",
+      "sha1": "904c85ec0b31e86a2a321954531e132917e6da08",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wonkette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a013239826f8754aeada3a8187f37d5a",
+      "md5": "f7a4a52c07ef3315186d73483d346e83",
       "summation": "md5"
     },
     {
       "name": "wonkette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664861090",
-      "size": "1093632",
-      "md5": "0c2bdfb3070becbd2a1a47230b6aedaf",
-      "crc32": "58324a40",
-      "sha1": "76b4ff3273c0cdfea0398bcc19f8651d10b4fed9",
+      "mtime": "1664900940",
+      "size": "1097728",
+      "md5": "e90e5bd0eca26a96903852430b5238f3",
+      "crc32": "9a3b08f0",
+      "sha1": "26679cdd31079da7fcbc2a1b77ea6dc928a4313f",
       "format": "Metadata"
     },
     {
@@ -8818,9 +8880,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 853,
-  "item_last_updated": 1664863619,
-  "item_size": 51957945,
+  "files_count": 859,
+  "item_last_updated": 1664901105,
+  "item_size": 52323119,
   "metadata": {
     "identifier": "wonkette-2022",
     "collection": [
@@ -8838,7 +8900,15 @@
     "addeddate": "2022-08-15 03:21:09"
   },
   "server": "ia601403.us.archive.org",
-  "uniq": 1558884054,
+  "uniq": 910847847,
+  "wonkette-2022": {
+    "url": "https://www.wonkette.com/",
+    "job_id": "spn2-7070e9657b47219ef394f8800292bc3554e8c8b6",
+    "resources": [],
+    "status": "error",
+    "message": "Job failed.",
+    "status_ext": "error:job-failed"
+  },
   "workable_servers": [
     "ia601403.us.archive.org",
     "ia801403.us.archive.org"

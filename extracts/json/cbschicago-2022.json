@@ -1,6 +1,5 @@
 {
-  "conflict": 1664900899,
-  "created": 1664900899,
+  "created": 1664900953,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/12/items/cbschicago-2022",
@@ -12159,24 +12158,29 @@
       "name": "cbschicago-2022-10-04T11:25:18.193037-05:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "cbschicago-2022-10-04T11:25:18.193037-05:00.jpg"
+      "original": "cbschicago-2022-10-04T11:25:18.193037-05:00.jpg",
+      "mtime": "1664900896",
+      "size": "9288",
+      "md5": "fdec3a716e5abb818298f1e13fe7af1c",
+      "crc32": "63efb58a",
+      "sha1": "5eb71bf0128cb700d9c9f7e99c844dcee42d33b8"
     },
     {
       "name": "cbschicago-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6935bf88a94a699f754bcf8fc9357e84d8db8af7",
-      "mtime": "1664900823",
-      "size": "250427",
-      "md5": "6705785d1e073e9632c992f431b88753",
-      "crc32": "ca01f838",
-      "sha1": "e3918a23a3752a71afbba2262ec0b8d0610e1254",
+      "btih": "eff5899a148ca1180175c872f29fa328984f8a3d",
+      "mtime": "1664900911",
+      "size": "250633",
+      "md5": "7b0f8483e7baade5cfe0d123615ba3f8",
+      "crc32": "553c5d2b",
+      "sha1": "6c908fee2dcaa66a0fc9893c72e4d60006ae3357",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cbschicago-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b7918cc649b5c8244bf2b17297d1fde8",
+      "md5": "97142ff80e590af7eee683ad58c7a8a1",
       "summation": "md5"
     },
     {
@@ -12201,8 +12205,8 @@
     }
   ],
   "files_count": 1180,
-  "item_last_updated": 1664900823,
-  "item_size": 67595074,
+  "item_last_updated": 1664900911,
+  "item_size": 67604568,
   "metadata": {
     "identifier": "cbschicago-2022",
     "collection": [
@@ -12219,21 +12223,10 @@
     "publicdate": "2022-07-28 20:04:20",
     "addeddate": "2022-07-28 20:04:20"
   },
-  "pending_tasks": true,
   "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3428483204,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1650918975,
+  "uniq": 1378853713,
   "workable_servers": [
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }
