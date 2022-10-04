@@ -1,5 +1,6 @@
 {
-  "created": 1664867326,
+  "conflict": 1664892497,
+  "created": 1664892497,
   "d1": "ia903007.us.archive.org",
   "d2": "ia803007.us.archive.org",
   "dir": "/16/items/latimes-2022",
@@ -44859,10 +44860,21 @@
     "publicdate": "2022-03-22 20:29:38",
     "addeddate": "2022-03-22 20:29:38"
   },
+  "pending_tasks": true,
   "server": "ia903007.us.archive.org",
-  "uniq": 1314035711,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3428343630,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 308324313,
   "workable_servers": [
-    "ia903007.us.archive.org",
-    "ia803007.us.archive.org"
+    "ia903007.us.archive.org"
   ]
 }
