@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 28 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-10-04T10:15:39.698277-04:00.jpg">
+  <img src="https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-10-04T10:15:39.698277-04:00.jpg"
+     alt="Ocala StarBanner at 2022-10-04 10:15:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-10-04T10:15:39.698277-04:00.jpg">October 4 at 10:15 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-10-03T22:27:44.402696-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-09-28T22:21:16.372013-04:00.jpg">September 28 at 10:21 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-09-28T10:03:05.059227-04:00.jpg">
-  <img src="https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-09-28T10:03:05.059227-04:00.jpg"
-     alt="Ocala StarBanner at 2022-09-28 10:03:09-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-09-28T10:03:05.059227-04:00.jpg">September 28 at 10:03 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 27 hyperlink lists with the Internet Archive.
+The archiving routine has saved 28 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 10:15 AM](https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-10-04T10:15:39.698277-04:00.hyperlinks.json) |
 | [October 3 at 10:27 PM](https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-10-03T22:27:44.402696-04:00.hyperlinks.json) |
 | [October 3 at 10:07 AM](https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-10-03T10:07:05.224583-04:00.hyperlinks.json) |
 | [October 2 at 10:29 PM](https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-10-02T22:29:23.622209-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 10:33 PM](https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-09-30T22:33:35.525273-04:00.hyperlinks.json) |
 | [September 30 at 10:19 AM](https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-09-30T10:19:25.779427-04:00.hyperlinks.json) |
 | [September 29 at 10:39 PM](https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-09-29T22:39:53.324036-04:00.hyperlinks.json) |
-| [September 29 at 10:06 AM](https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-09-29T10:06:04.025861-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 27 accessibility trees with the Internet Archive.
+The archiving routine has saved 28 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 10:15 AM](https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-10-04T10:15:39.698277-04:00.accessibility.json) |
 | [October 3 at 10:27 PM](https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-10-03T22:27:44.402696-04:00.accessibility.json) |
 | [October 3 at 10:07 AM](https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-10-03T10:07:05.224583-04:00.accessibility.json) |
 | [October 2 at 10:29 PM](https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-10-02T22:29:23.622209-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 10:33 PM](https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-09-30T22:33:35.525273-04:00.accessibility.json) |
 | [September 30 at 10:19 AM](https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-09-30T10:19:25.779427-04:00.accessibility.json) |
 | [September 29 at 10:39 PM](https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-09-29T22:39:53.324036-04:00.accessibility.json) |
-| [September 29 at 10:06 AM](https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-09-29T10:06:04.025861-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 10:15 AM](https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-10-04T10:15:39.698277-04:00.lighthouse.json) |
 | [October 3 at 10:27 PM](https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-10-03T22:27:44.402696-04:00.lighthouse.json) |
 | [October 3 at 10:07 AM](https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-10-03T10:07:05.224583-04:00.lighthouse.json) |
 | [October 2 at 10:29 PM](https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-10-02T22:29:23.622209-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 10:33 PM](https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-09-30T22:33:35.525273-04:00.lighthouse.json) |
 | [September 30 at 10:19 AM](https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-09-30T10:19:25.779427-04:00.lighthouse.json) |
 | [September 29 at 10:40 PM](https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-09-29T22:39:53.324036-04:00.lighthouse.json) |
-| [September 29 at 10:06 AM](https://archive.org/download/ocalastarbanner-2022/ocalastarbanner-2022-09-29T10:06:04.025861-04:00.lighthouse.json) |
 
 
 
