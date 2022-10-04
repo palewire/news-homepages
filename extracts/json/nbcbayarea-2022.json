@@ -1,5 +1,5 @@
 {
-  "created": 1664774439,
+  "created": 1664867575,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/5/items/nbcbayarea-2022",
@@ -11302,31 +11302,155 @@
       "sha1": "ea8d924c2a45017a2ba216b02e55cf82683f1303"
     },
     {
+      "name": "nbcbayarea-2022-10-03T10:50:47.016584-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664819450",
+      "size": "50081",
+      "md5": "732019f641be11b2e3941800b6e405f2",
+      "crc32": "d5822ce0",
+      "sha1": "4e3c4a3edfd40544087386c83685b2daede82a82",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcbayarea-2022-10-03T10:50:47.016584-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664819452",
+      "size": "53409",
+      "md5": "1f1f0ad55be4482f0ab1248f87230f4b",
+      "crc32": "01a13151",
+      "sha1": "48fa836a79c62c1b7fcc0808dafd383efc089c95",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcbayarea-2022-10-03T10:50:47.016584-07:00.jpg",
+      "source": "original",
+      "mtime": "1664819448",
+      "size": "272922",
+      "md5": "a9a8508546d368e8c28f3c6b6aec764d",
+      "crc32": "94940ef5",
+      "sha1": "e161ad37571cdc595d552f6ae81c1dee92bb4c1f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcbayarea-2022-10-03T10:50:47.016584-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664819454",
+      "size": "1495",
+      "md5": "c300c1542709dd224081adcdd26a6def",
+      "crc32": "ea83ee61",
+      "sha1": "db8c5c30455a9476b3fbb840d3a1b237078c842a",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcbayarea-2022-10-03T10:50:47.016584-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664819456",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcbayarea-2022-10-03T10:50:47.016584-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcbayarea-2022-10-03T10:50:47.016584-07:00.jpg",
+      "mtime": "1664822289",
+      "size": "9714",
+      "md5": "1201baa127bcc44be3b5a93f67ad2228",
+      "crc32": "fb94bf6b",
+      "sha1": "d9fcc77d0d32c7f03287908fef7c4dc3c1f0308d"
+    },
+    {
+      "name": "nbcbayarea-2022-10-03T23:14:23.324614-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664864067",
+      "size": "49269",
+      "md5": "e9165e5518776166e4e3669a46ffaa25",
+      "crc32": "5042d127",
+      "sha1": "9a6826c69b575346971894d0611f9f717f141a88",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcbayarea-2022-10-03T23:14:23.324614-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664864069",
+      "size": "53167",
+      "md5": "923e7a4eee643e6902b676c84eeefc3b",
+      "crc32": "9b9d5011",
+      "sha1": "e112f7f995aaaff8b6c325e54763a581f421f4da",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcbayarea-2022-10-03T23:14:23.324614-07:00.jpg",
+      "source": "original",
+      "mtime": "1664864065",
+      "size": "301415",
+      "md5": "cee198807a011a98b3bc95bca78aee41",
+      "crc32": "21af8b84",
+      "sha1": "f3801394c0d497e5f410c50263b31a9c0836d8cc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcbayarea-2022-10-03T23:14:23.324614-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664864070",
+      "size": "1495",
+      "md5": "6677478bdc6061bbcd7ab70890ce8c06",
+      "crc32": "065c1bd7",
+      "sha1": "8350064282844dfe5e1ee61f2ece4025be91c38f",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcbayarea-2022-10-03T23:14:23.324614-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664864072",
+      "size": "118783",
+      "md5": "957e478c0032c440dfe2660fa411b037",
+      "crc32": "76d32f4e",
+      "sha1": "8a31733854c625f0bd1babfc92d1921f75b92a4c",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcbayarea-2022-10-03T23:14:23.324614-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcbayarea-2022-10-03T23:14:23.324614-07:00.jpg",
+      "mtime": "1664866496",
+      "size": "9817",
+      "md5": "7d809a39b95c5dcf626bd51b8c17e715",
+      "crc32": "d4c34ffa",
+      "sha1": "391ded43dfd3c7b63f4ffad01376d711c21f91dd"
+    },
+    {
       "name": "nbcbayarea-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0852e206dc7342a3e290b5c74ea89d5e060d363e",
-      "mtime": "1664774328",
-      "size": "233073",
-      "md5": "95e489d88d713784040dc89f025ad640",
-      "crc32": "deba0db9",
-      "sha1": "e76ad3fa33b9858118ec649d1be0090aff63240b",
+      "btih": "a0a9fd2a15f609960702a12406673aa9b62f0724",
+      "mtime": "1664866536",
+      "size": "235610",
+      "md5": "ad7764a740cafe0484bf46ba4fbf9485",
+      "crc32": "890c2382",
+      "sha1": "551267cd56330a093f48178fb26dcbecfb6751f1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcbayarea-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c425b01f5593f88a53e97274af10ae73",
+      "md5": "86b7290ed1c7d0c6a814f63715acfeb1",
       "summation": "md5"
     },
     {
       "name": "nbcbayarea-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664774048",
-      "size": "1359872",
-      "md5": "6aca74db780cdf65d8eef901d30eef55",
-      "crc32": "ec8aa9cc",
-      "sha1": "71c4f543dc303dabe57f246dae078de707288799",
+      "mtime": "1664864078",
+      "size": "1376256",
+      "md5": "4d2fbf9fa5d09a2075494cae794b9b54",
+      "crc32": "1b503461",
+      "sha1": "12a528fb8fa3f945972256ca38e130476320dc45",
       "format": "Metadata"
     },
     {
@@ -11340,9 +11464,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1092,
-  "item_last_updated": 1664774328,
-  "item_size": 92086400,
+  "files_count": 1104,
+  "item_last_updated": 1664866536,
+  "item_size": 93027090,
   "metadata": {
     "identifier": "nbcbayarea-2022",
     "collection": [
@@ -11360,7 +11484,7 @@
     "addeddate": "2022-06-30 20:48:27"
   },
   "server": "ia801509.us.archive.org",
-  "uniq": 2098385160,
+  "uniq": 2059379625,
   "workable_servers": [
     "ia801509.us.archive.org",
     "ia601509.us.archive.org"

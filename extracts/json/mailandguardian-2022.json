@@ -1,5 +1,5 @@
 {
-  "created": 1664774693,
+  "created": 1664867381,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/2/items/mailandguardian-2022",
@@ -5060,31 +5060,155 @@
       "sha1": "1329afee7b1ab36a07820175880f5d57aa3e969f"
     },
     {
+      "name": "mailandguardian-2022-10-03T19:48:33.645172+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664819320",
+      "size": "32875",
+      "md5": "8f2b7a19b83f93ff04436ca3700c2b31",
+      "crc32": "b8170839",
+      "sha1": "2a70363d19d258938dee34f6aa2181b92cb44997",
+      "format": "JSON"
+    },
+    {
+      "name": "mailandguardian-2022-10-03T19:48:33.645172+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664819321",
+      "size": "25265",
+      "md5": "04df2d488a1abcec9d1570a74ffc240b",
+      "crc32": "10d06f91",
+      "sha1": "6d54027c8924f8cd761dbe6903be1c9704042e19",
+      "format": "JSON"
+    },
+    {
+      "name": "mailandguardian-2022-10-03T19:48:33.645172+02:00.jpg",
+      "source": "original",
+      "mtime": "1664819318",
+      "size": "263158",
+      "md5": "a90bf1883af6f9dbbe1e0aa714a3da89",
+      "crc32": "4949e50c",
+      "sha1": "b9aacc848c24b552d44e82d2183a5ac8e8211a34",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mailandguardian-2022-10-03T19:48:33.645172+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664819324",
+      "size": "1402",
+      "md5": "a9ef18e39d6af31758a0b673581c3e66",
+      "crc32": "ecd2e90b",
+      "sha1": "ded84c8e9b3d1b98b32de65dc904ea98f505df30",
+      "format": "JSON"
+    },
+    {
+      "name": "mailandguardian-2022-10-03T19:48:33.645172+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664819326",
+      "size": "30971",
+      "md5": "bff70a9fa1ff6e773336a3ddbf80b55f",
+      "crc32": "fe1f6f29",
+      "sha1": "90ea8c7f20ea53848ea44063202fcd52d1390114",
+      "format": "JSON"
+    },
+    {
+      "name": "mailandguardian-2022-10-03T19:48:33.645172+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mailandguardian-2022-10-03T19:48:33.645172+02:00.jpg",
+      "mtime": "1664822191",
+      "size": "9872",
+      "md5": "48deceeaa83c3bb3b24e1353622b3b6a",
+      "crc32": "bf02a2fb",
+      "sha1": "ef641ca973521feee15268c90c18de28044d297d"
+    },
+    {
+      "name": "mailandguardian-2022-10-04T08:12:02.460107+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664863927",
+      "size": "32849",
+      "md5": "7f26b59a52dfbb7233a14d11d0f239eb",
+      "crc32": "755030ca",
+      "sha1": "92324eae102261ccffbf5d6fdf4691bab20e6d78",
+      "format": "JSON"
+    },
+    {
+      "name": "mailandguardian-2022-10-04T08:12:02.460107+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664863928",
+      "size": "25263",
+      "md5": "5d3bbd2131f6219fe3d25eaebf643ec3",
+      "crc32": "f85c53f8",
+      "sha1": "53b429163df896fa61545f7df8bbd29b48226d75",
+      "format": "JSON"
+    },
+    {
+      "name": "mailandguardian-2022-10-04T08:12:02.460107+02:00.jpg",
+      "source": "original",
+      "mtime": "1664863925",
+      "size": "259918",
+      "md5": "76d5c21865ef63292df6f41eae02a9d6",
+      "crc32": "e7389365",
+      "sha1": "b4dfe0fb78371f1d625712e8459d4a5bf7d5cfe5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mailandguardian-2022-10-04T08:12:02.460107+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664863930",
+      "size": "1401",
+      "md5": "b7e88eb1984cdb5156437ee1dd8020a3",
+      "crc32": "ad878045",
+      "sha1": "f63ccb362e22de827898ec7e55eff183a7537820",
+      "format": "JSON"
+    },
+    {
+      "name": "mailandguardian-2022-10-04T08:12:02.460107+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664863931",
+      "size": "197",
+      "md5": "c1d76514b083263201caa46407120888",
+      "crc32": "5db14216",
+      "sha1": "317a8c34a95e34f5212e67a5e03f7d4e10aaf495",
+      "format": "JSON"
+    },
+    {
+      "name": "mailandguardian-2022-10-04T08:12:02.460107+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mailandguardian-2022-10-04T08:12:02.460107+02:00.jpg",
+      "mtime": "1664866423",
+      "size": "9870",
+      "md5": "b120ff2cbb1c1e201f68dcfe5b76d6a0",
+      "crc32": "be7e637e",
+      "sha1": "952feceb147abdfc740b4c8ff5b250665f0fc8a7"
+    },
+    {
       "name": "mailandguardian-2022_archive.torrent",
       "source": "metadata",
-      "btih": "936e48ab1a9dd60e75662f777ddb038efa036369",
-      "mtime": "1664774646",
-      "size": "107548",
-      "md5": "73d06b49833caa48371404d13ad3d1ac",
-      "crc32": "9b66c7aa",
-      "sha1": "8ccc1460407c40e353a50ac63fc1e99acf00bafc",
+      "btih": "76333050e49d98507ce2f381fe470644ca312af5",
+      "mtime": "1664866444",
+      "size": "110164",
+      "md5": "f42e6891418a6493ec74976cf35743a6",
+      "crc32": "b3bb968b",
+      "sha1": "a136b55df1c338a44436165f38f517976e2cbbfb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mailandguardian-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8adc93ad713ff157378f733367b1787b",
+      "md5": "f11232ccddfb759abf774c7655f2176d",
       "summation": "md5"
     },
     {
       "name": "mailandguardian-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664773990",
-      "size": "647168",
-      "md5": "f3f6a8ad066b06070bf5394cab6b403c",
-      "crc32": "33f4aed5",
-      "sha1": "a6c96a8ef93ddbb0841575eb62598ed5fb6e5938",
+      "mtime": "1664863940",
+      "size": "659456",
+      "md5": "d0d34890aa107abda127aa07f0889b8b",
+      "crc32": "e6435144",
+      "sha1": "18f077a56f120e9e9c707ab251be61d52920f60a",
       "format": "Metadata"
     },
     {
@@ -5098,9 +5222,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 493,
-  "item_last_updated": 1664774646,
-  "item_size": 28320910,
+  "files_count": 505,
+  "item_last_updated": 1664866444,
+  "item_size": 29028855,
   "metadata": {
     "identifier": "mailandguardian-2022",
     "collection": [
@@ -5118,7 +5242,7 @@
     "addeddate": "2022-08-22 22:03:42"
   },
   "server": "ia801407.us.archive.org",
-  "uniq": 1553946385,
+  "uniq": 2097564467,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"
