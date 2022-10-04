@@ -1,5 +1,5 @@
 {
-  "created": 1664899904,
+  "created": 1664900906,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/20/items/telemundochi-2022",
@@ -12009,21 +12009,32 @@
       "format": "JSON"
     },
     {
+      "name": "telemundochi-2022-10-04T11:10:02.957149-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telemundochi-2022-10-04T11:10:02.957149-05:00.jpg",
+      "mtime": "1664899966",
+      "size": "9529",
+      "md5": "2c4447ad4a6534024810db3cb21acff6",
+      "crc32": "db282065",
+      "sha1": "3b8b5b231b80b7d8f77e1dd5f401de7e6afffb5e"
+    },
+    {
       "name": "telemundochi-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a5dc19d7e23c86d112b9be4b82f781501e1745d8",
-      "mtime": "1664899899",
-      "size": "251020",
-      "md5": "06a84766770219d19c47169eb8bdd4a3",
-      "crc32": "0d9c8863",
-      "sha1": "986dca9fe4b524fd9f9fb9d591e606cb13972d13",
+      "btih": "e45c6a51094a90242025224f884f9ed8124ff6c2",
+      "mtime": "1664900000",
+      "size": "251228",
+      "md5": "d7b2c3cee1e61211bfc0959a921405d1",
+      "crc32": "b01524b8",
+      "sha1": "87a8ac070547db89bb224a110a708453992d4f26",
       "format": "Archive BitTorrent"
     },
     {
       "name": "telemundochi-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d4276a56f6c24aa3a9902430400d7834",
+      "md5": "472cf4549f0b322bd9bf81248c674546",
       "summation": "md5"
     },
     {
@@ -12047,9 +12058,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1165,
-  "item_last_updated": 1664899899,
-  "item_size": 95717025,
+  "files_count": 1166,
+  "item_last_updated": 1664900000,
+  "item_size": 95726762,
   "metadata": {
     "identifier": "telemundochi-2022",
     "collection": [
@@ -12066,21 +12077,15 @@
     "publicdate": "2022-07-28 20:04:16",
     "addeddate": "2022-07-28 20:04:16"
   },
-  "pending_tasks": true,
-  "server": "ia902504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3428466201,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1753759803,
+  "server": "ia802504.us.archive.org",
+  "telemundochi-2022": {
+    "url": "https://www.telemundochicago.com/",
+    "job_id": "spn2-15f970e86903f3c226cdf2c1289db30e9aa35b35",
+    "message": "The same snapshot had been made 27 minutes, 14 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
+  "uniq": 44285547,
   "workable_servers": [
+    "ia802504.us.archive.org",
     "ia902504.us.archive.org"
   ]
 }
