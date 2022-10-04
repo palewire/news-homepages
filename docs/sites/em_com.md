@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 174 screenshots with the Internet Archive.
+The archiving routine has saved 175 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 174 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/em_com-2022/em_com-2022-10-04T09:11:11.064164-03:00.jpg">
+  <img src="https://archive.org/download/em_com-2022/em_com-2022-10-04T09:11:11.064164-03:00.jpg"
+     alt="Estado de Minas at 2022-10-04 09:11:12-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/em_com-2022/em_com-2022-10-04T09:11:11.064164-03:00.jpg">October 4 at 9:11 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/em_com-2022/em_com-2022-10-04T04:00:24.661261-03:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/em_com-2022/em_com-2022-09-30T15:27:51.964400-03:00.jpg">September 30 at 3:27 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/em_com-2022/em_com-2022-09-30T09:06:47.214392-03:00.jpg">
-  <img src="https://archive.org/download/em_com-2022/em_com-2022-09-30T09:06:47.214392-03:00.jpg"
-     alt="Estado de Minas at 2022-09-30 09:06:49-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/em_com-2022/em_com-2022-09-30T09:06:47.214392-03:00.jpg">September 30 at 9:06 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 170 hyperlink lists with the Internet Archive.
+The archiving routine has saved 171 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 9:11 AM](https://archive.org/download/em_com-2022/em_com-2022-10-04T09:11:11.064164-03:00.hyperlinks.json) |
 | [October 4 at 4:00 AM](https://archive.org/download/em_com-2022/em_com-2022-10-04T04:00:24.661261-03:00.hyperlinks.json) |
 | [October 3 at 3:03 PM](https://archive.org/download/em_com-2022/em_com-2022-10-03T15:03:50.650957-03:00.hyperlinks.json) |
 | [October 3 at 9:03 AM](https://archive.org/download/em_com-2022/em_com-2022-10-03T09:03:46.422034-03:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 2 at 2:55 AM](https://archive.org/download/em_com-2022/em_com-2022-10-02T02:55:16.929087-03:00.hyperlinks.json) |
 | [October 1 at 2:45 PM](https://archive.org/download/em_com-2022/em_com-2022-10-01T14:45:25.828115-03:00.hyperlinks.json) |
 | [October 1 at 8:59 AM](https://archive.org/download/em_com-2022/em_com-2022-10-01T08:59:29.959540-03:00.hyperlinks.json) |
-| [October 1 at 4:42 AM](https://archive.org/download/em_com-2022/em_com-2022-10-01T04:42:40.617608-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 173 accessibility trees with the Internet Archive.
+The archiving routine has saved 174 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 9:11 AM](https://archive.org/download/em_com-2022/em_com-2022-10-04T09:11:11.064164-03:00.accessibility.json) |
 | [October 4 at 4:00 AM](https://archive.org/download/em_com-2022/em_com-2022-10-04T04:00:24.661261-03:00.accessibility.json) |
 | [October 3 at 3:03 PM](https://archive.org/download/em_com-2022/em_com-2022-10-03T15:03:50.650957-03:00.accessibility.json) |
 | [October 3 at 9:03 AM](https://archive.org/download/em_com-2022/em_com-2022-10-03T09:03:46.422034-03:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 2 at 2:55 AM](https://archive.org/download/em_com-2022/em_com-2022-10-02T02:55:16.929087-03:00.accessibility.json) |
 | [October 1 at 2:45 PM](https://archive.org/download/em_com-2022/em_com-2022-10-01T14:45:25.828115-03:00.accessibility.json) |
 | [October 1 at 8:59 AM](https://archive.org/download/em_com-2022/em_com-2022-10-01T08:59:29.959540-03:00.accessibility.json) |
-| [October 1 at 4:42 AM](https://archive.org/download/em_com-2022/em_com-2022-10-01T04:42:40.617608-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 172 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 173 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 9:11 AM](https://archive.org/download/em_com-2022/em_com-2022-10-04T09:11:11.064164-03:00.lighthouse.json) |
 | [October 4 at 4:00 AM](https://archive.org/download/em_com-2022/em_com-2022-10-04T04:00:24.661261-03:00.lighthouse.json) |
 | [October 3 at 3:04 PM](https://archive.org/download/em_com-2022/em_com-2022-10-03T15:03:50.650957-03:00.lighthouse.json) |
 | [October 3 at 9:03 AM](https://archive.org/download/em_com-2022/em_com-2022-10-03T09:03:46.422034-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 2 at 2:55 AM](https://archive.org/download/em_com-2022/em_com-2022-10-02T02:55:16.929087-03:00.lighthouse.json) |
 | [October 1 at 2:45 PM](https://archive.org/download/em_com-2022/em_com-2022-10-01T14:45:25.828115-03:00.lighthouse.json) |
 | [October 1 at 8:59 AM](https://archive.org/download/em_com-2022/em_com-2022-10-01T08:59:29.959540-03:00.lighthouse.json) |
-| [October 1 at 4:42 AM](https://archive.org/download/em_com-2022/em_com-2022-10-01T04:42:40.617608-03:00.lighthouse.json) |
 
 
 

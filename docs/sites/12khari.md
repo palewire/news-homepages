@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 146 screenshots with the Internet Archive.
+The archiving routine has saved 147 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 146 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/12khari-2022/12khari-2022-10-04T16:43:21.841030+05:45.jpg">
+  <img src="https://archive.org/download/12khari-2022/12khari-2022-10-04T16:43:21.841030+05:45.jpg"
+     alt="Baahrakhari at 2022-10-04 16:43:32+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/12khari-2022/12khari-2022-10-04T16:43:21.841030+05:45.jpg">October 4 at 4:43 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/12khari-2022/12khari-2022-10-04T04:40:15.298122+05:45.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/12khari-2022/12khari-2022-09-29T04:37:23.934490+05:45.jpg">September 29 at 4:37 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/12khari-2022/12khari-2022-09-28T16:47:21.882073+05:45.jpg">
-  <img src="https://archive.org/download/12khari-2022/12khari-2022-09-28T16:47:21.882073+05:45.jpg"
-     alt="Baahrakhari at 2022-09-28 16:47:46+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/12khari-2022/12khari-2022-09-28T16:47:21.882073+05:45.jpg">September 28 at 4:47 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 146 hyperlink lists with the Internet Archive.
+The archiving routine has saved 147 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 4:43 PM](https://archive.org/download/12khari-2022/12khari-2022-10-04T16:43:21.841030+05:45.hyperlinks.json) |
 | [October 4 at 4:40 AM](https://archive.org/download/12khari-2022/12khari-2022-10-04T04:40:15.298122+05:45.hyperlinks.json) |
 | [October 3 at 4:32 PM](https://archive.org/download/12khari-2022/12khari-2022-10-03T16:31:30.234944+05:45.hyperlinks.json) |
 | [October 3 at 4:43 AM](https://archive.org/download/12khari-2022/12khari-2022-10-03T04:43:01.147552+05:45.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 4:45 AM](https://archive.org/download/12khari-2022/12khari-2022-10-01T04:45:29.992039+05:45.hyperlinks.json) |
 | [September 30 at 4:38 PM](https://archive.org/download/12khari-2022/12khari-2022-09-30T16:38:33.558297+05:45.hyperlinks.json) |
 | [September 30 at 4:43 AM](https://archive.org/download/12khari-2022/12khari-2022-09-30T04:43:12.264609+05:45.hyperlinks.json) |
-| [September 29 at 4:35 PM](https://archive.org/download/12khari-2022/12khari-2022-09-29T16:35:29.468597+05:45.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 146 accessibility trees with the Internet Archive.
+The archiving routine has saved 147 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 4:43 PM](https://archive.org/download/12khari-2022/12khari-2022-10-04T16:43:21.841030+05:45.accessibility.json) |
 | [October 4 at 4:40 AM](https://archive.org/download/12khari-2022/12khari-2022-10-04T04:40:15.298122+05:45.accessibility.json) |
 | [October 3 at 4:32 PM](https://archive.org/download/12khari-2022/12khari-2022-10-03T16:31:30.234944+05:45.accessibility.json) |
 | [October 3 at 4:43 AM](https://archive.org/download/12khari-2022/12khari-2022-10-03T04:43:01.147552+05:45.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 4:45 AM](https://archive.org/download/12khari-2022/12khari-2022-10-01T04:45:29.992039+05:45.accessibility.json) |
 | [September 30 at 4:38 PM](https://archive.org/download/12khari-2022/12khari-2022-09-30T16:38:33.558297+05:45.accessibility.json) |
 | [September 30 at 4:43 AM](https://archive.org/download/12khari-2022/12khari-2022-09-30T04:43:12.264609+05:45.accessibility.json) |
-| [September 29 at 4:35 PM](https://archive.org/download/12khari-2022/12khari-2022-09-29T16:35:29.468597+05:45.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 146 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 147 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 4:43 PM](https://archive.org/download/12khari-2022/12khari-2022-10-04T16:43:21.841030+05:45.lighthouse.json) |
 | [October 4 at 4:40 AM](https://archive.org/download/12khari-2022/12khari-2022-10-04T04:40:15.298122+05:45.lighthouse.json) |
 | [October 3 at 4:32 PM](https://archive.org/download/12khari-2022/12khari-2022-10-03T16:31:30.234944+05:45.lighthouse.json) |
 | [October 3 at 4:43 AM](https://archive.org/download/12khari-2022/12khari-2022-10-03T04:43:01.147552+05:45.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 4:45 AM](https://archive.org/download/12khari-2022/12khari-2022-10-01T04:45:29.992039+05:45.lighthouse.json) |
 | [September 30 at 4:38 PM](https://archive.org/download/12khari-2022/12khari-2022-09-30T16:38:33.558297+05:45.lighthouse.json) |
 | [September 30 at 4:43 AM](https://archive.org/download/12khari-2022/12khari-2022-09-30T04:43:12.264609+05:45.lighthouse.json) |
-| [September 29 at 4:35 PM](https://archive.org/download/12khari-2022/12khari-2022-09-29T16:35:29.468597+05:45.lighthouse.json) |
 
 
 
