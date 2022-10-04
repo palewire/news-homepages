@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 519 screenshots with the Internet Archive.
+The archiving routine has saved 520 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 519 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/telegraph-2022/telegraph-2022-10-04T16:09:08.962845+01:00.jpg">
+  <img src="https://archive.org/download/telegraph-2022/telegraph-2022-10-04T16:09:08.962845+01:00.jpg"
+     alt="The Telegraph at 2022-10-04 16:09:20+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-10-04T16:09:08.962845+01:00.jpg">October 4 at 4:09 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telegraph-2022/telegraph-2022-10-04T10:25:50.141619+01:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-10-01T04:48:19.595268+01:00.jpg">October 1 at 4:48 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/telegraph-2022/telegraph-2022-09-30T17:16:02.970252+01:00.jpg">
-  <img src="https://archive.org/download/telegraph-2022/telegraph-2022-09-30T17:16:02.970252+01:00.jpg"
-     alt="The Telegraph at 2022-09-30 17:16:14+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-09-30T17:16:02.970252+01:00.jpg">September 30 at 5:16 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 505 hyperlink lists with the Internet Archive.
+The archiving routine has saved 506 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 4:09 PM](https://archive.org/download/telegraph-2022/telegraph-2022-10-04T16:09:08.962845+01:00.hyperlinks.json) |
 | [October 4 at 10:25 AM](https://archive.org/download/telegraph-2022/telegraph-2022-10-04T10:25:50.141619+01:00.hyperlinks.json) |
 | [October 4 at 4:40 AM](https://archive.org/download/telegraph-2022/telegraph-2022-10-04T04:40:16.474062+01:00.hyperlinks.json) |
 | [October 3 at 4:08 PM](https://archive.org/download/telegraph-2022/telegraph-2022-10-03T16:07:56.430762+01:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 2 at 10:17 AM](https://archive.org/download/telegraph-2022/telegraph-2022-10-02T10:17:10.579984+01:00.hyperlinks.json) |
 | [October 2 at 4:42 AM](https://archive.org/download/telegraph-2022/telegraph-2022-10-02T04:42:06.824741+01:00.hyperlinks.json) |
 | [October 1 at 4:01 PM](https://archive.org/download/telegraph-2022/telegraph-2022-10-01T16:01:25.219558+01:00.hyperlinks.json) |
-| [October 1 at 10:19 AM](https://archive.org/download/telegraph-2022/telegraph-2022-10-01T10:19:22.521452+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 507 accessibility trees with the Internet Archive.
+The archiving routine has saved 508 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 4:09 PM](https://archive.org/download/telegraph-2022/telegraph-2022-10-04T16:09:08.962845+01:00.accessibility.json) |
 | [October 4 at 10:25 AM](https://archive.org/download/telegraph-2022/telegraph-2022-10-04T10:25:50.141619+01:00.accessibility.json) |
 | [October 4 at 4:40 AM](https://archive.org/download/telegraph-2022/telegraph-2022-10-04T04:40:16.474062+01:00.accessibility.json) |
 | [October 3 at 4:08 PM](https://archive.org/download/telegraph-2022/telegraph-2022-10-03T16:07:56.430762+01:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 2 at 10:17 AM](https://archive.org/download/telegraph-2022/telegraph-2022-10-02T10:17:10.579984+01:00.accessibility.json) |
 | [October 2 at 4:42 AM](https://archive.org/download/telegraph-2022/telegraph-2022-10-02T04:42:06.824741+01:00.accessibility.json) |
 | [October 1 at 4:01 PM](https://archive.org/download/telegraph-2022/telegraph-2022-10-01T16:01:25.219558+01:00.accessibility.json) |
-| [October 1 at 10:19 AM](https://archive.org/download/telegraph-2022/telegraph-2022-10-01T10:19:22.521452+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 219 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 220 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 4:09 PM](https://archive.org/download/telegraph-2022/telegraph-2022-10-04T16:09:08.962845+01:00.lighthouse.json) |
 | [October 4 at 10:25 AM](https://archive.org/download/telegraph-2022/telegraph-2022-10-04T10:25:50.141619+01:00.lighthouse.json) |
 | [October 4 at 4:40 AM](https://archive.org/download/telegraph-2022/telegraph-2022-10-04T04:40:16.474062+01:00.lighthouse.json) |
 | [October 3 at 4:08 PM](https://archive.org/download/telegraph-2022/telegraph-2022-10-03T16:07:56.430762+01:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 2 at 10:17 AM](https://archive.org/download/telegraph-2022/telegraph-2022-10-02T10:17:10.579984+01:00.lighthouse.json) |
 | [October 2 at 4:42 AM](https://archive.org/download/telegraph-2022/telegraph-2022-10-02T04:42:06.824741+01:00.lighthouse.json) |
 | [October 1 at 4:01 PM](https://archive.org/download/telegraph-2022/telegraph-2022-10-01T16:01:25.219558+01:00.lighthouse.json) |
-| [October 1 at 10:19 AM](https://archive.org/download/telegraph-2022/telegraph-2022-10-01T10:19:22.521452+01:00.lighthouse.json) |
 
 
 
