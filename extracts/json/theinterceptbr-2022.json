@@ -1,5 +1,5 @@
 {
-  "created": 1664885643,
+  "created": 1664896430,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/3/items/theinterceptbr-2022",
@@ -10930,31 +10930,93 @@
       "sha1": "6a8e49f428fc0f5bde5eefe150202953f4d373ca"
     },
     {
+      "name": "theinterceptbr-2022-10-04T12:11:51.984836-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664896323",
+      "size": "6231",
+      "md5": "60dd9c96daff2a898700f8c16347c5a6",
+      "crc32": "fe45ac49",
+      "sha1": "cec3bc322b35790964e5d7fa357620b671c82e38",
+      "format": "JSON"
+    },
+    {
+      "name": "theinterceptbr-2022-10-04T12:11:51.984836-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664896325",
+      "size": "5365",
+      "md5": "07d1293cbc9aabb9f96814313beb6575",
+      "crc32": "54a8372b",
+      "sha1": "e643773d35d9ea7c60a215161dd538d77931ce21",
+      "format": "JSON"
+    },
+    {
+      "name": "theinterceptbr-2022-10-04T12:11:51.984836-03:00.jpg",
+      "source": "original",
+      "mtime": "1664896320",
+      "size": "206413",
+      "md5": "63f1667727e6082e81a5f0d3e44eab16",
+      "crc32": "5d71d433",
+      "sha1": "5f77fe3a3cc601be3946e9f76e162d45da54b650",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theinterceptbr-2022-10-04T12:11:51.984836-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664896328",
+      "size": "1540",
+      "md5": "4f79113237aa9bf725d41b464768f83b",
+      "crc32": "1b636ec2",
+      "sha1": "ac603d08d6fa46a588b5561779cb3b91c0271765",
+      "format": "JSON"
+    },
+    {
+      "name": "theinterceptbr-2022-10-04T12:11:51.984836-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664896331",
+      "size": "26122",
+      "md5": "de3f89dd5bfaa4632d8b594a3afe9b61",
+      "crc32": "d197113b",
+      "sha1": "b7cef00b8aefbb44b6c29f8f041b65736592f89e",
+      "format": "JSON"
+    },
+    {
+      "name": "theinterceptbr-2022-10-04T12:11:51.984836-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theinterceptbr-2022-10-04T12:11:51.984836-03:00.jpg",
+      "mtime": "1664896403",
+      "size": "9379",
+      "md5": "9d82bbab13efc81d85b7a23526d57e56",
+      "crc32": "2c2cad32",
+      "sha1": "6a8e49f428fc0f5bde5eefe150202953f4d373ca"
+    },
+    {
       "name": "theinterceptbr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "db3bb07fb37e1bc5e97fa96992e1dd61cd97d225",
-      "mtime": "1664885599",
-      "size": "228728",
-      "md5": "f6c5d1fd899094c4d8e527122078cbd1",
-      "crc32": "989e18d5",
-      "sha1": "4870ad310212df338071d7e0cdb9bab9e20320bc",
+      "btih": "727be1cf48dba72bffb5eb38cbfb7d0edb6e7279",
+      "mtime": "1664896415",
+      "size": "230029",
+      "md5": "338f05d7582f7ac4b3a012fb028763b5",
+      "crc32": "12266c1d",
+      "sha1": "989859bd2dc26cd8dbc4730946ddcbbfcdad6146",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theinterceptbr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3b9f4138806070385de923d89e87b0d4",
+      "md5": "18e4d4bde14e062b795bb1b8a5709416",
       "summation": "md5"
     },
     {
       "name": "theinterceptbr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664885481",
-      "size": "1363968",
-      "md5": "c030dfa638a5ab755fc832389d0985c0",
-      "crc32": "08962e2a",
-      "sha1": "a25c9d344557bc68dc29b783adb986931479dc8a",
+      "mtime": "1664896336",
+      "size": "1376256",
+      "md5": "be438343720062f173fb61e7893050a6",
+      "crc32": "63ba1289",
+      "sha1": "7b890040c1124c28f83a4679a15611518985ccd3",
       "format": "Metadata"
     },
     {
@@ -10968,9 +11030,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1061,
-  "item_last_updated": 1664885599,
-  "item_size": 45181091,
+  "files_count": 1067,
+  "item_last_updated": 1664896415,
+  "item_size": 45449730,
   "metadata": {
     "identifier": "theinterceptbr-2022",
     "collection": [
@@ -10987,10 +11049,10 @@
     "publicdate": "2022-08-03 01:57:11",
     "addeddate": "2022-08-03 01:57:11"
   },
-  "server": "ia601505.us.archive.org",
-  "uniq": 105898018,
+  "server": "ia801505.us.archive.org",
+  "uniq": 1393536013,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia801505.us.archive.org",
+    "ia601505.us.archive.org"
   ]
 }
