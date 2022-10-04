@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 29 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ioniassnews-2022/ioniassnews-2022-10-04T08:59:13.593045-04:00.jpg">
+  <img src="https://archive.org/download/ioniassnews-2022/ioniassnews-2022-10-04T08:59:13.593045-04:00.jpg"
+     alt="Ionia Sentinel-Standard at 2022-10-04 08:59:15-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ioniassnews-2022/ioniassnews-2022-10-04T08:59:13.593045-04:00.jpg">October 4 at 8:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ioniassnews-2022/ioniassnews-2022-10-03T21:26:06.045815-04:00.jpg">
+  <img src="https://archive.org/download/ioniassnews-2022/ioniassnews-2022-10-03T21:26:06.045815-04:00.jpg"
+     alt="Ionia Sentinel-Standard at 2022-10-03 21:26:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ioniassnews-2022/ioniassnews-2022-10-03T21:26:06.045815-04:00.jpg">October 3 at 9:26 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ioniassnews-2022/ioniassnews-2022-10-03T08:55:50.767115-04:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ioniassnews-2022/ioniassnews-2022-09-28T21:19:26.851096-04:00.jpg">September 28 at 9:19 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ioniassnews-2022/ioniassnews-2022-09-28T08:58:51.639769-04:00.jpg">
-  <img src="https://archive.org/download/ioniassnews-2022/ioniassnews-2022-09-28T08:58:51.639769-04:00.jpg"
-     alt="Ionia Sentinel-Standard at 2022-09-28 08:58:55-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ioniassnews-2022/ioniassnews-2022-09-28T08:58:51.639769-04:00.jpg">September 28 at 8:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ioniassnews-2022/ioniassnews-2022-09-27T21:23:21.827457-04:00.jpg">
-  <img src="https://archive.org/download/ioniassnews-2022/ioniassnews-2022-09-27T21:23:21.827457-04:00.jpg"
-     alt="Ionia Sentinel-Standard at 2022-09-27 21:23:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ioniassnews-2022/ioniassnews-2022-09-27T21:23:21.827457-04:00.jpg">September 27 at 9:23 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 27 hyperlink lists with the Internet Archive.
+The archiving routine has saved 29 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 8:59 AM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-10-04T08:59:13.593045-04:00.hyperlinks.json) |
+| [October 3 at 9:26 PM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-10-03T21:26:06.045815-04:00.hyperlinks.json) |
 | [October 3 at 8:55 AM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-10-03T08:55:50.767115-04:00.hyperlinks.json) |
 | [October 2 at 9:13 PM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-10-02T21:12:58.864971-04:00.hyperlinks.json) |
 | [October 2 at 8:56 AM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-10-02T08:56:35.676687-04:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 9:31 PM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-09-30T21:31:04.443935-04:00.hyperlinks.json) |
 | [September 30 at 9:01 AM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-09-30T09:01:43.769502-04:00.hyperlinks.json) |
 | [September 29 at 9:34 PM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-09-29T21:34:05.986339-04:00.hyperlinks.json) |
-| [September 29 at 8:55 AM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-09-29T08:55:33.985332-04:00.hyperlinks.json) |
-| [September 28 at 9:19 PM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-09-28T21:19:26.851096-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 26 accessibility trees with the Internet Archive.
+The archiving routine has saved 28 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 8:59 AM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-10-04T08:59:13.593045-04:00.accessibility.json) |
+| [October 3 at 9:26 PM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-10-03T21:26:06.045815-04:00.accessibility.json) |
 | [October 3 at 8:55 AM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-10-03T08:55:50.767115-04:00.accessibility.json) |
 | [October 2 at 9:13 PM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-10-02T21:12:58.864971-04:00.accessibility.json) |
 | [October 2 at 8:56 AM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-10-02T08:56:35.676687-04:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 9:31 PM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-09-30T21:31:04.443935-04:00.accessibility.json) |
 | [September 30 at 9:01 AM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-09-30T09:01:43.769502-04:00.accessibility.json) |
 | [September 29 at 9:34 PM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-09-29T21:34:05.986339-04:00.accessibility.json) |
-| [September 29 at 8:55 AM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-09-29T08:55:33.985332-04:00.accessibility.json) |
-| [September 28 at 9:19 PM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-09-28T21:19:26.851096-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 8:59 AM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-10-04T08:59:13.593045-04:00.lighthouse.json) |
+| [October 3 at 9:26 PM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-10-03T21:26:06.045815-04:00.lighthouse.json) |
 | [October 3 at 8:55 AM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-10-03T08:55:50.767115-04:00.lighthouse.json) |
 | [October 2 at 9:13 PM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-10-02T21:12:58.864971-04:00.lighthouse.json) |
 | [October 2 at 8:56 AM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-10-02T08:56:35.676687-04:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 9:31 PM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-09-30T21:31:04.443935-04:00.lighthouse.json) |
 | [September 30 at 9:01 AM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-09-30T09:01:43.769502-04:00.lighthouse.json) |
 | [September 29 at 9:34 PM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-09-29T21:34:05.986339-04:00.lighthouse.json) |
-| [September 29 at 8:55 AM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-09-29T08:55:33.985332-04:00.lighthouse.json) |
-| [September 28 at 9:19 PM](https://archive.org/download/ioniassnews-2022/ioniassnews-2022-09-28T21:19:26.851096-04:00.lighthouse.json) |
 
 
 

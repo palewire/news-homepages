@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 43 screenshots with the Internet Archive.
+The archiving routine has saved 45 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-10-04T05:03:58.952375-08:00.jpg">
+  <img src="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-10-04T05:03:58.952375-08:00.jpg"
+     alt="Midnight Sun at 2022-10-04 05:04:01-08:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-10-04T05:03:58.952375-08:00.jpg">October 4 at 5:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-10-03T17:32:08.624982-08:00.jpg">
+  <img src="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-10-03T17:32:08.624982-08:00.jpg"
+     alt="Midnight Sun at 2022-10-03 17:32:11-08:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-10-03T17:32:08.624982-08:00.jpg">October 3 at 5:32 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-10-03T05:00:17.455234-08:00.jpg">
   <img src="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-10-03T05:00:17.455234-08:00.jpg"
      alt="Midnight Sun at 2022-10-03 05:00:24-08:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-28T17:25:08.444218-08:00.jpg">September 28 at 5:25 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-28T05:03:01.100237-08:00.jpg">
-  <img src="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-28T05:03:01.100237-08:00.jpg"
-     alt="Midnight Sun at 2022-09-28 05:03:04-08:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-28T05:03:01.100237-08:00.jpg">September 28 at 5:03 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-27T17:28:47.943734-08:00.jpg">
-  <img src="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-27T17:28:47.943734-08:00.jpg"
-     alt="Midnight Sun at 2022-09-27 17:28:50-08:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-27T17:28:47.943734-08:00.jpg">September 27 at 5:28 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 43 hyperlink lists with the Internet Archive.
+The archiving routine has saved 45 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 5:04 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-10-04T05:03:58.952375-08:00.hyperlinks.json) |
+| [October 3 at 5:32 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-10-03T17:32:08.624982-08:00.hyperlinks.json) |
 | [October 3 at 5:00 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-10-03T05:00:17.455234-08:00.hyperlinks.json) |
 | [October 2 at 5:17 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-10-02T17:17:34.162243-08:00.hyperlinks.json) |
 | [October 2 at 5:01 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-10-02T05:00:59.076677-08:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 5:36 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-30T17:36:21.713189-08:00.hyperlinks.json) |
 | [September 30 at 5:07 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-30T05:06:53.921526-08:00.hyperlinks.json) |
 | [September 29 at 5:40 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-29T17:40:45.576806-08:00.hyperlinks.json) |
-| [September 29 at 4:59 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-29T04:59:50.843483-08:00.hyperlinks.json) |
-| [September 28 at 5:25 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-28T17:25:08.444218-08:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 43 accessibility trees with the Internet Archive.
+The archiving routine has saved 45 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 5:04 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-10-04T05:03:58.952375-08:00.accessibility.json) |
+| [October 3 at 5:32 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-10-03T17:32:08.624982-08:00.accessibility.json) |
 | [October 3 at 5:00 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-10-03T05:00:17.455234-08:00.accessibility.json) |
 | [October 2 at 5:17 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-10-02T17:17:34.162243-08:00.accessibility.json) |
 | [October 2 at 5:01 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-10-02T05:00:59.076677-08:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 5:36 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-30T17:36:21.713189-08:00.accessibility.json) |
 | [September 30 at 5:07 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-30T05:06:53.921526-08:00.accessibility.json) |
 | [September 29 at 5:40 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-29T17:40:45.576806-08:00.accessibility.json) |
-| [September 29 at 4:59 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-29T04:59:50.843483-08:00.accessibility.json) |
-| [September 28 at 5:25 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-28T17:25:08.444218-08:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 5:04 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-10-04T05:03:58.952375-08:00.lighthouse.json) |
+| [October 3 at 5:32 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-10-03T17:32:08.624982-08:00.lighthouse.json) |
 | [October 3 at 5:00 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-10-03T05:00:17.455234-08:00.lighthouse.json) |
 | [October 2 at 5:17 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-10-02T17:17:34.162243-08:00.lighthouse.json) |
 | [October 2 at 5:01 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-10-02T05:00:59.076677-08:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 5:36 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-30T17:36:21.713189-08:00.lighthouse.json) |
 | [September 30 at 5:07 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-30T05:06:53.921526-08:00.lighthouse.json) |
 | [September 29 at 5:40 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-29T17:40:45.576806-08:00.lighthouse.json) |
-| [September 29 at 5:00 AM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-29T04:59:50.843483-08:00.lighthouse.json) |
-| [September 28 at 5:25 PM](https://archive.org/download/midnight_sun_ak-2022/midnight_sun_ak-2022-09-28T17:25:08.444218-08:00.lighthouse.json) |
 
 
 

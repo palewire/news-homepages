@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 130 screenshots with the Internet Archive.
+The archiving routine has saved 132 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-10-04T09:01:54.091012-04:00.jpg">
+  <img src="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-10-04T09:01:54.091012-04:00.jpg"
+     alt="WFPL at 2022-10-04 09:01:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-10-04T09:01:54.091012-04:00.jpg">October 4 at 9:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-10-03T21:28:58.457780-04:00.jpg">
+  <img src="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-10-03T21:28:58.457780-04:00.jpg"
+     alt="WFPL at 2022-10-03 21:29:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-10-03T21:28:58.457780-04:00.jpg">October 3 at 9:29 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-10-03T08:57:41.835469-04:00.jpg">
   <img src="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-10-03T08:57:41.835469-04:00.jpg"
      alt="WFPL at 2022-10-03 08:57:46-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-09-28T21:22:31.925137-04:00.jpg">September 28 at 9:22 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-09-28T09:01:29.991905-04:00.jpg">
-  <img src="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-09-28T09:01:29.991905-04:00.jpg"
-     alt="WFPL at 2022-09-28 09:01:36-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-09-28T09:01:29.991905-04:00.jpg">September 28 at 9:01 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-09-27T21:26:14.294101-04:00.jpg">
-  <img src="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-09-27T21:26:14.294101-04:00.jpg"
-     alt="WFPL at 2022-09-27 21:26:18-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-09-27T21:26:14.294101-04:00.jpg">September 27 at 9:26 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 128 hyperlink lists with the Internet Archive.
+The archiving routine has saved 130 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 9:02 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-10-04T09:01:54.091012-04:00.hyperlinks.json) |
+| [October 3 at 9:29 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-10-03T21:28:58.457780-04:00.hyperlinks.json) |
 | [October 3 at 8:57 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-10-03T08:57:41.835469-04:00.hyperlinks.json) |
 | [October 2 at 9:15 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-10-02T21:14:57.599180-04:00.hyperlinks.json) |
 | [October 2 at 8:58 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-10-02T08:58:22.709200-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 9:33 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-09-30T21:33:45.999487-04:00.hyperlinks.json) |
 | [September 30 at 9:05 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-09-30T09:04:58.458944-04:00.hyperlinks.json) |
 | [September 29 at 9:37 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-09-29T21:37:00.816850-04:00.hyperlinks.json) |
-| [September 29 at 8:58 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-09-29T08:57:57.747985-04:00.hyperlinks.json) |
-| [September 28 at 9:22 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-09-28T21:22:31.925137-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 130 accessibility trees with the Internet Archive.
+The archiving routine has saved 132 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 9:01 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-10-04T09:01:54.091012-04:00.accessibility.json) |
+| [October 3 at 9:29 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-10-03T21:28:58.457780-04:00.accessibility.json) |
 | [October 3 at 8:57 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-10-03T08:57:41.835469-04:00.accessibility.json) |
 | [October 2 at 9:15 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-10-02T21:14:57.599180-04:00.accessibility.json) |
 | [October 2 at 8:58 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-10-02T08:58:22.709200-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 9:33 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-09-30T21:33:45.999487-04:00.accessibility.json) |
 | [September 30 at 9:05 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-09-30T09:04:58.458944-04:00.accessibility.json) |
 | [September 29 at 9:37 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-09-29T21:37:00.816850-04:00.accessibility.json) |
-| [September 29 at 8:58 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-09-29T08:57:57.747985-04:00.accessibility.json) |
-| [September 28 at 9:22 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-09-28T21:22:31.925137-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 129 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 131 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 9:02 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-10-04T09:01:54.091012-04:00.lighthouse.json) |
+| [October 3 at 9:29 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-10-03T21:28:58.457780-04:00.lighthouse.json) |
 | [October 3 at 8:57 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-10-03T08:57:41.835469-04:00.lighthouse.json) |
 | [October 2 at 9:15 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-10-02T21:14:57.599180-04:00.lighthouse.json) |
 | [October 2 at 8:58 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-10-02T08:58:22.709200-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 9:34 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-09-30T21:33:45.999487-04:00.lighthouse.json) |
 | [September 30 at 9:05 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-09-30T09:04:58.458944-04:00.lighthouse.json) |
 | [September 29 at 9:37 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-09-29T21:37:00.816850-04:00.lighthouse.json) |
-| [September 29 at 8:58 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-09-29T08:57:57.747985-04:00.lighthouse.json) |
-| [September 28 at 9:22 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-09-28T21:22:31.925137-04:00.lighthouse.json) |
 
 
 

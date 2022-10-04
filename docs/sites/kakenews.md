@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 125 screenshots with the Internet Archive.
+The archiving routine has saved 127 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kakenews-2022/kakenews-2022-10-04T08:01:20.748915-05:00.jpg">
+  <img src="https://archive.org/download/kakenews-2022/kakenews-2022-10-04T08:01:20.748915-05:00.jpg"
+     alt="KAKE News at 2022-10-04 08:01:23-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kakenews-2022/kakenews-2022-10-04T08:01:20.748915-05:00.jpg">October 4 at 8:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kakenews-2022/kakenews-2022-10-03T20:26:15.892947-05:00.jpg">
+  <img src="https://archive.org/download/kakenews-2022/kakenews-2022-10-03T20:26:15.892947-05:00.jpg"
+     alt="KAKE News at 2022-10-03 20:26:17-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kakenews-2022/kakenews-2022-10-03T20:26:15.892947-05:00.jpg">October 3 at 8:26 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kakenews-2022/kakenews-2022-10-03T07:55:30.957076-05:00.jpg">
   <img src="https://archive.org/download/kakenews-2022/kakenews-2022-10-03T07:55:30.957076-05:00.jpg"
      alt="KAKE News at 2022-10-03 07:55:59-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kakenews-2022/kakenews-2022-09-28T20:19:31.179077-05:00.jpg">September 28 at 8:19 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kakenews-2022/kakenews-2022-09-28T08:00:46.196798-05:00.jpg">
-  <img src="https://archive.org/download/kakenews-2022/kakenews-2022-09-28T08:00:46.196798-05:00.jpg"
-     alt="KAKE News at 2022-09-28 08:00:50-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kakenews-2022/kakenews-2022-09-28T08:00:46.196798-05:00.jpg">September 28 at 8:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kakenews-2022/kakenews-2022-09-27T20:23:05.952296-05:00.jpg">
-  <img src="https://archive.org/download/kakenews-2022/kakenews-2022-09-27T20:23:05.952296-05:00.jpg"
-     alt="KAKE News at 2022-09-27 20:23:09-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kakenews-2022/kakenews-2022-09-27T20:23:05.952296-05:00.jpg">September 27 at 8:23 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 114 hyperlink lists with the Internet Archive.
+The archiving routine has saved 116 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 8:01 AM](https://archive.org/download/kakenews-2022/kakenews-2022-10-04T08:01:20.748915-05:00.hyperlinks.json) |
+| [October 3 at 8:26 PM](https://archive.org/download/kakenews-2022/kakenews-2022-10-03T20:26:15.892947-05:00.hyperlinks.json) |
 | [October 3 at 7:56 AM](https://archive.org/download/kakenews-2022/kakenews-2022-10-03T07:55:30.957076-05:00.hyperlinks.json) |
 | [October 2 at 8:13 PM](https://archive.org/download/kakenews-2022/kakenews-2022-10-02T20:12:54.867946-05:00.hyperlinks.json) |
 | [October 2 at 7:56 AM](https://archive.org/download/kakenews-2022/kakenews-2022-10-02T07:56:03.493606-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 8:30 PM](https://archive.org/download/kakenews-2022/kakenews-2022-09-30T20:30:21.161755-05:00.hyperlinks.json) |
 | [September 30 at 8:01 AM](https://archive.org/download/kakenews-2022/kakenews-2022-09-30T08:01:42.957270-05:00.hyperlinks.json) |
 | [September 29 at 8:34 PM](https://archive.org/download/kakenews-2022/kakenews-2022-09-29T20:34:02.289091-05:00.hyperlinks.json) |
-| [September 29 at 7:56 AM](https://archive.org/download/kakenews-2022/kakenews-2022-09-29T07:55:59.205695-05:00.hyperlinks.json) |
-| [September 28 at 8:19 PM](https://archive.org/download/kakenews-2022/kakenews-2022-09-28T20:19:31.179077-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 111 accessibility trees with the Internet Archive.
+The archiving routine has saved 113 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 8:01 AM](https://archive.org/download/kakenews-2022/kakenews-2022-10-04T08:01:20.748915-05:00.accessibility.json) |
+| [October 3 at 8:26 PM](https://archive.org/download/kakenews-2022/kakenews-2022-10-03T20:26:15.892947-05:00.accessibility.json) |
 | [October 3 at 7:56 AM](https://archive.org/download/kakenews-2022/kakenews-2022-10-03T07:55:30.957076-05:00.accessibility.json) |
 | [October 2 at 8:12 PM](https://archive.org/download/kakenews-2022/kakenews-2022-10-02T20:12:54.867946-05:00.accessibility.json) |
 | [October 2 at 7:56 AM](https://archive.org/download/kakenews-2022/kakenews-2022-10-02T07:56:03.493606-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 8:30 PM](https://archive.org/download/kakenews-2022/kakenews-2022-09-30T20:30:21.161755-05:00.accessibility.json) |
 | [September 30 at 8:01 AM](https://archive.org/download/kakenews-2022/kakenews-2022-09-30T08:01:42.957270-05:00.accessibility.json) |
 | [September 29 at 8:34 PM](https://archive.org/download/kakenews-2022/kakenews-2022-09-29T20:34:02.289091-05:00.accessibility.json) |
-| [September 29 at 7:56 AM](https://archive.org/download/kakenews-2022/kakenews-2022-09-29T07:55:59.205695-05:00.accessibility.json) |
-| [September 28 at 8:19 PM](https://archive.org/download/kakenews-2022/kakenews-2022-09-28T20:19:31.179077-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 125 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 127 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 8:01 AM](https://archive.org/download/kakenews-2022/kakenews-2022-10-04T08:01:20.748915-05:00.lighthouse.json) |
+| [October 3 at 8:26 PM](https://archive.org/download/kakenews-2022/kakenews-2022-10-03T20:26:15.892947-05:00.lighthouse.json) |
 | [October 3 at 7:56 AM](https://archive.org/download/kakenews-2022/kakenews-2022-10-03T07:55:30.957076-05:00.lighthouse.json) |
 | [October 2 at 8:13 PM](https://archive.org/download/kakenews-2022/kakenews-2022-10-02T20:12:54.867946-05:00.lighthouse.json) |
 | [October 2 at 7:56 AM](https://archive.org/download/kakenews-2022/kakenews-2022-10-02T07:56:03.493606-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 8:30 PM](https://archive.org/download/kakenews-2022/kakenews-2022-09-30T20:30:21.161755-05:00.lighthouse.json) |
 | [September 30 at 8:01 AM](https://archive.org/download/kakenews-2022/kakenews-2022-09-30T08:01:42.957270-05:00.lighthouse.json) |
 | [September 29 at 8:34 PM](https://archive.org/download/kakenews-2022/kakenews-2022-09-29T20:34:02.289091-05:00.lighthouse.json) |
-| [September 29 at 7:56 AM](https://archive.org/download/kakenews-2022/kakenews-2022-09-29T07:55:59.205695-05:00.lighthouse.json) |
-| [September 28 at 8:19 PM](https://archive.org/download/kakenews-2022/kakenews-2022-09-28T20:19:31.179077-05:00.lighthouse.json) |
 
 
 

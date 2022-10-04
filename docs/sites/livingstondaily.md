@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 29 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/livingstondaily-2022/livingstondaily-2022-10-04T09:03:46.091062-04:00.jpg">
+  <img src="https://archive.org/download/livingstondaily-2022/livingstondaily-2022-10-04T09:03:46.091062-04:00.jpg"
+     alt="Livingston County Daily Press & Argus at 2022-10-04 09:03:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/livingstondaily-2022/livingstondaily-2022-10-04T09:03:46.091062-04:00.jpg">October 4 at 9:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/livingstondaily-2022/livingstondaily-2022-10-03T21:31:44.980823-04:00.jpg">
+  <img src="https://archive.org/download/livingstondaily-2022/livingstondaily-2022-10-03T21:31:44.980823-04:00.jpg"
+     alt="Livingston County Daily Press & Argus at 2022-10-03 21:31:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/livingstondaily-2022/livingstondaily-2022-10-03T21:31:44.980823-04:00.jpg">October 3 at 9:31 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/livingstondaily-2022/livingstondaily-2022-10-03T08:59:57.136030-04:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/livingstondaily-2022/livingstondaily-2022-09-28T21:24:16.417226-04:00.jpg">September 28 at 9:24 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/livingstondaily-2022/livingstondaily-2022-09-28T09:03:02.053068-04:00.jpg">
-  <img src="https://archive.org/download/livingstondaily-2022/livingstondaily-2022-09-28T09:03:02.053068-04:00.jpg"
-     alt="Livingston County Daily Press & Argus at 2022-09-28 09:03:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/livingstondaily-2022/livingstondaily-2022-09-28T09:03:02.053068-04:00.jpg">September 28 at 9:03 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/livingstondaily-2022/livingstondaily-2022-09-27T21:28:59.761556-04:00.jpg">
-  <img src="https://archive.org/download/livingstondaily-2022/livingstondaily-2022-09-27T21:28:59.761556-04:00.jpg"
-     alt="Livingston County Daily Press & Argus at 2022-09-27 21:29:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/livingstondaily-2022/livingstondaily-2022-09-27T21:28:59.761556-04:00.jpg">September 27 at 9:29 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 27 hyperlink lists with the Internet Archive.
+The archiving routine has saved 29 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 9:03 AM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-10-04T09:03:46.091062-04:00.hyperlinks.json) |
+| [October 3 at 9:31 PM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-10-03T21:31:44.980823-04:00.hyperlinks.json) |
 | [October 3 at 9:00 AM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-10-03T08:59:57.136030-04:00.hyperlinks.json) |
 | [October 2 at 9:17 PM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-10-02T21:17:45.814571-04:00.hyperlinks.json) |
 | [October 2 at 9:00 AM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-10-02T09:00:42.912908-04:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 30 at 9:36 PM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-09-30T21:36:40.669565-04:00.hyperlinks.json) |
 | [September 30 at 9:06 AM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-09-30T09:06:17.575256-04:00.hyperlinks.json) |
 | [September 29 at 9:40 PM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-09-29T21:40:01.023345-04:00.hyperlinks.json) |
-| [September 29 at 9:00 AM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-09-29T08:59:57.644391-04:00.hyperlinks.json) |
-| [September 28 at 9:24 PM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-09-28T21:24:16.417226-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 27 accessibility trees with the Internet Archive.
+The archiving routine has saved 29 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 9:03 AM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-10-04T09:03:46.091062-04:00.accessibility.json) |
+| [October 3 at 9:31 PM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-10-03T21:31:44.980823-04:00.accessibility.json) |
 | [October 3 at 9:00 AM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-10-03T08:59:57.136030-04:00.accessibility.json) |
 | [October 2 at 9:17 PM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-10-02T21:17:45.814571-04:00.accessibility.json) |
 | [October 2 at 9:00 AM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-10-02T09:00:42.912908-04:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 30 at 9:36 PM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-09-30T21:36:40.669565-04:00.accessibility.json) |
 | [September 30 at 9:06 AM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-09-30T09:06:17.575256-04:00.accessibility.json) |
 | [September 29 at 9:40 PM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-09-29T21:40:01.023345-04:00.accessibility.json) |
-| [September 29 at 9:00 AM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-09-29T08:59:57.644391-04:00.accessibility.json) |
-| [September 28 at 9:24 PM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-09-28T21:24:16.417226-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 9:03 AM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-10-04T09:03:46.091062-04:00.lighthouse.json) |
+| [October 3 at 9:31 PM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-10-03T21:31:44.980823-04:00.lighthouse.json) |
 | [October 3 at 9:00 AM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-10-03T08:59:57.136030-04:00.lighthouse.json) |
 | [October 2 at 9:17 PM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-10-02T21:17:45.814571-04:00.lighthouse.json) |
 | [October 2 at 9:00 AM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-10-02T09:00:42.912908-04:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 30 at 9:36 PM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-09-30T21:36:40.669565-04:00.lighthouse.json) |
 | [September 30 at 9:06 AM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-09-30T09:06:17.575256-04:00.lighthouse.json) |
 | [September 29 at 9:40 PM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-09-29T21:40:01.023345-04:00.lighthouse.json) |
-| [September 29 at 9:00 AM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-09-29T08:59:57.644391-04:00.lighthouse.json) |
-| [September 28 at 9:24 PM](https://archive.org/download/livingstondaily-2022/livingstondaily-2022-09-28T21:24:16.417226-04:00.lighthouse.json) |
 
 
 
