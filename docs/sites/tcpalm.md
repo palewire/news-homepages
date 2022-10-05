@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 28 screenshots with the Internet Archive.
+The archiving routine has saved 29 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tcpalm-2022/tcpalm-2022-10-05T11:24:02.009692-04:00.jpg">
+  <img src="https://archive.org/download/tcpalm-2022/tcpalm-2022-10-05T11:24:02.009692-04:00.jpg"
+     alt="Treasure Coast at 2022-10-05 11:24:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tcpalm-2022/tcpalm-2022-10-05T11:24:02.009692-04:00.jpg">October 5 at 11:24 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tcpalm-2022/tcpalm-2022-10-04T23:30:15.827737-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/tcpalm-2022/tcpalm-2022-09-29T23:51:48.625084-04:00.jpg">September 29 at 11:51 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/tcpalm-2022/tcpalm-2022-09-29T10:57:41.629436-04:00.jpg">
-  <img src="https://archive.org/download/tcpalm-2022/tcpalm-2022-09-29T10:57:41.629436-04:00.jpg"
-     alt="Treasure Coast at 2022-09-29 10:57:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tcpalm-2022/tcpalm-2022-09-29T10:57:41.629436-04:00.jpg">September 29 at 10:57 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 29 hyperlink lists with the Internet Archive.
+The archiving routine has saved 30 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 5 at 11:24 AM](https://archive.org/download/tcpalm-2022/tcpalm-2022-10-05T11:24:02.009692-04:00.hyperlinks.json) |
 | [October 4 at 11:30 PM](https://archive.org/download/tcpalm-2022/tcpalm-2022-10-04T23:30:15.827737-04:00.hyperlinks.json) |
 | [October 4 at 11:09 AM](https://archive.org/download/tcpalm-2022/tcpalm-2022-10-04T11:09:14.333211-04:00.hyperlinks.json) |
 | [October 3 at 11:40 PM](https://archive.org/download/tcpalm-2022/tcpalm-2022-10-03T23:40:19.995980-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 11:42 PM](https://archive.org/download/tcpalm-2022/tcpalm-2022-10-01T23:42:05.939531-04:00.hyperlinks.json) |
 | [October 1 at 11:02 AM](https://archive.org/download/tcpalm-2022/tcpalm-2022-10-01T11:01:50.819983-04:00.hyperlinks.json) |
 | [September 30 at 11:48 PM](https://archive.org/download/tcpalm-2022/tcpalm-2022-09-30T23:48:15.994020-04:00.hyperlinks.json) |
-| [September 30 at 12:13 PM](https://archive.org/download/tcpalm-2022/tcpalm-2022-09-30T12:13:53.353020-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 28 accessibility trees with the Internet Archive.
+The archiving routine has saved 29 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 5 at 11:24 AM](https://archive.org/download/tcpalm-2022/tcpalm-2022-10-05T11:24:02.009692-04:00.accessibility.json) |
 | [October 4 at 11:30 PM](https://archive.org/download/tcpalm-2022/tcpalm-2022-10-04T23:30:15.827737-04:00.accessibility.json) |
 | [October 4 at 11:09 AM](https://archive.org/download/tcpalm-2022/tcpalm-2022-10-04T11:09:14.333211-04:00.accessibility.json) |
 | [October 3 at 11:40 PM](https://archive.org/download/tcpalm-2022/tcpalm-2022-10-03T23:40:19.995980-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 11:42 PM](https://archive.org/download/tcpalm-2022/tcpalm-2022-10-01T23:42:05.939531-04:00.accessibility.json) |
 | [October 1 at 11:01 AM](https://archive.org/download/tcpalm-2022/tcpalm-2022-10-01T11:01:50.819983-04:00.accessibility.json) |
 | [September 30 at 11:48 PM](https://archive.org/download/tcpalm-2022/tcpalm-2022-09-30T23:48:15.994020-04:00.accessibility.json) |
-| [September 30 at 12:13 PM](https://archive.org/download/tcpalm-2022/tcpalm-2022-09-30T12:13:53.353020-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 5 at 11:24 AM](https://archive.org/download/tcpalm-2022/tcpalm-2022-10-05T11:24:02.009692-04:00.lighthouse.json) |
 | [October 4 at 11:30 PM](https://archive.org/download/tcpalm-2022/tcpalm-2022-10-04T23:30:15.827737-04:00.lighthouse.json) |
 | [October 4 at 11:09 AM](https://archive.org/download/tcpalm-2022/tcpalm-2022-10-04T11:09:14.333211-04:00.lighthouse.json) |
 | [October 3 at 11:40 PM](https://archive.org/download/tcpalm-2022/tcpalm-2022-10-03T23:40:19.995980-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 11:42 PM](https://archive.org/download/tcpalm-2022/tcpalm-2022-10-01T23:42:05.939531-04:00.lighthouse.json) |
 | [October 1 at 11:02 AM](https://archive.org/download/tcpalm-2022/tcpalm-2022-10-01T11:01:50.819983-04:00.lighthouse.json) |
 | [September 30 at 11:48 PM](https://archive.org/download/tcpalm-2022/tcpalm-2022-09-30T23:48:15.994020-04:00.lighthouse.json) |
-| [September 30 at 12:14 PM](https://archive.org/download/tcpalm-2022/tcpalm-2022-09-30T12:13:53.353020-04:00.lighthouse.json) |
 
 
 

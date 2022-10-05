@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 231 screenshots with the Internet Archive.
+The archiving routine has saved 233 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/reason-2022/reason-2022-10-05T16:58:42.393967-04:00.jpg">
+  <img src="https://archive.org/download/reason-2022/reason-2022-10-05T16:58:42.393967-04:00.jpg"
+     alt="Reason at 2022-10-05 16:58:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reason-2022/reason-2022-10-05T16:58:42.393967-04:00.jpg">October 5 at 4:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reason-2022/reason-2022-10-05T16:42:53.203984-04:00.jpg">
+  <img src="https://archive.org/download/reason-2022/reason-2022-10-05T16:42:53.203984-04:00.jpg"
+     alt="Reason at 2022-10-05 16:42:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reason-2022/reason-2022-10-05T16:42:53.203984-04:00.jpg">October 5 at 4:42 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/reason-2022/reason-2022-10-05T03:25:27.004505-04:00.jpg">
   <img src="https://archive.org/download/reason-2022/reason-2022-10-05T03:25:27.004505-04:00.jpg"
      alt="Reason at 2022-10-05 03:25:34-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/reason-2022/reason-2022-10-02T03:22:11.968596-04:00.jpg">October 2 at 3:22 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/reason-2022/reason-2022-10-01T15:48:20.139392-04:00.jpg">
-  <img src="https://archive.org/download/reason-2022/reason-2022-10-01T15:48:20.139392-04:00.jpg"
-     alt="Reason at 2022-10-01 15:48:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reason-2022/reason-2022-10-01T15:48:20.139392-04:00.jpg">October 1 at 3:48 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/reason-2022/reason-2022-10-01T15:07:43.635748-04:00.jpg">
-  <img src="https://archive.org/download/reason-2022/reason-2022-10-01T15:07:43.635748-04:00.jpg"
-     alt="Reason at 2022-10-01 15:07:52-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reason-2022/reason-2022-10-01T15:07:43.635748-04:00.jpg">October 1 at 3:07 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 231 hyperlink lists with the Internet Archive.
+The archiving routine has saved 233 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 5 at 4:58 PM](https://archive.org/download/reason-2022/reason-2022-10-05T16:58:42.393967-04:00.hyperlinks.json) |
+| [October 5 at 4:42 PM](https://archive.org/download/reason-2022/reason-2022-10-05T16:42:53.203984-04:00.hyperlinks.json) |
 | [October 5 at 3:25 AM](https://archive.org/download/reason-2022/reason-2022-10-05T03:25:27.004505-04:00.hyperlinks.json) |
 | [October 4 at 4:15 PM](https://archive.org/download/reason-2022/reason-2022-10-04T16:15:35.576143-04:00.hyperlinks.json) |
 | [October 4 at 3:37 PM](https://archive.org/download/reason-2022/reason-2022-10-04T15:37:05.564764-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 3 at 3:22 PM](https://archive.org/download/reason-2022/reason-2022-10-03T15:22:04.424564-04:00.hyperlinks.json) |
 | [October 3 at 3:38 AM](https://archive.org/download/reason-2022/reason-2022-10-03T03:38:23.044856-04:00.hyperlinks.json) |
 | [October 2 at 3:46 PM](https://archive.org/download/reason-2022/reason-2022-10-02T15:46:15.959619-04:00.hyperlinks.json) |
-| [October 2 at 3:10 PM](https://archive.org/download/reason-2022/reason-2022-10-02T15:10:01.619260-04:00.hyperlinks.json) |
-| [October 2 at 3:22 AM](https://archive.org/download/reason-2022/reason-2022-10-02T03:22:11.968596-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 231 accessibility trees with the Internet Archive.
+The archiving routine has saved 233 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 5 at 4:58 PM](https://archive.org/download/reason-2022/reason-2022-10-05T16:58:42.393967-04:00.accessibility.json) |
+| [October 5 at 4:42 PM](https://archive.org/download/reason-2022/reason-2022-10-05T16:42:53.203984-04:00.accessibility.json) |
 | [October 5 at 3:25 AM](https://archive.org/download/reason-2022/reason-2022-10-05T03:25:27.004505-04:00.accessibility.json) |
 | [October 4 at 4:15 PM](https://archive.org/download/reason-2022/reason-2022-10-04T16:15:35.576143-04:00.accessibility.json) |
 | [October 4 at 3:37 PM](https://archive.org/download/reason-2022/reason-2022-10-04T15:37:05.564764-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 3 at 3:22 PM](https://archive.org/download/reason-2022/reason-2022-10-03T15:22:04.424564-04:00.accessibility.json) |
 | [October 3 at 3:38 AM](https://archive.org/download/reason-2022/reason-2022-10-03T03:38:23.044856-04:00.accessibility.json) |
 | [October 2 at 3:46 PM](https://archive.org/download/reason-2022/reason-2022-10-02T15:46:15.959619-04:00.accessibility.json) |
-| [October 2 at 3:10 PM](https://archive.org/download/reason-2022/reason-2022-10-02T15:10:01.619260-04:00.accessibility.json) |
-| [October 2 at 3:22 AM](https://archive.org/download/reason-2022/reason-2022-10-02T03:22:11.968596-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 214 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 216 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 5 at 4:58 PM](https://archive.org/download/reason-2022/reason-2022-10-05T16:58:42.393967-04:00.lighthouse.json) |
+| [October 5 at 4:43 PM](https://archive.org/download/reason-2022/reason-2022-10-05T16:42:53.203984-04:00.lighthouse.json) |
 | [October 5 at 3:25 AM](https://archive.org/download/reason-2022/reason-2022-10-05T03:25:27.004505-04:00.lighthouse.json) |
 | [October 4 at 4:15 PM](https://archive.org/download/reason-2022/reason-2022-10-04T16:15:35.576143-04:00.lighthouse.json) |
 | [October 4 at 3:37 PM](https://archive.org/download/reason-2022/reason-2022-10-04T15:37:05.564764-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 3 at 3:22 PM](https://archive.org/download/reason-2022/reason-2022-10-03T15:22:04.424564-04:00.lighthouse.json) |
 | [October 3 at 3:38 AM](https://archive.org/download/reason-2022/reason-2022-10-03T03:38:23.044856-04:00.lighthouse.json) |
 | [October 2 at 3:46 PM](https://archive.org/download/reason-2022/reason-2022-10-02T15:46:15.959619-04:00.lighthouse.json) |
-| [October 2 at 3:10 PM](https://archive.org/download/reason-2022/reason-2022-10-02T15:10:01.619260-04:00.lighthouse.json) |
-| [October 2 at 3:22 AM](https://archive.org/download/reason-2022/reason-2022-10-02T03:22:11.968596-04:00.lighthouse.json) |
 
 
 

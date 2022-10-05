@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 355 screenshots with the Internet Archive.
+The archiving routine has saved 356 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 355 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/qctimes-2022/qctimes-2022-10-05T11:48:02.677015-05:00.jpg">
+  <img src="https://archive.org/download/qctimes-2022/qctimes-2022-10-05T11:48:02.677015-05:00.jpg"
+     alt="Quad City Times at 2022-10-05 11:48:14-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-10-05T11:48:02.677015-05:00.jpg">October 5 at 11:48 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/qctimes-2022/qctimes-2022-10-05T02:26:17.248325-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-09-30T15:16:23.072065-05:00.jpg">September 30 at 3:16 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/qctimes-2022/qctimes-2022-09-30T11:22:35.719610-05:00.jpg">
-  <img src="https://archive.org/download/qctimes-2022/qctimes-2022-09-30T11:22:35.719610-05:00.jpg"
-     alt="Quad City Times at 2022-09-30 11:23:00-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-09-30T11:22:35.719610-05:00.jpg">September 30 at 11:23 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 336 hyperlink lists with the Internet Archive.
+The archiving routine has saved 337 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 5 at 11:48 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-05T11:48:02.677015-05:00.hyperlinks.json) |
 | [October 5 at 2:26 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-05T02:26:17.248325-05:00.hyperlinks.json) |
 | [October 4 at 2:36 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-04T14:36:24.224838-05:00.hyperlinks.json) |
 | [October 4 at 2:46 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-04T02:45:57.225461-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 2 at 2:10 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-02T14:10:25.797982-05:00.hyperlinks.json) |
 | [October 2 at 2:23 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-02T02:22:57.755197-05:00.hyperlinks.json) |
 | [October 1 at 2:08 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-01T14:07:46.179731-05:00.hyperlinks.json) |
-| [October 1 at 2:58 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-01T02:58:18.882653-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 334 accessibility trees with the Internet Archive.
+The archiving routine has saved 335 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 5 at 11:48 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-05T11:48:02.677015-05:00.accessibility.json) |
 | [October 5 at 2:26 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-05T02:26:17.248325-05:00.accessibility.json) |
 | [October 4 at 2:36 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-04T14:36:24.224838-05:00.accessibility.json) |
 | [October 4 at 2:46 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-04T02:45:57.225461-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 2 at 2:10 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-02T14:10:25.797982-05:00.accessibility.json) |
 | [October 2 at 2:23 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-02T02:22:57.755197-05:00.accessibility.json) |
 | [October 1 at 2:07 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-01T14:07:46.179731-05:00.accessibility.json) |
-| [October 1 at 2:58 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-01T02:58:18.882653-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 176 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 177 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 5 at 11:48 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-05T11:48:02.677015-05:00.lighthouse.json) |
 | [October 5 at 2:26 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-05T02:26:17.248325-05:00.lighthouse.json) |
 | [October 4 at 2:36 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-04T14:36:24.224838-05:00.lighthouse.json) |
 | [October 4 at 2:46 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-04T02:45:57.225461-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 2 at 2:10 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-02T14:10:25.797982-05:00.lighthouse.json) |
 | [October 2 at 2:23 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-02T02:22:57.755197-05:00.lighthouse.json) |
 | [October 1 at 2:08 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-01T14:07:46.179731-05:00.lighthouse.json) |
-| [October 1 at 2:58 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-01T02:58:18.882653-05:00.lighthouse.json) |
 
 
 
