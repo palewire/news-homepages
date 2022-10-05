@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 276 screenshots with the Internet Archive.
+The archiving routine has saved 277 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 276 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sltimes-2022/sltimes-2022-10-04T21:33:35.028494-05:00.jpg">
+  <img src="https://archive.org/download/sltimes-2022/sltimes-2022-10-04T21:33:35.028494-05:00.jpg"
+     alt="Storm Lake Times at 2022-10-04 21:33:36-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-10-04T21:33:35.028494-05:00.jpg">October 4 at 9:33 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-10-04T09:18:33.520752-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-09-30T09:20:57.317553-05:00.jpg">September 30 at 9:20 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sltimes-2022/sltimes-2022-09-29T21:43:11.724107-05:00.jpg">
-  <img src="https://archive.org/download/sltimes-2022/sltimes-2022-09-29T21:43:11.724107-05:00.jpg"
-     alt="Storm Lake Times at 2022-09-29 21:43:13-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-09-29T21:43:11.724107-05:00.jpg">September 29 at 9:43 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 276 hyperlink lists with the Internet Archive.
+The archiving routine has saved 277 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 9:33 PM](https://archive.org/download/sltimes-2022/sltimes-2022-10-04T21:33:35.028494-05:00.hyperlinks.json) |
 | [October 4 at 9:18 AM](https://archive.org/download/sltimes-2022/sltimes-2022-10-04T09:18:33.520752-05:00.hyperlinks.json) |
 | [October 3 at 9:32 PM](https://archive.org/download/sltimes-2022/sltimes-2022-10-03T21:32:21.078969-05:00.hyperlinks.json) |
 | [October 3 at 11:18 AM](https://archive.org/download/sltimes-2022/sltimes-2022-10-03T11:18:15.315444-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 9:27 PM](https://archive.org/download/sltimes-2022/sltimes-2022-10-01T21:26:57.388448-05:00.hyperlinks.json) |
 | [October 1 at 9:13 AM](https://archive.org/download/sltimes-2022/sltimes-2022-10-01T09:13:09.584314-05:00.hyperlinks.json) |
 | [September 30 at 9:38 PM](https://archive.org/download/sltimes-2022/sltimes-2022-09-30T21:38:09.071284-05:00.hyperlinks.json) |
-| [September 30 at 11:22 AM](https://archive.org/download/sltimes-2022/sltimes-2022-09-30T11:22:30.356767-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 276 accessibility trees with the Internet Archive.
+The archiving routine has saved 277 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 9:33 PM](https://archive.org/download/sltimes-2022/sltimes-2022-10-04T21:33:35.028494-05:00.accessibility.json) |
 | [October 4 at 9:18 AM](https://archive.org/download/sltimes-2022/sltimes-2022-10-04T09:18:33.520752-05:00.accessibility.json) |
 | [October 3 at 9:32 PM](https://archive.org/download/sltimes-2022/sltimes-2022-10-03T21:32:21.078969-05:00.accessibility.json) |
 | [October 3 at 11:18 AM](https://archive.org/download/sltimes-2022/sltimes-2022-10-03T11:18:15.315444-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 9:27 PM](https://archive.org/download/sltimes-2022/sltimes-2022-10-01T21:26:57.388448-05:00.accessibility.json) |
 | [October 1 at 9:13 AM](https://archive.org/download/sltimes-2022/sltimes-2022-10-01T09:13:09.584314-05:00.accessibility.json) |
 | [September 30 at 9:38 PM](https://archive.org/download/sltimes-2022/sltimes-2022-09-30T21:38:09.071284-05:00.accessibility.json) |
-| [September 30 at 11:22 AM](https://archive.org/download/sltimes-2022/sltimes-2022-09-30T11:22:30.356767-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 175 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 176 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 9:33 PM](https://archive.org/download/sltimes-2022/sltimes-2022-10-04T21:33:35.028494-05:00.lighthouse.json) |
 | [October 4 at 9:18 AM](https://archive.org/download/sltimes-2022/sltimes-2022-10-04T09:18:33.520752-05:00.lighthouse.json) |
 | [October 3 at 9:32 PM](https://archive.org/download/sltimes-2022/sltimes-2022-10-03T21:32:21.078969-05:00.lighthouse.json) |
 | [October 3 at 11:18 AM](https://archive.org/download/sltimes-2022/sltimes-2022-10-03T11:18:15.315444-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 9:27 PM](https://archive.org/download/sltimes-2022/sltimes-2022-10-01T21:26:57.388448-05:00.lighthouse.json) |
 | [October 1 at 9:13 AM](https://archive.org/download/sltimes-2022/sltimes-2022-10-01T09:13:09.584314-05:00.lighthouse.json) |
 | [September 30 at 9:38 PM](https://archive.org/download/sltimes-2022/sltimes-2022-09-30T21:38:09.071284-05:00.lighthouse.json) |
-| [September 30 at 11:22 AM](https://archive.org/download/sltimes-2022/sltimes-2022-09-30T11:22:30.356767-05:00.lighthouse.json) |
 
 
 
