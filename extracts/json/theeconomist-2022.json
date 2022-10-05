@@ -1,5 +1,5 @@
 {
-  "created": 1664940858,
+  "created": 1664961876,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/32/items/theeconomist-2022",
@@ -13556,31 +13556,93 @@
       "sha1": "55ab2a3583db0cc03ab15f61d0c50e718d35d327"
     },
     {
+      "name": "theeconomist-2022-10-05T10:22:46.779772+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664961770",
+      "size": "20200",
+      "md5": "e41d1c994f1abccb71016ee34807ba99",
+      "crc32": "ceccd3f0",
+      "sha1": "686fce5d1faf6a390a4070db9cb69c0b2f1a1a96",
+      "format": "JSON"
+    },
+    {
+      "name": "theeconomist-2022-10-05T10:22:46.779772+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664961772",
+      "size": "20349",
+      "md5": "61f7db7131b0b0838d6ce7207294bf13",
+      "crc32": "dc7b4e3e",
+      "sha1": "99fb513817b152066d88ff3680a718cf7fbc321e",
+      "format": "JSON"
+    },
+    {
+      "name": "theeconomist-2022-10-05T10:22:46.779772+01:00.jpg",
+      "source": "original",
+      "mtime": "1664961769",
+      "size": "232310",
+      "md5": "001000f907c02558a3f4bc5f27213e11",
+      "crc32": "539a1c5c",
+      "sha1": "8236910dfa4c93154a68a78aab4c98a4bcf22d84",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theeconomist-2022-10-05T10:22:46.779772+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664961774",
+      "size": "1476",
+      "md5": "45e7e85a58e3f9d03c7932b8510032c3",
+      "crc32": "cd8183b0",
+      "sha1": "dc6b8a391d8f337512111e978246cdfc8060292f",
+      "format": "JSON"
+    },
+    {
+      "name": "theeconomist-2022-10-05T10:22:46.779772+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1664961776",
+      "size": "56405",
+      "md5": "bd3090d23dde60e85f467c154b10c6b7",
+      "crc32": "89aab9a9",
+      "sha1": "4c1e97db701bc6c6d587755470d95825c5f23f2b",
+      "format": "JSON"
+    },
+    {
+      "name": "theeconomist-2022-10-05T10:22:46.779772+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theeconomist-2022-10-05T10:22:46.779772+01:00.jpg",
+      "mtime": "1664961852",
+      "size": "8598",
+      "md5": "a5e144e9632c0e1404576bf4367f9468",
+      "crc32": "fcbbb2f7",
+      "sha1": "e416bb198e02f5c19769e74d9d7627c228c319f0"
+    },
+    {
       "name": "theeconomist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c09046fed62dda7c0597321eaa5938f6df1c4450",
-      "mtime": "1664940848",
-      "size": "281614",
-      "md5": "a1ea197ec518742e50cd7ffa30a9e97c",
-      "crc32": "69b6850b",
-      "sha1": "87edd13dd4a7d2e9a0ed65ba4cf4e93bda6fc451",
+      "btih": "2483e691dab1f65e911a84e70e12ee7ecfb50325",
+      "mtime": "1664961868",
+      "size": "282885",
+      "md5": "d55bea539bc50f2a9c5f9914875c181e",
+      "crc32": "94d871cb",
+      "sha1": "a25d63ee73e18e31af128c7566fb0ba07089327f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theeconomist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a0cfb8e29147aa13f70ee69706713904",
+      "md5": "c79ce78695598b726e86f9856fbfd138",
       "summation": "md5"
     },
     {
       "name": "theeconomist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664940737",
-      "size": "1658880",
-      "md5": "f289d5670e9f84be639167cbbb6f8d67",
-      "crc32": "603db220",
-      "sha1": "e58d6550b9aab6698879df2f675dc29c992cb81d",
+      "mtime": "1664961780",
+      "size": "1662976",
+      "md5": "477b495ab09610b98f61ae8cd4d0174c",
+      "crc32": "fd2b6031",
+      "sha1": "834d30154f5e9d65aebae45342495064025dbaac",
       "format": "Metadata"
     },
     {
@@ -13594,9 +13656,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1312,
-  "item_last_updated": 1664940848,
-  "item_size": 85771403,
+  "files_count": 1318,
+  "item_last_updated": 1664961868,
+  "item_size": 86116108,
   "metadata": {
     "identifier": "theeconomist-2022",
     "collection": [
@@ -13613,10 +13675,10 @@
     "publicdate": "2022-07-04 21:46:07",
     "addeddate": "2022-07-04 21:46:07"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 2026027992,
+  "server": "ia902505.us.archive.org",
+  "uniq": 1044662345,
   "workable_servers": [
-    "ia802505.us.archive.org",
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }
