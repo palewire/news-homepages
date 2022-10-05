@@ -1,5 +1,5 @@
 {
-  "created": 1664912049,
+  "created": 1664954696,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/6/items/nybooks-2022",
@@ -10384,31 +10384,93 @@
       "sha1": "50cbef9837cd414772ae39fff85155603ed02380"
     },
     {
+      "name": "nybooks-2022-10-05T03:22:06.042432-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664954535",
+      "size": "24605",
+      "md5": "6795a4930f676ed20824ed3fcc12c6dd",
+      "crc32": "33d84c75",
+      "sha1": "66c93dcfb05571490574cdda72c554ceeeb84914",
+      "format": "JSON"
+    },
+    {
+      "name": "nybooks-2022-10-05T03:22:06.042432-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664954537",
+      "size": "52498",
+      "md5": "831bb9f565a18e55ffba52676ebd084a",
+      "crc32": "34ef1791",
+      "sha1": "91f6be18bc51609429b98b9e7a1b65a59c1da7dd",
+      "format": "JSON"
+    },
+    {
+      "name": "nybooks-2022-10-05T03:22:06.042432-04:00.jpg",
+      "source": "original",
+      "mtime": "1664954533",
+      "size": "160295",
+      "md5": "7859b375b642ff1abbebf53bd4f1a106",
+      "crc32": "555b4bfa",
+      "sha1": "4296dd0e48a6febca85a95349ca1bf7529833ca8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nybooks-2022-10-05T03:22:06.042432-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664954539",
+      "size": "1468",
+      "md5": "cbb3b987f3cf0b32af0b8431ba73b2b0",
+      "crc32": "84389a9a",
+      "sha1": "6c3099fa55dea48455768e44c285a8b93a28737f",
+      "format": "JSON"
+    },
+    {
+      "name": "nybooks-2022-10-05T03:22:06.042432-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664954540",
+      "size": "12733",
+      "md5": "65470f573c507b4b9c2c63461ff774f8",
+      "crc32": "f3836882",
+      "sha1": "20dc27433fb4c376fcacaaa649df06e96dcd4a31",
+      "format": "JSON"
+    },
+    {
+      "name": "nybooks-2022-10-05T03:22:06.042432-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nybooks-2022-10-05T03:22:06.042432-04:00.jpg",
+      "mtime": "1664954621",
+      "size": "7199",
+      "md5": "d77bff5eb1a623ce165cd09058fb5a8d",
+      "crc32": "fb48e63f",
+      "sha1": "50cbef9837cd414772ae39fff85155603ed02380"
+    },
+    {
       "name": "nybooks-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5785bc44f9baa238ae2765eaaa76b575f6775de7",
-      "mtime": "1664912033",
-      "size": "211263",
-      "md5": "779efa0f452fcb396e247d164a6abffa",
-      "crc32": "43ea9200",
-      "sha1": "fc54e129190b6511433c9c1416999d86fd5c262c",
+      "btih": "ededdad22860a821a6902e21cbc20d6617431db5",
+      "mtime": "1664954670",
+      "size": "212504",
+      "md5": "5bb2962d51e42c4423e79e286ddc8906",
+      "crc32": "c0bb720d",
+      "sha1": "967bdc3321c262ab8587901b4539acfb58b1e809",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nybooks-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7fd03c8b1865e798e32c16d2ed81686d",
+      "md5": "9da8ff5bd02ba08f68d64e8a6ba14452",
       "summation": "md5"
     },
     {
       "name": "nybooks-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664911928",
-      "size": "1257472",
-      "md5": "48d0eb685d91daa5070a0189bc6c5ffa",
-      "crc32": "450465b2",
-      "sha1": "9d4c3486e978b010843fb026f1a1a94fea3aeb41",
+      "mtime": "1664954546",
+      "size": "1265664",
+      "md5": "bf496a6c5f656a034628128bbca5e02d",
+      "crc32": "b5424dd3",
+      "sha1": "ba6ca9d6792eea090c3e337cbd1358c92653e527",
       "format": "Metadata"
     },
     {
@@ -10422,9 +10484,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1005,
-  "item_last_updated": 1664912033,
-  "item_size": 74692547,
+  "files_count": 1011,
+  "item_last_updated": 1664954670,
+  "item_size": 74960778,
   "metadata": {
     "identifier": "nybooks-2022",
     "collection": [
@@ -10441,10 +10503,10 @@
     "publicdate": "2022-07-04 21:50:06",
     "addeddate": "2022-07-04 21:50:06"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 24958891,
+  "server": "ia601501.us.archive.org",
+  "uniq": 373179993,
   "workable_servers": [
-    "ia801501.us.archive.org",
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

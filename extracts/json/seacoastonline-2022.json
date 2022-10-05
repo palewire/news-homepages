@@ -1,5 +1,5 @@
 {
-  "created": 1664912395,
+  "created": 1664954948,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/10/items/seacoastonline-2022",
@@ -1772,31 +1772,93 @@
       "sha1": "63517aac91d8e27a344a22399506b31870c39012"
     },
     {
+      "name": "seacoastonline-2022-10-05T03:27:12.896075-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664954835",
+      "size": "23533",
+      "md5": "66979c2bedb3e5c58a3f92a979f41390",
+      "crc32": "766ad9e4",
+      "sha1": "cea5a63386acd608b4a50936346f4751dfa0aec4",
+      "format": "JSON"
+    },
+    {
+      "name": "seacoastonline-2022-10-05T03:27:12.896075-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664954837",
+      "size": "31790",
+      "md5": "056baec2e971da64de53cb87eabe0307",
+      "crc32": "6e50b197",
+      "sha1": "4b0c0fdbee7d1c3cace27f9ce6f71296712e24ec",
+      "format": "JSON"
+    },
+    {
+      "name": "seacoastonline-2022-10-05T03:27:12.896075-04:00.jpg",
+      "source": "original",
+      "mtime": "1664954834",
+      "size": "259059",
+      "md5": "281bdaf7814fbcf45ad42aaa30d93bf2",
+      "crc32": "aa4056a6",
+      "sha1": "47025e55937a4213c8f6a6c73252c8e7364a1a8c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "seacoastonline-2022-10-05T03:27:12.896075-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664954840",
+      "size": "1530",
+      "md5": "d871461aa03886f6a1bab42aa508fc81",
+      "crc32": "e4279546",
+      "sha1": "013f201b2f5e5e2cefcd89bdf45bc95b0470cf9d",
+      "format": "JSON"
+    },
+    {
+      "name": "seacoastonline-2022-10-05T03:27:12.896075-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664954842",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "seacoastonline-2022-10-05T03:27:12.896075-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "seacoastonline-2022-10-05T03:27:12.896075-04:00.jpg",
+      "mtime": "1664954926",
+      "size": "8897",
+      "md5": "db9a5ce45693a1c25f5968ba4d01382d",
+      "crc32": "c4d7f291",
+      "sha1": "be545d846204659d0c1d7a53167390527bc4f59a"
+    },
+    {
       "name": "seacoastonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cc6175a79a00b91edda275adb727b75dabd4b484",
-      "mtime": "1664912381",
-      "size": "38509",
-      "md5": "1f57d70f165642ac333498bd4636385a",
-      "crc32": "198702af",
-      "sha1": "9480f0cc11c13e229a172d14384576e1000beeb7",
+      "btih": "424f47124e8f4694466fdeb06ab89ee21af36b09",
+      "mtime": "1664954933",
+      "size": "39790",
+      "md5": "190a55d14cc35ba587a397dcd9b7b3a5",
+      "crc32": "b870faa0",
+      "sha1": "7386a93a456776ca49bc45bc37718889f26fd2d1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "seacoastonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d812dd211d11999973f650c6fe733241",
+      "md5": "f103e1157808bf590ea5469fd28df31d",
       "summation": "md5"
     },
     {
       "name": "seacoastonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664912315",
-      "size": "241664",
-      "md5": "c8e85314e9d63251a65a3a7740de3779",
-      "crc32": "4d3c842a",
-      "sha1": "7dab8bd65eeaa3d63851a6f44c5342482dfddf11",
+      "mtime": "1664954851",
+      "size": "245760",
+      "md5": "d3d66a5c7bb70719d3291c59a07aa02d",
+      "crc32": "437e44b0",
+      "sha1": "730047eb5207e7c7b94a3cee4086266f34088a57",
       "format": "Metadata"
     },
     {
@@ -1810,9 +1872,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 175,
-  "item_last_updated": 1664912381,
-  "item_size": 12198679,
+  "files_count": 181,
+  "item_last_updated": 1664954933,
+  "item_size": 12529067,
   "metadata": {
     "identifier": "seacoastonline-2022",
     "collection": [
@@ -1829,10 +1891,10 @@
     "publicdate": "2022-09-20 19:24:59",
     "addeddate": "2022-09-20 19:24:59"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 1376281876,
+  "server": "ia801501.us.archive.org",
+  "uniq": 351762468,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }
