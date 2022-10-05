@@ -1,5 +1,5 @@
 {
-  "created": 1664987610,
+  "created": 1664988008,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/20/items/telemundochi-2022",
@@ -12195,21 +12195,32 @@
       "format": "JSON"
     },
     {
+      "name": "telemundochi-2022-10-05T11:30:58.104550-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telemundochi-2022-10-05T11:30:58.104550-05:00.jpg",
+      "mtime": "1664987859",
+      "size": "9905",
+      "md5": "1ce5bc6de46afb0c809a9f47c65a3786",
+      "crc32": "e67a97ff",
+      "sha1": "554fbba6e0067bbabc41332a82012367d8bf9dd4"
+    },
+    {
       "name": "telemundochi-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c0bb1dc6ddcdac7cf5483244e1ff64225d794314",
-      "mtime": "1664987604",
-      "size": "254869",
-      "md5": "e7b911e04bcdac23fd026a436c1671d6",
-      "crc32": "32154a35",
-      "sha1": "455d93978344eb101640a2d054ad1ccc7bf98c34",
+      "btih": "027e351c24bf707522ee23c16467313aa7243ced",
+      "mtime": "1664987874",
+      "size": "255077",
+      "md5": "008ef4f9d46ecd66cb8a0fc724d4f316",
+      "crc32": "ac73f205",
+      "sha1": "f58c9ea3ef6731454b1784cbcad22e3f3b8d1527",
       "format": "Archive BitTorrent"
     },
     {
       "name": "telemundochi-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2620258b62d62e4ef47c13ef9de14c57",
+      "md5": "7982ba0b412a65b2dc3fd65b0e5f628b",
       "summation": "md5"
     },
     {
@@ -12233,9 +12244,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1183,
-  "item_last_updated": 1664987604,
-  "item_size": 97089189,
+  "files_count": 1184,
+  "item_last_updated": 1664987874,
+  "item_size": 97099302,
   "metadata": {
     "identifier": "telemundochi-2022",
     "collection": [
@@ -12252,29 +12263,10 @@
     "publicdate": "2022-07-28 20:04:16",
     "addeddate": "2022-07-28 20:04:16"
   },
-  "pending_tasks": true,
-  "server": "ia902504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3429987584,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3429989863,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 266226056,
+  "server": "ia802504.us.archive.org",
+  "uniq": 343981948,
   "workable_servers": [
+    "ia802504.us.archive.org",
     "ia902504.us.archive.org"
   ]
 }

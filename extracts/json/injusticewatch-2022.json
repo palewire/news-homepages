@@ -1,5 +1,5 @@
 {
-  "created": 1664949029,
+  "created": 1664993809,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/1/items/injusticewatch-2022",
@@ -14556,31 +14556,93 @@
       "sha1": "9dd01ac66004fd0eb811c6fbb2e99d895b5f2ee6"
     },
     {
+      "name": "injusticewatch-2022-10-05T11:30:45.420191-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664987450",
+      "size": "12735",
+      "md5": "de5162cf901e78f054646864346a76dd",
+      "crc32": "282fa124",
+      "sha1": "6d3b8bd245bab5df341c8058221adfa7b3cdbf7e",
+      "format": "JSON"
+    },
+    {
+      "name": "injusticewatch-2022-10-05T11:30:45.420191-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664987453",
+      "size": "12213",
+      "md5": "11cbec9ca8e1425932acce648a3692a1",
+      "crc32": "ee8f3ba4",
+      "sha1": "dfd6df23b917df0d6ab291e6bd81d97f9b82bebd",
+      "format": "JSON"
+    },
+    {
+      "name": "injusticewatch-2022-10-05T11:30:45.420191-05:00.jpg",
+      "source": "original",
+      "mtime": "1664987448",
+      "size": "322589",
+      "md5": "c21322fd04140f37a7b68acd6402753c",
+      "crc32": "93f0b4a1",
+      "sha1": "727720b9bcefe6c877823625b8ebcf42fe44e4fd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "injusticewatch-2022-10-05T11:30:45.420191-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664987459",
+      "size": "1519",
+      "md5": "3c9d73bb6885eb8e02b73b2858ded3c3",
+      "crc32": "44e3d357",
+      "sha1": "947733dcf5b2792a9431bbcdb2ef4e57f1770b1f",
+      "format": "JSON"
+    },
+    {
+      "name": "injusticewatch-2022-10-05T11:30:45.420191-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664987462",
+      "size": "211",
+      "md5": "0d44f5fecd3e2a8513a4c1c67928c1f2",
+      "crc32": "ff2dfd0d",
+      "sha1": "bf93f7174019c44dab13d40442036e7caaac41cc",
+      "format": "JSON"
+    },
+    {
+      "name": "injusticewatch-2022-10-05T11:30:45.420191-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "injusticewatch-2022-10-05T11:30:45.420191-05:00.jpg",
+      "mtime": "1664987654",
+      "size": "9571",
+      "md5": "6260f8def5927a1df73ba86d04d70069",
+      "crc32": "449903d3",
+      "sha1": "9dd01ac66004fd0eb811c6fbb2e99d895b5f2ee6"
+    },
+    {
       "name": "injusticewatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "09dddbee5470cb3e0ac50e52ceecf39cff18a734",
-      "mtime": "1664949010",
-      "size": "304989",
-      "md5": "178ada47687ff2ab708543db0b9cc045",
-      "crc32": "219d2902",
-      "sha1": "d674035777783a668c451e63e61707e89faf251f",
+      "btih": "61cc2fc817ac5bfc57a6814e6cf1a5c702549e60",
+      "mtime": "1664987671",
+      "size": "306290",
+      "md5": "f694ea4284b53585710fb627e28aa19c",
+      "crc32": "3014d6ca",
+      "sha1": "bd125cbe099f0b4134ee2a873f4c990cad44a836",
       "format": "Archive BitTorrent"
     },
     {
       "name": "injusticewatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1b22e9fd6196a399e9169975240dab70",
+      "md5": "6350d06f123ec08bebc0f04dcd6a24aa",
       "summation": "md5"
     },
     {
       "name": "injusticewatch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664948917",
-      "size": "1777664",
-      "md5": "245f8058f81c742e341de3457114de9f",
-      "crc32": "111dd275",
-      "sha1": "47c2c6881d841827859e1c9b786bf8e8ca8e89ee",
+      "mtime": "1664987487",
+      "size": "1785856",
+      "md5": "a4858c1138b0a4658f5f72af4c1a64e5",
+      "crc32": "9c681d98",
+      "sha1": "2d02fadf02b0388b28a9304c709cc3470adf7d05",
       "format": "Metadata"
     },
     {
@@ -14594,9 +14656,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1408,
-  "item_last_updated": 1664949010,
-  "item_size": 92867598,
+  "files_count": 1414,
+  "injusticewatch-2022": {
+    "url": "https://www.injusticewatch.org/",
+    "job_id": "spn2-c931a85865eff9edd3a9fa887531065785bf9d8c",
+    "message": "Job failed.",
+    "resources": [],
+    "status": "error",
+    "status_ext": "error:job-failed"
+  },
+  "item_last_updated": 1664987671,
+  "item_size": 93235929,
   "metadata": {
     "identifier": "injusticewatch-2022",
     "collection": [
@@ -14614,7 +14684,7 @@
     "addeddate": "2022-07-09 03:59:21"
   },
   "server": "ia902508.us.archive.org",
-  "uniq": 510489872,
+  "uniq": 308014644,
   "workable_servers": [
     "ia902508.us.archive.org",
     "ia802508.us.archive.org"
