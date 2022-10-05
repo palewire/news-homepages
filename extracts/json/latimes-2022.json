@@ -1,5 +1,6 @@
 {
-  "created": 1665002758,
+  "conflict": 1665003775,
+  "created": 1665003775,
   "d1": "ia903007.us.archive.org",
   "d2": "ia803007.us.archive.org",
   "dir": "/16/items/latimes-2022",
@@ -45298,31 +45299,93 @@
       "sha1": "80646ad0cacbeeaf7fcc3f1b6ea032d8f6b1023e"
     },
     {
+      "name": "latimes-2022-10-05T13:56:39.120596-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665003402",
+      "size": "45826",
+      "md5": "06629a4a1c91cf12eb771881df7ea2b6",
+      "crc32": "67f285a9",
+      "sha1": "798ddaad51f776150d513537f977969120638dff",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-10-05T13:56:39.120596-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665003404",
+      "size": "55265",
+      "md5": "bbfe62b3149c5b67256e3d8d48c14182",
+      "crc32": "61ea94be",
+      "sha1": "82f22cc3fc53f1dc61a6a4ab02a91c01fb78b8fb",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-10-05T13:56:39.120596-07:00.jpg",
+      "source": "original",
+      "mtime": "1665003400",
+      "size": "276038",
+      "md5": "ec26b75c6898f9738ba918b481b285f0",
+      "crc32": "0f9a7972",
+      "sha1": "2de3cb2fdae69f1cdde9e2f248357c2b25c5b5a7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "latimes-2022-10-05T13:56:39.120596-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665003406",
+      "size": "1467",
+      "md5": "7837da5a7a11e0c1ce779fa34c58c127",
+      "crc32": "3716f8e5",
+      "sha1": "13d421bf9b9509282e46b7eca04c1d919e98cfd1",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-10-05T13:56:39.120596-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665003407",
+      "size": "230",
+      "md5": "a4c153b7baa999bfafcf3014bda896fe",
+      "crc32": "50c56e05",
+      "sha1": "82a8b299b551492b3eb6e61ce00dded7ba76549a",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-10-05T13:56:39.120596-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "latimes-2022-10-05T13:56:39.120596-07:00.jpg",
+      "mtime": "1665003746",
+      "size": "9732",
+      "md5": "4e2d6ecedc32e24521e0cca39dedcfd9",
+      "crc32": "a22a366d",
+      "sha1": "9fff40af5642d9fb0693ddec68eb4fc6f0f5007b"
+    },
+    {
       "name": "latimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8de2aa37f1adfa338bbbb6d41d564d7e7db04b64",
-      "mtime": "1664995236",
-      "size": "913297",
-      "md5": "5f1230944b85058c6619f48b686fbb6d",
-      "crc32": "e0acf6b3",
-      "sha1": "3f138d2a273fb822b5bfab5600d2b5e8ca9f5702",
+      "btih": "e2fbb340ac37b509dbdb44095861225b928f9761",
+      "mtime": "1665003567",
+      "size": "914353",
+      "md5": "fce0f1365f56d37be964458fa2ea82b1",
+      "crc32": "aae81baa",
+      "sha1": "8f705653a33d81bd2c42b2313125e7d8f5b0f982",
       "format": "Archive BitTorrent"
     },
     {
       "name": "latimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "77a384acfd9dcaa49ce85415492bedab",
+      "md5": "c75dced77746b3f068eff514d032b5a2",
       "summation": "md5"
     },
     {
       "name": "latimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664994450",
-      "size": "5222400",
-      "md5": "aa30e19630221485f3ad3d10b0f632af",
-      "crc32": "b71600dc",
-      "sha1": "4c92fc9b211f50aa18ea42a1a8aa6baf9e7b0de1",
+      "mtime": "1665003411",
+      "size": "5234688",
+      "md5": "60e677e5107c9c5d9b21542811b7bfc4",
+      "crc32": "2cf88d86",
+      "sha1": "ab380f9a0bfaf854de7644149a05418378e536a5",
       "format": "Metadata"
     },
     {
@@ -45336,9 +45399,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 4351,
-  "item_last_updated": 1664995236,
-  "item_size": 386488255,
+  "files_count": 4357,
+  "item_last_updated": 1665003746,
+  "item_size": 386890157,
   "metadata": {
     "identifier": "latimes-2022",
     "collection": [
@@ -45355,10 +45418,29 @@
     "publicdate": "2022-03-22 20:29:38",
     "addeddate": "2022-03-22 20:29:38"
   },
+  "pending_tasks": true,
   "server": "ia903007.us.archive.org",
-  "uniq": 1348649773,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3430239725,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3430242327,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 201863544,
   "workable_servers": [
-    "ia903007.us.archive.org",
-    "ia803007.us.archive.org"
+    "ia903007.us.archive.org"
   ]
 }
