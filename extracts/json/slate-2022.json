@@ -1,5 +1,6 @@
 {
-  "created": 1664983712,
+  "conflict": 1665003552,
+  "created": 1665003552,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/12/items/slate-2022",
@@ -16137,10 +16138,21 @@
     "publicdate": "2022-06-24 23:01:12",
     "addeddate": "2022-06-24 23:01:12"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 1548260908,
+  "pending_tasks": true,
+  "server": "ia601405.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3430236017,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1616187481,
   "workable_servers": [
-    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }
