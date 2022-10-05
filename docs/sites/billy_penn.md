@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 197 screenshots with the Internet Archive.
+The archiving routine has saved 198 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 197 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/billy_penn-2022/billy_penn-2022-10-05T00:18:30.852241-04:00.jpg">
+  <img src="https://archive.org/download/billy_penn-2022/billy_penn-2022-10-05T00:18:30.852241-04:00.jpg"
+     alt="Billy Penn at 2022-10-05 00:18:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/billy_penn-2022/billy_penn-2022-10-05T00:18:30.852241-04:00.jpg">October 5 at 12:18 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/billy_penn-2022/billy_penn-2022-10-04T12:19:29.231334-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/billy_penn-2022/billy_penn-2022-09-29T12:08:14.519865-04:00.jpg">September 29 at 12:08 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/billy_penn-2022/billy_penn-2022-09-29T01:22:20.012371-04:00.jpg">
-  <img src="https://archive.org/download/billy_penn-2022/billy_penn-2022-09-29T01:22:20.012371-04:00.jpg"
-     alt="Billy Penn at 2022-09-29 01:22:28-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/billy_penn-2022/billy_penn-2022-09-29T01:22:20.012371-04:00.jpg">September 29 at 1:22 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 198 hyperlink lists with the Internet Archive.
+The archiving routine has saved 199 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 5 at 12:18 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-10-05T00:18:30.852241-04:00.hyperlinks.json) |
 | [October 4 at 12:19 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-10-04T12:19:29.231334-04:00.hyperlinks.json) |
 | [October 4 at 1:21 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-10-04T01:21:26.275580-04:00.hyperlinks.json) |
 | [October 3 at 12:13 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-10-03T12:13:36.239115-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 12:09 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-10-01T12:09:29.218099-04:00.hyperlinks.json) |
 | [October 1 at 12:42 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-10-01T00:42:11.548892-04:00.hyperlinks.json) |
 | [September 30 at 12:34 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-09-30T12:34:05.515229-04:00.hyperlinks.json) |
-| [September 30 at 2:13 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-09-30T02:13:04.190318-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 197 accessibility trees with the Internet Archive.
+The archiving routine has saved 198 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 5 at 12:18 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-10-05T00:18:30.852241-04:00.accessibility.json) |
 | [October 4 at 12:19 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-10-04T12:19:29.231334-04:00.accessibility.json) |
 | [October 4 at 1:21 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-10-04T01:21:26.275580-04:00.accessibility.json) |
 | [October 3 at 12:13 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-10-03T12:13:36.239115-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 12:09 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-10-01T12:09:29.218099-04:00.accessibility.json) |
 | [October 1 at 12:42 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-10-01T00:42:11.548892-04:00.accessibility.json) |
 | [September 30 at 12:34 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-09-30T12:34:05.515229-04:00.accessibility.json) |
-| [September 30 at 2:13 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-09-30T02:13:04.190318-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 148 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 149 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 5 at 12:18 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-10-05T00:18:30.852241-04:00.lighthouse.json) |
 | [October 4 at 12:19 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-10-04T12:19:29.231334-04:00.lighthouse.json) |
 | [October 4 at 1:21 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-10-04T01:21:26.275580-04:00.lighthouse.json) |
 | [October 3 at 12:13 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-10-03T12:13:36.239115-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 12:09 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-10-01T12:09:29.218099-04:00.lighthouse.json) |
 | [October 1 at 12:42 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-10-01T00:42:11.548892-04:00.lighthouse.json) |
 | [September 30 at 12:34 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-09-30T12:34:05.515229-04:00.lighthouse.json) |
-| [September 30 at 2:13 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-09-30T02:13:04.190318-04:00.lighthouse.json) |
 
 
 

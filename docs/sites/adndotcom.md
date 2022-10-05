@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 44 screenshots with the Internet Archive.
+The archiving routine has saved 45 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 44 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-10-04T20:16:20.661077-08:00.jpg">
+  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-10-04T20:16:20.661077-08:00.jpg"
+     alt="Anchorage Daily News at 2022-10-04 20:16:23-08:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-10-04T20:16:20.661077-08:00.jpg">October 4 at 8:16 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-10-04T08:14:09.083340-08:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-29T08:05:18.681164-08:00.jpg">September 29 at 8:05 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-28T21:15:56.866521-08:00.jpg">
-  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-28T21:15:56.866521-08:00.jpg"
-     alt="Anchorage Daily News at 2022-09-28 21:15:59-08:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-09-28T21:15:56.866521-08:00.jpg">September 28 at 9:15 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 44 hyperlink lists with the Internet Archive.
+The archiving routine has saved 45 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 8:16 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-04T20:16:20.661077-08:00.hyperlinks.json) |
 | [October 4 at 8:14 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-04T08:14:09.083340-08:00.hyperlinks.json) |
 | [October 3 at 9:18 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-03T21:18:49.128322-08:00.hyperlinks.json) |
 | [October 3 at 8:09 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-03T08:09:48.853834-08:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 8:05 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-01T08:04:57.345357-08:00.hyperlinks.json) |
 | [September 30 at 8:40 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-30T20:40:16.413892-08:00.hyperlinks.json) |
 | [September 30 at 8:25 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-30T08:25:30.347283-08:00.hyperlinks.json) |
-| [September 29 at 10:09 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-29T22:09:50.706401-08:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 44 accessibility trees with the Internet Archive.
+The archiving routine has saved 45 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 8:16 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-04T20:16:20.661077-08:00.accessibility.json) |
 | [October 4 at 8:14 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-04T08:14:09.083340-08:00.accessibility.json) |
 | [October 3 at 9:18 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-03T21:18:49.128322-08:00.accessibility.json) |
 | [October 3 at 8:09 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-03T08:09:48.853834-08:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 8:05 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-01T08:04:57.345357-08:00.accessibility.json) |
 | [September 30 at 8:40 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-30T20:40:16.413892-08:00.accessibility.json) |
 | [September 30 at 8:25 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-30T08:25:30.347283-08:00.accessibility.json) |
-| [September 29 at 10:09 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-29T22:09:50.706401-08:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 8:16 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-04T20:16:20.661077-08:00.lighthouse.json) |
 | [October 4 at 8:14 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-04T08:14:09.083340-08:00.lighthouse.json) |
 | [October 3 at 9:18 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-03T21:18:49.128322-08:00.lighthouse.json) |
 | [October 3 at 8:09 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-03T08:09:48.853834-08:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 8:05 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-01T08:04:57.345357-08:00.lighthouse.json) |
 | [September 30 at 8:40 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-30T20:40:16.413892-08:00.lighthouse.json) |
 | [September 30 at 8:25 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-30T08:25:30.347283-08:00.lighthouse.json) |
-| [September 29 at 10:09 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-09-29T22:09:50.706401-08:00.lighthouse.json) |
 
 
 
