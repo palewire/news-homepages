@@ -1,5 +1,5 @@
 {
-  "created": 1664954579,
+  "created": 1665002394,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/24/items/htrnews-2022",
@@ -16318,31 +16318,93 @@
       "sha1": "ff5d343d432e570490e3815ce016bdb9feaa66bf"
     },
     {
+      "name": "htrnews-2022-10-05T13:15:17.428217-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664993727",
+      "size": "22353",
+      "md5": "322cfaffbe6731bf5cdceb04b1e83b73",
+      "crc32": "5612eed1",
+      "sha1": "2485647d4403a1dca7c6866a84850a0ed75e4957",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-10-05T13:15:17.428217-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664993729",
+      "size": "39073",
+      "md5": "cadf79c9e61a25bbb87bd745d380d67e",
+      "crc32": "f1f9f2dd",
+      "sha1": "4abdf1e8b1705bb20203937769bc0935045f56ed",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-10-05T13:15:17.428217-05:00.jpg",
+      "source": "original",
+      "mtime": "1664993721",
+      "size": "262522",
+      "md5": "f011c65db07100099b41c55bdc92b70d",
+      "crc32": "f995beb7",
+      "sha1": "22ce655f009b723c960819ba3f2c6c5a39e113a9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "htrnews-2022-10-05T13:15:17.428217-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664993732",
+      "size": "1468",
+      "md5": "a8300d96f6d0195d09b2772abd36bdd6",
+      "crc32": "506a9188",
+      "sha1": "8ccfecc919c62b3a9d704a0b85b2840ff7f7cfa2",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-10-05T13:15:17.428217-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664993735",
+      "size": "204",
+      "md5": "7ca9f44055f5d46dc67e040c69eedd91",
+      "crc32": "58bea359",
+      "sha1": "67b97d6b44964aa7edc64cee8bea3febb695ed17",
+      "format": "JSON"
+    },
+    {
+      "name": "htrnews-2022-10-05T13:15:17.428217-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "htrnews-2022-10-05T13:15:17.428217-05:00.jpg",
+      "mtime": "1664993882",
+      "size": "9323",
+      "md5": "47ec58b8a60cb52de27a02fbeceaca8e",
+      "crc32": "15e9e439",
+      "sha1": "860d5fff4c47e92c4f86d31a59a1f5bd54268808"
+    },
+    {
       "name": "htrnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "51279ca3d335d5d9efe02ffd42b20f32fea92192",
-      "mtime": "1664949026",
-      "size": "329563",
-      "md5": "1211adab338d0b908c666a43720d1c32",
-      "crc32": "10175c4d",
-      "sha1": "b9f91066c34ed4b275bf17878bafe1026e69a743",
+      "btih": "f6e6ee0c5153f3e9b8419e16a7dd97c90790c2dc",
+      "mtime": "1664993905",
+      "size": "330822",
+      "md5": "c89169ba214949a6bb0734ba30af2136",
+      "crc32": "6518dfc2",
+      "sha1": "99d7bf2ede990767a43d655ddcf0fb7944129ff7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "htrnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c050684e43e872d5fdcbde8bf7c781d8",
+      "md5": "dd326ee5516be4afe88a0eb5056cc05f",
       "summation": "md5"
     },
     {
       "name": "htrnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664948935",
-      "size": "1896448",
-      "md5": "b06f8e2140a91ed44d23b77f1f094c09",
-      "crc32": "56b3d99a",
-      "sha1": "364294a9572d98d90d3982bd4890c4c16dbfb13c",
+      "mtime": "1664993756",
+      "size": "1904640",
+      "md5": "e09afc691ed2bcadfd8039d8eccefaca",
+      "crc32": "8f400a70",
+      "sha1": "9a82b7f996796066292b6c09e39b1f323db4bf7a",
       "format": "Metadata"
     },
     {
@@ -16356,13 +16418,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1570,
+  "files_count": 1576,
   "htrnews-2022": {
     "url": "https://www.htrnews.com/",
-    "job_id": "spn2-5dd2c41a297dbd46c948f284d1fc994be1e24f32"
+    "job_id": "spn2-5dd2c41a297dbd46c948f284d1fc994be1e24f32",
+    "resources": [],
+    "status": "error",
+    "message": "Job failed.",
+    "status_ext": "error:job-failed"
   },
-  "item_last_updated": 1664949026,
-  "item_size": 123455693,
+  "item_last_updated": 1664993905,
+  "item_size": 123800087,
   "metadata": {
     "identifier": "htrnews-2022",
     "collection": [
@@ -16380,7 +16446,7 @@
     "addeddate": "2022-03-27 23:07:58"
   },
   "server": "ia902504.us.archive.org",
-  "uniq": 179096863,
+  "uniq": 882796261,
   "workable_servers": [
     "ia902504.us.archive.org",
     "ia802504.us.archive.org"

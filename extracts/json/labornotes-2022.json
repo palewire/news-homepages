@@ -1,5 +1,5 @@
 {
-  "created": 1664954784,
+  "created": 1664994628,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/8/items/labornotes-2022",
@@ -12876,31 +12876,93 @@
       "sha1": "19e9b2dd545bce33827186c261a9c92192d4e3a3"
     },
     {
+      "name": "labornotes-2022-10-05T13:22:57.979808-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664994203",
+      "size": "12458",
+      "md5": "0af93ae15ee664b58961a346ec777b81",
+      "crc32": "8b2b2ed4",
+      "sha1": "ddcd33fb8144eefbc9b8cb12895cc751f7d08704",
+      "format": "JSON"
+    },
+    {
+      "name": "labornotes-2022-10-05T13:22:57.979808-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664994214",
+      "size": "8120",
+      "md5": "56f2b36ac5594df5f0c27cfda58f6219",
+      "crc32": "ba5966fd",
+      "sha1": "cd437affa15fbaf28a88519e1817f54fb97e6a26",
+      "format": "JSON"
+    },
+    {
+      "name": "labornotes-2022-10-05T13:22:57.979808-05:00.jpg",
+      "source": "original",
+      "mtime": "1664994191",
+      "size": "296814",
+      "md5": "f826e51fbb6d8c380f30bf12d32b877b",
+      "crc32": "d332956d",
+      "sha1": "7ec2e5cd9b66db8441d86f3286283a0fce7693c6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "labornotes-2022-10-05T13:22:57.979808-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664994224",
+      "size": "1494",
+      "md5": "64670b18007c2dcf553473bf56d6a7fd",
+      "crc32": "b2a9cc90",
+      "sha1": "2af0feb7cb90639d6e35e47d41e4d51a9d4c3279",
+      "format": "JSON"
+    },
+    {
+      "name": "labornotes-2022-10-05T13:22:57.979808-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664994232",
+      "size": "207",
+      "md5": "0a497e1ea7220c1a31cac4605db23a4a",
+      "crc32": "5f7cd951",
+      "sha1": "ccbb5dfd92229337e34dffb332b1794720b64170",
+      "format": "JSON"
+    },
+    {
+      "name": "labornotes-2022-10-05T13:22:57.979808-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "labornotes-2022-10-05T13:22:57.979808-05:00.jpg",
+      "mtime": "1664994574",
+      "size": "9828",
+      "md5": "58502e7a6313b54caeaf53c1ab7fe7c9",
+      "crc32": "0fcdbc0b",
+      "sha1": "19e9b2dd545bce33827186c261a9c92192d4e3a3"
+    },
+    {
       "name": "labornotes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e6982d5c7b478dd586b672c7ac3a6b1226bb3486",
-      "mtime": "1664949186",
-      "size": "265010",
-      "md5": "faf9ad0cd90f20a76a339b5019f89a0b",
-      "crc32": "a6da1d80",
-      "sha1": "4544879d1b7b815a32abab9c52074e69bbe4593e",
+      "btih": "e8c038ec6216a1c9275062fbc17ff2ebc7bcfe04",
+      "mtime": "1664994588",
+      "size": "266286",
+      "md5": "6c62af515f4d954205f9659003d9cfb2",
+      "crc32": "37d565b4",
+      "sha1": "ffe9502963a1ff2cdd02cebda6b12c15405045cc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "labornotes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b16c7f5296a70636b16044e5db9bed71",
+      "md5": "dfbf1c0dec98823ec58c87975c2c5af0",
       "summation": "md5"
     },
     {
       "name": "labornotes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664949048",
-      "size": "1585152",
-      "md5": "3619a07cb9244a9628a0803ab78b2501",
-      "crc32": "56fe14c7",
-      "sha1": "f4314a4b20742ad93dff5c4cbcb06abc9ddbc607",
+      "mtime": "1664994445",
+      "size": "1597440",
+      "md5": "c7431a353c88a55123b15f0ecc6f4b6e",
+      "crc32": "0da428e6",
+      "sha1": "0f8933f333957f8ce263af677c9d8dbcaedccb7b",
       "format": "Metadata"
     },
     {
@@ -12914,17 +12976,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1248,
-  "item_last_updated": 1664949186,
-  "item_size": 73927228,
-  "labornotes-2022": {
-    "url": "https://www.labornotes.org/",
-    "job_id": "spn2-3d49df2e6bec8d9a0c9cee07beb9696725a27eb8",
-    "status": "error",
-    "status_ext": "error:job-failed",
-    "resources": [],
-    "message": "Job failed."
-  },
+  "files_count": 1254,
+  "item_last_updated": 1664994588,
+  "item_size": 74269713,
   "metadata": {
     "identifier": "labornotes-2022",
     "collection": [
@@ -12941,10 +12995,10 @@
     "publicdate": "2022-07-23 02:31:50",
     "addeddate": "2022-07-23 02:31:50"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 1650205951,
+  "server": "ia902503.us.archive.org",
+  "uniq": 371302596,
   "workable_servers": [
-    "ia802503.us.archive.org",
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

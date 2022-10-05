@@ -1,5 +1,5 @@
 {
-  "created": 1664949398,
+  "created": 1665002976,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/13/items/newsminer-2022",
@@ -2848,31 +2848,93 @@
       "sha1": "6a3817079c058b10d6d4b9ab3125e268d41abedc"
     },
     {
+      "name": "newsminer-2022-10-05T10:28:54.630107-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664994540",
+      "size": "31587",
+      "md5": "cba339226d6801b8d9cb3d0637d65f0c",
+      "crc32": "fe01f076",
+      "sha1": "db1bf1e32e56ef8338ad38018202d082db5d2fcd",
+      "format": "JSON"
+    },
+    {
+      "name": "newsminer-2022-10-05T10:28:54.630107-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664994543",
+      "size": "57906",
+      "md5": "6edd34a3e260c367f7ff3682fe6171e0",
+      "crc32": "8aa1dc20",
+      "sha1": "aa9796f67b3c5cd828f604c5b5e4ba6ffad8b48f",
+      "format": "JSON"
+    },
+    {
+      "name": "newsminer-2022-10-05T10:28:54.630107-08:00.jpg",
+      "source": "original",
+      "mtime": "1664994538",
+      "size": "282409",
+      "md5": "f4ca7e0a4f4de4b43238113405ef5002",
+      "crc32": "93316da6",
+      "sha1": "61a9d6d5f9bf47938939b2bc0074a14a290faca5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsminer-2022-10-05T10:28:54.630107-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664994546",
+      "size": "1486",
+      "md5": "14c0190e7af58ad3b47569c2b0fd9410",
+      "crc32": "0643c63a",
+      "sha1": "29c322782b477279f347e761256153687d8535af",
+      "format": "JSON"
+    },
+    {
+      "name": "newsminer-2022-10-05T10:28:54.630107-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1664994548",
+      "size": "206",
+      "md5": "e3461cf5f585149922be52dd9920f71c",
+      "crc32": "64f064f4",
+      "sha1": "2f289677a65578aa459e7a29841c83f02457568c",
+      "format": "JSON"
+    },
+    {
+      "name": "newsminer-2022-10-05T10:28:54.630107-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsminer-2022-10-05T10:28:54.630107-08:00.jpg",
+      "mtime": "1664994679",
+      "size": "9096",
+      "md5": "bb78f7465760638cbb51a345709fb63f",
+      "crc32": "56974498",
+      "sha1": "fdcc92bdd781452422e83e23a28c1e2fe16463ab"
+    },
+    {
       "name": "newsminer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ad399bb2e8e3cc4b5bab776c7beda2b9bc6a4bb7",
-      "mtime": "1664949385",
-      "size": "59594",
-      "md5": "519f42df610247e3452919834701269c",
-      "crc32": "b24bf4c3",
-      "sha1": "dbf591b1c4e27c39a8386a9e281205b0bbf1d098",
+      "btih": "97740c58b94ec2df93432326fe4c9861493a438e",
+      "mtime": "1664994688",
+      "size": "60865",
+      "md5": "b221f1bb123e354852456152e4c401b4",
+      "crc32": "e717ed95",
+      "sha1": "f96398a2aafa3a652833e44625f77e552459ea74",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newsminer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fedbe034a936404c3f36453fb43bebb1",
+      "md5": "9c886165282f96d9df993165314c8a2e",
       "summation": "md5"
     },
     {
       "name": "newsminer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664949335",
-      "size": "368640",
-      "md5": "0da41929e5670cf8f70b839b4c8a2d9e",
-      "crc32": "b56c4b8a",
-      "sha1": "14fc3baf3515c3238860fe5d766875ac0ea1e062",
+      "mtime": "1664994599",
+      "size": "376832",
+      "md5": "6c9d0ff1b13c340f2da23af9e4ebcfff",
+      "crc32": "e6b3e2e3",
+      "sha1": "f8a5fc6a46ddc35c19505b1688999dcc803cfa07",
       "format": "Metadata"
     },
     {
@@ -2886,9 +2948,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 279,
-  "item_last_updated": 1664949385,
-  "item_size": 20118628,
+  "files_count": 285,
+  "item_last_updated": 1664994688,
+  "item_size": 20510781,
   "metadata": {
     "identifier": "newsminer-2022",
     "collection": [
@@ -2905,8 +2967,16 @@
     "publicdate": "2022-09-12 16:52:52",
     "addeddate": "2022-09-12 16:52:52"
   },
+  "newsminer-2022": {
+    "url": "https://www.newsminer.com/",
+    "job_id": "spn2-a41a67cfa8fe55b04d8d3758d62381d3e78d51ef",
+    "message": "Job failed.",
+    "resources": [],
+    "status": "error",
+    "status_ext": "error:job-failed"
+  },
   "server": "ia801506.us.archive.org",
-  "uniq": 249546953,
+  "uniq": 623058125,
   "workable_servers": [
     "ia801506.us.archive.org",
     "ia601506.us.archive.org"

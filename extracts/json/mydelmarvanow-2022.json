@@ -1,5 +1,5 @@
 {
-  "created": 1664949286,
+  "created": 1665002963,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/32/items/mydelmarvanow-2022",
@@ -1876,31 +1876,93 @@
       "sha1": "ae7dd40e707b0404442262a2e755dd5c8da68d5e"
     },
     {
+      "name": "mydelmarvanow-2022-10-05T14:28:52.676914-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664994538",
+      "size": "22506",
+      "md5": "473ec0951428aa2a89d3bd0cb78c3051",
+      "crc32": "594ac7bf",
+      "sha1": "cc52eb755435f963ede576aa1c70ef5e49841080",
+      "format": "JSON"
+    },
+    {
+      "name": "mydelmarvanow-2022-10-05T14:28:52.676914-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664994540",
+      "size": "31113",
+      "md5": "741284542157d5f6267845a77026dd82",
+      "crc32": "16a4168d",
+      "sha1": "cb98c5c8b859aa407b3a51e236212a8865949ab8",
+      "format": "JSON"
+    },
+    {
+      "name": "mydelmarvanow-2022-10-05T14:28:52.676914-04:00.jpg",
+      "source": "original",
+      "mtime": "1664994536",
+      "size": "265438",
+      "md5": "3dd1acad9c4dfb7db36d2b2b04c55fde",
+      "crc32": "a570bfbc",
+      "sha1": "384f7a2bd35e32b0ac62692478de1d850e24e17e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mydelmarvanow-2022-10-05T14:28:52.676914-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664994543",
+      "size": "1504",
+      "md5": "e0748b74450f6a10e313b903ef69a1ae",
+      "crc32": "ee588f9c",
+      "sha1": "9ed11e3a25fbd35713606e68c79cdfe520d1530e",
+      "format": "JSON"
+    },
+    {
+      "name": "mydelmarvanow-2022-10-05T14:28:52.676914-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664994545",
+      "size": "208",
+      "md5": "988701ef80578114107162d1bfbb5a35",
+      "crc32": "7363b2cb",
+      "sha1": "165f15c4c25bcdd9dc0bc0f23078e36d2070d3f2",
+      "format": "JSON"
+    },
+    {
+      "name": "mydelmarvanow-2022-10-05T14:28:52.676914-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mydelmarvanow-2022-10-05T14:28:52.676914-04:00.jpg",
+      "mtime": "1664994668",
+      "size": "9327",
+      "md5": "e39c47f1f4bba727ed4c128991f8d414",
+      "crc32": "5a890f32",
+      "sha1": "e8bdde67160e8b9859fa1595e6691c4a968861a9"
+    },
+    {
       "name": "mydelmarvanow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5b2b247b6532ca1530d158fee66d099e44f9f4e8",
-      "mtime": "1664949279",
-      "size": "40441",
-      "md5": "b2451b63d07422b67e8d43d8ecefc154",
-      "crc32": "00847f55",
-      "sha1": "8f272c740b85c59e3f2590358b545ad282088c43",
+      "btih": "bbb0dd2e7762eb7b391fa9b642f14301d4961217",
+      "mtime": "1664994672",
+      "size": "41736",
+      "md5": "8ff5e15a6057547aeb00d0e9aaf93c3f",
+      "crc32": "882f905d",
+      "sha1": "0ecf25971b22df61fe882c87e63f5137a405e204",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mydelmarvanow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b21b6b2e165e44103fdbafe78986d53c",
+      "md5": "c9d643b51b2554bf556e7fc00ac65e09",
       "summation": "md5"
     },
     {
       "name": "mydelmarvanow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664949227",
-      "size": "253952",
-      "md5": "5a7983eba2e2679e62865b1551727632",
-      "crc32": "8db4df28",
-      "sha1": "89092f7ec1f95d493761869a513e8690da3b2a6b",
+      "mtime": "1664994598",
+      "size": "262144",
+      "md5": "9b44a407c3d922da3faf051662f1b04c",
+      "crc32": "463f8c08",
+      "sha1": "6b29d2119c92f3f0851b1229e50e94fee0cffa6f",
       "format": "Metadata"
     },
     {
@@ -1914,9 +1976,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 185,
-  "item_last_updated": 1664949279,
-  "item_size": 12555337,
+  "files_count": 191,
+  "item_last_updated": 1664994672,
+  "item_size": 12894920,
   "metadata": {
     "identifier": "mydelmarvanow-2022",
     "collection": [
@@ -1933,10 +1995,18 @@
     "publicdate": "2022-09-20 17:37:12",
     "addeddate": "2022-09-20 17:37:12"
   },
-  "server": "ia601401.us.archive.org",
-  "uniq": 1215033015,
+  "mydelmarvanow-2022": {
+    "url": "https://www.delmarvanow.com/",
+    "job_id": "spn2-68a4fb23abcfd44d1b9899dac09948569390ec1d",
+    "message": "Job failed.",
+    "resources": [],
+    "status": "error",
+    "status_ext": "error:job-failed"
+  },
+  "server": "ia801401.us.archive.org",
+  "uniq": 1080205356,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }

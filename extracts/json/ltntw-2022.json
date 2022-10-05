@@ -1,5 +1,5 @@
 {
-  "created": 1664949566,
+  "created": 1665002861,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/31/items/ltntw-2022",
@@ -7646,31 +7646,93 @@
       "sha1": "6700e8ce2c90a2e227f5df21bd41baa284089ff0"
     },
     {
+      "name": "ltntw-2022-10-06T02:23:09.184756+08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664994217",
+      "size": "83293",
+      "md5": "db4eef84e566aa839eec6d1e2f681a08",
+      "crc32": "a5949fae",
+      "sha1": "8910bb3a2f2a8aaac757c97676f574ab687ab9ea",
+      "format": "JSON"
+    },
+    {
+      "name": "ltntw-2022-10-06T02:23:09.184756+08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664994225",
+      "size": "77794",
+      "md5": "1d6daacf0ef69af1e5d613f51657c086",
+      "crc32": "47091b69",
+      "sha1": "1563af1d26b57d7c9dfab32b3b40313f0ad12c56",
+      "format": "JSON"
+    },
+    {
+      "name": "ltntw-2022-10-06T02:23:09.184756+08:00.jpg",
+      "source": "original",
+      "mtime": "1664994207",
+      "size": "439919",
+      "md5": "ea1458e0d0981a705b4c84472664e575",
+      "crc32": "374caf9a",
+      "sha1": "fd101bad32f657bfa48abf67931e3b8add4bae24",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ltntw-2022-10-06T02:23:09.184756+08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664994233",
+      "size": "1457",
+      "md5": "24c08e35c97159f2a7bf4fd5524d02c0",
+      "crc32": "7b8cb071",
+      "sha1": "3e090ac6cf64b2386bd01e782b7ca88265190732",
+      "format": "JSON"
+    },
+    {
+      "name": "ltntw-2022-10-06T02:23:09.184756+08:00.wayback.json",
+      "source": "original",
+      "mtime": "1664994239",
+      "size": "203",
+      "md5": "bab366f1b3811c6025d1eb83ec1c2ce1",
+      "crc32": "a58cad5e",
+      "sha1": "90d4c913f6cb7dcf23857c692bb6de86e8b25e8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ltntw-2022-10-06T02:23:09.184756+08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ltntw-2022-10-06T02:23:09.184756+08:00.jpg",
+      "mtime": "1664994576",
+      "size": "10910",
+      "md5": "2264cd1ac834e869fd0ab174bb6fbdd8",
+      "crc32": "3feaea2d",
+      "sha1": "21656aae5eeba18e2d68fdc1acfc270f99166f73"
+    },
+    {
       "name": "ltntw-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c0f9f16115cceb8a99cb1d346e16268cc3fbaf18",
-      "mtime": "1664949541",
-      "size": "155761",
-      "md5": "72e5ec8766873210d54fe72f72fcd153",
-      "crc32": "ce24fb5d",
-      "sha1": "9eb50553382ed6620c5193a78afd9c7ac9fe1e45",
+      "btih": "300549c3acf90218964bde5a5a98106d9f854a11",
+      "mtime": "1664994585",
+      "size": "157009",
+      "md5": "e75d4a41fb3de2a61d919d75579e0df7",
+      "crc32": "d5e848dc",
+      "sha1": "a916b31ba7143fb7cd71e7be33b79215dacb112d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ltntw-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0d8d9507d4c312c8367ed66d49beded1",
+      "md5": "db165e558a68d857b3cde6f0a358572d",
       "summation": "md5"
     },
     {
       "name": "ltntw-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664949199",
-      "size": "950272",
-      "md5": "444595b939546c0d578b65ac5992f396",
-      "crc32": "2e4ab3b1",
-      "sha1": "bd6bb1c78c23ad32b2df3dba491fcfea588e5dd7",
+      "mtime": "1664994450",
+      "size": "954368",
+      "md5": "1560e071ddfacf901bb65d67677921cc",
+      "crc32": "c7bab6aa",
+      "sha1": "7c7c79797e17e44b3392c52f46a40f58a786b4a9",
       "format": "Metadata"
     },
     {
@@ -7684,9 +7746,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 743,
-  "item_last_updated": 1664949541,
-  "item_size": 78434387,
+  "files_count": 749,
+  "item_last_updated": 1664994585,
+  "item_size": 79053307,
+  "ltntw-2022": {
+    "url": "https://www.ltn.com.tw/",
+    "job_id": "spn2-3746bd6f0f4f40b2d82171f242201b8e876eacb2",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "message": "Job failed.",
+    "resources": []
+  },
   "metadata": {
     "identifier": "ltntw-2022",
     "collection": [
@@ -7703,10 +7773,10 @@
     "publicdate": "2022-08-02 14:57:59",
     "addeddate": "2022-08-02 14:57:59"
   },
-  "server": "ia601403.us.archive.org",
-  "uniq": 220095973,
+  "server": "ia801403.us.archive.org",
+  "uniq": 1873778306,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia801403.us.archive.org",
+    "ia601403.us.archive.org"
   ]
 }

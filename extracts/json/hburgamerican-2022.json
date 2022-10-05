@@ -1,5 +1,5 @@
 {
-  "created": 1664954565,
+  "created": 1665002365,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/18/items/hburgamerican-2022",
@@ -1854,31 +1854,93 @@
       "sha1": "804254d8c75b0d229891a4398334a181ca81943e"
     },
     {
+      "name": "hburgamerican-2022-10-05T13:15:17.686946-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664993725",
+      "size": "21538",
+      "md5": "75045668d82b24f1fa0ee4cc5ce735ac",
+      "crc32": "58632ed8",
+      "sha1": "87b09e5e61b381433f3f7995e94719b57b1a5be5",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-05T13:15:17.686946-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664993729",
+      "size": "29732",
+      "md5": "f987e142edc972c86773177b7a09c044",
+      "crc32": "917e409d",
+      "sha1": "5b41de7100c98f85f6ee4569d4c6b0830457c6cc",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-05T13:15:17.686946-05:00.jpg",
+      "source": "original",
+      "mtime": "1664993721",
+      "size": "269823",
+      "md5": "0de41a1aba375be793dd4d433f7f0528",
+      "crc32": "8fbb1300",
+      "sha1": "e5e55cb2ce4cd043df707a3e4e9953fa0869981e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hburgamerican-2022-10-05T13:15:17.686946-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664993732",
+      "size": "1576",
+      "md5": "e731d053a2b2cfac4a742b1c80effe6e",
+      "crc32": "cf393545",
+      "sha1": "e5ad7502cf26bd5271a52417276584d11e05ced1",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-05T13:15:17.686946-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664993734",
+      "size": "216",
+      "md5": "110fb7d7720c1e110569cd19f27e605b",
+      "crc32": "4dfa7b01",
+      "sha1": "13d04773de89900a0e2137e7b03d3cde2dbfcb74",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-05T13:15:17.686946-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hburgamerican-2022-10-05T13:15:17.686946-05:00.jpg",
+      "mtime": "1664993954",
+      "size": "9316",
+      "md5": "c4ef158cb28ba6d8150c647ae439b2ff",
+      "crc32": "ae9fa399",
+      "sha1": "1f8d2bd45b5cd3ddc94a30184c77b39a41f166a6"
+    },
+    {
       "name": "hburgamerican-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9769708845a55ad51429a460dec9c6df86fb2b14",
-      "mtime": "1664948956",
-      "size": "40028",
-      "md5": "a16ebe8f11193d181949ef242220ada8",
-      "crc32": "fd73f855",
-      "sha1": "1f388b4d8d577801a0357c6e418dd74f9dd6998d",
+      "btih": "1ba015cf297300078d5fc2a1d8dbee8ba97e6489",
+      "mtime": "1664993978",
+      "size": "41303",
+      "md5": "86576b72fc0b0560e926a51b3a02a894",
+      "crc32": "3efb6693",
+      "sha1": "cc20a29bec1248c79b82d3d783d359199d03b49a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hburgamerican-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d162823bf7415afedcd895293d781029",
+      "md5": "f9a24eb7dc03df57d03bb4805aa6d39e",
       "summation": "md5"
     },
     {
       "name": "hburgamerican-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664948901",
-      "size": "249856",
-      "md5": "d079f21cffb775d9f0a74b8effdeef01",
-      "crc32": "8103b1db",
-      "sha1": "73731cc661d0e6bf7ddf9f2d9cf6d216f0a7dea3",
+      "mtime": "1664993755",
+      "size": "262144",
+      "md5": "9bc90f2652aa64967d77e5ac1b45b722",
+      "crc32": "d4e14a5e",
+      "sha1": "a906708a3ef869636ab0f91a918f3529c19f19d2",
       "format": "Metadata"
     },
     {
@@ -1892,14 +1954,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 183,
+  "files_count": 189,
   "hburgamerican-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "url": "https://www.hattiesburgamerican.com/",
+    "job_id": "spn2-95aead19ed6838985c3900c4fea009f19579c6d5",
+    "resources": [],
     "status": "error",
-    "status_ext": "error:user-session-limit"
+    "message": "Job failed.",
+    "status_ext": "error:job-failed"
   },
-  "item_last_updated": 1664948956,
-  "item_size": 12202270,
+  "item_last_updated": 1664993978,
+  "item_size": 12548034,
   "metadata": {
     "identifier": "hburgamerican-2022",
     "collection": [
@@ -1916,10 +1981,10 @@
     "publicdate": "2022-09-20 17:30:05",
     "addeddate": "2022-09-20 17:30:05"
   },
-  "server": "ia601500.us.archive.org",
-  "uniq": 308125,
+  "server": "ia801500.us.archive.org",
+  "uniq": 1661199864,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia801500.us.archive.org",
+    "ia601500.us.archive.org"
   ]
 }

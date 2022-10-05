@@ -1,5 +1,5 @@
 {
-  "created": 1664949395,
+  "created": 1665002677,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/8/items/kpcc-2022",
@@ -24072,31 +24072,93 @@
       "sha1": "0dd2a00a263669fcf3a884ec449088a0c3d814ad"
     },
     {
+      "name": "kpcc-2022-10-05T11:23:12.977436-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664994231",
+      "size": "21210",
+      "md5": "f56469aca8e0f58347a7efa0498c63b5",
+      "crc32": "3550356f",
+      "sha1": "eec086edafb75d8353ab227b29dfb24258aa0e9f",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-10-05T11:23:12.977436-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664994238",
+      "size": "30434",
+      "md5": "38685459a8844c2851ab43dfcb36c4b6",
+      "crc32": "8f912fe3",
+      "sha1": "dfdf7e77f5efbe2093ac5a8a37a710bb26ca21d8",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-10-05T11:23:12.977436-07:00.jpg",
+      "source": "original",
+      "mtime": "1664994222",
+      "size": "230783",
+      "md5": "640ec11dbb5e9eef36c19cd61041c9eb",
+      "crc32": "738662ea",
+      "sha1": "9f9b69339eee664a37aa14c65a17d81ba6a0a2bc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcc-2022-10-05T11:23:12.977436-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664994244",
+      "size": "1423",
+      "md5": "f898f556fbe0eab8d30466e805258303",
+      "crc32": "f6fc54af",
+      "sha1": "b270f373900d8902eb1e8feea81ec9dcaab20b43",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-10-05T11:23:12.977436-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664994251",
+      "size": "201",
+      "md5": "009475b4b00492241499c700364a9523",
+      "crc32": "c1228ec5",
+      "sha1": "990b461acf0cbab272eaad7b1020692af002d7e1",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-10-05T11:23:12.977436-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcc-2022-10-05T11:23:12.977436-07:00.jpg",
+      "mtime": "1664994681",
+      "size": "9006",
+      "md5": "8e32f35d25e61af3c6ed4ab134dcd06b",
+      "crc32": "0fbb2977",
+      "sha1": "754281370a023bb952106f06ff241d144fc2f3c3"
+    },
+    {
       "name": "kpcc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "268418ea41cbb85bf5090d2e5800cc893bb00e4a",
-      "mtime": "1664949378",
-      "size": "477140",
-      "md5": "10ac65d6c92aca11c443fdd05c21a5a7",
-      "crc32": "a5c5f848",
-      "sha1": "7b2d5f24cf5866d4f163c050376db2340ba9c257",
+      "btih": "c54675d76d18be507e0fcf30d57aed85585e1ce0",
+      "mtime": "1664994802",
+      "size": "478381",
+      "md5": "5797bbe4c4f9581bc697d0fb486dc746",
+      "crc32": "f16c03f6",
+      "sha1": "b94ecc1bf769cec138b1de9b4bc711a2ae8ebed7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpcc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9b1c30a26aec1f755f126d2c6974ce83",
+      "md5": "b6c8ccd16c94d119d259abb1177f0753",
       "summation": "md5"
     },
     {
       "name": "kpcc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664949110",
-      "size": "2768896",
-      "md5": "57938bf117511b29f887960d9e624b6c",
-      "crc32": "c505042d",
-      "sha1": "f4f5158d43f97f2b823cde8f7f252d68a3b1faa0",
+      "mtime": "1664994543",
+      "size": "2777088",
+      "md5": "6ec7774abf0edbbd03031e93f1dcd690",
+      "crc32": "bed709f3",
+      "sha1": "a3e8f941e6cb6a1a3196c40aae840bf84f363210",
       "format": "Metadata"
     },
     {
@@ -24110,9 +24172,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2313,
-  "item_last_updated": 1664949378,
-  "item_size": 157215144,
+  "files_count": 2319,
+  "item_last_updated": 1664994802,
+  "item_size": 157517634,
+  "kpcc-2022": {
+    "url": "https://www.kpcc.org/",
+    "job_id": "spn2-a17384804bcb6dab31347ae10143b70481297799",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "resources": [],
+    "message": "Job failed."
+  },
   "metadata": {
     "identifier": "kpcc-2022",
     "collection": [
@@ -24130,7 +24200,7 @@
     "addeddate": "2022-03-23 02:08:21"
   },
   "server": "ia902503.us.archive.org",
-  "uniq": 2011528347,
+  "uniq": 2083859157,
   "workable_servers": [
     "ia902503.us.archive.org",
     "ia802503.us.archive.org"

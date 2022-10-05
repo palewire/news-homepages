@@ -1,5 +1,5 @@
 {
-  "created": 1664949084,
+  "created": 1665002640,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/28/items/kinstonfp-2022",
@@ -1854,31 +1854,93 @@
       "sha1": "03bf28daf110c6fc6c4b3dc6c06f1b66b3d443fc"
     },
     {
+      "name": "kinstonfp-2022-10-05T14:22:45.205690-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664994187",
+      "size": "22463",
+      "md5": "90fd810ca4c5e59c4273e4cb8e98d321",
+      "crc32": "5eb4fcc8",
+      "sha1": "a5213b0b0f7cd95d3ff96800d3c202ddb8613ada",
+      "format": "JSON"
+    },
+    {
+      "name": "kinstonfp-2022-10-05T14:22:45.205690-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664994199",
+      "size": "38294",
+      "md5": "fc6d94415be075df8beb288f5c207461",
+      "crc32": "b6b4e613",
+      "sha1": "f14e2d477acffc706948d7eba90dadb98a150c3e",
+      "format": "JSON"
+    },
+    {
+      "name": "kinstonfp-2022-10-05T14:22:45.205690-04:00.jpg",
+      "source": "original",
+      "mtime": "1664994175",
+      "size": "278288",
+      "md5": "d8d561a23e7cda39ff1a4685f403db3d",
+      "crc32": "88d26774",
+      "sha1": "b5b8eb4934fce498fe656beefed3300308c69818",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kinstonfp-2022-10-05T14:22:45.205690-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664994210",
+      "size": "1467",
+      "md5": "cd7250dda86bfdf409edfedb011b665f",
+      "crc32": "353ae2aa",
+      "sha1": "755797599146d517cb87b70ba4f4e044be914e26",
+      "format": "JSON"
+    },
+    {
+      "name": "kinstonfp-2022-10-05T14:22:45.205690-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664994220",
+      "size": "204",
+      "md5": "9c42fdfa2667a092375d3d105b4984fd",
+      "crc32": "a94d58b5",
+      "sha1": "9cc946b3513e1ca64e1af4795281372aca3a4be6",
+      "format": "JSON"
+    },
+    {
+      "name": "kinstonfp-2022-10-05T14:22:45.205690-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kinstonfp-2022-10-05T14:22:45.205690-04:00.jpg",
+      "mtime": "1664994570",
+      "size": "9763",
+      "md5": "ebc3ee4540355d6d707e239f8576224e",
+      "crc32": "1728f26d",
+      "sha1": "e72fda16c7502702a9f75162ae7f89e569d03bff"
+    },
+    {
       "name": "kinstonfp-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9572926d24c3481881b1d070aca7b044031a56b8",
-      "mtime": "1664949076",
-      "size": "39302",
-      "md5": "1f069aef8b647d2352609848e18cc4a6",
-      "crc32": "132d5c8b",
-      "sha1": "5f7aea2bbfb86933d4f875bda6d2c18328f5735e",
+      "btih": "9323949d60dcf1525bfa7a0e539f2ba7c4a82029",
+      "mtime": "1664994574",
+      "size": "40573",
+      "md5": "5b18d96b9bf3b1a4e8b10a39c6a17c6d",
+      "crc32": "e5cccfd9",
+      "sha1": "abdf175ac2de03af74401546f25d0fc95043d3e2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kinstonfp-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "814fa9584cfe267823b94bb6fb1ade4f",
+      "md5": "20fe230ebe5b5ef3fdc6dc249a405d3d",
       "summation": "md5"
     },
     {
       "name": "kinstonfp-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664949020",
-      "size": "249856",
-      "md5": "7447a97dd0cb3585a7ed5a8de6487e87",
-      "crc32": "b62fde8c",
-      "sha1": "379d20b578fc7381285f47aa2e7dab6dbe16b3de",
+      "mtime": "1664994441",
+      "size": "258048",
+      "md5": "6625ccddffd02f9562da76e4ee10abba",
+      "crc32": "b61126ab",
+      "sha1": "678d33ee996aa93ce78b124313ca626e65ff6c90",
       "format": "Metadata"
     },
     {
@@ -1892,9 +1954,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 183,
-  "item_last_updated": 1664949076,
-  "item_size": 13109921,
+  "files_count": 189,
+  "item_last_updated": 1664994574,
+  "item_size": 13469863,
+  "kinstonfp-2022": {
+    "url": "https://www.kinston.com/",
+    "job_id": "spn2-3390afcc23f75297f2a6efc2029671fd8e8b65a1",
+    "message": "Job failed.",
+    "resources": [],
+    "status": "error",
+    "status_ext": "error:job-failed"
+  },
   "metadata": {
     "identifier": "kinstonfp-2022",
     "collection": [
@@ -1911,10 +1981,10 @@
     "publicdate": "2022-09-20 17:33:46",
     "addeddate": "2022-09-20 17:33:46"
   },
-  "server": "ia601407.us.archive.org",
-  "uniq": 985375265,
+  "server": "ia801407.us.archive.org",
+  "uniq": 1968666196,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia801407.us.archive.org",
+    "ia601407.us.archive.org"
   ]
 }

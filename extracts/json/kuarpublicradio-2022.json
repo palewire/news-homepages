@@ -1,5 +1,5 @@
 {
-  "created": 1664949083,
+  "created": 1664994646,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/7/items/kuarpublicradio-2022",
@@ -2982,31 +2982,93 @@
       "sha1": "80240423739fbfde37bfaccc6a3cfd355ad00967"
     },
     {
+      "name": "kuarpublicradio-2022-10-05T13:24:35.128009-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664994287",
+      "size": "14108",
+      "md5": "4709f13ff7e59ed0c742997ff43087bf",
+      "crc32": "3611492d",
+      "sha1": "9fe480439bc93d74a2f2e76236dccc86e68be35d",
+      "format": "JSON"
+    },
+    {
+      "name": "kuarpublicradio-2022-10-05T13:24:35.128009-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664994295",
+      "size": "31735",
+      "md5": "aaebdde15ce301d4b7014a5e2b88d385",
+      "crc32": "b285cf38",
+      "sha1": "051d947c80fb13f0a647ebac85ccbbd7b9185c8d",
+      "format": "JSON"
+    },
+    {
+      "name": "kuarpublicradio-2022-10-05T13:24:35.128009-05:00.jpg",
+      "source": "original",
+      "mtime": "1664994280",
+      "size": "260534",
+      "md5": "560e50ceb48dfdaa3cebb481ad60c763",
+      "crc32": "c5cdc053",
+      "sha1": "1d3698968f5597f648451e0ef3ec12fd6bb5beb1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kuarpublicradio-2022-10-05T13:24:35.128009-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664994302",
+      "size": "1522",
+      "md5": "1aa6f84e7c8e84aa95a5fd20445b7533",
+      "crc32": "792c7a6b",
+      "sha1": "6a8152d8c45ad0b8fcbc6a779e5aaa026e23756e",
+      "format": "JSON"
+    },
+    {
+      "name": "kuarpublicradio-2022-10-05T13:24:35.128009-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664994313",
+      "size": "212",
+      "md5": "da8dabd099f62ced64c356dcbb2e9ce7",
+      "crc32": "9b5dbf30",
+      "sha1": "f183daae1e9092558f27a796d798b6be459f751f",
+      "format": "JSON"
+    },
+    {
+      "name": "kuarpublicradio-2022-10-05T13:24:35.128009-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kuarpublicradio-2022-10-05T13:24:35.128009-05:00.jpg",
+      "mtime": "1664994604",
+      "size": "10002",
+      "md5": "65fa29b6f996549e8f6bcf53168ab369",
+      "crc32": "b62b8b0c",
+      "sha1": "997db14ce3d2a73f8fdeb7614a4b28d88a68e432"
+    },
+    {
       "name": "kuarpublicradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c894b5798f993c1833263652852fe5a63e11ede2",
-      "mtime": "1664949075",
-      "size": "63980",
-      "md5": "77a340ab1ca77a04cdcd897ed7397ec8",
-      "crc32": "e8006a45",
-      "sha1": "b342164b7069bdd9e8521a78e93b307c89667efb",
+      "btih": "69e93ec871ee814f5d4ee7aad73237ec225ff254",
+      "mtime": "1664994612",
+      "size": "65268",
+      "md5": "84d6c740f0d3703c3f63b5f4f4ad3f53",
+      "crc32": "65999abf",
+      "sha1": "408d1e7487bb477505519acf8ae317599b43f0a9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kuarpublicradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9c74066a7d4caafb3286989433cc738e",
+      "md5": "186d1b9230cb33f1eef1e84d0bcaa8e7",
       "summation": "md5"
     },
     {
       "name": "kuarpublicradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664949025",
-      "size": "389120",
-      "md5": "91c8d71bd61a659d696eba2f18dfccc7",
-      "crc32": "57c44463",
-      "sha1": "64b7e55f47d912319f4426af76b734f2c5145ccf",
+      "mtime": "1664994519",
+      "size": "401408",
+      "md5": "cb6786c0348b4e84aea31db0169617be",
+      "crc32": "3aeeca8a",
+      "sha1": "9788fd762659b17528fd18fcabb70e92065da090",
       "format": "Metadata"
     },
     {
@@ -3020,9 +3082,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 292,
-  "item_last_updated": 1664949075,
-  "item_size": 16927001,
+  "files_count": 298,
+  "item_last_updated": 1664994612,
+  "item_size": 17258690,
   "metadata": {
     "identifier": "kuarpublicradio-2022",
     "collection": [
@@ -3040,7 +3102,7 @@
     "addeddate": "2022-09-12 04:03:39"
   },
   "server": "ia801503.us.archive.org",
-  "uniq": 1668013543,
+  "uniq": 1820754224,
   "workable_servers": [
     "ia801503.us.archive.org",
     "ia601503.us.archive.org"
