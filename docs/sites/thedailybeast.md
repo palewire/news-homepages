@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 142 screenshots with the Internet Archive.
+The archiving routine has saved 145 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-05T03:30:31.733255-04:00.jpg">
+  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-05T03:30:31.733255-04:00.jpg"
+     alt="Daily Beast at 2022-10-05 03:30:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-05T03:30:31.733255-04:00.jpg">October 5 at 3:30 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-04T16:06:37.925762-04:00.jpg">
+  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-04T16:06:37.925762-04:00.jpg"
+     alt="Daily Beast at 2022-10-04 16:06:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-04T16:06:37.925762-04:00.jpg">October 4 at 4:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-04T03:51:07.733532-04:00.jpg">
+  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-04T03:51:07.733532-04:00.jpg"
+     alt="Daily Beast at 2022-10-04 03:51:20-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-04T03:51:07.733532-04:00.jpg">October 4 at 3:51 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-03T15:11:03.967219-04:00.jpg">
   <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-03T15:11:03.967219-04:00.jpg"
      alt="Daily Beast at 2022-10-03 15:11:15-04:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-29T14:58:06.294688-04:00.jpg">September 29 at 2:58 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-29T03:30:15.811988-04:00.jpg">
-  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-29T03:30:15.811988-04:00.jpg"
-     alt="Daily Beast at 2022-09-29 03:30:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-29T03:30:15.811988-04:00.jpg">September 29 at 3:30 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-28T15:06:03.606920-04:00.jpg">
-  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-28T15:06:03.606920-04:00.jpg"
-     alt="Daily Beast at 2022-09-28 15:06:09-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-28T15:06:03.606920-04:00.jpg">September 28 at 3:06 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-28T03:54:09.472695-04:00.jpg">
-  <img src="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-28T03:54:09.472695-04:00.jpg"
-     alt="Daily Beast at 2022-09-28 03:54:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-28T03:54:09.472695-04:00.jpg">September 28 at 3:54 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 138 hyperlink lists with the Internet Archive.
+The archiving routine has saved 141 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 5 at 3:30 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-05T03:30:31.733255-04:00.hyperlinks.json) |
+| [October 4 at 4:06 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-04T16:06:37.925762-04:00.hyperlinks.json) |
+| [October 4 at 3:51 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-04T03:51:07.733532-04:00.hyperlinks.json) |
 | [October 3 at 3:11 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-03T15:11:03.967219-04:00.hyperlinks.json) |
 | [October 3 at 3:29 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-03T03:28:55.580635-04:00.hyperlinks.json) |
 | [October 2 at 3:36 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-02T15:36:34.623435-04:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 3:37 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-01T15:36:54.498016-04:00.hyperlinks.json) |
 | [October 1 at 3:48 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-01T03:47:50.794578-04:00.hyperlinks.json) |
 | [September 30 at 3:52 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-30T15:52:13.514410-04:00.hyperlinks.json) |
-| [September 30 at 4:10 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-30T04:10:01.887023-04:00.hyperlinks.json) |
-| [September 29 at 2:58 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-29T14:58:06.294688-04:00.hyperlinks.json) |
-| [September 29 at 3:30 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-29T03:30:15.811988-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 143 accessibility trees with the Internet Archive.
+The archiving routine has saved 146 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 5 at 3:30 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-05T03:30:31.733255-04:00.accessibility.json) |
+| [October 4 at 4:06 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-04T16:06:37.925762-04:00.accessibility.json) |
+| [October 4 at 3:51 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-04T03:51:07.733532-04:00.accessibility.json) |
 | [October 3 at 3:11 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-03T15:11:03.967219-04:00.accessibility.json) |
 | [October 3 at 3:29 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-03T03:28:55.580635-04:00.accessibility.json) |
 | [October 2 at 3:36 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-02T15:36:34.623435-04:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 3:37 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-01T15:36:54.498016-04:00.accessibility.json) |
 | [October 1 at 3:47 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-01T03:47:50.794578-04:00.accessibility.json) |
 | [September 30 at 3:52 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-30T15:52:13.514410-04:00.accessibility.json) |
-| [September 30 at 4:10 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-30T04:10:01.887023-04:00.accessibility.json) |
-| [September 29 at 2:58 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-29T14:58:06.294688-04:00.accessibility.json) |
-| [September 29 at 3:30 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-29T03:30:15.811988-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 143 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 146 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 5 at 3:30 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-05T03:30:31.733255-04:00.lighthouse.json) |
+| [October 4 at 4:06 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-04T16:06:37.925762-04:00.lighthouse.json) |
+| [October 4 at 3:51 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-04T03:51:07.733532-04:00.lighthouse.json) |
 | [October 3 at 3:11 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-03T15:11:03.967219-04:00.lighthouse.json) |
 | [October 3 at 3:29 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-03T03:28:55.580635-04:00.lighthouse.json) |
 | [October 2 at 3:36 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-02T15:36:34.623435-04:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 3:37 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-01T15:36:54.498016-04:00.lighthouse.json) |
 | [October 1 at 3:48 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-10-01T03:47:50.794578-04:00.lighthouse.json) |
 | [September 30 at 3:52 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-30T15:52:13.514410-04:00.lighthouse.json) |
-| [September 30 at 4:10 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-30T04:10:01.887023-04:00.lighthouse.json) |
-| [September 29 at 2:58 PM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-29T14:58:06.294688-04:00.lighthouse.json) |
-| [September 29 at 3:30 AM](https://archive.org/download/thedailybeast-2022/thedailybeast-2022-09-29T03:30:15.811988-04:00.lighthouse.json) |
 
 
 

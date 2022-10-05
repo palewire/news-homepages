@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/demingheadlight-2022/demingheadlight-2022-10-05T00:01:46.524480-06:00.jpg">
+  <img src="https://archive.org/download/demingheadlight-2022/demingheadlight-2022-10-05T00:01:46.524480-06:00.jpg"
+     alt="Deming Headlight at 2022-10-05 00:01:49-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/demingheadlight-2022/demingheadlight-2022-10-05T00:01:46.524480-06:00.jpg">October 5 at 12:01 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/demingheadlight-2022/demingheadlight-2022-10-04T12:01:53.705734-06:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/demingheadlight-2022/demingheadlight-2022-09-29T11:45:54.507603-06:00.jpg">September 29 at 11:45 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/demingheadlight-2022/demingheadlight-2022-09-29T00:14:36.941722-06:00.jpg">
-  <img src="https://archive.org/download/demingheadlight-2022/demingheadlight-2022-09-29T00:14:36.941722-06:00.jpg"
-     alt="Deming Headlight at 2022-09-29 00:14:38-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/demingheadlight-2022/demingheadlight-2022-09-29T00:14:36.941722-06:00.jpg">September 29 at 12:14 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 28 hyperlink lists with the Internet Archive.
+The archiving routine has saved 29 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 5 at 12:01 AM](https://archive.org/download/demingheadlight-2022/demingheadlight-2022-10-05T00:01:46.524480-06:00.hyperlinks.json) |
 | [October 4 at 12:02 PM](https://archive.org/download/demingheadlight-2022/demingheadlight-2022-10-04T12:01:53.705734-06:00.hyperlinks.json) |
 | [October 4 at 12:59 AM](https://archive.org/download/demingheadlight-2022/demingheadlight-2022-10-04T00:59:16.704217-06:00.hyperlinks.json) |
 | [October 3 at 11:58 AM](https://archive.org/download/demingheadlight-2022/demingheadlight-2022-10-03T11:57:56.477229-06:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 11:45 AM](https://archive.org/download/demingheadlight-2022/demingheadlight-2022-10-01T11:45:12.159941-06:00.hyperlinks.json) |
 | [October 1 at 1:43 AM](https://archive.org/download/demingheadlight-2022/demingheadlight-2022-10-01T01:43:08.713920-06:00.hyperlinks.json) |
 | [September 30 at 12:24 PM](https://archive.org/download/demingheadlight-2022/demingheadlight-2022-09-30T12:24:24.899412-06:00.hyperlinks.json) |
-| [September 30 at 12:31 AM](https://archive.org/download/demingheadlight-2022/demingheadlight-2022-09-30T00:30:54.239724-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 29 accessibility trees with the Internet Archive.
+The archiving routine has saved 30 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 5 at 12:01 AM](https://archive.org/download/demingheadlight-2022/demingheadlight-2022-10-05T00:01:46.524480-06:00.accessibility.json) |
 | [October 4 at 12:02 PM](https://archive.org/download/demingheadlight-2022/demingheadlight-2022-10-04T12:01:53.705734-06:00.accessibility.json) |
 | [October 4 at 12:59 AM](https://archive.org/download/demingheadlight-2022/demingheadlight-2022-10-04T00:59:16.704217-06:00.accessibility.json) |
 | [October 3 at 11:58 AM](https://archive.org/download/demingheadlight-2022/demingheadlight-2022-10-03T11:57:56.477229-06:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 11:45 AM](https://archive.org/download/demingheadlight-2022/demingheadlight-2022-10-01T11:45:12.159941-06:00.accessibility.json) |
 | [October 1 at 1:43 AM](https://archive.org/download/demingheadlight-2022/demingheadlight-2022-10-01T01:43:08.713920-06:00.accessibility.json) |
 | [September 30 at 12:24 PM](https://archive.org/download/demingheadlight-2022/demingheadlight-2022-09-30T12:24:24.899412-06:00.accessibility.json) |
-| [September 30 at 12:30 AM](https://archive.org/download/demingheadlight-2022/demingheadlight-2022-09-30T00:30:54.239724-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 5 at 12:01 AM](https://archive.org/download/demingheadlight-2022/demingheadlight-2022-10-05T00:01:46.524480-06:00.lighthouse.json) |
 | [October 4 at 12:02 PM](https://archive.org/download/demingheadlight-2022/demingheadlight-2022-10-04T12:01:53.705734-06:00.lighthouse.json) |
 | [October 4 at 12:59 AM](https://archive.org/download/demingheadlight-2022/demingheadlight-2022-10-04T00:59:16.704217-06:00.lighthouse.json) |
 | [October 3 at 11:58 AM](https://archive.org/download/demingheadlight-2022/demingheadlight-2022-10-03T11:57:56.477229-06:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 11:45 AM](https://archive.org/download/demingheadlight-2022/demingheadlight-2022-10-01T11:45:12.159941-06:00.lighthouse.json) |
 | [October 1 at 1:43 AM](https://archive.org/download/demingheadlight-2022/demingheadlight-2022-10-01T01:43:08.713920-06:00.lighthouse.json) |
 | [September 30 at 12:24 PM](https://archive.org/download/demingheadlight-2022/demingheadlight-2022-09-30T12:24:24.899412-06:00.lighthouse.json) |
-| [September 30 at 12:31 AM](https://archive.org/download/demingheadlight-2022/demingheadlight-2022-09-30T00:30:54.239724-06:00.lighthouse.json) |
 
 
 

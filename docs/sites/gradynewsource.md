@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 140 screenshots with the Internet Archive.
+The archiving routine has saved 141 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 140 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gradynewsource-2022/gradynewsource-2022-10-05T02:07:06.594944-04:00.jpg">
+  <img src="https://archive.org/download/gradynewsource-2022/gradynewsource-2022-10-05T02:07:06.594944-04:00.jpg"
+     alt="Grady Newsource at 2022-10-05 02:07:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gradynewsource-2022/gradynewsource-2022-10-05T02:07:06.594944-04:00.jpg">October 5 at 2:07 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gradynewsource-2022/gradynewsource-2022-10-04T14:11:16.376444-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gradynewsource-2022/gradynewsource-2022-09-29T13:50:20.829171-04:00.jpg">September 29 at 1:50 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gradynewsource-2022/gradynewsource-2022-09-29T02:21:08.307704-04:00.jpg">
-  <img src="https://archive.org/download/gradynewsource-2022/gradynewsource-2022-09-29T02:21:08.307704-04:00.jpg"
-     alt="Grady Newsource at 2022-09-29 02:21:10-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gradynewsource-2022/gradynewsource-2022-09-29T02:21:08.307704-04:00.jpg">September 29 at 2:21 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 140 hyperlink lists with the Internet Archive.
+The archiving routine has saved 141 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 5 at 2:07 AM](https://archive.org/download/gradynewsource-2022/gradynewsource-2022-10-05T02:07:06.594944-04:00.hyperlinks.json) |
 | [October 4 at 2:11 PM](https://archive.org/download/gradynewsource-2022/gradynewsource-2022-10-04T14:11:16.376444-04:00.hyperlinks.json) |
 | [October 4 at 3:02 AM](https://archive.org/download/gradynewsource-2022/gradynewsource-2022-10-04T03:02:23.481921-04:00.hyperlinks.json) |
 | [October 3 at 2:06 PM](https://archive.org/download/gradynewsource-2022/gradynewsource-2022-10-03T14:06:14.494319-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 1:50 PM](https://archive.org/download/gradynewsource-2022/gradynewsource-2022-10-01T13:50:47.638403-04:00.hyperlinks.json) |
 | [October 1 at 3:45 AM](https://archive.org/download/gradynewsource-2022/gradynewsource-2022-10-01T03:45:19.551827-04:00.hyperlinks.json) |
 | [September 30 at 2:31 PM](https://archive.org/download/gradynewsource-2022/gradynewsource-2022-09-30T14:31:00.305607-04:00.hyperlinks.json) |
-| [September 30 at 2:36 AM](https://archive.org/download/gradynewsource-2022/gradynewsource-2022-09-30T02:36:22.535399-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 140 accessibility trees with the Internet Archive.
+The archiving routine has saved 141 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 5 at 2:07 AM](https://archive.org/download/gradynewsource-2022/gradynewsource-2022-10-05T02:07:06.594944-04:00.accessibility.json) |
 | [October 4 at 2:11 PM](https://archive.org/download/gradynewsource-2022/gradynewsource-2022-10-04T14:11:16.376444-04:00.accessibility.json) |
 | [October 4 at 3:02 AM](https://archive.org/download/gradynewsource-2022/gradynewsource-2022-10-04T03:02:23.481921-04:00.accessibility.json) |
 | [October 3 at 2:06 PM](https://archive.org/download/gradynewsource-2022/gradynewsource-2022-10-03T14:06:14.494319-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 1:50 PM](https://archive.org/download/gradynewsource-2022/gradynewsource-2022-10-01T13:50:47.638403-04:00.accessibility.json) |
 | [October 1 at 3:45 AM](https://archive.org/download/gradynewsource-2022/gradynewsource-2022-10-01T03:45:19.551827-04:00.accessibility.json) |
 | [September 30 at 2:31 PM](https://archive.org/download/gradynewsource-2022/gradynewsource-2022-09-30T14:31:00.305607-04:00.accessibility.json) |
-| [September 30 at 2:36 AM](https://archive.org/download/gradynewsource-2022/gradynewsource-2022-09-30T02:36:22.535399-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 140 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 141 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 5 at 2:07 AM](https://archive.org/download/gradynewsource-2022/gradynewsource-2022-10-05T02:07:06.594944-04:00.lighthouse.json) |
 | [October 4 at 2:11 PM](https://archive.org/download/gradynewsource-2022/gradynewsource-2022-10-04T14:11:16.376444-04:00.lighthouse.json) |
 | [October 4 at 3:02 AM](https://archive.org/download/gradynewsource-2022/gradynewsource-2022-10-04T03:02:23.481921-04:00.lighthouse.json) |
 | [October 3 at 2:06 PM](https://archive.org/download/gradynewsource-2022/gradynewsource-2022-10-03T14:06:14.494319-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 1:50 PM](https://archive.org/download/gradynewsource-2022/gradynewsource-2022-10-01T13:50:47.638403-04:00.lighthouse.json) |
 | [October 1 at 3:45 AM](https://archive.org/download/gradynewsource-2022/gradynewsource-2022-10-01T03:45:19.551827-04:00.lighthouse.json) |
 | [September 30 at 2:31 PM](https://archive.org/download/gradynewsource-2022/gradynewsource-2022-09-30T14:31:00.305607-04:00.lighthouse.json) |
-| [September 30 at 2:36 AM](https://archive.org/download/gradynewsource-2022/gradynewsource-2022-09-30T02:36:22.535399-04:00.lighthouse.json) |
 
 
 

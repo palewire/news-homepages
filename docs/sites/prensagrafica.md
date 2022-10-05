@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 217 screenshots with the Internet Archive.
+The archiving routine has saved 218 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 217 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-10-05T01:25:20.082470-06:00.jpg">
+  <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-10-05T01:25:20.082470-06:00.jpg"
+     alt="Prensa Grafica at 2022-10-05 01:25:21-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-10-05T01:25:20.082470-06:00.jpg">October 5 at 1:25 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-10-04T13:36:23.944566-06:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-09-29T13:31:27.052048-06:00.jpg">September 29 at 1:31 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-09-29T01:38:01.884562-06:00.jpg">
-  <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-09-29T01:38:01.884562-06:00.jpg"
-     alt="Prensa Grafica at 2022-09-29 01:38:03-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-09-29T01:38:01.884562-06:00.jpg">September 29 at 1:38 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 213 hyperlink lists with the Internet Archive.
+The archiving routine has saved 214 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 5 at 1:25 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-10-05T01:25:20.082470-06:00.hyperlinks.json) |
 | [October 4 at 1:36 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-10-04T13:36:23.944566-06:00.hyperlinks.json) |
 | [October 4 at 1:46 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-10-04T01:46:10.734855-06:00.hyperlinks.json) |
 | [October 3 at 1:22 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-10-03T13:22:00.454561-06:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 1:08 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-10-01T13:07:58.206246-06:00.hyperlinks.json) |
 | [October 1 at 1:59 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-10-01T01:58:51.611240-06:00.hyperlinks.json) |
 | [September 30 at 2:14 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-09-30T14:14:32.263336-06:00.hyperlinks.json) |
-| [September 30 at 2:01 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-09-30T02:01:30.517968-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 214 accessibility trees with the Internet Archive.
+The archiving routine has saved 215 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 5 at 1:25 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-10-05T01:25:20.082470-06:00.accessibility.json) |
 | [October 4 at 1:36 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-10-04T13:36:23.944566-06:00.accessibility.json) |
 | [October 4 at 1:46 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-10-04T01:46:10.734855-06:00.accessibility.json) |
 | [October 3 at 1:22 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-10-03T13:22:00.454561-06:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 1:08 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-10-01T13:07:58.206246-06:00.accessibility.json) |
 | [October 1 at 1:58 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-10-01T01:58:51.611240-06:00.accessibility.json) |
 | [September 30 at 2:14 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-09-30T14:14:32.263336-06:00.accessibility.json) |
-| [September 30 at 2:01 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-09-30T02:01:30.517968-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 138 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 139 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 5 at 1:25 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-10-05T01:25:20.082470-06:00.lighthouse.json) |
 | [October 4 at 1:36 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-10-04T13:36:23.944566-06:00.lighthouse.json) |
 | [October 4 at 1:46 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-10-04T01:46:10.734855-06:00.lighthouse.json) |
 | [October 3 at 1:22 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-10-03T13:22:00.454561-06:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 1:08 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-10-01T13:07:58.206246-06:00.lighthouse.json) |
 | [October 1 at 1:59 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-10-01T01:58:51.611240-06:00.lighthouse.json) |
 | [September 30 at 2:14 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-09-30T14:14:32.263336-06:00.lighthouse.json) |
-| [September 29 at 1:31 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-09-29T13:31:27.052048-06:00.lighthouse.json) |
 
 
 

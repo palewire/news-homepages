@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 176 screenshots with the Internet Archive.
+The archiving routine has saved 177 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 176 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lancenet-2022/lancenet-2022-10-05T02:50:26.785033-03:00.jpg">
+  <img src="https://archive.org/download/lancenet-2022/lancenet-2022-10-05T02:50:26.785033-03:00.jpg"
+     alt="Lance at 2022-10-05 02:50:38-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-10-05T02:50:26.785033-03:00.jpg">October 5 at 2:50 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lancenet-2022/lancenet-2022-10-04T14:50:55.675360-03:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-10-01T08:59:27.283845-03:00.jpg">October 1 at 8:59 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lancenet-2022/lancenet-2022-10-01T03:18:31.582442-03:00.jpg">
-  <img src="https://archive.org/download/lancenet-2022/lancenet-2022-10-01T03:18:31.582442-03:00.jpg"
-     alt="Lance at 2022-10-01 03:18:39-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-10-01T03:18:31.582442-03:00.jpg">October 1 at 3:18 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 175 hyperlink lists with the Internet Archive.
+The archiving routine has saved 176 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 5 at 2:50 AM](https://archive.org/download/lancenet-2022/lancenet-2022-10-05T02:50:26.785033-03:00.hyperlinks.json) |
 | [October 4 at 2:51 PM](https://archive.org/download/lancenet-2022/lancenet-2022-10-04T14:50:55.675360-03:00.hyperlinks.json) |
 | [October 4 at 9:11 AM](https://archive.org/download/lancenet-2022/lancenet-2022-10-04T09:10:56.171286-03:00.hyperlinks.json) |
 | [October 4 at 3:12 AM](https://archive.org/download/lancenet-2022/lancenet-2022-10-04T03:12:16.585172-03:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 2 at 2:31 PM](https://archive.org/download/lancenet-2022/lancenet-2022-10-02T14:31:39.492960-03:00.hyperlinks.json) |
 | [October 2 at 8:59 AM](https://archive.org/download/lancenet-2022/lancenet-2022-10-02T08:58:53.521570-03:00.hyperlinks.json) |
 | [October 2 at 3:03 AM](https://archive.org/download/lancenet-2022/lancenet-2022-10-02T03:03:42.013503-03:00.hyperlinks.json) |
-| [October 1 at 2:34 PM](https://archive.org/download/lancenet-2022/lancenet-2022-10-01T14:33:54.889741-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 176 accessibility trees with the Internet Archive.
+The archiving routine has saved 177 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 5 at 2:50 AM](https://archive.org/download/lancenet-2022/lancenet-2022-10-05T02:50:26.785033-03:00.accessibility.json) |
 | [October 4 at 2:51 PM](https://archive.org/download/lancenet-2022/lancenet-2022-10-04T14:50:55.675360-03:00.accessibility.json) |
 | [October 4 at 9:11 AM](https://archive.org/download/lancenet-2022/lancenet-2022-10-04T09:10:56.171286-03:00.accessibility.json) |
 | [October 4 at 3:12 AM](https://archive.org/download/lancenet-2022/lancenet-2022-10-04T03:12:16.585172-03:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 2 at 2:31 PM](https://archive.org/download/lancenet-2022/lancenet-2022-10-02T14:31:39.492960-03:00.accessibility.json) |
 | [October 2 at 8:59 AM](https://archive.org/download/lancenet-2022/lancenet-2022-10-02T08:58:53.521570-03:00.accessibility.json) |
 | [October 2 at 3:03 AM](https://archive.org/download/lancenet-2022/lancenet-2022-10-02T03:03:42.013503-03:00.accessibility.json) |
-| [October 1 at 2:33 PM](https://archive.org/download/lancenet-2022/lancenet-2022-10-01T14:33:54.889741-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 176 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 177 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 5 at 2:50 AM](https://archive.org/download/lancenet-2022/lancenet-2022-10-05T02:50:26.785033-03:00.lighthouse.json) |
 | [October 4 at 2:51 PM](https://archive.org/download/lancenet-2022/lancenet-2022-10-04T14:50:55.675360-03:00.lighthouse.json) |
 | [October 4 at 9:11 AM](https://archive.org/download/lancenet-2022/lancenet-2022-10-04T09:10:56.171286-03:00.lighthouse.json) |
 | [October 4 at 3:12 AM](https://archive.org/download/lancenet-2022/lancenet-2022-10-04T03:12:16.585172-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 2 at 2:31 PM](https://archive.org/download/lancenet-2022/lancenet-2022-10-02T14:31:39.492960-03:00.lighthouse.json) |
 | [October 2 at 8:59 AM](https://archive.org/download/lancenet-2022/lancenet-2022-10-02T08:58:53.521570-03:00.lighthouse.json) |
 | [October 2 at 3:03 AM](https://archive.org/download/lancenet-2022/lancenet-2022-10-02T03:03:42.013503-03:00.lighthouse.json) |
-| [October 1 at 2:34 PM](https://archive.org/download/lancenet-2022/lancenet-2022-10-01T14:33:54.889741-03:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 138 screenshots with the Internet Archive.
+The archiving routine has saved 141 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-10-05T09:33:56.972944+02:00.jpg">
+  <img src="https://archive.org/download/zeitonline-2022/zeitonline-2022-10-05T09:33:56.972944+02:00.jpg"
+     alt="Zeit at 2022-10-05 09:34:03+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-10-05T09:33:56.972944+02:00.jpg">October 5 at 9:34 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-10-04T22:12:55.570769+02:00.jpg">
+  <img src="https://archive.org/download/zeitonline-2022/zeitonline-2022-10-04T22:12:55.570769+02:00.jpg"
+     alt="Zeit at 2022-10-04 22:12:59+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-10-04T22:12:55.570769+02:00.jpg">October 4 at 10:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-10-04T09:57:25.771436+02:00.jpg">
+  <img src="https://archive.org/download/zeitonline-2022/zeitonline-2022-10-04T09:57:25.771436+02:00.jpg"
+     alt="Zeit at 2022-10-04 09:57:27+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-10-04T09:57:25.771436+02:00.jpg">October 4 at 9:57 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-10-03T21:17:45.744135+02:00.jpg">
   <img src="https://archive.org/download/zeitonline-2022/zeitonline-2022-10-03T21:17:45.744135+02:00.jpg"
      alt="Zeit at 2022-10-03 21:17:51+02:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-09-29T21:05:02.408936+02:00.jpg">September 29 at 9:05 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-09-29T09:35:16.221432+02:00.jpg">
-  <img src="https://archive.org/download/zeitonline-2022/zeitonline-2022-09-29T09:35:16.221432+02:00.jpg"
-     alt="Zeit at 2022-09-29 09:35:17+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-09-29T09:35:16.221432+02:00.jpg">September 29 at 9:35 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-09-28T21:11:49.415042+02:00.jpg">
-  <img src="https://archive.org/download/zeitonline-2022/zeitonline-2022-09-28T21:11:49.415042+02:00.jpg"
-     alt="Zeit at 2022-09-28 21:11:54+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-09-28T21:11:49.415042+02:00.jpg">September 28 at 9:11 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-09-28T09:58:57.387862+02:00.jpg">
-  <img src="https://archive.org/download/zeitonline-2022/zeitonline-2022-09-28T09:58:57.387862+02:00.jpg"
-     alt="Zeit at 2022-09-28 09:59:06+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-09-28T09:58:57.387862+02:00.jpg">September 28 at 9:59 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 139 hyperlink lists with the Internet Archive.
+The archiving routine has saved 142 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 5 at 9:34 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-10-05T09:33:56.972944+02:00.hyperlinks.json) |
+| [October 4 at 10:13 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-10-04T22:12:55.570769+02:00.hyperlinks.json) |
+| [October 4 at 9:57 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-10-04T09:57:25.771436+02:00.hyperlinks.json) |
 | [October 3 at 9:17 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-10-03T21:17:45.744135+02:00.hyperlinks.json) |
 | [October 3 at 9:34 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-10-03T09:34:34.739778+02:00.hyperlinks.json) |
 | [October 2 at 9:41 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-10-02T21:41:44.392266+02:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 9:43 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-10-01T21:43:34.628471+02:00.hyperlinks.json) |
 | [October 1 at 9:53 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-10-01T09:52:50.156031+02:00.hyperlinks.json) |
 | [September 30 at 9:56 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-30T21:56:35.905576+02:00.hyperlinks.json) |
-| [September 30 at 10:16 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-30T10:16:08.267108+02:00.hyperlinks.json) |
-| [September 29 at 9:05 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-29T21:05:02.408936+02:00.hyperlinks.json) |
-| [September 29 at 9:35 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-29T09:35:16.221432+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 140 accessibility trees with the Internet Archive.
+The archiving routine has saved 143 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 5 at 9:34 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-10-05T09:33:56.972944+02:00.accessibility.json) |
+| [October 4 at 10:13 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-10-04T22:12:55.570769+02:00.accessibility.json) |
+| [October 4 at 9:57 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-10-04T09:57:25.771436+02:00.accessibility.json) |
 | [October 3 at 9:17 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-10-03T21:17:45.744135+02:00.accessibility.json) |
 | [October 3 at 9:34 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-10-03T09:34:34.739778+02:00.accessibility.json) |
 | [October 2 at 9:41 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-10-02T21:41:44.392266+02:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 9:43 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-10-01T21:43:34.628471+02:00.accessibility.json) |
 | [October 1 at 9:52 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-10-01T09:52:50.156031+02:00.accessibility.json) |
 | [September 30 at 9:56 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-30T21:56:35.905576+02:00.accessibility.json) |
-| [September 30 at 10:16 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-30T10:16:08.267108+02:00.accessibility.json) |
-| [September 29 at 9:05 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-29T21:05:02.408936+02:00.accessibility.json) |
-| [September 29 at 9:35 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-29T09:35:16.221432+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 138 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 141 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 5 at 9:34 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-10-05T09:33:56.972944+02:00.lighthouse.json) |
+| [October 4 at 10:13 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-10-04T22:12:55.570769+02:00.lighthouse.json) |
+| [October 4 at 9:57 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-10-04T09:57:25.771436+02:00.lighthouse.json) |
 | [October 3 at 9:17 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-10-03T21:17:45.744135+02:00.lighthouse.json) |
 | [October 3 at 9:34 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-10-03T09:34:34.739778+02:00.lighthouse.json) |
 | [October 2 at 9:42 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-10-02T21:41:44.392266+02:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 9:43 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-10-01T21:43:34.628471+02:00.lighthouse.json) |
 | [October 1 at 9:53 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-10-01T09:52:50.156031+02:00.lighthouse.json) |
 | [September 30 at 9:56 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-30T21:56:35.905576+02:00.lighthouse.json) |
-| [September 30 at 10:16 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-30T10:16:08.267108+02:00.lighthouse.json) |
-| [September 29 at 9:05 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-29T21:05:02.408936+02:00.lighthouse.json) |
-| [September 29 at 9:35 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-29T09:35:16.221432+02:00.lighthouse.json) |
 
 
 

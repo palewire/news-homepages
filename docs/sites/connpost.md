@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 43 screenshots with the Internet Archive.
+The archiving routine has saved 44 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 43 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/connpost-2022/connpost-2022-10-05T01:56:12.370893-04:00.jpg">
+  <img src="https://archive.org/download/connpost-2022/connpost-2022-10-05T01:56:12.370893-04:00.jpg"
+     alt="Connecticut Post at 2022-10-05 01:56:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/connpost-2022/connpost-2022-10-05T01:56:12.370893-04:00.jpg">October 5 at 1:56 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/connpost-2022/connpost-2022-10-04T13:55:01.107349-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/connpost-2022/connpost-2022-09-29T13:35:52.710895-04:00.jpg">September 29 at 1:35 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/connpost-2022/connpost-2022-09-29T02:07:49.571768-04:00.jpg">
-  <img src="https://archive.org/download/connpost-2022/connpost-2022-09-29T02:07:49.571768-04:00.jpg"
-     alt="Connecticut Post at 2022-09-29 02:07:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/connpost-2022/connpost-2022-09-29T02:07:49.571768-04:00.jpg">September 29 at 2:07 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 42 hyperlink lists with the Internet Archive.
+The archiving routine has saved 43 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 5 at 1:56 AM](https://archive.org/download/connpost-2022/connpost-2022-10-05T01:56:12.370893-04:00.hyperlinks.json) |
 | [October 4 at 1:55 PM](https://archive.org/download/connpost-2022/connpost-2022-10-04T13:55:01.107349-04:00.hyperlinks.json) |
 | [October 4 at 2:57 AM](https://archive.org/download/connpost-2022/connpost-2022-10-04T02:57:31.464790-04:00.hyperlinks.json) |
 | [October 3 at 1:53 PM](https://archive.org/download/connpost-2022/connpost-2022-10-03T13:53:26.606103-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 1:39 PM](https://archive.org/download/connpost-2022/connpost-2022-10-01T13:39:18.797775-04:00.hyperlinks.json) |
 | [October 1 at 3:41 AM](https://archive.org/download/connpost-2022/connpost-2022-10-01T03:40:59.321474-04:00.hyperlinks.json) |
 | [September 30 at 2:25 PM](https://archive.org/download/connpost-2022/connpost-2022-09-30T14:25:05.867986-04:00.hyperlinks.json) |
-| [September 30 at 2:31 AM](https://archive.org/download/connpost-2022/connpost-2022-09-30T02:31:14.447192-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 43 accessibility trees with the Internet Archive.
+The archiving routine has saved 44 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 5 at 1:56 AM](https://archive.org/download/connpost-2022/connpost-2022-10-05T01:56:12.370893-04:00.accessibility.json) |
 | [October 4 at 1:55 PM](https://archive.org/download/connpost-2022/connpost-2022-10-04T13:55:01.107349-04:00.accessibility.json) |
 | [October 4 at 2:57 AM](https://archive.org/download/connpost-2022/connpost-2022-10-04T02:57:31.464790-04:00.accessibility.json) |
 | [October 3 at 1:53 PM](https://archive.org/download/connpost-2022/connpost-2022-10-03T13:53:26.606103-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 1:39 PM](https://archive.org/download/connpost-2022/connpost-2022-10-01T13:39:18.797775-04:00.accessibility.json) |
 | [October 1 at 3:41 AM](https://archive.org/download/connpost-2022/connpost-2022-10-01T03:40:59.321474-04:00.accessibility.json) |
 | [September 30 at 2:25 PM](https://archive.org/download/connpost-2022/connpost-2022-09-30T14:25:05.867986-04:00.accessibility.json) |
-| [September 30 at 2:31 AM](https://archive.org/download/connpost-2022/connpost-2022-09-30T02:31:14.447192-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 5 at 1:56 AM](https://archive.org/download/connpost-2022/connpost-2022-10-05T01:56:12.370893-04:00.lighthouse.json) |
 | [October 4 at 1:55 PM](https://archive.org/download/connpost-2022/connpost-2022-10-04T13:55:01.107349-04:00.lighthouse.json) |
 | [October 4 at 2:57 AM](https://archive.org/download/connpost-2022/connpost-2022-10-04T02:57:31.464790-04:00.lighthouse.json) |
 | [October 3 at 1:53 PM](https://archive.org/download/connpost-2022/connpost-2022-10-03T13:53:26.606103-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 1:39 PM](https://archive.org/download/connpost-2022/connpost-2022-10-01T13:39:18.797775-04:00.lighthouse.json) |
 | [October 1 at 3:41 AM](https://archive.org/download/connpost-2022/connpost-2022-10-01T03:40:59.321474-04:00.lighthouse.json) |
 | [September 30 at 2:25 PM](https://archive.org/download/connpost-2022/connpost-2022-09-30T14:25:05.867986-04:00.lighthouse.json) |
-| [September 30 at 2:31 AM](https://archive.org/download/connpost-2022/connpost-2022-09-30T02:31:14.447192-04:00.lighthouse.json) |
 
 
 

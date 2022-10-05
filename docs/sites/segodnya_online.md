@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 163 screenshots with the Internet Archive.
+The archiving routine has saved 164 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 163 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-10-05T10:27:25.187908+03:00.jpg">
+  <img src="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-10-05T10:27:25.187908+03:00.jpg"
+     alt="Segodnya at 2022-10-05 10:27:27+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-10-05T10:27:25.187908+03:00.jpg">October 5 at 10:27 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-10-04T22:38:24.368322+03:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-29T22:34:30.677223+03:00.jpg">September 29 at 10:34 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-29T10:39:39.983535+03:00.jpg">
-  <img src="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-29T10:39:39.983535+03:00.jpg"
-     alt="Segodnya at 2022-09-29 10:39:41+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-29T10:39:39.983535+03:00.jpg">September 29 at 10:39 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 156 hyperlink lists with the Internet Archive.
+The archiving routine has saved 157 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 5 at 10:27 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-10-05T10:27:25.187908+03:00.hyperlinks.json) |
 | [October 4 at 10:38 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-10-04T22:38:24.368322+03:00.hyperlinks.json) |
 | [October 4 at 10:48 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-10-04T10:48:34.900151+03:00.hyperlinks.json) |
 | [October 3 at 10:23 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-10-03T22:23:31.662677+03:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 10:10 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-10-01T22:10:50.307119+03:00.hyperlinks.json) |
 | [October 1 at 11:01 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-10-01T11:00:53.479920+03:00.hyperlinks.json) |
 | [September 30 at 11:16 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-30T23:16:32.219830+03:00.hyperlinks.json) |
-| [September 30 at 11:07 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-30T11:07:22.172391+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 156 accessibility trees with the Internet Archive.
+The archiving routine has saved 157 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 5 at 10:27 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-10-05T10:27:25.187908+03:00.accessibility.json) |
 | [October 4 at 10:38 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-10-04T22:38:24.368322+03:00.accessibility.json) |
 | [October 4 at 10:48 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-10-04T10:48:34.900151+03:00.accessibility.json) |
 | [October 3 at 10:23 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-10-03T22:23:31.662677+03:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 10:10 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-10-01T22:10:50.307119+03:00.accessibility.json) |
 | [October 1 at 11:01 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-10-01T11:00:53.479920+03:00.accessibility.json) |
 | [September 30 at 11:16 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-30T23:16:32.219830+03:00.accessibility.json) |
-| [September 30 at 11:07 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-30T11:07:22.172391+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 145 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 146 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 5 at 10:27 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-10-05T10:27:25.187908+03:00.lighthouse.json) |
 | [October 4 at 10:38 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-10-04T22:38:24.368322+03:00.lighthouse.json) |
 | [October 4 at 10:48 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-10-04T10:48:34.900151+03:00.lighthouse.json) |
 | [October 3 at 10:23 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-10-03T22:23:31.662677+03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 10:10 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-10-01T22:10:50.307119+03:00.lighthouse.json) |
 | [October 1 at 11:01 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-10-01T11:00:53.479920+03:00.lighthouse.json) |
 | [September 30 at 11:16 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-30T23:16:32.219830+03:00.lighthouse.json) |
-| [September 30 at 11:07 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-30T11:07:22.172391+03:00.lighthouse.json) |
 
 
 

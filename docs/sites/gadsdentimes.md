@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-05T01:07:27.026211-05:00.jpg">
+  <img src="https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-05T01:07:27.026211-05:00.jpg"
+     alt="The Gadsden Times at 2022-10-05 01:07:28-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-05T01:07:27.026211-05:00.jpg">October 5 at 1:07 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-04T13:07:57.318309-05:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-09-29T12:47:56.330302-05:00.jpg">September 29 at 12:47 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-09-29T01:20:44.134586-05:00.jpg">
-  <img src="https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-09-29T01:20:44.134586-05:00.jpg"
-     alt="The Gadsden Times at 2022-09-29 01:20:46-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-09-29T01:20:44.134586-05:00.jpg">September 29 at 1:20 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 29 hyperlink lists with the Internet Archive.
+The archiving routine has saved 30 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 5 at 1:07 AM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-05T01:07:27.026211-05:00.hyperlinks.json) |
 | [October 4 at 1:08 PM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-04T13:07:57.318309-05:00.hyperlinks.json) |
 | [October 4 at 2:01 AM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-04T02:01:40.442223-05:00.hyperlinks.json) |
 | [October 3 at 1:04 PM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-03T13:03:50.670312-05:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 12:50 PM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-01T12:49:53.427922-05:00.hyperlinks.json) |
 | [October 1 at 2:45 AM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-01T02:45:49.332186-05:00.hyperlinks.json) |
 | [September 30 at 1:31 PM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-09-30T13:31:42.124082-05:00.hyperlinks.json) |
-| [September 30 at 1:36 AM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-09-30T01:36:34.185355-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 29 accessibility trees with the Internet Archive.
+The archiving routine has saved 30 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 5 at 1:07 AM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-05T01:07:27.026211-05:00.accessibility.json) |
 | [October 4 at 1:08 PM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-04T13:07:57.318309-05:00.accessibility.json) |
 | [October 4 at 2:01 AM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-04T02:01:40.442223-05:00.accessibility.json) |
 | [October 3 at 1:03 PM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-03T13:03:50.670312-05:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 12:49 PM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-01T12:49:53.427922-05:00.accessibility.json) |
 | [October 1 at 2:45 AM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-01T02:45:49.332186-05:00.accessibility.json) |
 | [September 30 at 1:31 PM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-09-30T13:31:42.124082-05:00.accessibility.json) |
-| [September 30 at 1:36 AM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-09-30T01:36:34.185355-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 5 at 1:07 AM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-05T01:07:27.026211-05:00.lighthouse.json) |
 | [October 4 at 1:08 PM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-04T13:07:57.318309-05:00.lighthouse.json) |
 | [October 4 at 2:01 AM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-04T02:01:40.442223-05:00.lighthouse.json) |
 | [October 3 at 1:04 PM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-03T13:03:50.670312-05:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 12:50 PM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-01T12:49:53.427922-05:00.lighthouse.json) |
 | [October 1 at 2:45 AM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-01T02:45:49.332186-05:00.lighthouse.json) |
 | [September 30 at 1:31 PM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-09-30T13:31:42.124082-05:00.lighthouse.json) |
-| [September 30 at 1:36 AM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-09-30T01:36:34.185355-05:00.lighthouse.json) |
 
 
 

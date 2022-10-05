@@ -234,13 +234,40 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 26 screenshots with the Internet Archive.
+The archiving routine has saved 29 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-05T03:31:10.073491-04:00.jpg">
+  <img src="https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-05T03:31:10.073491-04:00.jpg"
+     alt="Vineland Daily Journal at 2022-10-05 03:31:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-05T03:31:10.073491-04:00.jpg">October 5 at 3:31 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-04T16:06:22.576991-04:00.jpg">
+  <img src="https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-04T16:06:22.576991-04:00.jpg"
+     alt="Vineland Daily Journal at 2022-10-04 16:06:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-04T16:06:22.576991-04:00.jpg">October 4 at 4:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-04T03:51:46.193129-04:00.jpg">
+  <img src="https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-04T03:51:46.193129-04:00.jpg"
+     alt="Vineland Daily Journal at 2022-10-04 03:51:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-04T03:51:46.193129-04:00.jpg">October 4 at 3:51 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-03T15:10:34.914713-04:00.jpg">
@@ -323,38 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-09-29T14:59:05.623483-04:00.jpg">September 29 at 2:59 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-09-29T03:30:21.740352-04:00.jpg">
-  <img src="https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-09-29T03:30:21.740352-04:00.jpg"
-     alt="Vineland Daily Journal at 2022-09-29 03:30:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-09-29T03:30:21.740352-04:00.jpg">September 29 at 3:30 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-09-28T15:09:54.495735-04:00.jpg">
-  <img src="https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-09-28T15:09:54.495735-04:00.jpg"
-     alt="Vineland Daily Journal at 2022-09-28 15:09:56-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-09-28T15:09:54.495735-04:00.jpg">September 28 at 3:09 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-09-28T03:53:36.798998-04:00.jpg">
-  <img src="https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-09-28T03:53:36.798998-04:00.jpg"
-     alt="Vineland Daily Journal at 2022-09-28 03:53:38-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-09-28T03:53:36.798998-04:00.jpg">September 28 at 3:53 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 26 hyperlink lists with the Internet Archive.
+The archiving routine has saved 29 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 5 at 3:31 AM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-05T03:31:10.073491-04:00.hyperlinks.json) |
+| [October 4 at 4:06 PM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-04T16:06:22.576991-04:00.hyperlinks.json) |
+| [October 4 at 3:51 AM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-04T03:51:46.193129-04:00.hyperlinks.json) |
 | [October 3 at 3:10 PM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-03T15:10:34.914713-04:00.hyperlinks.json) |
 | [October 3 at 3:29 AM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-03T03:29:19.705141-04:00.hyperlinks.json) |
 | [October 2 at 3:36 PM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-02T15:36:22.139653-04:00.hyperlinks.json) |
@@ -369,14 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 3:38 PM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-01T15:38:44.887238-04:00.hyperlinks.json) |
 | [October 1 at 3:48 AM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-01T03:47:56.513910-04:00.hyperlinks.json) |
 | [September 30 at 3:52 PM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-09-30T15:52:26.615724-04:00.hyperlinks.json) |
-| [September 30 at 4:09 AM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-09-30T04:09:46.718143-04:00.hyperlinks.json) |
-| [September 29 at 2:59 PM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-09-29T14:59:05.623483-04:00.hyperlinks.json) |
-| [September 29 at 3:30 AM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-09-29T03:30:21.740352-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 27 accessibility trees with the Internet Archive.
+The archiving routine has saved 30 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 5 at 3:31 AM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-05T03:31:10.073491-04:00.accessibility.json) |
+| [October 4 at 4:06 PM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-04T16:06:22.576991-04:00.accessibility.json) |
+| [October 4 at 3:51 AM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-04T03:51:46.193129-04:00.accessibility.json) |
 | [October 3 at 3:10 PM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-03T15:10:34.914713-04:00.accessibility.json) |
 | [October 3 at 3:29 AM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-03T03:29:19.705141-04:00.accessibility.json) |
 | [October 2 at 3:36 PM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-02T15:36:22.139653-04:00.accessibility.json) |
@@ -391,15 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 3:38 PM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-01T15:38:44.887238-04:00.accessibility.json) |
 | [October 1 at 3:48 AM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-01T03:47:56.513910-04:00.accessibility.json) |
 | [September 30 at 3:52 PM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-09-30T15:52:26.615724-04:00.accessibility.json) |
-| [September 30 at 4:09 AM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-09-30T04:09:46.718143-04:00.accessibility.json) |
-| [September 29 at 2:59 PM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-09-29T14:59:05.623483-04:00.accessibility.json) |
-| [September 29 at 3:30 AM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-09-29T03:30:21.740352-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 5 at 3:31 AM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-05T03:31:10.073491-04:00.lighthouse.json) |
+| [October 4 at 4:06 PM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-04T16:06:22.576991-04:00.lighthouse.json) |
+| [October 4 at 3:51 AM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-04T03:51:46.193129-04:00.lighthouse.json) |
 | [October 3 at 3:10 PM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-03T15:10:34.914713-04:00.lighthouse.json) |
 | [October 3 at 3:29 AM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-03T03:29:19.705141-04:00.lighthouse.json) |
 | [October 2 at 3:36 PM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-02T15:36:22.139653-04:00.lighthouse.json) |
@@ -414,9 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 3:38 PM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-01T15:38:44.887238-04:00.lighthouse.json) |
 | [October 1 at 3:48 AM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-10-01T03:47:56.513910-04:00.lighthouse.json) |
 | [September 30 at 3:52 PM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-09-30T15:52:26.615724-04:00.lighthouse.json) |
-| [September 30 at 4:09 AM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-09-30T04:09:46.718143-04:00.lighthouse.json) |
-| [September 29 at 2:59 PM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-09-29T14:59:05.623483-04:00.lighthouse.json) |
-| [September 29 at 3:30 AM](https://archive.org/download/thedailyjournal-2022/thedailyjournal-2022-09-29T03:30:21.740352-04:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 197 screenshots with the Internet Archive.
+The archiving routine has saved 199 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/unichicago-2022/unichicago-2022-10-05T02:33:05.964274-05:00.jpg">
+  <img src="https://archive.org/download/unichicago-2022/unichicago-2022-10-05T02:33:05.964274-05:00.jpg"
+     alt="Univision Chicago at 2022-10-05 02:33:14-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/unichicago-2022/unichicago-2022-10-05T02:33:05.964274-05:00.jpg">October 5 at 2:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/unichicago-2022/unichicago-2022-10-04T15:09:55.426188-05:00.jpg">
+  <img src="https://archive.org/download/unichicago-2022/unichicago-2022-10-04T15:09:55.426188-05:00.jpg"
+     alt="Univision Chicago at 2022-10-04 15:10:04-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/unichicago-2022/unichicago-2022-10-04T15:09:55.426188-05:00.jpg">October 4 at 3:10 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/unichicago-2022/unichicago-2022-10-04T11:10:13.199590-05:00.jpg">
   <img src="https://archive.org/download/unichicago-2022/unichicago-2022-10-04T11:10:13.199590-05:00.jpg"
      alt="Univision Chicago at 2022-10-04 11:10:14-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/unichicago-2022/unichicago-2022-10-01T10:59:59.558856-05:00.jpg">October 1 at 11:00 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/unichicago-2022/unichicago-2022-10-01T02:51:08.385602-05:00.jpg">
-  <img src="https://archive.org/download/unichicago-2022/unichicago-2022-10-01T02:51:08.385602-05:00.jpg"
-     alt="Univision Chicago at 2022-10-01 02:51:13-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/unichicago-2022/unichicago-2022-10-01T02:51:08.385602-05:00.jpg">October 1 at 2:51 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/unichicago-2022/unichicago-2022-09-30T14:53:54.039821-05:00.jpg">
-  <img src="https://archive.org/download/unichicago-2022/unichicago-2022-09-30T14:53:54.039821-05:00.jpg"
-     alt="Univision Chicago at 2022-09-30 14:54:21-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/unichicago-2022/unichicago-2022-09-30T14:53:54.039821-05:00.jpg">September 30 at 2:54 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 183 hyperlink lists with the Internet Archive.
+The archiving routine has saved 185 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 5 at 2:33 AM](https://archive.org/download/unichicago-2022/unichicago-2022-10-05T02:33:05.964274-05:00.hyperlinks.json) |
+| [October 4 at 3:10 PM](https://archive.org/download/unichicago-2022/unichicago-2022-10-04T15:09:55.426188-05:00.hyperlinks.json) |
 | [October 4 at 11:10 AM](https://archive.org/download/unichicago-2022/unichicago-2022-10-04T11:10:13.199590-05:00.hyperlinks.json) |
 | [October 4 at 2:54 AM](https://archive.org/download/unichicago-2022/unichicago-2022-10-04T02:54:47.336622-05:00.hyperlinks.json) |
 | [October 3 at 2:15 PM](https://archive.org/download/unichicago-2022/unichicago-2022-10-03T14:15:00.015806-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 2 at 2:39 PM](https://archive.org/download/unichicago-2022/unichicago-2022-10-02T14:39:21.562035-05:00.hyperlinks.json) |
 | [October 2 at 11:09 AM](https://archive.org/download/unichicago-2022/unichicago-2022-10-02T11:08:35.887430-05:00.hyperlinks.json) |
 | [October 2 at 2:17 AM](https://archive.org/download/unichicago-2022/unichicago-2022-10-02T02:16:51.590803-05:00.hyperlinks.json) |
-| [October 1 at 2:38 PM](https://archive.org/download/unichicago-2022/unichicago-2022-10-01T14:38:52.013555-05:00.hyperlinks.json) |
-| [October 1 at 11:00 AM](https://archive.org/download/unichicago-2022/unichicago-2022-10-01T10:59:59.558856-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 190 accessibility trees with the Internet Archive.
+The archiving routine has saved 192 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 5 at 2:33 AM](https://archive.org/download/unichicago-2022/unichicago-2022-10-05T02:33:05.964274-05:00.accessibility.json) |
+| [October 4 at 3:10 PM](https://archive.org/download/unichicago-2022/unichicago-2022-10-04T15:09:55.426188-05:00.accessibility.json) |
 | [October 4 at 11:10 AM](https://archive.org/download/unichicago-2022/unichicago-2022-10-04T11:10:13.199590-05:00.accessibility.json) |
 | [October 4 at 2:54 AM](https://archive.org/download/unichicago-2022/unichicago-2022-10-04T02:54:47.336622-05:00.accessibility.json) |
 | [October 3 at 2:15 PM](https://archive.org/download/unichicago-2022/unichicago-2022-10-03T14:15:00.015806-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 2 at 2:39 PM](https://archive.org/download/unichicago-2022/unichicago-2022-10-02T14:39:21.562035-05:00.accessibility.json) |
 | [October 2 at 11:08 AM](https://archive.org/download/unichicago-2022/unichicago-2022-10-02T11:08:35.887430-05:00.accessibility.json) |
 | [October 2 at 2:17 AM](https://archive.org/download/unichicago-2022/unichicago-2022-10-02T02:16:51.590803-05:00.accessibility.json) |
-| [October 1 at 2:38 PM](https://archive.org/download/unichicago-2022/unichicago-2022-10-01T14:38:52.013555-05:00.accessibility.json) |
-| [October 1 at 11:00 AM](https://archive.org/download/unichicago-2022/unichicago-2022-10-01T10:59:59.558856-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 197 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 199 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 5 at 2:33 AM](https://archive.org/download/unichicago-2022/unichicago-2022-10-05T02:33:05.964274-05:00.lighthouse.json) |
+| [October 4 at 3:10 PM](https://archive.org/download/unichicago-2022/unichicago-2022-10-04T15:09:55.426188-05:00.lighthouse.json) |
 | [October 4 at 11:10 AM](https://archive.org/download/unichicago-2022/unichicago-2022-10-04T11:10:13.199590-05:00.lighthouse.json) |
 | [October 4 at 2:54 AM](https://archive.org/download/unichicago-2022/unichicago-2022-10-04T02:54:47.336622-05:00.lighthouse.json) |
 | [October 3 at 2:15 PM](https://archive.org/download/unichicago-2022/unichicago-2022-10-03T14:15:00.015806-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 2 at 2:39 PM](https://archive.org/download/unichicago-2022/unichicago-2022-10-02T14:39:21.562035-05:00.lighthouse.json) |
 | [October 2 at 11:09 AM](https://archive.org/download/unichicago-2022/unichicago-2022-10-02T11:08:35.887430-05:00.lighthouse.json) |
 | [October 2 at 2:17 AM](https://archive.org/download/unichicago-2022/unichicago-2022-10-02T02:16:51.590803-05:00.lighthouse.json) |
-| [October 1 at 2:38 PM](https://archive.org/download/unichicago-2022/unichicago-2022-10-01T14:38:52.013555-05:00.lighthouse.json) |
-| [October 1 at 11:00 AM](https://archive.org/download/unichicago-2022/unichicago-2022-10-01T10:59:59.558856-05:00.lighthouse.json) |
 
 
 

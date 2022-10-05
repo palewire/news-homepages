@@ -234,13 +234,40 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-05T00:32:12.773372-07:00.jpg">
+  <img src="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-05T00:32:12.773372-07:00.jpg"
+     alt="Visalia Times Delta at 2022-10-05 00:32:14-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-05T00:32:12.773372-07:00.jpg">October 5 at 12:32 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-04T13:09:53.836435-07:00.jpg">
+  <img src="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-04T13:09:53.836435-07:00.jpg"
+     alt="Visalia Times Delta at 2022-10-04 13:09:58-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-04T13:09:53.836435-07:00.jpg">October 4 at 1:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-04T00:56:20.948380-07:00.jpg">
+  <img src="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-04T00:56:20.948380-07:00.jpg"
+     alt="Visalia Times Delta at 2022-10-04 00:56:23-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-04T00:56:20.948380-07:00.jpg">October 4 at 12:56 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-03T12:15:02.147203-07:00.jpg">
@@ -323,38 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-09-29T12:02:26.338739-07:00.jpg">September 29 at 12:02 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-09-29T00:34:14.483466-07:00.jpg">
-  <img src="https://archive.org/download/vtdnews-2022/vtdnews-2022-09-29T00:34:14.483466-07:00.jpg"
-     alt="Visalia Times Delta at 2022-09-29 00:34:18-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-09-29T00:34:14.483466-07:00.jpg">September 29 at 12:34 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-09-28T12:09:25.972300-07:00.jpg">
-  <img src="https://archive.org/download/vtdnews-2022/vtdnews-2022-09-28T12:09:25.972300-07:00.jpg"
-     alt="Visalia Times Delta at 2022-09-28 12:09:27-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-09-28T12:09:25.972300-07:00.jpg">September 28 at 12:09 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-09-28T00:56:04.634494-07:00.jpg">
-  <img src="https://archive.org/download/vtdnews-2022/vtdnews-2022-09-28T00:56:04.634494-07:00.jpg"
-     alt="Visalia Times Delta at 2022-09-28 00:56:06-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-09-28T00:56:04.634494-07:00.jpg">September 28 at 12:56 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 27 hyperlink lists with the Internet Archive.
+The archiving routine has saved 30 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 5 at 12:32 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-05T00:32:12.773372-07:00.hyperlinks.json) |
+| [October 4 at 1:10 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-04T13:09:53.836435-07:00.hyperlinks.json) |
+| [October 4 at 12:56 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-04T00:56:20.948380-07:00.hyperlinks.json) |
 | [October 3 at 12:15 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-03T12:15:02.147203-07:00.hyperlinks.json) |
 | [October 3 at 12:32 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-03T00:32:34.367998-07:00.hyperlinks.json) |
 | [October 2 at 12:42 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-02T12:42:26.575702-07:00.hyperlinks.json) |
@@ -369,14 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 12:41 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-01T12:41:30.702984-07:00.hyperlinks.json) |
 | [October 1 at 12:53 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-01T00:53:09.119051-07:00.hyperlinks.json) |
 | [September 30 at 12:54 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-09-30T12:54:25.984541-07:00.hyperlinks.json) |
-| [September 30 at 1:12 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-09-30T01:12:36.098189-07:00.hyperlinks.json) |
-| [September 29 at 12:02 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-09-29T12:02:26.338739-07:00.hyperlinks.json) |
-| [September 29 at 12:34 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-09-29T00:34:14.483466-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 27 accessibility trees with the Internet Archive.
+The archiving routine has saved 30 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 5 at 12:32 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-05T00:32:12.773372-07:00.accessibility.json) |
+| [October 4 at 1:10 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-04T13:09:53.836435-07:00.accessibility.json) |
+| [October 4 at 12:56 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-04T00:56:20.948380-07:00.accessibility.json) |
 | [October 3 at 12:15 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-03T12:15:02.147203-07:00.accessibility.json) |
 | [October 3 at 12:32 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-03T00:32:34.367998-07:00.accessibility.json) |
 | [October 2 at 12:42 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-02T12:42:26.575702-07:00.accessibility.json) |
@@ -391,15 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 12:41 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-01T12:41:30.702984-07:00.accessibility.json) |
 | [October 1 at 12:53 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-01T00:53:09.119051-07:00.accessibility.json) |
 | [September 30 at 12:54 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-09-30T12:54:25.984541-07:00.accessibility.json) |
-| [September 30 at 1:12 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-09-30T01:12:36.098189-07:00.accessibility.json) |
-| [September 29 at 12:02 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-09-29T12:02:26.338739-07:00.accessibility.json) |
-| [September 29 at 12:34 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-09-29T00:34:14.483466-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 5 at 12:32 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-05T00:32:12.773372-07:00.lighthouse.json) |
+| [October 4 at 1:10 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-04T13:09:53.836435-07:00.lighthouse.json) |
+| [October 4 at 12:56 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-04T00:56:20.948380-07:00.lighthouse.json) |
 | [October 3 at 12:15 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-03T12:15:02.147203-07:00.lighthouse.json) |
 | [October 3 at 12:32 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-03T00:32:34.367998-07:00.lighthouse.json) |
 | [October 2 at 12:42 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-02T12:42:26.575702-07:00.lighthouse.json) |
@@ -414,9 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 12:41 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-01T12:41:30.702984-07:00.lighthouse.json) |
 | [October 1 at 12:53 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-01T00:53:09.119051-07:00.lighthouse.json) |
 | [September 30 at 12:54 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-09-30T12:54:25.984541-07:00.lighthouse.json) |
-| [September 30 at 1:12 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-09-30T01:12:36.098189-07:00.lighthouse.json) |
-| [September 29 at 12:02 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-09-29T12:02:26.338739-07:00.lighthouse.json) |
-| [September 29 at 12:34 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-09-29T00:34:14.483466-07:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 175 screenshots with the Internet Archive.
+The archiving routine has saved 176 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 175 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kcur-2022/kcur-2022-10-05T00:50:28.579510-05:00.jpg">
+  <img src="https://archive.org/download/kcur-2022/kcur-2022-10-05T00:50:28.579510-05:00.jpg"
+     alt="KCUR at 2022-10-05 00:50:34-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kcur-2022/kcur-2022-10-05T00:50:28.579510-05:00.jpg">October 5 at 12:50 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcur-2022/kcur-2022-10-04T12:49:35.378266-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kcur-2022/kcur-2022-09-29T12:32:18.592676-05:00.jpg">September 29 at 12:32 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kcur-2022/kcur-2022-09-29T01:03:45.302299-05:00.jpg">
-  <img src="https://archive.org/download/kcur-2022/kcur-2022-09-29T01:03:45.302299-05:00.jpg"
-     alt="KCUR at 2022-09-29 01:03:48-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kcur-2022/kcur-2022-09-29T01:03:45.302299-05:00.jpg">September 29 at 1:03 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 175 hyperlink lists with the Internet Archive.
+The archiving routine has saved 176 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 5 at 12:50 AM](https://archive.org/download/kcur-2022/kcur-2022-10-05T00:50:28.579510-05:00.hyperlinks.json) |
 | [October 4 at 12:49 PM](https://archive.org/download/kcur-2022/kcur-2022-10-04T12:49:35.378266-05:00.hyperlinks.json) |
 | [October 4 at 1:12 AM](https://archive.org/download/kcur-2022/kcur-2022-10-04T01:11:59.396736-05:00.hyperlinks.json) |
 | [October 3 at 12:46 PM](https://archive.org/download/kcur-2022/kcur-2022-10-03T12:46:02.340271-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 12:33 PM](https://archive.org/download/kcur-2022/kcur-2022-10-01T12:33:51.176647-05:00.hyperlinks.json) |
 | [October 1 at 1:16 AM](https://archive.org/download/kcur-2022/kcur-2022-10-01T01:16:00.835150-05:00.hyperlinks.json) |
 | [September 30 at 1:12 PM](https://archive.org/download/kcur-2022/kcur-2022-09-30T13:12:44.577375-05:00.hyperlinks.json) |
-| [September 30 at 1:22 AM](https://archive.org/download/kcur-2022/kcur-2022-09-30T01:22:27.104298-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 175 accessibility trees with the Internet Archive.
+The archiving routine has saved 176 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 5 at 12:50 AM](https://archive.org/download/kcur-2022/kcur-2022-10-05T00:50:28.579510-05:00.accessibility.json) |
 | [October 4 at 12:49 PM](https://archive.org/download/kcur-2022/kcur-2022-10-04T12:49:35.378266-05:00.accessibility.json) |
 | [October 4 at 1:12 AM](https://archive.org/download/kcur-2022/kcur-2022-10-04T01:11:59.396736-05:00.accessibility.json) |
 | [October 3 at 12:46 PM](https://archive.org/download/kcur-2022/kcur-2022-10-03T12:46:02.340271-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 12:33 PM](https://archive.org/download/kcur-2022/kcur-2022-10-01T12:33:51.176647-05:00.accessibility.json) |
 | [October 1 at 1:16 AM](https://archive.org/download/kcur-2022/kcur-2022-10-01T01:16:00.835150-05:00.accessibility.json) |
 | [September 30 at 1:12 PM](https://archive.org/download/kcur-2022/kcur-2022-09-30T13:12:44.577375-05:00.accessibility.json) |
-| [September 30 at 1:22 AM](https://archive.org/download/kcur-2022/kcur-2022-09-30T01:22:27.104298-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 144 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 145 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 5 at 12:50 AM](https://archive.org/download/kcur-2022/kcur-2022-10-05T00:50:28.579510-05:00.lighthouse.json) |
 | [October 4 at 12:49 PM](https://archive.org/download/kcur-2022/kcur-2022-10-04T12:49:35.378266-05:00.lighthouse.json) |
 | [October 4 at 1:12 AM](https://archive.org/download/kcur-2022/kcur-2022-10-04T01:11:59.396736-05:00.lighthouse.json) |
 | [October 3 at 12:46 PM](https://archive.org/download/kcur-2022/kcur-2022-10-03T12:46:02.340271-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 12:33 PM](https://archive.org/download/kcur-2022/kcur-2022-10-01T12:33:51.176647-05:00.lighthouse.json) |
 | [October 1 at 1:16 AM](https://archive.org/download/kcur-2022/kcur-2022-10-01T01:16:00.835150-05:00.lighthouse.json) |
 | [September 30 at 1:13 PM](https://archive.org/download/kcur-2022/kcur-2022-09-30T13:12:44.577375-05:00.lighthouse.json) |
-| [September 30 at 1:22 AM](https://archive.org/download/kcur-2022/kcur-2022-09-30T01:22:27.104298-05:00.lighthouse.json) |
 
 
 

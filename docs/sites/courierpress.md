@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/courierpress-2022/courierpress-2022-10-05T00:55:32.718637-05:00.jpg">
+  <img src="https://archive.org/download/courierpress-2022/courierpress-2022-10-05T00:55:32.718637-05:00.jpg"
+     alt="Evansville Courier & Press at 2022-10-05 00:55:35-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/courierpress-2022/courierpress-2022-10-05T00:55:32.718637-05:00.jpg">October 5 at 12:55 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/courierpress-2022/courierpress-2022-10-04T12:55:14.149441-05:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/courierpress-2022/courierpress-2022-09-29T12:36:10.611933-05:00.jpg">September 29 at 12:36 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/courierpress-2022/courierpress-2022-09-29T01:08:43.806339-05:00.jpg">
-  <img src="https://archive.org/download/courierpress-2022/courierpress-2022-09-29T01:08:43.806339-05:00.jpg"
-     alt="Evansville Courier & Press at 2022-09-29 01:08:50-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/courierpress-2022/courierpress-2022-09-29T01:08:43.806339-05:00.jpg">September 29 at 1:08 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 29 hyperlink lists with the Internet Archive.
+The archiving routine has saved 30 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 5 at 12:55 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-05T00:55:32.718637-05:00.hyperlinks.json) |
 | [October 4 at 12:55 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-04T12:55:14.149441-05:00.hyperlinks.json) |
 | [October 4 at 1:57 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-04T01:57:32.417520-05:00.hyperlinks.json) |
 | [October 3 at 12:53 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-03T12:53:17.725805-05:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 12:38 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-01T12:38:08.179369-05:00.hyperlinks.json) |
 | [October 1 at 2:40 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-01T02:40:24.812949-05:00.hyperlinks.json) |
 | [September 30 at 1:24 PM](https://archive.org/download/courierpress-2022/courierpress-2022-09-30T13:24:29.949397-05:00.hyperlinks.json) |
-| [September 30 at 1:30 AM](https://archive.org/download/courierpress-2022/courierpress-2022-09-30T01:30:53.090795-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 29 accessibility trees with the Internet Archive.
+The archiving routine has saved 30 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 5 at 12:55 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-05T00:55:32.718637-05:00.accessibility.json) |
 | [October 4 at 12:55 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-04T12:55:14.149441-05:00.accessibility.json) |
 | [October 4 at 1:57 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-04T01:57:32.417520-05:00.accessibility.json) |
 | [October 3 at 12:53 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-03T12:53:17.725805-05:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 12:38 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-01T12:38:08.179369-05:00.accessibility.json) |
 | [October 1 at 2:40 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-01T02:40:24.812949-05:00.accessibility.json) |
 | [September 30 at 1:24 PM](https://archive.org/download/courierpress-2022/courierpress-2022-09-30T13:24:29.949397-05:00.accessibility.json) |
-| [September 30 at 1:30 AM](https://archive.org/download/courierpress-2022/courierpress-2022-09-30T01:30:53.090795-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 5 at 12:55 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-05T00:55:32.718637-05:00.lighthouse.json) |
 | [October 4 at 12:55 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-04T12:55:14.149441-05:00.lighthouse.json) |
 | [October 4 at 1:57 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-04T01:57:32.417520-05:00.lighthouse.json) |
 | [October 3 at 12:53 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-03T12:53:17.725805-05:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 12:38 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-01T12:38:08.179369-05:00.lighthouse.json) |
 | [October 1 at 2:40 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-01T02:40:24.812949-05:00.lighthouse.json) |
 | [September 30 at 1:24 PM](https://archive.org/download/courierpress-2022/courierpress-2022-09-30T13:24:29.949397-05:00.lighthouse.json) |
-| [September 30 at 1:30 AM](https://archive.org/download/courierpress-2022/courierpress-2022-09-30T01:30:53.090795-05:00.lighthouse.json) |
 
 
 
