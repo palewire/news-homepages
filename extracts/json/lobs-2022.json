@@ -1,5 +1,5 @@
 {
-  "created": 1664954839,
+  "created": 1664958044,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/34/items/lobs-2022",
@@ -15990,31 +15990,82 @@
       "sha1": "fbc88194e9e0dd7ccf6855dd4c79ecd12072c65a"
     },
     {
+      "name": "lobs-2022-10-05T10:19:13.494390+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664957964",
+      "size": "100187",
+      "md5": "8911bbfd620b999d37969f77d9d61c89",
+      "crc32": "744405f2",
+      "sha1": "0d997a27549a1caef0c7f47be61ba08469b6dae7",
+      "format": "JSON"
+    },
+    {
+      "name": "lobs-2022-10-05T10:19:13.494390+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664957966",
+      "size": "88477",
+      "md5": "278c49e23bc3be0cff57d413652d4bc1",
+      "crc32": "ff1f4e09",
+      "sha1": "6ef3c2b9da953f3b673ad49d9c353c01f8327062",
+      "format": "JSON"
+    },
+    {
+      "name": "lobs-2022-10-05T10:19:13.494390+02:00.jpg",
+      "source": "original",
+      "mtime": "1664957961",
+      "size": "223007",
+      "md5": "ce330d76889cd4ee866ebd702d222a83",
+      "crc32": "986ccfef",
+      "sha1": "1dfb168db5d90f20eaa81a9c23d9ed4e1df55e07",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lobs-2022-10-05T10:19:13.494390+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664957967",
+      "size": "1477",
+      "md5": "812b4286446935da6a8a1435ce3583fb",
+      "crc32": "728d0ff2",
+      "sha1": "e9eabc2bbc1dc356efc326dae3b80d39d70058e4",
+      "format": "JSON"
+    },
+    {
+      "name": "lobs-2022-10-05T10:19:13.494390+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664957968",
+      "size": "233",
+      "md5": "76d997da4a9c6faae66aaf511842da2e",
+      "crc32": "38ffb0f4",
+      "sha1": "8fbf6c9f05fc4709c3a743b1b23de75dbbadd2ae",
+      "format": "JSON"
+    },
+    {
       "name": "lobs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9e81bace0589622e4b7eebcc1148e7ae48708e00",
-      "mtime": "1664949253",
-      "size": "319992",
-      "md5": "028da11f27839ae3cb73557627388920",
-      "crc32": "57d56453",
-      "sha1": "f4944756969cf0d8eaf46ef83626dae329bbef18",
+      "btih": "afd5b1db715779ad0e61e5e57800f88e6ef551a3",
+      "mtime": "1664958035",
+      "size": "321034",
+      "md5": "a78d1451355be7e05fecceaea9532def",
+      "crc32": "7888f269",
+      "sha1": "1e8725e66aef3bd57b4e4c47931d75cdc40df219",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lobs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "79d1441d70c7f1e527571288eca39756",
+      "md5": "a12d55607f480c6a69fa5defd48a235c",
       "summation": "md5"
     },
     {
       "name": "lobs-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664949076",
-      "size": "1908736",
-      "md5": "13d0c63ae8b5f5e9703ada70f1432ddf",
-      "crc32": "d90ff0fd",
-      "sha1": "3a5b0b2686e91b5049db68a93ad1ba549660ff35",
+      "mtime": "1664957976",
+      "size": "1916928",
+      "md5": "67408c9810988d0e3789104de001998e",
+      "crc32": "6112f404",
+      "sha1": "5958b4f152f4882a55b0f2e8881b1e3e755f2d42",
       "format": "Metadata"
     },
     {
@@ -16028,14 +16079,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1545,
-  "item_last_updated": 1664949253,
-  "item_size": 128408498,
-  "lobs-2022": {
-    "url": "https://www.nouvelobs.com/",
-    "job_id": "spn2-85da40cc17db357b85e873a6d1560caa5ee12e05",
-    "message": "The same snapshot had been made 34 minutes, 47 seconds ago. You can make new capture of this URL after 45 minutes."
-  },
+  "files_count": 1550,
+  "item_last_updated": 1664958035,
+  "item_size": 128831113,
   "metadata": {
     "identifier": "lobs-2022",
     "collection": [
@@ -16052,10 +16098,21 @@
     "publicdate": "2022-06-30 22:26:27",
     "addeddate": "2022-06-30 22:26:27"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 589051925,
+  "pending_tasks": true,
+  "server": "ia601500.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3429465999,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 53581336,
   "workable_servers": [
-    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }
