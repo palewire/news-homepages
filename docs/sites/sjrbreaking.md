@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-10-05T09:23:47.651944-05:00.jpg">
+  <img src="https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-10-05T09:23:47.651944-05:00.jpg"
+     alt="The State Journal-Register at 2022-10-05 09:23:48-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-10-05T09:23:47.651944-05:00.jpg">October 5 at 9:23 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-10-04T21:33:55.106195-05:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-09-29T21:43:09.451250-05:00.jpg">September 29 at 9:43 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-09-29T09:09:01.078910-05:00.jpg">
-  <img src="https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-09-29T09:09:01.078910-05:00.jpg"
-     alt="The State Journal-Register at 2022-09-29 09:09:02-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-09-29T09:09:01.078910-05:00.jpg">September 29 at 9:09 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 29 hyperlink lists with the Internet Archive.
+The archiving routine has saved 30 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 5 at 9:23 AM](https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-10-05T09:23:47.651944-05:00.hyperlinks.json) |
 | [October 4 at 9:34 PM](https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-10-04T21:33:55.106195-05:00.hyperlinks.json) |
 | [October 4 at 9:18 AM](https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-10-04T09:18:44.306764-05:00.hyperlinks.json) |
 | [October 3 at 9:32 PM](https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-10-03T21:32:01.407885-05:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 9:26 PM](https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-10-01T21:26:30.400046-05:00.hyperlinks.json) |
 | [October 1 at 9:13 AM](https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-10-01T09:13:10.704157-05:00.hyperlinks.json) |
 | [September 30 at 9:39 PM](https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-09-30T21:38:54.848670-05:00.hyperlinks.json) |
-| [September 30 at 9:21 AM](https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-09-30T09:21:36.120038-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 29 accessibility trees with the Internet Archive.
+The archiving routine has saved 30 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 5 at 9:23 AM](https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-10-05T09:23:47.651944-05:00.accessibility.json) |
 | [October 4 at 9:34 PM](https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-10-04T21:33:55.106195-05:00.accessibility.json) |
 | [October 4 at 9:18 AM](https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-10-04T09:18:44.306764-05:00.accessibility.json) |
 | [October 3 at 9:32 PM](https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-10-03T21:32:01.407885-05:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 9:26 PM](https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-10-01T21:26:30.400046-05:00.accessibility.json) |
 | [October 1 at 9:13 AM](https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-10-01T09:13:10.704157-05:00.accessibility.json) |
 | [September 30 at 9:38 PM](https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-09-30T21:38:54.848670-05:00.accessibility.json) |
-| [September 30 at 9:21 AM](https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-09-30T09:21:36.120038-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 5 at 9:23 AM](https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-10-05T09:23:47.651944-05:00.lighthouse.json) |
 | [October 4 at 9:34 PM](https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-10-04T21:33:55.106195-05:00.lighthouse.json) |
 | [October 4 at 9:18 AM](https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-10-04T09:18:44.306764-05:00.lighthouse.json) |
 | [October 3 at 9:32 PM](https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-10-03T21:32:01.407885-05:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 9:26 PM](https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-10-01T21:26:30.400046-05:00.lighthouse.json) |
 | [October 1 at 9:13 AM](https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-10-01T09:13:10.704157-05:00.lighthouse.json) |
 | [September 30 at 9:39 PM](https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-09-30T21:38:54.848670-05:00.lighthouse.json) |
-| [September 30 at 9:21 AM](https://archive.org/download/sjrbreaking-2022/sjrbreaking-2022-09-30T09:21:36.120038-05:00.lighthouse.json) |
 
 
 

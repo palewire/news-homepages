@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-10-05T10:17:30.351059-04:00.jpg">
+  <img src="https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-10-05T10:17:30.351059-04:00.jpg"
+     alt="Newark Advocate at 2022-10-05 10:17:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-10-05T10:17:30.351059-04:00.jpg">October 5 at 10:17 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-10-04T22:26:49.163688-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-09-29T22:36:58.490448-04:00.jpg">September 29 at 10:37 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-09-29T10:04:02.380682-04:00.jpg">
-  <img src="https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-09-29T10:04:02.380682-04:00.jpg"
-     alt="Newark Advocate at 2022-09-29 10:04:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-09-29T10:04:02.380682-04:00.jpg">September 29 at 10:04 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 28 hyperlink lists with the Internet Archive.
+The archiving routine has saved 29 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 5 at 10:17 AM](https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-10-05T10:17:30.351059-04:00.hyperlinks.json) |
 | [October 4 at 10:26 PM](https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-10-04T22:26:49.163688-04:00.hyperlinks.json) |
 | [October 4 at 10:13 AM](https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-10-04T10:13:06.660846-04:00.hyperlinks.json) |
 | [October 3 at 10:26 PM](https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-10-03T22:25:58.214975-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 10:21 PM](https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-10-01T22:20:51.934775-04:00.hyperlinks.json) |
 | [October 1 at 10:07 AM](https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-10-01T10:07:09.727409-04:00.hyperlinks.json) |
 | [September 30 at 10:32 PM](https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-09-30T22:32:46.130189-04:00.hyperlinks.json) |
-| [September 30 at 10:15 AM](https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-09-30T10:14:54.297510-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 29 accessibility trees with the Internet Archive.
+The archiving routine has saved 30 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 5 at 10:17 AM](https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-10-05T10:17:30.351059-04:00.accessibility.json) |
 | [October 4 at 10:26 PM](https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-10-04T22:26:49.163688-04:00.accessibility.json) |
 | [October 4 at 10:13 AM](https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-10-04T10:13:06.660846-04:00.accessibility.json) |
 | [October 3 at 10:26 PM](https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-10-03T22:25:58.214975-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 10:20 PM](https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-10-01T22:20:51.934775-04:00.accessibility.json) |
 | [October 1 at 10:07 AM](https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-10-01T10:07:09.727409-04:00.accessibility.json) |
 | [September 30 at 10:32 PM](https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-09-30T22:32:46.130189-04:00.accessibility.json) |
-| [September 30 at 10:14 AM](https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-09-30T10:14:54.297510-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 5 at 10:17 AM](https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-10-05T10:17:30.351059-04:00.lighthouse.json) |
 | [October 4 at 10:26 PM](https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-10-04T22:26:49.163688-04:00.lighthouse.json) |
 | [October 4 at 10:13 AM](https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-10-04T10:13:06.660846-04:00.lighthouse.json) |
 | [October 3 at 10:26 PM](https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-10-03T22:25:58.214975-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 10:21 PM](https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-10-01T22:20:51.934775-04:00.lighthouse.json) |
 | [October 1 at 10:07 AM](https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-10-01T10:07:09.727409-04:00.lighthouse.json) |
 | [September 30 at 10:32 PM](https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-09-30T22:32:46.130189-04:00.lighthouse.json) |
-| [September 30 at 10:15 AM](https://archive.org/download/newarkadvocate-2022/newarkadvocate-2022-09-30T10:14:54.297510-04:00.lighthouse.json) |
 
 
 
