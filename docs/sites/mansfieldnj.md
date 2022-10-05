@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-10-04T21:32:57.572553-04:00.jpg">
+  <img src="https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-10-04T21:32:57.572553-04:00.jpg"
+     alt="Mansfield News Journal at 2022-10-04 21:33:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-10-04T21:32:57.572553-04:00.jpg">October 4 at 9:33 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-10-04T09:04:29.079804-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-09-29T08:59:52.661492-04:00.jpg">September 29 at 8:59 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-09-28T21:24:28.013535-04:00.jpg">
-  <img src="https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-09-28T21:24:28.013535-04:00.jpg"
-     alt="Mansfield News Journal at 2022-09-28 21:24:31-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-09-28T21:24:28.013535-04:00.jpg">September 28 at 9:24 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 29 hyperlink lists with the Internet Archive.
+The archiving routine has saved 30 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 9:33 PM](https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-10-04T21:32:57.572553-04:00.hyperlinks.json) |
 | [October 4 at 9:04 AM](https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-10-04T09:04:29.079804-04:00.hyperlinks.json) |
 | [October 3 at 9:32 PM](https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-10-03T21:32:22.660234-04:00.hyperlinks.json) |
 | [October 3 at 9:00 AM](https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-10-03T08:59:54.004783-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 8:56 AM](https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-10-01T08:56:49.185534-04:00.hyperlinks.json) |
 | [September 30 at 9:37 PM](https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-09-30T21:37:19.897587-04:00.hyperlinks.json) |
 | [September 30 at 9:06 AM](https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-09-30T09:06:10.803472-04:00.hyperlinks.json) |
-| [September 29 at 9:40 PM](https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-09-29T21:40:44.909793-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 29 accessibility trees with the Internet Archive.
+The archiving routine has saved 30 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 9:33 PM](https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-10-04T21:32:57.572553-04:00.accessibility.json) |
 | [October 4 at 9:04 AM](https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-10-04T09:04:29.079804-04:00.accessibility.json) |
 | [October 3 at 9:32 PM](https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-10-03T21:32:22.660234-04:00.accessibility.json) |
 | [October 3 at 8:59 AM](https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-10-03T08:59:54.004783-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 8:56 AM](https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-10-01T08:56:49.185534-04:00.accessibility.json) |
 | [September 30 at 9:37 PM](https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-09-30T21:37:19.897587-04:00.accessibility.json) |
 | [September 30 at 9:06 AM](https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-09-30T09:06:10.803472-04:00.accessibility.json) |
-| [September 29 at 9:40 PM](https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-09-29T21:40:44.909793-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 9:33 PM](https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-10-04T21:32:57.572553-04:00.lighthouse.json) |
 | [October 4 at 9:04 AM](https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-10-04T09:04:29.079804-04:00.lighthouse.json) |
 | [October 3 at 9:32 PM](https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-10-03T21:32:22.660234-04:00.lighthouse.json) |
 | [October 3 at 9:00 AM](https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-10-03T08:59:54.004783-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 8:56 AM](https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-10-01T08:56:49.185534-04:00.lighthouse.json) |
 | [September 30 at 9:37 PM](https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-09-30T21:37:19.897587-04:00.lighthouse.json) |
 | [September 30 at 9:06 AM](https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-09-30T09:06:10.803472-04:00.lighthouse.json) |
-| [September 29 at 9:40 PM](https://archive.org/download/mansfieldnj-2022/mansfieldnj-2022-09-29T21:40:44.909793-04:00.lighthouse.json) |
 
 
 
