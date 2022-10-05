@@ -1,5 +1,5 @@
 {
-  "created": 1664871666,
+  "created": 1664928094,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/10/items/france24_en-2022",
@@ -21459,31 +21459,166 @@
       "format": "JSON"
     },
     {
+      "name": "france24_en-2022-10-04T10:19:19.568439+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "france24_en-2022-10-04T10:19:19.568439+02:00.jpg",
+      "mtime": "1664876787",
+      "size": "9682",
+      "md5": "381282c4e0545896977bd932437921fd",
+      "crc32": "55648f98",
+      "sha1": "a26814c6d490e119b51aaccb27b937bd0f4924c0"
+    },
+    {
+      "name": "france24_en-2022-10-04T14:08:28.617884+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664885312",
+      "size": "22264",
+      "md5": "bf100ea934f83f1a72267676ce1473e6",
+      "crc32": "b3e596c5",
+      "sha1": "bcabe6f5f7a34ae37c6df0a6f4fd53a205910008",
+      "format": "JSON"
+    },
+    {
+      "name": "france24_en-2022-10-04T14:08:28.617884+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664885315",
+      "size": "35656",
+      "md5": "fcfb0eaf46e4e7fad1ba0f80510e97ff",
+      "crc32": "d7c31eb0",
+      "sha1": "2e4c5f0131b9d10c34e4ff0a95f179e7eea4b31f",
+      "format": "JSON"
+    },
+    {
+      "name": "france24_en-2022-10-04T14:08:28.617884+02:00.jpg",
+      "source": "original",
+      "mtime": "1664885310",
+      "size": "248472",
+      "md5": "f6084aca49a1597a8fb6dfce14d87edb",
+      "crc32": "e8ebd777",
+      "sha1": "dacbd7d090c70dd910e557ad52d21bc96f7e0673",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "france24_en-2022-10-04T14:08:28.617884+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664885318",
+      "size": "1480",
+      "md5": "d5e7885b0c6d66ca14b0c58524f85984",
+      "crc32": "edff70f3",
+      "sha1": "66a31055aba0ef72d0255c593aa972cf8260066e",
+      "format": "JSON"
+    },
+    {
+      "name": "france24_en-2022-10-04T14:08:28.617884+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664885319",
+      "size": "235",
+      "md5": "e6f5a70202c12b6f3e8f3718d5a39f80",
+      "crc32": "285bdc9e",
+      "sha1": "9814b0a5009a9b1ce045a2baf46727da41985079",
+      "format": "JSON"
+    },
+    {
+      "name": "france24_en-2022-10-04T14:08:28.617884+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "france24_en-2022-10-04T14:08:28.617884+02:00.jpg",
+      "mtime": "1664885446",
+      "size": "9309",
+      "md5": "05086d50cfd6204d9e92e391428a5aed",
+      "crc32": "06261e32",
+      "sha1": "5692259186d310f2d3f7b5633b5b3509f75fb2e4"
+    },
+    {
+      "name": "france24_en-2022-10-05T01:58:43.481575+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664927927",
+      "size": "22706",
+      "md5": "d2787a65b4c71de775eb04c23edc4795",
+      "crc32": "a2f8dbd9",
+      "sha1": "44115ff73229853f7c6df456eb8b496908e03b2b",
+      "format": "JSON"
+    },
+    {
+      "name": "france24_en-2022-10-05T01:58:43.481575+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664927929",
+      "size": "36295",
+      "md5": "8871301a283bec027eea43627b2dbafd",
+      "crc32": "28ab570c",
+      "sha1": "9e1e184ed5d76d529ff067925da367d553f5efe6",
+      "format": "JSON"
+    },
+    {
+      "name": "france24_en-2022-10-05T01:58:43.481575+02:00.jpg",
+      "source": "original",
+      "mtime": "1664927925",
+      "size": "229420",
+      "md5": "6375c2846f46b7804aea8371cf42a354",
+      "crc32": "0688be18",
+      "sha1": "4b8578dcfd38d3e3d653007cafeb98c35a279c26",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "france24_en-2022-10-05T01:58:43.481575+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664927931",
+      "size": "1480",
+      "md5": "46d94ce4626a90a0f4ab3f997f20ea16",
+      "crc32": "d5bbef3d",
+      "sha1": "988eeca55bf148de1502263d9c0de00bc7552b19",
+      "format": "JSON"
+    },
+    {
+      "name": "france24_en-2022-10-05T01:58:43.481575+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664927933",
+      "size": "14099",
+      "md5": "7e14809db0638589efdd1535341caf62",
+      "crc32": "53ea3b90",
+      "sha1": "23d84366f780bb7c6c066198b7df1d62d9b20420",
+      "format": "JSON"
+    },
+    {
+      "name": "france24_en-2022-10-05T01:58:43.481575+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "france24_en-2022-10-05T01:58:43.481575+02:00.jpg",
+      "mtime": "1664928039",
+      "size": "9251",
+      "md5": "61d26e937c5190ab93e2970d3538a6bc",
+      "crc32": "eacc0824",
+      "sha1": "f6e42086fd58f31ebd6d5e0e581b20973ac4b65f"
+    },
+    {
       "name": "france24_en-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1f97fd76a8ec8f94e54e6ec5e52aa279d432f111",
-      "mtime": "1664871656",
-      "size": "440667",
-      "md5": "70105e7bdf7bfe8d9208951b5524290d",
-      "crc32": "3a857721",
-      "sha1": "a6db23cb30f17166fbd22115de4a1254626b38f8",
+      "btih": "15008abbe2df3cfd6c93aa9faeeccc85536c2454",
+      "mtime": "1664928076",
+      "size": "443422",
+      "md5": "a51558e56a2dc7302823b4f1688dfceb",
+      "crc32": "4f30c85f",
+      "sha1": "d6fa9c030ac03e41420d328ecccbc5968654cade",
       "format": "Archive BitTorrent"
     },
     {
       "name": "france24_en-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "49de0376e53ea0894d1b448b451f55f3",
+      "md5": "3cf0a2de0fd8c1733f563fb4f32f00ef",
       "summation": "md5"
     },
     {
       "name": "france24_en-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664871580",
-      "size": "2535424",
-      "md5": "c89ae972b7cd4e7acc9928e4d6cc6599",
-      "crc32": "25fa1d79",
-      "sha1": "80db23a8df8c7644bfb16c004410d1c877bf1555",
+      "mtime": "1664927938",
+      "size": "2547712",
+      "md5": "f5e2cdbec46876714338a4a31ecad57b",
+      "crc32": "dac5efbd",
+      "sha1": "1cd4cf9aed55554fd5c3d79b8ee798ad055b58ad",
       "format": "Metadata"
     },
     {
@@ -21497,9 +21632,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2066,
-  "item_last_updated": 1664871656,
-  "item_size": 132670775,
+  "files_count": 2079,
+  "item_last_updated": 1664928076,
+  "item_size": 133326167,
   "metadata": {
     "identifier": "france24_en-2022",
     "collection": [
@@ -21516,21 +21651,10 @@
     "publicdate": "2022-04-09 13:40:37",
     "addeddate": "2022-04-09 13:40:37"
   },
-  "pending_tasks": true,
   "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3428001288,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 827181760,
+  "uniq": 2084551760,
   "workable_servers": [
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }
