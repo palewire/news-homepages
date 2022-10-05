@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 187 screenshots with the Internet Archive.
+The archiving routine has saved 189 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-10-04T19:52:53.440296-04:00.jpg">
+  <img src="https://archive.org/download/defectormedia-2022/defectormedia-2022-10-04T19:52:53.440296-04:00.jpg"
+     alt="Defector at 2022-10-04 19:52:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-10-04T19:52:53.440296-04:00.jpg">October 4 at 7:52 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-10-04T08:05:06.966765-04:00.jpg">
+  <img src="https://archive.org/download/defectormedia-2022/defectormedia-2022-10-04T08:05:06.966765-04:00.jpg"
+     alt="Defector at 2022-10-04 08:05:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-10-04T08:05:06.966765-04:00.jpg">October 4 at 8:05 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-10-03T19:53:19.383459-04:00.jpg">
   <img src="https://archive.org/download/defectormedia-2022/defectormedia-2022-10-03T19:53:19.383459-04:00.jpg"
      alt="Defector at 2022-10-03 19:53:27-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-09-29T07:56:50.041468-04:00.jpg">September 29 at 7:56 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-09-28T19:45:37.194965-04:00.jpg">
-  <img src="https://archive.org/download/defectormedia-2022/defectormedia-2022-09-28T19:45:37.194965-04:00.jpg"
-     alt="Defector at 2022-09-28 19:45:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-09-28T19:45:37.194965-04:00.jpg">September 28 at 7:45 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-09-28T08:07:02.445128-04:00.jpg">
-  <img src="https://archive.org/download/defectormedia-2022/defectormedia-2022-09-28T08:07:02.445128-04:00.jpg"
-     alt="Defector at 2022-09-28 08:07:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/defectormedia-2022/defectormedia-2022-09-28T08:07:02.445128-04:00.jpg">September 28 at 8:07 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 187 hyperlink lists with the Internet Archive.
+The archiving routine has saved 189 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 7:52 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-10-04T19:52:53.440296-04:00.hyperlinks.json) |
+| [October 4 at 8:05 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-10-04T08:05:06.966765-04:00.hyperlinks.json) |
 | [October 3 at 7:53 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-10-03T19:53:19.383459-04:00.hyperlinks.json) |
 | [October 3 at 7:58 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-10-03T07:58:30.528269-04:00.hyperlinks.json) |
 | [October 2 at 7:57 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-10-02T19:57:40.732781-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 7:55 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-10-01T07:55:14.991282-04:00.hyperlinks.json) |
 | [September 30 at 7:49 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-09-30T19:49:19.899495-04:00.hyperlinks.json) |
 | [September 30 at 8:01 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-09-30T08:01:41.661835-04:00.hyperlinks.json) |
-| [September 29 at 7:55 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-09-29T19:55:49.839197-04:00.hyperlinks.json) |
-| [September 29 at 7:56 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-09-29T07:56:50.041468-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 187 accessibility trees with the Internet Archive.
+The archiving routine has saved 189 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 7:52 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-10-04T19:52:53.440296-04:00.accessibility.json) |
+| [October 4 at 8:05 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-10-04T08:05:06.966765-04:00.accessibility.json) |
 | [October 3 at 7:53 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-10-03T19:53:19.383459-04:00.accessibility.json) |
 | [October 3 at 7:58 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-10-03T07:58:30.528269-04:00.accessibility.json) |
 | [October 2 at 7:57 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-10-02T19:57:40.732781-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 7:55 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-10-01T07:55:14.991282-04:00.accessibility.json) |
 | [September 30 at 7:49 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-09-30T19:49:19.899495-04:00.accessibility.json) |
 | [September 30 at 8:01 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-09-30T08:01:41.661835-04:00.accessibility.json) |
-| [September 29 at 7:55 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-09-29T19:55:49.839197-04:00.accessibility.json) |
-| [September 29 at 7:56 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-09-29T07:56:50.041468-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 147 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 149 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 7:53 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-10-04T19:52:53.440296-04:00.lighthouse.json) |
+| [October 4 at 8:05 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-10-04T08:05:06.966765-04:00.lighthouse.json) |
 | [October 3 at 7:53 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-10-03T19:53:19.383459-04:00.lighthouse.json) |
 | [October 3 at 7:58 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-10-03T07:58:30.528269-04:00.lighthouse.json) |
 | [October 2 at 7:57 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-10-02T19:57:40.732781-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 7:55 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-10-01T07:55:14.991282-04:00.lighthouse.json) |
 | [September 30 at 7:49 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-09-30T19:49:19.899495-04:00.lighthouse.json) |
 | [September 30 at 8:01 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-09-30T08:01:41.661835-04:00.lighthouse.json) |
-| [September 29 at 7:55 PM](https://archive.org/download/defectormedia-2022/defectormedia-2022-09-29T19:55:49.839197-04:00.lighthouse.json) |
-| [September 29 at 7:56 AM](https://archive.org/download/defectormedia-2022/defectormedia-2022-09-29T07:56:50.041468-04:00.lighthouse.json) |
 
 
 

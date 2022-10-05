@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 242 screenshots with the Internet Archive.
+The archiving routine has saved 244 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/flintbeat-2022/flintbeat-2022-10-04T18:56:27.526530-05:00.jpg">
+  <img src="https://archive.org/download/flintbeat-2022/flintbeat-2022-10-04T18:56:27.526530-05:00.jpg"
+     alt="Flint Beat at 2022-10-04 18:56:32-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/flintbeat-2022/flintbeat-2022-10-04T18:56:27.526530-05:00.jpg">October 4 at 6:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/flintbeat-2022/flintbeat-2022-10-04T07:06:24.680638-05:00.jpg">
+  <img src="https://archive.org/download/flintbeat-2022/flintbeat-2022-10-04T07:06:24.680638-05:00.jpg"
+     alt="Flint Beat at 2022-10-04 07:06:26-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/flintbeat-2022/flintbeat-2022-10-04T07:06:24.680638-05:00.jpg">October 4 at 7:06 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/flintbeat-2022/flintbeat-2022-10-03T18:56:02.002082-05:00.jpg">
   <img src="https://archive.org/download/flintbeat-2022/flintbeat-2022-10-03T18:56:02.002082-05:00.jpg"
      alt="Flint Beat at 2022-10-03 18:56:07-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/flintbeat-2022/flintbeat-2022-09-29T06:58:26.515292-05:00.jpg">September 29 at 6:58 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/flintbeat-2022/flintbeat-2022-09-28T18:48:33.806090-05:00.jpg">
-  <img src="https://archive.org/download/flintbeat-2022/flintbeat-2022-09-28T18:48:33.806090-05:00.jpg"
-     alt="Flint Beat at 2022-09-28 18:48:41-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/flintbeat-2022/flintbeat-2022-09-28T18:48:33.806090-05:00.jpg">September 28 at 6:48 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/flintbeat-2022/flintbeat-2022-09-28T07:09:10.458617-05:00.jpg">
-  <img src="https://archive.org/download/flintbeat-2022/flintbeat-2022-09-28T07:09:10.458617-05:00.jpg"
-     alt="Flint Beat at 2022-09-28 07:09:12-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/flintbeat-2022/flintbeat-2022-09-28T07:09:10.458617-05:00.jpg">September 28 at 7:09 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 242 hyperlink lists with the Internet Archive.
+The archiving routine has saved 244 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 6:56 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-10-04T18:56:27.526530-05:00.hyperlinks.json) |
+| [October 4 at 7:06 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-10-04T07:06:24.680638-05:00.hyperlinks.json) |
 | [October 3 at 6:56 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-10-03T18:56:02.002082-05:00.hyperlinks.json) |
 | [October 3 at 7:01 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-10-03T07:01:42.805709-05:00.hyperlinks.json) |
 | [October 2 at 7:00 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-10-02T18:59:56.371182-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 6:57 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-10-01T06:57:37.674751-05:00.hyperlinks.json) |
 | [September 30 at 6:52 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-30T18:52:17.951498-05:00.hyperlinks.json) |
 | [September 30 at 7:04 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-30T07:04:34.664179-05:00.hyperlinks.json) |
-| [September 29 at 6:59 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-29T18:58:48.133496-05:00.hyperlinks.json) |
-| [September 29 at 6:58 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-29T06:58:26.515292-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 241 accessibility trees with the Internet Archive.
+The archiving routine has saved 243 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 6:56 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-10-04T18:56:27.526530-05:00.accessibility.json) |
+| [October 4 at 7:06 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-10-04T07:06:24.680638-05:00.accessibility.json) |
 | [October 3 at 6:56 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-10-03T18:56:02.002082-05:00.accessibility.json) |
 | [October 3 at 7:01 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-10-03T07:01:42.805709-05:00.accessibility.json) |
 | [October 2 at 7:00 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-10-02T18:59:56.371182-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 6:57 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-10-01T06:57:37.674751-05:00.accessibility.json) |
 | [September 30 at 6:52 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-30T18:52:17.951498-05:00.accessibility.json) |
 | [September 30 at 7:04 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-30T07:04:34.664179-05:00.accessibility.json) |
-| [September 29 at 6:59 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-29T18:58:48.133496-05:00.accessibility.json) |
-| [September 29 at 6:58 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-29T06:58:26.515292-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 146 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 148 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 6:56 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-10-04T18:56:27.526530-05:00.lighthouse.json) |
+| [October 4 at 7:06 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-10-04T07:06:24.680638-05:00.lighthouse.json) |
 | [October 3 at 6:56 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-10-03T18:56:02.002082-05:00.lighthouse.json) |
 | [October 3 at 7:01 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-10-03T07:01:42.805709-05:00.lighthouse.json) |
 | [October 2 at 7:00 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-10-02T18:59:56.371182-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 6:57 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-10-01T06:57:37.674751-05:00.lighthouse.json) |
 | [September 30 at 6:52 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-30T18:52:17.951498-05:00.lighthouse.json) |
 | [September 30 at 7:04 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-30T07:04:34.664179-05:00.lighthouse.json) |
-| [September 29 at 6:59 PM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-29T18:58:48.133496-05:00.lighthouse.json) |
-| [September 29 at 6:58 AM](https://archive.org/download/flintbeat-2022/flintbeat-2022-09-29T06:58:26.515292-05:00.lighthouse.json) |
 
 
 

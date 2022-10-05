@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 104 screenshots with the Internet Archive.
+The archiving routine has saved 106 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/denverchannel-2022/denverchannel-2022-10-04T17:54:15.208935-06:00.jpg">
+  <img src="https://archive.org/download/denverchannel-2022/denverchannel-2022-10-04T17:54:15.208935-06:00.jpg"
+     alt="Denver7 at 2022-10-04 17:54:19-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/denverchannel-2022/denverchannel-2022-10-04T17:54:15.208935-06:00.jpg">October 4 at 5:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/denverchannel-2022/denverchannel-2022-10-04T06:04:44.658285-06:00.jpg">
+  <img src="https://archive.org/download/denverchannel-2022/denverchannel-2022-10-04T06:04:44.658285-06:00.jpg"
+     alt="Denver7 at 2022-10-04 06:04:48-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/denverchannel-2022/denverchannel-2022-10-04T06:04:44.658285-06:00.jpg">October 4 at 6:04 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/denverchannel-2022/denverchannel-2022-10-03T17:53:37.007052-06:00.jpg">
   <img src="https://archive.org/download/denverchannel-2022/denverchannel-2022-10-03T17:53:37.007052-06:00.jpg"
      alt="Denver7 at 2022-10-03 17:53:40-06:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/denverchannel-2022/denverchannel-2022-09-29T05:56:05.700370-06:00.jpg">September 29 at 5:56 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/denverchannel-2022/denverchannel-2022-09-28T17:46:23.561249-06:00.jpg">
-  <img src="https://archive.org/download/denverchannel-2022/denverchannel-2022-09-28T17:46:23.561249-06:00.jpg"
-     alt="Denver7 at 2022-09-28 17:46:30-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/denverchannel-2022/denverchannel-2022-09-28T17:46:23.561249-06:00.jpg">September 28 at 5:46 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/denverchannel-2022/denverchannel-2022-09-28T06:06:36.716563-06:00.jpg">
-  <img src="https://archive.org/download/denverchannel-2022/denverchannel-2022-09-28T06:06:36.716563-06:00.jpg"
-     alt="Denver7 at 2022-09-28 06:06:39-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/denverchannel-2022/denverchannel-2022-09-28T06:06:36.716563-06:00.jpg">September 28 at 6:06 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 101 hyperlink lists with the Internet Archive.
+The archiving routine has saved 103 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 5:54 PM](https://archive.org/download/denverchannel-2022/denverchannel-2022-10-04T17:54:15.208935-06:00.hyperlinks.json) |
+| [October 4 at 6:04 AM](https://archive.org/download/denverchannel-2022/denverchannel-2022-10-04T06:04:44.658285-06:00.hyperlinks.json) |
 | [October 3 at 5:53 PM](https://archive.org/download/denverchannel-2022/denverchannel-2022-10-03T17:53:37.007052-06:00.hyperlinks.json) |
 | [October 3 at 5:59 AM](https://archive.org/download/denverchannel-2022/denverchannel-2022-10-03T05:59:17.069948-06:00.hyperlinks.json) |
 | [October 2 at 5:57 PM](https://archive.org/download/denverchannel-2022/denverchannel-2022-10-02T17:57:22.223560-06:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 5:55 AM](https://archive.org/download/denverchannel-2022/denverchannel-2022-10-01T05:55:08.947223-06:00.hyperlinks.json) |
 | [September 30 at 5:48 PM](https://archive.org/download/denverchannel-2022/denverchannel-2022-09-30T17:48:46.620054-06:00.hyperlinks.json) |
 | [September 30 at 6:02 AM](https://archive.org/download/denverchannel-2022/denverchannel-2022-09-30T06:02:25.126925-06:00.hyperlinks.json) |
-| [September 29 at 5:55 PM](https://archive.org/download/denverchannel-2022/denverchannel-2022-09-29T17:55:41.677004-06:00.hyperlinks.json) |
-| [September 29 at 5:56 AM](https://archive.org/download/denverchannel-2022/denverchannel-2022-09-29T05:56:05.700370-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 95 accessibility trees with the Internet Archive.
+The archiving routine has saved 97 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 5:54 PM](https://archive.org/download/denverchannel-2022/denverchannel-2022-10-04T17:54:15.208935-06:00.accessibility.json) |
+| [October 4 at 6:04 AM](https://archive.org/download/denverchannel-2022/denverchannel-2022-10-04T06:04:44.658285-06:00.accessibility.json) |
 | [October 3 at 5:53 PM](https://archive.org/download/denverchannel-2022/denverchannel-2022-10-03T17:53:37.007052-06:00.accessibility.json) |
 | [October 3 at 5:59 AM](https://archive.org/download/denverchannel-2022/denverchannel-2022-10-03T05:59:17.069948-06:00.accessibility.json) |
 | [October 2 at 5:57 PM](https://archive.org/download/denverchannel-2022/denverchannel-2022-10-02T17:57:22.223560-06:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 5:55 AM](https://archive.org/download/denverchannel-2022/denverchannel-2022-10-01T05:55:08.947223-06:00.accessibility.json) |
 | [September 30 at 5:48 PM](https://archive.org/download/denverchannel-2022/denverchannel-2022-09-30T17:48:46.620054-06:00.accessibility.json) |
 | [September 30 at 6:02 AM](https://archive.org/download/denverchannel-2022/denverchannel-2022-09-30T06:02:25.126925-06:00.accessibility.json) |
-| [September 29 at 5:55 PM](https://archive.org/download/denverchannel-2022/denverchannel-2022-09-29T17:55:41.677004-06:00.accessibility.json) |
-| [September 29 at 5:56 AM](https://archive.org/download/denverchannel-2022/denverchannel-2022-09-29T05:56:05.700370-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 105 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 107 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 5:54 PM](https://archive.org/download/denverchannel-2022/denverchannel-2022-10-04T17:54:15.208935-06:00.lighthouse.json) |
+| [October 4 at 6:04 AM](https://archive.org/download/denverchannel-2022/denverchannel-2022-10-04T06:04:44.658285-06:00.lighthouse.json) |
 | [October 3 at 5:53 PM](https://archive.org/download/denverchannel-2022/denverchannel-2022-10-03T17:53:37.007052-06:00.lighthouse.json) |
 | [October 3 at 5:59 AM](https://archive.org/download/denverchannel-2022/denverchannel-2022-10-03T05:59:17.069948-06:00.lighthouse.json) |
 | [October 2 at 5:57 PM](https://archive.org/download/denverchannel-2022/denverchannel-2022-10-02T17:57:22.223560-06:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 5:55 AM](https://archive.org/download/denverchannel-2022/denverchannel-2022-10-01T05:55:08.947223-06:00.lighthouse.json) |
 | [September 30 at 5:48 PM](https://archive.org/download/denverchannel-2022/denverchannel-2022-09-30T17:48:46.620054-06:00.lighthouse.json) |
 | [September 30 at 6:02 AM](https://archive.org/download/denverchannel-2022/denverchannel-2022-09-30T06:02:25.126925-06:00.lighthouse.json) |
-| [September 29 at 5:55 PM](https://archive.org/download/denverchannel-2022/denverchannel-2022-09-29T17:55:41.677004-06:00.lighthouse.json) |
-| [September 29 at 5:56 AM](https://archive.org/download/denverchannel-2022/denverchannel-2022-09-29T05:56:05.700370-06:00.lighthouse.json) |
 
 
 

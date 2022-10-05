@@ -234,13 +234,40 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hnnow-2022/hnnow-2022-10-04T19:58:36.104216-04:00.jpg">
+  <img src="https://archive.org/download/hnnow-2022/hnnow-2022-10-04T19:58:36.104216-04:00.jpg"
+     alt="The Fall River Herald News at 2022-10-04 19:58:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hnnow-2022/hnnow-2022-10-04T19:58:36.104216-04:00.jpg">October 4 at 7:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hnnow-2022/hnnow-2022-10-04T08:09:34.569830-04:00.jpg">
+  <img src="https://archive.org/download/hnnow-2022/hnnow-2022-10-04T08:09:34.569830-04:00.jpg"
+     alt="The Fall River Herald News at 2022-10-04 08:09:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hnnow-2022/hnnow-2022-10-04T08:09:34.569830-04:00.jpg">October 4 at 8:09 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hnnow-2022/hnnow-2022-10-03T19:59:24.788948-04:00.jpg">
+  <img src="https://archive.org/download/hnnow-2022/hnnow-2022-10-03T19:59:24.788948-04:00.jpg"
+     alt="The Fall River Herald News at 2022-10-03 19:59:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hnnow-2022/hnnow-2022-10-03T19:59:24.788948-04:00.jpg">October 3 at 7:59 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hnnow-2022/hnnow-2022-10-03T08:03:13.922690-04:00.jpg">
@@ -323,38 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-29T07:59:50.036031-04:00.jpg">September 29 at 7:59 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-28T19:49:39.314563-04:00.jpg">
-  <img src="https://archive.org/download/hnnow-2022/hnnow-2022-09-28T19:49:39.314563-04:00.jpg"
-     alt="The Fall River Herald News at 2022-09-28 19:49:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-28T19:49:39.314563-04:00.jpg">September 28 at 7:49 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-28T08:11:47.939637-04:00.jpg">
-  <img src="https://archive.org/download/hnnow-2022/hnnow-2022-09-28T08:11:47.939637-04:00.jpg"
-     alt="The Fall River Herald News at 2022-09-28 08:11:51-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-28T08:11:47.939637-04:00.jpg">September 28 at 8:11 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-27T19:54:58.044256-04:00.jpg">
-  <img src="https://archive.org/download/hnnow-2022/hnnow-2022-09-27T19:54:58.044256-04:00.jpg"
-     alt="The Fall River Herald News at 2022-09-27 19:55:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hnnow-2022/hnnow-2022-09-27T19:54:58.044256-04:00.jpg">September 27 at 7:55 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 27 hyperlink lists with the Internet Archive.
+The archiving routine has saved 30 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 7:58 PM](https://archive.org/download/hnnow-2022/hnnow-2022-10-04T19:58:36.104216-04:00.hyperlinks.json) |
+| [October 4 at 8:09 AM](https://archive.org/download/hnnow-2022/hnnow-2022-10-04T08:09:34.569830-04:00.hyperlinks.json) |
+| [October 3 at 7:59 PM](https://archive.org/download/hnnow-2022/hnnow-2022-10-03T19:59:24.788948-04:00.hyperlinks.json) |
 | [October 3 at 8:03 AM](https://archive.org/download/hnnow-2022/hnnow-2022-10-03T08:03:13.922690-04:00.hyperlinks.json) |
 | [October 2 at 8:03 PM](https://archive.org/download/hnnow-2022/hnnow-2022-10-02T20:03:19.910628-04:00.hyperlinks.json) |
 | [October 2 at 7:57 AM](https://archive.org/download/hnnow-2022/hnnow-2022-10-02T07:56:57.828361-04:00.hyperlinks.json) |
@@ -369,14 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 7:58 AM](https://archive.org/download/hnnow-2022/hnnow-2022-10-01T07:58:40.970734-04:00.hyperlinks.json) |
 | [September 30 at 7:54 PM](https://archive.org/download/hnnow-2022/hnnow-2022-09-30T19:54:09.893867-04:00.hyperlinks.json) |
 | [September 30 at 8:07 AM](https://archive.org/download/hnnow-2022/hnnow-2022-09-30T08:07:15.781195-04:00.hyperlinks.json) |
-| [September 29 at 8:01 PM](https://archive.org/download/hnnow-2022/hnnow-2022-09-29T20:01:52.879640-04:00.hyperlinks.json) |
-| [September 29 at 7:59 AM](https://archive.org/download/hnnow-2022/hnnow-2022-09-29T07:59:50.036031-04:00.hyperlinks.json) |
-| [September 28 at 7:49 PM](https://archive.org/download/hnnow-2022/hnnow-2022-09-28T19:49:39.314563-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 27 accessibility trees with the Internet Archive.
+The archiving routine has saved 30 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 7:58 PM](https://archive.org/download/hnnow-2022/hnnow-2022-10-04T19:58:36.104216-04:00.accessibility.json) |
+| [October 4 at 8:09 AM](https://archive.org/download/hnnow-2022/hnnow-2022-10-04T08:09:34.569830-04:00.accessibility.json) |
+| [October 3 at 7:59 PM](https://archive.org/download/hnnow-2022/hnnow-2022-10-03T19:59:24.788948-04:00.accessibility.json) |
 | [October 3 at 8:03 AM](https://archive.org/download/hnnow-2022/hnnow-2022-10-03T08:03:13.922690-04:00.accessibility.json) |
 | [October 2 at 8:03 PM](https://archive.org/download/hnnow-2022/hnnow-2022-10-02T20:03:19.910628-04:00.accessibility.json) |
 | [October 2 at 7:57 AM](https://archive.org/download/hnnow-2022/hnnow-2022-10-02T07:56:57.828361-04:00.accessibility.json) |
@@ -391,15 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 7:58 AM](https://archive.org/download/hnnow-2022/hnnow-2022-10-01T07:58:40.970734-04:00.accessibility.json) |
 | [September 30 at 7:54 PM](https://archive.org/download/hnnow-2022/hnnow-2022-09-30T19:54:09.893867-04:00.accessibility.json) |
 | [September 30 at 8:07 AM](https://archive.org/download/hnnow-2022/hnnow-2022-09-30T08:07:15.781195-04:00.accessibility.json) |
-| [September 29 at 8:01 PM](https://archive.org/download/hnnow-2022/hnnow-2022-09-29T20:01:52.879640-04:00.accessibility.json) |
-| [September 29 at 7:59 AM](https://archive.org/download/hnnow-2022/hnnow-2022-09-29T07:59:50.036031-04:00.accessibility.json) |
-| [September 28 at 7:49 PM](https://archive.org/download/hnnow-2022/hnnow-2022-09-28T19:49:39.314563-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 7:58 PM](https://archive.org/download/hnnow-2022/hnnow-2022-10-04T19:58:36.104216-04:00.lighthouse.json) |
+| [October 4 at 8:09 AM](https://archive.org/download/hnnow-2022/hnnow-2022-10-04T08:09:34.569830-04:00.lighthouse.json) |
+| [October 3 at 7:59 PM](https://archive.org/download/hnnow-2022/hnnow-2022-10-03T19:59:24.788948-04:00.lighthouse.json) |
 | [October 3 at 8:03 AM](https://archive.org/download/hnnow-2022/hnnow-2022-10-03T08:03:13.922690-04:00.lighthouse.json) |
 | [October 2 at 8:03 PM](https://archive.org/download/hnnow-2022/hnnow-2022-10-02T20:03:19.910628-04:00.lighthouse.json) |
 | [October 2 at 7:57 AM](https://archive.org/download/hnnow-2022/hnnow-2022-10-02T07:56:57.828361-04:00.lighthouse.json) |
@@ -414,9 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 7:58 AM](https://archive.org/download/hnnow-2022/hnnow-2022-10-01T07:58:40.970734-04:00.lighthouse.json) |
 | [September 30 at 7:54 PM](https://archive.org/download/hnnow-2022/hnnow-2022-09-30T19:54:09.893867-04:00.lighthouse.json) |
 | [September 30 at 8:07 AM](https://archive.org/download/hnnow-2022/hnnow-2022-09-30T08:07:15.781195-04:00.lighthouse.json) |
-| [September 29 at 8:01 PM](https://archive.org/download/hnnow-2022/hnnow-2022-09-29T20:01:52.879640-04:00.lighthouse.json) |
-| [September 29 at 7:59 AM](https://archive.org/download/hnnow-2022/hnnow-2022-09-29T07:59:50.036031-04:00.lighthouse.json) |
-| [September 28 at 7:49 PM](https://archive.org/download/hnnow-2022/hnnow-2022-09-28T19:49:39.314563-04:00.lighthouse.json) |
 
 
 

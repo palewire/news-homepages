@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 28 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-10-04T19:58:37.851215-04:00.jpg">
+  <img src="https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-10-04T19:58:37.851215-04:00.jpg"
+     alt="Herald-Mail Media at 2022-10-04 19:58:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-10-04T19:58:37.851215-04:00.jpg">October 4 at 7:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-10-04T08:09:14.729684-04:00.jpg">
+  <img src="https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-10-04T08:09:14.729684-04:00.jpg"
+     alt="Herald-Mail Media at 2022-10-04 08:09:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-10-04T08:09:14.729684-04:00.jpg">October 4 at 8:09 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-10-03T19:59:07.804997-04:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-09-29T08:00:34.897130-04:00.jpg">September 29 at 8:00 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-09-28T19:49:50.711544-04:00.jpg">
-  <img src="https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-09-28T19:49:50.711544-04:00.jpg"
-     alt="Herald-Mail Media at 2022-09-28 19:49:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-09-28T19:49:50.711544-04:00.jpg">September 28 at 7:49 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-09-28T08:11:38.162388-04:00.jpg">
-  <img src="https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-09-28T08:11:38.162388-04:00.jpg"
-     alt="Herald-Mail Media at 2022-09-28 08:11:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-09-28T08:11:38.162388-04:00.jpg">September 28 at 8:11 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 28 hyperlink lists with the Internet Archive.
+The archiving routine has saved 30 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 7:58 PM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-10-04T19:58:37.851215-04:00.hyperlinks.json) |
+| [October 4 at 8:09 AM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-10-04T08:09:14.729684-04:00.hyperlinks.json) |
 | [October 3 at 7:59 PM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-10-03T19:59:07.804997-04:00.hyperlinks.json) |
 | [October 3 at 8:03 AM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-10-03T08:03:31.937060-04:00.hyperlinks.json) |
 | [October 2 at 8:02 PM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-10-02T20:02:52.557529-04:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 7:58 AM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-10-01T07:58:43.316222-04:00.hyperlinks.json) |
 | [September 30 at 7:53 PM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-09-30T19:53:47.456830-04:00.hyperlinks.json) |
 | [September 30 at 8:06 AM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-09-30T08:06:29.241413-04:00.hyperlinks.json) |
-| [September 29 at 8:02 PM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-09-29T20:01:54.968369-04:00.hyperlinks.json) |
-| [September 29 at 8:00 AM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-09-29T08:00:34.897130-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 28 accessibility trees with the Internet Archive.
+The archiving routine has saved 30 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 7:58 PM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-10-04T19:58:37.851215-04:00.accessibility.json) |
+| [October 4 at 8:09 AM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-10-04T08:09:14.729684-04:00.accessibility.json) |
 | [October 3 at 7:59 PM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-10-03T19:59:07.804997-04:00.accessibility.json) |
 | [October 3 at 8:03 AM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-10-03T08:03:31.937060-04:00.accessibility.json) |
 | [October 2 at 8:02 PM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-10-02T20:02:52.557529-04:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 7:58 AM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-10-01T07:58:43.316222-04:00.accessibility.json) |
 | [September 30 at 7:53 PM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-09-30T19:53:47.456830-04:00.accessibility.json) |
 | [September 30 at 8:06 AM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-09-30T08:06:29.241413-04:00.accessibility.json) |
-| [September 29 at 8:02 PM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-09-29T20:01:54.968369-04:00.accessibility.json) |
-| [September 29 at 8:00 AM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-09-29T08:00:34.897130-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 7:58 PM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-10-04T19:58:37.851215-04:00.lighthouse.json) |
+| [October 4 at 8:09 AM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-10-04T08:09:14.729684-04:00.lighthouse.json) |
 | [October 3 at 7:59 PM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-10-03T19:59:07.804997-04:00.lighthouse.json) |
 | [October 3 at 8:03 AM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-10-03T08:03:31.937060-04:00.lighthouse.json) |
 | [October 2 at 8:03 PM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-10-02T20:02:52.557529-04:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 7:58 AM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-10-01T07:58:43.316222-04:00.lighthouse.json) |
 | [September 30 at 7:53 PM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-09-30T19:53:47.456830-04:00.lighthouse.json) |
 | [September 30 at 8:06 AM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-09-30T08:06:29.241413-04:00.lighthouse.json) |
-| [September 29 at 8:02 PM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-09-29T20:01:54.968369-04:00.lighthouse.json) |
-| [September 29 at 8:00 AM](https://archive.org/download/heraldmailnews-2022/heraldmailnews-2022-09-29T08:00:34.897130-04:00.lighthouse.json) |
 
 
 

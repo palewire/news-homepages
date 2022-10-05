@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 419 screenshots with the Internet Archive.
+The archiving routine has saved 421 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/france24-2022/france24-2022-10-05T01:59:04.649426+02:00.jpg">
+  <img src="https://archive.org/download/france24-2022/france24-2022-10-05T01:59:04.649426+02:00.jpg"
+     alt="FRANCE 24 at 2022-10-05 01:59:17+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-10-05T01:59:04.649426+02:00.jpg">October 5 at 1:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24-2022/france24-2022-10-04T14:08:38.744765+02:00.jpg">
+  <img src="https://archive.org/download/france24-2022/france24-2022-10-04T14:08:38.744765+02:00.jpg"
+     alt="FRANCE 24 at 2022-10-04 14:08:41+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-10-04T14:08:38.744765+02:00.jpg">October 4 at 2:08 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/france24-2022/france24-2022-10-04T10:19:29.088529+02:00.jpg">
   <img src="https://archive.org/download/france24-2022/france24-2022-10-04T10:19:29.088529+02:00.jpg"
      alt="FRANCE 24 at 2022-10-04 10:19:40+02:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/france24-2022/france24-2022-10-01T10:19:16.246123+02:00.jpg">October 1 at 10:19 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/france24-2022/france24-2022-10-01T01:54:23.825113+02:00.jpg">
-  <img src="https://archive.org/download/france24-2022/france24-2022-10-01T01:54:23.825113+02:00.jpg"
-     alt="FRANCE 24 at 2022-10-01 01:54:34+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/france24-2022/france24-2022-10-01T01:54:23.825113+02:00.jpg">October 1 at 1:54 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/france24-2022/france24-2022-09-30T14:04:07.418001+02:00.jpg">
-  <img src="https://archive.org/download/france24-2022/france24-2022-09-30T14:04:07.418001+02:00.jpg"
-     alt="FRANCE 24 at 2022-09-30 14:04:09+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/france24-2022/france24-2022-09-30T14:04:07.418001+02:00.jpg">September 30 at 2:04 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 419 hyperlink lists with the Internet Archive.
+The archiving routine has saved 421 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 5 at 1:59 AM](https://archive.org/download/france24-2022/france24-2022-10-05T01:59:04.649426+02:00.hyperlinks.json) |
+| [October 4 at 2:08 PM](https://archive.org/download/france24-2022/france24-2022-10-04T14:08:38.744765+02:00.hyperlinks.json) |
 | [October 4 at 10:19 AM](https://archive.org/download/france24-2022/france24-2022-10-04T10:19:29.088529+02:00.hyperlinks.json) |
 | [October 4 at 1:58 AM](https://archive.org/download/france24-2022/france24-2022-10-04T01:58:42.134559+02:00.hyperlinks.json) |
 | [October 3 at 2:01 PM](https://archive.org/download/france24-2022/france24-2022-10-03T14:01:43.949457+02:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 2 at 1:56 PM](https://archive.org/download/france24-2022/france24-2022-10-02T13:56:26.088863+02:00.hyperlinks.json) |
 | [October 2 at 10:16 AM](https://archive.org/download/france24-2022/france24-2022-10-02T10:15:52.904797+02:00.hyperlinks.json) |
 | [October 2 at 1:59 AM](https://archive.org/download/france24-2022/france24-2022-10-02T01:58:55.109087+02:00.hyperlinks.json) |
-| [October 1 at 1:58 PM](https://archive.org/download/france24-2022/france24-2022-10-01T13:57:59.941709+02:00.hyperlinks.json) |
-| [October 1 at 10:19 AM](https://archive.org/download/france24-2022/france24-2022-10-01T10:19:16.246123+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 419 accessibility trees with the Internet Archive.
+The archiving routine has saved 421 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 5 at 1:59 AM](https://archive.org/download/france24-2022/france24-2022-10-05T01:59:04.649426+02:00.accessibility.json) |
+| [October 4 at 2:08 PM](https://archive.org/download/france24-2022/france24-2022-10-04T14:08:38.744765+02:00.accessibility.json) |
 | [October 4 at 10:19 AM](https://archive.org/download/france24-2022/france24-2022-10-04T10:19:29.088529+02:00.accessibility.json) |
 | [October 4 at 1:58 AM](https://archive.org/download/france24-2022/france24-2022-10-04T01:58:42.134559+02:00.accessibility.json) |
 | [October 3 at 2:01 PM](https://archive.org/download/france24-2022/france24-2022-10-03T14:01:43.949457+02:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 2 at 1:56 PM](https://archive.org/download/france24-2022/france24-2022-10-02T13:56:26.088863+02:00.accessibility.json) |
 | [October 2 at 10:16 AM](https://archive.org/download/france24-2022/france24-2022-10-02T10:15:52.904797+02:00.accessibility.json) |
 | [October 2 at 1:59 AM](https://archive.org/download/france24-2022/france24-2022-10-02T01:58:55.109087+02:00.accessibility.json) |
-| [October 1 at 1:58 PM](https://archive.org/download/france24-2022/france24-2022-10-01T13:57:59.941709+02:00.accessibility.json) |
-| [October 1 at 10:19 AM](https://archive.org/download/france24-2022/france24-2022-10-01T10:19:16.246123+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 217 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 219 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 5 at 1:59 AM](https://archive.org/download/france24-2022/france24-2022-10-05T01:59:04.649426+02:00.lighthouse.json) |
+| [October 4 at 2:08 PM](https://archive.org/download/france24-2022/france24-2022-10-04T14:08:38.744765+02:00.lighthouse.json) |
 | [October 4 at 10:19 AM](https://archive.org/download/france24-2022/france24-2022-10-04T10:19:29.088529+02:00.lighthouse.json) |
 | [October 4 at 1:58 AM](https://archive.org/download/france24-2022/france24-2022-10-04T01:58:42.134559+02:00.lighthouse.json) |
 | [October 3 at 2:01 PM](https://archive.org/download/france24-2022/france24-2022-10-03T14:01:43.949457+02:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 2 at 1:56 PM](https://archive.org/download/france24-2022/france24-2022-10-02T13:56:26.088863+02:00.lighthouse.json) |
 | [October 2 at 10:16 AM](https://archive.org/download/france24-2022/france24-2022-10-02T10:15:52.904797+02:00.lighthouse.json) |
 | [October 2 at 1:59 AM](https://archive.org/download/france24-2022/france24-2022-10-02T01:58:55.109087+02:00.lighthouse.json) |
-| [October 1 at 1:58 PM](https://archive.org/download/france24-2022/france24-2022-10-01T13:57:59.941709+02:00.lighthouse.json) |
-| [October 1 at 10:19 AM](https://archive.org/download/france24-2022/france24-2022-10-01T10:19:16.246123+02:00.lighthouse.json) |
 
 
 

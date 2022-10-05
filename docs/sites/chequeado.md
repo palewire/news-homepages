@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 242 screenshots with the Internet Archive.
+The archiving routine has saved 244 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/chequeado-2022/chequeado-2022-10-04T20:53:02.565407-03:00.jpg">
+  <img src="https://archive.org/download/chequeado-2022/chequeado-2022-10-04T20:53:02.565407-03:00.jpg"
+     alt="Chequeado at 2022-10-04 20:53:09-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-10-04T20:53:02.565407-03:00.jpg">October 4 at 8:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chequeado-2022/chequeado-2022-10-04T09:02:10.814827-03:00.jpg">
+  <img src="https://archive.org/download/chequeado-2022/chequeado-2022-10-04T09:02:10.814827-03:00.jpg"
+     alt="Chequeado at 2022-10-04 09:02:17-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-10-04T09:02:10.814827-03:00.jpg">October 4 at 9:02 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/chequeado-2022/chequeado-2022-10-03T20:53:29.453764-03:00.jpg">
   <img src="https://archive.org/download/chequeado-2022/chequeado-2022-10-03T20:53:29.453764-03:00.jpg"
      alt="Chequeado at 2022-10-03 20:53:31-03:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-09-29T08:54:00.855402-03:00.jpg">September 29 at 8:54 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/chequeado-2022/chequeado-2022-09-28T20:45:41.674126-03:00.jpg">
-  <img src="https://archive.org/download/chequeado-2022/chequeado-2022-09-28T20:45:41.674126-03:00.jpg"
-     alt="Chequeado at 2022-09-28 20:45:48-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-09-28T20:45:41.674126-03:00.jpg">September 28 at 8:45 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/chequeado-2022/chequeado-2022-09-28T09:06:25.808343-03:00.jpg">
-  <img src="https://archive.org/download/chequeado-2022/chequeado-2022-09-28T09:06:25.808343-03:00.jpg"
-     alt="Chequeado at 2022-09-28 09:06:27-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-09-28T09:06:25.808343-03:00.jpg">September 28 at 9:06 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 236 hyperlink lists with the Internet Archive.
+The archiving routine has saved 238 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 8:53 PM](https://archive.org/download/chequeado-2022/chequeado-2022-10-04T20:53:02.565407-03:00.hyperlinks.json) |
+| [October 4 at 9:02 AM](https://archive.org/download/chequeado-2022/chequeado-2022-10-04T09:02:10.814827-03:00.hyperlinks.json) |
 | [October 3 at 8:53 PM](https://archive.org/download/chequeado-2022/chequeado-2022-10-03T20:53:29.453764-03:00.hyperlinks.json) |
 | [October 3 at 8:58 AM](https://archive.org/download/chequeado-2022/chequeado-2022-10-03T08:57:43.994056-03:00.hyperlinks.json) |
 | [October 2 at 8:57 PM](https://archive.org/download/chequeado-2022/chequeado-2022-10-02T20:57:38.509873-03:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 8:54 AM](https://archive.org/download/chequeado-2022/chequeado-2022-10-01T08:53:56.877058-03:00.hyperlinks.json) |
 | [September 30 at 8:48 PM](https://archive.org/download/chequeado-2022/chequeado-2022-09-30T20:48:36.531061-03:00.hyperlinks.json) |
 | [September 30 at 8:59 AM](https://archive.org/download/chequeado-2022/chequeado-2022-09-30T08:59:50.808576-03:00.hyperlinks.json) |
-| [September 29 at 8:56 PM](https://archive.org/download/chequeado-2022/chequeado-2022-09-29T20:56:15.489899-03:00.hyperlinks.json) |
-| [September 29 at 8:54 AM](https://archive.org/download/chequeado-2022/chequeado-2022-09-29T08:54:00.855402-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 243 accessibility trees with the Internet Archive.
+The archiving routine has saved 245 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 8:53 PM](https://archive.org/download/chequeado-2022/chequeado-2022-10-04T20:53:02.565407-03:00.accessibility.json) |
+| [October 4 at 9:02 AM](https://archive.org/download/chequeado-2022/chequeado-2022-10-04T09:02:10.814827-03:00.accessibility.json) |
 | [October 3 at 8:53 PM](https://archive.org/download/chequeado-2022/chequeado-2022-10-03T20:53:29.453764-03:00.accessibility.json) |
 | [October 3 at 8:58 AM](https://archive.org/download/chequeado-2022/chequeado-2022-10-03T08:57:43.994056-03:00.accessibility.json) |
 | [October 2 at 8:57 PM](https://archive.org/download/chequeado-2022/chequeado-2022-10-02T20:57:38.509873-03:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 8:54 AM](https://archive.org/download/chequeado-2022/chequeado-2022-10-01T08:53:56.877058-03:00.accessibility.json) |
 | [September 30 at 8:48 PM](https://archive.org/download/chequeado-2022/chequeado-2022-09-30T20:48:36.531061-03:00.accessibility.json) |
 | [September 30 at 8:59 AM](https://archive.org/download/chequeado-2022/chequeado-2022-09-30T08:59:50.808576-03:00.accessibility.json) |
-| [September 29 at 8:56 PM](https://archive.org/download/chequeado-2022/chequeado-2022-09-29T20:56:15.489899-03:00.accessibility.json) |
-| [September 29 at 8:54 AM](https://archive.org/download/chequeado-2022/chequeado-2022-09-29T08:54:00.855402-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 135 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 137 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 8:53 PM](https://archive.org/download/chequeado-2022/chequeado-2022-10-04T20:53:02.565407-03:00.lighthouse.json) |
+| [October 4 at 9:02 AM](https://archive.org/download/chequeado-2022/chequeado-2022-10-04T09:02:10.814827-03:00.lighthouse.json) |
 | [October 3 at 8:53 PM](https://archive.org/download/chequeado-2022/chequeado-2022-10-03T20:53:29.453764-03:00.lighthouse.json) |
 | [October 3 at 8:58 AM](https://archive.org/download/chequeado-2022/chequeado-2022-10-03T08:57:43.994056-03:00.lighthouse.json) |
 | [October 2 at 8:57 PM](https://archive.org/download/chequeado-2022/chequeado-2022-10-02T20:57:38.509873-03:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 8:54 AM](https://archive.org/download/chequeado-2022/chequeado-2022-10-01T08:53:56.877058-03:00.lighthouse.json) |
 | [September 30 at 8:48 PM](https://archive.org/download/chequeado-2022/chequeado-2022-09-30T20:48:36.531061-03:00.lighthouse.json) |
 | [September 30 at 8:59 AM](https://archive.org/download/chequeado-2022/chequeado-2022-09-30T08:59:50.808576-03:00.lighthouse.json) |
-| [September 29 at 8:56 PM](https://archive.org/download/chequeado-2022/chequeado-2022-09-29T20:56:15.489899-03:00.lighthouse.json) |
-| [September 29 at 8:54 AM](https://archive.org/download/chequeado-2022/chequeado-2022-09-29T08:54:00.855402-03:00.lighthouse.json) |
 
 
 
