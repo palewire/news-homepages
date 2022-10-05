@@ -1,5 +1,5 @@
 {
-  "created": 1664940984,
+  "created": 1664987823,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/29/items/theweek-2022",
@@ -5752,31 +5752,93 @@
       "sha1": "37e18ae836a0a92bf7a7a7fdd790720512c7c8a4"
     },
     {
+      "name": "theweek-2022-10-05T11:34:13.110870-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664984059",
+      "size": "30548",
+      "md5": "70b52e260a67bf30a9a4ebb1e9e3ebe3",
+      "crc32": "7a9d97a5",
+      "sha1": "4a997ed62fb832a7305fd7458f381015053434d0",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-05T11:34:13.110870-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664984060",
+      "size": "15191",
+      "md5": "897fe39afe50b71f7c584c9e071280e9",
+      "crc32": "f4660795",
+      "sha1": "7888f0f4244337582751b20d7bfc122136228282",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-05T11:34:13.110870-04:00.jpg",
+      "source": "original",
+      "mtime": "1664984057",
+      "size": "289135",
+      "md5": "5f6eef33a6521513b7964ddb57e46032",
+      "crc32": "4eef8cd5",
+      "sha1": "a33029948672b62923688eb534c8580f6798320a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theweek-2022-10-05T11:34:13.110870-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664984062",
+      "size": "1432",
+      "md5": "5c6533dc1209f7d818ac88761c5283c7",
+      "crc32": "6bfbf744",
+      "sha1": "5bb2584b05b0b3b1bcd5e1be2e21769277e8bfee",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-05T11:34:13.110870-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664984064",
+      "size": "200",
+      "md5": "3209518c3c6df5a1b61afff8f32f5e77",
+      "crc32": "1fd55c75",
+      "sha1": "adcba1711f3e15492348dfcc3b30d88c1b4aa0c9",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-05T11:34:13.110870-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theweek-2022-10-05T11:34:13.110870-04:00.jpg",
+      "mtime": "1664984145",
+      "size": "10447",
+      "md5": "8ab5485ffe23691066255f5d3294d685",
+      "crc32": "408d166b",
+      "sha1": "dfe3e728643890b25c46c2451bd3fdd996033f9f"
+    },
+    {
       "name": "theweek-2022_archive.torrent",
       "source": "metadata",
-      "btih": "afb5a11f0e98edf9feec17d5cf22ac2668888311",
-      "mtime": "1664940971",
-      "size": "117700",
-      "md5": "6e58989256b371a5d09894b3938fd0a1",
-      "crc32": "cc80fb67",
-      "sha1": "9edd41a9f2ec3872cd7319695b53308096d318db",
+      "btih": "514e522a2eb9a83f636fc0522f2bc6cfca44a465",
+      "mtime": "1664984154",
+      "size": "118960",
+      "md5": "e26c415c689eb905af0f64b7c8bd4657",
+      "crc32": "f9fc2834",
+      "sha1": "a80d2a928f19db4f9797a5d741a9b0748887b9d6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theweek-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "357c3ccdf6767357ec2746bfa64e6a70",
+      "md5": "92bccdbeadb6ceac3ab6e63df2a69a27",
       "summation": "md5"
     },
     {
       "name": "theweek-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664940902",
-      "size": "720896",
-      "md5": "ba12ef07c791f0c4e7a03b8c7f12c2aa",
-      "crc32": "24c6e5f4",
-      "sha1": "f7a8ee7427735bda496f6fdc0cd3181dcb36d0a8",
+      "mtime": "1664984069",
+      "size": "729088",
+      "md5": "243debb5fd6f1c00824aa6512539d2c9",
+      "crc32": "5c19eb9a",
+      "sha1": "2ca1c9d49039e37f38c768b4d999834120f40a5f",
       "format": "Metadata"
     },
     {
@@ -5790,9 +5852,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 560,
-  "item_last_updated": 1664940971,
-  "item_size": 34170434,
+  "files_count": 566,
+  "item_last_updated": 1664984154,
+  "item_size": 34526839,
   "metadata": {
     "identifier": "theweek-2022",
     "collection": [
@@ -5809,10 +5871,18 @@
     "publicdate": "2022-08-19 01:22:20",
     "addeddate": "2022-08-19 01:22:20"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 1255149219,
+  "server": "ia601404.us.archive.org",
+  "theweek-2022": {
+    "url": "https://theweek.com/",
+    "job_id": "spn2-ee8f04ac26bfb0f8b8461609dd1e821011171199",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "resources": [],
+    "message": "Job failed."
+  },
+  "uniq": 1494857353,
   "workable_servers": [
-    "ia801404.us.archive.org",
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

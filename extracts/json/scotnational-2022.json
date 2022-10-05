@@ -1,5 +1,5 @@
 {
-  "created": 1664961962,
+  "created": 1664987393,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/6/items/scotnational-2022",
@@ -13114,31 +13114,93 @@
       "sha1": "8a64d172c54d6a8b383ed20e9e78397597366fd1"
     },
     {
+      "name": "scotnational-2022-10-05T16:24:18.042646+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664983486",
+      "size": "31545",
+      "md5": "2cad918cc5cafa392609c86fb465aa68",
+      "crc32": "115136aa",
+      "sha1": "5d61f4bb61e56ea633c23ac39715269c07432077",
+      "format": "JSON"
+    },
+    {
+      "name": "scotnational-2022-10-05T16:24:18.042646+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664983488",
+      "size": "48226",
+      "md5": "ec2ab8cde5499bf64b0b6c38894901bf",
+      "crc32": "397af03c",
+      "sha1": "27de406438aa80986a2377930e75ecd2f4fd08dc",
+      "format": "JSON"
+    },
+    {
+      "name": "scotnational-2022-10-05T16:24:18.042646+01:00.jpg",
+      "source": "original",
+      "mtime": "1664983483",
+      "size": "254036",
+      "md5": "1679c0fdbb8ffb516245840e7673ccb7",
+      "crc32": "dd50d0b3",
+      "sha1": "32c13539c92fd1adcb3e35bc2faf0c1ffb4c04b1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "scotnational-2022-10-05T16:24:18.042646+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664983491",
+      "size": "1508",
+      "md5": "595730b17577e179a354f39c0c034757",
+      "crc32": "c7125437",
+      "sha1": "0365fc9984af2f0e896b6d6873f450c11de18c0c",
+      "format": "JSON"
+    },
+    {
+      "name": "scotnational-2022-10-05T16:24:18.042646+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1664983494",
+      "size": "209",
+      "md5": "8aae9a16ca43fc8aac52ec66b056cb61",
+      "crc32": "71f9f164",
+      "sha1": "8992dbdfaf9038db60e962c041368bc16ae7a3c3",
+      "format": "JSON"
+    },
+    {
+      "name": "scotnational-2022-10-05T16:24:18.042646+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "scotnational-2022-10-05T16:24:18.042646+01:00.jpg",
+      "mtime": "1664983618",
+      "size": "9437",
+      "md5": "cf8326acb9fe2c5384d1c34ab71658e4",
+      "crc32": "18cc0647",
+      "sha1": "c687baafcd7ff707c147ec1e47dffd5fbe2b3889"
+    },
+    {
       "name": "scotnational-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e56d32d22f94f219807c12b4a9255405996201b0",
-      "mtime": "1664961902",
-      "size": "272716",
-      "md5": "128ca60b4d538a83d5cf918e79b82cf0",
-      "crc32": "860f0fd2",
-      "sha1": "837fcbe7c664781d38b78934d3c2d0fbca1a908a",
+      "btih": "9aa30d127560f320b78b02362387aa2e31fee09e",
+      "mtime": "1664983636",
+      "size": "273985",
+      "md5": "63368926627cbe6abca6aa51e69aca8e",
+      "crc32": "91fb0509",
+      "sha1": "31fa77ec9fc24ad16d1a20cc6fbbd361cb1af6c1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scotnational-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "38879cabf62e677fde63783a4907066d",
+      "md5": "351381d9a9e09cbe526a4ccbd62f6174",
       "summation": "md5"
     },
     {
       "name": "scotnational-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664961802",
-      "size": "1597440",
-      "md5": "c9dfa0c777d339e8eca64c9bfc479ee0",
-      "crc32": "b6a14da3",
-      "sha1": "808d0665d703508a04615a3893f6a7712d4c90a2",
+      "mtime": "1664983505",
+      "size": "1605632",
+      "md5": "b8f65e3b01a424788b08fc8674ecd78d",
+      "crc32": "9dc72b7b",
+      "sha1": "bf08c65eee22ad43bcc462f9f58128b3ef60e97b",
       "format": "Metadata"
     },
     {
@@ -13152,9 +13214,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1269,
-  "item_last_updated": 1664961902,
-  "item_size": 92071016,
+  "files_count": 1275,
+  "item_last_updated": 1664983636,
+  "item_size": 92425438,
   "metadata": {
     "identifier": "scotnational-2022",
     "collection": [
@@ -13171,8 +13233,16 @@
     "publicdate": "2022-07-06 21:13:16",
     "addeddate": "2022-07-06 21:13:16"
   },
+  "scotnational-2022": {
+    "url": "https://www.thenational.scot/",
+    "job_id": "spn2-267b21366d830a694c211c2ca67c3672b346a472",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "message": "Job failed.",
+    "resources": []
+  },
   "server": "ia801502.us.archive.org",
-  "uniq": 1709285517,
+  "uniq": 1710112110,
   "workable_servers": [
     "ia801502.us.archive.org",
     "ia601502.us.archive.org"

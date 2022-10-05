@@ -1,5 +1,5 @@
 {
-  "created": 1664940956,
+  "created": 1664984221,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/29/items/tucsonsentinel-2022",
@@ -10056,31 +10056,93 @@
       "sha1": "f537414a69b990148a50b4878465bf7605044782"
     },
     {
+      "name": "tucsonsentinel-2022-10-05T08:34:50.747405-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664984099",
+      "size": "43605",
+      "md5": "0e9e98bae5651dd9a6e96b6d4270512a",
+      "crc32": "ef9a7333",
+      "sha1": "e22c367d4915c9a4af8d69553554e531a144f957",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonsentinel-2022-10-05T08:34:50.747405-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664984100",
+      "size": "40999",
+      "md5": "15ec9e77cb337dc42e3981a62958d548",
+      "crc32": "3c35048c",
+      "sha1": "15cdd9f74d4c06dcb7b94a60209867510b5100d0",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonsentinel-2022-10-05T08:34:50.747405-07:00.jpg",
+      "source": "original",
+      "mtime": "1664984096",
+      "size": "317836",
+      "md5": "ee90b2bd1cf34f2074783af6df6d1530",
+      "crc32": "05d2006e",
+      "sha1": "025c2cc0a36ad2aadc13a85b9593d7aec74cf212",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tucsonsentinel-2022-10-05T08:34:50.747405-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664984103",
+      "size": "1531",
+      "md5": "9e460e3a5d1fe71bc04d8ca5d67047f0",
+      "crc32": "3002f3bf",
+      "sha1": "565f1ea0f537c4639394938fb4d3e03a99402789",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonsentinel-2022-10-05T08:34:50.747405-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664984105",
+      "size": "27982",
+      "md5": "76f591cbd79ece92e630ab74066cf2ea",
+      "crc32": "832021e4",
+      "sha1": "e50e6db601abe9fb475866b24186463e6c4ca37d",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonsentinel-2022-10-05T08:34:50.747405-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tucsonsentinel-2022-10-05T08:34:50.747405-07:00.jpg",
+      "mtime": "1664984181",
+      "size": "9425",
+      "md5": "94cc90228873b276e11da031993d48d3",
+      "crc32": "1ab9ec12",
+      "sha1": "b90f192721432b97213ce8a3c920aeafbef95b1c"
+    },
+    {
       "name": "tucsonsentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c19c47f4da4b34f9b866ea4c21d078d6900da23e",
-      "mtime": "1664940940",
-      "size": "211930",
-      "md5": "3d94e1f0f1567152b60d0c33df077500",
-      "crc32": "5a7282b5",
-      "sha1": "f479264884c885bf5d42db318f551cd90b59883c",
+      "btih": "7982bc0372c329c668d646191aa36c5af1e8b12f",
+      "mtime": "1664984207",
+      "size": "213233",
+      "md5": "8ec8e45286e9f73c16fbe40c622e4e55",
+      "crc32": "de9307e0",
+      "sha1": "415a137343bc72fbe1359fd46d4be117abf8020c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tucsonsentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "22da1377348d310b13b82ee567b4db88",
+      "md5": "6af88429367735a35266135f8b2690b6",
       "summation": "md5"
     },
     {
       "name": "tucsonsentinel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664940870",
-      "size": "1236992",
-      "md5": "13298c2c99b7204c72c7c825176ae899",
-      "crc32": "a7b4e2e4",
-      "sha1": "21567c459e776e24349d73caa2402d604cf5ea7f",
+      "mtime": "1664984109",
+      "size": "1245184",
+      "md5": "33e0b25b05bb8879ca8a5cb790012e9c",
+      "crc32": "5d835e15",
+      "sha1": "4fb1962359befe2476dd06bba0d779ae08bbc007",
       "format": "Metadata"
     },
     {
@@ -10094,9 +10156,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 974,
-  "item_last_updated": 1664940940,
-  "item_size": 81219461,
+  "files_count": 980,
+  "item_last_updated": 1664984207,
+  "item_size": 81670334,
   "metadata": {
     "identifier": "tucsonsentinel-2022",
     "collection": [
@@ -10113,10 +10175,10 @@
     "publicdate": "2022-07-09 04:04:28",
     "addeddate": "2022-07-09 04:04:28"
   },
-  "server": "ia802508.us.archive.org",
-  "uniq": 1350129877,
+  "server": "ia902508.us.archive.org",
+  "uniq": 653474331,
   "workable_servers": [
-    "ia802508.us.archive.org",
-    "ia902508.us.archive.org"
+    "ia902508.us.archive.org",
+    "ia802508.us.archive.org"
   ]
 }
