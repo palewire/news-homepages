@@ -1,5 +1,5 @@
 {
-  "created": 1664906386,
+  "created": 1664949274,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/10/items/milforddaily-2022",
@@ -1814,31 +1814,93 @@
       "sha1": "99101d1963ce30fb25a290c3df8f79e792109601"
     },
     {
+      "name": "milforddaily-2022-10-05T01:52:54.129382-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664949180",
+      "size": "25992",
+      "md5": "955718a0dbaaa780446f0d0d5e6e8b19",
+      "crc32": "a10e45f0",
+      "sha1": "d1733ad3f2b321552e8b63a41020852e5f961392",
+      "format": "JSON"
+    },
+    {
+      "name": "milforddaily-2022-10-05T01:52:54.129382-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664949182",
+      "size": "43516",
+      "md5": "076df55312f328fa4140a141b244cf93",
+      "crc32": "5b60cf0a",
+      "sha1": "12c1deefc9afafa4ac0427cc475ece7524cf1a81",
+      "format": "JSON"
+    },
+    {
+      "name": "milforddaily-2022-10-05T01:52:54.129382-04:00.jpg",
+      "source": "original",
+      "mtime": "1664949179",
+      "size": "257824",
+      "md5": "5ac3d8873e1bffc14b3467c799f5688d",
+      "crc32": "0aa7ee63",
+      "sha1": "91c7fb88726034b21f3a743c280ddf745d18ee3a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "milforddaily-2022-10-05T01:52:54.129382-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664949184",
+      "size": "1549",
+      "md5": "acd949591628270a11e94c5a35a8b0cf",
+      "crc32": "75b33751",
+      "sha1": "4c613987e53b6b8840b56e4416b836535e50c61b",
+      "format": "JSON"
+    },
+    {
+      "name": "milforddaily-2022-10-05T01:52:54.129382-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664949185",
+      "size": "128566",
+      "md5": "bcf69a39d3889ed14d1bb14bc9f39fef",
+      "crc32": "45051f64",
+      "sha1": "e2024354a4cea555d54ecdc93262bbf7e2aaf07c",
+      "format": "JSON"
+    },
+    {
+      "name": "milforddaily-2022-10-05T01:52:54.129382-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "milforddaily-2022-10-05T01:52:54.129382-04:00.jpg",
+      "mtime": "1664949246",
+      "size": "9349",
+      "md5": "5353739256bea0cfc155dbf61dc7aa49",
+      "crc32": "fd091522",
+      "sha1": "cd22ba24b45f676e6f73015d12f30c9d069b336e"
+    },
+    {
       "name": "milforddaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8c51ac1978c58f3d0b71a1168877a825fe15fdec",
-      "mtime": "1664906318",
-      "size": "39035",
-      "md5": "d3caf0200c16adb5bb60f2684e060fd3",
-      "crc32": "f5f0c037",
-      "sha1": "f9b1afc899b1d602515babfded2f93ed80c9937f",
+      "btih": "005fb6062969c090938c9154943fd35c303469ac",
+      "mtime": "1664949254",
+      "size": "40327",
+      "md5": "955ea8b78bf1d5e81f78f1bdbb4993c3",
+      "crc32": "a8e62ed0",
+      "sha1": "bdb50cccc56ddc6dd9a94c57d556efe4b945706a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "milforddaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "af7cc2d8058f7ba469a934d4870e6d1d",
+      "md5": "e3508c16b4e9b3d86851e114e711c248",
       "summation": "md5"
     },
     {
       "name": "milforddaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664906017",
-      "size": "245760",
-      "md5": "210f0dd1d277aa790afd4016d57d379e",
-      "crc32": "3b22fe44",
-      "sha1": "3c86acfee068b0e4fb0d24fb98187cd68040083e",
+      "mtime": "1664949193",
+      "size": "249856",
+      "md5": "b6f9a82f789c8e1298aa5a3aeda7fefb",
+      "crc32": "39e70f2e",
+      "sha1": "e0f065e946bccbf39a201f68e850c1e5860439bc",
       "format": "Metadata"
     },
     {
@@ -1852,9 +1914,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 179,
-  "item_last_updated": 1664906318,
-  "item_size": 13555757,
+  "files_count": 185,
+  "item_last_updated": 1664949254,
+  "item_size": 14027941,
   "metadata": {
     "identifier": "milforddaily-2022",
     "collection": [
@@ -1871,10 +1933,10 @@
     "publicdate": "2022-09-20 17:36:01",
     "addeddate": "2022-09-20 17:36:01"
   },
-  "server": "ia601407.us.archive.org",
-  "uniq": 164679904,
+  "server": "ia801407.us.archive.org",
+  "uniq": 1477127236,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia801407.us.archive.org",
+    "ia601407.us.archive.org"
   ]
 }

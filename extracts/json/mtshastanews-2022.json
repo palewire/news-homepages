@@ -1,5 +1,5 @@
 {
-  "created": 1664906329,
+  "created": 1664954882,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/29/items/mtshastanews-2022",
@@ -1794,31 +1794,93 @@
       "sha1": "bb4c218a75feaf0bf26076ff29d4ccf6776af2c6"
     },
     {
+      "name": "mtshastanews-2022-10-04T22:53:14.531552-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664949197",
+      "size": "24281",
+      "md5": "02952723aed5ee3d71ba62aaffc5f374",
+      "crc32": "7da31217",
+      "sha1": "7d9907e55df293a4c7ce902fcce73f9b0450a8ce",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-04T22:53:14.531552-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664949198",
+      "size": "33892",
+      "md5": "ccc88045d21a024da6aa89d71087288c",
+      "crc32": "0a652584",
+      "sha1": "3d6a75e21e21a0c51bb5009500a595c06059e4ae",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-04T22:53:14.531552-07:00.jpg",
+      "source": "original",
+      "mtime": "1664949196",
+      "size": "244657",
+      "md5": "19055c876aad7fdca2db7d6c915c3acc",
+      "crc32": "6b1ad6bc",
+      "sha1": "b3b2ef82289df4a76efc32641c3f7eee4510d64f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtshastanews-2022-10-04T22:53:14.531552-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664949200",
+      "size": "1512",
+      "md5": "3a5ccc3a6b9f4a942379620ff1eb3f5f",
+      "crc32": "793adec0",
+      "sha1": "dee467180c68266a1d074a846e69d3588f7b24a4",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-04T22:53:14.531552-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664949201",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-04T22:53:14.531552-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtshastanews-2022-10-04T22:53:14.531552-07:00.jpg",
+      "mtime": "1664949255",
+      "size": "8486",
+      "md5": "b48feef3f757fe1378e27271922e119d",
+      "crc32": "50aef2b1",
+      "sha1": "d316543847c72750a4c0b88f43fccd35a20bd627"
+    },
+    {
       "name": "mtshastanews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f67af66c7f5c4bd5cc35cffae4516c83620a79de",
-      "mtime": "1664906207",
-      "size": "38536",
-      "md5": "b7efd8f0b3d29116b7a401b65ec50159",
-      "crc32": "ca129977",
-      "sha1": "317908cf54485ffaafc7ce9a48a1ed95ad3dfd59",
+      "btih": "519f1a62f1159347939f1f9f46edbd5539883a93",
+      "mtime": "1664949261",
+      "size": "39805",
+      "md5": "8f489fa2334be54fa3df9d9e005c1a78",
+      "crc32": "55f45ce6",
+      "sha1": "ba80a7183e5f2e1e496c1bcf5f871f4256b347f4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mtshastanews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f77633f1bd4d5b96634beec22150a434",
+      "md5": "71fb10709edb1d88ea6f9fcd01297ee5",
       "summation": "md5"
     },
     {
       "name": "mtshastanews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664905993",
-      "size": "241664",
-      "md5": "c4579462fe404a7e8fcb63ee55c463b1",
-      "crc32": "686dde63",
-      "sha1": "680e1e90eb21fb9a0aa483ded06cdf28bbe662cb",
+      "mtime": "1664949205",
+      "size": "249856",
+      "md5": "52de4539ce020faaf0c2c143c94664d1",
+      "crc32": "56ea0389",
+      "sha1": "9dc8d0c4cc839bd5e0934affa0657192efbe8104",
       "format": "Metadata"
     },
     {
@@ -1832,9 +1894,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 177,
-  "item_last_updated": 1664906207,
-  "item_size": 11684961,
+  "files_count": 183,
+  "item_last_updated": 1664949261,
+  "item_size": 12007452,
   "metadata": {
     "identifier": "mtshastanews-2022",
     "collection": [
@@ -1851,10 +1913,15 @@
     "publicdate": "2022-09-20 17:35:39",
     "addeddate": "2022-09-20 17:35:39"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 59214443,
+  "mtshastanews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia601505.us.archive.org",
+  "uniq": 953007545,
   "workable_servers": [
-    "ia801505.us.archive.org",
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }
