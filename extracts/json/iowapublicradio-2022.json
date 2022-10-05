@@ -1,5 +1,5 @@
 {
-  "created": 1664888745,
+  "created": 1664933323,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/31/items/iowapublicradio-2022",
@@ -18384,31 +18384,93 @@
       "sha1": "0fa4bd41864b6dbb2350ad7cf926a0262f327943"
     },
     {
+      "name": "iowapublicradio-2022-10-04T20:25:59.562760-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664933164",
+      "size": "18317",
+      "md5": "62c32b8b62ba8a6e6e3eaf0727fa3c66",
+      "crc32": "cc76d0e6",
+      "sha1": "78672d1b248cfa82f18b0d3b250e5aa48f983971",
+      "format": "JSON"
+    },
+    {
+      "name": "iowapublicradio-2022-10-04T20:25:59.562760-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664933166",
+      "size": "42622",
+      "md5": "6c143cead77dc84e3ad0a2fd856cb9af",
+      "crc32": "5d1a7534",
+      "sha1": "7fa67cac99fea3429e5cb97ed7e4e69db303dd07",
+      "format": "JSON"
+    },
+    {
+      "name": "iowapublicradio-2022-10-04T20:25:59.562760-05:00.jpg",
+      "source": "original",
+      "mtime": "1664933161",
+      "size": "215639",
+      "md5": "a7dc5e384148277241b72eb6c2b03623",
+      "crc32": "7e5542e7",
+      "sha1": "e0108e0b565071e13db7f2427dcd4875d6e1a937",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "iowapublicradio-2022-10-04T20:25:59.562760-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664933168",
+      "size": "1528",
+      "md5": "8c508bc5a808449638ed56cecf22ad41",
+      "crc32": "4dfa5052",
+      "sha1": "4841e159d4ab372cc0352f3c54a70e0e495e59d9",
+      "format": "JSON"
+    },
+    {
+      "name": "iowapublicradio-2022-10-04T20:25:59.562760-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664933170",
+      "size": "29688",
+      "md5": "cb1489645c30ea005e880ba09a293c6b",
+      "crc32": "66c52936",
+      "sha1": "872bd073228cefeae7796848720826e86851a8ec",
+      "format": "JSON"
+    },
+    {
+      "name": "iowapublicradio-2022-10-04T20:25:59.562760-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "iowapublicradio-2022-10-04T20:25:59.562760-05:00.jpg",
+      "mtime": "1664933259",
+      "size": "9298",
+      "md5": "5a9ae4702e17d9c62bfdeec7bf77c63b",
+      "crc32": "dd97a3b3",
+      "sha1": "c9ee3cf0b9c9df18ac10e4fa202f046da4846a5b"
+    },
+    {
       "name": "iowapublicradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c8667abaf69e4b2ab13cef9e4e6a2ef0414afcf0",
-      "mtime": "1664888637",
-      "size": "385726",
-      "md5": "df4a6053a5004e4adf162391396a5e7e",
-      "crc32": "737fb4ee",
-      "sha1": "59f17de47d8d6e1e6be1e432ea0fc8de8218b3d8",
+      "btih": "75accb7a7fefea3f53717fec4d5db3faa442e0fc",
+      "mtime": "1664933304",
+      "size": "387035",
+      "md5": "57734f55f40b0ba0285ca279cbddfcf5",
+      "crc32": "8a1b32c8",
+      "sha1": "1c49927a1cafabc7a745f9eae214354dc74a203d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "iowapublicradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f6e513fa476aa7b5fe8b824c4583a002",
+      "md5": "dba8e63bab0fdef00f570ba138f9153b",
       "summation": "md5"
     },
     {
       "name": "iowapublicradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664888367",
-      "size": "2166784",
-      "md5": "37c52059c3797cd5c96fde17f46bcaad",
-      "crc32": "9f6eb53b",
-      "sha1": "507c8c8d38b3ee1d197333b96f880e86fdb2d803",
+      "mtime": "1664933177",
+      "size": "2174976",
+      "md5": "6bcb67bb3e8a08684566110bad41c0af",
+      "crc32": "f3de2430",
+      "sha1": "81caab4f194cca4dbf2803284c6992e57689de2d",
       "format": "Metadata"
     },
     {
@@ -18422,9 +18484,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1769,
-  "item_last_updated": 1664888637,
-  "item_size": 141667006,
+  "files_count": 1775,
+  "item_last_updated": 1664933304,
+  "item_size": 141993599,
   "metadata": {
     "identifier": "iowapublicradio-2022",
     "collection": [
@@ -18442,7 +18504,7 @@
     "addeddate": "2022-03-25 03:35:10"
   },
   "server": "ia902504.us.archive.org",
-  "uniq": 1915754946,
+  "uniq": 381905,
   "workable_servers": [
     "ia902504.us.archive.org",
     "ia802504.us.archive.org"

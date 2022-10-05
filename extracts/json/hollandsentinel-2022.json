@@ -1,5 +1,5 @@
 {
-  "created": 1664888462,
+  "created": 1664933255,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/28/items/hollandsentinel-2022",
@@ -1814,31 +1814,93 @@
       "sha1": "6f99045950f150fc123ab2abae18ff55b75a63c7"
     },
     {
+      "name": "hollandsentinel-2022-10-04T21:26:01.305429-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664933165",
+      "size": "25404",
+      "md5": "da90cea30483b8cac9aaf782600aae98",
+      "crc32": "e17db24a",
+      "sha1": "0357d265cdae225e57849a42f4a057d7866decb8",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-04T21:26:01.305429-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664933167",
+      "size": "38418",
+      "md5": "7dcf79ee956740748284db6d3aa50392",
+      "crc32": "a23ddaf1",
+      "sha1": "7a10ab970ecb3a94623bfc6875b2440e988941a2",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-04T21:26:01.305429-04:00.jpg",
+      "source": "original",
+      "mtime": "1664933164",
+      "size": "269994",
+      "md5": "7f4845ebe4a151a40f9a6b69e2db02ea",
+      "crc32": "32a13601",
+      "sha1": "6b3463fa174a4ab57e08ea4a6eabba55f57281ac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hollandsentinel-2022-10-04T21:26:01.305429-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664933169",
+      "size": "1540",
+      "md5": "811192e15d8958f3283ecb57bd1779bd",
+      "crc32": "8e50c0ec",
+      "sha1": "e02bc7c4343c9d8107397cf7ff603876442d185d",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-04T21:26:01.305429-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664933171",
+      "size": "108",
+      "md5": "b46e66cf0f15c4b86f4609dd1ce4101b",
+      "crc32": "d920185a",
+      "sha1": "d6fd98114938bea87e28c6e3b7e02c9d4f45cb67",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-04T21:26:01.305429-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hollandsentinel-2022-10-04T21:26:01.305429-04:00.jpg",
+      "mtime": "1664933236",
+      "size": "9511",
+      "md5": "67d9065af0a3c4138bcd20f6097f6be8",
+      "crc32": "6c13ae8d",
+      "sha1": "a664f0cda863e94e9b86d7694de1ea9a3d831c03"
+    },
+    {
       "name": "hollandsentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "055090f1f9dd35774513469af342f8200520a320",
-      "mtime": "1664888439",
-      "size": "39534",
-      "md5": "be1e9a95d84f9dad94ff94ffa2c8a445",
-      "crc32": "fea50806",
-      "sha1": "d7676144f2c1e996e8f3f45e8bdefbed455bcd76",
+      "btih": "4b2611f32d58f1d0ac3630481db81d9375637b04",
+      "mtime": "1664933242",
+      "size": "40821",
+      "md5": "7818a5202383733531710b8391038425",
+      "crc32": "7f39baa9",
+      "sha1": "25cc50d7165d628414067540d741eeff3abf7a12",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hollandsentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "73da3b28f9484446cfb9efb18707bcc5",
+      "md5": "ab8857a136ba2b16048b0bb136a1eed2",
       "summation": "md5"
     },
     {
       "name": "hollandsentinel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664888368",
-      "size": "245760",
-      "md5": "a4be64b490e4731c525ac42595fe7a90",
-      "crc32": "d5962c1d",
-      "sha1": "e32c0d531d5a76132cc3568b8f66f5da177c0629",
+      "mtime": "1664933183",
+      "size": "253952",
+      "md5": "bc4bf8dd6b1b0431e0c1966360509dcf",
+      "crc32": "f75cb8f1",
+      "sha1": "4adbf06b56c1948cf1745a19b41d873cb86c8e0c",
       "format": "Metadata"
     },
     {
@@ -1852,9 +1914,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 179,
-  "item_last_updated": 1664888439,
-  "item_size": 12136210,
+  "files_count": 185,
+  "item_last_updated": 1664933242,
+  "item_size": 12490664,
   "metadata": {
     "identifier": "hollandsentinel-2022",
     "collection": [
@@ -1871,10 +1933,10 @@
     "publicdate": "2022-09-20 22:19:45",
     "addeddate": "2022-09-20 22:19:45"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 712060034,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1766086001,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }

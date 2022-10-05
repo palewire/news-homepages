@@ -1,5 +1,5 @@
 {
-  "created": 1664889083,
+  "created": 1664933678,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/35/items/littlevillage-2022",
@@ -13998,31 +13998,93 @@
       "sha1": "a9ed598b494addadc900b8704f5d0808ba79d642"
     },
     {
+      "name": "littlevillage-2022-10-04T20:32:20.657761-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664933544",
+      "size": "32155",
+      "md5": "428f4520ec2879b3e818e6614bf82ffc",
+      "crc32": "d4f60de1",
+      "sha1": "ac8477ecf57e741a8f6a22f3522bca0653d3c1c6",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-10-04T20:32:20.657761-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664933551",
+      "size": "39204",
+      "md5": "732f42dd51832394fa4d9fe3c7ff28a7",
+      "crc32": "edc4146b",
+      "sha1": "931bd22c69a8f6ceae6238e5cb05d3568a0d93da",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-10-04T20:32:20.657761-05:00.jpg",
+      "source": "original",
+      "mtime": "1664933542",
+      "size": "296566",
+      "md5": "7cd39b515dd239c64fbf04c68c73abcb",
+      "crc32": "40df524e",
+      "sha1": "31f5520da1a6f47e6f666e2bd6fcd35cf2df6743",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "littlevillage-2022-10-04T20:32:20.657761-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664933553",
+      "size": "1510",
+      "md5": "9bec4a7c47ebf94b60b7821d7f4af383",
+      "crc32": "1b2ab14e",
+      "sha1": "3fb78e42706a5d0bdf4bd2d8106f8588f1d24981",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-10-04T20:32:20.657761-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664933555",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-10-04T20:32:20.657761-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "littlevillage-2022-10-04T20:32:20.657761-05:00.jpg",
+      "mtime": "1664933639",
+      "size": "9704",
+      "md5": "ed3aac65d7364333324f6293bbb72925",
+      "crc32": "b95c298c",
+      "sha1": "da8218b0c89d1f717050fed61676581e5d1a271e"
+    },
+    {
       "name": "littlevillage-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f4736c2b70900ea681ab56b4e555f62fa996299a",
-      "mtime": "1664888971",
-      "size": "292050",
-      "md5": "992ec2384efc9eef7c0c3d2ba9be9102",
-      "crc32": "c448531d",
-      "sha1": "4559fffa564c89558b842e8a6996d8e4edc02bce",
+      "btih": "746216e208ffc41c8e8ba8d09b3759f79b97d8f6",
+      "mtime": "1664933666",
+      "size": "293325",
+      "md5": "d8c139a478df04f149b662a0950eac5d",
+      "crc32": "3eba9828",
+      "sha1": "b6f7d1a9753dacaaa15b356db808f03794637a6c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "littlevillage-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bcb951b0a86258cfe7577da3d6ca02c3",
+      "md5": "03c01832b83fa2589b73449bae2d0d2d",
       "summation": "md5"
     },
     {
       "name": "littlevillage-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664888751",
-      "size": "1687552",
-      "md5": "765b5408896d34392ee7593dae8da06c",
-      "crc32": "5a3215b1",
-      "sha1": "f55203f7aa2f95c3fee55d48c9a64b0400b1402f",
+      "mtime": "1664933560",
+      "size": "1699840",
+      "md5": "eeb66fe174c5da7ab5fccad12e0d36e3",
+      "crc32": "1dceec23",
+      "sha1": "09cedbc7155723885f9e77b785ef52cb1e4c1193",
       "format": "Metadata"
     },
     {
@@ -14036,9 +14098,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1352,
-  "item_last_updated": 1664888971,
-  "item_size": 104215616,
+  "files_count": 1358,
+  "item_last_updated": 1664933666,
+  "item_size": 104608520,
   "metadata": {
     "identifier": "littlevillage-2022",
     "collection": [
@@ -14055,10 +14117,10 @@
     "publicdate": "2022-06-24 22:57:45",
     "addeddate": "2022-06-24 22:57:45"
   },
-  "server": "ia802507.us.archive.org",
-  "uniq": 1822206919,
+  "server": "ia902507.us.archive.org",
+  "uniq": 1896494932,
   "workable_servers": [
-    "ia802507.us.archive.org",
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }
