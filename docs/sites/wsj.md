@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 599 screenshots with the Internet Archive.
+The archiving routine has saved 601 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/wsj-2022/wsj-2022-10-05T17:18:53.850538-04:00.jpg">
+  <img src="https://archive.org/download/wsj-2022/wsj-2022-10-05T17:18:53.850538-04:00.jpg"
+     alt="Wall Street Journal at 2022-10-05 17:18:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-10-05T17:18:53.850538-04:00.jpg">October 5 at 5:18 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wsj-2022/wsj-2022-10-05T16:54:32.687775-04:00.jpg">
+  <img src="https://archive.org/download/wsj-2022/wsj-2022-10-05T16:54:32.687775-04:00.jpg"
+     alt="Wall Street Journal at 2022-10-05 16:54:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-10-05T16:54:32.687775-04:00.jpg">October 5 at 4:54 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/wsj-2022/wsj-2022-10-05T09:18:25.538502-04:00.jpg">
   <img src="https://archive.org/download/wsj-2022/wsj-2022-10-05T09:18:25.538502-04:00.jpg"
      alt="Wall Street Journal at 2022-10-05 09:18:27-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wsj-2022/wsj-2022-10-03T03:34:39.876955-04:00.jpg">October 3 at 3:35 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wsj-2022/wsj-2022-10-02T17:20:29.444050-04:00.jpg">
-  <img src="https://archive.org/download/wsj-2022/wsj-2022-10-02T17:20:29.444050-04:00.jpg"
-     alt="Wall Street Journal at 2022-10-02 17:20:31-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-10-02T17:20:29.444050-04:00.jpg">October 2 at 5:20 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wsj-2022/wsj-2022-10-02T15:41:48.231301-04:00.jpg">
-  <img src="https://archive.org/download/wsj-2022/wsj-2022-10-02T15:41:48.231301-04:00.jpg"
-     alt="Wall Street Journal at 2022-10-02 15:42:17-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-10-02T15:41:48.231301-04:00.jpg">October 2 at 3:42 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 582 hyperlink lists with the Internet Archive.
+The archiving routine has saved 584 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 5 at 5:19 PM](https://archive.org/download/wsj-2022/wsj-2022-10-05T17:18:53.850538-04:00.hyperlinks.json) |
+| [October 5 at 4:54 PM](https://archive.org/download/wsj-2022/wsj-2022-10-05T16:54:32.687775-04:00.hyperlinks.json) |
 | [October 5 at 9:18 AM](https://archive.org/download/wsj-2022/wsj-2022-10-05T09:18:25.538502-04:00.hyperlinks.json) |
 | [October 5 at 3:34 AM](https://archive.org/download/wsj-2022/wsj-2022-10-05T03:33:54.047789-04:00.hyperlinks.json) |
 | [October 4 at 5:20 PM](https://archive.org/download/wsj-2022/wsj-2022-10-04T17:20:34.597905-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 4 at 3:56 AM](https://archive.org/download/wsj-2022/wsj-2022-10-04T03:56:23.616515-04:00.hyperlinks.json) |
 | [October 3 at 5:18 PM](https://archive.org/download/wsj-2022/wsj-2022-10-03T17:18:28.260677-04:00.hyperlinks.json) |
 | [October 3 at 3:17 PM](https://archive.org/download/wsj-2022/wsj-2022-10-03T15:17:08.796098-04:00.hyperlinks.json) |
-| [October 3 at 8:53 AM](https://archive.org/download/wsj-2022/wsj-2022-10-03T08:53:40.871548-04:00.hyperlinks.json) |
-| [October 3 at 3:35 AM](https://archive.org/download/wsj-2022/wsj-2022-10-03T03:34:39.876955-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 572 accessibility trees with the Internet Archive.
+The archiving routine has saved 574 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 5 at 5:18 PM](https://archive.org/download/wsj-2022/wsj-2022-10-05T17:18:53.850538-04:00.accessibility.json) |
+| [October 5 at 4:54 PM](https://archive.org/download/wsj-2022/wsj-2022-10-05T16:54:32.687775-04:00.accessibility.json) |
 | [October 5 at 9:18 AM](https://archive.org/download/wsj-2022/wsj-2022-10-05T09:18:25.538502-04:00.accessibility.json) |
 | [October 5 at 3:33 AM](https://archive.org/download/wsj-2022/wsj-2022-10-05T03:33:54.047789-04:00.accessibility.json) |
 | [October 4 at 5:20 PM](https://archive.org/download/wsj-2022/wsj-2022-10-04T17:20:34.597905-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 4 at 3:56 AM](https://archive.org/download/wsj-2022/wsj-2022-10-04T03:56:23.616515-04:00.accessibility.json) |
 | [October 3 at 5:18 PM](https://archive.org/download/wsj-2022/wsj-2022-10-03T17:18:28.260677-04:00.accessibility.json) |
 | [October 3 at 3:17 PM](https://archive.org/download/wsj-2022/wsj-2022-10-03T15:17:08.796098-04:00.accessibility.json) |
-| [October 3 at 8:53 AM](https://archive.org/download/wsj-2022/wsj-2022-10-03T08:53:40.871548-04:00.accessibility.json) |
-| [October 3 at 3:35 AM](https://archive.org/download/wsj-2022/wsj-2022-10-03T03:34:39.876955-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 290 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 292 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 5 at 5:19 PM](https://archive.org/download/wsj-2022/wsj-2022-10-05T17:18:53.850538-04:00.lighthouse.json) |
+| [October 5 at 4:54 PM](https://archive.org/download/wsj-2022/wsj-2022-10-05T16:54:32.687775-04:00.lighthouse.json) |
 | [October 5 at 9:18 AM](https://archive.org/download/wsj-2022/wsj-2022-10-05T09:18:25.538502-04:00.lighthouse.json) |
 | [October 5 at 3:34 AM](https://archive.org/download/wsj-2022/wsj-2022-10-05T03:33:54.047789-04:00.lighthouse.json) |
 | [October 4 at 5:20 PM](https://archive.org/download/wsj-2022/wsj-2022-10-04T17:20:34.597905-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 4 at 3:56 AM](https://archive.org/download/wsj-2022/wsj-2022-10-04T03:56:23.616515-04:00.lighthouse.json) |
 | [October 3 at 5:19 PM](https://archive.org/download/wsj-2022/wsj-2022-10-03T17:18:28.260677-04:00.lighthouse.json) |
 | [October 3 at 3:17 PM](https://archive.org/download/wsj-2022/wsj-2022-10-03T15:17:08.796098-04:00.lighthouse.json) |
-| [October 3 at 8:53 AM](https://archive.org/download/wsj-2022/wsj-2022-10-03T08:53:40.871548-04:00.lighthouse.json) |
-| [October 3 at 3:35 AM](https://archive.org/download/wsj-2022/wsj-2022-10-03T03:34:39.876955-04:00.lighthouse.json) |
 
 
 
