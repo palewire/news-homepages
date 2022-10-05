@@ -1,5 +1,5 @@
 {
-  "created": 1664907101,
+  "created": 1664950198,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/35/items/fox12oregon-2022",
@@ -10300,31 +10300,93 @@
       "sha1": "04593d1e6a730b5a16f4b18764e194236ce3d3a9"
     },
     {
+      "name": "fox12oregon-2022-10-04T23:06:38.918025-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664950003",
+      "size": "35710",
+      "md5": "4ae62a3b504fe28667e3dcbe84949f63",
+      "crc32": "a9d752e7",
+      "sha1": "36ede2f4acb61df97f5b9e359df8d893aa95345d",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-04T23:06:38.918025-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664950006",
+      "size": "23793",
+      "md5": "e91616f5690d390619ef62f1d31c2540",
+      "crc32": "561f41e3",
+      "sha1": "5ffe9c3d0b4e969b89ec0b85338c0e45f8261f1f",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-04T23:06:38.918025-07:00.jpg",
+      "source": "original",
+      "mtime": "1664950000",
+      "size": "406294",
+      "md5": "4d56886c517614d60ddbaa3c5a6ef739",
+      "crc32": "4280a822",
+      "sha1": "d0324096ed6b74e9b45abb8e2c1b64e4da31008c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox12oregon-2022-10-04T23:06:38.918025-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664950007",
+      "size": "1441",
+      "md5": "a43eac05cd01debd50e6fbaf4b2ba610",
+      "crc32": "b34cb7b6",
+      "sha1": "cb9b411bdd4d612eb9f1e87fc3050b509c63aad5",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-04T23:06:38.918025-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664950009",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-04T23:06:38.918025-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox12oregon-2022-10-04T23:06:38.918025-07:00.jpg",
+      "mtime": "1664950131",
+      "size": "11830",
+      "md5": "b9d784926180fc5cb57dfd4632ffca1c",
+      "crc32": "f1884a42",
+      "sha1": "37c143e4955b55a0c96043fa90f7257686d81f06"
+    },
+    {
       "name": "fox12oregon-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6529bfd0d8ecc5deba31599ca5af62d003e2de27",
-      "mtime": "1664907077",
-      "size": "214192",
-      "md5": "87489ec60b5ea13330ed03ae6cc22578",
-      "crc32": "45af9c9d",
-      "sha1": "c84f23dfee4460aadcae7a308cf6c37c5eeccc01",
+      "btih": "8d52e5e4329bd203bf1532b2d4c93431dc8b9679",
+      "mtime": "1664950158",
+      "size": "215476",
+      "md5": "ff9647beba2008629897ae034f2e0177",
+      "crc32": "30ede00d",
+      "sha1": "2a2d905fb3de67c44f6460cdaff655cabf8c7f73",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fox12oregon-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "357547e4e295306d36f339e13b3303d6",
+      "md5": "1dff82c0b4165e42eca30ff5aba60de4",
       "summation": "md5"
     },
     {
       "name": "fox12oregon-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664906958",
-      "size": "1257472",
-      "md5": "df8df516376a6d6c0f491fce0786c9c1",
-      "crc32": "03191110",
-      "sha1": "1d573139af3174818d38f4c07f14c1636cf58a17",
+      "mtime": "1664950014",
+      "size": "1265664",
+      "md5": "2bf40c83ec5fc39f6b6665344905d130",
+      "crc32": "2b007c3d",
+      "sha1": "6d5100945b5f2ca33280196739ceeaf6683ee84b",
       "format": "Metadata"
     },
     {
@@ -10338,9 +10400,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 997,
-  "item_last_updated": 1664907077,
-  "item_size": 88256021,
+  "files_count": 1003,
+  "item_last_updated": 1664950158,
+  "item_size": 88744767,
   "metadata": {
     "identifier": "fox12oregon-2022",
     "collection": [
@@ -10358,7 +10420,7 @@
     "addeddate": "2022-07-04 21:52:58"
   },
   "server": "ia801403.us.archive.org",
-  "uniq": 340041703,
+  "uniq": 1255790430,
   "workable_servers": [
     "ia801403.us.archive.org",
     "ia601403.us.archive.org"

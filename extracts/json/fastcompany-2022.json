@@ -1,13 +1,8 @@
 {
-  "created": 1664912283,
+  "created": 1664952131,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/6/items/fastcompany-2022",
-  "fastcompany-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -10089,31 +10084,83 @@
       "sha1": "bc312d820afe11ecc9b30a1d59bb7b9e26200ba3"
     },
     {
+      "name": "fastcompany-2022-10-05T02:06:55.741925-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664950023",
+      "size": "2360",
+      "md5": "f2a87734f91840306d491a5460f6234a",
+      "crc32": "f62cd557",
+      "sha1": "be535cc0e647ac4b94513e39be971e3678783c3c",
+      "format": "JSON"
+    },
+    {
+      "name": "fastcompany-2022-10-05T02:06:55.741925-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664950024",
+      "size": "622",
+      "md5": "67f250bce2a590345a863ed4dfe505b4",
+      "crc32": "fefe7180",
+      "sha1": "88f6638d3e2dd6cdac7294b659eca7cdb12def5c",
+      "format": "JSON"
+    },
+    {
+      "name": "fastcompany-2022-10-05T02:06:55.741925-04:00.jpg",
+      "source": "original",
+      "mtime": "1664950021",
+      "size": "132230",
+      "md5": "5ad74701ecfcd8a205209e7d951e5114",
+      "crc32": "a38068e0",
+      "sha1": "723f0974e1bd249d4ee075482c6d24091bca1f05",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fastcompany-2022-10-05T02:06:55.741925-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664950026",
+      "size": "530",
+      "md5": "0425516391cc8d9c1bc8ca5cd2a30b74",
+      "crc32": "d4eacdf5",
+      "sha1": "5dd30857691e131c046de1e23fc62add59d52d02",
+      "format": "JSON"
+    },
+    {
+      "name": "fastcompany-2022-10-05T02:06:55.741925-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fastcompany-2022-10-05T02:06:55.741925-04:00.jpg",
+      "mtime": "1664950093",
+      "size": "6762",
+      "md5": "c6849d75d1f8630d52fabef89b497f68",
+      "crc32": "d065fa47",
+      "sha1": "bc312d820afe11ecc9b30a1d59bb7b9e26200ba3"
+    },
+    {
       "name": "fastcompany-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d36c0b234074e8da18d3a3f9b0abd5baf5c0e7b4",
-      "mtime": "1664907084",
-      "size": "209286",
-      "md5": "8af5fbc96cdf53dd2d626f03fa2dfcde",
-      "crc32": "7a12486c",
-      "sha1": "a8ff07b85540725a8f8d178626016fa883ec681c",
+      "btih": "8197266553c9d18f7c305da12247c2c3dcc5a2ef",
+      "mtime": "1664950109",
+      "size": "210333",
+      "md5": "d24c775a9016d7794060bda04ef97c5a",
+      "crc32": "d7bf361a",
+      "sha1": "74f67feb3439a5aa8ef61d40d7885002a92dbcde",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fastcompany-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "347ad1c3eeb42edae747c1138dfcef10",
+      "md5": "919a9c0dea45e63455b83f2dcd8c6fdf",
       "summation": "md5"
     },
     {
       "name": "fastcompany-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664906956",
-      "size": "1216512",
-      "md5": "985a3cfbb3e9d6b74737f30f946dee38",
-      "crc32": "aaec9549",
-      "sha1": "0d9e424260f3f32edfe6cad25134e86d8c0bb8cd",
+      "mtime": "1664950032",
+      "size": "1224704",
+      "md5": "5f96813ba26c228b71df36138e5d05bf",
+      "crc32": "23208e74",
+      "sha1": "c20f6f9311b827e85fa501183a990eaa54504a50",
       "format": "Metadata"
     },
     {
@@ -10127,9 +10174,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 975,
-  "item_last_updated": 1664907084,
-  "item_size": 87587340,
+  "files_count": 980,
+  "item_last_updated": 1664950109,
+  "item_size": 87739083,
   "metadata": {
     "identifier": "fastcompany-2022",
     "collection": [
@@ -10147,7 +10194,7 @@
     "addeddate": "2022-07-04 20:48:13"
   },
   "server": "ia801505.us.archive.org",
-  "uniq": 1686528828,
+  "uniq": 274979939,
   "workable_servers": [
     "ia801505.us.archive.org",
     "ia601505.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1664907181,
+  "created": 1664949783,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/6/items/elpasotimes-2022",
@@ -8466,31 +8466,93 @@
       "sha1": "c978cd7a491407bb20ee839ffe3de6803b8cfc51"
     },
     {
+      "name": "elpasotimes-2022-10-05T00:01:30.623335-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664949698",
+      "size": "21102",
+      "md5": "58bf088db2ede9d0617005f5668b8e9c",
+      "crc32": "98e795d9",
+      "sha1": "940cd3c7e8a2f9f0a95a9a597c630fe8e5363dd6",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasotimes-2022-10-05T00:01:30.623335-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664949700",
+      "size": "34745",
+      "md5": "6022cb464dc8e846532ced03669b00cd",
+      "crc32": "ae3ebf26",
+      "sha1": "8d6067844b497706b052ebd04a983c1b0ddc6c07",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasotimes-2022-10-05T00:01:30.623335-06:00.jpg",
+      "source": "original",
+      "mtime": "1664949696",
+      "size": "245242",
+      "md5": "6dcb062f454eb69b744ce9ba5266774c",
+      "crc32": "9f93b568",
+      "sha1": "b225c9f96c540357af4036cbcec1bdddef8d4010",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elpasotimes-2022-10-05T00:01:30.623335-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664949702",
+      "size": "1503",
+      "md5": "05327ad144bfa609c3051def9dbf3417",
+      "crc32": "545209bb",
+      "sha1": "dca9f5f70387a7fc693604148711cafad977f761",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasotimes-2022-10-05T00:01:30.623335-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1664949705",
+      "size": "122170",
+      "md5": "532f448864ec1bec54020e16cf7f4d28",
+      "crc32": "b3e783c7",
+      "sha1": "bf0e613e1e19fc2560a34239c2decc2bf293383e",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasotimes-2022-10-05T00:01:30.623335-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elpasotimes-2022-10-05T00:01:30.623335-06:00.jpg",
+      "mtime": "1664949762",
+      "size": "8935",
+      "md5": "5d0aba4b17af04eeaf08baf34b077932",
+      "crc32": "567ae0c0",
+      "sha1": "0d510cd59b18394b37d303a93efc9603a885b67f"
+    },
+    {
       "name": "elpasotimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "134ff5eb3c2ed840b6297ea501ff674b14796c31",
-      "mtime": "1664907053",
-      "size": "175859",
-      "md5": "196cae6463ae59edac610f81da8a3f6e",
-      "crc32": "de46ee67",
-      "sha1": "bb7da5ab524945154b9cacf49b6c786d619914ce",
+      "btih": "675bb552b9c8e9d5ed538a87034c2135e8a68844",
+      "mtime": "1664949773",
+      "size": "177145",
+      "md5": "c99c74a26c755bacc9b19b28a3be0637",
+      "crc32": "47e3e47b",
+      "sha1": "f80184a7b24a81988a3e29fc479f12504f055322",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elpasotimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5f95061623c7ccdb8facb621a1c9acab",
+      "md5": "28210213782fe5a50cef9812e470006b",
       "summation": "md5"
     },
     {
       "name": "elpasotimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664906967",
-      "size": "1052672",
-      "md5": "22c4b488c52ba343ffb83e0a27fb10e1",
-      "crc32": "07804f9d",
-      "sha1": "d1520c978210620f305208f187712f817106544b",
+      "mtime": "1664949708",
+      "size": "1060864",
+      "md5": "395a22ae4b2cd12d6b7a961a949c0b78",
+      "crc32": "dbcfdccc",
+      "sha1": "846b33e3b6ec5754a676c4feeacad4af1a64b94a",
       "format": "Metadata"
     },
     {
@@ -8504,9 +8566,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 822,
-  "item_last_updated": 1664907053,
-  "item_size": 52917983,
+  "files_count": 828,
+  "item_last_updated": 1664949773,
+  "item_size": 53361158,
   "metadata": {
     "identifier": "elpasotimes-2022",
     "collection": [
@@ -8523,10 +8585,10 @@
     "publicdate": "2022-07-26 14:34:01",
     "addeddate": "2022-07-26 14:34:01"
   },
-  "server": "ia801509.us.archive.org",
-  "uniq": 764575347,
+  "server": "ia601509.us.archive.org",
+  "uniq": 1105371098,
   "workable_servers": [
-    "ia801509.us.archive.org",
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }

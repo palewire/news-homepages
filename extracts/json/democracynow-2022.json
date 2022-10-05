@@ -1,6 +1,5 @@
 {
-  "conflict": 1664914680,
-  "created": 1664914680,
+  "created": 1664949890,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/8/items/democracynow-2022",
@@ -16067,31 +16066,93 @@
       "sha1": "adeb89728f3851b943e6a722e3f25e2af0c5b709"
     },
     {
+      "name": "democracynow-2022-10-05T02:02:28.063801-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664949754",
+      "size": "28212",
+      "md5": "7b12414703b9ea49ede4e5fa35bf966d",
+      "crc32": "267dc1df",
+      "sha1": "7dbfe55582d55875904dcd0d20e13bfe03298723",
+      "format": "JSON"
+    },
+    {
+      "name": "democracynow-2022-10-05T02:02:28.063801-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664949756",
+      "size": "32430",
+      "md5": "a5867261e42f6d0ea8ac380cff19ec40",
+      "crc32": "d5ff37c3",
+      "sha1": "84cacba2d3a24c27d36b130f9d774b8012051e54",
+      "format": "JSON"
+    },
+    {
+      "name": "democracynow-2022-10-05T02:02:28.063801-04:00.jpg",
+      "source": "original",
+      "mtime": "1664949752",
+      "size": "256061",
+      "md5": "816af8b4d51ef158cdae753ad9845adc",
+      "crc32": "aa904285",
+      "sha1": "3ce00fd48f97297058b8407ff15ba6743230e5f6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "democracynow-2022-10-05T02:02:28.063801-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664949757",
+      "size": "1513",
+      "md5": "0e5c52b7647ea37b6c0e08d8c9116261",
+      "crc32": "f9ad8fa8",
+      "sha1": "eccf10d1c8bb0f0729c921ad882ad55b8d5369f6",
+      "format": "JSON"
+    },
+    {
+      "name": "democracynow-2022-10-05T02:02:28.063801-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664949759",
+      "size": "12523",
+      "md5": "332147cf7917959e83c31d7cabf9a4bc",
+      "crc32": "d401b862",
+      "sha1": "203aa955901b53154f2aff09f462ad6786dff6aa",
+      "format": "JSON"
+    },
+    {
+      "name": "democracynow-2022-10-05T02:02:28.063801-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "democracynow-2022-10-05T02:02:28.063801-04:00.jpg",
+      "mtime": "1664949843",
+      "size": "8779",
+      "md5": "0b1660c5daa6957b068bb60b8d3cc57e",
+      "crc32": "179417ed",
+      "sha1": "adeb89728f3851b943e6a722e3f25e2af0c5b709"
+    },
+    {
       "name": "democracynow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9b6e22f8f4dd27a817190f3acc863a41b5af6be8",
-      "mtime": "1664914674",
-      "size": "333601",
-      "md5": "b755deaadd001cf8c349adbfd99e5158",
-      "crc32": "16f4ee2c",
-      "sha1": "ee281ee4438af20e46edbb2d745a3f8f39abdea1",
+      "btih": "1d2f5c02bca5e41bbde19f41153e79174b32551a",
+      "mtime": "1664949864",
+      "size": "334872",
+      "md5": "b63a36628af6fc2a6dfbf769c781158e",
+      "crc32": "dda8fa2b",
+      "sha1": "835f65f73bdbe5578ff15453249911af353a699c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "democracynow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b2fc3d2650e784faaa86edd3481c83da",
+      "md5": "c724650751035e95e15e63517ead3b10",
       "summation": "md5"
     },
     {
       "name": "democracynow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664914503",
-      "size": "1941504",
-      "md5": "8e315d8a235320d21d12037792ab5c11",
-      "crc32": "2611043c",
-      "sha1": "bb853940eae72dccfb390aebeaaa333eec0cd472",
+      "mtime": "1664949770",
+      "size": "1945600",
+      "md5": "61a566ff1b329723bb1730eb03bb5c02",
+      "crc32": "da068748",
+      "sha1": "c8749f66cb91335c1deaebe2280f9e213a1ce42a",
       "format": "Metadata"
     },
     {
@@ -16105,9 +16166,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1552,
-  "item_last_updated": 1664914674,
-  "item_size": 113622445,
+  "files_count": 1558,
+  "item_last_updated": 1664949864,
+  "item_size": 113967330,
   "metadata": {
     "identifier": "democracynow-2022",
     "collection": [
@@ -16124,21 +16185,10 @@
     "publicdate": "2022-06-24 22:54:24",
     "addeddate": "2022-06-24 22:54:24"
   },
-  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3428706118,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1692454426,
+  "uniq": 657272204,
   "workable_servers": [
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

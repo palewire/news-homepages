@@ -1,5 +1,5 @@
 {
-  "created": 1664907337,
+  "created": 1664950075,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/18/items/enterprisenews-2022",
@@ -1814,31 +1814,93 @@
       "sha1": "0cc6b05e76fbed22f8cafbc84ed94f006e41fcad"
     },
     {
+      "name": "enterprisenews-2022-10-05T02:04:53.933778-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664949896",
+      "size": "22016",
+      "md5": "d4e234819f5e56286a74c4fbf051f80a",
+      "crc32": "a0c5487f",
+      "sha1": "fa6cc007ed5bfe40334eaf92345c2962ac7e8cc9",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-05T02:04:53.933778-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664949897",
+      "size": "30766",
+      "md5": "b02bb88fae2b5579dc2878430fd1dd67",
+      "crc32": "83931ee4",
+      "sha1": "02a176af1d6669f54c2b9c45b9c685ebcb4013aa",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-05T02:04:53.933778-04:00.jpg",
+      "source": "original",
+      "mtime": "1664949894",
+      "size": "253713",
+      "md5": "0f6d2e613957507684646e204d2eee78",
+      "crc32": "a5df2a0a",
+      "sha1": "94e5dd3b77c07be970ec56a4625ce09274b43cd5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "enterprisenews-2022-10-05T02:04:53.933778-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664949899",
+      "size": "1531",
+      "md5": "c9f4cedaeea184303d463c3ac4a3bb9e",
+      "crc32": "facb0aae",
+      "sha1": "6cd8d54768171064f7082bbf26213ffc54cf0b9d",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-05T02:04:53.933778-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664949900",
+      "size": "116687",
+      "md5": "4a0caba9d8f0be99b87fa58984bfd6f5",
+      "crc32": "f7c58f5b",
+      "sha1": "08c79d60b0395a3d0fb38fb7ad4197abcda0b6a3",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-05T02:04:53.933778-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enterprisenews-2022-10-05T02:04:53.933778-04:00.jpg",
+      "mtime": "1664950020",
+      "size": "9330",
+      "md5": "0afb702b844b3a57a0fea1204af3409a",
+      "crc32": "678f09d1",
+      "sha1": "809d9d98c044e118b661ab101d7e522173d3921a"
+    },
+    {
       "name": "enterprisenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "16abec8571df0926588bd62991f738e341166b76",
-      "mtime": "1664907283",
-      "size": "39347",
-      "md5": "62234e36285491b87a7a7a30d7e124d6",
-      "crc32": "146ddb2a",
-      "sha1": "d9f9d9c066e699421d9f8c69f26807be6174420a",
+      "btih": "a45a9b3de8c800d01302a4ce3fc10c0a14d607ac",
+      "mtime": "1664950023",
+      "size": "40651",
+      "md5": "b5abd0b05097c32656c4edd846424a43",
+      "crc32": "2fa0f8ff",
+      "sha1": "70f0dc08e401802de884707e40a31bb8eed1bd81",
       "format": "Archive BitTorrent"
     },
     {
       "name": "enterprisenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6b849b426421f52c0b7176d35abd7123",
+      "md5": "9fec9d196392ebe08aaccf2405892b13",
       "summation": "md5"
     },
     {
       "name": "enterprisenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664906999",
-      "size": "245760",
-      "md5": "f37c3420e040edfb600ff8cebe87c189",
-      "crc32": "5c5fff28",
-      "sha1": "2e474c082077357c15243a39d9eba7571097fbcc",
+      "mtime": "1664949924",
+      "size": "253952",
+      "md5": "481c0ca8a730d84d0fc85113aaa4c778",
+      "crc32": "6a105b9a",
+      "sha1": "b48eac53d29e5f37e111e8ca15a9c7580ca6e90f",
       "format": "Metadata"
     },
     {
@@ -1852,9 +1914,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 179,
-  "item_last_updated": 1664907283,
-  "item_size": 12190035,
+  "files_count": 185,
+  "item_last_updated": 1664950023,
+  "item_size": 12633574,
   "metadata": {
     "identifier": "enterprisenews-2022",
     "collection": [
@@ -1872,7 +1934,7 @@
     "addeddate": "2022-09-20 17:50:30"
   },
   "server": "ia801402.us.archive.org",
-  "uniq": 657836411,
+  "uniq": 382577819,
   "workable_servers": [
     "ia801402.us.archive.org",
     "ia601402.us.archive.org"
