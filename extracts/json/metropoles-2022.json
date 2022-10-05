@@ -1,5 +1,5 @@
 {
-  "created": 1664933803,
+  "created": 1664973910,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/32/items/metropoles-2022",
@@ -10404,31 +10404,93 @@
       "sha1": "16232b31c5af069d9d0dc3b58a621e58cfd9c4da"
     },
     {
+      "name": "metropoles-2022-10-05T09:25:19.570133-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664972730",
+      "size": "72254",
+      "md5": "85a5e4c2b46e0967eb4e2b7700e94551",
+      "crc32": "73414db7",
+      "sha1": "1ad529e91cd10bcdb6cbab0d00af6a3aa877d082",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-10-05T09:25:19.570133-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664972734",
+      "size": "69447",
+      "md5": "bda7d1382beaa136e567e88629be20f2",
+      "crc32": "32cefb96",
+      "sha1": "5fc100660fbb89228b5427db6a23f752cd6bf036",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-10-05T09:25:19.570133-03:00.jpg",
+      "source": "original",
+      "mtime": "1664972726",
+      "size": "337940",
+      "md5": "d06a748d456e5e6ece8a950245fe7f71",
+      "crc32": "09c2d9cb",
+      "sha1": "b8d8d8f246c2be9ad06f047a43c1c7803c52c194",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "metropoles-2022-10-05T09:25:19.570133-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664972736",
+      "size": "1495",
+      "md5": "17ef2e31241758748543ebe70bd03536",
+      "crc32": "e6e625c5",
+      "sha1": "2674ed4d0300a0da4206aeccabb677e84d2f2a10",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-10-05T09:25:19.570133-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664972739",
+      "size": "24482",
+      "md5": "b81a33b23070d17a7dbf85e87833605b",
+      "crc32": "a521eb6b",
+      "sha1": "7699d1384aab75b2d9ef428995f50eae705c9ffa",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-10-05T09:25:19.570133-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "metropoles-2022-10-05T09:25:19.570133-03:00.jpg",
+      "mtime": "1664973596",
+      "size": "9786",
+      "md5": "e8d93bde9f77783f21615b80af4081dc",
+      "crc32": "7275e39d",
+      "sha1": "f8f42c524a6de2bea9793e84f6002c9de7ac5100"
+    },
+    {
       "name": "metropoles-2022_archive.torrent",
       "source": "metadata",
-      "btih": "088ec36278530b7442cd56b3b4812b2383e9c089",
-      "mtime": "1664933731",
-      "size": "215476",
-      "md5": "047a6041957db9eeaede3ec71b451dd2",
-      "crc32": "463b2695",
-      "sha1": "99ed03f15c093f9b0f2a00f9b5fefa4bc01f278d",
+      "btih": "6bf27f4d1b7fd943e41a83c96f3e30264fe9fd0c",
+      "mtime": "1664973610",
+      "size": "216755",
+      "md5": "6622793b333843fbf0b0821f716b8029",
+      "crc32": "7af7b78e",
+      "sha1": "a39c9c367688c445434515394d5dc5806e7f3792",
       "format": "Archive BitTorrent"
     },
     {
       "name": "metropoles-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ea7daed06a2490df75eb76fbb49e81ab",
+      "md5": "081d98430d99a7940ebb814cc713cc1b",
       "summation": "md5"
     },
     {
       "name": "metropoles-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664933566",
-      "size": "1294336",
-      "md5": "5ec9a5902482949e5c8b3ac480e49ab4",
-      "crc32": "8aeadde4",
-      "sha1": "a64e6ef68e1a8a4eb5497cfa14bce2bbda4e688f",
+      "mtime": "1664972843",
+      "size": "1302528",
+      "md5": "c35e22b515a038779137e79b48a7b476",
+      "crc32": "121d9406",
+      "sha1": "bcb5b724f28a4858c19be8700fb7aaed3be7365e",
       "format": "Metadata"
     },
     {
@@ -10442,9 +10504,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1010,
-  "item_last_updated": 1664933731,
-  "item_size": 82520326,
+  "files_count": 1016,
+  "item_last_updated": 1664973610,
+  "item_size": 83045201,
   "metadata": {
     "identifier": "metropoles-2022",
     "collection": [
@@ -10462,7 +10524,7 @@
     "addeddate": "2022-08-07 19:43:57"
   },
   "server": "ia902506.us.archive.org",
-  "uniq": 722019662,
+  "uniq": 1738727543,
   "workable_servers": [
     "ia902506.us.archive.org",
     "ia802506.us.archive.org"

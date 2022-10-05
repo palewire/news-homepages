@@ -1,5 +1,5 @@
 {
-  "created": 1664943532,
+  "created": 1664973111,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/33/items/agenciapublica-2022",
@@ -10890,31 +10890,93 @@
       "sha1": "10f0900aa0cc50a98d604d8ba7298d42ac4db179"
     },
     {
+      "name": "agenciapublica-2022-10-05T09:18:59.886082-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664972374",
+      "size": "29251",
+      "md5": "87343e52c98dcc2cee3c843c5c4c1658",
+      "crc32": "c0fdc029",
+      "sha1": "66258a24a1e17f88503d75cda47eae2d13c87c50",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciapublica-2022-10-05T09:18:59.886082-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664972381",
+      "size": "23719",
+      "md5": "9446be3288391a14bc49f0c2b2243606",
+      "crc32": "52bd6d07",
+      "sha1": "3ad05ee666b27b412458b6f29c043d8da64f7f06",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciapublica-2022-10-05T09:18:59.886082-03:00.jpg",
+      "source": "original",
+      "mtime": "1664972368",
+      "size": "138374",
+      "md5": "645593d20dd582b001f0eea3e41aad02",
+      "crc32": "fc446fe2",
+      "sha1": "348a80d97d1c1a9c926ffadead38f0b2aac90b87",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "agenciapublica-2022-10-05T09:18:59.886082-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664972387",
+      "size": "1441",
+      "md5": "a895cc8542691021ae04a638737441e1",
+      "crc32": "1f0bf5b5",
+      "sha1": "e506e22013a28ac5d542e209d10a2d9e64419856",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciapublica-2022-10-05T09:18:59.886082-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664972395",
+      "size": "16215",
+      "md5": "863b90be2ee4794101d513a6c8ef602b",
+      "crc32": "c147c54b",
+      "sha1": "bf4f02d50db8f1d34bc7adb88241c9f580444c3d",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciapublica-2022-10-05T09:18:59.886082-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "agenciapublica-2022-10-05T09:18:59.886082-03:00.jpg",
+      "mtime": "1664972915",
+      "size": "8486",
+      "md5": "875ea00f8db2cb2aa682ad47bd3e9530",
+      "crc32": "f1d087a4",
+      "sha1": "10f0900aa0cc50a98d604d8ba7298d42ac4db179"
+    },
+    {
       "name": "agenciapublica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7d7acb798b5b47a43bf816a0ac7e801b4b72e557",
-      "mtime": "1664943513",
-      "size": "228305",
-      "md5": "9e16fe1da72025be9334cc883cab57a4",
-      "crc32": "1b3ad680",
-      "sha1": "8694e67ecc1a75cd56d37875fb9ac8d534c30435",
+      "btih": "0a6211df172f5763bb91c34bb409c08f2ac6b927",
+      "mtime": "1664972950",
+      "size": "229608",
+      "md5": "0d537da1997114cf5bf72d7a774ec0fd",
+      "crc32": "3b827731",
+      "sha1": "3eddef80aa181fefe735fa48f9a74c465e037bce",
       "format": "Archive BitTorrent"
     },
     {
       "name": "agenciapublica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5567f1ba5f67e74cc90d23ff95742892",
+      "md5": "9da50590a70a927206463babfbd09fd1",
       "summation": "md5"
     },
     {
       "name": "agenciapublica-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664943427",
-      "size": "1359872",
-      "md5": "b7aa71fe511425595b0f5ac8291616fa",
-      "crc32": "29455ced",
-      "sha1": "9d1f6218e45a59cb007bcdc47937da9f45583d86",
+      "mtime": "1664972764",
+      "size": "1372160",
+      "md5": "e0b17e5e177471e568ac2abeac478d75",
+      "crc32": "e8e28a78",
+      "sha1": "b7d2b88628c8fd55f2d84ddf33d21fdd189f73a9",
       "format": "Metadata"
     },
     {
@@ -10928,9 +10990,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1057,
-  "item_last_updated": 1664943513,
-  "item_size": 46718701,
+  "files_count": 1063,
+  "item_last_updated": 1664972950,
+  "item_size": 46949778,
   "metadata": {
     "identifier": "agenciapublica-2022",
     "collection": [
@@ -10948,7 +11010,7 @@
     "addeddate": "2022-08-04 04:55:45"
   },
   "server": "ia601508.us.archive.org",
-  "uniq": 430640090,
+  "uniq": 1480924787,
   "workable_servers": [
     "ia601508.us.archive.org",
     "ia801508.us.archive.org"

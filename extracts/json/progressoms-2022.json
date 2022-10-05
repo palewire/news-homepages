@@ -1,5 +1,5 @@
 {
-  "created": 1664954910,
+  "created": 1664973065,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/28/items/progressoms-2022",
@@ -10836,31 +10836,93 @@
       "sha1": "061bba729e5943c654a4295f495cd5d5b96585fb"
     },
     {
+      "name": "progressoms-2022-10-05T09:25:47.553444-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664972769",
+      "size": "1088",
+      "md5": "0d49dd5e1b95d99cef0ca8b0f53cad8d",
+      "crc32": "9a930de7",
+      "sha1": "896738b11d3116099f2b0455d3f461a2e829dbef",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-10-05T09:25:47.553444-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664972772",
+      "size": "33351",
+      "md5": "40fa41f81f045dc765a77530caa0cc5b",
+      "crc32": "61a29061",
+      "sha1": "f64a64d6e9a0ea8318d366ac1a8069739c9d9653",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-10-05T09:25:47.553444-03:00.jpg",
+      "source": "original",
+      "mtime": "1664972766",
+      "size": "291370",
+      "md5": "38e066573b701e64b535f80a3c8b5bf7",
+      "crc32": "cf20a00b",
+      "sha1": "9135cc4c210cecfdd388e5b5b784e94c7f84dbe0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "progressoms-2022-10-05T09:25:47.553444-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664972773",
+      "size": "1512",
+      "md5": "4297ffc3d9f85fcd0d2ad9923d7ad318",
+      "crc32": "db869e38",
+      "sha1": "a07cc20844d9c7fa0bf599cd8b2fade0d191ebbe",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-10-05T09:25:47.553444-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664972775",
+      "size": "12181",
+      "md5": "c973a2d9ee1b2f50ce490b0a665387be",
+      "crc32": "c1e477fe",
+      "sha1": "cf4e2089d57fb93034d54d61656cce9a4bd3f36f",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-10-05T09:25:47.553444-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "progressoms-2022-10-05T09:25:47.553444-03:00.jpg",
+      "mtime": "1664972987",
+      "size": "11181",
+      "md5": "1260192489b8b2d3a178654cc224d6a2",
+      "crc32": "15fd2e1d",
+      "sha1": "bb785f4145de632169e7b34915ed75738604ac65"
+    },
+    {
       "name": "progressoms-2022_archive.torrent",
       "source": "metadata",
-      "btih": "061770c6bc556dd9677f5e252ae73ef9507fad30",
-      "mtime": "1664954881",
-      "size": "224622",
-      "md5": "a42ba9e18f34e3746959a32833807fcc",
-      "crc32": "40dc9792",
-      "sha1": "b3649e899f8ccd60424ff6e3ca592d4a04a3ebae",
+      "btih": "923f540909d170ded5796bc2f4af7aeeba87b2a7",
+      "mtime": "1664973043",
+      "size": "225887",
+      "md5": "e85300dd7dc6d0f19bdb08b2a110b628",
+      "crc32": "da708052",
+      "sha1": "51634a92cb527926b52961db09e70461428101c6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "progressoms-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "06e1e4b2af6bcde200e7106b767c8040",
+      "md5": "5a93dc171c760a567e772a208e96a310",
       "summation": "md5"
     },
     {
       "name": "progressoms-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664954758",
-      "size": "1351680",
-      "md5": "6e3186252c57818ffe9e8c0b237e455e",
-      "crc32": "40b7ac9e",
-      "sha1": "0841f22a7640bc69720ec44fabd1f8f329573293",
+      "mtime": "1664972833",
+      "size": "1359872",
+      "md5": "3d4a12749bd3bb4404c1bf50436d9f3b",
+      "crc32": "9ba6ab81",
+      "sha1": "a2e17c9a2b26402afa21ec1060fa456a126c014b",
       "format": "Metadata"
     },
     {
@@ -10874,9 +10936,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1052,
-  "item_last_updated": 1664954881,
-  "item_size": 60570935,
+  "files_count": 1058,
+  "item_last_updated": 1664973043,
+  "item_size": 60931075,
   "metadata": {
     "identifier": "progressoms-2022",
     "collection": [
@@ -10894,7 +10956,7 @@
     "addeddate": "2022-08-04 04:56:28"
   },
   "server": "ia801506.us.archive.org",
-  "uniq": 317267721,
+  "uniq": 437736098,
   "workable_servers": [
     "ia801506.us.archive.org",
     "ia601506.us.archive.org"
