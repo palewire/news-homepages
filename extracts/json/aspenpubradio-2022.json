@@ -1,5 +1,13 @@
 {
-  "created": 1664900663,
+  "aspenpubradio-2022": {
+    "url": "https://www.aspenpublicradio.org/",
+    "job_id": "spn2-cbb7a2f58def481fa9056e52a4401f74ea5c4733",
+    "message": "Job failed.",
+    "resources": [],
+    "status": "error",
+    "status_ext": "error:job-failed"
+  },
+  "created": 1664946694,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/16/items/aspenpubradio-2022",
@@ -5276,31 +5284,93 @@
       "sha1": "5ea691f952a21d2d3c7d26b55174c6c63c8785ef"
     },
     {
+      "name": "aspenpubradio-2022-10-04T22:17:07.523095-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664943431",
+      "size": "22200",
+      "md5": "f37bd49b204b9d07c20e9e6fe6a3abb8",
+      "crc32": "6d82e3b4",
+      "sha1": "97c5993120995a7095d05360c71759da5f8b59cd",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-04T22:17:07.523095-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664943432",
+      "size": "39876",
+      "md5": "4ca30cfa6b68e78d1c8cbf0ecf5f8709",
+      "crc32": "d250c275",
+      "sha1": "b16b49a2b83f2ee83a0d74db102773b461200918",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-04T22:17:07.523095-06:00.jpg",
+      "source": "original",
+      "mtime": "1664943429",
+      "size": "325660",
+      "md5": "f6933f53b3e8766d7a9c70dcd22195d6",
+      "crc32": "a94a004e",
+      "sha1": "9fc2a7167ece34ebc0be78d8215dd29ece56d2a6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspenpubradio-2022-10-04T22:17:07.523095-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664943434",
+      "size": "1537",
+      "md5": "1f8f6227ea25c70436234d57c32fa3dc",
+      "crc32": "ac0ae3fd",
+      "sha1": "c82a08d0c87e128f7ac23d85dba4158bb761699a",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-04T22:17:07.523095-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1664943435",
+      "size": "213",
+      "md5": "cceb6c0fe0ddb612ff3cff7de887d881",
+      "crc32": "af91f9fa",
+      "sha1": "1af945cad902bffe59e8b01c179752b90b9b52f5",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-04T22:17:07.523095-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspenpubradio-2022-10-04T22:17:07.523095-06:00.jpg",
+      "mtime": "1664943508",
+      "size": "10672",
+      "md5": "2aa631d92f20161ba64c728f05813836",
+      "crc32": "b1adea40",
+      "sha1": "b6f568fa115700410b2f5ee22508b77f6776c6c0"
+    },
+    {
       "name": "aspenpubradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cc348e55d561e71e3196ed0afd19edfad38b8f6f",
-      "mtime": "1664900499",
-      "size": "111409",
-      "md5": "14c2ce84e63a6a6791194519d17a7084",
-      "crc32": "91d0faba",
-      "sha1": "5b6efe7a8eeda7b19028f782e53452b499e89aa3",
+      "btih": "ba4cb8a524f647a9e7321a4e79c08adf852d6825",
+      "mtime": "1664943515",
+      "size": "112705",
+      "md5": "be8c5b55db274679fabaf639999063db",
+      "crc32": "dcebe26a",
+      "sha1": "a890284788a2ac4dce7b7da23215834904a247e7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aspenpubradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b85a3321f62c7449030a1f42c20b72ab",
+      "md5": "ff72d8ded3f645a25319fd24382a9730",
       "summation": "md5"
     },
     {
       "name": "aspenpubradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664900435",
-      "size": "671744",
-      "md5": "5b930a280173dae0badad300339b05e3",
-      "crc32": "0ad9929e",
-      "sha1": "f1fa0a62d81390b5944e5b456542d81a14b20a46",
+      "mtime": "1664943444",
+      "size": "675840",
+      "md5": "0fc347384a17cad94a277e698d09d7e1",
+      "crc32": "141162e5",
+      "sha1": "c8785470b395c9ab5c12f074704e3a9f52faae02",
       "format": "Metadata"
     },
     {
@@ -5314,9 +5384,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 514,
-  "item_last_updated": 1664900499,
-  "item_size": 35914180,
+  "files_count": 520,
+  "item_last_updated": 1664943515,
+  "item_size": 36319730,
   "metadata": {
     "identifier": "aspenpubradio-2022",
     "collection": [
@@ -5334,7 +5404,7 @@
     "addeddate": "2022-08-22 13:02:32"
   },
   "server": "ia801405.us.archive.org",
-  "uniq": 524027265,
+  "uniq": 1057031549,
   "workable_servers": [
     "ia801405.us.archive.org",
     "ia601405.us.archive.org"
