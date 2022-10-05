@@ -1,6 +1,5 @@
 {
-  "conflict": 1664826875,
-  "created": 1664826875,
+  "created": 1664955289,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/33/items/wired-2022",
@@ -10755,31 +10754,206 @@
       "sha1": "72f6dbd9d511c532da8887fdfa700ccf69bfc7ed"
     },
     {
+      "name": "wired-2022-10-04T00:55:38.166903-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664870147",
+      "size": "37536",
+      "md5": "bb4213befdb6305eb526623f3fe2f6d8",
+      "crc32": "7df6131d",
+      "sha1": "58031a5786179c6999fcd328359befe831502ef6",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-10-04T00:55:38.166903-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664870149",
+      "size": "22550",
+      "md5": "485973d491785941e2078c9b8db7f30d",
+      "crc32": "22a04649",
+      "sha1": "6298261c1666216f2011d592038f83ef8decef9b",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-10-04T00:55:38.166903-07:00.jpg",
+      "source": "original",
+      "mtime": "1664870145",
+      "size": "295426",
+      "md5": "7257e0f43eb30a4c0b3adba0dd33c081",
+      "crc32": "2265a3a6",
+      "sha1": "491c18e5c6a73c413a0296131ec252ba7b9eb0f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wired-2022-10-04T00:55:38.166903-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664870151",
+      "size": "1450",
+      "md5": "40cced43e507d08a805f0782a8780c40",
+      "crc32": "fe12e6ca",
+      "sha1": "7c43f19e288d8983859a0ca7ea17532e4cf536ba",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-10-04T00:55:38.166903-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664870153",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-10-04T00:55:38.166903-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wired-2022-10-04T00:55:38.166903-07:00.jpg",
+      "mtime": "1664875910",
+      "size": "10785",
+      "md5": "d30e8c0e92cd1886e9129b45fda001a2",
+      "crc32": "c8ed4584",
+      "sha1": "e559ef8c4350a6bac758a0b926083dfe1cbdafad"
+    },
+    {
+      "name": "wired-2022-10-04T13:11:44.194952-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664914308",
+      "size": "37424",
+      "md5": "8ea9d8f0e32fb4432bc4638adabc624a",
+      "crc32": "8f644ec9",
+      "sha1": "d4c9bd4f7f3989b58ada869b0528dfa04415898a",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-10-04T13:11:44.194952-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664914310",
+      "size": "23763",
+      "md5": "7006f67a3eb1f1da8cbe5094c1a08517",
+      "crc32": "4129ca39",
+      "sha1": "5a620e3d0f417fee2c9ffc40c1af6b4d175f80b4",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-10-04T13:11:44.194952-07:00.jpg",
+      "source": "original",
+      "mtime": "1664914306",
+      "size": "301947",
+      "md5": "3f3b5aac9c8f098d497d34e5d3b6daf5",
+      "crc32": "9029cda3",
+      "sha1": "83e48f4d2220ab027888e35c0913da8e5fd20b7c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wired-2022-10-04T13:11:44.194952-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664914312",
+      "size": "1450",
+      "md5": "ac71c64a147f475b85cd5bcc48dbca7c",
+      "crc32": "82955ffb",
+      "sha1": "cac1eaa826f8a3160af155c74576bfff561e9c2e",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-10-04T13:11:44.194952-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664914313",
+      "size": "229",
+      "md5": "5fab3836976c90f5ec7a960ab03bcb46",
+      "crc32": "283ceb09",
+      "sha1": "937b41e4e4038a00f10fa0292a3fa0d76ff92051",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-10-04T13:11:44.194952-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wired-2022-10-04T13:11:44.194952-07:00.jpg",
+      "mtime": "1664914401",
+      "size": "10597",
+      "md5": "e882d557e59c74fe4225f94d936bbe00",
+      "crc32": "e25c8c2b",
+      "sha1": "7d6fe79744cfd682ab3541ea04671c3e76ef603d"
+    },
+    {
+      "name": "wired-2022-10-05T00:33:35.712220-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664955218",
+      "size": "37447",
+      "md5": "5efffeece2922756debfb03c54ab9eb8",
+      "crc32": "ad61b18d",
+      "sha1": "eaf1b040511e04555aeac35f0503ab3759e293bf",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-10-05T00:33:35.712220-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664955220",
+      "size": "22216",
+      "md5": "22a31627097853ebcf4523353be01e27",
+      "crc32": "b405d461",
+      "sha1": "0c1a678b900e9a87dbb9bdd801787a28cce7cf1c",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-10-05T00:33:35.712220-07:00.jpg",
+      "source": "original",
+      "mtime": "1664955216",
+      "size": "284293",
+      "md5": "627cdd601ca7fe5ef92b183f79e0de37",
+      "crc32": "3ee37f3f",
+      "sha1": "27aadbdaac31472dcd0031306019e9e64226f0d4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wired-2022-10-05T00:33:35.712220-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664955221",
+      "size": "1450",
+      "md5": "0f7e915c2590a7e8ec343f5f102f1e62",
+      "crc32": "c57f5a9e",
+      "sha1": "a1b4adf08686931cb9ac2e3430411b80664e38dd",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-10-05T00:33:35.712220-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1664955223",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "wired-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ce8abd67a50c1b496c125563c6dae1f85e114a12",
-      "mtime": "1664826871",
-      "size": "216560",
-      "md5": "4f8a1c94950072969d518068ace4a415",
-      "crc32": "8870c59b",
-      "sha1": "63d56005af5893d06a4cb6bf8232cfb21d401bcd",
+      "btih": "c86e0d6ed5955922ff7560d6e1b56598214dbf64",
+      "mtime": "1664955285",
+      "size": "220082",
+      "md5": "319a65e9701a9d12622e085a9df0f823",
+      "crc32": "d3e7831d",
+      "sha1": "4aa49306a429b89fd2a7d82d7698d01f57bf0719",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wired-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3c37579a7c80442250661e6905f87a94",
+      "md5": "970ee379d6b5ae5398a775bb8567586a",
       "summation": "md5"
     },
     {
       "name": "wired-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664824683",
-      "size": "1294336",
-      "md5": "8d72992cada8f901c5752d7dafd1dff3",
-      "crc32": "80728b91",
-      "sha1": "e7b51e53994522bdef7cb3cd5cdbf985a161c690",
+      "mtime": "1664955233",
+      "size": "1314816",
+      "md5": "34d676b6e73baedb54e2e9e535f48ce0",
+      "crc32": "d8c7d150",
+      "sha1": "3b6674d649762244b9135a0289c34397f1f1023c",
       "format": "Metadata"
     },
     {
@@ -10793,9 +10967,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1040,
-  "item_last_updated": 1664826871,
-  "item_size": 78130891,
+  "files_count": 1057,
+  "item_last_updated": 1664955285,
+  "item_size": 79243860,
   "metadata": {
     "identifier": "wired-2022",
     "collection": [
@@ -10817,15 +10991,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3427329492,
-      "cmd": "bup.php",
-      "priority": -5,
+      "task_id": 3429418677,
+      "cmd": "derive.php",
+      "priority": -6,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     }
   ],
-  "uniq": 406491253,
+  "uniq": 650479132,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

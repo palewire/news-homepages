@@ -1,5 +1,5 @@
 {
-  "created": 1664824576,
+  "created": 1664955333,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/0/items/townhallcom-2022",
@@ -13175,31 +13175,352 @@
       "format": "JSON"
     },
     {
+      "name": "townhallcom-2022-10-03T15:13:57.648375-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "townhallcom-2022-10-03T15:13:57.648375-04:00.jpg",
+      "mtime": "1664827386",
+      "size": "9261",
+      "md5": "13e13751bead76909567d818f9c6af73",
+      "crc32": "46dc655a",
+      "sha1": "e6fd6835a7bc4f903d84b6e1ca1233b3dcf2a75c"
+    },
+    {
+      "name": "townhallcom-2022-10-03T15:51:51.024404-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664826714",
+      "size": "40139",
+      "md5": "ff6a3d909823c7ce7bfac55e4c5a3548",
+      "crc32": "8fbb6543",
+      "sha1": "e54ca2a76f51f9602294a6fcc4f1eac54a8989fd",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-03T15:51:51.024404-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664826716",
+      "size": "37271",
+      "md5": "211d3ff4798cdb15ac3d6242ca6d9825",
+      "crc32": "797a620c",
+      "sha1": "8333bd9de353aa48c7418377f38078f98ddb7140",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-03T15:51:51.024404-04:00.jpg",
+      "source": "original",
+      "mtime": "1664826713",
+      "size": "237940",
+      "md5": "0903d19beb1d44a331640a3d4998356d",
+      "crc32": "ef5ce7d9",
+      "sha1": "32857e99368cccecb08dda0538ca9ab224bedb3e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "townhallcom-2022-10-03T15:51:51.024404-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664826718",
+      "size": "1440",
+      "md5": "04bba39c21309c2e3b13d1d72d022f1b",
+      "crc32": "9696eb75",
+      "sha1": "5470273c310da7b58d461c9cf802f42ffa372ab3",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-03T15:51:51.024404-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664826720",
+      "size": "33127",
+      "md5": "825a62b8e614d07d32760a72e59fa309",
+      "crc32": "314eebd4",
+      "sha1": "bf5561e8963e3151da1ebb625915a3794ecf7c74",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-03T15:51:51.024404-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "townhallcom-2022-10-03T15:51:51.024404-04:00.jpg",
+      "mtime": "1664829473",
+      "size": "9322",
+      "md5": "e81c9de6271bfb575cd3987ecd5f418d",
+      "crc32": "a9e30d1b",
+      "sha1": "35695aca255c1e05c59aa163ad65a7d3409fb71e"
+    },
+    {
+      "name": "townhallcom-2022-10-04T03:53:10.892038-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664869994",
+      "size": "40853",
+      "md5": "b8ab9bba9fa94701a1240f6baa4902fc",
+      "crc32": "62e5c811",
+      "sha1": "5dc649bef287cffba98eda214f233aa9b694e6b8",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-04T03:53:10.892038-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664869996",
+      "size": "38690",
+      "md5": "4e37e64d5088f9fc9d07ef6bc5d7f26b",
+      "crc32": "29a8a94a",
+      "sha1": "94cd710ce3a48a23d11cca3bb8ac641090befed4",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-04T03:53:10.892038-04:00.jpg",
+      "source": "original",
+      "mtime": "1664869992",
+      "size": "234863",
+      "md5": "3cd7cdc99fb6948f6643d415c5611bca",
+      "crc32": "72076d08",
+      "sha1": "f0bd05675379b29663386b98c7811012a9523be1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "townhallcom-2022-10-04T03:53:10.892038-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664869997",
+      "size": "1441",
+      "md5": "91f347269a66e2c9c397a11bef397e12",
+      "crc32": "75bf0447",
+      "sha1": "dd53f02566b45d1cd3ae511c4a2f46e6f2888a4b",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-04T03:53:10.892038-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664869999",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-04T03:53:10.892038-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "townhallcom-2022-10-04T03:53:10.892038-04:00.jpg",
+      "mtime": "1664875909",
+      "size": "9122",
+      "md5": "5acc64feb20ff7c03be94465cb5a8a6a",
+      "crc32": "208ad45d",
+      "sha1": "a4614e6cf5432806db05e9520b79e7bd94e25025"
+    },
+    {
+      "name": "townhallcom-2022-10-04T16:09:15.813718-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664914158",
+      "size": "40905",
+      "md5": "97ca1e648af082ae89781555f1d8817e",
+      "crc32": "e392822b",
+      "sha1": "144b06d7a3935d3d798f4abff1c24bf0562199d5",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-04T16:09:15.813718-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664914160",
+      "size": "38113",
+      "md5": "3962fdc18d871a5572d1e20f98b8f7dc",
+      "crc32": "b3f4c77a",
+      "sha1": "adc5406bc3b514255120d3aee39926b85578ffad",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-04T16:09:15.813718-04:00.jpg",
+      "source": "original",
+      "mtime": "1664914157",
+      "size": "225521",
+      "md5": "8235719d160dca35fb9da704c2b561ed",
+      "crc32": "9ec836e4",
+      "sha1": "9bc43e56e031f2fdbdd94ef90ce7650779abb885",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "townhallcom-2022-10-04T16:09:15.813718-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664914161",
+      "size": "1441",
+      "md5": "fcb811148e0f3ce6a99c63d6b34a3132",
+      "crc32": "39284811",
+      "sha1": "0563808415a3e82c381dcdf3805fb5bce0c2335e",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-04T16:09:15.813718-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664914163",
+      "size": "53857",
+      "md5": "a0cf5592f07dae1bb90a46a170cf52c3",
+      "crc32": "e0b500dc",
+      "sha1": "4a77a723d5d5b0a9b9ed74b0954d77564d5c52d8",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-04T16:09:15.813718-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "townhallcom-2022-10-04T16:09:15.813718-04:00.jpg",
+      "mtime": "1664914252",
+      "size": "8826",
+      "md5": "d12dae5fc833e45e3f69b09452122f39",
+      "crc32": "24aa6432",
+      "sha1": "5ee6bc0dd52915f7dce025f73e49e8d59c467ea6"
+    },
+    {
+      "name": "townhallcom-2022-10-04T16:15:54.488336-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664914557",
+      "size": "40741",
+      "md5": "f4de53760b941d0908e0868cebc9c8b4",
+      "crc32": "54627144",
+      "sha1": "f62ef957309595b120cf9b5dff95811fb6cc8134",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-04T16:15:54.488336-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664914559",
+      "size": "38357",
+      "md5": "a809e2781792f8a6f8f2066e6740b552",
+      "crc32": "186f361d",
+      "sha1": "16c3f4719d3f7a3b7d5251abbe701d0dacb7b49b",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-04T16:15:54.488336-04:00.jpg",
+      "source": "original",
+      "mtime": "1664914556",
+      "size": "237427",
+      "md5": "200eb8ee02820153b3d84a5b8f5f066e",
+      "crc32": "1af963ad",
+      "sha1": "3d8a40945b3ae5d6a65c25da12c98708c6a6f821",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "townhallcom-2022-10-04T16:15:54.488336-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664914561",
+      "size": "1440",
+      "md5": "50ff246d7f4e6c108357fd9fbb26642a",
+      "crc32": "175e9d58",
+      "sha1": "fa10537c4683b9fb1454e3b93fb89d752cfd244e",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-04T16:15:54.488336-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664914563",
+      "size": "228",
+      "md5": "d996dea945cc8ccd65661876d613c89b",
+      "crc32": "f2af99cc",
+      "sha1": "e8f77fe0b3eecfc9560d8bfbc3fc16cd9af6290f",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-04T16:15:54.488336-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "townhallcom-2022-10-04T16:15:54.488336-04:00.jpg",
+      "mtime": "1664914646",
+      "size": "9209",
+      "md5": "2205906ad8ea25eff027c63cec346e82",
+      "crc32": "7ff24248",
+      "sha1": "9587148300c5b02c72bf8263fe1948119be5ed1f"
+    },
+    {
+      "name": "townhallcom-2022-10-05T03:32:38.549459-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664955162",
+      "size": "40672",
+      "md5": "63a81bc9a08815969a32c49d658ccd7b",
+      "crc32": "6c8b42b4",
+      "sha1": "2deada7a6eacb6e4a5d27b1e167a1ead224384d8",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-05T03:32:38.549459-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664955163",
+      "size": "38108",
+      "md5": "55da279bc217ae4cf9f124eed0a99695",
+      "crc32": "3a5d0215",
+      "sha1": "56c12fa7c4fb1df815b74eaa9094b3f99cc9b4d2",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-05T03:32:38.549459-04:00.jpg",
+      "source": "original",
+      "mtime": "1664955160",
+      "size": "253970",
+      "md5": "740c5a3256fe5e0cfc7ff1648064eaaa",
+      "crc32": "b6a6bff5",
+      "sha1": "ec9977aec6649e23d9d0e190f08b940f601688c2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "townhallcom-2022-10-05T03:32:38.549459-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664955164",
+      "size": "1441",
+      "md5": "8914e1ca94c14fb7a318d5d4748f9343",
+      "crc32": "1090df88",
+      "sha1": "a8c4a8168d745a2d858090a1333ce1c7cfb05361",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-05T03:32:38.549459-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664955166",
+      "size": "53379",
+      "md5": "23f55a2a119ee81adeb9db1c0b298e81",
+      "crc32": "cda57731",
+      "sha1": "d510bebbf81970d8cc17f11fdba11dab57f8b661",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-05T03:32:38.549459-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "townhallcom-2022-10-05T03:32:38.549459-04:00.jpg",
+      "mtime": "1664955283",
+      "size": "9378",
+      "md5": "62991568d01216bf09f8e7bf18e2895d",
+      "crc32": "9c9d132a",
+      "sha1": "e963c84a176f97320c08e091157ef2efbfbf79b4"
+    },
+    {
       "name": "townhallcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c43f0f0e171f3ecdf0fa808d79828cd7bfad417a",
-      "mtime": "1664824568",
-      "size": "272491",
-      "md5": "16d2fc2d424c7ad0db1b953e5e8ef5e5",
-      "crc32": "0ad0c2f1",
-      "sha1": "31dbc2e9fa1243368130ab56fcac14323caaff6e",
+      "btih": "125b2900a5e49b5158da906bbcfaa1878abfc083",
+      "mtime": "1664955300",
+      "size": "279099",
+      "md5": "6c9658406ed2cb6940c13adc26baabf1",
+      "crc32": "914d4a6c",
+      "sha1": "e62fff34dfae1ff528f585f487eaa88b24b9d7b0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "townhallcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "94ab5a386541d3248234fdc742e2be97",
+      "md5": "1ce61976e0759ee14aa812a868a028d7",
       "summation": "md5"
     },
     {
       "name": "townhallcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664824512",
-      "size": "1613824",
-      "md5": "943501c78134bdcb5fb16a647db43798",
-      "crc32": "fa2f3b0c",
-      "sha1": "0380769f03456c9407eed13f1755e88a47d5d935",
+      "mtime": "1664955170",
+      "size": "1658880",
+      "md5": "a7ca6ae2a12802b4fe7f35a5ae8ba5a5",
+      "crc32": "d173663b",
+      "sha1": "fd876215817e1a1d7b701406800017ac9ef93f39",
       "format": "Metadata"
     },
     {
@@ -13213,9 +13534,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1276,
-  "item_last_updated": 1664824568,
-  "item_size": 80360300,
+  "files_count": 1307,
+  "item_last_updated": 1664955300,
+  "item_size": 82198648,
   "metadata": {
     "identifier": "townhallcom-2022",
     "collection": [
@@ -13232,61 +13553,10 @@
     "publicdate": "2022-07-17 15:04:11",
     "addeddate": "2022-07-17 15:04:11"
   },
-  "pending_tasks": true,
-  "server": "ia601508.us.archive.org",
+  "server": "ia801508.us.archive.org",
   "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3427299445,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3427327109,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3427327138,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3427327174,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3427327210,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3427327233,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 540512057,
+  "uniq": 2068086771,
   "workable_servers": [
-    "ia601508.us.archive.org"
+    "ia801508.us.archive.org"
   ]
 }
