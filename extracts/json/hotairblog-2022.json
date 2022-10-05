@@ -1,5 +1,5 @@
 {
-  "created": 1665001819,
+  "created": 1665003725,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/16/items/hotairblog-2022",
@@ -13486,31 +13486,93 @@
       "sha1": "54d6a14b02c4a41a3791bdef47fc25784fee95ad"
     },
     {
+      "name": "hotairblog-2022-10-05T16:58:40.747906-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665003524",
+      "size": "39501",
+      "md5": "f3a54009bec8cd01674822bf7eac3c25",
+      "crc32": "fbfde9bd",
+      "sha1": "9141818de934976dfc3e9e5133da612b562fe34f",
+      "format": "JSON"
+    },
+    {
+      "name": "hotairblog-2022-10-05T16:58:40.747906-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665003526",
+      "size": "30525",
+      "md5": "b62331887f4683710606094c6bd50d1d",
+      "crc32": "05209393",
+      "sha1": "583d6a38a5f24b807d3a089f4c5607f2131fc7fa",
+      "format": "JSON"
+    },
+    {
+      "name": "hotairblog-2022-10-05T16:58:40.747906-04:00.jpg",
+      "source": "original",
+      "mtime": "1665003522",
+      "size": "279726",
+      "md5": "0f10fc81551a871675954f2a64144e0a",
+      "crc32": "ab8f8900",
+      "sha1": "b78fa286b8c19f1d76350b6fa20eff894fd0ec1d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hotairblog-2022-10-05T16:58:40.747906-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665003527",
+      "size": "1423",
+      "md5": "c0a6072d1a164876e69410bc9914ee99",
+      "crc32": "43e83363",
+      "sha1": "0a92cd33fd672bc406cf87a47fafa596c7f9ae41",
+      "format": "JSON"
+    },
+    {
+      "name": "hotairblog-2022-10-05T16:58:40.747906-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665003529",
+      "size": "37202",
+      "md5": "7fb4de99432301740abdb2692cccb99c",
+      "crc32": "302eb36c",
+      "sha1": "d4bb5b4b61cb3b1557890e1e593d1932742907eb",
+      "format": "JSON"
+    },
+    {
+      "name": "hotairblog-2022-10-05T16:58:40.747906-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hotairblog-2022-10-05T16:58:40.747906-04:00.jpg",
+      "mtime": "1665003659",
+      "size": "9581",
+      "md5": "df9d303c3ea0d56d50dfc15667c08d0d",
+      "crc32": "1649fe73",
+      "sha1": "0f9ef62ce3b2228811ac51e0b0e56a2620021632"
+    },
+    {
       "name": "hotairblog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bc3d5944e1992dd887d2c0301d01086068c22f21",
-      "mtime": "1664993832",
-      "size": "277810",
-      "md5": "937a46845474cae3c2604bea772a0504",
-      "crc32": "014d00db",
-      "sha1": "6772f183cc10c5a03400a154360482ac78ef4911",
+      "btih": "65bf09794a726cae62bc3b6dbcc8299f43d524c8",
+      "mtime": "1665003682",
+      "size": "279089",
+      "md5": "5f3ef938d2fc57732aa6a2ad97f179d7",
+      "crc32": "fc462c36",
+      "sha1": "ec8827fae82a439573538b0fa1712ea14d4ea05b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hotairblog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "542bcd838b48b681a41102cd689a2cb1",
+      "md5": "845ebb45ca9374f40bfc3ffa9606e163",
       "summation": "md5"
     },
     {
       "name": "hotairblog-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664993676",
-      "size": "1646592",
-      "md5": "97f1cbd2f172413928c459bc22e2dc95",
-      "crc32": "fe91155c",
-      "sha1": "12d6727cd35d701734960759b00a9b795977082c",
+      "mtime": "1665003536",
+      "size": "1658880",
+      "md5": "3de4ffd1395f8d7ab026fd51c738b0a2",
+      "crc32": "76a57cb1",
+      "sha1": "1aa290371fa3465fc9881c6d33f6ee4adc590287",
       "format": "Metadata"
     },
     {
@@ -13524,9 +13586,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1306,
-  "item_last_updated": 1664993832,
-  "item_size": 87187545,
+  "files_count": 1312,
+  "item_last_updated": 1665003682,
+  "item_size": 87599070,
   "metadata": {
     "identifier": "hotairblog-2022",
     "collection": [
@@ -13544,7 +13606,7 @@
     "addeddate": "2022-07-17 15:03:29"
   },
   "server": "ia801506.us.archive.org",
-  "uniq": 1819868875,
+  "uniq": 671562062,
   "workable_servers": [
     "ia801506.us.archive.org",
     "ia601506.us.archive.org"
