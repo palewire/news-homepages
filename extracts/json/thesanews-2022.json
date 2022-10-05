@@ -1,5 +1,5 @@
 {
-  "created": 1664900049,
+  "created": 1664940846,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/13/items/thesanews-2022",
@@ -5276,31 +5276,93 @@
       "sha1": "8cb54dba45cad99a5835d1f8a5762fcbdb59ec25"
     },
     {
+      "name": "thesanews-2022-10-05T05:32:37.659732+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664940763",
+      "size": "52874",
+      "md5": "f6c30d23be17aebec45a78751221fa03",
+      "crc32": "87325f3a",
+      "sha1": "751af30b8d648e4658ca1a8e53d453e48c45fdc2",
+      "format": "JSON"
+    },
+    {
+      "name": "thesanews-2022-10-05T05:32:37.659732+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664940765",
+      "size": "46412",
+      "md5": "30b3d85aa65bda97a90444f070431c30",
+      "crc32": "c759b972",
+      "sha1": "3d412ea599f3036c5786acdd4a18c083de044754",
+      "format": "JSON"
+    },
+    {
+      "name": "thesanews-2022-10-05T05:32:37.659732+02:00.jpg",
+      "source": "original",
+      "mtime": "1664940761",
+      "size": "301671",
+      "md5": "0dc96ca5a3dc5064daaff5055aeee4bc",
+      "crc32": "69df02ef",
+      "sha1": "2cd5af5e777671d7e15a03d8bb397e3aeff86247",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thesanews-2022-10-05T05:32:37.659732+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664940766",
+      "size": "1540",
+      "md5": "814f634e9b42269336cedd0f3556c9a6",
+      "crc32": "ab3d054a",
+      "sha1": "66c74169a32e47047f079bc890414ff99e22eea7",
+      "format": "JSON"
+    },
+    {
+      "name": "thesanews-2022-10-05T05:32:37.659732+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1664940768",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thesanews-2022-10-05T05:32:37.659732+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thesanews-2022-10-05T05:32:37.659732+02:00.jpg",
+      "mtime": "1664940825",
+      "size": "11068",
+      "md5": "b61017aa47384118a7ff8ecaa824faa5",
+      "crc32": "e320ad05",
+      "sha1": "23fff38ba64b471cca7e92eaf3b858738aba6f58"
+    },
+    {
       "name": "thesanews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "99d1e0922645ccbb332e4e7fd967674737d2d788",
-      "mtime": "1664896463",
-      "size": "109361",
-      "md5": "f62becae48c8089bed94ea13438998f2",
-      "crc32": "267ba7f2",
-      "sha1": "ef142f0ca8a31390f51c41bcaeacbf56059b5e03",
+      "btih": "7378bbdf32f533d62dc77ec109b37c0808fdd79d",
+      "mtime": "1664940830",
+      "size": "110633",
+      "md5": "4d287a432852b0bd10cf036fdf37000d",
+      "crc32": "a906cb95",
+      "sha1": "09b31d0580d17e8987f803464a842857d91e9ead",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thesanews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c575ca0d802aa178a4bb3d398305eaab",
+      "md5": "3c01c365938cacdfa055ee9d6575ca4c",
       "summation": "md5"
     },
     {
       "name": "thesanews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664896389",
-      "size": "671744",
-      "md5": "197561701559e4ba20ddd63b678c1efd",
-      "crc32": "35d54001",
-      "sha1": "e36b106101753b363b08601668305dbe69516d63",
+      "mtime": "1664940772",
+      "size": "675840",
+      "md5": "1c844b161267f459d9f611967be587c6",
+      "crc32": "b6ae08f6",
+      "sha1": "d9891b29cb2a67004e30aa485232f23d9cdacf60",
       "format": "Metadata"
     },
     {
@@ -5314,9 +5376,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 514,
-  "item_last_updated": 1664896463,
-  "item_size": 37084559,
+  "files_count": 520,
+  "item_last_updated": 1664940830,
+  "item_size": 37503694,
   "metadata": {
     "identifier": "thesanews-2022",
     "collection": [
@@ -5333,18 +5395,10 @@
     "publicdate": "2022-08-22 22:03:24",
     "addeddate": "2022-08-22 22:03:24"
   },
-  "server": "ia601403.us.archive.org",
-  "thesanews-2022": {
-    "url": "https://www.thesouthafrican.com/",
-    "job_id": "spn2-71a721445492f2aad01cd316462374e90fb4fa29",
-    "status": "error",
-    "status_ext": "error:job-failed",
-    "resources": [],
-    "message": "Job failed."
-  },
-  "uniq": 1719190742,
+  "server": "ia801403.us.archive.org",
+  "uniq": 2020932420,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia801403.us.archive.org",
+    "ia601403.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1664897155,
+  "created": 1664941164,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/13/items/uolnoticias-2022",
@@ -10980,31 +10980,93 @@
       "sha1": "e8bc6fbef698162208be26943323cd5ec90ce8d0"
     },
     {
+      "name": "uolnoticias-2022-10-05T00:34:47.530470-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664940897",
+      "size": "17202",
+      "md5": "a657eb20c317854d52bce7066151330a",
+      "crc32": "888ed9c5",
+      "sha1": "76675c7afd48d62304e0dc6a7a5f0f6db9e88d4b",
+      "format": "JSON"
+    },
+    {
+      "name": "uolnoticias-2022-10-05T00:34:47.530470-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664940898",
+      "size": "25052",
+      "md5": "3ab85307bb660faf6695a2dabba3d738",
+      "crc32": "9645fbe1",
+      "sha1": "5c2de3ae13a3bad2e8b295ba053e1b98ac565bf3",
+      "format": "JSON"
+    },
+    {
+      "name": "uolnoticias-2022-10-05T00:34:47.530470-03:00.jpg",
+      "source": "original",
+      "mtime": "1664940895",
+      "size": "193778",
+      "md5": "332feb841d7f58bdd7d3e3218d6e6ee9",
+      "crc32": "43c37d7e",
+      "sha1": "bb721876af44c1b6b91e2613889f07d080635a93",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uolnoticias-2022-10-05T00:34:47.530470-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664940900",
+      "size": "1504",
+      "md5": "8c71583d564a12eff70448343bb3e4c3",
+      "crc32": "55d5affd",
+      "sha1": "c2846c7de9b8acb9ba59b89e7e7bfe5d74408eb6",
+      "format": "JSON"
+    },
+    {
+      "name": "uolnoticias-2022-10-05T00:34:47.530470-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1664940902",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "uolnoticias-2022-10-05T00:34:47.530470-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uolnoticias-2022-10-05T00:34:47.530470-03:00.jpg",
+      "mtime": "1664941004",
+      "size": "8598",
+      "md5": "b60744483d387436b287144a57bb7960",
+      "crc32": "525dede2",
+      "sha1": "dc6f768fd43f3bbf55b82fc979fa61f3f87e1670"
+    },
+    {
       "name": "uolnoticias-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5aeaf7fc5141be9ca8fd01e744567c33bc3ccdc3",
-      "mtime": "1664896843",
-      "size": "227355",
-      "md5": "e70e6a13d61094bfff01a03bf613dae1",
-      "crc32": "36586f84",
-      "sha1": "5d40ccaf387ee87111eabe04e9224ee6be441cd0",
+      "btih": "a06cd64b0cf03b2cae71ebea651523f518e2a449",
+      "mtime": "1664941043",
+      "size": "228638",
+      "md5": "04ecc4c985751f40e5888babe9022bb6",
+      "crc32": "1cb74847",
+      "sha1": "8219a842c40e1c31131c3e112e7396647b22cd11",
       "format": "Archive BitTorrent"
     },
     {
       "name": "uolnoticias-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "78371213c463c53f1023b9fa5b5c369b",
+      "md5": "7a89697436b4b6a1d4edb4f14eb41d37",
       "summation": "md5"
     },
     {
       "name": "uolnoticias-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664896485",
-      "size": "1368064",
-      "md5": "e56cb40cc175f8ff1d649046a43e3aad",
-      "crc32": "a4778181",
-      "sha1": "663665a156a4198f46c3879f38e47ee700e009eb",
+      "mtime": "1664940906",
+      "size": "1376256",
+      "md5": "cc002d8498316d66989f82f801a168b8",
+      "crc32": "45ae1635",
+      "sha1": "5df9bc3ca1f0c0b2f22b5718655241e8a648e36f",
       "format": "Metadata"
     },
     {
@@ -11018,9 +11080,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1066,
-  "item_last_updated": 1664896843,
-  "item_size": 56242458,
+  "files_count": 1072,
+  "item_last_updated": 1664941043,
+  "item_size": 56498269,
   "metadata": {
     "identifier": "uolnoticias-2022",
     "collection": [
@@ -11037,10 +11099,10 @@
     "publicdate": "2022-08-03 02:00:23",
     "addeddate": "2022-08-03 02:00:23"
   },
-  "server": "ia801509.us.archive.org",
-  "uniq": 159763575,
+  "server": "ia601509.us.archive.org",
+  "uniq": 1385211818,
   "workable_servers": [
-    "ia801509.us.archive.org",
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1664900176,
+  "created": 1664940938,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/26/items/timesrecorder-2022",
@@ -1732,31 +1732,93 @@
       "sha1": "f1a6d5fdc9ecb9e7abeb5bddc3d0ab5f766a1478"
     },
     {
+      "name": "timesrecorder-2022-10-04T23:34:21.601363-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664940864",
+      "size": "22211",
+      "md5": "b52e73d3fa0bce1e45a0752cbfb44bd0",
+      "crc32": "4ef44441",
+      "sha1": "882aa8375d6764e6284479b4a7ff57051737a1ad",
+      "format": "JSON"
+    },
+    {
+      "name": "timesrecorder-2022-10-04T23:34:21.601363-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664940866",
+      "size": "46516",
+      "md5": "87cb837e98e0d9370dfc9b718edf3e27",
+      "crc32": "1e1a1cba",
+      "sha1": "95960d9970a1e95f766b6b3b610afe1b7d6ba285",
+      "format": "JSON"
+    },
+    {
+      "name": "timesrecorder-2022-10-04T23:34:21.601363-04:00.jpg",
+      "source": "original",
+      "mtime": "1664940863",
+      "size": "277172",
+      "md5": "bad957952e85afa177f74af96ba124fe",
+      "crc32": "e5340e85",
+      "sha1": "e1d7ee79f8cda111446895d2fd95a44899fce1c0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "timesrecorder-2022-10-04T23:34:21.601363-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664940868",
+      "size": "1612",
+      "md5": "37e27c1fc9caee3f87581bce2dd22cd9",
+      "crc32": "fcfb35a0",
+      "sha1": "b7b8eeebe8254ac95ce2c48d60c69c50e87f00ed",
+      "format": "JSON"
+    },
+    {
+      "name": "timesrecorder-2022-10-04T23:34:21.601363-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664940870",
+      "size": "121336",
+      "md5": "29170cca547ee3d7eccb463dacdfb9dd",
+      "crc32": "f3d658a5",
+      "sha1": "2da8a3d203c44e91ccdc624ef37056c694d0054c",
+      "format": "JSON"
+    },
+    {
+      "name": "timesrecorder-2022-10-04T23:34:21.601363-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timesrecorder-2022-10-04T23:34:21.601363-04:00.jpg",
+      "mtime": "1664940926",
+      "size": "9238",
+      "md5": "6adee7965a00a29bdadb18b858e09a37",
+      "crc32": "1e703726",
+      "sha1": "323cd913ce36d74ece4084a7015d218271c1bb9c"
+    },
+    {
       "name": "timesrecorder-2022_archive.torrent",
       "source": "metadata",
-      "btih": "feadc1a18d72b1b1cb215184cfc076b80c228c38",
-      "mtime": "1664897476",
-      "size": "37459",
-      "md5": "f35f5c4a4b566e0e420f4f0872fd85eb",
-      "crc32": "77e0d0df",
-      "sha1": "0f6335c3486025c61972ebb613f000b500564a26",
+      "btih": "1faebc1ebf4a4bf76b1a0fccd4ff13b360b86b3c",
+      "mtime": "1664940930",
+      "size": "38737",
+      "md5": "ea8c13722775cc42d10cfd20fad94bae",
+      "crc32": "b878321e",
+      "sha1": "b7eb114f832ea44bd24f1525863a9dd9e0a62844",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesrecorder-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9c0a19a827fa3084e38c02652a631d27",
+      "md5": "467fcd07fa9d14287b2dbb9aa8658a8d",
       "summation": "md5"
     },
     {
       "name": "timesrecorder-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664896811",
-      "size": "233472",
-      "md5": "8f9aaac15ce595b66478dce56c3674f0",
-      "crc32": "70cdd69d",
-      "sha1": "2b39096b3cf08dc7b8b2580aeea3f213d27db699",
+      "mtime": "1664940880",
+      "size": "241664",
+      "md5": "65f2a5fccaf86f5c39fa4cddcdfe1026",
+      "crc32": "b5e2363e",
+      "sha1": "b3688fafe9e8f23f9584c423d4227f75fadf134b",
       "format": "Metadata"
     },
     {
@@ -1770,9 +1832,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 171,
-  "item_last_updated": 1664897476,
-  "item_size": 12131414,
+  "files_count": 177,
+  "item_last_updated": 1664940930,
+  "item_size": 12618969,
   "metadata": {
     "identifier": "timesrecorder-2022",
     "collection": [
@@ -1789,18 +1851,10 @@
     "publicdate": "2022-09-21 03:47:00",
     "addeddate": "2022-09-21 03:47:00"
   },
-  "server": "ia801404.us.archive.org",
-  "timesrecorder-2022": {
-    "url": "https://www.zanesvilletimesrecorder.com/",
-    "job_id": "spn2-654cef18d2d76d371b3d580d94fa33e7f0ccf252",
-    "status": "error",
-    "status_ext": "error:job-failed",
-    "message": "Job failed.",
-    "resources": []
-  },
-  "uniq": 129803657,
+  "server": "ia601404.us.archive.org",
+  "uniq": 1114170837,
   "workable_servers": [
-    "ia801404.us.archive.org",
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1664896259,
+  "created": 1664940752,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/30/items/the_daily_world-2022",
@@ -1742,31 +1742,93 @@
       "sha1": "de8d1c3c8b8cbafe5b10848d1d0125ba23810d84"
     },
     {
+      "name": "the_daily_world-2022-10-04T22:29:52.764646-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664940598",
+      "size": "19013",
+      "md5": "05c552f6854c541f1e8b13ab6c744f9a",
+      "crc32": "0111acf4",
+      "sha1": "fcf73ed217be426fe97ed461586f19c466921fa6",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-04T22:29:52.764646-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664940599",
+      "size": "30626",
+      "md5": "66643ad125426f8b5b9057a099b09bee",
+      "crc32": "e1edd17a",
+      "sha1": "930317424b479acde9e7a3fc3f1e7da943d9dc7a",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-04T22:29:52.764646-05:00.jpg",
+      "source": "original",
+      "mtime": "1664940595",
+      "size": "242199",
+      "md5": "59198ae72271c44f158f170ba078627c",
+      "crc32": "30d0f57e",
+      "sha1": "fda63bb82ab1f264ef2ab65c6aff579d637d3570",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the_daily_world-2022-10-04T22:29:52.764646-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664940601",
+      "size": "1495",
+      "md5": "7a4cfa16338217f230a0bd435f0938d3",
+      "crc32": "0af1f033",
+      "sha1": "f21166ec4e7cfb8e9c92c877e6a67578b0373fa1",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-04T22:29:52.764646-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1664940604",
+      "size": "133726",
+      "md5": "8f6dff18858c86e58d1d39fff095ed64",
+      "crc32": "3df797e5",
+      "sha1": "9221e5eb0c80d028c70b75370c3d64b60deecea2",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-04T22:29:52.764646-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the_daily_world-2022-10-04T22:29:52.764646-05:00.jpg",
+      "mtime": "1664940714",
+      "size": "9145",
+      "md5": "27fb8282a87f71745505cbbf0dc294df",
+      "crc32": "dbb3e325",
+      "sha1": "2332173f84a0a6bffa9f14da85bc553ec0b3657a"
+    },
+    {
       "name": "the_daily_world-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c9118fb9df755ee52b2ba3050e07a4cb1a17430b",
-      "mtime": "1664896241",
-      "size": "37955",
-      "md5": "846392900774e76dd6c4ddce8abc81d4",
-      "crc32": "f1ef328d",
-      "sha1": "1664ea23ba7a48bfaf2b54472542bc500a06da96",
+      "btih": "17d665e307b53de1044aa1eb2b63aade31f3b68d",
+      "mtime": "1664940718",
+      "size": "39265",
+      "md5": "a06afbd01d67ad8937d4b7b1892e6ec6",
+      "crc32": "630128ab",
+      "sha1": "bc7661a93dcc8e7af7e453a723e7a421b9537dc8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "the_daily_world-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "faf0fb6aec86c8eec834e0909ea712e5",
+      "md5": "a49558e02c4848d1bc2f59587d544b13",
       "summation": "md5"
     },
     {
       "name": "the_daily_world-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664896189",
-      "size": "237568",
-      "md5": "c6c06e449fdab24df0e9b7b6d283f108",
-      "crc32": "592123fe",
-      "sha1": "502f062a54a3e571326078218ade57162c96302e",
+      "mtime": "1664940617",
+      "size": "241664",
+      "md5": "6c70005673e065d441c1ed0ed17a3290",
+      "crc32": "5712ccc9",
+      "sha1": "f7ba10f4ae6ce0f21820cf41983d31155958f3ee",
       "format": "Metadata"
     },
     {
@@ -1780,9 +1842,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 172,
-  "item_last_updated": 1664896241,
-  "item_size": 10721742,
+  "files_count": 178,
+  "item_last_updated": 1664940718,
+  "item_size": 11163352,
   "metadata": {
     "identifier": "the_daily_world-2022",
     "collection": [
@@ -1799,10 +1861,10 @@
     "publicdate": "2022-09-21 03:43:02",
     "addeddate": "2022-09-21 03:43:02"
   },
-  "server": "ia601504.us.archive.org",
-  "uniq": 1515460968,
+  "server": "ia801504.us.archive.org",
+  "uniq": 762571463,
   "workable_servers": [
-    "ia601504.us.archive.org",
-    "ia801504.us.archive.org"
+    "ia801504.us.archive.org",
+    "ia601504.us.archive.org"
   ]
 }
