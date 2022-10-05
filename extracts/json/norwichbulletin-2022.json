@@ -1,5 +1,5 @@
 {
-  "created": 1664892883,
+  "created": 1664937086,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/9/items/norwichbulletin-2022",
@@ -1742,31 +1742,93 @@
       "sha1": "a123123cee1709be45c43cd663408a6b15ff0408"
     },
     {
+      "name": "norwichbulletin-2022-10-04T22:29:43.714802-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664936988",
+      "size": "26225",
+      "md5": "28f8dfbc39aff5849846d2ad0ae179b8",
+      "crc32": "0939d450",
+      "sha1": "1e027652a904269f7e3d7111cc46826aa7afa62c",
+      "format": "JSON"
+    },
+    {
+      "name": "norwichbulletin-2022-10-04T22:29:43.714802-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664936989",
+      "size": "56036",
+      "md5": "5fbddf68be7145b9b343d0b7b6175041",
+      "crc32": "f33c490c",
+      "sha1": "f9b8dd6b103338de37c701add6b5172efdf189f4",
+      "format": "JSON"
+    },
+    {
+      "name": "norwichbulletin-2022-10-04T22:29:43.714802-04:00.jpg",
+      "source": "original",
+      "mtime": "1664936986",
+      "size": "251637",
+      "md5": "0c977681b6179a33880268ddcec0c709",
+      "crc32": "caefca68",
+      "sha1": "9ecd39c37bccdb07b9003ca998ad2e639341e801",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "norwichbulletin-2022-10-04T22:29:43.714802-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664936991",
+      "size": "1540",
+      "md5": "17d436b8d994e7284803f6089a14728f",
+      "crc32": "189ddea2",
+      "sha1": "6c4b8bf984492a5c5c89fcb7574b5de0fa016c22",
+      "format": "JSON"
+    },
+    {
+      "name": "norwichbulletin-2022-10-04T22:29:43.714802-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664936993",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "norwichbulletin-2022-10-04T22:29:43.714802-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "norwichbulletin-2022-10-04T22:29:43.714802-04:00.jpg",
+      "mtime": "1664937049",
+      "size": "9135",
+      "md5": "fab5a2e818e61961d574541a197558e7",
+      "crc32": "cf6869b0",
+      "sha1": "ad0e17314481bbe87de76c4f029f76ae6cff0671"
+    },
+    {
       "name": "norwichbulletin-2022_archive.torrent",
       "source": "metadata",
-      "btih": "03a53b6686e3f7e1eeb45a1f88d29295e5fdfdb6",
-      "mtime": "1664892868",
-      "size": "37998",
-      "md5": "0e310d91e993d7884b4e2098d3b37c3c",
-      "crc32": "fbf07843",
-      "sha1": "a6fbd16271df0b6163ad843dbf7b741508c329bb",
+      "btih": "3d54787d41fc9c9149d5f159fbd8cab3b57ada4a",
+      "mtime": "1664937054",
+      "size": "39305",
+      "md5": "70133e2895bbeae8a9eb83af50f37bfe",
+      "crc32": "34c675f0",
+      "sha1": "5b716584b5fe94ca51aa43601433da05ec27040b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "norwichbulletin-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "06ab3bfe1a8967c113714ef2441d90bf",
+      "md5": "2f26c8ec1800c7b0878c8c0d80e2cbbe",
       "summation": "md5"
     },
     {
       "name": "norwichbulletin-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664892801",
-      "size": "237568",
-      "md5": "6130b233eebbe1f557e6fb7fcf213eb6",
-      "crc32": "a3c35508",
-      "sha1": "fae9bfd4c8e9d01e083e7cff48fa745c6baa584f",
+      "mtime": "1664936998",
+      "size": "241664",
+      "md5": "27784302940ab450930423950ee20e48",
+      "crc32": "165f6a62",
+      "sha1": "040b6780b3ff4e9dab35c60050546ecb6dacf83c",
       "format": "Metadata"
     },
     {
@@ -1780,9 +1842,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 172,
-  "item_last_updated": 1664892868,
-  "item_size": 11941634,
+  "files_count": 178,
+  "item_last_updated": 1664937054,
+  "item_size": 12291812,
   "metadata": {
     "identifier": "norwichbulletin-2022",
     "collection": [
@@ -1800,7 +1862,7 @@
     "addeddate": "2022-09-21 02:21:40"
   },
   "server": "ia601509.us.archive.org",
-  "uniq": 625605294,
+  "uniq": 2112930020,
   "workable_servers": [
     "ia601509.us.archive.org",
     "ia801509.us.archive.org"
