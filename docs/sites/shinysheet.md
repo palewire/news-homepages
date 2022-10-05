@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 28 screenshots with the Internet Archive.
+The archiving routine has saved 29 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/shinysheet-2022/shinysheet-2022-10-04T23:29:51.164925-04:00.jpg">
+  <img src="https://archive.org/download/shinysheet-2022/shinysheet-2022-10-04T23:29:51.164925-04:00.jpg"
+     alt="Palm Beach Daily News at 2022-10-04 23:29:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/shinysheet-2022/shinysheet-2022-10-04T23:29:51.164925-04:00.jpg">October 4 at 11:29 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/shinysheet-2022/shinysheet-2022-10-04T11:09:22.350613-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/shinysheet-2022/shinysheet-2022-09-29T10:57:43.450615-04:00.jpg">September 29 at 10:57 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/shinysheet-2022/shinysheet-2022-09-28T23:41:40.756862-04:00.jpg">
-  <img src="https://archive.org/download/shinysheet-2022/shinysheet-2022-09-28T23:41:40.756862-04:00.jpg"
-     alt="Palm Beach Daily News at 2022-09-28 23:41:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/shinysheet-2022/shinysheet-2022-09-28T23:41:40.756862-04:00.jpg">September 28 at 11:41 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 28 hyperlink lists with the Internet Archive.
+The archiving routine has saved 29 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 4 at 11:29 PM](https://archive.org/download/shinysheet-2022/shinysheet-2022-10-04T23:29:51.164925-04:00.hyperlinks.json) |
 | [October 4 at 11:09 AM](https://archive.org/download/shinysheet-2022/shinysheet-2022-10-04T11:09:22.350613-04:00.hyperlinks.json) |
 | [October 3 at 11:40 PM](https://archive.org/download/shinysheet-2022/shinysheet-2022-10-03T23:40:33.049561-04:00.hyperlinks.json) |
 | [October 3 at 11:07 AM](https://archive.org/download/shinysheet-2022/shinysheet-2022-10-03T11:07:47.152159-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 1 at 11:01 AM](https://archive.org/download/shinysheet-2022/shinysheet-2022-10-01T11:01:13.506558-04:00.hyperlinks.json) |
 | [September 30 at 11:48 PM](https://archive.org/download/shinysheet-2022/shinysheet-2022-09-30T23:48:15.441588-04:00.hyperlinks.json) |
 | [September 30 at 12:13 PM](https://archive.org/download/shinysheet-2022/shinysheet-2022-09-30T12:13:53.040183-04:00.hyperlinks.json) |
-| [September 29 at 11:51 PM](https://archive.org/download/shinysheet-2022/shinysheet-2022-09-29T23:51:05.450556-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 28 accessibility trees with the Internet Archive.
+The archiving routine has saved 29 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 4 at 11:29 PM](https://archive.org/download/shinysheet-2022/shinysheet-2022-10-04T23:29:51.164925-04:00.accessibility.json) |
 | [October 4 at 11:09 AM](https://archive.org/download/shinysheet-2022/shinysheet-2022-10-04T11:09:22.350613-04:00.accessibility.json) |
 | [October 3 at 11:40 PM](https://archive.org/download/shinysheet-2022/shinysheet-2022-10-03T23:40:33.049561-04:00.accessibility.json) |
 | [October 3 at 11:07 AM](https://archive.org/download/shinysheet-2022/shinysheet-2022-10-03T11:07:47.152159-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [October 1 at 11:01 AM](https://archive.org/download/shinysheet-2022/shinysheet-2022-10-01T11:01:13.506558-04:00.accessibility.json) |
 | [September 30 at 11:48 PM](https://archive.org/download/shinysheet-2022/shinysheet-2022-09-30T23:48:15.441588-04:00.accessibility.json) |
 | [September 30 at 12:13 PM](https://archive.org/download/shinysheet-2022/shinysheet-2022-09-30T12:13:53.040183-04:00.accessibility.json) |
-| [September 29 at 11:51 PM](https://archive.org/download/shinysheet-2022/shinysheet-2022-09-29T23:51:05.450556-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 4 at 11:30 PM](https://archive.org/download/shinysheet-2022/shinysheet-2022-10-04T23:29:51.164925-04:00.lighthouse.json) |
 | [October 4 at 11:09 AM](https://archive.org/download/shinysheet-2022/shinysheet-2022-10-04T11:09:22.350613-04:00.lighthouse.json) |
 | [October 3 at 11:40 PM](https://archive.org/download/shinysheet-2022/shinysheet-2022-10-03T23:40:33.049561-04:00.lighthouse.json) |
 | [October 3 at 11:07 AM](https://archive.org/download/shinysheet-2022/shinysheet-2022-10-03T11:07:47.152159-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 1 at 11:01 AM](https://archive.org/download/shinysheet-2022/shinysheet-2022-10-01T11:01:13.506558-04:00.lighthouse.json) |
 | [September 30 at 11:48 PM](https://archive.org/download/shinysheet-2022/shinysheet-2022-09-30T23:48:15.441588-04:00.lighthouse.json) |
 | [September 30 at 12:13 PM](https://archive.org/download/shinysheet-2022/shinysheet-2022-09-30T12:13:53.040183-04:00.lighthouse.json) |
-| [September 29 at 11:51 PM](https://archive.org/download/shinysheet-2022/shinysheet-2022-09-29T23:51:05.450556-04:00.lighthouse.json) |
 
 
 
