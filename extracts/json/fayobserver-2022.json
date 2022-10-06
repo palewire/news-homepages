@@ -1,5 +1,5 @@
 {
-  "created": 1664950183,
+  "created": 1665036122,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/4/items/fayobserver-2022",
@@ -1876,31 +1876,155 @@
       "sha1": "d8b7d3a865206c43a11c7c399090c26649783937"
     },
     {
+      "name": "fayobserver-2022-10-05T16:03:39.201810-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665000223",
+      "size": "20552",
+      "md5": "430be1274d9b8810e8be687a5568ddc0",
+      "crc32": "43a4cd43",
+      "sha1": "8a6654e9c1c3817937f017977abc128ea115d8ca",
+      "format": "JSON"
+    },
+    {
+      "name": "fayobserver-2022-10-05T16:03:39.201810-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665000225",
+      "size": "33898",
+      "md5": "93a09dd207624bd3d731993c9b9f4f46",
+      "crc32": "f278fa69",
+      "sha1": "26538c6c2423a34c6d444b2c655773bc539c918a",
+      "format": "JSON"
+    },
+    {
+      "name": "fayobserver-2022-10-05T16:03:39.201810-04:00.jpg",
+      "source": "original",
+      "mtime": "1665000221",
+      "size": "279622",
+      "md5": "aa312b97c7640dce66c34a56bb9136cc",
+      "crc32": "65c25d33",
+      "sha1": "b7efc24747866068ed2259b755132643c3af12f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fayobserver-2022-10-05T16:03:39.201810-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665000227",
+      "size": "1504",
+      "md5": "c0a08fb9a5cf82c5baeaf50fae22b865",
+      "crc32": "8cc304a9",
+      "sha1": "39dc304816b357a5491af3d0219e606ba792ba4b",
+      "format": "JSON"
+    },
+    {
+      "name": "fayobserver-2022-10-05T16:03:39.201810-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665000229",
+      "size": "208",
+      "md5": "07ac92d1e590bb81547d804fbb5d2252",
+      "crc32": "ce9c00f6",
+      "sha1": "24979f52acbeb2695f1b8edd42e90a508105e27f",
+      "format": "JSON"
+    },
+    {
+      "name": "fayobserver-2022-10-05T16:03:39.201810-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fayobserver-2022-10-05T16:03:39.201810-04:00.jpg",
+      "mtime": "1665000378",
+      "size": "9197",
+      "md5": "c6ebf89218153818cea579fa1477871f",
+      "crc32": "b4c2d4be",
+      "sha1": "8cf867c8e29d64bbdef0505930968086707e6781"
+    },
+    {
+      "name": "fayobserver-2022-10-06T02:00:12.749054-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665036017",
+      "size": "21334",
+      "md5": "62b53c34e28ebd780fa32b6143f55855",
+      "crc32": "bafdeb60",
+      "sha1": "dea5d51ecc6c106d5b09a9cc8673c851aa525e81",
+      "format": "JSON"
+    },
+    {
+      "name": "fayobserver-2022-10-06T02:00:12.749054-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665036018",
+      "size": "33235",
+      "md5": "e3dba83d6f61a3fd197331c70efd6fea",
+      "crc32": "718571f2",
+      "sha1": "622bae4b71e0f82046bdf39f222b3111a7ca0c90",
+      "format": "JSON"
+    },
+    {
+      "name": "fayobserver-2022-10-06T02:00:12.749054-04:00.jpg",
+      "source": "original",
+      "mtime": "1665036015",
+      "size": "235313",
+      "md5": "6cc8fdf9de7996ca8c489c89044e18c6",
+      "crc32": "c7de306a",
+      "sha1": "6f6cafdd4ff9d5c9f24189c5b183ec8fef6be9c3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fayobserver-2022-10-06T02:00:12.749054-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665036020",
+      "size": "1503",
+      "md5": "52cb1650a1d32e0859a221302582051f",
+      "crc32": "9c8dddac",
+      "sha1": "0a77516a658eed53ef920e2cf135e0e9a3b31079",
+      "format": "JSON"
+    },
+    {
+      "name": "fayobserver-2022-10-06T02:00:12.749054-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665036022",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fayobserver-2022-10-06T02:00:12.749054-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fayobserver-2022-10-06T02:00:12.749054-04:00.jpg",
+      "mtime": "1665036091",
+      "size": "8961",
+      "md5": "2bd3fedcb7644dbe7c264bc3f21c6900",
+      "crc32": "2e27d4da",
+      "sha1": "2c9631f6f51795adfb4ed7b6f95ee31ddc95217b"
+    },
+    {
       "name": "fayobserver-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d4d4fe1f3d811735ce45d588913f8ecc22d486cf",
-      "mtime": "1664950143",
-      "size": "40082",
-      "md5": "7c84414c712d2cc0449d3712c3297e83",
-      "crc32": "448406c0",
-      "sha1": "7f928a36688f1f4c8227a9a8b39350d85b5c6856",
+      "btih": "0566d3f5311146e851d9c4cc05ce98536f47ebc7",
+      "mtime": "1665036094",
+      "size": "42628",
+      "md5": "335e191e2cedf28ba43a7ca7277223df",
+      "crc32": "e0258bbc",
+      "sha1": "8bff5495086222f2bcb8001fd9313a88c3ee51a4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fayobserver-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2ae2850e81cd57fba64c0760fb4e9613",
+      "md5": "944e031d7f6bbc38eb452fa68a277b20",
       "summation": "md5"
     },
     {
       "name": "fayobserver-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664950020",
-      "size": "249856",
-      "md5": "5084d55cfb75d4272f927c07be7158ed",
-      "crc32": "74c1edfe",
-      "sha1": "3f71c727f48c4ed494c658eec4439b4c11376721",
+      "mtime": "1665036027",
+      "size": "270336",
+      "md5": "5c011f6234eeb513a40067d869610ac8",
+      "crc32": "8a258016",
+      "sha1": "a7c9c20e641334cbd1a211cdad5cdcc4f5279be8",
       "format": "Metadata"
     },
     {
@@ -1914,9 +2038,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 185,
-  "item_last_updated": 1664950143,
-  "item_size": 12705018,
+  "files_count": 197,
+  "item_last_updated": 1665036094,
+  "item_size": 13373573,
   "metadata": {
     "identifier": "fayobserver-2022",
     "collection": [
@@ -1934,7 +2058,7 @@
     "addeddate": "2022-09-20 17:50:17"
   },
   "server": "ia601402.us.archive.org",
-  "uniq": 1717677899,
+  "uniq": 2081640442,
   "workable_servers": [
     "ia601402.us.archive.org",
     "ia801402.us.archive.org"
