@@ -1,5 +1,6 @@
 {
-  "created": 1665024127,
+  "conflict": 1665048266,
+  "created": 1665048266,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/31/items/quillette-2022",
@@ -12578,31 +12579,93 @@
       "sha1": "8edf22d80ead1d214054670ba5248b5a834496f4"
     },
     {
+      "name": "quillette-2022-10-06T10:21:34.023000+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665048119",
+      "size": "11117",
+      "md5": "b24a48a9ac4aabbbb7840edaae7d0d17",
+      "crc32": "11da3134",
+      "sha1": "e200f048f68c37147a836db0272f909f8190a7ec",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-10-06T10:21:34.023000+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665048121",
+      "size": "5324",
+      "md5": "02320e750332fa4ff74b70e7dd721d68",
+      "crc32": "eda99301",
+      "sha1": "8d7a055ba4e9f2b528c7fa7a532c34a49a78d2bf",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-10-06T10:21:34.023000+01:00.jpg",
+      "source": "original",
+      "mtime": "1665048117",
+      "size": "180459",
+      "md5": "ade1ad9f964cab6333000951e303426f",
+      "crc32": "c14f0d86",
+      "sha1": "8e1a86633c56464cf82f47bfb5a7ae6239d60e3b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "quillette-2022-10-06T10:21:34.023000+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665048122",
+      "size": "1450",
+      "md5": "14ed82d039d4ce1a1dc3c41007af1777",
+      "crc32": "df67f539",
+      "sha1": "b8ab63a5f4dec7dd394d837a19d4f1a10b9e12e5",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-10-06T10:21:34.023000+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1665048124",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-10-06T10:21:34.023000+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "quillette-2022-10-06T10:21:34.023000+01:00.jpg",
+      "mtime": "1665048219",
+      "size": "8644",
+      "md5": "1c307d9abb2631190326f37c29ab43aa",
+      "crc32": "36d69490",
+      "sha1": "fcb69fe1640f8956f38f63b1364868cec37132f6"
+    },
+    {
       "name": "quillette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e19b51cf68973049aee8c4758acad786ff760f19",
-      "mtime": "1665024084",
-      "size": "256608",
-      "md5": "0af0a3086d668924cc73fa6d91bda8d0",
-      "crc32": "f1e57d5b",
-      "sha1": "1a70af75d8a754123b41ea73118e3fc455aaa70c",
+      "btih": "e6c45952615767383421dd41742875ded54344b3",
+      "mtime": "1665048263",
+      "size": "257858",
+      "md5": "0938883859d8ae391344cc79cb53606c",
+      "crc32": "59982e33",
+      "sha1": "406f5d6441e90db63094d968fa5bb05a92608ae0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "quillette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f74a4970318149775f33fd8d45592cc3",
+      "md5": "9aa20251f76bf5853d71f64091b7c202",
       "summation": "md5"
     },
     {
       "name": "quillette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665023967",
-      "size": "1548288",
-      "md5": "81fe7939f0492bbb7abfbef4d8cec37f",
-      "crc32": "f4da5abd",
-      "sha1": "bc0547a57f9cf176b852d9aee44d44760f759842",
+      "mtime": "1665048130",
+      "size": "1552384",
+      "md5": "158c1f9717cdea0374c441b57d7f8d19",
+      "crc32": "4f49c45f",
+      "sha1": "b551135990118002df060291ad66f9bb17cbe7e0",
       "format": "Metadata"
     },
     {
@@ -12616,9 +12679,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1219,
-  "item_last_updated": 1665024084,
-  "item_size": 52427689,
+  "files_count": 1225,
+  "item_last_updated": 1665048263,
+  "item_size": 52640231,
   "metadata": {
     "identifier": "quillette-2022",
     "collection": [
@@ -12635,10 +12698,29 @@
     "publicdate": "2022-07-18 03:31:39",
     "addeddate": "2022-07-18 03:31:39"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 1208744066,
+  "pending_tasks": true,
+  "server": "ia601505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3431119119,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3431120579,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1160914794,
   "workable_servers": [
-    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }
