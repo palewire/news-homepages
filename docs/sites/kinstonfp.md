@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 31 screenshots with the Internet Archive.
+The archiving routine has saved 32 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 31 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kinstonfp-2022/kinstonfp-2022-10-06T13:44:28.544625-04:00.jpg">
+  <img src="https://archive.org/download/kinstonfp-2022/kinstonfp-2022-10-06T13:44:28.544625-04:00.jpg"
+     alt="The Kinston/Jones Free Press at 2022-10-06 13:44:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kinstonfp-2022/kinstonfp-2022-10-06T13:44:28.544625-04:00.jpg">October 6 at 1:44 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kinstonfp-2022/kinstonfp-2022-10-06T01:44:42.120421-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kinstonfp-2022/kinstonfp-2022-10-01T02:16:03.254937-04:00.jpg">October 1 at 2:16 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kinstonfp-2022/kinstonfp-2022-09-30T14:17:44.048266-04:00.jpg">
-  <img src="https://archive.org/download/kinstonfp-2022/kinstonfp-2022-09-30T14:17:44.048266-04:00.jpg"
-     alt="The Kinston/Jones Free Press at 2022-09-30 14:17:48-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kinstonfp-2022/kinstonfp-2022-09-30T14:17:44.048266-04:00.jpg">September 30 at 2:17 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 32 hyperlink lists with the Internet Archive.
+The archiving routine has saved 33 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 6 at 1:44 PM](https://archive.org/download/kinstonfp-2022/kinstonfp-2022-10-06T13:44:28.544625-04:00.hyperlinks.json) |
 | [October 6 at 1:44 AM](https://archive.org/download/kinstonfp-2022/kinstonfp-2022-10-06T01:44:42.120421-04:00.hyperlinks.json) |
 | [October 5 at 2:23 PM](https://archive.org/download/kinstonfp-2022/kinstonfp-2022-10-05T14:22:45.205690-04:00.hyperlinks.json) |
 | [October 5 at 1:50 AM](https://archive.org/download/kinstonfp-2022/kinstonfp-2022-10-05T01:50:07.608721-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 3 at 1:11 AM](https://archive.org/download/kinstonfp-2022/kinstonfp-2022-10-03T01:11:06.410704-04:00.hyperlinks.json) |
 | [October 2 at 1:30 PM](https://archive.org/download/kinstonfp-2022/kinstonfp-2022-10-02T13:30:42.463055-04:00.hyperlinks.json) |
 | [October 2 at 2:03 AM](https://archive.org/download/kinstonfp-2022/kinstonfp-2022-10-02T02:03:03.962115-04:00.hyperlinks.json) |
-| [October 1 at 1:34 PM](https://archive.org/download/kinstonfp-2022/kinstonfp-2022-10-01T13:34:02.830376-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 32 accessibility trees with the Internet Archive.
+The archiving routine has saved 33 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 6 at 1:44 PM](https://archive.org/download/kinstonfp-2022/kinstonfp-2022-10-06T13:44:28.544625-04:00.accessibility.json) |
 | [October 6 at 1:44 AM](https://archive.org/download/kinstonfp-2022/kinstonfp-2022-10-06T01:44:42.120421-04:00.accessibility.json) |
 | [October 5 at 2:23 PM](https://archive.org/download/kinstonfp-2022/kinstonfp-2022-10-05T14:22:45.205690-04:00.accessibility.json) |
 | [October 5 at 1:50 AM](https://archive.org/download/kinstonfp-2022/kinstonfp-2022-10-05T01:50:07.608721-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 3 at 1:11 AM](https://archive.org/download/kinstonfp-2022/kinstonfp-2022-10-03T01:11:06.410704-04:00.accessibility.json) |
 | [October 2 at 1:30 PM](https://archive.org/download/kinstonfp-2022/kinstonfp-2022-10-02T13:30:42.463055-04:00.accessibility.json) |
 | [October 2 at 2:03 AM](https://archive.org/download/kinstonfp-2022/kinstonfp-2022-10-02T02:03:03.962115-04:00.accessibility.json) |
-| [October 1 at 1:34 PM](https://archive.org/download/kinstonfp-2022/kinstonfp-2022-10-01T13:34:02.830376-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 6 at 1:44 PM](https://archive.org/download/kinstonfp-2022/kinstonfp-2022-10-06T13:44:28.544625-04:00.lighthouse.json) |
 | [October 6 at 1:44 AM](https://archive.org/download/kinstonfp-2022/kinstonfp-2022-10-06T01:44:42.120421-04:00.lighthouse.json) |
 | [October 5 at 2:23 PM](https://archive.org/download/kinstonfp-2022/kinstonfp-2022-10-05T14:22:45.205690-04:00.lighthouse.json) |
 | [October 5 at 1:50 AM](https://archive.org/download/kinstonfp-2022/kinstonfp-2022-10-05T01:50:07.608721-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 3 at 1:11 AM](https://archive.org/download/kinstonfp-2022/kinstonfp-2022-10-03T01:11:06.410704-04:00.lighthouse.json) |
 | [October 2 at 1:30 PM](https://archive.org/download/kinstonfp-2022/kinstonfp-2022-10-02T13:30:42.463055-04:00.lighthouse.json) |
 | [October 2 at 2:03 AM](https://archive.org/download/kinstonfp-2022/kinstonfp-2022-10-02T02:03:03.962115-04:00.lighthouse.json) |
-| [October 1 at 1:34 PM](https://archive.org/download/kinstonfp-2022/kinstonfp-2022-10-01T13:34:02.830376-04:00.lighthouse.json) |
 
 
 
