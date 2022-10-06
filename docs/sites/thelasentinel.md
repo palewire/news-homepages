@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 485 screenshots with the Internet Archive.
+The archiving routine has saved 487 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-06T14:01:28.161701-07:00.jpg">
+  <img src="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-06T14:01:28.161701-07:00.jpg"
+     alt="Los Angeles Sentinel at 2022-10-06 14:01:30-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-06T14:01:28.161701-07:00.jpg">October 6 at 2:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-06T13:30:59.004554-07:00.jpg">
+  <img src="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-06T13:30:59.004554-07:00.jpg"
+     alt="Los Angeles Sentinel at 2022-10-06 13:31:01-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-06T13:30:59.004554-07:00.jpg">October 6 at 1:31 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-06T00:22:08.730795-07:00.jpg">
   <img src="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-06T00:22:08.730795-07:00.jpg"
      alt="Los Angeles Sentinel at 2022-10-06 00:22:10-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-03T00:30:33.349584-07:00.jpg">October 3 at 12:30 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-02T12:47:33.111334-07:00.jpg">
-  <img src="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-02T12:47:33.111334-07:00.jpg"
-     alt="Los Angeles Sentinel at 2022-10-02 12:47:35-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-02T12:47:33.111334-07:00.jpg">October 2 at 12:47 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-02T12:39:36.970257-07:00.jpg">
-  <img src="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-02T12:39:36.970257-07:00.jpg"
-     alt="Los Angeles Sentinel at 2022-10-02 12:39:46-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-02T12:39:36.970257-07:00.jpg">October 2 at 12:39 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 478 hyperlink lists with the Internet Archive.
+The archiving routine has saved 480 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 6 at 2:01 PM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-06T14:01:28.161701-07:00.hyperlinks.json) |
+| [October 6 at 1:31 PM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-06T13:30:59.004554-07:00.hyperlinks.json) |
 | [October 6 at 12:22 AM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-06T00:22:08.730795-07:00.hyperlinks.json) |
 | [October 5 at 1:56 PM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-05T13:56:21.191713-07:00.hyperlinks.json) |
 | [October 5 at 1:52 PM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-05T13:51:50.568183-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 4 at 1:08 PM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-04T13:08:02.303326-07:00.hyperlinks.json) |
 | [October 4 at 12:54 AM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-04T00:54:11.807980-07:00.hyperlinks.json) |
 | [October 3 at 1:00 PM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-03T13:00:38.162433-07:00.hyperlinks.json) |
-| [October 3 at 12:11 PM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-03T12:11:21.202169-07:00.hyperlinks.json) |
-| [October 3 at 12:30 AM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-03T00:30:33.349584-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 477 accessibility trees with the Internet Archive.
+The archiving routine has saved 479 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 6 at 2:01 PM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-06T14:01:28.161701-07:00.accessibility.json) |
+| [October 6 at 1:31 PM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-06T13:30:59.004554-07:00.accessibility.json) |
 | [October 6 at 12:22 AM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-06T00:22:08.730795-07:00.accessibility.json) |
 | [October 5 at 1:56 PM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-05T13:56:21.191713-07:00.accessibility.json) |
 | [October 5 at 1:52 PM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-05T13:51:50.568183-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 4 at 1:08 PM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-04T13:08:02.303326-07:00.accessibility.json) |
 | [October 4 at 12:54 AM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-04T00:54:11.807980-07:00.accessibility.json) |
 | [October 3 at 1:00 PM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-03T13:00:38.162433-07:00.accessibility.json) |
-| [October 3 at 12:11 PM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-03T12:11:21.202169-07:00.accessibility.json) |
-| [October 3 at 12:30 AM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-03T00:30:33.349584-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 215 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 217 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 6 at 2:01 PM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-06T14:01:28.161701-07:00.lighthouse.json) |
+| [October 6 at 1:31 PM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-06T13:30:59.004554-07:00.lighthouse.json) |
 | [October 6 at 12:22 AM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-06T00:22:08.730795-07:00.lighthouse.json) |
 | [October 5 at 1:56 PM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-05T13:56:21.191713-07:00.lighthouse.json) |
 | [October 5 at 1:52 PM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-05T13:51:50.568183-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 4 at 1:08 PM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-04T13:08:02.303326-07:00.lighthouse.json) |
 | [October 4 at 12:54 AM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-04T00:54:11.807980-07:00.lighthouse.json) |
 | [October 3 at 1:00 PM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-03T13:00:38.162433-07:00.lighthouse.json) |
-| [October 3 at 12:11 PM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-03T12:11:21.202169-07:00.lighthouse.json) |
-| [October 3 at 12:30 AM](https://archive.org/download/thelasentinel-2022/thelasentinel-2022-10-03T00:30:33.349584-07:00.lighthouse.json) |
 
 
 
