@@ -234,13 +234,114 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 30 screenshots with the Internet Archive.
+The archiving routine has saved 32 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/courier_tribune.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-05T19:48:47.915744-04:00.jpg">
+  <img src="https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-05T19:48:47.915744-04:00.jpg"
+     alt="The Courier-Tribune at 2022-10-05 19:48:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-05T19:48:47.915744-04:00.jpg">October 5 at 7:48 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-05T08:13:11.963394-04:00.jpg">
+  <img src="https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-05T08:13:11.963394-04:00.jpg"
+     alt="The Courier-Tribune at 2022-10-05 08:13:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-05T08:13:11.963394-04:00.jpg">October 5 at 8:13 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-04T19:53:44.532951-04:00.jpg">
@@ -332,36 +433,103 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/courier_tribune-2022/courier_tribune-2022-09-30T07:59:23.539829-04:00.jpg">September 30 at 7:59 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/courier_tribune-2022/courier_tribune-2022-09-29T19:56:38.813009-04:00.jpg">
-  <img src="https://archive.org/download/courier_tribune-2022/courier_tribune-2022-09-29T19:56:38.813009-04:00.jpg"
-     alt="The Courier-Tribune at 2022-09-29 19:56:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/courier_tribune-2022/courier_tribune-2022-09-29T19:56:38.813009-04:00.jpg">September 29 at 7:56 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/courier_tribune-2022/courier_tribune-2022-09-29T07:55:43.179954-04:00.jpg">
-  <img src="https://archive.org/download/courier_tribune-2022/courier_tribune-2022-09-29T07:55:43.179954-04:00.jpg"
-     alt="The Courier-Tribune at 2022-09-29 07:55:45-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/courier_tribune-2022/courier_tribune-2022-09-29T07:55:43.179954-04:00.jpg">September 29 at 7:55 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 30 hyperlink lists with the Internet Archive.
+The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/courier_tribune.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 5 at 7:48 PM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-05T19:48:47.915744-04:00.hyperlinks.json) |
+| [October 5 at 8:13 AM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-05T08:13:11.963394-04:00.hyperlinks.json) |
 | [October 4 at 7:53 PM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-04T19:53:44.532951-04:00.hyperlinks.json) |
 | [October 4 at 8:04 AM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-04T08:03:59.763580-04:00.hyperlinks.json) |
 | [October 3 at 7:54 PM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-03T19:54:19.231567-04:00.hyperlinks.json) |
@@ -370,20 +538,103 @@ Here are the 10 most recent hyperlink lists.
 | [October 2 at 7:53 AM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-02T07:53:26.920761-04:00.hyperlinks.json) |
 | [October 1 at 7:54 PM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-01T19:54:02.902777-04:00.hyperlinks.json) |
 | [October 1 at 7:53 AM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-01T07:53:22.353368-04:00.hyperlinks.json) |
-| [September 30 at 7:48 PM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-09-30T19:48:40.710745-04:00.hyperlinks.json) |
-| [September 30 at 7:59 AM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-09-30T07:59:23.539829-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 30 accessibility trees with the Internet Archive.
+The archiving routine has saved 32 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/courier_tribune.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 5 at 7:48 PM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-05T19:48:47.915744-04:00.accessibility.json) |
+| [October 5 at 8:13 AM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-05T08:13:11.963394-04:00.accessibility.json) |
 | [October 4 at 7:53 PM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-04T19:53:44.532951-04:00.accessibility.json) |
 | [October 4 at 8:04 AM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-04T08:03:59.763580-04:00.accessibility.json) |
 | [October 3 at 7:54 PM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-03T19:54:19.231567-04:00.accessibility.json) |
@@ -392,21 +643,104 @@ Here are the 10 most recent accessibility trees.
 | [October 2 at 7:53 AM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-02T07:53:26.920761-04:00.accessibility.json) |
 | [October 1 at 7:54 PM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-01T19:54:02.902777-04:00.accessibility.json) |
 | [October 1 at 7:53 AM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-01T07:53:22.353368-04:00.accessibility.json) |
-| [September 30 at 7:48 PM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-09-30T19:48:40.710745-04:00.accessibility.json) |
-| [September 30 at 7:59 AM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-09-30T07:59:23.539829-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/courier_tribune.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 5 at 7:48 PM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-05T19:48:47.915744-04:00.lighthouse.json) |
+| [October 5 at 8:13 AM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-05T08:13:11.963394-04:00.lighthouse.json) |
 | [October 4 at 7:53 PM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-04T19:53:44.532951-04:00.lighthouse.json) |
 | [October 4 at 8:04 AM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-04T08:03:59.763580-04:00.lighthouse.json) |
 | [October 3 at 7:54 PM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-03T19:54:19.231567-04:00.lighthouse.json) |
@@ -415,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 2 at 7:53 AM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-02T07:53:26.920761-04:00.lighthouse.json) |
 | [October 1 at 7:54 PM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-01T19:54:02.902777-04:00.lighthouse.json) |
 | [October 1 at 7:53 AM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-10-01T07:53:22.353368-04:00.lighthouse.json) |
-| [September 30 at 7:48 PM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-09-30T19:48:40.710745-04:00.lighthouse.json) |
-| [September 30 at 7:59 AM](https://archive.org/download/courier_tribune-2022/courier_tribune-2022-09-30T07:59:23.539829-04:00.lighthouse.json) |
 
 
 
