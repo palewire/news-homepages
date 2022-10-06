@@ -1,5 +1,5 @@
 {
-  "created": 1664927988,
+  "created": 1665014087,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/32/items/heraldmailnews-2022",
@@ -1876,31 +1876,155 @@
       "sha1": "b128f01cb36ac63c6ddbb5edc96126b05a92c17a"
     },
     {
+      "name": "heraldmailnews-2022-10-05T08:19:31.282820-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1664972384",
+      "size": "24408",
+      "md5": "3916b0ebf067335e08117d18caf9de6a",
+      "crc32": "ca23e062",
+      "sha1": "122ca772606c8e69783353b983e2ea5b1c43b6c9",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldmailnews-2022-10-05T08:19:31.282820-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1664972390",
+      "size": "36015",
+      "md5": "c98c3705823f08296ad8de7f236986d0",
+      "crc32": "eff83ea3",
+      "sha1": "9873222f68b79fdf6be7871073e16e9b24120842",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldmailnews-2022-10-05T08:19:31.282820-04:00.jpg",
+      "source": "original",
+      "mtime": "1664972378",
+      "size": "274141",
+      "md5": "71e09790dcf71c700287aa28cdccc588",
+      "crc32": "5ea629ab",
+      "sha1": "1b64e6f5d9c27c6e35720ae3e09d056ea3aead87",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "heraldmailnews-2022-10-05T08:19:31.282820-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1664972398",
+      "size": "1540",
+      "md5": "35464b4b40a0ce91c2c937c57715dab6",
+      "crc32": "77860a2a",
+      "sha1": "48127221706bafecbd98ce2cf2746953079806e8",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldmailnews-2022-10-05T08:19:31.282820-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1664972407",
+      "size": "212",
+      "md5": "e992cc64687423cb72a2a40f1a2e5e8e",
+      "crc32": "fcb246d2",
+      "sha1": "ae009c4bb2dc7a2b8c95f95bfcb20c80c0ecd68b",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldmailnews-2022-10-05T08:19:31.282820-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "heraldmailnews-2022-10-05T08:19:31.282820-04:00.jpg",
+      "mtime": "1664972893",
+      "size": "9180",
+      "md5": "e61ed1853397d2b21c4d93146359f4a9",
+      "crc32": "f6aed86f",
+      "sha1": "2c81837429e84767bc99b0dabc75bdae7c728ef2"
+    },
+    {
+      "name": "heraldmailnews-2022-10-05T19:53:22.444192-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665014009",
+      "size": "25197",
+      "md5": "b639eb148fadea9a01e4da20ac6532a1",
+      "crc32": "67178f49",
+      "sha1": "3f080109d1685c3bde7716cb5d20015c77e20bb5",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldmailnews-2022-10-05T19:53:22.444192-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665014011",
+      "size": "42336",
+      "md5": "71cfc0f24a5aceed73c4895a8cc997ad",
+      "crc32": "97e5670a",
+      "sha1": "995ff1758167bd26fc22233dba909728676b62bb",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldmailnews-2022-10-05T19:53:22.444192-04:00.jpg",
+      "source": "original",
+      "mtime": "1665014008",
+      "size": "271741",
+      "md5": "6c8b2ff7a0ada377d70df48326a8b866",
+      "crc32": "dc15734a",
+      "sha1": "dcef12cd42ad03e3bd143d949eb7bc23450e3223",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "heraldmailnews-2022-10-05T19:53:22.444192-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665014012",
+      "size": "1540",
+      "md5": "4bfe190224f9039fd14af5319fb29b59",
+      "crc32": "441b7a5e",
+      "sha1": "fa97ed80a56d9aa2727a8e39af677d910121066f",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldmailnews-2022-10-05T19:53:22.444192-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665014014",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldmailnews-2022-10-05T19:53:22.444192-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "heraldmailnews-2022-10-05T19:53:22.444192-04:00.jpg",
+      "mtime": "1665014073",
+      "size": "9414",
+      "md5": "15aecee261f49c47a05b07bb2f684f88",
+      "crc32": "4a423758",
+      "sha1": "7714926f890581682a6d632e983759973d7ee6d3"
+    },
+    {
       "name": "heraldmailnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "43e6953ab027b315cfe8fdf38c8b8ba4fa96443e",
-      "mtime": "1664927980",
-      "size": "40651",
-      "md5": "191785cbdcd136f91c2ba86e0d01ce8a",
-      "crc32": "1966b4f4",
-      "sha1": "7164f219f80869d0880b764356e5b85bbe9e5f7c",
+      "btih": "4c41d69ac73c338512c993789619eb17a2d739b3",
+      "mtime": "1665014078",
+      "size": "43233",
+      "md5": "1d0e54c5debe10610a805fab83d4a165",
+      "crc32": "e0762b3c",
+      "sha1": "28938fda47527a42f68ae1d83e5c53cc53f8fe3b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "heraldmailnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3e2456379acf0a05bb8b43a5c5b227cd",
+      "md5": "cfa9f84232c030ac31877e94163819c4",
       "summation": "md5"
     },
     {
       "name": "heraldmailnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664927930",
-      "size": "253952",
-      "md5": "0addb7c4ea631625290b7da045c6b3be",
-      "crc32": "beb7a635",
-      "sha1": "c231b905f1e5bd26b46d53a12c2f2795adaa6e33",
+      "mtime": "1665014019",
+      "size": "270336",
+      "md5": "a9188b77ba32d64c2ba595370612ac54",
+      "crc32": "867d2424",
+      "sha1": "3e5e5eb3d832d82c9768aa367f4373a1009dd5fd",
       "format": "Metadata"
     },
     {
@@ -1914,9 +2038,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 185,
-  "item_last_updated": 1664927980,
-  "item_size": 12904776,
+  "files_count": 197,
+  "item_last_updated": 1665014078,
+  "item_size": 13619668,
   "metadata": {
     "identifier": "heraldmailnews-2022",
     "collection": [
@@ -1933,10 +2057,10 @@
     "publicdate": "2022-09-20 22:18:30",
     "addeddate": "2022-09-20 22:18:30"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 216955447,
+  "server": "ia601508.us.archive.org",
+  "uniq": 2001310799,
   "workable_servers": [
-    "ia801508.us.archive.org",
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }
