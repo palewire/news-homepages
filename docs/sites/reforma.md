@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 102 screenshots with the Internet Archive.
+The archiving routine has saved 103 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 102 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reforma-2022/reforma-2022-10-05T21:39:21.238264-05:00.jpg">
+  <img src="https://archive.org/download/reforma-2022/reforma-2022-10-05T21:39:21.238264-05:00.jpg"
+     alt="Reforma at 2022-10-05 21:39:26-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reforma-2022/reforma-2022-10-05T21:39:21.238264-05:00.jpg">October 5 at 9:39 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reforma-2022/reforma-2022-10-05T09:23:49.052834-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/reforma-2022/reforma-2022-09-30T09:20:57.380941-05:00.jpg">September 30 at 9:20 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/reforma-2022/reforma-2022-09-29T21:42:54.211265-05:00.jpg">
-  <img src="https://archive.org/download/reforma-2022/reforma-2022-09-29T21:42:54.211265-05:00.jpg"
-     alt="Reforma at 2022-09-29 21:43:00-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reforma-2022/reforma-2022-09-29T21:42:54.211265-05:00.jpg">September 29 at 9:43 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 102 hyperlink lists with the Internet Archive.
+The archiving routine has saved 103 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 5 at 9:39 PM](https://archive.org/download/reforma-2022/reforma-2022-10-05T21:39:21.238264-05:00.hyperlinks.json) |
 | [October 5 at 9:23 AM](https://archive.org/download/reforma-2022/reforma-2022-10-05T09:23:49.052834-05:00.hyperlinks.json) |
 | [October 4 at 9:32 PM](https://archive.org/download/reforma-2022/reforma-2022-10-04T21:32:03.472948-05:00.hyperlinks.json) |
 | [October 4 at 9:18 AM](https://archive.org/download/reforma-2022/reforma-2022-10-04T09:18:29.767569-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 2 at 9:16 AM](https://archive.org/download/reforma-2022/reforma-2022-10-02T09:16:30.352787-05:00.hyperlinks.json) |
 | [October 1 at 9:26 PM](https://archive.org/download/reforma-2022/reforma-2022-10-01T21:26:11.147097-05:00.hyperlinks.json) |
 | [October 1 at 9:13 AM](https://archive.org/download/reforma-2022/reforma-2022-10-01T09:13:05.448287-05:00.hyperlinks.json) |
-| [September 30 at 9:36 PM](https://archive.org/download/reforma-2022/reforma-2022-09-30T21:35:57.303336-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 102 accessibility trees with the Internet Archive.
+The archiving routine has saved 103 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 5 at 9:39 PM](https://archive.org/download/reforma-2022/reforma-2022-10-05T21:39:21.238264-05:00.accessibility.json) |
 | [October 5 at 9:23 AM](https://archive.org/download/reforma-2022/reforma-2022-10-05T09:23:49.052834-05:00.accessibility.json) |
 | [October 4 at 9:32 PM](https://archive.org/download/reforma-2022/reforma-2022-10-04T21:32:03.472948-05:00.accessibility.json) |
 | [October 4 at 9:18 AM](https://archive.org/download/reforma-2022/reforma-2022-10-04T09:18:29.767569-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 2 at 9:16 AM](https://archive.org/download/reforma-2022/reforma-2022-10-02T09:16:30.352787-05:00.accessibility.json) |
 | [October 1 at 9:26 PM](https://archive.org/download/reforma-2022/reforma-2022-10-01T21:26:11.147097-05:00.accessibility.json) |
 | [October 1 at 9:13 AM](https://archive.org/download/reforma-2022/reforma-2022-10-01T09:13:05.448287-05:00.accessibility.json) |
-| [September 30 at 9:36 PM](https://archive.org/download/reforma-2022/reforma-2022-09-30T21:35:57.303336-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 102 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 103 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 5 at 9:39 PM](https://archive.org/download/reforma-2022/reforma-2022-10-05T21:39:21.238264-05:00.lighthouse.json) |
 | [October 5 at 9:23 AM](https://archive.org/download/reforma-2022/reforma-2022-10-05T09:23:49.052834-05:00.lighthouse.json) |
 | [October 4 at 9:32 PM](https://archive.org/download/reforma-2022/reforma-2022-10-04T21:32:03.472948-05:00.lighthouse.json) |
 | [October 4 at 9:18 AM](https://archive.org/download/reforma-2022/reforma-2022-10-04T09:18:29.767569-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 2 at 9:16 AM](https://archive.org/download/reforma-2022/reforma-2022-10-02T09:16:30.352787-05:00.lighthouse.json) |
 | [October 1 at 9:26 PM](https://archive.org/download/reforma-2022/reforma-2022-10-01T21:26:11.147097-05:00.lighthouse.json) |
 | [October 1 at 9:13 AM](https://archive.org/download/reforma-2022/reforma-2022-10-01T09:13:05.448287-05:00.lighthouse.json) |
-| [September 30 at 9:36 PM](https://archive.org/download/reforma-2022/reforma-2022-09-30T21:35:57.303336-05:00.lighthouse.json) |
 
 
 
