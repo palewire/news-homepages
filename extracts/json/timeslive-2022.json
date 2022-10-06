@@ -1,5 +1,5 @@
 {
-  "created": 1664987880,
+  "created": 1665030096,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/6/items/timeslive-2022",
@@ -5380,31 +5380,93 @@
       "sha1": "ad4d747dbc5206953fc37827adbe152d63c57ec3"
     },
     {
+      "name": "timeslive-2022-10-06T06:20:03.313433+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665030009",
+      "size": "46549",
+      "md5": "6ff070b7770ce9e7bb19696a69ae8d5f",
+      "crc32": "098b44eb",
+      "sha1": "cf50a428d745158983eea365414486bd38754203",
+      "format": "JSON"
+    },
+    {
+      "name": "timeslive-2022-10-06T06:20:03.313433+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665030011",
+      "size": "34391",
+      "md5": "2677564c7eb01910d1524d24ca8e242d",
+      "crc32": "562a26b4",
+      "sha1": "0d164faee1d67a4902a9f6a3f66b276194669391",
+      "format": "JSON"
+    },
+    {
+      "name": "timeslive-2022-10-06T06:20:03.313433+02:00.jpg",
+      "source": "original",
+      "mtime": "1665030008",
+      "size": "229414",
+      "md5": "0c5f5a1b0d95ca68e80b9755ccfd2f7f",
+      "crc32": "814bf9b5",
+      "sha1": "f75469ae0e614267f839b58af3fcd2f2aaab7a46",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "timeslive-2022-10-06T06:20:03.313433+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665030012",
+      "size": "1504",
+      "md5": "f2fa2547c87e6e0eefafcaca656cf01b",
+      "crc32": "6f9d5c4d",
+      "sha1": "761d72565e386ed17e61dab0c738b63d40053e33",
+      "format": "JSON"
+    },
+    {
+      "name": "timeslive-2022-10-06T06:20:03.313433+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665030014",
+      "size": "43532",
+      "md5": "e81955cbe7ca3961da29ba54a96e8ef8",
+      "crc32": "4a576860",
+      "sha1": "435752ef3cd7ad0137348a887640cd8daea7076b",
+      "format": "JSON"
+    },
+    {
+      "name": "timeslive-2022-10-06T06:20:03.313433+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timeslive-2022-10-06T06:20:03.313433+02:00.jpg",
+      "mtime": "1665030079",
+      "size": "9368",
+      "md5": "0abd2182319bec7536601e70c5919a26",
+      "crc32": "30b30bfe",
+      "sha1": "fc55ccbebf212c1326cc43a7bddb9c5fbebf3df6"
+    },
+    {
       "name": "timeslive-2022_archive.torrent",
       "source": "metadata",
-      "btih": "141269749b3ebcb7464c1f36759855e8b1bb7a4d",
-      "mtime": "1664984235",
-      "size": "111125",
-      "md5": "921965d87c562884f333ba87c8be8ae5",
-      "crc32": "70513d01",
-      "sha1": "d64936167eaf7aff59e3664ddb82b52e98a1799b",
+      "btih": "3dec1a99256d34bce4337352b2bf6f68f1e73f95",
+      "mtime": "1665030087",
+      "size": "112398",
+      "md5": "dc96de16c6158b6ea6d045afd89193cc",
+      "crc32": "ad4e86ce",
+      "sha1": "0c65c1fa8b94e211497d40d42c4ed0fb53bb20e3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timeslive-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ca8307765cb5bc93d9062ce309002a1b",
+      "md5": "4bbc74a3d257aa0bc0c3ff5669251af6",
       "summation": "md5"
     },
     {
       "name": "timeslive-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664984079",
-      "size": "679936",
-      "md5": "ed8f59ce7e8197138df599d360e64797",
-      "crc32": "40ab298a",
-      "sha1": "787f4f5e6c23f8e09ec3ab9d69fd992e09cf7053",
+      "mtime": "1665030021",
+      "size": "688128",
+      "md5": "a7d3c92dfdcac90c06339219632520ff",
+      "crc32": "e28864d0",
+      "sha1": "e27b092aa23db0efd340bcc5e3a1f6cc09c658a8",
       "format": "Metadata"
     },
     {
@@ -5418,9 +5480,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 524,
-  "item_last_updated": 1664984235,
-  "item_size": 31531188,
+  "files_count": 530,
+  "item_last_updated": 1665030087,
+  "item_size": 31905411,
   "metadata": {
     "identifier": "timeslive-2022",
     "collection": [
@@ -5438,15 +5500,7 @@
     "addeddate": "2022-08-22 22:03:22"
   },
   "server": "ia601502.us.archive.org",
-  "timeslive-2022": {
-    "url": "https://www.timeslive.co.za/",
-    "job_id": "spn2-6ddafe7cdb6e47454f39e950457d6282f62ccaee",
-    "status": "error",
-    "status_ext": "error:job-failed",
-    "message": "Job failed.",
-    "resources": []
-  },
-  "uniq": 1345573052,
+  "uniq": 1585890765,
   "workable_servers": [
     "ia601502.us.archive.org",
     "ia801502.us.archive.org"

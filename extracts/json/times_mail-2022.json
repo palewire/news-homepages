@@ -1,5 +1,5 @@
 {
-  "created": 1664987890,
+  "created": 1665030086,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/8/items/times_mail-2022",
@@ -1854,31 +1854,93 @@
       "sha1": "9f2377cfd795146cc735a6b48d062e7d1f18e2a6"
     },
     {
+      "name": "times_mail-2022-10-06T00:20:03.157994-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665030005",
+      "size": "22732",
+      "md5": "5ed301fca0aa565a162b0046bdbc1a00",
+      "crc32": "c613fbcc",
+      "sha1": "5c228a72d6198104bb2005e016b2b6b1eecc3b39",
+      "format": "JSON"
+    },
+    {
+      "name": "times_mail-2022-10-06T00:20:03.157994-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665030006",
+      "size": "32976",
+      "md5": "6c2988609e2112d1d02a8c070221103e",
+      "crc32": "549fedc0",
+      "sha1": "cb4824a5f57d1451a723ace66adcdbfb6fbac143",
+      "format": "JSON"
+    },
+    {
+      "name": "times_mail-2022-10-06T00:20:03.157994-04:00.jpg",
+      "source": "original",
+      "mtime": "1665030004",
+      "size": "295692",
+      "md5": "2e6995912dded20ccd503ea80338ef62",
+      "crc32": "3eaab220",
+      "sha1": "3c16378fdbc51ed08b2dd1f0f0df2693ee3e7a77",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "times_mail-2022-10-06T00:20:03.157994-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665030008",
+      "size": "1531",
+      "md5": "942dfee1f436ecd6698df4821f34e06e",
+      "crc32": "7f06de58",
+      "sha1": "be5db94bd008fbed191e970b0676b52e212aaf41",
+      "format": "JSON"
+    },
+    {
+      "name": "times_mail-2022-10-06T00:20:03.157994-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665030009",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "times_mail-2022-10-06T00:20:03.157994-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "times_mail-2022-10-06T00:20:03.157994-04:00.jpg",
+      "mtime": "1665030070",
+      "size": "9451",
+      "md5": "32379129d298c454126e76c98b4fc98a",
+      "crc32": "343a438b",
+      "sha1": "9926e714290a4de4dc65870e476c05c2425830c6"
+    },
+    {
       "name": "times_mail-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6a81d5afc1e832d6df25f844cabe77e958a97862",
-      "mtime": "1664984160",
-      "size": "39464",
-      "md5": "c71db00e2e21e351c22c83e369327a00",
-      "crc32": "2f9bec5e",
-      "sha1": "d9ebbb46c1d05141c5cc67e8cf90ed23b8c01368",
+      "btih": "24ac2b8c55a9000c19e5b26d74da7fce890af04b",
+      "mtime": "1665030075",
+      "size": "40741",
+      "md5": "4c442a6a3d7bf054d9b428fca604e509",
+      "crc32": "caac89c1",
+      "sha1": "984be4bf306dc56946ccaadfde571421956a775e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "times_mail-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f1a513381c9b9995db70f4592786e726",
+      "md5": "bdf80511ce54ed2a582865a32c826e75",
       "summation": "md5"
     },
     {
       "name": "times_mail-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664984064",
-      "size": "249856",
-      "md5": "6f5dbee6a4369564849e480a983408fd",
-      "crc32": "7c208153",
-      "sha1": "b7287096b479fb66fd0f273df10766c3437bfaef",
+      "mtime": "1665030013",
+      "size": "258048",
+      "md5": "7ec98725f1cc1838c11eab13d42509e0",
+      "crc32": "98cf9830",
+      "sha1": "d251a53c64d845531348b18158c4b407b594f329",
       "format": "Metadata"
     },
     {
@@ -1892,9 +1954,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 183,
-  "item_last_updated": 1664984160,
-  "item_size": 12380892,
+  "files_count": 189,
+  "item_last_updated": 1665030075,
+  "item_size": 12752945,
   "metadata": {
     "identifier": "times_mail-2022",
     "collection": [
@@ -1911,18 +1973,10 @@
     "publicdate": "2022-09-21 03:46:19",
     "addeddate": "2022-09-21 03:46:19"
   },
-  "server": "ia801509.us.archive.org",
-  "times_mail-2022": {
-    "url": "https://www.reporter-times.com/",
-    "job_id": "spn2-e0992217757099bfd95e89a625e948fc4cbcac46",
-    "status": "error",
-    "status_ext": "error:job-failed",
-    "resources": [],
-    "message": "Job failed."
-  },
-  "uniq": 2078104154,
+  "server": "ia601509.us.archive.org",
+  "uniq": 1991999429,
   "workable_servers": [
-    "ia801509.us.archive.org",
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }
