@@ -1,5 +1,5 @@
 {
-  "created": 1665002422,
+  "created": 1665035020,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/28/items/indystar-2022",
@@ -1916,31 +1916,93 @@
       "sha1": "866c2f88f6ec038725ae1252ffc63eb5393cda93"
     },
     {
+      "name": "indystar-2022-10-06T01:42:31.772438-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665034955",
+      "size": "22398",
+      "md5": "ccf424cb3b8b0e43cdaa5c442459e30a",
+      "crc32": "a9fc1892",
+      "sha1": "0a39908934b51bfebb588b3f9c3414bb4dcca5d7",
+      "format": "JSON"
+    },
+    {
+      "name": "indystar-2022-10-06T01:42:31.772438-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665034957",
+      "size": "38087",
+      "md5": "b2495bdc309a86361ca27ae11b16d972",
+      "crc32": "b4efcc85",
+      "sha1": "3bcbf3289038a7a8f943be5c9bd3fb1f3a747a03",
+      "format": "JSON"
+    },
+    {
+      "name": "indystar-2022-10-06T01:42:31.772438-04:00.jpg",
+      "source": "original",
+      "mtime": "1665034954",
+      "size": "240680",
+      "md5": "299da23e96ae4080c58413be9e3b24cf",
+      "crc32": "1830f429",
+      "sha1": "ba3671e1f4d0c2c29fa6cf93c3a31e18ba8f2101",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "indystar-2022-10-06T01:42:31.772438-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665034959",
+      "size": "1477",
+      "md5": "46ac95f7fb918b0609a550c10fd7cd4c",
+      "crc32": "2fc7bfcc",
+      "sha1": "691e37a56e9d290e0fffac6c50da632049d23a88",
+      "format": "JSON"
+    },
+    {
+      "name": "indystar-2022-10-06T01:42:31.772438-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665034960",
+      "size": "298657",
+      "md5": "abc910dd554930bf9f4ef490f71d3f8c",
+      "crc32": "de82f5fa",
+      "sha1": "bee20faa89d06670754144d90775b005457106a8",
+      "format": "JSON"
+    },
+    {
+      "name": "indystar-2022-10-06T01:42:31.772438-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "indystar-2022-10-06T01:42:31.772438-04:00.jpg",
+      "mtime": "1665035005",
+      "size": "9540",
+      "md5": "1dec556beff94857ad386ccb45e1b8e2",
+      "crc32": "b907725f",
+      "sha1": "ed7dbfc8a3a560cb4e24e022da3d55c5306848de"
+    },
+    {
       "name": "indystar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "90420aed2c956e08c6242ade7ff70f75e034ae12",
-      "mtime": "1664993865",
-      "size": "40389",
-      "md5": "721b6d417f6f7a51e4cb90fa1ec0750a",
-      "crc32": "4b0589d8",
-      "sha1": "fdd4cdf98c18e452771b762eb08a0cbd93de4456",
+      "btih": "852af54740050d0527fe4b45b480edc1e2dec11b",
+      "mtime": "1665035007",
+      "size": "41657",
+      "md5": "1415aa7634cf15f1f214739d5116feb9",
+      "crc32": "50da2f19",
+      "sha1": "f2b2cf4575dd41a6b62438280c53b1b6aba2964a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "indystar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f1d18d7336fa6888f8d42f5eda4963a8",
+      "md5": "3308cebc780ca447c5545cb91c181f81",
       "summation": "md5"
     },
     {
       "name": "indystar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664993811",
-      "size": "258048",
-      "md5": "f03d18c0bbe72008e7340d0f6f00904f",
-      "crc32": "95d30936",
-      "sha1": "1b3256b3c9d77ab3074c9b46997e0a9b6fb74791",
+      "mtime": "1665034963",
+      "size": "262144",
+      "md5": "8a12497b416303c44aa8afd108efac21",
+      "crc32": "d621a122",
+      "sha1": "981780a9337c3dac4902e6ddc236e46eea1ec6e0",
       "format": "Metadata"
     },
     {
@@ -1954,17 +2016,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 189,
-  "indystar-2022": {
-    "url": "https://www.indystar.com/",
-    "job_id": "spn2-fa13357a8d72534a306ec5ec513b2bebc1d44149",
-    "status": "error",
-    "status_ext": "error:job-failed",
-    "message": "Job failed.",
-    "resources": []
-  },
-  "item_last_updated": 1664993865,
-  "item_size": 13251115,
+  "files_count": 195,
+  "item_last_updated": 1665035007,
+  "item_size": 13867318,
   "metadata": {
     "identifier": "indystar-2022",
     "collection": [
@@ -1981,10 +2035,10 @@
     "publicdate": "2022-09-20 17:30:24",
     "addeddate": "2022-09-20 17:30:24"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 965448993,
+  "server": "ia601401.us.archive.org",
+  "uniq": 533253030,
   "workable_servers": [
-    "ia801401.us.archive.org",
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

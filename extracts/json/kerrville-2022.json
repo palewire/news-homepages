@@ -1,5 +1,5 @@
 {
-  "created": 1665002617,
+  "created": 1665035273,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/1/items/kerrville-2022",
@@ -9366,31 +9366,93 @@
       "sha1": "090cb81a1741dcc47f39a4103de1c16ab1c0ea09"
     },
     {
+      "name": "kerrville-2022-10-06T00:44:53.580044-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665035102",
+      "size": "84029",
+      "md5": "5446b41a4b8f2d588a337a79a5b9c6b5",
+      "crc32": "bac5648a",
+      "sha1": "51b3c3e2aced1fbc9e684699c304769db0df41d4",
+      "format": "JSON"
+    },
+    {
+      "name": "kerrville-2022-10-06T00:44:53.580044-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665035104",
+      "size": "134825",
+      "md5": "927417d90696e273bc6a81703bf1cbda",
+      "crc32": "58ced474",
+      "sha1": "e749e8bb537a7b504d8607be9f124cde34cda732",
+      "format": "JSON"
+    },
+    {
+      "name": "kerrville-2022-10-06T00:44:53.580044-05:00.jpg",
+      "source": "original",
+      "mtime": "1665035100",
+      "size": "260906",
+      "md5": "76a0aee3823edb6bc5ba2d4dbd032d10",
+      "crc32": "4cec79bd",
+      "sha1": "03d027587783e85a0cf575bf88a18b8777201848",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kerrville-2022-10-06T00:44:53.580044-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665035106",
+      "size": "1459",
+      "md5": "c380741f88744f606c9caf6af7b94bfa",
+      "crc32": "f6bc0685",
+      "sha1": "53b7b620cebbaccddffebc3db05c8cfe0613b719",
+      "format": "JSON"
+    },
+    {
+      "name": "kerrville-2022-10-06T00:44:53.580044-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665035107",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "kerrville-2022-10-06T00:44:53.580044-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kerrville-2022-10-06T00:44:53.580044-05:00.jpg",
+      "mtime": "1665035222",
+      "size": "9262",
+      "md5": "73271d068edf80039415fc9b7354992a",
+      "crc32": "1e80934c",
+      "sha1": "7e8a409e9ed5caa0b3be609b68957e8c04b9f565"
+    },
+    {
       "name": "kerrville-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ceef4f4331910cf3a020c507bc948c3e938a6203",
-      "mtime": "1664994598",
-      "size": "193743",
-      "md5": "1002b75ae4faff9c4f54d20fb83d91b8",
-      "crc32": "9bcdf802",
-      "sha1": "ca0dbf0ca20f46820adc038fe356481d3809e06a",
+      "btih": "9bb1c2c903ca693ab1ed84559eb1223ec20d9662",
+      "mtime": "1665035244",
+      "size": "195015",
+      "md5": "43ba6cd46a975d5ed0aff061a905051a",
+      "crc32": "b624e85a",
+      "sha1": "35c04fccda71887cfb839e518001c54e0d572a0d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kerrville-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e0e8b282f6f23854d3276827d364fef2",
+      "md5": "30e9cda33d91f72721005dbe02198be7",
       "summation": "md5"
     },
     {
       "name": "kerrville-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664994436",
-      "size": "1150976",
-      "md5": "db034a03c0b0314989783f82cecac62a",
-      "crc32": "07b8ba4b",
-      "sha1": "7e1140f9b9afca17e54d834c5dcb50a885b6d390",
+      "mtime": "1665035124",
+      "size": "1159168",
+      "md5": "d565de5a29e5afc7dd877ffa1ba1d297",
+      "crc32": "39b49423",
+      "sha1": "e1a0f2eb34ac261fa23eecc1e12d35084408fc0d",
       "format": "Metadata"
     },
     {
@@ -9404,17 +9466,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 908,
-  "item_last_updated": 1664994598,
-  "item_size": 91759409,
-  "kerrville-2022": {
-    "url": "https://dailytimes.com/",
-    "job_id": "spn2-6206f824c7ddfe1a9a1a1ddf481e6d3c3dbf5982",
-    "status": "error",
-    "status_ext": "error:job-failed",
-    "resources": [],
-    "message": "Job failed."
-  },
+  "files_count": 914,
+  "item_last_updated": 1665035244,
+  "item_size": 92259556,
   "metadata": {
     "identifier": "kerrville-2022",
     "collection": [
@@ -9431,10 +9485,10 @@
     "publicdate": "2022-07-18 00:04:49",
     "addeddate": "2022-07-18 00:04:49"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 1420644444,
+  "server": "ia801501.us.archive.org",
+  "uniq": 465183507,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }

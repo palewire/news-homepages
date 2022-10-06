@@ -1,5 +1,5 @@
 {
-  "created": 1665002467,
+  "created": 1665035087,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/31/items/irishexaminer-2022",
@@ -9292,31 +9292,93 @@
       "sha1": "1216a97b48c03cfb3bd8035b52587be229d1d6bb"
     },
     {
+      "name": "irishexaminer-2022-10-06T06:43:07.495548+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665034991",
+      "size": "33850",
+      "md5": "92a2652fa45b083f85d040ad379de893",
+      "crc32": "9201d54c",
+      "sha1": "8d0d5a2532f4457e52374d29bb521c57c162c150",
+      "format": "JSON"
+    },
+    {
+      "name": "irishexaminer-2022-10-06T06:43:07.495548+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665034993",
+      "size": "32217",
+      "md5": "95bbbf4edf209f43b3fa28a89884bd83",
+      "crc32": "fc3d6820",
+      "sha1": "84578f30aa73544fe5c26a11caa589e9e69f01fb",
+      "format": "JSON"
+    },
+    {
+      "name": "irishexaminer-2022-10-06T06:43:07.495548+01:00.jpg",
+      "source": "original",
+      "mtime": "1665034989",
+      "size": "323830",
+      "md5": "05f5da0768334cd1a587798fd5fd2c92",
+      "crc32": "c99ee018",
+      "sha1": "8846fe11034f17afd5dd4953cdcfe203db50558a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "irishexaminer-2022-10-06T06:43:07.495548+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665034995",
+      "size": "1519",
+      "md5": "3447a16d7707901aff70cf7637c3adee",
+      "crc32": "c913ddec",
+      "sha1": "4787379ee56551fc250db778b01003ac0670db03",
+      "format": "JSON"
+    },
+    {
+      "name": "irishexaminer-2022-10-06T06:43:07.495548+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1665034996",
+      "size": "18366",
+      "md5": "0428a74b6e470bd2d8363231682a2c91",
+      "crc32": "b2bb90b4",
+      "sha1": "844b910c8fc8a4ac296d92841b6a4e60d181fd13",
+      "format": "JSON"
+    },
+    {
+      "name": "irishexaminer-2022-10-06T06:43:07.495548+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "irishexaminer-2022-10-06T06:43:07.495548+01:00.jpg",
+      "mtime": "1665035065",
+      "size": "10372",
+      "md5": "b21a91d72cf458cba302e8358998f767",
+      "crc32": "f27a107a",
+      "sha1": "4430db813dbfd516b9ee24e61300e65bcc6c5ae1"
+    },
+    {
       "name": "irishexaminer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "07f5ff4deb7abb58ef0042c65105eb52b3cb8800",
-      "mtime": "1664993871",
-      "size": "194910",
-      "md5": "11eae777d194a018f74a3c569a9cc2fa",
-      "crc32": "e909a498",
-      "sha1": "3c13c2edf4d3099a64fa58156edc303a9dc086b8",
+      "btih": "ff82e72d64566cb4effb6bc74254299baf18bd7c",
+      "mtime": "1665035073",
+      "size": "196208",
+      "md5": "5ee66bf54b970126761af82ea73a60f0",
+      "crc32": "650fb778",
+      "sha1": "89848e6cb2d6c98f667905af57680eecde9e0205",
       "format": "Archive BitTorrent"
     },
     {
       "name": "irishexaminer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f1dbc6b9f6e9f3196e59f689c9606d2f",
+      "md5": "9bc2f3fc772ea56f4ab5f114708781ff",
       "summation": "md5"
     },
     {
       "name": "irishexaminer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664993780",
-      "size": "1150976",
-      "md5": "fb40e78b441ee19d1f9f1e5302fb59ec",
-      "crc32": "6a2150c0",
-      "sha1": "e728e75ab45f461db774d40c57981aa1b2dcb9c8",
+      "mtime": "1665035004",
+      "size": "1159168",
+      "md5": "8328e14d40126451f4b2cf26b990ed8b",
+      "crc32": "d362b972",
+      "sha1": "2cfa41ca65f7b32a6c8e9b34dc3c244ca631a6f9",
       "format": "Metadata"
     },
     {
@@ -9330,17 +9392,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 901,
-  "irishexaminer-2022": {
-    "url": "https://www.irishexaminer.com/",
-    "job_id": "spn2-a29b3cd286155c8a68ed1ae2e6be916e369399b0",
-    "message": "Job failed.",
-    "resources": [],
-    "status": "error",
-    "status_ext": "error:job-failed"
-  },
-  "item_last_updated": 1664993871,
-  "item_size": 65456409,
+  "files_count": 907,
+  "item_last_updated": 1665035073,
+  "item_size": 65886053,
   "metadata": {
     "identifier": "irishexaminer-2022",
     "collection": [
@@ -9357,10 +9411,10 @@
     "publicdate": "2022-07-18 02:23:56",
     "addeddate": "2022-07-18 02:23:56"
   },
-  "server": "ia801509.us.archive.org",
-  "uniq": 957688582,
+  "server": "ia601509.us.archive.org",
+  "uniq": 1761095100,
   "workable_servers": [
-    "ia801509.us.archive.org",
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }

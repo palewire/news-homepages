@@ -1,5 +1,5 @@
 {
-  "created": 1665002733,
+  "created": 1665035309,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/3/items/lanuevaespana-2022",
@@ -8362,31 +8362,93 @@
       "sha1": "a086aac782efecf7b8750a739bf2784010830992"
     },
     {
+      "name": "lanuevaespana-2022-10-06T07:45:36.658139+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665035139",
+      "size": "125850",
+      "md5": "50f4014449dde17963b72ccaec0bfd14",
+      "crc32": "867b1445",
+      "sha1": "af5e169123955973fb7f549f0259c7425f86bab4",
+      "format": "JSON"
+    },
+    {
+      "name": "lanuevaespana-2022-10-06T07:45:36.658139+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665035140",
+      "size": "188321",
+      "md5": "1f2c07f59596a27d56dfff25786086e2",
+      "crc32": "b1cd37dd",
+      "sha1": "da7e82756b87c2dd62280dfd5551972a38ab1dcc",
+      "format": "JSON"
+    },
+    {
+      "name": "lanuevaespana-2022-10-06T07:45:36.658139+02:00.jpg",
+      "source": "original",
+      "mtime": "1665035137",
+      "size": "254982",
+      "md5": "633b57fe701e28ea4fccef4fcbe7c8f4",
+      "crc32": "4b883a54",
+      "sha1": "a86d35a8ac2ec624425cf5d4a6b880b427237033",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lanuevaespana-2022-10-06T07:45:36.658139+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665035142",
+      "size": "1423",
+      "md5": "9255b862c18673f9a1066af687a81b82",
+      "crc32": "a65a468d",
+      "sha1": "5922a46fd6a8ba9c39fa902b649e7c1a49f3e6fd",
+      "format": "JSON"
+    },
+    {
+      "name": "lanuevaespana-2022-10-06T07:45:36.658139+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665035143",
+      "size": "27139",
+      "md5": "56bd874294cd86db6c9b9abc6a2e4399",
+      "crc32": "51e9b463",
+      "sha1": "927164500650fc58be7f75a706f5d74e55f92f0d",
+      "format": "JSON"
+    },
+    {
+      "name": "lanuevaespana-2022-10-06T07:45:36.658139+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lanuevaespana-2022-10-06T07:45:36.658139+02:00.jpg",
+      "mtime": "1665035260",
+      "size": "9595",
+      "md5": "34b9c6d0b614780af89de120be696113",
+      "crc32": "e46b0cc5",
+      "sha1": "d4c778d2cdc2760afa1f718db939fd06a1c8b147"
+    },
+    {
       "name": "lanuevaespana-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bbea0c054809d60e7766702330cb6f0ebc0c93bc",
-      "mtime": "1664994695",
-      "size": "176937",
-      "md5": "85cfbbb9618429b4c388af05337af7e1",
-      "crc32": "52b4cc35",
-      "sha1": "6e9b8a753834284803724a1d722af1a13dfde1a4",
+      "btih": "c11646a076c43ce66e407fef0879bf4524eb3865",
+      "mtime": "1665035273",
+      "size": "178236",
+      "md5": "3de5045da42d67730f1bc4efb337192d",
+      "crc32": "4d99daa8",
+      "sha1": "98ed1c04bf063bdff22a5e1fd67e8c2f95ba8d5c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lanuevaespana-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2d43bc07bbe1d1c6b96b4d301a1a8033",
+      "md5": "eb220696d71d3f33e5751cd1350d2a83",
       "summation": "md5"
     },
     {
       "name": "lanuevaespana-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664994461",
-      "size": "1044480",
-      "md5": "145db401f564a660911f4b667bf440e2",
-      "crc32": "63154415",
-      "sha1": "7cd5395b9cba44d975123aeb0ae18396c0e8b1c8",
+      "mtime": "1665035159",
+      "size": "1052672",
+      "md5": "6d5bed1c6b15bc49ae981e6e05bb252a",
+      "crc32": "64a865b9",
+      "sha1": "6d9e34b443dcd12ce4564f56f977a444109e9152",
       "format": "Metadata"
     },
     {
@@ -8400,17 +8462,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 812,
-  "item_last_updated": 1664994695,
-  "item_size": 86913915,
-  "lanuevaespana-2022": {
-    "url": "https://www.lne.es/",
-    "job_id": "spn2-cfe728a31df1e08239110aec966f46d445e4fcdc",
-    "message": "Job failed.",
-    "resources": [],
-    "status": "error",
-    "status_ext": "error:job-failed"
-  },
+  "files_count": 818,
+  "item_last_updated": 1665035273,
+  "item_size": 87530716,
   "metadata": {
     "identifier": "lanuevaespana-2022",
     "collection": [
@@ -8428,7 +8482,7 @@
     "addeddate": "2022-07-28 18:53:55"
   },
   "server": "ia801500.us.archive.org",
-  "uniq": 978930860,
+  "uniq": 157482658,
   "workable_servers": [
     "ia801500.us.archive.org",
     "ia601500.us.archive.org"

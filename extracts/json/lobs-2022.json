@@ -1,5 +1,5 @@
 {
-  "created": 1665002828,
+  "created": 1665035347,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/34/items/lobs-2022",
@@ -16114,31 +16114,93 @@
       "sha1": "8c5922ab9b11ce012e14d6c48d4db69a040d33fd"
     },
     {
+      "name": "lobs-2022-10-06T07:46:05.111929+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665035168",
+      "size": "102588",
+      "md5": "ad5cacecf30bcd8182868f7e664444af",
+      "crc32": "a6769001",
+      "sha1": "e6dd8538cac9c13bc6b50907c3d3e600e19829b2",
+      "format": "JSON"
+    },
+    {
+      "name": "lobs-2022-10-06T07:46:05.111929+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665035170",
+      "size": "89599",
+      "md5": "c6790364661b1496665f1724360fd15a",
+      "crc32": "916606c7",
+      "sha1": "e397efc1faa77c83d7874d24bd509f4968028fa6",
+      "format": "JSON"
+    },
+    {
+      "name": "lobs-2022-10-06T07:46:05.111929+02:00.jpg",
+      "source": "original",
+      "mtime": "1665035166",
+      "size": "247557",
+      "md5": "5e1df56afc3ff00cb539a302fe654d82",
+      "crc32": "9ea1ab3f",
+      "sha1": "1043c846ddfc07c6c746b011bd18b65eabdb62ee",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lobs-2022-10-06T07:46:05.111929+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665035171",
+      "size": "1476",
+      "md5": "2579f7479d684a3e9bb195b65498be36",
+      "crc32": "752a3f2f",
+      "sha1": "7b8459cddcd392015a288f6ed57c9e28804f940a",
+      "format": "JSON"
+    },
+    {
+      "name": "lobs-2022-10-06T07:46:05.111929+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665035173",
+      "size": "25167",
+      "md5": "9bf9f716aec80330ed5a88047385b1b5",
+      "crc32": "6b56e53f",
+      "sha1": "929be2daaa9849c4fe7de3b3c63764c3d37b640b",
+      "format": "JSON"
+    },
+    {
+      "name": "lobs-2022-10-06T07:46:05.111929+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lobs-2022-10-06T07:46:05.111929+02:00.jpg",
+      "mtime": "1665035276",
+      "size": "8674",
+      "md5": "10e1f32c2beef7efc5d40acbb60b7e9b",
+      "crc32": "fdcdc760",
+      "sha1": "b217e42557694eaf56ceeb7674f7d370eeac23bd"
+    },
+    {
       "name": "lobs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b29f2f7d1531a059261b241b5138f2c848c4649f",
-      "mtime": "1664994749",
-      "size": "322456",
-      "md5": "80de27c3b723ec5c0463f407a59ebbec",
-      "crc32": "38e5a2c2",
-      "sha1": "87cb6b7958cbf1a8e6ac693899ad200f610edc08",
+      "btih": "b2e82bfed48e17be3ee910ac8d5c59cb1b4b9042",
+      "mtime": "1665035299",
+      "size": "323700",
+      "md5": "279086b4ebdd840688ba35d73f172b8f",
+      "crc32": "d253c2fb",
+      "sha1": "f6d53bdeeb5ece5581137393a075f8e394ecb43c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lobs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d9e6ece68aef081e2ea863fb74895c8a",
+      "md5": "3f21743ec364fbac1d20527dc4d2f114",
       "summation": "md5"
     },
     {
       "name": "lobs-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664994473",
-      "size": "1921024",
-      "md5": "d4c13d3bbd2f19a08ec13731d8bd7c10",
-      "crc32": "b87f7119",
-      "sha1": "71ec0566a17fd555d879f6b92eefd426df5c3cf5",
+      "mtime": "1665035190",
+      "size": "1929216",
+      "md5": "b6599e1b334c71b34ef133147f6634c8",
+      "crc32": "edbe7fb9",
+      "sha1": "2593cb8362f4862758cd41c57c26f953bd3171d1",
       "format": "Metadata"
     },
     {
@@ -16152,17 +16214,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1557,
-  "item_last_updated": 1664994749,
-  "item_size": 129292962,
-  "lobs-2022": {
-    "url": "https://www.nouvelobs.com/",
-    "job_id": "spn2-85da40cc17db357b85e873a6d1560caa5ee12e05",
-    "status": "error",
-    "status_ext": "error:job-failed",
-    "resources": [],
-    "message": "Job failed."
-  },
+  "files_count": 1563,
+  "item_last_updated": 1665035299,
+  "item_size": 129777459,
   "metadata": {
     "identifier": "lobs-2022",
     "collection": [
@@ -16180,7 +16234,7 @@
     "addeddate": "2022-06-30 22:26:27"
   },
   "server": "ia801500.us.archive.org",
-  "uniq": 963763555,
+  "uniq": 333960074,
   "workable_servers": [
     "ia801500.us.archive.org",
     "ia601500.us.archive.org"

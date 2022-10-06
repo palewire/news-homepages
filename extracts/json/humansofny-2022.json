@@ -1,5 +1,5 @@
 {
-  "created": 1665002408,
+  "created": 1665035042,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/1/items/humansofny-2022",
@@ -9050,31 +9050,93 @@
       "sha1": "97807ba38722f3b8b0681de0772f4670d66412da"
     },
     {
+      "name": "humansofny-2022-10-06T01:42:35.438586-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665034965",
+      "size": "2190",
+      "md5": "b7a06cba358058809e25269f89a3a0f4",
+      "crc32": "e44e264a",
+      "sha1": "5ac2d42dc30bcf3597b6c6081b5379a1a193406c",
+      "format": "JSON"
+    },
+    {
+      "name": "humansofny-2022-10-06T01:42:35.438586-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665034967",
+      "size": "1366",
+      "md5": "bb681b85453068c6eea27cd4abc506ee",
+      "crc32": "fd3b4771",
+      "sha1": "dc8c692057797512255650d3221752b27a4b883e",
+      "format": "JSON"
+    },
+    {
+      "name": "humansofny-2022-10-06T01:42:35.438586-04:00.jpg",
+      "source": "original",
+      "mtime": "1665034963",
+      "size": "120883",
+      "md5": "c35d3be631209aafd5355d08aa9d0953",
+      "crc32": "cd9f0b82",
+      "sha1": "19d90c9a6b3eb98214bf6730c55ea75a360f2c55",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humansofny-2022-10-06T01:42:35.438586-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665034969",
+      "size": "1540",
+      "md5": "e497437d2e3c32a12e46ce2338bafa30",
+      "crc32": "d563e0c8",
+      "sha1": "535b5ef940fa0f6cfd726655be25af53c2d87069",
+      "format": "JSON"
+    },
+    {
+      "name": "humansofny-2022-10-06T01:42:35.438586-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665034971",
+      "size": "212",
+      "md5": "d0b6be35d28d44e7db466456776d2dd3",
+      "crc32": "432bd4a0",
+      "sha1": "0d91e5ba6ab5dc086b3d5448f4b9ed4dbce27d80",
+      "format": "JSON"
+    },
+    {
+      "name": "humansofny-2022-10-06T01:42:35.438586-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humansofny-2022-10-06T01:42:35.438586-04:00.jpg",
+      "mtime": "1665035029",
+      "size": "8468",
+      "md5": "8057e7d68477e1e02fb38a60f1b439c2",
+      "crc32": "72cad4dc",
+      "sha1": "33804d26b4028b0907703f832165d3723c276164"
+    },
+    {
       "name": "humansofny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "257865925c81df76310d81daa7d9448602851590",
-      "mtime": "1664993804",
-      "size": "185460",
-      "md5": "730bada04141bff867c085da015cc774",
-      "crc32": "672dec76",
-      "sha1": "45f15811d89c71446ba50103121be261b3cacb46",
+      "btih": "3c55692f518721856b614bad19f7fda0c3c5ba49",
+      "mtime": "1665035037",
+      "size": "186715",
+      "md5": "a5bd72b9b32e020c2fa80cdfdcef7add",
+      "crc32": "9b9d31f5",
+      "sha1": "1168c0456207c8a55d413b95aee0238f5cbe07ad",
       "format": "Archive BitTorrent"
     },
     {
       "name": "humansofny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a84570d4896901e8353f2934c2f09022",
+      "md5": "4e96626f8612534395dd890d3395d1cd",
       "summation": "md5"
     },
     {
       "name": "humansofny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664993697",
-      "size": "1122304",
-      "md5": "9ec033558d73f799d17f54485faf58bb",
-      "crc32": "8624f463",
-      "sha1": "c575e901958e05b1165e4d1f8ca3916e69dd6880",
+      "mtime": "1665034977",
+      "size": "1126400",
+      "md5": "484286912b7cdf834a25a81169582df6",
+      "crc32": "28bfe7a9",
+      "sha1": "cfb09bcc93c4d365b0619ac0a1b2ece67d0323c6",
       "format": "Metadata"
     },
     {
@@ -9088,17 +9150,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 878,
-  "humansofny-2022": {
-    "url": "https://www.humansofnewyork.com/",
-    "job_id": "spn2-72448f1250e6595cbf0389bd28862bd59aeeb727",
-    "message": "Job failed.",
-    "resources": [],
-    "status": "error",
-    "status_ext": "error:job-failed"
-  },
-  "item_last_updated": 1664993804,
-  "item_size": 25962292,
+  "files_count": 884,
+  "item_last_updated": 1665035037,
+  "item_size": 26102302,
   "metadata": {
     "identifier": "humansofny-2022",
     "collection": [
@@ -9116,7 +9170,7 @@
     "addeddate": "2022-07-21 02:25:52"
   },
   "server": "ia601506.us.archive.org",
-  "uniq": 376644792,
+  "uniq": 947820817,
   "workable_servers": [
     "ia601506.us.archive.org",
     "ia801506.us.archive.org"
