@@ -1,6 +1,5 @@
 {
-  "conflict": 1665090099,
-  "created": 1665090099,
+  "created": 1665090325,
   "d1": "ia903007.us.archive.org",
   "d2": "ia803007.us.archive.org",
   "dir": "/16/items/latimes-2022",
@@ -45733,31 +45732,82 @@
       "sha1": "9b6f8e18af53756ab2adff1af734cd295bd5aca6"
     },
     {
+      "name": "latimes-2022-10-06T14:01:29.152692-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665090094",
+      "size": "44737",
+      "md5": "02fabbd9804cfa2ede197116e67c9338",
+      "crc32": "cb5159c2",
+      "sha1": "541d2c663e9dc7f47b6da5e75715cb95d992452a",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-10-06T14:01:29.152692-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665090097",
+      "size": "56938",
+      "md5": "cedae5a91db7a92eea20f33ca77bd46c",
+      "crc32": "b3116291",
+      "sha1": "983fce9fb4cc37756ee34ce4f5ee00ac72d776ce",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-10-06T14:01:29.152692-07:00.jpg",
+      "source": "original",
+      "mtime": "1665090091",
+      "size": "289952",
+      "md5": "9297e0726ddadf18f76a825741e4f556",
+      "crc32": "eddb9ac7",
+      "sha1": "f5d02b4226fd4001b803abd84849770699e700f9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "latimes-2022-10-06T14:01:29.152692-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665090100",
+      "size": "1468",
+      "md5": "ea4f92d9cebfdef6fc238a21358c62fa",
+      "crc32": "d755779f",
+      "sha1": "b34391f63b6acbe3c7c736b85ca57f4974b9ac61",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-10-06T14:01:29.152692-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665090102",
+      "size": "203",
+      "md5": "4fab1aa1127ce2cb105f45170317db24",
+      "crc32": "7f347d39",
+      "sha1": "d7e31f3f749b7074dc6d3459bd1ae78e6941a7d9",
+      "format": "JSON"
+    },
+    {
       "name": "latimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6b5b28cff91ed3b16a1441a0506ea9d0dcb2f07a",
-      "mtime": "1665089908",
-      "size": "922096",
-      "md5": "cf7b39c31c3f53310baeca7997643b0f",
-      "crc32": "72c05303",
-      "sha1": "c3cdcad778fbab7ce70b6f19dae5e6ff1d5ce562",
+      "btih": "828f77482747969792b68ed925a2bd5d83fcdbcd",
+      "mtime": "1665090312",
+      "size": "923132",
+      "md5": "14255b1fda8284d139684cadedb58193",
+      "crc32": "ef3a7a67",
+      "sha1": "e18b917d1938021e1a0f1a2aa4ef80a2aecb8f4a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "latimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "51b0f4e78b280d4ff31fecb098f3cbf8",
+      "md5": "d223631b644bcbf895f72af0e6acf837",
       "summation": "md5"
     },
     {
       "name": "latimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665089485",
-      "size": "5275648",
-      "md5": "d910cb2cf7c96faac461770c47942a17",
-      "crc32": "c08c447c",
-      "sha1": "6c0531ab02b67968795bb0b78e2ddc3247e90785",
+      "mtime": "1665090108",
+      "size": "5283840",
+      "md5": "c202ebaf80d8361048193a5be2e50065",
+      "crc32": "ff0373ea",
+      "sha1": "b863959f20eb0f62b123f5c3909805f382d3209a",
       "format": "Metadata"
     },
     {
@@ -45771,9 +45821,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 4393,
-  "item_last_updated": 1665089908,
-  "item_size": 389535895,
+  "files_count": 4398,
+  "item_last_updated": 1665090312,
+  "item_size": 389938421,
   "metadata": {
     "identifier": "latimes-2022",
     "collection": [
@@ -45795,15 +45845,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3431788168,
-      "cmd": "archive.php",
-      "priority": -5,
+      "task_id": 3431794220,
+      "cmd": "derive.php",
+      "priority": -6,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     }
   ],
-  "uniq": 912788138,
+  "uniq": 1736482533,
   "workable_servers": [
     "ia903007.us.archive.org"
   ]
