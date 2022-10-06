@@ -1,5 +1,5 @@
 {
-  "created": 1665024019,
+  "created": 1665068811,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/18/items/ruidosonews-2022",
@@ -1938,31 +1938,93 @@
       "sha1": "cbcbc6f9644501422e70e60b0090a769948842e7"
     },
     {
+      "name": "ruidosonews-2022-10-06T08:17:19.131661-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665065847",
+      "size": "19041",
+      "md5": "890241510d630a5cc05356915c1f2cb3",
+      "crc32": "3cd3934a",
+      "sha1": "854e2f713857bea532fc01d94c712603f2f90345",
+      "format": "JSON"
+    },
+    {
+      "name": "ruidosonews-2022-10-06T08:17:19.131661-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665065849",
+      "size": "31335",
+      "md5": "a9baf7783f6f36d007b6318878447b29",
+      "crc32": "32bca030",
+      "sha1": "a3047cbc0130aa6f29a7334b3d9136aea1459798",
+      "format": "JSON"
+    },
+    {
+      "name": "ruidosonews-2022-10-06T08:17:19.131661-06:00.jpg",
+      "source": "original",
+      "mtime": "1665065845",
+      "size": "239080",
+      "md5": "ad90cf2f9bc2a2c213cfb3f2bfe0cec3",
+      "crc32": "de54d133",
+      "sha1": "3b36572d14f3ee99f4d7011abd1c31bbfde433ea",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ruidosonews-2022-10-06T08:17:19.131661-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665065851",
+      "size": "1504",
+      "md5": "35cd51348ec3c24022e9347b58f6a071",
+      "crc32": "4e455077",
+      "sha1": "10c8d1b5d224d3b5a87eb9d3f4e28cc3788289ab",
+      "format": "JSON"
+    },
+    {
+      "name": "ruidosonews-2022-10-06T08:17:19.131661-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1665065859",
+      "size": "208",
+      "md5": "7de45da02652cee64d8285fd9414bc23",
+      "crc32": "3ebb2886",
+      "sha1": "472cc087c9c8219a20e6f0d8d1018b4cc8be249b",
+      "format": "JSON"
+    },
+    {
+      "name": "ruidosonews-2022-10-06T08:17:19.131661-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ruidosonews-2022-10-06T08:17:19.131661-06:00.jpg",
+      "mtime": "1665065909",
+      "size": "9186",
+      "md5": "ea18c4b20b5157fe52a7cdf61c3512e0",
+      "crc32": "13bccea2",
+      "sha1": "2b05d69e41a79010f4f335e373af0d36e4cf928f"
+    },
+    {
       "name": "ruidosonews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a9879cd47d1067933f8e3c3c6b71fc77eb83fd23",
-      "mtime": "1665024012",
-      "size": "41264",
-      "md5": "b5d10414b020bcccce3eb273cc12ddb6",
-      "crc32": "4875228c",
-      "sha1": "62f95d093b3d07b63f1028c1cc98be54496e516b",
+      "btih": "39312efb87fbd3ca725ed690cbf2eb98df6a4346",
+      "mtime": "1665065914",
+      "size": "42547",
+      "md5": "40f0eeb56718b1313e94d08e93d67ab0",
+      "crc32": "9316a091",
+      "sha1": "af37bd919512d02d82e31f1d6750d673a524dbcb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ruidosonews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "86c2b79fb97d2a1e242b680ee7c92900",
+      "md5": "622eab1e117ade91da6f5e1b64196b31",
       "summation": "md5"
     },
     {
       "name": "ruidosonews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665023963",
-      "size": "262144",
-      "md5": "2c95c1288c1cb1771c1d0ec74b0774a0",
-      "crc32": "06e98f59",
-      "sha1": "50e96b7cffc80b5aed89c012a5429eeaa099a7ce",
+      "mtime": "1665065863",
+      "size": "270336",
+      "md5": "926d5d9b445b02f2a94e11972f98cafb",
+      "crc32": "d16ca7b0",
+      "sha1": "123320c8a5bbdda416dd30ae4d0a054553c0be86",
       "format": "Metadata"
     },
     {
@@ -1976,9 +2038,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 191,
-  "item_last_updated": 1665024012,
-  "item_size": 11285585,
+  "files_count": 197,
+  "item_last_updated": 1665065914,
+  "item_size": 11595414,
   "metadata": {
     "identifier": "ruidosonews-2022",
     "collection": [
@@ -1995,10 +2057,18 @@
     "publicdate": "2022-09-21 02:24:31",
     "addeddate": "2022-09-21 02:24:31"
   },
-  "server": "ia801402.us.archive.org",
-  "uniq": 435404451,
+  "ruidosonews-2022": {
+    "url": "https://www.ruidosonews.com/",
+    "job_id": "spn2-f369c16d58c94c45a58a15699e4a6e161afa9469",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "message": "Job failed.",
+    "resources": []
+  },
+  "server": "ia601402.us.archive.org",
+  "uniq": 505370907,
   "workable_servers": [
-    "ia801402.us.archive.org",
-    "ia601402.us.archive.org"
+    "ia601402.us.archive.org",
+    "ia801402.us.archive.org"
   ]
 }

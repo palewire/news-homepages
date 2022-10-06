@@ -1,5 +1,5 @@
 {
-  "created": 1665023819,
+  "created": 1665068586,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/15/items/owhnews-2022",
@@ -8298,31 +8298,93 @@
       "sha1": "30ca38fb6615bef59508953e68e24e7bebce40ff"
     },
     {
+      "name": "owhnews-2022-10-06T09:15:15.806422-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665065722",
+      "size": "26942",
+      "md5": "42ed0fa8b2fdd07e2eb811c39f1dac5f",
+      "crc32": "f225e6e9",
+      "sha1": "ca1918a402155e03cd462ab141afc5aa0281b9e5",
+      "format": "JSON"
+    },
+    {
+      "name": "owhnews-2022-10-06T09:15:15.806422-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665065724",
+      "size": "82259",
+      "md5": "8dbcff202788d4b3576a3e4b4ce64dcd",
+      "crc32": "3902c778",
+      "sha1": "c43d45e3e54559de412d47b837c5cb9868095306",
+      "format": "JSON"
+    },
+    {
+      "name": "owhnews-2022-10-06T09:15:15.806422-05:00.jpg",
+      "source": "original",
+      "mtime": "1665065720",
+      "size": "321300",
+      "md5": "93a7de8b27e8f110e0f168c92ecb1eab",
+      "crc32": "af3e8dce",
+      "sha1": "0721910c90c133ea6acb72f0b050f4eeebd010ae",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "owhnews-2022-10-06T09:15:15.806422-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665065725",
+      "size": "1414",
+      "md5": "de07552427680202912e06a567e719c6",
+      "crc32": "df255a5a",
+      "sha1": "d42c7f3a2e122335ab88786e1be8ecd0f65bda24",
+      "format": "JSON"
+    },
+    {
+      "name": "owhnews-2022-10-06T09:15:15.806422-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665065727",
+      "size": "198",
+      "md5": "39b98028950c3ecf2abcc2fa872d654d",
+      "crc32": "7005c754",
+      "sha1": "8ac109075028dcf949ba065d6f2f1623cbf5ef7c",
+      "format": "JSON"
+    },
+    {
+      "name": "owhnews-2022-10-06T09:15:15.806422-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "owhnews-2022-10-06T09:15:15.806422-05:00.jpg",
+      "mtime": "1665065777",
+      "size": "12442",
+      "md5": "ae0eb5a039b4dca8d4c3a87fc0f5b75b",
+      "crc32": "2ebcb718",
+      "sha1": "ff5b884c13d1d4c9153c3b59218bc386d614dd30"
+    },
+    {
       "name": "owhnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "57a081d77b46b894934b184d723a3797753d948e",
-      "mtime": "1665023814",
-      "size": "169795",
-      "md5": "d4f5b1d614218d8df7e99802cc67179e",
-      "crc32": "7cff3fbd",
-      "sha1": "86d0e3169a81f1973ec35e9b12081bb40c72cf63",
+      "btih": "8f671540c4515ba1b889f12bf16de9824fde4c8b",
+      "mtime": "1665065785",
+      "size": "171055",
+      "md5": "b56437c314361a232cd304e0f4aba491",
+      "crc32": "baaae213",
+      "sha1": "f41225b3702884f66b15a406bb6dffba0873efa0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "owhnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ccf3cf4a36b70f64eb237d912cc731b7",
+      "md5": "0807e48d9857c0bb623c4fe0300f1645",
       "summation": "md5"
     },
     {
       "name": "owhnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665023754",
-      "size": "1028096",
-      "md5": "45b38898f19e44ad6e8c9145cb14b373",
-      "crc32": "b59a7f49",
-      "sha1": "bc2e4e42b98366693da8e68e9ae14a0305355e32",
+      "mtime": "1665065730",
+      "size": "1036288",
+      "md5": "fa8504cb9ac27def6a4292a29128a052",
+      "crc32": "1be6625b",
+      "sha1": "decda63f3a79817f8eb176569290c2c1a4b4be23",
       "format": "Metadata"
     },
     {
@@ -8336,9 +8398,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 806,
-  "item_last_updated": 1665023814,
-  "item_size": 64769375,
+  "files_count": 812,
+  "item_last_updated": 1665065785,
+  "item_size": 65223382,
   "metadata": {
     "identifier": "owhnews-2022",
     "collection": [
@@ -8355,8 +8417,16 @@
     "publicdate": "2022-07-30 16:33:37",
     "addeddate": "2022-07-30 16:33:37"
   },
+  "owhnews-2022": {
+    "url": "https://omaha.com/",
+    "job_id": "spn2-cbf03c67a0ad936d433ea1cffe13e50b9ac5b7df",
+    "resources": [],
+    "status": "error",
+    "message": "Job failed.",
+    "status_ext": "error:job-failed"
+  },
   "server": "ia802509.us.archive.org",
-  "uniq": 934978957,
+  "uniq": 1101501748,
   "workable_servers": [
     "ia802509.us.archive.org",
     "ia902509.us.archive.org"
