@@ -234,13 +234,105 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 30 screenshots with the Internet Archive.
+The archiving routine has saved 31 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/hburgamerican.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-06T00:42:36.853645-05:00.jpg">
+  <img src="https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-06T00:42:36.853645-05:00.jpg"
+     alt="Hattiesburg American at 2022-10-06 00:42:39-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-06T00:42:36.853645-05:00.jpg">October 6 at 12:42 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-05T13:15:17.686946-05:00.jpg">
@@ -341,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/hburgamerican-2022/hburgamerican-2022-09-30T13:07:02.965562-05:00.jpg">September 30 at 1:07 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/hburgamerican-2022/hburgamerican-2022-09-30T01:17:20.307992-05:00.jpg">
-  <img src="https://archive.org/download/hburgamerican-2022/hburgamerican-2022-09-30T01:17:20.307992-05:00.jpg"
-     alt="Hattiesburg American at 2022-09-30 01:17:22-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hburgamerican-2022/hburgamerican-2022-09-30T01:17:20.307992-05:00.jpg">September 30 at 1:17 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 31 hyperlink lists with the Internet Archive.
+The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -445,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 6 at 12:42 AM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-06T00:42:36.853645-05:00.hyperlinks.json) |
 | [October 5 at 1:15 PM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-05T13:15:17.686946-05:00.hyperlinks.json) |
 | [October 5 at 12:48 AM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-05T00:48:06.298741-05:00.hyperlinks.json) |
 | [October 4 at 12:47 PM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-04T12:46:50.640897-05:00.hyperlinks.json) |
@@ -454,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 2 at 12:28 PM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-02T12:28:11.946376-05:00.hyperlinks.json) |
 | [October 2 at 12:59 AM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-02T00:59:12.507204-05:00.hyperlinks.json) |
 | [October 1 at 12:30 PM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-01T12:30:01.806414-05:00.hyperlinks.json) |
-| [October 1 at 1:08 AM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-01T01:08:26.717705-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 31 accessibility trees with the Internet Archive.
+The archiving routine has saved 32 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -550,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 6 at 12:42 AM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-06T00:42:36.853645-05:00.accessibility.json) |
 | [October 5 at 1:15 PM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-05T13:15:17.686946-05:00.accessibility.json) |
 | [October 5 at 12:48 AM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-05T00:48:06.298741-05:00.accessibility.json) |
 | [October 4 at 12:46 PM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-04T12:46:50.640897-05:00.accessibility.json) |
@@ -559,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 2 at 12:28 PM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-02T12:28:11.946376-05:00.accessibility.json) |
 | [October 2 at 12:59 AM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-02T00:59:12.507204-05:00.accessibility.json) |
 | [October 1 at 12:30 PM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-01T12:30:01.806414-05:00.accessibility.json) |
-| [October 1 at 1:08 AM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-01T01:08:26.717705-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -656,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 6 at 12:42 AM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-06T00:42:36.853645-05:00.lighthouse.json) |
 | [October 5 at 1:15 PM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-05T13:15:17.686946-05:00.lighthouse.json) |
 | [October 5 at 12:48 AM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-05T00:48:06.298741-05:00.lighthouse.json) |
 | [October 4 at 12:47 PM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-04T12:46:50.640897-05:00.lighthouse.json) |
@@ -665,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 2 at 12:28 PM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-02T12:28:11.946376-05:00.lighthouse.json) |
 | [October 2 at 12:59 AM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-02T00:59:12.507204-05:00.lighthouse.json) |
 | [October 1 at 12:30 PM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-01T12:30:01.806414-05:00.lighthouse.json) |
-| [October 1 at 1:08 AM](https://archive.org/download/hburgamerican-2022/hburgamerican-2022-10-01T01:08:26.717705-05:00.lighthouse.json) |
 
 
 

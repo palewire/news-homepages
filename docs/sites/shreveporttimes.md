@@ -234,13 +234,114 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 30 screenshots with the Internet Archive.
+The archiving routine has saved 32 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/shreveporttimes.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-06T02:17:43.150010-05:00.jpg">
+  <img src="https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-06T02:17:43.150010-05:00.jpg"
+     alt="Shreveport Times at 2022-10-06 02:17:45-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-06T02:17:43.150010-05:00.jpg">October 6 at 2:17 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-05T15:45:40.012735-05:00.jpg">
+  <img src="https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-05T15:45:40.012735-05:00.jpg"
+     alt="Shreveport Times at 2022-10-05 15:45:46-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-05T15:45:40.012735-05:00.jpg">October 5 at 3:45 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-05T02:28:05.113960-05:00.jpg">
@@ -332,36 +433,103 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-09-30T15:17:31.774432-05:00.jpg">September 30 at 3:17 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-09-30T03:07:18.435424-05:00.jpg">
-  <img src="https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-09-30T03:07:18.435424-05:00.jpg"
-     alt="Shreveport Times at 2022-09-30 03:07:20-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-09-30T03:07:18.435424-05:00.jpg">September 30 at 3:07 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-09-29T14:34:17.156356-05:00.jpg">
-  <img src="https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-09-29T14:34:17.156356-05:00.jpg"
-     alt="Shreveport Times at 2022-09-29 14:34:20-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-09-29T14:34:17.156356-05:00.jpg">September 29 at 2:34 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 30 hyperlink lists with the Internet Archive.
+The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/shreveporttimes.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 6 at 2:17 AM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-06T02:17:43.150010-05:00.hyperlinks.json) |
+| [October 5 at 3:45 PM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-05T15:45:40.012735-05:00.hyperlinks.json) |
 | [October 5 at 2:28 AM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-05T02:28:05.113960-05:00.hyperlinks.json) |
 | [October 4 at 2:39 PM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-04T14:39:07.250472-05:00.hyperlinks.json) |
 | [October 4 at 2:50 AM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-04T02:50:36.863334-05:00.hyperlinks.json) |
@@ -370,20 +538,103 @@ Here are the 10 most recent hyperlink lists.
 | [October 2 at 2:12 PM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-02T14:12:27.924156-05:00.hyperlinks.json) |
 | [October 2 at 2:25 AM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-02T02:25:30.228865-05:00.hyperlinks.json) |
 | [October 1 at 2:11 PM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-01T14:11:04.009791-05:00.hyperlinks.json) |
-| [October 1 at 3:00 AM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-01T03:00:49.582269-05:00.hyperlinks.json) |
-| [September 30 at 3:17 PM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-09-30T15:17:31.774432-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 30 accessibility trees with the Internet Archive.
+The archiving routine has saved 32 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/shreveporttimes.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 6 at 2:17 AM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-06T02:17:43.150010-05:00.accessibility.json) |
+| [October 5 at 3:45 PM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-05T15:45:40.012735-05:00.accessibility.json) |
 | [October 5 at 2:28 AM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-05T02:28:05.113960-05:00.accessibility.json) |
 | [October 4 at 2:39 PM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-04T14:39:07.250472-05:00.accessibility.json) |
 | [October 4 at 2:50 AM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-04T02:50:36.863334-05:00.accessibility.json) |
@@ -392,21 +643,104 @@ Here are the 10 most recent accessibility trees.
 | [October 2 at 2:12 PM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-02T14:12:27.924156-05:00.accessibility.json) |
 | [October 2 at 2:25 AM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-02T02:25:30.228865-05:00.accessibility.json) |
 | [October 1 at 2:11 PM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-01T14:11:04.009791-05:00.accessibility.json) |
-| [October 1 at 3:00 AM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-01T03:00:49.582269-05:00.accessibility.json) |
-| [September 30 at 3:17 PM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-09-30T15:17:31.774432-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/shreveporttimes.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 6 at 2:17 AM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-06T02:17:43.150010-05:00.lighthouse.json) |
+| [October 5 at 3:45 PM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-05T15:45:40.012735-05:00.lighthouse.json) |
 | [October 5 at 2:28 AM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-05T02:28:05.113960-05:00.lighthouse.json) |
 | [October 4 at 2:39 PM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-04T14:39:07.250472-05:00.lighthouse.json) |
 | [October 4 at 2:50 AM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-04T02:50:36.863334-05:00.lighthouse.json) |
@@ -415,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 2 at 2:12 PM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-02T14:12:27.924156-05:00.lighthouse.json) |
 | [October 2 at 2:25 AM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-02T02:25:30.228865-05:00.lighthouse.json) |
 | [October 1 at 2:11 PM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-01T14:11:04.009791-05:00.lighthouse.json) |
-| [October 1 at 3:00 AM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-10-01T03:00:49.582269-05:00.lighthouse.json) |
-| [September 30 at 3:17 PM](https://archive.org/download/shreveporttimes-2022/shreveporttimes-2022-09-30T15:17:31.774432-05:00.lighthouse.json) |
 
 
 

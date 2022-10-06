@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 131 screenshots with the Internet Archive.
+The archiving routine has saved 133 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/courierjournal-2022/courierjournal-2022-10-06T01:50:18.926716-04:00.jpg">
+  <img src="https://archive.org/download/courierjournal-2022/courierjournal-2022-10-06T01:50:18.926716-04:00.jpg"
+     alt="Louisville Courier-Journal at 2022-10-06 01:50:20-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/courierjournal-2022/courierjournal-2022-10-06T01:50:18.926716-04:00.jpg">October 6 at 1:50 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/courierjournal-2022/courierjournal-2022-10-05T15:59:13.717510-04:00.jpg">
+  <img src="https://archive.org/download/courierjournal-2022/courierjournal-2022-10-05T15:59:13.717510-04:00.jpg"
+     alt="Louisville Courier-Journal at 2022-10-05 15:59:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/courierjournal-2022/courierjournal-2022-10-05T15:59:13.717510-04:00.jpg">October 5 at 3:59 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/courierjournal-2022/courierjournal-2022-10-05T01:55:36.921700-04:00.jpg">
   <img src="https://archive.org/download/courierjournal-2022/courierjournal-2022-10-05T01:55:36.921700-04:00.jpg"
      alt="Louisville Courier-Journal at 2022-10-05 01:55:50-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/courierjournal-2022/courierjournal-2022-09-30T14:24:50.866602-04:00.jpg">September 30 at 2:25 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/courierjournal-2022/courierjournal-2022-09-30T02:31:16.691675-04:00.jpg">
-  <img src="https://archive.org/download/courierjournal-2022/courierjournal-2022-09-30T02:31:16.691675-04:00.jpg"
-     alt="Louisville Courier-Journal at 2022-09-30 02:31:22-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/courierjournal-2022/courierjournal-2022-09-30T02:31:16.691675-04:00.jpg">September 30 at 2:31 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/courierjournal-2022/courierjournal-2022-09-29T13:36:56.041428-04:00.jpg">
-  <img src="https://archive.org/download/courierjournal-2022/courierjournal-2022-09-29T13:36:56.041428-04:00.jpg"
-     alt="Louisville Courier-Journal at 2022-09-29 13:37:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/courierjournal-2022/courierjournal-2022-09-29T13:36:56.041428-04:00.jpg">September 29 at 1:37 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 132 hyperlink lists with the Internet Archive.
+The archiving routine has saved 134 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 6 at 1:50 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-10-06T01:50:18.926716-04:00.hyperlinks.json) |
+| [October 5 at 3:59 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-10-05T15:59:13.717510-04:00.hyperlinks.json) |
 | [October 5 at 1:55 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-10-05T01:55:36.921700-04:00.hyperlinks.json) |
 | [October 4 at 1:57 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-10-04T13:56:48.814506-04:00.hyperlinks.json) |
 | [October 4 at 2:58 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-10-04T02:57:52.965791-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 2 at 1:34 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-10-02T13:34:31.844440-04:00.hyperlinks.json) |
 | [October 2 at 1:54 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-10-02T01:53:54.341971-04:00.hyperlinks.json) |
 | [October 1 at 1:39 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-10-01T13:38:42.103643-04:00.hyperlinks.json) |
-| [October 1 at 3:41 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-10-01T03:41:02.653720-04:00.hyperlinks.json) |
-| [September 30 at 2:25 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-09-30T14:24:50.866602-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 133 accessibility trees with the Internet Archive.
+The archiving routine has saved 135 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 6 at 1:50 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-10-06T01:50:18.926716-04:00.accessibility.json) |
+| [October 5 at 3:59 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-10-05T15:59:13.717510-04:00.accessibility.json) |
 | [October 5 at 1:55 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-10-05T01:55:36.921700-04:00.accessibility.json) |
 | [October 4 at 1:57 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-10-04T13:56:48.814506-04:00.accessibility.json) |
 | [October 4 at 2:58 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-10-04T02:57:52.965791-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 2 at 1:34 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-10-02T13:34:31.844440-04:00.accessibility.json) |
 | [October 2 at 1:54 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-10-02T01:53:54.341971-04:00.accessibility.json) |
 | [October 1 at 1:39 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-10-01T13:38:42.103643-04:00.accessibility.json) |
-| [October 1 at 3:41 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-10-01T03:41:02.653720-04:00.accessibility.json) |
-| [September 30 at 2:25 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-09-30T14:24:50.866602-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 135 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 6 at 1:50 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-10-06T01:50:18.926716-04:00.lighthouse.json) |
+| [October 5 at 3:59 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-10-05T15:59:13.717510-04:00.lighthouse.json) |
 | [October 5 at 1:55 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-10-05T01:55:36.921700-04:00.lighthouse.json) |
 | [October 4 at 1:57 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-10-04T13:56:48.814506-04:00.lighthouse.json) |
 | [October 4 at 2:58 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-10-04T02:57:52.965791-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 2 at 1:34 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-10-02T13:34:31.844440-04:00.lighthouse.json) |
 | [October 2 at 1:54 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-10-02T01:53:54.341971-04:00.lighthouse.json) |
 | [October 1 at 1:39 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-10-01T13:38:42.103643-04:00.lighthouse.json) |
-| [October 1 at 3:41 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-10-01T03:41:02.653720-04:00.lighthouse.json) |
-| [September 30 at 2:25 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-09-30T14:24:50.866602-04:00.lighthouse.json) |
 
 
 

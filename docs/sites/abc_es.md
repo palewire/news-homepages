@@ -291,7 +291,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 138 hyperlink lists with the Internet Archive.
+The archiving routine has saved 140 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -382,6 +382,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 6 at 6:20 AM](https://archive.org/download/abc_es-2022/abc_es-2022-10-06T06:20:46.920041+02:00.hyperlinks.json) |
+| [October 5 at 6:31 PM](https://archive.org/download/abc_es-2022/abc_es-2022-10-05T18:31:26.885988+02:00.hyperlinks.json) |
 | [October 5 at 6:17 AM](https://archive.org/download/abc_es-2022/abc_es-2022-10-05T06:17:05.034761+02:00.hyperlinks.json) |
 | [October 4 at 6:14 PM](https://archive.org/download/abc_es-2022/abc_es-2022-10-04T18:14:04.757652+02:00.hyperlinks.json) |
 | [October 4 at 7:16 AM](https://archive.org/download/abc_es-2022/abc_es-2022-10-04T07:16:13.150734+02:00.hyperlinks.json) |
@@ -390,8 +392,6 @@ Here are the 10 most recent hyperlink lists.
 | [October 2 at 5:59 PM](https://archive.org/download/abc_es-2022/abc_es-2022-10-02T17:59:06.389642+02:00.hyperlinks.json) |
 | [October 2 at 7:46 AM](https://archive.org/download/abc_es-2022/abc_es-2022-10-02T07:46:16.384464+02:00.hyperlinks.json) |
 | [October 1 at 6:04 PM](https://archive.org/download/abc_es-2022/abc_es-2022-10-01T18:04:47.668730+02:00.hyperlinks.json) |
-| [October 1 at 6:40 AM](https://archive.org/download/abc_es-2022/abc_es-2022-10-01T06:40:33.859099+02:00.hyperlinks.json) |
-| [September 30 at 6:25 PM](https://archive.org/download/abc_es-2022/abc_es-2022-09-30T18:25:36.807456+02:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -414,7 +414,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 138 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 140 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -505,6 +505,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 6 at 6:20 AM](https://archive.org/download/abc_es-2022/abc_es-2022-10-06T06:20:46.920041+02:00.lighthouse.json) |
+| [October 5 at 6:31 PM](https://archive.org/download/abc_es-2022/abc_es-2022-10-05T18:31:26.885988+02:00.lighthouse.json) |
 | [October 5 at 6:17 AM](https://archive.org/download/abc_es-2022/abc_es-2022-10-05T06:17:05.034761+02:00.lighthouse.json) |
 | [October 4 at 6:14 PM](https://archive.org/download/abc_es-2022/abc_es-2022-10-04T18:14:04.757652+02:00.lighthouse.json) |
 | [October 4 at 7:16 AM](https://archive.org/download/abc_es-2022/abc_es-2022-10-04T07:16:13.150734+02:00.lighthouse.json) |
@@ -513,8 +515,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 2 at 5:59 PM](https://archive.org/download/abc_es-2022/abc_es-2022-10-02T17:59:06.389642+02:00.lighthouse.json) |
 | [October 2 at 7:46 AM](https://archive.org/download/abc_es-2022/abc_es-2022-10-02T07:46:16.384464+02:00.lighthouse.json) |
 | [October 1 at 6:05 PM](https://archive.org/download/abc_es-2022/abc_es-2022-10-01T18:04:47.668730+02:00.lighthouse.json) |
-| [October 1 at 6:40 AM](https://archive.org/download/abc_es-2022/abc_es-2022-10-01T06:40:33.859099+02:00.lighthouse.json) |
-| [September 30 at 6:25 PM](https://archive.org/download/abc_es-2022/abc_es-2022-09-30T18:25:36.807456+02:00.lighthouse.json) |
 
 
 

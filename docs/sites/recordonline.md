@@ -234,13 +234,114 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 31 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/recordonline.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/recordonline-2022/recordonline-2022-10-06T03:15:37.802505-04:00.jpg">
+  <img src="https://archive.org/download/recordonline-2022/recordonline-2022-10-06T03:15:37.802505-04:00.jpg"
+     alt="Times Herald-Record at 2022-10-06 03:15:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/recordonline-2022/recordonline-2022-10-06T03:15:37.802505-04:00.jpg">October 6 at 3:15 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/recordonline-2022/recordonline-2022-10-05T16:45:21.214215-04:00.jpg">
+  <img src="https://archive.org/download/recordonline-2022/recordonline-2022-10-05T16:45:21.214215-04:00.jpg"
+     alt="Times Herald-Record at 2022-10-05 16:45:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/recordonline-2022/recordonline-2022-10-05T16:45:21.214215-04:00.jpg">October 5 at 4:45 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/recordonline-2022/recordonline-2022-10-05T03:25:52.680817-04:00.jpg">
@@ -332,36 +433,103 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/recordonline-2022/recordonline-2022-09-30T16:16:39.868137-04:00.jpg">September 30 at 4:16 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/recordonline-2022/recordonline-2022-09-30T04:05:32.743607-04:00.jpg">
-  <img src="https://archive.org/download/recordonline-2022/recordonline-2022-09-30T04:05:32.743607-04:00.jpg"
-     alt="Times Herald-Record at 2022-09-30 04:05:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/recordonline-2022/recordonline-2022-09-30T04:05:32.743607-04:00.jpg">September 30 at 4:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/recordonline-2022/recordonline-2022-09-29T15:33:07.893992-04:00.jpg">
-  <img src="https://archive.org/download/recordonline-2022/recordonline-2022-09-29T15:33:07.893992-04:00.jpg"
-     alt="Times Herald-Record at 2022-09-29 15:33:11-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/recordonline-2022/recordonline-2022-09-29T15:33:07.893992-04:00.jpg">September 29 at 3:33 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 30 hyperlink lists with the Internet Archive.
+The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/recordonline.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 6 at 3:15 AM](https://archive.org/download/recordonline-2022/recordonline-2022-10-06T03:15:37.802505-04:00.hyperlinks.json) |
+| [October 5 at 4:45 PM](https://archive.org/download/recordonline-2022/recordonline-2022-10-05T16:45:21.214215-04:00.hyperlinks.json) |
 | [October 5 at 3:25 AM](https://archive.org/download/recordonline-2022/recordonline-2022-10-05T03:25:52.680817-04:00.hyperlinks.json) |
 | [October 4 at 3:35 PM](https://archive.org/download/recordonline-2022/recordonline-2022-10-04T15:35:17.815500-04:00.hyperlinks.json) |
 | [October 4 at 3:46 AM](https://archive.org/download/recordonline-2022/recordonline-2022-10-04T03:46:49.182490-04:00.hyperlinks.json) |
@@ -370,20 +538,103 @@ Here are the 10 most recent hyperlink lists.
 | [October 2 at 3:10 PM](https://archive.org/download/recordonline-2022/recordonline-2022-10-02T15:09:55.182426-04:00.hyperlinks.json) |
 | [October 2 at 3:23 AM](https://archive.org/download/recordonline-2022/recordonline-2022-10-02T03:23:20.983593-04:00.hyperlinks.json) |
 | [October 1 at 3:08 PM](https://archive.org/download/recordonline-2022/recordonline-2022-10-01T15:08:05.779752-04:00.hyperlinks.json) |
-| [October 1 at 3:58 AM](https://archive.org/download/recordonline-2022/recordonline-2022-10-01T03:58:36.278558-04:00.hyperlinks.json) |
-| [September 30 at 4:16 PM](https://archive.org/download/recordonline-2022/recordonline-2022-09-30T16:16:39.868137-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 30 accessibility trees with the Internet Archive.
+The archiving routine has saved 32 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/recordonline.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 6 at 3:15 AM](https://archive.org/download/recordonline-2022/recordonline-2022-10-06T03:15:37.802505-04:00.accessibility.json) |
+| [October 5 at 4:45 PM](https://archive.org/download/recordonline-2022/recordonline-2022-10-05T16:45:21.214215-04:00.accessibility.json) |
 | [October 5 at 3:25 AM](https://archive.org/download/recordonline-2022/recordonline-2022-10-05T03:25:52.680817-04:00.accessibility.json) |
 | [October 4 at 3:35 PM](https://archive.org/download/recordonline-2022/recordonline-2022-10-04T15:35:17.815500-04:00.accessibility.json) |
 | [October 4 at 3:46 AM](https://archive.org/download/recordonline-2022/recordonline-2022-10-04T03:46:49.182490-04:00.accessibility.json) |
@@ -392,21 +643,104 @@ Here are the 10 most recent accessibility trees.
 | [October 2 at 3:09 PM](https://archive.org/download/recordonline-2022/recordonline-2022-10-02T15:09:55.182426-04:00.accessibility.json) |
 | [October 2 at 3:23 AM](https://archive.org/download/recordonline-2022/recordonline-2022-10-02T03:23:20.983593-04:00.accessibility.json) |
 | [October 1 at 3:08 PM](https://archive.org/download/recordonline-2022/recordonline-2022-10-01T15:08:05.779752-04:00.accessibility.json) |
-| [October 1 at 3:58 AM](https://archive.org/download/recordonline-2022/recordonline-2022-10-01T03:58:36.278558-04:00.accessibility.json) |
-| [September 30 at 4:16 PM](https://archive.org/download/recordonline-2022/recordonline-2022-09-30T16:16:39.868137-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/recordonline.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 6 at 3:15 AM](https://archive.org/download/recordonline-2022/recordonline-2022-10-06T03:15:37.802505-04:00.lighthouse.json) |
+| [October 5 at 4:45 PM](https://archive.org/download/recordonline-2022/recordonline-2022-10-05T16:45:21.214215-04:00.lighthouse.json) |
 | [October 5 at 3:25 AM](https://archive.org/download/recordonline-2022/recordonline-2022-10-05T03:25:52.680817-04:00.lighthouse.json) |
 | [October 4 at 3:35 PM](https://archive.org/download/recordonline-2022/recordonline-2022-10-04T15:35:17.815500-04:00.lighthouse.json) |
 | [October 4 at 3:46 AM](https://archive.org/download/recordonline-2022/recordonline-2022-10-04T03:46:49.182490-04:00.lighthouse.json) |
@@ -415,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 2 at 3:10 PM](https://archive.org/download/recordonline-2022/recordonline-2022-10-02T15:09:55.182426-04:00.lighthouse.json) |
 | [October 2 at 3:23 AM](https://archive.org/download/recordonline-2022/recordonline-2022-10-02T03:23:20.983593-04:00.lighthouse.json) |
 | [October 1 at 3:08 PM](https://archive.org/download/recordonline-2022/recordonline-2022-10-01T15:08:05.779752-04:00.lighthouse.json) |
-| [October 1 at 3:58 AM](https://archive.org/download/recordonline-2022/recordonline-2022-10-01T03:58:36.278558-04:00.lighthouse.json) |
-| [September 30 at 4:16 PM](https://archive.org/download/recordonline-2022/recordonline-2022-09-30T16:16:39.868137-04:00.lighthouse.json) |
 
 
 

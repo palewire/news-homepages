@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 186 screenshots with the Internet Archive.
+The archiving routine has saved 187 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 186 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/johncombest-2022/johncombest-2022-10-06T00:42:37.823168-05:00.jpg">
+  <img src="https://archive.org/download/johncombest-2022/johncombest-2022-10-06T00:42:37.823168-05:00.jpg"
+     alt="John Combest at 2022-10-06 00:42:39-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-10-06T00:42:37.823168-05:00.jpg">October 6 at 12:42 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/johncombest-2022/johncombest-2022-10-05T13:15:54.095312-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-09-30T13:08:03.163451-05:00.jpg">September 30 at 1:08 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/johncombest-2022/johncombest-2022-09-30T01:17:02.112193-05:00.jpg">
-  <img src="https://archive.org/download/johncombest-2022/johncombest-2022-09-30T01:17:02.112193-05:00.jpg"
-     alt="John Combest at 2022-09-30 01:17:55-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-09-30T01:17:02.112193-05:00.jpg">September 30 at 1:17 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 186 hyperlink lists with the Internet Archive.
+The archiving routine has saved 187 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 6 at 12:42 AM](https://archive.org/download/johncombest-2022/johncombest-2022-10-06T00:42:37.823168-05:00.hyperlinks.json) |
 | [October 5 at 1:16 PM](https://archive.org/download/johncombest-2022/johncombest-2022-10-05T13:15:54.095312-05:00.hyperlinks.json) |
 | [October 5 at 12:49 AM](https://archive.org/download/johncombest-2022/johncombest-2022-10-05T00:48:46.856616-05:00.hyperlinks.json) |
 | [October 4 at 12:49 PM](https://archive.org/download/johncombest-2022/johncombest-2022-10-04T12:49:02.299878-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 2 at 12:30 PM](https://archive.org/download/johncombest-2022/johncombest-2022-10-02T12:29:38.503137-05:00.hyperlinks.json) |
 | [October 2 at 1:02 AM](https://archive.org/download/johncombest-2022/johncombest-2022-10-02T01:02:47.886333-05:00.hyperlinks.json) |
 | [October 1 at 12:33 PM](https://archive.org/download/johncombest-2022/johncombest-2022-10-01T12:33:17.457278-05:00.hyperlinks.json) |
-| [October 1 at 1:17 AM](https://archive.org/download/johncombest-2022/johncombest-2022-10-01T01:16:23.106899-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 185 accessibility trees with the Internet Archive.
+The archiving routine has saved 186 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 6 at 12:42 AM](https://archive.org/download/johncombest-2022/johncombest-2022-10-06T00:42:37.823168-05:00.accessibility.json) |
 | [October 5 at 1:16 PM](https://archive.org/download/johncombest-2022/johncombest-2022-10-05T13:15:54.095312-05:00.accessibility.json) |
 | [October 5 at 12:49 AM](https://archive.org/download/johncombest-2022/johncombest-2022-10-05T00:48:46.856616-05:00.accessibility.json) |
 | [October 4 at 12:49 PM](https://archive.org/download/johncombest-2022/johncombest-2022-10-04T12:49:02.299878-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 2 at 12:30 PM](https://archive.org/download/johncombest-2022/johncombest-2022-10-02T12:29:38.503137-05:00.accessibility.json) |
 | [October 2 at 1:02 AM](https://archive.org/download/johncombest-2022/johncombest-2022-10-02T01:02:47.886333-05:00.accessibility.json) |
 | [October 1 at 12:33 PM](https://archive.org/download/johncombest-2022/johncombest-2022-10-01T12:33:17.457278-05:00.accessibility.json) |
-| [October 1 at 1:17 AM](https://archive.org/download/johncombest-2022/johncombest-2022-10-01T01:16:23.106899-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 147 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 148 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 6 at 12:42 AM](https://archive.org/download/johncombest-2022/johncombest-2022-10-06T00:42:37.823168-05:00.lighthouse.json) |
 | [October 5 at 1:16 PM](https://archive.org/download/johncombest-2022/johncombest-2022-10-05T13:15:54.095312-05:00.lighthouse.json) |
 | [October 5 at 12:49 AM](https://archive.org/download/johncombest-2022/johncombest-2022-10-05T00:48:46.856616-05:00.lighthouse.json) |
 | [October 4 at 12:50 PM](https://archive.org/download/johncombest-2022/johncombest-2022-10-04T12:49:02.299878-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 2 at 12:30 PM](https://archive.org/download/johncombest-2022/johncombest-2022-10-02T12:29:38.503137-05:00.lighthouse.json) |
 | [October 2 at 1:02 AM](https://archive.org/download/johncombest-2022/johncombest-2022-10-02T01:02:47.886333-05:00.lighthouse.json) |
 | [October 1 at 12:33 PM](https://archive.org/download/johncombest-2022/johncombest-2022-10-01T12:33:17.457278-05:00.lighthouse.json) |
-| [October 1 at 1:17 AM](https://archive.org/download/johncombest-2022/johncombest-2022-10-01T01:16:23.106899-05:00.lighthouse.json) |
 
 
 

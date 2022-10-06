@@ -234,13 +234,114 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 30 screenshots with the Internet Archive.
+The archiving routine has saved 32 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/sturgisnewsroom.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-06T03:19:51.231812-04:00.jpg">
+  <img src="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-06T03:19:51.231812-04:00.jpg"
+     alt="Sturgis Journal at 2022-10-06 03:19:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-06T03:19:51.231812-04:00.jpg">October 6 at 3:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-05T16:48:30.834590-04:00.jpg">
+  <img src="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-05T16:48:30.834590-04:00.jpg"
+     alt="Sturgis Journal at 2022-10-05 16:48:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-05T16:48:30.834590-04:00.jpg">October 5 at 4:48 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-05T03:29:58.943620-04:00.jpg">
@@ -332,36 +433,103 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-09-30T15:50:31.655084-04:00.jpg">September 30 at 3:50 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-09-30T04:07:03.810471-04:00.jpg">
-  <img src="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-09-30T04:07:03.810471-04:00.jpg"
-     alt="Sturgis Journal at 2022-09-30 04:07:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-09-30T04:07:03.810471-04:00.jpg">September 30 at 4:07 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-09-29T14:56:43.823517-04:00.jpg">
-  <img src="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-09-29T14:56:43.823517-04:00.jpg"
-     alt="Sturgis Journal at 2022-09-29 14:56:46-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-09-29T14:56:43.823517-04:00.jpg">September 29 at 2:56 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 30 hyperlink lists with the Internet Archive.
+The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/sturgisnewsroom.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 6 at 3:19 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-06T03:19:51.231812-04:00.hyperlinks.json) |
+| [October 5 at 4:48 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-05T16:48:30.834590-04:00.hyperlinks.json) |
 | [October 5 at 3:30 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-05T03:29:58.943620-04:00.hyperlinks.json) |
 | [October 4 at 4:07 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-04T16:06:58.891819-04:00.hyperlinks.json) |
 | [October 4 at 3:51 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-04T03:50:50.774498-04:00.hyperlinks.json) |
@@ -370,20 +538,103 @@ Here are the 10 most recent hyperlink lists.
 | [October 2 at 3:36 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-02T15:36:35.076545-04:00.hyperlinks.json) |
 | [October 2 at 3:13 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-02T03:13:47.708583-04:00.hyperlinks.json) |
 | [October 1 at 3:36 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-01T15:36:30.482909-04:00.hyperlinks.json) |
-| [October 1 at 3:48 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-01T03:48:00.189436-04:00.hyperlinks.json) |
-| [September 30 at 3:50 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-09-30T15:50:31.655084-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 30 accessibility trees with the Internet Archive.
+The archiving routine has saved 32 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/sturgisnewsroom.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 6 at 3:19 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-06T03:19:51.231812-04:00.accessibility.json) |
+| [October 5 at 4:48 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-05T16:48:30.834590-04:00.accessibility.json) |
 | [October 5 at 3:30 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-05T03:29:58.943620-04:00.accessibility.json) |
 | [October 4 at 4:07 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-04T16:06:58.891819-04:00.accessibility.json) |
 | [October 4 at 3:50 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-04T03:50:50.774498-04:00.accessibility.json) |
@@ -392,21 +643,104 @@ Here are the 10 most recent accessibility trees.
 | [October 2 at 3:36 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-02T15:36:35.076545-04:00.accessibility.json) |
 | [October 2 at 3:13 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-02T03:13:47.708583-04:00.accessibility.json) |
 | [October 1 at 3:36 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-01T15:36:30.482909-04:00.accessibility.json) |
-| [October 1 at 3:48 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-01T03:48:00.189436-04:00.accessibility.json) |
-| [September 30 at 3:50 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-09-30T15:50:31.655084-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/sturgisnewsroom.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 6 at 3:19 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-06T03:19:51.231812-04:00.lighthouse.json) |
+| [October 5 at 4:48 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-05T16:48:30.834590-04:00.lighthouse.json) |
 | [October 5 at 3:30 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-05T03:29:58.943620-04:00.lighthouse.json) |
 | [October 4 at 4:07 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-04T16:06:58.891819-04:00.lighthouse.json) |
 | [October 4 at 3:51 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-04T03:50:50.774498-04:00.lighthouse.json) |
@@ -415,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 2 at 3:36 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-02T15:36:35.076545-04:00.lighthouse.json) |
 | [October 2 at 3:13 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-02T03:13:47.708583-04:00.lighthouse.json) |
 | [October 1 at 3:36 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-01T15:36:30.482909-04:00.lighthouse.json) |
-| [October 1 at 3:48 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-01T03:48:00.189436-04:00.lighthouse.json) |
-| [September 30 at 3:50 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-09-30T15:50:31.655084-04:00.lighthouse.json) |
 
 
 

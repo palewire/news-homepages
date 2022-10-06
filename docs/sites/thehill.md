@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 183 screenshots with the Internet Archive.
+The archiving routine has saved 185 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thehill-2022/thehill-2022-10-06T03:21:32.817779-04:00.jpg">
+  <img src="https://archive.org/download/thehill-2022/thehill-2022-10-06T03:21:32.817779-04:00.jpg"
+     alt="The Hill at 2022-10-06 03:21:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thehill-2022/thehill-2022-10-06T03:21:32.817779-04:00.jpg">October 6 at 3:21 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thehill-2022/thehill-2022-10-05T16:51:56.564717-04:00.jpg">
+  <img src="https://archive.org/download/thehill-2022/thehill-2022-10-05T16:51:56.564717-04:00.jpg"
+     alt="The Hill at 2022-10-05 16:51:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thehill-2022/thehill-2022-10-05T16:51:56.564717-04:00.jpg">October 5 at 4:51 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thehill-2022/thehill-2022-10-05T03:30:25.932265-04:00.jpg">
   <img src="https://archive.org/download/thehill-2022/thehill-2022-10-05T03:30:25.932265-04:00.jpg"
      alt="The Hill at 2022-10-05 03:30:27-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thehill-2022/thehill-2022-09-30T15:53:24.540925-04:00.jpg">September 30 at 3:53 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thehill-2022/thehill-2022-09-30T04:09:55.723947-04:00.jpg">
-  <img src="https://archive.org/download/thehill-2022/thehill-2022-09-30T04:09:55.723947-04:00.jpg"
-     alt="The Hill at 2022-09-30 04:10:03-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thehill-2022/thehill-2022-09-30T04:09:55.723947-04:00.jpg">September 30 at 4:10 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thehill-2022/thehill-2022-09-29T15:00:04.733420-04:00.jpg">
-  <img src="https://archive.org/download/thehill-2022/thehill-2022-09-29T15:00:04.733420-04:00.jpg"
-     alt="The Hill at 2022-09-29 15:00:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thehill-2022/thehill-2022-09-29T15:00:04.733420-04:00.jpg">September 29 at 3:00 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 182 hyperlink lists with the Internet Archive.
+The archiving routine has saved 184 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 6 at 3:22 AM](https://archive.org/download/thehill-2022/thehill-2022-10-06T03:21:32.817779-04:00.hyperlinks.json) |
+| [October 5 at 4:52 PM](https://archive.org/download/thehill-2022/thehill-2022-10-05T16:51:56.564717-04:00.hyperlinks.json) |
 | [October 5 at 3:30 AM](https://archive.org/download/thehill-2022/thehill-2022-10-05T03:30:25.932265-04:00.hyperlinks.json) |
 | [October 4 at 4:09 PM](https://archive.org/download/thehill-2022/thehill-2022-10-04T16:09:21.066820-04:00.hyperlinks.json) |
 | [October 4 at 3:53 AM](https://archive.org/download/thehill-2022/thehill-2022-10-04T03:53:11.414560-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 2 at 3:36 PM](https://archive.org/download/thehill-2022/thehill-2022-10-02T15:36:41.611003-04:00.hyperlinks.json) |
 | [October 2 at 3:15 AM](https://archive.org/download/thehill-2022/thehill-2022-10-02T03:15:08.316144-04:00.hyperlinks.json) |
 | [October 1 at 3:39 PM](https://archive.org/download/thehill-2022/thehill-2022-10-01T15:39:37.422277-04:00.hyperlinks.json) |
-| [October 1 at 3:48 AM](https://archive.org/download/thehill-2022/thehill-2022-10-01T03:48:04.333572-04:00.hyperlinks.json) |
-| [September 30 at 3:53 PM](https://archive.org/download/thehill-2022/thehill-2022-09-30T15:53:24.540925-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 185 accessibility trees with the Internet Archive.
+The archiving routine has saved 187 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 6 at 3:22 AM](https://archive.org/download/thehill-2022/thehill-2022-10-06T03:21:32.817779-04:00.accessibility.json) |
+| [October 5 at 4:51 PM](https://archive.org/download/thehill-2022/thehill-2022-10-05T16:51:56.564717-04:00.accessibility.json) |
 | [October 5 at 3:30 AM](https://archive.org/download/thehill-2022/thehill-2022-10-05T03:30:25.932265-04:00.accessibility.json) |
 | [October 4 at 4:09 PM](https://archive.org/download/thehill-2022/thehill-2022-10-04T16:09:21.066820-04:00.accessibility.json) |
 | [October 4 at 3:53 AM](https://archive.org/download/thehill-2022/thehill-2022-10-04T03:53:11.414560-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 2 at 3:36 PM](https://archive.org/download/thehill-2022/thehill-2022-10-02T15:36:41.611003-04:00.accessibility.json) |
 | [October 2 at 3:15 AM](https://archive.org/download/thehill-2022/thehill-2022-10-02T03:15:08.316144-04:00.accessibility.json) |
 | [October 1 at 3:39 PM](https://archive.org/download/thehill-2022/thehill-2022-10-01T15:39:37.422277-04:00.accessibility.json) |
-| [October 1 at 3:48 AM](https://archive.org/download/thehill-2022/thehill-2022-10-01T03:48:04.333572-04:00.accessibility.json) |
-| [September 30 at 3:53 PM](https://archive.org/download/thehill-2022/thehill-2022-09-30T15:53:24.540925-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 146 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 148 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 6 at 3:22 AM](https://archive.org/download/thehill-2022/thehill-2022-10-06T03:21:32.817779-04:00.lighthouse.json) |
+| [October 5 at 4:52 PM](https://archive.org/download/thehill-2022/thehill-2022-10-05T16:51:56.564717-04:00.lighthouse.json) |
 | [October 5 at 3:30 AM](https://archive.org/download/thehill-2022/thehill-2022-10-05T03:30:25.932265-04:00.lighthouse.json) |
 | [October 4 at 4:09 PM](https://archive.org/download/thehill-2022/thehill-2022-10-04T16:09:21.066820-04:00.lighthouse.json) |
 | [October 4 at 3:53 AM](https://archive.org/download/thehill-2022/thehill-2022-10-04T03:53:11.414560-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 2 at 3:36 PM](https://archive.org/download/thehill-2022/thehill-2022-10-02T15:36:41.611003-04:00.lighthouse.json) |
 | [October 2 at 3:15 AM](https://archive.org/download/thehill-2022/thehill-2022-10-02T03:15:08.316144-04:00.lighthouse.json) |
 | [October 1 at 3:39 PM](https://archive.org/download/thehill-2022/thehill-2022-10-01T15:39:37.422277-04:00.lighthouse.json) |
-| [October 1 at 3:48 AM](https://archive.org/download/thehill-2022/thehill-2022-10-01T03:48:04.333572-04:00.lighthouse.json) |
-| [September 30 at 3:53 PM](https://archive.org/download/thehill-2022/thehill-2022-09-30T15:53:24.540925-04:00.lighthouse.json) |
 
 
 
