@@ -1,5 +1,5 @@
 {
-  "created": 1664976004,
+  "created": 1665019845,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/13/items/ledgerenquirer-2022",
@@ -9268,31 +9268,93 @@
       "sha1": "c586b468aba2008271775ed8f4d3030c91410db7"
     },
     {
+      "name": "ledgerenquirer-2022-10-05T21:28:28.318904-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665019712",
+      "size": "464",
+      "md5": "5f3e576688f6eb8b9847ba8341082151",
+      "crc32": "1ffcbe56",
+      "sha1": "811d6ce8d9564e445bd4fb1c339f031c49536cde",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-10-05T21:28:28.318904-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665019714",
+      "size": "33410",
+      "md5": "5bd3cab20d2d0a771941310ca20e87c4",
+      "crc32": "6fec610f",
+      "sha1": "fdcd16204e8a6cbbf7d2809a6c95ce0637fc0c83",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-10-05T21:28:28.318904-04:00.jpg",
+      "source": "original",
+      "mtime": "1665019710",
+      "size": "267953",
+      "md5": "2a1cd134c3f451a794f4e1162a8a9d56",
+      "crc32": "48177e41",
+      "sha1": "1f632681a670e2a6bb0fd94e1b44b6615a66dd40",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ledgerenquirer-2022-10-05T21:28:28.318904-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665019716",
+      "size": "1540",
+      "md5": "368a88394a6e4d2dfbf26bb31161a8b4",
+      "crc32": "8bef4a1e",
+      "sha1": "8787e164bc470f3030f4d5c7ddc8d0a210c89b38",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-10-05T21:28:28.318904-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665019717",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-10-05T21:28:28.318904-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ledgerenquirer-2022-10-05T21:28:28.318904-04:00.jpg",
+      "mtime": "1665019800",
+      "size": "9489",
+      "md5": "d2f9cb921cdba3246cff46039d50465d",
+      "crc32": "c46a3442",
+      "sha1": "9f37a60f006d79700be2bbff95869a68c88dc2e4"
+    },
+    {
       "name": "ledgerenquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "218ae468af4be80d72826b26632fb56c0582f7e1",
-      "mtime": "1664975899",
-      "size": "194535",
-      "md5": "d19a100b22815c826cffc5de5e89a539",
-      "crc32": "26821cef",
-      "sha1": "30aa1ae5af92b4b049503c5e1336162c2c4586b1",
+      "btih": "494d5f586b9820ee5ca2595de689f74718343a7a",
+      "mtime": "1665019810",
+      "size": "195814",
+      "md5": "ec7a9dd9f9fb596054f592d550b5e6ab",
+      "crc32": "17bb69b5",
+      "sha1": "5af345064a9eeff1d803f383ce120915931cadef",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ledgerenquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5530e3ab4bbe90c53db7819d5ff31d15",
+      "md5": "6007c6e2b581278570086502ecc71991",
       "summation": "md5"
     },
     {
       "name": "ledgerenquirer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1664975740",
-      "size": "1150976",
-      "md5": "57dfc58f28b782f4c2775991d175b31e",
-      "crc32": "221cc04a",
-      "sha1": "7d31e975a89fd352855a4f351f1c105ad264ab89",
+      "mtime": "1665019725",
+      "size": "1159168",
+      "md5": "add595ae73cca322b07e72580ce812ef",
+      "crc32": "c85abca9",
+      "sha1": "b753dac65d306c09479ae33b3de2ede3574e7f1d",
       "format": "Metadata"
     },
     {
@@ -9306,9 +9368,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 899,
-  "item_last_updated": 1664975899,
-  "item_size": 55302870,
+  "files_count": 905,
+  "item_last_updated": 1665019810,
+  "item_size": 55625399,
   "metadata": {
     "identifier": "ledgerenquirer-2022",
     "collection": [
@@ -9326,7 +9388,7 @@
     "addeddate": "2022-07-20 23:31:19"
   },
   "server": "ia801503.us.archive.org",
-  "uniq": 459086578,
+  "uniq": 1611178255,
   "workable_servers": [
     "ia801503.us.archive.org",
     "ia601503.us.archive.org"
