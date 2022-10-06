@@ -1,5 +1,5 @@
 {
-  "created": 1665035141,
+  "created": 1665078352,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/22/items/jdemontreal-2022",
@@ -11560,31 +11560,93 @@
       "sha1": "cb8cb657c5f77d0d4dee8609208d99452046cb7a"
     },
     {
+      "name": "jdemontreal-2022-10-06T13:43:50.339095-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665078250",
+      "size": "26125",
+      "md5": "63604a449086ab4907f62119ad42c55d",
+      "crc32": "613abb57",
+      "sha1": "c074da73ae617e5c30f7972022d8852fff4ce4a4",
+      "format": "JSON"
+    },
+    {
+      "name": "jdemontreal-2022-10-06T13:43:50.339095-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665078252",
+      "size": "42418",
+      "md5": "dce70f2d6a4978e1e5d78c3d3c208cff",
+      "crc32": "462d6d0c",
+      "sha1": "00a1e50d0a41cfb6b2e97eb35bd6dab5197fb6b0",
+      "format": "JSON"
+    },
+    {
+      "name": "jdemontreal-2022-10-06T13:43:50.339095-04:00.jpg",
+      "source": "original",
+      "mtime": "1665078248",
+      "size": "232790",
+      "md5": "201558f4dfd27a53761e064c8863317b",
+      "crc32": "3e91ca67",
+      "sha1": "a1782696442df18e68f67b7f42fbf7faff5451fd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jdemontreal-2022-10-06T13:43:50.339095-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665078254",
+      "size": "1552",
+      "md5": "e0c9973c8c2acd08ff9ddd26fe5a9dc7",
+      "crc32": "5b9c3ac5",
+      "sha1": "74ae5570320fad894675a9ce18d0caf1aa64f2c2",
+      "format": "JSON"
+    },
+    {
+      "name": "jdemontreal-2022-10-06T13:43:50.339095-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665078255",
+      "size": "214",
+      "md5": "feeda19e6d720db2d6cb7196a535bcc2",
+      "crc32": "fbec0817",
+      "sha1": "ab0c329f30723223f429d5bb393d565101c4b364",
+      "format": "JSON"
+    },
+    {
+      "name": "jdemontreal-2022-10-06T13:43:50.339095-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jdemontreal-2022-10-06T13:43:50.339095-04:00.jpg",
+      "mtime": "1665078327",
+      "size": "9772",
+      "md5": "020c5dd24929044427f17cadd8348ccf",
+      "crc32": "f47b214c",
+      "sha1": "73c21ab244cac55211a6f862e74052a750fb7622"
+    },
+    {
       "name": "jdemontreal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ec9eec14a0e2dab67bd2e5121d979fe7de7b0d7d",
-      "mtime": "1665035124",
-      "size": "238871",
-      "md5": "a1e7b227a88addbf8db0f2f10a3a6646",
-      "crc32": "02675099",
-      "sha1": "e870c51f85935147509fda616829c67937b2cbe5",
+      "btih": "7be508296501a7c1a7a944656501116e5bd4d8c1",
+      "mtime": "1665078339",
+      "size": "240134",
+      "md5": "5259852292768b0342f45dc3bd5c52c1",
+      "crc32": "1f494e2f",
+      "sha1": "13c88fd54e1c4eeb5381265a68fcb794fdc509e5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jdemontreal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "83568f5132d351d7617f6984f3ffa086",
+      "md5": "5004d91be594e78147b21088b1d386e9",
       "summation": "md5"
     },
     {
       "name": "jdemontreal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665035032",
-      "size": "1388544",
-      "md5": "13eb1a94faa37ef5c8b27e43eda76f87",
-      "crc32": "f4a03a0c",
-      "sha1": "eb6f53d8ece06fa2baad3640282e93c83c667a8d",
+      "mtime": "1665078261",
+      "size": "1396736",
+      "md5": "db81bdb1c52b9529da0c2c311b58523c",
+      "crc32": "3f966fcd",
+      "sha1": "9a084961d165a9441e4b7dae905843a56575c217",
       "format": "Metadata"
     },
     {
@@ -11598,9 +11660,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1117,
-  "item_last_updated": 1665035124,
-  "item_size": 74779501,
+  "files_count": 1123,
+  "item_last_updated": 1665078339,
+  "item_size": 75101827,
   "metadata": {
     "identifier": "jdemontreal-2022",
     "collection": [
@@ -11617,10 +11679,10 @@
     "publicdate": "2022-06-30 22:35:37",
     "addeddate": "2022-06-30 22:35:37"
   },
-  "server": "ia601407.us.archive.org",
-  "uniq": 1212785680,
+  "server": "ia801407.us.archive.org",
+  "uniq": 108318041,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia801407.us.archive.org",
+    "ia601407.us.archive.org"
   ]
 }

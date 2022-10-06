@@ -1,5 +1,5 @@
 {
-  "created": 1665035303,
+  "created": 1665078627,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/32/items/mydelmarvanow-2022",
@@ -2000,31 +2000,93 @@
       "sha1": "ff524dda61453061ce4db06c5ea328a652154f80"
     },
     {
+      "name": "mydelmarvanow-2022-10-06T13:49:20.213745-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665078566",
+      "size": "21633",
+      "md5": "da436472153c4f49efab2b93d7fbd80a",
+      "crc32": "b0b8d95f",
+      "sha1": "1506fca2d64614e6d24820f23bc0dcbdcf889ce4",
+      "format": "JSON"
+    },
+    {
+      "name": "mydelmarvanow-2022-10-06T13:49:20.213745-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665078568",
+      "size": "19971",
+      "md5": "6208d068a9360c247a2d7a30bf11af79",
+      "crc32": "8d12e91a",
+      "sha1": "e87f6f4c53df48de266d43911021e29cc8ace44c",
+      "format": "JSON"
+    },
+    {
+      "name": "mydelmarvanow-2022-10-06T13:49:20.213745-04:00.jpg",
+      "source": "original",
+      "mtime": "1665078564",
+      "size": "271662",
+      "md5": "b8f8ae59c54bdc49fb9d0c1ef1edc40e",
+      "crc32": "fd0873ca",
+      "sha1": "67663db232ffade48510b572c651df2331796e34",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mydelmarvanow-2022-10-06T13:49:20.213745-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665078569",
+      "size": "1504",
+      "md5": "37c6b9375b77172dc18f68d068e1dd00",
+      "crc32": "06cae254",
+      "sha1": "5abe3d285eb2caf4341af1f6bb41f3bbb4d9bef6",
+      "format": "JSON"
+    },
+    {
+      "name": "mydelmarvanow-2022-10-06T13:49:20.213745-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665078571",
+      "size": "232815",
+      "md5": "9ad9cde85d2f7047612045f7051dc0d1",
+      "crc32": "d77fcfac",
+      "sha1": "617df7092d27e0ae59419568a8df5ba271e2b321",
+      "format": "JSON"
+    },
+    {
+      "name": "mydelmarvanow-2022-10-06T13:49:20.213745-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mydelmarvanow-2022-10-06T13:49:20.213745-04:00.jpg",
+      "mtime": "1665078618",
+      "size": "9529",
+      "md5": "7f5d5594b6cf48fe8c4d29f14c6e5ceb",
+      "crc32": "53d3d599",
+      "sha1": "e0b2a831ece0a5f253c967190fa1a6263f8a4377"
+    },
+    {
       "name": "mydelmarvanow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2f2ed3af2906cb66a8281115542e736daf145f1e",
-      "mtime": "1665035298",
-      "size": "43034",
-      "md5": "74cab6c37932a82dc9f3ec91ab4a3977",
-      "crc32": "3395185f",
-      "sha1": "c5d4db2ebade62394545d6375f60b0c7bbe7cf91",
+      "btih": "056730e9f1d386500890f95cbe1ebc3d1c007afb",
+      "mtime": "1665078622",
+      "size": "44332",
+      "md5": "f0bc732723d151276ce8452cdafa6a6b",
+      "crc32": "ae08d479",
+      "sha1": "582b4a2cdaa254437854a9ad92c6227a0cce0f19",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mydelmarvanow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "421770d9458e88d4caeee245acd5dec9",
+      "md5": "df403d0454b1484db58d2e78129a1179",
       "summation": "md5"
     },
     {
       "name": "mydelmarvanow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665035254",
-      "size": "270336",
-      "md5": "53ab0b4d9c9e3d4982dc627c70c809b4",
-      "crc32": "7c0cbc3d",
-      "sha1": "505582e02bfb675b56ffb118baa0fae768cf99d2",
+      "mtime": "1665078574",
+      "size": "274432",
+      "md5": "f6fda37432dc6e8a162f43535f6a4e09",
+      "crc32": "03a42508",
+      "sha1": "2ed0ca28cea9ddcf766f2fca137a69f2a5e40c84",
       "format": "Metadata"
     },
     {
@@ -2038,9 +2100,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 197,
-  "item_last_updated": 1665035298,
-  "item_size": 13391002,
+  "files_count": 203,
+  "item_last_updated": 1665078622,
+  "item_size": 13953510,
   "metadata": {
     "identifier": "mydelmarvanow-2022",
     "collection": [
@@ -2058,7 +2120,7 @@
     "addeddate": "2022-09-20 17:37:12"
   },
   "server": "ia601401.us.archive.org",
-  "uniq": 78026402,
+  "uniq": 1970343520,
   "workable_servers": [
     "ia601401.us.archive.org",
     "ia801401.us.archive.org"

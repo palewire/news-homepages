@@ -1,5 +1,5 @@
 {
-  "created": 1665035020,
+  "created": 1665078312,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/28/items/indystar-2022",
@@ -1978,31 +1978,93 @@
       "sha1": "ed7dbfc8a3a560cb4e24e022da3d55c5306848de"
     },
     {
+      "name": "indystar-2022-10-06T13:44:05.616415-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665078250",
+      "size": "22137",
+      "md5": "38e5c8c66a234071418501fa780aa9d9",
+      "crc32": "6159f207",
+      "sha1": "3183a6aeb8f6fe74ae115334c6ffd8c56608139c",
+      "format": "JSON"
+    },
+    {
+      "name": "indystar-2022-10-06T13:44:05.616415-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665078251",
+      "size": "30823",
+      "md5": "030c6c0cbbf5f91d8dd3e5b7f9a25db1",
+      "crc32": "7420d250",
+      "sha1": "c0bea6c3695e57d40ea0eb3c5c8fcce5e7ab1fd7",
+      "format": "JSON"
+    },
+    {
+      "name": "indystar-2022-10-06T13:44:05.616415-04:00.jpg",
+      "source": "original",
+      "mtime": "1665078248",
+      "size": "280391",
+      "md5": "b9d8f0f36c629213c66e0298753059d0",
+      "crc32": "f5f920ef",
+      "sha1": "edc972d15560178b754596fc2151f3432a2338b1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "indystar-2022-10-06T13:44:05.616415-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665078253",
+      "size": "1475",
+      "md5": "b047129d9dfd1a33f5451ae3db064b80",
+      "crc32": "68068671",
+      "sha1": "960758ea4acd5ad78248d4f14a56103f1a5d945b",
+      "format": "JSON"
+    },
+    {
+      "name": "indystar-2022-10-06T13:44:05.616415-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665078259",
+      "size": "205",
+      "md5": "8af0ae4180fade62acab4626ecd82acb",
+      "crc32": "55e0c517",
+      "sha1": "f11b69b802924dd984ab79834f892e1ab107be2b",
+      "format": "JSON"
+    },
+    {
+      "name": "indystar-2022-10-06T13:44:05.616415-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "indystar-2022-10-06T13:44:05.616415-04:00.jpg",
+      "mtime": "1665078303",
+      "size": "9538",
+      "md5": "76e79b5fa597a0c08fc5ed9810d539af",
+      "crc32": "113096cf",
+      "sha1": "44635c279972952b4321262b519ff5e3d11b0c19"
+    },
+    {
       "name": "indystar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "852af54740050d0527fe4b45b480edc1e2dec11b",
-      "mtime": "1665035007",
-      "size": "41657",
-      "md5": "1415aa7634cf15f1f214739d5116feb9",
-      "crc32": "50da2f19",
-      "sha1": "f2b2cf4575dd41a6b62438280c53b1b6aba2964a",
+      "btih": "eeb104704b88aa218ebe74343dd2ec2efe91583a",
+      "mtime": "1665078307",
+      "size": "42922",
+      "md5": "476c54a8c0d06e31215bd904f6136df0",
+      "crc32": "ea4d6b98",
+      "sha1": "eeac9e416a8b389a261cfb53ff9518d2cff0fa14",
       "format": "Archive BitTorrent"
     },
     {
       "name": "indystar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3308cebc780ca447c5545cb91c181f81",
+      "md5": "99a873d474daf424e3bb11182f3d8da2",
       "summation": "md5"
     },
     {
       "name": "indystar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665034963",
-      "size": "262144",
-      "md5": "8a12497b416303c44aa8afd108efac21",
-      "crc32": "d621a122",
-      "sha1": "981780a9337c3dac4902e6ddc236e46eea1ec6e0",
+      "mtime": "1665078261",
+      "size": "274432",
+      "md5": "e5b57113022e688749cfb1c70a30e8cb",
+      "crc32": "baf5fc94",
+      "sha1": "a1d12154875b377514d1f08ca3e35977f698487f",
       "format": "Metadata"
     },
     {
@@ -2016,9 +2078,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 195,
-  "item_last_updated": 1665035007,
-  "item_size": 13867318,
+  "files_count": 201,
+  "item_last_updated": 1665078307,
+  "item_size": 14225440,
   "metadata": {
     "identifier": "indystar-2022",
     "collection": [
@@ -2036,7 +2098,7 @@
     "addeddate": "2022-09-20 17:30:24"
   },
   "server": "ia601401.us.archive.org",
-  "uniq": 533253030,
+  "uniq": 972686489,
   "workable_servers": [
     "ia601401.us.archive.org",
     "ia801401.us.archive.org"

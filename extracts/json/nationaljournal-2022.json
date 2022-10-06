@@ -1,5 +1,5 @@
 {
-  "created": 1665035416,
+  "created": 1665078756,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/26/items/nationaljournal-2022",
@@ -10488,31 +10488,93 @@
       "sha1": "1b1d65f860ff6d44c89d9aa0ce64943c9bbced6a"
     },
     {
+      "name": "nationaljournal-2022-10-06T13:48:58.224303-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665078545",
+      "size": "8719",
+      "md5": "a844863b693bffe1b0a3dd9badbeda85",
+      "crc32": "ef425154",
+      "sha1": "7907c37fb3c55fa23ed9a14240888148091901fb",
+      "format": "JSON"
+    },
+    {
+      "name": "nationaljournal-2022-10-06T13:48:58.224303-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665078546",
+      "size": "6182",
+      "md5": "216383b20efe2ab84d4b6fb1b3e7bca7",
+      "crc32": "ad3f23d8",
+      "sha1": "4062b2151d17e3d87c7044f9cb5f6a179140b4f2",
+      "format": "JSON"
+    },
+    {
+      "name": "nationaljournal-2022-10-06T13:48:58.224303-04:00.jpg",
+      "source": "original",
+      "mtime": "1665078542",
+      "size": "208041",
+      "md5": "977c44135cad1192aa90ea42eee99496",
+      "crc32": "6ac2e8c3",
+      "sha1": "119caa0de2310c6321fc7e8ccd7824aec339e08e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nationaljournal-2022-10-06T13:48:58.224303-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665078548",
+      "size": "1534",
+      "md5": "0e896b71d33bd8a3185a47a1ff4f5c6c",
+      "crc32": "15b86909",
+      "sha1": "b349e8937dec7ca86b8660334a12f92fd3067157",
+      "format": "JSON"
+    },
+    {
+      "name": "nationaljournal-2022-10-06T13:48:58.224303-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665078550",
+      "size": "7202",
+      "md5": "8ea1f309c030822c1bb85f430e4e48a4",
+      "crc32": "25724771",
+      "sha1": "ce0c14c2293716c3b9c9248cf5f4f746b5517f5c",
+      "format": "JSON"
+    },
+    {
+      "name": "nationaljournal-2022-10-06T13:48:58.224303-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nationaljournal-2022-10-06T13:48:58.224303-04:00.jpg",
+      "mtime": "1665078706",
+      "size": "9343",
+      "md5": "1d0e3ca3577bd832f42cdb7f32649fef",
+      "crc32": "6b43de70",
+      "sha1": "6d25a03c60e3ca2e5d65ead4414b871bb0de6928"
+    },
+    {
       "name": "nationaljournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "10607b8880235e0299f16a57283257d96f26f20a",
-      "mtime": "1665035403",
-      "size": "219774",
-      "md5": "0f7af6263703652b4557ebee268459a0",
-      "crc32": "23900b6d",
-      "sha1": "f560206468b679a224f9373cb5cb71b46da6573c",
+      "btih": "d686fbd00a0a02a0baca6b1e01f5e8e427742eca",
+      "mtime": "1665078733",
+      "size": "221060",
+      "md5": "e04e7aa345a30dcdbb83301f72a759aa",
+      "crc32": "7d7b44a2",
+      "sha1": "656623a5b73da518906fee99d1f5e5516173522b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nationaljournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d7380ab27419f6e8da326b45d16c7647",
+      "md5": "d27afd05e19ae65c5a37a55d317ddb7d",
       "summation": "md5"
     },
     {
       "name": "nationaljournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665035310",
-      "size": "1286144",
-      "md5": "a12a9d8e847ce40f96609af938a57cf1",
-      "crc32": "b1dccf96",
-      "sha1": "d1380bdaaeb2a2bcfa8f260ec980d7de3f669222",
+      "mtime": "1665078562",
+      "size": "1294336",
+      "md5": "c2b1b4d0c2d5c259376d724b10638e4f",
+      "crc32": "8dd4c228",
+      "sha1": "47181c8a845a4704e5bd2fdbbffb33749a1cb16d",
       "format": "Metadata"
     },
     {
@@ -10526,9 +10588,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1015,
-  "item_last_updated": 1665035403,
-  "item_size": 45522576,
+  "files_count": 1021,
+  "item_last_updated": 1665078733,
+  "item_size": 45773075,
   "metadata": {
     "identifier": "nationaljournal-2022",
     "collection": [
@@ -10546,7 +10608,7 @@
     "addeddate": "2022-07-04 21:49:06"
   },
   "server": "ia801406.us.archive.org",
-  "uniq": 766272331,
+  "uniq": 243883942,
   "workable_servers": [
     "ia801406.us.archive.org",
     "ia601406.us.archive.org"

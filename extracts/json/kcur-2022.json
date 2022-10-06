@@ -1,5 +1,5 @@
 {
-  "created": 1665035430,
+  "created": 1665084707,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/35/items/kcur-2022",
@@ -10142,31 +10142,93 @@
       "sha1": "9131751f5fa7374b6aba3516b4f5aa4e621e2012"
     },
     {
+      "name": "kcur-2022-10-06T12:45:33.524807-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665078336",
+      "size": "21690",
+      "md5": "d1ecde448966a242e78eccc6bb9fd199",
+      "crc32": "1a39b333",
+      "sha1": "157063e15a9a716331457c6c551bdd8b1ab27fc7",
+      "format": "JSON"
+    },
+    {
+      "name": "kcur-2022-10-06T12:45:33.524807-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665078341",
+      "size": "42797",
+      "md5": "d00f9ffd97aa3e8aaea58f5f09a92335",
+      "crc32": "091819a5",
+      "sha1": "151885edd10cbc0bf8582e505d0acc39bd79d507",
+      "format": "JSON"
+    },
+    {
+      "name": "kcur-2022-10-06T12:45:33.524807-05:00.jpg",
+      "source": "original",
+      "mtime": "1665078334",
+      "size": "306682",
+      "md5": "df93ec366bed675c1d7ba5a3dc4348c9",
+      "crc32": "2902e04f",
+      "sha1": "4c93121e72d7ed82d51d1dc8f9ffd4bb366c862b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcur-2022-10-06T12:45:33.524807-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665078345",
+      "size": "1440",
+      "md5": "ecc1b26ef81d6ed2d9cc6d584e08ac3e",
+      "crc32": "d678cc39",
+      "sha1": "13aec3633bcd2f07bac6f891e4daa645ce431a58",
+      "format": "JSON"
+    },
+    {
+      "name": "kcur-2022-10-06T12:45:33.524807-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665078350",
+      "size": "200",
+      "md5": "06071c533cbfaeb1924648d8373c2724",
+      "crc32": "c93c2997",
+      "sha1": "bf1e3dc5089f9a55489ff6d5e1b62e89a309ea5c",
+      "format": "JSON"
+    },
+    {
+      "name": "kcur-2022-10-06T12:45:33.524807-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcur-2022-10-06T12:45:33.524807-05:00.jpg",
+      "mtime": "1665078421",
+      "size": "11468",
+      "md5": "3a61b97aa90078c6f563b0510cc34e60",
+      "crc32": "a35e534f",
+      "sha1": "b65d808f25d7aae2a3c46dc62e1dee26ffd70d7d"
+    },
+    {
       "name": "kcur-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3e6126c9bc0fe2b7f9f9997397774815d2bc03f2",
-      "mtime": "1665035388",
-      "size": "203387",
-      "md5": "b08e03d17e7ca341ebcb13a45f6c6e40",
-      "crc32": "68272bff",
-      "sha1": "3be6c1611c4e8aa410a1e92c23082d3c8edc1354",
+      "btih": "400c41c8593cd001f6ad8bcd34b0817522778443",
+      "mtime": "1665078444",
+      "size": "204629",
+      "md5": "2344607c073990511e73951a033c4e55",
+      "crc32": "edea7941",
+      "sha1": "c4e4b578610e9220f1fb7a6e7075d1b584f40aa7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kcur-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9ec51c211e097436c5332affde98a8c4",
+      "md5": "214872a159cec807411fbe87b07ec4c7",
       "summation": "md5"
     },
     {
       "name": "kcur-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665035178",
-      "size": "1228800",
-      "md5": "265e3c684f74c173769b7e60e0a84263",
-      "crc32": "0c86a79b",
-      "sha1": "c666051456a50500a224829c97676eb5d164dec0",
+      "mtime": "1665078358",
+      "size": "1232896",
+      "md5": "e10d892e7babd1b4f8618789bbb41a97",
+      "crc32": "ca970c3c",
+      "sha1": "eb04e3e792b3e0ff587fc5845da0117981db4cf9",
       "format": "Metadata"
     },
     {
@@ -10180,9 +10242,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 982,
-  "item_last_updated": 1665035388,
-  "item_size": 69171598,
+  "files_count": 988,
+  "item_last_updated": 1665078444,
+  "item_size": 69561213,
+  "kcur-2022": {
+    "url": "http://www.kcur.org/",
+    "job_id": "spn2-3b7abb827fee67e154660983516ef5b923708b3c",
+    "resources": [],
+    "status": "error",
+    "message": "Job failed.",
+    "status_ext": "error:job-failed"
+  },
   "metadata": {
     "identifier": "kcur-2022",
     "collection": [
@@ -10199,10 +10269,10 @@
     "publicdate": "2022-07-09 03:59:38",
     "addeddate": "2022-07-09 03:59:38"
   },
-  "server": "ia601405.us.archive.org",
-  "uniq": 1776202457,
+  "server": "ia801405.us.archive.org",
+  "uniq": 267306957,
   "workable_servers": [
-    "ia601405.us.archive.org",
-    "ia801405.us.archive.org"
+    "ia801405.us.archive.org",
+    "ia601405.us.archive.org"
   ]
 }

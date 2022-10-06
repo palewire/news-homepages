@@ -1,5 +1,5 @@
 {
-  "created": 1665035369,
+  "created": 1665085047,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/19/items/ndn-2022",
@@ -2000,31 +2000,93 @@
       "sha1": "5d10345088c8bbd7db6fc438639c4c2911e5f601"
     },
     {
+      "name": "ndn-2022-10-06T13:49:39.452522-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665078586",
+      "size": "23376",
+      "md5": "7882fda8ee086557a5bc872f085eb7db",
+      "crc32": "0be9670e",
+      "sha1": "869227705c6d020edda0c1c95bf4934bd68341da",
+      "format": "JSON"
+    },
+    {
+      "name": "ndn-2022-10-06T13:49:39.452522-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665078588",
+      "size": "34660",
+      "md5": "ff30df0692db2a0489427afb4016a897",
+      "crc32": "c711629a",
+      "sha1": "582200fa9d46608a973cb53aed39526d77b60d18",
+      "format": "JSON"
+    },
+    {
+      "name": "ndn-2022-10-06T13:49:39.452522-04:00.jpg",
+      "source": "original",
+      "mtime": "1665078584",
+      "size": "261403",
+      "md5": "05c8bf608c25f9d28a95c5c73bc8867f",
+      "crc32": "1547a7af",
+      "sha1": "417c3a197830f5cfac79bb5f891c787dfb81b46e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ndn-2022-10-06T13:49:39.452522-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665078590",
+      "size": "1495",
+      "md5": "aedd35ebf779631811a8796eadc04cf0",
+      "crc32": "58082f58",
+      "sha1": "0759bc8331cf7c8395e589c9e8745b8cad6d6909",
+      "format": "JSON"
+    },
+    {
+      "name": "ndn-2022-10-06T13:49:39.452522-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665078591",
+      "size": "207",
+      "md5": "cc05e7aaa5c31af7c8568bc0e0b0bd39",
+      "crc32": "0c804b18",
+      "sha1": "2243b7ff34e2c40eb96d998627a61384ce954b36",
+      "format": "JSON"
+    },
+    {
+      "name": "ndn-2022-10-06T13:49:39.452522-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ndn-2022-10-06T13:49:39.452522-04:00.jpg",
+      "mtime": "1665078671",
+      "size": "8971",
+      "md5": "48d40a172a6b8a99ce3504d2916a3e05",
+      "crc32": "f5fa0b4f",
+      "sha1": "d5597401d011bf1f5d0035a68e7bcfd9a1bb1399"
+    },
+    {
       "name": "ndn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9231e1e4d9172d66105660ac813e142e587a147f",
-      "mtime": "1665035359",
-      "size": "41046",
-      "md5": "24b9882ff297e34f8fdd1f706f2c160e",
-      "crc32": "ba31f929",
-      "sha1": "f7baffcb6bffef86060b0ca439a090f7f90e2bd5",
+      "btih": "3bb39a54a39860e274feb4a2fbc43201940947b5",
+      "mtime": "1665078676",
+      "size": "42281",
+      "md5": "b93afe5daa99de1558261215c6c05543",
+      "crc32": "8e5b8bd4",
+      "sha1": "91a22300d498f46615c12eee4b1827756d71b7d1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ndn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5b9bf7501f19cde9962689ed34ac0672",
+      "md5": "dbcc93f869ce8952ca7a529e07142e10",
       "summation": "md5"
     },
     {
       "name": "ndn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665035309",
-      "size": "266240",
-      "md5": "e4b28665673a2aa8a0f00783348ffaf7",
-      "crc32": "236e1bf0",
-      "sha1": "920f558ea08bc378a97b29ba88118954acb5914f",
+      "mtime": "1665078600",
+      "size": "270336",
+      "md5": "f79a624efaaee5b962696c00dd28ac52",
+      "crc32": "218fc19a",
+      "sha1": "4bdd9b060e361771fe479f797885f3a3c28aea8c",
       "format": "Metadata"
     },
     {
@@ -2038,9 +2100,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 197,
-  "item_last_updated": 1665035359,
-  "item_size": 14040975,
+  "files_count": 203,
+  "item_last_updated": 1665078676,
+  "item_size": 14376418,
   "metadata": {
     "identifier": "ndn-2022",
     "collection": [
@@ -2057,10 +2119,18 @@
     "publicdate": "2022-09-20 17:36:27",
     "addeddate": "2022-09-20 17:36:27"
   },
-  "server": "ia601400.us.archive.org",
-  "uniq": 814229978,
+  "ndn-2022": {
+    "url": "https://www.naplesnews.com/",
+    "job_id": "spn2-d2616ca5f2569ebed2dc259bf43c78b4f5e76f13",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "message": "Job failed.",
+    "resources": []
+  },
+  "server": "ia801400.us.archive.org",
+  "uniq": 1111679964,
   "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
+    "ia801400.us.archive.org",
+    "ia601400.us.archive.org"
   ]
 }
