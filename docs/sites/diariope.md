@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 184 screenshots with the Internet Archive.
+The archiving routine has saved 185 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 184 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/diariope-2022/diariope-2022-10-07T09:09:11.372777-03:00.jpg">
+  <img src="https://archive.org/download/diariope-2022/diariope-2022-10-07T09:09:11.372777-03:00.jpg"
+     alt="Diario de Pernambuco at 2022-10-07 09:09:39-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/diariope-2022/diariope-2022-10-07T09:09:11.372777-03:00.jpg">October 7 at 9:09 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/diariope-2022/diariope-2022-10-06T21:04:15.353551-03:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/diariope-2022/diariope-2022-10-03T09:03:59.929046-03:00.jpg">October 3 at 9:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/diariope-2022/diariope-2022-10-03T09:00:37.768416-03:00.jpg">
-  <img src="https://archive.org/download/diariope-2022/diariope-2022-10-03T09:00:37.768416-03:00.jpg"
-     alt="Diario de Pernambuco at 2022-10-03 09:00:56-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/diariope-2022/diariope-2022-10-03T09:00:37.768416-03:00.jpg">October 3 at 9:00 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 184 hyperlink lists with the Internet Archive.
+The archiving routine has saved 185 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 7 at 9:09 AM](https://archive.org/download/diariope-2022/diariope-2022-10-07T09:09:11.372777-03:00.hyperlinks.json) |
 | [October 6 at 9:04 PM](https://archive.org/download/diariope-2022/diariope-2022-10-06T21:04:15.353551-03:00.hyperlinks.json) |
 | [October 6 at 5:55 PM](https://archive.org/download/diariope-2022/diariope-2022-10-06T17:54:40.812192-03:00.hyperlinks.json) |
 | [October 6 at 8:24 AM](https://archive.org/download/diariope-2022/diariope-2022-10-06T08:24:14.006610-03:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 4 at 8:56 PM](https://archive.org/download/diariope-2022/diariope-2022-10-04T20:55:49.359670-03:00.hyperlinks.json) |
 | [October 4 at 9:11 AM](https://archive.org/download/diariope-2022/diariope-2022-10-04T09:11:44.326899-03:00.hyperlinks.json) |
 | [October 4 at 9:06 AM](https://archive.org/download/diariope-2022/diariope-2022-10-04T09:05:46.755909-03:00.hyperlinks.json) |
-| [October 3 at 8:56 PM](https://archive.org/download/diariope-2022/diariope-2022-10-03T20:56:04.129716-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 185 accessibility trees with the Internet Archive.
+The archiving routine has saved 186 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 7 at 9:09 AM](https://archive.org/download/diariope-2022/diariope-2022-10-07T09:09:11.372777-03:00.accessibility.json) |
 | [October 6 at 9:04 PM](https://archive.org/download/diariope-2022/diariope-2022-10-06T21:04:15.353551-03:00.accessibility.json) |
 | [October 6 at 5:55 PM](https://archive.org/download/diariope-2022/diariope-2022-10-06T17:54:40.812192-03:00.accessibility.json) |
 | [October 6 at 8:24 AM](https://archive.org/download/diariope-2022/diariope-2022-10-06T08:24:14.006610-03:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 4 at 8:56 PM](https://archive.org/download/diariope-2022/diariope-2022-10-04T20:55:49.359670-03:00.accessibility.json) |
 | [October 4 at 9:11 AM](https://archive.org/download/diariope-2022/diariope-2022-10-04T09:11:44.326899-03:00.accessibility.json) |
 | [October 4 at 9:06 AM](https://archive.org/download/diariope-2022/diariope-2022-10-04T09:05:46.755909-03:00.accessibility.json) |
-| [October 3 at 8:56 PM](https://archive.org/download/diariope-2022/diariope-2022-10-03T20:56:04.129716-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 186 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 187 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 7 at 9:09 AM](https://archive.org/download/diariope-2022/diariope-2022-10-07T09:09:11.372777-03:00.lighthouse.json) |
 | [October 6 at 9:04 PM](https://archive.org/download/diariope-2022/diariope-2022-10-06T21:04:15.353551-03:00.lighthouse.json) |
 | [October 6 at 5:55 PM](https://archive.org/download/diariope-2022/diariope-2022-10-06T17:54:40.812192-03:00.lighthouse.json) |
 | [October 6 at 8:24 AM](https://archive.org/download/diariope-2022/diariope-2022-10-06T08:24:14.006610-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 4 at 8:56 PM](https://archive.org/download/diariope-2022/diariope-2022-10-04T20:55:49.359670-03:00.lighthouse.json) |
 | [October 4 at 9:11 AM](https://archive.org/download/diariope-2022/diariope-2022-10-04T09:11:44.326899-03:00.lighthouse.json) |
 | [October 4 at 9:06 AM](https://archive.org/download/diariope-2022/diariope-2022-10-04T09:05:46.755909-03:00.lighthouse.json) |
-| [October 3 at 8:56 PM](https://archive.org/download/diariope-2022/diariope-2022-10-03T20:56:04.129716-03:00.lighthouse.json) |
 
 
 
