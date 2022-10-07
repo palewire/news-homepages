@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 92 screenshots with the Internet Archive.
+The archiving routine has saved 93 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 92 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/iol-2022/iol-2022-10-07T15:07:06.272734+02:00.jpg">
+  <img src="https://archive.org/download/iol-2022/iol-2022-10-07T15:07:06.272734+02:00.jpg"
+     alt="Independent Online at 2022-10-07 15:07:12+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/iol-2022/iol-2022-10-07T15:07:06.272734+02:00.jpg">October 7 at 3:07 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/iol-2022/iol-2022-10-07T03:36:31.202152+02:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/iol-2022/iol-2022-10-02T03:24:14.627149+02:00.jpg">October 2 at 3:24 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/iol-2022/iol-2022-10-01T14:52:56.283387+02:00.jpg">
-  <img src="https://archive.org/download/iol-2022/iol-2022-10-01T14:52:56.283387+02:00.jpg"
-     alt="Independent Online at 2022-10-01 14:52:57+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/iol-2022/iol-2022-10-01T14:52:56.283387+02:00.jpg">October 1 at 2:52 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 92 hyperlink lists with the Internet Archive.
+The archiving routine has saved 93 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 7 at 3:07 PM](https://archive.org/download/iol-2022/iol-2022-10-07T15:07:06.272734+02:00.hyperlinks.json) |
 | [October 7 at 3:36 AM](https://archive.org/download/iol-2022/iol-2022-10-07T03:36:31.202152+02:00.hyperlinks.json) |
 | [October 6 at 2:59 PM](https://archive.org/download/iol-2022/iol-2022-10-06T14:58:54.150659+02:00.hyperlinks.json) |
 | [October 6 at 3:25 AM](https://archive.org/download/iol-2022/iol-2022-10-06T03:24:59.253194+02:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 4 at 3:26 AM](https://archive.org/download/iol-2022/iol-2022-10-04T03:26:48.923662+02:00.hyperlinks.json) |
 | [October 3 at 2:56 PM](https://archive.org/download/iol-2022/iol-2022-10-03T14:56:39.705074+02:00.hyperlinks.json) |
 | [October 3 at 3:13 AM](https://archive.org/download/iol-2022/iol-2022-10-03T03:13:04.417006+02:00.hyperlinks.json) |
-| [October 2 at 2:56 PM](https://archive.org/download/iol-2022/iol-2022-10-02T14:55:53.745724+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 93 accessibility trees with the Internet Archive.
+The archiving routine has saved 94 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 7 at 3:07 PM](https://archive.org/download/iol-2022/iol-2022-10-07T15:07:06.272734+02:00.accessibility.json) |
 | [October 7 at 3:36 AM](https://archive.org/download/iol-2022/iol-2022-10-07T03:36:31.202152+02:00.accessibility.json) |
 | [October 6 at 2:59 PM](https://archive.org/download/iol-2022/iol-2022-10-06T14:58:54.150659+02:00.accessibility.json) |
 | [October 6 at 3:25 AM](https://archive.org/download/iol-2022/iol-2022-10-06T03:24:59.253194+02:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 4 at 3:26 AM](https://archive.org/download/iol-2022/iol-2022-10-04T03:26:48.923662+02:00.accessibility.json) |
 | [October 3 at 2:56 PM](https://archive.org/download/iol-2022/iol-2022-10-03T14:56:39.705074+02:00.accessibility.json) |
 | [October 3 at 3:13 AM](https://archive.org/download/iol-2022/iol-2022-10-03T03:13:04.417006+02:00.accessibility.json) |
-| [October 2 at 2:56 PM](https://archive.org/download/iol-2022/iol-2022-10-02T14:55:53.745724+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 92 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 93 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 7 at 3:07 PM](https://archive.org/download/iol-2022/iol-2022-10-07T15:07:06.272734+02:00.lighthouse.json) |
 | [October 7 at 3:36 AM](https://archive.org/download/iol-2022/iol-2022-10-07T03:36:31.202152+02:00.lighthouse.json) |
 | [October 6 at 2:59 PM](https://archive.org/download/iol-2022/iol-2022-10-06T14:58:54.150659+02:00.lighthouse.json) |
 | [October 6 at 3:25 AM](https://archive.org/download/iol-2022/iol-2022-10-06T03:24:59.253194+02:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 4 at 3:26 AM](https://archive.org/download/iol-2022/iol-2022-10-04T03:26:48.923662+02:00.lighthouse.json) |
 | [October 3 at 2:56 PM](https://archive.org/download/iol-2022/iol-2022-10-03T14:56:39.705074+02:00.lighthouse.json) |
 | [October 3 at 3:13 AM](https://archive.org/download/iol-2022/iol-2022-10-03T03:13:04.417006+02:00.lighthouse.json) |
-| [October 2 at 2:56 PM](https://archive.org/download/iol-2022/iol-2022-10-02T14:55:53.745724+02:00.lighthouse.json) |
 
 
 
