@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 49 screenshots with the Internet Archive.
+The archiving routine has saved 51 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/alreporter-2022/alreporter-2022-10-06T17:58:26.178195-05:00.jpg">
+  <img src="https://archive.org/download/alreporter-2022/alreporter-2022-10-06T17:58:26.178195-05:00.jpg"
+     alt="Alabama Reporter at 2022-10-06 17:58:31-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alreporter-2022/alreporter-2022-10-06T17:58:26.178195-05:00.jpg">October 6 at 5:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/alreporter-2022/alreporter-2022-10-06T05:42:00.231203-05:00.jpg">
+  <img src="https://archive.org/download/alreporter-2022/alreporter-2022-10-06T05:42:00.231203-05:00.jpg"
+     alt="Alabama Reporter at 2022-10-06 05:42:03-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alreporter-2022/alreporter-2022-10-06T05:42:00.231203-05:00.jpg">October 6 at 5:42 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/alreporter-2022/alreporter-2022-10-05T17:52:35.455680-05:00.jpg">
   <img src="https://archive.org/download/alreporter-2022/alreporter-2022-10-05T17:52:35.455680-05:00.jpg"
      alt="Alabama Reporter at 2022-10-05 17:52:39-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/alreporter-2022/alreporter-2022-10-01T05:48:35.504106-05:00.jpg">October 1 at 5:48 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/alreporter-2022/alreporter-2022-09-30T17:59:37.580460-05:00.jpg">
-  <img src="https://archive.org/download/alreporter-2022/alreporter-2022-09-30T17:59:37.580460-05:00.jpg"
-     alt="Alabama Reporter at 2022-09-30 17:59:39-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/alreporter-2022/alreporter-2022-09-30T17:59:37.580460-05:00.jpg">September 30 at 5:59 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/alreporter-2022/alreporter-2022-09-30T05:53:32.264041-05:00.jpg">
-  <img src="https://archive.org/download/alreporter-2022/alreporter-2022-09-30T05:53:32.264041-05:00.jpg"
-     alt="Alabama Reporter at 2022-09-30 05:53:37-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/alreporter-2022/alreporter-2022-09-30T05:53:32.264041-05:00.jpg">September 30 at 5:53 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 49 hyperlink lists with the Internet Archive.
+The archiving routine has saved 51 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 6 at 5:58 PM](https://archive.org/download/alreporter-2022/alreporter-2022-10-06T17:58:26.178195-05:00.hyperlinks.json) |
+| [October 6 at 5:42 AM](https://archive.org/download/alreporter-2022/alreporter-2022-10-06T05:42:00.231203-05:00.hyperlinks.json) |
 | [October 5 at 5:52 PM](https://archive.org/download/alreporter-2022/alreporter-2022-10-05T17:52:35.455680-05:00.hyperlinks.json) |
 | [October 5 at 5:58 AM](https://archive.org/download/alreporter-2022/alreporter-2022-10-05T05:58:39.200582-05:00.hyperlinks.json) |
 | [October 4 at 5:58 PM](https://archive.org/download/alreporter-2022/alreporter-2022-10-04T17:57:57.038833-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 3 at 5:46 AM](https://archive.org/download/alreporter-2022/alreporter-2022-10-03T05:46:26.871103-05:00.hyperlinks.json) |
 | [October 2 at 5:58 PM](https://archive.org/download/alreporter-2022/alreporter-2022-10-02T17:58:14.157435-05:00.hyperlinks.json) |
 | [October 2 at 5:41 AM](https://archive.org/download/alreporter-2022/alreporter-2022-10-02T05:41:29.161624-05:00.hyperlinks.json) |
-| [October 1 at 5:55 PM](https://archive.org/download/alreporter-2022/alreporter-2022-10-01T17:55:35.607365-05:00.hyperlinks.json) |
-| [October 1 at 5:48 AM](https://archive.org/download/alreporter-2022/alreporter-2022-10-01T05:48:35.504106-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 49 accessibility trees with the Internet Archive.
+The archiving routine has saved 50 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 6 at 5:58 PM](https://archive.org/download/alreporter-2022/alreporter-2022-10-06T17:58:26.178195-05:00.accessibility.json) |
 | [October 5 at 5:52 PM](https://archive.org/download/alreporter-2022/alreporter-2022-10-05T17:52:35.455680-05:00.accessibility.json) |
 | [October 5 at 5:58 AM](https://archive.org/download/alreporter-2022/alreporter-2022-10-05T05:58:39.200582-05:00.accessibility.json) |
 | [October 4 at 5:58 PM](https://archive.org/download/alreporter-2022/alreporter-2022-10-04T17:57:57.038833-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 2 at 5:58 PM](https://archive.org/download/alreporter-2022/alreporter-2022-10-02T17:58:14.157435-05:00.accessibility.json) |
 | [October 2 at 5:41 AM](https://archive.org/download/alreporter-2022/alreporter-2022-10-02T05:41:29.161624-05:00.accessibility.json) |
 | [October 1 at 5:55 PM](https://archive.org/download/alreporter-2022/alreporter-2022-10-01T17:55:35.607365-05:00.accessibility.json) |
-| [October 1 at 5:48 AM](https://archive.org/download/alreporter-2022/alreporter-2022-10-01T05:48:35.504106-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 6 at 5:58 PM](https://archive.org/download/alreporter-2022/alreporter-2022-10-06T17:58:26.178195-05:00.lighthouse.json) |
+| [October 6 at 5:42 AM](https://archive.org/download/alreporter-2022/alreporter-2022-10-06T05:42:00.231203-05:00.lighthouse.json) |
 | [October 5 at 5:52 PM](https://archive.org/download/alreporter-2022/alreporter-2022-10-05T17:52:35.455680-05:00.lighthouse.json) |
 | [October 5 at 5:58 AM](https://archive.org/download/alreporter-2022/alreporter-2022-10-05T05:58:39.200582-05:00.lighthouse.json) |
 | [October 4 at 5:58 PM](https://archive.org/download/alreporter-2022/alreporter-2022-10-04T17:57:57.038833-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 3 at 5:46 AM](https://archive.org/download/alreporter-2022/alreporter-2022-10-03T05:46:26.871103-05:00.lighthouse.json) |
 | [October 2 at 5:58 PM](https://archive.org/download/alreporter-2022/alreporter-2022-10-02T17:58:14.157435-05:00.lighthouse.json) |
 | [October 2 at 5:41 AM](https://archive.org/download/alreporter-2022/alreporter-2022-10-02T05:41:29.161624-05:00.lighthouse.json) |
-| [October 1 at 5:55 PM](https://archive.org/download/alreporter-2022/alreporter-2022-10-01T17:55:35.607365-05:00.lighthouse.json) |
-| [October 1 at 5:48 AM](https://archive.org/download/alreporter-2022/alreporter-2022-10-01T05:48:35.504106-05:00.lighthouse.json) |
 
 
 

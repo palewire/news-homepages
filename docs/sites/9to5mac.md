@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 149 screenshots with the Internet Archive.
+The archiving routine has saved 151 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-10-06T15:59:08.545730-07:00.jpg">
+  <img src="https://archive.org/download/9to5mac-2022/9to5mac-2022-10-06T15:59:08.545730-07:00.jpg"
+     alt="9to5Mac at 2022-10-06 15:59:10-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-10-06T15:59:08.545730-07:00.jpg">October 6 at 3:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-10-06T03:42:33.673714-07:00.jpg">
+  <img src="https://archive.org/download/9to5mac-2022/9to5mac-2022-10-06T03:42:33.673714-07:00.jpg"
+     alt="9to5Mac at 2022-10-06 03:42:34-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-10-06T03:42:33.673714-07:00.jpg">October 6 at 3:42 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-10-05T15:52:34.926968-07:00.jpg">
   <img src="https://archive.org/download/9to5mac-2022/9to5mac-2022-10-05T15:52:34.926968-07:00.jpg"
      alt="9to5Mac at 2022-10-05 15:52:37-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-10-01T03:48:34.898622-07:00.jpg">October 1 at 3:48 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-09-30T16:00:23.916497-07:00.jpg">
-  <img src="https://archive.org/download/9to5mac-2022/9to5mac-2022-09-30T16:00:23.916497-07:00.jpg"
-     alt="9to5Mac at 2022-09-30 16:00:25-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-09-30T16:00:23.916497-07:00.jpg">September 30 at 4:00 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-09-30T03:53:32.264410-07:00.jpg">
-  <img src="https://archive.org/download/9to5mac-2022/9to5mac-2022-09-30T03:53:32.264410-07:00.jpg"
-     alt="9to5Mac at 2022-09-30 03:53:34-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-09-30T03:53:32.264410-07:00.jpg">September 30 at 3:53 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 149 hyperlink lists with the Internet Archive.
+The archiving routine has saved 151 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 6 at 3:59 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-06T15:59:08.545730-07:00.hyperlinks.json) |
+| [October 6 at 3:42 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-06T03:42:33.673714-07:00.hyperlinks.json) |
 | [October 5 at 3:52 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-05T15:52:34.926968-07:00.hyperlinks.json) |
 | [October 5 at 3:58 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-05T03:58:32.888823-07:00.hyperlinks.json) |
 | [October 4 at 3:57 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-04T15:57:07.931069-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 3 at 3:46 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-03T03:46:27.670662-07:00.hyperlinks.json) |
 | [October 2 at 3:58 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-02T15:57:57.259487-07:00.hyperlinks.json) |
 | [October 2 at 3:42 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-02T03:42:10.197605-07:00.hyperlinks.json) |
-| [October 1 at 3:54 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-01T15:54:28.798843-07:00.hyperlinks.json) |
-| [October 1 at 3:48 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-01T03:48:34.898622-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 149 accessibility trees with the Internet Archive.
+The archiving routine has saved 151 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 6 at 3:59 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-06T15:59:08.545730-07:00.accessibility.json) |
+| [October 6 at 3:42 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-06T03:42:33.673714-07:00.accessibility.json) |
 | [October 5 at 3:52 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-05T15:52:34.926968-07:00.accessibility.json) |
 | [October 5 at 3:58 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-05T03:58:32.888823-07:00.accessibility.json) |
 | [October 4 at 3:57 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-04T15:57:07.931069-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 3 at 3:46 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-03T03:46:27.670662-07:00.accessibility.json) |
 | [October 2 at 3:58 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-02T15:57:57.259487-07:00.accessibility.json) |
 | [October 2 at 3:42 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-02T03:42:10.197605-07:00.accessibility.json) |
-| [October 1 at 3:54 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-01T15:54:28.798843-07:00.accessibility.json) |
-| [October 1 at 3:48 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-01T03:48:34.898622-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 148 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 150 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 6 at 3:59 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-06T15:59:08.545730-07:00.lighthouse.json) |
+| [October 6 at 3:42 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-06T03:42:33.673714-07:00.lighthouse.json) |
 | [October 5 at 3:52 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-05T15:52:34.926968-07:00.lighthouse.json) |
 | [October 5 at 3:58 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-05T03:58:32.888823-07:00.lighthouse.json) |
 | [October 4 at 3:57 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-04T15:57:07.931069-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 3 at 3:46 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-03T03:46:27.670662-07:00.lighthouse.json) |
 | [October 2 at 3:58 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-02T15:57:57.259487-07:00.lighthouse.json) |
 | [October 2 at 3:42 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-02T03:42:10.197605-07:00.lighthouse.json) |
-| [October 1 at 3:54 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-01T15:54:28.798843-07:00.lighthouse.json) |
-| [October 1 at 3:48 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-01T03:48:34.898622-07:00.lighthouse.json) |
 
 
 

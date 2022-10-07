@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 113 screenshots with the Internet Archive.
+The archiving routine has saved 115 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-10-07T00:59:10.585589+02:00.jpg">
+  <img src="https://archive.org/download/adnkronos-2022/adnkronos-2022-10-07T00:59:10.585589+02:00.jpg"
+     alt="Adnkronos at 2022-10-07 00:59:17+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-10-07T00:59:10.585589+02:00.jpg">October 7 at 12:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-10-06T12:42:09.973515+02:00.jpg">
+  <img src="https://archive.org/download/adnkronos-2022/adnkronos-2022-10-06T12:42:09.973515+02:00.jpg"
+     alt="Adnkronos at 2022-10-06 12:42:18+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-10-06T12:42:09.973515+02:00.jpg">October 6 at 12:42 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-10-06T00:52:52.036723+02:00.jpg">
   <img src="https://archive.org/download/adnkronos-2022/adnkronos-2022-10-06T00:52:52.036723+02:00.jpg"
      alt="Adnkronos at 2022-10-06 00:52:59+02:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-10-01T12:48:48.033809+02:00.jpg">October 1 at 12:48 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-10-01T00:59:38.182144+02:00.jpg">
-  <img src="https://archive.org/download/adnkronos-2022/adnkronos-2022-10-01T00:59:38.182144+02:00.jpg"
-     alt="Adnkronos at 2022-10-01 00:59:45+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-10-01T00:59:38.182144+02:00.jpg">October 1 at 12:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-09-30T12:53:29.698891+02:00.jpg">
-  <img src="https://archive.org/download/adnkronos-2022/adnkronos-2022-09-30T12:53:29.698891+02:00.jpg"
-     alt="Adnkronos at 2022-09-30 12:53:36+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-09-30T12:53:29.698891+02:00.jpg">September 30 at 12:53 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 115 hyperlink lists with the Internet Archive.
+The archiving routine has saved 116 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 7 at 12:59 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-10-07T00:59:10.585589+02:00.hyperlinks.json) |
 | [October 6 at 12:53 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-10-06T00:52:52.036723+02:00.hyperlinks.json) |
 | [October 5 at 12:58 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-10-05T12:58:18.761221+02:00.hyperlinks.json) |
 | [October 5 at 12:56 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-10-05T00:56:47.790153+02:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 3 at 12:58 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-10-03T00:58:02.737155+02:00.hyperlinks.json) |
 | [October 2 at 12:41 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-10-02T12:41:29.474534+02:00.hyperlinks.json) |
 | [October 2 at 12:55 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-10-02T00:55:07.137279+02:00.hyperlinks.json) |
-| [October 1 at 12:48 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-10-01T12:48:48.033809+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 115 accessibility trees with the Internet Archive.
+The archiving routine has saved 117 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 7 at 12:59 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-10-07T00:59:10.585589+02:00.accessibility.json) |
+| [October 6 at 12:42 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-10-06T12:42:09.973515+02:00.accessibility.json) |
 | [October 6 at 12:53 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-10-06T00:52:52.036723+02:00.accessibility.json) |
 | [October 5 at 12:58 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-10-05T12:58:18.761221+02:00.accessibility.json) |
 | [October 5 at 12:56 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-10-05T00:56:47.790153+02:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 3 at 12:47 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-10-03T12:46:56.399919+02:00.accessibility.json) |
 | [October 3 at 12:58 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-10-03T00:58:02.737155+02:00.accessibility.json) |
 | [October 2 at 12:41 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-10-02T12:41:29.474534+02:00.accessibility.json) |
-| [October 2 at 12:55 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-10-02T00:55:07.137279+02:00.accessibility.json) |
-| [October 1 at 12:48 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-10-01T12:48:48.033809+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 114 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 115 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 7 at 12:59 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-10-07T00:59:10.585589+02:00.lighthouse.json) |
 | [October 6 at 12:53 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-10-06T00:52:52.036723+02:00.lighthouse.json) |
 | [October 5 at 12:58 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-10-05T12:58:18.761221+02:00.lighthouse.json) |
 | [October 5 at 12:57 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-10-05T00:56:47.790153+02:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 3 at 12:58 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-10-03T00:58:02.737155+02:00.lighthouse.json) |
 | [October 2 at 12:41 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-10-02T12:41:29.474534+02:00.lighthouse.json) |
 | [October 2 at 12:55 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-10-02T00:55:07.137279+02:00.lighthouse.json) |
-| [October 1 at 12:49 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-10-01T12:48:48.033809+02:00.lighthouse.json) |
 
 
 

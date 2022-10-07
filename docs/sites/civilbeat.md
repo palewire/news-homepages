@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 181 screenshots with the Internet Archive.
+The archiving routine has saved 183 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-10-06T14:01:26.832450-10:00.jpg">
+  <img src="https://archive.org/download/civilbeat-2022/civilbeat-2022-10-06T14:01:26.832450-10:00.jpg"
+     alt="Honolulu Civil Beat at 2022-10-06 14:01:28-10:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-10-06T14:01:26.832450-10:00.jpg">October 6 at 2:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-10-06T10:52:34.128993-10:00.jpg">
+  <img src="https://archive.org/download/civilbeat-2022/civilbeat-2022-10-06T10:52:34.128993-10:00.jpg"
+     alt="Honolulu Civil Beat at 2022-10-06 10:52:40-10:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-10-06T10:52:34.128993-10:00.jpg">October 6 at 10:52 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-10-05T13:48:30.125385-10:00.jpg">
   <img src="https://archive.org/download/civilbeat-2022/civilbeat-2022-10-05T13:48:30.125385-10:00.jpg"
      alt="Honolulu Civil Beat at 2022-10-05 13:48:37-10:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-10-01T01:53:19.197004-10:00.jpg">October 1 at 1:53 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-30T13:48:34.728565-10:00.jpg">
-  <img src="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-30T13:48:34.728565-10:00.jpg"
-     alt="Honolulu Civil Beat at 2022-09-30 13:48:37-10:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-30T13:48:34.728565-10:00.jpg">September 30 at 1:48 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-30T01:59:50.870902-10:00.jpg">
-  <img src="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-30T01:59:50.870902-10:00.jpg"
-     alt="Honolulu Civil Beat at 2022-09-30 01:59:51-10:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-30T01:59:50.870902-10:00.jpg">September 30 at 1:59 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 181 hyperlink lists with the Internet Archive.
+The archiving routine has saved 183 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 6 at 2:01 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-06T14:01:26.832450-10:00.hyperlinks.json) |
+| [October 6 at 10:52 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-06T10:52:34.128993-10:00.hyperlinks.json) |
 | [October 5 at 1:48 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-05T13:48:30.125385-10:00.hyperlinks.json) |
 | [October 5 at 2:10 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-05T02:10:49.456509-10:00.hyperlinks.json) |
 | [October 4 at 1:54 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-04T13:54:01.906966-10:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 3 at 1:57 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-03T01:56:57.099530-10:00.hyperlinks.json) |
 | [October 2 at 1:57 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-02T13:57:16.656011-10:00.hyperlinks.json) |
 | [October 2 at 1:53 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-02T01:53:18.530715-10:00.hyperlinks.json) |
-| [October 1 at 1:53 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-01T13:53:15.231797-10:00.hyperlinks.json) |
-| [October 1 at 1:53 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-01T01:53:19.197004-10:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 181 accessibility trees with the Internet Archive.
+The archiving routine has saved 183 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 6 at 2:01 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-06T14:01:26.832450-10:00.accessibility.json) |
+| [October 6 at 10:52 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-06T10:52:34.128993-10:00.accessibility.json) |
 | [October 5 at 1:48 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-05T13:48:30.125385-10:00.accessibility.json) |
 | [October 5 at 2:10 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-05T02:10:49.456509-10:00.accessibility.json) |
 | [October 4 at 1:54 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-04T13:54:01.906966-10:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 3 at 1:57 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-03T01:56:57.099530-10:00.accessibility.json) |
 | [October 2 at 1:57 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-02T13:57:16.656011-10:00.accessibility.json) |
 | [October 2 at 1:53 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-02T01:53:18.530715-10:00.accessibility.json) |
-| [October 1 at 1:53 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-01T13:53:15.231797-10:00.accessibility.json) |
-| [October 1 at 1:53 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-01T01:53:19.197004-10:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 151 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 153 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 6 at 2:01 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-06T14:01:26.832450-10:00.lighthouse.json) |
+| [October 6 at 10:52 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-06T10:52:34.128993-10:00.lighthouse.json) |
 | [October 5 at 1:48 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-05T13:48:30.125385-10:00.lighthouse.json) |
 | [October 5 at 2:10 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-05T02:10:49.456509-10:00.lighthouse.json) |
 | [October 4 at 1:54 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-04T13:54:01.906966-10:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 3 at 1:57 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-03T01:56:57.099530-10:00.lighthouse.json) |
 | [October 2 at 1:57 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-02T13:57:16.656011-10:00.lighthouse.json) |
 | [October 2 at 1:53 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-02T01:53:18.530715-10:00.lighthouse.json) |
-| [October 1 at 1:53 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-01T13:53:15.231797-10:00.lighthouse.json) |
-| [October 1 at 1:53 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-10-01T01:53:19.197004-10:00.lighthouse.json) |
 
 
 

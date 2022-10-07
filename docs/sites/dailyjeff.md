@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 32 screenshots with the Internet Archive.
+The archiving routine has saved 34 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-06T20:01:41.413818-04:00.jpg">
+  <img src="https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-06T20:01:41.413818-04:00.jpg"
+     alt="The Daily Jeffersonian at 2022-10-06 20:01:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-06T20:01:41.413818-04:00.jpg">October 6 at 8:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-06T16:52:42.794682-04:00.jpg">
+  <img src="https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-06T16:52:42.794682-04:00.jpg"
+     alt="The Daily Jeffersonian at 2022-10-06 16:52:45-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-06T16:52:42.794682-04:00.jpg">October 6 at 4:52 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-05T19:49:21.522055-04:00.jpg">
   <img src="https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-05T19:49:21.522055-04:00.jpg"
      alt="The Daily Jeffersonian at 2022-10-05 19:49:27-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-01T07:54:39.693644-04:00.jpg">October 1 at 7:54 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailyjeff-2022/dailyjeff-2022-09-30T19:49:11.444213-04:00.jpg">
-  <img src="https://archive.org/download/dailyjeff-2022/dailyjeff-2022-09-30T19:49:11.444213-04:00.jpg"
-     alt="The Daily Jeffersonian at 2022-09-30 19:49:13-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyjeff-2022/dailyjeff-2022-09-30T19:49:11.444213-04:00.jpg">September 30 at 7:49 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailyjeff-2022/dailyjeff-2022-09-30T07:59:09.335081-04:00.jpg">
-  <img src="https://archive.org/download/dailyjeff-2022/dailyjeff-2022-09-30T07:59:09.335081-04:00.jpg"
-     alt="The Daily Jeffersonian at 2022-09-30 07:59:12-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyjeff-2022/dailyjeff-2022-09-30T07:59:09.335081-04:00.jpg">September 30 at 7:59 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 32 hyperlink lists with the Internet Archive.
+The archiving routine has saved 34 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 6 at 8:01 PM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-06T20:01:41.413818-04:00.hyperlinks.json) |
+| [October 6 at 4:52 PM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-06T16:52:42.794682-04:00.hyperlinks.json) |
 | [October 5 at 7:49 PM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-05T19:49:21.522055-04:00.hyperlinks.json) |
 | [October 5 at 8:12 AM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-05T08:12:23.957897-04:00.hyperlinks.json) |
 | [October 4 at 7:53 PM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-04T19:53:50.581719-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 3 at 7:59 AM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-03T07:59:08.618037-04:00.hyperlinks.json) |
 | [October 2 at 7:57 PM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-02T19:57:13.873276-04:00.hyperlinks.json) |
 | [October 2 at 7:53 AM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-02T07:53:27.396792-04:00.hyperlinks.json) |
-| [October 1 at 7:53 PM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-01T19:53:44.241479-04:00.hyperlinks.json) |
-| [October 1 at 7:54 AM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-01T07:54:39.693644-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 32 accessibility trees with the Internet Archive.
+The archiving routine has saved 34 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 6 at 8:01 PM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-06T20:01:41.413818-04:00.accessibility.json) |
+| [October 6 at 4:52 PM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-06T16:52:42.794682-04:00.accessibility.json) |
 | [October 5 at 7:49 PM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-05T19:49:21.522055-04:00.accessibility.json) |
 | [October 5 at 8:12 AM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-05T08:12:23.957897-04:00.accessibility.json) |
 | [October 4 at 7:53 PM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-04T19:53:50.581719-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 3 at 7:59 AM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-03T07:59:08.618037-04:00.accessibility.json) |
 | [October 2 at 7:57 PM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-02T19:57:13.873276-04:00.accessibility.json) |
 | [October 2 at 7:53 AM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-02T07:53:27.396792-04:00.accessibility.json) |
-| [October 1 at 7:53 PM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-01T19:53:44.241479-04:00.accessibility.json) |
-| [October 1 at 7:54 AM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-01T07:54:39.693644-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 6 at 8:01 PM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-06T20:01:41.413818-04:00.lighthouse.json) |
+| [October 6 at 4:52 PM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-06T16:52:42.794682-04:00.lighthouse.json) |
 | [October 5 at 7:49 PM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-05T19:49:21.522055-04:00.lighthouse.json) |
 | [October 5 at 8:12 AM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-05T08:12:23.957897-04:00.lighthouse.json) |
 | [October 4 at 7:53 PM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-04T19:53:50.581719-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 3 at 7:59 AM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-03T07:59:08.618037-04:00.lighthouse.json) |
 | [October 2 at 7:57 PM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-02T19:57:13.873276-04:00.lighthouse.json) |
 | [October 2 at 7:53 AM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-02T07:53:27.396792-04:00.lighthouse.json) |
-| [October 1 at 7:53 PM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-01T19:53:44.241479-04:00.lighthouse.json) |
-| [October 1 at 7:54 AM](https://archive.org/download/dailyjeff-2022/dailyjeff-2022-10-01T07:54:39.693644-04:00.lighthouse.json) |
 
 
 

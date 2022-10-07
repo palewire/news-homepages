@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 49 screenshots with the Internet Archive.
+The archiving routine has saved 50 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 49 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-06T17:57:33.114432-05:00.jpg">
+  <img src="https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-06T17:57:33.114432-05:00.jpg"
+     alt="Alabama Public Radio at 2022-10-06 17:57:37-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-06T17:57:33.114432-05:00.jpg">October 6 at 5:57 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-05T17:52:32.694602-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/alpublicradio-2022/alpublicradio-2022-09-30T18:00:21.441914-05:00.jpg">September 30 at 6:00 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/alpublicradio-2022/alpublicradio-2022-09-30T05:52:21.617254-05:00.jpg">
-  <img src="https://archive.org/download/alpublicradio-2022/alpublicradio-2022-09-30T05:52:21.617254-05:00.jpg"
-     alt="Alabama Public Radio at 2022-09-30 05:52:26-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/alpublicradio-2022/alpublicradio-2022-09-30T05:52:21.617254-05:00.jpg">September 30 at 5:52 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 49 hyperlink lists with the Internet Archive.
+The archiving routine has saved 50 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 6 at 5:57 PM](https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-06T17:57:33.114432-05:00.hyperlinks.json) |
 | [October 5 at 5:52 PM](https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-05T17:52:32.694602-05:00.hyperlinks.json) |
 | [October 5 at 5:57 AM](https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-05T05:57:31.603235-05:00.hyperlinks.json) |
 | [October 4 at 5:58 PM](https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-04T17:58:01.865312-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 2 at 5:58 PM](https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-02T17:58:02.283308-05:00.hyperlinks.json) |
 | [October 2 at 5:42 AM](https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-02T05:42:14.074569-05:00.hyperlinks.json) |
 | [October 1 at 5:55 PM](https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-01T17:54:47.954840-05:00.hyperlinks.json) |
-| [October 1 at 5:48 AM](https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-01T05:48:42.598775-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 49 accessibility trees with the Internet Archive.
+The archiving routine has saved 50 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 6 at 5:57 PM](https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-06T17:57:33.114432-05:00.accessibility.json) |
 | [October 5 at 5:52 PM](https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-05T17:52:32.694602-05:00.accessibility.json) |
 | [October 5 at 5:57 AM](https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-05T05:57:31.603235-05:00.accessibility.json) |
 | [October 4 at 5:58 PM](https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-04T17:58:01.865312-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 2 at 5:58 PM](https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-02T17:58:02.283308-05:00.accessibility.json) |
 | [October 2 at 5:42 AM](https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-02T05:42:14.074569-05:00.accessibility.json) |
 | [October 1 at 5:54 PM](https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-01T17:54:47.954840-05:00.accessibility.json) |
-| [October 1 at 5:48 AM](https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-01T05:48:42.598775-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 6 at 5:57 PM](https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-06T17:57:33.114432-05:00.lighthouse.json) |
+| [October 6 at 5:42 AM](https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-06T05:41:58.647357-05:00.lighthouse.json) |
 | [October 5 at 5:52 PM](https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-05T17:52:32.694602-05:00.lighthouse.json) |
 | [October 5 at 5:57 AM](https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-05T05:57:31.603235-05:00.lighthouse.json) |
 | [October 4 at 5:58 PM](https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-04T17:58:01.865312-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 3 at 5:46 AM](https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-03T05:46:27.879625-05:00.lighthouse.json) |
 | [October 2 at 5:58 PM](https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-02T17:58:02.283308-05:00.lighthouse.json) |
 | [October 2 at 5:42 AM](https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-02T05:42:14.074569-05:00.lighthouse.json) |
-| [October 1 at 5:55 PM](https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-01T17:54:47.954840-05:00.lighthouse.json) |
-| [October 1 at 5:48 AM](https://archive.org/download/alpublicradio-2022/alpublicradio-2022-10-01T05:48:42.598775-05:00.lighthouse.json) |
 
 
 
