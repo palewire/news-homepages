@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 32 screenshots with the Internet Archive.
+The archiving routine has saved 34 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/theledger-2022/theledger-2022-10-07T03:53:29.947296-04:00.jpg">
+  <img src="https://archive.org/download/theledger-2022/theledger-2022-10-07T03:53:29.947296-04:00.jpg"
+     alt="The Lakeland Ledger at 2022-10-07 03:53:31-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theledger-2022/theledger-2022-10-07T03:53:29.947296-04:00.jpg">October 7 at 3:53 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theledger-2022/theledger-2022-10-06T16:32:23.826011-04:00.jpg">
+  <img src="https://archive.org/download/theledger-2022/theledger-2022-10-06T16:32:23.826011-04:00.jpg"
+     alt="The Lakeland Ledger at 2022-10-06 16:32:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theledger-2022/theledger-2022-10-06T16:32:23.826011-04:00.jpg">October 6 at 4:32 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/theledger-2022/theledger-2022-10-06T03:21:55.843644-04:00.jpg">
   <img src="https://archive.org/download/theledger-2022/theledger-2022-10-06T03:21:55.843644-04:00.jpg"
      alt="The Lakeland Ledger at 2022-10-06 03:21:58-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theledger-2022/theledger-2022-10-01T15:39:24.435680-04:00.jpg">October 1 at 3:39 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theledger-2022/theledger-2022-10-01T03:50:23.808496-04:00.jpg">
-  <img src="https://archive.org/download/theledger-2022/theledger-2022-10-01T03:50:23.808496-04:00.jpg"
-     alt="The Lakeland Ledger at 2022-10-01 03:50:25-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theledger-2022/theledger-2022-10-01T03:50:23.808496-04:00.jpg">October 1 at 3:50 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theledger-2022/theledger-2022-09-30T15:52:20.011764-04:00.jpg">
-  <img src="https://archive.org/download/theledger-2022/theledger-2022-09-30T15:52:20.011764-04:00.jpg"
-     alt="The Lakeland Ledger at 2022-09-30 15:52:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theledger-2022/theledger-2022-09-30T15:52:20.011764-04:00.jpg">September 30 at 3:52 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 32 hyperlink lists with the Internet Archive.
+The archiving routine has saved 34 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 7 at 3:53 AM](https://archive.org/download/theledger-2022/theledger-2022-10-07T03:53:29.947296-04:00.hyperlinks.json) |
+| [October 6 at 4:32 PM](https://archive.org/download/theledger-2022/theledger-2022-10-06T16:32:23.826011-04:00.hyperlinks.json) |
 | [October 6 at 3:22 AM](https://archive.org/download/theledger-2022/theledger-2022-10-06T03:21:55.843644-04:00.hyperlinks.json) |
 | [October 5 at 4:51 PM](https://archive.org/download/theledger-2022/theledger-2022-10-05T16:51:12.011302-04:00.hyperlinks.json) |
 | [October 5 at 3:31 AM](https://archive.org/download/theledger-2022/theledger-2022-10-05T03:31:10.994746-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 3 at 3:11 PM](https://archive.org/download/theledger-2022/theledger-2022-10-03T15:11:15.518213-04:00.hyperlinks.json) |
 | [October 3 at 3:30 AM](https://archive.org/download/theledger-2022/theledger-2022-10-03T03:30:44.930097-04:00.hyperlinks.json) |
 | [October 2 at 3:39 PM](https://archive.org/download/theledger-2022/theledger-2022-10-02T15:38:58.938167-04:00.hyperlinks.json) |
-| [October 2 at 3:16 AM](https://archive.org/download/theledger-2022/theledger-2022-10-02T03:16:04.510238-04:00.hyperlinks.json) |
-| [October 1 at 3:39 PM](https://archive.org/download/theledger-2022/theledger-2022-10-01T15:39:24.435680-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 32 accessibility trees with the Internet Archive.
+The archiving routine has saved 34 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 7 at 3:53 AM](https://archive.org/download/theledger-2022/theledger-2022-10-07T03:53:29.947296-04:00.accessibility.json) |
+| [October 6 at 4:32 PM](https://archive.org/download/theledger-2022/theledger-2022-10-06T16:32:23.826011-04:00.accessibility.json) |
 | [October 6 at 3:22 AM](https://archive.org/download/theledger-2022/theledger-2022-10-06T03:21:55.843644-04:00.accessibility.json) |
 | [October 5 at 4:51 PM](https://archive.org/download/theledger-2022/theledger-2022-10-05T16:51:12.011302-04:00.accessibility.json) |
 | [October 5 at 3:31 AM](https://archive.org/download/theledger-2022/theledger-2022-10-05T03:31:10.994746-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 3 at 3:11 PM](https://archive.org/download/theledger-2022/theledger-2022-10-03T15:11:15.518213-04:00.accessibility.json) |
 | [October 3 at 3:30 AM](https://archive.org/download/theledger-2022/theledger-2022-10-03T03:30:44.930097-04:00.accessibility.json) |
 | [October 2 at 3:39 PM](https://archive.org/download/theledger-2022/theledger-2022-10-02T15:38:58.938167-04:00.accessibility.json) |
-| [October 2 at 3:16 AM](https://archive.org/download/theledger-2022/theledger-2022-10-02T03:16:04.510238-04:00.accessibility.json) |
-| [October 1 at 3:39 PM](https://archive.org/download/theledger-2022/theledger-2022-10-01T15:39:24.435680-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 7 at 3:53 AM](https://archive.org/download/theledger-2022/theledger-2022-10-07T03:53:29.947296-04:00.lighthouse.json) |
+| [October 6 at 4:32 PM](https://archive.org/download/theledger-2022/theledger-2022-10-06T16:32:23.826011-04:00.lighthouse.json) |
 | [October 6 at 3:22 AM](https://archive.org/download/theledger-2022/theledger-2022-10-06T03:21:55.843644-04:00.lighthouse.json) |
 | [October 5 at 4:51 PM](https://archive.org/download/theledger-2022/theledger-2022-10-05T16:51:12.011302-04:00.lighthouse.json) |
 | [October 5 at 3:31 AM](https://archive.org/download/theledger-2022/theledger-2022-10-05T03:31:10.994746-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 3 at 3:11 PM](https://archive.org/download/theledger-2022/theledger-2022-10-03T15:11:15.518213-04:00.lighthouse.json) |
 | [October 3 at 3:30 AM](https://archive.org/download/theledger-2022/theledger-2022-10-03T03:30:44.930097-04:00.lighthouse.json) |
 | [October 2 at 3:39 PM](https://archive.org/download/theledger-2022/theledger-2022-10-02T15:38:58.938167-04:00.lighthouse.json) |
-| [October 2 at 3:16 AM](https://archive.org/download/theledger-2022/theledger-2022-10-02T03:16:04.510238-04:00.lighthouse.json) |
-| [October 1 at 3:39 PM](https://archive.org/download/theledger-2022/theledger-2022-10-01T15:39:24.435680-04:00.lighthouse.json) |
 
 
 
