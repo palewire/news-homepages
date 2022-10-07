@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 199 screenshots with the Internet Archive.
+The archiving routine has saved 200 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 199 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-10-07T10:16:14.400410-04:00.jpg">
+  <img src="https://archive.org/download/phillytrib-2022/phillytrib-2022-10-07T10:16:14.400410-04:00.jpg"
+     alt="Philadelphia Tribune at 2022-10-07 10:16:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-10-07T10:16:14.400410-04:00.jpg">October 7 at 10:16 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-10-06T22:46:53.253636-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-10-01T22:24:50.476718-04:00.jpg">October 1 at 10:24 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-10-01T10:10:29.028901-04:00.jpg">
-  <img src="https://archive.org/download/phillytrib-2022/phillytrib-2022-10-01T10:10:29.028901-04:00.jpg"
-     alt="Philadelphia Tribune at 2022-10-01 10:10:31-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-10-01T10:10:29.028901-04:00.jpg">October 1 at 10:10 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 199 hyperlink lists with the Internet Archive.
+The archiving routine has saved 200 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 7 at 10:16 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-10-07T10:16:14.400410-04:00.hyperlinks.json) |
 | [October 6 at 10:47 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-10-06T22:46:53.253636-04:00.hyperlinks.json) |
 | [October 6 at 10:14 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-10-06T10:14:33.717423-04:00.hyperlinks.json) |
 | [October 5 at 10:35 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-10-05T22:35:33.288426-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 3 at 10:29 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-10-03T22:29:51.119214-04:00.hyperlinks.json) |
 | [October 3 at 10:06 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-10-03T10:06:46.736753-04:00.hyperlinks.json) |
 | [October 2 at 10:29 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-10-02T22:29:15.645357-04:00.hyperlinks.json) |
-| [October 2 at 10:13 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-10-02T10:13:26.064138-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 199 accessibility trees with the Internet Archive.
+The archiving routine has saved 200 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 7 at 10:16 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-10-07T10:16:14.400410-04:00.accessibility.json) |
 | [October 6 at 10:46 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-10-06T22:46:53.253636-04:00.accessibility.json) |
 | [October 6 at 10:14 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-10-06T10:14:33.717423-04:00.accessibility.json) |
 | [October 5 at 10:35 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-10-05T22:35:33.288426-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 3 at 10:29 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-10-03T22:29:51.119214-04:00.accessibility.json) |
 | [October 3 at 10:06 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-10-03T10:06:46.736753-04:00.accessibility.json) |
 | [October 2 at 10:29 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-10-02T22:29:15.645357-04:00.accessibility.json) |
-| [October 2 at 10:13 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-10-02T10:13:26.064138-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 150 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 151 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 7 at 10:16 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-10-07T10:16:14.400410-04:00.lighthouse.json) |
 | [October 6 at 10:47 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-10-06T22:46:53.253636-04:00.lighthouse.json) |
 | [October 6 at 10:14 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-10-06T10:14:33.717423-04:00.lighthouse.json) |
 | [October 5 at 10:35 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-10-05T22:35:33.288426-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 3 at 10:29 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-10-03T22:29:51.119214-04:00.lighthouse.json) |
 | [October 3 at 10:07 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-10-03T10:06:46.736753-04:00.lighthouse.json) |
 | [October 2 at 10:29 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-10-02T22:29:15.645357-04:00.lighthouse.json) |
-| [October 2 at 10:13 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-10-02T10:13:26.064138-04:00.lighthouse.json) |
 
 
 
