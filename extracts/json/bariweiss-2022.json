@@ -1,5 +1,6 @@
 {
-  "created": 1665160272,
+  "conflict": 1665174945,
+  "created": 1665174945,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/27/items/bariweiss-2022",
@@ -14124,31 +14125,93 @@
       "sha1": "a23ac2a908b0e55ddb7cdeff62458fff7bced532"
     },
     {
+      "name": "bariweiss-2022-10-07T13:32:34.703340-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665174759",
+      "size": "14869",
+      "md5": "f3268a34694366a37ab9c818f437e331",
+      "crc32": "2b28347e",
+      "sha1": "005ac9b1ff8c4918e424da9b96350fee2b2bdb12",
+      "format": "JSON"
+    },
+    {
+      "name": "bariweiss-2022-10-07T13:32:34.703340-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665174761",
+      "size": "13947",
+      "md5": "fb53df1388271a149c4b3da10aae8486",
+      "crc32": "ce2ac213",
+      "sha1": "0e61749c7f9b911d9967aa7779fdf9257800d0ee",
+      "format": "JSON"
+    },
+    {
+      "name": "bariweiss-2022-10-07T13:32:34.703340-07:00.jpg",
+      "source": "original",
+      "mtime": "1665174756",
+      "size": "256173",
+      "md5": "4a1153c0f1d1776d20960a9e3f9476d0",
+      "crc32": "d5edde5d",
+      "sha1": "50863e62b4ac0f0631472e3993ab9bc535c639ae",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bariweiss-2022-10-07T13:32:34.703340-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665174763",
+      "size": "1503",
+      "md5": "17d3499974f9da73cde984a4cfc20c64",
+      "crc32": "ff38b6e6",
+      "sha1": "07ffb790efb3abd946237ff6c6053985140afad6",
+      "format": "JSON"
+    },
+    {
+      "name": "bariweiss-2022-10-07T13:32:34.703340-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665174765",
+      "size": "209",
+      "md5": "eeee572bc23a0619894e44d748ad7bee",
+      "crc32": "adbbe7a6",
+      "sha1": "8d3b1fb2b1cb6f29aaa095507671357d07fcb8f6",
+      "format": "JSON"
+    },
+    {
+      "name": "bariweiss-2022-10-07T13:32:34.703340-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bariweiss-2022-10-07T13:32:34.703340-07:00.jpg",
+      "mtime": "1665174861",
+      "size": "8975",
+      "md5": "5152697f5dfc5cfa7c7baa8dcb816d29",
+      "crc32": "2244fa68",
+      "sha1": "6858b9b85f5bd221acb4cca60b41aed3c2f1e999"
+    },
+    {
       "name": "bariweiss-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b023ac1e45c815384e2e662a36bc5e3e0ba3d43e",
-      "mtime": "1665160242",
-      "size": "289005",
-      "md5": "8b502175f7d6e7678f2aa7021a9743eb",
-      "crc32": "fc4071f8",
-      "sha1": "ab74ce984bea9c9137fa582667bb07fbba4313f5",
+      "btih": "282d4050dca615306eb1fcb5d1d34ea3f5be7031",
+      "mtime": "1665174922",
+      "size": "290256",
+      "md5": "c2a836b21fc0229f4b2f2f51eba897d1",
+      "crc32": "26ddc357",
+      "sha1": "d29afaf3e3a94a080d74e7dd1fdbfca1bc0ec6b8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bariweiss-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f23bb67aa12dc3c84b89d6c5977cb5f2",
+      "md5": "1e5eb4133ea5e20c8ab894eb666a4615",
       "summation": "md5"
     },
     {
       "name": "bariweiss-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665160086",
-      "size": "1728512",
-      "md5": "ac7637349089e630ebec2d464462dbf6",
-      "crc32": "1ebdec22",
-      "sha1": "099dcc237013014cecaf8a065e0c8f42d22a9d9e",
+      "mtime": "1665174771",
+      "size": "1736704",
+      "md5": "466f57ce2a834fc54b4bdfb652e4d9a2",
+      "crc32": "1965b0e9",
+      "sha1": "28fe7600b5b642e735909088164339e1094714c9",
       "format": "Metadata"
     },
     {
@@ -14162,9 +14225,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1368,
-  "item_last_updated": 1665160242,
-  "item_size": 75267485,
+  "files_count": 1374,
+  "item_last_updated": 1665174922,
+  "item_size": 75572604,
   "metadata": {
     "identifier": "bariweiss-2022",
     "collection": [
@@ -14181,10 +14244,21 @@
     "publicdate": "2022-07-17 15:03:06",
     "addeddate": "2022-07-17 15:03:06"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 1588753349,
+  "pending_tasks": true,
+  "server": "ia601409.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3432839732,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1325913158,
   "workable_servers": [
-    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

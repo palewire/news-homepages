@@ -1,8 +1,9 @@
 {
-  "created": 1665148172,
-  "d1": "ia601503.us.archive.org",
-  "d2": "ia801503.us.archive.org",
-  "dir": "/19/items/justthenews-2022",
+  "conflict": 1665174907,
+  "created": 1665174907,
+  "d1": "ia601509.us.archive.org",
+  "d2": "ia801509.us.archive.org",
+  "dir": "/9/items/justthenews-2022",
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -10153,10 +10154,21 @@
     "publicdate": "2022-08-13 13:06:27",
     "addeddate": "2022-08-13 13:06:27"
   },
-  "server": "ia801503.us.archive.org",
-  "uniq": 655247097,
+  "pending_tasks": true,
+  "server": "ia601509.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3432837826,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1137031195,
   "workable_servers": [
-    "ia801503.us.archive.org",
-    "ia601503.us.archive.org"
+    "ia601509.us.archive.org"
   ]
 }
