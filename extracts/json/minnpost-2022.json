@@ -1,5 +1,5 @@
 {
-  "created": 1665065691,
+  "created": 1665110639,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/28/items/minnpost-2022",
@@ -16796,31 +16796,93 @@
       "sha1": "119576a254b778b027eb28979484f205eac4b291"
     },
     {
+      "name": "minnpost-2022-10-06T21:42:05.316460-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665110528",
+      "size": "32413",
+      "md5": "e43fd4af1104cded1d077b0d07344dab",
+      "crc32": "5ee57d44",
+      "sha1": "890cdb542f145a91057cb17eae183a084ca2b292",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-06T21:42:05.316460-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665110530",
+      "size": "24164",
+      "md5": "50434fe814be9a34e5fd8c32c02a06ac",
+      "crc32": "027caa7f",
+      "sha1": "514e65dfb39bf269244fb53cee57d2144019b633",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-06T21:42:05.316460-05:00.jpg",
+      "source": "original",
+      "mtime": "1665110526",
+      "size": "313196",
+      "md5": "9e4462b3258602649d86ff46e7da2e82",
+      "crc32": "d311d519",
+      "sha1": "0590b6496a5d5ea320df7205ea2630895f3f6a0d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "minnpost-2022-10-06T21:42:05.316460-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665110532",
+      "size": "1468",
+      "md5": "551b96a2ebc96acca592b10007b14d7b",
+      "crc32": "0923d39f",
+      "sha1": "7f1d975e7632e039b05a6a668fe384d17842b336",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-06T21:42:05.316460-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665110533",
+      "size": "31468",
+      "md5": "d6f180a9074a665e3f013715c1e07c24",
+      "crc32": "d6d3d83a",
+      "sha1": "b6fe9be2e1e742a367e345a644c0b0b8e38fe116",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-06T21:42:05.316460-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "minnpost-2022-10-06T21:42:05.316460-05:00.jpg",
+      "mtime": "1665110611",
+      "size": "9946",
+      "md5": "9590440c6dcdc4205b44d7ea7cb49583",
+      "crc32": "5e6ba004",
+      "sha1": "08e0990fefca53273a544d1672fd6a14ad0ae1f2"
+    },
+    {
       "name": "minnpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7b8597fc56269e8d5374c791bbc1f12aa95ffae0",
-      "mtime": "1665065684",
-      "size": "341209",
-      "md5": "a0c9a1bbd3e6feaddf1920b7c494e5ac",
-      "crc32": "04ace7ef",
-      "sha1": "11837fa0b03e078eedaf23967643a7fa830b54f2",
+      "btih": "e693794407707a95b1f479b26e7efdf3c0a7bd23",
+      "mtime": "1665110632",
+      "size": "342476",
+      "md5": "5c5519d5263964a05caa6335020a41c2",
+      "crc32": "ecfe75a5",
+      "sha1": "006f20e196ccac85030b0fba8706de09a9083709",
       "format": "Archive BitTorrent"
     },
     {
       "name": "minnpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1d16efc9ef364ddceb59886dd7251c05",
+      "md5": "2f2ad59ecd43a59dabd65e6f65183b13",
       "summation": "md5"
     },
     {
       "name": "minnpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665065598",
-      "size": "1957888",
-      "md5": "c4c8c67baeba3eeed952ada0ee7170fb",
-      "crc32": "34b68f64",
-      "sha1": "ffede9d5141c265e7f4435323360f5cc7fcded86",
+      "mtime": "1665110539",
+      "size": "1961984",
+      "md5": "a726157c73961e14d770ef2e08f1e948",
+      "crc32": "c74ba189",
+      "sha1": "04f125d6598a24fd70cd6279256f77525f55faf0",
       "format": "Metadata"
     },
     {
@@ -16834,9 +16896,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1616,
-  "item_last_updated": 1665065684,
-  "item_size": 133630096,
+  "files_count": 1622,
+  "item_last_updated": 1665110632,
+  "item_size": 134048114,
   "metadata": {
     "identifier": "minnpost-2022",
     "collection": [
@@ -16853,10 +16915,10 @@
     "publicdate": "2022-04-01 22:43:20",
     "addeddate": "2022-04-01 22:43:20"
   },
-  "server": "ia902502.us.archive.org",
-  "uniq": 1043513117,
+  "server": "ia802502.us.archive.org",
+  "uniq": 1329462381,
   "workable_servers": [
-    "ia902502.us.archive.org",
-    "ia802502.us.archive.org"
+    "ia802502.us.archive.org",
+    "ia902502.us.archive.org"
   ]
 }

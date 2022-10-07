@@ -1,6 +1,5 @@
 {
-  "conflict": 1665090251,
-  "created": 1665090251,
+  "created": 1665110662,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/8/items/mydesert-2022",
@@ -24235,34 +24234,90 @@
       "name": "mydesert-2022-10-06T14:02:14.988795-07:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "mydesert-2022-10-06T14:02:14.988795-07:00.jpg"
+      "original": "mydesert-2022-10-06T14:02:14.988795-07:00.jpg",
+      "mtime": "1665090248",
+      "size": "9179",
+      "md5": "203b2497675f1b7e40f92b034a94db7b",
+      "crc32": "551d7e79",
+      "sha1": "a22d02da89b9c875f13e9f974d1bc65f9953a7da"
+    },
+    {
+      "name": "mydesert-2022-10-06T19:42:47.073830-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665110569",
+      "size": "20718",
+      "md5": "50fe423819ad0cb1dc46104a58a830da",
+      "crc32": "27ded627",
+      "sha1": "f58870002cc6326221bf7c72a4fbcd13505a9229",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-06T19:42:47.073830-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665110575",
+      "size": "27971",
+      "md5": "686de7bda9ebf6b4f5eb0f68e6332804",
+      "crc32": "3a2cfbb0",
+      "sha1": "649007cd22b4e9e2c273066128f96126ef0d99c1",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-06T19:42:47.073830-07:00.jpg",
+      "source": "original",
+      "mtime": "1665110568",
+      "size": "240674",
+      "md5": "0a26cfb3c797f716bbbf12d2b71918cc",
+      "crc32": "587fcaaa",
+      "sha1": "a92349d0159a8daa97888d52638832a43faf74e7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mydesert-2022-10-06T19:42:47.073830-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665110576",
+      "size": "1486",
+      "md5": "1f000423dd0b42b0fe02cab288bc59e7",
+      "crc32": "a2cd4e24",
+      "sha1": "795dd4ffc57c0aeb70bd477632163b35d48013b8",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-06T19:42:47.073830-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665110578",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
     },
     {
       "name": "mydesert-2022_archive.torrent",
       "source": "metadata",
-      "btih": "068cd00858a130fb818fc7f137a230dc81450115",
-      "mtime": "1665090225",
-      "size": "490923",
-      "md5": "cc95b6cf1e57a201e82fb4a2dc18d2f3",
-      "crc32": "c5e41b40",
-      "sha1": "c81a4fc4eab86f892456bc336523ba85d2f6e15a",
+      "btih": "59006342e5747496b968d5dc509eb0960fa02a56",
+      "mtime": "1665110656",
+      "size": "492168",
+      "md5": "a1b3210af609a4d55da1de9a051d6e73",
+      "crc32": "40cbd4da",
+      "sha1": "640937f89801f4e05c0eac1a75650a87b089b5bc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mydesert-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "782019179140d038242925edd142afbe",
+      "md5": "a6e868cab7884dedecb272a4e406c425",
       "summation": "md5"
     },
     {
       "name": "mydesert-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665090154",
-      "size": "2809856",
-      "md5": "cf31d0eeeb57bbcd112e2a2f9de502f4",
-      "crc32": "3db15fd2",
-      "sha1": "37c2e88bf0b6be8613d0efb9a34dd9571f3ec09e",
+      "mtime": "1665110582",
+      "size": "2813952",
+      "md5": "b979e9924fe3343d89ed80878cd1556b",
+      "crc32": "28552fdc",
+      "sha1": "09de7ff8db1955f5fa19d807bd8424df35885648",
       "format": "Metadata"
     },
     {
@@ -24276,9 +24331,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2330,
-  "item_last_updated": 1665090225,
-  "item_size": 184135901,
+  "files_count": 2335,
+  "item_last_updated": 1665110656,
+  "item_size": 184441472,
   "metadata": {
     "identifier": "mydesert-2022",
     "collection": [
@@ -24300,7 +24355,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3431792283,
+      "task_id": 3432123087,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -24308,7 +24363,7 @@
       "status": "running"
     }
   ],
-  "uniq": 1736519671,
+  "uniq": 1449613799,
   "workable_servers": [
     "ia902508.us.archive.org"
   ]
