@@ -1,5 +1,5 @@
 {
-  "created": 1665101151,
+  "created": 1665144639,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/5/items/florida_bulldog-2022",
@@ -10408,31 +10408,93 @@
       "sha1": "85350982d7498094946b140e8e4850897e977e07"
     },
     {
+      "name": "florida_bulldog-2022-10-07T08:08:23.642297-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665144507",
+      "size": "33916",
+      "md5": "a2251a33b53f11b6d1b13b929fa992d8",
+      "crc32": "ed6cbf51",
+      "sha1": "77fa746e9a4874684222663e4d6bcadf0f20abbd",
+      "format": "JSON"
+    },
+    {
+      "name": "florida_bulldog-2022-10-07T08:08:23.642297-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665144509",
+      "size": "18049",
+      "md5": "e88fba0b3235df2d7d42cef0958decbe",
+      "crc32": "6a33fbc9",
+      "sha1": "c925cce11f021e309c67f0e87adb7ad4310a579a",
+      "format": "JSON"
+    },
+    {
+      "name": "florida_bulldog-2022-10-07T08:08:23.642297-04:00.jpg",
+      "source": "original",
+      "mtime": "1665144505",
+      "size": "245632",
+      "md5": "33972cddadd71d8d17554fb347f29057",
+      "crc32": "53d43981",
+      "sha1": "50dbad6fa8d3737addfaefd3ab425b6d6b2de627",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "florida_bulldog-2022-10-07T08:08:23.642297-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665144510",
+      "size": "1531",
+      "md5": "2d6f373676778c0de58ee3922eb581dc",
+      "crc32": "99fbd677",
+      "sha1": "b1d78cf7d65b6e3aaaf51477abae561b3c45a6bd",
+      "format": "JSON"
+    },
+    {
+      "name": "florida_bulldog-2022-10-07T08:08:23.642297-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665144512",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "florida_bulldog-2022-10-07T08:08:23.642297-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "florida_bulldog-2022-10-07T08:08:23.642297-04:00.jpg",
+      "mtime": "1665144596",
+      "size": "9562",
+      "md5": "10c0029ae89c0bee9eb8aaea60a1662a",
+      "crc32": "d6fc25ed",
+      "sha1": "1a2afe0888122121469f12a42afcb17bb11d8446"
+    },
+    {
       "name": "florida_bulldog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "30bf38184dbf052cceee5c2450b71fd24ec8fb3f",
-      "mtime": "1665101126",
-      "size": "219443",
-      "md5": "ea9a9163f60c33a7be09a70f55b2dfdc",
-      "crc32": "82ea98bd",
-      "sha1": "2cb12c16aef2c2dfbffac75860692b3581280299",
+      "btih": "a460db2c75a042b807322ab129cbef7dad999848",
+      "mtime": "1665144619",
+      "size": "220730",
+      "md5": "b15fc5b9d5cbb3007ffc633dbe59bb6e",
+      "crc32": "4306ef4f",
+      "sha1": "a4c5ffa00915549f3d25f17ed353de0928474a8d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "florida_bulldog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2951caebdd966968eb179dba1c2fabbf",
+      "md5": "8c5e4a2413b4ec15c3a421b151b751b1",
       "summation": "md5"
     },
     {
       "name": "florida_bulldog-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665101037",
-      "size": "1282048",
-      "md5": "a10668be47e3de56ee43bd3a9d88034d",
-      "crc32": "af4e6757",
-      "sha1": "d685a3d0dd612733ebc6cb44bb05488bb50f7153",
+      "mtime": "1665144517",
+      "size": "1290240",
+      "md5": "9d5aaf96532c072ea15e7018439c1aa5",
+      "crc32": "d5f255dd",
+      "sha1": "a028e3dd3e2d76afb84f73ce99de7bfdc33e27c9",
       "format": "Metadata"
     },
     {
@@ -10446,9 +10508,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1008,
-  "item_last_updated": 1665101126,
-  "item_size": 62715639,
+  "files_count": 1014,
+  "item_last_updated": 1665144619,
+  "item_size": 63034010,
   "metadata": {
     "identifier": "florida_bulldog-2022",
     "collection": [
@@ -10465,10 +10527,10 @@
     "publicdate": "2022-07-09 03:59:15",
     "addeddate": "2022-07-09 03:59:15"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 1631457712,
+  "server": "ia601408.us.archive.org",
+  "uniq": 812799597,
   "workable_servers": [
-    "ia801408.us.archive.org",
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }
