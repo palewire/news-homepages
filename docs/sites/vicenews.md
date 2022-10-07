@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 243 screenshots with the Internet Archive.
+The archiving routine has saved 245 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/vicenews-2022/vicenews-2022-10-07T00:38:58.104595-04:00.jpg">
+  <img src="https://archive.org/download/vicenews-2022/vicenews-2022-10-07T00:38:58.104595-04:00.jpg"
+     alt="Vice News at 2022-10-07 00:39:00-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-10-07T00:38:58.104595-04:00.jpg">October 7 at 12:39 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vicenews-2022/vicenews-2022-10-06T12:05:09.337995-04:00.jpg">
+  <img src="https://archive.org/download/vicenews-2022/vicenews-2022-10-06T12:05:09.337995-04:00.jpg"
+     alt="Vice News at 2022-10-06 12:05:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-10-06T12:05:09.337995-04:00.jpg">October 6 at 12:05 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/vicenews-2022/vicenews-2022-10-06T00:24:49.797884-04:00.jpg">
   <img src="https://archive.org/download/vicenews-2022/vicenews-2022-10-06T00:24:49.797884-04:00.jpg"
      alt="Vice News at 2022-10-06 00:24:58-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-10-01T12:14:35.736903-04:00.jpg">October 1 at 12:14 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/vicenews-2022/vicenews-2022-10-01T00:42:43.288660-04:00.jpg">
-  <img src="https://archive.org/download/vicenews-2022/vicenews-2022-10-01T00:42:43.288660-04:00.jpg"
-     alt="Vice News at 2022-10-01 00:42:48-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-10-01T00:42:43.288660-04:00.jpg">October 1 at 12:42 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/vicenews-2022/vicenews-2022-09-30T12:39:20.365489-04:00.jpg">
-  <img src="https://archive.org/download/vicenews-2022/vicenews-2022-09-30T12:39:20.365489-04:00.jpg"
-     alt="Vice News at 2022-09-30 12:39:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-09-30T12:39:20.365489-04:00.jpg">September 30 at 12:39 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 245 hyperlink lists with the Internet Archive.
+The archiving routine has saved 247 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 7 at 12:39 AM](https://archive.org/download/vicenews-2022/vicenews-2022-10-07T00:38:58.104595-04:00.hyperlinks.json) |
+| [October 6 at 12:05 PM](https://archive.org/download/vicenews-2022/vicenews-2022-10-06T12:05:09.337995-04:00.hyperlinks.json) |
 | [October 6 at 12:25 AM](https://archive.org/download/vicenews-2022/vicenews-2022-10-06T00:24:49.797884-04:00.hyperlinks.json) |
 | [October 5 at 12:45 PM](https://archive.org/download/vicenews-2022/vicenews-2022-10-05T12:45:48.650507-04:00.hyperlinks.json) |
 | [October 5 at 12:22 AM](https://archive.org/download/vicenews-2022/vicenews-2022-10-05T00:22:28.075910-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 3 at 12:14 PM](https://archive.org/download/vicenews-2022/vicenews-2022-10-03T12:14:35.609457-04:00.hyperlinks.json) |
 | [October 3 at 1:04 AM](https://archive.org/download/vicenews-2022/vicenews-2022-10-03T01:04:51.774014-04:00.hyperlinks.json) |
 | [October 2 at 12:04 PM](https://archive.org/download/vicenews-2022/vicenews-2022-10-02T12:03:46.286555-04:00.hyperlinks.json) |
-| [October 2 at 1:52 AM](https://archive.org/download/vicenews-2022/vicenews-2022-10-02T01:51:54.262654-04:00.hyperlinks.json) |
-| [October 1 at 12:14 PM](https://archive.org/download/vicenews-2022/vicenews-2022-10-01T12:14:35.736903-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 245 accessibility trees with the Internet Archive.
+The archiving routine has saved 247 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 7 at 12:39 AM](https://archive.org/download/vicenews-2022/vicenews-2022-10-07T00:38:58.104595-04:00.accessibility.json) |
+| [October 6 at 12:05 PM](https://archive.org/download/vicenews-2022/vicenews-2022-10-06T12:05:09.337995-04:00.accessibility.json) |
 | [October 6 at 12:24 AM](https://archive.org/download/vicenews-2022/vicenews-2022-10-06T00:24:49.797884-04:00.accessibility.json) |
 | [October 5 at 12:45 PM](https://archive.org/download/vicenews-2022/vicenews-2022-10-05T12:45:48.650507-04:00.accessibility.json) |
 | [October 5 at 12:22 AM](https://archive.org/download/vicenews-2022/vicenews-2022-10-05T00:22:28.075910-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 3 at 12:14 PM](https://archive.org/download/vicenews-2022/vicenews-2022-10-03T12:14:35.609457-04:00.accessibility.json) |
 | [October 3 at 1:04 AM](https://archive.org/download/vicenews-2022/vicenews-2022-10-03T01:04:51.774014-04:00.accessibility.json) |
 | [October 2 at 12:04 PM](https://archive.org/download/vicenews-2022/vicenews-2022-10-02T12:03:46.286555-04:00.accessibility.json) |
-| [October 2 at 1:52 AM](https://archive.org/download/vicenews-2022/vicenews-2022-10-02T01:51:54.262654-04:00.accessibility.json) |
-| [October 1 at 12:14 PM](https://archive.org/download/vicenews-2022/vicenews-2022-10-01T12:14:35.736903-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 150 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 152 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 7 at 12:39 AM](https://archive.org/download/vicenews-2022/vicenews-2022-10-07T00:38:58.104595-04:00.lighthouse.json) |
+| [October 6 at 12:05 PM](https://archive.org/download/vicenews-2022/vicenews-2022-10-06T12:05:09.337995-04:00.lighthouse.json) |
 | [October 6 at 12:25 AM](https://archive.org/download/vicenews-2022/vicenews-2022-10-06T00:24:49.797884-04:00.lighthouse.json) |
 | [October 5 at 12:45 PM](https://archive.org/download/vicenews-2022/vicenews-2022-10-05T12:45:48.650507-04:00.lighthouse.json) |
 | [October 5 at 12:22 AM](https://archive.org/download/vicenews-2022/vicenews-2022-10-05T00:22:28.075910-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 3 at 12:14 PM](https://archive.org/download/vicenews-2022/vicenews-2022-10-03T12:14:35.609457-04:00.lighthouse.json) |
 | [October 3 at 1:04 AM](https://archive.org/download/vicenews-2022/vicenews-2022-10-03T01:04:51.774014-04:00.lighthouse.json) |
 | [October 2 at 12:04 PM](https://archive.org/download/vicenews-2022/vicenews-2022-10-02T12:03:46.286555-04:00.lighthouse.json) |
-| [October 2 at 1:52 AM](https://archive.org/download/vicenews-2022/vicenews-2022-10-02T01:51:54.262654-04:00.lighthouse.json) |
-| [October 1 at 12:14 PM](https://archive.org/download/vicenews-2022/vicenews-2022-10-01T12:14:35.736903-04:00.lighthouse.json) |
 
 
 

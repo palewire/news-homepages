@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 46 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stamadvocate-2022/stamadvocate-2022-10-07T00:24:39.818008-04:00.jpg">
+  <img src="https://archive.org/download/stamadvocate-2022/stamadvocate-2022-10-07T00:24:39.818008-04:00.jpg"
+     alt="Stamford Advocate at 2022-10-07 00:24:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stamadvocate-2022/stamadvocate-2022-10-07T00:24:39.818008-04:00.jpg">October 7 at 12:24 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stamadvocate-2022/stamadvocate-2022-10-06T11:04:54.818738-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/stamadvocate-2022/stamadvocate-2022-10-01T11:01:53.194076-04:00.jpg">October 1 at 11:01 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/stamadvocate-2022/stamadvocate-2022-09-30T23:48:17.724941-04:00.jpg">
-  <img src="https://archive.org/download/stamadvocate-2022/stamadvocate-2022-09-30T23:48:17.724941-04:00.jpg"
-     alt="Stamford Advocate at 2022-09-30 23:48:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/stamadvocate-2022/stamadvocate-2022-09-30T23:48:17.724941-04:00.jpg">September 30 at 11:48 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 46 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 7 at 12:24 AM](https://archive.org/download/stamadvocate-2022/stamadvocate-2022-10-07T00:24:39.818008-04:00.hyperlinks.json) |
 | [October 6 at 11:05 AM](https://archive.org/download/stamadvocate-2022/stamadvocate-2022-10-06T11:04:54.818738-04:00.hyperlinks.json) |
 | [October 6 at 12:14 AM](https://archive.org/download/stamadvocate-2022/stamadvocate-2022-10-06T00:14:27.954296-04:00.hyperlinks.json) |
 | [October 5 at 11:24 AM](https://archive.org/download/stamadvocate-2022/stamadvocate-2022-10-05T11:24:20.273822-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 3 at 11:07 AM](https://archive.org/download/stamadvocate-2022/stamadvocate-2022-10-03T11:07:50.107963-04:00.hyperlinks.json) |
 | [October 2 at 11:36 PM](https://archive.org/download/stamadvocate-2022/stamadvocate-2022-10-02T23:36:21.329327-04:00.hyperlinks.json) |
 | [October 2 at 11:05 AM](https://archive.org/download/stamadvocate-2022/stamadvocate-2022-10-02T11:05:32.852617-04:00.hyperlinks.json) |
-| [October 1 at 11:42 PM](https://archive.org/download/stamadvocate-2022/stamadvocate-2022-10-01T23:42:22.625452-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 45 accessibility trees with the Internet Archive.
+The archiving routine has saved 46 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 7 at 12:24 AM](https://archive.org/download/stamadvocate-2022/stamadvocate-2022-10-07T00:24:39.818008-04:00.accessibility.json) |
 | [October 6 at 11:05 AM](https://archive.org/download/stamadvocate-2022/stamadvocate-2022-10-06T11:04:54.818738-04:00.accessibility.json) |
 | [October 6 at 12:14 AM](https://archive.org/download/stamadvocate-2022/stamadvocate-2022-10-06T00:14:27.954296-04:00.accessibility.json) |
 | [October 5 at 11:24 AM](https://archive.org/download/stamadvocate-2022/stamadvocate-2022-10-05T11:24:20.273822-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 3 at 11:07 AM](https://archive.org/download/stamadvocate-2022/stamadvocate-2022-10-03T11:07:50.107963-04:00.accessibility.json) |
 | [October 2 at 11:36 PM](https://archive.org/download/stamadvocate-2022/stamadvocate-2022-10-02T23:36:21.329327-04:00.accessibility.json) |
 | [October 2 at 11:05 AM](https://archive.org/download/stamadvocate-2022/stamadvocate-2022-10-02T11:05:32.852617-04:00.accessibility.json) |
-| [October 1 at 11:42 PM](https://archive.org/download/stamadvocate-2022/stamadvocate-2022-10-01T23:42:22.625452-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 7 at 12:24 AM](https://archive.org/download/stamadvocate-2022/stamadvocate-2022-10-07T00:24:39.818008-04:00.lighthouse.json) |
 | [October 6 at 11:05 AM](https://archive.org/download/stamadvocate-2022/stamadvocate-2022-10-06T11:04:54.818738-04:00.lighthouse.json) |
 | [October 6 at 12:14 AM](https://archive.org/download/stamadvocate-2022/stamadvocate-2022-10-06T00:14:27.954296-04:00.lighthouse.json) |
 | [October 5 at 11:24 AM](https://archive.org/download/stamadvocate-2022/stamadvocate-2022-10-05T11:24:20.273822-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 3 at 11:08 AM](https://archive.org/download/stamadvocate-2022/stamadvocate-2022-10-03T11:07:50.107963-04:00.lighthouse.json) |
 | [October 2 at 11:36 PM](https://archive.org/download/stamadvocate-2022/stamadvocate-2022-10-02T23:36:21.329327-04:00.lighthouse.json) |
 | [October 2 at 11:05 AM](https://archive.org/download/stamadvocate-2022/stamadvocate-2022-10-02T11:05:32.852617-04:00.lighthouse.json) |
-| [October 1 at 11:42 PM](https://archive.org/download/stamadvocate-2022/stamadvocate-2022-10-01T23:42:22.625452-04:00.lighthouse.json) |
 
 
 

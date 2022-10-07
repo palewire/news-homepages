@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 147 screenshots with the Internet Archive.
+The archiving routine has saved 149 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-07T10:17:41.639749+05:45.jpg">
+  <img src="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-07T10:17:41.639749+05:45.jpg"
+     alt="Artha Sarokar at 2022-10-07 10:17:43+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-07T10:17:41.639749+05:45.jpg">October 7 at 10:17 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-06T21:46:32.599031+05:45.jpg">
+  <img src="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-06T21:46:32.599031+05:45.jpg"
+     alt="Artha Sarokar at 2022-10-06 21:46:38+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-06T21:46:32.599031+05:45.jpg">October 6 at 9:46 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-06T10:07:37.086936+05:45.jpg">
   <img src="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-06T10:07:37.086936+05:45.jpg"
      alt="Artha Sarokar at 2022-10-06 10:07:41+05:45 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-01T21:49:45.584767+05:45.jpg">October 1 at 9:50 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-01T10:24:52.282809+05:45.jpg">
-  <img src="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-01T10:24:52.282809+05:45.jpg"
-     alt="Artha Sarokar at 2022-10-01 10:24:54+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-01T10:24:52.282809+05:45.jpg">October 1 at 10:24 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-09-30T22:18:16.070889+05:45.jpg">
-  <img src="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-09-30T22:18:16.070889+05:45.jpg"
-     alt="Artha Sarokar at 2022-09-30 22:18:17+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/arthasarokar-2022/arthasarokar-2022-09-30T22:18:16.070889+05:45.jpg">September 30 at 10:18 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 149 hyperlink lists with the Internet Archive.
+The archiving routine has saved 151 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 7 at 10:17 AM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-07T10:17:41.639749+05:45.hyperlinks.json) |
+| [October 6 at 9:46 PM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-06T21:46:32.599031+05:45.hyperlinks.json) |
 | [October 6 at 10:07 AM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-06T10:07:37.086936+05:45.hyperlinks.json) |
 | [October 5 at 10:18 PM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-05T22:18:33.527550+05:45.hyperlinks.json) |
 | [October 5 at 10:01 AM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-05T10:01:22.487295+05:45.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 3 at 9:57 PM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-03T21:56:57.149491+05:45.hyperlinks.json) |
 | [October 3 at 10:46 AM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-03T10:46:26.557847+05:45.hyperlinks.json) |
 | [October 2 at 9:46 PM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-02T21:46:23.478973+05:45.hyperlinks.json) |
-| [October 2 at 11:31 AM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-02T11:31:18.388693+05:45.hyperlinks.json) |
-| [October 1 at 9:50 PM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-01T21:49:45.584767+05:45.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 149 accessibility trees with the Internet Archive.
+The archiving routine has saved 151 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 7 at 10:17 AM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-07T10:17:41.639749+05:45.accessibility.json) |
+| [October 6 at 9:46 PM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-06T21:46:32.599031+05:45.accessibility.json) |
 | [October 6 at 10:07 AM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-06T10:07:37.086936+05:45.accessibility.json) |
 | [October 5 at 10:18 PM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-05T22:18:33.527550+05:45.accessibility.json) |
 | [October 5 at 10:01 AM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-05T10:01:22.487295+05:45.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 3 at 9:57 PM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-03T21:56:57.149491+05:45.accessibility.json) |
 | [October 3 at 10:46 AM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-03T10:46:26.557847+05:45.accessibility.json) |
 | [October 2 at 9:46 PM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-02T21:46:23.478973+05:45.accessibility.json) |
-| [October 2 at 11:31 AM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-02T11:31:18.388693+05:45.accessibility.json) |
-| [October 1 at 9:50 PM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-01T21:49:45.584767+05:45.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 149 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 151 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 7 at 10:17 AM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-07T10:17:41.639749+05:45.lighthouse.json) |
+| [October 6 at 9:46 PM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-06T21:46:32.599031+05:45.lighthouse.json) |
 | [October 6 at 10:07 AM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-06T10:07:37.086936+05:45.lighthouse.json) |
 | [October 5 at 10:18 PM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-05T22:18:33.527550+05:45.lighthouse.json) |
 | [October 5 at 10:01 AM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-05T10:01:22.487295+05:45.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 3 at 9:57 PM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-03T21:56:57.149491+05:45.lighthouse.json) |
 | [October 3 at 10:46 AM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-03T10:46:26.557847+05:45.lighthouse.json) |
 | [October 2 at 9:46 PM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-02T21:46:23.478973+05:45.lighthouse.json) |
-| [October 2 at 11:31 AM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-02T11:31:18.388693+05:45.lighthouse.json) |
-| [October 1 at 9:50 PM](https://archive.org/download/arthasarokar-2022/arthasarokar-2022-10-01T21:49:45.584767+05:45.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 31 screenshots with the Internet Archive.
+The archiving routine has saved 33 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-07T00:37:17.627622-04:00.jpg">
+  <img src="https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-07T00:37:17.627622-04:00.jpg"
+     alt="Cape Cod Times at 2022-10-07 00:37:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-07T00:37:17.627622-04:00.jpg">October 7 at 12:37 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-06T12:02:17.697226-04:00.jpg">
+  <img src="https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-06T12:02:17.697226-04:00.jpg"
+     alt="Cape Cod Times at 2022-10-06 12:02:20-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-06T12:02:17.697226-04:00.jpg">October 6 at 12:02 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-06T00:24:06.310127-04:00.jpg">
   <img src="https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-06T00:24:06.310127-04:00.jpg"
      alt="Cape Cod Times at 2022-10-06 00:24:09-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-01T12:09:24.824510-04:00.jpg">October 1 at 12:09 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-01T00:42:07.908929-04:00.jpg">
-  <img src="https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-01T00:42:07.908929-04:00.jpg"
-     alt="Cape Cod Times at 2022-10-01 00:42:09-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-01T00:42:07.908929-04:00.jpg">October 1 at 12:42 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/capecodtimes-2022/capecodtimes-2022-09-30T12:31:52.366335-04:00.jpg">
-  <img src="https://archive.org/download/capecodtimes-2022/capecodtimes-2022-09-30T12:31:52.366335-04:00.jpg"
-     alt="Cape Cod Times at 2022-09-30 12:31:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/capecodtimes-2022/capecodtimes-2022-09-30T12:31:52.366335-04:00.jpg">September 30 at 12:31 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 31 hyperlink lists with the Internet Archive.
+The archiving routine has saved 33 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 7 at 12:37 AM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-07T00:37:17.627622-04:00.hyperlinks.json) |
+| [October 6 at 12:02 PM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-06T12:02:17.697226-04:00.hyperlinks.json) |
 | [October 6 at 12:24 AM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-06T00:24:06.310127-04:00.hyperlinks.json) |
 | [October 5 at 12:38 PM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-05T12:38:42.133995-04:00.hyperlinks.json) |
 | [October 5 at 12:18 AM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-05T00:18:26.425661-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 3 at 12:13 PM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-03T12:13:33.915829-04:00.hyperlinks.json) |
 | [October 3 at 1:02 AM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-03T01:01:56.685734-04:00.hyperlinks.json) |
 | [October 2 at 12:03 PM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-02T12:03:45.207178-04:00.hyperlinks.json) |
-| [October 2 at 1:49 AM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-02T01:49:17.340426-04:00.hyperlinks.json) |
-| [October 1 at 12:09 PM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-01T12:09:24.824510-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 31 accessibility trees with the Internet Archive.
+The archiving routine has saved 33 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 7 at 12:37 AM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-07T00:37:17.627622-04:00.accessibility.json) |
+| [October 6 at 12:02 PM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-06T12:02:17.697226-04:00.accessibility.json) |
 | [October 6 at 12:24 AM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-06T00:24:06.310127-04:00.accessibility.json) |
 | [October 5 at 12:38 PM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-05T12:38:42.133995-04:00.accessibility.json) |
 | [October 5 at 12:18 AM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-05T00:18:26.425661-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 3 at 12:13 PM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-03T12:13:33.915829-04:00.accessibility.json) |
 | [October 3 at 1:02 AM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-03T01:01:56.685734-04:00.accessibility.json) |
 | [October 2 at 12:03 PM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-02T12:03:45.207178-04:00.accessibility.json) |
-| [October 2 at 1:49 AM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-02T01:49:17.340426-04:00.accessibility.json) |
-| [October 1 at 12:09 PM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-01T12:09:24.824510-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 7 at 12:37 AM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-07T00:37:17.627622-04:00.lighthouse.json) |
+| [October 6 at 12:02 PM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-06T12:02:17.697226-04:00.lighthouse.json) |
 | [October 6 at 12:24 AM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-06T00:24:06.310127-04:00.lighthouse.json) |
 | [October 5 at 12:38 PM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-05T12:38:42.133995-04:00.lighthouse.json) |
 | [October 5 at 12:18 AM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-05T00:18:26.425661-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 3 at 12:13 PM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-03T12:13:33.915829-04:00.lighthouse.json) |
 | [October 3 at 1:02 AM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-03T01:01:56.685734-04:00.lighthouse.json) |
 | [October 2 at 12:03 PM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-02T12:03:45.207178-04:00.lighthouse.json) |
-| [October 2 at 1:49 AM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-02T01:49:17.340426-04:00.lighthouse.json) |
-| [October 1 at 12:09 PM](https://archive.org/download/capecodtimes-2022/capecodtimes-2022-10-01T12:09:24.824510-04:00.lighthouse.json) |
 
 
 
