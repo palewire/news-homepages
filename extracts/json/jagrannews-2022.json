@@ -1,5 +1,5 @@
 {
-  "created": 1665106693,
+  "created": 1665148129,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/27/items/jagrannews-2022",
@@ -8900,31 +8900,93 @@
       "sha1": "963fea04b7a1c20fe2256f950e82074b8b3e09b7"
     },
     {
+      "name": "jagrannews-2022-10-07T18:37:24.700201+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1665148049",
+      "size": "141767",
+      "md5": "f2fb7fd543ff7a07b1d8bb958d0702e3",
+      "crc32": "af342705",
+      "sha1": "4956dad119101d787e351cd12fb89b4defc61471",
+      "format": "JSON"
+    },
+    {
+      "name": "jagrannews-2022-10-07T18:37:24.700201+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665148051",
+      "size": "130798",
+      "md5": "9799359a5a8241caefb5af5d9063fb24",
+      "crc32": "35b37a30",
+      "sha1": "1a0e6863aec457e329ff5b1d3df5ce5a4ee835f5",
+      "format": "JSON"
+    },
+    {
+      "name": "jagrannews-2022-10-07T18:37:24.700201+05:30.jpg",
+      "source": "original",
+      "mtime": "1665148047",
+      "size": "262920",
+      "md5": "f330f70eb27914c035862232b5368821",
+      "crc32": "6b59516a",
+      "sha1": "5227f388dd4d74940ceae86712121a303634850c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jagrannews-2022-10-07T18:37:24.700201+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1665148053",
+      "size": "1456",
+      "md5": "5ad00541edbaf670080586a778dbf607",
+      "crc32": "d2ececd9",
+      "sha1": "734074fac8ccfbed3741853c3e2ca2718b7b9979",
+      "format": "JSON"
+    },
+    {
+      "name": "jagrannews-2022-10-07T18:37:24.700201+05:30.wayback.json",
+      "source": "original",
+      "mtime": "1665148054",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "jagrannews-2022-10-07T18:37:24.700201+05:30_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jagrannews-2022-10-07T18:37:24.700201+05:30.jpg",
+      "mtime": "1665148113",
+      "size": "8506",
+      "md5": "93678fe79fe6de35b2bce031ef551d83",
+      "crc32": "92bfdef0",
+      "sha1": "faba51ef7bd431a98b684968e96eb638c6f3e9b4"
+    },
+    {
       "name": "jagrannews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "166ec9134f44dbf718225d42eae0345c0cb7cf71",
-      "mtime": "1665106683",
-      "size": "185406",
-      "md5": "2f49735a77657954b9e7d4d1206a6726",
-      "crc32": "eca0ecb3",
-      "sha1": "3c72c52550fb48a035fcdeb1341cb938a555a8c4",
+      "btih": "5c67db51b8d55c7ba6f6fff1c289975d49abcadf",
+      "mtime": "1665148121",
+      "size": "186685",
+      "md5": "a1b2745b5c0fae26126571d63a5b0a4c",
+      "crc32": "1ceb9f66",
+      "sha1": "c1e8a0efd30ad6709d1580aff04e1b040b710b10",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jagrannews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e671cfd0b13cf20d8766d1cf576b0f7a",
+      "md5": "cc14d195bf2c63b70726c95824034b0d",
       "summation": "md5"
     },
     {
       "name": "jagrannews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665106603",
-      "size": "1105920",
-      "md5": "25f06d122fa3c48e91a1a9c7ef36a4cf",
-      "crc32": "4d249a03",
-      "sha1": "b6f14e559b4679d0c55473ddd38ae5ee93c8c173",
+      "mtime": "1665148060",
+      "size": "1110016",
+      "md5": "8b432d02904ee09938e4fc3d7617c033",
+      "crc32": "f896f592",
+      "sha1": "ba359764b5a678cf1c997de09e392dbb8e4f846b",
       "format": "Metadata"
     },
     {
@@ -8938,9 +9000,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 864,
-  "item_last_updated": 1665106683,
-  "item_size": 87054537,
+  "files_count": 870,
+  "item_last_updated": 1665148121,
+  "item_size": 87605561,
   "metadata": {
     "identifier": "jagrannews-2022",
     "collection": [
@@ -8957,10 +9019,10 @@
     "publicdate": "2022-07-27 17:18:37",
     "addeddate": "2022-07-27 17:18:37"
   },
-  "server": "ia902503.us.archive.org",
-  "uniq": 1631719816,
+  "server": "ia802503.us.archive.org",
+  "uniq": 1094305434,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia802503.us.archive.org",
+    "ia902503.us.archive.org"
   ]
 }
