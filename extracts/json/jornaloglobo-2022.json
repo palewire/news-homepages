@@ -1,5 +1,5 @@
 {
-  "created": 1665078273,
+  "created": 1665128752,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/0/items/jornaloglobo-2022",
@@ -11336,31 +11336,93 @@
       "sha1": "bff7ab4033bac93720c7d102541ff7a462488945"
     },
     {
+      "name": "jornaloglobo-2022-10-07T03:17:22.515916-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665123446",
+      "size": "41242",
+      "md5": "ab5a21970bfd99571341f96e021eeb05",
+      "crc32": "60107b67",
+      "sha1": "1ee5f284ec9207ef1594393184723dc0c408bfe9",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-10-07T03:17:22.515916-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665123447",
+      "size": "45350",
+      "md5": "9fe8cf0564470b3d90debf5cf68917d5",
+      "crc32": "1caa1ed2",
+      "sha1": "c1724d03ea3756948240a4ce252d731654b926c5",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-10-07T03:17:22.515916-03:00.jpg",
+      "source": "original",
+      "mtime": "1665123444",
+      "size": "187050",
+      "md5": "ba0fec8d7047f58ea9f6cbc5b52fcbcb",
+      "crc32": "016a50d2",
+      "sha1": "141592e27b64397b23d0add692651d32a1a91f00",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jornaloglobo-2022-10-07T03:17:22.515916-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665123449",
+      "size": "1474",
+      "md5": "36e37354ff8612a86a801b1e074ca6b1",
+      "crc32": "102b123b",
+      "sha1": "b478881566e71b382d22a479bb62aa00a0d34e0a",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-10-07T03:17:22.515916-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665123452",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-10-07T03:17:22.515916-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jornaloglobo-2022-10-07T03:17:22.515916-03:00.jpg",
+      "mtime": "1665123519",
+      "size": "8940",
+      "md5": "6fe5a48571a53bf0a55ce0a40ceadf2b",
+      "crc32": "502308ea",
+      "sha1": "b57a21b582bb192f0cba7e1e68e10be8225086c2"
+    },
+    {
       "name": "jornaloglobo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "98eb85fc0c97d3aeb74b11274f238736fe3ff648",
-      "mtime": "1665078265",
-      "size": "237155",
-      "md5": "fc984846906f9174b3b4204b766a2621",
-      "crc32": "11e5a781",
-      "sha1": "453e09a228c359aa7af0926a17b30d405eb4ec6d",
+      "btih": "253908fc7a047a77e20a825c8052c7803aff0625",
+      "mtime": "1665123531",
+      "size": "238444",
+      "md5": "a78f1e5e26cbce8541a8695274e4d7ae",
+      "crc32": "b16f1690",
+      "sha1": "67eaca12a9e02b6d7dd0fb4d3551c160c8c4b871",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jornaloglobo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c986b06802f916d42f44f12ad64e1cab",
+      "md5": "a530e3b7059d2ca37f553eb26959224a",
       "summation": "md5"
     },
     {
       "name": "jornaloglobo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665078193",
-      "size": "1413120",
-      "md5": "177e2ad70335a17e508e9c4ed2da1ba1",
-      "crc32": "d5952668",
-      "sha1": "1ae94e5aafa4636dde0776c514e05d5c2af86aa4",
+      "mtime": "1665123461",
+      "size": "1417216",
+      "md5": "0de9dd96bc56a40a48d23475d1b6eca6",
+      "crc32": "8506fd87",
+      "sha1": "b0994a809c6ac2736b5977a55cd6701303f4c716",
       "format": "Metadata"
     },
     {
@@ -11374,9 +11436,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1100,
-  "item_last_updated": 1665078265,
-  "item_size": 91433990,
+  "files_count": 1106,
+  "item_last_updated": 1665123531,
+  "item_size": 91723633,
+  "jornaloglobo-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "jornaloglobo-2022",
     "collection": [
@@ -11394,7 +11461,7 @@
     "addeddate": "2022-08-02 14:55:56"
   },
   "server": "ia802509.us.archive.org",
-  "uniq": 945111014,
+  "uniq": 1270850190,
   "workable_servers": [
     "ia802509.us.archive.org",
     "ia902509.us.archive.org"
