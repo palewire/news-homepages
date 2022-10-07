@@ -1,5 +1,5 @@
 {
-  "created": 1665013756,
+  "created": 1665100919,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/21/items/delawaretoday-2022",
@@ -2796,31 +2796,155 @@
       "sha1": "7124d7a007dc3931ee5a9d0999bfd78a907f863b"
     },
     {
+      "name": "delawaretoday-2022-10-06T16:55:27.053668-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665089731",
+      "size": "24087",
+      "md5": "0c07239630f9b211faba572b13d5af45",
+      "crc32": "eabbeb7d",
+      "sha1": "076c84a74d5783a29057af2cb3972b950f8b2676",
+      "format": "JSON"
+    },
+    {
+      "name": "delawaretoday-2022-10-06T16:55:27.053668-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665089732",
+      "size": "25276",
+      "md5": "e7e47aeaa7f2dc49a05cbee5e65458c2",
+      "crc32": "54de5209",
+      "sha1": "b2f9398e9c1c474225618e78e1bda658a17501e2",
+      "format": "JSON"
+    },
+    {
+      "name": "delawaretoday-2022-10-06T16:55:27.053668-04:00.jpg",
+      "source": "original",
+      "mtime": "1665089729",
+      "size": "304762",
+      "md5": "4d23725b4f3755ed95ef175097c32303",
+      "crc32": "c6a4970b",
+      "sha1": "f981093d619ef27df9e76660b1044e8281da7a2b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "delawaretoday-2022-10-06T16:55:27.053668-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665089733",
+      "size": "1486",
+      "md5": "8ed6266535d51acbcb99a7302bf62c15",
+      "crc32": "153778ec",
+      "sha1": "251976e3e973c4a664037a8473ecc6e325294cbb",
+      "format": "JSON"
+    },
+    {
+      "name": "delawaretoday-2022-10-06T16:55:27.053668-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665089735",
+      "size": "206",
+      "md5": "bbdf2389176b0b5d56d6278eb6f8db25",
+      "crc32": "7e29654d",
+      "sha1": "d3984a22d420c30dac12e300e687134519833535",
+      "format": "JSON"
+    },
+    {
+      "name": "delawaretoday-2022-10-06T16:55:27.053668-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "delawaretoday-2022-10-06T16:55:27.053668-04:00.jpg",
+      "mtime": "1665089798",
+      "size": "10221",
+      "md5": "66b1ec64db60c8034b6088e72fab73b1",
+      "crc32": "a48f739a",
+      "sha1": "e0eaccf3f3795bfb8147f242c139ee967f769966"
+    },
+    {
+      "name": "delawaretoday-2022-10-06T20:00:14.481836-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665100818",
+      "size": "24423",
+      "md5": "a36512ceeafc4e07c0815ec5a915b201",
+      "crc32": "f0abc5f6",
+      "sha1": "5e94c4f69c5c4042706710a925f98e133d4dedd6",
+      "format": "JSON"
+    },
+    {
+      "name": "delawaretoday-2022-10-06T20:00:14.481836-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665100820",
+      "size": "25183",
+      "md5": "8a04f2ebee63aa5b56d16e67f479becc",
+      "crc32": "adf0ab9c",
+      "sha1": "f3cb8f5c1bca702ca8e151bef02a270daae525c6",
+      "format": "JSON"
+    },
+    {
+      "name": "delawaretoday-2022-10-06T20:00:14.481836-04:00.jpg",
+      "source": "original",
+      "mtime": "1665100816",
+      "size": "304769",
+      "md5": "cb1b1708882e747c3a86ffed12de1f2e",
+      "crc32": "f941f3be",
+      "sha1": "41365d8c17dd730263fb7ed31db6cfebeb8c0d0e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "delawaretoday-2022-10-06T20:00:14.481836-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665100821",
+      "size": "1486",
+      "md5": "5286fb6f6466eb3b29fa8a14c81e539c",
+      "crc32": "1a676e50",
+      "sha1": "0486ffec2e5e9d0f77e8b7823d23f8522a1d6121",
+      "format": "JSON"
+    },
+    {
+      "name": "delawaretoday-2022-10-06T20:00:14.481836-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665100823",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "delawaretoday-2022-10-06T20:00:14.481836-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "delawaretoday-2022-10-06T20:00:14.481836-04:00.jpg",
+      "mtime": "1665100895",
+      "size": "10222",
+      "md5": "8a8fc096c44d49e3d36a7a35e016678b",
+      "crc32": "5d285be8",
+      "sha1": "1b5edcfdca37629ad7c60d8b377f077fb17abca8"
+    },
+    {
       "name": "delawaretoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "175267738da34882b3a917e4952945f8acbddbb5",
-      "mtime": "1665013747",
-      "size": "59473",
-      "md5": "80ad26c6d728dc7ba1ca236edcf94e84",
-      "crc32": "4b3cc193",
-      "sha1": "fa0ed37e18611d5a306365205edf90bb8def0288",
+      "btih": "fa0099fbffe9257789bc49e92f440a6164e682d5",
+      "mtime": "1665100906",
+      "size": "62065",
+      "md5": "ad2304233d90b8a47f7d609cedd9abe6",
+      "crc32": "00fa0a04",
+      "sha1": "4ef5e2d09c3d44ab77aedc6a74aa101c55aca683",
       "format": "Archive BitTorrent"
     },
     {
       "name": "delawaretoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "155de72be90b61eb0d5c501cbc60a927",
+      "md5": "dbc5d301f14bd75f2d6fa7b9bd1d43cb",
       "summation": "md5"
     },
     {
       "name": "delawaretoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665013697",
-      "size": "364544",
-      "md5": "619cfe28e29330ce4dd8fe456e7ca002",
-      "crc32": "175c32a5",
-      "sha1": "7df96d8b1869695a1408753a1f1b9735b3f3efd4",
+      "mtime": "1665100829",
+      "size": "376832",
+      "md5": "9cc7df8681d383d90644b45f223af251",
+      "crc32": "8e4757ef",
+      "sha1": "af83c4bdd7600bf8565b0684619525edb6d48f6c",
       "format": "Metadata"
     },
     {
@@ -2834,9 +2958,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 274,
-  "item_last_updated": 1665013747,
-  "item_size": 15091262,
+  "files_count": 286,
+  "item_last_updated": 1665100906,
+  "item_size": 15838465,
   "metadata": {
     "identifier": "delawaretoday-2022",
     "collection": [
@@ -2853,10 +2977,10 @@
     "publicdate": "2022-09-14 10:58:21",
     "addeddate": "2022-09-14 10:58:21"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 1134784652,
+  "server": "ia601405.us.archive.org",
+  "uniq": 121336104,
   "workable_servers": [
-    "ia801405.us.archive.org",
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

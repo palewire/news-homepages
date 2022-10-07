@@ -1,6 +1,5 @@
 {
-  "conflict": 1665090254,
-  "created": 1665090254,
+  "created": 1665101334,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/9/items/freebeacon-2022",
@@ -14023,31 +14022,93 @@
       "sha1": "59d782610dea9bf30b0b41502278ee811db990e7"
     },
     {
+      "name": "freebeacon-2022-10-06T20:06:37.602746-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665101201",
+      "size": "15183",
+      "md5": "b36e0265970cb485a0e6e1f154f09c00",
+      "crc32": "d55d27bb",
+      "sha1": "0a495aa83fc7773402d4ccbb24d3db80afc63e37",
+      "format": "JSON"
+    },
+    {
+      "name": "freebeacon-2022-10-06T20:06:37.602746-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665101203",
+      "size": "18803",
+      "md5": "88f2a5d1477e1b965b38cb6ee8159e90",
+      "crc32": "7cfb8f34",
+      "sha1": "5b4274e75f7151f48e46ae1a85c36c355522116f",
+      "format": "JSON"
+    },
+    {
+      "name": "freebeacon-2022-10-06T20:06:37.602746-04:00.jpg",
+      "source": "original",
+      "mtime": "1665101199",
+      "size": "288404",
+      "md5": "34c96f0d9e0146c62531d21c44fc3d23",
+      "crc32": "418fcb7f",
+      "sha1": "8bbddb3679ddd13e21e15683acde082b4d8da917",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "freebeacon-2022-10-06T20:06:37.602746-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665101205",
+      "size": "1458",
+      "md5": "161abf2e1404874383af81501c9d9d47",
+      "crc32": "9f0e1af6",
+      "sha1": "33d5c1bf419409b50260f29bc4d6d3495f13648f",
+      "format": "JSON"
+    },
+    {
+      "name": "freebeacon-2022-10-06T20:06:37.602746-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665101207",
+      "size": "43007",
+      "md5": "29ae482bcba34e81f266cb5d666b0efa",
+      "crc32": "7e928002",
+      "sha1": "cc83db2da2cec7df74573ec97391959683ffb445",
+      "format": "JSON"
+    },
+    {
+      "name": "freebeacon-2022-10-06T20:06:37.602746-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "freebeacon-2022-10-06T20:06:37.602746-04:00.jpg",
+      "mtime": "1665101298",
+      "size": "10051",
+      "md5": "8e7105d5a5e1d658539c893e04dc935e",
+      "crc32": "a07877e0",
+      "sha1": "b393450d9c758718e18111dd7149b3c7e9db291c"
+    },
+    {
       "name": "freebeacon-2022_archive.torrent",
       "source": "metadata",
-      "btih": "705d9c0fbfdc21effded05308f5bd9a5b26739cb",
-      "mtime": "1665090236",
-      "size": "288785",
-      "md5": "22703829e34a729fb22d1493dd89f4b1",
-      "crc32": "68d86bfa",
-      "sha1": "a5aa3fc220909561abd24df17a4d920a5d95ca74",
+      "btih": "d662b4c6b968163fcfb65b1524745558c8dcbe35",
+      "mtime": "1665101316",
+      "size": "290065",
+      "md5": "7db6323c819abf7480c0496d05a14fae",
+      "crc32": "cfb49f02",
+      "sha1": "038daf4cec23203c267d99af0cc71cae20554388",
       "format": "Archive BitTorrent"
     },
     {
       "name": "freebeacon-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4582ab7673e7bf2345a6adabe54b14d2",
+      "md5": "5ee34d4b217496ae41103a933771905d",
       "summation": "md5"
     },
     {
       "name": "freebeacon-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665089961",
-      "size": "1716224",
-      "md5": "63cd25456af25fbb5ad4f4b08031785c",
-      "crc32": "92430cf4",
-      "sha1": "1d718c3af8400bd898980307340c83afb1277253",
+      "mtime": "1665101217",
+      "size": "1724416",
+      "md5": "b7e31eee770763ae447489663c8c2cfa",
+      "crc32": "7f8c9578",
+      "sha1": "097b94880c9c80b1eb3f338ec933f92957bd93d6",
       "format": "Metadata"
     },
     {
@@ -14061,9 +14122,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1358,
-  "item_last_updated": 1665090236,
-  "item_size": 86618702,
+  "files_count": 1364,
+  "item_last_updated": 1665101316,
+  "item_size": 87005080,
   "metadata": {
     "identifier": "freebeacon-2022",
     "collection": [
@@ -14080,21 +14141,10 @@
     "publicdate": "2022-07-17 15:03:23",
     "addeddate": "2022-07-17 15:03:23"
   },
-  "pending_tasks": true,
-  "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3431792739,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 2112423895,
+  "server": "ia801406.us.archive.org",
+  "uniq": 1077110413,
   "workable_servers": [
+    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
   ]
 }
