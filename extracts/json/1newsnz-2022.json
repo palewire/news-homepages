@@ -1,5 +1,5 @@
 {
-  "created": 1665010508,
+  "created": 1665097261,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/29/items/1newsnz-2022",
@@ -7715,31 +7715,135 @@
       "sha1": "7e5786da4bd6d10bccca15dc92041e44cbd84e22"
     },
     {
+      "name": "1newsnz-2022-10-06T23:42:17.278018+13:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665052940",
+      "size": "35936",
+      "md5": "499f6c18f716abcf1865ebf4d96c228e",
+      "crc32": "c5333d2c",
+      "sha1": "bdbb4c7e59599c073237ef218efeedb811ba84a1",
+      "format": "JSON"
+    },
+    {
+      "name": "1newsnz-2022-10-06T23:42:17.278018+13:00.jpg",
+      "source": "original",
+      "mtime": "1665052938",
+      "size": "268147",
+      "md5": "d3a5685d0a6c05af941e50a906a567db",
+      "crc32": "21fcf3df",
+      "sha1": "fde7f7616493c5d092a8fe19c3ff9811d440a4ce",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "1newsnz-2022-10-06T23:42:17.278018+13:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665052942",
+      "size": "1467",
+      "md5": "e176b167caf20d9527e9e8c1a3c7b424",
+      "crc32": "f9c16ea7",
+      "sha1": "ee4f4ab994dd25f5f97ec0561b73fc193075be6d",
+      "format": "JSON"
+    },
+    {
+      "name": "1newsnz-2022-10-06T23:42:17.278018+13:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "1newsnz-2022-10-06T23:42:17.278018+13:00.jpg",
+      "mtime": "1665053027",
+      "size": "9832",
+      "md5": "3c9c145b267694204f621abc9091c9b9",
+      "crc32": "1fcca019",
+      "sha1": "d6a4aa0f215370c0bef697d28a8838c5ce7557d2"
+    },
+    {
+      "name": "1newsnz-2022-10-07T11:59:22.027853+13:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665097165",
+      "size": "35308",
+      "md5": "c10983530f9fbb80f37c21414aefd47b",
+      "crc32": "2dbc3bdf",
+      "sha1": "516a15ea1e9d2c0ec9ca00da06da9b8d96bc6a8a",
+      "format": "JSON"
+    },
+    {
+      "name": "1newsnz-2022-10-07T11:59:22.027853+13:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665097166",
+      "size": "31975",
+      "md5": "c2811b3d39e95302e0c46a7cb8bfd5d6",
+      "crc32": "3841ae76",
+      "sha1": "2421e91827979ed95ce9cf345237ecd69374549f",
+      "format": "JSON"
+    },
+    {
+      "name": "1newsnz-2022-10-07T11:59:22.027853+13:00.jpg",
+      "source": "original",
+      "mtime": "1665097163",
+      "size": "241671",
+      "md5": "47eccd21b2ffbdb1f9083a0928dd3423",
+      "crc32": "ba401de0",
+      "sha1": "6610f4a42ce089b6a4b66950f21d1c6bcd37d64d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "1newsnz-2022-10-07T11:59:22.027853+13:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665097171",
+      "size": "1467",
+      "md5": "7fe5733ec5ca7cbf1b91e8b188002972",
+      "crc32": "09e93b3d",
+      "sha1": "e46d83af56e547292ef38170dc86f954fd27b9d3",
+      "format": "JSON"
+    },
+    {
+      "name": "1newsnz-2022-10-07T11:59:22.027853+13:00.wayback.json",
+      "source": "original",
+      "mtime": "1665097173",
+      "size": "42175",
+      "md5": "5ddb9fd7d065156470eefbdc8059d349",
+      "crc32": "7a36a755",
+      "sha1": "d164dcdaf4a3c1f993031fb05dd58d09d4698e48",
+      "format": "JSON"
+    },
+    {
+      "name": "1newsnz-2022-10-07T11:59:22.027853+13:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "1newsnz-2022-10-07T11:59:22.027853+13:00.jpg",
+      "mtime": "1665097239",
+      "size": "9186",
+      "md5": "e3fe87bb10d58567be49f601f153572b",
+      "crc32": "98c6da32",
+      "sha1": "fa0d83725f4fe36b8100763c75d39cfdf5c7b2c1"
+    },
+    {
       "name": "1newsnz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "09ae4e82b1ddd1a9c7073ac6cca9826f2775b02c",
-      "mtime": "1665010492",
-      "size": "157620",
-      "md5": "8480b8c6902cd8c7a1b1a4e4e14b0244",
-      "crc32": "9b047bc3",
-      "sha1": "f5d324ae124052b44863b59fe5eb863f6427d741",
+      "btih": "e2e914d514e6514e55a68558e158d7a8bab41f1a",
+      "mtime": "1665097248",
+      "size": "159705",
+      "md5": "b090718caf39a2bc0f6aa9d3917207f6",
+      "crc32": "c6e97ec8",
+      "sha1": "322ad2055b93923652b100a5705e734466b1990d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "1newsnz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a501718b102d4b9ebde4e7366c8479f4",
+      "md5": "7fc1bed3102f3c246f018eca41ef6158",
       "summation": "md5"
     },
     {
       "name": "1newsnz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665010404",
-      "size": "962560",
-      "md5": "ec6748313840f8f645f95e071ee47bb1",
-      "crc32": "6059669d",
-      "sha1": "95c0385380efb61954db45c370f405826ccb7119",
+      "mtime": "1665097178",
+      "size": "974848",
+      "md5": "562cb45d6ff85708f94fb27d479d3607",
+      "crc32": "298527ba",
+      "sha1": "2cb81e6b4fe8c7be74e2627625bac992ffdf9a75",
       "format": "Metadata"
     },
     {
@@ -7764,9 +7868,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 751,
-  "item_last_updated": 1665010492,
-  "item_size": 45071551,
+  "files_count": 761,
+  "item_last_updated": 1665097248,
+  "item_size": 45763088,
   "metadata": {
     "identifier": "1newsnz-2022",
     "collection": [
@@ -7783,10 +7887,10 @@
     "publicdate": "2022-08-05 12:18:36",
     "addeddate": "2022-08-05 12:18:36"
   },
-  "server": "ia601400.us.archive.org",
-  "uniq": 760436117,
+  "server": "ia801400.us.archive.org",
+  "uniq": 1632231574,
   "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
+    "ia801400.us.archive.org",
+    "ia601400.us.archive.org"
   ]
 }
