@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 148 screenshots with the Internet Archive.
+The archiving routine has saved 149 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 148 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-07T12:02:29.983841+05:45.jpg">
+  <img src="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-07T12:02:29.983841+05:45.jpg"
+     alt="Karobar Daily at 2022-10-07 12:02:41+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-07T12:02:29.983841+05:45.jpg">October 7 at 12:02 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-06T23:28:51.256711+05:45.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-01T23:17:41.029346+05:45.jpg">October 1 at 11:18 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-01T12:01:20.227121+05:45.jpg">
-  <img src="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-01T12:01:20.227121+05:45.jpg"
-     alt="Karobar Daily at 2022-10-01 12:01:24+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-01T12:01:20.227121+05:45.jpg">October 1 at 12:01 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 147 hyperlink lists with the Internet Archive.
+The archiving routine has saved 148 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 7 at 12:02 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-07T12:02:29.983841+05:45.hyperlinks.json) |
 | [October 6 at 11:29 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-06T23:28:51.256711+05:45.hyperlinks.json) |
 | [October 6 at 11:27 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-06T11:27:30.490716+05:45.hyperlinks.json) |
 | [October 6 at 12:01 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-06T00:01:08.712027+05:45.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 3 at 11:31 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-03T23:30:57.029628+05:45.hyperlinks.json) |
 | [October 3 at 10:53 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-03T10:52:57.737753+05:45.hyperlinks.json) |
 | [October 2 at 11:15 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-02T23:15:09.361137+05:45.hyperlinks.json) |
-| [October 2 at 11:48 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-02T11:47:49.589899+05:45.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 148 accessibility trees with the Internet Archive.
+The archiving routine has saved 149 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 7 at 12:02 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-07T12:02:29.983841+05:45.accessibility.json) |
 | [October 6 at 11:29 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-06T23:28:51.256711+05:45.accessibility.json) |
 | [October 6 at 11:27 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-06T11:27:30.490716+05:45.accessibility.json) |
 | [October 6 at 12:01 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-06T00:01:08.712027+05:45.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 3 at 11:31 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-03T23:30:57.029628+05:45.accessibility.json) |
 | [October 3 at 10:53 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-03T10:52:57.737753+05:45.accessibility.json) |
 | [October 2 at 11:15 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-02T23:15:09.361137+05:45.accessibility.json) |
-| [October 2 at 11:47 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-02T11:47:49.589899+05:45.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 148 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 149 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 7 at 12:02 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-07T12:02:29.983841+05:45.lighthouse.json) |
 | [October 6 at 11:29 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-06T23:28:51.256711+05:45.lighthouse.json) |
 | [October 6 at 11:27 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-06T11:27:30.490716+05:45.lighthouse.json) |
 | [October 6 at 12:01 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-06T00:01:08.712027+05:45.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 3 at 11:31 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-03T23:30:57.029628+05:45.lighthouse.json) |
 | [October 3 at 10:53 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-03T10:52:57.737753+05:45.lighthouse.json) |
 | [October 2 at 11:15 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-02T23:15:09.361137+05:45.lighthouse.json) |
-| [October 2 at 11:48 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-10-02T11:47:49.589899+05:45.lighthouse.json) |
 
 
 
