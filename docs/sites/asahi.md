@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 265 screenshots with the Internet Archive.
+The archiving routine has saved 267 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/asahi-2022/asahi-2022-10-07T10:45:11.320582+09:00.jpg">
+  <img src="https://archive.org/download/asahi-2022/asahi-2022-10-07T10:45:11.320582+09:00.jpg"
+     alt="Asahi Shimbun at 2022-10-07 10:45:13+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/asahi-2022/asahi-2022-10-07T10:45:11.320582+09:00.jpg">October 7 at 10:45 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/asahi-2022/asahi-2022-10-07T01:00:44.558537+09:00.jpg">
+  <img src="https://archive.org/download/asahi-2022/asahi-2022-10-07T01:00:44.558537+09:00.jpg"
+     alt="Asahi Shimbun at 2022-10-07 01:00:47+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/asahi-2022/asahi-2022-10-07T01:00:44.558537+09:00.jpg">October 7 at 1:00 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/asahi-2022/asahi-2022-10-06T13:22:38.569717+09:00.jpg">
   <img src="https://archive.org/download/asahi-2022/asahi-2022-10-06T13:22:38.569717+09:00.jpg"
      alt="Asahi Shimbun at 2022-10-06 13:22:44+09:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/asahi-2022/asahi-2022-10-03T14:01:23.506398+09:00.jpg">October 3 at 2:01 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/asahi-2022/asahi-2022-10-03T11:23:07.842693+09:00.jpg">
-  <img src="https://archive.org/download/asahi-2022/asahi-2022-10-03T11:23:07.842693+09:00.jpg"
-     alt="Asahi Shimbun at 2022-10-03 11:23:09+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/asahi-2022/asahi-2022-10-03T11:23:07.842693+09:00.jpg">October 3 at 11:23 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/asahi-2022/asahi-2022-10-03T01:01:52.944689+09:00.jpg">
-  <img src="https://archive.org/download/asahi-2022/asahi-2022-10-03T01:01:52.944689+09:00.jpg"
-     alt="Asahi Shimbun at 2022-10-03 01:02:06+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/asahi-2022/asahi-2022-10-03T01:01:52.944689+09:00.jpg">October 3 at 1:02 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 221 hyperlink lists with the Internet Archive.
+The archiving routine has saved 223 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 7 at 10:45 AM](https://archive.org/download/asahi-2022/asahi-2022-10-07T10:45:11.320582+09:00.hyperlinks.json) |
+| [October 7 at 1:00 AM](https://archive.org/download/asahi-2022/asahi-2022-10-07T01:00:44.558537+09:00.hyperlinks.json) |
 | [October 6 at 1:22 PM](https://archive.org/download/asahi-2022/asahi-2022-10-06T13:22:38.569717+09:00.hyperlinks.json) |
 | [October 6 at 11:28 AM](https://archive.org/download/asahi-2022/asahi-2022-10-06T11:27:52.129016+09:00.hyperlinks.json) |
 | [October 6 at 1:34 AM](https://archive.org/download/asahi-2022/asahi-2022-10-06T01:33:41.508358+09:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 5 at 1:19 AM](https://archive.org/download/asahi-2022/asahi-2022-10-05T01:19:07.875909+09:00.hyperlinks.json) |
 | [October 4 at 2:18 PM](https://archive.org/download/asahi-2022/asahi-2022-10-04T14:18:39.027430+09:00.hyperlinks.json) |
 | [October 4 at 11:25 AM](https://archive.org/download/asahi-2022/asahi-2022-10-04T11:24:59.751305+09:00.hyperlinks.json) |
-| [October 4 at 1:11 AM](https://archive.org/download/asahi-2022/asahi-2022-10-04T01:11:10.657712+09:00.hyperlinks.json) |
-| [October 3 at 2:01 PM](https://archive.org/download/asahi-2022/asahi-2022-10-03T14:01:23.506398+09:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 227 accessibility trees with the Internet Archive.
+The archiving routine has saved 229 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 7 at 10:45 AM](https://archive.org/download/asahi-2022/asahi-2022-10-07T10:45:11.320582+09:00.accessibility.json) |
+| [October 7 at 1:00 AM](https://archive.org/download/asahi-2022/asahi-2022-10-07T01:00:44.558537+09:00.accessibility.json) |
 | [October 6 at 1:22 PM](https://archive.org/download/asahi-2022/asahi-2022-10-06T13:22:38.569717+09:00.accessibility.json) |
 | [October 6 at 11:28 AM](https://archive.org/download/asahi-2022/asahi-2022-10-06T11:27:52.129016+09:00.accessibility.json) |
 | [October 6 at 1:33 AM](https://archive.org/download/asahi-2022/asahi-2022-10-06T01:33:41.508358+09:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 5 at 1:19 AM](https://archive.org/download/asahi-2022/asahi-2022-10-05T01:19:07.875909+09:00.accessibility.json) |
 | [October 4 at 2:18 PM](https://archive.org/download/asahi-2022/asahi-2022-10-04T14:18:39.027430+09:00.accessibility.json) |
 | [October 4 at 11:25 AM](https://archive.org/download/asahi-2022/asahi-2022-10-04T11:24:59.751305+09:00.accessibility.json) |
-| [October 4 at 1:11 AM](https://archive.org/download/asahi-2022/asahi-2022-10-04T01:11:10.657712+09:00.accessibility.json) |
-| [October 3 at 2:01 PM](https://archive.org/download/asahi-2022/asahi-2022-10-03T14:01:23.506398+09:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 221 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 223 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 7 at 10:45 AM](https://archive.org/download/asahi-2022/asahi-2022-10-07T10:45:11.320582+09:00.lighthouse.json) |
+| [October 7 at 1:00 AM](https://archive.org/download/asahi-2022/asahi-2022-10-07T01:00:44.558537+09:00.lighthouse.json) |
 | [October 6 at 1:22 PM](https://archive.org/download/asahi-2022/asahi-2022-10-06T13:22:38.569717+09:00.lighthouse.json) |
 | [October 6 at 11:28 AM](https://archive.org/download/asahi-2022/asahi-2022-10-06T11:27:52.129016+09:00.lighthouse.json) |
 | [October 6 at 1:34 AM](https://archive.org/download/asahi-2022/asahi-2022-10-06T01:33:41.508358+09:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 5 at 1:19 AM](https://archive.org/download/asahi-2022/asahi-2022-10-05T01:19:07.875909+09:00.lighthouse.json) |
 | [October 4 at 2:18 PM](https://archive.org/download/asahi-2022/asahi-2022-10-04T14:18:39.027430+09:00.lighthouse.json) |
 | [October 4 at 11:25 AM](https://archive.org/download/asahi-2022/asahi-2022-10-04T11:24:59.751305+09:00.lighthouse.json) |
-| [October 4 at 1:11 AM](https://archive.org/download/asahi-2022/asahi-2022-10-04T01:11:10.657712+09:00.lighthouse.json) |
-| [October 3 at 2:01 PM](https://archive.org/download/asahi-2022/asahi-2022-10-03T14:01:23.506398+09:00.lighthouse.json) |
 
 
 

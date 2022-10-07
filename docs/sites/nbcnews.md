@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 748 screenshots with the Internet Archive.
+The archiving routine has saved 749 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 748 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-10-06T22:42:46.435471-04:00.jpg">
+  <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-10-06T22:42:46.435471-04:00.jpg"
+     alt="NBC News at 2022-10-06 22:42:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-10-06T22:42:46.435471-04:00.jpg">October 6 at 10:42 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-10-06T17:20:46.578298-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-10-04T08:56:01.106833-04:00.jpg">October 4 at 8:56 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-10-03T22:25:26.248687-04:00.jpg">
-  <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-10-03T22:25:26.248687-04:00.jpg"
-     alt="NBC News at 2022-10-03 22:25:29-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-10-03T22:25:26.248687-04:00.jpg">October 3 at 10:25 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 729 hyperlink lists with the Internet Archive.
+The archiving routine has saved 730 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 6 at 10:42 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-06T22:42:46.435471-04:00.hyperlinks.json) |
 | [October 6 at 5:21 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-06T17:20:46.578298-04:00.hyperlinks.json) |
 | [October 6 at 10:12 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-06T10:11:58.482130-04:00.hyperlinks.json) |
 | [October 6 at 8:55 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-06T08:55:28.268814-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 5 at 9:18 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-05T09:17:39.862173-04:00.hyperlinks.json) |
 | [October 4 at 10:27 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-04T22:27:37.186962-04:00.hyperlinks.json) |
 | [October 4 at 5:21 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-04T17:20:27.561235-04:00.hyperlinks.json) |
-| [October 4 at 10:13 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-04T10:13:04.313087-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 731 accessibility trees with the Internet Archive.
+The archiving routine has saved 732 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 6 at 10:42 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-06T22:42:46.435471-04:00.accessibility.json) |
 | [October 6 at 5:21 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-06T17:20:46.578298-04:00.accessibility.json) |
 | [October 6 at 10:12 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-06T10:11:58.482130-04:00.accessibility.json) |
 | [October 6 at 8:55 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-06T08:55:28.268814-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 5 at 9:18 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-05T09:17:39.862173-04:00.accessibility.json) |
 | [October 4 at 10:27 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-04T22:27:37.186962-04:00.accessibility.json) |
 | [October 4 at 5:21 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-04T17:20:27.561235-04:00.accessibility.json) |
-| [October 4 at 10:13 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-04T10:13:04.313087-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 296 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 297 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 6 at 10:42 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-06T22:42:46.435471-04:00.lighthouse.json) |
 | [October 6 at 5:21 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-06T17:20:46.578298-04:00.lighthouse.json) |
 | [October 6 at 10:12 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-06T10:11:58.482130-04:00.lighthouse.json) |
 | [October 6 at 8:55 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-06T08:55:28.268814-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 5 at 9:18 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-05T09:17:39.862173-04:00.lighthouse.json) |
 | [October 4 at 10:27 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-04T22:27:37.186962-04:00.lighthouse.json) |
 | [October 4 at 5:21 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-04T17:20:27.561235-04:00.lighthouse.json) |
-| [October 4 at 10:13 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-04T10:13:04.313087-04:00.lighthouse.json) |
 
 
 

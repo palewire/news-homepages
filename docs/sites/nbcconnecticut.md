@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 46 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-10-06T22:43:42.561680-04:00.jpg">
+  <img src="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-10-06T22:43:42.561680-04:00.jpg"
+     alt="NBC Connecticut at 2022-10-06 22:43:45-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-10-06T22:43:42.561680-04:00.jpg">October 6 at 10:43 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-10-06T10:12:11.851274-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-10-01T10:07:36.886206-04:00.jpg">October 1 at 10:07 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-30T22:33:38.998881-04:00.jpg">
-  <img src="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-30T22:33:38.998881-04:00.jpg"
-     alt="NBC Connecticut at 2022-09-30 22:33:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-09-30T22:33:38.998881-04:00.jpg">September 30 at 10:33 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 46 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 6 at 10:43 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-10-06T22:43:42.561680-04:00.hyperlinks.json) |
 | [October 6 at 10:12 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-10-06T10:12:11.851274-04:00.hyperlinks.json) |
 | [October 5 at 10:32 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-10-05T22:32:49.700205-04:00.hyperlinks.json) |
 | [October 5 at 10:18 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-10-05T10:18:07.097133-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 3 at 10:04 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-10-03T10:04:29.064004-04:00.hyperlinks.json) |
 | [October 2 at 10:26 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-10-02T22:26:11.712763-04:00.hyperlinks.json) |
 | [October 2 at 10:09 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-10-02T10:09:08.419624-04:00.hyperlinks.json) |
-| [October 1 at 10:22 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-10-01T22:22:40.472396-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 46 accessibility trees with the Internet Archive.
+The archiving routine has saved 47 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 6 at 10:43 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-10-06T22:43:42.561680-04:00.accessibility.json) |
 | [October 6 at 10:12 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-10-06T10:12:11.851274-04:00.accessibility.json) |
 | [October 5 at 10:32 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-10-05T22:32:49.700205-04:00.accessibility.json) |
 | [October 5 at 10:18 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-10-05T10:18:07.097133-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 3 at 10:04 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-10-03T10:04:29.064004-04:00.accessibility.json) |
 | [October 2 at 10:26 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-10-02T22:26:11.712763-04:00.accessibility.json) |
 | [October 2 at 10:09 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-10-02T10:09:08.419624-04:00.accessibility.json) |
-| [October 1 at 10:22 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-10-01T22:22:40.472396-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 6 at 10:43 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-10-06T22:43:42.561680-04:00.lighthouse.json) |
 | [October 6 at 10:12 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-10-06T10:12:11.851274-04:00.lighthouse.json) |
 | [October 5 at 10:33 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-10-05T22:32:49.700205-04:00.lighthouse.json) |
 | [October 5 at 10:18 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-10-05T10:18:07.097133-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 3 at 10:04 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-10-03T10:04:29.064004-04:00.lighthouse.json) |
 | [October 2 at 10:26 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-10-02T22:26:11.712763-04:00.lighthouse.json) |
 | [October 2 at 10:09 AM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-10-02T10:09:08.419624-04:00.lighthouse.json) |
-| [October 1 at 10:22 PM](https://archive.org/download/nbcconnecticut-2022/nbcconnecticut-2022-10-01T22:22:40.472396-04:00.lighthouse.json) |
 
 
 

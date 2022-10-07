@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 260 screenshots with the Internet Archive.
+The archiving routine has saved 262 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-10-06T20:42:39.486824-05:00.jpg">
+  <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-10-06T20:42:39.486824-05:00.jpg"
+     alt="Little Village at 2022-10-06 20:43:12-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-10-06T20:42:39.486824-05:00.jpg">October 6 at 8:43 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-10-06T08:03:58.828079-05:00.jpg">
+  <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-10-06T08:03:58.828079-05:00.jpg"
+     alt="Little Village at 2022-10-06 08:04:00-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-10-06T08:03:58.828079-05:00.jpg">October 6 at 8:04 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-10-05T20:30:45.752672-05:00.jpg">
   <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-10-05T20:30:45.752672-05:00.jpg"
      alt="Little Village at 2022-10-05 20:30:55-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-10-02T08:00:42.748707-05:00.jpg">October 2 at 8:00 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-10-01T20:29:43.939235-05:00.jpg">
-  <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-10-01T20:29:43.939235-05:00.jpg"
-     alt="Little Village at 2022-10-01 20:29:46-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-10-01T20:29:43.939235-05:00.jpg">October 1 at 8:29 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-10-01T07:56:37.071582-05:00.jpg">
-  <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-10-01T07:56:37.071582-05:00.jpg"
-     alt="Little Village at 2022-10-01 07:56:38-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-10-01T07:56:37.071582-05:00.jpg">October 1 at 7:56 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 261 hyperlink lists with the Internet Archive.
+The archiving routine has saved 263 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 6 at 8:43 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-06T20:42:39.486824-05:00.hyperlinks.json) |
+| [October 6 at 8:04 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-06T08:03:58.828079-05:00.hyperlinks.json) |
 | [October 5 at 8:30 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-05T20:30:45.752672-05:00.hyperlinks.json) |
 | [October 5 at 11:47 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-05T11:47:49.783559-05:00.hyperlinks.json) |
 | [October 5 at 8:16 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-05T08:16:24.734190-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 3 at 8:32 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-03T20:32:32.683065-05:00.hyperlinks.json) |
 | [October 3 at 11:18 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-03T11:18:09.085753-05:00.hyperlinks.json) |
 | [October 3 at 7:59 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-03T07:59:53.287243-05:00.hyperlinks.json) |
-| [October 2 at 8:17 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-02T20:17:31.453108-05:00.hyperlinks.json) |
-| [October 2 at 8:00 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-02T08:00:42.748707-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 261 accessibility trees with the Internet Archive.
+The archiving routine has saved 263 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 6 at 8:43 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-06T20:42:39.486824-05:00.accessibility.json) |
+| [October 6 at 8:04 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-06T08:03:58.828079-05:00.accessibility.json) |
 | [October 5 at 8:30 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-05T20:30:45.752672-05:00.accessibility.json) |
 | [October 5 at 11:47 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-05T11:47:49.783559-05:00.accessibility.json) |
 | [October 5 at 8:16 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-05T08:16:24.734190-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 3 at 8:32 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-03T20:32:32.683065-05:00.accessibility.json) |
 | [October 3 at 11:18 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-03T11:18:09.085753-05:00.accessibility.json) |
 | [October 3 at 7:59 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-03T07:59:53.287243-05:00.accessibility.json) |
-| [October 2 at 8:17 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-02T20:17:31.453108-05:00.accessibility.json) |
-| [October 2 at 8:00 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-02T08:00:42.748707-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 181 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 183 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 6 at 8:43 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-06T20:42:39.486824-05:00.lighthouse.json) |
+| [October 6 at 8:04 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-06T08:03:58.828079-05:00.lighthouse.json) |
 | [October 5 at 8:31 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-05T20:30:45.752672-05:00.lighthouse.json) |
 | [October 5 at 11:47 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-05T11:47:49.783559-05:00.lighthouse.json) |
 | [October 5 at 8:16 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-05T08:16:24.734190-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 3 at 8:32 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-03T20:32:32.683065-05:00.lighthouse.json) |
 | [October 3 at 11:18 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-03T11:18:09.085753-05:00.lighthouse.json) |
 | [October 3 at 8:00 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-03T07:59:53.287243-05:00.lighthouse.json) |
-| [October 2 at 8:17 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-02T20:17:31.453108-05:00.lighthouse.json) |
-| [October 2 at 8:00 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-10-02T08:00:42.748707-05:00.lighthouse.json) |
 
 
 

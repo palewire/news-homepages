@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 236 screenshots with the Internet Archive.
+The archiving routine has saved 237 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 236 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rawstory-2022/rawstory-2022-10-06T22:46:56.329808-04:00.jpg">
+  <img src="https://archive.org/download/rawstory-2022/rawstory-2022-10-06T22:46:56.329808-04:00.jpg"
+     alt="Raw Story at 2022-10-06 22:47:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-10-06T22:46:56.329808-04:00.jpg">October 6 at 10:47 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rawstory-2022/rawstory-2022-10-06T17:02:39.056779-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-10-03T10:09:56.480048-04:00.jpg">October 3 at 10:09 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/rawstory-2022/rawstory-2022-10-02T22:31:24.892632-04:00.jpg">
-  <img src="https://archive.org/download/rawstory-2022/rawstory-2022-10-02T22:31:24.892632-04:00.jpg"
-     alt="Raw Story at 2022-10-02 22:31:26-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-10-02T22:31:24.892632-04:00.jpg">October 2 at 10:31 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 229 hyperlink lists with the Internet Archive.
+The archiving routine has saved 230 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 6 at 10:47 PM](https://archive.org/download/rawstory-2022/rawstory-2022-10-06T22:46:56.329808-04:00.hyperlinks.json) |
 | [October 6 at 5:02 PM](https://archive.org/download/rawstory-2022/rawstory-2022-10-06T17:02:39.056779-04:00.hyperlinks.json) |
 | [October 6 at 10:18 AM](https://archive.org/download/rawstory-2022/rawstory-2022-10-06T10:17:54.958313-04:00.hyperlinks.json) |
 | [October 5 at 10:38 PM](https://archive.org/download/rawstory-2022/rawstory-2022-10-05T22:38:41.478256-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 4 at 4:13 PM](https://archive.org/download/rawstory-2022/rawstory-2022-10-04T16:13:12.843294-04:00.hyperlinks.json) |
 | [October 4 at 10:19 AM](https://archive.org/download/rawstory-2022/rawstory-2022-10-04T10:19:12.625031-04:00.hyperlinks.json) |
 | [October 3 at 10:29 PM](https://archive.org/download/rawstory-2022/rawstory-2022-10-03T22:29:51.471681-04:00.hyperlinks.json) |
-| [October 3 at 3:54 PM](https://archive.org/download/rawstory-2022/rawstory-2022-10-03T15:53:57.827320-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 231 accessibility trees with the Internet Archive.
+The archiving routine has saved 232 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 6 at 10:47 PM](https://archive.org/download/rawstory-2022/rawstory-2022-10-06T22:46:56.329808-04:00.accessibility.json) |
 | [October 6 at 5:02 PM](https://archive.org/download/rawstory-2022/rawstory-2022-10-06T17:02:39.056779-04:00.accessibility.json) |
 | [October 6 at 10:18 AM](https://archive.org/download/rawstory-2022/rawstory-2022-10-06T10:17:54.958313-04:00.accessibility.json) |
 | [October 5 at 10:38 PM](https://archive.org/download/rawstory-2022/rawstory-2022-10-05T22:38:41.478256-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 4 at 4:13 PM](https://archive.org/download/rawstory-2022/rawstory-2022-10-04T16:13:12.843294-04:00.accessibility.json) |
 | [October 4 at 10:19 AM](https://archive.org/download/rawstory-2022/rawstory-2022-10-04T10:19:12.625031-04:00.accessibility.json) |
 | [October 3 at 10:29 PM](https://archive.org/download/rawstory-2022/rawstory-2022-10-03T22:29:51.471681-04:00.accessibility.json) |
-| [October 3 at 3:54 PM](https://archive.org/download/rawstory-2022/rawstory-2022-10-03T15:53:57.827320-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 220 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 221 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 6 at 10:47 PM](https://archive.org/download/rawstory-2022/rawstory-2022-10-06T22:46:56.329808-04:00.lighthouse.json) |
 | [October 6 at 5:02 PM](https://archive.org/download/rawstory-2022/rawstory-2022-10-06T17:02:39.056779-04:00.lighthouse.json) |
 | [October 6 at 10:18 AM](https://archive.org/download/rawstory-2022/rawstory-2022-10-06T10:17:54.958313-04:00.lighthouse.json) |
 | [October 5 at 10:38 PM](https://archive.org/download/rawstory-2022/rawstory-2022-10-05T22:38:41.478256-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 4 at 4:13 PM](https://archive.org/download/rawstory-2022/rawstory-2022-10-04T16:13:12.843294-04:00.lighthouse.json) |
 | [October 4 at 10:19 AM](https://archive.org/download/rawstory-2022/rawstory-2022-10-04T10:19:12.625031-04:00.lighthouse.json) |
 | [October 3 at 10:29 PM](https://archive.org/download/rawstory-2022/rawstory-2022-10-03T22:29:51.471681-04:00.lighthouse.json) |
-| [October 3 at 3:54 PM](https://archive.org/download/rawstory-2022/rawstory-2022-10-03T15:53:57.827320-04:00.lighthouse.json) |
 
 
 

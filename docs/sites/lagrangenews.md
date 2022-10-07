@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 157 screenshots with the Internet Archive.
+The archiving routine has saved 159 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-06T21:42:25.468863-04:00.jpg">
+  <img src="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-06T21:42:25.468863-04:00.jpg"
+     alt="The LaGrange Daily News at 2022-10-06 21:42:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-06T21:42:25.468863-04:00.jpg">October 6 at 9:42 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-06T09:01:28.156027-04:00.jpg">
+  <img src="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-06T09:01:28.156027-04:00.jpg"
+     alt="The LaGrange Daily News at 2022-10-06 09:01:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-06T09:01:28.156027-04:00.jpg">October 6 at 9:01 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-05T21:28:53.852660-04:00.jpg">
   <img src="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-05T21:28:53.852660-04:00.jpg"
      alt="The LaGrange Daily News at 2022-10-05 21:29:00-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-01T08:54:38.344087-04:00.jpg">October 1 at 8:54 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-30T21:33:51.297901-04:00.jpg">
-  <img src="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-30T21:33:51.297901-04:00.jpg"
-     alt="The LaGrange Daily News at 2022-09-30 21:33:56-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-30T21:33:51.297901-04:00.jpg">September 30 at 9:33 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-30T09:04:30.191377-04:00.jpg">
-  <img src="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-30T09:04:30.191377-04:00.jpg"
-     alt="The LaGrange Daily News at 2022-09-30 09:04:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-30T09:04:30.191377-04:00.jpg">September 30 at 9:04 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 157 hyperlink lists with the Internet Archive.
+The archiving routine has saved 159 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 6 at 9:42 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-06T21:42:25.468863-04:00.hyperlinks.json) |
+| [October 6 at 9:01 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-06T09:01:28.156027-04:00.hyperlinks.json) |
 | [October 5 at 9:29 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-05T21:28:53.852660-04:00.hyperlinks.json) |
 | [October 5 at 9:14 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-05T09:13:44.777828-04:00.hyperlinks.json) |
 | [October 4 at 9:29 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-04T21:29:29.536157-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 3 at 8:58 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-03T08:58:26.589691-04:00.hyperlinks.json) |
 | [October 2 at 9:15 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-02T21:15:07.658353-04:00.hyperlinks.json) |
 | [October 2 at 8:58 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-02T08:58:31.800298-04:00.hyperlinks.json) |
-| [October 1 at 9:27 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-01T21:27:29.103811-04:00.hyperlinks.json) |
-| [October 1 at 8:54 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-01T08:54:38.344087-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 158 accessibility trees with the Internet Archive.
+The archiving routine has saved 160 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 6 at 9:42 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-06T21:42:25.468863-04:00.accessibility.json) |
+| [October 6 at 9:01 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-06T09:01:28.156027-04:00.accessibility.json) |
 | [October 5 at 9:29 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-05T21:28:53.852660-04:00.accessibility.json) |
 | [October 5 at 9:14 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-05T09:13:44.777828-04:00.accessibility.json) |
 | [October 4 at 9:29 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-04T21:29:29.536157-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 3 at 8:58 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-03T08:58:26.589691-04:00.accessibility.json) |
 | [October 2 at 9:15 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-02T21:15:07.658353-04:00.accessibility.json) |
 | [October 2 at 8:58 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-02T08:58:31.800298-04:00.accessibility.json) |
-| [October 1 at 9:27 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-01T21:27:29.103811-04:00.accessibility.json) |
-| [October 1 at 8:54 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-01T08:54:38.344087-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 151 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 153 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 6 at 9:42 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-06T21:42:25.468863-04:00.lighthouse.json) |
+| [October 6 at 9:01 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-06T09:01:28.156027-04:00.lighthouse.json) |
 | [October 5 at 9:29 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-05T21:28:53.852660-04:00.lighthouse.json) |
 | [October 5 at 9:14 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-05T09:13:44.777828-04:00.lighthouse.json) |
 | [October 4 at 9:29 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-04T21:29:29.536157-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 3 at 8:58 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-03T08:58:26.589691-04:00.lighthouse.json) |
 | [October 2 at 9:15 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-02T21:15:07.658353-04:00.lighthouse.json) |
 | [October 2 at 8:58 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-02T08:58:31.800298-04:00.lighthouse.json) |
-| [October 1 at 9:27 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-01T21:27:29.103811-04:00.lighthouse.json) |
-| [October 1 at 8:54 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-10-01T08:54:38.344087-04:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 224 screenshots with the Internet Archive.
+The archiving routine has saved 225 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 224 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reuters-2022/reuters-2022-10-06T22:48:50.233800-04:00.jpg">
+  <img src="https://archive.org/download/reuters-2022/reuters-2022-10-06T22:48:50.233800-04:00.jpg"
+     alt="Reuters at 2022-10-06 22:49:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reuters-2022/reuters-2022-10-06T22:48:50.233800-04:00.jpg">October 6 at 10:49 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reuters-2022/reuters-2022-10-06T10:18:18.614637-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/reuters-2022/reuters-2022-10-01T10:12:27.299933-04:00.jpg">October 1 at 10:12 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/reuters-2022/reuters-2022-09-30T22:36:10.284805-04:00.jpg">
-  <img src="https://archive.org/download/reuters-2022/reuters-2022-09-30T22:36:10.284805-04:00.jpg"
-     alt="Reuters at 2022-09-30 22:36:38-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reuters-2022/reuters-2022-09-30T22:36:10.284805-04:00.jpg">September 30 at 10:36 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 220 hyperlink lists with the Internet Archive.
+The archiving routine has saved 221 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 6 at 10:49 PM](https://archive.org/download/reuters-2022/reuters-2022-10-06T22:48:50.233800-04:00.hyperlinks.json) |
 | [October 6 at 10:18 AM](https://archive.org/download/reuters-2022/reuters-2022-10-06T10:18:18.614637-04:00.hyperlinks.json) |
 | [October 5 at 10:39 PM](https://archive.org/download/reuters-2022/reuters-2022-10-05T22:39:00.829167-04:00.hyperlinks.json) |
 | [October 5 at 10:23 AM](https://archive.org/download/reuters-2022/reuters-2022-10-05T10:23:26.277910-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 3 at 10:09 AM](https://archive.org/download/reuters-2022/reuters-2022-10-03T10:09:25.348265-04:00.hyperlinks.json) |
 | [October 2 at 10:31 PM](https://archive.org/download/reuters-2022/reuters-2022-10-02T22:31:38.429115-04:00.hyperlinks.json) |
 | [October 2 at 10:17 AM](https://archive.org/download/reuters-2022/reuters-2022-10-02T10:16:39.613963-04:00.hyperlinks.json) |
-| [October 1 at 10:27 PM](https://archive.org/download/reuters-2022/reuters-2022-10-01T22:26:34.420030-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 222 accessibility trees with the Internet Archive.
+The archiving routine has saved 223 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 6 at 10:49 PM](https://archive.org/download/reuters-2022/reuters-2022-10-06T22:48:50.233800-04:00.accessibility.json) |
 | [October 6 at 10:18 AM](https://archive.org/download/reuters-2022/reuters-2022-10-06T10:18:18.614637-04:00.accessibility.json) |
 | [October 5 at 10:39 PM](https://archive.org/download/reuters-2022/reuters-2022-10-05T22:39:00.829167-04:00.accessibility.json) |
 | [October 5 at 10:23 AM](https://archive.org/download/reuters-2022/reuters-2022-10-05T10:23:26.277910-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 3 at 10:09 AM](https://archive.org/download/reuters-2022/reuters-2022-10-03T10:09:25.348265-04:00.accessibility.json) |
 | [October 2 at 10:31 PM](https://archive.org/download/reuters-2022/reuters-2022-10-02T22:31:38.429115-04:00.accessibility.json) |
 | [October 2 at 10:16 AM](https://archive.org/download/reuters-2022/reuters-2022-10-02T10:16:39.613963-04:00.accessibility.json) |
-| [October 1 at 10:27 PM](https://archive.org/download/reuters-2022/reuters-2022-10-01T22:26:34.420030-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 150 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 151 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 6 at 10:49 PM](https://archive.org/download/reuters-2022/reuters-2022-10-06T22:48:50.233800-04:00.lighthouse.json) |
 | [October 6 at 10:18 AM](https://archive.org/download/reuters-2022/reuters-2022-10-06T10:18:18.614637-04:00.lighthouse.json) |
 | [October 5 at 10:39 PM](https://archive.org/download/reuters-2022/reuters-2022-10-05T22:39:00.829167-04:00.lighthouse.json) |
 | [October 5 at 10:23 AM](https://archive.org/download/reuters-2022/reuters-2022-10-05T10:23:26.277910-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 3 at 10:09 AM](https://archive.org/download/reuters-2022/reuters-2022-10-03T10:09:25.348265-04:00.lighthouse.json) |
 | [October 2 at 10:31 PM](https://archive.org/download/reuters-2022/reuters-2022-10-02T22:31:38.429115-04:00.lighthouse.json) |
 | [October 2 at 10:17 AM](https://archive.org/download/reuters-2022/reuters-2022-10-02T10:16:39.613963-04:00.lighthouse.json) |
-| [October 1 at 10:27 PM](https://archive.org/download/reuters-2022/reuters-2022-10-01T22:26:34.420030-04:00.lighthouse.json) |
 
 
 

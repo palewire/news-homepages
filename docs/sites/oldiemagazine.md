@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 148 screenshots with the Internet Archive.
+The archiving routine has saved 149 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 148 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-07T03:45:33.227408+01:00.jpg">
+  <img src="https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-07T03:45:33.227408+01:00.jpg"
+     alt="Oldie at 2022-10-07 03:45:40+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-07T03:45:33.227408+01:00.jpg">October 7 at 3:45 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-06T15:15:03.153744+01:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-03T10:19:39.094505+01:00.jpg">October 3 at 10:19 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-03T03:29:46.526407+01:00.jpg">
-  <img src="https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-03T03:29:46.526407+01:00.jpg"
-     alt="Oldie at 2022-10-03 03:29:55+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-03T03:29:46.526407+01:00.jpg">October 3 at 3:29 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 148 hyperlink lists with the Internet Archive.
+The archiving routine has saved 149 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 7 at 3:45 AM](https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-07T03:45:33.227408+01:00.hyperlinks.json) |
 | [October 6 at 3:15 PM](https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-06T15:15:03.153744+01:00.hyperlinks.json) |
 | [October 6 at 10:21 AM](https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-06T10:21:38.836383+01:00.hyperlinks.json) |
 | [October 6 at 3:36 AM](https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-06T03:35:52.604950+01:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 4 at 3:15 PM](https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-04T15:15:41.238526+01:00.hyperlinks.json) |
 | [October 4 at 10:26 AM](https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-04T10:26:14.032700+01:00.hyperlinks.json) |
 | [October 4 at 3:27 AM](https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-04T03:27:44.055702+01:00.hyperlinks.json) |
-| [October 3 at 3:07 PM](https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-03T15:06:52.177676+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 148 accessibility trees with the Internet Archive.
+The archiving routine has saved 149 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 7 at 3:45 AM](https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-07T03:45:33.227408+01:00.accessibility.json) |
 | [October 6 at 3:15 PM](https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-06T15:15:03.153744+01:00.accessibility.json) |
 | [October 6 at 10:21 AM](https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-06T10:21:38.836383+01:00.accessibility.json) |
 | [October 6 at 3:36 AM](https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-06T03:35:52.604950+01:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 4 at 3:15 PM](https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-04T15:15:41.238526+01:00.accessibility.json) |
 | [October 4 at 10:26 AM](https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-04T10:26:14.032700+01:00.accessibility.json) |
 | [October 4 at 3:27 AM](https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-04T03:27:44.055702+01:00.accessibility.json) |
-| [October 3 at 3:07 PM](https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-03T15:06:52.177676+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 148 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 149 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 7 at 3:45 AM](https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-07T03:45:33.227408+01:00.lighthouse.json) |
 | [October 6 at 3:15 PM](https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-06T15:15:03.153744+01:00.lighthouse.json) |
 | [October 6 at 10:22 AM](https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-06T10:21:38.836383+01:00.lighthouse.json) |
 | [October 6 at 3:36 AM](https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-06T03:35:52.604950+01:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 4 at 3:15 PM](https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-04T15:15:41.238526+01:00.lighthouse.json) |
 | [October 4 at 10:26 AM](https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-04T10:26:14.032700+01:00.lighthouse.json) |
 | [October 4 at 3:27 AM](https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-04T03:27:44.055702+01:00.lighthouse.json) |
-| [October 3 at 3:07 PM](https://archive.org/download/oldiemagazine-2022/oldiemagazine-2022-10-03T15:06:52.177676+01:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 32 screenshots with the Internet Archive.
+The archiving routine has saved 34 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-06T21:35:56.759522-04:00.jpg">
+  <img src="https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-06T21:35:56.759522-04:00.jpg"
+     alt="hollandsentinel.com at 2022-10-06 21:35:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-06T21:35:56.759522-04:00.jpg">October 6 at 9:35 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-06T08:59:39.236354-04:00.jpg">
+  <img src="https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-06T08:59:39.236354-04:00.jpg"
+     alt="hollandsentinel.com at 2022-10-06 08:59:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-06T08:59:39.236354-04:00.jpg">October 6 at 8:59 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-05T21:25:18.508255-04:00.jpg">
   <img src="https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-05T21:25:18.508255-04:00.jpg"
      alt="hollandsentinel.com at 2022-10-05 21:25:20-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-01T08:52:56.040950-04:00.jpg">October 1 at 8:52 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-09-30T21:30:38.924226-04:00.jpg">
-  <img src="https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-09-30T21:30:38.924226-04:00.jpg"
-     alt="hollandsentinel.com at 2022-09-30 21:30:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-09-30T21:30:38.924226-04:00.jpg">September 30 at 9:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-09-30T09:02:01.585816-04:00.jpg">
-  <img src="https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-09-30T09:02:01.585816-04:00.jpg"
-     alt="hollandsentinel.com at 2022-09-30 09:02:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-09-30T09:02:01.585816-04:00.jpg">September 30 at 9:02 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 32 hyperlink lists with the Internet Archive.
+The archiving routine has saved 34 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 6 at 9:36 PM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-06T21:35:56.759522-04:00.hyperlinks.json) |
+| [October 6 at 8:59 AM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-06T08:59:39.236354-04:00.hyperlinks.json) |
 | [October 5 at 9:25 PM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-05T21:25:18.508255-04:00.hyperlinks.json) |
 | [October 5 at 9:10 AM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-05T09:10:08.222208-04:00.hyperlinks.json) |
 | [October 4 at 9:26 PM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-04T21:26:01.305429-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 3 at 8:55 AM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-03T08:55:27.467525-04:00.hyperlinks.json) |
 | [October 2 at 9:12 PM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-02T21:12:43.911028-04:00.hyperlinks.json) |
 | [October 2 at 8:55 AM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-02T08:55:48.973670-04:00.hyperlinks.json) |
-| [October 1 at 9:24 PM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-01T21:24:41.493709-04:00.hyperlinks.json) |
-| [October 1 at 8:53 AM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-01T08:52:56.040950-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 32 accessibility trees with the Internet Archive.
+The archiving routine has saved 34 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 6 at 9:36 PM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-06T21:35:56.759522-04:00.accessibility.json) |
+| [October 6 at 8:59 AM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-06T08:59:39.236354-04:00.accessibility.json) |
 | [October 5 at 9:25 PM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-05T21:25:18.508255-04:00.accessibility.json) |
 | [October 5 at 9:10 AM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-05T09:10:08.222208-04:00.accessibility.json) |
 | [October 4 at 9:26 PM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-04T21:26:01.305429-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 3 at 8:55 AM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-03T08:55:27.467525-04:00.accessibility.json) |
 | [October 2 at 9:12 PM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-02T21:12:43.911028-04:00.accessibility.json) |
 | [October 2 at 8:55 AM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-02T08:55:48.973670-04:00.accessibility.json) |
-| [October 1 at 9:24 PM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-01T21:24:41.493709-04:00.accessibility.json) |
-| [October 1 at 8:52 AM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-01T08:52:56.040950-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 6 at 9:36 PM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-06T21:35:56.759522-04:00.lighthouse.json) |
+| [October 6 at 8:59 AM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-06T08:59:39.236354-04:00.lighthouse.json) |
 | [October 5 at 9:25 PM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-05T21:25:18.508255-04:00.lighthouse.json) |
 | [October 5 at 9:10 AM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-05T09:10:08.222208-04:00.lighthouse.json) |
 | [October 4 at 9:26 PM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-04T21:26:01.305429-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 3 at 8:55 AM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-03T08:55:27.467525-04:00.lighthouse.json) |
 | [October 2 at 9:12 PM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-02T21:12:43.911028-04:00.lighthouse.json) |
 | [October 2 at 8:55 AM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-02T08:55:48.973670-04:00.lighthouse.json) |
-| [October 1 at 9:24 PM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-01T21:24:41.493709-04:00.lighthouse.json) |
-| [October 1 at 8:53 AM](https://archive.org/download/hollandsentinel-2022/hollandsentinel-2022-10-01T08:52:56.040950-04:00.lighthouse.json) |
 
 
 
