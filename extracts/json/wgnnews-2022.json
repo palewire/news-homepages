@@ -1,5 +1,5 @@
 {
-  "created": 1665165372,
+  "created": 1665165481,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/18/items/wgnnews-2022",
@@ -12517,21 +12517,32 @@
       "format": "JSON"
     },
     {
+      "name": "wgnnews-2022-10-07T12:54:43.929966-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wgnnews-2022-10-07T12:54:43.929966-05:00.jpg",
+      "mtime": "1665165410",
+      "size": "10726",
+      "md5": "5b939a5a5ea8bf7c2aa7f1cf94a2610a",
+      "crc32": "95c7393c",
+      "sha1": "ae3df3257e5f9b7cbfc7c3c59c1fe8de8f27ee08"
+    },
+    {
       "name": "wgnnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ea00b3e367b61ae2e230c82907f6fa7e42105d9f",
-      "mtime": "1665165359",
-      "size": "256158",
-      "md5": "7cb9996c7ab46911c0db06504bd686ef",
-      "crc32": "f17c10d0",
-      "sha1": "f2f8aa1ea70ca796f3f4069910c20eefa4c360e6",
+      "btih": "c1eebb8350b3865c2ae10502cd0d3be7b8bf88f2",
+      "mtime": "1665165460",
+      "size": "256362",
+      "md5": "0329ccca3039ef89023bdee334bed03c",
+      "crc32": "c19316ad",
+      "sha1": "11ec1762e464eaf231fc55193b9e328ce4866cf3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wgnnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cca493f51871d23d24dc795c396e08cd",
+      "md5": "dddd919354dfb137b0d8f1d2a12beee6",
       "summation": "md5"
     },
     {
@@ -12555,9 +12566,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1214,
-  "item_last_updated": 1665165359,
-  "item_size": 111680052,
+  "files_count": 1215,
+  "item_last_updated": 1665165460,
+  "item_size": 111690982,
   "metadata": {
     "identifier": "wgnnews-2022",
     "collection": [
@@ -12574,21 +12585,10 @@
     "publicdate": "2022-07-28 16:13:07",
     "addeddate": "2022-07-28 16:13:07"
   },
-  "pending_tasks": true,
-  "server": "ia601400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3432741709,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 461670061,
+  "server": "ia801400.us.archive.org",
+  "uniq": 117723905,
   "workable_servers": [
+    "ia801400.us.archive.org",
     "ia601400.us.archive.org"
   ]
 }
