@@ -1,5 +1,5 @@
 {
-  "created": 1665117685,
+  "created": 1665165345,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/23/items/walbnews10-2022",
@@ -9382,31 +9382,93 @@
       "sha1": "19170be85efcd04e3db9e781a5a9e1db2edeacb5"
     },
     {
+      "name": "walbnews10-2022-10-07T12:32:24.457367-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665160360",
+      "size": "34871",
+      "md5": "f6d02bc2740c0ba396aab3bc58c2a4db",
+      "crc32": "cb41148c",
+      "sha1": "91fa9911b5430f88266615591991df9a00407ae7",
+      "format": "JSON"
+    },
+    {
+      "name": "walbnews10-2022-10-07T12:32:24.457367-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665160362",
+      "size": "21378",
+      "md5": "08e90430def7ffdd5c0a732a9f129b70",
+      "crc32": "e348281f",
+      "sha1": "f236012a0eb8c217ab3fa98affa7449fea86cf5d",
+      "format": "JSON"
+    },
+    {
+      "name": "walbnews10-2022-10-07T12:32:24.457367-04:00.jpg",
+      "source": "original",
+      "mtime": "1665160353",
+      "size": "371668",
+      "md5": "bd051beaab4fb4f27f14bbad9d4a862a",
+      "crc32": "858a0eaa",
+      "sha1": "d04f3f364803098d879417178552329d3d216b76",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "walbnews10-2022-10-07T12:32:24.457367-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665160364",
+      "size": "1441",
+      "md5": "d10d12f5f80382319043e06ccef9688d",
+      "crc32": "89c15238",
+      "sha1": "2959a029b6cc9c34b532e9f36870ff4d34dfcf25",
+      "format": "JSON"
+    },
+    {
+      "name": "walbnews10-2022-10-07T12:32:24.457367-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665160366",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "walbnews10-2022-10-07T12:32:24.457367-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "walbnews10-2022-10-07T12:32:24.457367-04:00.jpg",
+      "mtime": "1665160457",
+      "size": "10925",
+      "md5": "5c44fdbb9e9dfd7574c9ac1dcf8d5c5c",
+      "crc32": "a9ac6c06",
+      "sha1": "5f540d115733385533dfc2b87923be8f514b026f"
+    },
+    {
       "name": "walbnews10-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ae0f39f5677f9f5411c0ad95cf36fd6157bba3e1",
-      "mtime": "1665117670",
-      "size": "194353",
-      "md5": "923b4028d977f81cc38c3eed24cda7d8",
-      "crc32": "20f69e5d",
-      "sha1": "227398f5e590ce37b3f4557eb6004fdfacceb928",
+      "btih": "90e7cacb93d96746f037c75012ccfdd0c42d6924",
+      "mtime": "1665160480",
+      "size": "195631",
+      "md5": "dd9a58d0efa4d484fc072ff81b3d5b18",
+      "crc32": "689ece56",
+      "sha1": "8f56c70b9ec142d22ec1858e6b9cb1d0d6f3a6e2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "walbnews10-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "73289e060cc8d3e32ba21d8a1a761802",
+      "md5": "80000cc74def62580b893cfb2f7def5e",
       "summation": "md5"
     },
     {
       "name": "walbnews10-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665117575",
-      "size": "1155072",
-      "md5": "5a6492092c8316a5fc355bf1ec69c41f",
-      "crc32": "eee6836c",
-      "sha1": "43b7ea8e6bec743393df193ef5f9ba31fef76aba",
+      "mtime": "1665160377",
+      "size": "1167360",
+      "md5": "75a1fda4daf681543fe487da00f1f2a3",
+      "crc32": "a188309f",
+      "sha1": "20e97555b9acc8230ca43c32b192476ddece2cc6",
       "format": "Metadata"
     },
     {
@@ -9420,9 +9482,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 910,
-  "item_last_updated": 1665117670,
-  "item_size": 73528456,
+  "files_count": 916,
+  "item_last_updated": 1665160480,
+  "item_size": 73982507,
   "metadata": {
     "identifier": "walbnews10-2022",
     "collection": [
@@ -9439,10 +9501,15 @@
     "publicdate": "2022-07-20 23:31:52",
     "addeddate": "2022-07-20 23:31:52"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 226268622,
+  "server": "ia801409.us.archive.org",
+  "uniq": 1305074676,
+  "walbnews10-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }

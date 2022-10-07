@@ -1,5 +1,13 @@
 {
-  "created": 1665148051,
+  "business-2022": {
+    "url": "https://www.bloomberg.com/",
+    "job_id": "spn2-9c6c2b8653747c0ab113d51d54f99674ce079478",
+    "resources": [],
+    "status": "error",
+    "message": "Job failed.",
+    "status_ext": "error:job-failed"
+  },
+  "created": 1665165638,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/22/items/business-2022",
@@ -23186,31 +23194,93 @@
       "sha1": "5a292a473d7897ea5d39e9cdad17789b495c4d18"
     },
     {
+      "name": "business-2022-10-07T12:32:32.016643-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665160355",
+      "size": "1816",
+      "md5": "1d2ebc2fb8959738ebb83b629352c76c",
+      "crc32": "b7da629a",
+      "sha1": "428eca8b75c27ef455e58c7c850d19bbb6f60458",
+      "format": "JSON"
+    },
+    {
+      "name": "business-2022-10-07T12:32:32.016643-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665160358",
+      "size": "44659",
+      "md5": "2e02f24c725f86152ea54d6c86d18c9f",
+      "crc32": "1cd8065b",
+      "sha1": "e19503f5c9d82fad7d2fd40e1eae6b1b96cf2d55",
+      "format": "JSON"
+    },
+    {
+      "name": "business-2022-10-07T12:32:32.016643-04:00.jpg",
+      "source": "original",
+      "mtime": "1665160353",
+      "size": "347026",
+      "md5": "a7292e22bc41f2278ef6c37dbcb41b74",
+      "crc32": "93a27cff",
+      "sha1": "caa372c24dd84f805ba760991b3ec0f26fa6ddd1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "business-2022-10-07T12:32:32.016643-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665160360",
+      "size": "1742",
+      "md5": "16f431bfd32761f5414a3dd5dd9fc47a",
+      "crc32": "bc9636d3",
+      "sha1": "88347ab0e5bcee3f152216a58d05251d0583fe04",
+      "format": "JSON"
+    },
+    {
+      "name": "business-2022-10-07T12:32:32.016643-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665160361",
+      "size": "206",
+      "md5": "d69fee6a024856944f9eaaf5aaa7f07c",
+      "crc32": "b604f95c",
+      "sha1": "b6b7e382b8d6a5a3a908ebe8fddcd2f7cb8366c3",
+      "format": "JSON"
+    },
+    {
+      "name": "business-2022-10-07T12:32:32.016643-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "business-2022-10-07T12:32:32.016643-04:00.jpg",
+      "mtime": "1665160514",
+      "size": "10348",
+      "md5": "d50a2ec1b7d6823c3c48b7a39a11893e",
+      "crc32": "c5718bb5",
+      "sha1": "5677bd981d0d4b68863ea08bc0c57aef0061394f"
+    },
+    {
       "name": "business-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b7b5087752c88c4f3f2aaa63faec717106e1ef24",
-      "mtime": "1665148020",
-      "size": "471290",
-      "md5": "e27a48197651c770ff7bb5683461cc24",
-      "crc32": "1e516fd2",
-      "sha1": "6426a432d9e581f9509df1d8c5dfc93f6fcb362e",
+      "btih": "db294e8963cc1e0e21fdb5b0e26df4df7955e81a",
+      "mtime": "1665160636",
+      "size": "472555",
+      "md5": "40aa701cae230d0b18f08a9a9debf6e9",
+      "crc32": "69e00536",
+      "sha1": "b9ea2d20691935f8bc7568174bf54fcca88f81e1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "business-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "255b2234c22dee2dfa3c8baa8186a5f7",
+      "md5": "e3858ee94844d73250ec680eda797d0a",
       "summation": "md5"
     },
     {
       "name": "business-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665147844",
-      "size": "2777088",
-      "md5": "d13f673963586e48769eed52da9fadca",
-      "crc32": "44bdf927",
-      "sha1": "70732b11263e2a8b5f1f684178e9ae0929c284aa",
+      "mtime": "1665160371",
+      "size": "2781184",
+      "md5": "b550e73c2387a6ee476b3f2255947e5e",
+      "crc32": "ef9d31a3",
+      "sha1": "82ef137a09fcb539636c46b7cd7eb91b9a45ca94",
       "format": "Metadata"
     },
     {
@@ -23224,9 +23294,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2238,
-  "item_last_updated": 1665148020,
-  "item_size": 168603497,
+  "files_count": 2244,
+  "item_last_updated": 1665160636,
+  "item_size": 169014655,
   "metadata": {
     "identifier": "business-2022",
     "collection": [
@@ -23244,7 +23314,7 @@
     "addeddate": "2022-06-19 23:23:29"
   },
   "server": "ia601405.us.archive.org",
-  "uniq": 1581479944,
+  "uniq": 2136072149,
   "workable_servers": [
     "ia601405.us.archive.org",
     "ia801405.us.archive.org"
