@@ -1,5 +1,5 @@
 {
-  "created": 1665123156,
+  "created": 1665134859,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/13/items/heraldscotland-2022",
@@ -13382,31 +13382,93 @@
       "sha1": "1245ae27af46747c74af0373300e6e21651e1da6"
     },
     {
+      "name": "heraldscotland-2022-10-07T10:25:02.529058+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665134706",
+      "size": "31649",
+      "md5": "8392fa4c801be9ae95b382ea02bed2a3",
+      "crc32": "a8873574",
+      "sha1": "e3e13a5bba12a5f8a0b2fe3e92f5293607ae8764",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldscotland-2022-10-07T10:25:02.529058+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665134708",
+      "size": "48531",
+      "md5": "e21e73234e017a9bd678897bdfe528d3",
+      "crc32": "1431cd5d",
+      "sha1": "12c9b4115456a4e62768a6bdc9ef24391ee8dbb5",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldscotland-2022-10-07T10:25:02.529058+01:00.jpg",
+      "source": "original",
+      "mtime": "1665134704",
+      "size": "263594",
+      "md5": "a6a775078e643b074456036fa8cd72f7",
+      "crc32": "22fd6cb8",
+      "sha1": "75475ca3efc4b54eedd7aab9e92f96b8daaee1fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "heraldscotland-2022-10-07T10:25:02.529058+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665134710",
+      "size": "1531",
+      "md5": "730cb0d197e50e6ae7e96f6520528bc0",
+      "crc32": "4c81c75a",
+      "sha1": "0929b3228bbc7646a5004ee08021da69707ff462",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldscotland-2022-10-07T10:25:02.529058+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1665134711",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldscotland-2022-10-07T10:25:02.529058+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "heraldscotland-2022-10-07T10:25:02.529058+01:00.jpg",
+      "mtime": "1665134798",
+      "size": "9939",
+      "md5": "99120cf76f2acf86035178e499a23aa9",
+      "crc32": "f3fde8f2",
+      "sha1": "07ff58a8c4477dcc7b383b14472b278784fa6ea7"
+    },
+    {
       "name": "heraldscotland-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6d9047769b640dfa50e519e0b9a3fbc991aabf0f",
-      "mtime": "1665123138",
-      "size": "280909",
-      "md5": "7cdb38e8228d0b724f4c14511bbf2728",
-      "crc32": "115d7004",
-      "sha1": "28de55ef92ed8a6e74cd2e0aab2cd6383b6c5762",
+      "btih": "225f200ab745ced61505291cc43f113d69776de5",
+      "mtime": "1665134815",
+      "size": "282210",
+      "md5": "4abadf48a802002a582d144c440113e5",
+      "crc32": "a3a77488",
+      "sha1": "ef35b577e176f9d7e2c477c472365d6bf72a6d3e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "heraldscotland-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d1ebd54bdb87299ba49b364aa78dccde",
+      "md5": "831e81d33067c652ebec3724bf6a0639",
       "summation": "md5"
     },
     {
       "name": "heraldscotland-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665123006",
-      "size": "1638400",
-      "md5": "e484ebaa8fb5e7a4650ddff3b7fa07a5",
-      "crc32": "7cb69e9c",
-      "sha1": "f6dde995dd7e406e5fbc66e7ff93e11189bf99c3",
+      "mtime": "1665134721",
+      "size": "1642496",
+      "md5": "9cd3fa5d9937c40e69435e1055abce0e",
+      "crc32": "2fc76a8e",
+      "sha1": "4ac71b09c0ee657ab81239f9f6a29bc2d8325f72",
       "format": "Metadata"
     },
     {
@@ -13420,9 +13482,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1295,
-  "item_last_updated": 1665123138,
-  "item_size": 94456119,
+  "files_count": 1301,
+  "item_last_updated": 1665134815,
+  "item_size": 94816962,
   "metadata": {
     "identifier": "heraldscotland-2022",
     "collection": [
@@ -13440,7 +13502,7 @@
     "addeddate": "2022-07-06 21:13:21"
   },
   "server": "ia601406.us.archive.org",
-  "uniq": 911733926,
+  "uniq": 1237088527,
   "workable_servers": [
     "ia601406.us.archive.org",
     "ia801406.us.archive.org"

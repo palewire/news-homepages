@@ -1,5 +1,5 @@
 {
-  "created": 1665124238,
+  "created": 1665134803,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/27/items/newscientist-2022",
@@ -13744,31 +13744,93 @@
       "sha1": "a7a1cf9e1875f2179387ae24a9e1477befdefdbd"
     },
     {
+      "name": "newscientist-2022-10-07T10:24:57.264582+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665134701",
+      "size": "18075",
+      "md5": "a1b452179fc0198bc1ea8ea1384f6511",
+      "crc32": "46f07fef",
+      "sha1": "5824a80e77304e30af9072323d1d564f71c835c0",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-10-07T10:24:57.264582+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665134703",
+      "size": "14715",
+      "md5": "364c4d1ff198eb2887bf131de1f69df5",
+      "crc32": "3927a900",
+      "sha1": "2d2786a10d07ff57e26c42b755b61adcc6eada80",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-10-07T10:24:57.264582+01:00.jpg",
+      "source": "original",
+      "mtime": "1665134699",
+      "size": "310561",
+      "md5": "91245c1907b14470633fd8a9028fd761",
+      "crc32": "9b287f1b",
+      "sha1": "7fd689be2ecd605a5a2a54d673c119a7a814cdb4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newscientist-2022-10-07T10:24:57.264582+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665134705",
+      "size": "1513",
+      "md5": "d13ac654a962d2d3f0479dce38b8dc71",
+      "crc32": "132be493",
+      "sha1": "917c0f28b14ae46548da2c3a2effc6fabb471c06",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-10-07T10:24:57.264582+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1665134707",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-10-07T10:24:57.264582+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newscientist-2022-10-07T10:24:57.264582+01:00.jpg",
+      "mtime": "1665134775",
+      "size": "10537",
+      "md5": "d8371ac7037e3a80799add261efab4c4",
+      "crc32": "5ba0cc21",
+      "sha1": "c77e0d6734d04465fdcb7a84e9a18f279e690c82"
+    },
+    {
       "name": "newscientist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8595c84ffd7662d262c221e3fe75fdbea3838727",
-      "mtime": "1665124231",
-      "size": "285642",
-      "md5": "0cb894c272cf25c56d354bbb1a3c186e",
-      "crc32": "e06c3a5d",
-      "sha1": "c5329cbdc0e8a0f393e04db9f5d962660d43f996",
+      "btih": "94c97063fc6bcecc460c9b61fb60e665e30f5dfb",
+      "mtime": "1665134795",
+      "size": "286932",
+      "md5": "e6daea3417ef173fecb94ed2b88ff9c1",
+      "crc32": "053fb632",
+      "sha1": "3fd1ac0165648046205673d551c874c1c5200e00",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newscientist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b4ca75ab3ab53c0bbdb7a4decb615768",
+      "md5": "84a8a8a4a40a3de8788184ad0781272f",
       "summation": "md5"
     },
     {
       "name": "newscientist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665123950",
-      "size": "1675264",
-      "md5": "96c10738ea5953736c57ef61e50bdd8c",
-      "crc32": "06d772b2",
-      "sha1": "ef538e0245bb1d777b566f7b558d1bf63358ae44",
+      "mtime": "1665134710",
+      "size": "1683456",
+      "md5": "ac962a81c621b2078357afef6784be6c",
+      "crc32": "9ac7322b",
+      "sha1": "b51c1642e4092bc91ff1a53c711234025d215e1c",
       "format": "Metadata"
     },
     {
@@ -13782,9 +13844,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1330,
-  "item_last_updated": 1665124231,
-  "item_size": 87017338,
+  "files_count": 1336,
+  "item_last_updated": 1665134795,
+  "item_size": 87382423,
   "metadata": {
     "identifier": "newscientist-2022",
     "collection": [
@@ -13801,10 +13863,10 @@
     "publicdate": "2022-07-04 21:49:18",
     "addeddate": "2022-07-04 21:49:18"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 659211046,
+  "server": "ia902503.us.archive.org",
+  "uniq": 1346119970,
   "workable_servers": [
-    "ia802503.us.archive.org",
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }
