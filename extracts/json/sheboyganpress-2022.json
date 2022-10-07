@@ -1,5 +1,5 @@
 {
-  "created": 1665068758,
+  "created": 1665120486,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/7/items/sheboyganpress-2022",
@@ -1978,31 +1978,93 @@
       "sha1": "04ff475c448cea6cef761af876461d8d7ff48961"
     },
     {
+      "name": "sheboyganpress-2022-10-06T23:23:54.848810-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665116640",
+      "size": "23462",
+      "md5": "1cc800f27ee3f1501350140837a42703",
+      "crc32": "3f0a5bef",
+      "sha1": "83c552979ec96cd8c73bbf8b7f00811d66e30269",
+      "format": "JSON"
+    },
+    {
+      "name": "sheboyganpress-2022-10-06T23:23:54.848810-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665116642",
+      "size": "36834",
+      "md5": "4d83ef47e42d131291de15e7ab0e0d29",
+      "crc32": "f815fbab",
+      "sha1": "b059cd1d131162c114d2fc28868a7c8f8fb2c701",
+      "format": "JSON"
+    },
+    {
+      "name": "sheboyganpress-2022-10-06T23:23:54.848810-05:00.jpg",
+      "source": "original",
+      "mtime": "1665116638",
+      "size": "292761",
+      "md5": "865bfde78b232db4f76382ee3029e24a",
+      "crc32": "46cff8e7",
+      "sha1": "7f7bb30e79c0d0b74e35bb0195b35640a92d2da5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sheboyganpress-2022-10-06T23:23:54.848810-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665116644",
+      "size": "1531",
+      "md5": "122c2b30bceb2891c1c4b108e09fdb8a",
+      "crc32": "ee13d16e",
+      "sha1": "7db12917b0095a651f19368d4e4ed936ee5de8ac",
+      "format": "JSON"
+    },
+    {
+      "name": "sheboyganpress-2022-10-06T23:23:54.848810-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665116645",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "sheboyganpress-2022-10-06T23:23:54.848810-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sheboyganpress-2022-10-06T23:23:54.848810-05:00.jpg",
+      "mtime": "1665116821",
+      "size": "9216",
+      "md5": "77f4215064aa17445f2ac5795c0798a9",
+      "crc32": "265d6f82",
+      "sha1": "3be69788e5352d44b0e5c9f2ae7fcf8e12c714c6"
+    },
+    {
       "name": "sheboyganpress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "94f28c8aa0b85285ce08e35f5dbe351fc04735ff",
-      "mtime": "1665068752",
-      "size": "42869",
-      "md5": "02bc7b30a410b50127ac5bbb2fc95701",
-      "crc32": "61b69479",
-      "sha1": "dc551e8e1a6965356eeca70bb3e0b829f6ff18e9",
+      "btih": "e2f59f228529dd80e0b0015ec3770bf4370a7914",
+      "mtime": "1665116824",
+      "size": "44170",
+      "md5": "7043d89a46503c1c9e49281b6f222cf4",
+      "crc32": "5663a38c",
+      "sha1": "9eeeada1506d8166df1dea5ca179f5260113b916",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sheboyganpress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9e1610e1ede5d688fd9223e6e51e6d64",
+      "md5": "28cd1e4a5f39c9c9291404914e8e46e3",
       "summation": "md5"
     },
     {
       "name": "sheboyganpress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665068699",
-      "size": "266240",
-      "md5": "17d45cfd64ce663b31eba41d055f6dfd",
-      "crc32": "fad460e2",
-      "sha1": "4de09570375bb7a2d8697b023ceb00acf0e57d17",
+      "mtime": "1665116648",
+      "size": "274432",
+      "md5": "26c44bd8cb2cb952ef2220c3b711f601",
+      "crc32": "085e9358",
+      "sha1": "b035efbe067912042933999831d9796f5bde0a02",
       "format": "Metadata"
     },
     {
@@ -2016,9 +2078,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 195,
-  "item_last_updated": 1665068752,
-  "item_size": 14457586,
+  "files_count": 201,
+  "item_last_updated": 1665116824,
+  "item_size": 14831085,
   "metadata": {
     "identifier": "sheboyganpress-2022",
     "collection": [
@@ -2036,7 +2098,12 @@
     "addeddate": "2022-09-21 03:42:57"
   },
   "server": "ia801401.us.archive.org",
-  "uniq": 56744058,
+  "sheboyganpress-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 2010838214,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1665069205,
+  "created": 1665120638,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/29/items/theweek-2022",
@@ -5938,31 +5938,93 @@
       "sha1": "7ceeb3a86e65563075aff9c185fbdb44b9192822"
     },
     {
+      "name": "theweek-2022-10-07T00:29:05.435169-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665116951",
+      "size": "30974",
+      "md5": "193822ef0df7ea50ccf0b4b6fa26678b",
+      "crc32": "75a09c53",
+      "sha1": "7868eee56d89a53d506f6e858d1f8fbb7b2c8778",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-07T00:29:05.435169-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665116953",
+      "size": "15347",
+      "md5": "5de3b587d9a4b35d8d4164bcc4dc68a2",
+      "crc32": "9319b52f",
+      "sha1": "39aa9360a26e732571a7788002eb82005da57d4e",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-07T00:29:05.435169-04:00.jpg",
+      "source": "original",
+      "mtime": "1665116949",
+      "size": "319325",
+      "md5": "4f0f01bb1647d56075a49fe5695e1cf7",
+      "crc32": "9f5da85c",
+      "sha1": "9bdd34c27f7086ca2bbe35d35651f9ed8751d997",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theweek-2022-10-07T00:29:05.435169-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665116955",
+      "size": "1432",
+      "md5": "156447c93797484df738ce23f64e4bb0",
+      "crc32": "617ad1f6",
+      "sha1": "871e67cf88068cbfaa90c39cdbcbf8d64a882e12",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-07T00:29:05.435169-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665116957",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-07T00:29:05.435169-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theweek-2022-10-07T00:29:05.435169-04:00.jpg",
+      "mtime": "1665117017",
+      "size": "10837",
+      "md5": "c48b566bd6493170da6750e077a756e5",
+      "crc32": "cb9ec4e9",
+      "sha1": "29bf5b22e7ea6ba83719b1d9f105faffe7168ad7"
+    },
+    {
       "name": "theweek-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4f57c1e9dc12f9954711ffce9da5d860d0ae4dad",
-      "mtime": "1665069188",
-      "size": "121482",
-      "md5": "f334b696708a331f8f2e8cc4bf5825bf",
-      "crc32": "c07bd356",
-      "sha1": "f1a3b2b36981b90f19673cce3afe18209a065f23",
+      "btih": "af4b710bca89d31e2de9538698f76edcece0431b",
+      "mtime": "1665117025",
+      "size": "122722",
+      "md5": "0028df7f4d1cea47aa7e3f14011ef258",
+      "crc32": "df3248eb",
+      "sha1": "60db5c5d5baecff05f8e28e50b07f877c2fdf077",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theweek-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "19567a5f007384b6e97ca5e598a1ee6b",
+      "md5": "4b4f24fdc19b7f0a4ffe25f16f0e3812",
       "summation": "md5"
     },
     {
       "name": "theweek-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665069108",
-      "size": "741376",
-      "md5": "bf503b64ed46251ecf87bf032e2c6cd1",
-      "crc32": "f9782967",
-      "sha1": "8c5ea1b223634e5102136177820de12b6ee90edb",
+      "mtime": "1665116962",
+      "size": "749568",
+      "md5": "f1a140961b8e4976d455cc028ba900bf",
+      "crc32": "1f9edea0",
+      "sha1": "3b59899609694cb64daa725415f38c05d81ad8ed",
       "format": "Metadata"
     },
     {
@@ -5976,9 +6038,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 578,
-  "item_last_updated": 1665069188,
-  "item_size": 35272850,
+  "files_count": 584,
+  "item_last_updated": 1665117025,
+  "item_size": 35660399,
   "metadata": {
     "identifier": "theweek-2022",
     "collection": [
@@ -5996,7 +6058,12 @@
     "addeddate": "2022-08-19 01:22:20"
   },
   "server": "ia801404.us.archive.org",
-  "uniq": 944488280,
+  "theweek-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 542282344,
   "workable_servers": [
     "ia801404.us.archive.org",
     "ia601404.us.archive.org"

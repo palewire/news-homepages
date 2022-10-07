@@ -1,5 +1,5 @@
 {
-  "created": 1665072578,
+  "created": 1665117105,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/24/items/timesrecord-2022",
@@ -2000,31 +2000,93 @@
       "sha1": "f2c5f2336e64e33dbfb9089fa5ebd77a13d5505a"
     },
     {
+      "name": "timesrecord-2022-10-06T23:30:19.340986-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665117022",
+      "size": "23492",
+      "md5": "a705b63f48592b409257653e72758e3a",
+      "crc32": "ca430018",
+      "sha1": "f9ad5289e99a5948f0ff0f376eab7abb77767db6",
+      "format": "JSON"
+    },
+    {
+      "name": "timesrecord-2022-10-06T23:30:19.340986-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665117024",
+      "size": "32849",
+      "md5": "7e475ca1d9161a39993e1507cfc19ddd",
+      "crc32": "319145c9",
+      "sha1": "8f1f1222d17ddaa5bdc539628af86a805f541767",
+      "format": "JSON"
+    },
+    {
+      "name": "timesrecord-2022-10-06T23:30:19.340986-05:00.jpg",
+      "source": "original",
+      "mtime": "1665117021",
+      "size": "211342",
+      "md5": "23ab7755921dcb57d8cd9fad17ffff87",
+      "crc32": "2e832359",
+      "sha1": "82d9f58d6e033bdeb2a1cf03cf53ea9813d6c275",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "timesrecord-2022-10-06T23:30:19.340986-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665117025",
+      "size": "1468",
+      "md5": "e63a0723d1c8dcdca664fea1e4fbe16d",
+      "crc32": "ec93b783",
+      "sha1": "9effb3edeab59f35d35f387cd4bc5371195314c8",
+      "format": "JSON"
+    },
+    {
+      "name": "timesrecord-2022-10-06T23:30:19.340986-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665117026",
+      "size": "101935",
+      "md5": "cf440470bb44f97a62e83bd02d8eed4e",
+      "crc32": "12a25875",
+      "sha1": "3dd962a0e3aec28f09ff4f1ff559086e4b7bfc34",
+      "format": "JSON"
+    },
+    {
+      "name": "timesrecord-2022-10-06T23:30:19.340986-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timesrecord-2022-10-06T23:30:19.340986-05:00.jpg",
+      "mtime": "1665117087",
+      "size": "8989",
+      "md5": "91ba16d6d3cc3bbb20a0afbd2eb56bfc",
+      "crc32": "28742f99",
+      "sha1": "f353b4cc863448f9b9e7da60cb326b07af162bc2"
+    },
+    {
       "name": "timesrecord-2022_archive.torrent",
       "source": "metadata",
-      "btih": "51004b81252649015edd066a9c22ef751fcbe139",
-      "mtime": "1665069088",
-      "size": "42589",
-      "md5": "38936f1f51cf9559038b0c95f9ee9d55",
-      "crc32": "e73a90a6",
-      "sha1": "f02ec69cc34028aa35db766a0c6460be186979e1",
+      "btih": "3723b41cc7f3d6b9e65fb82d8beb81c93c875fce",
+      "mtime": "1665117093",
+      "size": "43855",
+      "md5": "83f950ebce0cf0e3150d52d771532ad6",
+      "crc32": "4485215c",
+      "sha1": "01520312c164fb4c41d2beb0767e9da2a311f22f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesrecord-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f9ded8fe4ee7f3ac0ce020dc22f715d9",
+      "md5": "648e8c70dbf786c8c8332fd97a30e48d",
       "summation": "md5"
     },
     {
       "name": "timesrecord-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665069032",
-      "size": "270336",
-      "md5": "88f1f71c473ace23c28485620f918eb7",
-      "crc32": "5f76af08",
-      "sha1": "9e32c30957a45acbaece7cd15e754054f820c966",
+      "mtime": "1665117033",
+      "size": "274432",
+      "md5": "978dd93a5b426a4d57e8cfdece5c04f0",
+      "crc32": "3e59134b",
+      "sha1": "ab0735ce6ba643c7b33a4228fb15ba54e798bb2b",
       "format": "Metadata"
     },
     {
@@ -2038,9 +2100,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 197,
-  "item_last_updated": 1665069088,
-  "item_size": 12692506,
+  "files_count": 203,
+  "item_last_updated": 1665117093,
+  "item_size": 13077943,
   "metadata": {
     "identifier": "timesrecord-2022",
     "collection": [
@@ -2057,15 +2119,10 @@
     "publicdate": "2022-09-21 03:46:49",
     "addeddate": "2022-09-21 03:46:49"
   },
-  "server": "ia601508.us.archive.org",
-  "timesrecord-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "uniq": 1123732603,
+  "server": "ia801508.us.archive.org",
+  "uniq": 2082364038,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia801508.us.archive.org",
+    "ia601508.us.archive.org"
   ]
 }
