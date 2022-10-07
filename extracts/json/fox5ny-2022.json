@@ -1,5 +1,5 @@
 {
-  "created": 1665036160,
+  "created": 1665167236,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/19/items/fox5ny-2022",
@@ -5318,31 +5318,217 @@
       "sha1": "571a4e5ab3f4b82e3e9b112bdeaf7cda94762357"
     },
     {
+      "name": "fox5ny-2022-10-06T14:02:04.439053-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665079331",
+      "size": "41876",
+      "md5": "1e6c0fca8ada5fc641b589fbfd7a0c8b",
+      "crc32": "7bf1e451",
+      "sha1": "9a402bb7d4fe57ee2e6d1c7e433f5f758cd17814",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-10-06T14:02:04.439053-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665079332",
+      "size": "32960",
+      "md5": "dc702c5d67b243b4f732b77782bc813e",
+      "crc32": "6776b13c",
+      "sha1": "d923862b7680401ff7dae939da1d6c385ca18961",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-10-06T14:02:04.439053-04:00.jpg",
+      "source": "original",
+      "mtime": "1665079329",
+      "size": "317309",
+      "md5": "7113411f99849a450ff4187b892aa2a1",
+      "crc32": "2953deb1",
+      "sha1": "922a1801a916ef2e2cb93581c016c6ef78c146a5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox5ny-2022-10-06T14:02:04.439053-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665079335",
+      "size": "1459",
+      "md5": "df033cde968b852fc42227c323e86193",
+      "crc32": "58cf7c1b",
+      "sha1": "f6289ec21a2ae7310e0564cea62d1f31c7873579",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-10-06T14:02:04.439053-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665079337",
+      "size": "203",
+      "md5": "5de1b4df2027d54ffe11aa505e3b73ea",
+      "crc32": "e735f395",
+      "sha1": "f963a812dd92da9fdf2c8a2a7998f0b61031ca0c",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-10-06T14:02:04.439053-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox5ny-2022-10-06T14:02:04.439053-04:00.jpg",
+      "mtime": "1665079652",
+      "size": "10702",
+      "md5": "6f6d75d007ed46e3673de90be5e67bc7",
+      "crc32": "99e4886b",
+      "sha1": "9de06f49d95459bee4a53600d2b01ff04dd013fd"
+    },
+    {
+      "name": "fox5ny-2022-10-07T03:42:02.513578-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665128528",
+      "size": "42489",
+      "md5": "418499bb5676d3a4477b7900f0d9bf1d",
+      "crc32": "d352fa5b",
+      "sha1": "b46fb907c07a9b2ed9cb12b49abf8f53eeb3dc15",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-10-07T03:42:02.513578-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665128530",
+      "size": "32210",
+      "md5": "da9256f9a6099838aeeb74d7a8e0043f",
+      "crc32": "5fd1682c",
+      "sha1": "1f97a7f3c24019b13bca4a281c9c817a86c9a219",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-10-07T03:42:02.513578-04:00.jpg",
+      "source": "original",
+      "mtime": "1665128526",
+      "size": "334462",
+      "md5": "920f142c5ca680bffb0e5e0e3b1dff3d",
+      "crc32": "cd3025c7",
+      "sha1": "0a33d3381cd5ecee97fd0b5f167eec28797c9d2d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox5ny-2022-10-07T03:42:02.513578-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665128532",
+      "size": "1458",
+      "md5": "6c99fdf1eb06df6d174ce4eba2fd2b0e",
+      "crc32": "1fbe222d",
+      "sha1": "0af7704ed88470872a5f93ee65e11fcb6380d9f4",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-10-07T03:42:02.513578-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665128534",
+      "size": "203",
+      "md5": "3a8dc79692206d735511fbf63144f7ff",
+      "crc32": "4b08292c",
+      "sha1": "48fb28f10457005f7447c2c4a5d277d778e2ee87",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-10-07T03:42:02.513578-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox5ny-2022-10-07T03:42:02.513578-04:00.jpg",
+      "mtime": "1665128583",
+      "size": "10781",
+      "md5": "8b262dda7b35b6f70f08850c4322da1a",
+      "crc32": "d51ce077",
+      "sha1": "e785f368229a8532aec8e2389a66de03e88c653c"
+    },
+    {
+      "name": "fox5ny-2022-10-07T14:19:49.620397-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665166802",
+      "size": "41641",
+      "md5": "4131894d68620259ad26a3bab13087af",
+      "crc32": "31fff467",
+      "sha1": "afa2823c7ed1e9775bc69843193f388a9f484579",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-10-07T14:19:49.620397-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665166813",
+      "size": "32283",
+      "md5": "f5dcc03b5e33e037ccccd66e596e2763",
+      "crc32": "dc8cdeda",
+      "sha1": "716279f7672162dff32a5fc8b35e127226186ffc",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-10-07T14:19:49.620397-04:00.jpg",
+      "source": "original",
+      "mtime": "1665166793",
+      "size": "316092",
+      "md5": "24446e6461354b4228851438ef5066a1",
+      "crc32": "dfb75ae5",
+      "sha1": "9c88d98634531c05e805a6390e7979e5f73bc6c8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox5ny-2022-10-07T14:19:49.620397-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665166823",
+      "size": "1459",
+      "md5": "ce5299c25b930c2351afb53655ff0484",
+      "crc32": "04a1068e",
+      "sha1": "5b96cecdf8d5d6b1cbc43341f822aa2e814d338e",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-10-07T14:19:49.620397-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665166833",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-10-07T14:19:49.620397-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox5ny-2022-10-07T14:19:49.620397-04:00.jpg",
+      "mtime": "1665167211",
+      "size": "10627",
+      "md5": "2a39a6cbcf1488ae20f578e807108f1a",
+      "crc32": "291ebafe",
+      "sha1": "1403225f5d7bb4c48de5c9ca51c6561c169e880d"
+    },
+    {
       "name": "fox5ny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f7fa906fa5683287af7903b23ee6f75e097e72f8",
-      "mtime": "1665036122",
-      "size": "108776",
-      "md5": "fb7b96300b7dba275fedd38317859f4a",
-      "crc32": "5cb6ff01",
-      "sha1": "7f322da12adaf76c114af513003e9eed442ed51f",
+      "btih": "420b94ae27bbc59c38aa38d49d9afdd187764cac",
+      "mtime": "1665167218",
+      "size": "112538",
+      "md5": "428ac458772b2ae8b449fea8a6f23f65",
+      "crc32": "76699479",
+      "sha1": "3d6809f144f215260cf6d7f601d4010987ec57bd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fox5ny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "39e09f152a026b61af13d5c405b4bf6e",
+      "md5": "4af2e1a7083430c0b946646c4ee981b3",
       "summation": "md5"
     },
     {
       "name": "fox5ny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665036039",
-      "size": "667648",
-      "md5": "e332a99bde0b0f3aee950ac3e2f284e3",
-      "crc32": "6aafb343",
-      "sha1": "cda789f936a295db583b67eb15e14fa83d9cc88d",
+      "mtime": "1665167037",
+      "size": "692224",
+      "md5": "b2a71ed12b4fc07400526d6008450b7b",
+      "crc32": "1a565949",
+      "sha1": "7ca6b466a358e2a548500de0a8a01eaf222a0ecb",
       "format": "Metadata"
     },
     {
@@ -5356,9 +5542,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 518,
-  "item_last_updated": 1665036122,
-  "item_size": 40989720,
+  "files_count": 536,
+  "item_last_updated": 1665167218,
+  "item_size": 42246474,
   "metadata": {
     "identifier": "fox5ny-2022",
     "collection": [
@@ -5376,7 +5562,7 @@
     "addeddate": "2022-08-23 14:52:06"
   },
   "server": "ia801406.us.archive.org",
-  "uniq": 930020390,
+  "uniq": 24083598,
   "workable_servers": [
     "ia801406.us.archive.org",
     "ia601406.us.archive.org"
