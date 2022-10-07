@@ -1,5 +1,5 @@
 {
-  "created": 1665110635,
+  "created": 1665152280,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/32/items/nettavisen-2022",
@@ -9412,31 +9412,93 @@
       "sha1": "d023fdcac49f967635c71ee9533634461eb4ef66"
     },
     {
+      "name": "nettavisen-2022-10-07T16:13:59.847687+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665152048",
+      "size": "8136",
+      "md5": "5198165b326b768f08fedeb8ee9150a4",
+      "crc32": "ae84a723",
+      "sha1": "7d6e4237d905b044634d3d7fe0224efc33a14fad",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-07T16:13:59.847687+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665152049",
+      "size": "84970",
+      "md5": "61e03f6a763a8141d15cb331a417c787",
+      "crc32": "3943438d",
+      "sha1": "42c23fa144785f49b25447a9df8a136340e9b92b",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-07T16:13:59.847687+02:00.jpg",
+      "source": "original",
+      "mtime": "1665152046",
+      "size": "246953",
+      "md5": "ec02b3407fb40364f4aef19e7c04b227",
+      "crc32": "230600b0",
+      "sha1": "cd1d92a5b7196a440b55d4fe75b1eb9e8c04971b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nettavisen-2022-10-07T16:13:59.847687+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665152051",
+      "size": "1486",
+      "md5": "4c131acd9f6f2e7ded781c1b61f9be5a",
+      "crc32": "a1fe2fd1",
+      "sha1": "39766a688992118a5dc8709f83052e8424a6b619",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-07T16:13:59.847687+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665152053",
+      "size": "206",
+      "md5": "ca308738ac481e1c4f403e4da3df9a6e",
+      "crc32": "6b3471bb",
+      "sha1": "e13ad38a8563db5a4de0ded566b1a0ffb485d06f",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-07T16:13:59.847687+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nettavisen-2022-10-07T16:13:59.847687+02:00.jpg",
+      "mtime": "1665152231",
+      "size": "9994",
+      "md5": "301616f9cafb2b8c66d5259d541871ca",
+      "crc32": "5896f36d",
+      "sha1": "108bbbac659555b1b062b77de56ace7a7d35087d"
+    },
+    {
       "name": "nettavisen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a100443d14f7c3ff0620f0b510071b4f89c71434",
-      "mtime": "1665110622",
-      "size": "194655",
-      "md5": "ccf2615aac9264b06d7ca9fc930ce4e3",
-      "crc32": "452657ba",
-      "sha1": "9a6ad2193e075b5e0c280d443484482f446b850b",
+      "btih": "2c7a44d96fd2b2c7a122a5f8e73c7a6275400c21",
+      "mtime": "1665152245",
+      "size": "195931",
+      "md5": "806201fab5e8135b7dc4a34cf3dc30c9",
+      "crc32": "a8831aa0",
+      "sha1": "f042f179ab74a32409ad9d4a02d31639eddc66ff",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nettavisen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "11a86dd70e66842d295776ac811b86d1",
+      "md5": "25c7b44a9eef0d2704c7872ebd9b4834",
       "summation": "md5"
     },
     {
       "name": "nettavisen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665110551",
-      "size": "1159168",
-      "md5": "c6cf7406a32a63a8dd9a41b53f3a8cc4",
-      "crc32": "62db3145",
-      "sha1": "0dc27e5b2871182e285df1971f285a849f3aaf1f",
+      "mtime": "1665152060",
+      "size": "1171456",
+      "md5": "c88c8729c4c97898510c02353bc0293c",
+      "crc32": "2e642b82",
+      "sha1": "0d66b93aa43083c729e2d421589ab2429d3f5294",
       "format": "Metadata"
     },
     {
@@ -9450,9 +9512,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 913,
-  "item_last_updated": 1665110622,
-  "item_size": 64578986,
+  "files_count": 919,
+  "item_last_updated": 1665152245,
+  "item_size": 64944295,
   "metadata": {
     "identifier": "nettavisen-2022",
     "collection": [
@@ -9469,10 +9531,10 @@
     "publicdate": "2022-07-20 11:37:15",
     "addeddate": "2022-07-20 11:37:15"
   },
-  "server": "ia801503.us.archive.org",
-  "uniq": 1620140691,
+  "server": "ia601503.us.archive.org",
+  "uniq": 755181915,
   "workable_servers": [
-    "ia801503.us.archive.org",
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }

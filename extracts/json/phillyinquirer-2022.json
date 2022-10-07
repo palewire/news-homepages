@@ -1,5 +1,5 @@
 {
-  "created": 1665110849,
+  "created": 1665152276,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/22/items/phillyinquirer-2022",
@@ -10990,31 +10990,93 @@
       "sha1": "fee5038a0d5717017dd60349c7064bf7240e459d"
     },
     {
+      "name": "phillyinquirer-2022-10-07T10:16:05.345341-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665152168",
+      "size": "17377",
+      "md5": "a48c4a009f0a6149933569e783f0db6c",
+      "crc32": "a372d91a",
+      "sha1": "5f9408b854d8f47ce6fd916adacb2d9f5c0186a9",
+      "format": "JSON"
+    },
+    {
+      "name": "phillyinquirer-2022-10-07T10:16:05.345341-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665152169",
+      "size": "11606",
+      "md5": "76178c02c4a9b58df6525be37cb299da",
+      "crc32": "766e592a",
+      "sha1": "b3f55bdf51f79882539bf045b93b33dbdb8a7f9c",
+      "format": "JSON"
+    },
+    {
+      "name": "phillyinquirer-2022-10-07T10:16:05.345341-04:00.jpg",
+      "source": "original",
+      "mtime": "1665152166",
+      "size": "329258",
+      "md5": "f58964ac1a66edb2578104a67a1da37d",
+      "crc32": "e50a0739",
+      "sha1": "6c2e1942a758c334181a9ad647f0c057d6d5c196",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "phillyinquirer-2022-10-07T10:16:05.345341-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665152171",
+      "size": "1477",
+      "md5": "6eb1e23952bf1806e5389dc87f8b9810",
+      "crc32": "ecb58d96",
+      "sha1": "3cf59c897b6435e2ac8c8457060972c93517d3b9",
+      "format": "JSON"
+    },
+    {
+      "name": "phillyinquirer-2022-10-07T10:16:05.345341-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665152172",
+      "size": "205",
+      "md5": "0a9300ab748c96b6c53d8b7a7df6cf31",
+      "crc32": "26d2ce16",
+      "sha1": "44fe7417a8a5deabcafd999ed93aa368cc8fc833",
+      "format": "JSON"
+    },
+    {
+      "name": "phillyinquirer-2022-10-07T10:16:05.345341-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "phillyinquirer-2022-10-07T10:16:05.345341-04:00.jpg",
+      "mtime": "1665152242",
+      "size": "10170",
+      "md5": "cb90b347758234793c1bfcf87070ee04",
+      "crc32": "7ac7e00d",
+      "sha1": "8b625ce4d20c6bf341c52e6a55784d7acdb3f937"
+    },
+    {
       "name": "phillyinquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0364bf8097c038dc436f9b743df1b8d673d1d283",
-      "mtime": "1665110832",
-      "size": "231168",
-      "md5": "d56b0f4a90da82abef5c19d145add8af",
-      "crc32": "dca2eeea",
-      "sha1": "6f902cbca4e8a719e2fac8db6b5fd72f718aba10",
+      "btih": "9065053446f08f29745a8d419a316b6a39747287",
+      "mtime": "1665152253",
+      "size": "232470",
+      "md5": "61a11775a8d2254067e24447690ed959",
+      "crc32": "427b2bcd",
+      "sha1": "1799e1e5042edb426313fcc9995fdc5c2fc2c2ef",
       "format": "Archive BitTorrent"
     },
     {
       "name": "phillyinquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "284f46cea439f9ae41aef3548f2b5819",
+      "md5": "71f8233d91c12f8a528897d458bc0fc6",
       "summation": "md5"
     },
     {
       "name": "phillyinquirer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665110747",
-      "size": "1335296",
-      "md5": "3c37c283c3d8811514193b800a670559",
-      "crc32": "5ffef716",
-      "sha1": "e620d1f87694e1143923e75f87b81f498cf5a356",
+      "mtime": "1665152180",
+      "size": "1347584",
+      "md5": "33d0a31f345524db41ef5954392c4830",
+      "crc32": "619a7b16",
+      "sha1": "8741c884a76c0ed760e3d0a67e03eb3ddf3d22ac",
       "format": "Metadata"
     },
     {
@@ -11028,9 +11090,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1063,
-  "item_last_updated": 1665110832,
-  "item_size": 87637709,
+  "files_count": 1069,
+  "item_last_updated": 1665152253,
+  "item_size": 88021392,
   "metadata": {
     "identifier": "phillyinquirer-2022",
     "collection": [
@@ -11048,7 +11110,7 @@
     "addeddate": "2022-07-03 15:52:44"
   },
   "server": "ia801505.us.archive.org",
-  "uniq": 1436261024,
+  "uniq": 1714626374,
   "workable_servers": [
     "ia801505.us.archive.org",
     "ia601505.us.archive.org"

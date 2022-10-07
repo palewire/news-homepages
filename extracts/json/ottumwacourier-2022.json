@@ -1,5 +1,5 @@
 {
-  "created": 1665110895,
+  "created": 1665152386,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/4/items/ottumwacourier-2022",
@@ -13172,31 +13172,93 @@
       "sha1": "31900df52934227372e063c252cb648b709255a7"
     },
     {
+      "name": "ottumwacourier-2022-10-07T09:16:41.645121-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665152221",
+      "size": "51156",
+      "md5": "c534de1f1a94b38c46148b8f1c6a062b",
+      "crc32": "4e61ca73",
+      "sha1": "5b60bef3e0c408984bc25feae9a6696f1199f353",
+      "format": "JSON"
+    },
+    {
+      "name": "ottumwacourier-2022-10-07T09:16:41.645121-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665152223",
+      "size": "76585",
+      "md5": "f211a5a0b87d73c4710fed1e3719e60f",
+      "crc32": "45817ad0",
+      "sha1": "28cec9d8525bc84e23ab860d7c6ef4754f09ef34",
+      "format": "JSON"
+    },
+    {
+      "name": "ottumwacourier-2022-10-07T09:16:41.645121-05:00.jpg",
+      "source": "original",
+      "mtime": "1665152220",
+      "size": "343424",
+      "md5": "e08a6b85f9a8de245502a491410a291a",
+      "crc32": "cbde766f",
+      "sha1": "db6ac49c717306a54f0cd106f28f210f2c70cfd1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ottumwacourier-2022-10-07T09:16:41.645121-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665152224",
+      "size": "1531",
+      "md5": "4ce08ca05d53ef9f74fe61a71866aacc",
+      "crc32": "b1ff0292",
+      "sha1": "1d07474786ff120b237bacfa852efcae1ca4903d",
+      "format": "JSON"
+    },
+    {
+      "name": "ottumwacourier-2022-10-07T09:16:41.645121-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665152226",
+      "size": "211",
+      "md5": "87c06f03431a8319849c59b7602df4b4",
+      "crc32": "e4c3c965",
+      "sha1": "bd1531ee14de52fe5bcd7faa6dae091671e37a0d",
+      "format": "JSON"
+    },
+    {
+      "name": "ottumwacourier-2022-10-07T09:16:41.645121-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ottumwacourier-2022-10-07T09:16:41.645121-05:00.jpg",
+      "mtime": "1665152357",
+      "size": "10471",
+      "md5": "217254fa6097e74662672dd1a694cf81",
+      "crc32": "2c4cb991",
+      "sha1": "f4ea2957dcd2d26d3602e92f1f1ad5f68377f7d5"
+    },
+    {
       "name": "ottumwacourier-2022_archive.torrent",
       "source": "metadata",
-      "btih": "32e557378a953b563c41fdf8169e9d32700fc1f1",
-      "mtime": "1665110868",
-      "size": "275801",
-      "md5": "711326f49de9db4ca773154cdce606de",
-      "crc32": "2838c0a6",
-      "sha1": "e9f3fced52c8b0bdd195ced527b0826c8328712f",
+      "btih": "bbe247e42c2ebd91d2f66530c507e744fed9f6c5",
+      "mtime": "1665152378",
+      "size": "277103",
+      "md5": "4805cc2a62c78fb4813e1a9541bc2373",
+      "crc32": "89495db0",
+      "sha1": "d84d90d8013fa57306a1bb6a4c1d0b21592a035f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ottumwacourier-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c4476d90e40de8e9b8cdbca6e03c200d",
+      "md5": "f994d0ccc2d5fb227b306db6c9b564f3",
       "summation": "md5"
     },
     {
       "name": "ottumwacourier-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665110761",
-      "size": "1552384",
-      "md5": "92dfafa607606918560712405c472a30",
-      "crc32": "b65667db",
-      "sha1": "30c31a9f68290cffe11310879511583571b3452d",
+      "mtime": "1665152231",
+      "size": "1556480",
+      "md5": "045778e55362f6e7a82bed74df192ebf",
+      "crc32": "becca226",
+      "sha1": "149e6d04d1d4a3d3090d45c71eace4a09d1ec2be",
       "format": "Metadata"
     },
     {
@@ -13210,9 +13272,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1268,
-  "item_last_updated": 1665110868,
-  "item_size": 126355347,
+  "files_count": 1274,
+  "item_last_updated": 1665152378,
+  "item_size": 126844123,
   "metadata": {
     "identifier": "ottumwacourier-2022",
     "collection": [
@@ -13230,7 +13292,7 @@
     "addeddate": "2022-06-24 22:59:27"
   },
   "server": "ia802509.us.archive.org",
-  "uniq": 1731944884,
+  "uniq": 1198942568,
   "workable_servers": [
     "ia802509.us.archive.org",
     "ia902509.us.archive.org"

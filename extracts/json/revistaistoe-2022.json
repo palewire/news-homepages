@@ -1,5 +1,5 @@
 {
-  "created": 1665111125,
+  "created": 1665152684,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/16/items/revistaistoe-2022",
@@ -11376,31 +11376,93 @@
       "sha1": "85bc196dfab8cc8e0abe582576fc38bcb34c419d"
     },
     {
+      "name": "revistaistoe-2022-10-07T11:18:46.572783-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665152332",
+      "size": "19133",
+      "md5": "160f82777c8b25114ed203b65055c322",
+      "crc32": "4fb781d0",
+      "sha1": "d260749eba7a4d5f1b6315120ae51fbd1b68ac04",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-10-07T11:18:46.572783-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665152333",
+      "size": "21199",
+      "md5": "47ad8e0208b690285bb08d4e4c0fa12b",
+      "crc32": "09a1e509",
+      "sha1": "7e75e30ad27a81e625e63a19b233fe42248b62ff",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-10-07T11:18:46.572783-03:00.jpg",
+      "source": "original",
+      "mtime": "1665152330",
+      "size": "329654",
+      "md5": "547e63aff58c8c6b82deb955d33cda08",
+      "crc32": "b16aa279",
+      "sha1": "3b664e0237429b04a0d2d7347c65d908c1625a5f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "revistaistoe-2022-10-07T11:18:46.572783-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665152335",
+      "size": "1439",
+      "md5": "552204a3b18c8710f18aabb390d2ea79",
+      "crc32": "fcd4afe7",
+      "sha1": "997ac078b573093ede2b278154d5d466c16b43f5",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-10-07T11:18:46.572783-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665152336",
+      "size": "30198",
+      "md5": "302a78ad9a64ad8c2e9dd91ec915276a",
+      "crc32": "c48d315a",
+      "sha1": "1d6df688f743e6982fa3f275e3b1219f5160eff1",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-10-07T11:18:46.572783-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "revistaistoe-2022-10-07T11:18:46.572783-03:00.jpg",
+      "mtime": "1665152443",
+      "size": "10236",
+      "md5": "e045a432d7306c173d37c540c5657300",
+      "crc32": "82582ba1",
+      "sha1": "84df9fa52865ee1f4f1e8a5bcf2785b792413c37"
+    },
+    {
       "name": "revistaistoe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6b3e79eeb33bfb6db49119a8b7bf714981e0a30d",
-      "mtime": "1665111108",
-      "size": "237049",
-      "md5": "176615f9df1bf57b08bfdc32a850a4ce",
-      "crc32": "b6e372f8",
-      "sha1": "40c408c0d232ae7eaea98dced8731554151d5260",
+      "btih": "d0daa34011876d85754a66674df6f36820eea4fd",
+      "mtime": "1665152528",
+      "size": "238341",
+      "md5": "4595eb2dc8f047767210589cf9ca87fe",
+      "crc32": "3d5edbed",
+      "sha1": "cd14779b7c0068e9572987b649728fb606ced2d1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "revistaistoe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "197e275e8fd7fc06651d6c742e2cb2e1",
+      "md5": "64c8a8b8b6e8e826c0d16383057033b1",
       "summation": "md5"
     },
     {
       "name": "revistaistoe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665110977",
-      "size": "1417216",
-      "md5": "ffa640032848d1277cdeb884cb8198b5",
-      "crc32": "a79782f2",
-      "sha1": "0f3e0b9a6db61d7b0b55bff05d278f28d826f59e",
+      "mtime": "1665152344",
+      "size": "1425408",
+      "md5": "779fd55a4ec96a43014d2d14d1432b7c",
+      "crc32": "1266b211",
+      "sha1": "f362c6d11d6b422d292972a7ff6752be21a69913",
       "format": "Metadata"
     },
     {
@@ -11414,9 +11476,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1104,
-  "item_last_updated": 1665111108,
-  "item_size": 69362963,
+  "files_count": 1110,
+  "item_last_updated": 1665152528,
+  "item_size": 69784306,
   "metadata": {
     "identifier": "revistaistoe-2022",
     "collection": [
@@ -11433,10 +11495,10 @@
     "publicdate": "2022-08-03 00:43:13",
     "addeddate": "2022-08-03 00:43:13"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 1851388268,
+  "server": "ia601403.us.archive.org",
+  "uniq": 1489285,
   "workable_servers": [
-    "ia801403.us.archive.org",
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

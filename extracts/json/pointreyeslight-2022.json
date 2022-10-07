@@ -1,5 +1,5 @@
 {
-  "created": 1665110861,
+  "created": 1665152440,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/26/items/pointreyeslight-2022",
@@ -11902,31 +11902,93 @@
       "sha1": "d41f459e051b51b367784df0c5ec3693877df6bc"
     },
     {
+      "name": "pointreyeslight-2022-10-07T07:15:53.680129-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665152157",
+      "size": "1063",
+      "md5": "be3debdf3094bf397ed713027dc26219",
+      "crc32": "36406e81",
+      "sha1": "e4435c0c27ef46d47b57fbcc014a87da188b91dd",
+      "format": "JSON"
+    },
+    {
+      "name": "pointreyeslight-2022-10-07T07:15:53.680129-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665152159",
+      "size": "5854",
+      "md5": "0762cc6b4082ade8051594d79c7d12e9",
+      "crc32": "11a85bee",
+      "sha1": "8f387bb0fa126f2566b4b6249952bcc86e73b1a9",
+      "format": "JSON"
+    },
+    {
+      "name": "pointreyeslight-2022-10-07T07:15:53.680129-07:00.jpg",
+      "source": "original",
+      "mtime": "1665152155",
+      "size": "241219",
+      "md5": "b037e8d1dfa5cf5a456e00e944bba27a",
+      "crc32": "82819be2",
+      "sha1": "3429fddabd5bfd297c92e3f72f996683cd2f21dc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pointreyeslight-2022-10-07T07:15:53.680129-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665152161",
+      "size": "1513",
+      "md5": "94feebecb4c702a5cabb83e2d0edaf4b",
+      "crc32": "8a501e30",
+      "sha1": "8e31329e639c1613735632cd786bc4a8f72a971c",
+      "format": "JSON"
+    },
+    {
+      "name": "pointreyeslight-2022-10-07T07:15:53.680129-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665152163",
+      "size": "209",
+      "md5": "0575872dfc887a4de8eea3b922f37b8e",
+      "crc32": "26bdb4ea",
+      "sha1": "77221719555857ff31ebdbf0b78c7111dc94099c",
+      "format": "JSON"
+    },
+    {
+      "name": "pointreyeslight-2022-10-07T07:15:53.680129-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pointreyeslight-2022-10-07T07:15:53.680129-07:00.jpg",
+      "mtime": "1665152405",
+      "size": "8522",
+      "md5": "5b342b460c19abada0fdc0e44a6c71c1",
+      "crc32": "e25ccca3",
+      "sha1": "2cf911960a4c11928a1084256e187969c4308760"
+    },
+    {
       "name": "pointreyeslight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d2952cb0e109ed493c6cdccf1c081e19e8507088",
-      "mtime": "1665110850",
-      "size": "249086",
-      "md5": "2ee67b8b1d21694d85de2fdf9e19fce5",
-      "crc32": "bd125b9c",
-      "sha1": "0cf4a63210df1270a8761d6118dcc6665913a065",
+      "btih": "f0e4038abdde32fecf104dded50a3229510a4f4d",
+      "mtime": "1665152423",
+      "size": "250391",
+      "md5": "9e2229b8e674c9a76339efed01a1de5d",
+      "crc32": "a5bd6c8d",
+      "sha1": "20272b90607904208551868eb272f73d11005a6c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pointreyeslight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "451b6c4d69845424b3a41f9abe1b094c",
+      "md5": "04eb50f9c3ec05eb48f0218bbdb41c53",
       "summation": "md5"
     },
     {
       "name": "pointreyeslight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665110779",
-      "size": "1441792",
-      "md5": "36ba93bdd6bef15c9c1ba4460439a42c",
-      "crc32": "58042417",
-      "sha1": "dd557f3ba00e644abf4852718d591323e18909f1",
+      "mtime": "1665152168",
+      "size": "1449984",
+      "md5": "3abeae4bd105060d13ab771baf5214a2",
+      "crc32": "d00c9717",
+      "sha1": "b923ad0f4348f6bc5798b877e51a64c097ae6f5e",
       "format": "Metadata"
     },
     {
@@ -11940,9 +12002,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1150,
-  "item_last_updated": 1665110850,
-  "item_size": 60412229,
+  "files_count": 1156,
+  "item_last_updated": 1665152423,
+  "item_size": 60680106,
   "metadata": {
     "identifier": "pointreyeslight-2022",
     "collection": [
@@ -11959,10 +12021,10 @@
     "publicdate": "2022-06-30 20:48:29",
     "addeddate": "2022-06-30 20:48:29"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 142044124,
+  "server": "ia601408.us.archive.org",
+  "uniq": 386369598,
   "workable_servers": [
-    "ia801408.us.archive.org",
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }
