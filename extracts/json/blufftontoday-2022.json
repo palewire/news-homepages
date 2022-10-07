@@ -1,13 +1,10 @@
 {
   "blufftontoday-2022": {
-    "url": "https://www.blufftontoday.com/",
-    "job_id": "spn2-9555139a4ea90ba49e63d04fe02342a518354d72",
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
-    "status_ext": "error:job-failed",
-    "resources": [],
-    "message": "Job failed."
+    "status_ext": "error:user-session-limit"
   },
-  "created": 1665100877,
+  "created": 1665144397,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/29/items/blufftontoday-2022",
@@ -2102,31 +2099,93 @@
       "sha1": "84b4e1e120ff2b1620626683af82833aebfe654a"
     },
     {
+      "name": "blufftontoday-2022-10-07T07:06:06.856474-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665140771",
+      "size": "22770",
+      "md5": "dc4fec9e9de299a6e707c47f13f24765",
+      "crc32": "345c929e",
+      "sha1": "c8b3f249a2592f2423cb037e29dcd1aa2cec96b2",
+      "format": "JSON"
+    },
+    {
+      "name": "blufftontoday-2022-10-07T07:06:06.856474-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665140773",
+      "size": "35899",
+      "md5": "d2a09d15c758725a003326b0fa00313d",
+      "crc32": "dab9cb8e",
+      "sha1": "b9a4a2fac40cab86eaed97fa85fc4787ef885f56",
+      "format": "JSON"
+    },
+    {
+      "name": "blufftontoday-2022-10-07T07:06:06.856474-04:00.jpg",
+      "source": "original",
+      "mtime": "1665140769",
+      "size": "269278",
+      "md5": "6a0cfcd2433439295fa06ead2a7532a3",
+      "crc32": "416eec5f",
+      "sha1": "929e5e35c3e8e602721dce334f449baba1fc5b20",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "blufftontoday-2022-10-07T07:06:06.856474-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665140774",
+      "size": "1522",
+      "md5": "abe65ccb2a39de816554cd255e3bc504",
+      "crc32": "c0405230",
+      "sha1": "f60f3b072298856ad019c621d49beebdeafd8c48",
+      "format": "JSON"
+    },
+    {
+      "name": "blufftontoday-2022-10-07T07:06:06.856474-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665140776",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "blufftontoday-2022-10-07T07:06:06.856474-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "blufftontoday-2022-10-07T07:06:06.856474-04:00.jpg",
+      "mtime": "1665140828",
+      "size": "8982",
+      "md5": "4cc97aaf4abbc665248ed4afd6215b89",
+      "crc32": "e182ce07",
+      "sha1": "135d5c2c7a202ec6ad9e5100474886192a3666b5"
+    },
+    {
       "name": "blufftontoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "00945f2a8d77db1ad9c49c8bd6fec4cff44ae378",
-      "mtime": "1665097453",
-      "size": "44951",
-      "md5": "d74faf22e405437d53db6578ffeae2f1",
-      "crc32": "9c996fee",
-      "sha1": "3e9ff8715abed50619fc54e1ccaf3b31bf085eae",
+      "btih": "fd1540a15423d9d953e8c14a0cef8456f62f25a3",
+      "mtime": "1665140834",
+      "size": "46226",
+      "md5": "5f8a2a4737a9045e3f7fb84db3162c9f",
+      "crc32": "63b35917",
+      "sha1": "df64eec1f9d29a97cba451f33f93c405d947627d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "blufftontoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "26296378e14aaf9fac2ee3b968abefa5",
+      "md5": "1ca91c071c5d39649cc45f9420d70095",
       "summation": "md5"
     },
     {
       "name": "blufftontoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665097405",
-      "size": "278528",
-      "md5": "6bff116c93e0379be85bf99d205f543d",
-      "crc32": "d8f4973b",
-      "sha1": "3d854149180dfc3d3c915070fc93e5fa973801e2",
+      "mtime": "1665140787",
+      "size": "286720",
+      "md5": "7b40accead8c3b765ad9c50e3b24e89f",
+      "crc32": "73474f4f",
+      "sha1": "a3b55ef471d60c512e75df51ef74d67895df84cb",
       "format": "Metadata"
     },
     {
@@ -2140,9 +2199,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 206,
-  "item_last_updated": 1665097453,
-  "item_size": 13784637,
+  "files_count": 212,
+  "item_last_updated": 1665140834,
+  "item_size": 14132757,
   "metadata": {
     "identifier": "blufftontoday-2022",
     "collection": [
@@ -2160,7 +2219,7 @@
     "addeddate": "2022-09-20 22:11:07"
   },
   "server": "ia801408.us.archive.org",
-  "uniq": 1545468686,
+  "uniq": 511521492,
   "workable_servers": [
     "ia801408.us.archive.org",
     "ia601408.us.archive.org"

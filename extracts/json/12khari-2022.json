@@ -1,13 +1,5 @@
 {
-  "12khari-2022": {
-    "url": "https://baahrakhari.com/",
-    "job_id": "spn2-73e7cbc6ce26ccf8ec17c392e1c30b31faf5c67c",
-    "status": "error",
-    "status_ext": "error:job-failed",
-    "resources": [],
-    "message": "Job failed."
-  },
-  "created": 1665100592,
+  "created": 1665140764,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/22/items/12khari-2022",
@@ -9165,31 +9157,93 @@
       "sha1": "664d90350b2a857b1c979f329973788d2ea9c51a"
     },
     {
+      "name": "12khari-2022-10-07T16:48:40.748696+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1665140630",
+      "size": "62507",
+      "md5": "e34149eeed02e375223e10fd625cdd23",
+      "crc32": "513cabb4",
+      "sha1": "a872cad010536984ef1220286639321c87b652f6",
+      "format": "JSON"
+    },
+    {
+      "name": "12khari-2022-10-07T16:48:40.748696+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665140632",
+      "size": "88253",
+      "md5": "e4d4425ea1b3d52906fe1e3219725cd8",
+      "crc32": "d7c49961",
+      "sha1": "8e0440bd9595c69ded465d13d87a2b8eb921823c",
+      "format": "JSON"
+    },
+    {
+      "name": "12khari-2022-10-07T16:48:40.748696+05:45.jpg",
+      "source": "original",
+      "mtime": "1665140629",
+      "size": "286995",
+      "md5": "e0ca2a589e26f0793da360198240a72b",
+      "crc32": "d7bf0302",
+      "sha1": "34c28a8ddc30ffac0d22e5a4c02a89a0d74c90e0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "12khari-2022-10-07T16:48:40.748696+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1665140633",
+      "size": "1468",
+      "md5": "79b91aacecf06f2aa8985c0d2f61d78e",
+      "crc32": "cb9caf3b",
+      "sha1": "b6e34de14e31af6d35c805b0a34ecdf23a4d7477",
+      "format": "JSON"
+    },
+    {
+      "name": "12khari-2022-10-07T16:48:40.748696+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1665140634",
+      "size": "18482",
+      "md5": "f89ee45be76a10443a727103cada0260",
+      "crc32": "220245cf",
+      "sha1": "5db92fdb8310069c089b1d6be7a59e4083562cc2",
+      "format": "JSON"
+    },
+    {
+      "name": "12khari-2022-10-07T16:48:40.748696+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "12khari-2022-10-07T16:48:40.748696+05:45.jpg",
+      "mtime": "1665140733",
+      "size": "10906",
+      "md5": "486a3f843b56b5ed0ff5f02332a8801b",
+      "crc32": "62135fe5",
+      "sha1": "dea6ab93de8ffcc279ef84a7d674a09ce06ca2ea"
+    },
+    {
       "name": "12khari-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ccea1b641c486507ad224eb4950838833ad3d7f4",
-      "mtime": "1665097264",
-      "size": "187245",
-      "md5": "bd9b498009b48ae4f25a320c57f46ca3",
-      "crc32": "f0c39fb8",
-      "sha1": "e8f6b91a0ee04818959bd17be9e41819cf716895",
+      "btih": "6ef99a6aef2bbe52d083be07850fc4994621d524",
+      "mtime": "1665140743",
+      "size": "188507",
+      "md5": "549eada703ab467f9b8f41b0c8779321",
+      "crc32": "b4593f3d",
+      "sha1": "94eaf128bed665b8461d70960f456c321d9e0919",
       "format": "Archive BitTorrent"
     },
     {
       "name": "12khari-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "87070509105214d4e6bc7ca3f229b8c7",
+      "md5": "ab3d5a75b41c46e1d8060a0113ab4d3d",
       "summation": "md5"
     },
     {
       "name": "12khari-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665097184",
-      "size": "1130496",
-      "md5": "9972988d2598e6a2f1cd0e7f6a399ffb",
-      "crc32": "5b7b7839",
-      "sha1": "81a811c0479d9bf65761382b4d6633eaef2372fd",
+      "mtime": "1665140654",
+      "size": "1138688",
+      "md5": "4bc49fdc46c8a02ecebb7cd51b1a7da2",
+      "crc32": "92c4d647",
+      "sha1": "ada2218f294da4b602ed5e8a1a608fbea2189ebc",
       "format": "Metadata"
     },
     {
@@ -9214,9 +9268,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 890,
-  "item_last_updated": 1665097264,
-  "item_size": 65631450,
+  "files_count": 896,
+  "item_last_updated": 1665140743,
+  "item_size": 66109515,
   "metadata": {
     "identifier": "12khari-2022",
     "collection": [
@@ -9234,7 +9288,7 @@
     "addeddate": "2022-07-24 20:36:45"
   },
   "server": "ia601508.us.archive.org",
-  "uniq": 204184828,
+  "uniq": 1749194479,
   "workable_servers": [
     "ia601508.us.archive.org",
     "ia801508.us.archive.org"

@@ -1,5 +1,10 @@
 {
-  "created": 1665097257,
+  "13wmaznews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1665144113,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/8/items/13wmaznews-2022",
@@ -9331,31 +9336,93 @@
       "sha1": "ff0009e503234e2cbc23ecebd8b4764073ea3355"
     },
     {
+      "name": "13wmaznews-2022-10-07T07:03:20.618455-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665140612",
+      "size": "6228",
+      "md5": "0dde06f88ccb7f440df2ad98e6005bc0",
+      "crc32": "6806043e",
+      "sha1": "8964df3d804378935532d4ccda7f9ba9fcb85ad4",
+      "format": "JSON"
+    },
+    {
+      "name": "13wmaznews-2022-10-07T07:03:20.618455-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665140614",
+      "size": "108078",
+      "md5": "669a94420066581769b128505e91e7aa",
+      "crc32": "a34518ca",
+      "sha1": "fae0243d8304cb30d1f86c4adeda47fefeddb383",
+      "format": "JSON"
+    },
+    {
+      "name": "13wmaznews-2022-10-07T07:03:20.618455-04:00.jpg",
+      "source": "original",
+      "mtime": "1665140610",
+      "size": "254193",
+      "md5": "40daca483c8065a52a22cc2eec22fc38",
+      "crc32": "f83672f2",
+      "sha1": "55e256c8a89c0ed494ed4445c4d21e03d03bb460",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "13wmaznews-2022-10-07T07:03:20.618455-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665140616",
+      "size": "1456",
+      "md5": "87b5e67903fa0b08bfe2537107f6b362",
+      "crc32": "c4eebc8a",
+      "sha1": "3330a1ce2c8bc5848a7ae25e88cf92362828150a",
+      "format": "JSON"
+    },
+    {
+      "name": "13wmaznews-2022-10-07T07:03:20.618455-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665140617",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "13wmaznews-2022-10-07T07:03:20.618455-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "13wmaznews-2022-10-07T07:03:20.618455-04:00.jpg",
+      "mtime": "1665140687",
+      "size": "8926",
+      "md5": "82d8e082f4ef15cc3c077b60958ba676",
+      "crc32": "32dc336c",
+      "sha1": "a0d13b2b1bfdb2fdaee92f318afa19804eff19f5"
+    },
+    {
       "name": "13wmaznews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a872e76bd50c699570171f8584bd1443e2ad53f4",
-      "mtime": "1665097251",
-      "size": "192845",
-      "md5": "ba3f9d32cf16eb467379d1e9193a1f6d",
-      "crc32": "dc02ad5f",
-      "sha1": "450dfb13072e5c30c188e4fd07f2a88c29f6e6bd",
+      "btih": "0a55dcfae606c165b084bf69483c5773f10cf296",
+      "mtime": "1665140709",
+      "size": "194122",
+      "md5": "fb25c5b3d95059a6cebf88c2e21124d4",
+      "crc32": "7f8cb18d",
+      "sha1": "fc7c5b1eae1ba0b624e1a0764ecaf4fb47e5fabb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "13wmaznews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d012141e0a19d0d17280b83a1133810d",
+      "md5": "fdb95d5bb4a98ecf4a63f5c2b0973124",
       "summation": "md5"
     },
     {
       "name": "13wmaznews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665097189",
-      "size": "1150976",
-      "md5": "194fe57900255e6f22621786e6450ba2",
-      "crc32": "04645399",
-      "sha1": "156794e0b883c730f23eb1d401000e4bd1646f5e",
+      "mtime": "1665140628",
+      "size": "1159168",
+      "md5": "46cde0ca3343af817dd5cfdee71958e0",
+      "crc32": "a542c743",
+      "sha1": "0862b78e32286f32715d92d1507570134e0b2465",
       "format": "Metadata"
     },
     {
@@ -9380,9 +9447,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 906,
-  "item_last_updated": 1665097251,
-  "item_size": 60871203,
+  "files_count": 912,
+  "item_last_updated": 1665140709,
+  "item_size": 61259755,
   "metadata": {
     "identifier": "13wmaznews-2022",
     "collection": [
@@ -9399,10 +9466,10 @@
     "publicdate": "2022-07-20 23:30:33",
     "addeddate": "2022-07-20 23:30:33"
   },
-  "server": "ia802509.us.archive.org",
-  "uniq": 8092247,
+  "server": "ia902509.us.archive.org",
+  "uniq": 1014121764,
   "workable_servers": [
-    "ia802509.us.archive.org",
-    "ia902509.us.archive.org"
+    "ia902509.us.archive.org",
+    "ia802509.us.archive.org"
   ]
 }

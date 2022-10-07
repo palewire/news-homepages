@@ -1,5 +1,10 @@
 {
-  "created": 1665097450,
+  "baltimorebanner-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1665144344,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/3/items/baltimorebanner-2022",
@@ -13684,31 +13689,93 @@
       "sha1": "07a44fcf9990246c577d84a0b48565e3fa25b34e"
     },
     {
+      "name": "baltimorebanner-2022-10-07T07:06:48.490814-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665140811",
+      "size": "43387",
+      "md5": "df070b0655040f873b04326887239458",
+      "crc32": "d0f950b3",
+      "sha1": "17b88fc06786d9e8c696b567d6642d8d88bd645c",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebanner-2022-10-07T07:06:48.490814-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665140813",
+      "size": "37587",
+      "md5": "935f2f340cc085411deb6c7c0f802df1",
+      "crc32": "bfb3c1e1",
+      "sha1": "99522af41e5e4a79d5fb3f03008322516fae680e",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebanner-2022-10-07T07:06:48.490814-04:00.jpg",
+      "source": "original",
+      "mtime": "1665140809",
+      "size": "268656",
+      "md5": "d575e35b2de3ecda63ab162cc2bfe5bf",
+      "crc32": "ebb847be",
+      "sha1": "783c472c6b102e5cd3c90f639b148ae7029a7d15",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltimorebanner-2022-10-07T07:06:48.490814-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665140814",
+      "size": "1565",
+      "md5": "a60d3429fcd4eb2852d90199cab76bed",
+      "crc32": "116dc2cd",
+      "sha1": "d46d3e08944cd2ec6cb50dd3e60143481ec63bce",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebanner-2022-10-07T07:06:48.490814-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665140815",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebanner-2022-10-07T07:06:48.490814-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltimorebanner-2022-10-07T07:06:48.490814-04:00.jpg",
+      "mtime": "1665140883",
+      "size": "10123",
+      "md5": "cf193b653e9642100e4c0a9d87ee2aca",
+      "crc32": "e243fdf2",
+      "sha1": "58052c2eef59e421c43d7d942686b37682c61734"
+    },
+    {
       "name": "baltimorebanner-2022_archive.torrent",
       "source": "metadata",
-      "btih": "07d3e3e4ede09bf4d9f55a0db06eb2ebde55f3a5",
-      "mtime": "1665097433",
-      "size": "287303",
-      "md5": "3b3d0e602ef8a22bc125cb9934b21fb4",
-      "crc32": "341f9363",
-      "sha1": "ea2506ed5713090e714f17bf55bbb8e42ea2e4eb",
+      "btih": "dcf1731838b9e204141d6855cdf27cb82caef084",
+      "mtime": "1665140899",
+      "size": "288611",
+      "md5": "cd6890718d01b9c3611c7e9673937ade",
+      "crc32": "19ec4efb",
+      "sha1": "1e89ef4bd67943330c139de0fc8656730f9923ca",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltimorebanner-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f188a2f967707f4df49f36dbc4a75642",
+      "md5": "e389f3aa363a388fd84a5bbfb260e16d",
       "summation": "md5"
     },
     {
       "name": "baltimorebanner-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665097349",
-      "size": "1634304",
-      "md5": "62b35eb410f2027eacf0c453248ba89a",
-      "crc32": "b084ac23",
-      "sha1": "d025f10e5bda340eecbbfcaae8e0e89564acf1b2",
+      "mtime": "1665140820",
+      "size": "1646592",
+      "md5": "4082a690f8f02c95c89de4655aeae5ea",
+      "crc32": "d965d721",
+      "sha1": "7cfa89cdf02d08312b80eb87ca90fde28b6b89e8",
       "format": "Metadata"
     },
     {
@@ -13722,9 +13789,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1320,
-  "item_last_updated": 1665097433,
-  "item_size": 90262851,
+  "files_count": 1326,
+  "item_last_updated": 1665140899,
+  "item_size": 90637967,
   "metadata": {
     "identifier": "baltimorebanner-2022",
     "collection": [
@@ -13741,10 +13808,10 @@
     "publicdate": "2022-06-18 17:07:17",
     "addeddate": "2022-06-18 17:07:17"
   },
-  "server": "ia802504.us.archive.org",
-  "uniq": 1504671768,
+  "server": "ia902504.us.archive.org",
+  "uniq": 1028109013,
   "workable_servers": [
-    "ia802504.us.archive.org",
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }

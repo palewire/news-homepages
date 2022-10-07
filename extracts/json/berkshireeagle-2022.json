@@ -1,13 +1,5 @@
 {
-  "berkshireeagle-2022": {
-    "url": "https://www.berkshireeagle.com/",
-    "job_id": "spn2-e0cae9db1b0ea0d3981d135c223185c2e456c225",
-    "resources": [],
-    "status": "error",
-    "message": "Job failed.",
-    "status_ext": "error:job-failed"
-  },
-  "created": 1665100861,
+  "created": 1665140914,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/18/items/berkshireeagle-2022",
@@ -8468,31 +8460,93 @@
       "sha1": "94352d9942a683422b093d188a08ab5b378b6ad8"
     },
     {
+      "name": "berkshireeagle-2022-10-07T07:06:44.072971-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665140825",
+      "size": "69750",
+      "md5": "83c26980adacf785464904a496ab3686",
+      "crc32": "91a3d0f4",
+      "sha1": "8ad8f0d89b27eebac2b97a1406b985d2806280b8",
+      "format": "JSON"
+    },
+    {
+      "name": "berkshireeagle-2022-10-07T07:06:44.072971-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665140827",
+      "size": "112686",
+      "md5": "29597caa9b68a44dc36d870cf8432416",
+      "crc32": "3829c5aa",
+      "sha1": "858d3baeb65e9bcd41c0afcc14191a505dfca980",
+      "format": "JSON"
+    },
+    {
+      "name": "berkshireeagle-2022-10-07T07:06:44.072971-04:00.jpg",
+      "source": "original",
+      "mtime": "1665140824",
+      "size": "388599",
+      "md5": "b6e4bd4577bba672e8441a24f212b02b",
+      "crc32": "dca2c10e",
+      "sha1": "5d1b982c179c49a88f2d4ab29fee5d660542d48e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "berkshireeagle-2022-10-07T07:06:44.072971-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665140828",
+      "size": "1531",
+      "md5": "2124658958a109fc5f4e0924e8b0a195",
+      "crc32": "7ec79aaa",
+      "sha1": "232215de944b32282b07bce51c0de4f99608f69f",
+      "format": "JSON"
+    },
+    {
+      "name": "berkshireeagle-2022-10-07T07:06:44.072971-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665140829",
+      "size": "75226",
+      "md5": "45090e889ed8ad6a3e482a4de4e06316",
+      "crc32": "2cef968e",
+      "sha1": "308a4acc747dfad9218c3dddf34250b2ee2943bf",
+      "format": "JSON"
+    },
+    {
+      "name": "berkshireeagle-2022-10-07T07:06:44.072971-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "berkshireeagle-2022-10-07T07:06:44.072971-04:00.jpg",
+      "mtime": "1665140888",
+      "size": "9095",
+      "md5": "33e6c6634abce974abd9e5d36fea20ce",
+      "crc32": "a140aedb",
+      "sha1": "a96a03202ebad8bce3c834d13f317118a01dc98e"
+    },
+    {
       "name": "berkshireeagle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f8255eb66b867ce216ead3dc4d58ced9a01b1143",
-      "mtime": "1665097702",
-      "size": "179316",
-      "md5": "b24461b57fd38689e5386fe9a771374e",
-      "crc32": "d7444198",
-      "sha1": "5125ca3442b29bd5b0f1051ea81905ce2acbbeac",
+      "btih": "f6f283476b5e68c6975ae18aeb969a1f64e4acd0",
+      "mtime": "1665140904",
+      "size": "180620",
+      "md5": "2920606c3cc487d8576cfced99a5d752",
+      "crc32": "dcb52d13",
+      "sha1": "5fbcd875112fb75a196dc2b2ddaa567e4fa08259",
       "format": "Archive BitTorrent"
     },
     {
       "name": "berkshireeagle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3f63ec6c358166b82412153cd11e158d",
+      "md5": "ab8a59bbab2be11f41afc7cd30fd7ee6",
       "summation": "md5"
     },
     {
       "name": "berkshireeagle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665097276",
-      "size": "1052672",
-      "md5": "40b976777c9c778cf672c382bd7a1067",
-      "crc32": "538fae2f",
-      "sha1": "a3f06c679a604f671e59dc4dbf648b7b6e6dc086",
+      "mtime": "1665140834",
+      "size": "1060864",
+      "md5": "83c4a1d1d0a1565f8564cfc813c92d75",
+      "crc32": "59eac955",
+      "sha1": "f8fcad4d71769bd021f67c6c3955d5b08fd36e60",
       "format": "Metadata"
     },
     {
@@ -8506,9 +8560,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 821,
-  "item_last_updated": 1665097702,
-  "item_size": 83827178,
+  "files_count": 827,
+  "item_last_updated": 1665140904,
+  "item_size": 84493561,
   "metadata": {
     "identifier": "berkshireeagle-2022",
     "collection": [
@@ -8525,10 +8579,10 @@
     "publicdate": "2022-07-28 23:07:44",
     "addeddate": "2022-07-28 23:07:44"
   },
-  "server": "ia902506.us.archive.org",
-  "uniq": 1172589361,
+  "server": "ia802506.us.archive.org",
+  "uniq": 966121543,
   "workable_servers": [
-    "ia902506.us.archive.org",
-    "ia802506.us.archive.org"
+    "ia802506.us.archive.org",
+    "ia902506.us.archive.org"
   ]
 }

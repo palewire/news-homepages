@@ -1,5 +1,10 @@
 {
-  "created": 1665097734,
+  "bmtenterprise-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1665144404,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/27/items/bmtenterprise-2022",
@@ -9226,31 +9231,93 @@
       "sha1": "5a20c88b3be8b7bf869396ae4f5c0c468900356d"
     },
     {
+      "name": "bmtenterprise-2022-10-07T06:05:57.876539-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665140765",
+      "size": "54551",
+      "md5": "0541e5b87efef30c39255d1bcbc192f5",
+      "crc32": "9077c52f",
+      "sha1": "0f2065bce50dd1919a046a8fbfff87f34a58616c",
+      "format": "JSON"
+    },
+    {
+      "name": "bmtenterprise-2022-10-07T06:05:57.876539-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665140766",
+      "size": "60336",
+      "md5": "4d08caf4eeb2aae4b44a26d0a4c4702b",
+      "crc32": "ee877ff2",
+      "sha1": "8b562d09d6507950fa04f18952202d5af2da66f2",
+      "format": "JSON"
+    },
+    {
+      "name": "bmtenterprise-2022-10-07T06:05:57.876539-05:00.jpg",
+      "source": "original",
+      "mtime": "1665140763",
+      "size": "323805",
+      "md5": "2d7c74111cca1b1f56f524fa2ffe440c",
+      "crc32": "926c3353",
+      "sha1": "1360c67669f576973a2e92779471c4a40f83c7fe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bmtenterprise-2022-10-07T06:05:57.876539-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665140768",
+      "size": "1567",
+      "md5": "a466575f2261bc795dd832440c8092b8",
+      "crc32": "356b6341",
+      "sha1": "055f0f3e6accd1ca9242aa999175297e1a7023de",
+      "format": "JSON"
+    },
+    {
+      "name": "bmtenterprise-2022-10-07T06:05:57.876539-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665140770",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "bmtenterprise-2022-10-07T06:05:57.876539-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bmtenterprise-2022-10-07T06:05:57.876539-05:00.jpg",
+      "mtime": "1665140908",
+      "size": "10598",
+      "md5": "e7d3d559a1ccd13e332d810f341dd3a6",
+      "crc32": "732d9bc6",
+      "sha1": "67360c8d5d48275f44a31718be200f10a2c85a9b"
+    },
+    {
       "name": "bmtenterprise-2022_archive.torrent",
       "source": "metadata",
-      "btih": "56a45e3d4e791655a2a6612a2f0f8a3ee110e5b5",
-      "mtime": "1665097621",
-      "size": "193588",
-      "md5": "544b8a785da6692712893bb2a9241b94",
-      "crc32": "7749f8fe",
-      "sha1": "b497bfdbb69a8e3d9cc4dc68255ef39729994659",
+      "btih": "a923a0935a702d7c29a8d746da44169711750525",
+      "mtime": "1665140919",
+      "size": "194864",
+      "md5": "b8402b2eac0bf37ce69c7fd85738baf8",
+      "crc32": "3418ca54",
+      "sha1": "f639f983064668199ad13bc7e740d97ccf64f10f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bmtenterprise-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fc842b51587dcfa3cc9396b5f35322a0",
+      "md5": "0c1393abc13b686562a62c22516c1685",
       "summation": "md5"
     },
     {
       "name": "bmtenterprise-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665097491",
-      "size": "1126400",
-      "md5": "e18361db3f7b2a14071fa540928a1b75",
-      "crc32": "1838c086",
-      "sha1": "b81f86703653d56a88777cc27d61f5da446c7831",
+      "mtime": "1665140801",
+      "size": "1134592",
+      "md5": "a5120df9e58c40d7197d305d8202b02e",
+      "crc32": "8fdf9de8",
+      "sha1": "d71f4d0ab6a0deb7bf1be70bd28bc86dca2ce0b5",
       "format": "Metadata"
     },
     {
@@ -9264,9 +9331,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 893,
-  "item_last_updated": 1665097621,
-  "item_size": 80940523,
+  "files_count": 899,
+  "item_last_updated": 1665140919,
+  "item_size": 81401050,
   "metadata": {
     "identifier": "bmtenterprise-2022",
     "collection": [
@@ -9284,7 +9351,7 @@
     "addeddate": "2022-07-18 00:04:22"
   },
   "server": "ia801404.us.archive.org",
-  "uniq": 1177480239,
+  "uniq": 1567855722,
   "workable_servers": [
     "ia801404.us.archive.org",
     "ia601404.us.archive.org"
