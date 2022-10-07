@@ -1,13 +1,6 @@
 {
-  "business-2022": {
-    "url": "https://www.bloomberg.com/",
-    "job_id": "spn2-9c6c2b8653747c0ab113d51d54f99674ce079478",
-    "resources": [],
-    "status": "error",
-    "message": "Job failed.",
-    "status_ext": "error:job-failed"
-  },
-  "created": 1665165638,
+  "conflict": 1665177846,
+  "created": 1665177846,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/22/items/business-2022",
@@ -23256,31 +23249,88 @@
       "sha1": "5677bd981d0d4b68863ea08bc0c57aef0061394f"
     },
     {
+      "name": "business-2022-10-07T17:20:25.382793-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665177628",
+      "size": "1816",
+      "md5": "c924b93d950e8ce06b0e0c204ed514f8",
+      "crc32": "aaffd573",
+      "sha1": "63dd1699419c70e4f4beb8d926987ec7a9c37c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "business-2022-10-07T17:20:25.382793-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665177630",
+      "size": "46287",
+      "md5": "9623ade7b2ad8187b27ff353cb512371",
+      "crc32": "71f406c9",
+      "sha1": "499628203ff44f8ebfab4dcbade76ef84aad8b4d",
+      "format": "JSON"
+    },
+    {
+      "name": "business-2022-10-07T17:20:25.382793-04:00.jpg",
+      "source": "original",
+      "mtime": "1665177627",
+      "size": "346884",
+      "md5": "aff1a1d6f90d6605aa8dbd10d585929d",
+      "crc32": "43df40d1",
+      "sha1": "c6353d4847de18ad3f13cfc5fdf91d33672fffc6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "business-2022-10-07T17:20:25.382793-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665177632",
+      "size": "1742",
+      "md5": "fe0bf1dd1aad4c08b2020ad55f450554",
+      "crc32": "0bd6329a",
+      "sha1": "8b99f5bbde6196c801dcc4bead7063c23b58a114",
+      "format": "JSON"
+    },
+    {
+      "name": "business-2022-10-07T17:20:25.382793-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665177634",
+      "size": "2250",
+      "md5": "fabf0c11e66938d49c2ea717d64247cc",
+      "crc32": "784480b1",
+      "sha1": "f78c4b152cd78a293579145018c68065cc7b2864",
+      "format": "JSON"
+    },
+    {
+      "name": "business-2022-10-07T17:20:25.382793-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "business-2022-10-07T17:20:25.382793-04:00.jpg"
+    },
+    {
       "name": "business-2022_archive.torrent",
       "source": "metadata",
-      "btih": "db294e8963cc1e0e21fdb5b0e26df4df7955e81a",
-      "mtime": "1665160636",
-      "size": "472555",
-      "md5": "40aa701cae230d0b18f08a9a9debf6e9",
-      "crc32": "69e00536",
-      "sha1": "b9ea2d20691935f8bc7568174bf54fcca88f81e1",
+      "btih": "01361bdb9703815a19d0db806f40b4a26ab148c3",
+      "mtime": "1665177748",
+      "size": "473616",
+      "md5": "a4a50016fe22bfeb1400b0128d613937",
+      "crc32": "b56d36fa",
+      "sha1": "022d0411fb0958afbd5df7339adb1b42be987803",
       "format": "Archive BitTorrent"
     },
     {
       "name": "business-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e3858ee94844d73250ec680eda797d0a",
+      "md5": "a7cbd7875226b5c253ffc9aace7e7900",
       "summation": "md5"
     },
     {
       "name": "business-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665160371",
-      "size": "2781184",
-      "md5": "b550e73c2387a6ee476b3f2255947e5e",
-      "crc32": "ef9d31a3",
-      "sha1": "82ef137a09fcb539636c46b7cd7eb91b9a45ca94",
+      "mtime": "1665177648",
+      "size": "2789376",
+      "md5": "e470d95f8028f6a1dbbb792d79a82770",
+      "crc32": "1121ea66",
+      "sha1": "e20667792d2c492c362d83868d3be4727ec9f893",
       "format": "Metadata"
     },
     {
@@ -23294,9 +23344,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2244,
-  "item_last_updated": 1665160636,
-  "item_size": 169014655,
+  "files_count": 2250,
+  "item_last_updated": 1665177748,
+  "item_size": 169422887,
   "metadata": {
     "identifier": "business-2022",
     "collection": [
@@ -23313,10 +23363,21 @@
     "publicdate": "2022-06-19 23:23:29",
     "addeddate": "2022-06-19 23:23:29"
   },
+  "pending_tasks": true,
   "server": "ia601405.us.archive.org",
-  "uniq": 2136072149,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3432866330,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 179423233,
   "workable_servers": [
-    "ia601405.us.archive.org",
-    "ia801405.us.archive.org"
+    "ia601405.us.archive.org"
   ]
 }
