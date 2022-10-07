@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 32 screenshots with the Internet Archive.
+The archiving routine has saved 35 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/courierpress-2022/courierpress-2022-10-07T13:06:39.838061-05:00.jpg">
+  <img src="https://archive.org/download/courierpress-2022/courierpress-2022-10-07T13:06:39.838061-05:00.jpg"
+     alt="Evansville Courier & Press at 2022-10-07 13:06:42-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/courierpress-2022/courierpress-2022-10-07T13:06:39.838061-05:00.jpg">October 7 at 1:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/courierpress-2022/courierpress-2022-10-07T02:38:11.570049-05:00.jpg">
+  <img src="https://archive.org/download/courierpress-2022/courierpress-2022-10-07T02:38:11.570049-05:00.jpg"
+     alt="Evansville Courier & Press at 2022-10-07 02:38:15-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/courierpress-2022/courierpress-2022-10-07T02:38:11.570049-05:00.jpg">October 7 at 2:38 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/courierpress-2022/courierpress-2022-10-06T12:50:46.814775-05:00.jpg">
+  <img src="https://archive.org/download/courierpress-2022/courierpress-2022-10-06T12:50:46.814775-05:00.jpg"
+     alt="Evansville Courier & Press at 2022-10-06 12:50:52-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/courierpress-2022/courierpress-2022-10-06T12:50:46.814775-05:00.jpg">October 6 at 12:50 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/courierpress-2022/courierpress-2022-10-06T00:50:07.198334-05:00.jpg">
   <img src="https://archive.org/download/courierpress-2022/courierpress-2022-10-06T00:50:07.198334-05:00.jpg"
      alt="Evansville Courier & Press at 2022-10-06 00:50:08-05:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/courierpress-2022/courierpress-2022-10-02T00:54:07.566051-05:00.jpg">October 2 at 12:54 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/courierpress-2022/courierpress-2022-10-01T12:38:08.179369-05:00.jpg">
-  <img src="https://archive.org/download/courierpress-2022/courierpress-2022-10-01T12:38:08.179369-05:00.jpg"
-     alt="Evansville Courier & Press at 2022-10-01 12:38:09-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/courierpress-2022/courierpress-2022-10-01T12:38:08.179369-05:00.jpg">October 1 at 12:38 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/courierpress-2022/courierpress-2022-10-01T02:40:24.812949-05:00.jpg">
-  <img src="https://archive.org/download/courierpress-2022/courierpress-2022-10-01T02:40:24.812949-05:00.jpg"
-     alt="Evansville Courier & Press at 2022-10-01 02:40:26-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/courierpress-2022/courierpress-2022-10-01T02:40:24.812949-05:00.jpg">October 1 at 2:40 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/courierpress-2022/courierpress-2022-09-30T13:24:29.949397-05:00.jpg">
-  <img src="https://archive.org/download/courierpress-2022/courierpress-2022-09-30T13:24:29.949397-05:00.jpg"
-     alt="Evansville Courier & Press at 2022-09-30 13:24:34-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/courierpress-2022/courierpress-2022-09-30T13:24:29.949397-05:00.jpg">September 30 at 1:24 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 32 hyperlink lists with the Internet Archive.
+The archiving routine has saved 35 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 7 at 1:06 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-07T13:06:39.838061-05:00.hyperlinks.json) |
+| [October 7 at 2:38 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-07T02:38:11.570049-05:00.hyperlinks.json) |
+| [October 6 at 12:50 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-06T12:50:46.814775-05:00.hyperlinks.json) |
 | [October 6 at 12:50 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-06T00:50:07.198334-05:00.hyperlinks.json) |
 | [October 5 at 2:59 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-05T14:59:36.070091-05:00.hyperlinks.json) |
 | [October 5 at 12:55 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-05T00:55:32.718637-05:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 4 at 1:57 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-04T01:57:32.417520-05:00.hyperlinks.json) |
 | [October 3 at 12:53 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-03T12:53:17.725805-05:00.hyperlinks.json) |
 | [October 3 at 12:56 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-03T00:56:28.775431-05:00.hyperlinks.json) |
-| [October 2 at 12:34 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-02T12:34:19.141084-05:00.hyperlinks.json) |
-| [October 2 at 12:54 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-02T00:54:07.566051-05:00.hyperlinks.json) |
-| [October 1 at 12:38 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-01T12:38:08.179369-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 32 accessibility trees with the Internet Archive.
+The archiving routine has saved 35 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 7 at 1:06 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-07T13:06:39.838061-05:00.accessibility.json) |
+| [October 7 at 2:38 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-07T02:38:11.570049-05:00.accessibility.json) |
+| [October 6 at 12:50 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-06T12:50:46.814775-05:00.accessibility.json) |
 | [October 6 at 12:50 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-06T00:50:07.198334-05:00.accessibility.json) |
 | [October 5 at 2:59 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-05T14:59:36.070091-05:00.accessibility.json) |
 | [October 5 at 12:55 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-05T00:55:32.718637-05:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 4 at 1:57 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-04T01:57:32.417520-05:00.accessibility.json) |
 | [October 3 at 12:53 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-03T12:53:17.725805-05:00.accessibility.json) |
 | [October 3 at 12:56 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-03T00:56:28.775431-05:00.accessibility.json) |
-| [October 2 at 12:34 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-02T12:34:19.141084-05:00.accessibility.json) |
-| [October 2 at 12:54 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-02T00:54:07.566051-05:00.accessibility.json) |
-| [October 1 at 12:38 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-01T12:38:08.179369-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 7 at 1:06 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-07T13:06:39.838061-05:00.lighthouse.json) |
+| [October 7 at 2:38 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-07T02:38:11.570049-05:00.lighthouse.json) |
+| [October 6 at 12:50 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-06T12:50:46.814775-05:00.lighthouse.json) |
 | [October 6 at 12:50 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-06T00:50:07.198334-05:00.lighthouse.json) |
 | [October 5 at 2:59 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-05T14:59:36.070091-05:00.lighthouse.json) |
 | [October 5 at 12:55 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-05T00:55:32.718637-05:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 4 at 1:57 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-04T01:57:32.417520-05:00.lighthouse.json) |
 | [October 3 at 12:53 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-03T12:53:17.725805-05:00.lighthouse.json) |
 | [October 3 at 12:56 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-03T00:56:28.775431-05:00.lighthouse.json) |
-| [October 2 at 12:34 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-02T12:34:19.141084-05:00.lighthouse.json) |
-| [October 2 at 12:54 AM](https://archive.org/download/courierpress-2022/courierpress-2022-10-02T00:54:07.566051-05:00.lighthouse.json) |
-| [October 1 at 12:38 PM](https://archive.org/download/courierpress-2022/courierpress-2022-10-01T12:38:08.179369-05:00.lighthouse.json) |
 
 
 

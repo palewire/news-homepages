@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 179 screenshots with the Internet Archive.
+The archiving routine has saved 182 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-07T15:20:34.589955-03:00.jpg">
+  <img src="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-07T15:20:34.589955-03:00.jpg"
+     alt="Gazeta do Povo at 2022-10-07 15:20:49-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-07T15:20:34.589955-03:00.jpg">October 7 at 3:20 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-07T04:44:05.081129-03:00.jpg">
+  <img src="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-07T04:44:05.081129-03:00.jpg"
+     alt="Gazeta do Povo at 2022-10-07 04:44:16-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-07T04:44:05.081129-03:00.jpg">October 7 at 4:44 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-06T15:04:59.458064-03:00.jpg">
+  <img src="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-06T15:04:59.458064-03:00.jpg"
+     alt="Gazeta do Povo at 2022-10-06 15:05:06-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-06T15:04:59.458064-03:00.jpg">October 6 at 3:05 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-06T08:24:12.948002-03:00.jpg">
   <img src="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-06T08:24:12.948002-03:00.jpg"
      alt="Gazeta do Povo at 2022-10-06 08:24:14-03:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-03T15:05:20.022597-03:00.jpg">October 3 at 3:05 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-03T09:05:23.004803-03:00.jpg">
-  <img src="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-03T09:05:23.004803-03:00.jpg"
-     alt="Gazeta do Povo at 2022-10-03 09:05:29-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-03T09:05:23.004803-03:00.jpg">October 3 at 9:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-03T03:05:26.031120-03:00.jpg">
-  <img src="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-03T03:05:26.031120-03:00.jpg"
-     alt="Gazeta do Povo at 2022-10-03 03:05:30-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-03T03:05:26.031120-03:00.jpg">October 3 at 3:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-02T14:45:50.107021-03:00.jpg">
-  <img src="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-02T14:45:50.107021-03:00.jpg"
-     alt="Gazeta do Povo at 2022-10-02 14:45:51-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-02T14:45:50.107021-03:00.jpg">October 2 at 2:45 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 178 hyperlink lists with the Internet Archive.
+The archiving routine has saved 181 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 7 at 3:21 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-07T15:20:34.589955-03:00.hyperlinks.json) |
+| [October 7 at 4:44 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-07T04:44:05.081129-03:00.hyperlinks.json) |
+| [October 6 at 3:05 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-06T15:04:59.458064-03:00.hyperlinks.json) |
 | [October 6 at 8:24 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-06T08:24:12.948002-03:00.hyperlinks.json) |
 | [October 6 at 3:00 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-06T03:00:02.517873-03:00.hyperlinks.json) |
 | [October 5 at 5:06 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-05T17:06:21.873286-03:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 5 at 3:07 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-05T03:07:04.386514-03:00.hyperlinks.json) |
 | [October 4 at 3:09 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-04T15:08:38.552634-03:00.hyperlinks.json) |
 | [October 4 at 9:11 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-04T09:11:21.140575-03:00.hyperlinks.json) |
-| [October 4 at 4:02 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-04T04:01:57.984365-03:00.hyperlinks.json) |
-| [October 3 at 3:05 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-03T15:05:20.022597-03:00.hyperlinks.json) |
-| [October 3 at 9:05 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-03T09:05:23.004803-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 178 accessibility trees with the Internet Archive.
+The archiving routine has saved 181 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 7 at 3:20 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-07T15:20:34.589955-03:00.accessibility.json) |
+| [October 7 at 4:44 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-07T04:44:05.081129-03:00.accessibility.json) |
+| [October 6 at 3:05 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-06T15:04:59.458064-03:00.accessibility.json) |
 | [October 6 at 8:24 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-06T08:24:12.948002-03:00.accessibility.json) |
 | [October 6 at 3:00 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-06T03:00:02.517873-03:00.accessibility.json) |
 | [October 5 at 5:06 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-05T17:06:21.873286-03:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 5 at 3:07 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-05T03:07:04.386514-03:00.accessibility.json) |
 | [October 4 at 3:08 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-04T15:08:38.552634-03:00.accessibility.json) |
 | [October 4 at 9:11 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-04T09:11:21.140575-03:00.accessibility.json) |
-| [October 4 at 4:02 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-04T04:01:57.984365-03:00.accessibility.json) |
-| [October 3 at 3:05 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-03T15:05:20.022597-03:00.accessibility.json) |
-| [October 3 at 9:05 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-03T09:05:23.004803-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 180 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 183 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 7 at 3:21 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-07T15:20:34.589955-03:00.lighthouse.json) |
+| [October 7 at 4:44 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-07T04:44:05.081129-03:00.lighthouse.json) |
+| [October 6 at 3:05 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-06T15:04:59.458064-03:00.lighthouse.json) |
 | [October 6 at 8:24 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-06T08:24:12.948002-03:00.lighthouse.json) |
 | [October 6 at 3:00 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-06T03:00:02.517873-03:00.lighthouse.json) |
 | [October 5 at 5:06 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-05T17:06:21.873286-03:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 5 at 3:07 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-05T03:07:04.386514-03:00.lighthouse.json) |
 | [October 4 at 3:09 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-04T15:08:38.552634-03:00.lighthouse.json) |
 | [October 4 at 9:11 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-04T09:11:21.140575-03:00.lighthouse.json) |
-| [October 4 at 4:02 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-04T04:01:57.984365-03:00.lighthouse.json) |
-| [October 3 at 3:05 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-03T15:05:20.022597-03:00.lighthouse.json) |
-| [October 3 at 9:05 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-10-03T09:05:23.004803-03:00.lighthouse.json) |
 
 
 

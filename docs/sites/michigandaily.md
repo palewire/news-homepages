@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 144 screenshots with the Internet Archive.
+The archiving routine has saved 145 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 144 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-10-07T14:03:39.477026-04:00.jpg">
+  <img src="https://archive.org/download/michigandaily-2022/michigandaily-2022-10-07T14:03:39.477026-04:00.jpg"
+     alt="Michigan Daily at 2022-10-07 14:03:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-10-07T14:03:39.477026-04:00.jpg">October 7 at 2:03 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-10-07T02:23:01.394221-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-10-02T02:07:47.651943-04:00.jpg">October 2 at 2:07 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-10-01T13:36:21.543194-04:00.jpg">
-  <img src="https://archive.org/download/michigandaily-2022/michigandaily-2022-10-01T13:36:21.543194-04:00.jpg"
-     alt="Michigan Daily at 2022-10-01 13:36:29-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-10-01T13:36:21.543194-04:00.jpg">October 1 at 1:36 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 144 hyperlink lists with the Internet Archive.
+The archiving routine has saved 145 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 7 at 2:03 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-10-07T14:03:39.477026-04:00.hyperlinks.json) |
 | [October 7 at 2:23 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-10-07T02:23:01.394221-04:00.hyperlinks.json) |
 | [October 6 at 1:49 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-10-06T13:49:19.793047-04:00.hyperlinks.json) |
 | [October 6 at 1:47 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-10-06T01:47:23.631741-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 4 at 2:14 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-10-04T02:14:11.526659-04:00.hyperlinks.json) |
 | [October 3 at 1:50 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-10-03T13:50:42.397778-04:00.hyperlinks.json) |
 | [October 3 at 1:15 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-10-03T01:15:16.061966-04:00.hyperlinks.json) |
-| [October 2 at 1:32 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-10-02T13:32:36.903082-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 143 accessibility trees with the Internet Archive.
+The archiving routine has saved 144 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 7 at 2:03 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-10-07T14:03:39.477026-04:00.accessibility.json) |
 | [October 7 at 2:23 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-10-07T02:23:01.394221-04:00.accessibility.json) |
 | [October 6 at 1:49 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-10-06T13:49:19.793047-04:00.accessibility.json) |
 | [October 6 at 1:47 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-10-06T01:47:23.631741-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 4 at 2:14 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-10-04T02:14:11.526659-04:00.accessibility.json) |
 | [October 3 at 1:50 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-10-03T13:50:42.397778-04:00.accessibility.json) |
 | [October 3 at 1:15 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-10-03T01:15:16.061966-04:00.accessibility.json) |
-| [October 2 at 1:32 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-10-02T13:32:36.903082-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 144 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 145 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 7 at 2:03 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-10-07T14:03:39.477026-04:00.lighthouse.json) |
 | [October 7 at 2:23 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-10-07T02:23:01.394221-04:00.lighthouse.json) |
 | [October 6 at 1:49 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-10-06T13:49:19.793047-04:00.lighthouse.json) |
 | [October 6 at 1:47 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-10-06T01:47:23.631741-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 4 at 2:14 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-10-04T02:14:11.526659-04:00.lighthouse.json) |
 | [October 3 at 1:50 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-10-03T13:50:42.397778-04:00.lighthouse.json) |
 | [October 3 at 1:15 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-10-03T01:15:16.061966-04:00.lighthouse.json) |
-| [October 2 at 1:32 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-10-02T13:32:36.903082-04:00.lighthouse.json) |
 
 
 

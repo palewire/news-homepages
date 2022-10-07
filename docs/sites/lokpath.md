@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 148 screenshots with the Internet Archive.
+The archiving routine has saved 149 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 148 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lokpath-2022/lokpath-2022-10-07T23:45:29.957272+05:45.jpg">
+  <img src="https://archive.org/download/lokpath-2022/lokpath-2022-10-07T23:45:29.957272+05:45.jpg"
+     alt="Lokpath at 2022-10-07 23:45:50+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lokpath-2022/lokpath-2022-10-07T23:45:29.957272+05:45.jpg">October 7 at 11:45 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lokpath-2022/lokpath-2022-10-07T12:07:18.680644+05:45.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lokpath-2022/lokpath-2022-10-02T11:53:35.036991+05:45.jpg">October 2 at 11:53 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lokpath-2022/lokpath-2022-10-01T23:19:03.675439+05:45.jpg">
-  <img src="https://archive.org/download/lokpath-2022/lokpath-2022-10-01T23:19:03.675439+05:45.jpg"
-     alt="Lokpath at 2022-10-01 23:19:10+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lokpath-2022/lokpath-2022-10-01T23:19:03.675439+05:45.jpg">October 1 at 11:19 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 148 hyperlink lists with the Internet Archive.
+The archiving routine has saved 149 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 7 at 11:45 PM](https://archive.org/download/lokpath-2022/lokpath-2022-10-07T23:45:29.957272+05:45.hyperlinks.json) |
 | [October 7 at 12:07 PM](https://archive.org/download/lokpath-2022/lokpath-2022-10-07T12:07:18.680644+05:45.hyperlinks.json) |
 | [October 6 at 11:32 PM](https://archive.org/download/lokpath-2022/lokpath-2022-10-06T23:31:41.278038+05:45.hyperlinks.json) |
 | [October 6 at 11:30 AM](https://archive.org/download/lokpath-2022/lokpath-2022-10-06T11:30:25.891734+05:45.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 4 at 11:57 AM](https://archive.org/download/lokpath-2022/lokpath-2022-10-04T11:57:01.442005+05:45.hyperlinks.json) |
 | [October 3 at 11:34 PM](https://archive.org/download/lokpath-2022/lokpath-2022-10-03T23:33:55.411432+05:45.hyperlinks.json) |
 | [October 3 at 10:57 AM](https://archive.org/download/lokpath-2022/lokpath-2022-10-03T10:56:59.894356+05:45.hyperlinks.json) |
-| [October 2 at 11:16 PM](https://archive.org/download/lokpath-2022/lokpath-2022-10-02T23:16:50.903232+05:45.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 147 accessibility trees with the Internet Archive.
+The archiving routine has saved 148 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 7 at 11:45 PM](https://archive.org/download/lokpath-2022/lokpath-2022-10-07T23:45:29.957272+05:45.accessibility.json) |
 | [October 7 at 12:07 PM](https://archive.org/download/lokpath-2022/lokpath-2022-10-07T12:07:18.680644+05:45.accessibility.json) |
 | [October 6 at 11:31 PM](https://archive.org/download/lokpath-2022/lokpath-2022-10-06T23:31:41.278038+05:45.accessibility.json) |
 | [October 6 at 11:30 AM](https://archive.org/download/lokpath-2022/lokpath-2022-10-06T11:30:25.891734+05:45.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 4 at 11:57 AM](https://archive.org/download/lokpath-2022/lokpath-2022-10-04T11:57:01.442005+05:45.accessibility.json) |
 | [October 3 at 11:34 PM](https://archive.org/download/lokpath-2022/lokpath-2022-10-03T23:33:55.411432+05:45.accessibility.json) |
 | [October 3 at 10:57 AM](https://archive.org/download/lokpath-2022/lokpath-2022-10-03T10:56:59.894356+05:45.accessibility.json) |
-| [October 2 at 11:16 PM](https://archive.org/download/lokpath-2022/lokpath-2022-10-02T23:16:50.903232+05:45.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 148 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 149 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 7 at 11:45 PM](https://archive.org/download/lokpath-2022/lokpath-2022-10-07T23:45:29.957272+05:45.lighthouse.json) |
 | [October 7 at 12:07 PM](https://archive.org/download/lokpath-2022/lokpath-2022-10-07T12:07:18.680644+05:45.lighthouse.json) |
 | [October 6 at 11:32 PM](https://archive.org/download/lokpath-2022/lokpath-2022-10-06T23:31:41.278038+05:45.lighthouse.json) |
 | [October 6 at 11:30 AM](https://archive.org/download/lokpath-2022/lokpath-2022-10-06T11:30:25.891734+05:45.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 4 at 11:57 AM](https://archive.org/download/lokpath-2022/lokpath-2022-10-04T11:57:01.442005+05:45.lighthouse.json) |
 | [October 3 at 11:34 PM](https://archive.org/download/lokpath-2022/lokpath-2022-10-03T23:33:55.411432+05:45.lighthouse.json) |
 | [October 3 at 10:57 AM](https://archive.org/download/lokpath-2022/lokpath-2022-10-03T10:56:59.894356+05:45.lighthouse.json) |
-| [October 2 at 11:17 PM](https://archive.org/download/lokpath-2022/lokpath-2022-10-02T23:16:50.903232+05:45.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 335 screenshots with the Internet Archive.
+The archiving routine has saved 338 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-10-07T14:20:02.601146-04:00.jpg">
+  <img src="https://archive.org/download/frednewspost-2022/frednewspost-2022-10-07T14:20:02.601146-04:00.jpg"
+     alt="Frederick News-Post at 2022-10-07 14:20:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-10-07T14:20:02.601146-04:00.jpg">October 7 at 2:20 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-10-07T03:44:34.300567-04:00.jpg">
+  <img src="https://archive.org/download/frednewspost-2022/frednewspost-2022-10-07T03:44:34.300567-04:00.jpg"
+     alt="Frederick News-Post at 2022-10-07 03:44:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-10-07T03:44:34.300567-04:00.jpg">October 7 at 3:44 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-10-06T14:03:03.290825-04:00.jpg">
+  <img src="https://archive.org/download/frednewspost-2022/frednewspost-2022-10-06T14:03:03.290825-04:00.jpg"
+     alt="Frederick News-Post at 2022-10-06 14:03:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-10-06T14:03:03.290825-04:00.jpg">October 6 at 2:03 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-10-06T01:59:57.845340-04:00.jpg">
   <img src="https://archive.org/download/frednewspost-2022/frednewspost-2022-10-06T01:59:57.845340-04:00.jpg"
      alt="Frederick News-Post at 2022-10-06 02:00:09-04:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-10-02T01:56:58.454719-04:00.jpg">October 2 at 1:57 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-10-01T13:50:12.069049-04:00.jpg">
-  <img src="https://archive.org/download/frednewspost-2022/frednewspost-2022-10-01T13:50:12.069049-04:00.jpg"
-     alt="Frederick News-Post at 2022-10-01 13:50:22-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-10-01T13:50:12.069049-04:00.jpg">October 1 at 1:50 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-10-01T03:45:22.102899-04:00.jpg">
-  <img src="https://archive.org/download/frednewspost-2022/frednewspost-2022-10-01T03:45:22.102899-04:00.jpg"
-     alt="Frederick News-Post at 2022-10-01 03:45:32-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-10-01T03:45:22.102899-04:00.jpg">October 1 at 3:45 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-09-30T14:30:53.138671-04:00.jpg">
-  <img src="https://archive.org/download/frednewspost-2022/frednewspost-2022-09-30T14:30:53.138671-04:00.jpg"
-     alt="Frederick News-Post at 2022-09-30 14:30:55-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-09-30T14:30:53.138671-04:00.jpg">September 30 at 2:30 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 334 hyperlink lists with the Internet Archive.
+The archiving routine has saved 337 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 7 at 2:20 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-07T14:20:02.601146-04:00.hyperlinks.json) |
+| [October 7 at 3:44 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-07T03:44:34.300567-04:00.hyperlinks.json) |
+| [October 6 at 2:03 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-06T14:03:03.290825-04:00.hyperlinks.json) |
 | [October 6 at 2:00 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-06T01:59:57.845340-04:00.hyperlinks.json) |
 | [October 5 at 4:05 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-05T16:05:38.523878-04:00.hyperlinks.json) |
 | [October 5 at 2:07 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-05T02:07:01.786104-04:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 4 at 3:03 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-04T03:02:46.005142-04:00.hyperlinks.json) |
 | [October 3 at 2:04 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-03T14:03:58.180511-04:00.hyperlinks.json) |
 | [October 3 at 2:05 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-03T02:05:19.240772-04:00.hyperlinks.json) |
-| [October 2 at 1:45 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-02T13:45:21.355437-04:00.hyperlinks.json) |
-| [October 2 at 1:57 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-02T01:56:58.454719-04:00.hyperlinks.json) |
-| [October 1 at 1:50 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-01T13:50:12.069049-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 335 accessibility trees with the Internet Archive.
+The archiving routine has saved 338 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 7 at 2:20 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-07T14:20:02.601146-04:00.accessibility.json) |
+| [October 7 at 3:44 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-07T03:44:34.300567-04:00.accessibility.json) |
+| [October 6 at 2:03 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-06T14:03:03.290825-04:00.accessibility.json) |
 | [October 6 at 2:00 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-06T01:59:57.845340-04:00.accessibility.json) |
 | [October 5 at 4:05 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-05T16:05:38.523878-04:00.accessibility.json) |
 | [October 5 at 2:07 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-05T02:07:01.786104-04:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 4 at 3:02 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-04T03:02:46.005142-04:00.accessibility.json) |
 | [October 3 at 2:04 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-03T14:03:58.180511-04:00.accessibility.json) |
 | [October 3 at 2:05 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-03T02:05:19.240772-04:00.accessibility.json) |
-| [October 2 at 1:45 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-02T13:45:21.355437-04:00.accessibility.json) |
-| [October 2 at 1:57 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-02T01:56:58.454719-04:00.accessibility.json) |
-| [October 1 at 1:50 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-01T13:50:12.069049-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 147 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 150 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 7 at 2:20 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-07T14:20:02.601146-04:00.lighthouse.json) |
+| [October 7 at 3:44 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-07T03:44:34.300567-04:00.lighthouse.json) |
+| [October 6 at 2:03 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-06T14:03:03.290825-04:00.lighthouse.json) |
 | [October 6 at 2:00 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-06T01:59:57.845340-04:00.lighthouse.json) |
 | [October 5 at 4:06 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-05T16:05:38.523878-04:00.lighthouse.json) |
 | [October 5 at 2:07 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-05T02:07:01.786104-04:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 4 at 3:03 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-04T03:02:46.005142-04:00.lighthouse.json) |
 | [October 3 at 2:04 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-03T14:03:58.180511-04:00.lighthouse.json) |
 | [October 3 at 2:05 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-03T02:05:19.240772-04:00.lighthouse.json) |
-| [October 2 at 1:45 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-02T13:45:21.355437-04:00.lighthouse.json) |
-| [October 2 at 1:57 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-02T01:56:58.454719-04:00.lighthouse.json) |
-| [October 1 at 1:50 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-10-01T13:50:12.069049-04:00.lighthouse.json) |
 
 
 

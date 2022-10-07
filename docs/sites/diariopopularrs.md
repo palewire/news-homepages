@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 164 screenshots with the Internet Archive.
+The archiving routine has saved 167 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-07T15:16:24.948034-03:00.jpg">
+  <img src="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-07T15:16:24.948034-03:00.jpg"
+     alt="Diário Popular at 2022-10-07 15:16:35-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-07T15:16:24.948034-03:00.jpg">October 7 at 3:16 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-07T04:41:23.805644-03:00.jpg">
+  <img src="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-07T04:41:23.805644-03:00.jpg"
+     alt="Diário Popular at 2022-10-07 04:41:26-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-07T04:41:23.805644-03:00.jpg">October 7 at 4:41 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-06T14:56:21.155177-03:00.jpg">
+  <img src="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-06T14:56:21.155177-03:00.jpg"
+     alt="Diário Popular at 2022-10-06 14:56:25-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-06T14:56:21.155177-03:00.jpg">October 6 at 2:56 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-06T08:24:14.163564-03:00.jpg">
   <img src="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-06T08:24:14.163564-03:00.jpg"
      alt="Diário Popular at 2022-10-06 08:24:15-03:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-03T14:57:49.769397-03:00.jpg">October 3 at 2:57 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-03T09:03:34.110273-03:00.jpg">
-  <img src="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-03T09:03:34.110273-03:00.jpg"
-     alt="Diário Popular at 2022-10-03 09:03:36-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-03T09:03:34.110273-03:00.jpg">October 3 at 9:03 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-03T03:02:45.047738-03:00.jpg">
-  <img src="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-03T03:02:45.047738-03:00.jpg"
-     alt="Diário Popular at 2022-10-03 03:02:53-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-03T03:02:45.047738-03:00.jpg">October 3 at 3:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-02T14:40:57.388519-03:00.jpg">
-  <img src="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-02T14:40:57.388519-03:00.jpg"
-     alt="Diário Popular at 2022-10-02 14:40:58-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-02T14:40:57.388519-03:00.jpg">October 2 at 2:40 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 165 hyperlink lists with the Internet Archive.
+The archiving routine has saved 168 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 7 at 3:16 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-07T15:16:24.948034-03:00.hyperlinks.json) |
+| [October 7 at 4:41 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-07T04:41:23.805644-03:00.hyperlinks.json) |
+| [October 6 at 2:56 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-06T14:56:21.155177-03:00.hyperlinks.json) |
 | [October 6 at 8:24 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-06T08:24:14.163564-03:00.hyperlinks.json) |
 | [October 6 at 2:55 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-06T02:55:18.516466-03:00.hyperlinks.json) |
 | [October 5 at 5:03 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-05T17:03:00.465283-03:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 5 at 3:02 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-05T03:01:54.611402-03:00.hyperlinks.json) |
 | [October 4 at 3:01 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-04T15:01:29.484910-03:00.hyperlinks.json) |
 | [October 4 at 9:11 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-04T09:11:10.667007-03:00.hyperlinks.json) |
-| [October 4 at 4:00 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-04T04:00:09.924047-03:00.hyperlinks.json) |
-| [October 3 at 2:57 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-03T14:57:49.769397-03:00.hyperlinks.json) |
-| [October 3 at 9:03 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-03T09:03:34.110273-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 164 accessibility trees with the Internet Archive.
+The archiving routine has saved 166 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 7 at 3:16 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-07T15:16:24.948034-03:00.accessibility.json) |
+| [October 6 at 2:56 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-06T14:56:21.155177-03:00.accessibility.json) |
 | [October 6 at 8:24 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-06T08:24:14.163564-03:00.accessibility.json) |
 | [October 6 at 2:55 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-06T02:55:18.516466-03:00.accessibility.json) |
 | [October 5 at 5:03 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-05T17:03:00.465283-03:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 4 at 3:01 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-04T15:01:29.484910-03:00.accessibility.json) |
 | [October 4 at 9:11 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-04T09:11:10.667007-03:00.accessibility.json) |
 | [October 4 at 4:00 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-04T04:00:09.924047-03:00.accessibility.json) |
-| [October 3 at 2:57 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-03T14:57:49.769397-03:00.accessibility.json) |
-| [October 3 at 9:03 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-03T09:03:34.110273-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 165 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 168 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 7 at 3:17 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-07T15:16:24.948034-03:00.lighthouse.json) |
+| [October 7 at 4:41 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-07T04:41:23.805644-03:00.lighthouse.json) |
+| [October 6 at 2:56 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-06T14:56:21.155177-03:00.lighthouse.json) |
 | [October 6 at 8:24 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-06T08:24:14.163564-03:00.lighthouse.json) |
 | [October 6 at 2:55 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-06T02:55:18.516466-03:00.lighthouse.json) |
 | [October 5 at 5:03 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-05T17:03:00.465283-03:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 5 at 3:02 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-05T03:01:54.611402-03:00.lighthouse.json) |
 | [October 4 at 3:01 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-04T15:01:29.484910-03:00.lighthouse.json) |
 | [October 4 at 9:11 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-04T09:11:10.667007-03:00.lighthouse.json) |
-| [October 4 at 4:00 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-04T04:00:09.924047-03:00.lighthouse.json) |
-| [October 3 at 2:58 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-03T14:57:49.769397-03:00.lighthouse.json) |
-| [October 3 at 9:03 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-10-03T09:03:34.110273-03:00.lighthouse.json) |
 
 
 
