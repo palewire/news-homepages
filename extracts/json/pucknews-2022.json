@@ -1,5 +1,5 @@
 {
-  "created": 1665152260,
+  "created": 1665196522,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/19/items/pucknews-2022",
@@ -13476,31 +13476,93 @@
       "sha1": "8bf6b3bbdc9414f895136766324a9d0b0c6623e5"
     },
     {
+      "name": "pucknews-2022-10-07T22:33:27.091012-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665196410",
+      "size": "15407",
+      "md5": "800e5db33fe1a65295bc440db0ae49f4",
+      "crc32": "35e93d38",
+      "sha1": "445e46587be0bfe26ae16720937dcfeb3647f582",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-10-07T22:33:27.091012-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665196412",
+      "size": "12108",
+      "md5": "1b78e38833fdf1e77a6b86568b4120f3",
+      "crc32": "98860be4",
+      "sha1": "a85f2d3c924effbceedd86e4a5a03592c56cdd3a",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-10-07T22:33:27.091012-04:00.jpg",
+      "source": "original",
+      "mtime": "1665196408",
+      "size": "163628",
+      "md5": "f269bbd9f189d827f3202b5264cfe478",
+      "crc32": "f679ec3f",
+      "sha1": "4adedce6e39a85cd98c715d362dd133d56d9bc68",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pucknews-2022-10-07T22:33:27.091012-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665196413",
+      "size": "1413",
+      "md5": "a3fd901f24851c3fa8ab66b0661d3feb",
+      "crc32": "752deff8",
+      "sha1": "d67a4405a9a1b133015041a0f6f3355db33928eb",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-10-07T22:33:27.091012-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665196415",
+      "size": "24524",
+      "md5": "4b0a44213079111dd8328d5fb5c82340",
+      "crc32": "dcec8c13",
+      "sha1": "d9b7175b869e683a4f37dbdfcc6cfb8a917d633c",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-10-07T22:33:27.091012-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pucknews-2022-10-07T22:33:27.091012-04:00.jpg",
+      "mtime": "1665196487",
+      "size": "7458",
+      "md5": "c3c66af64e2e76573825d2f5e944a75c",
+      "crc32": "febb59eb",
+      "sha1": "b4b4cd8182f6e1bf077ca797c89cb2a397daf7a5"
+    },
+    {
       "name": "pucknews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e6597495d1373bc5e411f350558a0157b2c06753",
-      "mtime": "1665152255",
-      "size": "272559",
-      "md5": "154ae1b51c5288c3138758f175ab32f0",
-      "crc32": "2a6bbcd3",
-      "sha1": "fe1e9f22c1ffaabf75765bd77e1065da7f7e61d4",
+      "btih": "e69e2454b0ec91dfe4f65582f6de580efb6bc8a1",
+      "mtime": "1665196505",
+      "size": "273806",
+      "md5": "90238568481840d3ed7f9826b96fcbea",
+      "crc32": "264e4ce3",
+      "sha1": "81badb7e2f1c9e019e75128cefeca03a9045d127",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pucknews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "86c3c66cd884de68d85d4e732dfe5647",
+      "md5": "ac1ecb5a381046ea6e9cba1e9acd77b1",
       "summation": "md5"
     },
     {
       "name": "pucknews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665152181",
-      "size": "1597440",
-      "md5": "222b5d0d2c2960d9de561bb7e92fba57",
-      "crc32": "36088a83",
-      "sha1": "c0f0603e83437f35f692bafb54486ab02bbed623",
+      "mtime": "1665196424",
+      "size": "1605632",
+      "md5": "cdaa59c957918b285d228a8a7b5562dc",
+      "crc32": "60192df2",
+      "sha1": "ff301f964bcd4f506defca9e0a36627a92e39e89",
       "format": "Metadata"
     },
     {
@@ -13514,9 +13576,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1300,
-  "item_last_updated": 1665152255,
-  "item_size": 55856019,
+  "files_count": 1306,
+  "item_last_updated": 1665196505,
+  "item_size": 56089996,
   "metadata": {
     "identifier": "pucknews-2022",
     "collection": [
@@ -13533,10 +13595,10 @@
     "publicdate": "2022-06-18 17:10:26",
     "addeddate": "2022-06-18 17:10:26"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 91263531,
+  "server": "ia902502.us.archive.org",
+  "uniq": 211526623,
   "workable_servers": [
-    "ia802502.us.archive.org",
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }
