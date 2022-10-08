@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 91 screenshots with the Internet Archive.
+The archiving routine has saved 92 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 91 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-07T18:06:40.885399-05:00.jpg">
+  <img src="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-07T18:06:40.885399-05:00.jpg"
+     alt="Christianity Today at 2022-10-07 18:06:46-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-07T18:06:40.885399-05:00.jpg">October 7 at 6:06 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-07T06:09:50.360661-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-01T18:00:59.231739-05:00.jpg">October 1 at 6:01 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-01T05:53:26.949271-05:00.jpg">
-  <img src="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-01T05:53:26.949271-05:00.jpg"
-     alt="Christianity Today at 2022-10-01 05:53:30-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-01T05:53:26.949271-05:00.jpg">October 1 at 5:53 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 92 hyperlink lists with the Internet Archive.
+The archiving routine has saved 93 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 7 at 6:06 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-07T18:06:40.885399-05:00.hyperlinks.json) |
 | [October 7 at 6:09 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-07T06:09:50.360661-05:00.hyperlinks.json) |
 | [October 6 at 6:05 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-06T18:05:22.011643-05:00.hyperlinks.json) |
 | [October 6 at 5:46 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-06T05:46:53.258296-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 4 at 6:04 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-04T06:03:59.968403-05:00.hyperlinks.json) |
 | [October 3 at 6:01 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-03T18:01:07.801196-05:00.hyperlinks.json) |
 | [October 3 at 5:50 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-03T05:50:49.431482-05:00.hyperlinks.json) |
-| [October 2 at 6:04 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-02T18:04:14.264727-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 91 accessibility trees with the Internet Archive.
+The archiving routine has saved 92 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 7 at 6:06 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-07T18:06:40.885399-05:00.accessibility.json) |
 | [October 7 at 6:09 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-07T06:09:50.360661-05:00.accessibility.json) |
 | [October 6 at 6:05 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-06T18:05:22.011643-05:00.accessibility.json) |
 | [October 5 at 5:58 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-05T17:57:58.939380-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 3 at 6:01 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-03T18:01:07.801196-05:00.accessibility.json) |
 | [October 3 at 5:50 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-03T05:50:49.431482-05:00.accessibility.json) |
 | [October 2 at 6:04 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-02T18:04:14.264727-05:00.accessibility.json) |
-| [October 2 at 5:45 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-02T05:45:25.305527-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 91 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 92 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 7 at 6:06 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-07T18:06:40.885399-05:00.lighthouse.json) |
 | [October 7 at 6:09 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-07T06:09:50.360661-05:00.lighthouse.json) |
 | [October 6 at 6:05 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-06T18:05:22.011643-05:00.lighthouse.json) |
 | [October 5 at 5:58 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-05T17:57:58.939380-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 3 at 6:01 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-03T18:01:07.801196-05:00.lighthouse.json) |
 | [October 3 at 5:50 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-03T05:50:49.431482-05:00.lighthouse.json) |
 | [October 2 at 6:04 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-02T18:04:14.264727-05:00.lighthouse.json) |
-| [October 2 at 5:45 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-10-02T05:45:25.305527-05:00.lighthouse.json) |
 
 
 

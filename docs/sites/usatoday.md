@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 616 screenshots with the Internet Archive.
+The archiving routine has saved 618 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/usatoday-2022/usatoday-2022-10-07T17:20:02.231676-04:00.jpg">
+  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-10-07T17:20:02.231676-04:00.jpg"
+     alt="USA Today at 2022-10-07 17:20:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-10-07T17:20:02.231676-04:00.jpg">October 7 at 5:20 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/usatoday-2022/usatoday-2022-10-07T11:13:55.941760-04:00.jpg">
+  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-10-07T11:13:55.941760-04:00.jpg"
+     alt="USA Today at 2022-10-07 11:14:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-10-07T11:13:55.941760-04:00.jpg">October 7 at 11:14 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/usatoday-2022/usatoday-2022-10-07T09:03:54.481989-04:00.jpg">
   <img src="https://archive.org/download/usatoday-2022/usatoday-2022-10-07T09:03:54.481989-04:00.jpg"
      alt="USA Today at 2022-10-07 09:04:06-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-10-04T23:34:25.298616-04:00.jpg">October 4 at 11:34 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/usatoday-2022/usatoday-2022-10-04T17:20:57.189284-04:00.jpg">
-  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-10-04T17:20:57.189284-04:00.jpg"
-     alt="USA Today at 2022-10-04 17:20:58-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-10-04T17:20:57.189284-04:00.jpg">October 4 at 5:20 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/usatoday-2022/usatoday-2022-10-04T11:14:33.249483-04:00.jpg">
-  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-10-04T11:14:33.249483-04:00.jpg"
-     alt="USA Today at 2022-10-04 11:14:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-10-04T11:14:33.249483-04:00.jpg">October 4 at 11:14 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 596 hyperlink lists with the Internet Archive.
+The archiving routine has saved 598 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 7 at 5:20 PM](https://archive.org/download/usatoday-2022/usatoday-2022-10-07T17:20:02.231676-04:00.hyperlinks.json) |
+| [October 7 at 11:14 AM](https://archive.org/download/usatoday-2022/usatoday-2022-10-07T11:13:55.941760-04:00.hyperlinks.json) |
 | [October 7 at 9:04 AM](https://archive.org/download/usatoday-2022/usatoday-2022-10-07T09:03:54.481989-04:00.hyperlinks.json) |
 | [October 7 at 12:29 AM](https://archive.org/download/usatoday-2022/usatoday-2022-10-07T00:29:05.265356-04:00.hyperlinks.json) |
 | [October 6 at 5:21 PM](https://archive.org/download/usatoday-2022/usatoday-2022-10-06T17:20:54.199906-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 6 at 12:20 AM](https://archive.org/download/usatoday-2022/usatoday-2022-10-06T00:20:08.342948-04:00.hyperlinks.json) |
 | [October 5 at 5:18 PM](https://archive.org/download/usatoday-2022/usatoday-2022-10-05T17:18:29.122621-04:00.hyperlinks.json) |
 | [October 5 at 11:35 AM](https://archive.org/download/usatoday-2022/usatoday-2022-10-05T11:34:59.781104-04:00.hyperlinks.json) |
-| [October 5 at 9:18 AM](https://archive.org/download/usatoday-2022/usatoday-2022-10-05T09:17:53.410302-04:00.hyperlinks.json) |
-| [October 4 at 11:34 PM](https://archive.org/download/usatoday-2022/usatoday-2022-10-04T23:34:25.298616-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 599 accessibility trees with the Internet Archive.
+The archiving routine has saved 601 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 7 at 5:20 PM](https://archive.org/download/usatoday-2022/usatoday-2022-10-07T17:20:02.231676-04:00.accessibility.json) |
+| [October 7 at 11:14 AM](https://archive.org/download/usatoday-2022/usatoday-2022-10-07T11:13:55.941760-04:00.accessibility.json) |
 | [October 7 at 9:04 AM](https://archive.org/download/usatoday-2022/usatoday-2022-10-07T09:03:54.481989-04:00.accessibility.json) |
 | [October 7 at 12:29 AM](https://archive.org/download/usatoday-2022/usatoday-2022-10-07T00:29:05.265356-04:00.accessibility.json) |
 | [October 6 at 5:21 PM](https://archive.org/download/usatoday-2022/usatoday-2022-10-06T17:20:54.199906-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 6 at 12:20 AM](https://archive.org/download/usatoday-2022/usatoday-2022-10-06T00:20:08.342948-04:00.accessibility.json) |
 | [October 5 at 5:18 PM](https://archive.org/download/usatoday-2022/usatoday-2022-10-05T17:18:29.122621-04:00.accessibility.json) |
 | [October 5 at 11:35 AM](https://archive.org/download/usatoday-2022/usatoday-2022-10-05T11:34:59.781104-04:00.accessibility.json) |
-| [October 5 at 9:18 AM](https://archive.org/download/usatoday-2022/usatoday-2022-10-05T09:17:53.410302-04:00.accessibility.json) |
-| [October 4 at 11:34 PM](https://archive.org/download/usatoday-2022/usatoday-2022-10-04T23:34:25.298616-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 299 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 301 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 7 at 5:20 PM](https://archive.org/download/usatoday-2022/usatoday-2022-10-07T17:20:02.231676-04:00.lighthouse.json) |
+| [October 7 at 11:14 AM](https://archive.org/download/usatoday-2022/usatoday-2022-10-07T11:13:55.941760-04:00.lighthouse.json) |
 | [October 7 at 9:04 AM](https://archive.org/download/usatoday-2022/usatoday-2022-10-07T09:03:54.481989-04:00.lighthouse.json) |
 | [October 7 at 12:29 AM](https://archive.org/download/usatoday-2022/usatoday-2022-10-07T00:29:05.265356-04:00.lighthouse.json) |
 | [October 6 at 5:21 PM](https://archive.org/download/usatoday-2022/usatoday-2022-10-06T17:20:54.199906-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 6 at 12:20 AM](https://archive.org/download/usatoday-2022/usatoday-2022-10-06T00:20:08.342948-04:00.lighthouse.json) |
 | [October 5 at 5:18 PM](https://archive.org/download/usatoday-2022/usatoday-2022-10-05T17:18:29.122621-04:00.lighthouse.json) |
 | [October 5 at 11:35 AM](https://archive.org/download/usatoday-2022/usatoday-2022-10-05T11:34:59.781104-04:00.lighthouse.json) |
-| [October 5 at 9:18 AM](https://archive.org/download/usatoday-2022/usatoday-2022-10-05T09:17:53.410302-04:00.lighthouse.json) |
-| [October 4 at 11:34 PM](https://archive.org/download/usatoday-2022/usatoday-2022-10-04T23:34:25.298616-04:00.lighthouse.json) |
 
 
 

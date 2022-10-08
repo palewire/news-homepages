@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 243 screenshots with the Internet Archive.
+The archiving routine has saved 244 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 243 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/daily_record-2022/daily_record-2022-10-08T01:02:59.356257+01:00.jpg">
+  <img src="https://archive.org/download/daily_record-2022/daily_record-2022-10-08T01:02:59.356257+01:00.jpg"
+     alt="Daily Record at 2022-10-08 01:03:12+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-10-08T01:02:59.356257+01:00.jpg">October 8 at 1:03 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/daily_record-2022/daily_record-2022-10-07T13:05:39.001866+01:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-10-04T10:26:24.041373+01:00.jpg">October 4 at 10:26 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/daily_record-2022/daily_record-2022-10-04T00:54:00.569369+01:00.jpg">
-  <img src="https://archive.org/download/daily_record-2022/daily_record-2022-10-04T00:54:00.569369+01:00.jpg"
-     alt="Daily Record at 2022-10-04 00:54:27+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-10-04T00:54:00.569369+01:00.jpg">October 4 at 12:54 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 243 hyperlink lists with the Internet Archive.
+The archiving routine has saved 244 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 8 at 1:03 AM](https://archive.org/download/daily_record-2022/daily_record-2022-10-08T01:02:59.356257+01:00.hyperlinks.json) |
 | [October 7 at 1:05 PM](https://archive.org/download/daily_record-2022/daily_record-2022-10-07T13:05:39.001866+01:00.hyperlinks.json) |
 | [October 7 at 10:25 AM](https://archive.org/download/daily_record-2022/daily_record-2022-10-07T10:25:06.628518+01:00.hyperlinks.json) |
 | [October 7 at 1:00 AM](https://archive.org/download/daily_record-2022/daily_record-2022-10-07T01:00:17.809927+01:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 5 at 1:13 PM](https://archive.org/download/daily_record-2022/daily_record-2022-10-05T13:12:55.831797+01:00.hyperlinks.json) |
 | [October 5 at 10:23 AM](https://archive.org/download/daily_record-2022/daily_record-2022-10-05T10:22:55.460071+01:00.hyperlinks.json) |
 | [October 5 at 12:53 AM](https://archive.org/download/daily_record-2022/daily_record-2022-10-05T00:52:52.792468+01:00.hyperlinks.json) |
-| [October 4 at 1:03 PM](https://archive.org/download/daily_record-2022/daily_record-2022-10-04T13:03:41.229741+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 244 accessibility trees with the Internet Archive.
+The archiving routine has saved 245 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 8 at 1:03 AM](https://archive.org/download/daily_record-2022/daily_record-2022-10-08T01:02:59.356257+01:00.accessibility.json) |
 | [October 7 at 1:05 PM](https://archive.org/download/daily_record-2022/daily_record-2022-10-07T13:05:39.001866+01:00.accessibility.json) |
 | [October 7 at 10:25 AM](https://archive.org/download/daily_record-2022/daily_record-2022-10-07T10:25:06.628518+01:00.accessibility.json) |
 | [October 7 at 1:00 AM](https://archive.org/download/daily_record-2022/daily_record-2022-10-07T01:00:17.809927+01:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 5 at 1:13 PM](https://archive.org/download/daily_record-2022/daily_record-2022-10-05T13:12:55.831797+01:00.accessibility.json) |
 | [October 5 at 10:23 AM](https://archive.org/download/daily_record-2022/daily_record-2022-10-05T10:22:55.460071+01:00.accessibility.json) |
 | [October 5 at 12:53 AM](https://archive.org/download/daily_record-2022/daily_record-2022-10-05T00:52:52.792468+01:00.accessibility.json) |
-| [October 4 at 1:03 PM](https://archive.org/download/daily_record-2022/daily_record-2022-10-04T13:03:41.229741+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 206 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 207 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 8 at 1:03 AM](https://archive.org/download/daily_record-2022/daily_record-2022-10-08T01:02:59.356257+01:00.lighthouse.json) |
 | [October 7 at 1:05 PM](https://archive.org/download/daily_record-2022/daily_record-2022-10-07T13:05:39.001866+01:00.lighthouse.json) |
 | [October 7 at 10:25 AM](https://archive.org/download/daily_record-2022/daily_record-2022-10-07T10:25:06.628518+01:00.lighthouse.json) |
 | [October 7 at 1:00 AM](https://archive.org/download/daily_record-2022/daily_record-2022-10-07T01:00:17.809927+01:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 5 at 1:13 PM](https://archive.org/download/daily_record-2022/daily_record-2022-10-05T13:12:55.831797+01:00.lighthouse.json) |
 | [October 5 at 10:23 AM](https://archive.org/download/daily_record-2022/daily_record-2022-10-05T10:22:55.460071+01:00.lighthouse.json) |
 | [October 5 at 12:53 AM](https://archive.org/download/daily_record-2022/daily_record-2022-10-05T00:52:52.792468+01:00.lighthouse.json) |
-| [October 4 at 1:03 PM](https://archive.org/download/daily_record-2022/daily_record-2022-10-04T13:03:41.229741+01:00.lighthouse.json) |
 
 
 
