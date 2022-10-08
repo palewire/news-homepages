@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 190 screenshots with the Internet Archive.
+The archiving routine has saved 192 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/estadao-2022/estadao-2022-10-08T09:00:46.341565-03:00.jpg">
+  <img src="https://archive.org/download/estadao-2022/estadao-2022-10-08T09:00:46.341565-03:00.jpg"
+     alt="Estadão at 2022-10-08 09:00:48-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/estadao-2022/estadao-2022-10-08T09:00:46.341565-03:00.jpg">October 8 at 9:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/estadao-2022/estadao-2022-10-08T08:55:58.063886-03:00.jpg">
+  <img src="https://archive.org/download/estadao-2022/estadao-2022-10-08T08:55:58.063886-03:00.jpg"
+     alt="Estadão at 2022-10-08 08:56:00-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/estadao-2022/estadao-2022-10-08T08:55:58.063886-03:00.jpg">October 8 at 8:56 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/estadao-2022/estadao-2022-10-07T21:06:46.433531-03:00.jpg">
   <img src="https://archive.org/download/estadao-2022/estadao-2022-10-07T21:06:46.433531-03:00.jpg"
      alt="Estadão at 2022-10-07 21:06:54-03:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/estadao-2022/estadao-2022-10-04T09:11:39.627033-03:00.jpg">October 4 at 9:11 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/estadao-2022/estadao-2022-10-04T09:07:03.856924-03:00.jpg">
-  <img src="https://archive.org/download/estadao-2022/estadao-2022-10-04T09:07:03.856924-03:00.jpg"
-     alt="Estadão at 2022-10-04 09:07:11-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/estadao-2022/estadao-2022-10-04T09:07:03.856924-03:00.jpg">October 4 at 9:07 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/estadao-2022/estadao-2022-10-03T20:55:55.244859-03:00.jpg">
-  <img src="https://archive.org/download/estadao-2022/estadao-2022-10-03T20:55:55.244859-03:00.jpg"
-     alt="Estadão at 2022-10-03 20:56:00-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/estadao-2022/estadao-2022-10-03T20:55:55.244859-03:00.jpg">October 3 at 8:56 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 190 hyperlink lists with the Internet Archive.
+The archiving routine has saved 192 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 8 at 9:00 AM](https://archive.org/download/estadao-2022/estadao-2022-10-08T09:00:46.341565-03:00.hyperlinks.json) |
+| [October 8 at 8:56 AM](https://archive.org/download/estadao-2022/estadao-2022-10-08T08:55:58.063886-03:00.hyperlinks.json) |
 | [October 7 at 9:06 PM](https://archive.org/download/estadao-2022/estadao-2022-10-07T21:06:46.433531-03:00.hyperlinks.json) |
 | [October 7 at 9:08 AM](https://archive.org/download/estadao-2022/estadao-2022-10-07T09:08:28.670526-03:00.hyperlinks.json) |
 | [October 6 at 9:03 PM](https://archive.org/download/estadao-2022/estadao-2022-10-06T21:03:30.888936-03:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 5 at 8:50 PM](https://archive.org/download/estadao-2022/estadao-2022-10-05T20:50:50.293025-03:00.hyperlinks.json) |
 | [October 5 at 9:25 AM](https://archive.org/download/estadao-2022/estadao-2022-10-05T09:25:29.512942-03:00.hyperlinks.json) |
 | [October 5 at 9:16 AM](https://archive.org/download/estadao-2022/estadao-2022-10-05T09:16:03.688560-03:00.hyperlinks.json) |
-| [October 4 at 8:56 PM](https://archive.org/download/estadao-2022/estadao-2022-10-04T20:56:21.773037-03:00.hyperlinks.json) |
-| [October 4 at 9:11 AM](https://archive.org/download/estadao-2022/estadao-2022-10-04T09:11:39.627033-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 189 accessibility trees with the Internet Archive.
+The archiving routine has saved 191 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 8 at 9:00 AM](https://archive.org/download/estadao-2022/estadao-2022-10-08T09:00:46.341565-03:00.accessibility.json) |
+| [October 8 at 8:56 AM](https://archive.org/download/estadao-2022/estadao-2022-10-08T08:55:58.063886-03:00.accessibility.json) |
 | [October 7 at 9:06 PM](https://archive.org/download/estadao-2022/estadao-2022-10-07T21:06:46.433531-03:00.accessibility.json) |
 | [October 7 at 9:08 AM](https://archive.org/download/estadao-2022/estadao-2022-10-07T09:08:28.670526-03:00.accessibility.json) |
 | [October 6 at 9:03 PM](https://archive.org/download/estadao-2022/estadao-2022-10-06T21:03:30.888936-03:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 5 at 8:50 PM](https://archive.org/download/estadao-2022/estadao-2022-10-05T20:50:50.293025-03:00.accessibility.json) |
 | [October 5 at 9:25 AM](https://archive.org/download/estadao-2022/estadao-2022-10-05T09:25:29.512942-03:00.accessibility.json) |
 | [October 5 at 9:16 AM](https://archive.org/download/estadao-2022/estadao-2022-10-05T09:16:03.688560-03:00.accessibility.json) |
-| [October 4 at 8:56 PM](https://archive.org/download/estadao-2022/estadao-2022-10-04T20:56:21.773037-03:00.accessibility.json) |
-| [October 4 at 9:11 AM](https://archive.org/download/estadao-2022/estadao-2022-10-04T09:11:39.627033-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 191 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 193 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 8 at 9:00 AM](https://archive.org/download/estadao-2022/estadao-2022-10-08T09:00:46.341565-03:00.lighthouse.json) |
+| [October 8 at 8:56 AM](https://archive.org/download/estadao-2022/estadao-2022-10-08T08:55:58.063886-03:00.lighthouse.json) |
 | [October 7 at 9:07 PM](https://archive.org/download/estadao-2022/estadao-2022-10-07T21:06:46.433531-03:00.lighthouse.json) |
 | [October 7 at 9:08 AM](https://archive.org/download/estadao-2022/estadao-2022-10-07T09:08:28.670526-03:00.lighthouse.json) |
 | [October 6 at 9:03 PM](https://archive.org/download/estadao-2022/estadao-2022-10-06T21:03:30.888936-03:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 5 at 8:50 PM](https://archive.org/download/estadao-2022/estadao-2022-10-05T20:50:50.293025-03:00.lighthouse.json) |
 | [October 5 at 9:25 AM](https://archive.org/download/estadao-2022/estadao-2022-10-05T09:25:29.512942-03:00.lighthouse.json) |
 | [October 5 at 9:16 AM](https://archive.org/download/estadao-2022/estadao-2022-10-05T09:16:03.688560-03:00.lighthouse.json) |
-| [October 4 at 8:56 PM](https://archive.org/download/estadao-2022/estadao-2022-10-04T20:56:21.773037-03:00.lighthouse.json) |
-| [October 4 at 9:11 AM](https://archive.org/download/estadao-2022/estadao-2022-10-04T09:11:39.627033-03:00.lighthouse.json) |
 
 
 

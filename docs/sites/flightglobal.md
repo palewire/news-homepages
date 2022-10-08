@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 148 screenshots with the Internet Archive.
+The archiving routine has saved 149 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 148 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/flightglobal-2022/flightglobal-2022-10-08T12:56:27.093928+01:00.jpg">
+  <img src="https://archive.org/download/flightglobal-2022/flightglobal-2022-10-08T12:56:27.093928+01:00.jpg"
+     alt="Flight Global at 2022-10-08 12:56:49+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/flightglobal-2022/flightglobal-2022-10-08T12:56:27.093928+01:00.jpg">October 8 at 12:56 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/flightglobal-2022/flightglobal-2022-10-08T10:20:11.919840+01:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/flightglobal-2022/flightglobal-2022-10-05T00:55:55.692217+01:00.jpg">October 5 at 12:56 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/flightglobal-2022/flightglobal-2022-10-04T13:06:50.135489+01:00.jpg">
-  <img src="https://archive.org/download/flightglobal-2022/flightglobal-2022-10-04T13:06:50.135489+01:00.jpg"
-     alt="Flight Global at 2022-10-04 13:06:53+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/flightglobal-2022/flightglobal-2022-10-04T13:06:50.135489+01:00.jpg">October 4 at 1:06 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 148 hyperlink lists with the Internet Archive.
+The archiving routine has saved 149 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 8 at 12:56 PM](https://archive.org/download/flightglobal-2022/flightglobal-2022-10-08T12:56:27.093928+01:00.hyperlinks.json) |
 | [October 8 at 10:20 AM](https://archive.org/download/flightglobal-2022/flightglobal-2022-10-08T10:20:11.919840+01:00.hyperlinks.json) |
 | [October 8 at 1:07 AM](https://archive.org/download/flightglobal-2022/flightglobal-2022-10-08T01:06:48.239193+01:00.hyperlinks.json) |
 | [October 7 at 1:09 PM](https://archive.org/download/flightglobal-2022/flightglobal-2022-10-07T13:09:15.679397+01:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 6 at 10:21 AM](https://archive.org/download/flightglobal-2022/flightglobal-2022-10-06T10:21:34.192662+01:00.hyperlinks.json) |
 | [October 6 at 12:51 AM](https://archive.org/download/flightglobal-2022/flightglobal-2022-10-06T00:51:12.735186+01:00.hyperlinks.json) |
 | [October 5 at 1:16 PM](https://archive.org/download/flightglobal-2022/flightglobal-2022-10-05T13:16:22.246531+01:00.hyperlinks.json) |
-| [October 5 at 10:23 AM](https://archive.org/download/flightglobal-2022/flightglobal-2022-10-05T10:22:50.233251+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 148 accessibility trees with the Internet Archive.
+The archiving routine has saved 149 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 8 at 12:56 PM](https://archive.org/download/flightglobal-2022/flightglobal-2022-10-08T12:56:27.093928+01:00.accessibility.json) |
 | [October 8 at 10:20 AM](https://archive.org/download/flightglobal-2022/flightglobal-2022-10-08T10:20:11.919840+01:00.accessibility.json) |
 | [October 8 at 1:07 AM](https://archive.org/download/flightglobal-2022/flightglobal-2022-10-08T01:06:48.239193+01:00.accessibility.json) |
 | [October 7 at 1:09 PM](https://archive.org/download/flightglobal-2022/flightglobal-2022-10-07T13:09:15.679397+01:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 6 at 10:21 AM](https://archive.org/download/flightglobal-2022/flightglobal-2022-10-06T10:21:34.192662+01:00.accessibility.json) |
 | [October 6 at 12:51 AM](https://archive.org/download/flightglobal-2022/flightglobal-2022-10-06T00:51:12.735186+01:00.accessibility.json) |
 | [October 5 at 1:16 PM](https://archive.org/download/flightglobal-2022/flightglobal-2022-10-05T13:16:22.246531+01:00.accessibility.json) |
-| [October 5 at 10:23 AM](https://archive.org/download/flightglobal-2022/flightglobal-2022-10-05T10:22:50.233251+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 148 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 149 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 8 at 12:56 PM](https://archive.org/download/flightglobal-2022/flightglobal-2022-10-08T12:56:27.093928+01:00.lighthouse.json) |
 | [October 8 at 10:20 AM](https://archive.org/download/flightglobal-2022/flightglobal-2022-10-08T10:20:11.919840+01:00.lighthouse.json) |
 | [October 8 at 1:07 AM](https://archive.org/download/flightglobal-2022/flightglobal-2022-10-08T01:06:48.239193+01:00.lighthouse.json) |
 | [October 7 at 1:09 PM](https://archive.org/download/flightglobal-2022/flightglobal-2022-10-07T13:09:15.679397+01:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 6 at 10:21 AM](https://archive.org/download/flightglobal-2022/flightglobal-2022-10-06T10:21:34.192662+01:00.lighthouse.json) |
 | [October 6 at 12:51 AM](https://archive.org/download/flightglobal-2022/flightglobal-2022-10-06T00:51:12.735186+01:00.lighthouse.json) |
 | [October 5 at 1:16 PM](https://archive.org/download/flightglobal-2022/flightglobal-2022-10-05T13:16:22.246531+01:00.lighthouse.json) |
-| [October 5 at 10:23 AM](https://archive.org/download/flightglobal-2022/flightglobal-2022-10-05T10:22:50.233251+01:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 153 screenshots with the Internet Archive.
+The archiving routine has saved 154 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 153 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/coindesk-2022/coindesk-2022-10-08T07:53:08.250941-04:00.jpg">
+  <img src="https://archive.org/download/coindesk-2022/coindesk-2022-10-08T07:53:08.250941-04:00.jpg"
+     alt="CoinDesk at 2022-10-08 07:53:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-10-08T07:53:08.250941-04:00.jpg">October 8 at 7:53 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/coindesk-2022/coindesk-2022-10-07T20:03:17.696871-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-10-02T19:57:03.448978-04:00.jpg">October 2 at 7:57 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/coindesk-2022/coindesk-2022-10-02T07:53:50.373540-04:00.jpg">
-  <img src="https://archive.org/download/coindesk-2022/coindesk-2022-10-02T07:53:50.373540-04:00.jpg"
-     alt="CoinDesk at 2022-10-02 07:53:55-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-10-02T07:53:50.373540-04:00.jpg">October 2 at 7:53 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 153 hyperlink lists with the Internet Archive.
+The archiving routine has saved 154 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 8 at 7:53 AM](https://archive.org/download/coindesk-2022/coindesk-2022-10-08T07:53:08.250941-04:00.hyperlinks.json) |
 | [October 7 at 8:03 PM](https://archive.org/download/coindesk-2022/coindesk-2022-10-07T20:03:17.696871-04:00.hyperlinks.json) |
 | [October 7 at 8:06 AM](https://archive.org/download/coindesk-2022/coindesk-2022-10-07T08:06:04.016199-04:00.hyperlinks.json) |
 | [October 6 at 8:00 PM](https://archive.org/download/coindesk-2022/coindesk-2022-10-06T20:00:32.432067-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 4 at 7:53 PM](https://archive.org/download/coindesk-2022/coindesk-2022-10-04T19:53:10.019981-04:00.hyperlinks.json) |
 | [October 4 at 8:03 AM](https://archive.org/download/coindesk-2022/coindesk-2022-10-04T08:03:24.370021-04:00.hyperlinks.json) |
 | [October 3 at 7:53 PM](https://archive.org/download/coindesk-2022/coindesk-2022-10-03T19:53:39.034209-04:00.hyperlinks.json) |
-| [October 3 at 7:59 AM](https://archive.org/download/coindesk-2022/coindesk-2022-10-03T07:58:54.025058-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 153 accessibility trees with the Internet Archive.
+The archiving routine has saved 154 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 8 at 7:53 AM](https://archive.org/download/coindesk-2022/coindesk-2022-10-08T07:53:08.250941-04:00.accessibility.json) |
 | [October 7 at 8:03 PM](https://archive.org/download/coindesk-2022/coindesk-2022-10-07T20:03:17.696871-04:00.accessibility.json) |
 | [October 7 at 8:06 AM](https://archive.org/download/coindesk-2022/coindesk-2022-10-07T08:06:04.016199-04:00.accessibility.json) |
 | [October 6 at 8:00 PM](https://archive.org/download/coindesk-2022/coindesk-2022-10-06T20:00:32.432067-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 4 at 7:53 PM](https://archive.org/download/coindesk-2022/coindesk-2022-10-04T19:53:10.019981-04:00.accessibility.json) |
 | [October 4 at 8:03 AM](https://archive.org/download/coindesk-2022/coindesk-2022-10-04T08:03:24.370021-04:00.accessibility.json) |
 | [October 3 at 7:53 PM](https://archive.org/download/coindesk-2022/coindesk-2022-10-03T19:53:39.034209-04:00.accessibility.json) |
-| [October 3 at 7:59 AM](https://archive.org/download/coindesk-2022/coindesk-2022-10-03T07:58:54.025058-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 153 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 154 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 8 at 7:53 AM](https://archive.org/download/coindesk-2022/coindesk-2022-10-08T07:53:08.250941-04:00.lighthouse.json) |
 | [October 7 at 8:03 PM](https://archive.org/download/coindesk-2022/coindesk-2022-10-07T20:03:17.696871-04:00.lighthouse.json) |
 | [October 7 at 8:06 AM](https://archive.org/download/coindesk-2022/coindesk-2022-10-07T08:06:04.016199-04:00.lighthouse.json) |
 | [October 6 at 8:01 PM](https://archive.org/download/coindesk-2022/coindesk-2022-10-06T20:00:32.432067-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 4 at 7:53 PM](https://archive.org/download/coindesk-2022/coindesk-2022-10-04T19:53:10.019981-04:00.lighthouse.json) |
 | [October 4 at 8:03 AM](https://archive.org/download/coindesk-2022/coindesk-2022-10-04T08:03:24.370021-04:00.lighthouse.json) |
 | [October 3 at 7:53 PM](https://archive.org/download/coindesk-2022/coindesk-2022-10-03T19:53:39.034209-04:00.lighthouse.json) |
-| [October 3 at 7:59 AM](https://archive.org/download/coindesk-2022/coindesk-2022-10-03T07:58:54.025058-04:00.lighthouse.json) |
 
 
 
