@@ -1,5 +1,5 @@
 {
-  "created": 1665213765,
+  "created": 1665258780,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/4/items/shelbystar-2022",
@@ -2248,31 +2248,93 @@
       "sha1": "9ee9df3c51f5e7e9f110ed67b699a0a1035e972e"
     },
     {
+      "name": "shelbystar-2022-10-08T15:19:26.744418-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665256771",
+      "size": "23836",
+      "md5": "5a05d607239999025f8bb652c7692a00",
+      "crc32": "050ebce9",
+      "sha1": "6ea582916e6f47bba9d92b31d379dc7635bcaec2",
+      "format": "JSON"
+    },
+    {
+      "name": "shelbystar-2022-10-08T15:19:26.744418-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665256772",
+      "size": "35078",
+      "md5": "67a4834c98ba66decaec5570731c11d2",
+      "crc32": "f8d41d68",
+      "sha1": "5e874ae4c8eff467274d6ecc75544a4fde86577e",
+      "format": "JSON"
+    },
+    {
+      "name": "shelbystar-2022-10-08T15:19:26.744418-04:00.jpg",
+      "source": "original",
+      "mtime": "1665256769",
+      "size": "304807",
+      "md5": "cf4bfc271fa0f2004e4e16a7995bdadf",
+      "crc32": "cf5f3de6",
+      "sha1": "88fc3cb2987dd3eed42dc0aca9aa000a68980e26",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "shelbystar-2022-10-08T15:19:26.744418-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665256774",
+      "size": "1495",
+      "md5": "87499d012808203105d7fe54b3a3f548",
+      "crc32": "f04756d3",
+      "sha1": "0ea82215b91becf614a09183015db90c8a1b1a26",
+      "format": "JSON"
+    },
+    {
+      "name": "shelbystar-2022-10-08T15:19:26.744418-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665256777",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "shelbystar-2022-10-08T15:19:26.744418-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "shelbystar-2022-10-08T15:19:26.744418-04:00.jpg",
+      "mtime": "1665256825",
+      "size": "9450",
+      "md5": "469772c0bc7954c4c31f8eab4f3c5a91",
+      "crc32": "474c0837",
+      "sha1": "0d1a1c863a63b03050c781c7b7506535931c3493"
+    },
+    {
       "name": "shelbystar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ce0554885c6002b3a1e4b2a20ef6f68980dcdab6",
-      "mtime": "1665213759",
-      "size": "47594",
-      "md5": "2e9d9ccd15229ae80ce5f6d2e0b8f352",
-      "crc32": "8f2b6d95",
-      "sha1": "0c0e10fd3750382327a4f87ac7e13453be912511",
+      "btih": "0521d2d30530258886a4f0674954fae783ce1754",
+      "mtime": "1665256829",
+      "size": "48851",
+      "md5": "8a3e40a4519a2e1a69ae5932d1a0b0fe",
+      "crc32": "d794cdf2",
+      "sha1": "9ea5626546ad5d024e215eeb96e30c4e77a33577",
       "format": "Archive BitTorrent"
     },
     {
       "name": "shelbystar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4eb04d3b9862e756269ad2daeb89e95b",
+      "md5": "6b6382eb8c813d18bb02e8081244bcce",
       "summation": "md5"
     },
     {
       "name": "shelbystar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665213708",
-      "size": "294912",
-      "md5": "08a6c716386084f576a77a3e8cf40337",
-      "crc32": "3334544e",
-      "sha1": "8318b00dfd183ae40d6901bd544424dab812700f",
+      "mtime": "1665256780",
+      "size": "303104",
+      "md5": "b8f5fa4487fe7f98e90e8c493cb771f1",
+      "crc32": "130690f9",
+      "sha1": "b9d792c2e5245e29e2d6be0815a36a242f92e74a",
       "format": "Metadata"
     },
     {
@@ -2286,9 +2348,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 221,
-  "item_last_updated": 1665213759,
-  "item_size": 16346768,
+  "files_count": 227,
+  "item_last_updated": 1665256829,
+  "item_size": 16731085,
   "metadata": {
     "identifier": "shelbystar-2022",
     "collection": [
@@ -2305,10 +2367,15 @@
     "publicdate": "2022-09-20 19:23:48",
     "addeddate": "2022-09-20 19:23:48"
   },
-  "server": "ia801502.us.archive.org",
-  "uniq": 1449790502,
+  "server": "ia601502.us.archive.org",
+  "shelbystar-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 326147384,
   "workable_servers": [
-    "ia801502.us.archive.org",
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }

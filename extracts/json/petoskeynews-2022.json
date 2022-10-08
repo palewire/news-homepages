@@ -1,5 +1,5 @@
 {
-  "created": 1665213640,
+  "created": 1665256622,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/21/items/petoskeynews-2022",
@@ -2238,31 +2238,93 @@
       "sha1": "1ba4b38adc64111fd47d61adee19fcaa3cd0513d"
     },
     {
+      "name": "petoskeynews-2022-10-08T15:15:51.069534-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665256555",
+      "size": "24307",
+      "md5": "49199b8676437737abe617c1ee9d7442",
+      "crc32": "1f34e286",
+      "sha1": "975a0cbbcf3a23aa0864570de18f3e490db6e825",
+      "format": "JSON"
+    },
+    {
+      "name": "petoskeynews-2022-10-08T15:15:51.069534-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665256556",
+      "size": "40410",
+      "md5": "51a8614c7a73694a900e466c1b8747ea",
+      "crc32": "4322aa35",
+      "sha1": "5062b5602d9da9b3d8342e73a18e4644c86f93d4",
+      "format": "JSON"
+    },
+    {
+      "name": "petoskeynews-2022-10-08T15:15:51.069534-04:00.jpg",
+      "source": "original",
+      "mtime": "1665256553",
+      "size": "241585",
+      "md5": "66a61ddd26d2a77e9a5edcdbf0cbcff4",
+      "crc32": "b9916a89",
+      "sha1": "0bcf441944545e12e234c224899dfb786698a7f1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "petoskeynews-2022-10-08T15:15:51.069534-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665256557",
+      "size": "1512",
+      "md5": "c5310a94cd375253450b88a310e2eda3",
+      "crc32": "2fa9b773",
+      "sha1": "879c7017bd02712d95958f4f3a8eecc35291fb65",
+      "format": "JSON"
+    },
+    {
+      "name": "petoskeynews-2022-10-08T15:15:51.069534-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665256558",
+      "size": "75474",
+      "md5": "268152af655925b5341b84756c85e4f0",
+      "crc32": "7fde480f",
+      "sha1": "55225d57a0b17aed872c9ee8f16830eae5c7393f",
+      "format": "JSON"
+    },
+    {
+      "name": "petoskeynews-2022-10-08T15:15:51.069534-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "petoskeynews-2022-10-08T15:15:51.069534-04:00.jpg",
+      "mtime": "1665256610",
+      "size": "9239",
+      "md5": "27727e2ebd0c80cd3a986c2ba2d437f3",
+      "crc32": "19284411",
+      "sha1": "3e642d79699dc8477e89c0e1e8b636d82357f0bb"
+    },
+    {
       "name": "petoskeynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b4dd66ab77f6e2d609bdbaacc7fd5fe771101491",
-      "mtime": "1665213633",
-      "size": "47813",
-      "md5": "7119b9c47ba0f2dca367eed1983e539c",
-      "crc32": "97ccc6ad",
-      "sha1": "6306f2ab58b684f4b67ca88d2c2287adc0b9a049",
+      "btih": "eac3c18f9b6203ab0c4e23b4e26c194039801603",
+      "mtime": "1665256613",
+      "size": "49104",
+      "md5": "38e75b08168323caa02cc5390bedf6fc",
+      "crc32": "4844abf7",
+      "sha1": "116dfe93f344abf39f93bcee19c4b0b2c434a8a0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "petoskeynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5a614d197d9dcda6aa977dd712f66794",
+      "md5": "ca6ed98d445684acb2c887c92cd2d851",
       "summation": "md5"
     },
     {
       "name": "petoskeynews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665213582",
-      "size": "294912",
-      "md5": "38de54663c0757e379b4ce4766a74cce",
-      "crc32": "92342617",
-      "sha1": "b2b4ae738496ed7a2415fd3f000c72b64b347a7e",
+      "mtime": "1665256562",
+      "size": "303104",
+      "md5": "c3e418c10c03503f11a9520b3a514626",
+      "crc32": "e2696496",
+      "sha1": "0502f5a24c9c3c661bca9af9039a00fb9927d20d",
       "format": "Metadata"
     },
     {
@@ -2276,9 +2338,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 220,
-  "item_last_updated": 1665213633,
-  "item_size": 15987089,
+  "files_count": 226,
+  "item_last_updated": 1665256613,
+  "item_size": 16389099,
   "metadata": {
     "identifier": "petoskeynews-2022",
     "collection": [
@@ -2296,7 +2358,7 @@
     "addeddate": "2022-09-20 19:10:30"
   },
   "server": "ia801501.us.archive.org",
-  "uniq": 2105848377,
+  "uniq": 1340222397,
   "workable_servers": [
     "ia801501.us.archive.org",
     "ia601501.us.archive.org"
