@@ -1,5 +1,5 @@
 {
-  "created": 1665183689,
+  "created": 1665226182,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/2/items/alpublicradio-2022",
@@ -3260,31 +3260,93 @@
       "sha1": "0c8ada2e726f6a1ad330c8e46dec3007319720ac"
     },
     {
+      "name": "alpublicradio-2022-10-08T05:48:27.337198-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665226111",
+      "size": "25033",
+      "md5": "695a59fcf818c2aa346decdad1308176",
+      "crc32": "7c265aeb",
+      "sha1": "d61603800dc1c6b9fae3d81ef899fa8240b29830",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-08T05:48:27.337198-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665226113",
+      "size": "40920",
+      "md5": "6d1917ec22321b77c78fa8b8948fe6cf",
+      "crc32": "5de6eac0",
+      "sha1": "4c58ed9907b17da317a3da4baa1e276ae78a6f7b",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-08T05:48:27.337198-05:00.jpg",
+      "source": "original",
+      "mtime": "1665226110",
+      "size": "253807",
+      "md5": "ffc5860a4d0eb579a382142c5d2c02ae",
+      "crc32": "2e523b42",
+      "sha1": "9b88e02412cfe26a2ddd03ba46d5b5ef7ffd8150",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alpublicradio-2022-10-08T05:48:27.337198-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665226114",
+      "size": "1423",
+      "md5": "4244bc6d2e66c87c4c3ee886cb88c0c3",
+      "crc32": "40ba1365",
+      "sha1": "783353fae539b4b69785c75e85aa541f823fce9a",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-08T05:48:27.337198-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665226116",
+      "size": "200",
+      "md5": "fbb86a9f0195e9d8f6026787407fb285",
+      "crc32": "04c2ea69",
+      "sha1": "415cd7c8964a7537bb4ca15b30fa272e0bcb788d",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-08T05:48:27.337198-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alpublicradio-2022-10-08T05:48:27.337198-05:00.jpg",
+      "mtime": "1665226170",
+      "size": "9987",
+      "md5": "88133bff43172ce8cabe4b5110d764db",
+      "crc32": "5a877fbc",
+      "sha1": "2afb3eee385734cb7c4885375a51144b60a8261e"
+    },
+    {
       "name": "alpublicradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "806bb6f920510406559aac7275933becf92f2a8f",
-      "mtime": "1665183663",
-      "size": "69231",
-      "md5": "6975a3355993bc3ca89baa4ba1c30ed3",
-      "crc32": "3895481a",
-      "sha1": "7f61b7342bc49d78a5a25f2492b14b708912204c",
+      "btih": "529cb2b3297a499c298619acaa67fc7684780a9c",
+      "mtime": "1665226173",
+      "size": "70526",
+      "md5": "03f3ffdaa6321de02b50b4f9953b52b1",
+      "crc32": "331b4405",
+      "sha1": "a38a979211d8b788336c065849559fb5a80dd403",
       "format": "Archive BitTorrent"
     },
     {
       "name": "alpublicradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ec4774a6bbd65e1fb14d64615093f4ec",
+      "md5": "4103dd727c523689dfd9ddc1cafca612",
       "summation": "md5"
     },
     {
       "name": "alpublicradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665183611",
-      "size": "425984",
-      "md5": "391aedf719fef194882ba644853724c0",
-      "crc32": "4514a18c",
-      "sha1": "fbe0d276f518ba706069efaf86cd3c9931638baa",
+      "mtime": "1665226123",
+      "size": "430080",
+      "md5": "e40a935635dff7085dde72ca3b7a6bce",
+      "crc32": "06c06456",
+      "sha1": "5c1344ec890af07fe7d4c464b59e23cfc53c334e",
       "format": "Metadata"
     },
     {
@@ -3298,9 +3360,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 319,
-  "item_last_updated": 1665183663,
-  "item_size": 19152830,
+  "files_count": 325,
+  "item_last_updated": 1665226173,
+  "item_size": 19489591,
   "metadata": {
     "identifier": "alpublicradio-2022",
     "collection": [
@@ -3317,10 +3379,10 @@
     "publicdate": "2022-09-12 11:03:14",
     "addeddate": "2022-09-12 11:03:14"
   },
-  "server": "ia601503.us.archive.org",
-  "uniq": 771432148,
+  "server": "ia801503.us.archive.org",
+  "uniq": 109300802,
   "workable_servers": [
-    "ia601503.us.archive.org",
-    "ia801503.us.archive.org"
+    "ia801503.us.archive.org",
+    "ia601503.us.archive.org"
   ]
 }
