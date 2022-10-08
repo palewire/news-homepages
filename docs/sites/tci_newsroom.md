@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 33 screenshots with the Internet Archive.
+The archiving routine has saved 35 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-07T23:37:29.866470-04:00.jpg">
+  <img src="https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-07T23:37:29.866470-04:00.jpg"
+     alt="Tri-County Independent at 2022-10-07 23:37:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-07T23:37:29.866470-04:00.jpg">October 7 at 11:37 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-07T11:09:05.488696-04:00.jpg">
+  <img src="https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-07T11:09:05.488696-04:00.jpg"
+     alt="Tri-County Independent at 2022-10-07 11:09:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-07T11:09:05.488696-04:00.jpg">October 7 at 11:09 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-07T00:23:56.332325-04:00.jpg">
   <img src="https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-07T00:23:56.332325-04:00.jpg"
      alt="Tri-County Independent at 2022-10-07 00:24:02-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-02T11:04:53.858405-04:00.jpg">October 2 at 11:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-01T23:42:39.901994-04:00.jpg">
-  <img src="https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-01T23:42:39.901994-04:00.jpg"
-     alt="Tri-County Independent at 2022-10-01 23:42:45-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-01T23:42:39.901994-04:00.jpg">October 1 at 11:42 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-01T11:01:45.198674-04:00.jpg">
-  <img src="https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-01T11:01:45.198674-04:00.jpg"
-     alt="Tri-County Independent at 2022-10-01 11:01:47-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-01T11:01:45.198674-04:00.jpg">October 1 at 11:01 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 33 hyperlink lists with the Internet Archive.
+The archiving routine has saved 35 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 7 at 11:37 PM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-07T23:37:29.866470-04:00.hyperlinks.json) |
+| [October 7 at 11:09 AM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-07T11:09:05.488696-04:00.hyperlinks.json) |
 | [October 7 at 12:24 AM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-07T00:23:56.332325-04:00.hyperlinks.json) |
 | [October 6 at 11:04 AM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-06T11:04:26.426116-04:00.hyperlinks.json) |
 | [October 6 at 12:15 AM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-06T00:14:55.976359-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 4 at 11:10 AM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-04T11:10:14.736158-04:00.hyperlinks.json) |
 | [October 3 at 11:40 PM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-03T23:40:04.940560-04:00.hyperlinks.json) |
 | [October 3 at 11:08 AM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-03T11:08:00.943911-04:00.hyperlinks.json) |
-| [October 2 at 11:36 PM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-02T23:36:08.681114-04:00.hyperlinks.json) |
-| [October 2 at 11:05 AM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-02T11:04:53.858405-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 33 accessibility trees with the Internet Archive.
+The archiving routine has saved 35 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 7 at 11:37 PM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-07T23:37:29.866470-04:00.accessibility.json) |
+| [October 7 at 11:09 AM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-07T11:09:05.488696-04:00.accessibility.json) |
 | [October 7 at 12:24 AM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-07T00:23:56.332325-04:00.accessibility.json) |
 | [October 6 at 11:04 AM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-06T11:04:26.426116-04:00.accessibility.json) |
 | [October 6 at 12:15 AM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-06T00:14:55.976359-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 4 at 11:10 AM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-04T11:10:14.736158-04:00.accessibility.json) |
 | [October 3 at 11:40 PM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-03T23:40:04.940560-04:00.accessibility.json) |
 | [October 3 at 11:08 AM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-03T11:08:00.943911-04:00.accessibility.json) |
-| [October 2 at 11:36 PM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-02T23:36:08.681114-04:00.accessibility.json) |
-| [October 2 at 11:04 AM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-02T11:04:53.858405-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 7 at 11:37 PM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-07T23:37:29.866470-04:00.lighthouse.json) |
+| [October 7 at 11:09 AM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-07T11:09:05.488696-04:00.lighthouse.json) |
 | [October 7 at 12:24 AM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-07T00:23:56.332325-04:00.lighthouse.json) |
 | [October 6 at 11:04 AM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-06T11:04:26.426116-04:00.lighthouse.json) |
 | [October 6 at 12:15 AM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-06T00:14:55.976359-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 4 at 11:10 AM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-04T11:10:14.736158-04:00.lighthouse.json) |
 | [October 3 at 11:40 PM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-03T23:40:04.940560-04:00.lighthouse.json) |
 | [October 3 at 11:08 AM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-03T11:08:00.943911-04:00.lighthouse.json) |
-| [October 2 at 11:36 PM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-02T23:36:08.681114-04:00.lighthouse.json) |
-| [October 2 at 11:05 AM](https://archive.org/download/tci_newsroom-2022/tci_newsroom-2022-10-02T11:04:53.858405-04:00.lighthouse.json) |
 
 
 

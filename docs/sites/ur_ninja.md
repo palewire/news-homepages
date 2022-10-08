@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 323 screenshots with the Internet Archive.
+The archiving routine has saved 324 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 323 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-07T22:45:42.525227-05:00.jpg">
+  <img src="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-07T22:45:42.525227-05:00.jpg"
+     alt="Unicorn Riot at 2022-10-07 22:45:43-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-07T22:45:42.525227-05:00.jpg">October 7 at 10:45 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-07T15:32:01.852861-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-04T10:14:40.312597-05:00.jpg">October 4 at 10:14 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-03T22:48:26.682528-05:00.jpg">
-  <img src="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-03T22:48:26.682528-05:00.jpg"
-     alt="Unicorn Riot at 2022-10-03 22:48:29-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-03T22:48:26.682528-05:00.jpg">October 3 at 10:48 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 324 hyperlink lists with the Internet Archive.
+The archiving routine has saved 325 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 7 at 10:45 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-07T22:45:42.525227-05:00.hyperlinks.json) |
 | [October 7 at 3:32 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-07T15:32:01.852861-05:00.hyperlinks.json) |
 | [October 7 at 10:14 AM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-07T10:13:49.855035-05:00.hyperlinks.json) |
 | [October 6 at 11:29 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-06T23:29:03.516163-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 5 at 3:59 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-05T15:58:57.215450-05:00.hyperlinks.json) |
 | [October 5 at 10:34 AM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-05T10:34:12.119794-05:00.hyperlinks.json) |
 | [October 4 at 10:34 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-04T22:34:09.873809-05:00.hyperlinks.json) |
-| [October 4 at 3:14 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-04T15:14:18.455722-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 323 accessibility trees with the Internet Archive.
+The archiving routine has saved 324 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 7 at 10:45 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-07T22:45:42.525227-05:00.accessibility.json) |
 | [October 7 at 3:32 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-07T15:32:01.852861-05:00.accessibility.json) |
 | [October 7 at 10:14 AM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-07T10:13:49.855035-05:00.accessibility.json) |
 | [October 6 at 11:29 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-06T23:29:03.516163-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 5 at 3:59 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-05T15:58:57.215450-05:00.accessibility.json) |
 | [October 5 at 10:34 AM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-05T10:34:12.119794-05:00.accessibility.json) |
 | [October 4 at 10:34 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-04T22:34:09.873809-05:00.accessibility.json) |
-| [October 4 at 3:14 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-04T15:14:18.455722-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 224 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 225 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 7 at 10:45 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-07T22:45:42.525227-05:00.lighthouse.json) |
 | [October 7 at 3:32 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-07T15:32:01.852861-05:00.lighthouse.json) |
 | [October 7 at 10:14 AM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-07T10:13:49.855035-05:00.lighthouse.json) |
 | [October 6 at 11:29 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-06T23:29:03.516163-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 5 at 3:59 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-05T15:58:57.215450-05:00.lighthouse.json) |
 | [October 5 at 10:34 AM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-05T10:34:12.119794-05:00.lighthouse.json) |
 | [October 4 at 10:34 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-04T22:34:09.873809-05:00.lighthouse.json) |
-| [October 4 at 3:14 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-10-04T15:14:18.455722-05:00.lighthouse.json) |
 
 
 

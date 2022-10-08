@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 45 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-07T17:38:02.484660-10:00.jpg">
+  <img src="https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-07T17:38:02.484660-10:00.jpg"
+     alt="Honolulu Star-Advertiser at 2022-10-07 17:38:08-10:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-07T17:38:02.484660-10:00.jpg">October 7 at 5:38 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-07T05:09:06.946965-10:00.jpg">
+  <img src="https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-07T05:09:06.946965-10:00.jpg"
+     alt="Honolulu Star-Advertiser at 2022-10-07 05:09:08-10:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-07T05:09:06.946965-10:00.jpg">October 7 at 5:09 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-06T18:23:51.397784-10:00.jpg">
   <img src="https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-06T18:23:51.397784-10:00.jpg"
      alt="Honolulu Star-Advertiser at 2022-10-06 18:23:54-10:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-02T05:04:51.546578-10:00.jpg">October 2 at 5:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-01T17:42:44.048575-10:00.jpg">
-  <img src="https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-01T17:42:44.048575-10:00.jpg"
-     alt="Honolulu Star-Advertiser at 2022-10-01 17:42:49-10:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-01T17:42:44.048575-10:00.jpg">October 1 at 5:42 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-01T05:01:26.591891-10:00.jpg">
-  <img src="https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-01T05:01:26.591891-10:00.jpg"
-     alt="Honolulu Star-Advertiser at 2022-10-01 05:01:29-10:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-01T05:01:26.591891-10:00.jpg">October 1 at 5:01 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 45 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 7 at 5:38 PM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-07T17:38:02.484660-10:00.hyperlinks.json) |
+| [October 7 at 5:09 AM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-07T05:09:06.946965-10:00.hyperlinks.json) |
 | [October 6 at 6:23 PM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-06T18:23:51.397784-10:00.hyperlinks.json) |
 | [October 6 at 5:04 AM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-06T05:04:32.098171-10:00.hyperlinks.json) |
 | [October 5 at 6:14 PM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-05T18:14:09.193109-10:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 4 at 5:09 AM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-04T05:08:57.778755-10:00.hyperlinks.json) |
 | [October 3 at 5:40 PM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-03T17:40:29.595018-10:00.hyperlinks.json) |
 | [October 3 at 5:08 AM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-03T05:08:44.776386-10:00.hyperlinks.json) |
-| [October 2 at 5:36 PM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-02T17:36:07.651192-10:00.hyperlinks.json) |
-| [October 2 at 5:04 AM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-02T05:04:51.546578-10:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 44 accessibility trees with the Internet Archive.
+The archiving routine has saved 46 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 7 at 5:38 PM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-07T17:38:02.484660-10:00.accessibility.json) |
+| [October 7 at 5:09 AM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-07T05:09:06.946965-10:00.accessibility.json) |
 | [October 6 at 6:23 PM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-06T18:23:51.397784-10:00.accessibility.json) |
 | [October 6 at 5:04 AM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-06T05:04:32.098171-10:00.accessibility.json) |
 | [October 5 at 6:14 PM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-05T18:14:09.193109-10:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 4 at 5:09 AM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-04T05:08:57.778755-10:00.accessibility.json) |
 | [October 3 at 5:40 PM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-03T17:40:29.595018-10:00.accessibility.json) |
 | [October 2 at 5:36 PM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-02T17:36:07.651192-10:00.accessibility.json) |
-| [October 2 at 5:04 AM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-02T05:04:51.546578-10:00.accessibility.json) |
-| [October 1 at 5:42 PM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-01T17:42:44.048575-10:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 7 at 5:38 PM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-07T17:38:02.484660-10:00.lighthouse.json) |
+| [October 7 at 5:09 AM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-07T05:09:06.946965-10:00.lighthouse.json) |
 | [October 6 at 6:24 PM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-06T18:23:51.397784-10:00.lighthouse.json) |
 | [October 6 at 5:04 AM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-06T05:04:32.098171-10:00.lighthouse.json) |
 | [October 5 at 6:14 PM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-05T18:14:09.193109-10:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 4 at 5:09 AM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-04T05:08:57.778755-10:00.lighthouse.json) |
 | [October 3 at 5:40 PM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-03T17:40:29.595018-10:00.lighthouse.json) |
 | [October 3 at 5:08 AM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-03T05:08:44.776386-10:00.lighthouse.json) |
-| [October 2 at 5:36 PM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-02T17:36:07.651192-10:00.lighthouse.json) |
-| [October 2 at 5:05 AM](https://archive.org/download/staradvertiser-2022/staradvertiser-2022-10-02T05:04:51.546578-10:00.lighthouse.json) |
 
 
 
