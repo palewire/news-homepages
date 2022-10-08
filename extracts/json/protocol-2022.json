@@ -1,5 +1,5 @@
 {
-  "created": 1665213700,
+  "created": 1665256780,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/18/items/protocol-2022",
@@ -11426,31 +11426,83 @@
       "sha1": "59da56f91640a1f69ff27f512e1b54d1a822c225"
     },
     {
+      "name": "protocol-2022-10-08T12:17:35.178881-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665256658",
+      "size": "13250",
+      "md5": "e5d76b5f4c9e14ee2c1862dc91fef03f",
+      "crc32": "112fab6c",
+      "sha1": "806606421de53bd6f9fc776d1538146c0208e539",
+      "format": "JSON"
+    },
+    {
+      "name": "protocol-2022-10-08T12:17:35.178881-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665256660",
+      "size": "31436",
+      "md5": "127da667305d59469b6ee65791e0683a",
+      "crc32": "dfc66140",
+      "sha1": "b2fb33888e7dbbd75b26b377fdf20ef6c436559a",
+      "format": "JSON"
+    },
+    {
+      "name": "protocol-2022-10-08T12:17:35.178881-07:00.jpg",
+      "source": "original",
+      "mtime": "1665256657",
+      "size": "237897",
+      "md5": "de3d6cdc0c9975076cd7ec9d8ccf84cf",
+      "crc32": "a5f865ff",
+      "sha1": "5e6bab973c0f8d0156622750da1d95d31fd49bc7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "protocol-2022-10-08T12:17:35.178881-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665256662",
+      "size": "1474",
+      "md5": "2e7367732cf3c3c9e5075f3ff39206ca",
+      "crc32": "fcff01de",
+      "sha1": "9d5d943d1ce78bf469d19ecbffac2b04ce8441c4",
+      "format": "JSON"
+    },
+    {
+      "name": "protocol-2022-10-08T12:17:35.178881-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "protocol-2022-10-08T12:17:35.178881-07:00.jpg",
+      "mtime": "1665256740",
+      "size": "9845",
+      "md5": "d458731ebe59ff56f6e5097b96293374",
+      "crc32": "32cedbca",
+      "sha1": "490e0c3f3ddb210f1bc894f0122b71c2d1c9828c"
+    },
+    {
       "name": "protocol-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ef7338d36a69191b16010ab5a4cda723e421f902",
-      "mtime": "1665213693",
-      "size": "232323",
-      "md5": "2abf8c2b34bc22faa6430f5e32b98ddb",
-      "crc32": "cd128110",
-      "sha1": "f723372bfc3d95a284cc8e63c41b498638c4db23",
+      "btih": "df01c10005617e5882c5acfa54729f9cf6ec368e",
+      "mtime": "1665256751",
+      "size": "233382",
+      "md5": "e10dc4879b65b43886d42f65a4499c7d",
+      "crc32": "e839d4ac",
+      "sha1": "bbb0f580397bc58073e35fd0b3cf15ed92498097",
       "format": "Archive BitTorrent"
     },
     {
       "name": "protocol-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d3320d21be0709cef17b88d4944a5134",
+      "md5": "d8c6842756f5cba3f7a92953d2ae9dbe",
       "summation": "md5"
     },
     {
       "name": "protocol-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665213627",
-      "size": "1376256",
-      "md5": "679d42d8c1c9408279ac6adf142b0511",
-      "crc32": "338f5aed",
-      "sha1": "85ca439d8dc44b67f8d662c4f3650c50b3ebd4ec",
+      "mtime": "1665256680",
+      "size": "1380352",
+      "md5": "b32cfc0e0160035c189998a3b351fde0",
+      "crc32": "d80a7ae2",
+      "sha1": "56ce3cb5dfe3ce3658b61f21005ee29dde803a16",
       "format": "Metadata"
     },
     {
@@ -11464,9 +11516,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1105,
-  "item_last_updated": 1665213693,
-  "item_size": 59240821,
+  "files_count": 1110,
+  "item_last_updated": 1665256751,
+  "item_size": 59539878,
   "metadata": {
     "identifier": "protocol-2022",
     "collection": [
@@ -11483,10 +11535,10 @@
     "publicdate": "2022-07-04 20:17:42",
     "addeddate": "2022-07-04 20:17:42"
   },
-  "server": "ia902507.us.archive.org",
-  "uniq": 1530733326,
+  "server": "ia802507.us.archive.org",
+  "uniq": 923767086,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia802507.us.archive.org",
+    "ia902507.us.archive.org"
   ]
 }

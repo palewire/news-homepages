@@ -1,5 +1,5 @@
 {
-  "created": 1665213717,
+  "created": 1665256638,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/10/items/portlandmercury-2022",
@@ -9792,31 +9792,93 @@
       "sha1": "71fa48e00a5f34e86b48a924c73f83f989623304"
     },
     {
+      "name": "portlandmercury-2022-10-08T12:15:14.067144-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665256535",
+      "size": "23158",
+      "md5": "d16e52fe6bd978e30f4cd435ef34b321",
+      "crc32": "870c64b0",
+      "sha1": "2b7a8c71d978292195c834819d40c43c9310380c",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-10-08T12:15:14.067144-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665256536",
+      "size": "23860",
+      "md5": "e94d351b95dabdb53034b315b55a3f07",
+      "crc32": "5774b907",
+      "sha1": "a4aeabfee0b87f953eaa6ee349f23a7081396831",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-10-08T12:15:14.067144-07:00.jpg",
+      "source": "original",
+      "mtime": "1665256533",
+      "size": "282394",
+      "md5": "558dc8e7973c0e59cc99a1ab92a1b568",
+      "crc32": "b45f3d7b",
+      "sha1": "637d6000862643a3b81c512e2f71e0cf72d781ec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "portlandmercury-2022-10-08T12:15:14.067144-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665256538",
+      "size": "1540",
+      "md5": "bb0b6840c5b19a75901c7a9185a325cb",
+      "crc32": "ec1dca60",
+      "sha1": "a7736d123854fed040da49701f40b82730a87756",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-10-08T12:15:14.067144-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665256540",
+      "size": "21940",
+      "md5": "78e4cdecf11066219efd8de2bba5abf6",
+      "crc32": "07c3823c",
+      "sha1": "9867580ae4ae66875c4e0531b01aede918da8a31",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-10-08T12:15:14.067144-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "portlandmercury-2022-10-08T12:15:14.067144-07:00.jpg",
+      "mtime": "1665256609",
+      "size": "9749",
+      "md5": "0010f31d8957f2a63a790b8c0ee2189c",
+      "crc32": "1dc82512",
+      "sha1": "8cb498e9f8a2b7e8f184237ef129e5a449c87107"
+    },
+    {
       "name": "portlandmercury-2022_archive.torrent",
       "source": "metadata",
-      "btih": "654e29e9f49f1f3ff850054bf9e34ec92c7cef6f",
-      "mtime": "1665213701",
-      "size": "207564",
-      "md5": "a75e4ed53f41b11d827927973d4109fc",
-      "crc32": "ced39a78",
-      "sha1": "48cf105f89a8a725d910b9ee34849e7d8ebbffa8",
+      "btih": "2d3ec237c303d2af354f13fbf052f76515f9cb65",
+      "mtime": "1665256625",
+      "size": "208873",
+      "md5": "6483379eabe50ef7f580da1bff032e18",
+      "crc32": "d3adc391",
+      "sha1": "6c755c6a5c491da0e07fcb47750afc1b70d8d6b0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "portlandmercury-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8b43c6c3c5d1f754a519a92e141c5258",
+      "md5": "e6b829b01473db9236f4a690a3e7f503",
       "summation": "md5"
     },
     {
       "name": "portlandmercury-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665213601",
-      "size": "1228800",
-      "md5": "5e6a04621ff6fbbd03378040570868b0",
-      "crc32": "710bef23",
-      "sha1": "9aeca01757adc89b649318588dd9765cf1c01e11",
+      "mtime": "1665256544",
+      "size": "1236992",
+      "md5": "318f142d0c9a6be040822d31a93c2a17",
+      "crc32": "e4e09c3f",
+      "sha1": "f0f05f46be45f0b095b7b812a09ce776e396ae80",
       "format": "Metadata"
     },
     {
@@ -9830,9 +9892,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 951,
-  "item_last_updated": 1665213701,
-  "item_size": 63393742,
+  "files_count": 957,
+  "item_last_updated": 1665256625,
+  "item_size": 63765884,
   "metadata": {
     "identifier": "portlandmercury-2022",
     "collection": [
@@ -9849,10 +9911,10 @@
     "publicdate": "2022-07-04 21:51:34",
     "addeddate": "2022-07-04 21:51:34"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 962053035,
+  "server": "ia601408.us.archive.org",
+  "uniq": 1453576425,
   "workable_servers": [
-    "ia801408.us.archive.org",
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

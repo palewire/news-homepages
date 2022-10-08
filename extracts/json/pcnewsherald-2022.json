@@ -1,5 +1,5 @@
 {
-  "created": 1665213537,
+  "created": 1665256707,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/15/items/pcnewsherald-2022",
@@ -2186,31 +2186,93 @@
       "sha1": "9ac8e55b52a30d2a168837681a6dc3895671287d"
     },
     {
+      "name": "pcnewsherald-2022-10-08T15:15:47.913816-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665256550",
+      "size": "19338",
+      "md5": "fab148ff245896e657b43a861dbe2f1a",
+      "crc32": "2ca98e82",
+      "sha1": "fd80b3fdd44d6aaa0ba086947a021fdf680fc305",
+      "format": "JSON"
+    },
+    {
+      "name": "pcnewsherald-2022-10-08T15:15:47.913816-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665256551",
+      "size": "35463",
+      "md5": "da2582f60d5bce86ccb270a89eaa72df",
+      "crc32": "ae0669e8",
+      "sha1": "388e704b87a74d5fd57f4d5366c08d10c27777f7",
+      "format": "JSON"
+    },
+    {
+      "name": "pcnewsherald-2022-10-08T15:15:47.913816-04:00.jpg",
+      "source": "original",
+      "mtime": "1665256548",
+      "size": "250469",
+      "md5": "2567250714889e0482a8072bab96162e",
+      "crc32": "c86f9e73",
+      "sha1": "d97a571784fdf10e6621e6b3eb03b2d8e8814fd6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pcnewsherald-2022-10-08T15:15:47.913816-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665256553",
+      "size": "1594",
+      "md5": "9549b67466e35dc15db37a270220e4d2",
+      "crc32": "2b71c569",
+      "sha1": "97051c69d0ca30135379c717f864d6bd865e5b0c",
+      "format": "JSON"
+    },
+    {
+      "name": "pcnewsherald-2022-10-08T15:15:47.913816-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665256554",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "pcnewsherald-2022-10-08T15:15:47.913816-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pcnewsherald-2022-10-08T15:15:47.913816-04:00.jpg",
+      "mtime": "1665256680",
+      "size": "9123",
+      "md5": "83fbe6569bcf575e083997b61fcd0b02",
+      "crc32": "3587a180",
+      "sha1": "a4ad475ca42c918721cc704af6ea07215fc135a3"
+    },
+    {
       "name": "pcnewsherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f4ed1b07538e1899a32165eae4d1f4e30d382059",
-      "mtime": "1665213531",
-      "size": "46679",
-      "md5": "547554674354ccb1993c1167668bedfb",
-      "crc32": "080c80de",
-      "sha1": "4ce6be3bbf1d90bd8650fff72240eb1ed7e66b28",
+      "btih": "79dafb769d9cd897e166aa0171e0bb8d00bbe03a",
+      "mtime": "1665256684",
+      "size": "47948",
+      "md5": "6ce2310bbb8420e54f7fa31cd3f2344f",
+      "crc32": "c97d24d4",
+      "sha1": "759a03e035f9eabea0737fe9a400ef5559afc2a3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pcnewsherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dbe09864c1b243e6e17bc08494bff340",
+      "md5": "e4665cea6e545a9436fd8c7e51f747cd",
       "summation": "md5"
     },
     {
       "name": "pcnewsherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665213467",
-      "size": "290816",
-      "md5": "051046b9095b4a7a50a01f3df811d586",
-      "crc32": "e68c7d95",
-      "sha1": "f21c4430b80bcfd1688dea9f7d977ce91c82e6ce",
+      "mtime": "1665256559",
+      "size": "294912",
+      "md5": "e0a661988295ebc94470f42d791ae356",
+      "crc32": "ae9f6ddf",
+      "sha1": "e0d1ddc3d2f06e0d21c998a2ba7d651f5d403015",
       "format": "Metadata"
     },
     {
@@ -2224,9 +2286,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 215,
-  "item_last_updated": 1665213531,
-  "item_size": 14285644,
+  "files_count": 221,
+  "item_last_updated": 1665256684,
+  "item_size": 14607198,
   "metadata": {
     "identifier": "pcnewsherald-2022",
     "collection": [
@@ -2244,7 +2306,7 @@
     "addeddate": "2022-09-20 19:10:36"
   },
   "server": "ia801506.us.archive.org",
-  "uniq": 657424269,
+  "uniq": 1339223814,
   "workable_servers": [
     "ia801506.us.archive.org",
     "ia601506.us.archive.org"
