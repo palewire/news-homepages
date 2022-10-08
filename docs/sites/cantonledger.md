@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 35 screenshots with the Internet Archive.
+The archiving routine has saved 36 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 35 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cantonledger-2022/cantonledger-2022-10-08T05:53:15.288962-05:00.jpg">
+  <img src="https://archive.org/download/cantonledger-2022/cantonledger-2022-10-08T05:53:15.288962-05:00.jpg"
+     alt="Canton Daily Ledger at 2022-10-08 05:53:22-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cantonledger-2022/cantonledger-2022-10-08T05:53:15.288962-05:00.jpg">October 8 at 5:53 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cantonledger-2022/cantonledger-2022-10-07T18:06:04.914983-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cantonledger-2022/cantonledger-2022-10-02T05:45:56.486975-05:00.jpg">October 2 at 5:45 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cantonledger-2022/cantonledger-2022-10-01T18:01:13.188422-05:00.jpg">
-  <img src="https://archive.org/download/cantonledger-2022/cantonledger-2022-10-01T18:01:13.188422-05:00.jpg"
-     alt="Canton Daily Ledger at 2022-10-01 18:01:14-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cantonledger-2022/cantonledger-2022-10-01T18:01:13.188422-05:00.jpg">October 1 at 6:01 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 35 hyperlink lists with the Internet Archive.
+The archiving routine has saved 36 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 8 at 5:53 AM](https://archive.org/download/cantonledger-2022/cantonledger-2022-10-08T05:53:15.288962-05:00.hyperlinks.json) |
 | [October 7 at 6:06 PM](https://archive.org/download/cantonledger-2022/cantonledger-2022-10-07T18:06:04.914983-05:00.hyperlinks.json) |
 | [October 7 at 6:09 AM](https://archive.org/download/cantonledger-2022/cantonledger-2022-10-07T06:09:10.091214-05:00.hyperlinks.json) |
 | [October 6 at 6:02 PM](https://archive.org/download/cantonledger-2022/cantonledger-2022-10-06T18:02:26.428841-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 4 at 6:05 AM](https://archive.org/download/cantonledger-2022/cantonledger-2022-10-04T06:04:57.944777-05:00.hyperlinks.json) |
 | [October 3 at 6:00 PM](https://archive.org/download/cantonledger-2022/cantonledger-2022-10-03T17:59:53.426124-05:00.hyperlinks.json) |
 | [October 3 at 5:51 AM](https://archive.org/download/cantonledger-2022/cantonledger-2022-10-03T05:51:17.934578-05:00.hyperlinks.json) |
-| [October 2 at 6:04 PM](https://archive.org/download/cantonledger-2022/cantonledger-2022-10-02T18:04:17.275317-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 35 accessibility trees with the Internet Archive.
+The archiving routine has saved 36 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 8 at 5:53 AM](https://archive.org/download/cantonledger-2022/cantonledger-2022-10-08T05:53:15.288962-05:00.accessibility.json) |
 | [October 7 at 6:06 PM](https://archive.org/download/cantonledger-2022/cantonledger-2022-10-07T18:06:04.914983-05:00.accessibility.json) |
 | [October 7 at 6:09 AM](https://archive.org/download/cantonledger-2022/cantonledger-2022-10-07T06:09:10.091214-05:00.accessibility.json) |
 | [October 6 at 6:02 PM](https://archive.org/download/cantonledger-2022/cantonledger-2022-10-06T18:02:26.428841-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 4 at 6:05 AM](https://archive.org/download/cantonledger-2022/cantonledger-2022-10-04T06:04:57.944777-05:00.accessibility.json) |
 | [October 3 at 5:59 PM](https://archive.org/download/cantonledger-2022/cantonledger-2022-10-03T17:59:53.426124-05:00.accessibility.json) |
 | [October 3 at 5:51 AM](https://archive.org/download/cantonledger-2022/cantonledger-2022-10-03T05:51:17.934578-05:00.accessibility.json) |
-| [October 2 at 6:04 PM](https://archive.org/download/cantonledger-2022/cantonledger-2022-10-02T18:04:17.275317-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 36 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 8 at 5:53 AM](https://archive.org/download/cantonledger-2022/cantonledger-2022-10-08T05:53:15.288962-05:00.lighthouse.json) |
 | [October 7 at 6:06 PM](https://archive.org/download/cantonledger-2022/cantonledger-2022-10-07T18:06:04.914983-05:00.lighthouse.json) |
 | [October 7 at 6:09 AM](https://archive.org/download/cantonledger-2022/cantonledger-2022-10-07T06:09:10.091214-05:00.lighthouse.json) |
 | [October 6 at 6:02 PM](https://archive.org/download/cantonledger-2022/cantonledger-2022-10-06T18:02:26.428841-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 4 at 6:05 AM](https://archive.org/download/cantonledger-2022/cantonledger-2022-10-04T06:04:57.944777-05:00.lighthouse.json) |
 | [October 3 at 6:00 PM](https://archive.org/download/cantonledger-2022/cantonledger-2022-10-03T17:59:53.426124-05:00.lighthouse.json) |
 | [October 3 at 5:51 AM](https://archive.org/download/cantonledger-2022/cantonledger-2022-10-03T05:51:17.934578-05:00.lighthouse.json) |
-| [October 2 at 6:04 PM](https://archive.org/download/cantonledger-2022/cantonledger-2022-10-02T18:04:17.275317-05:00.lighthouse.json) |
 
 
 

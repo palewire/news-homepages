@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 180 screenshots with the Internet Archive.
+The archiving routine has saved 181 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 180 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-08T10:19:42.966084+01:00.jpg">
+  <img src="https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-08T10:19:42.966084+01:00.jpg"
+     alt="Private Eye at 2022-10-08 10:19:56+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-08T10:19:42.966084+01:00.jpg">October 8 at 10:19 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-08T03:33:01.954615+01:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-04T15:16:32.455675+01:00.jpg">October 4 at 3:16 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-04T10:25:52.450012+01:00.jpg">
-  <img src="https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-04T10:25:52.450012+01:00.jpg"
-     alt="Private Eye at 2022-10-04 10:26:01+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-04T10:25:52.450012+01:00.jpg">October 4 at 10:26 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 180 hyperlink lists with the Internet Archive.
+The archiving routine has saved 181 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 8 at 10:20 AM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-08T10:19:42.966084+01:00.hyperlinks.json) |
 | [October 8 at 3:33 AM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-08T03:33:01.954615+01:00.hyperlinks.json) |
 | [October 7 at 3:16 PM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-07T15:15:55.838094+01:00.hyperlinks.json) |
 | [October 7 at 10:25 AM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-07T10:25:21.515616+01:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 6 at 3:36 AM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-06T03:36:35.146712+01:00.hyperlinks.json) |
 | [October 5 at 3:20 PM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-05T15:20:09.412959+01:00.hyperlinks.json) |
 | [October 5 at 10:23 AM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-05T10:23:00.810688+01:00.hyperlinks.json) |
-| [October 5 at 3:32 AM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-05T03:31:56.315259+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 180 accessibility trees with the Internet Archive.
+The archiving routine has saved 181 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 8 at 10:19 AM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-08T10:19:42.966084+01:00.accessibility.json) |
 | [October 8 at 3:33 AM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-08T03:33:01.954615+01:00.accessibility.json) |
 | [October 7 at 3:16 PM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-07T15:15:55.838094+01:00.accessibility.json) |
 | [October 7 at 10:25 AM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-07T10:25:21.515616+01:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 6 at 3:36 AM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-06T03:36:35.146712+01:00.accessibility.json) |
 | [October 5 at 3:20 PM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-05T15:20:09.412959+01:00.accessibility.json) |
 | [October 5 at 10:23 AM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-05T10:23:00.810688+01:00.accessibility.json) |
-| [October 5 at 3:32 AM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-05T03:31:56.315259+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 180 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 181 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 8 at 10:20 AM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-08T10:19:42.966084+01:00.lighthouse.json) |
 | [October 8 at 3:33 AM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-08T03:33:01.954615+01:00.lighthouse.json) |
 | [October 7 at 3:16 PM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-07T15:15:55.838094+01:00.lighthouse.json) |
 | [October 7 at 10:25 AM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-07T10:25:21.515616+01:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 6 at 3:36 AM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-06T03:36:35.146712+01:00.lighthouse.json) |
 | [October 5 at 3:20 PM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-05T15:20:09.412959+01:00.lighthouse.json) |
 | [October 5 at 10:23 AM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-05T10:23:00.810688+01:00.lighthouse.json) |
-| [October 5 at 3:32 AM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-10-05T03:31:56.315259+01:00.lighthouse.json) |
 
 
 
