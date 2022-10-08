@@ -1,5 +1,5 @@
 {
-  "created": 1665257288,
+  "created": 1665264298,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/35/items/nytimes-2022",
@@ -51210,31 +51210,82 @@
       "sha1": "883747b62c1800fe976b54553713d831baaac9ee"
     },
     {
+      "name": "nytimes-2022-10-08T17:21:06.545421-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665264071",
+      "size": "23546",
+      "md5": "1f1d47f9b41e7837945703527e5443cf",
+      "crc32": "7b2442ca",
+      "sha1": "2d91830b5d7a2704a747a0d9f77d013d9cc2f1e0",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-10-08T17:21:06.545421-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665264073",
+      "size": "26109",
+      "md5": "51bf905739eb1abf4550fc563c65211b",
+      "crc32": "3700b7a8",
+      "sha1": "088059f14933c7e68ea492b4ceb227f6353ded33",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-10-08T17:21:06.545421-04:00.jpg",
+      "source": "original",
+      "mtime": "1665264068",
+      "size": "329415",
+      "md5": "7b7e4c7c3e7728689999f5f103e7a040",
+      "crc32": "2d5d5f70",
+      "sha1": "8888247f39e89bbcb3a3218fb8af70a60cd0ad74",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nytimes-2022-10-08T17:21:06.545421-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665264075",
+      "size": "1468",
+      "md5": "d123c6da6a0af4a8509fe147a4c9744b",
+      "crc32": "66ab4432",
+      "sha1": "ef2e801dfebf7adc74d604bb4331c1dfb6f3c839",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-10-08T17:21:06.545421-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665264077",
+      "size": "246",
+      "md5": "9b1c459305d22be4f348d9b51f103735",
+      "crc32": "eb1ec439",
+      "sha1": "9d7e3a787ae71345fc6d3ce63418403441d1644a",
+      "format": "JSON"
+    },
+    {
       "name": "nytimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0265ad6986f4facf3c93eb4d0ae85b97868a4fa0",
-      "mtime": "1665257259",
-      "size": "1029588",
-      "md5": "9b508b35673d1c64a1dfb61c2fd23a85",
-      "crc32": "445ac271",
-      "sha1": "66cd6616939539cfab8661b5b0de72d262c5dbd2",
+      "btih": "14115838b601275ce20d8c7538ebcae0b47877ed",
+      "mtime": "1665264285",
+      "size": "1030644",
+      "md5": "296cc395464aefcb6deeeca56c9e4853",
+      "crc32": "1a801170",
+      "sha1": "ed68e14fd189cdc46b0a74fd26e337acb1084017",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nytimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c80fd77d69dfae82f9b20e6255602b29",
+      "md5": "330e9bb33f2528e510eefb3475b8dc7e",
       "summation": "md5"
     },
     {
       "name": "nytimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665256577",
-      "size": "5750784",
-      "md5": "8200a1ce23835a58542adcd86e40b6a2",
-      "crc32": "5f5eb4ba",
-      "sha1": "90791ff4faec069f52b49fc04af48faa9e462625",
+      "mtime": "1665264085",
+      "size": "5758976",
+      "md5": "741aa3143b2c3acb4520d3783eb09f46",
+      "crc32": "c0ce6d9c",
+      "sha1": "64522936fa5e89fe642ae79953945b3294c9c606",
       "format": "Metadata"
     },
     {
@@ -51248,9 +51299,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 4901,
-  "item_last_updated": 1665257259,
-  "item_size": 456512207,
+  "files_count": 4906,
+  "item_last_updated": 1665264285,
+  "item_size": 456902239,
   "metadata": {
     "identifier": "nytimes-2022",
     "collection": [
@@ -51267,10 +51318,21 @@
     "publicdate": "2022-03-23 00:46:07",
     "addeddate": "2022-03-23 00:46:07"
   },
+  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "uniq": 1637278089,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3433662530,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 153213450,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia601401.us.archive.org"
   ]
 }
