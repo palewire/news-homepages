@@ -1,5 +1,5 @@
 {
-  "created": 1665200361,
+  "created": 1665245551,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/2/items/studyfindsorg-2022",
@@ -5514,31 +5514,93 @@
       "sha1": "3ec549c02e6449830039009283995a2fb106a6b9"
     },
     {
+      "name": "studyfindsorg-2022-10-08T11:05:44.542176-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665241549",
+      "size": "29831",
+      "md5": "f6576f484afc5235f57e468b7e681ee9",
+      "crc32": "6d53e913",
+      "sha1": "75d963232d8a294b6fa439488e21ead91d50f5ee",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-08T11:05:44.542176-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665241551",
+      "size": "34008",
+      "md5": "6a8edee7fc6b7535f51b1a88df09a5b0",
+      "crc32": "58fae219",
+      "sha1": "9eed7ef902ee97fe492ada031cc4b4f5ee719b04",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-08T11:05:44.542176-04:00.jpg",
+      "source": "original",
+      "mtime": "1665241548",
+      "size": "314074",
+      "md5": "b0a66d012696c5730c0013155b193858",
+      "crc32": "2f1133d2",
+      "sha1": "ff39f397d58b55cf27f2435fdadece8ca1238b01",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "studyfindsorg-2022-10-08T11:05:44.542176-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665241553",
+      "size": "1458",
+      "md5": "237f7652393a9817789b17f9b7083e43",
+      "crc32": "95ff161f",
+      "sha1": "5ec27737fde643e5229f7979aabed96df4d96411",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-08T11:05:44.542176-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665241554",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-08T11:05:44.542176-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "studyfindsorg-2022-10-08T11:05:44.542176-04:00.jpg",
+      "mtime": "1665241607",
+      "size": "10109",
+      "md5": "1e222cdc7bdb8cab764cff231bd3f563",
+      "crc32": "9093b697",
+      "sha1": "fb354e543731c3132adbd30d18c2685945c53449"
+    },
+    {
       "name": "studyfindsorg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "da12bff24133c2c4866f692dac30de2ac9dd34d8",
-      "mtime": "1665200355",
-      "size": "116194",
-      "md5": "1e284addb08fda3dfa0cfd0e21a6e936",
-      "crc32": "a71bd00b",
-      "sha1": "ab2a566bfd292c9778220a45f7d3a909f3fcbb85",
+      "btih": "213c8768e027336e7f52d6b566a414dd4cc91277",
+      "mtime": "1665241614",
+      "size": "117470",
+      "md5": "cee6813f31dc34fccd0095adba01821d",
+      "crc32": "f8465829",
+      "sha1": "b75ca5dad2ffb4a1ce34797ead040ded5183860f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "studyfindsorg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ed1b4a8d7f9107da9df24c2c3742e2ec",
+      "md5": "e180cf335bfd843380c8d54e03fe7c34",
       "summation": "md5"
     },
     {
       "name": "studyfindsorg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665200298",
-      "size": "696320",
-      "md5": "17c8ad5a90152e6ffcb8a4374d0370b0",
-      "crc32": "9412bdc6",
-      "sha1": "2a36a864c216e23fc5632d23bf638aac20e7eccc",
+      "mtime": "1665241558",
+      "size": "708608",
+      "md5": "269b11224b0bb5cc7fcb4550d3e17f4c",
+      "crc32": "c85239d2",
+      "sha1": "3d668c2bb1eeb28e6bdbc432cd1afaaab5a0b61f",
       "format": "Metadata"
     },
     {
@@ -5552,9 +5614,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 537,
-  "item_last_updated": 1665200355,
-  "item_size": 34829872,
+  "files_count": 543,
+  "item_last_updated": 1665241614,
+  "item_size": 35233118,
   "metadata": {
     "identifier": "studyfindsorg-2022",
     "collection": [
@@ -5571,10 +5633,15 @@
     "publicdate": "2022-08-23 12:58:38",
     "addeddate": "2022-08-23 12:58:38"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 1114684444,
+  "server": "ia601401.us.archive.org",
+  "studyfindsorg-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1603872774,
   "workable_servers": [
-    "ia801401.us.archive.org",
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1665200631,
+  "created": 1665245789,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/11/items/thestarpress-2022",
@@ -2186,31 +2186,93 @@
       "sha1": "a664e6ec2b77f07fb683d3619761893202a8571e"
     },
     {
+      "name": "thestarpress-2022-10-08T11:08:24.324384-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665241709",
+      "size": "19611",
+      "md5": "4501de7053e83bf7cac368dc5e56b608",
+      "crc32": "d9d73880",
+      "sha1": "93f2714d648e4621595bbbc02176f83fb78513c4",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-08T11:08:24.324384-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665241711",
+      "size": "36282",
+      "md5": "6be990ea24fee34722f141c11915320d",
+      "crc32": "127e0155",
+      "sha1": "199671caf37b29ae151113e5a56705bef9a8b43d",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-08T11:08:24.324384-04:00.jpg",
+      "source": "original",
+      "mtime": "1665241707",
+      "size": "226729",
+      "md5": "4cf27ef58b621c97e78fe04f255f4689",
+      "crc32": "533c3bc3",
+      "sha1": "ce681da18be0631914ef776e0e8a463e645cc8cb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thestarpress-2022-10-08T11:08:24.324384-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665241713",
+      "size": "1513",
+      "md5": "3c09727c300b1b0e7450e1460eda0de6",
+      "crc32": "77a6be93",
+      "sha1": "c779d6294d1658297473da8f10b0f4e88e5ddf17",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-08T11:08:24.324384-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665241716",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-08T11:08:24.324384-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thestarpress-2022-10-08T11:08:24.324384-04:00.jpg",
+      "mtime": "1665241765",
+      "size": "9090",
+      "md5": "4fc74880e79e8e6539380cdaa6015254",
+      "crc32": "1b271dbf",
+      "sha1": "02a190f40a5ca334b21a385f3e0d96a84e9dc771"
+    },
+    {
       "name": "thestarpress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "41bb65038eae2d2c91546748ecc901118f1a4d40",
-      "mtime": "1665200609",
-      "size": "46687",
-      "md5": "001f8d6a31bff1684bfac3789311bbe4",
-      "crc32": "33ecf324",
-      "sha1": "264b1bcee37f83f94d1565d91fa2e4d26a17bedc",
+      "btih": "6409b3c79f356397f74d2d5df337c18c371600f9",
+      "mtime": "1665241768",
+      "size": "47956",
+      "md5": "f0a648b4fee5ee1db49c2cb0a2018ece",
+      "crc32": "98493ddc",
+      "sha1": "c3e1a3555b3eee7fdccad1dd1b588149467f7e9f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thestarpress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6d3ea83907aa5187efc0d31405ee0175",
+      "md5": "dd077dd72129f7c35ba3cb90f55ccd0f",
       "summation": "md5"
     },
     {
       "name": "thestarpress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665200555",
-      "size": "290816",
-      "md5": "eac5b9b13e04686fe0f410c7f9ed4d7a",
-      "crc32": "f7cde25c",
-      "sha1": "1c6d94e03deb9e5c42a626341b1bff9c2986e037",
+      "mtime": "1665241719",
+      "size": "294912",
+      "md5": "6b61c351385cb43d604894a3ac023821",
+      "crc32": "af580f04",
+      "sha1": "7c4a0e1891ba26f420f93064b262ea5f2c63a611",
       "format": "Metadata"
     },
     {
@@ -2224,9 +2286,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 215,
-  "item_last_updated": 1665200609,
-  "item_size": 14327711,
+  "files_count": 221,
+  "item_last_updated": 1665241768,
+  "item_size": 14626503,
   "metadata": {
     "identifier": "thestarpress-2022",
     "collection": [
@@ -2243,10 +2305,15 @@
     "publicdate": "2022-09-21 03:45:24",
     "addeddate": "2022-09-21 03:45:24"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 127744558,
+  "server": "ia601405.us.archive.org",
+  "thestarpress-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1134079449,
   "workable_servers": [
-    "ia801405.us.archive.org",
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }
