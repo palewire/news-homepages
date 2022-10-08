@@ -1,6 +1,5 @@
 {
-  "conflict": 1665220967,
-  "created": 1665220967,
+  "created": 1665230316,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/34/items/eveningstandard-2022",
@@ -16177,31 +16176,93 @@
       "sha1": "692ac94e66049cbf00335979385c36d5782ec440"
     },
     {
+      "name": "eveningstandard-2022-10-08T12:55:48.749708+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665230164",
+      "size": "61754",
+      "md5": "a78f6201079d9b4135d18518cc038985",
+      "crc32": "bd8c6f54",
+      "sha1": "20e62828ce63eb26271f8837c34b74cce11d8bc2",
+      "format": "JSON"
+    },
+    {
+      "name": "eveningstandard-2022-10-08T12:55:48.749708+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665230166",
+      "size": "77699",
+      "md5": "53745c247f821d25913e58e0ad6eae8b",
+      "crc32": "513a8c65",
+      "sha1": "48da584759e9be5f909c7b53d7e5eb8e41c6a71a",
+      "format": "JSON"
+    },
+    {
+      "name": "eveningstandard-2022-10-08T12:55:48.749708+01:00.jpg",
+      "source": "original",
+      "mtime": "1665230162",
+      "size": "197836",
+      "md5": "1df3367249f347692c12dabbf7699a4b",
+      "crc32": "4138e42f",
+      "sha1": "b3f8aa53effe0fe8906313e1cbc22266dc3ab3ec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eveningstandard-2022-10-08T12:55:48.749708+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665230168",
+      "size": "1494",
+      "md5": "55bcfd90477d9e50a68b70268e0d39e6",
+      "crc32": "8e367c71",
+      "sha1": "8b05dff0bb1a0208cbdda669eb054d62f7005397",
+      "format": "JSON"
+    },
+    {
+      "name": "eveningstandard-2022-10-08T12:55:48.749708+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1665230170",
+      "size": "207",
+      "md5": "e408a360bcbbdddeb2c7126575459fb3",
+      "crc32": "557cdaf6",
+      "sha1": "9b19c45c9f538cbc4bf7f0ee616b28eb6572628c",
+      "format": "JSON"
+    },
+    {
+      "name": "eveningstandard-2022-10-08T12:55:48.749708+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eveningstandard-2022-10-08T12:55:48.749708+01:00.jpg",
+      "mtime": "1665230256",
+      "size": "8237",
+      "md5": "c8197e5069783d95b621ebc6efdae128",
+      "crc32": "9199d591",
+      "sha1": "c1d945b95316983b735de875786f10b5add9328a"
+    },
+    {
       "name": "eveningstandard-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ca227c8bf89eeb79e98d60fe3a213619c5b8e41f",
-      "mtime": "1665220964",
-      "size": "340830",
-      "md5": "4212ec7d45edeb8cca0e2939433ab99f",
-      "crc32": "20f4315b",
-      "sha1": "a9080c329561252954d63fac2bf065046d475ddd",
+      "btih": "1b72973ab6b4b31251633adfec69e1cb7d6a64dc",
+      "mtime": "1665230296",
+      "size": "342117",
+      "md5": "452041844d51160499f483c1c8a0fe4c",
+      "crc32": "17230516",
+      "sha1": "2d51c2b79fcea962382c26f55d6c7f314f019a42",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eveningstandard-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "597143f478e5bc51d37001f0fc0a8ac3",
+      "md5": "c99169e80d5bd435ead210297592e8e2",
       "summation": "md5"
     },
     {
       "name": "eveningstandard-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665220833",
-      "size": "1970176",
-      "md5": "ee83e2282db0ebb92f26e1ce9ec7238e",
-      "crc32": "1d6a6602",
-      "sha1": "af3f2ef23ecc9aa0d16e13553e934c00cff44c17",
+      "mtime": "1665230174",
+      "size": "1982464",
+      "md5": "09ec307e6b2e9bc23abe91675cd76492",
+      "crc32": "b2ea2232",
+      "sha1": "2950dfd37a85670be5242efce7c8357b8807b97f",
       "format": "Metadata"
     },
     {
@@ -16215,9 +16276,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1564,
-  "item_last_updated": 1665220964,
-  "item_size": 117267366,
+  "files_count": 1570,
+  "item_last_updated": 1665230296,
+  "item_size": 117628168,
   "metadata": {
     "identifier": "eveningstandard-2022",
     "collection": [
@@ -16234,21 +16295,10 @@
     "publicdate": "2022-07-07 03:59:30",
     "addeddate": "2022-07-07 03:59:30"
   },
-  "pending_tasks": true,
   "server": "ia601504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3433288099,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1600207321,
+  "uniq": 1506402143,
   "workable_servers": [
-    "ia601504.us.archive.org"
+    "ia601504.us.archive.org",
+    "ia801504.us.archive.org"
   ]
 }

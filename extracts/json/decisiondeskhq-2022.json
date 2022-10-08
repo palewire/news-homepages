@@ -1,5 +1,5 @@
 {
-  "created": 1665187538,
+  "created": 1665230175,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/26/items/decisiondeskhq-2022",
@@ -11046,31 +11046,93 @@
       "sha1": "01da0b2e011a03856c14a95c5597dd8fec385d47"
     },
     {
+      "name": "decisiondeskhq-2022-10-08T07:54:45.382643-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665230094",
+      "size": "50978",
+      "md5": "821455cc050a33116f3256209a09bf91",
+      "crc32": "4e0cb6f5",
+      "sha1": "1c296a5574cb962b52cfbaf5a97afa4b6f01ff00",
+      "format": "JSON"
+    },
+    {
+      "name": "decisiondeskhq-2022-10-08T07:54:45.382643-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665230095",
+      "size": "9487",
+      "md5": "8a897de78792e6cabd09a5a54729b199",
+      "crc32": "14755586",
+      "sha1": "f1f61b50649dad6b0287e7e1f6d3cb2fd6c4901c",
+      "format": "JSON"
+    },
+    {
+      "name": "decisiondeskhq-2022-10-08T07:54:45.382643-04:00.jpg",
+      "source": "original",
+      "mtime": "1665230092",
+      "size": "254393",
+      "md5": "eba672dc307962919381da7248d8b47d",
+      "crc32": "09349b3f",
+      "sha1": "d2a532f90e16ad87e7bbb9c781b81260a602dbd5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "decisiondeskhq-2022-10-08T07:54:45.382643-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665230097",
+      "size": "1485",
+      "md5": "0ca5f5b069ea8f66ffeeb33aa1d589b1",
+      "crc32": "daa12042",
+      "sha1": "54c4bc06381f92ade35cd2005cea59ac25261ccc",
+      "format": "JSON"
+    },
+    {
+      "name": "decisiondeskhq-2022-10-08T07:54:45.382643-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665230098",
+      "size": "34644",
+      "md5": "814b191a45f1ef23c0ffdd19c4b4824b",
+      "crc32": "1768194e",
+      "sha1": "f40fb451fc03ea64fea0f192c932e98f9075f177",
+      "format": "JSON"
+    },
+    {
+      "name": "decisiondeskhq-2022-10-08T07:54:45.382643-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "decisiondeskhq-2022-10-08T07:54:45.382643-04:00.jpg",
+      "mtime": "1665230157",
+      "size": "8278",
+      "md5": "81b0d90a9414a44a5c4405e75b00ef49",
+      "crc32": "923e0372",
+      "sha1": "01da0b2e011a03856c14a95c5597dd8fec385d47"
+    },
+    {
       "name": "decisiondeskhq-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f019117a7931980a26286f574e648c784f041bf8",
-      "mtime": "1665187530",
-      "size": "231479",
-      "md5": "35b6ce8fe0e8b5c147f2ee68bba24d08",
-      "crc32": "32c40039",
-      "sha1": "fbcb4acaa0e4e01c891f2cee8c4b39b505f97178",
+      "btih": "7a755c245c81dd2b305992d87951a4e02ab25b30",
+      "mtime": "1665230167",
+      "size": "232781",
+      "md5": "4e4ffd89607cb15023338191cc2dc23f",
+      "crc32": "fc2bb348",
+      "sha1": "a88e9db3ec00e1b71dc46389bb51f8569921a955",
       "format": "Archive BitTorrent"
     },
     {
       "name": "decisiondeskhq-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "68cd2edd231533f3ef341ef3b4e483fe",
+      "md5": "ef3c89b0803afe5575234cc8a380bab5",
       "summation": "md5"
     },
     {
       "name": "decisiondeskhq-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665187461",
-      "size": "1351680",
-      "md5": "479c12528c2a4b329cad4dadb3a2e6b0",
-      "crc32": "8698e03b",
-      "sha1": "2fe549a66210ebddf8b171284bd62a276719213f",
+      "mtime": "1665230103",
+      "size": "1359872",
+      "md5": "6005afbcdb80e107d202b56f13959702",
+      "crc32": "2f7ff77b",
+      "sha1": "3f7b37e39278083759932f4b9e023c623385f118",
       "format": "Metadata"
     },
     {
@@ -11084,9 +11146,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1069,
-  "item_last_updated": 1665187530,
-  "item_size": 68256966,
+  "files_count": 1075,
+  "item_last_updated": 1665230167,
+  "item_size": 68625725,
   "metadata": {
     "identifier": "decisiondeskhq-2022",
     "collection": [
@@ -11103,10 +11165,10 @@
     "publicdate": "2022-07-04 20:47:15",
     "addeddate": "2022-07-04 20:47:15"
   },
-  "server": "ia802504.us.archive.org",
-  "uniq": 294838873,
+  "server": "ia902504.us.archive.org",
+  "uniq": 2075807220,
   "workable_servers": [
-    "ia802504.us.archive.org",
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }

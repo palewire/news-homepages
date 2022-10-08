@@ -1,5 +1,5 @@
 {
-  "created": 1665187874,
+  "created": 1665230355,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/20/items/gothamist-2022",
@@ -11108,31 +11108,93 @@
       "sha1": "8326e36400401b89fb562630e0a90623b345b497"
     },
     {
+      "name": "gothamist-2022-10-08T07:57:33.843810-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665230261",
+      "size": "16203",
+      "md5": "320f34f05d589c2d4c97818a9524b0c5",
+      "crc32": "b2d53c50",
+      "sha1": "e225d4558f7f70e3b6f04db745b72d236448e598",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamist-2022-10-08T07:57:33.843810-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665230262",
+      "size": "13971",
+      "md5": "8242b2ad770de520cf93b7043e56519b",
+      "crc32": "0585e172",
+      "sha1": "53638ed46ee00affb69637618edbfb2fb64d9f48",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamist-2022-10-08T07:57:33.843810-04:00.jpg",
+      "source": "original",
+      "mtime": "1665230259",
+      "size": "291179",
+      "md5": "86d8f0d86cc0e9d25a0cbeb5cec1b3ff",
+      "crc32": "db2e03e7",
+      "sha1": "49ca835a5c59a78889d4a4d6db85d8d2f9943dad",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gothamist-2022-10-08T07:57:33.843810-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665230264",
+      "size": "1431",
+      "md5": "ec9035693dfec3b7cbccd911ed57c230",
+      "crc32": "16c51523",
+      "sha1": "b8c02677e698713f3ffd1f4d2055b0d23fa0fcd1",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamist-2022-10-08T07:57:33.843810-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665230265",
+      "size": "25973",
+      "md5": "93ac058762c370295aba188c1f31cceb",
+      "crc32": "76c1516a",
+      "sha1": "666e1528822cfd99dc785331b908ee9318458697",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamist-2022-10-08T07:57:33.843810-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gothamist-2022-10-08T07:57:33.843810-04:00.jpg",
+      "mtime": "1665230329",
+      "size": "10487",
+      "md5": "a9abd8213e7cd65669de6c260f46556b",
+      "crc32": "4618af21",
+      "sha1": "dced72ae0f3fb59a3b901a593e74a45344638822"
+    },
+    {
       "name": "gothamist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d55d50b0b76039ff3c2c75b0de1146144b736078",
-      "mtime": "1665187866",
-      "size": "227175",
-      "md5": "ad1f4d1cfbdd805987d4761483f03851",
-      "crc32": "8c37d1b4",
-      "sha1": "c573f5478865fbba90a1d498ccc7478fe30f5a26",
+      "btih": "101a8910ad063725766959227c1f234cd1808e17",
+      "mtime": "1665230348",
+      "size": "228429",
+      "md5": "407ccd772bba6115ae3c4cd923b873fa",
+      "crc32": "0c5da5f5",
+      "sha1": "e71933cd3bf8350d122cbcd182c2c3f06b496674",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gothamist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5595c240a89639012bf3f520815e1f79",
+      "md5": "96ab444309287cad79af63b17c53c608",
       "summation": "md5"
     },
     {
       "name": "gothamist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665187798",
-      "size": "1347584",
-      "md5": "6014b7795c26a32c149cfd1f9efa1f6a",
-      "crc32": "90ef6282",
-      "sha1": "207d2df75ada8ba01afa8bceac06adfc594b49af",
+      "mtime": "1665230271",
+      "size": "1351680",
+      "md5": "010c35d829d8dfdd4644731324037a2e",
+      "crc32": "1410cb7f",
+      "sha1": "c4be0399eaffc9faae45b4e0b73875e8864a0d7e",
       "format": "Metadata"
     },
     {
@@ -11146,9 +11208,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1075,
-  "item_last_updated": 1665187866,
-  "item_size": 58986303,
+  "files_count": 1081,
+  "item_last_updated": 1665230348,
+  "item_size": 59350897,
   "metadata": {
     "identifier": "gothamist-2022",
     "collection": [
@@ -11166,7 +11228,7 @@
     "addeddate": "2022-07-04 21:54:16"
   },
   "server": "ia802508.us.archive.org",
-  "uniq": 836394103,
+  "uniq": 1010396172,
   "workable_servers": [
     "ia802508.us.archive.org",
     "ia902508.us.archive.org"

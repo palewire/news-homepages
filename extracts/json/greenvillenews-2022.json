@@ -1,5 +1,5 @@
 {
-  "created": 1665187878,
+  "created": 1665230332,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/3/items/greenvillenews-2022",
@@ -2238,31 +2238,93 @@
       "sha1": "0745a0897ad036aa9400a21c265d2e6cca7f2b0e"
     },
     {
+      "name": "greenvillenews-2022-10-08T07:57:43.735269-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665230269",
+      "size": "20040",
+      "md5": "bae9747d2a2103d140560f36111b164e",
+      "crc32": "297c626b",
+      "sha1": "b01f806058b7866c1d383e4fb39cfd706a889571",
+      "format": "JSON"
+    },
+    {
+      "name": "greenvillenews-2022-10-08T07:57:43.735269-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665230270",
+      "size": "30554",
+      "md5": "b0fcc0d4295a89e177284003954f6b36",
+      "crc32": "01a67918",
+      "sha1": "e704c54918eb67f4addf46701dfe69e756279dfc",
+      "format": "JSON"
+    },
+    {
+      "name": "greenvillenews-2022-10-08T07:57:43.735269-04:00.jpg",
+      "source": "original",
+      "mtime": "1665230267",
+      "size": "271439",
+      "md5": "2267ff402f93ca812e4928c75f80f9da",
+      "crc32": "3a691108",
+      "sha1": "e6f2a730c521e1806ce8b623e35f1683b3ba218d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "greenvillenews-2022-10-08T07:57:43.735269-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665230272",
+      "size": "1549",
+      "md5": "073b68c03b30b93c797268cb0528d293",
+      "crc32": "26dee74b",
+      "sha1": "750104f209bb81f010d16fc48d66cd3bc95e349c",
+      "format": "JSON"
+    },
+    {
+      "name": "greenvillenews-2022-10-08T07:57:43.735269-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665230274",
+      "size": "213",
+      "md5": "a57efd2a06c9ad96eebf2dd8cd53adb2",
+      "crc32": "5e3b2692",
+      "sha1": "1ed58c0085f1e349badd27117175e58d927acf14",
+      "format": "JSON"
+    },
+    {
+      "name": "greenvillenews-2022-10-08T07:57:43.735269-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "greenvillenews-2022-10-08T07:57:43.735269-04:00.jpg",
+      "mtime": "1665230321",
+      "size": "9575",
+      "md5": "410c88bea0a2a76fc73081fda8502774",
+      "crc32": "280a2852",
+      "sha1": "e31f7f646f729f1dcef6db2dab710e76b79c679d"
+    },
+    {
       "name": "greenvillenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4a171d19b884e93686da7a370bf52510c5abc827",
-      "mtime": "1665187866",
-      "size": "48205",
-      "md5": "b2c58148ad93c559858668a7a40af75f",
-      "crc32": "a66fc366",
-      "sha1": "5a3c938b9c2586f37b20cb9c0601d2a3d69d6868",
+      "btih": "4832774565e0f1c0949353a771130d67fd2682cd",
+      "mtime": "1665230325",
+      "size": "49506",
+      "md5": "1481418a539164157d869f640a5c4847",
+      "crc32": "6b8e94e9",
+      "sha1": "7cf7f91f3357e94f50939417a087f4c7969c2f84",
       "format": "Archive BitTorrent"
     },
     {
       "name": "greenvillenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "36f8a3a89c3abf3342e1b5d248eada0b",
+      "md5": "96f347732f9d54a400a24726f3bd96e9",
       "summation": "md5"
     },
     {
       "name": "greenvillenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665187802",
-      "size": "294912",
-      "md5": "52f25a2658122048b93dcda8de8d75d7",
-      "crc32": "9c621ba6",
-      "sha1": "ed22510fa729f7e57112d2e032e545c2394e1fbb",
+      "mtime": "1665230278",
+      "size": "307200",
+      "md5": "b2657051388414d72d14e1c29967a955",
+      "crc32": "a4dc8888",
+      "sha1": "b433052eb668e9dda95e6c8551b58d442e2736e4",
       "format": "Metadata"
     },
     {
@@ -2276,9 +2338,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 220,
-  "item_last_updated": 1665187866,
-  "item_size": 14951278,
+  "files_count": 226,
+  "item_last_updated": 1665230325,
+  "item_size": 15298237,
   "metadata": {
     "identifier": "greenvillenews-2022",
     "collection": [
@@ -2295,10 +2357,10 @@
     "publicdate": "2022-09-20 22:18:26",
     "addeddate": "2022-09-20 22:18:26"
   },
-  "server": "ia601504.us.archive.org",
-  "uniq": 1980124540,
+  "server": "ia801504.us.archive.org",
+  "uniq": 15270058,
   "workable_servers": [
-    "ia601504.us.archive.org",
-    "ia801504.us.archive.org"
+    "ia801504.us.archive.org",
+    "ia601504.us.archive.org"
   ]
 }
