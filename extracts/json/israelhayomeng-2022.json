@@ -1,5 +1,5 @@
 {
-  "created": 1665192355,
+  "created": 1665234131,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/3/items/israelhayomeng-2022",
@@ -6960,31 +6960,72 @@
       "sha1": "690187985cfe0dffa6a3bdc566b032cf404e531a"
     },
     {
+      "name": "israelhayomeng-2022-10-08T16:00:59.935317+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665234070",
+      "size": "124847",
+      "md5": "a82ad7ebf352396f5c2a911527320df3",
+      "crc32": "d1036df2",
+      "sha1": "eb3b11f6b9fd8c491e050e18ee40315506276856",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-08T16:00:59.935317+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665234072",
+      "size": "135914",
+      "md5": "3f90f0d031b9f787d3710f73a014dd69",
+      "crc32": "f047c92c",
+      "sha1": "72717c4c89c54a60c86870e6bb419ea60c202f97",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-08T16:00:59.935317+03:00.jpg",
+      "source": "original",
+      "mtime": "1665234068",
+      "size": "306237",
+      "md5": "f5f5e8aa68015ba12d7508935e35b72e",
+      "crc32": "1a12e9ef",
+      "sha1": "9d8ce5ac942e452db28551fdfead66c25336f5a4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "israelhayomeng-2022-10-08T16:00:59.935317+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665234074",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "israelhayomeng-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c64ed33ba86cb7d071e7a3041048fa405aaaae64",
-      "mtime": "1665192340",
-      "size": "148191",
-      "md5": "4dea65f880bfce46745f77958b49e72f",
-      "crc32": "85aefeb0",
-      "sha1": "dee9e8c52c4bddf6810b2315b42b0913a9e56f44",
+      "btih": "a8da70f29408935cf5f0c5fba7f933440bd99bd9",
+      "mtime": "1665234126",
+      "size": "149068",
+      "md5": "88ed5d944844098de76199226d782135",
+      "crc32": "bfb0a67d",
+      "sha1": "6d37b8c110ef49d4a6f233b050ad29a3ef1efdda",
       "format": "Archive BitTorrent"
     },
     {
       "name": "israelhayomeng-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "af6e1a9fef8f1e7afc9b59bb2339d680",
+      "md5": "7634637b4e399153f3d954ebc17c8969",
       "summation": "md5"
     },
     {
       "name": "israelhayomeng-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665192266",
-      "size": "880640",
-      "md5": "9e5e56316fb7620b9d8ea39e2068077b",
-      "crc32": "2959dd5f",
-      "sha1": "6709fb37ecc6aa32ceb196d2a96de4cc09209998",
+      "mtime": "1665234082",
+      "size": "884736",
+      "md5": "601c72cf4aca07701dd1f28e6b358fd0",
+      "crc32": "6be1152f",
+      "sha1": "a0c8af499b37285e8abf5fbc22f1d1034706c02c",
       "format": "Metadata"
     },
     {
@@ -6998,9 +7039,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 677,
-  "item_last_updated": 1665192340,
-  "item_size": 68846867,
+  "files_count": 681,
+  "item_last_updated": 1665234126,
+  "item_size": 69419040,
   "metadata": {
     "identifier": "israelhayomeng-2022",
     "collection": [
@@ -7017,10 +7058,21 @@
     "publicdate": "2022-08-14 03:09:12",
     "addeddate": "2022-08-14 03:09:12"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 1384601591,
+  "pending_tasks": true,
+  "server": "ia601501.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3433407197,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1898936006,
   "workable_servers": [
-    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }
