@@ -1,13 +1,5 @@
 {
-  "alliancereview-2022": {
-    "url": "https://www.the-review.com/",
-    "job_id": "spn2-8d79aadb90f44bf4f42d0e6fed8f15d5fd52b168",
-    "status": "error",
-    "status_ext": "error:job-failed",
-    "message": "Job failed.",
-    "resources": []
-  },
-  "created": 1665165456,
+  "created": 1665207354,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/20/items/alliancereview-2022",
@@ -2132,31 +2124,93 @@
       "sha1": "c38362eddd0cdfae897ef87317b6bdb29e337b7e"
     },
     {
+      "name": "alliancereview-2022-10-08T01:34:28.681921-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665207278",
+      "size": "23258",
+      "md5": "d9ebef68d29a8253574514cd66549ff4",
+      "crc32": "e177709a",
+      "sha1": "021693215b3d6b3119f158e73ee45abd84ab88dd",
+      "format": "JSON"
+    },
+    {
+      "name": "alliancereview-2022-10-08T01:34:28.681921-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665207280",
+      "size": "36781",
+      "md5": "9165d546ad63de568012857e6ce8ca6c",
+      "crc32": "ea3359d0",
+      "sha1": "5a9ef74d15ea62fab6fcf5f5f95e7c7356bde70c",
+      "format": "JSON"
+    },
+    {
+      "name": "alliancereview-2022-10-08T01:34:28.681921-04:00.jpg",
+      "source": "original",
+      "mtime": "1665207271",
+      "size": "291320",
+      "md5": "749f63728fe6c8d950c40d24600776e8",
+      "crc32": "3b26d2e2",
+      "sha1": "3cc29e46bdebc253384e5d23953da9dec4d66660",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alliancereview-2022-10-08T01:34:28.681921-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665207282",
+      "size": "1495",
+      "md5": "c9945286c536c83c562a8710fd039b13",
+      "crc32": "19d5136d",
+      "sha1": "dfb37791dd5fb4e44557a541eb357e3ae74789da",
+      "format": "JSON"
+    },
+    {
+      "name": "alliancereview-2022-10-08T01:34:28.681921-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665207284",
+      "size": "114809",
+      "md5": "145b236a730844adf29eacd4e4f75781",
+      "crc32": "0b2debad",
+      "sha1": "7c8b8502002b76e31048e228318cf3928af44235",
+      "format": "JSON"
+    },
+    {
+      "name": "alliancereview-2022-10-08T01:34:28.681921-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alliancereview-2022-10-08T01:34:28.681921-04:00.jpg",
+      "mtime": "1665207341",
+      "size": "9844",
+      "md5": "6d5ea23a39b3b169defe96887be35a47",
+      "crc32": "a9d65b43",
+      "sha1": "1c3a412b77cd8af9fd8139feb13eac1f92bdd994"
+    },
+    {
       "name": "alliancereview-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a8f28b166340f60211d9d2aa7a7dec4ec371557c",
-      "mtime": "1665160027",
-      "size": "45875",
-      "md5": "4fb6243bd81656a464b8f5bde703b183",
-      "crc32": "f1f84fbd",
-      "sha1": "ebe2cfb3c38b996b928617e3f7382d5764a5313d",
+      "btih": "d2b5a423b294c1c89d22424d038491927007b141",
+      "mtime": "1665207346",
+      "size": "47179",
+      "md5": "2de1a48c5733b0c82e31b091cb99f721",
+      "crc32": "d04ea623",
+      "sha1": "6cbfe7a1a7e27cb7439c0ce273a3612521dbef45",
       "format": "Archive BitTorrent"
     },
     {
       "name": "alliancereview-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "22efb976f10b28c7620981b2efcac93a",
+      "md5": "2db0c82d127d7a0ed174f6a0ad63a814",
       "summation": "md5"
     },
     {
       "name": "alliancereview-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665159947",
-      "size": "282624",
-      "md5": "fd4557e45c3a47623e67718713e08828",
-      "crc32": "1a219bf2",
-      "sha1": "a42bbe675f306a20043706a2ccd17354f06e6e1a",
+      "mtime": "1665207292",
+      "size": "290816",
+      "md5": "df3b9d07cb9e1fc911292293c7951b94",
+      "crc32": "97afe8d3",
+      "sha1": "ddaf3c0abf954040105d862d1d271c8587931bcf",
       "format": "Metadata"
     },
     {
@@ -2170,9 +2224,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 209,
-  "item_last_updated": 1665160027,
-  "item_size": 14998328,
+  "files_count": 215,
+  "item_last_updated": 1665207346,
+  "item_size": 15485331,
   "metadata": {
     "identifier": "alliancereview-2022",
     "collection": [
@@ -2190,7 +2244,7 @@
     "addeddate": "2022-09-21 04:37:23"
   },
   "server": "ia601408.us.archive.org",
-  "uniq": 776396236,
+  "uniq": 479683990,
   "workable_servers": [
     "ia601408.us.archive.org",
     "ia801408.us.archive.org"

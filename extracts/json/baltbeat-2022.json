@@ -1,13 +1,5 @@
 {
-  "baltbeat-2022": {
-    "url": "https://baltimorebeat.com/",
-    "job_id": "spn2-3f909bb5096edbef035c5385c89feaae16d539dd",
-    "message": "Job failed.",
-    "resources": [],
-    "status": "error",
-    "status_ext": "error:job-failed"
-  },
-  "created": 1665165585,
+  "created": 1665207474,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/30/items/baltbeat-2022",
@@ -10164,31 +10156,93 @@
       "sha1": "ca9ecc781b266539c8fe341bce0cce8ce81e8c02"
     },
     {
+      "name": "baltbeat-2022-10-08T01:35:54.593706-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665207362",
+      "size": "11924",
+      "md5": "7e4df3b6a50abc3346768bf657823abe",
+      "crc32": "1ae1a65f",
+      "sha1": "39a15f8003deead90900f3dc9484d851d7f7c1d6",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbeat-2022-10-08T01:35:54.593706-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665207364",
+      "size": "6359",
+      "md5": "50f1a80d217b9837e5efa7b1df4dcaab",
+      "crc32": "c7b28ce4",
+      "sha1": "0cb316811fad35324513046369eca0f58df07635",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbeat-2022-10-08T01:35:54.593706-04:00.jpg",
+      "source": "original",
+      "mtime": "1665207360",
+      "size": "312704",
+      "md5": "3d1a353bb0d1b8a3a5b99e7aef47e2d2",
+      "crc32": "a14a1526",
+      "sha1": "b3f1bd7a8da20a17a396d0c673a244216d71cf18",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltbeat-2022-10-08T01:35:54.593706-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665207365",
+      "size": "1474",
+      "md5": "768c8cd699805baba2d65afd17e79ed9",
+      "crc32": "8e6540c4",
+      "sha1": "181ba714b4cdcf84e38d91716d424ab77192201b",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbeat-2022-10-08T01:35:54.593706-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665207367",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbeat-2022-10-08T01:35:54.593706-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltbeat-2022-10-08T01:35:54.593706-04:00.jpg",
+      "mtime": "1665207436",
+      "size": "10226",
+      "md5": "579b0cf77d354b86f68b9ed6bfb025b4",
+      "crc32": "0f345878",
+      "sha1": "ca9ecc781b266539c8fe341bce0cce8ce81e8c02"
+    },
+    {
       "name": "baltbeat-2022_archive.torrent",
       "source": "metadata",
-      "btih": "100d887c56650231a972677e5a6fbecb7d1c138e",
-      "mtime": "1665160128",
-      "size": "206875",
-      "md5": "0c77c25047c23728bbb4c89b0639309c",
-      "crc32": "b6f32125",
-      "sha1": "ae7bd8b8cc82eceb22c2dc36b0bea15132a26aea",
+      "btih": "1b849276c02d7a9e967722d206cf6a1a1892b850",
+      "mtime": "1665207463",
+      "size": "208140",
+      "md5": "e3f3e1ac0b3738e6898883baebc4cac6",
+      "crc32": "5694e260",
+      "sha1": "f4094a3575eadb2fccb4c1e091847214c1bdcef5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltbeat-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "416e208223066d6def470e7d70d0bed9",
+      "md5": "df464281f84073ddc05bf98f54e529f7",
       "summation": "md5"
     },
     {
       "name": "baltbeat-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665160058",
-      "size": "1241088",
-      "md5": "8735ae8641865e31a56b131e9e12f03c",
-      "crc32": "4c207df3",
-      "sha1": "533f25502651a722a8bcd9f914be53bd56d42dfb",
+      "mtime": "1665207371",
+      "size": "1249280",
+      "md5": "d856581e0b725431f910731d1fe98bb4",
+      "crc32": "c88a8836",
+      "sha1": "f05d7821ae1a41525e66c8aae950bc25e23a14d3",
       "format": "Metadata"
     },
     {
@@ -10202,9 +10256,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 984,
-  "item_last_updated": 1665160128,
-  "item_size": 55048382,
+  "files_count": 990,
+  "item_last_updated": 1665207463,
+  "item_size": 55400728,
   "metadata": {
     "identifier": "baltbeat-2022",
     "collection": [
@@ -10222,7 +10276,7 @@
     "addeddate": "2022-07-13 02:24:28"
   },
   "server": "ia802500.us.archive.org",
-  "uniq": 524903554,
+  "uniq": 1112940738,
   "workable_servers": [
     "ia802500.us.archive.org",
     "ia902500.us.archive.org"

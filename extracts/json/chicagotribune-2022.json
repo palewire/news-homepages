@@ -1,5 +1,5 @@
 {
-  "created": 1665165462,
+  "created": 1665207644,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/30/items/chicagotribune-2022",
@@ -17326,31 +17326,93 @@
       "sha1": "7d057782d13de7972eccd91cb5544d253d0343b1"
     },
     {
+      "name": "chicagotribune-2022-10-08T00:38:42.830990-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665207526",
+      "size": "30869",
+      "md5": "4557263219341e1fe6c8c846a3925fe2",
+      "crc32": "b9c991d9",
+      "sha1": "c99aa9ee0dc930f2a0109294b1150f3b90d4c807",
+      "format": "JSON"
+    },
+    {
+      "name": "chicagotribune-2022-10-08T00:38:42.830990-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665207528",
+      "size": "34643",
+      "md5": "a7582070291680e92c9d16a21e570593",
+      "crc32": "b9aea844",
+      "sha1": "7d1310c20dbd78b7fdace379a2389af433d2c0e7",
+      "format": "JSON"
+    },
+    {
+      "name": "chicagotribune-2022-10-08T00:38:42.830990-05:00.jpg",
+      "source": "original",
+      "mtime": "1665207524",
+      "size": "265930",
+      "md5": "072d86f548360366b77133b75342e900",
+      "crc32": "891201ba",
+      "sha1": "d879add1c0ed21c7011dc7c47825fbcc8e4cb28f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chicagotribune-2022-10-08T00:38:42.830990-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665207529",
+      "size": "1522",
+      "md5": "d00694656142dfd90efd5de339290468",
+      "crc32": "2725cb70",
+      "sha1": "46ac2a452132a0bc694b490867f052f4b7a521c6",
+      "format": "JSON"
+    },
+    {
+      "name": "chicagotribune-2022-10-08T00:38:42.830990-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665207531",
+      "size": "273",
+      "md5": "63daa757d1b48c20c6488ba11c1f2f8e",
+      "crc32": "250248e4",
+      "sha1": "c7f5d22c974256e5d23005d6daaa4a8957e7e039",
+      "format": "JSON"
+    },
+    {
+      "name": "chicagotribune-2022-10-08T00:38:42.830990-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chicagotribune-2022-10-08T00:38:42.830990-05:00.jpg",
+      "mtime": "1665207610",
+      "size": "8797",
+      "md5": "c04f690e26176d4acd7f201e79a9bbae",
+      "crc32": "50833063",
+      "sha1": "f94033eb46b2f1318ec83a1f6312af9f7daaa003"
+    },
+    {
       "name": "chicagotribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8ffded5a99b3901c8854e567694d1977fe28c939",
-      "mtime": "1665165430",
-      "size": "362914",
-      "md5": "e40e6e09ed9ed75dd15db88e09f5be92",
-      "crc32": "68dc62bf",
-      "sha1": "5a374aa70a276f1c81a4ffa67a25131e6abbc2a7",
+      "btih": "c007010c96d43b09595be11ceb0e00d982f85fd9",
+      "mtime": "1665207633",
+      "size": "364215",
+      "md5": "4512f6eb0625a850dd7e4c652b14dec8",
+      "crc32": "f69ffcea",
+      "sha1": "657d4fef2dba5dba01921b5354b2e8fefd417089",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chicagotribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "72d076c651cb2c79f65951c032417aa0",
+      "md5": "c00c3b570b920e51f682f658914b9eb5",
       "summation": "md5"
     },
     {
       "name": "chicagotribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665165307",
-      "size": "2088960",
-      "md5": "a680f0cdee24cd57109e3956374e5503",
-      "crc32": "eb777d40",
-      "sha1": "111d9ac71c4556b383d1c21f1ac8dc6d0f3d9a8c",
+      "mtime": "1665207537",
+      "size": "2097152",
+      "md5": "3ccf0903fed348b3b0d7d5bed4e262f9",
+      "crc32": "651d0c77",
+      "sha1": "adf00c8a721d924288febd927d40db749cc4ad21",
       "format": "Metadata"
     },
     {
@@ -17364,9 +17426,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1673,
-  "item_last_updated": 1665165430,
-  "item_size": 131230329,
+  "files_count": 1679,
+  "item_last_updated": 1665207633,
+  "item_size": 131581856,
   "metadata": {
     "identifier": "chicagotribune-2022",
     "collection": [
@@ -17383,10 +17445,10 @@
     "publicdate": "2022-06-24 22:54:07",
     "addeddate": "2022-06-24 22:54:07"
   },
-  "server": "ia902502.us.archive.org",
-  "uniq": 1968978046,
+  "server": "ia802502.us.archive.org",
+  "uniq": 1740354787,
   "workable_servers": [
-    "ia902502.us.archive.org",
-    "ia802502.us.archive.org"
+    "ia802502.us.archive.org",
+    "ia902502.us.archive.org"
   ]
 }
