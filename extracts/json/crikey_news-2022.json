@@ -1,5 +1,5 @@
 {
-  "created": 1665166256,
+  "created": 1665208237,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/4/items/crikey_news-2022",
@@ -5752,31 +5752,93 @@
       "sha1": "d9f8a74cd5ed232a3133a1e3abdcd4d1d60c75de"
     },
     {
+      "name": "crikey_news-2022-10-08T16:48:02.814582+11:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665208088",
+      "size": "50869",
+      "md5": "18fcf1ac56df0d47febdd5b93b50d107",
+      "crc32": "2670c56e",
+      "sha1": "0d7183e61bb38b7cb83394ef3600d84c9e5fc633",
+      "format": "JSON"
+    },
+    {
+      "name": "crikey_news-2022-10-08T16:48:02.814582+11:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665208100",
+      "size": "46924",
+      "md5": "f3395520eddaf87e9e5d80f7f2ef3d1b",
+      "crc32": "288409d7",
+      "sha1": "4b1bb19e811d8b25d6609f71925df75be07a043d",
+      "format": "JSON"
+    },
+    {
+      "name": "crikey_news-2022-10-08T16:48:02.814582+11:00.jpg",
+      "source": "original",
+      "mtime": "1665208086",
+      "size": "372785",
+      "md5": "3ef27c9a4a9422d5999ea4881fe036c9",
+      "crc32": "1d2132e6",
+      "sha1": "b035655889a72aa5ccbd08b2cd476335ca1c96a1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "crikey_news-2022-10-08T16:48:02.814582+11:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665208101",
+      "size": "1486",
+      "md5": "fa1f2d8b857c604beccb74f4ddaa6d86",
+      "crc32": "e9387c85",
+      "sha1": "c8fb02b7f927f854cc592821d795d445a483b074",
+      "format": "JSON"
+    },
+    {
+      "name": "crikey_news-2022-10-08T16:48:02.814582+11:00.wayback.json",
+      "source": "original",
+      "mtime": "1665208103",
+      "size": "18206",
+      "md5": "9942c0041a91f9bb4bd1f8634faed51b",
+      "crc32": "bf9c675b",
+      "sha1": "a31920bfa9cc53be9a6d57cb378d1bef0f65aba8",
+      "format": "JSON"
+    },
+    {
+      "name": "crikey_news-2022-10-08T16:48:02.814582+11:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "crikey_news-2022-10-08T16:48:02.814582+11:00.jpg",
+      "mtime": "1665208198",
+      "size": "10953",
+      "md5": "c992db29c472855eacd4fbfd55f25ef0",
+      "crc32": "8d3569c8",
+      "sha1": "9a33fb7bd0f57cf2756ee04c5bb33109d2e2a322"
+    },
+    {
       "name": "crikey_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2c4ea8a429e3cefce42d9c5f9efad7cfa0fd6797",
-      "mtime": "1665166146",
-      "size": "120395",
-      "md5": "189b661c5523fdff4c6804b36bdc90c5",
-      "crc32": "0b4de2d0",
-      "sha1": "836c0cf53523a7d8cd0430507407feb8d57c99cf",
+      "btih": "581ff7e0f7cbeda5a7264fc641e7560ff4976c70",
+      "mtime": "1665208209",
+      "size": "121681",
+      "md5": "639ac185534b881bc36c1c71e39b2774",
+      "crc32": "170fae77",
+      "sha1": "f3806afe7d3a4fe1abb4662282ebede19af7470f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "crikey_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "41b2b0e468cb6552e1bdac5bd5ef091f",
+      "md5": "1bc095c63feed0c169f3bb51b1b78ea7",
       "summation": "md5"
     },
     {
       "name": "crikey_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665165976",
-      "size": "724992",
-      "md5": "69166cf9eb62bfb9bdd0aab69c8370a7",
-      "crc32": "6588f848",
-      "sha1": "699a4cb1ba7cdf659526591226840b6cf2a6234a",
+      "mtime": "1665208124",
+      "size": "737280",
+      "md5": "bb50baf2e0a553f52be81b0b5ffc4b8d",
+      "crc32": "82b44014",
+      "sha1": "92b3b2a572b1e071810996ecfd4fe8760c055a63",
       "format": "Metadata"
     },
     {
@@ -5790,9 +5852,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 560,
-  "item_last_updated": 1665166146,
-  "item_size": 45115088,
+  "files_count": 566,
+  "item_last_updated": 1665208209,
+  "item_size": 45629885,
   "metadata": {
     "identifier": "crikey_news-2022",
     "collection": [
@@ -5810,7 +5872,7 @@
     "addeddate": "2022-08-22 21:50:34"
   },
   "server": "ia801506.us.archive.org",
-  "uniq": 1305507603,
+  "uniq": 598165503,
   "workable_servers": [
     "ia801506.us.archive.org",
     "ia601506.us.archive.org"

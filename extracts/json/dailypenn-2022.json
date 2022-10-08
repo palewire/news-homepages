@@ -1,12 +1,7 @@
 {
-  "created": 1665171998,
+  "created": 1665208569,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
-  "dailypenn-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "dir": "/8/items/dailypenn-2022",
   "files": [
     {
@@ -8957,31 +8952,93 @@
       "sha1": "8ce30528d514904655c5dd0134e77ea61b19a8a7"
     },
     {
+      "name": "dailypenn-2022-10-08T01:54:18.374815-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665208468",
+      "size": "26523",
+      "md5": "8871ffe164632ed26291e0e41eee7902",
+      "crc32": "1ec86211",
+      "sha1": "4d3f847a1d9cecf7054bc972360a26e33a17c02a",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-08T01:54:18.374815-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665208470",
+      "size": "24969",
+      "md5": "f1fcd658e403243c5b57164b4461e902",
+      "crc32": "36a89b6e",
+      "sha1": "95bd8626f83a6a40dd761f8da36fab7b64ff84c1",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-08T01:54:18.374815-04:00.jpg",
+      "source": "original",
+      "mtime": "1665208466",
+      "size": "355073",
+      "md5": "1cd9d35bc8c1cc63af7251c1bfae30bb",
+      "crc32": "1c970fc8",
+      "sha1": "6a2f42989439c9c17c350875da0627af07a0dc34",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailypenn-2022-10-08T01:54:18.374815-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665208471",
+      "size": "1450",
+      "md5": "e58e0164966f8c02749ed580b5f16305",
+      "crc32": "8744ef81",
+      "sha1": "19fe05bcce715751ad08a0e95becfc07b045a376",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-08T01:54:18.374815-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665208473",
+      "size": "12668",
+      "md5": "006f0388142346208d3fa1ce263f9514",
+      "crc32": "20df84be",
+      "sha1": "d6863a12bc40859b228deaafa902b9562978653e",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-08T01:54:18.374815-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailypenn-2022-10-08T01:54:18.374815-04:00.jpg",
+      "mtime": "1665208541",
+      "size": "9547",
+      "md5": "00e427225c064ae7eaf49178c8e8ae73",
+      "crc32": "bf7742b5",
+      "sha1": "363e3bd05460c0f974d59087f49a654219d517e9"
+    },
+    {
       "name": "dailypenn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e777e414bed0cfe7ecc09c55d6ade372295302aa",
-      "mtime": "1665166054",
-      "size": "184158",
-      "md5": "4a105fa638468db237f2927d706a3c18",
-      "crc32": "01d1d0fb",
-      "sha1": "477e7af79d90129bed8231baffec65de96efd35a",
+      "btih": "e6e38d84030c24ce468d083583fc2ccca36f2b96",
+      "mtime": "1665208556",
+      "size": "185411",
+      "md5": "dd7922fe7560f1eb82640229ae03591e",
+      "crc32": "f0bb45aa",
+      "sha1": "f45ea3331b53f0f46b893899b58dd19b3cf94403",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailypenn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2c2aa4cb637e63c3b05f47bae45c04c6",
+      "md5": "a7780250de027300d7839aadd5d2ac4e",
       "summation": "md5"
     },
     {
       "name": "dailypenn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665165989",
-      "size": "1110016",
-      "md5": "833f0a0bc96f1e53af6237b1cf05187d",
-      "crc32": "32a5610f",
-      "sha1": "f1e5405233361c6fe007580fec0a955c5f89063d",
+      "mtime": "1665208484",
+      "size": "1118208",
+      "md5": "0afd408ec65af1f449959c02243d7072",
+      "crc32": "d07f1d36",
+      "sha1": "85c6e1d17dfeeff8b751a16d79ad88a498b7336d",
       "format": "Metadata"
     },
     {
@@ -8995,9 +9052,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 869,
-  "item_last_updated": 1665166054,
-  "item_size": 60004910,
+  "files_count": 875,
+  "item_last_updated": 1665208556,
+  "item_size": 60444585,
   "metadata": {
     "identifier": "dailypenn-2022",
     "collection": [
@@ -9015,7 +9072,7 @@
     "addeddate": "2022-07-26 02:41:30"
   },
   "server": "ia801507.us.archive.org",
-  "uniq": 142044823,
+  "uniq": 304728219,
   "workable_servers": [
     "ia801507.us.archive.org",
     "ia601507.us.archive.org"

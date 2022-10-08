@@ -1,6 +1,5 @@
 {
-  "conflict": 1665174949,
-  "created": 1665174949,
+  "created": 1665211911,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/7/items/commondreams-2022",
@@ -14249,31 +14248,93 @@
       "sha1": "70b3701628ca0a5783f045fd9bf8dc4b2bf85225"
     },
     {
+      "name": "commondreams-2022-10-08T01:47:37.695312-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665208066",
+      "size": "43520",
+      "md5": "43c0913bc598190b4c8d74b12b9e673d",
+      "crc32": "16519274",
+      "sha1": "abd2f1a01f1086e61de2035c52a528c6545543d0",
+      "format": "JSON"
+    },
+    {
+      "name": "commondreams-2022-10-08T01:47:37.695312-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665208068",
+      "size": "31761",
+      "md5": "e2e2fbd2b761122cc122bfdf8b9473d0",
+      "crc32": "e4cc13ad",
+      "sha1": "005a37f0ad3624b78b4d29fad0f433ccb6243407",
+      "format": "JSON"
+    },
+    {
+      "name": "commondreams-2022-10-08T01:47:37.695312-04:00.jpg",
+      "source": "original",
+      "mtime": "1665208064",
+      "size": "331895",
+      "md5": "9b976a0203b6d1797808ec1e1a103a54",
+      "crc32": "43ae4295",
+      "sha1": "e8c064f2b3cf20d7ee9feb848467b1001fb0a61e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "commondreams-2022-10-08T01:47:37.695312-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665208069",
+      "size": "1512",
+      "md5": "a23266bca5887ebda7f53af1972676fe",
+      "crc32": "61fdd761",
+      "sha1": "3ba7051fdf3f85b25b4a475529210ddefa68d303",
+      "format": "JSON"
+    },
+    {
+      "name": "commondreams-2022-10-08T01:47:37.695312-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665208071",
+      "size": "26491",
+      "md5": "e92dcb8a61aac217417e6fc4e1e418d4",
+      "crc32": "7077912a",
+      "sha1": "b05dc01f26fcb5c6d0c9c7185c6752351b746cd7",
+      "format": "JSON"
+    },
+    {
+      "name": "commondreams-2022-10-08T01:47:37.695312-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "commondreams-2022-10-08T01:47:37.695312-04:00.jpg",
+      "mtime": "1665208205",
+      "size": "11527",
+      "md5": "46b5457297b0108bc73fd231b9040b58",
+      "crc32": "b3c48871",
+      "sha1": "8b6b83166124c604e746d3f46ec42c8cfacd9432"
+    },
+    {
       "name": "commondreams-2022_archive.torrent",
       "source": "metadata",
-      "btih": "af621feaee8e0ddea89b8809eb04fdded798070f",
-      "mtime": "1665174941",
-      "size": "297106",
-      "md5": "13abc3908fcb79570e4ab29f6cc1a204",
-      "crc32": "0d4b3d88",
-      "sha1": "a16182fc049dc68d9420407cfd806a92b75236f5",
+      "btih": "0d0b5e851f3bed7ae541066d99578cf687db18ff",
+      "mtime": "1665208231",
+      "size": "298378",
+      "md5": "09dc50905f8e6bf4882ce39c0d15811f",
+      "crc32": "4d765dc4",
+      "sha1": "966f4639e606e20985946e70b901b1bd20bf712b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "commondreams-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b609458d7eacf8cf4cf2c196ed0f6f03",
+      "md5": "e537e51742ccbae1c299e5901bad6ec5",
       "summation": "md5"
     },
     {
       "name": "commondreams-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665174694",
-      "size": "1748992",
-      "md5": "b454745b0e12e5b1faae60524706c1fe",
-      "crc32": "8061f8af",
-      "sha1": "bc9772d10f71ae4679dd4eded4efdffabfb81484",
+      "mtime": "1665208086",
+      "size": "1757184",
+      "md5": "d8d91d3efe909a85acdb3028f1e31a46",
+      "crc32": "860da5db",
+      "sha1": "98416220a8d244ab5af291e8b575190146e21ee1",
       "format": "Metadata"
     },
     {
@@ -14287,9 +14348,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1380,
-  "item_last_updated": 1665174941,
-  "item_size": 107295144,
+  "files_count": 1386,
+  "item_last_updated": 1665208231,
+  "item_size": 107751314,
   "metadata": {
     "identifier": "commondreams-2022",
     "collection": [
@@ -14306,29 +14367,10 @@
     "publicdate": "2022-07-17 16:00:05",
     "addeddate": "2022-07-17 16:00:05"
   },
-  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3432838741,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3432839993,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 456364816,
+  "uniq": 1038562100,
   "workable_servers": [
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

@@ -1,13 +1,5 @@
 {
-  "connpost-2022": {
-    "url": "https://www.ctpost.com/",
-    "job_id": "spn2-d70ac5f1b68fa208a1728e37003e242a0de66150",
-    "status": "error",
-    "status_ext": "error:job-failed",
-    "message": "Job failed.",
-    "resources": []
-  },
-  "created": 1665171924,
+  "created": 1665208140,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/30/items/connpost-2022",
@@ -3052,31 +3044,93 @@
       "sha1": "01cd4de767258401003ee81e34253b497a0e94fc"
     },
     {
+      "name": "connpost-2022-10-08T01:47:38.515275-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665208062",
+      "size": "76323",
+      "md5": "8dbd3e2a4b3ffaf38a8a03c704b0a260",
+      "crc32": "2ae37272",
+      "sha1": "70b57f4a05b121417aec898ca6baea79ab60e56d",
+      "format": "JSON"
+    },
+    {
+      "name": "connpost-2022-10-08T01:47:38.515275-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665208064",
+      "size": "78306",
+      "md5": "ffcd22ffba5a036fa9751cd2fc5e72e0",
+      "crc32": "641910b1",
+      "sha1": "72b5e09336c484edf3ff9a5970cd0e374d80e383",
+      "format": "JSON"
+    },
+    {
+      "name": "connpost-2022-10-08T01:47:38.515275-04:00.jpg",
+      "source": "original",
+      "mtime": "1665208060",
+      "size": "326937",
+      "md5": "a9cff280f17ee32525b06539af153ea3",
+      "crc32": "80c77f90",
+      "sha1": "881684c012d18cd8372d44007ba02a0b74c4d9dc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "connpost-2022-10-08T01:47:38.515275-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665208065",
+      "size": "1459",
+      "md5": "f36c91d475bf4e24d16dc2334c9cd13a",
+      "crc32": "aa41664e",
+      "sha1": "4aef0defc102e9059c11338f3851535ea5ba9df9",
+      "format": "JSON"
+    },
+    {
+      "name": "connpost-2022-10-08T01:47:38.515275-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665208067",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "connpost-2022-10-08T01:47:38.515275-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "connpost-2022-10-08T01:47:38.515275-04:00.jpg",
+      "mtime": "1665208126",
+      "size": "9805",
+      "md5": "cfdc99c4026de1c4989ca776647e1de2",
+      "crc32": "b15c8716",
+      "sha1": "c00882110bc56da4643b64a1e4b4dca37765d0b8"
+    },
+    {
       "name": "connpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e8ce8ae8ba224ada6b75d22dd03fe87029873a46",
-      "mtime": "1665166087",
-      "size": "63588",
-      "md5": "6f14aaffe429a7e458dcafd8e3519d57",
-      "crc32": "f4f474a1",
-      "sha1": "780240a7724e5b9b7a9f00fdac1fbb84176e6c60",
+      "btih": "5c48e19d66a863a0285e9524da0ba9995b2c9a9e",
+      "mtime": "1665208129",
+      "size": "64853",
+      "md5": "cb267df35ba6f0bd8ef2f7aa2f04c931",
+      "crc32": "d05582b4",
+      "sha1": "40bc9f57ad74cf46382979c2aa8243e329a06905",
       "format": "Archive BitTorrent"
     },
     {
       "name": "connpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "114a8d1cdd85babcaf449f8628bf885c",
+      "md5": "7b18de59bbc4e3926e4d1b2bb4c73354",
       "summation": "md5"
     },
     {
       "name": "connpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665165993",
-      "size": "393216",
-      "md5": "8c292857bbf818393e373ac47375c46a",
-      "crc32": "f7702030",
-      "sha1": "8213eaeabbf05e9fed95c8492c35f99f336746ee",
+      "mtime": "1665208073",
+      "size": "397312",
+      "md5": "9247df3d6839758ada04dce42273c9eb",
+      "crc32": "f0e57a35",
+      "sha1": "b1795fa4bb9d1daf1490d0c63b7585f54a20ce07",
       "format": "Metadata"
     },
     {
@@ -3090,9 +3144,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 298,
-  "item_last_updated": 1665166087,
-  "item_size": 27893185,
+  "files_count": 304,
+  "item_last_updated": 1665208129,
+  "item_size": 28391578,
   "metadata": {
     "identifier": "connpost-2022",
     "collection": [
@@ -3110,7 +3164,7 @@
     "addeddate": "2022-09-14 03:45:25"
   },
   "server": "ia601402.us.archive.org",
-  "uniq": 587297649,
+  "uniq": 554797377,
   "workable_servers": [
     "ia601402.us.archive.org",
     "ia801402.us.archive.org"
