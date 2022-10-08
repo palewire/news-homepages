@@ -1,5 +1,5 @@
 {
-  "created": 1665148137,
+  "created": 1665192398,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/11/items/jornaldobrasil-2022",
@@ -11510,31 +11510,93 @@
       "sha1": "e4917cc416442f35cf3a93629566034d41f4155e"
     },
     {
+      "name": "jornaldobrasil-2022-10-07T22:23:30.202802-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665192240",
+      "size": "28587",
+      "md5": "5ec15f3a8a332067aed2ab0ce25acbd4",
+      "crc32": "80380469",
+      "sha1": "cdd0773931582f8e516a344e01b6228282b9611c",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaldobrasil-2022-10-07T22:23:30.202802-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665192252",
+      "size": "32233",
+      "md5": "c786ee9d77940d5882a16a69ced1772c",
+      "crc32": "a6149b79",
+      "sha1": "176a6f9d9e3965b5520b8d2806c60eae37127453",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaldobrasil-2022-10-07T22:23:30.202802-03:00.jpg",
+      "source": "original",
+      "mtime": "1665192230",
+      "size": "310552",
+      "md5": "023ae5fe14d07170a070d4b077ed61d7",
+      "crc32": "02ec75e8",
+      "sha1": "655619602a58ccaee2bd069e63e964c0dd1d5b6c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jornaldobrasil-2022-10-07T22:23:30.202802-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665192260",
+      "size": "1426",
+      "md5": "cd5901a966236b196412675bd270ca8e",
+      "crc32": "af099101",
+      "sha1": "8d8a09db35403cc891d6c4413fd03c76cdea78b1",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaldobrasil-2022-10-07T22:23:30.202802-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665192270",
+      "size": "202",
+      "md5": "dcbe2ec3b3c28d9bca34130336f4c495",
+      "crc32": "0e32f27d",
+      "sha1": "c193971aa77a1fc4ff929204bd5d0cdb3252920b",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaldobrasil-2022-10-07T22:23:30.202802-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jornaldobrasil-2022-10-07T22:23:30.202802-03:00.jpg",
+      "mtime": "1665192351",
+      "size": "9884",
+      "md5": "b8f62e173f42e95779df05da2583b8e0",
+      "crc32": "ac9e9d68",
+      "sha1": "6a7d84a8ccf171e930c75164771daf3d7d91635c"
+    },
+    {
       "name": "jornaldobrasil-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d1b0c7159bf48baebc7420e93fc24eb98925d722",
-      "mtime": "1665148122",
-      "size": "242362",
-      "md5": "3e6074eb29905936e86073e7c44d0fa6",
-      "crc32": "cd832acf",
-      "sha1": "2e6d508fca845b05bc9c1cb6a1b979e85f640483",
+      "btih": "f1f723d01f801a5a922a13cf4046f16c2313cbbb",
+      "mtime": "1665192363",
+      "size": "243663",
+      "md5": "2cad36d7e1dff3fd729f2275ed11b072",
+      "crc32": "16a60152",
+      "sha1": "a1d71d345d0234b421f26d7579e98a7008d762da",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jornaldobrasil-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "82ea4d695066d57b9bc720b059436008",
+      "md5": "8087f7de8a728132f743596ad9a4c2d1",
       "summation": "md5"
     },
     {
       "name": "jornaldobrasil-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665148043",
-      "size": "1437696",
-      "md5": "7be920fe2c430194382e25bb328fe6ee",
-      "crc32": "08c08607",
-      "sha1": "acbf97e5eec0206de2db26b8cd98894b9816be13",
+      "mtime": "1665192272",
+      "size": "1445888",
+      "md5": "23b56e35517f470cc2fc07faff021b66",
+      "crc32": "6b0477cd",
+      "sha1": "22b3e84d7e2fd3d110748961152a7ed49c8dbf0a",
       "format": "Metadata"
     },
     {
@@ -11548,9 +11610,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1117,
-  "item_last_updated": 1665148122,
-  "item_size": 77100750,
+  "files_count": 1123,
+  "item_last_updated": 1665192363,
+  "item_size": 77493127,
   "metadata": {
     "identifier": "jornaldobrasil-2022",
     "collection": [
@@ -11568,7 +11630,7 @@
     "addeddate": "2022-08-04 04:55:22"
   },
   "server": "ia801507.us.archive.org",
-  "uniq": 1204911895,
+  "uniq": 1075042829,
   "workable_servers": [
     "ia801507.us.archive.org",
     "ia601507.us.archive.org"
