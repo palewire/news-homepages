@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 179 screenshots with the Internet Archive.
+The archiving routine has saved 183 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,6 +120,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-08T04:18:06.110086-03:00.jpg">
+  <img src="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-08T04:18:06.110086-03:00.jpg"
+     alt="O Antagonista at 2022-10-08 04:18:07-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-08T04:18:06.110086-03:00.jpg">October 8 at 4:18 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-07T16:46:20.815490-03:00.jpg">
+  <img src="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-07T16:46:20.815490-03:00.jpg"
+     alt="O Antagonista at 2022-10-07 16:46:39-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-07T16:46:20.815490-03:00.jpg">October 7 at 4:46 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-07T04:46:26.726239-03:00.jpg">
+  <img src="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-07T04:46:26.726239-03:00.jpg"
+     alt="O Antagonista at 2022-10-07 04:46:28-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-07T04:46:26.726239-03:00.jpg">October 7 at 4:46 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-06T16:30:38.382069-03:00.jpg">
+  <img src="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-06T16:30:38.382069-03:00.jpg"
+     alt="O Antagonista at 2022-10-06 16:30:41-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-06T16:30:38.382069-03:00.jpg">October 6 at 4:30 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-06T08:24:12.382086-03:00.jpg">
   <img src="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-06T08:24:12.382086-03:00.jpg"
      alt="O Antagonista at 2022-10-06 08:24:14-03:00 local time"
@@ -191,47 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-04T04:44:16.338800-03:00.jpg">October 4 at 4:44 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-03T09:05:54.309334-03:00.jpg">
-  <img src="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-03T09:05:54.309334-03:00.jpg"
-     alt="O Antagonista at 2022-10-03 09:05:55-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-03T09:05:54.309334-03:00.jpg">October 3 at 9:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-03T04:36:50.198207-03:00.jpg">
-  <img src="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-03T04:36:50.198207-03:00.jpg"
-     alt="O Antagonista at 2022-10-03 04:36:51-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-03T04:36:50.198207-03:00.jpg">October 3 at 4:36 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-02T16:04:42.763387-03:00.jpg">
-  <img src="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-02T16:04:42.763387-03:00.jpg"
-     alt="O Antagonista at 2022-10-02 16:05:02-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-02T16:04:42.763387-03:00.jpg">October 2 at 4:05 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-02T08:59:27.228816-03:00.jpg">
-  <img src="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-02T08:59:27.228816-03:00.jpg"
-     alt="O Antagonista at 2022-10-02 08:59:34-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-02T08:59:27.228816-03:00.jpg">October 2 at 8:59 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 179 hyperlink lists with the Internet Archive.
+The archiving routine has saved 183 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 8 at 4:18 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-08T04:18:06.110086-03:00.hyperlinks.json) |
+| [October 7 at 4:46 PM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-07T16:46:20.815490-03:00.hyperlinks.json) |
+| [October 7 at 4:46 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-07T04:46:26.726239-03:00.hyperlinks.json) |
+| [October 6 at 4:30 PM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-06T16:30:38.382069-03:00.hyperlinks.json) |
 | [October 6 at 8:24 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-06T08:24:12.382086-03:00.hyperlinks.json) |
 | [October 6 at 4:13 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-06T04:13:35.361279-03:00.hyperlinks.json) |
 | [October 5 at 5:41 PM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-05T17:41:09.903647-03:00.hyperlinks.json) |
 | [October 5 at 9:25 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-05T09:25:13.466795-03:00.hyperlinks.json) |
 | [October 5 at 4:23 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-05T04:23:01.579122-03:00.hyperlinks.json) |
 | [October 4 at 4:31 PM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-04T16:31:48.491054-03:00.hyperlinks.json) |
-| [October 4 at 9:11 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-04T09:10:56.654587-03:00.hyperlinks.json) |
-| [October 4 at 4:44 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-04T04:44:16.338800-03:00.hyperlinks.json) |
-| [October 3 at 9:05 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-03T09:05:54.309334-03:00.hyperlinks.json) |
-| [October 3 at 4:36 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-03T04:36:50.198207-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 178 accessibility trees with the Internet Archive.
+The archiving routine has saved 182 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,16 +427,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 8 at 4:18 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-08T04:18:06.110086-03:00.accessibility.json) |
+| [October 7 at 4:46 PM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-07T16:46:20.815490-03:00.accessibility.json) |
+| [October 7 at 4:46 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-07T04:46:26.726239-03:00.accessibility.json) |
+| [October 6 at 4:30 PM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-06T16:30:38.382069-03:00.accessibility.json) |
 | [October 6 at 8:24 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-06T08:24:12.382086-03:00.accessibility.json) |
 | [October 6 at 4:13 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-06T04:13:35.361279-03:00.accessibility.json) |
 | [October 5 at 5:41 PM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-05T17:41:09.903647-03:00.accessibility.json) |
 | [October 5 at 9:25 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-05T09:25:13.466795-03:00.accessibility.json) |
 | [October 5 at 4:23 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-05T04:23:01.579122-03:00.accessibility.json) |
 | [October 4 at 4:31 PM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-04T16:31:48.491054-03:00.accessibility.json) |
-| [October 4 at 9:11 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-04T09:10:56.654587-03:00.accessibility.json) |
-| [October 4 at 4:44 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-04T04:44:16.338800-03:00.accessibility.json) |
-| [October 3 at 9:05 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-03T09:05:54.309334-03:00.accessibility.json) |
-| [October 3 at 4:36 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-10-03T04:36:50.198207-03:00.accessibility.json) |
 
 
 

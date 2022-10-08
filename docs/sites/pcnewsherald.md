@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 31 screenshots with the Internet Archive.
+The archiving routine has saved 35 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-08T03:17:34.022142-04:00.jpg">
+  <img src="https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-08T03:17:34.022142-04:00.jpg"
+     alt="Port Clinton News Herald at 2022-10-08 03:17:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-08T03:17:34.022142-04:00.jpg">October 8 at 3:17 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-07T15:46:37.558382-04:00.jpg">
+  <img src="https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-07T15:46:37.558382-04:00.jpg"
+     alt="Port Clinton News Herald at 2022-10-07 15:46:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-07T15:46:37.558382-04:00.jpg">October 7 at 3:46 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-07T03:46:17.505312-04:00.jpg">
+  <img src="https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-07T03:46:17.505312-04:00.jpg"
+     alt="Port Clinton News Herald at 2022-10-07 03:46:20-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-07T03:46:17.505312-04:00.jpg">October 7 at 3:46 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-06T15:35:47.265941-04:00.jpg">
+  <img src="https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-06T15:35:47.265941-04:00.jpg"
+     alt="Port Clinton News Herald at 2022-10-06 15:35:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-06T15:35:47.265941-04:00.jpg">October 6 at 3:35 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-06T03:15:05.039765-04:00.jpg">
   <img src="https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-06T03:15:05.039765-04:00.jpg"
      alt="Port Clinton News Herald at 2022-10-06 03:15:07-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-02T15:07:09.528631-04:00.jpg">October 2 at 3:07 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-01T15:04:22.203538-04:00.jpg">
-  <img src="https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-01T15:04:22.203538-04:00.jpg"
-     alt="Port Clinton News Herald at 2022-10-01 15:04:26-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-01T15:04:22.203538-04:00.jpg">October 1 at 3:04 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-01T03:56:15.200671-04:00.jpg">
-  <img src="https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-01T03:56:15.200671-04:00.jpg"
-     alt="Port Clinton News Herald at 2022-10-01 03:56:16-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-01T03:56:15.200671-04:00.jpg">October 1 at 3:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-09-30T16:13:37.160938-04:00.jpg">
-  <img src="https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-09-30T16:13:37.160938-04:00.jpg"
-     alt="Port Clinton News Herald at 2022-09-30 16:13:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-09-30T16:13:37.160938-04:00.jpg">September 30 at 4:13 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-09-30T04:02:10.757233-04:00.jpg">
-  <img src="https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-09-30T04:02:10.757233-04:00.jpg"
-     alt="Port Clinton News Herald at 2022-09-30 04:02:13-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-09-30T04:02:10.757233-04:00.jpg">September 30 at 4:02 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 31 hyperlink lists with the Internet Archive.
+The archiving routine has saved 35 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 8 at 3:17 AM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-08T03:17:34.022142-04:00.hyperlinks.json) |
+| [October 7 at 3:46 PM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-07T15:46:37.558382-04:00.hyperlinks.json) |
+| [October 7 at 3:46 AM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-07T03:46:17.505312-04:00.hyperlinks.json) |
+| [October 6 at 3:35 PM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-06T15:35:47.265941-04:00.hyperlinks.json) |
 | [October 6 at 3:15 AM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-06T03:15:05.039765-04:00.hyperlinks.json) |
 | [October 5 at 4:43 PM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-05T16:42:59.638915-04:00.hyperlinks.json) |
 | [October 5 at 3:23 AM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-05T03:23:49.718483-04:00.hyperlinks.json) |
 | [October 4 at 3:32 PM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-04T15:32:15.907483-04:00.hyperlinks.json) |
 | [October 4 at 3:44 AM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-04T03:43:55.575739-04:00.hyperlinks.json) |
 | [October 3 at 3:20 PM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-03T15:20:11.784793-04:00.hyperlinks.json) |
-| [October 3 at 3:36 AM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-03T03:36:07.724961-04:00.hyperlinks.json) |
-| [October 2 at 3:07 PM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-02T15:07:09.528631-04:00.hyperlinks.json) |
-| [October 1 at 3:04 PM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-01T15:04:22.203538-04:00.hyperlinks.json) |
-| [October 1 at 3:56 AM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-01T03:56:15.200671-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 31 accessibility trees with the Internet Archive.
+The archiving routine has saved 35 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 8 at 3:17 AM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-08T03:17:34.022142-04:00.accessibility.json) |
+| [October 7 at 3:46 PM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-07T15:46:37.558382-04:00.accessibility.json) |
+| [October 7 at 3:46 AM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-07T03:46:17.505312-04:00.accessibility.json) |
+| [October 6 at 3:35 PM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-06T15:35:47.265941-04:00.accessibility.json) |
 | [October 6 at 3:15 AM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-06T03:15:05.039765-04:00.accessibility.json) |
 | [October 5 at 4:43 PM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-05T16:42:59.638915-04:00.accessibility.json) |
 | [October 5 at 3:23 AM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-05T03:23:49.718483-04:00.accessibility.json) |
 | [October 4 at 3:32 PM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-04T15:32:15.907483-04:00.accessibility.json) |
 | [October 4 at 3:44 AM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-04T03:43:55.575739-04:00.accessibility.json) |
 | [October 3 at 3:20 PM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-03T15:20:11.784793-04:00.accessibility.json) |
-| [October 3 at 3:36 AM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-03T03:36:07.724961-04:00.accessibility.json) |
-| [October 2 at 3:07 PM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-02T15:07:09.528631-04:00.accessibility.json) |
-| [October 1 at 3:04 PM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-01T15:04:22.203538-04:00.accessibility.json) |
-| [October 1 at 3:56 AM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-01T03:56:15.200671-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 8 at 3:17 AM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-08T03:17:34.022142-04:00.lighthouse.json) |
+| [October 7 at 3:46 PM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-07T15:46:37.558382-04:00.lighthouse.json) |
+| [October 7 at 3:46 AM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-07T03:46:17.505312-04:00.lighthouse.json) |
+| [October 6 at 3:35 PM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-06T15:35:47.265941-04:00.lighthouse.json) |
 | [October 6 at 3:15 AM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-06T03:15:05.039765-04:00.lighthouse.json) |
 | [October 5 at 4:43 PM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-05T16:42:59.638915-04:00.lighthouse.json) |
 | [October 5 at 3:23 AM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-05T03:23:49.718483-04:00.lighthouse.json) |
 | [October 4 at 3:32 PM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-04T15:32:15.907483-04:00.lighthouse.json) |
 | [October 4 at 3:44 AM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-04T03:43:55.575739-04:00.lighthouse.json) |
 | [October 3 at 3:20 PM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-03T15:20:11.784793-04:00.lighthouse.json) |
-| [October 3 at 3:36 AM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-03T03:36:07.724961-04:00.lighthouse.json) |
-| [October 2 at 3:07 PM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-02T15:07:09.528631-04:00.lighthouse.json) |
-| [October 1 at 3:04 PM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-01T15:04:22.203538-04:00.lighthouse.json) |
-| [October 1 at 3:56 AM](https://archive.org/download/pcnewsherald-2022/pcnewsherald-2022-10-01T03:56:15.200671-04:00.lighthouse.json) |
 
 
 

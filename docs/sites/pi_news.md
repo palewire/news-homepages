@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 32 screenshots with the Internet Archive.
+The archiving routine has saved 36 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/pi_news-2022/pi_news-2022-10-08T03:19:46.450727-04:00.jpg">
+  <img src="https://archive.org/download/pi_news-2022/pi_news-2022-10-08T03:19:46.450727-04:00.jpg"
+     alt="Richmond Palladium-Item at 2022-10-08 03:19:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pi_news-2022/pi_news-2022-10-08T03:19:46.450727-04:00.jpg">October 8 at 3:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pi_news-2022/pi_news-2022-10-07T15:46:25.266171-04:00.jpg">
+  <img src="https://archive.org/download/pi_news-2022/pi_news-2022-10-07T15:46:25.266171-04:00.jpg"
+     alt="Richmond Palladium-Item at 2022-10-07 15:46:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pi_news-2022/pi_news-2022-10-07T15:46:25.266171-04:00.jpg">October 7 at 3:46 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pi_news-2022/pi_news-2022-10-07T03:47:19.301958-04:00.jpg">
+  <img src="https://archive.org/download/pi_news-2022/pi_news-2022-10-07T03:47:19.301958-04:00.jpg"
+     alt="Richmond Palladium-Item at 2022-10-07 03:47:20-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pi_news-2022/pi_news-2022-10-07T03:47:19.301958-04:00.jpg">October 7 at 3:47 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pi_news-2022/pi_news-2022-10-06T15:38:46.892109-04:00.jpg">
+  <img src="https://archive.org/download/pi_news-2022/pi_news-2022-10-06T15:38:46.892109-04:00.jpg"
+     alt="Richmond Palladium-Item at 2022-10-06 15:38:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pi_news-2022/pi_news-2022-10-06T15:38:46.892109-04:00.jpg">October 6 at 3:38 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/pi_news-2022/pi_news-2022-10-06T03:14:37.594264-04:00.jpg">
   <img src="https://archive.org/download/pi_news-2022/pi_news-2022-10-06T03:14:37.594264-04:00.jpg"
      alt="Richmond Palladium-Item at 2022-10-06 03:14:39-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/pi_news-2022/pi_news-2022-10-02T15:07:33.655916-04:00.jpg">October 2 at 3:07 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/pi_news-2022/pi_news-2022-10-02T03:21:33.663016-04:00.jpg">
-  <img src="https://archive.org/download/pi_news-2022/pi_news-2022-10-02T03:21:33.663016-04:00.jpg"
-     alt="Richmond Palladium-Item at 2022-10-02 03:21:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pi_news-2022/pi_news-2022-10-02T03:21:33.663016-04:00.jpg">October 2 at 3:21 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pi_news-2022/pi_news-2022-10-01T15:05:12.869498-04:00.jpg">
-  <img src="https://archive.org/download/pi_news-2022/pi_news-2022-10-01T15:05:12.869498-04:00.jpg"
-     alt="Richmond Palladium-Item at 2022-10-01 15:05:15-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pi_news-2022/pi_news-2022-10-01T15:05:12.869498-04:00.jpg">October 1 at 3:05 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pi_news-2022/pi_news-2022-10-01T03:55:32.649761-04:00.jpg">
-  <img src="https://archive.org/download/pi_news-2022/pi_news-2022-10-01T03:55:32.649761-04:00.jpg"
-     alt="Richmond Palladium-Item at 2022-10-01 03:55:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pi_news-2022/pi_news-2022-10-01T03:55:32.649761-04:00.jpg">October 1 at 3:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pi_news-2022/pi_news-2022-09-30T16:14:08.309971-04:00.jpg">
-  <img src="https://archive.org/download/pi_news-2022/pi_news-2022-09-30T16:14:08.309971-04:00.jpg"
-     alt="Richmond Palladium-Item at 2022-09-30 16:14:11-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pi_news-2022/pi_news-2022-09-30T16:14:08.309971-04:00.jpg">September 30 at 4:14 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 32 hyperlink lists with the Internet Archive.
+The archiving routine has saved 36 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 8 at 3:19 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-08T03:19:46.450727-04:00.hyperlinks.json) |
+| [October 7 at 3:46 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-07T15:46:25.266171-04:00.hyperlinks.json) |
+| [October 7 at 3:47 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-07T03:47:19.301958-04:00.hyperlinks.json) |
+| [October 6 at 3:38 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-06T15:38:46.892109-04:00.hyperlinks.json) |
 | [October 6 at 3:14 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-06T03:14:37.594264-04:00.hyperlinks.json) |
 | [October 5 at 4:42 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-05T16:42:32.662672-04:00.hyperlinks.json) |
 | [October 5 at 3:24 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-05T03:24:00.750820-04:00.hyperlinks.json) |
 | [October 4 at 3:33 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-04T15:33:12.883830-04:00.hyperlinks.json) |
 | [October 4 at 3:46 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-04T03:46:37.099913-04:00.hyperlinks.json) |
 | [October 3 at 3:19 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-03T15:19:48.181468-04:00.hyperlinks.json) |
-| [October 3 at 3:37 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-03T03:37:03.693463-04:00.hyperlinks.json) |
-| [October 2 at 3:07 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-02T15:07:33.655916-04:00.hyperlinks.json) |
-| [October 2 at 3:21 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-02T03:21:33.663016-04:00.hyperlinks.json) |
-| [October 1 at 3:05 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-01T15:05:12.869498-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 32 accessibility trees with the Internet Archive.
+The archiving routine has saved 36 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 8 at 3:19 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-08T03:19:46.450727-04:00.accessibility.json) |
+| [October 7 at 3:46 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-07T15:46:25.266171-04:00.accessibility.json) |
+| [October 7 at 3:47 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-07T03:47:19.301958-04:00.accessibility.json) |
+| [October 6 at 3:38 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-06T15:38:46.892109-04:00.accessibility.json) |
 | [October 6 at 3:14 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-06T03:14:37.594264-04:00.accessibility.json) |
 | [October 5 at 4:42 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-05T16:42:32.662672-04:00.accessibility.json) |
 | [October 5 at 3:24 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-05T03:24:00.750820-04:00.accessibility.json) |
 | [October 4 at 3:33 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-04T15:33:12.883830-04:00.accessibility.json) |
 | [October 4 at 3:46 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-04T03:46:37.099913-04:00.accessibility.json) |
 | [October 3 at 3:19 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-03T15:19:48.181468-04:00.accessibility.json) |
-| [October 3 at 3:37 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-03T03:37:03.693463-04:00.accessibility.json) |
-| [October 2 at 3:07 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-02T15:07:33.655916-04:00.accessibility.json) |
-| [October 2 at 3:21 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-02T03:21:33.663016-04:00.accessibility.json) |
-| [October 1 at 3:05 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-01T15:05:12.869498-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 36 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 8 at 3:19 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-08T03:19:46.450727-04:00.lighthouse.json) |
+| [October 7 at 3:46 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-07T15:46:25.266171-04:00.lighthouse.json) |
+| [October 7 at 3:47 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-07T03:47:19.301958-04:00.lighthouse.json) |
+| [October 6 at 3:38 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-06T15:38:46.892109-04:00.lighthouse.json) |
 | [October 6 at 3:14 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-06T03:14:37.594264-04:00.lighthouse.json) |
 | [October 5 at 4:42 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-05T16:42:32.662672-04:00.lighthouse.json) |
 | [October 5 at 3:24 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-05T03:24:00.750820-04:00.lighthouse.json) |
 | [October 4 at 3:33 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-04T15:33:12.883830-04:00.lighthouse.json) |
 | [October 4 at 3:46 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-04T03:46:37.099913-04:00.lighthouse.json) |
 | [October 3 at 3:20 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-03T15:19:48.181468-04:00.lighthouse.json) |
-| [October 3 at 3:37 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-03T03:37:03.693463-04:00.lighthouse.json) |
-| [October 2 at 3:07 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-02T15:07:33.655916-04:00.lighthouse.json) |
-| [October 2 at 3:21 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-02T03:21:33.663016-04:00.lighthouse.json) |
-| [October 1 at 3:05 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-01T15:05:12.869498-04:00.lighthouse.json) |
 
 
 

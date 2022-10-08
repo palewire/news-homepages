@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 187 screenshots with the Internet Archive.
+The archiving routine has saved 191 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/people-2022/people-2022-10-08T03:17:58.337385-04:00.jpg">
+  <img src="https://archive.org/download/people-2022/people-2022-10-08T03:17:58.337385-04:00.jpg"
+     alt="People at 2022-10-08 03:17:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/people-2022/people-2022-10-08T03:17:58.337385-04:00.jpg">October 8 at 3:17 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/people-2022/people-2022-10-07T15:46:57.177175-04:00.jpg">
+  <img src="https://archive.org/download/people-2022/people-2022-10-07T15:46:57.177175-04:00.jpg"
+     alt="People at 2022-10-07 15:47:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/people-2022/people-2022-10-07T15:46:57.177175-04:00.jpg">October 7 at 3:47 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/people-2022/people-2022-10-07T03:46:26.483934-04:00.jpg">
+  <img src="https://archive.org/download/people-2022/people-2022-10-07T03:46:26.483934-04:00.jpg"
+     alt="People at 2022-10-07 03:46:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/people-2022/people-2022-10-07T03:46:26.483934-04:00.jpg">October 7 at 3:46 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/people-2022/people-2022-10-06T15:35:48.777216-04:00.jpg">
+  <img src="https://archive.org/download/people-2022/people-2022-10-06T15:35:48.777216-04:00.jpg"
+     alt="People at 2022-10-06 15:36:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/people-2022/people-2022-10-06T15:35:48.777216-04:00.jpg">October 6 at 3:36 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/people-2022/people-2022-10-06T03:14:33.895534-04:00.jpg">
   <img src="https://archive.org/download/people-2022/people-2022-10-06T03:14:33.895534-04:00.jpg"
      alt="People at 2022-10-06 03:14:39-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/people-2022/people-2022-10-02T15:06:58.710807-04:00.jpg">October 2 at 3:07 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/people-2022/people-2022-10-02T03:21:34.980262-04:00.jpg">
-  <img src="https://archive.org/download/people-2022/people-2022-10-02T03:21:34.980262-04:00.jpg"
-     alt="People at 2022-10-02 03:21:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/people-2022/people-2022-10-02T03:21:34.980262-04:00.jpg">October 2 at 3:21 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/people-2022/people-2022-10-01T15:05:02.306416-04:00.jpg">
-  <img src="https://archive.org/download/people-2022/people-2022-10-01T15:05:02.306416-04:00.jpg"
-     alt="People at 2022-10-01 15:05:11-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/people-2022/people-2022-10-01T15:05:02.306416-04:00.jpg">October 1 at 3:05 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/people-2022/people-2022-10-01T03:55:37.640501-04:00.jpg">
-  <img src="https://archive.org/download/people-2022/people-2022-10-01T03:55:37.640501-04:00.jpg"
-     alt="People at 2022-10-01 03:55:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/people-2022/people-2022-10-01T03:55:37.640501-04:00.jpg">October 1 at 3:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/people-2022/people-2022-09-30T16:14:52.681004-04:00.jpg">
-  <img src="https://archive.org/download/people-2022/people-2022-09-30T16:14:52.681004-04:00.jpg"
-     alt="People at 2022-09-30 16:14:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/people-2022/people-2022-09-30T16:14:52.681004-04:00.jpg">September 30 at 4:14 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 173 hyperlink lists with the Internet Archive.
+The archiving routine has saved 177 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 8 at 3:18 AM](https://archive.org/download/people-2022/people-2022-10-08T03:17:58.337385-04:00.hyperlinks.json) |
+| [October 7 at 3:47 PM](https://archive.org/download/people-2022/people-2022-10-07T15:46:57.177175-04:00.hyperlinks.json) |
+| [October 7 at 3:46 AM](https://archive.org/download/people-2022/people-2022-10-07T03:46:26.483934-04:00.hyperlinks.json) |
+| [October 6 at 3:36 PM](https://archive.org/download/people-2022/people-2022-10-06T15:35:48.777216-04:00.hyperlinks.json) |
 | [October 6 at 3:14 AM](https://archive.org/download/people-2022/people-2022-10-06T03:14:33.895534-04:00.hyperlinks.json) |
 | [October 5 at 4:42 PM](https://archive.org/download/people-2022/people-2022-10-05T16:42:39.207327-04:00.hyperlinks.json) |
 | [October 5 at 3:24 AM](https://archive.org/download/people-2022/people-2022-10-05T03:23:55.686456-04:00.hyperlinks.json) |
 | [October 4 at 3:33 PM](https://archive.org/download/people-2022/people-2022-10-04T15:33:39.119123-04:00.hyperlinks.json) |
 | [October 4 at 3:45 AM](https://archive.org/download/people-2022/people-2022-10-04T03:45:49.748543-04:00.hyperlinks.json) |
 | [October 3 at 3:20 PM](https://archive.org/download/people-2022/people-2022-10-03T15:20:31.689594-04:00.hyperlinks.json) |
-| [October 3 at 3:36 AM](https://archive.org/download/people-2022/people-2022-10-03T03:36:40.885001-04:00.hyperlinks.json) |
-| [October 2 at 3:07 PM](https://archive.org/download/people-2022/people-2022-10-02T15:06:58.710807-04:00.hyperlinks.json) |
-| [October 2 at 3:21 AM](https://archive.org/download/people-2022/people-2022-10-02T03:21:34.980262-04:00.hyperlinks.json) |
-| [October 1 at 3:05 PM](https://archive.org/download/people-2022/people-2022-10-01T15:05:02.306416-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 178 accessibility trees with the Internet Archive.
+The archiving routine has saved 182 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 8 at 3:18 AM](https://archive.org/download/people-2022/people-2022-10-08T03:17:58.337385-04:00.accessibility.json) |
+| [October 7 at 3:47 PM](https://archive.org/download/people-2022/people-2022-10-07T15:46:57.177175-04:00.accessibility.json) |
+| [October 7 at 3:46 AM](https://archive.org/download/people-2022/people-2022-10-07T03:46:26.483934-04:00.accessibility.json) |
+| [October 6 at 3:36 PM](https://archive.org/download/people-2022/people-2022-10-06T15:35:48.777216-04:00.accessibility.json) |
 | [October 5 at 4:42 PM](https://archive.org/download/people-2022/people-2022-10-05T16:42:39.207327-04:00.accessibility.json) |
 | [October 5 at 3:23 AM](https://archive.org/download/people-2022/people-2022-10-05T03:23:55.686456-04:00.accessibility.json) |
 | [October 4 at 3:33 PM](https://archive.org/download/people-2022/people-2022-10-04T15:33:39.119123-04:00.accessibility.json) |
 | [October 4 at 3:45 AM](https://archive.org/download/people-2022/people-2022-10-04T03:45:49.748543-04:00.accessibility.json) |
 | [October 3 at 3:20 PM](https://archive.org/download/people-2022/people-2022-10-03T15:20:31.689594-04:00.accessibility.json) |
 | [October 3 at 3:36 AM](https://archive.org/download/people-2022/people-2022-10-03T03:36:40.885001-04:00.accessibility.json) |
-| [October 2 at 3:07 PM](https://archive.org/download/people-2022/people-2022-10-02T15:06:58.710807-04:00.accessibility.json) |
-| [October 2 at 3:21 AM](https://archive.org/download/people-2022/people-2022-10-02T03:21:34.980262-04:00.accessibility.json) |
-| [October 1 at 3:05 PM](https://archive.org/download/people-2022/people-2022-10-01T15:05:02.306416-04:00.accessibility.json) |
-| [October 1 at 3:55 AM](https://archive.org/download/people-2022/people-2022-10-01T03:55:37.640501-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 148 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 152 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 8 at 3:18 AM](https://archive.org/download/people-2022/people-2022-10-08T03:17:58.337385-04:00.lighthouse.json) |
+| [October 7 at 3:47 PM](https://archive.org/download/people-2022/people-2022-10-07T15:46:57.177175-04:00.lighthouse.json) |
+| [October 7 at 3:46 AM](https://archive.org/download/people-2022/people-2022-10-07T03:46:26.483934-04:00.lighthouse.json) |
+| [October 6 at 3:36 PM](https://archive.org/download/people-2022/people-2022-10-06T15:35:48.777216-04:00.lighthouse.json) |
 | [October 6 at 3:14 AM](https://archive.org/download/people-2022/people-2022-10-06T03:14:33.895534-04:00.lighthouse.json) |
 | [October 5 at 4:42 PM](https://archive.org/download/people-2022/people-2022-10-05T16:42:39.207327-04:00.lighthouse.json) |
 | [October 5 at 3:24 AM](https://archive.org/download/people-2022/people-2022-10-05T03:23:55.686456-04:00.lighthouse.json) |
 | [October 4 at 3:33 PM](https://archive.org/download/people-2022/people-2022-10-04T15:33:39.119123-04:00.lighthouse.json) |
 | [October 4 at 3:45 AM](https://archive.org/download/people-2022/people-2022-10-04T03:45:49.748543-04:00.lighthouse.json) |
 | [October 3 at 3:20 PM](https://archive.org/download/people-2022/people-2022-10-03T15:20:31.689594-04:00.lighthouse.json) |
-| [October 3 at 3:36 AM](https://archive.org/download/people-2022/people-2022-10-03T03:36:40.885001-04:00.lighthouse.json) |
-| [October 2 at 3:07 PM](https://archive.org/download/people-2022/people-2022-10-02T15:06:58.710807-04:00.lighthouse.json) |
-| [October 2 at 3:21 AM](https://archive.org/download/people-2022/people-2022-10-02T03:21:34.980262-04:00.lighthouse.json) |
-| [October 1 at 3:05 PM](https://archive.org/download/people-2022/people-2022-10-01T15:05:02.306416-04:00.lighthouse.json) |
 
 
 

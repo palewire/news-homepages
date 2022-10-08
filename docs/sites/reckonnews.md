@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 48 screenshots with the Internet Archive.
+The archiving routine has saved 52 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-10-08T02:19:32.536864-05:00.jpg">
+  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-10-08T02:19:32.536864-05:00.jpg"
+     alt="Reckon at 2022-10-08 02:19:35-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-10-08T02:19:32.536864-05:00.jpg">October 8 at 2:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-10-07T14:49:44.224076-05:00.jpg">
+  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-10-07T14:49:44.224076-05:00.jpg"
+     alt="Reckon at 2022-10-07 14:49:48-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-10-07T14:49:44.224076-05:00.jpg">October 7 at 2:49 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-10-07T02:48:41.347519-05:00.jpg">
+  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-10-07T02:48:41.347519-05:00.jpg"
+     alt="Reckon at 2022-10-07 02:48:43-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-10-07T02:48:41.347519-05:00.jpg">October 7 at 2:48 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-10-06T14:39:35.862909-05:00.jpg">
+  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-10-06T14:39:35.862909-05:00.jpg"
+     alt="Reckon at 2022-10-06 14:39:42-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-10-06T14:39:35.862909-05:00.jpg">October 6 at 2:39 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-10-06T02:16:09.696909-05:00.jpg">
   <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-10-06T02:16:09.696909-05:00.jpg"
      alt="Reckon at 2022-10-06 02:16:14-05:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-10-02T14:10:05.630264-05:00.jpg">October 2 at 2:10 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-10-02T02:23:06.269081-05:00.jpg">
-  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-10-02T02:23:06.269081-05:00.jpg"
-     alt="Reckon at 2022-10-02 02:23:10-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-10-02T02:23:06.269081-05:00.jpg">October 2 at 2:23 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-10-01T14:07:58.108444-05:00.jpg">
-  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-10-01T14:07:58.108444-05:00.jpg"
-     alt="Reckon at 2022-10-01 14:07:59-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-10-01T14:07:58.108444-05:00.jpg">October 1 at 2:07 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-10-01T02:58:17.015375-05:00.jpg">
-  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-10-01T02:58:17.015375-05:00.jpg"
-     alt="Reckon at 2022-10-01 02:58:18-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-10-01T02:58:17.015375-05:00.jpg">October 1 at 2:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-30T15:16:06.905942-05:00.jpg">
-  <img src="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-30T15:16:06.905942-05:00.jpg"
-     alt="Reckon at 2022-09-30 15:16:10-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reckonnews-2022/reckonnews-2022-09-30T15:16:06.905942-05:00.jpg">September 30 at 3:16 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 48 hyperlink lists with the Internet Archive.
+The archiving routine has saved 52 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 8 at 2:19 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-08T02:19:32.536864-05:00.hyperlinks.json) |
+| [October 7 at 2:49 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-07T14:49:44.224076-05:00.hyperlinks.json) |
+| [October 7 at 2:48 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-07T02:48:41.347519-05:00.hyperlinks.json) |
+| [October 6 at 2:39 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-06T14:39:35.862909-05:00.hyperlinks.json) |
 | [October 6 at 2:16 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-06T02:16:09.696909-05:00.hyperlinks.json) |
 | [October 5 at 3:45 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-05T15:45:22.824802-05:00.hyperlinks.json) |
 | [October 5 at 2:25 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-05T02:25:35.609059-05:00.hyperlinks.json) |
 | [October 4 at 2:36 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-04T14:36:36.277506-05:00.hyperlinks.json) |
 | [October 4 at 2:46 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-04T02:46:39.367979-05:00.hyperlinks.json) |
 | [October 3 at 2:22 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-03T14:22:15.629224-05:00.hyperlinks.json) |
-| [October 3 at 2:38 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-03T02:38:50.880206-05:00.hyperlinks.json) |
-| [October 2 at 2:10 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-02T14:10:05.630264-05:00.hyperlinks.json) |
-| [October 2 at 2:23 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-02T02:23:06.269081-05:00.hyperlinks.json) |
-| [October 1 at 2:08 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-01T14:07:58.108444-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 47 accessibility trees with the Internet Archive.
+The archiving routine has saved 51 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 8 at 2:19 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-08T02:19:32.536864-05:00.accessibility.json) |
+| [October 7 at 2:49 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-07T14:49:44.224076-05:00.accessibility.json) |
+| [October 7 at 2:48 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-07T02:48:41.347519-05:00.accessibility.json) |
+| [October 6 at 2:39 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-06T14:39:35.862909-05:00.accessibility.json) |
 | [October 6 at 2:16 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-06T02:16:09.696909-05:00.accessibility.json) |
 | [October 5 at 3:45 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-05T15:45:22.824802-05:00.accessibility.json) |
 | [October 5 at 2:25 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-05T02:25:35.609059-05:00.accessibility.json) |
 | [October 4 at 2:36 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-04T14:36:36.277506-05:00.accessibility.json) |
 | [October 4 at 2:46 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-04T02:46:39.367979-05:00.accessibility.json) |
 | [October 3 at 2:22 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-03T14:22:15.629224-05:00.accessibility.json) |
-| [October 3 at 2:38 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-03T02:38:50.880206-05:00.accessibility.json) |
-| [October 2 at 2:10 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-02T14:10:05.630264-05:00.accessibility.json) |
-| [October 2 at 2:23 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-02T02:23:06.269081-05:00.accessibility.json) |
-| [October 1 at 2:08 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-01T14:07:58.108444-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 52 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 8 at 2:19 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-08T02:19:32.536864-05:00.lighthouse.json) |
+| [October 7 at 2:49 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-07T14:49:44.224076-05:00.lighthouse.json) |
+| [October 7 at 2:48 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-07T02:48:41.347519-05:00.lighthouse.json) |
+| [October 6 at 2:39 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-06T14:39:35.862909-05:00.lighthouse.json) |
 | [October 6 at 2:16 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-06T02:16:09.696909-05:00.lighthouse.json) |
 | [October 5 at 3:45 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-05T15:45:22.824802-05:00.lighthouse.json) |
 | [October 5 at 2:25 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-05T02:25:35.609059-05:00.lighthouse.json) |
 | [October 4 at 2:36 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-04T14:36:36.277506-05:00.lighthouse.json) |
 | [October 4 at 2:46 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-04T02:46:39.367979-05:00.lighthouse.json) |
 | [October 3 at 2:22 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-03T14:22:15.629224-05:00.lighthouse.json) |
-| [October 3 at 2:38 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-03T02:38:50.880206-05:00.lighthouse.json) |
-| [October 2 at 2:10 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-02T14:10:05.630264-05:00.lighthouse.json) |
-| [October 2 at 2:23 AM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-02T02:23:06.269081-05:00.lighthouse.json) |
-| [October 1 at 2:08 PM](https://archive.org/download/reckonnews-2022/reckonnews-2022-10-01T14:07:58.108444-05:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 180 screenshots with the Internet Archive.
+The archiving routine has saved 184 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/observatorio-2022/observatorio-2022-10-08T04:17:58.842253-03:00.jpg">
+  <img src="https://archive.org/download/observatorio-2022/observatorio-2022-10-08T04:17:58.842253-03:00.jpg"
+     alt="Observatório da Imprensa at 2022-10-08 04:17:59-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/observatorio-2022/observatorio-2022-10-08T04:17:58.842253-03:00.jpg">October 8 at 4:17 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/observatorio-2022/observatorio-2022-10-07T16:46:32.954963-03:00.jpg">
+  <img src="https://archive.org/download/observatorio-2022/observatorio-2022-10-07T16:46:32.954963-03:00.jpg"
+     alt="Observatório da Imprensa at 2022-10-07 16:46:34-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/observatorio-2022/observatorio-2022-10-07T16:46:32.954963-03:00.jpg">October 7 at 4:46 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/observatorio-2022/observatorio-2022-10-07T04:46:57.491264-03:00.jpg">
+  <img src="https://archive.org/download/observatorio-2022/observatorio-2022-10-07T04:46:57.491264-03:00.jpg"
+     alt="Observatório da Imprensa at 2022-10-07 04:46:58-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/observatorio-2022/observatorio-2022-10-07T04:46:57.491264-03:00.jpg">October 7 at 4:46 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/observatorio-2022/observatorio-2022-10-06T16:30:10.545206-03:00.jpg">
+  <img src="https://archive.org/download/observatorio-2022/observatorio-2022-10-06T16:30:10.545206-03:00.jpg"
+     alt="Observatório da Imprensa at 2022-10-06 16:30:12-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/observatorio-2022/observatorio-2022-10-06T16:30:10.545206-03:00.jpg">October 6 at 4:30 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/observatorio-2022/observatorio-2022-10-06T08:24:05.017543-03:00.jpg">
   <img src="https://archive.org/download/observatorio-2022/observatorio-2022-10-06T08:24:05.017543-03:00.jpg"
      alt="Observatório da Imprensa at 2022-10-06 08:24:07-03:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/observatorio-2022/observatorio-2022-10-04T04:43:50.753819-03:00.jpg">October 4 at 4:44 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/observatorio-2022/observatorio-2022-10-03T16:19:49.854963-03:00.jpg">
-  <img src="https://archive.org/download/observatorio-2022/observatorio-2022-10-03T16:19:49.854963-03:00.jpg"
-     alt="Observatório da Imprensa at 2022-10-03 16:19:56-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/observatorio-2022/observatorio-2022-10-03T16:19:49.854963-03:00.jpg">October 3 at 4:19 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/observatorio-2022/observatorio-2022-10-03T09:06:12.562670-03:00.jpg">
-  <img src="https://archive.org/download/observatorio-2022/observatorio-2022-10-03T09:06:12.562670-03:00.jpg"
-     alt="Observatório da Imprensa at 2022-10-03 09:06:21-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/observatorio-2022/observatorio-2022-10-03T09:06:12.562670-03:00.jpg">October 3 at 9:06 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/observatorio-2022/observatorio-2022-10-03T04:35:56.747232-03:00.jpg">
-  <img src="https://archive.org/download/observatorio-2022/observatorio-2022-10-03T04:35:56.747232-03:00.jpg"
-     alt="Observatório da Imprensa at 2022-10-03 04:36:04-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/observatorio-2022/observatorio-2022-10-03T04:35:56.747232-03:00.jpg">October 3 at 4:36 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/observatorio-2022/observatorio-2022-10-02T16:04:10.085726-03:00.jpg">
-  <img src="https://archive.org/download/observatorio-2022/observatorio-2022-10-02T16:04:10.085726-03:00.jpg"
-     alt="Observatório da Imprensa at 2022-10-02 16:04:18-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/observatorio-2022/observatorio-2022-10-02T16:04:10.085726-03:00.jpg">October 2 at 4:04 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 179 hyperlink lists with the Internet Archive.
+The archiving routine has saved 183 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 8 at 4:18 AM](https://archive.org/download/observatorio-2022/observatorio-2022-10-08T04:17:58.842253-03:00.hyperlinks.json) |
+| [October 7 at 4:46 PM](https://archive.org/download/observatorio-2022/observatorio-2022-10-07T16:46:32.954963-03:00.hyperlinks.json) |
+| [October 7 at 4:47 AM](https://archive.org/download/observatorio-2022/observatorio-2022-10-07T04:46:57.491264-03:00.hyperlinks.json) |
+| [October 6 at 4:30 PM](https://archive.org/download/observatorio-2022/observatorio-2022-10-06T16:30:10.545206-03:00.hyperlinks.json) |
 | [October 6 at 8:24 AM](https://archive.org/download/observatorio-2022/observatorio-2022-10-06T08:24:05.017543-03:00.hyperlinks.json) |
 | [October 6 at 4:13 AM](https://archive.org/download/observatorio-2022/observatorio-2022-10-06T04:13:11.586758-03:00.hyperlinks.json) |
 | [October 5 at 5:40 PM](https://archive.org/download/observatorio-2022/observatorio-2022-10-05T17:40:27.745793-03:00.hyperlinks.json) |
 | [October 5 at 9:25 AM](https://archive.org/download/observatorio-2022/observatorio-2022-10-05T09:25:33.332148-03:00.hyperlinks.json) |
 | [October 5 at 4:23 AM](https://archive.org/download/observatorio-2022/observatorio-2022-10-05T04:22:52.604571-03:00.hyperlinks.json) |
 | [October 4 at 4:32 PM](https://archive.org/download/observatorio-2022/observatorio-2022-10-04T16:32:24.158662-03:00.hyperlinks.json) |
-| [October 4 at 9:11 AM](https://archive.org/download/observatorio-2022/observatorio-2022-10-04T09:11:04.469338-03:00.hyperlinks.json) |
-| [October 4 at 4:44 AM](https://archive.org/download/observatorio-2022/observatorio-2022-10-04T04:43:50.753819-03:00.hyperlinks.json) |
-| [October 3 at 4:20 PM](https://archive.org/download/observatorio-2022/observatorio-2022-10-03T16:19:49.854963-03:00.hyperlinks.json) |
-| [October 3 at 9:06 AM](https://archive.org/download/observatorio-2022/observatorio-2022-10-03T09:06:12.562670-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 180 accessibility trees with the Internet Archive.
+The archiving routine has saved 184 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 8 at 4:18 AM](https://archive.org/download/observatorio-2022/observatorio-2022-10-08T04:17:58.842253-03:00.accessibility.json) |
+| [October 7 at 4:46 PM](https://archive.org/download/observatorio-2022/observatorio-2022-10-07T16:46:32.954963-03:00.accessibility.json) |
+| [October 7 at 4:47 AM](https://archive.org/download/observatorio-2022/observatorio-2022-10-07T04:46:57.491264-03:00.accessibility.json) |
+| [October 6 at 4:30 PM](https://archive.org/download/observatorio-2022/observatorio-2022-10-06T16:30:10.545206-03:00.accessibility.json) |
 | [October 6 at 8:24 AM](https://archive.org/download/observatorio-2022/observatorio-2022-10-06T08:24:05.017543-03:00.accessibility.json) |
 | [October 6 at 4:13 AM](https://archive.org/download/observatorio-2022/observatorio-2022-10-06T04:13:11.586758-03:00.accessibility.json) |
 | [October 5 at 5:40 PM](https://archive.org/download/observatorio-2022/observatorio-2022-10-05T17:40:27.745793-03:00.accessibility.json) |
 | [October 5 at 9:25 AM](https://archive.org/download/observatorio-2022/observatorio-2022-10-05T09:25:33.332148-03:00.accessibility.json) |
 | [October 5 at 4:23 AM](https://archive.org/download/observatorio-2022/observatorio-2022-10-05T04:22:52.604571-03:00.accessibility.json) |
 | [October 4 at 4:32 PM](https://archive.org/download/observatorio-2022/observatorio-2022-10-04T16:32:24.158662-03:00.accessibility.json) |
-| [October 4 at 9:11 AM](https://archive.org/download/observatorio-2022/observatorio-2022-10-04T09:11:04.469338-03:00.accessibility.json) |
-| [October 4 at 4:44 AM](https://archive.org/download/observatorio-2022/observatorio-2022-10-04T04:43:50.753819-03:00.accessibility.json) |
-| [October 3 at 4:20 PM](https://archive.org/download/observatorio-2022/observatorio-2022-10-03T16:19:49.854963-03:00.accessibility.json) |
-| [October 3 at 9:06 AM](https://archive.org/download/observatorio-2022/observatorio-2022-10-03T09:06:12.562670-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 180 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 184 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 8 at 4:18 AM](https://archive.org/download/observatorio-2022/observatorio-2022-10-08T04:17:58.842253-03:00.lighthouse.json) |
+| [October 7 at 4:46 PM](https://archive.org/download/observatorio-2022/observatorio-2022-10-07T16:46:32.954963-03:00.lighthouse.json) |
+| [October 7 at 4:47 AM](https://archive.org/download/observatorio-2022/observatorio-2022-10-07T04:46:57.491264-03:00.lighthouse.json) |
+| [October 6 at 4:30 PM](https://archive.org/download/observatorio-2022/observatorio-2022-10-06T16:30:10.545206-03:00.lighthouse.json) |
 | [October 6 at 8:24 AM](https://archive.org/download/observatorio-2022/observatorio-2022-10-06T08:24:05.017543-03:00.lighthouse.json) |
 | [October 6 at 4:13 AM](https://archive.org/download/observatorio-2022/observatorio-2022-10-06T04:13:11.586758-03:00.lighthouse.json) |
 | [October 5 at 5:40 PM](https://archive.org/download/observatorio-2022/observatorio-2022-10-05T17:40:27.745793-03:00.lighthouse.json) |
 | [October 5 at 9:25 AM](https://archive.org/download/observatorio-2022/observatorio-2022-10-05T09:25:33.332148-03:00.lighthouse.json) |
 | [October 5 at 4:23 AM](https://archive.org/download/observatorio-2022/observatorio-2022-10-05T04:22:52.604571-03:00.lighthouse.json) |
 | [October 4 at 4:32 PM](https://archive.org/download/observatorio-2022/observatorio-2022-10-04T16:32:24.158662-03:00.lighthouse.json) |
-| [October 4 at 9:11 AM](https://archive.org/download/observatorio-2022/observatorio-2022-10-04T09:11:04.469338-03:00.lighthouse.json) |
-| [October 4 at 4:44 AM](https://archive.org/download/observatorio-2022/observatorio-2022-10-04T04:43:50.753819-03:00.lighthouse.json) |
-| [October 3 at 4:20 PM](https://archive.org/download/observatorio-2022/observatorio-2022-10-03T16:19:49.854963-03:00.lighthouse.json) |
-| [October 3 at 9:06 AM](https://archive.org/download/observatorio-2022/observatorio-2022-10-03T09:06:12.562670-03:00.lighthouse.json) |
 
 
 

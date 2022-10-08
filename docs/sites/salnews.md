@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 32 screenshots with the Internet Archive.
+The archiving routine has saved 36 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/salnews-2022/salnews-2022-10-08T00:22:17.273186-07:00.jpg">
+  <img src="https://archive.org/download/salnews-2022/salnews-2022-10-08T00:22:17.273186-07:00.jpg"
+     alt="The Salinas Californian at 2022-10-08 00:22:19-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/salnews-2022/salnews-2022-10-08T00:22:17.273186-07:00.jpg">October 8 at 12:22 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/salnews-2022/salnews-2022-10-07T12:52:39.718704-07:00.jpg">
+  <img src="https://archive.org/download/salnews-2022/salnews-2022-10-07T12:52:39.718704-07:00.jpg"
+     alt="The Salinas Californian at 2022-10-07 12:52:42-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/salnews-2022/salnews-2022-10-07T12:52:39.718704-07:00.jpg">October 7 at 12:52 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/salnews-2022/salnews-2022-10-07T00:48:41.673848-07:00.jpg">
+  <img src="https://archive.org/download/salnews-2022/salnews-2022-10-07T00:48:41.673848-07:00.jpg"
+     alt="The Salinas Californian at 2022-10-07 00:48:44-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/salnews-2022/salnews-2022-10-07T00:48:41.673848-07:00.jpg">October 7 at 12:48 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/salnews-2022/salnews-2022-10-06T12:39:10.305006-07:00.jpg">
+  <img src="https://archive.org/download/salnews-2022/salnews-2022-10-06T12:39:10.305006-07:00.jpg"
+     alt="The Salinas Californian at 2022-10-06 12:39:13-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/salnews-2022/salnews-2022-10-06T12:39:10.305006-07:00.jpg">October 6 at 12:39 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/salnews-2022/salnews-2022-10-06T00:17:46.566434-07:00.jpg">
   <img src="https://archive.org/download/salnews-2022/salnews-2022-10-06T00:17:46.566434-07:00.jpg"
      alt="The Salinas Californian at 2022-10-06 00:17:49-07:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/salnews-2022/salnews-2022-10-02T12:12:49.072881-07:00.jpg">October 2 at 12:12 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/salnews-2022/salnews-2022-10-02T00:23:44.719772-07:00.jpg">
-  <img src="https://archive.org/download/salnews-2022/salnews-2022-10-02T00:23:44.719772-07:00.jpg"
-     alt="The Salinas Californian at 2022-10-02 00:23:46-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/salnews-2022/salnews-2022-10-02T00:23:44.719772-07:00.jpg">October 2 at 12:23 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/salnews-2022/salnews-2022-10-01T12:10:32.372164-07:00.jpg">
-  <img src="https://archive.org/download/salnews-2022/salnews-2022-10-01T12:10:32.372164-07:00.jpg"
-     alt="The Salinas Californian at 2022-10-01 12:10:35-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/salnews-2022/salnews-2022-10-01T12:10:32.372164-07:00.jpg">October 1 at 12:10 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/salnews-2022/salnews-2022-10-01T01:00:51.148951-07:00.jpg">
-  <img src="https://archive.org/download/salnews-2022/salnews-2022-10-01T01:00:51.148951-07:00.jpg"
-     alt="The Salinas Californian at 2022-10-01 01:00:53-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/salnews-2022/salnews-2022-10-01T01:00:51.148951-07:00.jpg">October 1 at 1:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/salnews-2022/salnews-2022-09-30T13:16:37.574837-07:00.jpg">
-  <img src="https://archive.org/download/salnews-2022/salnews-2022-09-30T13:16:37.574837-07:00.jpg"
-     alt="The Salinas Californian at 2022-09-30 13:16:40-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/salnews-2022/salnews-2022-09-30T13:16:37.574837-07:00.jpg">September 30 at 1:16 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 31 hyperlink lists with the Internet Archive.
+The archiving routine has saved 35 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 8 at 12:22 AM](https://archive.org/download/salnews-2022/salnews-2022-10-08T00:22:17.273186-07:00.hyperlinks.json) |
+| [October 7 at 12:52 PM](https://archive.org/download/salnews-2022/salnews-2022-10-07T12:52:39.718704-07:00.hyperlinks.json) |
+| [October 7 at 12:48 AM](https://archive.org/download/salnews-2022/salnews-2022-10-07T00:48:41.673848-07:00.hyperlinks.json) |
+| [October 6 at 12:39 PM](https://archive.org/download/salnews-2022/salnews-2022-10-06T12:39:10.305006-07:00.hyperlinks.json) |
 | [October 6 at 12:17 AM](https://archive.org/download/salnews-2022/salnews-2022-10-06T00:17:46.566434-07:00.hyperlinks.json) |
 | [October 5 at 1:45 PM](https://archive.org/download/salnews-2022/salnews-2022-10-05T13:45:33.027493-07:00.hyperlinks.json) |
 | [October 5 at 12:28 AM](https://archive.org/download/salnews-2022/salnews-2022-10-05T00:28:06.813052-07:00.hyperlinks.json) |
 | [October 4 at 12:39 PM](https://archive.org/download/salnews-2022/salnews-2022-10-04T12:39:04.197335-07:00.hyperlinks.json) |
 | [October 4 at 12:48 AM](https://archive.org/download/salnews-2022/salnews-2022-10-04T00:48:34.765991-07:00.hyperlinks.json) |
 | [October 3 at 12:22 PM](https://archive.org/download/salnews-2022/salnews-2022-10-03T12:22:32.833779-07:00.hyperlinks.json) |
-| [October 3 at 12:41 AM](https://archive.org/download/salnews-2022/salnews-2022-10-03T00:41:25.011582-07:00.hyperlinks.json) |
-| [October 2 at 12:12 PM](https://archive.org/download/salnews-2022/salnews-2022-10-02T12:12:49.072881-07:00.hyperlinks.json) |
-| [October 2 at 12:23 AM](https://archive.org/download/salnews-2022/salnews-2022-10-02T00:23:44.719772-07:00.hyperlinks.json) |
-| [October 1 at 12:10 PM](https://archive.org/download/salnews-2022/salnews-2022-10-01T12:10:32.372164-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 32 accessibility trees with the Internet Archive.
+The archiving routine has saved 36 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 8 at 12:22 AM](https://archive.org/download/salnews-2022/salnews-2022-10-08T00:22:17.273186-07:00.accessibility.json) |
+| [October 7 at 12:52 PM](https://archive.org/download/salnews-2022/salnews-2022-10-07T12:52:39.718704-07:00.accessibility.json) |
+| [October 7 at 12:48 AM](https://archive.org/download/salnews-2022/salnews-2022-10-07T00:48:41.673848-07:00.accessibility.json) |
+| [October 6 at 12:39 PM](https://archive.org/download/salnews-2022/salnews-2022-10-06T12:39:10.305006-07:00.accessibility.json) |
 | [October 6 at 12:17 AM](https://archive.org/download/salnews-2022/salnews-2022-10-06T00:17:46.566434-07:00.accessibility.json) |
 | [October 5 at 1:45 PM](https://archive.org/download/salnews-2022/salnews-2022-10-05T13:45:33.027493-07:00.accessibility.json) |
 | [October 5 at 12:28 AM](https://archive.org/download/salnews-2022/salnews-2022-10-05T00:28:06.813052-07:00.accessibility.json) |
 | [October 4 at 12:39 PM](https://archive.org/download/salnews-2022/salnews-2022-10-04T12:39:04.197335-07:00.accessibility.json) |
 | [October 4 at 12:48 AM](https://archive.org/download/salnews-2022/salnews-2022-10-04T00:48:34.765991-07:00.accessibility.json) |
 | [October 3 at 12:22 PM](https://archive.org/download/salnews-2022/salnews-2022-10-03T12:22:32.833779-07:00.accessibility.json) |
-| [October 3 at 12:41 AM](https://archive.org/download/salnews-2022/salnews-2022-10-03T00:41:25.011582-07:00.accessibility.json) |
-| [October 2 at 12:12 PM](https://archive.org/download/salnews-2022/salnews-2022-10-02T12:12:49.072881-07:00.accessibility.json) |
-| [October 2 at 12:23 AM](https://archive.org/download/salnews-2022/salnews-2022-10-02T00:23:44.719772-07:00.accessibility.json) |
-| [October 1 at 12:10 PM](https://archive.org/download/salnews-2022/salnews-2022-10-01T12:10:32.372164-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 36 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 8 at 12:22 AM](https://archive.org/download/salnews-2022/salnews-2022-10-08T00:22:17.273186-07:00.lighthouse.json) |
+| [October 7 at 12:52 PM](https://archive.org/download/salnews-2022/salnews-2022-10-07T12:52:39.718704-07:00.lighthouse.json) |
+| [October 7 at 12:48 AM](https://archive.org/download/salnews-2022/salnews-2022-10-07T00:48:41.673848-07:00.lighthouse.json) |
+| [October 6 at 12:39 PM](https://archive.org/download/salnews-2022/salnews-2022-10-06T12:39:10.305006-07:00.lighthouse.json) |
 | [October 6 at 12:17 AM](https://archive.org/download/salnews-2022/salnews-2022-10-06T00:17:46.566434-07:00.lighthouse.json) |
 | [October 5 at 1:45 PM](https://archive.org/download/salnews-2022/salnews-2022-10-05T13:45:33.027493-07:00.lighthouse.json) |
 | [October 5 at 12:28 AM](https://archive.org/download/salnews-2022/salnews-2022-10-05T00:28:06.813052-07:00.lighthouse.json) |
 | [October 4 at 12:39 PM](https://archive.org/download/salnews-2022/salnews-2022-10-04T12:39:04.197335-07:00.lighthouse.json) |
 | [October 4 at 12:48 AM](https://archive.org/download/salnews-2022/salnews-2022-10-04T00:48:34.765991-07:00.lighthouse.json) |
 | [October 3 at 12:22 PM](https://archive.org/download/salnews-2022/salnews-2022-10-03T12:22:32.833779-07:00.lighthouse.json) |
-| [October 3 at 12:41 AM](https://archive.org/download/salnews-2022/salnews-2022-10-03T00:41:25.011582-07:00.lighthouse.json) |
-| [October 2 at 12:12 PM](https://archive.org/download/salnews-2022/salnews-2022-10-02T12:12:49.072881-07:00.lighthouse.json) |
-| [October 2 at 12:23 AM](https://archive.org/download/salnews-2022/salnews-2022-10-02T00:23:44.719772-07:00.lighthouse.json) |
-| [October 1 at 12:10 PM](https://archive.org/download/salnews-2022/salnews-2022-10-01T12:10:32.372164-07:00.lighthouse.json) |
 
 
 

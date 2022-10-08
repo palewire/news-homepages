@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 35 screenshots with the Internet Archive.
+The archiving routine has saved 36 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 35 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dvillechief-2022/dvillechief-2022-10-08T00:54:16.909201-05:00.jpg">
+  <img src="https://archive.org/download/dvillechief-2022/dvillechief-2022-10-08T00:54:16.909201-05:00.jpg"
+     alt="Donaldsonville Chief at 2022-10-08 00:54:20-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dvillechief-2022/dvillechief-2022-10-08T00:54:16.909201-05:00.jpg">October 8 at 12:54 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dvillechief-2022/dvillechief-2022-10-07T13:16:10.017511-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dvillechief-2022/dvillechief-2022-10-02T12:40:15.249583-05:00.jpg">October 2 at 12:40 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dvillechief-2022/dvillechief-2022-10-02T00:54:44.839314-05:00.jpg">
-  <img src="https://archive.org/download/dvillechief-2022/dvillechief-2022-10-02T00:54:44.839314-05:00.jpg"
-     alt="Donaldsonville Chief at 2022-10-02 00:54:47-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dvillechief-2022/dvillechief-2022-10-02T00:54:44.839314-05:00.jpg">October 2 at 12:54 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 35 hyperlink lists with the Internet Archive.
+The archiving routine has saved 36 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 8 at 12:54 AM](https://archive.org/download/dvillechief-2022/dvillechief-2022-10-08T00:54:16.909201-05:00.hyperlinks.json) |
 | [October 7 at 1:16 PM](https://archive.org/download/dvillechief-2022/dvillechief-2022-10-07T13:16:10.017511-05:00.hyperlinks.json) |
 | [October 7 at 2:41 AM](https://archive.org/download/dvillechief-2022/dvillechief-2022-10-07T02:41:34.996659-05:00.hyperlinks.json) |
 | [October 6 at 1:00 PM](https://archive.org/download/dvillechief-2022/dvillechief-2022-10-06T13:00:15.759455-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 4 at 1:02 PM](https://archive.org/download/dvillechief-2022/dvillechief-2022-10-04T13:01:41.608073-05:00.hyperlinks.json) |
 | [October 4 at 2:01 AM](https://archive.org/download/dvillechief-2022/dvillechief-2022-10-04T02:01:37.138782-05:00.hyperlinks.json) |
 | [October 3 at 1:02 PM](https://archive.org/download/dvillechief-2022/dvillechief-2022-10-03T13:01:58.261854-05:00.hyperlinks.json) |
-| [October 3 at 1:03 AM](https://archive.org/download/dvillechief-2022/dvillechief-2022-10-03T01:03:19.561556-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 35 accessibility trees with the Internet Archive.
+The archiving routine has saved 36 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 8 at 12:54 AM](https://archive.org/download/dvillechief-2022/dvillechief-2022-10-08T00:54:16.909201-05:00.accessibility.json) |
 | [October 7 at 1:16 PM](https://archive.org/download/dvillechief-2022/dvillechief-2022-10-07T13:16:10.017511-05:00.accessibility.json) |
 | [October 7 at 2:41 AM](https://archive.org/download/dvillechief-2022/dvillechief-2022-10-07T02:41:34.996659-05:00.accessibility.json) |
 | [October 6 at 1:00 PM](https://archive.org/download/dvillechief-2022/dvillechief-2022-10-06T13:00:15.759455-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 4 at 1:01 PM](https://archive.org/download/dvillechief-2022/dvillechief-2022-10-04T13:01:41.608073-05:00.accessibility.json) |
 | [October 4 at 2:01 AM](https://archive.org/download/dvillechief-2022/dvillechief-2022-10-04T02:01:37.138782-05:00.accessibility.json) |
 | [October 3 at 1:02 PM](https://archive.org/download/dvillechief-2022/dvillechief-2022-10-03T13:01:58.261854-05:00.accessibility.json) |
-| [October 3 at 1:03 AM](https://archive.org/download/dvillechief-2022/dvillechief-2022-10-03T01:03:19.561556-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 36 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 8 at 12:54 AM](https://archive.org/download/dvillechief-2022/dvillechief-2022-10-08T00:54:16.909201-05:00.lighthouse.json) |
 | [October 7 at 1:16 PM](https://archive.org/download/dvillechief-2022/dvillechief-2022-10-07T13:16:10.017511-05:00.lighthouse.json) |
 | [October 7 at 2:41 AM](https://archive.org/download/dvillechief-2022/dvillechief-2022-10-07T02:41:34.996659-05:00.lighthouse.json) |
 | [October 6 at 1:00 PM](https://archive.org/download/dvillechief-2022/dvillechief-2022-10-06T13:00:15.759455-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 4 at 1:02 PM](https://archive.org/download/dvillechief-2022/dvillechief-2022-10-04T13:01:41.608073-05:00.lighthouse.json) |
 | [October 4 at 2:01 AM](https://archive.org/download/dvillechief-2022/dvillechief-2022-10-04T02:01:37.138782-05:00.lighthouse.json) |
 | [October 3 at 1:02 PM](https://archive.org/download/dvillechief-2022/dvillechief-2022-10-03T13:01:58.261854-05:00.lighthouse.json) |
-| [October 3 at 1:03 AM](https://archive.org/download/dvillechief-2022/dvillechief-2022-10-03T01:03:19.561556-05:00.lighthouse.json) |
 
 
 

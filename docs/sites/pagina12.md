@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 115 screenshots with the Internet Archive.
+The archiving routine has saved 119 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/pagina12-2022/pagina12-2022-10-08T04:18:02.623534-03:00.jpg">
+  <img src="https://archive.org/download/pagina12-2022/pagina12-2022-10-08T04:18:02.623534-03:00.jpg"
+     alt="Página/12 at 2022-10-08 04:18:07-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-10-08T04:18:02.623534-03:00.jpg">October 8 at 4:18 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pagina12-2022/pagina12-2022-10-07T16:46:28.685246-03:00.jpg">
+  <img src="https://archive.org/download/pagina12-2022/pagina12-2022-10-07T16:46:28.685246-03:00.jpg"
+     alt="Página/12 at 2022-10-07 16:46:34-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-10-07T16:46:28.685246-03:00.jpg">October 7 at 4:46 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pagina12-2022/pagina12-2022-10-07T04:46:58.798630-03:00.jpg">
+  <img src="https://archive.org/download/pagina12-2022/pagina12-2022-10-07T04:46:58.798630-03:00.jpg"
+     alt="Página/12 at 2022-10-07 04:47:01-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-10-07T04:46:58.798630-03:00.jpg">October 7 at 4:47 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pagina12-2022/pagina12-2022-10-06T16:35:51.453625-03:00.jpg">
+  <img src="https://archive.org/download/pagina12-2022/pagina12-2022-10-06T16:35:51.453625-03:00.jpg"
+     alt="Página/12 at 2022-10-06 16:35:54-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-10-06T16:35:51.453625-03:00.jpg">October 6 at 4:35 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/pagina12-2022/pagina12-2022-10-06T04:13:28.999761-03:00.jpg">
   <img src="https://archive.org/download/pagina12-2022/pagina12-2022-10-06T04:13:28.999761-03:00.jpg"
      alt="Página/12 at 2022-10-06 04:13:36-03:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-10-02T16:07:18.221935-03:00.jpg">October 2 at 4:07 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/pagina12-2022/pagina12-2022-10-02T04:20:51.147310-03:00.jpg">
-  <img src="https://archive.org/download/pagina12-2022/pagina12-2022-10-02T04:20:51.147310-03:00.jpg"
-     alt="Página/12 at 2022-10-02 04:21:01-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-10-02T04:20:51.147310-03:00.jpg">October 2 at 4:21 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pagina12-2022/pagina12-2022-10-01T16:03:57.525510-03:00.jpg">
-  <img src="https://archive.org/download/pagina12-2022/pagina12-2022-10-01T16:03:57.525510-03:00.jpg"
-     alt="Página/12 at 2022-10-01 16:04:08-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-10-01T16:03:57.525510-03:00.jpg">October 1 at 4:04 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pagina12-2022/pagina12-2022-10-01T04:55:42.939403-03:00.jpg">
-  <img src="https://archive.org/download/pagina12-2022/pagina12-2022-10-01T04:55:42.939403-03:00.jpg"
-     alt="Página/12 at 2022-10-01 04:55:48-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-10-01T04:55:42.939403-03:00.jpg">October 1 at 4:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pagina12-2022/pagina12-2022-09-30T17:14:01.604324-03:00.jpg">
-  <img src="https://archive.org/download/pagina12-2022/pagina12-2022-09-30T17:14:01.604324-03:00.jpg"
-     alt="Página/12 at 2022-09-30 17:14:06-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-09-30T17:14:01.604324-03:00.jpg">September 30 at 5:14 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 109 hyperlink lists with the Internet Archive.
+The archiving routine has saved 113 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 8 at 4:18 AM](https://archive.org/download/pagina12-2022/pagina12-2022-10-08T04:18:02.623534-03:00.hyperlinks.json) |
+| [October 7 at 4:46 PM](https://archive.org/download/pagina12-2022/pagina12-2022-10-07T16:46:28.685246-03:00.hyperlinks.json) |
+| [October 7 at 4:47 AM](https://archive.org/download/pagina12-2022/pagina12-2022-10-07T04:46:58.798630-03:00.hyperlinks.json) |
+| [October 6 at 4:35 PM](https://archive.org/download/pagina12-2022/pagina12-2022-10-06T16:35:51.453625-03:00.hyperlinks.json) |
 | [October 6 at 4:13 AM](https://archive.org/download/pagina12-2022/pagina12-2022-10-06T04:13:28.999761-03:00.hyperlinks.json) |
 | [October 5 at 5:42 PM](https://archive.org/download/pagina12-2022/pagina12-2022-10-05T17:42:26.039531-03:00.hyperlinks.json) |
 | [October 5 at 4:23 AM](https://archive.org/download/pagina12-2022/pagina12-2022-10-05T04:23:48.081583-03:00.hyperlinks.json) |
 | [October 4 at 4:32 PM](https://archive.org/download/pagina12-2022/pagina12-2022-10-04T16:32:34.007794-03:00.hyperlinks.json) |
 | [October 4 at 4:43 AM](https://archive.org/download/pagina12-2022/pagina12-2022-10-04T04:43:33.351068-03:00.hyperlinks.json) |
 | [October 3 at 4:20 PM](https://archive.org/download/pagina12-2022/pagina12-2022-10-03T16:20:35.891465-03:00.hyperlinks.json) |
-| [October 3 at 4:36 AM](https://archive.org/download/pagina12-2022/pagina12-2022-10-03T04:36:05.612418-03:00.hyperlinks.json) |
-| [October 2 at 4:07 PM](https://archive.org/download/pagina12-2022/pagina12-2022-10-02T16:07:18.221935-03:00.hyperlinks.json) |
-| [October 2 at 4:21 AM](https://archive.org/download/pagina12-2022/pagina12-2022-10-02T04:20:51.147310-03:00.hyperlinks.json) |
-| [October 1 at 4:04 PM](https://archive.org/download/pagina12-2022/pagina12-2022-10-01T16:03:57.525510-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 109 accessibility trees with the Internet Archive.
+The archiving routine has saved 113 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 8 at 4:18 AM](https://archive.org/download/pagina12-2022/pagina12-2022-10-08T04:18:02.623534-03:00.accessibility.json) |
+| [October 7 at 4:46 PM](https://archive.org/download/pagina12-2022/pagina12-2022-10-07T16:46:28.685246-03:00.accessibility.json) |
+| [October 7 at 4:47 AM](https://archive.org/download/pagina12-2022/pagina12-2022-10-07T04:46:58.798630-03:00.accessibility.json) |
+| [October 6 at 4:35 PM](https://archive.org/download/pagina12-2022/pagina12-2022-10-06T16:35:51.453625-03:00.accessibility.json) |
 | [October 6 at 4:13 AM](https://archive.org/download/pagina12-2022/pagina12-2022-10-06T04:13:28.999761-03:00.accessibility.json) |
 | [October 5 at 5:42 PM](https://archive.org/download/pagina12-2022/pagina12-2022-10-05T17:42:26.039531-03:00.accessibility.json) |
 | [October 5 at 4:23 AM](https://archive.org/download/pagina12-2022/pagina12-2022-10-05T04:23:48.081583-03:00.accessibility.json) |
 | [October 4 at 4:32 PM](https://archive.org/download/pagina12-2022/pagina12-2022-10-04T16:32:34.007794-03:00.accessibility.json) |
 | [October 4 at 4:43 AM](https://archive.org/download/pagina12-2022/pagina12-2022-10-04T04:43:33.351068-03:00.accessibility.json) |
 | [October 3 at 4:20 PM](https://archive.org/download/pagina12-2022/pagina12-2022-10-03T16:20:35.891465-03:00.accessibility.json) |
-| [October 3 at 4:36 AM](https://archive.org/download/pagina12-2022/pagina12-2022-10-03T04:36:05.612418-03:00.accessibility.json) |
-| [October 2 at 4:07 PM](https://archive.org/download/pagina12-2022/pagina12-2022-10-02T16:07:18.221935-03:00.accessibility.json) |
-| [October 2 at 4:21 AM](https://archive.org/download/pagina12-2022/pagina12-2022-10-02T04:20:51.147310-03:00.accessibility.json) |
-| [October 1 at 4:04 PM](https://archive.org/download/pagina12-2022/pagina12-2022-10-01T16:03:57.525510-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 115 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 119 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 8 at 4:18 AM](https://archive.org/download/pagina12-2022/pagina12-2022-10-08T04:18:02.623534-03:00.lighthouse.json) |
+| [October 7 at 4:46 PM](https://archive.org/download/pagina12-2022/pagina12-2022-10-07T16:46:28.685246-03:00.lighthouse.json) |
+| [October 7 at 4:47 AM](https://archive.org/download/pagina12-2022/pagina12-2022-10-07T04:46:58.798630-03:00.lighthouse.json) |
+| [October 6 at 4:36 PM](https://archive.org/download/pagina12-2022/pagina12-2022-10-06T16:35:51.453625-03:00.lighthouse.json) |
 | [October 6 at 4:13 AM](https://archive.org/download/pagina12-2022/pagina12-2022-10-06T04:13:28.999761-03:00.lighthouse.json) |
 | [October 5 at 5:42 PM](https://archive.org/download/pagina12-2022/pagina12-2022-10-05T17:42:26.039531-03:00.lighthouse.json) |
 | [October 5 at 4:23 AM](https://archive.org/download/pagina12-2022/pagina12-2022-10-05T04:23:48.081583-03:00.lighthouse.json) |
 | [October 4 at 4:32 PM](https://archive.org/download/pagina12-2022/pagina12-2022-10-04T16:32:34.007794-03:00.lighthouse.json) |
 | [October 4 at 4:43 AM](https://archive.org/download/pagina12-2022/pagina12-2022-10-04T04:43:33.351068-03:00.lighthouse.json) |
 | [October 3 at 4:20 PM](https://archive.org/download/pagina12-2022/pagina12-2022-10-03T16:20:35.891465-03:00.lighthouse.json) |
-| [October 3 at 4:36 AM](https://archive.org/download/pagina12-2022/pagina12-2022-10-03T04:36:05.612418-03:00.lighthouse.json) |
-| [October 2 at 4:07 PM](https://archive.org/download/pagina12-2022/pagina12-2022-10-02T16:07:18.221935-03:00.lighthouse.json) |
-| [October 2 at 4:21 AM](https://archive.org/download/pagina12-2022/pagina12-2022-10-02T04:20:51.147310-03:00.lighthouse.json) |
-| [October 1 at 4:04 PM](https://archive.org/download/pagina12-2022/pagina12-2022-10-01T16:03:57.525510-03:00.lighthouse.json) |
 
 
 

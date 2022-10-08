@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 32 screenshots with the Internet Archive.
+The archiving routine has saved 36 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/shelbystar-2022/shelbystar-2022-10-08T03:21:35.848924-04:00.jpg">
+  <img src="https://archive.org/download/shelbystar-2022/shelbystar-2022-10-08T03:21:35.848924-04:00.jpg"
+     alt="The Shelby Star at 2022-10-08 03:21:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/shelbystar-2022/shelbystar-2022-10-08T03:21:35.848924-04:00.jpg">October 8 at 3:21 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/shelbystar-2022/shelbystar-2022-10-07T15:52:05.502848-04:00.jpg">
+  <img src="https://archive.org/download/shelbystar-2022/shelbystar-2022-10-07T15:52:05.502848-04:00.jpg"
+     alt="The Shelby Star at 2022-10-07 15:52:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/shelbystar-2022/shelbystar-2022-10-07T15:52:05.502848-04:00.jpg">October 7 at 3:52 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/shelbystar-2022/shelbystar-2022-10-07T03:51:15.972089-04:00.jpg">
+  <img src="https://archive.org/download/shelbystar-2022/shelbystar-2022-10-07T03:51:15.972089-04:00.jpg"
+     alt="The Shelby Star at 2022-10-07 03:51:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/shelbystar-2022/shelbystar-2022-10-07T03:51:15.972089-04:00.jpg">October 7 at 3:51 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/shelbystar-2022/shelbystar-2022-10-06T15:42:44.125734-04:00.jpg">
+  <img src="https://archive.org/download/shelbystar-2022/shelbystar-2022-10-06T15:42:44.125734-04:00.jpg"
+     alt="The Shelby Star at 2022-10-06 15:42:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/shelbystar-2022/shelbystar-2022-10-06T15:42:44.125734-04:00.jpg">October 6 at 3:42 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/shelbystar-2022/shelbystar-2022-10-06T03:18:51.281592-04:00.jpg">
   <img src="https://archive.org/download/shelbystar-2022/shelbystar-2022-10-06T03:18:51.281592-04:00.jpg"
      alt="The Shelby Star at 2022-10-06 03:18:52-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/shelbystar-2022/shelbystar-2022-10-02T15:12:26.390216-04:00.jpg">October 2 at 3:12 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/shelbystar-2022/shelbystar-2022-10-02T03:25:23.803577-04:00.jpg">
-  <img src="https://archive.org/download/shelbystar-2022/shelbystar-2022-10-02T03:25:23.803577-04:00.jpg"
-     alt="The Shelby Star at 2022-10-02 03:25:27-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/shelbystar-2022/shelbystar-2022-10-02T03:25:23.803577-04:00.jpg">October 2 at 3:25 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/shelbystar-2022/shelbystar-2022-10-01T15:10:19.977193-04:00.jpg">
-  <img src="https://archive.org/download/shelbystar-2022/shelbystar-2022-10-01T15:10:19.977193-04:00.jpg"
-     alt="The Shelby Star at 2022-10-01 15:10:22-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/shelbystar-2022/shelbystar-2022-10-01T15:10:19.977193-04:00.jpg">October 1 at 3:10 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/shelbystar-2022/shelbystar-2022-10-01T04:00:55.816241-04:00.jpg">
-  <img src="https://archive.org/download/shelbystar-2022/shelbystar-2022-10-01T04:00:55.816241-04:00.jpg"
-     alt="The Shelby Star at 2022-10-01 04:00:58-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/shelbystar-2022/shelbystar-2022-10-01T04:00:55.816241-04:00.jpg">October 1 at 4:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/shelbystar-2022/shelbystar-2022-09-30T16:17:42.875547-04:00.jpg">
-  <img src="https://archive.org/download/shelbystar-2022/shelbystar-2022-09-30T16:17:42.875547-04:00.jpg"
-     alt="The Shelby Star at 2022-09-30 16:17:45-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/shelbystar-2022/shelbystar-2022-09-30T16:17:42.875547-04:00.jpg">September 30 at 4:17 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 32 hyperlink lists with the Internet Archive.
+The archiving routine has saved 36 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 8 at 3:21 AM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-08T03:21:35.848924-04:00.hyperlinks.json) |
+| [October 7 at 3:52 PM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-07T15:52:05.502848-04:00.hyperlinks.json) |
+| [October 7 at 3:51 AM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-07T03:51:15.972089-04:00.hyperlinks.json) |
+| [October 6 at 3:42 PM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-06T15:42:44.125734-04:00.hyperlinks.json) |
 | [October 6 at 3:18 AM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-06T03:18:51.281592-04:00.hyperlinks.json) |
 | [October 5 at 4:46 PM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-05T16:46:20.336412-04:00.hyperlinks.json) |
 | [October 5 at 3:28 AM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-05T03:28:23.299222-04:00.hyperlinks.json) |
 | [October 4 at 3:38 PM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-04T15:38:53.070603-04:00.hyperlinks.json) |
 | [October 4 at 3:48 AM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-04T03:48:33.591503-04:00.hyperlinks.json) |
 | [October 3 at 3:23 PM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-03T15:23:27.017930-04:00.hyperlinks.json) |
-| [October 3 at 3:41 AM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-03T03:41:06.092076-04:00.hyperlinks.json) |
-| [October 2 at 3:12 PM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-02T15:12:26.390216-04:00.hyperlinks.json) |
-| [October 2 at 3:25 AM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-02T03:25:23.803577-04:00.hyperlinks.json) |
-| [October 1 at 3:10 PM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-01T15:10:19.977193-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 32 accessibility trees with the Internet Archive.
+The archiving routine has saved 36 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 8 at 3:21 AM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-08T03:21:35.848924-04:00.accessibility.json) |
+| [October 7 at 3:52 PM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-07T15:52:05.502848-04:00.accessibility.json) |
+| [October 7 at 3:51 AM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-07T03:51:15.972089-04:00.accessibility.json) |
+| [October 6 at 3:42 PM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-06T15:42:44.125734-04:00.accessibility.json) |
 | [October 6 at 3:18 AM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-06T03:18:51.281592-04:00.accessibility.json) |
 | [October 5 at 4:46 PM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-05T16:46:20.336412-04:00.accessibility.json) |
 | [October 5 at 3:28 AM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-05T03:28:23.299222-04:00.accessibility.json) |
 | [October 4 at 3:38 PM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-04T15:38:53.070603-04:00.accessibility.json) |
 | [October 4 at 3:48 AM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-04T03:48:33.591503-04:00.accessibility.json) |
 | [October 3 at 3:23 PM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-03T15:23:27.017930-04:00.accessibility.json) |
-| [October 3 at 3:41 AM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-03T03:41:06.092076-04:00.accessibility.json) |
-| [October 2 at 3:12 PM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-02T15:12:26.390216-04:00.accessibility.json) |
-| [October 2 at 3:25 AM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-02T03:25:23.803577-04:00.accessibility.json) |
-| [October 1 at 3:10 PM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-01T15:10:19.977193-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 36 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 8 at 3:21 AM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-08T03:21:35.848924-04:00.lighthouse.json) |
+| [October 7 at 3:52 PM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-07T15:52:05.502848-04:00.lighthouse.json) |
+| [October 7 at 3:51 AM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-07T03:51:15.972089-04:00.lighthouse.json) |
+| [October 6 at 3:42 PM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-06T15:42:44.125734-04:00.lighthouse.json) |
 | [October 6 at 3:18 AM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-06T03:18:51.281592-04:00.lighthouse.json) |
 | [October 5 at 4:46 PM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-05T16:46:20.336412-04:00.lighthouse.json) |
 | [October 5 at 3:28 AM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-05T03:28:23.299222-04:00.lighthouse.json) |
 | [October 4 at 3:39 PM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-04T15:38:53.070603-04:00.lighthouse.json) |
 | [October 4 at 3:48 AM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-04T03:48:33.591503-04:00.lighthouse.json) |
 | [October 3 at 3:23 PM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-03T15:23:27.017930-04:00.lighthouse.json) |
-| [October 3 at 3:41 AM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-03T03:41:06.092076-04:00.lighthouse.json) |
-| [October 2 at 3:12 PM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-02T15:12:26.390216-04:00.lighthouse.json) |
-| [October 2 at 3:25 AM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-02T03:25:23.803577-04:00.lighthouse.json) |
-| [October 1 at 3:10 PM](https://archive.org/download/shelbystar-2022/shelbystar-2022-10-01T15:10:19.977193-04:00.lighthouse.json) |
 
 
 
