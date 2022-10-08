@@ -1,10 +1,5 @@
 {
-  "aknewsnow-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1665144217,
+  "created": 1665183655,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/26/items/aknewsnow-2022",
@@ -3079,31 +3074,93 @@
       "sha1": "09b8f8d183f00b74399dc4b0bbd0e8d6c4bb144e"
     },
     {
+      "name": "aknewsnow-2022-10-07T14:59:46.222786-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665183591",
+      "size": "39184",
+      "md5": "0fad6a6b4880f818e5d76cd30bdebbe5",
+      "crc32": "863ef616",
+      "sha1": "77d0c1f98f18aa9942b20879531158b2e765a011",
+      "format": "JSON"
+    },
+    {
+      "name": "aknewsnow-2022-10-07T14:59:46.222786-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665183593",
+      "size": "26768",
+      "md5": "ab500a2124eaaeb584fd4ce99e4fd8b1",
+      "crc32": "1d8fa27b",
+      "sha1": "6dbd472ab521d167bffce67fde19cca53475b42f",
+      "format": "JSON"
+    },
+    {
+      "name": "aknewsnow-2022-10-07T14:59:46.222786-08:00.jpg",
+      "source": "original",
+      "mtime": "1665183589",
+      "size": "387759",
+      "md5": "bf64e1b907dc172034ecbbbeed4f7d3e",
+      "crc32": "f202002b",
+      "sha1": "d72c8d1b83eb62048a99fb8d7269ef37ed5fdaa6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aknewsnow-2022-10-07T14:59:46.222786-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665183595",
+      "size": "1558",
+      "md5": "6815af5607a8ed2160d64ca4ba682a30",
+      "crc32": "5806aa66",
+      "sha1": "d5ad68107e6d95b789a23213723032ff83d31107",
+      "format": "JSON"
+    },
+    {
+      "name": "aknewsnow-2022-10-07T14:59:46.222786-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1665183597",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "aknewsnow-2022-10-07T14:59:46.222786-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aknewsnow-2022-10-07T14:59:46.222786-08:00.jpg",
+      "mtime": "1665183645",
+      "size": "11057",
+      "md5": "110dfced37c2b41638aaf8b4ef22224d",
+      "crc32": "f3b2dec8",
+      "sha1": "c648500dbf1b604a4352d9a7b1b285ac7710c2b6"
+    },
+    {
       "name": "aknewsnow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f8f19e66f262209f333d70cd2b6baf9186308d0c",
-      "mtime": "1665140689",
-      "size": "64419",
-      "md5": "996f00851d6f110154977f1ea0548b47",
-      "crc32": "da656c5f",
-      "sha1": "a7d7cd33b76b5a418427e01e5b0d998ead0a1913",
+      "btih": "d6de3ea994935436fb7b6cea5641f65001dac9d4",
+      "mtime": "1665183649",
+      "size": "65691",
+      "md5": "441fa69b671d5ae35f4bda5bcfb9da52",
+      "crc32": "119828e6",
+      "sha1": "dc89c749ab0bf5d381525e2cb2ed40c5d7a3323e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aknewsnow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f2b9f4ac20ee3c321d4c54675e8fab61",
+      "md5": "0eff43721172ce4e7ce7e93a85a8cc97",
       "summation": "md5"
     },
     {
       "name": "aknewsnow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665140631",
-      "size": "397312",
-      "md5": "4c0366f7a598a9a82f19b3e5216f475f",
-      "crc32": "56f2cc60",
-      "sha1": "6232e933890f64a5cb561b05174ac52ef913d016",
+      "mtime": "1665183600",
+      "size": "405504",
+      "md5": "6249b28cd40534df15daab956e6dd800",
+      "crc32": "0eb832df",
+      "sha1": "3eccbd5403299ea0aa6f4270779c6f66861edd24",
       "format": "Metadata"
     },
     {
@@ -3117,9 +3174,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 301,
-  "item_last_updated": 1665140689,
-  "item_size": 25019010,
+  "files_count": 307,
+  "item_last_updated": 1665183649,
+  "item_size": 25495002,
   "metadata": {
     "identifier": "aknewsnow-2022",
     "collection": [
@@ -3136,10 +3193,10 @@
     "publicdate": "2022-09-12 22:57:53",
     "addeddate": "2022-09-12 22:57:53"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 26804077,
+  "server": "ia801501.us.archive.org",
+  "uniq": 49640512,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }

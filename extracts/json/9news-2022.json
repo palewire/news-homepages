@@ -1,5 +1,5 @@
 {
-  "created": 1665140800,
+  "created": 1665183724,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/7/items/9news-2022",
@@ -6857,31 +6857,93 @@
       "sha1": "301755587b466cebb816f9627f213cfb3dc293ba"
     },
     {
+      "name": "9news-2022-10-07T16:59:55.226522-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665183600",
+      "size": "5952",
+      "md5": "25f2fd9890e46334d5b58ee6e6f1dda8",
+      "crc32": "00caddf4",
+      "sha1": "9bb16b7f22d07b7db000729450812c22c2e886fc",
+      "format": "JSON"
+    },
+    {
+      "name": "9news-2022-10-07T16:59:55.226522-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665183603",
+      "size": "97122",
+      "md5": "f5459620304b208738171dbaf8cea593",
+      "crc32": "c699b8ac",
+      "sha1": "c6ae3519872528ac3f461977addebdff66937029",
+      "format": "JSON"
+    },
+    {
+      "name": "9news-2022-10-07T16:59:55.226522-06:00.jpg",
+      "source": "original",
+      "mtime": "1665183597",
+      "size": "254521",
+      "md5": "2fb253a27dd986cb0cc92dbbc1643ad2",
+      "crc32": "42725546",
+      "sha1": "a95def41cc5a25209360240346310abd4b3e8892",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "9news-2022-10-07T16:59:55.226522-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665183605",
+      "size": "1444",
+      "md5": "4a3227039195c7d825f3fc9fc0415586",
+      "crc32": "4a2862c9",
+      "sha1": "78805f075740e5eaff9e34385ea53d3aded4e707",
+      "format": "JSON"
+    },
+    {
+      "name": "9news-2022-10-07T16:59:55.226522-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1665183608",
+      "size": "21872",
+      "md5": "ddf597b16515ffda82e36f59e8887eef",
+      "crc32": "21286f6b",
+      "sha1": "d0bc3274d21cc421733747cce467f223f537ff6b",
+      "format": "JSON"
+    },
+    {
+      "name": "9news-2022-10-07T16:59:55.226522-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "9news-2022-10-07T16:59:55.226522-06:00.jpg",
+      "mtime": "1665183700",
+      "size": "9528",
+      "md5": "e15a4fac101bff07c61964d34183bb38",
+      "crc32": "fe25f5d2",
+      "sha1": "d38220ff9d55277031af2e9bb4909e46f564bd57"
+    },
+    {
       "name": "9news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "00724850c9ac57f3928b2f06eafdfabcd7e713f9",
-      "mtime": "1665140780",
-      "size": "138975",
-      "md5": "78a12a4dbe74f02545099d7598350a3d",
-      "crc32": "28bde36f",
-      "sha1": "1c8b6b714f5c4f9f764c30c92934a4a6acef3b90",
+      "btih": "02a1902dbf5934403a2a0567908affa9f42fa6d9",
+      "mtime": "1665183709",
+      "size": "140223",
+      "md5": "d2c7a1dfff5c23da5ec8f4d26cfd9370",
+      "crc32": "bc665055",
+      "sha1": "0e1858cb0bd4f0dd6237bc761a78dfebb53090df",
       "format": "Archive BitTorrent"
     },
     {
       "name": "9news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d038577319ecfd7a37db02a851a98880",
+      "md5": "0d6d6d528a45689cafd0bc041c104a35",
       "summation": "md5"
     },
     {
       "name": "9news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665140698",
-      "size": "851968",
-      "md5": "2c08153b8f4096a8f29efcd54bdcf2cf",
-      "crc32": "5340b549",
-      "sha1": "ad38a123682234958d8eefe178e87447a7d3842b",
+      "mtime": "1665183618",
+      "size": "864256",
+      "md5": "80629271dfb9bd03b783ec985a89261c",
+      "crc32": "c6e1f039",
+      "sha1": "c4fe3149e09d631c258bda15c6e056f040adce22",
       "format": "Metadata"
     },
     {
@@ -6906,9 +6968,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 668,
-  "item_last_updated": 1665140780,
-  "item_size": 43630992,
+  "files_count": 674,
+  "item_last_updated": 1665183709,
+  "item_size": 44034967,
   "metadata": {
     "identifier": "9news-2022",
     "collection": [
@@ -6925,10 +6987,10 @@
     "publicdate": "2022-08-13 23:42:36",
     "addeddate": "2022-08-13 23:42:36"
   },
-  "server": "ia801400.us.archive.org",
-  "uniq": 1553045378,
+  "server": "ia601400.us.archive.org",
+  "uniq": 1690727206,
   "workable_servers": [
-    "ia801400.us.archive.org",
-    "ia601400.us.archive.org"
+    "ia601400.us.archive.org",
+    "ia801400.us.archive.org"
   ]
 }

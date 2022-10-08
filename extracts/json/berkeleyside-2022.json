@@ -1,5 +1,5 @@
 {
-  "created": 1665141051,
+  "created": 1665184110,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/35/items/berkeleyside-2022",
@@ -18272,31 +18272,93 @@
       "sha1": "4543edd468df4a57be07f952611344b1191a64ef"
     },
     {
+      "name": "berkeleyside-2022-10-07T16:03:31.095868-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665183815",
+      "size": "34713",
+      "md5": "45ebe54cd1786f8684b041def18ed957",
+      "crc32": "53ebf693",
+      "sha1": "135cc4c3ad760c3e8ee683c61f55a4a76751cb72",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-07T16:03:31.095868-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665183818",
+      "size": "30338",
+      "md5": "4ac2138db76bb909abf9312a305c0eba",
+      "crc32": "ec556037",
+      "sha1": "9fba6b3ef6aa2936029ce19c580a372d662b6460",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-07T16:03:31.095868-07:00.jpg",
+      "source": "original",
+      "mtime": "1665183812",
+      "size": "328634",
+      "md5": "cad4bad32ea8f63775af3521ec56424b",
+      "crc32": "a13bec46",
+      "sha1": "b0e1aa9716f74e2770e37ac20d87e5664526c1bf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "berkeleyside-2022-10-07T16:03:31.095868-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665183821",
+      "size": "1503",
+      "md5": "f1568a3ced28e000fcf5f4d82907f3d9",
+      "crc32": "9a14e100",
+      "sha1": "742d66fd4311960c506b8eef015f9efffd66f0d6",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-07T16:03:31.095868-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665183823",
+      "size": "50706",
+      "md5": "1940ef99d0bb5ad1418805abc4fa0035",
+      "crc32": "731f40ca",
+      "sha1": "bcf996a17e53fb7e8618dfe2c7ebb61348b0ceec",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-07T16:03:31.095868-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "berkeleyside-2022-10-07T16:03:31.095868-07:00.jpg",
+      "mtime": "1665183903",
+      "size": "10318",
+      "md5": "31ad54f0b74634b6c4596e952b0aa7c8",
+      "crc32": "70233b04",
+      "sha1": "5cec06b81e954a3e3f0ff1dd9da59b154fda903c"
+    },
+    {
       "name": "berkeleyside-2022_archive.torrent",
       "source": "metadata",
-      "btih": "66e7f3e3e3d1dd527a27ad1fd07cd21e480ae48e",
-      "mtime": "1665141014",
-      "size": "378228",
-      "md5": "7279f6ccc022374d11ddd3a7d89a3732",
-      "crc32": "d43734a2",
-      "sha1": "442c6e42fb1fdcedcd1023faba20344c29c083de",
+      "btih": "693a26f08d87b2218f4b60658e5c8977a1ff4ddc",
+      "mtime": "1665183929",
+      "size": "379520",
+      "md5": "7e62da1178257f59d24945dbdfdf4973",
+      "crc32": "51224ff1",
+      "sha1": "8f94a162a7a761f0e8eb3ae26e8319b7aa77ef37",
       "format": "Archive BitTorrent"
     },
     {
       "name": "berkeleyside-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4e86077bbaa8d66f97758cfbc8ec2552",
+      "md5": "e30c9db8c09ac2ebc5ec7c6eed653d83",
       "summation": "md5"
     },
     {
       "name": "berkeleyside-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665140829",
-      "size": "2121728",
-      "md5": "d17be448911e1c67c4fb3d8dee051cc4",
-      "crc32": "e5943112",
-      "sha1": "fe70f47fe284f1130524dbccf7d0dfddb4aa98ea",
+      "mtime": "1665183827",
+      "size": "2125824",
+      "md5": "733751d0b6e617230e1f20fd2b08549a",
+      "crc32": "0c81f07d",
+      "sha1": "5346661af1389bf933d323ef5cf7fad633586765",
       "format": "Metadata"
     },
     {
@@ -18310,9 +18372,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1756,
-  "item_last_updated": 1665141014,
-  "item_size": 160572385,
+  "files_count": 1762,
+  "item_last_updated": 1665183929,
+  "item_size": 161033985,
   "metadata": {
     "identifier": "berkeleyside-2022",
     "collection": [
@@ -18331,7 +18393,7 @@
     "year": "2022"
   },
   "server": "ia601406.us.archive.org",
-  "uniq": 412438238,
+  "uniq": 950576332,
   "workable_servers": [
     "ia601406.us.archive.org",
     "ia801406.us.archive.org"

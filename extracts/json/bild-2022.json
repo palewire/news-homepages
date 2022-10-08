@@ -1,5 +1,10 @@
 {
-  "created": 1665140971,
+  "bild-2022": {
+    "url": "https://www.bild.de/",
+    "job_id": "spn2-b436653fbe7b3ddd0ceb06938f43dae2b637cf2c",
+    "message": "The same snapshot had been made 16 minutes, 58 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
+  "created": 1665187264,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/17/items/bild-2022",
@@ -7250,31 +7255,93 @@
       "sha1": "1c99e57ebe2c3df0dfc295c2614849900d7f44de"
     },
     {
+      "name": "bild-2022-10-08T01:03:32.778313+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665183816",
+      "size": "70236",
+      "md5": "ab8cfb43a80f2cf1b14f862923d5b60c",
+      "crc32": "cad433c2",
+      "sha1": "96ce0ab4f47b73c2d614885430e0ce55946625d9",
+      "format": "JSON"
+    },
+    {
+      "name": "bild-2022-10-08T01:03:32.778313+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665183819",
+      "size": "103694",
+      "md5": "844fe9058a2b76427fb62790c8d2dc36",
+      "crc32": "cc40199b",
+      "sha1": "296d280b3363f05faa69551023d5e1b6f9bda4ef",
+      "format": "JSON"
+    },
+    {
+      "name": "bild-2022-10-08T01:03:32.778313+02:00.jpg",
+      "source": "original",
+      "mtime": "1665183814",
+      "size": "122602",
+      "md5": "f0d62e1e9c42f1629267ec56654fd785",
+      "crc32": "0b326cd2",
+      "sha1": "8b8f695dc50f796f3c12f1b7836fb517de6c82ef",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bild-2022-10-08T01:03:32.778313+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665183820",
+      "size": "1519",
+      "md5": "5584552299eae5d0f5f762c823188f81",
+      "crc32": "792c2a21",
+      "sha1": "0edb2f7da974ebcfefc68a7660c978d3489bd47a",
+      "format": "JSON"
+    },
+    {
+      "name": "bild-2022-10-08T01:03:32.778313+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665183822",
+      "size": "227",
+      "md5": "270ee7d9b5f67f47d82233a2f948b816",
+      "crc32": "48921c6e",
+      "sha1": "ef98c9c46700ae3ac454fb4268df749e60a949ef",
+      "format": "JSON"
+    },
+    {
+      "name": "bild-2022-10-08T01:03:32.778313+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bild-2022-10-08T01:03:32.778313+02:00.jpg",
+      "mtime": "1665183937",
+      "size": "7200",
+      "md5": "039e8644c22c169bdf345e0e8d3db96e",
+      "crc32": "5cc8a35f",
+      "sha1": "1c99e57ebe2c3df0dfc295c2614849900d7f44de"
+    },
+    {
       "name": "bild-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8aa8e09c67915a8e9ad48c6785db3b4e84bf6e43",
-      "mtime": "1665140898",
-      "size": "145686",
-      "md5": "b1d8f392649e5b0c02f0a3b744e38749",
-      "crc32": "4d201403",
-      "sha1": "57c225bb38df442d7f215ca3a7383a74474e2d26",
+      "btih": "4a017e7d19a56c2b6d353051bd5bdf35d9427e4f",
+      "mtime": "1665183945",
+      "size": "146928",
+      "md5": "15809ed3e0f7882019d31759aa43d467",
+      "crc32": "ed550064",
+      "sha1": "e22a00d1beec10bb1151a3d2fe67ba06845612de",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bild-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c3282541721815d3435858653462b58a",
+      "md5": "5732e676be9c644b200455fe90702ad7",
       "summation": "md5"
     },
     {
       "name": "bild-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665140809",
-      "size": "901120",
-      "md5": "5b548392b94a1c529cfe821bae7282b9",
-      "crc32": "9f703a88",
-      "sha1": "77a39b45c074e3847898023bde2bf1a38cfd3efe",
+      "mtime": "1665183856",
+      "size": "909312",
+      "md5": "c83f8c0e9128fa151b131d5d0a41956e",
+      "crc32": "dee04cff",
+      "sha1": "7079654a3204c2bb5912686e634dca289f84b583",
       "format": "Metadata"
     },
     {
@@ -7288,9 +7355,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 705,
-  "item_last_updated": 1665140898,
-  "item_size": 38762622,
+  "files_count": 711,
+  "item_last_updated": 1665183945,
+  "item_size": 39077534,
   "metadata": {
     "identifier": "bild-2022",
     "collection": [
@@ -7308,7 +7375,7 @@
     "addeddate": "2022-08-11 00:38:50"
   },
   "server": "ia801504.us.archive.org",
-  "uniq": 908201582,
+  "uniq": 1255468876,
   "workable_servers": [
     "ia801504.us.archive.org",
     "ia601504.us.archive.org"
