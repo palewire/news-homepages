@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 34 screenshots with the Internet Archive.
+The archiving routine has saved 35 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-07T22:30:18.314642-04:00.jpg">
+  <img src="https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-07T22:30:18.314642-04:00.jpg"
+     alt="Staunton Daily News Leader at 2022-10-07 22:30:20-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-07T22:30:18.314642-04:00.jpg">October 7 at 10:30 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-07T10:12:47.145970-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-02T10:08:56.120021-04:00.jpg">October 2 at 10:08 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-01T22:20:45.747129-04:00.jpg">
-  <img src="https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-01T22:20:45.747129-04:00.jpg"
-     alt="Staunton Daily News Leader at 2022-10-01 22:20:47-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-01T22:20:45.747129-04:00.jpg">October 1 at 10:20 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 34 hyperlink lists with the Internet Archive.
+The archiving routine has saved 35 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 7 at 10:30 PM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-07T22:30:18.314642-04:00.hyperlinks.json) |
 | [October 7 at 10:12 AM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-07T10:12:47.145970-04:00.hyperlinks.json) |
 | [October 6 at 10:43 PM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-06T22:43:16.178913-04:00.hyperlinks.json) |
 | [October 6 at 10:12 AM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-06T10:12:40.039454-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 4 at 10:13 AM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-04T10:13:33.468271-04:00.hyperlinks.json) |
 | [October 3 at 10:26 PM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-03T22:26:50.073396-04:00.hyperlinks.json) |
 | [October 3 at 10:04 AM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-03T10:04:35.071338-04:00.hyperlinks.json) |
-| [October 2 at 10:27 PM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-02T22:27:46.240687-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 33 accessibility trees with the Internet Archive.
+The archiving routine has saved 34 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 7 at 10:30 PM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-07T22:30:18.314642-04:00.accessibility.json) |
 | [October 7 at 10:12 AM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-07T10:12:47.145970-04:00.accessibility.json) |
 | [October 6 at 10:43 PM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-06T22:43:16.178913-04:00.accessibility.json) |
 | [October 6 at 10:12 AM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-06T10:12:40.039454-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 4 at 10:13 AM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-04T10:13:33.468271-04:00.accessibility.json) |
 | [October 3 at 10:04 AM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-03T10:04:35.071338-04:00.accessibility.json) |
 | [October 2 at 10:27 PM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-02T22:27:46.240687-04:00.accessibility.json) |
-| [October 2 at 10:09 AM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-02T10:08:56.120021-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 7 at 10:30 PM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-07T22:30:18.314642-04:00.lighthouse.json) |
 | [October 7 at 10:12 AM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-07T10:12:47.145970-04:00.lighthouse.json) |
 | [October 6 at 10:43 PM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-06T22:43:16.178913-04:00.lighthouse.json) |
 | [October 6 at 10:12 AM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-06T10:12:40.039454-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 4 at 10:13 AM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-04T10:13:33.468271-04:00.lighthouse.json) |
 | [October 3 at 10:26 PM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-03T22:26:50.073396-04:00.lighthouse.json) |
 | [October 3 at 10:04 AM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-03T10:04:35.071338-04:00.lighthouse.json) |
-| [October 2 at 10:27 PM](https://archive.org/download/newsleadernow-2022/newsleadernow-2022-10-02T22:27:46.240687-04:00.lighthouse.json) |
 
 
 
