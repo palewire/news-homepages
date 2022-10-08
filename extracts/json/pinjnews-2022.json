@@ -1,5 +1,5 @@
 {
-  "created": 1665196498,
+  "created": 1665241430,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/34/items/pinjnews-2022",
@@ -5266,31 +5266,93 @@
       "sha1": "1bd74bae91b6f8583060da213a39591c28d0dda7"
     },
     {
+      "name": "pinjnews-2022-10-08T10:15:39.925733-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665238544",
+      "size": "20649",
+      "md5": "4bbcdc7afccb6736ce7ad19aec3ff44c",
+      "crc32": "84bd699b",
+      "sha1": "b546ac85f2a526464c1fc5b7af3ae7c72ba90696",
+      "format": "JSON"
+    },
+    {
+      "name": "pinjnews-2022-10-08T10:15:39.925733-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665238546",
+      "size": "15331",
+      "md5": "79ff49f8c379bae234382f4dd9df3cea",
+      "crc32": "01673293",
+      "sha1": "a83eed8916e85f9705f03304a24f6db96cfab6e7",
+      "format": "JSON"
+    },
+    {
+      "name": "pinjnews-2022-10-08T10:15:39.925733-04:00.jpg",
+      "source": "original",
+      "mtime": "1665238542",
+      "size": "201027",
+      "md5": "94267c2a93ac7467cb0eeb497b87d61d",
+      "crc32": "75f7a514",
+      "sha1": "5758c24ace5e42ae288c60fba93e5009b92a442d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pinjnews-2022-10-08T10:15:39.925733-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665238549",
+      "size": "1440",
+      "md5": "85ea45b8352f63af98b7b7fddf7262b9",
+      "crc32": "16223f2f",
+      "sha1": "7dd9ae95977f0a7c7fbf17f6b16e9e41babb0a95",
+      "format": "JSON"
+    },
+    {
+      "name": "pinjnews-2022-10-08T10:15:39.925733-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665238551",
+      "size": "201",
+      "md5": "18407b203a5b4f77da993d0fed5951ea",
+      "crc32": "4ff960a2",
+      "sha1": "8d7d5fd49184a8a3cda0eb795fd9338b1dc4824f",
+      "format": "JSON"
+    },
+    {
+      "name": "pinjnews-2022-10-08T10:15:39.925733-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pinjnews-2022-10-08T10:15:39.925733-04:00.jpg",
+      "mtime": "1665238607",
+      "size": "8921",
+      "md5": "28ec67e497889bc3f20d2f95b4978d02",
+      "crc32": "6ba2d676",
+      "sha1": "ed4713d21ff4fe791112b5df8b8f6e4b64000bb2"
+    },
+    {
       "name": "pinjnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "127a9e92b3b0d432acc62e1c19d4204adc04e741",
-      "mtime": "1665196479",
-      "size": "107984",
-      "md5": "bfdedd90f8796cd15f657dc1e2aee635",
-      "crc32": "873a09f8",
-      "sha1": "644e07122b89e20684599e79726cf721318257c2",
+      "btih": "c1d991da765626242f3122d9104e8bb44d280958",
+      "mtime": "1665238612",
+      "size": "109249",
+      "md5": "338360e21fa1a90cfe9132f252dbcc54",
+      "crc32": "3d3a83cc",
+      "sha1": "642d6fc8beccb217b8efabc9c51c9dd80a5dbc8f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pinjnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "984d7b62e97f837b1e3a9ca8f9968ef8",
+      "md5": "afdb02b9d7e61ece3df410b5e70e1168",
       "summation": "md5"
     },
     {
       "name": "pinjnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665196396",
-      "size": "659456",
-      "md5": "093878f677fac561cdf699cf23b6b491",
-      "crc32": "170d0a0f",
-      "sha1": "d2460993918cb734d4a4b2950cb39702981e7e87",
+      "mtime": "1665238557",
+      "size": "671744",
+      "md5": "50f4eb2d811145d552dd49a994db6ed3",
+      "crc32": "206e6f79",
+      "sha1": "341744b1653a39c01f6122ca47892724fb10a0b9",
       "format": "Metadata"
     },
     {
@@ -5304,9 +5366,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 513,
-  "item_last_updated": 1665196479,
-  "item_size": 23064331,
+  "files_count": 519,
+  "item_last_updated": 1665238612,
+  "item_size": 23325453,
   "metadata": {
     "identifier": "pinjnews-2022",
     "collection": [
@@ -5323,10 +5385,18 @@
     "publicdate": "2022-08-26 12:59:42",
     "addeddate": "2022-08-26 12:59:42"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 1202376579,
+  "pinjnews-2022": {
+    "url": "https://pinjnews.org/",
+    "job_id": "spn2-06d337cbeaecef2e9f477159d9ec0b614ba3a84c",
+    "resources": [],
+    "status": "error",
+    "message": "Job failed.",
+    "status_ext": "error:job-failed"
+  },
+  "server": "ia601500.us.archive.org",
+  "uniq": 1149898529,
   "workable_servers": [
-    "ia801500.us.archive.org",
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }
