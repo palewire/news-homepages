@@ -1,5 +1,6 @@
 {
-  "created": 1665187681,
+  "conflict": 1665220868,
+  "created": 1665220868,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/3/items/daily_record-2022",
@@ -14161,10 +14162,21 @@
     "publicdate": "2022-07-06 21:13:20",
     "addeddate": "2022-07-06 21:13:20"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 1344248480,
+  "pending_tasks": true,
+  "server": "ia601506.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3433287121,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 246017917,
   "workable_servers": [
-    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }
