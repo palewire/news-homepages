@@ -1,16 +1,8 @@
 {
-  "created": 1665162826,
+  "created": 1665187758,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/17/items/dmregister-2022",
-  "dmregister-2022": {
-    "url": "https://www.desmoinesregister.com/",
-    "job_id": "spn2-26eea1ba35da4060a1d018dc0edd96431e73bd58",
-    "status": "error",
-    "status_ext": "error:job-failed",
-    "resources": [],
-    "message": "Job failed."
-  },
   "files": [
     {
       "name": "DMRegister-2022-03-24T22:34:29.846870-05:00.jpg",
@@ -18870,31 +18862,93 @@
       "sha1": "e5f7505d33d3140c364c84be57acab9e2525e712"
     },
     {
+      "name": "dmregister-2022-10-07T19:06:57.219441-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665187647",
+      "size": "20383",
+      "md5": "0c6741741fd55bb53c592799f508b5ad",
+      "crc32": "611085d5",
+      "sha1": "52a22a0b4b0dade0702360f9cc9fdbd0f19dc624",
+      "format": "JSON"
+    },
+    {
+      "name": "dmregister-2022-10-07T19:06:57.219441-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665187649",
+      "size": "37727",
+      "md5": "dae1a4d745c91cb9f26bfa9ff5e645e5",
+      "crc32": "12d619be",
+      "sha1": "1ddda9d406607d0ff0e85876ca8739df23f56733",
+      "format": "JSON"
+    },
+    {
+      "name": "dmregister-2022-10-07T19:06:57.219441-05:00.jpg",
+      "source": "original",
+      "mtime": "1665187645",
+      "size": "251248",
+      "md5": "54d1d34d4dfc804f04130da9878a5357",
+      "crc32": "9c9d27ec",
+      "sha1": "208b641465350ce9d47d458ae536078bd00c7a89",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dmregister-2022-10-07T19:06:57.219441-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665187651",
+      "size": "1557",
+      "md5": "5ea08d5ad8ee9bfe9f50e8ef776ef027",
+      "crc32": "d9dfef80",
+      "sha1": "8ceed0e0dc513a144a559f4a781c7d257c9f3f33",
+      "format": "JSON"
+    },
+    {
+      "name": "dmregister-2022-10-07T19:06:57.219441-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665187653",
+      "size": "251692",
+      "md5": "b0e750895f71674be7d2a1e81d8b93e0",
+      "crc32": "165bc9e0",
+      "sha1": "f47ed672864a5eaaeb06695e13a7bcc50b961206",
+      "format": "JSON"
+    },
+    {
+      "name": "dmregister-2022-10-07T19:06:57.219441-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dmregister-2022-10-07T19:06:57.219441-05:00.jpg",
+      "mtime": "1665187724",
+      "size": "9548",
+      "md5": "718530f9c06ebbaca9c485e648e5dc34",
+      "crc32": "dbf13891",
+      "sha1": "8936978537e79b75d0b34f564a97298ef92c2be5"
+    },
+    {
       "name": "dmregister-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f31690f584872677ee15a97642baf0b8d68564e4",
-      "mtime": "1665159742",
-      "size": "386041",
-      "md5": "959ac38c2f708f0ce27786d3ae6a8357",
-      "crc32": "fdc0d897",
-      "sha1": "2f4e5bc111951497bf2a24e4e8fc7a48f39d1ebd",
+      "btih": "4480698585bc3157e650f1d1b658207548b998d2",
+      "mtime": "1665187750",
+      "size": "387321",
+      "md5": "90fbaf3e7ea019e60a9f08298d543f53",
+      "crc32": "d6daa60f",
+      "sha1": "b76809a928ee102702849ce6fdc61894fd2b31e7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dmregister-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1be7a735f039dc0027468bd49e7e0b0e",
+      "md5": "50d03375d84503946aec931098572a1b",
       "summation": "md5"
     },
     {
       "name": "dmregister-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665159575",
-      "size": "2207744",
-      "md5": "7c04b0aa6b06fb26e9d89cf826546fdc",
-      "crc32": "f0db43bc",
-      "sha1": "891e388e9622e35e131d1b0e1d575f341d9cb5e0",
+      "mtime": "1665187656",
+      "size": "2215936",
+      "md5": "45667385f3690522785e7461b08bc942",
+      "crc32": "108ef424",
+      "sha1": "9e153c6886c63b43a6f12f365e53c88e5f293b04",
       "format": "Metadata"
     },
     {
@@ -18908,9 +18962,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1815,
-  "item_last_updated": 1665159742,
-  "item_size": 134712891,
+  "files_count": 1821,
+  "item_last_updated": 1665187750,
+  "item_size": 135294518,
   "metadata": {
     "identifier": "dmregister-2022",
     "collection": [
@@ -18928,7 +18982,7 @@
     "addeddate": "2022-03-25 03:35:06"
   },
   "server": "ia902509.us.archive.org",
-  "uniq": 561529527,
+  "uniq": 43558482,
   "workable_servers": [
     "ia902509.us.archive.org",
     "ia802509.us.archive.org"

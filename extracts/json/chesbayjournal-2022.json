@@ -1,5 +1,5 @@
 {
-  "created": 1665144472,
+  "created": 1665187488,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/9/items/chesbayjournal-2022",
@@ -10542,31 +10542,83 @@
       "sha1": "de1048a7e833292fdf49c572b74dc003d1f30941"
     },
     {
+      "name": "chesbayjournal-2022-10-07T20:02:59.387742-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665187392",
+      "size": "13541",
+      "md5": "b3262df28f925fd20269a2f42e06a927",
+      "crc32": "56b568c1",
+      "sha1": "2a6fcd2e9daf969f2919140896a112e52fecb85f",
+      "format": "JSON"
+    },
+    {
+      "name": "chesbayjournal-2022-10-07T20:02:59.387742-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665187400",
+      "size": "19534",
+      "md5": "7ac654dc838efb375b2fcf27ab111f4b",
+      "crc32": "c7dd67f1",
+      "sha1": "126e7b64f3d7c3a8e5c46f421a641164ca49b1b5",
+      "format": "JSON"
+    },
+    {
+      "name": "chesbayjournal-2022-10-07T20:02:59.387742-04:00.jpg",
+      "source": "original",
+      "mtime": "1665187390",
+      "size": "356396",
+      "md5": "b7c5dd5f2b4c71964ff291b54c7e2176",
+      "crc32": "17e9e021",
+      "sha1": "22e99df35ef9b17b5c80b2103e92ce1f4da65b5a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesbayjournal-2022-10-07T20:02:59.387742-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665187406",
+      "size": "207",
+      "md5": "7b4a55382ed3aea9e30d47ea4b67fde8",
+      "crc32": "24a11951",
+      "sha1": "c129dd9846044a4d0686ecf9b6eba7403ba06c2e",
+      "format": "JSON"
+    },
+    {
+      "name": "chesbayjournal-2022-10-07T20:02:59.387742-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesbayjournal-2022-10-07T20:02:59.387742-04:00.jpg",
+      "mtime": "1665187468",
+      "size": "9789",
+      "md5": "c24732720661a44d331df4a3b289d73d",
+      "crc32": "1f101d7f",
+      "sha1": "2e14eab1c08653c334917d15878bd7cd6b73a1b4"
+    },
+    {
       "name": "chesbayjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b5104c923c7821677fef64736b423f166d489ce5",
-      "mtime": "1665144460",
-      "size": "221734",
-      "md5": "251a47f0058b7a3dbaf357ef8cd1d761",
-      "crc32": "eeff0801",
-      "sha1": "2efd042deaaa26a6b7ad1fa39c08903f8b4c38a9",
+      "btih": "68da5f10d65397dd410fc8284c8d789806456bef",
+      "mtime": "1665187479",
+      "size": "222819",
+      "md5": "0964bb5b0cf3514ad553ecdd6ebc752a",
+      "crc32": "cc771d3b",
+      "sha1": "c7e0a64fe3e69e9b2eea2c4c5cb9bda715177719",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chesbayjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "56567979f89eba72ee8bb7b7d46f68a9",
+      "md5": "6d2ea90edf2a0715ca8d226e66eb6896",
       "summation": "md5"
     },
     {
       "name": "chesbayjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665144379",
-      "size": "1298432",
-      "md5": "174aa9db338aecfb0d2025f083f25e3a",
-      "crc32": "b2846a52",
-      "sha1": "7be48eec33c1934a90d8030f6c0b599b0e5bb8b4",
+      "mtime": "1665187409",
+      "size": "1302528",
+      "md5": "45fe3e165dd71415f548cfaa59fc40c4",
+      "crc32": "5f45dbde",
+      "sha1": "04872a647df7b89894ba0b3637b41b369dabb31c",
       "format": "Metadata"
     },
     {
@@ -10580,9 +10632,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1021,
-  "item_last_updated": 1665144460,
-  "item_size": 76031235,
+  "files_count": 1026,
+  "item_last_updated": 1665187479,
+  "item_size": 76435883,
   "metadata": {
     "identifier": "chesbayjournal-2022",
     "collection": [
@@ -10599,10 +10651,10 @@
     "publicdate": "2022-07-09 03:56:13",
     "addeddate": "2022-07-09 03:56:13"
   },
-  "server": "ia902500.us.archive.org",
-  "uniq": 277810258,
+  "server": "ia802500.us.archive.org",
+  "uniq": 360235717,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia802500.us.archive.org",
+    "ia902500.us.archive.org"
   ]
 }
