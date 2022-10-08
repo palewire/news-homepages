@@ -1,5 +1,5 @@
 {
-  "created": 1665040533,
+  "created": 1665213525,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/12/items/nhregister-2022",
@@ -2796,31 +2796,279 @@
       "sha1": "28c03ec275e74c7feb35b5b4d7fc2f18fc7f818b"
     },
     {
+      "name": "nhregister-2022-10-06T15:28:13.934802-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665084500",
+      "size": "75446",
+      "md5": "9fa8190bf7798d1a6527c82163b9bed1",
+      "crc32": "70569c94",
+      "sha1": "85f24a5a4622753686e680b954c63eb434b410d0",
+      "format": "JSON"
+    },
+    {
+      "name": "nhregister-2022-10-06T15:28:13.934802-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665084502",
+      "size": "77292",
+      "md5": "f2ceac3fc38193140b103f27c477fc1b",
+      "crc32": "9c1f5b65",
+      "sha1": "6755da0f0c318560de42cf691ceb08a60eac9788",
+      "format": "JSON"
+    },
+    {
+      "name": "nhregister-2022-10-06T15:28:13.934802-04:00.jpg",
+      "source": "original",
+      "mtime": "1665084498",
+      "size": "322001",
+      "md5": "e828b2ed7c897b14b3b3f25cbd23c6c1",
+      "crc32": "db466332",
+      "sha1": "bba8011cd689d9e96f4626675f669526ed7892c4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nhregister-2022-10-06T15:28:13.934802-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665084504",
+      "size": "1495",
+      "md5": "792ee9d21dba52a2104f5e0e2c1dee77",
+      "crc32": "befa8cc5",
+      "sha1": "03f2668214ec2e7ff50156b675fd2d65324afe95",
+      "format": "JSON"
+    },
+    {
+      "name": "nhregister-2022-10-06T15:28:13.934802-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665084506",
+      "size": "107051",
+      "md5": "d90589b99c009685ba65efed8a6db3ab",
+      "crc32": "2c8aee52",
+      "sha1": "ddeea2460609c09507b1b81fcad04224cb90f30b",
+      "format": "JSON"
+    },
+    {
+      "name": "nhregister-2022-10-06T15:28:13.934802-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nhregister-2022-10-06T15:28:13.934802-04:00.jpg",
+      "mtime": "1665084571",
+      "size": "9766",
+      "md5": "8d1c34d3d740e1f0c6647ce5b9e34f0c",
+      "crc32": "809da63e",
+      "sha1": "b9b46269951625d2f6b096cab0a3c709b2e742bb"
+    },
+    {
+      "name": "nhregister-2022-10-07T03:44:03.220160-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665128646",
+      "size": "75298",
+      "md5": "9334b1c93f85360065e87f2ec5c60cd6",
+      "crc32": "d822a833",
+      "sha1": "4b2f65b5fb2d1d1431e422f7488e5adc29956a64",
+      "format": "JSON"
+    },
+    {
+      "name": "nhregister-2022-10-07T03:44:03.220160-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665128648",
+      "size": "76691",
+      "md5": "0a42a9757c9e71e6ab5d23f1480a31d5",
+      "crc32": "3c65b1af",
+      "sha1": "884e9680a558356046ee14e88335837b97a6052b",
+      "format": "JSON"
+    },
+    {
+      "name": "nhregister-2022-10-07T03:44:03.220160-04:00.jpg",
+      "source": "original",
+      "mtime": "1665128644",
+      "size": "322960",
+      "md5": "942ca6e8231c60e19678361189a1f693",
+      "crc32": "25e46044",
+      "sha1": "d265faa75c218b1fb93378ae38b4db8897348a03",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nhregister-2022-10-07T03:44:03.220160-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665128649",
+      "size": "1495",
+      "md5": "211b5df177b087240425c1a7f5befd34",
+      "crc32": "e59b986e",
+      "sha1": "b57f899ebdba9113cfe97638e97a65c37af0a3ab",
+      "format": "JSON"
+    },
+    {
+      "name": "nhregister-2022-10-07T03:44:03.220160-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665128651",
+      "size": "84027",
+      "md5": "31bee36deab45dc875eeef70d292de05",
+      "crc32": "abd4c95d",
+      "sha1": "60b0c050206a966c0a3edd5cb16ab185c0da2d68",
+      "format": "JSON"
+    },
+    {
+      "name": "nhregister-2022-10-07T03:44:03.220160-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nhregister-2022-10-07T03:44:03.220160-04:00.jpg",
+      "mtime": "1665128904",
+      "size": "9714",
+      "md5": "56a85e62988c67822313be755920e76b",
+      "crc32": "7f4f8200",
+      "sha1": "8d1ede2905e80947e2e193a6e1c0018c93723976"
+    },
+    {
+      "name": "nhregister-2022-10-07T15:44:15.105543-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665171861",
+      "size": "74162",
+      "md5": "e909fb04458d7bc46b11d200f4cc3844",
+      "crc32": "b9138695",
+      "sha1": "717d288d2aaa9d679c8fd14904ef2cd4590a12f4",
+      "format": "JSON"
+    },
+    {
+      "name": "nhregister-2022-10-07T15:44:15.105543-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665171863",
+      "size": "76196",
+      "md5": "c807398d687e6865e4774ffd50b52f90",
+      "crc32": "753293ac",
+      "sha1": "fad8a7558d8f3bc639d5b1c537a0f76be9b56fcf",
+      "format": "JSON"
+    },
+    {
+      "name": "nhregister-2022-10-07T15:44:15.105543-04:00.jpg",
+      "source": "original",
+      "mtime": "1665171859",
+      "size": "293637",
+      "md5": "52b0c6f41809df1cd98b16e857e4bf88",
+      "crc32": "077d7bff",
+      "sha1": "2c87748ba9388c038ea3e935e7f88fafce5d1889",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nhregister-2022-10-07T15:44:15.105543-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665171865",
+      "size": "1495",
+      "md5": "d81950117c21e6d816181b564032289d",
+      "crc32": "7a18ec2f",
+      "sha1": "c2e6b38c5cf0b150ab110c609649dc8fc95ee4fe",
+      "format": "JSON"
+    },
+    {
+      "name": "nhregister-2022-10-07T15:44:15.105543-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665171867",
+      "size": "91755",
+      "md5": "c9cb87b058ebbe3e165c240b70e3e82d",
+      "crc32": "2b8cbb29",
+      "sha1": "b80ba1c863d09c73402c99c5fff92d955d06b552",
+      "format": "JSON"
+    },
+    {
+      "name": "nhregister-2022-10-07T15:44:15.105543-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nhregister-2022-10-07T15:44:15.105543-04:00.jpg",
+      "mtime": "1665171930",
+      "size": "9277",
+      "md5": "8d56ed62e35aba2ad98d30d72a14829c",
+      "crc32": "39f63a6e",
+      "sha1": "2f79dff15d36b32e36246c46fd4abcff5990499b"
+    },
+    {
+      "name": "nhregister-2022-10-08T03:17:31.628925-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665213460",
+      "size": "75016",
+      "md5": "ae443d7de6b38649675d519abb5850fe",
+      "crc32": "aad3d79e",
+      "sha1": "28113231ea3a889c8629404d66d2a1d0b69f40cc",
+      "format": "JSON"
+    },
+    {
+      "name": "nhregister-2022-10-08T03:17:31.628925-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665213462",
+      "size": "83231",
+      "md5": "53d757a657ef2a792d6fb2451da593df",
+      "crc32": "715ee074",
+      "sha1": "f5d73137fc09c2964509be745359d8e15881a448",
+      "format": "JSON"
+    },
+    {
+      "name": "nhregister-2022-10-08T03:17:31.628925-04:00.jpg",
+      "source": "original",
+      "mtime": "1665213458",
+      "size": "297211",
+      "md5": "625054d0405aa2d8c65c85333296d7b3",
+      "crc32": "f9241652",
+      "sha1": "d516a341eabe42f503553e230953b818b852694b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nhregister-2022-10-08T03:17:31.628925-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665213464",
+      "size": "1495",
+      "md5": "036611d1f68acaab20a15b6b8c033efc",
+      "crc32": "4b6c4390",
+      "sha1": "d170b4344665269ad89e8d5f6f722059f27e7e63",
+      "format": "JSON"
+    },
+    {
+      "name": "nhregister-2022-10-08T03:17:31.628925-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665213465",
+      "size": "100038",
+      "md5": "78e833854130348f756a5c83f2a38b56",
+      "crc32": "31ef3901",
+      "sha1": "c1463b232c978aa2d3b773e96acb54aeea7116e1",
+      "format": "JSON"
+    },
+    {
+      "name": "nhregister-2022-10-08T03:17:31.628925-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nhregister-2022-10-08T03:17:31.628925-04:00.jpg",
+      "mtime": "1665213517",
+      "size": "9156",
+      "md5": "81d50f69c1f25e4fbab155086e297709",
+      "crc32": "8361cec7",
+      "sha1": "3903eaf32686813fa1e3cbc5269276206b47d501"
+    },
+    {
       "name": "nhregister-2022_archive.torrent",
       "source": "metadata",
-      "btih": "826a60dd455bde0d44abfb23a22d1c0b479b19f5",
-      "mtime": "1665040500",
-      "size": "59016",
-      "md5": "eda903d1866ef5f56f0d33147210ed96",
-      "crc32": "9350356e",
-      "sha1": "a907bb04815a09d3c2332a02eaf6cb9cd12d2bfa",
+      "btih": "e29ac9efff7a761eda086db2548b8baa84e9b23c",
+      "mtime": "1665213520",
+      "size": "64135",
+      "md5": "de956ac6f1962d5899c7c69cfa85e729",
+      "crc32": "6a62e7e1",
+      "sha1": "068a3ffe2015e4e18731f75f4266907bf3aebbed",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nhregister-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "49575932958bc17238ae5f84ee364798",
+      "md5": "a58b4e4ed3453269a5a04217ab808dd6",
       "summation": "md5"
     },
     {
       "name": "nhregister-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665040419",
-      "size": "364544",
-      "md5": "a7d18c12a042fc45b6ff0e3c92c40e5d",
-      "crc32": "16e7801d",
-      "sha1": "c8dd88b689c57a3992f69d1be523426702f244fd",
+      "mtime": "1665213470",
+      "size": "393216",
+      "md5": "018cb94db16184521a18358afe268f6a",
+      "crc32": "d313112d",
+      "sha1": "a2175cdf12e55e94c13234e3942fdc0d72021c59",
       "format": "Metadata"
     },
     {
@@ -2834,9 +3082,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 274,
-  "item_last_updated": 1665040500,
-  "item_size": 24967448,
+  "files_count": 298,
+  "item_last_updated": 1665213520,
+  "item_size": 27277144,
   "metadata": {
     "identifier": "nhregister-2022",
     "collection": [
@@ -2854,7 +3102,7 @@
     "addeddate": "2022-09-14 04:48:42"
   },
   "server": "ia801501.us.archive.org",
-  "uniq": 1610846188,
+  "uniq": 790479128,
   "workable_servers": [
     "ia801501.us.archive.org",
     "ia601501.us.archive.org"

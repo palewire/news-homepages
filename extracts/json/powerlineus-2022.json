@@ -1,5 +1,5 @@
 {
-  "created": 1665174929,
+  "created": 1665213748,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/9/items/powerlineus-2022",
@@ -13940,31 +13940,93 @@
       "sha1": "30047d849106942ec71c5a3b496cfeaea0e2f1fb"
     },
     {
+      "name": "powerlineus-2022-10-08T03:19:34.219887-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665213577",
+      "size": "104602",
+      "md5": "3df33f89052f5f6ad5379ae57dfaf055",
+      "crc32": "2dc13b9b",
+      "sha1": "6e10d82b30db93af08aad8b9fae12435f6db04ff",
+      "format": "JSON"
+    },
+    {
+      "name": "powerlineus-2022-10-08T03:19:34.219887-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665213580",
+      "size": "20487",
+      "md5": "aaa696a5e65b2d8be34e0c8c0c321f86",
+      "crc32": "f286f9f5",
+      "sha1": "821b2c5b496ba2a756cda873e7d377cdb00a5dc4",
+      "format": "JSON"
+    },
+    {
+      "name": "powerlineus-2022-10-08T03:19:34.219887-04:00.jpg",
+      "source": "original",
+      "mtime": "1665213575",
+      "size": "279926",
+      "md5": "414811f63efc98b2938d06374a60bc51",
+      "crc32": "64e77f1d",
+      "sha1": "ca7418db5dd36023e665b01caffeac2859570209",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "powerlineus-2022-10-08T03:19:34.219887-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665213582",
+      "size": "1519",
+      "md5": "99ca217f84f6e2fe15203887ee0f32c5",
+      "crc32": "31393947",
+      "sha1": "5b93c0fece359e33f7513ebd07b260ad742ed644",
+      "format": "JSON"
+    },
+    {
+      "name": "powerlineus-2022-10-08T03:19:34.219887-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665213583",
+      "size": "84241",
+      "md5": "297b68373e65bdd2d2b09c3983edd8f6",
+      "crc32": "37260e85",
+      "sha1": "43bca2dfec893aec2084aa6d133d3ea4f2f5933d",
+      "format": "JSON"
+    },
+    {
+      "name": "powerlineus-2022-10-08T03:19:34.219887-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "powerlineus-2022-10-08T03:19:34.219887-04:00.jpg",
+      "mtime": "1665213711",
+      "size": "7791",
+      "md5": "2ffc764ab76f728d820d405ebdb134f0",
+      "crc32": "d6795f54",
+      "sha1": "a79b71863969f167a5acd0026d8637f42bf11985"
+    },
+    {
       "name": "powerlineus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5eed184d0be72e28d1a6bfc5d3d6f96db154b91d",
-      "mtime": "1665174878",
-      "size": "289159",
-      "md5": "9e54dfcf332f46788536ace6b989fbb5",
-      "crc32": "2197cf27",
-      "sha1": "886cfbdc9ce405595d6f0858ff4212abdd2558a5",
+      "btih": "978e5f0b6a38dc083a7aea0db8a0d3e5b2fadf2d",
+      "mtime": "1665213732",
+      "size": "290445",
+      "md5": "3f5db1a3112e3ef4fab837778b9545c5",
+      "crc32": "642d341a",
+      "sha1": "e17c94f36b2e384aac8a25a31f9ee1d3c34685ef",
       "format": "Archive BitTorrent"
     },
     {
       "name": "powerlineus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a195d64ad9d41461f34d0a1d5113d8c6",
+      "md5": "845b6b28ebd4e462a34ec76cb8da9b2f",
       "summation": "md5"
     },
     {
       "name": "powerlineus-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665174765",
-      "size": "1712128",
-      "md5": "b26f3408af6b46908fc727fb97c87f53",
-      "crc32": "892262bb",
-      "sha1": "bde868c5c4a821845ee4a50dfeb951098c04299b",
+      "mtime": "1665213589",
+      "size": "1716224",
+      "md5": "67d970ed69441f6eecd09958fb464e43",
+      "crc32": "8b87ff7e",
+      "sha1": "2e4ad275d282802af8b7f0e76048bae8b51ad257",
       "format": "Metadata"
     },
     {
@@ -13978,9 +14040,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1350,
-  "item_last_updated": 1665174878,
-  "item_size": 102212199,
+  "files_count": 1356,
+  "item_last_updated": 1665213732,
+  "item_size": 102716147,
   "metadata": {
     "identifier": "powerlineus-2022",
     "collection": [
@@ -13997,10 +14059,10 @@
     "publicdate": "2022-07-17 15:03:33",
     "addeddate": "2022-07-17 15:03:33"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 75756766,
+  "server": "ia601409.us.archive.org",
+  "uniq": 355970854,
   "workable_servers": [
-    "ia801409.us.archive.org",
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }
