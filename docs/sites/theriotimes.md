@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 184 screenshots with the Internet Archive.
+The archiving routine has saved 186 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/theriotimes-2022/theriotimes-2022-10-08T12:08:48.125337-03:00.jpg">
+  <img src="https://archive.org/download/theriotimes-2022/theriotimes-2022-10-08T12:08:48.125337-03:00.jpg"
+     alt="Rio Times at 2022-10-08 12:08:50-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theriotimes-2022/theriotimes-2022-10-08T12:08:48.125337-03:00.jpg">October 8 at 12:08 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theriotimes-2022/theriotimes-2022-10-08T09:00:58.008552-03:00.jpg">
+  <img src="https://archive.org/download/theriotimes-2022/theriotimes-2022-10-08T09:00:58.008552-03:00.jpg"
+     alt="Rio Times at 2022-10-08 09:00:59-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theriotimes-2022/theriotimes-2022-10-08T09:00:58.008552-03:00.jpg">October 8 at 9:00 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/theriotimes-2022/theriotimes-2022-10-08T00:42:22.178853-03:00.jpg">
   <img src="https://archive.org/download/theriotimes-2022/theriotimes-2022-10-08T00:42:22.178853-03:00.jpg"
      alt="Rio Times at 2022-10-08 00:42:24-03:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theriotimes-2022/theriotimes-2022-10-04T12:12:45.360990-03:00.jpg">October 4 at 12:13 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theriotimes-2022/theriotimes-2022-10-04T09:11:13.701160-03:00.jpg">
-  <img src="https://archive.org/download/theriotimes-2022/theriotimes-2022-10-04T09:11:13.701160-03:00.jpg"
-     alt="Rio Times at 2022-10-04 09:11:15-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theriotimes-2022/theriotimes-2022-10-04T09:11:13.701160-03:00.jpg">October 4 at 9:11 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theriotimes-2022/theriotimes-2022-10-04T00:45:36.878980-03:00.jpg">
-  <img src="https://archive.org/download/theriotimes-2022/theriotimes-2022-10-04T00:45:36.878980-03:00.jpg"
-     alt="Rio Times at 2022-10-04 00:45:43-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theriotimes-2022/theriotimes-2022-10-04T00:45:36.878980-03:00.jpg">October 4 at 12:45 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 186 hyperlink lists with the Internet Archive.
+The archiving routine has saved 188 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 8 at 12:08 PM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-08T12:08:48.125337-03:00.hyperlinks.json) |
+| [October 8 at 9:01 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-08T09:00:58.008552-03:00.hyperlinks.json) |
 | [October 8 at 12:42 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-08T00:42:22.178853-03:00.hyperlinks.json) |
 | [October 7 at 12:12 PM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-07T12:12:15.301203-03:00.hyperlinks.json) |
 | [October 7 at 1:26 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-07T01:26:22.501265-03:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 6 at 1:18 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-06T01:18:14.798240-03:00.hyperlinks.json) |
 | [October 5 at 12:32 PM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-05T12:32:10.504655-03:00.hyperlinks.json) |
 | [October 5 at 9:25 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-05T09:25:32.130565-03:00.hyperlinks.json) |
-| [October 5 at 12:33 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-05T00:33:12.983200-03:00.hyperlinks.json) |
-| [October 4 at 12:13 PM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-04T12:12:45.360990-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 185 accessibility trees with the Internet Archive.
+The archiving routine has saved 187 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 8 at 12:08 PM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-08T12:08:48.125337-03:00.accessibility.json) |
+| [October 8 at 9:01 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-08T09:00:58.008552-03:00.accessibility.json) |
 | [October 8 at 12:42 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-08T00:42:22.178853-03:00.accessibility.json) |
 | [October 7 at 12:12 PM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-07T12:12:15.301203-03:00.accessibility.json) |
 | [October 7 at 1:26 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-07T01:26:22.501265-03:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 6 at 1:18 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-06T01:18:14.798240-03:00.accessibility.json) |
 | [October 5 at 12:32 PM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-05T12:32:10.504655-03:00.accessibility.json) |
 | [October 5 at 9:25 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-05T09:25:32.130565-03:00.accessibility.json) |
-| [October 5 at 12:33 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-05T00:33:12.983200-03:00.accessibility.json) |
-| [October 4 at 12:13 PM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-04T12:12:45.360990-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 154 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 156 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 8 at 12:08 PM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-08T12:08:48.125337-03:00.lighthouse.json) |
+| [October 8 at 9:01 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-08T09:00:58.008552-03:00.lighthouse.json) |
 | [October 8 at 12:42 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-08T00:42:22.178853-03:00.lighthouse.json) |
 | [October 7 at 12:12 PM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-07T12:12:15.301203-03:00.lighthouse.json) |
 | [October 7 at 1:26 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-07T01:26:22.501265-03:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 6 at 1:18 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-06T01:18:14.798240-03:00.lighthouse.json) |
 | [October 5 at 12:32 PM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-05T12:32:10.504655-03:00.lighthouse.json) |
 | [October 5 at 9:25 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-05T09:25:32.130565-03:00.lighthouse.json) |
-| [October 5 at 12:33 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-05T00:33:12.983200-03:00.lighthouse.json) |
-| [October 4 at 12:13 PM](https://archive.org/download/theriotimes-2022/theriotimes-2022-10-04T12:12:45.360990-03:00.lighthouse.json) |
 
 
 
