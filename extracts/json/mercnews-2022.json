@@ -1,5 +1,5 @@
 {
-  "created": 1665293171,
+  "created": 1665343425,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/16/items/mercnews-2022",
@@ -18052,31 +18052,93 @@
       "sha1": "d5693a722845a830c141d941abbe4e31272e90ba"
     },
     {
+      "name": "mercnews-2022-10-09T10:37:20.912816-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665337050",
+      "size": "41668",
+      "md5": "9e07b4df5328a3d6a473be822619184f",
+      "crc32": "19cbf80c",
+      "sha1": "a19e125d8be7506a68eadd1492d130049ee8a74e",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-10-09T10:37:20.912816-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665337051",
+      "size": "54359",
+      "md5": "76371d8ccbb1ee9453353cf474781a47",
+      "crc32": "16d09d6f",
+      "sha1": "a3f27d8819e5b8945a15e0d4fe4e6abcad001d5b",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-10-09T10:37:20.912816-07:00.jpg",
+      "source": "original",
+      "mtime": "1665337048",
+      "size": "300810",
+      "md5": "8ace9674ec0c9debaddcfffb7b1dd0c7",
+      "crc32": "c032c62d",
+      "sha1": "9bdc3ee3806a67ccb0d64531e21258cfca700910",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mercnews-2022-10-09T10:37:20.912816-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665337053",
+      "size": "1502",
+      "md5": "0ef64eed3403e3bd05db1beff94bacb8",
+      "crc32": "c8fb76e7",
+      "sha1": "b6ab9e865e8b528bde9de3f9012ef1b7ffc82983",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-10-09T10:37:20.912816-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665337055",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-10-09T10:37:20.912816-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mercnews-2022-10-09T10:37:20.912816-07:00.jpg",
+      "mtime": "1665337125",
+      "size": "9873",
+      "md5": "04ffe657f8ae3405008bf79b57ae2673",
+      "crc32": "d6f30696",
+      "sha1": "853c4564d02a526b7978874684bb448ac044d60e"
+    },
+    {
       "name": "mercnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "135c0462ef86d29c86b9f400fb3432a392ea5616",
-      "mtime": "1665293153",
-      "size": "366341",
-      "md5": "76f193c2fdeb2220d56c0897b227e142",
-      "crc32": "e24544ed",
-      "sha1": "f28b8816824c7f300482db75b3d589b99d5bbd8c",
+      "btih": "278a4f30028161e66a9d98db66caaa80e6e8b4b2",
+      "mtime": "1665337149",
+      "size": "367606",
+      "md5": "06501e960805ff17e8288ab1e8cbaede",
+      "crc32": "02a47c46",
+      "sha1": "1865b2ed2542394c71fe0d8eac0af50aa1cb06df",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mercnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "183cb77f2cb310039f5d0378f835e725",
+      "md5": "43bb472df895f53b00ada8592aadcf5c",
       "summation": "md5"
     },
     {
       "name": "mercnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665293036",
-      "size": "2080768",
-      "md5": "63fd5e8d11806f646c21855878971944",
-      "crc32": "69b3e819",
-      "sha1": "4bd0d7b212872b3172b2c792762c0e772c79dd6c",
+      "mtime": "1665337058",
+      "size": "2088960",
+      "md5": "314d3e27cb4b14c32a97796602d72564",
+      "crc32": "e58a6bb9",
+      "sha1": "b7f435f9dd3f29100807b287f05644800a60b584",
       "format": "Metadata"
     },
     {
@@ -18090,9 +18152,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1735,
-  "item_last_updated": 1665293153,
-  "item_size": 151479771,
+  "files_count": 1741,
+  "item_last_updated": 1665337149,
+  "item_size": 151897642,
+  "mercnews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "mercnews-2022",
     "collection": [
@@ -18110,7 +18177,7 @@
     "addeddate": "2022-03-23 02:09:12"
   },
   "server": "ia902507.us.archive.org",
-  "uniq": 640185913,
+  "uniq": 181169363,
   "workable_servers": [
     "ia902507.us.archive.org",
     "ia802507.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1665295682,
+  "created": 1665343434,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/10/items/milforddaily-2022",
@@ -2372,31 +2372,93 @@
       "sha1": "e8e6fbc45fb995b03fc02e2d6be319064642818e"
     },
     {
+      "name": "milforddaily-2022-10-09T13:37:00.677037-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665337024",
+      "size": "24484",
+      "md5": "bca69396c3cc6e91eca8e3ad908a19c6",
+      "crc32": "ba2c6566",
+      "sha1": "8863c9db3229b19c89e8b448dce11beaade0cb5c",
+      "format": "JSON"
+    },
+    {
+      "name": "milforddaily-2022-10-09T13:37:00.677037-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665337025",
+      "size": "32239",
+      "md5": "0b3c8321c9d04c012a018c8a2f81a8cc",
+      "crc32": "d5ebdc5b",
+      "sha1": "959fbae0663e54a577c9b67ee51c871edf9553bc",
+      "format": "JSON"
+    },
+    {
+      "name": "milforddaily-2022-10-09T13:37:00.677037-04:00.jpg",
+      "source": "original",
+      "mtime": "1665337022",
+      "size": "260098",
+      "md5": "58fa41f00791cb2cef6edebc7fcc6cc8",
+      "crc32": "1bdef101",
+      "sha1": "f1eb9d1f741e9a7144a4e0d0be910b654778c87b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "milforddaily-2022-10-09T13:37:00.677037-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665337027",
+      "size": "1549",
+      "md5": "638720396eaebcaaac1cb420cf993118",
+      "crc32": "a8ff1352",
+      "sha1": "29dc7e356e02ace279c3c7550c7255ddde15358e",
+      "format": "JSON"
+    },
+    {
+      "name": "milforddaily-2022-10-09T13:37:00.677037-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665337028",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "milforddaily-2022-10-09T13:37:00.677037-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "milforddaily-2022-10-09T13:37:00.677037-04:00.jpg",
+      "mtime": "1665337075",
+      "size": "9614",
+      "md5": "f0da4c4b565bc44f1da43b6974ddeaa8",
+      "crc32": "2b3e232e",
+      "sha1": "3167c41ec3f937f05b35c99417bd61d165696508"
+    },
+    {
       "name": "milforddaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "99ca5e6428ee5a2142f567769122717d160501b6",
-      "mtime": "1665293128",
-      "size": "50630",
-      "md5": "aa54c746c84ce099b3d95e946a56dec7",
-      "crc32": "8189f157",
-      "sha1": "dd6bf30452863e2d97cce1cc5718f954666a67b9",
+      "btih": "578b08d76ea19aee4d35f6a7facd698c3c19ec46",
+      "mtime": "1665337079",
+      "size": "51899",
+      "md5": "fd21e2694e81cc42bf6054b73febc3c5",
+      "crc32": "18ae7a02",
+      "sha1": "8b6871375185f40bcefb1c4ae3f4d9a838c0525c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "milforddaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3a883322ebb0adcc73e40c79202724ae",
+      "md5": "aa33cdc76478577b664289499cf81cd9",
       "summation": "md5"
     },
     {
       "name": "milforddaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665293079",
-      "size": "315392",
-      "md5": "54a51b1e6cf6ef7a085a155f6d6d6f26",
-      "crc32": "eb630746",
-      "sha1": "940223c33845325b27b932b211f55ca2ef7969c3",
+      "mtime": "1665337031",
+      "size": "319488",
+      "md5": "0d1bbf4ece0f0b7e245a91e5166bc57e",
+      "crc32": "c982037f",
+      "sha1": "1d069e6c6ad1b0c1cf676246b631de54d90251d3",
       "format": "Metadata"
     },
     {
@@ -2410,9 +2472,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 233,
-  "item_last_updated": 1665293128,
-  "item_size": 17511919,
+  "files_count": 239,
+  "item_last_updated": 1665337079,
+  "item_size": 17845470,
   "metadata": {
     "identifier": "milforddaily-2022",
     "collection": [
@@ -2430,17 +2492,14 @@
     "addeddate": "2022-09-20 17:36:01"
   },
   "milforddaily-2022": {
-    "url": "https://www.milforddailynews.com/",
-    "job_id": "spn2-714efa4c493588c64d92d0c6368614638913ef66",
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
-    "status_ext": "error:job-failed",
-    "resources": [],
-    "message": "Job failed."
+    "status_ext": "error:user-session-limit"
   },
-  "server": "ia601407.us.archive.org",
-  "uniq": 1419341176,
+  "server": "ia801407.us.archive.org",
+  "uniq": 1694969158,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia801407.us.archive.org",
+    "ia601407.us.archive.org"
   ]
 }
