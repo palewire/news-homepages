@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 169 screenshots with the Internet Archive.
+The archiving routine has saved 170 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 169 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kvue-2022/kvue-2022-10-09T08:04:00.657110-05:00.jpg">
+  <img src="https://archive.org/download/kvue-2022/kvue-2022-10-09T08:04:00.657110-05:00.jpg"
+     alt="KVUE at 2022-10-09 08:04:13-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-10-09T08:04:00.657110-05:00.jpg">October 9 at 8:04 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kvue-2022/kvue-2022-10-08T20:17:17.537492-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kvue-2022/kvue-2022-10-03T20:29:33.220454-05:00.jpg">October 3 at 8:29 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kvue-2022/kvue-2022-10-03T07:57:41.456219-05:00.jpg">
-  <img src="https://archive.org/download/kvue-2022/kvue-2022-10-03T07:57:41.456219-05:00.jpg"
-     alt="KVUE at 2022-10-03 07:57:54-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-10-03T07:57:41.456219-05:00.jpg">October 3 at 7:57 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 163 hyperlink lists with the Internet Archive.
+The archiving routine has saved 164 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 9 at 8:04 AM](https://archive.org/download/kvue-2022/kvue-2022-10-09T08:04:00.657110-05:00.hyperlinks.json) |
 | [October 8 at 8:17 PM](https://archive.org/download/kvue-2022/kvue-2022-10-08T20:17:17.537492-05:00.hyperlinks.json) |
 | [October 8 at 8:06 AM](https://archive.org/download/kvue-2022/kvue-2022-10-08T08:06:04.455424-05:00.hyperlinks.json) |
 | [October 7 at 8:27 PM](https://archive.org/download/kvue-2022/kvue-2022-10-07T20:27:12.370821-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 5 at 8:28 PM](https://archive.org/download/kvue-2022/kvue-2022-10-05T20:27:58.807804-05:00.hyperlinks.json) |
 | [October 5 at 8:14 AM](https://archive.org/download/kvue-2022/kvue-2022-10-05T08:13:58.738540-05:00.hyperlinks.json) |
 | [October 4 at 8:29 PM](https://archive.org/download/kvue-2022/kvue-2022-10-04T20:29:07.210474-05:00.hyperlinks.json) |
-| [October 4 at 8:01 AM](https://archive.org/download/kvue-2022/kvue-2022-10-04T08:01:17.232033-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 169 accessibility trees with the Internet Archive.
+The archiving routine has saved 170 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 9 at 8:04 AM](https://archive.org/download/kvue-2022/kvue-2022-10-09T08:04:00.657110-05:00.accessibility.json) |
 | [October 8 at 8:17 PM](https://archive.org/download/kvue-2022/kvue-2022-10-08T20:17:17.537492-05:00.accessibility.json) |
 | [October 8 at 8:06 AM](https://archive.org/download/kvue-2022/kvue-2022-10-08T08:06:04.455424-05:00.accessibility.json) |
 | [October 7 at 8:27 PM](https://archive.org/download/kvue-2022/kvue-2022-10-07T20:27:12.370821-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 5 at 8:28 PM](https://archive.org/download/kvue-2022/kvue-2022-10-05T20:27:58.807804-05:00.accessibility.json) |
 | [October 5 at 8:14 AM](https://archive.org/download/kvue-2022/kvue-2022-10-05T08:13:58.738540-05:00.accessibility.json) |
 | [October 4 at 8:29 PM](https://archive.org/download/kvue-2022/kvue-2022-10-04T20:29:07.210474-05:00.accessibility.json) |
-| [October 4 at 8:01 AM](https://archive.org/download/kvue-2022/kvue-2022-10-04T08:01:17.232033-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 156 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 157 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 9 at 8:04 AM](https://archive.org/download/kvue-2022/kvue-2022-10-09T08:04:00.657110-05:00.lighthouse.json) |
 | [October 8 at 8:17 PM](https://archive.org/download/kvue-2022/kvue-2022-10-08T20:17:17.537492-05:00.lighthouse.json) |
 | [October 8 at 8:06 AM](https://archive.org/download/kvue-2022/kvue-2022-10-08T08:06:04.455424-05:00.lighthouse.json) |
 | [October 7 at 8:27 PM](https://archive.org/download/kvue-2022/kvue-2022-10-07T20:27:12.370821-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 5 at 8:28 PM](https://archive.org/download/kvue-2022/kvue-2022-10-05T20:27:58.807804-05:00.lighthouse.json) |
 | [October 5 at 8:14 AM](https://archive.org/download/kvue-2022/kvue-2022-10-05T08:13:58.738540-05:00.lighthouse.json) |
 | [October 4 at 8:29 PM](https://archive.org/download/kvue-2022/kvue-2022-10-04T20:29:07.210474-05:00.lighthouse.json) |
-| [October 4 at 8:01 AM](https://archive.org/download/kvue-2022/kvue-2022-10-04T08:01:17.232033-05:00.lighthouse.json) |
 
 
 
