@@ -1,5 +1,6 @@
 {
-  "created": 1665293331,
+  "conflict": 1665303744,
+  "created": 1665303744,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/6/items/lemondefr-2022",
@@ -22182,31 +22183,93 @@
       "sha1": "e7855d5d4c9a2351995e0684a84a99ef15133cf9"
     },
     {
+      "name": "lemondefr-2022-10-09T10:18:37.103098+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665303526",
+      "size": "30146",
+      "md5": "f10d2b35597c98556917e25fcb7af8b5",
+      "crc32": "7c83517f",
+      "sha1": "758df97702a2fa503dfae8e62f1ff39c30db905a",
+      "format": "JSON"
+    },
+    {
+      "name": "lemondefr-2022-10-09T10:18:37.103098+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665303527",
+      "size": "46926",
+      "md5": "f9d58c41c1c6c14eab18dc2a5a2604ae",
+      "crc32": "97030c94",
+      "sha1": "6bdb432508252c479d40bb22e3d1513307508bda",
+      "format": "JSON"
+    },
+    {
+      "name": "lemondefr-2022-10-09T10:18:37.103098+02:00.jpg",
+      "source": "original",
+      "mtime": "1665303524",
+      "size": "278987",
+      "md5": "74245f71ecc249e1d0e683f0570c17af",
+      "crc32": "4fc38788",
+      "sha1": "d6157fdaf02e5459557d4334624a0feb7c78802a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lemondefr-2022-10-09T10:18:37.103098+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665303529",
+      "size": "1450",
+      "md5": "7d681cdb8bfa62fb15604e4da3667406",
+      "crc32": "ae94aed5",
+      "sha1": "9b7195be8fd51854ad1428a35b932978b296f4ca",
+      "format": "JSON"
+    },
+    {
+      "name": "lemondefr-2022-10-09T10:18:37.103098+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665303532",
+      "size": "203",
+      "md5": "1a2ebc0121609916e624bc4c9457b03e",
+      "crc32": "ed1e613c",
+      "sha1": "dab56d7c598f031c4352fa4cb5e95b7a6fd1ae26",
+      "format": "JSON"
+    },
+    {
+      "name": "lemondefr-2022-10-09T10:18:37.103098+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lemondefr-2022-10-09T10:18:37.103098+02:00.jpg",
+      "mtime": "1665303684",
+      "size": "9020",
+      "md5": "8c193c7d9bbd4b6dccf46a65caa55327",
+      "crc32": "033422fb",
+      "sha1": "ea0f6400295cf48e6d9af72013da2f1d7abeafaf"
+    },
+    {
       "name": "lemondefr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0555cc0b603d8d6d41b8cabfc64659981fb9a7b4",
-      "mtime": "1665293303",
-      "size": "451908",
-      "md5": "daa3e60a42af7548d659282dc9568e15",
-      "crc32": "228ed4fa",
-      "sha1": "38bc24b2d9fcdde31b4fde331e41ee7b7c48a79b",
+      "btih": "2f3cf77e95f0c547842556aaa33adca3487a742f",
+      "mtime": "1665303723",
+      "size": "453159",
+      "md5": "1013198a01c52749517146f2a2a67b79",
+      "crc32": "313abd46",
+      "sha1": "f3f2215c4c7d0d28b92a0a776a73cd337b715e34",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lemondefr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cb0fd5541395f7b336758f4a2441a396",
+      "md5": "22f57c97ad603ed555235d62f5851b72",
       "summation": "md5"
     },
     {
       "name": "lemondefr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665293055",
-      "size": "2613248",
-      "md5": "642b0f80cbbeb6dda5f4f54b85d19450",
-      "crc32": "f3368754",
-      "sha1": "b9a25dc4af1efceb0dbfd1dc08c96f7fe3d19d46",
+      "mtime": "1665303548",
+      "size": "2621440",
+      "md5": "9da7e252ec29244f1519e56c15c298d6",
+      "crc32": "9c45e87e",
+      "sha1": "6b0eca2f0958f93161313027d5514df79abfb8ae",
       "format": "Metadata"
     },
     {
@@ -22220,9 +22283,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2136,
-  "item_last_updated": 1665293303,
-  "item_size": 157880740,
+  "files_count": 2142,
+  "item_last_updated": 1665303723,
+  "item_size": 158256915,
   "metadata": {
     "identifier": "lemondefr-2022",
     "collection": [
@@ -22239,10 +22302,21 @@
     "publicdate": "2022-04-09 13:41:01",
     "addeddate": "2022-04-09 13:41:01"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 317818351,
+  "pending_tasks": true,
+  "server": "ia601501.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3433984773,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 685557799,
   "workable_servers": [
-    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }
