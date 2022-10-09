@@ -1,5 +1,5 @@
 {
-  "created": 1665292788,
+  "created": 1665331369,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/16/items/citylimitsnews-2022",
@@ -10822,31 +10822,93 @@
       "sha1": "f292d55181f44ff124168fbb1fe15c33a018dce7"
     },
     {
+      "name": "citylimitsnews-2022-10-09T11:59:38.819038-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665331187",
+      "size": "22023",
+      "md5": "96964ff0c4fc79704bc63627569b1dfd",
+      "crc32": "aeb10d75",
+      "sha1": "8cc75111bbda7ae0dc171762fd8cad1ea035d102",
+      "format": "JSON"
+    },
+    {
+      "name": "citylimitsnews-2022-10-09T11:59:38.819038-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665331190",
+      "size": "34164",
+      "md5": "824cb758f622c9778ce4cd86ccab0b87",
+      "crc32": "a4c1f0e6",
+      "sha1": "b8422e37865c979e5f65ec7dc4cce8c7662f860f",
+      "format": "JSON"
+    },
+    {
+      "name": "citylimitsnews-2022-10-09T11:59:38.819038-04:00.jpg",
+      "source": "original",
+      "mtime": "1665331185",
+      "size": "287463",
+      "md5": "5816f9b38978859b103640bf1ba5bb82",
+      "crc32": "39aa7bff",
+      "sha1": "f5b4f258cf7fbff2f4bb6b58e5784c27379d2728",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "citylimitsnews-2022-10-09T11:59:38.819038-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665331191",
+      "size": "1457",
+      "md5": "4340cb49b9a753bea732083284564243",
+      "crc32": "91aeee4d",
+      "sha1": "f2bd3cd79c9c4f05d9789ce8c542e2ee79775767",
+      "format": "JSON"
+    },
+    {
+      "name": "citylimitsnews-2022-10-09T11:59:38.819038-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665331193",
+      "size": "380",
+      "md5": "a399ee890aa8bd3685fb86a91eddcc25",
+      "crc32": "89fbcad9",
+      "sha1": "cf1fbc1d52fff1f976e03b7e1fc0694f7133d837",
+      "format": "JSON"
+    },
+    {
+      "name": "citylimitsnews-2022-10-09T11:59:38.819038-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "citylimitsnews-2022-10-09T11:59:38.819038-04:00.jpg",
+      "mtime": "1665331296",
+      "size": "10196",
+      "md5": "926f00ba5f883ce16294ee1940c25912",
+      "crc32": "deb74cf1",
+      "sha1": "f292d55181f44ff124168fbb1fe15c33a018dce7"
+    },
+    {
       "name": "citylimitsnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d104682ba732c05634a41a1433817b6f24adab87",
-      "mtime": "1665292770",
-      "size": "226984",
-      "md5": "ccc9c3cda379bdadd91493ae5df0e0a2",
-      "crc32": "bad723ff",
-      "sha1": "bd69a30629385894d549c2cb5eb76f5dca5b6ca8",
+      "btih": "85ae3922dfc4a09b04c0353ea6b2089926dc5498",
+      "mtime": "1665331312",
+      "size": "228286",
+      "md5": "de105aeaec426771a683fecddf0de12f",
+      "crc32": "dae816d9",
+      "sha1": "2a7c0ca2830ebece4fb0957c73aee898a3ca1614",
       "format": "Archive BitTorrent"
     },
     {
       "name": "citylimitsnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "247baafa11b6dd0ce0b7aee3ea92cfb5",
+      "md5": "c23e091ebe9747a8cb8824af1b43bb56",
       "summation": "md5"
     },
     {
       "name": "citylimitsnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665292686",
-      "size": "1327104",
-      "md5": "68ec161d467de767a739becbb9cf0366",
-      "crc32": "eb1ba75d",
-      "sha1": "290c9552a4412b611f8d6f034c5ae6f12d31aae7",
+      "mtime": "1665331197",
+      "size": "1335296",
+      "md5": "34935bfedce6eee5b34970ac115b40db",
+      "crc32": "b6c1a3b6",
+      "sha1": "64087eb69231eec42714d9158852c635a779223a",
       "format": "Metadata"
     },
     {
@@ -10860,9 +10922,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1048,
-  "item_last_updated": 1665292770,
-  "item_size": 62612664,
+  "files_count": 1054,
+  "item_last_updated": 1665331312,
+  "item_size": 62977841,
   "metadata": {
     "identifier": "citylimitsnews-2022",
     "collection": [
@@ -10879,10 +10941,10 @@
     "publicdate": "2022-07-09 03:57:03",
     "addeddate": "2022-07-09 03:57:03"
   },
-  "server": "ia802506.us.archive.org",
-  "uniq": 105258789,
+  "server": "ia902506.us.archive.org",
+  "uniq": 1291694827,
   "workable_servers": [
-    "ia802506.us.archive.org",
-    "ia902506.us.archive.org"
+    "ia902506.us.archive.org",
+    "ia802506.us.archive.org"
   ]
 }

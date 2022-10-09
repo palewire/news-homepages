@@ -1,5 +1,5 @@
 {
-  "created": 1665292781,
+  "created": 1665331426,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/11/items/chesscom-2022",
@@ -9784,31 +9784,93 @@
       "sha1": "69435a42e742b73a685c457e7a5a767214edc606"
     },
     {
+      "name": "chesscom-2022-10-09T09:00:20.781778-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665331230",
+      "size": "26382",
+      "md5": "c6aa97e060d876ec2a449d5123514b08",
+      "crc32": "5008dce9",
+      "sha1": "eb782149928f20a88553ff8d6051932936155e60",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-09T09:00:20.781778-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665331234",
+      "size": "17467",
+      "md5": "312d134b0724af2c2a46f04b8c427d36",
+      "crc32": "5a9b5d59",
+      "sha1": "03c93272ba69b688b8087fe8c856f906308e9d64",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-09T09:00:20.781778-07:00.jpg",
+      "source": "original",
+      "mtime": "1665331228",
+      "size": "240246",
+      "md5": "b735739b11f900358caa025053c96e62",
+      "crc32": "8bf821d6",
+      "sha1": "f0cdb5be14676c90f55c37f4f9922560d3c70e8c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesscom-2022-10-09T09:00:20.781778-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665331236",
+      "size": "1485",
+      "md5": "c52833d4ed1520e9c537061c3f4cdf95",
+      "crc32": "03ec4c9c",
+      "sha1": "d9ee52eda7a761fac0a636b570b6becd53383092",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-09T09:00:20.781778-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665331238",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-09T09:00:20.781778-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesscom-2022-10-09T09:00:20.781778-07:00.jpg",
+      "mtime": "1665331395",
+      "size": "9860",
+      "md5": "d5c9bd9d1d70eeff138e182d17eac88e",
+      "crc32": "6e5eced2",
+      "sha1": "610d68e0cc581780d48c0e7092cae812db63bb96"
+    },
+    {
       "name": "chesscom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2798377064934f5135317c6f0141a1fcc872120d",
-      "mtime": "1665292775",
-      "size": "199654",
-      "md5": "89027cb7a06227fafe66399648ff951f",
-      "crc32": "a8f69ea3",
-      "sha1": "c757983f8493126f4358da013c06fc88711fb5eb",
+      "btih": "6cd32fc7abc5225f9441651e87acd0291909bd2e",
+      "mtime": "1665331410",
+      "size": "200919",
+      "md5": "6924942d531c0a3f9b6f4fd8e0534efc",
+      "crc32": "f2f47c84",
+      "sha1": "aa7ec875e74f1ae12e6982ff875c3583fd1d765d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chesscom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "eaa6f2ee1a2b5d4c7c13b32dc78393f7",
+      "md5": "eddd083804cabcc72c757d51dc869537",
       "summation": "md5"
     },
     {
       "name": "chesscom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665292716",
-      "size": "1200128",
-      "md5": "fa35c7e0e7cc738b76bb9f2e3c1733ee",
-      "crc32": "af0153b1",
-      "sha1": "cdcd392c30bd18b5923b85aff64a964f049ce358",
+      "mtime": "1665331305",
+      "size": "1212416",
+      "md5": "574426fc451efafda1e8240c86d9876f",
+      "crc32": "85e08ebd",
+      "sha1": "0f0bfce96bfa0dbe21c137c8521452428d2586e7",
       "format": "Metadata"
     },
     {
@@ -9822,9 +9884,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 949,
-  "item_last_updated": 1665292775,
-  "item_size": 50974916,
+  "files_count": 955,
+  "item_last_updated": 1665331410,
+  "item_size": 51284111,
   "metadata": {
     "identifier": "chesscom-2022",
     "collection": [
@@ -9842,7 +9904,7 @@
     "addeddate": "2022-07-20 11:23:26"
   },
   "server": "ia902507.us.archive.org",
-  "uniq": 1657465158,
+  "uniq": 900173501,
   "workable_servers": [
     "ia902507.us.archive.org",
     "ia802507.us.archive.org"

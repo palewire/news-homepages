@@ -1,5 +1,5 @@
 {
-  "created": 1665292381,
+  "created": 1665331155,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/7/items/amarujalanews-2022",
@@ -8868,31 +8868,93 @@
       "sha1": "959a6f447d826a913b131d74368631b72e968102"
     },
     {
+      "name": "amarujalanews-2022-10-09T21:27:33.968479+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1665331068",
+      "size": "26887",
+      "md5": "a8d79f41587c77aca45569ed2172ba5d",
+      "crc32": "8802a7d8",
+      "sha1": "2fd2f83810104fce767602b78860f005a0acf4af",
+      "format": "JSON"
+    },
+    {
+      "name": "amarujalanews-2022-10-09T21:27:33.968479+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665331070",
+      "size": "26815",
+      "md5": "500fad0a2ddd4eb50c1668be37721c26",
+      "crc32": "d3131a30",
+      "sha1": "b7d962636e6434496287435ca33fd455bc84dc85",
+      "format": "JSON"
+    },
+    {
+      "name": "amarujalanews-2022-10-09T21:27:33.968479+05:30.jpg",
+      "source": "original",
+      "mtime": "1665331066",
+      "size": "275319",
+      "md5": "26b171f7bf3b067a6a169cc489214364",
+      "crc32": "585019a6",
+      "sha1": "38e5b97a7752a24da76c37c8ea674fe0d8f11a87",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amarujalanews-2022-10-09T21:27:33.968479+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1665331072",
+      "size": "1483",
+      "md5": "3d71b93c8a999eec82d19019ccdc05bc",
+      "crc32": "f69d016f",
+      "sha1": "8dc7256806b1f04a20f34ef20ad991607b7aa7e6",
+      "format": "JSON"
+    },
+    {
+      "name": "amarujalanews-2022-10-09T21:27:33.968479+05:30.wayback.json",
+      "source": "original",
+      "mtime": "1665331074",
+      "size": "43541",
+      "md5": "8c1d4255545d02d81819ddad22aa368d",
+      "crc32": "e2ac4684",
+      "sha1": "fed762177f72ac634ec9ebff9141051de5d2c94d",
+      "format": "JSON"
+    },
+    {
+      "name": "amarujalanews-2022-10-09T21:27:33.968479+05:30_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amarujalanews-2022-10-09T21:27:33.968479+05:30.jpg",
+      "mtime": "1665331133",
+      "size": "9315",
+      "md5": "fb954669a483ec6e16832f76e37bca15",
+      "crc32": "68740114",
+      "sha1": "3113d024c22bf0c4ba4ec7e3e7f3cb2e5b3a6b29"
+    },
+    {
       "name": "amarujalanews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0b565665ebdea7fe86547b522d71576eef23f9b4",
-      "mtime": "1665292372",
-      "size": "186463",
-      "md5": "04066140704577bfe2deed3771dda829",
-      "crc32": "00846d4f",
-      "sha1": "6cb997f852821fbec98a2744e57f320260864b75",
+      "btih": "0d9d9fa57a89ef1af669072d4e33ad2adba3e4a0",
+      "mtime": "1665331145",
+      "size": "187760",
+      "md5": "ff50ac9bdcf14ccd556b2d111d474760",
+      "crc32": "508398d3",
+      "sha1": "00699f57ca415cddf94c788db6e7429d2eda59af",
       "format": "Archive BitTorrent"
     },
     {
       "name": "amarujalanews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d180e1eff00dc59f312590d1af066412",
+      "md5": "d8869f3cf5f2ab15c0d01ed43cd243f4",
       "summation": "md5"
     },
     {
       "name": "amarujalanews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665292301",
-      "size": "1105920",
-      "md5": "6bbe73e950483b967b351cdefb5905bd",
-      "crc32": "ebbea3f1",
-      "sha1": "1df09628f13693aeaf0e89e5f1283ef7b535d538",
+      "mtime": "1665331078",
+      "size": "1114112",
+      "md5": "bb2a9f37514deef2ea5dcc054f650a0f",
+      "crc32": "84afd5d5",
+      "sha1": "9c1c7e7c0434a71ad9bfce0f26f84b5eaeb92b8a",
       "format": "Metadata"
     },
     {
@@ -8906,9 +8968,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 861,
-  "item_last_updated": 1665292372,
-  "item_size": 69309895,
+  "files_count": 867,
+  "item_last_updated": 1665331145,
+  "item_size": 69702744,
   "metadata": {
     "identifier": "amarujalanews-2022",
     "collection": [
@@ -8925,10 +8987,10 @@
     "publicdate": "2022-07-27 17:18:18",
     "addeddate": "2022-07-27 17:18:18"
   },
-  "server": "ia802500.us.archive.org",
-  "uniq": 1565646485,
+  "server": "ia902500.us.archive.org",
+  "uniq": 1450883985,
   "workable_servers": [
-    "ia802500.us.archive.org",
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }
