@@ -437,7 +437,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 482 hyperlink lists with the Internet Archive.
+The archiving routine has saved 485 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 8 at 12:50 PM](https://archive.org/download/laist-2022/laist-2022-10-08T12:50:33.450202-07:00.hyperlinks.json) |
+| [October 8 at 10:39 AM](https://archive.org/download/laist-2022/laist-2022-10-08T10:39:35.647237-07:00.hyperlinks.json) |
+| [October 7 at 10:42 PM](https://archive.org/download/laist-2022/laist-2022-10-07T22:42:42.199742-07:00.hyperlinks.json) |
 | [October 7 at 1:34 PM](https://archive.org/download/laist-2022/laist-2022-10-07T13:34:57.141193-07:00.hyperlinks.json) |
 | [October 7 at 11:00 AM](https://archive.org/download/laist-2022/laist-2022-10-07T10:59:56.381019-07:00.hyperlinks.json) |
 | [October 6 at 11:17 PM](https://archive.org/download/laist-2022/laist-2022-10-06T23:17:45.173403-07:00.hyperlinks.json) |
@@ -535,9 +538,6 @@ Here are the 10 most recent hyperlink lists.
 | [October 6 at 10:46 AM](https://archive.org/download/laist-2022/laist-2022-10-06T10:46:09.851007-07:00.hyperlinks.json) |
 | [October 5 at 10:45 PM](https://archive.org/download/laist-2022/laist-2022-10-05T22:44:51.233057-07:00.hyperlinks.json) |
 | [October 5 at 1:56 PM](https://archive.org/download/laist-2022/laist-2022-10-05T13:56:43.154355-07:00.hyperlinks.json) |
-| [October 5 at 11:23 AM](https://archive.org/download/laist-2022/laist-2022-10-05T11:22:59.823946-07:00.hyperlinks.json) |
-| [October 4 at 10:51 PM](https://archive.org/download/laist-2022/laist-2022-10-04T22:51:05.647494-07:00.hyperlinks.json) |
-| [October 4 at 1:16 PM](https://archive.org/download/laist-2022/laist-2022-10-04T13:16:20.711425-07:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 220 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 223 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 8 at 12:50 PM](https://archive.org/download/laist-2022/laist-2022-10-08T12:50:33.450202-07:00.lighthouse.json) |
+| [October 8 at 10:39 AM](https://archive.org/download/laist-2022/laist-2022-10-08T10:39:35.647237-07:00.lighthouse.json) |
+| [October 7 at 10:42 PM](https://archive.org/download/laist-2022/laist-2022-10-07T22:42:42.199742-07:00.lighthouse.json) |
 | [October 7 at 1:35 PM](https://archive.org/download/laist-2022/laist-2022-10-07T13:34:57.141193-07:00.lighthouse.json) |
 | [October 7 at 11:00 AM](https://archive.org/download/laist-2022/laist-2022-10-07T10:59:56.381019-07:00.lighthouse.json) |
 | [October 6 at 11:17 PM](https://archive.org/download/laist-2022/laist-2022-10-06T23:17:45.173403-07:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 6 at 10:46 AM](https://archive.org/download/laist-2022/laist-2022-10-06T10:46:09.851007-07:00.lighthouse.json) |
 | [October 5 at 10:45 PM](https://archive.org/download/laist-2022/laist-2022-10-05T22:44:51.233057-07:00.lighthouse.json) |
 | [October 5 at 1:56 PM](https://archive.org/download/laist-2022/laist-2022-10-05T13:56:43.154355-07:00.lighthouse.json) |
-| [October 5 at 11:23 AM](https://archive.org/download/laist-2022/laist-2022-10-05T11:22:59.823946-07:00.lighthouse.json) |
-| [October 4 at 10:51 PM](https://archive.org/download/laist-2022/laist-2022-10-04T22:51:05.647494-07:00.lighthouse.json) |
-| [October 4 at 1:16 PM](https://archive.org/download/laist-2022/laist-2022-10-04T13:16:20.711425-07:00.lighthouse.json) |
 
 
 

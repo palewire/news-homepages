@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 179 screenshots with the Internet Archive.
+The archiving routine has saved 181 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-08T20:07:34.110689-03:00.jpg">
+  <img src="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-08T20:07:34.110689-03:00.jpg"
+     alt="CNN Brasil at 2022-10-08 20:07:36-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-08T20:07:34.110689-03:00.jpg">October 8 at 8:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-08T09:00:57.772805-03:00.jpg">
+  <img src="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-08T09:00:57.772805-03:00.jpg"
+     alt="CNN Brasil at 2022-10-08 09:00:59-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-08T09:00:57.772805-03:00.jpg">October 8 at 9:00 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-08T07:53:18.169714-03:00.jpg">
   <img src="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-08T07:53:18.169714-03:00.jpg"
      alt="CNN Brasil at 2022-10-08 07:53:19-03:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-04T20:03:39.359982-03:00.jpg">October 4 at 8:03 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-04T09:09:31.169051-03:00.jpg">
-  <img src="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-04T09:09:31.169051-03:00.jpg"
-     alt="CNN Brasil at 2022-10-04 09:09:32-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-04T09:09:31.169051-03:00.jpg">October 4 at 9:09 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-04T08:04:41.281788-03:00.jpg">
-  <img src="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-04T08:04:41.281788-03:00.jpg"
-     alt="CNN Brasil at 2022-10-04 08:04:42-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-04T08:04:41.281788-03:00.jpg">October 4 at 8:04 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 178 hyperlink lists with the Internet Archive.
+The archiving routine has saved 180 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 8 at 8:07 PM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-08T20:07:34.110689-03:00.hyperlinks.json) |
+| [October 8 at 9:01 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-08T09:00:57.772805-03:00.hyperlinks.json) |
 | [October 8 at 7:53 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-08T07:53:18.169714-03:00.hyperlinks.json) |
 | [October 7 at 8:06 PM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-07T20:06:19.110158-03:00.hyperlinks.json) |
 | [October 7 at 8:09 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-07T08:09:43.529391-03:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 5 at 7:58 PM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-05T19:57:53.258173-03:00.hyperlinks.json) |
 | [October 5 at 9:18 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-05T09:18:43.974252-03:00.hyperlinks.json) |
 | [October 5 at 8:02 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-05T08:02:11.167929-03:00.hyperlinks.json) |
-| [October 4 at 8:03 PM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-04T20:03:39.359982-03:00.hyperlinks.json) |
-| [October 4 at 9:09 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-04T09:09:31.169051-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 179 accessibility trees with the Internet Archive.
+The archiving routine has saved 181 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 8 at 8:07 PM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-08T20:07:34.110689-03:00.accessibility.json) |
+| [October 8 at 9:01 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-08T09:00:57.772805-03:00.accessibility.json) |
 | [October 8 at 7:53 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-08T07:53:18.169714-03:00.accessibility.json) |
 | [October 7 at 8:06 PM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-07T20:06:19.110158-03:00.accessibility.json) |
 | [October 7 at 8:09 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-07T08:09:43.529391-03:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 6 at 7:45 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-06T07:44:58.169997-03:00.accessibility.json) |
 | [October 5 at 7:57 PM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-05T19:57:53.258173-03:00.accessibility.json) |
 | [October 5 at 9:18 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-05T09:18:43.974252-03:00.accessibility.json) |
-| [October 5 at 8:02 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-05T08:02:11.167929-03:00.accessibility.json) |
-| [October 4 at 8:03 PM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-04T20:03:39.359982-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 180 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 182 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 8 at 8:07 PM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-08T20:07:34.110689-03:00.lighthouse.json) |
+| [October 8 at 9:01 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-08T09:00:57.772805-03:00.lighthouse.json) |
 | [October 8 at 7:53 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-08T07:53:18.169714-03:00.lighthouse.json) |
 | [October 7 at 8:06 PM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-07T20:06:19.110158-03:00.lighthouse.json) |
 | [October 7 at 8:09 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-07T08:09:43.529391-03:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 6 at 7:45 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-06T07:44:58.169997-03:00.lighthouse.json) |
 | [October 5 at 7:58 PM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-05T19:57:53.258173-03:00.lighthouse.json) |
 | [October 5 at 9:18 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-05T09:18:43.974252-03:00.lighthouse.json) |
-| [October 5 at 8:02 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-05T08:02:11.167929-03:00.lighthouse.json) |
-| [October 4 at 8:03 PM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-10-04T20:03:39.359982-03:00.lighthouse.json) |
 
 
 

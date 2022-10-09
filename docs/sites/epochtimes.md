@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 164 screenshots with the Internet Archive.
+The archiving routine has saved 166 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-10-08T20:04:44.851592-04:00.jpg">
+  <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-10-08T20:04:44.851592-04:00.jpg"
+     alt="Epoch Times at 2022-10-08 20:05:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-10-08T20:04:44.851592-04:00.jpg">October 8 at 8:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-10-08T15:50:50.939257-04:00.jpg">
+  <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-10-08T15:50:50.939257-04:00.jpg"
+     alt="Epoch Times at 2022-10-08 15:51:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-10-08T15:50:50.939257-04:00.jpg">October 8 at 3:51 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-10-08T07:56:06.583569-04:00.jpg">
   <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-10-08T07:56:06.583569-04:00.jpg"
      alt="Epoch Times at 2022-10-08 07:56:28-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-10-05T08:15:47.189972-04:00.jpg">October 5 at 8:16 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-10-04T19:55:55.296298-04:00.jpg">
-  <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-10-04T19:55:55.296298-04:00.jpg"
-     alt="Epoch Times at 2022-10-04 19:55:56-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-10-04T19:55:55.296298-04:00.jpg">October 4 at 7:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-10-04T16:14:18.336806-04:00.jpg">
-  <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-10-04T16:14:18.336806-04:00.jpg"
-     alt="Epoch Times at 2022-10-04 16:14:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-10-04T16:14:18.336806-04:00.jpg">October 4 at 4:14 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 164 hyperlink lists with the Internet Archive.
+The archiving routine has saved 166 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 8 at 8:05 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-08T20:04:44.851592-04:00.hyperlinks.json) |
+| [October 8 at 3:51 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-08T15:50:50.939257-04:00.hyperlinks.json) |
 | [October 8 at 7:56 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-08T07:56:06.583569-04:00.hyperlinks.json) |
 | [October 7 at 8:07 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-07T20:06:33.897690-04:00.hyperlinks.json) |
 | [October 7 at 4:32 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-07T16:32:21.095450-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 6 at 4:59 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-06T16:59:12.153153-04:00.hyperlinks.json) |
 | [October 6 at 4:54 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-06T16:54:25.437935-04:00.hyperlinks.json) |
 | [October 5 at 7:50 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-05T19:50:51.351332-04:00.hyperlinks.json) |
-| [October 5 at 4:59 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-05T16:59:05.598879-04:00.hyperlinks.json) |
-| [October 5 at 8:16 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-05T08:15:47.189972-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 164 accessibility trees with the Internet Archive.
+The archiving routine has saved 166 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 8 at 8:05 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-08T20:04:44.851592-04:00.accessibility.json) |
+| [October 8 at 3:51 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-08T15:50:50.939257-04:00.accessibility.json) |
 | [October 8 at 7:56 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-08T07:56:06.583569-04:00.accessibility.json) |
 | [October 7 at 8:07 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-07T20:06:33.897690-04:00.accessibility.json) |
 | [October 7 at 4:32 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-07T16:32:21.095450-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 6 at 4:59 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-06T16:59:12.153153-04:00.accessibility.json) |
 | [October 6 at 4:54 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-06T16:54:25.437935-04:00.accessibility.json) |
 | [October 5 at 7:50 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-05T19:50:51.351332-04:00.accessibility.json) |
-| [October 5 at 4:59 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-05T16:59:05.598879-04:00.accessibility.json) |
-| [October 5 at 8:16 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-05T08:15:47.189972-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 165 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 167 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 8 at 8:05 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-08T20:04:44.851592-04:00.lighthouse.json) |
+| [October 8 at 3:51 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-08T15:50:50.939257-04:00.lighthouse.json) |
 | [October 8 at 7:56 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-08T07:56:06.583569-04:00.lighthouse.json) |
 | [October 7 at 8:07 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-07T20:06:33.897690-04:00.lighthouse.json) |
 | [October 7 at 4:32 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-07T16:32:21.095450-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 6 at 4:59 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-06T16:59:12.153153-04:00.lighthouse.json) |
 | [October 6 at 4:54 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-06T16:54:25.437935-04:00.lighthouse.json) |
 | [October 5 at 7:50 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-05T19:50:51.351332-04:00.lighthouse.json) |
-| [October 5 at 4:59 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-05T16:59:05.598879-04:00.lighthouse.json) |
-| [October 5 at 8:16 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-10-05T08:15:47.189972-04:00.lighthouse.json) |
 
 
 
