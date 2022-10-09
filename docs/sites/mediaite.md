@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 90 screenshots with the Internet Archive.
+The archiving routine has saved 91 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 90 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mediaite-2022/mediaite-2022-10-08T21:19:51.867634-04:00.jpg">
+  <img src="https://archive.org/download/mediaite-2022/mediaite-2022-10-08T21:19:51.867634-04:00.jpg"
+     alt="Mediaite at 2022-10-08 21:19:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-10-08T21:19:51.867634-04:00.jpg">October 8 at 9:19 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mediaite-2022/mediaite-2022-10-08T09:06:27.096926-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-10-03T08:59:55.201803-04:00.jpg">October 3 at 8:59 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mediaite-2022/mediaite-2022-10-02T21:17:31.105449-04:00.jpg">
-  <img src="https://archive.org/download/mediaite-2022/mediaite-2022-10-02T21:17:31.105449-04:00.jpg"
-     alt="Mediaite at 2022-10-02 21:17:32-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-10-02T21:17:31.105449-04:00.jpg">October 2 at 9:17 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 91 hyperlink lists with the Internet Archive.
+The archiving routine has saved 92 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 8 at 9:19 PM](https://archive.org/download/mediaite-2022/mediaite-2022-10-08T21:19:51.867634-04:00.hyperlinks.json) |
 | [October 8 at 9:06 AM](https://archive.org/download/mediaite-2022/mediaite-2022-10-08T09:06:27.096926-04:00.hyperlinks.json) |
 | [October 7 at 9:31 PM](https://archive.org/download/mediaite-2022/mediaite-2022-10-07T21:30:47.565307-04:00.hyperlinks.json) |
 | [October 7 at 9:12 AM](https://archive.org/download/mediaite-2022/mediaite-2022-10-07T09:12:49.396890-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 5 at 9:16 AM](https://archive.org/download/mediaite-2022/mediaite-2022-10-05T09:15:49.260140-04:00.hyperlinks.json) |
 | [October 4 at 9:32 PM](https://archive.org/download/mediaite-2022/mediaite-2022-10-04T21:32:52.800781-04:00.hyperlinks.json) |
 | [October 4 at 9:04 AM](https://archive.org/download/mediaite-2022/mediaite-2022-10-04T09:04:32.266621-04:00.hyperlinks.json) |
-| [October 3 at 9:32 PM](https://archive.org/download/mediaite-2022/mediaite-2022-10-03T21:31:55.937833-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 92 accessibility trees with the Internet Archive.
+The archiving routine has saved 93 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 8 at 9:19 PM](https://archive.org/download/mediaite-2022/mediaite-2022-10-08T21:19:51.867634-04:00.accessibility.json) |
 | [October 8 at 9:06 AM](https://archive.org/download/mediaite-2022/mediaite-2022-10-08T09:06:27.096926-04:00.accessibility.json) |
 | [October 7 at 9:31 PM](https://archive.org/download/mediaite-2022/mediaite-2022-10-07T21:30:47.565307-04:00.accessibility.json) |
 | [October 7 at 9:12 AM](https://archive.org/download/mediaite-2022/mediaite-2022-10-07T09:12:49.396890-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 5 at 9:15 AM](https://archive.org/download/mediaite-2022/mediaite-2022-10-05T09:15:49.260140-04:00.accessibility.json) |
 | [October 4 at 9:32 PM](https://archive.org/download/mediaite-2022/mediaite-2022-10-04T21:32:52.800781-04:00.accessibility.json) |
 | [October 4 at 9:04 AM](https://archive.org/download/mediaite-2022/mediaite-2022-10-04T09:04:32.266621-04:00.accessibility.json) |
-| [October 3 at 9:32 PM](https://archive.org/download/mediaite-2022/mediaite-2022-10-03T21:31:55.937833-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 92 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 93 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 8 at 9:20 PM](https://archive.org/download/mediaite-2022/mediaite-2022-10-08T21:19:51.867634-04:00.lighthouse.json) |
 | [October 8 at 9:06 AM](https://archive.org/download/mediaite-2022/mediaite-2022-10-08T09:06:27.096926-04:00.lighthouse.json) |
 | [October 7 at 9:31 PM](https://archive.org/download/mediaite-2022/mediaite-2022-10-07T21:30:47.565307-04:00.lighthouse.json) |
 | [October 7 at 9:13 AM](https://archive.org/download/mediaite-2022/mediaite-2022-10-07T09:12:49.396890-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 5 at 9:16 AM](https://archive.org/download/mediaite-2022/mediaite-2022-10-05T09:15:49.260140-04:00.lighthouse.json) |
 | [October 4 at 9:33 PM](https://archive.org/download/mediaite-2022/mediaite-2022-10-04T21:32:52.800781-04:00.lighthouse.json) |
 | [October 4 at 9:04 AM](https://archive.org/download/mediaite-2022/mediaite-2022-10-04T09:04:32.266621-04:00.lighthouse.json) |
-| [October 3 at 9:32 PM](https://archive.org/download/mediaite-2022/mediaite-2022-10-03T21:31:55.937833-04:00.lighthouse.json) |
 
 
 
