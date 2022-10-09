@@ -1,5 +1,10 @@
 {
-  "created": 1665207530,
+  "avherald-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1665295622,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/33/items/avherald-2022",
@@ -5866,31 +5871,155 @@
       "sha1": "be19bdce4e688ac0e3e862896d31594ecc44109a"
     },
     {
+      "name": "avherald-2022-10-08T18:11:18.883682+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665245482",
+      "size": "18874",
+      "md5": "fd17a1fca0daea51c7ecb8954899f6d7",
+      "crc32": "edfcaadc",
+      "sha1": "15d6554a80ae33750e2eeb2de330eeb2a67c6915",
+      "format": "JSON"
+    },
+    {
+      "name": "avherald-2022-10-08T18:11:18.883682+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665245484",
+      "size": "7652",
+      "md5": "e8f21031d0d649bbaaec3aa0f4cbf696",
+      "crc32": "b99efad1",
+      "sha1": "dc3469448dbc99c1962280befa2c0e7ec7ae392c",
+      "format": "JSON"
+    },
+    {
+      "name": "avherald-2022-10-08T18:11:18.883682+02:00.jpg",
+      "source": "original",
+      "mtime": "1665245480",
+      "size": "290106",
+      "md5": "9cb042fae767beb8dabc080679a527ae",
+      "crc32": "5817b523",
+      "sha1": "b5eb440db711cf0dab666fd6f03ecc720e764da8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "avherald-2022-10-08T18:11:18.883682+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665245486",
+      "size": "1441",
+      "md5": "1183a5c1070ac4f78faf9b726ac3ce40",
+      "crc32": "f6d12e3b",
+      "sha1": "15a72886608c09c41ca2c7356b42d9a674fca80d",
+      "format": "JSON"
+    },
+    {
+      "name": "avherald-2022-10-08T18:11:18.883682+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665245487",
+      "size": "201",
+      "md5": "a7f0887c5a31ef243730d8cce1041998",
+      "crc32": "20cef06c",
+      "sha1": "cbc09c35f72e83b29808584a78f839e7f69e337c",
+      "format": "JSON"
+    },
+    {
+      "name": "avherald-2022-10-08T18:11:18.883682+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "avherald-2022-10-08T18:11:18.883682+02:00.jpg",
+      "mtime": "1665245557",
+      "size": "8098",
+      "md5": "f6af8c602b74ddc76bcb12d6fd73532b",
+      "crc32": "34b31718",
+      "sha1": "be19bdce4e688ac0e3e862896d31594ecc44109a"
+    },
+    {
+      "name": "avherald-2022-10-09T07:10:59.581906+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665292265",
+      "size": "18700",
+      "md5": "970cd52c437ae96373580de161f9f270",
+      "crc32": "b2d29b11",
+      "sha1": "510e61097915c10227f89b2555d7f47cd87b448d",
+      "format": "JSON"
+    },
+    {
+      "name": "avherald-2022-10-09T07:10:59.581906+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665292267",
+      "size": "7509",
+      "md5": "bb2168449d4c07ca85a4b09fdd458387",
+      "crc32": "03cde8c1",
+      "sha1": "73ff9e9a8341cbf26c41c3226e0cd4245d73bcb3",
+      "format": "JSON"
+    },
+    {
+      "name": "avherald-2022-10-09T07:10:59.581906+02:00.jpg",
+      "source": "original",
+      "mtime": "1665292264",
+      "size": "289246",
+      "md5": "857ec6d47eda9f50420b7fa8d0999a8f",
+      "crc32": "93b254af",
+      "sha1": "5b4fde208a0cae9e43de6d073db3c45a5a9ba2fd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "avherald-2022-10-09T07:10:59.581906+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665292268",
+      "size": "1441",
+      "md5": "4af9f167934e039852bf2af59bb0a4a0",
+      "crc32": "9ef80a90",
+      "sha1": "1f1b7698ada6adc7b1fcffb658f64ecc1f24088b",
+      "format": "JSON"
+    },
+    {
+      "name": "avherald-2022-10-09T07:10:59.581906+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665292270",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "avherald-2022-10-09T07:10:59.581906+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "avherald-2022-10-09T07:10:59.581906+02:00.jpg",
+      "mtime": "1665292341",
+      "size": "8126",
+      "md5": "ad4cf0022e414d6c690b3b3cf32150d7",
+      "crc32": "6ad214eb",
+      "sha1": "d6b60a0a76c174e67cf6053e2f5d45c4c5dc2df2"
+    },
+    {
       "name": "avherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0454b06b74b69ed17f7cd8986ac822b3f9cca033",
-      "mtime": "1665207515",
-      "size": "120267",
-      "md5": "95ac1c34b2207b28ddf0700f19d4af43",
-      "crc32": "49698466",
-      "sha1": "08dc68bde01e26c146bee22e6d0e1bab0ece9ee6",
+      "btih": "3a975622a1a119f16e3ed50eaaa74584fb7de974",
+      "mtime": "1665292348",
+      "size": "122775",
+      "md5": "11806da3678bf15ffc6e2c680b12f017",
+      "crc32": "6079c94a",
+      "sha1": "623393817db9023ce871a7e604768416a188b8b3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "avherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f11a63450284133a8b6eaf23ad3b24bc",
+      "md5": "3ce39f1b3c84a63762db9f2e261f902d",
       "summation": "md5"
     },
     {
       "name": "avherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665207441",
-      "size": "733184",
-      "md5": "4980245b20b67ca84ddf52dde0116c80",
-      "crc32": "5ab9fb73",
-      "sha1": "a17af1fbb498d12935eabc4c897a4f6865a8b816",
+      "mtime": "1665292281",
+      "size": "753664",
+      "md5": "922b08e3b815a40b3135398cb98de1fa",
+      "crc32": "053d0a33",
+      "sha1": "1f6a880568db7bf5e536028e199a27248d9b91f1",
       "format": "Metadata"
     },
     {
@@ -5904,9 +6033,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 571,
-  "item_last_updated": 1665207515,
-  "item_size": 32233319,
+  "files_count": 583,
+  "item_last_updated": 1665292348,
+  "item_size": 32907903,
   "metadata": {
     "identifier": "avherald-2022",
     "collection": [
@@ -5923,10 +6052,10 @@
     "publicdate": "2022-08-21 01:14:22",
     "addeddate": "2022-08-21 01:14:22"
   },
-  "server": "ia601509.us.archive.org",
-  "uniq": 2032753820,
+  "server": "ia801509.us.archive.org",
+  "uniq": 2139800669,
   "workable_servers": [
-    "ia601509.us.archive.org",
-    "ia801509.us.archive.org"
+    "ia801509.us.archive.org",
+    "ia601509.us.archive.org"
   ]
 }
