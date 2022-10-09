@@ -1,5 +1,5 @@
 {
-  "created": 1665287021,
+  "created": 1665327509,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/17/items/spokesmanreview-2022",
@@ -10900,31 +10900,93 @@
       "sha1": "a1e4cc171ed30d6baf97fb4ef2fe091e8b00ca10"
     },
     {
+      "name": "spokesmanreview-2022-10-09T07:56:33.029149-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665327401",
+      "size": "1028",
+      "md5": "78a541778c3f767e76511072d333ba03",
+      "crc32": "d649c3c0",
+      "sha1": "a330a2928c599e0a4ee84929710565bfacc1ce29",
+      "format": "JSON"
+    },
+    {
+      "name": "spokesmanreview-2022-10-09T07:56:33.029149-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665327403",
+      "size": "50229",
+      "md5": "4ce65263fc263f6f85a3cfc1a875d01c",
+      "crc32": "61ff0dd9",
+      "sha1": "9648d2c85fc64a75025e227a38d87345f137466a",
+      "format": "JSON"
+    },
+    {
+      "name": "spokesmanreview-2022-10-09T07:56:33.029149-07:00.jpg",
+      "source": "original",
+      "mtime": "1665327399",
+      "size": "284387",
+      "md5": "b9d74b61768824090b4d5c5dd46ce5bb",
+      "crc32": "3cc91df2",
+      "sha1": "d6ad9bcb24ff5c005ac603138456d8f59fa306b3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spokesmanreview-2022-10-09T07:56:33.029149-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665327405",
+      "size": "1486",
+      "md5": "3c0c95ea0b7a313f2cfa4b95ff2687f4",
+      "crc32": "07126c02",
+      "sha1": "30b1b7ecb267e25ec219b2f6b49239837227101e",
+      "format": "JSON"
+    },
+    {
+      "name": "spokesmanreview-2022-10-09T07:56:33.029149-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665327407",
+      "size": "206",
+      "md5": "6bdb9ac89dcf51e8f816b8700208c136",
+      "crc32": "3d99960c",
+      "sha1": "a90284f52c4a9331692f17698f1e212664548ec8",
+      "format": "JSON"
+    },
+    {
+      "name": "spokesmanreview-2022-10-09T07:56:33.029149-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spokesmanreview-2022-10-09T07:56:33.029149-07:00.jpg",
+      "mtime": "1665327482",
+      "size": "9822",
+      "md5": "ca072a7676a6da2989d287d9fbede764",
+      "crc32": "85f97451",
+      "sha1": "b096e0e5bca5c65c6a03b670586b363a6f9effa9"
+    },
+    {
       "name": "spokesmanreview-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f0821b4d4dacc309bb7523012e8aec81f6c97ffc",
-      "mtime": "1665287006",
-      "size": "229909",
-      "md5": "3148b2d7d40c6ed0b732cb486e541046",
-      "crc32": "0bd57834",
-      "sha1": "15b6d1b688674378dfa143ac373ead49fe224125",
+      "btih": "1b6a2ed013dad5819d622b46c28d2072176ab3c4",
+      "mtime": "1665327492",
+      "size": "231215",
+      "md5": "a7e75a1b64902d973caed296b6782e11",
+      "crc32": "b83cbab0",
+      "sha1": "dc0de06c4efa92ced65fa5ef9694fd0ffc562127",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spokesmanreview-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "35f8875da2cd8cb37dfc6c1ad8babca9",
+      "md5": "ea053ac7357c0f64aceb2ecb09d8c85a",
       "summation": "md5"
     },
     {
       "name": "spokesmanreview-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665286911",
-      "size": "1335296",
-      "md5": "d17a3be73e32029744d264d358f6a891",
-      "crc32": "741924b6",
-      "sha1": "efb1af8df0249f8a07f9764fc3374f54fee95682",
+      "mtime": "1665327413",
+      "size": "1343488",
+      "md5": "bc959ee9395a148adef7fc714b661431",
+      "crc32": "fe64905d",
+      "sha1": "51c3269905b062e83347890789462f7e60f26213",
       "format": "Metadata"
     },
     {
@@ -10938,9 +11000,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1055,
-  "item_last_updated": 1665287006,
-  "item_size": 77155968,
+  "files_count": 1061,
+  "item_last_updated": 1665327492,
+  "item_size": 77512624,
   "metadata": {
     "identifier": "spokesmanreview-2022",
     "collection": [
@@ -10957,10 +11019,10 @@
     "publicdate": "2022-07-04 21:45:27",
     "addeddate": "2022-07-04 21:45:27"
   },
-  "server": "ia801503.us.archive.org",
-  "uniq": 1992997678,
+  "server": "ia601503.us.archive.org",
+  "uniq": 1483966266,
   "workable_servers": [
-    "ia801503.us.archive.org",
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }
