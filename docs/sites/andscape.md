@@ -354,7 +354,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 134 hyperlink lists with the Internet Archive.
+The archiving routine has saved 135 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -445,6 +445,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 9 at 11:57 AM](https://archive.org/download/andscape-2022/andscape-2022-10-09T11:57:42.301843-04:00.hyperlinks.json) |
 | [October 9 at 1:11 AM](https://archive.org/download/andscape-2022/andscape-2022-10-09T01:11:04.706589-04:00.hyperlinks.json) |
 | [October 8 at 12:11 PM](https://archive.org/download/andscape-2022/andscape-2022-10-08T12:11:17.671026-04:00.hyperlinks.json) |
 | [October 8 at 1:34 AM](https://archive.org/download/andscape-2022/andscape-2022-10-08T01:34:54.408734-04:00.hyperlinks.json) |
@@ -454,7 +455,6 @@ Here are the 10 most recent hyperlink lists.
 | [October 6 at 12:21 AM](https://archive.org/download/andscape-2022/andscape-2022-10-06T00:21:54.656201-04:00.hyperlinks.json) |
 | [October 5 at 12:34 PM](https://archive.org/download/andscape-2022/andscape-2022-10-05T12:34:06.809770-04:00.hyperlinks.json) |
 | [October 5 at 12:16 AM](https://archive.org/download/andscape-2022/andscape-2022-10-05T00:16:18.530714-04:00.hyperlinks.json) |
-| [October 4 at 12:15 PM](https://archive.org/download/andscape-2022/andscape-2022-10-04T12:15:01.428120-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -482,7 +482,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 135 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 136 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -573,6 +573,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 9 at 11:57 AM](https://archive.org/download/andscape-2022/andscape-2022-10-09T11:57:42.301843-04:00.lighthouse.json) |
 | [October 9 at 1:11 AM](https://archive.org/download/andscape-2022/andscape-2022-10-09T01:11:04.706589-04:00.lighthouse.json) |
 | [October 8 at 12:11 PM](https://archive.org/download/andscape-2022/andscape-2022-10-08T12:11:17.671026-04:00.lighthouse.json) |
 | [October 8 at 1:35 AM](https://archive.org/download/andscape-2022/andscape-2022-10-08T01:34:54.408734-04:00.lighthouse.json) |
@@ -582,7 +583,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 6 at 12:21 AM](https://archive.org/download/andscape-2022/andscape-2022-10-06T00:21:54.656201-04:00.lighthouse.json) |
 | [October 5 at 12:34 PM](https://archive.org/download/andscape-2022/andscape-2022-10-05T12:34:06.809770-04:00.lighthouse.json) |
 | [October 5 at 12:16 AM](https://archive.org/download/andscape-2022/andscape-2022-10-05T00:16:18.530714-04:00.lighthouse.json) |
-| [October 4 at 12:15 PM](https://archive.org/download/andscape-2022/andscape-2022-10-04T12:15:01.428120-04:00.lighthouse.json) |
 
 
 

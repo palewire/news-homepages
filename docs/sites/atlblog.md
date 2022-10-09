@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 239 screenshots with the Internet Archive.
+The archiving routine has saved 240 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 239 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/atlblog-2022/atlblog-2022-10-09T11:57:37.807383-04:00.jpg">
+  <img src="https://archive.org/download/atlblog-2022/atlblog-2022-10-09T11:57:37.807383-04:00.jpg"
+     alt="Above the Law at 2022-10-09 11:57:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-10-09T11:57:37.807383-04:00.jpg">October 9 at 11:57 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/atlblog-2022/atlblog-2022-10-09T01:11:08.660497-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-10-05T16:56:53.327703-04:00.jpg">October 5 at 4:56 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/atlblog-2022/atlblog-2022-10-05T12:33:33.574563-04:00.jpg">
-  <img src="https://archive.org/download/atlblog-2022/atlblog-2022-10-05T12:33:33.574563-04:00.jpg"
-     alt="Above the Law at 2022-10-05 12:33:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-10-05T12:33:33.574563-04:00.jpg">October 5 at 12:33 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 241 hyperlink lists with the Internet Archive.
+The archiving routine has saved 242 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 9 at 11:57 AM](https://archive.org/download/atlblog-2022/atlblog-2022-10-09T11:57:37.807383-04:00.hyperlinks.json) |
 | [October 9 at 1:11 AM](https://archive.org/download/atlblog-2022/atlblog-2022-10-09T01:11:08.660497-04:00.hyperlinks.json) |
 | [October 8 at 3:46 PM](https://archive.org/download/atlblog-2022/atlblog-2022-10-08T15:46:35.390733-04:00.hyperlinks.json) |
 | [October 8 at 12:12 PM](https://archive.org/download/atlblog-2022/atlblog-2022-10-08T12:12:18.986427-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 7 at 12:32 AM](https://archive.org/download/atlblog-2022/atlblog-2022-10-07T00:32:40.964893-04:00.hyperlinks.json) |
 | [October 6 at 5:01 PM](https://archive.org/download/atlblog-2022/atlblog-2022-10-06T17:00:54.236230-04:00.hyperlinks.json) |
 | [October 6 at 12:00 PM](https://archive.org/download/atlblog-2022/atlblog-2022-10-06T12:00:46.568480-04:00.hyperlinks.json) |
-| [October 6 at 12:22 AM](https://archive.org/download/atlblog-2022/atlblog-2022-10-06T00:22:00.869353-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 241 accessibility trees with the Internet Archive.
+The archiving routine has saved 242 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 9 at 11:57 AM](https://archive.org/download/atlblog-2022/atlblog-2022-10-09T11:57:37.807383-04:00.accessibility.json) |
 | [October 9 at 1:11 AM](https://archive.org/download/atlblog-2022/atlblog-2022-10-09T01:11:08.660497-04:00.accessibility.json) |
 | [October 8 at 3:46 PM](https://archive.org/download/atlblog-2022/atlblog-2022-10-08T15:46:35.390733-04:00.accessibility.json) |
 | [October 8 at 12:12 PM](https://archive.org/download/atlblog-2022/atlblog-2022-10-08T12:12:18.986427-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 7 at 12:32 AM](https://archive.org/download/atlblog-2022/atlblog-2022-10-07T00:32:40.964893-04:00.accessibility.json) |
 | [October 6 at 5:00 PM](https://archive.org/download/atlblog-2022/atlblog-2022-10-06T17:00:54.236230-04:00.accessibility.json) |
 | [October 6 at 12:00 PM](https://archive.org/download/atlblog-2022/atlblog-2022-10-06T12:00:46.568480-04:00.accessibility.json) |
-| [October 6 at 12:22 AM](https://archive.org/download/atlblog-2022/atlblog-2022-10-06T00:22:00.869353-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 228 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 229 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 9 at 11:57 AM](https://archive.org/download/atlblog-2022/atlblog-2022-10-09T11:57:37.807383-04:00.lighthouse.json) |
 | [October 9 at 1:11 AM](https://archive.org/download/atlblog-2022/atlblog-2022-10-09T01:11:08.660497-04:00.lighthouse.json) |
 | [October 8 at 3:46 PM](https://archive.org/download/atlblog-2022/atlblog-2022-10-08T15:46:35.390733-04:00.lighthouse.json) |
 | [October 8 at 12:12 PM](https://archive.org/download/atlblog-2022/atlblog-2022-10-08T12:12:18.986427-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 7 at 12:32 AM](https://archive.org/download/atlblog-2022/atlblog-2022-10-07T00:32:40.964893-04:00.lighthouse.json) |
 | [October 6 at 5:01 PM](https://archive.org/download/atlblog-2022/atlblog-2022-10-06T17:00:54.236230-04:00.lighthouse.json) |
 | [October 6 at 12:00 PM](https://archive.org/download/atlblog-2022/atlblog-2022-10-06T12:00:46.568480-04:00.lighthouse.json) |
-| [October 6 at 12:22 AM](https://archive.org/download/atlblog-2022/atlblog-2022-10-06T00:22:00.869353-04:00.lighthouse.json) |
 
 
 
