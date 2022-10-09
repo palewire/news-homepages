@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 115 screenshots with the Internet Archive.
+The archiving routine has saved 116 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 115 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cprnews-2022/cprnews-2022-10-09T16:53:14.693048-06:00.jpg">
+  <img src="https://archive.org/download/cprnews-2022/cprnews-2022-10-09T16:53:14.693048-06:00.jpg"
+     alt="Colorado Public Radio at 2022-10-09 16:53:19-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-10-09T16:53:14.693048-06:00.jpg">October 9 at 4:53 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cprnews-2022/cprnews-2022-10-09T05:00:44.472761-06:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-10-03T17:00:10.030868-06:00.jpg">October 3 at 5:00 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cprnews-2022/cprnews-2022-10-03T04:50:40.454569-06:00.jpg">
-  <img src="https://archive.org/download/cprnews-2022/cprnews-2022-10-03T04:50:40.454569-06:00.jpg"
-     alt="Colorado Public Radio at 2022-10-03 04:50:44-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-10-03T04:50:40.454569-06:00.jpg">October 3 at 4:50 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 116 hyperlink lists with the Internet Archive.
+The archiving routine has saved 117 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 9 at 4:53 PM](https://archive.org/download/cprnews-2022/cprnews-2022-10-09T16:53:14.693048-06:00.hyperlinks.json) |
 | [October 9 at 5:00 AM](https://archive.org/download/cprnews-2022/cprnews-2022-10-09T05:00:44.472761-06:00.hyperlinks.json) |
 | [October 8 at 5:07 PM](https://archive.org/download/cprnews-2022/cprnews-2022-10-08T17:07:35.250178-06:00.hyperlinks.json) |
 | [October 8 at 4:53 AM](https://archive.org/download/cprnews-2022/cprnews-2022-10-08T04:53:04.829012-06:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 6 at 4:47 AM](https://archive.org/download/cprnews-2022/cprnews-2022-10-06T04:46:42.735195-06:00.hyperlinks.json) |
 | [October 5 at 4:58 PM](https://archive.org/download/cprnews-2022/cprnews-2022-10-05T16:58:22.610600-06:00.hyperlinks.json) |
 | [October 5 at 5:03 AM](https://archive.org/download/cprnews-2022/cprnews-2022-10-05T05:02:53.460692-06:00.hyperlinks.json) |
-| [October 4 at 5:03 PM](https://archive.org/download/cprnews-2022/cprnews-2022-10-04T17:03:43.552443-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 116 accessibility trees with the Internet Archive.
+The archiving routine has saved 117 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 9 at 4:53 PM](https://archive.org/download/cprnews-2022/cprnews-2022-10-09T16:53:14.693048-06:00.accessibility.json) |
 | [October 9 at 5:00 AM](https://archive.org/download/cprnews-2022/cprnews-2022-10-09T05:00:44.472761-06:00.accessibility.json) |
 | [October 8 at 5:07 PM](https://archive.org/download/cprnews-2022/cprnews-2022-10-08T17:07:35.250178-06:00.accessibility.json) |
 | [October 8 at 4:53 AM](https://archive.org/download/cprnews-2022/cprnews-2022-10-08T04:53:04.829012-06:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 6 at 4:47 AM](https://archive.org/download/cprnews-2022/cprnews-2022-10-06T04:46:42.735195-06:00.accessibility.json) |
 | [October 5 at 4:58 PM](https://archive.org/download/cprnews-2022/cprnews-2022-10-05T16:58:22.610600-06:00.accessibility.json) |
 | [October 5 at 5:03 AM](https://archive.org/download/cprnews-2022/cprnews-2022-10-05T05:02:53.460692-06:00.accessibility.json) |
-| [October 4 at 5:03 PM](https://archive.org/download/cprnews-2022/cprnews-2022-10-04T17:03:43.552443-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 116 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 117 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 9 at 4:53 PM](https://archive.org/download/cprnews-2022/cprnews-2022-10-09T16:53:14.693048-06:00.lighthouse.json) |
 | [October 9 at 5:00 AM](https://archive.org/download/cprnews-2022/cprnews-2022-10-09T05:00:44.472761-06:00.lighthouse.json) |
 | [October 8 at 5:07 PM](https://archive.org/download/cprnews-2022/cprnews-2022-10-08T17:07:35.250178-06:00.lighthouse.json) |
 | [October 8 at 4:53 AM](https://archive.org/download/cprnews-2022/cprnews-2022-10-08T04:53:04.829012-06:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 6 at 4:47 AM](https://archive.org/download/cprnews-2022/cprnews-2022-10-06T04:46:42.735195-06:00.lighthouse.json) |
 | [October 5 at 4:58 PM](https://archive.org/download/cprnews-2022/cprnews-2022-10-05T16:58:22.610600-06:00.lighthouse.json) |
 | [October 5 at 5:03 AM](https://archive.org/download/cprnews-2022/cprnews-2022-10-05T05:02:53.460692-06:00.lighthouse.json) |
-| [October 4 at 5:03 PM](https://archive.org/download/cprnews-2022/cprnews-2022-10-04T17:03:43.552443-06:00.lighthouse.json) |
 
 
 

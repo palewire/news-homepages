@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 188 screenshots with the Internet Archive.
+The archiving routine has saved 189 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 188 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/binjreports-2022/binjreports-2022-10-09T18:51:50.876295-04:00.jpg">
+  <img src="https://archive.org/download/binjreports-2022/binjreports-2022-10-09T18:51:50.876295-04:00.jpg"
+     alt="Boston Institute for Nonprofit Journalism at 2022-10-09 18:51:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-10-09T18:51:50.876295-04:00.jpg">October 9 at 6:51 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/binjreports-2022/binjreports-2022-10-09T06:58:23.573738-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-10-04T07:01:26.315420-04:00.jpg">October 4 at 7:01 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/binjreports-2022/binjreports-2022-10-03T18:58:04.593075-04:00.jpg">
-  <img src="https://archive.org/download/binjreports-2022/binjreports-2022-10-03T18:58:04.593075-04:00.jpg"
-     alt="Boston Institute for Nonprofit Journalism at 2022-10-03 18:58:09-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-10-03T18:58:04.593075-04:00.jpg">October 3 at 6:58 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 188 hyperlink lists with the Internet Archive.
+The archiving routine has saved 189 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 9 at 6:51 PM](https://archive.org/download/binjreports-2022/binjreports-2022-10-09T18:51:50.876295-04:00.hyperlinks.json) |
 | [October 9 at 6:58 AM](https://archive.org/download/binjreports-2022/binjreports-2022-10-09T06:58:23.573738-04:00.hyperlinks.json) |
 | [October 8 at 7:04 PM](https://archive.org/download/binjreports-2022/binjreports-2022-10-08T19:04:30.357347-04:00.hyperlinks.json) |
 | [October 8 at 6:51 AM](https://archive.org/download/binjreports-2022/binjreports-2022-10-08T06:51:04.847447-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 6 at 6:44 AM](https://archive.org/download/binjreports-2022/binjreports-2022-10-06T06:44:15.868648-04:00.hyperlinks.json) |
 | [October 5 at 6:55 PM](https://archive.org/download/binjreports-2022/binjreports-2022-10-05T18:55:25.112598-04:00.hyperlinks.json) |
 | [October 5 at 6:59 AM](https://archive.org/download/binjreports-2022/binjreports-2022-10-05T06:59:48.524895-04:00.hyperlinks.json) |
-| [October 4 at 7:00 PM](https://archive.org/download/binjreports-2022/binjreports-2022-10-04T19:00:18.599872-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 188 accessibility trees with the Internet Archive.
+The archiving routine has saved 189 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 9 at 6:51 PM](https://archive.org/download/binjreports-2022/binjreports-2022-10-09T18:51:50.876295-04:00.accessibility.json) |
 | [October 9 at 6:58 AM](https://archive.org/download/binjreports-2022/binjreports-2022-10-09T06:58:23.573738-04:00.accessibility.json) |
 | [October 8 at 7:04 PM](https://archive.org/download/binjreports-2022/binjreports-2022-10-08T19:04:30.357347-04:00.accessibility.json) |
 | [October 8 at 6:51 AM](https://archive.org/download/binjreports-2022/binjreports-2022-10-08T06:51:04.847447-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 6 at 6:44 AM](https://archive.org/download/binjreports-2022/binjreports-2022-10-06T06:44:15.868648-04:00.accessibility.json) |
 | [October 5 at 6:55 PM](https://archive.org/download/binjreports-2022/binjreports-2022-10-05T18:55:25.112598-04:00.accessibility.json) |
 | [October 5 at 6:59 AM](https://archive.org/download/binjreports-2022/binjreports-2022-10-05T06:59:48.524895-04:00.accessibility.json) |
-| [October 4 at 7:00 PM](https://archive.org/download/binjreports-2022/binjreports-2022-10-04T19:00:18.599872-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 158 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 159 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 9 at 6:51 PM](https://archive.org/download/binjreports-2022/binjreports-2022-10-09T18:51:50.876295-04:00.lighthouse.json) |
 | [October 9 at 6:58 AM](https://archive.org/download/binjreports-2022/binjreports-2022-10-09T06:58:23.573738-04:00.lighthouse.json) |
 | [October 8 at 7:04 PM](https://archive.org/download/binjreports-2022/binjreports-2022-10-08T19:04:30.357347-04:00.lighthouse.json) |
 | [October 8 at 6:51 AM](https://archive.org/download/binjreports-2022/binjreports-2022-10-08T06:51:04.847447-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 6 at 6:44 AM](https://archive.org/download/binjreports-2022/binjreports-2022-10-06T06:44:15.868648-04:00.lighthouse.json) |
 | [October 5 at 6:55 PM](https://archive.org/download/binjreports-2022/binjreports-2022-10-05T18:55:25.112598-04:00.lighthouse.json) |
 | [October 5 at 6:59 AM](https://archive.org/download/binjreports-2022/binjreports-2022-10-05T06:59:48.524895-04:00.lighthouse.json) |
-| [October 4 at 7:00 PM](https://archive.org/download/binjreports-2022/binjreports-2022-10-04T19:00:18.599872-04:00.lighthouse.json) |
 
 
 
