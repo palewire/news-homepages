@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 53 screenshots with the Internet Archive.
+The archiving routine has saved 56 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-09T00:21:36.894859-05:00.jpg">
+  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-09T00:21:36.894859-05:00.jpg"
+     alt="KUAR at 2022-10-09 00:21:40-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-09T00:21:36.894859-05:00.jpg">October 9 at 12:21 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-08T12:39:36.055209-05:00.jpg">
+  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-08T12:39:36.055209-05:00.jpg"
+     alt="KUAR at 2022-10-08 12:39:38-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-08T12:39:36.055209-05:00.jpg">October 8 at 12:39 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-08T00:42:53.079991-05:00.jpg">
+  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-08T00:42:53.079991-05:00.jpg"
+     alt="KUAR at 2022-10-08 00:42:55-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-08T00:42:53.079991-05:00.jpg">October 8 at 12:42 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-07T13:00:06.670142-05:00.jpg">
   <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-07T13:00:06.670142-05:00.jpg"
      alt="KUAR at 2022-10-07 13:00:13-05:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-03T12:48:13.992055-05:00.jpg">October 3 at 12:48 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-03T00:12:11.539929-05:00.jpg">
-  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-03T00:12:11.539929-05:00.jpg"
-     alt="KUAR at 2022-10-03 00:12:13-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-03T00:12:11.539929-05:00.jpg">October 3 at 12:12 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-02T12:31:12.658515-05:00.jpg">
-  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-02T12:31:12.658515-05:00.jpg"
-     alt="KUAR at 2022-10-02 12:31:15-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-02T12:31:12.658515-05:00.jpg">October 2 at 12:31 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-02T01:03:15.535828-05:00.jpg">
-  <img src="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-02T01:03:15.535828-05:00.jpg"
-     alt="KUAR at 2022-10-02 01:03:17-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-02T01:03:15.535828-05:00.jpg">October 2 at 1:03 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 53 hyperlink lists with the Internet Archive.
+The archiving routine has saved 56 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 9 at 12:21 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-09T00:21:36.894859-05:00.hyperlinks.json) |
+| [October 8 at 12:39 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-08T12:39:36.055209-05:00.hyperlinks.json) |
+| [October 8 at 12:42 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-08T00:42:53.079991-05:00.hyperlinks.json) |
 | [October 7 at 1:00 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-07T13:00:06.670142-05:00.hyperlinks.json) |
 | [October 7 at 1:17 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-07T01:16:57.493071-05:00.hyperlinks.json) |
 | [October 6 at 12:46 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-06T12:46:40.197979-05:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 5 at 1:24 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-05T13:24:35.128009-05:00.hyperlinks.json) |
 | [October 5 at 12:50 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-05T00:50:09.436677-05:00.hyperlinks.json) |
 | [October 4 at 12:51 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-04T12:50:49.486389-05:00.hyperlinks.json) |
-| [October 4 at 1:11 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-04T01:11:51.625217-05:00.hyperlinks.json) |
-| [October 3 at 12:48 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-03T12:48:13.992055-05:00.hyperlinks.json) |
-| [October 3 at 12:12 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-03T00:12:11.539929-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 53 accessibility trees with the Internet Archive.
+The archiving routine has saved 56 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 9 at 12:21 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-09T00:21:36.894859-05:00.accessibility.json) |
+| [October 8 at 12:39 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-08T12:39:36.055209-05:00.accessibility.json) |
+| [October 8 at 12:42 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-08T00:42:53.079991-05:00.accessibility.json) |
 | [October 7 at 1:00 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-07T13:00:06.670142-05:00.accessibility.json) |
 | [October 7 at 1:17 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-07T01:16:57.493071-05:00.accessibility.json) |
 | [October 6 at 12:46 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-06T12:46:40.197979-05:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 5 at 1:24 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-05T13:24:35.128009-05:00.accessibility.json) |
 | [October 5 at 12:50 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-05T00:50:09.436677-05:00.accessibility.json) |
 | [October 4 at 12:50 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-04T12:50:49.486389-05:00.accessibility.json) |
-| [October 4 at 1:11 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-04T01:11:51.625217-05:00.accessibility.json) |
-| [October 3 at 12:48 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-03T12:48:13.992055-05:00.accessibility.json) |
-| [October 3 at 12:12 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-03T00:12:11.539929-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 56 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 9 at 12:21 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-09T00:21:36.894859-05:00.lighthouse.json) |
+| [October 8 at 12:39 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-08T12:39:36.055209-05:00.lighthouse.json) |
+| [October 8 at 12:43 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-08T00:42:53.079991-05:00.lighthouse.json) |
 | [October 7 at 1:00 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-07T13:00:06.670142-05:00.lighthouse.json) |
 | [October 7 at 1:17 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-07T01:16:57.493071-05:00.lighthouse.json) |
 | [October 6 at 12:46 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-06T12:46:40.197979-05:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 5 at 1:25 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-05T13:24:35.128009-05:00.lighthouse.json) |
 | [October 5 at 12:50 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-05T00:50:09.436677-05:00.lighthouse.json) |
 | [October 4 at 12:51 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-04T12:50:49.486389-05:00.lighthouse.json) |
-| [October 4 at 1:11 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-04T01:11:51.625217-05:00.lighthouse.json) |
-| [October 3 at 12:48 PM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-03T12:48:13.992055-05:00.lighthouse.json) |
-| [October 3 at 12:12 AM](https://archive.org/download/kuarpublicradio-2022/kuarpublicradio-2022-10-03T00:12:11.539929-05:00.lighthouse.json) |
 
 
 

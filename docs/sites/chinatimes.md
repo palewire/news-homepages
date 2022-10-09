@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 133 screenshots with the Internet Archive.
+The archiving routine has saved 135 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/chinatimes-2022/chinatimes-2022-10-09T13:17:25.891949+08:00.jpg">
+  <img src="https://archive.org/download/chinatimes-2022/chinatimes-2022-10-09T13:17:25.891949+08:00.jpg"
+     alt="China Times at 2022-10-09 13:17:31+08:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chinatimes-2022/chinatimes-2022-10-09T13:17:25.891949+08:00.jpg">October 9 at 1:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chinatimes-2022/chinatimes-2022-10-09T00:14:26.486001+08:00.jpg">
+  <img src="https://archive.org/download/chinatimes-2022/chinatimes-2022-10-09T00:14:26.486001+08:00.jpg"
+     alt="China Times at 2022-10-09 00:14:45+08:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chinatimes-2022/chinatimes-2022-10-09T00:14:26.486001+08:00.jpg">October 9 at 12:14 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/chinatimes-2022/chinatimes-2022-10-08T13:38:39.764623+08:00.jpg">
   <img src="https://archive.org/download/chinatimes-2022/chinatimes-2022-10-08T13:38:39.764623+08:00.jpg"
      alt="China Times at 2022-10-08 13:38:41+08:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/chinatimes-2022/chinatimes-2022-10-04T00:13:48.557569+08:00.jpg">October 4 at 12:14 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/chinatimes-2022/chinatimes-2022-10-03T13:02:54.499590+08:00.jpg">
-  <img src="https://archive.org/download/chinatimes-2022/chinatimes-2022-10-03T13:02:54.499590+08:00.jpg"
-     alt="China Times at 2022-10-03 13:02:56+08:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chinatimes-2022/chinatimes-2022-10-03T13:02:54.499590+08:00.jpg">October 3 at 1:02 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/chinatimes-2022/chinatimes-2022-10-03T00:03:54.810257+08:00.jpg">
-  <img src="https://archive.org/download/chinatimes-2022/chinatimes-2022-10-03T00:03:54.810257+08:00.jpg"
-     alt="China Times at 2022-10-03 00:04:13+08:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chinatimes-2022/chinatimes-2022-10-03T00:03:54.810257+08:00.jpg">October 3 at 12:04 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 134 hyperlink lists with the Internet Archive.
+The archiving routine has saved 136 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 9 at 1:17 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-09T13:17:25.891949+08:00.hyperlinks.json) |
+| [October 9 at 12:14 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-09T00:14:26.486001+08:00.hyperlinks.json) |
 | [October 8 at 1:38 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-08T13:38:39.764623+08:00.hyperlinks.json) |
 | [October 8 at 12:32 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-08T00:32:40.020383+08:00.hyperlinks.json) |
 | [October 7 at 12:37 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-07T12:37:14.779832+08:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 6 at 12:40 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-06T00:39:52.450319+08:00.hyperlinks.json) |
 | [October 5 at 12:18 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-05T12:18:31.433566+08:00.hyperlinks.json) |
 | [October 5 at 12:24 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-05T00:24:37.796430+08:00.hyperlinks.json) |
-| [October 4 at 1:21 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-04T13:21:23.554568+08:00.hyperlinks.json) |
-| [October 4 at 12:14 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-04T00:13:48.557569+08:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 133 accessibility trees with the Internet Archive.
+The archiving routine has saved 135 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 9 at 1:17 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-09T13:17:25.891949+08:00.accessibility.json) |
+| [October 9 at 12:14 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-09T00:14:26.486001+08:00.accessibility.json) |
 | [October 8 at 1:38 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-08T13:38:39.764623+08:00.accessibility.json) |
 | [October 8 at 12:32 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-08T00:32:40.020383+08:00.accessibility.json) |
 | [October 7 at 12:37 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-07T12:37:14.779832+08:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 6 at 12:39 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-06T00:39:52.450319+08:00.accessibility.json) |
 | [October 5 at 12:18 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-05T12:18:31.433566+08:00.accessibility.json) |
 | [October 5 at 12:24 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-05T00:24:37.796430+08:00.accessibility.json) |
-| [October 4 at 1:21 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-04T13:21:23.554568+08:00.accessibility.json) |
-| [October 4 at 12:14 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-04T00:13:48.557569+08:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 136 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 9 at 1:17 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-09T13:17:25.891949+08:00.lighthouse.json) |
+| [October 9 at 12:14 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-09T00:14:26.486001+08:00.lighthouse.json) |
 | [October 8 at 1:38 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-08T13:38:39.764623+08:00.lighthouse.json) |
 | [October 8 at 12:32 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-08T00:32:40.020383+08:00.lighthouse.json) |
 | [October 7 at 12:37 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-07T12:37:14.779832+08:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 6 at 12:40 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-06T00:39:52.450319+08:00.lighthouse.json) |
 | [October 5 at 12:18 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-05T12:18:31.433566+08:00.lighthouse.json) |
 | [October 5 at 12:24 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-05T00:24:37.796430+08:00.lighthouse.json) |
-| [October 4 at 1:21 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-04T13:21:23.554568+08:00.lighthouse.json) |
-| [October 4 at 12:14 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-10-04T00:13:48.557569+08:00.lighthouse.json) |
 
 
 

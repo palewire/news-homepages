@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 35 screenshots with the Internet Archive.
+The archiving routine has saved 38 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-09T01:24:21.600515-04:00.jpg">
+  <img src="https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-09T01:24:21.600515-04:00.jpg"
+     alt="MetroWest Daily News at 2022-10-09 01:24:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-09T01:24:21.600515-04:00.jpg">October 9 at 1:24 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-08T13:42:14.475804-04:00.jpg">
+  <img src="https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-08T13:42:14.475804-04:00.jpg"
+     alt="MetroWest Daily News at 2022-10-08 13:42:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-08T13:42:14.475804-04:00.jpg">October 8 at 1:42 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-08T01:45:04.102074-04:00.jpg">
+  <img src="https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-08T01:45:04.102074-04:00.jpg"
+     alt="MetroWest Daily News at 2022-10-08 01:45:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-08T01:45:04.102074-04:00.jpg">October 8 at 1:45 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-07T14:03:54.184867-04:00.jpg">
   <img src="https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-07T14:03:54.184867-04:00.jpg"
      alt="MetroWest Daily News at 2022-10-07 14:04:00-04:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-03T13:50:52.962857-04:00.jpg">October 3 at 1:50 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-03T01:15:01.081540-04:00.jpg">
-  <img src="https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-03T01:15:01.081540-04:00.jpg"
-     alt="MetroWest Daily News at 2022-10-03 01:15:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-03T01:15:01.081540-04:00.jpg">October 3 at 1:15 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-02T13:31:37.055893-04:00.jpg">
-  <img src="https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-02T13:31:37.055893-04:00.jpg"
-     alt="MetroWest Daily News at 2022-10-02 13:31:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-02T13:31:37.055893-04:00.jpg">October 2 at 1:31 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-02T02:07:29.019915-04:00.jpg">
-  <img src="https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-02T02:07:29.019915-04:00.jpg"
-     alt="MetroWest Daily News at 2022-10-02 02:07:33-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-02T02:07:29.019915-04:00.jpg">October 2 at 2:07 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 35 hyperlink lists with the Internet Archive.
+The archiving routine has saved 38 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 9 at 1:24 AM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-09T01:24:21.600515-04:00.hyperlinks.json) |
+| [October 8 at 1:42 PM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-08T13:42:14.475804-04:00.hyperlinks.json) |
+| [October 8 at 1:45 AM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-08T01:45:04.102074-04:00.hyperlinks.json) |
 | [October 7 at 2:04 PM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-07T14:03:54.184867-04:00.hyperlinks.json) |
 | [October 7 at 2:22 AM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-07T02:22:27.386651-04:00.hyperlinks.json) |
 | [October 6 at 1:49 PM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-06T13:49:54.635843-04:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 5 at 2:29 PM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-05T14:29:08.569591-04:00.hyperlinks.json) |
 | [October 5 at 1:53 AM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-05T01:53:32.893059-04:00.hyperlinks.json) |
 | [October 4 at 1:53 PM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-04T13:52:46.308098-04:00.hyperlinks.json) |
-| [October 4 at 2:14 AM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-04T02:14:10.290765-04:00.hyperlinks.json) |
-| [October 3 at 1:51 PM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-03T13:50:52.962857-04:00.hyperlinks.json) |
-| [October 3 at 1:15 AM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-03T01:15:01.081540-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 34 accessibility trees with the Internet Archive.
+The archiving routine has saved 37 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 9 at 1:24 AM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-09T01:24:21.600515-04:00.accessibility.json) |
+| [October 8 at 1:42 PM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-08T13:42:14.475804-04:00.accessibility.json) |
+| [October 8 at 1:45 AM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-08T01:45:04.102074-04:00.accessibility.json) |
 | [October 7 at 2:04 PM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-07T14:03:54.184867-04:00.accessibility.json) |
 | [October 7 at 2:22 AM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-07T02:22:27.386651-04:00.accessibility.json) |
 | [October 6 at 1:49 PM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-06T13:49:54.635843-04:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 5 at 2:29 PM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-05T14:29:08.569591-04:00.accessibility.json) |
 | [October 5 at 1:53 AM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-05T01:53:32.893059-04:00.accessibility.json) |
 | [October 4 at 1:52 PM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-04T13:52:46.308098-04:00.accessibility.json) |
-| [October 4 at 2:14 AM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-04T02:14:10.290765-04:00.accessibility.json) |
-| [October 3 at 1:51 PM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-03T13:50:52.962857-04:00.accessibility.json) |
-| [October 3 at 1:15 AM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-03T01:15:01.081540-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 38 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 9 at 1:24 AM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-09T01:24:21.600515-04:00.lighthouse.json) |
+| [October 8 at 1:42 PM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-08T13:42:14.475804-04:00.lighthouse.json) |
+| [October 8 at 1:45 AM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-08T01:45:04.102074-04:00.lighthouse.json) |
 | [October 7 at 2:04 PM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-07T14:03:54.184867-04:00.lighthouse.json) |
 | [October 7 at 2:22 AM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-07T02:22:27.386651-04:00.lighthouse.json) |
 | [October 6 at 1:50 PM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-06T13:49:54.635843-04:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 5 at 2:29 PM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-05T14:29:08.569591-04:00.lighthouse.json) |
 | [October 5 at 1:53 AM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-05T01:53:32.893059-04:00.lighthouse.json) |
 | [October 4 at 1:53 PM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-04T13:52:46.308098-04:00.lighthouse.json) |
-| [October 4 at 2:14 AM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-04T02:14:10.290765-04:00.lighthouse.json) |
-| [October 3 at 1:51 PM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-03T13:50:52.962857-04:00.lighthouse.json) |
-| [October 3 at 1:15 AM](https://archive.org/download/metrowestdaily-2022/metrowestdaily-2022-10-03T01:15:01.081540-04:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 162 screenshots with the Internet Archive.
+The archiving routine has saved 164 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/chesscom-2022/chesscom-2022-10-08T22:18:20.303232-07:00.jpg">
+  <img src="https://archive.org/download/chesscom-2022/chesscom-2022-10-08T22:18:20.303232-07:00.jpg"
+     alt="Chess.com at 2022-10-08 22:18:26-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chesscom-2022/chesscom-2022-10-08T22:18:20.303232-07:00.jpg">October 8 at 10:18 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chesscom-2022/chesscom-2022-10-08T09:15:05.591668-07:00.jpg">
+  <img src="https://archive.org/download/chesscom-2022/chesscom-2022-10-08T09:15:05.591668-07:00.jpg"
+     alt="Chess.com at 2022-10-08 09:15:11-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chesscom-2022/chesscom-2022-10-08T09:15:05.591668-07:00.jpg">October 8 at 9:15 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/chesscom-2022/chesscom-2022-10-07T22:39:12.743963-07:00.jpg">
   <img src="https://archive.org/download/chesscom-2022/chesscom-2022-10-07T22:39:12.743963-07:00.jpg"
      alt="Chess.com at 2022-10-07 22:39:21-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/chesscom-2022/chesscom-2022-10-03T09:13:39.635193-07:00.jpg">October 3 at 9:13 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/chesscom-2022/chesscom-2022-10-02T22:03:41.152751-07:00.jpg">
-  <img src="https://archive.org/download/chesscom-2022/chesscom-2022-10-02T22:03:41.152751-07:00.jpg"
-     alt="Chess.com at 2022-10-02 22:03:46-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chesscom-2022/chesscom-2022-10-02T22:03:41.152751-07:00.jpg">October 2 at 10:03 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/chesscom-2022/chesscom-2022-10-02T09:04:22.956770-07:00.jpg">
-  <img src="https://archive.org/download/chesscom-2022/chesscom-2022-10-02T09:04:22.956770-07:00.jpg"
-     alt="Chess.com at 2022-10-02 09:04:30-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chesscom-2022/chesscom-2022-10-02T09:04:22.956770-07:00.jpg">October 2 at 9:04 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 163 hyperlink lists with the Internet Archive.
+The archiving routine has saved 165 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 8 at 10:18 PM](https://archive.org/download/chesscom-2022/chesscom-2022-10-08T22:18:20.303232-07:00.hyperlinks.json) |
+| [October 8 at 9:15 AM](https://archive.org/download/chesscom-2022/chesscom-2022-10-08T09:15:05.591668-07:00.hyperlinks.json) |
 | [October 7 at 10:39 PM](https://archive.org/download/chesscom-2022/chesscom-2022-10-07T22:39:12.743963-07:00.hyperlinks.json) |
 | [October 7 at 9:33 AM](https://archive.org/download/chesscom-2022/chesscom-2022-10-07T09:33:05.570019-07:00.hyperlinks.json) |
 | [October 6 at 9:36 PM](https://archive.org/download/chesscom-2022/chesscom-2022-10-06T21:36:29.369867-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 5 at 9:39 AM](https://archive.org/download/chesscom-2022/chesscom-2022-10-05T09:39:03.727329-07:00.hyperlinks.json) |
 | [October 4 at 9:18 PM](https://archive.org/download/chesscom-2022/chesscom-2022-10-04T21:18:32.008544-07:00.hyperlinks.json) |
 | [October 4 at 9:25 AM](https://archive.org/download/chesscom-2022/chesscom-2022-10-04T09:25:25.141195-07:00.hyperlinks.json) |
-| [October 3 at 10:21 PM](https://archive.org/download/chesscom-2022/chesscom-2022-10-03T22:21:18.842716-07:00.hyperlinks.json) |
-| [October 3 at 9:13 AM](https://archive.org/download/chesscom-2022/chesscom-2022-10-03T09:13:39.635193-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 163 accessibility trees with the Internet Archive.
+The archiving routine has saved 165 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 8 at 10:18 PM](https://archive.org/download/chesscom-2022/chesscom-2022-10-08T22:18:20.303232-07:00.accessibility.json) |
+| [October 8 at 9:15 AM](https://archive.org/download/chesscom-2022/chesscom-2022-10-08T09:15:05.591668-07:00.accessibility.json) |
 | [October 7 at 10:39 PM](https://archive.org/download/chesscom-2022/chesscom-2022-10-07T22:39:12.743963-07:00.accessibility.json) |
 | [October 7 at 9:33 AM](https://archive.org/download/chesscom-2022/chesscom-2022-10-07T09:33:05.570019-07:00.accessibility.json) |
 | [October 6 at 9:36 PM](https://archive.org/download/chesscom-2022/chesscom-2022-10-06T21:36:29.369867-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 5 at 9:39 AM](https://archive.org/download/chesscom-2022/chesscom-2022-10-05T09:39:03.727329-07:00.accessibility.json) |
 | [October 4 at 9:18 PM](https://archive.org/download/chesscom-2022/chesscom-2022-10-04T21:18:32.008544-07:00.accessibility.json) |
 | [October 4 at 9:25 AM](https://archive.org/download/chesscom-2022/chesscom-2022-10-04T09:25:25.141195-07:00.accessibility.json) |
-| [October 3 at 10:21 PM](https://archive.org/download/chesscom-2022/chesscom-2022-10-03T22:21:18.842716-07:00.accessibility.json) |
-| [October 3 at 9:13 AM](https://archive.org/download/chesscom-2022/chesscom-2022-10-03T09:13:39.635193-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 155 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 157 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 8 at 10:18 PM](https://archive.org/download/chesscom-2022/chesscom-2022-10-08T22:18:20.303232-07:00.lighthouse.json) |
+| [October 8 at 9:15 AM](https://archive.org/download/chesscom-2022/chesscom-2022-10-08T09:15:05.591668-07:00.lighthouse.json) |
 | [October 7 at 10:39 PM](https://archive.org/download/chesscom-2022/chesscom-2022-10-07T22:39:12.743963-07:00.lighthouse.json) |
 | [October 7 at 9:33 AM](https://archive.org/download/chesscom-2022/chesscom-2022-10-07T09:33:05.570019-07:00.lighthouse.json) |
 | [October 6 at 9:36 PM](https://archive.org/download/chesscom-2022/chesscom-2022-10-06T21:36:29.369867-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 5 at 9:39 AM](https://archive.org/download/chesscom-2022/chesscom-2022-10-05T09:39:03.727329-07:00.lighthouse.json) |
 | [October 4 at 9:19 PM](https://archive.org/download/chesscom-2022/chesscom-2022-10-04T21:18:32.008544-07:00.lighthouse.json) |
 | [October 4 at 9:25 AM](https://archive.org/download/chesscom-2022/chesscom-2022-10-04T09:25:25.141195-07:00.lighthouse.json) |
-| [October 3 at 10:21 PM](https://archive.org/download/chesscom-2022/chesscom-2022-10-03T22:21:18.842716-07:00.lighthouse.json) |
-| [October 3 at 9:13 AM](https://archive.org/download/chesscom-2022/chesscom-2022-10-03T09:13:39.635193-07:00.lighthouse.json) |
 
 
 

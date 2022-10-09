@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 179 screenshots with the Internet Archive.
+The archiving routine has saved 182 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-09T00:25:45.268253-05:00.jpg">
+  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-09T00:25:45.268253-05:00.jpg"
+     alt="Montana Free Press at 2022-10-09 00:25:46-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-09T00:25:45.268253-05:00.jpg">October 9 at 12:25 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-08T12:41:41.069454-05:00.jpg">
+  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-08T12:41:41.069454-05:00.jpg"
+     alt="Montana Free Press at 2022-10-08 12:41:42-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-08T12:41:41.069454-05:00.jpg">October 8 at 12:41 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-08T00:45:27.816795-05:00.jpg">
+  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-08T00:45:27.816795-05:00.jpg"
+     alt="Montana Free Press at 2022-10-08 00:45:29-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-08T00:45:27.816795-05:00.jpg">October 8 at 12:45 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-07T13:03:27.851284-05:00.jpg">
   <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-07T13:03:27.851284-05:00.jpg"
      alt="Montana Free Press at 2022-10-07 13:03:38-05:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-03T12:50:43.566078-05:00.jpg">October 3 at 12:50 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-03T00:14:30.821557-05:00.jpg">
-  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-03T00:14:30.821557-05:00.jpg"
-     alt="Montana Free Press at 2022-10-03 00:14:33-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-03T00:14:30.821557-05:00.jpg">October 3 at 12:14 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-02T12:33:25.092066-05:00.jpg">
-  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-02T12:33:25.092066-05:00.jpg"
-     alt="Montana Free Press at 2022-10-02 12:33:26-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-02T12:33:25.092066-05:00.jpg">October 2 at 12:33 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-02T01:08:25.003065-05:00.jpg">
-  <img src="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-02T01:08:25.003065-05:00.jpg"
-     alt="Montana Free Press at 2022-10-02 01:08:26-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-02T01:08:25.003065-05:00.jpg">October 2 at 1:08 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 180 hyperlink lists with the Internet Archive.
+The archiving routine has saved 183 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 9 at 12:25 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-09T00:25:45.268253-05:00.hyperlinks.json) |
+| [October 8 at 12:41 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-08T12:41:41.069454-05:00.hyperlinks.json) |
+| [October 8 at 12:45 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-08T00:45:27.816795-05:00.hyperlinks.json) |
 | [October 7 at 1:03 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-07T13:03:27.851284-05:00.hyperlinks.json) |
 | [October 7 at 1:22 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-07T01:22:42.308405-05:00.hyperlinks.json) |
 | [October 6 at 12:49 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-06T12:49:31.275759-05:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 5 at 1:29 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-05T13:29:11.085403-05:00.hyperlinks.json) |
 | [October 5 at 12:52 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-05T00:52:42.395541-05:00.hyperlinks.json) |
 | [October 4 at 12:52 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-04T12:52:09.794488-05:00.hyperlinks.json) |
-| [October 4 at 1:14 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-04T01:14:29.178388-05:00.hyperlinks.json) |
-| [October 3 at 12:50 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-03T12:50:43.566078-05:00.hyperlinks.json) |
-| [October 3 at 12:14 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-03T00:14:30.821557-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 179 accessibility trees with the Internet Archive.
+The archiving routine has saved 182 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 9 at 12:25 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-09T00:25:45.268253-05:00.accessibility.json) |
+| [October 8 at 12:41 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-08T12:41:41.069454-05:00.accessibility.json) |
+| [October 8 at 12:45 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-08T00:45:27.816795-05:00.accessibility.json) |
 | [October 7 at 1:03 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-07T13:03:27.851284-05:00.accessibility.json) |
 | [October 7 at 1:22 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-07T01:22:42.308405-05:00.accessibility.json) |
 | [October 6 at 12:49 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-06T12:49:31.275759-05:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 5 at 1:29 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-05T13:29:11.085403-05:00.accessibility.json) |
 | [October 5 at 12:52 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-05T00:52:42.395541-05:00.accessibility.json) |
 | [October 4 at 12:52 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-04T12:52:09.794488-05:00.accessibility.json) |
-| [October 4 at 1:14 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-04T01:14:29.178388-05:00.accessibility.json) |
-| [October 3 at 12:50 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-03T12:50:43.566078-05:00.accessibility.json) |
-| [October 3 at 12:14 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-03T00:14:30.821557-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 150 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 153 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 9 at 12:25 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-09T00:25:45.268253-05:00.lighthouse.json) |
+| [October 8 at 12:41 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-08T12:41:41.069454-05:00.lighthouse.json) |
+| [October 8 at 12:45 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-08T00:45:27.816795-05:00.lighthouse.json) |
 | [October 7 at 1:03 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-07T13:03:27.851284-05:00.lighthouse.json) |
 | [October 7 at 1:22 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-07T01:22:42.308405-05:00.lighthouse.json) |
 | [October 6 at 12:49 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-06T12:49:31.275759-05:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 5 at 1:29 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-05T13:29:11.085403-05:00.lighthouse.json) |
 | [October 5 at 12:52 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-05T00:52:42.395541-05:00.lighthouse.json) |
 | [October 4 at 12:52 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-04T12:52:09.794488-05:00.lighthouse.json) |
-| [October 4 at 1:14 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-04T01:14:29.178388-05:00.lighthouse.json) |
-| [October 3 at 12:50 PM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-03T12:50:43.566078-05:00.lighthouse.json) |
-| [October 3 at 12:14 AM](https://archive.org/download/mtfreepress-2022/mtfreepress-2022-10-03T00:14:30.821557-05:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 136 screenshots with the Internet Archive.
+The archiving routine has saved 138 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/whas11-2022/whas11-2022-10-09T01:17:39.689955-04:00.jpg">
+  <img src="https://archive.org/download/whas11-2022/whas11-2022-10-09T01:17:39.689955-04:00.jpg"
+     alt="WHAS11 News at 2022-10-09 01:17:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/whas11-2022/whas11-2022-10-09T01:17:39.689955-04:00.jpg">October 9 at 1:17 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/whas11-2022/whas11-2022-10-08T12:15:08.089181-04:00.jpg">
+  <img src="https://archive.org/download/whas11-2022/whas11-2022-10-08T12:15:08.089181-04:00.jpg"
+     alt="WHAS11 News at 2022-10-08 12:15:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/whas11-2022/whas11-2022-10-08T12:15:08.089181-04:00.jpg">October 8 at 12:15 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/whas11-2022/whas11-2022-10-08T01:38:36.248231-04:00.jpg">
   <img src="https://archive.org/download/whas11-2022/whas11-2022-10-08T01:38:36.248231-04:00.jpg"
      alt="WHAS11 News at 2022-10-08 01:38:44-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/whas11-2022/whas11-2022-10-03T12:15:59.391804-04:00.jpg">October 3 at 12:16 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/whas11-2022/whas11-2022-10-03T01:04:25.134371-04:00.jpg">
-  <img src="https://archive.org/download/whas11-2022/whas11-2022-10-03T01:04:25.134371-04:00.jpg"
-     alt="WHAS11 News at 2022-10-03 01:04:31-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/whas11-2022/whas11-2022-10-03T01:04:25.134371-04:00.jpg">October 3 at 1:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/whas11-2022/whas11-2022-10-02T12:07:00.853622-04:00.jpg">
-  <img src="https://archive.org/download/whas11-2022/whas11-2022-10-02T12:07:00.853622-04:00.jpg"
-     alt="WHAS11 News at 2022-10-02 12:07:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/whas11-2022/whas11-2022-10-02T12:07:00.853622-04:00.jpg">October 2 at 12:07 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 135 hyperlink lists with the Internet Archive.
+The archiving routine has saved 137 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 9 at 1:17 AM](https://archive.org/download/whas11-2022/whas11-2022-10-09T01:17:39.689955-04:00.hyperlinks.json) |
+| [October 8 at 12:15 PM](https://archive.org/download/whas11-2022/whas11-2022-10-08T12:15:08.089181-04:00.hyperlinks.json) |
 | [October 8 at 1:38 AM](https://archive.org/download/whas11-2022/whas11-2022-10-08T01:38:36.248231-04:00.hyperlinks.json) |
 | [October 7 at 12:35 PM](https://archive.org/download/whas11-2022/whas11-2022-10-07T12:35:26.448340-04:00.hyperlinks.json) |
 | [October 7 at 12:39 AM](https://archive.org/download/whas11-2022/whas11-2022-10-07T00:39:08.271544-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 5 at 12:45 PM](https://archive.org/download/whas11-2022/whas11-2022-10-05T12:45:26.624013-04:00.hyperlinks.json) |
 | [October 5 at 12:21 AM](https://archive.org/download/whas11-2022/whas11-2022-10-05T00:21:09.012151-04:00.hyperlinks.json) |
 | [October 4 at 12:24 PM](https://archive.org/download/whas11-2022/whas11-2022-10-04T12:24:43.056937-04:00.hyperlinks.json) |
-| [October 4 at 1:23 AM](https://archive.org/download/whas11-2022/whas11-2022-10-04T01:23:44.599346-04:00.hyperlinks.json) |
-| [October 3 at 12:16 PM](https://archive.org/download/whas11-2022/whas11-2022-10-03T12:15:59.391804-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 137 accessibility trees with the Internet Archive.
+The archiving routine has saved 139 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 9 at 1:17 AM](https://archive.org/download/whas11-2022/whas11-2022-10-09T01:17:39.689955-04:00.accessibility.json) |
+| [October 8 at 12:15 PM](https://archive.org/download/whas11-2022/whas11-2022-10-08T12:15:08.089181-04:00.accessibility.json) |
 | [October 8 at 1:38 AM](https://archive.org/download/whas11-2022/whas11-2022-10-08T01:38:36.248231-04:00.accessibility.json) |
 | [October 7 at 12:35 PM](https://archive.org/download/whas11-2022/whas11-2022-10-07T12:35:26.448340-04:00.accessibility.json) |
 | [October 7 at 12:39 AM](https://archive.org/download/whas11-2022/whas11-2022-10-07T00:39:08.271544-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 5 at 12:45 PM](https://archive.org/download/whas11-2022/whas11-2022-10-05T12:45:26.624013-04:00.accessibility.json) |
 | [October 5 at 12:21 AM](https://archive.org/download/whas11-2022/whas11-2022-10-05T00:21:09.012151-04:00.accessibility.json) |
 | [October 4 at 12:24 PM](https://archive.org/download/whas11-2022/whas11-2022-10-04T12:24:43.056937-04:00.accessibility.json) |
-| [October 4 at 1:23 AM](https://archive.org/download/whas11-2022/whas11-2022-10-04T01:23:44.599346-04:00.accessibility.json) |
-| [October 3 at 12:16 PM](https://archive.org/download/whas11-2022/whas11-2022-10-03T12:15:59.391804-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 137 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 139 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 9 at 1:17 AM](https://archive.org/download/whas11-2022/whas11-2022-10-09T01:17:39.689955-04:00.lighthouse.json) |
+| [October 8 at 12:15 PM](https://archive.org/download/whas11-2022/whas11-2022-10-08T12:15:08.089181-04:00.lighthouse.json) |
 | [October 8 at 1:38 AM](https://archive.org/download/whas11-2022/whas11-2022-10-08T01:38:36.248231-04:00.lighthouse.json) |
 | [October 7 at 12:35 PM](https://archive.org/download/whas11-2022/whas11-2022-10-07T12:35:26.448340-04:00.lighthouse.json) |
 | [October 7 at 12:39 AM](https://archive.org/download/whas11-2022/whas11-2022-10-07T00:39:08.271544-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 5 at 12:45 PM](https://archive.org/download/whas11-2022/whas11-2022-10-05T12:45:26.624013-04:00.lighthouse.json) |
 | [October 5 at 12:21 AM](https://archive.org/download/whas11-2022/whas11-2022-10-05T00:21:09.012151-04:00.lighthouse.json) |
 | [October 4 at 12:25 PM](https://archive.org/download/whas11-2022/whas11-2022-10-04T12:24:43.056937-04:00.lighthouse.json) |
-| [October 4 at 1:23 AM](https://archive.org/download/whas11-2022/whas11-2022-10-04T01:23:44.599346-04:00.lighthouse.json) |
-| [October 3 at 12:16 PM](https://archive.org/download/whas11-2022/whas11-2022-10-03T12:15:59.391804-04:00.lighthouse.json) |
 
 
 
