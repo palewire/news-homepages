@@ -1,5 +1,5 @@
 {
-  "created": 1665300758,
+  "created": 1665346305,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/14/items/thedispatch-2022",
@@ -14344,31 +14344,155 @@
       "sha1": "c7cd4684ec65bae38b38db617dfdfea830acba07"
     },
     {
+      "name": "thedispatch-2022-10-09T15:56:13.822710-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665345377",
+      "size": "15879",
+      "md5": "e69ab2bda1c891ce8e79b0c1f564b9e9",
+      "crc32": "86fb5f4a",
+      "sha1": "3b75d2d17440004d766fc95b0a2d531db9ce5223",
+      "format": "JSON"
+    },
+    {
+      "name": "thedispatch-2022-10-09T15:56:13.822710-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665345379",
+      "size": "14127",
+      "md5": "40218ee79386326df6f9c248102e7dcb",
+      "crc32": "621023e4",
+      "sha1": "71768a44372d7147711104891ab3fbcad7fb5269",
+      "format": "JSON"
+    },
+    {
+      "name": "thedispatch-2022-10-09T15:56:13.822710-04:00.jpg",
+      "source": "original",
+      "mtime": "1665345375",
+      "size": "263785",
+      "md5": "b8b6d05b829e2edffbdf6081ec825e9d",
+      "crc32": "27dcf3cd",
+      "sha1": "a921b0f65763638a132f86a6df9af2bc5fdb32bf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedispatch-2022-10-09T15:56:13.822710-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665345381",
+      "size": "1458",
+      "md5": "e7dad7da340f91ea95d1c4a4f87da8ce",
+      "crc32": "7f783b15",
+      "sha1": "93e06378a13c2b9a835e397860ee2689bfde058c",
+      "format": "JSON"
+    },
+    {
+      "name": "thedispatch-2022-10-09T15:56:13.822710-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665345382",
+      "size": "10128",
+      "md5": "a5240895f828c6176463ad649eb9a820",
+      "crc32": "e7ea5a87",
+      "sha1": "0f91ae160a68af9b45e8b632d6604d76afe03971",
+      "format": "JSON"
+    },
+    {
+      "name": "thedispatch-2022-10-09T15:56:13.822710-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedispatch-2022-10-09T15:56:13.822710-04:00.jpg",
+      "mtime": "1665345469",
+      "size": "8825",
+      "md5": "c06d0d08e74a514eba512db1c9ff6c10",
+      "crc32": "0a3c5914",
+      "sha1": "81ae5f19c241c8bb69cfe1cdd5db052d25814492"
+    },
+    {
+      "name": "thedispatch-2022-10-09T16:09:49.487065-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665346192",
+      "size": "15879",
+      "md5": "63a955f159744484d0bb6be314e79ce7",
+      "crc32": "91a411fc",
+      "sha1": "e61d7fde97cb60642bd612a7b49a2e4c130e6d4b",
+      "format": "JSON"
+    },
+    {
+      "name": "thedispatch-2022-10-09T16:09:49.487065-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665346194",
+      "size": "14127",
+      "md5": "fecf9f84cc5eb9d856ccd12fd702238f",
+      "crc32": "8666b934",
+      "sha1": "6093d89ccfcbcdfcd9fd39b5c45b7e7ba408b44f",
+      "format": "JSON"
+    },
+    {
+      "name": "thedispatch-2022-10-09T16:09:49.487065-04:00.jpg",
+      "source": "original",
+      "mtime": "1665346190",
+      "size": "263802",
+      "md5": "29e348dba37f0b1b7d371f80af561d54",
+      "crc32": "f8539622",
+      "sha1": "68d1322e4fad469e9a0153aff009c7dfedf6768b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedispatch-2022-10-09T16:09:49.487065-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665346195",
+      "size": "1459",
+      "md5": "4daf3cb774db960bbe62b11361734b61",
+      "crc32": "d6907869",
+      "sha1": "267fbe155df1087e155607d3804fd89b0ada1a71",
+      "format": "JSON"
+    },
+    {
+      "name": "thedispatch-2022-10-09T16:09:49.487065-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665346198",
+      "size": "231",
+      "md5": "e7cf7fe3d61089b49aac09fc01d34731",
+      "crc32": "37c60c2d",
+      "sha1": "9de20bf55db723a5ce91a6ac2276bfcc1808b28f",
+      "format": "JSON"
+    },
+    {
+      "name": "thedispatch-2022-10-09T16:09:49.487065-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedispatch-2022-10-09T16:09:49.487065-04:00.jpg",
+      "mtime": "1665346275",
+      "size": "8822",
+      "md5": "df25df77313c14b60235adc0da48b53c",
+      "crc32": "704e1b0c",
+      "sha1": "9d6945c0ebe6f72e86bfc3a53e07f78c4d6aaa48"
+    },
+    {
       "name": "thedispatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "761d8300c109aca0ffa7d53fcf7b672cf8d140c5",
-      "mtime": "1665300745",
-      "size": "296090",
-      "md5": "6ee19eb45da0c8c51b21c357c3f7ec25",
-      "crc32": "a60dcddb",
-      "sha1": "32a9e383fb502e126f76536be2edcb258a421249",
+      "btih": "281c23d4a5be2ee1b1a9553c5a098d96b72e5e79",
+      "mtime": "1665346293",
+      "size": "298638",
+      "md5": "8533c034edb48fa9bfc1332eb39626e2",
+      "crc32": "2c88889e",
+      "sha1": "118941262101aa005d64da2cfec85a9dc79c96fc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedispatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c1357a3eb5acff7545754650c4c9c868",
+      "md5": "c70875b5d90863e037bc106f6ec500ac",
       "summation": "md5"
     },
     {
       "name": "thedispatch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665300663",
-      "size": "1757184",
-      "md5": "73722a9742a76450b69b7a650d0ccc1f",
-      "crc32": "beffc1f2",
-      "sha1": "edd0eb1ddd5d441dc4a3c84ecea4acdc3734c84a",
+      "mtime": "1665346205",
+      "size": "1773568",
+      "md5": "2346fd86fb876b9f6fed18bfec6b26b6",
+      "crc32": "28fff027",
+      "sha1": "931be03744782c34c013a45a54a9c34e77f2576f",
       "format": "Metadata"
     },
     {
@@ -14382,9 +14506,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1389,
-  "item_last_updated": 1665300745,
-  "item_size": 75138681,
+  "files_count": 1401,
+  "item_last_updated": 1665346293,
+  "item_size": 75776135,
   "metadata": {
     "identifier": "thedispatch-2022",
     "collection": [
@@ -14402,7 +14526,7 @@
     "addeddate": "2022-07-17 15:04:01"
   },
   "server": "ia801505.us.archive.org",
-  "uniq": 1397425828,
+  "uniq": 1940614718,
   "workable_servers": [
     "ia801505.us.archive.org",
     "ia601505.us.archive.org"
