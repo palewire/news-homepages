@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 167 screenshots with the Internet Archive.
+The archiving routine has saved 168 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 167 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/12newsnow-2022/12newsnow-2022-10-09T05:55:33.261443-05:00.jpg">
+  <img src="https://archive.org/download/12newsnow-2022/12newsnow-2022-10-09T05:55:33.261443-05:00.jpg"
+     alt="12 News Now at 2022-10-09 05:55:40-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/12newsnow-2022/12newsnow-2022-10-09T05:55:33.261443-05:00.jpg">October 9 at 5:55 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/12newsnow-2022/12newsnow-2022-10-08T18:01:18.130492-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/12newsnow-2022/12newsnow-2022-10-03T05:46:46.492043-05:00.jpg">October 3 at 5:46 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/12newsnow-2022/12newsnow-2022-10-02T17:58:42.717826-05:00.jpg">
-  <img src="https://archive.org/download/12newsnow-2022/12newsnow-2022-10-02T17:58:42.717826-05:00.jpg"
-     alt="12 News Now at 2022-10-02 17:58:43-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/12newsnow-2022/12newsnow-2022-10-02T17:58:42.717826-05:00.jpg">October 2 at 5:58 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 168 hyperlink lists with the Internet Archive.
+The archiving routine has saved 169 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 9 at 5:55 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-10-09T05:55:33.261443-05:00.hyperlinks.json) |
 | [October 8 at 6:01 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-10-08T18:01:18.130492-05:00.hyperlinks.json) |
 | [October 8 at 5:48 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-10-08T05:48:26.222123-05:00.hyperlinks.json) |
 | [October 7 at 6:00 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-10-07T18:00:08.445611-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 5 at 5:58 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-10-05T05:58:16.620939-05:00.hyperlinks.json) |
 | [October 4 at 5:58 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-10-04T17:58:09.345813-05:00.hyperlinks.json) |
 | [October 4 at 5:58 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-10-04T05:58:40.162615-05:00.hyperlinks.json) |
-| [October 3 at 5:55 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-10-03T17:54:52.422280-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 169 accessibility trees with the Internet Archive.
+The archiving routine has saved 170 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 9 at 5:55 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-10-09T05:55:33.261443-05:00.accessibility.json) |
 | [October 8 at 6:01 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-10-08T18:01:18.130492-05:00.accessibility.json) |
 | [October 8 at 5:48 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-10-08T05:48:26.222123-05:00.accessibility.json) |
 | [October 7 at 6:00 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-10-07T18:00:08.445611-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 5 at 5:58 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-10-05T05:58:16.620939-05:00.accessibility.json) |
 | [October 4 at 5:58 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-10-04T17:58:09.345813-05:00.accessibility.json) |
 | [October 4 at 5:58 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-10-04T05:58:40.162615-05:00.accessibility.json) |
-| [October 3 at 5:55 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-10-03T17:54:52.422280-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 156 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 157 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 9 at 5:55 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-10-09T05:55:33.261443-05:00.lighthouse.json) |
 | [October 8 at 6:01 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-10-08T18:01:18.130492-05:00.lighthouse.json) |
 | [October 8 at 5:48 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-10-08T05:48:26.222123-05:00.lighthouse.json) |
 | [October 7 at 6:00 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-10-07T18:00:08.445611-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 5 at 5:58 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-10-05T05:58:16.620939-05:00.lighthouse.json) |
 | [October 4 at 5:58 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-10-04T17:58:09.345813-05:00.lighthouse.json) |
 | [October 4 at 5:58 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-10-04T05:58:40.162615-05:00.lighthouse.json) |
-| [October 3 at 5:55 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-10-03T17:54:52.422280-05:00.lighthouse.json) |
 
 
 

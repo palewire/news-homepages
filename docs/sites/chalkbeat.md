@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 151 screenshots with the Internet Archive.
+The archiving routine has saved 152 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 151 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-09T07:01:27.793700-04:00.jpg">
+  <img src="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-09T07:01:27.793700-04:00.jpg"
+     alt="Chalkbeat at 2022-10-09 07:01:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-09T07:01:27.793700-04:00.jpg">October 9 at 7:01 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-08T19:07:39.755632-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-03T06:50:43.044651-04:00.jpg">October 3 at 6:50 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-02T19:05:22.538295-04:00.jpg">
-  <img src="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-02T19:05:22.538295-04:00.jpg"
-     alt="Chalkbeat at 2022-10-02 19:05:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-02T19:05:22.538295-04:00.jpg">October 2 at 7:05 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 151 hyperlink lists with the Internet Archive.
+The archiving routine has saved 152 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 9 at 7:01 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-09T07:01:27.793700-04:00.hyperlinks.json) |
 | [October 8 at 7:07 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-08T19:07:39.755632-04:00.hyperlinks.json) |
 | [October 8 at 6:53 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-08T06:53:43.338735-04:00.hyperlinks.json) |
 | [October 7 at 7:06 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-07T19:06:07.544232-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 5 at 7:04 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-05T07:03:52.264446-04:00.hyperlinks.json) |
 | [October 4 at 7:03 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-04T19:03:31.800589-04:00.hyperlinks.json) |
 | [October 4 at 7:04 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-04T07:04:00.482485-04:00.hyperlinks.json) |
-| [October 3 at 7:00 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-03T19:00:41.113560-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 151 accessibility trees with the Internet Archive.
+The archiving routine has saved 152 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 9 at 7:01 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-09T07:01:27.793700-04:00.accessibility.json) |
 | [October 8 at 7:07 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-08T19:07:39.755632-04:00.accessibility.json) |
 | [October 8 at 6:53 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-08T06:53:43.338735-04:00.accessibility.json) |
 | [October 7 at 7:06 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-07T19:06:07.544232-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 5 at 7:04 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-05T07:03:52.264446-04:00.accessibility.json) |
 | [October 4 at 7:03 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-04T19:03:31.800589-04:00.accessibility.json) |
 | [October 4 at 7:04 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-04T07:04:00.482485-04:00.accessibility.json) |
-| [October 3 at 7:00 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-03T19:00:41.113560-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 151 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 152 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 9 at 7:01 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-09T07:01:27.793700-04:00.lighthouse.json) |
 | [October 8 at 7:07 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-08T19:07:39.755632-04:00.lighthouse.json) |
 | [October 8 at 6:53 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-08T06:53:43.338735-04:00.lighthouse.json) |
 | [October 7 at 7:06 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-07T19:06:07.544232-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 5 at 7:04 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-05T07:03:52.264446-04:00.lighthouse.json) |
 | [October 4 at 7:03 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-04T19:03:31.800589-04:00.lighthouse.json) |
 | [October 4 at 7:04 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-04T07:04:00.482485-04:00.lighthouse.json) |
-| [October 3 at 7:00 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-10-03T19:00:41.113560-04:00.lighthouse.json) |
 
 
 
