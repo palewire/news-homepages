@@ -1,5 +1,5 @@
 {
-  "created": 1665256461,
+  "created": 1665300277,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/18/items/newsrepublican-2022",
@@ -2786,31 +2786,93 @@
       "sha1": "f35b7a062fbae4dc5c806ac812dffb51767698fb"
     },
     {
+      "name": "newsrepublican-2022-10-09T02:23:25.492840-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665300209",
+      "size": "22804",
+      "md5": "beacf7807dfde6e572547239c29ff3f0",
+      "crc32": "90482610",
+      "sha1": "38f233c811998a47bd2f6bf63668b2d3b5c43c13",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-09T02:23:25.492840-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665300211",
+      "size": "45415",
+      "md5": "71a188a77f8e5a5bc8b1aa97ed9a2b6d",
+      "crc32": "3304e623",
+      "sha1": "9a928e49acaf1328260c6e60205d3570f000d2e6",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-09T02:23:25.492840-05:00.jpg",
+      "source": "original",
+      "mtime": "1665300208",
+      "size": "212639",
+      "md5": "e6d99e302eca3cac25b592ac07de58a5",
+      "crc32": "a77c5b9c",
+      "sha1": "566776a448b4ed51cb6854184db9ad153c6d98c6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsrepublican-2022-10-09T02:23:25.492840-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665300212",
+      "size": "1630",
+      "md5": "2f1327e7fcc53f04264dda7069776a5b",
+      "crc32": "ea427f63",
+      "sha1": "6c6c57937ddc2199904cb91802b50302541efedd",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-09T02:23:25.492840-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665300214",
+      "size": "88981",
+      "md5": "041e9a7d30705badbe44acd59c8e32a1",
+      "crc32": "7bc32936",
+      "sha1": "3fc946a0541c9cb4fac0cad3e22a59bf7177eb54",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-09T02:23:25.492840-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsrepublican-2022-10-09T02:23:25.492840-05:00.jpg",
+      "mtime": "1665300264",
+      "size": "8487",
+      "md5": "5da757debd4144870585ef5b87a7a0d3",
+      "crc32": "a5312fd2",
+      "sha1": "ab689bb49c4a1699cd7f24ffa624c11a617308e5"
+    },
+    {
       "name": "newsrepublican-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a968ea7b76b3ca1fc68e4478fc1405028472a8a2",
-      "mtime": "1665256447",
-      "size": "59726",
-      "md5": "12172a47f6a882bf616e3e09c89dc0e9",
-      "crc32": "aa41a11d",
-      "sha1": "580d9853fcfb2b1db7f29abd175e1a48f83e4f61",
+      "btih": "bc78185831f5eca9c6a7876942d47eed23e47ae3",
+      "mtime": "1665300268",
+      "size": "61029",
+      "md5": "20ac9923ab22e8f2a3c481c13be91483",
+      "crc32": "4ca58182",
+      "sha1": "0250bb61b09e3ecd182e44fb60192f57cfdf9c18",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newsrepublican-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "279510a4bd62c44428f940d68b3a97a9",
+      "md5": "2a4b73c6077a864c4049fb13efd2e0b4",
       "summation": "md5"
     },
     {
       "name": "newsrepublican-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665256394",
-      "size": "364544",
-      "md5": "d3d3750047db997799074224f287cbfa",
-      "crc32": "8aadc78b",
-      "sha1": "7f52a1a7e03889a68ac2c029c0ac9873403b1374",
+      "mtime": "1665300219",
+      "size": "368640",
+      "md5": "88202f6027962d5bd26daacfc6248718",
+      "crc32": "b3d76569",
+      "sha1": "74d3d7d640c7a763b867d7c4ff18368ba0a72de4",
       "format": "Metadata"
     },
     {
@@ -2824,9 +2886,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 273,
-  "item_last_updated": 1665256447,
-  "item_size": 19428580,
+  "files_count": 279,
+  "item_last_updated": 1665300268,
+  "item_size": 19813935,
   "metadata": {
     "identifier": "newsrepublican-2022",
     "collection": [
@@ -2843,10 +2905,10 @@
     "publicdate": "2022-09-20 19:12:39",
     "addeddate": "2022-09-20 19:12:39"
   },
-  "server": "ia801402.us.archive.org",
-  "uniq": 1758893320,
+  "server": "ia601402.us.archive.org",
+  "uniq": 1276831525,
   "workable_servers": [
-    "ia801402.us.archive.org",
-    "ia601402.us.archive.org"
+    "ia601402.us.archive.org",
+    "ia801402.us.archive.org"
   ]
 }
