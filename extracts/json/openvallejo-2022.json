@@ -1,5 +1,5 @@
 {
-  "created": 1665282750,
+  "created": 1665324236,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/22/items/openvallejo-2022",
@@ -10952,31 +10952,93 @@
       "sha1": "759a4b4a41b743ff59ec71f46b74a1a44eb4c221"
     },
     {
+      "name": "openvallejo-2022-10-09T07:01:43.373241-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665324128",
+      "size": "22714",
+      "md5": "d4c217d91e0fe42b0511581033cff1e3",
+      "crc32": "117009e9",
+      "sha1": "53728d0c8a0efbb2cb39523cbbea5845d3185436",
+      "format": "JSON"
+    },
+    {
+      "name": "openvallejo-2022-10-09T07:01:43.373241-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665324129",
+      "size": "21882",
+      "md5": "c1c79ac24a5a36bfe16e789da3a68471",
+      "crc32": "d86ba19b",
+      "sha1": "e766d7a38c1ec55f38fa81f00ab101de6711f57f",
+      "format": "JSON"
+    },
+    {
+      "name": "openvallejo-2022-10-09T07:01:43.373241-07:00.jpg",
+      "source": "original",
+      "mtime": "1665324126",
+      "size": "236395",
+      "md5": "637f2ae2791cf0e09e1d1a1581edd553",
+      "crc32": "ee77e5c5",
+      "sha1": "f1d773df0597815f9064ab04b46f6e3fa083b829",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "openvallejo-2022-10-09T07:01:43.373241-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665324131",
+      "size": "1467",
+      "md5": "9fe61a598d1f4684b308740a5c16ae7d",
+      "crc32": "c346a692",
+      "sha1": "618eb897db817ea69bcb07834bfb77a3e6055b27",
+      "format": "JSON"
+    },
+    {
+      "name": "openvallejo-2022-10-09T07:01:43.373241-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665324133",
+      "size": "104",
+      "md5": "8b07841375c852e3d990c4ed5d952e14",
+      "crc32": "d3edd2cd",
+      "sha1": "5a794f6de400bf05210effaf9105fca55fcf94c4",
+      "format": "JSON"
+    },
+    {
+      "name": "openvallejo-2022-10-09T07:01:43.373241-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "openvallejo-2022-10-09T07:01:43.373241-07:00.jpg",
+      "mtime": "1665324208",
+      "size": "10150",
+      "md5": "a94f61748b92b9419910bf65d0515937",
+      "crc32": "7eca6f69",
+      "sha1": "759a4b4a41b743ff59ec71f46b74a1a44eb4c221"
+    },
+    {
       "name": "openvallejo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b7047353086fb6e9ad2d27fb20e1fa8a7ee072e4",
-      "mtime": "1665282745",
-      "size": "226723",
-      "md5": "4d9ad733c3da9759c72851a6393b6681",
-      "crc32": "fd594d13",
-      "sha1": "cfbdcce83188e06c2100333a04de98bf018229a8",
+      "btih": "789cbdc5e4ee2d36df3b62ba27ea282482516d27",
+      "mtime": "1665324219",
+      "size": "227987",
+      "md5": "4df6603f4247153b2b33bf993a468cb9",
+      "crc32": "e139d54a",
+      "sha1": "e9a031228dd9e59ad564cb18be3b9a549d72862a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "openvallejo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4fadcfb67904f2cb5a1706c9737a2080",
+      "md5": "5ec945e8b5af699a12b8a87ce463689c",
       "summation": "md5"
     },
     {
       "name": "openvallejo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665282672",
-      "size": "1339392",
-      "md5": "de7bf95f91e9670ac5f8e67278557d26",
-      "crc32": "edf359a9",
-      "sha1": "c1e4041fb885de6c82c0836d155c26f2072eb1fb",
+      "mtime": "1665324138",
+      "size": "1343488",
+      "md5": "4d5d61b839b17b6d6dbef94fab174a30",
+      "crc32": "b6d67b4d",
+      "sha1": "5769f0028ac6215eab3dbc7c470c4c6ba21ff0ac",
       "format": "Metadata"
     },
     {
@@ -10990,9 +11052,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1060,
-  "item_last_updated": 1665282745,
-  "item_size": 68453495,
+  "files_count": 1066,
+  "item_last_updated": 1665324219,
+  "item_size": 68751567,
   "metadata": {
     "identifier": "openvallejo-2022",
     "collection": [
@@ -11009,10 +11071,10 @@
     "publicdate": "2022-07-09 04:01:53",
     "addeddate": "2022-07-09 04:01:53"
   },
-  "server": "ia902503.us.archive.org",
-  "uniq": 1425612589,
+  "server": "ia802503.us.archive.org",
+  "uniq": 1543062438,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia802503.us.archive.org",
+    "ia902503.us.archive.org"
   ]
 }
