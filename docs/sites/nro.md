@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 424 screenshots with the Internet Archive.
+The archiving routine has saved 425 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 424 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nro-2022/nro-2022-10-08T22:31:07.475644-04:00.jpg">
+  <img src="https://archive.org/download/nro-2022/nro-2022-10-08T22:31:07.475644-04:00.jpg"
+     alt="National Review at 2022-10-08 22:31:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nro-2022/nro-2022-10-08T22:31:07.475644-04:00.jpg">October 8 at 10:31 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nro-2022/nro-2022-10-08T15:53:04.109368-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nro-2022/nro-2022-10-05T10:17:34.325028-04:00.jpg">October 5 at 10:17 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nro-2022/nro-2022-10-04T22:29:30.130908-04:00.jpg">
-  <img src="https://archive.org/download/nro-2022/nro-2022-10-04T22:29:30.130908-04:00.jpg"
-     alt="National Review at 2022-10-04 22:29:43-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nro-2022/nro-2022-10-04T22:29:30.130908-04:00.jpg">October 4 at 10:29 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 402 hyperlink lists with the Internet Archive.
+The archiving routine has saved 403 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 8 at 10:31 PM](https://archive.org/download/nro-2022/nro-2022-10-08T22:31:07.475644-04:00.hyperlinks.json) |
 | [October 8 at 3:53 PM](https://archive.org/download/nro-2022/nro-2022-10-08T15:53:04.109368-04:00.hyperlinks.json) |
 | [October 8 at 10:08 AM](https://archive.org/download/nro-2022/nro-2022-10-08T10:08:47.423202-04:00.hyperlinks.json) |
 | [October 7 at 10:29 PM](https://archive.org/download/nro-2022/nro-2022-10-07T22:29:35.834302-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 6 at 4:59 PM](https://archive.org/download/nro-2022/nro-2022-10-06T16:59:02.786506-04:00.hyperlinks.json) |
 | [October 6 at 10:12 AM](https://archive.org/download/nro-2022/nro-2022-10-06T10:12:20.704678-04:00.hyperlinks.json) |
 | [October 5 at 10:32 PM](https://archive.org/download/nro-2022/nro-2022-10-05T22:32:27.182892-04:00.hyperlinks.json) |
-| [October 5 at 4:59 PM](https://archive.org/download/nro-2022/nro-2022-10-05T16:59:06.104545-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 412 accessibility trees with the Internet Archive.
+The archiving routine has saved 413 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 8 at 10:31 PM](https://archive.org/download/nro-2022/nro-2022-10-08T22:31:07.475644-04:00.accessibility.json) |
 | [October 8 at 3:53 PM](https://archive.org/download/nro-2022/nro-2022-10-08T15:53:04.109368-04:00.accessibility.json) |
 | [October 8 at 10:08 AM](https://archive.org/download/nro-2022/nro-2022-10-08T10:08:47.423202-04:00.accessibility.json) |
 | [October 7 at 10:29 PM](https://archive.org/download/nro-2022/nro-2022-10-07T22:29:35.834302-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 6 at 4:59 PM](https://archive.org/download/nro-2022/nro-2022-10-06T16:59:02.786506-04:00.accessibility.json) |
 | [October 6 at 10:12 AM](https://archive.org/download/nro-2022/nro-2022-10-06T10:12:20.704678-04:00.accessibility.json) |
 | [October 5 at 10:32 PM](https://archive.org/download/nro-2022/nro-2022-10-05T22:32:27.182892-04:00.accessibility.json) |
-| [October 5 at 4:59 PM](https://archive.org/download/nro-2022/nro-2022-10-05T16:59:06.104545-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 226 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 227 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 8 at 10:31 PM](https://archive.org/download/nro-2022/nro-2022-10-08T22:31:07.475644-04:00.lighthouse.json) |
 | [October 8 at 3:53 PM](https://archive.org/download/nro-2022/nro-2022-10-08T15:53:04.109368-04:00.lighthouse.json) |
 | [October 8 at 10:08 AM](https://archive.org/download/nro-2022/nro-2022-10-08T10:08:47.423202-04:00.lighthouse.json) |
 | [October 7 at 10:29 PM](https://archive.org/download/nro-2022/nro-2022-10-07T22:29:35.834302-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 6 at 4:59 PM](https://archive.org/download/nro-2022/nro-2022-10-06T16:59:02.786506-04:00.lighthouse.json) |
 | [October 6 at 10:12 AM](https://archive.org/download/nro-2022/nro-2022-10-06T10:12:20.704678-04:00.lighthouse.json) |
 | [October 5 at 10:32 PM](https://archive.org/download/nro-2022/nro-2022-10-05T22:32:27.182892-04:00.lighthouse.json) |
-| [October 5 at 4:59 PM](https://archive.org/download/nro-2022/nro-2022-10-05T16:59:06.104545-04:00.lighthouse.json) |
 
 
 

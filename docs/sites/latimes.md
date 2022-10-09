@@ -437,7 +437,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 884 hyperlink lists with the Internet Archive.
+The archiving routine has saved 885 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 8 at 12:50 PM](https://archive.org/download/latimes-2022/latimes-2022-10-08T12:50:41.096982-07:00.hyperlinks.json) |
 | [October 8 at 12:46 PM](https://archive.org/download/latimes-2022/latimes-2022-10-08T12:46:26.788747-07:00.hyperlinks.json) |
 | [October 8 at 10:40 AM](https://archive.org/download/latimes-2022/latimes-2022-10-08T10:40:00.924652-07:00.hyperlinks.json) |
 | [October 8 at 6:59 AM](https://archive.org/download/latimes-2022/latimes-2022-10-08T06:59:13.534358-07:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 7 at 1:30 PM](https://archive.org/download/latimes-2022/latimes-2022-10-07T13:29:54.605285-07:00.hyperlinks.json) |
 | [October 7 at 11:01 AM](https://archive.org/download/latimes-2022/latimes-2022-10-07T11:01:08.063870-07:00.hyperlinks.json) |
 | [October 7 at 7:08 AM](https://archive.org/download/latimes-2022/latimes-2022-10-07T07:08:14.876877-07:00.hyperlinks.json) |
-| [October 6 at 11:17 PM](https://archive.org/download/latimes-2022/latimes-2022-10-06T23:17:37.311618-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 893 accessibility trees with the Internet Archive.
+The archiving routine has saved 894 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 8 at 12:50 PM](https://archive.org/download/latimes-2022/latimes-2022-10-08T12:50:41.096982-07:00.accessibility.json) |
 | [October 8 at 12:46 PM](https://archive.org/download/latimes-2022/latimes-2022-10-08T12:46:26.788747-07:00.accessibility.json) |
 | [October 8 at 10:40 AM](https://archive.org/download/latimes-2022/latimes-2022-10-08T10:40:00.924652-07:00.accessibility.json) |
 | [October 8 at 6:59 AM](https://archive.org/download/latimes-2022/latimes-2022-10-08T06:59:13.534358-07:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 7 at 1:30 PM](https://archive.org/download/latimes-2022/latimes-2022-10-07T13:29:54.605285-07:00.accessibility.json) |
 | [October 7 at 11:01 AM](https://archive.org/download/latimes-2022/latimes-2022-10-07T11:01:08.063870-07:00.accessibility.json) |
 | [October 7 at 7:08 AM](https://archive.org/download/latimes-2022/latimes-2022-10-07T07:08:14.876877-07:00.accessibility.json) |
-| [October 6 at 11:17 PM](https://archive.org/download/latimes-2022/latimes-2022-10-06T23:17:37.311618-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 453 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 454 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 8 at 12:50 PM](https://archive.org/download/latimes-2022/latimes-2022-10-08T12:50:41.096982-07:00.lighthouse.json) |
 | [October 8 at 12:47 PM](https://archive.org/download/latimes-2022/latimes-2022-10-08T12:46:26.788747-07:00.lighthouse.json) |
 | [October 8 at 10:40 AM](https://archive.org/download/latimes-2022/latimes-2022-10-08T10:40:00.924652-07:00.lighthouse.json) |
 | [October 8 at 6:59 AM](https://archive.org/download/latimes-2022/latimes-2022-10-08T06:59:13.534358-07:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 7 at 1:30 PM](https://archive.org/download/latimes-2022/latimes-2022-10-07T13:29:54.605285-07:00.lighthouse.json) |
 | [October 7 at 11:02 AM](https://archive.org/download/latimes-2022/latimes-2022-10-07T11:01:08.063870-07:00.lighthouse.json) |
 | [October 7 at 7:08 AM](https://archive.org/download/latimes-2022/latimes-2022-10-07T07:08:14.876877-07:00.lighthouse.json) |
-| [October 6 at 11:17 PM](https://archive.org/download/latimes-2022/latimes-2022-10-06T23:17:37.311618-07:00.lighthouse.json) |
 
 
 
