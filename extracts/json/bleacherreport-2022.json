@@ -1,5 +1,5 @@
 {
-  "created": 1665270356,
+  "created": 1665313184,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/30/items/bleacherreport-2022",
@@ -11068,31 +11068,93 @@
       "sha1": "314f866f5a03a96b63954e328273776646922ecc"
     },
     {
+      "name": "bleacherreport-2022-10-09T06:58:03.959869-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665313092",
+      "size": "16227",
+      "md5": "2f33ae2a3e0ffa166e683118341fbba8",
+      "crc32": "bc962dea",
+      "sha1": "65771f7ecc234294917becf5c42ea6d2adecd52e",
+      "format": "JSON"
+    },
+    {
+      "name": "bleacherreport-2022-10-09T06:58:03.959869-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665313094",
+      "size": "15455",
+      "md5": "bc24701f6caf986b9cd502c6353ec79e",
+      "crc32": "0f17c9d2",
+      "sha1": "a3fd97b439d16699bb87678fecae49a0899dce5f",
+      "format": "JSON"
+    },
+    {
+      "name": "bleacherreport-2022-10-09T06:58:03.959869-04:00.jpg",
+      "source": "original",
+      "mtime": "1665313090",
+      "size": "216807",
+      "md5": "842ed8922af30f467e63f7e81271d50d",
+      "crc32": "d58863da",
+      "sha1": "ee266ea8c77973b72e475d7b7e3108c409fac617",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bleacherreport-2022-10-09T06:58:03.959869-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665313095",
+      "size": "1495",
+      "md5": "e9099c99962ac3be8896dd985e613e2e",
+      "crc32": "c05aa651",
+      "sha1": "3db85ac4b3fd05d1bf0801c25720c672b59d991d",
+      "format": "JSON"
+    },
+    {
+      "name": "bleacherreport-2022-10-09T06:58:03.959869-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665313097",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "bleacherreport-2022-10-09T06:58:03.959869-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bleacherreport-2022-10-09T06:58:03.959869-04:00.jpg",
+      "mtime": "1665313156",
+      "size": "10092",
+      "md5": "d35f460dc64ac40c41be1353b6bf81be",
+      "crc32": "d22b956d",
+      "sha1": "ad8dcc93e896dcc04eeadc321f538f696974a4fe"
+    },
+    {
       "name": "bleacherreport-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9e83dc04af23256ad79b76d9d00c9482afcc13a5",
-      "mtime": "1665270348",
-      "size": "231930",
-      "md5": "0a334f6d568db6d7e138ed5f92f221cc",
-      "crc32": "4e864f1e",
-      "sha1": "27b07bb6b496b68f558a039f9d52f99c3dec4233",
+      "btih": "d4bcbb323a940bb86ff99cd74ec120d64d128975",
+      "mtime": "1665313175",
+      "size": "233212",
+      "md5": "f2ca414b15dae24721dd8d98651e7cf7",
+      "crc32": "940e9b1e",
+      "sha1": "a10be46c9955921fe565afb0daf283a05b822625",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bleacherreport-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f7617ef023ba539e239bf6af08ab76ae",
+      "md5": "7c5adbd99ac35a70db04a3e45126764a",
       "summation": "md5"
     },
     {
       "name": "bleacherreport-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665270285",
-      "size": "1351680",
-      "md5": "6603af97904706f47255065f3f8c0250",
-      "crc32": "3227074d",
-      "sha1": "1c060a687798f859ed695ad58d846c30d4485118",
+      "mtime": "1665313100",
+      "size": "1359872",
+      "md5": "7a961d8943ebf0910acd52c5588899b5",
+      "crc32": "6ae52aae",
+      "sha1": "3a2e3a8992223b1f2875b38791ba06aa41737620",
       "format": "Metadata"
     },
     {
@@ -11106,9 +11168,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1071,
-  "item_last_updated": 1665270348,
-  "item_size": 60539603,
+  "files_count": 1077,
+  "item_last_updated": 1665313175,
+  "item_size": 60809355,
   "metadata": {
     "identifier": "bleacherreport-2022",
     "collection": [
@@ -11125,10 +11187,10 @@
     "publicdate": "2022-07-04 20:45:29",
     "addeddate": "2022-07-04 20:45:29"
   },
-  "server": "ia802506.us.archive.org",
-  "uniq": 1616218651,
+  "server": "ia902506.us.archive.org",
+  "uniq": 20852556,
   "workable_servers": [
-    "ia802506.us.archive.org",
-    "ia902506.us.archive.org"
+    "ia902506.us.archive.org",
+    "ia802506.us.archive.org"
   ]
 }
