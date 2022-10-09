@@ -1,5 +1,5 @@
 {
-  "created": 1665300628,
+  "created": 1665343598,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/southcoasttoday-2022",
@@ -2372,31 +2372,93 @@
       "sha1": "1d6c8497d3dd3802f49636a3fd8a051f31513ee3"
     },
     {
+      "name": "southcoasttoday-2022-10-09T15:25:25.702829-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665343530",
+      "size": "21772",
+      "md5": "4aa0c4ad0bcc794cdde811c277524987",
+      "crc32": "179868d1",
+      "sha1": "0eb708fec8f134e1f4a4142271408e217f8e705e",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-09T15:25:25.702829-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665343532",
+      "size": "35474",
+      "md5": "c8e1ef1f5f7e18ae4824cfa9c89abd8b",
+      "crc32": "006f7379",
+      "sha1": "6b53a04102bdc3b86fd2e0a1b5b7739813f62798",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-09T15:25:25.702829-04:00.jpg",
+      "source": "original",
+      "mtime": "1665343528",
+      "size": "294709",
+      "md5": "a1a44594458a2ff6f2dfb35d778b41cc",
+      "crc32": "ffb92a14",
+      "sha1": "79132edcd84da57923ee665597d0b7e363fa263f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "southcoasttoday-2022-10-09T15:25:25.702829-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665343533",
+      "size": "1539",
+      "md5": "6821d194af468cb46607ac2c3f0e79d5",
+      "crc32": "a54fd58a",
+      "sha1": "eda18da07f2f00a5feba7813eccb563a984fdb01",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-09T15:25:25.702829-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665343535",
+      "size": "212",
+      "md5": "bbf05e6c3033a022e9aa6da68098c871",
+      "crc32": "c768c210",
+      "sha1": "5c31010d7dd0570c20947850bd27e1f499e529b9",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-09T15:25:25.702829-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "southcoasttoday-2022-10-09T15:25:25.702829-04:00.jpg",
+      "mtime": "1665343585",
+      "size": "9735",
+      "md5": "66ff9c910b10a0cf8e393cc3bd200c09",
+      "crc32": "42e02739",
+      "sha1": "df7644f289f448468a8b73d27ee98008902fa430"
+    },
+    {
       "name": "southcoasttoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a93a8ab6ca7f6a4da814f4c14b1a7bb698d7b9ce",
-      "mtime": "1665300620",
-      "size": "51294",
-      "md5": "ad04acf5f6510666a8a7f5ba157d0cff",
-      "crc32": "b3bee4c8",
-      "sha1": "aaa55184bd19873971d1d1d733d0123785925e55",
+      "btih": "140da72ebe8e1331c1cc86caf2beb38821005dde",
+      "mtime": "1665343589",
+      "size": "52601",
+      "md5": "61fc3b9753536e1918f12d5c3655a17e",
+      "crc32": "cbdcc648",
+      "sha1": "d15c2c7f355f2cba52c611fb6c1f50b95d07e61e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "southcoasttoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9cba8db3bee368f96fde598074d54b8c",
+      "md5": "28f87f41a364c51c4697ca274d89e381",
       "summation": "md5"
     },
     {
       "name": "southcoasttoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665300573",
-      "size": "315392",
-      "md5": "89eabc68826e7adcd0ee520fc12f20be",
-      "crc32": "d732c293",
-      "sha1": "47928488bbf7f40b88cca84792f1ee6cfc2f0295",
+      "mtime": "1665343540",
+      "size": "323584",
+      "md5": "b2e372e811a6bf4dea4b1d0278b67924",
+      "crc32": "ccd09405",
+      "sha1": "bd899d0122534dc967953795810191ff26b99610",
       "format": "Metadata"
     },
     {
@@ -2410,9 +2472,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 233,
-  "item_last_updated": 1665300620,
-  "item_size": 16715475,
+  "files_count": 239,
+  "item_last_updated": 1665343589,
+  "item_size": 17088415,
   "metadata": {
     "identifier": "southcoasttoday-2022",
     "collection": [
@@ -2429,10 +2491,10 @@
     "publicdate": "2022-09-20 19:25:17",
     "addeddate": "2022-09-20 19:25:17"
   },
-  "server": "ia601403.us.archive.org",
-  "uniq": 270415546,
+  "server": "ia801403.us.archive.org",
+  "uniq": 690880324,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia801403.us.archive.org",
+    "ia601403.us.archive.org"
   ]
 }

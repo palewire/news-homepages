@@ -1,5 +1,5 @@
 {
-  "created": 1665300506,
+  "created": 1665343299,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/28/items/populardiario-2022",
@@ -7498,31 +7498,93 @@
       "sha1": "8896691353ba2b88aaa2d81a5cc25cd7027e27ac"
     },
     {
+      "name": "populardiario-2022-10-09T16:20:09.958133-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665343217",
+      "size": "51503",
+      "md5": "cc24d3bab42f985c6d33893cdb7dd280",
+      "crc32": "c652883c",
+      "sha1": "41ed91a68783b75135249914affdec897afa78bc",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-09T16:20:09.958133-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665343219",
+      "size": "83671",
+      "md5": "cc084189413f71086fc26eac8d002fce",
+      "crc32": "2a2432e2",
+      "sha1": "ef4a2130d26931b15e70ad24f2449dcf4d72aa9d",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-09T16:20:09.958133-03:00.jpg",
+      "source": "original",
+      "mtime": "1665343215",
+      "size": "338147",
+      "md5": "a43061b39d27c3c587af6a361eb47815",
+      "crc32": "d23adc3a",
+      "sha1": "d482a4b9744bd2b84e95c5ceb28c3115ef63b2c3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "populardiario-2022-10-09T16:20:09.958133-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665343220",
+      "size": "1546",
+      "md5": "823d6444a283df922f32afc36726a497",
+      "crc32": "5df42233",
+      "sha1": "d28b05cb5de72c7211ca76c46e76ec6516eeaa40",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-09T16:20:09.958133-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665343222",
+      "size": "44076",
+      "md5": "9f6e01b453222a41f87e37f8602920b4",
+      "crc32": "02ceaa95",
+      "sha1": "2bf35ec3f8c25f475081e5f2808322ea26f6bd88",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-09T16:20:09.958133-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "populardiario-2022-10-09T16:20:09.958133-03:00.jpg",
+      "mtime": "1665343278",
+      "size": "11078",
+      "md5": "5cda2447b454a39d859a5332940ed6b6",
+      "crc32": "93773e18",
+      "sha1": "79dc8532b5f91ea93e7a12cb50a4ede6652e3902"
+    },
+    {
       "name": "populardiario-2022_archive.torrent",
       "source": "metadata",
-      "btih": "052ee9cba9203d205d718810a053c1a4b57110eb",
-      "mtime": "1665300494",
-      "size": "158291",
-      "md5": "f62691b3936783cece1872f8b768c102",
-      "crc32": "0e0ae7ba",
-      "sha1": "f18c93ff5118d63b8f4d38f3bec40458a410f9dc",
+      "btih": "f595ac3f2d11307e2b0b4b40e83c4f0b11455106",
+      "mtime": "1665343291",
+      "size": "159589",
+      "md5": "a5934854c40446fe7b7603e25fa99b99",
+      "crc32": "9ac042db",
+      "sha1": "1e9b2cf9714e93e86aff22ddee4424feabb21744",
       "format": "Archive BitTorrent"
     },
     {
       "name": "populardiario-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "98169b56a475a953a688fab1e4e64c28",
+      "md5": "7b02b88e5d558a9ac76d4aec3108f852",
       "summation": "md5"
     },
     {
       "name": "populardiario-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665300436",
-      "size": "942080",
-      "md5": "de212c1752effc13283832b43852d911",
-      "crc32": "bf35958b",
-      "sha1": "1258497ee44d4aaa402e61deb558ef4adaf6c039",
+      "mtime": "1665343226",
+      "size": "950272",
+      "md5": "db87ced69393732900df7702b0500ba2",
+      "crc32": "97ee99d3",
+      "sha1": "5748bc6d772e1c5a1fdde105291a72aa5f5bcb3f",
       "format": "Metadata"
     },
     {
@@ -7536,9 +7598,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 729,
-  "item_last_updated": 1665300494,
-  "item_size": 65002945,
+  "files_count": 735,
+  "item_last_updated": 1665343291,
+  "item_size": 65542456,
   "metadata": {
     "identifier": "populardiario-2022",
     "collection": [
@@ -7555,10 +7617,10 @@
     "publicdate": "2022-08-09 17:48:48",
     "addeddate": "2022-08-09 17:48:48"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 1903858567,
+  "server": "ia601403.us.archive.org",
+  "uniq": 1303682402,
   "workable_servers": [
-    "ia801403.us.archive.org",
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1665300602,
+  "created": 1665346049,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/22/items/rgvfox-2022",
@@ -9788,31 +9788,93 @@
       "sha1": "c439566f52f011b12d5dda1ae0847de355a1f074"
     },
     {
+      "name": "rgvfox-2022-10-09T14:22:27.256715-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665343354",
+      "size": "10823",
+      "md5": "52e4608c0ae54f09261c885ed2cbe351",
+      "crc32": "1d0a52b2",
+      "sha1": "bb1b959ef69989aba3cb14239cd730c9c471ae50",
+      "format": "JSON"
+    },
+    {
+      "name": "rgvfox-2022-10-09T14:22:27.256715-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665343356",
+      "size": "14484",
+      "md5": "54469108c51d4d998d7807d697e6a3ac",
+      "crc32": "246bdcb2",
+      "sha1": "61f0d11b71ecf217a048a3fd16a02622f485fddf",
+      "format": "JSON"
+    },
+    {
+      "name": "rgvfox-2022-10-09T14:22:27.256715-05:00.jpg",
+      "source": "original",
+      "mtime": "1665343353",
+      "size": "214262",
+      "md5": "ae2c294c21281f422177e4c497c0a01c",
+      "crc32": "8724dbf7",
+      "sha1": "d6b7a8f2695bb78828b4fcae72fb3d441e435d00",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rgvfox-2022-10-09T14:22:27.256715-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665343358",
+      "size": "1522",
+      "md5": "cd2abb07706f36486304fdd6cd4e75d9",
+      "crc32": "b8fb35ff",
+      "sha1": "891caad51a7e38e832c208369735a01afe0b2c9d",
+      "format": "JSON"
+    },
+    {
+      "name": "rgvfox-2022-10-09T14:22:27.256715-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665343359",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "rgvfox-2022-10-09T14:22:27.256715-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rgvfox-2022-10-09T14:22:27.256715-05:00.jpg",
+      "mtime": "1665343419",
+      "size": "9650",
+      "md5": "fdf10ede157a347f4de5705b01c2f9a4",
+      "crc32": "8954c144",
+      "sha1": "9eecdfbbd2bdff26b5f61d998919b331e217baa3"
+    },
+    {
       "name": "rgvfox-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e1f3565254166b9609ce1b787fe2b23febaf2c02",
-      "mtime": "1665300592",
-      "size": "197509",
-      "md5": "f758f105271763f0c9cec5b7078c9cfe",
-      "crc32": "524e9049",
-      "sha1": "4dbb98137943c49335cd76a89df2990f614258e7",
+      "btih": "84339b3aae118015e5915f97798a924f976fed44",
+      "mtime": "1665343427",
+      "size": "198762",
+      "md5": "d1f69e64e7e0c5ba828ea97ddcc728ec",
+      "crc32": "ac1fabd8",
+      "sha1": "3bd07e7ce1191af4050e9747b5c49252ed26ce8c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rgvfox-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "014d0ad8bf49333902a4b4411681741e",
+      "md5": "76d0158ca0a407505ac748eb3cf1234a",
       "summation": "md5"
     },
     {
       "name": "rgvfox-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665300527",
-      "size": "1200128",
-      "md5": "bbd06be6bbaaf0f796213f2568dd114f",
-      "crc32": "138ede8e",
-      "sha1": "89707615be9f593ddb6b4d6d3c5693b9681c4178",
+      "mtime": "1665343365",
+      "size": "1204224",
+      "md5": "5d06c66722023ff95fd5d95622223406",
+      "crc32": "4d2d77c3",
+      "sha1": "04653c7bf10d14e95ba391f02bb947e1a6386c83",
       "format": "Metadata"
     },
     {
@@ -9826,9 +9888,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 949,
-  "item_last_updated": 1665300592,
-  "item_size": 45144737,
+  "files_count": 955,
+  "item_last_updated": 1665343427,
+  "item_size": 45401029,
   "metadata": {
     "identifier": "rgvfox-2022",
     "collection": [
@@ -9845,8 +9907,13 @@
     "publicdate": "2022-07-18 00:05:25",
     "addeddate": "2022-07-18 00:05:25"
   },
+  "rgvfox-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia601403.us.archive.org",
-  "uniq": 1274106407,
+  "uniq": 2142510188,
   "workable_servers": [
     "ia601403.us.archive.org",
     "ia801403.us.archive.org"
