@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 243 screenshots with the Internet Archive.
+The archiving routine has saved 245 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-09T16:09:30.278062-04:00.jpg">
+  <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-09T16:09:30.278062-04:00.jpg"
+     alt="WND News at 2022-10-09 16:09:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-09T16:09:30.278062-04:00.jpg">October 9 at 4:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-09T16:02:17.589963-04:00.jpg">
+  <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-09T16:02:17.589963-04:00.jpg"
+     alt="WND News at 2022-10-09 16:02:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-09T16:02:17.589963-04:00.jpg">October 9 at 4:02 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-09T03:33:44.439908-04:00.jpg">
   <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-09T03:33:44.439908-04:00.jpg"
      alt="WND News at 2022-10-09 03:33:46-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-06T03:23:36.452911-04:00.jpg">October 6 at 3:23 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-05T17:01:11.117005-04:00.jpg">
-  <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-05T17:01:11.117005-04:00.jpg"
-     alt="WND News at 2022-10-05 17:01:13-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-05T17:01:11.117005-04:00.jpg">October 5 at 5:01 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-05T16:54:02.212742-04:00.jpg">
-  <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-05T16:54:02.212742-04:00.jpg"
-     alt="WND News at 2022-10-05 16:54:12-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-05T16:54:02.212742-04:00.jpg">October 5 at 4:54 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 237 hyperlink lists with the Internet Archive.
+The archiving routine has saved 239 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 9 at 4:09 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-09T16:09:30.278062-04:00.hyperlinks.json) |
+| [October 9 at 4:02 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-09T16:02:17.589963-04:00.hyperlinks.json) |
 | [October 8 at 3:53 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-08T15:52:56.746063-04:00.hyperlinks.json) |
 | [October 8 at 3:11 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-08T15:11:42.285979-04:00.hyperlinks.json) |
 | [October 8 at 3:15 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-08T03:15:46.564094-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 7 at 3:59 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-07T03:59:00.308373-04:00.hyperlinks.json) |
 | [October 6 at 4:59 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-06T16:59:14.954611-04:00.hyperlinks.json) |
 | [October 6 at 4:33 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-06T16:33:05.360274-04:00.hyperlinks.json) |
-| [October 6 at 3:23 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-06T03:23:36.452911-04:00.hyperlinks.json) |
-| [October 5 at 5:01 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-05T17:01:11.117005-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 240 accessibility trees with the Internet Archive.
+The archiving routine has saved 242 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 9 at 4:09 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-09T16:09:30.278062-04:00.accessibility.json) |
+| [October 9 at 4:02 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-09T16:02:17.589963-04:00.accessibility.json) |
 | [October 9 at 3:33 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-09T03:33:44.439908-04:00.accessibility.json) |
 | [October 8 at 3:53 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-08T15:52:56.746063-04:00.accessibility.json) |
 | [October 8 at 3:11 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-08T15:11:42.285979-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 7 at 4:27 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-07T16:27:47.745534-04:00.accessibility.json) |
 | [October 7 at 3:59 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-07T03:59:00.308373-04:00.accessibility.json) |
 | [October 6 at 4:59 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-06T16:59:14.954611-04:00.accessibility.json) |
-| [October 6 at 4:33 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-06T16:33:05.360274-04:00.accessibility.json) |
-| [October 6 at 3:23 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-06T03:23:36.452911-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 225 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 227 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 9 at 4:09 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-09T16:09:30.278062-04:00.lighthouse.json) |
+| [October 9 at 4:02 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-09T16:02:17.589963-04:00.lighthouse.json) |
 | [October 9 at 3:33 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-09T03:33:44.439908-04:00.lighthouse.json) |
 | [October 8 at 3:53 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-08T15:52:56.746063-04:00.lighthouse.json) |
 | [October 8 at 3:11 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-08T15:11:42.285979-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 7 at 4:28 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-07T16:27:47.745534-04:00.lighthouse.json) |
 | [October 7 at 3:59 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-07T03:59:00.308373-04:00.lighthouse.json) |
 | [October 6 at 4:59 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-06T16:59:14.954611-04:00.lighthouse.json) |
-| [October 6 at 4:33 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-06T16:33:05.360274-04:00.lighthouse.json) |
-| [October 6 at 3:23 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-10-06T03:23:36.452911-04:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 191 screenshots with the Internet Archive.
+The archiving routine has saved 192 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 191 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rollcall-2022/rollcall-2022-10-09T15:23:27.454482-04:00.jpg">
+  <img src="https://archive.org/download/rollcall-2022/rollcall-2022-10-09T15:23:27.454482-04:00.jpg"
+     alt="Roll Call at 2022-10-09 15:23:39-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-10-09T15:23:27.454482-04:00.jpg">October 9 at 3:23 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rollcall-2022/rollcall-2022-10-09T03:28:23.321744-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-10-04T03:48:14.574217-04:00.jpg">October 4 at 3:48 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/rollcall-2022/rollcall-2022-10-03T15:22:19.228563-04:00.jpg">
-  <img src="https://archive.org/download/rollcall-2022/rollcall-2022-10-03T15:22:19.228563-04:00.jpg"
-     alt="Roll Call at 2022-10-03 15:22:38-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-10-03T15:22:19.228563-04:00.jpg">October 3 at 3:22 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 168 hyperlink lists with the Internet Archive.
+The archiving routine has saved 169 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 9 at 3:23 PM](https://archive.org/download/rollcall-2022/rollcall-2022-10-09T15:23:27.454482-04:00.hyperlinks.json) |
 | [October 9 at 3:28 AM](https://archive.org/download/rollcall-2022/rollcall-2022-10-09T03:28:23.321744-04:00.hyperlinks.json) |
 | [October 8 at 3:17 PM](https://archive.org/download/rollcall-2022/rollcall-2022-10-08T15:17:24.424437-04:00.hyperlinks.json) |
 | [October 8 at 3:21 AM](https://archive.org/download/rollcall-2022/rollcall-2022-10-08T03:21:31.683260-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 6 at 3:17 AM](https://archive.org/download/rollcall-2022/rollcall-2022-10-06T03:17:16.163739-04:00.hyperlinks.json) |
 | [October 5 at 4:46 PM](https://archive.org/download/rollcall-2022/rollcall-2022-10-05T16:46:23.424791-04:00.hyperlinks.json) |
 | [October 5 at 3:27 AM](https://archive.org/download/rollcall-2022/rollcall-2022-10-05T03:27:16.430493-04:00.hyperlinks.json) |
-| [October 4 at 3:36 PM](https://archive.org/download/rollcall-2022/rollcall-2022-10-04T15:36:38.514309-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 189 accessibility trees with the Internet Archive.
+The archiving routine has saved 190 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 9 at 3:23 PM](https://archive.org/download/rollcall-2022/rollcall-2022-10-09T15:23:27.454482-04:00.accessibility.json) |
 | [October 9 at 3:28 AM](https://archive.org/download/rollcall-2022/rollcall-2022-10-09T03:28:23.321744-04:00.accessibility.json) |
 | [October 8 at 3:17 PM](https://archive.org/download/rollcall-2022/rollcall-2022-10-08T15:17:24.424437-04:00.accessibility.json) |
 | [October 8 at 3:21 AM](https://archive.org/download/rollcall-2022/rollcall-2022-10-08T03:21:31.683260-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 6 at 3:17 AM](https://archive.org/download/rollcall-2022/rollcall-2022-10-06T03:17:16.163739-04:00.accessibility.json) |
 | [October 5 at 4:46 PM](https://archive.org/download/rollcall-2022/rollcall-2022-10-05T16:46:23.424791-04:00.accessibility.json) |
 | [October 5 at 3:27 AM](https://archive.org/download/rollcall-2022/rollcall-2022-10-05T03:27:16.430493-04:00.accessibility.json) |
-| [October 4 at 3:36 PM](https://archive.org/download/rollcall-2022/rollcall-2022-10-04T15:36:38.514309-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 154 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 155 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 9 at 3:23 PM](https://archive.org/download/rollcall-2022/rollcall-2022-10-09T15:23:27.454482-04:00.lighthouse.json) |
 | [October 9 at 3:28 AM](https://archive.org/download/rollcall-2022/rollcall-2022-10-09T03:28:23.321744-04:00.lighthouse.json) |
 | [October 8 at 3:17 PM](https://archive.org/download/rollcall-2022/rollcall-2022-10-08T15:17:24.424437-04:00.lighthouse.json) |
 | [October 8 at 3:21 AM](https://archive.org/download/rollcall-2022/rollcall-2022-10-08T03:21:31.683260-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 6 at 3:17 AM](https://archive.org/download/rollcall-2022/rollcall-2022-10-06T03:17:16.163739-04:00.lighthouse.json) |
 | [October 5 at 4:46 PM](https://archive.org/download/rollcall-2022/rollcall-2022-10-05T16:46:23.424791-04:00.lighthouse.json) |
 | [October 5 at 3:27 AM](https://archive.org/download/rollcall-2022/rollcall-2022-10-05T03:27:16.430493-04:00.lighthouse.json) |
-| [October 4 at 3:36 PM](https://archive.org/download/rollcall-2022/rollcall-2022-10-04T15:36:38.514309-04:00.lighthouse.json) |
 
 
 

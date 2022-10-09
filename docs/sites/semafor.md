@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 224 screenshots with the Internet Archive.
+The archiving routine has saved 225 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 224 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/semafor-2022/semafor-2022-10-09T15:26:00.372490-04:00.jpg">
+  <img src="https://archive.org/download/semafor-2022/semafor-2022-10-09T15:26:00.372490-04:00.jpg"
+     alt="Semafor at 2022-10-09 15:26:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/semafor-2022/semafor-2022-10-09T15:26:00.372490-04:00.jpg">October 9 at 3:26 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/semafor-2022/semafor-2022-10-09T03:28:53.220227-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/semafor-2022/semafor-2022-10-04T03:48:32.454564-04:00.jpg">October 4 at 3:48 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/semafor-2022/semafor-2022-10-03T15:23:42.644418-04:00.jpg">
-  <img src="https://archive.org/download/semafor-2022/semafor-2022-10-03T15:23:42.644418-04:00.jpg"
-     alt="Semafor at 2022-10-03 15:23:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/semafor-2022/semafor-2022-10-03T15:23:42.644418-04:00.jpg">October 3 at 3:23 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 227 hyperlink lists with the Internet Archive.
+The archiving routine has saved 228 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 9 at 3:26 PM](https://archive.org/download/semafor-2022/semafor-2022-10-09T15:26:00.372490-04:00.hyperlinks.json) |
 | [October 9 at 3:29 AM](https://archive.org/download/semafor-2022/semafor-2022-10-09T03:28:53.220227-04:00.hyperlinks.json) |
 | [October 8 at 3:19 PM](https://archive.org/download/semafor-2022/semafor-2022-10-08T15:19:09.371486-04:00.hyperlinks.json) |
 | [October 8 at 3:21 AM](https://archive.org/download/semafor-2022/semafor-2022-10-08T03:21:48.478931-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 6 at 3:17 AM](https://archive.org/download/semafor-2022/semafor-2022-10-06T03:17:46.280518-04:00.hyperlinks.json) |
 | [October 5 at 4:45 PM](https://archive.org/download/semafor-2022/semafor-2022-10-05T16:45:26.200518-04:00.hyperlinks.json) |
 | [October 5 at 3:27 AM](https://archive.org/download/semafor-2022/semafor-2022-10-05T03:27:31.303345-04:00.hyperlinks.json) |
-| [October 4 at 3:38 PM](https://archive.org/download/semafor-2022/semafor-2022-10-04T15:38:08.489519-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 226 accessibility trees with the Internet Archive.
+The archiving routine has saved 227 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 9 at 3:26 PM](https://archive.org/download/semafor-2022/semafor-2022-10-09T15:26:00.372490-04:00.accessibility.json) |
 | [October 9 at 3:29 AM](https://archive.org/download/semafor-2022/semafor-2022-10-09T03:28:53.220227-04:00.accessibility.json) |
 | [October 8 at 3:19 PM](https://archive.org/download/semafor-2022/semafor-2022-10-08T15:19:09.371486-04:00.accessibility.json) |
 | [October 8 at 3:21 AM](https://archive.org/download/semafor-2022/semafor-2022-10-08T03:21:48.478931-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 6 at 3:17 AM](https://archive.org/download/semafor-2022/semafor-2022-10-06T03:17:46.280518-04:00.accessibility.json) |
 | [October 5 at 4:45 PM](https://archive.org/download/semafor-2022/semafor-2022-10-05T16:45:26.200518-04:00.accessibility.json) |
 | [October 5 at 3:27 AM](https://archive.org/download/semafor-2022/semafor-2022-10-05T03:27:31.303345-04:00.accessibility.json) |
-| [October 4 at 3:38 PM](https://archive.org/download/semafor-2022/semafor-2022-10-04T15:38:08.489519-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 153 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 154 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 9 at 3:26 PM](https://archive.org/download/semafor-2022/semafor-2022-10-09T15:26:00.372490-04:00.lighthouse.json) |
 | [October 9 at 3:29 AM](https://archive.org/download/semafor-2022/semafor-2022-10-09T03:28:53.220227-04:00.lighthouse.json) |
 | [October 8 at 3:19 PM](https://archive.org/download/semafor-2022/semafor-2022-10-08T15:19:09.371486-04:00.lighthouse.json) |
 | [October 8 at 3:21 AM](https://archive.org/download/semafor-2022/semafor-2022-10-08T03:21:48.478931-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 6 at 3:17 AM](https://archive.org/download/semafor-2022/semafor-2022-10-06T03:17:46.280518-04:00.lighthouse.json) |
 | [October 5 at 4:45 PM](https://archive.org/download/semafor-2022/semafor-2022-10-05T16:45:26.200518-04:00.lighthouse.json) |
 | [October 5 at 3:27 AM](https://archive.org/download/semafor-2022/semafor-2022-10-05T03:27:31.303345-04:00.lighthouse.json) |
-| [October 4 at 3:38 PM](https://archive.org/download/semafor-2022/semafor-2022-10-04T15:38:08.489519-04:00.lighthouse.json) |
 
 
 
