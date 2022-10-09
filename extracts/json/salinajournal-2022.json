@@ -1,5 +1,5 @@
 {
-  "created": 1665300585,
+  "created": 1665343437,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/4/items/salinajournal-2022",
@@ -2362,31 +2362,93 @@
       "sha1": "00d5554a7d2b204453c41ecc0b088f89e57fae76"
     },
     {
+      "name": "salinajournal-2022-10-09T14:22:40.691111-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665343365",
+      "size": "22312",
+      "md5": "5a85dffa55a30ffd04ad5271c96faee0",
+      "crc32": "935a9e06",
+      "sha1": "8bb48f6eca69ff74e936df6de89f3aa61947a89d",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-09T14:22:40.691111-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665343366",
+      "size": "32406",
+      "md5": "0e04ee07c94b2b87e3017cc184bd6c27",
+      "crc32": "cd1c3b30",
+      "sha1": "eb164360d35711d69fd1c9e5a408b31942174427",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-09T14:22:40.691111-05:00.jpg",
+      "source": "original",
+      "mtime": "1665343363",
+      "size": "275558",
+      "md5": "7f7ba35b71dcc68b43fad48a8b4d72c9",
+      "crc32": "22633127",
+      "sha1": "11074e530ce25adc6b3b5ef0eb3164dfa37c7db7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salinajournal-2022-10-09T14:22:40.691111-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665343368",
+      "size": "1459",
+      "md5": "6390c0e43217022253a23dac592e12e7",
+      "crc32": "d456291c",
+      "sha1": "37f8610305e07436c5da31b640bbd83943cce401",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-09T14:22:40.691111-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665343369",
+      "size": "99149",
+      "md5": "5db0d8906a0bdf439e152fb1f6c4508f",
+      "crc32": "afd4dd93",
+      "sha1": "0ea1418078d38aafcf52fbe4fb3cb296ec946fac",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-09T14:22:40.691111-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salinajournal-2022-10-09T14:22:40.691111-05:00.jpg",
+      "mtime": "1665343423",
+      "size": "9689",
+      "md5": "8b7bcf634388e9d0087294fe616cc5e8",
+      "crc32": "827bb182",
+      "sha1": "655ca87f8600c199627e76d21df9b9ff0533d25a"
+    },
+    {
       "name": "salinajournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5c9d9ee8657760fed1a238b16792e7c54e1052cf",
-      "mtime": "1665300576",
-      "size": "50551",
-      "md5": "5d2fb8c63d806fe17b47982476637d24",
-      "crc32": "98f1216c",
-      "sha1": "d070077b6555d0f5054a81cbf0e74be036aa024b",
+      "btih": "9f3ae3e57e4739a729d07c4fe996faa77e72a61a",
+      "mtime": "1665343429",
+      "size": "51848",
+      "md5": "194836872f854b9d7ab9c335c0d5abf1",
+      "crc32": "fa6ed457",
+      "sha1": "d74d4d8168876d2babeb466296af3b6e9c79cf33",
       "format": "Archive BitTorrent"
     },
     {
       "name": "salinajournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b21ffa82392c5179ceb0008e5c63b9c3",
+      "md5": "b919734f4c0c4ec0b6aace53395e37c7",
       "summation": "md5"
     },
     {
       "name": "salinajournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665300529",
-      "size": "311296",
-      "md5": "b9e53bc2bfbe4a9d6ef1e40098b8fb1b",
-      "crc32": "5d943ee5",
-      "sha1": "5da3ae567ab07eb339bbd9b2541b369c23090b7a",
+      "mtime": "1665343375",
+      "size": "319488",
+      "md5": "a370fe4a5847d300475744f2236036b8",
+      "crc32": "7bb125d4",
+      "sha1": "fcf40ab4f3538d1603c68b4371cafec7d4b9cec9",
       "format": "Metadata"
     },
     {
@@ -2400,9 +2462,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 232,
-  "item_last_updated": 1665300576,
-  "item_size": 15610348,
+  "files_count": 238,
+  "item_last_updated": 1665343429,
+  "item_size": 16060410,
   "metadata": {
     "identifier": "salinajournal-2022",
     "collection": [
@@ -2420,7 +2482,7 @@
     "addeddate": "2022-09-20 19:23:54"
   },
   "server": "ia801508.us.archive.org",
-  "uniq": 475008236,
+  "uniq": 463297798,
   "workable_servers": [
     "ia801508.us.archive.org",
     "ia601508.us.archive.org"

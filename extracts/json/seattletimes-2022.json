@@ -1,5 +1,5 @@
 {
-  "created": 1665300603,
+  "created": 1665343611,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/2/items/seattletimes-2022",
@@ -10880,31 +10880,93 @@
       "sha1": "2c3ba3a61c0cc885c29a4b03fa1690e6a3a365fb"
     },
     {
+      "name": "seattletimes-2022-10-09T12:25:21.513869-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665343525",
+      "size": "461",
+      "md5": "646a85df88c449243ffb98e8004737c8",
+      "crc32": "5232f8a8",
+      "sha1": "6cdb6ed34ab9c758cdf95dcabda3daa48354171c",
+      "format": "JSON"
+    },
+    {
+      "name": "seattletimes-2022-10-09T12:25:21.513869-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665343527",
+      "size": "46743",
+      "md5": "5b98bf02da895727310cb39ea2008c97",
+      "crc32": "60208f11",
+      "sha1": "2225206535abfa458c235bb51962765b2c8cd28c",
+      "format": "JSON"
+    },
+    {
+      "name": "seattletimes-2022-10-09T12:25:21.513869-07:00.jpg",
+      "source": "original",
+      "mtime": "1665343523",
+      "size": "283705",
+      "md5": "4464ce4662165a2eb0bac4a02ea319d3",
+      "crc32": "cc87fc89",
+      "sha1": "09c526ffa90e27c36e28de9c1b4eb5ff76e1fd4b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "seattletimes-2022-10-09T12:25:21.513869-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665343529",
+      "size": "1513",
+      "md5": "23f24fb9f65454d5855aae4890e5a8ba",
+      "crc32": "f0c0de81",
+      "sha1": "93dd2099593b1e398b9246c11274e37694bfb249",
+      "format": "JSON"
+    },
+    {
+      "name": "seattletimes-2022-10-09T12:25:21.513869-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665343531",
+      "size": "209",
+      "md5": "3bedfd24b8bbdc100cf5815d06e8a487",
+      "crc32": "a29149d4",
+      "sha1": "4dd09d80682923724983e89d6927068fa9e66704",
+      "format": "JSON"
+    },
+    {
+      "name": "seattletimes-2022-10-09T12:25:21.513869-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "seattletimes-2022-10-09T12:25:21.513869-07:00.jpg",
+      "mtime": "1665343590",
+      "size": "8998",
+      "md5": "a4614e80b8332cb705b06d4e15ca45d7",
+      "crc32": "f703fd2e",
+      "sha1": "a17196e02a0d58b47a9b784b5a03ae59d8bffa98"
+    },
+    {
       "name": "seattletimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "141a4f1a30e447115d14d51cf622527b7455f434",
-      "mtime": "1665300593",
-      "size": "225792",
-      "md5": "f5fcb1e158f6b3c0402176a24166a52a",
-      "crc32": "8721a4dd",
-      "sha1": "c65d71daa3c2cf02afd1b9b335ecb651ece24be9",
+      "btih": "df6396350d68c0d2bd11d66d4d088909575ec691",
+      "mtime": "1665343601",
+      "size": "227079",
+      "md5": "983eabac54cd4978aae6b470b303e768",
+      "crc32": "15595495",
+      "sha1": "c071b54ec9249f94177b3649e6dac83b9218c724",
       "format": "Archive BitTorrent"
     },
     {
       "name": "seattletimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7238918a35b13aefb31dbe148bc704ed",
+      "md5": "6aead3c92ee2890465ac55a8bc56b831",
       "summation": "md5"
     },
     {
       "name": "seattletimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665300522",
-      "size": "1331200",
-      "md5": "10938e0cf45795399429212fc51a4e99",
-      "crc32": "65025a95",
-      "sha1": "1329526f69bbfccd4712ac567e150c7ac4043d93",
+      "mtime": "1665343535",
+      "size": "1335296",
+      "md5": "8bcb99428307fa95eb75138a697d3660",
+      "crc32": "cef008ad",
+      "sha1": "13f48593a62d098c3592228af248c000f1a79fda",
       "format": "Metadata"
     },
     {
@@ -10918,9 +10980,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1053,
-  "item_last_updated": 1665300593,
-  "item_size": 72517141,
+  "files_count": 1059,
+  "item_last_updated": 1665343601,
+  "item_size": 72864153,
   "metadata": {
     "identifier": "seattletimes-2022",
     "collection": [
@@ -10938,7 +11000,7 @@
     "addeddate": "2022-07-04 21:53:09"
   },
   "server": "ia802500.us.archive.org",
-  "uniq": 1937788630,
+  "uniq": 2146820999,
   "workable_servers": [
     "ia802500.us.archive.org",
     "ia902500.us.archive.org"

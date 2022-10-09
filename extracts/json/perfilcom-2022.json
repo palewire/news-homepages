@@ -1,5 +1,5 @@
 {
-  "created": 1665300457,
+  "created": 1665345923,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/18/items/perfilcom-2022",
@@ -7326,31 +7326,93 @@
       "sha1": "c0764e549bd1e6ef95fa5f288e68bf3cd1adafdc"
     },
     {
+      "name": "perfilcom-2022-10-09T16:20:45.632711-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665343248",
+      "size": "76326",
+      "md5": "4a23896cacfe731bb01b96e894ad6d3b",
+      "crc32": "1a028dae",
+      "sha1": "102609ca79d4333624c44e9d770a29cc8b116c5f",
+      "format": "JSON"
+    },
+    {
+      "name": "perfilcom-2022-10-09T16:20:45.632711-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665343251",
+      "size": "134889",
+      "md5": "3bea174217a5d6e1cd54d975d553e0d3",
+      "crc32": "e432c685",
+      "sha1": "4af6b6c63379674b5cb446104efc74a607737a25",
+      "format": "JSON"
+    },
+    {
+      "name": "perfilcom-2022-10-09T16:20:45.632711-03:00.jpg",
+      "source": "original",
+      "mtime": "1665343247",
+      "size": "323526",
+      "md5": "a72c4a01c7a554a34d84aff3fc2a3d4d",
+      "crc32": "df1b8c07",
+      "sha1": "50dfb4d0f94ece05cef412dd642ad818321e26cd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "perfilcom-2022-10-09T16:20:45.632711-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665343252",
+      "size": "1457",
+      "md5": "283043ffa0859fbbfd32432a18678af4",
+      "crc32": "bf4e2512",
+      "sha1": "3a0461434e1a2e5d78b0ef86d0cf89fe84057370",
+      "format": "JSON"
+    },
+    {
+      "name": "perfilcom-2022-10-09T16:20:45.632711-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665343253",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "perfilcom-2022-10-09T16:20:45.632711-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "perfilcom-2022-10-09T16:20:45.632711-03:00.jpg",
+      "mtime": "1665343319",
+      "size": "9401",
+      "md5": "61ddb19fc9707dfb1e59337e07aca05a",
+      "crc32": "24910255",
+      "sha1": "b32965ba64ef7376b69b12e949fb2218b815f896"
+    },
+    {
       "name": "perfilcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d4b283c08e1695a1fcd8e3f154982e80135fa7c3",
-      "mtime": "1665300445",
-      "size": "151953",
-      "md5": "411e2994830a41295833b5d7807d741f",
-      "crc32": "bddecac3",
-      "sha1": "8fe281eda9586b46237e6c79e55dd85e264346cd",
+      "btih": "b3a016914afc390ca1b6dbe7df97098be347c67b",
+      "mtime": "1665343331",
+      "size": "153225",
+      "md5": "add2cd76aa101520b2a623be9dce7145",
+      "crc32": "837a6c67",
+      "sha1": "f17ef5f636a29d4c248b7b8ea694eccbf792dcbf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "perfilcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b037004d6d17062fa77dac31d9537a69",
+      "md5": "aba27c5b0e6356f231a41a5b58cd268d",
       "summation": "md5"
     },
     {
       "name": "perfilcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665300381",
-      "size": "913408",
-      "md5": "c6ce5420ae971912d8d15344cc70cb31",
-      "crc32": "e5defda2",
-      "sha1": "419e9e359e471de2897df824b2c6b0a6f33f3449",
+      "mtime": "1665343259",
+      "size": "921600",
+      "md5": "884c152f35742af3dfea7c233d80fe6e",
+      "crc32": "d4d65505",
+      "sha1": "d1aacf79bd313db664d6c3ceabd34fe9e050894f",
       "format": "Metadata"
     },
     {
@@ -7364,9 +7426,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 712,
-  "item_last_updated": 1665300445,
-  "item_size": 69577802,
+  "files_count": 718,
+  "item_last_updated": 1665343331,
+  "item_size": 70133067,
   "metadata": {
     "identifier": "perfilcom-2022",
     "collection": [
@@ -7383,10 +7445,15 @@
     "publicdate": "2022-08-09 17:48:44",
     "addeddate": "2022-08-09 17:48:44"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 253841950,
+  "perfilcom-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia601409.us.archive.org",
+  "uniq": 938458098,
   "workable_servers": [
-    "ia801409.us.archive.org",
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }
