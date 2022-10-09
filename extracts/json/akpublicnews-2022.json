@@ -1,5 +1,10 @@
 {
-  "created": 1665312991,
+  "akpublicnews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1665356663,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/11/items/akpublicnews-2022",
@@ -3416,31 +3421,93 @@
       "sha1": "c8fd53286af24464deca163bcbca115b222927ca"
     },
     {
+      "name": "akpublicnews-2022-10-09T14:49:16.752215-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665355759",
+      "size": "20683",
+      "md5": "fe3653cd5c80a4495c7ffd687a8fa2fd",
+      "crc32": "896d95fc",
+      "sha1": "4973fafebb9e1b8413ef814fa483040302d6a3f8",
+      "format": "JSON"
+    },
+    {
+      "name": "akpublicnews-2022-10-09T14:49:16.752215-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665355760",
+      "size": "24167",
+      "md5": "fbe4c708d5a4edc164f5fa6660785dca",
+      "crc32": "059ea036",
+      "sha1": "7a9d5fe19467008270820417a005533ac1d0bf2d",
+      "format": "JSON"
+    },
+    {
+      "name": "akpublicnews-2022-10-09T14:49:16.752215-08:00.jpg",
+      "source": "original",
+      "mtime": "1665355757",
+      "size": "272045",
+      "md5": "81dde92b06f90d99e8ed7013c19a1ecb",
+      "crc32": "02d98f32",
+      "sha1": "d9bb6f34dc89c6d973d8598883d9a1c65abf7850",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "akpublicnews-2022-10-09T14:49:16.752215-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665355762",
+      "size": "1474",
+      "md5": "2f4a6bb472816f66b967f6a8d3313786",
+      "crc32": "56c80b40",
+      "sha1": "5fdff63b0eaba2366b0788959084e75850c5ee8d",
+      "format": "JSON"
+    },
+    {
+      "name": "akpublicnews-2022-10-09T14:49:16.752215-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1665355763",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "akpublicnews-2022-10-09T14:49:16.752215-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "akpublicnews-2022-10-09T14:49:16.752215-08:00.jpg",
+      "mtime": "1665355814",
+      "size": "10876",
+      "md5": "00ae810e29af398545ca3e65d29dd84d",
+      "crc32": "719a2571",
+      "sha1": "c8fd53286af24464deca163bcbca115b222927ca"
+    },
+    {
       "name": "akpublicnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "56c7570bad7d6ac61a5e13d97805708adb91d642",
-      "mtime": "1665312984",
-      "size": "71855",
-      "md5": "b60bd1f0f1c61cdf038996007a5fca97",
-      "crc32": "c9320ff4",
-      "sha1": "89dafe1dc3e8586c7e27e100d26d63a316051d37",
+      "btih": "43d0c8a8687770deb3ee3cabc58a14cfd4a8ebd8",
+      "mtime": "1665355818",
+      "size": "73145",
+      "md5": "24a7e877c6f1ac201ef0541d82c91eb8",
+      "crc32": "12f8bcf4",
+      "sha1": "1d70a6686740f0ee88e239fa12e30363a494a900",
       "format": "Archive BitTorrent"
     },
     {
       "name": "akpublicnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d912d5117918b9c0d6c8571f7fd441b3",
+      "md5": "ebc6d99000d4e514919240179e2c29c0",
       "summation": "md5"
     },
     {
       "name": "akpublicnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665312937",
-      "size": "442368",
-      "md5": "81541de341fe134cc90ee248970233a9",
-      "crc32": "64d39646",
-      "sha1": "4055270a3a44d31f843e8ca98caad517ed0472f3",
+      "mtime": "1665355768",
+      "size": "446464",
+      "md5": "39e153aa2979d2a408297e086114511b",
+      "crc32": "62ad094d",
+      "sha1": "60686b1e8fd494bf7beabdeb2be02afe32315cb5",
       "format": "Metadata"
     },
     {
@@ -3454,9 +3521,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 334,
-  "item_last_updated": 1665312984,
-  "item_size": 14101613,
+  "files_count": 340,
+  "item_last_updated": 1665355818,
+  "item_size": 14436446,
   "metadata": {
     "identifier": "akpublicnews-2022",
     "collection": [
@@ -3474,7 +3541,7 @@
     "addeddate": "2022-09-12 22:57:05"
   },
   "server": "ia801509.us.archive.org",
-  "uniq": 2046084280,
+  "uniq": 1240586861,
   "workable_servers": [
     "ia801509.us.archive.org",
     "ia601509.us.archive.org"
