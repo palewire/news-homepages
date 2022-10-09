@@ -1,5 +1,5 @@
 {
-  "created": 1665241562,
+  "created": 1665283030,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/19/items/sz-2022",
@@ -7240,31 +7240,93 @@
       "sha1": "9c670859f58808365ac5cd734044f045f77e8095"
     },
     {
+      "name": "sz-2022-10-09T04:34:33.824463+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665282903",
+      "size": "106899",
+      "md5": "524cba21e7afd565166357101b827172",
+      "crc32": "2966d988",
+      "sha1": "65ee933b43a4f51215dd9a6445d6b5962347b01c",
+      "format": "JSON"
+    },
+    {
+      "name": "sz-2022-10-09T04:34:33.824463+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665282904",
+      "size": "183946",
+      "md5": "aeb7f4a8d92acc0f7eb6ffdeb0084ecc",
+      "crc32": "2738b365",
+      "sha1": "d6f240d1111fb93bac03d4cfa98515cac9ff63e0",
+      "format": "JSON"
+    },
+    {
+      "name": "sz-2022-10-09T04:34:33.824463+02:00.jpg",
+      "source": "original",
+      "mtime": "1665282901",
+      "size": "302063",
+      "md5": "290f0de78de0e4ee406e03a130429097",
+      "crc32": "23f221db",
+      "sha1": "26899e287aa92cf9a89a01910c8f116a07da956a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sz-2022-10-09T04:34:33.824463+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665282906",
+      "size": "1495",
+      "md5": "d4bd5b694b9ca5ef70b9955b2bec89b1",
+      "crc32": "cab15265",
+      "sha1": "afe71e154054d119de9645c6ffcf2d0b5a3ca650",
+      "format": "JSON"
+    },
+    {
+      "name": "sz-2022-10-09T04:34:33.824463+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665282908",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "sz-2022-10-09T04:34:33.824463+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sz-2022-10-09T04:34:33.824463+02:00.jpg",
+      "mtime": "1665282988",
+      "size": "9158",
+      "md5": "adc9515f32f1627b8c788f0c9c8bf63a",
+      "crc32": "a5d7d1a7",
+      "sha1": "53cd0422c9613d5dd2f3559384533b662da59a65"
+    },
+    {
       "name": "sz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3a966ee1c4c6585581c913f85f92cf012882f9cc",
-      "mtime": "1665238881",
-      "size": "145186",
-      "md5": "08bee1a741edd2fcddf3c68ca3c2a4ce",
-      "crc32": "e59a7076",
-      "sha1": "4b5b18b1100834b6b99f8a7d542f552288fb95bd",
+      "btih": "54383d5c5115b4529a0f561f6b5d399671cdfe9e",
+      "mtime": "1665283000",
+      "size": "146417",
+      "md5": "1b4d75717039ffc19a9a417cf21a676e",
+      "crc32": "93865e5c",
+      "sha1": "0ecb8081ff020575f8c22c9e7b2ef3c417fe11fa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f545ec1ae70e449c91044dc01764925a",
+      "md5": "6746361752e93b2b2f4fc3a47f8269bc",
       "summation": "md5"
     },
     {
       "name": "sz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665238711",
-      "size": "897024",
-      "md5": "20a634921c865f273cda3c00a68f6cbf",
-      "crc32": "656c9a11",
-      "sha1": "02792b13a212e3efbc48866602dc6e5ba7bfdbc6",
+      "mtime": "1665282913",
+      "size": "905216",
+      "md5": "63d1f67c971f7f54d3f894eab9ba773f",
+      "crc32": "35158702",
+      "sha1": "9cfe34537fca634ebf2cbfd3db4a39770af44df7",
       "format": "Metadata"
     },
     {
@@ -7278,9 +7340,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 704,
-  "item_last_updated": 1665238881,
-  "item_size": 63918319,
+  "files_count": 710,
+  "item_last_updated": 1665283000,
+  "item_size": 64531505,
   "metadata": {
     "identifier": "sz-2022",
     "collection": [
@@ -7298,12 +7360,7 @@
     "addeddate": "2022-08-11 01:00:45"
   },
   "server": "ia601408.us.archive.org",
-  "sz-2022": {
-    "message": "This URL has been already captured 10 times today. Please try again tomorrow. Please email us at \"info@archive.org\" if you would like to discuss this more.",
-    "status": "error",
-    "status_ext": "error:too-many-daily-captures"
-  },
-  "uniq": 2053839048,
+  "uniq": 620179461,
   "workable_servers": [
     "ia601408.us.archive.org",
     "ia801408.us.archive.org"
