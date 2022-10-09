@@ -1,5 +1,5 @@
 {
-  "created": 1665241627,
+  "created": 1665286980,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/9/items/tauntontogo-2022",
@@ -2216,31 +2216,93 @@
       "sha1": "6f7beaee4231eee0015cbebf44d53ce1aeb36c2b"
     },
     {
+      "name": "tauntontogo-2022-10-08T23:42:00.230330-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665286922",
+      "size": "24188",
+      "md5": "9f0cf2af5b4ad835b50e4ab858112f0f",
+      "crc32": "dfda0d72",
+      "sha1": "8f6585a392ec7bd4c7aae4e25ed0347cbbca6187",
+      "format": "JSON"
+    },
+    {
+      "name": "tauntontogo-2022-10-08T23:42:00.230330-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665286924",
+      "size": "36880",
+      "md5": "182a328897c19cb208dbde0779675b80",
+      "crc32": "9af122bb",
+      "sha1": "6a4dd7969d3250d3289684c2ef3e9d0135fa6337",
+      "format": "JSON"
+    },
+    {
+      "name": "tauntontogo-2022-10-08T23:42:00.230330-04:00.jpg",
+      "source": "original",
+      "mtime": "1665286921",
+      "size": "250764",
+      "md5": "234172bc03db57ce3317fd41e2fd4561",
+      "crc32": "57c468b7",
+      "sha1": "4779d3dc9b1cdd91b513c204c1d8d9951d97d7cc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tauntontogo-2022-10-08T23:42:00.230330-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665286925",
+      "size": "1530",
+      "md5": "8df777b18a0e66abab4a7e6ab852740f",
+      "crc32": "4a6862c7",
+      "sha1": "d6b99d2ec6323e5cdb4d94100f1b924863586f3c",
+      "format": "JSON"
+    },
+    {
+      "name": "tauntontogo-2022-10-08T23:42:00.230330-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665286926",
+      "size": "112586",
+      "md5": "abb8351e777a51ef95d6806f9978a65c",
+      "crc32": "7b940010",
+      "sha1": "bc9b2ab3cb4bf6c14cee37b9ef3e7ef8d2938cf0",
+      "format": "JSON"
+    },
+    {
+      "name": "tauntontogo-2022-10-08T23:42:00.230330-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tauntontogo-2022-10-08T23:42:00.230330-04:00.jpg",
+      "mtime": "1665286972",
+      "size": "9086",
+      "md5": "6a8feda5b9eec1cfc04cbe1607221294",
+      "crc32": "f25e59de",
+      "sha1": "235ffd653a7681afd8bc5f9caa7c150b10d42aa6"
+    },
+    {
       "name": "tauntontogo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a6866519513d49224e93c75bb05fdb0e7b725262",
-      "mtime": "1665241618",
-      "size": "47121",
-      "md5": "0d49a4ee716582904eda4e03d321205f",
-      "crc32": "3b8bbba4",
-      "sha1": "59d3b99f1405816d56ca95ccd6dcc9e16d029c84",
+      "btih": "4fb55bcdb47b6549b25229bc2c408b4214150efc",
+      "mtime": "1665286975",
+      "size": "48387",
+      "md5": "594f77ed78da9bac4dacd35c46b8eb1a",
+      "crc32": "840967f5",
+      "sha1": "3fe763790731b19bbad06744d88ae6fb2482eb4d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tauntontogo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7414a7e32341359d2096bbcd737badb5",
+      "md5": "f967371402bb8c966a221c54543e47d3",
       "summation": "md5"
     },
     {
       "name": "tauntontogo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665241567",
-      "size": "294912",
-      "md5": "cd13dce64e55fbff1198c17575e423fb",
-      "crc32": "0e62b664",
-      "sha1": "59b317323e6904a01268051c00698b0e03dd91ba",
+      "mtime": "1665286930",
+      "size": "299008",
+      "md5": "b903a4a5958e4eab9c4147ca3868d83e",
+      "crc32": "a2349b39",
+      "sha1": "d3a91a44a247df80ea06f30ebc6694cd6232c6d0",
       "format": "Metadata"
     },
     {
@@ -2254,9 +2316,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 218,
-  "item_last_updated": 1665241618,
-  "item_size": 14749635,
+  "files_count": 224,
+  "item_last_updated": 1665286975,
+  "item_size": 15190031,
   "metadata": {
     "identifier": "tauntontogo-2022",
     "collection": [
@@ -2273,10 +2335,10 @@
     "publicdate": "2022-09-21 03:43:10",
     "addeddate": "2022-09-21 03:43:10"
   },
-  "server": "ia601500.us.archive.org",
-  "uniq": 825034750,
+  "server": "ia801500.us.archive.org",
+  "uniq": 1711130980,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia801500.us.archive.org",
+    "ia601500.us.archive.org"
   ]
 }
