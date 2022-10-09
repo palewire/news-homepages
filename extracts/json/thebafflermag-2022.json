@@ -1,5 +1,5 @@
 {
-  "created": 1665258609,
+  "created": 1665300713,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/5/items/thebafflermag-2022",
@@ -14188,31 +14188,93 @@
       "sha1": "51f317c876e3ec79890e6114c74593ccd33587ac"
     },
     {
+      "name": "thebafflermag-2022-10-09T03:30:02.205151-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665300610",
+      "size": "19479",
+      "md5": "91884b5848bf903a680012252654d34a",
+      "crc32": "f743605d",
+      "sha1": "07e5c7c37f7719539e13eae2c14e3057969cad6d",
+      "format": "JSON"
+    },
+    {
+      "name": "thebafflermag-2022-10-09T03:30:02.205151-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665300612",
+      "size": "23434",
+      "md5": "ac367d116d718499cf7cfb212e2d857c",
+      "crc32": "40f63bd7",
+      "sha1": "85ac0898d84ad93a659a6b43427730bf28f42437",
+      "format": "JSON"
+    },
+    {
+      "name": "thebafflermag-2022-10-09T03:30:02.205151-04:00.jpg",
+      "source": "original",
+      "mtime": "1665300608",
+      "size": "188218",
+      "md5": "f9acb9ab75e2148b8fa0122c0249d04c",
+      "crc32": "5e852389",
+      "sha1": "c14ea9ead0082c6918bc96bae8cd10b27fbea2de",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thebafflermag-2022-10-09T03:30:02.205151-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665300614",
+      "size": "1458",
+      "md5": "2dc7f2a610ce35477538c7d05127f878",
+      "crc32": "1d3a0c99",
+      "sha1": "2bf92ee2df760402938dda923c2b045cf249d0a1",
+      "format": "JSON"
+    },
+    {
+      "name": "thebafflermag-2022-10-09T03:30:02.205151-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665300615",
+      "size": "203",
+      "md5": "567bed87b508dc44e713f2bb55e23ce9",
+      "crc32": "98a7153c",
+      "sha1": "0f16bb99e8bd4e36c83a73f5d01a88b10fd86eee",
+      "format": "JSON"
+    },
+    {
+      "name": "thebafflermag-2022-10-09T03:30:02.205151-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thebafflermag-2022-10-09T03:30:02.205151-04:00.jpg",
+      "mtime": "1665300687",
+      "size": "8779",
+      "md5": "ab1dceb3b43db37a611bb27e479bf09b",
+      "crc32": "a533ddb5",
+      "sha1": "51f317c876e3ec79890e6114c74593ccd33587ac"
+    },
+    {
       "name": "thebafflermag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ad4f3178372d2033b19e49ecdae5f422bfd554da",
-      "mtime": "1665258591",
-      "size": "295805",
-      "md5": "4fa276ff8898cd5bd468e8eaddc38f31",
-      "crc32": "81196cdf",
-      "sha1": "59c92a12ce51e3d6eeb051ca47ddc66f05dd38ac",
+      "btih": "273c4fea402ea2efd28cd822acb607c2b68edc75",
+      "mtime": "1665300703",
+      "size": "297080",
+      "md5": "afba62c6c3142e8bbcfe61c83611109a",
+      "crc32": "d3a1eacf",
+      "sha1": "4afe3926278503a1e111f350931a35021a6aeedc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thebafflermag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c97c7544b75843b06a85542300976858",
+      "md5": "2225f2a1f406df5f2784051e5822a7dc",
       "summation": "md5"
     },
     {
       "name": "thebafflermag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665258505",
-      "size": "1740800",
-      "md5": "469683aa4121543298ca77199b3a155f",
-      "crc32": "7a6bdd12",
-      "sha1": "8dcb519e8bcb6a1dc362e9e30c6a6c0d4d8022a1",
+      "mtime": "1665300620",
+      "size": "1753088",
+      "md5": "71e980e10713dcbed66ea786bc76ab0c",
+      "crc32": "02e79b88",
+      "sha1": "576f7a6f39b603dc9b5ddbdbf9370f9f41fd3c15",
       "format": "Metadata"
     },
     {
@@ -14226,9 +14288,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1374,
-  "item_last_updated": 1665258591,
-  "item_size": 78559921,
+  "files_count": 1380,
+  "item_last_updated": 1665300703,
+  "item_size": 78815055,
   "metadata": {
     "identifier": "thebafflermag-2022",
     "collection": [
@@ -14246,7 +14308,7 @@
     "addeddate": "2022-07-17 16:00:07"
   },
   "server": "ia801409.us.archive.org",
-  "uniq": 2127906202,
+  "uniq": 1565814528,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"

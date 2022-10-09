@@ -1,5 +1,5 @@
 {
-  "created": 1665129394,
+  "created": 1665300732,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/6/items/thedailyjournal-2022",
@@ -2092,31 +2092,279 @@
       "sha1": "c84b8b5bedc27f594819b8ad64dccdb6d72b4050"
     },
     {
+      "name": "thedailyjournal-2022-10-07T16:25:16.529858-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665174320",
+      "size": "20414",
+      "md5": "34c1c0037671235b611973ec9ce70df2",
+      "crc32": "fc2f4bbc",
+      "sha1": "418747b234e410ca0494d85ebdaf1e8fb54067f8",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyjournal-2022-10-07T16:25:16.529858-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665174321",
+      "size": "49900",
+      "md5": "19cf8498fc81b36bba087d2b2426a941",
+      "crc32": "93d8496f",
+      "sha1": "9b333ba7bfe7e4272914b66967c390e639859c0d",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyjournal-2022-10-07T16:25:16.529858-04:00.jpg",
+      "source": "original",
+      "mtime": "1665174319",
+      "size": "233435",
+      "md5": "b843a22353126cca1256e8cf47e0d664",
+      "crc32": "71e439aa",
+      "sha1": "228e6318ff8ff434aa7e768c63628ad8c30d54d1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailyjournal-2022-10-07T16:25:16.529858-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665174323",
+      "size": "1540",
+      "md5": "17a3e760d5fabc36966b02fa6373825d",
+      "crc32": "739479da",
+      "sha1": "b4fb9fa9cde4a6978effdde383bc652b003ddbe1",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyjournal-2022-10-07T16:25:16.529858-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665174325",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyjournal-2022-10-07T16:25:16.529858-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailyjournal-2022-10-07T16:25:16.529858-04:00.jpg",
+      "mtime": "1665174403",
+      "size": "9060",
+      "md5": "715aa0e531610784956e09d8b6a78065",
+      "crc32": "14ed124b",
+      "sha1": "1473f0f17bc1e4a947193b9f74a3f16a3df49732"
+    },
+    {
+      "name": "thedailyjournal-2022-10-08T03:10:55.528168-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665213060",
+      "size": "22355",
+      "md5": "91287bc291a58ef005a64d1f2b00ad97",
+      "crc32": "474111c1",
+      "sha1": "331d3ff36b9cbba19cf87f8fa0aa3596633d927f",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyjournal-2022-10-08T03:10:55.528168-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665213062",
+      "size": "56695",
+      "md5": "01be2aef08fd8f6702faf399951f7f4d",
+      "crc32": "4667c6c7",
+      "sha1": "b445f5bd995b39fba5e381049c577ce4ec9f5a83",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyjournal-2022-10-08T03:10:55.528168-04:00.jpg",
+      "source": "original",
+      "mtime": "1665213058",
+      "size": "278560",
+      "md5": "82134325bf5a4dd45fc6a3328e8edf62",
+      "crc32": "3807bfae",
+      "sha1": "967657b9375b242b2205c2219e81d518343cf7bd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailyjournal-2022-10-08T03:10:55.528168-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665213064",
+      "size": "1540",
+      "md5": "fca2524c3c01aef2c8d285ac08385c2a",
+      "crc32": "8742e678",
+      "sha1": "1e3dd0471914743a3dba6809bb20d7b0dd283c76",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyjournal-2022-10-08T03:10:55.528168-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665213066",
+      "size": "96729",
+      "md5": "8b54301abda861c0ecaf3cad0d36abcd",
+      "crc32": "a8546911",
+      "sha1": "730adc364202c8a89468599a2e50dc2371047e07",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyjournal-2022-10-08T03:10:55.528168-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailyjournal-2022-10-08T03:10:55.528168-04:00.jpg",
+      "mtime": "1665213135",
+      "size": "9196",
+      "md5": "3820d5cebaedd5a1483be44e2500e2de",
+      "crc32": "bc424d4c",
+      "sha1": "b0fd08a32e4be24df0cb8111d9a923402cbc82f6"
+    },
+    {
+      "name": "thedailyjournal-2022-10-08T15:05:56.895415-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665255964",
+      "size": "23219",
+      "md5": "4938094bfa73e32dc41b600f1b05b6a8",
+      "crc32": "c3b37105",
+      "sha1": "d4290b86044578994cbe02707daa50be2387ae2f",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyjournal-2022-10-08T15:05:56.895415-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665255967",
+      "size": "42272",
+      "md5": "536a4bde7fd6b39491cd90c3839cc240",
+      "crc32": "c301a16b",
+      "sha1": "bbcac917291791d1f5030291b18cd2857b24c312",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyjournal-2022-10-08T15:05:56.895415-04:00.jpg",
+      "source": "original",
+      "mtime": "1665255958",
+      "size": "278603",
+      "md5": "a988ade441f6867d312eec11bff8a19c",
+      "crc32": "e9ef2ac9",
+      "sha1": "911c67464a80c3feac68ada8a34a79b2d18fd79b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailyjournal-2022-10-08T15:05:56.895415-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665255968",
+      "size": "1540",
+      "md5": "d6b902dcb492529dfea9e69bc669d2d3",
+      "crc32": "fc4e818e",
+      "sha1": "0ec0219b1c74e2aeee6a9aeaed8dfecf2a491a8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyjournal-2022-10-08T15:05:56.895415-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665255974",
+      "size": "124927",
+      "md5": "b9dd2079d190d71e1cd1d3b5b1e378b8",
+      "crc32": "88577efe",
+      "sha1": "beb294b810830700b845de903c1728e8a5bdef3e",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyjournal-2022-10-08T15:05:56.895415-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailyjournal-2022-10-08T15:05:56.895415-04:00.jpg",
+      "mtime": "1665256022",
+      "size": "9270",
+      "md5": "c8366f9212623581d958fa9c7b0424ec",
+      "crc32": "d7073b50",
+      "sha1": "e53bc49dc7d12c5aaf9dd8cc6b56deaa9a29a57a"
+    },
+    {
+      "name": "thedailyjournal-2022-10-09T03:31:01.590633-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665300665",
+      "size": "19885",
+      "md5": "2723454097acaef5b5b7c8617b7f0639",
+      "crc32": "99859a10",
+      "sha1": "7061beab000aca610086a1d37507ac7202a271fd",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyjournal-2022-10-09T03:31:01.590633-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665300668",
+      "size": "30206",
+      "md5": "823937e964dab397a5fe1464fb6fbb9f",
+      "crc32": "6f3bd848",
+      "sha1": "5b7519fdf31257b850b10a82fb0ea8bdac213102",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyjournal-2022-10-09T03:31:01.590633-04:00.jpg",
+      "source": "original",
+      "mtime": "1665300663",
+      "size": "262874",
+      "md5": "9237ef7dc557465206c05eaaeba5cb25",
+      "crc32": "ca3bba4a",
+      "sha1": "d10310260a210d1a372878330df6364c40040658",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailyjournal-2022-10-09T03:31:01.590633-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665300669",
+      "size": "1540",
+      "md5": "ca917a97cb88b9c1cb1f52076e1ddb6f",
+      "crc32": "a7102de4",
+      "sha1": "40a49e4ff1f4f4ac6accd6e5d0d919546435aa5e",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyjournal-2022-10-09T03:31:01.590633-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665300671",
+      "size": "212",
+      "md5": "389af76eebbffb9ec1fae89af4d2dbd7",
+      "crc32": "97a0f281",
+      "sha1": "fcf1adbec1b77a542d4d6c536af10e82c1e80243",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyjournal-2022-10-09T03:31:01.590633-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailyjournal-2022-10-09T03:31:01.590633-04:00.jpg",
+      "mtime": "1665300721",
+      "size": "9162",
+      "md5": "ddc033b9b8fc546c58c94f6901351162",
+      "crc32": "27b776c4",
+      "sha1": "8789b5e924437829f7ce9782c92c61bf1a259a53"
+    },
+    {
       "name": "thedailyjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "330ef2f57c197fe04dd1b16fa15d1a078d74229b",
-      "mtime": "1665129355",
-      "size": "45372",
-      "md5": "c9dc87e2d76e1b4ba4c1db7543fdbdf7",
-      "crc32": "bf00c67a",
-      "sha1": "56c2c995a60299c27cc9b83912841d0fc53235ea",
+      "btih": "f772f0e792e1fe2654960088d3376a084400c185",
+      "mtime": "1665300724",
+      "size": "50585",
+      "md5": "b2c35ce5b279bccee71230796b1fc432",
+      "crc32": "064d7cbe",
+      "sha1": "3d92f91182944a9cb8fffc5be6f7dfe44c85d253",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedailyjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "44df2e42960d67c4505e787c119230a8",
+      "md5": "32f29c0e057d69335fb320806d315b62",
       "summation": "md5"
     },
     {
       "name": "thedailyjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665129286",
-      "size": "278528",
-      "md5": "dcdc4cc93b47474211e1219909ecb4af",
-      "crc32": "204709e0",
-      "sha1": "08a67f310805c12bbc9bb25c250d422a021e71f9",
+      "mtime": "1665300674",
+      "size": "311296",
+      "md5": "79991a7fe1866811de77ad22e17c1840",
+      "crc32": "6f12f07e",
+      "sha1": "4ec094c46e45fa845eb3576aa392a7fe730054b8",
       "format": "Metadata"
     },
     {
@@ -2130,9 +2378,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 206,
-  "item_last_updated": 1665129355,
-  "item_size": 13530069,
+  "files_count": 230,
+  "item_last_updated": 1665300724,
+  "item_size": 15151386,
   "metadata": {
     "identifier": "thedailyjournal-2022",
     "collection": [
@@ -2149,10 +2397,10 @@
     "publicdate": "2022-09-20 19:28:47",
     "addeddate": "2022-09-20 19:28:47"
   },
-  "server": "ia601500.us.archive.org",
-  "uniq": 1385056060,
+  "server": "ia801500.us.archive.org",
+  "uniq": 1739096991,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia801500.us.archive.org",
+    "ia601500.us.archive.org"
   ]
 }

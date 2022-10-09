@@ -1,5 +1,5 @@
 {
-  "created": 1665129613,
+  "created": 1665300883,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/30/items/wrtribune-2022",
@@ -2094,31 +2094,279 @@
       "sha1": "ad357d8c33777d556d0d5156402b53162df6b9cd"
     },
     {
+      "name": "wrtribune-2022-10-07T15:27:46.350218-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665174471",
+      "size": "21781",
+      "md5": "6a48b5a9ed514a181961c62966859b55",
+      "crc32": "b2d8e7b8",
+      "sha1": "4db132103a94a55d0d9bacf81a86784b9f3eb778",
+      "format": "JSON"
+    },
+    {
+      "name": "wrtribune-2022-10-07T15:27:46.350218-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665174473",
+      "size": "48991",
+      "md5": "6759a5fded914cf3716747abbe8586fa",
+      "crc32": "1b7dc398",
+      "sha1": "b99c3f1f56ab60bb02a12923cccf9a55fa914047",
+      "format": "JSON"
+    },
+    {
+      "name": "wrtribune-2022-10-07T15:27:46.350218-05:00.jpg",
+      "source": "original",
+      "mtime": "1665174469",
+      "size": "256232",
+      "md5": "f5a3cf1adda973223a7b4da8882f7a57",
+      "crc32": "40e133c4",
+      "sha1": "fe2dc59dfb4505c7860ebc0d6a4759d1db05ac22",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wrtribune-2022-10-07T15:27:46.350218-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665174475",
+      "size": "1602",
+      "md5": "17c8e238a0af4548cae584ec5788a62f",
+      "crc32": "3ee04614",
+      "sha1": "d2a90f3ff99806fdb533c7f846424d9396d244f7",
+      "format": "JSON"
+    },
+    {
+      "name": "wrtribune-2022-10-07T15:27:46.350218-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665174477",
+      "size": "94816",
+      "md5": "de750937d4360a26b821363af804454f",
+      "crc32": "0448be13",
+      "sha1": "3ef5c2ec8fefd3aba8a0278a0e8f5071652d89e0",
+      "format": "JSON"
+    },
+    {
+      "name": "wrtribune-2022-10-07T15:27:46.350218-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wrtribune-2022-10-07T15:27:46.350218-05:00.jpg",
+      "mtime": "1665174530",
+      "size": "9038",
+      "md5": "2787c9a7caa82b404dbf7631d2b5d7e0",
+      "crc32": "3fbb9755",
+      "sha1": "b661959a3e568227fbebae2926c89c4cf07ae5d6"
+    },
+    {
+      "name": "wrtribune-2022-10-08T02:15:06.816617-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665213310",
+      "size": "23833",
+      "md5": "85d556bafd40be07ef80549682366955",
+      "crc32": "83967d09",
+      "sha1": "025109130c716fd7b92807f6a30c08da1cc5b192",
+      "format": "JSON"
+    },
+    {
+      "name": "wrtribune-2022-10-08T02:15:06.816617-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665213312",
+      "size": "43287",
+      "md5": "c9232159401375a973f147374ba9fcd7",
+      "crc32": "9e349107",
+      "sha1": "1e6841ba6a8bcb1cfd7b889e285e08831cc109dc",
+      "format": "JSON"
+    },
+    {
+      "name": "wrtribune-2022-10-08T02:15:06.816617-05:00.jpg",
+      "source": "original",
+      "mtime": "1665213308",
+      "size": "254608",
+      "md5": "6f0356b70acd4a89bd051ff7c58921c8",
+      "crc32": "9302a4f0",
+      "sha1": "053ed3600e61ae4a000b58e2c540521f4d00e27d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wrtribune-2022-10-08T02:15:06.816617-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665213314",
+      "size": "1603",
+      "md5": "3c360332a332f722a488546396465095",
+      "crc32": "43317374",
+      "sha1": "16b01dd518210516c01edb894f2bc8c35d38e0f9",
+      "format": "JSON"
+    },
+    {
+      "name": "wrtribune-2022-10-08T02:15:06.816617-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665213316",
+      "size": "100464",
+      "md5": "b83a6d01f7292d8f2f455faaebd6d2dd",
+      "crc32": "6072f907",
+      "sha1": "093648c8dc55a2485fbb75e19b25aef0a0f60a89",
+      "format": "JSON"
+    },
+    {
+      "name": "wrtribune-2022-10-08T02:15:06.816617-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wrtribune-2022-10-08T02:15:06.816617-05:00.jpg",
+      "mtime": "1665213366",
+      "size": "9060",
+      "md5": "37595335c1df991a2570ec06cd397129",
+      "crc32": "940a5934",
+      "sha1": "5bdff851c62e2bd8b2f4a1afbb59fd793a07ebaf"
+    },
+    {
+      "name": "wrtribune-2022-10-08T14:13:38.442475-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665256422",
+      "size": "23631",
+      "md5": "50bee52e569b44c33bcdfe9a28fedcfd",
+      "crc32": "69a7b28c",
+      "sha1": "c3a80cf6339fe2bad5d46edc59c5307a3154a2c2",
+      "format": "JSON"
+    },
+    {
+      "name": "wrtribune-2022-10-08T14:13:38.442475-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665256423",
+      "size": "38666",
+      "md5": "255167e5cc95634346d6d3dd93c6b72c",
+      "crc32": "14116337",
+      "sha1": "79b191d6acc84a0ccc333506a57a22e190f070d1",
+      "format": "JSON"
+    },
+    {
+      "name": "wrtribune-2022-10-08T14:13:38.442475-05:00.jpg",
+      "source": "original",
+      "mtime": "1665256421",
+      "size": "262859",
+      "md5": "80b368d51b46756c8d20ab8286dea135",
+      "crc32": "463d2d5b",
+      "sha1": "0b41b576d502d89ea458b9e352bd6c101a1d3964",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wrtribune-2022-10-08T14:13:38.442475-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665256425",
+      "size": "1603",
+      "md5": "c522c813b64d4ce8b395f195083b3c0b",
+      "crc32": "62a0c699",
+      "sha1": "0c7c7428283e4df52f860f0a3db6eed8058837f9",
+      "format": "JSON"
+    },
+    {
+      "name": "wrtribune-2022-10-08T14:13:38.442475-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665256426",
+      "size": "117991",
+      "md5": "046e30e415b6c315a829e4cf6a65b49c",
+      "crc32": "78befcc4",
+      "sha1": "c9507db940c23bb3bd105a17bd2e3ac8571d229c",
+      "format": "JSON"
+    },
+    {
+      "name": "wrtribune-2022-10-08T14:13:38.442475-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wrtribune-2022-10-08T14:13:38.442475-05:00.jpg",
+      "mtime": "1665256474",
+      "size": "9588",
+      "md5": "c88678b2f9a173a7c345d804333e5ba2",
+      "crc32": "9693da64",
+      "sha1": "761edd0e5259b9c9bd5c0030e250cff788ec50b8"
+    },
+    {
+      "name": "wrtribune-2022-10-09T02:33:39.696234-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665300824",
+      "size": "23551",
+      "md5": "d730ca0b054c12d5a587aab564559b3d",
+      "crc32": "50b8cf72",
+      "sha1": "5bd74f1772cc63d9ae478f1517d0da74761213d9",
+      "format": "JSON"
+    },
+    {
+      "name": "wrtribune-2022-10-09T02:33:39.696234-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665300825",
+      "size": "36034",
+      "md5": "1705a382d46d14e34fdedb336c3a4d9d",
+      "crc32": "8c3ab547",
+      "sha1": "a31eddd3bc1780c461c9d2e0b298251e2da38401",
+      "format": "JSON"
+    },
+    {
+      "name": "wrtribune-2022-10-09T02:33:39.696234-05:00.jpg",
+      "source": "original",
+      "mtime": "1665300822",
+      "size": "266002",
+      "md5": "759a0caed1b0ae3bc0e7694afbd3ac62",
+      "crc32": "c2d98172",
+      "sha1": "c718522695b22f2db204be4b44832d469e5a40f8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wrtribune-2022-10-09T02:33:39.696234-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665300827",
+      "size": "1603",
+      "md5": "a2c0965fa0045f4e9909a23e0b5f2e54",
+      "crc32": "f65b3eb6",
+      "sha1": "2ec3b437e0b4e37195c1ffc96714ce888e6ba224",
+      "format": "JSON"
+    },
+    {
+      "name": "wrtribune-2022-10-09T02:33:39.696234-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665300829",
+      "size": "281",
+      "md5": "c65134c04b743775616d7633a8f71b15",
+      "crc32": "d5703325",
+      "sha1": "5c56b56c9fbbf41911a86577b6e23b9fed850b73",
+      "format": "JSON"
+    },
+    {
+      "name": "wrtribune-2022-10-09T02:33:39.696234-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wrtribune-2022-10-09T02:33:39.696234-05:00.jpg",
+      "mtime": "1665300874",
+      "size": "9503",
+      "md5": "535240094137b13fc660da8ed0b2c06c",
+      "crc32": "beb95f73",
+      "sha1": "d5239ca588d78275bce32d1568615eb85d40121b"
+    },
+    {
       "name": "wrtribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8663c14583c549abd6ee44aa63f8b4a41475bdd7",
-      "mtime": "1665129599",
-      "size": "44131",
-      "md5": "a3cbee252dea2ac3ee8bb56a36f3f87d",
-      "crc32": "272f63c6",
-      "sha1": "99e26478eca624c9db76f8c187f6c88767039d99",
+      "btih": "a07ecde68540837cc53b882d7c997d03e6049f4a",
+      "mtime": "1665300878",
+      "size": "49203",
+      "md5": "e0c20c369cc10432c7f583483cb7c6b6",
+      "crc32": "f64ba492",
+      "sha1": "e8d1fb25635e18c4faaacd7ad8194bcde3a1a7f6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wrtribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ffebd3d067426a8ad16bcaa983b60f38",
+      "md5": "e3c53bb65594eb283a0932549195e524",
       "summation": "md5"
     },
     {
       "name": "wrtribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665129551",
-      "size": "278528",
-      "md5": "918dccb9e1cdc3b3a623edf2c99581cf",
-      "crc32": "4cd5fc42",
-      "sha1": "a7d0d9d49dd8f396525b6f8c3b17e107a6a29200",
+      "mtime": "1665300831",
+      "size": "307200",
+      "md5": "310c803075364e2322fe450e8797e5dd",
+      "crc32": "ddf8b67b",
+      "sha1": "d2600ae6307c4fa35f54eccd202ed878b7a1eaff",
       "format": "Metadata"
     },
     {
@@ -2132,9 +2380,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 206,
-  "item_last_updated": 1665129599,
-  "item_size": 14215647,
+  "files_count": 230,
+  "item_last_updated": 1665300878,
+  "item_size": 15906018,
   "metadata": {
     "identifier": "wrtribune-2022",
     "collection": [
@@ -2152,7 +2400,7 @@
     "addeddate": "2022-09-20 19:31:40"
   },
   "server": "ia801409.us.archive.org",
-  "uniq": 698929725,
+  "uniq": 485207841,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"

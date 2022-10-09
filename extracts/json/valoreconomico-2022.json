@@ -1,5 +1,5 @@
 {
-  "created": 1665129575,
+  "created": 1665300860,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/0/items/valoreconomico-2022",
@@ -11250,31 +11250,341 @@
       "sha1": "e5bbcd3cdaded80f360eb8be1d1f258b7d457775"
     },
     {
+      "name": "valoreconomico-2022-10-07T17:27:10.973540-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665174442",
+      "size": "67659",
+      "md5": "403aeeb409082af3da2b9e5d453c9cad",
+      "crc32": "3c32f208",
+      "sha1": "cd8097fe3a946cb64f74b5219f7509a29029eadb",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-10-07T17:27:10.973540-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665174444",
+      "size": "62471",
+      "md5": "1ee30105bd47a443d01f381df7d5f3ef",
+      "crc32": "ef53b37e",
+      "sha1": "856fc1cd72bdb26d11c6a060ed7a80e344b986be",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-10-07T17:27:10.973540-03:00.jpg",
+      "source": "original",
+      "mtime": "1665174440",
+      "size": "152080",
+      "md5": "4d1af349831aa39761d45cbce93e0284",
+      "crc32": "40f6923f",
+      "sha1": "01636598ade27e50a30194c6aac13404fa9dab03",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "valoreconomico-2022-10-07T17:27:10.973540-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665174446",
+      "size": "1468",
+      "md5": "284a47fa9f2c351dcc0599080446c5cf",
+      "crc32": "6d8e47af",
+      "sha1": "941fff3424851de18e3a584f25f9b8f4e27ec1be",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-10-07T17:27:10.973540-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665174448",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-10-07T17:27:10.973540-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "valoreconomico-2022-10-07T17:27:10.973540-03:00.jpg",
+      "mtime": "1665174555",
+      "size": "7881",
+      "md5": "82532d48a232947f3cf6e39a6f9c578f",
+      "crc32": "9956b8af",
+      "sha1": "4aad72a027614c27b7d8e823c4ac5eeb5446ff3a"
+    },
+    {
+      "name": "valoreconomico-2022-10-08T04:14:54.343158-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665213298",
+      "size": "68513",
+      "md5": "bdf6f6041288a9eafea0deb42a104bcc",
+      "crc32": "b5800cbf",
+      "sha1": "032078de7c6dad9bb6a36a9758229ec43194dc2b",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-10-08T04:14:54.343158-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665213300",
+      "size": "60804",
+      "md5": "fd6e9a2f4a97a37bcd1e67356cd5162d",
+      "crc32": "9bb93f20",
+      "sha1": "c6af14d47b0b2a7d2734edcd544022a9164aeb3a",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-10-08T04:14:54.343158-03:00.jpg",
+      "source": "original",
+      "mtime": "1665213296",
+      "size": "150279",
+      "md5": "91ee8a55d2f9d24655e2c94eedd0c070",
+      "crc32": "51c02644",
+      "sha1": "1ce486eed479ae307d556af1663c7f70c7588e46",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "valoreconomico-2022-10-08T04:14:54.343158-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665213302",
+      "size": "1468",
+      "md5": "fa93bb513ab397e899cb50ac45735776",
+      "crc32": "cb64e4e8",
+      "sha1": "23653562b6e4514f07e1c557fc79106cdd55606c",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-10-08T04:14:54.343158-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665213305",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-10-08T04:14:54.343158-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "valoreconomico-2022-10-08T04:14:54.343158-03:00.jpg",
+      "mtime": "1665213384",
+      "size": "7857",
+      "md5": "27840e8ef4abba10fe2a4903b90920f2",
+      "crc32": "8c45dbd6",
+      "sha1": "62af77b2cf016deecfe8bdd6e95f3eee540512b3"
+    },
+    {
+      "name": "valoreconomico-2022-10-08T09:01:11.681076-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665230485",
+      "size": "67756",
+      "md5": "41756b442689979b7063b20e88f2dd55",
+      "crc32": "51616255",
+      "sha1": "49eee6486fd814a24fa5b64b6badb1e9b8fb0ea7",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-10-08T09:01:11.681076-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665230488",
+      "size": "60120",
+      "md5": "46d66ace95e873c1442c16a27a306518",
+      "crc32": "78967d96",
+      "sha1": "3af0a28d0bbf660f022fe5338bb5dd0ca36b2a85",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-10-08T09:01:11.681076-03:00.jpg",
+      "source": "original",
+      "mtime": "1665230482",
+      "size": "160612",
+      "md5": "66c10cf0975a120bf6816622ea378621",
+      "crc32": "872a5e4a",
+      "sha1": "4a422e375ff0482a49ffc97845efff0d78c65ad3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "valoreconomico-2022-10-08T09:01:11.681076-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665230490",
+      "size": "1468",
+      "md5": "eb7471b84edac9207ed473fda1ac1f6b",
+      "crc32": "229d8341",
+      "sha1": "92eea96e35fbd39dbbac08757884813bd3c377c2",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-10-08T09:01:11.681076-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665230492",
+      "size": "204",
+      "md5": "e69f9278c9e55efa38d163eb2ffc1399",
+      "crc32": "ff17ced7",
+      "sha1": "d9888055562b23bc8b897b752e1a690e73a7b026",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-10-08T09:01:11.681076-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "valoreconomico-2022-10-08T09:01:11.681076-03:00.jpg",
+      "mtime": "1665230579",
+      "size": "8099",
+      "md5": "8dcc0f6916770c9f8ecbcf043c5976fb",
+      "crc32": "b16da640",
+      "sha1": "a2aec5ae9ad705b7178be7c4f65468bc68a456a9"
+    },
+    {
+      "name": "valoreconomico-2022-10-08T16:10:35.330915-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665256238",
+      "size": "70537",
+      "md5": "e4363da426263f21a53b5c938ad89411",
+      "crc32": "352469c1",
+      "sha1": "d204927f0da8c204ceb0264ad961a2a0576589f2",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-10-08T16:10:35.330915-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665256240",
+      "size": "61925",
+      "md5": "4e8418358fbfb398bd6abe8ef8c88f03",
+      "crc32": "f1398708",
+      "sha1": "57e92377ef8a0c35d7b010a5bbf57dde12f16760",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-10-08T16:10:35.330915-03:00.jpg",
+      "source": "original",
+      "mtime": "1665256236",
+      "size": "155189",
+      "md5": "dd69cd152b17e47bafa04a4fe739f901",
+      "crc32": "2775d354",
+      "sha1": "450678eecdb304ffb878745d13b1a83487a70838",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "valoreconomico-2022-10-08T16:10:35.330915-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665256241",
+      "size": "1468",
+      "md5": "304ed526596a28a4e29dcf50051cf111",
+      "crc32": "48ba6125",
+      "sha1": "301e140badc1b7bc4758e692f9382fe397c17df5",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-10-08T16:10:35.330915-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665256243",
+      "size": "1346",
+      "md5": "b41724c5a239efefada60fa17a4f53b5",
+      "crc32": "0edfbfa2",
+      "sha1": "276c59c167cf033ce3385a0b74c4cad6607f9527",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-10-08T16:10:35.330915-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "valoreconomico-2022-10-08T16:10:35.330915-03:00.jpg",
+      "mtime": "1665256319",
+      "size": "8027",
+      "md5": "20200887cb1540a3aa224e2d21e42dd5",
+      "crc32": "149af13c",
+      "sha1": "c5cc381e652a61b0d048dfb150e19cca596619a8"
+    },
+    {
+      "name": "valoreconomico-2022-10-09T04:32:22.379037-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665300755",
+      "size": "70535",
+      "md5": "f72a79f545312013dae8062e4a7f6cc8",
+      "crc32": "5de0e325",
+      "sha1": "4d74705b998853e4e3037119bf024a533aaa9b63",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-10-09T04:32:22.379037-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665300757",
+      "size": "68199",
+      "md5": "2d4b1461d0e89f3a938af0e2c1180bfb",
+      "crc32": "c268cfcf",
+      "sha1": "d86030873bbd41cac4dc0c924ef0d3bd6eaff2d5",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-10-09T04:32:22.379037-03:00.jpg",
+      "source": "original",
+      "mtime": "1665300753",
+      "size": "155969",
+      "md5": "85c888e4054c8c3afa424a17c1f62010",
+      "crc32": "2e84506c",
+      "sha1": "bedba1ec26496d93861d711b4b3f3318e5a0a5cd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "valoreconomico-2022-10-09T04:32:22.379037-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665300759",
+      "size": "1468",
+      "md5": "d6f94342eaa36a19fcabaed8e2a5b72a",
+      "crc32": "99ca2be7",
+      "sha1": "1387f6942713fcaffd4484a1b6cc02c3435dcd44",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-10-09T04:32:22.379037-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665300761",
+      "size": "204",
+      "md5": "8e9fdcf8a6abc1aefc89e010686a7365",
+      "crc32": "2c35e453",
+      "sha1": "a640f0f3b7147efbca81d23cb9cdecafdc47f117",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-10-09T04:32:22.379037-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "valoreconomico-2022-10-09T04:32:22.379037-03:00.jpg",
+      "mtime": "1665300827",
+      "size": "8041",
+      "md5": "e29d51aa74ab6c004fca36dd100a5ffd",
+      "crc32": "3614113d",
+      "sha1": "afd743c68e9d41c2e335cf0ef63c0fae1bb54b95"
+    },
+    {
       "name": "valoreconomico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "641acb848770b739b5d45161168ce7ac2c30f180",
-      "mtime": "1665129537",
-      "size": "236945",
-      "md5": "3db794539c588dc3b8f5a3110d559ba5",
-      "crc32": "17a4433f",
-      "sha1": "3fdab044fdde7a9732628681d25775ed6d3a414d",
+      "btih": "5ee790e396b239ecba8fcf40fb10a746221774b3",
+      "mtime": "1665300851",
+      "size": "243411",
+      "md5": "a01db735ad819a0afb1684ed7b36e848",
+      "crc32": "eb38aada",
+      "sha1": "aab108d516b42e027c856f4b8ab6277d56bbe86a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "valoreconomico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e1d749fdc8530e05928d257875f57ab6",
+      "md5": "ce6017fb086e06f2a442375c02f960ee",
       "summation": "md5"
     },
     {
       "name": "valoreconomico-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665129418",
-      "size": "1404928",
-      "md5": "b71dff3fa9f38a7af631bc2d9ef8cb72",
-      "crc32": "1ecfba30",
-      "sha1": "b299d40c21155807df1e378f44f25c4491061b42",
+      "mtime": "1665300764",
+      "size": "1445888",
+      "md5": "d7baa8ef0446ce0c3945ea8e19091375",
+      "crc32": "042355d1",
+      "sha1": "e4b408f9e8437e83e4c46a32ad052739164680c6",
       "format": "Metadata"
     },
     {
@@ -11288,9 +11598,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1092,
-  "item_last_updated": 1665129537,
-  "item_size": 77802444,
+  "files_count": 1122,
+  "item_last_updated": 1665300851,
+  "item_size": 79331921,
   "metadata": {
     "identifier": "valoreconomico-2022",
     "collection": [
@@ -11308,7 +11618,7 @@
     "addeddate": "2022-08-04 04:56:45"
   },
   "server": "ia801500.us.archive.org",
-  "uniq": 1725667767,
+  "uniq": 773584463,
   "workable_servers": [
     "ia801500.us.archive.org",
     "ia601500.us.archive.org"

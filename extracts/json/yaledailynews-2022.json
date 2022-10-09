@@ -1,5 +1,5 @@
 {
-  "created": 1665129649,
+  "created": 1665300973,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/33/items/yaledailynews-2022",
@@ -2920,31 +2920,279 @@
       "sha1": "51cbc3423eb3c845dfcfef09b38b363091143347"
     },
     {
+      "name": "yaledailynews-2022-10-07T16:28:46.069383-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665174532",
+      "size": "13094",
+      "md5": "436c2310a45c9e7b5d92391bb3404eab",
+      "crc32": "e8f87f8e",
+      "sha1": "af182512eb93532348fa72735e1ae3590c956427",
+      "format": "JSON"
+    },
+    {
+      "name": "yaledailynews-2022-10-07T16:28:46.069383-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665174534",
+      "size": "35713",
+      "md5": "132d966fa2b13841da92d82c76e85d56",
+      "crc32": "19245157",
+      "sha1": "82269403b4294764b4fea67677cec31d70e598f8",
+      "format": "JSON"
+    },
+    {
+      "name": "yaledailynews-2022-10-07T16:28:46.069383-04:00.jpg",
+      "source": "original",
+      "mtime": "1665174530",
+      "size": "263528",
+      "md5": "754585e8ed12bc4049022927dfab2104",
+      "crc32": "be956d00",
+      "sha1": "f66aac0968d71a02d3d073ae2a479785c9c79f01",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yaledailynews-2022-10-07T16:28:46.069383-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665174538",
+      "size": "1484",
+      "md5": "2cf87b767bad2815f2bd2a3f1277493c",
+      "crc32": "d3e3184c",
+      "sha1": "38313406b103c7cd50b9cb4dae91618bd5f1f15b",
+      "format": "JSON"
+    },
+    {
+      "name": "yaledailynews-2022-10-07T16:28:46.069383-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665174540",
+      "size": "17489",
+      "md5": "5f9746ca4aac8acf547172a97332a69e",
+      "crc32": "092e5a88",
+      "sha1": "42ffe2e2097cb236fd1e53b47c04f67930bb14c1",
+      "format": "JSON"
+    },
+    {
+      "name": "yaledailynews-2022-10-07T16:28:46.069383-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yaledailynews-2022-10-07T16:28:46.069383-04:00.jpg",
+      "mtime": "1665174600",
+      "size": "9271",
+      "md5": "fe4e38ff070bc1443d3185e4c58ae3d2",
+      "crc32": "b7dd8c4e",
+      "sha1": "1641b84922c8e44f1e50acd13127449626541e44"
+    },
+    {
+      "name": "yaledailynews-2022-10-08T03:15:07.879314-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665213312",
+      "size": "13026",
+      "md5": "087ef9f9b6e97ad3fd85fa4716807e78",
+      "crc32": "731079d7",
+      "sha1": "f17e5d4580cc9341d66bff92dae83ddd032ef974",
+      "format": "JSON"
+    },
+    {
+      "name": "yaledailynews-2022-10-08T03:15:07.879314-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665213314",
+      "size": "35625",
+      "md5": "9b3ff45c0f9a5ed6e33b36e7b03f7865",
+      "crc32": "559446d5",
+      "sha1": "1d80bb8c463dab358f06199a767a8a8fc91c9348",
+      "format": "JSON"
+    },
+    {
+      "name": "yaledailynews-2022-10-08T03:15:07.879314-04:00.jpg",
+      "source": "original",
+      "mtime": "1665213310",
+      "size": "263545",
+      "md5": "2042316f0b459b36a96e7ae4ed9c9279",
+      "crc32": "101c8358",
+      "sha1": "a141e1e71bab8ed0c7a1135d1d2dd8a207a81cd8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yaledailynews-2022-10-08T03:15:07.879314-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665213316",
+      "size": "1486",
+      "md5": "466c874e3922e46e830b07756cf0f7d4",
+      "crc32": "cba34f1d",
+      "sha1": "de2a2edb6823e00b665090995a1546444bcc7cac",
+      "format": "JSON"
+    },
+    {
+      "name": "yaledailynews-2022-10-08T03:15:07.879314-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665213317",
+      "size": "206",
+      "md5": "9f0663d125d386d1e1e54c4ef2535818",
+      "crc32": "f4acc94a",
+      "sha1": "1f2c2e653e2a76066e7ef9586723259c07ca758d",
+      "format": "JSON"
+    },
+    {
+      "name": "yaledailynews-2022-10-08T03:15:07.879314-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yaledailynews-2022-10-08T03:15:07.879314-04:00.jpg",
+      "mtime": "1665213374",
+      "size": "9271",
+      "md5": "82c11942cfea2f8fcdf25a6a8ba3629f",
+      "crc32": "21db04fe",
+      "sha1": "389e35d0ed854a8361048486099e2e57dcfa7298"
+    },
+    {
+      "name": "yaledailynews-2022-10-08T15:12:58.684359-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665256385",
+      "size": "13026",
+      "md5": "29b80160e6c39b29829193bf536f256f",
+      "crc32": "754bd9ab",
+      "sha1": "6e72ccb387e4df7672754c096746437095c4f48b",
+      "format": "JSON"
+    },
+    {
+      "name": "yaledailynews-2022-10-08T15:12:58.684359-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665256386",
+      "size": "35588",
+      "md5": "6702eab19d126b60064dfe60909091ff",
+      "crc32": "1ef81ab7",
+      "sha1": "e6ba6b61fd83ce67425e8cf10a3b2595480de518",
+      "format": "JSON"
+    },
+    {
+      "name": "yaledailynews-2022-10-08T15:12:58.684359-04:00.jpg",
+      "source": "original",
+      "mtime": "1665256383",
+      "size": "263432",
+      "md5": "189391536a80e17985e6d6033b3de019",
+      "crc32": "04cf79ba",
+      "sha1": "b437523f53a489d2fa0506d84b3eac86199d69b0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yaledailynews-2022-10-08T15:12:58.684359-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665256388",
+      "size": "1486",
+      "md5": "5725d1df2b8932afe174fc5308456222",
+      "crc32": "fb1fa01b",
+      "sha1": "3b01d431a2dcb3991b329b1a6ea312b2afdd06ac",
+      "format": "JSON"
+    },
+    {
+      "name": "yaledailynews-2022-10-08T15:12:58.684359-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665256389",
+      "size": "17291",
+      "md5": "aed201d55da7a66d278351ae612b347f",
+      "crc32": "932fcb5a",
+      "sha1": "e3b6fe6413b9293dc67b5f9672305d23f0a19b37",
+      "format": "JSON"
+    },
+    {
+      "name": "yaledailynews-2022-10-08T15:12:58.684359-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yaledailynews-2022-10-08T15:12:58.684359-04:00.jpg",
+      "mtime": "1665256449",
+      "size": "9278",
+      "md5": "61a965d8453840fea0e8ef57bfc5f016",
+      "crc32": "7c0ae492",
+      "sha1": "4ce71c4ffba451fabc72ffa332f101c61c82ca4a"
+    },
+    {
+      "name": "yaledailynews-2022-10-09T03:34:56.171399-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665300905",
+      "size": "12954",
+      "md5": "76b6d24aada2565c6c623a603aa91d98",
+      "crc32": "d757d632",
+      "sha1": "58a8430bc84aa77b3c3b5b64c564f9d973d0c7f1",
+      "format": "JSON"
+    },
+    {
+      "name": "yaledailynews-2022-10-09T03:34:56.171399-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665300907",
+      "size": "35586",
+      "md5": "214fb82c22173cae8c2904e91a311313",
+      "crc32": "3fc6268a",
+      "sha1": "902db3bba7d9baec24050ea5ae8a3f81be1ad558",
+      "format": "JSON"
+    },
+    {
+      "name": "yaledailynews-2022-10-09T03:34:56.171399-04:00.jpg",
+      "source": "original",
+      "mtime": "1665300904",
+      "size": "264297",
+      "md5": "089a7f25a2f5549e91722562832954b7",
+      "crc32": "dc337c26",
+      "sha1": "9f21dd161785d84e5c3bd03250f6a53f270b36bc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yaledailynews-2022-10-09T03:34:56.171399-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665300908",
+      "size": "1486",
+      "md5": "d46eac82b404f3e11156ee1ff671be87",
+      "crc32": "9c7a9758",
+      "sha1": "c945b92ecaa8b7dab0fbbb60a0960651a820b5fa",
+      "format": "JSON"
+    },
+    {
+      "name": "yaledailynews-2022-10-09T03:34:56.171399-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665300910",
+      "size": "251",
+      "md5": "dc648559d7a17b1875d05d96517dbabf",
+      "crc32": "eec658a7",
+      "sha1": "d6554d6c7dcfc69d07190d397dd100f70c7eb472",
+      "format": "JSON"
+    },
+    {
+      "name": "yaledailynews-2022-10-09T03:34:56.171399-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yaledailynews-2022-10-09T03:34:56.171399-04:00.jpg",
+      "mtime": "1665300962",
+      "size": "9258",
+      "md5": "67f168c83cfef498247d3531ff26e4f8",
+      "crc32": "95382afe",
+      "sha1": "e9a1fbfa9ff1575b2d6e173c37097a7f7426efcd"
+    },
+    {
       "name": "yaledailynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d7c07f13fbbb7cb4bb60c27c3b6cc5beb4c4ddd1",
-      "mtime": "1665129619",
-      "size": "62065",
-      "md5": "8f7af9f35f948f409711124f56c77a4f",
-      "crc32": "723f34b1",
-      "sha1": "502571620766f47a94fd6762b1933481d73d80e0",
+      "btih": "25e009603cb0209fbcaf6eb70a3b80bdf856af96",
+      "mtime": "1665300966",
+      "size": "67229",
+      "md5": "a01a1950d71fe921c88ba7aa5d49a9bc",
+      "crc32": "d390a565",
+      "sha1": "fa128a026f0cc063e50bfeba7c5454c944cc4cb2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yaledailynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4072d7f707eef71b27b1ada9f4a04ea9",
+      "md5": "0784799e7dbb3ed9b3167ebdd9f72706",
       "summation": "md5"
     },
     {
       "name": "yaledailynews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665129525",
-      "size": "376832",
-      "md5": "45b7c5fe2fe8bc4093c4c7db279518d3",
-      "crc32": "24ac103a",
-      "sha1": "887a56106fee57c43d62e084b9a61e0d683c5dbb",
+      "mtime": "1665300915",
+      "size": "413696",
+      "md5": "47328156146b8279b09523d168c5888f",
+      "crc32": "5958031b",
+      "sha1": "d06047ef375fe571a612ada680b9b403910b7d4d",
       "format": "Metadata"
     },
     {
@@ -2958,9 +3206,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 286,
-  "item_last_updated": 1665129619,
-  "item_size": 16697726,
+  "files_count": 310,
+  "item_last_updated": 1665300966,
+  "item_size": 18067425,
   "metadata": {
     "identifier": "yaledailynews-2022",
     "collection": [
@@ -2977,10 +3225,10 @@
     "publicdate": "2022-09-14 05:42:09",
     "addeddate": "2022-09-14 05:42:09"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 880701049,
+  "server": "ia601404.us.archive.org",
+  "uniq": 272200216,
   "workable_servers": [
-    "ia801404.us.archive.org",
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }
