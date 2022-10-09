@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 33 screenshots with the Internet Archive.
+The archiving routine has saved 37 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-09T02:31:46.851386-05:00.jpg">
+  <img src="https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-09T02:31:46.851386-05:00.jpg"
+     alt="Monroe News-Star at 2022-10-09 02:31:52-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-09T02:31:46.851386-05:00.jpg">October 9 at 2:31 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-08T14:08:51.532957-05:00.jpg">
+  <img src="https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-08T14:08:51.532957-05:00.jpg"
+     alt="Monroe News-Star at 2022-10-08 14:08:58-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-08T14:08:51.532957-05:00.jpg">October 8 at 2:08 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-08T02:12:53.709001-05:00.jpg">
+  <img src="https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-08T02:12:53.709001-05:00.jpg"
+     alt="Monroe News-Star at 2022-10-08 02:12:56-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-08T02:12:53.709001-05:00.jpg">October 8 at 2:12 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-07T15:25:05.618115-05:00.jpg">
+  <img src="https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-07T15:25:05.618115-05:00.jpg"
+     alt="Monroe News-Star at 2022-10-07 15:25:12-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-07T15:25:05.618115-05:00.jpg">October 7 at 3:25 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-07T02:53:28.192371-05:00.jpg">
   <img src="https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-07T02:53:28.192371-05:00.jpg"
      alt="Monroe News-Star at 2022-10-07 02:53:30-05:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-03T14:12:27.249098-05:00.jpg">October 3 at 2:12 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-03T02:31:22.450592-05:00.jpg">
-  <img src="https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-03T02:31:22.450592-05:00.jpg"
-     alt="Monroe News-Star at 2022-10-03 02:31:23-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-03T02:31:22.450592-05:00.jpg">October 3 at 2:31 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-02T14:38:59.561064-05:00.jpg">
-  <img src="https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-02T14:38:59.561064-05:00.jpg"
-     alt="Monroe News-Star at 2022-10-02 14:39:05-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-02T14:38:59.561064-05:00.jpg">October 2 at 2:39 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-02T02:15:59.961931-05:00.jpg">
-  <img src="https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-02T02:15:59.961931-05:00.jpg"
-     alt="Monroe News-Star at 2022-10-02 02:16:04-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-02T02:15:59.961931-05:00.jpg">October 2 at 2:16 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-01T14:39:09.340845-05:00.jpg">
-  <img src="https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-01T14:39:09.340845-05:00.jpg"
-     alt="Monroe News-Star at 2022-10-01 14:39:11-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-01T14:39:09.340845-05:00.jpg">October 1 at 2:39 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 34 hyperlink lists with the Internet Archive.
+The archiving routine has saved 38 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 9 at 2:31 AM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-09T02:31:46.851386-05:00.hyperlinks.json) |
+| [October 8 at 2:09 PM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-08T14:08:51.532957-05:00.hyperlinks.json) |
+| [October 8 at 2:13 AM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-08T02:12:53.709001-05:00.hyperlinks.json) |
+| [October 7 at 3:25 PM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-07T15:25:05.618115-05:00.hyperlinks.json) |
 | [October 7 at 2:53 AM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-07T02:53:28.192371-05:00.hyperlinks.json) |
 | [October 6 at 3:31 PM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-06T15:31:32.704138-05:00.hyperlinks.json) |
 | [October 6 at 2:21 AM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-06T02:21:32.049384-05:00.hyperlinks.json) |
 | [October 5 at 3:51 PM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-05T15:51:30.993468-05:00.hyperlinks.json) |
 | [October 5 at 2:30 AM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-05T02:30:31.707376-05:00.hyperlinks.json) |
 | [October 4 at 3:09 PM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-04T15:08:51.932047-05:00.hyperlinks.json) |
-| [October 4 at 2:53 AM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-04T02:53:31.704787-05:00.hyperlinks.json) |
-| [October 3 at 2:12 PM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-03T14:12:27.249098-05:00.hyperlinks.json) |
-| [October 3 at 2:31 AM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-03T02:31:22.450592-05:00.hyperlinks.json) |
-| [October 2 at 2:39 PM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-02T14:38:59.561064-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 34 accessibility trees with the Internet Archive.
+The archiving routine has saved 38 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 9 at 2:31 AM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-09T02:31:46.851386-05:00.accessibility.json) |
+| [October 8 at 2:09 PM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-08T14:08:51.532957-05:00.accessibility.json) |
+| [October 8 at 2:12 AM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-08T02:12:53.709001-05:00.accessibility.json) |
+| [October 7 at 3:25 PM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-07T15:25:05.618115-05:00.accessibility.json) |
 | [October 7 at 2:53 AM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-07T02:53:28.192371-05:00.accessibility.json) |
 | [October 6 at 3:31 PM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-06T15:31:32.704138-05:00.accessibility.json) |
 | [October 6 at 2:21 AM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-06T02:21:32.049384-05:00.accessibility.json) |
 | [October 5 at 3:51 PM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-05T15:51:30.993468-05:00.accessibility.json) |
 | [October 5 at 2:30 AM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-05T02:30:31.707376-05:00.accessibility.json) |
 | [October 4 at 3:09 PM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-04T15:08:51.932047-05:00.accessibility.json) |
-| [October 4 at 2:53 AM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-04T02:53:31.704787-05:00.accessibility.json) |
-| [October 3 at 2:12 PM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-03T14:12:27.249098-05:00.accessibility.json) |
-| [October 3 at 2:31 AM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-03T02:31:22.450592-05:00.accessibility.json) |
-| [October 2 at 2:39 PM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-02T14:38:59.561064-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 38 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 9 at 2:31 AM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-09T02:31:46.851386-05:00.lighthouse.json) |
+| [October 8 at 2:09 PM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-08T14:08:51.532957-05:00.lighthouse.json) |
+| [October 8 at 2:13 AM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-08T02:12:53.709001-05:00.lighthouse.json) |
+| [October 7 at 3:25 PM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-07T15:25:05.618115-05:00.lighthouse.json) |
 | [October 7 at 2:53 AM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-07T02:53:28.192371-05:00.lighthouse.json) |
 | [October 6 at 3:31 PM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-06T15:31:32.704138-05:00.lighthouse.json) |
 | [October 6 at 2:21 AM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-06T02:21:32.049384-05:00.lighthouse.json) |
 | [October 5 at 3:51 PM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-05T15:51:30.993468-05:00.lighthouse.json) |
 | [October 5 at 2:30 AM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-05T02:30:31.707376-05:00.lighthouse.json) |
 | [October 4 at 3:09 PM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-04T15:08:51.932047-05:00.lighthouse.json) |
-| [October 4 at 2:53 AM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-04T02:53:31.704787-05:00.lighthouse.json) |
-| [October 3 at 2:12 PM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-03T14:12:27.249098-05:00.lighthouse.json) |
-| [October 3 at 2:31 AM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-03T02:31:22.450592-05:00.lighthouse.json) |
-| [October 2 at 2:39 PM](https://archive.org/download/thenewsstar-2022/thenewsstar-2022-10-02T14:38:59.561064-05:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 201 screenshots with the Internet Archive.
+The archiving routine has saved 205 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/wired-2022/wired-2022-10-09T00:34:55.451943-07:00.jpg">
+  <img src="https://archive.org/download/wired-2022/wired-2022-10-09T00:34:55.451943-07:00.jpg"
+     alt="Wired at 2022-10-09 00:34:56-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wired-2022/wired-2022-10-09T00:34:55.451943-07:00.jpg">October 9 at 12:34 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wired-2022/wired-2022-10-08T12:11:21.823896-07:00.jpg">
+  <img src="https://archive.org/download/wired-2022/wired-2022-10-08T12:11:21.823896-07:00.jpg"
+     alt="Wired at 2022-10-08 12:11:23-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wired-2022/wired-2022-10-08T12:11:21.823896-07:00.jpg">October 8 at 12:11 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wired-2022/wired-2022-10-08T00:15:28.723717-07:00.jpg">
+  <img src="https://archive.org/download/wired-2022/wired-2022-10-08T00:15:28.723717-07:00.jpg"
+     alt="Wired at 2022-10-08 00:15:35-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wired-2022/wired-2022-10-08T00:15:28.723717-07:00.jpg">October 8 at 12:15 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wired-2022/wired-2022-10-07T13:27:37.542370-07:00.jpg">
+  <img src="https://archive.org/download/wired-2022/wired-2022-10-07T13:27:37.542370-07:00.jpg"
+     alt="Wired at 2022-10-07 13:27:39-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wired-2022/wired-2022-10-07T13:27:37.542370-07:00.jpg">October 7 at 1:27 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/wired-2022/wired-2022-10-07T00:59:02.529047-07:00.jpg">
   <img src="https://archive.org/download/wired-2022/wired-2022-10-07T00:59:02.529047-07:00.jpg"
      alt="Wired at 2022-10-07 00:59:19-07:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wired-2022/wired-2022-10-03T12:17:27.110132-07:00.jpg">October 3 at 12:17 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wired-2022/wired-2022-10-03T00:33:54.937606-07:00.jpg">
-  <img src="https://archive.org/download/wired-2022/wired-2022-10-03T00:33:54.937606-07:00.jpg"
-     alt="Wired at 2022-10-03 00:34:01-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wired-2022/wired-2022-10-03T00:33:54.937606-07:00.jpg">October 3 at 12:34 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wired-2022/wired-2022-10-02T12:42:05.265409-07:00.jpg">
-  <img src="https://archive.org/download/wired-2022/wired-2022-10-02T12:42:05.265409-07:00.jpg"
-     alt="Wired at 2022-10-02 12:42:09-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wired-2022/wired-2022-10-02T12:42:05.265409-07:00.jpg">October 2 at 12:42 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wired-2022/wired-2022-10-02T00:17:52.224931-07:00.jpg">
-  <img src="https://archive.org/download/wired-2022/wired-2022-10-02T00:17:52.224931-07:00.jpg"
-     alt="Wired at 2022-10-02 00:17:54-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wired-2022/wired-2022-10-02T00:17:52.224931-07:00.jpg">October 2 at 12:17 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wired-2022/wired-2022-10-01T12:41:29.977093-07:00.jpg">
-  <img src="https://archive.org/download/wired-2022/wired-2022-10-01T12:41:29.977093-07:00.jpg"
-     alt="Wired at 2022-10-01 12:41:35-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wired-2022/wired-2022-10-01T12:41:29.977093-07:00.jpg">October 1 at 12:41 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 201 hyperlink lists with the Internet Archive.
+The archiving routine has saved 205 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 9 at 12:34 AM](https://archive.org/download/wired-2022/wired-2022-10-09T00:34:55.451943-07:00.hyperlinks.json) |
+| [October 8 at 12:11 PM](https://archive.org/download/wired-2022/wired-2022-10-08T12:11:21.823896-07:00.hyperlinks.json) |
+| [October 8 at 12:15 AM](https://archive.org/download/wired-2022/wired-2022-10-08T00:15:28.723717-07:00.hyperlinks.json) |
+| [October 7 at 1:27 PM](https://archive.org/download/wired-2022/wired-2022-10-07T13:27:37.542370-07:00.hyperlinks.json) |
 | [October 7 at 12:59 AM](https://archive.org/download/wired-2022/wired-2022-10-07T00:59:02.529047-07:00.hyperlinks.json) |
 | [October 6 at 1:35 PM](https://archive.org/download/wired-2022/wired-2022-10-06T13:34:59.904621-07:00.hyperlinks.json) |
 | [October 6 at 12:23 AM](https://archive.org/download/wired-2022/wired-2022-10-06T00:23:42.383996-07:00.hyperlinks.json) |
 | [October 5 at 1:54 PM](https://archive.org/download/wired-2022/wired-2022-10-05T13:54:49.122211-07:00.hyperlinks.json) |
 | [October 5 at 12:33 AM](https://archive.org/download/wired-2022/wired-2022-10-05T00:33:35.712220-07:00.hyperlinks.json) |
 | [October 4 at 1:11 PM](https://archive.org/download/wired-2022/wired-2022-10-04T13:11:44.194952-07:00.hyperlinks.json) |
-| [October 4 at 12:55 AM](https://archive.org/download/wired-2022/wired-2022-10-04T00:55:38.166903-07:00.hyperlinks.json) |
-| [October 3 at 12:17 PM](https://archive.org/download/wired-2022/wired-2022-10-03T12:17:27.110132-07:00.hyperlinks.json) |
-| [October 3 at 12:34 AM](https://archive.org/download/wired-2022/wired-2022-10-03T00:33:54.937606-07:00.hyperlinks.json) |
-| [October 2 at 12:42 PM](https://archive.org/download/wired-2022/wired-2022-10-02T12:42:05.265409-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 202 accessibility trees with the Internet Archive.
+The archiving routine has saved 206 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 9 at 12:34 AM](https://archive.org/download/wired-2022/wired-2022-10-09T00:34:55.451943-07:00.accessibility.json) |
+| [October 8 at 12:11 PM](https://archive.org/download/wired-2022/wired-2022-10-08T12:11:21.823896-07:00.accessibility.json) |
+| [October 8 at 12:15 AM](https://archive.org/download/wired-2022/wired-2022-10-08T00:15:28.723717-07:00.accessibility.json) |
+| [October 7 at 1:27 PM](https://archive.org/download/wired-2022/wired-2022-10-07T13:27:37.542370-07:00.accessibility.json) |
 | [October 7 at 12:59 AM](https://archive.org/download/wired-2022/wired-2022-10-07T00:59:02.529047-07:00.accessibility.json) |
 | [October 6 at 1:35 PM](https://archive.org/download/wired-2022/wired-2022-10-06T13:34:59.904621-07:00.accessibility.json) |
 | [October 6 at 12:23 AM](https://archive.org/download/wired-2022/wired-2022-10-06T00:23:42.383996-07:00.accessibility.json) |
 | [October 5 at 1:54 PM](https://archive.org/download/wired-2022/wired-2022-10-05T13:54:49.122211-07:00.accessibility.json) |
 | [October 5 at 12:33 AM](https://archive.org/download/wired-2022/wired-2022-10-05T00:33:35.712220-07:00.accessibility.json) |
 | [October 4 at 1:11 PM](https://archive.org/download/wired-2022/wired-2022-10-04T13:11:44.194952-07:00.accessibility.json) |
-| [October 4 at 12:55 AM](https://archive.org/download/wired-2022/wired-2022-10-04T00:55:38.166903-07:00.accessibility.json) |
-| [October 3 at 12:17 PM](https://archive.org/download/wired-2022/wired-2022-10-03T12:17:27.110132-07:00.accessibility.json) |
-| [October 3 at 12:34 AM](https://archive.org/download/wired-2022/wired-2022-10-03T00:33:54.937606-07:00.accessibility.json) |
-| [October 2 at 12:42 PM](https://archive.org/download/wired-2022/wired-2022-10-02T12:42:05.265409-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 150 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 154 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 9 at 12:35 AM](https://archive.org/download/wired-2022/wired-2022-10-09T00:34:55.451943-07:00.lighthouse.json) |
+| [October 8 at 12:11 PM](https://archive.org/download/wired-2022/wired-2022-10-08T12:11:21.823896-07:00.lighthouse.json) |
+| [October 8 at 12:15 AM](https://archive.org/download/wired-2022/wired-2022-10-08T00:15:28.723717-07:00.lighthouse.json) |
+| [October 7 at 1:27 PM](https://archive.org/download/wired-2022/wired-2022-10-07T13:27:37.542370-07:00.lighthouse.json) |
 | [October 7 at 12:59 AM](https://archive.org/download/wired-2022/wired-2022-10-07T00:59:02.529047-07:00.lighthouse.json) |
 | [October 6 at 1:35 PM](https://archive.org/download/wired-2022/wired-2022-10-06T13:34:59.904621-07:00.lighthouse.json) |
 | [October 6 at 12:23 AM](https://archive.org/download/wired-2022/wired-2022-10-06T00:23:42.383996-07:00.lighthouse.json) |
 | [October 5 at 1:54 PM](https://archive.org/download/wired-2022/wired-2022-10-05T13:54:49.122211-07:00.lighthouse.json) |
 | [October 5 at 12:33 AM](https://archive.org/download/wired-2022/wired-2022-10-05T00:33:35.712220-07:00.lighthouse.json) |
 | [October 4 at 1:11 PM](https://archive.org/download/wired-2022/wired-2022-10-04T13:11:44.194952-07:00.lighthouse.json) |
-| [October 4 at 12:55 AM](https://archive.org/download/wired-2022/wired-2022-10-04T00:55:38.166903-07:00.lighthouse.json) |
-| [October 3 at 12:17 PM](https://archive.org/download/wired-2022/wired-2022-10-03T12:17:27.110132-07:00.lighthouse.json) |
-| [October 3 at 12:34 AM](https://archive.org/download/wired-2022/wired-2022-10-03T00:33:54.937606-07:00.lighthouse.json) |
-| [October 2 at 12:42 PM](https://archive.org/download/wired-2022/wired-2022-10-02T12:42:05.265409-07:00.lighthouse.json) |
 
 
 

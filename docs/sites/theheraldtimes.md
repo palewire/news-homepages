@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 34 screenshots with the Internet Archive.
+The archiving routine has saved 38 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-09T03:30:59.014636-04:00.jpg">
+  <img src="https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-09T03:30:59.014636-04:00.jpg"
+     alt="The Herald-Times at 2022-10-09 03:31:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-09T03:30:59.014636-04:00.jpg">October 9 at 3:31 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-08T15:08:40.231875-04:00.jpg">
+  <img src="https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-08T15:08:40.231875-04:00.jpg"
+     alt="The Herald-Times at 2022-10-08 15:08:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-08T15:08:40.231875-04:00.jpg">October 8 at 3:08 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-08T03:12:47.884402-04:00.jpg">
+  <img src="https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-08T03:12:47.884402-04:00.jpg"
+     alt="The Herald-Times at 2022-10-08 03:12:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-08T03:12:47.884402-04:00.jpg">October 8 at 3:12 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-07T16:25:15.481427-04:00.jpg">
+  <img src="https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-07T16:25:15.481427-04:00.jpg"
+     alt="The Herald-Times at 2022-10-07 16:25:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-07T16:25:15.481427-04:00.jpg">October 7 at 4:25 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-07T03:53:36.863554-04:00.jpg">
   <img src="https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-07T03:53:36.863554-04:00.jpg"
      alt="The Herald-Times at 2022-10-07 03:53:40-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-03T15:11:38.527984-04:00.jpg">October 3 at 3:11 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-03T03:29:05.241740-04:00.jpg">
-  <img src="https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-03T03:29:05.241740-04:00.jpg"
-     alt="The Herald-Times at 2022-10-03 03:29:09-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-03T03:29:05.241740-04:00.jpg">October 3 at 3:29 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-02T15:37:10.045888-04:00.jpg">
-  <img src="https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-02T15:37:10.045888-04:00.jpg"
-     alt="The Herald-Times at 2022-10-02 15:37:13-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-02T15:37:10.045888-04:00.jpg">October 2 at 3:37 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-02T03:15:07.188805-04:00.jpg">
-  <img src="https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-02T03:15:07.188805-04:00.jpg"
-     alt="The Herald-Times at 2022-10-02 03:15:09-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-02T03:15:07.188805-04:00.jpg">October 2 at 3:15 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-01T15:39:11.302037-04:00.jpg">
-  <img src="https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-01T15:39:11.302037-04:00.jpg"
-     alt="The Herald-Times at 2022-10-01 15:39:16-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-01T15:39:11.302037-04:00.jpg">October 1 at 3:39 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 34 hyperlink lists with the Internet Archive.
+The archiving routine has saved 38 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 9 at 3:31 AM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-09T03:30:59.014636-04:00.hyperlinks.json) |
+| [October 8 at 3:08 PM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-08T15:08:40.231875-04:00.hyperlinks.json) |
+| [October 8 at 3:12 AM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-08T03:12:47.884402-04:00.hyperlinks.json) |
+| [October 7 at 4:25 PM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-07T16:25:15.481427-04:00.hyperlinks.json) |
 | [October 7 at 3:53 AM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-07T03:53:36.863554-04:00.hyperlinks.json) |
 | [October 6 at 4:29 PM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-06T16:29:36.209097-04:00.hyperlinks.json) |
 | [October 6 at 3:21 AM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-06T03:21:10.674494-04:00.hyperlinks.json) |
 | [October 5 at 4:49 PM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-05T16:48:58.561903-04:00.hyperlinks.json) |
 | [October 5 at 3:30 AM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-05T03:30:30.453472-04:00.hyperlinks.json) |
 | [October 4 at 4:08 PM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-04T16:07:58.603276-04:00.hyperlinks.json) |
-| [October 4 at 3:53 AM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-04T03:53:30.184680-04:00.hyperlinks.json) |
-| [October 3 at 3:11 PM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-03T15:11:38.527984-04:00.hyperlinks.json) |
-| [October 3 at 3:29 AM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-03T03:29:05.241740-04:00.hyperlinks.json) |
-| [October 2 at 3:37 PM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-02T15:37:10.045888-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 34 accessibility trees with the Internet Archive.
+The archiving routine has saved 38 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 9 at 3:31 AM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-09T03:30:59.014636-04:00.accessibility.json) |
+| [October 8 at 3:08 PM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-08T15:08:40.231875-04:00.accessibility.json) |
+| [October 8 at 3:12 AM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-08T03:12:47.884402-04:00.accessibility.json) |
+| [October 7 at 4:25 PM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-07T16:25:15.481427-04:00.accessibility.json) |
 | [October 7 at 3:53 AM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-07T03:53:36.863554-04:00.accessibility.json) |
 | [October 6 at 4:29 PM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-06T16:29:36.209097-04:00.accessibility.json) |
 | [October 6 at 3:21 AM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-06T03:21:10.674494-04:00.accessibility.json) |
 | [October 5 at 4:49 PM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-05T16:48:58.561903-04:00.accessibility.json) |
 | [October 5 at 3:30 AM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-05T03:30:30.453472-04:00.accessibility.json) |
 | [October 4 at 4:08 PM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-04T16:07:58.603276-04:00.accessibility.json) |
-| [October 4 at 3:53 AM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-04T03:53:30.184680-04:00.accessibility.json) |
-| [October 3 at 3:11 PM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-03T15:11:38.527984-04:00.accessibility.json) |
-| [October 3 at 3:29 AM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-03T03:29:05.241740-04:00.accessibility.json) |
-| [October 2 at 3:37 PM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-02T15:37:10.045888-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 38 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 9 at 3:31 AM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-09T03:30:59.014636-04:00.lighthouse.json) |
+| [October 8 at 3:08 PM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-08T15:08:40.231875-04:00.lighthouse.json) |
+| [October 8 at 3:12 AM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-08T03:12:47.884402-04:00.lighthouse.json) |
+| [October 7 at 4:25 PM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-07T16:25:15.481427-04:00.lighthouse.json) |
 | [October 7 at 3:53 AM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-07T03:53:36.863554-04:00.lighthouse.json) |
 | [October 6 at 4:29 PM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-06T16:29:36.209097-04:00.lighthouse.json) |
 | [October 6 at 3:21 AM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-06T03:21:10.674494-04:00.lighthouse.json) |
 | [October 5 at 4:49 PM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-05T16:48:58.561903-04:00.lighthouse.json) |
 | [October 5 at 3:30 AM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-05T03:30:30.453472-04:00.lighthouse.json) |
 | [October 4 at 4:08 PM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-04T16:07:58.603276-04:00.lighthouse.json) |
-| [October 4 at 3:53 AM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-04T03:53:30.184680-04:00.lighthouse.json) |
-| [October 3 at 3:11 PM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-03T15:11:38.527984-04:00.lighthouse.json) |
-| [October 3 at 3:29 AM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-03T03:29:05.241740-04:00.lighthouse.json) |
-| [October 2 at 3:37 PM](https://archive.org/download/theheraldtimes-2022/theheraldtimes-2022-10-02T15:37:10.045888-04:00.lighthouse.json) |
 
 
 

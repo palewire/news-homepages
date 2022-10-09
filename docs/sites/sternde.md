@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 146 screenshots with the Internet Archive.
+The archiving routine has saved 150 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/sternde-2022/sternde-2022-10-09T09:29:45.430661+02:00.jpg">
+  <img src="https://archive.org/download/sternde-2022/sternde-2022-10-09T09:29:45.430661+02:00.jpg"
+     alt="Stern at 2022-10-09 09:29:51+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sternde-2022/sternde-2022-10-09T09:29:45.430661+02:00.jpg">October 9 at 9:29 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sternde-2022/sternde-2022-10-08T21:05:40.313601+02:00.jpg">
+  <img src="https://archive.org/download/sternde-2022/sternde-2022-10-08T21:05:40.313601+02:00.jpg"
+     alt="Stern at 2022-10-08 21:05:48+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sternde-2022/sternde-2022-10-08T21:05:40.313601+02:00.jpg">October 8 at 9:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sternde-2022/sternde-2022-10-08T09:10:34.268667+02:00.jpg">
+  <img src="https://archive.org/download/sternde-2022/sternde-2022-10-08T09:10:34.268667+02:00.jpg"
+     alt="Stern at 2022-10-08 09:10:40+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sternde-2022/sternde-2022-10-08T09:10:34.268667+02:00.jpg">October 8 at 9:10 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sternde-2022/sternde-2022-10-07T22:22:58.026394+02:00.jpg">
+  <img src="https://archive.org/download/sternde-2022/sternde-2022-10-07T22:22:58.026394+02:00.jpg"
+     alt="Stern at 2022-10-07 22:23:11+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sternde-2022/sternde-2022-10-07T22:22:58.026394+02:00.jpg">October 7 at 10:23 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/sternde-2022/sternde-2022-10-07T09:53:25.250332+02:00.jpg">
   <img src="https://archive.org/download/sternde-2022/sternde-2022-10-07T09:53:25.250332+02:00.jpg"
      alt="Stern at 2022-10-07 09:53:30+02:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sternde-2022/sternde-2022-10-03T21:10:00.671296+02:00.jpg">October 3 at 9:10 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sternde-2022/sternde-2022-10-03T09:27:08.262598+02:00.jpg">
-  <img src="https://archive.org/download/sternde-2022/sternde-2022-10-03T09:27:08.262598+02:00.jpg"
-     alt="Stern at 2022-10-03 09:27:15+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sternde-2022/sternde-2022-10-03T09:27:08.262598+02:00.jpg">October 3 at 9:27 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sternde-2022/sternde-2022-10-02T21:36:31.985609+02:00.jpg">
-  <img src="https://archive.org/download/sternde-2022/sternde-2022-10-02T21:36:31.985609+02:00.jpg"
-     alt="Stern at 2022-10-02 21:36:37+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sternde-2022/sternde-2022-10-02T21:36:31.985609+02:00.jpg">October 2 at 9:36 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sternde-2022/sternde-2022-10-02T09:14:57.775684+02:00.jpg">
-  <img src="https://archive.org/download/sternde-2022/sternde-2022-10-02T09:14:57.775684+02:00.jpg"
-     alt="Stern at 2022-10-02 09:15:04+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sternde-2022/sternde-2022-10-02T09:14:57.775684+02:00.jpg">October 2 at 9:15 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sternde-2022/sternde-2022-10-01T21:36:56.431298+02:00.jpg">
-  <img src="https://archive.org/download/sternde-2022/sternde-2022-10-01T21:36:56.431298+02:00.jpg"
-     alt="Stern at 2022-10-01 21:37:03+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sternde-2022/sternde-2022-10-01T21:36:56.431298+02:00.jpg">October 1 at 9:37 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 146 hyperlink lists with the Internet Archive.
+The archiving routine has saved 150 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 9 at 9:29 AM](https://archive.org/download/sternde-2022/sternde-2022-10-09T09:29:45.430661+02:00.hyperlinks.json) |
+| [October 8 at 9:05 PM](https://archive.org/download/sternde-2022/sternde-2022-10-08T21:05:40.313601+02:00.hyperlinks.json) |
+| [October 8 at 9:10 AM](https://archive.org/download/sternde-2022/sternde-2022-10-08T09:10:34.268667+02:00.hyperlinks.json) |
+| [October 7 at 10:23 PM](https://archive.org/download/sternde-2022/sternde-2022-10-07T22:22:58.026394+02:00.hyperlinks.json) |
 | [October 7 at 9:53 AM](https://archive.org/download/sternde-2022/sternde-2022-10-07T09:53:25.250332+02:00.hyperlinks.json) |
 | [October 6 at 10:29 PM](https://archive.org/download/sternde-2022/sternde-2022-10-06T22:28:51.212039+02:00.hyperlinks.json) |
 | [October 6 at 9:19 AM](https://archive.org/download/sternde-2022/sternde-2022-10-06T09:19:21.158704+02:00.hyperlinks.json) |
 | [October 5 at 10:49 PM](https://archive.org/download/sternde-2022/sternde-2022-10-05T22:49:01.180346+02:00.hyperlinks.json) |
 | [October 5 at 9:29 AM](https://archive.org/download/sternde-2022/sternde-2022-10-05T09:29:09.423597+02:00.hyperlinks.json) |
 | [October 4 at 10:06 PM](https://archive.org/download/sternde-2022/sternde-2022-10-04T22:05:58.568966+02:00.hyperlinks.json) |
-| [October 4 at 9:51 AM](https://archive.org/download/sternde-2022/sternde-2022-10-04T09:50:50.385295+02:00.hyperlinks.json) |
-| [October 3 at 9:10 PM](https://archive.org/download/sternde-2022/sternde-2022-10-03T21:10:00.671296+02:00.hyperlinks.json) |
-| [October 3 at 9:27 AM](https://archive.org/download/sternde-2022/sternde-2022-10-03T09:27:08.262598+02:00.hyperlinks.json) |
-| [October 2 at 9:36 PM](https://archive.org/download/sternde-2022/sternde-2022-10-02T21:36:31.985609+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 146 accessibility trees with the Internet Archive.
+The archiving routine has saved 150 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 9 at 9:29 AM](https://archive.org/download/sternde-2022/sternde-2022-10-09T09:29:45.430661+02:00.accessibility.json) |
+| [October 8 at 9:05 PM](https://archive.org/download/sternde-2022/sternde-2022-10-08T21:05:40.313601+02:00.accessibility.json) |
+| [October 8 at 9:10 AM](https://archive.org/download/sternde-2022/sternde-2022-10-08T09:10:34.268667+02:00.accessibility.json) |
+| [October 7 at 10:23 PM](https://archive.org/download/sternde-2022/sternde-2022-10-07T22:22:58.026394+02:00.accessibility.json) |
 | [October 7 at 9:53 AM](https://archive.org/download/sternde-2022/sternde-2022-10-07T09:53:25.250332+02:00.accessibility.json) |
 | [October 6 at 10:29 PM](https://archive.org/download/sternde-2022/sternde-2022-10-06T22:28:51.212039+02:00.accessibility.json) |
 | [October 6 at 9:19 AM](https://archive.org/download/sternde-2022/sternde-2022-10-06T09:19:21.158704+02:00.accessibility.json) |
 | [October 5 at 10:49 PM](https://archive.org/download/sternde-2022/sternde-2022-10-05T22:49:01.180346+02:00.accessibility.json) |
 | [October 5 at 9:29 AM](https://archive.org/download/sternde-2022/sternde-2022-10-05T09:29:09.423597+02:00.accessibility.json) |
 | [October 4 at 10:06 PM](https://archive.org/download/sternde-2022/sternde-2022-10-04T22:05:58.568966+02:00.accessibility.json) |
-| [October 4 at 9:50 AM](https://archive.org/download/sternde-2022/sternde-2022-10-04T09:50:50.385295+02:00.accessibility.json) |
-| [October 3 at 9:10 PM](https://archive.org/download/sternde-2022/sternde-2022-10-03T21:10:00.671296+02:00.accessibility.json) |
-| [October 3 at 9:27 AM](https://archive.org/download/sternde-2022/sternde-2022-10-03T09:27:08.262598+02:00.accessibility.json) |
-| [October 2 at 9:36 PM](https://archive.org/download/sternde-2022/sternde-2022-10-02T21:36:31.985609+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 146 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 150 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 9 at 9:29 AM](https://archive.org/download/sternde-2022/sternde-2022-10-09T09:29:45.430661+02:00.lighthouse.json) |
+| [October 8 at 9:05 PM](https://archive.org/download/sternde-2022/sternde-2022-10-08T21:05:40.313601+02:00.lighthouse.json) |
+| [October 8 at 9:10 AM](https://archive.org/download/sternde-2022/sternde-2022-10-08T09:10:34.268667+02:00.lighthouse.json) |
+| [October 7 at 10:23 PM](https://archive.org/download/sternde-2022/sternde-2022-10-07T22:22:58.026394+02:00.lighthouse.json) |
 | [October 7 at 9:53 AM](https://archive.org/download/sternde-2022/sternde-2022-10-07T09:53:25.250332+02:00.lighthouse.json) |
 | [October 6 at 10:29 PM](https://archive.org/download/sternde-2022/sternde-2022-10-06T22:28:51.212039+02:00.lighthouse.json) |
 | [October 6 at 9:19 AM](https://archive.org/download/sternde-2022/sternde-2022-10-06T09:19:21.158704+02:00.lighthouse.json) |
 | [October 5 at 10:49 PM](https://archive.org/download/sternde-2022/sternde-2022-10-05T22:49:01.180346+02:00.lighthouse.json) |
 | [October 5 at 9:29 AM](https://archive.org/download/sternde-2022/sternde-2022-10-05T09:29:09.423597+02:00.lighthouse.json) |
 | [October 4 at 10:06 PM](https://archive.org/download/sternde-2022/sternde-2022-10-04T22:05:58.568966+02:00.lighthouse.json) |
-| [October 4 at 9:51 AM](https://archive.org/download/sternde-2022/sternde-2022-10-04T09:50:50.385295+02:00.lighthouse.json) |
-| [October 3 at 9:10 PM](https://archive.org/download/sternde-2022/sternde-2022-10-03T21:10:00.671296+02:00.lighthouse.json) |
-| [October 3 at 9:27 AM](https://archive.org/download/sternde-2022/sternde-2022-10-03T09:27:08.262598+02:00.lighthouse.json) |
-| [October 2 at 9:36 PM](https://archive.org/download/sternde-2022/sternde-2022-10-02T21:36:31.985609+02:00.lighthouse.json) |
 
 
 

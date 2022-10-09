@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 213 screenshots with the Internet Archive.
+The archiving routine has saved 217 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/vancouversun-2022/vancouversun-2022-10-09T00:32:58.593913-07:00.jpg">
+  <img src="https://archive.org/download/vancouversun-2022/vancouversun-2022-10-09T00:32:58.593913-07:00.jpg"
+     alt="Vancouver Sun at 2022-10-09 00:33:00-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vancouversun-2022/vancouversun-2022-10-09T00:32:58.593913-07:00.jpg">October 9 at 12:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vancouversun-2022/vancouversun-2022-10-08T12:10:53.914174-07:00.jpg">
+  <img src="https://archive.org/download/vancouversun-2022/vancouversun-2022-10-08T12:10:53.914174-07:00.jpg"
+     alt="Vancouver Sun at 2022-10-08 12:10:55-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vancouversun-2022/vancouversun-2022-10-08T12:10:53.914174-07:00.jpg">October 8 at 12:10 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vancouversun-2022/vancouversun-2022-10-08T00:13:37.523611-07:00.jpg">
+  <img src="https://archive.org/download/vancouversun-2022/vancouversun-2022-10-08T00:13:37.523611-07:00.jpg"
+     alt="Vancouver Sun at 2022-10-08 00:13:41-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vancouversun-2022/vancouversun-2022-10-08T00:13:37.523611-07:00.jpg">October 8 at 12:13 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vancouversun-2022/vancouversun-2022-10-07T13:27:42.670986-07:00.jpg">
+  <img src="https://archive.org/download/vancouversun-2022/vancouversun-2022-10-07T13:27:42.670986-07:00.jpg"
+     alt="Vancouver Sun at 2022-10-07 13:27:45-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vancouversun-2022/vancouversun-2022-10-07T13:27:42.670986-07:00.jpg">October 7 at 1:27 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/vancouversun-2022/vancouversun-2022-10-07T00:55:58.853587-07:00.jpg">
   <img src="https://archive.org/download/vancouversun-2022/vancouversun-2022-10-07T00:55:58.853587-07:00.jpg"
      alt="Vancouver Sun at 2022-10-07 00:56:00-07:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/vancouversun-2022/vancouversun-2022-10-03T12:15:02.344711-07:00.jpg">October 3 at 12:15 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/vancouversun-2022/vancouversun-2022-10-03T00:31:39.686910-07:00.jpg">
-  <img src="https://archive.org/download/vancouversun-2022/vancouversun-2022-10-03T00:31:39.686910-07:00.jpg"
-     alt="Vancouver Sun at 2022-10-03 00:31:41-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vancouversun-2022/vancouversun-2022-10-03T00:31:39.686910-07:00.jpg">October 3 at 12:31 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/vancouversun-2022/vancouversun-2022-10-02T12:39:38.536228-07:00.jpg">
-  <img src="https://archive.org/download/vancouversun-2022/vancouversun-2022-10-02T12:39:38.536228-07:00.jpg"
-     alt="Vancouver Sun at 2022-10-02 12:39:39-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vancouversun-2022/vancouversun-2022-10-02T12:39:38.536228-07:00.jpg">October 2 at 12:39 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/vancouversun-2022/vancouversun-2022-10-02T00:17:02.668648-07:00.jpg">
-  <img src="https://archive.org/download/vancouversun-2022/vancouversun-2022-10-02T00:17:02.668648-07:00.jpg"
-     alt="Vancouver Sun at 2022-10-02 00:17:03-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vancouversun-2022/vancouversun-2022-10-02T00:17:02.668648-07:00.jpg">October 2 at 12:17 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/vancouversun-2022/vancouversun-2022-10-01T12:41:30.758701-07:00.jpg">
-  <img src="https://archive.org/download/vancouversun-2022/vancouversun-2022-10-01T12:41:30.758701-07:00.jpg"
-     alt="Vancouver Sun at 2022-10-01 12:41:37-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vancouversun-2022/vancouversun-2022-10-01T12:41:30.758701-07:00.jpg">October 1 at 12:41 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 213 hyperlink lists with the Internet Archive.
+The archiving routine has saved 217 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 9 at 12:33 AM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-09T00:32:58.593913-07:00.hyperlinks.json) |
+| [October 8 at 12:10 PM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-08T12:10:53.914174-07:00.hyperlinks.json) |
+| [October 8 at 12:13 AM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-08T00:13:37.523611-07:00.hyperlinks.json) |
+| [October 7 at 1:27 PM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-07T13:27:42.670986-07:00.hyperlinks.json) |
 | [October 7 at 12:56 AM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-07T00:55:58.853587-07:00.hyperlinks.json) |
 | [October 6 at 1:32 PM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-06T13:32:34.446085-07:00.hyperlinks.json) |
 | [October 6 at 12:24 AM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-06T00:24:01.617635-07:00.hyperlinks.json) |
 | [October 5 at 1:51 PM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-05T13:51:26.140987-07:00.hyperlinks.json) |
 | [October 5 at 12:32 AM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-05T00:32:17.343721-07:00.hyperlinks.json) |
 | [October 4 at 1:10 PM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-04T13:10:00.717281-07:00.hyperlinks.json) |
-| [October 4 at 12:55 AM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-04T00:55:16.574876-07:00.hyperlinks.json) |
-| [October 3 at 12:15 PM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-03T12:15:02.344711-07:00.hyperlinks.json) |
-| [October 3 at 12:31 AM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-03T00:31:39.686910-07:00.hyperlinks.json) |
-| [October 2 at 12:39 PM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-02T12:39:38.536228-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 214 accessibility trees with the Internet Archive.
+The archiving routine has saved 218 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 9 at 12:33 AM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-09T00:32:58.593913-07:00.accessibility.json) |
+| [October 8 at 12:10 PM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-08T12:10:53.914174-07:00.accessibility.json) |
+| [October 8 at 12:13 AM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-08T00:13:37.523611-07:00.accessibility.json) |
+| [October 7 at 1:27 PM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-07T13:27:42.670986-07:00.accessibility.json) |
 | [October 7 at 12:56 AM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-07T00:55:58.853587-07:00.accessibility.json) |
 | [October 6 at 1:32 PM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-06T13:32:34.446085-07:00.accessibility.json) |
 | [October 6 at 12:24 AM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-06T00:24:01.617635-07:00.accessibility.json) |
 | [October 5 at 1:51 PM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-05T13:51:26.140987-07:00.accessibility.json) |
 | [October 5 at 12:32 AM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-05T00:32:17.343721-07:00.accessibility.json) |
 | [October 4 at 1:10 PM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-04T13:10:00.717281-07:00.accessibility.json) |
-| [October 4 at 12:55 AM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-04T00:55:16.574876-07:00.accessibility.json) |
-| [October 3 at 12:15 PM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-03T12:15:02.344711-07:00.accessibility.json) |
-| [October 3 at 12:31 AM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-03T00:31:39.686910-07:00.accessibility.json) |
-| [October 2 at 12:39 PM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-02T12:39:38.536228-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 150 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 154 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 9 at 12:33 AM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-09T00:32:58.593913-07:00.lighthouse.json) |
+| [October 8 at 12:11 PM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-08T12:10:53.914174-07:00.lighthouse.json) |
+| [October 8 at 12:13 AM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-08T00:13:37.523611-07:00.lighthouse.json) |
+| [October 7 at 1:27 PM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-07T13:27:42.670986-07:00.lighthouse.json) |
 | [October 7 at 12:56 AM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-07T00:55:58.853587-07:00.lighthouse.json) |
 | [October 6 at 1:32 PM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-06T13:32:34.446085-07:00.lighthouse.json) |
 | [October 6 at 12:24 AM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-06T00:24:01.617635-07:00.lighthouse.json) |
 | [October 5 at 1:51 PM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-05T13:51:26.140987-07:00.lighthouse.json) |
 | [October 5 at 12:32 AM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-05T00:32:17.343721-07:00.lighthouse.json) |
 | [October 4 at 1:10 PM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-04T13:10:00.717281-07:00.lighthouse.json) |
-| [October 4 at 12:55 AM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-04T00:55:16.574876-07:00.lighthouse.json) |
-| [October 3 at 12:15 PM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-03T12:15:02.344711-07:00.lighthouse.json) |
-| [October 3 at 12:31 AM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-03T00:31:39.686910-07:00.lighthouse.json) |
-| [October 2 at 12:39 PM](https://archive.org/download/vancouversun-2022/vancouversun-2022-10-02T12:39:38.536228-07:00.lighthouse.json) |
 
 
 

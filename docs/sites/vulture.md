@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 129 screenshots with the Internet Archive.
+The archiving routine has saved 133 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/vulture-2022/vulture-2022-10-09T03:33:35.410555-04:00.jpg">
+  <img src="https://archive.org/download/vulture-2022/vulture-2022-10-09T03:33:35.410555-04:00.jpg"
+     alt="Vulture at 2022-10-09 03:33:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vulture-2022/vulture-2022-10-09T03:33:35.410555-04:00.jpg">October 9 at 3:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vulture-2022/vulture-2022-10-08T15:10:24.171309-04:00.jpg">
+  <img src="https://archive.org/download/vulture-2022/vulture-2022-10-08T15:10:24.171309-04:00.jpg"
+     alt="Vulture at 2022-10-08 15:10:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vulture-2022/vulture-2022-10-08T15:10:24.171309-04:00.jpg">October 8 at 3:10 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vulture-2022/vulture-2022-10-08T03:15:21.952392-04:00.jpg">
+  <img src="https://archive.org/download/vulture-2022/vulture-2022-10-08T03:15:21.952392-04:00.jpg"
+     alt="Vulture at 2022-10-08 03:15:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vulture-2022/vulture-2022-10-08T03:15:21.952392-04:00.jpg">October 8 at 3:15 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vulture-2022/vulture-2022-10-07T16:27:02.067695-04:00.jpg">
+  <img src="https://archive.org/download/vulture-2022/vulture-2022-10-07T16:27:02.067695-04:00.jpg"
+     alt="Vulture at 2022-10-07 16:27:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vulture-2022/vulture-2022-10-07T16:27:02.067695-04:00.jpg">October 7 at 4:27 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/vulture-2022/vulture-2022-10-07T03:56:00.034403-04:00.jpg">
   <img src="https://archive.org/download/vulture-2022/vulture-2022-10-07T03:56:00.034403-04:00.jpg"
      alt="Vulture at 2022-10-07 03:56:01-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/vulture-2022/vulture-2022-10-03T15:15:08.023612-04:00.jpg">October 3 at 3:15 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/vulture-2022/vulture-2022-10-03T03:34:01.554050-04:00.jpg">
-  <img src="https://archive.org/download/vulture-2022/vulture-2022-10-03T03:34:01.554050-04:00.jpg"
-     alt="Vulture at 2022-10-03 03:34:03-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vulture-2022/vulture-2022-10-03T03:34:01.554050-04:00.jpg">October 3 at 3:34 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/vulture-2022/vulture-2022-10-02T15:42:00.888663-04:00.jpg">
-  <img src="https://archive.org/download/vulture-2022/vulture-2022-10-02T15:42:00.888663-04:00.jpg"
-     alt="Vulture at 2022-10-02 15:42:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vulture-2022/vulture-2022-10-02T15:42:00.888663-04:00.jpg">October 2 at 3:42 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/vulture-2022/vulture-2022-10-02T03:18:47.671662-04:00.jpg">
-  <img src="https://archive.org/download/vulture-2022/vulture-2022-10-02T03:18:47.671662-04:00.jpg"
-     alt="Vulture at 2022-10-02 03:18:48-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vulture-2022/vulture-2022-10-02T03:18:47.671662-04:00.jpg">October 2 at 3:18 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/vulture-2022/vulture-2022-10-01T15:41:21.587946-04:00.jpg">
-  <img src="https://archive.org/download/vulture-2022/vulture-2022-10-01T15:41:21.587946-04:00.jpg"
-     alt="Vulture at 2022-10-01 15:41:26-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vulture-2022/vulture-2022-10-01T15:41:21.587946-04:00.jpg">October 1 at 3:41 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 130 hyperlink lists with the Internet Archive.
+The archiving routine has saved 134 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 9 at 3:33 AM](https://archive.org/download/vulture-2022/vulture-2022-10-09T03:33:35.410555-04:00.hyperlinks.json) |
+| [October 8 at 3:10 PM](https://archive.org/download/vulture-2022/vulture-2022-10-08T15:10:24.171309-04:00.hyperlinks.json) |
+| [October 8 at 3:15 AM](https://archive.org/download/vulture-2022/vulture-2022-10-08T03:15:21.952392-04:00.hyperlinks.json) |
+| [October 7 at 4:27 PM](https://archive.org/download/vulture-2022/vulture-2022-10-07T16:27:02.067695-04:00.hyperlinks.json) |
 | [October 7 at 3:56 AM](https://archive.org/download/vulture-2022/vulture-2022-10-07T03:56:00.034403-04:00.hyperlinks.json) |
 | [October 6 at 4:33 PM](https://archive.org/download/vulture-2022/vulture-2022-10-06T16:33:31.520853-04:00.hyperlinks.json) |
 | [October 6 at 3:23 AM](https://archive.org/download/vulture-2022/vulture-2022-10-06T03:23:29.818466-04:00.hyperlinks.json) |
 | [October 5 at 4:54 PM](https://archive.org/download/vulture-2022/vulture-2022-10-05T16:54:16.841025-04:00.hyperlinks.json) |
 | [October 5 at 3:32 AM](https://archive.org/download/vulture-2022/vulture-2022-10-05T03:32:17.339997-04:00.hyperlinks.json) |
 | [October 4 at 4:10 PM](https://archive.org/download/vulture-2022/vulture-2022-10-04T16:10:03.802543-04:00.hyperlinks.json) |
-| [October 4 at 3:55 AM](https://archive.org/download/vulture-2022/vulture-2022-10-04T03:55:49.016150-04:00.hyperlinks.json) |
-| [October 3 at 3:15 PM](https://archive.org/download/vulture-2022/vulture-2022-10-03T15:15:08.023612-04:00.hyperlinks.json) |
-| [October 3 at 3:34 AM](https://archive.org/download/vulture-2022/vulture-2022-10-03T03:34:01.554050-04:00.hyperlinks.json) |
-| [October 2 at 3:42 PM](https://archive.org/download/vulture-2022/vulture-2022-10-02T15:42:00.888663-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 130 accessibility trees with the Internet Archive.
+The archiving routine has saved 134 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 9 at 3:33 AM](https://archive.org/download/vulture-2022/vulture-2022-10-09T03:33:35.410555-04:00.accessibility.json) |
+| [October 8 at 3:10 PM](https://archive.org/download/vulture-2022/vulture-2022-10-08T15:10:24.171309-04:00.accessibility.json) |
+| [October 8 at 3:15 AM](https://archive.org/download/vulture-2022/vulture-2022-10-08T03:15:21.952392-04:00.accessibility.json) |
+| [October 7 at 4:27 PM](https://archive.org/download/vulture-2022/vulture-2022-10-07T16:27:02.067695-04:00.accessibility.json) |
 | [October 7 at 3:56 AM](https://archive.org/download/vulture-2022/vulture-2022-10-07T03:56:00.034403-04:00.accessibility.json) |
 | [October 6 at 4:33 PM](https://archive.org/download/vulture-2022/vulture-2022-10-06T16:33:31.520853-04:00.accessibility.json) |
 | [October 6 at 3:23 AM](https://archive.org/download/vulture-2022/vulture-2022-10-06T03:23:29.818466-04:00.accessibility.json) |
 | [October 5 at 4:54 PM](https://archive.org/download/vulture-2022/vulture-2022-10-05T16:54:16.841025-04:00.accessibility.json) |
 | [October 5 at 3:32 AM](https://archive.org/download/vulture-2022/vulture-2022-10-05T03:32:17.339997-04:00.accessibility.json) |
 | [October 4 at 4:10 PM](https://archive.org/download/vulture-2022/vulture-2022-10-04T16:10:03.802543-04:00.accessibility.json) |
-| [October 4 at 3:55 AM](https://archive.org/download/vulture-2022/vulture-2022-10-04T03:55:49.016150-04:00.accessibility.json) |
-| [October 3 at 3:15 PM](https://archive.org/download/vulture-2022/vulture-2022-10-03T15:15:08.023612-04:00.accessibility.json) |
-| [October 3 at 3:34 AM](https://archive.org/download/vulture-2022/vulture-2022-10-03T03:34:01.554050-04:00.accessibility.json) |
-| [October 2 at 3:42 PM](https://archive.org/download/vulture-2022/vulture-2022-10-02T15:42:00.888663-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 130 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 9 at 3:33 AM](https://archive.org/download/vulture-2022/vulture-2022-10-09T03:33:35.410555-04:00.lighthouse.json) |
+| [October 8 at 3:10 PM](https://archive.org/download/vulture-2022/vulture-2022-10-08T15:10:24.171309-04:00.lighthouse.json) |
+| [October 8 at 3:15 AM](https://archive.org/download/vulture-2022/vulture-2022-10-08T03:15:21.952392-04:00.lighthouse.json) |
+| [October 7 at 4:27 PM](https://archive.org/download/vulture-2022/vulture-2022-10-07T16:27:02.067695-04:00.lighthouse.json) |
 | [October 7 at 3:56 AM](https://archive.org/download/vulture-2022/vulture-2022-10-07T03:56:00.034403-04:00.lighthouse.json) |
 | [October 6 at 4:33 PM](https://archive.org/download/vulture-2022/vulture-2022-10-06T16:33:31.520853-04:00.lighthouse.json) |
 | [October 6 at 3:23 AM](https://archive.org/download/vulture-2022/vulture-2022-10-06T03:23:29.818466-04:00.lighthouse.json) |
 | [October 5 at 4:54 PM](https://archive.org/download/vulture-2022/vulture-2022-10-05T16:54:16.841025-04:00.lighthouse.json) |
 | [October 5 at 3:32 AM](https://archive.org/download/vulture-2022/vulture-2022-10-05T03:32:17.339997-04:00.lighthouse.json) |
 | [October 4 at 4:10 PM](https://archive.org/download/vulture-2022/vulture-2022-10-04T16:10:03.802543-04:00.lighthouse.json) |
-| [October 4 at 3:55 AM](https://archive.org/download/vulture-2022/vulture-2022-10-04T03:55:49.016150-04:00.lighthouse.json) |
-| [October 3 at 3:15 PM](https://archive.org/download/vulture-2022/vulture-2022-10-03T15:15:08.023612-04:00.lighthouse.json) |
-| [October 3 at 3:34 AM](https://archive.org/download/vulture-2022/vulture-2022-10-03T03:34:01.554050-04:00.lighthouse.json) |
-| [October 2 at 3:42 PM](https://archive.org/download/vulture-2022/vulture-2022-10-02T15:42:00.888663-04:00.lighthouse.json) |
 
 
 
