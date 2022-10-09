@@ -1,5 +1,5 @@
 {
-  "created": 1665165774,
+  "created": 1665293164,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/25/items/lp_lapresse-2022",
@@ -11654,31 +11654,217 @@
       "sha1": "7601aa07265ddb0eb63ba447dff06074c55e0436"
     },
     {
+      "name": "lp_lapresse-2022-10-08T01:45:05.450948-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665207910",
+      "size": "90859",
+      "md5": "b1570b15b4397e233d1154d9dd683604",
+      "crc32": "2089afae",
+      "sha1": "ea940423f76ff18fbc6ec752205553e855a5c93f",
+      "format": "JSON"
+    },
+    {
+      "name": "lp_lapresse-2022-10-08T01:45:05.450948-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665207912",
+      "size": "154038",
+      "md5": "4be94d7adae5a590af6f1f9a9dc5dae6",
+      "crc32": "1dea9323",
+      "sha1": "9fa99ba41d278f5f3316fae9793c2304b6a78d23",
+      "format": "JSON"
+    },
+    {
+      "name": "lp_lapresse-2022-10-08T01:45:05.450948-04:00.jpg",
+      "source": "original",
+      "mtime": "1665207908",
+      "size": "314718",
+      "md5": "0022c8f24fcc19643376dc304a7c5874",
+      "crc32": "871740ad",
+      "sha1": "5d9e2231eed3766893feb6503405627673b03d99",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lp_lapresse-2022-10-08T01:45:05.450948-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665207917",
+      "size": "1468",
+      "md5": "542f96de8fa17f15e66383dca1e45bba",
+      "crc32": "aa22d3a5",
+      "sha1": "c90021618143ce132f3df41016aabd48af0ee69a",
+      "format": "JSON"
+    },
+    {
+      "name": "lp_lapresse-2022-10-08T01:45:05.450948-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665207919",
+      "size": "56028",
+      "md5": "7724ab3791199ae2224ff62148a30b97",
+      "crc32": "55c89f88",
+      "sha1": "19c1523b95bec3773696e997b11ea05695bf3e49",
+      "format": "JSON"
+    },
+    {
+      "name": "lp_lapresse-2022-10-08T01:45:05.450948-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lp_lapresse-2022-10-08T01:45:05.450948-04:00.jpg",
+      "mtime": "1665207988",
+      "size": "10139",
+      "md5": "c3493032ec7f6fb480667f31fef92b42",
+      "crc32": "323c10e1",
+      "sha1": "38c5c26c628e9582bb22ea433b3293647d50e640"
+    },
+    {
+      "name": "lp_lapresse-2022-10-08T13:39:25.211421-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665250777",
+      "size": "88048",
+      "md5": "fec7fe5453073dd113ec7742cbf07adc",
+      "crc32": "2fbcc90e",
+      "sha1": "43ddc2afd25a96367f5050a83ab1f330e346e82a",
+      "format": "JSON"
+    },
+    {
+      "name": "lp_lapresse-2022-10-08T13:39:25.211421-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665250779",
+      "size": "150036",
+      "md5": "2272bf23a0a9bad74cda48815d312c7b",
+      "crc32": "2a2c9c79",
+      "sha1": "ce0ee87c56cbcd5bb08bfaa5b5ac0dd35253af01",
+      "format": "JSON"
+    },
+    {
+      "name": "lp_lapresse-2022-10-08T13:39:25.211421-04:00.jpg",
+      "source": "original",
+      "mtime": "1665250776",
+      "size": "288624",
+      "md5": "86f2599917619522982ef9979bd9ff7d",
+      "crc32": "62e970fe",
+      "sha1": "180539f7d6f8d87f631a321f359490adb90d9442",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lp_lapresse-2022-10-08T13:39:25.211421-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665250781",
+      "size": "1468",
+      "md5": "14fc6fb21c0457041ac0493d8bdf7ea9",
+      "crc32": "1deb7490",
+      "sha1": "b8972e6157fd0bbd86c558853c396def311e118b",
+      "format": "JSON"
+    },
+    {
+      "name": "lp_lapresse-2022-10-08T13:39:25.211421-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665250783",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lp_lapresse-2022-10-08T13:39:25.211421-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lp_lapresse-2022-10-08T13:39:25.211421-04:00.jpg",
+      "mtime": "1665250848",
+      "size": "10356",
+      "md5": "8e69cc441312b10ee66b551369fbc63a",
+      "crc32": "57e508b1",
+      "sha1": "303bf88e80f73712fbd894d3e93e405ea79ef896"
+    },
+    {
+      "name": "lp_lapresse-2022-10-09T01:24:12.855641-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665293063",
+      "size": "87088",
+      "md5": "cc87e63510ef65cd38abbc87d2f168a6",
+      "crc32": "6d5fca6d",
+      "sha1": "d3af9386275b61367b5068c225d6c5b6e08de9da",
+      "format": "JSON"
+    },
+    {
+      "name": "lp_lapresse-2022-10-09T01:24:12.855641-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665293065",
+      "size": "149782",
+      "md5": "003ee16ee5b7196a82dc2ca11d4f80cc",
+      "crc32": "c7739be5",
+      "sha1": "639cdb17ce6b1ae79e3df2eaf8e8fe7ed23f81dc",
+      "format": "JSON"
+    },
+    {
+      "name": "lp_lapresse-2022-10-09T01:24:12.855641-04:00.jpg",
+      "source": "original",
+      "mtime": "1665293062",
+      "size": "235361",
+      "md5": "f3f7768f1c77a14a1ddda33e42774ffd",
+      "crc32": "e99293f1",
+      "sha1": "6c5e682298617991281f7a01cc1e15cec0771b1e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lp_lapresse-2022-10-09T01:24:12.855641-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665293067",
+      "size": "1468",
+      "md5": "cd8878aa68275ae1472d8ffdb322a340",
+      "crc32": "1c6b2309",
+      "sha1": "d381d34a86adbf9884f869e9cf26082abf385129",
+      "format": "JSON"
+    },
+    {
+      "name": "lp_lapresse-2022-10-09T01:24:12.855641-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665293068",
+      "size": "74586",
+      "md5": "edd2446ddafa6ad13387b372b8862565",
+      "crc32": "62f9e274",
+      "sha1": "94471114f6d06f07fdfb17eca61a62bb513d15c3",
+      "format": "JSON"
+    },
+    {
+      "name": "lp_lapresse-2022-10-09T01:24:12.855641-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lp_lapresse-2022-10-09T01:24:12.855641-04:00.jpg",
+      "mtime": "1665293138",
+      "size": "9899",
+      "md5": "c43b1de0867054623bb90b9c1724a63f",
+      "crc32": "2ec24a22",
+      "sha1": "97803fa6cd3e3e8b346c2435e9318bc47a3f2ea8"
+    },
+    {
       "name": "lp_lapresse-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f40e941e0846ec4d53fd70631609ebfb602af8e1",
-      "mtime": "1665165759",
-      "size": "242532",
-      "md5": "15e7bd756326817add2521aa9b420431",
-      "crc32": "e32508cf",
-      "sha1": "557c3de3cd5f5ed00014b424a9e72486bcb6fd31",
+      "btih": "18b6f5f75e8b122628cb643cc28e925fd698bb1c",
+      "mtime": "1665293152",
+      "size": "246390",
+      "md5": "6bb291ba850b65f95b0973ef87437d27",
+      "crc32": "5078f713",
+      "sha1": "7034c1aad47a4797527d4a83c268752cacc98dd6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lp_lapresse-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fdf071dc4a14493f4a350ae19bd54093",
+      "md5": "b8a6394c0956a0ecc882598788ea0470",
       "summation": "md5"
     },
     {
       "name": "lp_lapresse-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665165657",
-      "size": "1404928",
-      "md5": "c42f345d7875413e9145f66a4f020955",
-      "crc32": "18496feb",
-      "sha1": "f578f88db4c33288c9cfe84b4380334ff1972629",
+      "mtime": "1665293074",
+      "size": "1429504",
+      "md5": "41bae838f300df73f52e235dfc54f927",
+      "crc32": "744a9be8",
+      "sha1": "53da3f972990080c9d111da5edd312dbf866d065",
       "format": "Metadata"
     },
     {
@@ -11692,9 +11878,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1126,
-  "item_last_updated": 1665165759,
-  "item_size": 115756959,
+  "files_count": 1144,
+  "item_last_updated": 1665293152,
+  "item_size": 117509561,
   "metadata": {
     "identifier": "lp_lapresse-2022",
     "collection": [
@@ -11711,10 +11897,10 @@
     "publicdate": "2022-06-30 22:35:44",
     "addeddate": "2022-06-30 22:35:44"
   },
-  "server": "ia802500.us.archive.org",
-  "uniq": 1007184508,
+  "server": "ia902500.us.archive.org",
+  "uniq": 1340268451,
   "workable_servers": [
-    "ia802500.us.archive.org",
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

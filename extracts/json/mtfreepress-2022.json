@@ -1,5 +1,5 @@
 {
-  "created": 1665170537,
+  "created": 1665293238,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/21/items/mtfreepress-2022",
@@ -10264,31 +10264,217 @@
       "sha1": "1bde4896c6bfbd4e611d647a0071ea11707ba120"
     },
     {
+      "name": "mtfreepress-2022-10-08T00:45:27.816795-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665207931",
+      "size": "19500",
+      "md5": "7ee6f6b50bb311a4daf64499078ebf62",
+      "crc32": "1360f8b1",
+      "sha1": "b01c8231e6458a181072ef6b928475a24567e3d9",
+      "format": "JSON"
+    },
+    {
+      "name": "mtfreepress-2022-10-08T00:45:27.816795-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665207933",
+      "size": "20262",
+      "md5": "85e96b54cc0fd235fbc5313ef4796869",
+      "crc32": "80d3ced1",
+      "sha1": "fd1e7e7560d05342e20ec058a6c3d6137c33a400",
+      "format": "JSON"
+    },
+    {
+      "name": "mtfreepress-2022-10-08T00:45:27.816795-05:00.jpg",
+      "source": "original",
+      "mtime": "1665207929",
+      "size": "331924",
+      "md5": "37c581b77c18ae681af39be0b9c7e43f",
+      "crc32": "37299541",
+      "sha1": "9becc28f97f0277224096d736608cdc8b6f73496",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtfreepress-2022-10-08T00:45:27.816795-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665207935",
+      "size": "1513",
+      "md5": "c561f5addef13bed22fc9dfeb4321eba",
+      "crc32": "0827bc43",
+      "sha1": "b48e088e23ebcb3d8180b770cdab6d0b3ed71402",
+      "format": "JSON"
+    },
+    {
+      "name": "mtfreepress-2022-10-08T00:45:27.816795-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665207937",
+      "size": "21358",
+      "md5": "3c1422e6191080db28409593cdc24a31",
+      "crc32": "80b15dd3",
+      "sha1": "0d8ec2f66e28322ad577be622036605a53d93cf4",
+      "format": "JSON"
+    },
+    {
+      "name": "mtfreepress-2022-10-08T00:45:27.816795-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtfreepress-2022-10-08T00:45:27.816795-05:00.jpg",
+      "mtime": "1665208006",
+      "size": "9911",
+      "md5": "2b219e259233a11cec09cf8923a2ad71",
+      "crc32": "81ef6413",
+      "sha1": "d5bb18d264f5fe4ca1a497057cb2be2178c1e78d"
+    },
+    {
+      "name": "mtfreepress-2022-10-08T12:41:41.069454-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665250904",
+      "size": "19500",
+      "md5": "7ee6f6b50bb311a4daf64499078ebf62",
+      "crc32": "1360f8b1",
+      "sha1": "b01c8231e6458a181072ef6b928475a24567e3d9",
+      "format": "JSON"
+    },
+    {
+      "name": "mtfreepress-2022-10-08T12:41:41.069454-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665250906",
+      "size": "20262",
+      "md5": "85e96b54cc0fd235fbc5313ef4796869",
+      "crc32": "80d3ced1",
+      "sha1": "fd1e7e7560d05342e20ec058a6c3d6137c33a400",
+      "format": "JSON"
+    },
+    {
+      "name": "mtfreepress-2022-10-08T12:41:41.069454-05:00.jpg",
+      "source": "original",
+      "mtime": "1665250902",
+      "size": "331924",
+      "md5": "37c581b77c18ae681af39be0b9c7e43f",
+      "crc32": "37299541",
+      "sha1": "9becc28f97f0277224096d736608cdc8b6f73496",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtfreepress-2022-10-08T12:41:41.069454-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665250908",
+      "size": "1504",
+      "md5": "c7b23e7982304be5e9ffa8d6df66cc07",
+      "crc32": "f03e0d8f",
+      "sha1": "54b9be1c6a4720a85e987990bfb0f910efcc9fe2",
+      "format": "JSON"
+    },
+    {
+      "name": "mtfreepress-2022-10-08T12:41:41.069454-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665250910",
+      "size": "21469",
+      "md5": "4977ce3826500301215bc04f9a35e74e",
+      "crc32": "66a41016",
+      "sha1": "1885031437154000ef5a3af527414b07d7245ec2",
+      "format": "JSON"
+    },
+    {
+      "name": "mtfreepress-2022-10-08T12:41:41.069454-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtfreepress-2022-10-08T12:41:41.069454-05:00.jpg",
+      "mtime": "1665250981",
+      "size": "9911",
+      "md5": "2b219e259233a11cec09cf8923a2ad71",
+      "crc32": "81ef6413",
+      "sha1": "d5bb18d264f5fe4ca1a497057cb2be2178c1e78d"
+    },
+    {
+      "name": "mtfreepress-2022-10-09T00:25:45.268253-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665293147",
+      "size": "19500",
+      "md5": "7ee6f6b50bb311a4daf64499078ebf62",
+      "crc32": "1360f8b1",
+      "sha1": "b01c8231e6458a181072ef6b928475a24567e3d9",
+      "format": "JSON"
+    },
+    {
+      "name": "mtfreepress-2022-10-09T00:25:45.268253-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665293149",
+      "size": "20262",
+      "md5": "85e96b54cc0fd235fbc5313ef4796869",
+      "crc32": "80d3ced1",
+      "sha1": "fd1e7e7560d05342e20ec058a6c3d6137c33a400",
+      "format": "JSON"
+    },
+    {
+      "name": "mtfreepress-2022-10-09T00:25:45.268253-05:00.jpg",
+      "source": "original",
+      "mtime": "1665293146",
+      "size": "331924",
+      "md5": "37c581b77c18ae681af39be0b9c7e43f",
+      "crc32": "37299541",
+      "sha1": "9becc28f97f0277224096d736608cdc8b6f73496",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtfreepress-2022-10-09T00:25:45.268253-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665293150",
+      "size": "1513",
+      "md5": "72e0191ff2f21840d211585c8e03b454",
+      "crc32": "c9c1435f",
+      "sha1": "c79b922bcb78c21aec0cecc726915a5c0b203dfe",
+      "format": "JSON"
+    },
+    {
+      "name": "mtfreepress-2022-10-09T00:25:45.268253-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665293152",
+      "size": "209",
+      "md5": "fe8f53fdcc2cde16cc3615271d82a470",
+      "crc32": "5e5d390c",
+      "sha1": "92b5983fd38d61633e285fe05a13b682acceed65",
+      "format": "JSON"
+    },
+    {
+      "name": "mtfreepress-2022-10-09T00:25:45.268253-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtfreepress-2022-10-09T00:25:45.268253-05:00.jpg",
+      "mtime": "1665293219",
+      "size": "9911",
+      "md5": "2b219e259233a11cec09cf8923a2ad71",
+      "crc32": "81ef6413",
+      "sha1": "d5bb18d264f5fe4ca1a497057cb2be2178c1e78d"
+    },
+    {
       "name": "mtfreepress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "23193cdcb3187f2c12fa160f3c9aad3a5cbb5784",
-      "mtime": "1665166069",
-      "size": "212488",
-      "md5": "448c098d72af6209f2546df1e3b54a07",
-      "crc32": "3a4fd2bc",
-      "sha1": "5754985ea3af6774ed5088fe9720a0224c77cc27",
+      "btih": "24193be441253cc0c9dd0b3527aa06d27e65765b",
+      "mtime": "1665293228",
+      "size": "216341",
+      "md5": "b54d1f8d0c44422ff209d80da26138dc",
+      "crc32": "f7d4dc78",
+      "sha1": "76901098aaccc38c0990964a067b218b0601558c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mtfreepress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2d9e3a3068360dbec88ba9c157818c7d",
+      "md5": "b45d4a47cb2f95b7b7308d446d16053d",
       "summation": "md5"
     },
     {
       "name": "mtfreepress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665165836",
-      "size": "1257472",
-      "md5": "41e6288263504f59653d51c1f3d3de01",
-      "crc32": "c4dbb89c",
-      "sha1": "54390db24b7f9688c81fdc10ca1d4cdcdbbb052c",
+      "mtime": "1665293157",
+      "size": "1277952",
+      "md5": "88c646b5965a85d1c016782c91245a46",
+      "crc32": "c391f5ba",
+      "sha1": "e688f9710e75f4960cc71b0573e89c2995a72a5b",
       "format": "Metadata"
     },
     {
@@ -10302,9 +10488,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 994,
-  "item_last_updated": 1665166069,
-  "item_size": 64573765,
+  "files_count": 1012,
+  "item_last_updated": 1665293228,
+  "item_size": 65790455,
   "metadata": {
     "identifier": "mtfreepress-2022",
     "collection": [
@@ -10321,10 +10507,10 @@
     "publicdate": "2022-07-09 04:03:32",
     "addeddate": "2022-07-09 04:03:32"
   },
-  "server": "ia601507.us.archive.org",
-  "uniq": 1921926316,
+  "server": "ia801507.us.archive.org",
+  "uniq": 854711186,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
+    "ia801507.us.archive.org",
+    "ia601507.us.archive.org"
   ]
 }
