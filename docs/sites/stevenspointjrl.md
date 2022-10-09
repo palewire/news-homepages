@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 336 screenshots with the Internet Archive.
+The archiving routine has saved 337 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 336 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-08T22:41:08.927775-05:00.jpg">
+  <img src="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-08T22:41:08.927775-05:00.jpg"
+     alt="Stevens Point Journal at 2022-10-08 22:41:10-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-08T22:41:08.927775-05:00.jpg">October 8 at 10:41 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-08T10:05:28.633025-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-03T10:07:49.702338-05:00.jpg">October 3 at 10:07 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-02T22:36:06.721117-05:00.jpg">
-  <img src="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-02T22:36:06.721117-05:00.jpg"
-     alt="Stevens Point Journal at 2022-10-02 22:36:08-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-02T22:36:06.721117-05:00.jpg">October 2 at 10:36 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 328 hyperlink lists with the Internet Archive.
+The archiving routine has saved 329 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 8 at 10:41 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-08T22:41:08.927775-05:00.hyperlinks.json) |
 | [October 8 at 10:05 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-08T10:05:28.633025-05:00.hyperlinks.json) |
 | [October 7 at 10:38 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-07T22:38:11.715106-05:00.hyperlinks.json) |
 | [October 7 at 10:09 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-07T10:09:02.026522-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 5 at 10:24 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-05T10:24:22.512303-05:00.hyperlinks.json) |
 | [October 4 at 10:30 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-04T22:29:48.374702-05:00.hyperlinks.json) |
 | [October 4 at 10:09 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-04T10:09:02.622191-05:00.hyperlinks.json) |
-| [October 3 at 10:40 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-03T22:40:48.218784-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 329 accessibility trees with the Internet Archive.
+The archiving routine has saved 330 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 8 at 10:41 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-08T22:41:08.927775-05:00.accessibility.json) |
 | [October 8 at 10:05 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-08T10:05:28.633025-05:00.accessibility.json) |
 | [October 7 at 10:38 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-07T22:38:11.715106-05:00.accessibility.json) |
 | [October 7 at 10:09 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-07T10:09:02.026522-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 5 at 10:24 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-05T10:24:22.512303-05:00.accessibility.json) |
 | [October 4 at 10:30 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-04T22:29:48.374702-05:00.accessibility.json) |
 | [October 4 at 10:09 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-04T10:09:02.622191-05:00.accessibility.json) |
-| [October 3 at 10:40 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-03T22:40:48.218784-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 154 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 155 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 8 at 10:41 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-08T22:41:08.927775-05:00.lighthouse.json) |
 | [October 8 at 10:05 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-08T10:05:28.633025-05:00.lighthouse.json) |
 | [October 7 at 10:38 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-07T22:38:11.715106-05:00.lighthouse.json) |
 | [October 7 at 10:09 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-07T10:09:02.026522-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 5 at 10:24 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-05T10:24:22.512303-05:00.lighthouse.json) |
 | [October 4 at 10:30 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-04T22:29:48.374702-05:00.lighthouse.json) |
 | [October 4 at 10:09 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-04T10:09:02.622191-05:00.lighthouse.json) |
-| [October 3 at 10:40 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-10-03T22:40:48.218784-05:00.lighthouse.json) |
 
 
 
