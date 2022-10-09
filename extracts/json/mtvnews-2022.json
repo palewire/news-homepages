@@ -1,5 +1,5 @@
 {
-  "created": 1665278582,
+  "created": 1665320947,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/15/items/mtvnews-2022",
@@ -9870,31 +9870,93 @@
       "sha1": "50ffbd42de069fafd735959973061bd8942a104b"
     },
     {
+      "name": "mtvnews-2022-10-09T09:07:31.111334-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665320860",
+      "size": "7268",
+      "md5": "f0cdc79121f5a438c4e8630abd700c40",
+      "crc32": "122ef467",
+      "sha1": "1cb40e0a2675a6f55f2ac2b3fae051c7e1ea5501",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-09T09:07:31.111334-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665320862",
+      "size": "9381",
+      "md5": "100895a38e2060571829b0e7ccd0e9a5",
+      "crc32": "1c6db745",
+      "sha1": "5cdac625d463d4ef32a9db2b85f6bda5e22d9232",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-09T09:07:31.111334-04:00.jpg",
+      "source": "original",
+      "mtime": "1665320859",
+      "size": "248556",
+      "md5": "6f8a0cee891a76de30c7581258b8e9b5",
+      "crc32": "7cd6cadf",
+      "sha1": "0a6ba35ba049479094941c467316421f16e64f3d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtvnews-2022-10-09T09:07:31.111334-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665320863",
+      "size": "1467",
+      "md5": "c037cae37fd17f0931d71ae4ad04233a",
+      "crc32": "43fa8aa5",
+      "sha1": "8175a70695f629ea312b06dc596ce3c9977f349d",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-09T09:07:31.111334-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665320865",
+      "size": "8510",
+      "md5": "05dc088b311dcb6c8826df524962e2f5",
+      "crc32": "d7d2ac1f",
+      "sha1": "80e71389212b547cb8653dc56b9f357de7228c7d",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-09T09:07:31.111334-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtvnews-2022-10-09T09:07:31.111334-04:00.jpg",
+      "mtime": "1665320926",
+      "size": "11047",
+      "md5": "904cd04ab68a254cb80c068b51e89170",
+      "crc32": "eb342d60",
+      "sha1": "50ffbd42de069fafd735959973061bd8942a104b"
+    },
+    {
       "name": "mtvnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c944facbca94009b21b7a8e2353ca1ce3907307d",
-      "mtime": "1665278569",
-      "size": "200218",
-      "md5": "fb2707acb11cce8d4de1acb4b78e0084",
-      "crc32": "0b60e5e4",
-      "sha1": "bfd4978832f1faff522cbb291e01169a91df9919",
+      "btih": "88d459961eb7630e626a5d4d58445354692d38e1",
+      "mtime": "1665320936",
+      "size": "201457",
+      "md5": "5347a33650d0bcae58c95b2ca15f4e14",
+      "crc32": "daa4b5ad",
+      "sha1": "db9839aed4e86b7dcab0d4eb74aeab53b1c291a9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mtvnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c4f80b3e8c42f4b78410ddc6e1a46072",
+      "md5": "1613d583705a009c33e0ed99ecfd94e3",
       "summation": "md5"
     },
     {
       "name": "mtvnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665278469",
-      "size": "1208320",
-      "md5": "597d2954fd78245009a3d661d67380e0",
-      "crc32": "d9e9afd2",
-      "sha1": "b4b3bd38df77a8a4423f9db1701bf9bd8068d961",
+      "mtime": "1665320870",
+      "size": "1216512",
+      "md5": "aa1cab9d41f13a61db76a93269344c77",
+      "crc32": "1b6d4597",
+      "sha1": "94e06d7d959b6e414f86ccfccf7fd39792fb7f12",
       "format": "Metadata"
     },
     {
@@ -9908,9 +9970,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 957,
-  "item_last_updated": 1665278569,
-  "item_size": 52840793,
+  "files_count": 963,
+  "item_last_updated": 1665320936,
+  "item_size": 53136453,
   "metadata": {
     "identifier": "mtvnews-2022",
     "collection": [
@@ -9928,7 +9990,7 @@
     "addeddate": "2022-07-18 03:27:44"
   },
   "server": "ia601408.us.archive.org",
-  "uniq": 693246973,
+  "uniq": 969227655,
   "workable_servers": [
     "ia601408.us.archive.org",
     "ia801408.us.archive.org"
