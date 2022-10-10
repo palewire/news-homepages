@@ -1,10 +1,5 @@
 {
-  "ajc-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1665425149,
+  "created": 1665433952,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/2/items/ajc-2022",
@@ -24583,31 +24578,93 @@
       "sha1": "791e8504f945131a4c55f7313894da635d09b4e4"
     },
     {
+      "name": "ajc-2022-10-10T16:28:29.649235-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665433713",
+      "size": "27190",
+      "md5": "e134bd6b34dc9b01391a34581452216b",
+      "crc32": "c11cabdb",
+      "sha1": "2e9522837077b1566f481810b4bd494b75a17896",
+      "format": "JSON"
+    },
+    {
+      "name": "ajc-2022-10-10T16:28:29.649235-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665433715",
+      "size": "45978",
+      "md5": "89eba93dbb80e7aa9cb46991f611123b",
+      "crc32": "b2f70dea",
+      "sha1": "a7d6078a1a2a334ba8ae7be5900f9f17d4b4888d",
+      "format": "JSON"
+    },
+    {
+      "name": "ajc-2022-10-10T16:28:29.649235-04:00.jpg",
+      "source": "original",
+      "mtime": "1665433712",
+      "size": "284338",
+      "md5": "8e02fe5118824962652307c95bba955c",
+      "crc32": "dd168dd2",
+      "sha1": "b034b7b38d9899b34779e8d53974f6723f4ec647",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ajc-2022-10-10T16:28:29.649235-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665433718",
+      "size": "1432",
+      "md5": "c99567aee35399271bce96103d5c700f",
+      "crc32": "e0974557",
+      "sha1": "e7653dec2046146eed26054ea9dcb33877c1e0d7",
+      "format": "JSON"
+    },
+    {
+      "name": "ajc-2022-10-10T16:28:29.649235-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665433719",
+      "size": "45238",
+      "md5": "02f8c5dedbf8735b3a6542fee86e80a4",
+      "crc32": "af65fed7",
+      "sha1": "03c6b619f149879407aff12248be2976783cbcdd",
+      "format": "JSON"
+    },
+    {
+      "name": "ajc-2022-10-10T16:28:29.649235-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ajc-2022-10-10T16:28:29.649235-04:00.jpg",
+      "mtime": "1665433871",
+      "size": "8732",
+      "md5": "1eee8893fe29c681376ec7cd443dc3eb",
+      "crc32": "e6d163db",
+      "sha1": "600bfc390f7113e8368c3a15ee4eee03007f2e58"
+    },
+    {
       "name": "ajc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c97c87dd1a0b1b7a61c22d136cedcded6353f31a",
-      "mtime": "1665419935",
-      "size": "489294",
-      "md5": "4a540b5967291ff8c127eecc8d26ca63",
-      "crc32": "3c4ce177",
-      "sha1": "cfc57475ef81c2b84d94c18ef87e080fe038606c",
+      "btih": "a27ddc86286b6a9a0ccc82d3fa95f7b26ad37f32",
+      "mtime": "1665433917",
+      "size": "490531",
+      "md5": "1b9ef7a6a419e1aa7de04a7add3fa5f6",
+      "crc32": "33822953",
+      "sha1": "f391f32887e5f7b862603b40f085c303b2068755",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ajc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0efc1a5b0bc40356fd1fe56666549b73",
+      "md5": "11798e2cdacc88b3e3d09d5d526e2729",
       "summation": "md5"
     },
     {
       "name": "ajc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665419707",
-      "size": "2973696",
-      "md5": "63c060c204cd7e702d0377378acd9102",
-      "crc32": "ffaafc60",
-      "sha1": "a731f3767f1447494045d34317d99f301ec84b74",
+      "mtime": "1665433728",
+      "size": "2977792",
+      "md5": "b785ef0d5004086951f08be3fe026c06",
+      "crc32": "a8b07ff5",
+      "sha1": "d111bd88ace1be39ee49a5fd04ac8fe9a700691b",
       "format": "Metadata"
     },
     {
@@ -24621,9 +24678,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2378,
-  "item_last_updated": 1665419935,
-  "item_size": 174896691,
+  "files_count": 2384,
+  "item_last_updated": 1665433917,
+  "item_size": 175314932,
   "metadata": {
     "identifier": "ajc-2022",
     "collection": [
@@ -24640,10 +24697,10 @@
     "publicdate": "2022-07-18 16:42:11",
     "addeddate": "2022-07-18 16:42:11"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 124888565,
+  "server": "ia601505.us.archive.org",
+  "uniq": 1531027974,
   "workable_servers": [
-    "ia801505.us.archive.org",
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }
