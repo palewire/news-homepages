@@ -1,5 +1,5 @@
 {
-  "created": 1665404405,
+  "created": 1665422661,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/26/items/chicago_reader-2022",
@@ -17962,31 +17962,93 @@
       "sha1": "71003f302ab4359c73ce7acc98fbd4fed5a09efa"
     },
     {
+      "name": "chicago_reader-2022-10-10T12:21:31.753792-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665422495",
+      "size": "30050",
+      "md5": "c70fe712ea8b110bb13c138f3f2bc4f3",
+      "crc32": "8c2b55da",
+      "sha1": "7729fd4115030ecf8d71b691ae3a72fc5b8f10dd",
+      "format": "JSON"
+    },
+    {
+      "name": "chicago_reader-2022-10-10T12:21:31.753792-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665422496",
+      "size": "45438",
+      "md5": "4645d41e11240036da243aef20b915f1",
+      "crc32": "a9055d5a",
+      "sha1": "70a70825dfcfe74fb1f2da0ab9c5505e8e11de04",
+      "format": "JSON"
+    },
+    {
+      "name": "chicago_reader-2022-10-10T12:21:31.753792-05:00.jpg",
+      "source": "original",
+      "mtime": "1665422493",
+      "size": "281815",
+      "md5": "df9d73b5153ae94e3b68d829d0985d3f",
+      "crc32": "19cd23fe",
+      "sha1": "aa9e0ec3e5e661df5e040a2ca4586ae04fd658ab",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chicago_reader-2022-10-10T12:21:31.753792-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665422498",
+      "size": "1486",
+      "md5": "60c0ed140b85c061ca726bfedb138746",
+      "crc32": "9f41fbfa",
+      "sha1": "5cb8cf84dfafe1b896ae63ec212f7eb681fc0d04",
+      "format": "JSON"
+    },
+    {
+      "name": "chicago_reader-2022-10-10T12:21:31.753792-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665422501",
+      "size": "32996",
+      "md5": "669a96aeede319a4283dbf7a4b782991",
+      "crc32": "65e46780",
+      "sha1": "6c16803e0e468d1ef25bc27378c83a2101b1e676",
+      "format": "JSON"
+    },
+    {
+      "name": "chicago_reader-2022-10-10T12:21:31.753792-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chicago_reader-2022-10-10T12:21:31.753792-05:00.jpg",
+      "mtime": "1665422589",
+      "size": "9988",
+      "md5": "6ec9f9600db1ffad56324c02ad729f26",
+      "crc32": "57b64208",
+      "sha1": "26576454830f5a23b3bcad81ebd8f5ba32092494"
+    },
+    {
       "name": "chicago_reader-2022_archive.torrent",
       "source": "metadata",
-      "btih": "95fecce16d77886ab0f1cdbcaa04f680b52842b9",
-      "mtime": "1665404394",
-      "size": "374899",
-      "md5": "fd7ac6765708c5e238412e4575308f2d",
-      "crc32": "335d4831",
-      "sha1": "6623ee656b371a7497ae9f5036ce318bdb5a7012",
+      "btih": "873f80578d30125e4600e768d53dcc118493be4b",
+      "mtime": "1665422646",
+      "size": "376202",
+      "md5": "407883e7e970e097ecfff29426d15f03",
+      "crc32": "e4e73a3f",
+      "sha1": "c77ff6794af20bd3a0072c3198eaccfbf0240dd7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chicago_reader-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dcb3cd923cb53f1ab7889adc554059db",
+      "md5": "3d77a8e11188ce1e5294b0e7f6c61f44",
       "summation": "md5"
     },
     {
       "name": "chicago_reader-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665404290",
-      "size": "2162688",
-      "md5": "cfc30b8a823510175307cedae3e8d5d3",
-      "crc32": "28c83fa9",
-      "sha1": "a751cc7611d272c865c4ab03af77de929e7e6435",
+      "mtime": "1665422507",
+      "size": "2170880",
+      "md5": "9d880d2f362d95e51d14cb6abc26a09e",
+      "crc32": "82ff97e7",
+      "sha1": "9baf7d54ea6512d9508456659be3e02bc27e2824",
       "format": "Metadata"
     },
     {
@@ -18000,9 +18062,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1734,
-  "item_last_updated": 1665404394,
-  "item_size": 101739524,
+  "files_count": 1740,
+  "item_last_updated": 1665422646,
+  "item_size": 102150792,
   "metadata": {
     "identifier": "chicago_reader-2022",
     "collection": [
@@ -18020,7 +18082,7 @@
     "addeddate": "2022-06-24 22:53:23"
   },
   "server": "ia801406.us.archive.org",
-  "uniq": 1477414806,
+  "uniq": 1505002988,
   "workable_servers": [
     "ia801406.us.archive.org",
     "ia601406.us.archive.org"
