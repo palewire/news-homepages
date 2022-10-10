@@ -1,5 +1,5 @@
 {
-  "created": 1665213264,
+  "created": 1665384092,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/32/items/freethinkmedia-2022",
@@ -9390,31 +9390,279 @@
       "sha1": "e612b3a123007e59f255dc13655391638598b8c2"
     },
     {
+      "name": "freethinkmedia-2022-10-08T10:54:59.847652-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665251705",
+      "size": "36333",
+      "md5": "6da9c6fd1ed5289f3e12d274f3bc3d09",
+      "crc32": "ce66f7b7",
+      "sha1": "bf922ba734b96a385a4ed50324e71bcfbbe79928",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-08T10:54:59.847652-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665251707",
+      "size": "29656",
+      "md5": "4ab4032bce959ed2412307c89d071ef1",
+      "crc32": "ae09303a",
+      "sha1": "d18393ae5e2ad30b24e57c68608f6575d5b8e6eb",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-08T10:54:59.847652-07:00.jpg",
+      "source": "original",
+      "mtime": "1665251703",
+      "size": "190616",
+      "md5": "04355313d5559f4147ecfb8091477568",
+      "crc32": "8ea45cb6",
+      "sha1": "cb4f7ff5dbd8126842db0780aa3b452740dc3bc2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "freethinkmedia-2022-10-08T10:54:59.847652-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665251708",
+      "size": "1481",
+      "md5": "5df2904ba27f6885fbd9b854e0182bba",
+      "crc32": "2d21f3cd",
+      "sha1": "50d3a908a556f4c9964a5ab7b0b194402538c010",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-08T10:54:59.847652-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665251710",
+      "size": "14974",
+      "md5": "b8031aa909a3772620bb5fea4d1dca65",
+      "crc32": "fe677641",
+      "sha1": "7f588bc2ed059b1dc3881b66fa96bf07de5deb9a",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-08T10:54:59.847652-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "freethinkmedia-2022-10-08T10:54:59.847652-07:00.jpg",
+      "mtime": "1665251843",
+      "size": "9073",
+      "md5": "9034bda85abf7a5ec010e36c68869a49",
+      "crc32": "3cf7c91f",
+      "sha1": "219074ca9de99584b5b2954cbe24da7f209e3b52"
+    },
+    {
+      "name": "freethinkmedia-2022-10-09T00:22:46.843297-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665300177",
+      "size": "36479",
+      "md5": "76bf823447f87c79efc4afe5fc47f7bb",
+      "crc32": "e8ddbdee",
+      "sha1": "3e50b43ca86b0b30c9a8f83c47fad7d89b125883",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-09T00:22:46.843297-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665300178",
+      "size": "29674",
+      "md5": "c2b51d3c8b9b50cee6d19d1e1eba8ca6",
+      "crc32": "4ef25154",
+      "sha1": "0bc63bcf3f223babfced03843a29f62cfa95e74f",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-09T00:22:46.843297-07:00.jpg",
+      "source": "original",
+      "mtime": "1665300174",
+      "size": "199901",
+      "md5": "80450a9b3b94a7a85c43482e4154b4d0",
+      "crc32": "de750830",
+      "sha1": "882453baf3bff0e625ba0bdbc557820478230a6e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "freethinkmedia-2022-10-09T00:22:46.843297-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665300180",
+      "size": "1483",
+      "md5": "e89763df64271c81ed3b77b4aaa5e519",
+      "crc32": "2921c061",
+      "sha1": "46f11e05b719bdaae679ede96f70fac8ee033922",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-09T00:22:46.843297-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665300182",
+      "size": "14711",
+      "md5": "27f36b7b12b9907ea989406aaef9ad2f",
+      "crc32": "ef8280fd",
+      "sha1": "25a1eac62d4896eaeeb2d5931100c2c2fcc12dfe",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-09T00:22:46.843297-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "freethinkmedia-2022-10-09T00:22:46.843297-07:00.jpg",
+      "mtime": "1665300236",
+      "size": "9094",
+      "md5": "8ed6ce81f43b313334e7b98f74500974",
+      "crc32": "8a448e73",
+      "sha1": "4ba5563701dd599a8ed4f622e3003e054c3da7d3"
+    },
+    {
+      "name": "freethinkmedia-2022-10-09T10:51:47.297155-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665337914",
+      "size": "36412",
+      "md5": "31e583f29a03b94abc413fd524a610a9",
+      "crc32": "b0b14fe0",
+      "sha1": "b28b9fc9d316a8b4199a850eb02670c978699e89",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-09T10:51:47.297155-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665337915",
+      "size": "29530",
+      "md5": "ba52d9761399aac7229437d47e7b5ece",
+      "crc32": "9163c37e",
+      "sha1": "b6b13b94bcaf059de4795832f42dd4422acfa1fb",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-09T10:51:47.297155-07:00.jpg",
+      "source": "original",
+      "mtime": "1665337912",
+      "size": "232212",
+      "md5": "3a5136b6530fea95ce3745c1cb4e8d36",
+      "crc32": "80819b89",
+      "sha1": "27a995fc2f762b1e6e92cf05e078a7827d17b186",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "freethinkmedia-2022-10-09T10:51:47.297155-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665337916",
+      "size": "1483",
+      "md5": "12d4ecbeed7958c21c254ca642a07296",
+      "crc32": "30719e8d",
+      "sha1": "3d77db7619a7be29795ccfd568c947507f460163",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-09T10:51:47.297155-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665337918",
+      "size": "14800",
+      "md5": "a66f7a9c42f2f35213bf2d20b4b73816",
+      "crc32": "c0b12b6c",
+      "sha1": "1ee79785e45d03c25710ef5a71f8ebd4e0eec0fd",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-09T10:51:47.297155-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "freethinkmedia-2022-10-09T10:51:47.297155-07:00.jpg",
+      "mtime": "1665337975",
+      "size": "9549",
+      "md5": "cec759d5b352150db06ac08270f261a1",
+      "crc32": "0aa7e8af",
+      "sha1": "729e98db3bfbc5cb5450dd62d8972ddc9fe76817"
+    },
+    {
+      "name": "freethinkmedia-2022-10-09T23:40:04.265992-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665384011",
+      "size": "36337",
+      "md5": "f7d6a3e5328d57e5ee6a0b2f7516f152",
+      "crc32": "96b5c532",
+      "sha1": "91f96f90a5e78a8444cb9b25ce0cf4d9b1f2f767",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-09T23:40:04.265992-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665384012",
+      "size": "29438",
+      "md5": "9ca70efddb3a3d79302abe7c75dd7c0b",
+      "crc32": "08a8ccc5",
+      "sha1": "6b4ee8315c57c8de5e590fa499727c36669fd15b",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-09T23:40:04.265992-07:00.jpg",
+      "source": "original",
+      "mtime": "1665384009",
+      "size": "226818",
+      "md5": "63b45e21c6242cbd33e7275cabf78657",
+      "crc32": "e3c70fb6",
+      "sha1": "f42c78759659b1d17f6dfb7c0c7bf01d14159d75",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "freethinkmedia-2022-10-09T23:40:04.265992-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665384014",
+      "size": "1483",
+      "md5": "24d8b458183a4d7fae9a920121fa8eaf",
+      "crc32": "02c8a777",
+      "sha1": "774a1bc2feb4bc08f1270279ab3675aceda30598",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-09T23:40:04.265992-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665384016",
+      "size": "14912",
+      "md5": "6b9fdef28e96a52be50a0696605ef945",
+      "crc32": "50df08de",
+      "sha1": "98bf16b82d86f2492a4bd86298f25c2d5146d986",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-09T23:40:04.265992-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "freethinkmedia-2022-10-09T23:40:04.265992-07:00.jpg",
+      "mtime": "1665384075",
+      "size": "9505",
+      "md5": "263453121eab668c351468cebb2ccddc",
+      "crc32": "30f7fb2d",
+      "sha1": "56cf5711aad8ec8fd7cf7805957db95ff00f6c6b"
+    },
+    {
       "name": "freethinkmedia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3aa101cc81b57f7ea0c74ad0c7a0a8cf7901c512",
-      "mtime": "1665208843",
-      "size": "197142",
-      "md5": "3aa3a7ff5dd057123df7410c50cceef9",
-      "crc32": "07983c7a",
-      "sha1": "7d360d08faa4d3a8c08c9f94491c0148bf0bf08f",
+      "btih": "31a24b295afb750dce1fd30d0bf1b548b863eefd",
+      "mtime": "1665384085",
+      "size": "202334",
+      "md5": "d898bdaf8d9a098aa937fba1f31595b9",
+      "crc32": "87a995b6",
+      "sha1": "572d68482b2b51ef80bdd2214869bb04fc0bcf97",
       "format": "Archive BitTorrent"
     },
     {
       "name": "freethinkmedia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "70b4f5e95be2d44ea9d1636641b17edf",
+      "md5": "047713e089b38f18963eeb95ef57979f",
       "summation": "md5"
     },
     {
       "name": "freethinkmedia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665208761",
-      "size": "1167360",
-      "md5": "ad1c776fe22ba13052a796521b91e061",
-      "crc32": "951953c8",
-      "sha1": "91f9a66023995c2443e56b0bef1a4fd252335529",
+      "mtime": "1665384019",
+      "size": "1200128",
+      "md5": "39fb19b422842394de36ccc72e5f447b",
+      "crc32": "9c8e10ef",
+      "sha1": "7aa49c9f2ff357c6ae3ae2091157c4a8f6116efb",
       "format": "Metadata"
     },
     {
@@ -9428,14 +9676,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 911,
-  "freethinkmedia-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "item_last_updated": 1665208843,
-  "item_size": 47210284,
+  "files_count": 935,
+  "item_last_updated": 1665384085,
+  "item_size": 48464198,
   "metadata": {
     "identifier": "freethinkmedia-2022",
     "collection": [
@@ -9453,7 +9696,7 @@
     "addeddate": "2022-07-21 02:24:31"
   },
   "server": "ia801401.us.archive.org",
-  "uniq": 2071524755,
+  "uniq": 725272761,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

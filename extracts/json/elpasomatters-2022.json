@@ -1,8 +1,13 @@
 {
-  "created": 1665208656,
+  "created": 1665390383,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/13/items/elpasomatters-2022",
+  "elpasomatters-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -5298,31 +5303,279 @@
       "sha1": "4113f9fc55cc9920c9df02d94576fd86fd4cc799"
     },
     {
+      "name": "elpasomatters-2022-10-08T11:48:40.453172-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665251331",
+      "size": "24441",
+      "md5": "b85eb1dc8194de7b77d1c9a30b124f39",
+      "crc32": "ddff6d03",
+      "sha1": "072dd45811fee67fc4e2cab387548a6b8a91d3d8",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasomatters-2022-10-08T11:48:40.453172-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665251333",
+      "size": "27329",
+      "md5": "2f84c9162675ea77fea38c13d3d6ae87",
+      "crc32": "bd0c1e87",
+      "sha1": "563fd68df08bcbce55737ec5cef3bed27ecada39",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasomatters-2022-10-08T11:48:40.453172-06:00.jpg",
+      "source": "original",
+      "mtime": "1665251330",
+      "size": "311894",
+      "md5": "1d117ffbe990f4cd02756bffb6bbc665",
+      "crc32": "f6b26d92",
+      "sha1": "63f2dc1aa50834a2e536ca49c75686553c20d553",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elpasomatters-2022-10-08T11:48:40.453172-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665251335",
+      "size": "1474",
+      "md5": "61380bb0fd047dc7e7434eb9f0621202",
+      "crc32": "714ac188",
+      "sha1": "233a7e205afccef5a5325193284ba68b0a9b8a1f",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasomatters-2022-10-08T11:48:40.453172-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1665251337",
+      "size": "18591",
+      "md5": "db908555b7322c094ad443f700abb0ef",
+      "crc32": "8841e8d0",
+      "sha1": "ee60fde14149d7d3dc081e96b2f9325987056aad",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasomatters-2022-10-08T11:48:40.453172-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elpasomatters-2022-10-08T11:48:40.453172-06:00.jpg",
+      "mtime": "1665251395",
+      "size": "10182",
+      "md5": "d2080aac10233647ed2da4df9adb1a7c",
+      "crc32": "77150a11",
+      "sha1": "4113f9fc55cc9920c9df02d94576fd86fd4cc799"
+    },
+    {
+      "name": "elpasomatters-2022-10-09T01:21:00.965588-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665300065",
+      "size": "24441",
+      "md5": "b85eb1dc8194de7b77d1c9a30b124f39",
+      "crc32": "ddff6d03",
+      "sha1": "072dd45811fee67fc4e2cab387548a6b8a91d3d8",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasomatters-2022-10-09T01:21:00.965588-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665300066",
+      "size": "27329",
+      "md5": "2f84c9162675ea77fea38c13d3d6ae87",
+      "crc32": "bd0c1e87",
+      "sha1": "563fd68df08bcbce55737ec5cef3bed27ecada39",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasomatters-2022-10-09T01:21:00.965588-06:00.jpg",
+      "source": "original",
+      "mtime": "1665300063",
+      "size": "311894",
+      "md5": "1d117ffbe990f4cd02756bffb6bbc665",
+      "crc32": "f6b26d92",
+      "sha1": "63f2dc1aa50834a2e536ca49c75686553c20d553",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elpasomatters-2022-10-09T01:21:00.965588-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665300068",
+      "size": "1474",
+      "md5": "84b385a84d248d33b88c35466c3f49be",
+      "crc32": "437cd561",
+      "sha1": "4f78b8a21d1c2ae6b0ca0e167013263e58741bea",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasomatters-2022-10-09T01:21:00.965588-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1665300069",
+      "size": "18741",
+      "md5": "c6aab49ed1b9fbb98efa7706cd01cd89",
+      "crc32": "560de45f",
+      "sha1": "52301a62c440139da4480e55b5a6a4658f2e6a78",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasomatters-2022-10-09T01:21:00.965588-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elpasomatters-2022-10-09T01:21:00.965588-06:00.jpg",
+      "mtime": "1665300120",
+      "size": "10182",
+      "md5": "d2080aac10233647ed2da4df9adb1a7c",
+      "crc32": "77150a11",
+      "sha1": "4113f9fc55cc9920c9df02d94576fd86fd4cc799"
+    },
+    {
+      "name": "elpasomatters-2022-10-09T11:46:28.101087-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665337592",
+      "size": "22744",
+      "md5": "f0b4342cd3ed8bb53e9a1c5648418340",
+      "crc32": "b266b5ba",
+      "sha1": "5f2cc5f59c91a10b281d09216bc9199e9dd1f4dc",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasomatters-2022-10-09T11:46:28.101087-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665337594",
+      "size": "27328",
+      "md5": "12dd08c6e979c5109b91a0842cf58f1f",
+      "crc32": "6c799aad",
+      "sha1": "d18acda2e11656df43dcfc9ec3938c7dcfc2b4eb",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasomatters-2022-10-09T11:46:28.101087-06:00.jpg",
+      "source": "original",
+      "mtime": "1665337590",
+      "size": "319889",
+      "md5": "d7141c282a39f493bfdc818b689e2318",
+      "crc32": "9d8fadbe",
+      "sha1": "e8c07cd0a74218cc0aa7f49740dd1264d8bcfd30",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elpasomatters-2022-10-09T11:46:28.101087-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665337595",
+      "size": "1474",
+      "md5": "872039cb6e93d24bedb3a5a78e8a3c97",
+      "crc32": "cf1f4d5a",
+      "sha1": "bcc309988873b81f7cdf3a4c552eba7428df28bd",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasomatters-2022-10-09T11:46:28.101087-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1665337597",
+      "size": "18735",
+      "md5": "165363476dd89db96d8854817e45575e",
+      "crc32": "454810d1",
+      "sha1": "ecf07fb1f253d4dff81d69bcacce3dfb56092b98",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasomatters-2022-10-09T11:46:28.101087-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elpasomatters-2022-10-09T11:46:28.101087-06:00.jpg",
+      "mtime": "1665337648",
+      "size": "10064",
+      "md5": "bf1292a90f6f36af39dbe1e99a176e3f",
+      "crc32": "d8548635",
+      "sha1": "f2de970746339bebc6aa6ca85e8c09dc493db198"
+    },
+    {
+      "name": "elpasomatters-2022-10-10T00:34:50.232719-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665383693",
+      "size": "24310",
+      "md5": "f4b90baf0a46b1703c11983284943bc9",
+      "crc32": "2668f54f",
+      "sha1": "282477706f2dc9de170376c3df8ca5b0942d5b0a",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasomatters-2022-10-10T00:34:50.232719-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665383695",
+      "size": "27192",
+      "md5": "8131b8e739c0b76768974bd21dc4d62b",
+      "crc32": "ed6b92b1",
+      "sha1": "1d4fae6349b6e6efad63f69238e53e2a6e1bfca3",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasomatters-2022-10-10T00:34:50.232719-06:00.jpg",
+      "source": "original",
+      "mtime": "1665383692",
+      "size": "294760",
+      "md5": "d214f097b4a25e4e5ea9354002f4f90f",
+      "crc32": "888db775",
+      "sha1": "aa579028d960343d0941f2a3dea76de831936598",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elpasomatters-2022-10-10T00:34:50.232719-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665383696",
+      "size": "1474",
+      "md5": "9cc648670cadb667be8999fe6f90a353",
+      "crc32": "5cc550e3",
+      "sha1": "924ceac64c721d33b4902dc7dd7243c2d3e0862b",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasomatters-2022-10-10T00:34:50.232719-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1665383698",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasomatters-2022-10-10T00:34:50.232719-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elpasomatters-2022-10-10T00:34:50.232719-06:00.jpg",
+      "mtime": "1665383758",
+      "size": "9205",
+      "md5": "9ee3b0bd638c3365516c8ee1cfa8adc9",
+      "crc32": "756a10be",
+      "sha1": "3c51de1a8fb4798d7b6bfaee3bfec25ed86c3cd8"
+    },
+    {
       "name": "elpasomatters-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f528adef1943c3eaf89f4a8cdb885c5e53d2f87d",
-      "mtime": "1665208638",
-      "size": "111654",
-      "md5": "626601d3c01cb879d27f14617a534c66",
-      "crc32": "ee8cc464",
-      "sha1": "8363268e920e0bdb24b6c8bfcd54dad851167e90",
+      "btih": "7bed2dae119ca031b49a2b6ec7b202ff5a438ac0",
+      "mtime": "1665383764",
+      "size": "116823",
+      "md5": "bfa99b44e953b4291558b53b58d189b7",
+      "crc32": "857f4969",
+      "sha1": "cb1fbac8a64d8522f6a2d06e2b4caaaacddcba6d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elpasomatters-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aa8f62d61fbaaacf25e861f11e6d7f67",
+      "md5": "438e61c0176780e5f05a8e6f4407e7cf",
       "summation": "md5"
     },
     {
       "name": "elpasomatters-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665208581",
-      "size": "671744",
-      "md5": "d0dcfe5070999a31852e3bc11a24e014",
-      "crc32": "901857c9",
-      "sha1": "180587e7dd41100306e3db3aa88dcfdf65b0cac1",
+      "mtime": "1665383701",
+      "size": "704512",
+      "md5": "903547c38ec78dee72ea2dec85986119",
+      "crc32": "f75f90ad",
+      "sha1": "b9bcf0471de6639379e3d95a3d059b03c26d1bc3",
       "format": "Metadata"
     },
     {
@@ -5336,9 +5589,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 516,
-  "item_last_updated": 1665208638,
-  "item_size": 33000690,
+  "files_count": 540,
+  "item_last_updated": 1665383764,
+  "item_size": 34583976,
   "metadata": {
     "identifier": "elpasomatters-2022",
     "collection": [
@@ -5355,10 +5608,10 @@
     "publicdate": "2022-08-26 14:07:01",
     "addeddate": "2022-08-26 14:07:01"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 1344667421,
+  "server": "ia601401.us.archive.org",
+  "uniq": 1572494064,
   "workable_servers": [
-    "ia801401.us.archive.org",
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1665208130,
+  "created": 1665383434,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/12/items/coshtribune-2022",
@@ -2248,31 +2248,279 @@
       "sha1": "846848b2a578931436f89eb6102a539c21e40dbe"
     },
     {
+      "name": "coshtribune-2022-10-08T13:44:32.707423-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665251076",
+      "size": "19156",
+      "md5": "67e5dab593d951301d1908d8ffb4e723",
+      "crc32": "859e14b3",
+      "sha1": "8305d0fd7ee16105b381c0f1bc7cc2d020e3767d",
+      "format": "JSON"
+    },
+    {
+      "name": "coshtribune-2022-10-08T13:44:32.707423-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665251078",
+      "size": "32146",
+      "md5": "04cf91ba5e5891ae6484fd43f91b9900",
+      "crc32": "a2206a96",
+      "sha1": "9f1fa278ccd4b9d958dc74ff366fa780f992bd5b",
+      "format": "JSON"
+    },
+    {
+      "name": "coshtribune-2022-10-08T13:44:32.707423-04:00.jpg",
+      "source": "original",
+      "mtime": "1665251075",
+      "size": "243536",
+      "md5": "ed1482fd8829017e79867b6a813865f5",
+      "crc32": "ee2dd460",
+      "sha1": "75913599e71576375f6034f8ecd587c86bb512fb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coshtribune-2022-10-08T13:44:32.707423-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665251079",
+      "size": "1549",
+      "md5": "294a07d0c52a51820634378f3cd9f35d",
+      "crc32": "82f0f82f",
+      "sha1": "c009a5683fe42024f34e4b05a48390c8f791aa12",
+      "format": "JSON"
+    },
+    {
+      "name": "coshtribune-2022-10-08T13:44:32.707423-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665251080",
+      "size": "213613",
+      "md5": "2efda14e009355a1feaededee20d49c0",
+      "crc32": "597f0ac9",
+      "sha1": "1ba80cc68c1022cc7bd581749301230e59d9acd1",
+      "format": "JSON"
+    },
+    {
+      "name": "coshtribune-2022-10-08T13:44:32.707423-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coshtribune-2022-10-08T13:44:32.707423-04:00.jpg",
+      "mtime": "1665251129",
+      "size": "9466",
+      "md5": "44c7827159579d5a758b76895707cd07",
+      "crc32": "1ce2ae44",
+      "sha1": "1acab7271327a52f86d256c3eb854f23d8de8667"
+    },
+    {
+      "name": "coshtribune-2022-10-09T03:18:08.828531-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665299894",
+      "size": "20462",
+      "md5": "c5cc4d74b50fe3c46cc9306ac29f201d",
+      "crc32": "5b7bd03e",
+      "sha1": "abb1bed7135087e74d4aa144548340c952bb8ad3",
+      "format": "JSON"
+    },
+    {
+      "name": "coshtribune-2022-10-09T03:18:08.828531-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665299895",
+      "size": "31555",
+      "md5": "e5e730d33e4713d0aa39b85911745452",
+      "crc32": "9416703b",
+      "sha1": "d5d9d09e6f1d57cabaa944f7d0a3b89217b5f2f8",
+      "format": "JSON"
+    },
+    {
+      "name": "coshtribune-2022-10-09T03:18:08.828531-04:00.jpg",
+      "source": "original",
+      "mtime": "1665299892",
+      "size": "244587",
+      "md5": "9e8ecd226b5116aba420e67425062b8b",
+      "crc32": "b627b6d6",
+      "sha1": "f198c0c07250db8fc0d0a719c58c2be7d1fc4fb8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coshtribune-2022-10-09T03:18:08.828531-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665299897",
+      "size": "1549",
+      "md5": "82c93fd896f07bf9ad777ea5e3131804",
+      "crc32": "e0699b82",
+      "sha1": "3ed6fa6a0d0064a49f48307fa6025b34e34eda36",
+      "format": "JSON"
+    },
+    {
+      "name": "coshtribune-2022-10-09T03:18:08.828531-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665299899",
+      "size": "74925",
+      "md5": "661a3ad7bdc7be81adb5db08f5f35454",
+      "crc32": "3b2e0518",
+      "sha1": "3e003050de9dc42a4bc108cd3ee7e9dd10a6e99a",
+      "format": "JSON"
+    },
+    {
+      "name": "coshtribune-2022-10-09T03:18:08.828531-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coshtribune-2022-10-09T03:18:08.828531-04:00.jpg",
+      "mtime": "1665299943",
+      "size": "9278",
+      "md5": "a653f5c0a6b3a7e72f3dae77965f20a0",
+      "crc32": "1a971e2f",
+      "sha1": "dccc4ef1d08b4236013475943d99ce068c067eb8"
+    },
+    {
+      "name": "coshtribune-2022-10-09T13:40:01.184013-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665337206",
+      "size": "20050",
+      "md5": "e064eaf128568cc07259e1d3e43bfadd",
+      "crc32": "6e08286b",
+      "sha1": "199a24212f60bf50d625efd831f98cf06de90e0a",
+      "format": "JSON"
+    },
+    {
+      "name": "coshtribune-2022-10-09T13:40:01.184013-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665337208",
+      "size": "29145",
+      "md5": "833a2b31d08bb6fcbc5b140ce7b5b05c",
+      "crc32": "8b41dbb1",
+      "sha1": "2fed33e99697a65d8089507e087398179b748722",
+      "format": "JSON"
+    },
+    {
+      "name": "coshtribune-2022-10-09T13:40:01.184013-04:00.jpg",
+      "source": "original",
+      "mtime": "1665337205",
+      "size": "243846",
+      "md5": "7ba9483f5c92c17f4571794e08c2a607",
+      "crc32": "f32ac506",
+      "sha1": "be6b8d75ae5f40a0d7b5f915ee0d6b75ad99bf6d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coshtribune-2022-10-09T13:40:01.184013-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665337210",
+      "size": "1549",
+      "md5": "b51cbd70bf019756aec7d102712d623e",
+      "crc32": "912a464e",
+      "sha1": "c185d059fa7c607ca90834d06df13b417cfe6152",
+      "format": "JSON"
+    },
+    {
+      "name": "coshtribune-2022-10-09T13:40:01.184013-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665337211",
+      "size": "98557",
+      "md5": "c5357759658cd7806f30fbf1347cf5d7",
+      "crc32": "2e320aad",
+      "sha1": "172b49065e93b55870952891c8876c906ae23421",
+      "format": "JSON"
+    },
+    {
+      "name": "coshtribune-2022-10-09T13:40:01.184013-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coshtribune-2022-10-09T13:40:01.184013-04:00.jpg",
+      "mtime": "1665337260",
+      "size": "9188",
+      "md5": "ab7c1d356f9c6a81a114439515edd2c4",
+      "crc32": "236aee1a",
+      "sha1": "d90ca867260931d5031beccebd828ac3ccfa639a"
+    },
+    {
+      "name": "coshtribune-2022-10-10T02:29:24.508750-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665383369",
+      "size": "20020",
+      "md5": "53cf295093350ab7fae882da612f189e",
+      "crc32": "ebaf5187",
+      "sha1": "2b12038f4a30c5e1097ed20737e4289645c9eefe",
+      "format": "JSON"
+    },
+    {
+      "name": "coshtribune-2022-10-10T02:29:24.508750-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665383370",
+      "size": "32330",
+      "md5": "4c4c6c4525497174c2406200f4e10fa1",
+      "crc32": "e5cc8054",
+      "sha1": "04312f8339cb690f26371e64f9b513a24e0b69c9",
+      "format": "JSON"
+    },
+    {
+      "name": "coshtribune-2022-10-10T02:29:24.508750-04:00.jpg",
+      "source": "original",
+      "mtime": "1665383367",
+      "size": "243863",
+      "md5": "aeb7caf09c8c7069606895c930bea6ff",
+      "crc32": "92419147",
+      "sha1": "4d98767824a7f878f74d8ed5535d3aee07591df0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coshtribune-2022-10-10T02:29:24.508750-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665383372",
+      "size": "1548",
+      "md5": "2895284b9c281f4587a26b285c1f0101",
+      "crc32": "b79eaa2c",
+      "sha1": "dc56e8a1a9d5d8b58477106bb0627711ccef0ac7",
+      "format": "JSON"
+    },
+    {
+      "name": "coshtribune-2022-10-10T02:29:24.508750-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665383373",
+      "size": "71851",
+      "md5": "654117d61edf4367406b462478d1b09c",
+      "crc32": "1e56f27d",
+      "sha1": "860bf958dbed16a3152bc50e78267da94a0f134f",
+      "format": "JSON"
+    },
+    {
+      "name": "coshtribune-2022-10-10T02:29:24.508750-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coshtribune-2022-10-10T02:29:24.508750-04:00.jpg",
+      "mtime": "1665383423",
+      "size": "9154",
+      "md5": "d2285bc6380591b1e2aabd4aefa3914c",
+      "crc32": "32dae4f5",
+      "sha1": "28704533a312c25acd0873bd479301ee33e38fc1"
+    },
+    {
       "name": "coshtribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "62a9cee29e08384ae58cf8ac3d8fa9dbb5313652",
-      "mtime": "1665208117",
-      "size": "47749",
-      "md5": "3fe8426fba9cb0e32dc28dcd694cb6aa",
-      "crc32": "45b9f24d",
-      "sha1": "3bb73f18fc546fa8a06eac4a831f1332a2583a8a",
+      "btih": "86f1377514650270541b806fc254aa6fe6e94d21",
+      "mtime": "1665383427",
+      "size": "52870",
+      "md5": "ac17b6f5206aa6590144acf566a3c562",
+      "crc32": "3cc07708",
+      "sha1": "dcdc10ece0d8c5a338e615f0110085727b910fb0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "coshtribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "04ffb74a8ea41da90a87d79777d717d6",
+      "md5": "0b5aec0d5491e6ed4fca70c4396299d4",
       "summation": "md5"
     },
     {
       "name": "coshtribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665208062",
-      "size": "294912",
-      "md5": "15d2ae88c99c5a38b1778881633b94f7",
-      "crc32": "4eacf3f5",
-      "sha1": "ead0163a757e4281e4abac1ca71e1442bea3482d",
+      "mtime": "1665383377",
+      "size": "327680",
+      "md5": "93166cf9bb1be777806a770f475f1846",
+      "crc32": "5231d09e",
+      "sha1": "5948229b4833f92417f2c9396ad4d885489028c1",
       "format": "Metadata"
     },
     {
@@ -2286,9 +2534,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 221,
-  "item_last_updated": 1665208117,
-  "item_size": 14761668,
+  "files_count": 245,
+  "item_last_updated": 1665383427,
+  "item_size": 16482480,
   "metadata": {
     "identifier": "coshtribune-2022",
     "collection": [
@@ -2306,7 +2554,7 @@
     "addeddate": "2022-09-20 17:43:35"
   },
   "server": "ia601505.us.archive.org",
-  "uniq": 1523801421,
+  "uniq": 2116168204,
   "workable_servers": [
     "ia601505.us.archive.org",
     "ia801505.us.archive.org"

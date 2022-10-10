@@ -1,5 +1,5 @@
 {
-  "created": 1665208163,
+  "created": 1665383431,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/25/items/courierpress-2022",
@@ -2248,31 +2248,279 @@
       "sha1": "facbddb0aa79ea24a4b876ffeccaa1ee2835e39a"
     },
     {
+      "name": "courierpress-2022-10-08T12:43:20.173321-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665251004",
+      "size": "21187",
+      "md5": "b22b59f3a4ceba46aaa21dcc22f9dd9d",
+      "crc32": "72529061",
+      "sha1": "c273808a2473ac40ac37efd339ac0dccd82ab7e3",
+      "format": "JSON"
+    },
+    {
+      "name": "courierpress-2022-10-08T12:43:20.173321-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665251006",
+      "size": "33435",
+      "md5": "fd536615c756b9da1e4a4d07618588ed",
+      "crc32": "c231100a",
+      "sha1": "fef866c426fa04412d7168a8674a02e73df668d4",
+      "format": "JSON"
+    },
+    {
+      "name": "courierpress-2022-10-08T12:43:20.173321-05:00.jpg",
+      "source": "original",
+      "mtime": "1665251003",
+      "size": "258876",
+      "md5": "18fa65cabd90b45fb167ec837b73dee6",
+      "crc32": "ae0d2e44",
+      "sha1": "5e0bec232001bf95a45f3c5dd856d66be15237f4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "courierpress-2022-10-08T12:43:20.173321-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665251007",
+      "size": "1513",
+      "md5": "1c1ad3639c9ab9a50f743e7e1ab49cfd",
+      "crc32": "ea3f0d83",
+      "sha1": "efbf13436b71744154556bfd63aab88f22278573",
+      "format": "JSON"
+    },
+    {
+      "name": "courierpress-2022-10-08T12:43:20.173321-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665251009",
+      "size": "90784",
+      "md5": "165499c8075ae1c361a703900cf8bc47",
+      "crc32": "7f2decd3",
+      "sha1": "2325cef31ffc4e52236e7d4c5a5887555199455c",
+      "format": "JSON"
+    },
+    {
+      "name": "courierpress-2022-10-08T12:43:20.173321-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "courierpress-2022-10-08T12:43:20.173321-05:00.jpg",
+      "mtime": "1665251059",
+      "size": "9500",
+      "md5": "3c57df691cd288c7f78d5f869e24cc1d",
+      "crc32": "2fa2e2a7",
+      "sha1": "29dba380a0cb019cc7ad26a88c67be1a3216f578"
+    },
+    {
+      "name": "courierpress-2022-10-09T02:17:57.548183-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665299882",
+      "size": "18958",
+      "md5": "1fe3616ebc4f69fbc4efdfc30dc5b68e",
+      "crc32": "22b5a36b",
+      "sha1": "a833bc19e8deaf593101b8a8161c23af960639e8",
+      "format": "JSON"
+    },
+    {
+      "name": "courierpress-2022-10-09T02:17:57.548183-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665299883",
+      "size": "29422",
+      "md5": "7e714b0a26d9bdc3b6efaac0f2fcfcd0",
+      "crc32": "6724f404",
+      "sha1": "3ae4bc13d94b83c85005dc70e9d7b27cb5221c50",
+      "format": "JSON"
+    },
+    {
+      "name": "courierpress-2022-10-09T02:17:57.548183-05:00.jpg",
+      "source": "original",
+      "mtime": "1665299880",
+      "size": "242448",
+      "md5": "f12401d3f11811e0d6373bbf452a9adf",
+      "crc32": "593b4bef",
+      "sha1": "78d873258745cf6c4423b175314ff672935a68e5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "courierpress-2022-10-09T02:17:57.548183-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665299885",
+      "size": "1513",
+      "md5": "c5656fe1e4a1cfc20b10ec76f014ae5f",
+      "crc32": "a3d2e309",
+      "sha1": "e335d18919595a68d17d308fa5ac109c95c76381",
+      "format": "JSON"
+    },
+    {
+      "name": "courierpress-2022-10-09T02:17:57.548183-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665299887",
+      "size": "115773",
+      "md5": "67d257c431d73808288f322d84b5016d",
+      "crc32": "472b9c47",
+      "sha1": "a154dff7711237ba4a7197e58a7305a2b23e1e9c",
+      "format": "JSON"
+    },
+    {
+      "name": "courierpress-2022-10-09T02:17:57.548183-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "courierpress-2022-10-09T02:17:57.548183-05:00.jpg",
+      "mtime": "1665299935",
+      "size": "9286",
+      "md5": "649d2b20494769f2039cf064caf8db99",
+      "crc32": "cef1d123",
+      "sha1": "84a4a55c360720e6859150915a4e8e7af7d0ab0f"
+    },
+    {
+      "name": "courierpress-2022-10-09T12:40:27.029949-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665337232",
+      "size": "20769",
+      "md5": "ca2f710b52b5ffe7146d19dbeb536fa1",
+      "crc32": "8b1963d6",
+      "sha1": "4ad3c23610f0b55aa365f0c0552905ee74883208",
+      "format": "JSON"
+    },
+    {
+      "name": "courierpress-2022-10-09T12:40:27.029949-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665337234",
+      "size": "40276",
+      "md5": "6fe603ea87fb2b72a5cc0ad042501794",
+      "crc32": "7aeac62f",
+      "sha1": "edcf15322b4f39261f8a54ccf80e221ca781fcf3",
+      "format": "JSON"
+    },
+    {
+      "name": "courierpress-2022-10-09T12:40:27.029949-05:00.jpg",
+      "source": "original",
+      "mtime": "1665337231",
+      "size": "241058",
+      "md5": "846150272a0c3dd4bed0c45d1fa253ff",
+      "crc32": "3360cc6b",
+      "sha1": "ce75facead656f290aa7c2e60b36c7e8a7fa7960",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "courierpress-2022-10-09T12:40:27.029949-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665337235",
+      "size": "1512",
+      "md5": "cbc8405a5600508ef0fb32aea1c00b27",
+      "crc32": "64bd7f18",
+      "sha1": "645418a707ab7b22dc5eb04fe4a60544dffcaec6",
+      "format": "JSON"
+    },
+    {
+      "name": "courierpress-2022-10-09T12:40:27.029949-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665337236",
+      "size": "79634",
+      "md5": "14fcc5472803bfce2daae1c1fb699cc1",
+      "crc32": "6d5d98b8",
+      "sha1": "55ca5058e794f25f5547002edda823111762db35",
+      "format": "JSON"
+    },
+    {
+      "name": "courierpress-2022-10-09T12:40:27.029949-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "courierpress-2022-10-09T12:40:27.029949-05:00.jpg",
+      "mtime": "1665337282",
+      "size": "9286",
+      "md5": "849ab1f15c436f857e6181fcd2eb796a",
+      "crc32": "1b4a3b20",
+      "sha1": "7ad54f884eb42cb53fa905f9bda8a71e04068573"
+    },
+    {
+      "name": "courierpress-2022-10-10T01:29:20.984680-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665383367",
+      "size": "20525",
+      "md5": "bb74e5da1f1647a4c8d447b415a91bd2",
+      "crc32": "9463c121",
+      "sha1": "43e6d8f0f1d776762280403b29a8460209fced44",
+      "format": "JSON"
+    },
+    {
+      "name": "courierpress-2022-10-10T01:29:20.984680-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665383368",
+      "size": "27443",
+      "md5": "7c424e9f4907108d8a61bb8e51713eda",
+      "crc32": "8ce14fa8",
+      "sha1": "0deb1b9a59c651a50f5d09b8e00bca1874326315",
+      "format": "JSON"
+    },
+    {
+      "name": "courierpress-2022-10-10T01:29:20.984680-05:00.jpg",
+      "source": "original",
+      "mtime": "1665383365",
+      "size": "241348",
+      "md5": "1094398da445ac7c2c3edb67c522c056",
+      "crc32": "91ca227d",
+      "sha1": "8f6708ca85d52924ec133f8f442ef0ea91a01855",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "courierpress-2022-10-10T01:29:20.984680-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665383370",
+      "size": "1513",
+      "md5": "caf66d168ba880780e4e363fab868f41",
+      "crc32": "635d39e7",
+      "sha1": "aa387cdfefd0651b394507a4bad8c738cbdecefb",
+      "format": "JSON"
+    },
+    {
+      "name": "courierpress-2022-10-10T01:29:20.984680-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665383371",
+      "size": "123800",
+      "md5": "91e88a10f8dd05e836b37b0f6b644f65",
+      "crc32": "c5458993",
+      "sha1": "6ea4c9fada17d214991156b1d7aceeca92a88587",
+      "format": "JSON"
+    },
+    {
+      "name": "courierpress-2022-10-10T01:29:20.984680-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "courierpress-2022-10-10T01:29:20.984680-05:00.jpg",
+      "mtime": "1665383423",
+      "size": "9270",
+      "md5": "b22ddcda3c93f7c38d9b39f06a89eb49",
+      "crc32": "d0ae4f1c",
+      "sha1": "9dc851d01c80db9a9ca543ad0c0c15eac22afbdc"
+    },
+    {
       "name": "courierpress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8077f564606f0aa89cb39b8b21f580547a684dae",
-      "mtime": "1665208155",
-      "size": "47986",
-      "md5": "a996754aa2e6cd5bc38c7fe24260d170",
-      "crc32": "1d7bb64f",
-      "sha1": "b2ebfa1aca001b6d4b6903f5861d9a3f418d7035",
+      "btih": "625a8e72d2eb8f76318395314817edc16b0e906c",
+      "mtime": "1665383426",
+      "size": "53132",
+      "md5": "13eae358b3d820bfdd7792ebed69b146",
+      "crc32": "5051e194",
+      "sha1": "baffe5796139cbaad66ed18ac5bcefb05532c916",
       "format": "Archive BitTorrent"
     },
     {
       "name": "courierpress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3c4b9450a7b08e1b6110cd65e359921d",
+      "md5": "6c633c49d0782ebb2fe4219f57beac54",
       "summation": "md5"
     },
     {
       "name": "courierpress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665208105",
-      "size": "294912",
-      "md5": "5fb8bfa651a92be6339b9bc590245baf",
-      "crc32": "1b581b4e",
-      "sha1": "964f45516c84ee4392540ef2dabd61fa49e048de",
+      "mtime": "1665383375",
+      "size": "327680",
+      "md5": "64ee4d7e1bc71d7329507f11fa1b6a78",
+      "crc32": "084608d2",
+      "sha1": "e234b1580b6b88cee8ee151f575489a409b3f2d1",
       "format": "Metadata"
     },
     {
@@ -2286,9 +2534,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 221,
-  "item_last_updated": 1665208155,
-  "item_size": 15044562,
+  "files_count": 245,
+  "item_last_updated": 1665383426,
+  "item_size": 16731605,
   "metadata": {
     "identifier": "courierpress-2022",
     "collection": [
@@ -2305,10 +2553,10 @@
     "publicdate": "2022-09-20 17:43:44",
     "addeddate": "2022-09-20 17:43:44"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 743043623,
+  "server": "ia801409.us.archive.org",
+  "uniq": 683470739,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }
