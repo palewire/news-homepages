@@ -1,5 +1,5 @@
 {
-  "created": 1665365342,
+  "created": 1665408069,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/3/items/irishtimes-2022",
@@ -10110,31 +10110,93 @@
       "sha1": "bc754c1002a5829b54a798dc19357964809722be"
     },
     {
+      "name": "irishtimes-2022-10-10T14:19:29.531046+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665407973",
+      "size": "57086",
+      "md5": "9a3bb5390039c5dbd59012f945a42428",
+      "crc32": "286bfdba",
+      "sha1": "4a1cdc71b62ead1c5ac30081572f6bd49e90f8ae",
+      "format": "JSON"
+    },
+    {
+      "name": "irishtimes-2022-10-10T14:19:29.531046+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665407975",
+      "size": "44516",
+      "md5": "c7114d25d9d7dbbcbc88861748e58aeb",
+      "crc32": "d39b6975",
+      "sha1": "c33415dd38fa104c20030fb47f9d0fb1e83ca040",
+      "format": "JSON"
+    },
+    {
+      "name": "irishtimes-2022-10-10T14:19:29.531046+01:00.jpg",
+      "source": "original",
+      "mtime": "1665407971",
+      "size": "274915",
+      "md5": "1bd486a3bea47630f51cf23e7cc64ea6",
+      "crc32": "27daf9ef",
+      "sha1": "abde06c0926e0bd1b29ac1b996c0bc2ff6c2232d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "irishtimes-2022-10-10T14:19:29.531046+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665407977",
+      "size": "1484",
+      "md5": "8a11a817d004fb553a2d70b454f3959b",
+      "crc32": "6fb8574d",
+      "sha1": "36ac007be6d4ce3eb252eaa890b0640a03ac1a5f",
+      "format": "JSON"
+    },
+    {
+      "name": "irishtimes-2022-10-10T14:19:29.531046+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1665407979",
+      "size": "48400",
+      "md5": "fe888e441597946f5a279432ef9e25ba",
+      "crc32": "d9ca3f5b",
+      "sha1": "da0546d3c4e7b7b838984b8360b57f1ccfc1c53a",
+      "format": "JSON"
+    },
+    {
+      "name": "irishtimes-2022-10-10T14:19:29.531046+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "irishtimes-2022-10-10T14:19:29.531046+01:00.jpg",
+      "mtime": "1665408046",
+      "size": "9043",
+      "md5": "7a94c6ad012443ae764c9dd34c6868c5",
+      "crc32": "44454aeb",
+      "sha1": "c0a90a39d18fa608d592a65ec9cceba69e72c7e0"
+    },
+    {
       "name": "irishtimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "eb749859d2e64d16141e3c6606c6141824adfa17",
-      "mtime": "1665365332",
-      "size": "208804",
-      "md5": "055ded8c3fbd9815dbde54ed569a028e",
-      "crc32": "79ee4335",
-      "sha1": "dd465e3d30d0c9d2552de2492233f44997a3aa45",
+      "btih": "58f458cb288c7607d710978f1a3c81a7464bad15",
+      "mtime": "1665408056",
+      "size": "210063",
+      "md5": "01c4e60d2be3efbf047ffe502a21c469",
+      "crc32": "e39b4ba2",
+      "sha1": "a1ab1de7c2b88eed7308701dcc0d2de89d475149",
       "format": "Archive BitTorrent"
     },
     {
       "name": "irishtimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4c456a2bb540265bd1c9acdae53c2329",
+      "md5": "731d6a978b979b2efaf83bd7b88fbc84",
       "summation": "md5"
     },
     {
       "name": "irishtimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665365241",
-      "size": "1241088",
-      "md5": "5e29ed4a5bb62cf3aad9dca66a956a2d",
-      "crc32": "83623121",
-      "sha1": "9fff841f30c89d675005346f9ec69c9505b7d06f",
+      "mtime": "1665407985",
+      "size": "1253376",
+      "md5": "940a97b8504df257f5c7b1a703b3c876",
+      "crc32": "c27f20b6",
+      "sha1": "33946a8d6dd65c75ea1986ecd623853cc0ceffab",
       "format": "Metadata"
     },
     {
@@ -10148,9 +10210,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 980,
-  "item_last_updated": 1665365332,
-  "item_size": 70489380,
+  "files_count": 986,
+  "item_last_updated": 1665408056,
+  "item_size": 70938371,
   "metadata": {
     "identifier": "irishtimes-2022",
     "collection": [
@@ -10168,7 +10230,7 @@
     "addeddate": "2022-07-18 02:24:06"
   },
   "server": "ia801506.us.archive.org",
-  "uniq": 314659875,
+  "uniq": 2042304739,
   "workable_servers": [
     "ia801506.us.archive.org",
     "ia601506.us.archive.org"

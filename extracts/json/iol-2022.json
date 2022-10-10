@@ -1,5 +1,5 @@
 {
-  "created": 1665365309,
+  "created": 1665411435,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/13/items/iol-2022",
@@ -6092,31 +6092,93 @@
       "sha1": "79412e1e839ccbc3c5238ed9a56123f31d6d67ce"
     },
     {
+      "name": "iol-2022-10-10T15:20:10.063671+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665408012",
+      "size": "1895",
+      "md5": "85f144e22b4fb9558886cae6eb22e89f",
+      "crc32": "329daf7f",
+      "sha1": "3ac6e6f271f33f45c4025793075efc9ad283b1a9",
+      "format": "JSON"
+    },
+    {
+      "name": "iol-2022-10-10T15:20:10.063671+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665408013",
+      "size": "37455",
+      "md5": "2eb7036b7ddaf53c8be08befd3812660",
+      "crc32": "11688954",
+      "sha1": "1cd531da31b5bc88a2444552b79d6a43eda3b179",
+      "format": "JSON"
+    },
+    {
+      "name": "iol-2022-10-10T15:20:10.063671+02:00.jpg",
+      "source": "original",
+      "mtime": "1665408011",
+      "size": "277911",
+      "md5": "e095705a0bdf39d654155ffed505d309",
+      "crc32": "e7fcb037",
+      "sha1": "274c2768274c1e9d9eaa8addbeea4f202d59a27a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "iol-2022-10-10T15:20:10.063671+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665408015",
+      "size": "1449",
+      "md5": "afd82c11eb9386b8b51851cf4d397de8",
+      "crc32": "1ebc1841",
+      "sha1": "b5970addd5bb600a0be6ed5e20352d589e78fb61",
+      "format": "JSON"
+    },
+    {
+      "name": "iol-2022-10-10T15:20:10.063671+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665408016",
+      "size": "202",
+      "md5": "d90aa5371eb96f80db4882ae62824f36",
+      "crc32": "4130abfc",
+      "sha1": "391a72610d2351e2f7585c836be535778283c1d9",
+      "format": "JSON"
+    },
+    {
+      "name": "iol-2022-10-10T15:20:10.063671+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "iol-2022-10-10T15:20:10.063671+02:00.jpg",
+      "mtime": "1665408075",
+      "size": "9137",
+      "md5": "5f65109f3cde9c112f93a57e29af048b",
+      "crc32": "d8a9df4e",
+      "sha1": "74840a39f04adebecbad656bc17d4c6a99f9685f"
+    },
+    {
       "name": "iol-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6d431cf2857ecf4cf6a48338af046dbafd522e40",
-      "mtime": "1665365299",
-      "size": "121932",
-      "md5": "697820e44617d6bb07d37e09f363726f",
-      "crc32": "51f94b3c",
-      "sha1": "c6d1511463f37cab036bb979ce23a97e4019ffcf",
+      "btih": "ea7c6316f153e3262a26d99ce1b0873d00086eee",
+      "mtime": "1665408082",
+      "size": "123166",
+      "md5": "2e31b92961b96863de77d694df6ce666",
+      "crc32": "953e5710",
+      "sha1": "01ab8f41dde933d80edf1d25a4fc54411f5cd1a5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "iol-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "53b4c310bcb7352d0e5db35cf9cbf80c",
+      "md5": "eb86556d123a78a5fae4629b0bb75a23",
       "summation": "md5"
     },
     {
       "name": "iol-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665365245",
-      "size": "761856",
-      "md5": "b5c4f7083c6ff9d3e36fb272030abaab",
-      "crc32": "af31cbdf",
-      "sha1": "11f20d8dc00e1a2a956611038041fa9f394e0721",
+      "mtime": "1665408022",
+      "size": "765952",
+      "md5": "33fe2f370ee4ce2223a6f523501a3f71",
+      "crc32": "38799b5f",
+      "sha1": "64bfcf3f5bcf71bb271d510feb657c3c723afec3",
       "format": "Metadata"
     },
     {
@@ -6130,9 +6192,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 593,
-  "item_last_updated": 1665365299,
-  "item_size": 33031391,
+  "files_count": 599,
+  "iol-2022": {
+    "url": "https://www.iol.co.za/",
+    "job_id": "spn2-c044bf7ce2c9fbfc551d3d38dc0676d7025f8d9e",
+    "resources": [],
+    "status": "error",
+    "message": "Job failed.",
+    "status_ext": "error:job-failed"
+  },
+  "item_last_updated": 1665408082,
+  "item_size": 33364770,
   "metadata": {
     "identifier": "iol-2022",
     "collection": [
@@ -6149,10 +6219,10 @@
     "publicdate": "2022-08-22 22:03:24",
     "addeddate": "2022-08-22 22:03:24"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 1591937108,
+  "server": "ia601409.us.archive.org",
+  "uniq": 334799442,
   "workable_servers": [
-    "ia801409.us.archive.org",
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

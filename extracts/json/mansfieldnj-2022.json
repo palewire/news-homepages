@@ -1,5 +1,5 @@
 {
-  "created": 1665365660,
+  "created": 1665408331,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/5/items/mansfieldnj-2022",
@@ -2496,31 +2496,93 @@
       "sha1": "66a3588709b19f782068f7fae803bed725507ca6"
     },
     {
+      "name": "mansfieldnj-2022-10-10T09:23:49.787482-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665408233",
+      "size": "19236",
+      "md5": "5be8533b8b318854d3bb2165e57c48e4",
+      "crc32": "f64bceb6",
+      "sha1": "704050418a1f3e0a13048ea511f9bd9229ff045b",
+      "format": "JSON"
+    },
+    {
+      "name": "mansfieldnj-2022-10-10T09:23:49.787482-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665408235",
+      "size": "36654",
+      "md5": "21db48ca8d1381f7e26e6c935ec0bee8",
+      "crc32": "202933fa",
+      "sha1": "f1f6ecee817be9363c27907cfac20b04236c2abd",
+      "format": "JSON"
+    },
+    {
+      "name": "mansfieldnj-2022-10-10T09:23:49.787482-04:00.jpg",
+      "source": "original",
+      "mtime": "1665408231",
+      "size": "251349",
+      "md5": "cef5dd9b763d5c671cd81af5e1c7c091",
+      "crc32": "2bb8fcbe",
+      "sha1": "1cbd101bd79b996e032f5ee52c8a2c7b4a130dc4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mansfieldnj-2022-10-10T09:23:49.787482-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665408237",
+      "size": "1583",
+      "md5": "c42ad4c2b0852e151c6c4c8a9585e667",
+      "crc32": "70995752",
+      "sha1": "26cbb1ad33131a40d43496429b0e75a39e39092d",
+      "format": "JSON"
+    },
+    {
+      "name": "mansfieldnj-2022-10-10T09:23:49.787482-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665408238",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mansfieldnj-2022-10-10T09:23:49.787482-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mansfieldnj-2022-10-10T09:23:49.787482-04:00.jpg",
+      "mtime": "1665408313",
+      "size": "9274",
+      "md5": "1b87a47f2628b79ad66f07831128363d",
+      "crc32": "6de4fa33",
+      "sha1": "5418cc706a218e9438f9fc4c1ecbaa837366e3d5"
+    },
+    {
       "name": "mansfieldnj-2022_archive.torrent",
       "source": "metadata",
-      "btih": "276e698daf2159ebda2b709ab63e3c4ff6377a30",
-      "mtime": "1665365650",
-      "size": "52842",
-      "md5": "53fa92568d61aa683440c881031118ac",
-      "crc32": "946508e1",
-      "sha1": "c50a4429ed6bda2c023f622e36eb5c6929008481",
+      "btih": "7c97ab2c6daccaa139035132877dbc6468751c78",
+      "mtime": "1665408316",
+      "size": "54105",
+      "md5": "c95799d38016c693664599e405cfdc38",
+      "crc32": "c4ff5acd",
+      "sha1": "0d8e35c7e7adab99921bf8cc1a7458936b7c0f28",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mansfieldnj-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "95ac5fa449c8ff912a8eb1951ddd3713",
+      "md5": "f842a4fb5d0b2e0a1c66e24e7a4f749f",
       "summation": "md5"
     },
     {
       "name": "mansfieldnj-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665365601",
-      "size": "327680",
-      "md5": "284aec2c31db044fa506e5021bc398ac",
-      "crc32": "557fb5a5",
-      "sha1": "7537a6c5683161f529e599c8aca0a514247c4460",
+      "mtime": "1665408247",
+      "size": "339968",
+      "md5": "2cd42cae08042a632f2ce0346fa9e186",
+      "crc32": "e586bc05",
+      "sha1": "bb02e941eb6f703b91f02290be859cc1359f1b9d",
       "format": "Metadata"
     },
     {
@@ -2534,9 +2596,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 245,
-  "item_last_updated": 1665365650,
-  "item_size": 15886251,
+  "files_count": 251,
+  "item_last_updated": 1665408316,
+  "item_size": 16218100,
   "metadata": {
     "identifier": "mansfieldnj-2022",
     "collection": [
@@ -2553,10 +2615,10 @@
     "publicdate": "2022-09-20 22:28:08",
     "addeddate": "2022-09-20 22:28:08"
   },
-  "server": "ia601407.us.archive.org",
-  "uniq": 1200546642,
+  "server": "ia801407.us.archive.org",
+  "uniq": 947322079,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia801407.us.archive.org",
+    "ia601407.us.archive.org"
   ]
 }

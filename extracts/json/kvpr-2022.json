@@ -1,5 +1,5 @@
 {
-  "created": 1665365487,
+  "created": 1665411684,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/34/items/kvpr-2022",
@@ -10878,31 +10878,93 @@
       "sha1": "cb2132e5cdde86bc130c6d7fc2a40e780c391770"
     },
     {
+      "name": "kvpr-2022-10-10T06:23:21.940081-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665408209",
+      "size": "26269",
+      "md5": "d5a7b823f006e3c6b53e416625bef128",
+      "crc32": "aa5eb534",
+      "sha1": "854ef306f251f991c3dde5baa63e487ab06b1212",
+      "format": "JSON"
+    },
+    {
+      "name": "kvpr-2022-10-10T06:23:21.940081-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665408211",
+      "size": "51781",
+      "md5": "c609b3d7f4b2ef575c9888905f1eb1f9",
+      "crc32": "ff88ffa8",
+      "sha1": "83a81ac5b130b32e34d22763fc4b598e955692ed",
+      "format": "JSON"
+    },
+    {
+      "name": "kvpr-2022-10-10T06:23:21.940081-07:00.jpg",
+      "source": "original",
+      "mtime": "1665408208",
+      "size": "274512",
+      "md5": "a7c64315b4c61adc05d5ab613a83bec1",
+      "crc32": "cb648268",
+      "sha1": "22e56ee4df740f7a60316074a03ef8389a801fc3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kvpr-2022-10-10T06:23:21.940081-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665408213",
+      "size": "1441",
+      "md5": "b74cc2488cf65d9daf63f675faa7ec7e",
+      "crc32": "d3cc767f",
+      "sha1": "0ef5525c2ceb5e243826351bb7c3b2c025292f87",
+      "format": "JSON"
+    },
+    {
+      "name": "kvpr-2022-10-10T06:23:21.940081-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665408214",
+      "size": "97",
+      "md5": "d449153f4c0e25f9f3594103e984fb9b",
+      "crc32": "02fab0ce",
+      "sha1": "5531a397738c4b01e55c3cc577b59bc0dcbc567a",
+      "format": "JSON"
+    },
+    {
+      "name": "kvpr-2022-10-10T06:23:21.940081-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kvpr-2022-10-10T06:23:21.940081-07:00.jpg",
+      "mtime": "1665408280",
+      "size": "10164",
+      "md5": "f2976a32121135541544b079989c7ec4",
+      "crc32": "e2d15f2e",
+      "sha1": "4ec36787b7e779377225fadfe8e5944bec943979"
+    },
+    {
       "name": "kvpr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5135a44bf0a0b18cbf036398552a1db03f1d7ec5",
-      "mtime": "1665365481",
-      "size": "217995",
-      "md5": "0bc64725e4ecec2304e59d4d081b67ce",
-      "crc32": "fcfeba41",
-      "sha1": "61b4c4deba20ad83e91864a042d19f5a38ac7311",
+      "btih": "21671cfc1c402c48e6854d29c072a09d3ae46b9b",
+      "mtime": "1665408299",
+      "size": "219236",
+      "md5": "8fb713a1a9a6ff14dd02db8c24a23397",
+      "crc32": "6f9b433d",
+      "sha1": "b54fa157932618abfeaa3d470153b184c2ba8d34",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kvpr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7ff354bd1c44bd4cfa878b99e4243101",
+      "md5": "8fb34d55a0d0265f2c9d38ad3852c79b",
       "summation": "md5"
     },
     {
       "name": "kvpr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665365410",
-      "size": "1314816",
-      "md5": "0aef5dc732ce12e79f98ea3c987d0c60",
-      "crc32": "c1142dc4",
-      "sha1": "d585c6024be52e7ca329065a3b6fe708cd6df8f7",
+      "mtime": "1665408220",
+      "size": "1323008",
+      "md5": "93fa1dc27e82470bf019806e33c0e95d",
+      "crc32": "c4e41db8",
+      "sha1": "1794f43528616a631dca055f24a586d74c30729c",
       "format": "Metadata"
     },
     {
@@ -10916,9 +10978,13 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1053,
-  "item_last_updated": 1665365481,
-  "item_size": 74021850,
+  "files_count": 1059,
+  "item_last_updated": 1665408299,
+  "item_size": 74395547,
+  "kvpr-2022": {
+    "url": "https://www.kvpr.org/",
+    "job_id": "spn2-9757347f2032a7d921db972da7effbdae9f8728a"
+  },
   "metadata": {
     "identifier": "kvpr-2022",
     "collection": [
@@ -10935,10 +11001,10 @@
     "publicdate": "2022-07-09 04:00:32",
     "addeddate": "2022-07-09 04:00:32"
   },
-  "server": "ia902507.us.archive.org",
-  "uniq": 399525376,
+  "server": "ia802507.us.archive.org",
+  "uniq": 570343295,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia802507.us.archive.org",
+    "ia902507.us.archive.org"
   ]
 }
