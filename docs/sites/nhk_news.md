@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 275 screenshots with the Internet Archive.
+The archiving routine has saved 277 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-10-10T11:33:20.210530+09:00.jpg">
+  <img src="https://archive.org/download/nhk_news-2022/nhk_news-2022-10-10T11:33:20.210530+09:00.jpg"
+     alt="NHK at 2022-10-10 11:33:22+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-10-10T11:33:20.210530+09:00.jpg">October 10 at 11:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-10-10T11:28:22.179841+09:00.jpg">
+  <img src="https://archive.org/download/nhk_news-2022/nhk_news-2022-10-10T11:28:22.179841+09:00.jpg"
+     alt="NHK at 2022-10-10 11:28:30+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-10-10T11:28:22.179841+09:00.jpg">October 10 at 11:28 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-10-09T22:59:12.304709+09:00.jpg">
   <img src="https://archive.org/download/nhk_news-2022/nhk_news-2022-10-09T22:59:12.304709+09:00.jpg"
      alt="NHK at 2022-10-09 22:59:17+09:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-10-06T23:12:03.565003+09:00.jpg">October 6 at 11:12 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-10-06T11:32:44.445917+09:00.jpg">
-  <img src="https://archive.org/download/nhk_news-2022/nhk_news-2022-10-06T11:32:44.445917+09:00.jpg"
-     alt="NHK at 2022-10-06 11:32:46+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-10-06T11:32:44.445917+09:00.jpg">October 6 at 11:32 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-10-06T11:28:05.416025+09:00.jpg">
-  <img src="https://archive.org/download/nhk_news-2022/nhk_news-2022-10-06T11:28:05.416025+09:00.jpg"
-     alt="NHK at 2022-10-06 11:28:13+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nhk_news-2022/nhk_news-2022-10-06T11:28:05.416025+09:00.jpg">October 6 at 11:28 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 275 hyperlink lists with the Internet Archive.
+The archiving routine has saved 277 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 11:33 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-10-10T11:33:20.210530+09:00.hyperlinks.json) |
+| [October 10 at 11:28 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-10-10T11:28:22.179841+09:00.hyperlinks.json) |
 | [October 9 at 10:59 PM](https://archive.org/download/nhk_news-2022/nhk_news-2022-10-09T22:59:12.304709+09:00.hyperlinks.json) |
 | [October 9 at 11:28 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-10-09T11:28:50.095219+09:00.hyperlinks.json) |
 | [October 9 at 11:25 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-10-09T11:25:05.059491+09:00.hyperlinks.json) |
@@ -536,8 +538,6 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 11:25 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-10-08T11:25:10.275718+09:00.hyperlinks.json) |
 | [October 7 at 11:13 PM](https://archive.org/download/nhk_news-2022/nhk_news-2022-10-07T23:12:55.681006+09:00.hyperlinks.json) |
 | [October 7 at 11:43 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-10-07T11:43:18.548123+09:00.hyperlinks.json) |
-| [October 7 at 10:45 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-10-07T10:45:07.774439+09:00.hyperlinks.json) |
-| [October 6 at 11:12 PM](https://archive.org/download/nhk_news-2022/nhk_news-2022-10-06T23:12:03.565003+09:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 230 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 232 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 11:33 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-10-10T11:33:20.210530+09:00.lighthouse.json) |
+| [October 10 at 11:28 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-10-10T11:28:22.179841+09:00.lighthouse.json) |
 | [October 9 at 10:59 PM](https://archive.org/download/nhk_news-2022/nhk_news-2022-10-09T22:59:12.304709+09:00.lighthouse.json) |
 | [October 9 at 11:28 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-10-09T11:28:50.095219+09:00.lighthouse.json) |
 | [October 9 at 11:25 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-10-09T11:25:05.059491+09:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 11:25 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-10-08T11:25:10.275718+09:00.lighthouse.json) |
 | [October 7 at 11:13 PM](https://archive.org/download/nhk_news-2022/nhk_news-2022-10-07T23:12:55.681006+09:00.lighthouse.json) |
 | [October 7 at 11:43 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-10-07T11:43:18.548123+09:00.lighthouse.json) |
-| [October 7 at 10:45 AM](https://archive.org/download/nhk_news-2022/nhk_news-2022-10-07T10:45:07.774439+09:00.lighthouse.json) |
-| [October 6 at 11:12 PM](https://archive.org/download/nhk_news-2022/nhk_news-2022-10-06T23:12:03.565003+09:00.lighthouse.json) |
 
 
 
