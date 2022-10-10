@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 417 screenshots with the Internet Archive.
+The archiving routine has saved 418 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 417 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-10-10T04:30:04.013685+03:00.jpg">
+  <img src="https://archive.org/download/kyivpost-2022/kyivpost-2022-10-10T04:30:04.013685+03:00.jpg"
+     alt="KyivPost at 2022-10-10 04:30:15+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-10-10T04:30:04.013685+03:00.jpg">October 10 at 4:30 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-10-09T16:04:28.791540+03:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-10-04T16:01:11.693516+03:00.jpg">October 4 at 4:01 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-10-04T04:28:58.487613+03:00.jpg">
-  <img src="https://archive.org/download/kyivpost-2022/kyivpost-2022-10-04T04:28:58.487613+03:00.jpg"
-     alt="KyivPost at 2022-10-04 04:29:07+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-10-04T04:28:58.487613+03:00.jpg">October 4 at 4:29 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 398 hyperlink lists with the Internet Archive.
+The archiving routine has saved 399 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 4:30 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-10-10T04:30:04.013685+03:00.hyperlinks.json) |
 | [October 9 at 4:04 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-10-09T16:04:28.791540+03:00.hyperlinks.json) |
 | [October 9 at 4:17 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-10-09T04:17:28.116609+03:00.hyperlinks.json) |
 | [October 8 at 4:04 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-10-08T16:04:21.995255+03:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 6 at 4:01 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-10-06T16:01:24.353562+03:00.hyperlinks.json) |
 | [October 6 at 4:28 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-10-06T04:28:17.670070+03:00.hyperlinks.json) |
 | [October 5 at 4:13 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-10-05T16:13:12.294328+03:00.hyperlinks.json) |
-| [October 5 at 4:29 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-10-05T04:29:06.518497+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 396 accessibility trees with the Internet Archive.
+The archiving routine has saved 397 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 4:30 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-10-10T04:30:04.013685+03:00.accessibility.json) |
 | [October 9 at 4:04 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-10-09T16:04:28.791540+03:00.accessibility.json) |
 | [October 9 at 4:17 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-10-09T04:17:28.116609+03:00.accessibility.json) |
 | [October 8 at 4:04 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-10-08T16:04:21.995255+03:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 6 at 4:01 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-10-06T16:01:24.353562+03:00.accessibility.json) |
 | [October 6 at 4:28 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-10-06T04:28:17.670070+03:00.accessibility.json) |
 | [October 5 at 4:13 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-10-05T16:13:12.294328+03:00.accessibility.json) |
-| [October 5 at 4:29 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-10-05T04:29:06.518497+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 151 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 152 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 4:30 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-10-10T04:30:04.013685+03:00.lighthouse.json) |
 | [October 9 at 4:04 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-10-09T16:04:28.791540+03:00.lighthouse.json) |
 | [October 9 at 4:17 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-10-09T04:17:28.116609+03:00.lighthouse.json) |
 | [October 8 at 4:04 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-10-08T16:04:21.995255+03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 6 at 4:28 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-10-06T04:28:17.670070+03:00.lighthouse.json) |
 | [October 5 at 4:13 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-10-05T16:13:12.294328+03:00.lighthouse.json) |
 | [October 5 at 4:29 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-10-05T04:29:06.518497+03:00.lighthouse.json) |
-| [October 4 at 4:01 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-10-04T16:01:11.693516+03:00.lighthouse.json) |
 
 
 
