@@ -1,5 +1,5 @@
 {
-  "created": 1665324344,
+  "created": 1665369005,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/26/items/sankei_news-2022",
@@ -14906,31 +14906,93 @@
       "sha1": "b23258dab5650d28a07f344ea9ba7d1b8198427c"
     },
     {
+      "name": "sankei_news-2022-10-10T11:27:52.607630+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665368876",
+      "size": "59991",
+      "md5": "e6ed69e6e3218c7c22baaeaf9b4a6670",
+      "crc32": "7cf551ac",
+      "sha1": "3868fcd2c25fcb0c1cdcc175dcd11a7d8ea68792",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-10-10T11:27:52.607630+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665368878",
+      "size": "84657",
+      "md5": "87ce33164b01333e8d720471b1818975",
+      "crc32": "8071ae62",
+      "sha1": "83b120c8c7aef6f6554f3103e8529672fb7e961a",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-10-10T11:27:52.607630+09:00.jpg",
+      "source": "original",
+      "mtime": "1665368874",
+      "size": "373269",
+      "md5": "009826f45d0990edef80aa68a6c3aeb6",
+      "crc32": "7bac4fc1",
+      "sha1": "0c3c3c778fd2a48ddca32bec3edc4e60607d824e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sankei_news-2022-10-10T11:27:52.607630+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665368879",
+      "size": "1459",
+      "md5": "439b3218034f36b76080a32495f04406",
+      "crc32": "15f900cd",
+      "sha1": "ff406312634830e40f9a3c7ee79c98fa2e2d1b14",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-10-10T11:27:52.607630+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1665368881",
+      "size": "19075",
+      "md5": "3cb0677c4fb540d03b603696fc6fc98b",
+      "crc32": "fd1f62cf",
+      "sha1": "d450ddd09339c15e93ada5c528e162fa616dad4a",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-10-10T11:27:52.607630+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sankei_news-2022-10-10T11:27:52.607630+09:00.jpg",
+      "mtime": "1665368959",
+      "size": "10760",
+      "md5": "b09b5ab5b3accf09502b33e1993e1000",
+      "crc32": "aeaa4f9e",
+      "sha1": "e05ba759f681dba41d0e73c2fe46c7b960ae5cf6"
+    },
+    {
       "name": "sankei_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fae0a92cd0e7db37ea1529a7991174a01eae6b12",
-      "mtime": "1665324334",
-      "size": "309337",
-      "md5": "ff5c22a212a04c50e37cd793b2911f0f",
-      "crc32": "15925cbd",
-      "sha1": "9132b68b3364330ce48f47a445161a285d11e937",
+      "btih": "c5f066c3387bf8aca25234dafa0ce1f993914e17",
+      "mtime": "1665368994",
+      "size": "310623",
+      "md5": "a047ca7b9d117497aeb704e81ee3a834",
+      "crc32": "9aeaf107",
+      "sha1": "9b38b9363e7f13bbd2e0f4f417189af7a4f27cc3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sankei_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "abf26e0438fc584359b27ad45a7ed98e",
+      "md5": "29120302ac19fccc58dd2130e6fe5080",
       "summation": "md5"
     },
     {
       "name": "sankei_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665324237",
-      "size": "1785856",
-      "md5": "9d13a4572d4879596380fa680541f7a7",
-      "crc32": "2998219b",
-      "sha1": "5d4ab57932d669f18916581abfeab0d2a9a4e566",
+      "mtime": "1665368887",
+      "size": "1794048",
+      "md5": "c66c455081d032f8901c098e4d7e3914",
+      "crc32": "02b1b462",
+      "sha1": "ecc657d1ded7eed6d52d728921c646dec1aeb455",
       "format": "Metadata"
     },
     {
@@ -14944,9 +15006,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1439,
-  "item_last_updated": 1665324334,
-  "item_size": 151071573,
+  "files_count": 1445,
+  "item_last_updated": 1665368994,
+  "item_size": 151630262,
   "metadata": {
     "identifier": "sankei_news-2022",
     "collection": [
@@ -14963,10 +15025,10 @@
     "publicdate": "2022-07-09 02:39:00",
     "addeddate": "2022-07-09 02:39:00"
   },
-  "server": "ia802507.us.archive.org",
-  "uniq": 197423998,
+  "server": "ia902507.us.archive.org",
+  "uniq": 1611138531,
   "workable_servers": [
-    "ia802507.us.archive.org",
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }
