@@ -1,5 +1,6 @@
 {
-  "created": 1665391565,
+  "conflict": 1665433854,
+  "created": 1665433854,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/25/items/pressenterprise-2022",
@@ -24854,31 +24855,93 @@
       "sha1": "78d94a9699c0d55fbf5213183b46affe652773bd"
     },
     {
+      "name": "pressenterprise-2022-10-10T12:46:56.679509-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665431242",
+      "size": "39694",
+      "md5": "5eeba48d76504cdfec9ab5a947b38c55",
+      "crc32": "438b32f3",
+      "sha1": "42e40ec7064cad038609d0adc38e56fb785c7aa2",
+      "format": "JSON"
+    },
+    {
+      "name": "pressenterprise-2022-10-10T12:46:56.679509-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665431243",
+      "size": "51364",
+      "md5": "bf115c2a60e869066359f66a97296031",
+      "crc32": "919ef028",
+      "sha1": "90c45acd299dcb0395f7f6574532c603474a1931",
+      "format": "JSON"
+    },
+    {
+      "name": "pressenterprise-2022-10-10T12:46:56.679509-07:00.jpg",
+      "source": "original",
+      "mtime": "1665431240",
+      "size": "273609",
+      "md5": "c119d359499838560a240c1ebfab83a1",
+      "crc32": "996aff18",
+      "sha1": "3d51316ccfdb38bcc93703b237545018f2f4349d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pressenterprise-2022-10-10T12:46:56.679509-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665431245",
+      "size": "1540",
+      "md5": "d206e8601bd482e19232748e08e57750",
+      "crc32": "8c702223",
+      "sha1": "0ef87c7bca509c0d2ead2522724229dca383c169",
+      "format": "JSON"
+    },
+    {
+      "name": "pressenterprise-2022-10-10T12:46:56.679509-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665431247",
+      "size": "56933",
+      "md5": "0d7c7ba67c16e763eb1732f77a054ad8",
+      "crc32": "8d6f15ce",
+      "sha1": "237c336a44e3c8c67a9817b6c01ab53ff9ec0670",
+      "format": "JSON"
+    },
+    {
+      "name": "pressenterprise-2022-10-10T12:46:56.679509-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pressenterprise-2022-10-10T12:46:56.679509-07:00.jpg",
+      "mtime": "1665431388",
+      "size": "9514",
+      "md5": "ee847d1630a52e88e2c522254654922a",
+      "crc32": "5fe3e219",
+      "sha1": "a75366955d0125b4f2f099bc535cdb7438625ef5"
+    },
+    {
       "name": "pressenterprise-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c984b1b19db86fa515fc334358aad7f71dd52f99",
-      "mtime": "1665391027",
-      "size": "520979",
-      "md5": "0e8dc2074fcbad8348e185aa57560d5d",
-      "crc32": "788445ff",
-      "sha1": "0928daa73a4856ffb1ed1828c66846a31390aac5",
+      "btih": "c5d4297d765a5374e17163ac70fb60f518e9e2a4",
+      "mtime": "1665431435",
+      "size": "522288",
+      "md5": "1a2f006db036d754b22392a5fd19d97d",
+      "crc32": "4562e574",
+      "sha1": "dc28eb082d022562583ff157816c6e50b6489839",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pressenterprise-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6db3ea51b263cb300e10a0d0a81a996d",
+      "md5": "afcd45b56ade9e48394e7dc0167010bf",
       "summation": "md5"
     },
     {
       "name": "pressenterprise-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665390868",
-      "size": "2916352",
-      "md5": "8888702b6116fd095beead5ea7405305",
-      "crc32": "8da1b6ac",
-      "sha1": "84280e5796bb2f3078225b42f8b76632171138b7",
+      "mtime": "1665431261",
+      "size": "2920448",
+      "md5": "9fd4e445ed26ee2484cb184e0e359e5a",
+      "crc32": "cf93a530",
+      "sha1": "fc9502ed0084fa7340e69f37736cf4090697bdc7",
       "format": "Metadata"
     },
     {
@@ -24892,9 +24955,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2389,
-  "item_last_updated": 1665391027,
-  "item_size": 210092149,
+  "files_count": 2395,
+  "item_last_updated": 1665431435,
+  "item_size": 210530208,
   "metadata": {
     "identifier": "pressenterprise-2022",
     "collection": [
@@ -24911,10 +24974,21 @@
     "publicdate": "2022-03-23 02:09:29",
     "addeddate": "2022-03-23 02:09:29"
   },
-  "server": "ia802504.us.archive.org",
-  "uniq": 1121786111,
+  "pending_tasks": true,
+  "server": "ia902504.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3435096584,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 718729989,
   "workable_servers": [
-    "ia802504.us.archive.org",
     "ia902504.us.archive.org"
   ]
 }

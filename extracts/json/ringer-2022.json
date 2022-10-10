@@ -1,5 +1,5 @@
 {
-  "created": 1665391171,
+  "created": 1665433981,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/29/items/ringer-2022",
@@ -13306,31 +13306,93 @@
       "sha1": "6075d5ccf5a4fd7cb7508f148196d1174f05166a"
     },
     {
+      "name": "ringer-2022-10-10T12:49:14.357218-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665431358",
+      "size": "47723",
+      "md5": "207c9288ed81e60f7892bfe28faac573",
+      "crc32": "60ce5a3b",
+      "sha1": "f3165b6fcccd4529ccbcf1966eeba4747779ee53",
+      "format": "JSON"
+    },
+    {
+      "name": "ringer-2022-10-10T12:49:14.357218-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665431360",
+      "size": "60295",
+      "md5": "bfe492b20422a0746ef4f1640f3eabd7",
+      "crc32": "e7874cda",
+      "sha1": "f02476a4a88bef73733b276a838411f85c98e0a5",
+      "format": "JSON"
+    },
+    {
+      "name": "ringer-2022-10-10T12:49:14.357218-07:00.jpg",
+      "source": "original",
+      "mtime": "1665431356",
+      "size": "327944",
+      "md5": "1e140aeaf0f54b4cc06d66d9c19b7d4f",
+      "crc32": "169e4946",
+      "sha1": "543e467067f4c7bcc5d00155d430b0bc9f33be1f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ringer-2022-10-10T12:49:14.357218-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665431362",
+      "size": "1482",
+      "md5": "0b1db30699f5ad1a5a967dcd3753f686",
+      "crc32": "f49b3339",
+      "sha1": "2e3a6622f715fe7b278a251387f3b13d014a4e53",
+      "format": "JSON"
+    },
+    {
+      "name": "ringer-2022-10-10T12:49:14.357218-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665431364",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ringer-2022-10-10T12:49:14.357218-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ringer-2022-10-10T12:49:14.357218-07:00.jpg",
+      "mtime": "1665431454",
+      "size": "10257",
+      "md5": "70a688ce3265c0f73162c9d99dc92288",
+      "crc32": "c73a8125",
+      "sha1": "801cf49b167aaadf218fe730046f8b1e4c3f74b4"
+    },
+    {
       "name": "ringer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0fddd84d6f80e4319fc77d92da39854288e8c134",
-      "mtime": "1665391160",
-      "size": "269522",
-      "md5": "22beebf2ca74af63d70084ac33d3496a",
-      "crc32": "07ee8e3b",
-      "sha1": "3b6afad0a6aa7cc506c2db00c00c65e5507970c6",
+      "btih": "cfe82d4e8156bbcaccc3294a76f3d4c875c0ad19",
+      "mtime": "1665431468",
+      "size": "270776",
+      "md5": "26c6b04aae1f6b1d1415bac4a1081121",
+      "crc32": "619a9a60",
+      "sha1": "fd83b8c3ab1b1515aad5450615edf27b9e48c788",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ringer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f43e58d6635aad8f3bbac9b20599786b",
+      "md5": "db8ba07a100bae8fc08fa7b043315d45",
       "summation": "md5"
     },
     {
       "name": "ringer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665391054",
-      "size": "1572864",
-      "md5": "16d12916405a8360ade877b81172bb5b",
-      "crc32": "f674b6a8",
-      "sha1": "c3b15115141cc5baa0b3ab7b26ba56b22b13b8e3",
+      "mtime": "1665431378",
+      "size": "1585152",
+      "md5": "aaef0ef525c9e102889acf14737fb229",
+      "crc32": "94c3b86c",
+      "sha1": "4dc2a95daeb812b63fcf214a1b99aa9bf11c6921",
       "format": "Metadata"
     },
     {
@@ -13344,9 +13406,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1284,
-  "item_last_updated": 1665391160,
-  "item_size": 123179488,
+  "files_count": 1290,
+  "item_last_updated": 1665431468,
+  "item_size": 123640933,
   "metadata": {
     "identifier": "ringer-2022",
     "collection": [
@@ -13363,8 +13425,13 @@
     "publicdate": "2022-06-19 23:27:48",
     "addeddate": "2022-06-19 23:27:48"
   },
+  "ringer-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia802504.us.archive.org",
-  "uniq": 1663781714,
+  "uniq": 1660079029,
   "workable_servers": [
     "ia802504.us.archive.org",
     "ia902504.us.archive.org"
