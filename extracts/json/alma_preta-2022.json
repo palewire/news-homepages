@@ -1,6 +1,10 @@
 {
-  "conflict": 1665404278,
-  "created": 1665404278,
+  "alma_preta-2022": {
+    "url": "https://almapreta.com/",
+    "job_id": "spn2-c959905eb7083770cf145de987881ebe059b1ca0",
+    "message": "The same snapshot had been made 34 minutes, 39 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
+  "created": 1665407592,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/16/items/alma_preta-2022",
@@ -11439,24 +11443,29 @@
       "name": "alma_preta-2022-10-10T09:14:41.052478-03:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "alma_preta-2022-10-10T09:14:41.052478-03:00.jpg"
+      "original": "alma_preta-2022-10-10T09:14:41.052478-03:00.jpg",
+      "mtime": "1665404275",
+      "size": "9810",
+      "md5": "836f505305d7324f1ae2d496ce6c4966",
+      "crc32": "a01bfb7e",
+      "sha1": "700a4dedf78057026452d0115959ee3d49e59cb9"
     },
     {
       "name": "alma_preta-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dd26b939a79fe564712e2876729fe23357c5533f",
-      "mtime": "1665404162",
-      "size": "236057",
-      "md5": "939f98c7c98ce24527a985dc3f90004d",
-      "crc32": "808413d7",
-      "sha1": "3098fe2914f4eec3c6d82595f04ba06a1cd3e760",
+      "btih": "8ed9230d2dafd7ad92196d510e81559e604d2269",
+      "mtime": "1665404287",
+      "size": "236263",
+      "md5": "03110f19cd275c0e4fd2cd83843750b8",
+      "crc32": "50ad97a0",
+      "sha1": "fa3f5ca955f98e5a64ffc953cd1a29bc05c11079",
       "format": "Archive BitTorrent"
     },
     {
       "name": "alma_preta-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bce0610b1628b809c661c335fa61d4ba",
+      "md5": "aa1079d44625af467a95948805647b50",
       "summation": "md5"
     },
     {
@@ -11481,8 +11490,8 @@
     }
   ],
   "files_count": 1111,
-  "item_last_updated": 1665404162,
-  "item_size": 67122392,
+  "item_last_updated": 1665404287,
+  "item_size": 67132408,
   "metadata": {
     "identifier": "alma_preta-2022",
     "collection": [
@@ -11499,21 +11508,10 @@
     "publicdate": "2022-08-07 19:42:34",
     "addeddate": "2022-08-07 19:42:34"
   },
-  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3434803703,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 523959433,
+  "uniq": 1639368487,
   "workable_servers": [
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }
