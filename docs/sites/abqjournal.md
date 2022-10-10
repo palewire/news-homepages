@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 344 screenshots with the Internet Archive.
+The archiving routine has saved 345 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 344 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-10-10T05:00:34.293761-06:00.jpg">
+  <img src="https://archive.org/download/abqjournal-2022/abqjournal-2022-10-10T05:00:34.293761-06:00.jpg"
+     alt="Albuquerque Journal at 2022-10-10 05:00:44-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-10-10T05:00:34.293761-06:00.jpg">October 10 at 5:00 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-10-09T16:49:18.860521-06:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-10-04T16:58:09.197688-06:00.jpg">October 4 at 4:58 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-10-04T04:58:39.889229-06:00.jpg">
-  <img src="https://archive.org/download/abqjournal-2022/abqjournal-2022-10-04T04:58:39.889229-06:00.jpg"
-     alt="Albuquerque Journal at 2022-10-04 04:58:47-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abqjournal-2022/abqjournal-2022-10-04T04:58:39.889229-06:00.jpg">October 4 at 4:58 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 340 hyperlink lists with the Internet Archive.
+The archiving routine has saved 341 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 5:00 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-10-10T05:00:34.293761-06:00.hyperlinks.json) |
 | [October 9 at 4:49 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-10-09T16:49:18.860521-06:00.hyperlinks.json) |
 | [October 9 at 4:56 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-10-09T04:55:55.647884-06:00.hyperlinks.json) |
 | [October 8 at 5:01 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-10-08T17:01:44.808466-06:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 6 at 4:59 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-10-06T16:59:07.695951-06:00.hyperlinks.json) |
 | [October 5 at 4:53 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-10-05T16:53:01.235601-06:00.hyperlinks.json) |
 | [October 5 at 4:58 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-10-05T04:58:20.329015-06:00.hyperlinks.json) |
-| [October 4 at 4:58 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-10-04T16:58:09.197688-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 341 accessibility trees with the Internet Archive.
+The archiving routine has saved 342 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 5:00 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-10-10T05:00:34.293761-06:00.accessibility.json) |
 | [October 9 at 4:49 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-10-09T16:49:18.860521-06:00.accessibility.json) |
 | [October 9 at 4:55 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-10-09T04:55:55.647884-06:00.accessibility.json) |
 | [October 8 at 5:01 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-10-08T17:01:44.808466-06:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 6 at 4:59 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-10-06T16:59:07.695951-06:00.accessibility.json) |
 | [October 6 at 4:42 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-10-06T04:42:06.766948-06:00.accessibility.json) |
 | [October 5 at 4:53 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-10-05T16:53:01.235601-06:00.accessibility.json) |
-| [October 5 at 4:58 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-10-05T04:58:20.329015-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 158 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 159 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 5:00 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-10-10T05:00:34.293761-06:00.lighthouse.json) |
 | [October 9 at 4:49 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-10-09T16:49:18.860521-06:00.lighthouse.json) |
 | [October 9 at 4:56 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-10-09T04:55:55.647884-06:00.lighthouse.json) |
 | [October 8 at 5:01 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-10-08T17:01:44.808466-06:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 6 at 4:59 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-10-06T16:59:07.695951-06:00.lighthouse.json) |
 | [October 5 at 4:53 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-10-05T16:53:01.235601-06:00.lighthouse.json) |
 | [October 5 at 4:58 AM](https://archive.org/download/abqjournal-2022/abqjournal-2022-10-05T04:58:20.329015-06:00.lighthouse.json) |
-| [October 4 at 4:58 PM](https://archive.org/download/abqjournal-2022/abqjournal-2022-10-04T16:58:09.197688-06:00.lighthouse.json) |
 
 
 

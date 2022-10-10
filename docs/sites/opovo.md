@@ -437,7 +437,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 184 hyperlink lists with the Internet Archive.
+The archiving routine has saved 185 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 9:15 AM](https://archive.org/download/opovo-2022/opovo-2022-10-10T09:15:18.502994-03:00.hyperlinks.json) |
 | [October 10 at 5:34 AM](https://archive.org/download/opovo-2022/opovo-2022-10-10T05:34:05.950271-03:00.hyperlinks.json) |
 | [October 9 at 4:16 PM](https://archive.org/download/opovo-2022/opovo-2022-10-09T16:16:42.599994-03:00.hyperlinks.json) |
 | [October 9 at 9:05 AM](https://archive.org/download/opovo-2022/opovo-2022-10-09T09:05:33.411246-03:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 4:17 AM](https://archive.org/download/opovo-2022/opovo-2022-10-08T04:17:19.095551-03:00.hyperlinks.json) |
 | [October 7 at 4:47 PM](https://archive.org/download/opovo-2022/opovo-2022-10-07T16:47:15.632018-03:00.hyperlinks.json) |
 | [October 7 at 4:47 AM](https://archive.org/download/opovo-2022/opovo-2022-10-07T04:46:49.426928-03:00.hyperlinks.json) |
-| [October 6 at 4:35 PM](https://archive.org/download/opovo-2022/opovo-2022-10-06T16:35:16.227793-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 113 accessibility trees with the Internet Archive.
+The archiving routine has saved 114 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 9:15 AM](https://archive.org/download/opovo-2022/opovo-2022-10-10T09:15:18.502994-03:00.accessibility.json) |
 | [October 9 at 4:16 PM](https://archive.org/download/opovo-2022/opovo-2022-10-09T16:16:42.599994-03:00.accessibility.json) |
 | [October 9 at 9:05 AM](https://archive.org/download/opovo-2022/opovo-2022-10-09T09:05:33.411246-03:00.accessibility.json) |
 | [October 9 at 4:25 AM](https://archive.org/download/opovo-2022/opovo-2022-10-09T04:25:13.850452-03:00.accessibility.json) |
@@ -642,7 +643,6 @@ Here are the 10 most recent accessibility trees.
 | [October 7 at 4:47 AM](https://archive.org/download/opovo-2022/opovo-2022-10-07T04:46:49.426928-03:00.accessibility.json) |
 | [October 6 at 8:24 AM](https://archive.org/download/opovo-2022/opovo-2022-10-06T08:24:16.481987-03:00.accessibility.json) |
 | [October 6 at 4:13 AM](https://archive.org/download/opovo-2022/opovo-2022-10-06T04:13:11.493123-03:00.accessibility.json) |
-| [October 5 at 5:40 PM](https://archive.org/download/opovo-2022/opovo-2022-10-05T17:40:14.965531-03:00.accessibility.json) |
 
 
 

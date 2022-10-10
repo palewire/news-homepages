@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 39 screenshots with the Internet Archive.
+The archiving routine has saved 40 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 39 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dandc-2022/dandc-2022-10-10T08:26:22.595617-04:00.jpg">
+  <img src="https://archive.org/download/dandc-2022/dandc-2022-10-10T08:26:22.595617-04:00.jpg"
+     alt="Rochester Democrat and Chronicle at 2022-10-10 08:26:25-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dandc-2022/dandc-2022-10-10T08:26:22.595617-04:00.jpg">October 10 at 8:26 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dandc-2022/dandc-2022-10-09T19:44:06.171796-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dandc-2022/dandc-2022-10-04T08:04:44.976532-04:00.jpg">October 4 at 8:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dandc-2022/dandc-2022-10-03T19:53:30.152180-04:00.jpg">
-  <img src="https://archive.org/download/dandc-2022/dandc-2022-10-03T19:53:30.152180-04:00.jpg"
-     alt="Rochester Democrat and Chronicle at 2022-10-03 19:53:34-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dandc-2022/dandc-2022-10-03T19:53:30.152180-04:00.jpg">October 3 at 7:53 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 40 hyperlink lists with the Internet Archive.
+The archiving routine has saved 41 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 8:26 AM](https://archive.org/download/dandc-2022/dandc-2022-10-10T08:26:22.595617-04:00.hyperlinks.json) |
 | [October 9 at 7:44 PM](https://archive.org/download/dandc-2022/dandc-2022-10-09T19:44:06.171796-04:00.hyperlinks.json) |
 | [October 9 at 7:59 AM](https://archive.org/download/dandc-2022/dandc-2022-10-09T07:59:29.307535-04:00.hyperlinks.json) |
 | [October 8 at 8:01 PM](https://archive.org/download/dandc-2022/dandc-2022-10-08T20:01:32.670557-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 6 at 8:00 PM](https://archive.org/download/dandc-2022/dandc-2022-10-06T20:00:37.504709-04:00.hyperlinks.json) |
 | [October 6 at 4:52 PM](https://archive.org/download/dandc-2022/dandc-2022-10-06T16:52:43.886156-04:00.hyperlinks.json) |
 | [October 5 at 7:48 PM](https://archive.org/download/dandc-2022/dandc-2022-10-05T19:48:21.829120-04:00.hyperlinks.json) |
-| [October 5 at 8:13 AM](https://archive.org/download/dandc-2022/dandc-2022-10-05T08:13:00.858000-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 40 accessibility trees with the Internet Archive.
+The archiving routine has saved 41 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 8:26 AM](https://archive.org/download/dandc-2022/dandc-2022-10-10T08:26:22.595617-04:00.accessibility.json) |
 | [October 9 at 7:44 PM](https://archive.org/download/dandc-2022/dandc-2022-10-09T19:44:06.171796-04:00.accessibility.json) |
 | [October 9 at 7:59 AM](https://archive.org/download/dandc-2022/dandc-2022-10-09T07:59:29.307535-04:00.accessibility.json) |
 | [October 8 at 8:01 PM](https://archive.org/download/dandc-2022/dandc-2022-10-08T20:01:32.670557-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 6 at 8:00 PM](https://archive.org/download/dandc-2022/dandc-2022-10-06T20:00:37.504709-04:00.accessibility.json) |
 | [October 6 at 4:52 PM](https://archive.org/download/dandc-2022/dandc-2022-10-06T16:52:43.886156-04:00.accessibility.json) |
 | [October 5 at 7:48 PM](https://archive.org/download/dandc-2022/dandc-2022-10-05T19:48:21.829120-04:00.accessibility.json) |
-| [October 5 at 8:13 AM](https://archive.org/download/dandc-2022/dandc-2022-10-05T08:13:00.858000-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 41 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 8:26 AM](https://archive.org/download/dandc-2022/dandc-2022-10-10T08:26:22.595617-04:00.lighthouse.json) |
 | [October 9 at 7:44 PM](https://archive.org/download/dandc-2022/dandc-2022-10-09T19:44:06.171796-04:00.lighthouse.json) |
 | [October 9 at 7:59 AM](https://archive.org/download/dandc-2022/dandc-2022-10-09T07:59:29.307535-04:00.lighthouse.json) |
 | [October 8 at 8:01 PM](https://archive.org/download/dandc-2022/dandc-2022-10-08T20:01:32.670557-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 6 at 8:00 PM](https://archive.org/download/dandc-2022/dandc-2022-10-06T20:00:37.504709-04:00.lighthouse.json) |
 | [October 6 at 4:52 PM](https://archive.org/download/dandc-2022/dandc-2022-10-06T16:52:43.886156-04:00.lighthouse.json) |
 | [October 5 at 7:48 PM](https://archive.org/download/dandc-2022/dandc-2022-10-05T19:48:21.829120-04:00.lighthouse.json) |
-| [October 5 at 8:13 AM](https://archive.org/download/dandc-2022/dandc-2022-10-05T08:13:00.858000-04:00.lighthouse.json) |
 
 
 

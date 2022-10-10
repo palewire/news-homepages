@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 252 screenshots with the Internet Archive.
+The archiving routine has saved 253 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 252 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-10T08:28:57.793224-04:00.jpg">
+  <img src="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-10T08:28:57.793224-04:00.jpg"
+     alt="Florida Phoenix at 2022-10-10 08:28:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-10T08:28:57.793224-04:00.jpg">October 10 at 8:28 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-09T19:47:23.495627-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-04T19:55:49.204459-04:00.jpg">October 4 at 7:55 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-04T08:07:26.254662-04:00.jpg">
-  <img src="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-04T08:07:26.254662-04:00.jpg"
-     alt="Florida Phoenix at 2022-10-04 08:07:27-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-04T08:07:26.254662-04:00.jpg">October 4 at 8:07 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 254 hyperlink lists with the Internet Archive.
+The archiving routine has saved 255 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 8:29 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-10T08:28:57.793224-04:00.hyperlinks.json) |
 | [October 9 at 7:47 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-09T19:47:23.495627-04:00.hyperlinks.json) |
 | [October 9 at 8:04 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-09T08:04:04.888312-04:00.hyperlinks.json) |
 | [October 8 at 8:04 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-08T20:04:48.740313-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 6 at 8:06 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-06T20:06:39.767297-04:00.hyperlinks.json) |
 | [October 6 at 4:57 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-06T16:57:05.941320-04:00.hyperlinks.json) |
 | [October 5 at 7:51 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-05T19:51:24.262354-04:00.hyperlinks.json) |
-| [October 5 at 8:16 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-05T08:16:10.172424-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 254 accessibility trees with the Internet Archive.
+The archiving routine has saved 255 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 8:29 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-10T08:28:57.793224-04:00.accessibility.json) |
 | [October 9 at 7:47 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-09T19:47:23.495627-04:00.accessibility.json) |
 | [October 9 at 8:04 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-09T08:04:04.888312-04:00.accessibility.json) |
 | [October 8 at 8:04 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-08T20:04:48.740313-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 6 at 8:06 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-06T20:06:39.767297-04:00.accessibility.json) |
 | [October 6 at 4:57 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-06T16:57:05.941320-04:00.accessibility.json) |
 | [October 5 at 7:51 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-05T19:51:24.262354-04:00.accessibility.json) |
-| [October 5 at 8:16 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-05T08:16:10.172424-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 158 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 159 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 8:29 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-10T08:28:57.793224-04:00.lighthouse.json) |
 | [October 9 at 7:47 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-09T19:47:23.495627-04:00.lighthouse.json) |
 | [October 9 at 8:04 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-09T08:04:04.888312-04:00.lighthouse.json) |
 | [October 8 at 8:05 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-08T20:04:48.740313-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 6 at 8:06 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-06T20:06:39.767297-04:00.lighthouse.json) |
 | [October 6 at 4:57 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-06T16:57:05.941320-04:00.lighthouse.json) |
 | [October 5 at 7:51 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-05T19:51:24.262354-04:00.lighthouse.json) |
-| [October 5 at 8:16 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-10-05T08:16:10.172424-04:00.lighthouse.json) |
 
 
 

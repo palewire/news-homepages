@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 167 screenshots with the Internet Archive.
+The archiving routine has saved 168 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 167 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-10T07:25:41.215615-05:00.jpg">
+  <img src="https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-10T07:25:41.215615-05:00.jpg"
+     alt="Dallas Business Journal at 2022-10-10 07:26:06-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-10T07:25:41.215615-05:00.jpg">October 10 at 7:26 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-09T18:43:57.474725-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-04T18:52:54.997214-05:00.jpg">October 4 at 6:53 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-04T07:02:58.670365-05:00.jpg">
-  <img src="https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-04T07:02:58.670365-05:00.jpg"
-     alt="Dallas Business Journal at 2022-10-04 07:03:06-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-04T07:02:58.670365-05:00.jpg">October 4 at 7:03 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 168 hyperlink lists with the Internet Archive.
+The archiving routine has saved 169 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 7:26 AM](https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-10T07:25:41.215615-05:00.hyperlinks.json) |
 | [October 9 at 6:44 PM](https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-09T18:43:57.474725-05:00.hyperlinks.json) |
 | [October 9 at 6:59 AM](https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-09T06:59:40.296543-05:00.hyperlinks.json) |
 | [October 8 at 7:01 PM](https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-08T19:01:40.410373-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 6 at 7:00 PM](https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-06T19:00:25.918822-05:00.hyperlinks.json) |
 | [October 6 at 3:52 PM](https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-06T15:52:36.837133-05:00.hyperlinks.json) |
 | [October 5 at 6:48 PM](https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-05T18:48:16.933891-05:00.hyperlinks.json) |
-| [October 5 at 7:13 AM](https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-05T07:13:24.424933-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 172 accessibility trees with the Internet Archive.
+The archiving routine has saved 173 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 7:26 AM](https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-10T07:25:41.215615-05:00.accessibility.json) |
 | [October 9 at 6:44 PM](https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-09T18:43:57.474725-05:00.accessibility.json) |
 | [October 9 at 6:59 AM](https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-09T06:59:40.296543-05:00.accessibility.json) |
 | [October 8 at 7:01 PM](https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-08T19:01:40.410373-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 6 at 7:00 PM](https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-06T19:00:25.918822-05:00.accessibility.json) |
 | [October 6 at 3:52 PM](https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-06T15:52:36.837133-05:00.accessibility.json) |
 | [October 5 at 6:48 PM](https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-05T18:48:16.933891-05:00.accessibility.json) |
-| [October 5 at 7:13 AM](https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-05T07:13:24.424933-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 159 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 160 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 7:26 AM](https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-10T07:25:41.215615-05:00.lighthouse.json) |
 | [October 9 at 6:44 PM](https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-09T18:43:57.474725-05:00.lighthouse.json) |
 | [October 9 at 6:59 AM](https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-09T06:59:40.296543-05:00.lighthouse.json) |
 | [October 8 at 7:01 PM](https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-08T19:01:40.410373-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 6 at 7:00 PM](https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-06T19:00:25.918822-05:00.lighthouse.json) |
 | [October 6 at 3:52 PM](https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-06T15:52:36.837133-05:00.lighthouse.json) |
 | [October 5 at 6:48 PM](https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-05T18:48:16.933891-05:00.lighthouse.json) |
-| [October 5 at 7:13 AM](https://archive.org/download/dallasbiznews-2022/dallasbiznews-2022-10-05T07:13:24.424933-05:00.lighthouse.json) |
 
 
 
