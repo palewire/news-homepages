@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 39 screenshots with the Internet Archive.
+The archiving routine has saved 40 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 39 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-10T11:33:44.293296-05:00.jpg">
+  <img src="https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-10T11:33:44.293296-05:00.jpg"
+     alt="Amarillo Globe-News at 2022-10-10 11:33:47-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-10T11:33:44.293296-05:00.jpg">October 10 at 11:33 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-10T01:20:38.857382-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-04T23:16:53.222527-05:00.jpg">October 4 at 11:16 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-04T11:14:01.477861-05:00.jpg">
-  <img src="https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-04T11:14:01.477861-05:00.jpg"
-     alt="Amarillo Globe-News at 2022-10-04 11:14:03-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-04T11:14:01.477861-05:00.jpg">October 4 at 11:14 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 39 hyperlink lists with the Internet Archive.
+The archiving routine has saved 40 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 11:33 AM](https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-10T11:33:44.293296-05:00.hyperlinks.json) |
 | [October 10 at 1:20 AM](https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-10T01:20:38.857382-05:00.hyperlinks.json) |
 | [October 9 at 10:58 AM](https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-09T10:58:00.333910-05:00.hyperlinks.json) |
 | [October 9 at 12:10 AM](https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-09T00:10:46.405738-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 6 at 11:31 PM](https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-06T23:30:59.449291-05:00.hyperlinks.json) |
 | [October 6 at 11:00 AM](https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-06T11:00:51.369782-05:00.hyperlinks.json) |
 | [October 5 at 11:22 PM](https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-05T23:22:34.489601-05:00.hyperlinks.json) |
-| [October 5 at 11:34 AM](https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-05T11:33:56.965136-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 39 accessibility trees with the Internet Archive.
+The archiving routine has saved 40 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 11:33 AM](https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-10T11:33:44.293296-05:00.accessibility.json) |
 | [October 10 at 1:20 AM](https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-10T01:20:38.857382-05:00.accessibility.json) |
 | [October 9 at 10:58 AM](https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-09T10:58:00.333910-05:00.accessibility.json) |
 | [October 9 at 12:10 AM](https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-09T00:10:46.405738-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 6 at 11:31 PM](https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-06T23:30:59.449291-05:00.accessibility.json) |
 | [October 6 at 11:00 AM](https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-06T11:00:51.369782-05:00.accessibility.json) |
 | [October 5 at 11:22 PM](https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-05T23:22:34.489601-05:00.accessibility.json) |
-| [October 5 at 11:34 AM](https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-05T11:33:56.965136-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 11:33 AM](https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-10T11:33:44.293296-05:00.lighthouse.json) |
 | [October 10 at 1:20 AM](https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-10T01:20:38.857382-05:00.lighthouse.json) |
 | [October 9 at 10:58 AM](https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-09T10:58:00.333910-05:00.lighthouse.json) |
 | [October 9 at 12:10 AM](https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-09T00:10:46.405738-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 6 at 11:31 PM](https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-06T23:30:59.449291-05:00.lighthouse.json) |
 | [October 6 at 11:01 AM](https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-06T11:00:51.369782-05:00.lighthouse.json) |
 | [October 5 at 11:22 PM](https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-05T23:22:34.489601-05:00.lighthouse.json) |
-| [October 5 at 11:34 AM](https://archive.org/download/amarilloglobe-2022/amarilloglobe-2022-10-05T11:33:56.965136-05:00.lighthouse.json) |
 
 
 

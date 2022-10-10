@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 269 screenshots with the Internet Archive.
+The archiving routine has saved 272 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-10T13:01:06.838304-05:00.jpg">
+  <img src="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-10T13:01:06.838304-05:00.jpg"
+     alt="Injustice Watch at 2022-10-10 13:01:14-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-10T13:01:06.838304-05:00.jpg">October 10 at 1:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-10T12:21:32.526507-05:00.jpg">
+  <img src="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-10T12:21:32.526507-05:00.jpg"
+     alt="Injustice Watch at 2022-10-10 12:21:34-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-10T12:21:32.526507-05:00.jpg">October 10 at 12:21 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-10T03:15:31.652896-05:00.jpg">
+  <img src="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-10T03:15:31.652896-05:00.jpg"
+     alt="Injustice Watch at 2022-10-10 03:15:33-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-10T03:15:31.652896-05:00.jpg">October 10 at 3:15 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-09T12:32:43.176940-05:00.jpg">
   <img src="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-09T12:32:43.176940-05:00.jpg"
      alt="Injustice Watch at 2022-10-09 12:32:51-05:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-07T01:10:35.281669-05:00.jpg">October 7 at 1:10 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-06T12:44:00.674822-05:00.jpg">
-  <img src="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-06T12:44:00.674822-05:00.jpg"
-     alt="Injustice Watch at 2022-10-06 12:44:02-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-06T12:44:00.674822-05:00.jpg">October 6 at 12:44 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-06T11:06:46.599721-05:00.jpg">
-  <img src="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-06T11:06:46.599721-05:00.jpg"
-     alt="Injustice Watch at 2022-10-06 11:06:53-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-06T11:06:46.599721-05:00.jpg">October 6 at 11:06 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-06T00:43:13.174413-05:00.jpg">
-  <img src="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-06T00:43:13.174413-05:00.jpg"
-     alt="Injustice Watch at 2022-10-06 00:43:15-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-06T00:43:13.174413-05:00.jpg">October 6 at 12:43 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 270 hyperlink lists with the Internet Archive.
+The archiving routine has saved 273 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 1:01 PM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-10T13:01:06.838304-05:00.hyperlinks.json) |
+| [October 10 at 12:21 PM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-10T12:21:32.526507-05:00.hyperlinks.json) |
+| [October 10 at 3:15 AM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-10T03:15:31.652896-05:00.hyperlinks.json) |
 | [October 9 at 12:32 PM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-09T12:32:43.176940-05:00.hyperlinks.json) |
 | [October 9 at 10:55 AM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-09T10:55:31.291646-05:00.hyperlinks.json) |
 | [October 9 at 12:20 AM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-09T00:20:17.574485-05:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 11:23 AM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-08T11:23:28.176712-05:00.hyperlinks.json) |
 | [October 8 at 12:41 AM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-08T00:41:29.438985-05:00.hyperlinks.json) |
 | [October 7 at 12:58 PM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-07T12:58:10.945070-05:00.hyperlinks.json) |
-| [October 7 at 12:55 PM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-07T12:54:44.479977-05:00.hyperlinks.json) |
-| [October 7 at 1:10 AM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-07T01:10:35.281669-05:00.hyperlinks.json) |
-| [October 6 at 12:44 PM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-06T12:44:00.674822-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 269 accessibility trees with the Internet Archive.
+The archiving routine has saved 272 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 1:01 PM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-10T13:01:06.838304-05:00.accessibility.json) |
+| [October 10 at 12:21 PM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-10T12:21:32.526507-05:00.accessibility.json) |
+| [October 10 at 3:15 AM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-10T03:15:31.652896-05:00.accessibility.json) |
 | [October 9 at 12:32 PM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-09T12:32:43.176940-05:00.accessibility.json) |
 | [October 9 at 10:55 AM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-09T10:55:31.291646-05:00.accessibility.json) |
 | [October 9 at 12:20 AM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-09T00:20:17.574485-05:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 11:23 AM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-08T11:23:28.176712-05:00.accessibility.json) |
 | [October 8 at 12:41 AM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-08T00:41:29.438985-05:00.accessibility.json) |
 | [October 7 at 12:58 PM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-07T12:58:10.945070-05:00.accessibility.json) |
-| [October 7 at 12:54 PM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-07T12:54:44.479977-05:00.accessibility.json) |
-| [October 7 at 1:10 AM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-07T01:10:35.281669-05:00.accessibility.json) |
-| [October 6 at 12:44 PM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-06T12:44:00.674822-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 228 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 231 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 1:01 PM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-10T13:01:06.838304-05:00.lighthouse.json) |
+| [October 10 at 12:21 PM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-10T12:21:32.526507-05:00.lighthouse.json) |
+| [October 10 at 3:15 AM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-10T03:15:31.652896-05:00.lighthouse.json) |
 | [October 9 at 12:32 PM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-09T12:32:43.176940-05:00.lighthouse.json) |
 | [October 9 at 10:55 AM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-09T10:55:31.291646-05:00.lighthouse.json) |
 | [October 9 at 12:20 AM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-09T00:20:17.574485-05:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 11:23 AM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-08T11:23:28.176712-05:00.lighthouse.json) |
 | [October 8 at 12:41 AM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-08T00:41:29.438985-05:00.lighthouse.json) |
 | [October 7 at 12:58 PM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-07T12:58:10.945070-05:00.lighthouse.json) |
-| [October 7 at 12:55 PM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-07T12:54:44.479977-05:00.lighthouse.json) |
-| [October 7 at 1:10 AM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-07T01:10:35.281669-05:00.lighthouse.json) |
-| [October 6 at 12:44 PM](https://archive.org/download/injusticewatch-2022/injusticewatch-2022-10-06T12:44:00.674822-05:00.lighthouse.json) |
 
 
 
