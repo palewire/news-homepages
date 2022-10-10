@@ -1,5 +1,5 @@
 {
-  "created": 1665359144,
+  "created": 1665404851,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/29/items/courier_tribune-2022",
@@ -2496,31 +2496,93 @@
       "sha1": "4cc0bf1d7f8c4432aaf9dd71a69529ab6740a1c0"
     },
     {
+      "name": "courier_tribune-2022-10-10T08:25:42.903560-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665404748",
+      "size": "22157",
+      "md5": "e1022fdc7c64fd7734889fbc732fe7cc",
+      "crc32": "c83220f8",
+      "sha1": "81c7539cb571e1f41309dc12175a4b060fcf5970",
+      "format": "JSON"
+    },
+    {
+      "name": "courier_tribune-2022-10-10T08:25:42.903560-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665404750",
+      "size": "31487",
+      "md5": "599bd2158134c033528f642741232089",
+      "crc32": "17d31f57",
+      "sha1": "323e598a6310d0dc71d1a354be36b615b9a9d76d",
+      "format": "JSON"
+    },
+    {
+      "name": "courier_tribune-2022-10-10T08:25:42.903560-04:00.jpg",
+      "source": "original",
+      "mtime": "1665404746",
+      "size": "263003",
+      "md5": "bb63942df56e8b7c194ec220c059bc3b",
+      "crc32": "33253475",
+      "sha1": "9b5cc945ed7bcf0859f9883b12d173201d4d7d22",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "courier_tribune-2022-10-10T08:25:42.903560-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665404751",
+      "size": "1539",
+      "md5": "aa6aef6f44ebf280e7d7c68485a3c0e6",
+      "crc32": "ffb7fc08",
+      "sha1": "830c4de1a422fbefbd82b1f1b900374f8494ba87",
+      "format": "JSON"
+    },
+    {
+      "name": "courier_tribune-2022-10-10T08:25:42.903560-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665404753",
+      "size": "122908",
+      "md5": "bd464639b92e40d973c46e2eaef6df0f",
+      "crc32": "e2f6a7ad",
+      "sha1": "e4bcd474ce8d5b25845abe0162fd7724d5e23be2",
+      "format": "JSON"
+    },
+    {
+      "name": "courier_tribune-2022-10-10T08:25:42.903560-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "courier_tribune-2022-10-10T08:25:42.903560-04:00.jpg",
+      "mtime": "1665404837",
+      "size": "8963",
+      "md5": "911be16d4c60e427d2b0963a9735467c",
+      "crc32": "403a6ecc",
+      "sha1": "311fd0cb0ac17b7aff36b2691bdcff0f3c9311cf"
+    },
+    {
       "name": "courier_tribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "735eb68e17efd4ae8b3d38b9841a0d59a85cbe4e",
-      "mtime": "1665359139",
-      "size": "53900",
-      "md5": "a7ef8de6783ad9e9e3f5adab78bdf516",
-      "crc32": "ea5efc29",
-      "sha1": "71848d8207a2907cf33672c464556838ac3ea37c",
+      "btih": "0278ac62440569f51e3221efa5f0d45651f868cc",
+      "mtime": "1665404845",
+      "size": "55190",
+      "md5": "e9998ec9b9836a576d372f9b4f1fe743",
+      "crc32": "a681ca85",
+      "sha1": "c6ac8f327c603f959b959698a75a716f65bdfcf4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "courier_tribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5b31ac30bfc5860bc2bfe2bd1356c5a1",
+      "md5": "64504aba30a2aefc9da1cb4b52b64ad0",
       "summation": "md5"
     },
     {
       "name": "courier_tribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665359093",
-      "size": "331776",
-      "md5": "1dbfd20d3f448560c762d2cd435ee794",
-      "crc32": "a610a516",
-      "sha1": "f6f1dc047a73ddd85e4f60a81a92d8170df6d2f4",
+      "mtime": "1665404758",
+      "size": "339968",
+      "md5": "3e1c485768edc597db7b2720c193cda4",
+      "crc32": "658626f5",
+      "sha1": "df5f6b7e9a42637f7f84cf816479bafde87ed2d7",
       "format": "Metadata"
     },
     {
@@ -2534,9 +2596,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 245,
-  "item_last_updated": 1665359139,
-  "item_size": 16846962,
+  "files_count": 251,
+  "item_last_updated": 1665404845,
+  "item_size": 17306501,
   "metadata": {
     "identifier": "courier_tribune-2022",
     "collection": [
@@ -2553,10 +2615,10 @@
     "publicdate": "2022-09-20 22:13:47",
     "addeddate": "2022-09-20 22:13:47"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 127439780,
+  "server": "ia601404.us.archive.org",
+  "uniq": 642718443,
   "workable_servers": [
-    "ia801404.us.archive.org",
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }
