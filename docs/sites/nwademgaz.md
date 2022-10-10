@@ -437,7 +437,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 43 hyperlink lists with the Internet Archive.
+The archiving routine has saved 44 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 3:31 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-10-10T03:31:41.549402-05:00.hyperlinks.json) |
 | [October 9 at 2:25 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-10-09T02:25:23.321345-05:00.hyperlinks.json) |
 | [October 8 at 2:13 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-10-08T14:13:26.593783-05:00.hyperlinks.json) |
 | [October 8 at 2:18 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-10-08T02:17:53.622248-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 6 at 2:13 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-10-06T02:13:51.801379-05:00.hyperlinks.json) |
 | [October 5 at 3:40 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-10-05T15:40:01.255171-05:00.hyperlinks.json) |
 | [October 4 at 2:31 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-10-04T14:31:23.178591-05:00.hyperlinks.json) |
-| [October 3 at 2:20 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-10-03T14:20:08.561262-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 42 accessibility trees with the Internet Archive.
+The archiving routine has saved 43 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 3:31 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-10-10T03:31:41.549402-05:00.accessibility.json) |
 | [October 9 at 2:16 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-10-09T14:16:54.606736-05:00.accessibility.json) |
 | [October 9 at 2:25 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-10-09T02:25:23.321345-05:00.accessibility.json) |
 | [October 8 at 2:13 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-10-08T14:13:26.593783-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 5 at 3:40 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-10-05T15:40:01.255171-05:00.accessibility.json) |
 | [October 4 at 2:31 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-10-04T14:31:23.178591-05:00.accessibility.json) |
 | [October 4 at 2:44 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-10-04T02:43:56.814659-05:00.accessibility.json) |
-| [October 3 at 2:20 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-10-03T14:20:08.561262-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 56 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 57 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 3:31 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-10-10T03:31:41.549402-05:00.lighthouse.json) |
 | [October 9 at 2:16 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-10-09T14:16:54.606736-05:00.lighthouse.json) |
 | [October 9 at 2:25 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-10-09T02:25:23.321345-05:00.lighthouse.json) |
 | [October 8 at 2:13 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-10-08T14:13:26.593783-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 6 at 2:29 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-10-06T14:29:25.425279-05:00.lighthouse.json) |
 | [October 6 at 2:13 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-10-06T02:13:51.801379-05:00.lighthouse.json) |
 | [October 5 at 3:40 PM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-10-05T15:40:01.255171-05:00.lighthouse.json) |
-| [October 5 at 2:22 AM](https://archive.org/download/nwademgaz-2022/nwademgaz-2022-10-05T02:22:01.740647-05:00.lighthouse.json) |
 
 
 

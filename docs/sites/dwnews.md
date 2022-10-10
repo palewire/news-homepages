@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 117 screenshots with the Internet Archive.
+The archiving routine has saved 121 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/dwnews-2022/dwnews-2022-10-10T08:35:04.152691+02:00.jpg">
+  <img src="https://archive.org/download/dwnews-2022/dwnews-2022-10-10T08:35:04.152691+02:00.jpg"
+     alt="DW at 2022-10-10 08:35:08+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dwnews-2022/dwnews-2022-10-10T08:35:04.152691+02:00.jpg">October 10 at 8:35 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dwnews-2022/dwnews-2022-10-09T19:46:23.757910+02:00.jpg">
+  <img src="https://archive.org/download/dwnews-2022/dwnews-2022-10-09T19:46:23.757910+02:00.jpg"
+     alt="DW at 2022-10-09 19:46:28+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dwnews-2022/dwnews-2022-10-09T19:46:23.757910+02:00.jpg">October 9 at 7:46 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dwnews-2022/dwnews-2022-10-09T09:20:45.635070+02:00.jpg">
+  <img src="https://archive.org/download/dwnews-2022/dwnews-2022-10-09T09:20:45.635070+02:00.jpg"
+     alt="DW at 2022-10-09 09:20:51+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dwnews-2022/dwnews-2022-10-09T09:20:45.635070+02:00.jpg">October 9 at 9:20 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dwnews-2022/dwnews-2022-10-08T19:49:20.468260+02:00.jpg">
+  <img src="https://archive.org/download/dwnews-2022/dwnews-2022-10-08T19:49:20.468260+02:00.jpg"
+     alt="DW at 2022-10-08 19:49:25+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dwnews-2022/dwnews-2022-10-08T19:49:20.468260+02:00.jpg">October 8 at 7:49 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/dwnews-2022/dwnews-2022-10-08T07:54:34.522811+02:00.jpg">
   <img src="https://archive.org/download/dwnews-2022/dwnews-2022-10-08T07:54:34.522811+02:00.jpg"
      alt="DW at 2022-10-08 07:54:38+02:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dwnews-2022/dwnews-2022-10-04T20:01:41.137715+02:00.jpg">October 4 at 8:01 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dwnews-2022/dwnews-2022-10-04T09:00:48.806612+02:00.jpg">
-  <img src="https://archive.org/download/dwnews-2022/dwnews-2022-10-04T09:00:48.806612+02:00.jpg"
-     alt="DW at 2022-10-04 09:00:55+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dwnews-2022/dwnews-2022-10-04T09:00:48.806612+02:00.jpg">October 4 at 9:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dwnews-2022/dwnews-2022-10-03T20:04:02.318893+02:00.jpg">
-  <img src="https://archive.org/download/dwnews-2022/dwnews-2022-10-03T20:04:02.318893+02:00.jpg"
-     alt="DW at 2022-10-03 20:04:08+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dwnews-2022/dwnews-2022-10-03T20:04:02.318893+02:00.jpg">October 3 at 8:04 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dwnews-2022/dwnews-2022-10-03T08:02:49.316230+02:00.jpg">
-  <img src="https://archive.org/download/dwnews-2022/dwnews-2022-10-03T08:02:49.316230+02:00.jpg"
-     alt="DW at 2022-10-03 08:02:59+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dwnews-2022/dwnews-2022-10-03T08:02:49.316230+02:00.jpg">October 3 at 8:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dwnews-2022/dwnews-2022-10-02T19:40:08.026203+02:00.jpg">
-  <img src="https://archive.org/download/dwnews-2022/dwnews-2022-10-02T19:40:08.026203+02:00.jpg"
-     alt="DW at 2022-10-02 19:40:13+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dwnews-2022/dwnews-2022-10-02T19:40:08.026203+02:00.jpg">October 2 at 7:40 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 118 hyperlink lists with the Internet Archive.
+The archiving routine has saved 122 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 8:35 AM](https://archive.org/download/dwnews-2022/dwnews-2022-10-10T08:35:04.152691+02:00.hyperlinks.json) |
+| [October 9 at 7:46 PM](https://archive.org/download/dwnews-2022/dwnews-2022-10-09T19:46:23.757910+02:00.hyperlinks.json) |
+| [October 9 at 9:20 AM](https://archive.org/download/dwnews-2022/dwnews-2022-10-09T09:20:45.635070+02:00.hyperlinks.json) |
+| [October 8 at 7:49 PM](https://archive.org/download/dwnews-2022/dwnews-2022-10-08T19:49:20.468260+02:00.hyperlinks.json) |
 | [October 8 at 7:54 AM](https://archive.org/download/dwnews-2022/dwnews-2022-10-08T07:54:34.522811+02:00.hyperlinks.json) |
 | [October 7 at 8:16 PM](https://archive.org/download/dwnews-2022/dwnews-2022-10-07T20:16:04.071887+02:00.hyperlinks.json) |
 | [October 7 at 9:41 AM](https://archive.org/download/dwnews-2022/dwnews-2022-10-07T09:41:45.634899+02:00.hyperlinks.json) |
 | [October 6 at 8:00 PM](https://archive.org/download/dwnews-2022/dwnews-2022-10-06T20:00:16.867382+02:00.hyperlinks.json) |
 | [October 6 at 7:55 AM](https://archive.org/download/dwnews-2022/dwnews-2022-10-06T07:55:01.397851+02:00.hyperlinks.json) |
 | [October 5 at 10:02 PM](https://archive.org/download/dwnews-2022/dwnews-2022-10-05T22:02:00.885812+02:00.hyperlinks.json) |
-| [October 5 at 8:01 AM](https://archive.org/download/dwnews-2022/dwnews-2022-10-05T08:01:41.614807+02:00.hyperlinks.json) |
-| [October 4 at 8:02 PM](https://archive.org/download/dwnews-2022/dwnews-2022-10-04T20:01:41.137715+02:00.hyperlinks.json) |
-| [October 4 at 9:01 AM](https://archive.org/download/dwnews-2022/dwnews-2022-10-04T09:00:48.806612+02:00.hyperlinks.json) |
-| [October 3 at 8:04 PM](https://archive.org/download/dwnews-2022/dwnews-2022-10-03T20:04:02.318893+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 117 accessibility trees with the Internet Archive.
+The archiving routine has saved 121 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 8:35 AM](https://archive.org/download/dwnews-2022/dwnews-2022-10-10T08:35:04.152691+02:00.accessibility.json) |
+| [October 9 at 7:46 PM](https://archive.org/download/dwnews-2022/dwnews-2022-10-09T19:46:23.757910+02:00.accessibility.json) |
+| [October 9 at 9:20 AM](https://archive.org/download/dwnews-2022/dwnews-2022-10-09T09:20:45.635070+02:00.accessibility.json) |
+| [October 8 at 7:49 PM](https://archive.org/download/dwnews-2022/dwnews-2022-10-08T19:49:20.468260+02:00.accessibility.json) |
 | [October 8 at 7:54 AM](https://archive.org/download/dwnews-2022/dwnews-2022-10-08T07:54:34.522811+02:00.accessibility.json) |
 | [October 7 at 8:16 PM](https://archive.org/download/dwnews-2022/dwnews-2022-10-07T20:16:04.071887+02:00.accessibility.json) |
 | [October 7 at 9:41 AM](https://archive.org/download/dwnews-2022/dwnews-2022-10-07T09:41:45.634899+02:00.accessibility.json) |
 | [October 6 at 8:00 PM](https://archive.org/download/dwnews-2022/dwnews-2022-10-06T20:00:16.867382+02:00.accessibility.json) |
 | [October 6 at 7:55 AM](https://archive.org/download/dwnews-2022/dwnews-2022-10-06T07:55:01.397851+02:00.accessibility.json) |
 | [October 5 at 10:02 PM](https://archive.org/download/dwnews-2022/dwnews-2022-10-05T22:02:00.885812+02:00.accessibility.json) |
-| [October 5 at 8:01 AM](https://archive.org/download/dwnews-2022/dwnews-2022-10-05T08:01:41.614807+02:00.accessibility.json) |
-| [October 4 at 8:01 PM](https://archive.org/download/dwnews-2022/dwnews-2022-10-04T20:01:41.137715+02:00.accessibility.json) |
-| [October 4 at 9:00 AM](https://archive.org/download/dwnews-2022/dwnews-2022-10-04T09:00:48.806612+02:00.accessibility.json) |
-| [October 3 at 8:04 PM](https://archive.org/download/dwnews-2022/dwnews-2022-10-03T20:04:02.318893+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 117 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 121 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 8:35 AM](https://archive.org/download/dwnews-2022/dwnews-2022-10-10T08:35:04.152691+02:00.lighthouse.json) |
+| [October 9 at 7:46 PM](https://archive.org/download/dwnews-2022/dwnews-2022-10-09T19:46:23.757910+02:00.lighthouse.json) |
+| [October 9 at 9:20 AM](https://archive.org/download/dwnews-2022/dwnews-2022-10-09T09:20:45.635070+02:00.lighthouse.json) |
+| [October 8 at 7:49 PM](https://archive.org/download/dwnews-2022/dwnews-2022-10-08T19:49:20.468260+02:00.lighthouse.json) |
 | [October 8 at 7:54 AM](https://archive.org/download/dwnews-2022/dwnews-2022-10-08T07:54:34.522811+02:00.lighthouse.json) |
 | [October 7 at 8:16 PM](https://archive.org/download/dwnews-2022/dwnews-2022-10-07T20:16:04.071887+02:00.lighthouse.json) |
 | [October 7 at 9:41 AM](https://archive.org/download/dwnews-2022/dwnews-2022-10-07T09:41:45.634899+02:00.lighthouse.json) |
 | [October 6 at 8:00 PM](https://archive.org/download/dwnews-2022/dwnews-2022-10-06T20:00:16.867382+02:00.lighthouse.json) |
 | [October 6 at 7:55 AM](https://archive.org/download/dwnews-2022/dwnews-2022-10-06T07:55:01.397851+02:00.lighthouse.json) |
 | [October 5 at 10:02 PM](https://archive.org/download/dwnews-2022/dwnews-2022-10-05T22:02:00.885812+02:00.lighthouse.json) |
-| [October 5 at 8:01 AM](https://archive.org/download/dwnews-2022/dwnews-2022-10-05T08:01:41.614807+02:00.lighthouse.json) |
-| [October 4 at 8:02 PM](https://archive.org/download/dwnews-2022/dwnews-2022-10-04T20:01:41.137715+02:00.lighthouse.json) |
-| [October 4 at 9:01 AM](https://archive.org/download/dwnews-2022/dwnews-2022-10-04T09:00:48.806612+02:00.lighthouse.json) |
-| [October 3 at 8:04 PM](https://archive.org/download/dwnews-2022/dwnews-2022-10-03T20:04:02.318893+02:00.lighthouse.json) |
 
 
 

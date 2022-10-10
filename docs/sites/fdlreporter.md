@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 40 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-10T01:40:14.225071-05:00.jpg">
+  <img src="https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-10T01:40:14.225071-05:00.jpg"
+     alt="Fond du Lac Reporter at 2022-10-10 01:40:17-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-10T01:40:14.225071-05:00.jpg">October 10 at 1:40 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-09T12:51:04.817647-05:00.jpg">
+  <img src="https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-09T12:51:04.817647-05:00.jpg"
+     alt="Fond du Lac Reporter at 2022-10-09 12:51:07-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-09T12:51:04.817647-05:00.jpg">October 9 at 12:51 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-09T02:20:50.375902-05:00.jpg">
+  <img src="https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-09T02:20:50.375902-05:00.jpg"
+     alt="Fond du Lac Reporter at 2022-10-09 02:20:54-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-09T02:20:50.375902-05:00.jpg">October 9 at 2:20 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-08T12:54:08.927575-05:00.jpg">
+  <img src="https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-08T12:54:08.927575-05:00.jpg"
+     alt="Fond du Lac Reporter at 2022-10-08 12:54:11-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-08T12:54:08.927575-05:00.jpg">October 8 at 12:54 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-08T00:58:54.789342-05:00.jpg">
   <img src="https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-08T00:58:54.789342-05:00.jpg"
      alt="Fond du Lac Reporter at 2022-10-08 00:58:57-05:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-04T13:08:00.698807-05:00.jpg">October 4 at 1:08 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-04T02:01:31.303283-05:00.jpg">
-  <img src="https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-04T02:01:31.303283-05:00.jpg"
-     alt="Fond du Lac Reporter at 2022-10-04 02:01:32-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-04T02:01:31.303283-05:00.jpg">October 4 at 2:01 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-03T13:06:48.709865-05:00.jpg">
-  <img src="https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-03T13:06:48.709865-05:00.jpg"
-     alt="Fond du Lac Reporter at 2022-10-03 13:06:49-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-03T13:06:48.709865-05:00.jpg">October 3 at 1:06 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-03T01:04:51.783179-05:00.jpg">
-  <img src="https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-03T01:04:51.783179-05:00.jpg"
-     alt="Fond du Lac Reporter at 2022-10-03 01:04:53-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-03T01:04:51.783179-05:00.jpg">October 3 at 1:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-02T12:45:43.589911-05:00.jpg">
-  <img src="https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-02T12:45:43.589911-05:00.jpg"
-     alt="Fond du Lac Reporter at 2022-10-02 12:45:44-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-02T12:45:43.589911-05:00.jpg">October 2 at 12:45 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 35 hyperlink lists with the Internet Archive.
+The archiving routine has saved 39 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 1:40 AM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-10T01:40:14.225071-05:00.hyperlinks.json) |
+| [October 9 at 12:51 PM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-09T12:51:04.817647-05:00.hyperlinks.json) |
+| [October 9 at 2:20 AM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-09T02:20:50.375902-05:00.hyperlinks.json) |
+| [October 8 at 12:54 PM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-08T12:54:08.927575-05:00.hyperlinks.json) |
 | [October 8 at 12:59 AM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-08T00:58:54.789342-05:00.hyperlinks.json) |
 | [October 7 at 1:20 PM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-07T13:19:51.138749-05:00.hyperlinks.json) |
 | [October 7 at 2:42 AM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-07T02:42:27.350768-05:00.hyperlinks.json) |
 | [October 6 at 1:02 PM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-06T13:02:20.857901-05:00.hyperlinks.json) |
 | [October 6 at 1:00 AM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-06T01:00:03.308442-05:00.hyperlinks.json) |
 | [October 5 at 3:05 PM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-05T15:05:43.972461-05:00.hyperlinks.json) |
-| [October 5 at 1:06 AM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-05T01:06:41.709809-05:00.hyperlinks.json) |
-| [October 4 at 1:08 PM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-04T13:08:00.698807-05:00.hyperlinks.json) |
-| [October 4 at 2:01 AM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-04T02:01:31.303283-05:00.hyperlinks.json) |
-| [October 3 at 1:06 PM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-03T13:06:48.709865-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 36 accessibility trees with the Internet Archive.
+The archiving routine has saved 40 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 1:40 AM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-10T01:40:14.225071-05:00.accessibility.json) |
+| [October 9 at 12:51 PM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-09T12:51:04.817647-05:00.accessibility.json) |
+| [October 9 at 2:20 AM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-09T02:20:50.375902-05:00.accessibility.json) |
+| [October 8 at 12:54 PM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-08T12:54:08.927575-05:00.accessibility.json) |
 | [October 8 at 12:58 AM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-08T00:58:54.789342-05:00.accessibility.json) |
 | [October 7 at 1:20 PM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-07T13:19:51.138749-05:00.accessibility.json) |
 | [October 7 at 2:42 AM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-07T02:42:27.350768-05:00.accessibility.json) |
 | [October 6 at 1:02 PM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-06T13:02:20.857901-05:00.accessibility.json) |
 | [October 6 at 1:00 AM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-06T01:00:03.308442-05:00.accessibility.json) |
 | [October 5 at 3:05 PM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-05T15:05:43.972461-05:00.accessibility.json) |
-| [October 5 at 1:06 AM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-05T01:06:41.709809-05:00.accessibility.json) |
-| [October 4 at 1:08 PM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-04T13:08:00.698807-05:00.accessibility.json) |
-| [October 4 at 2:01 AM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-04T02:01:31.303283-05:00.accessibility.json) |
-| [October 3 at 1:06 PM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-03T13:06:48.709865-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 36 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 1:40 AM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-10T01:40:14.225071-05:00.lighthouse.json) |
+| [October 9 at 12:51 PM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-09T12:51:04.817647-05:00.lighthouse.json) |
+| [October 9 at 2:20 AM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-09T02:20:50.375902-05:00.lighthouse.json) |
+| [October 8 at 12:54 PM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-08T12:54:08.927575-05:00.lighthouse.json) |
 | [October 8 at 12:59 AM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-08T00:58:54.789342-05:00.lighthouse.json) |
 | [October 7 at 1:20 PM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-07T13:19:51.138749-05:00.lighthouse.json) |
 | [October 7 at 2:42 AM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-07T02:42:27.350768-05:00.lighthouse.json) |
 | [October 6 at 1:02 PM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-06T13:02:20.857901-05:00.lighthouse.json) |
 | [October 6 at 1:00 AM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-06T01:00:03.308442-05:00.lighthouse.json) |
 | [October 5 at 3:05 PM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-05T15:05:43.972461-05:00.lighthouse.json) |
-| [October 5 at 1:06 AM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-05T01:06:41.709809-05:00.lighthouse.json) |
-| [October 4 at 1:08 PM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-04T13:08:00.698807-05:00.lighthouse.json) |
-| [October 4 at 2:01 AM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-04T02:01:31.303283-05:00.lighthouse.json) |
-| [October 3 at 1:06 PM](https://archive.org/download/fdlreporter-2022/fdlreporter-2022-10-03T13:06:48.709865-05:00.lighthouse.json) |
 
 
 

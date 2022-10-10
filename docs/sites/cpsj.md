@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 40 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/cpsj-2022/cpsj-2022-10-10T02:29:29.782295-04:00.jpg">
+  <img src="https://archive.org/download/cpsj-2022/cpsj-2022-10-10T02:29:29.782295-04:00.jpg"
+     alt="Cherry Hill Courier Post at 2022-10-10 02:29:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cpsj-2022/cpsj-2022-10-10T02:29:29.782295-04:00.jpg">October 10 at 2:29 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cpsj-2022/cpsj-2022-10-09T13:39:42.738007-04:00.jpg">
+  <img src="https://archive.org/download/cpsj-2022/cpsj-2022-10-09T13:39:42.738007-04:00.jpg"
+     alt="Cherry Hill Courier Post at 2022-10-09 13:39:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cpsj-2022/cpsj-2022-10-09T13:39:42.738007-04:00.jpg">October 9 at 1:39 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cpsj-2022/cpsj-2022-10-09T03:17:40.850668-04:00.jpg">
+  <img src="https://archive.org/download/cpsj-2022/cpsj-2022-10-09T03:17:40.850668-04:00.jpg"
+     alt="Cherry Hill Courier Post at 2022-10-09 03:17:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cpsj-2022/cpsj-2022-10-09T03:17:40.850668-04:00.jpg">October 9 at 3:17 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cpsj-2022/cpsj-2022-10-08T13:43:30.484095-04:00.jpg">
+  <img src="https://archive.org/download/cpsj-2022/cpsj-2022-10-08T13:43:30.484095-04:00.jpg"
+     alt="Cherry Hill Courier Post at 2022-10-08 13:43:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cpsj-2022/cpsj-2022-10-08T13:43:30.484095-04:00.jpg">October 8 at 1:43 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/cpsj-2022/cpsj-2022-10-08T01:47:54.409392-04:00.jpg">
   <img src="https://archive.org/download/cpsj-2022/cpsj-2022-10-08T01:47:54.409392-04:00.jpg"
      alt="Cherry Hill Courier Post at 2022-10-08 01:47:56-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cpsj-2022/cpsj-2022-10-04T13:55:07.113697-04:00.jpg">October 4 at 1:55 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cpsj-2022/cpsj-2022-10-04T02:57:32.975446-04:00.jpg">
-  <img src="https://archive.org/download/cpsj-2022/cpsj-2022-10-04T02:57:32.975446-04:00.jpg"
-     alt="Cherry Hill Courier Post at 2022-10-04 02:57:34-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cpsj-2022/cpsj-2022-10-04T02:57:32.975446-04:00.jpg">October 4 at 2:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cpsj-2022/cpsj-2022-10-03T13:53:13.578650-04:00.jpg">
-  <img src="https://archive.org/download/cpsj-2022/cpsj-2022-10-03T13:53:13.578650-04:00.jpg"
-     alt="Cherry Hill Courier Post at 2022-10-03 13:53:16-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cpsj-2022/cpsj-2022-10-03T13:53:13.578650-04:00.jpg">October 3 at 1:53 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cpsj-2022/cpsj-2022-10-03T01:56:14.153670-04:00.jpg">
-  <img src="https://archive.org/download/cpsj-2022/cpsj-2022-10-03T01:56:14.153670-04:00.jpg"
-     alt="Cherry Hill Courier Post at 2022-10-03 01:56:15-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cpsj-2022/cpsj-2022-10-03T01:56:14.153670-04:00.jpg">October 3 at 1:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cpsj-2022/cpsj-2022-10-02T13:34:40.075426-04:00.jpg">
-  <img src="https://archive.org/download/cpsj-2022/cpsj-2022-10-02T13:34:40.075426-04:00.jpg"
-     alt="Cherry Hill Courier Post at 2022-10-02 13:34:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cpsj-2022/cpsj-2022-10-02T13:34:40.075426-04:00.jpg">October 2 at 1:34 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 36 hyperlink lists with the Internet Archive.
+The archiving routine has saved 40 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 2:29 AM](https://archive.org/download/cpsj-2022/cpsj-2022-10-10T02:29:29.782295-04:00.hyperlinks.json) |
+| [October 9 at 1:39 PM](https://archive.org/download/cpsj-2022/cpsj-2022-10-09T13:39:42.738007-04:00.hyperlinks.json) |
+| [October 9 at 3:17 AM](https://archive.org/download/cpsj-2022/cpsj-2022-10-09T03:17:40.850668-04:00.hyperlinks.json) |
+| [October 8 at 1:43 PM](https://archive.org/download/cpsj-2022/cpsj-2022-10-08T13:43:30.484095-04:00.hyperlinks.json) |
 | [October 8 at 1:47 AM](https://archive.org/download/cpsj-2022/cpsj-2022-10-08T01:47:54.409392-04:00.hyperlinks.json) |
 | [October 7 at 2:06 PM](https://archive.org/download/cpsj-2022/cpsj-2022-10-07T14:06:15.284190-04:00.hyperlinks.json) |
 | [October 7 at 3:39 AM](https://archive.org/download/cpsj-2022/cpsj-2022-10-07T03:39:34.574338-04:00.hyperlinks.json) |
 | [October 6 at 1:52 PM](https://archive.org/download/cpsj-2022/cpsj-2022-10-06T13:52:21.393030-04:00.hyperlinks.json) |
 | [October 6 at 1:49 AM](https://archive.org/download/cpsj-2022/cpsj-2022-10-06T01:49:35.942291-04:00.hyperlinks.json) |
 | [October 5 at 4:00 PM](https://archive.org/download/cpsj-2022/cpsj-2022-10-05T15:59:57.857238-04:00.hyperlinks.json) |
-| [October 5 at 1:55 AM](https://archive.org/download/cpsj-2022/cpsj-2022-10-05T01:55:48.542937-04:00.hyperlinks.json) |
-| [October 4 at 1:55 PM](https://archive.org/download/cpsj-2022/cpsj-2022-10-04T13:55:07.113697-04:00.hyperlinks.json) |
-| [October 4 at 2:57 AM](https://archive.org/download/cpsj-2022/cpsj-2022-10-04T02:57:32.975446-04:00.hyperlinks.json) |
-| [October 3 at 1:53 PM](https://archive.org/download/cpsj-2022/cpsj-2022-10-03T13:53:13.578650-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 36 accessibility trees with the Internet Archive.
+The archiving routine has saved 40 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 2:29 AM](https://archive.org/download/cpsj-2022/cpsj-2022-10-10T02:29:29.782295-04:00.accessibility.json) |
+| [October 9 at 1:39 PM](https://archive.org/download/cpsj-2022/cpsj-2022-10-09T13:39:42.738007-04:00.accessibility.json) |
+| [October 9 at 3:17 AM](https://archive.org/download/cpsj-2022/cpsj-2022-10-09T03:17:40.850668-04:00.accessibility.json) |
+| [October 8 at 1:43 PM](https://archive.org/download/cpsj-2022/cpsj-2022-10-08T13:43:30.484095-04:00.accessibility.json) |
 | [October 8 at 1:47 AM](https://archive.org/download/cpsj-2022/cpsj-2022-10-08T01:47:54.409392-04:00.accessibility.json) |
 | [October 7 at 2:06 PM](https://archive.org/download/cpsj-2022/cpsj-2022-10-07T14:06:15.284190-04:00.accessibility.json) |
 | [October 7 at 3:39 AM](https://archive.org/download/cpsj-2022/cpsj-2022-10-07T03:39:34.574338-04:00.accessibility.json) |
 | [October 6 at 1:52 PM](https://archive.org/download/cpsj-2022/cpsj-2022-10-06T13:52:21.393030-04:00.accessibility.json) |
 | [October 6 at 1:49 AM](https://archive.org/download/cpsj-2022/cpsj-2022-10-06T01:49:35.942291-04:00.accessibility.json) |
 | [October 5 at 4:00 PM](https://archive.org/download/cpsj-2022/cpsj-2022-10-05T15:59:57.857238-04:00.accessibility.json) |
-| [October 5 at 1:55 AM](https://archive.org/download/cpsj-2022/cpsj-2022-10-05T01:55:48.542937-04:00.accessibility.json) |
-| [October 4 at 1:55 PM](https://archive.org/download/cpsj-2022/cpsj-2022-10-04T13:55:07.113697-04:00.accessibility.json) |
-| [October 4 at 2:57 AM](https://archive.org/download/cpsj-2022/cpsj-2022-10-04T02:57:32.975446-04:00.accessibility.json) |
-| [October 3 at 1:53 PM](https://archive.org/download/cpsj-2022/cpsj-2022-10-03T13:53:13.578650-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 36 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 2:29 AM](https://archive.org/download/cpsj-2022/cpsj-2022-10-10T02:29:29.782295-04:00.lighthouse.json) |
+| [October 9 at 1:39 PM](https://archive.org/download/cpsj-2022/cpsj-2022-10-09T13:39:42.738007-04:00.lighthouse.json) |
+| [October 9 at 3:17 AM](https://archive.org/download/cpsj-2022/cpsj-2022-10-09T03:17:40.850668-04:00.lighthouse.json) |
+| [October 8 at 1:43 PM](https://archive.org/download/cpsj-2022/cpsj-2022-10-08T13:43:30.484095-04:00.lighthouse.json) |
 | [October 8 at 1:48 AM](https://archive.org/download/cpsj-2022/cpsj-2022-10-08T01:47:54.409392-04:00.lighthouse.json) |
 | [October 7 at 2:06 PM](https://archive.org/download/cpsj-2022/cpsj-2022-10-07T14:06:15.284190-04:00.lighthouse.json) |
 | [October 7 at 3:39 AM](https://archive.org/download/cpsj-2022/cpsj-2022-10-07T03:39:34.574338-04:00.lighthouse.json) |
 | [October 6 at 1:52 PM](https://archive.org/download/cpsj-2022/cpsj-2022-10-06T13:52:21.393030-04:00.lighthouse.json) |
 | [October 6 at 1:49 AM](https://archive.org/download/cpsj-2022/cpsj-2022-10-06T01:49:35.942291-04:00.lighthouse.json) |
 | [October 5 at 4:00 PM](https://archive.org/download/cpsj-2022/cpsj-2022-10-05T15:59:57.857238-04:00.lighthouse.json) |
-| [October 5 at 1:55 AM](https://archive.org/download/cpsj-2022/cpsj-2022-10-05T01:55:48.542937-04:00.lighthouse.json) |
-| [October 4 at 1:55 PM](https://archive.org/download/cpsj-2022/cpsj-2022-10-04T13:55:07.113697-04:00.lighthouse.json) |
-| [October 4 at 2:57 AM](https://archive.org/download/cpsj-2022/cpsj-2022-10-04T02:57:32.975446-04:00.lighthouse.json) |
-| [October 3 at 1:53 PM](https://archive.org/download/cpsj-2022/cpsj-2022-10-03T13:53:13.578650-04:00.lighthouse.json) |
 
 
 

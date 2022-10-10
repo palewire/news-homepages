@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 183 screenshots with the Internet Archive.
+The archiving routine has saved 185 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-10-10T03:24:51.532486-05:00.jpg">
+  <img src="https://archive.org/download/thelensnola-2022/thelensnola-2022-10-10T03:24:51.532486-05:00.jpg"
+     alt="Lens at 2022-10-10 03:25:10-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-10-10T03:24:51.532486-05:00.jpg">October 10 at 3:25 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-10-09T14:58:15.433751-05:00.jpg">
+  <img src="https://archive.org/download/thelensnola-2022/thelensnola-2022-10-09T14:58:15.433751-05:00.jpg"
+     alt="Lens at 2022-10-09 14:58:17-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-10-09T14:58:15.433751-05:00.jpg">October 9 at 2:58 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-10-09T02:31:15.934397-05:00.jpg">
   <img src="https://archive.org/download/thelensnola-2022/thelensnola-2022-10-09T02:31:15.934397-05:00.jpg"
      alt="Lens at 2022-10-09 02:31:22-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-10-04T15:07:46.817100-05:00.jpg">October 4 at 3:07 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-10-04T02:53:58.959824-05:00.jpg">
-  <img src="https://archive.org/download/thelensnola-2022/thelensnola-2022-10-04T02:53:58.959824-05:00.jpg"
-     alt="Lens at 2022-10-04 02:54:03-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-10-04T02:53:58.959824-05:00.jpg">October 4 at 2:54 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-10-03T14:10:32.848997-05:00.jpg">
-  <img src="https://archive.org/download/thelensnola-2022/thelensnola-2022-10-03T14:10:32.848997-05:00.jpg"
-     alt="Lens at 2022-10-03 14:10:50-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thelensnola-2022/thelensnola-2022-10-03T14:10:32.848997-05:00.jpg">October 3 at 2:10 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 184 hyperlink lists with the Internet Archive.
+The archiving routine has saved 186 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 3:25 AM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-10T03:24:51.532486-05:00.hyperlinks.json) |
+| [October 9 at 2:58 PM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-09T14:58:15.433751-05:00.hyperlinks.json) |
 | [October 9 at 2:31 AM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-09T02:31:15.934397-05:00.hyperlinks.json) |
 | [October 8 at 2:09 PM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-08T14:09:13.504547-05:00.hyperlinks.json) |
 | [October 8 at 2:13 AM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-08T02:13:01.052548-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 6 at 3:31 PM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-06T15:31:25.969027-05:00.hyperlinks.json) |
 | [October 6 at 2:21 AM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-06T02:21:12.272157-05:00.hyperlinks.json) |
 | [October 5 at 3:51 PM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-05T15:51:23.784360-05:00.hyperlinks.json) |
-| [October 5 at 2:30 AM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-05T02:30:29.888072-05:00.hyperlinks.json) |
-| [October 4 at 3:07 PM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-04T15:07:46.817100-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 183 accessibility trees with the Internet Archive.
+The archiving routine has saved 185 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 3:25 AM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-10T03:24:51.532486-05:00.accessibility.json) |
+| [October 9 at 2:58 PM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-09T14:58:15.433751-05:00.accessibility.json) |
 | [October 9 at 2:31 AM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-09T02:31:15.934397-05:00.accessibility.json) |
 | [October 8 at 2:09 PM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-08T14:09:13.504547-05:00.accessibility.json) |
 | [October 8 at 2:13 AM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-08T02:13:01.052548-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 6 at 3:31 PM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-06T15:31:25.969027-05:00.accessibility.json) |
 | [October 6 at 2:21 AM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-06T02:21:12.272157-05:00.accessibility.json) |
 | [October 5 at 3:51 PM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-05T15:51:23.784360-05:00.accessibility.json) |
-| [October 5 at 2:30 AM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-05T02:30:29.888072-05:00.accessibility.json) |
-| [October 4 at 3:07 PM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-04T15:07:46.817100-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 154 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 156 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 3:25 AM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-10T03:24:51.532486-05:00.lighthouse.json) |
+| [October 9 at 2:58 PM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-09T14:58:15.433751-05:00.lighthouse.json) |
 | [October 9 at 2:31 AM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-09T02:31:15.934397-05:00.lighthouse.json) |
 | [October 8 at 2:09 PM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-08T14:09:13.504547-05:00.lighthouse.json) |
 | [October 8 at 2:13 AM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-08T02:13:01.052548-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 6 at 3:31 PM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-06T15:31:25.969027-05:00.lighthouse.json) |
 | [October 6 at 2:21 AM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-06T02:21:12.272157-05:00.lighthouse.json) |
 | [October 5 at 3:51 PM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-05T15:51:23.784360-05:00.lighthouse.json) |
-| [October 5 at 2:30 AM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-05T02:30:29.888072-05:00.lighthouse.json) |
-| [October 4 at 3:07 PM](https://archive.org/download/thelensnola-2022/thelensnola-2022-10-04T15:07:46.817100-05:00.lighthouse.json) |
 
 
 

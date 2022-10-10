@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 154 screenshots with the Internet Archive.
+The archiving routine has saved 156 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-10T04:31:07.216271-04:00.jpg">
+  <img src="https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-10T04:31:07.216271-04:00.jpg"
+     alt="York Dispatch at 2022-10-10 04:31:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-10T04:31:07.216271-04:00.jpg">October 10 at 4:31 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-09T16:02:22.795699-04:00.jpg">
+  <img src="https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-09T16:02:22.795699-04:00.jpg"
+     alt="York Dispatch at 2022-10-09 16:02:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-09T16:02:22.795699-04:00.jpg">October 9 at 4:02 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-09T03:35:27.359734-04:00.jpg">
   <img src="https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-09T03:35:27.359734-04:00.jpg"
      alt="York Dispatch at 2022-10-09 03:35:32-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-04T16:12:11.162999-04:00.jpg">October 4 at 4:12 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-04T03:56:00.410515-04:00.jpg">
-  <img src="https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-04T03:56:00.410515-04:00.jpg"
-     alt="York Dispatch at 2022-10-04 03:56:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-04T03:56:00.410515-04:00.jpg">October 4 at 3:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-03T15:17:44.868516-04:00.jpg">
-  <img src="https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-03T15:17:44.868516-04:00.jpg"
-     alt="York Dispatch at 2022-10-03 15:17:46-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-03T15:17:44.868516-04:00.jpg">October 3 at 3:17 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 153 hyperlink lists with the Internet Archive.
+The archiving routine has saved 155 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 4:31 AM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-10T04:31:07.216271-04:00.hyperlinks.json) |
+| [October 9 at 4:02 PM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-09T16:02:22.795699-04:00.hyperlinks.json) |
 | [October 9 at 3:35 AM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-09T03:35:27.359734-04:00.hyperlinks.json) |
 | [October 8 at 3:13 PM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-08T15:12:59.333140-04:00.hyperlinks.json) |
 | [October 8 at 3:15 AM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-08T03:15:29.257178-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 6 at 4:33 PM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-06T16:33:25.529743-04:00.hyperlinks.json) |
 | [October 6 at 3:26 AM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-06T03:25:59.788195-04:00.hyperlinks.json) |
 | [October 5 at 4:54 PM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-05T16:54:00.587481-04:00.hyperlinks.json) |
-| [October 5 at 3:35 AM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-05T03:34:58.743259-04:00.hyperlinks.json) |
-| [October 4 at 4:12 PM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-04T16:12:11.162999-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 155 accessibility trees with the Internet Archive.
+The archiving routine has saved 157 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 4:31 AM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-10T04:31:07.216271-04:00.accessibility.json) |
+| [October 9 at 4:02 PM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-09T16:02:22.795699-04:00.accessibility.json) |
 | [October 9 at 3:35 AM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-09T03:35:27.359734-04:00.accessibility.json) |
 | [October 8 at 3:13 PM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-08T15:12:59.333140-04:00.accessibility.json) |
 | [October 8 at 3:15 AM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-08T03:15:29.257178-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 6 at 4:33 PM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-06T16:33:25.529743-04:00.accessibility.json) |
 | [October 6 at 3:26 AM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-06T03:25:59.788195-04:00.accessibility.json) |
 | [October 5 at 4:54 PM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-05T16:54:00.587481-04:00.accessibility.json) |
-| [October 5 at 3:35 AM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-05T03:34:58.743259-04:00.accessibility.json) |
-| [October 4 at 4:12 PM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-04T16:12:11.162999-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 153 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 155 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 4:31 AM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-10T04:31:07.216271-04:00.lighthouse.json) |
+| [October 9 at 4:02 PM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-09T16:02:22.795699-04:00.lighthouse.json) |
 | [October 9 at 3:35 AM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-09T03:35:27.359734-04:00.lighthouse.json) |
 | [October 8 at 3:13 PM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-08T15:12:59.333140-04:00.lighthouse.json) |
 | [October 8 at 3:15 AM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-08T03:15:29.257178-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 6 at 4:33 PM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-06T16:33:25.529743-04:00.lighthouse.json) |
 | [October 6 at 3:26 AM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-06T03:25:59.788195-04:00.lighthouse.json) |
 | [October 5 at 4:54 PM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-05T16:54:00.587481-04:00.lighthouse.json) |
-| [October 5 at 3:35 AM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-05T03:34:58.743259-04:00.lighthouse.json) |
-| [October 4 at 4:12 PM](https://archive.org/download/yorkdispatch-2022/yorkdispatch-2022-10-04T16:12:11.162999-04:00.lighthouse.json) |
 
 
 

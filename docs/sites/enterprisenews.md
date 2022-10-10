@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 40 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-10T02:39:46.564692-04:00.jpg">
+  <img src="https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-10T02:39:46.564692-04:00.jpg"
+     alt="The Enterprise at 2022-10-10 02:39:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-10T02:39:46.564692-04:00.jpg">October 10 at 2:39 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-09T13:46:19.941728-04:00.jpg">
+  <img src="https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-09T13:46:19.941728-04:00.jpg"
+     alt="The Enterprise at 2022-10-09 13:46:22-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-09T13:46:19.941728-04:00.jpg">October 9 at 1:46 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-09T03:20:52.466480-04:00.jpg">
+  <img src="https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-09T03:20:52.466480-04:00.jpg"
+     alt="The Enterprise at 2022-10-09 03:20:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-09T03:20:52.466480-04:00.jpg">October 9 at 3:20 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-08T13:54:11.582838-04:00.jpg">
+  <img src="https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-08T13:54:11.582838-04:00.jpg"
+     alt="The Enterprise at 2022-10-08 13:54:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-08T13:54:11.582838-04:00.jpg">October 8 at 1:54 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-08T01:58:54.067391-04:00.jpg">
   <img src="https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-08T01:58:54.067391-04:00.jpg"
      alt="The Enterprise at 2022-10-08 01:58:56-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-04T14:08:01.946488-04:00.jpg">October 4 at 2:08 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-04T03:00:05.771751-04:00.jpg">
-  <img src="https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-04T03:00:05.771751-04:00.jpg"
-     alt="The Enterprise at 2022-10-04 03:00:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-04T03:00:05.771751-04:00.jpg">October 4 at 3:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-03T14:03:39.355283-04:00.jpg">
-  <img src="https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-03T14:03:39.355283-04:00.jpg"
-     alt="The Enterprise at 2022-10-03 14:03:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-03T14:03:39.355283-04:00.jpg">October 3 at 2:03 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-03T02:04:17.028634-04:00.jpg">
-  <img src="https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-03T02:04:17.028634-04:00.jpg"
-     alt="The Enterprise at 2022-10-03 02:04:22-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-03T02:04:17.028634-04:00.jpg">October 3 at 2:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-02T13:45:26.611766-04:00.jpg">
-  <img src="https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-02T13:45:26.611766-04:00.jpg"
-     alt="The Enterprise at 2022-10-02 13:45:29-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-02T13:45:26.611766-04:00.jpg">October 2 at 1:45 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 36 hyperlink lists with the Internet Archive.
+The archiving routine has saved 40 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 2:39 AM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-10T02:39:46.564692-04:00.hyperlinks.json) |
+| [October 9 at 1:46 PM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-09T13:46:19.941728-04:00.hyperlinks.json) |
+| [October 9 at 3:20 AM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-09T03:20:52.466480-04:00.hyperlinks.json) |
+| [October 8 at 1:54 PM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-08T13:54:11.582838-04:00.hyperlinks.json) |
 | [October 8 at 1:59 AM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-08T01:58:54.067391-04:00.hyperlinks.json) |
 | [October 7 at 2:17 PM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-07T14:16:24.434994-04:00.hyperlinks.json) |
 | [October 7 at 3:42 AM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-07T03:42:08.480598-04:00.hyperlinks.json) |
 | [October 6 at 2:02 PM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-06T14:02:31.164814-04:00.hyperlinks.json) |
 | [October 6 at 1:55 AM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-06T01:55:43.504206-04:00.hyperlinks.json) |
 | [October 5 at 4:04 PM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-05T16:04:48.453649-04:00.hyperlinks.json) |
-| [October 5 at 2:04 AM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-05T02:04:53.933778-04:00.hyperlinks.json) |
-| [October 4 at 2:08 PM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-04T14:08:01.946488-04:00.hyperlinks.json) |
-| [October 4 at 3:00 AM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-04T03:00:05.771751-04:00.hyperlinks.json) |
-| [October 3 at 2:03 PM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-03T14:03:39.355283-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 36 accessibility trees with the Internet Archive.
+The archiving routine has saved 40 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 2:39 AM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-10T02:39:46.564692-04:00.accessibility.json) |
+| [October 9 at 1:46 PM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-09T13:46:19.941728-04:00.accessibility.json) |
+| [October 9 at 3:20 AM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-09T03:20:52.466480-04:00.accessibility.json) |
+| [October 8 at 1:54 PM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-08T13:54:11.582838-04:00.accessibility.json) |
 | [October 8 at 1:58 AM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-08T01:58:54.067391-04:00.accessibility.json) |
 | [October 7 at 2:16 PM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-07T14:16:24.434994-04:00.accessibility.json) |
 | [October 7 at 3:42 AM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-07T03:42:08.480598-04:00.accessibility.json) |
 | [October 6 at 2:02 PM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-06T14:02:31.164814-04:00.accessibility.json) |
 | [October 6 at 1:55 AM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-06T01:55:43.504206-04:00.accessibility.json) |
 | [October 5 at 4:04 PM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-05T16:04:48.453649-04:00.accessibility.json) |
-| [October 5 at 2:04 AM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-05T02:04:53.933778-04:00.accessibility.json) |
-| [October 4 at 2:08 PM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-04T14:08:01.946488-04:00.accessibility.json) |
-| [October 4 at 3:00 AM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-04T03:00:05.771751-04:00.accessibility.json) |
-| [October 3 at 2:03 PM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-03T14:03:39.355283-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 36 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 2:39 AM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-10T02:39:46.564692-04:00.lighthouse.json) |
+| [October 9 at 1:46 PM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-09T13:46:19.941728-04:00.lighthouse.json) |
+| [October 9 at 3:20 AM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-09T03:20:52.466480-04:00.lighthouse.json) |
+| [October 8 at 1:54 PM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-08T13:54:11.582838-04:00.lighthouse.json) |
 | [October 8 at 1:59 AM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-08T01:58:54.067391-04:00.lighthouse.json) |
 | [October 7 at 2:17 PM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-07T14:16:24.434994-04:00.lighthouse.json) |
 | [October 7 at 3:42 AM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-07T03:42:08.480598-04:00.lighthouse.json) |
 | [October 6 at 2:02 PM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-06T14:02:31.164814-04:00.lighthouse.json) |
 | [October 6 at 1:55 AM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-06T01:55:43.504206-04:00.lighthouse.json) |
 | [October 5 at 4:04 PM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-05T16:04:48.453649-04:00.lighthouse.json) |
-| [October 5 at 2:04 AM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-05T02:04:53.933778-04:00.lighthouse.json) |
-| [October 4 at 2:08 PM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-04T14:08:01.946488-04:00.lighthouse.json) |
-| [October 4 at 3:00 AM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-04T03:00:05.771751-04:00.lighthouse.json) |
-| [October 3 at 2:03 PM](https://archive.org/download/enterprisenews-2022/enterprisenews-2022-10-03T14:03:39.355283-04:00.lighthouse.json) |
 
 
 

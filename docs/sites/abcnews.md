@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 150 screenshots with the Internet Archive.
+The archiving routine has saved 151 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 150 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/abcnews-2022/abcnews-2022-10-10T17:20:01.734070+11:00.jpg">
+  <img src="https://archive.org/download/abcnews-2022/abcnews-2022-10-10T17:20:01.734070+11:00.jpg"
+     alt="ABC News at 2022-10-10 17:20:11+11:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abcnews-2022/abcnews-2022-10-10T17:20:01.734070+11:00.jpg">October 10 at 5:20 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abcnews-2022/abcnews-2022-10-10T02:57:31.070320+11:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/abcnews-2022/abcnews-2022-10-05T03:14:03.282222+11:00.jpg">October 5 at 3:14 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/abcnews-2022/abcnews-2022-10-04T16:18:19.629590+11:00.jpg">
-  <img src="https://archive.org/download/abcnews-2022/abcnews-2022-10-04T16:18:19.629590+11:00.jpg"
-     alt="ABC News at 2022-10-04 16:18:32+11:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abcnews-2022/abcnews-2022-10-04T16:18:19.629590+11:00.jpg">October 4 at 4:18 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 151 hyperlink lists with the Internet Archive.
+The archiving routine has saved 152 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 5:20 PM](https://archive.org/download/abcnews-2022/abcnews-2022-10-10T17:20:01.734070+11:00.hyperlinks.json) |
 | [October 10 at 2:57 AM](https://archive.org/download/abcnews-2022/abcnews-2022-10-10T02:57:31.070320+11:00.hyperlinks.json) |
 | [October 9 at 4:10 PM](https://archive.org/download/abcnews-2022/abcnews-2022-10-09T16:10:50.242933+11:00.hyperlinks.json) |
 | [October 9 at 3:09 AM](https://archive.org/download/abcnews-2022/abcnews-2022-10-09T03:09:23.035050+11:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 7 at 3:01 AM](https://archive.org/download/abcnews-2022/abcnews-2022-10-07T03:00:50.748868+11:00.hyperlinks.json) |
 | [October 6 at 3:20 PM](https://archive.org/download/abcnews-2022/abcnews-2022-10-06T15:20:43.887845+11:00.hyperlinks.json) |
 | [October 6 at 3:31 AM](https://archive.org/download/abcnews-2022/abcnews-2022-10-06T03:30:50.963321+11:00.hyperlinks.json) |
-| [October 5 at 3:17 PM](https://archive.org/download/abcnews-2022/abcnews-2022-10-05T15:17:07.590669+11:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 150 accessibility trees with the Internet Archive.
+The archiving routine has saved 151 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 5:20 PM](https://archive.org/download/abcnews-2022/abcnews-2022-10-10T17:20:01.734070+11:00.accessibility.json) |
 | [October 10 at 2:57 AM](https://archive.org/download/abcnews-2022/abcnews-2022-10-10T02:57:31.070320+11:00.accessibility.json) |
 | [October 9 at 4:10 PM](https://archive.org/download/abcnews-2022/abcnews-2022-10-09T16:10:50.242933+11:00.accessibility.json) |
 | [October 9 at 3:09 AM](https://archive.org/download/abcnews-2022/abcnews-2022-10-09T03:09:23.035050+11:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 7 at 3:01 AM](https://archive.org/download/abcnews-2022/abcnews-2022-10-07T03:00:50.748868+11:00.accessibility.json) |
 | [October 6 at 3:20 PM](https://archive.org/download/abcnews-2022/abcnews-2022-10-06T15:20:43.887845+11:00.accessibility.json) |
 | [October 6 at 3:31 AM](https://archive.org/download/abcnews-2022/abcnews-2022-10-06T03:30:50.963321+11:00.accessibility.json) |
-| [October 5 at 3:17 PM](https://archive.org/download/abcnews-2022/abcnews-2022-10-05T15:17:07.590669+11:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 151 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 152 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 5:20 PM](https://archive.org/download/abcnews-2022/abcnews-2022-10-10T17:20:01.734070+11:00.lighthouse.json) |
 | [October 10 at 2:57 AM](https://archive.org/download/abcnews-2022/abcnews-2022-10-10T02:57:31.070320+11:00.lighthouse.json) |
 | [October 9 at 4:11 PM](https://archive.org/download/abcnews-2022/abcnews-2022-10-09T16:10:50.242933+11:00.lighthouse.json) |
 | [October 9 at 3:09 AM](https://archive.org/download/abcnews-2022/abcnews-2022-10-09T03:09:23.035050+11:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 7 at 3:01 AM](https://archive.org/download/abcnews-2022/abcnews-2022-10-07T03:00:50.748868+11:00.lighthouse.json) |
 | [October 6 at 3:20 PM](https://archive.org/download/abcnews-2022/abcnews-2022-10-06T15:20:43.887845+11:00.lighthouse.json) |
 | [October 6 at 3:31 AM](https://archive.org/download/abcnews-2022/abcnews-2022-10-06T03:30:50.963321+11:00.lighthouse.json) |
-| [October 5 at 3:17 PM](https://archive.org/download/abcnews-2022/abcnews-2022-10-05T15:17:07.590669+11:00.lighthouse.json) |
 
 
 

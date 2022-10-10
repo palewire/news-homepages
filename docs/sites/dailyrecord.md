@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 40 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-10T02:32:38.310961-04:00.jpg">
+  <img src="https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-10T02:32:38.310961-04:00.jpg"
+     alt="Parsippany Daily Record at 2022-10-10 02:32:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-10T02:32:38.310961-04:00.jpg">October 10 at 2:32 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-09T13:41:34.727567-04:00.jpg">
+  <img src="https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-09T13:41:34.727567-04:00.jpg"
+     alt="Parsippany Daily Record at 2022-10-09 13:41:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-09T13:41:34.727567-04:00.jpg">October 9 at 1:41 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-09T03:18:54.148093-04:00.jpg">
+  <img src="https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-09T03:18:54.148093-04:00.jpg"
+     alt="Parsippany Daily Record at 2022-10-09 03:18:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-09T03:18:54.148093-04:00.jpg">October 9 at 3:18 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-08T13:48:42.947038-04:00.jpg">
+  <img src="https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-08T13:48:42.947038-04:00.jpg"
+     alt="Parsippany Daily Record at 2022-10-08 13:48:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-08T13:48:42.947038-04:00.jpg">October 8 at 1:48 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-08T01:47:57.363492-04:00.jpg">
   <img src="https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-08T01:47:57.363492-04:00.jpg"
      alt="Parsippany Daily Record at 2022-10-08 01:48:03-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-04T14:01:24.162704-04:00.jpg">October 4 at 2:01 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-04T02:57:33.480075-04:00.jpg">
-  <img src="https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-04T02:57:33.480075-04:00.jpg"
-     alt="Parsippany Daily Record at 2022-10-04 02:57:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-04T02:57:33.480075-04:00.jpg">October 4 at 2:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-03T13:57:44.425258-04:00.jpg">
-  <img src="https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-03T13:57:44.425258-04:00.jpg"
-     alt="Parsippany Daily Record at 2022-10-03 13:57:46-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-03T13:57:44.425258-04:00.jpg">October 3 at 1:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-03T01:56:14.889585-04:00.jpg">
-  <img src="https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-03T01:56:14.889585-04:00.jpg"
-     alt="Parsippany Daily Record at 2022-10-03 01:56:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-03T01:56:14.889585-04:00.jpg">October 3 at 1:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-02T13:36:05.969712-04:00.jpg">
-  <img src="https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-02T13:36:05.969712-04:00.jpg"
-     alt="Parsippany Daily Record at 2022-10-02 13:36:09-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-02T13:36:05.969712-04:00.jpg">October 2 at 1:36 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 36 hyperlink lists with the Internet Archive.
+The archiving routine has saved 40 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 2:32 AM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-10T02:32:38.310961-04:00.hyperlinks.json) |
+| [October 9 at 1:41 PM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-09T13:41:34.727567-04:00.hyperlinks.json) |
+| [October 9 at 3:19 AM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-09T03:18:54.148093-04:00.hyperlinks.json) |
+| [October 8 at 1:48 PM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-08T13:48:42.947038-04:00.hyperlinks.json) |
 | [October 8 at 1:48 AM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-08T01:47:57.363492-04:00.hyperlinks.json) |
 | [October 7 at 2:06 PM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-07T14:06:08.432485-04:00.hyperlinks.json) |
 | [October 7 at 3:39 AM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-07T03:39:23.266580-04:00.hyperlinks.json) |
 | [October 6 at 1:57 PM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-06T13:57:09.965560-04:00.hyperlinks.json) |
 | [October 6 at 1:49 AM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-06T01:49:52.105450-04:00.hyperlinks.json) |
 | [October 5 at 4:01 PM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-05T16:01:47.204953-04:00.hyperlinks.json) |
-| [October 5 at 1:56 AM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-05T01:56:12.161780-04:00.hyperlinks.json) |
-| [October 4 at 2:01 PM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-04T14:01:24.162704-04:00.hyperlinks.json) |
-| [October 4 at 2:57 AM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-04T02:57:33.480075-04:00.hyperlinks.json) |
-| [October 3 at 1:57 PM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-03T13:57:44.425258-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 36 accessibility trees with the Internet Archive.
+The archiving routine has saved 40 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 2:32 AM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-10T02:32:38.310961-04:00.accessibility.json) |
+| [October 9 at 1:41 PM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-09T13:41:34.727567-04:00.accessibility.json) |
+| [October 9 at 3:18 AM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-09T03:18:54.148093-04:00.accessibility.json) |
+| [October 8 at 1:48 PM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-08T13:48:42.947038-04:00.accessibility.json) |
 | [October 8 at 1:48 AM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-08T01:47:57.363492-04:00.accessibility.json) |
 | [October 7 at 2:06 PM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-07T14:06:08.432485-04:00.accessibility.json) |
 | [October 7 at 3:39 AM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-07T03:39:23.266580-04:00.accessibility.json) |
 | [October 6 at 1:57 PM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-06T13:57:09.965560-04:00.accessibility.json) |
 | [October 6 at 1:49 AM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-06T01:49:52.105450-04:00.accessibility.json) |
 | [October 5 at 4:01 PM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-05T16:01:47.204953-04:00.accessibility.json) |
-| [October 5 at 1:56 AM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-05T01:56:12.161780-04:00.accessibility.json) |
-| [October 4 at 2:01 PM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-04T14:01:24.162704-04:00.accessibility.json) |
-| [October 4 at 2:57 AM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-04T02:57:33.480075-04:00.accessibility.json) |
-| [October 3 at 1:57 PM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-03T13:57:44.425258-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 36 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 2:32 AM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-10T02:32:38.310961-04:00.lighthouse.json) |
+| [October 9 at 1:41 PM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-09T13:41:34.727567-04:00.lighthouse.json) |
+| [October 9 at 3:19 AM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-09T03:18:54.148093-04:00.lighthouse.json) |
+| [October 8 at 1:48 PM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-08T13:48:42.947038-04:00.lighthouse.json) |
 | [October 8 at 1:48 AM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-08T01:47:57.363492-04:00.lighthouse.json) |
 | [October 7 at 2:06 PM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-07T14:06:08.432485-04:00.lighthouse.json) |
 | [October 7 at 3:39 AM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-07T03:39:23.266580-04:00.lighthouse.json) |
 | [October 6 at 1:57 PM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-06T13:57:09.965560-04:00.lighthouse.json) |
 | [October 6 at 1:49 AM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-06T01:49:52.105450-04:00.lighthouse.json) |
 | [October 5 at 4:01 PM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-05T16:01:47.204953-04:00.lighthouse.json) |
-| [October 5 at 1:56 AM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-05T01:56:12.161780-04:00.lighthouse.json) |
-| [October 4 at 2:01 PM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-04T14:01:24.162704-04:00.lighthouse.json) |
-| [October 4 at 2:57 AM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-04T02:57:33.480075-04:00.lighthouse.json) |
-| [October 3 at 1:57 PM](https://archive.org/download/dailyrecord-2022/dailyrecord-2022-10-03T13:57:44.425258-04:00.lighthouse.json) |
 
 
 
