@@ -1,5 +1,5 @@
 {
-  "created": 1665415023,
+  "created": 1665437008,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/13/items/newshour-2022",
@@ -23922,31 +23922,93 @@
       "sha1": "98944572d9cc6a24d0f8a159c77ca16f02cd43e1"
     },
     {
+      "name": "newshour-2022-10-10T17:20:52.987383-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665436857",
+      "size": "32488",
+      "md5": "3cf172436b26cf6307389e32ef1a4378",
+      "crc32": "a96c4527",
+      "sha1": "fcd6826c4f5eca594236b785147757496346bd71",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-10-10T17:20:52.987383-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665436858",
+      "size": "38618",
+      "md5": "cd9897c47e0701cb233fd6640051157a",
+      "crc32": "9ab647f2",
+      "sha1": "86d1f187b7900031b883a711d934111a8a726998",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-10-10T17:20:52.987383-04:00.jpg",
+      "source": "original",
+      "mtime": "1665436855",
+      "size": "313002",
+      "md5": "e98bb8bdcb6857a46abae5e247d1aa57",
+      "crc32": "93544ec6",
+      "sha1": "a8edca6ab70535e42131d3f29fc9a700921e1c47",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newshour-2022-10-10T17:20:52.987383-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665436860",
+      "size": "1513",
+      "md5": "26a4459290452f2e8a60367b30796387",
+      "crc32": "e54347f0",
+      "sha1": "f04b7e442983f132eb1c853540b2c60721609eb8",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-10-10T17:20:52.987383-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665436862",
+      "size": "20029",
+      "md5": "4fae4d78eed457fc7c94111ba8f8ed8b",
+      "crc32": "b6ef7250",
+      "sha1": "b29424ad754d0d87ee5a3a25a370586d071efc3b",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-10-10T17:20:52.987383-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newshour-2022-10-10T17:20:52.987383-04:00.jpg",
+      "mtime": "1665436960",
+      "size": "11068",
+      "md5": "9cf07a4435142686debac6268d83e828",
+      "crc32": "7a6f4f63",
+      "sha1": "e4633708e77a485b160e6ad247ef87bad2f63045"
+    },
+    {
       "name": "newshour-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3699426b909360849fb997ba93a23b8704897996",
-      "mtime": "1665411821",
-      "size": "487232",
-      "md5": "1a6889137efecf48b902fca050c40a70",
-      "crc32": "c2426b4c",
-      "sha1": "ccfc00fa45ca3100086fa7ac9051434026baa486",
+      "btih": "2f41f6db2ddbced7cbfc9a4d9167ea808b915883",
+      "mtime": "1665437001",
+      "size": "488480",
+      "md5": "fcc34aefa9ce16b36234332a219a5562",
+      "crc32": "97c92dc8",
+      "sha1": "44c948221726ba0bc2778fd4dbde644758a750e4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newshour-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b771bc37a611a7eb8b0d4b4bff436b02",
+      "md5": "67b0837283df6076fd36d459d54da7d0",
       "summation": "md5"
     },
     {
       "name": "newshour-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665411621",
-      "size": "2863104",
-      "md5": "82c3cbf09e2b5840966dcbf877953a74",
-      "crc32": "a3339170",
-      "sha1": "791c080bda24af41d4ddf9bf3437aa6fb9a7b6d2",
+      "mtime": "1665436868",
+      "size": "2871296",
+      "md5": "9348e5407c124d04a73f3c97cd6783cc",
+      "crc32": "001a6127",
+      "sha1": "b792151bafb8fcbcbff22dad2528f35dfc2ecf06",
       "format": "Metadata"
     },
     {
@@ -23960,9 +24022,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2309,
-  "item_last_updated": 1665411821,
-  "item_size": 178844135,
+  "files_count": 2315,
+  "item_last_updated": 1665437001,
+  "item_size": 179270293,
   "metadata": {
     "identifier": "newshour-2022",
     "collection": [
@@ -23979,24 +24041,8 @@
     "publicdate": "2022-06-24 22:58:21",
     "addeddate": "2022-06-24 22:58:21"
   },
-  "newshour-2022": {
-    "url": "https://www.pbs.org/newshour/",
-    "job_id": "spn2-b5ce7ac23e5492f094796e3558a12dc8a57e6bd4",
-    "outlinks": [],
-    "screenshot": "http://web.archive.org/screenshot/https://www.pbs.org/newshour/",
-    "original_url": "https://www.pbs.org/newshour/",
-    "http_status": 200,
-    "status": "success",
-    "counters": {
-      "embeds": 115,
-      "outlinks": 70
-    },
-    "resources": [],
-    "duration_sec": 11.118,
-    "timestamp": "20221010131805"
-  },
   "server": "ia902505.us.archive.org",
-  "uniq": 1593457460,
+  "uniq": 899751290,
   "workable_servers": [
     "ia902505.us.archive.org",
     "ia802505.us.archive.org"
