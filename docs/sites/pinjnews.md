@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 89 screenshots with the Internet Archive.
+The archiving routine has saved 90 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 89 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-10-10T10:26:56.356553-04:00.jpg">
+  <img src="https://archive.org/download/pinjnews-2022/pinjnews-2022-10-10T10:26:56.356553-04:00.jpg"
+     alt="Pittsburgh Institute for Nonprofit Journalism at 2022-10-10 10:26:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-10-10T10:26:56.356553-04:00.jpg">October 10 at 10:26 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-10-09T22:36:25.578328-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-10-04T22:31:40.430901-04:00.jpg">October 4 at 10:31 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-10-04T10:15:41.910184-04:00.jpg">
-  <img src="https://archive.org/download/pinjnews-2022/pinjnews-2022-10-04T10:15:41.910184-04:00.jpg"
-     alt="Pittsburgh Institute for Nonprofit Journalism at 2022-10-04 10:15:48-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-10-04T10:15:41.910184-04:00.jpg">October 4 at 10:15 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 88 hyperlink lists with the Internet Archive.
+The archiving routine has saved 89 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 10:27 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-10-10T10:26:56.356553-04:00.hyperlinks.json) |
 | [October 9 at 10:36 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-10-09T22:36:25.578328-04:00.hyperlinks.json) |
 | [October 9 at 10:01 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-10-09T10:01:32.344242-04:00.hyperlinks.json) |
 | [October 8 at 10:32 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-10-08T22:31:55.570493-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 6 at 10:47 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-10-06T22:47:13.123582-04:00.hyperlinks.json) |
 | [October 6 at 10:15 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-10-06T10:15:13.225782-04:00.hyperlinks.json) |
 | [October 5 at 10:35 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-10-05T22:35:50.489826-04:00.hyperlinks.json) |
-| [October 5 at 10:20 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-10-05T10:20:20.643763-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 89 accessibility trees with the Internet Archive.
+The archiving routine has saved 90 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 10:27 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-10-10T10:26:56.356553-04:00.accessibility.json) |
 | [October 9 at 10:36 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-10-09T22:36:25.578328-04:00.accessibility.json) |
 | [October 9 at 10:01 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-10-09T10:01:32.344242-04:00.accessibility.json) |
 | [October 8 at 10:32 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-10-08T22:31:55.570493-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 6 at 10:47 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-10-06T22:47:13.123582-04:00.accessibility.json) |
 | [October 6 at 10:15 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-10-06T10:15:13.225782-04:00.accessibility.json) |
 | [October 5 at 10:35 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-10-05T22:35:50.489826-04:00.accessibility.json) |
-| [October 5 at 10:20 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-10-05T10:20:20.643763-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 89 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 90 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 10:27 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-10-10T10:26:56.356553-04:00.lighthouse.json) |
 | [October 9 at 10:36 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-10-09T22:36:25.578328-04:00.lighthouse.json) |
 | [October 9 at 10:01 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-10-09T10:01:32.344242-04:00.lighthouse.json) |
 | [October 8 at 10:32 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-10-08T22:31:55.570493-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 6 at 10:47 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-10-06T22:47:13.123582-04:00.lighthouse.json) |
 | [October 6 at 10:15 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-10-06T10:15:13.225782-04:00.lighthouse.json) |
 | [October 5 at 10:35 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-10-05T22:35:50.489826-04:00.lighthouse.json) |
-| [October 5 at 10:20 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-10-05T10:20:20.643763-04:00.lighthouse.json) |
 
 
 
