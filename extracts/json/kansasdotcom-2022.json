@@ -1,5 +1,5 @@
 {
-  "created": 1665336940,
+  "created": 1665425133,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/12/items/kansasdotcom-2022",
@@ -8072,31 +8072,155 @@
       "sha1": "abcfa2c289b8f984a470182077fdbbb88bec31c4"
     },
     {
+      "name": "kansasdotcom-2022-10-10T03:16:01.203463-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665389770",
+      "size": "454",
+      "md5": "5a25a8ad7f70c07008dc9c4c7a10c8c6",
+      "crc32": "7a734030",
+      "sha1": "1b6d8fcbeb27736dbbea39bbeead1e2d447ea89d",
+      "format": "JSON"
+    },
+    {
+      "name": "kansasdotcom-2022-10-10T03:16:01.203463-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665389772",
+      "size": "36621",
+      "md5": "659bd733259c974d55c9b3b358de4686",
+      "crc32": "86942367",
+      "sha1": "e43951e6e8c33eec7e2d1851e536390919deb417",
+      "format": "JSON"
+    },
+    {
+      "name": "kansasdotcom-2022-10-10T03:16:01.203463-05:00.jpg",
+      "source": "original",
+      "mtime": "1665389768",
+      "size": "252192",
+      "md5": "956547b9543e78d0bcbb7a1ce517bddc",
+      "crc32": "484e2dd4",
+      "sha1": "99edeffd28cdd331000631a57b82b29108a5fa95",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kansasdotcom-2022-10-10T03:16:01.203463-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665389773",
+      "size": "1459",
+      "md5": "9705f99f6035699e9e43dc4bc85caa46",
+      "crc32": "549f378d",
+      "sha1": "43e0616e26d11daebd552d233c2e0164c71b196b",
+      "format": "JSON"
+    },
+    {
+      "name": "kansasdotcom-2022-10-10T03:16:01.203463-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665389775",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "kansasdotcom-2022-10-10T03:16:01.203463-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kansasdotcom-2022-10-10T03:16:01.203463-05:00.jpg",
+      "mtime": "1665389836",
+      "size": "9602",
+      "md5": "75c81370901726e810b2b76c48ff6504",
+      "crc32": "7beae3fc",
+      "sha1": "caa6e644f2be1288d2475b50c1a3e23c34791a18"
+    },
+    {
+      "name": "kansasdotcom-2022-10-10T13:03:13.769182-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665425002",
+      "size": "454",
+      "md5": "5fc3b8f51390abbc4c2773f5709f309f",
+      "crc32": "e9217c14",
+      "sha1": "424090be102131bf1b74be0336182426677f74d4",
+      "format": "JSON"
+    },
+    {
+      "name": "kansasdotcom-2022-10-10T13:03:13.769182-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665425003",
+      "size": "37479",
+      "md5": "5b35984ac994e2e09195a5e0fec59c2c",
+      "crc32": "6b8c614b",
+      "sha1": "9f32694c3c7b3073975739840da8eb0c5904728f",
+      "format": "JSON"
+    },
+    {
+      "name": "kansasdotcom-2022-10-10T13:03:13.769182-05:00.jpg",
+      "source": "original",
+      "mtime": "1665425000",
+      "size": "282186",
+      "md5": "76f5d008e28298ceb4b547202027f160",
+      "crc32": "50900547",
+      "sha1": "5abf8ad3970c9cc6a59520bc51aaf01e7c7f0693",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kansasdotcom-2022-10-10T13:03:13.769182-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665425005",
+      "size": "1459",
+      "md5": "47e6263f8877dd41b55e80042c428d7b",
+      "crc32": "78e8ca90",
+      "sha1": "58123b136f205c231dc9e1604a799521e15ab229",
+      "format": "JSON"
+    },
+    {
+      "name": "kansasdotcom-2022-10-10T13:03:13.769182-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665425006",
+      "size": "60742",
+      "md5": "b7bf0182be9cffe8f28a7f337f4aacf5",
+      "crc32": "6a83fe31",
+      "sha1": "fdfd62967472a4659ced18260ff4d944e8caa455",
+      "format": "JSON"
+    },
+    {
+      "name": "kansasdotcom-2022-10-10T13:03:13.769182-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kansasdotcom-2022-10-10T13:03:13.769182-05:00.jpg",
+      "mtime": "1665425072",
+      "size": "10020",
+      "md5": "e3c732a1b1a7a7495e0e2e6e78f98a77",
+      "crc32": "5c403330",
+      "sha1": "f66f7a95396a97c6c8626b6f6e762bd78effa24c"
+    },
+    {
       "name": "kansasdotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f5588270c4e0ff069a1f6d3ebc3f952bc2c0187a",
-      "mtime": "1665336933",
-      "size": "168146",
-      "md5": "356a58169291493b9b160cc0d76aadf8",
-      "crc32": "1b0500b3",
-      "sha1": "4c3edce30092deeef55a8a4bafd9a593bb52a15b",
+      "btih": "40ca3740a481ba753561a1e4417cd305d1deffa1",
+      "mtime": "1665425114",
+      "size": "170703",
+      "md5": "0c5ba1ba7995d4cb7236fde2da70ae6f",
+      "crc32": "85ac8c18",
+      "sha1": "db9b407e700b8c6142f65e3b29ffd7eb95d07458",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kansasdotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "299716e5b4cc674bbb8eb315e21c83b0",
+      "md5": "065d0c574aa6b3bb8ba529f45ef159cc",
       "summation": "md5"
     },
     {
       "name": "kansasdotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665336876",
-      "size": "1007616",
-      "md5": "64ecfce1d72c6f9e925b06d75eb019eb",
-      "crc32": "bf713410",
-      "sha1": "c75ae416a8f95cbd0383fddacada00f8bbca22dc",
+      "mtime": "1665425011",
+      "size": "1024000",
+      "md5": "06f68484523df4c9f35aae3ce2ef3799",
+      "crc32": "2d69e71d",
+      "sha1": "b352df63a41d95a56f574f94a42aa450ba0f286a",
       "format": "Metadata"
     },
     {
@@ -8110,9 +8234,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 784,
-  "item_last_updated": 1665336933,
-  "item_size": 49105831,
+  "files_count": 796,
+  "item_last_updated": 1665425114,
+  "item_size": 49817642,
   "metadata": {
     "identifier": "kansasdotcom-2022",
     "collection": [
@@ -8130,7 +8254,7 @@
     "addeddate": "2022-08-03 18:53:47"
   },
   "server": "ia801401.us.archive.org",
-  "uniq": 717011594,
+  "uniq": 327227165,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

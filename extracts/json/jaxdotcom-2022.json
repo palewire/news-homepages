@@ -1,5 +1,5 @@
 {
-  "created": 1665336922,
+  "created": 1665431092,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/10/items/jaxdotcom-2022",
@@ -2434,31 +2434,155 @@
       "sha1": "333720927d7b955a2eb72a2b591d5b8c2cf852fd"
     },
     {
+      "name": "jaxdotcom-2022-10-10T04:15:35.876943-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665389739",
+      "size": "24287",
+      "md5": "98f542148009072120a78712d2ba02a3",
+      "crc32": "64191bef",
+      "sha1": "ddad05375c81a1e06eb6ea68f4d3efec0fdd8e40",
+      "format": "JSON"
+    },
+    {
+      "name": "jaxdotcom-2022-10-10T04:15:35.876943-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665389741",
+      "size": "32961",
+      "md5": "ccc6852ee939e723043f13c76e243efe",
+      "crc32": "70eaa306",
+      "sha1": "ac3fa5fe07c9648300026534439954947a9d7a43",
+      "format": "JSON"
+    },
+    {
+      "name": "jaxdotcom-2022-10-10T04:15:35.876943-04:00.jpg",
+      "source": "original",
+      "mtime": "1665389737",
+      "size": "319662",
+      "md5": "56c00b4e3c3849862a34ee245b680965",
+      "crc32": "ddf35119",
+      "sha1": "103bb99848273d58fc6a3cf2978ff52ebbecbb59",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jaxdotcom-2022-10-10T04:15:35.876943-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665389742",
+      "size": "1513",
+      "md5": "28a2d0a68b9aa2c6359e9cafe540d50a",
+      "crc32": "a8d98803",
+      "sha1": "b6ce8a4216c1ad76fb3fc9fa9a25273a03ef7912",
+      "format": "JSON"
+    },
+    {
+      "name": "jaxdotcom-2022-10-10T04:15:35.876943-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665389744",
+      "size": "91630",
+      "md5": "5ac1f7c9042561c20bb1845eb7207d34",
+      "crc32": "23ca8e89",
+      "sha1": "53736281249672debf3cc49f8ed40485f042a4c1",
+      "format": "JSON"
+    },
+    {
+      "name": "jaxdotcom-2022-10-10T04:15:35.876943-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jaxdotcom-2022-10-10T04:15:35.876943-04:00.jpg",
+      "mtime": "1665389793",
+      "size": "9507",
+      "md5": "e2966356dad6a2a7974e07c8f849914e",
+      "crc32": "980dfb04",
+      "sha1": "d76177221d7912d5e2d97f77316f61d893235f08"
+    },
+    {
+      "name": "jaxdotcom-2022-10-10T14:00:38.183710-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665424843",
+      "size": "22901",
+      "md5": "252abef8e55c055305cff72945350b2d",
+      "crc32": "1a8ebbae",
+      "sha1": "25c42b9825acc0c3761a266525255cb574ee5a6a",
+      "format": "JSON"
+    },
+    {
+      "name": "jaxdotcom-2022-10-10T14:00:38.183710-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665424845",
+      "size": "38361",
+      "md5": "d66694e4d6dede69deb9dd756900e2df",
+      "crc32": "1823a242",
+      "sha1": "f638d40e1a0061978e03ff52bf004c6703c4691d",
+      "format": "JSON"
+    },
+    {
+      "name": "jaxdotcom-2022-10-10T14:00:38.183710-04:00.jpg",
+      "source": "original",
+      "mtime": "1665424841",
+      "size": "273206",
+      "md5": "cf43328ebd1a3522bc2af0bb5e37ef62",
+      "crc32": "726666f4",
+      "sha1": "396951bd369f8fd17f1bebdb5b22bb9c9a75db7b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jaxdotcom-2022-10-10T14:00:38.183710-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665424847",
+      "size": "1512",
+      "md5": "fad5aefa29724ef3a28c3a85f5cf1db8",
+      "crc32": "5fd87a07",
+      "sha1": "e06e83c8497116d613d498a32279a9f7eec5caa0",
+      "format": "JSON"
+    },
+    {
+      "name": "jaxdotcom-2022-10-10T14:00:38.183710-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665424849",
+      "size": "209",
+      "md5": "b253c927ec0a3671e634ae69296b3326",
+      "crc32": "011215ba",
+      "sha1": "875faab0396e5b611b48ca23beb3d6be772ac717",
+      "format": "JSON"
+    },
+    {
+      "name": "jaxdotcom-2022-10-10T14:00:38.183710-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jaxdotcom-2022-10-10T14:00:38.183710-04:00.jpg",
+      "mtime": "1665424898",
+      "size": "9492",
+      "md5": "013b3753fd16f8a8a48904386b395991",
+      "crc32": "2ee0c596",
+      "sha1": "5d1f1d62bfdb1666ccc4844300ed3f972555b677"
+    },
+    {
       "name": "jaxdotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "32379898f773b772f5189ca5886d841cb407a976",
-      "mtime": "1665336917",
-      "size": "51095",
-      "md5": "5b113f05eaae9b310376fd780d7b6da7",
-      "crc32": "cd3d7078",
-      "sha1": "49125b257a44c92ecd4cc861e4d35d345842dd45",
+      "btih": "de483a9490007a4cef9cab3ef9a4f776825ac592",
+      "mtime": "1665424902",
+      "size": "53639",
+      "md5": "a38b978371b9cf146458231f87ab2bfe",
+      "crc32": "16f901da",
+      "sha1": "a335e41c2b2a583ba24d369812f1ede01475664a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jaxdotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7550a932a31f325b941d3d455570e00f",
+      "md5": "9dad205883412af405ef35d97a49c597",
       "summation": "md5"
     },
     {
       "name": "jaxdotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665336869",
-      "size": "319488",
-      "md5": "b01c734bb83c4d9f94d9bf3561c2cda3",
-      "crc32": "cda10c9e",
-      "sha1": "a32e5a2797c32496044d41dc3717025d0f3707a0",
+      "mtime": "1665424852",
+      "size": "335872",
+      "md5": "4fa9620197205ad088224a339de271b6",
+      "crc32": "1a373e50",
+      "sha1": "d46ca1c57147be0cc03eb367a94bd15dadd58124",
       "format": "Metadata"
     },
     {
@@ -2472,9 +2596,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 239,
-  "item_last_updated": 1665336917,
-  "item_size": 16119246,
+  "files_count": 251,
+  "item_last_updated": 1665424902,
+  "item_size": 16963415,
+  "jaxdotcom-2022": {
+    "url": "https://www.jacksonville.com/",
+    "job_id": "spn2-7b2b34d2a86ec93efdccb97cddc50c51104e19fb",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "resources": [],
+    "message": "Job failed."
+  },
   "metadata": {
     "identifier": "jaxdotcom-2022",
     "collection": [
@@ -2492,7 +2624,7 @@
     "addeddate": "2022-09-20 17:32:08"
   },
   "server": "ia801401.us.archive.org",
-  "uniq": 305423629,
+  "uniq": 1590900158,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

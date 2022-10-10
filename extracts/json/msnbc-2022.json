@@ -1,5 +1,5 @@
 {
-  "created": 1665408747,
+  "created": 1665427106,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/6/items/msnbc-2022",
@@ -41874,31 +41874,93 @@
       "sha1": "673df0c3b90f10132c1f8eeead59973cebfd86a7"
     },
     {
+      "name": "msnbc-2022-10-10T14:15:07.329862-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665425715",
+      "size": "54059",
+      "md5": "3e55cbaaaabcea2f86e621fef7ee0322",
+      "crc32": "7e356fc3",
+      "sha1": "a60d1ba2e69fb6da6fa96a7b399f7d323b807422",
+      "format": "JSON"
+    },
+    {
+      "name": "msnbc-2022-10-10T14:15:07.329862-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665425719",
+      "size": "68702",
+      "md5": "149ac8945efcdec74dcb5ec3580faf36",
+      "crc32": "3cf086be",
+      "sha1": "4cdf7279e4e9d68710467270c7e5c82e24ccaba7",
+      "format": "JSON"
+    },
+    {
+      "name": "msnbc-2022-10-10T14:15:07.329862-04:00.jpg",
+      "source": "original",
+      "mtime": "1665425711",
+      "size": "296448",
+      "md5": "9189788880c644f0d7bbc39772c01c10",
+      "crc32": "52799707",
+      "sha1": "2d30ab043bf7254adc878a77352b7768ac4cadc6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "msnbc-2022-10-10T14:15:07.329862-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665425723",
+      "size": "1450",
+      "md5": "df1e42cc5dcd26183e86ea1dc23f74cf",
+      "crc32": "49efc4a7",
+      "sha1": "6940aa8f7af1c473b5d88a649ea4739be53fb565",
+      "format": "JSON"
+    },
+    {
+      "name": "msnbc-2022-10-10T14:15:07.329862-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665425727",
+      "size": "74525",
+      "md5": "9656cca3f74ddbe845900ab99839f67b",
+      "crc32": "0a163ead",
+      "sha1": "2b20360a64ec3032f51dfd33ebe444dde9c75653",
+      "format": "JSON"
+    },
+    {
+      "name": "msnbc-2022-10-10T14:15:07.329862-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "msnbc-2022-10-10T14:15:07.329862-04:00.jpg",
+      "mtime": "1665426876",
+      "size": "10349",
+      "md5": "e8696b9cc201cc62138274345adeaf3c",
+      "crc32": "ff84e2a9",
+      "sha1": "6be928539b400c3f4cf85106a3627f9811f223f7"
+    },
+    {
       "name": "msnbc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "83f2f0fc8bf951648c0de372b408fea447d5a036",
-      "mtime": "1665408725",
-      "size": "838320",
-      "md5": "ff91f673f5e2562262b464c6a38aa53a",
-      "crc32": "622757f3",
-      "sha1": "50b7afeff7bf2d0ad0b955e1f10f5812ca0de8e1",
+      "btih": "0e63f767ba48cb016331139daa8dd8ca62c88523",
+      "mtime": "1665427076",
+      "size": "839570",
+      "md5": "87c24348fc47ad4a0d62e47df12cf6fd",
+      "crc32": "75ae283d",
+      "sha1": "6940f7cd14b23850fb4f82fef5c386d537248bca",
       "format": "Archive BitTorrent"
     },
     {
       "name": "msnbc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dbfae49a79d5f2d5c2250b0cc61f241e",
+      "md5": "e5b4e64993523340f2960adb3be60d3b",
       "summation": "md5"
     },
     {
       "name": "msnbc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665408402",
-      "size": "4804608",
-      "md5": "566bcdc304841fb7ccc2e814d697941f",
-      "crc32": "d0fba5c3",
-      "sha1": "51d83a7f58202133dab5895960c1ff17fb11fe1a",
+      "mtime": "1665425785",
+      "size": "4812800",
+      "md5": "0bca46ee018c0edaa7341c00d1243c4f",
+      "crc32": "9ef27a98",
+      "sha1": "13d8c08197791aaa63d41a62abe798e2ce85ff2f",
       "format": "Metadata"
     },
     {
@@ -41912,9 +41974,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 4021,
-  "item_last_updated": 1665408725,
-  "item_size": 392503517,
+  "files_count": 4027,
+  "item_last_updated": 1665427076,
+  "item_size": 393018492,
   "metadata": {
     "identifier": "msnbc-2022",
     "collection": [
@@ -41931,10 +41993,10 @@
     "publicdate": "2022-03-23 01:46:13",
     "addeddate": "2022-03-23 01:46:13"
   },
-  "server": "ia801504.us.archive.org",
-  "uniq": 755476454,
+  "server": "ia601504.us.archive.org",
+  "uniq": 1204887215,
   "workable_servers": [
-    "ia801504.us.archive.org",
-    "ia601504.us.archive.org"
+    "ia601504.us.archive.org",
+    "ia801504.us.archive.org"
   ]
 }
