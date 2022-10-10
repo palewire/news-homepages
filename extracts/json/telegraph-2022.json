@@ -1,5 +1,5 @@
 {
-  "created": 1665394169,
+  "created": 1665419427,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/4/items/telegraph-2022",
@@ -26620,31 +26620,93 @@
       "sha1": "528aad0cbbed0ec70a8e2775be4b120fbaa92c36"
     },
     {
+      "name": "telegraph-2022-10-10T16:15:57.916104+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665414961",
+      "size": "33094",
+      "md5": "6d1a0cea62a8d99f6dd2023b250630a6",
+      "crc32": "55ad44e6",
+      "sha1": "d890b5cc03752a8bdd3795bc03f139dc82bccc99",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-10-10T16:15:57.916104+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665414963",
+      "size": "29687",
+      "md5": "e076d4fe937d952f62fbf7998f483738",
+      "crc32": "16e216a0",
+      "sha1": "ca9fd86b058188723947e44648dac6d01b591f12",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-10-10T16:15:57.916104+01:00.jpg",
+      "source": "original",
+      "mtime": "1665414959",
+      "size": "322954",
+      "md5": "fbfb92aac816c735d730d2e297635715",
+      "crc32": "c07ea413",
+      "sha1": "0f96b4c2679a52cea4e63189a9bbb4443553f5a6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraph-2022-10-10T16:15:57.916104+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665414965",
+      "size": "1504",
+      "md5": "71fd951efe1bbbf73df86e3e1526016f",
+      "crc32": "05ab1202",
+      "sha1": "658522b79e89e3dbd7dca70bd224d6900078ece4",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-10-10T16:15:57.916104+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1665414967",
+      "size": "104",
+      "md5": "460a24d8be0fbf3c2064cd2a7f402134",
+      "crc32": "eca38d95",
+      "sha1": "b7d346c6cf1da703648f1f77ac6390edf9f746e8",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-10-10T16:15:57.916104+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraph-2022-10-10T16:15:57.916104+01:00.jpg",
+      "mtime": "1665415070",
+      "size": "9413",
+      "md5": "88d27c523a45cdde0a4167263b180eb0",
+      "crc32": "fb97da1e",
+      "sha1": "af3e19ce80f3180708bee3eb2213a5fab4669a52"
+    },
+    {
       "name": "telegraph-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e6ffccced91cfa36433b830d3d3de1b8798947c1",
-      "mtime": "1665394152",
-      "size": "542191",
-      "md5": "a8a4bba53d30712549174ac454893e22",
-      "crc32": "333a40a7",
-      "sha1": "4e0fcec21936625cb972c7611f35f4391cc5dafb",
+      "btih": "9906ea40c5217cd81b7dea574305f29d8c54dfc8",
+      "mtime": "1665415203",
+      "size": "543462",
+      "md5": "15d23253801822efe1408a29dcd7f183",
+      "crc32": "7145dabd",
+      "sha1": "6e444e0d125c12d8fd150ba030aa56013162cdba",
       "format": "Archive BitTorrent"
     },
     {
       "name": "telegraph-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3080be0243463c0b80a2791fbdff83a2",
+      "md5": "5043ce5b4b7f711cd29ca400d9ffe92b",
       "summation": "md5"
     },
     {
       "name": "telegraph-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665394002",
-      "size": "3084288",
-      "md5": "a4853b4890ef7f6ffb253b55e689100d",
-      "crc32": "dea2e12d",
-      "sha1": "4b511127b7179bd7cda9b3f4cb6352afd79f6b15",
+      "mtime": "1665414972",
+      "size": "3092480",
+      "md5": "a1b8bbf3907c2685f310f19649aab301",
+      "crc32": "2f30dc54",
+      "sha1": "2962eea1c37e13d6fcda3b62df31c4e828c83dd4",
       "format": "Metadata"
     },
     {
@@ -26658,9 +26720,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2558,
-  "item_last_updated": 1665394152,
-  "item_size": 221024577,
+  "files_count": 2564,
+  "item_last_updated": 1665415203,
+  "item_size": 221430796,
   "metadata": {
     "identifier": "telegraph-2022",
     "collection": [
@@ -26678,9 +26740,13 @@
     "addeddate": "2022-03-23 08:03:49"
   },
   "server": "ia801504.us.archive.org",
-  "uniq": 116644483,
+  "servers_unavailable": true,
+  "telegraph-2022": {
+    "url": "https://www.telegraph.co.uk/",
+    "job_id": "spn2-a17aa1aabb5b574b66704e186c5511cbd2274952"
+  },
+  "uniq": 1975191726,
   "workable_servers": [
-    "ia801504.us.archive.org",
-    "ia601504.us.archive.org"
+    "ia801504.us.archive.org"
   ]
 }

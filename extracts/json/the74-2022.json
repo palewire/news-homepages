@@ -1,5 +1,5 @@
 {
-  "created": 1665374023,
+  "created": 1665419469,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/35/items/the74-2022",
@@ -10694,31 +10694,93 @@
       "sha1": "426777cf4b9ca362073ec6b4b3be675115097d81"
     },
     {
+      "name": "the74-2022-10-10T11:22:18.196752-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665415352",
+      "size": "31159",
+      "md5": "e661b749cde49232965920e8d65b1728",
+      "crc32": "73662115",
+      "sha1": "95a9356cec4bd0bb004d0c2f2166524fda29eb51",
+      "format": "JSON"
+    },
+    {
+      "name": "the74-2022-10-10T11:22:18.196752-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665415354",
+      "size": "71863",
+      "md5": "ace1b80f762f0944d179a4ded78b3e41",
+      "crc32": "456a0037",
+      "sha1": "b916fcd6170f04d38a6dc34d2049b396b14aef07",
+      "format": "JSON"
+    },
+    {
+      "name": "the74-2022-10-10T11:22:18.196752-04:00.jpg",
+      "source": "original",
+      "mtime": "1665415350",
+      "size": "270454",
+      "md5": "19614360b2c9114bc147b72ab812d887",
+      "crc32": "f2f0ebb5",
+      "sha1": "f0ff8a43d884da338d2c7dec6be29cafa10a284f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the74-2022-10-10T11:22:18.196752-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665415355",
+      "size": "1501",
+      "md5": "3fc42642c3cac99a4f440deb068332d7",
+      "crc32": "3b730275",
+      "sha1": "58923e6d59b8c6defaa99a1dc9f9f1cb3475041c",
+      "format": "JSON"
+    },
+    {
+      "name": "the74-2022-10-10T11:22:18.196752-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665415357",
+      "size": "105",
+      "md5": "dd7c7ed378b50b295f9a9d270ea71e5b",
+      "crc32": "afc98579",
+      "sha1": "e348b6d813e77e762fae725a6e02b84112f0e7a1",
+      "format": "JSON"
+    },
+    {
+      "name": "the74-2022-10-10T11:22:18.196752-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the74-2022-10-10T11:22:18.196752-04:00.jpg",
+      "mtime": "1665415536",
+      "size": "10153",
+      "md5": "bbbeeefa080f3fd0d4db60687b01f544",
+      "crc32": "4bb249fc",
+      "sha1": "d1808f66ecdce7fb409c5f19fe8d166944057773"
+    },
+    {
       "name": "the74-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bc5cb2684046adcb5596ff507005f4329f4a5de7",
-      "mtime": "1665374012",
-      "size": "215383",
-      "md5": "184224c359f32a833dc4b9c70cf4c64e",
-      "crc32": "7d46ec93",
-      "sha1": "986ec83d5623882cbc0eb904f788e79b598df8a3",
+      "btih": "6b8ba3d3543ed4e8e6ac0e7a4e2bad354ea54064",
+      "mtime": "1665415548",
+      "size": "216611",
+      "md5": "2bf98f9c75201d4e940e7de3188cff44",
+      "crc32": "9db1072a",
+      "sha1": "c1b5c19ea79a844c81e4526d33031c28f8c0711e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "the74-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "55d249ade034a5239d4f7fc706a19c44",
+      "md5": "6f2f254ca259a4de3e57a36b84302f19",
       "summation": "md5"
     },
     {
       "name": "the74-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665373942",
-      "size": "1302528",
-      "md5": "e29aba70e0954cd9d53a5f1c593bdd9e",
-      "crc32": "75d98ae6",
-      "sha1": "5057372a6968aa641a15b56f063723a914f881e1",
+      "mtime": "1665415362",
+      "size": "1306624",
+      "md5": "4e260c2bff1f97b9df1afb28bf09e0d3",
+      "crc32": "bc135015",
+      "sha1": "f7c1b51019b883c4cb920833d5a1a1d5497949ca",
       "format": "Metadata"
     },
     {
@@ -10732,9 +10794,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1036,
-  "item_last_updated": 1665374012,
-  "item_size": 71091351,
+  "files_count": 1042,
+  "item_last_updated": 1665415548,
+  "item_size": 71481910,
   "metadata": {
     "identifier": "the74-2022",
     "collection": [
@@ -10751,10 +10813,14 @@
     "publicdate": "2022-07-09 04:04:26",
     "addeddate": "2022-07-09 04:04:26"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 144152752,
+  "server": "ia601506.us.archive.org",
+  "the74-2022": {
+    "url": "https://www.the74million.org/",
+    "job_id": "spn2-f6c6bfd281948baffc197f0de4d6aadf0ade4ffe"
+  },
+  "uniq": 1901218186,
   "workable_servers": [
-    "ia801506.us.archive.org",
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }
