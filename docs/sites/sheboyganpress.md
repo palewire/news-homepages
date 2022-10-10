@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 37 screenshots with the Internet Archive.
+The archiving routine has saved 38 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 37 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-09T22:52:20.303575-05:00.jpg">
+  <img src="https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-09T22:52:20.303575-05:00.jpg"
+     alt="Sheboygan Press at 2022-10-09 22:52:22-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-09T22:52:20.303575-05:00.jpg">October 9 at 10:52 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-09T09:57:08.065428-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-04T10:09:22.973347-05:00.jpg">October 4 at 10:09 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-03T22:40:08.283718-05:00.jpg">
-  <img src="https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-03T22:40:08.283718-05:00.jpg"
-     alt="Sheboygan Press at 2022-10-03 22:40:11-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-03T22:40:08.283718-05:00.jpg">October 3 at 10:40 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 38 hyperlink lists with the Internet Archive.
+The archiving routine has saved 39 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 9 at 10:52 PM](https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-09T22:52:20.303575-05:00.hyperlinks.json) |
 | [October 9 at 9:57 AM](https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-09T09:57:08.065428-05:00.hyperlinks.json) |
 | [October 8 at 10:41 PM](https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-08T22:41:27.321043-05:00.hyperlinks.json) |
 | [October 8 at 10:06 AM](https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-08T10:06:01.918539-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 6 at 10:04 AM](https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-06T10:04:43.812212-05:00.hyperlinks.json) |
 | [October 5 at 11:14 PM](https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-05T23:14:06.085327-05:00.hyperlinks.json) |
 | [October 5 at 10:24 AM](https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-05T10:24:13.605646-05:00.hyperlinks.json) |
-| [October 4 at 10:29 PM](https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-04T22:29:46.635143-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 38 accessibility trees with the Internet Archive.
+The archiving routine has saved 39 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 9 at 10:52 PM](https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-09T22:52:20.303575-05:00.accessibility.json) |
 | [October 9 at 9:57 AM](https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-09T09:57:08.065428-05:00.accessibility.json) |
 | [October 8 at 10:41 PM](https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-08T22:41:27.321043-05:00.accessibility.json) |
 | [October 8 at 10:06 AM](https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-08T10:06:01.918539-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 6 at 10:04 AM](https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-06T10:04:43.812212-05:00.accessibility.json) |
 | [October 5 at 11:14 PM](https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-05T23:14:06.085327-05:00.accessibility.json) |
 | [October 5 at 10:24 AM](https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-05T10:24:13.605646-05:00.accessibility.json) |
-| [October 4 at 10:29 PM](https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-04T22:29:46.635143-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 38 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 9 at 10:52 PM](https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-09T22:52:20.303575-05:00.lighthouse.json) |
 | [October 9 at 9:57 AM](https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-09T09:57:08.065428-05:00.lighthouse.json) |
 | [October 8 at 10:41 PM](https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-08T22:41:27.321043-05:00.lighthouse.json) |
 | [October 8 at 10:06 AM](https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-08T10:06:01.918539-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 6 at 10:04 AM](https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-06T10:04:43.812212-05:00.lighthouse.json) |
 | [October 5 at 11:14 PM](https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-05T23:14:06.085327-05:00.lighthouse.json) |
 | [October 5 at 10:24 AM](https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-05T10:24:13.605646-05:00.lighthouse.json) |
-| [October 4 at 10:29 PM](https://archive.org/download/sheboyganpress-2022/sheboyganpress-2022-10-04T22:29:46.635143-05:00.lighthouse.json) |
 
 
 
