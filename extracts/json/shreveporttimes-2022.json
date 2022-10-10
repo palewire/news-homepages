@@ -1,5 +1,5 @@
 {
-  "created": 1665343627,
+  "created": 1665391341,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/12/items/shreveporttimes-2022",
@@ -2424,31 +2424,93 @@
       "sha1": "f248c3ed5a62fb5c278dbe3c521d2c6dd2da3281"
     },
     {
+      "name": "shreveporttimes-2022-10-10T03:40:19.980942-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665391224",
+      "size": "19102",
+      "md5": "5419d431d756d96601c6cb8490935163",
+      "crc32": "050c0da3",
+      "sha1": "c16eed28f122ce814db43965aeb8b94b2ebf5566",
+      "format": "JSON"
+    },
+    {
+      "name": "shreveporttimes-2022-10-10T03:40:19.980942-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665391225",
+      "size": "28531",
+      "md5": "300fb2fe1f3c0594a668c60ffac46167",
+      "crc32": "2ec5bfe0",
+      "sha1": "1f122a086f59e571e6acf5cba8bf77d443286d9d",
+      "format": "JSON"
+    },
+    {
+      "name": "shreveporttimes-2022-10-10T03:40:19.980942-05:00.jpg",
+      "source": "original",
+      "mtime": "1665391222",
+      "size": "309778",
+      "md5": "c63298f66ed7f2c51c2fcb8e285a2d7e",
+      "crc32": "ec956114",
+      "sha1": "805b1f171a2866f2426aaafac5d736613d47b033",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "shreveporttimes-2022-10-10T03:40:19.980942-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665391227",
+      "size": "1540",
+      "md5": "e981c27a1cb054e4e29430122b147309",
+      "crc32": "bb634fd0",
+      "sha1": "886fc6f5fb8c133254cffe580aca2e7afe72b91f",
+      "format": "JSON"
+    },
+    {
+      "name": "shreveporttimes-2022-10-10T03:40:19.980942-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665391228",
+      "size": "82716",
+      "md5": "7f5d5f17b40e8ce4e6ef3173a0e1c3b0",
+      "crc32": "0a33ce40",
+      "sha1": "0f272fba175d680d53ee6aa55e966ad548719cc1",
+      "format": "JSON"
+    },
+    {
+      "name": "shreveporttimes-2022-10-10T03:40:19.980942-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "shreveporttimes-2022-10-10T03:40:19.980942-05:00.jpg",
+      "mtime": "1665391312",
+      "size": "9560",
+      "md5": "4103ef184efb818f1bc39ce63926525e",
+      "crc32": "c38a83d0",
+      "sha1": "217debeff3f3e4c3bc3feafe67c8afe19bd2b345"
+    },
+    {
       "name": "shreveporttimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8c8db80ffad57c0b6d180dbe66c056f28ceedb15",
-      "mtime": "1665343622",
-      "size": "52321",
-      "md5": "b75cc585367ccfe1a1e22c2c3194e808",
-      "crc32": "262cda06",
-      "sha1": "5f97ce5fa681d78c8ccea23c9b738c8d7486efe1",
+      "btih": "4a40a6f59512626773532f2b58f70db079f301ce",
+      "mtime": "1665391330",
+      "size": "53630",
+      "md5": "52e7377e3786e02841a67556389b1ac3",
+      "crc32": "1966876f",
+      "sha1": "757cb5b765a1963cf2557d3f1395f3b399d1b188",
       "format": "Archive BitTorrent"
     },
     {
       "name": "shreveporttimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "81a61da685e2bec2c2b4d045732d94c9",
+      "md5": "1fba57f8714edc88e3bee143115bcb3c",
       "summation": "md5"
     },
     {
       "name": "shreveporttimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665343576",
-      "size": "319488",
-      "md5": "c0dd56caa82bf5e06c40697c5a03bb04",
-      "crc32": "d25b9d50",
-      "sha1": "a9203d02e20995ded5d98667751e6dab84a07665",
+      "mtime": "1665391233",
+      "size": "331776",
+      "md5": "a796bdcc9d9fcc7394fc37269995c632",
+      "crc32": "85911d1d",
+      "sha1": "8b6a9f962876adbb81f2eea3ff0b24a4a857ca11",
       "format": "Metadata"
     },
     {
@@ -2462,9 +2524,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 238,
-  "item_last_updated": 1665343622,
-  "item_size": 15400824,
+  "files_count": 244,
+  "item_last_updated": 1665391330,
+  "item_size": 15865648,
   "metadata": {
     "identifier": "shreveporttimes-2022",
     "collection": [
@@ -2481,10 +2543,10 @@
     "publicdate": "2022-09-20 19:23:49",
     "addeddate": "2022-09-20 19:23:49"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 1923642950,
+  "server": "ia601500.us.archive.org",
+  "uniq": 938303249,
   "workable_servers": [
-    "ia801500.us.archive.org",
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }
