@@ -1,5 +1,13 @@
 {
-  "created": 1665382932,
+  "abqbizfirst-2022": {
+    "url": "https://www.bizjournals.com/albuquerque/",
+    "job_id": "spn2-71e607830da862c3c235775211f257e72018d52b",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "resources": [],
+    "message": "Job failed."
+  },
+  "created": 1665425119,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/8/items/abqbizfirst-2022",
@@ -9866,31 +9874,93 @@
       "sha1": "b81d9cca261cda96f42404be8e356d200b620904"
     },
     {
+      "name": "abqbizfirst-2022-10-10T10:33:45.136275-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665419629",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "abqbizfirst-2022-10-10T10:33:45.136275-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665419633",
+      "size": "20313",
+      "md5": "b6eacfcec2fd79ee79d52664a94b023d",
+      "crc32": "8a0faa79",
+      "sha1": "4ff357e57c47748d0e3124c35a497d1d95899498",
+      "format": "JSON"
+    },
+    {
+      "name": "abqbizfirst-2022-10-10T10:33:45.136275-06:00.jpg",
+      "source": "original",
+      "mtime": "1665419627",
+      "size": "242443",
+      "md5": "6b5553c5f0aa8f9a2cc1c269d4999b65",
+      "crc32": "01966a2c",
+      "sha1": "121d5a5a687495bd65ee29b0ed99fd8a8980d8f6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "abqbizfirst-2022-10-10T10:33:45.136275-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665419634",
+      "size": "1612",
+      "md5": "d4eb999ab088d20d1cad4974825b4a0b",
+      "crc32": "8dbaa931",
+      "sha1": "916817fd28254cb21e66cca1e1ef6a3251ef6e55",
+      "format": "JSON"
+    },
+    {
+      "name": "abqbizfirst-2022-10-10T10:33:45.136275-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1665419636",
+      "size": "220",
+      "md5": "79f4ed243e325c49d21bfdd45f07ae75",
+      "crc32": "8a0caa34",
+      "sha1": "a86da88611293e354ffeb74b7edb1b31f7935b68",
+      "format": "JSON"
+    },
+    {
+      "name": "abqbizfirst-2022-10-10T10:33:45.136275-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "abqbizfirst-2022-10-10T10:33:45.136275-06:00.jpg",
+      "mtime": "1665419696",
+      "size": "8599",
+      "md5": "685e9da43632697ca3e66b588d288979",
+      "crc32": "c296ca24",
+      "sha1": "9848a4dd5336a0aa7c47163039593eee335d6c62"
+    },
+    {
       "name": "abqbizfirst-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7fbeea7ef0ff8d403e070f8d8b2f8a2fde722d53",
-      "mtime": "1665382908",
-      "size": "204445",
-      "md5": "090edbae3570e90e23cd4cc53e4df2e7",
-      "crc32": "bd538e6d",
-      "sha1": "9e184e1752773e5aad943934238d1af69abfa99d",
+      "btih": "83b461e5218d2194b82c6ec4319a97b6aa882607",
+      "mtime": "1665419705",
+      "size": "205706",
+      "md5": "1830040099a7058f8182c5156a4525b1",
+      "crc32": "b662737a",
+      "sha1": "d4d71183ee6aac066c63d148f9db45cf7a91c9da",
       "format": "Archive BitTorrent"
     },
     {
       "name": "abqbizfirst-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e494d14ba550f98086fffbdf475d8649",
+      "md5": "bfe1c57c7a6c94f6a6b6d331d3932328",
       "summation": "md5"
     },
     {
       "name": "abqbizfirst-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665382838",
-      "size": "1220608",
-      "md5": "d97c70840ee7ac0b089c84817a3b0f4a",
-      "crc32": "ab48fa81",
-      "sha1": "76bee7e3ea46b4f5f8441bb6c9236ba7501ab624",
+      "mtime": "1665419641",
+      "size": "1224704",
+      "md5": "bad89af33ad4c32672947650089ff027",
+      "crc32": "4f26354d",
+      "sha1": "8bad5f763da8716a25689fc8bc8b07ad2d1a9822",
       "format": "Metadata"
     },
     {
@@ -9904,9 +9974,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 957,
-  "item_last_updated": 1665382908,
-  "item_size": 65324716,
+  "files_count": 963,
+  "item_last_updated": 1665419705,
+  "item_size": 65603400,
   "metadata": {
     "identifier": "abqbizfirst-2022",
     "collection": [
@@ -9924,7 +9994,7 @@
     "addeddate": "2022-07-19 01:13:43"
   },
   "server": "ia801401.us.archive.org",
-  "uniq": 1936805987,
+  "uniq": 2063544832,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

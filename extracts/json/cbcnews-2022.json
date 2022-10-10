@@ -1,5 +1,5 @@
 {
-  "created": 1665387209,
+  "created": 1665420110,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/8/items/cbcnews-2022",
@@ -11956,31 +11956,93 @@
       "sha1": "34c2dd16ed82af245ba7be139ae2203fb859aa9f"
     },
     {
+      "name": "cbcnews-2022-10-10T12:40:05.832459-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665420020",
+      "size": "455",
+      "md5": "ff6a4b8a7620515b9657ac74b33074c4",
+      "crc32": "4b959450",
+      "sha1": "6dfa47105972da0f40c5b31efb912c672a93b243",
+      "format": "JSON"
+    },
+    {
+      "name": "cbcnews-2022-10-10T12:40:05.832459-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665420021",
+      "size": "23031",
+      "md5": "690e5f9830ef1233c59b7d68e0a9672e",
+      "crc32": "561c1fb6",
+      "sha1": "630d9a6ec0ded0e53314f4a6900bbef416e8936a",
+      "format": "JSON"
+    },
+    {
+      "name": "cbcnews-2022-10-10T12:40:05.832459-04:00.jpg",
+      "source": "original",
+      "mtime": "1665420018",
+      "size": "331774",
+      "md5": "df1afea94b8dccec34ea749156fcec47",
+      "crc32": "ebeb2915",
+      "sha1": "a94429af9df2ff9597733d8b5a08afcfeab86da3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbcnews-2022-10-10T12:40:05.832459-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665420023",
+      "size": "1456",
+      "md5": "b26faeecd24fb65ffc267d970d22a94b",
+      "crc32": "fecf89e5",
+      "sha1": "ada3dbfc1f0ab2bd0bb12c4d79b8f7b1d5695735",
+      "format": "JSON"
+    },
+    {
+      "name": "cbcnews-2022-10-10T12:40:05.832459-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665420025",
+      "size": "230",
+      "md5": "050e15e4d2c7d2dde69b6d1a403efcf7",
+      "crc32": "ed7be678",
+      "sha1": "4a680ff6368886a337a1cd5b74aaf208bedc326b",
+      "format": "JSON"
+    },
+    {
+      "name": "cbcnews-2022-10-10T12:40:05.832459-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbcnews-2022-10-10T12:40:05.832459-04:00.jpg",
+      "mtime": "1665420087",
+      "size": "10051",
+      "md5": "a7432c72c8e7db130da66408d6052fa1",
+      "crc32": "2c45c5b8",
+      "sha1": "de56fb2cc30c63a97c0f65405a0a0b4e01d023b0"
+    },
+    {
       "name": "cbcnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "10fb5a31498220089783bf365f3e21b1a6856bee",
-      "mtime": "1665383152",
-      "size": "242051",
-      "md5": "4fcae0965eaf874176a73a34b932af31",
-      "crc32": "29044615",
-      "sha1": "37e2f837c3a64d70bde5607a8f74f334d1e3a194",
+      "btih": "ad45f7514682bfe9184513956d5d5592ea96dd1d",
+      "mtime": "1665420101",
+      "size": "243309",
+      "md5": "effda8f0b93af772fdca4af30ad4ee2d",
+      "crc32": "6042f028",
+      "sha1": "2ef79aa72461f0ad9c2f425e172ca73075a1ffdc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cbcnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "90d04f36778a5054abc52cb04d6da290",
+      "md5": "8930c44868830e3dec4320678d79d701",
       "summation": "md5"
     },
     {
       "name": "cbcnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665383067",
-      "size": "1437696",
-      "md5": "8c1826aa1c1eb8f25435d60eeaf30b4c",
-      "crc32": "5a6f0a42",
-      "sha1": "e57ad364b8ab6e702721f70fe89c09a17cfc9698",
+      "mtime": "1665420028",
+      "size": "1445888",
+      "md5": "6090c064db581d28074af6741795c7d7",
+      "crc32": "218fb123",
+      "sha1": "2127c32c4040ef26b1c287655f3ea84d806a1fc6",
       "format": "Metadata"
     },
     {
@@ -11994,9 +12056,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1156,
-  "item_last_updated": 1665383152,
-  "item_size": 78262147,
+  "files_count": 1162,
+  "item_last_updated": 1665420101,
+  "item_size": 78638594,
   "metadata": {
     "identifier": "cbcnews-2022",
     "collection": [
@@ -12013,10 +12075,10 @@
     "publicdate": "2022-06-30 22:35:35",
     "addeddate": "2022-06-30 22:35:35"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 12321904,
+  "server": "ia601508.us.archive.org",
+  "uniq": 602286368,
   "workable_servers": [
-    "ia801508.us.archive.org",
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

@@ -1,5 +1,13 @@
 {
-  "created": 1665382899,
+  "adndotcom-2022": {
+    "url": "https://www.adn.com/",
+    "job_id": "spn2-b35761669ffca8be9cd9b393a069d420e350d47d",
+    "resources": [],
+    "status": "error",
+    "message": "Job failed.",
+    "status_ext": "error:job-failed"
+  },
+  "created": 1665425121,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/10/items/adndotcom-2022",
@@ -3416,31 +3424,93 @@
       "sha1": "72f17a62ff8c68f0a6582412254b09696eed1d73"
     },
     {
+      "name": "adndotcom-2022-10-10T08:33:16.936603-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665419603",
+      "size": "59289",
+      "md5": "df3050f173deb8fd0ec9a7c4d83d64fd",
+      "crc32": "01c32c5c",
+      "sha1": "689820b0173b9afb79354b3ebf01168f85cd34da",
+      "format": "JSON"
+    },
+    {
+      "name": "adndotcom-2022-10-10T08:33:16.936603-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665419605",
+      "size": "41874",
+      "md5": "01d1eb88edebed9e11fbd318483e13dd",
+      "crc32": "26e9137d",
+      "sha1": "357290243f34bf59054cf4db20d00f5fa05a841f",
+      "format": "JSON"
+    },
+    {
+      "name": "adndotcom-2022-10-10T08:33:16.936603-08:00.jpg",
+      "source": "original",
+      "mtime": "1665419601",
+      "size": "350581",
+      "md5": "4bc2c947452dae9ee606f3a9d00b6c5f",
+      "crc32": "b49d60c2",
+      "sha1": "ff38d05dd7bc3794da7836bd539722d508735302",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "adndotcom-2022-10-10T08:33:16.936603-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665419607",
+      "size": "1432",
+      "md5": "d44c590ce5e7c9fa9f531a750b4560eb",
+      "crc32": "a8fde217",
+      "sha1": "9c08805c722212e5d9749de17738a6cb9c4b18cc",
+      "format": "JSON"
+    },
+    {
+      "name": "adndotcom-2022-10-10T08:33:16.936603-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1665419609",
+      "size": "200",
+      "md5": "9feb1711df65593b59696352a7cd6d31",
+      "crc32": "6ecbfa94",
+      "sha1": "4759b1e23db28880b511565b90924da1a4364060",
+      "format": "JSON"
+    },
+    {
+      "name": "adndotcom-2022-10-10T08:33:16.936603-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "adndotcom-2022-10-10T08:33:16.936603-08:00.jpg",
+      "mtime": "1665419661",
+      "size": "9660",
+      "md5": "f73985093ddf3893ad630afd383ec66b",
+      "crc32": "5b5005cd",
+      "sha1": "458c428ee5440119254b11e280caa872ea6b35eb"
+    },
+    {
       "name": "adndotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6e44459ca55c05f4ee3fe43b29d5c9e2590f9f5e",
-      "mtime": "1665382888",
-      "size": "71387",
-      "md5": "3f4875c9f8a3f4439cf22b02a6dacf68",
-      "crc32": "4d377772",
-      "sha1": "433b24f3b23d4f4e7db3c6564ebcf7268154fedc",
+      "btih": "48ea2fd669f71a6a729cd392b2f338bf41f61f9a",
+      "mtime": "1665419668",
+      "size": "72658",
+      "md5": "2bb8d8e41b49122eb7fbab83d6aad12d",
+      "crc32": "673d397b",
+      "sha1": "0c038b09df15d6bd3618d8903c0914e7e6a12627",
       "format": "Archive BitTorrent"
     },
     {
       "name": "adndotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "86058fb8618447d889c65cbb0a7f1727",
+      "md5": "46db62551dff72a796f8bb248dd7e8c3",
       "summation": "md5"
     },
     {
       "name": "adndotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665382827",
-      "size": "442368",
-      "md5": "0fcdb11eb48af313b4f4a583631b4d2d",
-      "crc32": "1c6b049b",
-      "sha1": "a3728ab21a6d802c58a76488366dc65b17f3e0a6",
+      "mtime": "1665419612",
+      "size": "446464",
+      "md5": "8b0a81268728e8f7c887f7884e4cec1c",
+      "crc32": "487b9622",
+      "sha1": "4975b8a70224371d39b226aaaade6f4d89fe1fda",
       "format": "Metadata"
     },
     {
@@ -3454,9 +3524,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 334,
-  "item_last_updated": 1665382888,
-  "item_size": 27924968,
+  "files_count": 340,
+  "item_last_updated": 1665419668,
+  "item_size": 28393371,
   "metadata": {
     "identifier": "adndotcom-2022",
     "collection": [
@@ -3473,10 +3543,10 @@
     "publicdate": "2022-09-13 02:23:51",
     "addeddate": "2022-09-13 02:23:51"
   },
-  "server": "ia601509.us.archive.org",
-  "uniq": 2058405018,
+  "server": "ia801509.us.archive.org",
+  "uniq": 1309968889,
   "workable_servers": [
-    "ia601509.us.archive.org",
-    "ia801509.us.archive.org"
+    "ia801509.us.archive.org",
+    "ia601509.us.archive.org"
   ]
 }
