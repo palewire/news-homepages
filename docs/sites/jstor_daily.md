@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 155 screenshots with the Internet Archive.
+The archiving routine has saved 156 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 155 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-10T09:21:21.613131-04:00.jpg">
+  <img src="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-10T09:21:21.613131-04:00.jpg"
+     alt="JSTOR Daily at 2022-10-10 09:21:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-10T09:21:21.613131-04:00.jpg">October 10 at 9:21 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-09T21:26:54.123751-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-04T21:26:38.145252-04:00.jpg">October 4 at 9:26 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-04T08:58:37.299883-04:00.jpg">
-  <img src="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-04T08:58:37.299883-04:00.jpg"
-     alt="JSTOR Daily at 2022-10-04 08:58:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-04T08:58:37.299883-04:00.jpg">October 4 at 8:58 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 155 hyperlink lists with the Internet Archive.
+The archiving routine has saved 156 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 9:21 AM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-10T09:21:21.613131-04:00.hyperlinks.json) |
 | [October 9 at 9:27 PM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-09T21:26:54.123751-04:00.hyperlinks.json) |
 | [October 9 at 9:01 AM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-09T09:01:23.033940-04:00.hyperlinks.json) |
 | [October 8 at 9:15 PM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-08T21:15:21.708800-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 6 at 9:39 PM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-06T21:39:42.043933-04:00.hyperlinks.json) |
 | [October 6 at 8:59 AM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-06T08:58:56.298964-04:00.hyperlinks.json) |
 | [October 5 at 9:25 PM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-05T21:25:14.679555-04:00.hyperlinks.json) |
-| [October 5 at 9:12 AM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-05T09:12:40.703167-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 156 accessibility trees with the Internet Archive.
+The archiving routine has saved 157 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 9:21 AM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-10T09:21:21.613131-04:00.accessibility.json) |
 | [October 9 at 9:27 PM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-09T21:26:54.123751-04:00.accessibility.json) |
 | [October 9 at 9:01 AM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-09T09:01:23.033940-04:00.accessibility.json) |
 | [October 8 at 9:15 PM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-08T21:15:21.708800-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 6 at 9:39 PM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-06T21:39:42.043933-04:00.accessibility.json) |
 | [October 6 at 8:59 AM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-06T08:58:56.298964-04:00.accessibility.json) |
 | [October 5 at 9:25 PM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-05T21:25:14.679555-04:00.accessibility.json) |
-| [October 5 at 9:12 AM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-05T09:12:40.703167-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 155 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 156 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 9:21 AM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-10T09:21:21.613131-04:00.lighthouse.json) |
 | [October 9 at 9:27 PM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-09T21:26:54.123751-04:00.lighthouse.json) |
 | [October 9 at 9:01 AM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-09T09:01:23.033940-04:00.lighthouse.json) |
 | [October 8 at 9:15 PM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-08T21:15:21.708800-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 6 at 9:39 PM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-06T21:39:42.043933-04:00.lighthouse.json) |
 | [October 6 at 8:59 AM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-06T08:58:56.298964-04:00.lighthouse.json) |
 | [October 5 at 9:25 PM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-05T21:25:14.679555-04:00.lighthouse.json) |
-| [October 5 at 9:12 AM](https://archive.org/download/jstor_daily-2022/jstor_daily-2022-10-05T09:12:40.703167-04:00.lighthouse.json) |
 
 
 

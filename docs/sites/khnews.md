@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 156 screenshots with the Internet Archive.
+The archiving routine has saved 157 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 156 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/khnews-2022/khnews-2022-10-10T09:21:24.472721-04:00.jpg">
+  <img src="https://archive.org/download/khnews-2022/khnews-2022-10-10T09:21:24.472721-04:00.jpg"
+     alt="Kaiser Health News at 2022-10-10 09:21:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/khnews-2022/khnews-2022-10-10T09:21:24.472721-04:00.jpg">October 10 at 9:21 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/khnews-2022/khnews-2022-10-09T21:30:26.262813-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/khnews-2022/khnews-2022-10-04T21:30:17.358704-04:00.jpg">October 4 at 9:30 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/khnews-2022/khnews-2022-10-04T09:01:36.287477-04:00.jpg">
-  <img src="https://archive.org/download/khnews-2022/khnews-2022-10-04T09:01:36.287477-04:00.jpg"
-     alt="Kaiser Health News at 2022-10-04 09:01:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/khnews-2022/khnews-2022-10-04T09:01:36.287477-04:00.jpg">October 4 at 9:01 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 154 hyperlink lists with the Internet Archive.
+The archiving routine has saved 155 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 9:21 AM](https://archive.org/download/khnews-2022/khnews-2022-10-10T09:21:24.472721-04:00.hyperlinks.json) |
 | [October 9 at 9:30 PM](https://archive.org/download/khnews-2022/khnews-2022-10-09T21:30:26.262813-04:00.hyperlinks.json) |
 | [October 9 at 9:03 AM](https://archive.org/download/khnews-2022/khnews-2022-10-09T09:03:25.437000-04:00.hyperlinks.json) |
 | [October 8 at 9:17 PM](https://archive.org/download/khnews-2022/khnews-2022-10-08T21:17:16.609197-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 6 at 9:39 PM](https://archive.org/download/khnews-2022/khnews-2022-10-06T21:38:59.952416-04:00.hyperlinks.json) |
 | [October 6 at 9:01 AM](https://archive.org/download/khnews-2022/khnews-2022-10-06T09:01:25.193921-04:00.hyperlinks.json) |
 | [October 5 at 9:28 PM](https://archive.org/download/khnews-2022/khnews-2022-10-05T21:28:00.513691-04:00.hyperlinks.json) |
-| [October 5 at 9:13 AM](https://archive.org/download/khnews-2022/khnews-2022-10-05T09:13:06.210573-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 156 accessibility trees with the Internet Archive.
+The archiving routine has saved 157 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 9:21 AM](https://archive.org/download/khnews-2022/khnews-2022-10-10T09:21:24.472721-04:00.accessibility.json) |
 | [October 9 at 9:30 PM](https://archive.org/download/khnews-2022/khnews-2022-10-09T21:30:26.262813-04:00.accessibility.json) |
 | [October 9 at 9:03 AM](https://archive.org/download/khnews-2022/khnews-2022-10-09T09:03:25.437000-04:00.accessibility.json) |
 | [October 8 at 9:17 PM](https://archive.org/download/khnews-2022/khnews-2022-10-08T21:17:16.609197-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 6 at 9:39 PM](https://archive.org/download/khnews-2022/khnews-2022-10-06T21:38:59.952416-04:00.accessibility.json) |
 | [October 6 at 9:01 AM](https://archive.org/download/khnews-2022/khnews-2022-10-06T09:01:25.193921-04:00.accessibility.json) |
 | [October 5 at 9:28 PM](https://archive.org/download/khnews-2022/khnews-2022-10-05T21:28:00.513691-04:00.accessibility.json) |
-| [October 5 at 9:13 AM](https://archive.org/download/khnews-2022/khnews-2022-10-05T09:13:06.210573-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 154 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 155 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 9:21 AM](https://archive.org/download/khnews-2022/khnews-2022-10-10T09:21:24.472721-04:00.lighthouse.json) |
 | [October 9 at 9:30 PM](https://archive.org/download/khnews-2022/khnews-2022-10-09T21:30:26.262813-04:00.lighthouse.json) |
 | [October 9 at 9:03 AM](https://archive.org/download/khnews-2022/khnews-2022-10-09T09:03:25.437000-04:00.lighthouse.json) |
 | [October 8 at 9:17 PM](https://archive.org/download/khnews-2022/khnews-2022-10-08T21:17:16.609197-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 6 at 9:39 PM](https://archive.org/download/khnews-2022/khnews-2022-10-06T21:38:59.952416-04:00.lighthouse.json) |
 | [October 6 at 9:01 AM](https://archive.org/download/khnews-2022/khnews-2022-10-06T09:01:25.193921-04:00.lighthouse.json) |
 | [October 5 at 9:28 PM](https://archive.org/download/khnews-2022/khnews-2022-10-05T21:28:00.513691-04:00.lighthouse.json) |
-| [October 5 at 9:13 AM](https://archive.org/download/khnews-2022/khnews-2022-10-05T09:13:06.210573-04:00.lighthouse.json) |
 
 
 

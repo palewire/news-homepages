@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 137 screenshots with the Internet Archive.
+The archiving routine has saved 138 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 137 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ljworld-2022/ljworld-2022-10-10T08:24:20.963037-05:00.jpg">
+  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-10-10T08:24:20.963037-05:00.jpg"
+     alt="Lawrence Journal-World at 2022-10-10 08:24:31-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-10-10T08:24:20.963037-05:00.jpg">October 10 at 8:24 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ljworld-2022/ljworld-2022-10-09T20:33:18.516046-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-10-04T20:32:25.721476-05:00.jpg">October 4 at 8:32 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ljworld-2022/ljworld-2022-10-04T08:03:59.832381-05:00.jpg">
-  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-10-04T08:03:59.832381-05:00.jpg"
-     alt="Lawrence Journal-World at 2022-10-04 08:04:07-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-10-04T08:03:59.832381-05:00.jpg">October 4 at 8:04 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 137 hyperlink lists with the Internet Archive.
+The archiving routine has saved 138 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 8:24 AM](https://archive.org/download/ljworld-2022/ljworld-2022-10-10T08:24:20.963037-05:00.hyperlinks.json) |
 | [October 9 at 8:33 PM](https://archive.org/download/ljworld-2022/ljworld-2022-10-09T20:33:18.516046-05:00.hyperlinks.json) |
 | [October 9 at 8:07 AM](https://archive.org/download/ljworld-2022/ljworld-2022-10-09T08:07:02.807585-05:00.hyperlinks.json) |
 | [October 8 at 8:19 PM](https://archive.org/download/ljworld-2022/ljworld-2022-10-08T20:19:50.599545-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 6 at 8:42 PM](https://archive.org/download/ljworld-2022/ljworld-2022-10-06T20:42:45.584587-05:00.hyperlinks.json) |
 | [October 6 at 8:04 AM](https://archive.org/download/ljworld-2022/ljworld-2022-10-06T08:04:00.713549-05:00.hyperlinks.json) |
 | [October 5 at 8:31 PM](https://archive.org/download/ljworld-2022/ljworld-2022-10-05T20:30:59.666145-05:00.hyperlinks.json) |
-| [October 5 at 8:15 AM](https://archive.org/download/ljworld-2022/ljworld-2022-10-05T08:15:29.791966-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 138 accessibility trees with the Internet Archive.
+The archiving routine has saved 139 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 8:24 AM](https://archive.org/download/ljworld-2022/ljworld-2022-10-10T08:24:20.963037-05:00.accessibility.json) |
 | [October 9 at 8:33 PM](https://archive.org/download/ljworld-2022/ljworld-2022-10-09T20:33:18.516046-05:00.accessibility.json) |
 | [October 9 at 8:07 AM](https://archive.org/download/ljworld-2022/ljworld-2022-10-09T08:07:02.807585-05:00.accessibility.json) |
 | [October 8 at 8:19 PM](https://archive.org/download/ljworld-2022/ljworld-2022-10-08T20:19:50.599545-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 6 at 8:42 PM](https://archive.org/download/ljworld-2022/ljworld-2022-10-06T20:42:45.584587-05:00.accessibility.json) |
 | [October 6 at 8:04 AM](https://archive.org/download/ljworld-2022/ljworld-2022-10-06T08:04:00.713549-05:00.accessibility.json) |
 | [October 5 at 8:31 PM](https://archive.org/download/ljworld-2022/ljworld-2022-10-05T20:30:59.666145-05:00.accessibility.json) |
-| [October 5 at 8:15 AM](https://archive.org/download/ljworld-2022/ljworld-2022-10-05T08:15:29.791966-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 138 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 139 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 8:24 AM](https://archive.org/download/ljworld-2022/ljworld-2022-10-10T08:24:20.963037-05:00.lighthouse.json) |
 | [October 9 at 8:33 PM](https://archive.org/download/ljworld-2022/ljworld-2022-10-09T20:33:18.516046-05:00.lighthouse.json) |
 | [October 9 at 8:07 AM](https://archive.org/download/ljworld-2022/ljworld-2022-10-09T08:07:02.807585-05:00.lighthouse.json) |
 | [October 8 at 8:20 PM](https://archive.org/download/ljworld-2022/ljworld-2022-10-08T20:19:50.599545-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 6 at 8:42 PM](https://archive.org/download/ljworld-2022/ljworld-2022-10-06T20:42:45.584587-05:00.lighthouse.json) |
 | [October 6 at 8:04 AM](https://archive.org/download/ljworld-2022/ljworld-2022-10-06T08:04:00.713549-05:00.lighthouse.json) |
 | [October 5 at 8:31 PM](https://archive.org/download/ljworld-2022/ljworld-2022-10-05T20:30:59.666145-05:00.lighthouse.json) |
-| [October 5 at 8:15 AM](https://archive.org/download/ljworld-2022/ljworld-2022-10-05T08:15:29.791966-05:00.lighthouse.json) |
 
 
 
