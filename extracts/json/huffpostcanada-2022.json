@@ -1,5 +1,5 @@
 {
-  "created": 1665320517,
+  "created": 1665365319,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/26/items/huffpostcanada-2022",
@@ -9544,31 +9544,93 @@
       "sha1": "98f493fa31df6650ee64c585b05591d86c01d60f"
     },
     {
+      "name": "huffpostcanada-2022-10-09T21:26:38.867838-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665365219",
+      "size": "35546",
+      "md5": "79222205591dce404951732239a86e3f",
+      "crc32": "ae1192db",
+      "sha1": "73c92cf43f83cb3a121a26aa613b9caf9b7c2d7e",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpostcanada-2022-10-09T21:26:38.867838-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665365221",
+      "size": "68840",
+      "md5": "b2edde33598860b7a8bbd883da74b473",
+      "crc32": "a5b75d19",
+      "sha1": "73bfc791bde66ee43df1cbbe7978bd07605ee6e3",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpostcanada-2022-10-09T21:26:38.867838-04:00.jpg",
+      "source": "original",
+      "mtime": "1665365217",
+      "size": "223865",
+      "md5": "94558817f9fcf770faa7a4620465cde5",
+      "crc32": "8883cd5e",
+      "sha1": "431923adb8407a82f5491fe4c8d11a9dd1b798a9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "huffpostcanada-2022-10-09T21:26:38.867838-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665365223",
+      "size": "1477",
+      "md5": "4c3e57e3d3f0b6c15143420688ffe693",
+      "crc32": "01e1942c",
+      "sha1": "dcc5be6dafb6e53ca80c9c4f14f194636badaf20",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpostcanada-2022-10-09T21:26:38.867838-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665365225",
+      "size": "220",
+      "md5": "b1f056867f971a3e4ad322202df40ab9",
+      "crc32": "e12586fb",
+      "sha1": "ac697e32d4997c278ed11707b3f438e8ba1f07bb",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpostcanada-2022-10-09T21:26:38.867838-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "huffpostcanada-2022-10-09T21:26:38.867838-04:00.jpg",
+      "mtime": "1665365292",
+      "size": "10631",
+      "md5": "3ed0d80008391b415873e06cb429f688",
+      "crc32": "c69f4eec",
+      "sha1": "5e7be02913b5f9ae014fc1f705cc3c5a08a94180"
+    },
+    {
       "name": "huffpostcanada-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d318ff962dc726b662fee40733e9678e305fb2ad",
-      "mtime": "1665320501",
-      "size": "201200",
-      "md5": "08fd8c05c48447973efdc5f64176bc9e",
-      "crc32": "be272cb5",
-      "sha1": "d40822c5904ac4898d461de9e88378225166029c",
+      "btih": "a5620b7c512a00698de49a724c86050ff289583f",
+      "mtime": "1665365305",
+      "size": "202502",
+      "md5": "57ac47b6c62f52dcd3391a3f1aae4300",
+      "crc32": "27a19ebd",
+      "sha1": "d75caeb84a525cec24065ae2222ce7900003ba4d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "huffpostcanada-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5a243c13568c1c43157f6286906679b2",
+      "md5": "326a73817ffb7319138e3de98d37f5ea",
       "summation": "md5"
     },
     {
       "name": "huffpostcanada-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665320423",
-      "size": "1187840",
-      "md5": "2dd048aa1d3212438b6b58f39b883a6a",
-      "crc32": "4c831f9c",
-      "sha1": "36c5171b656f8b7a3822f56c696314c2b3687c84",
+      "mtime": "1665365230",
+      "size": "1196032",
+      "md5": "e74bff832295d0c619c97249dbd156e8",
+      "crc32": "a500a761",
+      "sha1": "f196bd835e9835a6a07bdcb240fcda10797c797f",
       "format": "Metadata"
     },
     {
@@ -9582,9 +9644,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 926,
-  "item_last_updated": 1665320501,
-  "item_size": 66219069,
+  "files_count": 932,
+  "item_last_updated": 1665365305,
+  "item_size": 66569142,
   "metadata": {
     "identifier": "huffpostcanada-2022",
     "collection": [
@@ -9602,7 +9664,7 @@
     "addeddate": "2022-07-24 06:33:07"
   },
   "server": "ia601400.us.archive.org",
-  "uniq": 154402343,
+  "uniq": 2139488031,
   "workable_servers": [
     "ia601400.us.archive.org",
     "ia801400.us.archive.org"
