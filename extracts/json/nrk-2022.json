@@ -1,5 +1,5 @@
 {
-  "created": 1665369313,
+  "created": 1665414899,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/33/items/nrk-2022",
@@ -9686,31 +9686,93 @@
       "sha1": "80a95311cc986b7281a6d5d1a19a612f41f65863"
     },
     {
+      "name": "nrk-2022-10-10T16:26:33.588577+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665412002",
+      "size": "22636",
+      "md5": "ba8856ecbb6521c62ede301cd5477057",
+      "crc32": "51ff5a33",
+      "sha1": "9d063c304c44036f284b4a88dea9c324d69c8bf5",
+      "format": "JSON"
+    },
+    {
+      "name": "nrk-2022-10-10T16:26:33.588577+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665412004",
+      "size": "39025",
+      "md5": "ed22e6724b37d7ed163e59d63cf7469a",
+      "crc32": "02fc2f5e",
+      "sha1": "3dbdb13b0548011f256c320ac2135aba92fcd6c6",
+      "format": "JSON"
+    },
+    {
+      "name": "nrk-2022-10-10T16:26:33.588577+02:00.jpg",
+      "source": "original",
+      "mtime": "1665412000",
+      "size": "213379",
+      "md5": "3decb8f49848f52f9d2f46c6bfe474db",
+      "crc32": "b0179fab",
+      "sha1": "334ebcfd5cea2386763e2480f841644647b90df6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nrk-2022-10-10T16:26:33.588577+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665412007",
+      "size": "1423",
+      "md5": "f0861bf899cea97bbfa65ccd86085d7e",
+      "crc32": "d4284930",
+      "sha1": "e0a52470e96426ff9c35b4477365feb2d0aa5b03",
+      "format": "JSON"
+    },
+    {
+      "name": "nrk-2022-10-10T16:26:33.588577+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665412008",
+      "size": "252",
+      "md5": "9daf632251818081474436145e269051",
+      "crc32": "9749caf4",
+      "sha1": "df6e1f87beebde358b0c22489935b113f7ef4bbb",
+      "format": "JSON"
+    },
+    {
+      "name": "nrk-2022-10-10T16:26:33.588577+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nrk-2022-10-10T16:26:33.588577+02:00.jpg",
+      "mtime": "1665412114",
+      "size": "9535",
+      "md5": "1b1fa4d004dda4c6650c28b48ce35aac",
+      "crc32": "317da9c6",
+      "sha1": "d9f0def0629cdd73ff0e89755560a33f29dbcdd8"
+    },
+    {
       "name": "nrk-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6a39858f2ef1b35bf8f349c933093312102b4c8e",
-      "mtime": "1665369305",
-      "size": "193478",
-      "md5": "d71f50e42426bde84fcbc4a721b158ed",
-      "crc32": "8c822602",
-      "sha1": "96ae8db1b71df4856381bbab61da736f7cd4f397",
+      "btih": "009e15768369a57341ce8686978b334661d21cbc",
+      "mtime": "1665412138",
+      "size": "194693",
+      "md5": "83cf9d4ed4267f4c94cae4aaa4a5b558",
+      "crc32": "dd7b48b7",
+      "sha1": "270a23c9863afb49231cfe8242797bba92e00c00",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nrk-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3c374b45735981600c0f41af71223490",
+      "md5": "2ea3b278bb8c309a2c6bfe845bd083ee",
       "summation": "md5"
     },
     {
       "name": "nrk-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665369242",
-      "size": "1187840",
-      "md5": "c70373ed4f8c314aaa49d527a0f6b199",
-      "crc32": "76376db1",
-      "sha1": "5297cebdc943cb0e001ad42b415bb930d888e346",
+      "mtime": "1665412014",
+      "size": "1191936",
+      "md5": "13a0390f58dbf1672ad565782e3b04aa",
+      "crc32": "8f156810",
+      "sha1": "e2bf406385b945b84c8f87f8e268df4b946b9e3a",
       "format": "Metadata"
     },
     {
@@ -9724,9 +9786,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 940,
-  "item_last_updated": 1665369305,
-  "item_size": 58519461,
+  "files_count": 946,
+  "item_last_updated": 1665412138,
+  "item_size": 58811022,
   "metadata": {
     "identifier": "nrk-2022",
     "collection": [
@@ -9743,10 +9805,15 @@
     "publicdate": "2022-07-20 11:37:26",
     "addeddate": "2022-07-20 11:37:26"
   },
-  "server": "ia802504.us.archive.org",
-  "uniq": 105747561,
+  "nrk-2022": {
+    "url": "https://www.nrk.no/",
+    "job_id": "spn2-42d51971b04a8286475aa96ac38e6016afd1930c",
+    "message": "The capture will start in ~ because our service is currently overloaded. You may close your browser window and the page will still be saved."
+  },
+  "server": "ia902504.us.archive.org",
+  "uniq": 937222265,
   "workable_servers": [
-    "ia802504.us.archive.org",
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }

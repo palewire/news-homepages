@@ -1,5 +1,5 @@
 {
-  "created": 1665369597,
+  "created": 1665414876,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/2/items/nhk_news-2022",
@@ -13490,31 +13490,83 @@
       "sha1": "922f5129764abfcf7a8786b4d42c0420521358f0"
     },
     {
+      "name": "nhk_news-2022-10-10T23:20:00.369296+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665411610",
+      "size": "16561",
+      "md5": "17106afb640e23e8e0ed3f4168c0873f",
+      "crc32": "127a3a89",
+      "sha1": "936e13b00f9e07a5a17444a4cdc10d35adbf8402",
+      "format": "JSON"
+    },
+    {
+      "name": "nhk_news-2022-10-10T23:20:00.369296+09:00.jpg",
+      "source": "original",
+      "mtime": "1665411608",
+      "size": "272106",
+      "md5": "a60af65c576f1efcffa3cf6bbd9886f4",
+      "crc32": "cfe09401",
+      "sha1": "f02f436a4292b5f764d841fb13056cc01ebc1c24",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nhk_news-2022-10-10T23:20:00.369296+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665411612",
+      "size": "1504",
+      "md5": "eb928a1e338420e73a0c6283a2a7a486",
+      "crc32": "d5270123",
+      "sha1": "f54a75ea7dd7c266cdb7b46fc6600dcccccdb797",
+      "format": "JSON"
+    },
+    {
+      "name": "nhk_news-2022-10-10T23:20:00.369296+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1665411614",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "nhk_news-2022-10-10T23:20:00.369296+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nhk_news-2022-10-10T23:20:00.369296+09:00.jpg",
+      "mtime": "1665411680",
+      "size": "9318",
+      "md5": "b16faa59227e8f6fe38126f87d2a15f2",
+      "crc32": "c6196feb",
+      "sha1": "72effdf8d8fa0ef957d5e38d31de206fe5c917a3"
+    },
+    {
       "name": "nhk_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ed6ec72d388280baa29917bcabe7a61b589ba982",
-      "mtime": "1665369382",
-      "size": "271788",
-      "md5": "ec82d77df1cd78ae6813329b8dda6b13",
-      "crc32": "89e18b95",
-      "sha1": "61b98250881a20a2bb281c0583b22ae393e79f2e",
+      "btih": "87d90c0799a91e559c278b023267b63d6767b06d",
+      "mtime": "1665411695",
+      "size": "272839",
+      "md5": "0a086e8dfc030bbd7bafdb2b6b251caf",
+      "crc32": "28a75130",
+      "sha1": "17163857ef655d4761e8d8a3e25648c43f5aca5e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nhk_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cac584239ad0ed3539b55dff6a2092b5",
+      "md5": "9bdc7b0725499b0d27f58950cf907463",
       "summation": "md5"
     },
     {
       "name": "nhk_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665369211",
-      "size": "1556480",
-      "md5": "8d07dd361fdea0846984a7fd15462889",
-      "crc32": "61d83e40",
-      "sha1": "69495da450bec0692e5599bd2c3ec52eaea48ff1",
+      "mtime": "1665411618",
+      "size": "1560576",
+      "md5": "7acd681beea31cbfff8f751a2518e50f",
+      "crc32": "a0653a10",
+      "sha1": "b5d85f1cb5e1a1a0a8c85e8a990cd57913f31bc0",
       "format": "Metadata"
     },
     {
@@ -13528,9 +13580,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1297,
-  "item_last_updated": 1665369382,
-  "item_size": 89674692,
+  "files_count": 1302,
+  "item_last_updated": 1665411695,
+  "item_size": 89979530,
   "metadata": {
     "identifier": "nhk_news-2022",
     "collection": [
@@ -13547,10 +13599,15 @@
     "publicdate": "2022-07-09 02:39:07",
     "addeddate": "2022-07-09 02:39:07"
   },
-  "server": "ia902506.us.archive.org",
-  "uniq": 1870862828,
+  "nhk_news-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia802506.us.archive.org",
+  "uniq": 1078927807,
   "workable_servers": [
-    "ia902506.us.archive.org",
-    "ia802506.us.archive.org"
+    "ia802506.us.archive.org",
+    "ia902506.us.archive.org"
   ]
 }

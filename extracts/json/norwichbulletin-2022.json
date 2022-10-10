@@ -1,5 +1,5 @@
 {
-  "created": 1665369293,
+  "created": 1665415068,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/9/items/norwichbulletin-2022",
@@ -2424,31 +2424,93 @@
       "sha1": "532159e7c1b99406f5f14c37b0b9481232a5d03b"
     },
     {
+      "name": "norwichbulletin-2022-10-10T10:20:02.735348-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665411608",
+      "size": "24504",
+      "md5": "2d182cc1761069b2185fcb45bbed8992",
+      "crc32": "0c74604f",
+      "sha1": "1082008e1d0b9390f5342319636fbb137d7e2340",
+      "format": "JSON"
+    },
+    {
+      "name": "norwichbulletin-2022-10-10T10:20:02.735348-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665411610",
+      "size": "37016",
+      "md5": "d38d972e7601cea8e148dde95e7bd016",
+      "crc32": "69a7f7f0",
+      "sha1": "d25b6508a0d683c017486bd74eacf0f00facdfbf",
+      "format": "JSON"
+    },
+    {
+      "name": "norwichbulletin-2022-10-10T10:20:02.735348-04:00.jpg",
+      "source": "original",
+      "mtime": "1665411606",
+      "size": "311057",
+      "md5": "56bcc9a97be66ad3e9e47927751fd89d",
+      "crc32": "a10f5a2d",
+      "sha1": "8792aa99ce632cc765a29a4eb4a6eb988a365b4a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "norwichbulletin-2022-10-10T10:20:02.735348-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665411612",
+      "size": "1540",
+      "md5": "cb6890e18a83c3d14c4111c9204dbd3a",
+      "crc32": "7c4cc606",
+      "sha1": "b7eb162733ad7c20a9b88cb5407bd914674fd0e9",
+      "format": "JSON"
+    },
+    {
+      "name": "norwichbulletin-2022-10-10T10:20:02.735348-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665411614",
+      "size": "257",
+      "md5": "6496d6672c472a4278be8fae4baaddf4",
+      "crc32": "da9615aa",
+      "sha1": "014f6f2437d5f869694cb6685c2be0f956edc02f",
+      "format": "JSON"
+    },
+    {
+      "name": "norwichbulletin-2022-10-10T10:20:02.735348-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "norwichbulletin-2022-10-10T10:20:02.735348-04:00.jpg",
+      "mtime": "1665411667",
+      "size": "9198",
+      "md5": "1be0b0943277a712e413246bc822b8f3",
+      "crc32": "82143df2",
+      "sha1": "0f9cb0ae0bb6ffb699b2fc4fa304a30651c3248c"
+    },
+    {
       "name": "norwichbulletin-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e399709e7a6ea9e4b49c5f727bafaeec24dc6848",
-      "mtime": "1665369277",
-      "size": "52347",
-      "md5": "65eebfe51a813968bc876586478e157c",
-      "crc32": "22b10bf0",
-      "sha1": "79a4baa55c73f8cd613f8475917659420c124522",
+      "btih": "1d845b9248b0e9e6e67466ad16a0427bda747e74",
+      "mtime": "1665411672",
+      "size": "53654",
+      "md5": "8665900c970840a9dbf8bc9eb4424c1a",
+      "crc32": "001ec492",
+      "sha1": "19d6465d6f22e8477b5b7c743434b164453f6dec",
       "format": "Archive BitTorrent"
     },
     {
       "name": "norwichbulletin-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "82205dc347d39bc8c0bbea3a88d6b050",
+      "md5": "3bbd42fbc93ec7a0f8319606d8369dee",
       "summation": "md5"
     },
     {
       "name": "norwichbulletin-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665369221",
-      "size": "319488",
-      "md5": "a1a51eecd32617b5a676517cc47fdc3f",
-      "crc32": "a92f530b",
-      "sha1": "c1db49a9d0929848ae9763b55eac547be5f1ae58",
+      "mtime": "1665411618",
+      "size": "331776",
+      "md5": "1366084b1001510e9765642224be3e00",
+      "crc32": "bb148939",
+      "sha1": "b8c5db7779ce3a78c973239aff5918c9fb63e803",
       "format": "Metadata"
     },
     {
@@ -2462,9 +2524,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 238,
-  "item_last_updated": 1665369277,
-  "item_size": 16477032,
+  "files_count": 244,
+  "item_last_updated": 1665411672,
+  "item_size": 16874199,
   "metadata": {
     "identifier": "norwichbulletin-2022",
     "collection": [
@@ -2481,10 +2543,18 @@
     "publicdate": "2022-09-21 02:21:40",
     "addeddate": "2022-09-21 02:21:40"
   },
-  "server": "ia801509.us.archive.org",
-  "uniq": 1043954599,
+  "norwichbulletin-2022": {
+    "url": "https://www.norwichbulletin.com/",
+    "job_id": "spn2-75c56027b4619d7aa57029914d6f8b14afd3aa6c",
+    "status": "error",
+    "status_ext": "WorkerLostError",
+    "resources": [],
+    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 1047."
+  },
+  "server": "ia601509.us.archive.org",
+  "uniq": 804727877,
   "workable_servers": [
-    "ia801509.us.archive.org",
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }
