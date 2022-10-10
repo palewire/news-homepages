@@ -1,5 +1,5 @@
 {
-  "created": 1665390486,
+  "created": 1665432783,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/30/items/techcrunch-2022",
@@ -13838,31 +13838,93 @@
       "sha1": "0a12e71ea5fbad29608fec9756273f127921a778"
     },
     {
+      "name": "techcrunch-2022-10-10T13:10:51.034441-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665432661",
+      "size": "30685",
+      "md5": "f7c190769c90d307e5af8e9295a0b2ac",
+      "crc32": "3bcf0655",
+      "sha1": "b402b5a6f98ea5ba9c4485de6c1c883b01ba065e",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-10-10T13:10:51.034441-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665432663",
+      "size": "13303",
+      "md5": "fdddb5e80d1cedceb3d73032da7ef0e0",
+      "crc32": "a1a82ec3",
+      "sha1": "c9310df1d7a862543931560cfac3e3c52d662b21",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-10-10T13:10:51.034441-07:00.jpg",
+      "source": "original",
+      "mtime": "1665432659",
+      "size": "230582",
+      "md5": "ad9d8bd24ca0135789118d7a2aa2d32b",
+      "crc32": "0a296fdf",
+      "sha1": "a22c2a2a9a657da169a0db8cfae231449d285b42",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techcrunch-2022-10-10T13:10:51.034441-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665432665",
+      "size": "1456",
+      "md5": "55e51e7e996b72acf30e9df07fa5b39b",
+      "crc32": "67747121",
+      "sha1": "9db729e5f710bb20139175eec2dd48cb340f9cf4",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-10-10T13:10:51.034441-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665432667",
+      "size": "32918",
+      "md5": "a30ec1ca7a1e3c267550175d828128f4",
+      "crc32": "a2746089",
+      "sha1": "21eaed0c4d8150946c529fae07de5f2d74f83219",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-10-10T13:10:51.034441-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techcrunch-2022-10-10T13:10:51.034441-07:00.jpg",
+      "mtime": "1665432740",
+      "size": "8467",
+      "md5": "7bbd3f59b242f8be338bd288ac67f60f",
+      "crc32": "c6f71f26",
+      "sha1": "aad89639f2550864655e9c5264e9d8ab36f034e7"
+    },
+    {
       "name": "techcrunch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "89fb00397fcefba35637663f5b0bb87a2e35c75b",
-      "mtime": "1665390473",
-      "size": "283451",
-      "md5": "0d2b4cfb06942a517d373d0b0e2171f7",
-      "crc32": "ef6e886d",
-      "sha1": "d2665ac803118fd2667ea9d18f29e50e68b58eba",
+      "btih": "9a3fd95b6f0f0010646ce81a7f500c27a6152f26",
+      "mtime": "1665432759",
+      "size": "284730",
+      "md5": "efaaecd87fea4a416674fa67a0c3d0fd",
+      "crc32": "1995f4cb",
+      "sha1": "975f5c291410ed25d0bfdf4c2118ea0019c5c585",
       "format": "Archive BitTorrent"
     },
     {
       "name": "techcrunch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b16b82c8e5c3f10323cbde5629769a4a",
+      "md5": "bad2e35394f918a8591fcd54b3761d81",
       "summation": "md5"
     },
     {
       "name": "techcrunch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665390355",
-      "size": "1646592",
-      "md5": "3d00b58f18bec7e37561e0103d486877",
-      "crc32": "f511a26b",
-      "sha1": "7f6b771da0806c9fa1d3f5570dfea031ae6f3951",
+      "mtime": "1665432672",
+      "size": "1650688",
+      "md5": "b5bb42ac368be7445d24062e2c5ab0bc",
+      "crc32": "630cd310",
+      "sha1": "d7ef7c9a99146f31c1f8a7916020630308072f41",
       "format": "Metadata"
     },
     {
@@ -13876,9 +13938,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1335,
-  "item_last_updated": 1665390473,
-  "item_size": 80179708,
+  "files_count": 1341,
+  "item_last_updated": 1665432759,
+  "item_size": 80502494,
   "metadata": {
     "identifier": "techcrunch-2022",
     "collection": [
@@ -13895,10 +13957,10 @@
     "publicdate": "2022-06-24 23:01:49",
     "addeddate": "2022-06-24 23:01:49"
   },
-  "server": "ia601505.us.archive.org",
-  "uniq": 1222026992,
+  "server": "ia801505.us.archive.org",
+  "uniq": 1967867809,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia801505.us.archive.org",
+    "ia601505.us.archive.org"
   ]
 }
