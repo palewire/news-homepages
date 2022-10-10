@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 40 screenshots with the Internet Archive.
+The archiving routine has saved 41 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 40 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pi_news-2022/pi_news-2022-10-10T15:44:32.399280-04:00.jpg">
+  <img src="https://archive.org/download/pi_news-2022/pi_news-2022-10-10T15:44:32.399280-04:00.jpg"
+     alt="Richmond Palladium-Item at 2022-10-10 15:44:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pi_news-2022/pi_news-2022-10-10T15:44:32.399280-04:00.jpg">October 10 at 3:44 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pi_news-2022/pi_news-2022-10-10T04:34:26.689329-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/pi_news-2022/pi_news-2022-10-05T03:24:00.750820-04:00.jpg">October 5 at 3:24 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/pi_news-2022/pi_news-2022-10-04T15:33:12.883830-04:00.jpg">
-  <img src="https://archive.org/download/pi_news-2022/pi_news-2022-10-04T15:33:12.883830-04:00.jpg"
-     alt="Richmond Palladium-Item at 2022-10-04 15:33:15-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pi_news-2022/pi_news-2022-10-04T15:33:12.883830-04:00.jpg">October 4 at 3:33 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 40 hyperlink lists with the Internet Archive.
+The archiving routine has saved 41 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 3:44 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-10T15:44:32.399280-04:00.hyperlinks.json) |
 | [October 10 at 4:34 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-10T04:34:26.689329-04:00.hyperlinks.json) |
 | [October 9 at 3:20 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-09T15:20:41.937558-04:00.hyperlinks.json) |
 | [October 9 at 3:26 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-09T03:26:24.251732-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 7 at 3:47 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-07T03:47:19.301958-04:00.hyperlinks.json) |
 | [October 6 at 3:38 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-06T15:38:46.892109-04:00.hyperlinks.json) |
 | [October 6 at 3:14 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-06T03:14:37.594264-04:00.hyperlinks.json) |
-| [October 5 at 4:42 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-05T16:42:32.662672-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 40 accessibility trees with the Internet Archive.
+The archiving routine has saved 41 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 3:44 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-10T15:44:32.399280-04:00.accessibility.json) |
 | [October 10 at 4:34 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-10T04:34:26.689329-04:00.accessibility.json) |
 | [October 9 at 3:20 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-09T15:20:41.937558-04:00.accessibility.json) |
 | [October 9 at 3:26 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-09T03:26:24.251732-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 7 at 3:47 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-07T03:47:19.301958-04:00.accessibility.json) |
 | [October 6 at 3:38 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-06T15:38:46.892109-04:00.accessibility.json) |
 | [October 6 at 3:14 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-06T03:14:37.594264-04:00.accessibility.json) |
-| [October 5 at 4:42 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-05T16:42:32.662672-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 41 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 3:44 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-10T15:44:32.399280-04:00.lighthouse.json) |
 | [October 10 at 4:34 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-10T04:34:26.689329-04:00.lighthouse.json) |
 | [October 9 at 3:20 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-09T15:20:41.937558-04:00.lighthouse.json) |
 | [October 9 at 3:26 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-09T03:26:24.251732-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 7 at 3:47 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-07T03:47:19.301958-04:00.lighthouse.json) |
 | [October 6 at 3:38 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-06T15:38:46.892109-04:00.lighthouse.json) |
 | [October 6 at 3:14 AM](https://archive.org/download/pi_news-2022/pi_news-2022-10-06T03:14:37.594264-04:00.lighthouse.json) |
-| [October 5 at 4:42 PM](https://archive.org/download/pi_news-2022/pi_news-2022-10-05T16:42:32.662672-04:00.lighthouse.json) |
 
 
 

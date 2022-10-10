@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 257 screenshots with the Internet Archive.
+The archiving routine has saved 259 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/gridnews-2022/gridnews-2022-10-10T14:01:56.577941-04:00.jpg">
+  <img src="https://archive.org/download/gridnews-2022/gridnews-2022-10-10T14:01:56.577941-04:00.jpg"
+     alt="Grid at 2022-10-10 14:01:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gridnews-2022/gridnews-2022-10-10T14:01:56.577941-04:00.jpg">October 10 at 2:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gridnews-2022/gridnews-2022-10-10T04:14:06.035451-04:00.jpg">
+  <img src="https://archive.org/download/gridnews-2022/gridnews-2022-10-10T04:14:06.035451-04:00.jpg"
+     alt="Grid at 2022-10-10 04:14:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gridnews-2022/gridnews-2022-10-10T04:14:06.035451-04:00.jpg">October 10 at 4:14 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/gridnews-2022/gridnews-2022-10-09T13:32:42.554311-04:00.jpg">
   <img src="https://archive.org/download/gridnews-2022/gridnews-2022-10-09T13:32:42.554311-04:00.jpg"
      alt="Grid at 2022-10-09 13:32:44-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gridnews-2022/gridnews-2022-10-05T01:48:20.330361-04:00.jpg">October 5 at 1:48 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gridnews-2022/gridnews-2022-10-04T13:47:08.178162-04:00.jpg">
-  <img src="https://archive.org/download/gridnews-2022/gridnews-2022-10-04T13:47:08.178162-04:00.jpg"
-     alt="Grid at 2022-10-04 13:47:13-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gridnews-2022/gridnews-2022-10-04T13:47:08.178162-04:00.jpg">October 4 at 1:47 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gridnews-2022/gridnews-2022-10-04T02:03:57.244149-04:00.jpg">
-  <img src="https://archive.org/download/gridnews-2022/gridnews-2022-10-04T02:03:57.244149-04:00.jpg"
-     alt="Grid at 2022-10-04 02:03:59-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gridnews-2022/gridnews-2022-10-04T02:03:57.244149-04:00.jpg">October 4 at 2:03 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 257 hyperlink lists with the Internet Archive.
+The archiving routine has saved 259 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 2:02 PM](https://archive.org/download/gridnews-2022/gridnews-2022-10-10T14:01:56.577941-04:00.hyperlinks.json) |
+| [October 10 at 4:14 AM](https://archive.org/download/gridnews-2022/gridnews-2022-10-10T04:14:06.035451-04:00.hyperlinks.json) |
 | [October 9 at 1:32 PM](https://archive.org/download/gridnews-2022/gridnews-2022-10-09T13:32:42.554311-04:00.hyperlinks.json) |
 | [October 9 at 1:20 AM](https://archive.org/download/gridnews-2022/gridnews-2022-10-09T01:20:17.929892-04:00.hyperlinks.json) |
 | [October 8 at 1:35 PM](https://archive.org/download/gridnews-2022/gridnews-2022-10-08T13:35:31.093381-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 7 at 2:10 AM](https://archive.org/download/gridnews-2022/gridnews-2022-10-07T02:09:47.392498-04:00.hyperlinks.json) |
 | [October 6 at 1:42 PM](https://archive.org/download/gridnews-2022/gridnews-2022-10-06T13:42:28.550384-04:00.hyperlinks.json) |
 | [October 6 at 1:42 AM](https://archive.org/download/gridnews-2022/gridnews-2022-10-06T01:42:30.522121-04:00.hyperlinks.json) |
-| [October 5 at 2:15 PM](https://archive.org/download/gridnews-2022/gridnews-2022-10-05T14:15:20.918288-04:00.hyperlinks.json) |
-| [October 5 at 1:48 AM](https://archive.org/download/gridnews-2022/gridnews-2022-10-05T01:48:20.330361-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 255 accessibility trees with the Internet Archive.
+The archiving routine has saved 257 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 2:01 PM](https://archive.org/download/gridnews-2022/gridnews-2022-10-10T14:01:56.577941-04:00.accessibility.json) |
+| [October 10 at 4:14 AM](https://archive.org/download/gridnews-2022/gridnews-2022-10-10T04:14:06.035451-04:00.accessibility.json) |
 | [October 9 at 1:32 PM](https://archive.org/download/gridnews-2022/gridnews-2022-10-09T13:32:42.554311-04:00.accessibility.json) |
 | [October 9 at 1:20 AM](https://archive.org/download/gridnews-2022/gridnews-2022-10-09T01:20:17.929892-04:00.accessibility.json) |
 | [October 8 at 1:35 PM](https://archive.org/download/gridnews-2022/gridnews-2022-10-08T13:35:31.093381-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 7 at 2:10 AM](https://archive.org/download/gridnews-2022/gridnews-2022-10-07T02:09:47.392498-04:00.accessibility.json) |
 | [October 6 at 1:42 PM](https://archive.org/download/gridnews-2022/gridnews-2022-10-06T13:42:28.550384-04:00.accessibility.json) |
 | [October 6 at 1:42 AM](https://archive.org/download/gridnews-2022/gridnews-2022-10-06T01:42:30.522121-04:00.accessibility.json) |
-| [October 5 at 2:15 PM](https://archive.org/download/gridnews-2022/gridnews-2022-10-05T14:15:20.918288-04:00.accessibility.json) |
-| [October 5 at 1:48 AM](https://archive.org/download/gridnews-2022/gridnews-2022-10-05T01:48:20.330361-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 154 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 156 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 2:02 PM](https://archive.org/download/gridnews-2022/gridnews-2022-10-10T14:01:56.577941-04:00.lighthouse.json) |
+| [October 10 at 4:14 AM](https://archive.org/download/gridnews-2022/gridnews-2022-10-10T04:14:06.035451-04:00.lighthouse.json) |
 | [October 9 at 1:32 PM](https://archive.org/download/gridnews-2022/gridnews-2022-10-09T13:32:42.554311-04:00.lighthouse.json) |
 | [October 9 at 1:20 AM](https://archive.org/download/gridnews-2022/gridnews-2022-10-09T01:20:17.929892-04:00.lighthouse.json) |
 | [October 8 at 1:35 PM](https://archive.org/download/gridnews-2022/gridnews-2022-10-08T13:35:31.093381-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 7 at 2:10 AM](https://archive.org/download/gridnews-2022/gridnews-2022-10-07T02:09:47.392498-04:00.lighthouse.json) |
 | [October 6 at 1:42 PM](https://archive.org/download/gridnews-2022/gridnews-2022-10-06T13:42:28.550384-04:00.lighthouse.json) |
 | [October 6 at 1:42 AM](https://archive.org/download/gridnews-2022/gridnews-2022-10-06T01:42:30.522121-04:00.lighthouse.json) |
-| [October 5 at 2:15 PM](https://archive.org/download/gridnews-2022/gridnews-2022-10-05T14:15:20.918288-04:00.lighthouse.json) |
-| [October 5 at 1:48 AM](https://archive.org/download/gridnews-2022/gridnews-2022-10-05T01:48:20.330361-04:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 1124 screenshots with the Internet Archive.
+The archiving routine has saved 1125 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 1124 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nytimes-2022/nytimes-2022-10-10T15:42:33.149001-04:00.jpg">
+  <img src="https://archive.org/download/nytimes-2022/nytimes-2022-10-10T15:42:33.149001-04:00.jpg"
+     alt="New York Times at 2022-10-10 15:43:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-10-10T15:42:33.149001-04:00.jpg">October 10 at 3:43 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nytimes-2022/nytimes-2022-10-10T09:27:56.700304-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-10-07T17:21:23.955057-04:00.jpg">October 7 at 5:21 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nytimes-2022/nytimes-2022-10-07T15:44:46.655846-04:00.jpg">
-  <img src="https://archive.org/download/nytimes-2022/nytimes-2022-10-07T15:44:46.655846-04:00.jpg"
-     alt="New York Times at 2022-10-07 15:44:49-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-10-07T15:44:46.655846-04:00.jpg">October 7 at 3:44 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 1062 hyperlink lists with the Internet Archive.
+The archiving routine has saved 1063 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 3:43 PM](https://archive.org/download/nytimes-2022/nytimes-2022-10-10T15:42:33.149001-04:00.hyperlinks.json) |
 | [October 10 at 9:28 AM](https://archive.org/download/nytimes-2022/nytimes-2022-10-10T09:27:56.700304-04:00.hyperlinks.json) |
 | [October 10 at 4:31 AM](https://archive.org/download/nytimes-2022/nytimes-2022-10-10T04:31:01.006863-04:00.hyperlinks.json) |
 | [October 9 at 5:19 PM](https://archive.org/download/nytimes-2022/nytimes-2022-10-09T17:19:38.421483-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 5:21 PM](https://archive.org/download/nytimes-2022/nytimes-2022-10-08T17:21:06.545421-04:00.hyperlinks.json) |
 | [October 8 at 3:16 PM](https://archive.org/download/nytimes-2022/nytimes-2022-10-08T15:15:59.304371-04:00.hyperlinks.json) |
 | [October 8 at 8:58 AM](https://archive.org/download/nytimes-2022/nytimes-2022-10-08T08:58:45.816025-04:00.hyperlinks.json) |
-| [October 8 at 3:18 AM](https://archive.org/download/nytimes-2022/nytimes-2022-10-08T03:17:20.614448-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 1068 accessibility trees with the Internet Archive.
+The archiving routine has saved 1069 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 3:43 PM](https://archive.org/download/nytimes-2022/nytimes-2022-10-10T15:42:33.149001-04:00.accessibility.json) |
 | [October 10 at 9:28 AM](https://archive.org/download/nytimes-2022/nytimes-2022-10-10T09:27:56.700304-04:00.accessibility.json) |
 | [October 10 at 4:31 AM](https://archive.org/download/nytimes-2022/nytimes-2022-10-10T04:31:01.006863-04:00.accessibility.json) |
 | [October 9 at 5:19 PM](https://archive.org/download/nytimes-2022/nytimes-2022-10-09T17:19:38.421483-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 5:21 PM](https://archive.org/download/nytimes-2022/nytimes-2022-10-08T17:21:06.545421-04:00.accessibility.json) |
 | [October 8 at 3:16 PM](https://archive.org/download/nytimes-2022/nytimes-2022-10-08T15:15:59.304371-04:00.accessibility.json) |
 | [October 8 at 8:58 AM](https://archive.org/download/nytimes-2022/nytimes-2022-10-08T08:58:45.816025-04:00.accessibility.json) |
-| [October 8 at 3:18 AM](https://archive.org/download/nytimes-2022/nytimes-2022-10-08T03:17:20.614448-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 307 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 308 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 3:43 PM](https://archive.org/download/nytimes-2022/nytimes-2022-10-10T15:42:33.149001-04:00.lighthouse.json) |
 | [October 10 at 9:28 AM](https://archive.org/download/nytimes-2022/nytimes-2022-10-10T09:27:56.700304-04:00.lighthouse.json) |
 | [October 10 at 4:31 AM](https://archive.org/download/nytimes-2022/nytimes-2022-10-10T04:31:01.006863-04:00.lighthouse.json) |
 | [October 9 at 5:19 PM](https://archive.org/download/nytimes-2022/nytimes-2022-10-09T17:19:38.421483-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 5:21 PM](https://archive.org/download/nytimes-2022/nytimes-2022-10-08T17:21:06.545421-04:00.lighthouse.json) |
 | [October 8 at 3:16 PM](https://archive.org/download/nytimes-2022/nytimes-2022-10-08T15:15:59.304371-04:00.lighthouse.json) |
 | [October 8 at 8:58 AM](https://archive.org/download/nytimes-2022/nytimes-2022-10-08T08:58:45.816025-04:00.lighthouse.json) |
-| [October 8 at 3:18 AM](https://archive.org/download/nytimes-2022/nytimes-2022-10-08T03:17:20.614448-04:00.lighthouse.json) |
 
 
 

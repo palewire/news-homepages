@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 195 screenshots with the Internet Archive.
+The archiving routine has saved 196 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 195 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/people-2022/people-2022-10-10T15:44:30.605746-04:00.jpg">
+  <img src="https://archive.org/download/people-2022/people-2022-10-10T15:44:30.605746-04:00.jpg"
+     alt="People at 2022-10-10 15:44:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/people-2022/people-2022-10-10T15:44:30.605746-04:00.jpg">October 10 at 3:44 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/people-2022/people-2022-10-10T04:33:48.943512-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/people-2022/people-2022-10-05T03:23:55.686456-04:00.jpg">October 5 at 3:23 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/people-2022/people-2022-10-04T15:33:39.119123-04:00.jpg">
-  <img src="https://archive.org/download/people-2022/people-2022-10-04T15:33:39.119123-04:00.jpg"
-     alt="People at 2022-10-04 15:33:45-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/people-2022/people-2022-10-04T15:33:39.119123-04:00.jpg">October 4 at 3:33 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 181 hyperlink lists with the Internet Archive.
+The archiving routine has saved 182 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 3:44 PM](https://archive.org/download/people-2022/people-2022-10-10T15:44:30.605746-04:00.hyperlinks.json) |
 | [October 10 at 4:34 AM](https://archive.org/download/people-2022/people-2022-10-10T04:33:48.943512-04:00.hyperlinks.json) |
 | [October 9 at 3:20 PM](https://archive.org/download/people-2022/people-2022-10-09T15:20:48.885287-04:00.hyperlinks.json) |
 | [October 9 at 3:25 AM](https://archive.org/download/people-2022/people-2022-10-09T03:25:06.154841-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 7 at 3:46 AM](https://archive.org/download/people-2022/people-2022-10-07T03:46:26.483934-04:00.hyperlinks.json) |
 | [October 6 at 3:36 PM](https://archive.org/download/people-2022/people-2022-10-06T15:35:48.777216-04:00.hyperlinks.json) |
 | [October 6 at 3:14 AM](https://archive.org/download/people-2022/people-2022-10-06T03:14:33.895534-04:00.hyperlinks.json) |
-| [October 5 at 4:42 PM](https://archive.org/download/people-2022/people-2022-10-05T16:42:39.207327-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 186 accessibility trees with the Internet Archive.
+The archiving routine has saved 187 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 3:44 PM](https://archive.org/download/people-2022/people-2022-10-10T15:44:30.605746-04:00.accessibility.json) |
 | [October 10 at 4:33 AM](https://archive.org/download/people-2022/people-2022-10-10T04:33:48.943512-04:00.accessibility.json) |
 | [October 9 at 3:20 PM](https://archive.org/download/people-2022/people-2022-10-09T15:20:48.885287-04:00.accessibility.json) |
 | [October 9 at 3:25 AM](https://archive.org/download/people-2022/people-2022-10-09T03:25:06.154841-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 7 at 3:46 AM](https://archive.org/download/people-2022/people-2022-10-07T03:46:26.483934-04:00.accessibility.json) |
 | [October 6 at 3:36 PM](https://archive.org/download/people-2022/people-2022-10-06T15:35:48.777216-04:00.accessibility.json) |
 | [October 5 at 4:42 PM](https://archive.org/download/people-2022/people-2022-10-05T16:42:39.207327-04:00.accessibility.json) |
-| [October 5 at 3:23 AM](https://archive.org/download/people-2022/people-2022-10-05T03:23:55.686456-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 156 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 157 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 3:44 PM](https://archive.org/download/people-2022/people-2022-10-10T15:44:30.605746-04:00.lighthouse.json) |
 | [October 10 at 4:34 AM](https://archive.org/download/people-2022/people-2022-10-10T04:33:48.943512-04:00.lighthouse.json) |
 | [October 9 at 3:20 PM](https://archive.org/download/people-2022/people-2022-10-09T15:20:48.885287-04:00.lighthouse.json) |
 | [October 9 at 3:25 AM](https://archive.org/download/people-2022/people-2022-10-09T03:25:06.154841-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 7 at 3:46 AM](https://archive.org/download/people-2022/people-2022-10-07T03:46:26.483934-04:00.lighthouse.json) |
 | [October 6 at 3:36 PM](https://archive.org/download/people-2022/people-2022-10-06T15:35:48.777216-04:00.lighthouse.json) |
 | [October 6 at 3:14 AM](https://archive.org/download/people-2022/people-2022-10-06T03:14:33.895534-04:00.lighthouse.json) |
-| [October 5 at 4:42 PM](https://archive.org/download/people-2022/people-2022-10-05T16:42:39.207327-04:00.lighthouse.json) |
 
 
 

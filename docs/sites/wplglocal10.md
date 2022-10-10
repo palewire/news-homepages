@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 149 screenshots with the Internet Archive.
+The archiving routine has saved 150 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 149 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-10T16:15:45.071387-04:00.jpg">
+  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-10T16:15:45.071387-04:00.jpg"
+     alt="WPLG Local 10 News at 2022-10-10 16:15:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-10T16:15:45.071387-04:00.jpg">October 10 at 4:15 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-10T04:31:07.977680-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-05T03:34:00.569659-04:00.jpg">October 5 at 3:34 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-04T16:15:04.603317-04:00.jpg">
-  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-04T16:15:04.603317-04:00.jpg"
-     alt="WPLG Local 10 News at 2022-10-04 16:15:11-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-04T16:15:04.603317-04:00.jpg">October 4 at 4:15 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 149 hyperlink lists with the Internet Archive.
+The archiving routine has saved 150 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 4:15 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-10T16:15:45.071387-04:00.hyperlinks.json) |
 | [October 10 at 4:31 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-10T04:31:07.977680-04:00.hyperlinks.json) |
 | [October 9 at 4:01 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-09T16:01:15.773758-04:00.hyperlinks.json) |
 | [October 9 at 3:34 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-09T03:34:25.101550-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 7 at 3:59 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-07T03:59:02.323469-04:00.hyperlinks.json) |
 | [October 6 at 4:35 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-06T16:35:23.869387-04:00.hyperlinks.json) |
 | [October 6 at 3:23 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-06T03:23:27.750801-04:00.hyperlinks.json) |
-| [October 5 at 4:53 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-05T16:53:41.353336-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 147 accessibility trees with the Internet Archive.
+The archiving routine has saved 148 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 4:15 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-10T16:15:45.071387-04:00.accessibility.json) |
 | [October 10 at 4:31 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-10T04:31:07.977680-04:00.accessibility.json) |
 | [October 9 at 4:01 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-09T16:01:15.773758-04:00.accessibility.json) |
 | [October 9 at 3:34 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-09T03:34:25.101550-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 7 at 3:59 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-07T03:59:02.323469-04:00.accessibility.json) |
 | [October 6 at 4:35 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-06T16:35:23.869387-04:00.accessibility.json) |
 | [October 6 at 3:23 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-06T03:23:27.750801-04:00.accessibility.json) |
-| [October 5 at 4:53 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-05T16:53:41.353336-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 149 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 150 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 4:15 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-10T16:15:45.071387-04:00.lighthouse.json) |
 | [October 10 at 4:31 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-10T04:31:07.977680-04:00.lighthouse.json) |
 | [October 9 at 4:01 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-09T16:01:15.773758-04:00.lighthouse.json) |
 | [October 9 at 3:34 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-09T03:34:25.101550-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 7 at 3:59 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-07T03:59:02.323469-04:00.lighthouse.json) |
 | [October 6 at 4:35 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-06T16:35:23.869387-04:00.lighthouse.json) |
 | [October 6 at 3:23 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-06T03:23:27.750801-04:00.lighthouse.json) |
-| [October 5 at 4:53 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-10-05T16:53:41.353336-04:00.lighthouse.json) |
 
 
 

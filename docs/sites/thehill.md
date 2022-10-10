@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 193 screenshots with the Internet Archive.
+The archiving routine has saved 194 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 193 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thehill-2022/thehill-2022-10-10T16:12:28.512200-04:00.jpg">
+  <img src="https://archive.org/download/thehill-2022/thehill-2022-10-10T16:12:28.512200-04:00.jpg"
+     alt="The Hill at 2022-10-10 16:12:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thehill-2022/thehill-2022-10-10T16:12:28.512200-04:00.jpg">October 10 at 4:12 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thehill-2022/thehill-2022-10-10T04:24:54.715945-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thehill-2022/thehill-2022-10-05T03:30:25.932265-04:00.jpg">October 5 at 3:30 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thehill-2022/thehill-2022-10-04T16:09:21.066820-04:00.jpg">
-  <img src="https://archive.org/download/thehill-2022/thehill-2022-10-04T16:09:21.066820-04:00.jpg"
-     alt="The Hill at 2022-10-04 16:09:22-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thehill-2022/thehill-2022-10-04T16:09:21.066820-04:00.jpg">October 4 at 4:09 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 192 hyperlink lists with the Internet Archive.
+The archiving routine has saved 193 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 4:12 PM](https://archive.org/download/thehill-2022/thehill-2022-10-10T16:12:28.512200-04:00.hyperlinks.json) |
 | [October 10 at 4:25 AM](https://archive.org/download/thehill-2022/thehill-2022-10-10T04:24:54.715945-04:00.hyperlinks.json) |
 | [October 9 at 3:59 PM](https://archive.org/download/thehill-2022/thehill-2022-10-09T15:59:19.580102-04:00.hyperlinks.json) |
 | [October 9 at 3:31 AM](https://archive.org/download/thehill-2022/thehill-2022-10-09T03:31:44.734568-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 7 at 3:54 AM](https://archive.org/download/thehill-2022/thehill-2022-10-07T03:54:01.539126-04:00.hyperlinks.json) |
 | [October 6 at 4:30 PM](https://archive.org/download/thehill-2022/thehill-2022-10-06T16:30:29.702354-04:00.hyperlinks.json) |
 | [October 6 at 3:22 AM](https://archive.org/download/thehill-2022/thehill-2022-10-06T03:21:32.817779-04:00.hyperlinks.json) |
-| [October 5 at 4:52 PM](https://archive.org/download/thehill-2022/thehill-2022-10-05T16:51:56.564717-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 195 accessibility trees with the Internet Archive.
+The archiving routine has saved 196 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 4:12 PM](https://archive.org/download/thehill-2022/thehill-2022-10-10T16:12:28.512200-04:00.accessibility.json) |
 | [October 10 at 4:25 AM](https://archive.org/download/thehill-2022/thehill-2022-10-10T04:24:54.715945-04:00.accessibility.json) |
 | [October 9 at 3:59 PM](https://archive.org/download/thehill-2022/thehill-2022-10-09T15:59:19.580102-04:00.accessibility.json) |
 | [October 9 at 3:31 AM](https://archive.org/download/thehill-2022/thehill-2022-10-09T03:31:44.734568-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 7 at 3:54 AM](https://archive.org/download/thehill-2022/thehill-2022-10-07T03:54:01.539126-04:00.accessibility.json) |
 | [October 6 at 4:30 PM](https://archive.org/download/thehill-2022/thehill-2022-10-06T16:30:29.702354-04:00.accessibility.json) |
 | [October 6 at 3:22 AM](https://archive.org/download/thehill-2022/thehill-2022-10-06T03:21:32.817779-04:00.accessibility.json) |
-| [October 5 at 4:51 PM](https://archive.org/download/thehill-2022/thehill-2022-10-05T16:51:56.564717-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 156 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 157 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 4:12 PM](https://archive.org/download/thehill-2022/thehill-2022-10-10T16:12:28.512200-04:00.lighthouse.json) |
 | [October 10 at 4:25 AM](https://archive.org/download/thehill-2022/thehill-2022-10-10T04:24:54.715945-04:00.lighthouse.json) |
 | [October 9 at 3:59 PM](https://archive.org/download/thehill-2022/thehill-2022-10-09T15:59:19.580102-04:00.lighthouse.json) |
 | [October 9 at 3:31 AM](https://archive.org/download/thehill-2022/thehill-2022-10-09T03:31:44.734568-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 7 at 3:54 AM](https://archive.org/download/thehill-2022/thehill-2022-10-07T03:54:01.539126-04:00.lighthouse.json) |
 | [October 6 at 4:30 PM](https://archive.org/download/thehill-2022/thehill-2022-10-06T16:30:29.702354-04:00.lighthouse.json) |
 | [October 6 at 3:22 AM](https://archive.org/download/thehill-2022/thehill-2022-10-06T03:21:32.817779-04:00.lighthouse.json) |
-| [October 5 at 4:52 PM](https://archive.org/download/thehill-2022/thehill-2022-10-05T16:51:56.564717-04:00.lighthouse.json) |
 
 
 
