@@ -1,5 +1,5 @@
 {
-  "created": 1665327628,
+  "created": 1665374180,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/1/items/thenewportdaily-2022",
@@ -2372,31 +2372,93 @@
       "sha1": "577b0687b4f9cb23e5c258417a648c5b4559cbc1"
     },
     {
+      "name": "thenewportdaily-2022-10-09T23:55:15.944075-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665374121",
+      "size": "22121",
+      "md5": "c0183fb3ce00040844dbeaed69ed61cd",
+      "crc32": "0ea86da9",
+      "sha1": "23c288e9c92d136505d9549e6c83f70223bf6ea9",
+      "format": "JSON"
+    },
+    {
+      "name": "thenewportdaily-2022-10-09T23:55:15.944075-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665374122",
+      "size": "30025",
+      "md5": "f6348e90d215d071d78eb9f62ca4cb81",
+      "crc32": "293e3852",
+      "sha1": "8d04fa06c5a461610fbc1198f878e1d440719ca3",
+      "format": "JSON"
+    },
+    {
+      "name": "thenewportdaily-2022-10-09T23:55:15.944075-04:00.jpg",
+      "source": "original",
+      "mtime": "1665374119",
+      "size": "252085",
+      "md5": "f58440a4e6170966ca2d6d402431a467",
+      "crc32": "87477f54",
+      "sha1": "2b7c891921a0b7ab26cfefd429ea57b82c4780f6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thenewportdaily-2022-10-09T23:55:15.944075-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665374124",
+      "size": "1486",
+      "md5": "a720271e8e1e55cbb44ebeef5a66e56f",
+      "crc32": "339b8516",
+      "sha1": "53159517fab7072f0c9c5cc4a7c3e8445a317270",
+      "format": "JSON"
+    },
+    {
+      "name": "thenewportdaily-2022-10-09T23:55:15.944075-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665374126",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thenewportdaily-2022-10-09T23:55:15.944075-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thenewportdaily-2022-10-09T23:55:15.944075-04:00.jpg",
+      "mtime": "1665374171",
+      "size": "9589",
+      "md5": "84c17a1ce9d25b38e7873d52d95788db",
+      "crc32": "35245571",
+      "sha1": "cc78c232d070d25f1ee1758ee1aae65f564df775"
+    },
+    {
       "name": "thenewportdaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a2cd26127737e0b8f2b53380b5896ef73baa81ef",
-      "mtime": "1665327621",
-      "size": "51258",
-      "md5": "bd82603cb50ac0bff530f3f3d3fe41d3",
-      "crc32": "12758f04",
-      "sha1": "cea3f58ea02812d5db558c108f4de2f471801a86",
+      "btih": "09717db33035cf09ddd8cc4ebca14c965f8c5d47",
+      "mtime": "1665374174",
+      "size": "52545",
+      "md5": "ef6e897dd245e4c3e33f69185523928b",
+      "crc32": "5a57a596",
+      "sha1": "5519a6402d3e5c34ba92c35a331dcb8de4d0438b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thenewportdaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "076ba131da205bae39c9c38946742a6f",
+      "md5": "aa3558c0fe72d99e2fb3d003aebc08cb",
       "summation": "md5"
     },
     {
       "name": "thenewportdaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665327573",
-      "size": "315392",
-      "md5": "3926c02ac750c679a4238580cd70d1e6",
-      "crc32": "84c44dfb",
-      "sha1": "deb61c499a862b917475d7f3c120d65807d88629",
+      "mtime": "1665374129",
+      "size": "323584",
+      "md5": "a9d1b360e4a99a497a5702643b12cb0b",
+      "crc32": "2dda4bae",
+      "sha1": "969983cf609c019a9318ea464722e3051e0779af",
       "format": "Metadata"
     },
     {
@@ -2410,9 +2472,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 233,
-  "item_last_updated": 1665327621,
-  "item_size": 15795575,
+  "files_count": 239,
+  "item_last_updated": 1665374174,
+  "item_size": 16120562,
   "metadata": {
     "identifier": "thenewportdaily-2022",
     "collection": [
@@ -2430,7 +2492,7 @@
     "addeddate": "2022-09-21 03:45:16"
   },
   "server": "ia801408.us.archive.org",
-  "uniq": 1446145078,
+  "uniq": 1692520873,
   "workable_servers": [
     "ia801408.us.archive.org",
     "ia601408.us.archive.org"

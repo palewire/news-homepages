@@ -1,5 +1,5 @@
 {
-  "created": 1665327588,
+  "created": 1665374204,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/21/items/thegleanernews-2022",
@@ -2372,31 +2372,93 @@
       "sha1": "e87f4c4f076afeb4d417f9451f19032d217cc7f9"
     },
     {
+      "name": "thegleanernews-2022-10-09T22:55:41.093525-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665374143",
+      "size": "20873",
+      "md5": "075a21e1246fb09557a42a1ddfec9b59",
+      "crc32": "91c4aa60",
+      "sha1": "6ca0742b3443a7303799be3874f481f077373f98",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-09T22:55:41.093525-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665374145",
+      "size": "33742",
+      "md5": "b0881e8741dc51ea45a41f0da223bb5d",
+      "crc32": "d329db91",
+      "sha1": "973c698f105a207cbc8ecb943b176685400d9222",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-09T22:55:41.093525-05:00.jpg",
+      "source": "original",
+      "mtime": "1665374142",
+      "size": "226616",
+      "md5": "519337c402d77a82f3117998d93836b6",
+      "crc32": "58b856a4",
+      "sha1": "c20bc063d3c560e585f2029c9d57931cd3c89511",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thegleanernews-2022-10-09T22:55:41.093525-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665374146",
+      "size": "1494",
+      "md5": "e2b5039c860ee874cfeb24542583e59b",
+      "crc32": "22cbef41",
+      "sha1": "f25782085639b3e9bf692887d9c2ae3ec6e407b9",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-09T22:55:41.093525-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665374148",
+      "size": "110269",
+      "md5": "7d09cea3b3aaa0678973a69532918d06",
+      "crc32": "f2a05f59",
+      "sha1": "f6252258371977fe11995379d79772111f123c14",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-09T22:55:41.093525-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thegleanernews-2022-10-09T22:55:41.093525-05:00.jpg",
+      "mtime": "1665374194",
+      "size": "8945",
+      "md5": "408b1334da1e78352a2a3eb1b2d662ac",
+      "crc32": "1bde99b8",
+      "sha1": "0298067f4205dbc9c284057f56e4c0e4e0f12951"
+    },
+    {
       "name": "thegleanernews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a0e8f29c2dcd2f3c5b07ac2902721dfad3a26f1a",
-      "mtime": "1665327581",
-      "size": "50950",
-      "md5": "ce22c809e648886313490dd16e76bd4d",
-      "crc32": "1eb31e5d",
-      "sha1": "b01f6ef49d22a1c0cd7470b85ae6aefa82197ffc",
+      "btih": "d647299d7bf33f3a0504811699ea82f67e0f20fa",
+      "mtime": "1665374197",
+      "size": "52234",
+      "md5": "028886d7ef18578dc2dd5314208e09e1",
+      "crc32": "9251be65",
+      "sha1": "ba6d62fbddf0555b346ff3851b94e8a7fbde86a2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thegleanernews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c481a7328e8310c3aeaee6141023374a",
+      "md5": "69d5e70c9139c8fb2cfdcae8ec9cdb31",
       "summation": "md5"
     },
     {
       "name": "thegleanernews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665327534",
-      "size": "315392",
-      "md5": "409dd11393ed518cb28d6a46c14f3691",
-      "crc32": "a5dbb8a4",
-      "sha1": "7db8a37416029e1a233a7554abbad32d716858d2",
+      "mtime": "1665374151",
+      "size": "319488",
+      "md5": "09c2a2ea542c178dfab60791b3cfe774",
+      "crc32": "c242c515",
+      "sha1": "d12a8ab7494993ba1425a7e6cf38e588e6fab725",
       "format": "Metadata"
     },
     {
@@ -2410,9 +2472,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 233,
-  "item_last_updated": 1665327581,
-  "item_size": 14280812,
+  "files_count": 239,
+  "item_last_updated": 1665374197,
+  "item_size": 14688131,
   "metadata": {
     "identifier": "thegleanernews-2022",
     "collection": [
@@ -2429,10 +2491,10 @@
     "publicdate": "2022-09-21 03:44:35",
     "addeddate": "2022-09-21 03:44:35"
   },
-  "server": "ia601507.us.archive.org",
-  "uniq": 910587944,
+  "server": "ia801507.us.archive.org",
+  "uniq": 1532193386,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
+    "ia801507.us.archive.org",
+    "ia601507.us.archive.org"
   ]
 }
