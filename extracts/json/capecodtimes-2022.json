@@ -1,5 +1,5 @@
 {
-  "created": 1665331362,
+  "created": 1665383095,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/16/items/capecodtimes-2022",
@@ -2372,31 +2372,93 @@
       "sha1": "970b799b85f22df68a76bff84ad9066ef30c6fd8"
     },
     {
+      "name": "capecodtimes-2022-10-10T02:23:44.316037-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665383028",
+      "size": "23405",
+      "md5": "ee956a501d3783d9b7647fefbd3991ca",
+      "crc32": "adcef66f",
+      "sha1": "51e655b5a44efebb4771658fa4beebe2c1f9ac96",
+      "format": "JSON"
+    },
+    {
+      "name": "capecodtimes-2022-10-10T02:23:44.316037-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665383029",
+      "size": "34136",
+      "md5": "4be72c20263e99a4460df6c4fa090262",
+      "crc32": "132bb74d",
+      "sha1": "65cba9a4d4c495a0260986310fc312b60c8edaa2",
+      "format": "JSON"
+    },
+    {
+      "name": "capecodtimes-2022-10-10T02:23:44.316037-04:00.jpg",
+      "source": "original",
+      "mtime": "1665383026",
+      "size": "246801",
+      "md5": "969b6baed04c8f77e0db59005ea4606f",
+      "crc32": "112c87be",
+      "sha1": "b538ec93b3ac045244b73eacf43edcef6525b924",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capecodtimes-2022-10-10T02:23:44.316037-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665383030",
+      "size": "1513",
+      "md5": "c75397d6c72ec180725b89984d2bee30",
+      "crc32": "4946b565",
+      "sha1": "dc515cc8b34572ac67d76932009d424633dccb76",
+      "format": "JSON"
+    },
+    {
+      "name": "capecodtimes-2022-10-10T02:23:44.316037-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665383032",
+      "size": "147334",
+      "md5": "76685779dffc07911424ae1bf88e1087",
+      "crc32": "95e03822",
+      "sha1": "cfc300f6f026ea630a4b766487a0b9f589a370d9",
+      "format": "JSON"
+    },
+    {
+      "name": "capecodtimes-2022-10-10T02:23:44.316037-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capecodtimes-2022-10-10T02:23:44.316037-04:00.jpg",
+      "mtime": "1665383082",
+      "size": "8814",
+      "md5": "9695abcb86777db1715475d1d65f4626",
+      "crc32": "0016ae8f",
+      "sha1": "881602f803b757caabc848216591b89c8ea74d53"
+    },
+    {
       "name": "capecodtimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9c2cba4802a70c8e8fbdae07c75b53117f232df4",
-      "mtime": "1665331324",
-      "size": "50551",
-      "md5": "26405ebc7acdf40138b51312ce24ab4f",
-      "crc32": "e1a90ccb",
-      "sha1": "c9a74bba4f625e32e3f02ece53f8095e228d126e",
+      "btih": "89173b28e315d6425ca4cff83c270443b6625f3a",
+      "mtime": "1665383086",
+      "size": "51823",
+      "md5": "d72f4280a7a110197cc338df11eb66af",
+      "crc32": "fbe0e4ed",
+      "sha1": "6da4224c7f6c80e0ebfc825b931437532bee36e1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "capecodtimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e49594eef374cf4ca1d50cd7a2ff625a",
+      "md5": "cfcdd45657de69b07803d83c3911fc7f",
       "summation": "md5"
     },
     {
       "name": "capecodtimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665331219",
-      "size": "315392",
-      "md5": "a549333d76949f6737960072ffbb3dbf",
-      "crc32": "28fa80f0",
-      "sha1": "0d6a5ada2e3d5f65c629a57089c3b28a6c9a6e5f",
+      "mtime": "1665383038",
+      "size": "319488",
+      "md5": "fd172eebc437997fe23acd5b1b181ff4",
+      "crc32": "4d2ee74f",
+      "sha1": "c43a680fde249f348250db22ce50a6119c0821fd",
       "format": "Metadata"
     },
     {
@@ -2410,9 +2472,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 233,
-  "item_last_updated": 1665331324,
-  "item_size": 15833838,
+  "files_count": 239,
+  "item_last_updated": 1665383086,
+  "item_size": 16301209,
   "metadata": {
     "identifier": "capecodtimes-2022",
     "collection": [
@@ -2429,10 +2491,10 @@
     "publicdate": "2022-09-21 04:39:34",
     "addeddate": "2022-09-21 04:39:34"
   },
-  "server": "ia601506.us.archive.org",
-  "uniq": 1641572445,
+  "server": "ia801506.us.archive.org",
+  "uniq": 943178309,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia801506.us.archive.org",
+    "ia601506.us.archive.org"
   ]
 }

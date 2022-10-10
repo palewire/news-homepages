@@ -1,5 +1,5 @@
 {
-  "created": 1665369020,
+  "created": 1665383124,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/34/items/bloombergjapan-2022",
@@ -13632,31 +13632,93 @@
       "sha1": "30673f33aa1aa6842351a348e3cb1151913a599a"
     },
     {
+      "name": "bloombergjapan-2022-10-10T15:23:26.026962+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665383009",
+      "size": "10470",
+      "md5": "3e04b3b569009dd75e30555b3442162c",
+      "crc32": "0fc6f5f9",
+      "sha1": "1cb0e3aa7dd7884aef1f67e2286e0cda08e49d99",
+      "format": "JSON"
+    },
+    {
+      "name": "bloombergjapan-2022-10-10T15:23:26.026962+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665383011",
+      "size": "9420",
+      "md5": "b5b022b5a8750ac9cb7425a929017527",
+      "crc32": "14458aeb",
+      "sha1": "b405f16f55bebd772da8f67e36c72515ea4a3aac",
+      "format": "JSON"
+    },
+    {
+      "name": "bloombergjapan-2022-10-10T15:23:26.026962+09:00.jpg",
+      "source": "original",
+      "mtime": "1665383008",
+      "size": "267210",
+      "md5": "fc95f17bda92a979a40df0cf585d8af4",
+      "crc32": "f3432e6d",
+      "sha1": "c187d2700293ba4246255414b8099a015ebedcc1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bloombergjapan-2022-10-10T15:23:26.026962+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665383013",
+      "size": "1504",
+      "md5": "7444fe53e2e71711ae73689a653b3059",
+      "crc32": "1cfff8ae",
+      "sha1": "a018dc2b82cb9b56c49f8eef2946a1bfefc8bc14",
+      "format": "JSON"
+    },
+    {
+      "name": "bloombergjapan-2022-10-10T15:23:26.026962+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1665383015",
+      "size": "56225",
+      "md5": "636a5de39ff0bfbc7143794f2b5fa801",
+      "crc32": "3f97b163",
+      "sha1": "64116d80b05201acd0435c2a1030c595d2b41b88",
+      "format": "JSON"
+    },
+    {
+      "name": "bloombergjapan-2022-10-10T15:23:26.026962+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bloombergjapan-2022-10-10T15:23:26.026962+09:00.jpg",
+      "mtime": "1665383083",
+      "size": "9942",
+      "md5": "8b2cb59151045bdad0f28e6a32198aa7",
+      "crc32": "32e08276",
+      "sha1": "860689b1167e0d433559dc0d0db5de1df23a6d21"
+    },
+    {
       "name": "bloombergjapan-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d693777980aa94aecec3deb749f1247f8f3ab88a",
-      "mtime": "1665369006",
-      "size": "286234",
-      "md5": "68a35c24fcf6d51ffba2f371d30afd0f",
-      "crc32": "1e6f7f3f",
-      "sha1": "3fec716f83dd65e53a76c2e249de21803b7acc64",
+      "btih": "8a921ee60c03c8137e35d2a38527c15c3834729f",
+      "mtime": "1665383113",
+      "size": "287536",
+      "md5": "897b10399d47a4a61acbf3148c5b81f6",
+      "crc32": "a4ec6a5a",
+      "sha1": "889a35007b201b968808c7e578a4d80b9b7c7e5e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bloombergjapan-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9c00a443ddf9ce81435483a6d08ded9a",
+      "md5": "d9e97afcb4d56b114bb32c149fa07749",
       "summation": "md5"
     },
     {
       "name": "bloombergjapan-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665368924",
-      "size": "1695744",
-      "md5": "113b059e0c07650dad9c531df8ca9291",
-      "crc32": "f036bbd5",
-      "sha1": "561ab3d2823a6672322299b4125a8d25f61e698e",
+      "mtime": "1665383019",
+      "size": "1703936",
+      "md5": "8365dbaa7551e3dcada7834d87721f39",
+      "crc32": "d4a4f01f",
+      "sha1": "8666f560500c7da2b9d50922dd746bf940fe1211",
       "format": "Metadata"
     },
     {
@@ -13670,9 +13732,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1322,
-  "item_last_updated": 1665369006,
-  "item_size": 82465947,
+  "files_count": 1328,
+  "item_last_updated": 1665383113,
+  "item_size": 82830212,
   "metadata": {
     "identifier": "bloombergjapan-2022",
     "collection": [
@@ -13690,7 +13752,7 @@
     "addeddate": "2022-07-26 01:31:25"
   },
   "server": "ia802507.us.archive.org",
-  "uniq": 375810837,
+  "uniq": 1147115278,
   "workable_servers": [
     "ia802507.us.archive.org",
     "ia902507.us.archive.org"

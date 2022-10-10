@@ -1,5 +1,10 @@
 {
-  "created": 1665331398,
+  "beaconjournal-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1665387226,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/30/items/beaconjournal-2022",
@@ -6982,31 +6987,93 @@
       "sha1": "1865be764a5f349b1c8d68db92a2a89dd75838fa"
     },
     {
+      "name": "beaconjournal-2022-10-10T02:23:25.157326-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665383015",
+      "size": "23569",
+      "md5": "46e40eaeeaaf2c6a2ed3028c0f7c9b76",
+      "crc32": "334f4406",
+      "sha1": "f95b859325576a10b6f59fa954466f10064b7e7a",
+      "format": "JSON"
+    },
+    {
+      "name": "beaconjournal-2022-10-10T02:23:25.157326-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665383017",
+      "size": "33785",
+      "md5": "3bbaa2f134df11febd1b5df9d9b21f28",
+      "crc32": "1714452c",
+      "sha1": "0f43e91511d3f8908d8264b2d45a24734409a585",
+      "format": "JSON"
+    },
+    {
+      "name": "beaconjournal-2022-10-10T02:23:25.157326-04:00.jpg",
+      "source": "original",
+      "mtime": "1665383013",
+      "size": "249331",
+      "md5": "f60f95c9eb16515c418fbfe9cee9b682",
+      "crc32": "f16b8c0c",
+      "sha1": "aae11350c5e3412896dab894fa84f97bab5070bf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "beaconjournal-2022-10-10T02:23:25.157326-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665383019",
+      "size": "1522",
+      "md5": "8e3ba2242bcaae2ca1a186177c5221f0",
+      "crc32": "90edabdf",
+      "sha1": "d73dcdc1897be1e11b7237e015a227fd907d7ca5",
+      "format": "JSON"
+    },
+    {
+      "name": "beaconjournal-2022-10-10T02:23:25.157326-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665383020",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "beaconjournal-2022-10-10T02:23:25.157326-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "beaconjournal-2022-10-10T02:23:25.157326-04:00.jpg",
+      "mtime": "1665383098",
+      "size": "9310",
+      "md5": "f58851df0ba77b245932ac183f13c927",
+      "crc32": "fa84686a",
+      "sha1": "78e36f3582a593f6cdfe578dfc0e24b763fbed61"
+    },
+    {
       "name": "beaconjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "21a4732f78b6360f617d81820aa17e7c000e74f1",
-      "mtime": "1665331347",
-      "size": "146806",
-      "md5": "34d93185aca149a620506eacf139736a",
-      "crc32": "0e9d0f8c",
-      "sha1": "0df0af436a5aa7982979568458296c421c37ce43",
+      "btih": "7712afd64550108533e49100f4bdbcbf21d9610a",
+      "mtime": "1665383109",
+      "size": "148081",
+      "md5": "10e44c3164fc9baa72e28f798ab1e5d0",
+      "crc32": "de3413d3",
+      "sha1": "6676b7562293cc1fa7cb310b77f9281ce9b16b99",
       "format": "Archive BitTorrent"
     },
     {
       "name": "beaconjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "68f52c16cd33dabcfe88bd0423813386",
+      "md5": "7359679c99348fa3098508e87b3043ed",
       "summation": "md5"
     },
     {
       "name": "beaconjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665331210",
-      "size": "880640",
-      "md5": "286ce9b4d0cbe176f1b14351b34e5102",
-      "crc32": "8a506d5f",
-      "sha1": "c02e6c8ac489d481eca401e9b3d7f1abf8dcd41b",
+      "mtime": "1665383026",
+      "size": "888832",
+      "md5": "25f39af883bc8babadf4205d5cb27edf",
+      "crc32": "12f10592",
+      "sha1": "2a73d19af941f2789205a7ccbe07b25bbf8c0cbd",
       "format": "Metadata"
     },
     {
@@ -7020,9 +7087,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 679,
-  "item_last_updated": 1665331347,
-  "item_size": 45331719,
+  "files_count": 685,
+  "item_last_updated": 1665383109,
+  "item_size": 45658905,
   "metadata": {
     "identifier": "beaconjournal-2022",
     "collection": [
@@ -7040,7 +7107,7 @@
     "addeddate": "2022-08-14 05:00:38"
   },
   "server": "ia801501.us.archive.org",
-  "uniq": 1006320714,
+  "uniq": 608108832,
   "workable_servers": [
     "ia801501.us.archive.org",
     "ia601501.us.archive.org"
