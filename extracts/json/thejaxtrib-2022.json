@@ -1,5 +1,5 @@
 {
-  "created": 1665460589,
+  "created": 1665504759,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/20/items/thejaxtrib-2022",
@@ -5618,31 +5618,93 @@
       "sha1": "2d3550ee06ec8b4cc10e48eb6ffe767b33fb8492"
     },
     {
+      "name": "thejaxtrib-2022-10-11T11:14:09.048280-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665501254",
+      "size": "21371",
+      "md5": "be8890ee7110d80c81930f245f313ef8",
+      "crc32": "a1ca48d0",
+      "sha1": "f9aa85b3cad29b08cf7b9945fde0e490307d5e02",
+      "format": "JSON"
+    },
+    {
+      "name": "thejaxtrib-2022-10-11T11:14:09.048280-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665501257",
+      "size": "22046",
+      "md5": "bf7df75069bc4cec8040333142500437",
+      "crc32": "eb2400ab",
+      "sha1": "6d68451e0726f97a021ec989efc317d9514e3705",
+      "format": "JSON"
+    },
+    {
+      "name": "thejaxtrib-2022-10-11T11:14:09.048280-04:00.jpg",
+      "source": "original",
+      "mtime": "1665501253",
+      "size": "199088",
+      "md5": "c7a039a33ca91795d98d86dd60974dfe",
+      "crc32": "426d5338",
+      "sha1": "ad954fb4a2cea6fbcef5bf4f149348cbf9b0925f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thejaxtrib-2022-10-11T11:14:09.048280-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665501260",
+      "size": "1432",
+      "md5": "fbfe51f83443dfdaa948dac799fbc5a1",
+      "crc32": "a7bcd630",
+      "sha1": "a358a40a165fb8edf0660b9b87b310c4c6c7cbbe",
+      "format": "JSON"
+    },
+    {
+      "name": "thejaxtrib-2022-10-11T11:14:09.048280-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665501262",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thejaxtrib-2022-10-11T11:14:09.048280-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thejaxtrib-2022-10-11T11:14:09.048280-04:00.jpg",
+      "mtime": "1665501338",
+      "size": "10139",
+      "md5": "36c2c0a7046df65cd9b4f7451ce8843f",
+      "crc32": "dd50a26f",
+      "sha1": "a5f532db9c6c35ebea7f3057af4db6e219947de6"
+    },
+    {
       "name": "thejaxtrib-2022_archive.torrent",
       "source": "metadata",
-      "btih": "365976f57a95015781f82db9a9f7a8c374ae8293",
-      "mtime": "1665460579",
-      "size": "116354",
-      "md5": "d4a3f679eb06d4a0bb558819f5baf122",
-      "crc32": "3dfd7ca3",
-      "sha1": "c694036cd91f1ca23b54c1462d2361dbdbcd1353",
+      "btih": "b0d83c0e01d3e0f3140b3b5536c3aeb963cf339f",
+      "mtime": "1665501349",
+      "size": "117633",
+      "md5": "63b76a61bc1e535a12a6d081ec90c2f4",
+      "crc32": "e402643b",
+      "sha1": "83166d79d8c0907b47553f0d392cda33c982cf7a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thejaxtrib-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9e334680905a69f47b4f20de97c6309a",
+      "md5": "eaff516e1cd6e194a2e576db568351b8",
       "summation": "md5"
     },
     {
       "name": "thejaxtrib-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665460524",
-      "size": "708608",
-      "md5": "c8bdf4e70718373c4df60e0f9be6cb5e",
-      "crc32": "cfec0bab",
-      "sha1": "a017b5fb65140699e4022e5f92c19acf181f3c7a",
+      "mtime": "1665501270",
+      "size": "712704",
+      "md5": "0a21f35a2a061d846f14b2b015ee82bc",
+      "crc32": "f8b0068e",
+      "sha1": "0cbba6557974b57295d620f5df8b2adb7c1cfe28",
       "format": "Metadata"
     },
     {
@@ -5656,9 +5718,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 547,
-  "item_last_updated": 1665460579,
-  "item_size": 25560508,
+  "files_count": 553,
+  "item_last_updated": 1665501349,
+  "item_size": 25820161,
   "metadata": {
     "identifier": "thejaxtrib-2022",
     "collection": [
@@ -5676,7 +5738,12 @@
     "addeddate": "2022-08-26 13:03:02"
   },
   "server": "ia801403.us.archive.org",
-  "uniq": 1408123773,
+  "thejaxtrib-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1070809935,
   "workable_servers": [
     "ia801403.us.archive.org",
     "ia601403.us.archive.org"
