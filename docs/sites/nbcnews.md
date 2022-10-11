@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 766 screenshots with the Internet Archive.
+The archiving routine has saved 767 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 766 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-10-11T11:03:25.194531-04:00.jpg">
+  <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-10-11T11:03:25.194531-04:00.jpg"
+     alt="NBC News at 2022-10-11 11:03:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-10-11T11:03:25.194531-04:00.jpg">October 11 at 11:03 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-10-11T09:02:00.521393-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-10-08T17:20:49.808598-04:00.jpg">October 8 at 5:20 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-10-08T10:08:55.645469-04:00.jpg">
-  <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-10-08T10:08:55.645469-04:00.jpg"
-     alt="NBC News at 2022-10-08 10:08:58-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-10-08T10:08:55.645469-04:00.jpg">October 8 at 10:08 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 747 hyperlink lists with the Internet Archive.
+The archiving routine has saved 748 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 11:03 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-11T11:03:25.194531-04:00.hyperlinks.json) |
 | [October 11 at 9:02 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-11T09:02:00.521393-04:00.hyperlinks.json) |
 | [October 10 at 10:23 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-10T22:23:06.072453-04:00.hyperlinks.json) |
 | [October 10 at 5:21 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-10T17:20:42.426152-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 9 at 5:18 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-09T17:18:20.277842-04:00.hyperlinks.json) |
 | [October 9 at 10:00 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-09T09:59:59.274159-04:00.hyperlinks.json) |
 | [October 9 at 9:00 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-09T08:59:45.769282-04:00.hyperlinks.json) |
-| [October 8 at 10:29 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-08T22:29:08.085184-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 749 accessibility trees with the Internet Archive.
+The archiving routine has saved 750 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 11:03 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-11T11:03:25.194531-04:00.accessibility.json) |
 | [October 11 at 9:02 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-11T09:02:00.521393-04:00.accessibility.json) |
 | [October 10 at 10:23 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-10T22:23:06.072453-04:00.accessibility.json) |
 | [October 10 at 5:21 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-10T17:20:42.426152-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 9 at 5:18 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-09T17:18:20.277842-04:00.accessibility.json) |
 | [October 9 at 10:00 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-09T09:59:59.274159-04:00.accessibility.json) |
 | [October 9 at 9:00 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-09T08:59:45.769282-04:00.accessibility.json) |
-| [October 8 at 10:29 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-08T22:29:08.085184-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 314 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 315 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 11:04 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-11T11:03:25.194531-04:00.lighthouse.json) |
 | [October 11 at 9:02 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-11T09:02:00.521393-04:00.lighthouse.json) |
 | [October 10 at 10:23 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-10T22:23:06.072453-04:00.lighthouse.json) |
 | [October 10 at 5:21 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-10T17:20:42.426152-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 9 at 5:18 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-09T17:18:20.277842-04:00.lighthouse.json) |
 | [October 9 at 10:00 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-09T09:59:59.274159-04:00.lighthouse.json) |
 | [October 9 at 9:00 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-09T08:59:45.769282-04:00.lighthouse.json) |
-| [October 8 at 10:29 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-08T22:29:08.085184-04:00.lighthouse.json) |
 
 
 
