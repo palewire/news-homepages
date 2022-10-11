@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 118 screenshots with the Internet Archive.
+The archiving routine has saved 119 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 118 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cprnews-2022/cprnews-2022-10-11T05:01:32.083055-06:00.jpg">
+  <img src="https://archive.org/download/cprnews-2022/cprnews-2022-10-11T05:01:32.083055-06:00.jpg"
+     alt="Colorado Public Radio at 2022-10-11 05:01:40-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-10-11T05:01:32.083055-06:00.jpg">October 11 at 5:01 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cprnews-2022/cprnews-2022-10-10T17:07:56.961526-06:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-10-05T05:02:53.460692-06:00.jpg">October 5 at 5:03 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cprnews-2022/cprnews-2022-10-04T17:03:43.552443-06:00.jpg">
-  <img src="https://archive.org/download/cprnews-2022/cprnews-2022-10-04T17:03:43.552443-06:00.jpg"
-     alt="Colorado Public Radio at 2022-10-04 17:03:47-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-10-04T17:03:43.552443-06:00.jpg">October 4 at 5:03 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 119 hyperlink lists with the Internet Archive.
+The archiving routine has saved 120 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 5:01 AM](https://archive.org/download/cprnews-2022/cprnews-2022-10-11T05:01:32.083055-06:00.hyperlinks.json) |
 | [October 10 at 5:08 PM](https://archive.org/download/cprnews-2022/cprnews-2022-10-10T17:07:56.961526-06:00.hyperlinks.json) |
 | [October 10 at 5:07 AM](https://archive.org/download/cprnews-2022/cprnews-2022-10-10T05:06:48.608288-06:00.hyperlinks.json) |
 | [October 9 at 4:53 PM](https://archive.org/download/cprnews-2022/cprnews-2022-10-09T16:53:14.693048-06:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 7 at 5:06 PM](https://archive.org/download/cprnews-2022/cprnews-2022-10-07T17:06:08.275026-06:00.hyperlinks.json) |
 | [October 7 at 5:09 AM](https://archive.org/download/cprnews-2022/cprnews-2022-10-07T05:09:07.831050-06:00.hyperlinks.json) |
 | [October 6 at 5:06 PM](https://archive.org/download/cprnews-2022/cprnews-2022-10-06T17:05:54.929030-06:00.hyperlinks.json) |
-| [October 6 at 4:47 AM](https://archive.org/download/cprnews-2022/cprnews-2022-10-06T04:46:42.735195-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 119 accessibility trees with the Internet Archive.
+The archiving routine has saved 120 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 5:01 AM](https://archive.org/download/cprnews-2022/cprnews-2022-10-11T05:01:32.083055-06:00.accessibility.json) |
 | [October 10 at 5:08 PM](https://archive.org/download/cprnews-2022/cprnews-2022-10-10T17:07:56.961526-06:00.accessibility.json) |
 | [October 10 at 5:06 AM](https://archive.org/download/cprnews-2022/cprnews-2022-10-10T05:06:48.608288-06:00.accessibility.json) |
 | [October 9 at 4:53 PM](https://archive.org/download/cprnews-2022/cprnews-2022-10-09T16:53:14.693048-06:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 7 at 5:06 PM](https://archive.org/download/cprnews-2022/cprnews-2022-10-07T17:06:08.275026-06:00.accessibility.json) |
 | [October 7 at 5:09 AM](https://archive.org/download/cprnews-2022/cprnews-2022-10-07T05:09:07.831050-06:00.accessibility.json) |
 | [October 6 at 5:06 PM](https://archive.org/download/cprnews-2022/cprnews-2022-10-06T17:05:54.929030-06:00.accessibility.json) |
-| [October 6 at 4:47 AM](https://archive.org/download/cprnews-2022/cprnews-2022-10-06T04:46:42.735195-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 119 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 120 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 5:01 AM](https://archive.org/download/cprnews-2022/cprnews-2022-10-11T05:01:32.083055-06:00.lighthouse.json) |
 | [October 10 at 5:08 PM](https://archive.org/download/cprnews-2022/cprnews-2022-10-10T17:07:56.961526-06:00.lighthouse.json) |
 | [October 10 at 5:07 AM](https://archive.org/download/cprnews-2022/cprnews-2022-10-10T05:06:48.608288-06:00.lighthouse.json) |
 | [October 9 at 4:53 PM](https://archive.org/download/cprnews-2022/cprnews-2022-10-09T16:53:14.693048-06:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 7 at 5:06 PM](https://archive.org/download/cprnews-2022/cprnews-2022-10-07T17:06:08.275026-06:00.lighthouse.json) |
 | [October 7 at 5:09 AM](https://archive.org/download/cprnews-2022/cprnews-2022-10-07T05:09:07.831050-06:00.lighthouse.json) |
 | [October 6 at 5:06 PM](https://archive.org/download/cprnews-2022/cprnews-2022-10-06T17:05:54.929030-06:00.lighthouse.json) |
-| [October 6 at 4:47 AM](https://archive.org/download/cprnews-2022/cprnews-2022-10-06T04:46:42.735195-06:00.lighthouse.json) |
 
 
 
