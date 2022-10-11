@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 185 screenshots with the Internet Archive.
+The archiving routine has saved 186 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 185 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-10-10T20:01:06.638359-03:00.jpg">
+  <img src="https://archive.org/download/alma_preta-2022/alma_preta-2022-10-10T20:01:06.638359-03:00.jpg"
+     alt="Alma Preta at 2022-10-10 20:01:13-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-10-10T20:01:06.638359-03:00.jpg">October 10 at 8:01 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-10-10T09:14:41.052478-03:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-10-06T08:24:13.613052-03:00.jpg">October 6 at 8:24 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-10-06T07:42:10.824745-03:00.jpg">
-  <img src="https://archive.org/download/alma_preta-2022/alma_preta-2022-10-06T07:42:10.824745-03:00.jpg"
-     alt="Alma Preta at 2022-10-06 07:42:20-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-10-06T07:42:10.824745-03:00.jpg">October 6 at 7:42 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 186 hyperlink lists with the Internet Archive.
+The archiving routine has saved 187 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 8:01 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-10-10T20:01:06.638359-03:00.hyperlinks.json) |
 | [October 10 at 9:14 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-10-10T09:14:41.052478-03:00.hyperlinks.json) |
 | [October 10 at 8:00 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-10-10T08:00:35.325437-03:00.hyperlinks.json) |
 | [October 9 at 7:49 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-10-09T19:49:03.556591-03:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 9:00 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-10-08T09:00:45.186518-03:00.hyperlinks.json) |
 | [October 8 at 7:49 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-10-08T07:49:05.766952-03:00.hyperlinks.json) |
 | [October 7 at 8:01 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-10-07T20:00:50.229077-03:00.hyperlinks.json) |
-| [October 7 at 8:03 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-10-07T08:03:14.804025-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 185 accessibility trees with the Internet Archive.
+The archiving routine has saved 186 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 8:01 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-10-10T20:01:06.638359-03:00.accessibility.json) |
 | [October 10 at 9:14 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-10-10T09:14:41.052478-03:00.accessibility.json) |
 | [October 10 at 8:00 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-10-10T08:00:35.325437-03:00.accessibility.json) |
 | [October 9 at 7:49 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-10-09T19:49:03.556591-03:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 9:00 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-10-08T09:00:45.186518-03:00.accessibility.json) |
 | [October 8 at 7:49 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-10-08T07:49:05.766952-03:00.accessibility.json) |
 | [October 7 at 8:01 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-10-07T20:00:50.229077-03:00.accessibility.json) |
-| [October 7 at 8:03 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-10-07T08:03:14.804025-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 186 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 187 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 8:01 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-10-10T20:01:06.638359-03:00.lighthouse.json) |
 | [October 10 at 9:15 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-10-10T09:14:41.052478-03:00.lighthouse.json) |
 | [October 10 at 8:00 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-10-10T08:00:35.325437-03:00.lighthouse.json) |
 | [October 9 at 7:49 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-10-09T19:49:03.556591-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 9:00 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-10-08T09:00:45.186518-03:00.lighthouse.json) |
 | [October 8 at 7:49 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-10-08T07:49:05.766952-03:00.lighthouse.json) |
 | [October 7 at 8:01 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-10-07T20:00:50.229077-03:00.lighthouse.json) |
-| [October 7 at 8:03 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-10-07T08:03:14.804025-03:00.lighthouse.json) |
 
 
 

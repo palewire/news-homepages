@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 168 screenshots with the Internet Archive.
+The archiving routine has saved 169 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 168 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-11T02:04:58.628148+02:00.jpg">
+  <img src="https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-11T02:04:58.628148+02:00.jpg"
+     alt="Dagsavisen at 2022-10-11 02:05:05+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-11T02:04:58.628148+02:00.jpg">October 11 at 2:05 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-10T14:26:13.106601+02:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-05T14:12:43.132366+02:00.jpg">October 5 at 2:12 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-05T01:53:14.078250+02:00.jpg">
-  <img src="https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-05T01:53:14.078250+02:00.jpg"
-     alt="Dagsavisen at 2022-10-05 01:53:20+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-05T01:53:14.078250+02:00.jpg">October 5 at 1:53 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 168 hyperlink lists with the Internet Archive.
+The archiving routine has saved 169 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 2:05 AM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-11T02:04:58.628148+02:00.hyperlinks.json) |
 | [October 10 at 2:26 PM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-10T14:26:13.106601+02:00.hyperlinks.json) |
 | [October 10 at 1:44 AM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-10T01:44:37.305923+02:00.hyperlinks.json) |
 | [October 9 at 2:00 PM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-09T14:00:07.945971+02:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 7 at 2:05 PM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-07T14:05:19.148187+02:00.hyperlinks.json) |
 | [October 7 at 2:00 AM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-07T02:00:24.850081+02:00.hyperlinks.json) |
 | [October 6 at 10:53 PM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-06T22:52:52.675428+02:00.hyperlinks.json) |
-| [October 6 at 1:48 AM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-06T01:48:26.762373+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 168 accessibility trees with the Internet Archive.
+The archiving routine has saved 169 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 2:05 AM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-11T02:04:58.628148+02:00.accessibility.json) |
 | [October 10 at 2:26 PM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-10T14:26:13.106601+02:00.accessibility.json) |
 | [October 10 at 1:44 AM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-10T01:44:37.305923+02:00.accessibility.json) |
 | [October 9 at 2:00 PM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-09T14:00:07.945971+02:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 7 at 2:05 PM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-07T14:05:19.148187+02:00.accessibility.json) |
 | [October 7 at 2:00 AM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-07T02:00:24.850081+02:00.accessibility.json) |
 | [October 6 at 10:53 PM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-06T22:52:52.675428+02:00.accessibility.json) |
-| [October 6 at 1:48 AM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-06T01:48:26.762373+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 160 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 161 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 2:05 AM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-11T02:04:58.628148+02:00.lighthouse.json) |
 | [October 10 at 2:26 PM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-10T14:26:13.106601+02:00.lighthouse.json) |
 | [October 10 at 1:44 AM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-10T01:44:37.305923+02:00.lighthouse.json) |
 | [October 9 at 2:00 PM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-09T14:00:07.945971+02:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 7 at 2:05 PM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-07T14:05:19.148187+02:00.lighthouse.json) |
 | [October 7 at 2:00 AM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-07T02:00:24.850081+02:00.lighthouse.json) |
 | [October 6 at 10:53 PM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-06T22:52:52.675428+02:00.lighthouse.json) |
-| [October 6 at 1:48 AM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-10-06T01:48:26.762373+02:00.lighthouse.json) |
 
 
 

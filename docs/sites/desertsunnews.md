@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 41 screenshots with the Internet Archive.
+The archiving routine has saved 42 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 41 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-10T17:07:35.065094-07:00.jpg">
+  <img src="https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-10T17:07:35.065094-07:00.jpg"
+     alt="Palm Springs Desert Sun at 2022-10-10 17:07:40-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-10T17:07:35.065094-07:00.jpg">October 10 at 5:07 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-10T05:25:46.614925-07:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-05T05:13:32.524135-07:00.jpg">October 5 at 5:13 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-04T16:56:30.407403-07:00.jpg">
-  <img src="https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-04T16:56:30.407403-07:00.jpg"
-     alt="Palm Springs Desert Sun at 2022-10-04 16:56:32-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-04T16:56:30.407403-07:00.jpg">October 4 at 4:56 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 41 hyperlink lists with the Internet Archive.
+The archiving routine has saved 42 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 5:07 PM](https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-10T17:07:35.065094-07:00.hyperlinks.json) |
 | [October 10 at 5:25 AM](https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-10T05:25:46.614925-07:00.hyperlinks.json) |
 | [October 9 at 4:46 PM](https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-09T16:46:33.793544-07:00.hyperlinks.json) |
 | [October 9 at 5:02 AM](https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-09T05:02:01.125743-07:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 7 at 5:08 AM](https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-07T05:08:32.697674-07:00.hyperlinks.json) |
 | [October 6 at 5:03 PM](https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-06T17:03:21.007251-07:00.hyperlinks.json) |
 | [October 6 at 1:54 PM](https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-06T13:54:44.094062-07:00.hyperlinks.json) |
-| [October 5 at 4:50 PM](https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-05T16:50:36.035043-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 41 accessibility trees with the Internet Archive.
+The archiving routine has saved 42 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 5:07 PM](https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-10T17:07:35.065094-07:00.accessibility.json) |
 | [October 10 at 5:25 AM](https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-10T05:25:46.614925-07:00.accessibility.json) |
 | [October 9 at 4:46 PM](https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-09T16:46:33.793544-07:00.accessibility.json) |
 | [October 9 at 5:02 AM](https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-09T05:02:01.125743-07:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 7 at 5:08 AM](https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-07T05:08:32.697674-07:00.accessibility.json) |
 | [October 6 at 5:03 PM](https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-06T17:03:21.007251-07:00.accessibility.json) |
 | [October 6 at 1:54 PM](https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-06T13:54:44.094062-07:00.accessibility.json) |
-| [October 5 at 4:50 PM](https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-05T16:50:36.035043-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 41 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 42 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 5:07 PM](https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-10T17:07:35.065094-07:00.lighthouse.json) |
 | [October 10 at 5:25 AM](https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-10T05:25:46.614925-07:00.lighthouse.json) |
 | [October 9 at 4:46 PM](https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-09T16:46:33.793544-07:00.lighthouse.json) |
 | [October 9 at 5:02 AM](https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-09T05:02:01.125743-07:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 7 at 5:08 AM](https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-07T05:08:32.697674-07:00.lighthouse.json) |
 | [October 6 at 5:03 PM](https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-06T17:03:21.007251-07:00.lighthouse.json) |
 | [October 6 at 1:54 PM](https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-06T13:54:44.094062-07:00.lighthouse.json) |
-| [October 5 at 4:50 PM](https://archive.org/download/desertsunnews-2022/desertsunnews-2022-10-05T16:50:36.035043-07:00.lighthouse.json) |
 
 
 

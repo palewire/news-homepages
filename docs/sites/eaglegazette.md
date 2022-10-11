@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 41 screenshots with the Internet Archive.
+The archiving routine has saved 42 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 41 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-10T20:07:34.557248-04:00.jpg">
+  <img src="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-10T20:07:34.557248-04:00.jpg"
+     alt="Lancaster Eagle-Gazette at 2022-10-10 20:07:39-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-10T20:07:34.557248-04:00.jpg">October 10 at 8:07 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-10T08:25:31.307057-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-05T08:15:39.907162-04:00.jpg">October 5 at 8:15 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-04T19:55:42.387823-04:00.jpg">
-  <img src="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-04T19:55:42.387823-04:00.jpg"
-     alt="Lancaster Eagle-Gazette at 2022-10-04 19:55:46-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-04T19:55:42.387823-04:00.jpg">October 4 at 7:55 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 41 hyperlink lists with the Internet Archive.
+The archiving routine has saved 42 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 8:07 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-10T20:07:34.557248-04:00.hyperlinks.json) |
 | [October 10 at 8:25 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-10T08:25:31.307057-04:00.hyperlinks.json) |
 | [October 9 at 7:46 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-09T19:46:18.505668-04:00.hyperlinks.json) |
 | [October 9 at 8:02 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-09T08:02:02.666513-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 7 at 8:09 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-07T08:08:55.273677-04:00.hyperlinks.json) |
 | [October 6 at 8:03 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-06T20:03:34.354848-04:00.hyperlinks.json) |
 | [October 6 at 4:55 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-06T16:55:05.806444-04:00.hyperlinks.json) |
-| [October 5 at 7:50 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-05T19:50:34.917477-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 41 accessibility trees with the Internet Archive.
+The archiving routine has saved 42 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 8:07 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-10T20:07:34.557248-04:00.accessibility.json) |
 | [October 10 at 8:25 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-10T08:25:31.307057-04:00.accessibility.json) |
 | [October 9 at 7:46 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-09T19:46:18.505668-04:00.accessibility.json) |
 | [October 9 at 8:02 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-09T08:02:02.666513-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 7 at 8:09 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-07T08:08:55.273677-04:00.accessibility.json) |
 | [October 6 at 8:03 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-06T20:03:34.354848-04:00.accessibility.json) |
 | [October 6 at 4:55 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-06T16:55:05.806444-04:00.accessibility.json) |
-| [October 5 at 7:50 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-05T19:50:34.917477-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 41 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 42 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 8:07 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-10T20:07:34.557248-04:00.lighthouse.json) |
 | [October 10 at 8:25 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-10T08:25:31.307057-04:00.lighthouse.json) |
 | [October 9 at 7:46 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-09T19:46:18.505668-04:00.lighthouse.json) |
 | [October 9 at 8:02 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-09T08:02:02.666513-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 7 at 8:09 AM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-07T08:08:55.273677-04:00.lighthouse.json) |
 | [October 6 at 8:03 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-06T20:03:34.354848-04:00.lighthouse.json) |
 | [October 6 at 4:55 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-06T16:55:05.806444-04:00.lighthouse.json) |
-| [October 5 at 7:50 PM](https://archive.org/download/eaglegazette-2022/eaglegazette-2022-10-05T19:50:34.917477-04:00.lighthouse.json) |
 
 
 
