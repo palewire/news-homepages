@@ -1,5 +1,5 @@
 {
-  "created": 1665400097,
+  "created": 1665443330,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/33/items/cantonledger-2022",
@@ -2506,31 +2506,93 @@
       "sha1": "17af78c32737691a50112e3a2d288c77571a5d39"
     },
     {
+      "name": "cantonledger-2022-10-10T18:07:38.836680-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665443264",
+      "size": "22138",
+      "md5": "fa0578adae9c58c3c23fc4a7a185d2c7",
+      "crc32": "0e7e0ecd",
+      "sha1": "5f56018ca4ff475d5f346dacb250130505be4c31",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonledger-2022-10-10T18:07:38.836680-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665443265",
+      "size": "49086",
+      "md5": "63c5515d34d1b2081ef562edcafbfe8a",
+      "crc32": "a1150498",
+      "sha1": "6d3411774f42c09d8da094cbe53e79d59b4b10fa",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonledger-2022-10-10T18:07:38.836680-05:00.jpg",
+      "source": "original",
+      "mtime": "1665443262",
+      "size": "235501",
+      "md5": "56526e1d1003b1725a6659dddc66b839",
+      "crc32": "59cecd37",
+      "sha1": "b1a271641098e1b13b367fa9d1460116081fc3c8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cantonledger-2022-10-10T18:07:38.836680-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665443267",
+      "size": "1558",
+      "md5": "6dd86ec2d80c46a61b3cf76a8cfe6118",
+      "crc32": "32ff170b",
+      "sha1": "1e9bdb445d7bce7da0d225d0474f84a30a9f9c38",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonledger-2022-10-10T18:07:38.836680-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665443268",
+      "size": "110",
+      "md5": "6c395c4d10c4a63150e25622fc69a61c",
+      "crc32": "d59af950",
+      "sha1": "6dd8fe50e95487c0ce410c3c713534c22c452f8e",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonledger-2022-10-10T18:07:38.836680-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cantonledger-2022-10-10T18:07:38.836680-05:00.jpg",
+      "mtime": "1665443316",
+      "size": "9096",
+      "md5": "6af50eae5924091d369f8cf1a2ab4292",
+      "crc32": "c6b50d17",
+      "sha1": "8c84d3cbd9d34c2cb1a56ddd19f4da9c267b8d07"
+    },
+    {
       "name": "cantonledger-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f7070a8d0dca0c6810247cabe3139a29fde41707",
-      "mtime": "1665400085",
-      "size": "53274",
-      "md5": "a2e48405488e562cdb530c9bcd087c72",
-      "crc32": "176cab3c",
-      "sha1": "a4504555cc3cba3a7830de0b9b3559198b1038e7",
+      "btih": "6e8bfce05ffab510fbd3a324d23b634e3d4d0a03",
+      "mtime": "1665443320",
+      "size": "54543",
+      "md5": "c6638729b7e4b62de7675d078b224149",
+      "crc32": "657a9ff8",
+      "sha1": "2711feaf787048559f7d2a0b19e7c1ade2f12bce",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cantonledger-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "37a9dc1a231cf2f8b31daddc1684badb",
+      "md5": "606b0bf3068bfbdadd9a7ac050d249ee",
       "summation": "md5"
     },
     {
       "name": "cantonledger-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665400025",
-      "size": "331776",
-      "md5": "8e5891587e1ff735cf1ab3e07e402235",
-      "crc32": "c8df68fd",
-      "sha1": "985a67bedca5ea384defd72e9df3475539c9adc8",
+      "mtime": "1665443274",
+      "size": "339968",
+      "md5": "7d635b5b4bab5d1a7d1a5d2c9ad66e61",
+      "crc32": "90eeca8c",
+      "sha1": "bf79c805362001ed38ffe0d603be210456496667",
       "format": "Metadata"
     },
     {
@@ -2544,9 +2606,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 246,
-  "item_last_updated": 1665400085,
-  "item_size": 15341454,
+  "files_count": 252,
+  "item_last_updated": 1665443320,
+  "item_size": 15668404,
   "metadata": {
     "identifier": "cantonledger-2022",
     "collection": [
@@ -2564,7 +2626,7 @@
     "addeddate": "2022-09-20 22:11:46"
   },
   "server": "ia801405.us.archive.org",
-  "uniq": 1479258512,
+  "uniq": 961193815,
   "workable_servers": [
     "ia801405.us.archive.org",
     "ia601405.us.archive.org"

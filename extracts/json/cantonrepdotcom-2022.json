@@ -1,10 +1,5 @@
 {
-  "cantonrepdotcom-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1665404533,
+  "created": 1665443353,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/24/items/cantonrepdotcom-2022",
@@ -2511,31 +2506,93 @@
       "sha1": "997fc01cece81816c75ccbf8ce1a888187ac510b"
     },
     {
+      "name": "cantonrepdotcom-2022-10-10T19:08:04.945547-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665443288",
+      "size": "23013",
+      "md5": "392e57f414919d7fd36e6b4f22277167",
+      "crc32": "eb49e410",
+      "sha1": "971ff732d4b9dbf7dba6a5fc135d661c269a7e71",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-10T19:08:04.945547-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665443289",
+      "size": "43803",
+      "md5": "8c626f3230ea6aa18509dcd9a5212987",
+      "crc32": "cee7e041",
+      "sha1": "54ddf7f8b5c3ae8733a34094d08b47f5a342ca81",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-10T19:08:04.945547-04:00.jpg",
+      "source": "original",
+      "mtime": "1665443286",
+      "size": "277143",
+      "md5": "c7fc86860cc80afa6ec206319f64297d",
+      "crc32": "d0a59409",
+      "sha1": "b6fb4539d67415491f599171fa72cfe0290e40d9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-10T19:08:04.945547-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665443290",
+      "size": "1486",
+      "md5": "51c522de9f71208b5e6c265b030e8e7c",
+      "crc32": "8a55afe7",
+      "sha1": "f01a905d6e185ab344f6026fadf9f3457a74ab06",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-10T19:08:04.945547-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665443291",
+      "size": "85326",
+      "md5": "4ad1d4a4a1ad1947100938d5366cb5ef",
+      "crc32": "3aace36b",
+      "sha1": "b7f42e4bfcbef250846604682763a049b607a7ae",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-10T19:08:04.945547-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cantonrepdotcom-2022-10-10T19:08:04.945547-04:00.jpg",
+      "mtime": "1665443343",
+      "size": "9340",
+      "md5": "58590a63f9be3628e58106e96f644a20",
+      "crc32": "7a2b2ae2",
+      "sha1": "675e571332a7c8305a0b37b257d3bce291ee58b3"
+    },
+    {
       "name": "cantonrepdotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "948de4917293258fd2630bf15edcc32bcfd27ca3",
-      "mtime": "1665400068",
-      "size": "54090",
-      "md5": "8466dc3081bc134ca8217d067d49cb82",
-      "crc32": "e4abfadd",
-      "sha1": "a9f302d9a3237343a7aedb9babad6dd5d1d4fac0",
+      "btih": "ef51f02354a5b192e4539c8b6365634bc7b8c9c6",
+      "mtime": "1665443348",
+      "size": "55399",
+      "md5": "064cf4ddb4faaa5b5f6dc0f01dff5142",
+      "crc32": "b8b68112",
+      "sha1": "e3d53826a8f2c975c946958459ccb3664029076d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cantonrepdotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2ce34ce070bc0c79e2127b9a06f00bd2",
+      "md5": "3d3ac6d1f852f00c8ec686c294da9a86",
       "summation": "md5"
     },
     {
       "name": "cantonrepdotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665400017",
-      "size": "331776",
-      "md5": "18c8f9aca1f363c4ad68031bcbda2f4f",
-      "crc32": "7d13f0ef",
-      "sha1": "93076cf87c19b7dcea93150b4b6f24cf9796651c",
+      "mtime": "1665443298",
+      "size": "339968",
+      "md5": "a31c5d1855b136878b64bf36c5f97c59",
+      "crc32": "865bd2a6",
+      "sha1": "e3f82e28dc3cf77d60cb41fe164da78170c9bf5d",
       "format": "Metadata"
     },
     {
@@ -2549,9 +2606,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 246,
-  "item_last_updated": 1665400068,
-  "item_size": 16912495,
+  "files_count": 252,
+  "item_last_updated": 1665443348,
+  "item_size": 17362107,
   "metadata": {
     "identifier": "cantonrepdotcom-2022",
     "collection": [
@@ -2568,10 +2625,10 @@
     "publicdate": "2022-09-20 22:11:40",
     "addeddate": "2022-09-20 22:11:40"
   },
-  "server": "ia801507.us.archive.org",
-  "uniq": 460290818,
+  "server": "ia601507.us.archive.org",
+  "uniq": 408864315,
   "workable_servers": [
-    "ia801507.us.archive.org",
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

@@ -1,5 +1,10 @@
 {
-  "created": 1665400123,
+  "created": 1665446665,
+  "ctmagazine-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/25/items/ctmagazine-2022",
@@ -6010,31 +6015,93 @@
       "sha1": "63824af074b4b3595109526bd09ffba29b4ff20e"
     },
     {
+      "name": "ctmagazine-2022-10-10T18:07:42.147850-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665443266",
+      "size": "26746",
+      "md5": "0eb370ba4ab89d5765d9a52be87d079f",
+      "crc32": "aa0c062e",
+      "sha1": "3f0ecd52c0784c61e25db705cf515b7fdde6f117",
+      "format": "JSON"
+    },
+    {
+      "name": "ctmagazine-2022-10-10T18:07:42.147850-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665443268",
+      "size": "25544",
+      "md5": "222cd822f86d9dca4db63339b3e621a2",
+      "crc32": "f0b28fe8",
+      "sha1": "b91c95287fb7e4b17670905a9f90580062d07be3",
+      "format": "JSON"
+    },
+    {
+      "name": "ctmagazine-2022-10-10T18:07:42.147850-05:00.jpg",
+      "source": "original",
+      "mtime": "1665443265",
+      "size": "267467",
+      "md5": "a0494c58f0e870276d263f27d508c476",
+      "crc32": "902c2210",
+      "sha1": "1e12241ad078283bfd5265ad72a3d93d141787cd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ctmagazine-2022-10-10T18:07:42.147850-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665443269",
+      "size": "1555",
+      "md5": "84c2d06a1d0ab7c8144507cc2d8ddaed",
+      "crc32": "8dfaef88",
+      "sha1": "922ac4fbea43fdac8c62a3ebadd783b62fea0a94",
+      "format": "JSON"
+    },
+    {
+      "name": "ctmagazine-2022-10-10T18:07:42.147850-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665443271",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ctmagazine-2022-10-10T18:07:42.147850-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ctmagazine-2022-10-10T18:07:42.147850-05:00.jpg",
+      "mtime": "1665443342",
+      "size": "8815",
+      "md5": "7783dffe54feb9a928c6c98c06230514",
+      "crc32": "84d27065",
+      "sha1": "3207bbdab3b392bb543d5479554963f2526a8ab2"
+    },
+    {
       "name": "ctmagazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "88f341bd3e7539c19f6848e4dca17ffc2d96d2c0",
-      "mtime": "1665400112",
-      "size": "124593",
-      "md5": "207a59547d0dad4ba5b60a5e0bf682e3",
-      "crc32": "9824d1f7",
-      "sha1": "b7411a6d69c7486c7b05e05ee1b28b0a4fae9789",
+      "btih": "0193f4d65a67adb9633735d53355a41a8e3a709f",
+      "mtime": "1665443348",
+      "size": "125850",
+      "md5": "15c4fe0edef4e33c2afd01a0fa5d2f34",
+      "crc32": "5735d20d",
+      "sha1": "13caace1c8c288430f20f88fac4c8db2c5372032",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ctmagazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "750321124f97a61ceea524cbf294d245",
+      "md5": "1a5cb0298a751514ec10339c743b40b4",
       "summation": "md5"
     },
     {
       "name": "ctmagazine-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665400046",
-      "size": "757760",
-      "md5": "c4b604607bf4aa0de4ea7087b82e4c15",
-      "crc32": "3f6a6d29",
-      "sha1": "239ad53b97e1634818436e3c1c9b9a0259eb040e",
+      "mtime": "1665443278",
+      "size": "765952",
+      "md5": "2f1d5bc728480a0d6b571a9b549cd238",
+      "crc32": "e07b66e7",
+      "sha1": "cf4f2a371ecc84feed4cf1baf248f3640bb57e50",
       "format": "Metadata"
     },
     {
@@ -6048,9 +6115,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 585,
-  "item_last_updated": 1665400112,
-  "item_size": 34375077,
+  "files_count": 591,
+  "item_last_updated": 1665443348,
+  "item_size": 34714855,
   "metadata": {
     "identifier": "ctmagazine-2022",
     "collection": [
@@ -6068,7 +6135,7 @@
     "addeddate": "2022-08-23 23:00:18"
   },
   "server": "ia801407.us.archive.org",
-  "uniq": 1918872144,
+  "uniq": 400176301,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"
