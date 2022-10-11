@@ -1,5 +1,5 @@
 {
-  "created": 1665455188,
+  "created": 1665500927,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/21/items/ocalastarbanner-2022",
@@ -2558,31 +2558,93 @@
       "sha1": "e9eb8daba0dd2341e26add65cb057313326a5fae"
     },
     {
+      "name": "ocalastarbanner-2022-10-11T11:07:19.106059-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665500842",
+      "size": "23348",
+      "md5": "a12882b85e48aa7f6c343a63934fc11f",
+      "crc32": "13c4ee3f",
+      "sha1": "70afc71afda12ec33cafa71f2f86b1e6e554652e",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-11T11:07:19.106059-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665500844",
+      "size": "30253",
+      "md5": "0890a7bba8118c4950697e3579889a9b",
+      "crc32": "021f8550",
+      "sha1": "434747d347f382a97c9ab1aff62c2e5e4897b54f",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-11T11:07:19.106059-04:00.jpg",
+      "source": "original",
+      "mtime": "1665500840",
+      "size": "254709",
+      "md5": "7257757fa54f3192ae060360beda61b6",
+      "crc32": "3b87a0f2",
+      "sha1": "061ab1ead6c2d989b9cebd9ccad994ef21d6dd75",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-11T11:07:19.106059-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665500846",
+      "size": "1450",
+      "md5": "657bde813a626e4ff0d4a04925544af1",
+      "crc32": "b094102c",
+      "sha1": "a8dbe78d408c330bd29f19c8a5a86669448ff1af",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-11T11:07:19.106059-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665500847",
+      "size": "75340",
+      "md5": "a93de97f0ca9978fb04c07ce045d06c5",
+      "crc32": "2dcdb683",
+      "sha1": "975c8cf1fc77667dc7964c06046265d3f6055ab6",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-11T11:07:19.106059-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocalastarbanner-2022-10-11T11:07:19.106059-04:00.jpg",
+      "mtime": "1665500908",
+      "size": "9630",
+      "md5": "22c064ba2b11819aaf912f0c7bc50a14",
+      "crc32": "8b8746aa",
+      "sha1": "4a9c6cfd7ae365cd1ab280772545c0b8819f2a44"
+    },
+    {
       "name": "ocalastarbanner-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1d18c4c6a5ced8f5e5fce649399b3b2a92391afe",
-      "mtime": "1665455177",
-      "size": "55096",
-      "md5": "a26c3bdc72a5c4ab1032803821b20cd2",
-      "crc32": "04b4ca49",
-      "sha1": "52802b9020332768f894a81c9592f1cb67f08d5c",
+      "btih": "d59402e88d2f2ccfc05b67722f6b9b71c85e61d4",
+      "mtime": "1665500914",
+      "size": "56405",
+      "md5": "7747a6cfe2ed58ef6cbccf1729e250ca",
+      "crc32": "9ceb6297",
+      "sha1": "4ea62219ca7c83dfa900aa6acd0018cf64a9bf89",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ocalastarbanner-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2342a1222b7372cf1a38bf5443229217",
+      "md5": "cd1a3a065d62696b5a477ff528594c50",
       "summation": "md5"
     },
     {
       "name": "ocalastarbanner-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665455120",
-      "size": "339968",
-      "md5": "b9c6400a8ab7e81610177e2c37da9641",
-      "crc32": "30581d45",
-      "sha1": "41669b7e7cabf6797f1627ad5d963adc8f926a2d",
+      "mtime": "1665500852",
+      "size": "344064",
+      "md5": "5313a06a1de47b1e8d01fac376151a47",
+      "crc32": "12aafefd",
+      "sha1": "b7ac2563b9feed5ff460f10a323a4acd07b736d8",
       "format": "Metadata"
     },
     {
@@ -2596,9 +2658,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 251,
-  "item_last_updated": 1665455177,
-  "item_size": 16087322,
+  "files_count": 257,
+  "item_last_updated": 1665500914,
+  "item_size": 16487457,
   "metadata": {
     "identifier": "ocalastarbanner-2022",
     "collection": [
@@ -2616,7 +2678,7 @@
     "addeddate": "2022-09-21 02:22:57"
   },
   "server": "ia801505.us.archive.org",
-  "uniq": 1073028829,
+  "uniq": 646615072,
   "workable_servers": [
     "ia801505.us.archive.org",
     "ia601505.us.archive.org"
