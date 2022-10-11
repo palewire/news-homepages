@@ -1,5 +1,5 @@
 {
-  "created": 1665477146,
+  "created": 1665489776,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/26/items/charlie_hebdo_-2022",
@@ -12480,31 +12480,93 @@
       "sha1": "b276f9299109cbb4e12bc124b71faebf03cc1b3b"
     },
     {
+      "name": "charlie_hebdo_-2022-10-11T14:01:17.204312+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665489681",
+      "size": "19501",
+      "md5": "e8f020a6449408e1606f9f6bbc36fe1a",
+      "crc32": "6cf64c3f",
+      "sha1": "90fb11e4ca3016019606d2e85e2fb22f4bd53d76",
+      "format": "JSON"
+    },
+    {
+      "name": "charlie_hebdo_-2022-10-11T14:01:17.204312+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665489683",
+      "size": "22573",
+      "md5": "b4775d66dfb176c6ad3a529282bb8d32",
+      "crc32": "3a0c3fdf",
+      "sha1": "57ed9af254cb56fbf40e614f7d955bf1ab629efa",
+      "format": "JSON"
+    },
+    {
+      "name": "charlie_hebdo_-2022-10-11T14:01:17.204312+02:00.jpg",
+      "source": "original",
+      "mtime": "1665489679",
+      "size": "403729",
+      "md5": "41c80cbf053d341ec65be5d10790ec6f",
+      "crc32": "354a2183",
+      "sha1": "df173c409cc1fb89dde60bdbae813816c7f2d31b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "charlie_hebdo_-2022-10-11T14:01:17.204312+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665489684",
+      "size": "1459",
+      "md5": "e10c1dd6fa032681200efec2ca0a9ef9",
+      "crc32": "4e37fa72",
+      "sha1": "219552f5aa0ce471d63e5eb6d9324d89130b3553",
+      "format": "JSON"
+    },
+    {
+      "name": "charlie_hebdo_-2022-10-11T14:01:17.204312+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665489687",
+      "size": "11274",
+      "md5": "497d4eccf2dc359460c43b128720277e",
+      "crc32": "4380fd43",
+      "sha1": "dc94b2612f36e9a3f1a702350002be98e1c96d1c",
+      "format": "JSON"
+    },
+    {
+      "name": "charlie_hebdo_-2022-10-11T14:01:17.204312+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "charlie_hebdo_-2022-10-11T14:01:17.204312+02:00.jpg",
+      "mtime": "1665489751",
+      "size": "11847",
+      "md5": "07553480daee0da00d1f72f3e3fe7966",
+      "crc32": "27214167",
+      "sha1": "84bf4eb2fde015a468fbf4106f2d7bbf80ef29b2"
+    },
+    {
       "name": "charlie_hebdo_-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a5b15809096e4a9d319c9d19cb8aa3abe8bee22d",
-      "mtime": "1665477136",
-      "size": "263064",
-      "md5": "39ab05ae3c37009927c800d004452307",
-      "crc32": "c83b90a9",
-      "sha1": "acf7aab449ed7b7e77aafc73394b7864dc81527c",
+      "btih": "2596b2eb0fa4003aeb6f21d791b178310ec807c0",
+      "mtime": "1665489768",
+      "size": "264368",
+      "md5": "1dead5964f1d364f67100ba9866fb177",
+      "crc32": "373193d7",
+      "sha1": "223e57989955e7a9b5c56bef00179636cca672b3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "charlie_hebdo_-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3b2ed159ba0d3859f8e463f0f3c1ce59",
+      "md5": "62aca9cd0d418b02cacf842f0ac1d779",
       "summation": "md5"
     },
     {
       "name": "charlie_hebdo_-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665477055",
-      "size": "1556480",
-      "md5": "bbc3216bc19fe9dd87c03b0ee7666160",
-      "crc32": "40b85cb4",
-      "sha1": "9ce08fe457808697a2f21279d5061021726fee37",
+      "mtime": "1665489690",
+      "size": "1564672",
+      "md5": "86ac6d94b3b354123834e73fe310a42f",
+      "crc32": "7e61f86c",
+      "sha1": "3e5cdfa347549a4c780c1eca347760acc530b988",
       "format": "Metadata"
     },
     {
@@ -12518,9 +12580,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1211,
-  "item_last_updated": 1665477136,
-  "item_size": 89756763,
+  "files_count": 1217,
+  "item_last_updated": 1665489768,
+  "item_size": 90236642,
   "metadata": {
     "identifier": "charlie_hebdo_-2022",
     "collection": [
@@ -12537,10 +12599,10 @@
     "publicdate": "2022-08-05 08:11:56",
     "addeddate": "2022-08-05 08:11:56"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 778394521,
+  "server": "ia902502.us.archive.org",
+  "uniq": 1444775035,
   "workable_servers": [
-    "ia802502.us.archive.org",
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }

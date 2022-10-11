@@ -1,5 +1,6 @@
 {
-  "created": 1665447269,
+  "conflict": 1665490094,
+  "created": 1665490094,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/9/items/dailycaller-2022",
@@ -22428,31 +22429,78 @@
       "sha1": "942d33da4fbe65653836f9708a73425cbcbc81b1"
     },
     {
+      "name": "dailycaller-2022-10-11T08:03:15.866358-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665489811",
+      "size": "36715",
+      "md5": "787af6d52b4847a195323d05bd0538f5",
+      "crc32": "f8a21ee6",
+      "sha1": "fdb0b71690ea661fbfdbdb4efbf0f0b9ae8fc0fa",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycaller-2022-10-11T08:03:15.866358-04:00.jpg",
+      "source": "original",
+      "mtime": "1665489809",
+      "size": "296815",
+      "md5": "d1c277a33cf16989aa6ea480ec14740d",
+      "crc32": "da91a488",
+      "sha1": "6b060657af48007a874fd5dd39bf765f3bfc4dd6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailycaller-2022-10-11T08:03:15.866358-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665489812",
+      "size": "1468",
+      "md5": "2d630a1d25e9fe787771ee437c19492b",
+      "crc32": "86202840",
+      "sha1": "664d899dd9028e25b80898362d33883f1d3ba7eb",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycaller-2022-10-11T08:03:15.866358-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665489815",
+      "size": "109729",
+      "md5": "cffc88875a8b949c8d1cfdd5187105dc",
+      "crc32": "2303d2ba",
+      "sha1": "7865bbe327dca53fc6bcf0d8c0f75f48dc0d34b9",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycaller-2022-10-11T08:03:15.866358-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailycaller-2022-10-11T08:03:15.866358-04:00.jpg"
+    },
+    {
       "name": "dailycaller-2022_archive.torrent",
       "source": "metadata",
-      "btih": "47a3d5eeff7d9ff1ffbd784f46006d7e7c7cadb7",
-      "mtime": "1665447085",
-      "size": "462213",
-      "md5": "16a45fd9974979ec681d068bcf8a2e7c",
-      "crc32": "770e3f96",
-      "sha1": "4c5dc279476e655335c3ebd3ad2c1afa1fa7dd37",
+      "btih": "106955c82034b522c21026a8d0284f2cab6ff87e",
+      "mtime": "1665489886",
+      "size": "463078",
+      "md5": "eb7bc90b826117e41f286b668e68602a",
+      "crc32": "111986d8",
+      "sha1": "64b2144ef525793511d094b29ce659d0cdea3ba1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailycaller-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9b7a3d8c468f1c0395370144e20dab49",
+      "md5": "5d908a99209ca0eeb2baf4e574bb7365",
       "summation": "md5"
     },
     {
       "name": "dailycaller-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665446785",
-      "size": "2646016",
-      "md5": "9ce52d511f8ca4ceffb4ec652771a0bf",
-      "crc32": "0f65742e",
-      "sha1": "9544df9294a343770906df3202ba7d40ff72e77b",
+      "mtime": "1665489819",
+      "size": "2650112",
+      "md5": "ba0f2acd4fd4dc662f886e786513767b",
+      "crc32": "024f0ace",
+      "sha1": "f53283db5f5e971a0c31fdbb0452b58431214b21",
       "format": "Metadata"
     },
     {
@@ -22466,9 +22514,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2159,
-  "item_last_updated": 1665447085,
-  "item_size": 173460777,
+  "files_count": 2164,
+  "item_last_updated": 1665489886,
+  "item_size": 173910465,
   "metadata": {
     "identifier": "dailycaller-2022",
     "collection": [
@@ -22485,9 +22533,20 @@
     "publicdate": "2022-03-25 18:46:08",
     "addeddate": "2022-03-25 18:46:08"
   },
+  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
   "servers_unavailable": true,
-  "uniq": 1902154679,
+  "tasks": [
+    {
+      "task_id": 3435825721,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1681348641,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

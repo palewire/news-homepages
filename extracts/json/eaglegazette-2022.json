@@ -1,5 +1,5 @@
 {
-  "created": 1665447281,
+  "created": 1665490016,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/20/items/eaglegazette-2022",
@@ -2620,31 +2620,82 @@
       "sha1": "9e463f485a4b4fa5cce7227db79744219713eaaf"
     },
     {
+      "name": "eaglegazette-2022-10-11T08:05:56.644806-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665489961",
+      "size": "20727",
+      "md5": "3f2d53223e6a8ee74b32530a0b5a91b5",
+      "crc32": "965549b9",
+      "sha1": "17990c112c0487880bf712928d330fcf91eff6e9",
+      "format": "JSON"
+    },
+    {
+      "name": "eaglegazette-2022-10-11T08:05:56.644806-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665489963",
+      "size": "37607",
+      "md5": "b9474be64bfbd7e1c90e4f9445c8d66d",
+      "crc32": "c1827fbf",
+      "sha1": "abfbc20cf9085f5ffe3f4894f429aefb8f4eef00",
+      "format": "JSON"
+    },
+    {
+      "name": "eaglegazette-2022-10-11T08:05:56.644806-04:00.jpg",
+      "source": "original",
+      "mtime": "1665489960",
+      "size": "252563",
+      "md5": "05ee081a13475cac92485c4d1736d9d6",
+      "crc32": "2af56db4",
+      "sha1": "b08b7d1a0a3b5957a159da121435e1ebbfce4779",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eaglegazette-2022-10-11T08:05:56.644806-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665489964",
+      "size": "1594",
+      "md5": "cc197efae6c0ee451c318ab1ea1ce20c",
+      "crc32": "5db6cdea",
+      "sha1": "b5bbc6b48355dda87b34ec85287b6f486a44599e",
+      "format": "JSON"
+    },
+    {
+      "name": "eaglegazette-2022-10-11T08:05:56.644806-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665489966",
+      "size": "88974",
+      "md5": "f22a2c8c54e7ca342866e19e7c95abdd",
+      "crc32": "3fd168e7",
+      "sha1": "d53db67a0219b90d572f354f68ae39e169621691",
+      "format": "JSON"
+    },
+    {
       "name": "eaglegazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "91fd87e1fa56a1e5d1f5d27a7280d6a3e75954ed",
-      "mtime": "1665447114",
-      "size": "55665",
-      "md5": "b905bdf607df9b34600e7a97ee8d2b69",
-      "crc32": "34ac0821",
-      "sha1": "ced521f1cb53b8134b1543625b90f2cad1c43d10",
+      "btih": "cfd3a00f6fbf5c1cc0378ca937f87f8c695cdfa0",
+      "mtime": "1665490011",
+      "size": "56748",
+      "md5": "b4b02078a98be73a6470ae9a36542b25",
+      "crc32": "35f8ee0a",
+      "sha1": "8ba5525a4fcc1b1bac4cc25c25b3b4721d388e78",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eaglegazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7f4012bb39a8da6cbe4556a86556d407",
+      "md5": "cfe029a8306753858b051ad2e5eb8c55",
       "summation": "md5"
     },
     {
       "name": "eaglegazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665446988",
-      "size": "344064",
-      "md5": "ab24b384d307530eb94a3069e64dd44f",
-      "crc32": "f8482dd3",
-      "sha1": "c143ec49e1d423dd9cecad16766ec01269f653bb",
+      "mtime": "1665489973",
+      "size": "352256",
+      "md5": "1e130f433d3277b94d945904c301a8f3",
+      "crc32": "0a40a303",
+      "sha1": "1dbcc29d31db89c61aa478d6fab259a6414d60ce",
       "format": "Metadata"
     },
     {
@@ -2658,9 +2709,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 257,
-  "item_last_updated": 1665447114,
-  "item_size": 17195800,
+  "files_count": 262,
+  "item_last_updated": 1665490011,
+  "item_size": 17606540,
   "metadata": {
     "identifier": "eaglegazette-2022",
     "collection": [
@@ -2677,9 +2728,20 @@
     "publicdate": "2022-09-20 22:15:32",
     "addeddate": "2022-09-20 22:15:32"
   },
+  "pending_tasks": true,
   "server": "ia601400.us.archive.org",
   "servers_unavailable": true,
-  "uniq": 771441566,
+  "tasks": [
+    {
+      "task_id": 3435827727,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 486830125,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]
