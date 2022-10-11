@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 194 screenshots with the Internet Archive.
+The archiving routine has saved 197 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/gawker-2022/gawker-2022-10-11T14:02:06.242562-04:00.jpg">
+  <img src="https://archive.org/download/gawker-2022/gawker-2022-10-11T14:02:06.242562-04:00.jpg"
+     alt="Gawker at 2022-10-11 14:02:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gawker-2022/gawker-2022-10-11T14:02:06.242562-04:00.jpg">October 11 at 2:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gawker-2022/gawker-2022-10-11T02:47:17.586796-04:00.jpg">
+  <img src="https://archive.org/download/gawker-2022/gawker-2022-10-11T02:47:17.586796-04:00.jpg"
+     alt="Gawker at 2022-10-11 02:47:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gawker-2022/gawker-2022-10-11T02:47:17.586796-04:00.jpg">October 11 at 2:47 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gawker-2022/gawker-2022-10-10T15:01:19.503643-04:00.jpg">
+  <img src="https://archive.org/download/gawker-2022/gawker-2022-10-10T15:01:19.503643-04:00.jpg"
+     alt="Gawker at 2022-10-10 15:01:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gawker-2022/gawker-2022-10-10T15:01:19.503643-04:00.jpg">October 10 at 3:01 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/gawker-2022/gawker-2022-10-10T02:40:21.913253-04:00.jpg">
   <img src="https://archive.org/download/gawker-2022/gawker-2022-10-10T02:40:21.913253-04:00.jpg"
      alt="Gawker at 2022-10-10 02:40:34-04:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gawker-2022/gawker-2022-10-06T02:00:40.977025-04:00.jpg">October 6 at 2:00 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gawker-2022/gawker-2022-10-05T16:06:26.127747-04:00.jpg">
-  <img src="https://archive.org/download/gawker-2022/gawker-2022-10-05T16:06:26.127747-04:00.jpg"
-     alt="Gawker at 2022-10-05 16:06:32-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gawker-2022/gawker-2022-10-05T16:06:26.127747-04:00.jpg">October 5 at 4:06 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gawker-2022/gawker-2022-10-05T02:07:27.121401-04:00.jpg">
-  <img src="https://archive.org/download/gawker-2022/gawker-2022-10-05T02:07:27.121401-04:00.jpg"
-     alt="Gawker at 2022-10-05 02:07:28-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gawker-2022/gawker-2022-10-05T02:07:27.121401-04:00.jpg">October 5 at 2:07 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gawker-2022/gawker-2022-10-04T14:07:59.325041-04:00.jpg">
-  <img src="https://archive.org/download/gawker-2022/gawker-2022-10-04T14:07:59.325041-04:00.jpg"
-     alt="Gawker at 2022-10-04 14:08:06-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gawker-2022/gawker-2022-10-04T14:07:59.325041-04:00.jpg">October 4 at 2:08 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 194 hyperlink lists with the Internet Archive.
+The archiving routine has saved 197 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 2:02 PM](https://archive.org/download/gawker-2022/gawker-2022-10-11T14:02:06.242562-04:00.hyperlinks.json) |
+| [October 11 at 2:47 AM](https://archive.org/download/gawker-2022/gawker-2022-10-11T02:47:17.586796-04:00.hyperlinks.json) |
+| [October 10 at 3:01 PM](https://archive.org/download/gawker-2022/gawker-2022-10-10T15:01:19.503643-04:00.hyperlinks.json) |
 | [October 10 at 2:40 AM](https://archive.org/download/gawker-2022/gawker-2022-10-10T02:40:21.913253-04:00.hyperlinks.json) |
 | [October 9 at 1:51 PM](https://archive.org/download/gawker-2022/gawker-2022-10-09T13:51:16.848615-04:00.hyperlinks.json) |
 | [October 9 at 3:23 AM](https://archive.org/download/gawker-2022/gawker-2022-10-09T03:22:58.243050-04:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 1:59 AM](https://archive.org/download/gawker-2022/gawker-2022-10-08T01:59:23.232965-04:00.hyperlinks.json) |
 | [October 7 at 2:20 PM](https://archive.org/download/gawker-2022/gawker-2022-10-07T14:20:42.230832-04:00.hyperlinks.json) |
 | [October 7 at 3:43 AM](https://archive.org/download/gawker-2022/gawker-2022-10-07T03:43:50.689515-04:00.hyperlinks.json) |
-| [October 6 at 2:04 PM](https://archive.org/download/gawker-2022/gawker-2022-10-06T14:04:48.227183-04:00.hyperlinks.json) |
-| [October 6 at 2:00 AM](https://archive.org/download/gawker-2022/gawker-2022-10-06T02:00:40.977025-04:00.hyperlinks.json) |
-| [October 5 at 4:06 PM](https://archive.org/download/gawker-2022/gawker-2022-10-05T16:06:26.127747-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 193 accessibility trees with the Internet Archive.
+The archiving routine has saved 196 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 2:02 PM](https://archive.org/download/gawker-2022/gawker-2022-10-11T14:02:06.242562-04:00.accessibility.json) |
+| [October 11 at 2:47 AM](https://archive.org/download/gawker-2022/gawker-2022-10-11T02:47:17.586796-04:00.accessibility.json) |
+| [October 10 at 3:01 PM](https://archive.org/download/gawker-2022/gawker-2022-10-10T15:01:19.503643-04:00.accessibility.json) |
 | [October 10 at 2:40 AM](https://archive.org/download/gawker-2022/gawker-2022-10-10T02:40:21.913253-04:00.accessibility.json) |
 | [October 9 at 1:51 PM](https://archive.org/download/gawker-2022/gawker-2022-10-09T13:51:16.848615-04:00.accessibility.json) |
 | [October 9 at 3:23 AM](https://archive.org/download/gawker-2022/gawker-2022-10-09T03:22:58.243050-04:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 1:59 AM](https://archive.org/download/gawker-2022/gawker-2022-10-08T01:59:23.232965-04:00.accessibility.json) |
 | [October 7 at 2:20 PM](https://archive.org/download/gawker-2022/gawker-2022-10-07T14:20:42.230832-04:00.accessibility.json) |
 | [October 7 at 3:43 AM](https://archive.org/download/gawker-2022/gawker-2022-10-07T03:43:50.689515-04:00.accessibility.json) |
-| [October 6 at 2:04 PM](https://archive.org/download/gawker-2022/gawker-2022-10-06T14:04:48.227183-04:00.accessibility.json) |
-| [October 6 at 2:00 AM](https://archive.org/download/gawker-2022/gawker-2022-10-06T02:00:40.977025-04:00.accessibility.json) |
-| [October 5 at 4:06 PM](https://archive.org/download/gawker-2022/gawker-2022-10-05T16:06:26.127747-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 155 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 158 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 2:02 PM](https://archive.org/download/gawker-2022/gawker-2022-10-11T14:02:06.242562-04:00.lighthouse.json) |
+| [October 11 at 2:47 AM](https://archive.org/download/gawker-2022/gawker-2022-10-11T02:47:17.586796-04:00.lighthouse.json) |
+| [October 10 at 3:01 PM](https://archive.org/download/gawker-2022/gawker-2022-10-10T15:01:19.503643-04:00.lighthouse.json) |
 | [October 10 at 2:40 AM](https://archive.org/download/gawker-2022/gawker-2022-10-10T02:40:21.913253-04:00.lighthouse.json) |
 | [October 9 at 1:51 PM](https://archive.org/download/gawker-2022/gawker-2022-10-09T13:51:16.848615-04:00.lighthouse.json) |
 | [October 9 at 3:23 AM](https://archive.org/download/gawker-2022/gawker-2022-10-09T03:22:58.243050-04:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 1:59 AM](https://archive.org/download/gawker-2022/gawker-2022-10-08T01:59:23.232965-04:00.lighthouse.json) |
 | [October 7 at 2:21 PM](https://archive.org/download/gawker-2022/gawker-2022-10-07T14:20:42.230832-04:00.lighthouse.json) |
 | [October 7 at 3:43 AM](https://archive.org/download/gawker-2022/gawker-2022-10-07T03:43:50.689515-04:00.lighthouse.json) |
-| [October 6 at 2:04 PM](https://archive.org/download/gawker-2022/gawker-2022-10-06T14:04:48.227183-04:00.lighthouse.json) |
-| [October 6 at 2:00 AM](https://archive.org/download/gawker-2022/gawker-2022-10-06T02:00:40.977025-04:00.lighthouse.json) |
-| [October 5 at 4:06 PM](https://archive.org/download/gawker-2022/gawker-2022-10-05T16:06:26.127747-04:00.lighthouse.json) |
 
 
 

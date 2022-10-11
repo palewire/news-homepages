@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 189 screenshots with the Internet Archive.
+The archiving routine has saved 192 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/documentedny-2022/documentedny-2022-10-11T13:55:26.747993-04:00.jpg">
+  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-10-11T13:55:26.747993-04:00.jpg"
+     alt="Documented at 2022-10-11 13:55:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-10-11T13:55:26.747993-04:00.jpg">October 11 at 1:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/documentedny-2022/documentedny-2022-10-11T02:44:57.006953-04:00.jpg">
+  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-10-11T02:44:57.006953-04:00.jpg"
+     alt="Documented at 2022-10-11 02:44:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-10-11T02:44:57.006953-04:00.jpg">October 11 at 2:44 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/documentedny-2022/documentedny-2022-10-10T14:57:17.868229-04:00.jpg">
+  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-10-10T14:57:17.868229-04:00.jpg"
+     alt="Documented at 2022-10-10 14:57:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-10-10T14:57:17.868229-04:00.jpg">October 10 at 2:57 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/documentedny-2022/documentedny-2022-10-10T02:34:44.797883-04:00.jpg">
   <img src="https://archive.org/download/documentedny-2022/documentedny-2022-10-10T02:34:44.797883-04:00.jpg"
      alt="Documented at 2022-10-10 02:34:46-04:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-10-06T01:55:48.989677-04:00.jpg">October 6 at 1:55 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/documentedny-2022/documentedny-2022-10-05T16:02:06.167508-04:00.jpg">
-  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-10-05T16:02:06.167508-04:00.jpg"
-     alt="Documented at 2022-10-05 16:02:11-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-10-05T16:02:06.167508-04:00.jpg">October 5 at 4:02 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/documentedny-2022/documentedny-2022-10-05T02:02:09.761552-04:00.jpg">
-  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-10-05T02:02:09.761552-04:00.jpg"
-     alt="Documented at 2022-10-05 02:02:10-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-10-05T02:02:09.761552-04:00.jpg">October 5 at 2:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/documentedny-2022/documentedny-2022-10-04T14:02:43.920240-04:00.jpg">
-  <img src="https://archive.org/download/documentedny-2022/documentedny-2022-10-04T14:02:43.920240-04:00.jpg"
-     alt="Documented at 2022-10-04 14:02:46-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/documentedny-2022/documentedny-2022-10-04T14:02:43.920240-04:00.jpg">October 4 at 2:02 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 189 hyperlink lists with the Internet Archive.
+The archiving routine has saved 192 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 1:55 PM](https://archive.org/download/documentedny-2022/documentedny-2022-10-11T13:55:26.747993-04:00.hyperlinks.json) |
+| [October 11 at 2:45 AM](https://archive.org/download/documentedny-2022/documentedny-2022-10-11T02:44:57.006953-04:00.hyperlinks.json) |
+| [October 10 at 2:57 PM](https://archive.org/download/documentedny-2022/documentedny-2022-10-10T14:57:17.868229-04:00.hyperlinks.json) |
 | [October 10 at 2:34 AM](https://archive.org/download/documentedny-2022/documentedny-2022-10-10T02:34:44.797883-04:00.hyperlinks.json) |
 | [October 9 at 1:46 PM](https://archive.org/download/documentedny-2022/documentedny-2022-10-09T13:46:28.973284-04:00.hyperlinks.json) |
 | [October 9 at 3:21 AM](https://archive.org/download/documentedny-2022/documentedny-2022-10-09T03:21:13.852573-04:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 1:54 AM](https://archive.org/download/documentedny-2022/documentedny-2022-10-08T01:54:13.414266-04:00.hyperlinks.json) |
 | [October 7 at 2:16 PM](https://archive.org/download/documentedny-2022/documentedny-2022-10-07T14:16:09.676807-04:00.hyperlinks.json) |
 | [October 7 at 3:41 AM](https://archive.org/download/documentedny-2022/documentedny-2022-10-07T03:41:38.155305-04:00.hyperlinks.json) |
-| [October 6 at 1:56 PM](https://archive.org/download/documentedny-2022/documentedny-2022-10-06T13:56:10.957785-04:00.hyperlinks.json) |
-| [October 6 at 1:55 AM](https://archive.org/download/documentedny-2022/documentedny-2022-10-06T01:55:48.989677-04:00.hyperlinks.json) |
-| [October 5 at 4:02 PM](https://archive.org/download/documentedny-2022/documentedny-2022-10-05T16:02:06.167508-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 188 accessibility trees with the Internet Archive.
+The archiving routine has saved 191 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 1:55 PM](https://archive.org/download/documentedny-2022/documentedny-2022-10-11T13:55:26.747993-04:00.accessibility.json) |
+| [October 11 at 2:45 AM](https://archive.org/download/documentedny-2022/documentedny-2022-10-11T02:44:57.006953-04:00.accessibility.json) |
+| [October 10 at 2:57 PM](https://archive.org/download/documentedny-2022/documentedny-2022-10-10T14:57:17.868229-04:00.accessibility.json) |
 | [October 10 at 2:34 AM](https://archive.org/download/documentedny-2022/documentedny-2022-10-10T02:34:44.797883-04:00.accessibility.json) |
 | [October 9 at 1:46 PM](https://archive.org/download/documentedny-2022/documentedny-2022-10-09T13:46:28.973284-04:00.accessibility.json) |
 | [October 9 at 3:21 AM](https://archive.org/download/documentedny-2022/documentedny-2022-10-09T03:21:13.852573-04:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 1:54 AM](https://archive.org/download/documentedny-2022/documentedny-2022-10-08T01:54:13.414266-04:00.accessibility.json) |
 | [October 7 at 2:16 PM](https://archive.org/download/documentedny-2022/documentedny-2022-10-07T14:16:09.676807-04:00.accessibility.json) |
 | [October 7 at 3:41 AM](https://archive.org/download/documentedny-2022/documentedny-2022-10-07T03:41:38.155305-04:00.accessibility.json) |
-| [October 6 at 1:56 PM](https://archive.org/download/documentedny-2022/documentedny-2022-10-06T13:56:10.957785-04:00.accessibility.json) |
-| [October 6 at 1:55 AM](https://archive.org/download/documentedny-2022/documentedny-2022-10-06T01:55:48.989677-04:00.accessibility.json) |
-| [October 5 at 4:02 PM](https://archive.org/download/documentedny-2022/documentedny-2022-10-05T16:02:06.167508-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 157 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 160 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 1:55 PM](https://archive.org/download/documentedny-2022/documentedny-2022-10-11T13:55:26.747993-04:00.lighthouse.json) |
+| [October 11 at 2:45 AM](https://archive.org/download/documentedny-2022/documentedny-2022-10-11T02:44:57.006953-04:00.lighthouse.json) |
+| [October 10 at 2:57 PM](https://archive.org/download/documentedny-2022/documentedny-2022-10-10T14:57:17.868229-04:00.lighthouse.json) |
 | [October 10 at 2:34 AM](https://archive.org/download/documentedny-2022/documentedny-2022-10-10T02:34:44.797883-04:00.lighthouse.json) |
 | [October 9 at 1:46 PM](https://archive.org/download/documentedny-2022/documentedny-2022-10-09T13:46:28.973284-04:00.lighthouse.json) |
 | [October 9 at 3:21 AM](https://archive.org/download/documentedny-2022/documentedny-2022-10-09T03:21:13.852573-04:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 1:54 AM](https://archive.org/download/documentedny-2022/documentedny-2022-10-08T01:54:13.414266-04:00.lighthouse.json) |
 | [October 7 at 2:16 PM](https://archive.org/download/documentedny-2022/documentedny-2022-10-07T14:16:09.676807-04:00.lighthouse.json) |
 | [October 7 at 3:41 AM](https://archive.org/download/documentedny-2022/documentedny-2022-10-07T03:41:38.155305-04:00.lighthouse.json) |
-| [October 6 at 1:56 PM](https://archive.org/download/documentedny-2022/documentedny-2022-10-06T13:56:10.957785-04:00.lighthouse.json) |
-| [October 6 at 1:56 AM](https://archive.org/download/documentedny-2022/documentedny-2022-10-06T01:55:48.989677-04:00.lighthouse.json) |
-| [October 5 at 4:02 PM](https://archive.org/download/documentedny-2022/documentedny-2022-10-05T16:02:06.167508-04:00.lighthouse.json) |
 
 
 

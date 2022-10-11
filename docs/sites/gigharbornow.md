@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 185 screenshots with the Internet Archive.
+The archiving routine has saved 188 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-11T11:01:17.185638-07:00.jpg">
+  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-11T11:01:17.185638-07:00.jpg"
+     alt="Gig Harbor Now at 2022-10-11 11:01:23-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-11T11:01:17.185638-07:00.jpg">October 11 at 11:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-10T23:48:01.607194-07:00.jpg">
+  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-10T23:48:01.607194-07:00.jpg"
+     alt="Gig Harbor Now at 2022-10-10 23:48:02-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-10T23:48:01.607194-07:00.jpg">October 10 at 11:48 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-10T12:01:28.232726-07:00.jpg">
+  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-10T12:01:28.232726-07:00.jpg"
+     alt="Gig Harbor Now at 2022-10-10 12:01:33-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-10T12:01:28.232726-07:00.jpg">October 10 at 12:01 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-09T23:40:13.572334-07:00.jpg">
   <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-09T23:40:13.572334-07:00.jpg"
      alt="Gig Harbor Now at 2022-10-09 23:40:15-07:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-05T23:00:09.438115-07:00.jpg">October 5 at 11:00 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-05T13:08:08.517174-07:00.jpg">
-  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-05T13:08:08.517174-07:00.jpg"
-     alt="Gig Harbor Now at 2022-10-05 13:08:13-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-05T13:08:08.517174-07:00.jpg">October 5 at 1:08 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-04T23:07:19.631637-07:00.jpg">
-  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-04T23:07:19.631637-07:00.jpg"
-     alt="Gig Harbor Now at 2022-10-04 23:07:25-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-04T23:07:19.631637-07:00.jpg">October 4 at 11:07 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-04T11:10:56.035618-07:00.jpg">
-  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-04T11:10:56.035618-07:00.jpg"
-     alt="Gig Harbor Now at 2022-10-04 11:11:04-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-04T11:10:56.035618-07:00.jpg">October 4 at 11:11 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 185 hyperlink lists with the Internet Archive.
+The archiving routine has saved 188 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 11:01 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-11T11:01:17.185638-07:00.hyperlinks.json) |
+| [October 10 at 11:48 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-10T23:48:01.607194-07:00.hyperlinks.json) |
+| [October 10 at 12:01 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-10T12:01:28.232726-07:00.hyperlinks.json) |
 | [October 9 at 11:40 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-09T23:40:13.572334-07:00.hyperlinks.json) |
 | [October 9 at 10:51 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-09T10:51:09.778541-07:00.hyperlinks.json) |
 | [October 9 at 12:23 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-09T00:22:47.597270-07:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 7 at 10:58 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-07T22:58:42.090732-07:00.hyperlinks.json) |
 | [October 7 at 11:21 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-07T11:20:43.546387-07:00.hyperlinks.json) |
 | [October 7 at 12:44 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-07T00:44:43.211657-07:00.hyperlinks.json) |
-| [October 6 at 11:05 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-06T11:05:20.911242-07:00.hyperlinks.json) |
-| [October 5 at 11:00 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-05T23:00:09.438115-07:00.hyperlinks.json) |
-| [October 5 at 1:08 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-05T13:08:08.517174-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 183 accessibility trees with the Internet Archive.
+The archiving routine has saved 186 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 11:01 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-11T11:01:17.185638-07:00.accessibility.json) |
+| [October 10 at 11:48 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-10T23:48:01.607194-07:00.accessibility.json) |
+| [October 10 at 12:01 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-10T12:01:28.232726-07:00.accessibility.json) |
 | [October 9 at 11:40 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-09T23:40:13.572334-07:00.accessibility.json) |
 | [October 9 at 10:51 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-09T10:51:09.778541-07:00.accessibility.json) |
 | [October 9 at 12:23 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-09T00:22:47.597270-07:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 7 at 10:58 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-07T22:58:42.090732-07:00.accessibility.json) |
 | [October 7 at 11:20 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-07T11:20:43.546387-07:00.accessibility.json) |
 | [October 7 at 12:44 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-07T00:44:43.211657-07:00.accessibility.json) |
-| [October 6 at 11:05 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-06T11:05:20.911242-07:00.accessibility.json) |
-| [October 5 at 11:00 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-05T23:00:09.438115-07:00.accessibility.json) |
-| [October 5 at 1:08 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-05T13:08:08.517174-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 155 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 158 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 11:01 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-11T11:01:17.185638-07:00.lighthouse.json) |
+| [October 10 at 11:48 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-10T23:48:01.607194-07:00.lighthouse.json) |
+| [October 10 at 12:01 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-10T12:01:28.232726-07:00.lighthouse.json) |
 | [October 9 at 11:40 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-09T23:40:13.572334-07:00.lighthouse.json) |
 | [October 9 at 10:51 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-09T10:51:09.778541-07:00.lighthouse.json) |
 | [October 9 at 12:23 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-09T00:22:47.597270-07:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 7 at 10:58 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-07T22:58:42.090732-07:00.lighthouse.json) |
 | [October 7 at 11:21 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-07T11:20:43.546387-07:00.lighthouse.json) |
 | [October 7 at 12:44 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-07T00:44:43.211657-07:00.lighthouse.json) |
-| [October 6 at 11:05 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-06T11:05:20.911242-07:00.lighthouse.json) |
-| [October 5 at 11:00 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-05T23:00:09.438115-07:00.lighthouse.json) |
-| [October 5 at 1:08 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-10-05T13:08:08.517174-07:00.lighthouse.json) |
 
 
 

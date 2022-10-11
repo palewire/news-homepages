@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 40 screenshots with the Internet Archive.
+The archiving routine has saved 43 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-11T13:52:24.570472-04:00.jpg">
+  <img src="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-11T13:52:24.570472-04:00.jpg"
+     alt="Leesburg Daily Commercial at 2022-10-11 13:52:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-11T13:52:24.570472-04:00.jpg">October 11 at 1:52 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-11T02:42:31.648284-04:00.jpg">
+  <img src="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-11T02:42:31.648284-04:00.jpg"
+     alt="Leesburg Daily Commercial at 2022-10-11 02:42:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-11T02:42:31.648284-04:00.jpg">October 11 at 2:42 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-10T14:55:18.927967-04:00.jpg">
+  <img src="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-10T14:55:18.927967-04:00.jpg"
+     alt="Leesburg Daily Commercial at 2022-10-10 14:55:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-10T14:55:18.927967-04:00.jpg">October 10 at 2:55 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-10T02:29:09.411928-04:00.jpg">
   <img src="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-10T02:29:09.411928-04:00.jpg"
      alt="Leesburg Daily Commercial at 2022-10-10 02:29:15-04:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-06T01:49:50.523962-04:00.jpg">October 6 at 1:49 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-05T16:01:37.223795-04:00.jpg">
-  <img src="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-05T16:01:37.223795-04:00.jpg"
-     alt="Leesburg Daily Commercial at 2022-10-05 16:01:38-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-05T16:01:37.223795-04:00.jpg">October 5 at 4:01 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-05T01:55:41.049841-04:00.jpg">
-  <img src="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-05T01:55:41.049841-04:00.jpg"
-     alt="Leesburg Daily Commercial at 2022-10-05 01:55:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-05T01:55:41.049841-04:00.jpg">October 5 at 1:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-04T13:59:56.163436-04:00.jpg">
-  <img src="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-04T13:59:56.163436-04:00.jpg"
-     alt="Leesburg Daily Commercial at 2022-10-04 14:00:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-04T13:59:56.163436-04:00.jpg">October 4 at 2:00 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 40 hyperlink lists with the Internet Archive.
+The archiving routine has saved 43 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 1:52 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-11T13:52:24.570472-04:00.hyperlinks.json) |
+| [October 11 at 2:42 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-11T02:42:31.648284-04:00.hyperlinks.json) |
+| [October 10 at 2:55 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-10T14:55:18.927967-04:00.hyperlinks.json) |
 | [October 10 at 2:29 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-10T02:29:09.411928-04:00.hyperlinks.json) |
 | [October 9 at 1:40 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-09T13:40:02.945859-04:00.hyperlinks.json) |
 | [October 9 at 3:19 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-09T03:19:19.675237-04:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 1:48 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-08T01:48:11.123884-04:00.hyperlinks.json) |
 | [October 7 at 2:05 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-07T14:05:21.322906-04:00.hyperlinks.json) |
 | [October 7 at 3:39 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-07T03:39:31.917214-04:00.hyperlinks.json) |
-| [October 6 at 1:56 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-06T13:56:05.255262-04:00.hyperlinks.json) |
-| [October 6 at 1:49 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-06T01:49:50.523962-04:00.hyperlinks.json) |
-| [October 5 at 4:01 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-05T16:01:37.223795-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 40 accessibility trees with the Internet Archive.
+The archiving routine has saved 43 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 1:52 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-11T13:52:24.570472-04:00.accessibility.json) |
+| [October 11 at 2:42 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-11T02:42:31.648284-04:00.accessibility.json) |
+| [October 10 at 2:55 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-10T14:55:18.927967-04:00.accessibility.json) |
 | [October 10 at 2:29 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-10T02:29:09.411928-04:00.accessibility.json) |
 | [October 9 at 1:40 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-09T13:40:02.945859-04:00.accessibility.json) |
 | [October 9 at 3:19 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-09T03:19:19.675237-04:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 1:48 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-08T01:48:11.123884-04:00.accessibility.json) |
 | [October 7 at 2:05 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-07T14:05:21.322906-04:00.accessibility.json) |
 | [October 7 at 3:39 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-07T03:39:31.917214-04:00.accessibility.json) |
-| [October 6 at 1:56 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-06T13:56:05.255262-04:00.accessibility.json) |
-| [October 6 at 1:49 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-06T01:49:50.523962-04:00.accessibility.json) |
-| [October 5 at 4:01 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-05T16:01:37.223795-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 1:52 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-11T13:52:24.570472-04:00.lighthouse.json) |
+| [October 11 at 2:42 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-11T02:42:31.648284-04:00.lighthouse.json) |
+| [October 10 at 2:55 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-10T14:55:18.927967-04:00.lighthouse.json) |
 | [October 10 at 2:29 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-10T02:29:09.411928-04:00.lighthouse.json) |
 | [October 9 at 1:40 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-09T13:40:02.945859-04:00.lighthouse.json) |
 | [October 9 at 3:19 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-09T03:19:19.675237-04:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 1:48 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-08T01:48:11.123884-04:00.lighthouse.json) |
 | [October 7 at 2:05 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-07T14:05:21.322906-04:00.lighthouse.json) |
 | [October 7 at 3:39 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-07T03:39:31.917214-04:00.lighthouse.json) |
-| [October 6 at 1:56 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-06T13:56:05.255262-04:00.lighthouse.json) |
-| [October 6 at 1:49 AM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-06T01:49:50.523962-04:00.lighthouse.json) |
-| [October 5 at 4:01 PM](https://archive.org/download/dailycommercial-2022/dailycommercial-2022-10-05T16:01:37.223795-04:00.lighthouse.json) |
 
 
 

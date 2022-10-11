@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 168 screenshots with the Internet Archive.
+The archiving routine has saved 170 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-10-11T12:46:57.731346-05:00.jpg">
+  <img src="https://archive.org/download/mwtnews-2022/mwtnews-2022-10-11T12:46:57.731346-05:00.jpg"
+     alt="Midland Reporter-Telegram at 2022-10-11 12:47:04-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-10-11T12:46:57.731346-05:00.jpg">October 11 at 12:47 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-10-11T01:38:50.287959-05:00.jpg">
+  <img src="https://archive.org/download/mwtnews-2022/mwtnews-2022-10-11T01:38:50.287959-05:00.jpg"
+     alt="Midland Reporter-Telegram at 2022-10-11 01:38:57-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-10-11T01:38:50.287959-05:00.jpg">October 11 at 1:38 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-10-10T13:15:38.528560-05:00.jpg">
   <img src="https://archive.org/download/mwtnews-2022/mwtnews-2022-10-10T13:15:38.528560-05:00.jpg"
      alt="Midland Reporter-Telegram at 2022-10-10 13:15:51-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-10-06T00:48:18.267547-05:00.jpg">October 6 at 12:48 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-10-05T13:29:32.202748-05:00.jpg">
-  <img src="https://archive.org/download/mwtnews-2022/mwtnews-2022-10-05T13:29:32.202748-05:00.jpg"
-     alt="Midland Reporter-Telegram at 2022-10-05 13:29:51-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-10-05T13:29:32.202748-05:00.jpg">October 5 at 1:29 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-10-05T00:52:53.974481-05:00.jpg">
-  <img src="https://archive.org/download/mwtnews-2022/mwtnews-2022-10-05T00:52:53.974481-05:00.jpg"
-     alt="Midland Reporter-Telegram at 2022-10-05 00:53:01-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-10-05T00:52:53.974481-05:00.jpg">October 5 at 12:53 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 149 hyperlink lists with the Internet Archive.
+The archiving routine has saved 151 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 12:47 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-11T12:46:57.731346-05:00.hyperlinks.json) |
+| [October 11 at 1:39 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-11T01:38:50.287959-05:00.hyperlinks.json) |
 | [October 10 at 1:15 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-10T13:15:38.528560-05:00.hyperlinks.json) |
 | [October 10 at 3:21 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-10T03:21:30.386639-05:00.hyperlinks.json) |
 | [October 9 at 12:37 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-09T12:37:23.207209-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 12:45 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-08T00:45:10.418316-05:00.hyperlinks.json) |
 | [October 7 at 1:05 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-07T13:04:53.593739-05:00.hyperlinks.json) |
 | [October 7 at 1:23 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-07T01:23:04.952726-05:00.hyperlinks.json) |
-| [October 6 at 12:49 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-06T12:49:26.500820-05:00.hyperlinks.json) |
-| [October 6 at 12:48 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-06T00:48:18.267547-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 164 accessibility trees with the Internet Archive.
+The archiving routine has saved 166 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 12:47 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-11T12:46:57.731346-05:00.accessibility.json) |
+| [October 11 at 1:38 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-11T01:38:50.287959-05:00.accessibility.json) |
 | [October 10 at 1:15 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-10T13:15:38.528560-05:00.accessibility.json) |
 | [October 10 at 3:21 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-10T03:21:30.386639-05:00.accessibility.json) |
 | [October 9 at 12:37 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-09T12:37:23.207209-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 12:45 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-08T00:45:10.418316-05:00.accessibility.json) |
 | [October 7 at 1:05 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-07T13:04:53.593739-05:00.accessibility.json) |
 | [October 7 at 1:23 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-07T01:23:04.952726-05:00.accessibility.json) |
-| [October 6 at 12:49 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-06T12:49:26.500820-05:00.accessibility.json) |
-| [October 6 at 12:48 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-06T00:48:18.267547-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 155 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 157 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 12:47 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-11T12:46:57.731346-05:00.lighthouse.json) |
+| [October 11 at 1:39 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-11T01:38:50.287959-05:00.lighthouse.json) |
 | [October 10 at 1:15 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-10T13:15:38.528560-05:00.lighthouse.json) |
 | [October 10 at 3:21 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-10T03:21:30.386639-05:00.lighthouse.json) |
 | [October 9 at 12:37 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-09T12:37:23.207209-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 12:45 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-08T00:45:10.418316-05:00.lighthouse.json) |
 | [October 7 at 1:05 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-07T13:04:53.593739-05:00.lighthouse.json) |
 | [October 7 at 1:23 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-07T01:23:04.952726-05:00.lighthouse.json) |
-| [October 6 at 12:49 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-06T12:49:26.500820-05:00.lighthouse.json) |
-| [October 6 at 12:48 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-10-06T00:48:18.267547-05:00.lighthouse.json) |
 
 
 

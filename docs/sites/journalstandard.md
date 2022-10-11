@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 41 screenshots with the Internet Archive.
+The archiving routine has saved 43 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/journalstandard-2022/journalstandard-2022-10-11T12:41:22.487903-05:00.jpg">
+  <img src="https://archive.org/download/journalstandard-2022/journalstandard-2022-10-11T12:41:22.487903-05:00.jpg"
+     alt="Freeport Journal-Standard at 2022-10-11 12:41:25-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/journalstandard-2022/journalstandard-2022-10-11T12:41:22.487903-05:00.jpg">October 11 at 12:41 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/journalstandard-2022/journalstandard-2022-10-11T01:35:40.731220-05:00.jpg">
+  <img src="https://archive.org/download/journalstandard-2022/journalstandard-2022-10-11T01:35:40.731220-05:00.jpg"
+     alt="Freeport Journal-Standard at 2022-10-11 01:35:42-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/journalstandard-2022/journalstandard-2022-10-11T01:35:40.731220-05:00.jpg">October 11 at 1:35 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/journalstandard-2022/journalstandard-2022-10-10T13:03:19.775397-05:00.jpg">
   <img src="https://archive.org/download/journalstandard-2022/journalstandard-2022-10-10T13:03:19.775397-05:00.jpg"
      alt="Freeport Journal-Standard at 2022-10-10 13:03:23-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/journalstandard-2022/journalstandard-2022-10-06T00:43:18.055163-05:00.jpg">October 6 at 12:43 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/journalstandard-2022/journalstandard-2022-10-05T13:15:30.075609-05:00.jpg">
-  <img src="https://archive.org/download/journalstandard-2022/journalstandard-2022-10-05T13:15:30.075609-05:00.jpg"
-     alt="Freeport Journal-Standard at 2022-10-05 13:15:32-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/journalstandard-2022/journalstandard-2022-10-05T13:15:30.075609-05:00.jpg">October 5 at 1:15 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/journalstandard-2022/journalstandard-2022-10-05T00:50:48.524260-05:00.jpg">
-  <img src="https://archive.org/download/journalstandard-2022/journalstandard-2022-10-05T00:50:48.524260-05:00.jpg"
-     alt="Freeport Journal-Standard at 2022-10-05 00:50:51-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/journalstandard-2022/journalstandard-2022-10-05T00:50:48.524260-05:00.jpg">October 5 at 12:50 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 41 hyperlink lists with the Internet Archive.
+The archiving routine has saved 43 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 12:41 PM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-11T12:41:22.487903-05:00.hyperlinks.json) |
+| [October 11 at 1:35 AM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-11T01:35:40.731220-05:00.hyperlinks.json) |
 | [October 10 at 1:03 PM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-10T13:03:19.775397-05:00.hyperlinks.json) |
 | [October 10 at 3:15 AM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-10T03:15:34.066430-05:00.hyperlinks.json) |
 | [October 9 at 12:34 PM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-09T12:34:18.769466-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 12:43 AM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-08T00:42:59.799535-05:00.hyperlinks.json) |
 | [October 7 at 12:58 PM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-07T12:58:10.398139-05:00.hyperlinks.json) |
 | [October 7 at 1:17 AM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-07T01:17:03.872234-05:00.hyperlinks.json) |
-| [October 6 at 12:43 PM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-06T12:43:52.149067-05:00.hyperlinks.json) |
-| [October 6 at 12:43 AM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-06T00:43:18.055163-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 41 accessibility trees with the Internet Archive.
+The archiving routine has saved 43 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 12:41 PM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-11T12:41:22.487903-05:00.accessibility.json) |
+| [October 11 at 1:35 AM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-11T01:35:40.731220-05:00.accessibility.json) |
 | [October 10 at 1:03 PM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-10T13:03:19.775397-05:00.accessibility.json) |
 | [October 10 at 3:15 AM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-10T03:15:34.066430-05:00.accessibility.json) |
 | [October 9 at 12:34 PM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-09T12:34:18.769466-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 12:43 AM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-08T00:42:59.799535-05:00.accessibility.json) |
 | [October 7 at 12:58 PM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-07T12:58:10.398139-05:00.accessibility.json) |
 | [October 7 at 1:17 AM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-07T01:17:03.872234-05:00.accessibility.json) |
-| [October 6 at 12:43 PM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-06T12:43:52.149067-05:00.accessibility.json) |
-| [October 6 at 12:43 AM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-06T00:43:18.055163-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 41 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 12:41 PM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-11T12:41:22.487903-05:00.lighthouse.json) |
+| [October 11 at 1:35 AM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-11T01:35:40.731220-05:00.lighthouse.json) |
 | [October 10 at 1:03 PM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-10T13:03:19.775397-05:00.lighthouse.json) |
 | [October 10 at 3:15 AM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-10T03:15:34.066430-05:00.lighthouse.json) |
 | [October 9 at 12:34 PM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-09T12:34:18.769466-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 12:43 AM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-08T00:42:59.799535-05:00.lighthouse.json) |
 | [October 7 at 12:58 PM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-07T12:58:10.398139-05:00.lighthouse.json) |
 | [October 7 at 1:17 AM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-07T01:17:03.872234-05:00.lighthouse.json) |
-| [October 6 at 12:43 PM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-06T12:43:52.149067-05:00.lighthouse.json) |
-| [October 6 at 12:43 AM](https://archive.org/download/journalstandard-2022/journalstandard-2022-10-06T00:43:18.055163-05:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 221 screenshots with the Internet Archive.
+The archiving routine has saved 223 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-10-11T13:44:39.089037-04:00.jpg">
+  <img src="https://archive.org/download/ledevoir-2022/ledevoir-2022-10-11T13:44:39.089037-04:00.jpg"
+     alt="Le Devoir at 2022-10-11 13:44:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-10-11T13:44:39.089037-04:00.jpg">October 11 at 1:44 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-10-11T02:36:24.691148-04:00.jpg">
+  <img src="https://archive.org/download/ledevoir-2022/ledevoir-2022-10-11T02:36:24.691148-04:00.jpg"
+     alt="Le Devoir at 2022-10-11 02:36:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-10-11T02:36:24.691148-04:00.jpg">October 11 at 2:36 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-10-10T14:08:15.170561-04:00.jpg">
   <img src="https://archive.org/download/ledevoir-2022/ledevoir-2022-10-10T14:08:15.170561-04:00.jpg"
      alt="Le Devoir at 2022-10-10 14:08:17-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-10-06T01:45:23.790206-04:00.jpg">October 6 at 1:45 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-10-05T14:22:55.968511-04:00.jpg">
-  <img src="https://archive.org/download/ledevoir-2022/ledevoir-2022-10-05T14:22:55.968511-04:00.jpg"
-     alt="Le Devoir at 2022-10-05 14:23:03-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-10-05T14:22:55.968511-04:00.jpg">October 5 at 2:23 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-10-05T01:50:51.169261-04:00.jpg">
-  <img src="https://archive.org/download/ledevoir-2022/ledevoir-2022-10-05T01:50:51.169261-04:00.jpg"
-     alt="Le Devoir at 2022-10-05 01:50:52-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ledevoir-2022/ledevoir-2022-10-05T01:50:51.169261-04:00.jpg">October 5 at 1:50 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 221 hyperlink lists with the Internet Archive.
+The archiving routine has saved 223 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 1:44 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-11T13:44:39.089037-04:00.hyperlinks.json) |
+| [October 11 at 2:36 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-11T02:36:24.691148-04:00.hyperlinks.json) |
 | [October 10 at 2:08 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-10T14:08:15.170561-04:00.hyperlinks.json) |
 | [October 10 at 4:19 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-10T04:19:17.431375-04:00.hyperlinks.json) |
 | [October 9 at 1:35 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-09T13:35:35.795919-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 1:43 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-08T01:43:15.603055-04:00.hyperlinks.json) |
 | [October 7 at 2:01 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-07T14:00:43.761293-04:00.hyperlinks.json) |
 | [October 7 at 2:17 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-07T02:17:05.991501-04:00.hyperlinks.json) |
-| [October 6 at 1:46 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-06T13:46:44.995307-04:00.hyperlinks.json) |
-| [October 6 at 1:45 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-06T01:45:23.790206-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 221 accessibility trees with the Internet Archive.
+The archiving routine has saved 223 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 1:44 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-11T13:44:39.089037-04:00.accessibility.json) |
+| [October 11 at 2:36 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-11T02:36:24.691148-04:00.accessibility.json) |
 | [October 10 at 2:08 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-10T14:08:15.170561-04:00.accessibility.json) |
 | [October 10 at 4:19 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-10T04:19:17.431375-04:00.accessibility.json) |
 | [October 9 at 1:35 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-09T13:35:35.795919-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 1:43 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-08T01:43:15.603055-04:00.accessibility.json) |
 | [October 7 at 2:01 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-07T14:00:43.761293-04:00.accessibility.json) |
 | [October 7 at 2:17 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-07T02:17:05.991501-04:00.accessibility.json) |
-| [October 6 at 1:46 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-06T13:46:44.995307-04:00.accessibility.json) |
-| [October 6 at 1:45 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-06T01:45:23.790206-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 156 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 158 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 1:44 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-11T13:44:39.089037-04:00.lighthouse.json) |
+| [October 11 at 2:36 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-11T02:36:24.691148-04:00.lighthouse.json) |
 | [October 10 at 2:08 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-10T14:08:15.170561-04:00.lighthouse.json) |
 | [October 10 at 4:19 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-10T04:19:17.431375-04:00.lighthouse.json) |
 | [October 9 at 1:35 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-09T13:35:35.795919-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 1:43 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-08T01:43:15.603055-04:00.lighthouse.json) |
 | [October 7 at 2:01 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-07T14:00:43.761293-04:00.lighthouse.json) |
 | [October 7 at 2:17 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-07T02:17:05.991501-04:00.lighthouse.json) |
-| [October 6 at 1:47 PM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-06T13:46:44.995307-04:00.lighthouse.json) |
-| [October 6 at 1:45 AM](https://archive.org/download/ledevoir-2022/ledevoir-2022-10-06T01:45:23.790206-04:00.lighthouse.json) |
 
 
 

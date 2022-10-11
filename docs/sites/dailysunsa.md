@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 97 screenshots with the Internet Archive.
+The archiving routine has saved 100 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-11T19:55:03.167004+02:00.jpg">
+  <img src="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-11T19:55:03.167004+02:00.jpg"
+     alt="Daily Sun at 2022-10-11 19:55:08+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-11T19:55:03.167004+02:00.jpg">October 11 at 7:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-11T08:41:51.546050+02:00.jpg">
+  <img src="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-11T08:41:51.546050+02:00.jpg"
+     alt="Daily Sun at 2022-10-11 08:41:55+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-11T08:41:51.546050+02:00.jpg">October 11 at 8:41 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-10T20:57:30.661725+02:00.jpg">
+  <img src="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-10T20:57:30.661725+02:00.jpg"
+     alt="Daily Sun at 2022-10-10 20:57:38+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-10T20:57:30.661725+02:00.jpg">October 10 at 8:57 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-10T08:32:01.304603+02:00.jpg">
   <img src="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-10T08:32:01.304603+02:00.jpg"
      alt="Daily Sun at 2022-10-10 08:32:08+02:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-06T07:50:52.644543+02:00.jpg">October 6 at 7:50 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-05T22:02:47.006044+02:00.jpg">
-  <img src="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-05T22:02:47.006044+02:00.jpg"
-     alt="Daily Sun at 2022-10-05 22:02:48+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-05T22:02:47.006044+02:00.jpg">October 5 at 10:02 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-05T07:55:57.895895+02:00.jpg">
-  <img src="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-05T07:55:57.895895+02:00.jpg"
-     alt="Daily Sun at 2022-10-05 07:55:59+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-05T07:55:57.895895+02:00.jpg">October 5 at 7:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-04T20:01:29.519371+02:00.jpg">
-  <img src="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-04T20:01:29.519371+02:00.jpg"
-     alt="Daily Sun at 2022-10-04 20:01:42+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-04T20:01:29.519371+02:00.jpg">October 4 at 8:01 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 97 hyperlink lists with the Internet Archive.
+The archiving routine has saved 100 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 7:55 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-11T19:55:03.167004+02:00.hyperlinks.json) |
+| [October 11 at 8:41 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-11T08:41:51.546050+02:00.hyperlinks.json) |
+| [October 10 at 8:57 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-10T20:57:30.661725+02:00.hyperlinks.json) |
 | [October 10 at 8:32 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-10T08:32:01.304603+02:00.hyperlinks.json) |
 | [October 9 at 7:42 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-09T19:41:58.962616+02:00.hyperlinks.json) |
 | [October 9 at 9:18 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-09T09:18:45.932447+02:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 7:54 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-08T07:54:08.384206+02:00.hyperlinks.json) |
 | [October 7 at 8:09 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-07T20:09:45.200459+02:00.hyperlinks.json) |
 | [October 7 at 9:39 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-07T09:39:46.444011+02:00.hyperlinks.json) |
-| [October 6 at 7:57 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-06T19:57:04.363769+02:00.hyperlinks.json) |
-| [October 6 at 7:50 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-06T07:50:52.644543+02:00.hyperlinks.json) |
-| [October 5 at 10:02 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-05T22:02:47.006044+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 96 accessibility trees with the Internet Archive.
+The archiving routine has saved 99 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 7:55 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-11T19:55:03.167004+02:00.accessibility.json) |
+| [October 11 at 8:41 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-11T08:41:51.546050+02:00.accessibility.json) |
+| [October 10 at 8:57 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-10T20:57:30.661725+02:00.accessibility.json) |
 | [October 10 at 8:32 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-10T08:32:01.304603+02:00.accessibility.json) |
 | [October 9 at 7:42 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-09T19:41:58.962616+02:00.accessibility.json) |
 | [October 9 at 9:18 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-09T09:18:45.932447+02:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 7:54 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-08T07:54:08.384206+02:00.accessibility.json) |
 | [October 7 at 8:09 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-07T20:09:45.200459+02:00.accessibility.json) |
 | [October 7 at 9:39 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-07T09:39:46.444011+02:00.accessibility.json) |
-| [October 6 at 7:57 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-06T19:57:04.363769+02:00.accessibility.json) |
-| [October 6 at 7:50 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-06T07:50:52.644543+02:00.accessibility.json) |
-| [October 5 at 10:02 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-05T22:02:47.006044+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 97 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 100 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 7:55 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-11T19:55:03.167004+02:00.lighthouse.json) |
+| [October 11 at 8:42 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-11T08:41:51.546050+02:00.lighthouse.json) |
+| [October 10 at 8:57 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-10T20:57:30.661725+02:00.lighthouse.json) |
 | [October 10 at 8:32 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-10T08:32:01.304603+02:00.lighthouse.json) |
 | [October 9 at 7:42 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-09T19:41:58.962616+02:00.lighthouse.json) |
 | [October 9 at 9:18 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-09T09:18:45.932447+02:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 7:54 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-08T07:54:08.384206+02:00.lighthouse.json) |
 | [October 7 at 8:09 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-07T20:09:45.200459+02:00.lighthouse.json) |
 | [October 7 at 9:39 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-07T09:39:46.444011+02:00.lighthouse.json) |
-| [October 6 at 7:57 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-06T19:57:04.363769+02:00.lighthouse.json) |
-| [October 6 at 7:50 AM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-06T07:50:52.644543+02:00.lighthouse.json) |
-| [October 5 at 10:02 PM](https://archive.org/download/dailysunsa-2022/dailysunsa-2022-10-05T22:02:47.006044+02:00.lighthouse.json) |
 
 
 

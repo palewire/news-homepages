@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 112 screenshots with the Internet Archive.
+The archiving routine has saved 114 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-11T12:43:41.014265-05:00.jpg">
+  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-11T12:43:41.014265-05:00.jpg"
+     alt="Jornada at 2022-10-11 12:43:44-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-11T12:43:41.014265-05:00.jpg">October 11 at 12:43 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-11T01:36:59.904810-05:00.jpg">
+  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-11T01:36:59.904810-05:00.jpg"
+     alt="Jornada at 2022-10-11 01:37:05-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-11T01:36:59.904810-05:00.jpg">October 11 at 1:37 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-10T13:08:39.691152-05:00.jpg">
   <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-10T13:08:39.691152-05:00.jpg"
      alt="Jornada at 2022-10-10 13:08:42-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-06T00:45:52.793242-05:00.jpg">October 6 at 12:45 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-05T13:22:50.332622-05:00.jpg">
-  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-05T13:22:50.332622-05:00.jpg"
-     alt="Jornada at 2022-10-05 13:23:04-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-05T13:22:50.332622-05:00.jpg">October 5 at 1:23 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-05T00:50:31.933141-05:00.jpg">
-  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-05T00:50:31.933141-05:00.jpg"
-     alt="Jornada at 2022-10-05 00:50:37-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-05T00:50:31.933141-05:00.jpg">October 5 at 12:50 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 112 hyperlink lists with the Internet Archive.
+The archiving routine has saved 114 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 12:43 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-11T12:43:41.014265-05:00.hyperlinks.json) |
+| [October 11 at 1:37 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-11T01:36:59.904810-05:00.hyperlinks.json) |
 | [October 10 at 1:08 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-10T13:08:39.691152-05:00.hyperlinks.json) |
 | [October 10 at 3:16 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-10T03:16:06.321892-05:00.hyperlinks.json) |
 | [October 9 at 12:34 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-09T12:34:37.905088-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 12:43 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-08T00:42:48.242035-05:00.hyperlinks.json) |
 | [October 7 at 1:00 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-07T13:00:12.428285-05:00.hyperlinks.json) |
 | [October 7 at 1:17 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-07T01:16:57.062538-05:00.hyperlinks.json) |
-| [October 6 at 12:46 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-06T12:46:09.338765-05:00.hyperlinks.json) |
-| [October 6 at 12:45 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-06T00:45:52.793242-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 110 accessibility trees with the Internet Archive.
+The archiving routine has saved 112 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 12:43 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-11T12:43:41.014265-05:00.accessibility.json) |
+| [October 11 at 1:37 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-11T01:36:59.904810-05:00.accessibility.json) |
 | [October 10 at 1:08 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-10T13:08:39.691152-05:00.accessibility.json) |
 | [October 10 at 3:16 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-10T03:16:06.321892-05:00.accessibility.json) |
 | [October 9 at 12:34 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-09T12:34:37.905088-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 12:43 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-08T00:42:48.242035-05:00.accessibility.json) |
 | [October 7 at 1:00 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-07T13:00:12.428285-05:00.accessibility.json) |
 | [October 7 at 1:17 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-07T01:16:57.062538-05:00.accessibility.json) |
-| [October 6 at 12:46 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-06T12:46:09.338765-05:00.accessibility.json) |
-| [October 6 at 12:45 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-06T00:45:52.793242-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 112 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 114 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 12:43 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-11T12:43:41.014265-05:00.lighthouse.json) |
+| [October 11 at 1:37 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-11T01:36:59.904810-05:00.lighthouse.json) |
 | [October 10 at 1:08 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-10T13:08:39.691152-05:00.lighthouse.json) |
 | [October 10 at 3:16 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-10T03:16:06.321892-05:00.lighthouse.json) |
 | [October 9 at 12:34 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-09T12:34:37.905088-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 12:43 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-08T00:42:48.242035-05:00.lighthouse.json) |
 | [October 7 at 1:00 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-07T13:00:12.428285-05:00.lighthouse.json) |
 | [October 7 at 1:17 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-07T01:16:57.062538-05:00.lighthouse.json) |
-| [October 6 at 12:46 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-06T12:46:09.338765-05:00.lighthouse.json) |
-| [October 6 at 12:46 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-10-06T00:45:52.793242-05:00.lighthouse.json) |
 
 
 

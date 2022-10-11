@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 504 screenshots with the Internet Archive.
+The archiving routine has saved 507 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kpcc-2022/kpcc-2022-10-11T10:43:32.507789-07:00.jpg">
+  <img src="https://archive.org/download/kpcc-2022/kpcc-2022-10-11T10:43:32.507789-07:00.jpg"
+     alt="KPCC at 2022-10-11 10:43:46-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-10-11T10:43:32.507789-07:00.jpg">October 11 at 10:43 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpcc-2022/kpcc-2022-10-10T23:36:05.712844-07:00.jpg">
+  <img src="https://archive.org/download/kpcc-2022/kpcc-2022-10-10T23:36:05.712844-07:00.jpg"
+     alt="KPCC at 2022-10-10 23:36:07-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-10-10T23:36:05.712844-07:00.jpg">October 10 at 11:36 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpcc-2022/kpcc-2022-10-10T13:30:14.462676-07:00.jpg">
+  <img src="https://archive.org/download/kpcc-2022/kpcc-2022-10-10T13:30:14.462676-07:00.jpg"
+     alt="KPCC at 2022-10-10 13:30:16-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-10-10T13:30:14.462676-07:00.jpg">October 10 at 1:30 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kpcc-2022/kpcc-2022-10-10T11:06:27.285700-07:00.jpg">
   <img src="https://archive.org/download/kpcc-2022/kpcc-2022-10-10T11:06:27.285700-07:00.jpg"
      alt="KPCC at 2022-10-10 11:06:40-07:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-10-07T13:34:27.386993-07:00.jpg">October 7 at 1:34 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kpcc-2022/kpcc-2022-10-07T11:00:09.147428-07:00.jpg">
-  <img src="https://archive.org/download/kpcc-2022/kpcc-2022-10-07T11:00:09.147428-07:00.jpg"
-     alt="KPCC at 2022-10-07 11:00:11-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-10-07T11:00:09.147428-07:00.jpg">October 7 at 11:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kpcc-2022/kpcc-2022-10-06T23:17:02.978812-07:00.jpg">
-  <img src="https://archive.org/download/kpcc-2022/kpcc-2022-10-06T23:17:02.978812-07:00.jpg"
-     alt="KPCC at 2022-10-06 23:17:06-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-10-06T23:17:02.978812-07:00.jpg">October 6 at 11:17 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kpcc-2022/kpcc-2022-10-06T14:00:51.116576-07:00.jpg">
-  <img src="https://archive.org/download/kpcc-2022/kpcc-2022-10-06T14:00:51.116576-07:00.jpg"
-     alt="KPCC at 2022-10-06 14:00:53-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kpcc-2022/kpcc-2022-10-06T14:00:51.116576-07:00.jpg">October 6 at 2:00 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 490 hyperlink lists with the Internet Archive.
+The archiving routine has saved 493 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 10:43 AM](https://archive.org/download/kpcc-2022/kpcc-2022-10-11T10:43:32.507789-07:00.hyperlinks.json) |
+| [October 10 at 11:36 PM](https://archive.org/download/kpcc-2022/kpcc-2022-10-10T23:36:05.712844-07:00.hyperlinks.json) |
+| [October 10 at 1:30 PM](https://archive.org/download/kpcc-2022/kpcc-2022-10-10T13:30:14.462676-07:00.hyperlinks.json) |
 | [October 10 at 11:06 AM](https://archive.org/download/kpcc-2022/kpcc-2022-10-10T11:06:27.285700-07:00.hyperlinks.json) |
 | [October 10 at 1:16 AM](https://archive.org/download/kpcc-2022/kpcc-2022-10-10T01:15:56.379828-07:00.hyperlinks.json) |
 | [October 9 at 1:06 PM](https://archive.org/download/kpcc-2022/kpcc-2022-10-09T13:06:48.290114-07:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 10:22 PM](https://archive.org/download/kpcc-2022/kpcc-2022-10-08T22:21:59.519621-07:00.hyperlinks.json) |
 | [October 8 at 12:50 PM](https://archive.org/download/kpcc-2022/kpcc-2022-10-08T12:50:33.776292-07:00.hyperlinks.json) |
 | [October 8 at 10:38 AM](https://archive.org/download/kpcc-2022/kpcc-2022-10-08T10:38:30.063673-07:00.hyperlinks.json) |
-| [October 7 at 10:43 PM](https://archive.org/download/kpcc-2022/kpcc-2022-10-07T22:43:16.197696-07:00.hyperlinks.json) |
-| [October 7 at 1:34 PM](https://archive.org/download/kpcc-2022/kpcc-2022-10-07T13:34:27.386993-07:00.hyperlinks.json) |
-| [October 7 at 11:00 AM](https://archive.org/download/kpcc-2022/kpcc-2022-10-07T11:00:09.147428-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 492 accessibility trees with the Internet Archive.
+The archiving routine has saved 495 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 10:43 AM](https://archive.org/download/kpcc-2022/kpcc-2022-10-11T10:43:32.507789-07:00.accessibility.json) |
+| [October 10 at 11:36 PM](https://archive.org/download/kpcc-2022/kpcc-2022-10-10T23:36:05.712844-07:00.accessibility.json) |
+| [October 10 at 1:30 PM](https://archive.org/download/kpcc-2022/kpcc-2022-10-10T13:30:14.462676-07:00.accessibility.json) |
 | [October 10 at 11:06 AM](https://archive.org/download/kpcc-2022/kpcc-2022-10-10T11:06:27.285700-07:00.accessibility.json) |
 | [October 10 at 1:16 AM](https://archive.org/download/kpcc-2022/kpcc-2022-10-10T01:15:56.379828-07:00.accessibility.json) |
 | [October 9 at 1:06 PM](https://archive.org/download/kpcc-2022/kpcc-2022-10-09T13:06:48.290114-07:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 10:22 PM](https://archive.org/download/kpcc-2022/kpcc-2022-10-08T22:21:59.519621-07:00.accessibility.json) |
 | [October 8 at 12:50 PM](https://archive.org/download/kpcc-2022/kpcc-2022-10-08T12:50:33.776292-07:00.accessibility.json) |
 | [October 8 at 10:38 AM](https://archive.org/download/kpcc-2022/kpcc-2022-10-08T10:38:30.063673-07:00.accessibility.json) |
-| [October 7 at 10:43 PM](https://archive.org/download/kpcc-2022/kpcc-2022-10-07T22:43:16.197696-07:00.accessibility.json) |
-| [October 7 at 1:34 PM](https://archive.org/download/kpcc-2022/kpcc-2022-10-07T13:34:27.386993-07:00.accessibility.json) |
-| [October 7 at 11:00 AM](https://archive.org/download/kpcc-2022/kpcc-2022-10-07T11:00:09.147428-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 228 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 231 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 10:43 AM](https://archive.org/download/kpcc-2022/kpcc-2022-10-11T10:43:32.507789-07:00.lighthouse.json) |
+| [October 10 at 11:36 PM](https://archive.org/download/kpcc-2022/kpcc-2022-10-10T23:36:05.712844-07:00.lighthouse.json) |
+| [October 10 at 1:30 PM](https://archive.org/download/kpcc-2022/kpcc-2022-10-10T13:30:14.462676-07:00.lighthouse.json) |
 | [October 10 at 11:06 AM](https://archive.org/download/kpcc-2022/kpcc-2022-10-10T11:06:27.285700-07:00.lighthouse.json) |
 | [October 10 at 1:16 AM](https://archive.org/download/kpcc-2022/kpcc-2022-10-10T01:15:56.379828-07:00.lighthouse.json) |
 | [October 9 at 1:06 PM](https://archive.org/download/kpcc-2022/kpcc-2022-10-09T13:06:48.290114-07:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 10:22 PM](https://archive.org/download/kpcc-2022/kpcc-2022-10-08T22:21:59.519621-07:00.lighthouse.json) |
 | [October 8 at 12:50 PM](https://archive.org/download/kpcc-2022/kpcc-2022-10-08T12:50:33.776292-07:00.lighthouse.json) |
 | [October 8 at 10:38 AM](https://archive.org/download/kpcc-2022/kpcc-2022-10-08T10:38:30.063673-07:00.lighthouse.json) |
-| [October 7 at 10:43 PM](https://archive.org/download/kpcc-2022/kpcc-2022-10-07T22:43:16.197696-07:00.lighthouse.json) |
-| [October 7 at 1:34 PM](https://archive.org/download/kpcc-2022/kpcc-2022-10-07T13:34:27.386993-07:00.lighthouse.json) |
-| [October 7 at 11:00 AM](https://archive.org/download/kpcc-2022/kpcc-2022-10-07T11:00:09.147428-07:00.lighthouse.json) |
 
 
 

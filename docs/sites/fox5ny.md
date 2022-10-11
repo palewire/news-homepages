@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 94 screenshots with the Internet Archive.
+The archiving routine has saved 97 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/fox5ny-2022/fox5ny-2022-10-11T14:01:23.640372-04:00.jpg">
+  <img src="https://archive.org/download/fox5ny-2022/fox5ny-2022-10-11T14:01:23.640372-04:00.jpg"
+     alt="Fox 5 New York at 2022-10-11 14:01:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fox5ny-2022/fox5ny-2022-10-11T14:01:23.640372-04:00.jpg">October 11 at 2:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fox5ny-2022/fox5ny-2022-10-11T02:47:32.491069-04:00.jpg">
+  <img src="https://archive.org/download/fox5ny-2022/fox5ny-2022-10-11T02:47:32.491069-04:00.jpg"
+     alt="Fox 5 New York at 2022-10-11 02:47:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fox5ny-2022/fox5ny-2022-10-11T02:47:32.491069-04:00.jpg">October 11 at 2:47 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fox5ny-2022/fox5ny-2022-10-10T14:59:29.074802-04:00.jpg">
+  <img src="https://archive.org/download/fox5ny-2022/fox5ny-2022-10-10T14:59:29.074802-04:00.jpg"
+     alt="Fox 5 New York at 2022-10-10 14:59:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fox5ny-2022/fox5ny-2022-10-10T14:59:29.074802-04:00.jpg">October 10 at 2:59 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/fox5ny-2022/fox5ny-2022-10-10T02:40:34.315441-04:00.jpg">
   <img src="https://archive.org/download/fox5ny-2022/fox5ny-2022-10-10T02:40:34.315441-04:00.jpg"
      alt="Fox 5 New York at 2022-10-10 02:40:38-04:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/fox5ny-2022/fox5ny-2022-10-06T02:00:22.214384-04:00.jpg">October 6 at 2:00 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/fox5ny-2022/fox5ny-2022-10-05T16:04:47.678795-04:00.jpg">
-  <img src="https://archive.org/download/fox5ny-2022/fox5ny-2022-10-05T16:04:47.678795-04:00.jpg"
-     alt="Fox 5 New York at 2022-10-05 16:04:49-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fox5ny-2022/fox5ny-2022-10-05T16:04:47.678795-04:00.jpg">October 5 at 4:04 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/fox5ny-2022/fox5ny-2022-10-05T02:06:45.909139-04:00.jpg">
-  <img src="https://archive.org/download/fox5ny-2022/fox5ny-2022-10-05T02:06:45.909139-04:00.jpg"
-     alt="Fox 5 New York at 2022-10-05 02:06:53-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fox5ny-2022/fox5ny-2022-10-05T02:06:45.909139-04:00.jpg">October 5 at 2:06 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/fox5ny-2022/fox5ny-2022-10-04T14:08:24.801589-04:00.jpg">
-  <img src="https://archive.org/download/fox5ny-2022/fox5ny-2022-10-04T14:08:24.801589-04:00.jpg"
-     alt="Fox 5 New York at 2022-10-04 14:08:33-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fox5ny-2022/fox5ny-2022-10-04T14:08:24.801589-04:00.jpg">October 4 at 2:08 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 94 hyperlink lists with the Internet Archive.
+The archiving routine has saved 97 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 2:01 PM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-11T14:01:23.640372-04:00.hyperlinks.json) |
+| [October 11 at 2:47 AM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-11T02:47:32.491069-04:00.hyperlinks.json) |
+| [October 10 at 2:59 PM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-10T14:59:29.074802-04:00.hyperlinks.json) |
 | [October 10 at 2:40 AM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-10T02:40:34.315441-04:00.hyperlinks.json) |
 | [October 9 at 1:51 PM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-09T13:51:21.759019-04:00.hyperlinks.json) |
 | [October 9 at 3:22 AM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-09T03:22:10.826519-04:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 1:59 AM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-08T01:59:07.988861-04:00.hyperlinks.json) |
 | [October 7 at 2:20 PM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-07T14:19:49.620397-04:00.hyperlinks.json) |
 | [October 7 at 3:42 AM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-07T03:42:02.513578-04:00.hyperlinks.json) |
-| [October 6 at 2:02 PM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-06T14:02:04.439053-04:00.hyperlinks.json) |
-| [October 6 at 2:00 AM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-06T02:00:22.214384-04:00.hyperlinks.json) |
-| [October 5 at 4:04 PM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-05T16:04:47.678795-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 94 accessibility trees with the Internet Archive.
+The archiving routine has saved 97 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 2:01 PM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-11T14:01:23.640372-04:00.accessibility.json) |
+| [October 11 at 2:47 AM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-11T02:47:32.491069-04:00.accessibility.json) |
+| [October 10 at 2:59 PM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-10T14:59:29.074802-04:00.accessibility.json) |
 | [October 10 at 2:40 AM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-10T02:40:34.315441-04:00.accessibility.json) |
 | [October 9 at 1:51 PM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-09T13:51:21.759019-04:00.accessibility.json) |
 | [October 9 at 3:22 AM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-09T03:22:10.826519-04:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 1:59 AM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-08T01:59:07.988861-04:00.accessibility.json) |
 | [October 7 at 2:20 PM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-07T14:19:49.620397-04:00.accessibility.json) |
 | [October 7 at 3:42 AM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-07T03:42:02.513578-04:00.accessibility.json) |
-| [October 6 at 2:02 PM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-06T14:02:04.439053-04:00.accessibility.json) |
-| [October 6 at 2:00 AM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-06T02:00:22.214384-04:00.accessibility.json) |
-| [October 5 at 4:04 PM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-05T16:04:47.678795-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 94 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 97 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 2:01 PM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-11T14:01:23.640372-04:00.lighthouse.json) |
+| [October 11 at 2:47 AM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-11T02:47:32.491069-04:00.lighthouse.json) |
+| [October 10 at 2:59 PM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-10T14:59:29.074802-04:00.lighthouse.json) |
 | [October 10 at 2:40 AM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-10T02:40:34.315441-04:00.lighthouse.json) |
 | [October 9 at 1:51 PM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-09T13:51:21.759019-04:00.lighthouse.json) |
 | [October 9 at 3:22 AM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-09T03:22:10.826519-04:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 1:59 AM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-08T01:59:07.988861-04:00.lighthouse.json) |
 | [October 7 at 2:20 PM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-07T14:19:49.620397-04:00.lighthouse.json) |
 | [October 7 at 3:42 AM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-07T03:42:02.513578-04:00.lighthouse.json) |
-| [October 6 at 2:02 PM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-06T14:02:04.439053-04:00.lighthouse.json) |
-| [October 6 at 2:00 AM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-06T02:00:22.214384-04:00.lighthouse.json) |
-| [October 5 at 4:04 PM](https://archive.org/download/fox5ny-2022/fox5ny-2022-10-05T16:04:47.678795-04:00.lighthouse.json) |
 
 
 

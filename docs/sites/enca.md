@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 96 screenshots with the Internet Archive.
+The archiving routine has saved 99 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/enca-2022/enca-2022-10-11T20:01:04.287610+02:00.jpg">
+  <img src="https://archive.org/download/enca-2022/enca-2022-10-11T20:01:04.287610+02:00.jpg"
+     alt="eNCA at 2022-10-11 20:01:09+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/enca-2022/enca-2022-10-11T20:01:04.287610+02:00.jpg">October 11 at 8:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/enca-2022/enca-2022-10-11T08:45:23.712619+02:00.jpg">
+  <img src="https://archive.org/download/enca-2022/enca-2022-10-11T08:45:23.712619+02:00.jpg"
+     alt="eNCA at 2022-10-11 08:45:25+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/enca-2022/enca-2022-10-11T08:45:23.712619+02:00.jpg">October 11 at 8:45 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/enca-2022/enca-2022-10-10T21:00:47.216604+02:00.jpg">
+  <img src="https://archive.org/download/enca-2022/enca-2022-10-10T21:00:47.216604+02:00.jpg"
+     alt="eNCA at 2022-10-10 21:00:54+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/enca-2022/enca-2022-10-10T21:00:47.216604+02:00.jpg">October 10 at 9:00 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/enca-2022/enca-2022-10-10T08:40:16.216589+02:00.jpg">
   <img src="https://archive.org/download/enca-2022/enca-2022-10-10T08:40:16.216589+02:00.jpg"
      alt="eNCA at 2022-10-10 08:40:18+02:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/enca-2022/enca-2022-10-06T07:55:46.194401+02:00.jpg">October 6 at 7:55 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/enca-2022/enca-2022-10-05T22:04:58.299878+02:00.jpg">
-  <img src="https://archive.org/download/enca-2022/enca-2022-10-05T22:04:58.299878+02:00.jpg"
-     alt="eNCA at 2022-10-05 22:04:59+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/enca-2022/enca-2022-10-05T22:04:58.299878+02:00.jpg">October 5 at 10:04 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/enca-2022/enca-2022-10-05T08:01:31.587869+02:00.jpg">
-  <img src="https://archive.org/download/enca-2022/enca-2022-10-05T08:01:31.587869+02:00.jpg"
-     alt="eNCA at 2022-10-05 08:01:33+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/enca-2022/enca-2022-10-05T08:01:31.587869+02:00.jpg">October 5 at 8:01 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/enca-2022/enca-2022-10-04T20:08:55.386742+02:00.jpg">
-  <img src="https://archive.org/download/enca-2022/enca-2022-10-04T20:08:55.386742+02:00.jpg"
-     alt="eNCA at 2022-10-04 20:09:03+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/enca-2022/enca-2022-10-04T20:08:55.386742+02:00.jpg">October 4 at 8:09 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 96 hyperlink lists with the Internet Archive.
+The archiving routine has saved 99 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 8:01 PM](https://archive.org/download/enca-2022/enca-2022-10-11T20:01:04.287610+02:00.hyperlinks.json) |
+| [October 11 at 8:45 AM](https://archive.org/download/enca-2022/enca-2022-10-11T08:45:23.712619+02:00.hyperlinks.json) |
+| [October 10 at 9:00 PM](https://archive.org/download/enca-2022/enca-2022-10-10T21:00:47.216604+02:00.hyperlinks.json) |
 | [October 10 at 8:40 AM](https://archive.org/download/enca-2022/enca-2022-10-10T08:40:16.216589+02:00.hyperlinks.json) |
 | [October 9 at 7:49 PM](https://archive.org/download/enca-2022/enca-2022-10-09T19:49:34.883368+02:00.hyperlinks.json) |
 | [October 9 at 9:20 AM](https://archive.org/download/enca-2022/enca-2022-10-09T09:20:50.341213+02:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 7:57 AM](https://archive.org/download/enca-2022/enca-2022-10-08T07:57:45.804501+02:00.hyperlinks.json) |
 | [October 7 at 8:17 PM](https://archive.org/download/enca-2022/enca-2022-10-07T20:16:30.233350+02:00.hyperlinks.json) |
 | [October 7 at 9:41 AM](https://archive.org/download/enca-2022/enca-2022-10-07T09:41:46.832744+02:00.hyperlinks.json) |
-| [October 6 at 8:02 PM](https://archive.org/download/enca-2022/enca-2022-10-06T20:02:22.779154+02:00.hyperlinks.json) |
-| [October 6 at 7:55 AM](https://archive.org/download/enca-2022/enca-2022-10-06T07:55:46.194401+02:00.hyperlinks.json) |
-| [October 5 at 10:05 PM](https://archive.org/download/enca-2022/enca-2022-10-05T22:04:58.299878+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 96 accessibility trees with the Internet Archive.
+The archiving routine has saved 99 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 8:01 PM](https://archive.org/download/enca-2022/enca-2022-10-11T20:01:04.287610+02:00.accessibility.json) |
+| [October 11 at 8:45 AM](https://archive.org/download/enca-2022/enca-2022-10-11T08:45:23.712619+02:00.accessibility.json) |
+| [October 10 at 9:00 PM](https://archive.org/download/enca-2022/enca-2022-10-10T21:00:47.216604+02:00.accessibility.json) |
 | [October 10 at 8:40 AM](https://archive.org/download/enca-2022/enca-2022-10-10T08:40:16.216589+02:00.accessibility.json) |
 | [October 9 at 7:49 PM](https://archive.org/download/enca-2022/enca-2022-10-09T19:49:34.883368+02:00.accessibility.json) |
 | [October 9 at 9:20 AM](https://archive.org/download/enca-2022/enca-2022-10-09T09:20:50.341213+02:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 7:57 AM](https://archive.org/download/enca-2022/enca-2022-10-08T07:57:45.804501+02:00.accessibility.json) |
 | [October 7 at 8:16 PM](https://archive.org/download/enca-2022/enca-2022-10-07T20:16:30.233350+02:00.accessibility.json) |
 | [October 7 at 9:41 AM](https://archive.org/download/enca-2022/enca-2022-10-07T09:41:46.832744+02:00.accessibility.json) |
-| [October 6 at 8:02 PM](https://archive.org/download/enca-2022/enca-2022-10-06T20:02:22.779154+02:00.accessibility.json) |
-| [October 6 at 7:55 AM](https://archive.org/download/enca-2022/enca-2022-10-06T07:55:46.194401+02:00.accessibility.json) |
-| [October 5 at 10:05 PM](https://archive.org/download/enca-2022/enca-2022-10-05T22:04:58.299878+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 97 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 100 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 8:01 PM](https://archive.org/download/enca-2022/enca-2022-10-11T20:01:04.287610+02:00.lighthouse.json) |
+| [October 11 at 8:45 AM](https://archive.org/download/enca-2022/enca-2022-10-11T08:45:23.712619+02:00.lighthouse.json) |
+| [October 10 at 9:00 PM](https://archive.org/download/enca-2022/enca-2022-10-10T21:00:47.216604+02:00.lighthouse.json) |
 | [October 10 at 8:40 AM](https://archive.org/download/enca-2022/enca-2022-10-10T08:40:16.216589+02:00.lighthouse.json) |
 | [October 9 at 7:49 PM](https://archive.org/download/enca-2022/enca-2022-10-09T19:49:34.883368+02:00.lighthouse.json) |
 | [October 9 at 9:20 AM](https://archive.org/download/enca-2022/enca-2022-10-09T09:20:50.341213+02:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 7:57 AM](https://archive.org/download/enca-2022/enca-2022-10-08T07:57:45.804501+02:00.lighthouse.json) |
 | [October 7 at 8:17 PM](https://archive.org/download/enca-2022/enca-2022-10-07T20:16:30.233350+02:00.lighthouse.json) |
 | [October 7 at 9:41 AM](https://archive.org/download/enca-2022/enca-2022-10-07T09:41:46.832744+02:00.lighthouse.json) |
-| [October 6 at 8:02 PM](https://archive.org/download/enca-2022/enca-2022-10-06T20:02:22.779154+02:00.lighthouse.json) |
-| [October 6 at 7:55 AM](https://archive.org/download/enca-2022/enca-2022-10-06T07:55:46.194401+02:00.lighthouse.json) |
-| [October 5 at 10:05 PM](https://archive.org/download/enca-2022/enca-2022-10-05T22:04:58.299878+02:00.lighthouse.json) |
 
 
 
