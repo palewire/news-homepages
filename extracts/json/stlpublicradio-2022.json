@@ -1,5 +1,5 @@
 {
-  "created": 1665432723,
+  "created": 1665475887,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/7/items/stlpublicradio-2022",
@@ -10720,31 +10720,93 @@
       "sha1": "88f46e2a71ab56e62bbd99dc855b4581caac4f6b"
     },
     {
+      "name": "stlpublicradio-2022-10-11T03:09:59.125984-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665475803",
+      "size": "20488",
+      "md5": "360f477c5652637f170fb2fb90265173",
+      "crc32": "b4bf5a15",
+      "sha1": "0115d7f392c2a865c561c75746cbe526cd7b2df3",
+      "format": "JSON"
+    },
+    {
+      "name": "stlpublicradio-2022-10-11T03:09:59.125984-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665475804",
+      "size": "45097",
+      "md5": "8148b69df03effbba44c1e8b1c2683f2",
+      "crc32": "27d0dea2",
+      "sha1": "74e0f661902a6ce11dbbf56c442a9037307ca8db",
+      "format": "JSON"
+    },
+    {
+      "name": "stlpublicradio-2022-10-11T03:09:59.125984-05:00.jpg",
+      "source": "original",
+      "mtime": "1665475801",
+      "size": "268166",
+      "md5": "832acba78944c9ee46a3855e63d04bab",
+      "crc32": "b3133c16",
+      "sha1": "b880b1eae0e104858dd4578b8447d326d6fca39c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stlpublicradio-2022-10-11T03:09:59.125984-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665475806",
+      "size": "1540",
+      "md5": "a58b12641335ed082d32396d4f2b216b",
+      "crc32": "c3c17bab",
+      "sha1": "78586730ab68243fb977765abcf499448863b1bd",
+      "format": "JSON"
+    },
+    {
+      "name": "stlpublicradio-2022-10-11T03:09:59.125984-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665475808",
+      "size": "36350",
+      "md5": "ec235264cbda130ff84ef6035fd87356",
+      "crc32": "4c077fc9",
+      "sha1": "b7df132754423e4f4fddf5f6406564dea25c578f",
+      "format": "JSON"
+    },
+    {
+      "name": "stlpublicradio-2022-10-11T03:09:59.125984-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stlpublicradio-2022-10-11T03:09:59.125984-05:00.jpg",
+      "mtime": "1665475867",
+      "size": "10186",
+      "md5": "4d816c734b9464db40adb68ad5cb323c",
+      "crc32": "920a5168",
+      "sha1": "f29504de13cda647567bd50e516e65372a4faf24"
+    },
+    {
       "name": "stlpublicradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "51cf33d0f66a8f3e0d040d5891fe86216e70b184",
-      "mtime": "1665432699",
-      "size": "225385",
-      "md5": "299203096755f4e1a92eff7032ecd7b1",
-      "crc32": "abb37fae",
-      "sha1": "c5400df569840851ba2c2b7685818056bbb59211",
+      "btih": "7a791cdca3b787eb57e0795980fd384773347cb8",
+      "mtime": "1665475880",
+      "size": "226689",
+      "md5": "3b2f6ab92726975d417eea8e2626d4ee",
+      "crc32": "2cd16025",
+      "sha1": "9885290745475a205fbed63bbb6ccef7a2940430",
       "format": "Archive BitTorrent"
     },
     {
       "name": "stlpublicradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7b0ff3b63d3a066cb41aea82b1dd631c",
+      "md5": "e365ae9d7fa331517935ac1031347ee5",
       "summation": "md5"
     },
     {
       "name": "stlpublicradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665432630",
-      "size": "1314816",
-      "md5": "5089ac14728cafc48f761fc6ddc06f17",
-      "crc32": "94c7ac1a",
-      "sha1": "95b6451e0f939e0f431cafc3d19ff5ab7cd847c8",
+      "mtime": "1665475812",
+      "size": "1323008",
+      "md5": "35814f50e063d438ee794207cd98933c",
+      "crc32": "39f0cea1",
+      "sha1": "319acffa96c31500c415b732966b6af8b37d22d3",
       "format": "Metadata"
     },
     {
@@ -10758,9 +10820,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1038,
-  "item_last_updated": 1665432699,
-  "item_size": 73449846,
+  "files_count": 1044,
+  "item_last_updated": 1665475880,
+  "item_size": 73841169,
   "metadata": {
     "identifier": "stlpublicradio-2022",
     "collection": [
@@ -10777,10 +10839,10 @@
     "publicdate": "2022-07-09 04:04:48",
     "addeddate": "2022-07-09 04:04:48"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 1578215906,
+  "server": "ia902505.us.archive.org",
+  "uniq": 1771884629,
   "workable_servers": [
-    "ia802505.us.archive.org",
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }
