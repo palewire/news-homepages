@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 56 screenshots with the Internet Archive.
+The archiving routine has saved 57 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 56 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-10T22:19:38.563348-08:00.jpg">
+  <img src="https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-10T22:19:38.563348-08:00.jpg"
+     alt="Anchorage Press at 2022-10-10 22:19:42-08:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-10T22:19:38.563348-08:00.jpg">October 10 at 10:19 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-10T08:34:31.472115-08:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-05T08:33:27.508736-08:00.jpg">October 5 at 8:33 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-04T20:16:17.923249-08:00.jpg">
-  <img src="https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-04T20:16:17.923249-08:00.jpg"
-     alt="Anchorage Press at 2022-10-04 20:16:19-08:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-04T20:16:17.923249-08:00.jpg">October 4 at 8:16 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 56 hyperlink lists with the Internet Archive.
+The archiving routine has saved 57 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 10:19 PM](https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-10T22:19:38.563348-08:00.hyperlinks.json) |
 | [October 10 at 8:34 AM](https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-10T08:34:31.472115-08:00.hyperlinks.json) |
 | [October 9 at 10:20 PM](https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-09T22:20:41.052743-08:00.hyperlinks.json) |
 | [October 9 at 7:57 AM](https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-09T07:57:30.634705-08:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 7 at 8:26 AM](https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-07T08:26:13.172058-08:00.hyperlinks.json) |
 | [October 6 at 8:31 PM](https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-06T20:31:28.018817-08:00.hyperlinks.json) |
 | [October 6 at 8:01 AM](https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-06T08:01:12.168886-08:00.hyperlinks.json) |
-| [October 5 at 8:21 PM](https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-05T20:21:52.323371-08:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 56 accessibility trees with the Internet Archive.
+The archiving routine has saved 57 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 10:19 PM](https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-10T22:19:38.563348-08:00.accessibility.json) |
 | [October 10 at 8:34 AM](https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-10T08:34:31.472115-08:00.accessibility.json) |
 | [October 9 at 10:20 PM](https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-09T22:20:41.052743-08:00.accessibility.json) |
 | [October 9 at 7:57 AM](https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-09T07:57:30.634705-08:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 7 at 8:26 AM](https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-07T08:26:13.172058-08:00.accessibility.json) |
 | [October 6 at 8:31 PM](https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-06T20:31:28.018817-08:00.accessibility.json) |
 | [October 6 at 8:01 AM](https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-06T08:01:12.168886-08:00.accessibility.json) |
-| [October 5 at 8:21 PM](https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-05T20:21:52.323371-08:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 56 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 57 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 10:19 PM](https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-10T22:19:38.563348-08:00.lighthouse.json) |
 | [October 10 at 8:34 AM](https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-10T08:34:31.472115-08:00.lighthouse.json) |
 | [October 9 at 10:20 PM](https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-09T22:20:41.052743-08:00.lighthouse.json) |
 | [October 9 at 7:57 AM](https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-09T07:57:30.634705-08:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 7 at 8:26 AM](https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-07T08:26:13.172058-08:00.lighthouse.json) |
 | [October 6 at 8:31 PM](https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-06T20:31:28.018817-08:00.lighthouse.json) |
 | [October 6 at 8:01 AM](https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-06T08:01:12.168886-08:00.lighthouse.json) |
-| [October 5 at 8:21 PM](https://archive.org/download/anchoragepress-2022/anchoragepress-2022-10-05T20:21:52.323371-08:00.lighthouse.json) |
 
 
 
