@@ -437,7 +437,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 167 hyperlink lists with the Internet Archive.
+The archiving routine has saved 168 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 9:09 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-10-11T09:09:49.515854-04:00.hyperlinks.json) |
 | [October 10 at 9:26 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-10-10T21:26:41.690626-04:00.hyperlinks.json) |
 | [October 10 at 9:24 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-10-10T09:24:16.675103-04:00.hyperlinks.json) |
 | [October 9 at 9:30 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-10-09T21:30:00.393636-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 7 at 9:27 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-10-07T21:27:14.359014-04:00.hyperlinks.json) |
 | [October 7 at 9:13 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-10-07T09:12:42.928777-04:00.hyperlinks.json) |
 | [October 6 at 9:42 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-10-06T21:42:01.001811-04:00.hyperlinks.json) |
-| [October 6 at 9:02 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-10-06T09:02:15.943814-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 167 accessibility trees with the Internet Archive.
+The archiving routine has saved 168 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 9:09 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-10-11T09:09:49.515854-04:00.accessibility.json) |
 | [October 10 at 9:26 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-10-10T21:26:41.690626-04:00.accessibility.json) |
 | [October 10 at 9:24 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-10-10T09:24:16.675103-04:00.accessibility.json) |
 | [October 9 at 9:30 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-10-09T21:30:00.393636-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 7 at 9:27 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-10-07T21:27:14.359014-04:00.accessibility.json) |
 | [October 7 at 9:12 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-10-07T09:12:42.928777-04:00.accessibility.json) |
 | [October 6 at 9:42 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-10-06T21:42:01.001811-04:00.accessibility.json) |
-| [October 6 at 9:02 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-10-06T09:02:15.943814-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 160 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 161 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 9:09 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-10-11T09:09:49.515854-04:00.lighthouse.json) |
 | [October 10 at 9:26 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-10-10T21:26:41.690626-04:00.lighthouse.json) |
 | [October 10 at 9:24 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-10-10T09:24:16.675103-04:00.lighthouse.json) |
 | [October 9 at 9:30 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-10-09T21:30:00.393636-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 7 at 9:27 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-10-07T21:27:14.359014-04:00.lighthouse.json) |
 | [October 7 at 9:13 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-10-07T09:12:42.928777-04:00.lighthouse.json) |
 | [October 6 at 9:42 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-10-06T21:42:01.001811-04:00.lighthouse.json) |
-| [October 6 at 9:02 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-10-06T09:02:15.943814-04:00.lighthouse.json) |
 
 
 

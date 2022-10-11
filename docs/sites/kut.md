@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 174 screenshots with the Internet Archive.
+The archiving routine has saved 175 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 174 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kut-2022/kut-2022-10-11T08:08:12.462871-05:00.jpg">
+  <img src="https://archive.org/download/kut-2022/kut-2022-10-11T08:08:12.462871-05:00.jpg"
+     alt="KUT at 2022-10-11 08:08:18-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kut-2022/kut-2022-10-11T08:08:12.462871-05:00.jpg">October 11 at 8:08 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kut-2022/kut-2022-10-10T20:26:31.549897-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kut-2022/kut-2022-10-05T20:27:40.777133-05:00.jpg">October 5 at 8:27 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kut-2022/kut-2022-10-05T08:14:26.539660-05:00.jpg">
-  <img src="https://archive.org/download/kut-2022/kut-2022-10-05T08:14:26.539660-05:00.jpg"
-     alt="KUT at 2022-10-05 08:14:30-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kut-2022/kut-2022-10-05T08:14:26.539660-05:00.jpg">October 5 at 8:14 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 173 hyperlink lists with the Internet Archive.
+The archiving routine has saved 174 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 8:08 AM](https://archive.org/download/kut-2022/kut-2022-10-11T08:08:12.462871-05:00.hyperlinks.json) |
 | [October 10 at 8:26 PM](https://archive.org/download/kut-2022/kut-2022-10-10T20:26:31.549897-05:00.hyperlinks.json) |
 | [October 10 at 8:22 AM](https://archive.org/download/kut-2022/kut-2022-10-10T08:22:50.816181-05:00.hyperlinks.json) |
 | [October 9 at 8:30 PM](https://archive.org/download/kut-2022/kut-2022-10-09T20:30:01.860009-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 7 at 8:27 PM](https://archive.org/download/kut-2022/kut-2022-10-07T20:26:57.815655-05:00.hyperlinks.json) |
 | [October 7 at 8:10 AM](https://archive.org/download/kut-2022/kut-2022-10-07T08:09:47.849737-05:00.hyperlinks.json) |
 | [October 6 at 8:42 PM](https://archive.org/download/kut-2022/kut-2022-10-06T20:42:53.750391-05:00.hyperlinks.json) |
-| [October 6 at 8:01 AM](https://archive.org/download/kut-2022/kut-2022-10-06T08:01:41.819969-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 174 accessibility trees with the Internet Archive.
+The archiving routine has saved 175 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 8:08 AM](https://archive.org/download/kut-2022/kut-2022-10-11T08:08:12.462871-05:00.accessibility.json) |
 | [October 10 at 8:26 PM](https://archive.org/download/kut-2022/kut-2022-10-10T20:26:31.549897-05:00.accessibility.json) |
 | [October 10 at 8:22 AM](https://archive.org/download/kut-2022/kut-2022-10-10T08:22:50.816181-05:00.accessibility.json) |
 | [October 9 at 8:30 PM](https://archive.org/download/kut-2022/kut-2022-10-09T20:30:01.860009-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 7 at 8:27 PM](https://archive.org/download/kut-2022/kut-2022-10-07T20:26:57.815655-05:00.accessibility.json) |
 | [October 7 at 8:10 AM](https://archive.org/download/kut-2022/kut-2022-10-07T08:09:47.849737-05:00.accessibility.json) |
 | [October 6 at 8:42 PM](https://archive.org/download/kut-2022/kut-2022-10-06T20:42:53.750391-05:00.accessibility.json) |
-| [October 6 at 8:01 AM](https://archive.org/download/kut-2022/kut-2022-10-06T08:01:41.819969-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 161 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 162 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 8:08 AM](https://archive.org/download/kut-2022/kut-2022-10-11T08:08:12.462871-05:00.lighthouse.json) |
 | [October 10 at 8:26 PM](https://archive.org/download/kut-2022/kut-2022-10-10T20:26:31.549897-05:00.lighthouse.json) |
 | [October 10 at 8:22 AM](https://archive.org/download/kut-2022/kut-2022-10-10T08:22:50.816181-05:00.lighthouse.json) |
 | [October 9 at 8:30 PM](https://archive.org/download/kut-2022/kut-2022-10-09T20:30:01.860009-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 7 at 8:27 PM](https://archive.org/download/kut-2022/kut-2022-10-07T20:26:57.815655-05:00.lighthouse.json) |
 | [October 7 at 8:10 AM](https://archive.org/download/kut-2022/kut-2022-10-07T08:09:47.849737-05:00.lighthouse.json) |
 | [October 6 at 8:43 PM](https://archive.org/download/kut-2022/kut-2022-10-06T20:42:53.750391-05:00.lighthouse.json) |
-| [October 6 at 8:01 AM](https://archive.org/download/kut-2022/kut-2022-10-06T08:01:41.819969-05:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 198 screenshots with the Internet Archive.
+The archiving routine has saved 199 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 198 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kcstar-2022/kcstar-2022-10-11T08:07:30.847680-05:00.jpg">
+  <img src="https://archive.org/download/kcstar-2022/kcstar-2022-10-11T08:07:30.847680-05:00.jpg"
+     alt="Kansas City Star at 2022-10-11 08:07:38-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-10-11T08:07:30.847680-05:00.jpg">October 11 at 8:07 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcstar-2022/kcstar-2022-10-10T20:26:25.112278-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-10-05T20:28:11.210783-05:00.jpg">October 5 at 8:28 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kcstar-2022/kcstar-2022-10-05T08:13:57.243532-05:00.jpg">
-  <img src="https://archive.org/download/kcstar-2022/kcstar-2022-10-05T08:13:57.243532-05:00.jpg"
-     alt="Kansas City Star at 2022-10-05 08:14:04-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-10-05T08:13:57.243532-05:00.jpg">October 5 at 8:14 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 163 hyperlink lists with the Internet Archive.
+The archiving routine has saved 164 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 8:07 AM](https://archive.org/download/kcstar-2022/kcstar-2022-10-11T08:07:30.847680-05:00.hyperlinks.json) |
 | [October 10 at 8:26 PM](https://archive.org/download/kcstar-2022/kcstar-2022-10-10T20:26:25.112278-05:00.hyperlinks.json) |
 | [October 10 at 8:22 AM](https://archive.org/download/kcstar-2022/kcstar-2022-10-10T08:22:14.748830-05:00.hyperlinks.json) |
 | [October 9 at 8:30 PM](https://archive.org/download/kcstar-2022/kcstar-2022-10-09T20:29:49.221567-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 7 at 8:27 PM](https://archive.org/download/kcstar-2022/kcstar-2022-10-07T20:26:57.231149-05:00.hyperlinks.json) |
 | [October 7 at 8:10 AM](https://archive.org/download/kcstar-2022/kcstar-2022-10-07T08:10:33.257239-05:00.hyperlinks.json) |
 | [October 6 at 8:40 PM](https://archive.org/download/kcstar-2022/kcstar-2022-10-06T20:39:54.165318-05:00.hyperlinks.json) |
-| [October 6 at 8:01 AM](https://archive.org/download/kcstar-2022/kcstar-2022-10-06T08:01:14.729553-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 200 accessibility trees with the Internet Archive.
+The archiving routine has saved 201 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 8:07 AM](https://archive.org/download/kcstar-2022/kcstar-2022-10-11T08:07:30.847680-05:00.accessibility.json) |
 | [October 10 at 8:26 PM](https://archive.org/download/kcstar-2022/kcstar-2022-10-10T20:26:25.112278-05:00.accessibility.json) |
 | [October 10 at 8:22 AM](https://archive.org/download/kcstar-2022/kcstar-2022-10-10T08:22:14.748830-05:00.accessibility.json) |
 | [October 9 at 8:30 PM](https://archive.org/download/kcstar-2022/kcstar-2022-10-09T20:29:49.221567-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 7 at 8:27 PM](https://archive.org/download/kcstar-2022/kcstar-2022-10-07T20:26:57.231149-05:00.accessibility.json) |
 | [October 7 at 8:10 AM](https://archive.org/download/kcstar-2022/kcstar-2022-10-07T08:10:33.257239-05:00.accessibility.json) |
 | [October 6 at 8:40 PM](https://archive.org/download/kcstar-2022/kcstar-2022-10-06T20:39:54.165318-05:00.accessibility.json) |
-| [October 6 at 8:01 AM](https://archive.org/download/kcstar-2022/kcstar-2022-10-06T08:01:14.729553-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 161 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 162 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 8:07 AM](https://archive.org/download/kcstar-2022/kcstar-2022-10-11T08:07:30.847680-05:00.lighthouse.json) |
 | [October 10 at 8:26 PM](https://archive.org/download/kcstar-2022/kcstar-2022-10-10T20:26:25.112278-05:00.lighthouse.json) |
 | [October 10 at 8:22 AM](https://archive.org/download/kcstar-2022/kcstar-2022-10-10T08:22:14.748830-05:00.lighthouse.json) |
 | [October 9 at 8:30 PM](https://archive.org/download/kcstar-2022/kcstar-2022-10-09T20:29:49.221567-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 7 at 8:27 PM](https://archive.org/download/kcstar-2022/kcstar-2022-10-07T20:26:57.231149-05:00.lighthouse.json) |
 | [October 7 at 8:10 AM](https://archive.org/download/kcstar-2022/kcstar-2022-10-07T08:10:33.257239-05:00.lighthouse.json) |
 | [October 6 at 8:40 PM](https://archive.org/download/kcstar-2022/kcstar-2022-10-06T20:39:54.165318-05:00.lighthouse.json) |
-| [October 6 at 8:01 AM](https://archive.org/download/kcstar-2022/kcstar-2022-10-06T08:01:14.729553-05:00.lighthouse.json) |
 
 
 

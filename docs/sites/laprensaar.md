@@ -437,7 +437,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 126 hyperlink lists with the Internet Archive.
+The archiving routine has saved 127 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 10:08 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-10-11T10:08:26.948916-03:00.hyperlinks.json) |
 | [October 10 at 10:27 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-10-10T22:27:38.607819-03:00.hyperlinks.json) |
 | [October 10 at 10:24 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-10-10T10:24:19.192381-03:00.hyperlinks.json) |
 | [October 9 at 10:30 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-10-09T22:30:37.550864-03:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 7 at 10:27 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-10-07T22:27:02.841154-03:00.hyperlinks.json) |
 | [October 7 at 10:09 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-10-07T10:09:49.189616-03:00.hyperlinks.json) |
 | [October 6 at 10:42 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-10-06T22:41:58.220717-03:00.hyperlinks.json) |
-| [October 6 at 10:01 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-10-06T10:01:41.244671-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 127 accessibility trees with the Internet Archive.
+The archiving routine has saved 128 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 10:08 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-10-11T10:08:26.948916-03:00.accessibility.json) |
 | [October 10 at 10:27 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-10-10T22:27:38.607819-03:00.accessibility.json) |
 | [October 10 at 10:24 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-10-10T10:24:19.192381-03:00.accessibility.json) |
 | [October 9 at 10:30 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-10-09T22:30:37.550864-03:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 7 at 10:27 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-10-07T22:27:02.841154-03:00.accessibility.json) |
 | [October 7 at 10:09 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-10-07T10:09:49.189616-03:00.accessibility.json) |
 | [October 6 at 10:42 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-10-06T22:41:58.220717-03:00.accessibility.json) |
-| [October 6 at 10:01 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-10-06T10:01:41.244671-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 127 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 128 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 10:08 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-10-11T10:08:26.948916-03:00.lighthouse.json) |
 | [October 10 at 10:27 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-10-10T22:27:38.607819-03:00.lighthouse.json) |
 | [October 10 at 10:24 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-10-10T10:24:19.192381-03:00.lighthouse.json) |
 | [October 9 at 10:30 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-10-09T22:30:37.550864-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 7 at 10:27 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-10-07T22:27:02.841154-03:00.lighthouse.json) |
 | [October 7 at 10:10 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-10-07T10:09:49.189616-03:00.lighthouse.json) |
 | [October 6 at 10:42 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-10-06T22:41:58.220717-03:00.lighthouse.json) |
-| [October 6 at 10:01 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-10-06T10:01:41.244671-03:00.lighthouse.json) |
 
 
 
