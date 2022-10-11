@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 90 screenshots with the Internet Archive.
+The archiving routine has saved 91 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 90 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-10-10T23:55:11.198178-04:00.jpg">
+  <img src="https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-10-10T23:55:11.198178-04:00.jpg"
+     alt="Tributary at 2022-10-10 23:55:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-10-10T23:55:11.198178-04:00.jpg">October 10 at 11:55 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-10-10T11:22:00.771044-04:00.jpg">
@@ -422,15 +431,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-10-05T11:32:03.838085-04:00.jpg">October 5 at 11:32 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-10-04T23:32:05.201344-04:00.jpg">
-  <img src="https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-10-04T23:32:05.201344-04:00.jpg"
-     alt="Tributary at 2022-10-04 23:32:10-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-10-04T23:32:05.201344-04:00.jpg">October 4 at 11:32 PM</a></p>
 </div>
 
 </div>
@@ -542,7 +542,7 @@ Here are the 10 most recent hyperlink lists.
 
 ### Accessibility
 
-The archiving routine has saved 90 accessibility trees with the Internet Archive.
+The archiving routine has saved 91 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 11:55 PM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-10-10T23:55:11.198178-04:00.accessibility.json) |
 | [October 10 at 11:22 AM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-10-10T11:22:00.771044-04:00.accessibility.json) |
 | [October 9 at 11:55 PM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-10-09T23:55:42.059068-04:00.accessibility.json) |
 | [October 9 at 10:59 AM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-10-09T10:59:19.330216-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 7 at 11:11 AM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-10-07T11:11:21.053560-04:00.accessibility.json) |
 | [October 7 at 12:26 AM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-10-07T00:26:36.139449-04:00.accessibility.json) |
 | [October 6 at 11:07 AM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-10-06T11:07:27.428705-04:00.accessibility.json) |
-| [October 6 at 12:18 AM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-10-06T00:18:15.258230-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 90 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 91 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 11:55 PM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-10-10T23:55:11.198178-04:00.lighthouse.json) |
 | [October 10 at 11:22 AM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-10-10T11:22:00.771044-04:00.lighthouse.json) |
 | [October 9 at 11:55 PM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-10-09T23:55:42.059068-04:00.lighthouse.json) |
 | [October 9 at 10:59 AM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-10-09T10:59:19.330216-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 7 at 11:11 AM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-10-07T11:11:21.053560-04:00.lighthouse.json) |
 | [October 7 at 12:26 AM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-10-07T00:26:36.139449-04:00.lighthouse.json) |
 | [October 6 at 11:07 AM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-10-06T11:07:27.428705-04:00.lighthouse.json) |
-| [October 6 at 12:18 AM](https://archive.org/download/thejaxtrib-2022/thejaxtrib-2022-10-06T00:18:15.258230-04:00.lighthouse.json) |
 
 
 
