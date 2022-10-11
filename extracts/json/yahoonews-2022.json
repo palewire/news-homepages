@@ -1,5 +1,5 @@
 {
-  "created": 1665475387,
+  "created": 1665493421,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/yahoonews-2022",
@@ -24128,31 +24128,82 @@
       "sha1": "6d7fe61abba34653755becb8cfb70471b39ec9a6"
     },
     {
+      "name": "yahoonews-2022-10-11T09:01:31.741192-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665493295",
+      "size": "38349",
+      "md5": "6d12c20fd3bc8e2998af278548ea9db2",
+      "crc32": "31e9b0f9",
+      "sha1": "54d662d1dfff0d2282c3fa5307c743c6bbaa74b9",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-10-11T09:01:31.741192-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665493297",
+      "size": "8756",
+      "md5": "e4d7e78b9dd21d696961112d91332b26",
+      "crc32": "5a4dd7b9",
+      "sha1": "6f67700da19435b9d7a9329f02560139d5853f79",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-10-11T09:01:31.741192-04:00.jpg",
+      "source": "original",
+      "mtime": "1665493293",
+      "size": "318131",
+      "md5": "8617346fa0d4e2dcd3e8a1a6a38330cb",
+      "crc32": "d00e3576",
+      "sha1": "fdcd1901582209155461de55ddf7cb4b96d65830",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoonews-2022-10-11T09:01:31.741192-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665493299",
+      "size": "1456",
+      "md5": "d6998a2e6cc9eb6da7ce9a809d4380ab",
+      "crc32": "5b3be5b4",
+      "sha1": "98ea9798d947de9973b11f905cddac39031b5ac8",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-10-11T09:01:31.741192-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665493301",
+      "size": "49909",
+      "md5": "b50c4db070f33236d223dc99a19c4fbd",
+      "crc32": "15feaee3",
+      "sha1": "23cd21248970c2475ef373f90c916ee34991e386",
+      "format": "JSON"
+    },
+    {
       "name": "yahoonews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "72540cdfa3a321b90877c15c5c838ffd4e07dd09",
-      "mtime": "1665469912",
-      "size": "494106",
-      "md5": "bb0e151265fcdbac105e5b2898e5e9fe",
-      "crc32": "691ba765",
-      "sha1": "fab9ef169b0ed5d4b82f10f7fc74da9d6d5d76c5",
+      "btih": "f89cdc91518a50787d227fb2068c1db3661c0ef6",
+      "mtime": "1665493406",
+      "size": "495173",
+      "md5": "e6490c694005c668332ae07b063b666c",
+      "crc32": "a9e42d2d",
+      "sha1": "bb28b06c243c386050610dea10813b5976863654",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yahoonews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2c8809a5c94138a9665bf38feb4449c8",
+      "md5": "955eec3bfb72b15cc69b888d9f15aea1",
       "summation": "md5"
     },
     {
       "name": "yahoonews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665469756",
-      "size": "2895872",
-      "md5": "de928a130daf5ff8df38865646d17f7a",
-      "crc32": "87b4cc6d",
-      "sha1": "90ac708f1168d1b5703dd622e2935096fce90751",
+      "mtime": "1665493323",
+      "size": "2899968",
+      "md5": "6e7c5a431df1f3589addd12512ca7e4a",
+      "crc32": "63823456",
+      "sha1": "91982c6f63a10d310fa2f80cba4b7e76a12f1e29",
       "format": "Metadata"
     },
     {
@@ -24166,9 +24217,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2329,
-  "item_last_updated": 1665469912,
-  "item_size": 190782594,
+  "files_count": 2334,
+  "item_last_updated": 1665493406,
+  "item_size": 191204358,
   "metadata": {
     "identifier": "yahoonews-2022",
     "collection": [
@@ -24185,10 +24236,21 @@
     "publicdate": "2022-06-24 23:04:11",
     "addeddate": "2022-06-24 23:04:11"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 632814156,
+  "pending_tasks": true,
+  "server": "ia601403.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3435862907,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1061561244,
   "workable_servers": [
-    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }
