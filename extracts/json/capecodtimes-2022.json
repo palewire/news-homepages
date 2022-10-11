@@ -1,13 +1,5 @@
 {
-  "capecodtimes-2022": {
-    "url": "https://www.capecodtimes.com/",
-    "job_id": "spn2-8c059ceb976d2d9887e02ed41b8ada402c584d50",
-    "status": "error",
-    "status_ext": "error:job-failed",
-    "message": "Job failed.",
-    "resources": []
-  },
-  "created": 1665425324,
+  "created": 1665469467,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/16/items/capecodtimes-2022",
@@ -2504,31 +2496,93 @@
       "sha1": "402b510212883d50240e38e5b5372bdfa1ad4c4c"
     },
     {
+      "name": "capecodtimes-2022-10-11T02:23:12.913163-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665469398",
+      "size": "22302",
+      "md5": "a7bb6b98dd0eab34391962c81d062f9e",
+      "crc32": "9e49da88",
+      "sha1": "9878e980cd58ae79d5a418add9893d6ee92218fd",
+      "format": "JSON"
+    },
+    {
+      "name": "capecodtimes-2022-10-11T02:23:12.913163-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665469401",
+      "size": "14088",
+      "md5": "0742dbe88f78d12691e4d43b646a3bdd",
+      "crc32": "4de88d3c",
+      "sha1": "de596d61fdda7d7ec97c02ee7bea630d6b3f5112",
+      "format": "JSON"
+    },
+    {
+      "name": "capecodtimes-2022-10-11T02:23:12.913163-04:00.jpg",
+      "source": "original",
+      "mtime": "1665469395",
+      "size": "289195",
+      "md5": "03551b276112b0c9989efaf8a51912f1",
+      "crc32": "486c740c",
+      "sha1": "14ec322cdd195d3f7be5da2bcf68c95f2ce7c394",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capecodtimes-2022-10-11T02:23:12.913163-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665469404",
+      "size": "1513",
+      "md5": "34e1b91c3da92d84062a76b88e354256",
+      "crc32": "817fcfee",
+      "sha1": "a343000fc2c16490423757b46918509c3208fa77",
+      "format": "JSON"
+    },
+    {
+      "name": "capecodtimes-2022-10-11T02:23:12.913163-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665469405",
+      "size": "51676",
+      "md5": "f8c02f13cd0737e9d42bd131381ed87d",
+      "crc32": "f5c5dfef",
+      "sha1": "b23ef942fc2c9801052ccbe1bbe393c9d7dce0fc",
+      "format": "JSON"
+    },
+    {
+      "name": "capecodtimes-2022-10-11T02:23:12.913163-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capecodtimes-2022-10-11T02:23:12.913163-04:00.jpg",
+      "mtime": "1665469456",
+      "size": "8932",
+      "md5": "2452804c3e7ad16676b21cbc4af4ba76",
+      "crc32": "c7810f58",
+      "sha1": "aa8eaf7e941367c794f5922de5e3a6371ff4343b"
+    },
+    {
       "name": "capecodtimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "80a64d74f095540b9d5f2ca37986bfe3b874f79c",
-      "mtime": "1665420117",
-      "size": "53112",
-      "md5": "95b5ec5996b788a6a02318729d211a54",
-      "crc32": "8f5e3342",
-      "sha1": "2aea53ec15d2a26453286d6a266b821c59ef9a08",
+      "btih": "1a7e85d29a8b61334427f160113b9854fce1f374",
+      "mtime": "1665469459",
+      "size": "54403",
+      "md5": "a7cec1bb38045e89cfa802b52d54bf4f",
+      "crc32": "3f4e5ff3",
+      "sha1": "722d02ef44f169a1892fb38c0d952593a3fc9e0e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "capecodtimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "79a7bd415419ea2f68ca0e18cfedbf36",
+      "md5": "47282088403492049df70fe5a07912e4",
       "summation": "md5"
     },
     {
       "name": "capecodtimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665420065",
-      "size": "327680",
-      "md5": "3806fd39eada44712745c307ac0e7e00",
-      "crc32": "65d8d01d",
-      "sha1": "2481b700cdc8a9a1e3a0ab557c0a5406f9fd97fc",
+      "mtime": "1665469409",
+      "size": "339968",
+      "md5": "2c51e119567ac8e5c397546ac5742320",
+      "crc32": "32e9b1aa",
+      "sha1": "8de16ba5eee45d8a6aa7396eb7dacc033de4afc4",
       "format": "Metadata"
     },
     {
@@ -2542,9 +2596,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 245,
-  "item_last_updated": 1665420117,
-  "item_size": 16635845,
+  "files_count": 251,
+  "item_last_updated": 1665469459,
+  "item_size": 17037130,
   "metadata": {
     "identifier": "capecodtimes-2022",
     "collection": [
@@ -2562,7 +2616,7 @@
     "addeddate": "2022-09-21 04:39:34"
   },
   "server": "ia801506.us.archive.org",
-  "uniq": 691600785,
+  "uniq": 427209696,
   "workable_servers": [
     "ia801506.us.archive.org",
     "ia601506.us.archive.org"

@@ -1,6 +1,5 @@
 {
-  "conflict": 1665437074,
-  "created": 1665437074,
+  "created": 1665475387,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/yahoonews-2022",
@@ -24067,31 +24066,93 @@
       "sha1": "745b2aecc02819c4fa270208455a3d0bd36ad3a0"
     },
     {
+      "name": "yahoonews-2022-10-11T02:28:59.999307-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665469744",
+      "size": "37989",
+      "md5": "e43372899411220ebb973268b984f6f9",
+      "crc32": "56b5f3d4",
+      "sha1": "cd814d9fa44d618b2cb7677366368db57038042f",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-10-11T02:28:59.999307-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665469746",
+      "size": "19017",
+      "md5": "fbc604ccc082106952a114a021959e3d",
+      "crc32": "6515faaf",
+      "sha1": "57855ab68f983bb0b2742d1cf1dbdbe622a5f31c",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-10-11T02:28:59.999307-04:00.jpg",
+      "source": "original",
+      "mtime": "1665469741",
+      "size": "332769",
+      "md5": "95ebe4abec85664fac5b3cfe8a8796c2",
+      "crc32": "6409512f",
+      "sha1": "d35ea005a27fc8ade22ca1fa0a19e44d313c72bc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoonews-2022-10-11T02:28:59.999307-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665469748",
+      "size": "1455",
+      "md5": "560c79b272339a548f16936c9dcaacca",
+      "crc32": "537e9c7e",
+      "sha1": "72f4404662a9737d2821c3da0c6bd8f73ed6e3da",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-10-11T02:28:59.999307-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665469750",
+      "size": "61299",
+      "md5": "8d9bf380a009e1f90c9aedb6d34fe3a9",
+      "crc32": "f055419e",
+      "sha1": "2e7f219ca86593de5a574abf665c0525d97d599e",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-10-11T02:28:59.999307-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoonews-2022-10-11T02:28:59.999307-04:00.jpg",
+      "mtime": "1665469872",
+      "size": "10266",
+      "md5": "9cf0a0da62d80d49ed7f8940d036f19d",
+      "crc32": "a8c028f9",
+      "sha1": "6d7fe61abba34653755becb8cfb70471b39ec9a6"
+    },
+    {
       "name": "yahoonews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "411c06e545492f31dd93a0777d8283f1099da094",
-      "mtime": "1665437071",
-      "size": "492852",
-      "md5": "a90a495364fa72c9b437c56be0b3a306",
-      "crc32": "bb3f0c97",
-      "sha1": "c97e43c1c94724e7b8644cd59ba2da85477dfa61",
+      "btih": "72540cdfa3a321b90877c15c5c838ffd4e07dd09",
+      "mtime": "1665469912",
+      "size": "494106",
+      "md5": "bb0e151265fcdbac105e5b2898e5e9fe",
+      "crc32": "691ba765",
+      "sha1": "fab9ef169b0ed5d4b82f10f7fc74da9d6d5d76c5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yahoonews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "969b692cc1b73369228528bfe79158c0",
+      "md5": "2c8809a5c94138a9665bf38feb4449c8",
       "summation": "md5"
     },
     {
       "name": "yahoonews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665436880",
-      "size": "2887680",
-      "md5": "7a87732fddd293f11e2ceb75b1c3d7e5",
-      "crc32": "a550ac74",
-      "sha1": "0b26a3ae19f9e98f299f0c83356487101df24640",
+      "mtime": "1665469756",
+      "size": "2895872",
+      "md5": "de928a130daf5ff8df38865646d17f7a",
+      "crc32": "87b4cc6d",
+      "sha1": "90ac708f1168d1b5703dd622e2935096fce90751",
       "format": "Metadata"
     },
     {
@@ -24105,9 +24166,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2323,
-  "item_last_updated": 1665437071,
-  "item_size": 190310353,
+  "files_count": 2329,
+  "item_last_updated": 1665469912,
+  "item_size": 190782594,
   "metadata": {
     "identifier": "yahoonews-2022",
     "collection": [
@@ -24124,21 +24185,10 @@
     "publicdate": "2022-06-24 23:04:11",
     "addeddate": "2022-06-24 23:04:11"
   },
-  "pending_tasks": true,
-  "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3435125102,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 743959032,
+  "server": "ia801403.us.archive.org",
+  "uniq": 632814156,
   "workable_servers": [
+    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }
