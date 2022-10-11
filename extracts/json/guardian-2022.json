@@ -1,5 +1,5 @@
 {
-  "created": 1665480352,
+  "created": 1665514311,
   "d1": "ia902206.us.archive.org",
   "d2": "ia802206.us.archive.org",
   "dir": "/20/items/guardian-2022",
@@ -26912,31 +26912,93 @@
       "sha1": "ce991c9ac8c350aa67347e7a339891c9b90cdecf"
     },
     {
+      "name": "guardian-2022-10-11T18:40:53.153436+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665510066",
+      "size": "46182",
+      "md5": "0a9307ff6d6a369f89856575096b66b7",
+      "crc32": "b11ad292",
+      "sha1": "10e78b79cff6de453e46fbf7dca6113f74007d90",
+      "format": "JSON"
+    },
+    {
+      "name": "guardian-2022-10-11T18:40:53.153436+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665510067",
+      "size": "98004",
+      "md5": "42de14344813b233618b5ed8988edb8e",
+      "crc32": "8d21afd5",
+      "sha1": "d8c0c2e9c9aa1321ac9be75b9c68c1f5a5635a5d",
+      "format": "JSON"
+    },
+    {
+      "name": "guardian-2022-10-11T18:40:53.153436+01:00.jpg",
+      "source": "original",
+      "mtime": "1665510063",
+      "size": "383065",
+      "md5": "9f30fdc982900795364736b4e955e09e",
+      "crc32": "08dedcef",
+      "sha1": "7c39bce1e32a6cb3758e9236e6416ca851cac452",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "guardian-2022-10-11T18:40:53.153436+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665510069",
+      "size": "1522",
+      "md5": "17d9c28e92e3bde2e590fb656557b9b6",
+      "crc32": "2eb4628e",
+      "sha1": "bf571f6a9a4c26f02f2f122fa288527c4cfcb366",
+      "format": "JSON"
+    },
+    {
+      "name": "guardian-2022-10-11T18:40:53.153436+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1665510071",
+      "size": "206",
+      "md5": "01e1041249a308080f9917012f1d0991",
+      "crc32": "39ad31a1",
+      "sha1": "a6ebe041a1c071850339ba2c54918abc3ae3a4ae",
+      "format": "JSON"
+    },
+    {
+      "name": "guardian-2022-10-11T18:40:53.153436+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "guardian-2022-10-11T18:40:53.153436+01:00.jpg",
+      "mtime": "1665510254",
+      "size": "10635",
+      "md5": "8d40905f2160a05580c42523ce375ac8",
+      "crc32": "9c089f9f",
+      "sha1": "6574f980f05d04c4272c2aed05e55d8edcd8806c"
+    },
+    {
       "name": "guardian-2022_archive.torrent",
       "source": "metadata",
-      "btih": "60448e78c5db2e6cbff2693d93778fe64ef897f0",
-      "mtime": "1665480338",
-      "size": "549342",
-      "md5": "854976736af1b89f748fec5511de2397",
-      "crc32": "3dec0aa0",
-      "sha1": "c65504459b4902470f2e43623ee789c5af49b238",
+      "btih": "a952539fd67b489509617bdb1e96e0b802910f17",
+      "mtime": "1665510435",
+      "size": "550608",
+      "md5": "7209fb66b005cf1165e1ea7a1581e46f",
+      "crc32": "00774a18",
+      "sha1": "0bc56da6329e17d4c0a215d068cc3c67cd4a2090",
       "format": "Archive BitTorrent"
     },
     {
       "name": "guardian-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "972ed27bc5d6bc60a39c7072632dd415",
+      "md5": "c267978887e265dfcf6a2d8dc429f048",
       "summation": "md5"
     },
     {
       "name": "guardian-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665480161",
-      "size": "3117056",
-      "md5": "f6af64de538df7e7499633595909ae87",
-      "crc32": "ba769e68",
-      "sha1": "ff0e040430d9f5ffe1eb6a478b65a22c89ea8151",
+      "mtime": "1665510098",
+      "size": "3121152",
+      "md5": "e52e06c5f556154f276c2f2fbfd03f00",
+      "crc32": "ac66a83e",
+      "sha1": "62ae31bf823170bd3bc369c4e76834cec09eb2b4",
       "format": "Metadata"
     },
     {
@@ -26950,9 +27012,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2586,
-  "item_last_updated": 1665480338,
-  "item_size": 297460374,
+  "files_count": 2592,
+  "item_last_updated": 1665510435,
+  "item_size": 298005350,
   "metadata": {
     "identifier": "guardian-2022",
     "collection": [
@@ -26969,10 +27031,10 @@
     "publicdate": "2022-03-23 08:03:23",
     "addeddate": "2022-03-23 08:03:23"
   },
-  "server": "ia802206.us.archive.org",
-  "uniq": 1869680863,
+  "server": "ia902206.us.archive.org",
+  "uniq": 202381017,
   "workable_servers": [
-    "ia802206.us.archive.org",
-    "ia902206.us.archive.org"
+    "ia902206.us.archive.org",
+    "ia802206.us.archive.org"
   ]
 }
