@@ -1,5 +1,5 @@
 {
-  "created": 1665432694,
+  "created": 1665475872,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/0/items/stargazette-2022",
@@ -2528,31 +2528,93 @@
       "sha1": "3bfc183b013e33bd210ead2b255dbbb52659412c"
     },
     {
+      "name": "stargazette-2022-10-11T04:10:00.489653-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665475805",
+      "size": "20714",
+      "md5": "c786c64c929410ce76058e5ed83212ab",
+      "crc32": "0c3a7597",
+      "sha1": "5d12ee017b7bbcf7851197bbba592eb252cb713a",
+      "format": "JSON"
+    },
+    {
+      "name": "stargazette-2022-10-11T04:10:00.489653-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665475807",
+      "size": "47428",
+      "md5": "037c1a48974e2df7ad4b64f3239c4086",
+      "crc32": "f81e194f",
+      "sha1": "791b480b8a1cc8dd27d29cede152aa3774038919",
+      "format": "JSON"
+    },
+    {
+      "name": "stargazette-2022-10-11T04:10:00.489653-04:00.jpg",
+      "source": "original",
+      "mtime": "1665475804",
+      "size": "232675",
+      "md5": "02abaf6b4f9f20feb4522eb06fe8344e",
+      "crc32": "9810e6b0",
+      "sha1": "8935bf8bea37936faabea86b916d43825dc63a43",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stargazette-2022-10-11T04:10:00.489653-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665475808",
+      "size": "1504",
+      "md5": "678adb3facf8e568781e1c58f4b40258",
+      "crc32": "e2726173",
+      "sha1": "8c51169f572ca262fc353c8460189d0ced24d0a0",
+      "format": "JSON"
+    },
+    {
+      "name": "stargazette-2022-10-11T04:10:00.489653-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665475809",
+      "size": "94499",
+      "md5": "5b1e2c48226dedf229cd4768e192eed7",
+      "crc32": "62729f01",
+      "sha1": "3272b8de565a8d2dbd94751429cda92e80842d44",
+      "format": "JSON"
+    },
+    {
+      "name": "stargazette-2022-10-11T04:10:00.489653-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stargazette-2022-10-11T04:10:00.489653-04:00.jpg",
+      "mtime": "1665475862",
+      "size": "8840",
+      "md5": "db1d85b68adb91a9d43a8d7210c27570",
+      "crc32": "bdc147b2",
+      "sha1": "a8427d21003f552e3ad1b6e6d02e8f37858863cb"
+    },
+    {
       "name": "stargazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dfd4b5772bf29db10f34c207f2e46de79f2952e6",
-      "mtime": "1665432689",
-      "size": "53540",
-      "md5": "11df3b31c204b14a8ed905f876e3f240",
-      "crc32": "507b0b72",
-      "sha1": "30f845789bef407e64fb3dbaada2cd973ed882c4",
+      "btih": "9334397740c946084c222d40c3bcb8798664383f",
+      "mtime": "1665475865",
+      "size": "54805",
+      "md5": "089af56e21b33e5082f3546e087cf715",
+      "crc32": "5ade790e",
+      "sha1": "583fd4b97cd17a04a5a448791fca974461a79ddd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "stargazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "929023a6ce79d0e7841a9b6fcc2e0b8c",
+      "md5": "6ece28250af53d4b74f56725055c367d",
       "summation": "md5"
     },
     {
       "name": "stargazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665432639",
-      "size": "331776",
-      "md5": "0e6c7281133edca9237fdd05dedfe68b",
-      "crc32": "21e2195f",
-      "sha1": "9393bab33cb2184fa601bb237167911b0c776179",
+      "mtime": "1665475815",
+      "size": "339968",
+      "md5": "56933a61550d76f8d668e2b0615cff24",
+      "crc32": "4af2c2ff",
+      "sha1": "0969ca9d2b11c5f3d6c8d5f7d9a42bbd38f14ef1",
       "format": "Metadata"
     },
     {
@@ -2566,9 +2628,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 248,
-  "item_last_updated": 1665432689,
-  "item_size": 17428793,
+  "files_count": 254,
+  "item_last_updated": 1665475865,
+  "item_size": 17843910,
   "metadata": {
     "identifier": "stargazette-2022",
     "collection": [
@@ -2586,7 +2648,7 @@
     "addeddate": "2022-09-20 19:28:41"
   },
   "server": "ia801401.us.archive.org",
-  "uniq": 282981131,
+  "uniq": 928070729,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

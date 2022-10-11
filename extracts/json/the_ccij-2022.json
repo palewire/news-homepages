@@ -1,5 +1,5 @@
 {
-  "created": 1665433999,
+  "created": 1665475993,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/17/items/the_ccij-2022",
@@ -5566,31 +5566,93 @@
       "sha1": "da9b0797463cd341196b1f9ef232c6d5cb69730b"
     },
     {
+      "name": "the_ccij-2022-10-11T03:11:23.305128-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665475887",
+      "size": "38980",
+      "md5": "9d457e28297a27d274e51ca79d170062",
+      "crc32": "0785e042",
+      "sha1": "9ad077fe35b3d4b68cf21c5111610ffb988e49b5",
+      "format": "JSON"
+    },
+    {
+      "name": "the_ccij-2022-10-11T03:11:23.305128-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665475890",
+      "size": "15862",
+      "md5": "9eeb9ef9747b4301e40fa6b5361f5b4e",
+      "crc32": "5289151b",
+      "sha1": "e2ed9b86dfb9d8db055da764fadbf9da8be32b80",
+      "format": "JSON"
+    },
+    {
+      "name": "the_ccij-2022-10-11T03:11:23.305128-05:00.jpg",
+      "source": "original",
+      "mtime": "1665475885",
+      "size": "422666",
+      "md5": "f02d04dca7946eb0644e7a9f3bbf13bb",
+      "crc32": "ca49ba83",
+      "sha1": "6fb22519628fb38b5bd39abff2e817e3ac3a20ce",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the_ccij-2022-10-11T03:11:23.305128-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665475892",
+      "size": "1531",
+      "md5": "32299abc1cc040f9155ab7a917e23240",
+      "crc32": "ba3d66a7",
+      "sha1": "50eb5fa99b144c0fed1fe6001bcfd60777d06d3f",
+      "format": "JSON"
+    },
+    {
+      "name": "the_ccij-2022-10-11T03:11:23.305128-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665475893",
+      "size": "18634",
+      "md5": "73fdc4bd3d01e5c3ce7a0df4312ee217",
+      "crc32": "e22162f0",
+      "sha1": "555bea72f9aa17fce999c3a0c8730c7191b1cf16",
+      "format": "JSON"
+    },
+    {
+      "name": "the_ccij-2022-10-11T03:11:23.305128-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the_ccij-2022-10-11T03:11:23.305128-05:00.jpg",
+      "mtime": "1665475969",
+      "size": "10288",
+      "md5": "edc0f31395bf23881f4fc6ca085ed4fc",
+      "crc32": "d82d58b6",
+      "sha1": "da9b0797463cd341196b1f9ef232c6d5cb69730b"
+    },
+    {
       "name": "the_ccij-2022_archive.torrent",
       "source": "metadata",
-      "btih": "544d698a0da1b114ee2d7de04651651edd10c37e",
-      "mtime": "1665432733",
-      "size": "114652",
-      "md5": "f3d63440f9b27783c1aa99a5d83e0e32",
-      "crc32": "c3f1d145",
-      "sha1": "56250323b5cd81ccd463deb4c1e6edd302f05615",
+      "btih": "d14b4152c0bbccc20dc70b1ce35a93a294d365aa",
+      "mtime": "1665475975",
+      "size": "115920",
+      "md5": "efe2894627bf91df21731356fedbdf01",
+      "crc32": "8e9ff5af",
+      "sha1": "376110692f4f303890640d0a3a7351267b416384",
       "format": "Archive BitTorrent"
     },
     {
       "name": "the_ccij-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "415bf658a7bb03fb1bd6def303096226",
+      "md5": "dc564aaf5c7fa11ddd1b63e6d2eb7b2f",
       "summation": "md5"
     },
     {
       "name": "the_ccij-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665432670",
-      "size": "700416",
-      "md5": "cc22efbd4ba83a4e1b8fd3abe5fbfaa5",
-      "crc32": "0771d7bf",
-      "sha1": "6a1a796b8632334ad06a24b890171afc28da463d",
+      "mtime": "1665475903",
+      "size": "708608",
+      "md5": "60bd9cbc7b3f34066cf59647c81cc2fe",
+      "crc32": "3cfe89e7",
+      "sha1": "6dc1077dc6a10681b9c695765221be8ce0f54806",
       "format": "Metadata"
     },
     {
@@ -5604,9 +5666,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 542,
-  "item_last_updated": 1665432733,
-  "item_size": 39090929,
+  "files_count": 548,
+  "item_last_updated": 1665475975,
+  "item_size": 39608350,
   "metadata": {
     "identifier": "the_ccij-2022",
     "collection": [
@@ -5623,26 +5685,10 @@
     "publicdate": "2022-08-26 16:07:04",
     "addeddate": "2022-08-26 16:07:04"
   },
-  "server": "ia801400.us.archive.org",
-  "the_ccij-2022": {
-    "url": "https://investigatemidwest.org/",
-    "job_id": "spn2-d337c836c3c9fffc78b73daf6a375fc6ab9a5b8c",
-    "counters": {
-      "embeds": 1,
-      "outlinks": 0
-    },
-    "duration_sec": 4.874,
-    "http_status": 500,
-    "original_url": "https://investigatemidwest.org/favicon.ico",
-    "resources": [
-      "https://investigatemidwest.org/favicon.ico"
-    ],
-    "status": "success",
-    "timestamp": "20221010193519"
-  },
-  "uniq": 1254074211,
+  "server": "ia601400.us.archive.org",
+  "uniq": 1900734491,
   "workable_servers": [
-    "ia801400.us.archive.org",
-    "ia601400.us.archive.org"
+    "ia601400.us.archive.org",
+    "ia801400.us.archive.org"
   ]
 }
