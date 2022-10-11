@@ -1,5 +1,5 @@
 {
-  "created": 1665419293,
+  "created": 1665460327,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/23/items/tdonline-2022",
@@ -2496,31 +2496,93 @@
       "sha1": "31f6c95bcd32a888881eca86476de310b2c81b92"
     },
     {
+      "name": "tdonline-2022-10-10T23:51:00.840417-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665460266",
+      "size": "23311",
+      "md5": "83a169de3678141667a69c3df47269bf",
+      "crc32": "b6574661",
+      "sha1": "ec2299724dfe3343030cc6486dddecc8df97614b",
+      "format": "JSON"
+    },
+    {
+      "name": "tdonline-2022-10-10T23:51:00.840417-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665460267",
+      "size": "41835",
+      "md5": "26261b8f22e2799b5c721ff4d5d4782f",
+      "crc32": "d1a6aae9",
+      "sha1": "88299b221b2c46b46883128b4e2be4674b42438e",
+      "format": "JSON"
+    },
+    {
+      "name": "tdonline-2022-10-10T23:51:00.840417-04:00.jpg",
+      "source": "original",
+      "mtime": "1665460264",
+      "size": "260825",
+      "md5": "7edc3f53a3e49823c6fa7a5252b23996",
+      "crc32": "288a2df2",
+      "sha1": "97ccbf5294a5fe6c92050c460187ca7e1cd1ecf8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tdonline-2022-10-10T23:51:00.840417-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665460269",
+      "size": "1504",
+      "md5": "335146ba39e4e71bff63964c36f4a589",
+      "crc32": "5e8ef679",
+      "sha1": "ec7738928ab0d72aacaddb4d51ddd328fcfeac87",
+      "format": "JSON"
+    },
+    {
+      "name": "tdonline-2022-10-10T23:51:00.840417-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665460270",
+      "size": "99590",
+      "md5": "a5b3a7219b76cb1cdd190cbb258f57a3",
+      "crc32": "f91bacd4",
+      "sha1": "799cdc913a48af3ef30ce0e3a3bb6ade6ca31931",
+      "format": "JSON"
+    },
+    {
+      "name": "tdonline-2022-10-10T23:51:00.840417-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tdonline-2022-10-10T23:51:00.840417-04:00.jpg",
+      "mtime": "1665460317",
+      "size": "9529",
+      "md5": "f4fde0fad458a09f17243d6955fd92ba",
+      "crc32": "feb912a4",
+      "sha1": "a6c52c68d0d83d7ff7f6c03d421b66e2dd06364c"
+    },
+    {
       "name": "tdonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5dbaf071b1eea6e7e43542cf79337aa73c93f9f1",
-      "mtime": "1665414992",
-      "size": "52114",
-      "md5": "c7e67a62c6bdbdb62624f7f4d9877d2e",
-      "crc32": "93f7c1b9",
-      "sha1": "2296ec54d0a55acc7afab98cb22849695ca96870",
+      "btih": "3ec6b1abf885e55c7c621a651173cf8cc388090f",
+      "mtime": "1665460320",
+      "size": "53381",
+      "md5": "7d6d99caa2e2558c5f5a3124cf583b3c",
+      "crc32": "387ca18f",
+      "sha1": "46a92818fe9f8edb200843af34bf20c034571382",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tdonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4e7c7e069e80f7a504dff61ccd1ad8eb",
+      "md5": "c430e7e1efa05ce9a7401663a39df36c",
       "summation": "md5"
     },
     {
       "name": "tdonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665414944",
-      "size": "327680",
-      "md5": "67afa844538c84e44d12dc41215a8844",
-      "crc32": "606d818c",
-      "sha1": "546d214f2ddd2aeabdd0b85e24adcfe32ec28cc1",
+      "mtime": "1665460274",
+      "size": "335872",
+      "md5": "3c22f5b8e0d4844e7400a82229142b22",
+      "crc32": "36836e45",
+      "sha1": "2b71419fd08e7a3df014a021115798d80999a0e6",
       "format": "Metadata"
     },
     {
@@ -2534,9 +2596,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 245,
-  "item_last_updated": 1665414992,
-  "item_size": 16401505,
+  "files_count": 251,
+  "item_last_updated": 1665460320,
+  "item_size": 16847558,
   "metadata": {
     "identifier": "tdonline-2022",
     "collection": [
@@ -2553,14 +2615,10 @@
     "publicdate": "2022-09-21 03:43:06",
     "addeddate": "2022-09-21 03:43:06"
   },
-  "server": "ia801401.us.archive.org",
-  "tdonline-2022": {
-    "url": "https://www.tallahassee.com/",
-    "job_id": "spn2-296db01204da47dfd231cd2f6308d1f54803238a"
-  },
-  "uniq": 422647066,
+  "server": "ia601401.us.archive.org",
+  "uniq": 863764578,
   "workable_servers": [
-    "ia801401.us.archive.org",
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

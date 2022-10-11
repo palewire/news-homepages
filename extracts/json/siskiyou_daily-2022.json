@@ -1,5 +1,5 @@
 {
-  "created": 1665414991,
+  "created": 1665460399,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/28/items/siskiyou_daily-2022",
@@ -2496,31 +2496,93 @@
       "sha1": "4dfa91e46d919ff128b7b6c471ba53bd47c18c42"
     },
     {
+      "name": "siskiyou_daily-2022-10-10T20:51:31.257404-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665460296",
+      "size": "24960",
+      "md5": "f181b0e8850fda0da6d149afb9028739",
+      "crc32": "13349d5f",
+      "sha1": "31e6e5602115c6f0ccde96d9b7cd527832d1c893",
+      "format": "JSON"
+    },
+    {
+      "name": "siskiyou_daily-2022-10-10T20:51:31.257404-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665460297",
+      "size": "34566",
+      "md5": "dc7523a1436a3e84f699c21996f2c22e",
+      "crc32": "e1cd5f9f",
+      "sha1": "8adeb229a0a3eaf998651a9fb24479159e304a09",
+      "format": "JSON"
+    },
+    {
+      "name": "siskiyou_daily-2022-10-10T20:51:31.257404-07:00.jpg",
+      "source": "original",
+      "mtime": "1665460294",
+      "size": "276990",
+      "md5": "5ff466d8a378715ae83a136d8b17d814",
+      "crc32": "162d5321",
+      "sha1": "8833543274980f03555240959458410ceb0a2075",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "siskiyou_daily-2022-10-10T20:51:31.257404-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665460299",
+      "size": "1522",
+      "md5": "90ac30f2c2381c18d76b0e75cfe55d3f",
+      "crc32": "8e4c1a30",
+      "sha1": "20df85617866f6e780ed428a12a6a0909622b82b",
+      "format": "JSON"
+    },
+    {
+      "name": "siskiyou_daily-2022-10-10T20:51:31.257404-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665460301",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "siskiyou_daily-2022-10-10T20:51:31.257404-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "siskiyou_daily-2022-10-10T20:51:31.257404-07:00.jpg",
+      "mtime": "1665460379",
+      "size": "9513",
+      "md5": "26f26e8fcc0dd722482a2aa67c185998",
+      "crc32": "44966572",
+      "sha1": "764ea8bd5acdc3192f36fc7f30cee482903c250f"
+    },
+    {
       "name": "siskiyou_daily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "640d81aa6a19ab46da8fd4ce495bc54fddbbae80",
-      "mtime": "1665414984",
-      "size": "53654",
-      "md5": "6781b621f09602503765408751600967",
-      "crc32": "47c8ec73",
-      "sha1": "aaaf8f431a200a2a13451b02fcfdd3394a89a0b3",
+      "btih": "091e66ac2ebae5208cc36f6a6115277c7117d71c",
+      "mtime": "1665460383",
+      "size": "54955",
+      "md5": "297937a96fe1c680271ce541da7d0c58",
+      "crc32": "d31c8a95",
+      "sha1": "24342d8420aa35f20b10e3e579bb47485b08a0af",
       "format": "Archive BitTorrent"
     },
     {
       "name": "siskiyou_daily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d6bdfdacaece2ec453d9bece48e7c053",
+      "md5": "4631d36ea67aed1ca6c7433228cbc7c9",
       "summation": "md5"
     },
     {
       "name": "siskiyou_daily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665414923",
-      "size": "331776",
-      "md5": "217af09f44bfa8659c3b9f8ddaffd68b",
-      "crc32": "b530eec7",
-      "sha1": "2539b2c82b30ba29689068c3db3bf73592940dcd",
+      "mtime": "1665460308",
+      "size": "339968",
+      "md5": "a8bdb64088203c75ee7392dfdc013a45",
+      "crc32": "c7922f40",
+      "sha1": "fcb96447e26051b0dbf0d800e168e8e96939f033",
       "format": "Metadata"
     },
     {
@@ -2534,9 +2596,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 245,
-  "item_last_updated": 1665414984,
-  "item_size": 17352158,
+  "files_count": 251,
+  "item_last_updated": 1665460383,
+  "item_size": 17709404,
   "metadata": {
     "identifier": "siskiyou_daily-2022",
     "collection": [
@@ -2554,7 +2616,7 @@
     "addeddate": "2022-09-21 03:42:55"
   },
   "server": "ia601400.us.archive.org",
-  "uniq": 350883154,
+  "uniq": 1769592200,
   "workable_servers": [
     "ia601400.us.archive.org",
     "ia801400.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1665419284,
+  "created": 1665460340,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/12/items/tci_newsroom-2022",
@@ -2486,31 +2486,93 @@
       "sha1": "776e2d52d8b7314adadc2b5be0e1cf4c6202b070"
     },
     {
+      "name": "tci_newsroom-2022-10-10T23:51:02.027962-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665460266",
+      "size": "24735",
+      "md5": "75dd42038c2267bac888a09606917e67",
+      "crc32": "291426ae",
+      "sha1": "1e22fcf8a2126dcbf1b5ec9d03d74230a13108f5",
+      "format": "JSON"
+    },
+    {
+      "name": "tci_newsroom-2022-10-10T23:51:02.027962-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665460267",
+      "size": "43984",
+      "md5": "20d8a6da567b45670bf19b188fd54d6c",
+      "crc32": "2af7bc8d",
+      "sha1": "60e75fe0d88564159ccffcb212adf8af365cdc9c",
+      "format": "JSON"
+    },
+    {
+      "name": "tci_newsroom-2022-10-10T23:51:02.027962-04:00.jpg",
+      "source": "original",
+      "mtime": "1665460264",
+      "size": "261938",
+      "md5": "1569cbcdf5e8f114b58bae3fa5b1a6e4",
+      "crc32": "f25b9852",
+      "sha1": "372edf0cde2af1074b2fb04cd1f20aa731628513",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tci_newsroom-2022-10-10T23:51:02.027962-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665460269",
+      "size": "1584",
+      "md5": "42e57d6ff87bda514daf144ddbd4e066",
+      "crc32": "a5f8cc75",
+      "sha1": "827fe24535e50ef25d9c68cf387d49ec425a4444",
+      "format": "JSON"
+    },
+    {
+      "name": "tci_newsroom-2022-10-10T23:51:02.027962-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665460271",
+      "size": "128045",
+      "md5": "58ca641b1bad340bf97da1c6a7dbd3ae",
+      "crc32": "9768a12f",
+      "sha1": "2fa8f88f29b4a5acb539d12890062105cc313740",
+      "format": "JSON"
+    },
+    {
+      "name": "tci_newsroom-2022-10-10T23:51:02.027962-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tci_newsroom-2022-10-10T23:51:02.027962-04:00.jpg",
+      "mtime": "1665460322",
+      "size": "9068",
+      "md5": "57f0ea01351c925823349ad949d93a0f",
+      "crc32": "c79c6aae",
+      "sha1": "7dc5599ebf19f75252232e087d8e08a67f1abf41"
+    },
+    {
       "name": "tci_newsroom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "30755d9a5c7b31d8509d49b11f9e0f32c75886d7",
-      "mtime": "1665414979",
-      "size": "52930",
-      "md5": "4cd03c5319c596f0d52fc22f47263ff8",
-      "crc32": "42f55a09",
-      "sha1": "9401a61a2454598031ec40fc9b4388ea5ca0de6f",
+      "btih": "3283680d737b622e6c177c975aa359d73ba8fa16",
+      "mtime": "1665460326",
+      "size": "54222",
+      "md5": "da9729768466444c52479d2c9270abd5",
+      "crc32": "24a16d9a",
+      "sha1": "120faa40d254bdb17c16e8291c0190dbe94958f8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tci_newsroom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a87813028891367dedff0d76360a967f",
+      "md5": "591994b60ceed49cfd1d335f9ce443a2",
       "summation": "md5"
     },
     {
       "name": "tci_newsroom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665414928",
-      "size": "327680",
-      "md5": "5b0a711f0a3c522c31612ce1c385a211",
-      "crc32": "77d9c665",
-      "sha1": "46101604c310b01b176581fc34934387cd0838be",
+      "mtime": "1665460275",
+      "size": "335872",
+      "md5": "e9d71ae09ab7b3e1be844f1a0c16a8f1",
+      "crc32": "2702a9b2",
+      "sha1": "df7cf75abedfab405c92b7ef49cdda5ff4eebe2f",
       "format": "Metadata"
     },
     {
@@ -2524,9 +2586,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 244,
-  "item_last_updated": 1665414979,
-  "item_size": 17243791,
+  "files_count": 250,
+  "item_last_updated": 1665460326,
+  "item_size": 17722629,
   "metadata": {
     "identifier": "tci_newsroom-2022",
     "collection": [
@@ -2544,17 +2606,9 @@
     "addeddate": "2022-09-21 03:42:55"
   },
   "server": "ia801403.us.archive.org",
-  "servers_unavailable": true,
-  "tci_newsroom-2022": {
-    "url": "https://www.tricountyindependent.com/",
-    "job_id": "spn2-d5e45c2be59e415660c15843ea4a45ddebf449e9",
-    "message": "Job failed.",
-    "resources": [],
-    "status": "error",
-    "status_ext": "error:job-failed"
-  },
-  "uniq": 805642690,
+  "uniq": 753540404,
   "workable_servers": [
-    "ia801403.us.archive.org"
+    "ia801403.us.archive.org",
+    "ia601403.us.archive.org"
   ]
 }

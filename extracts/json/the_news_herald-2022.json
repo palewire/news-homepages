@@ -1,5 +1,5 @@
 {
-  "created": 1665419664,
+  "created": 1665463827,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/2/items/the_news_herald-2022",
@@ -2496,31 +2496,93 @@
       "sha1": "adb7c4c9f2b742b2e62e2c86f7de168e7253e0d1"
     },
     {
+      "name": "the_news_herald-2022-10-10T22:51:05.331786-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665460270",
+      "size": "21082",
+      "md5": "b0d2b4b6480494ac7c8052b5dacb5584",
+      "crc32": "902098eb",
+      "sha1": "e91621ce94c342e11a54a857dc48380f4dca3ccc",
+      "format": "JSON"
+    },
+    {
+      "name": "the_news_herald-2022-10-10T22:51:05.331786-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665460272",
+      "size": "33745",
+      "md5": "93415f327f3e8b2b313db732d994a5ba",
+      "crc32": "ab5cfad9",
+      "sha1": "7eb352efc03027b3755d428bc8cfc30a30a0aa84",
+      "format": "JSON"
+    },
+    {
+      "name": "the_news_herald-2022-10-10T22:51:05.331786-05:00.jpg",
+      "source": "original",
+      "mtime": "1665460269",
+      "size": "267403",
+      "md5": "1117a4f09f43e9214c1da0f6de68f417",
+      "crc32": "cd200ff4",
+      "sha1": "7d5642af0eca88d9712b5dbe9c805ab65a034838",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the_news_herald-2022-10-10T22:51:05.331786-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665460273",
+      "size": "1495",
+      "md5": "8e50eb3fbf21da2659fd6d74e65e7c53",
+      "crc32": "c261355a",
+      "sha1": "a1c28cfde6dcd1b896cfa5ceb363768fddfe355d",
+      "format": "JSON"
+    },
+    {
+      "name": "the_news_herald-2022-10-10T22:51:05.331786-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665460275",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "the_news_herald-2022-10-10T22:51:05.331786-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the_news_herald-2022-10-10T22:51:05.331786-05:00.jpg",
+      "mtime": "1665460323",
+      "size": "9411",
+      "md5": "00d3afc458cd7cb0627913edb708d12d",
+      "crc32": "328a499a",
+      "sha1": "bd715ad3222f78c628f117f66cdacafbb7b3f525"
+    },
+    {
       "name": "the_news_herald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2f7770b1f20d53ed850b7d5faea267746fb49ecf",
-      "mtime": "1665415365",
-      "size": "53849",
-      "md5": "8078f3b7e18ba953834ffcb607451ee7",
-      "crc32": "2d753332",
-      "sha1": "75e19be2f7c3ff2a1900c0bb0e30e4e2c2390317",
+      "btih": "6da549e4cee3098264db07d89ab7dc6b03818d65",
+      "mtime": "1665460326",
+      "size": "55156",
+      "md5": "026f851901f09508177e56e47982b69b",
+      "crc32": "a5904241",
+      "sha1": "c251d40461c4267ddf511f09c168d31769858b41",
       "format": "Archive BitTorrent"
     },
     {
       "name": "the_news_herald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "27cc3208da7c9242bb3baceb6cc2243f",
+      "md5": "d35041dcbe24d704ceb384372261df7d",
       "summation": "md5"
     },
     {
       "name": "the_news_herald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665415308",
-      "size": "331776",
-      "md5": "2caa7c18e24210402e196b08d6f250a4",
-      "crc32": "cc635d06",
-      "sha1": "7905688deac96edc42e76715628d339ee5a6e45b",
+      "mtime": "1665460279",
+      "size": "339968",
+      "md5": "05562ce8e5c9b021a73b9a330aa66479",
+      "crc32": "4d797f79",
+      "sha1": "a6c922a434674466cf49d7b25677df2ba2b3c079",
       "format": "Metadata"
     },
     {
@@ -2534,9 +2596,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 245,
-  "item_last_updated": 1665415365,
-  "item_size": 16542943,
+  "files_count": 251,
+  "item_last_updated": 1665460326,
+  "item_size": 16885780,
   "metadata": {
     "identifier": "the_news_herald-2022",
     "collection": [
@@ -2553,18 +2615,15 @@
     "publicdate": "2022-09-21 03:43:13",
     "addeddate": "2022-09-21 03:43:13"
   },
-  "server": "ia601506.us.archive.org",
+  "server": "ia801506.us.archive.org",
   "the_news_herald-2022": {
-    "url": "https://www.newsherald.com/",
-    "job_id": "spn2-ee7de4d6820757b14459ddb49d84f5be535f6d1c",
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
-    "status_ext": "error:job-failed",
-    "resources": [],
-    "message": "Job failed."
+    "status_ext": "error:user-session-limit"
   },
-  "uniq": 1240949891,
+  "uniq": 1291176755,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia801506.us.archive.org",
+    "ia601506.us.archive.org"
   ]
 }

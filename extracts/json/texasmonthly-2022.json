@@ -1,5 +1,5 @@
 {
-  "created": 1665415032,
+  "created": 1665460880,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/7/items/texasmonthly-2022",
@@ -11222,31 +11222,93 @@
       "sha1": "685e54eda33698615c0529e8fde73d15b8ccf5d7"
     },
     {
+      "name": "texasmonthly-2022-10-10T22:51:43.879283-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665460324",
+      "size": "57817",
+      "md5": "aa607c61962ad01967894f838f75f5ce",
+      "crc32": "a4f0638b",
+      "sha1": "343da1cc1e53c1380f6090b4cbef92f8d8ec8504",
+      "format": "JSON"
+    },
+    {
+      "name": "texasmonthly-2022-10-10T22:51:43.879283-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665460329",
+      "size": "89098",
+      "md5": "6ddadbcc3b923a62556357fa608848be",
+      "crc32": "de191f9f",
+      "sha1": "5a70ad7ed79f086834e30784edc80871b3b98155",
+      "format": "JSON"
+    },
+    {
+      "name": "texasmonthly-2022-10-10T22:51:43.879283-05:00.jpg",
+      "source": "original",
+      "mtime": "1665460322",
+      "size": "266521",
+      "md5": "59ad792c46547d69c0cf0ed75af47148",
+      "crc32": "38de5a62",
+      "sha1": "9483e3b08886305108c439be1f735b4dced1d6d3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "texasmonthly-2022-10-10T22:51:43.879283-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665460330",
+      "size": "1503",
+      "md5": "956e83f1003fcadaa17eb0ce90413c1e",
+      "crc32": "9358918b",
+      "sha1": "968be87d5c4066d853631763c29227d5940d7082",
+      "format": "JSON"
+    },
+    {
+      "name": "texasmonthly-2022-10-10T22:51:43.879283-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665460332",
+      "size": "370186",
+      "md5": "88f0c3085b83c7306ca51bfc6ef997cd",
+      "crc32": "e6924560",
+      "sha1": "574d203315d404b3f591ef25ff08c0ee07409f79",
+      "format": "JSON"
+    },
+    {
+      "name": "texasmonthly-2022-10-10T22:51:43.879283-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "texasmonthly-2022-10-10T22:51:43.879283-05:00.jpg",
+      "mtime": "1665460396",
+      "size": "9936",
+      "md5": "04d982e7b6fa7c5437df6193d2c0d670",
+      "crc32": "8b77b7c9",
+      "sha1": "7bf824eec78811ee38f622f3b5027f93782ae55e"
+    },
+    {
       "name": "texasmonthly-2022_archive.torrent",
       "source": "metadata",
-      "btih": "74db571d1d8789b27c1e12827ae2b8c2a476e8d0",
-      "mtime": "1665415005",
-      "size": "234973",
-      "md5": "8ffd6affaa7805d7020c18585e09aaaf",
-      "crc32": "f482cb03",
-      "sha1": "817f459adbb9a6709294b937d263bf2911948998",
+      "btih": "a2fd0bff5978728e86aa212d04d5598ac0f270ea",
+      "mtime": "1665460409",
+      "size": "236285",
+      "md5": "d654accd00046524a7779790b41e4e8c",
+      "crc32": "175526f8",
+      "sha1": "93ed26676cd86842f55fb533b20569fcbe7b5a65",
       "format": "Archive BitTorrent"
     },
     {
       "name": "texasmonthly-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ccc05105081a9b0b9b46546f109a2bc5",
+      "md5": "776626e9983f68e9ad41e72ad5d51c8f",
       "summation": "md5"
     },
     {
       "name": "texasmonthly-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665414934",
-      "size": "1368064",
-      "md5": "749dec3a4d91021905440266bca6d1ec",
-      "crc32": "c25bedff",
-      "sha1": "0ff4594eb471b1e392385476c3afd2e9f7b6f490",
+      "mtime": "1665460337",
+      "size": "1372160",
+      "md5": "e491b47e511801d9a153f3cf2ff2e712",
+      "crc32": "0babdb22",
+      "sha1": "9275c4909c13007ae076dcc711dbf0dd3b480a90",
       "format": "Metadata"
     },
     {
@@ -11260,9 +11322,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1086,
-  "item_last_updated": 1665415005,
-  "item_size": 112808033,
+  "files_count": 1092,
+  "item_last_updated": 1665460409,
+  "item_size": 113608502,
   "metadata": {
     "identifier": "texasmonthly-2022",
     "collection": [
@@ -11279,10 +11341,10 @@
     "publicdate": "2022-07-04 21:45:38",
     "addeddate": "2022-07-04 21:45:38"
   },
-  "server": "ia902509.us.archive.org",
-  "uniq": 991623963,
+  "server": "ia802509.us.archive.org",
+  "uniq": 878779946,
   "workable_servers": [
-    "ia902509.us.archive.org",
-    "ia802509.us.archive.org"
+    "ia802509.us.archive.org",
+    "ia902509.us.archive.org"
   ]
 }
