@@ -1,5 +1,5 @@
 {
-  "created": 1665486238,
+  "created": 1665529803,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/24/items/cantonrepdotcom-2022",
@@ -2630,31 +2630,93 @@
       "sha1": "ab594677c57582d01f00875e58e0130715f5768d"
     },
     {
+      "name": "cantonrepdotcom-2022-10-11T19:05:13.827347-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665529518",
+      "size": "22081",
+      "md5": "50be30795d2dde8f2bc555c88c473156",
+      "crc32": "0463c20e",
+      "sha1": "41900696ae0d9f3dbbef31ce8e38bb384e3bbfa6",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-11T19:05:13.827347-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665529519",
+      "size": "34972",
+      "md5": "0173fc506e908a6fcd69f523ab8fc1f4",
+      "crc32": "8e8deb0a",
+      "sha1": "ca578b55c9cebc7c99023eb9d907541403175c03",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-11T19:05:13.827347-04:00.jpg",
+      "source": "original",
+      "mtime": "1665529516",
+      "size": "290418",
+      "md5": "a5fb2a2389a5e85f8e1da3ac602ca439",
+      "crc32": "39b3736f",
+      "sha1": "6ea4171d5ba5f0ec4857c11bc647b3652dd5e632",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-11T19:05:13.827347-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665529521",
+      "size": "1485",
+      "md5": "f10512ed1cd8d8e581c408d24c3f4e12",
+      "crc32": "f9c9beb2",
+      "sha1": "c716530c11aaec06d159a4c854d0df7b46574b82",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-11T19:05:13.827347-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665529523",
+      "size": "93999",
+      "md5": "c475cb1a9bcacad01778b16ee03eb2fa",
+      "crc32": "c01b78c5",
+      "sha1": "5bba1c8b3b315368f9f80c0c7c4ed012d79e3060",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-11T19:05:13.827347-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cantonrepdotcom-2022-10-11T19:05:13.827347-04:00.jpg",
+      "mtime": "1665529712",
+      "size": "9802",
+      "md5": "f0f9b3eeb819c99d8c6e0ead52a78c23",
+      "crc32": "a299e2b9",
+      "sha1": "8199bbff3601fbdb91778f3ff375c5383d3b2f54"
+    },
+    {
       "name": "cantonrepdotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1025cc44847fd07add39006aaae3ac83371407a2",
-      "mtime": "1665486226",
-      "size": "56686",
-      "md5": "29e24aceda2326ffdb93304f474742a4",
-      "crc32": "8121708b",
-      "sha1": "1bdbc111b4bce1078d6718ef0e83af1674f8b06b",
+      "btih": "67956e76f540eb83e231f912b8a7f98721d95f6d",
+      "mtime": "1665529716",
+      "size": "57995",
+      "md5": "6d41d9d9e4f1001b749e810c5167e038",
+      "crc32": "6d9ad8f2",
+      "sha1": "abb50c1b72197bd60a10c14f760f4c899f231620",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cantonrepdotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a5d9315b70326d32d1ed4fd30027d460",
+      "md5": "c3122ee28898f1ad66a4ece36b4867ee",
       "summation": "md5"
     },
     {
       "name": "cantonrepdotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665486161",
-      "size": "348160",
-      "md5": "4c0b6011a100095c515fb840846c2808",
-      "crc32": "00d82c3c",
-      "sha1": "0ab64235f34e99ce31936e9ddc5571899dc1c7ad",
+      "mtime": "1665529526",
+      "size": "352256",
+      "md5": "a0e4fe133f28394be42c9f312ac3c9d4",
+      "crc32": "7fb4c9e3",
+      "sha1": "9746d850d752ab973c6da9e4326eb47acb0d92f2",
       "format": "Metadata"
     },
     {
@@ -2668,9 +2730,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 258,
-  "item_last_updated": 1665486226,
-  "item_size": 17721752,
+  "files_count": 264,
+  "item_last_updated": 1665529716,
+  "item_size": 18179914,
   "metadata": {
     "identifier": "cantonrepdotcom-2022",
     "collection": [
@@ -2688,7 +2750,7 @@
     "addeddate": "2022-09-20 22:11:40"
   },
   "server": "ia801507.us.archive.org",
-  "uniq": 176145261,
+  "uniq": 970446443,
   "workable_servers": [
     "ia801507.us.archive.org",
     "ia601507.us.archive.org"
