@@ -1,5 +1,5 @@
 {
-  "created": 1665415407,
+  "created": 1665455412,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/19/items/sz-2022",
@@ -7488,31 +7488,93 @@
       "sha1": "f35a0013e4e665f3ba287c9ed6517ee4f7a375e4"
     },
     {
+      "name": "sz-2022-10-11T04:28:04.486029+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665455302",
+      "size": "105401",
+      "md5": "52c434116fb64a4a9df9e31f87e21964",
+      "crc32": "b9c0b59a",
+      "sha1": "c7e9edb30c85243c7199a34c0aad5ed9a2e909c6",
+      "format": "JSON"
+    },
+    {
+      "name": "sz-2022-10-11T04:28:04.486029+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665455304",
+      "size": "183303",
+      "md5": "9f9e9c36417e207d1ebe22df7f37658c",
+      "crc32": "bf1deb36",
+      "sha1": "b47777eb73c70261ee7f6d51a54d79d5cdd21d4a",
+      "format": "JSON"
+    },
+    {
+      "name": "sz-2022-10-11T04:28:04.486029+02:00.jpg",
+      "source": "original",
+      "mtime": "1665455300",
+      "size": "207570",
+      "md5": "622d501aaefb7412fdb0fc52c7fcbee9",
+      "crc32": "f4372412",
+      "sha1": "67903b1008fb476d5458b6f122076cd514b73661",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sz-2022-10-11T04:28:04.486029+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665455306",
+      "size": "1495",
+      "md5": "81bd09d88f6aae094d0f84bba16f822e",
+      "crc32": "c64785c2",
+      "sha1": "f415046e3b5db50268849c2730040c47f2d93329",
+      "format": "JSON"
+    },
+    {
+      "name": "sz-2022-10-11T04:28:04.486029+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665455307",
+      "size": "14533",
+      "md5": "c81cdfb38d7dd7eea1b1c74046c8c26b",
+      "crc32": "8416a00e",
+      "sha1": "c9e8cc9c002ad1429913608eec865a8b083d1f50",
+      "format": "JSON"
+    },
+    {
+      "name": "sz-2022-10-11T04:28:04.486029+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sz-2022-10-11T04:28:04.486029+02:00.jpg",
+      "mtime": "1665455385",
+      "size": "8422",
+      "md5": "228d13d8399b23db2d79cc06216f4d9a",
+      "crc32": "d1214ca8",
+      "sha1": "540c4bf0ac5a2912d48efbd633bd085dd2e1196c"
+    },
+    {
       "name": "sz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fc84b3e49e2339185ec6eb2b51c76e8be1bc83f3",
-      "mtime": "1665412328",
-      "size": "150112",
-      "md5": "549fa709f7b603f6992a2f57dbe9469a",
-      "crc32": "a86b0992",
-      "sha1": "ad771a197080d7f7b094bc7cac2394bd78099438",
+      "btih": "f056914df8aff64f8908faa9bb73a999d4aa2380",
+      "mtime": "1665455395",
+      "size": "151345",
+      "md5": "7f49dea85db1aa987e540f92f5be10d4",
+      "crc32": "4f60fe12",
+      "sha1": "a3e7f197d47b285a248c85256f08a18ddb0dcf5e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "37c91b9e15bce1f0a471cd76cba96a7e",
+      "md5": "9130485b184138cb6d6492cfdb0cb266",
       "summation": "md5"
     },
     {
       "name": "sz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665412263",
-      "size": "925696",
-      "md5": "3ca62cee01ac809b65bcd8d983c4903f",
-      "crc32": "95a9816e",
-      "sha1": "12fa55a31b8a0ef75349a3dd5a0690b526f9a808",
+      "mtime": "1665455324",
+      "size": "933888",
+      "md5": "35275475ad7ba519ed4dae982f13d7f3",
+      "crc32": "d82694b4",
+      "sha1": "be5d32f3ca7c85b6bfe0dc70a2b1bc76f5926909",
       "format": "Metadata"
     },
     {
@@ -7526,9 +7588,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 728,
-  "item_last_updated": 1665412328,
-  "item_size": 66108412,
+  "files_count": 734,
+  "item_last_updated": 1665455395,
+  "item_size": 66638561,
   "metadata": {
     "identifier": "sz-2022",
     "collection": [
@@ -7546,12 +7608,7 @@
     "addeddate": "2022-08-11 01:00:45"
   },
   "server": "ia801408.us.archive.org",
-  "sz-2022": {
-    "url": "https://www.sueddeutsche.de/",
-    "job_id": "spn2-136b220a31c42c7bee15aff4baa2e495e2165f26",
-    "message": "The same snapshot had been made 24 minutes, 5 seconds ago. You can make new capture of this URL after 45 minutes."
-  },
-  "uniq": 1521406544,
+  "uniq": 1988769404,
   "workable_servers": [
     "ia801408.us.archive.org",
     "ia601408.us.archive.org"

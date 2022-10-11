@@ -1,5 +1,5 @@
 {
-  "created": 1665412095,
+  "created": 1665455234,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/0/items/patriotledger-2022",
@@ -2486,31 +2486,93 @@
       "sha1": "d5c9255ebf936275a6acc80d01a79cba9b38b1b3"
     },
     {
+      "name": "patriotledger-2022-10-10T22:25:43.147558-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665455150",
+      "size": "22927",
+      "md5": "71aaeecc1d371f9262cfe00cbeac2a4b",
+      "crc32": "fb1f7e4c",
+      "sha1": "41238254130480cc172f03fd3758b194e516c87b",
+      "format": "JSON"
+    },
+    {
+      "name": "patriotledger-2022-10-10T22:25:43.147558-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665455152",
+      "size": "30734",
+      "md5": "df8cbec8c4a7c922e2c9e92581be100c",
+      "crc32": "dae65d25",
+      "sha1": "397daaeb3a3376f60b512f99e9e42df140043fa0",
+      "format": "JSON"
+    },
+    {
+      "name": "patriotledger-2022-10-10T22:25:43.147558-04:00.jpg",
+      "source": "original",
+      "mtime": "1665455149",
+      "size": "247750",
+      "md5": "b3c889c07ea3ee38573515e9a274118f",
+      "crc32": "ac38a0b2",
+      "sha1": "340e48c4cd90ffea16f9615b5ecffa2f306d2f5a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "patriotledger-2022-10-10T22:25:43.147558-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665455153",
+      "size": "1522",
+      "md5": "f8cd2895a9da1fbf38137615e3c5bf65",
+      "crc32": "38b02237",
+      "sha1": "f8f352b67300ec9ecf0308ead86d7cbecd90991a",
+      "format": "JSON"
+    },
+    {
+      "name": "patriotledger-2022-10-10T22:25:43.147558-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665455155",
+      "size": "77367",
+      "md5": "7cad1088422f8d7d1a8e66c9b3cbf98a",
+      "crc32": "0e7b7eab",
+      "sha1": "16b02b806dd98b8dd443396a7d9440309573a3cd",
+      "format": "JSON"
+    },
+    {
+      "name": "patriotledger-2022-10-10T22:25:43.147558-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "patriotledger-2022-10-10T22:25:43.147558-04:00.jpg",
+      "mtime": "1665455224",
+      "size": "9061",
+      "md5": "808ac40f9f7d330dbd43b6eedf6326ae",
+      "crc32": "83e5e7be",
+      "sha1": "a13672c403c6181357f962e64e00ce2e44199339"
+    },
+    {
       "name": "patriotledger-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b7a350017e79695eabb74e53fe201d1cac513d35",
-      "mtime": "1665412085",
-      "size": "53085",
-      "md5": "a98f24da4ade7fc2d75ca0867f5ea320",
-      "crc32": "7bc7c519",
-      "sha1": "879f4bab4e8ecb2a82a76ecd00d1270b7dc5aef1",
+      "btih": "1f57089b2df3cec93b863f69ee77463eb972bf3b",
+      "mtime": "1665455228",
+      "size": "54382",
+      "md5": "9a888aa95ee5bd7de099c3c1b2d0d0c9",
+      "crc32": "b5b05fde",
+      "sha1": "d390d2f693d16294f70ebacbf8b3da8c98c95192",
       "format": "Archive BitTorrent"
     },
     {
       "name": "patriotledger-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "37aa2f583090cf0981c874c8bdfec1cf",
+      "md5": "c6a0e0e085b9f46c8e93372bbb7a7cc7",
       "summation": "md5"
     },
     {
       "name": "patriotledger-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665412032",
-      "size": "331776",
-      "md5": "391dffddb13dbefc69f0b36dd1bd4e12",
-      "crc32": "34f6f1c3",
-      "sha1": "a4a084315136ba0f3dd700ff632ce6d599b9b154",
+      "mtime": "1665455167",
+      "size": "335872",
+      "md5": "ba45df9aa389acb840c7f959fdb5820c",
+      "crc32": "14a78864",
+      "sha1": "dc65e0dbb6d1f5d558d4bc41d21cdd037c9b0710",
       "format": "Metadata"
     },
     {
@@ -2524,9 +2586,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 244,
-  "item_last_updated": 1665412085,
-  "item_size": 15778373,
+  "files_count": 250,
+  "item_last_updated": 1665455228,
+  "item_size": 16173127,
   "metadata": {
     "identifier": "patriotledger-2022",
     "collection": [
@@ -2544,7 +2606,7 @@
     "addeddate": "2022-09-21 02:22:30"
   },
   "server": "ia801404.us.archive.org",
-  "uniq": 189091296,
+  "uniq": 894926330,
   "workable_servers": [
     "ia801404.us.archive.org",
     "ia601404.us.archive.org"

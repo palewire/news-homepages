@@ -1,5 +1,5 @@
 {
-  "created": 1665415208,
+  "created": 1665455178,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/13/items/poconorecord-2022",
@@ -2496,31 +2496,93 @@
       "sha1": "69a2e4b11bbb45380163478f62b9266452170b60"
     },
     {
+      "name": "poconorecord-2022-10-10T22:25:05.626292-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665455112",
+      "size": "21379",
+      "md5": "51495935453838fd98dd54bc4ab54158",
+      "crc32": "aaeaa69c",
+      "sha1": "fc16f023ba3508a0787972415a8a3e1d416b9839",
+      "format": "JSON"
+    },
+    {
+      "name": "poconorecord-2022-10-10T22:25:05.626292-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665455114",
+      "size": "36933",
+      "md5": "06828401c8e28aa84f3f0f76589daf8d",
+      "crc32": "c5785ead",
+      "sha1": "d16b0ff9efbc1275259142ce90ec959ecf66c130",
+      "format": "JSON"
+    },
+    {
+      "name": "poconorecord-2022-10-10T22:25:05.626292-04:00.jpg",
+      "source": "original",
+      "mtime": "1665455110",
+      "size": "278123",
+      "md5": "69ac66a3218ba1b0b892db2aafb1d480",
+      "crc32": "8f417676",
+      "sha1": "d66df535a0cbc9bca862de174b0236c8801e81b5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "poconorecord-2022-10-10T22:25:05.626292-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665455116",
+      "size": "1513",
+      "md5": "c94e972c0eecc59545a8735f8b2007b1",
+      "crc32": "3d8ca743",
+      "sha1": "61ad93f807e6777f4039403e2727e394a708ba6e",
+      "format": "JSON"
+    },
+    {
+      "name": "poconorecord-2022-10-10T22:25:05.626292-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665455118",
+      "size": "71930",
+      "md5": "46250f1bbf5fe745275f2f75daf203ad",
+      "crc32": "3220efad",
+      "sha1": "26005c8338831931f9280f6de767980643b6d70a",
+      "format": "JSON"
+    },
+    {
+      "name": "poconorecord-2022-10-10T22:25:05.626292-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "poconorecord-2022-10-10T22:25:05.626292-04:00.jpg",
+      "mtime": "1665455167",
+      "size": "9608",
+      "md5": "fd2be18f9fccd2223c31ef1d765b870f",
+      "crc32": "a9de6cdc",
+      "sha1": "49f3b8434a5dd662ecb23b6308566010a86bd507"
+    },
+    {
       "name": "poconorecord-2022_archive.torrent",
       "source": "metadata",
-      "btih": "22cab5bb157918082f2142f7b11ce2a4695ef0c9",
-      "mtime": "1665412091",
-      "size": "53074",
-      "md5": "f96453de2c9b154a111e20142afbb539",
-      "crc32": "0c31e225",
-      "sha1": "c6bdd4e59152cf0141494eaaca96fc3571a8936b",
+      "btih": "998d403309eb551c5ca29e7af110e8cd14d8653a",
+      "mtime": "1665455170",
+      "size": "54365",
+      "md5": "388c37c98578577f13b936f476fa1651",
+      "crc32": "742aa0d9",
+      "sha1": "61acb497f444faf75ef4da72a7935e2af938114d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "poconorecord-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9f99d93060f9d39d45c115bc94198f07",
+      "md5": "196aaf8d953896c34d2a2e94e8cc8f03",
       "summation": "md5"
     },
     {
       "name": "poconorecord-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665412044",
-      "size": "327680",
-      "md5": "7820873729f5819eafb61bb001d09e32",
-      "crc32": "d46ddfd8",
-      "sha1": "c495838146e9e06a9341d4906988123127aaaa82",
+      "mtime": "1665455122",
+      "size": "339968",
+      "md5": "322e2c48945ef890220e8803f2d8cdff",
+      "crc32": "7019211a",
+      "sha1": "555e6ff110942e98e8661dea25e211c1844be29a",
       "format": "Metadata"
     },
     {
@@ -2534,9 +2596,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 245,
-  "item_last_updated": 1665412091,
-  "item_size": 15991133,
+  "files_count": 251,
+  "item_last_updated": 1665455170,
+  "item_size": 16424198,
   "metadata": {
     "identifier": "poconorecord-2022",
     "collection": [
@@ -2553,13 +2615,8 @@
     "publicdate": "2022-09-21 02:22:52",
     "addeddate": "2022-09-21 02:22:52"
   },
-  "poconorecord-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "server": "ia601501.us.archive.org",
-  "uniq": 2143792885,
+  "uniq": 762505837,
   "workable_servers": [
     "ia601501.us.archive.org",
     "ia801501.us.archive.org"
