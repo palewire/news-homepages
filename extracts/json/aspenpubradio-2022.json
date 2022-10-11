@@ -1,5 +1,5 @@
 {
-  "created": 1665469481,
+  "created": 1665505184,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/16/items/aspenpubradio-2022",
@@ -6082,31 +6082,93 @@
       "sha1": "a77b1151548eb21273d94b43ac7db8f09c7f9846"
     },
     {
+      "name": "aspenpubradio-2022-10-11T10:17:48.739603-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665505075",
+      "size": "20211",
+      "md5": "6b08f45944e02cfba7b49a57f6053ad4",
+      "crc32": "bec55e78",
+      "sha1": "c4a3d6d1a099d901269dcb1c38e61eb5fb2644be",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-11T10:17:48.739603-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665505078",
+      "size": "39031",
+      "md5": "b4e1fe5a2bd82473fa9544349bb02cec",
+      "crc32": "8ac9ae8f",
+      "sha1": "c1d00a935340257cf7e8468f0c1084bcd36848f1",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-11T10:17:48.739603-06:00.jpg",
+      "source": "original",
+      "mtime": "1665505074",
+      "size": "302930",
+      "md5": "88e4a91a71963c9d2f317658df785518",
+      "crc32": "840c0489",
+      "sha1": "cf5ee247f40bbff0ff7e4ad976610aa5a08296ef",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspenpubradio-2022-10-11T10:17:48.739603-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665505080",
+      "size": "1536",
+      "md5": "e5c06f7ced8eb4c1113f531bcac30202",
+      "crc32": "c3fd62a8",
+      "sha1": "b87534a778f1715a0e37ca287debd47064cd785c",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-11T10:17:48.739603-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1665505082",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-11T10:17:48.739603-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspenpubradio-2022-10-11T10:17:48.739603-06:00.jpg",
+      "mtime": "1665505156",
+      "size": "9778",
+      "md5": "69b166c0071fcb30eb6f2afd35c64ebc",
+      "crc32": "a76535f6",
+      "sha1": "c06e93f3698aebec170d5e8de1e4c183acf6bec5"
+    },
+    {
       "name": "aspenpubradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "821f6212d511d21c928486149186ca56daefba64",
-      "mtime": "1665469470",
-      "size": "128214",
-      "md5": "38183381336fbac74ed463b6e45efda6",
-      "crc32": "dec1e1c5",
-      "sha1": "366d290332e16350d4d7c54c782699e0bdf8b14d",
+      "btih": "99238c678ed7d30c4a206f60f5b782c3ff2a7a5f",
+      "mtime": "1665505168",
+      "size": "129509",
+      "md5": "5a842eced67e7805427283b53f82a321",
+      "crc32": "181783e7",
+      "sha1": "2ced60064f0c1000c2bfa0a5b807bb166093e1c8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aspenpubradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2cda1e09ff913b5eeb4222019b23fb57",
+      "md5": "6c60823e848f263b703ba92ace982073",
       "summation": "md5"
     },
     {
       "name": "aspenpubradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665469400",
-      "size": "765952",
-      "md5": "23134dbac4d53667bbf5f48ac45ad474",
-      "crc32": "04776ac3",
-      "sha1": "4d781d16c5355bdca61e1407040b59ad5c69131c",
+      "mtime": "1665505090",
+      "size": "778240",
+      "md5": "793c20ab6b6096f798dec31df4e1ca2f",
+      "crc32": "72cb4c3b",
+      "sha1": "1c1a42aafdbfe9382f4549a3cb837609d3f2552f",
       "format": "Metadata"
     },
     {
@@ -6120,9 +6182,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 592,
-  "item_last_updated": 1665469470,
-  "item_size": 41414193,
+  "files_count": 598,
+  "item_last_updated": 1665505168,
+  "item_size": 41801464,
   "metadata": {
     "identifier": "aspenpubradio-2022",
     "collection": [
@@ -6139,10 +6201,10 @@
     "publicdate": "2022-08-22 13:02:32",
     "addeddate": "2022-08-22 13:02:32"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 1897000525,
+  "server": "ia601405.us.archive.org",
+  "uniq": 785063820,
   "workable_servers": [
-    "ia801405.us.archive.org",
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }
