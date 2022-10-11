@@ -1,5 +1,5 @@
 {
-  "created": 1665405061,
+  "created": 1665447064,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/6/items/fla_pol-2022",
@@ -7860,31 +7860,82 @@
       "sha1": "e2bf079a96960629967e1af803fcf2bf89e06a74"
     },
     {
+      "name": "fla_pol-2022-10-10T20:07:44.881715-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665446882",
+      "size": "89041",
+      "md5": "aa5021a81fb97d378715dc7b196b0f58",
+      "crc32": "ef538320",
+      "sha1": "a563b7092a32eebe905218626e0c3f76e940bdac",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-10T20:07:44.881715-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665446887",
+      "size": "87681",
+      "md5": "32f38b6b1b994ebc6ad4e5d129d7987c",
+      "crc32": "16a2093d",
+      "sha1": "88a08b6f1e64d92055b435ed82bfabd4ba6e3b52",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-10T20:07:44.881715-04:00.jpg",
+      "source": "original",
+      "mtime": "1665446877",
+      "size": "234263",
+      "md5": "98d359b8bd197a0be359664ed14b2aad",
+      "crc32": "e3e41f7a",
+      "sha1": "e5c1b9c14278aab1ffe2f657b35b3bc1bbfa5d65",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fla_pol-2022-10-10T20:07:44.881715-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665446892",
+      "size": "1504",
+      "md5": "42476105234238c2a06afac85e468417",
+      "crc32": "eae46326",
+      "sha1": "c1b57268be8dd17c3138f89d7f2f0c83f3aa225a",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-10T20:07:44.881715-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665446900",
+      "size": "104",
+      "md5": "9d92d9d1626757f396f7ebcc66139d9a",
+      "crc32": "c04ece38",
+      "sha1": "6ff855f5168df4587b56d366f364bb97edb249bc",
+      "format": "JSON"
+    },
+    {
       "name": "fla_pol-2022_archive.torrent",
       "source": "metadata",
-      "btih": "368085bc4217ec4ba73cd1e617ed24cb365a8b43",
-      "mtime": "1665405051",
-      "size": "160859",
-      "md5": "19d64ec5f861c2545a3f4cb49db0583e",
-      "crc32": "05ebb017",
-      "sha1": "82ab6e2b206c5aee7e047e851bf89b36aca87036",
+      "btih": "3e951666d260b268c09cd752489767a9c84da77c",
+      "mtime": "1665447053",
+      "size": "161895",
+      "md5": "438f3076089ac2bb307090b1d27be884",
+      "crc32": "ecab1970",
+      "sha1": "75e1f38bfc9bc6cf7afb6a1783caa78f2dc07173",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fla_pol-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aa752209338cf4e68944908847cb65b1",
+      "md5": "8b18a0a864684e81ab0c5595c0b2c0f4",
       "summation": "md5"
     },
     {
       "name": "fla_pol-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665404978",
-      "size": "978944",
-      "md5": "f7ffb2b24867d9f32713a6f59bd47c96",
-      "crc32": "b4746c20",
-      "sha1": "8faa878343269faf887baa899b1e458909777035",
+      "mtime": "1665447004",
+      "size": "987136",
+      "md5": "379b843104afcb2551f52e9d3df44caf",
+      "crc32": "dafdca7d",
+      "sha1": "44514cbc0e3771f7c6454ae94f00ef870e414c7c",
       "format": "Metadata"
     },
     {
@@ -7898,9 +7949,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 764,
-  "item_last_updated": 1665405051,
-  "item_size": 58909616,
+  "files_count": 769,
+  "item_last_updated": 1665447053,
+  "item_size": 59331437,
   "metadata": {
     "identifier": "fla_pol-2022",
     "collection": [
@@ -7917,10 +7968,21 @@
     "publicdate": "2022-08-09 03:37:17",
     "addeddate": "2022-08-09 03:37:17"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 893193270,
+  "pending_tasks": true,
+  "server": "ia601501.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3435225215,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1201985174,
   "workable_servers": [
-    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

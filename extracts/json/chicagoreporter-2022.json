@@ -1,5 +1,5 @@
 {
-  "created": 1665422699,
+  "created": 1665446986,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/21/items/chicagoreporter-2022",
@@ -18020,31 +18020,93 @@
       "sha1": "718c1dd181d2947ef1a7516c238ff4e6382eaff0"
     },
     {
+      "name": "chicagoreporter-2022-10-10T19:04:21.491251-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665446665",
+      "size": "18912",
+      "md5": "f8934f2d8f9475d5525f3cfa7722b7d3",
+      "crc32": "742da488",
+      "sha1": "6afc457eca967ece6cebb8e626f7dcdd77e350d8",
+      "format": "JSON"
+    },
+    {
+      "name": "chicagoreporter-2022-10-10T19:04:21.491251-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665446668",
+      "size": "17068",
+      "md5": "d1ffd1c605803289a77a0fd5178ad04b",
+      "crc32": "28f54b5a",
+      "sha1": "accdf398bfe7b1dde33f9915bcf4db853c6a39d4",
+      "format": "JSON"
+    },
+    {
+      "name": "chicagoreporter-2022-10-10T19:04:21.491251-05:00.jpg",
+      "source": "original",
+      "mtime": "1665446663",
+      "size": "208227",
+      "md5": "5b825063d3ed22cf2ef7ff2ff2b9b124",
+      "crc32": "3d6928f3",
+      "sha1": "d083f8f3dec3cdc7ea636de712e08637379dbf42",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chicagoreporter-2022-10-10T19:04:21.491251-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665446672",
+      "size": "1530",
+      "md5": "647c5ac7ff59431879af491b17a5e6b3",
+      "crc32": "824bd221",
+      "sha1": "c74d9f7d76cc19fe4807ea39f855c7a00e2eaa48",
+      "format": "JSON"
+    },
+    {
+      "name": "chicagoreporter-2022-10-10T19:04:21.491251-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665446674",
+      "size": "12224",
+      "md5": "bf63128c9aaba85fc4e54072b8c3d33f",
+      "crc32": "7b3eb9e6",
+      "sha1": "f9a14b6a40e62d3d78aa867ad7f71f0af3155beb",
+      "format": "JSON"
+    },
+    {
+      "name": "chicagoreporter-2022-10-10T19:04:21.491251-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chicagoreporter-2022-10-10T19:04:21.491251-05:00.jpg",
+      "mtime": "1665446824",
+      "size": "9033",
+      "md5": "df1e732741713a3ab6a65fe814239548",
+      "crc32": "4227df52",
+      "sha1": "718c1dd181d2947ef1a7516c238ff4e6382eaff0"
+    },
+    {
       "name": "chicagoreporter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "88ca906e4e174e1c9776c9398bcb1f84be26aad9",
-      "mtime": "1665422680",
-      "size": "378002",
-      "md5": "fed146d04745d52a7893bee55bb66167",
-      "crc32": "9ceea219",
-      "sha1": "4b44e04827836b0392f42da12edd47d0d5af7bf3",
+      "btih": "0cfd1b747c099cca9061563a31ed4b095f83ff4d",
+      "mtime": "1665446856",
+      "size": "379311",
+      "md5": "ba3d14bcb1803a1fd179a94b552f105b",
+      "crc32": "48d582cf",
+      "sha1": "07f246a6dd3dd8c82415ec14e8cd9c611f8125cc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chicagoreporter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "458bf81a43f4e671d65843f57c2b4ffb",
+      "md5": "c4466d4636509849500e39c58d424195",
       "summation": "md5"
     },
     {
       "name": "chicagoreporter-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665422511",
-      "size": "2179072",
-      "md5": "555ad6fce715c0c27d97b4ba0b112c1a",
-      "crc32": "437041c8",
-      "sha1": "9742bd8b53acce1ea41bc213a2c16c1bd793ac97",
+      "mtime": "1665446679",
+      "size": "2183168",
+      "md5": "094d17a62770ff5e9e1765ee105ac7a9",
+      "crc32": "8e06065f",
+      "sha1": "59945830455510cd75a8400661362c6ed6eb6ebd",
       "format": "Metadata"
     },
     {
@@ -18058,9 +18120,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1740,
-  "item_last_updated": 1665422680,
-  "item_size": 102030289,
+  "files_count": 1746,
+  "item_last_updated": 1665446856,
+  "item_size": 102302688,
   "metadata": {
     "identifier": "chicagoreporter-2022",
     "collection": [
@@ -18077,10 +18139,10 @@
     "publicdate": "2022-06-24 22:53:30",
     "addeddate": "2022-06-24 22:53:30"
   },
-  "server": "ia802508.us.archive.org",
-  "uniq": 822759256,
+  "server": "ia902508.us.archive.org",
+  "uniq": 383607248,
   "workable_servers": [
-    "ia802508.us.archive.org",
-    "ia902508.us.archive.org"
+    "ia902508.us.archive.org",
+    "ia802508.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1665405069,
+  "created": 1665447072,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/26/items/enquirer-2022",
@@ -7064,31 +7064,82 @@
       "sha1": "8773a68eb23a2d88eaf9d626436537e4996066f2"
     },
     {
+      "name": "enquirer-2022-10-10T20:08:02.561560-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665446900",
+      "size": "22304",
+      "md5": "9b757775d58302a2a74f00b37ed5d1de",
+      "crc32": "cff60860",
+      "sha1": "8ed286298dba343c25e2b83492f98ec2a00b9696",
+      "format": "JSON"
+    },
+    {
+      "name": "enquirer-2022-10-10T20:08:02.561560-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665446904",
+      "size": "30584",
+      "md5": "d3f2a4bb0c661f072bd5894459fbd202",
+      "crc32": "80bdb44c",
+      "sha1": "1fa61ef036ef9a5c7ba25f94581cf0a153d33bc9",
+      "format": "JSON"
+    },
+    {
+      "name": "enquirer-2022-10-10T20:08:02.561560-04:00.jpg",
+      "source": "original",
+      "mtime": "1665446893",
+      "size": "234970",
+      "md5": "9e7beb853f570c91b968770fc08366a5",
+      "crc32": "08cd84d4",
+      "sha1": "6881b235b9105f36d275d052ca45c00e3daba2c3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "enquirer-2022-10-10T20:08:02.561560-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665446906",
+      "size": "1494",
+      "md5": "f45cf90a6e505555421dd2e672ef1ace",
+      "crc32": "ac1ac0eb",
+      "sha1": "895b3a3c55f6fd8a1140106387fe7d6d0b1f46b9",
+      "format": "JSON"
+    },
+    {
+      "name": "enquirer-2022-10-10T20:08:02.561560-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665446910",
+      "size": "103",
+      "md5": "181cbd796acf527c61f28f61c81bc985",
+      "crc32": "a09722c5",
+      "sha1": "e85261a0ce4f58bfce7dfb853e99d2824ca9941f",
+      "format": "JSON"
+    },
+    {
       "name": "enquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "739b60efe8ffb283f8fe207e1aaf1e59c09914b3",
-      "mtime": "1665405055",
-      "size": "145151",
-      "md5": "87c6abfac48df1d9c9f73d6f28df288a",
-      "crc32": "83f065c8",
-      "sha1": "86cbaab39e4aa837a8190c875f84e6b9ee3cae70",
+      "btih": "05a00e63a0a1cd9d435ccfa787ed84ca875d3120",
+      "mtime": "1665447062",
+      "size": "146192",
+      "md5": "dafae68d5684cd75ea166d7ee074a32c",
+      "crc32": "5791137f",
+      "sha1": "469f680dfdc758ff0d2747039237e37109702f1e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "enquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1e800f3b10aec15d62d2a0920ac382c6",
+      "md5": "5f9be0c1d493f1c9c5be368c26f94e4b",
       "summation": "md5"
     },
     {
       "name": "enquirer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665404984",
-      "size": "884736",
-      "md5": "17bbdae48447b0e3c0528a5dd8ae672a",
-      "crc32": "bd04ecb3",
-      "sha1": "19324af4dae4f3f8c532f32d0329c5756931d62b",
+      "mtime": "1665447019",
+      "size": "888832",
+      "md5": "2cc96b8ec0f7dbaef6c91497b0da88dd",
+      "crc32": "4f14d12e",
+      "sha1": "07f2f4a2fe351172736b698ddc4e0716eaef510b",
       "format": "Metadata"
     },
     {
@@ -7102,9 +7153,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 687,
-  "item_last_updated": 1665405055,
-  "item_size": 47358953,
+  "files_count": 692,
+  "item_last_updated": 1665447062,
+  "item_size": 47653545,
   "metadata": {
     "identifier": "enquirer-2022",
     "collection": [
@@ -7121,10 +7172,21 @@
     "publicdate": "2022-08-14 06:45:31",
     "addeddate": "2022-08-14 06:45:31"
   },
+  "pending_tasks": true,
   "server": "ia601502.us.archive.org",
-  "uniq": 1026968873,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3435225415,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2066395398,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia601502.us.archive.org"
   ]
 }

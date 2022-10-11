@@ -1,5 +1,5 @@
 {
-  "created": 1665405018,
+  "created": 1665447145,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/11/items/goerie-2022",
@@ -2558,31 +2558,82 @@
       "sha1": "548b56bd5749520474146fdaeddfef99772243f2"
     },
     {
+      "name": "goerie-2022-10-10T20:10:42.218746-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665447049",
+      "size": "24118",
+      "md5": "524b197b618b40772842ff39cc41694a",
+      "crc32": "2ae8d7e7",
+      "sha1": "0085b4b79d17a9c6e4892b960a85be9a10d44128",
+      "format": "JSON"
+    },
+    {
+      "name": "goerie-2022-10-10T20:10:42.218746-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665447051",
+      "size": "35948",
+      "md5": "0d7b0c33ad187503594c064884c70fae",
+      "crc32": "2b86549e",
+      "sha1": "3f25584fd53463f8152ccc86349efaf6f22e927a",
+      "format": "JSON"
+    },
+    {
+      "name": "goerie-2022-10-10T20:10:42.218746-04:00.jpg",
+      "source": "original",
+      "mtime": "1665447046",
+      "size": "256730",
+      "md5": "e988384b15598c8bffe15d608324f557",
+      "crc32": "e9d45ce7",
+      "sha1": "ac40e5dde02a3b317f3ac3de9fcd67bf6add30df",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "goerie-2022-10-10T20:10:42.218746-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665447055",
+      "size": "1459",
+      "md5": "5eadcf15d7c80dae6615a69d511ce749",
+      "crc32": "a1cabf3e",
+      "sha1": "77aa1895d08f2e6e7994a2e4b2bcca1eaa5e4cdf",
+      "format": "JSON"
+    },
+    {
+      "name": "goerie-2022-10-10T20:10:42.218746-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665447059",
+      "size": "90655",
+      "md5": "9b9dd347d38d5a0815664f069593d3eb",
+      "crc32": "de6550bb",
+      "sha1": "03c04ed3ffd2c4cbc9a32fe19ce89e58698441d6",
+      "format": "JSON"
+    },
+    {
       "name": "goerie-2022_archive.torrent",
       "source": "metadata",
-      "btih": "65716f1d83edb720ee5642053da32298bcba19c9",
-      "mtime": "1665405013",
-      "size": "52875",
-      "md5": "281fe4774c22f4a977bd50dee44d33bb",
-      "crc32": "98aafb91",
-      "sha1": "e0ac1a644908b87faeb9099f2733d13a09e441e3",
+      "btih": "871d6f917bdeca74c33d4af2375607f054de1aad",
+      "mtime": "1665447143",
+      "size": "53928",
+      "md5": "dcc6893368850adb969b2a3801dceabb",
+      "crc32": "91865680",
+      "sha1": "faba1d1ee02c3476ec1d88ab5275a6c33e6d2539",
       "format": "Archive BitTorrent"
     },
     {
       "name": "goerie-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "147853e1efd1167168def0f557a485e4",
+      "md5": "cbc2f5f9e434eff51796dd7c5e3999ed",
       "summation": "md5"
     },
     {
       "name": "goerie-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665404964",
-      "size": "331776",
-      "md5": "4c2521d50f685c60f21107216ea4895d",
-      "crc32": "2298a338",
-      "sha1": "4fa6e2142d7a5c0e4cf7f2989647912a87a5f309",
+      "mtime": "1665447103",
+      "size": "339968",
+      "md5": "564478446df9443bb61f90ff6d58bb3f",
+      "crc32": "a9eeab2c",
+      "sha1": "f00f05a4131a546aaacc6bcefd88396281e47853",
       "format": "Metadata"
     },
     {
@@ -2596,9 +2647,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 251,
-  "item_last_updated": 1665405013,
-  "item_size": 17096509,
+  "files_count": 256,
+  "item_last_updated": 1665447143,
+  "item_size": 17514664,
   "metadata": {
     "identifier": "goerie-2022",
     "collection": [
@@ -2615,10 +2666,21 @@
     "publicdate": "2022-09-20 22:18:33",
     "addeddate": "2022-09-20 22:18:33"
   },
+  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "uniq": 1017391250,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3435227287,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1299074135,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia601401.us.archive.org"
   ]
 }

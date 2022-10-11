@@ -1,5 +1,5 @@
 {
-  "created": 1665408189,
+  "created": 1665447291,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/35/items/fostersdailydem-2022",
@@ -2538,31 +2538,82 @@
       "sha1": "6da62ea08a0ac4b8400a7179263e83186214a92b"
     },
     {
+      "name": "fostersdailydem-2022-10-10T20:10:59.546569-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665447066",
+      "size": "23356",
+      "md5": "010ec94b6bc466223c17391cfd3207eb",
+      "crc32": "e52c2b2b",
+      "sha1": "dd8655d87239b74bf10c889640b38666113c04d1",
+      "format": "JSON"
+    },
+    {
+      "name": "fostersdailydem-2022-10-10T20:10:59.546569-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665447070",
+      "size": "38876",
+      "md5": "f976308bc29ee79cceb3d4de5a6ae52a",
+      "crc32": "37d50a24",
+      "sha1": "4a90345acb990ad4b6536294635320edd60e4511",
+      "format": "JSON"
+    },
+    {
+      "name": "fostersdailydem-2022-10-10T20:10:59.546569-04:00.jpg",
+      "source": "original",
+      "mtime": "1665447062",
+      "size": "239769",
+      "md5": "f98667261fe3db51a7cc8891fce85265",
+      "crc32": "62cc5c79",
+      "sha1": "db7b448b4d821ff05d397763dbc3277c801d089b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fostersdailydem-2022-10-10T20:10:59.546569-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665447073",
+      "size": "1468",
+      "md5": "7177cd75bc699f9f7509812b911b56e1",
+      "crc32": "fcafd655",
+      "sha1": "13a41fd898868de5652d94571094377a7c33e4d6",
+      "format": "JSON"
+    },
+    {
+      "name": "fostersdailydem-2022-10-10T20:10:59.546569-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665447075",
+      "size": "100",
+      "md5": "4c88e2f414af5954dc698e4be0195b64",
+      "crc32": "90fd01e1",
+      "sha1": "64d519881501b5795d81b9bebac997a4a0cac27c",
+      "format": "JSON"
+    },
+    {
       "name": "fostersdailydem-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bb996aab7bb21a671384394ebc90fe0f78da1ad0",
-      "mtime": "1665405039",
-      "size": "54728",
-      "md5": "62073abacd7370b8a09219ddbce7c89b",
-      "crc32": "4fb24b2c",
-      "sha1": "f2ad8f52f57de0f73e71988360cc43e9cd5f17db",
+      "btih": "c7e4c851bf23c77038d735c68e85bbb620232021",
+      "mtime": "1665447284",
+      "size": "55804",
+      "md5": "aa2e1711d55914734e1e0acdb470b877",
+      "crc32": "fec980ac",
+      "sha1": "d74646fd177d399d1009284d6a3d9d18305c5649",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fostersdailydem-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "682188adc901fe7dca963dacb4773924",
+      "md5": "39883d3d8ec703011f49a7b6af95f823",
       "summation": "md5"
     },
     {
       "name": "fostersdailydem-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665404988",
-      "size": "335872",
-      "md5": "010fd7502ef29c614fcc4cfa110de976",
-      "crc32": "f21f59a8",
-      "sha1": "926515dbf461eb95d6c307174802a2630c1f7f54",
+      "mtime": "1665447244",
+      "size": "344064",
+      "md5": "fe6002597aee7560c0a20a7a456dd66c",
+      "crc32": "871f91f1",
+      "sha1": "5e8cb5a5bc703cdcdab52010b022642d3e3abdc2",
       "format": "Metadata"
     },
     {
@@ -2576,14 +2627,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 249,
-  "fostersdailydem-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "item_last_updated": 1665405039,
-  "item_size": 17031289,
+  "files_count": 254,
+  "item_last_updated": 1665447284,
+  "item_size": 17344126,
   "metadata": {
     "identifier": "fostersdailydem-2022",
     "collection": [
@@ -2600,10 +2646,21 @@
     "publicdate": "2022-09-20 22:17:24",
     "addeddate": "2022-09-20 22:17:24"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 1710646466,
+  "pending_tasks": true,
+  "server": "ia601506.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3435230436,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1543968909,
   "workable_servers": [
-    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

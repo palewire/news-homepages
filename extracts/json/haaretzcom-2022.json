@@ -1,5 +1,5 @@
 {
-  "created": 1665405500,
+  "created": 1665447241,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/17/items/haaretzcom-2022",
@@ -7128,31 +7128,82 @@
       "sha1": "45a7e72860deae706fd806a7bce4cff30394725f"
     },
     {
+      "name": "haaretzcom-2022-10-11T03:10:52.806703+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665447066",
+      "size": "132702",
+      "md5": "0b1d387005fe7df33d419e67a68fdda6",
+      "crc32": "91d1d170",
+      "sha1": "89eec2a6835526e33e52d7ab000506e3acb7d03d",
+      "format": "JSON"
+    },
+    {
+      "name": "haaretzcom-2022-10-11T03:10:52.806703+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665447069",
+      "size": "102910",
+      "md5": "24589d70fc15d5f645419ccf817eadc7",
+      "crc32": "c0e8ec3a",
+      "sha1": "d954f772df65226ea6568d1282bdb993c725523d",
+      "format": "JSON"
+    },
+    {
+      "name": "haaretzcom-2022-10-11T03:10:52.806703+03:00.jpg",
+      "source": "original",
+      "mtime": "1665447059",
+      "size": "248391",
+      "md5": "753ad4a13b0a2297c0b55846590d173f",
+      "crc32": "f6d720e2",
+      "sha1": "0f67a5877f44d27b96514f55dab7ca3256213b6f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "haaretzcom-2022-10-11T03:10:52.806703+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665447071",
+      "size": "1486",
+      "md5": "5995f228ba32807df2111a632664c35b",
+      "crc32": "99e12cef",
+      "sha1": "67926667847bfca121b822e85c47223d3358469b",
+      "format": "JSON"
+    },
+    {
+      "name": "haaretzcom-2022-10-11T03:10:52.806703+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665447073",
+      "size": "242",
+      "md5": "e1bc9ad3f3856f437d9df12e25bc8ca8",
+      "crc32": "725b9d8e",
+      "sha1": "734718b9d0f1019e7dfa21ae863a4642629f64b3",
+      "format": "JSON"
+    },
+    {
       "name": "haaretzcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ac16f8d41051b5f6f46a77276a7c325605a150aa",
-      "mtime": "1665405311",
-      "size": "148572",
-      "md5": "4cc3cb508cc0059d4d1a901788f01ebd",
-      "crc32": "6e323f14",
-      "sha1": "274213f224b421ade84b70fd4f673a40481dcc09",
+      "btih": "81381f06606f4875172280a38a758e99c78e9a37",
+      "mtime": "1665447233",
+      "size": "149645",
+      "md5": "f41a6017040b5e7f0aeaea918c662614",
+      "crc32": "910680fb",
+      "sha1": "893a9e46499bacdd2265dd356d42f82abb982282",
       "format": "Archive BitTorrent"
     },
     {
       "name": "haaretzcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "adcb883826cb4ed9043307e39ad4af7e",
+      "md5": "da3f4c0b13924c963d87cd7740850376",
       "summation": "md5"
     },
     {
       "name": "haaretzcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665405155",
-      "size": "892928",
-      "md5": "b0f0140f8fcc4174c0986e5bd481467b",
-      "crc32": "00104307",
-      "sha1": "1e66e3af5e35f9f93458cea21441dab101810eb1",
+      "mtime": "1665447188",
+      "size": "901120",
+      "md5": "67e4cc40ed076236e3919ea9026853f3",
+      "crc32": "e8e3f31a",
+      "sha1": "03f2fe38b948887c1fcdd4d9c8b0c752b0c4d9da",
       "format": "Metadata"
     },
     {
@@ -7166,9 +7217,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 693,
-  "item_last_updated": 1665405311,
-  "item_size": 64244498,
+  "files_count": 698,
+  "item_last_updated": 1665447233,
+  "item_size": 64739494,
   "metadata": {
     "identifier": "haaretzcom-2022",
     "collection": [
@@ -7185,10 +7236,21 @@
     "publicdate": "2022-08-13 23:57:56",
     "addeddate": "2022-08-13 23:57:56"
   },
+  "pending_tasks": true,
   "server": "ia601406.us.archive.org",
-  "uniq": 345012997,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3435229392,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 616931544,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia601406.us.archive.org"
   ]
 }

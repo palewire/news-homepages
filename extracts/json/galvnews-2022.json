@@ -1,5 +1,5 @@
 {
-  "created": 1665405045,
+  "created": 1665447171,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/29/items/galvnews-2022",
@@ -9810,31 +9810,82 @@
       "sha1": "95ea78f34fdf498056b83fda26c2d6ae6c4bc13a"
     },
     {
+      "name": "galvnews-2022-10-10T19:10:40.957938-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665447048",
+      "size": "24853",
+      "md5": "d66e4569bf8893e6ae50b1970d3b0e37",
+      "crc32": "9dcbd83d",
+      "sha1": "9a31c815a07e4a64acbb5d7fadfa400d4d64c4af",
+      "format": "JSON"
+    },
+    {
+      "name": "galvnews-2022-10-10T19:10:40.957938-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665447052",
+      "size": "50657",
+      "md5": "e7aa4b2594c9b242213a04ff65005e04",
+      "crc32": "c44918dc",
+      "sha1": "6ed3feda9eaa41fb0bf57a33b5ef754c33ed5a9e",
+      "format": "JSON"
+    },
+    {
+      "name": "galvnews-2022-10-10T19:10:40.957938-05:00.jpg",
+      "source": "original",
+      "mtime": "1665447046",
+      "size": "245797",
+      "md5": "f76cdfb227deb628ea77f585bf230a39",
+      "crc32": "0e289793",
+      "sha1": "447e3f28488aea86f364a961971d2ddbb0b3f784",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "galvnews-2022-10-10T19:10:40.957938-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665447054",
+      "size": "1476",
+      "md5": "c1884d1d6cc1f2f7926c1af02670eec4",
+      "crc32": "dd5dfe75",
+      "sha1": "6c32bb2d56466f28306558ac0ee770875a6c97d0",
+      "format": "JSON"
+    },
+    {
+      "name": "galvnews-2022-10-10T19:10:40.957938-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665447056",
+      "size": "38498",
+      "md5": "e170f92299fdc22a7c8d455820c8a804",
+      "crc32": "97e1c6fc",
+      "sha1": "1d1576ab0c9558bc187c52d086ee6958068a46ee",
+      "format": "JSON"
+    },
+    {
       "name": "galvnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "805490da357b7252fbc629f83a4f01ad6cd15b48",
-      "mtime": "1665405032",
-      "size": "200279",
-      "md5": "c0a51ae50ef9cdbfcb247a5f2fa6a36d",
-      "crc32": "7bf33fc7",
-      "sha1": "9a450b4ad4b7683cbfa02b2ad061df79cee7a3f7",
+      "btih": "838170cfd9947c41a6917f80a4efcaf2abc1dc90",
+      "mtime": "1665447160",
+      "size": "201322",
+      "md5": "d731c2d370013b59e95b231630ba6ae8",
+      "crc32": "4b715598",
+      "sha1": "2742a0d351ac3b5ac4ea9bbde4a5ac64dd78cc38",
       "format": "Archive BitTorrent"
     },
     {
       "name": "galvnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4a4e1a9eb2721120a525f40be144caa5",
+      "md5": "c9fe6e21495bd9ac8fbdfdcde6a02ca4",
       "summation": "md5"
     },
     {
       "name": "galvnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665404959",
-      "size": "1191936",
-      "md5": "9c5442e68a058918bd4826f9bcc281df",
-      "crc32": "85ff6d7f",
-      "sha1": "24bc9bc4ca81e164498111ace23312bfa0f8e056",
+      "mtime": "1665447110",
+      "size": "1200128",
+      "md5": "60942a1230a2bb1abcce62b10dc32242",
+      "crc32": "577a37e2",
+      "sha1": "52bcf97440139de1613b6a8c9a3069af10eb3c1b",
       "format": "Metadata"
     },
     {
@@ -9848,9 +9899,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 950,
-  "item_last_updated": 1665405032,
-  "item_size": 66344322,
+  "files_count": 955,
+  "item_last_updated": 1665447160,
+  "item_size": 66714838,
   "metadata": {
     "identifier": "galvnews-2022",
     "collection": [
@@ -9867,10 +9918,21 @@
     "publicdate": "2022-07-18 00:04:42",
     "addeddate": "2022-07-18 00:04:42"
   },
+  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "uniq": 529705322,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3435227837,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1227779952,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia601505.us.archive.org"
   ]
 }
