@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 42 screenshots with the Internet Archive.
+The archiving routine has saved 43 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 42 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-11T04:11:44.491698-04:00.jpg">
+  <img src="https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-11T04:11:44.491698-04:00.jpg"
+     alt="Burlington Times-News at 2022-10-11 04:11:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-11T04:11:44.491698-04:00.jpg">October 11 at 4:11 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-10T16:14:38.281249-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-05T16:51:08.899835-04:00.jpg">October 5 at 4:51 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-05T03:30:54.604358-04:00.jpg">
-  <img src="https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-05T03:30:54.604358-04:00.jpg"
-     alt="Burlington Times-News at 2022-10-05 03:30:56-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-05T03:30:54.604358-04:00.jpg">October 5 at 3:30 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 42 hyperlink lists with the Internet Archive.
+The archiving routine has saved 43 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 4:11 AM](https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-11T04:11:44.491698-04:00.hyperlinks.json) |
 | [October 10 at 4:14 PM](https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-10T16:14:38.281249-04:00.hyperlinks.json) |
 | [October 10 at 4:24 AM](https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-10T04:24:47.026399-04:00.hyperlinks.json) |
 | [October 9 at 3:59 PM](https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-09T15:59:20.247693-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 7 at 4:25 PM](https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-07T16:25:49.544960-04:00.hyperlinks.json) |
 | [October 7 at 3:56 AM](https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-07T03:56:44.581570-04:00.hyperlinks.json) |
 | [October 6 at 4:32 PM](https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-06T16:31:57.693023-04:00.hyperlinks.json) |
-| [October 6 at 3:21 AM](https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-06T03:21:08.207090-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 42 accessibility trees with the Internet Archive.
+The archiving routine has saved 43 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 4:11 AM](https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-11T04:11:44.491698-04:00.accessibility.json) |
 | [October 10 at 4:14 PM](https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-10T16:14:38.281249-04:00.accessibility.json) |
 | [October 10 at 4:24 AM](https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-10T04:24:47.026399-04:00.accessibility.json) |
 | [October 9 at 3:59 PM](https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-09T15:59:20.247693-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 7 at 4:25 PM](https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-07T16:25:49.544960-04:00.accessibility.json) |
 | [October 7 at 3:56 AM](https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-07T03:56:44.581570-04:00.accessibility.json) |
 | [October 6 at 4:32 PM](https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-06T16:31:57.693023-04:00.accessibility.json) |
-| [October 6 at 3:21 AM](https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-06T03:21:08.207090-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 42 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 4:11 AM](https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-11T04:11:44.491698-04:00.lighthouse.json) |
 | [October 10 at 4:14 PM](https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-10T16:14:38.281249-04:00.lighthouse.json) |
 | [October 10 at 4:24 AM](https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-10T04:24:47.026399-04:00.lighthouse.json) |
 | [October 9 at 3:59 PM](https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-09T15:59:20.247693-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 7 at 4:25 PM](https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-07T16:25:49.544960-04:00.lighthouse.json) |
 | [October 7 at 3:56 AM](https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-07T03:56:44.581570-04:00.lighthouse.json) |
 | [October 6 at 4:32 PM](https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-06T16:31:57.693023-04:00.lighthouse.json) |
-| [October 6 at 3:21 AM](https://archive.org/download/thetimesnews-2022/thetimesnews-2022-10-06T03:21:08.207090-04:00.lighthouse.json) |
 
 
 

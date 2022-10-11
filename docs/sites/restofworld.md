@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 153 screenshots with the Internet Archive.
+The archiving routine has saved 154 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 153 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/restofworld-2022/restofworld-2022-10-11T04:07:01.046472-04:00.jpg">
+  <img src="https://archive.org/download/restofworld-2022/restofworld-2022-10-11T04:07:01.046472-04:00.jpg"
+     alt="Rest of World at 2022-10-11 04:07:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/restofworld-2022/restofworld-2022-10-11T04:07:01.046472-04:00.jpg">October 11 at 4:07 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/restofworld-2022/restofworld-2022-10-10T15:47:21.234036-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/restofworld-2022/restofworld-2022-10-05T16:45:37.211233-04:00.jpg">October 5 at 4:45 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/restofworld-2022/restofworld-2022-10-05T03:25:19.699632-04:00.jpg">
-  <img src="https://archive.org/download/restofworld-2022/restofworld-2022-10-05T03:25:19.699632-04:00.jpg"
-     alt="Rest of World at 2022-10-05 03:25:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/restofworld-2022/restofworld-2022-10-05T03:25:19.699632-04:00.jpg">October 5 at 3:25 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 153 hyperlink lists with the Internet Archive.
+The archiving routine has saved 154 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 4:07 AM](https://archive.org/download/restofworld-2022/restofworld-2022-10-11T04:07:01.046472-04:00.hyperlinks.json) |
 | [October 10 at 3:47 PM](https://archive.org/download/restofworld-2022/restofworld-2022-10-10T15:47:21.234036-04:00.hyperlinks.json) |
 | [October 10 at 4:37 AM](https://archive.org/download/restofworld-2022/restofworld-2022-10-10T04:37:14.714092-04:00.hyperlinks.json) |
 | [October 9 at 3:23 PM](https://archive.org/download/restofworld-2022/restofworld-2022-10-09T15:23:15.658032-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 7 at 3:50 PM](https://archive.org/download/restofworld-2022/restofworld-2022-10-07T15:50:22.961291-04:00.hyperlinks.json) |
 | [October 7 at 3:49 AM](https://archive.org/download/restofworld-2022/restofworld-2022-10-07T03:49:18.047983-04:00.hyperlinks.json) |
 | [October 6 at 3:40 PM](https://archive.org/download/restofworld-2022/restofworld-2022-10-06T15:39:47.973527-04:00.hyperlinks.json) |
-| [October 6 at 3:17 AM](https://archive.org/download/restofworld-2022/restofworld-2022-10-06T03:16:51.535868-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 154 accessibility trees with the Internet Archive.
+The archiving routine has saved 155 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 4:07 AM](https://archive.org/download/restofworld-2022/restofworld-2022-10-11T04:07:01.046472-04:00.accessibility.json) |
 | [October 10 at 3:47 PM](https://archive.org/download/restofworld-2022/restofworld-2022-10-10T15:47:21.234036-04:00.accessibility.json) |
 | [October 10 at 4:37 AM](https://archive.org/download/restofworld-2022/restofworld-2022-10-10T04:37:14.714092-04:00.accessibility.json) |
 | [October 9 at 3:23 PM](https://archive.org/download/restofworld-2022/restofworld-2022-10-09T15:23:15.658032-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 7 at 3:50 PM](https://archive.org/download/restofworld-2022/restofworld-2022-10-07T15:50:22.961291-04:00.accessibility.json) |
 | [October 7 at 3:49 AM](https://archive.org/download/restofworld-2022/restofworld-2022-10-07T03:49:18.047983-04:00.accessibility.json) |
 | [October 6 at 3:40 PM](https://archive.org/download/restofworld-2022/restofworld-2022-10-06T15:39:47.973527-04:00.accessibility.json) |
-| [October 6 at 3:17 AM](https://archive.org/download/restofworld-2022/restofworld-2022-10-06T03:16:51.535868-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 153 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 154 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 4:07 AM](https://archive.org/download/restofworld-2022/restofworld-2022-10-11T04:07:01.046472-04:00.lighthouse.json) |
 | [October 10 at 3:47 PM](https://archive.org/download/restofworld-2022/restofworld-2022-10-10T15:47:21.234036-04:00.lighthouse.json) |
 | [October 10 at 4:37 AM](https://archive.org/download/restofworld-2022/restofworld-2022-10-10T04:37:14.714092-04:00.lighthouse.json) |
 | [October 9 at 3:23 PM](https://archive.org/download/restofworld-2022/restofworld-2022-10-09T15:23:15.658032-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 7 at 3:50 PM](https://archive.org/download/restofworld-2022/restofworld-2022-10-07T15:50:22.961291-04:00.lighthouse.json) |
 | [October 7 at 3:49 AM](https://archive.org/download/restofworld-2022/restofworld-2022-10-07T03:49:18.047983-04:00.lighthouse.json) |
 | [October 6 at 3:40 PM](https://archive.org/download/restofworld-2022/restofworld-2022-10-06T15:39:47.973527-04:00.lighthouse.json) |
-| [October 6 at 3:17 AM](https://archive.org/download/restofworld-2022/restofworld-2022-10-06T03:16:51.535868-04:00.lighthouse.json) |
 
 
 

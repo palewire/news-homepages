@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 258 screenshots with the Internet Archive.
+The archiving routine has saved 260 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,6 +120,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/tass_agency-2022/tass_agency-2022-10-11T11:16:25.672057+03:00.jpg">
+  <img src="https://archive.org/download/tass_agency-2022/tass_agency-2022-10-11T11:16:25.672057+03:00.jpg"
+     alt="TASS at 2022-10-11 11:16:27+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tass_agency-2022/tass_agency-2022-10-11T11:16:25.672057+03:00.jpg">October 11 at 11:16 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tass_agency-2022/tass_agency-2022-10-11T11:10:02.392649+03:00.jpg">
+  <img src="https://archive.org/download/tass_agency-2022/tass_agency-2022-10-11T11:10:02.392649+03:00.jpg"
+     alt="TASS at 2022-10-11 11:10:04+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tass_agency-2022/tass_agency-2022-10-11T11:10:02.392649+03:00.jpg">October 11 at 11:10 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/tass_agency-2022/tass_agency-2022-10-10T23:11:25.121480+03:00.jpg">
   <img src="https://archive.org/download/tass_agency-2022/tass_agency-2022-10-10T23:11:25.121480+03:00.jpg"
      alt="TASS at 2022-10-10 23:11:38+03:00 local time"
@@ -209,29 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/tass_agency-2022/tass_agency-2022-10-07T23:23:31.903993+03:00.jpg">October 7 at 11:23 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/tass_agency-2022/tass_agency-2022-10-07T10:53:30.140080+03:00.jpg">
-  <img src="https://archive.org/download/tass_agency-2022/tass_agency-2022-10-07T10:53:30.140080+03:00.jpg"
-     alt="TASS at 2022-10-07 10:53:32+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tass_agency-2022/tass_agency-2022-10-07T10:53:30.140080+03:00.jpg">October 7 at 10:53 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tass_agency-2022/tass_agency-2022-10-07T10:51:00.203841+03:00.jpg">
-  <img src="https://archive.org/download/tass_agency-2022/tass_agency-2022-10-07T10:51:00.203841+03:00.jpg"
-     alt="TASS at 2022-10-07 10:51:31+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tass_agency-2022/tass_agency-2022-10-07T10:51:00.203841+03:00.jpg">October 7 at 10:51 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 256 hyperlink lists with the Internet Archive.
+The archiving routine has saved 258 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 11:16 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-11T11:16:25.672057+03:00.hyperlinks.json) |
+| [October 11 at 11:10 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-11T11:10:02.392649+03:00.hyperlinks.json) |
 | [October 10 at 11:11 PM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-10T23:11:25.121480+03:00.hyperlinks.json) |
 | [October 10 at 11:22 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-10T11:22:03.667119+03:00.hyperlinks.json) |
 | [October 10 at 11:21 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-10T11:21:49.249563+03:00.hyperlinks.json) |
@@ -330,13 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 9 at 10:23 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-09T10:23:14.065697+03:00.hyperlinks.json) |
 | [October 8 at 10:06 PM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-08T22:06:02.520896+03:00.hyperlinks.json) |
 | [October 8 at 10:10 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-08T10:10:43.034732+03:00.hyperlinks.json) |
-| [October 8 at 10:10 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-08T10:10:15.564236+03:00.hyperlinks.json) |
-| [October 7 at 11:23 PM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-07T23:23:31.903993+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 258 accessibility trees with the Internet Archive.
+The archiving routine has saved 260 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 11:16 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-11T11:16:25.672057+03:00.accessibility.json) |
+| [October 11 at 11:10 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-11T11:10:02.392649+03:00.accessibility.json) |
 | [October 10 at 11:11 PM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-10T23:11:25.121480+03:00.accessibility.json) |
 | [October 10 at 11:22 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-10T11:22:03.667119+03:00.accessibility.json) |
 | [October 10 at 11:21 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-10T11:21:49.249563+03:00.accessibility.json) |
@@ -435,14 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [October 9 at 10:23 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-09T10:23:14.065697+03:00.accessibility.json) |
 | [October 8 at 10:06 PM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-08T22:06:02.520896+03:00.accessibility.json) |
 | [October 8 at 10:10 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-08T10:10:43.034732+03:00.accessibility.json) |
-| [October 8 at 10:10 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-08T10:10:15.564236+03:00.accessibility.json) |
-| [October 7 at 11:23 PM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-07T23:23:31.903993+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 145 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 147 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 11:16 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-11T11:16:25.672057+03:00.lighthouse.json) |
+| [October 11 at 11:10 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-11T11:10:02.392649+03:00.lighthouse.json) |
 | [October 10 at 11:11 PM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-10T23:11:25.121480+03:00.lighthouse.json) |
 | [October 10 at 11:22 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-10T11:22:03.667119+03:00.lighthouse.json) |
 | [October 9 at 10:56 PM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-09T22:55:54.152232+03:00.lighthouse.json) |
@@ -541,8 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 7 at 10:53 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-07T10:53:30.140080+03:00.lighthouse.json) |
 | [October 7 at 10:51 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-07T10:51:00.203841+03:00.lighthouse.json) |
 | [October 6 at 11:28 PM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-06T23:28:34.747156+03:00.lighthouse.json) |
-| [October 6 at 10:11 AM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-06T10:11:04.251017+03:00.lighthouse.json) |
-| [October 5 at 11:49 PM](https://archive.org/download/tass_agency-2022/tass_agency-2022-10-05T23:49:08.306192+03:00.lighthouse.json) |
 
 
 
