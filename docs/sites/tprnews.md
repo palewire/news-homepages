@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 199 screenshots with the Internet Archive.
+The archiving routine has saved 200 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 199 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tprnews-2022/tprnews-2022-10-11T10:16:58.810929-05:00.jpg">
+  <img src="https://archive.org/download/tprnews-2022/tprnews-2022-10-11T10:16:58.810929-05:00.jpg"
+     alt="Texas Public Radio at 2022-10-11 10:17:10-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-10-11T10:16:58.810929-05:00.jpg">October 11 at 10:17 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tprnews-2022/tprnews-2022-10-10T22:57:50.187030-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-10-05T23:19:40.918746-05:00.jpg">October 5 at 11:19 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/tprnews-2022/tprnews-2022-10-05T10:34:45.930450-05:00.jpg">
-  <img src="https://archive.org/download/tprnews-2022/tprnews-2022-10-05T10:34:45.930450-05:00.jpg"
-     alt="Texas Public Radio at 2022-10-05 10:34:57-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tprnews-2022/tprnews-2022-10-05T10:34:45.930450-05:00.jpg">October 5 at 10:34 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 200 hyperlink lists with the Internet Archive.
+The archiving routine has saved 201 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 10:17 AM](https://archive.org/download/tprnews-2022/tprnews-2022-10-11T10:16:58.810929-05:00.hyperlinks.json) |
 | [October 10 at 10:58 PM](https://archive.org/download/tprnews-2022/tprnews-2022-10-10T22:57:50.187030-05:00.hyperlinks.json) |
 | [October 10 at 10:24 AM](https://archive.org/download/tprnews-2022/tprnews-2022-10-10T10:24:43.720753-05:00.hyperlinks.json) |
 | [October 9 at 10:58 PM](https://archive.org/download/tprnews-2022/tprnews-2022-10-09T22:57:56.509774-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 7 at 10:45 PM](https://archive.org/download/tprnews-2022/tprnews-2022-10-07T22:45:08.394240-05:00.hyperlinks.json) |
 | [October 7 at 10:13 AM](https://archive.org/download/tprnews-2022/tprnews-2022-10-07T10:13:04.995794-05:00.hyperlinks.json) |
 | [October 6 at 11:31 PM](https://archive.org/download/tprnews-2022/tprnews-2022-10-06T23:30:45.982572-05:00.hyperlinks.json) |
-| [October 6 at 10:11 AM](https://archive.org/download/tprnews-2022/tprnews-2022-10-06T10:10:49.090160-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 200 accessibility trees with the Internet Archive.
+The archiving routine has saved 201 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 10:17 AM](https://archive.org/download/tprnews-2022/tprnews-2022-10-11T10:16:58.810929-05:00.accessibility.json) |
 | [October 10 at 10:58 PM](https://archive.org/download/tprnews-2022/tprnews-2022-10-10T22:57:50.187030-05:00.accessibility.json) |
 | [October 10 at 10:24 AM](https://archive.org/download/tprnews-2022/tprnews-2022-10-10T10:24:43.720753-05:00.accessibility.json) |
 | [October 9 at 10:58 PM](https://archive.org/download/tprnews-2022/tprnews-2022-10-09T22:57:56.509774-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 7 at 10:45 PM](https://archive.org/download/tprnews-2022/tprnews-2022-10-07T22:45:08.394240-05:00.accessibility.json) |
 | [October 7 at 10:13 AM](https://archive.org/download/tprnews-2022/tprnews-2022-10-07T10:13:04.995794-05:00.accessibility.json) |
 | [October 6 at 11:31 PM](https://archive.org/download/tprnews-2022/tprnews-2022-10-06T23:30:45.982572-05:00.accessibility.json) |
-| [October 6 at 10:11 AM](https://archive.org/download/tprnews-2022/tprnews-2022-10-06T10:10:49.090160-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 160 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 161 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 10:17 AM](https://archive.org/download/tprnews-2022/tprnews-2022-10-11T10:16:58.810929-05:00.lighthouse.json) |
 | [October 10 at 10:58 PM](https://archive.org/download/tprnews-2022/tprnews-2022-10-10T22:57:50.187030-05:00.lighthouse.json) |
 | [October 10 at 10:24 AM](https://archive.org/download/tprnews-2022/tprnews-2022-10-10T10:24:43.720753-05:00.lighthouse.json) |
 | [October 9 at 10:58 PM](https://archive.org/download/tprnews-2022/tprnews-2022-10-09T22:57:56.509774-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 7 at 10:45 PM](https://archive.org/download/tprnews-2022/tprnews-2022-10-07T22:45:08.394240-05:00.lighthouse.json) |
 | [October 7 at 10:13 AM](https://archive.org/download/tprnews-2022/tprnews-2022-10-07T10:13:04.995794-05:00.lighthouse.json) |
 | [October 6 at 11:31 PM](https://archive.org/download/tprnews-2022/tprnews-2022-10-06T23:30:45.982572-05:00.lighthouse.json) |
-| [October 6 at 10:11 AM](https://archive.org/download/tprnews-2022/tprnews-2022-10-06T10:10:49.090160-05:00.lighthouse.json) |
 
 
 

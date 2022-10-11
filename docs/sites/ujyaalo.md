@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 156 screenshots with the Internet Archive.
+The archiving routine has saved 157 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 156 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-11T21:01:49.695161+05:45.jpg">
+  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-11T21:01:49.695161+05:45.jpg"
+     alt="Ujyaalo at 2022-10-11 21:02:06+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-11T21:01:49.695161+05:45.jpg">October 11 at 9:02 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-11T09:42:15.370562+05:45.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-06T10:04:50.359863+05:45.jpg">October 6 at 10:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-05T21:19:07.063343+05:45.jpg">
-  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-05T21:19:07.063343+05:45.jpg"
-     alt="Ujyaalo at 2022-10-05 21:19:17+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-05T21:19:07.063343+05:45.jpg">October 5 at 9:19 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 158 hyperlink lists with the Internet Archive.
+The archiving routine has saved 159 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 9:02 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-11T21:01:49.695161+05:45.hyperlinks.json) |
 | [October 11 at 9:42 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-11T09:42:15.370562+05:45.hyperlinks.json) |
 | [October 10 at 9:09 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-10T21:09:34.861154+05:45.hyperlinks.json) |
 | [October 10 at 9:43 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-10T09:43:09.074780+05:45.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 9:30 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-08T09:30:07.862487+05:45.hyperlinks.json) |
 | [October 7 at 8:58 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-07T20:58:36.105287+05:45.hyperlinks.json) |
 | [October 7 at 10:14 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-07T10:14:55.571698+05:45.hyperlinks.json) |
-| [October 6 at 8:56 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-06T20:56:06.653937+05:45.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 158 accessibility trees with the Internet Archive.
+The archiving routine has saved 159 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 9:02 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-11T21:01:49.695161+05:45.accessibility.json) |
 | [October 11 at 9:42 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-11T09:42:15.370562+05:45.accessibility.json) |
 | [October 10 at 9:09 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-10T21:09:34.861154+05:45.accessibility.json) |
 | [October 10 at 9:43 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-10T09:43:09.074780+05:45.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 9:30 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-08T09:30:07.862487+05:45.accessibility.json) |
 | [October 7 at 8:58 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-07T20:58:36.105287+05:45.accessibility.json) |
 | [October 7 at 10:14 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-07T10:14:55.571698+05:45.accessibility.json) |
-| [October 6 at 8:56 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-06T20:56:06.653937+05:45.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 157 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 158 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 9:02 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-11T21:01:49.695161+05:45.lighthouse.json) |
 | [October 11 at 9:42 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-11T09:42:15.370562+05:45.lighthouse.json) |
 | [October 10 at 9:09 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-10T21:09:34.861154+05:45.lighthouse.json) |
 | [October 10 at 9:43 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-10T09:43:09.074780+05:45.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 9:30 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-08T09:30:07.862487+05:45.lighthouse.json) |
 | [October 7 at 8:58 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-07T20:58:36.105287+05:45.lighthouse.json) |
 | [October 7 at 10:15 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-07T10:14:55.571698+05:45.lighthouse.json) |
-| [October 6 at 8:56 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-06T20:56:06.653937+05:45.lighthouse.json) |
 
 
 
