@@ -1,5 +1,5 @@
 {
-  "created": 1665431007,
+  "created": 1665476893,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/27/items/objectivejrn-2022",
@@ -10696,31 +10696,93 @@
       "sha1": "63349aeead9bae0f60aa440f4426d18d1dbe2190"
     },
     {
+      "name": "objectivejrn-2022-10-11T01:03:51.968016-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665475442",
+      "size": "15948",
+      "md5": "ad157ed49cc57f68b5229160659ab0bc",
+      "crc32": "1e54ec4d",
+      "sha1": "3180ac547e3295f461516657c9f3ab8594801aa6",
+      "format": "JSON"
+    },
+    {
+      "name": "objectivejrn-2022-10-11T01:03:51.968016-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665475445",
+      "size": "13896",
+      "md5": "42ea51db14df5e5db38b5fb1c0886dc1",
+      "crc32": "0249efef",
+      "sha1": "1825bda1dc2b2713e69a4dc4f5e51ed3cfbf1317",
+      "format": "JSON"
+    },
+    {
+      "name": "objectivejrn-2022-10-11T01:03:51.968016-07:00.jpg",
+      "source": "original",
+      "mtime": "1665475441",
+      "size": "302964",
+      "md5": "5e0a0dcdb1d8f435fdea7e44c3703acd",
+      "crc32": "d4a17b54",
+      "sha1": "afc626c609a9f6fc28270c7aa4fbed6f7d222e3c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "objectivejrn-2022-10-11T01:03:51.968016-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665475446",
+      "size": "1526",
+      "md5": "d36b47b272f199ecf823e6e572652682",
+      "crc32": "425fda4f",
+      "sha1": "1b4a349266c807e163dd6c90eccd6509e40eb65f",
+      "format": "JSON"
+    },
+    {
+      "name": "objectivejrn-2022-10-11T01:03:51.968016-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665475448",
+      "size": "256",
+      "md5": "03a86593ff18e904dc3e0ef68417df39",
+      "crc32": "434703a3",
+      "sha1": "b60edc6b2750c412e13112e3347f364774c08965",
+      "format": "JSON"
+    },
+    {
+      "name": "objectivejrn-2022-10-11T01:03:51.968016-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "objectivejrn-2022-10-11T01:03:51.968016-07:00.jpg",
+      "mtime": "1665475521",
+      "size": "10678",
+      "md5": "9357c95e1e9ca4400e5d771da6cca78a",
+      "crc32": "1690ddfa",
+      "sha1": "63349aeead9bae0f60aa440f4426d18d1dbe2190"
+    },
+    {
       "name": "objectivejrn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e43f931bd28149a931a187cd6fca9cb72e400d92",
-      "mtime": "1665431000",
-      "size": "222191",
-      "md5": "1686f87e3b6f94beeda91c1c3ab29132",
-      "crc32": "d7c18677",
-      "sha1": "56990e72b8f2b3b0f339571a3256065fa17553f8",
+      "btih": "c09092ffa350f09a9a6b330100e1b149da5b47ea",
+      "mtime": "1665475532",
+      "size": "223481",
+      "md5": "9370c69762712f816df9d255e0df34c4",
+      "crc32": "41af349e",
+      "sha1": "c4fe92efd32e23abecab7f84c3c14273f9895150",
       "format": "Archive BitTorrent"
     },
     {
       "name": "objectivejrn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "69bca49dc6599f0ee80a2c7210bf2591",
+      "md5": "87cf1d039cc9848379606112d5518559",
       "summation": "md5"
     },
     {
       "name": "objectivejrn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665430918",
-      "size": "1310720",
-      "md5": "e5617e877b50ff960105f0b4ad59e78d",
-      "crc32": "9f012ec7",
-      "sha1": "ba91d113e3f801b50239d98a3656b04954c46b43",
+      "mtime": "1665475453",
+      "size": "1318912",
+      "md5": "43d356971f5a1ecec1afa21916e0ca40",
+      "crc32": "323cbeed",
+      "sha1": "bd4def596de1dc8ff4c0e2c33a1eb11d3dc56264",
       "format": "Metadata"
     },
     {
@@ -10734,9 +10796,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1036,
-  "item_last_updated": 1665431000,
-  "item_size": 57243394,
+  "files_count": 1042,
+  "item_last_updated": 1665475532,
+  "item_size": 57598144,
   "metadata": {
     "identifier": "objectivejrn-2022",
     "collection": [
@@ -10753,10 +10815,18 @@
     "publicdate": "2022-07-09 04:01:28",
     "addeddate": "2022-07-09 04:01:28"
   },
-  "server": "ia601401.us.archive.org",
-  "uniq": 1883574966,
+  "objectivejrn-2022": {
+    "url": "https://objectivejournalism.org/",
+    "job_id": "spn2-7c030fd8e7f6d8ae317fe89b59a58a83e4d09bcd",
+    "resources": [],
+    "status": "error",
+    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 777.",
+    "status_ext": "WorkerLostError"
+  },
+  "server": "ia801401.us.archive.org",
+  "uniq": 224715759,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }

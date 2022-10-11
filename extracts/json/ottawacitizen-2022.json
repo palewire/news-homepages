@@ -1,5 +1,5 @@
 {
-  "created": 1665431048,
+  "created": 1665475746,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/4/items/ottawacitizen-2022",
@@ -12170,31 +12170,93 @@
       "sha1": "56f09cdb94a89359b75cdf8332fbec649b437a11"
     },
     {
+      "name": "ottawacitizen-2022-10-11T04:05:13.284614-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665475525",
+      "size": "62584",
+      "md5": "99399cff73d71f133a2428ebd45a4981",
+      "crc32": "99894789",
+      "sha1": "c4079c40db905c629ad2ebe4fc28cd340b0d40c4",
+      "format": "JSON"
+    },
+    {
+      "name": "ottawacitizen-2022-10-11T04:05:13.284614-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665475527",
+      "size": "51715",
+      "md5": "37df6fe2bf9ee329fa78178c6f803d2a",
+      "crc32": "8ed30d04",
+      "sha1": "d2313f8f0dbdd1cb70415b785ecdb5753bc9cb4a",
+      "format": "JSON"
+    },
+    {
+      "name": "ottawacitizen-2022-10-11T04:05:13.284614-04:00.jpg",
+      "source": "original",
+      "mtime": "1665475522",
+      "size": "319167",
+      "md5": "f9fcbdf3183cf413905c332044dd7b5f",
+      "crc32": "89f9e0c2",
+      "sha1": "2bc79092dd53532076464b347e6338b3b0d23e52",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ottawacitizen-2022-10-11T04:05:13.284614-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665475528",
+      "size": "1483",
+      "md5": "2da7e78a3dc0d24149f8284af93de777",
+      "crc32": "15d31ed3",
+      "sha1": "60eb44a4630f2521c25e9ee44c2d30da3027bacb",
+      "format": "JSON"
+    },
+    {
+      "name": "ottawacitizen-2022-10-11T04:05:13.284614-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665475530",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ottawacitizen-2022-10-11T04:05:13.284614-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ottawacitizen-2022-10-11T04:05:13.284614-04:00.jpg",
+      "mtime": "1665475685",
+      "size": "10176",
+      "md5": "e87162c9a7d6edd25bc84e4181a237db",
+      "crc32": "135680a8",
+      "sha1": "e9803a5c93bc655cd997e149b289a60862657438"
+    },
+    {
       "name": "ottawacitizen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c97473da09896b44e2bf9a4f392fe46b32a00bde",
-      "mtime": "1665431025",
-      "size": "254361",
-      "md5": "a5a13e18abe2f8c79216c8c806336f02",
-      "crc32": "c5124796",
-      "sha1": "8519a30a1eb254df303357bb89c1065ec93cceb2",
+      "btih": "76b1843f2e2da1e807028a3bfc19268630b0fb5e",
+      "mtime": "1665475715",
+      "size": "255657",
+      "md5": "e1dc931a1725f098ceb493d063cd9f5f",
+      "crc32": "069a768a",
+      "sha1": "b08969e2b4fc5af0e4ca8cfa22de67afe5b1b1bf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ottawacitizen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8de6c68dc37f9c27783c84e781be1bc4",
+      "md5": "8f1559e58e205ff08264a577a8375678",
       "summation": "md5"
     },
     {
       "name": "ottawacitizen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665430917",
-      "size": "1474560",
-      "md5": "6c772f219f02cc5daebff77ec0432017",
-      "crc32": "17444ee3",
-      "sha1": "b901c359f15ff0020d4a3e6a74d385f6a11880b4",
+      "mtime": "1665475566",
+      "size": "1478656",
+      "md5": "6d44ecb6476ac6a9696372c5647da3d0",
+      "crc32": "d3040da5",
+      "sha1": "12184079a649573091bc9e59ab1433fd246b9312",
       "format": "Metadata"
     },
     {
@@ -12208,9 +12270,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1176,
-  "item_last_updated": 1665431025,
-  "item_size": 98669891,
+  "files_count": 1182,
+  "item_last_updated": 1665475715,
+  "item_size": 99120610,
   "metadata": {
     "identifier": "ottawacitizen-2022",
     "collection": [
@@ -12227,10 +12289,10 @@
     "publicdate": "2022-06-30 22:35:58",
     "addeddate": "2022-06-30 22:35:58"
   },
-  "server": "ia601508.us.archive.org",
-  "uniq": 1309102971,
+  "server": "ia801508.us.archive.org",
+  "uniq": 428688496,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia801508.us.archive.org",
+    "ia601508.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1665433793,
+  "created": 1665475574,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/33/items/ntdaily-2022",
@@ -10046,31 +10046,93 @@
       "sha1": "660c7453498e6e8caf382aad64a70e76722b6bf7"
     },
     {
+      "name": "ntdaily-2022-10-11T03:04:32.383164-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665475476",
+      "size": "59326",
+      "md5": "1c56bac4d869796ac4078e7e18ff678d",
+      "crc32": "29f532ca",
+      "sha1": "e8bc9ca8b8a675f5a26da18c992de2b4cbab0172",
+      "format": "JSON"
+    },
+    {
+      "name": "ntdaily-2022-10-11T03:04:32.383164-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665475478",
+      "size": "50125",
+      "md5": "8c3a2ab0a5d8525b8f083bd3be178e1b",
+      "crc32": "cb39caee",
+      "sha1": "b5fa412b6cc35fe4c2a220aeb22c349edaf6eb45",
+      "format": "JSON"
+    },
+    {
+      "name": "ntdaily-2022-10-11T03:04:32.383164-05:00.jpg",
+      "source": "original",
+      "mtime": "1665475474",
+      "size": "219984",
+      "md5": "04b787140ccc5e2a83699080de748e50",
+      "crc32": "0106b3b5",
+      "sha1": "78dcc0e40ba5101f4c999379fcbc021f24e398c2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ntdaily-2022-10-11T03:04:32.383164-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665475480",
+      "size": "1468",
+      "md5": "f3bb2b42ab6a4b774f16e540db8f0845",
+      "crc32": "ffb271e0",
+      "sha1": "0a6854be71823de3c57e9c837e527dd4f5e17f2e",
+      "format": "JSON"
+    },
+    {
+      "name": "ntdaily-2022-10-11T03:04:32.383164-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665475481",
+      "size": "21758",
+      "md5": "85dac2437163d454a52c7360e2258414",
+      "crc32": "a9d7b3ee",
+      "sha1": "86d73028d809661048f4ce77d193ecd70e504ada",
+      "format": "JSON"
+    },
+    {
+      "name": "ntdaily-2022-10-11T03:04:32.383164-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ntdaily-2022-10-11T03:04:32.383164-05:00.jpg",
+      "mtime": "1665475552",
+      "size": "8879",
+      "md5": "58e42d7745138a9ff111e3332eab70ed",
+      "crc32": "1be3316e",
+      "sha1": "660c7453498e6e8caf382aad64a70e76722b6bf7"
+    },
+    {
       "name": "ntdaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "49eee05ba9992ab4d6edab339107131d710de3c8",
-      "mtime": "1665430998",
-      "size": "204181",
-      "md5": "088b245d87282aacb7459365e137b9c7",
-      "crc32": "eb863757",
-      "sha1": "15c890102d3c6561907d07b82ed482532604ef9b",
+      "btih": "3161b11309975be6f531268f3f6db6ff83e17779",
+      "mtime": "1665475562",
+      "size": "205442",
+      "md5": "21059153aaf764087115f86a781e9ff8",
+      "crc32": "31e3e162",
+      "sha1": "a03c5d932e1034068a7d4a917a30dd407b6b71b2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ntdaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "af892a3e5fb76bf7c919909165caab33",
+      "md5": "81bed028b596ca8bf942ef340c8d1eac",
       "summation": "md5"
     },
     {
       "name": "ntdaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665430925",
-      "size": "1228800",
-      "md5": "3a7aade2fafa52b98eafcaa0ff694d68",
-      "crc32": "a1926b71",
-      "sha1": "43c738625043ce660a87cbe07b94cc67bcf949cb",
+      "mtime": "1665475491",
+      "size": "1241088",
+      "md5": "d0fc0936bcc9077daefaf2e7c3182971",
+      "crc32": "196cfe94",
+      "sha1": "73ac61af00956708754456f0b388b3b8281e4177",
       "format": "Metadata"
     },
     {
@@ -10084,9 +10146,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 974,
-  "item_last_updated": 1665430998,
-  "item_size": 59343244,
+  "files_count": 980,
+  "item_last_updated": 1665475562,
+  "item_size": 59718333,
   "metadata": {
     "identifier": "ntdaily-2022",
     "collection": [
@@ -10103,13 +10165,8 @@
     "publicdate": "2022-07-18 00:05:16",
     "addeddate": "2022-07-18 00:05:16"
   },
-  "ntdaily-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "server": "ia801504.us.archive.org",
-  "uniq": 1672713710,
+  "uniq": 174237879,
   "workable_servers": [
     "ia801504.us.archive.org",
     "ia601504.us.archive.org"
