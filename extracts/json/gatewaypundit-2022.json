@@ -1,5 +1,5 @@
 {
-  "created": 1665515505,
+  "created": 1665518097,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/2/items/gatewaypundit-2022",
@@ -16566,31 +16566,82 @@
       "sha1": "8645ed62c4f2b76ef9ee5bb8f7e1f2c509ecaf51"
     },
     {
+      "name": "gatewaypundit-2022-10-11T14:53:30.654308-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665518013",
+      "size": "34725",
+      "md5": "011656641715ef73ab84fb1b1a66a2ea",
+      "crc32": "81813e17",
+      "sha1": "a601874a416e603e0e629ec6d04a5d1b5055fd44",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-10-11T14:53:30.654308-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665518014",
+      "size": "77811",
+      "md5": "4b45b0cc420de12e46bfdfb375f59670",
+      "crc32": "2ad9e215",
+      "sha1": "f3cacf272a531f0a0e039514e3735290bb7a1761",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-10-11T14:53:30.654308-05:00.jpg",
+      "source": "original",
+      "mtime": "1665518012",
+      "size": "328788",
+      "md5": "60e216501547d6713205451fd9fef3ee",
+      "crc32": "e01bfcc9",
+      "sha1": "74c1b82fa290ace49d81b92bf262e7144fd951bf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gatewaypundit-2022-10-11T14:53:30.654308-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665518016",
+      "size": "1548",
+      "md5": "728ee6c5c9790288224d931fde716d85",
+      "crc32": "01004719",
+      "sha1": "99aa0371e425bd65851ebbc2142ab5cd9b64e35b",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-10-11T14:53:30.654308-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665518018",
+      "size": "43055",
+      "md5": "421f204782157718a2b6a39f44714110",
+      "crc32": "c1c5d16b",
+      "sha1": "c3a04fb10d5ee90c06a824841a1f5590c41b595c",
+      "format": "JSON"
+    },
+    {
       "name": "gatewaypundit-2022_archive.torrent",
       "source": "metadata",
-      "btih": "28629e5ce2e4de9148e6748581c0475dfea1add2",
-      "mtime": "1665511601",
-      "size": "346613",
-      "md5": "7a3edb6986d555bd5804e49c847cafbc",
-      "crc32": "f3bc432f",
-      "sha1": "5c480b7079448f9e260c50e796868ad2c2781f79",
+      "btih": "d0aff0cdbfa61e4b99cbda4ac615e38b4239b818",
+      "mtime": "1665518088",
+      "size": "347701",
+      "md5": "69525e10f83d98f11b25051f1f970859",
+      "crc32": "f9069312",
+      "sha1": "c00745e2b9608dab1cba2870153e63c8a8e3ad70",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gatewaypundit-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b0509086eb1170fae847c8223b0024a5",
+      "md5": "d4e791896a88c2f8066d2c07ea0a0a78",
       "summation": "md5"
     },
     {
       "name": "gatewaypundit-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665511398",
-      "size": "2007040",
-      "md5": "3ca8c5a1fbd1dd315b2086c44ac5ca3f",
-      "crc32": "b653e1e1",
-      "sha1": "e2a29a0173c7a7312052a29fe83e7b9e396d2614",
+      "mtime": "1665518025",
+      "size": "2019328",
+      "md5": "4eebfe5c555c7fb31ce76a66f7f486b9",
+      "crc32": "039a0cfc",
+      "sha1": "03efdc98a3dcead87b20c3bcfbd157fb38674a1b",
       "format": "Metadata"
     },
     {
@@ -16604,9 +16655,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1601,
-  "item_last_updated": 1665511601,
-  "item_size": 139889619,
+  "files_count": 1606,
+  "item_last_updated": 1665518088,
+  "item_size": 140388922,
   "metadata": {
     "identifier": "gatewaypundit-2022",
     "collection": [
@@ -16623,10 +16674,21 @@
     "publicdate": "2022-07-02 15:24:15",
     "addeddate": "2022-07-02 15:24:15"
   },
+  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "uniq": 160295414,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3436141002,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1903011799,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia601500.us.archive.org"
   ]
 }

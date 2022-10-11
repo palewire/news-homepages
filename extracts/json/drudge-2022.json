@@ -1,5 +1,6 @@
 {
-  "created": 1665490132,
+  "conflict": 1665518054,
+  "created": 1665518054,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/10/items/drudge-2022",
@@ -22656,31 +22657,78 @@
       "sha1": "25a8f19d690c57967aff0197544cd32838487453"
     },
     {
+      "name": "drudge-2022-10-11T15:52:16.031306-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665517939",
+      "size": "24810",
+      "md5": "d024b49637c1f7d63c2e010738953dbf",
+      "crc32": "ba8734b1",
+      "sha1": "8b425625a190b13c75d072e8e722fbaf96402ac5",
+      "format": "JSON"
+    },
+    {
+      "name": "drudge-2022-10-11T15:52:16.031306-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665517941",
+      "size": "28454",
+      "md5": "2d3641433614885c8aa6def48523db32",
+      "crc32": "aae5407c",
+      "sha1": "9c323cd47ce5db9006b71a469e41d7abbef5cbd5",
+      "format": "JSON"
+    },
+    {
+      "name": "drudge-2022-10-11T15:52:16.031306-04:00.jpg",
+      "source": "original",
+      "mtime": "1665517938",
+      "size": "210164",
+      "md5": "359733427043bef97a33435b48fbab0d",
+      "crc32": "b1ad0329",
+      "sha1": "20c58586c60f4c91d4918bfec3513acdc268ec35",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "drudge-2022-10-11T15:52:16.031306-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665517943",
+      "size": "1476",
+      "md5": "8631dc75210487ab8ce8caaa9f47351e",
+      "crc32": "2186b598",
+      "sha1": "a617232bd57d27e469a11ee91ce8c2c776cf997b",
+      "format": "JSON"
+    },
+    {
+      "name": "drudge-2022-10-11T15:52:16.031306-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "drudge-2022-10-11T15:52:16.031306-04:00.jpg"
+    },
+    {
       "name": "drudge-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3ef9ab543a61bf6865555f69a96fea5880df3dea",
-      "mtime": "1665490123",
-      "size": "454402",
-      "md5": "fe71cd2c0a990dcf7a4adb348c83cc15",
-      "crc32": "10ff73f7",
-      "sha1": "c766b30c3ed5c330a7d5c3b95777cd837a2b8753",
+      "btih": "48730332562175c9a9fb9159f1108d62e5fef4e7",
+      "mtime": "1665518022",
+      "size": "455249",
+      "md5": "12ed7b52253851e93141625bb8d65ebb",
+      "crc32": "0543419e",
+      "sha1": "523b9125eefeeda0f70cc3cbe6465beb3863ba93",
       "format": "Archive BitTorrent"
     },
     {
       "name": "drudge-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d5c352f3e9d5de4d00f99512b63c7557",
+      "md5": "7bac4f6162cbf82a803eb25ba183a641",
       "summation": "md5"
     },
     {
       "name": "drudge-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665490006",
-      "size": "2654208",
-      "md5": "23835ed3e4d950ecde3bfc735985b5f4",
-      "crc32": "12c655df",
-      "sha1": "79efd1d975c047a34cf5494f43ce7e392caa0e46",
+      "mtime": "1665517950",
+      "size": "2658304",
+      "md5": "38f876872caee7193db26ca2a6ed1a9a",
+      "crc32": "92b222ab",
+      "sha1": "213f0bb3a1d96882fb622f1d4db04a25b58c1c56",
       "format": "Metadata"
     },
     {
@@ -22694,9 +22742,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2181,
-  "item_last_updated": 1665490123,
-  "item_size": 148091465,
+  "files_count": 2186,
+  "item_last_updated": 1665518022,
+  "item_size": 148361312,
   "metadata": {
     "identifier": "drudge-2022",
     "collection": [
@@ -22713,10 +22761,21 @@
     "publicdate": "2022-03-25 13:48:42",
     "addeddate": "2022-03-25 13:48:42"
   },
+  "pending_tasks": true,
   "server": "ia902502.us.archive.org",
-  "uniq": 1252154455,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3436140290,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 233869532,
   "workable_servers": [
-    "ia902502.us.archive.org",
-    "ia802502.us.archive.org"
+    "ia902502.us.archive.org"
   ]
 }

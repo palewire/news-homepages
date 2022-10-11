@@ -1,6 +1,5 @@
 {
-  "conflict": 1665490094,
-  "created": 1665490094,
+  "created": 1665517993,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/9/items/dailycaller-2022",
@@ -22473,24 +22472,29 @@
       "name": "dailycaller-2022-10-11T08:03:15.866358-04:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "dailycaller-2022-10-11T08:03:15.866358-04:00.jpg"
+      "original": "dailycaller-2022-10-11T08:03:15.866358-04:00.jpg",
+      "mtime": "1665490086",
+      "size": "10988",
+      "md5": "cfbcd021e1227791a3ae342d28cded64",
+      "crc32": "a5af5662",
+      "sha1": "c054341fe0983566db39e26d17a3eb9ab657cfc9"
     },
     {
       "name": "dailycaller-2022_archive.torrent",
       "source": "metadata",
-      "btih": "106955c82034b522c21026a8d0284f2cab6ff87e",
-      "mtime": "1665489886",
-      "size": "463078",
-      "md5": "eb7bc90b826117e41f286b668e68602a",
-      "crc32": "111986d8",
-      "sha1": "64b2144ef525793511d094b29ce659d0cdea3ba1",
+      "btih": "0bc3b3759280f3ef90d57ca6510127a5a9251e3f",
+      "mtime": "1665490636",
+      "size": "463286",
+      "md5": "1a52ad1d4104d0616e39ba792398c3ec",
+      "crc32": "33a762f5",
+      "sha1": "f5207a59c69e9f78d83e34a3f529b7b143eac45b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailycaller-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5d908a99209ca0eeb2baf4e574bb7365",
+      "md5": "f358dc0713504cd4c45507724927cf33",
       "summation": "md5"
     },
     {
@@ -22515,8 +22519,8 @@
     }
   ],
   "files_count": 2164,
-  "item_last_updated": 1665489886,
-  "item_size": 173910465,
+  "item_last_updated": 1665490636,
+  "item_size": 173921661,
   "metadata": {
     "identifier": "dailycaller-2022",
     "collection": [
@@ -22538,15 +22542,47 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3435825721,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "task_id": 3436139939,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3436139972,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3436140042,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3436140099,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3436140115,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1681348641,
+  "uniq": 725542041,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]
