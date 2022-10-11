@@ -1,5 +1,5 @@
 {
-  "created": 1665443438,
+  "created": 1665486297,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/13/items/breitbartnews-2022",
@@ -22550,31 +22550,93 @@
       "sha1": "2fc534272283e38af0d363c8fa66ec1b05261e36"
     },
     {
+      "name": "breitbartnews-2022-10-11T07:01:25.064671-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665486115",
+      "size": "64507",
+      "md5": "07a61087dfcc57edcd9a670bd0c8c7cb",
+      "crc32": "04a4f30e",
+      "sha1": "7c4f6ee4a83c89cb4158418a72afc9f0d61ad897",
+      "format": "JSON"
+    },
+    {
+      "name": "breitbartnews-2022-10-11T07:01:25.064671-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665486116",
+      "size": "71614",
+      "md5": "6d2aee5675d7e49567b14658c700ed11",
+      "crc32": "6130c62e",
+      "sha1": "746145e58e38aab6141bcd0b1ef59bcf1e74749d",
+      "format": "JSON"
+    },
+    {
+      "name": "breitbartnews-2022-10-11T07:01:25.064671-04:00.jpg",
+      "source": "original",
+      "mtime": "1665486113",
+      "size": "323365",
+      "md5": "18f9c14f884ea1d006cfa7b8bdaae7c9",
+      "crc32": "fd190257",
+      "sha1": "1469ee62ddc1fc46b169ee3f9389cc8294daf05d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "breitbartnews-2022-10-11T07:01:25.064671-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665486118",
+      "size": "1486",
+      "md5": "5038860a898bf00fdb0b9a424847cd61",
+      "crc32": "91bd3777",
+      "sha1": "e1efb86be4f557aeaccc78d86dc4b48767d1e875",
+      "format": "JSON"
+    },
+    {
+      "name": "breitbartnews-2022-10-11T07:01:25.064671-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665486120",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "breitbartnews-2022-10-11T07:01:25.064671-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "breitbartnews-2022-10-11T07:01:25.064671-04:00.jpg",
+      "mtime": "1665486236",
+      "size": "10212",
+      "md5": "6393dacba58bf6c894788759138ab8db",
+      "crc32": "bb217acf",
+      "sha1": "1a5daa4cb34a74d693b022bcfa7ef66f8af01f68"
+    },
+    {
       "name": "breitbartnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1d78287718f48aef61f24d413aaae189df98ab37",
-      "mtime": "1665443414",
-      "size": "469472",
-      "md5": "d2682cd57b3d8535bcd1be0dc82b3d3b",
-      "crc32": "b5763761",
-      "sha1": "7aced7bebef07866c07876420fecab0077fbf4fb",
+      "btih": "92235b5f6ca7dd4ff06d3ce89af68b488e9db861",
+      "mtime": "1665486287",
+      "size": "470768",
+      "md5": "ef770301a95124c1e4a0c26805c0e226",
+      "crc32": "1595aa21",
+      "sha1": "25fe6732532c18ae71ccb44c637bd5e2b767b0ed",
       "format": "Archive BitTorrent"
     },
     {
       "name": "breitbartnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3b5659acd3e9618d80441acaa2eebe36",
+      "md5": "ddb0f0c7728cbd72388eb6b1a00a9253",
       "summation": "md5"
     },
     {
       "name": "breitbartnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665443289",
-      "size": "2670592",
-      "md5": "0419966e13b3f4ca649641d682cee7fd",
-      "crc32": "1aa258b3",
-      "sha1": "3bb931e093d55077f7f872a0cca71cc1ecf889f7",
+      "mtime": "1665486124",
+      "size": "2674688",
+      "md5": "43c4e19b82c871016e7f12a88faca67f",
+      "crc32": "d972ae3f",
+      "sha1": "f6c179f6488ca6fe33257a268b631dcd752ea73f",
       "format": "Metadata"
     },
     {
@@ -22588,9 +22650,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2171,
-  "item_last_updated": 1665443414,
-  "item_size": 190369387,
+  "files_count": 2177,
+  "item_last_updated": 1665486287,
+  "item_size": 190846165,
   "metadata": {
     "identifier": "breitbartnews-2022",
     "collection": [
@@ -22607,10 +22669,10 @@
     "publicdate": "2022-03-25 18:46:45",
     "addeddate": "2022-03-25 18:46:45"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 757515932,
+  "server": "ia902505.us.archive.org",
+  "uniq": 299260365,
   "workable_servers": [
-    "ia802505.us.archive.org",
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }
