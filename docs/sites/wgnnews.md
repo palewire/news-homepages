@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 215 screenshots with the Internet Archive.
+The archiving routine has saved 216 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 215 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wgnnews-2022/wgnnews-2022-10-11T01:25:59.078568-05:00.jpg">
+  <img src="https://archive.org/download/wgnnews-2022/wgnnews-2022-10-11T01:25:59.078568-05:00.jpg"
+     alt="WGN at 2022-10-11 01:26:01-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wgnnews-2022/wgnnews-2022-10-11T01:25:59.078568-05:00.jpg">October 11 at 1:26 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wgnnews-2022/wgnnews-2022-10-10T12:21:29.997227-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wgnnews-2022/wgnnews-2022-10-07T11:35:24.703721-05:00.jpg">October 7 at 11:35 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wgnnews-2022/wgnnews-2022-10-06T23:39:50.190293-05:00.jpg">
-  <img src="https://archive.org/download/wgnnews-2022/wgnnews-2022-10-06T23:39:50.190293-05:00.jpg"
-     alt="WGN at 2022-10-06 23:39:59-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wgnnews-2022/wgnnews-2022-10-06T23:39:50.190293-05:00.jpg">October 6 at 11:39 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 217 hyperlink lists with the Internet Archive.
+The archiving routine has saved 218 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 1:26 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-10-11T01:25:59.078568-05:00.hyperlinks.json) |
 | [October 10 at 12:21 PM](https://archive.org/download/wgnnews-2022/wgnnews-2022-10-10T12:21:29.997227-05:00.hyperlinks.json) |
 | [October 10 at 11:43 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-10-10T11:43:07.471349-05:00.hyperlinks.json) |
 | [October 10 at 1:26 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-10-10T01:26:21.341063-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 11:23 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-10-08T11:23:28.193374-05:00.hyperlinks.json) |
 | [October 8 at 11:15 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-10-08T11:15:03.768452-05:00.hyperlinks.json) |
 | [October 8 at 12:38 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-10-08T00:38:35.311427-05:00.hyperlinks.json) |
-| [October 7 at 12:54 PM](https://archive.org/download/wgnnews-2022/wgnnews-2022-10-07T12:54:43.929966-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 213 accessibility trees with the Internet Archive.
+The archiving routine has saved 214 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 1:26 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-10-11T01:25:59.078568-05:00.accessibility.json) |
 | [October 10 at 12:21 PM](https://archive.org/download/wgnnews-2022/wgnnews-2022-10-10T12:21:29.997227-05:00.accessibility.json) |
 | [October 10 at 11:43 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-10-10T11:43:07.471349-05:00.accessibility.json) |
 | [October 10 at 1:26 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-10-10T01:26:21.341063-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 11:23 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-10-08T11:23:28.193374-05:00.accessibility.json) |
 | [October 8 at 11:15 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-10-08T11:15:03.768452-05:00.accessibility.json) |
 | [October 8 at 12:38 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-10-08T00:38:35.311427-05:00.accessibility.json) |
-| [October 7 at 12:54 PM](https://archive.org/download/wgnnews-2022/wgnnews-2022-10-07T12:54:43.929966-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 214 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 215 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 1:26 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-10-11T01:25:59.078568-05:00.lighthouse.json) |
 | [October 10 at 12:21 PM](https://archive.org/download/wgnnews-2022/wgnnews-2022-10-10T12:21:29.997227-05:00.lighthouse.json) |
 | [October 10 at 11:43 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-10-10T11:43:07.471349-05:00.lighthouse.json) |
 | [October 10 at 1:26 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-10-10T01:26:21.341063-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 11:23 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-10-08T11:23:28.193374-05:00.lighthouse.json) |
 | [October 8 at 11:15 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-10-08T11:15:03.768452-05:00.lighthouse.json) |
 | [October 8 at 12:38 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-10-08T00:38:35.311427-05:00.lighthouse.json) |
-| [October 7 at 12:54 PM](https://archive.org/download/wgnnews-2022/wgnnews-2022-10-07T12:54:43.929966-05:00.lighthouse.json) |
 
 
 

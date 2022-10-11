@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 253 screenshots with the Internet Archive.
+The archiving routine has saved 254 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 253 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bklyner-2022/bklyner-2022-10-11T02:22:48.371027-04:00.jpg">
+  <img src="https://archive.org/download/bklyner-2022/bklyner-2022-10-11T02:22:48.371027-04:00.jpg"
+     alt="Bklyner at 2022-10-11 02:23:04-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-10-11T02:22:48.371027-04:00.jpg">October 11 at 2:23 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bklyner-2022/bklyner-2022-10-10T12:40:17.948516-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-10-05T12:38:45.399957-04:00.jpg">October 5 at 12:38 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bklyner-2022/bklyner-2022-10-05T00:18:30.770926-04:00.jpg">
-  <img src="https://archive.org/download/bklyner-2022/bklyner-2022-10-05T00:18:30.770926-04:00.jpg"
-     alt="Bklyner at 2022-10-05 00:18:32-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-10-05T00:18:30.770926-04:00.jpg">October 5 at 12:18 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 256 hyperlink lists with the Internet Archive.
+The archiving routine has saved 257 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 2:23 AM](https://archive.org/download/bklyner-2022/bklyner-2022-10-11T02:22:48.371027-04:00.hyperlinks.json) |
 | [October 10 at 12:40 PM](https://archive.org/download/bklyner-2022/bklyner-2022-10-10T12:40:17.948516-04:00.hyperlinks.json) |
 | [October 10 at 2:23 AM](https://archive.org/download/bklyner-2022/bklyner-2022-10-10T02:23:22.643245-04:00.hyperlinks.json) |
 | [October 9 at 12:00 PM](https://archive.org/download/bklyner-2022/bklyner-2022-10-09T12:00:20.464036-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 7 at 12:34 PM](https://archive.org/download/bklyner-2022/bklyner-2022-10-07T12:34:08.381654-04:00.hyperlinks.json) |
 | [October 7 at 12:36 AM](https://archive.org/download/bklyner-2022/bklyner-2022-10-07T00:36:45.106475-04:00.hyperlinks.json) |
 | [October 6 at 12:02 PM](https://archive.org/download/bklyner-2022/bklyner-2022-10-06T12:02:29.167255-04:00.hyperlinks.json) |
-| [October 6 at 12:24 AM](https://archive.org/download/bklyner-2022/bklyner-2022-10-06T00:24:06.217010-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 256 accessibility trees with the Internet Archive.
+The archiving routine has saved 257 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 2:23 AM](https://archive.org/download/bklyner-2022/bklyner-2022-10-11T02:22:48.371027-04:00.accessibility.json) |
 | [October 10 at 12:40 PM](https://archive.org/download/bklyner-2022/bklyner-2022-10-10T12:40:17.948516-04:00.accessibility.json) |
 | [October 10 at 2:23 AM](https://archive.org/download/bklyner-2022/bklyner-2022-10-10T02:23:22.643245-04:00.accessibility.json) |
 | [October 9 at 12:00 PM](https://archive.org/download/bklyner-2022/bklyner-2022-10-09T12:00:20.464036-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 7 at 12:34 PM](https://archive.org/download/bklyner-2022/bklyner-2022-10-07T12:34:08.381654-04:00.accessibility.json) |
 | [October 7 at 12:36 AM](https://archive.org/download/bklyner-2022/bklyner-2022-10-07T00:36:45.106475-04:00.accessibility.json) |
 | [October 6 at 12:02 PM](https://archive.org/download/bklyner-2022/bklyner-2022-10-06T12:02:29.167255-04:00.accessibility.json) |
-| [October 6 at 12:24 AM](https://archive.org/download/bklyner-2022/bklyner-2022-10-06T00:24:06.217010-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 160 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 161 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 2:23 AM](https://archive.org/download/bklyner-2022/bklyner-2022-10-11T02:22:48.371027-04:00.lighthouse.json) |
 | [October 10 at 12:40 PM](https://archive.org/download/bklyner-2022/bklyner-2022-10-10T12:40:17.948516-04:00.lighthouse.json) |
 | [October 10 at 2:23 AM](https://archive.org/download/bklyner-2022/bklyner-2022-10-10T02:23:22.643245-04:00.lighthouse.json) |
 | [October 9 at 12:00 PM](https://archive.org/download/bklyner-2022/bklyner-2022-10-09T12:00:20.464036-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 7 at 12:34 PM](https://archive.org/download/bklyner-2022/bklyner-2022-10-07T12:34:08.381654-04:00.lighthouse.json) |
 | [October 7 at 12:36 AM](https://archive.org/download/bklyner-2022/bklyner-2022-10-07T00:36:45.106475-04:00.lighthouse.json) |
 | [October 6 at 12:02 PM](https://archive.org/download/bklyner-2022/bklyner-2022-10-06T12:02:29.167255-04:00.lighthouse.json) |
-| [October 6 at 12:24 AM](https://archive.org/download/bklyner-2022/bklyner-2022-10-06T00:24:06.217010-04:00.lighthouse.json) |
 
 
 
