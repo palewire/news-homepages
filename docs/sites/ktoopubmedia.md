@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 57 screenshots with the Internet Archive.
+The archiving routine has saved 58 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 57 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ktoopubmedia-2022/ktoopubmedia-2022-10-10T17:26:28.708382-08:00.jpg">
+  <img src="https://archive.org/download/ktoopubmedia-2022/ktoopubmedia-2022-10-10T17:26:28.708382-08:00.jpg"
+     alt="KTOO at 2022-10-10 17:26:32-08:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ktoopubmedia-2022/ktoopubmedia-2022-10-10T17:26:28.708382-08:00.jpg">October 10 at 5:26 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ktoopubmedia-2022/ktoopubmedia-2022-10-10T05:22:39.341211-08:00.jpg">
@@ -422,15 +431,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/ktoopubmedia-2022/ktoopubmedia-2022-10-05T05:14:01.634359-08:00.jpg">October 5 at 5:14 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ktoopubmedia-2022/ktoopubmedia-2022-10-04T17:29:43.097184-08:00.jpg">
-  <img src="https://archive.org/download/ktoopubmedia-2022/ktoopubmedia-2022-10-04T17:29:43.097184-08:00.jpg"
-     alt="KTOO at 2022-10-04 17:29:45-08:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ktoopubmedia-2022/ktoopubmedia-2022-10-04T17:29:43.097184-08:00.jpg">October 4 at 5:29 PM</a></p>
 </div>
 
 </div>
@@ -542,7 +542,7 @@ Here are the 10 most recent hyperlink lists.
 
 ### Accessibility
 
-The archiving routine has saved 57 accessibility trees with the Internet Archive.
+The archiving routine has saved 58 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 5:26 PM](https://archive.org/download/ktoopubmedia-2022/ktoopubmedia-2022-10-10T17:26:28.708382-08:00.accessibility.json) |
 | [October 10 at 5:22 AM](https://archive.org/download/ktoopubmedia-2022/ktoopubmedia-2022-10-10T05:22:39.341211-08:00.accessibility.json) |
 | [October 9 at 5:29 PM](https://archive.org/download/ktoopubmedia-2022/ktoopubmedia-2022-10-09T17:29:54.020598-08:00.accessibility.json) |
 | [October 9 at 5:04 AM](https://archive.org/download/ktoopubmedia-2022/ktoopubmedia-2022-10-09T05:03:58.587761-08:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 7 at 5:10 AM](https://archive.org/download/ktoopubmedia-2022/ktoopubmedia-2022-10-07T05:10:33.831619-08:00.accessibility.json) |
 | [October 6 at 5:39 PM](https://archive.org/download/ktoopubmedia-2022/ktoopubmedia-2022-10-06T17:38:59.161295-08:00.accessibility.json) |
 | [October 6 at 5:02 AM](https://archive.org/download/ktoopubmedia-2022/ktoopubmedia-2022-10-06T05:02:08.465703-08:00.accessibility.json) |
-| [October 5 at 5:28 PM](https://archive.org/download/ktoopubmedia-2022/ktoopubmedia-2022-10-05T17:28:25.286146-08:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 57 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 58 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 5:26 PM](https://archive.org/download/ktoopubmedia-2022/ktoopubmedia-2022-10-10T17:26:28.708382-08:00.lighthouse.json) |
 | [October 10 at 5:22 AM](https://archive.org/download/ktoopubmedia-2022/ktoopubmedia-2022-10-10T05:22:39.341211-08:00.lighthouse.json) |
 | [October 9 at 5:30 PM](https://archive.org/download/ktoopubmedia-2022/ktoopubmedia-2022-10-09T17:29:54.020598-08:00.lighthouse.json) |
 | [October 9 at 5:04 AM](https://archive.org/download/ktoopubmedia-2022/ktoopubmedia-2022-10-09T05:03:58.587761-08:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 7 at 5:10 AM](https://archive.org/download/ktoopubmedia-2022/ktoopubmedia-2022-10-07T05:10:33.831619-08:00.lighthouse.json) |
 | [October 6 at 5:39 PM](https://archive.org/download/ktoopubmedia-2022/ktoopubmedia-2022-10-06T17:38:59.161295-08:00.lighthouse.json) |
 | [October 6 at 5:02 AM](https://archive.org/download/ktoopubmedia-2022/ktoopubmedia-2022-10-06T05:02:08.465703-08:00.lighthouse.json) |
-| [October 5 at 5:28 PM](https://archive.org/download/ktoopubmedia-2022/ktoopubmedia-2022-10-05T17:28:25.286146-08:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 352 screenshots with the Internet Archive.
+The archiving routine has saved 354 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/huffpost-2022/huffpost-2022-10-10T21:23:22.736480-04:00.jpg">
+  <img src="https://archive.org/download/huffpost-2022/huffpost-2022-10-10T21:23:22.736480-04:00.jpg"
+     alt="Huffington Post at 2022-10-10 21:23:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-10-10T21:23:22.736480-04:00.jpg">October 10 at 9:23 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/huffpost-2022/huffpost-2022-10-10T16:27:44.024468-04:00.jpg">
+  <img src="https://archive.org/download/huffpost-2022/huffpost-2022-10-10T16:27:44.024468-04:00.jpg"
+     alt="Huffington Post at 2022-10-10 16:28:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-10-10T16:27:44.024468-04:00.jpg">October 10 at 4:28 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/huffpost-2022/huffpost-2022-10-10T09:18:07.267021-04:00.jpg">
   <img src="https://archive.org/download/huffpost-2022/huffpost-2022-10-10T09:18:07.267021-04:00.jpg"
      alt="Huffington Post at 2022-10-10 09:18:35-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-10-07T09:07:02.539169-04:00.jpg">October 7 at 9:07 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/huffpost-2022/huffpost-2022-10-06T21:36:11.006180-04:00.jpg">
-  <img src="https://archive.org/download/huffpost-2022/huffpost-2022-10-06T21:36:11.006180-04:00.jpg"
-     alt="Huffington Post at 2022-10-06 21:36:56-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-10-06T21:36:11.006180-04:00.jpg">October 6 at 9:36 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/huffpost-2022/huffpost-2022-10-06T17:02:34.211147-04:00.jpg">
-  <img src="https://archive.org/download/huffpost-2022/huffpost-2022-10-06T17:02:34.211147-04:00.jpg"
-     alt="Huffington Post at 2022-10-06 17:03:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/huffpost-2022/huffpost-2022-10-06T17:02:34.211147-04:00.jpg">October 6 at 5:03 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 344 hyperlink lists with the Internet Archive.
+The archiving routine has saved 346 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 10 at 9:23 PM](https://archive.org/download/huffpost-2022/huffpost-2022-10-10T21:23:22.736480-04:00.hyperlinks.json) |
+| [October 10 at 4:28 PM](https://archive.org/download/huffpost-2022/huffpost-2022-10-10T16:27:44.024468-04:00.hyperlinks.json) |
 | [October 10 at 9:18 AM](https://archive.org/download/huffpost-2022/huffpost-2022-10-10T09:18:07.267021-04:00.hyperlinks.json) |
 | [October 9 at 9:27 PM](https://archive.org/download/huffpost-2022/huffpost-2022-10-09T21:26:54.198875-04:00.hyperlinks.json) |
 | [October 9 at 4:04 PM](https://archive.org/download/huffpost-2022/huffpost-2022-10-09T16:04:03.045111-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 3:48 PM](https://archive.org/download/huffpost-2022/huffpost-2022-10-08T15:48:46.361613-04:00.hyperlinks.json) |
 | [October 8 at 9:02 AM](https://archive.org/download/huffpost-2022/huffpost-2022-10-08T09:01:39.720359-04:00.hyperlinks.json) |
 | [October 7 at 9:24 PM](https://archive.org/download/huffpost-2022/huffpost-2022-10-07T21:23:49.026093-04:00.hyperlinks.json) |
-| [October 7 at 4:31 PM](https://archive.org/download/huffpost-2022/huffpost-2022-10-07T16:30:44.675629-04:00.hyperlinks.json) |
-| [October 7 at 9:07 AM](https://archive.org/download/huffpost-2022/huffpost-2022-10-07T09:07:02.539169-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 344 accessibility trees with the Internet Archive.
+The archiving routine has saved 346 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 10 at 9:23 PM](https://archive.org/download/huffpost-2022/huffpost-2022-10-10T21:23:22.736480-04:00.accessibility.json) |
+| [October 10 at 4:28 PM](https://archive.org/download/huffpost-2022/huffpost-2022-10-10T16:27:44.024468-04:00.accessibility.json) |
 | [October 10 at 9:18 AM](https://archive.org/download/huffpost-2022/huffpost-2022-10-10T09:18:07.267021-04:00.accessibility.json) |
 | [October 9 at 9:26 PM](https://archive.org/download/huffpost-2022/huffpost-2022-10-09T21:26:54.198875-04:00.accessibility.json) |
 | [October 9 at 4:04 PM](https://archive.org/download/huffpost-2022/huffpost-2022-10-09T16:04:03.045111-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 3:48 PM](https://archive.org/download/huffpost-2022/huffpost-2022-10-08T15:48:46.361613-04:00.accessibility.json) |
 | [October 8 at 9:02 AM](https://archive.org/download/huffpost-2022/huffpost-2022-10-08T09:01:39.720359-04:00.accessibility.json) |
 | [October 7 at 9:24 PM](https://archive.org/download/huffpost-2022/huffpost-2022-10-07T21:23:49.026093-04:00.accessibility.json) |
-| [October 7 at 4:31 PM](https://archive.org/download/huffpost-2022/huffpost-2022-10-07T16:30:44.675629-04:00.accessibility.json) |
-| [October 7 at 9:07 AM](https://archive.org/download/huffpost-2022/huffpost-2022-10-07T09:07:02.539169-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 246 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 248 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 10 at 9:23 PM](https://archive.org/download/huffpost-2022/huffpost-2022-10-10T21:23:22.736480-04:00.lighthouse.json) |
+| [October 10 at 4:28 PM](https://archive.org/download/huffpost-2022/huffpost-2022-10-10T16:27:44.024468-04:00.lighthouse.json) |
 | [October 10 at 9:18 AM](https://archive.org/download/huffpost-2022/huffpost-2022-10-10T09:18:07.267021-04:00.lighthouse.json) |
 | [October 9 at 9:27 PM](https://archive.org/download/huffpost-2022/huffpost-2022-10-09T21:26:54.198875-04:00.lighthouse.json) |
 | [October 9 at 4:04 PM](https://archive.org/download/huffpost-2022/huffpost-2022-10-09T16:04:03.045111-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 3:49 PM](https://archive.org/download/huffpost-2022/huffpost-2022-10-08T15:48:46.361613-04:00.lighthouse.json) |
 | [October 8 at 9:02 AM](https://archive.org/download/huffpost-2022/huffpost-2022-10-08T09:01:39.720359-04:00.lighthouse.json) |
 | [October 7 at 9:24 PM](https://archive.org/download/huffpost-2022/huffpost-2022-10-07T21:23:49.026093-04:00.lighthouse.json) |
-| [October 7 at 4:31 PM](https://archive.org/download/huffpost-2022/huffpost-2022-10-07T16:30:44.675629-04:00.lighthouse.json) |
-| [October 7 at 9:07 AM](https://archive.org/download/huffpost-2022/huffpost-2022-10-07T09:07:02.539169-04:00.lighthouse.json) |
 
 
 
