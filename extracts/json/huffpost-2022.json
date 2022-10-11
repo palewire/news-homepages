@@ -1,5 +1,6 @@
 {
-  "created": 1665493672,
+  "conflict": 1665518031,
+  "created": 1665518031,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/33/items/huffpost-2022",
@@ -19196,31 +19197,88 @@
       "sha1": "2c1f1284bf79fe879714e76d3fabb9ada3251ab7"
     },
     {
+      "name": "huffpost-2022-10-11T15:51:04.697338-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665517880",
+      "size": "36534",
+      "md5": "dc11975c3f8f0094d15e147c83f13e8f",
+      "crc32": "bf2fa34d",
+      "sha1": "23b10b03e4c886eac1d9dbf5e2a969310dbbb180",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-10-11T15:51:04.697338-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665517882",
+      "size": "41895",
+      "md5": "ceddc56b2b8858aa814bc3168d296290",
+      "crc32": "d8a0af52",
+      "sha1": "795a9a21df89361c90ea52e0a6dfd615204400a9",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-10-11T15:51:04.697338-04:00.jpg",
+      "source": "original",
+      "mtime": "1665517878",
+      "size": "228783",
+      "md5": "8c62b10c515586eb182f94be3e58ea8d",
+      "crc32": "f6d8fcec",
+      "sha1": "a9f0762c282f6dd24ad62966962f8f1935a93d65",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "huffpost-2022-10-11T15:51:04.697338-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665517884",
+      "size": "1475",
+      "md5": "88051a4cf85035bd4179e65eaa6a20b6",
+      "crc32": "e6b5cc25",
+      "sha1": "e40cd0b34cfe6f547dda1be852145ffbb498ae2b",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-10-11T15:51:04.697338-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665517885",
+      "size": "41395",
+      "md5": "f56058bcc5d7293735328c2b6e67b0d4",
+      "crc32": "8c6d0025",
+      "sha1": "06960f839e8f7b941f61c2d28722c6fbd51d66b2",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-10-11T15:51:04.697338-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "huffpost-2022-10-11T15:51:04.697338-04:00.jpg"
+    },
+    {
       "name": "huffpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ffd2628bc8642345fc3bd1f91f6c1124c59d0b29",
-      "mtime": "1665493661",
-      "size": "390611",
-      "md5": "070b5d2558f0a960172c7cc37fcad6cb",
-      "crc32": "f5848c68",
-      "sha1": "eb76ec3709487a4f34e05957e569e6368956c2a5",
+      "btih": "df598cbc53582f3ecf39aaa37bcfa27dc890122f",
+      "mtime": "1665517958",
+      "size": "391674",
+      "md5": "82c4d582aca300c37050518051050416",
+      "crc32": "ef4bb1fa",
+      "sha1": "413a1924754d545352bce104eb259216b4006718",
       "format": "Archive BitTorrent"
     },
     {
       "name": "huffpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d6dd7ce88db5cb4738f6096f7ee7869f",
+      "md5": "cddedca6f3bcd4c906285fbf970b9296",
       "summation": "md5"
     },
     {
       "name": "huffpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665493548",
-      "size": "2285568",
-      "md5": "8c62a2349881925fec7465d232c4efdb",
-      "crc32": "79516042",
-      "sha1": "5397df561ec4b13aeccc0cc898722ce3a0eb1104",
+      "mtime": "1665517892",
+      "size": "2289664",
+      "md5": "3364b28ef3f4a44c725eb2d5e1869e1a",
+      "crc32": "93b15fa2",
+      "sha1": "706a05e239eed20615eb586dfa442848ffaf2373",
       "format": "Metadata"
     },
     {
@@ -19234,9 +19292,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1852,
-  "item_last_updated": 1665493661,
-  "item_size": 137188354,
+  "files_count": 1858,
+  "item_last_updated": 1665517958,
+  "item_size": 137543595,
   "metadata": {
     "identifier": "huffpost-2022",
     "collection": [
@@ -19253,10 +19311,21 @@
     "publicdate": "2022-06-24 22:56:52",
     "addeddate": "2022-06-24 22:56:52"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 726015860,
+  "pending_tasks": true,
+  "server": "ia902502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3436139623,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 338370076,
   "workable_servers": [
-    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }
