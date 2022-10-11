@@ -1,5 +1,5 @@
 {
-  "created": 1665463669,
+  "created": 1665501154,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/34/items/sinembargomx-2022",
@@ -6868,31 +6868,93 @@
       "sha1": "de4e9ad6cf2e1fe0f5e34f496a33e56cb4424d64"
     },
     {
+      "name": "sinembargomx-2022-10-11T10:10:16.455828-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665501028",
+      "size": "43774",
+      "md5": "928ef4614f4adef47d6354324684d1a4",
+      "crc32": "7d5d78a8",
+      "sha1": "8b8051e9fdc97974b1b493c16ea281e71a92e150",
+      "format": "JSON"
+    },
+    {
+      "name": "sinembargomx-2022-10-11T10:10:16.455828-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665501030",
+      "size": "55424",
+      "md5": "b6e9f4b7f7900555cc799e08204350b7",
+      "crc32": "73562ecb",
+      "sha1": "270899498822fe5e664c8a5d8ab44dd2133441e0",
+      "format": "JSON"
+    },
+    {
+      "name": "sinembargomx-2022-10-11T10:10:16.455828-05:00.jpg",
+      "source": "original",
+      "mtime": "1665501026",
+      "size": "257300",
+      "md5": "f42be4dfb98110d4ae93ebd2e4c05d14",
+      "crc32": "057a7109",
+      "sha1": "128bd428f62e89344e1e7f5763b0e65ddde903d2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sinembargomx-2022-10-11T10:10:16.455828-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665501032",
+      "size": "1486",
+      "md5": "29bdf03b902fc286b37eb5754af341cf",
+      "crc32": "9feda4f8",
+      "sha1": "1bf96140a68b3654ff0ed2ad6d00fea3352d64d1",
+      "format": "JSON"
+    },
+    {
+      "name": "sinembargomx-2022-10-11T10:10:16.455828-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665501034",
+      "size": "102",
+      "md5": "9103b36d830c29c6f45ca24f49ab0040",
+      "crc32": "a4ec0fa6",
+      "sha1": "f2268c016a08eca69a3f206945ae242007fc5775",
+      "format": "JSON"
+    },
+    {
+      "name": "sinembargomx-2022-10-11T10:10:16.455828-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sinembargomx-2022-10-11T10:10:16.455828-05:00.jpg",
+      "mtime": "1665501131",
+      "size": "10718",
+      "md5": "0960e341dbfae427fecad1ad4dbaf886",
+      "crc32": "c410a640",
+      "sha1": "23f7b3ff2467e743c46da09c1939f530cf216320"
+    },
+    {
       "name": "sinembargomx-2022_archive.torrent",
       "source": "metadata",
-      "btih": "af1ccc7fd96af505f043564051db39aa5e857105",
-      "mtime": "1665460394",
-      "size": "144768",
-      "md5": "582ba0c63b7ebb7580d3be112d9177bb",
-      "crc32": "307cd417",
-      "sha1": "f4bfe1216b902b8797f0007b9312c60076e05270",
+      "btih": "023406ac91cf79df1eed6f8f79235d133f687faa",
+      "mtime": "1665501139",
+      "size": "146038",
+      "md5": "a7666cd04b6ecd9cc603c40412c7a73f",
+      "crc32": "85082973",
+      "sha1": "e9cbe1e8f3a7c79edaf9b89894886a59b7fd8a6c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sinembargomx-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "47d903782ae980f2e7ef8b0b26abe7f3",
+      "md5": "643d22ea1574ad8e6639a52e49320f38",
       "summation": "md5"
     },
     {
       "name": "sinembargomx-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665460327",
-      "size": "864256",
-      "md5": "511a9bb97ee2811b5d0420311e1ceee7",
-      "crc32": "133b1094",
-      "sha1": "bfb2610fce8c29fb5ed216b9ba897dd94698826d",
+      "mtime": "1665501040",
+      "size": "872448",
+      "md5": "8b800cdf09ab01325c0dbd1aa1e2d241",
+      "crc32": "2b39e429",
+      "sha1": "6b6c23acab46f911063f05c04a7b4e25382e388e",
       "format": "Metadata"
     },
     {
@@ -6906,9 +6968,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 668,
-  "item_last_updated": 1665460394,
-  "item_size": 68830416,
+  "files_count": 674,
+  "item_last_updated": 1665501139,
+  "item_size": 69208682,
   "metadata": {
     "identifier": "sinembargomx-2022",
     "collection": [
@@ -6926,11 +6988,7 @@
     "addeddate": "2022-08-16 17:12:18"
   },
   "server": "ia601408.us.archive.org",
-  "sinembargomx-2022": {
-    "url": "https://www.sinembargo.mx/",
-    "job_id": "spn2-e42198cfc2c862429e5d095921cbfbcf9c883177"
-  },
-  "uniq": 23023709,
+  "uniq": 1816874158,
   "workable_servers": [
     "ia601408.us.archive.org",
     "ia801408.us.archive.org"

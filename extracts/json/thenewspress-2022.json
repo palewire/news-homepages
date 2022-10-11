@@ -1,5 +1,5 @@
 {
-  "created": 1665460567,
+  "created": 1665504778,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/18/items/thenewspress-2022",
@@ -2558,31 +2558,93 @@
       "sha1": "0d566948da2c01f637fdbbc5e3de013ad28fe5b4"
     },
     {
+      "name": "thenewspress-2022-10-11T11:14:04.094879-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665501249",
+      "size": "23169",
+      "md5": "982c11a68b9eae7203b484dea6fa241d",
+      "crc32": "ca807366",
+      "sha1": "9c63e099c6609d724c74bebd1d707e948eb69b6f",
+      "format": "JSON"
+    },
+    {
+      "name": "thenewspress-2022-10-11T11:14:04.094879-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665501251",
+      "size": "37591",
+      "md5": "ace83da476d80005e05934bbd5183d78",
+      "crc32": "b8406ad1",
+      "sha1": "3280769ac32a6c49aaa46a62c232a99253ab0b5e",
+      "format": "JSON"
+    },
+    {
+      "name": "thenewspress-2022-10-11T11:14:04.094879-04:00.jpg",
+      "source": "original",
+      "mtime": "1665501247",
+      "size": "273895",
+      "md5": "66074b827e8896d6c7cbdb2325806849",
+      "crc32": "d42f7db2",
+      "sha1": "c78f27cc6a80b459454ec2c09b41d1b4a850105f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thenewspress-2022-10-11T11:14:04.094879-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665501252",
+      "size": "1493",
+      "md5": "908382a04be833b614680b4e34b31296",
+      "crc32": "638b89f1",
+      "sha1": "7b672ff1a4ead7a11108766ccbf1be239af65f91",
+      "format": "JSON"
+    },
+    {
+      "name": "thenewspress-2022-10-11T11:14:04.094879-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665501255",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thenewspress-2022-10-11T11:14:04.094879-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thenewspress-2022-10-11T11:14:04.094879-04:00.jpg",
+      "mtime": "1665501340",
+      "size": "9676",
+      "md5": "71703a19d4e3890938e07fbbdd1a01e2",
+      "crc32": "6608085a",
+      "sha1": "1c69d237e4762193a3080547a9e2eee403997b0e"
+    },
+    {
       "name": "thenewspress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "928a0aa554da38b37b4a9bc767f2d8573a5249a1",
-      "mtime": "1665460557",
-      "size": "54401",
-      "md5": "746314cc6a4dd9c6fe027517a91aa3a1",
-      "crc32": "ecea35d3",
-      "sha1": "c69601c6b503a9859f2169760e26f8e42f2a3d36",
+      "btih": "a6824136a8bf634ac4c68ac1e71880d1fca25174",
+      "mtime": "1665501347",
+      "size": "55690",
+      "md5": "0c409ca63a8af1344f25a33f37132f5d",
+      "crc32": "52b3860b",
+      "sha1": "58b39d6a0ae054cb04bb680793583f1795028f9d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thenewspress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "92e9141b719c7d67ad4d38265aa139f4",
+      "md5": "f3795b9fd0f1a247090b3ce7566ddfb8",
       "summation": "md5"
     },
     {
       "name": "thenewspress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665460495",
-      "size": "339968",
-      "md5": "dd0b36322925635a95dc47a3152a98c1",
-      "crc32": "a7d2ab0d",
-      "sha1": "188e5789a31ded6bed50c0d16ee2367abe15f999",
+      "mtime": "1665501261",
+      "size": "344064",
+      "md5": "e2541f84dab8321fa3923ef6f44b302d",
+      "crc32": "ed56d058",
+      "sha1": "1708eb50b4f01f4851e0b029ca9f10f17292bfc7",
       "format": "Metadata"
     },
     {
@@ -2596,9 +2658,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 251,
-  "item_last_updated": 1665460557,
-  "item_size": 17149315,
+  "files_count": 257,
+  "item_last_updated": 1665501347,
+  "item_size": 17500726,
   "metadata": {
     "identifier": "thenewspress-2022",
     "collection": [
@@ -2616,7 +2678,12 @@
     "addeddate": "2022-09-21 03:45:22"
   },
   "server": "ia801507.us.archive.org",
-  "uniq": 1582579194,
+  "thenewspress-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 332656074,
   "workable_servers": [
     "ia801507.us.archive.org",
     "ia601507.us.archive.org"

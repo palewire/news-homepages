@@ -1,5 +1,5 @@
 {
-  "created": 1665460404,
+  "created": 1665501309,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/24/items/teenvogue-2022",
@@ -10118,31 +10118,93 @@
       "sha1": "9aa2b499aace566415d8037f8f106c5e28de05c5"
     },
     {
+      "name": "teenvogue-2022-10-11T11:12:50.785833-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665501183",
+      "size": "36097",
+      "md5": "1984a6ddf066f1167862f1f9ff3ec4e6",
+      "crc32": "1bfb2212",
+      "sha1": "ecf05aa36e66695fa83a45352c2dd74230bd4ee8",
+      "format": "JSON"
+    },
+    {
+      "name": "teenvogue-2022-10-11T11:12:50.785833-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665501185",
+      "size": "16808",
+      "md5": "5a6377abf02b4cc42695ad19b2a5208b",
+      "crc32": "5c9185a5",
+      "sha1": "71e4c64bd9c3c029254645e51f4a5afa61d7bbc8",
+      "format": "JSON"
+    },
+    {
+      "name": "teenvogue-2022-10-11T11:12:50.785833-04:00.jpg",
+      "source": "original",
+      "mtime": "1665501182",
+      "size": "245403",
+      "md5": "e830ada17ca3b583f91016668e68abbc",
+      "crc32": "848bc2b0",
+      "sha1": "698157803113829735491688ac781751cdd42143",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "teenvogue-2022-10-11T11:12:50.785833-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665501186",
+      "size": "1477",
+      "md5": "327d658e5ecd37dec07707b54b4be315",
+      "crc32": "1e726bd3",
+      "sha1": "6a97d8545ed244ba25518763a6d4060247453c48",
+      "format": "JSON"
+    },
+    {
+      "name": "teenvogue-2022-10-11T11:12:50.785833-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665501187",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "teenvogue-2022-10-11T11:12:50.785833-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "teenvogue-2022-10-11T11:12:50.785833-04:00.jpg",
+      "mtime": "1665501263",
+      "size": "9690",
+      "md5": "820cbf3eda77b641bcfe7d7cbf1dd4e4",
+      "crc32": "e5d60890",
+      "sha1": "45c179b33508439c69b22c94211098c85e652635"
+    },
+    {
       "name": "teenvogue-2022_archive.torrent",
       "source": "metadata",
-      "btih": "904120aff8682b383a9e7b647a2e6a02089904e9",
-      "mtime": "1665460385",
-      "size": "207647",
-      "md5": "8a3af8a05fd1d061e8881498cbfa9738",
-      "crc32": "05e43474",
-      "sha1": "de934d13fa6c241785ac4abcc31549b7971a61ff",
+      "btih": "ed10f53de0923bcc651d3e714dc250224ad06b25",
+      "mtime": "1665501287",
+      "size": "208918",
+      "md5": "eecf1fbfe64532cc4ee164282d687f1d",
+      "crc32": "7372539b",
+      "sha1": "67d2beabd5c76c19a378653656b1fb9400fe1a4e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "teenvogue-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cb29ed516803fb5fab6e089857aa9654",
+      "md5": "c2faf2b94c6a9228d116342691d33d31",
       "summation": "md5"
     },
     {
       "name": "teenvogue-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665460282",
-      "size": "1245184",
-      "md5": "e947838ac7e0d3a2f32be6f315e25e23",
-      "crc32": "4520b47a",
-      "sha1": "35317e3629cb0cbd005b26d69dd1f1aa08cce3b9",
+      "mtime": "1665501195",
+      "size": "1249280",
+      "md5": "07832aa26b4c19910bb13a83b7a503c9",
+      "crc32": "0fef321a",
+      "sha1": "b4fce07366ec5759842e814c2e8c3fa328910dfc",
       "format": "Metadata"
     },
     {
@@ -10156,9 +10218,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 981,
-  "item_last_updated": 1665460385,
-  "item_size": 59252144,
+  "files_count": 987,
+  "item_last_updated": 1665501287,
+  "item_size": 59567188,
   "metadata": {
     "identifier": "teenvogue-2022",
     "collection": [
@@ -10176,7 +10238,7 @@
     "addeddate": "2022-07-18 04:16:36"
   },
   "server": "ia601508.us.archive.org",
-  "uniq": 1437095804,
+  "uniq": 1643658601,
   "workable_servers": [
     "ia601508.us.archive.org",
     "ia801508.us.archive.org"
