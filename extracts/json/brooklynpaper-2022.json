@@ -1,5 +1,5 @@
 {
-  "created": 1665469487,
+  "created": 1665505420,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/5/items/brooklynpaper-2022",
@@ -8584,31 +8584,93 @@
       "sha1": "e07d90f11cf080c5ce150dbe3ba77ac8bb35eb86"
     },
     {
+      "name": "brooklynpaper-2022-10-11T12:21:39.551810-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665505308",
+      "size": "18192",
+      "md5": "202e0702ab584b14e69222222798ad13",
+      "crc32": "998eb3df",
+      "sha1": "bb950fde12447db53c20f047f909b9ae891c5463",
+      "format": "JSON"
+    },
+    {
+      "name": "brooklynpaper-2022-10-11T12:21:39.551810-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665505310",
+      "size": "19357",
+      "md5": "2e5d9ecea547b6757f16dbcff9a42ef2",
+      "crc32": "c6d02816",
+      "sha1": "8f248a9fb8c7a5b35ab94ea47b25d947383d5ea6",
+      "format": "JSON"
+    },
+    {
+      "name": "brooklynpaper-2022-10-11T12:21:39.551810-04:00.jpg",
+      "source": "original",
+      "mtime": "1665505306",
+      "size": "277096",
+      "md5": "6827058b026aa3b460dedac97c616e92",
+      "crc32": "8960bfc3",
+      "sha1": "9ca9e76923f465df4cccf0ab0550c2ca63a03ce3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "brooklynpaper-2022-10-11T12:21:39.551810-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665505312",
+      "size": "1522",
+      "md5": "089c4b8c49fc7e5ac84a8cdf040f1711",
+      "crc32": "2d711fc3",
+      "sha1": "3f26a0f57d92e5b04fab1538693d3f9677852882",
+      "format": "JSON"
+    },
+    {
+      "name": "brooklynpaper-2022-10-11T12:21:39.551810-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665505313",
+      "size": "42338",
+      "md5": "e0bda032f2823577f77c240b5083387a",
+      "crc32": "49a8823e",
+      "sha1": "c6ea2bd01b0a840b5f6f42ed29dd05c09e079fcf",
+      "format": "JSON"
+    },
+    {
+      "name": "brooklynpaper-2022-10-11T12:21:39.551810-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brooklynpaper-2022-10-11T12:21:39.551810-04:00.jpg",
+      "mtime": "1665505387",
+      "size": "9836",
+      "md5": "c59b3b7d136e5885feda752ddaa1cf0b",
+      "crc32": "38d0e36a",
+      "sha1": "a5ba924d0980133264d231c213e5852520bb6701"
+    },
+    {
       "name": "brooklynpaper-2022_archive.torrent",
       "source": "metadata",
-      "btih": "855fd360175bc054837292ce5058e6555119e8f7",
-      "mtime": "1665469472",
-      "size": "180045",
-      "md5": "c42f18d5c4a0c18f0cf861cfc802ef56",
-      "crc32": "7ac62988",
-      "sha1": "5cc4e525564ca8438545a08f172d62b22aebae68",
+      "btih": "aec6241349f4f33747900196eaedcdecba706c70",
+      "mtime": "1665505399",
+      "size": "181342",
+      "md5": "904de5f3b31539063aee5fadfaf80158",
+      "crc32": "2457a946",
+      "sha1": "30c7dd415ed580deb8c9b8ae9b2dcdec36cc11c8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "brooklynpaper-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "11f913256e296efdd5bd9b99a13a76e2",
+      "md5": "0ef66f546bbe4520550ff87f5c8fa706",
       "summation": "md5"
     },
     {
       "name": "brooklynpaper-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665469383",
-      "size": "1077248",
-      "md5": "fb2663b1bb3699cb4e28748bb9210c85",
-      "crc32": "af09b072",
-      "sha1": "caa51819302d2c02bd37a6e7b077b7a1a0ca6872",
+      "mtime": "1665505319",
+      "size": "1085440",
+      "md5": "fa12c1c79e8085ca1cd712e40b144f34",
+      "crc32": "d22760b4",
+      "sha1": "06ca88ccb9498de0c3ab10469f8e6d656dab8e0c",
       "format": "Metadata"
     },
     {
@@ -8622,9 +8684,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 834,
-  "item_last_updated": 1665469472,
-  "item_size": 49794045,
+  "files_count": 840,
+  "item_last_updated": 1665505399,
+  "item_size": 50171875,
   "metadata": {
     "identifier": "brooklynpaper-2022",
     "collection": [
@@ -8641,10 +8703,10 @@
     "publicdate": "2022-08-03 01:54:23",
     "addeddate": "2022-08-03 01:54:23"
   },
-  "server": "ia601405.us.archive.org",
-  "uniq": 497707740,
+  "server": "ia801405.us.archive.org",
+  "uniq": 514388596,
   "workable_servers": [
-    "ia601405.us.archive.org",
-    "ia801405.us.archive.org"
+    "ia801405.us.archive.org",
+    "ia601405.us.archive.org"
   ]
 }
