@@ -1,5 +1,6 @@
 {
-  "created": 1665547616,
+  "conflict": 1665579365,
+  "created": 1665579365,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/20/items/usatoday-2022",
@@ -32096,31 +32097,88 @@
       "sha1": "b4b30f59ec04650e55251b883bda90996bd41530"
     },
     {
+      "name": "usatoday-2022-10-12T08:51:15.201173-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665579112",
+      "size": "30671",
+      "md5": "e114ec79b623f776a55dd952aeffa192",
+      "crc32": "d2914087",
+      "sha1": "326b0e685dfa13e1fd32b301ee7ea9443936f85b",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-10-12T08:51:15.201173-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665579114",
+      "size": "38141",
+      "md5": "03ff391525ab713b1438e0d1cb70784a",
+      "crc32": "707e6c85",
+      "sha1": "e4f588733c6d1209f95568e66412d40e93bd98d3",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-10-12T08:51:15.201173-04:00.jpg",
+      "source": "original",
+      "mtime": "1665579110",
+      "size": "318942",
+      "md5": "db5efa1fd8ff1b597356c41eb99f96b4",
+      "crc32": "e7e69f0e",
+      "sha1": "fdc5155da885244b38f01bac2a4ec49120901a7c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "usatoday-2022-10-12T08:51:15.201173-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665579116",
+      "size": "1474",
+      "md5": "1217276745cc6c733b86c3da52702786",
+      "crc32": "e5ee99f0",
+      "sha1": "5cbea7681cef4c008465a867152fb963dcbc48a2",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-10-12T08:51:15.201173-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665579117",
+      "size": "114655",
+      "md5": "999e17ff8f83f9ece0f1b00fc6192435",
+      "crc32": "bc13ae17",
+      "sha1": "ae9a671fc14105560339feae1e5840091b66f699",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-10-12T08:51:15.201173-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "usatoday-2022-10-12T08:51:15.201173-04:00.jpg"
+    },
+    {
       "name": "usatoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9dc78535c19ce41009b3b144c8cd4a4588dc3cfd",
-      "mtime": "1665547588",
-      "size": "651274",
-      "md5": "f360a8c6246147b2570043221ef26f1c",
-      "crc32": "55747c63",
-      "sha1": "a19882764848c2af475862de31875db77b36a447",
+      "btih": "4a94a00e415c7d5eab9ecfc09ce4fd1c7ecf831f",
+      "mtime": "1665579256",
+      "size": "652338",
+      "md5": "da05ea567af99af6caf0a9f5562ab182",
+      "crc32": "cd4c9f72",
+      "sha1": "b512e27b1abbaa4ce50f6b1735f43b317a2cda1e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "usatoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6c780ef1400813f820736f797176b339",
+      "md5": "a114b991223cb9f0f35737247cfab7e0",
       "summation": "md5"
     },
     {
       "name": "usatoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665547071",
-      "size": "3735552",
-      "md5": "5f47aae4c3056e9a89b6e7f6ecb17e7b",
-      "crc32": "1f6d74e5",
-      "sha1": "f2c6b12b1bcb993a10dabb8a392369e96313d7c1",
+      "mtime": "1665579134",
+      "size": "3739648",
+      "md5": "1145078bb075c25d715eb60a647e0158",
+      "crc32": "b075e76a",
+      "sha1": "709eed7555a82991c5a089755762ff475c095d7b",
       "format": "Metadata"
     },
     {
@@ -32134,9 +32192,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 3086,
-  "item_last_updated": 1665547588,
-  "item_size": 271780837,
+  "files_count": 3092,
+  "item_last_updated": 1665579256,
+  "item_size": 272289880,
   "metadata": {
     "identifier": "usatoday-2022",
     "collection": [
@@ -32153,10 +32211,21 @@
     "publicdate": "2022-03-23 12:05:23",
     "addeddate": "2022-03-23 12:05:23"
   },
+  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "uniq": 1637652212,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3436996856,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1683019087,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia601500.us.archive.org"
   ]
 }
