@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 263 screenshots with the Internet Archive.
+The archiving routine has saved 266 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-10-12T11:48:08.059342-07:00.jpg">
+  <img src="https://archive.org/download/techcrunch-2022/techcrunch-2022-10-12T11:48:08.059342-07:00.jpg"
+     alt="TechCrunch at 2022-10-12 11:48:42-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-10-12T11:48:08.059342-07:00.jpg">October 12 at 11:48 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-10-12T01:09:24.328926-07:00.jpg">
+  <img src="https://archive.org/download/techcrunch-2022/techcrunch-2022-10-12T01:09:24.328926-07:00.jpg"
+     alt="TechCrunch at 2022-10-12 01:09:32-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-10-12T01:09:24.328926-07:00.jpg">October 12 at 1:09 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-10-11T12:18:22.028881-07:00.jpg">
+  <img src="https://archive.org/download/techcrunch-2022/techcrunch-2022-10-11T12:18:22.028881-07:00.jpg"
+     alt="TechCrunch at 2022-10-11 12:18:28-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-10-11T12:18:22.028881-07:00.jpg">October 11 at 12:18 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-10-11T01:11:50.652766-07:00.jpg">
   <img src="https://archive.org/download/techcrunch-2022/techcrunch-2022-10-11T01:11:50.652766-07:00.jpg"
      alt="TechCrunch at 2022-10-11 01:11:57-07:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-10-07T00:54:03.868883-07:00.jpg">October 7 at 12:54 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-10-06T13:28:23.319133-07:00.jpg">
-  <img src="https://archive.org/download/techcrunch-2022/techcrunch-2022-10-06T13:28:23.319133-07:00.jpg"
-     alt="TechCrunch at 2022-10-06 13:28:32-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-10-06T13:28:23.319133-07:00.jpg">October 6 at 1:28 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-10-06T00:19:20.762975-07:00.jpg">
-  <img src="https://archive.org/download/techcrunch-2022/techcrunch-2022-10-06T00:19:20.762975-07:00.jpg"
-     alt="TechCrunch at 2022-10-06 00:19:33-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-10-06T00:19:20.762975-07:00.jpg">October 6 at 12:19 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-10-05T13:48:12.032205-07:00.jpg">
-  <img src="https://archive.org/download/techcrunch-2022/techcrunch-2022-10-05T13:48:12.032205-07:00.jpg"
-     alt="TechCrunch at 2022-10-05 13:48:51-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/techcrunch-2022/techcrunch-2022-10-05T13:48:12.032205-07:00.jpg">October 5 at 1:48 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 264 hyperlink lists with the Internet Archive.
+The archiving routine has saved 267 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 12 at 11:48 AM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-12T11:48:08.059342-07:00.hyperlinks.json) |
+| [October 12 at 1:09 AM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-12T01:09:24.328926-07:00.hyperlinks.json) |
+| [October 11 at 12:18 PM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-11T12:18:22.028881-07:00.hyperlinks.json) |
 | [October 11 at 1:12 AM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-11T01:11:50.652766-07:00.hyperlinks.json) |
 | [October 10 at 1:11 PM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-10T13:10:51.034441-07:00.hyperlinks.json) |
 | [October 10 at 1:25 AM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-10T01:25:35.253836-07:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 9 at 12:30 AM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-09T00:30:29.023763-07:00.hyperlinks.json) |
 | [October 8 at 12:06 PM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-08T12:06:13.733517-07:00.hyperlinks.json) |
 | [October 8 at 12:10 AM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-08T00:10:33.047858-07:00.hyperlinks.json) |
-| [October 7 at 1:23 PM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-07T13:23:15.108394-07:00.hyperlinks.json) |
-| [October 7 at 12:54 AM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-07T00:54:03.868883-07:00.hyperlinks.json) |
-| [October 6 at 1:28 PM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-06T13:28:23.319133-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 264 accessibility trees with the Internet Archive.
+The archiving routine has saved 267 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 12 at 11:48 AM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-12T11:48:08.059342-07:00.accessibility.json) |
+| [October 12 at 1:09 AM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-12T01:09:24.328926-07:00.accessibility.json) |
+| [October 11 at 12:18 PM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-11T12:18:22.028881-07:00.accessibility.json) |
 | [October 11 at 1:11 AM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-11T01:11:50.652766-07:00.accessibility.json) |
 | [October 10 at 1:11 PM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-10T13:10:51.034441-07:00.accessibility.json) |
 | [October 10 at 1:25 AM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-10T01:25:35.253836-07:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 9 at 12:30 AM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-09T00:30:29.023763-07:00.accessibility.json) |
 | [October 8 at 12:06 PM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-08T12:06:13.733517-07:00.accessibility.json) |
 | [October 8 at 12:10 AM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-08T00:10:33.047858-07:00.accessibility.json) |
-| [October 7 at 1:23 PM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-07T13:23:15.108394-07:00.accessibility.json) |
-| [October 7 at 12:54 AM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-07T00:54:03.868883-07:00.accessibility.json) |
-| [October 6 at 1:28 PM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-06T13:28:23.319133-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 159 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 162 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 12 at 11:48 AM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-12T11:48:08.059342-07:00.lighthouse.json) |
+| [October 12 at 1:09 AM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-12T01:09:24.328926-07:00.lighthouse.json) |
+| [October 11 at 12:18 PM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-11T12:18:22.028881-07:00.lighthouse.json) |
 | [October 11 at 1:12 AM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-11T01:11:50.652766-07:00.lighthouse.json) |
 | [October 10 at 1:11 PM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-10T13:10:51.034441-07:00.lighthouse.json) |
 | [October 10 at 1:25 AM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-10T01:25:35.253836-07:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 9 at 12:30 AM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-09T00:30:29.023763-07:00.lighthouse.json) |
 | [October 8 at 12:06 PM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-08T12:06:13.733517-07:00.lighthouse.json) |
 | [October 8 at 12:10 AM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-08T00:10:33.047858-07:00.lighthouse.json) |
-| [October 7 at 1:23 PM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-07T13:23:15.108394-07:00.lighthouse.json) |
-| [October 7 at 12:54 AM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-07T00:54:03.868883-07:00.lighthouse.json) |
-| [October 6 at 1:28 PM](https://archive.org/download/techcrunch-2022/techcrunch-2022-10-06T13:28:23.319133-07:00.lighthouse.json) |
 
 
 

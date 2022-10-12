@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 55 screenshots with the Internet Archive.
+The archiving routine has saved 58 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-12T14:54:27.391672-04:00.jpg">
+  <img src="https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-12T14:54:27.391672-04:00.jpg"
+     alt="Yale Daily News at 2022-10-12 14:54:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-12T14:54:27.391672-04:00.jpg">October 12 at 2:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-12T04:14:04.484494-04:00.jpg">
+  <img src="https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-12T04:14:04.484494-04:00.jpg"
+     alt="Yale Daily News at 2022-10-12 04:14:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-12T04:14:04.484494-04:00.jpg">October 12 at 4:14 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-11T15:21:44.363760-04:00.jpg">
+  <img src="https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-11T15:21:44.363760-04:00.jpg"
+     alt="Yale Daily News at 2022-10-11 15:21:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-11T15:21:44.363760-04:00.jpg">October 11 at 3:21 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-11T04:16:12.562090-04:00.jpg">
   <img src="https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-11T04:16:12.562090-04:00.jpg"
      alt="Yale Daily News at 2022-10-11 04:16:16-04:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-07T03:58:30.173792-04:00.jpg">October 7 at 3:58 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-06T16:33:54.475644-04:00.jpg">
-  <img src="https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-06T16:33:54.475644-04:00.jpg"
-     alt="Yale Daily News at 2022-10-06 16:33:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-06T16:33:54.475644-04:00.jpg">October 6 at 4:33 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-06T03:23:36.277361-04:00.jpg">
-  <img src="https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-06T03:23:36.277361-04:00.jpg"
-     alt="Yale Daily News at 2022-10-06 03:23:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-06T03:23:36.277361-04:00.jpg">October 6 at 3:23 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-05T16:53:42.835328-04:00.jpg">
-  <img src="https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-05T16:53:42.835328-04:00.jpg"
-     alt="Yale Daily News at 2022-10-05 16:53:47-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-05T16:53:42.835328-04:00.jpg">October 5 at 4:53 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 55 hyperlink lists with the Internet Archive.
+The archiving routine has saved 58 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 12 at 2:54 PM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-12T14:54:27.391672-04:00.hyperlinks.json) |
+| [October 12 at 4:14 AM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-12T04:14:04.484494-04:00.hyperlinks.json) |
+| [October 11 at 3:21 PM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-11T15:21:44.363760-04:00.hyperlinks.json) |
 | [October 11 at 4:16 AM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-11T04:16:12.562090-04:00.hyperlinks.json) |
 | [October 10 at 4:15 PM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-10T16:15:21.255333-04:00.hyperlinks.json) |
 | [October 10 at 4:31 AM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-10T04:30:55.978526-04:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 9 at 3:35 AM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-09T03:34:56.171399-04:00.hyperlinks.json) |
 | [October 8 at 3:13 PM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-08T15:12:58.684359-04:00.hyperlinks.json) |
 | [October 8 at 3:15 AM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-08T03:15:07.879314-04:00.hyperlinks.json) |
-| [October 7 at 4:28 PM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-07T16:28:46.069383-04:00.hyperlinks.json) |
-| [October 7 at 3:58 AM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-07T03:58:30.173792-04:00.hyperlinks.json) |
-| [October 6 at 4:34 PM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-06T16:33:54.475644-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 55 accessibility trees with the Internet Archive.
+The archiving routine has saved 58 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 12 at 2:54 PM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-12T14:54:27.391672-04:00.accessibility.json) |
+| [October 12 at 4:14 AM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-12T04:14:04.484494-04:00.accessibility.json) |
+| [October 11 at 3:21 PM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-11T15:21:44.363760-04:00.accessibility.json) |
 | [October 11 at 4:16 AM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-11T04:16:12.562090-04:00.accessibility.json) |
 | [October 10 at 4:15 PM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-10T16:15:21.255333-04:00.accessibility.json) |
 | [October 10 at 4:31 AM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-10T04:30:55.978526-04:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 9 at 3:35 AM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-09T03:34:56.171399-04:00.accessibility.json) |
 | [October 8 at 3:13 PM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-08T15:12:58.684359-04:00.accessibility.json) |
 | [October 8 at 3:15 AM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-08T03:15:07.879314-04:00.accessibility.json) |
-| [October 7 at 4:28 PM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-07T16:28:46.069383-04:00.accessibility.json) |
-| [October 7 at 3:58 AM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-07T03:58:30.173792-04:00.accessibility.json) |
-| [October 6 at 4:33 PM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-06T16:33:54.475644-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 58 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 12 at 2:54 PM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-12T14:54:27.391672-04:00.lighthouse.json) |
+| [October 12 at 4:14 AM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-12T04:14:04.484494-04:00.lighthouse.json) |
+| [October 11 at 3:21 PM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-11T15:21:44.363760-04:00.lighthouse.json) |
 | [October 11 at 4:16 AM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-11T04:16:12.562090-04:00.lighthouse.json) |
 | [October 10 at 4:15 PM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-10T16:15:21.255333-04:00.lighthouse.json) |
 | [October 10 at 4:31 AM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-10T04:30:55.978526-04:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 9 at 3:35 AM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-09T03:34:56.171399-04:00.lighthouse.json) |
 | [October 8 at 3:13 PM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-08T15:12:58.684359-04:00.lighthouse.json) |
 | [October 8 at 3:15 AM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-08T03:15:07.879314-04:00.lighthouse.json) |
-| [October 7 at 4:28 PM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-07T16:28:46.069383-04:00.lighthouse.json) |
-| [October 7 at 3:58 AM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-07T03:58:30.173792-04:00.lighthouse.json) |
-| [October 6 at 4:34 PM](https://archive.org/download/yaledailynews-2022/yaledailynews-2022-10-06T16:33:54.475644-04:00.lighthouse.json) |
 
 
 

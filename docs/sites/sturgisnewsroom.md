@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 42 screenshots with the Internet Archive.
+The archiving routine has saved 45 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-12T14:48:08.004937-04:00.jpg">
+  <img src="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-12T14:48:08.004937-04:00.jpg"
+     alt="Sturgis Journal at 2022-10-12 14:48:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-12T14:48:08.004937-04:00.jpg">October 12 at 2:48 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-12T04:08:59.842735-04:00.jpg">
+  <img src="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-12T04:08:59.842735-04:00.jpg"
+     alt="Sturgis Journal at 2022-10-12 04:09:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-12T04:08:59.842735-04:00.jpg">October 12 at 4:09 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-11T15:16:17.964300-04:00.jpg">
+  <img src="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-11T15:16:17.964300-04:00.jpg"
+     alt="Sturgis Journal at 2022-10-11 15:16:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-11T15:16:17.964300-04:00.jpg">October 11 at 3:16 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-11T04:09:49.774129-04:00.jpg">
   <img src="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-11T04:09:49.774129-04:00.jpg"
      alt="Sturgis Journal at 2022-10-11 04:09:51-04:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-07T03:53:29.654738-04:00.jpg">October 7 at 3:53 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-06T16:28:18.117140-04:00.jpg">
-  <img src="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-06T16:28:18.117140-04:00.jpg"
-     alt="Sturgis Journal at 2022-10-06 16:28:20-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-06T16:28:18.117140-04:00.jpg">October 6 at 4:28 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-06T03:19:51.231812-04:00.jpg">
-  <img src="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-06T03:19:51.231812-04:00.jpg"
-     alt="Sturgis Journal at 2022-10-06 03:19:53-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-06T03:19:51.231812-04:00.jpg">October 6 at 3:19 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-05T16:48:30.834590-04:00.jpg">
-  <img src="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-05T16:48:30.834590-04:00.jpg"
-     alt="Sturgis Journal at 2022-10-05 16:48:32-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-05T16:48:30.834590-04:00.jpg">October 5 at 4:48 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 42 hyperlink lists with the Internet Archive.
+The archiving routine has saved 45 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 12 at 2:48 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-12T14:48:08.004937-04:00.hyperlinks.json) |
+| [October 12 at 4:09 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-12T04:08:59.842735-04:00.hyperlinks.json) |
+| [October 11 at 3:16 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-11T15:16:17.964300-04:00.hyperlinks.json) |
 | [October 11 at 4:09 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-11T04:09:49.774129-04:00.hyperlinks.json) |
 | [October 10 at 4:11 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-10T16:11:18.243577-04:00.hyperlinks.json) |
 | [October 10 at 4:22 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-10T04:22:11.584792-04:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 9 at 3:30 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-09T03:30:13.188630-04:00.hyperlinks.json) |
 | [October 8 at 3:05 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-08T15:05:43.735906-04:00.hyperlinks.json) |
 | [October 8 at 3:11 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-08T03:11:22.114630-04:00.hyperlinks.json) |
-| [October 7 at 4:23 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-07T16:23:07.323964-04:00.hyperlinks.json) |
-| [October 7 at 3:53 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-07T03:53:29.654738-04:00.hyperlinks.json) |
-| [October 6 at 4:28 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-06T16:28:18.117140-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 42 accessibility trees with the Internet Archive.
+The archiving routine has saved 45 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 12 at 2:48 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-12T14:48:08.004937-04:00.accessibility.json) |
+| [October 12 at 4:09 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-12T04:08:59.842735-04:00.accessibility.json) |
+| [October 11 at 3:16 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-11T15:16:17.964300-04:00.accessibility.json) |
 | [October 11 at 4:09 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-11T04:09:49.774129-04:00.accessibility.json) |
 | [October 10 at 4:11 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-10T16:11:18.243577-04:00.accessibility.json) |
 | [October 10 at 4:22 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-10T04:22:11.584792-04:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 9 at 3:30 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-09T03:30:13.188630-04:00.accessibility.json) |
 | [October 8 at 3:05 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-08T15:05:43.735906-04:00.accessibility.json) |
 | [October 8 at 3:11 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-08T03:11:22.114630-04:00.accessibility.json) |
-| [October 7 at 4:23 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-07T16:23:07.323964-04:00.accessibility.json) |
-| [October 7 at 3:53 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-07T03:53:29.654738-04:00.accessibility.json) |
-| [October 6 at 4:28 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-06T16:28:18.117140-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 42 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 12 at 2:48 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-12T14:48:08.004937-04:00.lighthouse.json) |
+| [October 12 at 4:09 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-12T04:08:59.842735-04:00.lighthouse.json) |
+| [October 11 at 3:16 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-11T15:16:17.964300-04:00.lighthouse.json) |
 | [October 11 at 4:09 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-11T04:09:49.774129-04:00.lighthouse.json) |
 | [October 10 at 4:11 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-10T16:11:18.243577-04:00.lighthouse.json) |
 | [October 10 at 4:22 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-10T04:22:11.584792-04:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 9 at 3:30 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-09T03:30:13.188630-04:00.lighthouse.json) |
 | [October 8 at 3:05 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-08T15:05:43.735906-04:00.lighthouse.json) |
 | [October 8 at 3:11 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-08T03:11:22.114630-04:00.lighthouse.json) |
-| [October 7 at 4:23 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-07T16:23:07.323964-04:00.lighthouse.json) |
-| [October 7 at 3:53 AM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-07T03:53:29.654738-04:00.lighthouse.json) |
-| [October 6 at 4:28 PM](https://archive.org/download/sturgisnewsroom-2022/sturgisnewsroom-2022-10-06T16:28:18.117140-04:00.lighthouse.json) |
 
 
 
