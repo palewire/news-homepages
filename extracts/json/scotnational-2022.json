@@ -1,5 +1,5 @@
 {
-  "created": 1665567043,
+  "created": 1665587137,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/6/items/scotnational-2022",
@@ -14416,31 +14416,93 @@
       "sha1": "b484893675471d9e65e2641cc31cf1295736cf34"
     },
     {
+      "name": "scotnational-2022-10-12T16:02:48.464175+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665586985",
+      "size": "31558",
+      "md5": "c94059ea54d1343001b23f60cf9d3f4f",
+      "crc32": "2e6ff678",
+      "sha1": "2ecaed3a6e26c6d4e438fb2adfa16e7f84a6f373",
+      "format": "JSON"
+    },
+    {
+      "name": "scotnational-2022-10-12T16:02:48.464175+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665586987",
+      "size": "48391",
+      "md5": "ef1c163538bc6351b47bd1a96c2c8260",
+      "crc32": "e8c1561d",
+      "sha1": "06765ee81d3240c0108a166b8f88e8a1f17a73f9",
+      "format": "JSON"
+    },
+    {
+      "name": "scotnational-2022-10-12T16:02:48.464175+01:00.jpg",
+      "source": "original",
+      "mtime": "1665586982",
+      "size": "269578",
+      "md5": "5fa1456349c6b1134facd36fdc9a1a9e",
+      "crc32": "1f5512ba",
+      "sha1": "533c943cb4a84ad9a811a8945d88104efa77ccbb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "scotnational-2022-10-12T16:02:48.464175+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665586989",
+      "size": "1513",
+      "md5": "df08a4ef0765e4c8a2fb6432800376b4",
+      "crc32": "70935146",
+      "sha1": "3c6c8f5d9bbc35404b80cf0f5a94c990c501f464",
+      "format": "JSON"
+    },
+    {
+      "name": "scotnational-2022-10-12T16:02:48.464175+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1665586991",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "scotnational-2022-10-12T16:02:48.464175+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "scotnational-2022-10-12T16:02:48.464175+01:00.jpg",
+      "mtime": "1665587095",
+      "size": "10369",
+      "md5": "959f4640da132655b4cd3352de0a267e",
+      "crc32": "e608f983",
+      "sha1": "173a2d3cfb42086f58f9ee5821e5f283fefcb1f7"
+    },
+    {
       "name": "scotnational-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b6bcdae9d8fd40c551a7307e2c0a5c89e6dc3fb7",
-      "mtime": "1665567009",
-      "size": "299716",
-      "md5": "de8b03a2bdb27a3b262d43dacda9753c",
-      "crc32": "664f5ec4",
-      "sha1": "e653c25d347bd592dbb90d6d1ef6acb49205548d",
+      "btih": "5e95eaf0738758c7aa7ca7f60a758c5c1a5183ff",
+      "mtime": "1665587114",
+      "size": "301006",
+      "md5": "58c8677cfb268eaff1dc96262500c0c1",
+      "crc32": "8e34549e",
+      "sha1": "817a4a4f82eea651b08707d5e7a4f532d89e03ff",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scotnational-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bb1fe3fd1bbc165fb78cd59636a319d6",
+      "md5": "459c9004c44c6ddb8d3fa0a43b161bec",
       "summation": "md5"
     },
     {
       "name": "scotnational-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665566891",
-      "size": "1757184",
-      "md5": "c8a748075cfde0369cc6811a09f8902f",
-      "crc32": "dae461b3",
-      "sha1": "3f71d29776e1190f001c2bd1a1f182bbdf8432d1",
+      "mtime": "1665586999",
+      "size": "1765376",
+      "md5": "869185571f589d861d9929df9ac87718",
+      "crc32": "f5dfbdcd",
+      "sha1": "2df2e50057e6a9a18a19c270662ca98da90953e8",
       "format": "Metadata"
     },
     {
@@ -14454,9 +14516,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1395,
-  "item_last_updated": 1665567009,
-  "item_size": 100685755,
+  "files_count": 1401,
+  "item_last_updated": 1665587114,
+  "item_size": 101056848,
   "metadata": {
     "identifier": "scotnational-2022",
     "collection": [
@@ -14473,10 +14535,10 @@
     "publicdate": "2022-07-06 21:13:16",
     "addeddate": "2022-07-06 21:13:16"
   },
-  "server": "ia601502.us.archive.org",
-  "uniq": 1878534473,
+  "server": "ia801502.us.archive.org",
+  "uniq": 1920151816,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia801502.us.archive.org",
+    "ia601502.us.archive.org"
   ]
 }

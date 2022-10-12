@@ -1,5 +1,5 @@
 {
-  "created": 1665567077,
+  "created": 1665588340,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/16/items/thesun-2022",
@@ -26970,31 +26970,82 @@
       "sha1": "c3fe2eaeefa1de23b560657f8d187e97febed621"
     },
     {
+      "name": "thesun-2022-10-12T16:05:18.012809+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665587123",
+      "size": "91218",
+      "md5": "684054d3e46362f06e0331702528032a",
+      "crc32": "b13ebd9b",
+      "sha1": "31079cb88a05b1ac396e4a30586319cae29613c4",
+      "format": "JSON"
+    },
+    {
+      "name": "thesun-2022-10-12T16:05:18.012809+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665587125",
+      "size": "109054",
+      "md5": "f7c11fda0ee9b8fce0d536833e1a117a",
+      "crc32": "38634772",
+      "sha1": "3da63a78642faef9e9943adae4991f5cd6b9184f",
+      "format": "JSON"
+    },
+    {
+      "name": "thesun-2022-10-12T16:05:18.012809+01:00.jpg",
+      "source": "original",
+      "mtime": "1665587120",
+      "size": "305121",
+      "md5": "9564c1fb0ee8eafd3d9e193e54a8c6e8",
+      "crc32": "43ed0566",
+      "sha1": "fd01c9f29d458c18d66b9ee8794c9d42026a101b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thesun-2022-10-12T16:05:18.012809+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665587128",
+      "size": "1477",
+      "md5": "27f742104a5743bb414e92e4a2e4c552",
+      "crc32": "23da31e2",
+      "sha1": "9168ae6e95e5d79d6bc596d9a47a23d74f8e121b",
+      "format": "JSON"
+    },
+    {
+      "name": "thesun-2022-10-12T16:05:18.012809+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1665587130",
+      "size": "79828",
+      "md5": "3cff9d47bb7343ec019d15ce2132d696",
+      "crc32": "bb238b03",
+      "sha1": "1259c63b25ec7c43e7328fefec27cc9cf626e769",
+      "format": "JSON"
+    },
+    {
       "name": "thesun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4910de87dca788d41a2172e15883638d4d959ab7",
-      "mtime": "1665567065",
-      "size": "545209",
-      "md5": "13af28fc1e1042457a9b8e389bb88c1f",
-      "crc32": "ad961def",
-      "sha1": "20ff8a9c7b2c9709d21e8c382b58436e0a7c4a2c",
+      "btih": "ca13d911b3e12b07a338ddd14c01d9b58dc5246c",
+      "mtime": "1665587890",
+      "size": "546263",
+      "md5": "fb3a7a24f1a9154d995a0d9c88c150c1",
+      "crc32": "c897332e",
+      "sha1": "9aef91d58df65ccd1055b60b93b8cbf54f719ce6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thesun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "61c0322620a44b2ad7d65873b36a5956",
+      "md5": "0acf1e731a1ff889a43e2c93f95acf58",
       "summation": "md5"
     },
     {
       "name": "thesun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665566891",
-      "size": "3117056",
-      "md5": "d727f07c3732d0dc0242053f3b8f5cec",
-      "crc32": "22e9123c",
-      "sha1": "9a09f792e4beec78b821294f5432b168d9a99c7c",
+      "mtime": "1665587379",
+      "size": "3125248",
+      "md5": "9048a2e3c1d28e8465fda26df49b61e9",
+      "crc32": "dd76329a",
+      "sha1": "b47b3facae02ac8a94911d438b66f75dfee8420d",
       "format": "Metadata"
     },
     {
@@ -27008,9 +27059,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2592,
-  "item_last_updated": 1665567065,
-  "item_size": 292063786,
+  "files_count": 2597,
+  "item_last_updated": 1665587890,
+  "item_size": 292659730,
   "metadata": {
     "identifier": "thesun-2022",
     "collection": [
@@ -27027,9 +27078,20 @@
     "publicdate": "2022-03-23 08:04:03",
     "addeddate": "2022-03-23 08:04:03"
   },
+  "pending_tasks": true,
   "server": "ia902508.us.archive.org",
   "servers_unavailable": true,
-  "uniq": 997751207,
+  "tasks": [
+    {
+      "task_id": 3437118055,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1970556529,
   "workable_servers": [
     "ia902508.us.archive.org"
   ]

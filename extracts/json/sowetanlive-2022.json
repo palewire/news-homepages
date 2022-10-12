@@ -1,5 +1,5 @@
 {
-  "created": 1665547116,
+  "created": 1665587120,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/2/items/sowetanlive-2022",
@@ -6104,31 +6104,93 @@
       "sha1": "77a14b04c5d960b7b7a5192c63276e8e2ac2dd7a"
     },
     {
+      "name": "sowetanlive-2022-10-12T17:03:30.526865+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665587022",
+      "size": "28658",
+      "md5": "fd396f7cfdc75eaa1535d402f02a4682",
+      "crc32": "7e055083",
+      "sha1": "4991c8386876f9f48797a0c63c4a6b7bc03c127b",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-12T17:03:30.526865+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665587024",
+      "size": "27718",
+      "md5": "d9970ec1bba927b3c3a45c64bb6c3543",
+      "crc32": "8d2e00c6",
+      "sha1": "bbebd541e167e1b9da1915decf91347e046fb2be",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-12T17:03:30.526865+02:00.jpg",
+      "source": "original",
+      "mtime": "1665587020",
+      "size": "264004",
+      "md5": "65789edefc6ba060839f145c775f6091",
+      "crc32": "7ac3f0dc",
+      "sha1": "94bfa87a3282d29565137dbe692cef104ab33419",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sowetanlive-2022-10-12T17:03:30.526865+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665587025",
+      "size": "1520",
+      "md5": "1dfcee319ddf8f78995cde9728977293",
+      "crc32": "6401b9d4",
+      "sha1": "2c5b2a7302cb62433189bab94c79b23883e8a1d9",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-12T17:03:30.526865+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665587027",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-12T17:03:30.526865+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sowetanlive-2022-10-12T17:03:30.526865+02:00.jpg",
+      "mtime": "1665587097",
+      "size": "9928",
+      "md5": "eb4e2a122f562984759177e0670f0036",
+      "crc32": "10f887ce",
+      "sha1": "dba38c3bd430fa3762210674a230f2022a000ea1"
+    },
+    {
       "name": "sowetanlive-2022_archive.torrent",
       "source": "metadata",
-      "btih": "97402f972d7dfc1d49d9e01433aae5d7427a3909",
-      "mtime": "1665547028",
-      "size": "127049",
-      "md5": "da2aabbf894e95b4f8988b1d8d9981ff",
-      "crc32": "481ee9fa",
-      "sha1": "54289e4e6cbdf53ba283ff0adbcb7ad550f47ff6",
+      "btih": "4a2b09fa7b6fcdf6a72b4b386a0ecd6db9fe285d",
+      "mtime": "1665587105",
+      "size": "128332",
+      "md5": "1ef541e839a43c5e95ea204b21f5e603",
+      "crc32": "c3226e0e",
+      "sha1": "003b0aa600e54ec683861057e5d2b359badd6069",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sowetanlive-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3a6fcc325bf29f01bf1629889b694ebe",
+      "md5": "e43d7349299b85fab1546d0ad6c07eeb",
       "summation": "md5"
     },
     {
       "name": "sowetanlive-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665546656",
-      "size": "770048",
-      "md5": "9f7e958558da1b566b64ad9b90777532",
-      "crc32": "f57dc609",
-      "sha1": "ba0c3648a8b2a385eb17a34c8fdb652996f65bdb",
+      "mtime": "1665587035",
+      "size": "774144",
+      "md5": "b3fb0352d1cde9e9835894e26518ab6e",
+      "crc32": "61bec169",
+      "sha1": "4435d73af56a537ab52c683c4ecb507d00d60c85",
       "format": "Metadata"
     },
     {
@@ -6142,9 +6204,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 594,
-  "item_last_updated": 1665547028,
-  "item_size": 33973004,
+  "files_count": 600,
+  "item_last_updated": 1665587105,
+  "item_size": 34310413,
   "metadata": {
     "identifier": "sowetanlive-2022",
     "collection": [
@@ -6161,10 +6223,10 @@
     "publicdate": "2022-08-23 12:56:55",
     "addeddate": "2022-08-23 12:56:55"
   },
-  "server": "ia601508.us.archive.org",
-  "uniq": 1861486830,
+  "server": "ia801508.us.archive.org",
+  "uniq": 1436889640,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia801508.us.archive.org",
+    "ia601508.us.archive.org"
   ]
 }
