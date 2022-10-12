@@ -1,5 +1,5 @@
 {
-  "created": 1665579265,
+  "created": 1665603019,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/33/items/huffpost-2022",
@@ -19382,31 +19382,93 @@
       "sha1": "78a000f4862d7191a087d7875b6866b6f9d087ac"
     },
     {
+      "name": "huffpost-2022-10-12T15:28:02.505189-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665602897",
+      "size": "36316",
+      "md5": "56c34e18fe5ec82d5c150123151b5747",
+      "crc32": "6c0da9ad",
+      "sha1": "764d40a1be06a6f13fb453fa3720bf11b4e29fe5",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-10-12T15:28:02.505189-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665602898",
+      "size": "42244",
+      "md5": "044a6a96722df5b013f2a5fb7e5a52e1",
+      "crc32": "04d2d743",
+      "sha1": "ce25878a30a6587e9813091bdea0423ae7172fcd",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-10-12T15:28:02.505189-04:00.jpg",
+      "source": "original",
+      "mtime": "1665602895",
+      "size": "273677",
+      "md5": "5616ceba657b96bc411e8c5f8d3030a2",
+      "crc32": "809beda6",
+      "sha1": "8997b81288b5aab77db7a2226fb75a8d8df46ded",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "huffpost-2022-10-12T15:28:02.505189-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665602900",
+      "size": "1477",
+      "md5": "bc2d05c9a4ca6306c58a9c0c50a5f1c1",
+      "crc32": "d999d36d",
+      "sha1": "661ff1850d4e70e00317dfce217123b4bcc27237",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-10-12T15:28:02.505189-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665602902",
+      "size": "232",
+      "md5": "bec6fa5683470f84e2db66212a624b76",
+      "crc32": "b14f5b78",
+      "sha1": "be2ae3b7cab78c90bc6a1b7eb7ce50a0361ee47d",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-10-12T15:28:02.505189-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "huffpost-2022-10-12T15:28:02.505189-04:00.jpg",
+      "mtime": "1665602979",
+      "size": "10712",
+      "md5": "75b91af966de2f58937ea9c5dde3596b",
+      "crc32": "fe418af8",
+      "sha1": "2dc9c853cfda471ee4b60a9a09185b8583cf2a7e"
+    },
+    {
       "name": "huffpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c322ff52b91a755615d309679a7d597649a30180",
-      "mtime": "1665579238",
-      "size": "394411",
-      "md5": "9acca032fc1c80284ed285dc91d5e22b",
-      "crc32": "565170bf",
-      "sha1": "167762d881a22cc6b381c67a534bc4adffeddb8f",
+      "btih": "dc41c34f4f057d78e41f36e17cb3637a71a94084",
+      "mtime": "1665603011",
+      "size": "395657",
+      "md5": "0fd84a6a2021aac8450e8b567b9034fd",
+      "crc32": "0271fbd1",
+      "sha1": "0bf652e6c1370d31aac69fc23b1634e77a077880",
       "format": "Archive BitTorrent"
     },
     {
       "name": "huffpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "faaceaea660bf8e1f18b77e454363038",
+      "md5": "60bb2a6b1d303df5c8842aa8de7b5d38",
       "summation": "md5"
     },
     {
       "name": "huffpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665579132",
-      "size": "2306048",
-      "md5": "b030c8a9db76043038307b0a8b1e9294",
-      "crc32": "fdfb1afe",
-      "sha1": "ba595ab31e61b17876d334aec0ee71e957d7e4d6",
+      "mtime": "1665602906",
+      "size": "2310144",
+      "md5": "fc7ef308c7aa1160ef4535354d608587",
+      "crc32": "1c975cf9",
+      "sha1": "fdc0d4b7663ff50159aee248f19ee9be50e5f4e8",
       "format": "Metadata"
     },
     {
@@ -19420,9 +19482,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1870,
-  "item_last_updated": 1665579238,
-  "item_size": 138369123,
+  "files_count": 1876,
+  "item_last_updated": 1665603011,
+  "item_size": 138739123,
   "metadata": {
     "identifier": "huffpost-2022",
     "collection": [
@@ -19439,10 +19501,10 @@
     "publicdate": "2022-06-24 22:56:52",
     "addeddate": "2022-06-24 22:56:52"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 2007359108,
+  "server": "ia902502.us.archive.org",
+  "uniq": 1528953933,
   "workable_servers": [
-    "ia802502.us.archive.org",
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }
