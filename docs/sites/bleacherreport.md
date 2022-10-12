@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 201 screenshots with the Internet Archive.
+The archiving routine has saved 202 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 201 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-11T19:02:38.414919-04:00.jpg">
+  <img src="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-11T19:02:38.414919-04:00.jpg"
+     alt="Bleacher Report at 2022-10-11 19:02:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-11T19:02:38.414919-04:00.jpg">October 11 at 7:02 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-11T07:00:28.915052-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-05T18:55:23.104225-04:00.jpg">October 5 at 6:55 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-05T07:00:40.557868-04:00.jpg">
-  <img src="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-05T07:00:40.557868-04:00.jpg"
-     alt="Bleacher Report at 2022-10-05 07:00:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-05T07:00:40.557868-04:00.jpg">October 5 at 7:00 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 198 hyperlink lists with the Internet Archive.
+The archiving routine has saved 199 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 7:02 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-11T19:02:38.414919-04:00.hyperlinks.json) |
 | [October 11 at 7:00 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-11T07:00:28.915052-04:00.hyperlinks.json) |
 | [October 10 at 7:05 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-10T19:04:58.021328-04:00.hyperlinks.json) |
 | [October 10 at 7:03 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-10T07:03:44.249794-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 6:51 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-08T06:51:28.667916-04:00.hyperlinks.json) |
 | [October 7 at 7:03 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-07T19:02:56.643038-04:00.hyperlinks.json) |
 | [October 7 at 7:06 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-07T07:06:03.768761-04:00.hyperlinks.json) |
-| [October 6 at 7:02 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-06T19:02:36.695024-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 201 accessibility trees with the Internet Archive.
+The archiving routine has saved 202 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 7:02 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-11T19:02:38.414919-04:00.accessibility.json) |
 | [October 11 at 7:00 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-11T07:00:28.915052-04:00.accessibility.json) |
 | [October 10 at 7:05 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-10T19:04:58.021328-04:00.accessibility.json) |
 | [October 10 at 7:03 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-10T07:03:44.249794-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 6:51 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-08T06:51:28.667916-04:00.accessibility.json) |
 | [October 7 at 7:03 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-07T19:02:56.643038-04:00.accessibility.json) |
 | [October 7 at 7:06 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-07T07:06:03.768761-04:00.accessibility.json) |
-| [October 6 at 7:02 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-06T19:02:36.695024-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 161 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 162 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 7:02 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-11T19:02:38.414919-04:00.lighthouse.json) |
 | [October 11 at 7:00 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-11T07:00:28.915052-04:00.lighthouse.json) |
 | [October 10 at 7:05 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-10T19:04:58.021328-04:00.lighthouse.json) |
 | [October 10 at 7:03 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-10T07:03:44.249794-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 6:51 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-08T06:51:28.667916-04:00.lighthouse.json) |
 | [October 7 at 7:03 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-07T19:02:56.643038-04:00.lighthouse.json) |
 | [October 7 at 7:06 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-07T07:06:03.768761-04:00.lighthouse.json) |
-| [October 6 at 7:02 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-10-06T19:02:36.695024-04:00.lighthouse.json) |
 
 
 

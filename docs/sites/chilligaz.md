@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 43 screenshots with the Internet Archive.
+The archiving routine has saved 44 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 43 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chilligaz-2022/chilligaz-2022-10-11T19:55:30.609593-04:00.jpg">
+  <img src="https://archive.org/download/chilligaz-2022/chilligaz-2022-10-11T19:55:30.609593-04:00.jpg"
+     alt="Chillicothe Gazette at 2022-10-11 19:55:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chilligaz-2022/chilligaz-2022-10-11T19:55:30.609593-04:00.jpg">October 11 at 7:55 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chilligaz-2022/chilligaz-2022-10-11T08:03:53.687031-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/chilligaz-2022/chilligaz-2022-10-06T16:53:17.395300-04:00.jpg">October 6 at 4:53 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/chilligaz-2022/chilligaz-2022-10-05T19:48:46.606762-04:00.jpg">
-  <img src="https://archive.org/download/chilligaz-2022/chilligaz-2022-10-05T19:48:46.606762-04:00.jpg"
-     alt="Chillicothe Gazette at 2022-10-05 19:48:48-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chilligaz-2022/chilligaz-2022-10-05T19:48:46.606762-04:00.jpg">October 5 at 7:48 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 43 hyperlink lists with the Internet Archive.
+The archiving routine has saved 44 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 7:55 PM](https://archive.org/download/chilligaz-2022/chilligaz-2022-10-11T19:55:30.609593-04:00.hyperlinks.json) |
 | [October 11 at 8:04 AM](https://archive.org/download/chilligaz-2022/chilligaz-2022-10-11T08:03:53.687031-04:00.hyperlinks.json) |
 | [October 10 at 8:05 PM](https://archive.org/download/chilligaz-2022/chilligaz-2022-10-10T20:04:50.415917-04:00.hyperlinks.json) |
 | [October 10 at 8:18 AM](https://archive.org/download/chilligaz-2022/chilligaz-2022-10-10T08:18:10.634201-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 7:53 AM](https://archive.org/download/chilligaz-2022/chilligaz-2022-10-08T07:53:25.467333-04:00.hyperlinks.json) |
 | [October 7 at 8:04 PM](https://archive.org/download/chilligaz-2022/chilligaz-2022-10-07T20:04:05.020899-04:00.hyperlinks.json) |
 | [October 7 at 8:05 AM](https://archive.org/download/chilligaz-2022/chilligaz-2022-10-07T08:05:23.595433-04:00.hyperlinks.json) |
-| [October 6 at 8:01 PM](https://archive.org/download/chilligaz-2022/chilligaz-2022-10-06T20:01:11.520511-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 43 accessibility trees with the Internet Archive.
+The archiving routine has saved 44 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 7:55 PM](https://archive.org/download/chilligaz-2022/chilligaz-2022-10-11T19:55:30.609593-04:00.accessibility.json) |
 | [October 11 at 8:03 AM](https://archive.org/download/chilligaz-2022/chilligaz-2022-10-11T08:03:53.687031-04:00.accessibility.json) |
 | [October 10 at 8:04 PM](https://archive.org/download/chilligaz-2022/chilligaz-2022-10-10T20:04:50.415917-04:00.accessibility.json) |
 | [October 10 at 8:18 AM](https://archive.org/download/chilligaz-2022/chilligaz-2022-10-10T08:18:10.634201-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 7:53 AM](https://archive.org/download/chilligaz-2022/chilligaz-2022-10-08T07:53:25.467333-04:00.accessibility.json) |
 | [October 7 at 8:04 PM](https://archive.org/download/chilligaz-2022/chilligaz-2022-10-07T20:04:05.020899-04:00.accessibility.json) |
 | [October 7 at 8:05 AM](https://archive.org/download/chilligaz-2022/chilligaz-2022-10-07T08:05:23.595433-04:00.accessibility.json) |
-| [October 6 at 8:01 PM](https://archive.org/download/chilligaz-2022/chilligaz-2022-10-06T20:01:11.520511-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 42 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 7:55 PM](https://archive.org/download/chilligaz-2022/chilligaz-2022-10-11T19:55:30.609593-04:00.lighthouse.json) |
 | [October 11 at 8:04 AM](https://archive.org/download/chilligaz-2022/chilligaz-2022-10-11T08:03:53.687031-04:00.lighthouse.json) |
 | [October 10 at 8:18 AM](https://archive.org/download/chilligaz-2022/chilligaz-2022-10-10T08:18:10.634201-04:00.lighthouse.json) |
 | [October 9 at 7:44 PM](https://archive.org/download/chilligaz-2022/chilligaz-2022-10-09T19:44:10.416859-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 7 at 8:04 PM](https://archive.org/download/chilligaz-2022/chilligaz-2022-10-07T20:04:05.020899-04:00.lighthouse.json) |
 | [October 7 at 8:05 AM](https://archive.org/download/chilligaz-2022/chilligaz-2022-10-07T08:05:23.595433-04:00.lighthouse.json) |
 | [October 6 at 8:01 PM](https://archive.org/download/chilligaz-2022/chilligaz-2022-10-06T20:01:11.520511-04:00.lighthouse.json) |
-| [October 6 at 4:53 PM](https://archive.org/download/chilligaz-2022/chilligaz-2022-10-06T16:53:17.395300-04:00.lighthouse.json) |
 
 
 

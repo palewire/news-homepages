@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 379 screenshots with the Internet Archive.
+The archiving routine has saved 380 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 379 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-11T16:58:28.697322-07:00.jpg">
+  <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-11T16:58:28.697322-07:00.jpg"
+     alt="East Bay Times at 2022-10-11 16:58:39-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-11T16:58:28.697322-07:00.jpg">October 11 at 4:58 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-11T05:06:29.844090-07:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-06T13:54:22.553973-07:00.jpg">October 6 at 1:54 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-05T16:51:13.395525-07:00.jpg">
-  <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-05T16:51:13.395525-07:00.jpg"
-     alt="East Bay Times at 2022-10-05 16:51:14-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-05T16:51:13.395525-07:00.jpg">October 5 at 4:51 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 365 hyperlink lists with the Internet Archive.
+The archiving routine has saved 366 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 4:58 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-11T16:58:28.697322-07:00.hyperlinks.json) |
 | [October 11 at 5:06 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-11T05:06:29.844090-07:00.hyperlinks.json) |
 | [October 10 at 5:07 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-10T17:07:25.526112-07:00.hyperlinks.json) |
 | [October 10 at 5:26 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-10T05:25:46.313993-07:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 4:55 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-08T04:55:28.322918-07:00.hyperlinks.json) |
 | [October 7 at 5:07 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-07T17:07:14.830390-07:00.hyperlinks.json) |
 | [October 7 at 5:08 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-07T05:08:38.508801-07:00.hyperlinks.json) |
-| [October 6 at 5:03 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-06T17:03:32.186311-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 370 accessibility trees with the Internet Archive.
+The archiving routine has saved 371 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 4:58 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-11T16:58:28.697322-07:00.accessibility.json) |
 | [October 11 at 5:06 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-11T05:06:29.844090-07:00.accessibility.json) |
 | [October 10 at 5:07 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-10T17:07:25.526112-07:00.accessibility.json) |
 | [October 10 at 5:26 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-10T05:25:46.313993-07:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 4:55 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-08T04:55:28.322918-07:00.accessibility.json) |
 | [October 7 at 5:07 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-07T17:07:14.830390-07:00.accessibility.json) |
 | [October 7 at 5:08 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-07T05:08:38.508801-07:00.accessibility.json) |
-| [October 6 at 5:03 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-06T17:03:32.186311-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 162 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 163 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 4:58 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-11T16:58:28.697322-07:00.lighthouse.json) |
 | [October 11 at 5:06 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-11T05:06:29.844090-07:00.lighthouse.json) |
 | [October 10 at 5:08 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-10T17:07:25.526112-07:00.lighthouse.json) |
 | [October 10 at 5:26 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-10T05:25:46.313993-07:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 4:55 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-08T04:55:28.322918-07:00.lighthouse.json) |
 | [October 7 at 5:07 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-07T17:07:14.830390-07:00.lighthouse.json) |
 | [October 7 at 5:08 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-07T05:08:38.508801-07:00.lighthouse.json) |
-| [October 6 at 5:03 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-10-06T17:03:32.186311-07:00.lighthouse.json) |
 
 
 
