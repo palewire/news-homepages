@@ -1,5 +1,5 @@
 {
-  "created": 1665590309,
+  "created": 1665615594,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/12/items/bettergov-2022",
@@ -16238,31 +16238,93 @@
       "sha1": "654fc7c8ad272fa760432ecc8bbc338633f39a92"
     },
     {
+      "name": "bettergov-2022-10-12T17:57:18.415268-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665615444",
+      "size": "12782",
+      "md5": "92864b0888736bedf425947975f4b7fa",
+      "crc32": "b9fa3a19",
+      "sha1": "1b5fdb219e29b44d927006d59c574a67ed41c5f0",
+      "format": "JSON"
+    },
+    {
+      "name": "bettergov-2022-10-12T17:57:18.415268-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665615446",
+      "size": "17088",
+      "md5": "4ea1465ba59dc84175043a946d280fee",
+      "crc32": "ad12db29",
+      "sha1": "4d5922b55e4b19a97e758072f14ecc7e8ab7c689",
+      "format": "JSON"
+    },
+    {
+      "name": "bettergov-2022-10-12T17:57:18.415268-05:00.jpg",
+      "source": "original",
+      "mtime": "1665615442",
+      "size": "307380",
+      "md5": "3a98b1faa15e279ce2237f878251f008",
+      "crc32": "380033cd",
+      "sha1": "d876b58682b6621e337a3524bc870d95037d9889",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bettergov-2022-10-12T17:57:18.415268-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665615448",
+      "size": "1486",
+      "md5": "bea921b6add50cbbfc0af937c1595d60",
+      "crc32": "765c3dc5",
+      "sha1": "df4076d5ac5aeb5bb80a45fe8d84265bc92063f2",
+      "format": "JSON"
+    },
+    {
+      "name": "bettergov-2022-10-12T17:57:18.415268-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665615450",
+      "size": "206",
+      "md5": "938daebc8e42cee43b620ca5ab85c5b5",
+      "crc32": "c2ad8be1",
+      "sha1": "4093348926a90f0fae34008042c64ded18b39679",
+      "format": "JSON"
+    },
+    {
+      "name": "bettergov-2022-10-12T17:57:18.415268-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bettergov-2022-10-12T17:57:18.415268-05:00.jpg",
+      "mtime": "1665615552",
+      "size": "10359",
+      "md5": "53c1f3daf97a8dbf161d75e16835b2c2",
+      "crc32": "bc82ebeb",
+      "sha1": "654fc7c8ad272fa760432ecc8bbc338633f39a92"
+    },
+    {
       "name": "bettergov-2022_archive.torrent",
       "source": "metadata",
-      "btih": "35dd626d4ff66e3528439d63bfc84a3edd5aa49c",
-      "mtime": "1665590293",
-      "size": "332639",
-      "md5": "2c16e5a384aa7e7c05186848ca2a3ccd",
-      "crc32": "1d0b04e1",
-      "sha1": "f538cb9a9033df1c4d9e68bd755acda20f03264b",
+      "btih": "f591e5270ce87a6326b1c6b31297c7837b9e0733",
+      "mtime": "1665615578",
+      "size": "333911",
+      "md5": "86ea302a69f96e36b8f257cc3cfecbac",
+      "crc32": "58180755",
+      "sha1": "634ce24804ac7f198057c9cf64f3ce083144b1c8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bettergov-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3387adbaa0f92a869371351a0bbd6508",
+      "md5": "8f70be80d1be628a1a93b46fd4fbf810",
       "summation": "md5"
     },
     {
       "name": "bettergov-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665590110",
-      "size": "1974272",
-      "md5": "e4bfab74c6761ebe0d44e284c7572f66",
-      "crc32": "3ed1131d",
-      "sha1": "2d7fbb5dc3422cdbcf8ab9bc817dfe4d25aba9c9",
+      "mtime": "1665615457",
+      "size": "1978368",
+      "md5": "b751be7003eb3d6e26d37ee19e155ec2",
+      "crc32": "adf58969",
+      "sha1": "829e293e65841894867dce1d14910a9eb27636b9",
       "format": "Metadata"
     },
     {
@@ -16276,9 +16338,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1571,
-  "item_last_updated": 1665590293,
-  "item_size": 102472419,
+  "files_count": 1577,
+  "item_last_updated": 1665615578,
+  "item_size": 102827088,
   "metadata": {
     "identifier": "bettergov-2022",
     "collection": [
@@ -16295,10 +16357,10 @@
     "publicdate": "2022-07-09 03:56:41",
     "addeddate": "2022-07-09 03:56:41"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 813592197,
+  "server": "ia601406.us.archive.org",
+  "uniq": 1378196607,
   "workable_servers": [
-    "ia801406.us.archive.org",
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }
