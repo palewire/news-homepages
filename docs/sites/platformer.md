@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 156 screenshots with the Internet Archive.
+The archiving routine has saved 158 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/platformer-2022/platformer-2022-10-12T01:02:09.586333-07:00.jpg">
+  <img src="https://archive.org/download/platformer-2022/platformer-2022-10-12T01:02:09.586333-07:00.jpg"
+     alt="Platformer at 2022-10-12 01:02:18-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/platformer-2022/platformer-2022-10-12T01:02:09.586333-07:00.jpg">October 12 at 1:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/platformer-2022/platformer-2022-10-11T12:10:25.433396-07:00.jpg">
+  <img src="https://archive.org/download/platformer-2022/platformer-2022-10-11T12:10:25.433396-07:00.jpg"
+     alt="Platformer at 2022-10-11 12:10:36-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/platformer-2022/platformer-2022-10-11T12:10:25.433396-07:00.jpg">October 11 at 12:10 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/platformer-2022/platformer-2022-10-11T01:04:50.857239-07:00.jpg">
   <img src="https://archive.org/download/platformer-2022/platformer-2022-10-11T01:04:50.857239-07:00.jpg"
      alt="Platformer at 2022-10-11 01:04:59-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/platformer-2022/platformer-2022-10-06T12:35:02.731204-07:00.jpg">October 6 at 12:35 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/platformer-2022/platformer-2022-10-06T00:14:45.819252-07:00.jpg">
-  <img src="https://archive.org/download/platformer-2022/platformer-2022-10-06T00:14:45.819252-07:00.jpg"
-     alt="Platformer at 2022-10-06 00:15:01-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/platformer-2022/platformer-2022-10-06T00:14:45.819252-07:00.jpg">October 6 at 12:15 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/platformer-2022/platformer-2022-10-05T13:42:31.317578-07:00.jpg">
-  <img src="https://archive.org/download/platformer-2022/platformer-2022-10-05T13:42:31.317578-07:00.jpg"
-     alt="Platformer at 2022-10-05 13:42:36-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/platformer-2022/platformer-2022-10-05T13:42:31.317578-07:00.jpg">October 5 at 1:42 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 156 hyperlink lists with the Internet Archive.
+The archiving routine has saved 158 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 12 at 1:02 AM](https://archive.org/download/platformer-2022/platformer-2022-10-12T01:02:09.586333-07:00.hyperlinks.json) |
+| [October 11 at 12:10 PM](https://archive.org/download/platformer-2022/platformer-2022-10-11T12:10:25.433396-07:00.hyperlinks.json) |
 | [October 11 at 1:05 AM](https://archive.org/download/platformer-2022/platformer-2022-10-11T01:04:50.857239-07:00.hyperlinks.json) |
 | [October 10 at 12:46 PM](https://archive.org/download/platformer-2022/platformer-2022-10-10T12:46:38.038531-07:00.hyperlinks.json) |
 | [October 10 at 1:34 AM](https://archive.org/download/platformer-2022/platformer-2022-10-10T01:33:59.254602-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 12:15 PM](https://archive.org/download/platformer-2022/platformer-2022-10-08T12:15:49.968623-07:00.hyperlinks.json) |
 | [October 8 at 12:19 AM](https://archive.org/download/platformer-2022/platformer-2022-10-08T00:19:12.089175-07:00.hyperlinks.json) |
 | [October 7 at 12:46 PM](https://archive.org/download/platformer-2022/platformer-2022-10-07T12:46:43.500946-07:00.hyperlinks.json) |
-| [October 7 at 12:46 AM](https://archive.org/download/platformer-2022/platformer-2022-10-07T00:46:32.955125-07:00.hyperlinks.json) |
-| [October 6 at 12:35 PM](https://archive.org/download/platformer-2022/platformer-2022-10-06T12:35:02.731204-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 155 accessibility trees with the Internet Archive.
+The archiving routine has saved 157 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 12 at 1:02 AM](https://archive.org/download/platformer-2022/platformer-2022-10-12T01:02:09.586333-07:00.accessibility.json) |
+| [October 11 at 12:10 PM](https://archive.org/download/platformer-2022/platformer-2022-10-11T12:10:25.433396-07:00.accessibility.json) |
 | [October 11 at 1:05 AM](https://archive.org/download/platformer-2022/platformer-2022-10-11T01:04:50.857239-07:00.accessibility.json) |
 | [October 10 at 12:46 PM](https://archive.org/download/platformer-2022/platformer-2022-10-10T12:46:38.038531-07:00.accessibility.json) |
 | [October 10 at 1:34 AM](https://archive.org/download/platformer-2022/platformer-2022-10-10T01:33:59.254602-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 12:15 PM](https://archive.org/download/platformer-2022/platformer-2022-10-08T12:15:49.968623-07:00.accessibility.json) |
 | [October 8 at 12:19 AM](https://archive.org/download/platformer-2022/platformer-2022-10-08T00:19:12.089175-07:00.accessibility.json) |
 | [October 7 at 12:46 PM](https://archive.org/download/platformer-2022/platformer-2022-10-07T12:46:43.500946-07:00.accessibility.json) |
-| [October 7 at 12:46 AM](https://archive.org/download/platformer-2022/platformer-2022-10-07T00:46:32.955125-07:00.accessibility.json) |
-| [October 6 at 12:35 PM](https://archive.org/download/platformer-2022/platformer-2022-10-06T12:35:02.731204-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 156 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 158 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 12 at 1:02 AM](https://archive.org/download/platformer-2022/platformer-2022-10-12T01:02:09.586333-07:00.lighthouse.json) |
+| [October 11 at 12:10 PM](https://archive.org/download/platformer-2022/platformer-2022-10-11T12:10:25.433396-07:00.lighthouse.json) |
 | [October 11 at 1:05 AM](https://archive.org/download/platformer-2022/platformer-2022-10-11T01:04:50.857239-07:00.lighthouse.json) |
 | [October 10 at 12:46 PM](https://archive.org/download/platformer-2022/platformer-2022-10-10T12:46:38.038531-07:00.lighthouse.json) |
 | [October 10 at 1:34 AM](https://archive.org/download/platformer-2022/platformer-2022-10-10T01:33:59.254602-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 12:15 PM](https://archive.org/download/platformer-2022/platformer-2022-10-08T12:15:49.968623-07:00.lighthouse.json) |
 | [October 8 at 12:19 AM](https://archive.org/download/platformer-2022/platformer-2022-10-08T00:19:12.089175-07:00.lighthouse.json) |
 | [October 7 at 12:46 PM](https://archive.org/download/platformer-2022/platformer-2022-10-07T12:46:43.500946-07:00.lighthouse.json) |
-| [October 7 at 12:46 AM](https://archive.org/download/platformer-2022/platformer-2022-10-07T00:46:32.955125-07:00.lighthouse.json) |
-| [October 6 at 12:35 PM](https://archive.org/download/platformer-2022/platformer-2022-10-06T12:35:02.731204-07:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 186 screenshots with the Internet Archive.
+The archiving routine has saved 187 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 186 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-12T00:29:15.131060-06:00.jpg">
+  <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-12T00:29:15.131060-06:00.jpg"
+     alt="High Country News at 2022-10-12 00:29:16-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-12T00:29:15.131060-06:00.jpg">October 12 at 12:29 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-11T11:40:53.914842-06:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-06T11:41:17.766196-06:00.jpg">October 6 at 11:41 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-05T23:42:58.054557-06:00.jpg">
-  <img src="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-05T23:42:58.054557-06:00.jpg"
-     alt="High Country News at 2022-10-05 23:42:59-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-05T23:42:58.054557-06:00.jpg">October 5 at 11:42 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 187 hyperlink lists with the Internet Archive.
+The archiving routine has saved 188 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 12 at 12:29 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-12T00:29:15.131060-06:00.hyperlinks.json) |
 | [October 11 at 11:41 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-11T11:40:53.914842-06:00.hyperlinks.json) |
 | [October 11 at 12:29 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-11T00:29:07.654580-06:00.hyperlinks.json) |
 | [October 10 at 12:00 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-10T12:00:39.077480-06:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 11:36 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-08T11:35:59.561271-06:00.hyperlinks.json) |
 | [October 7 at 11:40 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-07T23:40:11.855103-06:00.hyperlinks.json) |
 | [October 7 at 11:57 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-07T11:57:14.741795-06:00.hyperlinks.json) |
-| [October 7 at 12:10 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-07T00:10:00.748940-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 187 accessibility trees with the Internet Archive.
+The archiving routine has saved 188 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 12 at 12:29 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-12T00:29:15.131060-06:00.accessibility.json) |
 | [October 11 at 11:41 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-11T11:40:53.914842-06:00.accessibility.json) |
 | [October 11 at 12:29 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-11T00:29:07.654580-06:00.accessibility.json) |
 | [October 10 at 12:00 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-10T12:00:39.077480-06:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 11:36 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-08T11:35:59.561271-06:00.accessibility.json) |
 | [October 7 at 11:40 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-07T23:40:11.855103-06:00.accessibility.json) |
 | [October 7 at 11:57 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-07T11:57:14.741795-06:00.accessibility.json) |
-| [October 7 at 12:10 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-07T00:10:00.748940-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 158 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 159 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 12 at 12:29 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-12T00:29:15.131060-06:00.lighthouse.json) |
 | [October 11 at 11:41 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-11T11:40:53.914842-06:00.lighthouse.json) |
 | [October 11 at 12:29 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-11T00:29:07.654580-06:00.lighthouse.json) |
 | [October 10 at 12:00 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-10T12:00:39.077480-06:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 11:36 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-08T11:35:59.561271-06:00.lighthouse.json) |
 | [October 7 at 11:40 PM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-07T23:40:11.855103-06:00.lighthouse.json) |
 | [October 7 at 11:57 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-07T11:57:14.741795-06:00.lighthouse.json) |
-| [October 7 at 12:10 AM](https://archive.org/download/highcountrynews-2022/highcountrynews-2022-10-07T00:10:00.748940-06:00.lighthouse.json) |
 
 
 

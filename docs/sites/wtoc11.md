@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 167 screenshots with the Internet Archive.
+The archiving routine has saved 168 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 167 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wtoc11-2022/wtoc11-2022-10-12T02:25:35.774898-04:00.jpg">
+  <img src="https://archive.org/download/wtoc11-2022/wtoc11-2022-10-12T02:25:35.774898-04:00.jpg"
+     alt="WTOC at 2022-10-12 02:26:04-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wtoc11-2022/wtoc11-2022-10-12T02:25:35.774898-04:00.jpg">October 12 at 2:26 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wtoc11-2022/wtoc11-2022-10-11T12:26:49.046409-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wtoc11-2022/wtoc11-2022-10-06T12:07:27.640022-04:00.jpg">October 6 at 12:07 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wtoc11-2022/wtoc11-2022-10-06T00:26:24.240398-04:00.jpg">
-  <img src="https://archive.org/download/wtoc11-2022/wtoc11-2022-10-06T00:26:24.240398-04:00.jpg"
-     alt="WTOC at 2022-10-06 00:26:29-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wtoc11-2022/wtoc11-2022-10-06T00:26:24.240398-04:00.jpg">October 6 at 12:26 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 167 hyperlink lists with the Internet Archive.
+The archiving routine has saved 168 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 12 at 2:26 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-10-12T02:25:35.774898-04:00.hyperlinks.json) |
 | [October 11 at 12:26 PM](https://archive.org/download/wtoc11-2022/wtoc11-2022-10-11T12:26:49.046409-04:00.hyperlinks.json) |
 | [October 11 at 2:29 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-10-11T02:29:45.956181-04:00.hyperlinks.json) |
 | [October 10 at 12:43 PM](https://archive.org/download/wtoc11-2022/wtoc11-2022-10-10T12:43:25.919819-04:00.hyperlinks.json) |
@@ -537,7 +538,6 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 12:18 PM](https://archive.org/download/wtoc11-2022/wtoc11-2022-10-08T12:18:14.961777-04:00.hyperlinks.json) |
 | [October 8 at 1:41 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-10-08T01:41:30.211368-04:00.hyperlinks.json) |
 | [October 7 at 12:35 PM](https://archive.org/download/wtoc11-2022/wtoc11-2022-10-07T12:35:25.254330-04:00.hyperlinks.json) |
-| [October 7 at 12:39 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-10-07T00:39:17.654285-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 161 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 162 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 12 at 2:26 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-10-12T02:25:35.774898-04:00.lighthouse.json) |
 | [October 11 at 12:27 PM](https://archive.org/download/wtoc11-2022/wtoc11-2022-10-11T12:26:49.046409-04:00.lighthouse.json) |
 | [October 11 at 2:29 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-10-11T02:29:45.956181-04:00.lighthouse.json) |
 | [October 10 at 12:43 PM](https://archive.org/download/wtoc11-2022/wtoc11-2022-10-10T12:43:25.919819-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 12:18 PM](https://archive.org/download/wtoc11-2022/wtoc11-2022-10-08T12:18:14.961777-04:00.lighthouse.json) |
 | [October 8 at 1:41 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-10-08T01:41:30.211368-04:00.lighthouse.json) |
 | [October 7 at 12:35 PM](https://archive.org/download/wtoc11-2022/wtoc11-2022-10-07T12:35:25.254330-04:00.lighthouse.json) |
-| [October 7 at 12:39 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-10-07T00:39:17.654285-04:00.lighthouse.json) |
 
 
 

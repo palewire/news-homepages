@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 234 screenshots with the Internet Archive.
+The archiving routine has saved 235 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 234 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-10-12T02:22:38.398855-04:00.jpg">
+  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-10-12T02:22:38.398855-04:00.jpg"
+     alt="Bon Appetit at 2022-10-12 02:22:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-10-12T02:22:38.398855-04:00.jpg">October 12 at 2:22 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-10-11T12:19:31.917617-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-10-06T12:03:39.423291-04:00.jpg">October 6 at 12:04 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-10-06T00:24:05.834817-04:00.jpg">
-  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-10-06T00:24:05.834817-04:00.jpg"
-     alt="Bon Appetit at 2022-10-06 00:24:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-10-06T00:24:05.834817-04:00.jpg">October 6 at 12:24 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 235 hyperlink lists with the Internet Archive.
+The archiving routine has saved 236 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 12 at 2:22 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-10-12T02:22:38.398855-04:00.hyperlinks.json) |
 | [October 11 at 12:19 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-10-11T12:19:31.917617-04:00.hyperlinks.json) |
 | [October 11 at 2:23 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-10-11T02:22:53.666297-04:00.hyperlinks.json) |
 | [October 10 at 12:40 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-10-10T12:40:08.928204-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 12:11 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-10-08T12:11:20.275411-04:00.hyperlinks.json) |
 | [October 8 at 1:37 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-10-08T01:36:55.557977-04:00.hyperlinks.json) |
 | [October 7 at 12:32 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-10-07T12:32:25.593035-04:00.hyperlinks.json) |
-| [October 7 at 12:37 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-10-07T00:36:56.284074-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 236 accessibility trees with the Internet Archive.
+The archiving routine has saved 237 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 12 at 2:22 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-10-12T02:22:38.398855-04:00.accessibility.json) |
 | [October 11 at 12:19 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-10-11T12:19:31.917617-04:00.accessibility.json) |
 | [October 11 at 2:23 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-10-11T02:22:53.666297-04:00.accessibility.json) |
 | [October 10 at 12:40 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-10-10T12:40:08.928204-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 12:11 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-10-08T12:11:20.275411-04:00.accessibility.json) |
 | [October 8 at 1:36 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-10-08T01:36:55.557977-04:00.accessibility.json) |
 | [October 7 at 12:32 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-10-07T12:32:25.593035-04:00.accessibility.json) |
-| [October 7 at 12:37 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-10-07T00:36:56.284074-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 162 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 163 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 12 at 2:22 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-10-12T02:22:38.398855-04:00.lighthouse.json) |
 | [October 11 at 12:19 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-10-11T12:19:31.917617-04:00.lighthouse.json) |
 | [October 11 at 2:23 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-10-11T02:22:53.666297-04:00.lighthouse.json) |
 | [October 10 at 12:40 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-10-10T12:40:08.928204-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 12:11 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-10-08T12:11:20.275411-04:00.lighthouse.json) |
 | [October 8 at 1:37 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-10-08T01:36:55.557977-04:00.lighthouse.json) |
 | [October 7 at 12:32 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-10-07T12:32:25.593035-04:00.lighthouse.json) |
-| [October 7 at 12:37 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-10-07T00:36:56.284074-04:00.lighthouse.json) |
 
 
 

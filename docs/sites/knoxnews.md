@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 43 screenshots with the Internet Archive.
+The archiving routine has saved 44 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 43 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/knoxnews-2022/knoxnews-2022-10-12T02:33:02.949558-04:00.jpg">
+  <img src="https://archive.org/download/knoxnews-2022/knoxnews-2022-10-12T02:33:02.949558-04:00.jpg"
+     alt="The Knoxville News-Sentinel at 2022-10-12 02:33:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/knoxnews-2022/knoxnews-2022-10-12T02:33:02.949558-04:00.jpg">October 12 at 2:33 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/knoxnews-2022/knoxnews-2022-10-11T13:43:21.801804-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/knoxnews-2022/knoxnews-2022-10-06T13:43:48.070436-04:00.jpg">October 6 at 1:43 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/knoxnews-2022/knoxnews-2022-10-06T01:44:43.531743-04:00.jpg">
-  <img src="https://archive.org/download/knoxnews-2022/knoxnews-2022-10-06T01:44:43.531743-04:00.jpg"
-     alt="The Knoxville News-Sentinel at 2022-10-06 01:44:47-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/knoxnews-2022/knoxnews-2022-10-06T01:44:43.531743-04:00.jpg">October 6 at 1:44 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 43 hyperlink lists with the Internet Archive.
+The archiving routine has saved 44 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 12 at 2:33 AM](https://archive.org/download/knoxnews-2022/knoxnews-2022-10-12T02:33:02.949558-04:00.hyperlinks.json) |
 | [October 11 at 1:43 PM](https://archive.org/download/knoxnews-2022/knoxnews-2022-10-11T13:43:21.801804-04:00.hyperlinks.json) |
 | [October 11 at 2:36 AM](https://archive.org/download/knoxnews-2022/knoxnews-2022-10-11T02:36:35.541635-04:00.hyperlinks.json) |
 | [October 10 at 2:03 PM](https://archive.org/download/knoxnews-2022/knoxnews-2022-10-10T14:03:16.496386-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 1:38 PM](https://archive.org/download/knoxnews-2022/knoxnews-2022-10-08T13:38:01.173507-04:00.hyperlinks.json) |
 | [October 8 at 1:42 AM](https://archive.org/download/knoxnews-2022/knoxnews-2022-10-08T01:42:41.439924-04:00.hyperlinks.json) |
 | [October 7 at 2:00 PM](https://archive.org/download/knoxnews-2022/knoxnews-2022-10-07T14:00:06.096490-04:00.hyperlinks.json) |
-| [October 7 at 2:17 AM](https://archive.org/download/knoxnews-2022/knoxnews-2022-10-07T02:17:37.253300-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 43 accessibility trees with the Internet Archive.
+The archiving routine has saved 44 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 12 at 2:33 AM](https://archive.org/download/knoxnews-2022/knoxnews-2022-10-12T02:33:02.949558-04:00.accessibility.json) |
 | [October 11 at 1:43 PM](https://archive.org/download/knoxnews-2022/knoxnews-2022-10-11T13:43:21.801804-04:00.accessibility.json) |
 | [October 11 at 2:36 AM](https://archive.org/download/knoxnews-2022/knoxnews-2022-10-11T02:36:35.541635-04:00.accessibility.json) |
 | [October 10 at 2:03 PM](https://archive.org/download/knoxnews-2022/knoxnews-2022-10-10T14:03:16.496386-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 1:38 PM](https://archive.org/download/knoxnews-2022/knoxnews-2022-10-08T13:38:01.173507-04:00.accessibility.json) |
 | [October 8 at 1:42 AM](https://archive.org/download/knoxnews-2022/knoxnews-2022-10-08T01:42:41.439924-04:00.accessibility.json) |
 | [October 7 at 2:00 PM](https://archive.org/download/knoxnews-2022/knoxnews-2022-10-07T14:00:06.096490-04:00.accessibility.json) |
-| [October 7 at 2:17 AM](https://archive.org/download/knoxnews-2022/knoxnews-2022-10-07T02:17:37.253300-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 42 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 12 at 2:33 AM](https://archive.org/download/knoxnews-2022/knoxnews-2022-10-12T02:33:02.949558-04:00.lighthouse.json) |
 | [October 11 at 1:43 PM](https://archive.org/download/knoxnews-2022/knoxnews-2022-10-11T13:43:21.801804-04:00.lighthouse.json) |
 | [October 11 at 2:36 AM](https://archive.org/download/knoxnews-2022/knoxnews-2022-10-11T02:36:35.541635-04:00.lighthouse.json) |
 | [October 10 at 2:03 PM](https://archive.org/download/knoxnews-2022/knoxnews-2022-10-10T14:03:16.496386-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 1:38 PM](https://archive.org/download/knoxnews-2022/knoxnews-2022-10-08T13:38:01.173507-04:00.lighthouse.json) |
 | [October 8 at 1:42 AM](https://archive.org/download/knoxnews-2022/knoxnews-2022-10-08T01:42:41.439924-04:00.lighthouse.json) |
 | [October 7 at 2:00 PM](https://archive.org/download/knoxnews-2022/knoxnews-2022-10-07T14:00:06.096490-04:00.lighthouse.json) |
-| [October 7 at 2:17 AM](https://archive.org/download/knoxnews-2022/knoxnews-2022-10-07T02:17:37.253300-04:00.lighthouse.json) |
 
 
 

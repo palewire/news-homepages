@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 124 screenshots with the Internet Archive.
+The archiving routine has saved 126 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-10-12T05:02:10.447346-03:00.jpg">
+  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-10-12T05:02:10.447346-03:00.jpg"
+     alt="Perfil at 2022-10-12 05:02:12-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-10-12T05:02:10.447346-03:00.jpg">October 12 at 5:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-10-11T16:10:32.333026-03:00.jpg">
+  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-10-11T16:10:32.333026-03:00.jpg"
+     alt="Perfil at 2022-10-11 16:10:34-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-10-11T16:10:32.333026-03:00.jpg">October 11 at 4:10 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-10-11T05:04:30.413528-03:00.jpg">
   <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-10-11T05:04:30.413528-03:00.jpg"
      alt="Perfil at 2022-10-11 05:04:32-03:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-10-06T16:35:17.226057-03:00.jpg">October 6 at 4:35 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-10-06T04:14:32.837893-03:00.jpg">
-  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-10-06T04:14:32.837893-03:00.jpg"
-     alt="Perfil at 2022-10-06 04:14:37-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-10-06T04:14:32.837893-03:00.jpg">October 6 at 4:14 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-10-05T17:43:12.791161-03:00.jpg">
-  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-10-05T17:43:12.791161-03:00.jpg"
-     alt="Perfil at 2022-10-05 17:43:13-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-10-05T17:43:12.791161-03:00.jpg">October 5 at 5:43 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 118 hyperlink lists with the Internet Archive.
+The archiving routine has saved 120 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 12 at 5:02 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-12T05:02:10.447346-03:00.hyperlinks.json) |
+| [October 11 at 4:10 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-11T16:10:32.333026-03:00.hyperlinks.json) |
 | [October 11 at 5:04 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-11T05:04:30.413528-03:00.hyperlinks.json) |
 | [October 10 at 4:45 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-10T16:45:37.124045-03:00.hyperlinks.json) |
 | [October 10 at 5:34 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-10T05:33:57.485903-03:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 4:15 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-08T16:15:48.068873-03:00.hyperlinks.json) |
 | [October 8 at 4:20 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-08T04:20:01.019151-03:00.hyperlinks.json) |
 | [October 7 at 4:47 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-07T16:47:45.846807-03:00.hyperlinks.json) |
-| [October 7 at 4:46 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-07T04:46:13.708415-03:00.hyperlinks.json) |
-| [October 6 at 4:35 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-06T16:35:17.226057-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 119 accessibility trees with the Internet Archive.
+The archiving routine has saved 121 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 12 at 5:02 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-12T05:02:10.447346-03:00.accessibility.json) |
+| [October 11 at 4:10 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-11T16:10:32.333026-03:00.accessibility.json) |
 | [October 11 at 5:04 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-11T05:04:30.413528-03:00.accessibility.json) |
 | [October 10 at 4:45 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-10T16:45:37.124045-03:00.accessibility.json) |
 | [October 10 at 5:34 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-10T05:33:57.485903-03:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 4:15 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-08T16:15:48.068873-03:00.accessibility.json) |
 | [October 8 at 4:20 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-08T04:20:01.019151-03:00.accessibility.json) |
 | [October 7 at 4:47 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-07T16:47:45.846807-03:00.accessibility.json) |
-| [October 7 at 4:46 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-07T04:46:13.708415-03:00.accessibility.json) |
-| [October 6 at 4:35 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-06T16:35:17.226057-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 125 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 127 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 12 at 5:02 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-12T05:02:10.447346-03:00.lighthouse.json) |
+| [October 11 at 4:10 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-11T16:10:32.333026-03:00.lighthouse.json) |
 | [October 11 at 5:04 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-11T05:04:30.413528-03:00.lighthouse.json) |
 | [October 10 at 4:45 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-10T16:45:37.124045-03:00.lighthouse.json) |
 | [October 10 at 5:34 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-10T05:33:57.485903-03:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 4:15 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-08T16:15:48.068873-03:00.lighthouse.json) |
 | [October 8 at 4:20 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-08T04:20:01.019151-03:00.lighthouse.json) |
 | [October 7 at 4:47 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-07T16:47:45.846807-03:00.lighthouse.json) |
-| [October 7 at 4:46 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-07T04:46:13.708415-03:00.lighthouse.json) |
-| [October 6 at 4:35 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-10-06T16:35:17.226057-03:00.lighthouse.json) |
 
 
 

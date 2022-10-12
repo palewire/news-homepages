@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 42 screenshots with the Internet Archive.
+The archiving routine has saved 43 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 42 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-12T02:23:03.687948-04:00.jpg">
+  <img src="https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-12T02:23:03.687948-04:00.jpg"
+     alt="Battle Creek Enquirer at 2022-10-12 02:23:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-12T02:23:03.687948-04:00.jpg">October 12 at 2:23 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-11T12:17:55.895858-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-06T12:02:35.354949-04:00.jpg">October 6 at 12:02 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-06T00:22:33.912005-04:00.jpg">
-  <img src="https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-06T00:22:33.912005-04:00.jpg"
-     alt="Battle Creek Enquirer at 2022-10-06 00:22:37-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-06T00:22:33.912005-04:00.jpg">October 6 at 12:22 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 42 hyperlink lists with the Internet Archive.
+The archiving routine has saved 43 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 12 at 2:23 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-12T02:23:03.687948-04:00.hyperlinks.json) |
 | [October 11 at 12:18 PM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-11T12:17:55.895858-04:00.hyperlinks.json) |
 | [October 11 at 2:23 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-11T02:23:25.418701-04:00.hyperlinks.json) |
 | [October 10 at 12:41 PM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-10T12:41:15.709556-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 12:12 PM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-08T12:12:05.565619-04:00.hyperlinks.json) |
 | [October 8 at 1:36 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-08T01:36:48.613028-04:00.hyperlinks.json) |
 | [October 7 at 12:27 PM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-07T12:27:19.393724-04:00.hyperlinks.json) |
-| [October 7 at 12:36 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-07T00:36:31.487532-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 42 accessibility trees with the Internet Archive.
+The archiving routine has saved 43 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 12 at 2:23 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-12T02:23:03.687948-04:00.accessibility.json) |
 | [October 11 at 12:18 PM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-11T12:17:55.895858-04:00.accessibility.json) |
 | [October 11 at 2:23 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-11T02:23:25.418701-04:00.accessibility.json) |
 | [October 10 at 12:41 PM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-10T12:41:15.709556-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 12:12 PM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-08T12:12:05.565619-04:00.accessibility.json) |
 | [October 8 at 1:36 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-08T01:36:48.613028-04:00.accessibility.json) |
 | [October 7 at 12:27 PM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-07T12:27:19.393724-04:00.accessibility.json) |
-| [October 7 at 12:36 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-07T00:36:31.487532-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 42 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 12 at 2:23 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-12T02:23:03.687948-04:00.lighthouse.json) |
 | [October 11 at 12:18 PM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-11T12:17:55.895858-04:00.lighthouse.json) |
 | [October 11 at 2:23 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-11T02:23:25.418701-04:00.lighthouse.json) |
 | [October 10 at 12:41 PM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-10T12:41:15.709556-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 12:12 PM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-08T12:12:05.565619-04:00.lighthouse.json) |
 | [October 8 at 1:36 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-08T01:36:48.613028-04:00.lighthouse.json) |
 | [October 7 at 12:27 PM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-07T12:27:19.393724-04:00.lighthouse.json) |
-| [October 7 at 12:36 AM](https://archive.org/download/bcenquirer-2022/bcenquirer-2022-10-07T00:36:31.487532-04:00.lighthouse.json) |
 
 
 
