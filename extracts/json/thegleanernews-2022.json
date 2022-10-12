@@ -1,5 +1,5 @@
 {
-  "created": 1665501984,
+  "created": 1665550139,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/21/items/thegleanernews-2022",
@@ -2620,31 +2620,93 @@
       "sha1": "5fd2a96593fdf818ba70c55a7f38059f9808f0cb"
     },
     {
+      "name": "thegleanernews-2022-10-11T22:53:57.342609-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665546843",
+      "size": "20420",
+      "md5": "f1800ecc93e4814b2697572243699d0f",
+      "crc32": "730fb949",
+      "sha1": "fd91b3cbe1639026e0ceb5db8df47ef0e395c84a",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-11T22:53:57.342609-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665546845",
+      "size": "29659",
+      "md5": "6817b5e3f49a769614673d351d37d68d",
+      "crc32": "358b4e61",
+      "sha1": "1222b43ab321c69ef0ecd939eb4d1668ee3e3228",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-11T22:53:57.342609-05:00.jpg",
+      "source": "original",
+      "mtime": "1665546841",
+      "size": "251705",
+      "md5": "32792a72c579a5e8498742b07416e5f4",
+      "crc32": "ac96338d",
+      "sha1": "a19fa54aee1aa6e3bb767341ec8fc40bc3137356",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thegleanernews-2022-10-11T22:53:57.342609-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665546847",
+      "size": "1495",
+      "md5": "588e8aef2454ccd98c0ce5ebfd37bc38",
+      "crc32": "caad2a30",
+      "sha1": "169e6891312a559d3bc721c7d3a617bde4d18252",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-11T22:53:57.342609-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665546848",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-11T22:53:57.342609-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thegleanernews-2022-10-11T22:53:57.342609-05:00.jpg",
+      "mtime": "1665547130",
+      "size": "9124",
+      "md5": "ff00046d1bf5f24509bd8aacf315d1c1",
+      "crc32": "498c577d",
+      "sha1": "44f9acd48fcc7227f43c87f2b98af4775db720ee"
+    },
+    {
       "name": "thegleanernews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4f6510d86e37f76a4e148bd6fd6e6e3c78f11fd7",
-      "mtime": "1665501928",
-      "size": "56119",
-      "md5": "687d8a0fc29cb44ac2ec021ba48023f0",
-      "crc32": "11d93974",
-      "sha1": "45f1d107e9b298e449b69bb26b882827de426b0b",
+      "btih": "56427ea271953e75229571c347e82af71317b8df",
+      "mtime": "1665547157",
+      "size": "57420",
+      "md5": "2763609cad38ab0fa437f91197c4161a",
+      "crc32": "9ab90906",
+      "sha1": "0319164420b9cee5379b1cd33848d9da169a6f46",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thegleanernews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "40270f4aff9bee292b68bfe4d26dc432",
+      "md5": "2db48468a3b31b4953122bf4984767dd",
       "summation": "md5"
     },
     {
       "name": "thegleanernews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665501335",
-      "size": "344064",
-      "md5": "effcdaf2e349497fb0acf88830ea0d50",
-      "crc32": "9fb75702",
-      "sha1": "e8a8dd5af951dd1b5625902fb686c380b4b03d62",
+      "mtime": "1665546853",
+      "size": "352256",
+      "md5": "c72592bca9e4eceaaa1ad9f2c2b331f5",
+      "crc32": "05d95b0a",
+      "sha1": "35ea5da8e50d0e6dfb23d0d7b9f5ae641981e32b",
       "format": "Metadata"
     },
     {
@@ -2658,9 +2720,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 257,
-  "item_last_updated": 1665501928,
-  "item_size": 15772433,
+  "files_count": 263,
+  "item_last_updated": 1665547157,
+  "item_size": 16094531,
   "metadata": {
     "identifier": "thegleanernews-2022",
     "collection": [
@@ -2677,10 +2739,15 @@
     "publicdate": "2022-09-21 03:44:35",
     "addeddate": "2022-09-21 03:44:35"
   },
-  "server": "ia601507.us.archive.org",
-  "uniq": 645083480,
+  "server": "ia801507.us.archive.org",
+  "thegleanernews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 2133397040,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
+    "ia801507.us.archive.org",
+    "ia601507.us.archive.org"
   ]
 }
