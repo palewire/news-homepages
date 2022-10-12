@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 43 screenshots with the Internet Archive.
+The archiving routine has saved 45 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/echopilot-2022/echopilot-2022-10-12T13:31:48.185285-04:00.jpg">
+  <img src="https://archive.org/download/echopilot-2022/echopilot-2022-10-12T13:31:48.185285-04:00.jpg"
+     alt="Echo-Pilot at 2022-10-12 13:31:51-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/echopilot-2022/echopilot-2022-10-12T13:31:48.185285-04:00.jpg">October 12 at 1:31 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/echopilot-2022/echopilot-2022-10-12T02:41:29.168248-04:00.jpg">
+  <img src="https://archive.org/download/echopilot-2022/echopilot-2022-10-12T02:41:29.168248-04:00.jpg"
+     alt="Echo-Pilot at 2022-10-12 02:41:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/echopilot-2022/echopilot-2022-10-12T02:41:29.168248-04:00.jpg">October 12 at 2:41 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/echopilot-2022/echopilot-2022-10-11T13:55:31.134583-04:00.jpg">
   <img src="https://archive.org/download/echopilot-2022/echopilot-2022-10-11T13:55:31.134583-04:00.jpg"
      alt="Echo-Pilot at 2022-10-11 13:55:34-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/echopilot-2022/echopilot-2022-10-07T03:41:36.136594-04:00.jpg">October 7 at 3:41 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/echopilot-2022/echopilot-2022-10-06T14:02:25.748919-04:00.jpg">
-  <img src="https://archive.org/download/echopilot-2022/echopilot-2022-10-06T14:02:25.748919-04:00.jpg"
-     alt="Echo-Pilot at 2022-10-06 14:02:27-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/echopilot-2022/echopilot-2022-10-06T14:02:25.748919-04:00.jpg">October 6 at 2:02 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/echopilot-2022/echopilot-2022-10-06T01:55:19.785560-04:00.jpg">
-  <img src="https://archive.org/download/echopilot-2022/echopilot-2022-10-06T01:55:19.785560-04:00.jpg"
-     alt="Echo-Pilot at 2022-10-06 01:55:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/echopilot-2022/echopilot-2022-10-06T01:55:19.785560-04:00.jpg">October 6 at 1:55 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 43 hyperlink lists with the Internet Archive.
+The archiving routine has saved 45 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 12 at 1:31 PM](https://archive.org/download/echopilot-2022/echopilot-2022-10-12T13:31:48.185285-04:00.hyperlinks.json) |
+| [October 12 at 2:41 AM](https://archive.org/download/echopilot-2022/echopilot-2022-10-12T02:41:29.168248-04:00.hyperlinks.json) |
 | [October 11 at 1:55 PM](https://archive.org/download/echopilot-2022/echopilot-2022-10-11T13:55:31.134583-04:00.hyperlinks.json) |
 | [October 11 at 2:45 AM](https://archive.org/download/echopilot-2022/echopilot-2022-10-11T02:44:51.207971-04:00.hyperlinks.json) |
 | [October 10 at 2:59 PM](https://archive.org/download/echopilot-2022/echopilot-2022-10-10T14:59:17.535171-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 9 at 3:20 AM](https://archive.org/download/echopilot-2022/echopilot-2022-10-09T03:20:50.173551-04:00.hyperlinks.json) |
 | [October 8 at 1:48 PM](https://archive.org/download/echopilot-2022/echopilot-2022-10-08T13:48:40.827777-04:00.hyperlinks.json) |
 | [October 8 at 1:54 AM](https://archive.org/download/echopilot-2022/echopilot-2022-10-08T01:54:22.389796-04:00.hyperlinks.json) |
-| [October 7 at 2:16 PM](https://archive.org/download/echopilot-2022/echopilot-2022-10-07T14:16:07.162159-04:00.hyperlinks.json) |
-| [October 7 at 3:41 AM](https://archive.org/download/echopilot-2022/echopilot-2022-10-07T03:41:36.136594-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 43 accessibility trees with the Internet Archive.
+The archiving routine has saved 45 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 12 at 1:31 PM](https://archive.org/download/echopilot-2022/echopilot-2022-10-12T13:31:48.185285-04:00.accessibility.json) |
+| [October 12 at 2:41 AM](https://archive.org/download/echopilot-2022/echopilot-2022-10-12T02:41:29.168248-04:00.accessibility.json) |
 | [October 11 at 1:55 PM](https://archive.org/download/echopilot-2022/echopilot-2022-10-11T13:55:31.134583-04:00.accessibility.json) |
 | [October 11 at 2:44 AM](https://archive.org/download/echopilot-2022/echopilot-2022-10-11T02:44:51.207971-04:00.accessibility.json) |
 | [October 10 at 2:59 PM](https://archive.org/download/echopilot-2022/echopilot-2022-10-10T14:59:17.535171-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 9 at 3:20 AM](https://archive.org/download/echopilot-2022/echopilot-2022-10-09T03:20:50.173551-04:00.accessibility.json) |
 | [October 8 at 1:48 PM](https://archive.org/download/echopilot-2022/echopilot-2022-10-08T13:48:40.827777-04:00.accessibility.json) |
 | [October 8 at 1:54 AM](https://archive.org/download/echopilot-2022/echopilot-2022-10-08T01:54:22.389796-04:00.accessibility.json) |
-| [October 7 at 2:16 PM](https://archive.org/download/echopilot-2022/echopilot-2022-10-07T14:16:07.162159-04:00.accessibility.json) |
-| [October 7 at 3:41 AM](https://archive.org/download/echopilot-2022/echopilot-2022-10-07T03:41:36.136594-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 12 at 1:31 PM](https://archive.org/download/echopilot-2022/echopilot-2022-10-12T13:31:48.185285-04:00.lighthouse.json) |
+| [October 12 at 2:41 AM](https://archive.org/download/echopilot-2022/echopilot-2022-10-12T02:41:29.168248-04:00.lighthouse.json) |
 | [October 11 at 1:55 PM](https://archive.org/download/echopilot-2022/echopilot-2022-10-11T13:55:31.134583-04:00.lighthouse.json) |
 | [October 11 at 2:45 AM](https://archive.org/download/echopilot-2022/echopilot-2022-10-11T02:44:51.207971-04:00.lighthouse.json) |
 | [October 10 at 2:59 PM](https://archive.org/download/echopilot-2022/echopilot-2022-10-10T14:59:17.535171-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 9 at 3:21 AM](https://archive.org/download/echopilot-2022/echopilot-2022-10-09T03:20:50.173551-04:00.lighthouse.json) |
 | [October 8 at 1:48 PM](https://archive.org/download/echopilot-2022/echopilot-2022-10-08T13:48:40.827777-04:00.lighthouse.json) |
 | [October 8 at 1:54 AM](https://archive.org/download/echopilot-2022/echopilot-2022-10-08T01:54:22.389796-04:00.lighthouse.json) |
-| [October 7 at 2:17 PM](https://archive.org/download/echopilot-2022/echopilot-2022-10-07T14:16:07.162159-04:00.lighthouse.json) |
-| [October 7 at 3:41 AM](https://archive.org/download/echopilot-2022/echopilot-2022-10-07T03:41:36.136594-04:00.lighthouse.json) |
 
 
 

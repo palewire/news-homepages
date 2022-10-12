@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 118 screenshots with the Internet Archive.
+The archiving routine has saved 120 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/csgazette-2022/csgazette-2022-10-12T11:27:12.004610-06:00.jpg">
+  <img src="https://archive.org/download/csgazette-2022/csgazette-2022-10-12T11:27:12.004610-06:00.jpg"
+     alt="Colorado Springs Gazette at 2022-10-12 11:27:22-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-10-12T11:27:12.004610-06:00.jpg">October 12 at 11:27 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/csgazette-2022/csgazette-2022-10-12T00:38:46.955502-06:00.jpg">
+  <img src="https://archive.org/download/csgazette-2022/csgazette-2022-10-12T00:38:46.955502-06:00.jpg"
+     alt="Colorado Springs Gazette at 2022-10-12 00:38:53-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-10-12T00:38:46.955502-06:00.jpg">October 12 at 12:38 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/csgazette-2022/csgazette-2022-10-11T11:49:35.845563-06:00.jpg">
   <img src="https://archive.org/download/csgazette-2022/csgazette-2022-10-11T11:49:35.845563-06:00.jpg"
      alt="Colorado Springs Gazette at 2022-10-11 11:49:40-06:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-10-07T01:39:16.784552-06:00.jpg">October 7 at 1:39 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/csgazette-2022/csgazette-2022-10-06T11:54:24.036729-06:00.jpg">
-  <img src="https://archive.org/download/csgazette-2022/csgazette-2022-10-06T11:54:24.036729-06:00.jpg"
-     alt="Colorado Springs Gazette at 2022-10-06 11:54:30-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-10-06T11:54:24.036729-06:00.jpg">October 6 at 11:54 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/csgazette-2022/csgazette-2022-10-05T23:49:36.326750-06:00.jpg">
-  <img src="https://archive.org/download/csgazette-2022/csgazette-2022-10-05T23:49:36.326750-06:00.jpg"
-     alt="Colorado Springs Gazette at 2022-10-05 23:49:38-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-10-05T23:49:36.326750-06:00.jpg">October 5 at 11:49 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 111 hyperlink lists with the Internet Archive.
+The archiving routine has saved 113 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 12 at 11:27 AM](https://archive.org/download/csgazette-2022/csgazette-2022-10-12T11:27:12.004610-06:00.hyperlinks.json) |
+| [October 12 at 12:38 AM](https://archive.org/download/csgazette-2022/csgazette-2022-10-12T00:38:46.955502-06:00.hyperlinks.json) |
 | [October 11 at 11:49 AM](https://archive.org/download/csgazette-2022/csgazette-2022-10-11T11:49:35.845563-06:00.hyperlinks.json) |
 | [October 11 at 12:42 AM](https://archive.org/download/csgazette-2022/csgazette-2022-10-11T00:42:35.615766-06:00.hyperlinks.json) |
 | [October 10 at 12:55 PM](https://archive.org/download/csgazette-2022/csgazette-2022-10-10T12:55:16.144172-06:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 9 at 1:19 AM](https://archive.org/download/csgazette-2022/csgazette-2022-10-09T01:19:23.310753-06:00.hyperlinks.json) |
 | [October 8 at 11:43 AM](https://archive.org/download/csgazette-2022/csgazette-2022-10-08T11:43:21.169238-06:00.hyperlinks.json) |
 | [October 7 at 11:47 PM](https://archive.org/download/csgazette-2022/csgazette-2022-10-07T23:47:24.874392-06:00.hyperlinks.json) |
-| [October 7 at 12:05 PM](https://archive.org/download/csgazette-2022/csgazette-2022-10-07T12:05:44.421622-06:00.hyperlinks.json) |
-| [October 7 at 1:39 AM](https://archive.org/download/csgazette-2022/csgazette-2022-10-07T01:39:16.784552-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 106 accessibility trees with the Internet Archive.
+The archiving routine has saved 108 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 12 at 11:27 AM](https://archive.org/download/csgazette-2022/csgazette-2022-10-12T11:27:12.004610-06:00.accessibility.json) |
+| [October 12 at 12:38 AM](https://archive.org/download/csgazette-2022/csgazette-2022-10-12T00:38:46.955502-06:00.accessibility.json) |
 | [October 11 at 11:49 AM](https://archive.org/download/csgazette-2022/csgazette-2022-10-11T11:49:35.845563-06:00.accessibility.json) |
 | [October 11 at 12:42 AM](https://archive.org/download/csgazette-2022/csgazette-2022-10-11T00:42:35.615766-06:00.accessibility.json) |
 | [October 10 at 12:55 PM](https://archive.org/download/csgazette-2022/csgazette-2022-10-10T12:55:16.144172-06:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 9 at 1:19 AM](https://archive.org/download/csgazette-2022/csgazette-2022-10-09T01:19:23.310753-06:00.accessibility.json) |
 | [October 8 at 11:43 AM](https://archive.org/download/csgazette-2022/csgazette-2022-10-08T11:43:21.169238-06:00.accessibility.json) |
 | [October 7 at 11:47 PM](https://archive.org/download/csgazette-2022/csgazette-2022-10-07T23:47:24.874392-06:00.accessibility.json) |
-| [October 7 at 12:05 PM](https://archive.org/download/csgazette-2022/csgazette-2022-10-07T12:05:44.421622-06:00.accessibility.json) |
-| [October 7 at 1:39 AM](https://archive.org/download/csgazette-2022/csgazette-2022-10-07T01:39:16.784552-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 105 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 107 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 12 at 11:27 AM](https://archive.org/download/csgazette-2022/csgazette-2022-10-12T11:27:12.004610-06:00.lighthouse.json) |
+| [October 12 at 12:38 AM](https://archive.org/download/csgazette-2022/csgazette-2022-10-12T00:38:46.955502-06:00.lighthouse.json) |
 | [October 11 at 11:49 AM](https://archive.org/download/csgazette-2022/csgazette-2022-10-11T11:49:35.845563-06:00.lighthouse.json) |
 | [October 11 at 12:42 AM](https://archive.org/download/csgazette-2022/csgazette-2022-10-11T00:42:35.615766-06:00.lighthouse.json) |
 | [October 10 at 12:55 PM](https://archive.org/download/csgazette-2022/csgazette-2022-10-10T12:55:16.144172-06:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 9 at 1:19 AM](https://archive.org/download/csgazette-2022/csgazette-2022-10-09T01:19:23.310753-06:00.lighthouse.json) |
 | [October 8 at 11:43 AM](https://archive.org/download/csgazette-2022/csgazette-2022-10-08T11:43:21.169238-06:00.lighthouse.json) |
 | [October 7 at 11:47 PM](https://archive.org/download/csgazette-2022/csgazette-2022-10-07T23:47:24.874392-06:00.lighthouse.json) |
-| [October 7 at 12:05 PM](https://archive.org/download/csgazette-2022/csgazette-2022-10-07T12:05:44.421622-06:00.lighthouse.json) |
-| [October 7 at 1:39 AM](https://archive.org/download/csgazette-2022/csgazette-2022-10-07T01:39:16.784552-06:00.lighthouse.json) |
 
 
 

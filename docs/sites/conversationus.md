@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 191 screenshots with the Internet Archive.
+The archiving routine has saved 193 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/conversationus-2022/conversationus-2022-10-12T13:26:59.794201-04:00.jpg">
+  <img src="https://archive.org/download/conversationus-2022/conversationus-2022-10-12T13:26:59.794201-04:00.jpg"
+     alt="Conversation U.S. at 2022-10-12 13:27:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-10-12T13:26:59.794201-04:00.jpg">October 12 at 1:27 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/conversationus-2022/conversationus-2022-10-12T02:39:18.956717-04:00.jpg">
+  <img src="https://archive.org/download/conversationus-2022/conversationus-2022-10-12T02:39:18.956717-04:00.jpg"
+     alt="Conversation U.S. at 2022-10-12 02:39:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-10-12T02:39:18.956717-04:00.jpg">October 12 at 2:39 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/conversationus-2022/conversationus-2022-10-11T13:49:00.260307-04:00.jpg">
   <img src="https://archive.org/download/conversationus-2022/conversationus-2022-10-11T13:49:00.260307-04:00.jpg"
      alt="Conversation U.S. at 2022-10-11 13:49:01-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-10-07T03:38:28.220921-04:00.jpg">October 7 at 3:38 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/conversationus-2022/conversationus-2022-10-06T13:51:52.308184-04:00.jpg">
-  <img src="https://archive.org/download/conversationus-2022/conversationus-2022-10-06T13:51:52.308184-04:00.jpg"
-     alt="Conversation U.S. at 2022-10-06 13:51:53-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-10-06T13:51:52.308184-04:00.jpg">October 6 at 1:51 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/conversationus-2022/conversationus-2022-10-06T01:49:26.916214-04:00.jpg">
-  <img src="https://archive.org/download/conversationus-2022/conversationus-2022-10-06T01:49:26.916214-04:00.jpg"
-     alt="Conversation U.S. at 2022-10-06 01:49:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-10-06T01:49:26.916214-04:00.jpg">October 6 at 1:49 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 193 hyperlink lists with the Internet Archive.
+The archiving routine has saved 195 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 12 at 1:27 PM](https://archive.org/download/conversationus-2022/conversationus-2022-10-12T13:26:59.794201-04:00.hyperlinks.json) |
+| [October 12 at 2:39 AM](https://archive.org/download/conversationus-2022/conversationus-2022-10-12T02:39:18.956717-04:00.hyperlinks.json) |
 | [October 11 at 1:49 PM](https://archive.org/download/conversationus-2022/conversationus-2022-10-11T13:49:00.260307-04:00.hyperlinks.json) |
 | [October 11 at 2:42 AM](https://archive.org/download/conversationus-2022/conversationus-2022-10-11T02:41:55.408833-04:00.hyperlinks.json) |
 | [October 10 at 2:55 PM](https://archive.org/download/conversationus-2022/conversationus-2022-10-10T14:55:03.492434-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 9 at 3:18 AM](https://archive.org/download/conversationus-2022/conversationus-2022-10-09T03:18:27.337740-04:00.hyperlinks.json) |
 | [October 8 at 1:44 PM](https://archive.org/download/conversationus-2022/conversationus-2022-10-08T13:43:51.087280-04:00.hyperlinks.json) |
 | [October 8 at 1:47 AM](https://archive.org/download/conversationus-2022/conversationus-2022-10-08T01:47:25.528355-04:00.hyperlinks.json) |
-| [October 7 at 2:05 PM](https://archive.org/download/conversationus-2022/conversationus-2022-10-07T14:05:06.933926-04:00.hyperlinks.json) |
-| [October 7 at 3:38 AM](https://archive.org/download/conversationus-2022/conversationus-2022-10-07T03:38:28.220921-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 193 accessibility trees with the Internet Archive.
+The archiving routine has saved 195 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 12 at 1:27 PM](https://archive.org/download/conversationus-2022/conversationus-2022-10-12T13:26:59.794201-04:00.accessibility.json) |
+| [October 12 at 2:39 AM](https://archive.org/download/conversationus-2022/conversationus-2022-10-12T02:39:18.956717-04:00.accessibility.json) |
 | [October 11 at 1:49 PM](https://archive.org/download/conversationus-2022/conversationus-2022-10-11T13:49:00.260307-04:00.accessibility.json) |
 | [October 11 at 2:42 AM](https://archive.org/download/conversationus-2022/conversationus-2022-10-11T02:41:55.408833-04:00.accessibility.json) |
 | [October 10 at 2:55 PM](https://archive.org/download/conversationus-2022/conversationus-2022-10-10T14:55:03.492434-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 9 at 3:18 AM](https://archive.org/download/conversationus-2022/conversationus-2022-10-09T03:18:27.337740-04:00.accessibility.json) |
 | [October 8 at 1:44 PM](https://archive.org/download/conversationus-2022/conversationus-2022-10-08T13:43:51.087280-04:00.accessibility.json) |
 | [October 8 at 1:47 AM](https://archive.org/download/conversationus-2022/conversationus-2022-10-08T01:47:25.528355-04:00.accessibility.json) |
-| [October 7 at 2:05 PM](https://archive.org/download/conversationus-2022/conversationus-2022-10-07T14:05:06.933926-04:00.accessibility.json) |
-| [October 7 at 3:38 AM](https://archive.org/download/conversationus-2022/conversationus-2022-10-07T03:38:28.220921-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 163 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 165 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 12 at 1:27 PM](https://archive.org/download/conversationus-2022/conversationus-2022-10-12T13:26:59.794201-04:00.lighthouse.json) |
+| [October 12 at 2:39 AM](https://archive.org/download/conversationus-2022/conversationus-2022-10-12T02:39:18.956717-04:00.lighthouse.json) |
 | [October 11 at 1:49 PM](https://archive.org/download/conversationus-2022/conversationus-2022-10-11T13:49:00.260307-04:00.lighthouse.json) |
 | [October 11 at 2:42 AM](https://archive.org/download/conversationus-2022/conversationus-2022-10-11T02:41:55.408833-04:00.lighthouse.json) |
 | [October 10 at 2:55 PM](https://archive.org/download/conversationus-2022/conversationus-2022-10-10T14:55:03.492434-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 9 at 3:18 AM](https://archive.org/download/conversationus-2022/conversationus-2022-10-09T03:18:27.337740-04:00.lighthouse.json) |
 | [October 8 at 1:44 PM](https://archive.org/download/conversationus-2022/conversationus-2022-10-08T13:43:51.087280-04:00.lighthouse.json) |
 | [October 8 at 1:47 AM](https://archive.org/download/conversationus-2022/conversationus-2022-10-08T01:47:25.528355-04:00.lighthouse.json) |
-| [October 7 at 2:05 PM](https://archive.org/download/conversationus-2022/conversationus-2022-10-07T14:05:06.933926-04:00.lighthouse.json) |
-| [October 7 at 3:38 AM](https://archive.org/download/conversationus-2022/conversationus-2022-10-07T03:38:28.220921-04:00.lighthouse.json) |
 
 
 

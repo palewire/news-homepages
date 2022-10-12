@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 154 screenshots with the Internet Archive.
+The archiving routine has saved 156 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-12T11:31:32.343217-06:00.jpg">
+  <img src="https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-12T11:31:32.343217-06:00.jpg"
+     alt="El Paso Times at 2022-10-12 11:31:40-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-12T11:31:32.343217-06:00.jpg">October 12 at 11:31 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-12T00:41:30.417288-06:00.jpg">
+  <img src="https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-12T00:41:30.417288-06:00.jpg"
+     alt="El Paso Times at 2022-10-12 00:41:36-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-12T00:41:30.417288-06:00.jpg">October 12 at 12:41 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-11T12:01:17.540621-06:00.jpg">
   <img src="https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-11T12:01:17.540621-06:00.jpg"
      alt="El Paso Times at 2022-10-11 12:01:22-06:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-07T01:42:08.926684-06:00.jpg">October 7 at 1:42 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-06T12:02:28.843307-06:00.jpg">
-  <img src="https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-06T12:02:28.843307-06:00.jpg"
-     alt="El Paso Times at 2022-10-06 12:02:36-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-06T12:02:28.843307-06:00.jpg">October 6 at 12:02 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-05T23:55:01.426314-06:00.jpg">
-  <img src="https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-05T23:55:01.426314-06:00.jpg"
-     alt="El Paso Times at 2022-10-05 23:55:06-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-05T23:55:01.426314-06:00.jpg">October 5 at 11:55 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 154 hyperlink lists with the Internet Archive.
+The archiving routine has saved 156 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 12 at 11:31 AM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-12T11:31:32.343217-06:00.hyperlinks.json) |
+| [October 12 at 12:41 AM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-12T00:41:30.417288-06:00.hyperlinks.json) |
 | [October 11 at 12:01 PM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-11T12:01:17.540621-06:00.hyperlinks.json) |
 | [October 11 at 12:45 AM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-11T00:45:16.791235-06:00.hyperlinks.json) |
 | [October 10 at 1:00 PM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-10T13:00:21.861704-06:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 9 at 1:21 AM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-09T01:21:13.383949-06:00.hyperlinks.json) |
 | [October 8 at 11:48 AM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-08T11:48:35.339949-06:00.hyperlinks.json) |
 | [October 7 at 11:54 PM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-07T23:54:16.629318-06:00.hyperlinks.json) |
-| [October 7 at 12:17 PM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-07T12:16:56.062232-06:00.hyperlinks.json) |
-| [October 7 at 1:42 AM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-07T01:42:08.926684-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 154 accessibility trees with the Internet Archive.
+The archiving routine has saved 156 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 12 at 11:31 AM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-12T11:31:32.343217-06:00.accessibility.json) |
+| [October 12 at 12:41 AM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-12T00:41:30.417288-06:00.accessibility.json) |
 | [October 11 at 12:01 PM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-11T12:01:17.540621-06:00.accessibility.json) |
 | [October 11 at 12:45 AM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-11T00:45:16.791235-06:00.accessibility.json) |
 | [October 10 at 1:00 PM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-10T13:00:21.861704-06:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 9 at 1:21 AM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-09T01:21:13.383949-06:00.accessibility.json) |
 | [October 8 at 11:48 AM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-08T11:48:35.339949-06:00.accessibility.json) |
 | [October 7 at 11:54 PM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-07T23:54:16.629318-06:00.accessibility.json) |
-| [October 7 at 12:17 PM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-07T12:16:56.062232-06:00.accessibility.json) |
-| [October 7 at 1:42 AM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-07T01:42:08.926684-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 154 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 156 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 12 at 11:31 AM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-12T11:31:32.343217-06:00.lighthouse.json) |
+| [October 12 at 12:41 AM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-12T00:41:30.417288-06:00.lighthouse.json) |
 | [October 11 at 12:01 PM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-11T12:01:17.540621-06:00.lighthouse.json) |
 | [October 11 at 12:45 AM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-11T00:45:16.791235-06:00.lighthouse.json) |
 | [October 10 at 1:00 PM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-10T13:00:21.861704-06:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 9 at 1:21 AM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-09T01:21:13.383949-06:00.lighthouse.json) |
 | [October 8 at 11:48 AM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-08T11:48:35.339949-06:00.lighthouse.json) |
 | [October 7 at 11:54 PM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-07T23:54:16.629318-06:00.lighthouse.json) |
-| [October 7 at 12:17 PM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-07T12:16:56.062232-06:00.lighthouse.json) |
-| [October 7 at 1:42 AM](https://archive.org/download/elpasotimes-2022/elpasotimes-2022-10-07T01:42:08.926684-06:00.lighthouse.json) |
 
 
 
