@@ -1,5 +1,6 @@
 {
-  "created": 1665493608,
+  "conflict": 1665538679,
+  "created": 1665538679,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/5/items/hornelltribune-2022",
@@ -2682,31 +2683,93 @@
       "sha1": "0e1ce4c784f26aba561bf18b795c5787ae56a867"
     },
     {
+      "name": "hornelltribune-2022-10-11T21:32:34.199421-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665538359",
+      "size": "24478",
+      "md5": "e75ab28be75018486fe3432629981d65",
+      "crc32": "b68d2c08",
+      "sha1": "42449ac56ff817d01b714fa5b9556f3d8697c318",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-11T21:32:34.199421-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665538360",
+      "size": "32700",
+      "md5": "5360019cef7ec24d6e543dd73cb6a32c",
+      "crc32": "8b3e996d",
+      "sha1": "213bf6d9822ae1da6d33af7421e3f5a8db0cc04a",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-11T21:32:34.199421-04:00.jpg",
+      "source": "original",
+      "mtime": "1665538357",
+      "size": "283697",
+      "md5": "16513ce672cd65b3bd50e406d6d1d92c",
+      "crc32": "0d83828c",
+      "sha1": "e1c47259fad18c18d7a9d7823861a821dd27a932",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hornelltribune-2022-10-11T21:32:34.199421-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665538362",
+      "size": "1531",
+      "md5": "417e47e54dce1a5bf698abc60cda1f1a",
+      "crc32": "df35af39",
+      "sha1": "544f2d38ba6d8c98b06f5425df2b282ea8564860",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-11T21:32:34.199421-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665538364",
+      "size": "111470",
+      "md5": "ef885dbd3172111ae87bd82dacd492ff",
+      "crc32": "37acf7ee",
+      "sha1": "74c3991db5880569f45a70b857304fedbc8fe54f",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-11T21:32:34.199421-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hornelltribune-2022-10-11T21:32:34.199421-04:00.jpg",
+      "mtime": "1665538674",
+      "size": "9563",
+      "md5": "129b302feff9541a29e224c775a35dbe",
+      "crc32": "d0e2848b",
+      "sha1": "921ca8fc13f1c53260c4d2ac349b817acd138b4d"
+    },
+    {
       "name": "hornelltribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7670ecbb54b1a6968e91c679a425c9d27f2efb1e",
-      "mtime": "1665493602",
-      "size": "57582",
-      "md5": "930feb49cc927a626da05f9681bf06fc",
-      "crc32": "789bc89b",
-      "sha1": "8142080ba8579ec33c10c50a4b8db2adfad34c65",
+      "btih": "092ce4ee198b33824ebed4d8f294091b9cea6364",
+      "mtime": "1665538677",
+      "size": "58886",
+      "md5": "84835f538d2e3321ea5fce0fb42faa1d",
+      "crc32": "c9cc7e97",
+      "sha1": "f66ca79306a760d2654c47ae6c081f3ffa893b9a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hornelltribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c98410080bd438720c1ee11807e51337",
+      "md5": "d713fd70f031a2b77ddc56eeb12834d8",
       "summation": "md5"
     },
     {
       "name": "hornelltribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665493553",
-      "size": "352256",
-      "md5": "bef1205a7bf0e5e2056390780a3536cf",
-      "crc32": "5ad0d747",
-      "sha1": "d0b68e7433a2d555eb2cf050c813bc3944e8577b",
+      "mtime": "1665538370",
+      "size": "360448",
+      "md5": "8e38db251f39bc2e5b7f32cc1dbfa257",
+      "crc32": "8e335db8",
+      "sha1": "65f8d219f8d558bb962377d6535007f9759812ae",
       "format": "Metadata"
     },
     {
@@ -2720,9 +2783,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 263,
-  "item_last_updated": 1665493602,
-  "item_size": 19314499,
+  "files_count": 269,
+  "item_last_updated": 1665538677,
+  "item_size": 19787434,
   "metadata": {
     "identifier": "hornelltribune-2022",
     "collection": [
@@ -2739,10 +2802,29 @@
     "publicdate": "2022-09-20 22:19:33",
     "addeddate": "2022-09-20 22:19:33"
   },
+  "pending_tasks": true,
   "server": "ia601504.us.archive.org",
-  "uniq": 335288263,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3436383848,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3436387826,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1009287287,
   "workable_servers": [
-    "ia601504.us.archive.org",
-    "ia801504.us.archive.org"
+    "ia601504.us.archive.org"
   ]
 }
