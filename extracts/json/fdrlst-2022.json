@@ -1,5 +1,5 @@
 {
-  "created": 1665518073,
+  "created": 1665533153,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/31/items/fdrlst-2022",
@@ -15036,31 +15036,83 @@
       "sha1": "089339b7b911173db4ec1893ced1f64bdde91719"
     },
     {
+      "name": "fdrlst-2022-10-11T19:59:25.109340-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665532767",
+      "size": "30834",
+      "md5": "c22a6181e527506c4e68e5a5bae5207c",
+      "crc32": "4122cda6",
+      "sha1": "53463a2484e359f3c20963e0d83b03340f43b7fd",
+      "format": "JSON"
+    },
+    {
+      "name": "fdrlst-2022-10-11T19:59:25.109340-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665532769",
+      "size": "42015",
+      "md5": "052280684aa0a00b0b164fd3640a15c2",
+      "crc32": "090b492a",
+      "sha1": "5864189c310283d7b2934999deb5133f81e3e407",
+      "format": "JSON"
+    },
+    {
+      "name": "fdrlst-2022-10-11T19:59:25.109340-04:00.jpg",
+      "source": "original",
+      "mtime": "1665532766",
+      "size": "228541",
+      "md5": "ece1452bd68213c29800b3af6e2c3365",
+      "crc32": "674ad4c1",
+      "sha1": "43dce79eb4985922af1df162c57b96b88dae416a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fdrlst-2022-10-11T19:59:25.109340-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665532774",
+      "size": "1468",
+      "md5": "64f6383d1a101068c9a0b2eda5dc2909",
+      "crc32": "03cf25c5",
+      "sha1": "394b4bcd71f995c659bbd49bf33ec8be0bb29bed",
+      "format": "JSON"
+    },
+    {
+      "name": "fdrlst-2022-10-11T19:59:25.109340-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fdrlst-2022-10-11T19:59:25.109340-04:00.jpg",
+      "mtime": "1665533100",
+      "size": "9532",
+      "md5": "ae4e13047d4730a2405304a353dd6b30",
+      "crc32": "c45dd940",
+      "sha1": "cc492fd3d619f5950ca91e6fe58803f29b64bc90"
+    },
+    {
       "name": "fdrlst-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2f634d2ee9be7052a2430f18520f1e5186d7c65b",
-      "mtime": "1665518061",
-      "size": "303346",
-      "md5": "3e053a30f01d91a739a0f726e5506ae0",
-      "crc32": "f4c03f8c",
-      "sha1": "76bca9c521642422ec736a9c75624c3f7cae855b",
+      "btih": "7bae7128e6e5c6a5e8fba0b83e4bb5e61a3b7852",
+      "mtime": "1665533120",
+      "size": "304395",
+      "md5": "0df7fa0e3936ba570e7d5503008574d8",
+      "crc32": "50a3bcba",
+      "sha1": "da6f249208fbfe81283e53a97c8530f379575371",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fdrlst-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ebfd0134bd29edee91cfa8f6f2349fef",
+      "md5": "4fdf9cbd81a4d6c34524042b9a1e043a",
       "summation": "md5"
     },
     {
       "name": "fdrlst-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665517972",
-      "size": "1830912",
-      "md5": "c08913546517916206231fde1cea09d7",
-      "crc32": "c26d453e",
-      "sha1": "da605d9520da035c806556eb2c320690de23baef",
+      "mtime": "1665532776",
+      "size": "1835008",
+      "md5": "3a7d58fee82653a2bacda4aca135444c",
+      "crc32": "106e04e9",
+      "sha1": "58ef4a70a001e00a0a25d866d8420dd16a664985",
       "format": "Metadata"
     },
     {
@@ -15074,9 +15126,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1456,
-  "item_last_updated": 1665518061,
-  "item_size": 85697673,
+  "files_count": 1461,
+  "item_last_updated": 1665533120,
+  "item_size": 86015208,
   "metadata": {
     "identifier": "fdrlst-2022",
     "collection": [
@@ -15093,10 +15145,10 @@
     "publicdate": "2022-07-17 15:03:19",
     "addeddate": "2022-07-17 15:03:19"
   },
-  "server": "ia902500.us.archive.org",
-  "uniq": 441618758,
+  "server": "ia802500.us.archive.org",
+  "uniq": 251979406,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia802500.us.archive.org",
+    "ia902500.us.archive.org"
   ]
 }

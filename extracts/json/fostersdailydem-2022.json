@@ -1,5 +1,6 @@
 {
-  "created": 1665490205,
+  "conflict": 1665533161,
+  "created": 1665533161,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/35/items/fostersdailydem-2022",
@@ -2662,31 +2663,93 @@
       "sha1": "8f0121429669c3857c65d887f71273a933459f3d"
     },
     {
+      "name": "fostersdailydem-2022-10-11T20:01:27.752600-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665532891",
+      "size": "23993",
+      "md5": "54e2e3440e62c48a1016222add7fc44c",
+      "crc32": "3cc39556",
+      "sha1": "3bbeb20b7aa61188a95cc7b42109c64e32258e55",
+      "format": "JSON"
+    },
+    {
+      "name": "fostersdailydem-2022-10-11T20:01:27.752600-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665532893",
+      "size": "38987",
+      "md5": "2e0420eb56bcc076ed74179123fd2bda",
+      "crc32": "e80a5753",
+      "sha1": "a98c4276d5d5f59f750a87a854a5a9071064dc28",
+      "format": "JSON"
+    },
+    {
+      "name": "fostersdailydem-2022-10-11T20:01:27.752600-04:00.jpg",
+      "source": "original",
+      "mtime": "1665532889",
+      "size": "252494",
+      "md5": "07c303765ab44bb6b21032e7962ce83d",
+      "crc32": "e8f77b93",
+      "sha1": "2627266f03b39eb7ec9fda3b4f7f28b1e283f0fc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fostersdailydem-2022-10-11T20:01:27.752600-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665532894",
+      "size": "1468",
+      "md5": "47589c929e6c8b85b1d5191366296d7a",
+      "crc32": "3fd01ab4",
+      "sha1": "4501ad38a902d39ebfbeb5dbc69b8db52e68aee3",
+      "format": "JSON"
+    },
+    {
+      "name": "fostersdailydem-2022-10-11T20:01:27.752600-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665532896",
+      "size": "100",
+      "md5": "4c88e2f414af5954dc698e4be0195b64",
+      "crc32": "90fd01e1",
+      "sha1": "64d519881501b5795d81b9bebac997a4a0cac27c",
+      "format": "JSON"
+    },
+    {
+      "name": "fostersdailydem-2022-10-11T20:01:27.752600-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fostersdailydem-2022-10-11T20:01:27.752600-04:00.jpg",
+      "mtime": "1665533154",
+      "size": "9203",
+      "md5": "4df6c94a6bc300458b3d880e2fadb50e",
+      "crc32": "32b3f96c",
+      "sha1": "a0cf40095cf80d86615b1942d8cea4b9b93e9f3a"
+    },
+    {
       "name": "fostersdailydem-2022_archive.torrent",
       "source": "metadata",
-      "btih": "77be2130fdb5e1a802375e589344b51695b526ea",
-      "mtime": "1665490172",
-      "size": "57325",
-      "md5": "6f9bff92374a43724085d923427b6db4",
-      "crc32": "86e0d5ba",
-      "sha1": "7568301f87aeaf97ea3fdfc9e1843bac8d0d04bf",
+      "btih": "97e0825c2c1a6d4790299aada89259be1a8e48c8",
+      "mtime": "1665533159",
+      "size": "58632",
+      "md5": "bc2c26db9447c977c21a223ac1d4036a",
+      "crc32": "e6448776",
+      "sha1": "68936f9cf150218a4e1619cce51178f0c5e77b00",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fostersdailydem-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b2502fa20b42e099457843a5fd791dec",
+      "md5": "72517b38418f28088f1daa5768713cde",
       "summation": "md5"
     },
     {
       "name": "fostersdailydem-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665490100",
-      "size": "348160",
-      "md5": "d3f910f1ec67af2c2a86436a54a9d803",
-      "crc32": "f6cf7f10",
-      "sha1": "668ee88b527bd6702bf6750b3b9fb88d8e8984ec",
+      "mtime": "1665532900",
+      "size": "356352",
+      "md5": "19efa52d9ca14932c5b9ad65ef529456",
+      "crc32": "95b3d6c8",
+      "sha1": "e4649c61d1ca2fb068bfb05001941e7ff477d5b1",
       "format": "Metadata"
     },
     {
@@ -2700,9 +2763,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 261,
-  "item_last_updated": 1665490172,
-  "item_size": 17809808,
+  "files_count": 267,
+  "item_last_updated": 1665533159,
+  "item_size": 18145552,
   "metadata": {
     "identifier": "fostersdailydem-2022",
     "collection": [
@@ -2719,10 +2782,29 @@
     "publicdate": "2022-09-20 22:17:24",
     "addeddate": "2022-09-20 22:17:24"
   },
+  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "uniq": 393267865,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3436309824,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3436313830,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1296463366,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia601506.us.archive.org"
   ]
 }
