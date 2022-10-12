@@ -437,7 +437,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 526 hyperlink lists with the Internet Archive.
+The archiving routine has saved 527 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 12 at 4:53 AM](https://archive.org/download/thetimes-2022/thetimes-2022-10-12T04:53:46.923306+01:00.hyperlinks.json) |
 | [October 11 at 4:16 PM](https://archive.org/download/thetimes-2022/thetimes-2022-10-11T16:15:42.858749+01:00.hyperlinks.json) |
 | [October 11 at 10:22 AM](https://archive.org/download/thetimes-2022/thetimes-2022-10-11T10:21:50.989723+01:00.hyperlinks.json) |
 | [October 11 at 4:56 AM](https://archive.org/download/thetimes-2022/thetimes-2022-10-11T04:56:03.674472+01:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 9 at 4:01 PM](https://archive.org/download/thetimes-2022/thetimes-2022-10-09T16:00:58.884229+01:00.hyperlinks.json) |
 | [October 9 at 10:21 AM](https://archive.org/download/thetimes-2022/thetimes-2022-10-09T10:21:18.409349+01:00.hyperlinks.json) |
 | [October 9 at 4:43 AM](https://archive.org/download/thetimes-2022/thetimes-2022-10-09T04:43:45.212305+01:00.hyperlinks.json) |
-| [October 8 at 4:09 PM](https://archive.org/download/thetimes-2022/thetimes-2022-10-08T16:08:38.044394+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 526 accessibility trees with the Internet Archive.
+The archiving routine has saved 527 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 12 at 4:53 AM](https://archive.org/download/thetimes-2022/thetimes-2022-10-12T04:53:46.923306+01:00.accessibility.json) |
 | [October 11 at 4:16 PM](https://archive.org/download/thetimes-2022/thetimes-2022-10-11T16:15:42.858749+01:00.accessibility.json) |
 | [October 11 at 10:22 AM](https://archive.org/download/thetimes-2022/thetimes-2022-10-11T10:21:50.989723+01:00.accessibility.json) |
 | [October 11 at 4:56 AM](https://archive.org/download/thetimes-2022/thetimes-2022-10-11T04:56:03.674472+01:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 9 at 4:01 PM](https://archive.org/download/thetimes-2022/thetimes-2022-10-09T16:00:58.884229+01:00.accessibility.json) |
 | [October 9 at 10:21 AM](https://archive.org/download/thetimes-2022/thetimes-2022-10-09T10:21:18.409349+01:00.accessibility.json) |
 | [October 9 at 4:43 AM](https://archive.org/download/thetimes-2022/thetimes-2022-10-09T04:43:45.212305+01:00.accessibility.json) |
-| [October 8 at 4:08 PM](https://archive.org/download/thetimes-2022/thetimes-2022-10-08T16:08:38.044394+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 240 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 241 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 12 at 4:53 AM](https://archive.org/download/thetimes-2022/thetimes-2022-10-12T04:53:46.923306+01:00.lighthouse.json) |
 | [October 11 at 4:16 PM](https://archive.org/download/thetimes-2022/thetimes-2022-10-11T16:15:42.858749+01:00.lighthouse.json) |
 | [October 11 at 10:22 AM](https://archive.org/download/thetimes-2022/thetimes-2022-10-11T10:21:50.989723+01:00.lighthouse.json) |
 | [October 11 at 4:56 AM](https://archive.org/download/thetimes-2022/thetimes-2022-10-11T04:56:03.674472+01:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 9 at 4:01 PM](https://archive.org/download/thetimes-2022/thetimes-2022-10-09T16:00:58.884229+01:00.lighthouse.json) |
 | [October 9 at 10:21 AM](https://archive.org/download/thetimes-2022/thetimes-2022-10-09T10:21:18.409349+01:00.lighthouse.json) |
 | [October 9 at 4:43 AM](https://archive.org/download/thetimes-2022/thetimes-2022-10-09T04:43:45.212305+01:00.lighthouse.json) |
-| [October 8 at 4:09 PM](https://archive.org/download/thetimes-2022/thetimes-2022-10-08T16:08:38.044394+01:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 171 screenshots with the Internet Archive.
+The archiving routine has saved 172 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 171 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thewrap-2022/thewrap-2022-10-11T20:58:03.813399-07:00.jpg">
+  <img src="https://archive.org/download/thewrap-2022/thewrap-2022-10-11T20:58:03.813399-07:00.jpg"
+     alt="Wrap at 2022-10-11 20:58:13-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-10-11T20:58:03.813399-07:00.jpg">October 11 at 8:58 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thewrap-2022/thewrap-2022-10-11T08:15:17.029249-07:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-10-06T08:11:28.820677-07:00.jpg">October 6 at 8:11 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thewrap-2022/thewrap-2022-10-05T21:19:36.648229-07:00.jpg">
-  <img src="https://archive.org/download/thewrap-2022/thewrap-2022-10-05T21:19:36.648229-07:00.jpg"
-     alt="Wrap at 2022-10-05 21:19:38-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-10-05T21:19:36.648229-07:00.jpg">October 5 at 9:19 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 170 hyperlink lists with the Internet Archive.
+The archiving routine has saved 171 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 8:58 PM](https://archive.org/download/thewrap-2022/thewrap-2022-10-11T20:58:03.813399-07:00.hyperlinks.json) |
 | [October 11 at 8:15 AM](https://archive.org/download/thewrap-2022/thewrap-2022-10-11T08:15:17.029249-07:00.hyperlinks.json) |
 | [October 10 at 8:57 PM](https://archive.org/download/thewrap-2022/thewrap-2022-10-10T20:57:17.365493-07:00.hyperlinks.json) |
 | [October 10 at 8:24 AM](https://archive.org/download/thewrap-2022/thewrap-2022-10-10T08:24:28.788795-07:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 8:14 AM](https://archive.org/download/thewrap-2022/thewrap-2022-10-08T08:14:27.616628-07:00.hyperlinks.json) |
 | [October 7 at 8:45 PM](https://archive.org/download/thewrap-2022/thewrap-2022-10-07T20:45:34.371607-07:00.hyperlinks.json) |
 | [October 7 at 8:13 AM](https://archive.org/download/thewrap-2022/thewrap-2022-10-07T08:13:37.394743-07:00.hyperlinks.json) |
-| [October 6 at 9:27 PM](https://archive.org/download/thewrap-2022/thewrap-2022-10-06T21:27:39.815801-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 173 accessibility trees with the Internet Archive.
+The archiving routine has saved 174 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 8:58 PM](https://archive.org/download/thewrap-2022/thewrap-2022-10-11T20:58:03.813399-07:00.accessibility.json) |
 | [October 11 at 8:15 AM](https://archive.org/download/thewrap-2022/thewrap-2022-10-11T08:15:17.029249-07:00.accessibility.json) |
 | [October 10 at 8:57 PM](https://archive.org/download/thewrap-2022/thewrap-2022-10-10T20:57:17.365493-07:00.accessibility.json) |
 | [October 10 at 8:24 AM](https://archive.org/download/thewrap-2022/thewrap-2022-10-10T08:24:28.788795-07:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 8:14 AM](https://archive.org/download/thewrap-2022/thewrap-2022-10-08T08:14:27.616628-07:00.accessibility.json) |
 | [October 7 at 8:45 PM](https://archive.org/download/thewrap-2022/thewrap-2022-10-07T20:45:34.371607-07:00.accessibility.json) |
 | [October 7 at 8:13 AM](https://archive.org/download/thewrap-2022/thewrap-2022-10-07T08:13:37.394743-07:00.accessibility.json) |
-| [October 6 at 9:27 PM](https://archive.org/download/thewrap-2022/thewrap-2022-10-06T21:27:39.815801-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 161 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 162 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 8:58 PM](https://archive.org/download/thewrap-2022/thewrap-2022-10-11T20:58:03.813399-07:00.lighthouse.json) |
 | [October 11 at 8:15 AM](https://archive.org/download/thewrap-2022/thewrap-2022-10-11T08:15:17.029249-07:00.lighthouse.json) |
 | [October 10 at 8:57 PM](https://archive.org/download/thewrap-2022/thewrap-2022-10-10T20:57:17.365493-07:00.lighthouse.json) |
 | [October 10 at 8:24 AM](https://archive.org/download/thewrap-2022/thewrap-2022-10-10T08:24:28.788795-07:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 8:14 AM](https://archive.org/download/thewrap-2022/thewrap-2022-10-08T08:14:27.616628-07:00.lighthouse.json) |
 | [October 7 at 8:45 PM](https://archive.org/download/thewrap-2022/thewrap-2022-10-07T20:45:34.371607-07:00.lighthouse.json) |
 | [October 7 at 8:13 AM](https://archive.org/download/thewrap-2022/thewrap-2022-10-07T08:13:37.394743-07:00.lighthouse.json) |
-| [October 6 at 9:27 PM](https://archive.org/download/thewrap-2022/thewrap-2022-10-06T21:27:39.815801-07:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 42 screenshots with the Internet Archive.
+The archiving routine has saved 43 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 42 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/timestelegram-2022/timestelegram-2022-10-11T23:57:08.133586-04:00.jpg">
+  <img src="https://archive.org/download/timestelegram-2022/timestelegram-2022-10-11T23:57:08.133586-04:00.jpg"
+     alt="The Times Telegram at 2022-10-11 23:57:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/timestelegram-2022/timestelegram-2022-10-11T23:57:08.133586-04:00.jpg">October 11 at 11:57 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/timestelegram-2022/timestelegram-2022-10-11T11:16:12.076230-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/timestelegram-2022/timestelegram-2022-10-06T11:10:18.741334-04:00.jpg">October 6 at 11:10 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/timestelegram-2022/timestelegram-2022-10-06T00:19:41.397261-04:00.jpg">
-  <img src="https://archive.org/download/timestelegram-2022/timestelegram-2022-10-06T00:19:41.397261-04:00.jpg"
-     alt="The Times Telegram at 2022-10-06 00:19:43-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/timestelegram-2022/timestelegram-2022-10-06T00:19:41.397261-04:00.jpg">October 6 at 12:19 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 42 hyperlink lists with the Internet Archive.
+The archiving routine has saved 43 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 11:57 PM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-11T23:57:08.133586-04:00.hyperlinks.json) |
 | [October 11 at 11:16 AM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-11T11:16:12.076230-04:00.hyperlinks.json) |
 | [October 10 at 11:57 PM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-10T23:57:38.082530-04:00.hyperlinks.json) |
 | [October 10 at 11:24 AM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-10T11:24:26.472781-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 11:12 AM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-08T11:12:12.546542-04:00.hyperlinks.json) |
 | [October 7 at 11:45 PM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-07T23:45:20.835240-04:00.hyperlinks.json) |
 | [October 7 at 11:13 AM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-07T11:13:44.322274-04:00.hyperlinks.json) |
-| [October 7 at 12:29 AM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-07T00:29:03.939200-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 42 accessibility trees with the Internet Archive.
+The archiving routine has saved 43 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 11:57 PM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-11T23:57:08.133586-04:00.accessibility.json) |
 | [October 11 at 11:16 AM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-11T11:16:12.076230-04:00.accessibility.json) |
 | [October 10 at 11:57 PM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-10T23:57:38.082530-04:00.accessibility.json) |
 | [October 10 at 11:24 AM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-10T11:24:26.472781-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 11:12 AM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-08T11:12:12.546542-04:00.accessibility.json) |
 | [October 7 at 11:45 PM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-07T23:45:20.835240-04:00.accessibility.json) |
 | [October 7 at 11:13 AM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-07T11:13:44.322274-04:00.accessibility.json) |
-| [October 7 at 12:29 AM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-07T00:29:03.939200-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 42 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 11:57 PM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-11T23:57:08.133586-04:00.lighthouse.json) |
 | [October 11 at 11:16 AM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-11T11:16:12.076230-04:00.lighthouse.json) |
 | [October 10 at 11:57 PM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-10T23:57:38.082530-04:00.lighthouse.json) |
 | [October 10 at 11:24 AM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-10T11:24:26.472781-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 11:12 AM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-08T11:12:12.546542-04:00.lighthouse.json) |
 | [October 7 at 11:45 PM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-07T23:45:20.835240-04:00.lighthouse.json) |
 | [October 7 at 11:13 AM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-07T11:13:44.322274-04:00.lighthouse.json) |
-| [October 7 at 12:29 AM](https://archive.org/download/timestelegram-2022/timestelegram-2022-10-07T00:29:03.939200-04:00.lighthouse.json) |
 
 
 
