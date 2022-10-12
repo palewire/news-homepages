@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 119 screenshots with the Internet Archive.
+The archiving routine has saved 120 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 119 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-12T04:32:43.126132+03:00.jpg">
+  <img src="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-12T04:32:43.126132+03:00.jpg"
+     alt="Israel Hayom at 2022-10-12 04:33:07+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-12T04:32:43.126132+03:00.jpg">October 12 at 4:33 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-11T16:06:06.613411+03:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-06T15:59:49.054012+03:00.jpg">October 6 at 3:59 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-06T04:24:40.252171+03:00.jpg">
-  <img src="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-06T04:24:40.252171+03:00.jpg"
-     alt="Israel Hayom at 2022-10-06 04:24:50+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-06T04:24:40.252171+03:00.jpg">October 6 at 4:24 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 120 hyperlink lists with the Internet Archive.
+The archiving routine has saved 121 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 12 at 4:33 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-12T04:32:43.126132+03:00.hyperlinks.json) |
 | [October 11 at 4:06 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-11T16:06:06.613411+03:00.hyperlinks.json) |
 | [October 11 at 4:24 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-11T04:24:02.214399+03:00.hyperlinks.json) |
 | [October 10 at 4:19 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-10T16:19:27.307264+03:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 4:01 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-08T16:00:59.935317+03:00.hyperlinks.json) |
 | [October 8 at 4:24 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-08T04:23:29.330333+03:00.hyperlinks.json) |
 | [October 7 at 4:07 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-07T16:07:08.993487+03:00.hyperlinks.json) |
-| [October 7 at 4:40 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-07T04:39:57.654968+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 120 accessibility trees with the Internet Archive.
+The archiving routine has saved 121 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 12 at 4:33 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-12T04:32:43.126132+03:00.accessibility.json) |
 | [October 11 at 4:06 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-11T16:06:06.613411+03:00.accessibility.json) |
 | [October 11 at 4:24 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-11T04:24:02.214399+03:00.accessibility.json) |
 | [October 10 at 4:19 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-10T16:19:27.307264+03:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 4:01 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-08T16:00:59.935317+03:00.accessibility.json) |
 | [October 8 at 4:23 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-08T04:23:29.330333+03:00.accessibility.json) |
 | [October 7 at 4:07 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-07T16:07:08.993487+03:00.accessibility.json) |
-| [October 7 at 4:40 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-07T04:39:57.654968+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 116 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 117 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 12 at 4:33 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-12T04:32:43.126132+03:00.lighthouse.json) |
 | [October 11 at 4:24 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-11T04:24:02.214399+03:00.lighthouse.json) |
 | [October 10 at 4:19 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-10T16:19:27.307264+03:00.lighthouse.json) |
 | [October 10 at 4:27 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-10T04:27:29.661035+03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 7 at 4:07 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-07T16:07:08.993487+03:00.lighthouse.json) |
 | [October 7 at 4:40 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-07T04:39:57.654968+03:00.lighthouse.json) |
 | [October 6 at 4:00 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-06T15:59:49.054012+03:00.lighthouse.json) |
-| [October 6 at 4:24 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-10-06T04:24:40.252171+03:00.lighthouse.json) |
 
 
 

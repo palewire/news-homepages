@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 154 screenshots with the Internet Archive.
+The archiving routine has saved 155 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 154 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-11T22:39:46.610806-04:00.jpg">
+  <img src="https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-11T22:39:46.610806-04:00.jpg"
+     alt="Space.com at 2022-10-11 22:39:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-11T22:39:46.610806-04:00.jpg">October 11 at 10:39 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-11T11:09:06.532946-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-06T10:17:31.564414-04:00.jpg">October 6 at 10:17 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-05T22:39:21.618647-04:00.jpg">
-  <img src="https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-05T22:39:21.618647-04:00.jpg"
-     alt="Space.com at 2022-10-05 22:39:27-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-05T22:39:21.618647-04:00.jpg">October 5 at 10:39 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 153 hyperlink lists with the Internet Archive.
+The archiving routine has saved 154 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 10:39 PM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-11T22:39:46.610806-04:00.hyperlinks.json) |
 | [October 11 at 11:09 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-11T11:09:06.532946-04:00.hyperlinks.json) |
 | [October 10 at 10:27 PM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-10T22:27:39.339953-04:00.hyperlinks.json) |
 | [October 10 at 10:29 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-10T10:29:18.226662-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 10:17 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-08T10:17:44.045285-04:00.hyperlinks.json) |
 | [October 7 at 10:36 PM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-07T22:36:43.463549-04:00.hyperlinks.json) |
 | [October 7 at 10:18 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-07T10:18:15.530073-04:00.hyperlinks.json) |
-| [October 6 at 10:49 PM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-06T22:48:52.817481-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 152 accessibility trees with the Internet Archive.
+The archiving routine has saved 153 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 10:39 PM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-11T22:39:46.610806-04:00.accessibility.json) |
 | [October 11 at 11:09 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-11T11:09:06.532946-04:00.accessibility.json) |
 | [October 10 at 10:27 PM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-10T22:27:39.339953-04:00.accessibility.json) |
 | [October 10 at 10:29 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-10T10:29:18.226662-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 10:17 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-08T10:17:44.045285-04:00.accessibility.json) |
 | [October 7 at 10:36 PM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-07T22:36:43.463549-04:00.accessibility.json) |
 | [October 7 at 10:18 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-07T10:18:15.530073-04:00.accessibility.json) |
-| [October 6 at 10:49 PM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-06T22:48:52.817481-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 139 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 140 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 10:39 PM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-11T22:39:46.610806-04:00.lighthouse.json) |
 | [October 11 at 11:09 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-11T11:09:06.532946-04:00.lighthouse.json) |
 | [October 10 at 10:27 PM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-10T22:27:39.339953-04:00.lighthouse.json) |
 | [October 10 at 10:29 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-10T10:29:18.226662-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 10:17 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-08T10:17:44.045285-04:00.lighthouse.json) |
 | [October 7 at 10:36 PM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-07T22:36:43.463549-04:00.lighthouse.json) |
 | [October 7 at 10:18 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-07T10:18:15.530073-04:00.lighthouse.json) |
-| [October 6 at 10:49 PM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-10-06T22:48:52.817481-04:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 43 screenshots with the Internet Archive.
+The archiving routine has saved 44 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 43 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ldnews-2022/ldnews-2022-10-11T21:36:10.502578-04:00.jpg">
+  <img src="https://archive.org/download/ldnews-2022/ldnews-2022-10-11T21:36:10.502578-04:00.jpg"
+     alt="Lebanon Daily News at 2022-10-11 21:36:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ldnews-2022/ldnews-2022-10-11T21:36:10.502578-04:00.jpg">October 11 at 9:36 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ldnews-2022/ldnews-2022-10-11T09:08:38.964008-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ldnews-2022/ldnews-2022-10-06T09:01:18.100691-04:00.jpg">October 6 at 9:01 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ldnews-2022/ldnews-2022-10-05T21:31:17.536503-04:00.jpg">
-  <img src="https://archive.org/download/ldnews-2022/ldnews-2022-10-05T21:31:17.536503-04:00.jpg"
-     alt="Lebanon Daily News at 2022-10-05 21:31:20-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ldnews-2022/ldnews-2022-10-05T21:31:17.536503-04:00.jpg">October 5 at 9:31 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 43 hyperlink lists with the Internet Archive.
+The archiving routine has saved 44 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 11 at 9:36 PM](https://archive.org/download/ldnews-2022/ldnews-2022-10-11T21:36:10.502578-04:00.hyperlinks.json) |
 | [October 11 at 9:08 AM](https://archive.org/download/ldnews-2022/ldnews-2022-10-11T09:08:38.964008-04:00.hyperlinks.json) |
 | [October 10 at 9:26 PM](https://archive.org/download/ldnews-2022/ldnews-2022-10-10T21:26:43.860777-04:00.hyperlinks.json) |
 | [October 10 at 9:24 AM](https://archive.org/download/ldnews-2022/ldnews-2022-10-10T09:24:16.908369-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 9:04 AM](https://archive.org/download/ldnews-2022/ldnews-2022-10-08T09:04:01.469191-04:00.hyperlinks.json) |
 | [October 7 at 9:28 PM](https://archive.org/download/ldnews-2022/ldnews-2022-10-07T21:27:42.226384-04:00.hyperlinks.json) |
 | [October 7 at 9:10 AM](https://archive.org/download/ldnews-2022/ldnews-2022-10-07T09:10:10.081842-04:00.hyperlinks.json) |
-| [October 6 at 9:43 PM](https://archive.org/download/ldnews-2022/ldnews-2022-10-06T21:42:55.958880-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 43 accessibility trees with the Internet Archive.
+The archiving routine has saved 44 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 11 at 9:36 PM](https://archive.org/download/ldnews-2022/ldnews-2022-10-11T21:36:10.502578-04:00.accessibility.json) |
 | [October 11 at 9:08 AM](https://archive.org/download/ldnews-2022/ldnews-2022-10-11T09:08:38.964008-04:00.accessibility.json) |
 | [October 10 at 9:26 PM](https://archive.org/download/ldnews-2022/ldnews-2022-10-10T21:26:43.860777-04:00.accessibility.json) |
 | [October 10 at 9:24 AM](https://archive.org/download/ldnews-2022/ldnews-2022-10-10T09:24:16.908369-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 9:04 AM](https://archive.org/download/ldnews-2022/ldnews-2022-10-08T09:04:01.469191-04:00.accessibility.json) |
 | [October 7 at 9:28 PM](https://archive.org/download/ldnews-2022/ldnews-2022-10-07T21:27:42.226384-04:00.accessibility.json) |
 | [October 7 at 9:10 AM](https://archive.org/download/ldnews-2022/ldnews-2022-10-07T09:10:10.081842-04:00.accessibility.json) |
-| [October 6 at 9:43 PM](https://archive.org/download/ldnews-2022/ldnews-2022-10-06T21:42:55.958880-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 11 at 9:36 PM](https://archive.org/download/ldnews-2022/ldnews-2022-10-11T21:36:10.502578-04:00.lighthouse.json) |
 | [October 11 at 9:08 AM](https://archive.org/download/ldnews-2022/ldnews-2022-10-11T09:08:38.964008-04:00.lighthouse.json) |
 | [October 10 at 9:26 PM](https://archive.org/download/ldnews-2022/ldnews-2022-10-10T21:26:43.860777-04:00.lighthouse.json) |
 | [October 10 at 9:24 AM](https://archive.org/download/ldnews-2022/ldnews-2022-10-10T09:24:16.908369-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 9:04 AM](https://archive.org/download/ldnews-2022/ldnews-2022-10-08T09:04:01.469191-04:00.lighthouse.json) |
 | [October 7 at 9:28 PM](https://archive.org/download/ldnews-2022/ldnews-2022-10-07T21:27:42.226384-04:00.lighthouse.json) |
 | [October 7 at 9:10 AM](https://archive.org/download/ldnews-2022/ldnews-2022-10-07T09:10:10.081842-04:00.lighthouse.json) |
-| [October 6 at 9:43 PM](https://archive.org/download/ldnews-2022/ldnews-2022-10-06T21:42:55.958880-04:00.lighthouse.json) |
 
 
 
