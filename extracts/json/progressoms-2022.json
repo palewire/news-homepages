@@ -1,5 +1,5 @@
 {
-  "created": 1665562152,
+  "created": 1665576532,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/28/items/progressoms-2022",
@@ -12076,31 +12076,93 @@
       "sha1": "790c2ec8947ea8afcc9d28201b5c83b66eef2922"
     },
     {
+      "name": "progressoms-2022-10-12T09:06:41.269956-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665576413",
+      "size": "1088",
+      "md5": "a729f65f70282d914b2285156c8531c2",
+      "crc32": "7ba4b1bb",
+      "sha1": "b080aa73b8f5029c5d70ec9108d0463becee9db2",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-10-12T09:06:41.269956-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665576415",
+      "size": "19791",
+      "md5": "877af06cb1ee4e994ffd50bb129f0d96",
+      "crc32": "4749609d",
+      "sha1": "45885dda4e02618138ba8883109da8fd999bdc6d",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-10-12T09:06:41.269956-03:00.jpg",
+      "source": "original",
+      "mtime": "1665576410",
+      "size": "265032",
+      "md5": "9eac645c6cd661999fad7eac3701cdc8",
+      "crc32": "ac1bb729",
+      "sha1": "b5aaba3d87adb6f9011e3c7306e1facc0d687100",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "progressoms-2022-10-12T09:06:41.269956-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665576418",
+      "size": "1511",
+      "md5": "b34f62dfe37ad78ea674582c5977b418",
+      "crc32": "89b81cab",
+      "sha1": "1cee945634876c79d07a80e93f01ebdb5ef9e0e8",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-10-12T09:06:41.269956-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665576419",
+      "size": "15722",
+      "md5": "0703ba36522779c8f137831451c8a770",
+      "crc32": "6dfa3415",
+      "sha1": "5dcf3ac86878a0371c21b8b7d58ecdca8a6884f2",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-10-12T09:06:41.269956-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "progressoms-2022-10-12T09:06:41.269956-03:00.jpg",
+      "mtime": "1665576500",
+      "size": "10730",
+      "md5": "53c9727a374641306a3fcf71cc1dd67c",
+      "crc32": "315c5468",
+      "sha1": "d076655c7b4f69b1c91ff420e50f16fdbb4a5d34"
+    },
+    {
       "name": "progressoms-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bcfaf9e54f3c8fbfd0fc53815951d90042a7b9bc",
-      "mtime": "1665561973",
-      "size": "250140",
-      "md5": "32c1b254a8e1b7905d1c5a882c81e9f6",
-      "crc32": "7d7c6829",
-      "sha1": "415fffd3596606380f74cac50afefea50c029992",
+      "btih": "54371a44b073fb93155fbaffd2c1423c45aff8f3",
+      "mtime": "1665576512",
+      "size": "251425",
+      "md5": "ff2463fce3a0c7d8b7908c134fd7b408",
+      "crc32": "7a5d54a1",
+      "sha1": "c4bbb728929571ae06f09518a9f5a7ee0dc3f36a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "progressoms-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cd9cab8545d4f5493c1c97ee419c5236",
+      "md5": "858a175de7619fed94938ed34e7ed734",
       "summation": "md5"
     },
     {
       "name": "progressoms-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665561855",
-      "size": "1503232",
-      "md5": "961e50b9f30ae0677452e3b18a6f5e25",
-      "crc32": "9dbd605b",
-      "sha1": "7e7857e0666287e0866b2ec284e131baee745aa6",
+      "mtime": "1665576424",
+      "size": "1511424",
+      "md5": "98b107b24f1f2b364159d4815bf39188",
+      "crc32": "d54ad9f2",
+      "sha1": "93ef213c692f011a53b8726df3290f5ade4c963f",
       "format": "Metadata"
     },
     {
@@ -12114,9 +12176,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1172,
-  "item_last_updated": 1665561973,
-  "item_size": 67240869,
+  "files_count": 1178,
+  "item_last_updated": 1665576512,
+  "item_size": 67564220,
   "metadata": {
     "identifier": "progressoms-2022",
     "collection": [
@@ -12133,10 +12195,10 @@
     "publicdate": "2022-08-04 04:56:28",
     "addeddate": "2022-08-04 04:56:28"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 1045863624,
+  "server": "ia601506.us.archive.org",
+  "uniq": 1707861561,
   "workable_servers": [
-    "ia801506.us.archive.org",
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }
