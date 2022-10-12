@@ -1,6 +1,6 @@
 {
-  "conflict": 1665538681,
-  "created": 1665538681,
+  "conflict": 1665579666,
+  "created": 1665579666,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/12/items/ioniassnews-2022",
@@ -2735,31 +2735,93 @@
       "sha1": "fbcf54abd114e45fbaa92378d442e344121b7398"
     },
     {
+      "name": "ioniassnews-2022-10-12T08:52:56.575258-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665579183",
+      "size": "23144",
+      "md5": "379b23f5b187a223d96b6b6efc19054b",
+      "crc32": "05bbf526",
+      "sha1": "b6c8bccb2f5a49aecb7fa86346ecab3f04296fa4",
+      "format": "JSON"
+    },
+    {
+      "name": "ioniassnews-2022-10-12T08:52:56.575258-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665579185",
+      "size": "32896",
+      "md5": "9e97b1c892bee411e0b049233b2de9c2",
+      "crc32": "d2be8ff1",
+      "sha1": "1fb991534b314874065233c2aa39a5a84dce09ac",
+      "format": "JSON"
+    },
+    {
+      "name": "ioniassnews-2022-10-12T08:52:56.575258-04:00.jpg",
+      "source": "original",
+      "mtime": "1665579182",
+      "size": "257933",
+      "md5": "19669728c74e0abc16f28ff69b2c1fb3",
+      "crc32": "c07e2148",
+      "sha1": "fd618c787ab9d670b1dc08654010565314ffbbfe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ioniassnews-2022-10-12T08:52:56.575258-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665579187",
+      "size": "1557",
+      "md5": "5d20a8305c99ef97e501f2a03a1e50f3",
+      "crc32": "43468d09",
+      "sha1": "2deebfd72b27166ea241c83bfe107395165d935e",
+      "format": "JSON"
+    },
+    {
+      "name": "ioniassnews-2022-10-12T08:52:56.575258-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665579188",
+      "size": "61048",
+      "md5": "729f6b88be3e36df5e7b21591977b02c",
+      "crc32": "41b66934",
+      "sha1": "9085078287a3bbe06adfb359bc909fde29a15f51",
+      "format": "JSON"
+    },
+    {
+      "name": "ioniassnews-2022-10-12T08:52:56.575258-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ioniassnews-2022-10-12T08:52:56.575258-04:00.jpg",
+      "mtime": "1665579633",
+      "size": "9132",
+      "md5": "3b62fb5f56def8d1a84a1f16689e75d7",
+      "crc32": "f03856f2",
+      "sha1": "f14139d6c8424c044aaf477f0602f9080ca6e4ec"
+    },
+    {
       "name": "ioniassnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7d9dfaf58be29fdeba43c77201b537613285fe07",
-      "mtime": "1665538679",
-      "size": "57778",
-      "md5": "bd9c22b6104b529c14c404bfbe9a3aae",
-      "crc32": "6b83c378",
-      "sha1": "9889eb05f5ec8f0a8dc05bcb5dcfedf364cb8339",
+      "btih": "d59130eb6a648e3e9f4c30981fc38ec633aedd01",
+      "mtime": "1665579640",
+      "size": "59063",
+      "md5": "3a2b73d0da0efac8231023eb726fa999",
+      "crc32": "fc412ab2",
+      "sha1": "aeec78917b95081d81c6ad8f214a12e0d63ad4cd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ioniassnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5606f5e35d5a46b58e8b2229a78aa5dd",
+      "md5": "c29c88bad7f0b17e662e15adb1e6ad89",
       "summation": "md5"
     },
     {
       "name": "ioniassnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665538376",
-      "size": "356352",
-      "md5": "9c6edf10662692d0149d159e22a81256",
-      "crc32": "5a0d5d8c",
-      "sha1": "db7b79e0ef10f92ecb3b0e93ba18cdd8e04d6d09",
+      "mtime": "1665579545",
+      "size": "364544",
+      "md5": "352426b219c06acb77bf8f9f5e7caf3b",
+      "crc32": "83e705b7",
+      "sha1": "78f334a9f08c1b7796e3c5bf1d3fb844be3d34d5",
       "format": "Metadata"
     },
     {
@@ -2773,9 +2835,10 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 268,
-  "item_last_updated": 1665538679,
-  "item_size": 18287984,
+  "files_count": 274,
+  "has_redrow": true,
+  "item_last_updated": 1665579640,
+  "item_size": 18683171,
   "metadata": {
     "identifier": "ioniassnews-2022",
     "collection": [
@@ -2797,23 +2860,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3436383892,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3436387844,
+      "task_id": 3437001719,
       "cmd": "bup.php",
       "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 2,
+      "color": "red",
+      "status": "error"
     }
   ],
-  "uniq": 916248519,
+  "uniq": 910579664,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]

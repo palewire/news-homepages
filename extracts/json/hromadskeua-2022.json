@@ -1,5 +1,5 @@
 {
-  "created": 1665538657,
+  "created": 1665579293,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/17/items/hromadskeua-2022",
@@ -20408,31 +20408,93 @@
       "sha1": "ca7ad4720c26414295147fe7315cec31db0f3576"
     },
     {
+      "name": "hromadskeua-2022-10-12T15:52:35.074317+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665579159",
+      "size": "37053",
+      "md5": "d9da1ddd151e322c2798597992b05f91",
+      "crc32": "0c9379e0",
+      "sha1": "cc6e92f83f8ccfc29758df5d110f60a0fd7c6e36",
+      "format": "JSON"
+    },
+    {
+      "name": "hromadskeua-2022-10-12T15:52:35.074317+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665579161",
+      "size": "32544",
+      "md5": "20fdfa03398604e5f159e35ee0e8523a",
+      "crc32": "ef684156",
+      "sha1": "00ce5e6f4614bb1069a6e2783327cbddbd7f6cd9",
+      "format": "JSON"
+    },
+    {
+      "name": "hromadskeua-2022-10-12T15:52:35.074317+03:00.jpg",
+      "source": "original",
+      "mtime": "1665579156",
+      "size": "306680",
+      "md5": "d28bd2fcb062cbe8ccd43cc1623e03d5",
+      "crc32": "859a20cb",
+      "sha1": "2fdd670fcd0e0c9c8695f3ce690a9e29388a8d8f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hromadskeua-2022-10-12T15:52:35.074317+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665579163",
+      "size": "1432",
+      "md5": "6b9ba5681f4d7477e80419383befd7e5",
+      "crc32": "a9779a48",
+      "sha1": "878062d0a712d81c33d7dab9735774bc4bd7b30a",
+      "format": "JSON"
+    },
+    {
+      "name": "hromadskeua-2022-10-12T15:52:35.074317+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665579164",
+      "size": "11657",
+      "md5": "8058c744354e6fdd0d0ba8210f16c650",
+      "crc32": "b02e87a8",
+      "sha1": "3f5150b20fbef0601c5d73447ad89fc38ee6d6eb",
+      "format": "JSON"
+    },
+    {
+      "name": "hromadskeua-2022-10-12T15:52:35.074317+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hromadskeua-2022-10-12T15:52:35.074317+03:00.jpg",
+      "mtime": "1665579251",
+      "size": "9431",
+      "md5": "1b519ec1372f60d244059c7c7da1f068",
+      "crc32": "3fbb272f",
+      "sha1": "2f5318676da32bb882aed0aa7ebcdf13ed826b84"
+    },
+    {
       "name": "hromadskeua-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f1708750276d3bf8c062ee719de827199c3920f0",
-      "mtime": "1665538629",
-      "size": "419092",
-      "md5": "6200267393f949e64102b7828d2cdea1",
-      "crc32": "b506dda1",
-      "sha1": "5ad03d7e078e50e47be9cbae48feaccbb00b2da3",
+      "btih": "36b812e6aaf2e3cae70a957e1281ba1bc1680782",
+      "mtime": "1665579286",
+      "size": "420377",
+      "md5": "c91c5dbc541e93a4fb1eabf3085aaa7e",
+      "crc32": "ce752ef9",
+      "sha1": "684209a15f9bfc9daa2728e187d9b57dd50bd354",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hromadskeua-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f9ac5b71d2817d43cc5983c11c3f3961",
+      "md5": "ea971ec6672b05be4066400917bb4849",
       "summation": "md5"
     },
     {
       "name": "hromadskeua-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665538406",
-      "size": "2359296",
-      "md5": "b1a357f94be6f1a6497b8a5df0f36900",
-      "crc32": "bebfff9e",
-      "sha1": "cd0a39ddc000e9f8ae07849a01ef9e10b274b3f3",
+      "mtime": "1665579169",
+      "size": "2363392",
+      "md5": "59c6a8666c1178d303da75fde18fc832",
+      "crc32": "cd3586c5",
+      "sha1": "f546d945bd9278e095b37b8ae20e617cd3066070",
       "format": "Metadata"
     },
     {
@@ -20446,9 +20508,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1960,
-  "item_last_updated": 1665538629,
-  "item_size": 158927285,
+  "files_count": 1966,
+  "item_last_updated": 1665579286,
+  "item_size": 159331463,
   "metadata": {
     "identifier": "hromadskeua-2022",
     "collection": [
@@ -20466,7 +20528,7 @@
     "addeddate": "2022-03-23 17:49:24"
   },
   "server": "ia802505.us.archive.org",
-  "uniq": 455910093,
+  "uniq": 1473672186,
   "workable_servers": [
     "ia802505.us.archive.org",
     "ia902505.us.archive.org"

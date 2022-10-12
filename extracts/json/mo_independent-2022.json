@@ -1,5 +1,5 @@
 {
-  "created": 1665538947,
+  "created": 1665579549,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/3/items/mo_independent-2022",
@@ -11480,31 +11480,82 @@
       "sha1": "94aa95985f31fc369bbd70575504a5dc4cddc014"
     },
     {
+      "name": "mo_independent-2022-10-12T07:57:16.964122-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665579447",
+      "size": "16526",
+      "md5": "7b9af9f1f0ae221d5a1aadb0b8a83cbd",
+      "crc32": "365f4064",
+      "sha1": "dbe5ed2e2e9eba958b0aef85dd4b8e2c08108d1c",
+      "format": "JSON"
+    },
+    {
+      "name": "mo_independent-2022-10-12T07:57:16.964122-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665579449",
+      "size": "13958",
+      "md5": "f9d8580f904f0183be5c56581f7ce99c",
+      "crc32": "f1a039cb",
+      "sha1": "3a7500625f3ad05b55711e631f85dbd9a51422a6",
+      "format": "JSON"
+    },
+    {
+      "name": "mo_independent-2022-10-12T07:57:16.964122-05:00.jpg",
+      "source": "original",
+      "mtime": "1665579444",
+      "size": "340002",
+      "md5": "34a2aa3e887fe3a6ba39752bffcfaf51",
+      "crc32": "e242f161",
+      "sha1": "ba816b07d4a5b200b0df022945b0b19fb3b42613",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mo_independent-2022-10-12T07:57:16.964122-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665579451",
+      "size": "1540",
+      "md5": "44483b76aa0d978bb48fb13d0d7274d2",
+      "crc32": "c4560ea8",
+      "sha1": "775af9c723bab1e485946f1831d7c457fb3211e6",
+      "format": "JSON"
+    },
+    {
+      "name": "mo_independent-2022-10-12T07:57:16.964122-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665579453",
+      "size": "10246",
+      "md5": "0954d941d69a534c4fcc668ab8b41a49",
+      "crc32": "105d843f",
+      "sha1": "21a1dbc38c886fd06fd5daf5ab11855eb8c2b8af",
+      "format": "JSON"
+    },
+    {
       "name": "mo_independent-2022_archive.torrent",
       "source": "metadata",
-      "btih": "881506480182dec0ab55f9db0a1885e43741e385",
-      "mtime": "1665538920",
-      "size": "241007",
-      "md5": "60d50029b2dcaa8f14d5a02b411965b7",
-      "crc32": "b33ace54",
-      "sha1": "b985190341786c445741cdd0e134e7b2f55471f6",
+      "btih": "c89754976ad5214a98456f5347250f3b1e138e1b",
+      "mtime": "1665579538",
+      "size": "242100",
+      "md5": "f06bd4942bbaa18e662ab449959c9baf",
+      "crc32": "0e3b5d7b",
+      "sha1": "c1d5b89d816014da14ccda9a156e2127c9a4a9d5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mo_independent-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0ffc0afe3d886ea7a211abe85b857bf5",
+      "md5": "8333ac3eb2874cdf24217d896c62cd2a",
       "summation": "md5"
     },
     {
       "name": "mo_independent-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665538765",
-      "size": "1404928",
-      "md5": "ea848051207c338c157d5198f9ea011b",
-      "crc32": "6e188329",
-      "sha1": "44ccd6f793f794742e8f24a4c9099c9568e97eec",
+      "mtime": "1665579480",
+      "size": "1409024",
+      "md5": "9895a4ec2309bb9858f78a74b0f07357",
+      "crc32": "233b86f9",
+      "sha1": "7292226c237d780a1372e94ec2b151244f6797f2",
       "format": "Metadata"
     },
     {
@@ -11518,9 +11569,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1111,
-  "item_last_updated": 1665538920,
-  "item_size": 75160983,
+  "files_count": 1116,
+  "item_last_updated": 1665579538,
+  "item_size": 75548444,
   "metadata": {
     "identifier": "mo_independent-2022",
     "collection": [
@@ -11537,10 +11588,21 @@
     "publicdate": "2022-07-04 21:56:43",
     "addeddate": "2022-07-04 21:56:43"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 2037978541,
+  "pending_tasks": true,
+  "server": "ia601405.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3437000331,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2103825048,
   "workable_servers": [
-    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

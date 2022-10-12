@@ -1,6 +1,6 @@
 {
-  "conflict": 1665539289,
-  "created": 1665539289,
+  "conflict": 1665579619,
+  "created": 1665579619,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/11/items/midnight_sun_ak-2022",
@@ -3776,6 +3776,7 @@
     }
   ],
   "files_count": 365,
+  "has_redrow": true,
   "item_last_updated": 1665539287,
   "item_size": 20687218,
   "metadata": {
@@ -3799,23 +3800,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3436389605,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3436396245,
-      "cmd": "bup.php",
+      "task_id": 3436998520,
+      "cmd": "archive.php",
       "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 2,
+      "color": "red",
+      "status": "error"
     }
   ],
-  "uniq": 338997891,
+  "uniq": 1421936163,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]

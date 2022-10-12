@@ -1,5 +1,6 @@
 {
-  "created": 1665539205,
+  "conflict": 1665579347,
+  "created": 1665579347,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/1/items/kark4news-2022",
@@ -3827,6 +3828,7 @@
     }
   ],
   "files_count": 370,
+  "has_redrow": true,
   "item_last_updated": 1665538681,
   "item_size": 29567003,
   "metadata": {
@@ -3845,10 +3847,21 @@
     "publicdate": "2022-09-12 12:31:14",
     "addeddate": "2022-09-12 12:31:14"
   },
-  "server": "ia801400.us.archive.org",
-  "uniq": 265464986,
+  "pending_tasks": true,
+  "server": "ia601400.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3436996143,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 2,
+      "color": "red",
+      "status": "error"
+    }
+  ],
+  "uniq": 31459208,
   "workable_servers": [
-    "ia801400.us.archive.org",
     "ia601400.us.archive.org"
   ]
 }

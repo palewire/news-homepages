@@ -1,5 +1,5 @@
 {
-  "created": 1665538496,
+  "created": 1665579238,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/3/items/journalstarnews-2022",
@@ -9164,31 +9164,93 @@
       "sha1": "063f9d203a2ce5ff936745ca09034c4df1f9da33"
     },
     {
+      "name": "journalstarnews-2022-10-12T07:52:27.338456-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665579156",
+      "size": "26781",
+      "md5": "39961f1b9a45f8ea0f14ce6b5b641c7b",
+      "crc32": "b4c2ed31",
+      "sha1": "566cc4d806ae9183c97d076b9fdb1c7b1c8cb9e7",
+      "format": "JSON"
+    },
+    {
+      "name": "journalstarnews-2022-10-12T07:52:27.338456-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665579157",
+      "size": "81259",
+      "md5": "595933957048e95ff1913146e4b14534",
+      "crc32": "ef4928cc",
+      "sha1": "74886c93b5a0d63bf003a698bc5d3e6881fd6642",
+      "format": "JSON"
+    },
+    {
+      "name": "journalstarnews-2022-10-12T07:52:27.338456-05:00.jpg",
+      "source": "original",
+      "mtime": "1665579154",
+      "size": "342191",
+      "md5": "e13bea53df377012e4ec5a6bbe835fdf",
+      "crc32": "5fb754c1",
+      "sha1": "70ba121ea1af7f2c0142068c50ade06cd506ceda",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "journalstarnews-2022-10-12T07:52:27.338456-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665579159",
+      "size": "1468",
+      "md5": "43df30cbd4703d430425bdf11af6e3aa",
+      "crc32": "f02850f1",
+      "sha1": "0f370b9ea9eb275e8172f959afd5410465091ec8",
+      "format": "JSON"
+    },
+    {
+      "name": "journalstarnews-2022-10-12T07:52:27.338456-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665579161",
+      "size": "45827",
+      "md5": "39ebb614e6ef73c524243793aa2dd435",
+      "crc32": "9d8fe1e3",
+      "sha1": "053ead3914a0e294f92538593ddffce44c26b550",
+      "format": "JSON"
+    },
+    {
+      "name": "journalstarnews-2022-10-12T07:52:27.338456-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "journalstarnews-2022-10-12T07:52:27.338456-05:00.jpg",
+      "mtime": "1665579223",
+      "size": "12722",
+      "md5": "a972f479440b35c557c88c193b1f8110",
+      "crc32": "58323a5f",
+      "sha1": "dba1bce03b88d5359572cbb08d97be6008d4f98b"
+    },
+    {
       "name": "journalstarnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1589e82c2faf089938016805a8c5ed3a2d398553",
-      "mtime": "1665538465",
-      "size": "194644",
-      "md5": "5720aeb1794d53a86b55a83e13f3b3eb",
-      "crc32": "44b8857d",
-      "sha1": "0f92f25fc8bd7729e482fbcad1c574fca647fe64",
+      "btih": "2f2dec91f6282855bce0ccad6026643b2d0e91bc",
+      "mtime": "1665579232",
+      "size": "195954",
+      "md5": "7006d009328040e59d80d18645562daf",
+      "crc32": "124a04ec",
+      "sha1": "1988823a85d700a83a020933842f52ee74f31952",
       "format": "Archive BitTorrent"
     },
     {
       "name": "journalstarnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "601cd57cfe0204e07292da7a15d33141",
+      "md5": "eb8c1380a00a81c9e6f80bcf32315126",
       "summation": "md5"
     },
     {
       "name": "journalstarnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665538362",
-      "size": "1150976",
-      "md5": "32c95d7516e78535f9990c6ae956e8d2",
-      "crc32": "2dde07b3",
-      "sha1": "01849d47802e5fc2c61085d3c194c836cc5e922a",
+      "mtime": "1665579166",
+      "size": "1155072",
+      "md5": "e0627b51cc0a92e55271127fb4259217",
+      "crc32": "11bbf701",
+      "sha1": "9c987748e504b273cd1d77a864643e7b40ce7869",
       "format": "Metadata"
     },
     {
@@ -9202,9 +9264,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 890,
-  "item_last_updated": 1665538465,
-  "item_size": 72449445,
+  "files_count": 896,
+  "item_last_updated": 1665579232,
+  "item_size": 72965099,
   "metadata": {
     "identifier": "journalstarnews-2022",
     "collection": [
@@ -9221,10 +9283,10 @@
     "publicdate": "2022-07-30 16:33:39",
     "addeddate": "2022-07-30 16:33:39"
   },
-  "server": "ia601401.us.archive.org",
-  "uniq": 1054013745,
+  "server": "ia801401.us.archive.org",
+  "uniq": 1769959752,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }
