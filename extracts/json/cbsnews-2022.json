@@ -1,5 +1,6 @@
 {
-  "created": 1665530157,
+  "conflict": 1665572810,
+  "created": 1665572810,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/33/items/cbsnews-2022",
@@ -38032,31 +38033,88 @@
       "sha1": "b7b20873f59ea9396e865989ec26c77b9d93c8c6"
     },
     {
+      "name": "cbsnews-2022-10-12T07:01:09.758255-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665572494",
+      "size": "31924",
+      "md5": "cd2fa48ff1cc34de313cabf07785a068",
+      "crc32": "8ccac966",
+      "sha1": "306b9a11f7dda672161c3009c8e319c194ebaa8a",
+      "format": "JSON"
+    },
+    {
+      "name": "cbsnews-2022-10-12T07:01:09.758255-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665572496",
+      "size": "88342",
+      "md5": "4e18903c279239dc77c6c78ece575428",
+      "crc32": "2878f474",
+      "sha1": "0e66ad11b5937bd49a908bd0935c25d49aee7530",
+      "format": "JSON"
+    },
+    {
+      "name": "cbsnews-2022-10-12T07:01:09.758255-04:00.jpg",
+      "source": "original",
+      "mtime": "1665572492",
+      "size": "215355",
+      "md5": "7f74c4ca66c1d1a5432b874c58e15d91",
+      "crc32": "f1df3280",
+      "sha1": "486bcbddaa789e4de830aa3dce5130a3bf72500c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbsnews-2022-10-12T07:01:09.758255-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665572499",
+      "size": "1459",
+      "md5": "e659b8540e1ef99e56d5033decddfeaa",
+      "crc32": "eb3012c3",
+      "sha1": "3cea65bcd9002cd26630dd9720e1d3a13c3694b0",
+      "format": "JSON"
+    },
+    {
+      "name": "cbsnews-2022-10-12T07:01:09.758255-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665572501",
+      "size": "16423",
+      "md5": "40010048665a2458925e61dcc74841ef",
+      "crc32": "7d76bad6",
+      "sha1": "2e0655b68651529c63fd660193d1bc7fc81d909b",
+      "format": "JSON"
+    },
+    {
+      "name": "cbsnews-2022-10-12T07:01:09.758255-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbsnews-2022-10-12T07:01:09.758255-04:00.jpg"
+    },
+    {
       "name": "cbsnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2f1df21d430e6c797c240dac896dd4de7e5a6925",
-      "mtime": "1665530103",
-      "size": "764426",
-      "md5": "8431e21a06200316e3e0a7055a72b636",
-      "crc32": "a990d740",
-      "sha1": "7dee08450e7138e142640408f4e8e0a0782ce224",
+      "btih": "4e7204da159770e0d4b516ab0c8a0534688af283",
+      "mtime": "1665572680",
+      "size": "765484",
+      "md5": "e227454ac0c82197dcba1441d50ec6a3",
+      "crc32": "393113e9",
+      "sha1": "c821351abcb808ff7484a3efbae444df9344e71b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cbsnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "01bbfd8fa4d82c6deffa7effb7feb1a9",
+      "md5": "8c568624c1fe2aacaa21158611d18949",
       "summation": "md5"
     },
     {
       "name": "cbsnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665529570",
-      "size": "4362240",
-      "md5": "6819907bdceb47e4eb27e0de583c1e89",
-      "crc32": "3c8afa6e",
-      "sha1": "3b84b1d79da99335035a971aec14e9062cdf6351",
+      "mtime": "1665572528",
+      "size": "4370432",
+      "md5": "0149265929d1bda4fadc5ea0dfa2426c",
+      "crc32": "1801abd3",
+      "sha1": "7ac8af5738c3eb48e17045f3866af31b3c0b0ce5",
       "format": "Metadata"
     },
     {
@@ -38070,9 +38128,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 3651,
-  "item_last_updated": 1665530103,
-  "item_size": 264381180,
+  "files_count": 3657,
+  "item_last_updated": 1665572680,
+  "item_size": 264743933,
   "metadata": {
     "identifier": "cbsnews-2022",
     "collection": [
@@ -38089,10 +38147,21 @@
     "publicdate": "2022-03-24 23:11:21",
     "addeddate": "2022-03-24 23:11:21"
   },
-  "server": "ia802500.us.archive.org",
-  "uniq": 1626838570,
+  "pending_tasks": true,
+  "server": "ia902500.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3436908989,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1468469935,
   "workable_servers": [
-    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }

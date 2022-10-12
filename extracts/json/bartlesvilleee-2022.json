@@ -1,5 +1,5 @@
 {
-  "created": 1665529870,
+  "created": 1665572381,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/11/items/bartlesvilleee-2022",
@@ -2618,31 +2618,93 @@
       "sha1": "611263a7b807dfffd95c9e0918cd2c9c1185a126"
     },
     {
+      "name": "bartlesvilleee-2022-10-12T05:58:28.299062-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665572315",
+      "size": "21886",
+      "md5": "736a6909ceac3da98aebb867c60162cb",
+      "crc32": "a0a407b0",
+      "sha1": "62945cd617b15237dc3fa4f6aa78ef8a91d75b1a",
+      "format": "JSON"
+    },
+    {
+      "name": "bartlesvilleee-2022-10-12T05:58:28.299062-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665572317",
+      "size": "30507",
+      "md5": "3c2a315c3b44bc370734e17e920a30d9",
+      "crc32": "721f6c5b",
+      "sha1": "5ee5a9b17f7a329a7b6dfa498fd749c0d19abd97",
+      "format": "JSON"
+    },
+    {
+      "name": "bartlesvilleee-2022-10-12T05:58:28.299062-05:00.jpg",
+      "source": "original",
+      "mtime": "1665572313",
+      "size": "270825",
+      "md5": "eb46f4592026e13952b298a132a7e40f",
+      "crc32": "0bbadfe0",
+      "sha1": "ba17799f2792de58b15be1299066c985bc384bae",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bartlesvilleee-2022-10-12T05:58:28.299062-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665572318",
+      "size": "1575",
+      "md5": "946db7e95214a63585f17c45a7b9f3bf",
+      "crc32": "b3d8a5d5",
+      "sha1": "8129bb4ff2b759d29aee89b291eae3761fc829b8",
+      "format": "JSON"
+    },
+    {
+      "name": "bartlesvilleee-2022-10-12T05:58:28.299062-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665572320",
+      "size": "78311",
+      "md5": "156538df27250c9761c012eaa266c927",
+      "crc32": "e5b3c1c4",
+      "sha1": "11cafc814ecf825a01f21a471a3425f470547318",
+      "format": "JSON"
+    },
+    {
+      "name": "bartlesvilleee-2022-10-12T05:58:28.299062-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bartlesvilleee-2022-10-12T05:58:28.299062-05:00.jpg",
+      "mtime": "1665572371",
+      "size": "9493",
+      "md5": "535768ddd2e0c33c1a8a35812cd10008",
+      "crc32": "99a30a90",
+      "sha1": "b59262fc7fbb4782658a2a0fb46feb8eb27444bd"
+    },
+    {
       "name": "bartlesvilleee-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f4400b630273714935d8e3a1704149d90cc80ab2",
-      "mtime": "1665529595",
-      "size": "56201",
-      "md5": "2482304592af915dab717a0ec63debf3",
-      "crc32": "fe3d0e9e",
-      "sha1": "a7d6b55ef8cd8155ce170937f0a5056e88f52582",
+      "btih": "5bc9ffe8f71636afbb1958d64e4fa729f7e9353c",
+      "mtime": "1665572374",
+      "size": "57504",
+      "md5": "76af791358cd48845be479ab116fd35a",
+      "crc32": "b9f40d4c",
+      "sha1": "7b62d7ceb36acacde459a2fbd6dcfe2c702b1ceb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bartlesvilleee-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8c0da738bf47073509ab647e19b6097f",
+      "md5": "f6452b18230cf9ec3b43c5d21aec4220",
       "summation": "md5"
     },
     {
       "name": "bartlesvilleee-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665529338",
-      "size": "348160",
-      "md5": "9b89ed02557627315a7fe67bf4287d88",
-      "crc32": "e05661e6",
-      "sha1": "c7af8592e5d0b2bdcc745eccaa8243534561c30a",
+      "mtime": "1665572325",
+      "size": "352256",
+      "md5": "3d06f1e09c76c4d1caddcc953e7ff920",
+      "crc32": "939ba461",
+      "sha1": "ab3cfd94801b34b83cce0b1e1a156670870f3854",
       "format": "Metadata"
     },
     {
@@ -2656,9 +2718,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 257,
-  "item_last_updated": 1665529595,
-  "item_size": 16532578,
+  "files_count": 263,
+  "item_last_updated": 1665572374,
+  "item_size": 16950574,
   "metadata": {
     "identifier": "bartlesvilleee-2022",
     "collection": [
@@ -2675,10 +2737,10 @@
     "publicdate": "2022-09-20 22:10:16",
     "addeddate": "2022-09-20 22:10:16"
   },
-  "server": "ia601505.us.archive.org",
-  "uniq": 557503842,
+  "server": "ia801505.us.archive.org",
+  "uniq": 1673968531,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia801505.us.archive.org",
+    "ia601505.us.archive.org"
   ]
 }
