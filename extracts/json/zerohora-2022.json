@@ -1,6 +1,5 @@
 {
-  "conflict": 1665576819,
-  "created": 1665576819,
+  "created": 1665601052,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/22/items/zerohora-2022",
@@ -12137,31 +12136,93 @@
       "sha1": "ecd3e96173d1d769d94fc6a8a2d0cf92b5694bc0"
     },
     {
+      "name": "zerohora-2022-10-12T15:53:49.597584-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665600840",
+      "size": "38965",
+      "md5": "7c74ec8f4215326d07c808ab087789a6",
+      "crc32": "fa2c9e8a",
+      "sha1": "d14210b9cf3ff57bad74df338be44c5d1b0ede67",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-12T15:53:49.597584-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665600842",
+      "size": "38658",
+      "md5": "6679db9993ac2683de37d8e3f552df97",
+      "crc32": "78cd5542",
+      "sha1": "9907c83c187d2758bc7909f81fe1772719344ded",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-12T15:53:49.597584-03:00.jpg",
+      "source": "original",
+      "mtime": "1665600838",
+      "size": "300213",
+      "md5": "c9b1d8ec30de74f4536898f8b4d6cfd1",
+      "crc32": "c426200e",
+      "sha1": "a70c6f9b4edf51040683b3f7bfaaf3d5656c9001",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zerohora-2022-10-12T15:53:49.597584-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665600844",
+      "size": "1540",
+      "md5": "d078b55963995b1dbd5822ea692382c7",
+      "crc32": "aaf05e95",
+      "sha1": "7f70c445a0e0d3314d4fd0658f1049a4a82e7a0d",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-12T15:53:49.597584-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665600846",
+      "size": "18769",
+      "md5": "668407435a84379b5304b3290276c63c",
+      "crc32": "aeb9c1eb",
+      "sha1": "8a985ee399c056fea4db5f559722a46f2566f554",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-12T15:53:49.597584-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "zerohora-2022-10-12T15:53:49.597584-03:00.jpg",
+      "mtime": "1665601001",
+      "size": "10717",
+      "md5": "dbaae22b03fb587fbb7479029c93c74b",
+      "crc32": "b3e6063b",
+      "sha1": "de1af70f407b14bdf8bfcd413718f1a8fa92ce81"
+    },
+    {
       "name": "zerohora-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9154adcd6b16f49985e5dc2bf2c3b7d0c0f3e2c7",
-      "mtime": "1665576812",
-      "size": "248711",
-      "md5": "6846f7c11c1f721c76d62a764735674f",
-      "crc32": "e5b2d32e",
-      "sha1": "48db569df7209740072bd71841ca15cd5e81e2c4",
+      "btih": "9f98c0391db391f4cf0d00a0745bd952168fcf0f",
+      "mtime": "1665601017",
+      "size": "249979",
+      "md5": "a6835c96778eb855a75c41744754fcb4",
+      "crc32": "8df0d298",
+      "sha1": "334322e0d847e3f7120d85e9b0b310327318d850",
       "format": "Archive BitTorrent"
     },
     {
       "name": "zerohora-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4535c13bcf90f7bfa1f238cf09e6bd8d",
+      "md5": "3baf0fa0e54fc921fcc0887537eb4963",
       "summation": "md5"
     },
     {
       "name": "zerohora-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665576604",
-      "size": "1503232",
-      "md5": "bb5723f0a4e3a2f91a61331d9d6388fa",
-      "crc32": "585d6e32",
-      "sha1": "422be7f59a02973cdae87e6943395effc9ad14ac",
+      "mtime": "1665600864",
+      "size": "1511424",
+      "md5": "e9bf6c15cbec4eb01a06f524e43eefe3",
+      "crc32": "2ddc2492",
+      "sha1": "693fa7f0967ccc4a9ec91196d7a1648b31414e46",
       "format": "Metadata"
     },
     {
@@ -12175,9 +12236,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1178,
-  "item_last_updated": 1665576812,
-  "item_size": 84086546,
+  "files_count": 1184,
+  "item_last_updated": 1665601017,
+  "item_size": 84504868,
   "metadata": {
     "identifier": "zerohora-2022",
     "collection": [
@@ -12194,29 +12255,10 @@
     "publicdate": "2022-08-04 04:56:36",
     "addeddate": "2022-08-04 04:56:36"
   },
-  "pending_tasks": true,
-  "server": "ia601400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3436967134,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3436968761,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2141524766,
+  "server": "ia801400.us.archive.org",
+  "uniq": 608340498,
   "workable_servers": [
+    "ia801400.us.archive.org",
     "ia601400.us.archive.org"
   ]
 }
