@@ -1,5 +1,5 @@
 {
-  "created": 1665510473,
+  "created": 1665556970,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/25/items/lp_lapresse-2022",
@@ -12150,31 +12150,83 @@
       "sha1": "749b3dd19165af804017bcada2e59bd663dee541"
     },
     {
+      "name": "lp_lapresse-2022-10-12T02:32:44.781163-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665556368",
+      "size": "92224",
+      "md5": "1124c30b2e63ea27e4742444c0589364",
+      "crc32": "798abcdb",
+      "sha1": "8e40dbaf71749fc89a63da54f382c248e42e4783",
+      "format": "JSON"
+    },
+    {
+      "name": "lp_lapresse-2022-10-12T02:32:44.781163-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665556369",
+      "size": "148424",
+      "md5": "201925a4a6668aac80960352697a4591",
+      "crc32": "26da7aa6",
+      "sha1": "c735d6759905c8c60d7f3d38bcfad11a20f4d09f",
+      "format": "JSON"
+    },
+    {
+      "name": "lp_lapresse-2022-10-12T02:32:44.781163-04:00.jpg",
+      "source": "original",
+      "mtime": "1665556366",
+      "size": "278402",
+      "md5": "05dddf0eb2dfa407f4c4392a77ff36d4",
+      "crc32": "90b02879",
+      "sha1": "fa54ba076a7fc93dcf407d31f06255f136fe7d99",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lp_lapresse-2022-10-12T02:32:44.781163-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665556371",
+      "size": "1468",
+      "md5": "e1427aa553991cd92dc14a7475e82681",
+      "crc32": "29e96915",
+      "sha1": "f60b15f7021ec279056cb60c725759ade45c0c07",
+      "format": "JSON"
+    },
+    {
+      "name": "lp_lapresse-2022-10-12T02:32:44.781163-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lp_lapresse-2022-10-12T02:32:44.781163-04:00.jpg",
+      "mtime": "1665556823",
+      "size": "10655",
+      "md5": "3bf1cf77f9e8b454d20205de81591bfb",
+      "crc32": "bc21e22a",
+      "sha1": "53b5515bc6db4384505cb46205332cfdc47caacb"
+    },
+    {
       "name": "lp_lapresse-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b423a551cd5f3bf8c5240fec96854014e7f9b59f",
-      "mtime": "1665510446",
-      "size": "252840",
-      "md5": "79a562b03aebfd7de641e311e242ae76",
-      "crc32": "54d174ce",
-      "sha1": "e9292fc2179d93f24c432de1d554100d19033cd7",
+      "btih": "0b9f18ddec4bf8f33cabe52209ee3ad03f7c8689",
+      "mtime": "1665556838",
+      "size": "253916",
+      "md5": "d734138468559fdf1234e7047f00b7ce",
+      "crc32": "cffdab37",
+      "sha1": "2e5ac2b16dc9bbf49547bb7efacd9a5883be0fe1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lp_lapresse-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a2501c5b7f7edfd8cde48618118f7ae4",
+      "md5": "46457477a3a08c1d427d1384c6317fba",
       "summation": "md5"
     },
     {
       "name": "lp_lapresse-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665510337",
-      "size": "1462272",
-      "md5": "128b11b7baf27eb467cd29d2c257064e",
-      "crc32": "a3c0d1e4",
-      "sha1": "d27da724aad34b309a9255003eab10e33fed5f0c",
+      "mtime": "1665556388",
+      "size": "1466368",
+      "md5": "b8806da1ee4db330d2222ebfe1dc9042",
+      "crc32": "03a85890",
+      "sha1": "b9092dec70f4f179808767175fbbfaa35ae488d1",
       "format": "Metadata"
     },
     {
@@ -12188,9 +12240,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1174,
-  "item_last_updated": 1665510446,
-  "item_size": 120328920,
+  "files_count": 1179,
+  "item_last_updated": 1665556838,
+  "item_size": 120865265,
   "metadata": {
     "identifier": "lp_lapresse-2022",
     "collection": [
@@ -12207,10 +12259,10 @@
     "publicdate": "2022-06-30 22:35:44",
     "addeddate": "2022-06-30 22:35:44"
   },
-  "server": "ia902500.us.archive.org",
-  "uniq": 1913674525,
+  "server": "ia802500.us.archive.org",
+  "uniq": 1941087333,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia802500.us.archive.org",
+    "ia902500.us.archive.org"
   ]
 }

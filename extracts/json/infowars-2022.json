@@ -1,5 +1,5 @@
 {
-  "created": 1665518195,
+  "created": 1665561714,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/34/items/infowars-2022",
@@ -12296,31 +12296,83 @@
       "sha1": "3f43ca47aba654c488e247385e785ca61491fe53"
     },
     {
+      "name": "infowars-2022-10-12T01:28:47.953534-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665556131",
+      "size": "13890",
+      "md5": "454611808ec5cc6ca5a6346f598f52da",
+      "crc32": "ac54c115",
+      "sha1": "936689b71d27bfd7746e52ca2e02740c3f80f721",
+      "format": "JSON"
+    },
+    {
+      "name": "infowars-2022-10-12T01:28:47.953534-05:00.jpg",
+      "source": "original",
+      "mtime": "1665556130",
+      "size": "289567",
+      "md5": "c72bf2d7c7e14985fc03659802880bce",
+      "crc32": "da844c2a",
+      "sha1": "24fb02195e9cddb90107cf3d0d5a3223639f78b4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "infowars-2022-10-12T01:28:47.953534-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665556133",
+      "size": "1477",
+      "md5": "d8c2914ad76db92bdde6591ac970acbc",
+      "crc32": "a5ba5028",
+      "sha1": "2de7396e5771cd2ef0e52bb61097af0b723e9bea",
+      "format": "JSON"
+    },
+    {
+      "name": "infowars-2022-10-12T01:28:47.953534-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665556135",
+      "size": "101",
+      "md5": "8f481f30fe1fcb449c3925ce9666d62a",
+      "crc32": "c7ae25a2",
+      "sha1": "55f9f5b6cfbd722bb2321c1b6b5b07b1b56b1fc3",
+      "format": "JSON"
+    },
+    {
+      "name": "infowars-2022-10-12T01:28:47.953534-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "infowars-2022-10-12T01:28:47.953534-05:00.jpg",
+      "mtime": "1665556299",
+      "size": "10213",
+      "md5": "5f57c63732382133573dcba1ec31ed00",
+      "crc32": "ec2180a3",
+      "sha1": "ec9822b2659df3779121b7c8227c14870277a585"
+    },
+    {
       "name": "infowars-2022_archive.torrent",
       "source": "metadata",
-      "btih": "eb23fbff9eb4cc46105be3519754ab7e1a66e992",
-      "mtime": "1665518166",
-      "size": "248258",
-      "md5": "896ff048d8ee0c5be4a5d939e0ac2e54",
-      "crc32": "d92dc17e",
-      "sha1": "c66eefc479145dcd895acefe33149c1e35595808",
+      "btih": "73d6a3ed2c98cb221e0e1b6ae6e4241da7807383",
+      "mtime": "1665556312",
+      "size": "249310",
+      "md5": "e061a992ba52f16d669e0231af7be287",
+      "crc32": "dfc2bfce",
+      "sha1": "7843ede12522e30d564ee62503a20152b6559471",
       "format": "Archive BitTorrent"
     },
     {
       "name": "infowars-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "57be47891b03df8af6ee0e27dc7cb83a",
+      "md5": "7b7a0a92f4cd8bc94ccdcf1782b9c90f",
       "summation": "md5"
     },
     {
       "name": "infowars-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665517947",
-      "size": "1429504",
-      "md5": "0a5339894a428c0632280ce29ee2d230",
-      "crc32": "2974e115",
-      "sha1": "f82eefac9651f89f4a6c9fbb48815f71cfc9ced8",
+      "mtime": "1665556140",
+      "size": "1433600",
+      "md5": "14504d1654d38042481c13534da8da41",
+      "crc32": "5effabf4",
+      "sha1": "2cb3c2dd9954c5ba24e5e96a75be1dc8afd03237",
       "format": "Metadata"
     },
     {
@@ -12334,9 +12386,13 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1183,
-  "item_last_updated": 1665518166,
-  "item_size": 86137643,
+  "files_count": 1188,
+  "infowars-2022": {
+    "url": "https://www.infowars.com/",
+    "job_id": "spn2-69d58ee67acbc5fad97188641710fd5c8720c451"
+  },
+  "item_last_updated": 1665556312,
+  "item_size": 86458039,
   "metadata": {
     "identifier": "infowars-2022",
     "collection": [
@@ -12353,10 +12409,10 @@
     "publicdate": "2022-07-17 15:03:18",
     "addeddate": "2022-07-17 15:03:18"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 1454134218,
+  "server": "ia601408.us.archive.org",
+  "uniq": 582603979,
   "workable_servers": [
-    "ia801408.us.archive.org",
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

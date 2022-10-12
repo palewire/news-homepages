@@ -1,5 +1,5 @@
 {
-  "created": 1665510174,
+  "created": 1665561702,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/4/items/ilisolezwe-2022",
@@ -6166,31 +6166,93 @@
       "sha1": "d2c1cdaf51057c910823e0459a3dc8abe5d11061"
     },
     {
+      "name": "ilisolezwe-2022-10-12T08:29:03.173883+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665556150",
+      "size": "23499",
+      "md5": "d6e72902d08b7c35c66895fc08e34be2",
+      "crc32": "2dc5d343",
+      "sha1": "399839068343f7dc44b905531f4eb285d1d35040",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-10-12T08:29:03.173883+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665556152",
+      "size": "20005",
+      "md5": "7c5010019776fb6f17aa9172c9a51c9d",
+      "crc32": "18a45e8b",
+      "sha1": "e36683351353d1da054dcbc3d821afbf653d51ca",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-10-12T08:29:03.173883+02:00.jpg",
+      "source": "original",
+      "mtime": "1665556148",
+      "size": "246667",
+      "md5": "4b17d97fa1fedf94d3f7134607d23a59",
+      "crc32": "bdf57cd7",
+      "sha1": "946327bcef209599c5f37d19dbfe7590b9c96d55",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ilisolezwe-2022-10-12T08:29:03.173883+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665556153",
+      "size": "1576",
+      "md5": "02efa72043902fd4a45db045d26917bf",
+      "crc32": "b7ec3019",
+      "sha1": "ed042543b82c823622e1e0a30c98316c5b6968a6",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-10-12T08:29:03.173883+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665556155",
+      "size": "216",
+      "md5": "2662e5ad20287b5ab83d7e456021b696",
+      "crc32": "ce10eeac",
+      "sha1": "52a80a8479fb5afa3f281c44780aa8c9d3e38f10",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-10-12T08:29:03.173883+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ilisolezwe-2022-10-12T08:29:03.173883+02:00.jpg",
+      "mtime": "1665556247",
+      "size": "10089",
+      "md5": "a6b677533282ba0514a8c1ef7fded42e",
+      "crc32": "d0220fc7",
+      "sha1": "7f659fa89ae47ad77cd0ce5a9c82c790bb8e5ab4"
+    },
+    {
       "name": "ilisolezwe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0cbfa30be9ab70518166f981079c7bc2ba348b3a",
-      "mtime": "1665510149",
-      "size": "127787",
-      "md5": "68eb67a17f27890830ff273569542fba",
-      "crc32": "ac3feb55",
-      "sha1": "05770d5d50c686ae2b04fa6b51c4180f76a67436",
+      "btih": "3c628181d9b1b5cf4cee4656d0d84eb6f52f44ce",
+      "mtime": "1665556263",
+      "size": "129065",
+      "md5": "a9a4029a92ca9acec2dadf33a9f544d6",
+      "crc32": "eaa75b01",
+      "sha1": "f881ca0699a5c5b448435f8134ab7f2932caa452",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ilisolezwe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "071b43012d414935eec4aed675f5068e",
+      "md5": "d1f400017fafb3124906359c4d5f7166",
       "summation": "md5"
     },
     {
       "name": "ilisolezwe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665510072",
-      "size": "774144",
-      "md5": "6ba08a9494da2360ddcfd3b02447f695",
-      "crc32": "369326cb",
-      "sha1": "ac8c5f7567177248118bc8b62b9c9dc12ab631cf",
+      "mtime": "1665556160",
+      "size": "782336",
+      "md5": "9c56f7f98a7d530a26d435ade6476c66",
+      "crc32": "1854e361",
+      "sha1": "60d15b3b6f5e50913a2182638827a7f4e4baee13",
       "format": "Metadata"
     },
     {
@@ -6204,9 +6266,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 600,
-  "item_last_updated": 1665510149,
-  "item_size": 33618499,
+  "files_count": 606,
+  "ilisolezwe-2022": {
+    "url": "https://www.isolezwelesixhosa.co.za/",
+    "job_id": "spn2-1c73ff9ce821c25e714088969a4358b9ad9ebc0c",
+    "resources": [],
+    "status": "error",
+    "message": "Job failed.",
+    "status_ext": "error:job-failed"
+  },
+  "item_last_updated": 1665556263,
+  "item_size": 33930021,
   "metadata": {
     "identifier": "ilisolezwe-2022",
     "collection": [
@@ -6223,10 +6293,10 @@
     "publicdate": "2022-08-22 22:03:21",
     "addeddate": "2022-08-22 22:03:21"
   },
-  "server": "ia601509.us.archive.org",
-  "uniq": 1351831711,
+  "server": "ia801509.us.archive.org",
+  "uniq": 400459613,
   "workable_servers": [
-    "ia601509.us.archive.org",
-    "ia801509.us.archive.org"
+    "ia801509.us.archive.org",
+    "ia601509.us.archive.org"
   ]
 }

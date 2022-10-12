@@ -1,5 +1,5 @@
 {
-  "created": 1665510518,
+  "created": 1665561848,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/34/items/lobs-2022",
@@ -17230,31 +17230,93 @@
       "sha1": "95bcf2f1734fc1467e4170c62bd66d4443be5e21"
     },
     {
+      "name": "lobs-2022-10-12T08:32:29.381758+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665556362",
+      "size": "101354",
+      "md5": "d64609eb52d00603cc9e1e050e45e041",
+      "crc32": "285e6eb7",
+      "sha1": "490045f611a43a0b25d05caee64586f37dedf7bf",
+      "format": "JSON"
+    },
+    {
+      "name": "lobs-2022-10-12T08:32:29.381758+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665556364",
+      "size": "87633",
+      "md5": "759c8b90b0e3d9ec42a864aa04671c27",
+      "crc32": "468065d8",
+      "sha1": "9d13d7845afb42631d5b5d96a613edb45fe5623a",
+      "format": "JSON"
+    },
+    {
+      "name": "lobs-2022-10-12T08:32:29.381758+02:00.jpg",
+      "source": "original",
+      "mtime": "1665556360",
+      "size": "231571",
+      "md5": "6316258a661e01c4a13f49b38dc95f8f",
+      "crc32": "d0f5a96c",
+      "sha1": "4e12f7f4d5e24984e2922fe1d268ab818e2c58ce",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lobs-2022-10-12T08:32:29.381758+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665556366",
+      "size": "1477",
+      "md5": "648feb839d50e41b25898bf5369e1541",
+      "crc32": "46353bf2",
+      "sha1": "115570bc590814fa2051c7c39f071f63ec0534cd",
+      "format": "JSON"
+    },
+    {
+      "name": "lobs-2022-10-12T08:32:29.381758+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665556368",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lobs-2022-10-12T08:32:29.381758+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lobs-2022-10-12T08:32:29.381758+02:00.jpg",
+      "mtime": "1665556569",
+      "size": "8767",
+      "md5": "66bba83c2fa8caf106ea04e913b2d51b",
+      "crc32": "1496a6d9",
+      "sha1": "e4bd77ae629bbff9d6a8381513ae171bd0822e81"
+    },
+    {
       "name": "lobs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "04bd3f934eab24f82c4e81c5964a76206443abab",
-      "mtime": "1665510495",
-      "size": "344776",
-      "md5": "ede6861cce9e677a2561b4933559cebe",
-      "crc32": "768c62e0",
-      "sha1": "5525f42b5f89d058978dec2b5fcb849468f6669e",
+      "btih": "3c669d74d31ac16216ef3573cfb91d068b585827",
+      "mtime": "1665556656",
+      "size": "346018",
+      "md5": "7a792577797094d910bde5ecbc6fe80b",
+      "crc32": "759e68fd",
+      "sha1": "9e432f554eff1a12ea1a8c5d0449221719030228",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lobs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "be77ee92df491909ac7971831c85587d",
+      "md5": "07640b74800625b55407afde31461c9b",
       "summation": "md5"
     },
     {
       "name": "lobs-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665510311",
-      "size": "2060288",
-      "md5": "178ee464a69c33ab452910671f97d82c",
-      "crc32": "66b9db79",
-      "sha1": "675dfd7f75fb20a52c30ad6182ce5276eb118841",
+      "mtime": "1665556381",
+      "size": "2068480",
+      "md5": "38df88b308e6a7197d005fae97c84510",
+      "crc32": "5b7affb8",
+      "sha1": "2d6ecc92fe989b6beb7ed38df1f8fd7933ac08b8",
       "format": "Metadata"
     },
     {
@@ -17268,9 +17330,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1665,
-  "item_last_updated": 1665510495,
-  "item_size": 137558400,
+  "files_count": 1671,
+  "item_last_updated": 1665556656,
+  "item_size": 137998838,
+  "lobs-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "lobs-2022",
     "collection": [
@@ -17287,10 +17354,10 @@
     "publicdate": "2022-06-30 22:26:27",
     "addeddate": "2022-06-30 22:26:27"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 997638964,
+  "server": "ia601500.us.archive.org",
+  "uniq": 1135536239,
   "workable_servers": [
-    "ia801500.us.archive.org",
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }

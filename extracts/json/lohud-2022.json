@@ -1,5 +1,5 @@
 {
-  "created": 1665515705,
+  "created": 1665561854,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/13/items/lohud-2022",
@@ -2682,31 +2682,93 @@
       "sha1": "edc1a1eb3fea1d706aff1f41a10f8234fdbad168"
     },
     {
+      "name": "lohud-2022-10-12T02:33:07.336532-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665556393",
+      "size": "23581",
+      "md5": "9ba2044b4efdce9bf573fd1e9b7dcbe5",
+      "crc32": "ba928d6a",
+      "sha1": "ec6a75d536933258848fb9298111baa94b7057ad",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-12T02:33:07.336532-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665556394",
+      "size": "32597",
+      "md5": "961d22bcb4af1bdaafef9f220fc89e32",
+      "crc32": "55ee15d5",
+      "sha1": "33d0391c145ee691909acee00910cfcb0dc6354d",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-12T02:33:07.336532-04:00.jpg",
+      "source": "original",
+      "mtime": "1665556391",
+      "size": "285641",
+      "md5": "70e62d91169ad0425c5175e2ef6ababa",
+      "crc32": "a53dde0f",
+      "sha1": "651da03c84b8618226fe4a0cbbfca6dedf546798",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lohud-2022-10-12T02:33:07.336532-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665556395",
+      "size": "1450",
+      "md5": "33b2b7532b88b67d6636a207fde99410",
+      "crc32": "65604b14",
+      "sha1": "d4b5131cbbf1bd2c1d83a2b4a85fafbd7f1980ff",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-12T02:33:07.336532-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665556397",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-12T02:33:07.336532-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lohud-2022-10-12T02:33:07.336532-04:00.jpg",
+      "mtime": "1665556566",
+      "size": "9444",
+      "md5": "7685b446c7060ff5f22f50d0261137de",
+      "crc32": "3808f3bd",
+      "sha1": "107e0ca9859d88058d7fc46e571fab73366117c4"
+    },
+    {
       "name": "lohud-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e5bca102eba2333bd5fbcb34067b75979f66a3b8",
-      "mtime": "1665510341",
-      "size": "55120",
-      "md5": "174a7f84ea2c8b2297ba87942fcfb8d4",
-      "crc32": "283f899b",
-      "sha1": "7920760fd4a19cbffe39c8f39f06c2a2a0a3201c",
+      "btih": "839b72517d8ea5de28ec8f9909faa63a1f2dd7f3",
+      "mtime": "1665556572",
+      "size": "56347",
+      "md5": "c39343ed94adef8e10aae812fb8882f9",
+      "crc32": "17b22148",
+      "sha1": "df74760a3a1ff9405788c81c0074e40557c3b386",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lohud-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "235ab00e1c40918cdb1a1a815c942499",
+      "md5": "66a238c19ea98f45ea51965329db677d",
       "summation": "md5"
     },
     {
       "name": "lohud-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665510293",
-      "size": "348160",
-      "md5": "61b076c7369abf5e2d6ef89a0474a008",
-      "crc32": "a819872f",
-      "sha1": "0bbaa433e2851c51a600d59db899f3664cccec9f",
+      "mtime": "1665556403",
+      "size": "356352",
+      "md5": "beb9b68a7ee5fb081296bdc885dd503e",
+      "crc32": "a446973b",
+      "sha1": "f8d66269521fc757b8df5147760fad0a26f75692",
       "format": "Metadata"
     },
     {
@@ -2720,16 +2782,13 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 263,
-  "item_last_updated": 1665510341,
-  "item_size": 17986414,
+  "files_count": 269,
+  "item_last_updated": 1665556572,
+  "item_size": 18348748,
   "lohud-2022": {
-    "url": "https://www.lohud.com/",
-    "job_id": "spn2-02d1cf6797298b808f06f9eba21052340a0d2291",
-    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 898.",
-    "resources": [],
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
-    "status_ext": "WorkerLostError"
+    "status_ext": "error:user-session-limit"
   },
   "metadata": {
     "identifier": "lohud-2022",
@@ -2748,7 +2807,7 @@
     "addeddate": "2022-09-20 17:34:21"
   },
   "server": "ia601402.us.archive.org",
-  "uniq": 1574224714,
+  "uniq": 714111991,
   "workable_servers": [
     "ia601402.us.archive.org",
     "ia801402.us.archive.org"

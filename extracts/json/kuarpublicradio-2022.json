@@ -1,5 +1,5 @@
 {
-  "created": 1665510340,
+  "created": 1665556577,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/22/items/kuarpublicradio-2022",
@@ -3778,31 +3778,83 @@
       "sha1": "2b4eaa67a2fa31f313ed3dedf3a3d1bb86c5ca70"
     },
     {
+      "name": "kuarpublicradio-2022-10-12T01:32:49.248228-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665556372",
+      "size": "14031",
+      "md5": "b90038a00a7dabca1fa3a47f89fbfd85",
+      "crc32": "aca24235",
+      "sha1": "f380545cd60083886d40fc26941b305579e12fd7",
+      "format": "JSON"
+    },
+    {
+      "name": "kuarpublicradio-2022-10-12T01:32:49.248228-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665556374",
+      "size": "31564",
+      "md5": "c2c4beccf1ca5b3422ac00dd655d2777",
+      "crc32": "d391123e",
+      "sha1": "ee0d406573c481b506c1f35ebb877e552d523375",
+      "format": "JSON"
+    },
+    {
+      "name": "kuarpublicradio-2022-10-12T01:32:49.248228-05:00.jpg",
+      "source": "original",
+      "mtime": "1665556370",
+      "size": "270576",
+      "md5": "7089dbe6280eaed03f4f4f66d44f4889",
+      "crc32": "2c7d5679",
+      "sha1": "f5dcd416b753d399a3609fb51f99cf595758f400",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kuarpublicradio-2022-10-12T01:32:49.248228-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665556375",
+      "size": "1521",
+      "md5": "53e2373f5c7653eff52c90ebc5920c41",
+      "crc32": "3000b67f",
+      "sha1": "f3424ec35c4230cdfc852efb1742a0ddf3e5a8c9",
+      "format": "JSON"
+    },
+    {
+      "name": "kuarpublicradio-2022-10-12T01:32:49.248228-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kuarpublicradio-2022-10-12T01:32:49.248228-05:00.jpg",
+      "mtime": "1665556521",
+      "size": "10133",
+      "md5": "e91216de58ad56439e72e0be79b68cc3",
+      "crc32": "a45e6f9a",
+      "sha1": "60281920e203368ceb575156b46d3cc19efc0a1d"
+    },
+    {
       "name": "kuarpublicradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2bf6f7493e157e1602f13bc712e83175c7396cf9",
-      "mtime": "1665510322",
-      "size": "80678",
-      "md5": "c8ff61ea377b208bbbf4bdab0708ee9e",
-      "crc32": "e503c8ec",
-      "sha1": "66f37d064ee6264337d39b53561040b3cae53622",
+      "btih": "79f30b77b6a2176d08f8a52a3ad03232e6e78111",
+      "mtime": "1665556528",
+      "size": "81773",
+      "md5": "ef7e1583707a989311735d11ccc66743",
+      "crc32": "e8659301",
+      "sha1": "f7526db7c8349d489c00e8bc207666f2c8f6b951",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kuarpublicradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f913838e38d698cb77aa8872cafe05a4",
+      "md5": "3a96d8059f117ab2db100292265adab7",
       "summation": "md5"
     },
     {
       "name": "kuarpublicradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665510224",
-      "size": "487424",
-      "md5": "81e4d8c6417d09daa465ddc69e2606c9",
-      "crc32": "502aa758",
-      "sha1": "3c2f8ce6bc021373672457065a40adca3779ad0b",
+      "mtime": "1665556381",
+      "size": "495616",
+      "md5": "27af2ad25af3cf10db12123c8bad2b1e",
+      "crc32": "46297f16",
+      "sha1": "963a9ab8c4270e4023507bcf6f9a51832b812a75",
       "format": "Metadata"
     },
     {
@@ -3816,9 +3868,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 369,
-  "item_last_updated": 1665510322,
-  "item_size": 21265789,
+  "files_count": 374,
+  "item_last_updated": 1665556528,
+  "item_size": 21602901,
   "metadata": {
     "identifier": "kuarpublicradio-2022",
     "collection": [
@@ -3836,7 +3888,7 @@
     "addeddate": "2022-09-12 04:03:39"
   },
   "server": "ia801407.us.archive.org",
-  "uniq": 1478870936,
+  "uniq": 1736700718,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"

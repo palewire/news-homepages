@@ -1,5 +1,5 @@
 {
-  "created": 1665542264,
+  "created": 1665561741,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/17/items/jijicom-2022",
@@ -16130,31 +16130,93 @@
       "sha1": "307aef461b2596c006d4d3cd2d8cdd557d9e0951"
     },
     {
+      "name": "jijicom-2022-10-12T15:29:13.570911+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665556158",
+      "size": "48547",
+      "md5": "86aebe5a37959a7bab42875a15232855",
+      "crc32": "3f205485",
+      "sha1": "ba945c5ddf8007e039d5ad25f67d6a9d822d5625",
+      "format": "JSON"
+    },
+    {
+      "name": "jijicom-2022-10-12T15:29:13.570911+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665556160",
+      "size": "46957",
+      "md5": "5f7c2fbe1fdb0c721f850e371fab385d",
+      "crc32": "2274fa49",
+      "sha1": "1ed2e0eb5a7326f10d73fd1377598807a8b34cfc",
+      "format": "JSON"
+    },
+    {
+      "name": "jijicom-2022-10-12T15:29:13.570911+09:00.jpg",
+      "source": "original",
+      "mtime": "1665556155",
+      "size": "379468",
+      "md5": "83def6f6816e17e22b75d552105e3291",
+      "crc32": "b4f1593e",
+      "sha1": "4cb8002dbab55ebfadef468a6b14f18800425e3e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jijicom-2022-10-12T15:29:13.570911+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665556162",
+      "size": "1468",
+      "md5": "a7a33bc21ce001d909b91d574eeeeb34",
+      "crc32": "b96bb88a",
+      "sha1": "bace997d25103e1d434c097844d269ec0c401bc9",
+      "format": "JSON"
+    },
+    {
+      "name": "jijicom-2022-10-12T15:29:13.570911+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1665556163",
+      "size": "201",
+      "md5": "ea5a55115c4e2139f0686eff13e85e89",
+      "crc32": "4961618a",
+      "sha1": "97412d1a39852000b2db0cb7152fc1e125b695b1",
+      "format": "JSON"
+    },
+    {
+      "name": "jijicom-2022-10-12T15:29:13.570911+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jijicom-2022-10-12T15:29:13.570911+09:00.jpg",
+      "mtime": "1665556343",
+      "size": "10975",
+      "md5": "2ff781816069715381bf17cb0808e729",
+      "crc32": "1a3b49b2",
+      "sha1": "42df58d059ebe7e072abc747ff54eb00a9b1625a"
+    },
+    {
       "name": "jijicom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6f17701d3a40d72660359ff297017c35fba19323",
-      "mtime": "1665542225",
-      "size": "328160",
-      "md5": "5d18a9cada880bcc75c285a20cb95164",
-      "crc32": "798758cb",
-      "sha1": "2f30feab82244cf977a177572780c4fad0bb52ee",
+      "btih": "49b60e067f6dc3004740740a98d6e593195e9bce",
+      "mtime": "1665556373",
+      "size": "329420",
+      "md5": "4b4dd32bd567d0fcd8c9a940a179160f",
+      "crc32": "80e3fbd1",
+      "sha1": "2a3030bea4ecf755fa5ccb96513cc0bc4f72d733",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jijicom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "09aa2e7677071965d85d331019645520",
+      "md5": "a29268e419e980d3c68ef75eb6ae8448",
       "summation": "md5"
     },
     {
       "name": "jijicom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665541895",
-      "size": "1945600",
-      "md5": "0c826fd59c51fbdb427fa8a923abc65a",
-      "crc32": "134c78db",
-      "sha1": "f2017bdd53de629c743060cd1b54548ce34e29ee",
+      "mtime": "1665556170",
+      "size": "1953792",
+      "md5": "ba2df3a360744f6724ca16ae932620f9",
+      "crc32": "b718ef13",
+      "sha1": "bf14ee8c5341e68aee0b1e403db41710dbfb67fc",
       "format": "Metadata"
     },
     {
@@ -16168,9 +16230,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1560,
-  "item_last_updated": 1665542225,
-  "item_size": 132178520,
+  "files_count": 1566,
+  "item_last_updated": 1665556373,
+  "item_size": 132675588,
+  "jijicom-2022": {
+    "url": "https://www.jiji.com/",
+    "job_id": "spn2-ee4d4b8d8610cf91cba48fd902bb1bdf00d76efc",
+    "resources": [],
+    "status": "error",
+    "message": "Job failed.",
+    "status_ext": "error:job-failed"
+  },
   "metadata": {
     "identifier": "jijicom-2022",
     "collection": [
@@ -16188,7 +16258,7 @@
     "addeddate": "2022-07-09 02:39:28"
   },
   "server": "ia601502.us.archive.org",
-  "uniq": 1050955547,
+  "uniq": 1216202909,
   "workable_servers": [
     "ia601502.us.archive.org",
     "ia801502.us.archive.org"

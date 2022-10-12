@@ -1,5 +1,5 @@
 {
-  "created": 1665510258,
+  "created": 1665561692,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/20/items/highcountrynews-2022",
@@ -10728,31 +10728,93 @@
       "sha1": "63fc3be9789672e0edddf46f066962211a066d13"
     },
     {
+      "name": "highcountrynews-2022-10-12T00:29:15.131060-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665556158",
+      "size": "44690",
+      "md5": "6682be4833390b4494692dbb4c268839",
+      "crc32": "3256da5e",
+      "sha1": "7af5fba2b7bb3c16b485edec1c648736877d5003",
+      "format": "JSON"
+    },
+    {
+      "name": "highcountrynews-2022-10-12T00:29:15.131060-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665556160",
+      "size": "30149",
+      "md5": "e9298e778ded65823a1bf8411d95d823",
+      "crc32": "c328e06c",
+      "sha1": "eea97a6c6c39cd425c2362cba2ac7bf185070cbb",
+      "format": "JSON"
+    },
+    {
+      "name": "highcountrynews-2022-10-12T00:29:15.131060-06:00.jpg",
+      "source": "original",
+      "mtime": "1665556156",
+      "size": "300765",
+      "md5": "a2eff505e448b9bee32026fe28c59191",
+      "crc32": "8018e7f4",
+      "sha1": "16a80e88345c80b97edeab8d361fdad1197841b4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "highcountrynews-2022-10-12T00:29:15.131060-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665556161",
+      "size": "1431",
+      "md5": "a477306ad53ab39a44c210d235cf8ac2",
+      "crc32": "3de63770",
+      "sha1": "10cd6b76c4dab830f546f44ff10724608946f357",
+      "format": "JSON"
+    },
+    {
+      "name": "highcountrynews-2022-10-12T00:29:15.131060-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1665556163",
+      "size": "200",
+      "md5": "a875bc0ac9c17433ae79ad0f7652a574",
+      "crc32": "dc4dac56",
+      "sha1": "5070b27d32dc783f271601d208078dd9e76a563c",
+      "format": "JSON"
+    },
+    {
+      "name": "highcountrynews-2022-10-12T00:29:15.131060-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "highcountrynews-2022-10-12T00:29:15.131060-06:00.jpg",
+      "mtime": "1665556522",
+      "size": "10494",
+      "md5": "d7d72e4c73bd839822bcb2353ff49db9",
+      "crc32": "f6e919d0",
+      "sha1": "63fc3be9789672e0edddf46f066962211a066d13"
+    },
+    {
       "name": "highcountrynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b8fe0909230b63d295d9b41832b72e0cfd6622d0",
-      "mtime": "1665510203",
-      "size": "227067",
-      "md5": "4daf6a5b9deb82cf34dea2b580a22ebc",
-      "crc32": "955657e5",
-      "sha1": "0c9de4966795f77f3fe3536880587ab0783bc63b",
+      "btih": "ee1542d1591262dc87dda1abe31a7a685ae57d1f",
+      "mtime": "1665556538",
+      "size": "228375",
+      "md5": "2f26555206fe358ac37ac0810a109393",
+      "crc32": "75303f63",
+      "sha1": "55d960f44f28bc23c7d36b4199a030a54de0465f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "highcountrynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "98e45cbc1cd4cd5bb6a31065b2d6bebe",
+      "md5": "f3744f364846764a1b25448c3b3b1419",
       "summation": "md5"
     },
     {
       "name": "highcountrynews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665510085",
-      "size": "1318912",
-      "md5": "f6721d7241b6ac89879a574d0986ef57",
-      "crc32": "c9668f0a",
-      "sha1": "dd82dd3396c662e3ecd9c01eaaa80b6e9e9346ee",
+      "mtime": "1665556173",
+      "size": "1327104",
+      "md5": "32f2843050aca1e398b02614c2c2a358",
+      "crc32": "c7a9d02a",
+      "sha1": "6c437b7fa7c6b6ea369c04cc61d28d1c50e33f39",
       "format": "Metadata"
     },
     {
@@ -10766,9 +10828,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1039,
-  "item_last_updated": 1665510203,
-  "item_size": 83984949,
+  "files_count": 1045,
+  "highcountrynews-2022": {
+    "url": "https://www.hcn.org/",
+    "job_id": "spn2-23e48278183fb7e66faa3b9925906f974f0f07dd",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "message": "Job failed.",
+    "resources": []
+  },
+  "item_last_updated": 1665556538,
+  "item_size": 84382178,
   "metadata": {
     "identifier": "highcountrynews-2022",
     "collection": [
@@ -10785,10 +10855,10 @@
     "publicdate": "2022-07-09 03:58:59",
     "addeddate": "2022-07-09 03:58:59"
   },
-  "server": "ia801502.us.archive.org",
-  "uniq": 844462691,
+  "server": "ia601502.us.archive.org",
+  "uniq": 1815256116,
   "workable_servers": [
-    "ia801502.us.archive.org",
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }
