@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 283 screenshots with the Internet Archive.
+The archiving routine has saved 284 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 283 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-10-12T23:11:00.674223+09:00.jpg">
+  <img src="https://archive.org/download/sankei_news-2022/sankei_news-2022-10-12T23:11:00.674223+09:00.jpg"
+     alt="Sankei Shimbun at 2022-10-12 23:11:12+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-10-12T23:11:00.674223+09:00.jpg">October 12 at 11:11 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-10-12T11:39:46.551145+09:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-10-09T11:25:23.479602+09:00.jpg">October 9 at 11:25 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-10-08T23:17:50.614013+09:00.jpg">
-  <img src="https://archive.org/download/sankei_news-2022/sankei_news-2022-10-08T23:17:50.614013+09:00.jpg"
-     alt="Sankei Shimbun at 2022-10-08 23:17:52+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sankei_news-2022/sankei_news-2022-10-08T23:17:50.614013+09:00.jpg">October 8 at 11:17 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 239 hyperlink lists with the Internet Archive.
+The archiving routine has saved 240 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 12 at 11:11 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-10-12T23:11:00.674223+09:00.hyperlinks.json) |
 | [October 12 at 11:39 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-10-12T11:39:46.551145+09:00.hyperlinks.json) |
 | [October 12 at 11:32 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-10-12T11:31:33.721058+09:00.hyperlinks.json) |
 | [October 12 at 12:10 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-10-12T00:09:58.962986+09:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 10 at 11:39 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-10-10T11:39:22.165482+09:00.hyperlinks.json) |
 | [October 10 at 11:27 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-10-10T11:27:52.607630+09:00.hyperlinks.json) |
 | [October 9 at 11:03 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-10-09T23:03:43.015181+09:00.hyperlinks.json) |
-| [October 9 at 11:34 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-10-09T11:34:03.018181+09:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 244 accessibility trees with the Internet Archive.
+The archiving routine has saved 245 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 12 at 11:11 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-10-12T23:11:00.674223+09:00.accessibility.json) |
 | [October 12 at 11:39 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-10-12T11:39:46.551145+09:00.accessibility.json) |
 | [October 12 at 11:31 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-10-12T11:31:33.721058+09:00.accessibility.json) |
 | [October 12 at 12:10 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-10-12T00:09:58.962986+09:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 11:39 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-10-10T11:39:22.165482+09:00.accessibility.json) |
 | [October 10 at 11:27 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-10-10T11:27:52.607630+09:00.accessibility.json) |
 | [October 9 at 11:03 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-10-09T23:03:43.015181+09:00.accessibility.json) |
-| [October 9 at 11:34 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-10-09T11:34:03.018181+09:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 238 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 239 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 12 at 11:11 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-10-12T23:11:00.674223+09:00.lighthouse.json) |
 | [October 12 at 11:39 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-10-12T11:39:46.551145+09:00.lighthouse.json) |
 | [October 12 at 11:32 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-10-12T11:31:33.721058+09:00.lighthouse.json) |
 | [October 12 at 12:10 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-10-12T00:09:58.962986+09:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 11:39 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-10-10T11:39:22.165482+09:00.lighthouse.json) |
 | [October 10 at 11:27 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-10-10T11:27:52.607630+09:00.lighthouse.json) |
 | [October 9 at 11:03 PM](https://archive.org/download/sankei_news-2022/sankei_news-2022-10-09T23:03:43.015181+09:00.lighthouse.json) |
-| [October 9 at 11:34 AM](https://archive.org/download/sankei_news-2022/sankei_news-2022-10-09T11:34:03.018181+09:00.lighthouse.json) |
 
 
 

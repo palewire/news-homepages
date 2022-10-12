@@ -437,7 +437,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 369 hyperlink lists with the Internet Archive.
+The archiving routine has saved 370 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 12 at 10:09 AM](https://archive.org/download/oann-2022/oann-2022-10-12T10:08:45.953161-04:00.hyperlinks.json) |
 | [October 11 at 10:37 PM](https://archive.org/download/oann-2022/oann-2022-10-11T22:36:49.500905-04:00.hyperlinks.json) |
 | [October 11 at 3:52 PM](https://archive.org/download/oann-2022/oann-2022-10-11T15:52:10.869321-04:00.hyperlinks.json) |
 | [October 11 at 11:05 AM](https://archive.org/download/oann-2022/oann-2022-10-11T11:05:23.172351-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 9 at 10:36 PM](https://archive.org/download/oann-2022/oann-2022-10-09T22:36:26.096396-04:00.hyperlinks.json) |
 | [October 9 at 4:09 PM](https://archive.org/download/oann-2022/oann-2022-10-09T16:09:08.361658-04:00.hyperlinks.json) |
 | [October 9 at 10:01 AM](https://archive.org/download/oann-2022/oann-2022-10-09T10:01:18.152857-04:00.hyperlinks.json) |
-| [October 8 at 10:32 PM](https://archive.org/download/oann-2022/oann-2022-10-08T22:31:42.997946-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 351 accessibility trees with the Internet Archive.
+The archiving routine has saved 352 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 12 at 10:09 AM](https://archive.org/download/oann-2022/oann-2022-10-12T10:08:45.953161-04:00.accessibility.json) |
 | [October 11 at 10:37 PM](https://archive.org/download/oann-2022/oann-2022-10-11T22:36:49.500905-04:00.accessibility.json) |
 | [October 11 at 3:52 PM](https://archive.org/download/oann-2022/oann-2022-10-11T15:52:10.869321-04:00.accessibility.json) |
 | [October 11 at 11:05 AM](https://archive.org/download/oann-2022/oann-2022-10-11T11:05:23.172351-04:00.accessibility.json) |
@@ -642,7 +643,6 @@ Here are the 10 most recent accessibility trees.
 | [October 9 at 10:36 PM](https://archive.org/download/oann-2022/oann-2022-10-09T22:36:26.096396-04:00.accessibility.json) |
 | [October 9 at 4:09 PM](https://archive.org/download/oann-2022/oann-2022-10-09T16:09:08.361658-04:00.accessibility.json) |
 | [October 9 at 10:01 AM](https://archive.org/download/oann-2022/oann-2022-10-09T10:01:18.152857-04:00.accessibility.json) |
-| [October 8 at 10:32 PM](https://archive.org/download/oann-2022/oann-2022-10-08T22:31:42.997946-04:00.accessibility.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 175 screenshots with the Internet Archive.
+The archiving routine has saved 176 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 175 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-10-12T06:02:23.641596-05:00.jpg">
+  <img src="https://archive.org/download/cbs7news-2022/cbs7news-2022-10-12T06:02:23.641596-05:00.jpg"
+     alt="CBS7 at 2022-10-12 06:02:27-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-10-12T06:02:23.641596-05:00.jpg">October 12 at 6:02 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-10-11T18:06:00.102044-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-10-06T18:05:33.300526-05:00.jpg">October 6 at 6:05 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-10-05T17:58:26.311233-05:00.jpg">
-  <img src="https://archive.org/download/cbs7news-2022/cbs7news-2022-10-05T17:58:26.311233-05:00.jpg"
-     alt="CBS7 at 2022-10-05 17:58:37-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cbs7news-2022/cbs7news-2022-10-05T17:58:26.311233-05:00.jpg">October 5 at 5:58 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 175 hyperlink lists with the Internet Archive.
+The archiving routine has saved 176 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 12 at 6:02 AM](https://archive.org/download/cbs7news-2022/cbs7news-2022-10-12T06:02:23.641596-05:00.hyperlinks.json) |
 | [October 11 at 6:06 PM](https://archive.org/download/cbs7news-2022/cbs7news-2022-10-11T18:06:00.102044-05:00.hyperlinks.json) |
 | [October 11 at 6:02 AM](https://archive.org/download/cbs7news-2022/cbs7news-2022-10-11T06:01:52.763850-05:00.hyperlinks.json) |
 | [October 10 at 6:07 PM](https://archive.org/download/cbs7news-2022/cbs7news-2022-10-10T18:07:19.551681-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 6:08 PM](https://archive.org/download/cbs7news-2022/cbs7news-2022-10-08T18:07:56.895748-05:00.hyperlinks.json) |
 | [October 8 at 5:53 AM](https://archive.org/download/cbs7news-2022/cbs7news-2022-10-08T05:53:09.384295-05:00.hyperlinks.json) |
 | [October 7 at 6:06 PM](https://archive.org/download/cbs7news-2022/cbs7news-2022-10-07T18:06:07.000012-05:00.hyperlinks.json) |
-| [October 7 at 6:10 AM](https://archive.org/download/cbs7news-2022/cbs7news-2022-10-07T06:09:54.343121-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 174 accessibility trees with the Internet Archive.
+The archiving routine has saved 175 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 12 at 6:02 AM](https://archive.org/download/cbs7news-2022/cbs7news-2022-10-12T06:02:23.641596-05:00.accessibility.json) |
 | [October 11 at 6:06 PM](https://archive.org/download/cbs7news-2022/cbs7news-2022-10-11T18:06:00.102044-05:00.accessibility.json) |
 | [October 11 at 6:02 AM](https://archive.org/download/cbs7news-2022/cbs7news-2022-10-11T06:01:52.763850-05:00.accessibility.json) |
 | [October 10 at 6:07 PM](https://archive.org/download/cbs7news-2022/cbs7news-2022-10-10T18:07:19.551681-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 6:08 PM](https://archive.org/download/cbs7news-2022/cbs7news-2022-10-08T18:07:56.895748-05:00.accessibility.json) |
 | [October 8 at 5:53 AM](https://archive.org/download/cbs7news-2022/cbs7news-2022-10-08T05:53:09.384295-05:00.accessibility.json) |
 | [October 7 at 6:06 PM](https://archive.org/download/cbs7news-2022/cbs7news-2022-10-07T18:06:07.000012-05:00.accessibility.json) |
-| [October 7 at 6:10 AM](https://archive.org/download/cbs7news-2022/cbs7news-2022-10-07T06:09:54.343121-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 162 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 163 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 12 at 6:02 AM](https://archive.org/download/cbs7news-2022/cbs7news-2022-10-12T06:02:23.641596-05:00.lighthouse.json) |
 | [October 11 at 6:06 PM](https://archive.org/download/cbs7news-2022/cbs7news-2022-10-11T18:06:00.102044-05:00.lighthouse.json) |
 | [October 11 at 6:02 AM](https://archive.org/download/cbs7news-2022/cbs7news-2022-10-11T06:01:52.763850-05:00.lighthouse.json) |
 | [October 10 at 6:07 PM](https://archive.org/download/cbs7news-2022/cbs7news-2022-10-10T18:07:19.551681-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 6:08 PM](https://archive.org/download/cbs7news-2022/cbs7news-2022-10-08T18:07:56.895748-05:00.lighthouse.json) |
 | [October 8 at 5:53 AM](https://archive.org/download/cbs7news-2022/cbs7news-2022-10-08T05:53:09.384295-05:00.lighthouse.json) |
 | [October 7 at 6:06 PM](https://archive.org/download/cbs7news-2022/cbs7news-2022-10-07T18:06:07.000012-05:00.lighthouse.json) |
-| [October 7 at 6:10 AM](https://archive.org/download/cbs7news-2022/cbs7news-2022-10-07T06:09:54.343121-05:00.lighthouse.json) |
 
 
 
