@@ -1,5 +1,5 @@
 {
-  "created": 1665561774,
+  "created": 1665590379,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/5/items/kcautv-2022",
@@ -19074,31 +19074,93 @@
       "sha1": "25d64f2a61e50abbd2bc00fe72cf58c6676beb84"
     },
     {
+      "name": "kcautv-2022-10-12T10:56:25.664800-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665590200",
+      "size": "53463",
+      "md5": "1448c306c9d7e38a440cfc443dd34fdb",
+      "crc32": "4eb3e924",
+      "sha1": "f34b37e6e6abf065f1a6631df5b750590315c42a",
+      "format": "JSON"
+    },
+    {
+      "name": "kcautv-2022-10-12T10:56:25.664800-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665590202",
+      "size": "104482",
+      "md5": "b34a9af07d38bd3b1c3283b53d864930",
+      "crc32": "19f1a327",
+      "sha1": "2917a35beb5603a31ef01aa0fb76c8efca9ea3c2",
+      "format": "JSON"
+    },
+    {
+      "name": "kcautv-2022-10-12T10:56:25.664800-05:00.jpg",
+      "source": "original",
+      "mtime": "1665590198",
+      "size": "276471",
+      "md5": "c4b168ba111fd0a8bb4d6d0bd30e59bc",
+      "crc32": "e8537de6",
+      "sha1": "67d3e85f3806c5fd838fb421d1fc9cd3cb344136",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcautv-2022-10-12T10:56:25.664800-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665590204",
+      "size": "1530",
+      "md5": "6a489dac41f1a80e11ad62a919df3069",
+      "crc32": "a4cecbc7",
+      "sha1": "be47db38258042326aa1b07dffc0b8e50e2fde4a",
+      "format": "JSON"
+    },
+    {
+      "name": "kcautv-2022-10-12T10:56:25.664800-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665590206",
+      "size": "256",
+      "md5": "a869c136ce3802114c814af99b151664",
+      "crc32": "7be101d0",
+      "sha1": "49eb396a6ef039a710b8b362a06041602f0567ec",
+      "format": "JSON"
+    },
+    {
+      "name": "kcautv-2022-10-12T10:56:25.664800-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcautv-2022-10-12T10:56:25.664800-05:00.jpg",
+      "mtime": "1665590316",
+      "size": "10614",
+      "md5": "5fa324c1db67e70dc0a8790ee697569f",
+      "crc32": "5ab7ac41",
+      "sha1": "d5b16b4189698ccddf4ea6f10a127b1254f510a8"
+    },
+    {
       "name": "kcautv-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0b82daf1fbf15a158ac9e4b59cda7bfe02659706",
-      "mtime": "1665556503",
-      "size": "385075",
-      "md5": "cdb518ddb2a06ae52313dda7a1184252",
-      "crc32": "cf1f10ff",
-      "sha1": "8553f2e2071380cac595c148b3b3dfa5c0009b24",
+      "btih": "cdd3ee1ff79236da3075152578fd889f68b4a591",
+      "mtime": "1665590363",
+      "size": "386310",
+      "md5": "02e2b4152f81734dc57e35ee311ad51f",
+      "crc32": "f833b404",
+      "sha1": "88eee5b80f1fe72eba2e75df296d52d8f817d6b8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kcautv-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "accc3b8dd1ec2e0f52d1b13c9c0bab6c",
+      "md5": "dc93e63ed2d0cf873d6c9467995e1b1f",
       "summation": "md5"
     },
     {
       "name": "kcautv-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665556213",
-      "size": "2220032",
-      "md5": "00418a2e66d6233093a38aa9ab6576df",
-      "crc32": "c696f5e2",
-      "sha1": "57ac3065267d5513daea9bb92fe65b1ed1ecea44",
+      "mtime": "1665590213",
+      "size": "2228224",
+      "md5": "e8cb29c24085920c9155fed4d4bb8603",
+      "crc32": "6b47a6aa",
+      "sha1": "4a203191cb1501e81938c81a43a308748374da68",
       "format": "Metadata"
     },
     {
@@ -19112,17 +19174,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1836,
-  "item_last_updated": 1665556503,
-  "item_size": 177597407,
-  "kcautv-2022": {
-    "url": "https://www.siouxlandproud.com/",
-    "job_id": "spn2-e531a0723dfc42f6b4cd2bde705ad78c26454b5c",
-    "status": "error",
-    "status_ext": "error:job-failed",
-    "message": "Job failed.",
-    "resources": []
-  },
+  "files_count": 1842,
+  "item_last_updated": 1665590363,
+  "item_size": 178053650,
   "metadata": {
     "identifier": "kcautv-2022",
     "collection": [
@@ -19139,10 +19193,10 @@
     "publicdate": "2022-03-25 14:09:11",
     "addeddate": "2022-03-25 14:09:11"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 1171326636,
+  "server": "ia601501.us.archive.org",
+  "uniq": 576313548,
   "workable_servers": [
-    "ia801501.us.archive.org",
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }
