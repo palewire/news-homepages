@@ -1,5 +1,6 @@
 {
-  "created": 1665601003,
+  "conflict": 1665603448,
+  "created": 1665603448,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/2/items/gatewaypundit-2022",
@@ -16752,31 +16753,93 @@
       "sha1": "4f88f3abb5ce31e1b6f156caea0e5cd0ab1189f9"
     },
     {
+      "name": "gatewaypundit-2022-10-12T14:32:10.205295-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665603140",
+      "size": "34397",
+      "md5": "ddb7ccd820cb16b02bfa75146e464279",
+      "crc32": "f66c189e",
+      "sha1": "77022d9231ffaee97c5b5c713a50e238dcba2f68",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-10-12T14:32:10.205295-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665603141",
+      "size": "74619",
+      "md5": "bc1d0c8645414b674acd48478fcce354",
+      "crc32": "b3319142",
+      "sha1": "9ff988a99f8b3e3c7ea4e90a60bc9ce08c96a814",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-10-12T14:32:10.205295-05:00.jpg",
+      "source": "original",
+      "mtime": "1665603138",
+      "size": "332857",
+      "md5": "1ed8ed4a80bf2e126fb7c3f685bcdb33",
+      "crc32": "c85ed186",
+      "sha1": "4842af82d41c7f0a39e9daf47952dea3d559db49",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gatewaypundit-2022-10-12T14:32:10.205295-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665603143",
+      "size": "1549",
+      "md5": "e03d76d9d3d9c523a9c9f1f9d5963139",
+      "crc32": "21009150",
+      "sha1": "403f21229cce78583b2dbe9ac6ac9bde544fd368",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-10-12T14:32:10.205295-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665603145",
+      "size": "42054",
+      "md5": "8d587ea4be081f50f7c553d67ec7bb1f",
+      "crc32": "cef380b3",
+      "sha1": "e35eb33f788640d4886cb3a3e6bfb99dc21dddbc",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-10-12T14:32:10.205295-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gatewaypundit-2022-10-12T14:32:10.205295-05:00.jpg",
+      "mtime": "1665603381",
+      "size": "10887",
+      "md5": "70c1178b9ee7d925a88a80add86e91e1",
+      "crc32": "e50d7d37",
+      "sha1": "c53770169c04e6828d67f2bf0725b84e2d6fa99c"
+    },
+    {
       "name": "gatewaypundit-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d3e2bb7867b55f6233c071b85158333eff15d2b3",
-      "mtime": "1665596381",
-      "size": "350485",
-      "md5": "fbef04ec8d7db1171781b7e7d5433958",
-      "crc32": "90dc31a6",
-      "sha1": "9431e2f802217e8f56cdd963b0e83fa762183fdb",
+      "btih": "ddbcb808bbd2bedec665188ea798426fc9345958",
+      "mtime": "1665603444",
+      "size": "351783",
+      "md5": "e115717013f9ad3bb5e304025bef0e67",
+      "crc32": "792a4a36",
+      "sha1": "d7e157cc33e8a4bf1080005ba89886b1dc935d6e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gatewaypundit-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3fc4e2cc817092fd1d059f6474a4dd18",
+      "md5": "7271308221f747a73c5bc825626bd48e",
       "summation": "md5"
     },
     {
       "name": "gatewaypundit-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665596135",
-      "size": "2031616",
-      "md5": "b9da651aeea8e87615f82802093d0b31",
-      "crc32": "bcd7fd6f",
-      "sha1": "cce5cb123702196d7590a5154e6e834929e85295",
+      "mtime": "1665603163",
+      "size": "2039808",
+      "md5": "87e535c01cc03278d148bd5179f10c26",
+      "crc32": "b366c30e",
+      "sha1": "ae992c2497a2d51f047a1cf49fb5e93690fe4c08",
       "format": "Metadata"
     },
     {
@@ -16790,9 +16853,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1619,
-  "item_last_updated": 1665596381,
-  "item_size": 141358177,
+  "files_count": 1625,
+  "item_last_updated": 1665603444,
+  "item_size": 141864030,
   "metadata": {
     "identifier": "gatewaypundit-2022",
     "collection": [
@@ -16809,10 +16872,29 @@
     "publicdate": "2022-07-02 15:24:15",
     "addeddate": "2022-07-02 15:24:15"
   },
+  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "uniq": 175161331,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3437324029,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3437326480,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1719898113,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia601500.us.archive.org"
   ]
 }
