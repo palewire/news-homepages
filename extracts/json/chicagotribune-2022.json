@@ -1,5 +1,5 @@
 {
-  "created": 1665590513,
+  "created": 1665590772,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/30/items/chicagotribune-2022",
@@ -18245,21 +18245,32 @@
       "format": "JSON"
     },
     {
+      "name": "chicagotribune-2022-10-12T11:00:33.240069-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chicagotribune-2022-10-12T11:00:33.240069-05:00.jpg",
+      "mtime": "1665590684",
+      "size": "8917",
+      "md5": "e113dcd622c66e6ebfb11dfbd647d6a6",
+      "crc32": "30afbfd8",
+      "sha1": "117298b650f1f334a87ef5c5e4d09323f0accade"
+    },
+    {
       "name": "chicagotribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2822cff69b0dfebc7e1e5e79f558774f5c8eec1d",
-      "mtime": "1665590507",
-      "size": "382125",
-      "md5": "c53517ddee8de6ef2e93ea795edae1b3",
-      "crc32": "ca3df491",
-      "sha1": "a680f4d76292cc4ec22538b6dd17d5c02fa0841a",
+      "btih": "207a73863fe97ca135e2a8ce43a3dd84d497b769",
+      "mtime": "1665590721",
+      "size": "382335",
+      "md5": "f8c072eaac88888995808a2d422e9e14",
+      "crc32": "8da586c7",
+      "sha1": "9471156ca1b72e4996744dcd2b64bbf3cf09416b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chicagotribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4f85b16c31632888aad60d78d5bab602",
+      "md5": "47a4e3a4f3bb54f5be0fce95ffb39104",
       "summation": "md5"
     },
     {
@@ -18283,9 +18294,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1762,
-  "item_last_updated": 1665590507,
-  "item_size": 136612114,
+  "files_count": 1763,
+  "item_last_updated": 1665590721,
+  "item_size": 136621241,
   "metadata": {
     "identifier": "chicagotribune-2022",
     "collection": [
@@ -18302,21 +18313,10 @@
     "publicdate": "2022-06-24 22:54:07",
     "addeddate": "2022-06-24 22:54:07"
   },
-  "pending_tasks": true,
-  "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3437143962,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 252506934,
+  "server": "ia802502.us.archive.org",
+  "uniq": 4354071,
   "workable_servers": [
+    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

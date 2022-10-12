@@ -1,5 +1,6 @@
 {
-  "created": 1665590633,
+  "conflict": 1665590767,
+  "created": 1665590767,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/18/items/wgnnews-2022",
@@ -13447,6 +13448,12 @@
       "format": "JSON"
     },
     {
+      "name": "wgnnews-2022-10-12T11:01:17.980308-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wgnnews-2022-10-12T11:01:17.980308-05:00.jpg"
+    },
+    {
       "name": "wgnnews-2022_archive.torrent",
       "source": "metadata",
       "btih": "5d28f241cfa2a321436941018c337df3805f32cb",
@@ -13485,7 +13492,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1304,
+  "files_count": 1305,
   "item_last_updated": 1665590624,
   "item_size": 119918341,
   "metadata": {
@@ -13509,23 +13516,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3437143213,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
       "task_id": 3437145616,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1225617954,
+  "uniq": 1976455440,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]

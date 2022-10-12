@@ -1,5 +1,5 @@
 {
-  "created": 1665556108,
+  "created": 1665590480,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/11/items/bctimes-2022",
@@ -2672,31 +2672,93 @@
       "sha1": "74d84cf4ceea63f080f856f168d83b4b9a92c435"
     },
     {
+      "name": "bctimes-2022-10-12T11:59:23.968868-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665590369",
+      "size": "21811",
+      "md5": "e1d914c8580b2eaf44d812c4bde41070",
+      "crc32": "4339eb25",
+      "sha1": "1828eb8b929bd622d860af7f5ffbd38b530d2014",
+      "format": "JSON"
+    },
+    {
+      "name": "bctimes-2022-10-12T11:59:23.968868-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665590371",
+      "size": "29603",
+      "md5": "bb16fc9f5ddc25a4e0674296bdcd4fca",
+      "crc32": "ebb697d3",
+      "sha1": "e632ac3a32cb79f741e83be7ca326768fed5665b",
+      "format": "JSON"
+    },
+    {
+      "name": "bctimes-2022-10-12T11:59:23.968868-04:00.jpg",
+      "source": "original",
+      "mtime": "1665590367",
+      "size": "311387",
+      "md5": "16416232954f7d0151e6d72dbd9736af",
+      "crc32": "53b796b6",
+      "sha1": "9522e64d7e5c10c531ac48cd9975d2d2eddb258a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bctimes-2022-10-12T11:59:23.968868-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665590373",
+      "size": "1504",
+      "md5": "b2d4c3b4a9eb42137852910d61f7854c",
+      "crc32": "baf4041a",
+      "sha1": "6db6137f8f1c35b89c2334831306ae6975414658",
+      "format": "JSON"
+    },
+    {
+      "name": "bctimes-2022-10-12T11:59:23.968868-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665590375",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "bctimes-2022-10-12T11:59:23.968868-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bctimes-2022-10-12T11:59:23.968868-04:00.jpg",
+      "mtime": "1665590435",
+      "size": "9431",
+      "md5": "91f5e8710b69bc8f877662160aa472c8",
+      "crc32": "379dc0fd",
+      "sha1": "65cad14b46605f15bb78728e8c68275dfd49fee8"
+    },
+    {
       "name": "bctimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2dca08f2d006af575b8603219c78ea0e0f9c0926",
-      "mtime": "1665556072",
-      "size": "55413",
-      "md5": "9fcdfc8a3ae386affa378ff3f4ba2fa3",
-      "crc32": "9d6595a3",
-      "sha1": "cf67346f664ec862f6fa0a409368b29c092317f4",
+      "btih": "bc350b3fe9c11f3b7a6c2d2849c9b67fc7e6b1c1",
+      "mtime": "1665590441",
+      "size": "56672",
+      "md5": "07c46e11122b171b585266f74cf5aa53",
+      "crc32": "d040a501",
+      "sha1": "aa24669353a8c8f2a515f94f3a8d767119800ca3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bctimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fa13e3ef728f6a99b5a76c73f74e27bf",
+      "md5": "64a1b980b332eda50420d7383b59d431",
       "summation": "md5"
     },
     {
       "name": "bctimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665555829",
-      "size": "348160",
-      "md5": "d3600f2d5e217ce976ecbad1df0ed980",
-      "crc32": "3b74dd92",
-      "sha1": "903367a070a94d7037dbcf422135a3a4071a7116",
+      "mtime": "1665590379",
+      "size": "356352",
+      "md5": "b2c18bdcd6fa2ba84bc442135f67e475",
+      "crc32": "bea020cd",
+      "sha1": "18cc6a0ac82012c42ee9f6dc3a161c856b5e3eb7",
       "format": "Metadata"
     },
     {
@@ -2710,9 +2772,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 262,
-  "item_last_updated": 1665556072,
-  "item_size": 17505153,
+  "files_count": 268,
+  "item_last_updated": 1665590441,
+  "item_size": 17888542,
   "metadata": {
     "identifier": "bctimes-2022",
     "collection": [
@@ -2730,7 +2792,7 @@
     "addeddate": "2022-09-21 04:39:06"
   },
   "server": "ia801401.us.archive.org",
-  "uniq": 1131164188,
+  "uniq": 2143378535,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"
