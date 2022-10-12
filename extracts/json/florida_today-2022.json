@@ -1,5 +1,5 @@
 {
-  "created": 1665532860,
+  "created": 1665576397,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/6/items/florida_today-2022",
@@ -2734,31 +2734,93 @@
       "sha1": "f8e447c253d023b2142e2c4cda55ccb6087b7452"
     },
     {
+      "name": "florida_today-2022-10-12T08:04:50.091633-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665576298",
+      "size": "22823",
+      "md5": "e75db2a019fba220eef03aebab7341b2",
+      "crc32": "250b4d4b",
+      "sha1": "c4d13b8b08a334f5ab3d96d5589897e652ccc2f2",
+      "format": "JSON"
+    },
+    {
+      "name": "florida_today-2022-10-12T08:04:50.091633-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665576301",
+      "size": "32070",
+      "md5": "5d434a4f0f84bc2ce0f1273ae42ce573",
+      "crc32": "0d90f212",
+      "sha1": "8f953a0c2f6bef84703089c6402ddb9372fe41fb",
+      "format": "JSON"
+    },
+    {
+      "name": "florida_today-2022-10-12T08:04:50.091633-04:00.jpg",
+      "source": "original",
+      "mtime": "1665576295",
+      "size": "278621",
+      "md5": "429ba4de94212897b26769277e05a07d",
+      "crc32": "97d31c75",
+      "sha1": "9e15f4baaa371a23551b903fbf6e3187fefe1cb0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "florida_today-2022-10-12T08:04:50.091633-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665576304",
+      "size": "1513",
+      "md5": "f4c6f083ed1da0e93102ad7b5c067c3f",
+      "crc32": "42dd75cd",
+      "sha1": "c128d8ac018fd81c0dde4d49367cb38729b217b7",
+      "format": "JSON"
+    },
+    {
+      "name": "florida_today-2022-10-12T08:04:50.091633-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665576305",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "florida_today-2022-10-12T08:04:50.091633-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "florida_today-2022-10-12T08:04:50.091633-04:00.jpg",
+      "mtime": "1665576380",
+      "size": "9201",
+      "md5": "55acea31e68ba78dedf6850bb45e04c8",
+      "crc32": "5945ca79",
+      "sha1": "6475f89fc080aa64269ca1de75642614e3f50d0b"
+    },
+    {
       "name": "florida_today-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6dc27a49e1ea098dde52449efdc1c0e347aa2a91",
-      "mtime": "1665532828",
-      "size": "58255",
-      "md5": "46010be1f81ff94eaf7c3c8070017c18",
-      "crc32": "e059a6af",
-      "sha1": "65435660d51ae3442c9a9cd4e1650eddded54614",
+      "btih": "724e670dd398b4b24e7df87b90f0d1aa695151db",
+      "mtime": "1665576386",
+      "size": "59550",
+      "md5": "88e1e6ed40a8dea15a2670dfc0c6b4f0",
+      "crc32": "f7c9e149",
+      "sha1": "6372bc76f18137cb2a896c26be4d68e1f11a24ac",
       "format": "Archive BitTorrent"
     },
     {
       "name": "florida_today-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f257944808340e512524aa492c5e530d",
+      "md5": "ccc489179a995016c01872607ace958b",
       "summation": "md5"
     },
     {
       "name": "florida_today-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665532757",
-      "size": "356352",
-      "md5": "f842730a231d57f303fab68c475804f9",
-      "crc32": "6b75471b",
-      "sha1": "7871db546fa7a7de479e737c9b357547c648289c",
+      "mtime": "1665576310",
+      "size": "364544",
+      "md5": "a8cb330449394d68de5e68b7e3ddb54f",
+      "crc32": "fb1255ae",
+      "sha1": "be1d2914c657b1cb1196f4e7dcf4e3e144019687",
       "format": "Metadata"
     },
     {
@@ -2772,9 +2834,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 268,
-  "item_last_updated": 1665532828,
-  "item_size": 17203647,
+  "files_count": 274,
+  "item_last_updated": 1665576386,
+  "item_size": 17557564,
   "metadata": {
     "identifier": "florida_today-2022",
     "collection": [
@@ -2791,10 +2853,10 @@
     "publicdate": "2022-09-20 22:17:19",
     "addeddate": "2022-09-20 22:17:19"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 1741673113,
+  "server": "ia601406.us.archive.org",
+  "uniq": 1163544519,
   "workable_servers": [
-    "ia801406.us.archive.org",
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

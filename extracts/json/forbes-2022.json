@@ -1,6 +1,5 @@
 {
-  "conflict": 1665533134,
-  "created": 1665533134,
+  "created": 1665576315,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/22/items/forbes-2022",
@@ -4739,31 +4738,82 @@
       "sha1": "efbe0cd8be63ba970f8586c6737bd9d9c1dfb133"
     },
     {
+      "name": "forbes-2022-10-12T08:04:14.486464-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665576261",
+      "size": "37364",
+      "md5": "b12d343695a8f82604ffb009dcea291f",
+      "crc32": "755c7369",
+      "sha1": "ae4c130f549ef1ec55c9f2fa266bcd11bf0aaf36",
+      "format": "JSON"
+    },
+    {
+      "name": "forbes-2022-10-12T08:04:14.486464-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665576262",
+      "size": "48974",
+      "md5": "a27abe64e5c7929b70934c36d6c5d3fd",
+      "crc32": "f1a6dfa5",
+      "sha1": "4b635d8107ce3804de80b9f39f984072938f5374",
+      "format": "JSON"
+    },
+    {
+      "name": "forbes-2022-10-12T08:04:14.486464-04:00.jpg",
+      "source": "original",
+      "mtime": "1665576259",
+      "size": "227143",
+      "md5": "227a06b0518989ff80cb235a330502ae",
+      "crc32": "4900578c",
+      "sha1": "f8f26464c3fbb7f3aab01c7220c50d40c4b80479",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "forbes-2022-10-12T08:04:14.486464-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665576264",
+      "size": "1459",
+      "md5": "dc0499c3a0d10f51e619fa4a0f585e12",
+      "crc32": "94ceb711",
+      "sha1": "90923f1e3133da8d0c47425f769b4aafe489dd66",
+      "format": "JSON"
+    },
+    {
+      "name": "forbes-2022-10-12T08:04:14.486464-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665576266",
+      "size": "34679",
+      "md5": "22edcd92659c1731b014834521bd0595",
+      "crc32": "0c20b965",
+      "sha1": "65513f09b84635e622cb41cd75a25b2e9d6a965d",
+      "format": "JSON"
+    },
+    {
       "name": "forbes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "28241fce6c46362e518a7756f1a2c07e5ee5cf34",
-      "mtime": "1665533132",
-      "size": "96603",
-      "md5": "464c8079c6bb40d9d0ae6dddfd4184ff",
-      "crc32": "7332ffe3",
-      "sha1": "42c9f2f7c03024bbeb9e216138be73102bf9742e",
+      "btih": "73b18ad13c841d0757f6c5cd39a582a3640ac037",
+      "mtime": "1665576309",
+      "size": "97656",
+      "md5": "aec75cd7dd470ce8035275c306523f62",
+      "crc32": "74158608",
+      "sha1": "1484547a7b9d6ef80d492dbeb82ef35eaca3a600",
       "format": "Archive BitTorrent"
     },
     {
       "name": "forbes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8abb3dd9c57fa526e7803e16b6a4d875",
+      "md5": "e24239d603e93ee8e013286e728726f5",
       "summation": "md5"
     },
     {
       "name": "forbes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665532965",
-      "size": "598016",
-      "md5": "9006cc48f9976875e20a8a2ca8f2a897",
-      "crc32": "3a9ab342",
-      "sha1": "8841fea17eea425d3132afbefc28d54eb36d661f",
+      "mtime": "1665576272",
+      "size": "606208",
+      "md5": "4d1c3c20948ef2e3ab1bd5c613bccdbe",
+      "crc32": "348cfc72",
+      "sha1": "52a4147977952c576b20f12ce84f2f9f5994675f",
       "format": "Metadata"
     },
     {
@@ -4777,9 +4827,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 462,
-  "item_last_updated": 1665533132,
-  "item_size": 25956923,
+  "files_count": 467,
+  "item_last_updated": 1665576309,
+  "item_size": 26315787,
   "metadata": {
     "identifier": "forbes-2022",
     "collection": [
@@ -4801,15 +4851,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3436313373,
-      "cmd": "bup.php",
-      "priority": -5,
+      "task_id": 3436961057,
+      "cmd": "derive.php",
+      "priority": -6,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     }
   ],
-  "uniq": 1216903404,
+  "uniq": 919167294,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]
