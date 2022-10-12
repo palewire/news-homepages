@@ -1,5 +1,5 @@
 {
-  "created": 1665542151,
+  "created": 1665583659,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/32/items/nettavisen-2022",
@@ -10021,31 +10021,93 @@
       "format": "JSON"
     },
     {
+      "name": "nettavisen-2022-10-12T04:34:23.878790+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nettavisen-2022-10-12T04:34:23.878790+02:00.jpg",
+      "mtime": "1665542661",
+      "size": "10799",
+      "md5": "7f3bcc26d9dfc68b6f00c44b0b1ed2db",
+      "crc32": "15528ffd",
+      "sha1": "3948222a24a6626c8d6d6ab972e3ed76d85e8fbe"
+    },
+    {
+      "name": "nettavisen-2022-10-12T16:06:18.652826+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665583586",
+      "size": "26192",
+      "md5": "e63c535769b343950d7fdd8b473e17ea",
+      "crc32": "44187acb",
+      "sha1": "11ee703ae294526e082a5bed2122f35336fb8d5a",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-12T16:06:18.652826+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665583588",
+      "size": "85799",
+      "md5": "7ce14173deffa2667fd8ac9aa31d4549",
+      "crc32": "b11a77fb",
+      "sha1": "c6effca4a072c0a5175b0bf423b88cf481a0fe91",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-12T16:06:18.652826+02:00.jpg",
+      "source": "original",
+      "mtime": "1665583585",
+      "size": "223363",
+      "md5": "80157e0b37f1f16453989afb98e3964e",
+      "crc32": "9e447bcc",
+      "sha1": "c9c6efcdad8a7b78a15bd483c7d187b12c09b533",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nettavisen-2022-10-12T16:06:18.652826+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665583591",
+      "size": "1486",
+      "md5": "c3f46033ce0c74a924b2145be24e5265",
+      "crc32": "02bdd318",
+      "sha1": "c1846e69fbb7f5ddb1796801db6770e312efe4a5",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-12T16:06:18.652826+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665583593",
+      "size": "62667",
+      "md5": "cb37ac978852d7bac362ef106d0d8946",
+      "crc32": "2859dc09",
+      "sha1": "c255fd67ca237ac0deb139878ef16134a21c8bcb",
+      "format": "JSON"
+    },
+    {
       "name": "nettavisen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "df69b92c9e183986550a12169abf1076fd4def7e",
-      "mtime": "1665542142",
-      "size": "207200",
-      "md5": "35b85ed97b52ee701ea1f7e5db598e05",
-      "crc32": "c34c7fab",
-      "sha1": "cbb177967babff01f1743e8e541d7547985e2915",
+      "btih": "339ae15f2e15131ac808df86775b4c1121e4ad55",
+      "mtime": "1665583648",
+      "size": "208460",
+      "md5": "9ab31fd891265a21ac1639c17182e253",
+      "crc32": "83f8515e",
+      "sha1": "0a938e550cedeee65ea4a12deeac7a74b36052d5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nettavisen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "156813d55e08ae14df9d26ed6e7e77cd",
+      "md5": "d51a329c7be7f7d931bd963322df1c5d",
       "summation": "md5"
     },
     {
       "name": "nettavisen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665542094",
-      "size": "1236992",
-      "md5": "93e3068ed9b82eee2bfe5a1a6c7f1367",
-      "crc32": "d39e5884",
-      "sha1": "1c6e7e18552e16357939599ab5ee70dc7afbfe36",
+      "mtime": "1665583599",
+      "size": "1245184",
+      "md5": "7ccf1368cf59d58a1f6edaed953f8b80",
+      "crc32": "35cdde0e",
+      "sha1": "19e14b39dd659e0f411618605d7887a00f59b8e4",
       "format": "Metadata"
     },
     {
@@ -10059,9 +10121,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 972,
-  "item_last_updated": 1665542142,
-  "item_size": 68462652,
+  "files_count": 978,
+  "item_last_updated": 1665583648,
+  "item_size": 68882410,
   "metadata": {
     "identifier": "nettavisen-2022",
     "collection": [
@@ -10083,7 +10145,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3436435087,
+      "task_id": 3437059243,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -10091,7 +10153,7 @@
       "status": "running"
     }
   ],
-  "uniq": 1242715886,
+  "uniq": 1796833454,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]

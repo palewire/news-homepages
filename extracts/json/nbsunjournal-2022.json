@@ -1,6 +1,5 @@
 {
-  "conflict": 1665542500,
-  "created": 1665542500,
+  "created": 1665583736,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/27/items/nbsunjournal-2022",
@@ -2683,31 +2682,93 @@
       "sha1": "5d78646c2e3f9a079055695d77443d65553f95e6"
     },
     {
+      "name": "nbsunjournal-2022-10-12T10:05:59.806547-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665583568",
+      "size": "23674",
+      "md5": "15bc8bf62a0f0c44e7c511c8784a0353",
+      "crc32": "6df83754",
+      "sha1": "4de0d79eea43d75b25b3f19ca528f4c4e69afc27",
+      "format": "JSON"
+    },
+    {
+      "name": "nbsunjournal-2022-10-12T10:05:59.806547-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665583570",
+      "size": "33943",
+      "md5": "b17b6d6e2df89f1ca5728c41dbd7e49c",
+      "crc32": "01b675e1",
+      "sha1": "095aeccc6cef2840dbbd491cecfbe032f2216de8",
+      "format": "JSON"
+    },
+    {
+      "name": "nbsunjournal-2022-10-12T10:05:59.806547-04:00.jpg",
+      "source": "original",
+      "mtime": "1665583565",
+      "size": "322685",
+      "md5": "c7808b0bbadda92f5d2bf2637049762e",
+      "crc32": "a75ca331",
+      "sha1": "248187cc9816f300539ca63abd85b826db888015",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbsunjournal-2022-10-12T10:05:59.806547-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665583571",
+      "size": "1486",
+      "md5": "0463d2f9dde8381c6ef5a9964058f27e",
+      "crc32": "9b4af46a",
+      "sha1": "3134b07601b38127ea49e1459697e446ea3e5a55",
+      "format": "JSON"
+    },
+    {
+      "name": "nbsunjournal-2022-10-12T10:05:59.806547-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665583573",
+      "size": "101696",
+      "md5": "4e6221afd6d097423b6ff3ff69b1dd43",
+      "crc32": "698317e0",
+      "sha1": "b1ee91c401e5a76756dbe3959de3a4aa0d22b0f8",
+      "format": "JSON"
+    },
+    {
+      "name": "nbsunjournal-2022-10-12T10:05:59.806547-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbsunjournal-2022-10-12T10:05:59.806547-04:00.jpg",
+      "mtime": "1665583679",
+      "size": "9507",
+      "md5": "c7e41883f3ffe10f4843ebfe8a105773",
+      "crc32": "6d5d7a86",
+      "sha1": "30e93160ff766bbe268a5418bd05a592e267e779"
+    },
+    {
       "name": "nbsunjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ba56649e613af1c82f9a3c39515dc6c305b254d9",
-      "mtime": "1665542494",
-      "size": "57020",
-      "md5": "d046c63f571c168eb240a3c6a48ab4d2",
-      "crc32": "032748b6",
-      "sha1": "c52720f8768c6b0b9afb070a5b33fbf4e6457d98",
+      "btih": "6d20515382cb0fb73757af5b4009074168af4376",
+      "mtime": "1665583703",
+      "size": "58312",
+      "md5": "6a9af03c7e0eb515be3f64f676f58f32",
+      "crc32": "d8aa38d7",
+      "sha1": "7a9229d6c9b54cf9e138cbbeda3d1653910e4d54",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbsunjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a5c18b7111d1215a13043661865ab3bc",
+      "md5": "b8a558d6737f38b92d86c11820bc4dd4",
       "summation": "md5"
     },
     {
       "name": "nbsunjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665542132",
-      "size": "352256",
-      "md5": "b348ea97122cb34c5c6fb7cd039bac96",
-      "crc32": "c99fdc06",
-      "sha1": "7631b88bcaf593fa3d2ccdbcd4f43a299da7e20f",
+      "mtime": "1665583582",
+      "size": "360448",
+      "md5": "62557d4abdc91a819a7232416135f492",
+      "crc32": "a81d3e35",
+      "sha1": "ba16f9e87605ec728df1cbc0eff1a14a6ad5a860",
       "format": "Metadata"
     },
     {
@@ -2721,9 +2782,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 263,
-  "item_last_updated": 1665542494,
-  "item_size": 18631459,
+  "files_count": 269,
+  "item_last_updated": 1665583703,
+  "item_size": 19133934,
   "metadata": {
     "identifier": "nbsunjournal-2022",
     "collection": [
@@ -2740,29 +2801,10 @@
     "publicdate": "2022-09-21 02:20:26",
     "addeddate": "2022-09-21 02:20:26"
   },
-  "pending_tasks": true,
-  "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3436435533,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3436440146,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1474656982,
+  "server": "ia801404.us.archive.org",
+  "uniq": 1045987483,
   "workable_servers": [
+    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }

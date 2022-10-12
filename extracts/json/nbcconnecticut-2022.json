@@ -1,6 +1,5 @@
 {
-  "conflict": 1665542460,
-  "created": 1665542460,
+  "created": 1665583716,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/26/items/nbcconnecticut-2022",
@@ -3551,31 +3550,93 @@
       "sha1": "f4e161c1d71ed7433e6dda814e4017bb2c78e502"
     },
     {
+      "name": "nbcconnecticut-2022-10-12T10:06:39.585795-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665583605",
+      "size": "46491",
+      "md5": "a5584617a319694185f8efea97776371",
+      "crc32": "3cd8b335",
+      "sha1": "5f9811a153817c30c53acca76f577adcec15ad76",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-12T10:06:39.585795-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665583607",
+      "size": "51599",
+      "md5": "a45597511d7a9c23baf00724235aa372",
+      "crc32": "2dddbe29",
+      "sha1": "bbe83c6408fdf360be8b5173a59fd13c7a192a85",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-12T10:06:39.585795-04:00.jpg",
+      "source": "original",
+      "mtime": "1665583603",
+      "size": "306127",
+      "md5": "f15419bbce10486e34b7da09501bf93b",
+      "crc32": "6740e10d",
+      "sha1": "cfd9fe73053f8bae5d2c41ed4753d2bf893ffbef",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-12T10:06:39.585795-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665583608",
+      "size": "1531",
+      "md5": "2cd5150f02d0be40a112de86eb676f1c",
+      "crc32": "07f53c8d",
+      "sha1": "487d93386a7ce389a610185e9232a3ef8d3042f4",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-12T10:06:39.585795-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665583610",
+      "size": "176389",
+      "md5": "cd60d68470894ca8b913810948bb5036",
+      "crc32": "f5ff4dc2",
+      "sha1": "748c9c3f926a204493eced85141729c002e3cfea",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-12T10:06:39.585795-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcconnecticut-2022-10-12T10:06:39.585795-04:00.jpg",
+      "mtime": "1665583689",
+      "size": "10222",
+      "md5": "ef18159eef0bd0e4d60cc96ae4c3063a",
+      "crc32": "8b8147a6",
+      "sha1": "83f41b4ca1d5ccf5ddcdfa914ebff4828247dd9e"
+    },
+    {
       "name": "nbcconnecticut-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ce46675c626986066473aef35eafe73cd607acf5",
-      "mtime": "1665542457",
-      "size": "75935",
-      "md5": "4727edba26983195954aae29f034ef7f",
-      "crc32": "852bfc3b",
-      "sha1": "507644ae16f2fafeb3bb25c889ad0c8c052b7cf2",
+      "btih": "657dcfb032916198e21307933cafec667870ffc0",
+      "mtime": "1665583701",
+      "size": "77260",
+      "md5": "45c4725b8de649c631574f3a33dfc316",
+      "crc32": "2165aa5a",
+      "sha1": "e639f28e1b54d20f77b9bd7d37ff0311ab8f7810",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcconnecticut-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e51cddec5e33bf5cf6ce2552563ac73b",
+      "md5": "b5918bd83335c7e778fc91864b7041a8",
       "summation": "md5"
     },
     {
       "name": "nbcconnecticut-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665542086",
-      "size": "458752",
-      "md5": "e7b0bdb981e481052e67857488851045",
-      "crc32": "1b4a43c5",
-      "sha1": "8f6b8637a141877125c661d455bd226ccb5d7bcc",
+      "mtime": "1665583615",
+      "size": "466944",
+      "md5": "e7359df27408feeb69afd2741cdd316b",
+      "crc32": "b6c3f797",
+      "sha1": "717d389bf2f9a67b621353ed3eda3097b96dc842",
       "format": "Metadata"
     },
     {
@@ -3589,9 +3650,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 347,
-  "item_last_updated": 1665542457,
-  "item_size": 28848860,
+  "files_count": 353,
+  "item_last_updated": 1665583701,
+  "item_size": 29450736,
   "metadata": {
     "identifier": "nbcconnecticut-2022",
     "collection": [
@@ -3608,29 +3669,10 @@
     "publicdate": "2022-09-14 01:20:27",
     "addeddate": "2022-09-14 01:20:27"
   },
-  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3436434773,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3436439677,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 372549112,
+  "uniq": 1871626016,
   "workable_servers": [
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

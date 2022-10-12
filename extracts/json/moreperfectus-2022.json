@@ -1,6 +1,5 @@
 {
-  "conflict": 1665542575,
-  "created": 1665542575,
+  "created": 1665583897,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/7/items/moreperfectus-2022",
@@ -14303,31 +14302,93 @@
       "sha1": "e7450c448d9051b79def2fca51324ebddebb8a95"
     },
     {
+      "name": "moreperfectus-2022-10-12T10:05:55.768147-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665583565",
+      "size": "7843",
+      "md5": "90da96a3a6aebb9b5a28e0d5d2105d83",
+      "crc32": "40e28f55",
+      "sha1": "14914ae2d004e38d9c899cc528e67d1584855e05",
+      "format": "JSON"
+    },
+    {
+      "name": "moreperfectus-2022-10-12T10:05:55.768147-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665583566",
+      "size": "10401",
+      "md5": "80e6271b1133663d2439c12e2c812580",
+      "crc32": "11149cd3",
+      "sha1": "7ec66f5fd4b0b44781336bdb5717016425e2e985",
+      "format": "JSON"
+    },
+    {
+      "name": "moreperfectus-2022-10-12T10:05:55.768147-04:00.jpg",
+      "source": "original",
+      "mtime": "1665583563",
+      "size": "253348",
+      "md5": "0c6260dddf39a493dabd0cebe10ad6d1",
+      "crc32": "ab5ee687",
+      "sha1": "fc7464644c3205d3dd403e106dd380c41836ddd3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "moreperfectus-2022-10-12T10:05:55.768147-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665583568",
+      "size": "1468",
+      "md5": "68fd947e7a7ad05122492b7d85809e8a",
+      "crc32": "67daf0d2",
+      "sha1": "ff1b54718bdd9fda37f421e1cda35703af8cc642",
+      "format": "JSON"
+    },
+    {
+      "name": "moreperfectus-2022-10-12T10:05:55.768147-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665583571",
+      "size": "14650",
+      "md5": "bb4d2d28ad45d380523e727e1747dc13",
+      "crc32": "405d09a1",
+      "sha1": "baa5c1ef3cefea88cf4218101c6f9349f934c384",
+      "format": "JSON"
+    },
+    {
+      "name": "moreperfectus-2022-10-12T10:05:55.768147-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "moreperfectus-2022-10-12T10:05:55.768147-04:00.jpg",
+      "mtime": "1665583811",
+      "size": "10650",
+      "md5": "60ed9993eff615d4ce78fbe1ce591c48",
+      "crc32": "0d6bfa94",
+      "sha1": "e7450c448d9051b79def2fca51324ebddebb8a95"
+    },
+    {
       "name": "moreperfectus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5a6185f4503ef28c99818cd2d3d166aaa8f98c47",
-      "mtime": "1665542546",
-      "size": "298438",
-      "md5": "7b6dc3d44d74780110e07f1898ecc4c8",
-      "crc32": "218e4229",
-      "sha1": "f1bc77b97e43ff935bdc084a02dd287e9cd5218e",
+      "btih": "5abdbe94f8dc6f296b3a658e421f28467a641ad7",
+      "mtime": "1665583868",
+      "size": "299735",
+      "md5": "09cc9c417461405c31e3f79eb36b71a6",
+      "crc32": "45e5dac2",
+      "sha1": "2c78d7efcecdf7b7071e1e66716f8cbf50c6fbc4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "moreperfectus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4f8e373131ed6c7c8df4a26f302f0f70",
+      "md5": "fc05c42b67eb02fc631893075b52cd85",
       "summation": "md5"
     },
     {
       "name": "moreperfectus-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665542157",
-      "size": "1765376",
-      "md5": "cc9d016df624d766a2208782fc96288d",
-      "crc32": "89e81d6e",
-      "sha1": "9ecc0209e7fc7241aefd09ca81846f0f3a895904",
+      "mtime": "1665583642",
+      "size": "1777664",
+      "md5": "5b96470b99398a680f4b86a3c8676c05",
+      "crc32": "ae8345a1",
+      "sha1": "0782587a112ece40fb1c7c034d87a962c10b4c79",
       "format": "Metadata"
     },
     {
@@ -14341,9 +14402,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1386,
-  "item_last_updated": 1665542546,
-  "item_size": 81506869,
+  "files_count": 1392,
+  "item_last_updated": 1665583868,
+  "item_size": 81818814,
   "metadata": {
     "identifier": "moreperfectus-2022",
     "collection": [
@@ -14360,29 +14421,10 @@
     "publicdate": "2022-07-23 03:32:08",
     "addeddate": "2022-07-23 03:32:08"
   },
-  "pending_tasks": true,
-  "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3436436909,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3436441130,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 590978951,
+  "server": "ia801409.us.archive.org",
+  "uniq": 1846037786,
   "workable_servers": [
+    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1665542459,
+  "created": 1665583901,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/12/items/oklahomawatch-2022",
@@ -10998,31 +10998,93 @@
       "sha1": "b1aedb7bb0da753239468baf031ee2fde839d1e5"
     },
     {
+      "name": "oklahomawatch-2022-10-12T09:08:28.589038-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665583734",
+      "size": "11590",
+      "md5": "34a15e72ba1d79c23defc80979018534",
+      "crc32": "0e891660",
+      "sha1": "361136be491ef062836e3c242ef0f17afefeb104",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-12T09:08:28.589038-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665583736",
+      "size": "23883",
+      "md5": "4fe7ab2944600982d97ea5a5709f049b",
+      "crc32": "a518d1d0",
+      "sha1": "23c828f9bc80a7ed895ec3522c6f4ce33d19dbfb",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-12T09:08:28.589038-05:00.jpg",
+      "source": "original",
+      "mtime": "1665583732",
+      "size": "283726",
+      "md5": "c76d870aa82754a13bcd8aa1b7af116d",
+      "crc32": "91486625",
+      "sha1": "7e1d219e99af900e9f85f6ea8de2f9a37cb0017b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oklahomawatch-2022-10-12T09:08:28.589038-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665583738",
+      "size": "1477",
+      "md5": "170280c22b43d413c325d8e30c1c9e3e",
+      "crc32": "3aa3ed5b",
+      "sha1": "fbceffef7e3301f6603c1d25bf0bf4059407aee0",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-12T09:08:28.589038-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665583740",
+      "size": "14751",
+      "md5": "aea232bf21eb877bbb8a1c65a88b16d4",
+      "crc32": "9d9cfcf2",
+      "sha1": "f1cf7dbde17be76bd2406d5c26e263e1a0b38728",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-12T09:08:28.589038-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oklahomawatch-2022-10-12T09:08:28.589038-05:00.jpg",
+      "mtime": "1665583838",
+      "size": "10717",
+      "md5": "5e85e6ee7cfa7ee294bcc3b33020fc89",
+      "crc32": "c433bd13",
+      "sha1": "55e9fb62bf8284caaa2b2c4e8e350b68f5c1bf56"
+    },
+    {
       "name": "oklahomawatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "da631ad93b50d1ad0e686e1c4f847cfd0c74c87c",
-      "mtime": "1665542431",
-      "size": "229844",
-      "md5": "4a36cf99e7d856a04ed1e89ac32fda6e",
-      "crc32": "14003e55",
-      "sha1": "fa8c447ec676d8608c92161daeb84cab2e54f14e",
+      "btih": "a54468b6a4e0a56cda658bf52921368ceb3d28dc",
+      "mtime": "1665583884",
+      "size": "231122",
+      "md5": "241c9f4a676fffe8361d2020adbeeb5d",
+      "crc32": "6ea70086",
+      "sha1": "3d3737d252528eeb3450cddf81102a04d806f57d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oklahomawatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6b994e9e5bf66e60bf139b868280706f",
+      "md5": "14f8047b6e406b7930739619bf8bdf95",
       "summation": "md5"
     },
     {
       "name": "oklahomawatch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665542236",
-      "size": "1347584",
-      "md5": "70af5b827792be3bbe60ab25e53f4fd3",
-      "crc32": "eec8de25",
-      "sha1": "c4cd540949882adb5dcbbfd07c3d7774fe062f67",
+      "mtime": "1665583747",
+      "size": "1355776",
+      "md5": "67e05490169cbe8128aa88b94d541761",
+      "crc32": "9aafc20a",
+      "sha1": "997faabc30d90bd5a5a0cdba584d60786c1c7dbe",
       "format": "Metadata"
     },
     {
@@ -11036,9 +11098,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1065,
-  "item_last_updated": 1665542431,
-  "item_size": 66831458,
+  "files_count": 1071,
+  "item_last_updated": 1665583884,
+  "item_size": 67187072,
   "metadata": {
     "identifier": "oklahomawatch-2022",
     "collection": [
@@ -11055,10 +11117,10 @@
     "publicdate": "2022-07-09 04:01:49",
     "addeddate": "2022-07-09 04:01:49"
   },
-  "server": "ia801502.us.archive.org",
-  "uniq": 644926017,
+  "server": "ia601502.us.archive.org",
+  "uniq": 128383802,
   "workable_servers": [
-    "ia801502.us.archive.org",
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }

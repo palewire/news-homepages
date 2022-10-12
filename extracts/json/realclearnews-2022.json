@@ -1,6 +1,5 @@
 {
-  "conflict": 1665542680,
-  "created": 1665542680,
+  "created": 1665584043,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/6/items/realclearnews-2022",
@@ -7059,31 +7058,83 @@
       "sha1": "8c98e5ddbb1b496c1ea22eeedea8badb729f3b86"
     },
     {
+      "name": "realclearnews-2022-10-12T10:11:54.109770-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665583921",
+      "size": "161",
+      "md5": "b3fc1ae5b5a7028736d79c1ef50ce6eb",
+      "crc32": "837fa67e",
+      "sha1": "fc80bdf0e3eb433f99a11f1e02a7c22401d714b9",
+      "format": "JSON"
+    },
+    {
+      "name": "realclearnews-2022-10-12T10:11:54.109770-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665583923",
+      "size": "2",
+      "md5": "d751713988987e9331980363e24189ce",
+      "crc32": "0d4cbb29",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c",
+      "format": "JSON"
+    },
+    {
+      "name": "realclearnews-2022-10-12T10:11:54.109770-04:00.jpg",
+      "source": "original",
+      "mtime": "1665583919",
+      "size": "434993",
+      "md5": "39769bfbee7974dd5c470d0a13e8c1a4",
+      "crc32": "4ac6a5eb",
+      "sha1": "091877fb2f68d4860998cc056f0ae80ad843471e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "realclearnews-2022-10-12T10:11:54.109770-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665583925",
+      "size": "258",
+      "md5": "5d8a3723a42019824f978fba571deccd",
+      "crc32": "2466f9b5",
+      "sha1": "913c75d21e1ad953b3c94b19e408797d1b0946a3",
+      "format": "JSON"
+    },
+    {
+      "name": "realclearnews-2022-10-12T10:11:54.109770-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "realclearnews-2022-10-12T10:11:54.109770-04:00.jpg",
+      "mtime": "1665584008",
+      "size": "10342",
+      "md5": "b1e77da295beea0456ab15796c29f16c",
+      "crc32": "345426f7",
+      "sha1": "b79ef540768c2c9290214183bc48117242bd42ca"
+    },
+    {
       "name": "realclearnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4d38874f0c8dac6b62dd36860d2c71cdbfb28d6b",
-      "mtime": "1665542678",
-      "size": "147734",
-      "md5": "d71ceef553c27103321194190bfb12a4",
-      "crc32": "43b34f04",
-      "sha1": "fa8274965ea0633e99f2ff83d49498e327fe7991",
+      "btih": "2086c01b37e07ea12c06202520a2a24daaccd1c3",
+      "mtime": "1665584023",
+      "size": "148789",
+      "md5": "c97fb0988eb6d99b246a68dbbdbb8fe8",
+      "crc32": "9f7e0308",
+      "sha1": "d710a39d0e81673369a46781773e18b4d1793ab9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "realclearnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f441c3a0e65da0a8e095854bb4ab0bfa",
+      "md5": "ae984bbeb670fdc0874b422774c00513",
       "summation": "md5"
     },
     {
       "name": "realclearnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665542341",
-      "size": "847872",
-      "md5": "914bb74ee55fbab65dbfd53011b54231",
-      "crc32": "ffbd93d3",
-      "sha1": "69ce08d62deb6ce9e0bea054daa3b96093038e5d",
+      "mtime": "1665583930",
+      "size": "851968",
+      "md5": "efd5ee272be0e23bb53a1578c41a965b",
+      "crc32": "a78b61c6",
+      "sha1": "dc35a246f7bca8c1b79521861363ad0a3b4775b2",
       "format": "Metadata"
     },
     {
@@ -7097,9 +7148,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 682,
-  "item_last_updated": 1665542678,
-  "item_size": 77760724,
+  "files_count": 687,
+  "item_last_updated": 1665584023,
+  "item_size": 78211631,
   "metadata": {
     "identifier": "realclearnews-2022",
     "collection": [
@@ -7116,29 +7167,10 @@
     "publicdate": "2022-08-05 12:46:57",
     "addeddate": "2022-08-05 12:46:57"
   },
-  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3436438717,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3436442493,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 207319833,
+  "uniq": 1841915887,
   "workable_servers": [
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

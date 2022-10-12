@@ -1,6 +1,5 @@
 {
-  "conflict": 1665542664,
-  "created": 1665542664,
+  "created": 1665584083,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/23/items/reporternews-2022",
@@ -10245,31 +10244,93 @@
       "sha1": "ea3c61936824d04ffed1362febd6578e9af735a8"
     },
     {
+      "name": "reporternews-2022-10-12T09:11:23.056479-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665583914",
+      "size": "21244",
+      "md5": "785bd0aaf4cdaac690cf7a3a6e743c4f",
+      "crc32": "009532e8",
+      "sha1": "62468bd1566ceecf0b5cc1b6c0f19c47c4b5c61d",
+      "format": "JSON"
+    },
+    {
+      "name": "reporternews-2022-10-12T09:11:23.056479-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665583916",
+      "size": "35167",
+      "md5": "38c9afbfa0359ca7281c8940e5a9e658",
+      "crc32": "69ed4218",
+      "sha1": "25f2cf4ea959d6d95a8bd6680f55c45868923dbc",
+      "format": "JSON"
+    },
+    {
+      "name": "reporternews-2022-10-12T09:11:23.056479-05:00.jpg",
+      "source": "original",
+      "mtime": "1665583911",
+      "size": "263793",
+      "md5": "2803e01ac672540bd069f115c3ff4413",
+      "crc32": "7fa46cc2",
+      "sha1": "42fab0591273faa6be5d016f82f1689dbde15f13",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reporternews-2022-10-12T09:11:23.056479-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665583918",
+      "size": "1513",
+      "md5": "fb841d1f2e088d7f628324f582a912db",
+      "crc32": "9a19aeea",
+      "sha1": "1c44f4dfca55b1a90837d919860e7f4d2f5278d4",
+      "format": "JSON"
+    },
+    {
+      "name": "reporternews-2022-10-12T09:11:23.056479-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665583920",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "reporternews-2022-10-12T09:11:23.056479-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reporternews-2022-10-12T09:11:23.056479-05:00.jpg",
+      "mtime": "1665584043",
+      "size": "9392",
+      "md5": "917f39b3e64fbd77c76f09a802f85d14",
+      "crc32": "cc40e89a",
+      "sha1": "ee0ae7161807e809f5ddf5a8c93b64f4b3852042"
+    },
+    {
       "name": "reporternews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8d43cb6891b25d43d85eeb9d029e03ff2b1b8e06",
-      "mtime": "1665542662",
-      "size": "213309",
-      "md5": "da07807e8fd77e797fe39269aef39725",
-      "crc32": "1d693d01",
-      "sha1": "bf94d89d5dba8f49629b6c269ce2599d87925450",
+      "btih": "03c2fc44fe0f1382d114b6e24f7ee662eb8303de",
+      "mtime": "1665584055",
+      "size": "214598",
+      "md5": "1cb82adad3742a658b5cd2dc530058e8",
+      "crc32": "4de5cb38",
+      "sha1": "de2c7a6bce0c3f704af310e61002ecfc184baa5e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reporternews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7189daba00f42b0d64474f5ee924ce78",
+      "md5": "0b1bd2c8e35370b3ac00590e94539a42",
       "summation": "md5"
     },
     {
       "name": "reporternews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665542360",
-      "size": "1265664",
-      "md5": "96960b0cd3342477fad4528fc54ee6ab",
-      "crc32": "c94d6ffc",
-      "sha1": "d1f75b72037c3c6e50ac5350278ed3b04ce0c2c5",
+      "mtime": "1665583927",
+      "size": "1269760",
+      "md5": "7282adca3f623090fdd4442634ba24f3",
+      "crc32": "d976eace",
+      "sha1": "f93cc7964ade8e085d86de4c7ed9dbe81bf8888c",
       "format": "Metadata"
     },
     {
@@ -10283,9 +10344,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 993,
-  "item_last_updated": 1665542662,
-  "item_size": 65050191,
+  "files_count": 999,
+  "item_last_updated": 1665584055,
+  "item_size": 65386887,
   "metadata": {
     "identifier": "reporternews-2022",
     "collection": [
@@ -10302,21 +10363,10 @@
     "publicdate": "2022-07-18 00:05:22",
     "addeddate": "2022-07-18 00:05:22"
   },
-  "pending_tasks": true,
-  "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3436442279,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 87961050,
+  "server": "ia801500.us.archive.org",
+  "uniq": 1228931628,
   "workable_servers": [
+    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }
