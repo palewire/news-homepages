@@ -1,5 +1,6 @@
 {
-  "created": 1665523570,
+  "conflict": 1665562095,
+  "created": 1665562095,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/35/items/nytimes-2022",
@@ -52005,31 +52006,99 @@
       "format": "JSON"
     },
     {
+      "name": "nytimes-2022-10-11T17:22:28.783672-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nytimes-2022-10-11T17:22:28.783672-04:00.jpg",
+      "mtime": "1665523608",
+      "size": "10177",
+      "md5": "ea2c6ea0890df5416d458bcbaade09ee",
+      "crc32": "d6775e5c",
+      "sha1": "96460251ecd5afc0076d3f3bbe508e933fb929db"
+    },
+    {
+      "name": "nytimes-2022-10-12T04:01:56.540486-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665561764",
+      "size": "25281",
+      "md5": "cf0efa7ebb75b7797f459bbf59ef6bd4",
+      "crc32": "182d8568",
+      "sha1": "b8da8b745040a49774257f6035992cc9e90968f6",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-10-12T04:01:56.540486-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665561766",
+      "size": "27660",
+      "md5": "bd32630d0587d3f34f70a547fddd3956",
+      "crc32": "c3df1c64",
+      "sha1": "fc882bfffbaffb900ef21445f94aa7f56422a988",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-10-12T04:01:56.540486-04:00.jpg",
+      "source": "original",
+      "mtime": "1665561762",
+      "size": "359725",
+      "md5": "e019ccb9abf1b246f4438e90de5d9f3a",
+      "crc32": "df7e6ba5",
+      "sha1": "4cdd230b561e5c2e996ce80a0aa2ecf52cc4d3d1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nytimes-2022-10-12T04:01:56.540486-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665561769",
+      "size": "1468",
+      "md5": "86d6062614650f0893216314bf87dc4f",
+      "crc32": "30691f0e",
+      "sha1": "e72287ced6bb4f9473c97461c4c5289bd386fcaf",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-10-12T04:01:56.540486-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665561771",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-10-12T04:01:56.540486-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nytimes-2022-10-12T04:01:56.540486-04:00.jpg"
+    },
+    {
       "name": "nytimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9dcd81581046a274c6e99a6e070d3600ba71999e",
-      "mtime": "1665523556",
-      "size": "1045703",
-      "md5": "11f18cef478038b7bb2179544e356ef2",
-      "crc32": "445870dd",
-      "sha1": "01b9df59be31f7239e1f096936f5765ef50fa57a",
+      "btih": "0fefcdb58187729206c9478d2a051fb5e2e54af5",
+      "mtime": "1665561999",
+      "size": "1046963",
+      "md5": "1e4505f8e86e388911f11f0d97949a74",
+      "crc32": "98db8424",
+      "sha1": "75123e7ddb57aedaf266e985b380c5021133a92b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nytimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5dd5bc08469593ca87123d52ee9c8e42",
+      "md5": "8914565901b2f00d8242dd582da5f5aa",
       "summation": "md5"
     },
     {
       "name": "nytimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665523366",
-      "size": "5849088",
-      "md5": "8e9960f18769d7aafba2a03f5e738c3a",
-      "crc32": "f00720f2",
-      "sha1": "5330bdd5a4d5e4e725c2ce7072691b72a09cc05d",
+      "mtime": "1665561785",
+      "size": "5853184",
+      "md5": "9abda6e83881b214aa1f4c986acb0452",
+      "crc32": "dc0f21dc",
+      "sha1": "6d82be2d6854a4b550ba55fe7dc79f169ab49b19",
       "format": "Metadata"
     },
     {
@@ -52043,9 +52112,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 4978,
-  "item_last_updated": 1665523556,
-  "item_size": 461695426,
+  "files_count": 4985,
+  "item_last_updated": 1665561999,
+  "item_size": 462125295,
   "metadata": {
     "identifier": "nytimes-2022",
     "collection": [
@@ -52067,7 +52136,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3436195233,
+      "task_id": 3436741855,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -52075,7 +52144,7 @@
       "status": "running"
     }
   ],
-  "uniq": 968508682,
+  "uniq": 1448147322,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

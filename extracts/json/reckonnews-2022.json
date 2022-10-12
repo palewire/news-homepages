@@ -1,5 +1,5 @@
 {
-  "created": 1665477002,
+  "created": 1665562228,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/27/items/reckonnews-2022",
@@ -3602,31 +3602,155 @@
       "sha1": "b91b6d0b50749c3195964cadd2e5866d80caa50a"
     },
     {
+      "name": "reckonnews-2022-10-11T14:12:56.472269-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665515580",
+      "size": "16811",
+      "md5": "5be1f8d2e6c49721069ca07d2cc34948",
+      "crc32": "f2f25a2b",
+      "sha1": "824b173282d1f241bc5758a4e084ec07eeff3b82",
+      "format": "JSON"
+    },
+    {
+      "name": "reckonnews-2022-10-11T14:12:56.472269-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665515582",
+      "size": "9426",
+      "md5": "dd292c19fcecf17ac94d3fdfbfd7f2c6",
+      "crc32": "e06ba1b4",
+      "sha1": "97d635356d56550ff22dc42e3517c4423e22f9dd",
+      "format": "JSON"
+    },
+    {
+      "name": "reckonnews-2022-10-11T14:12:56.472269-05:00.jpg",
+      "source": "original",
+      "mtime": "1665515579",
+      "size": "259222",
+      "md5": "17e6f30c77888241a7f329d97fd0b3b4",
+      "crc32": "d4a161e5",
+      "sha1": "1bd9467cf74254b2b728c6349eca23a882e0d457",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reckonnews-2022-10-11T14:12:56.472269-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665515584",
+      "size": "1467",
+      "md5": "4823f603ca2ade181ffa13a9d2875d30",
+      "crc32": "cbe92edf",
+      "sha1": "126bb2b8773c3a20b2b17aeb41481f17ba976f2c",
+      "format": "JSON"
+    },
+    {
+      "name": "reckonnews-2022-10-11T14:12:56.472269-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665515585",
+      "size": "9117",
+      "md5": "d17437a15e5123f1855d82d0d8031656",
+      "crc32": "edf970af",
+      "sha1": "30d65d2fb906294c9f3ebcf081332ad5e9025e88",
+      "format": "JSON"
+    },
+    {
+      "name": "reckonnews-2022-10-11T14:12:56.472269-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reckonnews-2022-10-11T14:12:56.472269-05:00.jpg",
+      "mtime": "1665515646",
+      "size": "10181",
+      "md5": "626c47a540223edd4cd70e4fe5c9fd7e",
+      "crc32": "10fb9bc2",
+      "sha1": "012019b3079ee8c77c37ecba214ee35c703efb79"
+    },
+    {
+      "name": "reckonnews-2022-10-12T03:04:40.242012-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665561887",
+      "size": "16804",
+      "md5": "3ab40c6f1775cf1c198a8f143f4fad93",
+      "crc32": "55950e0c",
+      "sha1": "9264adf62408f5e12350a977e1490d10d2e3fc18",
+      "format": "JSON"
+    },
+    {
+      "name": "reckonnews-2022-10-12T03:04:40.242012-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665561888",
+      "size": "9426",
+      "md5": "dd292c19fcecf17ac94d3fdfbfd7f2c6",
+      "crc32": "e06ba1b4",
+      "sha1": "97d635356d56550ff22dc42e3517c4423e22f9dd",
+      "format": "JSON"
+    },
+    {
+      "name": "reckonnews-2022-10-12T03:04:40.242012-05:00.jpg",
+      "source": "original",
+      "mtime": "1665561885",
+      "size": "259222",
+      "md5": "17e6f30c77888241a7f329d97fd0b3b4",
+      "crc32": "d4a161e5",
+      "sha1": "1bd9467cf74254b2b728c6349eca23a882e0d457",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reckonnews-2022-10-12T03:04:40.242012-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665561890",
+      "size": "1468",
+      "md5": "7b3a205533d88cbeb5b5ac3b81b12aeb",
+      "crc32": "b2075f4b",
+      "sha1": "11a4b9f03b1ee5e0839107abc5d8851ccf307cc5",
+      "format": "JSON"
+    },
+    {
+      "name": "reckonnews-2022-10-12T03:04:40.242012-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665561892",
+      "size": "9015",
+      "md5": "8c9e0b848b8bc0b7a92f135542706079",
+      "crc32": "a5db27dc",
+      "sha1": "268ed7ded045dfa2d603faeb57140ed958b9fdd1",
+      "format": "JSON"
+    },
+    {
+      "name": "reckonnews-2022-10-12T03:04:40.242012-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reckonnews-2022-10-12T03:04:40.242012-05:00.jpg",
+      "mtime": "1665562156",
+      "size": "10181",
+      "md5": "626c47a540223edd4cd70e4fe5c9fd7e",
+      "crc32": "10fb9bc2",
+      "sha1": "012019b3079ee8c77c37ecba214ee35c703efb79"
+    },
+    {
       "name": "reckonnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "37ad34e2636045860bf16b76a2af752510dbea0f",
-      "mtime": "1665475669",
-      "size": "74984",
-      "md5": "c97391c37748a83c01652307b1d1558f",
-      "crc32": "592eb347",
-      "sha1": "6cf1bd209e6c744f7d999fec8a4c14cafd474f03",
+      "btih": "90c1ecc76d936e6b97ae8faf546ff0b2d97c1284",
+      "mtime": "1665562161",
+      "size": "77520",
+      "md5": "6725d0f28da8cba31d74af75eba0599e",
+      "crc32": "a40518fd",
+      "sha1": "501f937ad296a4abb6ab2f44e3218223d8a53091",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reckonnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "41981ec9f1710508164631775d8261e1",
+      "md5": "b4b9d7d79913d9884771943bb450e8ea",
       "summation": "md5"
     },
     {
       "name": "reckonnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665475621",
-      "size": "462848",
-      "md5": "fea3f438e90fa1e7678bbeb7482426fc",
-      "crc32": "723d5c99",
-      "sha1": "2b513addc991c1692bcb52352abb70aff44e32c0",
+      "mtime": "1665562031",
+      "size": "475136",
+      "md5": "e6edc7afced0f05a98d9a2fdfb7f570f",
+      "crc32": "10f58185",
+      "sha1": "17af95a163faaa747cbc2a059d765162ea83a976",
       "format": "Metadata"
     },
     {
@@ -3640,9 +3764,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 352,
-  "item_last_updated": 1665475669,
-  "item_size": 16573946,
+  "files_count": 364,
+  "item_last_updated": 1665562161,
+  "item_size": 17201110,
   "metadata": {
     "identifier": "reckonnews-2022",
     "collection": [
@@ -3659,13 +3783,8 @@
     "publicdate": "2022-09-12 05:05:56",
     "addeddate": "2022-09-12 05:05:56"
   },
-  "reckonnews-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "server": "ia801504.us.archive.org",
-  "uniq": 1784443926,
+  "uniq": 91917133,
   "workable_servers": [
     "ia801504.us.archive.org",
     "ia601504.us.archive.org"
