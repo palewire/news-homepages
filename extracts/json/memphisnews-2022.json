@@ -1,5 +1,5 @@
 {
-  "created": 1665556801,
+  "created": 1665595592,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/22/items/memphisnews-2022",
@@ -2734,31 +2734,93 @@
       "sha1": "ab50bb06a48a54d34a7f3a4427384d7a55dd8639"
     },
     {
+      "name": "memphisnews-2022-10-12T12:25:07.975244-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665595514",
+      "size": "22714",
+      "md5": "d3052a6dedd0c0566ae26356f000c9f9",
+      "crc32": "47cec692",
+      "sha1": "3f20f5e33e6fcdd1d8042a0e2ab6ecd01d897e46",
+      "format": "JSON"
+    },
+    {
+      "name": "memphisnews-2022-10-12T12:25:07.975244-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665595516",
+      "size": "40582",
+      "md5": "bc6c714b20c3e743491a8dbbfc71d3e6",
+      "crc32": "fb324268",
+      "sha1": "973cb25a3f717bd548615cb2212821d45147ef1f",
+      "format": "JSON"
+    },
+    {
+      "name": "memphisnews-2022-10-12T12:25:07.975244-05:00.jpg",
+      "source": "original",
+      "mtime": "1665595511",
+      "size": "251652",
+      "md5": "9ebffd7c4b6dec86ff389fcbce2ab877",
+      "crc32": "2596df94",
+      "sha1": "84fd2b2f722cf17897d599dbf2347177d5a05c64",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "memphisnews-2022-10-12T12:25:07.975244-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665595518",
+      "size": "1548",
+      "md5": "5ffd5fc4022538444d003443a01c9ee9",
+      "crc32": "11057670",
+      "sha1": "675b33ce7d3f5212ae52c1c05a1499542d5d0122",
+      "format": "JSON"
+    },
+    {
+      "name": "memphisnews-2022-10-12T12:25:07.975244-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665595520",
+      "size": "86008",
+      "md5": "d39b8853f85e830b597125d06b273f81",
+      "crc32": "d2bee290",
+      "sha1": "ca966743d05b180da680f1a70caf318380659c2b",
+      "format": "JSON"
+    },
+    {
+      "name": "memphisnews-2022-10-12T12:25:07.975244-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "memphisnews-2022-10-12T12:25:07.975244-05:00.jpg",
+      "mtime": "1665595576",
+      "size": "9313",
+      "md5": "be933ae8ef96deb69c012a910d467939",
+      "crc32": "8a531297",
+      "sha1": "8ca85c1924bec2ac6ef6c17fcf69c9c8549a5da7"
+    },
+    {
       "name": "memphisnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "536c83f9c9bb10df1a156ae69c20670be9e3a617",
-      "mtime": "1665556774",
-      "size": "57766",
-      "md5": "5fa250d9861e6e63a3389f722af0c4f9",
-      "crc32": "b4938e0f",
-      "sha1": "c04826e3a4284520ea695edf73ada54f0c1085b3",
+      "btih": "4a657a4561d6e9be9e7d3c68f218037fa5ce126b",
+      "mtime": "1665595583",
+      "size": "59051",
+      "md5": "ac3ac5707e0acf24f69899677e816bb5",
+      "crc32": "a4410746",
+      "sha1": "4f729fa3e3b66ce9a1fd58e9e34d342126c89cc0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "memphisnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "82f6d94078c47083f342989546c4d235",
+      "md5": "6fbd133ec9bfa38c7a9dcbd9704c37bd",
       "summation": "md5"
     },
     {
       "name": "memphisnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665556543",
-      "size": "356352",
-      "md5": "f51ad48b19f01c5a2a83ac13a47d3c7e",
-      "crc32": "979ca778",
-      "sha1": "a95f03fb00f40a95252c37c70e8712cecdf05219",
+      "mtime": "1665595524",
+      "size": "364544",
+      "md5": "b20a3c0b4e8ed744cf67d720d8e22925",
+      "crc32": "57972660",
+      "sha1": "0bd017f8fbc6b01b9460146cb575f583e5784d43",
       "format": "Metadata"
     },
     {
@@ -2772,9 +2834,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 268,
-  "item_last_updated": 1665556774,
-  "item_size": 17988083,
+  "files_count": 274,
+  "item_last_updated": 1665595583,
+  "item_size": 18409377,
   "metadata": {
     "identifier": "memphisnews-2022",
     "collection": [
@@ -2791,10 +2853,10 @@
     "publicdate": "2022-09-20 17:35:56",
     "addeddate": "2022-09-20 17:35:56"
   },
-  "server": "ia601406.us.archive.org",
-  "uniq": 2147410349,
+  "server": "ia801406.us.archive.org",
+  "uniq": 1005690773,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia801406.us.archive.org",
+    "ia601406.us.archive.org"
   ]
 }

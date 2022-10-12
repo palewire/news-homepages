@@ -1,5 +1,5 @@
 {
-  "created": 1665561878,
+  "created": 1665595556,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/2/items/mailandguardian-2022",
@@ -6166,31 +6166,93 @@
       "sha1": "f5a356bb390891aab2c13c061dfae93aba0c0e47"
     },
     {
+      "name": "mailandguardian-2022-10-12T19:24:15.794963+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665595462",
+      "size": "36055",
+      "md5": "d3341748c1a7c542a5d624aa8b3614e8",
+      "crc32": "1e92e74f",
+      "sha1": "6541cf24d9da56688acd9f5585315c05ef6230b7",
+      "format": "JSON"
+    },
+    {
+      "name": "mailandguardian-2022-10-12T19:24:15.794963+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665595463",
+      "size": "27380",
+      "md5": "1d312e011e4d8cb3eb23b504f40c9af5",
+      "crc32": "71c01e81",
+      "sha1": "4238d5aa6b9ffd4a83c4a14d9e96ec9abfb08538",
+      "format": "JSON"
+    },
+    {
+      "name": "mailandguardian-2022-10-12T19:24:15.794963+02:00.jpg",
+      "source": "original",
+      "mtime": "1665595460",
+      "size": "273927",
+      "md5": "59fa8891482ec1cb6080fa4284ed31fd",
+      "crc32": "bd488a52",
+      "sha1": "38aae539947e7448d1614248cbc4adc97920aeca",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mailandguardian-2022-10-12T19:24:15.794963+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665595465",
+      "size": "1402",
+      "md5": "0ab5e3ab330f23ed0764c9c0699ba14d",
+      "crc32": "03d64b4f",
+      "sha1": "690140c60adc6af3c0753c3977bf624cf0971fe0",
+      "format": "JSON"
+    },
+    {
+      "name": "mailandguardian-2022-10-12T19:24:15.794963+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665595467",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mailandguardian-2022-10-12T19:24:15.794963+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mailandguardian-2022-10-12T19:24:15.794963+02:00.jpg",
+      "mtime": "1665595532",
+      "size": "9951",
+      "md5": "3808ee8ddcaee03360e22a915817fb71",
+      "crc32": "5e435705",
+      "sha1": "03a1df0cef7b889cacd267b57d13190c25677508"
+    },
+    {
       "name": "mailandguardian-2022_archive.torrent",
       "source": "metadata",
-      "btih": "384a559a3b1797f1230ab8d0d05d528f5e385260",
-      "mtime": "1665556497",
-      "size": "130754",
-      "md5": "7e955b6920c212435b65b78837ced50d",
-      "crc32": "048ef664",
-      "sha1": "b0628d43ec95c857f8608b2494bdc7d0e139d7a2",
+      "btih": "50cd1f4c89d6bb8b59f6b3ae033b6ce776f7a2ff",
+      "mtime": "1665595544",
+      "size": "132061",
+      "md5": "b3461e6801e974be94989ea9a462ff6c",
+      "crc32": "21293a39",
+      "sha1": "2d15d729af5cf37dfc5e598e560c2b63ba14b6fc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mailandguardian-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dc194b4d0b92ad260cf8c7fc4aefec87",
+      "md5": "9fbecd8f9953e7a841fe660d5c16e87f",
       "summation": "md5"
     },
     {
       "name": "mailandguardian-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665556367",
-      "size": "782336",
-      "md5": "084dfbe2ebbd796ccb1975af204c7b66",
-      "crc32": "09facbee",
-      "sha1": "6b25eaf7003aaa2e54817c0d6fb6a725966c0181",
+      "mtime": "1665595471",
+      "size": "790528",
+      "md5": "67b75d02555b0d69e349180259aa0a14",
+      "crc32": "bc5810b7",
+      "sha1": "0abeadae4e5de77c7dd153276fa1a4591ba49639",
       "format": "Metadata"
     },
     {
@@ -6204,14 +6266,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 600,
-  "item_last_updated": 1665556497,
-  "item_size": 34477320,
-  "mailandguardian-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "files_count": 606,
+  "item_last_updated": 1665595544,
+  "item_size": 34835736,
   "metadata": {
     "identifier": "mailandguardian-2022",
     "collection": [
@@ -6229,7 +6286,7 @@
     "addeddate": "2022-08-22 22:03:42"
   },
   "server": "ia601407.us.archive.org",
-  "uniq": 159191351,
+  "uniq": 1066266715,
   "workable_servers": [
     "ia601407.us.archive.org",
     "ia801407.us.archive.org"

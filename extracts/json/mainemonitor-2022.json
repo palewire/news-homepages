@@ -1,5 +1,5 @@
 {
-  "created": 1665561881,
+  "created": 1665595539,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/19/items/mainemonitor-2022",
@@ -5772,31 +5772,93 @@
       "sha1": "54574e91239e0cf77e5ce7f54bcd9b6c5dd6e9e8"
     },
     {
+      "name": "mainemonitor-2022-10-12T13:23:59.768758-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665595448",
+      "size": "14906",
+      "md5": "5e632a061d95f720c3f5ed5db4785cad",
+      "crc32": "8de7c3e0",
+      "sha1": "4d77eea52ab4b585ffda626ea0fdfed66665d626",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-10-12T13:23:59.768758-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665595449",
+      "size": "13729",
+      "md5": "18f25a748c9edc78d36b4b010b091a74",
+      "crc32": "d16c3455",
+      "sha1": "bc6476e616cd8bce77a04035984f1b2f083d3376",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-10-12T13:23:59.768758-04:00.jpg",
+      "source": "original",
+      "mtime": "1665595441",
+      "size": "281424",
+      "md5": "93df0e68691d4bc6f8a75f6238363c78",
+      "crc32": "4f8f4ef6",
+      "sha1": "11a31bb32748af37e135575f7d082829b11dfecd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mainemonitor-2022-10-12T13:23:59.768758-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665595451",
+      "size": "1539",
+      "md5": "72af5bdc92cff82b359789d7cdd87a06",
+      "crc32": "e6712368",
+      "sha1": "8219cede61a630b57734a4515aa1446b07c19d6c",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-10-12T13:23:59.768758-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665595453",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-10-12T13:23:59.768758-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mainemonitor-2022-10-12T13:23:59.768758-04:00.jpg",
+      "mtime": "1665595525",
+      "size": "10364",
+      "md5": "4b0f091928fc2bdea41fe095ad54ea94",
+      "crc32": "851d7adf",
+      "sha1": "54574e91239e0cf77e5ce7f54bcd9b6c5dd6e9e8"
+    },
+    {
       "name": "mainemonitor-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cbf7fba8edc6d6ea0f2d895f7b9ae52bd9409733",
-      "mtime": "1665556918",
-      "size": "120827",
-      "md5": "8068a527445ab9c71c0aad9d9936f4ec",
-      "crc32": "c367b13a",
-      "sha1": "66b617b7a91ee9bfa19f6238d0a70e6c19c319cf",
+      "btih": "1b8193e1db83ff883b793e59de6cbccd4edfae60",
+      "mtime": "1665595531",
+      "size": "122097",
+      "md5": "fce063800efad7d2569493f9819736e6",
+      "crc32": "7cf04629",
+      "sha1": "210e82ea7d757b2302833d4f6100321582824060",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mainemonitor-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "da423d202463d0d7bdd3419195fe0331",
+      "md5": "f1a3df5196bcb2a2818cdc2873ecd8f2",
       "summation": "md5"
     },
     {
       "name": "mainemonitor-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665556407",
-      "size": "733184",
-      "md5": "645f8522a7b9ae26ccab92906654e33a",
-      "crc32": "5280e328",
-      "sha1": "0262826de0b20fabb3bcb0dc10ca663bea600b0f",
+      "mtime": "1665595456",
+      "size": "741376",
+      "md5": "98d2f4be1fa9b19ef636c5db94e805bd",
+      "crc32": "c202fcaf",
+      "sha1": "4e23cbd56242a3e2cd3d4fe50d06a28b74e5de93",
       "format": "Metadata"
     },
     {
@@ -5810,14 +5872,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 562,
-  "item_last_updated": 1665556918,
-  "item_size": 31066203,
-  "mainemonitor-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "files_count": 568,
+  "item_last_updated": 1665595531,
+  "item_size": 31397829,
   "metadata": {
     "identifier": "mainemonitor-2022",
     "collection": [
@@ -5834,10 +5891,10 @@
     "publicdate": "2022-08-26 15:01:20",
     "addeddate": "2022-08-26 15:01:20"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 2138867701,
+  "server": "ia601404.us.archive.org",
+  "uniq": 447853012,
   "workable_servers": [
-    "ia801404.us.archive.org",
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

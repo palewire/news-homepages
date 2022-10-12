@@ -1,5 +1,5 @@
 {
-  "created": 1665556653,
+  "created": 1665600464,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/27/items/leadertelegram-2022",
@@ -17002,31 +17002,93 @@
       "sha1": "82ae1f56b017b467ec24a18e4a28b22fb8d05876"
     },
     {
+      "name": "leadertelegram-2022-10-12T12:22:53.560616-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665595377",
+      "size": "46039",
+      "md5": "cf23361ad7b28be136788bad089ff78d",
+      "crc32": "1ea78f4a",
+      "sha1": "75bf92bd30a044d922e5ba450e5f5db914dd70d2",
+      "format": "JSON"
+    },
+    {
+      "name": "leadertelegram-2022-10-12T12:22:53.560616-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665595379",
+      "size": "70394",
+      "md5": "8bce6d00bba528f943bbe416c1016e17",
+      "crc32": "11dc8128",
+      "sha1": "8ea06e1912946da5b6120cb7e7bd380cd7f8b797",
+      "format": "JSON"
+    },
+    {
+      "name": "leadertelegram-2022-10-12T12:22:53.560616-05:00.jpg",
+      "source": "original",
+      "mtime": "1665595375",
+      "size": "267538",
+      "md5": "9f1e59a25ce1a168a5a503d272a6b2b2",
+      "crc32": "8232b8bc",
+      "sha1": "574db168ef22ecd9a3684c343d1cae4cb74c7b44",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "leadertelegram-2022-10-12T12:22:53.560616-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665595381",
+      "size": "1531",
+      "md5": "fba2a8091430b1bbfc3fd1ca0406fc53",
+      "crc32": "d61faa0d",
+      "sha1": "ef32cabd5351132670398680e17d7355eba1de5e",
+      "format": "JSON"
+    },
+    {
+      "name": "leadertelegram-2022-10-12T12:22:53.560616-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665595384",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "leadertelegram-2022-10-12T12:22:53.560616-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "leadertelegram-2022-10-12T12:22:53.560616-05:00.jpg",
+      "mtime": "1665595521",
+      "size": "9324",
+      "md5": "53e26543e613537559def9b097a37235",
+      "crc32": "c22b72e7",
+      "sha1": "273e09f4ec44deac0700d3c68a04500db00a8782"
+    },
+    {
       "name": "leadertelegram-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e4342bc14b9bd8c52971f60efd238bd69315faa5",
-      "mtime": "1665556584",
-      "size": "355401",
-      "md5": "9b4cfc91ff2017efcbb3f3b5cfda8e1d",
-      "crc32": "a3aa98d4",
-      "sha1": "74a9897e34a2068ed26700164719304a82fc778f",
+      "btih": "a6518cbe3e10db4b0fe6d97d530a9052f50677ef",
+      "mtime": "1665595547",
+      "size": "356702",
+      "md5": "4ad01cff643a3cfe697d54b465c991ed",
+      "crc32": "c0e04cf2",
+      "sha1": "8e2225a53c5a7072e2fd0e8f76995ac925696129",
       "format": "Archive BitTorrent"
     },
     {
       "name": "leadertelegram-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8dc66b4204df669e2430402fa2d8e935",
+      "md5": "1a13c0266089b176e7215f1430f87708",
       "summation": "md5"
     },
     {
       "name": "leadertelegram-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665556388",
-      "size": "1998848",
-      "md5": "bd6d928239039f057a0be0e4c360f19a",
-      "crc32": "d9785f36",
-      "sha1": "81460e3b18ee0311e46f5d88d2d7af1902cbb0e8",
+      "mtime": "1665595391",
+      "size": "2007040",
+      "md5": "583363602ffb8a2ddbf4c9bb982e2767",
+      "crc32": "43bf0022",
+      "sha1": "d11f46f2b830bb322a59d53bb18af9aa052e34fd",
       "format": "Metadata"
     },
     {
@@ -17040,9 +17102,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1636,
-  "item_last_updated": 1665556584,
-  "item_size": 143353800,
+  "files_count": 1642,
+  "item_last_updated": 1665595547,
+  "item_size": 143758321,
   "metadata": {
     "identifier": "leadertelegram-2022",
     "collection": [
@@ -17059,10 +17121,10 @@
     "publicdate": "2022-03-23 23:07:05",
     "addeddate": "2022-03-23 23:07:05"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 571773901,
+  "server": "ia801409.us.archive.org",
+  "uniq": 1790238344,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }

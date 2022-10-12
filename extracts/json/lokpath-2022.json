@@ -1,5 +1,5 @@
 {
-  "created": 1665561860,
+  "created": 1665600826,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/23/items/lokpath-2022",
@@ -9552,31 +9552,93 @@
       "sha1": "a45ca1d2e06ce3eb73acff0dcbdf56f27a2f5a85"
     },
     {
+      "name": "lokpath-2022-10-12T23:08:35.829013+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1665595426",
+      "size": "57417",
+      "md5": "3a533d63f2fc52ac788064374e119eb4",
+      "crc32": "5289c686",
+      "sha1": "f72800af6a941fb1d94a40d0abd2ac24a387541f",
+      "format": "JSON"
+    },
+    {
+      "name": "lokpath-2022-10-12T23:08:35.829013+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665595428",
+      "size": "46509",
+      "md5": "2af2caf8a2d9a6728bec3ef876dd58f2",
+      "crc32": "d2a9d532",
+      "sha1": "494333acd601f97255c73fbd09c5d5d30a3a4ced",
+      "format": "JSON"
+    },
+    {
+      "name": "lokpath-2022-10-12T23:08:35.829013+05:45.jpg",
+      "source": "original",
+      "mtime": "1665595424",
+      "size": "243631",
+      "md5": "3f8a88b987774a63020d98ac4a3fd4f3",
+      "crc32": "7981fdac",
+      "sha1": "1734dde791b69c3eecbb457626cca93d08021965",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lokpath-2022-10-12T23:08:35.829013+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1665595430",
+      "size": "1466",
+      "md5": "f799fdcadd08b4719a797aa0155ae28b",
+      "crc32": "3f1223db",
+      "sha1": "45ecb02d61278025130c8a10289c8d5d580afbcb",
+      "format": "JSON"
+    },
+    {
+      "name": "lokpath-2022-10-12T23:08:35.829013+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1665595433",
+      "size": "249",
+      "md5": "3a27fff947069fcf43f3521ae30ee8cc",
+      "crc32": "189be489",
+      "sha1": "396a18e991297bc9677ad583c9c3573f55a4bd80",
+      "format": "JSON"
+    },
+    {
+      "name": "lokpath-2022-10-12T23:08:35.829013+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lokpath-2022-10-12T23:08:35.829013+05:45.jpg",
+      "mtime": "1665595488",
+      "size": "10349",
+      "md5": "c24f29c9a6ebb1502055edef38f32717",
+      "crc32": "97f47dca",
+      "sha1": "1473a8c6bd0a0d312e3b1e5326da2caa02210efe"
+    },
+    {
       "name": "lokpath-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c6b4524b94914f8f4875c663399ffd9f94d3db95",
-      "mtime": "1665556715",
-      "size": "194481",
-      "md5": "44d5d0b36e52a1bc014a8697a6b7d300",
-      "crc32": "1fda4f50",
-      "sha1": "0997755b80e08e2c304ffd626a1c3caa2ce05cfe",
+      "btih": "0ef2afaabdfd8f89eed344203145509e21c81cd1",
+      "mtime": "1665595498",
+      "size": "195741",
+      "md5": "33805ae29f7fdd56810f54432afc445a",
+      "crc32": "bdd51c9c",
+      "sha1": "fda9f07b78a46f25b9d123c7e0a8e045783d0331",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lokpath-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f57061610ccd165cb70808f9cc2310f2",
+      "md5": "8aefa7fff1a9e6ddb8ae4ba04e1bf1f7",
       "summation": "md5"
     },
     {
       "name": "lokpath-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665556378",
-      "size": "1179648",
-      "md5": "4bb6c69798f5e44fb62ede27332aa1cc",
-      "crc32": "375a5f14",
-      "sha1": "131785380f2d4a9448a296e9714acf44228b208c",
+      "mtime": "1665595435",
+      "size": "1187840",
+      "md5": "2b553393532b23c1c345763ca91c29b6",
+      "crc32": "2e8ba05e",
+      "sha1": "6aadf02348809721c82c97b81fa23bbeb65e3f41",
       "format": "Metadata"
     },
     {
@@ -9590,13 +9652,16 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 927,
-  "item_last_updated": 1665556715,
-  "item_size": 58242049,
+  "files_count": 933,
+  "item_last_updated": 1665595498,
+  "item_size": 58611122,
   "lokpath-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "url": "https://www.lokpath.com/",
+    "job_id": "spn2-5d88958c59d7e3c144ddd1189f7b4e17fecdadd5",
+    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 1010.",
+    "resources": [],
     "status": "error",
-    "status_ext": "error:user-session-limit"
+    "status_ext": "WorkerLostError"
   },
   "metadata": {
     "identifier": "lokpath-2022",
@@ -9615,7 +9680,7 @@
     "addeddate": "2022-07-24 20:38:13"
   },
   "server": "ia902502.us.archive.org",
-  "uniq": 36776621,
+  "uniq": 2015922389,
   "workable_servers": [
     "ia902502.us.archive.org",
     "ia802502.us.archive.org"

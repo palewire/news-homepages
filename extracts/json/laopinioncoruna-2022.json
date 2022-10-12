@@ -1,5 +1,5 @@
 {
-  "created": 1665561815,
+  "created": 1665595552,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/24/items/laopinioncoruna-2022",
@@ -9354,31 +9354,93 @@
       "sha1": "977287e8882147db0fa46f24c0c0e75a7413868b"
     },
     {
+      "name": "laopinioncoruna-2022-10-12T19:23:21.714682+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665595424",
+      "size": "84685",
+      "md5": "a2f2855482412c2e4715f6bdc21e1e6d",
+      "crc32": "72f63889",
+      "sha1": "01421fb38ec141c7a62a4e82efc394f92ee2c919",
+      "format": "JSON"
+    },
+    {
+      "name": "laopinioncoruna-2022-10-12T19:23:21.714682+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665595426",
+      "size": "140752",
+      "md5": "89474f28700c1d636733161910f2755b",
+      "crc32": "aa3fb3e2",
+      "sha1": "efe74babe4f80c32990b716c48eb8c11584176b9",
+      "format": "JSON"
+    },
+    {
+      "name": "laopinioncoruna-2022-10-12T19:23:21.714682+02:00.jpg",
+      "source": "original",
+      "mtime": "1665595423",
+      "size": "278989",
+      "md5": "b37e647fcb4f9b565b6a88b127499f31",
+      "crc32": "df5842e0",
+      "sha1": "0c5d4e108a8c5e1c92349c19ee455e16fc18a4c2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "laopinioncoruna-2022-10-12T19:23:21.714682+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665595428",
+      "size": "1531",
+      "md5": "d1ca883fef71b112872e89176067bb41",
+      "crc32": "4df8e39a",
+      "sha1": "a81d00f14563c99466e30d926ac23dbe46f8df34",
+      "format": "JSON"
+    },
+    {
+      "name": "laopinioncoruna-2022-10-12T19:23:21.714682+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665595430",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "laopinioncoruna-2022-10-12T19:23:21.714682+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "laopinioncoruna-2022-10-12T19:23:21.714682+02:00.jpg",
+      "mtime": "1665595522",
+      "size": "10109",
+      "md5": "c9b6143c81a2eb7a35506250808bb3b4",
+      "crc32": "98a1f970",
+      "sha1": "5fb4a9d15de0ac5f45eb7c29683b6f406c580b0f"
+    },
+    {
       "name": "laopinioncoruna-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6f8fcc98104b39a89c0454dfc357fc9f9b093746",
-      "mtime": "1665556596",
-      "size": "198901",
-      "md5": "f00ea7108170c504bf51c9278a0b917e",
-      "crc32": "44b1ce05",
-      "sha1": "8ee6f0710f63291a1a483f6fe0458f629b8e3535",
+      "btih": "04a412ec069b1be71df07b1b65d52218ac077288",
+      "mtime": "1665595532",
+      "size": "200210",
+      "md5": "841be6e75d2a21c20e3947b058e8051b",
+      "crc32": "db1ae358",
+      "sha1": "5197fd04c88f785d7916712dff16f5f43fa5fcd6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "laopinioncoruna-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "448b597f0ad69d5b9ff7945ee0e16ed6",
+      "md5": "90a6828e7b5dbc88fdfb76634d6fd0f3",
       "summation": "md5"
     },
     {
       "name": "laopinioncoruna-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665556391",
-      "size": "1167360",
-      "md5": "2c04237823fa8ec42cff27e2947f89ef",
-      "crc32": "a3d0145b",
-      "sha1": "36d181d4d066753c744d88478a55b97158b0d759",
+      "mtime": "1665595446",
+      "size": "1179648",
+      "md5": "7117a47184c70d5e76ebf37c15da4313",
+      "crc32": "59fde0a8",
+      "sha1": "37108181793e466dbf22708a4533aa49eb76a18a",
       "format": "Metadata"
     },
     {
@@ -9392,17 +9454,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 908,
-  "item_last_updated": 1665556596,
-  "item_size": 82217317,
-  "laopinioncoruna-2022": {
-    "url": "https://www.laopinioncoruna.es/",
-    "job_id": "spn2-b4d9ed93498faaca9c3fca00e6a2b8748964627a",
-    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 998.",
-    "resources": [],
-    "status": "error",
-    "status_ext": "WorkerLostError"
-  },
+  "files_count": 914,
+  "item_last_updated": 1665595532,
+  "item_size": 82747182,
   "metadata": {
     "identifier": "laopinioncoruna-2022",
     "collection": [
@@ -9420,7 +9474,7 @@
     "addeddate": "2022-07-26 14:39:41"
   },
   "server": "ia601401.us.archive.org",
-  "uniq": 458476114,
+  "uniq": 1667484114,
   "workable_servers": [
     "ia601401.us.archive.org",
     "ia801401.us.archive.org"

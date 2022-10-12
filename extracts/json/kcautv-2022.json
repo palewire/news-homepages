@@ -1,5 +1,5 @@
 {
-  "created": 1665590379,
+  "created": 1665600648,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/5/items/kcautv-2022",
@@ -19136,31 +19136,93 @@
       "sha1": "d5b16b4189698ccddf4ea6f10a127b1254f510a8"
     },
     {
+      "name": "kcautv-2022-10-12T12:21:29.843544-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665595293",
+      "size": "53782",
+      "md5": "49e3ee6712c5d32650346f3c02e57f14",
+      "crc32": "d35a29f6",
+      "sha1": "0f1dd699b6063ab85ec408b279c767bf9ce86252",
+      "format": "JSON"
+    },
+    {
+      "name": "kcautv-2022-10-12T12:21:29.843544-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665595295",
+      "size": "104830",
+      "md5": "1efbfe214f3953389f20f637678a6d52",
+      "crc32": "a4a4b4dc",
+      "sha1": "ba5ccd1353fa408ce775cf24d5dff3bdfad44ed1",
+      "format": "JSON"
+    },
+    {
+      "name": "kcautv-2022-10-12T12:21:29.843544-05:00.jpg",
+      "source": "original",
+      "mtime": "1665595291",
+      "size": "298299",
+      "md5": "4aa8683a5fe58af8e34ee746551e194b",
+      "crc32": "a7dda8a1",
+      "sha1": "4907a062814b7e6c29f20aa081372675968b4743",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcautv-2022-10-12T12:21:29.843544-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665595297",
+      "size": "1531",
+      "md5": "e35f73c083219319d0d11fc0464b106f",
+      "crc32": "c21729e6",
+      "sha1": "5eee226b0421327ed14906fbcaea3e4545009bc4",
+      "format": "JSON"
+    },
+    {
+      "name": "kcautv-2022-10-12T12:21:29.843544-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665595299",
+      "size": "256",
+      "md5": "fa5b3bdee5b5b040260498ba62389fa0",
+      "crc32": "f6526f7c",
+      "sha1": "b0b69f815363137390109c21c3d485bf2ca41536",
+      "format": "JSON"
+    },
+    {
+      "name": "kcautv-2022-10-12T12:21:29.843544-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcautv-2022-10-12T12:21:29.843544-05:00.jpg",
+      "mtime": "1665595449",
+      "size": "10581",
+      "md5": "d7aad6c1a90c50410af23687f0fbced9",
+      "crc32": "1cfcae46",
+      "sha1": "1cc52c2b40f04646cdd3c77e78c5594784b5c506"
+    },
+    {
       "name": "kcautv-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cdd3ee1ff79236da3075152578fd889f68b4a591",
-      "mtime": "1665590363",
-      "size": "386310",
-      "md5": "02e2b4152f81734dc57e35ee311ad51f",
-      "crc32": "f833b404",
-      "sha1": "88eee5b80f1fe72eba2e75df296d52d8f817d6b8",
+      "btih": "e86eb42ad4be8e8819a4c077ed03ba85a92f79c4",
+      "mtime": "1665595480",
+      "size": "387565",
+      "md5": "fb472f7f86e2103b30d86f8b6a111be3",
+      "crc32": "4834f4d4",
+      "sha1": "88ed78a1c6c2069b006b62814c47f51872623186",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kcautv-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dc93e63ed2d0cf873d6c9467995e1b1f",
+      "md5": "7e5e5671b2a9f73c0d62700134e39fa1",
       "summation": "md5"
     },
     {
       "name": "kcautv-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665590213",
-      "size": "2228224",
-      "md5": "e8cb29c24085920c9155fed4d4bb8603",
-      "crc32": "6b47a6aa",
-      "sha1": "4a203191cb1501e81938c81a43a308748374da68",
+      "mtime": "1665595312",
+      "size": "2236416",
+      "md5": "4bd10f1de23d0f989d1a874932aac342",
+      "crc32": "c22423bc",
+      "sha1": "3aca54ccc39ac5ac593135cdb3b91304465e433e",
       "format": "Metadata"
     },
     {
@@ -19174,9 +19236,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1842,
-  "item_last_updated": 1665590363,
-  "item_size": 178053650,
+  "files_count": 1848,
+  "item_last_updated": 1665595480,
+  "item_size": 178532376,
+  "kcautv-2022": {
+    "url": "https://www.siouxlandproud.com/",
+    "job_id": "spn2-e531a0723dfc42f6b4cd2bde705ad78c26454b5c",
+    "status": "error",
+    "status_ext": "WorkerLostError",
+    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 1006.",
+    "resources": []
+  },
   "metadata": {
     "identifier": "kcautv-2022",
     "collection": [
@@ -19193,10 +19263,10 @@
     "publicdate": "2022-03-25 14:09:11",
     "addeddate": "2022-03-25 14:09:11"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 576313548,
+  "server": "ia801501.us.archive.org",
+  "uniq": 270786932,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }

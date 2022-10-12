@@ -1,5 +1,5 @@
 {
-  "created": 1665561781,
+  "created": 1665595476,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/5/items/kcrw-2022",
@@ -14642,31 +14642,93 @@
       "sha1": "29c1704d3295201f24e3ea2de7b537bd31e9ac9d"
     },
     {
+      "name": "kcrw-2022-10-12T10:21:53.234981-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665595318",
+      "size": "53337",
+      "md5": "8a1d1bc1a71b372305a625e8f1dd9cff",
+      "crc32": "c35ca6a7",
+      "sha1": "516e3f0891c742eaaac8fb8d7ba000658bf38be4",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrw-2022-10-12T10:21:53.234981-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665595321",
+      "size": "28152",
+      "md5": "4e16712f49f35f431db31af98f0f485f",
+      "crc32": "6633dd1a",
+      "sha1": "bb482bc079ee81645222f910d85d8d821ce6a02a",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrw-2022-10-12T10:21:53.234981-07:00.jpg",
+      "source": "original",
+      "mtime": "1665595315",
+      "size": "253431",
+      "md5": "67be2954f1a8ec5c6899b79daaba8c25",
+      "crc32": "6a37e020",
+      "sha1": "ce424312c95c787440018f98d5c2eec6d782f2c4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcrw-2022-10-12T10:21:53.234981-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665595323",
+      "size": "1440",
+      "md5": "6d0cb6cf88f36e9e382b534fa66616e2",
+      "crc32": "47687951",
+      "sha1": "bf6e0f1d4974cf5bfae90c133571cc842a8f6074",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrw-2022-10-12T10:21:53.234981-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665595325",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrw-2022-10-12T10:21:53.234981-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcrw-2022-10-12T10:21:53.234981-07:00.jpg",
+      "mtime": "1665595415",
+      "size": "10046",
+      "md5": "31bad9685d82d87ad4ac4711aaf2cac2",
+      "crc32": "b8fbfd6d",
+      "sha1": "fcf20e1d8a8f0f0dd684130d78f9d3c508409076"
+    },
+    {
       "name": "kcrw-2022_archive.torrent",
       "source": "metadata",
-      "btih": "51cce19b2165489144d731e6756a5272f5bb1c23",
-      "mtime": "1665556402",
-      "size": "292839",
-      "md5": "5a60cd4eab75090183a3334921aff9c2",
-      "crc32": "c9642030",
-      "sha1": "73830c244ff2160b0c1f72c7d2b0a620203d0b94",
+      "btih": "c9a79d2345f66205c2735f3f12e40767949391c3",
+      "mtime": "1665595441",
+      "size": "294081",
+      "md5": "c10b98101deac63791f426b4279f61b6",
+      "crc32": "0ca0bb3e",
+      "sha1": "373732897fee260c95bb56ea0d5dc6759da1590f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kcrw-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "80f85013a3d900edcbb6893717aff0c4",
+      "md5": "e774bcc2b92754d5dd4260b97d55b106",
       "summation": "md5"
     },
     {
       "name": "kcrw-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665556149",
-      "size": "1777664",
-      "md5": "bc9843e4e25510d24f936cce2ed27400",
-      "crc32": "3fe5724d",
-      "sha1": "e60d3f5245fbd25ab59447c78f5c2c5cbaa5c69f",
+      "mtime": "1665595330",
+      "size": "1781760",
+      "md5": "3a2f1273c50e4c455e5f3dc64c05c922",
+      "crc32": "b15bce6f",
+      "sha1": "5d690179446ae15575302987ae55815ef518e85c",
       "format": "Metadata"
     },
     {
@@ -14680,13 +14742,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1418,
-  "item_last_updated": 1665556402,
-  "item_size": 87845859,
-  "kcrw-2022": {
-    "url": "https://www.kcrw.com/",
-    "job_id": "spn2-664be1d54fcfb1c23a79a1d5355ecea255e55840"
-  },
+  "files_count": 1424,
+  "item_last_updated": 1665595441,
+  "item_size": 88197805,
   "metadata": {
     "identifier": "kcrw-2022",
     "collection": [
@@ -14703,10 +14761,10 @@
     "publicdate": "2022-07-18 02:24:29",
     "addeddate": "2022-07-18 02:24:29"
   },
-  "server": "ia801509.us.archive.org",
-  "uniq": 1891933022,
+  "server": "ia601509.us.archive.org",
+  "uniq": 719866394,
   "workable_servers": [
-    "ia801509.us.archive.org",
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }
