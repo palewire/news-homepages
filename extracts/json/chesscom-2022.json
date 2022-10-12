@@ -1,10 +1,5 @@
 {
-  "chesscom-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1665510682,
+  "created": 1665556100,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/11/items/chesscom-2022",
@@ -10099,31 +10094,93 @@
       "sha1": "62f6d159c2ceda887c7a4b2fc5452ee2ef70d501"
     },
     {
+      "name": "chesscom-2022-10-11T23:22:41.310556-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665555770",
+      "size": "26337",
+      "md5": "b4481275529f0e803a909539223e571f",
+      "crc32": "5c4d0851",
+      "sha1": "c0293fb8e7b804921b92027a033f59abc242566a",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-11T23:22:41.310556-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665555772",
+      "size": "17375",
+      "md5": "ca4f96d628e38e7d9b8e045f45cbb278",
+      "crc32": "e03b49b6",
+      "sha1": "e155242c3654fffd042252460bae831c32bd471b",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-11T23:22:41.310556-07:00.jpg",
+      "source": "original",
+      "mtime": "1665555768",
+      "size": "239003",
+      "md5": "33462f286dc20b214b5eaf7ca343ec5f",
+      "crc32": "f5d2144b",
+      "sha1": "200294f71f0a19f3eb1a4d77116e9c10bc935f30",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesscom-2022-10-11T23:22:41.310556-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665555775",
+      "size": "1486",
+      "md5": "aaf52e1711697ccd64f4126a47e789e1",
+      "crc32": "ec9f41a9",
+      "sha1": "1b3ed5101681f8377f22bab589d66150f852e23b",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-11T23:22:41.310556-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665555778",
+      "size": "102",
+      "md5": "74f05659c4357cf1378545d02db7cc9e",
+      "crc32": "5f521c96",
+      "sha1": "24c93b22b0d7a3e83408ace09d401627a8337dad",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-11T23:22:41.310556-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesscom-2022-10-11T23:22:41.310556-07:00.jpg",
+      "mtime": "1665555983",
+      "size": "9727",
+      "md5": "2fa3f19e9ad0aa573290f134c38b2bda",
+      "crc32": "21f5fc60",
+      "sha1": "a2714a01c9e5560f9bb576ecf821a0692f5738ac"
+    },
+    {
       "name": "chesscom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c8c5acb034ecb593b8ce74ccb87f6ce82dd8b6fb",
-      "mtime": "1665505532",
-      "size": "205945",
-      "md5": "6ed42a6e3d7eadddbafa4c848fe1fea0",
-      "crc32": "115f828f",
-      "sha1": "3614cd886624309b39c37775cbd632461d4c10fd",
+      "btih": "9f6e391664f176a937be016463fc528c9eab18a9",
+      "mtime": "1665556037",
+      "size": "207210",
+      "md5": "bdef4140595177ad5d52e011a7313a03",
+      "crc32": "bf3bdec7",
+      "sha1": "a0f9119df83cff6296013d2247c8789b85412ff1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chesscom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "87e81c2510985a6138ee02f31eee1ac8",
+      "md5": "4a18b7aed11feab09d4ce651eea110ba",
       "summation": "md5"
     },
     {
       "name": "chesscom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665505454",
-      "size": "1245184",
-      "md5": "d966485531f0212a1cfbfc9f231679b5",
-      "crc32": "dc982aef",
-      "sha1": "a213f0108bbdf069471d3451ff2bc8b36f0e52a8",
+      "mtime": "1665555789",
+      "size": "1249280",
+      "md5": "89dd41ef43ad27cfc4dc2d3c4c7fc088",
+      "crc32": "bc91414c",
+      "sha1": "098c77f6d8a81cde1cb518789cfaa6cf733a10a3",
       "format": "Metadata"
     },
     {
@@ -10137,9 +10194,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 979,
-  "item_last_updated": 1665505532,
-  "item_size": 52582345,
+  "files_count": 985,
+  "item_last_updated": 1665556037,
+  "item_size": 52881736,
   "metadata": {
     "identifier": "chesscom-2022",
     "collection": [
@@ -10157,7 +10214,7 @@
     "addeddate": "2022-07-20 11:23:26"
   },
   "server": "ia802507.us.archive.org",
-  "uniq": 1709479655,
+  "uniq": 888153534,
   "workable_servers": [
     "ia802507.us.archive.org",
     "ia902507.us.archive.org"
