@@ -1,5 +1,5 @@
 {
-  "created": 1665501083,
+  "created": 1665542707,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/18/items/ruidosonews-2022",
@@ -2620,31 +2620,83 @@
       "sha1": "94f122fddaae0d93ea733c3f0aff1e4c5ea84e44"
     },
     {
+      "name": "ruidosonews-2022-10-11T20:39:32.159227-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665542377",
+      "size": "20386",
+      "md5": "8d208e03c3b8cc2e7ec0dd5d98f9661f",
+      "crc32": "fb6b0fb9",
+      "sha1": "b8e193bd8896a4042356c69ec117149fd639cf3d",
+      "format": "JSON"
+    },
+    {
+      "name": "ruidosonews-2022-10-11T20:39:32.159227-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665542379",
+      "size": "33272",
+      "md5": "f252ea9c348773ec0f386efa204b3af7",
+      "crc32": "e8e37d3a",
+      "sha1": "d832c37d2777c8fa3800ca8e312ecfe626f27279",
+      "format": "JSON"
+    },
+    {
+      "name": "ruidosonews-2022-10-11T20:39:32.159227-06:00.jpg",
+      "source": "original",
+      "mtime": "1665542376",
+      "size": "227800",
+      "md5": "782d66367761864d3dbf7591dcf5fc3a",
+      "crc32": "e84e16f5",
+      "sha1": "ada914aa9c652a04755bc71ee69d6af463f9ef43",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ruidosonews-2022-10-11T20:39:32.159227-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665542381",
+      "size": "1504",
+      "md5": "3d779f4c46b5fcd97c10774115890970",
+      "crc32": "5cc05e5e",
+      "sha1": "9df69d9d93d24b1c03017afdac7bab90570abd25",
+      "format": "JSON"
+    },
+    {
+      "name": "ruidosonews-2022-10-11T20:39:32.159227-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ruidosonews-2022-10-11T20:39:32.159227-06:00.jpg",
+      "mtime": "1665542641",
+      "size": "8925",
+      "md5": "e8785373c5ebb788e3edbc8f7c95f5d1",
+      "crc32": "15fe48c2",
+      "sha1": "eb349fa24a5136a211c880dc586f73ebfe99fc1a"
+    },
+    {
       "name": "ruidosonews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f0914b01c87d72d3f9b68e039ac499ec12717c52",
-      "mtime": "1665501073",
-      "size": "55303",
-      "md5": "f6693b7247544fc2049cf0950367131c",
-      "crc32": "2f462692",
-      "sha1": "c5b75d643ac4e9390fd9250d2e7a19cd936890b5",
+      "btih": "15856c9f98aa724a2854f1784f3d6e1dab5e40d6",
+      "mtime": "1665542646",
+      "size": "56377",
+      "md5": "5c5e99db2fa18507b642d656cee639a5",
+      "crc32": "468716fb",
+      "sha1": "84eb79b8e680de9534c905c9bfb74812097bc208",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ruidosonews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d661edabf702d41165e095f7d85ad6db",
+      "md5": "83647749b671bf0615a43fac20e00785",
       "summation": "md5"
     },
     {
       "name": "ruidosonews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665501017",
-      "size": "344064",
-      "md5": "4783d5a739f699d2fac3c6f94355af1c",
-      "crc32": "44d64f06",
-      "sha1": "cb10369227d97066111fc5269f0236646ac360bc",
+      "mtime": "1665542386",
+      "size": "352256",
+      "md5": "0f760dfca1a36dfc9a7f3a146edd9907",
+      "crc32": "cf69bea5",
+      "sha1": "1224b4f87f176e72b7164beb0d63ffb1372ff067",
       "format": "Metadata"
     },
     {
@@ -2658,9 +2710,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 257,
-  "item_last_updated": 1665501073,
-  "item_size": 15000310,
+  "files_count": 262,
+  "item_last_updated": 1665542646,
+  "item_size": 15301463,
   "metadata": {
     "identifier": "ruidosonews-2022",
     "collection": [
@@ -2677,10 +2729,10 @@
     "publicdate": "2022-09-21 02:24:31",
     "addeddate": "2022-09-21 02:24:31"
   },
-  "server": "ia801402.us.archive.org",
-  "uniq": 574853888,
+  "server": "ia601402.us.archive.org",
+  "uniq": 1384407320,
   "workable_servers": [
-    "ia801402.us.archive.org",
-    "ia601402.us.archive.org"
+    "ia601402.us.archive.org",
+    "ia801402.us.archive.org"
   ]
 }
