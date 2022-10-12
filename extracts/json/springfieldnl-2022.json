@@ -1,5 +1,5 @@
 {
-  "created": 1665475829,
+  "created": 1665600564,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/23/items/springfieldnl-2022",
@@ -2620,31 +2620,217 @@
       "sha1": "8e76fe68381b031e3bcdbb300d46a63eedaee08e"
     },
     {
+      "name": "springfieldnl-2022-10-11T14:16:33.676632-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665515798",
+      "size": "18671",
+      "md5": "541cedc54436712797b52346bcefc4ca",
+      "crc32": "2092c9df",
+      "sha1": "9dc1eebef4dc1e7657c1c98eb5e6bc4131329d81",
+      "format": "JSON"
+    },
+    {
+      "name": "springfieldnl-2022-10-11T14:16:33.676632-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665515800",
+      "size": "29203",
+      "md5": "4a9051e97bfefdb666b4ae99e256a776",
+      "crc32": "de8679ec",
+      "sha1": "58ca6d4ab00d6fbf801553e8b987314cc1a52818",
+      "format": "JSON"
+    },
+    {
+      "name": "springfieldnl-2022-10-11T14:16:33.676632-05:00.jpg",
+      "source": "original",
+      "mtime": "1665515796",
+      "size": "229359",
+      "md5": "4cd28c3f60eba860d9140345d68ab949",
+      "crc32": "11dcdfb7",
+      "sha1": "9bcdfd5924754064c8740d586207909afaae442c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "springfieldnl-2022-10-11T14:16:33.676632-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665515803",
+      "size": "1503",
+      "md5": "9a5ee79b337fc28f42d68fa94cc540cc",
+      "crc32": "ae8abb53",
+      "sha1": "44b16f49230ab561c064aa6dda44a74fadca693c",
+      "format": "JSON"
+    },
+    {
+      "name": "springfieldnl-2022-10-11T14:16:33.676632-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665515804",
+      "size": "81974",
+      "md5": "df3809797426056405df82b348e96b5f",
+      "crc32": "ad09dbcb",
+      "sha1": "8ab9438eb602e06737a980a112aeff17839a86e0",
+      "format": "JSON"
+    },
+    {
+      "name": "springfieldnl-2022-10-11T14:16:33.676632-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "springfieldnl-2022-10-11T14:16:33.676632-05:00.jpg",
+      "mtime": "1665515860",
+      "size": "8818",
+      "md5": "eb8ddd28614cce0e28cfe09f14bfdbbd",
+      "crc32": "0836c7d8",
+      "sha1": "d93f68c0e03fb1864e4fb0e21fec24063309a34f"
+    },
+    {
+      "name": "springfieldnl-2022-10-12T03:06:42.818726-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665562006",
+      "size": "18703",
+      "md5": "f91e72e54d4956ed551f0354661d2a83",
+      "crc32": "0983302f",
+      "sha1": "f890f6ab9ef37a99fa92e6bd161f5e3ee3b2d3bd",
+      "format": "JSON"
+    },
+    {
+      "name": "springfieldnl-2022-10-12T03:06:42.818726-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665562008",
+      "size": "29813",
+      "md5": "6337c524533cc12df43c8aa8f1ddf24f",
+      "crc32": "2050d2b0",
+      "sha1": "19c0173e3faf02818ae46487c232e7266563e7d8",
+      "format": "JSON"
+    },
+    {
+      "name": "springfieldnl-2022-10-12T03:06:42.818726-05:00.jpg",
+      "source": "original",
+      "mtime": "1665562005",
+      "size": "272036",
+      "md5": "36fd59fdb664bc0f2be719b32a878831",
+      "crc32": "87227116",
+      "sha1": "20987a4230244decb477311ad319dc39fba1f056",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "springfieldnl-2022-10-12T03:06:42.818726-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665562010",
+      "size": "1504",
+      "md5": "e68c8d10d5082186901e99e077db6832",
+      "crc32": "efb2f575",
+      "sha1": "8438a804849285f96ce7abe8c866b9624648948e",
+      "format": "JSON"
+    },
+    {
+      "name": "springfieldnl-2022-10-12T03:06:42.818726-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665562011",
+      "size": "235",
+      "md5": "6918c66c788bf5d03637bb685aa4c46b",
+      "crc32": "0393cc72",
+      "sha1": "cdb36b752c35194aded544232bd5a9a3a39f1c9d",
+      "format": "JSON"
+    },
+    {
+      "name": "springfieldnl-2022-10-12T03:06:42.818726-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "springfieldnl-2022-10-12T03:06:42.818726-05:00.jpg",
+      "mtime": "1665562100",
+      "size": "9141",
+      "md5": "00f20da68f2362d3c3c48547734ffe34",
+      "crc32": "7b5a417f",
+      "sha1": "026aa98b19790b3c4ca96ea06dc781d9329013bf"
+    },
+    {
+      "name": "springfieldnl-2022-10-12T13:46:55.854900-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665600420",
+      "size": "19380",
+      "md5": "11d3dc4e9774e0fde0075978ab435b03",
+      "crc32": "3d9dc9d9",
+      "sha1": "f03d8d83a2a2993ba10979506baf80f5db6982e9",
+      "format": "JSON"
+    },
+    {
+      "name": "springfieldnl-2022-10-12T13:46:55.854900-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665600422",
+      "size": "29720",
+      "md5": "a08149888d2ab4d1630a28ac2906fb3a",
+      "crc32": "2fdb1333",
+      "sha1": "4e3b409cb7ffb214e7c4973a84c52ed3f3173dd3",
+      "format": "JSON"
+    },
+    {
+      "name": "springfieldnl-2022-10-12T13:46:55.854900-05:00.jpg",
+      "source": "original",
+      "mtime": "1665600418",
+      "size": "251174",
+      "md5": "9ff29431012af08baccdf38f294d6dbc",
+      "crc32": "999e3a62",
+      "sha1": "e77d7ea8788da155b0e650a6772b60cd217a620c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "springfieldnl-2022-10-12T13:46:55.854900-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665600423",
+      "size": "1504",
+      "md5": "e05fe52f54db5944557746b6f2adf87e",
+      "crc32": "f6c334da",
+      "sha1": "e1092cf220d3d05f2f215f5143c2da6283b7eed9",
+      "format": "JSON"
+    },
+    {
+      "name": "springfieldnl-2022-10-12T13:46:55.854900-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665600425",
+      "size": "86388",
+      "md5": "8cfbe0d8b7fc0f28f9226e15891f8ce8",
+      "crc32": "7dd10443",
+      "sha1": "9597fa9b09f0df0576084ce85d38a2575fcedee5",
+      "format": "JSON"
+    },
+    {
+      "name": "springfieldnl-2022-10-12T13:46:55.854900-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "springfieldnl-2022-10-12T13:46:55.854900-05:00.jpg",
+      "mtime": "1665600522",
+      "size": "8969",
+      "md5": "bbdda649de71fd0d0e782a5baea35411",
+      "crc32": "b275b9d7",
+      "sha1": "07c51797160033550a7a1544b656251c9ac6e674"
+    },
+    {
       "name": "springfieldnl-2022_archive.torrent",
       "source": "metadata",
-      "btih": "84022bea4c52b4baf50146927c657ce00df5ade7",
-      "mtime": "1665475819",
-      "size": "55974",
-      "md5": "22c1e8ea9ae201b3d710717df2f76d77",
-      "crc32": "4347b381",
-      "sha1": "56c0e402a233e2014a071c781c1238a0d366acc5",
+      "btih": "e4e61ed690d8fe0979306248bf78810d9bb0e41c",
+      "mtime": "1665600534",
+      "size": "59843",
+      "md5": "7b8ba2aa029ea3b80c1eb00368d1f815",
+      "crc32": "4d11ccae",
+      "sha1": "9472ee513ac0ff872a700869976d9c5364ccbd98",
       "format": "Archive BitTorrent"
     },
     {
       "name": "springfieldnl-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fc95bc13f035c629279b2c79d477a57d",
+      "md5": "6981d440fa3503483e951c6f1a5b3fb8",
       "summation": "md5"
     },
     {
       "name": "springfieldnl-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665475773",
-      "size": "344064",
-      "md5": "89a62ea461c174e1026b3ac637a65972",
-      "crc32": "6ef02fae",
-      "sha1": "3b2d2c19171aa799c582f3c5177327bb39f7187b",
+      "mtime": "1665600435",
+      "size": "364544",
+      "md5": "2c5a82a16aaab9f6cee0d5f56ab9d7c4",
+      "crc32": "c46022e0",
+      "sha1": "df3e49e4538742ad983b924153c2748221b637bf",
       "format": "Metadata"
     },
     {
@@ -2658,9 +2844,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 257,
-  "item_last_updated": 1665475819,
-  "item_size": 17412550,
+  "files_count": 275,
+  "item_last_updated": 1665600534,
+  "item_size": 18534994,
   "metadata": {
     "identifier": "springfieldnl-2022",
     "collection": [
@@ -2678,7 +2864,7 @@
     "addeddate": "2022-09-20 19:30:04"
   },
   "server": "ia801504.us.archive.org",
-  "uniq": 1359439539,
+  "uniq": 2134077218,
   "workable_servers": [
     "ia801504.us.archive.org",
     "ia601504.us.archive.org"
