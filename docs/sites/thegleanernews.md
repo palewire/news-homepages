@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 43 screenshots with the Internet Archive.
+The archiving routine has saved 44 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 43 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-12T10:05:42.464537-05:00.jpg">
+  <img src="https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-12T10:05:42.464537-05:00.jpg"
+     alt="The Gleaner at 2022-10-12 10:05:46-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-12T10:05:42.464537-05:00.jpg">October 12 at 10:05 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-11T22:53:57.342609-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-06T23:26:10.428673-05:00.jpg">October 6 at 11:26 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-06T10:08:09.038451-05:00.jpg">
-  <img src="https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-06T10:08:09.038451-05:00.jpg"
-     alt="The Gleaner at 2022-10-06 10:08:12-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-06T10:08:09.038451-05:00.jpg">October 6 at 10:08 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 43 hyperlink lists with the Internet Archive.
+The archiving routine has saved 44 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 12 at 10:05 AM](https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-12T10:05:42.464537-05:00.hyperlinks.json) |
 | [October 11 at 10:54 PM](https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-11T22:53:57.342609-05:00.hyperlinks.json) |
 | [October 11 at 10:15 AM](https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-11T10:15:14.290910-05:00.hyperlinks.json) |
 | [October 10 at 10:54 PM](https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-10T22:54:24.906863-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 10:43 PM](https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-08T22:43:28.043613-05:00.hyperlinks.json) |
 | [October 8 at 10:08 AM](https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-08T10:08:46.258028-05:00.hyperlinks.json) |
 | [October 7 at 10:43 PM](https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-07T22:42:55.150936-05:00.hyperlinks.json) |
-| [October 7 at 10:11 AM](https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-07T10:11:47.509120-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 43 accessibility trees with the Internet Archive.
+The archiving routine has saved 44 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 12 at 10:05 AM](https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-12T10:05:42.464537-05:00.accessibility.json) |
 | [October 11 at 10:54 PM](https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-11T22:53:57.342609-05:00.accessibility.json) |
 | [October 11 at 10:15 AM](https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-11T10:15:14.290910-05:00.accessibility.json) |
 | [October 10 at 10:54 PM](https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-10T22:54:24.906863-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 10:43 PM](https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-08T22:43:28.043613-05:00.accessibility.json) |
 | [October 8 at 10:08 AM](https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-08T10:08:46.258028-05:00.accessibility.json) |
 | [October 7 at 10:43 PM](https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-07T22:42:55.150936-05:00.accessibility.json) |
-| [October 7 at 10:11 AM](https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-07T10:11:47.509120-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 12 at 10:05 AM](https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-12T10:05:42.464537-05:00.lighthouse.json) |
 | [October 11 at 10:54 PM](https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-11T22:53:57.342609-05:00.lighthouse.json) |
 | [October 11 at 10:15 AM](https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-11T10:15:14.290910-05:00.lighthouse.json) |
 | [October 10 at 10:54 PM](https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-10T22:54:24.906863-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 10:43 PM](https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-08T22:43:28.043613-05:00.lighthouse.json) |
 | [October 8 at 10:08 AM](https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-08T10:08:46.258028-05:00.lighthouse.json) |
 | [October 7 at 10:43 PM](https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-07T22:42:55.150936-05:00.lighthouse.json) |
-| [October 7 at 10:11 AM](https://archive.org/download/thegleanernews-2022/thegleanernews-2022-10-07T10:11:47.509120-05:00.lighthouse.json) |
 
 
 

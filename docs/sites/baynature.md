@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 200 screenshots with the Internet Archive.
+The archiving routine has saved 201 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 200 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baynature-2022/baynature-2022-10-12T08:59:17.749773-07:00.jpg">
+  <img src="https://archive.org/download/baynature-2022/baynature-2022-10-12T08:59:17.749773-07:00.jpg"
+     alt="Bay Nature at 2022-10-12 08:59:20-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baynature-2022/baynature-2022-10-12T08:59:17.749773-07:00.jpg">October 12 at 8:59 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baynature-2022/baynature-2022-10-11T23:23:27.288332-07:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/baynature-2022/baynature-2022-10-06T21:38:02.910482-07:00.jpg">October 6 at 9:38 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/baynature-2022/baynature-2022-10-06T09:02:36.796949-07:00.jpg">
-  <img src="https://archive.org/download/baynature-2022/baynature-2022-10-06T09:02:36.796949-07:00.jpg"
-     alt="Bay Nature at 2022-10-06 09:02:38-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/baynature-2022/baynature-2022-10-06T09:02:36.796949-07:00.jpg">October 6 at 9:02 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 202 hyperlink lists with the Internet Archive.
+The archiving routine has saved 203 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 12 at 8:59 AM](https://archive.org/download/baynature-2022/baynature-2022-10-12T08:59:17.749773-07:00.hyperlinks.json) |
 | [October 11 at 11:23 PM](https://archive.org/download/baynature-2022/baynature-2022-10-11T23:23:27.288332-07:00.hyperlinks.json) |
 | [October 11 at 9:17 AM](https://archive.org/download/baynature-2022/baynature-2022-10-11T09:17:52.282035-07:00.hyperlinks.json) |
 | [October 10 at 11:23 PM](https://archive.org/download/baynature-2022/baynature-2022-10-10T23:23:33.682183-07:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 8 at 10:15 PM](https://archive.org/download/baynature-2022/baynature-2022-10-08T22:15:06.713004-07:00.hyperlinks.json) |
 | [October 8 at 9:12 AM](https://archive.org/download/baynature-2022/baynature-2022-10-08T09:11:59.421544-07:00.hyperlinks.json) |
 | [October 7 at 10:37 PM](https://archive.org/download/baynature-2022/baynature-2022-10-07T22:37:30.133626-07:00.hyperlinks.json) |
-| [October 7 at 9:26 AM](https://archive.org/download/baynature-2022/baynature-2022-10-07T09:26:15.545384-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 202 accessibility trees with the Internet Archive.
+The archiving routine has saved 203 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 12 at 8:59 AM](https://archive.org/download/baynature-2022/baynature-2022-10-12T08:59:17.749773-07:00.accessibility.json) |
 | [October 11 at 11:23 PM](https://archive.org/download/baynature-2022/baynature-2022-10-11T23:23:27.288332-07:00.accessibility.json) |
 | [October 11 at 9:17 AM](https://archive.org/download/baynature-2022/baynature-2022-10-11T09:17:52.282035-07:00.accessibility.json) |
 | [October 10 at 11:23 PM](https://archive.org/download/baynature-2022/baynature-2022-10-10T23:23:33.682183-07:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 8 at 10:15 PM](https://archive.org/download/baynature-2022/baynature-2022-10-08T22:15:06.713004-07:00.accessibility.json) |
 | [October 8 at 9:12 AM](https://archive.org/download/baynature-2022/baynature-2022-10-08T09:11:59.421544-07:00.accessibility.json) |
 | [October 7 at 10:37 PM](https://archive.org/download/baynature-2022/baynature-2022-10-07T22:37:30.133626-07:00.accessibility.json) |
-| [October 7 at 9:26 AM](https://archive.org/download/baynature-2022/baynature-2022-10-07T09:26:15.545384-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 162 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 163 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 12 at 8:59 AM](https://archive.org/download/baynature-2022/baynature-2022-10-12T08:59:17.749773-07:00.lighthouse.json) |
 | [October 11 at 11:23 PM](https://archive.org/download/baynature-2022/baynature-2022-10-11T23:23:27.288332-07:00.lighthouse.json) |
 | [October 11 at 9:17 AM](https://archive.org/download/baynature-2022/baynature-2022-10-11T09:17:52.282035-07:00.lighthouse.json) |
 | [October 10 at 11:23 PM](https://archive.org/download/baynature-2022/baynature-2022-10-10T23:23:33.682183-07:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 8 at 9:12 AM](https://archive.org/download/baynature-2022/baynature-2022-10-08T09:11:59.421544-07:00.lighthouse.json) |
 | [October 7 at 10:37 PM](https://archive.org/download/baynature-2022/baynature-2022-10-07T22:37:30.133626-07:00.lighthouse.json) |
 | [October 7 at 9:26 AM](https://archive.org/download/baynature-2022/baynature-2022-10-07T09:26:15.545384-07:00.lighthouse.json) |
-| [October 6 at 9:38 PM](https://archive.org/download/baynature-2022/baynature-2022-10-06T21:38:02.910482-07:00.lighthouse.json) |
 
 
 

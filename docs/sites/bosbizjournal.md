@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 118 screenshots with the Internet Archive.
+The archiving routine has saved 119 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 118 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-12T11:59:19.986649-04:00.jpg">
+  <img src="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-12T11:59:19.986649-04:00.jpg"
+     alt="Boston Business Journal at 2022-10-12 11:59:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-12T11:59:19.986649-04:00.jpg">October 12 at 11:59 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-12T02:23:02.061702-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-07T00:37:44.622649-04:00.jpg">October 7 at 12:37 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-06T12:02:19.306438-04:00.jpg">
-  <img src="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-06T12:02:19.306438-04:00.jpg"
-     alt="Boston Business Journal at 2022-10-06 12:02:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-06T12:02:19.306438-04:00.jpg">October 6 at 12:02 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 118 hyperlink lists with the Internet Archive.
+The archiving routine has saved 119 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 12 at 11:59 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-12T11:59:19.986649-04:00.hyperlinks.json) |
 | [October 12 at 2:23 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-12T02:23:02.061702-04:00.hyperlinks.json) |
 | [October 11 at 12:19 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-11T12:19:29.961279-04:00.hyperlinks.json) |
 | [October 11 at 2:23 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-11T02:23:00.140356-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 9 at 1:15 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-09T01:15:24.992103-04:00.hyperlinks.json) |
 | [October 8 at 12:12 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-08T12:12:00.507506-04:00.hyperlinks.json) |
 | [October 8 at 1:36 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-08T01:36:13.873546-04:00.hyperlinks.json) |
-| [October 7 at 12:32 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-07T12:32:21.212890-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 117 accessibility trees with the Internet Archive.
+The archiving routine has saved 118 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 12 at 11:59 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-12T11:59:19.986649-04:00.accessibility.json) |
 | [October 12 at 2:23 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-12T02:23:02.061702-04:00.accessibility.json) |
 | [October 11 at 12:19 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-11T12:19:29.961279-04:00.accessibility.json) |
 | [October 11 at 2:23 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-11T02:23:00.140356-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 9 at 1:15 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-09T01:15:24.992103-04:00.accessibility.json) |
 | [October 8 at 12:12 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-08T12:12:00.507506-04:00.accessibility.json) |
 | [October 8 at 1:36 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-08T01:36:13.873546-04:00.accessibility.json) |
-| [October 7 at 12:32 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-07T12:32:21.212890-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 118 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 119 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 12 at 11:59 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-12T11:59:19.986649-04:00.lighthouse.json) |
 | [October 12 at 2:23 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-12T02:23:02.061702-04:00.lighthouse.json) |
 | [October 11 at 12:19 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-11T12:19:29.961279-04:00.lighthouse.json) |
 | [October 11 at 2:23 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-11T02:23:00.140356-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 9 at 1:15 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-09T01:15:24.992103-04:00.lighthouse.json) |
 | [October 8 at 12:12 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-08T12:12:00.507506-04:00.lighthouse.json) |
 | [October 8 at 1:36 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-08T01:36:13.873546-04:00.lighthouse.json) |
-| [October 7 at 12:32 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-10-07T12:32:21.212890-04:00.lighthouse.json) |
 
 
 
