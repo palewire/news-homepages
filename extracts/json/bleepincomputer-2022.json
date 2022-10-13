@@ -1,5 +1,5 @@
 {
-  "created": 1665658123,
+  "created": 1665702480,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/15/items/bleepincomputer-2022",
@@ -9874,31 +9874,93 @@
       "sha1": "e3936624d0be6676ec18ce347424bb1639add524"
     },
     {
+      "name": "bleepincomputer-2022-10-13T19:06:06.483735-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665702372",
+      "size": "30986",
+      "md5": "6ae0717b75def759fc196832a4ef551d",
+      "crc32": "b7ca8849",
+      "sha1": "7b9af2e64270ff8573d8d957331719e9811545ad",
+      "format": "JSON"
+    },
+    {
+      "name": "bleepincomputer-2022-10-13T19:06:06.483735-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665702374",
+      "size": "31376",
+      "md5": "770ba7dc3352dcca51495c8a3bc184f2",
+      "crc32": "48c3308b",
+      "sha1": "d6e2b86362ab52d542dedfad16a3b05ae77fa58c",
+      "format": "JSON"
+    },
+    {
+      "name": "bleepincomputer-2022-10-13T19:06:06.483735-04:00.jpg",
+      "source": "original",
+      "mtime": "1665702371",
+      "size": "287861",
+      "md5": "5d71519f732d8ec15a77c127ad382bba",
+      "crc32": "5168f89b",
+      "sha1": "2cb1b065f01e9462d36d97e4491384a3e62f4269",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bleepincomputer-2022-10-13T19:06:06.483735-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665702375",
+      "size": "1537",
+      "md5": "564d6c7fe55ab34bedea8555f91619f3",
+      "crc32": "16021123",
+      "sha1": "02ddc1704cf134c09b8892f5337a7b0a2c618c37",
+      "format": "JSON"
+    },
+    {
+      "name": "bleepincomputer-2022-10-13T19:06:06.483735-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665702377",
+      "size": "40933",
+      "md5": "291e03a35d49b037675e44b5afe3db99",
+      "crc32": "1904568c",
+      "sha1": "62aaca7026aa6407707f45f6a2e0802449bcbb1d",
+      "format": "JSON"
+    },
+    {
+      "name": "bleepincomputer-2022-10-13T19:06:06.483735-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bleepincomputer-2022-10-13T19:06:06.483735-04:00.jpg",
+      "mtime": "1665702454",
+      "size": "10157",
+      "md5": "f8d088b2ec61e01d91ada72da78087f9",
+      "crc32": "909e7d86",
+      "sha1": "db23d7b13142685e5c253fa51b733a9034876adf"
+    },
+    {
       "name": "bleepincomputer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "423a78b4db3b0d5abac89cf03e92f954b7843a53",
-      "mtime": "1665658108",
-      "size": "208931",
-      "md5": "6400c5963dcf89be73d910e3cb9da6d5",
-      "crc32": "874527d6",
-      "sha1": "cfaa96485e8ceddace1daa434535418a6123c622",
+      "btih": "e72602cbd8ffcea159b4af5a9866e9cf966ff0c4",
+      "mtime": "1665702468",
+      "size": "210241",
+      "md5": "fa508ddc267ddba3d72bc37098972c8d",
+      "crc32": "fc0e714c",
+      "sha1": "9f645c2c3de0058d46ee91b2a83b4e0514965e1a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bleepincomputer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "40f7f9c84a5b9f620683ec3e3990daa7",
+      "md5": "1ce0c9632cff9ea6a50d66310c7346e8",
       "summation": "md5"
     },
     {
       "name": "bleepincomputer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665658021",
-      "size": "1228800",
-      "md5": "c6f76d9aaebb621ec55bd19c0048728e",
-      "crc32": "cf725fbc",
-      "sha1": "cfb3c40be440af398d19b7faff8befd4e3755a83",
+      "mtime": "1665702386",
+      "size": "1236992",
+      "md5": "762685d870b3b70a8ebdf07171aa9db3",
+      "crc32": "616f88c3",
+      "sha1": "78c3528880f973f00ba347c1bba1dfc20a21fa88",
       "format": "Metadata"
     },
     {
@@ -9912,9 +9974,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 958,
-  "item_last_updated": 1665658108,
-  "item_size": 65159168,
+  "files_count": 964,
+  "item_last_updated": 1665702468,
+  "item_size": 65571520,
   "metadata": {
     "identifier": "bleepincomputer-2022",
     "collection": [
@@ -9932,7 +9994,7 @@
     "addeddate": "2022-07-25 06:47:16"
   },
   "server": "ia801405.us.archive.org",
-  "uniq": 406373469,
+  "uniq": 746328867,
   "workable_servers": [
     "ia801405.us.archive.org",
     "ia601405.us.archive.org"

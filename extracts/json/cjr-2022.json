@@ -1,5 +1,13 @@
 {
-  "created": 1665658362,
+  "cjr-2022": {
+    "url": "https://www.cjr.org/",
+    "job_id": "spn2-7c003eb53b5785d4791c35ec61a2c33e6ca4f392",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "resources": [],
+    "message": "Job failed."
+  },
+  "created": 1665705212,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/22/items/cjr-2022",
@@ -13178,31 +13186,93 @@
       "sha1": "4f88ceeb9c98c828b2f394482a5a8a849324e44d"
     },
     {
+      "name": "cjr-2022-10-13T19:08:30.134906-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665702519",
+      "size": "12821",
+      "md5": "723289298a6fbd99f2a7a852f35624e5",
+      "crc32": "eb485217",
+      "sha1": "a33dfe2f2ce20eb662804ecca16fc569b1cd5ec1",
+      "format": "JSON"
+    },
+    {
+      "name": "cjr-2022-10-13T19:08:30.134906-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665702520",
+      "size": "15262",
+      "md5": "0c276035d3af1a043c5928a923f288dd",
+      "crc32": "cc25a7d3",
+      "sha1": "5e5642e9fe6cf61de159b447b766f47d65b7a937",
+      "format": "JSON"
+    },
+    {
+      "name": "cjr-2022-10-13T19:08:30.134906-04:00.jpg",
+      "source": "original",
+      "mtime": "1665702517",
+      "size": "333580",
+      "md5": "992d5c349bcd298cf4305127dd4ff7b4",
+      "crc32": "4f4329b9",
+      "sha1": "53e4e2881d77927e9c07099e021ef6352c7ebddf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cjr-2022-10-13T19:08:30.134906-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665702522",
+      "size": "1432",
+      "md5": "04a483069efddb0d4739fe3d4d2119ec",
+      "crc32": "9152cc86",
+      "sha1": "12d267edb330f24f3791a794bbd8c890a22df9c0",
+      "format": "JSON"
+    },
+    {
+      "name": "cjr-2022-10-13T19:08:30.134906-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665702524",
+      "size": "200",
+      "md5": "1767ea21e5eb64a5cac19c18a34c05ee",
+      "crc32": "9413ecd4",
+      "sha1": "2afbd595d0e954ce73437e8deda913b16e1eb9f5",
+      "format": "JSON"
+    },
+    {
+      "name": "cjr-2022-10-13T19:08:30.134906-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cjr-2022-10-13T19:08:30.134906-04:00.jpg",
+      "mtime": "1665702600",
+      "size": "10640",
+      "md5": "4197d9d77a90abcd42eb0a62a2041da6",
+      "crc32": "b6860d28",
+      "sha1": "b103a74c14ddf80ae36bd6d1b797bab66b5709ea"
+    },
+    {
       "name": "cjr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "74dbbe82f9e13862680dd16b3a76e799e9174635",
-      "mtime": "1665658320",
-      "size": "261843",
-      "md5": "c99a378f62c5bfa86e440eb67f17ca49",
-      "crc32": "7d111ae9",
-      "sha1": "3352286bd1aa5265536e43fea11e6181f3ff8f68",
+      "btih": "06574c74a7d970b7d206b72447728f6c6ac79165",
+      "mtime": "1665702616",
+      "size": "263079",
+      "md5": "b59324038a064756a238dbb0ac5eec7e",
+      "crc32": "b059fa15",
+      "sha1": "68356d9ddb7eb2da83e8d697ae0f38c394675dbb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cjr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fedac36cabed4b0b02ce34a77cfbe55c",
+      "md5": "18676970e64bc323b289732cade9f8de",
       "summation": "md5"
     },
     {
       "name": "cjr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665658160",
-      "size": "1568768",
-      "md5": "624a9f11a6d23b3c88b5d8b041bf7464",
-      "crc32": "1e314153",
-      "sha1": "56f0b7d6052d43e999f0023ff3da9b9f16d6fb88",
+      "mtime": "1665702534",
+      "size": "1572864",
+      "md5": "97f46852e36453633cddc4ac53afa42e",
+      "crc32": "7b9b6b09",
+      "sha1": "3e93fc521cc22b4cfb5f1d79823a4f8a442a9359",
       "format": "Metadata"
     },
     {
@@ -13216,9 +13286,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1273,
-  "item_last_updated": 1665658320,
-  "item_size": 82964752,
+  "files_count": 1279,
+  "item_last_updated": 1665702616,
+  "item_size": 83344019,
   "metadata": {
     "identifier": "cjr-2022",
     "collection": [
@@ -13235,10 +13305,10 @@
     "publicdate": "2022-06-24 22:53:41",
     "addeddate": "2022-06-24 22:53:41"
   },
-  "server": "ia601508.us.archive.org",
-  "uniq": 768547254,
+  "server": "ia801508.us.archive.org",
+  "uniq": 556918427,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia801508.us.archive.org",
+    "ia601508.us.archive.org"
   ]
 }

@@ -1,6 +1,5 @@
 {
-  "conflict": 1665658317,
-  "created": 1665658317,
+  "created": 1665702565,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/20/items/20minutes-2022",
@@ -23290,31 +23289,93 @@
       "sha1": "17078b7eb41aee70a0e53ae6c7dace758e0747e8"
     },
     {
+      "name": "20minutes-2022-10-14T01:02:56.658656+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665702202",
+      "size": "60777",
+      "md5": "3ea3dd56ac25a9c2750b9cdacad5dfa5",
+      "crc32": "9bc851ba",
+      "sha1": "8cd1e7f7232dd4b1ec1c2bc1d35d0ac4cde46f54",
+      "format": "JSON"
+    },
+    {
+      "name": "20minutes-2022-10-14T01:02:56.658656+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665702204",
+      "size": "90814",
+      "md5": "4ed8eb2e727e2e3c936ed2e0be3bf15e",
+      "crc32": "3864a23f",
+      "sha1": "9c5aa87a04aed375bc7c9b7ea01147c8f3469e22",
+      "format": "JSON"
+    },
+    {
+      "name": "20minutes-2022-10-14T01:02:56.658656+02:00.jpg",
+      "source": "original",
+      "mtime": "1665702200",
+      "size": "250832",
+      "md5": "b1e6afdc3cabfb6e09d1b6fa9611717b",
+      "crc32": "d14896b8",
+      "sha1": "dc19aa79ad5a01a1961413dacaeff70ba58b121f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "20minutes-2022-10-14T01:02:56.658656+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665702206",
+      "size": "1470",
+      "md5": "3c3c6f621304b5b8ae38ef9b17c4265a",
+      "crc32": "863d134a",
+      "sha1": "a719e80d3705ff6cf86611577aa9929799039e2e",
+      "format": "JSON"
+    },
+    {
+      "name": "20minutes-2022-10-14T01:02:56.658656+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665702208",
+      "size": "46862",
+      "md5": "676f61e707c702aaaa79f3ca040f5354",
+      "crc32": "97040563",
+      "sha1": "5ddd13f1c11d431452621af936697fadd0ffbbda",
+      "format": "JSON"
+    },
+    {
+      "name": "20minutes-2022-10-14T01:02:56.658656+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "20minutes-2022-10-14T01:02:56.658656+02:00.jpg",
+      "mtime": "1665702475",
+      "size": "9255",
+      "md5": "6c858e1cf242f54acc3e2f531bbfcb1d",
+      "crc32": "da2c4303",
+      "sha1": "45e016332f9574bac6791ae2aab0fec53945f96f"
+    },
+    {
       "name": "20minutes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ab38a47dd2f3c72c7da1a2759e82456cfeb363e7",
-      "mtime": "1665658272",
-      "size": "476275",
-      "md5": "c3547aae5ae980a77d76af4f5004e20d",
-      "crc32": "72ea4a80",
-      "sha1": "6ea6911de22127ba98e3d4a980661956db47b2a2",
+      "btih": "c5bb0586bb682d475461525912b93f697246c14e",
+      "mtime": "1665702516",
+      "size": "477548",
+      "md5": "702b3716dbf85074eb035e7c311d3736",
+      "crc32": "a0c2b376",
+      "sha1": "5fd3f3fe5e8005f86a9e676d2f8628128a625a7f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "20minutes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "550459ec7f5dc084f67e983e20408c0d",
+      "md5": "85820d28128385fd7924474a0bb975c5",
       "summation": "md5"
     },
     {
       "name": "20minutes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665657999",
-      "size": "2748416",
-      "md5": "d26f8e1fab3b2e5ec62676f12bfbebdb",
-      "crc32": "a4b3b702",
-      "sha1": "93f28bca9f7f5d87eb9f81a210775027b6f5235a",
+      "mtime": "1665702273",
+      "size": "2756608",
+      "md5": "d7eebe3164c90524f944712add39b88d",
+      "crc32": "ab9d8663",
+      "sha1": "8f325011983ce3e2572c17457a1674ab25689215",
       "format": "Metadata"
     },
     {
@@ -23339,9 +23400,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 2244,
-  "item_last_updated": 1665658272,
-  "item_size": 199646320,
+  "files_count": 2250,
+  "item_last_updated": 1665702516,
+  "item_size": 200115795,
   "metadata": {
     "identifier": "20minutes-2022",
     "collection": [
@@ -23358,21 +23419,10 @@
     "publicdate": "2022-04-09 13:42:29",
     "addeddate": "2022-04-09 13:42:29"
   },
-  "pending_tasks": true,
-  "server": "ia601509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3438239746,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 394564706,
+  "server": "ia801509.us.archive.org",
+  "uniq": 1613234942,
   "workable_servers": [
+    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }
