@@ -1,5 +1,6 @@
 {
-  "created": 1665677706,
+  "conflict": 1665692847,
+  "created": 1665692847,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/23/items/washtimes-2022",
@@ -22776,31 +22777,88 @@
       "sha1": "9cd94e70eb463a05eb2bda2959224609fee3f1ac"
     },
     {
+      "name": "washtimes-2022-10-13T16:25:13.964301-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665692744",
+      "size": "101894",
+      "md5": "5fe72d59e3f3abc6d11fccdc65b95f13",
+      "crc32": "1743516f",
+      "sha1": "60297f79bc3b1166a6aff2219398585922939cc3",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-10-13T16:25:13.964301-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665692746",
+      "size": "62123",
+      "md5": "a0768ed3c3930cccaf2c3e0338efe54f",
+      "crc32": "2907bb30",
+      "sha1": "fc91b10964222c803d993eba5fb81de58943c27f",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-10-13T16:25:13.964301-04:00.jpg",
+      "source": "original",
+      "mtime": "1665692742",
+      "size": "372180",
+      "md5": "80f33f18ed259f8d8fa0d24a642c060a",
+      "crc32": "7de2c884",
+      "sha1": "c749dd83bdb9d57693ad4c73f0614cf06d454396",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "washtimes-2022-10-13T16:25:13.964301-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665692748",
+      "size": "1522",
+      "md5": "b16894adf8e09f560ce49164c7157ba7",
+      "crc32": "7cf7f92c",
+      "sha1": "7bf54309fc513e435bf7ca0ad33a54057beec9cb",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-10-13T16:25:13.964301-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665692750",
+      "size": "57614",
+      "md5": "7f2d271a805a7f39bd5f490d231a7f70",
+      "crc32": "1d42f2f2",
+      "sha1": "39aa0dc4e37838cc649bef440046fe2935173d27",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-10-13T16:25:13.964301-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "washtimes-2022-10-13T16:25:13.964301-04:00.jpg"
+    },
+    {
       "name": "washtimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f0163309f8feedd1b92d16661616898f8c35fed2",
-      "mtime": "1665677695",
-      "size": "467720",
-      "md5": "95c22a46630ac8b9f06ca532f51b2d37",
-      "crc32": "0c53a465",
-      "sha1": "b987b0c28600b703fe6df907966ccf09e72210ab",
+      "btih": "c248e607affc2c93e36f93930367f061f0461fbe",
+      "mtime": "1665692824",
+      "size": "468789",
+      "md5": "8846e34a78ef890dee24de8204fca701",
+      "crc32": "c070e867",
+      "sha1": "42ac5c1ff2f4792f74c34ac2cb148d3aad3daf25",
       "format": "Archive BitTorrent"
     },
     {
       "name": "washtimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "af1102141c8a028520161858456f86f6",
+      "md5": "4fc788cf8e801412f29fdf24535fde01",
       "summation": "md5"
     },
     {
       "name": "washtimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665677568",
-      "size": "2682880",
-      "md5": "257d7cead4778eaac20595b98f2ec101",
-      "crc32": "ae45e2e1",
-      "sha1": "ec22fdeaf931497c83ed6ebbc6769e8cdd96a7a7",
+      "mtime": "1665692753",
+      "size": "2691072",
+      "md5": "920ae62ba4c4bb3364ae57850f38a847",
+      "crc32": "1a73157a",
+      "sha1": "c2a6e7447f9e877df59f99316cd9b2da2441a309",
       "format": "Metadata"
     },
     {
@@ -22814,9 +22872,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2193,
-  "item_last_updated": 1665677695,
-  "item_size": 243399167,
+  "files_count": 2199,
+  "item_last_updated": 1665692824,
+  "item_size": 244003761,
   "metadata": {
     "identifier": "washtimes-2022",
     "collection": [
@@ -22833,10 +22891,21 @@
     "publicdate": "2022-03-25 18:45:19",
     "addeddate": "2022-03-25 18:45:19"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 745979328,
+  "pending_tasks": true,
+  "server": "ia902505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3438739169,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 544744664,
   "workable_servers": [
-    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }
